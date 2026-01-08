@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2025-12-25T00:00:34.239Z
+- Updated At: 2026-01-08T00:00:37.257Z
 
 ## Products
 
@@ -81,12 +81,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_04f2ee95-a73b-488f-a651-9921e8a69f23.jpg?v=1745758993
   Price: $679.00 AUD
 - [Karaca Fine Pearl Grace Black 58-Piece Dinner Set | Luxury Tableware](https://www.mitakitchenware.com/products/karaca-fine-pearl-grace-black-58-pieces-pearl-dinnerware-set-for-12-persons): Shop the Karaca Fine Pearl Grace Black 58-Piece Dinnerware Set for 12. Luxury pearl-infused plates with black & gold detailing. Fast delivery Australia-wide.
-  Updated: 2025-11-26T23:59:07Z
+  Updated: 2025-12-29T07:17:49Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_cff4bdfa-4427-4895-8adc-6fc0cf471fc0.jpg?v=1708234991
-  Price: $799.00 AUD
+  Price: $759.00 AUD
 - [Karaca Fine Pearl Grace Black 62 Pieces Pearl](https://www.mitakitchenware.com/products/karaca-fine-pearl-grace-black-62-pieces-pearl-dinnerware-set-for-12-persons): Elevate your dining experience with Karaca Fine Pearl Grace Black 62 Pieces Pearl Dinnerware Set for 12 Persons. Shop now for elegance and style.
   Updated: 2025-09-19T11:38:35Z
   Vendor: Mita Kitchenware
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.1815-20.jpg?v=1708236363
   Price: $59.00 AUD
 - [Karaca Retro Beige 6 Piece Cake Set - Mita Kitchenware](https://www.mitakitchenware.com/products/karaca-retro-beige-6-piece-cake-set): Elevate your kitchen with Karaca Retro Beige 6 Piece Cake Set. Vintage elegance meets modern craftsmanship in this uniquely designed set.
-  Updated: 2025-11-04T00:12:06Z
+  Updated: 2025-12-27T07:36:25Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -144,14 +144,14 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.1816-20.jpg?v=1708236524
   Price: $59.00 AUD
 - [Karaca Zeugma 19 cm Oval Kayak - Mita Kitchenware](https://www.mitakitchenware.com/products/karaca-zeugma-19-cm-oval-kayak): Shop the Karaca Zeugma 19 cm Oval Kayak - perfect for your next adventure on the water. High-quality and durable design for all your kayaking needs.
-  Updated: 2025-11-23T20:11:13Z
+  Updated: 2026-01-04T10:00:39Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.2487-1.jpg?v=1708236755
   Price: $10.95 AUD
 - [Karaca Zeugma 20 cm Deep Plate - Mita Kitchenware](https://www.mitakitchenware.com/products/karaca-zeugma-20-cm-deep-plate): Shop the Karaca Zeugma 20 cm Deep Plate for a stylish addition to your tableware collection. Made from high-quality materials for durability.
-  Updated: 2025-11-23T20:10:56Z
+  Updated: 2026-01-04T09:06:30Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -165,14 +165,14 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/IMG_7207.jpg?v=1708236845
   Price: $79.00 AUD
 - [Karaca Zeugma Mosaic 19 cm Cake Plate - Mita](https://www.mitakitchenware.com/products/karaca-zeugma-mosaic-19-cm-cake-plate): Shop the Karaca Zeugma Mosaic 19 cm Cake Plate online. Add elegance to your table setting with this stunning mosaic cake plate.
-  Updated: 2025-11-23T20:11:25Z
+  Updated: 2026-01-04T09:08:24Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.2483-1.jpg?v=1708236860
   Price: $12.95 AUD
 - [Karaca Zeugma White 19 cm Cake Plate - Mita Kitchenware](https://www.mitakitchenware.com/products/karaca-zeugma-white-19-cm-cake-plate): Shop the elegant Karaca Zeugma White 19 cm Cake Plate for your next special occasion. Perfect for serving your favorite desserts in style.
-  Updated: 2025-09-19T11:41:13Z
+  Updated: 2026-01-04T09:06:01Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -227,20 +227,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-5041.jpg?v=1762845792
   Price: $69.00 AUD
-- [Karaca Hatır Plus Turkish Coffee Machine | Dual Brew | Red](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-red): Brew authentic Turkish coffee with Karaca Hatir Plus Turkish coffee machine. Enjoy sleek design and advanced features for the perfect cup every time!
-  Updated: 2025-12-21T11:16:22Z
+- [Karaca Hatir Plus 2-in-1 Turkish & Filter Coffee Machine – Red](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-red): Brew authentic Turkish & filter coffee at home with the Karaca Hatir Plus 2-in-1 Coffee Machine in Red. Stylish, compact & easy to use.
+  Updated: 2025-12-27T00:42:59Z
   Vendor: Mita Kitchenware
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/1_900W.jpg?v=1758282102
-  Price: $279.00 AUD
-- [Karaca Hatır Plus 2-in-1 Coffee Machine | Rosie Brown](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-rosie-brown): Enjoy Turkish & filter coffee with the Karaca Hatır Plus. Features a steel filter, auto brewing, and a 30-min heat function.
-  Updated: 2025-12-12T02:54:05Z
+  Price: $299.00 AUD
+- [Karaca Hatir Plus 2-in-1 Turkish & Filter Coffee Machine – Rosie Brown](https://www.mitakitchenware.com/products/karaca-hatir-plus-2-in-1-coffee-machine-rosie-brown): Brew authentic Turkish & filter coffee at home with the Karaca Hatir Plus 2-in-1 Coffee Machine in Rosie Brown. Stylish, compact & easy to use.
+  Updated: 2025-12-27T00:34:44Z
   Vendor: Mita Kitchenware
   Product Type: Kitchen Appliances
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/153.01.06.4920-300.jpg?v=1758282110
-  Price: $279.00 AUD
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/153.01.06.4920-300.jpg?v=1766752591
+  Price: $299.00 AUD
 - [Karaca Eva 2pk Cake Mold Set - Non-Stick & Durable](https://www.mitakitchenware.com/products/karaca-eva-2-piece-cake-set): Shop Karaca Eva Cake Set, 2pc with non-stick coating for easy baking. Durable metal molds ideal for any kitchen. Order now for a seamless cake experience!
   Updated: 2025-09-19T11:42:08Z
   Vendor: Mita Kitchenware
@@ -249,12 +249,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.1994-1.jpg?v=1758282113
   Price: $80.00 AUD
 - [Karaca Homely 1.5L Thermos: Hot & Cold Precision](https://www.mitakitchenware.com/products/karaca-homely-1-5-lt-thermos): Keep drinks perfect for hours with the Karaca Homely 1.5L Thermos. Durable, sleek, and ready for action, it's the ultimate beverage companion.
-  Updated: 2025-11-25T09:34:56Z
+  Updated: 2026-01-06T06:47:30Z
   Vendor: Mita Kitchenware
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_0949d21d-aa1f-422a-858f-87ed68e95e9c.jpg?v=1708235512
-  Price: $70.00 AUD
+  Price: $79.00 AUD
 - [Karaca Lexa Cream Heart Cake Mold 26 cm](https://www.mitakitchenware.com/products/karaca-lexa-cream-26-cm-heart-cake-mold): Perfect your baking with the Karaca Lexa 26 cm heart-shaped cake mold. Durable aluminum, elegant cream color. Ideal for sweet creations.
   Updated: 2025-09-19T11:42:09Z
   Vendor: Mita Kitchenware
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.1537-100.jpg?v=1758282134
   Price: $59.00 AUD
 - [Karaca Neoteric 1.9L Thermos - Stay Hot & Cold](https://www.mitakitchenware.com/products/karaca-neoteric-new-thermos-1-9-lt): Experience all-day temperature retention with the Karaca Neoteric 1.9L Thermos. Perfect for walks, picnics & trips - keeps beverages perfect.
-  Updated: 2025-11-05T07:13:14Z
+  Updated: 2026-01-04T21:51:56Z
   Vendor: Mita Kitchenware
   Product Type: Kitchenware
   Availability: Available
@@ -319,12 +319,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.07.9017-10.jpg?v=1758282187
   Price: $59.00 AUD
 - [Karaca Mai Selcuklu Series Snack Condiment Bowl 13.6](https://www.mitakitchenware.com/products/karaca-mai-selcuklu-series-snack-bowl-13-6-cm): Elevate dining with Karaca Mai Selcuklu snack bowl. A 13.6cm tribute to Turkish culture, blending tradition with modern flair.
-  Updated: 2025-11-19T08:04:23Z
+  Updated: 2025-12-26T11:36:16Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image8697918720957-1.jpg?v=1758282190
-  Price: $11.95 AUD
+  Price: $12.95 AUD
 - [Karaca Mesopotamia Copper Cezve | Handmade Coffee Pot](https://www.mitakitchenware.com/products/karaca-mesopotamia-large-coffee-pot): Experience traditional brewing with this handmade Karaca Mesopotamia Copper Coffee Pot. Durable, with excellent heat dispersion. Not dishwasher safe.
   Updated: 2025-11-12T05:21:22Z
   Vendor: Mita Kitchenware
@@ -346,13 +346,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image8697918726584-1.jpg?v=1758282205
   Price: $99.00 AUD
-- [Karaca Romeo Cookie Bowl – Pink Luxury Porcelain Tableware |](https://www.mitakitchenware.com/products/karaca-romeo-cookie): Discover the Karaca Romeo Cookie Bowl in soft pink porcelain. Elegant, durable, and handcrafted in Türkiye — perfect for cookies, desserts, and stylish serving.
-  Updated: 2025-11-13T21:55:30Z
+- [Karaca Romeo Pink Porcelain Snack Bowl – 14cm | Mita Kitchenware](https://www.mitakitchenware.com/products/karaca-romeo-pink-snack-bowl): Shop the Karaca Romeo Pink Porcelain Snack Bowl 14cm. Elegant small serving bowl for snacks, desserts & nibbles. Dishwasher safe & crafted in Türkiye.
+  Updated: 2025-12-26T23:27:18Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/FullSizeRender_6bce8db9-f80c-4330-86bc-870e8b1cf31e.jpg?v=1763028480
-  Price: $11.95 AUD
+  Price: $12.95 AUD
 - [Karaca Stone Green Coffee Cups Set - Perfect for Every Sip](https://www.mitakitchenware.com/products/karaca-stone-green-set-of-2-coffee-cups): Elevate your coffee moments with the Karaca Stone Green Set. Savor every sip in style with our durable stoneware cups and saucers - ideal for any coffee type.
   Updated: 2025-09-19T11:43:58Z
   Vendor: Mita Kitchenware
@@ -389,12 +389,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/61760CDC-3E15-4AD8-89F6-9BEF48022720.jpg?v=1758282256
   Price: $699.00 AUD
 - [Karaca Hatır Mod Milk Turkish Coffee Machine – Red](https://www.mitakitchenware.com/products/karaca-hatir-mod-milk-turkish-coffee-machine-red): Premium Turkish coffee machine with milk function, anti-overflow sensors, 5-cup capacity, ember-style flavor, and automatic heat control for perfect results.
-  Updated: 2025-12-06T10:22:25Z
+  Updated: 2025-12-26T12:02:24Z
   Vendor: Mita Kitchenware
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-9179.jpg?v=1758282260
-  Price: $190.00 AUD
+  Price: $199.00 AUD
 - [Karaca Frida 6-Person Tea Set | Turkish Teaware](https://www.mitakitchenware.com/products/karaca-frida-tea-set-for-6-persons): Savor tea like Frida Khalo with Karaca's exclusive Turkish tea set for six. Art-inspired glassware adds elegance to every sip.
   Updated: 2025-11-11T07:22:39Z
   Vendor: Mita Kitchenware
@@ -470,7 +470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4BEB5FF9-C13D-4451-992C-02951BB27B26.jpg?v=1758282359
     Price: $14.95 AUD
 - [Kütahya Zeugma Coffee Cup Set for Two](https://www.mitakitchenware.com/products/kutahya-zeugma-4-pce-coffee-cup-set): Elevate your coffee moments with the Kütahya Zeugma 4-piece set. Crafted porcelain with modern designs for a luxurious sip.
-  Updated: 2025-11-23T20:11:49Z
+  Updated: 2026-01-06T09:14:14Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee sets
   Availability: Available
@@ -483,12 +483,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL35PT0014_01.jpg?v=1758282374
   Price: $139.00 AUD
-- [Kütahya Skallop 35cm Cheese Platter - Light Pink](https://www.mitakitchenware.com/products/kutahya-skallop-35cm-cheese-platter-light-pink): Elevate your dining with the Kütahya Skallop Cheese Platter, a perfect blend of organic elegance and unique design by Karim Rashid.
-  Updated: 2025-09-19T11:46:34Z
+- [Kütahya Skallop 35cm Pink Cheese Platter | Designer Tableware Australia](https://www.mitakitchenware.com/products/products-kutahya-skallop-pink-cheese-platter-35cm): Shop the Kütahya Skallop 35cm pink cheese platter designed by Karim Rashid. Luxury porcelain serving platter with fast Australia-wide shipping.
+  Updated: 2026-01-04T21:37:29Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Skallop Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL35PT0023_01.jpg?v=1758282389
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL35PT0023_01.jpg?v=1767519455
   Price: $149.00 AUD
 - [Kütahya Porselen Skallop 30cm Salad/Fruit Bowl - Cream](https://www.mitakitchenware.com/products/kutahya-porselen-skallop-30cm-bowl-cream): Elevate your decor with the Karim Rashid Skallop 30cm cream bowl. Perfect for salads, fruit, or as a stylish statement piece.
   Updated: 2025-09-19T11:46:43Z
@@ -504,8 +504,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL02BKYS0014_01.jpg?v=1758282403
   Price: $179.00 AUD
-- [Skallop Kayak Set by Karim Rashid - Light Pink](https://www.mitakitchenware.com/products/kutahya-porselen-skallop-2-pce-28x19cm-kayak-set-pink): Elevate your table with the Kütahya Porselen Skallop 2pc Kayak Set. A blend of nature's fluidity & modern design by Karim Rashid.
-  Updated: 2025-09-19T11:47:01Z
+- [Skallop Kayak Set by Karim Rashid - Light Pink](https://www.mitakitchenware.com/products/kutahya-skallop-pink-kayak-set): Shop the Kütahya Skallop 2-piece pink kayak set by Karim Rashid. Luxury porcelain serveware with fast Australia-wide shipping.
+  Updated: 2026-01-04T22:02:11Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Skallop Collection
   Availability: Available
@@ -658,13 +658,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/kutahya-porselen-new-tuvana-kahve-takimi-gri-kahve-takimi-kutahya-porselen-15262-10-B.jpg?v=1708238008
   Price: $79.00 AUD
-- [Kütahya Porcelain Soho 24-Piece Dinner Set Blue](https://www.mitakitchenware.com/products/kuetahya-porcelain-soho-24-piece-dinner-set): Kütahya Porcelain Soho 24 Piece Dinner Set features modern gray ceramic designs with gold utensils, perfect for stylish and elegant dining occasions
-  Updated: 2025-08-17T03:44:33Z
+- [Kutahya Porcelain Soho Blue 24 Piece Dinner Set for 6](https://www.mitakitchenware.com/products/kutahya-porcelain-soho-blue-24-piece-dinner-set): Shop the Kutahya Porcelain Soho Blue 24 piece dinner set for 6. Includes plates, bowls & cake plates. Elegant modern blue porcelain dinnerware.
+  Updated: 2025-12-28T14:57:19Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SOH24Y2720P01_01.jpg?v=1708237532
-  Price: $299.00 AUD
+  Price: $289.00 AUD
 - [Kütahya Porselen SOHO 24 piece Dinner Set CINNAMON](https://www.mitakitchenware.com/products/kutahya-soho-24-piece-dinner-set-cinnamon): Elevate dining with the Turkish Kütahya Porselen SOHO 24-piece set. Quality porcelain with modern design for stylish durability. Buy now at Shop Mita.
   Updated: 2025-11-30T04:00:41Z
   Vendor: Mita Kitchenware
@@ -701,12 +701,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/kuetahya-porcelain-toledo-coffee-set-for-2-gift-box-tea-and-sets-241.webp?v=1741174931
   Price: $69.00 AUD
 - [Kütahya Porcelain Bone Rosa 29-Piece High-Grade Porcelain Dinner Set](https://www.mitakitchenware.com/products/kutahya-porcelain-bone-rosa-29-piece-dinnerware-set-white): Premium 29-piece high-grade porcelain dinnerware set by Kütahya. Award-winning Bone Rosa design. Elegant, durable, and perfect for luxury dining.
-  Updated: 2025-12-14T09:57:58Z
+  Updated: 2026-01-04T09:24:34Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/68149605-7547-45F2-B025-0F28A3A6935F.jpg?v=1726177235
-  Price: $759.00 AUD
+  Price: $749.00 AUD
 - [Kütahya Porcelain Tavola Puzzle Platter Serving Set](https://www.mitakitchenware.com/products/kutahya-porcelain-tavola-puzzle-plate-set): Elevate dining with the Kütahya Porcelain Tavola Puzzle Platter Set. Perfect for stylish salads, mezzes, and more. High-quality, creative design.
   Updated: 2025-08-08T21:08:11Z
   Vendor: Mita Kitchenware
@@ -792,7 +792,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/kutahya-porselen-galaxy-pasta-plate-29-cm-mix-granul-anthracite-grey-169.jpg?v=1738841767
   Price: $69.00 AUD
 - [Kütahya Galaxy Plate 30cm - Award-Winning Design](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-flat-plate-30-cm-mix-granule-beige): Shop the Plus X award-winning Kütahya Galaxy Flat Plate, 30cm in Mix Granule Beige, crafted in Turkiye. Nature-inspired tableware now in Australia.
-  Updated: 2025-04-25T08:57:31Z
+  Updated: 2025-12-25T20:16:49Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Galaxy Collection
   Availability: Available
@@ -806,7 +806,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/GLXM22DU83008.jpg?v=1708237342
   Price: $29.95 AUD
 - [Kutahya Galaxy Deep Plate 20cm - Unique Beige Elegance](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-deep-plate-20-cm-mix-granule-beige): Elevate dining with Kutahya's Galaxy Deep Plate. A touch of Turkish elegance in beige for a sensational table setting. Shop now.
-  Updated: 2025-11-29T08:11:57Z
+  Updated: 2025-12-25T09:54:39Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Galaxy Collection
   Availability: Available
@@ -819,33 +819,33 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/GLXM18KS83008_01.jpg?v=1708237274
   Price: $39.95 AUD
-- [Award-Winning Kutahya Porselen Galaxy Pasta Bowl](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-pasta-plate-29-cm-mix-granule-beige): Elevate dining with the Kutahya Porselen Galaxy Pasta Bowl. Designer beige granule finish brings restaurant quality to your table.
-  Updated: 2025-11-25T07:07:55Z
+- [Kütahya Galaxy Pasta Bowl 29cm – Designer Porcelain | Mita Kitchenware](https://www.mitakitchenware.com/products/kutahya-galaxy-porcelain-pasta-plate-bowl-29cm-beige): Shop the award-winning Kütahya Galaxy Pasta Bowl 29cm in beige granule porcelain. Premium Turkish design for modern dining, now available in Australia.
+  Updated: 2025-12-25T20:21:56Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Galaxy Collection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/B0AE3AF5-8D21-4C3C-97F2-69FEFDE048D9_4_5005_c.jpg?v=1708237433
   Price: $69.00 AUD
-- [Kütahya 30Cm Galaxy Flat Plate - Cream Granule](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-flat-plate-30-cm-mix-granule-cream): Elevate dining with the Kütahya Galaxy Plate. Perfect mix granule cream design for a unique table setting. Shop now for modern elegance!
-  Updated: 2025-08-01T18:02:41Z
+- [Kütahya Galaxy 30cm Flat Plate – Mix Granule Cream | Mita Kitchenware](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-flat-plate-30-cm-mix-granule-cream): Shop the Kütahya Galaxy 30cm flat plate in mix granule cream. Award-winning Turkish design with textured porcelain finish. Premium tableware at Mita Kitchenware.
+  Updated: 2025-12-25T21:25:49Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Galaxy Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/GLXM30DU83014.jpg?v=1708237394
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/5729668F-3FB4-4B13-A12E-976F4E1DC8A3_bb11eaf8-0170-4308-ad67-9813f60c4146.heic?v=1766654742
   Price: $55.00 AUD
-- [Kutahya Porselen 22Cm Galaxy Plate - Transform Your Table](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-flat-plate-22-cm-mix-granule-cream): Elevate dining with Kutahya Porselen's Galaxy Flat Plate. Unique granule design for a stylish, modern table setup. Impress with quality and flair!
-  Updated: 2025-08-01T12:39:18Z
+- [Kütahya Galaxy Flat Plate 22cm – Mix Granule Cream](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-flat-plate-22-cm-mix-granule-cream): Shop the Kütahya Galaxy 22cm flat plate in mix granule cream. Award-winning porcelain dinnerware crafted for elegant everyday dining in Australia.
+  Updated: 2025-12-25T21:09:37Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Galaxy Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/GLXM22DU83014.jpg?v=1708237363
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/49D25B26-1CF5-4113-9687-8E5BDF16CF26.jpg?v=1766653771
   Price: $29.95 AUD
-- [Kutahya Porselen Galaxy Bowl - 18cm Cream Elegance](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-bowl-18-cm-mix-granule-cream): Discover award-winning design with the Kutahya Porselen Galaxy Bowl. Perfect for acai & stylish table settings. Impress with every meal.
-  Updated: 2025-07-30T12:05:31Z
+- [Kütahya Galaxy Bowl 18cm – Premium Porcelain Tableware Australia](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-bowl-18-cm-mix-granule-cream): Premium 18cm Kütahya Galaxy porcelain bowl in mix granule cream. Award-winning Turkish design, perfect for modern dining and entertaining in Australia.
+  Updated: 2025-12-25T20:58:28Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Galaxy Collection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/GLXM18KS83014.jpg?v=1708237292
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/6693A9F7-EC23-44A3-A9F4-93FC477A72C0.jpg?v=1766653666
   Price: $39.95 AUD
 - [Kutahya Porselen Galaxy Pasta Plate - Elegance at Home](https://www.mitakitchenware.com/products/kutahya-porselen-galaxy-pasta-plate-29-cm-mix-granule-cream): Elevate your dining with Kutahya Porselen Galaxy 29cm pasta plates. Experience restaurant-quality elegance and unique design at home.
   Updated: 2025-09-18T03:36:30Z
@@ -980,8 +980,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/FD4EE202-1CFC-4E6B-8E22-7959D2F1CF93.webp?v=1758283029
   Price: $90.00 AUD
-- [Porland Peride Copper Line 12 piece Turkish Tea Glass Set](https://www.mitakitchenware.com/products/porland-peride-copper-banded-turkish-tea-glass-set): Elevate your tea experience with the Porland Peride Copper Banded Turkish Tea Glass Set. A 12-piece set blending elegance & functionality for 6 people.
-  Updated: 2025-11-26T23:51:52Z
+- [Turkish Tea Glass Set Australia | Porland Peride Copper 12pc](https://www.mitakitchenware.com/products/porland-peride-copper-turkish-tea-glass-set): Shop Porland Peride copper Turkish tea glass set in Australia. 12-piece handmade glass & saucer set – perfect for gifts, entertaining and luxury tea moments.
+  Updated: 2025-12-31T11:02:01Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1029,8 +1029,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/4B7002A6-EA1F-4E35-861F-7AD296AD1BCF.png?v=1763553776
   Price: $90.00 AUD
-- [Porland Sand Beige Tea Pot 1L with Lid | Premium Porcelain Teapot](https://www.mitakitchenware.com/products/porland-sand-beige-tea-pot-with-lid-1000ml): Discover the Porland Sand Beige 1L porcelain tea pot with lid. Crafted from high-grade porcelain for elegant tea serving and lasting durability. Shop now!
-  Updated: 2025-12-18T00:30:25Z
+- [Porland Sand Beige Porcelain Teapot 1L with Lid | Turkish Tea Pot](https://www.mitakitchenware.com/products/porland-sand-beige-tea-pot-with-lid-1000ml): Shop the Porland Sand Beige 1L porcelain teapot with lid. Elegant Turkish design, heat-retaining ceramic perfect for tea lovers and modern kitchens.
+  Updated: 2026-01-01T12:22:43Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1103,23 +1103,23 @@
 - [Home page - Official Website of [Your Brand Name]](https://www.mitakitchenware.com/collections/frontpage): Explore our Home page for the latest trends, tips, and inspiration for your home. Find everything you need to create the perfect space.
   Updated: 2025-11-19T12:16:29Z
   Total Products: 3
-- [Cookware - Best Deals on Quality Cookware Sets & Kitchenware](https://www.mitakitchenware.com/collections/cookware): Shop Karaca non-toxic cookware in stainless steel and Bio Diamond. Cook with safety and style for every home chef! Explore our innovative range now on sale!
+- [Cookware - Best Deals on Quality Cookware Sets & Kitchenware](https://www.mitakitchenware.com/collections/cookware): Shop Karaca non-toxic cookware in stainless steel and Bio Diamond. Cook with safety and style for every home chef! Explore our innovative range now on !
   Updated: 2025-12-09T10:15:36Z
   Total Products: 11
 - [Cutlery + Servingware | Kitchen Utensils & Accessories](https://www.mitakitchenware.com/collections/cutlery-servingware): Explore a wide range of Cutlery + Servingware products for your dining needs. Find the perfect utensils and serving essentials for any occasion.
   Updated: 2025-12-04T03:58:01Z
   Total Products: 9
-- [Dinnerware: Buy Affordable Dinnerware Sets Online](https://www.mitakitchenware.com/collections/dinnerware): Looking for high-quality dinnerware? Explore our extensive selection of Dinnerware sets, plates, bowls, and more at affordable prices.
-  Updated: 2025-12-17T07:58:07Z
+- [Porcelain Dinner Sets Australia|Karaca & Kũtahya-Mita Kitchenware](https://www.mitakitchenware.com/collections/dinnerware): Shop premium porcelain dinnerware sets in Australia from Karaca & Kütahya Porcelain. Luxury dinner sets, plates & bowls with fast Australian delivery.
+  Updated: 2026-01-04T09:24:23Z
   Total Products: 46
 - [Glassware | Shop the Best Glassware Online - Wide Selection](https://www.mitakitchenware.com/collections/glassware): Enhance your sipping experience. Explore stylish glassware collections in sets of 6-49 pieces. Shop our classic and contemporary designs today. Free Shipping*
   Updated: 2025-12-08T22:17:47Z
   Total Products: 9
 - [Kitchen Appliances- Turkish Coffee Machine](https://www.mitakitchenware.com/collections/kitchen-appliances): Discover a wide range of kitchen appliances to level up your cooking game. Shop Karaca brands and find the perfect Turkish Coffee machines for your home.
-  Updated: 2025-12-21T11:16:23Z
+  Updated: 2025-12-26T12:43:01Z
   Total Products: 8
 - [Kitchenware - Buy Quality Kitchenware Online at Best Prices](https://www.mitakitchenware.com/collections/kitchenware): Shop our premium kitchenware collection, featuring Karaca cake tin sets, stylish thermos drinkware, and essential accessories for every cooking enthusiast .
-  Updated: 2025-11-03T12:14:36Z
+  Updated: 2026-01-06T06:47:31Z
   Total Products: 11
 - [Tea and Coffee Collection | Shop the Best Selection Online](https://www.mitakitchenware.com/collections/tea-and-coffee-sets): Explore our exquisite Tea and Coffee Collection to find the perfect cu to energize your day. Choose from a variety of  designs
   Updated: 2025-12-18T05:05:51Z
@@ -1134,29 +1134,29 @@
   Updated: 2025-12-02T04:16:28Z
   Total Products: 2
 - [Kütahya Skallop Collection x Karim Rashid](https://www.mitakitchenware.com/collections/kutahya-skallop-collection): Explore the Kütahya Skallop Collection x Karim Rashid, a stunning collaboration blending art and design. Shop now for unique pieces.
-  Updated: 2025-12-21T03:19:29Z
+  Updated: 2026-01-04T10:07:32Z
   Total Products: 18
-- [Kütahya Galaxy Collection: Shop the Latest Designs](https://www.mitakitchenware.com/collections/kutahya-galaxy-collection): Chef-Approved Turkish Porcelain: Kütahya Galaxy collection. Award-Winning, Anti-Chip Design for Fine Dining Excellence. Elevate Your Tableware Today!
-  Updated: 2025-11-26T12:16:09Z
-  Total Products: 15
-- [Archive Sale | Exclusive Deals on Trendy Items | Sale](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE SALE collection. Shop now and add timeless pieces to your wardrobe.
-  Updated: 2025-12-21T11:16:23Z
-  Total Products: 76
+- [Kütahya Galaxy Premium Porcelain Tableware Sets | Mita Kitchenware](https://www.mitakitchenware.com/collections/kutahya-galaxy-premium-porcelain-tableware): Discover the Kütahya Galaxy premium porcelain tableware - award-winning Turkish craftsmanship with modern design.Shop luxury dinnerware at Mita Kitchenware.
+  Updated: 2025-12-25T09:51:17Z
+  Total Products: 14
+- [Archive  | Exclusive Deals on Trendy Items | ](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE  collection. Shop now and add timeless pieces to your wardrobe.
+  Updated: 2026-01-06T06:47:31Z
+  Total Products: 75
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2025-12-22T03:38:19Z
-  Total Products: 200
+  Updated: 2026-01-06T06:47:31Z
+  Total Products: 199
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
   Updated: 2025-12-19T21:36:43Z
   Total Products: 2
 - [Porland Premium Collection -](https://www.mitakitchenware.com/collections/porland-premium-collection): Discover the exquisite range of Porland Premium Collection products, designed to elevate your dining experience. Shop now for quality and style.
-  Updated: 2025-12-22T03:38:19Z
+  Updated: 2025-12-30T23:01:57Z
   Total Products: 15
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2025-12-22T03:38:19Z
-  Total Products: 200
+  Updated: 2026-01-06T06:47:31Z
+  Total Products: 199
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-22T03:38:19Z
-  Total Products: 200
+  Updated: 2026-01-06T06:47:31Z
+  Total Products: 199
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-12-19T07:35:13Z
   Total Products: 2
