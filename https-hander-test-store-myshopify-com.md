@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-10T05:17:07Z
 - Contact Email: a16604485052@gmail.com
-- Updated At: 2025-12-27T00:00:35.075Z
+- Updated At: 2026-01-08T00:00:37.987Z
 
 ## Products
 
@@ -24,19 +24,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/5104/7632/files/snowboard_sky.png?v=1762751857
   Price: $785.95 USD
-- [Selling Plans Ski Wax](https://hander-test-store.myshopify.com/products/selling-plans-ski-wax)
+- [ Plans Ski Wax](https://hander-test-store.myshopify.com/products/-plans-ski-wax)
   Updated: 2025-11-18T07:22:00Z
   Vendor: hander-test-store
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/5104/7632/files/snowboard_wax.png?v=1762751857
-  - [Selling Plans Ski Wax](https://hander-test-store.myshopify.com/products/selling-plans-ski-wax?variant=44843245699280)
+  - [ Plans Ski Wax](https://hander-test-store.myshopify.com/products/-plans-ski-wax?variant=44843245699280)
     Availability: Available
     Price: $24.95 USD
-  - [Special Selling Plans Ski Wax](https://hander-test-store.myshopify.com/products/selling-plans-ski-wax?variant=44843245732048)
+  - [Special  Plans Ski Wax](https://hander-test-store.myshopify.com/products/-plans-ski-wax?variant=44843245732048)
     Availability: Available
     Price: $49.95 USD
-  - [Sample Selling Plans Ski Wax](https://hander-test-store.myshopify.com/products/selling-plans-ski-wax?variant=44843245764816)
+  - [Sample  Plans Ski Wax](https://hander-test-store.myshopify.com/products/-plans-ski-wax?variant=44843245764816)
     Availability: Available
     Price: $9.95 USD
 - [Hidden Snowboard](https://hander-test-store.myshopify.com/products/the-hidden-snowboard): hidden snowboard winter sport snowboarding
