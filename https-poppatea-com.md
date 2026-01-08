@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-11-08T10:55:56Z
 - Contact Email: hello@poppatea.com
-- Updated At: 2025-12-30T00:00:39.641Z
+- Updated At: 2026-01-08T00:00:42.562Z
 
 ## Products
 
 - [Matcha Tea Powder - Ceremonial Grade - Japanese Green Tea](https://poppatea.com/products/matcha-tea-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence. 50g tin/50g refill pouch/100g refill pouch options available.
-  Updated: 2025-12-29T20:37:35Z
+  Updated: 2026-01-07T23:30:41Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_pouch_0e35918c-3916-4ace-8fcd-d4f87ee386ce.jpg?v=1764319982
     Price: 320,00 kr SEK
 - [Hojicha Tea Powder - High Quality Japanese Roasted Green Tea](https://poppatea.com/products/hojicha-tea-powder): Poppatea Hojicha tea powder has a rich & nutty taste with rich chocolate & smoky notes. A great option if you are looking for a low caffeine tea. Grown to EU standards. 50g tin/50g refill pouch/100g refill pouch options. All packaged in recyclable aluminium.
-  Updated: 2025-12-29T16:17:17Z
+  Updated: 2026-01-07T21:58:06Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_hojicha_tea_powder_60edc2f8-e943-4ef8-848e-81c8dcbf0036.jpg?v=1764319713
     Price: 260,00 kr SEK
 - [Matcha Tea With Chai - Ceremonial Grade - Japanese Green Tea Powder](https://poppatea.com/products/matcha-tea-with-chai-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea with chai, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence. 3 options 50g tin/50g refill pouch/ 2 x50g(100g) refill pouch.
-  Updated: 2025-12-29T16:12:52Z
+  Updated: 2026-01-07T20:19:07Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -68,11 +68,11 @@
 ## Collections
 
 - [Home page](https://poppatea.com/collections/frontpage)
-  Updated: 2025-11-06T08:56:51Z
+  Updated: 2026-01-07T13:52:51Z
   Total Products: 0
 - [All Teas](https://poppatea.com/collections/all-teas): Find your favourite tea here
-  Updated: 2025-12-29T12:21:43Z
-  Total Products: 4
+  Updated: 2026-01-07T13:52:51Z
+  Total Products: 5
 
 ## Blogs
 
