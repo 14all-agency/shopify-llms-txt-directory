@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-12-18T15:55:45Z
 - Contact Email: support@hopsandpops.com
-- Updated At: 2025-12-31T00:00:41.837Z
+- Updated At: 2026-01-08T00:00:42.280Z
 
 Sitemap containing all images at this link: https://hopsandpops.com/image-sitemap.xml
 
@@ -379,7 +379,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-big-eyed-cute-kitten-plush-catplush-stuffedanimal-gray-22cm-814920.jpg?v=1756492978
     Price: $35.13 USD
-- [Chonk Cube Square Cat Plushies Kawaii Soft Pillows](https://www.hopsandpops.com/products/chonk-cube-square-cat-plushies-kawaii-soft-pillows): Meet the Chonk Cube Cats, a family of kawaii square cat plushies that combine irresistible cuteness with cozy comfort. Each chubby square shaped cat is made from ultra-soft plush fabric and filled with premium PP cotton, making it perfect for hugging, stacking, or snoozing. With their embroidered kawaii faces and plushy form, these cats are the ultimate blend of cute décor and cuddle-worthy comfort. Available in black and white, each cube cat has its own unique personality, the sleek black cat with glowing eyes and the soft white cat with a gentle smile. Whether you’re looking for a kawaii square cat pillow, a cute gift for cat lovers, or a fun addition to your plush collection, the Chonk Cube Cats are here to brighten your space. 💖 Why You’ll Love It ☁️ Super Soft and Squishy: Made from high-quality plush fabric and filled with soft PP cotton for a cloud-like feel. 🐾 Unique Cube Shape: A chubby, square style cat design that’s cute, stackable, and full of personality. 🎨 Two Kawaii Styles: Choose between the adorable white cat or the mysterious black cat with bright embroidered eyes. 🎁 Perfect Gift for Cat Lovers: A thoughtful present for kids, teens, and plush collectors who adore cats and cozy pillows. 🛋 Cute and Functional: Works as a pillow, armrest, or decorative plush for your bed, couch, or reading corner. 🧵 Durable Quality: Stitched carefully for long-lasting softness and shape retention. 📏 Size and Material Available Sizes: 25 × 20 × 20 cm, 35 × 30 × 30 cm, 50 × 40 × 40 cm Material: Soft plush exterior with premium PP cotton filling 🧽 Easy Care Hand wash gently with mild soap and water Do not machine wash or iron Air dry completely to keep your cube cats fluffy and fresh 🐾 Soft, Squishy, and Irresistibly Cute Add a Chonk Cube Square Cat Plushie to your home and let these cuddly kitties fill your days with comfort and smiles. Whether used as décor, a nap buddy, or a thoughtful gift, these kawaii cat pillows are guaranteed to bring joy to anyone who loves cute and cozy things. 🤍🖤🐱
+- [Chonk Cube Square Cat Plushies Kawaii Soft Pillows](https://www.hopsandpops.com/products/chonk-cube-square-cat-plushies-kawaii-soft-pillows): Meet the Chonk Cube Cats, a family of kawaii square cat plushies that combine irresistible cuteness with cozy comfort. Each chubby square shaped cat is made from ultra-soft plush fabric and filled with premium PP cotton, making it perfect for hugging, stacking, or snoozing. With their embroidered kawaii faces and plushy form, these cats are the ultimate blend of cute décor and cuddle-worthy comfort. Available in black and white, each cube cat has its own unique personality, the sleek black cat with glowing eyes and the soft white cat with a gentle smile. Whether you’re looking for a kawaii square cat pillow, a cute gift for cat lovers, or a fun addition to your plush collection, the Chonk Cube Cats are here to brighten your space. 💖 Why You’ll Love It ☁️ Super Soft and Squishy: Made from high-quality plush fabric and filled with soft PP cotton for a cloud-like feel. 🐾 Unique Cube Shape: A chubby, square style cat design that’s cute, stackable, and full of personality. 🎨 Two Kawaii Styles: Choose between the adorable white cat or the mysterious black cat with bright embroidered eyes. 🎁 Perfect Gift for Cat Lovers: A thoughtful present for kids, teens, and plush collectors who adore cats and cozy pillows. 🛋 Cute and Functional: Works as a pillow, armrest, or decorative plush for your bed, couch, or reading corner. 🧵 Durable Quality: Stitched carefully for long-lasting softness and shape retention. 📏 Size and Material Available Sizes: 25 × 20 × 20 cm, 35 × 30 × 30 cm, 50 × 40 × 40 cm Material: Soft plush exterior with premium PP cotton filling 🧽 Easy Care Hand wash gently with mild soap and water Do not machine wash or iron Air dry completely to keep your cube cats fluffy and fresh 🐾 Soft, Squishy, and Irresistibly Cute Add a Chonk Cube Square Cat Plushie to your home and let these cuddly kitties fill your days with comfort and smiles. Whether used as décor, a nap buddy, or a thoughtful gift, these kawaii cat pillows are  to bring joy to anyone who loves cute and cozy things. 🤍🖤🐱
   Updated: 2025-12-25T05:51:48Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
@@ -464,7 +464,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-snugglemeow-adorable-round-cat-plush-pillow-catplush-stuffedanimal-black-50cm-709226.jpg?v=1756493072
     Price: $42.51 USD
 - [Tofu Cat Plushies - Soft & Squishy Cube Companions](https://www.hopsandpops.com/products/tofu-cat-plushies-soft-and-squishy-cube-companions): 🐾 Meet the Tofu Cat Plushies - irresistibly soft, cube-shaped feline friends that are purr-fect for snuggling, stacking, and decorating your space! Whether you're a cat lover, a plushie collector, or just someone who enjoys cute and quirky home decor, these chubby kitties are sure to bring you joy. 🎀 Available in four adorable designs—Gray Tabby, Orange Tabby, Black Cat, and Siamese—each with big round eyes and perky little ears that add extra charm. These squishy plush cubes make fantastic gifts for kids, teens, and plushie enthusiasts of all ages! WHY YOU’LL LOVE IT ☁️ Super Soft & Huggable - Made with ultra-plush fabric and stuffed with premium PP cotton for maximum squishiness.🐱 Cute & Quirky Design - A chubby cube shape that’s both funny and adorable, perfect for stacking or cuddling.🎁 Great Gift Idea - Perfect for birthdays, holidays, or as a kawaii room decor piece!🛋 Multi-Purpose Plushie - Use it as a pillow, cushion, or a delightful stress reliever. SIZE & MATERIAL 📐 Available Sizes: 20cm, 30cm, 40cm🧵 Material: Soft plush exterior, filled with PP cotton🎨 Character Choices: Gray Tabby, Orange Tabby, Black Cat, Siamese EASY CARE 🧽 Hand wash recommended with mild soap and water.🚫 Do not machine wash or iron to maintain its fluffiness.🌞 Air dry to keep it squishy and soft! Bring home your very own Tofu Cat Plushie and let the cuddly fun begin! 🐾💕
-  Updated: 2025-12-25T05:51:50Z
+  Updated: 2026-01-07T04:02:56Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
   Availability: Available
@@ -517,7 +517,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-tofu-cat-plushies-soft-squishy-cube-companions-catplush-stuffedanimal-biege-20cm-819271.jpg?v=1756492190
     Price: $79.32 USD
-- [Wide-Eyed Snuggle Pals Plushies](https://www.hopsandpops.com/products/wide-eyed-snuggle-pals-plushies): 🐾 Meet the Wide-Eyed Snuggle Pals, the plush toys with the biggest eyes and even bigger hearts! These chonky animal friends - Dog, Pig, and Cat - are crafted to melt yours with their squishable bodies, sweet accessories, and irresistible kawaii expressions. Whether they’re hugging a fish, donut, or bone, they’re always ready to sit pretty and be your softest cuddle buddy. 🎁 Perfect for playtime, bedtime, or decorating a cozy nook, these cuties are guaranteed to be a hit with plushie lovers, anime fans, and anyone who needs a hug-worthy friend. WHY YOU’LL LOVE IT 💞 Ultra Huggable Design - Big round eyes, chubby cheeks, and pink paw pads make these plushies melt-your-heart cute.🐶 Three Playful Characters - Choose from a sweet dog with a bone, a piggy with a donut, or a kitty with a fish.🧸 Just the Right Size - Two sizes (23cm and 32cm) for snuggling, shelf-sitting, or gifting!🎀 Perfect for All Ages - Great for kids, teens, and plushie-loving adults alike.🛋️ Versatile Use - Ideal as a bedtime buddy, room decor, or cute companion during screen time.🧵 Built to Last - Durable stitching and soft, plush filling made to stand the test of time (and cuddles). SIZE & MATERIAL 📐 Available Sizes: 23cm and 32cm🧵 Material: Soft plush fabric with premium PP cotton filling EASY CARE 🧽 Hand wash with mild soap🚫 Avoid machine washing or ironing🌞 Air dry naturally to maintain shape and softness Adopt your Wide-Eyed Snuggle Pal today and let the cuteness overload begin! 🐷🐶🐱💖
+- [Wide-Eyed Snuggle Pals Plushies](https://www.hopsandpops.com/products/wide-eyed-snuggle-pals-plushies): 🐾 Meet the Wide-Eyed Snuggle Pals, the plush toys with the biggest eyes and even bigger hearts! These chonky animal friends - Dog, Pig, and Cat - are crafted to melt yours with their squishable bodies, sweet accessories, and irresistible kawaii expressions. Whether they’re hugging a fish, donut, or bone, they’re always ready to sit pretty and be your softest cuddle buddy. 🎁 Perfect for playtime, bedtime, or decorating a cozy nook, these cuties are  to be a hit with plushie lovers, anime fans, and anyone who needs a hug-worthy friend. WHY YOU’LL LOVE IT 💞 Ultra Huggable Design - Big round eyes, chubby cheeks, and pink paw pads make these plushies melt-your-heart cute.🐶 Three Playful Characters - Choose from a sweet dog with a bone, a piggy with a donut, or a kitty with a fish.🧸 Just the Right Size - Two sizes (23cm and 32cm) for snuggling, shelf-sitting, or gifting!🎀 Perfect for All Ages - Great for kids, teens, and plushie-loving adults alike.🛋️ Versatile Use - Ideal as a bedtime buddy, room decor, or cute companion during screen time.🧵 Built to Last - Durable stitching and soft, plush filling made to stand the test of time (and cuddles). SIZE & MATERIAL 📐 Available Sizes: 23cm and 32cm🧵 Material: Soft plush fabric with premium PP cotton filling EASY CARE 🧽 Hand wash with mild soap🚫 Avoid machine washing or ironing🌞 Air dry naturally to maintain shape and softness Adopt your Wide-Eyed Snuggle Pal today and let the cuteness overload begin! 🐷🐶🐱💖
   Updated: 2025-11-07T23:57:03Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
@@ -1540,7 +1540,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dreamie-napicorns-sleepy-rainbow-unicorn-plushies-unicornplush-stuffedanimal-white-100cm-940475.jpg?v=1756493111
     Price: $17.82 USD
-- [Starlit Stompers, Chunky Unicorn Plush Buddies](https://www.hopsandpops.com/products/starlit-stompers-chunky-unicorn-plush-buddies): 🦄 Say hello to the Starlit Stompers, the cuddliest unicorn companions with the chunkiest charm! These fantasy friends are extra plump, with soft pastel manes, sparkly silver horns, and stitched stars that shine with personality. Their dreamy eyes and magical wings make them the perfect blend of fairytale and comfort. 🎀 Whether you're looking for a bedtime cuddle buddy, a whimsical room accent, or a delightful gift, these starry unicorns are here to gallop into your heart. With their sturdy build and cloud-soft plush, they’re as snuggly as they are huggable! WHY YOU’LL LOVE IT 🌟 Chunky & Cheery - Their plump build and oversized hooves make them irresistibly lovable.🦄 Fantasy-Approved - With stitched wings, glittery horns, and twinkling stars, they’re straight from a dream.💫 Gentle Expressions - Sweet sleepy eyes and subtle smiles bring a calm, peaceful vibe.🎁 Perfect Gift for Unicorn Lovers - Ideal for birthdays, holidays, or just-because surprises!🛋 Great for Snuggles or Display - Use them as plush pillows or magical room mascots. SIZE & MATERIAL 📐 Available Sizes: 20cm, 30cm, 40cm, 50cm🧵 Material: Super soft plush with premium PP cotton filling EASY CARE 🧼 Hand wash gently with mild soap and cold water🚫 Do not bleach, iron, or machine wash🌬 Air dry naturally to maintain shape and softness Add a Starlit Stomper to your collection today and let the magic of unicorn snuggles light up your space! 🌈💖🦄
+- [Starlit Stompers, Chunky Unicorn Plush Buddies](https://www.hopsandpops.com/products/starlit-stompers-chunky-unicorn-plush-buddies): 🦄 Say hello to the Starlit Stompers, the cuddliest unicorn companions with the chunkiest charm! These fantasy friends are extra plump, with soft pastel manes, sparkly silver horns, and stitched stars that shine with personality. Their dreamy eyes and magical wings make them the perfect blend of fairytale and comfort. 🎀 Whether you're looking for a bedtime cuddle buddy, a whimsical room accent, or a delightful gift, these starry unicorns are here to gallop into your heart. With their sturdy build and cloud-soft plush, they’re as snuggly as they are huggable! WHY YOU’LL LOVE IT 🌟 Chunky & Cheery - Their plump build and oversized hooves make them irresistibly lovable.🦄 Fantasy- - With stitched wings, glittery horns, and twinkling stars, they’re straight from a dream.💫 Gentle Expressions - Sweet sleepy eyes and subtle smiles bring a calm, peaceful vibe.🎁 Perfect Gift for Unicorn Lovers - Ideal for birthdays, holidays, or just-because surprises!🛋 Great for Snuggles or Display - Use them as plush pillows or magical room mascots. SIZE & MATERIAL 📐 Available Sizes: 20cm, 30cm, 40cm, 50cm🧵 Material: Super soft plush with premium PP cotton filling EASY CARE 🧼 Hand wash gently with mild soap and cold water🚫 Do not bleach, iron, or machine wash🌬 Air dry naturally to maintain shape and softness Add a Starlit Stomper to your collection today and let the magic of unicorn snuggles light up your space! 🌈💖🦄
   Updated: 2025-12-25T05:52:06Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
@@ -1994,7 +1994,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-dandy-the-dressed-up-elephant-elephantplush-stuffedanimal-pink-32cm-380978.jpg?v=1756492650
     Price: $62.10 USD
-- [Puffin Pals Plump Penguin Plushies](https://www.hopsandpops.com/products/puffin-pals-plump-penguin-plushies): 🐧 Meet the Puffin Pals, the irresistibly chubby penguin plush toys that are here to melt your heart! With their round bellies, blushing cheeks, and cheerful sleepy-eyed smiles, these fluffy penguins are the ultimate cuddle companions. Whether you're decorating your space or searching for a soft squish buddy, these pastel-hued penguins deliver comfort and cuteness in equal measure. Available in baby blue, bubblegum pink, and classic gray - one for every mood! 🎀 Great for hugging, lounging, or giving as a gift, these plump penguin plushies are perfect for kids, plush collectors, or anyone who needs a little extra joy in their room. WHY YOU’LL LOVE IT ☁️ Ultra Squishy & Soft - Made from silky plush and filled with premium PP cotton for max fluff factor.🐧 Adorably Round Design - A charming, rotund body with tiny wings and a perky beak.🎨 Three Dreamy Colors - Choose from sweet pink, soft blue, or cuddly gray.🎁 Perfect Gift Idea - Ideal for birthdays, holidays, or just-because moments.🛋 Cuddle-Ready & Nap-Approved - Great for beds, sofas, or work-from-home snuggle breaks.🧵 Durable Build - Stitched with love to hold its squish and shape. SIZE & MATERIAL 📐 Available Sizes: 30cm, 45cm, 55cm🧵 Material: Ultra-soft plush fabric with fluffy PP cotton stuffing EASY CARE 🧽 Hand wash gently with mild soap🚫 No ironing or machine wash - this little bird likes it gentle🌬 Air dry only to maintain its softness and shape Add a Puffin Pal to your cozy crew today and waddle into cuddle paradise! 💖🐧
+- [Puffin Pals Plump Penguin Plushies](https://www.hopsandpops.com/products/puffin-pals-plump-penguin-plushies): 🐧 Meet the Puffin Pals, the irresistibly chubby penguin plush toys that are here to melt your heart! With their round bellies, blushing cheeks, and cheerful sleepy-eyed smiles, these fluffy penguins are the ultimate cuddle companions. Whether you're decorating your space or searching for a soft squish buddy, these pastel-hued penguins deliver comfort and cuteness in equal measure. Available in baby blue, bubblegum pink, and classic gray - one for every mood! 🎀 Great for hugging, lounging, or giving as a gift, these plump penguin plushies are perfect for kids, plush collectors, or anyone who needs a little extra joy in their room. WHY YOU’LL LOVE IT ☁️ Ultra Squishy & Soft - Made from silky plush and filled with premium PP cotton for max fluff factor.🐧 Adorably Round Design - A charming, rotund body with tiny wings and a perky beak.🎨 Three Dreamy Colors - Choose from sweet pink, soft blue, or cuddly gray.🎁 Perfect Gift Idea - Ideal for birthdays, holidays, or just-because moments.🛋 Cuddle-Ready & Nap- - Great for beds, sofas, or work-from-home snuggle breaks.🧵 Durable Build - Stitched with love to hold its squish and shape. SIZE & MATERIAL 📐 Available Sizes: 30cm, 45cm, 55cm🧵 Material: Ultra-soft plush fabric with fluffy PP cotton stuffing EASY CARE 🧽 Hand wash gently with mild soap🚫 No ironing or machine wash - this little bird likes it gentle🌬 Air dry only to maintain its softness and shape Add a Puffin Pal to your cozy crew today and waddle into cuddle paradise! 💖🐧
   Updated: 2025-12-25T05:52:12Z
   Vendor: Hops & Pops
   Product Type: Animal Kingdom Plushies
@@ -2385,7 +2385,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-pawfect-cat-paws-plush-pillow-catplush-stuffedanimal-gray-80cm-240397.jpg?v=1756492220
     Price: $55.94 USD
-- [Cozy Scarf Cat Long Body Pillows & Stuffed Plushies](https://www.hopsandpops.com/products/cozy-scarf-cat-long-body-pillows-stuffed-plushies): 🐱 Say hello to the Cozy Scarf Cat Long Body Pillows! This adorable extra-long plush cat body pillow is designed to give you the ultimate comfort and relaxation. With its super soft plush fabric, chubby paws, and embroidered kawaii face, this giant hugging plushie is perfect for cuddling, sleeping, and adding a cute touch to your room! Each Cozy Scarf Cat Pillow comes with a stylish little scarf, making it even more charming. Whether you're looking for a soft sleeping companion, a cozy body pillow, or a cute room decoration, this plushie is guaranteed to bring warmth and joy! WHY YOU’LL LOVE IT ☁️ Super Soft & Fluffy - Made with ultra-plush fabric and premium PP cotton for an incredibly comfy feel.🐾 Extra Long & Huggable Body Pillow - Perfect for cuddling, lounging, and bedtime snuggles.🎀 Adorable Details - Cute chubby paws, round little tails, and stylish neck scarves.🎨 Three Kawaii Colors - Choose from Pink, White (Calico), or Gray!🎁 Perfect Gift for Cat Lovers - A cozy surprise for birthdays, holidays, or any special occasion.🛋 Great for Decor & Relaxation - Use it as a pillow, armrest, or an adorable couch companion. SIZE & MATERIAL 📏 Available Sizes: 70cm, 100cm, 130cm🧵 Material: Soft plush fabric + premium PP cotton filling EASY CARE 🧽 Hand wash recommended with mild soap and water.🚫 Avoid ironing or machine washing to keep its softness and shape.🌞 Air dry for long-lasting fluffiness. 💖 Bring home a Cozy Scarf Cat Long Body Pillow today and enjoy endless cuddles! 🐾🎀
+- [Cozy Scarf Cat Long Body Pillows & Stuffed Plushies](https://www.hopsandpops.com/products/cozy-scarf-cat-long-body-pillows-stuffed-plushies): 🐱 Say hello to the Cozy Scarf Cat Long Body Pillows! This adorable extra-long plush cat body pillow is designed to give you the ultimate comfort and relaxation. With its super soft plush fabric, chubby paws, and embroidered kawaii face, this giant hugging plushie is perfect for cuddling, sleeping, and adding a cute touch to your room! Each Cozy Scarf Cat Pillow comes with a stylish little scarf, making it even more charming. Whether you're looking for a soft sleeping companion, a cozy body pillow, or a cute room decoration, this plushie is  to bring warmth and joy! WHY YOU’LL LOVE IT ☁️ Super Soft & Fluffy - Made with ultra-plush fabric and premium PP cotton for an incredibly comfy feel.🐾 Extra Long & Huggable Body Pillow - Perfect for cuddling, lounging, and bedtime snuggles.🎀 Adorable Details - Cute chubby paws, round little tails, and stylish neck scarves.🎨 Three Kawaii Colors - Choose from Pink, White (Calico), or Gray!🎁 Perfect Gift for Cat Lovers - A cozy surprise for birthdays, holidays, or any special occasion.🛋 Great for Decor & Relaxation - Use it as a pillow, armrest, or an adorable couch companion. SIZE & MATERIAL 📏 Available Sizes: 70cm, 100cm, 130cm🧵 Material: Soft plush fabric + premium PP cotton filling EASY CARE 🧽 Hand wash recommended with mild soap and water.🚫 Avoid ironing or machine washing to keep its softness and shape.🌞 Air dry for long-lasting fluffiness. 💖 Bring home a Cozy Scarf Cat Long Body Pillow today and enjoy endless cuddles! 🐾🎀
   Updated: 2025-12-25T05:52:27Z
   Vendor: Hops & Pops
   Product Type: Looong Plushies
@@ -2676,7 +2676,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   - [60cm](https://www.hopsandpops.com/products/kawaii-cat-loaf-bread-long-pillow-plushies?variant=42774175416362)
     Availability: Available
     Price: $51.69 USD
-- [Stretchy Cat Extra-Long Plushies](https://www.hopsandpops.com/products/stretchy-cat-extra-long-plushies): 🐱 Meet the Stretchy Cat Plushies! These adorably long cat plush pillows are designed for ultimate comfort and snuggles! With their cute "paws-up" pose and squishy, ultra-soft fabric, they’re the perfect companion for naps, lounging, or adding a touch of kawaii charm to your space. ✨ Whether you’re a cat lover, a plushie collector, or just need a cozy body pillow, these stretchy kitties are ready to be your new best friend. Available in three delightful styles: Warm Yellow, Cool Gray, and Soft White, each plush is crafted for maximum fluffiness and guaranteed to bring endless comfort. WHY YOU’LL LOVE IT 🐾 Extra-Long & Super Soft - Perfect for hugging, sleeping, or lounging.💖 Adorable Paws-Up Design - Looks like they’re always asking for cuddles!☁️ Premium Plush & PP Cotton - Stuffed with high-quality filling for ultimate squishiness.🎨 Three Cute Colors - Choose from Yellow, Gray, or White.🎁 Great Gift for Cat Lovers - Perfect for birthdays, Christmas, or just because! SIZE & MATERIAL 📐 Available Sizes: 50cm / 70cm / 90cm / 110cm / 130cm / 150cm🧵 Material: Super-soft plush fabric with premium PP cotton filling EASY CARE 🧽 Spot clean with mild soap and water.🚫 Avoid machine washing to keep its adorable shape intact.🌞 Air dry for long-lasting fluffiness! Bring home a Stretchy Cat Plushie today and enjoy non-stop snuggles with your new cuddly companion! 🐾💖
+- [Stretchy Cat Extra-Long Plushies](https://www.hopsandpops.com/products/stretchy-cat-extra-long-plushies): 🐱 Meet the Stretchy Cat Plushies! These adorably long cat plush pillows are designed for ultimate comfort and snuggles! With their cute "paws-up" pose and squishy, ultra-soft fabric, they’re the perfect companion for naps, lounging, or adding a touch of kawaii charm to your space. ✨ Whether you’re a cat lover, a plushie collector, or just need a cozy body pillow, these stretchy kitties are ready to be your new best friend. Available in three delightful styles: Warm Yellow, Cool Gray, and Soft White, each plush is crafted for maximum fluffiness and  to bring endless comfort. WHY YOU’LL LOVE IT 🐾 Extra-Long & Super Soft - Perfect for hugging, sleeping, or lounging.💖 Adorable Paws-Up Design - Looks like they’re always asking for cuddles!☁️ Premium Plush & PP Cotton - Stuffed with high-quality filling for ultimate squishiness.🎨 Three Cute Colors - Choose from Yellow, Gray, or White.🎁 Great Gift for Cat Lovers - Perfect for birthdays, Christmas, or just because! SIZE & MATERIAL 📐 Available Sizes: 50cm / 70cm / 90cm / 110cm / 130cm / 150cm🧵 Material: Super-soft plush fabric with premium PP cotton filling EASY CARE 🧽 Spot clean with mild soap and water.🚫 Avoid machine washing to keep its adorable shape intact.🌞 Air dry for long-lasting fluffiness! Bring home a Stretchy Cat Plushie today and enjoy non-stop snuggles with your new cuddly companion! 🐾💖
   Updated: 2025-12-25T05:52:33Z
   Vendor: Hops & Pops
   Product Type: Looong Plushies
@@ -4400,7 +4400,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-snugglezoo-giant-c-shaped-animal-plush-pillow-stuffedanimal-husky-100cm-482495.jpg?v=1756492595
     Price: $111.86 USD
 - [Long Axolotl Stuffed Animal Plush](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush): 🐾 Meet the Long Axoloth Stuffed Animal Plush, your new favourite cuddle buddy! With its soft, elongated design, this axolotl plush is perfect for hugging, lounging, or adding a touch of cuteness to any room. Whether you need a comfy backrest, a bedtime companion, or a cosy décor piece, this axolotl plush has you covered!🎀 A delightful gift for kids, teens, and adults who love squishy and lovable plushies, great for birthdays, holidays, or just because! WHY YOU'LL LOVE IT ☁️ Super Soft & Huggable - Made with ultra-plush fabric and fluffy PP cotton filling.⭐ Perfect for All Ages - Whether for kids or adults, it’s an irresistibly snuggly companion.🎁 Adorable Gift Idea - Surprise a loved one with this charming axolotl plush.🏖 Relax & Unwind - Ideal for naps, watching TV, or simply cuddling up after a long day.🧵 Durable & Well-Made - Designed with quality stitching and soft, premium materials. SIZE & MATERIAL 📐 Available Sizes: 75cm, 85cm, 105cm🧵 Material: Soft plush exterior with high-quality PP cotton filling🎨 Color Options: Orange, Blue, Green, Pink EASY CARE 🧽 Hand wash recommended with mild soap and water.🚫 Do not iron or machine wash to maintain softness.🌞 Air dry to keep it fluffy and huggable!
-  Updated: 2025-12-25T05:52:58Z
+  Updated: 2026-01-05T06:05:28Z
   Vendor: Hops & Pops
   Product Type: Looong Plushies
   Availability: Available
@@ -4408,51 +4408,51 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   - [Orange / 75cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103719978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-orange-75cm-892330.jpg?v=1756492630
-    Price: $66.16 USD
+    Price: $66.44 USD
   - [Orange / 85cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103621674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-orange-75cm-892330.jpg?v=1756492630
-    Price: $82.12 USD
+    Price: $82.49 USD
   - [Orange / 105cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103654442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-orange-75cm-892330.jpg?v=1756492630
-    Price: $104.80 USD
+    Price: $105.25 USD
   - [Blue / 75cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103752746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-blue-75cm-750144.jpg?v=1756492630
-    Price: $66.16 USD
+    Price: $66.44 USD
   - [Blue / 85cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103785514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-blue-75cm-750144.jpg?v=1756492630
-    Price: $82.12 USD
+    Price: $82.49 USD
   - [Blue / 105cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103687210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-blue-75cm-750144.jpg?v=1756492630
-    Price: $104.80 USD
+    Price: $105.25 USD
   - [Green / 75cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103916586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-green-75cm-401901.jpg?v=1756492630
-    Price: $66.16 USD
+    Price: $66.44 USD
   - [Green / 85cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103818282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-green-75cm-401901.jpg?v=1756492630
-    Price: $82.12 USD
+    Price: $82.49 USD
   - [Green / 105cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103851050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-green-75cm-401901.jpg?v=1756492630
-    Price: $104.80 USD
+    Price: $105.25 USD
   - [Pink / 75cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103949354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-pink-75cm-954680.jpg?v=1756492630
-    Price: $66.16 USD
+    Price: $66.44 USD
   - [Pink / 85cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103982122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-pink-75cm-954680.jpg?v=1756492630
-    Price: $82.12 USD
+    Price: $82.49 USD
   - [Pink / 105cm](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush?variant=42774103883818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-axolotl-stuffed-looong-plushie-axolotlplush-stuffedanimal-pink-75cm-954680.jpg?v=1756492630
-    Price: $104.80 USD
+    Price: $105.25 USD
 - [Cuddly Shiba Inu Looong Plushie](https://www.hopsandpops.com/products/cuddly-shiba-inu-looong-plushie): 🐶 Snuggle Up with a Shiba Inu!Meet the ultimate cuddle buddy - our adorable Shiba Inu long plush pillow! With its irresistibly soft material and charming Shiba face, this plush is perfect for hugging, decorating, or simply lounging in comfort. Whether you're relaxing at home, watching TV, or in need of a cozy bedtime companion, this plush pillow is the perfect choice! WHY YOU'LL LOVE IT ☁️ Ultra-Soft & Huggable - Made from high-quality PP cotton for maximum fluffiness.⭐ Perfect for All Ages - Whether for kids or adults, this plush is a must-have!🎁 The Ultimate Gift - Surprise your loved ones with this adorable plush pillow.🏖 Relaxation Buddy - Perfect for sleeping, watching TV, or lounging on the couch.🧵 Durable & Well-Made - High-quality stitching and premium plush fabric. SIZE & MATERIAL 📐 Available Sizes: 50cm, 70cm, 90cm, and 110cm🧵 Material: Soft plush exterior with high-quality PP cotton filling🎨 Design Choices: Cute Shiba Inu dog in an elongated, huggable form EASY CARE 🧽 Hand wash recommended with mild soap and water.🚫 Do not iron or machine wash to maintain softness.🌞 Air dry to keep it fluffy and huggable!
   Updated: 2025-11-08T04:42:29Z
   Vendor: Hops & Pops
@@ -4795,7 +4795,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-waddle-banano-the-quirky-banana-duck-plush-fruitsplush-stuffedanimal-style-4-50cm-803384.jpg?v=1756492927
     Price: $114.28 USD
-- [Sprinkle Swirl Scoops, Plush Ice Cream Cone Cuties](https://www.hopsandpops.com/products/sprinkle-swirl-scoops-plush-ice-cream-cone-cuties): 🍦 Say hello to the Sprinkle Swirl Scoops, the most lovable frozen treats you’ll ever snuggle! These kawaii-style ice cream plushies come in a delightful cone shape with a round, smiling scoop topped with whipped cream, rainbow sprinkles, and a cute leaf garnish. Available in a variety of cheerful colors like berry blue, strawberry red, and orange creamsicle, they’re guaranteed to melt hearts—not in the sun, but from pure adorableness! 🎀 Whether it’s for cuddles, playtime, or the perfect room decor, these plushies are a sweet addition to any space or gift basket. WHY YOU’LL LOVE IT ☁️ Irresistibly Soft & Fluffy - Made with ultra-soft plush and PP cotton for cozy hugs🍓 Deliciously Cute Design - Each plush features a waffle cone base and sprinkle-topped scoop with happy faces🌈 Multiple Tasty Colors - Choose your favorite scoop: red, pink, purple, orange, or blue🎁 Perfect Gift for All Ages - Great for birthdays, holidays, or a surprise treat🛋 Whimsical Home Decor - Brightens up any couch, bed, or shelf with a dash of dessert charm🧵 Quality You Can Feel - High-end stitching and materials for lasting squishiness SIZE & MATERIAL 📐 Available Size: 40cm🧵 Material: Soft plush exterior, premium PP cotton interior EASY CARE 🧽 Spot clean or hand wash gently with mild soap🚫 Do not machine wash or iron🌞 Air dry completely for long-lasting fluff Add a Sprinkle Swirl Scoop to your plushie collection and bring home a scoop of happiness today! 🍦💛
+- [Sprinkle Swirl Scoops, Plush Ice Cream Cone Cuties](https://www.hopsandpops.com/products/sprinkle-swirl-scoops-plush-ice-cream-cone-cuties): 🍦 Say hello to the Sprinkle Swirl Scoops, the most lovable frozen treats you’ll ever snuggle! These kawaii-style ice cream plushies come in a delightful cone shape with a round, smiling scoop topped with whipped cream, rainbow sprinkles, and a cute leaf garnish. Available in a variety of cheerful colors like berry blue, strawberry red, and orange creamsicle, they’re  to melt hearts—not in the sun, but from pure adorableness! 🎀 Whether it’s for cuddles, playtime, or the perfect room decor, these plushies are a sweet addition to any space or gift basket. WHY YOU’LL LOVE IT ☁️ Irresistibly Soft & Fluffy - Made with ultra-soft plush and PP cotton for cozy hugs🍓 Deliciously Cute Design - Each plush features a waffle cone base and sprinkle-topped scoop with happy faces🌈 Multiple Tasty Colors - Choose your favorite scoop: red, pink, purple, orange, or blue🎁 Perfect Gift for All Ages - Great for birthdays, holidays, or a surprise treat🛋 Whimsical Home Decor - Brightens up any couch, bed, or shelf with a dash of dessert charm🧵 Quality You Can Feel - High-end stitching and materials for lasting squishiness SIZE & MATERIAL 📐 Available Size: 40cm🧵 Material: Soft plush exterior, premium PP cotton interior EASY CARE 🧽 Spot clean or hand wash gently with mild soap🚫 Do not machine wash or iron🌞 Air dry completely for long-lasting fluff Add a Sprinkle Swirl Scoop to your plushie collection and bring home a scoop of happiness today! 🍦💛
   Updated: 2025-12-25T05:53:05Z
   Vendor: Hops & Pops
   Product Type: Yummy Plushies
@@ -4928,7 +4928,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-twirly-pop-plushies-sweet-swirl-pillow-cushions-sweetsplush-stuffedanimal-blue-14cm-keychain-827446.jpg?v=1756493073
     Price: $45.01 USD
-- [Mochi Bao Buddies, Squishy Soup Dumpling Yummy Plushies](https://www.hopsandpops.com/products/mochi-bao-buddies-squishy-soup-dumpling-yummy-plushies): 🥟 Say hello to the Mochi Bao Buddies - plush pillows that look just like adorable steamed buns! With chubby round bodies, silly embroidered expressions, and soft dumpling tops, these cuties are perfect for hugging, displaying, or gifting. Whether you love food-themed decor or need a squishy companion, these bao-shaped plushies are ready to spice up your life! 🎀 Choose between two hilarious moods - "Saliva Sparkles" for a drooling delight, or "Diss Face" for that unimpressed bao sass. These buns are guaranteed to make anyone smile, giggle, and want to squeeze them endlessly. WHY YOU’LL LOVE IT ☁️ Ultra Soft & Plushy - Made with cloud-soft fabric and stuffed with premium PP cotton for extra squish.😋 Food-Inspired Design - Shaped like steamed buns with kawaii facial expressions.🎭 Two Funny Styles - Collect the sparkly-eyed "Saliva" face or the sassy "Diss" bun.🎁 Perfect Gift Idea - A quirky gift for foodies, plush collectors, or anyone who loves cute things.🛋 Decor or Cuddle Buddy - Great for beds, sofas, dorms, or as stress-relieving pillows.🧵 Durable & Huggable - High-quality embroidery and stitching built to last. SIZE & MATERIAL 📐 Available Sizes: 20cm / 25cm🧵 Material: Super soft plush + premium PP cotton filling EASY CARE 🧽 Spot clean with mild soap and warm water.🚫 Do not iron or machine wash.🌞 Let air dry naturally to keep the fluffiness fresh. Add a Mochi Bao Buddy to your plush collection and enjoy the most lovable dumpling ever steamed! 🥢💕
+- [Mochi Bao Buddies, Squishy Soup Dumpling Yummy Plushies](https://www.hopsandpops.com/products/mochi-bao-buddies-squishy-soup-dumpling-yummy-plushies): 🥟 Say hello to the Mochi Bao Buddies - plush pillows that look just like adorable steamed buns! With chubby round bodies, silly embroidered expressions, and soft dumpling tops, these cuties are perfect for hugging, displaying, or gifting. Whether you love food-themed decor or need a squishy companion, these bao-shaped plushies are ready to spice up your life! 🎀 Choose between two hilarious moods - "Saliva Sparkles" for a drooling delight, or "Diss Face" for that unimpressed bao sass. These buns are  to make anyone smile, giggle, and want to squeeze them endlessly. WHY YOU’LL LOVE IT ☁️ Ultra Soft & Plushy - Made with cloud-soft fabric and stuffed with premium PP cotton for extra squish.😋 Food-Inspired Design - Shaped like steamed buns with kawaii facial expressions.🎭 Two Funny Styles - Collect the sparkly-eyed "Saliva" face or the sassy "Diss" bun.🎁 Perfect Gift Idea - A quirky gift for foodies, plush collectors, or anyone who loves cute things.🛋 Decor or Cuddle Buddy - Great for beds, sofas, dorms, or as stress-relieving pillows.🧵 Durable & Huggable - High-quality embroidery and stitching built to last. SIZE & MATERIAL 📐 Available Sizes: 20cm / 25cm🧵 Material: Super soft plush + premium PP cotton filling EASY CARE 🧽 Spot clean with mild soap and warm water.🚫 Do not iron or machine wash.🌞 Let air dry naturally to keep the fluffiness fresh. Add a Mochi Bao Buddy to your plush collection and enjoy the most lovable dumpling ever steamed! 🥢💕
   Updated: 2025-11-07T23:31:42Z
   Vendor: Hops & Pops
   Product Type: Yummy Plushies
@@ -5172,7 +5172,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cheddar-chonks-kawaii-cheese-slice-plushies-stuffedanimal-hamster-cheese-20cm-805569.jpg?v=1756492429
     Price: $56.76 USD
 - [Sippy Paws Cat Milk & Juice Box Plushies](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies): 🥤 Meet the Sippy Paws Plushies, where your favorite drinks meet your favorite animal - the cat! These squishy cuties are styled like adorable juice boxes and milk cartons, with tiny tails, playful ears, and sweet embroidered smiles. Whether it’s a strawberry milk kitty or a juicy feline friend, each plush is an irresistible blend of flavor and fluff. 🎀 Perfect as cozy companions, sofa accents, or playful gifts, these plushies bring a refreshing splash of charm to any space! WHY YOU’LL LOVE IT ☁️ Ultra-Soft & Cuddly - Made with the plushest materials and filled with fluffy PP cotton.🥛 Milk & Juice Designs - Choose between two tasty themes in purr-fectly pastel pink or warm caramel tones.🐾 Cute Cat Details - Featuring ears, whiskers, paws, and even tails for a full-on feline fantasy.🎁 Deliciously Giftable - Ideal for birthdays, holidays, or surprising someone with something sweet.🛋 Whimsical Decor Piece - Brighten up your bed, chair, or nook with food-inspired plush charm.🧵 Durably Made - Strong stitching and quality craftsmanship for long-term squeezes. SIZE & MATERIAL 📐 Available Sizes: Small: 16×22cm Medium: 25×33cm Large: 33×42cm 🧵 Material: Soft plush fabric with premium PP cotton filling EASY CARE 🧽 Hand wash gently with cold water and mild soap.🚫 Avoid ironing or machine washing.🌞 Air dry thoroughly to keep it fluffy and fresh. Add a Sippy Paws Plushie to your collection today - it’s the purr-fect pour of cozy! 🐱🥛🍓
-  Updated: 2025-12-25T05:53:09Z
+  Updated: 2026-01-05T06:04:24Z
   Vendor: Hops & Pops
   Product Type: Yummy Plushies
   Availability: Available
@@ -5180,27 +5180,27 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   - [Brown / 22cm](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies?variant=42706496716842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-sippy-paws-cat-milk-juice-box-plushies-sweetsplush-stuffedanimal-brown-22cm-693079.jpg?v=1756492464
-    Price: $30.18 USD
+    Price: $38.70 USD
   - [Pink / 33cm](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies?variant=42706496749610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-sippy-paws-cat-milk-juice-box-plushies-sweetsplush-stuffedanimal-pink-33cm-971842.jpg?v=1756492464
-    Price: $43.93 USD
+    Price: $56.34 USD
   - [Pink / 22cm](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies?variant=42706496782378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-sippy-paws-cat-milk-juice-box-plushies-sweetsplush-stuffedanimal-pink-33cm-971842.jpg?v=1756492464
-    Price: $30.18 USD
+    Price: $38.70 USD
   - [Pink / 42cm](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies?variant=42706496815146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-sippy-paws-cat-milk-juice-box-plushies-sweetsplush-stuffedanimal-pink-33cm-971842.jpg?v=1756492464
-    Price: $66.53 USD
+    Price: $85.29 USD
   - [Brown / 42cm](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies?variant=42706496847914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-sippy-paws-cat-milk-juice-box-plushies-sweetsplush-stuffedanimal-brown-22cm-693079.jpg?v=1756492464
-    Price: $66.53 USD
+    Price: $85.29 USD
   - [Brown / 33cm](https://www.hopsandpops.com/products/sippy-paws-cat-milk-and-juice-box-plushies?variant=42706496880682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-sippy-paws-cat-milk-juice-box-plushies-sweetsplush-stuffedanimal-brown-22cm-693079.jpg?v=1756492464
-    Price: $43.93 USD
+    Price: $56.34 USD
 - [Bao Buddies - Chubby Bun Plush Pillows](https://www.hopsandpops.com/products/bao-buddies-chubby-bun-plush-pillows): 🥯 Meet the Bao Buddies - the squishiest steamed bun plushies with the cutest little faces! These doughy delights are here to charm your space and your heart, with their round toasty shape, tiny feet, and soft, mochi-like texture. Whether you're craving a comforting cuddle or a touch of foodie flair in your room, these buns deliver cozy goodness in every size. 🎀 Perfect for naps, gifting, or decor, Bao Buddies are a must-have for plush collectors, food lovers, and kawaii fans of all ages. WHY YOU’LL LOVE IT ☁️ Super Soft & Squishy - Crafted from velvety plush and stuffed with fluffy PP cotton for a truly huggable feel.🍞 Adorable Toasty Design - A kawaii steamed bun with a golden gradient and expressive embroidered face.👣 Little Bun Legs - Tiny plush feet make it even more loveable and lively.🎁 Fun for All Ages - A delightful surprise for kids, teens, and grown-ups who love cozy cuteness.🛋 Decor + Comfort - Perfect as a pillow, decor accent, or snuggle buddy for your bed or couch.🧵 Durable & Lovingly Made - High-quality stitching ensures your bun stays round and lovable. SIZE & MATERIAL 📐 Available Sizes: 10cm, 18cm, 30cm, 40cm, 60cm🧵 Material: Soft plush fabric with premium PP cotton filling EASY CARE 🧽 Spot clean or hand wash with gentle soap.🚫 Do not machine wash or iron.🌞 Let it air dry to keep it plump and perfect! Bring home a Bao Buddy today and give your hugs a deliciously squishy upgrade! 🥟💕
   Updated: 2025-12-25T05:53:12Z
   Vendor: Hops & Pops
@@ -5355,7 +5355,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-pawfect-plush-3-in-1-kids-travel-blanket-hand-warmer-set-stuffedanimal-brown-bear-184628.jpg?v=1761581216
     Price: $29.99 USD
 - [Cuddle Critters Kids Travel Blanket & Plush Pillow Set](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set): 🐾 Meet the Cuddle Critters, the softest, snuggliest kids travel blanket and plush pillow set! Designed to keep your child warm and comfortable anywhere, the Cuddle Critters Kids Travel Blanket & Plush Pillow Set is perfect for airplane naps, car rides, and cozy nights at home. Each adorable plush transforms into a full-size children’s fleece blanket, creating the perfect travel blanket for airplane trips or family adventures. Choose from four adorable friends: Pig, Frog, Cat, and Bear, each crafted with love, pastel colors, and charming embroidered details that kids can’t resist. 💖 Why Parents Love Cuddle Critters 🐾 Adorable Animal Friends: Choose from four irresistibly cute critters that make travel and nap time extra fun.☁️ Soft & Squishy Comfort: Made from premium plush fabric and filled with soft PP cotton for cloud-like coziness.🛏️ Plush & Blanket in One: Easily unzip to reveal a warm, ultra-soft children’s fleece blanket, perfect as an airplane blanket, car blanket, or toddler blanket.✈️ Perfect for Travel: Lightweight and compact, it’s the best travel blanket for airplane trips, road trips, and vacations.🎁 A Heartwarming Gift: A thoughtful choice for birthdays, holidays, or anyone who loves cute, cozy, and practical gifts.🛋️ Versatile & Decorative: Use it as a travel pillow, room accent, or cuddly comfort buddy anywhere you go. 📏 Size & Material • Pillow Size: 40 × 30 cm• Blanket Size: 100 × 180 cm (fits both kids and adults comfortably)• Material: Ultra-soft plush exterior with premium PP cotton filling and flannel fleece blanket interior 🧽 Easy Care • Hand wash gently with mild soap and water• Do not iron or machine wash• Air dry to maintain softness and fluffiness 🌙 Cozy Comfort for Every Journey Keep your child warm and happy wherever life takes you with the Cuddle Critters Kids Travel Blanket & Plush Pillow Set, the best travel blanket for airplane and car use that doubles as an adorable plush toy. Soft, cute, and travel-ready, it’s comfort your little one will love every day. 💕
-  Updated: 2025-12-25T05:53:17Z
+  Updated: 2026-01-05T06:03:58Z
   Vendor: Hops & Pops
   Product Type: Blanket Buddies
   Availability: Available
@@ -5363,28 +5363,28 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   - [Pig](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set?variant=42774122987562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cuddle-critters-kids-travel-blanket-plush-pillow-set-stuffedanimal-pig-734358.jpg?v=1761581374
-    Price: $115.50 USD
+    Price: $115.98 USD
   - [Blue Cat](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set?variant=42774123020330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cuddle-critters-kids-travel-blanket-plush-pillow-set-stuffedanimal-blue-cat-280493.jpg?v=1761581376
-    Price: $115.50 USD
+    Price: $115.98 USD
   - [Bear](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set?variant=42774123053098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cuddle-critters-kids-travel-blanket-plush-pillow-set-stuffedanimal-bear-815575.jpg?v=1761581378
-    Price: $115.50 USD
+    Price: $115.98 USD
   - [Red Cat](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set?variant=42774123085866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cuddle-critters-kids-travel-blanket-plush-pillow-set-stuffedanimal-red-cat-237339.jpg?v=1761581381
-    Price: $115.50 USD
+    Price: $115.98 USD
   - [Frog](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set?variant=42774123118634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cuddle-critters-kids-travel-blanket-plush-pillow-set-stuffedanimal-frog-541150.jpg?v=1761581384
-    Price: $115.50 USD
+    Price: $115.98 USD
   - [Black Cat](https://www.hopsandpops.com/products/cuddle-critters-blanket-plush-set?variant=42774123151402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-cuddle-critters-kids-travel-blanket-plush-pillow-set-stuffedanimal-black-cat-506108.jpg?v=1761581387
-    Price: $115.50 USD
-- [Fluffy Forest Friends Kids Travel Blanket & Plush Pillow Set](https://www.hopsandpops.com/products/fluffy-forest-friends-blanket-plush-set): 🌟 Meet the Fluffy Forest Friends – the cutest 2-in-1 kids travel blanket and plush pillow set! Designed to keep your child cozy at home and on the go, this adorable children’s fleece blanket and plush toy combo transforms from a huggable plushie into a soft, warm travel blanket in seconds. Perfect for bedtime snuggles, airplane naps, and long car rides, it’s the comfort companion every parent will love. Choose from eight irresistibly cute designs: Lion, Bear, Crocodile, Unicorn, Avocado, Cow, Dinosaur, and Tiger, each one designed with rounded shapes, cute details, and pastel tones that bring joy to every cuddle session. 💖 Why Parents Love Fluffy Forest Friends 🛏️ 2-in-1 Plush & Blanket: A soft plush pillow that unfolds into a cozy children’s fleece blanket, perfect for naps, travel, or bedtime.☁️ Ultra-Soft & Snuggly: Made from premium plush fabric with fluffy PP cotton filling for cloud-like comfort.✈️ Perfect for Travel: Lightweight, portable, and ideal as an airplane blanket, toddler blanket, or car blanket for family adventures.🐾 Adorable Animal Designs: Cute forest and fantasy characters that kids instantly fall in love with.🎁 Great Gift for Kids: A thoughtful travel blanket and pillow set for birthdays, holidays, or cozy family trips.🏡 Versatile & Practical: Use it as a travel blanket for plane rides, a home throw for movie nights, or a plush pillow for everyday comfort.🧵 Durable & Long-Lasting: High-quality stitching ensures your child’s favorite plush stays soft and huggable for years. 📏 Size & Material • Plush Size: 40 × 35 cm (perfect for hugging)• Blanket Size: 100 × 170 cm (fits one adult or two kids comfortably)• Material: Ultra-soft plush exterior with premium PP cotton filling and warm flannel blanket interior 🧽 Easy Care • Plush: Spot clean with mild soap and water• Blanket: Machine washable on gentle cycle• Air dry to keep it fluffy and soft ✨ Wrap Your Child in Warmth & Cuteness Make every journey feel like home with the Fluffy Forest Friends Kids Travel Blanket & Plush Pillow Set, the best travel blanket for airplane, car, or bedtime snuggles. Soft, adorable, and designed for little travelers, it’s the perfect blend of warmth, play, and comfort. 💕
+    Price: $115.98 USD
+- [Fluffy Forest Friends Kids Travel Blanket & Plush Pillow Set](https://www.hopsandpops.com/products/fluffy-forest-friends-blanket-plush-set): 🌟 Meet the Fluffy Forest Friends – the cutest 2-in-1 kids travel blanket and plush pillow set! Designed to keep your child cozy at home and on the go, this adorable children’s fleece blanket and plush toy combo transforms from a huggable plushie into a soft, warm travel blanket in seconds. Perfect for bedtime snuggles, airplane naps, and long car rides, it’s the comfort companion every parent will love. Choose from eight irresistibly cute designs: Lion, Bear, Crocodile, Unicorn, Avocado, Cow, Dinosaur, and Tiger, each one designed with rounded shapes, cute details, and pastel tones that bring joy to every cuddle session. 💖 Why Parents Love Fluffy Forest Friends 🛏️ 2-in-1 Plush & Blanket: A soft plush pillow that unfolds into a cozy children’s fleece blanket, perfect for naps, travel, or bedtime.☁️ Ultra-Soft & Snuggly: Made from premium plush fabric with fluffy PP cotton filling for cloud-like comfort.✈️ Perfect for Travel: Lightweight, portable, and ideal as an airplane blanket, toddler blanket, or car blanket for family adventures.🐾 Adorable Animal Designs: Cute forest and fantasy characters that kids instantly fall in love with.🎁 Great Gift for Kids: A thoughtful travel blanket and pillow set for birthdays, holidays, or cozy family trips.🏡 Versatile & Practical: Use it as a travel blanket for plane rides, a home throw for movie nights, or a plush pillow for everyday comfort.🧵 Durable & Long-Lasting: High-quality stitching ensures your child’s favorite plush stays soft and huggable for years. 📏 Size & Material • Plush Size: 40 × 35 cm (perfect for hugging)• Blanket Size: 100 × 170 cm (fits one  or two kids comfortably)• Material: Ultra-soft plush exterior with premium PP cotton filling and warm flannel blanket interior 🧽 Easy Care • Plush: Spot clean with mild soap and water• Blanket: Machine washable on gentle cycle• Air dry to keep it fluffy and soft ✨ Wrap Your Child in Warmth & Cuteness Make every journey feel like home with the Fluffy Forest Friends Kids Travel Blanket & Plush Pillow Set, the best travel blanket for airplane, car, or bedtime snuggles. Soft, adorable, and designed for little travelers, it’s the perfect blend of warmth, play, and comfort. 💕
   Updated: 2025-12-25T05:53:18Z
   Vendor: Hops & Pops
   Product Type: Blanket Buddies
@@ -5554,7 +5554,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-snugglebites-2-in-1-kids-travel-blanket-plush-pillow-set-stuffedanimal-dog-743352.jpg?v=1761582130
     Price: $74.12 USD
-- [Arctic Pals Kids Travel Blanket & Plush Pillow Set](https://www.hopsandpops.com/products/arctic-pals-blanket-plush-set): 🐧 Meet the Arctic Pals, the perfect travel companions for your little adventurer! This adorable kids travel blanket and pillow set keeps your child warm, happy, and cozy wherever they go. Each Arctic Pal hides a super-soft fleece blanket inside, making it the perfect travel blanket for airplane trips, car rides, and cozy nights at home. Whether your child is resting in a car seat, on a plane, or snuggled up on the couch, the Arctic Pals 2-in-1 travel blanket and plush pillow brings comfort and smiles on every journey. 💖 Why Parents & Kids Love It 🧸 2-in-1 Design: A cuddly plush pillow that opens into a warm children’s blanket for naps and bedtime.✈️ Perfect for Travel: Compact and lightweight, ideal as an airplane blanket or car blanket for kids and parents.❄️ Adorable Arctic Friends: Choose from Penguin, Shark, or Seal, each bursting with personality and charm.☁️ Gentle & Safe Materials: Plush exterior with a soft flannel children’s fleece blanket interior for extra comfort.🎁 Perfect Gift for Kids: A thoughtful present for birthdays, holidays, or family vacations.🛏️ Comfort Anywhere: Great for the plane, car, stroller, or at home — ideal for toddlers and children aged 3–10. 🧵 Size & Material • Plush Size: 55 cm (height)• Blanket Size: Sized for one adult, comfortably fits both child and parent for shared snuggles• Material: Soft plush exterior with premium PP cotton filling and flannel blanket interior 🧽 Care Instructions • Hand wash gently with mild soap• Do not iron or machine wash• Air dry to keep it fluffy and soft 🐧✨ Travel Cozy, Dream HappyMake every trip feel like home with Arctic Pals, the best travel blanket for airplane and car adventures. Cute, compact, and cozy, it’s the toddler travel blanket that keeps your little explorer and you warm and happy wherever you go.
+- [Arctic Pals Kids Travel Blanket & Plush Pillow Set](https://www.hopsandpops.com/products/arctic-pals-blanket-plush-set): 🐧 Meet the Arctic Pals, the perfect travel companions for your little adventurer! This adorable kids travel blanket and pillow set keeps your child warm, happy, and cozy wherever they go. Each Arctic Pal hides a super-soft fleece blanket inside, making it the perfect travel blanket for airplane trips, car rides, and cozy nights at home. Whether your child is resting in a car seat, on a plane, or snuggled up on the couch, the Arctic Pals 2-in-1 travel blanket and plush pillow brings comfort and smiles on every journey. 💖 Why Parents & Kids Love It 🧸 2-in-1 Design: A cuddly plush pillow that opens into a warm children’s blanket for naps and bedtime.✈️ Perfect for Travel: Compact and lightweight, ideal as an airplane blanket or car blanket for kids and parents.❄️ Adorable Arctic Friends: Choose from Penguin, Shark, or Seal, each bursting with personality and charm.☁️ Gentle & Safe Materials: Plush exterior with a soft flannel children’s fleece blanket interior for extra comfort.🎁 Perfect Gift for Kids: A thoughtful present for birthdays, holidays, or family vacations.🛏️ Comfort Anywhere: Great for the plane, car, stroller, or at home — ideal for toddlers and children aged 3–10. 🧵 Size & Material • Plush Size: 55 cm (height)• Blanket Size: Sized for one , comfortably fits both child and parent for shared snuggles• Material: Soft plush exterior with premium PP cotton filling and flannel blanket interior 🧽 Care Instructions • Hand wash gently with mild soap• Do not iron or machine wash• Air dry to keep it fluffy and soft 🐧✨ Travel Cozy, Dream HappyMake every trip feel like home with Arctic Pals, the best travel blanket for airplane and car adventures. Cute, compact, and cozy, it’s the toddler travel blanket that keeps your little explorer and you warm and happy wherever you go.
   Updated: 2025-11-05T06:44:32Z
   Vendor: Hops & Pops
   Product Type: Blanket Buddies
@@ -6289,7 +6289,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-white-80cm-316641.webp?v=1763808707
     Price: $125.09 USD
-- [Black & Grey Winking & Sleeping Cat Plush Body Pillow](https://www.hopsandpops.com/products/black-grey-winking-sleeping-cat-plush-body-pillow): 😺 Meet the Black & Grey Winking & Sleeping Cat, an irresistibly soft cat plush pillow designed for cuddles, naps, and cozy home decor. This long, hug-ready body pillow features a charming sleeping cat face with big embroidered eyes and velvety fur that begs for snuggles. Whether you choose classic Black, plush Grey, or the Grey Sleeping style, this stuffed cat cushion brings instant comfort to beds, sofas, and reading nooks.Crafted with premium soft plush fabric and filled with high-quality PP cotton, the Black & Grey Winking & Sleeping Cat Plush offers cloudlike support for side sleeping, lumbar relief, and relaxation. Its elongated silhouette makes it a perfect kawaii body pillow for hugging while watching TV, gaming, or unwinding after a long day. Lightweight and portable, it is easy to carry from room to room for on-demand comfort.Looking for the best birthday gift for cat lovers? This adorable stuffed cat pillow is a hit for teens and adults who love cute decor and premium plushies. With CE certification and careful stitching, it is built for daily snuggles while keeping its chonky, huggable shape. 💛 WHY YOU'LL LOVE IT ✨ Super Soft & Squishy - Ultra plush fabric with cushy PP cotton filling for dreamy comfort.🐾 Huggable Body Pillow Design - Long, supportive shape that is perfect for naps and relaxing.😴 Kawaii Sleeping Expressions - Embroidered details and big eyes for irresistible charm.🎁 Gift Ready - A thoughtful present for birthdays, holidays, and special occasions.🏠 Decor Friendly - Elevates bedrooms, dorms, and living spaces with cozy cat vibes.✅ Quality You Can Trust - CE certified with neat seams for lasting durability. SIZE & MATERIAL 📏 Available Sizes: 60 cm, 90 cm, 120 cm (allow 1–2 cm variation).🎨 Styles: Black, Grey, Grey Sleeping.🧵 Material: Soft plush exterior with premium PP cotton filling. EASY CARE 🧼 Spot clean gently with mild soap and cold water.🌬️ Air dry completely and fluff to restore loft.🔥 Safety: Keep away from fire and heat sources.Add the Black & Grey Winking & Sleeping Cat Plush to your cart today and enjoy the perfect black cat plush pillow for hugging, decorating, and sleeping! 🐱💤
+- [Black & Grey Winking & Sleeping Cat Plush Body Pillow](https://www.hopsandpops.com/products/black-grey-winking-sleeping-cat-plush-body-pillow): 😺 Meet the Black & Grey Winking & Sleeping Cat, an irresistibly soft cat plush pillow designed for cuddles, naps, and cozy home decor. This long, hug-ready body pillow features a charming sleeping cat face with big embroidered eyes and velvety fur that begs for snuggles. Whether you choose classic Black, plush Grey, or the Grey Sleeping style, this stuffed cat cushion brings instant comfort to beds, sofas, and reading nooks.Crafted with premium soft plush fabric and filled with high-quality PP cotton, the Black & Grey Winking & Sleeping Cat Plush offers cloudlike support for side sleeping, lumbar relief, and relaxation. Its elongated silhouette makes it a perfect kawaii body pillow for hugging while watching TV, gaming, or unwinding after a long day. Lightweight and portable, it is easy to carry from room to room for on-demand comfort.Looking for the best birthday gift for cat lovers? This adorable stuffed cat pillow is a hit for teens and adults who love cute decor and premium plushies. With CE certification and careful stitching, it is built for daily snuggles while keeping its chonky, huggable shape. 💛 WHY YOU'LL LOVE IT ✨ Super Soft & Squishy - Ultra plush fabric with cushy PP cotton filling for dreamy comfort.🐾 Huggable Body Pillow Design - Long, supportive shape that is perfect for naps and relaxing.😴 Kawaii Sleeping Expressions - Embroidered details and big eyes for irresistible charm.🎁 Gift Ready - A thoughtful present for birthdays, holidays, and special occasions.🏠 Decor Friendly - Elevates bedrooms, dorms, and living spaces with cozy cat vibes.✅ Quality You Can Trust - CE  with neat seams for lasting durability. SIZE & MATERIAL 📏 Available Sizes: 60 cm, 90 cm, 120 cm (allow 1–2 cm variation).🎨 Styles: Black, Grey, Grey Sleeping.🧵 Material: Soft plush exterior with premium PP cotton filling. EASY CARE 🧼 Spot clean gently with mild soap and cold water.🌬️ Air dry completely and fluff to restore loft.🔥 Safety: Keep away from fire and heat sources.Add the Black & Grey Winking & Sleeping Cat Plush to your cart today and enjoy the perfect black cat plush pillow for hugging, decorating, and sleeping! 🐱💤
   Updated: 2025-12-25T05:53:32Z
   Vendor: Hops & Pops
   Product Type: Looong Plushies
@@ -6331,6 +6331,118 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/S80729d7eb5c540bb82d0fc05145ad30bE.webp?v=1765526603
     Price: $186.42 USD
+- [Adorable Aww Long Cat Hugging Pillow Plush](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush): 🐾 Meet the Adorable Aww Long Cat Hugging Pillow Plush, a super cuddly kawaii cat plush that doubles as a supportive body pillow. With oversized sparkly eyes, a sweet cartoon face, and a silky soft touch, this long cat plush brings cozy comfort to beds, sofas, gaming chairs, and reading nooks.Crafted from velvety plush fabric and filled with premium PP cotton, Adorable Aww is squishy yet supportive, perfect for hugging, lounging, and stress relief. Available in 90 cm and 110 cm, it is ideal for kids, teens, and adults who love cute decor and ergonomic snuggles. Choose from charming colors including gray, cheetah like patches, brown, khaki & black. WHY YOU’LL LOVE IT ⭐ Super soft and squishy: Ultra plush outer with cloudlike PP cotton for relaxing cuddles and naps.🐱 Adorable kawaii design: Big eyes, round cheeks, and a friendly face create instant cozy vibes in any room.🛏️ Perfect body pillow: Long cylindrical shape supports side sleeping, reading, and gaming sessions.🎁 Gift ready: A cute birthday or holiday surprise for cat lovers, anime fans, and anyone who wants a snuggle buddy.🏠 Versatile home decor: Works as a sofa bolster, bed pillow, nursery accent, or study buddy for dorm rooms.🧵 Quality you can feel: Neat stitching, durable embroidery, and shape-retaining stuffing for long lasting fluff. SIZE & MATERIAL 📏 Available sizes: 90 cm and 110 cm for the perfect cuddle length.🧸 Material: Soft plush fabric with premium PP cotton filling for breathable, huggable comfort.📦 Packaging: Vacuum sealed for safe and clean delivery. EASY CARE 🧽 Spot clean or hand wash gently with mild soap and cool water.🚫 Do not bleach, iron, or tumble dry to preserve softness and shape.🌤️ Air dry completely, then fluff by hand to restore maximum squish.Add the Adorable Aww Long Cat Hugging Pillow Plush to your collection today and upgrade your cuddle game with the cutest long cat plush body pillow. Snuggle better, sleep cozier, and style your space with irresistible kawaii charm."
+  Updated: 2026-01-05T18:14:35Z
+  Vendor: Hops & Pops
+  Product Type: Looong Plushies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-608889.webp?v=1767595231
+  - [Grey / 90cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961372714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-grey-90cm-373813.webp?v=1767595262
+    Price: $98.00 USD
+  - [Grey / 110cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961405482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-grey-90cm-373813.webp?v=1767595262
+    Price: $129.00 USD
+  - [Black / 90cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961438250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-black-90cm-894237.webp?v=1767595264
+    Price: $98.00 USD
+  - [Black / 110cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961471018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-black-90cm-894237.webp?v=1767595264
+    Price: $129.00 USD
+  - [Brown / 90cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961503786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-brown-90cm-791566.webp?v=1767595265
+    Price: $98.00 USD
+  - [Brown / 110cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961536554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-brown-90cm-791566.webp?v=1767595265
+    Price: $129.00 USD
+  - [Cheetah / 90cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961569322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-cheetah-90cm-946075.webp?v=1767595267
+    Price: $98.00 USD
+  - [Cheetah / 110cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961602090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-cheetah-90cm-946075.webp?v=1767595267
+    Price: $129.00 USD
+  - [Khaki / 90cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961634858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-khaki-90cm-489160.webp?v=1767595269
+    Price: $98.00 USD
+  - [Khaki / 110cm](https://www.hopsandpops.com/products/adorable-aww-long-cat-hugging-pillow-plush?variant=43939961667626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-adorable-aww-long-cat-hugging-pillow-plush-catplush-stuffedanimal-khaki-90cm-489160.webp?v=1767595269
+    Price: $129.00 USD
+- [Lucky Dot Ladybugs, Colorful Squishy Ladybug Plush Pillows](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows): 🐞 Meet the Lucky Dot Ladybugs, a cheerful colony of colorful ladybird plush pillows created for maximum cuddles and super cute decor. These round bug buddies are packed with premium PP cotton for cloudlike squish, giving you a cozy cushion that doubles as a huggable stuffed animal. Designed with bold spots, big embroidered eyes, and a soft velvety shell, each ladybug brings instant joy to bedrooms, dorms, reading nooks, and sofas.Whether you love kawaii plush toys, want a playful bug pillow for naps, or need a unique ladybird gift, the Lucky Dot Ladybugs are the perfect pick. Choose from vibrant red, orange, green, blue, and purple to match your vibe, then pick the size that suits your snuggle style. Kids, teens, and plush collectors adore their chubby round shape and whimsical look, while adults love the supportive cushion feel for relaxing, scrolling, or binge watching. WHY YOU'LL LOVE IT 🌈 Color Pop Design - High contrast spots and bright hues make an eye catching ladybug plush that upgrades any space.☁️ Ultra Soft & Squishy - Plush exterior with premium PP cotton filling for pillowy comfort and stress relief.🐞 Kawaii Bug Aesthetic - Cute round body, big eyes, and cartoon style details for instant charm.🛋️ Decor + Pillow in One - Perfect as a sofa cushion, reading pillow, or playful bed accent.🎁 Adorable Gift - A must have ladybird stuffed animal for birthdays, holidays, and collectors.🧵 Durable Craft - Neat stitching and quality materials keep your plush fluffy and huggable longer. SIZE & MATERIAL 📏 Available Sizes: 35 cm, 45 cm, 65 cm🎨 Colors: Red, Orange, Green, Blue, Blue Purple🧸 Material: Soft plush fabric filled with premium PP cotton for lasting squish and support EASY CARE 🧼 Spot clean by hand with mild soap and cool water.🚫 Do not bleach or iron to preserve softness and shape.🌬️ Air dry completely, then fluff to restore that chubby cuddle feel.Add a Lucky Dot Ladybug to your cozy corner today and enjoy a super soft, ultra cute ladybird cushion that brightens every snuggle session.
+  Updated: 2026-01-05T18:49:50Z
+  Vendor: Hops & Pops
+  Product Type: Animal Kingdom Plushies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-245999.webp?v=1767597708
+  - [Orange / 35cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992371242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-orange-35cm-825615.webp?v=1767597724
+    Price: $44.07 USD
+  - [Orange / 45cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992404010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-orange-35cm-825615.webp?v=1767597724
+    Price: $67.28 USD
+  - [Orange / 65cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939991945258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-orange-35cm-825615.webp?v=1767597724
+    Price: $111.58 USD
+  - [Red / 35cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939991978026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-red-35cm-151102.webp?v=1767597725
+    Price: $44.07 USD
+  - [Red / 45cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992010794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-red-35cm-151102.webp?v=1767597725
+    Price: $67.28 USD
+  - [Red / 65cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992043562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-red-35cm-151102.webp?v=1767597725
+    Price: $111.58 USD
+  - [Green / 35cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992076330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-green-35cm-170611.webp?v=1767597726
+    Price: $44.07 USD
+  - [Green / 45cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992109098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-green-35cm-170611.webp?v=1767597726
+    Price: $67.28 USD
+  - [Green / 65cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992141866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-green-35cm-170611.webp?v=1767597726
+    Price: $111.58 USD
+  - [Blue / 35cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992174634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-blue-35cm-411910.webp?v=1767597728
+    Price: $44.07 USD
+  - [Blue / 45cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992207402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-blue-35cm-411910.webp?v=1767597728
+    Price: $67.28 USD
+  - [Blue / 65cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992240170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-blue-35cm-411910.webp?v=1767597728
+    Price: $111.58 USD
+  - [Purple / 35cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992272938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-purple-35cm-226486.webp?v=1767597729
+    Price: $44.07 USD
+  - [Purple / 45cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992305706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-purple-35cm-226486.webp?v=1767597729
+    Price: $67.28 USD
+  - [Purple / 65cm](https://www.hopsandpops.com/products/lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows?variant=43939992338474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-lucky-dot-ladybugs-colorful-squishy-ladybug-plush-pillows-ladybugplush-stuffedanimal-purple-35cm-226486.webp?v=1767597729
+    Price: $111.58 USD
 
 ## Collections
 
@@ -6341,32 +6453,32 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:28Z
   Total Products: 12
 - [Animal Kingdom Plushies](https://www.hopsandpops.com/collections/animal-kingdom-plushies): Explore the cutest collection of animal plush toys at Hops & Pops! From wild jungle animals to underwater creatures and farmyard friends, these soft stuffed animals and cuddly companions are perfect for kids and collectors alike. Discover plushies that inspire imagination, learning, and playtime joy. Shop animal plushies online now!
-  Updated: 2025-12-27T12:15:43Z
-  Total Products: 66
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 67
 - [Looong Plushies](https://www.hopsandpops.com/collections/looong-plushies): Looking for extra cuddles? Our Looong Plushies are oversized stuffed animals designed for ultimate snuggling and body pillow comfort. Stretching over 90cm, these plush toys are perfect for beds, couches, or cozy corners. Ideal for both kids and adults who love plush hugs that never end.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 64
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 65
 - [Yummy Plushies](https://www.hopsandpops.com/collections/yummy-plushies): Sweeten up your space with our Yummy Plushies! They are adorable food-themed plush toys inspired by cakes, fruits, ice creams, and more. These dessert plushies make perfect gifts, room decor, and cuddly companions. Discover soft and squishy treats you can hug, only at Hops & Pops.
-  Updated: 2025-12-25T05:53:13Z
+  Updated: 2026-01-05T06:04:25Z
   Total Products: 16
 - [Travel Blanket Sets for Kids](https://www.hopsandpops.com/collections/travel-blanket-sets-for-kids): ✈️ Keep your little traveler cozy wherever they go! Our Travel Blanket Sets for Kids combine the comfort of a warm blanket with the cuteness of a plush pillow, making every car ride, flight, or sleepover feel like home. Designed with both fun and functionality in mind, these 2-in-1 sets are perfect for parents who want their children to rest comfortably during travel.
-  Updated: 2025-12-25T05:53:19Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 12
 - [Alpacas](https://www.hopsandpops.com/collections/alpacas): Bring home cozy charm with our alpaca plushies at Hops & Pops! These ultra-soft, adorable alpaca stuffed animals make perfect companions for snuggling, gifting, or adding a playful touch to any room.
   Updated: 2025-12-25T05:53:48Z
   Total Products: 2
 - [Axolotls](https://www.hopsandpops.com/collections/axolotls): Brighten your day with our cute axolotl plushies and stuffed animals! Super soft and cuddly, these fun axolotl plush toys are great for hugs, gifts, or whimsical decor.
-  Updated: 2025-12-25T05:52:59Z
+  Updated: 2026-01-05T06:05:29Z
   Total Products: 1
 - [Bears](https://www.hopsandpops.com/collections/bears): Fall in love with our collection of bear plushies at Hops & Pops! Whether it’s a classic teddy or a playful bear buddy, these plush toys are made for hugs, smiles, and cozy moments.
-  Updated: 2025-12-25T05:53:19Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 5
 - [Capybaras](https://www.hopsandpops.com/collections/capybaras): Meet your new favorite snuggle buddy with our capybara plushies! Soft, quirky, and irresistibly cute, these capybara stuffed animals are perfect for gifts, decor, or cuddles anytime.
   Updated: 2025-12-25T06:00:04Z
   Total Products: 4
 - [Cats](https://www.hopsandpops.com/collections/cats): Purr-fectly adorable cat plushies await at Hops & Pops! From playful kittens to soft, squishy cats, these plush toys make lovable gifts, cuddly friends, and cute decor accents.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 37
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 38
 - [Caterpillars](https://www.hopsandpops.com/collections/caterpillars): Bring color and fun to your space with our caterpillar plushies! These soft, vibrant caterpillar stuffed animals are perfect for imaginative play, snuggles, or unique gifting.
   Updated: 2025-12-25T05:52:38Z
   Total Products: 3
@@ -6401,7 +6513,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:48Z
   Total Products: 5
 - [Frogs](https://www.hopsandpops.com/collections/frogs): Leap into fun with our frog plushies at Hops & Pops! Soft, squishy, and full of personality, these frog stuffed animals make quirky gifts, snuggly friends, and playful decor.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 3
 - [Giraffes](https://www.hopsandpops.com/collections/giraffes): Reach new heights of cuteness with our giraffe plushies at Hops & Pops! These tall, huggable giraffe stuffed animals are perfect for snuggles, gifting, or adding safari charm to your decor.
   Updated: 2025-12-25T05:53:48Z
@@ -6437,7 +6549,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:14Z
   Total Products: 11
 - [Pigs](https://www.hopsandpops.com/collections/pigs): Oink oink! Our pig plushies at Hops & Pops are bursting with cuteness. These squishy, snuggly pig stuffed animals make lovable cuddle buddies, adorable gifts, and fun companions for every age.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 12
 - [Rabbits](https://www.hopsandpops.com/collections/rabbits): Hop into a world of cuteness with our rabbit plushies at Hops & Pops! These soft, floppy-eared bunny stuffed animals are perfect for snuggles, sweet gifts, and adding a playful charm to any space.
   Updated: 2025-12-25T05:53:16Z
@@ -6463,9 +6575,9 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
 - [Zebras](https://www.hopsandpops.com/collections/zebras): Stripes have never been this cuddly! Our zebra plushies at Hops & Pops are soft, snuggly, and full of charm, perfect for cozy hugs, playful decor, or an adorable gift.
   Updated: 2025-12-25T05:52:49Z
   Total Products: 1
-- [Best Selling Plushies](https://www.hopsandpops.com/collections/best-selling-plushies)
-  Updated: 2025-12-27T12:15:43Z
-  Total Products: 169
+- [Best  Plushies](https://www.hopsandpops.com/collections/best--plushies)
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 171
 - [Pink Happy Unicorn Plushies](https://www.hopsandpops.com/collections/pink-happy-unicorn-plushies): Introducing the Pink Happy Unicorn Plushies, your new favorite stuffed animal from Hops & Pops. These cute and kawaii plushies are perfect for cuddling and bringing joy to any room. With their squishy texture and vibrant colors, they are an irresistible plush companion.
   Updated: 2025-12-25T05:53:19Z
   Total Products: 6
@@ -6557,56 +6669,56 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:02Z
   Total Products: 6
 - [Happy Cat Plushies](https://www.hopsandpops.com/collections/happy-cat-plushies): Discover the charming world of Happy Cat Plushies from Hops & Pops, designed to bring joy and warmth to any space. These delightful plush companions are perfect for adding a touch of whimsy to bedroom decor, making memorable gifts, or simply for cuddling during cozy moments. Embrace the kawaii aesthetic with our cute, squishy stuffed animals that promise endless comfort and smiles.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 23
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 24
 - [Big Cat Plushies](https://www.hopsandpops.com/collections/big-cat-plushies): Welcome to the world of Big Cat Plushies by Hops & Pops, where plush comfort meets a kawaii aesthetic. These oversized plush companions are perfect for adding a touch of whimsy to any bedroom decor, making them ideal for gift-giving or as part of a delightful collection. Embrace the cozy living lifestyle with our cute and squishy stuffed animals, designed to bring joy and warmth to playful spaces.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 22
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 23
 - [Long Cat Plushies](https://www.hopsandpops.com/collections/long-cat-plushies): Discover the delightful world of Long Cat Plushies, where comfort meets cuteness. These plush companions are perfect for adding a touch of whimsy to your bedroom decor or for gifting to loved ones. Embrace the kawaii aesthetic with these adorable, elongated friends that bring cozy living and playful spaces to life. At Hops & Pops, our plushies are more than just toys; they're your new favorite stuffed animals, ready to squish and cuddle.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 20
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 21
 - [Big Long Cat Plushies](https://www.hopsandpops.com/collections/big-long-cat-plushies): Discover the delightful world of Big Long Cat Plushies from Hops & Pops. These adorable plush companions are perfect for adding a touch of cuteness and comfort to any space. With their elongated design and irresistibly soft texture, they make a charming addition to bedroom decor, gift-giving, or plushie collections. Embrace the kawaii aesthetic and cozy living with these cute, squishy stuffed animals that bring joy and playful vibes to any room.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 19
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 20
 - [Gray Cat Plushies](https://www.hopsandpops.com/collections/gray-cat-plushies): Discover the delightful world of Gray Cat Plushies by Hops & Pops. These plush companions are perfect for adding a touch of whimsy to your bedroom or gifting to a loved one. With their cute and kawaii design, these stuffed animals bring comfort and joy to any space. Embrace the cozy lifestyle with our collection of soft and squishy plushies.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 18
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 19
 - [Pink Cat Plushies](https://www.hopsandpops.com/collections/pink-cat-plushies): Welcome to the world of Pink Cat Plushies by Hops & Pops. These adorable plush companions bring a touch of kawaii charm to any space. Perfect for decorating bedrooms, gifting to loved ones, or adding to your collection, each plush is crafted to deliver comfort and joy. With their soft pink hue and cheerful expressions, these plushies embody cozy living and playful vibes.
-  Updated: 2025-12-25T05:58:24Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 16
 - [Cat Plushies](https://www.hopsandpops.com/collections/cat-plushies): Welcome to the enchanting world of Cat Plushies by Hops & Pops. These adorable companions bring joy with their cute and kawaii designs, perfect for adding a touch of coziness to your living space. Whether you're a collector of stuffed animals or seeking a delightful gift, our plushies offer warmth and charm for every occasion.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 37
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 38
 - [White Cat Plushies](https://www.hopsandpops.com/collections/white-cat-plushies): Welcome to the delightful world of White Cat Plushies by Hops & Pops, where charm and comfort meet in the most adorable way. These plush friends are perfect for adding a touch of cuteness to any space, whether it's snuggling in a cozy bedroom or enhancing a playful living room. With their kawaii aesthetic and irresistibly squishy design, these stuffed animals make wonderful gifts for loved ones or a charming addition to any plush collection. Embrace the soft and cute style that only Hops & Pops can deliver.
   Updated: 2025-12-25T05:52:52Z
   Total Products: 15
 - [Big Happy Cat Plushies](https://www.hopsandpops.com/collections/big-happy-cat-plushies): Welcome to the delightful world of Big Happy Cat Plushies, where joy and charm come together in the most endearing way. These plush companions are perfect for adding a touch of whimsy to bedroom decor or for giving as the ultimate cute gift. Embrace the kawaii aesthetic with these lovable stuffed animals from Hops & Pops, designed to bring comfort and happiness to any playful space.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 15
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 16
 - [Standing Cat Plushies](https://www.hopsandpops.com/collections/standing-cat-plushies): Welcome to the delightful world of Standing Cat Plushies by Hops & Pops. These charming plush companions are perfect for adding a whimsical touch to any space. Whether you're decorating a cozy bedroom, searching for the perfect gift, or looking to add to your collection, these plushies bring a playful and cute vibe. Embrace the kawaii aesthetic with these adorable stuffed animals, designed to bring comfort and joy to your everyday life.
   Updated: 2025-12-25T12:12:57Z
   Total Products: 14
 - [Long Happy Cat Plushies](https://www.hopsandpops.com/collections/long-happy-cat-plushies): Discover the charm of Long Happy Cat Plushies by Hops & Pops, where cheerful expressions meet a cuddly, elongated design. These plush companions are perfect for brightening up any bedroom or living space, adding a touch of kawaii charm to your decor. Ideal for gift-giving or collecting, these plushies bring comfort and joy with their squishy softness.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 14
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 15
 - [Long Standing Cat Plushies](https://www.hopsandpops.com/collections/long-standing-cat-plushies): Introducing the Long Standing Cat Plushies collection from Hops & Pops, where cuteness and comfort meet. These lovable cat companions are perfect for adding a playful touch to any room, whether as bedroom decor or a delightful gift. Embrace the kawaii aesthetic with these plush and squishy stuffed animals that are sure to bring joy and coziness into your life.
   Updated: 2025-12-25T12:12:57Z
   Total Products: 12
 - [Giant Cat Plushies](https://www.hopsandpops.com/collections/giant-cat-plushies): Welcome to the world of Giant Cat Plushies by Hops & Pops! These oversized plush companions are perfect for adding a touch of whimsy to your living space or gifting to someone special. With their cute and squishy design, they embody the kawaii aesthetic and invite cozy living. Whether you're a collector of plushies or simply seeking comfort, these stuffed animal friends are a delightful addition to any playful space.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 12
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 13
 - [Happy Standing Cat Plushies](https://www.hopsandpops.com/collections/happy-standing-cat-plushies): Welcome to the delightful world of Happy Standing Cat Plushies by Hops & Pops. These plush companions are designed to bring joy and cheer to any space with their adorable standing posture and cheerful expressions. Perfect for bedroom decor, gift-giving, and collectors who appreciate the kawaii aesthetic. Each stuffed animal is crafted to offer comfort with its cute, squishy design.
   Updated: 2025-12-25T12:12:57Z
   Total Products: 11
 - [Gray Happy Cat Plushies](https://www.hopsandpops.com/collections/gray-happy-cat-plushies): Meet the delightful Gray Happy Cat Plushies from Hops & Pops. These charming companions feature cheerful expressions that bring a smile to anyone's face. Perfect for bedroom decor, gift-giving, or simply adding a touch of kawaii cuteness to your living space. Embrace the cozy, playful lifestyle these plushies represent, offering comfort and joy to all who meet them.
-  Updated: 2025-12-25T05:53:15Z
-  Total Products: 11
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 12
 - [Pink Happy Cat Plushies](https://www.hopsandpops.com/collections/pink-happy-cat-plushies): Welcome to the delightful world of Pink Happy Cat Plushies by Hops & Pops. These charming companions are perfect for anyone who adores plush, cute, and kawaii aesthetics. With their cheerful expressions and soft pink hues, they make wonderful additions to bedroom decor, gifts for loved ones, or cherished collectibles. Embrace the cozy and playful lifestyle that these plushies represent.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 11
 - [Giant Long Cat Plushies](https://www.hopsandpops.com/collections/giant-long-cat-plushies): Welcome to the delightful world of Giant Long Cat Plushies by Hops & Pops, where cuteness meets comfort. These plush companions are perfect for those who adore oversized, snuggly friends. With their unique elongated shape, they add a playful touch to bedrooms, make heartwarming gifts, and are a must-have for any kawaii collection. Embrace the cozy living and playful spaces these plushies inspire, bringing joy and warmth into your home.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 12
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 13
 - [Big Standing Cat Plushies](https://www.hopsandpops.com/collections/big-standing-cat-plushies): Discover the charming world of Big Standing Cat Plushies from Hops & Pops, where every plush is a delightful companion. These plushies feature a delightful combination of size and charm, making them perfect for enhancing bedroom decor or gifting to a loved one. With their kawaii aesthetic and squishy feel, they're ideal for creating cozy living spaces or playful environments.
   Updated: 2025-12-25T12:12:57Z
   Total Products: 11
@@ -6620,31 +6732,31 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:06Z
   Total Products: 10
 - [Brown Cat Plushies](https://www.hopsandpops.com/collections/brown-cat-plushies): Discover the charm of Brown Cat Plushies from Hops & Pops. These cozy companions are perfect for adding a touch of warmth and cuteness to any room. With their plush texture and adorable design, they're ideal for bedroom decor or as a thoughtful gift for loved ones. Embrace the kawaii aesthetic with these delightful plush toys.
-  Updated: 2025-12-25T12:12:57Z
-  Total Products: 10
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 11
 - [Whimsical Cat Plushies](https://www.hopsandpops.com/collections/whimsical-cat-plushies): Welcome to the delightful world of Whimsical Cat Plushies by Hops & Pops. These adorable companions feature playful expressions and soft, cuddly textures that are perfect for adding a touch of whimsy to any room. Whether you're a collector or simply want a cute friend for comfort, these plushies fit seamlessly into a kawaii-inspired lifestyle. Ideal for bedroom decor or as a special gift, they bring joy and warmth wherever they go.
   Updated: 2025-12-25T05:52:37Z
   Total Products: 9
 - [Sitting Cat Plushies](https://www.hopsandpops.com/collections/sitting-cat-plushies): Welcome to the delightful world of Sitting Cat Plushies by Hops & Pops. These cute and squishy companions are perfect for bringing a touch of charm to your bedroom decor or as a thoughtful gift for a loved one. Embrace the kawaii aesthetic and cozy living with our collection of stuffed animal plushies that promise comfort and joy. Whether you're a collector or simply seeking a playful addition to your space, our Sitting Cat Plushies are here to brighten your day.
-  Updated: 2025-12-25T05:58:24Z
+  Updated: 2026-01-07T12:14:53Z
   Total Products: 9
 - [Sleeping Cat Plushies](https://www.hopsandpops.com/collections/sleeping-cat-plushies): Discover the enchanting world of Sleeping Cat Plushies by Hops & Pops, where each plush is crafted to bring peace and comfort into your life. These adorable companions are perfect for bedroom decor, gifting, or adding a touch of kawaii charm to any space. With their cute and kawaii design, these plushies are an ideal choice for those who cherish cozy living and playful spaces.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 10
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 11
 - [Round Cat Plushies](https://www.hopsandpops.com/collections/round-cat-plushies): Discover the delightful world of Round Cat Plushies by Hops & Pops. These adorable companions feature a charmingly round shape, perfect for adding a touch of whimsy to any space. Ideal for bedroom decor, gift-giving, or simply collecting, these plushies embody a kawaii aesthetic that brightens up playful and cozy living spaces. Enjoy the comfort and cuteness of these squishy stuffed animals.
-  Updated: 2025-12-25T05:58:24Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 9
 - [Black Cat Plushies](https://www.hopsandpops.com/collections/black-cat-plushies): Discover the enchanting world of Black Cat Plushies by Hops & Pops. These plush companions are perfect for those who adore the mysterious allure of black cats. Whether used as cozy bedroom decor or delightful gifts for loved ones, these cute stuffed animals add a touch of kawaii charm to any space. Embrace the playful and squishy nature of these plushies and let them bring a little magic into your everyday life.
-  Updated: 2025-12-25T05:58:24Z
-  Total Products: 10
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 11
 - [Giant Happy Cat Plushies](https://www.hopsandpops.com/collections/giant-happy-cat-plushies): Discover the joy of Giant Happy Cat Plushies from Hops & Pops. These plush companions are perfect for adding a touch of whimsy to any space. With their soft, oversized charm, they make ideal gifts for plush lovers or delightful additions to your bedroom decor. Embrace the kawaii aesthetic with these cute, squishy friends designed for cozy living and playful spaces.
-  Updated: 2025-12-25T05:53:06Z
-  Total Products: 9
-- [Big Gray Cat Plushies](https://www.hopsandpops.com/collections/big-gray-cat-plushies): Introducing the Big Gray Cat Plushies collection by Hops & Pops, where plush and cute meet the cozy world of stuffed animals. These delightful companions are ideal for bedroom decor, perfect gifts for cat lovers, and a charming addition to any collection. With their soft, squishy design and kawaii aesthetic, they bring comfort and joy to playful spaces.
-  Updated: 2025-12-25T05:53:33Z
+  Updated: 2026-01-05T06:42:30Z
   Total Products: 10
+- [Big Gray Cat Plushies](https://www.hopsandpops.com/collections/big-gray-cat-plushies): Introducing the Big Gray Cat Plushies collection by Hops & Pops, where plush and cute meet the cozy world of stuffed animals. These delightful companions are ideal for bedroom decor, perfect gifts for cat lovers, and a charming addition to any collection. With their soft, squishy design and kawaii aesthetic, they bring comfort and joy to playful spaces.
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 11
 - [Orange Cat Plushies](https://www.hopsandpops.com/collections/orange-cat-plushies): Discover the Orange Cat Plushies collection, where each plush is a delightful combination of vibrant colors and charming features. Perfect for adding a pop of color to any bedroom or play space, these plushies make wonderful companions for comforting moments and playful adventures. Embrace the kawaii aesthetic with Hops & Pops and let these cute, squishy stuffed animals bring joy to your life.
-  Updated: 2025-12-25T05:51:51Z
+  Updated: 2026-01-07T12:14:53Z
   Total Products: 8
 - [White Happy Cat Plushies](https://www.hopsandpops.com/collections/white-happy-cat-plushies): Discover the charm of White Happy Cat Plushies from Hops & Pops! These adorable plush companions are designed with cheerful expressions and a soft, white fur that adds a touch of joy to any space. Perfect for bedroom decor, collecting, or gift-giving, these stuffed animals embody a cozy and kawaii aesthetic, making every moment a little more joyful.
   Updated: 2025-12-25T05:52:34Z
@@ -6653,13 +6765,13 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:52:52Z
   Total Products: 8
 - [Gray Long Cat Plushies](https://www.hopsandpops.com/collections/gray-long-cat-plushies): Discover the delightful world of Gray Long Cat Plushies, a unique collection from Hops & Pops that combines charm and whimsy. These plush companions, with their elongated design and soft gray hue, are perfect for adding a touch of kawaii to any room. Ideal for bedroom decor or as a thoughtful gift, these plushies embody playful comfort and cozy living.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 9
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 10
 - [Big eyes Cat Plushies](https://www.hopsandpops.com/collections/big-eyes-cat-plushies): Welcome to the delightful world of Big eyes Cat Plushies by Hops & Pops. These plush companions are perfect for adding a touch of charm to your bedroom decor or for gifting to loved ones. Embrace the kawaii aesthetic with these cute and squishy companions, designed to bring joy and comfort to any space. Explore the magic of stuffed animals that are not just toys but a lifestyle choice for cozy living and playful spaces.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 4
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 5
 - [Yellow Cat Plushies](https://www.hopsandpops.com/collections/yellow-cat-plushies): Discover the delightful world of Yellow Cat Plushies by Hops & Pops. These plush companions are not only adorable but also bring a touch of sunshine to any room. Perfect for bedroom decor or as a thoughtful gift, these stuffed animals embody the kawaii aesthetic and add a playful touch to cozy spaces. With their squishy texture and cute design, they are a must-have for collectors and anyone who loves a cheerful vibe.
-  Updated: 2025-12-25T05:53:27Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 7
 - [Small Sitting Cat Plushies](https://www.hopsandpops.com/collections/small-sitting-cat-plushies): Discover the charm of Small Sitting Cat Plushies from Hops & Pops. Perfectly sized for cozy spaces, these cute and squishy companions make delightful additions to any bedroom decor. Their adorable expressions invite warmth and joy, embodying the kawaii aesthetic that brings playfulness to your living space. Ideal for gift-giving or collecting, these plushies offer comfort and style.
   Updated: 2025-12-25T05:58:24Z
@@ -6671,20 +6783,20 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:06Z
   Total Products: 7
 - [Big Sleeping Cat Plushies](https://www.hopsandpops.com/collections/big-sleeping-cat-plushies): Welcome to the world of Big Sleeping Cat Plushies, where comfort meets cuteness. These delightful plush companions are designed with a big, sleeping posture that makes them perfect for cozy spaces. Whether you're looking to enhance your bedroom decor or searching for the ideal gift, these plushies embody the kawaii aesthetic and cozy living that Hops & Pops is known for.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 8
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 9
 - [Giant Pink Cat Plushies](https://www.hopsandpops.com/collections/giant-pink-cat-plushies): Discover the delightful world of Giant Pink Cat Plushies by Hops & Pops, where cute and kawaii meet in the most charming way. These plushies are perfect for adding a splash of joy to any bedroom decor or gifting to loved ones. With their squishy and stuffed animal appeal, they embody a playful and cozy lifestyle.
   Updated: 2025-12-25T05:53:06Z
   Total Products: 7
 - [Long Sleeping Cat Plushies](https://www.hopsandpops.com/collections/long-sleeping-cat-plushies): Discover the charm of Long Sleeping Cat Plushies from Hops & Pops. These delightful plush companions feature a serene, sleeping posture perfect for adding a touch of tranquility to any room. Ideal for bedroom decor, gift-giving, or simply indulging in cozy living, these plushies embody the kawaii aesthetic with their cute and squishy design. Embrace comfort and warmth with these adorable stuffed animals that are sure to bring joy to any playful space.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 8
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 9
 - [White Long Cat Plushies](https://www.hopsandpops.com/collections/white-long-cat-plushies): Welcome to the delightful world of White Long Cat Plushies by Hops & Pops! These plush companions are perfect for adding a touch of whimsy to your bedroom decor or as a charming gift. With their elongated shape and soft white fur, these plushies embody the kawaii aesthetic, making them ideal for playful spaces and cozy living.
   Updated: 2025-12-25T05:52:52Z
   Total Products: 7
 - [Relaxed Cat Plushies](https://www.hopsandpops.com/collections/relaxed-cat-plushies): Welcome to the world of Relaxed Cat Plushies by Hops & Pops, where comfort meets cuteness in the most delightful way. These plush companions are designed to bring a touch of tranquility to your space, making them perfect for bedroom decor, gift-giving, and cozy living. Embrace the kawaii aesthetic with these squishy, adorable plushies that add a playful vibe to any setting.
-  Updated: 2025-12-25T05:53:33Z
-  Total Products: 7
+  Updated: 2026-01-07T12:14:53Z
+  Total Products: 8
 - [Large Face Cat Plushies](https://www.hopsandpops.com/collections/large-face-cat-plushies): Meet the delightful Large Face Cat Plushies from Hops & Pops, where oversized charm meets coziness. These plush companions are perfect for adding a playful touch to any room, making them a wonderful choice for bedroom decor or as a thoughtful gift. Embrace the kawaii aesthetic with these cute and squishy stuffed animals that promise endless comfort and joy.
   Updated: 2025-11-11T09:54:04Z
   Total Products: 0
@@ -6692,14 +6804,14 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:58:24Z
   Total Products: 6
 - [Round Happy Cat Plushies](https://www.hopsandpops.com/collections/round-happy-cat-plushies): Welcome to the delightful world of Round Happy Cat Plushies by Hops & Pops. These charming plush companions are perfect for adding a touch of joy to your home decor or gifting to someone special. With their adorable round shape and cheerful expressions, they embody the kawaii aesthetic, making them ideal for cozy living and playful spaces. Each plush is designed to bring comfort and smiles, perfect for any collection of plushies or stuffed animals.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 6
 - [Gray Round Cat Plushies](https://www.hopsandpops.com/collections/gray-round-cat-plushies): Welcome to the world of Gray Round Cat Plushies, where every plush offers comfort and joy. These adorable companions are perfect for adding a touch of kawaii charm to any bedroom or play space. Whether you're a collector, gift-giver, or simply someone who loves cozy living, Hops & Pops has designed these plushies to bring endless smiles.
   Updated: 2025-12-25T05:53:15Z
   Total Products: 6
 - [Happy Sleeping Cat Plushies](https://www.hopsandpops.com/collections/happy-sleeping-cat-plushies): Introducing the Happy Sleeping Cat Plushies collection by Hops & Pops, where each plush friend embodies serene slumber and happiness. Perfect as a stuffed animal companion for your bedroom or a delightful gift for loved ones, these plushies bring a touch of cute and kawaii charm to any space. Embrace the cozy living lifestyle with these squishy friends that promise comfort and joy.
-  Updated: 2025-12-25T05:52:38Z
-  Total Products: 6
+  Updated: 2026-01-05T06:42:30Z
+  Total Products: 7
 - [Giant Standing Cat Plushies](https://www.hopsandpops.com/collections/giant-standing-cat-plushies): Introducing the Giant Standing Cat Plushies from Hops & Pops, where cuteness meets grandeur. These plush friends are perfect as bedroom decor or for adding joy to any playful space. With their charming designs, they represent the cozy, kawaii aesthetic that brightens up your home. Each stuffed animal is crafted to deliver comfort and delight, making them ideal gifts for cat enthusiasts or plush collectors.
   Updated: 2025-12-25T05:53:06Z
   Total Products: 6
@@ -7007,10 +7119,10 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:16Z
   Total Products: 6
 - [Pink Pig Plushies](https://www.hopsandpops.com/collections/pink-pig-plushies): Introducing the Pink Pig Plushies by Hops & Pops, a delightful collection of plush companions that bring a touch of whimsy and comfort to any space. These adorable stuffed animals are perfect for enhancing bedroom decor, gifting, or simply enjoying a cozy, kawaii aesthetic. With their soft pink hues and squishy design, these plushies are a must-have for anyone who loves cute and cuddly friends.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 12
 - [Happy Pig Plushies](https://www.hopsandpops.com/collections/happy-pig-plushies): Discover the joy of our Happy Pig Plushies, a delightful collection designed to bring warmth and cheer to any space. With their charming expressions and soft, cuddly texture, these plush companions make the perfect addition to bedrooms, nurseries, or playrooms. Hops & Pops ensures each plush is crafted with love, embodying the cute and kawaii aesthetic that brightens up any decor.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 9
 - [Big Pig Plushies](https://www.hopsandpops.com/collections/big-pig-plushies): Welcome to the delightful world of Big Pig Plushies by Hops & Pops! These oversized plush companions are perfect for those who adore cuddly, squishy stuffed animals. With their charming features and large size, they make ideal room decor or a cherished addition to any plush collection. Embrace the kawaii aesthetic and add a touch of joy and comfort to any space.
   Updated: 2025-12-25T05:53:03Z
@@ -7019,10 +7131,10 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:03Z
   Total Products: 9
 - [Pink Happy Pig Plushies](https://www.hopsandpops.com/collections/pink-happy-pig-plushies): Meet the charming Pink Happy Pig Plushies from Hops & Pops! These delightful companions are the perfect blend of cute and kawaii, designed to bring joy to any room. With their soft pink hue and cheerful expressions, they add a playful touch to bedrooms, nurseries, and cozy corners. Ideal for gift-giving or collecting, these plushies are a sweet reminder of happiness and comfort.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 9
 - [Yellow Pig Plushies](https://www.hopsandpops.com/collections/yellow-pig-plushies): Welcome to the delightful world of Yellow Pig Plushies by Hops & Pops! These plush companions bring a burst of sunshine to any space with their cheerful yellow hue. Perfect for bedroom decor or as a heartwarming gift, these plush friends capture the kawaii aesthetic with their cute and squishy design. Embrace cozy living and playful spaces with this adorable collection of plushies.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 8
 - [Long Pig Plushies](https://www.hopsandpops.com/collections/long-pig-plushies): Welcome to the delightful world of Long Pig Plushies from Hops & Pops. These adorable companions are designed with a unique elongated shape, making them perfect for adding a touch of whimsy to any space. Whether you're looking to enhance your bedroom decor or searching for the perfect gift, these cute and squishy plushies are sure to bring smiles.Embrace the kawaii aesthetic and cozy living with these stuffed animal friends that promise to brighten up playful spaces.
   Updated: 2025-12-25T05:53:03Z
@@ -7037,16 +7149,16 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-12-25T05:53:16Z
   Total Products: 7
 - [Green Pig Plushies](https://www.hopsandpops.com/collections/green-pig-plushies): Introducing the Green Pig Plushies collection from Hops & Pops, where the charm of these delightful plush friends brings a splash of color and joy to any space. Perfect for bedroom decor or as a thoughtful gift, these cute and squishy companions embody the kawaii aesthetic, making them ideal for cozy living and playful spaces.Whether you're a collector of stuffed animals or seeking comfort, the Green Pig Plushies are your go-to for creating a cheerful environment.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 7
 - [Big Happy Pig Plushies](https://www.hopsandpops.com/collections/big-happy-pig-plushies): Welcome to the delightful world of Big Happy Pig Plushies, where charm and comfort meet in the form of oversized, cheerful companions. These adorable plush toys are perfect for adding a touch of whimsy to any bedroom decor or as a lovable gift for friends and family. With their soft, squishy designs, they bring the kawaii aesthetic to life, embodying the playful and cozy lifestyle that Hops & Pops is known for. Whether you're a collector or simply seeking a cute friend for cuddling, these stuffed animals are sure to bring a smile to your face.
   Updated: 2025-12-25T05:53:02Z
   Total Products: 7
 - [Green Happy Pig Plushies](https://www.hopsandpops.com/collections/green-happy-pig-plushies): Introducing the Green Happy Pig Plushies collection by Hops & Pops, where cheerful expressions meet a delightful shade of green. These plush companions are perfect for adding a touch of whimsy to any bedroom decor or for gifting to someone who appreciates the kawaii aesthetic. With their squishy texture and cute design, they embody cozy living and playful spaces.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 7
 - [Yellow Happy Pig Plushies](https://www.hopsandpops.com/collections/yellow-happy-pig-plushies): Welcome to the delightful world of Yellow Happy Pig Plushies by Hops & Pops! These cheerful companions are designed to brighten up any room with their vibrant color and joyful expressions. Perfect for adding a touch of kawaii aesthetic to bedroom decor or for gifting to loved ones, these plush toys are as cute as they are comforting. Collectors and comfort seekers alike will adore the squishy softness and playful charm of these stuffed animals.
-  Updated: 2025-12-25T05:53:18Z
+  Updated: 2026-01-05T06:04:00Z
   Total Products: 7
 - [Long Happy Pig Plushies](https://www.hopsandpops.com/collections/long-happy-pig-plushies): Welcome to the delightful world of Long Happy Pig Plushies by Hops & Pops. These plushies are the perfect blend of cheerful charm and cozy comfort, making them an ideal addition to any kawaii-inspired bedroom or playful space. With their elongated design and joyful expressions, they are perfect for collecting or as thoughtful gifts for loved ones. Embrace the cute and squishy lifestyle with these stuffed animal companions.
   Updated: 2025-12-25T05:53:02Z
