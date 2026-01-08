@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-31T00:00:37.107Z
+- Updated At: 2026-01-08T00:00:37.423Z
 
 ## Collections
 
@@ -68,7 +68,7 @@
   - [Global Search Trends: India vs Australia & AI in Hong Kong](https://crazedo.com/blogs/weekly-google-trends/global-search-trends-from-india-vs-australia-to-ai-in-hong-kong): Global Search Trends: India vs Australia & AI in Hong Kong
     Updated: 2025-11-10T13:08:21Z
     Author: Mohammed Hassen
-    Tags: AI Hong Kong, Argentina Football, Australia Cricket, Boca Juniors, Celebrity News, France Football, Global Trends, India Cricket, PSG, River Plate, South Africa Rugby, Sports Highlights, Technology Trends
+    Tags: AI Hong Kong, Argentina Football, Australia Cricket, Boca Juniors,  News, France Football, Global Trends, India Cricket, PSG, River Plate, South Africa Rugby, Sports Highlights, Technology Trends
   - [World Cup 2026 Qualifiers: Portugal & Norway Trending](https://crazedo.com/blogs/weekly-google-trends/world-cup-2026-qualifiers-portugal-norway-haaland-trends): World Cup 2026 Qualifiers: Portugal & Norway Trending
     Updated: 2025-11-17T18:05:46Z
     Author: Mohammed Hassen
@@ -92,11 +92,15 @@
   - [Anthony Joshua vs Jake Paul – Brutal Round 6 KO – Crazedo](https://crazedo.com/blogs/weekly-google-trends/anthony-joshua-vs-jake-paul-joshua-s-devastating-ko-ends-the-hype): Anthony Joshua vs Jake Paul – Brutal Round 6 KO – Crazedo
     Updated: 2025-12-22T20:34:57Z
     Author: Mohammed Hassen
-    Tags: Anthony Joshua knockout, Anthony Joshua Round 6 KO, Anthony Joshua vs Jake Paul, Celebrity boxing trend, Jake Paul boxing news, Jake Paul broken jaw, Jake Paul fight results, Jake Paul Netflix fight, Jake Paul vs Anthony Joshua results, Who won Jake Paul fight
+    Tags: Anthony Joshua knockout, Anthony Joshua Round 6 KO, Anthony Joshua vs Jake Paul,  boxing trend, Jake Paul boxing news, Jake Paul broken jaw, Jake Paul fight results, Jake Paul Netflix fight, Jake Paul vs Anthony Joshua results, Who won Jake Paul fight
   - [Walmart Christmas Week 2025:10M+ Searches and Trend Analysis](https://crazedo.com/blogs/weekly-google-trends/walmart-christmas-week-2025-trending-searches): Walmart Christmas Week 2025:10M+ Searches and Trend Analysis
     Updated: 2025-12-30T02:03:34Z
     Author: Mohammed Hassen
     Tags: AI shopping, Consumer behavior, Crazedo Weekly Trend, Holiday shopping, Inflation 2025, Post-holiday analysis, Retail trends, Walmart
+  - [New Year's Day 2026 Search Trends (20M+ Volume) | Crazedo](https://crazedo.com/blogs/weekly-google-trends/new-years-day-2026-20m-searches-surge-crazedo): New Year's Day 2026 Search Trends (20M+ Volume) | Crazedo
+    Updated: 2026-01-05T22:48:53Z
+    Author: Mohammed Hassen
+    Tags: 2026 goal ideas, 20M searches, Happy New Year 2026, New Year's Day 2026, resolution keywords, seasonal search peaks, SEO content strategy, Trends analysis
 
 ## Store Pages
 
