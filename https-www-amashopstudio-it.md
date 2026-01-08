@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2026-01-01T00:00:45.228Z
+- Updated At: 2026-01-08T00:00:45.255Z
 
 ## Products
 
@@ -230,7 +230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/cvoaciort.jpg?v=1738424137
   Price: 9,90 € EUR
 - [Tazza “Coppia san valentino” personalizzabile](https://www.amashopstudio.it/products/tazza-coppia-san-valentino-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:16Z
+  Updated: 2026-01-04T07:23:40Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -265,7 +265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzayouandme.jpg?v=1738424547
   Price: 9,90 € EUR
 - [Tazza “Mr&Mrs” personalizzabile con stampa su due lati](https://www.amashopstudio.it/products/tazza-mr-mrs-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:17Z
+  Updated: 2026-01-01T04:38:10Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -418,7 +418,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzacustomfoto.jpg?v=1738426928
   Price: 9,90 € EUR
 - [Crea la tua tazza](https://www.amashopstudio.it/products/crea-la-tua-tazza): Personalizza la tua tazza come vuoi : aggiungi immagini, testi, colori e grafiche per creare un design unico! Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:20Z
+  Updated: 2026-01-05T12:01:37Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -808,7 +808,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/educare.jpg?v=1739632874
   Price: 8,00 € EUR
 - [Blocco note ''L' eleganza'' personalizzabile](https://www.amashopstudio.it/products/blocco-note-l-eleganza-personalizzabile): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:25Z
+  Updated: 2026-01-04T06:38:08Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -835,7 +835,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/leopardato.jpg?v=1739633204
   Price: 8,00 € EUR
-- [Blocco note ''Password'' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note-password-personalizzabile-con-nome): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
+- [Blocco note '''' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note--personalizzabile-con-nome): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
   Updated: 2025-09-17T14:59:26Z
   Vendor: AMA SHOP
   Product Type: 
@@ -850,7 +850,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/cvoaciort_79fb6e11-6884-4f80-a49e-4084c4aa7170.jpg?v=1739633493
   Price: 8,00 € EUR
 - [Blocco note ''Le ricette'' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note-le-ricette-personalizzabile-con-nome): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:26Z
+  Updated: 2026-01-05T10:24:30Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1116,7 +1116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/festadelpapacuori.jpg?v=1740521108
   Price: 9,90 € EUR
 - [Tazza ' Polaroid papà ' puoi personalizzarla con nome e foto](https://www.amashopstudio.it/products/tazza-papa-ti-amiamo-puoi-personalizzarla-con-nome-e-foto): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. 🎁 È il REGALO PERFETTO per il tuo PAPA'
-  Updated: 2025-09-17T14:59:32Z
+  Updated: 2026-01-05T09:18:26Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1289,7 +1289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
 - [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2025-12-09T16:01:11Z
+  Updated: 2026-01-05T16:20:53Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1691,7 +1691,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Adesivo divertente Napoli corna| Supporter calcio](https://www.amashopstudio.it/products/adesivo-divertente-napoli-1926-supporter-calcio-copia): . Adesivo in PVC ‘Napoli’ Adatto per Ogni Superficie Gli adesivi in PVC sono una scelta eccellente per chi cerca un'opzione versatile e resistente per decorare o personalizzare superfici diverse. Ecco perché l'adesivo in PVC ‘Napoli’ è ideale per ogni esigenza: Caratteristiche dell'Adesivo in PVC ‘Napoli’ Resistenza: Realizzato con materiali di alta qualità, l'adesivo in PVC ‘Napoli’ è resistente all'acqua, ai raggi UV e agli agenti atmosferici, garantendo una lunga durata nel tempo. Versatilità: Può essere applicato su una varietà di superfici, incluse pareti, vetri, metallo, plastica e molto altro. Facilità di Applicazione: Grazie al suo design autoadesivo, l'adesivo è semplice da applicare e rimuovere senza lasciare residui. Personalizzazione: Disponibile in diverse dimensioni e disegni per soddisfare ogni gusto e necessità.
-  Updated: 2025-09-17T14:59:38Z
+  Updated: 2026-01-05T09:45:23Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -3154,13 +3154,13 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 62
 - [Adesivi](https://www.amashopstudio.it/collections/adesivi): Adesivi personalizzati in pvc
-  Updated: 2025-12-20T12:22:32Z
+  Updated: 2026-01-01T12:13:39Z
   Total Products: 41
 - [Penne](https://www.amashopstudio.it/collections/penne-1): Penne personalizzate con incisione laser
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-12-20T12:22:32Z
+  Updated: 2026-01-06T12:19:38Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-12-10T12:29:29Z
+  Updated: 2026-01-06T12:19:38Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
@@ -3239,7 +3239,7 @@
   Updated: 2024-11-30T14:59:50Z
 - [lnfo  con email](https://www.amashopstudio.it/pages/lnfo-con-email): AMA SHOP Izzo Marianna Via portone chiesa ,35 Trecase NA 80040 izzomarianna@hotmail.it (39) 3920870322
   Updated: 2024-12-01T10:58:49Z
-- [Do not sell or share my personal information](https://www.amashopstudio.it/pages/data-sale-opt-out): Come descritto nella nostra Informativa sulla privacy, raccogliamo i tuoi dati personali dalle tue interazioni con noi e il nostro sito web, anche ...
+- [Do not  or share my personal information](https://www.amashopstudio.it/pages/data--opt-out): Come descritto nella nostra Informativa sulla privacy, raccogliamo i tuoi dati personali dalle tue interazioni con noi e il nostro sito web, anche ...
   Updated: 2024-12-08T10:09:33Z
 - [ULTIMI ARRIVI](https://www.amashopstudio.it/pages/ultimi-arrivi)
   Updated: 2024-12-22T08:14:07Z
