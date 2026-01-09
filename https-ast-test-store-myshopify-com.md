@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-05T15:01:33Z
 - Contact Email: ashok@astconsulting.in
-- Updated At: 2026-01-01T00:00:36.902Z
+- Updated At: 2026-01-09T00:00:37.737Z
 
 ## Products
 
@@ -76,19 +76,19 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
   - [Sunset](https://ast-test-store.myshopify.com/products/the-complete-snowboard?variant=50743190257978)
     Availability: Available
     Price: ₹699.95 INR
-- [स्की स्पीड वैक्स](https://ast-test-store.myshopify.com/products/selling-plans-ski-wax): Unlock peak ski and snowboard speed with Ski Speed Wax. Want a faster, smoother ride? This glide wax makes it easy. Get top glide in cold weather. Its simple application means more time on the slopes, less time waxing. You'll see a big jump in your speed and control. Perfect for all skill levels. Make your next run your best run!
+- [स्की स्पीड वैक्स](https://ast-test-store.myshopify.com/products/-plans-ski-wax): Unlock peak ski and snowboard speed with Ski Speed Wax. Want a faster, smoother ride? This glide wax makes it easy. Get top glide in cold weather. Its simple application means more time on the slopes, less time waxing. You'll see a big jump in your speed and control. Perfect for all skill levels. Make your next run your best run!
   Updated: 2025-09-03T10:20:48Z
   Vendor: AST Test Store
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/1796/4858/files/snowboard_wax.png?v=1741186945
-  - [Selling Plans Ski Wax](https://ast-test-store.myshopify.com/products/selling-plans-ski-wax?variant=50743190290746)
+  - [ Plans Ski Wax](https://ast-test-store.myshopify.com/products/-plans-ski-wax?variant=50743190290746)
     Availability: Available
     Price: ₹24.95 INR
-  - [Special Selling Plans Ski Wax](https://ast-test-store.myshopify.com/products/selling-plans-ski-wax?variant=50743190323514)
+  - [Special  Plans Ski Wax](https://ast-test-store.myshopify.com/products/-plans-ski-wax?variant=50743190323514)
     Availability: Available
     Price: ₹49.95 INR
-  - [Sample Selling Plans Ski Wax](https://ast-test-store.myshopify.com/products/selling-plans-ski-wax?variant=50743190356282)
+  - [Sample  Plans Ski Wax](https://ast-test-store.myshopify.com/products/-plans-ski-wax?variant=50743190356282)
     Availability: Available
     Price: ₹9.95 INR
 - [The Minimal Snowboard](https://ast-test-store.myshopify.com/products/the-minimal-snowboard)
@@ -168,7 +168,7 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
 ## Blogs
 
 - [News](https://ast-test-store.myshopify.com/blogs/news)
-  - [10 Proven Ways to Boost Customer Retention & Loyalty](https://ast-test-store.myshopify.com/blogs/news/10-proven-ways-to-boost-customer-retention-loyalty): Losing customers is costly.  Acquiring new ones often requires significantly more investment than retaining existing ones.  In today's competitive landscape, fo...
+  - [10 Proven Ways to Boost Customer Retention & Loyalty](https://ast-test-store.myshopify.com/blogs/news/10-proven-ways-to-boost-customer-retention-loyalty): Losing customers is costly.  Acquiring new ones often requires significantly more  than retaining existing ones.  In today's competitive landscape, fo...
     Updated: 2025-08-17T13:39:39Z
     Author: Shopify API
   - [Slash Cloud Costs: Your Guide to Optimization](https://ast-test-store.myshopify.com/blogs/news/slash-cloud-costs-your-guide-to-optimization): Are you drowning in unexpected cloud computing bills?  Many businesses embrace the cloud for its scalability and flexibility, but the hidden costs can quickly s...
@@ -199,7 +199,7 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
 Welcome to your comprehensive guide on how to use the Premium Product! Whether you're a beginner or an experienced user, this guide w...
     Updated: 2025-08-18T07:18:09Z
     Author: Store
-  - [Premium Product Review: Is It Worth Your Investment?](https://ast-test-store.myshopify.com/blogs/news/premium-product-review-is-it-worth-your-investment): Premium Product Review: Comprehensive Analysis
+  - [Premium Product Review: Is It Worth Your ?](https://ast-test-store.myshopify.com/blogs/news/premium-product-review-is-it-worth-your-): Premium Product Review: Comprehensive Analysis
 
 Introduction
 
@@ -210,7 +210,7 @@ In today's competitive market, finding the perfect Trunks can be overwhelming. A
     Updated: 2025-08-18T08:38:38Z
     Author: AST Test Store
     Tags: all mountain snowboard, best snowboard gifts, birthday gifts for snowboarders, christmas gifts for snowboarders, gifts for snowboarders, holiday gifts for snowboarders, snowboard gifts, snowboarding gifts, teen snowboard gifts
-  - [Shred the Gnar Like a Pro (Without Selling Your Soul): All Mountain Snowboard Review](https://ast-test-store.myshopify.com/blogs/news/shred-the-gnar-like-a-pro-without-selling-your-soul-all-mountain-snowboard-review): Conquer any terrain with the Hydrogen All Mountain Snowboard. Our Gen Z-approved review covers everything from carving like a boss to surviving epic wipeouts (with style).
+  - [Shred the Gnar Like a Pro (Without  Your Soul): All Mountain Snowboard Review](https://ast-test-store.myshopify.com/blogs/news/shred-the-gnar-like-a-pro-without--your-soul-all-mountain-snowboard-review): Conquer any terrain with the Hydrogen All Mountain Snowboard. Our Gen Z- review covers everything from carving like a boss to surviving epic wipeouts (with style).
     Updated: 2025-08-18T08:47:02Z
     Author: AST Test Store
     Tags: all mountain snowboard, carving snowboard, gen z snowboard, hydrogen snowboard, intermediate snowboard, mountain performance, snowboard review, stable board
