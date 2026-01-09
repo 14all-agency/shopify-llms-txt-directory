@@ -6,75 +6,75 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-12-29T00:00:42.564Z
+- Updated At: 2026-01-09T00:00:43.170Z
 
 ## Products
 
 - [Green Emerald · Picual Variety · 500 ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml): Fresh Harvest 2025 · Most Intense Variety · First Cold Extraction100% Natural Extra Virgin Olive Oil Why You'll Love It The boldest expression in our collection, with pronounced bitterness and peppery intensity. Fresh Harvest 2025 – Early-harvest Picual olives, selected at peak freshness Most Intense Variety – Powerful, structured and elegant on the palate Naturally High in Polyphenols (over 500) – Rich in antioxidants First Cold Extraction (<27 °C) – Preserves aroma, flavor and nutrients 100% Natural Olive Juice – Pure olive juice. No colorants, no additives, no blends — just freshly extracted olives. Emerald-Inspired Bottle – Dark glass designed to protect the oil from light, preserving flavor and freshness over time. Green Emerald Picual is the most intense extra virgin olive oil in our Gems Line, crafted from early-harvest Picual olives grown in Jaén. Cold extracted below 27 °C, it offers a bold, complex flavor with fresh green notes and a clean, peppery finish, naturally rich in over 500 polyphenols. Produced in limited batches and presented in an emerald-inspired bottle, it is a refined culinary luxury and a distinctive gourmet gift.
-  Updated: 2025-12-18T21:06:07Z
+  Updated: 2026-01-07T13:30:20Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2666_EST.jpg?v=1750053125
   Price: $53.00 USD
 - [Blue Sapphire Picual · Sustainable Edition · 500 ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): Fresh Harvest 2025 · Most Delicate Expression in Our Collection · Cold Extracted (<27 °C) 100% Natural Extra Virgin Olive Oil Why You'll Love It Fresh Harvest 2025 – Early-harvest olives, selected at peak freshness Intensity Profile – Smooth, balanced and gentle, with very low bitterness and minimal pepperiness Naturally present Polyphenols – Antioxidants from early-harvest olives First Cold Extraction (<27 °C) – Preserves aroma, flavor and nutrients 100% Natural Olive Juice – Pure olive juice. No colorants, no additives, no blends — just freshly extracted olives Sustainably Cultivated – Grown with a strong focus on biodiversity and soil health Sapphire-Inspired Bottle – Dark glass designed to protect the oil from light, preserving freshness and delicate aromas over time Blue Sapphire is the most delicate extra virgin olive oil in the Gems Line, crafted from olives grown in a carefully managed, sustainability-focused environment in Jaén, Spain, where biodiversity, soil health and natural balance are actively preserved. Carefully cold extracted below 27 °C, it offers a smooth and refined profile with soft green aromas, subtle fruitiness and a gentle, elegant finish. Produced in limited batches and presented in its sapphire-inspired bottle, it is a refined everyday luxury and an ideal choice for those who appreciate subtlety, balance and natural elegance.
-  Updated: 2025-12-18T21:07:59Z
+  Updated: 2026-01-07T13:30:19Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2685_EST.jpg?v=1750053085
   Price: $55.00 USD
 - [Red Diamond · Royal Variety · 500 ml](https://verdesmeraldaolive.us/products/red-diamond-royal-500ml): Fresh Harvest 2025 · Fruity & Expressive Native Variety · Cold Extracted (<27 °C)100% Natural Extra Virgin Olive Oil Why You'll Love It An exclusive native olive oil with a fruit-forward, expressive profile and refined intensity. Fresh Harvest 2025 – Early-harvest Royal olives, selected at peak freshness Intensity Profile – Medium-high intensity, balanced bitterness, gentle pepperiness and pronounced fruity notes Naturally Present Polyphenols – Antioxidants from early-harvest olives First Cold Extraction (<27 °C) – Preserves aroma, flavor and nutrients 100% Natural Olive Juice – Pure olive juice. No colorants, no additives, no blends — just freshly extracted olives Exclusive Origin – Cultivated exclusively in the Natural Park of the Sierra de Cazorla, Spain Gem-Inspired Bottle – Dark glass designed to protect the oil from light, preserving freshness and aromatic complexity over time Royal is a rare native olive variety, cultivated exclusively in the Natural Park of the Sierra de Cazorla, one of Spain’s most protected and pristine natural environments. Carefully cold extracted below 27 °C, it offers an expressive and well-structured profile, combining vibrant green fruitiness with balanced bitterness and a smooth, elegant peppery finish—less intense than Picual, yet remarkably aromatic and refined. Produced in limited batches and presented in its gem-inspired bottle, Royal is a distinctive culinary luxury for those who value origin, authenticity and expressive fruit character.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2026-01-07T13:30:21Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2679_EST.jpg?v=1750053046
   Price: $54.00 USD
 - [Imagine Picual 500ml](https://verdesmeraldaolive.us/products/imagine-picual-500ml): "Imagine Picual" is a premium extra virgin olive oil, part of Verde Esmeralda Olive’s sophisticated Imagine Line. Crafted exclusively from the prized Picual variety, it is obtained through a cold-pressing process that preserves all of its organoleptic and nutritional properties. This oil stands out for its bold character and intense flavor, presented in a bottle with a refined design, featuring an elegant combination of black and gold—symbols of luxury and authenticity. Made from carefully selected Picual olives grown in the fertile lands of Jaén / Spain, this oil is extracted by the cold-pressing method, a technique that preserves all the organoleptic and nutritional characteristics of the olives, guaranteeing a superior quality product.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2026-01-07T13:30:20Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2800_EST.jpg?v=1750053002
   Price: $43.00 USD
-- [Imagine Organic Picual 500ml](https://verdesmeraldaolive.us/products/imagine-organic-picual-biologico-500ml): "Imagine Organic" is a certified organic extra virgin olive oil from the prestigious Imagine Line by Verde Esmeralda Olive. Made exclusively from Picual olives, it is produced according to strict organic farming standards, without the use of pesticides or chemical fertilizers. This oil stands out for its intense and authentic aromatic profile, with a perfect balance between bitterness and spiciness. Its sophisticated design—featuring a matte black bottle with golden details—embodies the fusion of tradition and innovation, symbolizing the highest standard of culinary excellence. Thanks to organic cultivation, the oil is distinguished by its freshness and the purity of the fruit, without the use of pesticides or chemical fertilizers. Cold pressing preserves all organoleptic properties intact, ensuring a product with an intense flavor and rich aroma profile.
-  Updated: 2025-12-17T15:08:42Z
+- [Imagine Organic Picual 500ml](https://verdesmeraldaolive.us/products/imagine-organic-picual-biologico-500ml): "Imagine Organic" is a  organic extra virgin olive oil from the prestigious Imagine Line by Verde Esmeralda Olive. Made exclusively from Picual olives, it is produced according to strict organic farming standards, without the use of pesticides or chemical fertilizers. This oil stands out for its intense and authentic aromatic profile, with a perfect balance between bitterness and spiciness. Its sophisticated design—featuring a matte black bottle with golden details—embodies the fusion of tradition and innovation, symbolizing the highest standard of culinary excellence. Thanks to organic cultivation, the oil is distinguished by its freshness and the purity of the fruit, without the use of pesticides or chemical fertilizers. Cold pressing preserves all organoleptic properties intact, ensuring a product with an intense flavor and rich aroma profile.
+  Updated: 2026-01-07T13:30:20Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2790_EST.jpg?v=1750052956
   Price: $45.00 USD
 - [Imagine Royal 500ml](https://verdesmeraldaolive.us/products/imagine-royal-500ml): "Imagine Royal" is an exclusive extra virgin olive oil from the refined Imagine Line by Verde Esmeralda Olive. Extracted from the rare and prized Royal variety, it grows exclusively in the Sierra de Cazorla from Spain —one of the most pristine areas in Europe. This oil is distinguished by its delicate and sophisticated aromatic profile, featuring a balanced sweetness and a subtle spicy note. The Royal oil accounts for only 5% of global extra virgin olive oil production, making it even more valuable and sought after. This extraordinary oil is produced exclusively from first-harvested olives, carefully selected to ensure the highest quality. Due to its very low production, “Imagine Royal” represents the ultimate in luxury and rarity.The extraction process of this oil is carried out with the utmost care, keeping the fruit at optimal temperatures to preserve all its organoleptic properties. The result is an oil with a sophisticated taste, with a freshness and finesse that captivates the palate.
-  Updated: 2025-12-17T15:08:43Z
+  Updated: 2026-01-07T13:30:21Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2811_EST.jpg?v=1750052907
   Price: $44.00 USD
 - [Pack Baby  - Picual, Royal, Biologico (3 botellas de 100ml)](https://verdesmeraldaolive.us/products/pack-baby-picual-royal-biologico-3-botellas-de-100ml): Discover our Pack Baby an exclusive selection of our three finest varieties of extra virgin olive oil, in 100ml format. A unique opportunity to taste and compare the different nuances of our oils, each with its own distinctive characteristics, in an elegant and practical pack, perfect for any occasion. The differences between the three varieties: Green Baby - picual is characterized by a strong and assertive taste, with fresh notes of green olives, green apple and green almond, and an aftertaste of artichoke. This oil stands out for its balance of spiciness and bitterness, and is perfect for fresh, light dishes such as salads, grilled vegetables, and fish. Red Baby - royal comes from the rare Royal variety and has a more delicate and refined flavor profile, with notes of green apple and green almond. Its balanced taste, with a touch of spiciness and a hint of bitterness, makes it ideal for gourmet dishes and delicate appetizers, such as fish and salads. Blue Baby - organic is an organic oil that combines freshness and complexity, with notes of green olive, green apple, green almond and banana peel. Its balance of pungency and bitterness, accompanied by a lingering aftertaste of freshly cut grass, makes it versatile for fresh dishes, fish and legumes, but it is also perfect for light meat dishes. A perfect set for those who love to explore the nuances of extra virgin olive oil and seek a high-quality product in a practical and versatile format.
-  Updated: 2025-12-17T15:08:43Z
+  Updated: 2026-01-07T13:30:21Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/Gama_Baby_USA.jpg?v=1750052855
   Price: $60.00 USD
 - [Pack Esmeralda - Picual, Royal, Ecológico 500ml](https://verdesmeraldaolive.us/products/pack-esmeralda-picual-royal-ecologico-500ml): With our “Esmeralda” Pack, you can taste the three main extra virgin olive oils in our line, each bottle representing a unique sensory experience. The pack consists of Green Emerald, Red Diamond and Blue Sapphire, three monocultivar oils, extracted with innovative techniques and presented in elegant 500 ml bottles, to give your palate a variety of inimitable flavors. Characteristics of the three varieties: Green Emerald (Picual): Monocultivar oil obtained from the Picual variety, famous for its intensity and full body. With a flavor profile that enhances the freshness of green olives and more complex notes of artichoke, this oil has a perfect balance between spiciness and bitterness. Red Diamond (Royal): Coming from the exclusive Royal variety, it grows only in the lands around the Sierra de Cazorla Natural Park. Its uniqueness and rarity make it perfect for those seeking a fine and distinct oil, with a fruity flavor and slightly bitter aftertaste that makes it perfect for gourmet dishes. Blue Sapphire (Organic): An organic oil made from the Picual variety, but with a sensory profile that is distinguished by the freshness of green olives, a hint of green apple, green almond and a delicate note of tomato plant. This oil offers the perfect combination of sweetness, spiciness and bitterness, all in perfect balance. A unique tasting experience that allows you to appreciate the distinct aromatic nuances and sensory profiles of these exquisite varieties.
-  Updated: 2025-12-17T15:08:43Z
+  Updated: 2026-01-07T13:30:21Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/Gama_Gemas_USA.jpg?v=1750052814
   Price: $162.00 USD
-- [Pack Imagine - Picual, Royal, Organic 500ml](https://verdesmeraldaolive.us/products/pack-imagine-picual-royal-organic-500ml): The Imagine Pack is an exclusive selection of extra virgin olive oils from the Imagine Line by Verde Esmeralda Olive. This set offers a sensory journey through three high-quality EVOO varieties, presented in elegant 500ml bottles: Imagine Picual: bold and structured, with notes of artichoke, green tomato, and almond. Imagine Royal: delicate and fruity, with hints of green apple and a natural sweetness. Imagine Organic Picual: fresh and intense, with a perfect balance of bitterness and spiciness, made from certified organic farming. A perfect pack for those who wish to explore the nuances between olive varieties and experience the very best of extra virgin olive oil.
-  Updated: 2025-12-17T15:08:43Z
+- [Pack Imagine - Picual, Royal, Organic 500ml](https://verdesmeraldaolive.us/products/pack-imagine-picual-royal-organic-500ml): The Imagine Pack is an exclusive selection of extra virgin olive oils from the Imagine Line by Verde Esmeralda Olive. This set offers a sensory journey through three high-quality EVOO varieties, presented in elegant 500ml bottles: Imagine Picual: bold and structured, with notes of artichoke, green tomato, and almond. Imagine Royal: delicate and fruity, with hints of green apple and a natural sweetness. Imagine Organic Picual: fresh and intense, with a perfect balance of bitterness and spiciness, made from  organic farming. A perfect pack for those who wish to explore the nuances between olive varieties and experience the very best of extra virgin olive oil.
+  Updated: 2026-01-07T13:30:21Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/Gama_Imagine_USA.jpg?v=1750052762
   Price: $132.00 USD
 - [Mini Premium Picual 25ml](https://verdesmeraldaolive.us/products/mini-premium-picual-25ml): Product Description: The Mini Premium Picual is the compact version of Verde Esmeralda Olive’s most beloved extra virgin olive oil. This pack of 100 single-serve 25ml bottles is perfect for events, catering, corporate gifts, or for anyone looking to offer a taste of premium quality in a practical, elegant format. Made from Picual olives grown in the renowned region of Jaén from Spain, this oil is known for its intense aromatic profile and a perfectly balanced bitterness and spiciness. Each mini bottle preserves the oil’s full organoleptic properties, ensuring an authentic and refined tasting experience. Each bottle is prepared with the same care and passion that we devote to our extra virgin olive oil, cold-pressed to keep all its nutritional and organoleptic properties intact. The olives are harvested by hand, selecting the best fruit to obtain an oil with extraordinary characteristics, free of temperature changes and enriched with polyphenols and monounsaturated fatty acids, beneficial for health and well-being.
-  Updated: 2025-12-17T15:08:43Z
+  Updated: 2026-01-07T13:30:21Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
@@ -84,34 +84,34 @@
 ## Collections
 
 - [Home page](https://verdesmeraldaolive.us/collections/frontpage)
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-12-24T12:19:13Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 0
 - [Cheeses](https://verdesmeraldaolive.us/collections/quesos): Welcome to the section dedicated to gourmet cheeses, where each product tells a story of passion and tradition. We are preparing a selection of the finest artisanal cheeses, ready to enrich your culinary experiences. Return soon to discover our exclusive offering.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 0
 - [Wines](https://verdesmeraldaolive.us/collections/vinos): A great meal is never complete without the right wine. We are selecting the best wines from various regions to perfectly complement every dish. Soon, you’ll find our collection, designed to satisfy even the most discerning palates.
-  Updated: 2025-12-17T15:08:42Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 0
 - [Extra virgin olive oil pack  | Gift Sets ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/packs-gourmet): Discover our exclusive extra virgin olive oil pack— the perfect gift for food lovers. Enjoy award-winning extra virgin olive oils beautifully packaged and delivered to your door.
-  Updated: 2025-12-21T12:19:14Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-12-24T12:19:13Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-12-26T16:13:44Z
+  Updated: 2026-01-07T12:03:38Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-12-24T12:19:13Z
+  Updated: 2026-01-05T12:16:10Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-12-24T12:19:13Z
+  Updated: 2026-01-05T12:16:10Z
   Total Products: 10
 
 ## Blogs
@@ -198,6 +198,8 @@
 
 - [Privacy Policy](https://verdesmeraldaolive.us/policies/privacy-policy)
   Updated: 2025-01-24T16:16:48-05:00
+- [Refund Policy](https://verdesmeraldaolive.us/policies/refund-policy)
+  Updated: 2026-01-07T07:09:59-05:00
 - [Terms of Service](https://verdesmeraldaolive.us/policies/terms-of-service)
   Updated: 2025-01-24T16:21:18-05:00
 - [Contact Information](https://verdesmeraldaolive.us/policies/contact-information)
