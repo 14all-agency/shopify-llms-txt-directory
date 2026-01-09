@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-01T14:02:49Z
 - Contact Email: drs@drstudin.com
-- Updated At: 2025-12-31T00:00:37.615Z
+- Updated At: 2026-01-09T00:00:37.366Z
 
 ## Collections
 
@@ -101,7 +101,7 @@
   - [Laser Liposuction vs. Regular Liposuction: Which Is Better for You?](https://drstudin.com/blogs/blog/laser-liposuction-vs-regular-liposuction-which-one-delivers-the-best-results): Laser Liposuction vs. Regular Liposuction: Which Is Better for You?
     Updated: 2025-04-24T22:58:29Z
     Author: Javier Moraes
-  - [Rejuvenate Your Look: Understanding Lower Eyelid Surgery and Treatment Options](https://drstudin.com/blogs/blog/say-goodbye-to-tired-eyes-the-truth-about-lower-eyelid-bags-and-how-to-treat-them): Rejuvenate Your Look: Understanding Lower Eyelid Surgery and Treatment Options
+  - [Rejuvenate Your Look: Understanding Lower Eyelid Surgery and  Options](https://drstudin.com/blogs/blog/say-goodbye-to-tired-eyes-the-truth-about-lower-eyelid-bags-and-how-to-treat-them): Rejuvenate Your Look: Understanding Lower Eyelid Surgery and  Options
     Updated: 2025-04-24T22:59:03Z
     Author: Javier Moraes
   - [Breast Implants Explained: Everything You Need to Know About Procedure, Risks, Cost & Recovery](https://drstudin.com/blogs/blog/breast-implants-explained-everything-you-need-to-know-about-procedure-risks-cost-recovery)
@@ -203,7 +203,7 @@
   - [Achieve Radiant, Youthful Skin with Minimal Downtime](https://drstudin.com/blogs/blog/achieve-radiant-youthful-skin-with-minimal-downtime)
     Updated: 2025-05-12T23:17:03Z
     Author: Javier Moraes
-  - [Achieve Radiant Skin with the Vampire Facelift: Is It the Right Treatment for You?](https://drstudin.com/blogs/blog/achieve-radiant-skin-with-the-vampire-facelift-is-it-the-right-treatment-for-you)
+  - [Achieve Radiant Skin with the Vampire Facelift: Is It the Right  for You?](https://drstudin.com/blogs/blog/achieve-radiant-skin-with-the-vampire-facelift-is-it-the-right--for-you)
     Updated: 2025-05-12T23:19:30Z
     Author: Javier Moraes
   - [Choosing the Right Breast Implant Placement for Lasting Results](https://drstudin.com/blogs/blog/choosing-the-right-breast-implant-placement-for-lasting-results)
