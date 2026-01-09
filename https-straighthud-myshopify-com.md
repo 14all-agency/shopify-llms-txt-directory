@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-12T19:38:14Z
 - Contact Email: geemoney91152@gmail.com
-- Updated At: 2026-01-02T00:00:25.131Z
+- Updated At: 2026-01-09T00:00:26.062Z
 
 ## Products
 
@@ -16,7 +16,7 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/TornBetweenLookinLikeASnackOrEatingOne-bLACK_7_copy.jpg?v=1765591943
-  - [Black / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598576812167)
+  - [Black / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598576812167)
     Availability: Available
     Price: $55.99 USD
   - [Black / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598576844935)
@@ -34,7 +34,7 @@
   - [Black / Small](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598576976007)
     Availability: Available
     Price: $53.99 USD
-  - [Pink / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577008775)
+  - [Pink / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577008775)
     Availability: Available
     Price: $55.99 USD
   - [Pink / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577041543)
@@ -52,7 +52,7 @@
   - [Pink / Small](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577172615)
     Availability: Available
     Price: $53.99 USD
-  - [Heather Prism Peach / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577205383)
+  - [Heather Prism Peach / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577205383)
     Availability: Available
     Price: $55.99 USD
   - [Heather Prism Peach / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577238151)
@@ -70,7 +70,7 @@
   - [Heather Prism Peach / Small](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577369223)
     Availability: Available
     Price: $53.99 USD
-  - [White / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577401991)
+  - [White / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577401991)
     Availability: Available
     Price: $55.99 USD
   - [White / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577434759)
@@ -88,7 +88,7 @@
   - [White / Small](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577565831)
     Availability: Available
     Price: $53.99 USD
-  - [Mauve / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577598599)
+  - [Mauve / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577598599)
     Availability: Available
     Price: $55.99 USD
   - [Mauve / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577631367)
@@ -106,7 +106,7 @@
   - [Mauve / Small](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577762439)
     Availability: Available
     Price: $53.99 USD
-  - [Royal Blue / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577795207)
+  - [Royal Blue / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577795207)
     Availability: Available
     Price: $55.99 USD
   - [Royal Blue / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577827975)
@@ -124,7 +124,7 @@
   - [Royal Blue / Small](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577959047)
     Availability: Available
     Price: $53.99 USD
-  - [Dark Heather / XXX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577991815)
+  - [Dark Heather / -Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598577991815)
     Availability: Available
     Price: $55.99 USD
   - [Dark Heather / XX-Large](https://straighthud.myshopify.com/products/torn-between-lookin-like-a-snack-or-eating-one-hoodie?variant=43598578024583)
@@ -214,7 +214,7 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/VintageColorsPeachyTee_7_copy.jpg?v=1765597201
-  - [Black / XXX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744649863)
+  - [Black / -Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744649863)
     Availability: Available
     Price: $55.99 USD
   - [Black / XX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744682631)
@@ -232,7 +232,7 @@
   - [Black / Small](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744813703)
     Availability: Available
     Price: $53.99 USD
-  - [Pink / XXX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744846471)
+  - [Pink / -Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744846471)
     Availability: Available
     Price: $55.99 USD
   - [Pink / XX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598744879239)
@@ -250,7 +250,7 @@
   - [Pink / Small](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745010311)
     Availability: Available
     Price: $53.99 USD
-  - [Mauve / XXX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745043079)
+  - [Mauve / -Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745043079)
     Availability: Available
     Price: $55.99 USD
   - [Mauve / XX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745075847)
@@ -268,7 +268,7 @@
   - [Mauve / Small](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745206919)
     Availability: Available
     Price: $53.99 USD
-  - [Royal Blue / XXX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745239687)
+  - [Royal Blue / -Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745239687)
     Availability: Available
     Price: $55.99 USD
   - [Royal Blue / XX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745272455)
@@ -286,7 +286,7 @@
   - [Royal Blue / Small](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745403527)
     Availability: Available
     Price: $53.99 USD
-  - [Dark Heather / XXX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745436295)
+  - [Dark Heather / -Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745436295)
     Availability: Available
     Price: $55.99 USD
   - [Dark Heather / XX-Large](https://straighthud.myshopify.com/products/vintage-colors-peachy-hoodie?variant=43598745469063)
@@ -712,7 +712,7 @@
   - [8-10 Years](https://straighthud.myshopify.com/products/children-s-hoodie-converse-polar-camouflage-green?variant=43602723274887)
     Availability: Available
     Price: $27.41 USD
-- [Boy Bye HOODIE](https://straighthud.myshopify.com/products/boy-bye-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor certified.
+- [Boy Bye HOODIE](https://straighthud.myshopify.com/products/boy-bye-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:29:33Z
   Vendor: One stop shop 
   Product Type: 
@@ -733,10 +733,10 @@
   - [XX-Large](https://straighthud.myshopify.com/products/boy-bye-hoodie?variant=43602725011591)
     Availability: Available
     Price: $24.99 USD
-  - [XXX-Large](https://straighthud.myshopify.com/products/boy-bye-hoodie?variant=43602725044359)
+  - [-Large](https://straighthud.myshopify.com/products/boy-bye-hoodie?variant=43602725044359)
     Availability: Available
     Price: $24.99 USD
-- [Let Me Sleep HOODIE](https://straighthud.myshopify.com/products/let-me-sleep-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor certified.
+- [Let Me Sleep HOODIE](https://straighthud.myshopify.com/products/let-me-sleep-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:29:35Z
   Vendor: One stop shop 
   Product Type: 
@@ -745,7 +745,7 @@
   - [X-Large](https://straighthud.myshopify.com/products/let-me-sleep-hoodie?variant=43602727501959)
     Availability: Available
     Price: $24.99 USD
-  - [XXX-Large](https://straighthud.myshopify.com/products/let-me-sleep-hoodie?variant=43602727534727)
+  - [-Large](https://straighthud.myshopify.com/products/let-me-sleep-hoodie?variant=43602727534727)
     Availability: Available
     Price: $24.99 USD
   - [Small](https://straighthud.myshopify.com/products/let-me-sleep-hoodie?variant=43602727567495)
@@ -966,7 +966,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/uniquely-you-mens-hoodie-pullover-hooded-sweatshirt-graphicvip-exclusive-red-s-hoodies-915_7ae21f58-dfa5-49fe-8d43-2cad30e3c5aa.jpg?v=1765747557
     Price: $29.23 USD
-- [Boss Man Hoodie](https://straighthud.myshopify.com/products/boss-man-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor certified.
+- [Boss Man Hoodie](https://straighthud.myshopify.com/products/boss-man-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:29:53Z
   Vendor: One stop shop 
   Product Type: 
@@ -984,7 +984,7 @@
   - [Medium](https://straighthud.myshopify.com/products/boss-man-hoodie?variant=43602731237511)
     Availability: Available
     Price: $24.99 USD
-  - [XXX-Large](https://straighthud.myshopify.com/products/boss-man-hoodie?variant=43602731270279)
+  - [-Large](https://straighthud.myshopify.com/products/boss-man-hoodie?variant=43602731270279)
     Availability: Available
     Price: $24.99 USD
   - [XX-Large](https://straighthud.myshopify.com/products/boss-man-hoodie?variant=43602731303047)
@@ -1409,7 +1409,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/getpubthumb.png?v=1765747597
   Price: $19.49 USD
-- [Yoga Pants HOODIE](https://straighthud.myshopify.com/products/yoga-pants-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor certified.
+- [Yoga Pants HOODIE](https://straighthud.myshopify.com/products/yoga-pants-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:30:40Z
   Vendor: One stop shop 
   Product Type: 
@@ -1430,7 +1430,7 @@
   - [XX-Large](https://straighthud.myshopify.com/products/yoga-pants-hoodie?variant=43602737004679)
     Availability: Available
     Price: $24.99 USD
-  - [XXX-Large](https://straighthud.myshopify.com/products/yoga-pants-hoodie?variant=43602737037447)
+  - [-Large](https://straighthud.myshopify.com/products/yoga-pants-hoodie?variant=43602737037447)
     Availability: Available
     Price: $24.99 USD
 - [Eye Mask Built in  Airplane Model Travel Hoodie](https://straighthud.myshopify.com/products/eye-mask-built-in-airplane-model-travel-hoodie): Package:Only Tops.Unisex Airplane Model Travel Hoodie Eye Mask Feature Easily slide down the seamless, built in eye mask to block light instantly. Perfect for creating a private space during travel or naps. This innovative design ensures you are shielded from external distractions, enhancing your comfort and privacy.Comfort fabric,this pullover hoodie is suitable for both men and women. It features a super-soft, fleece-lined interior made of high-quality, heavyweight cotton velour. Warm like a wearable blanket and resistant to pilling, it keeps you comfortable all year round, even in the cold.Ideal for Travel. Style: Casual Print / Pattern: Solid Silhouette: Built in Eye Mask Fit: Oversized Neck Line: Hoodie Sleeve: Long Sleeve Closure: Pullover Fabric Contents: 51%Cotton,49%Polyester
@@ -2503,7 +2503,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/b84e320ee5e04b59b4118042ee210c35.webp?v=1765852776
     Price: $15.99 USD
-- [I’ll Be Gnome For Christmas Hoodie](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info: Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor certified.
+- [I’ll Be Gnome For Christmas Hoodie](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info: Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:32:16Z
   Vendor: One stop shop 
   Product Type: 
@@ -2533,7 +2533,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/outfit-mockup-featuring-a-pullover-hoodie-next-to-trendy-sneakers-and-jeans-26334-2022-05-23T185311.053_2990ec87-6b8a-49ef-b648-1258672cbfad.jpg?v=1765860145
     Price: $27.49 USD
-  - [Athletic Heather / XXX-Large](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie?variant=43606588031111)
+  - [Athletic Heather / -Large](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie?variant=43606588031111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/outfit-mockup-featuring-a-pullover-hoodie-next-to-trendy-sneakers-and-jeans-26334-2022-05-23T185333.482_4ced73ab-5357-41e9-96bf-a4415974e31c.jpg?v=1765860145
     Price: $27.99 USD
@@ -2573,11 +2573,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/outfit-mockup-featuring-a-pullover-hoodie-next-to-trendy-sneakers-and-jeans-26334-2022-05-23T185333.482_968c6ea4-74e7-41e5-8f98-c6a567c9982b.jpg?v=1765860145
     Price: $27.49 USD
-  - [Black / XXX-Large](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie?variant=43606588358791)
+  - [Black / -Large](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie?variant=43606588358791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/outfit-mockup-featuring-a-pullover-hoodie-next-to-trendy-sneakers-and-jeans-26334-2022-05-23T185019.615_d34d6be6-109c-4611-ab86-70bddee58bbe.jpg?v=1765860145
     Price: $27.99 USD
-  - [White / XXX-Large](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie?variant=43606588391559)
+  - [White / -Large](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie?variant=43606588391559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/outfit-mockup-featuring-a-pullover-hoodie-next-to-trendy-sneakers-and-jeans-26334-2022-05-23T185311.053_2d27c30c-71dd-4963-b3a9-93c31d12f9b0.jpg?v=1765860145
     Price: $27.99 USD
