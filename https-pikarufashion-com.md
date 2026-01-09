@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2026-01-02T00:00:37.407Z
+- Updated At: 2026-01-09T00:00:40.637Z
 
 ## Products
 
@@ -6038,7 +6038,65 @@
   - [XL](https://pikarufashion.com/products/blue-printed-kimono-jacket-women?variant=61432278221170)
     Availability: Available
     Price: $79.00 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDkwMjkxNDM1MTQ3NCwibGFzdF92YWx1ZSI6IjE0OTAyOTE0MzUxNDc0In0=)
+- [Beautiful Embroidery Blouse](https://pikarufashion.com/products/beautiful-embroidery-blouse): Featuring the Fioren Blouse in warm taupe comes printed with a surreal landscape, think bluebirds, wild trees, and antelopes stitched in with pops of coral and teal.
+  Updated: 2026-01-04T19:44:39Z
+  Vendor: PIKARU FASHION
+  Product Type: blouses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Untitled-Session1075_0020_c-262_0001_RG28thApril21076_1800x1800_9898a5f8-da2f-4736-993d-516fa6ae7cbf.webp?v=1767512675
+  - [S](https://pikarufashion.com/products/beautiful-embroidery-blouse?variant=61481256354162)
+    Availability: Available
+    Price: $79.00 USD
+  - [M](https://pikarufashion.com/products/beautiful-embroidery-blouse?variant=61481256386930)
+    Availability: Available
+    Price: $79.00 USD
+  - [L](https://pikarufashion.com/products/beautiful-embroidery-blouse?variant=61481256419698)
+    Availability: Available
+    Price: $79.00 USD
+  - [XL](https://pikarufashion.com/products/beautiful-embroidery-blouse?variant=61481256452466)
+    Availability: Available
+    Price: $79.00 USD
+  - [2XL](https://pikarufashion.com/products/beautiful-embroidery-blouse?variant=61481256485234)
+    Availability: Available
+    Price: $83.00 USD
+  - [3XL](https://pikarufashion.com/products/beautiful-embroidery-blouse?variant=61481256518002)
+    Availability: Not Available
+    Price: $85.00 USD
+- [Multicolour Embroidered Top](https://pikarufashion.com/products/multicolour-embroidered-top): A beautiful top in soft cotton, embellished with intricate embroidery all over.
+  Updated: 2026-01-04T19:44:53Z
+  Vendor: PIKARU FASHION
+  Product Type: Embroidery top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/5_1800x1800_9419ea43-3a9d-42d9-a2b1-a294c88d7e0e.webp?v=1767512684
+  Price: $87.00 USD
+- [Handcrafted Tie-Up Waist Tunic Top](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top): Refresh your everyday ethnic wardrobe with this elegant blue cotton short kurti, designed with a flattering tie-up waist, soft pleated flare, and breathable fabric. Perfect for summer wear, casual outings, vacations, and daily comfort styling
+  Updated: 2026-01-04T19:44:53Z
+  Vendor: PIKARU FASHION
+  Product Type: top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/2_1800x1800_a48df063-b016-4196-accf-2a513e7ff38b.webp?v=1767512688
+  - [XS](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256616306)
+    Availability: Available
+    Price: $87.00 USD
+  - [S](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256649074)
+    Availability: Available
+    Price: $87.00 USD
+  - [M](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256681842)
+    Availability: Available
+    Price: $87.00 USD
+  - [L](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256714610)
+    Availability: Available
+    Price: $87.00 USD
+  - [XL](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256747378)
+    Availability: Available
+    Price: $87.00 USD
+  - [2XL](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256780146)
+    Availability: Available
+    Price: $87.00 USD
+  - [3XL](https://pikarufashion.com/products/handcrafted-tie-up-waist-tunic-top?variant=61481256812914)
+    Availability: Not Available
+    Price: $87.00 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDkzMDg1NDY0MjAzNCwibGFzdF92YWx1ZSI6IjE0OTMwODU0NjQyMDM0In0=)
 
 ## Collections
 
@@ -6055,8 +6113,8 @@
   Updated: 2025-12-19T06:04:14Z
   Total Products: 30
 - [Embroidery Tops | Hand-Embroidered Women’s Tops & Blouses](https://pikarufashion.com/collections/embroidery-tops-elegant-handcrafted-stylish-women-s-wear): Shop premium Embroidery Tops crafted with delicate handwork, soft fabrics, and elegant designs. Perfect for casual wear, work outfits, and daily comfort.
-  Updated: 2025-12-26T04:40:42Z
-  Total Products: 8
+  Updated: 2026-01-04T07:46:30Z
+  Total Products: 11
 - [Mini Dresses for Women – Trendy, Elegant & Boho Styles | PIKARU FASHION](https://pikarufashion.com/collections/mini-dress): Discover stylish mini dresses for women in boho, chic and handcrafted designs. Perfect for parties, vacations & everyday wear. Shop premium-quality mini dresses at PIKARU FASHION.
   Updated: 2025-12-26T05:09:50Z
   Total Products: 7
@@ -6066,10 +6124,10 @@
 - [Cord-Set |Trendy Women’s Co-Ord Sets for Daily & Party Wear](https://pikarufashion.com/collections/2-piece-set-stylish-matching-modern-co-ord-fashion): Shop stylish Cord-Sets featuring premium fabrics, trendy designs, and perfectly matching co-ord outfits. daily wear. Explore chic Cord-Sets at PIKARU Fashion
   Updated: 2025-12-19T10:01:41Z
   Total Products: 12
-- [Winter Sale | Up to 50% Off on Jackets, Dresses  |](https://pikarufashion.com/collections/winter-sale-big-discounts-on-seasonal-fashion): Winter sale: enjoy huge discounts on jackets, coats and more. Stylish, warm, and high-quality winter fashion at unbeatable prices — shop now and save big!
+- [Winter  | Up to 50% Off on Jackets, Dresses  |](https://pikarufashion.com/collections/winter--big-discounts-on-seasonal-fashion): Winter : enjoy huge discounts on jackets, coats and more. Stylish, warm, and high-quality winter fashion at unbeatable prices — shop now and save big!
   Updated: 2025-12-19T06:04:16Z
   Total Products: 18
-- [Buy 1 Get 1 Free | Limited-Time BOGO Offer on Fashion](https://pikarufashion.com/collections/buy-1-get-1-free-biggest-fashion-deal-of-the-season): Shop our Buy 1 Get 1 Free sale! Get double the style at zero extra cost. Limited-time BOGO offer on trendy fashion dresses shop now and save big!-PIKARU FASHION
+- [Buy 1 Get 1 Free | Limited-Time BOGO Offer on Fashion](https://pikarufashion.com/collections/buy-1-get-1-free-biggest-fashion--of-the-season): Shop our Buy 1 Get 1 Free ! Get double the style at zero extra cost. Limited-time BOGO offer on trendy fashion dresses shop now and save big!-PIKARU FASHION
   Updated: 2025-11-29T18:34:18Z
   Total Products: 28
 - [Suzzani Jacket | Hand-Embroidered Boho Jackets | PIKARU](https://pikarufashion.com/collections/suzzani-jacket-handcrafted-artistic-premium-outerwear): hop handcrafted Suzzani Jackets featuring detailed embroidery, bold motifs, and premium fabrics. Perfect for boho styling, festive wear, and chic winter looks
@@ -6114,7 +6172,7 @@
 - [Jumpsuits | Handmade & Western Jumpsuits Collection](https://pikarufashion.com/collections/jumpsuits-stylish-women-s-jumpsuits-by-pikaru-fashion): Explore PIKARU FASHION’s Women’s Jumpsuits collection featuring stylish, comfortable, and handcrafted designs. Premium fabrics, modern silhouettes.
   Updated: 2025-11-29T18:34:16Z
   Total Products: 1
-- [discount deals under 19.99 | SALE Under $19.99](https://pikarufashion.com/collections/discount-deals-under-19-99-best-budget-picks): Discount deals under 19.99 are here! Explore our SALE Under $19.99 for incredible savings on your favorite products.
+- [ deals under 19.99 |  Under $19.99](https://pikarufashion.com/collections/-deals-under-19-99-best-budget-picks):  deals under 19.99 are here! Explore our  Under $19.99 for incredible savings on your favorite products.
   Updated: 2025-12-19T06:04:16Z
   Total Products: 31
 
@@ -6125,9 +6183,19 @@
 - [Cancellation Policy - PIKARU FASHION STORE](https://pikarufashion.com/pages/cancellation-policy-pikaru-fashion): Cancellation Policy Cancellation Policy We accept order cancellations within 24 hours of purchase.After 24 hours, the order cannot be cancelled onc...
   Updated: 2025-11-29T18:40:54Z
 - [Size Chart – Find Your Perfect Fit | PIKARU FASHION](https://pikarufashion.com/pages/size-chart-made-by-pikaru-fashion): Size Chart: Your Guide to Finding the Perfect Fit 📏size chart Measurements are approximate and may vary slightly by 0.5–1 inch due to manual measur...
-  Updated: 2025-11-29T18:40:53Z
-- [Winter Sale 2025 – Save Up to 50% on Fashion](https://pikarufashion.com/pages/winter-sales): Winter Sale 2025: Unbeatable Discounts and Cozy Styles 🧥 Winter Sale 2025 – Cosy Styles, Hot Deals! It’s the season to stay warm and stylish! Disco...
-  Updated: 2025-12-02T04:30:45Z
+  Updated: 2026-01-03T12:00:16Z
+- [Privacy Policy](https://pikarufashion.com/pages/privacy-policy): Last updated: November 14, 2025 PIKARU FASHION operates this store and website, including all related information, content, features, tools, produc...
+  Updated: 2026-01-03T12:03:49Z
+- [Returns](https://pikarufashion.com/pages/returns): We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.To be eligible for a return, your item m...
+  Updated: 2026-01-03T12:06:10Z
+- [Shipping Policy](https://pikarufashion.com/pages/shipping-policy): Shipping Policy Last Updated: [13/11/2025] Thank you for shopping with us! We aim to provide you with a smooth, fast, and reliable delivery experie...
+  Updated: 2026-01-03T12:07:29Z
+- [Terms of Service](https://pikarufashion.com/pages/terms-of-service): OVERVIEWWelcome to PIKARU FASHION! The terms “we”, “us” and “our” refer to PIKARU FASHION. PIKARU FASHION operates this store and website, includin...
+  Updated: 2026-01-03T12:08:35Z
+- [Contact](https://pikarufashion.com/pages/contact): PIKARU FASHION Contact : +91 6375382472 , +91 8302275824 Email : pikarufashion01@gmail.com
+  Updated: 2026-01-03T12:15:25Z
+- [LOCATION](https://pikarufashion.com/pages/location): 📍：8 Shree Ram Vihar Colony, Buddhsinghpura, Pratapnagar, Sanganer, Jaipur, Rajasthan, India.📧：fashionpikaru@gmail.com
+  Updated: 2026-01-03T12:26:17Z
 
 ## Policies
 
