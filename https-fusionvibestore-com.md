@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-12-29T00:00:42.600Z
+- Updated At: 2026-01-09T00:00:43.370Z
 
 ## Products
 
 - [Jellyfish Mood Lamp LED Color Changing Night Light & Room Decor](https://fusionvibestore.com/products/jellyfish-mood-lamp-led-jellyfish-night-light-portable-jellyfish-lamp-jellyfish-decorations-smart-table-lamp-for-bedside-desk): Create a calming atmosphere! The Julyfish LED mood lamp projects a beautiful aquatic light, perfect for night lights, meditation, or modern home decor. Portable with multiple colors. Shop today. Product Information: Size: 85 * 166mm Specifications: hanging, hanging base Product Name: voice control jellyfish lamp Light color: full-color gradient. Jellyfish lamp number of touching feet: 9 (6 short and 3 long) Charging Interface: Type-C Charging duration: 1.5h Battery capacity: 1000mAh Operating voltage: 5V Packing List: 1*Jellyfish Lamp Product Image:
-  Updated: 2025-12-27T22:27:07Z
+  Updated: 2025-12-29T17:27:01Z
   Vendor: null
   Product Type: Gadgets
   Availability: Available
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-12-27T14:17:59Z
+  Updated: 2025-12-31T05:22:15Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -344,7 +344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1758013249
     Price: $25.36 USD
 - [3-Piece Cozy Pajama & Lounge Set | Matching Winter Loungewear](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set): Ultimate comfort! This adorable 3-piece pajama set is perfect for lounging or sleeping. Soft, warm, and stylish. Get your matching winter loungewear set today with fast delivery. Specification: Style: a pants suit Top style: vest Top sleeve length: long sleeve Pants style: wide-leg pants Length: trousers Craft: Collage/Stitching Fabric Name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 30%-50% Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 100% Lining composition: polyester fiber (polyester) Lining ingredient content: 100% Color: white, pink, camel Size: S, M, L, XL Package content: 1 x Set 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size is between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose a size, please contact our customer service. 3. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-12-27T14:06:53Z
+  Updated: 2026-01-08T06:28:26Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -593,7 +593,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/01332ecd-7d2e-4cb5-b901-47edd90100cf.jpg?v=1758616058
     Price: $48.56 USD
-- [Men's And Women's Warm Running Beanie Biking Mountain Climbing Training Sports Cap](https://fusionvibestore.com/products/mens-and-womens-warm-running-beanie-biking-mountain-climbing-training-sports-cap): Product information: Pattern: solid color Applicable scenario: Running Color: black, white, dark gray, light gray, navy blue, sky blue, royal blue, army green, purple, Ocean green, red, Rose Red, camel, brown, orange, yellow, pink, fluorescent green, wine red, army green camouflage, black basketball grid, blue and white grid, red camouflage, blue and gray camouflage, orange camouflage, khaki green grid Fabric: Spandex/Lycra Application scenario: Outdoor Size: average size Applicable gender: neutral/both men and women Inventory Type: whole transaction Applicable age: Adult Style: Sports Packing list: Cap x Light Grey2pcs+Sapphire Blue2PCS+Black2PCS Product Image:
+- [Men's And Women's Warm Running Beanie Biking Mountain Climbing Training Sports Cap](https://fusionvibestore.com/products/mens-and-womens-warm-running-beanie-biking-mountain-climbing-training-sports-cap): Product information: Pattern: solid color Applicable scenario: Running Color: black, white, dark gray, light gray, navy blue, sky blue, royal blue, army green, purple, Ocean green, red, Rose Red, camel, brown, orange, yellow, pink, fluorescent green, wine red, army green camouflage, black basketball grid, blue and white grid, red camouflage, blue and gray camouflage, orange camouflage, khaki green grid Fabric: Spandex/Lycra Application scenario: Outdoor Size: average size Applicable gender: neutral/both men and women Inventory Type: whole transaction Applicable age:  Style: Sports Packing list: Cap x Light Grey2pcs+Sapphire Blue2PCS+Black2PCS Product Image:
   Updated: 2025-12-27T14:01:44Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
@@ -1102,13 +1102,13 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-12-28T15:12:31Z
+  Updated: 2026-01-08T18:42:14Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5952737729.jpg?v=1759815705
   Price: $11.00 USD
-- [LEING FST Virtual Laser Keyboard Bluetooth Wireless Projector Phone Keyboard For Computer Pad Laptop With Mouse Function](https://fusionvibestore.com/products/leing-fst-virtual-laser-keyboard-bluetooth-wireless-projector-phone-keyboard-for-computer-pad-laptop-with-mouse-function): Overview: Using a new independent research and development algorithm to deal with the chip A80, the A80 algorithm chip can effectively identify 7 different points at the same time, the change is to better improve the anti-interference of the keyboard, so that the sensitivity and accuracy of the keyboard input are compared. The previous generation has a significant improvement. At the same time, the mouse mode also supports the enlargement and reduction of the picture in the WINDOWS7 system and the recognition of the page turning gesture. Specification 1. White Keyboard name:KB630-M1 Keyboard size: 9cm*4.5cm*5cm Projection size: 10cm*25cm Connection method: USB cable, Bluetooth (imported Bluetooth chip) Battery capacity: 2500mAh(MAX)@3.7V Battery life: 6 hours Main functions: stand function, power bank function, USB cable Direct connection to computer, keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 2. Black Keyboard name: KB560S Keyboard size: 7.8cm*4cm*1.9cm Projection size: 10cm*24cm Connection method: Bluetooth (if there is no Bluetooth, a Bluetooth adapter is required) Battery capacity: 700mAh(MAX)@3.7V Battery life: 120 minutes Main function: keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Recognition rate: 350 words/min Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 Package Content : 1*Laser Keyboard
+- [LEING FST Virtual Laser Keyboard Bluetooth Wireless Projector Phone Keyboard For Computer Pad Laptop With Mouse Function](https://fusionvibestore.com/products/leing-fst-virtual-laser-keyboard-bluetooth-wireless-projector-phone-keyboard-for-computer-pad-laptop-with-mouse-function): Overview: Using a new independent research and development algorithm to  with the chip A80, the A80 algorithm chip can effectively identify 7 different points at the same time, the change is to better improve the anti-interference of the keyboard, so that the sensitivity and accuracy of the keyboard input are compared. The previous generation has a significant improvement. At the same time, the mouse mode also supports the enlargement and reduction of the picture in the WINDOWS7 system and the recognition of the page turning gesture. Specification 1. White Keyboard name:KB630-M1 Keyboard size: 9cm*4.5cm*5cm Projection size: 10cm*25cm Connection method: USB cable, Bluetooth (imported Bluetooth chip) Battery capacity: 2500mAh(MAX)@3.7V Battery life: 6 hours Main functions: stand function, power bank function, USB cable Direct connection to computer, keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 2. Black Keyboard name: KB560S Keyboard size: 7.8cm*4cm*1.9cm Projection size: 10cm*24cm Connection method: Bluetooth (if there is no Bluetooth, a Bluetooth adapter is required) Battery capacity: 700mAh(MAX)@3.7V Battery life: 120 minutes Main function: keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Recognition rate: 350 words/min Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 Package Content : 1*Laser Keyboard
   Updated: 2025-12-28T01:37:53Z
   Vendor: z60ja0-0n
   Product Type: Electronics
@@ -1149,7 +1149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1311429722600.jpg?v=1759992992
     Price: $48.13 USD
 - [Portable Mini Thermal Label Printer Home Photo Printer Student Wrong Question Printer Bluetooth-compatible Mini Label Printer Price Tag](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag): Overview: 1. Efficient learning, 200 million free genuine open question banks; The Phomemo T02 series is a mini pocket printer that does not require ink. The independently developed app is more suitable for foreign users' usage habits. The app supports 10 languages (Chinese, Traditional Chinese, English, Japanese, Korean, Thai, French, German, Spanish, Portuguese) suitable for foreign trade styles. Apple iOS, Android download app, mobile Bluetooth link, built-in high-quality lithium battery, easy to carry, capable of printing images, text, errors, and supporting various specifications of label printing Product information: Material: ABS Style: simple and stylish Features: Thermal paper printing Color: white, pink Product size: 87mm×90mm×40mm Connection method: Bluetooth Print type: inkless printing Printing technology: thermal printing Compatible system: Android 4.4/iOS8.0 and above Power supply mode: lithium battery Battery capacity: 1000mAh Model number: Green (including a roll of 1-meter 1 roll of sticky paper ) Pink (including a roll of 1-meter 1 roll of sticky paper) White(including a roll of 1-meter 1 roll of sticky paper) Blue (including a roll of 1-meter 1 roll of sticky paper) Yellow (including a roll of 1-meter 1 roll of sticky paper) All green(including a roll of 1-meter 1 roll of sticky paper) Transparent Printer paper: 3 rolls 50mm*3.5m20 year transparent black letter thermal adhesive Style A: 50mm * 3.5m 10-year white background with black lettering thermosensitive adhesive（ Sticky paper ） Style B: 53mm * 6.5m 5-year-old yellow, pink, and blue background with black lettering on regular thermal paper (nonadhesive) Style C: 50mm * 3.5m 20-year green, purple, orange with black lettering thermosensitive adhesive（Sticky paper） Blue set: Blue printer +4 rolls Sticky paper Green set: Green printer +4 rolls Sticky paper Pink set: Pink printer +4 rolls Sticky paper White set: White printer +4 rolls Sticky paper Yellow set: Yellow printer +4 rolls Sticky paper Size Information: Packing list: Printer*1 Product Image:
-  Updated: 2025-12-28T01:19:40Z
+  Updated: 2025-12-29T17:27:04Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1278,8 +1278,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0761bac7-3a07-49d0-93e3-fcc908da3a7a.jpg?v=1760114372
     Price: $38.89 USD
-- [Slim-fitting Casual Suit Dress V-neck Long-sleeved Dresses Commuting Office Clothing For Women](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Fabric name: Chenille Color: Black, a white T-shirt Main fabric composition: Spandex Size: S,M,L,XL,XXL Applicable Gender: Female Applicable age group: Adult Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image:
-  Updated: 2025-12-28T00:33:25Z
+- [Slim-fitting Casual Suit Dress V-neck Long-sleeved Dresses Commuting Office Clothing For Women](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Fabric name: Chenille Color: Black, a white T-shirt Main fabric composition: Spandex Size: S,M,L,XL,XXL Applicable Gender: Female Applicable age group:  Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image:
+  Updated: 2025-12-29T07:28:39Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1528,7 +1528,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/722065577519.jpg?v=1761758782
     Price: $18.14 USD
-- [1Pc 150PSI Cordless Tire Inflator Digital Air Compressor With LED Light Emergency Power Bank For Cars Motorcycles Bicycles Balls](https://fusionvibestore.com/products/1pc-150psi-cordless-tire-inflator-digital-air-compressor-with-led-light-emergency-power-bank-for-cars-motorcycles-bicycles-balls): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only, the actual shipping carrier would be depended by the location, address, package dimension, product category, geographic location. *Features*: *Fast Inflation*: With a maximum pressure of 150PSI,it takes just a few minutes to pump up a flat tire with this tire inflator. Automatically stop working after completing the air inflation. *4 Inflation Modes*: Long press the Power Button to turn on the cordless tire inflator,short press Mode Button to select preferred modes(Car/Motorcycle/Bicycle/Ball),long press Mode Button to adjust different unit you need,like "PSI","BAR","KPA","KG /CM²" and press "+/-" to choose accurate pressure value. *Digital Display & LED Light*: Equipped with a clear display screen,you can easily check the tire pressure and preset the pressure value. The auto air pump also provides white light to support your inflating needs in low-light environment and red SOS light for seeking help. *Dual Power Supply & Power Bank*: Can be powered by car charger(Not Included) and any device with a USB port. Built-in 4000mAh rechargeable batteries,this portable air compressor can be functioned as an emergency bank to charge your phones,tablets,earphones etc.,which makes you less worried about the low battery condition. *Wide Application*: With 3 inflatable nozzles and 1 inflatable needle,this digital tire inflator is suitable for inflating the tires of cars,bikes,motorbikes,basketballs etc.. Also comes with a carry bag to store the air pump and other accessories. Friendly Reminder: 1.The tire inflator is not a toy,and it is forbidden for children to use it. Please keep a safe distance from children during use. 2.The built-in DC motor may generate electric sparks when working. Please do not use it in a flammable and explosive environment. 3.If abnormal noise or high temperature occurs during work,please turn off immediately. 4.Please confirm the correct measurement unit is selected,otherwise it may cause a tire burst. 5.Do not leave when inflating,and observe the inflation process to prevent the inflation pressure from being too high. 6.Keep the power cord plug away from water. *Specifications*: Product Type: Tire Inflator Material: ABS Color: Black Power Supply: Type-C Charging, Car Charger(Not Included) Built-in Battery: 2Pcs 2000mAh Rechargeable Batteries, 4000mAh In Total(Batteries are not for individual sale) Input: 7.4V/2A Power: 80W Cylinder Specification: 17mm Pressure Units: PSI, KPA, BAR, KG/CM2 Pressure Range: 0.2~10.3bar/3-150psi 4 Inflation Modes: Car, Motorcycle, Bicycle, Ball 3 Light Modes: White Light, Red & Blue Light Slow Flashing, Red Light Fast Flashing 3 Additional Functions: *Used As a 5V/1A Power Bank *Auto Shutoff After Full Air Inflation *Automatically Detect Tire Pressure Status Charging Time: 3-5Hrs Charging Cable Length: 49cm/19.29in Air Tube Length: 20cm/7.87in Carry Bag Size: 14.5×19cm/5.71×7.48in Item Size: 12×8.5×5cm /4.72×3.35×1.97in Item Weight: 379g/0.84 lbs Package Size: 20*20*6cm/7.87*7.87*2.36in Package Weight: 593g/1.31lbs *Package Lists*: 1 x Tire Inflator 1 x Air Tube 1 x Type-C USB Cable 3 x Inflatable Nozzles 1 x Inflatable Needle 1 x Carry Bag 1 x User Manual Actual Product Photo
+- [1Pc 150PSI Cordless Tire Inflator Digital Air Compressor With LED Light Emergency Power Bank For Cars Motorcycles Bicycles Balls](https://fusionvibestore.com/products/1pc-150psi-cordless-tire-inflator-digital-air-compressor-with-led-light-emergency-power-bank-for-cars-motorcycles-bicycles-balls): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only, the actual shipping carrier would be depended by the location, address, package dimension, product category, geographic location. *Features*: *Fast Inflation*: With a maximum pressure of 150PSI,it takes just a few minutes to pump up a flat tire with this tire inflator. Automatically stop working after completing the air inflation. *4 Inflation Modes*: Long press the Power Button to turn on the cordless tire inflator,short press Mode Button to select preferred modes(Car/Motorcycle/Bicycle/Ball),long press Mode Button to adjust different unit you need,like "PSI","BAR","KPA","KG /CM²" and press "+/-" to choose accurate pressure value. *Digital Display & LED Light*: Equipped with a clear display screen,you can easily check the tire pressure and preset the pressure value. The auto air pump also provides white light to support your inflating needs in low-light environment and red SOS light for seeking help. *Dual Power Supply & Power Bank*: Can be powered by car charger(Not Included) and any device with a USB port. Built-in 4000mAh rechargeable batteries,this portable air compressor can be functioned as an emergency bank to charge your phones,tablets,earphones etc.,which makes you less worried about the low battery condition. *Wide Application*: With 3 inflatable nozzles and 1 inflatable needle,this digital tire inflator is suitable for inflating the tires of cars,bikes,motorbikes,basketballs etc.. Also comes with a carry bag to store the air pump and other accessories. Friendly Reminder: 1.The tire inflator is not a toy,and it is forbidden for children to use it. Please keep a safe distance from children during use. 2.The built-in DC motor may generate electric sparks when working. Please do not use it in a flammable and explosive environment. 3.If abnormal noise or high temperature occurs during work,please turn off immediately. 4.Please confirm the correct measurement unit is selected,otherwise it may cause a tire burst. 5.Do not leave when inflating,and observe the inflation process to prevent the inflation pressure from being too high. 6.Keep the power cord plug away from water. *Specifications*: Product Type: Tire Inflator Material: ABS Color: Black Power Supply: Type-C Charging, Car Charger(Not Included) Built-in Battery: 2Pcs 2000mAh Rechargeable Batteries, 4000mAh In Total(Batteries are not for individual ) Input: 7.4V/2A Power: 80W Cylinder Specification: 17mm Pressure Units: PSI, KPA, BAR, KG/CM2 Pressure Range: 0.2~10.3bar/3-150psi 4 Inflation Modes: Car, Motorcycle, Bicycle, Ball 3 Light Modes: White Light, Red & Blue Light Slow Flashing, Red Light Fast Flashing 3 Additional Functions: *Used As a 5V/1A Power Bank *Auto Shutoff After Full Air Inflation *Automatically Detect Tire Pressure Status Charging Time: 3-5Hrs Charging Cable Length: 49cm/19.29in Air Tube Length: 20cm/7.87in Carry Bag Size: 14.5×19cm/5.71×7.48in Item Size: 12×8.5×5cm /4.72×3.35×1.97in Item Weight: 379g/0.84 lbs Package Size: 20*20*6cm/7.87*7.87*2.36in Package Weight: 593g/1.31lbs *Package Lists*: 1 x Tire Inflator 1 x Air Tube 1 x Type-C USB Cable 3 x Inflatable Nozzles 1 x Inflatable Needle 1 x Carry Bag 1 x User Manual Actual Product Photo
   Updated: 2025-12-27T22:31:11Z
   Vendor: z60ja0-0n
   Product Type: Car Accessories
@@ -1658,7 +1658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/31fb96c3-0fa4-4755-b9de-2c02f3b8d5e0.jpg?v=1761759617
     Price: $32.45 USD
 - [Winter Flowers Lambskin Sweatshirt With Big Pocket Casual Loose Zip-up Lapel Pullover Top Women's Clothing](https://fusionvibestore.com/products/winter-flowers-lambskin-sweatshirt-with-big-pocket-casual-loose-zip-up-lapel-pullover-top-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Flowers Size: S,M,L Style type: street fashion Popular elements: Pocket Style: pullover Sleeve type: conventional sleeve Sleeve length: long sleeve Style: Trendy Material: Polyester Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coatx 1pc Product Image:
-  Updated: 2025-12-27T22:05:57Z
+  Updated: 2025-12-29T16:28:30Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1771,7 +1771,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb13ec30-1ed4-4b55-8e2e-89999f93fe9c.jpg?v=1761759818
     Price: $35.45 USD
-- [Winter Fleece Hooded Jacket Fashion Casual Zip-up Pockets Long Sweatshirt Warm Commuter Women's Clothing](https://fusionvibestore.com/products/winter-fleece-hooded-jacket-fashion-casual-zip-up-pockets-long-sweatshirt-warm-commuter-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: letters/numbers/text Color: pink, khaki, blue, green Size: M,L,XL,2XL,3XL Version: Regular Style type: Japanese and Korean casual Combination form: Single piece Popular elements: Other Thickness: thick Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Applicable Gender: Female Applicable age group: Adult Sleeve length: long sleeve Style: casual style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hoodie*1 Product Image:
+- [Winter Fleece Hooded Jacket Fashion Casual Zip-up Pockets Long Sweatshirt Warm Commuter Women's Clothing](https://fusionvibestore.com/products/winter-fleece-hooded-jacket-fashion-casual-zip-up-pockets-long-sweatshirt-warm-commuter-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: letters/numbers/text Color: pink, khaki, blue, green Size: M,L,XL,2XL,3XL Version: Regular Style type: Japanese and Korean casual Combination form: Single piece Popular elements: Other Thickness: thick Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Applicable Gender: Female Applicable age group:  Sleeve length: long sleeve Style: casual style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hoodie*1 Product Image:
   Updated: 2025-12-27T22:00:59Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
@@ -2804,7 +2804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
     Price: $32.65 USD
 - [No Awkward Line Peach Butt Yoga Pants High Waist Tummy Control Running Sports Leggings](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings): 82.5 polyester 17.5 spandex
-  Updated: 2025-12-27T20:29:33Z
+  Updated: 2025-12-31T05:15:27Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2830,7 +2830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
     Price: $30.45 USD
 - [High-stretch Dresses, New Summer Nude Anti-walking Sports Dresses](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses): 82.5 polyester 17.5 spandex
-  Updated: 2025-12-27T20:20:46Z
+  Updated: 2025-12-31T02:27:00Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2856,7 +2856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
     Price: $28.78 USD
 - [Sports Yoga Jumpsuit Sleeveless Quick-Dry Tight Fit One-Piece Fitness Wear for Women](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit): Upgrade your workout wardrobe with this Sleeveless Sports Yoga Jumpsuit, designed to move with your body and keep you comfortable all day. Crafted from high-stretch, quick-dry fabric, this one-piece fitness suit offers a snug yet breathable fit that enhances your natural shape while providing maximum flexibility. Perfect for yoga, gym workouts, pilates, running, dance, or athleisure wear, the seamless threaded design ensures a smooth, sculpted look without irritation. The moisture-wicking technology keeps sweat away, making it ideal for high-intensity sessions or all-day comfort. Whether you’re stretching on the mat or styling it casually with sneakers and a jacket, this jumpsuit delivers performance, comfort, and style in one sleek outfit. ✨ Key Features Sleeveless design for full freedom of movement Quick-dry & sweat-wicking fabric Tight fit for a sculpted, flattering silhouette Soft, breathable & stretchable material One-piece design – no slipping or adjusting Ideal for yoga, gym, fitness, running & daily wear 📌 Material & Fit Fabric: Premium stretch blend Fit: Tight / Body-hugging Style: Athletic & modern Season: All-season wear 🎯 Why You’ll Love It ✔ Enhances curves✔ Comfortable for long workouts✔ Trendy athleisure look✔ Easy to style & maintain q
-  Updated: 2025-12-27T20:16:58Z
+  Updated: 2026-01-08T03:26:11Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2874,7 +2874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
     Price: $30.45 USD
 - [Ladies' Mid-length Solid Color Belt Coat, Casual Commuting Elegant Versatile Autumn And Winter Outerwear, Stand Collar Single-button Long Sleeve Coat.](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat): Composition:100.0% Polyester;
-  Updated: 2025-12-28T01:40:02Z
+  Updated: 2025-12-31T02:27:01Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3384,7 +3384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/238ef47c-4ced-4b80-b03d-02973ebc228e.jpg?v=1763541655
     Price: $45.60 USD
 - [S116 Brushless Drone With Four-Way Obstacle Avoidance, HD Aerial Photography, Optical Flow Positioning, Remote Control, Long Battery Life](https://fusionvibestore.com/products/s116-brushless-drone-with-four-way-obstacle-avoidance-hd-aerial-photography-optical-flow-positioning-remote-control-long-battery-life): S116 Brushless Drone with Four-Way Obstacle Avoidance, HD Aerial Photography, Optical Flow Positioning, Remote Control, Long Battery Life
-  Updated: 2025-12-27T07:55:36Z
+  Updated: 2025-12-29T12:27:21Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -3416,7 +3416,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/896d501f-228d-4661-8804-6c446bbcd340.jpg?v=1763546149
     Price: $35.45 USD
 - [LU60 Drone First Choice For Entry-levelFearless Of Complex Scenes](https://fusionvibestore.com/products/lu60-drone-first-choice-for-entry-levelfearless-of-complex-scenes): First choice for entry-levelFearless of complex scenes
-  Updated: 2025-12-27T07:54:05Z
+  Updated: 2025-12-29T15:24:51Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
@@ -3753,14 +3753,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83ed399a-b519-48a1-8f1d-16583015bbfd.jpg?v=1765440216
     Price: $22.34 USD
 - [Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool](https://fusionvibestore.com/products/electronic-cordless-pedicure-callus-dead-skin-remover-polishing-tool): Product Name: Electronic Cordless Pedicure Callus Dead Skin Remover Polishing Tool Package Contains: It has 1 Pack of Electronic Pedicure ToolMaterial: PlasticSize: 19cm x 3.5cmColor: As Per Availability Combo: Pack of 1Weight: 400 gmAbout this item: Featuring remarkable polishing effect, this foot file is suitable for smoothing out rough skin and dead skin on the feet. Indisputable that it is easy to use because the product is with the adoption of minimalistic feature.
-  Updated: 2025-12-28T09:12:36Z
+  Updated: 2026-01-08T05:13:41Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5016979406.jpg?v=1765634993
   Price: $8.00 USD
 - [SK45 Pro Smart watch for Men Women High 3 Straps Screen Waterproof IP68 BT Call](https://fusionvibestore.com/products/sk45-pro-smart-watch-for-men-women-high-3-straps-screen-waterproof-ip68-bt-call): 📱 SK45 Pro – New Watch 5 Smart Smartwatch Upgrade your everyday lifestyle with the SK45 Pro New Watch 5 Smartwatch — a sleek, feature-packed wearable that blends style, health tracking, and connectivity in one premium device. 🔥 Key Features:• 1.53″ AMOLED/HD Touchscreen Display – Bright, vibrant visuals and easy navigation make every interaction smooth and intuitive. Manuals+• All-Day Health Monitoring – Track your heart rate, blood oxygen (SpO2), sleep quality, body temperature, and stress levels directly from your wrist. Manuals+• Fitness & Sports Tracking – Built-in activity tracking with steps, distance, calories and multiple sports modes helps you stay motivated and on track. Manuals+• Bluetooth Calling & Smart Alerts – Pair with your phone to make/receive calls, get notifications for messages and apps, and stay connected without reaching for your phone. Manuals+• GPS & Motion Tracking – Accurately track outdoor workouts and routes via GPS when connected to the companion app. Manuals+• Everyday Smart Tools – Includes music control, camera remote, alarm, calendar, compass and more for added convenience. Manuals+• IP68 Waterproof Rating – Durable enough for daily wear, workouts, and rainy conditions (not suitable for swimming). Manuals+• Long-Lasting Battery – Up to several days of battery life on a single charge keeps you going longer between charges. Manuals+ 🎨 Design & Comfort:Modern and stylish with a slim body design and interchangeable straps — the watch pairs effortlessly with both casual and formal looks. Manuals+ 📲 Compatibility:Works with most Android and iOS devices through the FitCloudPro app, bringing your health & fitness data together in one place. Manuals+
-  Updated: 2025-12-27T07:42:50Z
+  Updated: 2025-12-29T15:38:13Z
   Vendor: alibaba
   Product Type: watch
   Availability: Available
@@ -3774,7 +3774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/Hd77a8940706540e9bca25c5b07dbfd96b.jpg?v=1765974233
     Price: $29.25 USD
 - [VERSACE - Eros Flame Eau De Parfum Spray](https://fusionvibestore.com/products/versace-eros-flame-eau-de-parfum-spray): A woody spicy fragrance for self-confident menCrisp, sweet, warm, sensual, complex & alluringTop notes of Italian citruses, black pepper & rosemaryMiddle notes of pepperwood, geranium & rose Base notes of woods, tonka & vanillaLaunched in 2018Suitable for evening or colder seasons wear 8011003845330
-  Updated: 2025-12-27T07:40:53Z
+  Updated: 2026-01-08T13:38:11Z
   Vendor: Versace
   Product Type: Beauty & Health - Fragrances - Mens Cologne
   Availability: Available
@@ -3788,7 +3788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/25125086605_1z1scot.jpg?v=1766069256
     Price: $126.25 USD
 - [VERSACE - Eros Eau De Parfum Spray](https://fusionvibestore.com/products/versace-eros-eau-de-parfum-spray): A floral woody fragrance for contemporary womenCrisp, bright, sensual, feminine & voluptuousTop notes of Sicilian lemon, Calabrian bergamot & pomegranate accordsHeart notes of lemon, sambac jasmine absolute, jasmine & peonyBase notes of sandalwood, ambrox, musk & woody accords 8011003823529
-  Updated: 2025-12-27T07:37:49Z
+  Updated: 2026-01-04T15:09:42Z
   Vendor: Versace
   Product Type: Beauty & Health - Fragrances - Perfume
   Availability: Available
@@ -3806,7 +3806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/19178886606_4YCdKcF.jpg?v=1766069259
     Price: $111.25 USD
 - [Love Hug Necklace Unisex Men Women Couple Jewelry Simple Temperament Clavicle Chain Valentines Day Lover Gift](https://fusionvibestore.com/products/love-hug-necklace-unisex-men-women-couple-jewelry-simple-temperament-clavicle-chain-valentines-day-lover-gift): ❤️ Love Hug Necklace – Symbol of Affection & Togetherness Celebrate your connection with this Love Hug Necklace, a meaningful and stylish piece designed for couples, men, and women. Crafted with care and attention to detail, this unisex clavicle chain blends simplicity with heartfelt emotion — making it the perfect gift for Valentine’s Day, anniversaries, birthdays, or just because. CJdropshipping+1 ✨ Key Features: Symbolic “Hug” Design – The pendant depicts an embrace that represents love, warmth, and togetherness — a beautiful way to show how much you care. goeverz.com High-Quality Brass Material – Durable, lightweight, and comfortable for daily wear, with a lasting polished finish. CJdropshipping Unisex & Versatile – Simple, elegant style suitable for both men and women. Perfect for matching couple looks. goeverz.com Adjustable Fit – Features a 40 cm chain with a 5 cm extension, so it fits comfortably on a variety of neck sizes. CJdropshipping Ready to Gift – Individually packaged and available in multiple color options to suit personal style and preference. Afarly Product Specs: Material: Brass Pendant Height: Approx. 3 cm Chain Length: 40 + 5 cm (adjustable) Packaging: Individually packed Style: Simple, unisex, emotion-inspired design CJdropshipping Whether worn alone for everyday elegance or shared as matching couple jewelry, this necklace is a timeless reminder of affection — making it a meaningful addition to any jewelry collection. =
-  Updated: 2025-12-27T07:36:21Z
+  Updated: 2025-12-30T07:25:51Z
   Vendor: z60ja0-0n
   Product Type: Jwellery
   Availability: Available
@@ -3928,7 +3928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1e927255-a3a5-4e5e-bbdc-6fcba79fabe2.jpg?v=1766742477
     Price: $8.56 USD
 - [Loose Striped Pullover Sweater Fashion Versatile Long-sleeved Knitted Tops For Women Clothing](https://fusionvibestore.com/products/loose-striped-pullover-sweater-fashion-versatile-long-sleeved-knitted-tops-for-women-clothing): Elevate your casual wardrobe with this stylish Loose Striped Pullover Sweater — the perfect blend of comfort and chic design. Featuring a relaxed, loose fit and timeless striped pattern, this long-sleeved knitted top offers both fashion and versatility. It’s made from soft, quality cloth that feels comfortable all day, with a pullover style that’s easy to wear and style. Available in blue, army green, gray, and pink with sizes S, M, and L to suit different body types. Ideal for everyday outings, work, or a cozy weekend look. Pattern: Stripes/Plaid Style: Pullover, Loose Fit Material: Soft knitted cloth (“Deer plush”) Colors: Blue, Army Green, Gray, Pink Sizes: S, M, L Perfect for: Casual wear, layering, cooler days Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater * 1 Product Image:
-  Updated: 2025-12-27T07:30:33Z
+  Updated: 2026-01-06T03:30:51Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -4062,7 +4062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4903ca8-72b8-439e-a6ac-adad6e5aeca6.jpg?v=1766809196
     Price: $35.67 USD
 - [Leopard Print Sweatshirt Fashion Casual V-neck Long-sleeved Pullover Top Women's Commuting Clothing](https://fusionvibestore.com/products/leopard-print-sweatshirt-fashion-casual-v-neck-long-sleeved-pullover-top-womens-commuting-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product Information: Thickness: moderate Sweater Technology: Knitting Combination form: single-piece Style: lightly cooked Style: Hedging Edition type: Slim type Sleeve length: long sleeve Popular elements: leopard print, stitching Length of dress: ordinary style (50cm＜length of dress≤65cm) Craft: collage/splicing Size Information: Size: S, M, L, XL Precautions: 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images. Packing List: Long sleeve top*1 Product Image:
-  Updated: 2025-12-27T16:23:46Z
+  Updated: 2025-12-30T13:20:15Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -4131,6 +4131,510 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1617614304146.jpg?v=1766809417
     Price: $20.34 USD
+- [LED Tablet Reading Light Rechargeable](https://fusionvibestore.com/products/led-tablet-reading-light-rechargeable): Product information: Color: Black (1200mAh battery 3 color temperature adjustment brightness timing off light), Pink (1200mAh battery 3 color temperature adjustment brightness timing off light), White (1200mAh battery 3 color temperature adjustment brightness timing off light) Power supply mode: Built-in lithium battery Processing Method: graphic customization Voltage: ≤ 36V Style: modern simplicity Packing list: Light x1 Product Image:
+  Updated: 2025-12-31T00:08:52Z
+  Vendor: z60ja0-0n
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5e494102-54f4-4295-ba1a-4e42d71b1cdd_trans.jpg?v=1767096518
+  - [Black](https://fusionvibestore.com/products/led-tablet-reading-light-rechargeable?variant=45995998609607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ad308008-95e8-40bb-94d6-7ca6fd7cb5ea.jpg?v=1767096523
+    Price: $23.24 USD
+  - [Pink](https://fusionvibestore.com/products/led-tablet-reading-light-rechargeable?variant=45995998642375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/665d2158-713d-4611-8c73-5c6c272e5e4d.jpg?v=1767096523
+    Price: $23.25 USD
+  - [White](https://fusionvibestore.com/products/led-tablet-reading-light-rechargeable?variant=45995998675143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3e3bb804-c5e9-4fa6-a0e5-14233776b4ce.jpg?v=1767096523
+    Price: $23.24 USD
+- [New 2 In 1 Hair Straightener Hot Comb Negative Ion Curling Tong Dual-purpose Electric Hair Brush](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush): Overview: 1. The anti-scald comb is designed to straighten the comb to reduce hair pulling and the insulation layer can prevent hand heat. 2. Intelligent temperature control, giving the hair a comfortable temperature without harming the quality of the hair. 3. Multi-functional style for straight and wavy, shiny and straight hair, beautiful inner buckle, loose hair is shiny and fresh, easy to create a feeling of work and life, internal buckle out, cute. 4. Hair straightener allows you to straighten your messy hair in three minutes. A must-have choice for dressing after getting up in the morning on weekdaysMultiple different temperature adjustments are suitable for different hairstyles and hair types. 5. Multiple different temperature adjustments, suitable for different hairstyles and hair types even heating area, better protection of your hair from injury360° Rotatable can rotate the thread head, more convenient to use real shots to show the excellent quality of the product, you are trustworthy. With it, you can straighten your hair quickly, or do curly hair styling. Product Information: Product Category: Hair Straightener Heat conductor material: tourmaline ceramic Temperature control adjustment: 10 segments Applicable hair type: wet and dry Diameter of heat conductor: 16MM-20MM Best modeling time: 3-5 minutes Color: red, black, white, green After-sales service: shop warranty Number of segments: 10 segments Power: black, red, white, green (W) Voltage: 110-220 Size Information: 333×52×52mm Packing List: Straightening comb×1 Product Image:
+  Updated: 2025-12-31T00:52:53Z
+  Vendor: z60ja0-0n
+  Product Type: Electronics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3d9597a3-1470-4747-8791-b63883eddc4a.jpg?v=1767098162
+  - [2pcs A Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003426503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/18b1e818-9c81-4609-8bec-01e2fdee800f.jpg?v=1767098182
+    Price: $30.78 USD
+  - [2pcs Black / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003459271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f48db459-f5ed-4b9b-bbd3-04291d04266f.jpg?v=1767098182
+    Price: $31.78 USD
+  - [2pcs Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003492039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f48db459-f5ed-4b9b-bbd3-04291d04266f.jpg?v=1767098182
+    Price: $35.78 USD
+  - [2pcs Green / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003524807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/54b341c2-e070-446a-9e45-1fd3d68ee4f7.jpg?v=1767098182
+    Price: $32.78 USD
+  - [2pcs Green / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003557575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/18dcf62d-db58-458d-8980-ba6b8deeea10.jpg?v=1767098182
+    Price: $34.78 USD
+  - [2pcs Red / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003590343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/98128e14-3484-450b-9afa-34cb75469d14.jpg?v=1767098182
+    Price: $34.78 USD
+  - [2pcs Red / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003623111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d9f206d6-5c48-4c83-899b-b8e034bffb37.jpg?v=1767098182
+    Price: $34.78 USD
+  - [2pcs White / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003655879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4a47b0d1-c35c-4d9c-bb61-a9e51ef4d1b3.jpg?v=1767098182
+    Price: $33.78 USD
+  - [2pcs White / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003688647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f747043c-b406-407f-a726-a84eab1aa3e3.jpg?v=1767098183
+    Price: $34.78 USD
+  - [3pcs A Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003721415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d47affb2-d444-40d1-8729-f502cabc0193.jpg?v=1767098182
+    Price: $45.67 USD
+  - [3pcs Black / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003754183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/bf41f795-ab6e-4487-b1b3-935587ff2f53.jpg?v=1767098182
+    Price: $45.78 USD
+  - [3pcs Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003786951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/bf41f795-ab6e-4487-b1b3-935587ff2f53.jpg?v=1767098182
+    Price: $48.78 USD
+  - [3pcs Green / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003819719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6a2fcf3e-e5f8-43e8-8ced-fd7443ac3f08.jpg?v=1767098182
+    Price: $45.78 USD
+  - [3pcs Green / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003852487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6bb28001-aa3b-4d1b-8eba-f465bca898e1.jpg?v=1767098182
+    Price: $45.00 USD
+  - [3pcs Red / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003885255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/340524f1-1499-43b2-95d2-f64137f14745.jpg?v=1767098182
+    Price: $45.00 USD
+  - [3pcs Red / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003918023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fa87a688-c65e-4646-9fe5-71f6bb5337d9.jpg?v=1767098182
+    Price: $45.00 USD
+  - [3pcs White / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003950791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/357bfcbb-a074-4988-84a0-04c5aa28d445.jpg?v=1767098182
+    Price: $45.00 USD
+  - [3pcs White / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996003983559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a3b9d162-cab3-4130-bb0b-8d22ee7acca5.jpg?v=1767098182
+    Price: $45.00 USD
+  - [4pcs A Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004016327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1724e4f4-086d-4e76-91cd-bc6755b78222.jpg?v=1767098183
+    Price: $60.00 USD
+  - [4pcs Black / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004049095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d45863b3-7edd-47f1-982b-9bdc5fbb7783.jpg?v=1767098183
+    Price: $60.00 USD
+  - [4pcs Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004081863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d45863b3-7edd-47f1-982b-9bdc5fbb7783.jpg?v=1767098183
+    Price: $60.00 USD
+  - [4pcs Green / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004114631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a898d998-21db-4b09-adda-b6167451b08a.jpg?v=1767098182
+    Price: $60.00 USD
+  - [4pcs Green / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004147399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/10d5b671-bba3-4a69-99b2-f67eb0c83044.jpg?v=1767098182
+    Price: $60.00 USD
+  - [4pcs Red / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004180167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b03a7dd1-53a5-4f25-8626-449df0bfde61.jpg?v=1767098182
+    Price: $60.00 USD
+  - [4pcs Red / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004212935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/767247fb-a8fb-4a81-98d0-c0433fa80372.jpg?v=1767098183
+    Price: $60.00 USD
+  - [4pcs White / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004245703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f5f9b8f2-87bc-4ce1-82df-b43a3dcbbd5d.jpg?v=1767098183
+    Price: $60.00 USD
+  - [4pcs White / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004278471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/78e4281e-a6cf-4080-92b3-9c453a8c9d02.jpg?v=1767098182
+    Price: $60.00 USD
+  - [A Black / EU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004311239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90116574-755b-4626-b638-00bbb5c078ed.jpg?v=1767098182
+    Price: $22.00 USD
+  - [A Black / UK / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004344007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90116574-755b-4626-b638-00bbb5c078ed.jpg?v=1767098182
+    Price: $22.00 USD
+  - [A Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004376775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90116574-755b-4626-b638-00bbb5c078ed.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / AU / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004409543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / AU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004442311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / EU / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004475079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / EU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004507847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / UK / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004540615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / UK / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004573383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004606151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Black / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004638919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c8137fc1-a5fa-41e6-9d4d-0e1815519a5c.jpg?v=1767098182
+    Price: $22.00 USD
+  - [Green / AU / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004671687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1618457790553.jpg?v=1767098183
+    Price: $22.00 USD
+  - [Green / AU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004704455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5f5583ea-ef27-460a-866a-ed53126aa77f.jpg?v=1767098183
+    Price: $22.00 USD
+  - [Green / EU / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004737223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1618457790553.jpg?v=1767098183
+    Price: $23.00 USD
+  - [Green / EU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004769991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5f5583ea-ef27-460a-866a-ed53126aa77f.jpg?v=1767098183
+    Price: $23.00 USD
+  - [Green / UK / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004802759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1618457790553.jpg?v=1767098183
+    Price: $23.45 USD
+  - [Green / UK / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004835527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5f5583ea-ef27-460a-866a-ed53126aa77f.jpg?v=1767098183
+    Price: $23.45 USD
+  - [Green / US / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004868295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1618457790553.jpg?v=1767098183
+    Price: $23.45 USD
+  - [Green / US / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004901063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5f5583ea-ef27-460a-866a-ed53126aa77f.jpg?v=1767098183
+    Price: $23.45 USD
+  - [Red / AU / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004933831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1618457478820.jpg?v=1767098183
+    Price: $23.45 USD
+  - [Red / AU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004966599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ae575c06-f05a-4baf-be87-d21ef24e42b1.jpg?v=1767098182
+    Price: $23.45 USD
+  - [Red / EU / Opp pack](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996004999367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1618457478820.jpg?v=1767098183
+    Price: $23.45 USD
+  - [Red / EU / With box](https://fusionvibestore.com/products/new-2-in-1-hair-straightener-hot-comb-negative-ion-curling-tong-dual-purpose-electric-hair-brush?variant=45996005032135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ae575c06-f05a-4baf-be87-d21ef24e42b1.jpg?v=1767098182
+    Price: $23.90 USD
+- [Women's Sexy Elegant Evening Party Dresses Round Neck Pit Stripe Pearl Chiffon Cape Sleeve Wrapped Hip Dress](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: Black Clothing placket: pullover Waist type: high waist Size: XS,S,M,L,XL Skirt length: short skirt Fabric name: Polyester Main fabric composition: Polyester Fiber (polyester) Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Dress Product Image:
+  Updated: 2025-12-31T01:37:19Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e50ec11d-c362-45a9-9402-a33540cfa039.jpg?v=1767101358
+  - [Black / L](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033802439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f143079f-0034-45e4-87af-d3c6111d5f1a.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Black / M](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033835207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f143079f-0034-45e4-87af-d3c6111d5f1a.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Black / S](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033867975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f143079f-0034-45e4-87af-d3c6111d5f1a.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Black / XL](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033900743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f143079f-0034-45e4-87af-d3c6111d5f1a.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Black / XS](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033933511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f143079f-0034-45e4-87af-d3c6111d5f1a.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Dark Blue / L](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033966279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7aa7605d-6da8-4d2b-80d0-ff4207936ac4.jpg?v=1767101364
+    Price: $20.00 USD
+  - [Dark Blue / M](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996033999047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7aa7605d-6da8-4d2b-80d0-ff4207936ac4.jpg?v=1767101364
+    Price: $20.00 USD
+  - [Dark Blue / S](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034031815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7aa7605d-6da8-4d2b-80d0-ff4207936ac4.jpg?v=1767101364
+    Price: $20.00 USD
+  - [Dark Blue / XL](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034064583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7aa7605d-6da8-4d2b-80d0-ff4207936ac4.jpg?v=1767101364
+    Price: $20.00 USD
+  - [Red / L](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034097351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/142481da-14c9-405a-ba10-6b4bfdf4c819.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Red / M](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034130119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/142481da-14c9-405a-ba10-6b4bfdf4c819.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Red / S](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034162887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/142481da-14c9-405a-ba10-6b4bfdf4c819.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Red / XL](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034195655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/142481da-14c9-405a-ba10-6b4bfdf4c819.jpg?v=1767101363
+    Price: $20.00 USD
+  - [Red / XS](https://fusionvibestore.com/products/womens-sexy-elegant-evening-party-dresses-round-neck-pit-stripe-pearl-chiffon-cape-sleeve-wrapped-hip-dress?variant=45996034228423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/142481da-14c9-405a-ba10-6b4bfdf4c819.jpg?v=1767101363
+    Price: $20.00 USD
+- [P47 TWS Bluetooth 5.0 Wireless Over-Ear Headphones | Stereo Sound, Touch Control, Type-C Charging](https://fusionvibestore.com/products/p47-tws-bluetooth-5-0-wireless-over-ear-headphones-stereo-sound-touch-control-type-c-charging): Experience powerful sound and all-day comfort with P47 TWS Bluetooth 5.0 Wireless Over-Ear Headphones. Designed for music lovers, gamers, and daily users, these headphones deliver rich stereo audio with dynamic drivers and stable Bluetooth 5.0 connectivity. The ergonomic over-ear design ensures a comfortable fit for long listening sessions, while touch & button controls make it easy to manage calls, music, and volume. With 3–5 hours of playtime and fast Type-C charging, you stay connected without interruptions. Built with durable ABS material and IPX-2 water resistance, P47 headphones are ideal for travel, sports, gaming, and everyday use. A built-in LED battery indicator keeps you informed, making these headphones a smart and stylish audio companion. Key Features: ✔ Bluetooth v5.0 – Stable & fast wireless connection✔ Over-Ear Stereo Sound – Clear vocals & deep bass✔ 3–5 Hours Battery Life – Long-lasting performance✔ Type-C Charging – Quick & efficient charging✔ Touch & Button Control – Easy operation✔ IPX-2 Water Resistant – Splash-safe design✔ Lightweight ABS Build – Comfortable for daily use
+  Updated: 2025-12-30T14:56:22Z
+  Vendor: alibaba
+  Product Type: Electronics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_250_H0bb4ea31e1574cffb279deb241d7e034A.jpg?v=1767106312
+  Price: $20.00 USD
+- [9-Gear ND Filter Rotating Sunglasses | UV400 Smart Dimming Camera Aperture Sunglasses for Men & Women](https://fusionvibestore.com/products/9-gear-nd-filter-rotating-sunglasses-uv400-smart-dimming-camera-aperture-sunglasses-for-men-women): SEO Product Description: Upgrade your eye protection and style with Handmade Advanced 9-Gear ND Filter Rotating Sunglasses, designed with innovative camera-aperture smart dimming technology for adjustable brightness control. Featuring a unique rotating lens system, these sunglasses allow you to easily adapt to different light conditions, making them perfect for outdoor and high-sun environments. Crafted with a full-rim round frame, these fashion sunglasses offer UV400 lenses that provide 100% protection against harmful UVA and UVB rays. The unisex design suits both men and women, combining functionality with modern fashion appeal. Manufactured in Zhejiang, China, these sunglasses are made using premium materials for durability and comfort. Lightweight and easy to carry, they are ideal for daily wear, travel, driving, and outdoor activities. Each unit is carefully packed in an OPP bag, ensuring safe delivery. With support for mould making and sample production, this model is suitable for retail, branding, and bulk orders. Key Features: ✔ 9-Gear Adjustable ND Filter – Smooth rotating brightness control✔ Camera Aperture Design – Smart dimming technology✔ UV400 Lenses – 100% UV protection✔ Full-Rim Round Frame – Stylish & durable✔ Unisex Fashion Sunglasses – For men & women✔ Lightweight & Comfortable – Ideal for daily use✔ Handmade Advanced Design – Premium quality finish
+  Updated: 2026-01-01T07:09:28Z
+  Vendor: alibaba
+  Product Type: Sunglasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_56_H818b2af3df594041847eb79f736e72daV.jpg_960x960q80.jpg?v=1767208156
+  Price: $20.34 USD
+- [SENBONO V19 Smart Watch for Men | 1.39″ HD OLED Calling Smartwatch, IP68 Waterproof, Fitness & Heart Rate Tracker](https://fusionvibestore.com/products/senbono-v19-smart-watch-for-men-1-39-hd-oled-calling-smartwatch-ip68-waterproof-fitness-heart-rate-tracker): Stay connected and in control of your health with the SENBONO V19 Smart Watch, designed for men and women who want performance, style, and smart features in one device. Featuring a 1.39-inch HD OLED round display with 360×360 resolution, this smartwatch delivers sharp visuals and smooth touch control. The SENBONO V19 supports Bluetooth calling, allowing you to dial, answer, and receive call reminders directly from your wrist. With built-in heart rate monitoring, sleep tracking, and fitness tracking, it helps you stay on top of your daily health and activity goals. Powered by a 300mAh battery, the watch offers an impressive 5–10 days of battery life, making it ideal for everyday wear. Its IP68 waterproof rating ensures reliable performance during workouts, outdoor activities, and daily use. Built with a durable alloy case and a comfortable rubber strap, the V19 combines durability with all-day comfort. Compatible with Android, iOS, and Huawei devices, and paired through the GloryFit app, this smartwatch keeps you connected with social media notifications, message alerts, alarms, and more. Key Features: ✔ 1.39″ HD OLED Touch Screen (360×360 Resolution)✔ Bluetooth Calling – Dial & Answer Calls✔ Heart Rate Monitor & Sleep Tracker✔ Fitness Tracking & Sports Modes✔ IP68 Waterproof – Sweat & Splash Resistant✔ 5–10 Days Battery Life | 300mAh Battery✔ Alloy Case & Soft Rubber Strap✔ Compatible with Android, iOS & Huawei✔ App Support: GloryFit What’s in the Box: • SENBONO V19 Smart Watch• Charging Cable• User Manual
+  Updated: 2025-12-31T18:38:57Z
+  Vendor: FusionVibeStore™
+  Product Type: watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_58_H5a0f01bd2a414ac1ab0b8f3405761b51X.png_960x960q80_d4938552-4796-4817-97f2-444ed3a594e1.jpg?v=1767163299
+  Price: $25.56 USD
+- [OLEVS 6650 Luxury Automatic Mechanical Watch for Men | Stainless Steel Waterproof Wristwatch](https://fusionvibestore.com/products/olevs-6650-luxury-automatic-mechanical-watch-for-men-stainless-steel-waterproof-wristwatch): Experience timeless elegance and precision craftsmanship with the OLEVS 6650 Luxury Automatic Mechanical Watch for Men. Designed for modern men who appreciate style and performance, this premium wristwatch combines a bold stainless steel build with a reliable self-winding mechanical movement. The numberless round dial with coated glass delivers a clean, sophisticated look, while the automatic self-wind movement ensures smooth and accurate timekeeping—no batteries required. Built for everyday wear, the watch features 5Bar water resistance, making it suitable for daily use and light water activities. Crafted with a durable stainless steel case and band, and secured by a push-button hidden clasp, the OLEVS 6650 offers both comfort and luxury. The complete calendar function adds practicality, making it a perfect choice for business, casual, and sports wear. Whether you’re dressing up for a meeting or going out casually, this watch adds confidence and class to your wrist. 🔹 Key Features: Brand: OLEVS (Original) Model: 6650 Movement: Automatic Self-Wind Mechanical Case Material: Stainless Steel Band Material: Stainless Steel Dial Size: 40–44 mm Case Thickness: 13 mm Water Resistance: 5Bar (Waterproof) Display: Numberless Dial Functions: Complete Calendar Clasp Type: Push Button Hidden Clasp Style: Fashion & Casual Warranty: 2–3 Years Brand Warranty Return: Free Return Available 🎁 Perfect For: Luxury watch lovers Business & formal wear Daily casual use Gifting (Men / Husband / Boyfriend) Upgrade your style with the OLEVS 6650 Automatic Men’s Watch—where luxury meets reliability.
+  Updated: 2026-01-01T04:02:29Z
+  Vendor: FusionVibeStore™
+  Product Type: watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_38_H98a2576ecb7d4b5da152898c3c9ed46fb_jpg_960x960q75_jpg.jpg?v=1767194598
+  Price: $60.00 USD
+- [Men’s Height Increasing Mesh Sneakers – Breathable Slip-On Casual Work Shoes for Autumn & Spring](https://fusionvibestore.com/products/men-s-height-increasing-mesh-sneakers-breathable-slip-on-casual-work-shoes-for-autumn-spring): Upgre your everyday style with these 2025 Men’s Trendy All-Match Sneakers, designed for comfort, durability, and a subtle height boost. Perfect for work, casual outings, or daily wear, these sneakers combine modern design with breathable performance. Crafted with a lightweight mesh upper, they provide excellent airflow to keep your feet cool and fresh throughout the day. The height-increasing sole enhances your posture while maintaining a natural, comfortable feel. A PVC outsole ensures wear-resistant traction, making these shoes ideal for long hours of walking or standing. The slip-on design allows easy wear, while the color-matching pattern adds a stylish, versatile look that pairs effortlessly with jeans, trousers, or casual outfits. Suitable for autumn and spring, these sneakers are built to handle daily use without compromising on style. ⭐ Key Features: Breathable mesh upper for all-day comfort Height-increasing design for a confident look Durable PVC outsole with strong grip Comfortable round toe for easy movement Slip-on style for quick and hassle-free wear Wear-resistant & lightweight for work or casual use Ideal for Autumn & Spring seasons 📦 Product Details: Upper Material: Mesh Lining Material: Mesh Outsole Material: PVC Midsole Material: Textiles Toe Style: Round Toe Style: Running / Casual Work Shoes Pattern: Color Matching Model Number: FJZ908-1 Origin: Fujian, China 💼 Whether you're heading to work or stepping out casually, these sneakers deliver style, comfort, and confidence in every step.
+  Updated: 2026-01-01T07:05:51Z
+  Vendor: alibaba
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_223_H1c0559edb8ff4174b2235acc83ec9d77D.jpg_350x350_e98851ee-0186-46ce-af11-435230d2f066.jpg?v=1767207287
+  Price: $20.00 USD
+- [Desktop Turbofan Aircraft Engine Humidifier with LED Light & Wireless Charging | Creative Metal Desk Spray Fan](https://fusionvibestore.com/products/desktop-turbofan-aircraft-engine-humidifier-with-led-light-wireless-charging-creative-metal-desk-spray-fan): Bring cutting-edge aviation technology aesthetics to your workspace with the Desktop Turbofan Aircraft Engine Humidifier. Designed to look like a real jet engine turbofan, this premium desktop device combines humidification, cooling spray, LED lighting, and wireless charging in one stunning metal build. Crafted from high-quality metal material, this creative desk gadget enhances air moisture while adding a futuristic tech vibe to your home, office, or gaming setup. The built-in LED light effects create a calming atmosphere, while the wireless charging function keeps your electronic devices powered without extra cables. Perfect for tech lovers, aviation fans, and modern desk setups, this turbofan humidifier is both functional and visually striking. 🔸 Key Features: ✔ Realistic Aircraft Turbofan Engine Design✔ Humidification Spray Fan for dry environments✔ Wireless Charging Function for smartphones✔ Built-in LED Ambient Lights✔ Durable Metal Construction✔ Compact & Stylish Desktop Size✔ Ideal for Home, Office, Gaming & Study Desk 🔸 Product Specifications: Product Type: Desktop Turbofan Technology Device Brand: HQXRTEK Model Number: Turbofan Technology Material: Metal Features: Humidifier, Spray Fan, LED Lights, Wireless Charging Condition: 100% New Warranty: 12 Months Place of Origin: Guangdong, China Application: Electronic Products 📦 Packaging & Shipping: Package Size: 25 × 25 × 25 cm Gross Weight: 2 kg Package: Original Package Shipping Options: DHL / UPS / FedEx / EMS / TNT / Aramex 🌟 Perfect For: Modern desk setups Office & home use Gift for tech & aviation lovers Gaming & studio environments
+  Updated: 2026-01-01T14:13:07Z
+  Vendor: alibaba
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_426_H5bce711b59654cdb82121c4fe3ec0c16L.jpg?v=1767276599
+  Price: $50.00 USD
+- [Liu Ming 2025 Women’s Woolen Trench Coat – Windproof Long Sleeve Winter Outwear with Cotton Filling | Hot  Coat](https://fusionvibestore.com/products/liu-ming-2025-women-s-woolen-trench-coat-windproof-long-sleeve-winter-outwear-with-cotton-filling-hot--coat): Upgrade your winter wardrobe with the Liu Ming 2025 Fashion Women’s Woolen Trench Coat, a perfect blend of elegance, warmth, and functionality. Designed with a premium woolen outer layer and soft cotton filling, this trench coat delivers superior insulation while maintaining a classy, modern silhouette. The windproof long sleeves and full-length design protect you from harsh winter winds, making it ideal for daily wear, office use, travel, and evening outings. Its hot- 2025 fashion look makes this coat a must-have winter essential for women who love timeless style with comfort. Pair it effortlessly with jeans, dresses, boots, or heels for a chic winter look. ✨ Key Features Premium woolen fabric for a luxurious feel Cotton filling for added warmth & comfort Windproof long sleeves for cold protection Stylish trench coat design for a slim, elegant look Lightweight yet warm winter outwear Perfect for office, casual, travel & winter outings 2025 fashion new arrival – hot  📋 Product Specifications Brand: Liu Ming Product Type: Women’s Winter Trench Coat Fabric: Woolen Blend Filling: Soft Cotton Sleeve Length: Long Sleeves Closure Type: Button / Open Front (customizable as per stock) Fit: Regular / Slim Fit Length: Long Trench Style Season: Winter Style: Fashion, Elegant, Casual Occasion: Office, Daily Wear, Travel, Party Care Instructions: Dry Clean / Gentle Hand Wash 📦 Package Includes 1 × Liu Ming Women’s Woolen Trench Coat
+  Updated: 2026-01-07T09:27:36Z
+  Vendor: alibaba
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_45_He3d96c6f11464d89bcd3ae8dba27ddf2a.jpg_960x960q80.jpg?v=1767777910
+  Price: $25.00 USD
+- [Liu Ming Women’s Winter Puffer Jacket – Thick Cotton Bubble Coat with Zip-Up Turtleneck | Warm Outwear New Arrival](https://fusionvibestore.com/products/liu-ming-women-s-winter-puffer-jacket-thick-cotton-bubble-coat-with-zip-up-turtleneck-warm-outwear-new-arrival): Stay warm in style this winter with the Liu Ming Women’s Winter Puffer Jacket, designed for comfort, insulation, and modern fashion. Made with high-quality thick cotton padding, this bubble jacket provides excellent warmth without feeling heavy. The zip-up front and cozy turtleneck collar protect you from cold winds, making it perfect for daily wear, travel, and outdoor winter activities. Its trendy puffer silhouette pairs easily with jeans, leggings, or winter boots for a stylish seasonal look. ✨ Key Features: Premium thick cotton padding for superior warmth Zip-up closure for easy wear Turtleneck design for extra cold protection Lightweight yet insulated bubble coat style Ideal for winter, cold weather & casual outings Perfect for daily wear, travel & outdoor use 📦 Package Includes: 1 × Women’s Winter Puffer Jacket Upgrade your winter wardrobe with this stylish, comfortable, and warm outwear jacket — a must-have new arrival for the season.
+  Updated: 2026-01-07T09:35:54Z
+  Vendor: alibaba
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_49_Hdc309828182042a981314dc84bd55744d.jpg_960x960q80.jpg?v=1767778210
+  Price: $15.00 USD
+- [Ochstin Men’s Automatic Mechanical Watch | Moon Phase, Date & Week Display | Luminous Sport Wristwatch](https://fusionvibestore.com/products/ochstin-men-s-automatic-mechanical-watch-moon-phase-date-week-display-luminous-sport-wristwatch): Upgrade your style with the Ochstin Men’s Sport Automatic Wristwatch, a perfect blend of precision engineering and bold design. Powered by a 22-jewel automatic mechanical movement, this watch delivers reliable performance without batteries—just the motion of your wrist. Featuring a striking moon phase display, along with day, date, and week indicators, this timepiece is designed for men who appreciate both functionality and luxury. The luminous hands ensure clear visibility in low light, making it ideal for day-to-night wear. Built for comfort and durability, the high-quality rubber strap offers a secure fit, while the sporty yet elegant dial complements casual, business, and outdoor styles. Whether you're heading to work, traveling, or gifting someone special, this watch makes a powerful statement. ✅ Key Features: ⌚ Automatic Mechanical Movement (22 Jewels) 🌙 Moon Phase Display 📅 Day, Date & Week Display ✨ Luminous Hands for Night Visibility 🏃 Sporty & Durable Design 🔗 Comfortable Rubber Strap 🎁 Perfect Gift for Men Make every second count with the Ochstin Men’s Automatic Sport Watch — where craftsmanship meets modern style.
+  Updated: 2026-01-07T11:03:24Z
+  Vendor: ali express
+  Product Type: watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_125_S23cca5d2959e4af5b0041b4637d87c92o_jpg_960x960q75_jpg.jpg?v=1767783379
+  Price: $150.00 USD
+- [BOND Crescent Men’s Automatic Mechanical Watch | Moon Phase, Date & Week Display | Luminous Sport Wristwatch](https://fusionvibestore.com/products/bond-crescent-men-s-automatic-mechanical-watch-moon-phase-date-week-display-luminous-sport-wristwatch): Experience timeless design and mechanical precision with the BOND – Crescent Men’s Automatic Wristwatch. Crafted for men who value sophistication with a sporty edge, this watch features a 22-jewel automatic mechanical movement, powered naturally by your wrist—no battery required. The elegant crescent-style moon phase display adds a unique luxury touch, while the day, date, and week indicators keep you organized in style. Designed for all-day usability, the luminous hands ensure excellent visibility even in low-light conditions. Finished with a durable rubber strap for maximum comfort and everyday wear, the BOND Crescent watch transitions effortlessly from casual outings to formal occasions. Strong, stylish, and functional—this timepiece is made to stand out. ✅ Key Features: ⌚ Automatic Mechanical Movement (22 Jewels) 🌙 Crescent Moon Phase Display 📅 Day, Date & Week Display ✨ Luminous Hands for Night Visibility 🏃 Sporty & Elegant Design 🔗 Comfortable & Durable Rubber Strap 🎁 Ideal Gift for Men Upgrade your wrist game with the BOND – Crescent Automatic Watch, where modern style meets classic craftsmanship.
+  Updated: 2026-01-07T11:20:40Z
+  Vendor: ali express
+  Product Type: watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/imgi_96_7_2c5151ca-d9e3-44b7-90d1-978ece8fa9d8.jpg?v=1767784634
+  Price: $65.00 USD
+- [2pcs Suit Women's Solid Stripe Long-sleeved Top And Tight Suspender Skirt Fashion Autumn Winter Slim Clothing](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Size: S,M,L,XL,2XL,3XL Skirt length: mid-length skirt Popular element: fold Fabric name: Polyester Main fabric composition: polyester Applicable Gender: Female Sleeve length: long sleeve Style: casual style Craft: crumple Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hanging strap * 1 Top * 1 Product Image:
+  Updated: 2026-01-08T06:28:26Z
+  Vendor: FusionVibeStore™
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e3a4b28b-ad95-46c6-83c5-eb6dbd61549c.jpg?v=1767791882
+  - [Beige / 2XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927760583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e84b905f-551f-40ae-8ec0-8fb237679178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Beige / 3XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927793351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e84b905f-551f-40ae-8ec0-8fb237679178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Beige / L](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927826119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e84b905f-551f-40ae-8ec0-8fb237679178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Beige / M](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927858887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e84b905f-551f-40ae-8ec0-8fb237679178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Beige / S](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927891655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e84b905f-551f-40ae-8ec0-8fb237679178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Beige / XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927924423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e84b905f-551f-40ae-8ec0-8fb237679178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Black / 2XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927957191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dcf5e1fa-a1cb-42c4-914e-8147cc0749df.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Black / 3XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016927989959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dcf5e1fa-a1cb-42c4-914e-8147cc0749df.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Black / L](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928022727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dcf5e1fa-a1cb-42c4-914e-8147cc0749df.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Black / M](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928055495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dcf5e1fa-a1cb-42c4-914e-8147cc0749df.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Black / S](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928088263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dcf5e1fa-a1cb-42c4-914e-8147cc0749df.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Black / XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928121031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dcf5e1fa-a1cb-42c4-914e-8147cc0749df.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Dark Brown / 2XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928153799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/29c954e1-cbaf-4ac6-8f00-7f053eb9b760.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Dark Brown / 3XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928186567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/29c954e1-cbaf-4ac6-8f00-7f053eb9b760.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Dark Brown / L](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928219335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/29c954e1-cbaf-4ac6-8f00-7f053eb9b760.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Dark Brown / M](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928252103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/29c954e1-cbaf-4ac6-8f00-7f053eb9b760.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Dark Brown / S](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928284871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/29c954e1-cbaf-4ac6-8f00-7f053eb9b760.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Dark Brown / XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928317639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/29c954e1-cbaf-4ac6-8f00-7f053eb9b760.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Gray / 2XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928350407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/398359f1-2257-4ffe-9b14-eaa61a47f178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Gray / 3XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928383175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/398359f1-2257-4ffe-9b14-eaa61a47f178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Gray / L](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928415943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/398359f1-2257-4ffe-9b14-eaa61a47f178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Gray / M](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928448711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/398359f1-2257-4ffe-9b14-eaa61a47f178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Gray / S](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928481479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/398359f1-2257-4ffe-9b14-eaa61a47f178.jpg?v=1767791889
+    Price: $18.89 USD
+  - [Gray / XL](https://fusionvibestore.com/products/2pcs-suit-womens-solid-stripe-long-sleeved-top-and-tight-suspender-skirt-fashion-autumn-winter-slim-clothing?variant=46016928514247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/398359f1-2257-4ffe-9b14-eaa61a47f178.jpg?v=1767791889
+    Price: $18.89 USD
+- [304 Stainless Steel Vacuum Cup Creative Magnetic Water Cup Insulated Sports Water Bottle With Straw Outdoor Insulated Water Mug With Magnetic Phone Holder](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. Product information: Color: white 750ml, dark blue 750ml, yellow 750ml Material of liner: 304 stainless steel Insulation Performance: 6-12 hours Material: 304 inside and outside Shell material: 304 stainless steel Capacity: 25 oz (750 ml) Packing list: 1* Water Cup Product Image:
+  Updated: 2026-01-08T02:24:09Z
+  Vendor: FusionVibeStore™
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f61d666-9776-40f0-9c98-6ae574edbb5a.jpg?v=1767791993
+  - [Black / 24oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929366215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c4bf6d62-1db9-41e0-a1b4-a6ec554ae13e.jpg?v=1767792004
+    Price: $20.78 USD
+  - [Black / 25oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929398983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5c982ac9-d8b4-47df-8f3c-f1d3f342c659.jpg?v=1767792004
+    Price: $20.78 USD
+  - [Dark Blue / 24oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929431751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/33c69840-fc1d-488f-a337-827907b86b96.jpg?v=1767792005
+    Price: $20.78 USD
+  - [Dark Blue / 25oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929464519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/fb4124b1-0583-4888-9985-9c3cd5987eff.jpg?v=1767792005
+    Price: $20.78 USD
+  - [Orange / 24oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929497287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/84668b80-5a3d-43b2-9f26-5714e659fb4c.jpg?v=1767792005
+    Price: $20.78 USD
+  - [Red / 24oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929530055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6f99b4b5-2b57-4bcb-a4b7-02c885ea22c1.jpg?v=1767792005
+    Price: $20.78 USD
+  - [Red / 25oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929562823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8e74d5bb-f038-4682-92f8-e2bb93556a48.jpg?v=1767792004
+    Price: $20.78 USD
+  - [White / 24oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929595591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4ce756d1-271b-40a1-b3a7-1bea9c5c596c.jpg?v=1767792004
+    Price: $20.78 USD
+  - [White / 25oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929628359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f837520a-3c0e-40d4-94cf-055ed1e5ba27.jpg?v=1767792005
+    Price: $20.78 USD
+  - [Yellow / 25oz](https://fusionvibestore.com/products/304-stainless-steel-vacuum-cup-creative-magnetic-water-cup-insulated-sports-water-bottle-with-straw-outdoor-insulated-water-mug-with-magnetic-phone-holder?variant=46016929661127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/df40e588-5fc4-4259-9bb4-962e91be5d69.jpg?v=1767792005
+    Price: $20.78 USD
 
 ## Collections
 
@@ -4138,41 +4642,47 @@
   Updated: 2025-10-06T09:56:37Z
   Total Products: 2
 - [Sunglasses](https://fusionvibestore.com/collections/sunglasses)
-  Updated: 2025-10-01T17:59:11Z
-  Total Products: 1
+  Updated: 2025-12-31T18:22:44Z
+  Total Products: 2
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-12-27T13:58:17Z
-  Total Products: 17
+  Updated: 2025-12-30T12:18:52Z
+  Total Products: 18
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-12-27T09:17:22Z
   Total Products: 14
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-12-27T13:58:17Z
-  Total Products: 9
+  Updated: 2026-01-07T13:20:07Z
+  Total Products: 10
 - [Men](https://fusionvibestore.com/collections/men)
-  Updated: 2025-10-29T17:11:35Z
-  Total Products: 0
+  Updated: 2025-12-31T18:26:53Z
+  Total Products: 3
 - [Women](https://fusionvibestore.com/collections/women)
-  Updated: 2025-12-27T08:41:37Z
-  Total Products: 23
+  Updated: 2026-01-07T13:18:15Z
+  Total Products: 26
 - [car accessories](https://fusionvibestore.com/collections/car-accessories)
   Updated: 2025-12-27T10:31:02Z
   Total Products: 1
 - [SHOES](https://fusionvibestore.com/collections/shoes)
-  Updated: 2025-12-18T15:31:07Z
-  Total Products: 0
+  Updated: 2025-12-31T18:59:39Z
+  Total Products: 1
 - [Jewellery](https://fusionvibestore.com/collections/jewellery)
-  Updated: 2025-12-26T09:48:03Z
+  Updated: 2025-12-31T18:24:12Z
   Total Products: 1
 - [Winter clothes](https://fusionvibestore.com/collections/winter-clothes)
-  Updated: 2025-12-27T07:04:37Z
-  Total Products: 2
+  Updated: 2026-01-07T09:33:51Z
+  Total Products: 4
 - [Watches](https://fusionvibestore.com/collections/watches)
-  Updated: 2025-12-26T11:15:27Z
-  Total Products: 1
+  Updated: 2026-01-07T11:19:27Z
+  Total Products: 6
 - [PERFUME FRAGRANCES](https://fusionvibestore.com/collections/perfume-fragrances)
-  Updated: 2025-12-27T07:39:43Z
-  Total Products: 1
+  Updated: 2025-12-31T05:05:20Z
+  Total Products: 2
+- [Electronics](https://fusionvibestore.com/collections/electronics)
+  Updated: 2026-01-01T14:11:57Z
+  Total Products: 3
+- [Yoga clothes](https://fusionvibestore.com/collections/yoga-clothes)
+  Updated: 2025-12-31T05:20:09Z
+  Total Products: 2
 
 ## Store Pages
 
