@@ -6,21 +6,21 @@
 - Timezone: America/Boise
 - Created At: 2025-12-10T18:04:51Z
 - Contact Email: TheNewAgeStoreFront@gmail.com
-- Updated At: 2026-01-02T00:00:32.316Z
+- Updated At: 2026-01-09T00:00:34.736Z
 
 The New Age
 
 ## Products
 
 - [Pet Cat Tree Toys - Durable Cat Scratch Post & Interactive Climber for Cats](https://the-new-age-7647.myshopify.com/products/pet-cat-tree-toys-cat-scratch-post-pet-furniture-scratching-post-cats-claw-scratcher-double-sisal-balls-cat-accessories): Discover our Pet Cat Tree Toys, featuring a sturdy cat scratch post and interactive features to keep your cat active, healthy, and entertained at home.
-  Updated: 2026-01-01T18:05:02Z
+  Updated: 2026-01-06T08:39:22Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/53f04721-aa4d-4069-a24a-1ded338b0f06.jpg?v=1767075231
-  Price: $55.00 USD
+  Price: $56.99 USD
 - [Pet Automatic Feeder Large Capacity with APP Control & WiFi - Smart Dispenser](https://the-new-age-7647.myshopify.com/products/pet-automatic-feeder-large-capacity-smart-voice-recorder-app-control-timer-feeding-cat-dog-food-dispenser-with-wifi-pet-bo): Shop the Pet Automatic Feeder with large capacity, APP control, WiFi, voice recorder, and timer feeding. Keep your pet fed and healthy effortlessly.
-  Updated: 2026-01-01T18:04:59Z
+  Updated: 2026-01-06T08:34:36Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -210,7 +210,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f8947280-aee6-40b2-bb0f-9d5ea55cfe21.jpg?v=1767075288
     Price: $127.99 USD
 - [Cat Brush Hair Remover - Pet Grooming Tool for Gentle Fur Care](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care): Find the best Cat Brush Hair Remover for effective pet grooming. Keeps fur healthy and shiny, with a 2-in-1 massage and de-shedding design.
-  Updated: 2026-01-01T18:04:54Z
+  Updated: 2026-01-06T09:13:29Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -218,13 +218,13 @@ The New Age
   - [13X8X5cm / Avocado Green](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care?variant=51795197395225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b74eba84-41f3-4ada-9834-b744c168177a_trans.jpg?v=1767075303
-    Price: $13.99 USD
+    Price: $14.99 USD
   - [13X8X5cm / Lemon Yellow](https://the-new-age-7647.myshopify.com/products/cat-brush-hair-remover-cleaning-avocado-shaped-dog-grooming-tool-pet-combs-brush-stainless-steel-needle-pet-cleaning-care?variant=51795197427993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0e49ce1f-3127-423a-8cca-09aa292ebc5f_trans.jpg?v=1767075306
-    Price: $13.99 USD
+    Price: $14.99 USD
 - [Electric Water Gun - Automatic High-Range Water Fight Toy for Summer](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys): Discover the Electric Water Gun with automatic reloading and long-range shoots up to 32 feet. Perfect for summer outdoor water fights and kids' fun activities.
-  Updated: 2026-01-01T18:04:52Z
+  Updated: 2026-01-06T09:06:52Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -232,33 +232,33 @@ The New Age
   - [Blue 2PC / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389527833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/56884b98-d207-450e-87ca-e82b30b0d0e9.jpg?v=1767075335
-    Price: $64.99 USD
+    Price: $65.99 USD
   - [Blue 3PC / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389560601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7ebfb558-b62c-43d3-ba9e-a2b7a283dc3d.jpg?v=1767075338
-    Price: $89.99 USD
+    Price: $90.99 USD
   - [Blue 5pcs / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389593369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e0238a2-6e17-4de3-937e-0ecaa7efde96.jpg?v=1767075340
-    Price: $230.99 USD
+    Price: $232.99 USD
   - [Blue / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389626137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2487aa19-23e8-4cd9-8f78-9e8a11520894.jpg?v=1767075342
-    Price: $45.99 USD
+    Price: $46.99 USD
   - [Yellow 2PC / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389658905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1512ab7f-e5e2-41b8-90b6-87ff8e32d9cb.jpg?v=1767075345
-    Price: $62.99 USD
+    Price: $63.99 USD
   - [Yellow 3PC / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389691673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ee37170-42b4-4d5d-a897-5c1f1a8ee0c1.jpg?v=1767075349
-    Price: $89.99 USD
+    Price: $90.99 USD
   - [Yellow / USB](https://the-new-age-7647.myshopify.com/products/summer-full-automatic-electric-water-gun-toy-induction-water-absorbing-high-tech-burst-water-gun-beach-outdoor-water-fight-toys?variant=51796389724441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/85de2bdd-e3cc-4bed-9d5b-c09f1be348e5_c28ec773-8bfc-4f2b-98b3-e56764b48f7f.jpg?v=1767075351
-    Price: $45.99 USD
+    Price: $46.99 USD
 - [New Busy Book Children's Busy Board for Learning & Sensory Development](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy): Discover the New Busy Book, a perfect sensory learning toy for children aged 1-5, helping develop practical skills through dressing and buttoning activities.
-  Updated: 2026-01-01T18:04:51Z
+  Updated: 2026-01-06T08:10:49Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -266,121 +266,121 @@ The New Age
   - [A](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390576409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2b090153-564b-4f0e-be18-98bf3540ee19.jpg?v=1767075375
-    Price: $18.99 USD
+    Price: $19.99 USD
   - [A set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390609177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/900c96df-f3df-4ebf-bef3-a72be28f9da4.jpg?v=1767075378
-    Price: $19.99 USD
+    Price: $20.99 USD
   - [B](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390641945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d1d809f0-cc82-4a03-9332-d610a6a572d0.jpg?v=1767075381
-    Price: $17.99 USD
+    Price: $18.99 USD
   - [B set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390674713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f4d54824-cc71-4fcb-b3df-31f6ec4c865e.jpg?v=1767075384
-    Price: $19.99 USD
+    Price: $20.99 USD
   - [C](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390707481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/de3ae25c-4ca5-42a3-80e5-0dcad6a78490.jpg?v=1767075386
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [C set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390740249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2154476e-cb70-47ab-a7e1-017c14640dde.jpg?v=1767075389
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [D](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390773017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ea928e9-40f1-47bd-8f20-b8b4f184be0a.jpg?v=1767075392
-    Price: $25.99 USD
+    Price: $26.99 USD
   - [D set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390805785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b25ce1da-a6e0-4499-a5d8-410193540a15.jpg?v=1767075395
-    Price: $27.99 USD
+    Price: $28.99 USD
   - [E](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390838553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/02f8cc92-c71f-4cf5-bde5-f74b4c066a54.jpg?v=1767075398
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [E set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390871321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6f2d3a50-34e8-43cc-9e34-ab95761f8b8d.jpg?v=1767075402
-    Price: $26.99 USD
+    Price: $27.99 USD
   - [G](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390904089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/92cd72f9-f700-458a-9482-848016045e4e.jpg?v=1767075404
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [G set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390936857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e4db92e0-272c-43df-a7b8-62ebef908de0.jpg?v=1767075407
-    Price: $26.99 USD
+    Price: $27.99 USD
   - [H](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796390969625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/33d547c4-49a7-4fd3-adad-6e6e46f3879b.jpg?v=1767075409
-    Price: $27.99 USD
+    Price: $28.99 USD
   - [K](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391002393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05a6e0ce-007a-4987-b1d0-40398d8df2d7.jpg?v=1767075412
-    Price: $26.99 USD
+    Price: $27.99 USD
   - [L](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391035161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a3030fc4-6125-450b-a7b1-da9ce257af74.jpg?v=1767075414
-    Price: $28.99 USD
+    Price: $29.99 USD
   - [L set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391067929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/91f2b05f-038c-493e-b524-7817b6a25f5a.jpg?v=1767075416
-    Price: $29.99 USD
+    Price: $30.99 USD
   - [M](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391100697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ba471da2-895f-4d47-805b-87ccf9d92cb3.jpg?v=1767075419
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [M set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391133465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/208860f0-32fe-4ea2-b77e-5d1f16d11003.jpg?v=1767075420
-    Price: $25.99 USD
+    Price: $26.99 USD
   - [Purple](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391166233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7fc25393-f424-46e0-9156-723fcd00db47.jpg?v=1767075423
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [R](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391199001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4d8d70f1-54d5-4a02-9d7e-4056562ec861.jpg?v=1767075426
-    Price: $26.99 USD
+    Price: $27.99 USD
   - [R set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391231769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/537eb842-199a-4e0b-ba08-cf435d884c27.jpg?v=1767075428
-    Price: $27.99 USD
+    Price: $27,899.00 USD
   - [Style 1](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391264537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/06f042c0-d95c-4da8-8738-bd66cf94ae22.jpg?v=1767075432
-    Price: $22.99 USD
+    Price: $23.99 USD
   - [Style 1set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391297305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a7535403-dcfb-4504-9b39-a5f32ec73f78.jpg?v=1767075433
-    Price: $23.99 USD
+    Price: $24.99 USD
   - [Style 2](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391330073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c2c01492-15f5-4622-8a9b-d4e666b93859.jpg?v=1767075435
-    Price: $21.99 USD
+    Price: $22.99 USD
   - [Triple page dinosaur](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391362841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aca476ff-db67-4616-9960-d80c4c073111.jpg?v=1767075438
-    Price: $27.99 USD
+    Price: $28.99 USD
   - [Turquoise](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391395609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c694604b-d004-47fe-9a35-a90679b526bf.jpg?v=1767075441
-    Price: $27.99 USD
+    Price: $28.99 USD
   - [Turquoise set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391428377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8b0c055b-eba9-41db-8e96-e2e2b03bbc89.jpg?v=1767075443
-    Price: $28.99 USD
+    Price: $29.99 USD
   - [Y](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391461145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3e5f9ea3-8603-4266-9f32-2800f7b33c2b.jpg?v=1767075446
-    Price: $29.99 USD
+    Price: $30.99 USD
   - [Y set](https://the-new-age-7647.myshopify.com/products/new-busy-book-childrens-busy-board-dressing-and-buttoning-learning-baby-early-education-preschool-sensory-learning-toy?variant=51796391493913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7968f3d6-ddbe-461a-ad96-c1c000ea5de1.jpg?v=1767075448
-    Price: $31.99 USD
+    Price: $32.99 USD
 - [Baby Toys Magnetic Stick Building Blocks - Fun & Educational Magnetic Toy](https://the-new-age-7647.myshopify.com/products/baby-toys-magnetic-stick-building-blocks-game-magnets-children-set-kids-magnets-for-children-magnetic-toy-bricks): Discover Baby Toys Magnetic Stick Building Blocks, designed to spark creativity, build motor skills, and teach magnetic principles with vibrant, safe materials.
-  Updated: 2026-01-01T18:04:49Z
+  Updated: 2026-01-06T07:58:31Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -402,7 +402,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9124643030124.jpg?v=1767075469
     Price: $51.99 USD
 - [Domino Train Toys - Baby Toy Car Puzzle with Automatic Release & Building Blocks](https://the-new-age-7647.myshopify.com/products/domino-train-toys-baby-toys-car-puzzle-automatic-release-licensing-electric-building-blocks-train-toy): Discover the exciting Domino Train Toys, perfect for developing children's imagination, coordination, and recognition skills with an automatic domino releasing train.
-  Updated: 2026-01-01T18:04:46Z
+  Updated: 2026-01-06T07:55:27Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -428,7 +428,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/45fe612a-ece7-4bc9-a5c4-dec1bc888747.jpg?v=1767075504
     Price: $69.99 USD
 - [PerfectSleep Full Body Pillow - Comfortable Solid Design for Body & Bedding](https://the-new-age-7647.myshopify.com/products/perfectsleep-full-body-pillow): Discover the PerfectSleep Full Body Pillow featuring Polyester/Cotton filling, 300TC thread count, and a solid pattern, ideal for body and bedding use.
-  Updated: 2026-01-01T18:04:45Z
+  Updated: 2026-01-06T07:53:10Z
   Vendor: The New Age
   Product Type: Pillow
   Availability: Available
@@ -482,7 +482,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1459745470100.jpg?v=1767075524
     Price: $76.99 USD
 - [Pizza Blanket - Cozy & Warm Hooded Cloak for Autumn & Winter](https://the-new-age-7647.myshopify.com/products/pizza-blanket): Shop the Pizza blanket, a cozy hooded cloak made of polyester, perfect for keeping warm during autumn and winter with various patterns and styles available.
-  Updated: 2026-01-01T18:04:44Z
+  Updated: 2026-01-06T12:21:23Z
   Vendor: The New Age
   Product Type: Blanket
   Availability: Available
@@ -504,7 +504,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1423076936007_fb9ea11f-27c2-4971-a663-83ea11d64547.jpg?v=1767075536
     Price: $43.99 USD
 - [Pet dog plush mat - Comfortable Beige Pet Rest Mat for Dogs](https://the-new-age-7647.myshopify.com/products/pet-dog-plush-mat-beige-mat-pet-dog-rest): Shop the pet dog plush mat, a comfortable and soft beige pet rest mat available in multiple sizes for dogs up to 45 kg. Perfect for your pet's relaxing needs!
-  Updated: 2026-01-01T18:04:41Z
+  Updated: 2026-01-06T07:49:46Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -550,7 +550,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c45f9408-507d-44c9-8788-4be8fc22dd6a.jpg?v=1767075559
     Price: $21.99 USD
 - [Twill Cotton Bed Sheet - Soft, Durable & Elegant Bedding Solution](https://the-new-age-7647.myshopify.com/products/twill-cotton-bed-sheet): Shop the Twill cotton bed sheet, crafted with pure cotton and reactive printing, offering durability and softness for a comfortable sleep experience. Perfect for any bedroom décor.
-  Updated: 2026-01-01T18:04:40Z
+  Updated: 2026-01-06T07:47:03Z
   Vendor: The New Age
   Product Type: Sheets
   Availability: Available
@@ -584,7 +584,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2063908408866.jpg?v=1767075581
     Price: $84.99 USD
 - [Students Cotton Bed Sheets - Comfortable Fitted Sheets & Pillow Cases](https://the-new-age-7647.myshopify.com/products/students-cotton-bed-sheets-fitted-sheet-pillow-case): Discover high-quality Students Cotton Bed Sheets, including fitted sheets and pillow cases in various colors and sizes for a cozy sleep experience.
-  Updated: 2026-01-01T18:04:39Z
+  Updated: 2026-01-06T07:29:27Z
   Vendor: The New Age
   Product Type: Sheets
   Availability: Available
@@ -790,7 +790,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/35336437-6a6a-46ba-be6c-d9c7578122b2.jpg?v=1767075611
     Price: $14.99 USD
 - [Car Inflatable Bed - Universal, Ultra-Thick, Easy to Fold & Use, Better Comfort](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed): Discover the Car Inflatable Bed for a comfy travel experience. Easy to fold, very good quality, suitable for five-seater cars. Perfect for on-the-go comfort!
-  Updated: 2026-01-01T18:04:36Z
+  Updated: 2026-01-06T07:30:02Z
   Vendor: The New Age
   Product Type: Car
   Availability: Available
@@ -798,37 +798,37 @@ The New Age
   - [Black Wave](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397752601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/778613993573.jpg?v=1767075645
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [Black blocked](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397785369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2914880212453.jpg?v=1767075649
-    Price: $72.99 USD
+    Price: $74.99 USD
   - [Cream coloured blocked](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397818137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2392516997325.jpg?v=1767075651
-    Price: $72.99 USD
+    Price: $74.99 USD
   - [Orange](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397850905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1700919475728_9604b58c-4067-4881-a815-0eb518f340e9.jpg?v=1767075653
-    Price: $73.99 USD
+    Price: $75.99 USD
   - [Sky blue](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397883673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/240868104343.jpg?v=1767075655
-    Price: $73.99 USD
+    Price: $75.99 USD
   - [black](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397916441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1282019770067.jpg?v=1767075659
-    Price: $73.99 USD
+    Price: $75.99 USD
   - [blue](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397949209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1981306115138.jpg?v=1767075661
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [cream coloure](https://the-new-age-7647.myshopify.com/products/car-inflatable-bed?variant=51796397981977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2520092847518.jpg?v=1767075664
-    Price: $72.99 USD
+    Price: $74.99 USD
 - [Fashion Casual Geneva Mens Watch - Elegant Quartz Stainless Steel Wristwatch](https://the-new-age-7647.myshopify.com/products/fashion-casual-geneva-mens-watch-quartz-stainless-steel-brand-wristwatch-analog-watches-wrist): Shop the Fashion Casual Geneva Mens Watch, a stylish quartz stainless steel wristwatch perfect for everyday wear. Durable, fashionable, and with a classic design.
-  Updated: 2026-01-01T18:04:34Z
+  Updated: 2026-01-06T07:36:45Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -836,17 +836,17 @@ The New Age
   - [Black Shell Grey Needle](https://the-new-age-7647.myshopify.com/products/fashion-casual-geneva-mens-watch-quartz-stainless-steel-brand-wristwatch-analog-watches-wrist?variant=51796398735641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619939161656.jpg?v=1767075672
-    Price: $24.99 USD
+    Price: $26.99 USD
   - [Black shell red needle](https://the-new-age-7647.myshopify.com/products/fashion-casual-geneva-mens-watch-quartz-stainless-steel-brand-wristwatch-analog-watches-wrist?variant=51796398768409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619939161642.jpg?v=1767075674
-    Price: $24.99 USD
+    Price: $26.99 USD
   - [Black shell rose gold needle](https://the-new-age-7647.myshopify.com/products/fashion-casual-geneva-mens-watch-quartz-stainless-steel-brand-wristwatch-analog-watches-wrist?variant=51796398801177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619939161658.jpg?v=1767075677
-    Price: $24.99 USD
+    Price: $26.99 USD
 - [Fashion Mens Watches Top Brand Luxury Silicone Sport Watch Men Quartz](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph): Shop Fashion Mens Watches featuring top brand luxury silicone sport watches, waterproof, with quartz movement, luminous dial, ideal for adults' sporty style.
-  Updated: 2026-01-01T18:04:32Z
+  Updated: 2026-01-06T07:23:20Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -854,33 +854,33 @@ The New Age
   - [Belt gold black](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402667801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f5ffdb20-6a22-495c-b490-59ca5f6575ac.jpg?v=1767075682
-    Price: $39.99 USD
+    Price: $41.99 USD
   - [Belt silver black](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402700569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ec6bdb5a-6e06-4b22-8891-7121ed9e45d6.jpg?v=1767075685
-    Price: $39.99 USD
+    Price: $41.99 USD
   - [Black](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402733337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/62cb0f43-0ae5-49a3-b23b-004947a34e35.jpg?v=1767075687
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402766105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/68920c3d-feca-4e7c-82a3-75198bbcbcbd_a0b18a13-819e-4f77-b693-19d5d975bfc5.jpg?v=1767075691
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Blue2](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402798873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9730469c-571d-4a1c-b94d-4ec8e5116f0f.jpg?v=1767075693
-    Price: $39.99 USD
+    Price: $41.99 USD
   - [Gold black](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402831641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b6f916f1-7bb7-455f-8be4-492ebd95ec87.jpg?v=1767075697
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Silver black](https://the-new-age-7647.myshopify.com/products/fashion-mens-watches-top-brand-luxury-silicone-sport-watch-men-quartz-date-clock-waterproof-wristwatch-chronograph?variant=51796402864409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f346ee3e-5b14-4d59-bf41-b04194637db7.jpg?v=1767075700
-    Price: $39.99 USD
+    Price: $41.99 USD
 - [Automatic Movement Watch Mens Vacuum Plating Wheels - Stylish & Durable](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels): Discover the best Automatic Movement Watch for men. Features quartz movement, screw crown, stylish vacuum plating wheels. Perfect for everyday wear.
-  Updated: 2026-01-01T18:04:29Z
+  Updated: 2026-01-06T07:09:40Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -888,101 +888,101 @@ The New Age
   - [A belt green](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403159321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bf6ad9d5-20b9-4de9-ad35-5654ffd8df58.jpg?v=1767075705
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [A belt red](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403192089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e1b51702-7d86-4430-8934-9624526d89ba.jpg?v=1767075708
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [A steel belt blue](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403224857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0cfb6c3a-77ee-4a68-9f8e-283e2b84b3e3.jpg?v=1767075710
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Model 1belt blue](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403257625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/66ec8205-6ab0-4cc9-a130-71186692076c.jpg?v=1767075713
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Model Three Belt Yellow](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403290393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4a0eb06d-4271-4b2f-bb75-3486ac043ba1.jpg?v=1767075715
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Model Two Belt Blue](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403323161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/66ec8205-6ab0-4cc9-a130-71186692076c.jpg?v=1767075713
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Model one belt yellow](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403355929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4bc4b799-952d-462f-bdba-3e5b77ab5cb2.jpg?v=1767075718
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Model three belt green](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403388697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fa53b1ea-319b-4942-bfba-84be49a142e2.jpg?v=1767075720
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Model three belt red](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403421465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9e0acd42-1d2c-4073-97f7-57e765b85aea.jpg?v=1767075723
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Section 1steel belt green](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403454233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a4e8a24a-09ff-4743-926d-6142a57da8ae.jpg?v=1767075726
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Section 2steel belt green](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403487001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4f8f7974-e4f1-4366-934a-220282a0fc9b.jpg?v=1767075728
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Section three steel with green](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403519769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4a543f42-b544-49be-99a0-d2921dc6ed4a.jpg?v=1767075731
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Style 2steel belt yellow](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403552537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08e1da8a-cd24-431b-a246-97d167874427.jpg?v=1767075734
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Style three belt blue](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403585305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ff6ae10-e67e-4bfe-8ed4-179c912c289a.jpg?v=1767075736
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Style two belt green](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403618073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1becbc98-46fa-488b-9ac2-81a49bacdf45.jpg?v=1767075738
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Style two belt yellow](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403650841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10aa7e9c-d1d7-4377-8505-157e1771eabd.jpg?v=1767075741
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Type 1steel belt yellow](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403683609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/540198b3-ce1b-4c43-b2b1-b300f81ec5cb.jpg?v=1767075743
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Type 2belt red](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403716377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e6d476cc-4b86-43e2-bcdb-6f08563ed856.jpg?v=1767075746
-    Price: $35.57 USD
+    Price: $37.99 USD
   - [Type 2steel belt blue](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403749145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/765c5c0a-bd9b-460d-9961-4fc606bf8fef.jpg?v=1767075748
-    Price: $35.99 USD
+    Price: $37.99 USD
   - [Type 2steel belt red](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403781913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3f1bae78-04ff-4785-8d5e-d12a39b351d1.jpg?v=1767075750
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Type three steel belt blue](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403814681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/46886c98-4c73-4235-9fa4-d03b24fca6f4.jpg?v=1767075754
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Type three steel belt red](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403847449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/92ac3a87-b41c-4a0d-9b93-5930781c2f6a.jpg?v=1767075756
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Type three steel belt yellow](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403880217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d173c593-8c9b-4cd0-9f9d-2140010956d4.jpg?v=1767075758
-    Price: $37.58 USD
+    Price: $37.99 USD
   - [Type1 steel belt red](https://the-new-age-7647.myshopify.com/products/automatic-movement-watch-mens-vacuum-plating-wheels?variant=51796403912985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/57279499-909d-47f0-ad31-bab6099f7f26_20f2281b-45f2-4cda-8437-729ca016c124.jpg?v=1767075760
-    Price: $37.58 USD
+    Price: $37.99 USD
 - [Fashion Sports Quartz Watch - Elegant Wooden Timepiece for Active Wear](https://the-new-age-7647.myshopify.com/products/fashion-sports-quartz-wooden-watch): Discover the stylish Fashion Sports Quartz Watch featuring a wooden strap, round dial, and sleek design. Perfect for sports and casual occasions.
-  Updated: 2026-01-01T18:04:27Z
+  Updated: 2026-01-06T07:03:44Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -990,17 +990,17 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/fashion-sports-quartz-wooden-watch?variant=51796404371737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/710fc06f-de7d-4171-af4a-0bd142d0f688_5da8bfdc-cb0f-478f-b56a-01f7585c0c5a.jpg?v=1767075777
-    Price: $49.99 USD
+    Price: $52.99 USD
   - [Camel](https://the-new-age-7647.myshopify.com/products/fashion-sports-quartz-wooden-watch?variant=51796404404505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ddd73772-77cd-421c-b92a-288c4957fc1e_8a3b4220-18e9-4e82-8914-3686324dbc28.jpg?v=1767075780
-    Price: $49.99 USD
+    Price: $52.99 USD
   - [Khaki](https://the-new-age-7647.myshopify.com/products/fashion-sports-quartz-wooden-watch?variant=51796404437273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/efca0393-84bc-4682-8066-a90c0888408b.jpg?v=1767075783
-    Price: $49.99 USD
+    Price: $52.99 USD
 - [Nylon LED Pet Collar - Bright, Adjustable, Night Safety Dog Leash](https://the-new-age-7647.myshopify.com/products/nylon-led-pet-dog-luminous-collar-night-safety-flashing-glow-in-dark-dog-cat-leash-adjustable-pet-supplies): Shop the innovative Nylon LED Pet Collar, perfect for night walks. Features adjustable fitting, bright LED modes, and waterproof design for pet safety.
-  Updated: 2026-01-01T18:04:24Z
+  Updated: 2026-01-06T06:47:44Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1206,7 +1206,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4154077744321.jpg?v=1767075832
     Price: $15.75 USD
 - [Dog Leash Retractable - Automatic Pet Traction Rope & Collar for Small Medium Dogs](https://the-new-age-7647.myshopify.com/products/dog-leash-retractable-leash-and-dog-collar-spotlight-automatic-pet-dog-cat-traction-rope-for-small-medium-dogs-pet-product): Shop the best Dog Leash Retractable with automatic telescopic design and lock button. Perfect for small to medium pets, offering comfort and control. Buy now!
-  Updated: 2026-01-01T18:04:22Z
+  Updated: 2026-01-06T06:39:21Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1260,14 +1260,14 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/be9bbc8c-9448-4817-b710-584a065cb32a.jpg?v=1767075893
     Price: $26.99 USD
 - [Gaming Mouse - High-Precision Wired Gaming Mouse with 5000 DPI](https://the-new-age-7647.myshopify.com/products/gaming-mouse): Discover our Gaming Mouse with 5000 DPI resolution, 9 buttons, adjustable resolution, and ergonomic support, perfect for desktop gaming. Buy now!
-  Updated: 2026-01-01T18:04:21Z
+  Updated: 2026-01-06T06:38:50Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/11627041745088.jpg?v=1767075895
   Price: $32.99 USD
 - [ErgonomicWired Gaming Keyboard with RGB Backlight and Phone Holder](https://the-new-age-7647.myshopify.com/products/ergonomicwired-gaming-keyboard-with-rgb-backlight-phone-holder): Discover the ErgonomicWired Gaming Keyboard with RGB backlight, phone holder, waterproof design, and plug-and-play compatibility for an enhanced gaming experience.
-  Updated: 2026-01-01T18:04:20Z
+  Updated: 2026-01-06T06:34:14Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -1281,7 +1281,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/55e4e149-9cbe-4479-a7a6-e7538b668314.jpg?v=1767075954
     Price: $67.99 USD
 - [Aerial drone - High-Performance Quadcopter with 4K Camera & Long Battery Life](https://the-new-age-7647.myshopify.com/products/aerial-drone): Buy the best Aerial drone with optical flow, HD shooting, long battery life, and APP control. Perfect for all ages and offers excellent flight performance.
-  Updated: 2026-01-01T18:04:17Z
+  Updated: 2026-01-06T06:31:34Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -1391,7 +1391,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8b713467-12a2-4bb1-bb50-706e0f7c0856.jpg?v=1767076048
     Price: $104.01 USD
 - [Mini folding drone - Compact High-Performance Quadcopter for Aerial Photography](https://the-new-age-7647.myshopify.com/products/mini-folding-drone): Discover the Mini folding drone, featuring foldable design, high-definition aerial photography, stable flight, and remote control within 165 characters.
-  Updated: 2026-01-01T18:04:15Z
+  Updated: 2026-01-06T06:17:53Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -1399,25 +1399,25 @@ The New Age
   - [4K](https://the-new-age-7647.myshopify.com/products/mini-folding-drone?variant=51796412104985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1678983684723.jpg?v=1767076068
-    Price: $44.99 USD
+    Price: $46.99 USD
   - [4K Suit](https://the-new-age-7647.myshopify.com/products/mini-folding-drone?variant=51796412137753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/696fb800-8c3e-4bcc-b574-17d23dbed1e9_trans.jpg?v=1767076070
-    Price: $52.99 USD
+    Price: $54.99 USD
   - [720P](https://the-new-age-7647.myshopify.com/products/mini-folding-drone?variant=51796412170521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1678983684723.jpg?v=1767076068
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [One V2 spare battery](https://the-new-age-7647.myshopify.com/products/mini-folding-drone?variant=51796412203289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6bfccb5e-78ea-4d13-8a53-5d803117163d_trans.jpg?v=1767076072
-    Price: $10.18 USD
+    Price: $12.99 USD
   - [Standard](https://the-new-age-7647.myshopify.com/products/mini-folding-drone?variant=51796412236057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1678983684723.jpg?v=1767076068
-    Price: $34.47 USD
+    Price: $36.99 USD
 - [Pet Water Bottle - Portable 3-in-1 Travel Feeder & Garbage Bag Station](https://the-new-age-7647.myshopify.com/products/pet-water-bottle-feeder-bowl-garbage-bag-storage-portable-pet-outdoor-travel-3-in-1-dog-water-bottle): Discover the Pet Water Bottle designed for easy pet hydration outdoors. Portable and multifunctional, ideal for travel and quick clean-ups.
-  Updated: 2026-01-01T18:04:13Z
+  Updated: 2026-01-06T06:16:53Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -1623,7 +1623,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1376002110809.jpg?v=1767076259
     Price: $26.77 USD
 - [Metal Car Charger 100W Super Fast Charging Car Adapter for Cigarette Lighter](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter): Discover the Metal Car Charger with 100W super fast charging, adjustable head, and retractable design for efficient mobile device charging on the go.
-  Updated: 2026-01-01T18:04:11Z
+  Updated: 2026-01-06T12:39:12Z
   Vendor: The New Age
   Product Type: Car
   Availability: Available
@@ -1631,27 +1631,27 @@ The New Age
   - [Apple plus Huawei / 100W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421116185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8914da6e-bc96-45b8-a3de-8553f2680cbd.jpg?v=1767076304
-    Price: $22.99 USD
+    Price: $23.99 USD
   - [Apple plus Huawei / 60W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421148953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8914da6e-bc96-45b8-a3de-8553f2680cbd.jpg?v=1767076304
-    Price: $24.99 USD
+    Price: $25.99 USD
   - [AppleandApple / 100W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421181721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1f27facb-6c39-49bf-8ac8-c86fecd26fe8.jpg?v=1767076306
-    Price: $25.99 USD
+    Price: $26.99 USD
   - [Apples with apples / 60W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421214489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/749c7ff5-ff48-4892-99cc-5eb42d141673.jpg?v=1767076309
-    Price: $25.99 USD
+    Price: $6.99 USD
   - [Black1 / 100W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421247257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/eda7b6c8-6d64-4b73-862f-42a114b193c7.jpg?v=1767076311
-    Price: $27.99 USD
+    Price: $28.99 USD
   - [Black2 / 100W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421280025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/977bd7bf-fba7-42ef-b2e3-9dc182b0698c.jpg?v=1767076314
-    Price: $31.99 USD
+    Price: $32.99 USD
   - [Huawei Plus Huawei / 60W](https://the-new-age-7647.myshopify.com/products/metal-car-charger-100w-super-fast-charging-car-cigarette-lighter-usb-and-type-c-adapter?variant=51796421312793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7d880e8e-45ce-4ca7-91f9-adfb0563bacd.jpg?v=1767076316
@@ -1685,7 +1685,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/98df8b3f-761b-443f-a4b2-7a32d4c5cd48.jpg?v=1767076333
     Price: $28.99 USD
 - [3D LED Moon Night Light - Floating Levitating Rotating Lamp for Home Decor](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration): Explore the 3D LED Moon Night Light, a levitating and rotating lamp perfect for home, office, or gift. Modern design with trichromatic light, available in gold and black.
-  Updated: 2026-01-01T18:04:09Z
+  Updated: 2026-01-06T06:07:30Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -1693,37 +1693,37 @@ The New Age
   - [Black / AU](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796421869849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/537747866842.jpg?v=1767076345
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [Black / EU](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796421902617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/537747866842.jpg?v=1767076345
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [Black / UK](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796421935385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/537747866842.jpg?v=1767076345
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [Black / US](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796421968153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/537747866842.jpg?v=1767076345
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [Gold / AU](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796422000921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d70f50cf-9c49-4ed8-8ec5-a0d20fce2405.jpg?v=1767076348
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [Gold / EU](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796422033689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d70f50cf-9c49-4ed8-8ec5-a0d20fce2405.jpg?v=1767076348
-    Price: $69.99 USD
+    Price: $91.99 USD
   - [Gold / UK](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796422066457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d70f50cf-9c49-4ed8-8ec5-a0d20fce2405.jpg?v=1767076348
-    Price: $69.99 USD
+    Price: $71.99 USD
   - [Gold / US](https://the-new-age-7647.myshopify.com/products/3d-led-moon-night-light-wireless-magnetic-levitating-rotating-floating-ball-lamp-for-school-office-bookshop-home-decoration?variant=51796422099225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d70f50cf-9c49-4ed8-8ec5-a0d20fce2405.jpg?v=1767076348
-    Price: $69.99 USD
+    Price: $71.99 USD
 - [Round LED World Map Floating Globe Magnetic Levitation Light](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic): Discover the Round LED World Map floating globe with magnetic levitation and LED light feature, offering a cool, modern decor for your space. Perfect for gifting or home.
-  Updated: 2026-01-01T18:04:07Z
+  Updated: 2026-01-06T06:06:38Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -1731,99 +1731,99 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422459673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16c42120-5238-4c9d-823d-89e352992156.jpg?v=1767076376
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Black English AU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422492441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4dbc9c30-0a09-44d9-aedb-202f8db9efbf.jpg?v=1767076378
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Black English EU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422525209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/195ed711-0647-4df2-8039-45fdfddf6e37.jpg?v=1767076381
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Black English UK](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422557977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1618742078647_541c7d76-5175-4e80-89c7-433cff58fbd9.jpg?v=1767076384
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Black English US](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422590745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b77a650f-7a7e-440a-989c-b0ed7ae9970b.jpg?v=1767076386
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Blue us](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422623513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c52d0264-5cd9-40d6-b06e-f13201c02b3d.jpg?v=1767076389
-    Price: $84.99 USD
+    Price: $86.99 USD
   - [Sky blue](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422656281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1747155718308_d3d9fb37-d908-45d0-903d-c74b3aa42cd4.jpg?v=1767076391
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Sky blue English AU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422689049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aa05ccf9-931e-4236-8841-551e927b2a60.jpg?v=1767076394
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Sky blue English EU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422721817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/961de835-4684-4e15-a627-1c84bf6683cf.jpg?v=1767076397
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Sky blue English UK](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422754585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fb9ef450-b187-4126-9e5e-f5f4a4f4a1d5.jpg?v=1767076400
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Sky blue English US](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422787353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/87bcb2f1-b400-4511-aed0-bb685aafffe6.jpg?v=1767076402
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422820121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/392407465220_98b2941d-c65d-4f06-80ed-42a1602f1de4.jpg?v=1767076405
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [White English AU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422852889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e253fe73-6a15-4566-854c-3d255d83387e_18acdb48-064f-4a4a-975b-ccc125c6ccad.jpg?v=1767076408
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [White English EU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422885657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/665ad739-4534-4855-bb7e-27f5a8f47762_a936b543-100c-4bb1-bd91-2530af4099c1.jpg?v=1767076411
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [White English UK](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422918425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6906e7b2-bb9a-4fb5-9216-88893c4b281f.jpg?v=1767076414
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [White English US](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422951193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/31afb3e0-8fb5-4d49-a844-8acba07ada57_d2c76dd3-1289-4a13-bde4-8ba72fea8373.jpg?v=1767076415
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Yellow English AU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796422983961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/71257760-7874-434a-8e11-19a74ddc9291.jpg?v=1767076418
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Yellow English EU](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796423016729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0d33d6ec-27c2-4225-8f51-24bede4a7c60.jpg?v=1767076421
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Yellow English UK](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796423049497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/64e41fff-3e7d-4957-b3b1-273f9c5b978b.jpg?v=1767076424
-    Price: $45.99 USD
+    Price: $47.99 USD
   - [Yellow English US](https://the-new-age-7647.myshopify.com/products/round-led-world-map-floating-globe-magnetic-levitation-light-anti-gravity-magic?variant=51796423082265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/40ac2596-d5ac-4258-b390-2760d912fede.jpg?v=1767076426
-    Price: $45.99 USD
-- [4 In 1 Magnetic Wireless Charger - Fast Charging & RGB Atmosphere Light](https://the-new-age-7647.myshopify.com/products/4-in-1-magnetic-wireless-charger-fast-charging-for-smart-phone-atmosphere-light-charging-station-for-airpods-pro-i-phone-watch): Discover the 4 In 1 Magnetic Wireless Charger with fast charging, RGB lighting effects, and multiple protections for safe, convenient device charging. Perfect for Airpods Pro, iPhone, Watch.
-  Updated: 2026-01-01T18:04:05Z
+    Price: $47.99 USD
+- [4 In 1 Magnetic Wireless Charger - Fast Charging & RGB Atmosphere Light](https://the-new-age-7647.myshopify.com/products/4-in-1-magnetic-wireless-charger-fast-charging-for-smart-phone-atmosphere-light-charging-station-for-airpods-pro-i-phone-watch): Discover the 4 In 1 Magnetic Wireless Charger for fast, secure charging of smartphones, smartwatches, and earbuds. Sleek, compact design perfect for home, office, or travel.
+  Updated: 2026-01-07T15:18:29Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/65622623-63e9-4ecb-8dd1-792208f766ec.jpg?v=1767076428
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/65622623-63e9-4ecb-8dd1-792208f766ec.jpg?v=1767799100
   - [Black](https://the-new-age-7647.myshopify.com/products/4-in-1-magnetic-wireless-charger-fast-charging-for-smart-phone-atmosphere-light-charging-station-for-airpods-pro-i-phone-watch?variant=51796423409945)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6da64e9b-f353-419a-9be1-13f716dfd91b.jpg?v=1767076447
-    Price: $29.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6da64e9b-f353-419a-9be1-13f716dfd91b.jpg?v=1767799101
+    Price: $31.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/4-in-1-magnetic-wireless-charger-fast-charging-for-smart-phone-atmosphere-light-charging-station-for-airpods-pro-i-phone-watch?variant=51796423442713)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8d075dfb-b75e-4563-81ee-7cc9eda85f3b.jpg?v=1767076449
-    Price: $29.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8d075dfb-b75e-4563-81ee-7cc9eda85f3b.jpg?v=1767799101
+    Price: $31.99 USD
 - [WiFi CAMERA 1080P Bulb with 4X Zoom, Home 5G WiFi Alarm Monitor](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor): Discover the WiFi CAMERA 1080P with night vision, motion alerts, and easy installation. Perfect for home security with 2.4GHz WiFi compatibility. Buy now!
-  Updated: 2026-01-01T18:04:02Z
+  Updated: 2026-01-06T05:54:39Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -1831,69 +1831,69 @@ The New Age
   - [2.4G single frequency / 2million pixels plus 64memor](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423672089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3a5a97fe-1d67-432f-bb63-821fc1fa75a5.jpg?v=1767076466
-    Price: $34.99 USD
+    Price: $35.99 USD
   - [2million pixels dual light / 128memory card](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423704857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/28f43cd6-f180-4810-9dc5-d38d9a06ca87.jpg?v=1767076468
-    Price: $45.99 USD
+    Price: $46.99 USD
   - [2million pixels dual light / 8G set](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423737625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bca3a25a-3016-46bc-9507-f9901616dd70.jpg?v=1767076470
-    Price: $39.99 USD
+    Price: $40.99 USD
   - [2million pixels dual light / English 1080P](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423770393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5ebef5a0-7ce6-4785-87ce-3894da9fe895_67c1e736-7e1a-408e-9120-3bdebe748526.jpg?v=1767076473
-    Price: $39.99 USD
+    Price: $40.99 USD
   - [2million pixels single light / English 1080P](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423803161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1a1d0b5e-d06f-4b06-9a49-75ca21ff4dc0.jpg?v=1767076475
-    Price: $39.99 USD
+    Price: $40.99 USD
   - [Memory card / 16G](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423835929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/60d1ce8b-caa8-4fd1-9458-1204e87ef150.jpg?v=1767076478
-    Price: $11.88 USD
+    Price: $12.99 USD
   - [Memory card / 64G](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423868697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/13b3feb1-c08b-4245-a908-0c89f0075ced.jpg?v=1767076480
-    Price: $18.82 USD
+    Price: $19.99 USD
   - [Memory card / 8G](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423901465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f427f31c-acf9-48cb-be67-c94a74b9f654.jpg?v=1767076482
-    Price: $10.35 USD
+    Price: $11.99 USD
   - [YIIOT 2million / 16G set](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423934233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2551e410-ae08-4677-aa10-cf05bfc369f4.jpg?v=1767076485
-    Price: $46.72 USD
+    Price: $47.99 USD
   - [YIIOT 2million / 8G set](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423967001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f1ae9766-d335-4f80-91b5-512c357c2d20.jpg?v=1767076488
-    Price: $46.13 USD
+    Price: $46.99 USD
   - [YIIOT 2million / Infrared night vision 5GWiFi](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796423999769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/91e4505d-a466-4601-8799-d9de91b6e091.jpg?v=1767076490
-    Price: $40.83 USD
+    Price: $44.99 USD
   - [YIIOT 2million2pcs / Infrared night vision 5GWiFi](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796424032537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f7b39109-6df3-4241-80be-e910c313529c.jpg?v=1767076492
-    Price: $79.62 USD
+    Price: $80.99 USD
   - [YIIOT 2million3pcs / Infrared night vision 5GWiFi](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796424065305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e773353b-5d41-4635-a7da-61909b440b16.jpg?v=1767076494
-    Price: $119.13 USD
+    Price: $120.99 USD
   - [YIIOT 2million4pcs / Infrared night vision 5GWiFi](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796424098073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/900e14bc-de2e-4211-bc4b-3ad33ab85de8.jpg?v=1767076497
-    Price: $156.85 USD
+    Price: $157.99 USD
   - [YIIOT 2million5pcs / Infrared night vision 5GWiFi](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796424130841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3176c66c-f248-49ce-9fe1-4d6204009d12.jpg?v=1767076499
-    Price: $195.53 USD
+    Price: $196.99 USD
   - [YIIOT 2million6pcs / Infrared night vision 5GWiFi](https://the-new-age-7647.myshopify.com/products/wifi-camera-1080p-bulb-4x-zoom-camera-e27-home-5gwifi-alarm-monitor?variant=51796424163609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d7542b36-81c0-4def-a864-000f468dfde7.jpg?v=1767076501
-    Price: $234.23 USD
+    Price: $236.99 USD
 - [Distance Measuring Instrument - High Precision Digital Ruler with LCD Screen](https://the-new-age-7647.myshopify.com/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool): Discover the benefits of our Distance Measuring Instrument, featuring high definition display, wide measurement range, and long battery life for precise measurements.
-  Updated: 2026-01-01T18:04:01Z
+  Updated: 2026-01-06T05:47:42Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -1901,21 +1901,21 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool?variant=51796424425753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/79ff5a4f-cf6d-44b2-a2a2-c83b59ce2986.jpg?v=1767076531
-    Price: $22.99 USD
+    Price: $23.99 USD
   - [Black 2PCS](https://the-new-age-7647.myshopify.com/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool?variant=51796424458521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/34ce8b35-b538-4c49-b419-cfe9ea5adc41.jpg?v=1767076533
-    Price: $44.99 USD
+    Price: $45.99 USD
   - [Black 3PCS](https://the-new-age-7647.myshopify.com/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool?variant=51796424491289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b0d84e15-c532-4647-b365-66028e04deed.jpg?v=1767076536
-    Price: $49.99 USD
+    Price: $50.99 USD
   - [Black 5PCS](https://the-new-age-7647.myshopify.com/products/distance-measuring-instrument-electronic-measuring-ruler-tape-measure-high-definition-digital-lcd-high-precision-electronic-measuring-ruler-tool?variant=51796424524057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/62f06a16-7a7b-468d-bb05-d153d189ab85.jpg?v=1767076538
-    Price: $75.99 USD
+    Price: $76.99 USD
 - [Portable Projector Small Straight Home Use with 180° Projection & Auto Focus](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector): Discover the Portable Projector with 180-degree projection, auto focus, WiFi, Bluetooth, 4K support, and a large 130-inch screen for home entertainment.
-  Updated: 2026-01-01T18:04:00Z
+  Updated: 2026-01-06T05:43:13Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -1923,49 +1923,49 @@ The New Age
   - [Black / Remote control](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426195225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/71cdbc1c-d55d-45e1-bdc7-1e499bc2e97e_6e3f57bc-01ce-4066-941a-e283201df559.jpg?v=1767076566
-    Price: $14.99 USD
+    Price: $15.99 USD
   - [HY300 Set / Australian Regulations](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426227993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8ba2fb73-320d-405c-b4ac-f988c61f4b2e.jpg?v=1767076569
-    Price: $99.99 USD
+    Price: $101.99 USD
   - [HY300 Set1 / Australian Regulations](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426260761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3a4e07b0-947a-43c7-bcb2-9d3bf78b0320.jpg?v=1767076570
-    Price: $101.99 USD
+    Price: $103.99 USD
   - [HY300 / American Standard](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426293529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1767076574
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [HY300 / Australian Regulations](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426326297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1767076574
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [HY300 / British Standard](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426359065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1767076574
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [HY300 / European Standard](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426391833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1767076574
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [Silvery / American Standard](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426424601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_ed7a7097-748f-431b-bf2c-1a1583665c1b.jpg?v=1767076576
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [Silvery / Australian Regulations](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426457369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_ed7a7097-748f-431b-bf2c-1a1583665c1b.jpg?v=1767076576
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [Silvery / British Standard](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426490137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_ed7a7097-748f-431b-bf2c-1a1583665c1b.jpg?v=1767076576
-    Price: $89.99 USD
+    Price: $91.99 USD
   - [Silvery / European Standard](https://the-new-age-7647.myshopify.com/products/portable-projector-small-straight-projector-for-home-use-180-degrees-projection-angle-automatic-focus-home-video-projector?variant=51796426522905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_ed7a7097-748f-431b-bf2c-1a1583665c1b.jpg?v=1767076576
-    Price: $89.99 USD
+    Price: $91.99 USD
 - [Fitness Rally Elastic Rope - Durable Resistance Bands for Effective Workouts](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band): Discover the Fitness Rally Elastic Rope, made of eco-friendly latex. Perfect for toning legs, arms, and more. Fitness Rally Elastic Rope for all your fitness needs.
-  Updated: 2026-01-01T18:03:59Z
+  Updated: 2026-01-06T05:37:02Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -1973,41 +1973,41 @@ The New Age
   - [1 set](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426588441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/136896445563.jpg?v=1767076592
-    Price: $79.99 USD
+    Price: $81.99 USD
   - [100 pounds](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426621209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612583265005.jpg?v=1767076594
-    Price: $38.33 USD
+    Price: $40.99 USD
   - [11pcs](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426653977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1535594140673.jpg?v=1767076596
-    Price: $38.27 USD
+    Price: $40.99 USD
   - [11pcs max](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426686745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1714425657527.jpg?v=1767076600
-    Price: $29.96 USD
+    Price: $33.99 USD
   - [150 pounds color words](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426719513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/150961120741.jpg?v=1767076603
-    Price: $39.73 USD
+    Price: $42.99 USD
   - [2 sets 11pcs](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426752281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/15013838755243.jpg?v=1767076606
-    Price: $50.49 USD
+    Price: $53.99 USD
   - [4set 11pcs](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426785049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1535594140673.jpg?v=1767076596
-    Price: $102.67 USD
+    Price: $105.99 USD
   - [50LBS](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426817817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619575745272.jpg?v=1767076607
-    Price: $27.49 USD
+    Price: $30.99 USD
   - [Set2](https://the-new-age-7647.myshopify.com/products/fitness-rally-elastic-rope-resistance-band?variant=51796426850585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/436092a9-ccf5-4707-837d-7a730d3129dc.jpg?v=1767076609
-    Price: $45.74 USD
+    Price: $48.99 USD
 - [Fitness Headband - Comfortable Cotton Sweatband for Workout and Running](https://the-new-age-7647.myshopify.com/products/fitness-headband): Shop the Fitness Headband made of soft cotton, perfect for workouts, running, or casual wear. One size fits all, combining comfort and style for your active days.
-  Updated: 2026-01-01T18:03:58Z
+  Updated: 2026-01-06T05:30:36Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2015,67 +2015,67 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796426981657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2141134356752.jpg?v=1767076634
-    Price: $13.15 USD
+    Price: $13.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796427014425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1079a23b-6317-4ac7-8b34-9cc81952cbbb.jpg?v=1767076636
-    Price: $7.79 USD
+    Price: $13.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796427047193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2952179284935.jpg?v=1767076639
-    Price: $7.79 USD
+    Price: $13.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/fitness-headband?variant=51796427079961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/179201117030.jpg?v=1767076641
-    Price: $7.79 USD
-- [Medical Clavicle Posture Corrector - Lower Back Support Strap for Better Posture](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap): Discover the Medical Clavicle Posture Corrector, designed to improve posture, support your lower back, and provide comfort with breathable materials and durable design.
-  Updated: 2026-01-01T18:03:57Z
+    Price: $13.99 USD
+- [ Clavicle Posture Corrector - Lower Back Support Strap for Better Posture](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap): Discover the  Clavicle Posture Corrector, designed to improve posture, support your lower back, and provide comfort with breathable materials and durable design.
+  Updated: 2026-01-06T05:20:01Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1020949259874.jpg?v=1767076643
-  - [Black set / L](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427178265)
+  - [Black set / L](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427178265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1767076664
-    Price: $13.99 USD
-  - [Black set / M](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427211033)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1767076664
-    Price: $11.99 USD
-  - [Black set / S](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427243801)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1767076664
-    Price: $10.99 USD
-  - [Black set / XL](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427276569)
+    Price: $16.99 USD
+  - [Black set / M](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427211033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1767076664
     Price: $14.99 USD
-  - [Black / M](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427309337)
+  - [Black set / S](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427243801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1767076666
-    Price: $11.99 USD
-  - [Black / S](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427342105)
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1767076664
+    Price: $12.99 USD
+  - [Black set / XL](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427276569)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1767076666
-    Price: $10.99 USD
-  - [Black / XL](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427374873)
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6898361d-c143-4a48-acc4-ce00207cbc3e.jpg?v=1767076664
+    Price: $17.99 USD
+  - [Black / M](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427309337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1767076666
     Price: $14.99 USD
-  - [Blue / M](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427407641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1297078471318.jpg?v=1767076669
-    Price: $11.99 USD
-  - [Blue / S](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427440409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1297078471318.jpg?v=1767076669
-    Price: $10.99 USD
-  - [Black / L](https://the-new-age-7647.myshopify.com/products/medical-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427473177)
+  - [Black / S](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427342105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1767076666
-    Price: $13.99 USD
+    Price: $12.99 USD
+  - [Black / XL](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427374873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1767076666
+    Price: $17.99 USD
+  - [Blue / M](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427407641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1297078471318.jpg?v=1767076669
+    Price: $14.99 USD
+  - [Blue / S](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427440409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1297078471318.jpg?v=1767076669
+    Price: $12.99 USD
+  - [Black / L](https://the-new-age-7647.myshopify.com/products/-clavicle-posture-corrector-lower-back-correction-strap?variant=51796427473177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8992572691707.jpg?v=1767076666
+    Price: $16.99 USD
 - [Men's Grip - Adjustable Hand Grip for Fitness & Strength Training](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger): Men's Grip is a versatile adjustable hand grip ideal for strengthening hands, wrists, and forearms. Perfect for all fitness levels, portable and easy to use.
-  Updated: 2026-01-01T18:03:55Z
+  Updated: 2026-01-06T05:15:08Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2083,53 +2083,53 @@ The New Age
   - [40kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427538713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/af3223b6-a0c9-4c0b-9578-949d0e364301_fine.jpg?v=1767076688
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427571481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1792072359315.jpg?v=1767076690
-    Price: $13.99 USD
+    Price: $15.99 USD
   - [Black 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427604249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1871328023304.jpg?v=1767076693
-    Price: $13.99 USD
+    Price: $14.99 USD
   - [Black Grey](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427637017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4888b421-dd01-4c5b-a459-e830a6bb0278.jpg?v=1767076695
-    Price: $11.99 USD
+    Price: $14.99 USD
   - [Black60kg2pcs](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427669785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0202c2e1-c5e1-43f5-a46d-46face87444a.jpg?v=1767076698
-    Price: $19.99 USD
+    Price: $21.99 USD
   - [Blue 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427702553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2523455698794.jpg?v=1767076700
-    Price: $12.99 USD
+    Price: $15.99 USD
   - [Blue1 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427735321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1857611761981.jpg?v=1767076702
-    Price: $10.99 USD
+    Price: $15.99 USD
   - [Gray 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427768089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6045226576863.jpg?v=1767076704
-    Price: $10.99 USD
+    Price: $15.99 USD
   - [Green 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427800857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/608751625492.jpg?v=1767076707
-    Price: $10.99 USD
+    Price: $14.99 USD
   - [Orange 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427833625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5173140382598.jpg?v=1767076710
-    Price: $10.99 USD
+    Price: $14.99 USD
   - [Orange1 60KG](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427866393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/63748213931.jpg?v=1767076712
-    Price: $10.99 USD
+    Price: $14.99 USD
   - [Red 60kg](https://the-new-age-7647.myshopify.com/products/mens-grip-professional-fitness-equipment-home-exercise-finger?variant=51796427899161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1928654625353.jpg?v=1767076715
-    Price: $10.99 USD
+    Price: $14.99 USD
 - [Water Dumbbell - Multi-Weight Fitness Water Bottle Dumbbell for Home Workout](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise): Discover the versatile Water Dumbbell, a water bottle fitness equipment that functions as a weight training tool, adjustable up to 1kg for effective home exercise.
-  Updated: 2026-01-01T18:03:54Z
+  Updated: 2026-01-06T05:11:34Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2137,91 +2137,13 @@ The New Age
   - [A](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise?variant=51796428259609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1618048650788.jpg?v=1767076729
-    Price: $11.99 USD
+    Price: $12.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/body-building-water-dumbbell-weight-dumbbells-slimming-fitness-gym-equipment-yoga-for-training-sport-plastic-bottle-exercise?variant=51796428292377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1618475813759.webp?v=1767076732
-    Price: $11.99 USD
-- [Men Sneakers Breathable Mesh Sports Shoes - Stylish Youth Footwear](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes): Discover Men Sneakers designed for youth, featuring breathable mesh, lightweight comfort, and available in multiple colors. Perfect for sports and casual wear.
-  Updated: 2026-01-01T18:03:52Z
-  Vendor: The New Age
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370.jpg?v=1767076734
-  - [Black / Size39](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428587289)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1767076754
-    Price: $22.99 USD
-  - [Black / Size40](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428620057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1767076754
-    Price: $23.50 USD
-  - [Black / Size41](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428652825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1767076754
-    Price: $23.99 USD
-  - [Black / Size42](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428685593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1767076754
-    Price: $24.50 USD
-  - [Black / Size43](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428718361)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1767076754
-    Price: $24.99 USD
-  - [Black / Size44](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428751129)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574c0753-83fb-4341-826b-cf7e36e63d49.jpg?v=1767076754
-    Price: $25.50 USD
-  - [Khaki / Size39](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428783897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1767076756
-    Price: $22.99 USD
-  - [Khaki / Size40](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428816665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1767076756
-    Price: $23.50 USD
-  - [Khaki / Size41](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428849433)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1767076756
-    Price: $23.99 USD
-  - [Khaki / Size42](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428882201)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1767076756
-    Price: $24.50 USD
-  - [Khaki / Size43](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428914969)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1767076756
-    Price: $24.99 USD
-  - [Khaki / Size44](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428947737)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aba9cbe3-5266-434a-a198-8d2fdd87c154.jpg?v=1767076756
-    Price: $25.50 USD
-  - [White / Size39](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796428980505)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1767076759
-    Price: $22.99 USD
-  - [White / Size40](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429013273)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1767076759
-    Price: $23.50 USD
-  - [White / Size41](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429046041)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1767076759
-    Price: $23.99 USD
-  - [White / Size42](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429078809)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1767076759
-    Price: $24.50 USD
-  - [White / Size43](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429111577)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1767076759
-    Price: $24.99 USD
-  - [White / Size44](https://the-new-age-7647.myshopify.com/products/men-sneakers-breathable-mesh-sports-shoes?variant=51796429144345)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370_2ffe1c3e-f8c7-4257-b2fa-e0f0bc8a98c4.jpg?v=1767076759
-    Price: $25.50 USD
+    Price: $12.99 USD
 - [Portable Fitness Rally - Versatile Resistance Bands for Home & Gym](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally): Discover the Portable Fitness Rally with resistance bands for effective body sculpting, muscle strengthening, and fitness at home or on the go. Perfect for all levels!
-  Updated: 2026-01-01T18:03:49Z
+  Updated: 2026-01-06T05:06:31Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2229,29 +2151,29 @@ The New Age
   - [100LB W](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429209881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/26779605255004.jpg?v=1767076786
-    Price: $23.99 USD
+    Price: $25.99 USD
   - [11pcs](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429242649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1661274894748_ead0f228-0412-4e30-bac9-2347ed12ec97.jpg?v=1767076789
-    Price: $20.99 USD
+    Price: $23.99 USD
   - [150LB](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429275417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2154631800410.jpg?v=1767076791
-    Price: $24.50 USD
+    Price: $26.99 USD
   - [Q11pcs](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429308185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/684576620055.jpg?v=1767076794
-    Price: $23.50 USD
+    Price: $25.99 USD
   - [Q11pcs 2](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429340953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/146074722714.jpg?v=1767076796
-    Price: $21.99 USD
+    Price: $24.99 USD
   - [Q11pcs TPE](https://the-new-age-7647.myshopify.com/products/portable-fitness-rally?variant=51796429373721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3424610165383.jpg?v=1767076799
-    Price: $34.99 USD
+    Price: $37.99 USD
 - [Muscle Trainer Wheel - Abdominal Roller Kit for Fitness at Home](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment): Discover the Muscle Trainer Wheel for effective abdominal workouts. Perfect for office or home use, enhance your fitness routine with this steel and PU roller kit.
-  Updated: 2026-01-01T18:03:48Z
+  Updated: 2026-01-06T05:01:37Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2259,25 +2181,25 @@ The New Age
   - [1 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429472025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4071913697765_8bf44f24-2d7a-4392-a2a2-6e2af3950651.jpg?v=1767076805
-    Price: $51.99 USD
+    Price: $53.99 USD
   - [2 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429504793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/691990656709.jpg?v=1767076807
-    Price: $51.50 USD
+    Price: $52.99 USD
   - [3 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429537561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3316393127491.jpg?v=1767076812
-    Price: $47.99 USD
+    Price: $49.99 USD
   - [4 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429570329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/692862095918.jpg?v=1767076814
-    Price: $44.99 USD
+    Price: $46.99 USD
   - [5 style](https://the-new-age-7647.myshopify.com/products/gym-fitness-equipment?variant=51796429603097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/174816537236.jpg?v=1767076817
-    Price: $20.99 USD
+    Price: $22.99 USD
 - [Lumbar Tractor Waist Traction Therapy for Back Pain Relief | Adjustable & Effective](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief): Discover Lumbar Tractor Waist Traction Therapy for effective back pain relief. Adjustable, lightweight design with magnetic points for targeted therapy.
-  Updated: 2026-01-01T18:03:46Z
+  Updated: 2026-01-07T12:34:13Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2285,177 +2207,177 @@ The New Age
   - [1Blue / Rotation regulation](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429898009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1851078545496.jpg?v=1767076834
-    Price: $21.99 USD
+    Price: $25.99 USD
   - [Black RED / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429930777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1016011637396.jpg?v=1767076836
-    Price: $21.99 USD
+    Price: $25.99 USD
   - [Black blue / 2PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429963545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/987fc28c-6367-48a7-bf20-d0d8d123d8f0.jpg?v=1767076838
-    Price: $36.99 USD
+    Price: $40.99 USD
   - [Black blue / 3PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796429996313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0676dbed-1ba7-4a55-bfde-230eba681fbd.jpg?v=1767076841
-    Price: $52.99 USD
+    Price: $56.99 USD
   - [Black blue / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430029081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/42f57168-c72d-41f8-8e45-88acaea0ef93.jpg?v=1767076843
-    Price: $24.99 USD
+    Price: $28.99 USD
   - [Black blue / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430061849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1067357485525.jpg?v=1767076845
-    Price: $21.99 USD
+    Price: $25.99 USD
   - [Black blue / Opp](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430094617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/360358c3-736d-4a81-96c7-64a2c3a5f0bc.jpg?v=1767076847
-    Price: $19.99 USD
+    Price: $23.99 USD
   - [Black green Magnet / One](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430127385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/689045497532.jpg?v=1767076850
-    Price: $24.42 USD
+    Price: $28.99 USD
   - [Black green / 2PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430160153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/698796396608.jpg?v=1767076851
-    Price: $61.74 USD
+    Price: $65.99 USD
   - [Black green / 3PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430192921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1817335686615.jpg?v=1767076854
-    Price: $91.40 USD
+    Price: $95.99 USD
   - [Black green / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430225689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/204a3b0f-1ee9-4514-920f-791b0eeb844b.jpg?v=1767076857
-    Price: $33.87 USD
+    Price: $37.99 USD
   - [Black green / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430258457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a03bcb80-7604-41e6-ad77-2dcacf619e26.jpg?v=1767076860
-    Price: $30.44 USD
+    Price: $34.99 USD
   - [Black purple Magnet / One](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430291225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16227698162480.jpg?v=1767076862
-    Price: $22.02 USD
+    Price: $26.99 USD
   - [Black purple / 2PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430323993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6499864863750.jpg?v=1767076865
-    Price: $61.74 USD
+    Price: $65.99 USD
   - [Black purple / 3PCEnglish](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430356761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2328539144617.jpg?v=1767076867
-    Price: $91.40 USD
+    Price: $95.99 USD
   - [Black purple / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430389529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3604c35f-f747-4c40-9da1-e45e022f3fb1.jpg?v=1767076870
-    Price: $44.26 USD
+    Price: $48.99 USD
   - [Black purple / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430422297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/25c6a293-3b5b-4be7-aefa-dbc48ea1162e.jpg?v=1767076873
-    Price: $27.31 USD
+    Price: $31.99 USD
   - [Black / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430455065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1540120805869.jpg?v=1767076874
-    Price: $28.39 USD
+    Price: $31.99 USD
   - [Black / Stretch adjustment](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430487833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/838153579284.jpg?v=1767076877
-    Price: $47.20 USD
+    Price: $50.99 USD
   - [Blue with magnet / 1pcs](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430520601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1428384627507.jpg?v=1767076880
-    Price: $49.06 USD
+    Price: $53.99 USD
   - [Blue with magnet / 2pcs](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430553369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/157733468357.jpg?v=1767076883
-    Price: $44.62 USD
+    Price: $55.99 USD
   - [Blue with magnet / 3pcs](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430586137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/770000222726.jpg?v=1767076885
-    Price: $65.71 USD
+    Price: $68.99 USD
   - [Blue with magnet / 4PCS](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430618905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/80ae46f3-236f-4a8e-84e1-daeb3456c922.jpg?v=1767076887
-    Price: $75.70 USD
+    Price: $80.99 USD
   - [Blue with magnet / Set](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430651673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9058b54e-891a-4100-84a3-d58633979f99.jpg?v=1767076890
-    Price: $69.14 USD
+    Price: $74.99 USD
   - [Blue / Opp](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430684441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/54326e0b-2f32-4e3c-b260-d4397588c66e.jpg?v=1767076893
-    Price: $27.29 USD
+    Price: $29.99 USD
   - [Blue / Opp 2pcs](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430717209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9aa75ef-a303-424e-9410-2637d95aa6a5.jpg?v=1767076895
-    Price: $44.72 USD
+    Price: $48.99 USD
   - [Blue / Opp 3pcs](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430749977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/afd9f3a5-e986-42da-ab18-673a2ad04b08.jpg?v=1767076897
-    Price: $65.88 USD
+    Price: $69.99 USD
   - [Blue / Rotation regulation](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430782745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/50875979899.jpg?v=1767076900
-    Price: $30.92 USD
+    Price: $35.99 USD
   - [Blue / Stretch adjustment](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430815513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/50875979899.jpg?v=1767076900
-    Price: $35.20 USD
+    Price: $39.99 USD
   - [Green / Opp](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430848281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1795946947831.jpg?v=1767076902
-    Price: $27.02 USD
+    Price: $31.99 USD
   - [Green / Rotation regulation](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430881049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/13617786895373.jpg?v=1767076904
-    Price: $30.92 USD
+    Price: $35.99 USD
   - [Pink / Stretch adjustment](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430913817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2245320745441.jpg?v=1767076907
-    Price: $35.20 USD
+    Price: $39.99 USD
   - [Purple / Opp](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430946585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/508306847485.jpg?v=1767076910
-    Price: $27.02 USD
+    Price: $31.99 USD
   - [Purple / Rota regulation](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796430979353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1389795498239.jpg?v=1767076913
-    Price: $30.15 USD
+    Price: $35.99 USD
   - [Set 1 / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431012121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2214805244262.jpg?v=1767076915
-    Price: $37.49 USD
+    Price: $41.99 USD
   - [Set2 / OPP](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431044889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a3c706ee-deb1-4144-8f35-4b156607e618.jpg?v=1767076917
-    Price: $78.80 USD
+    Price: $82.99 USD
   - [Set3 / Set](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431077657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8326cfe3-4205-4891-9742-612ed83912b6.jpg?v=1767076920
-    Price: $90.45 USD
+    Price: $94.99 USD
   - [White blue / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431110425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2311410375577.jpg?v=1767076923
-    Price: $33.38 USD
+    Price: $37.99 USD
   - [White blue / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431143193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2311410375577.jpg?v=1767076923
-    Price: $32.74 USD
+    Price: $35.99 USD
   - [White green / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431175961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5857484141608.jpg?v=1767076925
-    Price: $33.38 USD
+    Price: $37.99 USD
   - [White green / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431208729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5857484141608.jpg?v=1767076925
-    Price: $32.74 USD
+    Price: $35.99 USD
   - [White purple / English pack](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431241497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1500402074971.jpg?v=1767076927
-    Price: $33.38 USD
+    Price: $37.99 USD
   - [White purple / One size](https://the-new-age-7647.myshopify.com/products/lumbar-tractor-waist-traction-therapy-lumbar-orthosis-lumbar-intervertebral-disc-waist-prominent-back-pain-relief?variant=51796431274265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1500402074971.jpg?v=1767076927
-    Price: $32.74 USD
+    Price: $35.99 USD
 - [Double Wheel Abdominal Exerciser - Effective Fitness Equipment for Abs](https://the-new-age-7647.myshopify.com/products/double-wheel-abdominal-exerciser-women-men-automatic-rebound-ab-wheel-roller-waist-trainer-gym-sports-home-exercise-devices): Discover the Double Wheel Abdominal Exerciser for optimal core training. Easy to use, suitable for men and women, perfect for gym and home workouts.
-  Updated: 2026-01-01T18:03:44Z
+  Updated: 2026-01-07T06:13:04Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2477,21 +2399,21 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bb04f7be-0c9e-43d1-bb04-6adc8c0301fc.jpg?v=1767076963
     Price: $92.14 USD
 - [Grip Power Wrist - Adjustable Hand Grip for Forearm and Wrist Strength](https://the-new-age-7647.myshopify.com/products/grip-power-wrist-forearm-hand-grip-arm-trainer-adjustable-forearm-hand-wrist-exercises-force-trainer-power-strengthener-grip-fitness): Enhance your Grip Power Wrist with this adjustable hand grip exerciser. Perfect for forearm, wrist strength, and fitness training, lightweight and easy to use.
-  Updated: 2026-01-01T18:03:43Z
+  Updated: 2026-01-07T06:10:55Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d7cefc96-ac0b-4b98-b2a4-e09996f59aea.jpg?v=1767076965
-  Price: $17.99 USD
-- [Electric Bike For Adults - 1000W Fat Tire Mountain Bicycle, 26x4.0](https://the-new-age-7647.myshopify.com/products/professional-electric-bike-for-adults-26-x-4-0-inches-fat-tire-electric-mountain-bicycle-1000w-motor-48v-15ah-ebike-for-trail-riding-excursion-and-commute-ul-and-gcc-certified): Shop the Electric Bike For Adults featuring a powerful 1000W motor, fat tires, large capacity lithium battery, and multiple riding modes. Perfect for trail riding, commuting, and off-road adventures.
-  Updated: 2026-01-01T18:03:42Z
+  Price: $25.99 USD
+- [Electric Bike For Adults - 1000W Fat Tire Mountain Bicycle, 26x4.0](https://the-new-age-7647.myshopify.com/products/professional-electric-bike-for-adults-26-x-4-0-inches-fat-tire-electric-mountain-bicycle-1000w-motor-48v-15ah-ebike-for-trail-riding-excursion-and-commute-ul-and-gcc-): Shop the Electric Bike For Adults featuring a powerful 1000W motor, fat tires, large capacity lithium battery, and multiple riding modes. Perfect for trail riding, commuting, and off-road adventures.
+  Updated: 2026-01-08T05:10:46Z
   Vendor: The New Age
   Product Type: Outdoors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6c3cf535-45c5-46dc-b6d4-5ea322a4021d.jpg?v=1767076992
-  Price: $949.99 USD
+  Price: $999.99 USD
 - [Resistance Bands Sealing - Fitness Elastic Bands for Bodybuilding & Yoga](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga): Shop Resistance Bands Sealing, perfect for fitness, yoga, pilates, and body shaping. Durable, non-slip, and comes with colorful tension belts for effective workouts.
-  Updated: 2026-01-01T18:03:40Z
+  Updated: 2026-01-07T10:47:58Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2499,25 +2421,25 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433535257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/83decfeb-1c8e-44d8-8bd0-a5d20e052984.jpg?v=1767077039
-    Price: $6.99 USD
+    Price: $14.99 USD
   - [Gray](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433568025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a7b2ec93-8350-40e9-acd6-abe1b148c395.jpg?v=1767077041
-    Price: $6.99 USD
+    Price: $14.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433600793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1aa9fb83-a494-4765-8a35-f81919e703ef.jpg?v=1767077043
-    Price: $6.99 USD
+    Price: $14.99 USD
   - [Purple](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433633561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4e5851b1-5979-48c8-9e66-289ae1399d5e.jpg?v=1767077046
-    Price: $6.99 USD
+    Price: $14.99 USD
   - [Set](https://the-new-age-7647.myshopify.com/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga?variant=51796433666329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1dfc3a13-499c-45da-87fe-e1123749943d.jpg?v=1767077048
-    Price: $12.99 USD
+    Price: $24.99 USD
 - [Spine Bending Posture Corrector | Improve Your Back Posture](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector): Discover the Spine Bending Posture Corrector to improve posture, reduce back pain, and support spinal health. Ideal for scoliosis and slouching issues.
-  Updated: 2026-01-01T18:03:39Z
+  Updated: 2026-01-08T05:48:17Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2525,33 +2447,33 @@ The New Age
   - [Black / 3XL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434026777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $17.99 USD
+    Price: $28.99 USD
   - [Black / 4XL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434059545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $17.99 USD
+    Price: $29.99 USD
   - [Black / L](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434092313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $17.50 USD
+    Price: $25.99 USD
   - [Black / M](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434125081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $16.99 USD
+    Price: $24.99 USD
   - [Black / S](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434157849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $16.50 USD
+    Price: $23.99 USD
   - [Black / XL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434190617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $17.99 USD
+    Price: $26.99 USD
   - [Black / XXL](https://the-new-age-7647.myshopify.com/products/spine-bending-posture-corrector?variant=51796434223385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2265966782259.jpg?v=1767077070
-    Price: $17.99 USD
+    Price: $27.99 USD
 - [EMS Abs & Muscle Trainer - Portable Muscle Toning Device with 6 Modes](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer): Discover the EMS Abs & Muscle Trainer for effective muscle training anytime, anywhere. Easy to use, portable, with 6 modes for targeted workout. Buy now!
-  Updated: 2026-01-01T18:03:37Z
+  Updated: 2026-01-07T05:39:09Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -2559,133 +2481,133 @@ The New Age
   - [10pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434518297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2065428634702.jpg?v=1767077097
-    Price: $11.99 USD
+    Price: $15.99 USD
   - [1pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434551065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2065428634702.jpg?v=1767077097
-    Price: $6.99 USD
+    Price: $7.99 USD
   - [20pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434583833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1780652016718.jpg?v=1767077101
-    Price: $19.99 USD
+    Price: $24.99 USD
   - [30pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434616601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/11335818177801.jpg?v=1767077103
-    Price: $24.99 USD
+    Price: $30.99 USD
   - [5pcs Alternative gel](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434649369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2065428634702.jpg?v=1767077097
-    Price: $7.99 USD
+    Price: $10.99 USD
   - [A](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434682137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1660949070256.jpg?v=1767077105
-    Price: $17.49 USD
+    Price: $21.99 USD
   - [A Set1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434714905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620273531918_191f4da6-a488-4497-a97d-e55d985b0bbf.jpg?v=1767077108
-    Price: $22.99 USD
+    Price: $26.99 USD
   - [A Set2](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434747673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620273531928_d59c3a5c-9f3a-4893-a870-78a7f16fdb16.jpg?v=1767077110
-    Price: $27.99 USD
+    Price: $31.99 USD
   - [Arms](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434780441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5227274958290.jpg?v=1767077113
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [B](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434813209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1213507145480.jpg?v=1767077115
-    Price: $23.99 USD
+    Price: $27.99 USD
   - [D](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434845977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1975189103833.jpg?v=1767077118
-    Price: $24.99 USD
+    Price: $28.99 USD
   - [Full](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434878745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1139802708385.jpg?v=1767077122
-    Price: $29.99 USD
+    Price: $34.99 USD
   - [Full and Arms](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434911513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619263495195_6bb4bae9-0344-4798-85a5-9501e537cfc8.jpg?v=1767077124
-    Price: $31.99 USD
+    Price: $37.99 USD
   - [Full and Pull out packaging](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434944281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1623931971107.jpg?v=1767077126
-    Price: $23.99 USD
+    Price: $29.99 USD
   - [Haunch](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796434977049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7653814402106.jpg?v=1767077129
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435009817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3701172986856.jpg?v=1767077131
-    Price: $18.99 USD
+    Price: $22.99 USD
   - [Pink1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435042585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1621231149646_2767631d-f349-4ee7-a057-ba2ed30e1a97.jpg?v=1767077134
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435075353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1616659482454_c0c975f9-540c-489c-a94a-eb33367b36c7.jpg?v=1767077137
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [Red battery](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435108121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/df4766cd-14af-481d-985b-caa885166569.jpg?v=1767077139
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [Red battery set](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435140889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9a6d7ba9-aeba-4321-a71d-2ee438651b87.jpg?v=1767077142
-    Price: $34.99 USD
+    Price: $42.99 USD
   - [Set](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435173657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12d15eaf-f1b6-485c-9185-15e9910f11fb.jpg?v=1767077144
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [Set1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435206425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/583f4717-1e04-48ab-a053-401201baef96.jpg?v=1767077147
-    Price: $46.99 USD
+    Price: $51.99 USD
   - [Set2](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435239193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7041003b-8b8d-44bc-b7fc-1a892c60691a.jpg?v=1767077150
-    Price: $24.99 USD
+    Price: $28.99 USD
   - [Sixbelly charging modelfull](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435271961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/232ff115-d0c7-43b3-8212-08371f8fe052.jpg?v=1767077152
-    Price: $15.00 USD
+    Price: $19.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435304729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8746622957470.jpg?v=1767077155
-    Price: $12.99 USD
+    Price: $19.99 USD
   - [Yellow 3pc](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435337497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2479782420885.jpg?v=1767077157
-    Price: $14.99 USD
+    Price: $21.99 USD
   - [Yellow 3pcs](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435370265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/42b4b7f7-5d7e-420d-8c71-9fa246604ad5_fine.jpg?v=1767077159
-    Price: $25.99 USD
+    Price: $29.99 USD
   - [Yellow abs](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435403033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1623003875357.jpg?v=1767077162
-    Price: $11.99 USD
+    Price: $15.99 USD
   - [Yellow arms](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435435801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/553073366049.jpg?v=1767077164
-    Price: $11.00 USD
+    Price: $14.99 USD
   - [Yellow1](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435468569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1621231149647_76094fbc-693d-44cc-8308-ba8aabd70b22.jpg?v=1767077166
-    Price: $11.35 USD
+    Price: $14.99 USD
   - [YellowA](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435501337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/88aa78c5-0279-4f3b-80a0-00c0a7e76a83.jpg?v=1767077169
-    Price: $26.00 USD
+    Price: $30.99 USD
   - [abs](https://the-new-age-7647.myshopify.com/products/the-ultimate-ems-abs-muscle-trainer?variant=51796435534105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1140081655068.jpg?v=1767077171
-    Price: $10.99 USD
+    Price: $15.99 USD
 - [USB Rechargeable Electric Knife Sharpener - Fast & Adjustable Kitchen Tool](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets): Shop the USB Rechargeable Electric Knife Sharpener for quick, adjustable sharpening of knives, scissors, and grinders. Perfect for modern kitchens. Buy now!
-  Updated: 2026-01-01T18:03:36Z
+  Updated: 2026-01-07T05:30:58Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -2693,17 +2615,17 @@ The New Age
   - [Black / usb](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets?variant=51796435927321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/573153cd-8484-47b0-b180-70fc12ad9a2b.jpg?v=1767077190
-    Price: $19.99 USD
+    Price: $32.99 USD
   - [Orange / usb](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets?variant=51796435960089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2cc94cb0-c671-4aad-945d-263140b20cf7.jpg?v=1767077192
-    Price: $19.99 USD
+    Price: $32.99 USD
   - [Yellow / usb](https://the-new-age-7647.myshopify.com/products/usb-rechargeable-electric-knife-sharpener-automatic-adjustable-kitchen-tool-for-fast-sharpening-knives-scissors-and-grinders-gadgets?variant=51796435992857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5356907-dc5b-408b-a93c-118920982408.jpg?v=1767077194
-    Price: $19.99 USD
+    Price: $32.99 USD
 - [Winter Gloves Touch Screen - Waterproof Motorcycle Sports Gloves with Fleece](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Discover the best Winter Gloves Touch Screen featuring waterproof, touchscreen-compatible design. Perfect for riding, sports, and outdoor activities in cold weather.
-  Updated: 2026-01-01T18:03:34Z
+  Updated: 2026-01-07T05:23:16Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -2711,205 +2633,205 @@ The New Age
   - [A Blue / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436320537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1767077222
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [A Blue / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436353305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1767077222
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [A Blue / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436386073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1767077222
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [A Blue / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436418841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7723e008-3950-4164-9784-e770a9f28645.jpg?v=1767077222
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [A Purple / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436451609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9331c789-cf20-4942-8dc6-a6ef5f6261a1.jpg?v=1767077225
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [A Purple / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436484377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9331c789-cf20-4942-8dc6-a6ef5f6261a1.jpg?v=1767077225
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [A Purple / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436517145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9331c789-cf20-4942-8dc6-a6ef5f6261a1.jpg?v=1767077225
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Black / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436549913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1767077227
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Black / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436582681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1767077227
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Black / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436615449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1767077227
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Black / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436648217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ee6aca07-912d-48d9-aa67-da35a2df9fb7.jpg?v=1767077227
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [Blue set / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436680985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0066b2bd-2193-4b01-8e39-981b2c4f4c31.jpg?v=1767077230
-    Price: $52.99 USD
+    Price: $56.99 USD
   - [Blue set / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436713753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0066b2bd-2193-4b01-8e39-981b2c4f4c31.jpg?v=1767077230
-    Price: $50.99 USD
+    Price: $54.99 USD
   - [Blue set / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436746521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0066b2bd-2193-4b01-8e39-981b2c4f4c31.jpg?v=1767077230
-    Price: $52.99 USD
+    Price: $58.99 USD
   - [Blue / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436779289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1767077232
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Blue / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436812057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1767077232
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Blue / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436844825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1767077232
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Blue / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436877593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08f07bfc-7a8d-49b0-9432-b88f026b7cca.jpg?v=1767077232
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [Coffee color / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436910361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1767077234
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Coffee color / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436943129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1767077234
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Coffee color / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796436975897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1767077234
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Coffee color / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437008665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/59e2532a-9c6a-4dda-8069-6d82ee1e0b83.jpg?v=1767077234
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [Grey / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437041433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1767077237
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Grey / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437074201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1767077237
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Grey / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437106969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1767077237
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Grey / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437139737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/388abce6-8423-43cd-9720-51b416d7911d.jpg?v=1767077237
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [Orange / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437172505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1767077239
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Orange / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437205273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1767077239
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Orange / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437238041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1767077239
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Orange / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437270809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08ca9798-b95d-488e-823a-df80e75ae110.jpg?v=1767077239
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [Purple / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437303577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1767077242
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Purple / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437336345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1767077242
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Purple / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437369113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1767077242
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Purple / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437401881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1767077242
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [Rose red / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437434649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1767077244
-    Price: $11.99 USD
+    Price: $21.99 USD
   - [Rose red / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437467417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1767077244
-    Price: $11.99 USD
+    Price: $19.99 USD
   - [Rose red / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437500185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1767077244
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [Rose red / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437532953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/10bf7ff4-f813-460e-b2be-84df014569cb.jpg?v=1767077244
-    Price: $11.99 USD
+    Price: $24.99 USD
   - [SET1 / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437565721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1767077247
-    Price: $55.99 USD
+    Price: $61.99 USD
   - [SET1 / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437598489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1767077247
-    Price: $54.50 USD
+    Price: $59.99 USD
   - [SET1 / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437631257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1767077247
-    Price: $53.99 USD
+    Price: $57.99 USD
   - [SET1 / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437664025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1767077247
-    Price: $55.99 USD
+    Price: $58.99 USD
   - [SET1 / XL.](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437696793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5f8ceca7-b2c0-48e2-ae50-e2d02e77e6b2.jpg?v=1767077247
-    Price: $56.99 USD
+    Price: $63.99 USD
   - [SET2 / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437729561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1767077249
-    Price: $32.99 USD
+    Price: $47.99 USD
   - [SET2 / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437762329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1767077249
-    Price: $32.99 USD
+    Price: $45.99 USD
   - [SET2 / S](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437795097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1767077249
-    Price: $34.99 USD
+    Price: $43.99 USD
   - [SET2 / XL](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437827865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1767077249
-    Price: $34.99 USD
+    Price: $49.99 USD
   - [SET2 / XL.](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437860633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8750b7f1-d315-4e66-b530-40af6ccc3e4f.jpg?v=1767077249
-    Price: $34.99 USD
+    Price: $49.99 USD
   - [Sky blue / L](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437893401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9ecffd3-7ab4-4314-b3fd-d87be61f0644.jpg?v=1767077251
-    Price: $29.99 USD
+    Price: $37.99 USD
   - [Sky blue / M](https://the-new-age-7647.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece?variant=51796437926169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c9ecffd3-7ab4-4314-b3fd-d87be61f0644.jpg?v=1767077251
-    Price: $29.99 USD
+    Price: $35.99 USD
 - [Wireless Dancing Water Speaker - LED Light Fountain for Home & Parties](https://the-new-age-7647.myshopify.com/products/wireless-dancing-water-speaker-led-light-fountain-speaker-home-party): Experience vibrant sound and stunning water display with the Wireless Dancing Water Speaker. Perfect for home or party use with 3D audio and LED lighting features.
-  Updated: 2025-12-31T19:12:12Z
+  Updated: 2026-01-07T12:21:53Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -2917,13 +2839,13 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/wireless-dancing-water-speaker-led-light-fountain-speaker-home-party?variant=51796438352153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1999782621132.jpg?v=1767077262
-    Price: $39.99 USD
+    Price: $49.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/wireless-dancing-water-speaker-led-light-fountain-speaker-home-party?variant=51796438384921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2076107127183.jpg?v=1767077264
-    Price: $39.99 USD
+    Price: $49.99 USD
 - [Wireless Bluetooth-compatible Headset - TWS with Digital Display & Breathing Light](https://the-new-age-7647.myshopify.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light): Discover the Wireless Bluetooth-compatible Headset with upgraded LED display, stable chip, fast charging, noise-cancelling mic, and long-lasting battery life.
-  Updated: 2026-01-01T18:03:32Z
+  Updated: 2026-01-07T04:32:16Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -2931,21 +2853,21 @@ The New Age
   - [Black set / usb](https://the-new-age-7647.myshopify.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light?variant=51796438679833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fb243b47-2d8d-48ed-9184-15dc36bd7c71.jpg?v=1767077285
-    Price: $18.99 USD
+    Price: $29.99 USD
   - [Black / usb](https://the-new-age-7647.myshopify.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light?variant=51796438712601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e084bda0-747c-4b27-945c-e83db3706cb9.jpg?v=1767077287
-    Price: $16.99 USD
+    Price: $21.99 USD
   - [Set1 / usb](https://the-new-age-7647.myshopify.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light?variant=51796438745369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/95243e3e-f9f8-4186-8896-bce9619e0cbc.jpg?v=1767077290
-    Price: $42.99 USD
+    Price: $47.99 USD
   - [White gray / Wired earphone](https://the-new-age-7647.myshopify.com/products/yd03-wireless-bluetooth-compatible-headset-tws-large-screen-smart-digital-display-in-ear-breathing-light?variant=51796438778137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1767077292
-    Price: $6.36 USD
+    Price: $9.99 USD
 - [E58 Folding Aerial Drone - Compact, Lightweight, 6-Channel Control & 1080P Camera](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone): Discover the E58 Folding Aerial Drone, suitable for all ages, with 6 channels, up to 120 meters flight height, and optional 1080P camera batteries. Shop now!
-  Updated: 2026-01-01T18:03:31Z
+  Updated: 2026-01-07T04:25:10Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -2953,65 +2875,65 @@ The New Age
   - [0.3MP 1](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686274841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $55.99 USD
+    Price: $59.99 USD
   - [0.3MP 2](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686307609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $44.99 USD
+    Price: $49.99 USD
   - [0.3MP 3](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686340377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $47.99 USD
+    Price: $54.99 USD
   - [1080P 1](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686373145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $40.99 USD
+    Price: $54.99 USD
   - [1080P 2](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686405913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $48.99 USD
+    Price: $54.99 USD
   - [1080P 3](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686438681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $49.99 USD
+    Price: $53.99 USD
   - [4k 1](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686471449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $44.99 USD
+    Price: $52.99 USD
   - [4k 1 with 1 battery](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686504217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/431507761129.jpg?v=1767077307
-    Price: $47.99 USD
+    Price: $56.99 USD
   - [4k 1 with batteries2](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686536985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4797701603103.jpg?v=1767077310
-    Price: $52.99 USD
+    Price: $59.99 USD
   - [4k 2](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686569753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [4k 3](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686602521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $81.05 USD
+    Price: $87.99 USD
   - [720P 1](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686635289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $53.95 USD
+    Price: $57.99 USD
   - [720P 2](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686668057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $72.38 USD
+    Price: $77.99 USD
   - [720P 3](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686700825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8013117989673.jpg?v=1767077305
-    Price: $65.12 USD
+    Price: $68.99 USD
   - [Battery](https://the-new-age-7647.myshopify.com/products/e58-folding-aerial-drone?variant=51796686733593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/550160018561.jpg?v=1767077311
-    Price: $8.52 USD
+    Price: $16.99 USD
 - [GTX300 Gaming CF Gaming Keyboard and Mouse Set with Backlight & Ergonomic Design](https://the-new-age-7647.myshopify.com/products/gtx300-gaming-cf-lol-gaming-keyboard-mouse-glowing-set): Discover the GTX300 Gaming CF gaming keyboard and mouse set featuring vibrant backlight, ergonomic curves, 1600 dpi resolution, USB wired connection, ideal for gaming and work.
-  Updated: 2026-01-01T18:03:30Z
+  Updated: 2026-01-07T04:18:16Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -3019,13 +2941,13 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/gtx300-gaming-cf-lol-gaming-keyboard-mouse-glowing-set?variant=51798476488985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1128578471020_54c7fa65-07c6-4c1f-91fd-86df16af3933.jpg?v=1767077332
-    Price: $29.99 USD
+    Price: $39.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/gtx300-gaming-cf-lol-gaming-keyboard-mouse-glowing-set?variant=51798476521753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2154876221516.jpg?v=1767077335
-    Price: $32.99 USD
+    Price: $39.99 USD
 - [Silicone Grip Device Finger Exercise Stretcher for Hand Rehabilitation](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain): Buy the Silicone Grip Device for finger exercise and rehabilitation. Effective hand grip trainer to relieve pain, suitable for all ages, durable and soft-touch.
-  Updated: 2026-01-01T18:03:28Z
+  Updated: 2026-01-07T04:15:04Z
   Vendor: The New Age
   Product Type: Fitness
   Availability: Available
@@ -3033,21 +2955,21 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799053992217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b377cd19-97e0-4f85-a005-48bd738bc621.jpg?v=1767077363
-    Price: $8.00 USD
+    Price: $14.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799054024985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bc4b9526-be23-4a24-b457-f1dc988b3bb8.jpg?v=1767077365
-    Price: $8.00 USD
+    Price: $14.99 USD
   - [Grey](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799054057753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b5d7f007-98eb-4c29-ae3a-7146e66a3f64.jpg?v=1767077368
-    Price: $8.00 USD
+    Price: $14.99 USD
   - [Set](https://the-new-age-7647.myshopify.com/products/silicone-grip-device-finger-exercise-stretcher-arthritis-hand-grip-trainer-strengthen-rehabilitation-training-to-relieve-pain?variant=51799054090521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4fce808f-8792-4aff-9a6c-01517be79768.jpg?v=1767077371
-    Price: $14.99 USD
+    Price: $25.99 USD
 - [Large Engineering Vehicle Dinosaur Children's Toy Car Set - Fun & Educational](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set): Discover the Large Engineering Vehicle dinosaur toy set, perfect for kids. Includes transport and storage vehicles, made of durable plastic. Get yours now!
-  Updated: 2026-01-01T18:03:25Z
+  Updated: 2026-01-07T04:06:25Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3055,20 +2977,20 @@ The New Age
   - [Trex head regular](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set?variant=51801313870105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b878b569-bf7e-4c97-b4c7-dfb708ea6f91_trans.jpg?v=1767077384
-    Price: $26.99 USD
+    Price: $42.99 USD
   - [Triceratops head regular](https://the-new-age-7647.myshopify.com/products/large-engineering-vehicle-dinosaur-childrens-toy-car-set?variant=51801313902873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6eaf41ef-70b4-4547-938a-db36ecc6c954_trans.jpg?v=1767077387
-    Price: $26.99 USD
+    Price: $42.99 USD
 - [Robotime ROKR Marble Night City 3D Wooden Puzzle for Kids - Assembly Toy](https://the-new-age-7647.myshopify.com/products/robotime-rokr-marble-night-city-3d-wooden-puzzle-games-assembly-waterwheel-model-toys-for-children-kids-birthday-gift): Buy Robotime ROKR Marble Night City 3D Wooden Puzzle, a fun and educational assembly toy for children aged 8+. Perfect for birthday gifts and creative play.
-  Updated: 2026-01-01T18:03:24Z
+  Updated: 2026-01-07T03:47:50Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1950730733639438336.jpg?v=1767077389
-  Price: $49.99 USD
+  Price: $59.99 USD
 - [Resistance to shock Remote Control Car for High-Speed Competitions](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car): Experience the thrill with our Resistance to shock remote control car, designed for high-speed racing and durability. Perfect for competitive RC enthusiasts.
-  Updated: 2026-01-01T18:03:22Z
+  Updated: 2026-01-07T03:28:28Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3076,13 +2998,13 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car?variant=51801316196633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1448078884957.jpg?v=1767077428
-    Price: $26.99 USD
+    Price: $34.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/resistance-to-shock-and-high-speed-competitive-electric-remote-control-car?variant=51801316229401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3290973935597.jpg?v=1767077431
-    Price: $26.99 USD
+    Price: $34.99 USD
 - [Glider Fighter Model - Remote Control Fixed Wing Children's Toy, Outdoor](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys): Explore the Glider Fighter Model, a remote control fixed wing children's toy made of EVA with flashing function, battery-powered, perfect for outdoor fun.
-  Updated: 2026-01-01T18:03:16Z
+  Updated: 2026-01-07T03:05:34Z
   Vendor: The New Age
   Product Type: Toys
   Availability: Available
@@ -3090,167 +3012,29 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317343513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d8d1d38b-c080-44fd-8512-a5c92eadfe14.jpg?v=1767077439
-    Price: $32.99 USD
+    Price: $39.99 USD
   - [Blue Double electric](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317376281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/edeaff2d-0eea-4afa-840a-700d0557d6cb.jpg?v=1767077441
-    Price: $29.99 USD
+    Price: $44.99 USD
   - [Blue Single electric](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317409049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4deec4d5-1348-4fff-a1b1-dbc3a175fe38.jpg?v=1767077444
-    Price: $27.99 USD
+    Price: $34.99 USD
   - [Blue Three electric](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317441817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8c04eb17-ca49-4e28-aab6-044656726c54.jpg?v=1767077446
-    Price: $32.99 USD
+    Price: $54.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317474585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cc5c5dc4-7b2c-45bb-bea6-a9b27b428b62.jpg?v=1767077449
-    Price: $33.99 USD
+    Price: $39.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/glider-fighter-model-fixed-wing-outdoor-childrens-toys?variant=51801317507353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8a7eb1ae-90ea-45ba-aed4-83d266299ea2.jpg?v=1767077452
-    Price: $33.99 USD
-- [Non-slip shopping shoes sneakers for women - Comfortable & Stable Design](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers): Shop the best non-slip shopping shoes sneakers for women, perfect for lifestyle activities, with breathable mesh, low insole, and enhanced stability for spring 2019.
-  Updated: 2026-01-01T18:03:15Z
-  Vendor: The New Age
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3211781055380.jpg?v=1767077454
-  - [Black powder / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324486937)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $16.99 USD
-  - [Black powder / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324519705)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $18.99 USD
-  - [Black powder / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324552473)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $16.99 USD
-  - [Black powder / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324585241)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $16.99 USD
-  - [Black powder / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324618009)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $16.99 USD
-  - [Black powder / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324650777)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $16.99 USD
-  - [Black powder / 41](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324683545)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1062611837869.jpg?v=1767077466
-    Price: $18.99 USD
-  - [Black / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324716313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $16.99 USD
-  - [Black / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324749081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $19.99 USD
-  - [Black / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324781849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $16.99 USD
-  - [Black / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324814617)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $16.99 USD
-  - [Black / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324847385)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $17.99 USD
-  - [Black / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324880153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $18.99 USD
-  - [Black / 41](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324912921)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/706515003356.jpg?v=1767077468
-    Price: $18.99 USD
-  - [Pink / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324945689)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $16.99 USD
-  - [Pink / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801324978457)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $16.99 USD
-  - [Pink / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325011225)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $19.99 USD
-  - [Pink / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325043993)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $17.99 USD
-  - [Pink / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325076761)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $16.99 USD
-  - [Pink / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325109529)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $17.99 USD
-  - [Pink / 41](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325142297)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1756364097471.jpg?v=1767077470
-    Price: $17.99 USD
-  - [Purple / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325175065)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1767077473
-    Price: $16.99 USD
-  - [Purple / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325207833)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1767077473
-    Price: $16.99 USD
-  - [Purple / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325240601)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1767077473
-    Price: $16.99 USD
-  - [Purple / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325273369)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1767077473
-    Price: $17.99 USD
-  - [Purple / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325306137)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1767077473
-    Price: $17.99 USD
-  - [Purple / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325338905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3293979159374.jpg?v=1767077473
-    Price: $17.99 USD
-  - [White / 35](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325371673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1767077477
-    Price: $17.99 USD
-  - [White / 36](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325404441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1767077477
-    Price: $17.99 USD
-  - [White / 37](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325437209)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1767077477
-    Price: $17.99 USD
-  - [White / 38](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325469977)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1767077477
-    Price: $17.99 USD
-  - [White / 39](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325502745)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1767077477
-    Price: $17.99 USD
-  - [White / 40](https://the-new-age-7647.myshopify.com/products/non-slip-shopping-shoes-sneakers?variant=51801325535513)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/699053136351.jpg?v=1767077477
-    Price: $17.99 USD
+    Price: $39.99 USD
 - [LED Wall Hanging Neon Modeling Lights - Unique Alien Design for Interior Decor](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights): Discover the LED Wall Hanging neon modeling lights featuring alien designs. Perfect for interior decoration, energy-efficient, with multiple color options.
-  Updated: 2026-01-01T18:03:13Z
+  Updated: 2026-01-07T02:58:07Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -3258,25 +3042,25 @@ The New Age
   - [A / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327206681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256146.jpg?v=1767077482
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [B / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327239449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256126.jpg?v=1767077485
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [C / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327272217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256128.jpg?v=1767077487
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [D / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327304985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256132_1f42625a-e179-406f-9f5d-a31f9473f7ab.jpg?v=1767077489
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [E / 10W](https://the-new-age-7647.myshopify.com/products/led-wall-hanging-neon-modeling-lights?variant=51801327337753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1614941256144.jpg?v=1767077491
-    Price: $16.99 USD
+    Price: $20.99 USD
 - [3D Lamp Acrylic USB LED Night Light with Remote Control - Unique Xmas Decor](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts): Shop the versatile 3D Lamp Acrylic USB LED night light with remote control, perfect Xmas Christmas decorations for home, bedroom, birthday, and Valentine's Day gifts.
-  Updated: 2026-01-01T18:03:10Z
+  Updated: 2026-01-07T12:13:23Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -3284,53 +3068,53 @@ The New Age
   - [Black / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329008921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1407545331511_0eaa8048-1b23-4344-aff5-9a1aa17c6eda.jpg?v=1767077512
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [Black / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329041689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1407545331511_0eaa8048-1b23-4344-aff5-9a1aa17c6eda.jpg?v=1767077512
-    Price: $12.99 USD
+    Price: $16.99 USD
   - [Black1 / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329074457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6ac33f50-058e-444d-ac75-b16e5c7869d2_ba8fbf6d-cec0-4609-8dac-4535eeea1388.jpg?v=1767077514
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [Black1 / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329107225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/35be59be-3a1d-46b4-921b-cf4279e87a8d.jpg?v=1767077516
-    Price: $13.50 USD
+    Price: $16.99 USD
   - [Crack / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329139993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2268055748551_f1574347-a494-4d09-aa73-4c4ce6e0366f.jpg?v=1767077519
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [Crack / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329172761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2268055748551_f1574347-a494-4d09-aa73-4c4ce6e0366f.jpg?v=1767077519
-    Price: $12.99 USD
+    Price: $16.99 USD
   - [Crack1 / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329205529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9314368f-0341-4dbb-b4d3-3798598f5c74.jpg?v=1767077521
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [Crack1 / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329238297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d8722d75-1006-458d-ac65-e30c91c3e27b.jpg?v=1767077524
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [White / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329271065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/327626311339_6ec70b04-be05-47e8-b67a-9f6a7041ac47.jpg?v=1767077528
-    Price: $12.99 USD
+    Price: $17.99 USD
   - [White / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329303833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/327626311339_6ec70b04-be05-47e8-b67a-9f6a7041ac47.jpg?v=1767077528
-    Price: $12.99 USD
+    Price: $16.99 USD
   - [White1 / 16 colors remote](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329336601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9147a976-dcfe-4695-9db4-aef121df2cc0.jpg?v=1767077530
-    Price: $13.99 USD
+    Price: $17.99 USD
   - [White1 / Colorful touch](https://the-new-age-7647.myshopify.com/products/3d-lamp-acrylic-usb-led-night-lights-neon-sign-lamp-xmas-christmas-decorations-for-home-bedroom-birthday-decor-valentines-day-gifts?variant=51801329369369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6e6bb3db-1fd6-4a8a-8a64-3ef1adf881c2.jpg?v=1767077533
-    Price: $13.99 USD
+    Price: $16.99 USD
 - [Modern Desk Lights USB Eye Protection LED Table Lamp for Cozy Spaces](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office): Discover the modern desk lights designed for eye protection with USB charging, adjustable brightness, and charming plant-shaped design. Perfect for living rooms and bedrooms.
-  Updated: 2026-01-01T18:03:08Z
+  Updated: 2026-01-06T19:03:25Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -3338,20 +3122,20 @@ The New Age
   - [Pink](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office?variant=51801330254105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1347775869501.jpg?v=1767077556
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [blue](https://the-new-age-7647.myshopify.com/products/modern-desk-lights-usb-eye-protection-led-table-lamp-for-living-room-bedroom-end-tables-office?variant=51801330286873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1226973997194.jpg?v=1767077559
-    Price: $19.99 USD
+    Price: $29.99 USD
 - [Desktop Charging Magnetic Data Cable Organizer - Creative Gift Storage](https://the-new-age-7647.myshopify.com/products/desktop-charging-magnetic-data-cable-organizer-soft-plastic-creative-gift-storage-fixed-cable-organizer): Use the desktop charging magnetic data cable organizer for a neat desktop. Perfect for fixing cables and as a creative gift. Shop now for organization!
-  Updated: 2026-01-01T18:03:07Z
+  Updated: 2026-01-06T18:59:49Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619517081159.jpg?v=1767077561
-  Price: $6.50 USD
+  Price: $11.99 USD
 - [Super Fast Charging USB Data Cable for Mobile Phones - 1m & 3m Options](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable): Get the best Super Fast Charging USB data cable with 5A current, available in 1m and 3m lengths. Perfect for charging and data transmission, compatible with type-c devices.
-  Updated: 2026-01-01T18:03:06Z
+  Updated: 2026-01-06T18:56:38Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
@@ -3359,47 +3143,47 @@ The New Age
   - [White / 1m](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable?variant=51801333891353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1767077589
-    Price: $6.49 USD
+    Price: $7.49 USD
   - [White / 2m](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable?variant=51801333924121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1767077589
-    Price: $6.99 USD
+    Price: $8.99 USD
   - [White / 3m](https://the-new-age-7647.myshopify.com/products/super-fast-charging-usb-single-head-mobile-phone-data-cable?variant=51801333956889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1009265501235_ef609bf6-c95c-4f4b-a2dc-cc274393eec8.jpg?v=1767077589
-    Price: $7.25 USD
+    Price: $9.99 USD
 - [Wireless Charger For iPhone Fast Charging Dock Station - 6 in 1 Wireless Charging Pad](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station): Discover the Wireless Charger for iPhone, a fast charging dock station with 6-in-1 functionality, perfect for phones, watches, and more. Fast and reliable charging solution.
-  Updated: 2026-01-01T18:03:05Z
+  Updated: 2026-01-08T18:14:43Z
   Vendor: The New Age
   Product Type: Phone Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fff10a96-1ead-4c85-a759-a3de932d9637.jpg?v=1767077592
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fff10a96-1ead-4c85-a759-a3de932d9637.jpg?v=1767799422
   - [Black / 10w / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334612249)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6bfb61ef-1e56-4379-bf12-afeeaeade48f.jpg?v=1767077603
-    Price: $18.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6bfb61ef-1e56-4379-bf12-afeeaeade48f.jpg?v=1767799318
+    Price: $19.99 USD
   - [Black / 15W / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334645017)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b1261eaf-5bdd-403f-ab3e-01128a16aab7.jpg?v=1767077605
-    Price: $22.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b1261eaf-5bdd-403f-ab3e-01128a16aab7.jpg?v=1767799318
+    Price: $23.99 USD
   - [Pink / 10w / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334677785)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a06e8f4f-2836-4d84-82d8-0a79cc41dacb.jpg?v=1767077607
-    Price: $18.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a06e8f4f-2836-4d84-82d8-0a79cc41dacb.jpg?v=1767799265
+    Price: $19.99 USD
   - [Pink / 15W / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334710553)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6ea22150-fdff-4727-bfa9-82bbaa801e34.jpg?v=1767077609
-    Price: $21.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6ea22150-fdff-4727-bfa9-82bbaa801e34.jpg?v=1767799265
+    Price: $23.99 USD
   - [White / 10w / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334743321)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5814dec8-76ae-405b-bc72-80b5af288ec8.jpg?v=1767077612
-    Price: $18.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5814dec8-76ae-405b-bc72-80b5af288ec8.jpg?v=1767799318
+    Price: $19.99 USD
   - [White / 15W / USB](https://the-new-age-7647.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=51801334776089)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9925af23-6ddd-4226-8ae4-e0746f5acb58.jpg?v=1767077614
-    Price: $21.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9925af23-6ddd-4226-8ae4-e0746f5acb58.jpg?v=1767799270
+    Price: $23.99 USD
 - [Trihedron Pet Toys Durable Food Dispensing Toys for Dogs](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys): Explore Trihedron Pet Toys, durable food dispensing toys that keep your dog mentally stimulated and entertained. Perfect for training and reducing boredom.
-  Updated: 2026-01-01T18:03:04Z
+  Updated: 2026-01-06T18:49:28Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -3407,21 +3191,21 @@ The New Age
   - [Blue / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335103769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3079664840547.jpg?v=1767077619
-    Price: $10.99 USD
+    Price: $15.99 USD
   - [Green / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335136537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/520790032900.jpg?v=1767077622
-    Price: $10.99 USD
+    Price: $15.99 USD
   - [Orange / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335169305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2205368058476.jpg?v=1767077625
-    Price: $10.99 USD
+    Price: $15.99 USD
   - [Purple / Q1pc](https://the-new-age-7647.myshopify.com/products/trihedron-pet-toys-durable-food-dispensing-toys?variant=51801335202073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/46721848100.jpg?v=1767077627
-    Price: $10.99 USD
+    Price: $15.99 USD
 - [Chew Toys For Dog Teeth Cleaning - Durable, Safe & Effective Dental Play](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning): Discover the best chew toys for dog teeth cleaning featuring safe TPR material, effective plaque reduction, and fun design to keep your pet healthy and happy.
-  Updated: 2026-01-01T18:03:03Z
+  Updated: 2026-01-06T18:45:51Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -3429,17 +3213,17 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning?variant=51801335464217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b679ae2f-b863-48a6-bcf2-c6092b64cc9d.jpg?v=1767077645
-    Price: $6.99 USD
+    Price: $10.99 USD
   - [Green](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning?variant=51801335496985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ae42e11f-2081-4af2-b126-01658f44fe26.jpg?v=1767077647
-    Price: $6.99 USD
+    Price: $10.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/chew-toys-for-dog-teeth-cleaning?variant=51801335529753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0ef428d1-9947-4330-804d-15adfb2706bf.jpg?v=1767077649
-    Price: $6.99 USD
+    Price: $10.99 USD
 - [Dog Tumbler Toys - Interactive Pet Toy to Boost IQ & Slow Feeder](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products): Discover Dog Tumbler Toys, an engaging and durable pet toy to increase IQ, promote healthy feeding, and provide fun for small and medium dogs and cats.
-  Updated: 2026-01-01T18:03:02Z
+  Updated: 2026-01-06T18:42:17Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
@@ -3447,13 +3231,13 @@ The New Age
   - [Green](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products?variant=51801336283417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d1db310f-6007-4f97-ab9c-916dd1e5661e_91637aff-089f-4418-a563-55c0724b661a.jpg?v=1767077678
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/dog-tumbler-toys-increases-pet-iq-interactive-slow-feeder-for-small-medium-dogs-cat-training-balance-car-feeder-pet-toy-pet-products?variant=51801336316185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9e9e44fc-d60f-4748-b8f5-d06e7dbcd8d1_dec63f59-1b1e-4003-b6a3-5dd459c42a49.jpg?v=1767077681
-    Price: $14.99 USD
+    Price: $19.99 USD
 - [Magic Organ Cat Scratch - Fun & Durable Cat Scratch Board for Cats](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy): Discover the Magic Organ Cat Scratch, a fun and durable cat scratch board made from paper in various cute designs. Perfect for keeping your cat entertained!
-  Updated: 2026-01-01T18:03:01Z
+  Updated: 2026-01-06T18:38:36Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
@@ -3461,42 +3245,42 @@ The New Age
   - [Cartoon Print](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801336971545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a174fdae-003b-40b0-845a-12df9e477300.jpg?v=1767077702
-    Price: $15.99 USD
+    Price: $19.99 USD
   - [Deep Wood Grain](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801337004313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c83dcbba-9f27-46b5-8538-5ddd2e928694.jpg?v=1767077704
-    Price: $15.99 USD
+    Price: $19.99 USD
   - [Wansheng Bat](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801337037081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/da7c0dce-01cc-4726-bcce-6406455bbd78.jpg?v=1767077707
-    Price: $15.99 USD
+    Price: $19.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/magic-organ-cat-scratch-board-toy?variant=51801337069849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bd0161a3-c37a-4f4c-b430-fe80f50c2ba2.jpg?v=1767077709
-    Price: $15.99 USD
+    Price: $19.99 USD
 - [Rainbow Cat Tunnel - Colorful Cat Climbing Frame & Litter | Shop Now](https://the-new-age-7647.myshopify.com/products/rainbow-cat-tunnel-color-cat-climbing-frame-cat-litter): Discover the Rainbow Cat Tunnel, a vibrant and fun cat climbing frame with litter. Perfect for giving your cat a playful space. Buy the Rainbow Cat Tunnel today!
-  Updated: 2026-01-01T18:03:00Z
+  Updated: 2026-01-06T18:35:39Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1613785335751.jpg?v=1767077711
-  Price: $10.99 USD
+  Price: $17.99 USD
 - [Windowsill Pets Toy Cat Track Ball - Engaging Pet Product in Grey](https://the-new-age-7647.myshopify.com/products/windowsill-pets-toy-cat-track-ball-pet-products): Shop the Windowsill Pets Toy Cat Track Ball, a fun and entertaining pet product made of plastic in grey, perfect for your cat's play and exercise needs.
-  Updated: 2026-01-01T18:02:58Z
+  Updated: 2026-01-06T18:31:57Z
   Vendor: The New Age
   Product Type: Cat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/5adb3f02-32cb-40e2-8336-d33a6025e808.jpg?v=1767077723
-  Price: $12.99 USD
-- [Machine Washable Three-in-one Multifunctional Cat And Dog Travel Car Mat](https://the-new-age-7647.myshopify.com/products/machine-washable-three-in-one-multifunctional-cat-and-dog-travel-car-mat): Product information : Material: Cloth Product Category: Seat Cushion Colour: Black Specification: 137*149 Packing list : Cushion×1
-  Updated: 2026-01-01T18:02:56Z
+  Price: $17.99 USD
+- [Multifunctional Pet Travel Car Mat – Waterproof Seat Protector for Dogs](https://the-new-age-7647.myshopify.com/products/machine-washable-three-in-one-multifunctional-cat-and-dog-travel-car-mat): Protect Your Car While Keeping Your Pet Comfortable Protects car seats from dirt, hair, and spills Waterproof and scratch-resistant surface Easy to install, remove, and clean The Multifunctional Pet Travel Car Mat is designed to keep your car clean while giving your pet a comfortable place to relax during rides. Made with durable, waterproof materials, it protects seats from mud, fur, spills, and scratches. Perfect for daily trips, road trips, and vet visits, this mat installs quickly and fits most vehicles. Easy to wipe clean or wash, it’s a must-have for pet owners who travel with their furry companions. 🔥 Key Features Waterproof, scratch-resistant material Protects seats from hair, dirt, and spills Easy installation with secure straps Comfortable surface for pets Fits most cars, SUVs, and trucks 📦 What’s Included 1 × Multifunctional Pet Travel Car Mat ⚠️ Ensure mat is securely fastened before driving. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T18:28:42Z
   Vendor: The New Age
   Product Type: Dog
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/ff5a3ec8-c687-427f-ae57-0eeec3d4bc53.jpg?v=1767077736
-  Price: $52.99 USD
-- [New Fashion Personalized Women's Quartz Watch](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch): Product information: Special function: decoration Display type: pointer Applicable people: general Waterproof: no Movement type: quartz Thickness: 8mm Dial diameter: 38mm Crown type: screw crown Base type: ordinary Mirror material: ordinary glass mirror Buckle style: pin buckle Buckle material: titanium Strap material: imitation leather Dial shape: round Case material: alloy Packing specifications: opp bag Color: white, red, black, cyan, pink, beige Packing list: Women's watch X1pcs Product Image:
-  Updated: 2026-01-01T18:02:53Z
+  Price: $55.99 USD
+- [Fashion Women’s Quartz Watch – Elegant Everyday Wristwatch](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch): Elegant Style for Every Occasion Sleek, fashionable design that complements any outfit Quartz movement for accurate and reliable timekeeping Lightweight and comfortable for all-day wear The Fashion Women’s Quartz Watch is designed for effortless elegance. Its clean, modern look makes it easy to pair with casual outfits, workwear, or evening styles. Powered by precise quartz movement, this watch delivers reliable performance while remaining comfortable and lightweight on the wrist. A perfect accessory for everyday wear or a thoughtful gift for any occasion. 🔥 Key Features Stylish, minimalist design Accurate quartz movement Comfortable strap for daily wear Durable construction for long-term use Suitable for casual, work, or dressy outfits 📦 What’s Included 1 × Fashion Women’s Quartz Watch ⚠️ Avoid water exposure unless specified as water-resistant. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T18:25:57Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3504,29 +3288,29 @@ The New Age
   - [Beige](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338413337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12955b26-f809-416c-8a5f-06bf4d41592e.jpg?v=1767077758
-    Price: $12.99 USD
+    Price: $18.99 USD
   - [Black](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338446105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b1997767-e692-43c1-8090-92b1e3778bb2.jpg?v=1767077761
-    Price: $12.99 USD
+    Price: $18.99 USD
   - [Cyan](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338478873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/523af733-af2b-42da-856a-34eb2736556a_34c24113-6795-47d4-bb9d-943bceb0d874.jpg?v=1767077764
-    Price: $12.99 USD
+    Price: $18.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338511641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16b77351-d876-4994-b9b0-41b3560bb888.jpg?v=1767077766
-    Price: $12.99 USD
+    Price: $18.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338544409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b52a1b74-da9e-4a79-86a8-58bfbe0071d1.jpg?v=1767077768
-    Price: $12.99 USD
+    Price: $18.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/new-fashion-personalized-womens-quartz-watch?variant=51801338577177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6dde8249-58f4-4e85-bf35-d5de67d083fb.jpg?v=1767077771
-    Price: $12.99 USD
-- [Watch Retro Minority Watch Fashion Waterproof Quartz Watch High Sense Small Square Watch](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch): Product information: Color: 11K0214L01SK,11K0214L02SK,11K0214L03SK,11K0214L04SK Thickness: 7.5mm Applicable people: Female Style: Fashion Packing list: Watch x 1pc Product Image:
-  Updated: 2026-01-01T18:02:51Z
+    Price: $18.99 USD
+- [Retro Square Quartz Watch – Classic Vintage-Style Wristwatch](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch): Timeless Retro Style with Modern Reliability Vintage square dial for a classic, stylish look Quartz movement for accurate timekeeping Lightweight and comfortable for daily wear The Retro Square Quartz Watch blends vintage design with modern simplicity. Its classic square dial adds a timeless touch to any outfit, making it perfect for casual wear, work, or everyday use. Designed for comfort and reliability, this watch features precise quartz movement and a lightweight fit, making it easy to wear all day. A great choice for anyone who appreciates clean design and retro style. 🔥 Key Features Retro square dial with minimalist design Reliable quartz movement for accurate time Comfortable strap for all-day wear Durable construction for everyday use Suitable for casual, business, or vintage-inspired outfits 📦 What’s Included 1 × Retro Square Quartz Watch ⚠️ Avoid prolonged exposure to water unless stated as water-resistant. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T18:21:34Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3534,21 +3318,21 @@ The New Age
   - [11K0214L01SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338839321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d920cc7b-b39f-4aa9-86ab-105bd4463822_fine.jpg?v=1767077784
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [11K0214L02SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338872089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/432057b2-a0bc-4dd5-a743-46cca7b8bd71_fine.jpg?v=1767077787
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [11K0214L03SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338904857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/364be951-d9e6-4f7d-bc66-f12591abe8eb_fine.jpg?v=1767077789
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [11K0214L04SK](https://the-new-age-7647.myshopify.com/products/watch-retro-minority-watch-fashion-waterproof-quartz-watch-high-sense-small-square-watch?variant=51801338937625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b6612295-239c-4a4e-82aa-fbdb72699fe5_fine.jpg?v=1767077792
-    Price: $14.99 USD
-- [Fashion Business Versatile Diamond-studded Starry Sky Quartz Watch Bracelet For Women](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women): Product information: Color: gold, rose gold, silver Thickness: 8 mm Packaging specifications: 1*500 Applicable people: women Thickness: 8mm Dial diameter: 27mm Crown type: flat top conical crown Case back type: ordinary mirror material Ordinary glass mirror: buckle style Pin buckle buckle material: rose gold Dial shape: round Strap material: alloy Case material: alloy Display type: pointer Packing list: Women's watch X1pcs Product Image:
-  Updated: 2026-01-01T18:02:49Z
+    Price: $19.99 USD
+- [Starry Sky Diamond-Style Quartz Watch – Elegant Women’s Wristwatch](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women): Shine Bright with Timeless Elegance Sparkling diamond-style dial for a luxurious look Quartz movement for precise timekeeping Sleek design perfect for work, parties, or special occasions The Starry Sky Diamond-Style Quartz Watch combines elegance and functionality. Featuring a sparkling, starry dial, this watch is designed to add a touch of glamour to any outfit. Its reliable quartz movement ensures accurate timekeeping, while the stylish design makes it perfect for work, parties, or gifting. Comfortable and lightweight, this watch is a beautiful accessory for everyday wear or special moments. 🔥 Key Features Diamond-style starry dial for a luxurious look Quartz movement for precise and reliable timekeeping Elegant design suitable for daily wear and special occasions Comfortable, lightweight strap Perfect gift for women of all ages 📦 What’s Included 1 × Starry Sky Diamond-Style Quartz Watch ⚠️ Avoid contact with water and chemicals to preserve appearance. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T11:30:07Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3556,75 +3340,75 @@ The New Age
   - [Gold](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women?variant=51801339167001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e969457d-01ae-45d0-8345-2cc9ced864c9.jpg?v=1767077810
-    Price: $11.57 USD
+    Price: $19.99 USD
   - [Rose Gold](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women?variant=51801339199769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/0bdeb7fe-ad7a-439d-8d61-3ddc06d13f8d.jpg?v=1767077813
-    Price: $11.57 USD
+    Price: $19.99 USD
   - [Silver](https://the-new-age-7647.myshopify.com/products/fashion-business-versatile-diamond-studded-starry-sky-quartz-watch-bracelet-for-women?variant=51801339232537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bce45eae-a879-4c60-bc4b-6ca7045e91f9.jpg?v=1767077816
-    Price: $11.57 USD
-- [Fashion Simple Casual Student Watch](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch): Product information: Color: military green, khaki, red, yellow, black white case, black black case, white black, army camouflage, gray camouflage, black case green ring, black case red ring, black case blue ring, black case gold ring Battery capacity: button battery Case material: ABS Mirror material: resin Packing list: Watch *1 Product Image:
-  Updated: 2026-01-01T18:02:47Z
+    Price: $19.99 USD
+- [Fashion Simple Casual Watch – Stylish Everyday Wristwatch for Students](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch): Discover the fashion simple casual watch, a lightweight, durable, and minimalist accessory perfect for students and daily wear. Stay stylish effortlessly every day.
+  Updated: 2026-01-07T15:16:28Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8cd4e6cb-5702-4c3a-ba19-7cdde40f199f.jpg?v=1767077819
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8cd4e6cb-5702-4c3a-ba19-7cdde40f199f.jpg?v=1767798978
   - [Army Camouflage](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339560217)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5038047-c97a-48bc-80fd-e3fc3bdc7dcc.jpg?v=1767077822
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5038047-c97a-48bc-80fd-e3fc3bdc7dcc.jpg?v=1767798978
+    Price: $17.99 USD
   - [Army Green](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339592985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/285d58ae-120c-4cef-8abb-fe7e614fd0bf.jpg?v=1767077826
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/285d58ae-120c-4cef-8abb-fe7e614fd0bf.jpg?v=1767798978
+    Price: $17.99 USD
   - [Black Black Machine](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339625753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/24e82808-87cf-4fed-aad2-0d762e482273.jpg?v=1767077829
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/24e82808-87cf-4fed-aad2-0d762e482273.jpg?v=1767798979
+    Price: $17.99 USD
   - [Black Shell And Blue Circle](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339658521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/475c3adc-20ac-457e-948f-429a76e82c00.jpg?v=1767077832
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/475c3adc-20ac-457e-948f-429a76e82c00.jpg?v=1767798978
+    Price: $17.99 USD
   - [Black Shell And Red Circle](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339691289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/06629063-849d-4c5c-9528-78e6cfc13106.jpg?v=1767077835
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/06629063-849d-4c5c-9528-78e6cfc13106.jpg?v=1767798979
+    Price: $17.99 USD
   - [Black Shell Golden Circle](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339724057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/79d1740c-9111-4184-87f9-9c437b3b95db.jpg?v=1767077839
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/79d1740c-9111-4184-87f9-9c437b3b95db.jpg?v=1767798980
+    Price: $17.99 USD
   - [Black Shell Green Ring](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339756825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/48471c95-10ca-41b9-968d-eacdbff7b672.jpg?v=1767077842
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/48471c95-10ca-41b9-968d-eacdbff7b672.jpg?v=1767798978
+    Price: $17.99 USD
   - [Black White Machine](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339789593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fbd14b71-719d-41d9-8026-547bb7445d45.jpg?v=1767077845
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fbd14b71-719d-41d9-8026-547bb7445d45.jpg?v=1767798979
+    Price: $17.99 USD
   - [Gray Camouflage](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339822361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5ce41dd-e5dc-4eb6-827d-83f2b7909d6c.jpg?v=1767077848
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c5ce41dd-e5dc-4eb6-827d-83f2b7909d6c.jpg?v=1767798979
+    Price: $17.99 USD
   - [Khaki](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339855129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/73b92f35-8462-497c-b2e4-a1d440dc78e9.jpg?v=1767077851
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/73b92f35-8462-497c-b2e4-a1d440dc78e9.jpg?v=1767798979
+    Price: $17.99 USD
   - [Red](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339887897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d52684ad-fa80-44f0-bb55-b985ce25e18f.jpg?v=1767077854
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d52684ad-fa80-44f0-bb55-b985ce25e18f.jpg?v=1767798979
+    Price: $17.99 USD
   - [White And Black](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339920665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c16abc76-186f-4579-b437-8ad01eb96d37.jpg?v=1767077857
-    Price: $12.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c16abc76-186f-4579-b437-8ad01eb96d37.jpg?v=1767798979
+    Price: $17.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/fashion-simple-casual-student-watch?variant=51801339953433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/494865f7-c44e-42bd-a9ba-ae27e7a34570.jpg?v=1767077860
-    Price: $12.99 USD
-- [Smart Bluetooth Calling Women's Sports Watch](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch): Product information: Colors: Black (foreign language), Pink (foreign language), Gold Steel Edition (comes with dual straps + silicone strap), Black Steel Edition (comes with dual straps + silicone strap) Operation Modes: Touchscreen + Buttons Screen Type: IPS Battery Life: Less than 7 days Features: Photo capture, step counting, heart rate monitoring, blood pressure measurement, social entertainment, Bluetooth calls, smart notifications, remote selfie control, sleep monitoring, blood oxygen detection Chip: JL7012 (single-chip dual-mode, supports single connection for both iOS and Android) Additional Features: Three UI menu styles, offline Alipay, breathing training, watch face push, stopwatch, brightness adjustment, Multiple sports modes, sleep tracking, heart rate, blood pressure, blood oxygen, messages, remote music control, remote photo capture, weather, Find phone (requires connection to a smartphone), calculator, split-screen display, quick-access widgets, weather forecast, workout trajectory, etc. APP Name: CO FIT Chip: JL7012 Supported Systems: Android 4.4 and above; iOS: Apple iOS 10.0 and above Heart Rate Sensor: VC30F (with live body detection) Bluetooth: Bluetooth 5.0 Water Resistance: IP67 Product Craftsmanship: Zinc alloy construction Net Weight: 21g Screen Size: 1.47-inch IPS full-view color screen (curved surface) Resolution: 172*320 Strap Length: 260mm Battery Capacity: 502020 pure cobalt cell + Seiko protection board, polymer 180mAh Battery Life: 7-10 days under normal connected use, 15-20 days in standby mode (actual usage time depends on individual usage habits) Charging Method: Battery Voltage: 3.7V, magnetic charging Charging Time: Approximately 2 hours Packing list: Watch*1+charging cable*1+machine*1+manual*1 Product Image:
-  Updated: 2026-01-01T18:02:46Z
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/494865f7-c44e-42bd-a9ba-ae27e7a34570.jpg?v=1767798979
+    Price: $17.99 USD
+- [Women’s Smart Sports Watch – Bluetooth Calling & Fitness Tracker](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch): Stay Connected, Track Fitness, and Look Stylish Bluetooth calling for hands-free communication Tracks steps, calories, heart rate, and sleep Sleek, modern design suitable for workouts and daily wear The Women’s Smart Sports Watch combines fitness tracking and smart connectivity in a stylish package. With Bluetooth calling, health monitoring, and activity tracking, it helps you stay connected and motivated throughout the day. Perfect for workouts, running errands, or casual wear, this watch is lightweight, comfortable, and compatible with most smartphones. Stay on top of your fitness goals while never missing a call or notification. 🔥 Key Features Bluetooth calling and hands-free communication Tracks steps, calories, heart rate, and sleep Stylish design for workouts and everyday wear Lightweight, comfortable, and durable Compatible with iOS and Android smartphones 📦 What’s Included 1 × Women’s Smart Sports Watch Charging Cable User Manual ⚠️ Avoid exposure to water beyond the device’s rating. Charge using the included cable only. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T11:16:59Z
   Vendor: The New Age
   Product Type: Watches
   Availability: Available
@@ -3632,11 +3416,11 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch?variant=51801340150041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/468ab42a-f499-4f49-b044-d04ec0238b2c.jpg?v=1767077876
-    Price: $22.99 USD
+    Price: $28.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/smart-bluetooth-calling-womens-sports-watch?variant=51801340182809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8e4aa268-e697-416e-b8f2-dfcaabdd863e.jpg?v=1767077878
-    Price: $22.99 USD
+    Price: $28.99 USD
 - [Valentine's Day Love Letter Hoodie Red](https://the-new-age-7647.myshopify.com/products/valentines-day-love-letter-hoodie-red): Product information: Age appropriate：Infants and young children (1-3 years old, 80~100cm) Stitch spacing 12~14 stitches /3cm：is Main fabric component：Polyester fibre Main fabric composition content：65 (%) Safety level：Class B Color:red Suitable height:80cm,90cm,100cm,110cm,120cm Packing list: 1*Children's hoodie Product Image:
   Updated: 2026-01-01T18:02:45Z
   Vendor: The New Age
@@ -3663,7 +3447,7 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/265e3289-d835-4265-9fa3-93b2f4ca37f9_650d87fc-d26b-4270-bd4b-7ee49bb8e6c5.jpg?v=1767077904
     Price: $13.01 USD
-- [Summer Girls Cute Cartoon Short Sleeve T Shirt](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt): @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Product information: Applicable gender: Female Whether hooded: Not hooded Sleeve length: Short sleeve Fabric technology: Soft treatment Pattern: Cartoon Fabric name: Knitted Main fabric composition: Cotton Main fabric ingredient content: 95 (%) Collar type: Round neck Function: Moisture wicking @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Size Information: Size: 2T 3T 4T 5T 6T 7T
+- [Summer Girls Cute Cartoon Short Sleeve T Shirt](https://the-new-age-7647.myshopify.com/products/summer-girls-cute-cartoon-short-sleeve-t-shirt): @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Product information: Applicable gender: Female Whether hooded: Not hooded Sleeve length: Short sleeve Fabric technology: Soft  Pattern: Cartoon Fabric name: Knitted Main fabric composition: Cotton Main fabric ingredient content: 95 (%) Collar type: Round neck Function: Moisture wicking @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Calibri";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{}div.Section0{page:Section0;} Size Information: Size: 2T 3T 4T 5T 6T 7T
   Updated: 2026-01-01T18:02:44Z
   Vendor: The New Age
   Product Type: Kids Apparel
@@ -3763,8 +3547,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/05139595-2fa7-4660-a504-f782f839569a.jpg?v=1767077942
     Price: $15.50 USD
-- [cotton children t-shirt short sleeve](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve): Applicable gender: neutral/male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable age: infants and children (1~3 years old, 80~100cm) For the season: Summer Fabric technology: soft treatment Pattern: Cartoon Flat car stitch distance 12~14 stitches/3cm Whether the hair/remnant thread ends are trimmed: The obvious parts have been trimmed Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Safety level: Class A Collar type: round neck Size(cm) Length bust Shoulder width height 73 33 50 22 66-73 80 36 52 24 73-80 90 39 56 26 80-90 100 42 60 28 90-100 110 45 64 30 100-110 120 46 66 30 110-120 130 48 68 30 120-130 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3 cmdifferences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-01-01T18:02:42Z
+- [Cartoon Short Sleeve T-Shirt](https://the-new-age-7647.myshopify.com/products/cotton-children-t-shirt-short-sleeve): Applicable gender: neutral/male and female Style: Korean Whether hooded: not hooded sleeve length: short sleeve Suitable age: infants and children (1~3 years old, 80~100cm) For the season: Summer Fabric technology: soft  Pattern: Cartoon Flat car stitch distance 12~14 stitches/3cm Whether the hair/remnant thread ends are trimmed: The obvious parts have been trimmed Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 100 (%) Safety level: Class A Collar type: round neck Size(cm) Length bust Shoulder width height 73 33 50 22 66-73 80 36 52 24 73-80 90 39 56 26 80-90 100 42 60 28 90-100 110 45 64 30 100-110 120 46 66 30 110-120 130 48 68 30 120-130 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3 cmdifferences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2026-01-02T19:57:37Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -3969,8 +3753,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/901193093715.jpg?v=1767077979
     Price: $7.60 USD
-- [Children's Spring Clothes Girls' Long Sleeve T-Shirt Baby Clothes](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes): Product information: Fabric Name: Cotton Main fabric composition: Cotton Main fabric content: 95% Size information: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-01-01T18:02:40Z
+- [Nice Day Long Sleeve T-Shirt](https://the-new-age-7647.myshopify.com/products/childrens-spring-clothes-girls-long-sleeve-t-shirt-baby-clothes): Product information: Fabric Name: Cotton Main fabric composition: Cotton Main fabric content: 95% Size information: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2026-01-02T19:55:30Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4029,8 +3813,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1612330437468_c2e6e6fc-314a-4c66-9ebe-e4103b264576.jpg?v=1767078025
     Price: $8.49 USD
-- [Baby Bottoming Shirt Cartoon Autumn](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn): Product information: Color: ZMY249A,ZMY249B,ZMY249C Suitable height: 70, 80, 90, 100, 110 Main fabric composition: Cotton Function: keep warm Hooded or not: no Hooded Sleeve length: long sleeve Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top * 1 Product Image:
-  Updated: 2026-01-01T18:02:37Z
+- [Mama’s Bestie Sweater/Shirt](https://the-new-age-7647.myshopify.com/products/baby-bottoming-shirt-cartoon-autumn): Product information: Color: ZMY249A,ZMY249B,ZMY249C Suitable height: 70, 80, 90, 100, 110 Main fabric composition: Cotton Function: keep warm Hooded or not: no Hooded Sleeve length: long sleeve Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top * 1 Product Image:
+  Updated: 2026-01-02T19:43:57Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4221,8 +4005,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1615008739321.jpg?v=1767078081
     Price: $9.03 USD
-- [Children's printed T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt): Source category: Spot Applicable gender: Neutral / men and women style: Casual sleeve length: short sleeve Suitable for ages: infants and young children (1 ~ 3 years old, 80 ~ 100cm) For the season: Summer Flat stitch pitch 12 ~ 14 stitches / 3cm: Yes Fabric name: knitted Main fabric composition: polyester fiber (polyester) Main fabric composition content: 80 (%) Colors: White, Black Suitable for height: S, M, L, XL, 2XL size age bust length S 0-12M 28 37 M 2-4Y 34 45 L 6-8Y 39 52 XL 10-12Y 43 58 2XL 14-16Y 45 63
-  Updated: 2026-01-01T18:02:33Z
+- [Big/Lil Sis/Bro T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-printed-t-shirt): Source category: Spot Applicable gender: Neutral / men and women style: Casual sleeve length: short sleeve Suitable for ages: infants and young children (1 ~ 3 years old, 80 ~ 100cm) For the season: Summer Flat stitch pitch 12 ~ 14 stitches / 3cm: Yes Fabric name: knitted Main fabric composition: polyester fiber (polyester) Main fabric composition content: 80 (%) Colors: White, Black Suitable for height: S, M, L, XL, 2XL size age bust length S 0-12M 28 37 M 2-4Y 34 45 L 6-8Y 39 52 XL 10-12Y 43 58 2XL 14-16Y 45 63
+  Updated: 2026-01-02T19:53:14Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4267,8 +4051,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1607344970748.jpg?v=1767078109
     Price: $9.99 USD
-- [Children's Clothing Cartoon Knitted Heat Press Round Neck T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt): Product information: Style: Europe and America Sleeve length: short sleeve Fabric name: Knitted Main fabric composition: cotton Collar type: round neck Function : Moisture wicking Color : TTTG7 Size Information: Size: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm, 150cm, 160cm Size（Unit：cm） Length Bust 90 40 31 100 43 33 110 46 34 120 49 36 130 52 38 140 56 40 150 59 43 160 62 46 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: T-shirt*1 Product Image:
-  Updated: 2026-01-01T18:02:32Z
+- [Love T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-clothing-cartoon-knitted-heat-press-round-neck-t-shirt): Product information: Style: Europe and America Sleeve length: short sleeve Fabric name: Knitted Main fabric composition: cotton Collar type: round neck Function : Moisture wicking Color : TTTG7 Size Information: Size: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm, 150cm, 160cm Size（Unit：cm） Length Bust 90 40 31 100 43 33 110 46 34 120 49 36 130 52 38 140 56 40 150 59 43 160 62 46 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: T-shirt*1 Product Image:
+  Updated: 2026-01-02T19:52:19Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4357,8 +4141,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8083f6ce-5f74-4cc7-aead-080f76c868be.jpg?v=1767078133
     Price: $14.49 USD
-- [Cartoon Irregular Top Short-sleeved Half-sleeve Big Kids' Trendy Clothes](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes): Product information: Applicable gender: female Style: Korean Suit type: pants suit Number of sets: two sets Gift box content: clothing Suitable age group: middle and large children (over 8 years old, over 140cm) Suitable season: summer, winter, spring, autumn sleeve length: short sleeve Pants length: five-point pants/pants Fabric technology: sanding, soft treatment, enzyme washing Thickness: General Patterns: solid colors, cartoons, letters, abstract Fabric name: Cotton Main fabric composition: cotton Main fabric ingredient content: 95 (%) Closed style: pullover Color: YW2030 black, 2109# gray gray Size Information: Suitable height: 120cm, 130cm, 140cm, 150cm, 160cm, 165cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve*1
-  Updated: 2026-01-01T18:02:31Z
+- [Trendy Cartoon Short-sleeved Shirt](https://the-new-age-7647.myshopify.com/products/cartoon-irregular-top-short-sleeved-half-sleeve-big-kids-trendy-clothes): Product information: Applicable gender: female Style: Korean Suit type: pants suit Number of sets: two sets Gift box content: clothing Suitable age group: middle and large children (over 8 years old, over 140cm) Suitable season: summer, winter, spring, autumn sleeve length: short sleeve Pants length: five-point pants/pants Fabric technology: sanding, soft , enzyme washing Thickness: General Patterns: solid colors, cartoons, letters, abstract Fabric name: Cotton Main fabric composition: cotton Main fabric ingredient content: 95 (%) Closed style: pullover Color: YW2030 black, 2109# gray gray Size Information: Suitable height: 120cm, 130cm, 140cm, 150cm, 160cm, 165cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleeve*1
+  Updated: 2026-01-02T19:37:16Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4517,8 +4301,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2489879832486.jpg?v=1767078184
     Price: $8.99 USD
-- [Baby Autumn Clothes Clothes  Girl Baby Sweater Girls Children's](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens): Product information: Supply category: spot Applicable gender: female Style: Korean Suitable age: Infants and children (1~3 years old, 80~100cm) Suitable for the season: autumn Fabric technology: soft treatment Pattern: Cartoon Thickness: General Size Information: Suitable height: 70cm, 80cm, 90cm, 100cm Size Length Bust Sleeve Shoulder 70 33 54 26 23 80 56 28 24 90 37 58 30 25 100 39 60 32 26 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1
-  Updated: 2026-01-01T18:02:27Z
+- [Star Autumn Sweater](https://the-new-age-7647.myshopify.com/products/baby-autumn-clothes-clothes-girl-baby-sweater-girls-childrens): Product information: Supply category: spot Applicable gender: female Style: Korean Suitable age: Infants and children (1~3 years old, 80~100cm) Suitable for the season: autumn Fabric technology: soft  Pattern: Cartoon Thickness: General Size Information: Suitable height: 70cm, 80cm, 90cm, 100cm Size Length Bust Sleeve Shoulder 70 33 54 26 23 80 56 28 24 90 37 58 30 25 100 39 60 32 26 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1
+  Updated: 2026-01-02T19:45:02Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4555,8 +4339,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1622512968820_5177f97d-f772-4d50-b896-40afefcbd8d1.jpg?v=1767078205
     Price: $12.49 USD
-- [Crown King Family Wear Summer New Short-Sleeved T-Shirt Family Wear](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear): Product information: Applicable gender: general Parent-child wear category: T-shirt Applicable people: family wear For the season: Summer Main fabric composition: cotton Main fabric ingredient content: 100 (%) Size Information: Size: 80cm,90cm,100cm,110cm,120cm,130cm,140cm,150cm,66,73,80 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Children's short sleeve *1 Product Image: Full image:
-  Updated: 2026-01-01T18:02:25Z
+- [King/Queen/Family Short-Sleeved T-Shirt](https://the-new-age-7647.myshopify.com/products/crown-king-family-wear-summer-new-short-sleeved-t-shirt-family-wear): Product information: Applicable gender: general Parent-child wear category: T-shirt Applicable people: family wear For the season: Summer Main fabric composition: cotton Main fabric ingredient content: 100 (%) Size Information: Size: 80cm,90cm,100cm,110cm,120cm,130cm,140cm,150cm,66,73,80 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Children's short sleeve *1 Product Image: Full image:
+  Updated: 2026-01-02T19:59:10Z
   Vendor: The New Age
   Product Type: Apparel
   Availability: Available
@@ -4761,8 +4545,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1b047983-6a00-42c5-ab5c-0988717b2581.jpg?v=1767078230
     Price: $12.17 USD
-- [Children's Short-sleeved T-shirt With Earplugs Pattern](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern): Product information: Sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment Pattern: Cartoon Main fabric composition: cotton Main fabric ingredient content: 90 (%) Collar type: round neck Function: Moisture wicking Color: white, yellow, gray Size Information: Suitable height: 90cm,100cm,110cm,120cm,130cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleevex1 Product Image: Full image:
-  Updated: 2026-01-01T18:02:22Z
+- [Headphone T-Shirt](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeved-t-shirt-with-earplugs-pattern): Product information: Sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft  Pattern: Cartoon Main fabric composition: cotton Main fabric ingredient content: 90 (%) Collar type: round neck Function: Moisture wicking Color: white, yellow, gray Size Information: Suitable height: 90cm,100cm,110cm,120cm,130cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Short sleevex1 Product Image: Full image:
+  Updated: 2026-01-02T19:54:45Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4827,8 +4611,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/e5d55241-2e04-4ce2-bc8b-99162a1dabcd.jpg?v=1767078249
     Price: $8.79 USD
-- [Children's short sleeve T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt): Applicable gender: neutral/male and female Style: Korean sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft treatment pattern: plain Elements: cartoon, cute, printing AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-01-01T18:02:21Z
+- [Fishing T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-short-sleeve-t-shirt): Applicable gender: neutral/male and female Style: Korean sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Fabric technology: soft  pattern: plain Elements: cartoon, cute, printing AQL sampling standard: 2.5 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2026-01-02T19:54:09Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -4857,8 +4641,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3235452661248_1a0bd4fc-fa2f-4387-9a51-fe9b1f9ae64e.jpg?v=1767078263
     Price: $8.69 USD
-- [Boys Long Sleeve T-shirt Children's Clothing Baby Tops](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops): Product information: Style: Korean Sleeve length:Long sleeve Fabric technology: Soft treatment Pattern: Cartoon Whether the hair/excess thread ends are trimmed: All trimmed clean Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Collar type: Round neck Color: 3557 black Size Information: Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Precaution： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-01-01T18:02:18Z
+- [Boys Long Sleeve Space T-Shirt](https://the-new-age-7647.myshopify.com/products/boys-long-sleeve-t-shirt-childrens-clothing-baby-tops): Product information: Style: Korean Sleeve length:Long sleeve Fabric technology: Soft  Pattern: Cartoon Whether the hair/excess thread ends are trimmed: All trimmed clean Main fabric composition: Cotton Main fabric ingredient content: 100 (%) Collar type: Round neck Color: 3557 black Size Information: Suitable height: 90cm, 100cm, 110cm, 120cm, 130cm, 140cm Precaution： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2026-01-02T19:39:12Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5047,8 +4831,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/825183237502.jpg?v=1767078312
     Price: $8.99 USD
-- [Dinosaurs in Big Kids Costume - Fun and Soft Dinosaur Playwear](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume): Explore the adorable Dinosaurs in Big Kids Costume, crafted with soft treatment fabric, perfect for kids who love dinosaurs and fun playwear options.
-  Updated: 2026-01-01T18:02:15Z
+- [Dinosaurs in Big Kids Costume - Fun and Soft Dinosaur Playwear](https://the-new-age-7647.myshopify.com/products/dinosaurs-in-big-kids-costume): Explore the adorable Dinosaurs in Big Kids Costume, crafted with soft  fabric, perfect for kids who love dinosaurs and fun playwear options.
+  Updated: 2026-01-04T08:51:03Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5150,7 +4934,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/241894618291.jpg?v=1767078327
     Price: $13.39 USD
 - [Child Short Sleeve T-Shirt – Comfortable Summer Kids Clothing](https://the-new-age-7647.myshopify.com/products/child-short-sleeve-t-shirt-boy-half-sleeve): Shop our Child short sleeve t-shirt designed for kids aged 3-8 years. Made from 100% cotton with animal patterns, perfect for summer. Buy now!
-  Updated: 2026-01-01T18:02:14Z
+  Updated: 2026-01-04T08:20:04Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5227,38 +5011,38 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/574471977720.jpg?v=1767078340
     Price: $8.49 USD
-- [Children's Wear Summer: Stylish Summer T-shirts for Kids 3-8 Years](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling): Discover Children's Wear Summer collection featuring comfortable short sleeve T-shirts made of cotton, perfect for kids aged 3-8 years. Factory direct selling now!
-  Updated: 2026-01-01T18:02:13Z
+- [Children's Wear Summer: Stylish Summer T-shirts for Kids 3-8 Years](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-): Discover Children's Wear Summer collection featuring comfortable short sleeve T-shirts made of cotton, perfect for kids aged 3-8 years. Factory direct  now!
+  Updated: 2026-01-04T08:15:25Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540.jpg?v=1767078351
-  - [9121 flower ash / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958856473)
+  - [9121 flower ash / 100cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-?variant=51802958856473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1767078360
     Price: $8.79 USD
-  - [9121 flower ash / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958889241)
+  - [9121 flower ash / 110cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-?variant=51802958889241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1767078360
     Price: $8.79 USD
-  - [9121 flower ash / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958922009)
+  - [9121 flower ash / 120cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-?variant=51802958922009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1767078360
     Price: $8.79 USD
-  - [9121 flower ash / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958954777)
+  - [9121 flower ash / 130cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-?variant=51802958954777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1767078360
     Price: $8.79 USD
-  - [9121 flower ash / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802958987545)
+  - [9121 flower ash / 140cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-?variant=51802958987545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1767078360
     Price: $8.79 USD
-  - [9121 flower ash / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-selling?variant=51802959020313)
+  - [9121 flower ash / 90cm](https://the-new-age-7647.myshopify.com/products/childrens-wear-summer-new-boys-t-shirt-short-sleeve-korean-childrens-clothing-baby-clothing-a-ready-to-be-factory-direct-?variant=51802959020313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/6369969418540_04b35a80-5a72-4705-8430-20079103b57e.jpg?v=1767078360
     Price: $8.79 USD
 - [Printed t-shirt - Comfortable Cotton Tee with Stylish Design](https://the-new-age-7647.myshopify.com/products/printed-t-shirt): Shop the best Printed t-shirt made of soft cotton. Perfect fit for all, with detailed size guide and color variations. Ideal casual wear for everyone.
-  Updated: 2026-01-01T18:02:12Z
+  Updated: 2026-01-04T08:12:23Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5312,7 +5096,7 @@ The New Age
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1174242055383.jpg?v=1767078386
     Price: $11.29 USD
 - [Dinosaur Kids T-shirt - Summer Cartoon Animal T-shirt for Kids 3-8](https://the-new-age-7647.myshopify.com/products/dinosaur-kids-t-shirt): Shop the Dinosaur Kids T-shirt, perfect for summer with soft fabric, cartoon and animal patterns, for children aged 3-8 years old. Comfortable and stylish!
-  Updated: 2026-01-01T18:02:10Z
+  Updated: 2026-01-04T08:09:30Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5365,8 +5149,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99384698149_ae0b7b4b-8039-4f2e-8f05-a07f79178349.jpg?v=1767078404
     Price: $10.54 USD
-- [Children's T-shirt Numbers 1-9 Birthday T-shirt](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt): style: Casual sleeve length: short sleeve Suitable age: middle and small children (3~8 years old, 100~140cm) Pattern: Cartoon Fabric: Polyester fiber (polyester) size Bust*2 Length S 30 38 M 32 41 L 34 44 XL 36 47 2XL 38 49 3XL 40 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-01-01T18:02:08Z
+- [Birthday T-Shirt (Ages 1–9)](https://the-new-age-7647.myshopify.com/products/childrens-t-shirt-numbers-1-9-birthday-t-shirt): Celebrate Their Special Day in Style Comfortable, soft cotton for all-day wear Fun, age-specific design for birthdays 1–9 Perfect for parties, photos, and gifts 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more! Why You’ll Love It Make birthdays extra special with this comfortable and fun t-shirt. Designed for children ages 1–9, it’s perfect for parties, family photos, and everyday celebration. Soft, durable cotton ensures comfort all day long. Soft, high-quality cotton Age-specific birthday design Comfortable fit for all-day wear Perfect for parties, photos, and gifts Durable and machine washable size Bust*2 Length S 30 38 M 32 41 L 34 44 XL 36 47 2XL 38 49 3XL 40 51 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2026-01-04T08:06:39Z
   Vendor: The New Age
   Product Type: Kids Apparel
   Availability: Available
@@ -5571,15 +5355,15 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2753375207714.jpg?v=1767078430
     Price: $11.38 USD
-- [Chopping block](https://the-new-age-7647.myshopify.com/products/chopping-block): Product Name: Chopping block Material: Bamboo
-  Updated: 2026-01-01T18:02:06Z
+- [Chopping Block – Durable Wooden Kitchen Cutting Board](https://the-new-age-7647.myshopify.com/products/chopping-block): Safe, Sturdy, and Perfect for All Your Chopping Needs Durable wooden surface for cutting fruits, vegetables, and meat Protects knives and keeps them sharp longer Easy to clean and maintain for everyday use The Chopping Block is a versatile kitchen essential for meal prep. Crafted from durable wood, it provides a sturdy surface for slicing, dicing, and chopping, while protecting your knives from dulling. Ideal for home cooks, chefs, and anyone preparing meals, this chopping block is both practical and stylish. Its easy-to-clean surface ensures a hygienic workspace for all your cooking tasks. 🔥 Key Features Sturdy, durable wooden construction Protects knives and maintains sharpness Smooth surface for safe and efficient chopping Easy to clean and maintain Suitable for fruits, vegetables, meat, and more 📦 What’s Included 1 × Wooden Chopping Block ⚠️ Keep away from moisture for long-lasting use. Use a stable surface during cutting. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T11:03:59Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1541860866631.jpg?v=1767078433
-  Price: $13.99 USD
-- [Stainless Steel Kitchen Utensils Multifunctional Peeling Blade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade): Overview: Vegetable peeler features dual ultra sharp surgical stainless steel swivel double-edge blade Dual Stainless Steel blades stay ultra sharp and swivel for smooth, effortless peeling The handle is comfortable, even during repetitive strokes Built-in potato eye remover and orange peeler Dishwasher Safe Whatever the task, the peeler should handle bumps and curves with ease and without clogging or losing its edge. If that is what you ask from peelers then this amazing Peelers is made for you! Specification: Material:ABS+stainless steel Color: black,blue,red Size: Blue: 50 mm Black:58mm Red:50mm Package Content: 1x Black Peeler 1x Blue Peeler 1x Red Peeler
-  Updated: 2026-01-01T18:02:04Z
+  Price: $17.99 USD
+- [Stainless Steel Peeler – Sharp & Durable Vegetable & Fruit Peeler](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade): Peel Fruits and Vegetables Quickly and Safely Sharp stainless steel blade for fast, precise peeling Ergonomic handle for comfortable grip Durable, rust-resistant design for long-lasting use The Stainless Steel Peeler makes peeling fruits and vegetables quick, easy, and safe. Its sharp stainless steel blade slices through skins effortlessly, while the ergonomic handle ensures comfort during extended use. Perfect for home kitchens, meal prep, and professional cooking, this peeler is lightweight, durable, and easy to clean. Make peeling tasks faster and more enjoyable every day. 🔥 Key Features Sharp stainless steel blade for precision peeling Comfortable, ergonomic handle Rust-resistant, durable construction Lightweight and easy to clean Suitable for potatoes, carrots, apples, and more 📦 What’s Included 1 × Stainless Steel Peeler ⚠️ Keep fingers away from blade. Handle with care. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:29:17Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5587,15 +5371,15 @@ The New Age
   - [1 pack / Type2](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037166873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/974842269748.jpg?v=1767078473
-    Price: $10.74 USD
+    Price: $10.99 USD
   - [1 set / Type1](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037199641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374_25a962e3-ff3d-48a5-8d41-82e1628b0b35.jpg?v=1767078476
-    Price: $7.81 USD
+    Price: $8.99 USD
   - [1 / Type4](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037232409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1106355092412.jpg?v=1767078477
-    Price: $8.11 USD
+    Price: $8.99 USD
   - [1set / Upgrade](https://the-new-age-7647.myshopify.com/products/stainless-steel-kitchen-utensils-multifunctional-peeling-blade?variant=51805037265177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b0bafb90-e18e-4f75-83a2-7ea7a5ee0712.jpg?v=1767078480
@@ -5648,8 +5432,8 @@ The New Age
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/16305332013374_25a962e3-ff3d-48a5-8d41-82e1628b0b35.jpg?v=1767078476
     Price: $7.32 USD
-- [Potato Chopper](https://the-new-age-7647.myshopify.com/products/potato-chopper): specification: brand new and high quality! Material: ABS + stainless steel color random Size: about 17 * 10 * 2cm / 6.63 * 3.9 * 0.78 inches occasion: kitchen Package Included: 1 x potato cutter Note: 1. Please allow 1-2mm error by tomanualmeasurement. Pls make sure they do not mind before they bid. 2. The color may show different as difference, pls understand.
-  Updated: 2026-01-01T18:02:02Z
+- [Potato Chopper – Quick & Easy Vegetable Cutter](https://the-new-age-7647.myshopify.com/products/potato-chopper): Chop Potatoes and Veggies in Seconds Quickly dice potatoes, carrots, and other vegetables Sturdy, sharp blades for even cutting Easy to clean and safe to use The Potato Chopper makes meal prep fast and effortless. Simply place your potato or vegetable in the chopper and press down for even, perfectly cut pieces in seconds. Durable, sharp blades and a stable design make this tool safe and reliable for home cooking, meal prep, and family meals. Cleaning is simple, saving time while making your kitchen more efficient. 🔥 Key Features Quick and easy chopping of potatoes, carrots, and vegetables Sturdy, sharp stainless steel blades Ergonomic design for comfortable use Compact and easy to clean Safe and stable for home kitchens 📦 What’s Included 1 × Potato Chopper ⚠️ Keep fingers away from blades. Use under  supervision. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:49:35Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5657,21 +5441,21 @@ The New Age
   - [Green / 1pc](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037822233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2829346440720_55d4c662-27b7-4aab-9bcf-fe1428126204.jpg?v=1767078520
-    Price: $6.99 USD
+    Price: $9.99 USD
   - [Green / 3pc](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037855001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2829346440720_55d4c662-27b7-4aab-9bcf-fe1428126204.jpg?v=1767078520
-    Price: $8.19 USD
+    Price: $12.99 USD
   - [Random Color / 1PCS](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037887769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1619250860278.jpg?v=1767078523
-    Price: $6.99 USD
+    Price: $8.99 USD
   - [White / 1pc](https://the-new-age-7647.myshopify.com/products/potato-chopper?variant=51805037920537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f1a5dc7a-dc81-4ab5-9560-5fe7db5415d2.jpg?v=1767078525
-    Price: $6.99 USD
-- [Fruit & Veggie Cutting Holder](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder): Feature Made from high duty plastic material Creative design / Eco-friendly / non-toxic Quick & easy to use and clean. Specification 100% brand new and high quality Size:( 18.5*8)cm/(7.28*3.15)inch Material: Plastic Color: random delivery How to use Place a tomato into the slicer, simply cut between the gap.
-  Updated: 2026-01-01T18:02:01Z
+    Price: $9.99 USD
+- [Fruit & Veggie Cutting Holder – Safe Kitchen Tool for Slicing](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder): Protect Your Fingers While Cutting Fruits and Vegetables Holds fruits and vegetables securely for safe slicing Protects fingers from knives while cutting Easy to use, clean, and store The Fruit & Veggie Cutting Holder makes slicing fruits and vegetables safe and effortless. Its sturdy prongs hold produce in place, preventing slips and protecting your fingers while cutting. Perfect for home cooks, parents, and anyone who wants a safer kitchen experience, this tool is lightweight, easy to clean, and compatible with most fruits and vegetables. Make food prep faster, safer, and more convenient. 🔥 Key Features Securely holds fruits and vegetables for safe cutting Protects fingers from sharp knives Lightweight, compact, and easy to store Dishwasher-safe and easy to clean Suitable for various fruits and vegetables 📦 What’s Included 1 × Fruit & Veggie Cutting Holder ⚠️ Use with caution. Keep out of reach of children. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:42:44Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5679,13 +5463,13 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder?variant=51805037986073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/395734462282.jpg?v=1767078536
-    Price: $6.99 USD
+    Price: $10.99 USD
   - [Green](https://the-new-age-7647.myshopify.com/products/fruit-veggie-cutting-holder?variant=51805038018841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1579288289096_1466da15-2092-40e1-ace5-4c84d2e30a63.jpg?v=1767078538
-    Price: $6.99 USD
-- [Door Handle Protective Pad Mute Household Anti-collision Silicone Artifact Punch-free](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free): Product information: Specifications: white, gray, black, blue, pink, yellow, green Material: PP food grade material Style: modern simplicity Structure: Standard type Packing list: Door handle protection pad x 1pc Product Image:
-  Updated: 2026-01-01T18:02:00Z
+    Price: $10.99 USD
+- [Door Handle Protective Silicone Pad – Anti-Collision Wall Guard](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free): Protect Your Walls from Dents, Scratches, and Noise Soft silicone absorbs impact from door handles Prevents wall damage, dents, and paint marks Punch-free installation with strong adhesive backing The Door Handle Protective Silicone Pad helps protect your walls from impact damage caused by door handles. Made from soft, durable silicone, it absorbs shock and reduces noise when doors are opened. Easy to install without drilling or tools, this wall guard is perfect for homes, apartments, offices, and rental spaces. A simple, effective solution to keep walls looking clean and damage-free. 🔥 Key Features Soft silicone material for impact absorption Reduces noise and prevents wall damage Punch-free, adhesive installation Transparent or neutral design blends with décor Suitable for doors, cabinets, and handles 📦 What’s Included 1 × Door Handle Protective Silicone Pad ⚠️ Ensure surface is clean and dry before installation. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:41:45Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5693,47 +5477,47 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038117145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c335bc51-691c-490e-97e9-213d08c86730.jpg?v=1767078554
-    Price: $5.25 USD
+    Price: $7.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038149913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d5046d98-3df2-46cd-9ae5-ebef5f4a1d20.jpg?v=1767078557
-    Price: $5.25 USD
+    Price: $7.99 USD
   - [Gray](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038182681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/338b62c9-e410-4290-baad-cda03e215f51.jpg?v=1767078560
-    Price: $5.25 USD
+    Price: $7.99 USD
   - [Green](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038215449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b841d4d0-bcbb-4aed-bd25-330806cccc85.jpg?v=1767078562
-    Price: $5.25 USD
+    Price: $7.99 USD
   - [Pink](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038248217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c385a3ba-b579-4fd9-9cbb-0c5fae896388.jpg?v=1767078565
-    Price: $5.25 USD
+    Price: $7.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038280985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/81606341-9dd1-460f-be01-4efa8db5bbca.jpg?v=1767078567
-    Price: $5.25 USD
+    Price: $7.99 USD
   - [Yellow](https://the-new-age-7647.myshopify.com/products/door-handle-protective-pad-mute-household-anti-collision-silicone-artifact-punch-free?variant=51805038313753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/667c6903-8f82-4b00-8e73-3d0ae6330829.jpg?v=1767078570
-    Price: $5.25 USD
-- [3D Light Acrylic Panel Handwritten Message Board](https://the-new-age-7647.myshopify.com/products/3d-light-acrylic-panel-handwritten-message-board): Product information: Product function: switch button control/USB 5V charging touch switch/USB 5V charging touch switch+remote control switch USB 5V touch switch model: RGB seven color dimming (red/green/blue/yellow/green/purple/white), adjustable fixed one color/adjustable seven color gradient/adjustable seven color fast changing Power input: 85-265V/5V/battery input (DC/3 No. 5 rechargeable batteries or dry batteries Material: Acrylic Boundary dimension: 95 * 40 (mm) Packing list: Base * 1 Acrylic plate * 1 Instructions * 1 USB cable * 1 Marker * 1 Color box * 1
-  Updated: 2026-01-01T18:01:59Z
+    Price: $7.99 USD
+- [3D Acrylic LED Message Board – Light-Up Writing Display](https://the-new-age-7647.myshopify.com/products/3d-light-acrylic-panel-handwritten-message-board): Clear acrylic board lights up your handwritten messages Soft LED glow adds ambiance to any room Perfect for notes, reminders, or creative décor The 3D Acrylic LED Message Board lets you write messages that light up beautifully. Simply write or draw on the clear acrylic surface and turn on the LED base to create a glowing display that stands out. Perfect for desks, bedrooms, dorms, or as a thoughtful gift, this message board is great for reminders, motivational quotes, or creative artwork. Easy to use and fun for all ages. 🔥 Key Features Clear acrylic board with LED light base Displays handwritten notes with a glowing effect Great for reminders, décor, or creative messages Compact design for desks, shelves, or bedside tables Easy to clean and reuse 📦 What’s Included 1 × Acrylic Message Board 1 × LED Light Base 1 × Marker Pen ⚠️ Keep away from water. Clean with a soft cloth only. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:10:28Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/adf80d96-6ab8-4b8e-a9e0-f555f91a2c1a.jpg?v=1767078572
-  Price: $17.99 USD
-- [Computer Desktop Atmosphere Game Rhythm Light](https://the-new-age-7647.myshopify.com/products/computer-desktop-atmosphere-game-rhythm-light): Product information: Product Name: Desktop Ambient Light Working voltage: 5V Working current: 1A Rated power: 5W+0 5W Packing size: 315*110*50mm Lampshade material: PC Dimensions: 315*107*48(mm) Control method: app intelligent control/manual control Packing list: Desktop atmosphere light X2 USB cable, length 1.5m Desktop Ambient Light Manual Base X2
-  Updated: 2026-01-01T18:01:57Z
+  Price: $19.99 USD
+- [Desktop Atmosphere LED Light – Ambient Mood Lamp for Desk & Room](https://the-new-age-7647.myshopify.com/products/computer-desktop-atmosphere-game-rhythm-light): Soft LED lighting enhances desk and room ambiance Ideal for gaming setups, bedrooms, or home offices Compact design fits easily on any desk or shelf The Desktop Atmosphere LED Light adds a warm, modern glow to your workspace or room. Designed to enhance ambiance without overwhelming brightness, it’s perfect for gaming setups, relaxation, or creative environments. Its compact size and stylish design make it easy to place on desks, shelves, or bedside tables. Whether you’re working, gaming, or unwinding, this light helps set the perfect atmosphere. 🔥 Key Features Soft LED lighting for ambient atmosphere Compact, modern design for desks or shelves Enhances gaming setups and room décor Energy-efficient LED technology Easy to use and lightweight 📦 What’s Included 1 × Desktop Atmosphere LED Light Power Cable ⚠️ Keep away from water. Do not cover while in use. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:10:18Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aa5666ae-df4b-4693-b3df-4e6895701758.jpg?v=1767078579
-  Price: $36.99 USD
-- [Mechanical game wired mouse](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse): Type : Gaming Mouse Mouse size: Rat (≥120mm) Connection with computer: Wired Applicable models: desktop Photoelectric resolution: 1600dpi (dpi) Number of buttons: 6 (key) Interface: USB Wireless transmission frequency: 2.4GHz Whether to support ergonomics: support Adjustable resolution: four files Operating distance: 1.2 (m) Working method : Photoelectric Wheel direction: touch wheel Features: Gaming Mouse:, Ergonomics Line length: 1.2 (m)
-  Updated: 2026-01-01T18:01:54Z
+  Price: $38.99 USD
+- [Wired Gaming Mouse – Mechanical Buttons for Precision Control](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse): Fast Response. Solid Control. Built to Win. Mechanical buttons deliver crisp, responsive clicks Wired connection ensures stable, lag-free performance Precise tracking for gaming and everyday use The Wired Gaming Mouse with Mechanical Buttons is designed for players who demand accuracy and reliability. Its mechanical switches provide sharp, tactile feedback for faster response during gaming sessions. With a stable wired connection and ergonomic design, this mouse delivers consistent performance for gaming, streaming, and daily tasks. Built for durability and comfort, it’s a dependable choice for any setup. 🔥 Key Features Mechanical button switches for quick, tactile response Wired connection for stable, low-latency performance Ergonomic design for comfortable long-term use Smooth, accurate sensor for precise tracking Compatible with PCs and laptops 📦 What’s Included 1 × Wired Gaming Mouse User Manual ⚠️ Keep away from liquids. Avoid excessive cable pulling. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:22:16Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -5741,21 +5525,21 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806535942425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7c42d744-d19a-4428-b27a-8cd2cb91d3af.jpg?v=1767078606
-    Price: $11.49 USD
+    Price: $14.99 USD
   - [Blue](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806535975193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/35d07218-1755-42c0-bc74-4898004c511d.jpg?v=1767078609
-    Price: $11.49 USD
+    Price: $14.99 USD
   - [Gray](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806536007961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/8914e34d-2815-4581-bd51-d36592d8f60a.jpg?v=1767078611
-    Price: $11.49 USD
+    Price: $14.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/mechanical-game-wired-mouse?variant=51806536040729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/03a24eb2-1817-4c34-aeee-1691fbc6625e.jpg?v=1767078614
-    Price: $11.49 USD
-- [Wireless Professional Gaming Mouse](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse): Overview： Free shipping 6-key wireless professional gaming mouse colorful Specification： Model: 6-button wireless competitive mouse Colorful S1 Type: Optical mouse Mouse size: ordinary mouse (100-120mm) Applicable models: laptop Optical resolution:. (Dpi) Number of keys: 3.5 (keys) Interface: USB Wireless transmission frequency:. Whether to support ergonomics: support
-  Updated: 2026-01-01T18:01:53Z
+    Price: $14.99 USD
+- [Wireless Gaming Mouse – Precision Performance Without Cables](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse): Fast, Smooth, and Cable-Free Control Wireless freedom for unrestricted movement Smooth and accurate tracking for gaming and work Ergonomic design for long gaming sessions The Wireless Gaming Mouse delivers reliable performance with the freedom of a cable-free setup. Designed for precision and comfort, it offers smooth tracking for gaming, browsing, and everyday use. Its ergonomic shape supports extended play sessions, while the wireless connection keeps your desk clean and clutter-free. Ideal for gamers, students, and home offices looking for performance without wires. 🔥 Key Features Wireless connection for freedom of movement Smooth and responsive sensor for precise control Ergonomic design for comfort during extended use Plug-and-play USB receiver Compatible with PCs and laptops 📦 What’s Included 1 × Wireless Gaming Mouse USB Receiver User Manual ⚠️ Avoid exposure to liquids. Remove batteries if not in use for long periods. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:00:40Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -5763,20 +5547,20 @@ The New Age
   - [Black](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse?variant=51806536171801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/914495886633.jpg?v=1767078630
-    Price: $8.99 USD
+    Price: $12.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/wireless-professional-gaming-mouse?variant=51806536204569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/467327723347_7c825f4d-3189-486f-9635-e417ff9a2b49.jpg?v=1767078632
-    Price: $8.99 USD
-- [Super cool metal keyboard wire mixed light mechanical game keyboard](https://the-new-age-7647.myshopify.com/products/super-cool-metal-keyboard-wire-mixed-light-mechanical-game-keyboard): Super cool metal keyboard wire mixed light mechanical game keyboard
-  Updated: 2026-01-01T18:01:53Z
+    Price: $12.99 USD
+- [Metal Mechanical Gaming Keyboard – RGB Backlit Performance Keyboard](https://the-new-age-7647.myshopify.com/products/super-cool-metal-keyboard-wire-mixed-light-mechanical-game-keyboard): Built Strong. Designed to Perform. Durable metal frame for long-lasting use Mechanical keys deliver fast, responsive feedback RGB backlighting enhances your gaming setup The Metal Mechanical Gaming Keyboard is built for gamers who demand durability and precision. Featuring a sturdy metal frame and responsive mechanical keys, it delivers a satisfying typing and gaming experience session after session. Custom RGB backlighting adds a modern, immersive look to your desk, while the ergonomic layout ensures comfort during extended use. Perfect for gaming, streaming, or everyday productivity. 🔥 Key Features Durable metal frame for enhanced stability Mechanical keys for fast response and tactile feedback RGB backlighting for customizable style Ergonomic design for long gaming or work sessions Compatible with PCs and laptops 📦 What’s Included 1 × Metal Mechanical Gaming Keyboard User Manual ⚠️ Keep away from liquids. Do not bend or strike the keyboard. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:04:14Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/487029983895.jpg?v=1767078636
-  Price: $62.99 USD
-- [Wireless mouse office computer mouse wholesale mouse](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse): Size: 100*60*35mm
-  Updated: 2026-01-01T18:01:52Z
+  Price: $66.99 USD
+- [Wireless Office Mouse – Comfortable & Reliable Computer Mouse](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse): Smooth Control for Work, Study, and Everyday Use Wireless design for a clean, clutter-free workspace Smooth and responsive tracking for daily tasks Comfortable shape for extended use The Wireless Office Mouse is designed for comfort, simplicity, and reliability. Its wireless connection keeps your desk tidy while providing smooth, responsive control for work, browsing, or studying. Lightweight and easy to use, this mouse is ideal for home offices, classrooms, and everyday computer use. Just plug in the USB receiver and get started — no complicated setup required. 🔥 Key Features Wireless connection for easy, clutter-free use Smooth tracking for precise cursor control Ergonomic design for comfortable daily use Plug-and-play setup with USB receiver Compatible with PCs and laptops 📦 What’s Included 1 × Wireless Office Mouse USB Receiver ⚠️ Avoid exposure to liquids. Remove batteries if not in use for extended periods. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:03:19Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -5784,32 +5568,32 @@ The New Age
   - [black](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536499481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/12859759336939.jpg?v=1767078658
-    Price: $7.99 USD
+    Price: $9.99 USD
   - [blue](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536532249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9610162941066.jpg?v=1767078661
-    Price: $7.99 USD
+    Price: $9.99 USD
   - [gray](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536565017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/319423129773.jpg?v=1767078663
-    Price: $7.99 USD
+    Price: $9.99 USD
   - [gules](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536597785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/605101846298.jpg?v=1767078666
-    Price: $7.99 USD
+    Price: $9.99 USD
   - [silvery](https://the-new-age-7647.myshopify.com/products/wireless-mouse-office-computer-mouse-wholesale-mouse?variant=51806536630553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2604313508605.jpg?v=1767078668
-    Price: $7.99 USD
-- [USB Wired Gaming Mouse 5500DPI Adjustable 7 Buttons LED Backlit Professional Gamer Mice Ergonomic Computer Mouse for PC Laptop](https://the-new-age-7647.myshopify.com/products/usb-wired-gaming-mouse-5500dpi-adjustable-7-buttons-led-backlit-professional-gamer-mice-ergonomic-computer-mouse-for-pc-laptop): Product information: Type: Wired mouse Mouse size: rat (≥120mm) Connection with computer: Wired Applicable models: desktop Optical resolution: 2400dpi (dpi) Number of keys: 6 (keys) Interface: USB Wireless transmission frequency: USB transmission Whether to support ergonomics: support Adjustable resolution: six gears Operating distance: 1.5 (m) Working method: photoelectric Wheel direction: four-way wheel Features: Gaming mouse, ergonomics Line length: 1.5 (meters) Product size: 134*84*40MM Product weight: 0.130 (KG) Packing list: Mouse*1
-  Updated: 2026-01-01T18:01:51Z
+    Price: $9.99 USD
+- [LED Gaming Mouse – Wired Mouse with Adjustable DPI](https://the-new-age-7647.myshopify.com/products/usb-wired-gaming-mouse-5500dpi-adjustable-7-buttons-led-backlit-professional-gamer-mice-ergonomic-computer-mouse-for-pc-laptop): Precision Control with Customizable LED Style Adjustable DPI for smooth and precise control LED lighting adds a modern gaming setup look Wired connection ensures stable, lag-free performance The LED Gaming Mouse is built for gamers who want accuracy, speed, and style. With adjustable DPI settings, you can fine-tune sensitivity for gaming, work, or everyday use. Its wired design delivers reliable, lag-free performance, while the LED lighting adds a clean, modern touch to any gaming or workstation setup. Comfortable and responsive, it’s perfect for long gaming sessions or daily tasks. 🔥 Key Features Adjustable DPI for customizable sensitivity Wired connection for stable and consistent performance LED lighting for enhanced gaming aesthetics Ergonomic design for comfortable long-term use Compatible with PCs and laptops 📦 What’s Included 1 × LED Gaming Mouse User Manual ⚠️ Keep away from liquids. Avoid pulling the cable excessively. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:16:25Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2956b545-4b08-4807-9c14-b40ac16869bc.jpg?v=1767078671
-  Price: $10.99 USD
-- [Gaming Mouse Wired Silent Gaming Mechanical Computer Desktop Notebook Office](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office): Product information Mouse Name: Wired Gaming Mouse. Q7 key quantity: 7 buttons (wheel included). V6 key quantity: 6 buttons (wheel included). K1 key quantity: 4 buttons (including the wheel). DPI switch: 1200/1600/2400/3200 DPI adjustable. Key life: 10 million times. Size: 133 * 78 * 40mm. Weight: about 150g. Color: black and white. USB cable length: about 140cm. Respiratory light color: changeable (press “DPI” key and “front” side mouse key to turn on / off backlight) User for: high end gamers and professional gaming gamers for Dota, LOL, CSGO, etc. Warm tips: the "wheel" on the side of the mouse is just a decoration, could not turn. Thank you for your understanding. P acking list mouse*1
-  Updated: 2026-01-01T18:01:50Z
+  Price: $15.99 USD
+- [Quiet Clicks. Smooth Control. Total Focus.](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office): Quiet Clicks. Smooth Control. Total Focus. Silent click buttons reduce noise for gaming or work Wired and wireless options for flexible use Smooth, precise tracking for gaming and everyday tasks The Silent Gaming Mouse delivers smooth performance without the noise. Designed with quiet click technology, it lets you game, work, or study without distractions — perfect for late nights, shared spaces, or offices. Available in wired or wireless versions, this mouse offers reliable control, ergonomic comfort, and responsive tracking. Whether you’re gaming, browsing, or working, it provides a clean and comfortable experience. 🔥 Key Features Silent click design for noise-free use Wired or wireless options available Ergonomic shape for long-term comfort Smooth and accurate sensor for precise control Compatible with PCs and laptops 📦 What’s Included 1 × Silent Gaming Mouse (Wired or Wireless) USB Receiver (wireless version only) User Manual ⚠️ Avoid exposure to liquids. Disconnect when not in use. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:31:48Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -5817,29 +5601,29 @@ The New Age
   - [Electroplating black / Audio version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537023769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890466182.jpg?v=1767078696
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [Electroplating black / Silent version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537056537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890466182.jpg?v=1767078696
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [Star black / Audio version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537089305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465883.jpg?v=1767078698
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [Star black / Silent version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537122073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465883.jpg?v=1767078698
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [White / Audio version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537154841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465891.jpg?v=1767078701
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [White / Silent version](https://the-new-age-7647.myshopify.com/products/gaming-mouse-wired-silent-gaming-mechanical-computer-desktop-notebook-office?variant=51806537187609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1620890465891.jpg?v=1767078701
-    Price: $13.99 USD
-- [Gaming mouse pad](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad): Wireless models: Thickness: 4mm Length: 800mm Material: Jiaji cloth + rubber Width: 300mm Power: 10W Type: wristband mouse pad Material: rubber Size: 800*300*5 (mm) Details: Lighting design in all four sides of the mouse pad, perfectly match with your mouse and LED keyboards, highlight the atmosphere and put you in a colorful world. Designed with a superfine fiber braided material, with a micro-textured and smooth surface, precise navigation and optimize your gaming experience. The size of 300x250x3mm will fit perfectly in your office and will offer a perfect movement space. Powered by USB, plug and play, no drivers needed, and a one-touch control designed to switch bright colors and turn off, very convenient to use. Rubber bottom with matt design, good anti-slip effect, which means it can be placed on the desktop firmly, applies to all types of keyboards and mice. Lighting mode: 1. red 2. Green 3. blue 4. violet 5. Cyan 6. yellow 7. white 8. Automatically switch to the color order above 9. fast flash colorful color 10. colored flash 11. Disable the backlight How to use: To switch off simply hold down the button a few seconds down; to change colors and lighting modes, press once; to change the brightness twice quickly, press Specification: Power: about 0.75 W Power: 5 V Size: 300x250x3mm / 780x300x4mm / 800x300x4mm / 900x400x4mm Note: Due to manual measurement, there may be small discrepancies.
-  Updated: 2026-01-01T18:01:49Z
+    Price: $16.99 USD
+- [RGB Light-Up Gaming Mouse Pad – LED Desk Mat for Gaming & Work](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad): Upgrade Your Desk with Smooth Control & RGB Glow LED edge lighting adds a clean, modern gaming setup look Smooth surface for precise mouse tracking Large size supports mouse and keyboard placement The Light Up Gaming Mouse Pad enhances your gaming and work experience with a smooth tracking surface and vibrant LED edge lighting. Designed for precision and comfort, it provides consistent mouse control for gaming, editing, or everyday use. Its large, durable surface fits both your mouse and keyboard, while the RGB lighting adds a stylish touch to any desk setup. Perfect for gamers, streamers, and home offices looking to upgrade their workspace. 🔥 Key Features RGB LED edge lighting for a modern gaming aesthetic Smooth, low-friction surface for accurate tracking Large desk mat design for mouse and keyboard Non-slip rubber base for stability USB powered for easy setup 📦 What’s Included 1 × RGB Light-Up Gaming Mouse Pad USB Power Cable ⚠️ Keep away from liquids. Do not bend excessively. Unplug when not in use. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:35:46Z
   Vendor: The New Age
   Product Type: Computer
   Availability: Available
@@ -5847,29 +5631,29 @@ The New Age
   - [A / 800×300×4mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808544981273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/488756616348_fba6c04e-6c18-4572-8e89-4cd224456de9.jpg?v=1767078708
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [B / 350×250×3mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545014041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1539680550901.jpg?v=1767078711
-    Price: $19.99 USD
+    Price: $24.99 USD
   - [C / 800×300×4mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545046809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/617658788496.jpg?v=1767078714
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [D / 900×400mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545079577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/25436557970429.jpg?v=1767078716
-    Price: $39.99 USD
+    Price: $43.99 USD
   - [E / 350X250mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545112345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/526133967547.jpg?v=1767078719
-    Price: $19.99 USD
+    Price: $23.99 USD
   - [Wireless black / 800X300mm](https://the-new-age-7647.myshopify.com/products/gaming-mouse-pad?variant=51808545145113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2305901713177.jpg?v=1767078722
-    Price: $39.99 USD
-- [Mini Power Bank  Mirror Digital Display Power Bank](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank): Overview: Unique design, stylish and beautiful. Good material, comfortable use. A variety of colors, any choice. Product information: Product volume: 20.5 cm * 13.5 cm * 3.5 cm Battery type: liquid lithium ion battery Applicable type: universal type Battery type: cylindrical aluminum shell Shell material: plastic Additional features: multi-U output Color: black, blue, red Power capacity: 10000 mAh Size: Package Content: Power Bank * 1 Product Image:
-  Updated: 2026-01-01T18:01:47Z
+    Price: $43.99 USD
+- [Mini Power Bank with Mirror Display – Portable Charger for Phones & Devices](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank): Stay Charged Anywhere with a Sleek Mirror Display Portable power bank for charging phones, tablets, and other devices Mirror display shows battery level for easy monitoring Compact and lightweight, perfect for travel or everyday carry The Mini Power Bank with Mirror Display combines functionality with style. Its mirror display clearly shows the remaining battery, while the compact design makes it easy to carry in a bag or pocket. Perfect for travel, commuting, or emergency use, this power bank ensures your devices stay powered wherever you go. Durable and convenient, it’s a must-have accessory for anyone on the move. 🔥 Key Features Mirror display shows real-time battery level Compatible with phones, tablets, and USB devices Compact, lightweight, and portable Durable design for everyday use Ideal for travel, work, school, or emergency charging 📦 What’s Included 1 × Mini Power Bank with Mirror Display USB Charging Cable User Manual ⚠️ Avoid exposure to extreme heat or moisture. Use  charging cables only. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T10:05:40Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -5877,29 +5661,29 @@ The New Age
   - [Black / 20000mAh](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank?variant=51814786793753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/390287602164.jpg?v=1767121336
-    Price: $11.99 USD
+    Price: $14.99 USD
   - [Blue / 20000mAh](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank?variant=51814786826521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/aa6c54ac-5b55-4e29-9615-fe0b7b773295.jpg?v=1767121336
-    Price: $13.99 USD
+    Price: $16.99 USD
   - [Red / 10000 mAh](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank?variant=51814786859289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4965947482498.jpg?v=1767121337
-    Price: $10.99 USD
+    Price: $14.99 USD
   - [Red / 20000mAh](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank?variant=51814786892057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4965947482498.jpg?v=1767121337
-    Price: $11.99 USD
+    Price: $17.99 USD
   - [black / 10000 mAh](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank?variant=51814786924825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4436401979880.jpg?v=1767121336
-    Price: $11.99 USD
+    Price: $14.99 USD
   - [blue / 10000 mAh](https://the-new-age-7647.myshopify.com/products/mini-power-bank-20000-mah-portable-mirror-digital-display-power-bank?variant=51814786957593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1904942687065.jpg?v=1767121336
-    Price: $12.99 USD
-- [Solar Powered Battery Bank](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge): Note：Non-Apple branded products,Compatible with iPhone models Overview: Solar panel, you can recharge the battery itself under sunlight for emergency purpose while outdoor Waterproof rating IP67 can help to protect against water, however can’t soak into the water. It can be a great choice for outdoor activities WITH dual USB ports, you can charge phones, pads, or other small electronic devices simultaneously Material: Solar panel, ABS plastic cover, silicone frame LED light, works perfectly in darkness, especially for emergency SOS distress signal to help other people find you Compass, help to find direction The battery has passed the MSDS ( Material Safety Data Sheet ) Specification: Battery type: Li-polymer battery Product model: camping light solar mobile power Product material: plastic shell Dimensions: 138*76*19 Color classification: black + blue, black + yellow, black + red, black + green Applicable type: Universal type, three anti-mobile power The light shows: the first indicator is the solar charging indicator, and the remaining 4 are the battery indicator. Battery capacity: 2 606090 polymer 8000 mAh battery PCBA board: 9 LED lights with table lamp illumination Input: MIRCO input interface Output: 5v/1A, 5V/2.1A, and 5v/1A, 5V/1A Note: Even in a perfect laboratory condition, The efficiency of energy transformation from solar to electric energy is really low. When it used in outdoor, it also affected by the weather, the location or other factors. So the solar panel is not good as the first choice to recharge We suggest you recharge it via wall charger at the beginning to make the power battery fully activated. Packing included: 1 x Power Bank, 1 x USB Charging Cable, 1 x compass
-  Updated: 2026-01-01T23:38:43Z
+    Price: $15.99 USD
+- [Solar Powered Battery Bank – Portable Charger for Phones & Devices](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge): Charge Anywhere, Anytime with Solar Convenience Solar-powered backup for on-the-go charging Compatible with phones, tablets, and USB devices Compact, lightweight, and portable for travel, outdoor, or emergency use The Solar Powered Battery Bank keeps your devices charged wherever you are. With solar charging capabilities and a USB output, this portable power bank ensures your phone, tablet, or gadgets stay powered during travel, outdoor adventures, or emergencies. Lightweight and compact, it’s perfect for camping, hiking, road trips, or everyday carry. Durable design and easy-to-use interface make it a reliable companion for staying connected wherever life takes you. 🔥 Key Features Solar-powered and USB rechargeable for versatile charging Portable and lightweight for travel and outdoor use Compatible with most phones, tablets, and USB-powered devices Durable design for everyday and adventure use Ideal for emergencies, camping, hiking, and outdoor activities 📦 What’s Included 1 × Solar Powered Battery Bank USB Charging Cable User Manual ⚠️ Avoid exposure to extreme heat. Keep away from water when charging via solar panel. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T09:32:22Z
   Vendor: The New Age
   Product Type: Electronics
   Availability: Available
@@ -5907,45 +5691,45 @@ The New Age
   - [Black / 4000mah](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801113369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1468505564737.jpg?v=1767122099
-    Price: $14.99 USD
+    Price: $18.99 USD
   - [Black / 8000mAh 2a](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801146137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1468505564737.jpg?v=1767122099
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [Blue / 4000mah](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801178905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2434359047217.jpg?v=1767122229
-    Price: $15.99 USD
+    Price: $19.99 USD
   - [Blue / 8000mAh 2a](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801211673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2434359047217.jpg?v=1767122229
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [Green / 4000mah](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801244441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1629442118019.jpg?v=1767122099
-    Price: $15.99 USD
+    Price: $19.99 USD
   - [Green / 8000mAh 2a](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801277209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1629442118019.jpg?v=1767122099
-    Price: $16.99 USD
+    Price: $20.99 USD
   - [Red / 4000mah](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801309977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4628147958889.jpg?v=1767122099
-    Price: $15.99 USD
+    Price: $19.99 USD
   - [Red / 8000mAh 2a](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801342745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4628147958889.jpg?v=1767122099
-    Price: $17.99 USD
+    Price: $20.99 USD
   - [Yellow / 4000mah](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801375513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3162690569728.jpg?v=1767122099
-    Price: $16.99 USD
+    Price: $19.99 USD
   - [Yellow / 8000mAh 2a](https://the-new-age-7647.myshopify.com/products/compatible-withapple-outdoor-solar-power-bank-battery-foriphone-charge?variant=51814801408281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3162690569728.jpg?v=1767122099
-    Price: $16.99 USD
-- [Mini 2‑in‑1 Portable Heat Sealer & Bag Opener – Food Freshness Tool](https://the-new-age-7647.myshopify.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer): Stop throwing away stale snacks.Seal bags in seconds and keep food fresh longer — perfect for busy households. If you’re tired of: Chips going stale overnight Half-used snacks cluttering your pantry Wasting food (and money) every week This simple tool fixes that in seconds. The Mini 2-in-1 Heat Sealer & Bag Opener lets you reseal plastic bags instantly — no clips, no bulky machines, no mess. Just press, slide, and seal. ✅ Why Families Love It ✔ Keeps snacks fresh longer✔ Helps reduce food waste✔ Saves money over time✔ Small, lightweight, and easy to store✔ Safe and simple to use✔ Great for chips, cereal bags, frozen foods & more This is one of those tools you don’t realize you need — until you use it once. 1️⃣ Open the bag using the built-in cutter2️⃣ Press the sealer along the edge3️⃣ Bag sealed in seconds — done No cords. No complicated setup. In busy households, snacks don’t last long. This tool helps keep food fresh between school, sports, and daily chaos — without extra containers or wasted leftovers. It’s small, practical, and actually gets used. 📦 What’s Included 1 × Mini 2-in-1 Heat Sealer & Bag Opener Ready to use out of the box ⚠️ Important Notes (Reduces Refunds) Designed for plastic snack and food bags Not intended for thick foil or paper packaging Press firmly for best seal Small tool. Big difference.Add one to your kitchen and start saving snacks — and money — today. 👉 Add to Cart Product Image:
-  Updated: 2026-01-01T23:59:45Z
+    Price: $20.99 USD
+- [Mini 2‑in‑1 Portable Heat Sealer & Bag Opener – Keep Food Fresh](https://the-new-age-7647.myshopify.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer): Seal, Open, and Preserve Your Food with Ease Quickly seals plastic bags to keep food fresh longer Opens bags effortlessly without tearing Compact, lightweight, and portable for kitchen or travel The Mini 2‑in‑1 Portable Heat Sealer & Bag Opener is a versatile tool that keeps your food fresh while making storage easy. Use the heat sealer to lock in freshness, or switch to bag opener mode for smooth, effortless opening of any package. Lightweight and portable, it’s perfect for kitchens, pantries, camping trips, or small food businesses. Durable and easy to use, this gadget simplifies your food storage routine. 🔥 Key Features 2-in-1 functionality: heat sealing and bag opening Compact and portable for kitchen or travel use Easy to operate, safe, and durable Maintains food freshness and prevents spillage Lightweight and convenient to store 📦 What’s Included 1 × Mini 2‑in‑1 Heat Sealer & Bag Opener User Manual ⚠️ Keep away from children. Avoid direct contact with heated surfaces. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T09:05:32Z
   Vendor: The New Age
   Product Type: Kitchen
   Availability: Available
@@ -5953,13 +5737,13 @@ The New Age
   - [Blue](https://the-new-age-7647.myshopify.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer?variant=51819311661337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3fce1ccd-f7a0-45b7-8d96-f1e074c83eed_trans.jpg?v=1767244023
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [White](https://the-new-age-7647.myshopify.com/products/mini-2-in-1-sealer-heat-sealer-bag-opening-machine-for-snacks-home-usb-sealer-vacuum-sealer-snacks-plastic-bag-heat-sealer?variant=51819311694105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/44a7fbf4-2139-45aa-9210-1dba9366b521_trans.jpg?v=1767244023
-    Price: $7.99 USD
-- [Sunset Rainbow Projection Lamp](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp): Product information: Light color: color sunset light (ABS material), color sunset light (aluminum alloy material), monochrome sunset light (ABS material), Sunset red sunset light (ABS material), purple blue sunset light (ABS material), color sunset light (280mm length), Sunset Yellow sunset light (280mm length), Sunset red sunset light (280mm length), purple blue light-sunset light (280mm length), Moonlight-sunset light (ABS material), rainbow color-sunset light (ABS material), Magic color-sunset light (ABS material) Voltage: 5 Work clothes size: 185 Style: Retro Packing list: Ambience light x1pc Product Image:
-  Updated: 2026-01-02T00:00:13Z
+    Price: $13.99 USD
+- [Sunset Rainbow Projection Lamp – Mood & Ambient Lighting for Home](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp): Transform Any Room with Stunning Rainbow Lights Projects a colorful sunset rainbow effect on walls or ceilings Perfect for bedrooms, living rooms, or creative spaces Adjustable lighting for cozy, romantic, or playful moods The Sunset Rainbow Projection Lamp creates a warm, colorful ambiance anywhere in your home. Project a beautiful rainbow sunset on walls or ceilings to set the mood for relaxing, gaming, or creative activities. Compact and stylish, this lamp is perfect for bedrooms, living rooms, parties, or as a unique décor piece. Adjustable brightness and rotation settings let you customize the atmosphere to your preference. 🔥 Key Features Projects a vivid sunset rainbow light display Adjustable brightness and rotation for customizable ambiance Compact and stylish design fits any room Ideal for relaxation, photography, or aesthetic décor USB powered for convenience 📦 What’s Included 1 × Sunset Rainbow Projection Lamp USB Power Cable User Manual ⚠️ Keep away from water and flammable materials. Do not cover while in use. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-06T09:38:33Z
   Vendor: The New Age
   Product Type: Lights
   Availability: Available
@@ -5967,106 +5751,250 @@ The New Age
   - [Colorful 280mm Length](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527073049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/497350b8-986e-4be5-a602-217dc523c885_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Colorful AB Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527105817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/08e3c55c-6889-41ac-a2d9-89d36ede6e24_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Colorful ABS Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527138585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/862ba400-bd8a-4d41-a213-9e089d24e752_trans.jpg?v=1767311915
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Colorful Aluminum Alloy](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527171353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f84b4b1b-ea06-4cf6-8ff5-dc2612c15e1c_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $14.99 USD
   - [Monochrome ABS Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527204121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a319e533-a6f4-4c21-8c3e-ab41f9f3af48_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Moon ABS Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527236889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fd060dbb-c464-4555-926b-d2d6f8595439_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Purple Blue Light 280mm Length](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527269657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1233eef4-03fe-4d30-b192-ee4a61cf2f70_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Purple Blue Light ABS Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527302425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/68809ad3-4d40-4df1-a588-31829def931d_trans.jpg?v=1767311915
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Rainbow ABS Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527335193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/d3c46743-5adb-4b23-88b1-8461104f97ce_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Sunset Red 280mm Long](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527367961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/fc7174bd-781e-4c46-a9e8-156b7f1e6e6f_trans.jpg?v=1767311914
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Sunset Red ABS Material](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527400729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b32790ea-d067-4b05-9538-e1cdd18790a1_trans.jpg?v=1767311915
-    Price: $7.99 USD
+    Price: $13.99 USD
   - [Sunset Yellow 280mm Length](https://the-new-age-7647.myshopify.com/products/sunset-rainbow-projection-lamp?variant=51821527433497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/bea08455-1d72-44b8-9887-1be70a90de4b.jpg?v=1767311914
+    Price: $13.99 USD
+- [Couch & Sofa Armrest Organizer – Multi-Pocket Storage for Remote, Phone, & More](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa): The Couch/Sofa Armrest Organizer helps keep your living space tidy while keeping essentials within reach. With multiple pockets, you can store remote controls, phones, glasses, magazines, and more, making your lounging time more convenient. Made from durable, easy-to-clean fabric, this organizer fits most couches and sofas. Ideal for living rooms, home theaters, or any seating area, it’s a practical solution for keeping clutter under control while enjoying comfort. 🔥 Key Features Multiple storage pockets for organization Fits most armrests for universal use Durable, lightweight, and easy to clean Perfect for living rooms, bedrooms, or home theaters Keeps essentials within easy reach 📦 What’s Included 1 × Couch/Sofa Armrest Organizer ⚠️ Keep away from sharp objects. Ensure proper fit on sofa armrest. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns Free Shipping on Orders of 30+
+  Updated: 2026-01-06T09:30:58Z
+  Vendor: The New Age
+  Product Type: House
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/753296297016.jpg?v=1767375995
+  - [Beige](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916581145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/04e734ac-b166-4022-8f78-273951081f9d.jpg?v=1767375356
+    Price: $16.99 USD
+  - [Beige 2pcs](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916613913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/3a138d5b-4afc-4d5d-b098-b9eaf60a37f5.jpg?v=1767375356
+    Price: $25.99 USD
+  - [Black](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916646681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/753296297016_5bd578cb-f084-4e53-8249-711f446c302b.jpg?v=1767376110
+    Price: $16.99 USD
+  - [Black 2pcs](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916679449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c8eb1e91-655e-444a-8f95-9905f120b292.jpg?v=1767375356
+    Price: $25.99 USD
+  - [Brown](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916712217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/c27c449a-1ee8-4f4c-8376-c5204d5f041c.jpg?v=1767375356
+    Price: $16.99 USD
+  - [Brown 2pcs](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916744985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/909f8a49-94e6-4d2e-895e-32f78f1fea97.jpg?v=1767375356
+    Price: $25.99 USD
+  - [Grey](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916777753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2c070d50-50b3-4f2d-a34c-01f6f69899c5.jpg?v=1767375356
+    Price: $16.99 USD
+  - [Grey 2pcs](https://the-new-age-7647.myshopify.com/products/handrail-couch-armrest-arm-rest-organizer-remote-control-holder-bag-on-tv-sofa?variant=51823916810521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f7c795b7-e8af-480e-87e2-ff195fb4ab0c.jpg?v=1767375357
+    Price: $25.99 USD
+- [Automatic Stainless Steel Potato Peeler – Quick & Easy Peeling](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool): Discover the automatic stainless steel potato peeler for quick, effortless peeling. Perfect for busy kitchens, it makes meal prep faster and more efficient. Buy now!
+  Updated: 2026-01-07T15:15:04Z
+  Vendor: The New Age
+  Product Type: Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/14ee680c-2329-4729-90b1-b78fa4d9d5ae.jpg?v=1767798904
+  - [Black / AU](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009445657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/105f4975-fc7c-4f47-a183-be94052ea30e.jpg?v=1767798904
+    Price: $49.99 USD
+  - [Black / EU](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009478425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/105f4975-fc7c-4f47-a183-be94052ea30e.jpg?v=1767798904
+    Price: $49.99 USD
+  - [Black / UK](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009511193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/105f4975-fc7c-4f47-a183-be94052ea30e.jpg?v=1767798904
+    Price: $49.99 USD
+  - [Black / US](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009543961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/105f4975-fc7c-4f47-a183-be94052ea30e.jpg?v=1767798904
+    Price: $49.99 USD
+  - [White / AU](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009576729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a8e037b4-000e-4d2d-92de-1c721dbf70d1.jpg?v=1767798903
+    Price: $49.99 USD
+  - [White / EU](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009609497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a8e037b4-000e-4d2d-92de-1c721dbf70d1.jpg?v=1767798903
+    Price: $49.99 USD
+  - [White / UK](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009642265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a8e037b4-000e-4d2d-92de-1c721dbf70d1.jpg?v=1767798903
+    Price: $49.99 USD
+  - [White / US](https://the-new-age-7647.myshopify.com/products/kitchen-electric-potato-peeler-stainless-steel-automatic-rotating-fruits-potato-peeler-vegetables-cutter-peeling-tool?variant=51824009675033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a8e037b4-000e-4d2d-92de-1c721dbf70d1.jpg?v=1767798903
+    Price: $49.99 USD
+- [Portable Air Cooler Fan – Water Cooling for Room, Office & Car](https://the-new-age-7647.myshopify.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Stay cool with this portable air cooler fan, using water-based cooling. Perfect for small spaces like rooms, offices, desks, and vehicles.
+  Updated: 2026-01-08T16:15:46Z
+  Vendor: The New Age
+  Product Type: House
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/99b2d768-e458-4458-906d-a74a09504178_fine.jpg?v=1767844517
+  - [Ivory White / Digital display L8](https://the-new-age-7647.myshopify.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars?variant=51837646799129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/7c540b1c-2fad-484f-b0c0-a29b60548052.jpg?v=1767844546
+    Price: $39.99 USD
+  - [Ivory White / L7 Humidifying Air Cooler](https://the-new-age-7647.myshopify.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars?variant=51837646831897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/b08e3a55-0f55-442b-8355-85b43df714d4.jpg?v=1767844517
+    Price: $39.99 USD
+- [Magic Shadow USB Air Humidifier – Projection Night Light Mist Maker](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier): Relaxing Mist with a Mesmerizing Light Effect Ultrasonic mist helps add moisture to dry air Projection night light creates a calming atmosphere USB powered for home, office, or car use Compact and quiet for everyday comfort The Magic Shadow USB Air Humidifier combines soothing mist with a beautiful projection night light to enhance your space. Designed to improve comfort while creating a relaxing ambiance, it’s perfect for bedrooms, offices, cars, or small living spaces. Using ultrasonic mist technology, this compact humidifier operates quietly and efficiently. The built-in projection light adds a soft glow, making it ideal for nighttime relaxation, workspaces, or decorative use. 🔥 Key Features Ultrasonic mist for gentle air moisture Projection night light for calming visuals USB powered for easy portability Quiet operation for sleep or work Compact, lightweight, and easy to place anywhere 📦 What’s Included 1 × Magic Shadow USB Air Humidifier USB Power Cable User Manual ⚠️ Not a  device or air purifier.⚠️ Use with clean water only. Do not overfill. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-08T16:17:34Z
+  Vendor: The New Age
+  Product Type: House
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2467201988762.jpg?v=1767845672
+  - [Blue / USB](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier?variant=51837647847705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/4891069651112.jpg?v=1767845797
+    Price: $29.99 USD
+  - [Cotton swab / 10pc](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier?variant=51837647880473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/9e678587-50ac-4aae-acf0-b87b7929d4b6.jpg?v=1767843916
+    Price: $14.99 USD
+  - [Cotton swab / 1pc](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier?variant=51837647913241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/13c1521b-9353-47a7-96a0-9611b34695ea.jpg?v=1767843916
     Price: $7.99 USD
-[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIzMjI3NDQ4NTUyOSwibGFzdF92YWx1ZSI6IjEwMjMyMjc0NDg1NTI5In0=)
+  - [Dark blue / USB](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier?variant=51837647946009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/200387297490.jpg?v=1767845863
+    Price: $29.99 USD
+  - [Pink / USB](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier?variant=51837647978777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/2801146276333.jpg?v=1767845877
+    Price: $29.99 USD
+  - [White / USB](https://the-new-age-7647.myshopify.com/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier?variant=51837648011545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/1464471534447.jpg?v=1767845911
+    Price: $29.99 USD
+- [Electric Water Bottle Dispenser – Rechargeable Automatic Desk Pump](https://the-new-age-7647.myshopify.com/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser): One-Touch Clean Water Dispensing Automatic one-button water dispensing Rechargeable and cordless for easy use Fits most standard water bottles and gallons Compact design for desks, kitchens, or offices The Electric Water Bottle Dispenser makes drinking water easier and cleaner with simple one-touch operation. Designed to sit conveniently on desks, countertops, or bottle tops, it delivers smooth, controlled water flow without lifting heavy bottles. Perfect for home, office, dorms, or travel, this rechargeable dispenser is lightweight, portable, and easy to use. Stay hydrated effortlessly with a modern solution for everyday water dispensing. 🔥 Key Features Automatic one-touch dispensing Rechargeable battery for cordless use Compatible with most standard water bottles and gallons Compact and portable design Easy to install and remove 📦 What’s Included 1 × Electric Water Bottle Dispenser USB Charging Cable Food-grade Water Tube User Manual ⚠️ Use with clean drinking water only.⚠️ Fully charge before first use for best performance. 🔒 Secure checkout • 🚚 Fast shipping • ↩️ 30-day returns FREE SHIPPING on ORDERS $30 or more!
+  Updated: 2026-01-08T16:18:16Z
+  Vendor: The New Age
+  Product Type: House
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/f036ac17-42b4-4060-b84e-d5b2ec3ff4ac.jpg?v=1767846188
+  - [Blue with gravity / USB](https://the-new-age-7647.myshopify.com/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser?variant=51837648568601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/cc0f1b75-c71e-402a-a760-84b83b94079c.jpg?v=1767846309
+    Price: $39.99 USD
+  - [Blue / USB](https://the-new-age-7647.myshopify.com/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser?variant=51837648601369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/dfa5e131-8233-4cc6-be9a-134ca37480e0.jpg?v=1767843994
+    Price: $39.99 USD
+  - [White / USB](https://the-new-age-7647.myshopify.com/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser?variant=51837648634137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0978/1791/9769/files/a64e1649-3529-41b5-9ea4-c976cec60245_e210a5e4-4f0e-46eb-9b7d-fe1f45064885.jpg?v=1767843993
+    Price: $39.99 USD
+[List Continued](https://the-new-age-7647.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDIzNTMwODA0ODY2NSwibGFzdF92YWx1ZSI6IjEwMjM1MzA4MDQ4NjY1In0=)
 
 ## Collections
 
 - [Discover Top Phone Accessories for Your Mobile Devices | Shop Now](https://the-new-age-7647.myshopify.com/collections/phone-accessories): Explore our wide range of Phone Accessories to enhance and protect your device. Shop high-quality Phone Accessories today for style and functionality.
-  Updated: 2026-01-01T23:38:45Z
+  Updated: 2026-01-06T16:35:10Z
   Total Products: 9
 - [Pet Accessories Collection - Stylish & Durable Accessories for Your Pets](https://the-new-age-7647.myshopify.com/collections/pet-accessories): Discover our Pet Accessories collection featuring stylish, durable pet accessories perfect for your furry friends. Shop now for quality Pet Accessories that suit every pet's style.
-  Updated: 2025-12-31T19:25:28Z
+  Updated: 2026-01-06T06:49:20Z
   Total Products: 14
 - [Explore Top Fitness Gear & Accessories - Enhance Your Fitness Journey](https://the-new-age-7647.myshopify.com/collections/fitness): Discover the best fitness equipment and accessories in our Fitness collection. Get motivated and achieve your health goals with our top-quality fitness products.
-  Updated: 2025-12-27T06:07:44Z
+  Updated: 2026-01-06T18:14:58Z
   Total Products: 14
 - [Explore Top Toys & Hobbies for All Ages | Wide Selection & Great Deals](https://the-new-age-7647.myshopify.com/collections/toys-hobbies): Discover the best Toys & Hobbies collection with a wide selection for all ages. Shop now for exciting toys, hobbies, and gifts at unbeatable prices.
-  Updated: 2025-12-29T23:21:02Z
+  Updated: 2026-01-06T17:52:32Z
   Total Products: 8
 - [Shop High-Quality Computer Accessories | Enhance Your Workspace](https://the-new-age-7647.myshopify.com/collections/computer-accessories): Discover our premium collection of Computer Accessories to boost productivity and efficiency. Shop now for high-quality peripherals and tech essentials.
-  Updated: 2025-12-28T17:01:51Z
+  Updated: 2026-01-06T16:17:52Z
   Total Products: 12
 - [Lights & Home Security Collection | Enhance Your Home Safety & Design](https://the-new-age-7647.myshopify.com/collections/lights-home-security): Discover our Lights & Home Security collection to upgrade your home’s safety and ambiance. Find the perfect lighting and security solutions today.
-  Updated: 2026-01-01T23:58:37Z
+  Updated: 2026-01-06T14:57:27Z
   Total Products: 8
 - [Shop Premium Bedding Collection | Comfortable & Stylish Bedding Items](https://the-new-age-7647.myshopify.com/collections/bedding): Explore our Bedding collection for high-quality, comfortable, and stylish bedding. Perfect for a cozy home upgrade, featuring the best Bedding options.
-  Updated: 2025-12-27T06:07:44Z
+  Updated: 2026-01-05T19:48:47Z
   Total Products: 5
 - [Jewelry Collection | Unique and Elegant Jewelry Pieces for Every Occasion](https://the-new-age-7647.myshopify.com/collections/jewelry): Explore our exclusive jewelry collection featuring stunning, high-quality jewelry. Find the perfect jewelry piece to elevate your style today.
-  Updated: 2025-12-29T22:54:25Z
+  Updated: 2026-01-06T06:25:20Z
   Total Products: 9
 - [Shop Trendy Apparel Collection for Men and Women - Best Prices](https://the-new-age-7647.myshopify.com/collections/apparel): Explore our Apparel collection for stylish men and women. Find the latest trends and quality clothing at unbeatable prices. Shop now for your perfect Apparel!
-  Updated: 2025-12-25T06:22:35Z
-  Total Products: 1
+  Updated: 2026-01-05T05:27:09Z
+  Total Products: 0
 - [Boys Shirts](https://the-new-age-7647.myshopify.com/collections/boys-shirts)
-  Updated: 2025-12-27T06:07:45Z
+  Updated: 2026-01-03T20:24:57Z
   Total Products: 12
 - [Girls Shirts](https://the-new-age-7647.myshopify.com/collections/girls-shirts)
-  Updated: 2025-12-27T06:07:45Z
+  Updated: 2026-01-02T07:57:24Z
   Total Products: 13
-- [Best Sellers](https://the-new-age-7647.myshopify.com/collections/best-sellers)
-  Updated: 2025-12-29T23:19:12Z
-  Total Products: 8
 - [Kitchen Accessories](https://the-new-age-7647.myshopify.com/collections/kitchen-accessories)
-  Updated: 2026-01-01T18:01:44Z
-  Total Products: 6
+  Updated: 2026-01-08T16:13:48Z
+  Total Products: 7
 - [Skin Care](https://the-new-age-7647.myshopify.com/collections/skin-care)
   Updated: 2025-12-27T04:03:22Z
   Total Products: 0
-- [Fast Seller](https://the-new-age-7647.myshopify.com/collections/fast-seller)
-  Updated: 2026-01-01T18:01:44Z
-  Total Products: 2
+- [Featured Items](https://the-new-age-7647.myshopify.com/collections/fast-seller): Everyday products that make life easier — chosen for quality and value.
+  Updated: 2026-01-08T15:53:19Z
+  Total Products: 16
 - [AVADA - Best Sellers](https://the-new-age-7647.myshopify.com/collections/avada-best-sellers)
-  Updated: 2026-01-01T23:58:50Z
-  Total Products: 119
+  Updated: 2026-01-08T04:22:47Z
+  Total Products: 122
 - [APPPlaza Best Sellers | Top Trending Apps and Accessories](https://the-new-age-7647.myshopify.com/collections/appplaza-best-sellers): Discover top trending apps and accessories at APPPlaza. Explore our best sellers collection for must-have products and elevate your digital experience today.
-  Updated: 2026-01-01T23:58:50Z
-  Total Products: 119
+  Updated: 2026-01-08T04:22:47Z
+  Total Products: 122
+- [House Accessories](https://the-new-age-7647.myshopify.com/collections/house-accessories)
+  Updated: 2026-01-08T16:13:29Z
+  Total Products: 4
+- [Shop](https://the-new-age-7647.myshopify.com/collections/shop)
+  Updated: 2026-01-08T16:19:33Z
+  Total Products: 122
+- [Everyday Essentials](https://the-new-age-7647.myshopify.com/collections/everyday-essentials)
+  Updated: 2026-01-08T16:18:33Z
+  Total Products: 17
 
 ## Blogs
 
@@ -6085,8 +6013,8 @@ The New Age
 
 ## Store Pages
 
-- [Contact](https://the-new-age-7647.myshopify.com/pages/contact): 
-  Updated: 2025-12-24T19:22:10Z
+- [Contact Us](https://the-new-age-7647.myshopify.com/pages/contact): 
+  Updated: 2026-01-04T06:38:24Z
 - [Your privacy choices](https://the-new-age-7647.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-10T18:05:08Z
 - [Terms of Service](https://the-new-age-7647.myshopify.com/pages/terms-of-service)
