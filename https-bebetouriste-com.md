@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-01-02T01:16:56.481Z
+- Updated At: 2026-01-10T00:00:29.595Z
 
 ## Products
 
@@ -2436,7 +2436,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/porte-bebe-leopard-marron.jpg?v=1757379857
     Price: 42,50 € EUR
 - [GRAND PORTE BEBE - BreathBabyBag™ - Quatre Saisons](https://bebetouriste.com/products/grand-porte-bebe-breathbabybag-quatre-saisons): 👶 Découvrez notre grand porte bébé quatre saisons ! Un seul porteur toute l'année, 4 positions, jusqu'à 20kg. Simplifiez votre parentalité dès maintenant !
-  Updated: 2025-12-20T00:29:15Z
+  Updated: 2026-01-03T17:10:05Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2606,7 +2606,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-elephants-bleu-dimensions.jpg?v=1757538541
     Price: 28,00 € EUR
-- [CALE TÊTE POUR SIÈGE AUTO BEBE  | DodoSécure™](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-dodosecure): 🚗 Fini la tête qui bascule! Notre cale tête pour siège auto maintient bébé confortablement endormi. Voyagez sereinement avec ce support sécurisé et universel.
+- [CALE TÊTE POUR SIÈGE AUTO BEBE  | DodoSé™](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-dodosecure): 🚗 Fini la tête qui bascule! Notre cale tête pour siège auto maintient bébé confortablement endormi. Voyagez sereinement avec ce support sécurisé et universel.
   Updated: 2025-12-14T16:43:15Z
   Vendor: mutualdropshopping
   Product Type: mutual
@@ -5185,24 +5185,330 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu-etoile.jpg?v=1767069135
     Price: 44,50 € EUR
-[List Continued](https://bebetouriste.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTMzNDQyODYzMTYxLCJsYXN0X3ZhbHVlIjoiODEzMzQ0Mjg2MzE2MSJ9)
+- [COMBINAISON BEBE | Confort Sécurité™](https://bebetouriste.com/products/combinaison-bebe-confort-securite): 👶 Découvrez notre combinaison bébé confortable et sécurisante. Matières douces et pratiques pour habiller facilement votre petit. Commandez maintenant !
+  Updated: 2026-01-04T11:41:29Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_ad5b9274-5d90-4d83-bf76-736f9e630459.jpg?v=1767483672
+  - [Blanc / nouveau-né](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274676793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_ad5b9274-5d90-4d83-bf76-736f9e630459.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Blanc / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274709561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_ad5b9274-5d90-4d83-bf76-736f9e630459.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Blanc / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274742329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_ad5b9274-5d90-4d83-bf76-736f9e630459.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Blanc / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306287128633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_ad5b9274-5d90-4d83-bf76-736f9e630459.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Rose / nouveau-né](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274775097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_142385cf-4144-4bae-9623-3bb74c37e81d.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Rose / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274807865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_142385cf-4144-4bae-9623-3bb74c37e81d.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Rose / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274840633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_142385cf-4144-4bae-9623-3bb74c37e81d.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Rose / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306287161401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_142385cf-4144-4bae-9623-3bb74c37e81d.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Kaki / nouveau-né](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274873401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_575eeebb-8229-4640-ab69-106e7c81ac1e.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Kaki / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274906169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_575eeebb-8229-4640-ab69-106e7c81ac1e.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Kaki / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274938937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_575eeebb-8229-4640-ab69-106e7c81ac1e.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Kaki / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306287194169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_575eeebb-8229-4640-ab69-106e7c81ac1e.jpg?v=1767483672
+    Price: 32,90 € EUR
+  - [Gris / nouveau-né](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306274971705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison_matelasse_bebe.png?v=1767484209
+    Price: 32,90 € EUR
+  - [Gris / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306275004473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison_matelasse_bebe.png?v=1767484209
+    Price: 32,90 € EUR
+  - [Gris / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306275037241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison_matelasse_bebe.png?v=1767484209
+    Price: 32,90 € EUR
+  - [Gris / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-securite?variant=45306287226937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison_matelasse_bebe.png?v=1767484209
+    Price: 32,90 € EUR
+- [POT BEBE VOITURE | Ergonomique™](https://bebetouriste.com/products/pot-bebe-voiture-ergonomique): 🚽 Découvrez notre pot bébé ergonomique et coloré pour un apprentissage ludique de la propreté. Commandez maintenant et simplifiez cette étape importante !
+  Updated: 2026-01-04T13:05:40Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-bebe-voiture.webp?v=1767489977
+  - [Bleu](https://bebetouriste.com/products/pot-bebe-voiture-ergonomique?variant=45306365640761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-bb_43d0adc3-ee13-476d-8900-9bcba5cecf12.jpg?v=1767489922
+    Price: 33,90 € EUR
+  - [Vert](https://bebetouriste.com/products/pot-bebe-voiture-ergonomique?variant=45306365673529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert-pot-bebe.png?v=1767490318
+    Price: 33,90 € EUR
+  - [Rose](https://bebetouriste.com/products/pot-bebe-voiture-ergonomique?variant=45306365706297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rose.png?v=1767490358
+    Price: 33,90 € EUR
+- [COMBINAISON BEBE | Confort Premium™](https://bebetouriste.com/products/combinaison-bebe-confort-premium): 👶 Découvrez notre combinaison bébé confortable et tendance pour protéger votre petit des intempéries ! Livraison rapide et retours gratuits.
+  Updated: 2026-01-04T14:41:23Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse_b8c16805-85f4-4411-8ff4-47ad848a08c6.jpg?v=1767492478
+  - [Blanc / 0 - 3 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431635513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Blanc / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431701049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Blanc / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431733817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Blanc / 6 - 9 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306477346873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Blanc / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306477379641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Marron / 0 - 3 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431766585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse_b8c16805-85f4-4411-8ff4-47ad848a08c6.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Marron / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431799353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse_b8c16805-85f4-4411-8ff4-47ad848a08c6.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Marron / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431832121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse_b8c16805-85f4-4411-8ff4-47ad848a08c6.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Marron / 6 - 9 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306477412409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse_b8c16805-85f4-4411-8ff4-47ad848a08c6.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Marron / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306477445177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-barboteuse_b8c16805-85f4-4411-8ff4-47ad848a08c6.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Rose / 0 - 3 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431864889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_9af3f440-d1ca-4f9f-a06c-7ea3911c3e7b.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Rose / 3 - 6 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431897657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_9af3f440-d1ca-4f9f-a06c-7ea3911c3e7b.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Rose / 9 - 12 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306431930425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_9af3f440-d1ca-4f9f-a06c-7ea3911c3e7b.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Rose / 6 - 9 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306477477945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_9af3f440-d1ca-4f9f-a06c-7ea3911c3e7b.jpg?v=1767492478
+    Price: 29,50 € EUR
+  - [Rose / 12 - 18 mois](https://bebetouriste.com/products/combinaison-bebe-confort-premium?variant=45306477510713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe_9af3f440-d1ca-4f9f-a06c-7ea3911c3e7b.jpg?v=1767492478
+    Price: 29,50 € EUR
+- [Poussette | Ultra-légère Pliable™](https://bebetouriste.com/products/poussette-ultra-legere-pliable): 🍼 Découvrez notre poussette ultra-légère de 5,8kg ! Pliable d'une main, elle simplifie vos sorties. Sécurité et confort garantis pour bébé. Commandez !
+  Updated: 2026-01-05T14:55:29Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/poussette-ultra-legere.webp?v=1767547806
+  Price: 109,50 € EUR
+- [BONNET BEBE | Douillet Hiver™](https://bebetouriste.com/products/bonnet-bebe-douillet-hiver): 👶 Protégez bébé du froid avec notre bonnet doux et confortable ! Découvrez notre collection de bonnets bebe tendance pour garder votre petit au chaud tout l'hiver.
+  Updated: 2026-01-06T02:15:08Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_d43e8035-5beb-4827-962f-70178e4e856f.jpg?v=1767550133
+  - [Ours beige](https://bebetouriste.com/products/bonnet-bebe-douillet-hiver?variant=45308142977081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_760bf2aa-7406-4251-972d-bc1d20883546.jpg?v=1767581574
+    Price: 22,90 € EUR
+  - [Ours kaki](https://bebetouriste.com/products/bonnet-bebe-douillet-hiver?variant=45308143009849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_d43e8035-5beb-4827-962f-70178e4e856f.jpg?v=1767550133
+    Price: 22,90 € EUR
+  - [Ours marron](https://bebetouriste.com/products/bonnet-bebe-douillet-hiver?variant=45308143042617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/ourson_marron.png?v=1767550857
+    Price: 22,90 € EUR
+- [BONNET BEBE | Doux Arc-en-ciel™](https://bebetouriste.com/products/bonnet-bebe-doux-arc-en-ciel): 🧶 Bonnet bébé doux et extensible protège votre trésor du froid. Matière hypoallergénique, design arc-en-ciel. Commandez le confort que votre bébé mérite!
+  Updated: 2026-01-05T14:58:12Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe-bleu-orange.webp?v=1767612038
+  - [Noir](https://bebetouriste.com/products/bonnet-bebe-doux-arc-en-ciel?variant=45308951593017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe-noir-jaune.jpg?v=1767612038
+    Price: 22,90 € EUR
+  - [Bleu](https://bebetouriste.com/products/bonnet-bebe-doux-arc-en-ciel?variant=45308951625785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe-bleu.jpg?v=1767612038
+    Price: 22,90 € EUR
+  - [Blanc](https://bebetouriste.com/products/bonnet-bebe-doux-arc-en-ciel?variant=45308951658553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe-riz-blanc.jpg?v=1767612038
+    Price: 22,90 € EUR
+- [Chapeau bébé | Anti-UV Ajustable™](https://bebetouriste.com/products/chapeau-bebe-anti-uv-ajustable): 👒 Protégez votre bébé avec style ! Chapeau bébé confortable, ajustable et anti-UV. Découvrez nos modèles adorables pour toutes les saisons.
+  Updated: 2026-01-06T13:12:09Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chapeau-bebe.jpg?v=1767621666
+  - [Blanc](https://bebetouriste.com/products/chapeau-bebe-anti-uv-ajustable?variant=45311071027257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chapeau-bebe_b622dd70-450f-480d-97f1-39551ee0d8e8.jpg?v=1767621868
+    Price: 23,90 € EUR
+  - [Beige](https://bebetouriste.com/products/chapeau-bebe-anti-uv-ajustable?variant=45311071060025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/dimensions-chapeau.png?v=1767621868
+    Price: 23,90 € EUR
+  - [Café](https://bebetouriste.com/products/chapeau-bebe-anti-uv-ajustable?variant=45311071092793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chapeau-bebe_472c1b41-1c22-4402-8d3e-352e6b5e5c3e.jpg?v=1767621868
+    Price: 23,90 € EUR
+- [Chauffe Biberon Portable | Nomad'Therm™](https://bebetouriste.com/products/chauffe-biberon-portable-nomadtherm): 🍼 Réchauffez le lait de bébé partout avec notre chauffe biberon portable! Pratique, rapide et sécurisé pour des repas à température idéale. Commandez maintenant!
+  Updated: 2026-01-06T08:10:42Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-portable_19ae1adc-771b-48e7-807e-73b9f9981418.jpg?v=1767661722
+  - [Jaune](https://bebetouriste.com/products/chauffe-biberon-portable-nomadtherm?variant=45313079803961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/jaune.png?v=1767661815
+    Price: 24,90 € EUR
+  - [Bleu](https://bebetouriste.com/products/chauffe-biberon-portable-nomadtherm?variant=45313079869497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu_1138163d-4026-4679-9919-4420290c60c6.png?v=1767661815
+    Price: 24,90 € EUR
+  - [Rose](https://bebetouriste.com/products/chauffe-biberon-portable-nomadtherm?variant=45313079902265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rose_f100933b-f80d-4180-b439-216098799aef.png?v=1767661815
+    Price: 24,90 € EUR
+  - [Noir](https://bebetouriste.com/products/chauffe-biberon-portable-nomadtherm?variant=45313079935033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir.png?v=1767661815
+    Price: 24,90 € EUR
+  - [Blanc](https://bebetouriste.com/products/chauffe-biberon-portable-nomadtherm?variant=45313079967801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert_980aa6aa-31bf-4d61-8198-f95c4f6fbe49.png?v=1767661815
+    Price: 24,90 € EUR
+- [Sac à langer bébé | Multifonctionnel 16 compartiments™](https://bebetouriste.com/products/sac-langer-bebe-multifonctionnel-16-compartiments): 👜 Découvrez le sac à langer bébé multifonctionnel avec 16 compartiments! Transformez vos sorties stressantes en bons moments. Style et organisation pour parents modernes.
+  Updated: 2026-01-07T10:06:34Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-bebe.jpg?v=1767666381
+  - [Bleu marine](https://bebetouriste.com/products/sac-langer-bebe-multifonctionnel-16-compartiments?variant=45314311454777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-bebe-bleu-marine.jpg?v=1767666458
+    Price: 39,50 € EUR
+  - [Rose](https://bebetouriste.com/products/sac-langer-bebe-multifonctionnel-16-compartiments?variant=45314311487545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-bebe-rose.jpg?v=1767666484
+    Price: 39,50 € EUR
+  - [Bleu ciel](https://bebetouriste.com/products/sac-langer-bebe-multifonctionnel-16-compartiments?variant=45314311520313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-bebe-ciel.jpg?v=1767666471
+    Price: 39,50 € EUR
+  - [Gris](https://bebetouriste.com/products/sac-langer-bebe-multifonctionnel-16-compartiments?variant=45314311553081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-bebe-gris-image.jpg?v=1767666441
+    Price: 39,50 € EUR
+- [CALE TETE POUR SIEGE AUTO BEBE | SleepSecure™](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure): 🚗 Cale tête pour siège auto bébé : évitez que sa tête ne bascule en voiture ! Sommeil paisible et sécurité garantie pour des trajets sans stress.
+  Updated: 2026-01-07T08:13:05Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/cale-tete.jpg?v=1767736526
+  - [Bonhomme de neige](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure?variant=45316812013625)
+    Availability: Available
+    Price: 19,50 € EUR
+  - [Gris avec sapin](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure?variant=45316812046393)
+    Availability: Available
+    Price: 19,50 € EUR
+  - [Blanc avec sapin](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure?variant=45316812144697)
+    Availability: Available
+    Price: 19,50 € EUR
+  - [Rouge avec chèvre](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure?variant=45316812079161)
+    Availability: Available
+    Price: 19,50 € EUR
+  - [Blanc avec chèvre](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure?variant=45316812111929)
+    Availability: Available
+    Price: 19,50 € EUR
+- [Sac Langer Cuir | Élégance Maternelle™](https://bebetouriste.com/products/sac-langer-cuir-elegance-maternelle): 👜 Découvrez notre sac à langer en cuir: élégance et praticité pour mamans stylées. 4 coloris, compartiments organisés, durable après bébé. Restez vous-même!
+  Updated: 2026-01-07T14:28:44Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bleu-sku_20526.jpg?v=1767753725
+  - [Noir](https://bebetouriste.com/products/sac-langer-cuir-elegance-maternelle?variant=45317516918841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-cuir-noir.jpg?v=1767753878
+    Price: 58,50 € EUR
+  - [Marron](https://bebetouriste.com/products/sac-langer-cuir-elegance-maternelle?variant=45317516951609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-cuir-slider-20531.jpg?v=1767753784
+    Price: 58,50 € EUR
+  - [Rouge](https://bebetouriste.com/products/sac-langer-cuir-elegance-maternelle?variant=45317516984377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-cuir-rouge.jpg?v=1767753860
+    Price: 58,50 € EUR
+  - [Bleu foncé](https://bebetouriste.com/products/sac-langer-cuir-elegance-maternelle?variant=45317517017145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bleu-sku_20526.jpg?v=1767753725
+    Price: 58,50 € EUR
+[List Continued](https://bebetouriste.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTQwMTE4MDMyNDQxLCJsYXN0X3ZhbHVlIjoiODE0MDExODAzMjQ0MSJ9)
 
 ## Collections
 
-- [ALL](https://bebetouriste.com/collections/all): 👶🧳 Découvrez notre collection complète d'accessoires de voyage pour votre bébé ! Produits de qualité pour le confort et le bien-être quotidien de votre enfant! 🎁
-  Updated: 2026-01-01T22:13:11Z
-  Total Products: 223
+- [ALL - Tout pour votre bébé](https://bebetouriste.com/collections/all): 👶🧳 Découvrez notre collection complète d'accessoires de voyage pour votre bébé ! Produits de qualité pour le confort et le bien-être quotidien de votre enfant! 🎁
+  Updated: 2026-01-09T12:21:10Z
+  Total Products: 236
 - [NOS MEILLEURES VENTES](https://bebetouriste.com/collections/nos-meilleures-ventes): 👶 Découvrez nos meilleures ventes pour bébé ! Accessoires pratiques et essentiels pour simplifier votre quotidien de parent et voyager sereinement.
   Updated: 2026-01-01T22:13:11Z
   Total Products: 79
 - [SAC A LANGER](https://bebetouriste.com/collections/sac-a-langer-babybag): 👜🧸 Notre gamme de sacs à langer: pratiques et élégants, pour répondre aux besoins des parents modernes. Trouvez le modèle parfait pour vos sorties avec bébé !
-  Updated: 2025-12-30T04:57:55Z
-  Total Products: 18
+  Updated: 2026-01-09T12:21:10Z
+  Total Products: 22
 - [COUVERTURE BÉBÉ](https://bebetouriste.com/collections/couverture-bebe-babyblanket): Découvrez notre gamme de couvertures bébé alliant douceur et confort. Du tricot chaleureux à la polaire douce, trouvez la couverture parfaite pour votre petit.
   Updated: 2025-11-09T13:49:27Z
   Total Products: 23
 - [PORTE BEBE](https://bebetouriste.com/collections/porte-bebe): Découvrez tout sur le porte-bébé! Du modèle vélo à l'ergonomique, trouvez le porte-bébé idéal pour votre enfant. Guide expert pour choisir le meilleur produit.
-  Updated: 2025-12-22T02:43:54Z
+  Updated: 2026-01-07T02:08:36Z
   Total Products: 16
 - [CHANCELIÈRE POUSSETTE](https://bebetouriste.com/collections/chanceliere-poussette): Notre sélection de chancelières poussette offre des modèles universels, pratiques et confortables, adaptés à toutes les poussettes pour le confort de votre petit.
   Updated: 2025-12-29T22:57:18Z
@@ -5211,11 +5517,11 @@
   Updated: 2025-12-20T03:03:26Z
   Total Products: 13
 - [POUSSETTE](https://bebetouriste.com/collections/poussette): 👶 Découvrez nos poussettes confortables et légères pour vos sorties avec bébé. Profitez de modèles pratiques adaptés à tous vos besoins !
-  Updated: 2025-11-09T13:49:27Z
-  Total Products: 11
+  Updated: 2026-01-04T17:34:40Z
+  Total Products: 12
 - [ACCESSOIRES](https://bebetouriste.com/collections/accessoires): 👶 Découvrez nos accessoires pour bébé pratiques et durables. Simplifiez votre quotidien avec des solutions innovantes pour le confort de votre petit !
-  Updated: 2026-01-01T22:13:11Z
-  Total Products: 23
+  Updated: 2026-01-04T01:39:39Z
+  Total Products: 24
 - [ACTIVITÉS](https://bebetouriste.com/collections/activites): 📚📚📚🧳👶Offrez à votre enfant des activités enrichissantes, agréables et utiles, pendant vos voyages ou à la maison! Venez les découvrir!
   Updated: 2026-01-01T21:20:26Z
   Total Products: 20
@@ -5223,24 +5529,27 @@
   Updated: 2025-12-27T14:08:54Z
   Total Products: 21
 - [CHAUFFE BIBERON](https://bebetouriste.com/collections/chauffe-biberon): 🍼 Découvrez nos chauffe biberons premium et simplifiez les repas de bébé ! Chauffage rapide, multifonctions et pratique. Commandez maintenant !
-  Updated: 2025-12-22T03:30:24Z
-  Total Products: 13
+  Updated: 2026-01-06T01:13:58Z
+  Total Products: 14
 - [ECHARPE DE PORTAGE](https://bebetouriste.com/collections/echarpe-de-portage): 👶 Découvrez nos écharpes de portage confortables et libérez vos mains ! Créez un lien unique avec bébé tout en restant actif. Commandez dès maintenant !
-  Updated: 2025-12-29T20:57:04Z
+  Updated: 2026-01-07T01:37:07Z
   Total Products: 17
 - [HALLOWEEN DES BÉBÉS](https://bebetouriste.com/collections/halloween-des-bebes): Transformez votre petit adorable avec notre collection Halloween : gigoteuses, barboteuses et pyjamas confortables pour des festivités réussies et chaleureuses.
   Updated: 2025-11-01T02:30:20Z
   Total Products: 10
 - [TOUT POUR VOITURE](https://bebetouriste.com/collections/tout-pour-voiture)
-  Updated: 2025-12-20T00:29:20Z
-  Total Products: 13
+  Updated: 2026-01-06T20:20:39Z
+  Total Products: 14
 - [BARBOTEUSE](https://bebetouriste.com/collections/barboteuse)
-  Updated: 2025-12-29T13:20:32Z
-  Total Products: 8
+  Updated: 2026-01-04T02:29:53Z
+  Total Products: 10
+- [BONNETS, CHAPEAUX, CASQUETTES](https://bebetouriste.com/collections/bonnets-chapeaux-casquettes)
+  Updated: 2026-01-05T14:14:51Z
+  Total Products: 3
 
 ## Blogs
 
-- [Infos](https://bebetouriste.com/blogs/infos)
+- [Infos](https://bebetouriste.com/blogs/infos): 👶📚🧳Découvrez notre blog d'informations pratiques pour voyager avec bébé. Conseils, astuces et guides pour des vacances réussies en famille sur Bebe Touriste.
   - [Tout ce qu'il faut savoir pour voyager avec bébé : Astuces et produits essentiels](https://bebetouriste.com/blogs/infos/tout-ce-quil-faut-savoir-pour-voyager-avec-bebe-astuces-et-produits-essentiels): <span data-mce-fragment="1">Voyager avec bébé demande un peu plus d'organisation, mais c'est une expérience merveilleuse qui créera des souvenirs inoubliables pour toute la famille.</span>
     Updated: 2024-12-21T14:35:07Z
     Author: carmen camelia schneider
@@ -5284,7 +5593,7 @@
 - [A Propos](https://bebetouriste.com/pages/a-propos): Bienvenue chez Bébé Touriste, la boutique en ligne dédiée aux parents voyageurs ! Nous avons créé Bébé Touriste pour simplifier vos déplacements av...
   Updated: 2024-11-01T22:07:58Z
 - [Mentions Légales](https://bebetouriste.com/pages/nos-mentions-legales): Conformément aux dispositions des articles 6-III et 19 de la Loi n° 2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C....
-  Updated: 2025-08-04T19:05:05Z
+  Updated: 2026-01-03T20:02:25Z
 - [Politique de Livraisons et Retours](https://bebetouriste.com/pages/politique-de-livraisons-et-retours): COUTS LIÉS A LA LIVRAISON (pour la France et Allemagne) : - Toutes les commandes passées sur notre site possèdent un coût fixe de 5.25 euros.A part...
   Updated: 2025-11-01T05:20:49Z
 - [F.A.Q.](https://bebetouriste.com/pages/faq): Des questions ? Vous avez des questions ? Notre service client est à votre disposition et vous répondra dans les plus brefs délais. N'hésitez pas à...
@@ -5296,7 +5605,7 @@
 - [Politique de Confidentialité](https://bebetouriste.com/pages/politique-de-confidentialite): ARTICLE 1 – RENSEIGNEMENTS PERSONNELS RECUEILLIS Lorsque vous effectuez un achat sur notre boutique, dans le cadre de notre processus d’achat et de...
   Updated: 2024-11-02T00:16:32Z
 - [Conditions Générales de Ventes](https://bebetouriste.com/pages/conditions-generales-de-ventes): Conditions Générales de Vente Article 1 – Définitions Les présentes Conditions Générales de Vente (ci-après les « CGV ») sont proposées par la soci...
-  Updated: 2025-07-16T18:28:39Z
+  Updated: 2026-01-03T19:53:23Z
 - [Conditions Générales d'Utilisation](https://bebetouriste.com/pages/conditions-generales-dutilisation): Notre politique de protection de vos données personnelles permet d'instaurer une relation de confiance entre vous et nos services, afin de vous off...
   Updated: 2024-11-02T00:12:42Z
 - [Vos choix en matière de confidentialité](https://bebetouriste.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
