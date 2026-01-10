@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2026-01-03T00:00:36.444Z
+- Updated At: 2026-01-10T00:00:37.519Z
 
 ## Products
 
@@ -1283,89 +1283,89 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/71G2a0aKjfL._AC_SL1500.jpg?v=1764686860
   Price: $30.99 USD
-- [Minecraft Color-Changing Minecraft Color-Changing Minecraft](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift): Minecraft Color-Changing Minecraft Color-Changing Minecraft Color-Changing Mingtu
+- [Minecraft Color-Changing Minecraft Color-Changing Minecraft](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift): Minecraft Color-Changing Minecraft Color-Changing Minecraft Color-Changing Mingtu
   Updated: 2025-12-03T18:24:49Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/78184395-fbdc-4607-b2e2-65397b8d66a4.jpg?v=1764687217
-  - [1 pcs / Single Color Torch](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765798204)
+  - [1 pcs / Single Color Torch](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765798204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/ca4e5cb3-eb10-4f13-b1fb-c73ba6aa334b.jpg?v=1764687218
     Price: $39.99 USD
-  - [1 pcs / Four-color rechargeable torch light](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765830972)
+  - [1 pcs / Four-color rechargeable torch light](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765830972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/4658d540-6706-4db9-b139-b519c911df3f.jpg?v=1764687218
     Price: $40.99 USD
-  - [1 pcs / 3 Level Torch](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765863740)
+  - [1 pcs / 3 Level Torch](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765863740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/201355dc-a54e-47a8-9ef8-d2414fd7d5b1.jpg?v=1764687218
     Price: $40.99 USD
-  - [1 pcs / Voice intelligent torch light](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765896508)
+  - [1 pcs / Voice intelligent torch light](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765896508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/48615262-e40e-4383-9b55-5d20b27e89d8.jpg?v=1764687218
     Price: $44.99 USD
-  - [1 pcs / Sound Control Torch](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765929276)
+  - [1 pcs / Sound Control Torch](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765929276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1f5ce9ea-4177-443d-8dc6-f1c6202aa012.jpg?v=1764687218
     Price: $41.99 USD
-  - [1 pcs / 7-Color dimming torch light](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765962044)
+  - [1 pcs / 7-Color dimming torch light](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765962044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/48a86296-85c8-4e7a-bb84-4d008b9327d9.jpg?v=1764687218
     Price: $41.99 USD
-  - [1 pcs / Color Change Bottle](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521765994812)
+  - [1 pcs / Color Change Bottle](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521765994812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1fb58c36-dd20-48e5-b400-578bfa377fb1.jpg?v=1764687218
     Price: $45.99 USD
-  - [1 pcs / Creeper Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766027580)
+  - [1 pcs / Creeper Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766027580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/e1632bed-19b3-4cdc-b171-9cd79a0078f7.jpg?v=1764687218
     Price: $47.99 USD
-  - [1 pcs / Sound Light Sword Pick](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766060348)
+  - [1 pcs / Sound Light Sword Pick](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766060348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1b7a96ce-4ae6-4726-8987-bdcb2ae12819.jpg?v=1764687218
     Price: $49.99 USD
-  - [1 pcs / Blue Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766093116)
+  - [1 pcs / Blue Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766093116)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/6813c831-1ce1-4d3b-b453-c554fc0720a1.jpg?v=1764687218
     Price: $40.99 USD
-  - [1 pcs / Red Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766125884)
+  - [1 pcs / Red Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766125884)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/0f1dc3fa-9c97-4438-94cb-51df1badd185.jpg?v=1764687218
     Price: $40.99 USD
-  - [1 pcs / Green Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766158652)
+  - [1 pcs / Green Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766158652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/4f1cc475-4d85-4fbd-922c-52bb03e430c9.jpg?v=1764687218
     Price: $40.99 USD
-  - [1 pcs / Gold Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766191420)
+  - [1 pcs / Gold Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766191420)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/b37cef5d-004b-4e3a-b562-50ebe206c35e.jpg?v=1764687218
     Price: $40.99 USD
-  - [1 pcs / Axolotl Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766224188)
+  - [1 pcs / Axolotl Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766224188)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3151e58d-7565-49bc-bb02-895e4b005ef4.jpg?v=1764687218
     Price: $56.99 USD
-  - [1 pcs / Enchanted Purple Sword](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766256956)
+  - [1 pcs / Enchanted Purple Sword](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766256956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1d4eeb15-0f9d-4dea-95f0-708773e603a8.jpg?v=1764687218
     Price: $49.99 USD
-  - [1 pcs / Official Sword Pick](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766289724)
+  - [1 pcs / Official Sword Pick](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766289724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/f9fd729e-0ca8-4a72-b36a-f74b413bcfce.jpg?v=1764687218
     Price: $49.99 USD
-  - [1 pcs / Bee Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766322492)
+  - [1 pcs / Bee Charge Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766322492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/85d4144a-d031-4bb7-8b85-411f84744c20.jpg?v=1764687218
     Price: $49.99 USD
-  - [1 pcs / Fox Night Light](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766355260)
+  - [1 pcs / Fox Night Light](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766355260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/888c94de-4341-41e7-86b7-a5d7a9028e53.jpg?v=1764687218
     Price: $51.99 USD
-  - [1 pcs / Pink Pig Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766388028)
+  - [1 pcs / Pink Pig Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766388028)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/7a5cd163-6e10-40c0-b18f-10a4611a4dcf.jpg?v=1764687218
     Price: $46.99 USD
-  - [1 pcs / TNT Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift?variant=52521766420796)
+  - [1 pcs / TNT Lamp](https://www.urban-buy.store/products/ore-lamp-color-changing--bottle-torch-torch-model-birthday-gift?variant=52521766420796)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/23131de5-f365-4a79-99c2-ae3bcfefc31f.jpg?v=1764687218
     Price: $46.99 USD
@@ -1431,7 +1431,7 @@
 - [Cozy Home Vibes: Embrace the Best Christmas Comfort](https://www.urban-buy.store/collections/cozy-home-vibes): Discover the best Christmas cozy home vibes with Urban Buy. Shop warm blankets, soft loungewear, fuzzy socks, and winter essentials made for comfort and style.
   Updated: 2025-12-06T11:07:26Z
   Total Products: 21
-- [Top Selling Christmas Gifts this Year - Shop the Best!](https://www.urban-buy.store/collections/top-selling-products-this-christmas): Top Selling Products this Christmas include the best top selling Christmas gifts and more. Don't miss out on our festive favorites!
+- [Top  Christmas Gifts this Year - Shop the Best!](https://www.urban-buy.store/collections/top--products-this-christmas): Top  Products this Christmas include the best top  Christmas gifts and more. Don't miss out on our festive favorites!
   Updated: 2025-12-06T11:07:26Z
   Total Products: 13
 - [Partner Products](https://www.urban-buy.store/collections/partner-products)
@@ -1541,6 +1541,18 @@
     Updated: 2026-01-01T09:01:37Z
     Author: Urban BUY
     Tags: children, christmas 2025, christmas gift ideas, christmas gifts, gift ideas, gifts, gifts for christmas, gifts ideas, kids presents, perfect christmas gifts for kids, toys, unique gifts for children
+  - [Christmas 2025 Gift Ideas for Outdoor Lovers](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/christmas-2025-gift-ideas-for-outdoor-lovers): Christmas 2025 Gift Ideas for Outdoor Lovers
+    Updated: 2026-01-03T09:06:42Z
+    Author: Urban BUY
+    Tags: best christmas gifts for adventurers, christmas, christmas 2025, christmas gift ideas, christmas gifts, gift ideas, gifts, gifts for christmas, gifts ideas, holiday presents, outdoor, top outdoor gifts for nature lovers, unique gifts
+  - [Holiday Gift Essentials for a Merry Christmas](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/holiday-gift-essentials-for-a-merry-christmas): Holiday Gift Essentials for a Merry Christmas
+    Updated: 2026-01-06T09:03:20Z
+    Author: Urban BUY
+    Tags: christmas, christmas 2025, christmas gift ideas, christmas gifts, creative holiday presents, gift ideas, gifts, gifts for christmas, gifts ideas, holiday, merry christmas, thoughtful christmas gifts, unique gifts
+  - [Personalize Gifts Ideas for Christmas 2025](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/personalize-gifts-ideas-for-christmas-2025): Personalize Gifts Ideas for Christmas 2025
+    Updated: 2026-01-08T09:04:20Z
+    Author: Urban BUY
+    Tags: christmas, christmas 2025, christmas gift ideas, christmas gifts, christmas gifts ideas, creative gift ideas for christmas, gift ideas, gifts, gifts for christmas, gifts ideas, memorable christmas gift ideas, personalized gifts, unique gifts
 
 ## Store Pages
 
@@ -1550,17 +1562,17 @@
   Updated: 2025-11-16T18:35:15Z
 - [About Us](https://www.urban-buy.store/pages/about-us)
   Updated: 2025-11-16T19:27:59Z
-- [affiliate-registration-page](https://www.urban-buy.store/pages/affiliate_registration_page)
+- [-registration-page](https://www.urban-buy.store/pages/affiliate_registration_page)
   Updated: 2025-11-16T18:22:18Z
 - [html sitemap products](https://www.urban-buy.store/pages/html-sitemap-products): Products Renfen Christmas Fondue Mug Se... CJ Smart HD Home Projector for... CJ Flame Humidifier Christmas ... Fireplace Aroma Diffuser Chris... El...
   Updated: 2025-11-23T03:36:57Z
-- [html sitemap collections](https://www.urban-buy.store/pages/html-sitemap-collections): Collections Christmas Gift Ideas for 2025 ... Best Holiday Gift Essentials f... Cozy Home Vibes for this Chris... Top Selling Products this Chri......
+- [html sitemap collections](https://www.urban-buy.store/pages/html-sitemap-collections): Collections Christmas Gift Ideas for 2025 ... Best Holiday Gift Essentials f... Cozy Home Vibes for this Chris... Top  Products this Chri......
   Updated: 2025-11-23T03:36:58Z
 - [html sitemap blogs](https://www.urban-buy.store/pages/html-sitemap-blogs): Blogs Best Christmas Gift Ideas For ... .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-...
   Updated: 2025-11-23T03:36:59Z
 - [html sitemap articles](https://www.urban-buy.store/pages/html-sitemap-articles): Blog Posts Girls Christmas Gifts Ideas to... Popular Female Christmas Gifts... Top Men's Gifts for Christmas ... Elevate Your Christmas Shoppin... ...
   Updated: 2025-11-23T03:37:00Z
-- [html sitemap pages](https://www.urban-buy.store/pages/html-sitemap-pages): Pages Contact Us Your privacy choices About Us affiliate-registration-page html sitemap products html sitemap collections html sitemap blogs html s...
+- [html sitemap pages](https://www.urban-buy.store/pages/html-sitemap-pages): Pages Contact Us Your privacy choices About Us -registration-page html sitemap products html sitemap collections html sitemap blogs html s...
   Updated: 2025-11-23T03:37:01Z
 - [html sitemap](https://www.urban-buy.store/pages/html-sitemap): Products Renfen Christmas Fondue Mug Se... CJ Smart HD Home Projector for... CJ Flame Humidifier Christmas ... Fireplace Aroma Diffuser Chris... El...
   Updated: 2025-11-23T03:37:02Z
