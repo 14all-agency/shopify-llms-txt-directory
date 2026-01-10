@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-03T11:00:45Z
 - Contact Email: homebrandsitaalexandraofficial@gmail.com
-- Updated At: 2026-01-03T00:00:32.605Z
+- Updated At: 2026-01-10T00:00:33.462Z
 
 ## Products
 
@@ -354,7 +354,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/b6f29a7b-c863-4f2b-8e32-f9643e3dece1.jpg?v=1765814527
   Price: £43.00 GBP
-- [Concert T‑Shirt — "CSCWT Championship Stadium Concerts" Guitar Logo Tee](https://homebrandsitaalexandra.com/products/concert-t-shirt-escwt-championship-stadium-concerts-guitar-logo-tee): S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 CSCWT TOUR CONCERTS TSHIRTS Lightweight, breathable, and built for everyday movement — this soft jersey tee features a nostalgic stadium-concert graphic centered on the chest, evoking sweaty shows, guitar riffs, and the roar of the crowd. The crew neckline and retail fit keep the silhouette clean and easy to layer under a jacket or wear solo on warm nights. Thoughtfully constructed with side seams, shoulder tape, and a tear-away label for comfort and durability, it’s made from premium Airlume combed and ring-spun cotton that feels broken-in from the first wear. REACH certified and produced through ethical, sustainable practices, this tee brings concert-ready style with a responsible footprint.Product features- 100% Airlume combed and ring-spun cotton (lightweight 4.2 oz) — breathable and soft- Side seams and shoulder tape for shaped structure and stretch resistance- Ribbed knit crew collar with seam for lasting shape- DTF/DTG printed chest and sleeve graphics with crisp, vibrant detail- Tear-away neck label; REACH certified and ethically manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from Honduras Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
+- [Concert T‑Shirt — "CSCWT Championship Stadium Concerts" Guitar Logo Tee](https://homebrandsitaalexandra.com/products/concert-t-shirt-escwt-championship-stadium-concerts-guitar-logo-tee): S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 CSCWT TOUR CONCERTS TSHIRTS Lightweight, breathable, and built for everyday movement — this soft jersey tee features a nostalgic stadium-concert graphic centered on the chest, evoking sweaty shows, guitar riffs, and the roar of the crowd. The crew neckline and retail fit keep the silhouette clean and easy to layer under a jacket or wear solo on warm nights. Thoughtfully constructed with side seams, shoulder tape, and a tear-away label for comfort and durability, it’s made from premium Airlume combed and ring-spun cotton that feels broken-in from the first wear. REACH  and produced through ethical, sustainable practices, this tee brings concert-ready style with a responsible footprint.Product features- 100% Airlume combed and ring-spun cotton (lightweight 4.2 oz) — breathable and soft- Side seams and shoulder tape for shaped structure and stretch resistance- Ribbed knit crew collar with seam for lasting shape- DTF/DTG printed chest and sleeve graphics with crisp, vibrant detail- Tear-away neck label; REACH  and ethically manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from Honduras Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
   Updated: 2025-12-16T08:24:57Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -2750,15 +2750,15 @@
 ## Blogs
 
 - [News](https://homebrandsitaalexandra.com/blogs/news)
-  - [HomeBrand sItalexandra Shop 20% OFF Gift Voucher](https://homebrandsitaalexandra.com/blogs/news/homebrandsitalexandra-shop-20-off-gift-voucher)
+  - [HomeBrand sItalexandra Shop 20% OFF Gift ](https://homebrandsitaalexandra.com/blogs/news/homebrandsitalexandra-shop-20-off-gift-)
     Updated: 2025-12-15T15:28:01Z
     Author: linda lee
     Tags: #HomeBrandsItaLexandra #coupons #GiftVoucher #BestGiftIdea #Shop #sitaalexandra #AffordableLuxury #HomeBrandsOffers #vouchers #QualityShopping
-  - [Unwrap Style and Savings with the SitaAlexandra 30% Off Gift Voucher](https://homebrandsitaalexandra.com/blogs/news/unwrap-style-and-savings-with-the-sitaalexandra-30-off-gift-voucher)
+  - [Unwrap Style and Savings with the SitaAlexandra 30% Off Gift ](https://homebrandsitaalexandra.com/blogs/news/unwrap-style-and-savings-with-the-sitaalexandra-30-off-gift-)
     Updated: 2025-12-15T15:28:00Z
     Author: linda lee
     Tags: #HomeBrandsItaLexandra #coupons #GiftVoucher #BestGiftIdea #Shop #sitaalexandra #AffordableLuxury #HomeBrandsOffers #vouchers #QualityShopping
-  - [Unwrapping the SitaAlexandra 40% Off Voucher](https://homebrandsitaalexandra.com/blogs/news/unwrapping-the-sitaalexandra-40-off-voucher)
+  - [Unwrapping the SitaAlexandra 40% Off ](https://homebrandsitaalexandra.com/blogs/news/unwrapping-the-sitaalexandra-40-off-)
     Updated: 2025-12-15T15:28:00Z
     Author: linda lee
     Tags: #HomeBrandsItaLexandra #coupons #GiftVoucher #BestGiftIdea #Shop #sitaalexandra #AffordableLuxury #HomeBrandsOffers #vouchers #QualityShopping
@@ -2783,6 +2783,15 @@
     Author: HomebrandSitaAlexandra Content Manager
   - [Unleash the Spirit of Halloween with the Knitted Dog Hat from HomebrandSitaAlexandra Online Stores Ever Explored During Your Fall Online Shopping Adventures](https://homebrandsitaalexandra.com/blogs/news/unleash-the-spirit-of-halloween-with-the-knitted-dog-hat-from-homebrandsitaalexandra-online-stores-ever-explored-during-your-fall-online-shopping-adventures): Unleash the Spirit of Halloween with the Knitted Dog Hat from HomebrandSitaAlexandra Online Stores Ever Explored During Your Fall Online Shopping Adventures
     Updated: 2025-12-31T07:04:54Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Cozy Up Your Winter Wardrobe: The HomebrandSitaAlexandra Guide to Mid Length Hooded Men's Coats on Online Clothing Stores](https://homebrandsitaalexandra.com/blogs/news/cozy-up-your-winter-wardrobe-the-homebrandsitaalexandra-guide-to-mid-length-hooded-mens-coats-on-online-clothing-stores): Cozy Up Your Winter Wardrobe: The HomebrandSitaAlexandra Guide to Mid Length Hooded Men's Coats on Online Clothing Stores
+    Updated: 2026-01-03T07:00:54Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Exploring Sweet Red Lipstick Styles for Trendy Looks on HomebrandSitaAlexandra Online Store Using Maxi Dresses from Popular Online Clothing Stores](https://homebrandsitaalexandra.com/blogs/news/exploring-sweet-red-lipstick-styles-for-trendy-looks-on-homebrandsitaalexandra-online-store-using-maxi-dresses-from-popular-online-clothing-stores): Exploring Sweet Red Lipstick Styles for Trendy Looks on HomebrandSitaAlexandra Online Store Using Maxi Dresses from Popular Online Clothing Stores
+    Updated: 2026-01-05T07:05:56Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Exploring Stainless Lipstick Must-Haves on Online Shopping Websites with HomebrandSitaAlexandra Online Store](https://homebrandsitaalexandra.com/blogs/news/exploring-stainless-lipstick-must-haves-on-online-shopping-websites-with-homebrandsitaalexandra-online-store): Exploring Stainless Lipstick Must-Haves on Online Shopping Websites with HomebrandSitaAlexandra Online Store
+    Updated: 2026-01-07T07:07:19Z
     Author: HomebrandSitaAlexandra Content Manager
 
 ## Store Pages
