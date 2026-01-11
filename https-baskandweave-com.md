@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2026-01-03T00:00:47.087Z
+- Updated At: 2026-01-11T00:00:43.776Z
 
 ## Products
 
@@ -1807,7 +1807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-denim-t-shirt-denim-blue-front-678e365feebcb.jpg?v=1737373465
     Price: $33.50 USD
 - [Men's Heavyweight T-Shirt – Premium, Durable Cotton Tee](https://baskandweave.com/products/men-s-premium-heavyweight-tee): Experience lasting quality with our Men's Heavyweight T-Shirt. Crafted from premium cotton for superior comfort, durability, and a classic fit.
-  Updated: 2025-10-29T23:33:09Z
+  Updated: 2026-01-06T07:18:34Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -8045,7 +8045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-heavy-blend-zip-hoodie-white-front-67951eced43de.jpg?v=1737830948
     Price: $50.00 USD
 - [Men's All-Over Print Zip Hoodie – Stylish & Comfortable Wear](https://baskandweave.com/products/mens-all-over-print-zip-hoodie): Express your style with our Men's All-Over Print Zip Hoodie. Designed for comfort and bold looks, this hoodie adds a unique touch to your everyday outfits.
-  Updated: 2025-11-02T22:49:26Z
+  Updated: 2026-01-04T20:05:23Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -9080,7 +9080,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Men_s_Wide-Leg_Joggers.jpg?v=1740378664
     Price: $85.50 USD
-- [Men's Joggers – Stylish, Comfortable & Perfect for Workouts](https://baskandweave.com/products/mens-joggers): Shop men's joggers designed for comfort and performance. Perfect for workouts, lounging, or casual wear — stylish fit and premium quality guaranteed.
+- [Men's Joggers – Stylish, Comfortable & Perfect for Workouts](https://baskandweave.com/products/mens-joggers): Shop men's joggers designed for comfort and performance. Perfect for workouts, lounging, or casual wear — stylish fit and premium quality .
   Updated: 2025-11-02T23:12:32Z
   Vendor: Bask & Weave
   Product Type: Pants
@@ -9427,7 +9427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-fleece-shorts-white-left-front-679563debde7e.jpg?v=1737845922
     Price: $56.00 USD
 - [Recycled Men's Swim Trunks – All-Over Print Eco Swimwear](https://baskandweave.com/products/all-over-print-recycled-mens-swim-trunks): Recycled men's swim trunks crafted from eco-friendly fabric. Enjoy durable, comfortable all-over print swimwear designed for sustainability and modern style.
-  Updated: 2025-11-02T23:27:28Z
+  Updated: 2026-01-05T05:59:46Z
   Vendor: Bask & Weave
   Product Type: Shorts
   Availability: Available
@@ -13881,7 +13881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-relaxed-t-shirt-heather-blue-lagoon-zoomed-in-67966f22dbbac.jpg?v=1737915622
     Price: $30.50 USD
 - [Oversized Embroidered T-Shirt Women – Faded Relaxed Style](https://baskandweave.com/products/womens-oversized-faded-embroidered-t-shirt): Shop the oversized embroidered t-shirt women love — a relaxed, faded style that blends comfort and trend. Perfect for effortless everyday outfits.
-  Updated: 2025-11-03T23:07:37Z
+  Updated: 2026-01-04T00:03:48Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -16009,7 +16009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_All-Over_Print_One-Piece_Swimsuit.jpg?v=1740892148
     Price: $46.00 USD
 - [High-Waisted Bikini for Women – Recycled All-Over Print](https://baskandweave.com/products/womens-all-over-print-recycled-high-waisted-bikini): Turn heads in our high-waisted bikini for women, made from recycled materials. This all-over print design offers eco-friendly comfort and flattering style.
-  Updated: 2025-11-03T23:24:43Z
+  Updated: 2026-01-04T08:14:34Z
   Vendor: Bask & Weave
   Product Type: Bikini
   Availability: Available
@@ -22018,7 +22018,7 @@
 - [Women's Bottoms](https://baskandweave.com/collections/womens-bottoms): Elevate your wardrobe with our collection of women's bottoms. From comfortable leggings and joggers to chic skirts and tailored pants, our selection offers styles for every occasion. Designed with premium fabrics and flattering fits, find the perfect piece to complete your look.
   Updated: 2025-11-09T02:56:42Z
   Total Products: 9
-- [Chosen Products For More To Shop](https://baskandweave.com/collections/best-selling-products-men)
+- [Chosen Products For More To Shop](https://baskandweave.com/collections/best--products-men)
   Updated: 2025-11-09T02:56:42Z
   Total Products: 16
 - [New Arrivals](https://baskandweave.com/collections/new-arrivals): Discover our New Arrival Products here at Bask & Weave made for you.
