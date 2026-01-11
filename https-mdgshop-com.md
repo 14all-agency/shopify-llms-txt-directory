@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2025-11-18T07:20:00Z
 - Contact Email: marginean.damian1989@gmail.com
-- Updated At: 2026-01-03T00:00:42.886Z
+- Updated At: 2026-01-11T00:00:41.746Z
 
 ## Products
 
@@ -2438,7 +2438,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/XeHoXF00vkR3y6q4.webp?v=1763659798
     Price: €108.86 EUR
-- [Men's Short Harley Leather Jacket, Stand Collar Casual Coat](https://mdgshop.com/products/mens-short-harley-leather-jacket-stand-collar-casual-coat): Experience the perfect blend of style and functionality with our Men's Short Harley Motorcycle Jacket. Crafted from premium first-layer cowhide leather, this jacket is designed for the modern youth who values both aesthetics and durability. The sleek design features a stand collar and straight hem, making it a versatile addition to any wardrobe. With its non-iron treatment, this jacket ensures that you look effortlessly stylish without the hassle of maintenance. The zipper decoration adds a touch of edge, while the soft acetate fiber lining provides comfort throughout the day. Available in classic black, this jacket is not just a piece of clothing; it's a statement of individuality and confidence. Perfect for casual outings or a night on the town, it pairs well with jeans or chinos for a complete look. Elevate your style and embrace the open road with this exceptional leather jacket. Don't miss out on owning a piece that combines quality, style, and comfort all in one!
+- [Men's Short Harley Leather Jacket, Stand Collar Casual Coat](https://mdgshop.com/products/mens-short-harley-leather-jacket-stand-collar-casual-coat): Experience the perfect blend of style and functionality with our Men's Short Harley Motorcycle Jacket. Crafted from premium first-layer cowhide leather, this jacket is designed for the modern youth who values both aesthetics and durability. The sleek design features a stand collar and straight hem, making it a versatile addition to any wardrobe. With its non-iron , this jacket ensures that you look effortlessly stylish without the hassle of maintenance. The zipper decoration adds a touch of edge, while the soft acetate fiber lining provides comfort throughout the day. Available in classic black, this jacket is not just a piece of clothing; it's a statement of individuality and confidence. Perfect for casual outings or a night on the town, it pairs well with jeans or chinos for a complete look. Elevate your style and embrace the open road with this exceptional leather jacket. Don't miss out on owning a piece that combines quality, style, and comfort all in one!
   Updated: 2025-11-25T20:59:16Z
   Vendor: MDG
   Product Type: 
@@ -3536,7 +3536,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Zsqp5vMWaJQuH2sK.webp?v=1763660525
     Price: €68.10 EUR
-  - [Black / L/XL (adult)](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338410787108)
+  - [Black / L/XL ()](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338410787108)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/x8czHrBEA0V6vyJA.webp?v=1763660626
     Price: €68.10 EUR
@@ -3548,7 +3548,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/OkolItVh7to85LFZ.webp?v=1763660535
     Price: €68.10 EUR
-  - [Blue / L/XL (adult)](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338410885412)
+  - [Blue / L/XL ()](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338410885412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/wW6MIKCDvQX07u3e.webp?v=1763660648
     Price: €68.10 EUR
@@ -3556,7 +3556,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/GJAApTsJrjDpD76A.webp?v=1763660546
     Price: €68.10 EUR
-  - [Red / L/XL (adult)](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338410950948)
+  - [Red / L/XL ()](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338410950948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Wv785QGF2VTjaTjF.webp?v=1763660659
     Price: €68.10 EUR
@@ -3568,7 +3568,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/rmc5PvnIYnvLttmU.webp?v=1763660557
     Price: €68.10 EUR
-  - [Green / L/XL (adult)](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338411049252)
+  - [Green / L/XL ()](https://mdgshop.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear?variant=51338411049252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/mhoLOPOknklMFyv9.webp?v=1763660568
     Price: €68.10 EUR
@@ -3652,53 +3652,53 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/zyQezzJBSOfAeP5Z.webp?v=1763660656
     Price: €81.08 EUR
-- [Adult Full Face Snorkel Mask and Breathing Tube Set](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set): Dive into the underwater world with our Cross-Border Freediving Mask and Snorkel Set, designed for both men and women. Whether you are an avid snorkeler or a deep diving enthusiast, this set is your perfect companion for exploring the vibrant marine life. Crafted from high-quality silicone, this mask ensures a comfortable fit and a secure seal, allowing you to enjoy your underwater adventures without worries. Its large frame design provides an expansive field of vision, so you won't miss any of the beautiful sights beneath the surface. With a range of stunning colors to choose from, including CR-yellow, CR-transparent black, and CR-Lake Blue, you can express your personal style while making a statement in the water. The set comes with a full-dry snorkel, designed to prevent water from entering, ensuring a hassle-free experience. Its lightweight design (only 0.5 kg) makes it easy to carry, while the compact size (Length: 17cm, Width: 9cm, Thickness: 7cm) fits perfectly in your diving gear. Don't let anything hold you back from exploring the depths! This versatile set is perfect for snorkeling and deep diving. Equip yourself with our Cross-Border Freediving Mask and Snorkel Set and make your aquatic adventures unforgettable.
+- [ Full Face Snorkel Mask and Breathing Tube Set](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set): Dive into the underwater world with our Cross-Border Freediving Mask and Snorkel Set, designed for both men and women. Whether you are an avid snorkeler or a deep diving enthusiast, this set is your perfect companion for exploring the vibrant marine life. Crafted from high-quality silicone, this mask ensures a comfortable fit and a secure seal, allowing you to enjoy your underwater adventures without worries. Its large frame design provides an expansive field of vision, so you won't miss any of the beautiful sights beneath the surface. With a range of stunning colors to choose from, including CR-yellow, CR-transparent black, and CR-Lake Blue, you can express your personal style while making a statement in the water. The set comes with a full-dry snorkel, designed to prevent water from entering, ensuring a hassle-free experience. Its lightweight design (only 0.5 kg) makes it easy to carry, while the compact size (Length: 17cm, Width: 9cm, Thickness: 7cm) fits perfectly in your diving gear. Don't let anything hold you back from exploring the depths! This versatile set is perfect for snorkeling and deep diving. Equip yourself with our Cross-Border Freediving Mask and Snorkel Set and make your aquatic adventures unforgettable.
   Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/RF9bO2w4bDk80sWd.webp?v=1763660612
-  - [CR-yellow / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412687652)
+  - [CR-yellow / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412687652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/RF9bO2w4bDk80sWd.webp?v=1763660612
     Price: €56.46 EUR
-  - [CR-through powder / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412720420)
+  - [CR-through powder / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412720420)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/k6pShjRD21NLeN3x.webp?v=1763660613
     Price: €56.46 EUR
-  - [CR-Lake Blue / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412753188)
+  - [CR-Lake Blue / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412753188)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Gw8SEv9DtwgpeCeV.webp?v=1763660737
     Price: €56.46 EUR
-  - [CR-transparent blue / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412785956)
+  - [CR-transparent blue / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412785956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/szCGb5LxUaS8PAJw.webp?v=1763660671
     Price: €56.46 EUR
-  - [BK-Black Yellow / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412818724)
+  - [BK-Black Yellow / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412818724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/5WoGfr5b2UXqz8Vi.webp?v=1763660693
     Price: €56.46 EUR
-  - [CR-black and white / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412851492)
+  - [CR-black and white / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412851492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/TexbPrK7Qrh3XUTB.webp?v=1763660649
     Price: €56.46 EUR
-  - [CR-black and yellow / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412884260)
+  - [CR-black and yellow / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412884260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/lp8zb49qyILNCoeS.webp?v=1763660626
     Price: €56.46 EUR
-  - [CR-Black / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412917028)
+  - [CR-Black / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412917028)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/KgDK69iinynQSDbR.webp?v=1763660663
     Price: €56.46 EUR
-  - [CR-transparent black (red head) / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412949796)
+  - [CR-transparent black (red head) / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412949796)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9K3va1GBIyRQSpNN.webp?v=1763660704
     Price: €56.46 EUR
-  - [All Black / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412982564)
+  - [All Black / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338412982564)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/xLHPrIodC2ibsj7j.webp?v=1763660726
     Price: €56.46 EUR
-  - [BK-Black (red head) / M](https://mdgshop.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set?variant=51338413015332)
+  - [BK-Black (red head) / M](https://mdgshop.com/products/-full-face-snorkel-mask-and-breathing-tube-set?variant=51338413015332)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/yNQT963gWFIManOE.webp?v=1763660715
     Price: €56.46 EUR
@@ -3901,7 +3901,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/budIcADpUi5ND0Oa.webp?v=1763660811
   Price: €30.24 EUR
-- [Photon Skin Paste Infrared Health Care Device](https://mdgshop.com/products/photon-skin-paste-infrared-health-care-device): Key FeaturesSkin Benefits: Hydrating & Moisturizing: Delivers deep hydration for glowing, healthy skin. Wrinkle Reduction: Helps diminish fine lines and wrinkles. Acne & Spot Removal: Targets blemishes and dark spots for a clearer complexion. Rejuvenation & Brightening: Promotes radiant, youthful-looking skin. Smooth & Soft Feet: Works effectively to beautify and soften feet. Cold Spraying Technology:Provides a refreshing and soothing skin treatment, locking in moisture and nutrients.Adjustable Modes:Features 4 adjustable gears to customize the intensity and treatment for your needs.USB Charging:Convenient and eco-friendly charging, compatible with most USB ports for on-the-go use.Specifications Material: Plastic Function: Cold spraying Gears: 4 adjustable modes Charging Type: USB Packing Details Facial Mask Device × 1 USB Data Cable × 1
+- [Photon Skin Paste Infrared Health Care Device](https://mdgshop.com/products/photon-skin-paste-infrared-health-care-device): Key FeaturesSkin Benefits: Hydrating & Moisturizing: Delivers deep hydration for glowing, healthy skin. Wrinkle Reduction: Helps diminish fine lines and wrinkles. Acne & Spot Removal: Targets blemishes and dark spots for a clearer complexion. Rejuvenation & Brightening: Promotes radiant, youthful-looking skin. Smooth & Soft Feet: Works effectively to beautify and soften feet. Cold Spraying Technology:Provides a refreshing and soothing skin , locking in moisture and nutrients.Adjustable Modes:Features 4 adjustable gears to customize the intensity and  for your needs.USB Charging:Convenient and eco-friendly charging, compatible with most USB ports for on-the-go use.Specifications Material: Plastic Function: Cold spraying Gears: 4 adjustable modes Charging Type: USB Packing Details Facial Mask Device × 1 USB Data Cable × 1
   Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
@@ -3990,7 +3990,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/yxbRHsYX0e3IRXeK.webp?v=1763660923
   Price: €41.74 EUR
-- [Batana Oil for Hair Growth and Nourishment (120ml)](https://mdgshop.com/products/batana-oil-for-hair-growth-and-nourishment-120ml): Experience the transformative power of Batana Oil with our specially formulated hair growth and repair treatment. This nourishing oil is designed to revitalize your hair from root to tip, helping to prevent breakage and promote healthy, strong locks. Infused with the natural goodness of Batana Oil, this product works wonders by deeply hydrating and strengthening each strand, ensuring your hair remains vibrant and full of life. Whether you're dealing with thinning hair or looking to maintain your luscious locks, our 120ml solution is your go-to remedy. Say goodbye to hair fall and hello to thicker, fuller hair. The lightweight formula absorbs quickly, leaving no greasy residue behind, making it suitable for all hair types. Plus, it's easy to incorporate into your daily hair care routine! Unlock the secret to healthy hair with our Batana Oil. Your hair deserves the best, and with this powerful treatment, you can achieve the strong, beautiful hair you've always wanted. Try it today and see the results for yourself!
+- [Batana Oil for Hair Growth and Nourishment (120ml)](https://mdgshop.com/products/batana-oil-for-hair-growth-and-nourishment-120ml): Experience the transformative power of Batana Oil with our specially formulated hair growth and repair . This nourishing oil is designed to revitalize your hair from root to tip, helping to prevent breakage and promote healthy, strong locks. Infused with the natural goodness of Batana Oil, this product works wonders by deeply hydrating and strengthening each strand, ensuring your hair remains vibrant and full of life. Whether you're dealing with thinning hair or looking to maintain your luscious locks, our 120ml solution is your go-to remedy. Say goodbye to hair fall and hello to thicker, fuller hair. The lightweight formula absorbs quickly, leaving no greasy residue behind, making it suitable for all hair types. Plus, it's easy to incorporate into your daily hair care routine! Unlock the secret to healthy hair with our Batana Oil. Your hair deserves the best, and with this powerful , you can achieve the strong, beautiful hair you've always wanted. Try it today and see the results for yourself!
   Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
@@ -16980,7 +16980,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9f4nY4fw3Jc7H0kG.webp?v=1763674375
     Price: €171.23 EUR
-- [Retro Thick Sole Leather Martin Short Boots](https://mdgshop.com/products/retro-thick-sole-leather-martin-short-boots): Step into a world of style and comfort with our stunning Martin boots, designed specifically for the modern woman. These boots are not just footwear; they are a statement of individuality and confidence. Crafted from premium microfiber, the upper material ensures durability while providing a luxurious feel. The round toe design gives you the perfect blend of fashion and functionality, and the thick heel offers a sturdy base that adds height without sacrificing comfort. With a rubber foam sole, you'll experience excellent traction and support, making these boots perfect for any adventure. Available in two elegant finishes—Black Matte and Black Patent Leather—you can choose the look that best fits your style. Each pair features trendy elements like a stylish belt buckle, embodying the essence of European and American fashion. These mid-calf boots are designed for adult women, making them a versatile choice for various occasions, from casual outings to more formal gatherings. With a thickness that is just right, they provide warmth in the cooler months while maintaining a chic appearance. Whether you're pairing them with jeans, skirts, or dresses, our Martin boots will elevate your outfit effortlessly. Explore the perfect fit for your feet with our size range from 34 to 40, ensuring that every woman can find her perfect match. Don’t miss out on these must-have boots that combine fashion and functionality. Get ready to turn heads and walk with confidence in these gorgeous Martin boots!
+- [Retro Thick Sole Leather Martin Short Boots](https://mdgshop.com/products/retro-thick-sole-leather-martin-short-boots): Step into a world of style and comfort with our stunning Martin boots, designed specifically for the modern woman. These boots are not just footwear; they are a statement of individuality and confidence. Crafted from premium microfiber, the upper material ensures durability while providing a luxurious feel. The round toe design gives you the perfect blend of fashion and functionality, and the thick heel offers a sturdy base that adds height without sacrificing comfort. With a rubber foam sole, you'll experience excellent traction and support, making these boots perfect for any adventure. Available in two elegant finishes—Black Matte and Black Patent Leather—you can choose the look that best fits your style. Each pair features trendy elements like a stylish belt buckle, embodying the essence of European and American fashion. These mid-calf boots are designed for  women, making them a versatile choice for various occasions, from casual outings to more formal gatherings. With a thickness that is just right, they provide warmth in the cooler months while maintaining a chic appearance. Whether you're pairing them with jeans, skirts, or dresses, our Martin boots will elevate your outfit effortlessly. Explore the perfect fit for your feet with our size range from 34 to 40, ensuring that every woman can find her perfect match. Don’t miss out on these must-have boots that combine fashion and functionality. Get ready to turn heads and walk with confidence in these gorgeous Martin boots!
   Updated: 2025-11-25T20:59:55Z
   Vendor: MDG
   Product Type: 
