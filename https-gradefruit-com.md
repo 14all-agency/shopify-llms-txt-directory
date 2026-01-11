@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-01-04T00:00:34.735Z
+- Updated At: 2026-01-11T00:00:34.683Z
 
 ## Products
 
@@ -547,7 +547,7 @@
   Updated: 2025-12-21T12:18:52Z
   Total Products: 34
 - [Bundle and save big](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
-  Updated: 2025-12-01T12:31:12Z
+  Updated: 2026-01-10T12:17:41Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
   Updated: 2025-12-21T12:18:52Z
