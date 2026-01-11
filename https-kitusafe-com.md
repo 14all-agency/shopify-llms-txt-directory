@@ -10,7 +10,7 @@
 - Contact Email: allamazon04@gmail.com
 - Contact Phone: +13017542500
 - Address: 11910 Parklawn Drive; Suite U Rockville, MD  20852
-- Updated At: 2026-01-03T00:00:38.397Z
+- Updated At: 2026-01-11T00:00:38.170Z
 
 ## Products
 
@@ -585,7 +585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Gemini_Generated_Image_4330ji4330ji4330_e1bb1976-ee51-400f-becb-5a88e5dd6325.png?v=1761248771
     Price: $829.99 USD
 - [Feminine Hygiene Kit – Butterfly Design for Clean Care | Kit U Safe](https://kitusafe.com/products/feminine-hygiene-kit-butterfly): Stay confident with the Feminine Hygiene Kit in Butterfly design—compact, discreet essentials for quick, clean, and reliable period care.
-  Updated: 2025-11-19T20:52:53Z
+  Updated: 2026-01-10T02:26:08Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -615,7 +615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/butterfly-feminine-hygiene-kit-period-kits-202893.jpg?v=1761248792
     Price: $324.00 USD
 - [Feminine Hygiene Kit – Pink Design for Everyday Care | Kit U Safe](https://kitusafe.com/products/feminine-hygiene-kit-pink): Stay confident with the Feminine Hygiene Kit in Pink—compact, discreet essentials for quick, clean, and reliable period care anywhere.
-  Updated: 2025-11-19T20:52:53Z
+  Updated: 2026-01-10T02:58:57Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -645,7 +645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-feminine-hygiene-kit-period-kits-179709.jpg?v=1761248829
     Price: $324.00 USD
 - [Feminine Hygiene Kit – Black Treads Discreet Period Care | Kit U Safe](https://kitusafe.com/products/feminine-hygiene-kit-black-treads): Stay confident with the Feminine Hygiene Kit in Black Treads—compact, discreet essentials for quick, clean, and reliable period care anywhere.
-  Updated: 2025-11-19T20:52:54Z
+  Updated: 2026-01-10T03:06:12Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-treads-feminine-hygiene-kit-period-kits-853849.jpg?v=1761248846
     Price: $324.00 USD
 - [Feminine Hygiene Kit – Green Ferns Clean & Confident Care | Kit U Safe](https://kitusafe.com/products/feminine-hygiene-kit-green-ferns): Stay confident with the Feminine Hygiene Kit in Green Ferns—compact, discreet essentials for clean, reliable, and on-the-go period care anywhere.
-  Updated: 2025-11-19T20:52:54Z
+  Updated: 2026-01-10T03:04:32Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -705,7 +705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-ferns-feminine-hygiene-kit-period-kits-911199.jpg?v=1761248869
     Price: $324.00 USD
 - [Feminine Hygiene Kit – Purple Design for Everyday Care | Kit U Safe](https://kitusafe.com/products/feminine-hygiene-kit-purple): Stay confident with the Feminine Hygiene Kit in Purple—compact, discreet essentials for clean, reliable, and on-the-go period care anywhere.
-  Updated: 2025-11-19T20:52:54Z
+  Updated: 2026-01-10T03:06:48Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -735,7 +735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-feminine-hygiene-kit-period-kits-774350.jpg?v=1761248891
     Price: $324.00 USD
 - [Feminine Hygiene Kit Light Rose – Clean, Confident Care | Kit U Safe](https://kitusafe.com/products/feminine-hygiene-kit-light-rose): Stay confident with the Feminine Hygiene Kit in Light Rose—compact, discreet essentials for clean, reliable, and on-the-go period care anywhere.
-  Updated: 2025-11-19T20:52:54Z
+  Updated: 2026-01-10T03:08:18Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -765,7 +765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/light-rose-feminine-hygiene-kit-period-kits-983383.jpg?v=1761248911
     Price: $324.00 USD
 - [Feminine Hygiene Kit – Red Purse Style | Compact & Travel-Ready](https://kitusafe.com/products/feminine-hygiene-kit-red-purse): Stay confident anywhere with this compact feminine hygiene kit in a stylish red purse. Includes pad, tampon, wipes & hand sanitizer for on-the-go care.
-  Updated: 2025-11-19T20:52:54Z
+  Updated: 2026-01-10T03:09:31Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -795,7 +795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-purse-feminine-hygiene-kit-period-kits-760920.jpg?v=1761248932
     Price: $324.00 USD
 - [Under the Sea Feminine Hygiene Kit – Clean, Confident Care](https://kitusafe.com/products/under-the-sea-feminine-hygiene-kit): Stay confident with the Under the Sea Feminine Hygiene Kit—compact, discreet essentials for clean, reliable, and on-the-go period care anywhere.
-  Updated: 2025-11-19T20:52:54Z
+  Updated: 2026-01-10T03:11:20Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -825,7 +825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/under-the-sea-feminine-hygiene-kit-period-kits-767907.jpg?v=1761322422
     Price: $324.00 USD
 - [Blue Forest Feminine Hygiene Kit | Clean, Confident Care Anywhere](https://kitusafe.com/products/blue-forest-feminine-hygiene-kit): Stay confident with the Blue Forest Feminine Hygiene Kit—compact, discreet essentials for clean, reliable, and on-the-go period care anywhere.
-  Updated: 2025-11-19T20:52:55Z
+  Updated: 2026-01-10T03:15:44Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -855,7 +855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-forest-feminine-hygiene-kit-period-kits-118704.jpg?v=1761248981
     Price: $324.00 USD
 - [Rainbow and Unicorns Feminine Hygiene Kit | Clean, Confident Care](https://kitusafe.com/products/rainbow-and-unicorns-feminine-hygiene-kit): Stay confident with the Rainbow and Unicorns Feminine Hygiene Kit—compact, discreet essentials for clean, reliable, and on-the-go period care.
-  Updated: 2025-11-19T20:52:55Z
+  Updated: 2026-01-10T03:17:03Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -885,7 +885,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/rainbow-and-unicorns-feminine-hygiene-kit-period-kits-711030.jpg?v=1761322222
     Price: $324.00 USD
 - [Dark Leather Feminine Hygiene Kit – Discreet & Travel Ready](https://kitusafe.com/products/dark-leather-feminine-hygiene-kit): Stay confident with the Dark Leather Feminine Hygiene Kit—stylish, discreet, and travel-ready. Includes pad, tampon, feminine wipes, and hand wipe for clean, reliable care anywhere.
-  Updated: 2025-11-19T20:52:55Z
+  Updated: 2026-01-10T03:19:04Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -915,7 +915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/dark-leather-feminine-hygiene-kit-period-kits-134062.jpg?v=1761249025
     Price: $324.00 USD
 - [Light Leather Feminine Hygiene Kit – Discreet Travel Essential](https://kitusafe.com/products/light-leather-feminine-hygiene-kit): Stay confident with the Light Leather Feminine Hygiene Kit. A discreet, travel-ready pouch with pads, tampons, and wipes for clean comfort anywhere.
-  Updated: 2025-11-19T20:52:55Z
+  Updated: 2026-01-10T03:20:34Z
   Vendor: Kit U Safe
   Product Type: Period Kits
   Availability: Available
@@ -1540,95 +1540,95 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/gold-toilet-kit-toilets-gold-plain-toilet-kit-50-pack-9399683.png?v=1761249451
     Price: $324.00 USD
-- [Red Mini Travel Medicine Kit – Compact Relief On the Go](https://kitusafe.com/products/red-mini-travel-medicine-kit): Be ready for anything with the Red Mini Travel Medicine Kit. This portable pack includes pain and digestive relief tablets, perfect for work, road trips, or daily travel.
+- [Red Mini Travel  Kit – Compact Relief On the Go](https://kitusafe.com/products/red-mini-travel--kit): Be ready for anything with the Red Mini Travel  Kit. This portable pack includes pain and digestive relief tablets, perfect for work, road trips, or daily travel.
   Updated: 2025-11-19T20:52:58Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhxn22s-1593968.jpg?v=1761249451
-  - [1](https://kitusafe.com/products/red-mini-travel-medicine-kit?variant=48416495075533)
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhxn22s-1593968.jpg?v=1761249451
+  - [1](https://kitusafe.com/products/red-mini-travel--kit?variant=48416495075533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhxn22s-1593968.jpg?v=1761249451
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhxn22s-1593968.jpg?v=1761249451
     Price: $6.99 USD
-  - [3](https://kitusafe.com/products/red-mini-travel-medicine-kit?variant=48416495108301)
+  - [3](https://kitusafe.com/products/red-mini-travel--kit?variant=48416495108301)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhb15tn-8430095.jpg?v=1761249452
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhb15tn-8430095.jpg?v=1761249452
     Price: $18.99 USD
-  - [5](https://kitusafe.com/products/red-mini-travel-medicine-kit?variant=48416495141069)
+  - [5](https://kitusafe.com/products/red-mini-travel--kit?variant=48416495141069)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhd76dz-9121970.jpg?v=1761249454
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhd76dz-9121970.jpg?v=1761249454
     Price: $25.99 USD
-  - [10](https://kitusafe.com/products/red-mini-travel-medicine-kit?variant=48416495173837)
+  - [10](https://kitusafe.com/products/red-mini-travel--kit?variant=48416495173837)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhw37gr-5106791.png?v=1761249456
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhw37gr-5106791.png?v=1761249456
     Price: $39.99 USD
-  - [50](https://kitusafe.com/products/red-mini-travel-medicine-kit?variant=48416495206605)
+  - [50](https://kitusafe.com/products/red-mini-travel--kit?variant=48416495206605)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhlcrhl-1415156.png?v=1761249459
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhlcrhl-1415156.png?v=1761249459
     Price: $176.99 USD
-  - [100](https://kitusafe.com/products/red-mini-travel-medicine-kit?variant=48416495239373)
+  - [100](https://kitusafe.com/products/red-mini-travel--kit?variant=48416495239373)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel-medicine-kit-medicine-b0fdhlcrhl-1415156.png?v=1761249459
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/red-mini-travel--kit--b0fdhlcrhl-1415156.png?v=1761249459
     Price: $324.00 USD
-- [Purple Mini Travel Medicine Kit | Portable Travel Medicine Kit](https://kitusafe.com/products/purple-mini-travel-medicine-kit): Stay prepared with the Purple Mini Travel Medicine Kit — a compact, portable solution for quick relief from headaches, pain, and stomach discomfort anywhere you go.
+- [Purple Mini Travel  Kit | Portable Travel  Kit](https://kitusafe.com/products/purple-mini-travel--kit): Stay prepared with the Purple Mini Travel  Kit — a compact, portable solution for quick relief from headaches, pain, and stomach discomfort anywhere you go.
   Updated: 2025-11-19T20:52:58Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel-medicine-kit-medicine-purple-medicine-single-pack-6946282.jpg?v=1761249477
-  - [1](https://kitusafe.com/products/purple-mini-travel-medicine-kit?variant=48416496648397)
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel--kit--purple--single-pack-6946282.jpg?v=1761249477
+  - [1](https://kitusafe.com/products/purple-mini-travel--kit?variant=48416496648397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel-medicine-kit-medicine-purple-medicine-single-pack-6946282.jpg?v=1761249477
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel--kit--purple--single-pack-6946282.jpg?v=1761249477
     Price: $6.99 USD
-  - [3](https://kitusafe.com/products/purple-mini-travel-medicine-kit?variant=48416496681165)
+  - [3](https://kitusafe.com/products/purple-mini-travel--kit?variant=48416496681165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel-medicine-kit-medicine-purple-medicine-3-pack-4335547.jpg?v=1761249479
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel--kit--purple--3-pack-4335547.jpg?v=1761249479
     Price: $18.99 USD
-  - [5](https://kitusafe.com/products/purple-mini-travel-medicine-kit?variant=48416496713933)
+  - [5](https://kitusafe.com/products/purple-mini-travel--kit?variant=48416496713933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/5x_-_Blue.jpg?v=1761249482
     Price: $25.99 USD
-  - [10](https://kitusafe.com/products/purple-mini-travel-medicine-kit?variant=48416496746701)
+  - [10](https://kitusafe.com/products/purple-mini-travel--kit?variant=48416496746701)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel-medicine-kit-medicine-purple-medicine-10-pack-1958294.jpg?v=1761249483
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel--kit--purple--10-pack-1958294.jpg?v=1761249483
     Price: $39.99 USD
-  - [50](https://kitusafe.com/products/purple-mini-travel-medicine-kit?variant=48416496779469)
+  - [50](https://kitusafe.com/products/purple-mini-travel--kit?variant=48416496779469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel-medicine-kit-medicine-purple-medicine-50-pack-8957959.jpg?v=1761249485
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel--kit--purple--50-pack-8957959.jpg?v=1761249485
     Price: $176.99 USD
-  - [100](https://kitusafe.com/products/purple-mini-travel-medicine-kit?variant=48416496812237)
+  - [100](https://kitusafe.com/products/purple-mini-travel--kit?variant=48416496812237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel-medicine-kit-medicine-purple-medicine-100-pack-5896828.jpg?v=1761249487
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/purple-mini-travel--kit--purple--100-pack-5896828.jpg?v=1761249487
     Price: $324.00 USD
-- [Green Mini Travel Medicine Kit – Compact Travel Medicine Kit](https://kitusafe.com/products/green-mini-travel-medicine-kit): Travel confidently with the Green Mini Travel Medicine Kit. Each tablet is individually wrapped for hygiene and quick relief from pain, heartburn, and upset stomach on the go.
+- [Green Mini Travel  Kit – Compact Travel  Kit](https://kitusafe.com/products/green-mini-travel--kit): Travel confidently with the Green Mini Travel  Kit. Each tablet is individually wrapped for hygiene and quick relief from pain, heartburn, and upset stomach on the go.
   Updated: 2025-11-19T20:52:58Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-single-pack-6137107.jpg?v=1761249498
-  - [1](https://kitusafe.com/products/green-mini-travel-medicine-kit?variant=48416497434829)
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--single-pack-6137107.jpg?v=1761249498
+  - [1](https://kitusafe.com/products/green-mini-travel--kit?variant=48416497434829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-single-pack-6137107.jpg?v=1761249498
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--single-pack-6137107.jpg?v=1761249498
     Price: $6.99 USD
-  - [3](https://kitusafe.com/products/green-mini-travel-medicine-kit?variant=48416497467597)
+  - [3](https://kitusafe.com/products/green-mini-travel--kit?variant=48416497467597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-3-pack-6212127.png?v=1761249499
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--3-pack-6212127.png?v=1761249499
     Price: $18.99 USD
-  - [5](https://kitusafe.com/products/green-mini-travel-medicine-kit?variant=48416497500365)
+  - [5](https://kitusafe.com/products/green-mini-travel--kit?variant=48416497500365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-5-pack-7346713.png?v=1761249502
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--5-pack-7346713.png?v=1761249502
     Price: $25.99 USD
-  - [10](https://kitusafe.com/products/green-mini-travel-medicine-kit?variant=48416497533133)
+  - [10](https://kitusafe.com/products/green-mini-travel--kit?variant=48416497533133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-10-pack-2393903.png?v=1761249503
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--10-pack-2393903.png?v=1761249503
     Price: $49.99 USD
-  - [50](https://kitusafe.com/products/green-mini-travel-medicine-kit?variant=48416497565901)
+  - [50](https://kitusafe.com/products/green-mini-travel--kit?variant=48416497565901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-50-pack-8664078.png?v=1761249505
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--50-pack-8664078.png?v=1761249505
     Price: $239.99 USD
-  - [100](https://kitusafe.com/products/green-mini-travel-medicine-kit?variant=48416497598669)
+  - [100](https://kitusafe.com/products/green-mini-travel--kit?variant=48416497598669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel-medicine-kit-medicine-green-medicine-50-pack-8664078.png?v=1761249505
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/green-mini-travel--kit--green--50-pack-8664078.png?v=1761249505
     Price: $459.99 USD
 - [Green Dog Walking Essentials Kit – Compact Dog Walking Kit](https://kitusafe.com/products/green-dog-walking-essentials-kit): The Green Dog Walking Essentials Kit keeps every walk stress-free. This compact Dog Walking Kit includes a bowl, food, treats, and waste bags for outdoor adventures.
   Updated: 2025-11-19T20:52:58Z
@@ -1663,16 +1663,16 @@
 - [Peach Mini Manicure Kits | Elegant, Portable Mini Manicure Kit](https://kitusafe.com/products/peach-mini-manicure-kit): Travel beautifully with the Peach Mini Manicure Kit — a sleek, portable nail care set featuring individually wrapped essentials for clean, polished nails wherever life takes you.
   Updated: 2025-11-19T20:52:58Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits-medicine-b0fcyylx3x-1418016.jpg?v=1761249532
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits--b0fcyylx3x-1418016.jpg?v=1761249532
   - [1](https://kitusafe.com/products/peach-mini-manicure-kit?variant=48419062776013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits-medicine-b0fcyylx3x-1418016.jpg?v=1761249532
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits--b0fcyylx3x-1418016.jpg?v=1761249532
     Price: $6.99 USD
   - [3](https://kitusafe.com/products/peach-mini-manicure-kit?variant=48419062808781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits-medicine-b0fcyx8hmj-2580080.jpg?v=1761249549
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits--b0fcyx8hmj-2580080.jpg?v=1761249549
     Price: $18.99 USD
   - [5](https://kitusafe.com/products/peach-mini-manicure-kit?variant=48419062841549)
     Availability: Available
@@ -1680,134 +1680,134 @@
     Price: $25.99 USD
   - [10](https://kitusafe.com/products/peach-mini-manicure-kit?variant=48419062874317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits-medicine-b0fcyyj9xc-8729963.jpg?v=1761249554
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits--b0fcyyj9xc-8729963.jpg?v=1761249554
     Price: $49.99 USD
   - [50](https://kitusafe.com/products/peach-mini-manicure-kit?variant=48419062907085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits-medicine-b0fcyv8blm-5104308.jpg?v=1761249556
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits--b0fcyv8blm-5104308.jpg?v=1761249556
     Price: $239.99 USD
   - [100](https://kitusafe.com/products/peach-mini-manicure-kit?variant=48419062939853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits-medicine-b0fcyy2zch-1719704.jpg?v=1761249558
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/peach-mini-manicure-kits--b0fcyy2zch-1719704.jpg?v=1761249558
     Price: $459.99 USD
 - [Pink Flowers Mini Manicure Kit | Compact Floral Nail Care Set](https://kitusafe.com/products/pink-flowers-mini-manicure-kit): Travel beautifully with the Pink Flowers Mini Manicure Kit — a compact floral nail care set with all the essentials for clean, polished nails at home, work, or on the go.
   Updated: 2025-11-19T20:52:59Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits-medicine-b0fctdnhnh-3451258.jpg?v=1761249560
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits--b0fctdnhnh-3451258.jpg?v=1761249560
   - [1](https://kitusafe.com/products/pink-flowers-mini-manicure-kit?variant=48419066839245)
     Availability: Available
     Price: $6.99 USD
   - [3](https://kitusafe.com/products/pink-flowers-mini-manicure-kit?variant=48419066872013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits-medicine-mini-mani-kit-pink-flowers-3-pack-3155197.png?v=1761249570
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits--mini-mani-kit-pink-flowers-3-pack-3155197.png?v=1761249570
     Price: $18.99 USD
   - [5](https://kitusafe.com/products/pink-flowers-mini-manicure-kit?variant=48419066904781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits-medicine-mini-mani-kit-pink-flowers-5-pack-3384639.png?v=1761249572
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits--mini-mani-kit-pink-flowers-5-pack-3384639.png?v=1761249572
     Price: $25.99 USD
   - [10](https://kitusafe.com/products/pink-flowers-mini-manicure-kit?variant=48419066937549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits-medicine-mini-mani-kit-pink-flowers-10-pack-5831135.png?v=1761249573
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits--mini-mani-kit-pink-flowers-10-pack-5831135.png?v=1761249573
     Price: $49.99 USD
   - [50](https://kitusafe.com/products/pink-flowers-mini-manicure-kit?variant=48419066970317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits-medicine-mini-mani-kit-pink-flowers-50-pack-8939593.png?v=1761249575
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits--mini-mani-kit-pink-flowers-50-pack-8939593.png?v=1761249575
     Price: $239.99 USD
   - [100](https://kitusafe.com/products/pink-flowers-mini-manicure-kit?variant=48419067003085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits-medicine-mini-mani-kit-pink-flowers-50-pack-8939593.png?v=1761249575
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/pink-flowers-mini-manicure-kits--mini-mani-kit-pink-flowers-50-pack-8939593.png?v=1761249575
     Price: $459.99 USD
 - [Black Mini Manicure Kit – Travel Nail Care Essentials | Kit U Safe](https://kitusafe.com/products/black-mini-manicure-kit): Stay polished anywhere with the Black Mini Manicure Kit. Includes nail care essentials for travel, work, or home—all individually wrapped for ultimate convenience.
   Updated: 2025-11-19T20:52:59Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-b0fctsfm65-7889934.jpg?v=1761249576
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--b0fctsfm65-7889934.jpg?v=1761249576
   - [1](https://kitusafe.com/products/black-mini-manicure-kit?variant=48421745590477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-b0fctsfm65-7889934.jpg?v=1761249576
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--b0fctsfm65-7889934.jpg?v=1761249576
     Price: $6.99 USD
   - [3](https://kitusafe.com/products/black-mini-manicure-kit?variant=48421745623245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-6836471.png?v=1761249579
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--6836471.png?v=1761249579
     Price: $18.99 USD
   - [5](https://kitusafe.com/products/black-mini-manicure-kit?variant=48421745656013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-mini-mani-kit-black-5-pack-8443469.png?v=1761249581
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--mini-mani-kit-black-5-pack-8443469.png?v=1761249581
     Price: $25.99 USD
   - [10](https://kitusafe.com/products/black-mini-manicure-kit?variant=48421745688781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-mini-mani-kit-black-10-pack-2630455.png?v=1761249582
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--mini-mani-kit-black-10-pack-2630455.png?v=1761249582
     Price: $49.99 USD
   - [50](https://kitusafe.com/products/black-mini-manicure-kit?variant=48421745721549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-mini-mani-kit-black-50-pack-7119215.png?v=1761249584
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--mini-mani-kit-black-50-pack-7119215.png?v=1761249584
     Price: $239.99 USD
   - [100](https://kitusafe.com/products/black-mini-manicure-kit?variant=48421745754317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits-medicine-mini-mani-kit-black-50-pack-7119215.png?v=1761249584
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-mini-manicure-kits--mini-mani-kit-black-50-pack-7119215.png?v=1761249584
     Price: $459.99 USD
 - [Hangover Kit – Fast Recovery Essentials for After a Night Out](https://kitusafe.com/products/black-hangover-kit): Recover fast with the Hangover Kit — complete with electrolytes, pain relief, and mints. Perfect for travel, parties, or mornings after a fun night out.
   Updated: 2025-11-19T20:52:59Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-b0fpnd6dpz-2170785.jpg?v=1761249598
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--b0fpnd6dpz-2170785.jpg?v=1761249598
   - [1](https://kitusafe.com/products/black-hangover-kit?variant=48421760434381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-b0fpnd6dpz-2170785.jpg?v=1761249598
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--b0fpnd6dpz-2170785.jpg?v=1761249598
     Price: $6.99 USD
   - [3](https://kitusafe.com/products/black-hangover-kit?variant=48421760467149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-pink-and-black-hangover-kit-3-pack-8956849.jpg?v=1761249599
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--pink-and-black-hangover-kit-3-pack-8956849.jpg?v=1761249599
     Price: $18.99 USD
   - [5](https://kitusafe.com/products/black-hangover-kit?variant=48421760499917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-pink-and-black-hangover-kit-5-pack-9169779.png?v=1761249601
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--pink-and-black-hangover-kit-5-pack-9169779.png?v=1761249601
     Price: $25.99 USD
   - [10](https://kitusafe.com/products/black-hangover-kit?variant=48421760532685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-pink-and-black-hangover-kit-10-pack-8845100.jpg?v=1761249608
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--pink-and-black-hangover-kit-10-pack-8845100.jpg?v=1761249608
     Price: $49.99 USD
   - [50](https://kitusafe.com/products/black-hangover-kit?variant=48421760565453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-pink-and-black-hangover-kit-50-pack-8394000.jpg?v=1761249608
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--pink-and-black-hangover-kit-50-pack-8394000.jpg?v=1761249608
     Price: $239.99 USD
   - [100](https://kitusafe.com/products/black-hangover-kit?variant=48421760598221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits-medicine-pink-and-black-hangover-kit-100-pack-5695809.jpg?v=1761249606
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/black-hangover-kits--pink-and-black-hangover-kit-100-pack-5695809.jpg?v=1761249606
     Price: $459.99 USD
 - [Hangover Kit – Blue Travel Recovery Pack for Fast Relief](https://kitusafe.com/products/blue-hangover-kits): Recover fast with the Hangover Kit – Blue Edition. Includes electrolytes, pain relief, and antacids to refresh, rehydrate, and get you back on track after a fun night out.
   Updated: 2025-11-19T20:52:59Z
   Vendor: Kit U Safe
-  Product Type: Medicine
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-b0fpp4jp5d-5121260.jpg?v=1761322550
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--b0fpp4jp5d-5121260.jpg?v=1761322550
   - [1](https://kitusafe.com/products/blue-hangover-kits?variant=48421763219661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-b0fpp4jp5d-5121260.jpg?v=1761322550
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--b0fpp4jp5d-5121260.jpg?v=1761322550
     Price: $6.99 USD
   - [3](https://kitusafe.com/products/blue-hangover-kits?variant=48421763252429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-blue-hangover-kit-3-pack-1157348.jpg?v=1761322554
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--blue-hangover-kit-3-pack-1157348.jpg?v=1761322554
     Price: $18.99 USD
   - [5](https://kitusafe.com/products/blue-hangover-kits?variant=48421763285197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-blue-hangover-kit-5-pack-3079759.png?v=1761322558
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--blue-hangover-kit-5-pack-3079759.png?v=1761322558
     Price: $25.99 USD
   - [10](https://kitusafe.com/products/blue-hangover-kits?variant=48421763317965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-blue-hangover-kit-10-pack-1616364.jpg?v=1761322561
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--blue-hangover-kit-10-pack-1616364.jpg?v=1761322561
     Price: $49.99 USD
   - [50](https://kitusafe.com/products/blue-hangover-kits?variant=48421763350733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-blue-hangover-kit-50-pack-6189120.jpg?v=1761322565
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--blue-hangover-kit-50-pack-6189120.jpg?v=1761322565
     Price: $239.99 USD
   - [100](https://kitusafe.com/products/blue-hangover-kits?variant=48421763383501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits-medicine-blue-hangover-kit-100-pack-2244511.jpg?v=1761322568
+    Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/blue-hangover-kits--blue-hangover-kit-100-pack-2244511.jpg?v=1761322568
     Price: $459.99 USD
 - [Guest Hospitality Bundle – Seven Essential Kits | Kit U Safe](https://kitusafe.com/products/guest-hospitality-bundle): Elevate every stay with the Guest Hospitality Bundle—seven essential kits for comfort, hygiene, and a 5-star guest experience.
   Updated: 2025-11-19T20:52:59Z
@@ -1881,10 +1881,10 @@
 - [Menstrual Disc Kits – Comfortable, Leak-Free Period Care | Kit U Safe](https://kitusafe.com/collections/menstrual-disc-kits): Stay fresh and confident with our Menstrual Disc Kits. Leak-free, hygienic, and travel-ready – designed for comfort and eco-friendly period care.
   Updated: 2025-11-19T20:52:51Z
   Total Products: 6
-- [Medicine Kits – Travel & Daily Organization Essentials | Kit U Safe](https://kitusafe.com/collections/medicine-kits): Medicine Kits from Kit U Safe keep pills and essentials organized—compact, travel-ready storage for daily routines, trips, or emergency use.
+- [ Kits – Travel & Daily Organization Essentials | Kit U Safe](https://kitusafe.com/collections/-kits):  Kits from Kit U Safe keep pills and essentials organized—compact, travel-ready storage for daily routines, trips, or emergency use.
   Updated: 2025-11-19T20:52:51Z
   Total Products: 3
-- [Smart Products Filter Index - Do not delete](https://kitusafe.com/collections/globofilter-best-selling-products-index)
+- [Smart Products Filter Index - Do not delete](https://kitusafe.com/collections/globofilter-best--products-index)
   Updated: 2025-11-26T12:04:28Z
   Total Products: 71
 - [Manicure Kits – Portable Nail Care Essentials | Kit U Safe](https://kitusafe.com/collections/manicure-kits): Manicure Kits from Kit U Safe include nail clippers, files, buffers, and wipes—compact, hygienic, and perfect for travel, events, or daily care.
@@ -1934,7 +1934,7 @@
   - [How to Create a First Aid Kit for Your Home: Essential Supplies and Tips - Kit U Safe](https://kitusafe.com/blogs/news/how-to-create-a-first-aid-kit-for-your-home-essential-supplies-and-tips): How to Create a First Aid Kit for Your Home: Essential Supplies and Tips - Kit U Safe
     Updated: 2023-03-20T16:15:09Z
     Author: Kit U Safe
-    Tags: emergency preparedness, medical care
+    Tags: emergency preparedness,  care
   - [Best Period Kits – 15 Essentials to Help You Feel Ready | Kit U Safe](https://kitusafe.com/blogs/news/best-period-kits): Best Period Kits – 15 Essentials to Help You Feel Ready | Kit U Safe
     Updated: 2025-10-29T17:46:48Z
     Author: Kit U Safe
@@ -1959,7 +1959,7 @@
     Updated: 2023-03-20T16:14:48Z
     Author: Kit U Safe
     Tags: #cramps, #endometriosis, #flow, #health, #infertility, #lifestyle, #menses, #menstruation, #ovulation, #pcos, #periods, #pms, #reproductivehealth, #selfcare, #sexualhealth, #uterus, #vagina, #wellness, #womenshealth
-  - [5 Reasons Why Every Woman Should Invest in a Period Kit - Kit U Safe](https://kitusafe.com/blogs/news/5-reasons-why-every-woman-should-invest-in-a-period-kit): 5 Reasons Why Every Woman Should Invest in a Period Kit - Kit U Safe
+  - [5 Reasons Why Every Woman Should  in a Period Kit - Kit U Safe](https://kitusafe.com/blogs/news/5-reasons-why-every-woman-should--in-a-period-kit): 5 Reasons Why Every Woman Should  in a Period Kit - Kit U Safe
     Updated: 2023-03-20T16:14:44Z
     Author: Kit U Safe
     Tags: #health, #hygiene, #periods, #sanitary, #women
@@ -2247,10 +2247,10 @@
     Updated: 2025-10-24T16:10:56Z
     Author: Kit U Safe
     Tags: actionable steps, cleaning, examples, freshness, personal hygiene, tips, toilet kit
-  - ["The Ultimate Guide to Investing in a High-Quality Personal Toilet Kit: Real-Life Examples, Tips, and Actionable Steps to Maximize Your Investment" - Kit U Safe](https://kitusafe.com/blogs/news/the-ultimate-guide-to-investing-in-a-high-quality-personal-toilet-kit-real-life-examples-tips-and-actionable-steps-to-maximize-your-investment): "The Ultimate Guide to Investing in a High-Quality Personal Toilet Kit: Real-Life Examples, Tips, and Actionable Steps to Maximize Your Investment" - Kit U Safe
+  - ["The Ultimate Guide to Investing in a High-Quality Personal Toilet Kit: Real-Life Examples, Tips, and Actionable Steps to Maximize Your " - Kit U Safe](https://kitusafe.com/blogs/news/the-ultimate-guide-to-investing-in-a-high-quality-personal-toilet-kit-real-life-examples-tips-and-actionable-steps-to-maximize-your-): "The Ultimate Guide to Investing in a High-Quality Personal Toilet Kit: Real-Life Examples, Tips, and Actionable Steps to Maximize Your " - Kit U Safe
     Updated: 2025-10-24T16:11:01Z
     Author: Kit U Safe
-    Tags: actionable steps, high-quality, investing, maximize investment, personal toilet kit, real-life examples, tips
+    Tags: actionable steps, high-quality, investing, maximize , personal toilet kit, real-life examples, tips
   - ["The Ultimate Guide to Creating the Perfect Personal Toilet Kit: Real-Life Examples, Tips, and Actionable Steps" - Kit U Safe](https://kitusafe.com/blogs/news/the-ultimate-guide-to-creating-the-perfect-personal-toilet-kit-real-life-examples-tips-and-actionable-steps): "The Ultimate Guide to Creating the Perfect Personal Toilet Kit: Real-Life Examples, Tips, and Actionable Steps" - Kit U Safe
     Updated: 2025-10-24T16:11:03Z
     Author: Kit U Safe
@@ -2351,7 +2351,7 @@
     Updated: 2025-10-24T16:12:47Z
     Author: Kit U Safe
     Tags: 2023, on-the-go hygiene, personal care, personal hygiene, toilet kit, travel essentials, travel hygiene
-  - ["Unlock the Benefits of a Personal Toilet Kit: How to Invest in 2023 with Real-Life Examples, Tips, and Actionable Steps - Kit U Safe](https://kitusafe.com/blogs/news/unlock-the-benefits-of-a-personal-toilet-kit-how-to-invest-in-2023-with-real-life-examples-tips-and-actionable-steps): "Unlock the Benefits of a Personal Toilet Kit: How to Invest in 2023 with Real-Life Examples, Tips, and Actionable Steps - Kit U Safe
+  - ["Unlock the Benefits of a Personal Toilet Kit: How to  in 2023 with Real-Life Examples, Tips, and Actionable Steps - Kit U Safe](https://kitusafe.com/blogs/news/unlock-the-benefits-of-a-personal-toilet-kit-how-to--in-2023-with-real-life-examples-tips-and-actionable-steps): "Unlock the Benefits of a Personal Toilet Kit: How to  in 2023 with Real-Life Examples, Tips, and Actionable Steps - Kit U Safe
     Updated: 2025-10-24T16:12:48Z
     Author: Kit U Safe
     Tags: 2023, actionable steps, investing, personal toilet kit, real-life examples, tips
@@ -2861,9 +2861,11 @@
 - [Kit U Safe Shipping Policy](https://kitusafe.com/pages/shipping-policy): Kit U Safe Shipping Policy Our comprehensive shipping policy is designed to provide complete transparency about when you can expect your Kit U Safe...
   Updated: 2025-11-18T17:19:32Z
 - [Period Kits for Schools | Bulk Hygiene Supplies for K–12](https://kitusafe.com/pages/period-kits-for-schools): Period Kits for Schools Serving Grades K-12 Our period kits for schools are designed to support students across elementary, middle, and high school...
-  Updated: 2025-12-17T19:03:50Z
+  Updated: 2026-01-07T19:42:25Z
 - [Wholesale Application Submitted](https://kitusafe.com/pages/wholesale-application-submitted): Welcome to Wholesale! Your signup was successful. We’ll send you an email shortly with details on how to access special pricing and start ordering.
   Updated: 2025-12-16T19:02:15Z
+- [Wholesale Charity Supplies | Period, Hygiene & First Aid Kits](https://kitusafe.com/pages/charity-wholesale-partner-program): 
+  Updated: 2026-01-08T16:12:15Z
 
 ## Policies
 
