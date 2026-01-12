@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-01-05T00:00:36.137Z
+- Updated At: 2026-01-12T00:00:36.715Z
 
 ## Products
 
@@ -59,19 +59,22 @@
     Availability: Available
     Price: $52.00 USD
 - [Brew’s Ease Decaf Coffee – Smooth Swiss Water® Peruvian Decaf](https://www.brewtheblend.com/products/brew-ease-decaf): Enjoy Brew’s Ease Decaf, a smooth Peruvian medium roast decaffeinated by the Swiss Water® Process. Sweet citrus, caramel & chocolate notes—calm, rich flavor anytime.
-  Updated: 2025-12-08T17:24:27Z
+  Updated: 2026-01-06T03:01:37Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_Drip_12oz_black.jpg?v=1764797622
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_Drip_12oz_black_6d9927a5-961f-4360-b16e-9eb0a6c1eb26.jpg?v=1767625275
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287553276)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_Drip_12oz_black_6d9927a5-961f-4360-b16e-9eb0a6c1eb26.jpg?v=1767625275
     Price: $23.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287520508)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_whole_12_oz_black.jpg?v=1767625275
     Price: $23.00 USD
   - [2 LB / Drip Grind](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287782652)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_s_ease_-_Drip_2_lb_black.jpg?v=1767625275
     Price: $55.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/brew-ease-decaf?variant=46017287749884)
     Availability: Available
@@ -141,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/EveryCup_Original_60-pack_capsules.png?v=1753262392
   Price: $69.66 USD
 - [FrostFire - Dark Cold Brew](https://www.brewtheblend.com/products/frostfire-dark): FrostFire is a specialty-grade blend designed specifically for cold brewing. It delivers a consistently smooth and satisfying cup. Featuring a dark French roast and coarse grounds, it produces a low-acidity coffee with a rich, full-bodied flavor perfect for cold brew enthusiasts. As with Brew the Blend's offerings, FrostFire is made with 100% specialty-grade coffee, ensuring a pure, high-quality coffee experience with no additives or artificial ingredients. This expertly crafted blend highlights the care and precision of creating a refreshing, bold, and naturally delicious cold brew. Whether served over ice or as a chilled concentrate, FrostFire delivers the ultimate cold brew experience every time.
-  Updated: 2026-01-02T16:05:20Z
+  Updated: 2026-01-05T04:52:50Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -472,7 +475,7 @@
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/turtlelisse?variant=46020169236732)
     Availability: Available
     Price: $94.00 USD
-- [Shop Best Sellers | Blend Coffee for Every Taste](https://www.brewtheblend.com/products/riders-collection): Searching for the best coffee near you? Discover our best-selling coffee blends, crafted to perfection for every coffee lover. Order today! "from Brew The Blend
+- [Shop Best Sellers | Blend Coffee for Every Taste](https://www.brewtheblend.com/products/riders-collection): Searching for the best coffee near you? Discover our best- coffee blends, crafted to perfection for every coffee lover. Order today! "from Brew The Blend
   Updated: 2025-11-30T21:18:41Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
@@ -538,8 +541,8 @@
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/brazela?variant=46160896262396)
     Availability: Available
     Price: $102.00 USD
-- [Suntrail Roast](https://www.brewtheblend.com/products/suntrail-roast): A Taste of Paradise - Experience the essence of Colombia with every sip of Suntrail Roast coffee. Grown in the high-altitude regions of Colombia, this coffee captures the vibrant spirit of its homeland. Suntrail Roast brings clarity, brightness, and smooth complexity to your cup. This medium roast showcases citrusy liveliness, light cocoa undertones, and a polished finish — all while honoring the farms and elevations that lend it its character. It’s a coffee that shines with every pour and speaks to the journey behind every bean. ☀️⛰️ Perfect For – Suntrail Roast · Those who enjoy a smooth, well-rounded cup with character · Morning coffee moments or refined afternoon breaks · Pairing with buttery pastries, citrus desserts, or a light brunch · Brewing via drip, Chemex, or AeroPress · Coffee lovers who appreciate a clean, vibrant Colombian roast Join the ranks of satisfied coffee lovers and elevate your coffee experience with Suntrail Roast.
-  Updated: 2026-01-02T08:36:58Z
+- [Suntrail Roast - A Trail of Flavor, Rooted in Colombia.](https://www.brewtheblend.com/products/suntrail-roast): Suntrail Roast is a smooth, medium Colombian coffee with bright citrus notes, gentle sweetness, and a clean, balanced finish. Suntrail Roast, a Taste of Paradise
+  Updated: 2026-01-06T00:56:14Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -567,22 +570,26 @@
     Availability: Available
     Price: $99.00 USD
 - [SolWhisper Mexican Coffee | Rich & Bold Aztec Coffee Blend](https://www.brewtheblend.com/products/solwhisper): Get SolWhisper offers premium flavored coffee beans with rich, bold coffee flavors. Perfect for anyone seeking a truly unique coffee experience.
-  Updated: 2026-01-02T08:40:20Z
+  Updated: 2026-01-06T00:57:29Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_12oz.jpg?v=1764923413
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/solwhisper?variant=46170636878076)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_12oz_9fc2cb96-a628-4073-85d5-52127f54098b.jpg?v=1767618635
     Price: $22.50 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/solwhisper?variant=46170636845308)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Whole_black_-_12oz_68684b41-3b87-40d4-abdf-c12bb7d926af.jpg?v=1767618384
     Price: $22.50 USD
   - [2 LB / Drip Ground](https://www.brewtheblend.com/products/solwhisper?variant=46170636779772)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Drip_black_-_2lb_032629dc-7391-4d47-b5a5-a907161e66e7.jpg?v=1767618749
     Price: $52.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/solwhisper?variant=46170637074684)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SolWhisper_-_Whole_black_-_2lb_b9c9a6e1-81fc-4538-a1c9-88f9d672c86a.jpg?v=1767618889
     Price: $52.00 USD
   - [5 LB / Drip Ground](https://www.brewtheblend.com/products/solwhisper?variant=46170637205756)
     Availability: Available
@@ -639,14 +646,14 @@
     Availability: Available
     Price: $99.00 USD
 - [Garnessa Tea – Radiant Berry Herbal Blend | Brew the Blend](https://www.brewtheblend.com/products/garnessa): Sip the brilliance of Garnessa Tea—a radiant herbal blend of hibiscus, berry, and tropical fruit. Caffeine-free, elegant, and refreshing in every cup.
-  Updated: 2025-11-27T12:47:44Z
+  Updated: 2026-01-09T14:22:42Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Hibiscus_Curran_Tea.png?v=1757495613
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Label_Image.png?v=1767934915
   Price: $16.80 USD
 - [Sumadrift](https://www.brewtheblend.com/products/sumadrift): Sumadrift brings bold flavor, herbal depth, and nuanced chocolate and spice notes into one satisfying roast, paying tribute to Sumatra’s untamed landscapes.
-  Updated: 2026-01-02T07:55:51Z
+  Updated: 2026-01-09T01:43:41Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -939,25 +946,25 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/HoneyCalm_New1.jpg?v=1763498543
   Price: $29.97 USD
 - [Ethereal MaChaTallow – Manuka Honey Chamomile Tallow Balm | Pure Ethereal](https://www.brewtheblend.com/products/ethereal-machatallow-manuka-honey-chamomile-tallow-body-balm): A calming, nourishing balm made with Manuka honey, chamomile, and grass-fed tallow. Ethereal MaChaTallow delivers deep moisture and silky, natural radiance. Made in the USA by Pure Ethereal.
-  Updated: 2025-12-06T19:16:26Z
+  Updated: 2026-01-05T12:33:06Z
   Vendor: Brew the Blend
   Product Type: Tallow Body Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_116_transformation_724.jpg?v=1764236138
   Price: $39.97 USD
 - [Ethereal Tallow Shield Deodorant |Clean Protection, naturally](https://www.brewtheblend.com/products/ethereal-tallow-deodorant): 🛡️Shield Up—The Ethereal Way—tallow deodorant with bergamot scent. Gently nourishes underarms while offering clean, adequate, gender-neutral odor protection.
-  Updated: 2025-12-19T17:45:37Z
+  Updated: 2026-01-09T17:06:09Z
   Vendor: Pure Ethereal
   Product Type: Tallow Deodorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_106_transformation_673_23cfba91-3909-48dc-8607-b9f674feebee.jpg?v=1766123046
   Price: $22.97 USD
 - [RejuvaPeptide - Advanced Multi-Peptide + Copper Peptide Complex Serum](https://www.brewtheblend.com/products/rejuvapeptide-copper-peptide-complex-serum): A comprehensive, lightweight serum formulated to deeply hydrate and visibly rejuvenate the skin. Suitable for all skin types and designed to integrate seamlessly into any routine.
-  Updated: 2026-01-02T19:14:40Z
+  Updated: 2026-01-11T09:44:43Z
   Vendor: Pure Ethereal
   Product Type: Peptide Hydration Serum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/asset_122_transformation_776.jpg?v=1767112326
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Screenshot2026-01-11at1.50.19AM.png?v=1768119252
   Price: $59.97 USD
 
 ## Collections
@@ -1005,8 +1012,8 @@
   Updated: 2025-12-31T12:30:18Z
   Total Products: 8
 - [Pure Ether | Shop Luxury Beauty Products for a Radiant Glow](https://www.brewtheblend.com/collections/pure-ethereal): Looking for the best beauty products? Try our coconut lip balm and best lip balm for deep hydration and nourishment. Shop Pure Ethereal now!
-  Updated: 2025-12-31T12:30:18Z
-  Total Products: 13
+  Updated: 2026-01-05T12:29:34Z
+  Total Products: 12
 - [SOAPS](https://www.brewtheblend.com/collections/body-beauty-soap): Brew the Blend Soap, our new line of products. Hand Made - Bee Free - Palm Free - Dye Free - Essential Oils - Vegan.
   Updated: 2025-10-13T23:26:38Z
   Total Products: 1
@@ -1020,11 +1027,11 @@
   Updated: 2025-11-21T07:25:26Z
   Total Products: 6
 - [SKIN CARE](https://www.brewtheblend.com/collections/skincare)
-  Updated: 2025-12-31T12:30:18Z
-  Total Products: 12
+  Updated: 2026-01-05T12:29:34Z
+  Total Products: 11
 - [DEODORANTS](https://www.brewtheblend.com/collections/deodorants): Pure Protect Deodorant—One key benefit of our Vegetable-Based Natural Deodorant is its ability to build bacteria that combat odor. It is a healthy alternative that allows our body to work as it should while effectively fighting odor. Unlike conventional deodorants that aim to kill bacteria indiscriminately, our vegetable-based formula promotes the growth of beneficial bacteria that naturally reside on our skin, helping neutralize odor-causing bacteria and leaving us feeling fresh and confident throughout the day.
-  Updated: 2025-12-19T05:53:06Z
-  Total Products: 3
+  Updated: 2026-01-05T12:29:34Z
+  Total Products: 2
 - [BEAUTY](https://www.brewtheblend.com/collections/beauty-1): Beauty
   Updated: 2025-07-27T03:26:03Z
   Total Products: 0
@@ -1050,8 +1057,8 @@
   Updated: 2025-11-12T11:14:11Z
   Total Products: 2
 - [TALLOW BASED](https://www.brewtheblend.com/collections/tallow-based)
-  Updated: 2025-12-19T05:53:06Z
-  Total Products: 6
+  Updated: 2026-01-05T12:29:34Z
+  Total Products: 5
 - [FUNCTIONAL COFFEE](https://www.brewtheblend.com/collections/functional-coffee): COMING SOON: Functional Coffee
   Updated: 2025-11-27T14:01:01Z
   Total Products: 0
@@ -1063,11 +1070,11 @@
     Updated: 2025-12-12T17:58:34Z
     Author: Maria Culligan
     Tags: beneficios para la salud, BtB, cup, cup of coffee, cup of tea, gracias, health, health benefits, historia, salud, story, taza de café, taza de té, thank you, visit, visitar
-  - [Celebrating Coffee Month: A Tribute to Our Daily Brew](https://www.brewtheblend.com/blogs/default-blogs/celebrating-coffee-month-a-tribute-to-our-daily-brew): <meta charset="utf-8"><span data-mce-fragment="1">We invite you to join the celebration. Share your coffee moments with us, explore new flavors, and take advantage of our Coffee Month discount. Here's to the coffee that fuels our days and brightens our lives—Happy Coffee Month!</span>
+  - [Celebrating Coffee Month: A Tribute to Our Daily Brew](https://www.brewtheblend.com/blogs/default-blogs/celebrating-coffee-month-a-tribute-to-our-daily-brew): <meta charset="utf-8"><span data-mce-fragment="1">We invite you to join the celebration. Share your coffee moments with us, explore new flavors, and take advantage of our Coffee Month . Here's to the coffee that fuels our days and brightens our lives—Happy Coffee Month!</span>
     Updated: 2025-06-05T21:17:39Z
     Author: Maria Culligan
     Tags: BtB, cup, cup of tea, gracias, health, health benefits, historia, salud, story, thank you
-  - [Celebrating the Spirit of Labor: Honoring Hard Work with Our Labor Day Flash Sale](https://www.brewtheblend.com/blogs/default-blogs/celebrating-the-spirit-of-labor-honoring-hard-work-with-our-labor-day-flash-sale)
+  - [Celebrating the Spirit of Labor: Honoring Hard Work with Our Labor Day Flash ](https://www.brewtheblend.com/blogs/default-blogs/celebrating-the-spirit-of-labor-honoring-hard-work-with-our-labor-day-flash-)
     Updated: 2025-06-05T21:45:21Z
     Author: Maria Culligan
   - [Supporting Mental Health: Our Partnership with Crisis Text Line](https://www.brewtheblend.com/blogs/default-blogs/supporting-mental-health-our-partnership-with-crisis-text-line): Supporting Mental Health: Our Partnership with Crisis Text Line
@@ -1203,7 +1210,7 @@
 
 - [PRIVACY POLICY](https://www.brewtheblend.com/pages/policies-privacy-policy): This Privacy Policy describes how BREW THE BLEND LLC (the "Site," "we," "us," or "our") collects, uses, and discloses your personal information whe...
   Updated: 2025-08-02T07:14:58Z
-- [DO NOT SELL OR SHARE MY INFORMATION](https://www.brewtheblend.com/pages/do-not-sell-or-share-my-information): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [DO NOT  OR SHARE MY INFORMATION](https://www.brewtheblend.com/pages/do-not--or-share-my-information): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-08-02T08:16:38Z
 - [Shipping and Tracking](https://www.brewtheblend.com/pages/shipping-and-tracking): How long will it take for my order to arrive? At BREW THE BLEND, we understand that waiting for your coffee or tea is like waiting for a masterpiec...
   Updated: 2025-08-02T10:05:54Z
