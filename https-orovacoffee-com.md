@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2026-01-04T00:00:43.667Z
+- Updated At: 2026-01-12T00:00:43.354Z
 
 ## Products
 
@@ -117,7 +117,7 @@
   - [1kg](https://orovacoffee.com/products/single-origin-guatemala?variant=52142025933143)
     Availability: Available
     Price: £23.99 GBP
-- [Single-origin Rwanda](https://orovacoffee.com/products/single-origin-rwanda): Rwanda InzovuThough small in size, Rwanda produces some of the most vibrant and distinctive coffees in Africa. Grown between 1,400 and 1,900 metres, this coffee comes from a network of over 35,000 farmers and 40 washing stations, showcasing the country’s dedication to quality and community. Composed of Bourbon and Typica varieties, and fully washed for clarity, the beans are hulled, graded, and hand-sorted at the Rwanda Trading Company in Kigali. Expect a bright, fruity cup with sweet cranberry notes, balanced acidity, and a smooth finish — roasted lightly to preserve its natural sweetness. Perfect for:☕ Refreshing, fruity filter brews⚙️ Complex and sweet espresso shots Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
+- [Single-origin Rwanda](https://orovacoffee.com/products/single-origin-rwanda): Rwanda InzovuThough small in size, Rwanda produces some of the most vibrant and distinctive coffees in Africa. Grown between 1,400 and 1,900 metres, this coffee comes from a network of over 35,000 farmers and 40 washing stations, showcasing the country’s dedication to quality and community. Composed of Bourbon and Typica varieties, and fully washed for clarity, the beans are hulled, graded, and hand-sorted at the Rwanda  Company in Kigali. Expect a bright, fruity cup with sweet cranberry notes, balanced acidity, and a smooth finish — roasted lightly to preserve its natural sweetness. Perfect for:☕ Refreshing, fruity filter brews⚙️ Complex and sweet espresso shots Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
   Updated: 2025-12-18T19:32:40Z
   Vendor: Orovacoffee
   Product Type: 
@@ -177,7 +177,7 @@
   - [1kg](https://orovacoffee.com/products/single-origin-ethiopia-yirgacheffe?variant=52141980385623)
     Availability: Available
     Price: £23.99 GBP
-- [Single-origin El Salvador](https://orovacoffee.com/products/single-origin-el-salvador): El Salvador Las IsabellasSourced from the Las Isabellas farm, nestled on the southern face of Cerrón Grande in the Apaneca region of western El Salvador, this coffee is a blend of Pacamara and Bourbon varieties grown at 1,200–1,450 metres. A proud member of the Blue Harvest project and Rainforest Alliance certified, Las Isabellas spans over 175 acres of natural forest, springs, and waterfalls — a true example of sustainable farming. Under the care of José Roberto Santamaría, the farm produces coffees that are sweet, mild, and beautifully balanced, with notes of plum and rich chocolate. Perfect for:☕ Smooth, balanced espresso🥛 Sweet, deep milk-based drinks🍃 Rounded and flavourful filter coffee Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
+- [Single-origin El Salvador](https://orovacoffee.com/products/single-origin-el-salvador): El Salvador Las IsabellasSourced from the Las Isabellas farm, nestled on the southern face of Cerrón Grande in the Apaneca region of western El Salvador, this coffee is a blend of Pacamara and Bourbon varieties grown at 1,200–1,450 metres. A proud member of the Blue Harvest project and Rainforest Alliance , Las Isabellas spans over 175 acres of natural forest, springs, and waterfalls — a true example of sustainable farming. Under the care of José Roberto Santamaría, the farm produces coffees that are sweet, mild, and beautifully balanced, with notes of plum and rich chocolate. Perfect for:☕ Smooth, balanced espresso🥛 Sweet, deep milk-based drinks🍃 Rounded and flavourful filter coffee Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
   Updated: 2025-12-18T19:32:40Z
   Vendor: Orovacoffee
   Product Type: 
@@ -290,7 +290,7 @@
     Updated: 2025-10-03T10:26:51Z
     Author: Scott Bowen
     Tags: Coffee, Coffee beans
-  - [5 AI-Approved Gifts for Coffee Lovers in 2025](https://orovacoffee.com/blogs/news/5-ai-approved-gifts-for-coffee-lovers-in-2025)
+  - [5 AI- Gifts for Coffee Lovers in 2025](https://orovacoffee.com/blogs/news/5-ai--gifts-for-coffee-lovers-in-2025)
     Updated: 2025-08-29T12:19:03Z
     Author: Scott Bowen
     Tags: Coffee, Coffee beans
@@ -650,10 +650,10 @@
     Updated: 2025-09-05T08:09:41Z
     Author: Orovacoffee
     Tags: brazilian coffee, brazilian coffee gift set, coffee, coffee beans, coffee gift ideas for him, compostable coffee bags, eco coffee, eco-friendly, eco-friendly coffee gift set, gifts, single origin coffee gifts, specialty coffee, top coffee gifts for him, travel-friendly, travel-friendly coffee, unique coffee gift ideas, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
-  - [Specialty Coffee vs Supermarket Coffee Should You Invest](https://orovacoffee.com/blogs/news/specialty-coffee-vs-supermarket-coffee-should-you-invest): Specialty Coffee vs Supermarket Coffee Should You Invest
+  - [Specialty Coffee vs Supermarket Coffee Should You ](https://orovacoffee.com/blogs/news/specialty-coffee-vs-supermarket-coffee-should-you-): Specialty Coffee vs Supermarket Coffee Should You 
     Updated: 2025-10-03T10:26:54Z
     Author: Orovacoffee
-    Tags: best brewing methods, brewing, buy specialty coffee, christmas gifts, coffee, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, coffee investment, espresso, gifts, specialty coffee, specialty coffee vs supermarket coffee, supermarket coffee, sustainable gift ideas for new parents
+    Tags: best brewing methods, brewing, buy specialty coffee, christmas gifts, coffee, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, coffee , espresso, gifts, specialty coffee, specialty coffee vs supermarket coffee, supermarket coffee, sustainable gift ideas for new parents
   - [Experience the Brazilian Coffeebrewer: The Ultimate Adventure Coffee Gift for Espresso-Loving Outdoor Enthusiasts](https://orovacoffee.com/blogs/news/experience-the-brazilian-coffeebrewer-the-ultimate-adventure-coffee-gift-for-espresso-loving-outdoor-enthusiasts): Experience the Brazilian Coffeebrewer: The Ultimate Adventure Coffee Gift for Espresso-Loving Outdoor Enthusiasts
     Updated: 2025-10-03T10:26:26Z
     Author: Orovacoffee
@@ -2355,7 +2355,7 @@
     Updated: 2025-10-26T02:37:49Z
     Author: Orovacoffee
     Tags: affordable coffee sampler boxes, brazilian coffee gift set, coffee, coffee beans, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift ideas, coffee gift under £25, coffee sampler gift, coffee sampler gift box, gifts, sampler, single-origin coffee, single-origin coffee gifts, specialty coffee, specialty coffee gifts, sustainable coffee gift, unique coffee gifts, where can i buy coffee gifts
-  - [☕ New Deal: Save When You Order 3 Bags of Orova Coffee](https://orovacoffee.com/blogs/news/☕-new-deal-save-when-you-order-3-bags-of-orova-coffee)
+  - [☕ New : Save When You Order 3 Bags of Orova Coffee](https://orovacoffee.com/blogs/news/☕-new--save-when-you-order-3-bags-of-orova-coffee)
     Updated: 2025-10-26T11:21:20Z
     Author: Scott Bowen
     Tags: affordable coffee gift options, affordable coffee gifts, affordable coffee gifts for him, affordable coffee gifts for him or her, affordable coffee gifts uk, affordable coffee options, affordable coffee presents, affordable coffee sampler boxes, affordable gift box, affordable gifts, affordable sustainable coffee gifts, alternative brewing, antioxidant properties in coffee, antioxidants, are coffee beans vegan?, aroma, aromas, artisan coffee, artisan coffee beans, artisan coffee experience, artisan coffee gift ideas, artisan coffee gifts, artisan coffee lovers, artisanal coffee brands, artisanal coffee experience, artisanal coffee gift box, artisanal coffee gifts, artisanal coffee methods, artisanal coffee sets, australian coffee, baby shower gifts, bag size, barista, bean sampling, beans sampler gift, beginners guide to coffee tasting, benefits of fair trade coffee, benefits of roasted coffee, best birthday gifts, best brewers, best brewing methods
@@ -3255,7 +3255,7 @@
     Updated: 2025-12-04T02:33:35Z
     Author: Orovacoffee
     Tags: best place to buy coffee, birthday gifts, brewing, celebrate her special day, christmas gifts, coffee, coffee beans, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, coffee lovers gifts, gifts, specialty coffee vs supermarket coffee, sustainable gift ideas for new parents, thoughtful presents, unique coffee gift ideas, where can i buy coffee online
-  - [Travel-Friendly Coffee: What Makes Fresh Roasted Beans an Adventurer’s Best Bet?](https://orovacoffee.com/blogs/news/travel-friendly-coffee-what-makes-fresh-roasted-beans-an-adventurer-s-best-bet): Travel-Friendly Coffee: What Makes Fresh Roasted Beans an Adventurer’s Best Bet?
+  - [Travel-Friendly Coffee: What Makes Fresh Roasted Beans an Adventurer’s Best ?](https://orovacoffee.com/blogs/news/travel-friendly-coffee-what-makes-fresh-roasted-beans-an-adventurer-s-best-): Travel-Friendly Coffee: What Makes Fresh Roasted Beans an Adventurer’s Best ?
     Updated: 2025-12-04T02:40:54Z
     Author: Orovacoffee
     Tags: advantages of roasted beans, adventure coffee gift pack, are coffee beans vegan?, beans, best coffee for travel, best place to buy coffee beans?, coffee, coffee adventures, coffee beans, fresh beans, fresh roasted coffee, gift for someone who loves espresso, how to give coffee as a gift, roasting, specialty coffee beans, top coffee for outdoor lovers, travel coffee, travel-friendly coffee, where can i buy coffee beans uk?
