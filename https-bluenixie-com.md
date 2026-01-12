@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2026-01-05T00:00:41.427Z
+- Updated At: 2026-01-12T00:00:40.872Z
 
 ## Products
 
 - [Bluenixie BN2514_Teesta C & D Cups Cotton Rich Full Coverage T-Shirt Bra](https://bluenixie.com/products/full-coverage-t-shirt-bra): Made of cotton rich pleated fabric in full coverage design. Broad shoulder straps for better support. 30mm broad under bust belt for better grip. 3x3 57mm eye hook for max support. Removable straps options available.
-  Updated: 2025-12-16T00:14:57Z
+  Updated: 2026-01-08T12:06:09Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -89,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
   - [36C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819935546)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹460.00 INR
   - [36C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414936890)
@@ -109,7 +109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [36C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936633658)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/B-1_2_abffdaec-8508-4bbf-b21f-6955cdd1663e.jpg?v=1746445399
     Price: ₹460.00 INR
   - [38C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481397050)
@@ -5288,16 +5288,16 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-12-26T12:07:42Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 58
 - [padded bra](https://bluenixie.com/collections/padded-bra)
   Updated: 2025-12-14T12:13:17Z
   Total Products: 7
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-12-26T12:07:42Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 39
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-12-25T12:09:40Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
   Updated: 2025-12-21T12:12:43Z
@@ -5434,17 +5434,17 @@
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
   Updated: 2025-11-13T13:42:49Z
   Total Products: 1
-- [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-12-25T12:09:40Z
+- [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly  products from Bluenixie with minimum complaints from customers across india and abroad.
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-12-21T12:12:43Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-12-25T12:09:40Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
   Updated: 2025-12-25T12:09:40Z
@@ -5465,10 +5465,10 @@
   Updated: 2025-12-26T12:07:42Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-12-26T12:07:42Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 97
-- [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-12-26T12:07:42Z
+- [Best  products](https://bluenixie.com/collections/best--collection)
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 97
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
   Updated: 2025-12-25T12:09:40Z
@@ -5489,12 +5489,12 @@
   Updated: 2025-11-13T13:45:57Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-12-26T12:07:42Z
+  Updated: 2026-01-09T12:10:43Z
   Total Products: 97
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
   Total Products: 0
-- [Weekend Sale](https://bluenixie.com/collections/weekend-sale): Embrace the joy of weekends with our captivating Weekend Sale! Explore irresistible discounts on your favorite styles and make your weekend shopping an unforgettable experience.
+- [Weekend ](https://bluenixie.com/collections/weekend-): Embrace the joy of weekends with our captivating Weekend ! Explore irresistible discounts on your favorite styles and make your weekend shopping an unforgettable experience.
   Updated: 2025-08-11T13:50:59Z
   Total Products: 2
 - [V Neck T-shirts](https://bluenixie.com/collections/v-neck-t-shirts)
