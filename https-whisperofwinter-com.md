@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2026-01-05T00:00:33.341Z
+- Updated At: 2026-01-12T00:00:33.710Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
@@ -275,7 +275,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
   Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/retro-trucker-hat-black-front-2-6929de6cd3406.jpg?v=1765752950
   Price: $32.99 USD
 - [Nordic Wolf Bindrune Hoodie – Tiwaz Algiz Fehu](https://whisperofwinter.com/products/nordic-wolf-bindrune-hoodie-tiwaz-algiz-fehu-crest): Nordic Wolf Bindrune Hoodie features wolf symbolism and rune inspired art. Embrace winter aesthetics with our cozy unisex apparel!
-  Updated: 2025-12-16T21:11:00Z
+  Updated: 2026-01-06T18:41:41Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
@@ -301,7 +301,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/lane-seven-ls14003-i-premium-full-zip-hoodie-black-front-692b2f28d26f7.jpg?v=1765752914
     Price: $74.99 USD
   - [Black / 3XL](https://whisperofwinter.com/products/nordic-wolf-bindrune-hoodie-tiwaz-algiz-fehu-crest?variant=47290240630836)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/lane-seven-ls14003-i-premium-full-zip-hoodie-black-front-692b2f28d26f7.jpg?v=1765752914
     Price: $79.99 USD
   - [Navy / S](https://whisperofwinter.com/products/nordic-wolf-bindrune-hoodie-tiwaz-algiz-fehu-crest?variant=47290240663604)
