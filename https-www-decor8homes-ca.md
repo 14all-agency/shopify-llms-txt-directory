@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-01-05T00:00:29.192Z
+- Updated At: 2026-01-12T00:00:32.240Z
 
 ## Products
 
@@ -154,7 +154,7 @@
 ## Collections
 
 - [Sculptures & Figurines](https://www.decor8homes.ca/collections/decor-accents): Discover a stunning range of sculptures and figurines to elevate your home décor. From modern and abstract art pieces to elegant tabletop statues, our collection adds a touch of sophistication to any living space. Perfect for living rooms, offices, and bedrooms.
-  Updated: 2025-12-14T16:08:51Z
+  Updated: 2026-01-05T12:24:19Z
   Total Products: 69
 - [Vintage & Antique Home Décor Items](https://www.decor8homes.ca/collections/vintage-classics): Add character and charm to your home with our vintage and antique décor collection. Featuring wooden models, classic gramophones, retro collectibles, and timeless clocks, these pieces are perfect for collectors and anyone who loves a nostalgic touch in their interior design.
   Updated: 2025-12-13T18:06:04Z
