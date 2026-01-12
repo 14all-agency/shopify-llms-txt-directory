@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2026-01-04T00:00:57.820Z
+- Updated At: 2026-01-12T00:00:58.365Z
 
 ## Products
 
@@ -5435,85 +5435,85 @@
   - [LARGE / LARGE](https://cilly.us/products/bundle-mint-green?variant=51297255129429)
     Availability: Available
     Price: CHF 54.97 CHF
-- [Outdoor-Sonnenschirm Rund - Garten-Ampelschirm Römisch](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella): Runder Outdoor-Sonnenschirm für GartenDieser hochwertige runde Outdoor-Sonnenschirm im römischen Stil ist perfekt für Ihren Garten, Ihre Terrasse oder Ihren Hof - auch als Werbeschirm nutzbar.Produktvorteile: Runde Form: Klassisches, elegantes Design Römischer Stil: Stilvoller Ampelschirm Für Garten: Perfekt für Outdoor-Bereiche Bananenschirm: Seitlich versetzter Mast für mehr Platz Werbeschirm: Auch für kommerzielle Nutzung geeignet Robust: Wetterfest und langlebig Ideal für:Garten, Terrasse, Hof, Restaurants, Cafés sowie für Sonnenschutz im Freien.Stilvoller Sonnenschutz für Ihren Außenbereich!
+- [Outdoor-Sonnenschirm Rund - Garten-Ampelschirm Römisch](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella): Runder Outdoor-Sonnenschirm für GartenDieser hochwertige runde Outdoor-Sonnenschirm im römischen Stil ist perfekt für Ihren Garten, Ihre Terrasse oder Ihren Hof - auch als Werbeschirm nutzbar.Produktvorteile: Runde Form: Klassisches, elegantes Design Römischer Stil: Stilvoller Ampelschirm Für Garten: Perfekt für Outdoor-Bereiche Bananenschirm: Seitlich versetzter Mast für mehr Platz Werbeschirm: Auch für kommerzielle Nutzung geeignet Robust: Wetterfest und langlebig Ideal für:Garten, Terrasse, Hof, Restaurants, Cafés sowie für Sonnenschutz im Freien.Stilvoller Sonnenschutz für Ihren Außenbereich!
   Updated: 2025-10-23T14:33:26Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/968F4F5A174517FAB02B7EBD6E65DCBF.jpg?v=1755687552
-  - [royal blue / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605278037)
+  - [royal blue / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605278037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/B95F0FA84506DED0DA82CBDAA5DCBCBB.jpg?v=1755687566
     Price: CHF 720.50 CHF
-  - [navy blue / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605310805)
+  - [navy blue / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605310805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8DA0C11737F8C7CA0396DE7135D8CC34.jpg?v=1755687568
     Price: CHF 720.50 CHF
-  - [Grass green / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605343573)
+  - [Grass green / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605343573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/860047BC20890899F04DD9DC43A0BE80.jpg?v=1755687571
     Price: CHF 720.50 CHF
-  - [Big Red / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605376341)
+  - [Big Red / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605376341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/95D281F2362049448BAF08C4C7CB0C5A.jpg?v=1755687574
     Price: CHF 720.50 CHF
-  - [black / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605409109)
+  - [black / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605409109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1CC86172A4A2ACC68FF4188C020A5B2D.jpg?v=1755687577
     Price: CHF 720.50 CHF
-  - [Lake Blue / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605441877)
+  - [Lake Blue / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605441877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8EDFFF0DC75A79A95B71E1003497A811.jpg?v=1755687580
     Price: CHF 720.50 CHF
-  - [grey / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605474645)
+  - [grey / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605474645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6B6411FDBEEB4CAC1E282C3D932EE6B3.jpg?v=1755687583
     Price: CHF 720.50 CHF
-  - [wine red / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605507413)
+  - [wine red / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605507413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/DEE004EC41F887B172A4042BB22B382A.jpg?v=1755687586
     Price: CHF 720.50 CHF
-  - [coffee / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605540181)
+  - [coffee / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605540181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/A09274DCDE45A7D8E308F0224D797A27.jpg?v=1755687589
     Price: CHF 720.50 CHF
-  - [khaki / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605572949)
+  - [khaki / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605572949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8143BB65F6530083CF0EBA35E9FDA25E.jpg?v=1755687592
     Price: CHF 720.50 CHF
-  - [Off white / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605605717)
+  - [Off white / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605605717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9F7AA6BC8FDBD6C639B1CF8B0F06672E.jpg?v=1755687595
     Price: CHF 720.50 CHF
-  - [blackish green / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605638485)
+  - [blackish green / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605638485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6B292442773B5918C6DEF0340E678164.jpg?v=1755687598
     Price: CHF 720.50 CHF
-  - [brown / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605671253)
+  - [brown / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605671253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/BDE63D5EB0D0D1ADFE630AFA14EDCE33.jpg?v=1755687601
     Price: CHF 720.50 CHF
-  - [Dark brown / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605704021)
+  - [Dark brown / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605704021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/DAC0D582C8DECC2584818BE924487746.jpg?v=1755687604
     Price: CHF 720.50 CHF
-  - [Champagne color / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605736789)
+  - [Champagne color / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605736789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7FC0C79E40C8D764257FAD83D66AA086.jpg?v=1755687607
     Price: CHF 720.50 CHF
-  - [yellow / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605769557)
+  - [yellow / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605769557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/C48BB203E021EFBE646D817B74C3D5C6.jpg?v=1755687609
     Price: CHF 720.50 CHF
-  - [orange / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605802325)
+  - [orange / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605802325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5BF4749659D1166D05F4B1757A6D9445.jpg?v=1755687612
     Price: CHF 720.50 CHF
-  - [Blue and white stripes / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605835093)
+  - [Blue and white stripes / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605835093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2B04982C354F5F6147CD86B969C9AE5D.jpg?v=1755687615
     Price: CHF 720.50 CHF
-  - [Red and white stripes / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella-advertising-umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605867861)
+  - [Red and white stripes / 3-meter-8-bone banana umbrella](https://cilly.us/products/outdoor-sun-umbrella--umbrella-circular-courtyard-garden-outdoor-roman-umbrella-banana-umbrella?variant=51301605867861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/A43B1444024DC2C66E9803D4FB308B84.jpg?v=1755687619
     Price: CHF 720.50 CHF
@@ -7097,7 +7097,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93CA19B9BB0AD0B237ECA41A2650946A.jpg?v=1755865377
   Price: CHF 187.40 CHF
-- [Outdoor 5.3ft Hx4.6ft L Wood Storage Shed Tool Organizer,Garden Shed, Storage Cabinet with Waterproof Asphalt Roof Natural](https://cilly.us/products/outdoor-5-3ft-hx4-6ft-l-wood-storage-shed-tool-organizer-garden-shed-storage-cabinet-with-waterproof-asphalt-roof-natural): Filler:WoodProduct Style:CasualMain Color:NaturalMain Material:Solid WoodUse Case:Garden & OutdoorFrame Durability:Water Resistant FrameProduct DimensionsAssembled Length (in.):55.10Assembled Width (in.):20.00Assembled Height (in.):63.80Weight (lbs.):75.10Package SizeSub-item 1: WF285326AAAPackage Quantity: 151.57 * 24.21 * 6.1 in. 34.04 lbs.Sub-item 2: WF285325AAAPackage Quantity: 160.83 * 26.97 * 4.53 in. 49.34 lbs.Product Features [Durable Fir Wood Frame] This storage shed is made of solid fir wood construction with stained coating which ensures long service lifespan. With its off-the -ground design and 6 supportive feet, the utility tool shed is enough durable and stable for outdoor using. [Spacious Storage Room] With 3-tier shelves, 2 of which are removable, and 1 large space inside, the tool organizer is deal for storing different tools and accessories such as watering can, spades, pots even some long tools etc. Each shelf of this tool storage cabinet can hold 33 lbs which is suitable for many kinds of outdoor equipment. [Waterproof Roof] The tilted asphalt roofs and water-resistant coating protect the storage shed from bad weather like wind and rain while keeping the equipment inside from being destroyed by the water. [2 Lockable Doors&Handles] To secure your tools, the backyard shed is designed with 2 lockable locks which is perfect for protecting your equipment's damage from small animals or wind. With 2 handles in the doors, it allows quick and easy access to your tools. Dimensions] Overall Dimension:55.1x20x63.8inch(LXWXH);Each shelf Dimension:23.3x17.3inch(LXW); For detailed size, please refer to the dimension image. Warm Notice: 2 boxes in total which may not come together.
+- [Outdoor 5.3ft Hx4.6ft L Wood Storage Shed Tool Organizer,Garden Shed, Storage Cabinet with Waterproof Asphalt Roof Natural](https://cilly.us/products/outdoor-5-3ft-hx4-6ft-l-wood-storage-shed-tool-organizer-garden-shed-storage-cabinet-with-waterproof-asphalt-roof-natural): Filler:WoodProduct Style:CasualMain Color:NaturalMain Material:Solid WoodUse Case:Garden & OutdoorFrame Durability:Water Resistant FrameProduct DimensionsAssembled Length (in.):55.10Assembled Width (in.):20.00Assembled Height (in.):63.80Weight (lbs.):75.10Package SizeSub-item 1: WF285326AAAPackage Quantity: 151.57 * 24.21 * 6.1 in. 34.04 lbs.Sub-item 2: WF285325AAAPackage Quantity: 160.83 * 26.97 * 4.53 in. 49.34 lbs.Product Features [Durable Fir Wood Frame] This storage shed is made of solid fir wood construction with stained coating which ensures long service lifespan. With its off-the -ground design and 6 supportive feet, the utility tool shed is enough durable and stable for outdoor using. [Spacious Storage Room] With 3-tier shelves, 2 of which are removable, and 1 large space inside, the tool organizer is  for storing different tools and accessories such as watering can, spades, pots even some long tools etc. Each shelf of this tool storage cabinet can hold 33 lbs which is suitable for many kinds of outdoor equipment. [Waterproof Roof] The tilted asphalt roofs and water-resistant coating protect the storage shed from bad weather like wind and rain while keeping the equipment inside from being destroyed by the water. [2 Lockable Doors&Handles] To secure your tools, the backyard shed is designed with 2 lockable locks which is perfect for protecting your equipment's damage from small animals or wind. With 2 handles in the doors, it allows quick and easy access to your tools. Dimensions] Overall Dimension:55.1x20x63.8inch(LXWXH);Each shelf Dimension:23.3x17.3inch(LXW); For detailed size, please refer to the dimension image. Warm Notice: 2 boxes in total which may not come together.
   Updated: 2025-10-23T14:33:58Z
   Vendor: eprolo
   Product Type: 
@@ -14585,7 +14585,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1960b515-b391-4bc7-b6a7-e3e45bc8e476.jpg?v=1757237744
     Price: CHF 36.50 CHF
-- [Magic Roll Sushi Maker](https://cilly.us/products/magic-roll-sushi-maker): Product category; DIY mold Applicable gift-giving occasions: awards souvenirs, awards commemoratives, anniversary celebrations, advertising promotions, festivals, trade fairs, birthdays, business gifts Custom processing: Yes Time to market: Summer of 2014 Material: food grade PP Packing list Sushi machine*1
+- [Magic Roll Sushi Maker](https://cilly.us/products/magic-roll-sushi-maker): Product category; DIY mold Applicable gift-giving occasions: awards souvenirs, awards commemoratives, anniversary celebrations,  promotions, festivals, trade fairs, birthdays, business gifts Custom processing: Yes Time to market: Summer of 2014 Material: food grade PP Packing list Sushi machine*1
   Updated: 2025-09-07T22:27:25Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
@@ -14599,7 +14599,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6afa65e2-9d95-4f04-92be-985cb6f7fad5.jpg?v=1757241313
   Price: CHF 18.10 CHF
-- [Mini Fruit Kiwi Cutter Peeler Slicer Kitchen Bar Supplies Gadgets Tools For Pitaya Vegetable Fruit Tools Shredders Slicers](https://cilly.us/products/mini-fruit-kiwi-cutter-peeler-slicer-kitchen-bar-supplies-gadgets-tools-for-pitaya-vegetable-fruit-tools-shredders-slicers): Product Name: Import of fruit and vegetables / export-production and sale Code Color: Send by random Code Dimensions: Approx.5.5 * 4.5 cm Product Material: ABS + Stainless Steel Product include: 1 x appliance for kiwi
+- [Mini Fruit Kiwi Cutter Peeler Slicer Kitchen Bar Supplies Gadgets Tools For Pitaya Vegetable Fruit Tools Shredders Slicers](https://cilly.us/products/mini-fruit-kiwi-cutter-peeler-slicer-kitchen-bar-supplies-gadgets-tools-for-pitaya-vegetable-fruit-tools-shredders-slicers): Product Name: Import of fruit and vegetables / export-production and  Code Color: Send by random Code Dimensions: Approx.5.5 * 4.5 cm Product Material: ABS + Stainless Steel Product include: 1 x appliance for kiwi
   Updated: 2025-09-07T22:41:07Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
@@ -15344,7 +15344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/79c4fba1-32e4-4eb4-b51c-f2bfbabee188_0da589d7-8281-4674-b738-329cb84eee53.jpg?v=1757282545
     Price: CHF 12.50 CHF
 - [Leder-Trainingsball Hund mit Griff - Zerrspielzeug für Welpen](https://cilly.us/products/leather-dog-training-ball-toy-dog-ball-tug-toy-with-a-handle-dog-bite-toy-soft-puppy-reward-toy-pet-supplies): Leder-Trainingsball für Hunde mit GriffDieser weiche Leder-Trainingsball mit Griff ist perfekt als Zerrspielzeug und Belohnung für Welpen - hochwertiges Trainingszubehör für die DACH-Region.Produktvorteile: Leder-Material: Hochwertig und langlebig Mit Griff: Einfach zu halten beim Training Zerrspielzeug: Perfekt für Tauziehen Weich: Schonend für Welpenzähne Belohnung: Ideal als Trainingsbelohnung Für Welpen: Speziell für junge Hunde Ideal für:Welpen, Training, Zerrspiele, Belohnung sowie für Hundetraining.Hochwertiges Leder-Trainingsspielzeug!
-  Updated: 2025-10-22T13:52:32Z
+  Updated: 2026-01-09T13:06:32Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -15594,7 +15594,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e21d4de1-3925-456d-a474-53980ae668da.jpg?v=1757288382
   Price: CHF 9.60 CHF
-- [Pet Cat Molar Rod Molar Teeth Cleaning](https://cilly.us/products/pet-cat-molar-rod-molar-teeth-cleaning): Product information: Applicable stage: Adult Weight: 15g Flavor: molar Rod 5 pieces Purpose: Pet molar Rod Packing list: Molar Rod 5 pieces Product Image:
+- [Pet Cat Molar Rod Molar Teeth Cleaning](https://cilly.us/products/pet-cat-molar-rod-molar-teeth-cleaning): Product information: Applicable stage:  Weight: 15g Flavor: molar Rod 5 pieces Purpose: Pet molar Rod Packing list: Molar Rod 5 pieces Product Image:
   Updated: 2025-09-08T21:46:36Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -15827,7 +15827,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2258171739397.jpg?v=1757350045
     Price: CHF 9.90 CHF
-- [Mewoo Large Cat Tree Tower For Adult Cats - Multi-Level Scratching Post With Removable Perch & Interactive Toys, Indoor Cat Furniture For Kittens Green](https://cilly.us/products/mewoo-large-cat-tree-tower-for-adult-cats-multi-level-scratching-post-with-removable-perch-interactive-toys-indoor-cat-furniture-for-kittens-green): About this item Space-Saving Design: This green cat tree offers ample entertainment, relaxation, scratching, and climbing opportunities for your feline without taking up too much space Sturdy and Reliable Construction: Built with robust wood, natural sisal rope, and soft fabric, this aesthetic cat tree features a wide, stable base with reinforced hinges to prevent tipping Oversized Cat Bed: The top features a spacious 15.8'' diameter bed, perfect for stretching out and relaxing. The ideal height provides a great vantage point for bird-watching and sunbathing. The cat perch is removable and machine washable Cat Self Groomer: The base includes a self-grooming brush and is covered in soft, green fabric, offering your cat both a grooming spot and a cozy nap area Easy Assembly: With simple step-by-step instructions and no extra tools required, you can quickly set up this cat tree and let your cat enjoy it in minutes Product Description Tips: Our products are not supported for sale in Amazon Temu eBay Walmart
+- [Mewoo Large Cat Tree Tower For  Cats - Multi-Level Scratching Post With Removable Perch & Interactive Toys, Indoor Cat Furniture For Kittens Green](https://cilly.us/products/mewoo-large-cat-tree-tower-for--cats-multi-level-scratching-post-with-removable-perch-interactive-toys-indoor-cat-furniture-for-kittens-green): About this item Space-Saving Design: This green cat tree offers ample entertainment, relaxation, scratching, and climbing opportunities for your feline without taking up too much space Sturdy and Reliable Construction: Built with robust wood, natural sisal rope, and soft fabric, this aesthetic cat tree features a wide, stable base with reinforced hinges to prevent tipping Oversized Cat Bed: The top features a spacious 15.8'' diameter bed, perfect for stretching out and relaxing. The ideal height provides a great vantage point for bird-watching and sunbathing. The cat perch is removable and machine washable Cat Self Groomer: The base includes a self-grooming brush and is covered in soft, green fabric, offering your cat both a grooming spot and a cozy nap area Easy Assembly: With simple step-by-step instructions and no extra tools required, you can quickly set up this cat tree and let your cat enjoy it in minutes Product Description Tips: Our products are not supported for  in Amazon Temu eBay Walmart
   Updated: 2025-09-09T07:08:39Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -18313,7 +18313,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/994383382603.jpg?v=1757507531
     Price: CHF 19.20 CHF
-- [Leather Genuine Cowhide Neck Binding Collar](https://cilly.us/products/leather-genuine-cowhide-neck-binding-collar): Product information: Color: Black and Red Specifications: Black PU collar drag chain, wine red PU collar drag chain, maroon PU collar drag chain, black cowhide collar drag chain Material: Cowhide Category: Sex toy Packing list: Collar*1, Pull lead*1 Product Image:
+- [Leather Genuine Cowhide Neck Binding Collar](https://cilly.us/products/leather-genuine-cowhide-neck-binding-collar): Product information: Color: Black and Red Specifications: Black PU collar drag chain, wine red PU collar drag chain, maroon PU collar drag chain, black cowhide collar drag chain Material: Cowhide Category:  toy Packing list: Collar*1, Pull lead*1 Product Image:
   Updated: 2025-09-11T12:45:04Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -19725,7 +19725,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/cd438d96-a0f5-45a0-9ce2-0b830e799e41.jpg?v=1757760898
     Price: CHF 14.80 CHF
-- [MEWOOFUN Donut Dog Bed For Small Dogs - Calming Round Fluffy Pet Bed With Non-Slip Bottom, Washable Puppy & Kitten Bed 25x25x7 Inch, Cream](https://cilly.us/products/mewoofun-donut-dog-bed-for-small-dogs-calming-round-fluffy-pet-bed-with-non-slip-bottom-washable-puppy-kitten-bed-25x25x7-inch-cream): About this item Ultimate Comfort & Support: This washable dog bed features raised, circular edges that provide full-body support, mimicking the comfort of a mother's embrace. Perfect for calming anxious puppies or kittens, it helps alleviate discomfort, separation anxiety, and creates a relaxing space for your pet to unwind and rest Shed-Free Fabric: Crafted from OEKO-TEX standard 100 certified, ultra-soft, shed-free material, this Donut dog bed offers a cozy resting spot without adding pressure on your pet's joints. It soothes joint and muscle pain, all while keeping your home clean and tidy by reducing fur build up Versatile Options: The sleek, neutral design blends effortlessly with any home decor, making it an ideal present for pet lovers. This small pet bed also comes in various sizes and colors. Not sure about sizing? We recommend going one size up for extra comfort! Machine-Washable: The removable cover is machine washable for easy care and long-lasting use. Just wash in cold water on a gentle cycle, and tumble dry. Pro tip: Give it a gentle shake after unpacking and let it sit for 1-2 days to fluff up! Non-Slip Bottom: With a non-slip base, this fluffy dog bed stays in place, even for older or less mobile pets. It's perfect for use on floors, carpets, or in cars, offering a safe and cozy travel bed for your furry friend Product Description Tips: Our products are not supported for sale in Amazon Temu eBay Walmart
+- [MEWOOFUN Donut Dog Bed For Small Dogs - Calming Round Fluffy Pet Bed With Non-Slip Bottom, Washable Puppy & Kitten Bed 25x25x7 Inch, Cream](https://cilly.us/products/mewoofun-donut-dog-bed-for-small-dogs-calming-round-fluffy-pet-bed-with-non-slip-bottom-washable-puppy-kitten-bed-25x25x7-inch-cream): About this item Ultimate Comfort & Support: This washable dog bed features raised, circular edges that provide full-body support, mimicking the comfort of a mother's embrace. Perfect for calming anxious puppies or kittens, it helps alleviate discomfort, separation anxiety, and creates a relaxing space for your pet to unwind and rest Shed-Free Fabric: Crafted from OEKO-TEX standard 100 , ultra-soft, shed-free material, this Donut dog bed offers a cozy resting spot without adding pressure on your pet's joints. It soothes joint and muscle pain, all while keeping your home clean and tidy by reducing fur build up Versatile Options: The sleek, neutral design blends effortlessly with any home decor, making it an ideal present for pet lovers. This small pet bed also comes in various sizes and colors. Not sure about sizing? We recommend going one size up for extra comfort! Machine-Washable: The removable cover is machine washable for easy care and long-lasting use. Just wash in cold water on a gentle cycle, and tumble dry. Pro tip: Give it a gentle shake after unpacking and let it sit for 1-2 days to fluff up! Non-Slip Bottom: With a non-slip base, this fluffy dog bed stays in place, even for older or less mobile pets. It's perfect for use on floors, carpets, or in cars, offering a safe and cozy travel bed for your furry friend Product Description Tips: Our products are not supported for  in Amazon Temu eBay Walmart
   Updated: 2025-09-13T23:39:22Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -19818,7 +19818,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1823973240671047680.jpg?v=1757847369
   Price: CHF 9.90 CHF
-- [New Windmill Cat Toys Cute Rotating Interactive Cat Toy - Indoor Windmill Cat Toy With Suction Cup Catnip & Jagged Teeth Middle Ball, Smart Kitten Rotating Spinner Exercise Toy, Toothbrush & Massager](https://cilly.us/products/new-windmill-cat-toys-cute-rotating-interactive-cat-toy-indoor-windmill-cat-toy-with-suction-cup-catnip-jagged-teeth-middle-ball-smart-kitten-rotating-spinner-exercise-toy-toothbrush-massager): Safe & Durable Design - Rest assured knowing that our windmill cat toy is crafted with safety and durability in mind. It is made from high-quality materials that can withstand your cat's enthusiastic play. Promote Play Games - The jagged teeth on the surface of this toy ball act as a toothbrush, grinding & cleaning your cat's teeth as they bite it. Combine play games with fun for a pet companion! Stimulates Hunting Instincts - The rotating windmill & flashing light mimic the movement of prey, stimulating their hunting instincts. Watch as they pounce, swat, and chase. Unleash your cat's inner hunter! Versatile & Secure - This rotating toy comes with a suction cup, allowing you to securely attach it to flat surfaces. Whether it's on a wall or floor, you can create the perfect play zone for your cat. Fulfills Itchy Needs - The textured surface of this toy's ball provides the perfect spot for them to rub & scratch against, offering a satisfying itch relief and preventing damage to your furniture. Overview: Fidget Spinner for Your Cats! Need a fun toy for your not-so-active cat? Little something for your cat instead of a short foot-petting session? Fidget Spinner Windmill Cat Toy is an interactive, fun & safe cat toy that's perfectly designed to entertain your cat! Give your cat an exciting playtime, a training session for those small paws! (Hi-yah!) Specification: Type: Windmill Cat Toy NOTE:Catnip, bells, and luminous balls are all presented randomly, not guaranteed Package Content : 1* Cat Toy Operation Instruction Stick It & Let It SPIN! Find a nice flat surface, stick the Fidget Spinner Windmill Cat Toy suction cup. It can be placed on a door, wall, tub, and floor. LED Ball with Automatic Switch Did I mention the automatic turn on/off LED light ball? It is motion-activated, that means you never need to turn it on or off. It will light up when your cat is playing with it! For Catnip Lovers For those catnip lovers, we included two catnip balls that can be inserted in the transparent ball area. It really helps to relieve anxiety and stress for your cat! Give Your Toes Some Break! All the toe biting and foot-petting. This toy will be your cat’s favorite scratching post for itchy head and biting game. Clean teeth and nice breath for extra.
+- [New Windmill Cat Toys Cute Rotating Interactive Cat Toy - Indoor Windmill Cat Toy With Suction Cup Catnip & Jagged Teeth Middle Ball, Smart Kitten Rotating Spinner Exercise Toy, Toothbrush & Massager](https://cilly.us/products/new-windmill-cat-toys-cute-rotating-interactive-cat-toy-indoor-windmill-cat-toy-with-suction-cup-catnip-jagged-teeth-middle-ball-smart-kitten-rotating-spinner-exercise-toy-toothbrush-massager): Safe & Durable Design - Rest assured knowing that our windmill cat toy is crafted with safety and durability in mind. It is made from high-quality materials that can withstand your cat's enthusiastic play. Promote Play Games - The jagged teeth on the surface of this toy ball act as a toothbrush, grinding & cleaning your cat's teeth as they bite it. Combine play games with fun for a pet companion! Stimulates Hunting Instincts - The rotating windmill & flashing light mimic the movement of prey, stimulating their hunting instincts. Watch as they pounce, swat, and chase. Unleash your cat's inner hunter! Versatile & Secure - This rotating toy comes with a suction cup, allowing you to securely attach it to flat surfaces. Whether it's on a wall or floor, you can create the perfect play zone for your cat. Fulfills Itchy Needs - The textured surface of this toy's ball provides the perfect spot for them to rub & scratch against, offering a satisfying itch relief and preventing damage to your furniture. Overview: Fidget Spinner for Your Cats! Need a fun toy for your not-so-active cat? Little something for your cat instead of a short foot-petting session? Fidget Spinner Windmill Cat Toy is an interactive, fun & safe cat toy that's perfectly designed to entertain your cat! Give your cat an exciting playtime, a training session for those small paws! (Hi-yah!) Specification: Type: Windmill Cat Toy NOTE:Catnip, bells, and luminous balls are all presented randomly, not  Package Content : 1* Cat Toy Operation Instruction Stick It & Let It SPIN! Find a nice flat surface, stick the Fidget Spinner Windmill Cat Toy suction cup. It can be placed on a door, wall, tub, and floor. LED Ball with Automatic Switch Did I mention the automatic turn on/off LED light ball? It is motion-activated, that means you never need to turn it on or off. It will light up when your cat is playing with it! For Catnip Lovers For those catnip lovers, we included two catnip balls that can be inserted in the transparent ball area. It really helps to relieve anxiety and stress for your cat! Give Your Toes Some Break! All the toe biting and foot-petting. This toy will be your cat’s favorite scratching post for itchy head and biting game. Clean teeth and nice breath for extra.
   Updated: 2025-09-14T22:57:43Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -20982,7 +20982,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1639064367828.jpg?v=1758371308
   Price: CHF 28.50 CHF
-- [Japanese creative sushi plate rectangular plate](https://cilly.us/products/japanese-creative-sushi-plate-rectangular-plate): Product Category: Bowl Material: porcelain Shape: square Applicable object: Adult Style: Japanese Disk type: flat disk Tea tableware craft: underglaze Manual: yes
+- [Japanese creative sushi plate rectangular plate](https://cilly.us/products/japanese-creative-sushi-plate-rectangular-plate): Product Category: Bowl Material: porcelain Shape: square Applicable object:  Style: Japanese Disk type: flat disk Tea tableware craft: underglaze Manual: yes
   Updated: 2025-09-21T00:56:06Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
@@ -21514,7 +21514,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f846634e-4604-4fe9-b10c-7ab0d92976eb.jpg?v=1758408185
     Price: CHF 10.00 CHF
-- [Pet Water Cup Outdoor Portable Folding Dog Water Bottle 550ml Large Capacity Medium To Large Dog Drinking Bottle](https://cilly.us/products/pet-water-cup-outdoor-portable-folding-dog-water-bottle-550ml-large-capacity-medium-to-large-dog-drinking-bottle): Overview: Easy to carry when traveling must for outdoor play, water is available wherever you are. Food-grade material safe and odorless, with no harmful substances. Product Information: Specifications: Lake Blue (550ml), Pink (550ml), Gray (550ml), blue (450ml), Gray (450ml), Pink (450ml), Purple (450ml), white (450ml), yellow (450ml) Gifts: advertising gifts, promotional gifts, welfare gifts, public relations gifts Material: Plastic Category: Pet tableware Pattern: solid color Size: Packing List: Dog water cup X1 Product Image:
+- [Pet Water Cup Outdoor Portable Folding Dog Water Bottle 550ml Large Capacity Medium To Large Dog Drinking Bottle](https://cilly.us/products/pet-water-cup-outdoor-portable-folding-dog-water-bottle-550ml-large-capacity-medium-to-large-dog-drinking-bottle): Overview: Easy to carry when traveling must for outdoor play, water is available wherever you are. Food-grade material safe and odorless, with no harmful substances. Product Information: Specifications: Lake Blue (550ml), Pink (550ml), Gray (550ml), blue (450ml), Gray (450ml), Pink (450ml), Purple (450ml), white (450ml), yellow (450ml) Gifts:  gifts,  gifts, welfare gifts, public relations gifts Material: Plastic Category: Pet tableware Pattern: solid color Size: Packing List: Dog water cup X1 Product Image:
   Updated: 2025-09-21T10:47:11Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -21766,7 +21766,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9e9fc7d5-d0e9-4635-849b-13dce75239ac.jpg?v=1758444369
     Price: CHF 17.40 CHF
-- [MEWOOFUN Donut Cat Bed - Washable Round Pet Bed For Indoor Cats & Kittens, Fluffy Non-Slip Calming Bed For Puppies, Grey](https://cilly.us/products/mewoofun-donut-cat-bed-washable-round-pet-bed-for-indoor-cats-kittens-fluffy-non-slip-calming-bed-for-puppies-grey): About this item Ultimate Comfort & Support: This washable dog bed features raised, circular edges that provide full-body support, mimicking the comfort of a mother's embrace. Perfect for calming anxious puppies or kittens, it helps alleviate discomfort, separation anxiety, and creates a relaxing space for your pet to unwind and rest Shed-Free Fabric: Crafted from OEKO-TEX standard 100 certified, ultra-soft, shed-free material, this Donut dog bed offers a cozy resting spot without adding pressure on your pet's joints. It soothes joint and muscle pain, all while keeping your home clean and tidy by reducing fur build up Versatile Options: The sleek, neutral design blends effortlessly with any home decor, making it an ideal present for pet lovers. This small pet bed also comes in various sizes and colors. Not sure about sizing? We recommend going one size up for extra comfort! Machine-Washable: The removable cover is machine washable for easy care and long-lasting use. Just wash in cold water on a gentle cycle, and tumble dry. Pro tip: Give it a gentle shake after unpacking and let it sit for 1-2 days to fluff up! Non-Slip Bottom: With a non-slip base, this fluffy dog bed stays in place, even for older or less mobile pets. It's perfect for use on floors, carpets, or in cars, offering a safe and cozy travel bed for your furry friend Product Description Tips: Our products are not supported for sale in Amazon Temu eBay Walmart
+- [MEWOOFUN Donut Cat Bed - Washable Round Pet Bed For Indoor Cats & Kittens, Fluffy Non-Slip Calming Bed For Puppies, Grey](https://cilly.us/products/mewoofun-donut-cat-bed-washable-round-pet-bed-for-indoor-cats-kittens-fluffy-non-slip-calming-bed-for-puppies-grey): About this item Ultimate Comfort & Support: This washable dog bed features raised, circular edges that provide full-body support, mimicking the comfort of a mother's embrace. Perfect for calming anxious puppies or kittens, it helps alleviate discomfort, separation anxiety, and creates a relaxing space for your pet to unwind and rest Shed-Free Fabric: Crafted from OEKO-TEX standard 100 , ultra-soft, shed-free material, this Donut dog bed offers a cozy resting spot without adding pressure on your pet's joints. It soothes joint and muscle pain, all while keeping your home clean and tidy by reducing fur build up Versatile Options: The sleek, neutral design blends effortlessly with any home decor, making it an ideal present for pet lovers. This small pet bed also comes in various sizes and colors. Not sure about sizing? We recommend going one size up for extra comfort! Machine-Washable: The removable cover is machine washable for easy care and long-lasting use. Just wash in cold water on a gentle cycle, and tumble dry. Pro tip: Give it a gentle shake after unpacking and let it sit for 1-2 days to fluff up! Non-Slip Bottom: With a non-slip base, this fluffy dog bed stays in place, even for older or less mobile pets. It's perfect for use on floors, carpets, or in cars, offering a safe and cozy travel bed for your furry friend Product Description Tips: Our products are not supported for  in Amazon Temu eBay Walmart
   Updated: 2025-09-21T20:48:59Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
@@ -27009,41 +27009,41 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/acf6cf72-367a-4e18-a29a-4543a10bf3a6.jpg?v=1759837499
     Price: CHF 22.30 CHF
-- [Hundebett Sofa-Form - Warmes Winterbett für Welpen & kleine Hunde](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed): Kuscheliges Hundebett in Sofa-Form für WelpenDieses niedliche Hundebett in Sofa-Form bietet Ihrem Welpen oder kleinen Hund einen warmen und gemütlichen Schlafplatz für die kalte Jahreszeit.Produktvorteile: Sofa-Design: Erhöhte Ränder bieten Geborgenheit und Komfort Warm für Winter: Gefüllt mit hochelastischer PP-Baumwolle und Moon Velvet Weich & kuschelig: Angenehmes Material für erholsamen Schlaf Für Welpen & kleine Hunde: Perfekte Größe für kleinere Rassen Niedliches Design: Mit Cartoon-Augen (abnehmbar) Zwei Größen: Small (55x40cm) und Large (55x45cm) Material:Hochelastische PP-Baumwolle und Moon Velvet für optimalen KomfortIdeal für:Welpen, kleine Hunderassen, Wintermonate, Katzen sowie als gemütlicher Rückzugsort.Ein Traum von einem Bett für Ihren kleinen Liebling!
+- [Hundebett Sofa-Form - Warmes Winterbett für Welpen & kleine Hunde](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed): Kuscheliges Hundebett in Sofa-Form für WelpenDieses niedliche Hundebett in Sofa-Form bietet Ihrem Welpen oder kleinen Hund einen warmen und gemütlichen Schlafplatz für die kalte Jahreszeit.Produktvorteile: Sofa-Design: Erhöhte Ränder bieten Geborgenheit und Komfort Warm für Winter: Gefüllt mit hochelastischer PP-Baumwolle und Moon Velvet Weich & kuschelig: Angenehmes Material für erholsamen Schlaf Für Welpen & kleine Hunde: Perfekte Größe für kleinere Rassen Niedliches Design: Mit Cartoon-Augen (abnehmbar) Zwei Größen: Small (55x40cm) und Large (55x45cm) Material:Hochelastische PP-Baumwolle und Moon Velvet für optimalen KomfortIdeal für:Welpen, kleine Hunderassen, Wintermonate, Katzen sowie als gemütlicher Rückzugsort.Ein Traum von einem Bett für Ihren kleinen Liebling!
   Updated: 2025-10-21T22:58:48Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f1874191-4b43-467d-a7f2-0ab9325c5ca0.jpg?v=1759837663
-  - [Blue / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889659221)
+  - [Blue / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889659221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3add4ddc-94fc-45a2-a6bd-b93b65bed7e7.jpg?v=1759837671
     Price: CHF 24.20 CHF
-  - [Blue / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889691989)
+  - [Blue / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889691989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3add4ddc-94fc-45a2-a6bd-b93b65bed7e7.jpg?v=1759837671
     Price: CHF 21.50 CHF
-  - [Green / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889724757)
+  - [Green / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889724757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6c1fa66e-8402-4767-b12c-d8e118767942.jpg?v=1759837671
     Price: CHF 24.20 CHF
-  - [Green / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889757525)
+  - [Green / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889757525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6c1fa66e-8402-4767-b12c-d8e118767942.jpg?v=1759837671
     Price: CHF 21.50 CHF
-  - [Purple / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889790293)
+  - [Purple / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889790293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2043a81c-7afb-4d2f-a206-7f42334379ee.jpg?v=1759837671
     Price: CHF 24.20 CHF
-  - [Purple / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889823061)
+  - [Purple / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889823061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2043a81c-7afb-4d2f-a206-7f42334379ee.jpg?v=1759837671
     Price: CHF 21.50 CHF
-  - [Yellow / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889855829)
+  - [Yellow / Large60 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889855829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ccb3203c-4729-4b1b-95dc-9640bd888ee8.jpg?v=1759837671
     Price: CHF 24.20 CHF
-  - [Yellow / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet-celebrity-cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889888597)
+  - [Yellow / Small55 45cm](https://cilly.us/products/puppy-special-sofa-kennel-winter-warm-pet-internet--cat-nest-small-dog-dog-sleeping-mat-cushion-winter-bed?variant=51613889888597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ccb3203c-4729-4b1b-95dc-9640bd888ee8.jpg?v=1759837671
     Price: CHF 21.50 CHF
@@ -28783,17 +28783,17 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2096778608732_b5ed6b30-f38a-463e-b630-8ce180582b7a.jpg?v=1761594982
     Price: CHF 36.10 CHF
-- [Omelette-Pfanne 3-in-1 - Antihaft Medical Stone Multifunktional](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan): Multifunktionale 3-in-1 Omelette-Pfanne mit Medical Stone BeschichtungDiese vielseitige 3-in-1 Omelette-Pfanne mit hochwertiger Medical Stone Antihaft-Beschichtung ist perfekt für Omeletts, Pfannkuchen und mehr - gesund kochen ohne Ankleben.Produktvorteile: Medical Stone: Hochwertige Antihaft-Beschichtung 3-in-1: Drei Kochflächen gleichzeitig Multifunktional: Omeletts, Pfannkuchen, Spiegeleier Antihaft: Einfaches Kochen ohne Ankleben Gesund: Weniger Öl benötigt Leicht zu reinigen: Schnelle Reinigung Ideal für:Frühstück, Omeletts, Pfannkuchen, schnelle Mahlzeiten sowie für gesundes Kochen.Drei Gerichte gleichzeitig zubereiten!
+- [Omelette-Pfanne 3-in-1 - Antihaft  Stone Multifunktional](https://cilly.us/products/-stone-non-stick-three-in-one-multi-function-omelette-pan): Multifunktionale 3-in-1 Omelette-Pfanne mit  Stone BeschichtungDiese vielseitige 3-in-1 Omelette-Pfanne mit hochwertiger  Stone Antihaft-Beschichtung ist perfekt für Omeletts, Pfannkuchen und mehr - gesund kochen ohne Ankleben.Produktvorteile:  Stone: Hochwertige Antihaft-Beschichtung 3-in-1: Drei Kochflächen gleichzeitig Multifunktional: Omeletts, Pfannkuchen, Spiegeleier Antihaft: Einfaches Kochen ohne Ankleben Gesund: Weniger Öl benötigt Leicht zu reinigen: Schnelle Reinigung Ideal für:Frühstück, Omeletts, Pfannkuchen, schnelle Mahlzeiten sowie für gesundes Kochen.Drei Gerichte gleichzeitig zubereiten!
   Updated: 2025-10-29T00:56:59Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b67d1363-2c02-4c44-9502-ab6a8dd2a856.jpg?v=1761595122
-  - [3in1 Black Breakfast Pan](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan?variant=51786140189013)
+  - [3in1 Black Breakfast Pan](https://cilly.us/products/-stone-non-stick-three-in-one-multi-function-omelette-pan?variant=51786140189013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6d46f71c-6dab-4078-82d1-8388d07a09c8.jpg?v=1761595129
     Price: CHF 33.60 CHF
-  - [Black](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan?variant=51786140221781)
+  - [Black](https://cilly.us/products/-stone-non-stick-three-in-one-multi-function-omelette-pan?variant=51786140221781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/03430efd-8f59-4a11-b781-017914be86bf_trans.jpg?v=1761595129
     Price: CHF 33.60 CHF
@@ -30814,7 +30814,7 @@
   Updated: 2025-11-19T21:16:20Z
   Total Products: 381
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-11-19T21:16:20Z
+  Updated: 2026-01-09T12:22:33Z
   Total Products: 430
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-29T18:43:53Z
@@ -30898,7 +30898,7 @@
   Updated: 2025-11-19T21:16:20Z
   Total Products: 120
 - [Hundespielzeug](https://cilly.us/collections/hundespielzeug)
-  Updated: 2025-11-03T21:50:55Z
+  Updated: 2026-01-09T12:22:33Z
   Total Products: 55
 - [Hundebett](https://cilly.us/collections/hundebett)
   Updated: 2025-10-27T09:17:37Z
