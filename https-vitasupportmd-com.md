@@ -11,60 +11,60 @@ This philosophy is what makes every VitasupportMD team member so special, and so
 - Contact Email: help@vitasupportmd.com
 - Contact Phone: 862-246-7877
 - Address: 205 Robin Road, Suite 120, Paramus, NJ 07652
-- Updated At: 2026-01-05T00:00:37.295Z
+- Updated At: 2026-01-12T00:00:37.714Z
 
 ## Products
 
 - [H Formula: Doctor-Formulated Hemorrhoidal Vein Support](https://vitasupportmd.com/products/hemorrhoid-formula-1000): Doctor-formulated: discover how walking outdoors may help boost mood, support vitamin D, and ease stress. Read more.
-  Updated: 2026-01-04T19:13:16Z
+  Updated: 2026-01-11T13:45:22Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/3_545d215c-cb10-4a43-a5b2-0c21cc636f47.png?v=1762963633
   Price: $49.95 USD
 - [Vein Formula 1000 | Diosmin & Hesperidin for Vein Support](https://vitasupportmd.com/products/vein-formula-1000): Our leading supplement, Vein Formula with 1000mg of diosmin and hesperidin, supports leg vein health and circulation. Happy legs await!
-  Updated: 2026-01-04T23:51:01Z
+  Updated: 2026-01-11T22:51:50Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/1_775e4f8a-8cfa-4d8f-b967-86622a5aee3e.png?v=1762963595
   Price: $49.95 USD
 - [Lymphatic Formula 1000 | Support for Lymphatic Health](https://vitasupportmd.com/products/lymphatic-formula-1000): Lymphatic Formula 1000 supports your lymphatic health. Its formula is based on micronized flavonoids, Vitamin D3 and Selenium. See prices and availability
-  Updated: 2026-01-04T23:01:11Z
+  Updated: 2026-01-11T19:13:15Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/2_f542a794-9ba6-416c-a1be-f2bd6ec164a4.png?v=1762963621
   Price: $49.95 USD
 - [Vein & H Formula Bundle: Doctor-Formulated Vein Support](https://vitasupportmd.com/products/vein-formula-1000-hemorrhoid-formula-1000-bundle): Doctor-formulated blend of MPFF and horse chestnut to help support healthy leg and hemorrhoidal veins. Made in the USA. Order now for wellness.
-  Updated: 2026-01-04T03:25:09Z
+  Updated: 2026-01-11T03:26:10Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VH.png?v=1764848051
   Price: $89.95 USD
 - [Doctor-Formulated Bundle for Circulation Support](https://vitasupportmd.com/products/vein-formula-1000-lymphatic-formula-1000): Doctor-formulated support for healthy leg veins and lymphatic flow with MPFF-based supplements. Improve circulation—shop the bundle today.
-  Updated: 2026-01-04T03:25:09Z
+  Updated: 2026-01-11T03:26:10Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VL.png?v=1764848032
   Price: $89.95 USD
 - [Lymphatic & H Formula Bundle – Doctor-Formulated Support](https://vitasupportmd.com/products/hemorrhoid-formula-1000-lymphatic-formula-1000-bundle): Doctor-formulated bundle to support your healthy lymphatic and hemorrhoidal veins. Trusted ingredients. Save on wellness—subscribe or order now.
-  Updated: 2026-01-04T03:25:00Z
+  Updated: 2026-01-11T03:26:03Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/HL.png?v=1764848008
   Price: $89.95 USD
 - [Family Health Bundle: Doctor-Formulated Circulation Support](https://vitasupportmd.com/products/family-health-bundle-all-formulas): Doctor-formulated bundle with MPFF, horse chestnut, vitamin D3 & selenium to support healthy veins, lymphatics & circulation. Shop now for wellness.
-  Updated: 2026-01-04T03:25:06Z
+  Updated: 2026-01-11T03:26:16Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VLH.png?v=1764847988
   Price: $134.95 USD
-- [Gift Card](https://vitasupportmd.com/products/vitasupportmd-gift-card): Empower the well-being of those you cherish most.*Our gift cards offer the golden opportunity to invest in their health, allowing them to choose supplements tailored to their needs. When it comes to gifting, nothing beats the support for radiant health and wellness.
+- [Gift Card](https://vitasupportmd.com/products/vitasupportmd-gift-card): Empower the well-being of those you cherish most.*Our gift cards offer the golden opportunity to  in their health, allowing them to choose supplements tailored to their needs. When it comes to gifting, nothing beats the support for radiant health and wellness.
   Updated: 2025-12-10T10:50:24Z
   Vendor: VitaSupportMD
   Product Type: 
@@ -79,14 +79,14 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   - [$100.00](https://vitasupportmd.com/products/vitasupportmd-gift-card?variant=47164975939899)
     Availability: Available
     Price: $100.00 USD
-- [Wholesale Lymphatic Formula | Professional Lymphatic Support](https://vitasupportmd.com/products/wholesale-lymphatic-formula): Offer your patients optimal lymphatic support with Wholesale Lymphatic Formula. Contains micronized flavonoids, Vitamin D3, and Selenium for superior absorption. Developed by a board-certified surgeon.
+- [Wholesale Lymphatic Formula | Professional Lymphatic Support](https://vitasupportmd.com/products/wholesale-lymphatic-formula): Offer your patients optimal lymphatic support with Wholesale Lymphatic Formula. Contains micronized flavonoids, Vitamin D3, and Selenium for superior absorption. Developed by a board- surgeon.
   Updated: 2025-12-31T03:15:00Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/WholesaleLymphaticFormula.png?v=1760357351
   Price: $269.00 USD
-- [Wholesale H Formula | Hemorrhoidal Vein Support](https://vitasupportmd.com/products/wholesale-h-formula): Offer your patients optimal hemorrhoidal vein support with Wholesale H Formula. Micronized flavonoids for superior absorption, developed by a board-certified surgeon.
+- [Wholesale H Formula | Hemorrhoidal Vein Support](https://vitasupportmd.com/products/wholesale-h-formula): Offer your patients optimal hemorrhoidal vein support with Wholesale H Formula. Micronized flavonoids for superior absorption, developed by a board- surgeon.
   Updated: 2025-12-31T03:15:01Z
   Vendor: VitasupportMD
   Product Type: 
@@ -100,64 +100,64 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/WholesaleVeinFormula.png?v=1760357437
   Price: $269.00 USD
-- [Tri-Power Circulation Formula – Supports Healthy Veins](https://vitasupportmd.com/products/tri-power-formula): Doctor-approved Tri-Power Circulation Formula supports healthy veins and circulation. Order now for better vein health and enjoy free shipping!
-  Updated: 2026-01-04T03:25:03Z
+- [Tri-Power Circulation Formula – Supports Healthy Veins](https://vitasupportmd.com/products/tri-power-formula): Doctor- Tri-Power Circulation Formula supports healthy veins and circulation. Order now for better vein health and enjoy free shipping!
+  Updated: 2026-01-11T03:26:06Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/VitasupportMD_Product_Imagery_-_No_gaps_1.png?v=1762846112
   Price: $39.95 USD
 - [Wholesale Tri-Power Circulation Formula](https://vitasupportmd.com/products/wholesale-tri-power-circulation-formula): Discover the elegance of Tri-Power Circulation Formula, a premium supplement designed to support natural circulation and maintain healthy veins. This carefully curated blend of ingredients—Butcher's Broom, Hesperidin Methyl Chalcone, and Vitamin C—offers a refined approach to supporting the circulatory system.
-  Updated: 2026-01-04T03:25:04Z
+  Updated: 2026-01-11T03:26:06Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/WholesaleTri-PowerCirculationFormula.png?v=1760357412
   Price: $269.88 USD
 - [Vein & Lymphatic Formula Bundle | Micronized Flavonoid Support](https://vitasupportmd.com/products/vein-formula-lymphatic-formula-bundle-copy): Support healthy veins and lymphatic health with our Vein & Lymphatic Formula Bundle. Contains micronized flavonoids for superior absorption and effectiveness.
-  Updated: 2026-01-04T03:25:09Z
+  Updated: 2026-01-11T03:26:13Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TV_605d1a4d-f1bd-404e-8d90-fc03760e4265.png?v=1764847969
   Price: $80.90 USD
 - [Vein & Lymphatic Formula Bundle | Micronized Flavonoid Support](https://vitasupportmd.com/products/tri-power-formula-vein-formula-bundle-copy): Support healthy veins and lymphatic health with our Vein & Lymphatic Formula Bundle. Contains micronized flavonoids for superior absorption and effectiveness.
-  Updated: 2026-01-04T03:25:09Z
+  Updated: 2026-01-11T03:26:16Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TL_d05f603b-25c5-403a-b982-4d91496103a4.png?v=1764847953
   Price: $80.90 USD
 - [Vein & Lymphatic Formula Bundle | Micronized Flavonoid Support](https://vitasupportmd.com/products/tri-power-formula-lymphatic-formula-copy): Support healthy veins and lymphatic health with our Vein & Lymphatic Formula Bundle. Contains micronized flavonoids for superior absorption and effectiveness.
-  Updated: 2026-01-04T03:25:09Z
+  Updated: 2026-01-11T03:26:10Z
   Vendor: VitaSupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TH_cc72f0e3-b010-46d2-984a-f753c215cf71.png?v=1764847935
   Price: $80.91 USD
 - [Complete Family Circulation Support Bundle](https://vitasupportmd.com/products/complete-family-circulation-support-bundle): Products Included: Vein Formula + Lymphatic Formula + H Formula + Tri-Power Formula The Complete Family Circulation Support Bundle is designed to support the whole family’s wellness. With formulas that promote healthy veins, circulation, and lymphatic health, as well as immune function, this bundle offers essential support for active lifestyles. Ideal for families seeking to maintain a healthy and balanced approach to overall wellness, this bundle brings vitality to everyone.
-  Updated: 2026-01-04T03:25:10Z
+  Updated: 2026-01-11T03:26:26Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/CompleteFamilyCirculationSupportBundle.png?v=1760356317
   Price: $170.82 USD
 - [Healthy Circulation Trio](https://vitasupportmd.com/products/healthy-circulation-trio): Products Included: Vein Formula + Lymphatic Formula + Tri-Power Formula The Healthy Circulation Trio offers a focused combination to support healthy veins and circulation, lymphatic function, and immune health. Designed for those who want to maintain an active lifestyle and promote overall wellness, this bundle combines three powerful formulas to keep you feeling your best, every step of the way.
-  Updated: 2026-01-04T03:25:10Z
+  Updated: 2026-01-11T03:26:12Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TVL.png?v=1764847913
   Price: $125.95 USD
-- [Original Vein Formula - V60](https://vitasupportmd.com/products/v60): Original Vein Formula – V60 is the original formula developed by Dr. John Chuback, combining 600 mg of Diosmin and 67 mg of Hesperidin in a micronized flavonoid blend (MPFF 667 mg per serving). Micronized for optimal absorption, this doctor-developed blend helps maintain normal vein function and supports healthy blood flow. Whether you’re returning to what’s always worked or starting fresh, V60 is a consistent part of wellness routines for those who prioritize daily support. Manufactured in the USA in an FDA-registered, NSF-certified, and GMP-compliant facility. Non-GMO. Gluten-free. No artificial colors, flavors, or preservatives.
-  Updated: 2026-01-02T11:52:48Z
+- [Original Vein Formula - V60](https://vitasupportmd.com/products/v60): Original Vein Formula – V60 is the original formula developed by Dr. John Chuback, combining 600 mg of Diosmin and 67 mg of Hesperidin in a micronized flavonoid blend (MPFF 667 mg per serving). Micronized for optimal absorption, this doctor-developed blend helps maintain normal vein function and supports healthy blood flow. Whether you’re returning to what’s always worked or starting fresh, V60 is a consistent part of wellness routines for those who prioritize daily support. Manufactured in the USA in an FDA-registered, NSF-, and GMP-compliant facility. Non-GMO. Gluten-free. No artificial colors, flavors, or preservatives.
+  Updated: 2026-01-10T16:49:24Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/5_ba58f439-7df3-43fa-a2b8-78f45a6d9e79.png?v=1762963643
   Price: $69.95 USD
 - [Brochure – Tri-Power Circulation Formula 25pk](https://vitasupportmd.com/products/brochure-tri-power-circulation-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements This brochure introduces Tri-Power Circulation Formula, which combines Butcher’s Broom, Hesperidin Methyl Chalcone, and Vitamin C for comprehensive support of vein health and circulation. Designed for patients seeking targeted circulation support, this product is supported by clinical research and high-quality ingredients.
-  Updated: 2026-01-04T03:24:59Z
+  Updated: 2026-01-11T03:26:00Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/TriPowerFormulainSpaniola.jpg?v=1760362003
     Price: $1.00 USD
 - [Brochure – H Formula 25pk](https://vitasupportmd.com/products/brochure-h-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements In this presentation brochure, discover H Formula—designed to support healthy hemorrhoidal vein function. Combining 1000 mg of MPFF with 300 mg of horse chestnut seed extract per 2-capsule serving, this formula is backed by research supporting healthy circulation. It’s an effective recommendation for patients looking to maintain vein health.
-  Updated: 2026-01-04T03:24:59Z
+  Updated: 2026-01-11T03:26:01Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -183,7 +183,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/HFormulainSpaniola.jpg?v=1760361981
     Price: $1.00 USD
 - [Brochure – Lymphatic Formula 25pk](https://vitasupportmd.com/products/brochure-lymphatic-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements This brochure presents Lymphatic Formula, a supplement crafted to support lymphatic and immune health. Each serving combines 1000 mg of MPFF, 2000 IU of Vitamin D3, and 200 mcg of Selenium to help maintain lymphatic health and detoxification processes. Backed by clinical research, it is ideal for patients looking to support their immune system and lymphatic function.
-  Updated: 2026-01-04T03:25:00Z
+  Updated: 2026-01-11T03:26:01Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -196,7 +196,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
     Image: https://cdn.shopify.com/s/files/1/0256/4063/2374/files/LymphaticFormulainSpaniola.jpg?v=1760361959
     Price: $1.00 USD
 - [Brochure – Vein Formula 25pk](https://vitasupportmd.com/products/brochure-vein-formula-25pk): Enhance Your Patients' Wellness with Trusted Supplements This presentation brochure introduces Vein Formula, a physician-recommended supplement designed to support key aspects of vascular health. Each 2-capsule serving provides 1000 mg of micronized purified flavonoid fraction (MPFF), derived from citrus rind. With decades of research supporting its efficacy, this formula helps promote healthy vein function, making it a valuable addition to your patient care recommendations.
-  Updated: 2026-01-04T03:25:00Z
+  Updated: 2026-01-11T03:26:01Z
   Vendor: VitasupportMD
   Product Type: 
   Availability: Available
@@ -212,22 +212,22 @@ This philosophy is what makes every VitasupportMD team member so special, and so
 ## Collections
 
 - [Home page](https://vitasupportmd.com/collections/frontpage)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 10
-- [Affiliate](https://vitasupportmd.com/collections/affiliate)
+- [](https://vitasupportmd.com/collections/)
   Updated: 2025-12-03T11:52:03Z
   Total Products: 0
 - [Compression Stockings](https://vitasupportmd.com/collections/compression-stockings)
   Updated: 2025-12-03T11:52:13Z
   Total Products: 1
-- [Affiliate - CVR](https://vitasupportmd.com/collections/affiliate-cvr)
+- [ - CVR](https://vitasupportmd.com/collections/-cvr)
   Updated: 2025-12-03T11:52:19Z
   Total Products: 0
-- [Affiliate - Redfield](https://vitasupportmd.com/collections/affiliate-redfield)
+- [ - Redfield](https://vitasupportmd.com/collections/-redfield)
   Updated: 2025-12-03T11:52:27Z
   Total Products: 0
 - [Retail](https://vitasupportmd.com/collections/retail)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 7
 - [Retail Subscription](https://vitasupportmd.com/collections/retail-subscription)
   Updated: 2025-12-03T11:52:37Z
@@ -236,34 +236,34 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-12-03T11:52:45Z
   Total Products: 0
 - [Wholesale Products OLD](https://vitasupportmd.com/collections/wholesale): /**/
-  Updated: 2026-01-01T12:03:21Z
+  Updated: 2026-01-09T12:03:00Z
   Total Products: 8
 - [Wholesale Subscription](https://vitasupportmd.com/collections/wholesale-subscription)
   Updated: 2025-12-03T11:52:53Z
   Total Products: 0
 - [All](https://vitasupportmd.com/collections/all)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 5
 - [Sobey 20](https://vitasupportmd.com/collections/sobey-20)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 9
 - [Bundles - Collection](https://vitasupportmd.com/collections/bundles)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-10T12:03:13Z
   Total Products: 17
 - [Single Products](https://vitasupportmd.com/collections/single-products)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 6
 - [Daily Deals Limited-Time Offers](https://vitasupportmd.com/collections/daily-deals): Explore our Daily Deals for exclusive discounts on top-quality health supplements. Shop now for limited-time offers on products designed to support your wellness journey—don't miss out!" This keeps it concise and action-driven, perfect for engaging customers and boosting conversions. Let me know if you need any tweaks!
   Updated: 2025-12-03T11:53:01Z
   Total Products: 0
 - [Wholesale Products](https://vitasupportmd.com/collections/wholesale-products)
-  Updated: 2026-01-01T12:03:21Z
+  Updated: 2026-01-09T12:03:00Z
   Total Products: 5
 - [Products - No Wholesale](https://vitasupportmd.com/collections/products-no-wholesale)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 18
 - [2-Pack Bundles](https://vitasupportmd.com/collections/2-pack-bundles)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-10T12:03:13Z
   Total Products: 10
 - [3-Pack Bundles](https://vitasupportmd.com/collections/3-pack-bundles)
   Updated: 2025-12-20T12:04:16Z
@@ -272,441 +272,502 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2026-01-02T12:03:02Z
   Total Products: 1
 - [All Products - No Wholesale](https://vitasupportmd.com/collections/all-products-no-wholesale)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 23
 - [Our Formulas](https://vitasupportmd.com/collections/test-collection)
   Updated: 2025-12-03T11:53:09Z
   Total Products: 0
 - [Bundles Test](https://vitasupportmd.com/collections/bundles-test)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-10T12:03:13Z
   Total Products: 17
 - [Email Marketing - B2C Products](https://vitasupportmd.com/collections/email-marketing-b2c-products)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 23
 - [Email Marketing - B2B Products](https://vitasupportmd.com/collections/email-marketing-b2b-products)
-  Updated: 2026-01-01T12:03:21Z
+  Updated: 2026-01-09T12:03:00Z
   Total Products: 9
 - [Brochures](https://vitasupportmd.com/collections/brochures)
   Updated: 2025-12-11T13:13:59Z
   Total Products: 4
 - [Single Products 2](https://vitasupportmd.com/collections/single-products-2)
-  Updated: 2026-01-04T12:03:42Z
+  Updated: 2026-01-11T12:03:19Z
   Total Products: 6
 
 ## Blogs
 
 - [Blog Posts](https://vitasupportmd.com/blogs/drjohnchuback)
   - [How To Boost Energy Levels Naturally - Simple Lifestyle Changes](https://vitasupportmd.com/blogs/drjohnchuback/how-to-get-energy-naturally-with-easy-lifestyle-changes): How To Boost Energy Levels Naturally - Simple Lifestyle Changes
-    Updated: 2025-12-24T13:32:25Z
-    Author: Vlad Petcu
-    Tags: Fitness, How-to, Wellness
+    Updated: 2026-01-08T09:52:38Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [5 Habits to Start Your Day the Right Way](https://vitasupportmd.com/blogs/drjohnchuback/5-habits-to-start-your-day-the-right-way): 5 Habits to Start Your Day the Right Way
-    Updated: 2025-12-24T13:34:10Z
-    Author: Vlad Petcu
-    Tags: How-to, Tips and Tricks, Wellness
+    Updated: 2026-01-08T09:52:14Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How Much Water Should You Drink Daily? Hydration Benefits](https://vitasupportmd.com/blogs/drjohnchuback/how-much-water-should-you-drink-a-day-the-health-benefits-of-hydration): How Much Water Should You Drink Daily? Hydration Benefits
-    Updated: 2025-12-24T13:27:24Z
-    Author: Vlad Petcu
-    Tags: Fitness, Nutrition, Wellness
+    Updated: 2026-01-08T09:52:04Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [Winter Superfoods That Support Antioxidant Health](https://vitasupportmd.com/blogs/drjohnchuback/winter-superfoods-for-antioxidant-support): Winter Superfoods That Support Antioxidant Health
-    Updated: 2025-12-24T13:27:09Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-09T11:01:10Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [How to Improve Vitamin Absorption – Nutrition Tips](https://vitasupportmd.com/blogs/drjohnchuback/tips-for-improving-the-absorption-of-vitamins-1): How to Improve Vitamin Absorption – Nutrition Tips
-    Updated: 2025-12-24T13:23:31Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-08T09:50:53Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Food & Nutrition, Ingredients 101
   - [Why Micronization Matters for Nutritional Supplements](https://vitasupportmd.com/blogs/drjohnchuback/importance-of-micronization): Why Micronization Matters for Nutritional Supplements
-    Updated: 2025-12-24T13:20:53Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-09T10:06:06Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [The Healthy Role and History of Selenium Explained](https://vitasupportmd.com/blogs/drjohnchuback/the-healthy-importance-and-history-of-selenium): The Healthy Role and History of Selenium Explained
-    Updated: 2025-12-24T13:27:27Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-08T09:50:37Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [How Exercise May Help Reduce Daily Stress Naturally](https://vitasupportmd.com/blogs/drjohnchuback/benefits-of-walking-outside): How Exercise May Help Reduce Daily Stress Naturally
-    Updated: 2025-12-24T13:27:04Z
-    Author: Andreea Dumitru
-    Tags: Fitness, Tips and Tricks, Wellness
+    Updated: 2026-01-08T09:50:25Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Foods that Boost Immunity](https://vitasupportmd.com/blogs/drjohnchuback/foods-that-boost-immunity)
-    Updated: 2025-12-24T13:32:10Z
-    Author: Andreea Dumitru
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-08T09:50:10Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [Diosmin and Hesperidin – Benefits for Circulatory Health](https://vitasupportmd.com/blogs/drjohnchuback/why-is-diosmin-and-hesperidin-important-for-your-body): Diosmin and Hesperidin – Benefits for Circulatory Health
-    Updated: 2025-12-24T13:22:01Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Wellness
+    Updated: 2026-01-09T12:38:02Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Food & Nutrition, Ingredients 101
   - [How the Venous System Supports Healthy Circulation](https://vitasupportmd.com/blogs/drjohnchuback/the-function-of-the-venous-system): How the Venous System Supports Healthy Circulation
-    Updated: 2025-12-24T13:25:02Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Wellness
+    Updated: 2026-01-09T12:38:50Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health
   - [How Exercise May Help Reduce Daily Stress Naturally](https://vitasupportmd.com/blogs/drjohnchuback/how-exercise-can-relieve-stress): How Exercise May Help Reduce Daily Stress Naturally
-    Updated: 2025-12-24T13:27:07Z
-    Author: Vlad Petcu
-    Tags: Fitness, Tips and Tricks, Wellness
+    Updated: 2026-01-09T12:39:21Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Improving Sleep Quality](https://vitasupportmd.com/blogs/drjohnchuback/improve-sleep-quality)
-    Updated: 2025-12-24T13:32:39Z
-    Author: Vlad Petcu
-    Tags: Tips and Tricks, Wellness
+    Updated: 2026-01-09T12:40:43Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Relax Without Screens – Natural Ways to Support Calm](https://vitasupportmd.com/blogs/drjohnchuback/relaxation-without-screentime): Relax Without Screens – Natural Ways to Support Calm
-    Updated: 2025-12-29T15:48:54Z
-    Author: Corina Manea
-    Tags: Tips and Tricks, Wellness
+    Updated: 2026-01-09T12:41:26Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How Much Protein Do You Need? A Wellness-Focused Guide](https://vitasupportmd.com/blogs/drjohnchuback/how-much-protein-do-i-need): How Much Protein Do You Need? A Wellness-Focused Guide
-    Updated: 2025-12-24T13:25:31Z
-    Author: Corina Manea
-    Tags: Fitness, How-to, Nutrition
+    Updated: 2026-01-09T12:42:15Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [Health Benefits of Pets – How Animals May Support Wellness](https://vitasupportmd.com/blogs/drjohnchuback/benefits-of-owning-a-pet): Health Benefits of Pets – How Animals May Support Wellness
-    Updated: 2025-12-24T13:23:18Z
-    Author: Vlad Petcu
-    Tags: Tips and Tricks, Wellness
+    Updated: 2026-01-09T12:43:35Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Understanding Metabolism and How to Support It Naturally](https://vitasupportmd.com/blogs/drjohnchuback/understanding-your-metabolism): Understanding Metabolism and How to Support It Naturally
-    Updated: 2025-12-24T13:26:12Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Tips and Tricks, Wellness
+    Updated: 2026-01-09T12:44:35Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Food & Nutrition
   - [How to Support a Healthy Aging Brain](https://vitasupportmd.com/blogs/drjohnchuback/how-to-support-a-healthy-aging-brain)
-    Updated: 2025-12-24T13:31:23Z
-    Author: Vlad Petcu
-    Tags: How-to, Wellness
+    Updated: 2026-01-09T12:47:02Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Food & Nutrition
   - [How to Do a Digital Detox](https://vitasupportmd.com/blogs/drjohnchuback/how-to-do-a-digital-detox)
-    Updated: 2025-12-24T13:32:31Z
-    Author: Vlad Petcu
-    Tags: How-to, Tips and Tricks, Wellness
+    Updated: 2026-01-09T12:49:22Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [MPFF: The Superior Diosmin Formula for Circulation Support](https://vitasupportmd.com/blogs/drjohnchuback/mpff-the-superior-diosmin-formula-for-circulation-support)
-    Updated: 2025-12-24T13:21:27Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T10:01:44Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [8 Ways to Live Actively with Healthy Habits](https://vitasupportmd.com/blogs/drjohnchuback/8-ways-to-live-an-active-lifestyle): 8 Ways to Live Actively with Healthy Habits
-    Updated: 2025-12-24T13:23:20Z
-    Author: Vlad Petcu
-    Tags: Fitness, How-to, Tips and Tricks
+    Updated: 2026-01-09T13:39:41Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How Nutritional Needs Change with Age | Wellness Guide](https://vitasupportmd.com/blogs/drjohnchuback/how-do-our-nutritional-needs-change-over-time): How Nutritional Needs Change with Age | Wellness Guide
-    Updated: 2025-12-24T13:28:05Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Wellness
+    Updated: 2026-01-09T13:41:41Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [7 Travel Tips to Support Energy and Wellness On-the-Go](https://vitasupportmd.com/blogs/drjohnchuback/7-tips-for-healthy-traveling): 7 Travel Tips to Support Energy and Wellness On-the-Go
-    Updated: 2025-12-24T13:26:18Z
-    Author: Vlad Petcu
-    Tags: Fitness, Tips and Tricks, Wellness
+    Updated: 2026-01-09T13:42:28Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [5 Simple Ways To Refresh Your Wellness Routine](https://vitasupportmd.com/blogs/drjohnchuback/5-simple-ways-to-refresh-your-wellness-routine)
-    Updated: 2025-12-24T13:32:37Z
-    Author: Vlad Petcu
-    Tags: How-to, Tips and Tricks, Wellness
+    Updated: 2026-01-09T13:44:17Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Boost Immunity This Summer with Selenium & D3](https://vitasupportmd.com/blogs/drjohnchuback/supporting-your-immune-system-this-summer-with-selenium-and-vitamin-d3): Boost Immunity This Summer with Selenium & D3
-    Updated: 2025-12-24T13:21:10Z
-    Author: Vlad Petcu
-    Tags: Nutrition, Wellness
+    Updated: 2026-01-09T13:45:03Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [Summer Workout Tips for Energy and Recovery Support](https://vitasupportmd.com/blogs/drjohnchuback/enhancing-your-summer-workouts-tips-for-energy-and-recovery): Summer Workout Tips for Energy and Recovery Support
-    Updated: 2025-12-24T13:26:04Z
-    Author: Corina Manea
-    Tags: Fitness, How-to, Tips and Tricks
+    Updated: 2026-01-09T13:46:02Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Food & Nutrition
   - [Maintaining a Balanced Diet Year-Round](https://vitasupportmd.com/blogs/drjohnchuback/maintaining-a-balanced-diet-year-round)
-    Updated: 2024-09-27T08:45:12Z
-    Author: Corina Manea
-    Tags: How-to, Nutrition
+    Updated: 2026-01-09T13:46:53Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Food & Nutrition
   - [How to Choose the Right Supplements for Your Needs](https://vitasupportmd.com/blogs/drjohnchuback/how-to-choose-the-right-supplements-for-your-needs)
-    Updated: 2025-12-24T13:31:41Z
-    Author: Corina Manea
-    Tags: How-to, Nutrition
+    Updated: 2026-01-09T13:47:50Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [The Growing Popularity of Natural Supplements](https://vitasupportmd.com/blogs/drjohnchuback/the-growing-popularity-of-natural-supplements)
-    Updated: 2025-12-24T13:27:35Z
-    Author: Corina Manea
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-09T14:00:54Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [Why High-Quality Ingredients Matter in Supplements](https://vitasupportmd.com/blogs/drjohnchuback/the-importance-of-quality-ingredients-in-supplements): Why High-Quality Ingredients Matter in Supplements
-    Updated: 2025-12-24T13:27:21Z
-    Author: Corina Manea
-    Tags: Nutrition, Tips and Tricks
+    Updated: 2026-01-09T14:03:21Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [Transitioning Your Diet from Summer to Fall](https://vitasupportmd.com/blogs/drjohnchuback/transitioning-your-diet-from-summer-to-fall)
-    Updated: 2025-12-24T13:32:20Z
-    Author: Corina Manea
-    Tags: How-to, Nutrition, Wellness
+    Updated: 2026-01-09T14:06:51Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [Managing Stress as the School Year Begins](https://vitasupportmd.com/blogs/drjohnchuback/managing-stress-as-the-school-year-begins)
-    Updated: 2025-12-24T13:31:07Z
-    Author: Corina Manea
-    Tags: How-to, Tips and Tricks, Wellness
+    Updated: 2026-01-09T14:12:48Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Fall Wellness Tips: Support Circulation with Seasonal Foods](https://vitasupportmd.com/blogs/drjohnchuback/embracing-fall-how-cooler-temps-and-seasonal-foods-support-circulation): Fall Wellness Tips: Support Circulation with Seasonal Foods
-    Updated: 2025-12-24T13:25:23Z
-    Author: Corina Manea
-    Tags: Nutrition, Tips and Tricks, Wellness
+    Updated: 2026-01-09T14:13:45Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Food & Nutrition
   - [Vitamin D3's Role in Health During Shorter Days](https://vitasupportmd.com/blogs/drjohnchuback/the-role-of-vitamin-d3-in-supporting-overall-health-during-shorter-days): Vitamin D3's Role in Health During Shorter Days
-    Updated: 2025-12-24T13:31:49Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T14:15:17Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Ingredients 101
   - [World Heart Day: Vein Health & Cardiovascular Wellness Explained](https://vitasupportmd.com/blogs/drjohnchuback/world-heart-day-understanding-the-connection-between-vein-health-and-overall-cardiovascular-wellness): World Heart Day: Vein Health & Cardiovascular Wellness Explained
-    Updated: 2025-12-24T13:34:29Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:15:58Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [How Physical Therapy Can Aid in Vein and Lymphatic Health](https://vitasupportmd.com/blogs/drjohnchuback/national-physical-therapy-month-how-physical-therapy-can-aid-in-vein-and-lymphatic-health): How Physical Therapy Can Aid in Vein and Lymphatic Health
-    Updated: 2025-12-24T13:30:15Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:17:03Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Horse Chestnut Benefits for Natural Circulatory Support](https://vitasupportmd.com/blogs/drjohnchuback/the-benefits-of-horse-chestnut-extract-supporting-your-circulatory-health-naturally): Horse Chestnut Benefits for Natural Circulatory Support
-    Updated: 2025-12-29T15:43:56Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T14:17:37Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [Managing Stress During National Stress Awareness Day for Vein and Lymphatic Health](https://vitasupportmd.com/blogs/drjohnchuback/managing-stress-during-national-stress-awareness-day-its-impact-on-vein-and-lymphatic-health): Managing Stress During National Stress Awareness Day for Vein and Lymphatic Health
-    Updated: 2025-12-24T13:22:04Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T14:18:25Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Selenium Benefits for Immune and Circulatory Health During Flu Season](https://vitasupportmd.com/blogs/drjohnchuback/the-role-of-selenium-in-supporting-immune-and-circulatory-health-during-cold-and-flu-season): Selenium Benefits for Immune and Circulatory Health During Flu Season
-    Updated: 2025-12-24T13:22:47Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T14:19:35Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition, Ingredients 101
   - [How to Support Your Veins During the Coldest Months](https://vitasupportmd.com/blogs/drjohnchuback/winter-wellness-how-to-support-your-veins-during-the-coldest-months): How to Support Your Veins During the Coldest Months
-    Updated: 2025-12-24T13:29:56Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:22:39Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [How Flavonoids May Support Healthy Circulation Naturally](https://vitasupportmd.com/blogs/drjohnchuback/unlocking-the-power-of-nature-how-flavonoids-support-circulatory-health): How Flavonoids May Support Healthy Circulation Naturally
-    Updated: 2025-12-24T13:24:57Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:24:00Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Food & Nutrition
   - [Winter Wellness Tips to Stay Active and Healthy Indoors](https://vitasupportmd.com/blogs/drjohnchuback/winter-wellness-tips-staying-active-and-healthy-indoors): Winter Wellness Tips to Stay Active and Healthy Indoors
-    Updated: 2025-12-24T13:25:54Z
-    Author: Corina Manea
+    Updated: 2026-01-08T09:41:40Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Winter Immunity Tips – Support Your Immune System Naturally](https://vitasupportmd.com/blogs/drjohnchuback/support-your-immune-system-naturally-this-winter): Winter Immunity Tips – Support Your Immune System Naturally
-    Updated: 2025-12-24T13:23:39Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:41:31Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Vein Health During the Holiday Season](https://vitasupportmd.com/blogs/drjohnchuback/vein-health-during-the-holiday-season)
-    Updated: 2025-12-24T13:32:02Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T14:24:42Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Holiday Self-Care Tips for a Calmer, Healthier Season](https://vitasupportmd.com/blogs/drjohnchuback/avoiding-holiday-stress-self-care-for-a-calmer-season): Holiday Self-Care Tips for a Calmer, Healthier Season
-    Updated: 2025-12-24T13:25:13Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:25:36Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Healthy New Year Goals to Support Wellness Naturally](https://vitasupportmd.com/blogs/drjohnchuback/setting-healthy-intentions-for-the-new-year): Healthy New Year Goals to Support Wellness Naturally
-    Updated: 2025-12-24T13:26:59Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:27:03Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Winter Skin Care Tips: Protecting and Hydrating from Within](https://vitasupportmd.com/blogs/drjohnchuback/winter-skin-care-tips-protecting-and-hydrating-from-within)
-    Updated: 2025-12-24T13:32:03Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:27:41Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Daily Habits to Support Your Lymphatic System Naturally](https://vitasupportmd.com/blogs/drjohnchuback/new-year-new-start-daily-habits-to-support-your-lymphatic-system): Daily Habits to Support Your Lymphatic System Naturally
-    Updated: 2025-12-24T13:24:49Z
-    Author: Corina Manea
+    Updated: 2026-01-08T09:40:47Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Winter Health: Practicing Self-Care for Hemorrhoidal Wellness](https://vitasupportmd.com/blogs/drjohnchuback/winter-health-practicing-self-care-for-hemorrhoidal-wellness)
-    Updated: 2025-12-24T13:32:44Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:29:32Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [End-of-Winter Wellness Tips to Stay Energized Indoors](https://vitasupportmd.com/blogs/drjohnchuback/staying-active-and-energized-through-the-last-stretch-of-winter): End-of-Winter Wellness Tips to Stay Energized Indoors
-    Updated: 2025-12-24T13:25:40Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:30:40Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Simple Lifestyle Changes to Support a Healthy Cardiovascular System](https://vitasupportmd.com/blogs/drjohnchuback/blog-post-simple-lifestyle-changes-to-support-a-healthy-cardiovascular-system): <p dir="ltr"><span>Discover simple lifestyle changes to support a healthy cardiovascular system. Learn how regular exercise, heart-healthy eating, and stress reduction can enhance heart health and overall well-being. Start small, stay consistent, and show your heart some love this American Heart Month.</span></p>
 <p> </p>
-    Updated: 2025-12-24T13:30:25Z
-    Author: Corina Manea
-    Tags: Wellness
+    Updated: 2026-01-09T14:31:51Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Breaking the Silence: Why Conversations About Mental Health Matter](https://vitasupportmd.com/blogs/drjohnchuback/breaking-the-silence-why-conversations-about-mental-health-matter)
-    Updated: 2025-12-24T13:32:58Z
-    Author: Corina Manea
+    Updated: 2026-01-08T09:36:40Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Wellness Books to Inspire Health & Personal Growth](https://vitasupportmd.com/blogs/drjohnchuback/the-gift-of-knowledge-wellness-books-to-inspire-a-healthier-you): Wellness Books to Inspire Health & Personal Growth
-    Updated: 2025-12-24T13:27:31Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:37:11Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How Kindness May Support Mental and Physical Wellness](https://vitasupportmd.com/blogs/drjohnchuback/kindness-and-health-how-helping-others-improves-your-well-being): How Kindness May Support Mental and Physical Wellness
-    Updated: 2025-12-24T13:25:25Z
-    Author: Corina Manea
+    Updated: 2026-01-09T14:37:56Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How the Venous System Works to Support Circulatory Health](https://vitasupportmd.com/blogs/drjohnchuback/adapting-to-the-seasons-how-weather-impacts-your-circulatory-health): How the Venous System Works to Support Circulatory Health
-    Updated: 2025-12-24T13:25:08Z
-    Author: Salomea Strava
+    Updated: 2026-01-09T14:47:41Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Empowering Women’s Health: Small Changes That Make a Big Difference](https://vitasupportmd.com/blogs/drjohnchuback/empowering-women-s-health-small-changes-that-make-a-big-difference)
-    Updated: 2025-12-24T13:32:19Z
-    Author: Salomea Strava
-    Tags: Wellness
+    Updated: 2026-01-09T14:48:23Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Spring Cleaning for Your Body: Detoxing Safely and Effectively](https://vitasupportmd.com/blogs/drjohnchuback/spring-cleaning-for-your-body-detoxing-safely-and-effectively)
-    Updated: 2025-12-24T13:29:45Z
-    Author: Salomea Strava
+    Updated: 2026-01-09T14:49:27Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Food & Nutrition
   - [Embracing Neurodiversity: Supporting Inclusive Wellness for All](https://vitasupportmd.com/blogs/drjohnchuback/embracing-neurodiversity-supporting-inclusive-wellness-for-all)
-    Updated: 2025-12-24T13:29:53Z
-    Author: Corina Manea
-    Tags: Wellness
+    Updated: 2026-01-09T14:51:15Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Powerful Pulses: How Legumes Can Boost Your Circulatory and Overall Health](https://vitasupportmd.com/blogs/drjohnchuback/powerful-pulses-how-legumes-can-boost-your-circulatory-and-overall-health)
-    Updated: 2025-12-24T13:29:48Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T14:52:20Z
+    Author: Dr. John Chuback's Team
+    Tags: Food & Nutrition
   - [The Role of Antioxidants in Vein Health](https://vitasupportmd.com/blogs/drjohnchuback/the-role-of-antioxidants-in-vein-health)
-    Updated: 2025-12-24T13:29:42Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T14:58:28Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [5 Natural Ways to Support Healthy Lymphatic Function](https://vitasupportmd.com/blogs/drjohnchuback/top-5-natural-remedies-for-improving-lymphatic-health): 5 Natural Ways to Support Healthy Lymphatic Function
-    Updated: 2025-12-24T13:25:37Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T14:59:16Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How Diet May Help Support a Healthy Circulatory System](https://vitasupportmd.com/blogs/drjohnchuback/how-diet-impacts-your-circulatory-system): How Diet May Help Support a Healthy Circulatory System
-    Updated: 2025-12-24T13:24:53Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T15:01:11Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Food & Nutrition
   - [Top Supplements for Leg Circulation & Vein Support](https://vitasupportmd.com/blogs/drjohnchuback/best-supplements-for-leg-circulation-how-to-fight-the-effects-of-stress-on-your-veins): Top Supplements for Leg Circulation & Vein Support
-    Updated: 2025-12-24T13:22:44Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T15:02:32Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [How Exercise May Help Support Healthy Vein Function](https://vitasupportmd.com/blogs/drjohnchuback/the-benefits-of-regular-exercise-on-vein-function): How Exercise May Help Support Healthy Vein Function
-    Updated: 2025-12-24T13:26:20Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T15:03:25Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Gut-Vein Connection – How Digestion May Support Circulation](https://vitasupportmd.com/blogs/drjohnchuback/the-gut-vein-connection-how-digestive-health-impacts-circulation): Gut-Vein Connection – How Digestion May Support Circulation
-    Updated: 2025-12-24T13:25:11Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T15:04:29Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle, Food & Nutrition
   - [Herbal Supplements That Support Lymphatic Flow](https://vitasupportmd.com/blogs/drjohnchuback/herbal-supplements-that-support-lymphatic-drainage): Herbal Supplements That Support Lymphatic Flow
-    Updated: 2025-12-24T13:21:58Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T15:05:49Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [Why Vein and Lymphatic Health Deserve More Public Awareness](https://vitasupportmd.com/blogs/drjohnchuback/why-vein-and-lymphatic-health-deserve-more-public-awareness)
-    Updated: 2025-12-24T13:29:40Z
-    Author: Karina Tuduce
+    Updated: 2026-01-09T15:07:39Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [How Aging May Affect Circulation – Wellness Insights](https://vitasupportmd.com/blogs/drjohnchuback/the-impact-of-aging-on-your-circulatory-system): How Aging May Affect Circulation – Wellness Insights
-    Updated: 2025-12-24T13:23:35Z
-    Author: Diana Oprea
+    Updated: 2026-01-09T15:08:19Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [The Importance of Regular Health Check-Ups for Vascular Health](https://vitasupportmd.com/blogs/drjohnchuback/the-importance-of-regular-health-check-ups-for-vascular-health): <p><i><em class="editor-text-italic">Explore how regular health check-ups can help support vascular wellness. Learn about key screenings, lifestyle tips, and how proactive monitoring may contribute to healthy circulation.</em></i></p>
-    Updated: 2025-12-24T13:29:36Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T15:09:01Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [4 Lifestyle Tips to Support Healthy Blood Pressure and Circulatory Health](https://vitasupportmd.com/blogs/drjohnchuback/4-lifestyle-tips-to-support-healthy-blood-pressure-and-circulatory-health)
-    Updated: 2025-12-29T15:29:52Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T15:12:04Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [How to Choose the Right Supplement for Vein Support](https://vitasupportmd.com/blogs/drjohnchuback/how-to-choose-the-right-supplement-for-vein-support-1): <p dir="ltr"><span>Discover the natural ingredients used in supplements, featuring fresh plant leaves preserved in glass vials. Explore the power of botanicals for supporting health and wellness.</span></p>
 <p> </p>
-    Updated: 2025-12-24T13:29:24Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-09T10:17:18Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [Essential Health Tips for Nurses on Their Feet All Day](https://vitasupportmd.com/blogs/drjohnchuback/essential-health-tips-for-nurses-on-their-feet-all-day-1): <p dir="ltr"><span> Discover practical wellness tips for nurses who spend long hours on their feet. From supportive footwear to hydration and sleep strategies, this guide explores everyday habits that can help support comfort, focus, and resilience during demanding shifts.</span></p>
-    Updated: 2025-12-24T13:27:43Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:31:09Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [How Hydration Supports Healthy Circulation and Wellness](https://vitasupportmd.com/blogs/drjohnchuback/the-connection-between-hydration-and-circulation): How Hydration Supports Healthy Circulation and Wellness
-    Updated: 2025-12-24T13:25:35Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:30:51Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle, Food & Nutrtion
   - [Why Women Are More Prone to Vein Issues (And How to Prevent Them)](https://vitasupportmd.com/blogs/drjohnchuback/why-women-are-more-prone-to-vein-issues-and-how-to-prevent-them): <p dir="ltr"><span>Discover why women are more prone to vein issues and explore expert tips to support healthy leg veins through lifestyle changes and hormonal awareness.</span></p>
 <p> </p>
-    Updated: 2025-12-24T13:27:48Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:30:39Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Supporting Leg Comfort and Mobility with a Natural Circulation and Vein Health Supplement](https://vitasupportmd.com/blogs/drjohnchuback/supporting-leg-comfort-and-mobility-with-a-natural-circulation-and-vein-health-supplement)
-    Updated: 2025-12-29T15:28:25Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:30:22Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [Supplements to Support Healthy Circulation in Legs](https://vitasupportmd.com/blogs/drjohnchuback/boosting-circulation-naturally-supplements-to-support-healthy-blood-flow-in-legs): Supplements to Support Healthy Circulation in Legs
-    Updated: 2025-12-24T13:23:41Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:30:07Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [How Blood Health Impacts Overall Circulatory Function](https://vitasupportmd.com/blogs/drjohnchuback/how-blood-health-impacts-overall-circulatory-function)
-    Updated: 2025-12-29T15:27:41Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:29:41Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Boosting Energy and Circulation: Daily Habits for Men](https://vitasupportmd.com/blogs/drjohnchuback/boosting-energy-and-circulation-daily-habits-for-men): <p dir="ltr"><span>Discover effective daily habits to support healthy circulation and boost energy for men. Learn practical lifestyle tips and clinically studied ingredients to maintain normal fluid balance in the legs during Men’s Health Month.</span></p>
 <p> </p>
-    Updated: 2025-12-24T13:27:40Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:28:01Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle, Ingredients 101
   - [What Cold Feet Might Be Telling You (and What You Can Do About It)](https://vitasupportmd.com/blogs/drjohnchuback/what-cold-feet-might-be-telling-you-and-what-you-can-do-about-it)
-    Updated: 2025-12-24T13:27:54Z
-    Author: Corina Manea
-    Tags: Wellness
+    Updated: 2026-01-08T09:27:57Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Supplements That Help Keep You Moving: Best Supplements for Leg Circulation](https://vitasupportmd.com/blogs/drjohnchuback/supplements-that-help-keep-you-moving-best-supplements-for-leg-circulation)
-    Updated: 2025-12-24T13:27:38Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:27:54Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [Best Yoga Poses to Boost Circulation and Reduce Swelling](https://vitasupportmd.com/blogs/drjohnchuback/best-yoga-poses-to-boost-circulation-and-reduce-swelling): <p><i><em class="editor-text-italic">Discover 9 gentle yoga poses that may help support healthy circulation and promote normal fluid balance in the legs. Learn how mindful movement, breathwork, and relaxation techniques can complement your wellness routine.</em></i></p>
-    Updated: 2025-12-24T13:23:28Z
-    Author: Corina Manea
+    Updated: 2026-01-09T10:27:55Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [The Link Between Circulation and Sleep Quality in Men](https://vitasupportmd.com/blogs/drjohnchuback/the-link-between-circulation-and-sleep-quality-in-men)
-    Updated: 2025-12-24T13:23:26Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:27:46Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [How Hot Weather Affects Your Circulation (and What You Can Do About It)](https://vitasupportmd.com/blogs/drjohnchuback/how-hot-weather-affects-your-circulation-and-what-you-can-do-about-it)
-    Updated: 2025-12-24T13:23:24Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:26:58Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Sitting Too Long This Summer? How to Support Leg Circulation at Your Desk](https://vitasupportmd.com/blogs/drjohnchuback/sitting-too-long-this-summer-how-to-support-leg-circulation-at-your-desk): <p><i><em class="editor-text-italic">Prolonged sitting can significantly impact leg circulation. This comprehensive guide provides practical strategies to improve blood flow while working at your desk, including simple exercises, posture adjustments, and lifestyle modifications that can help support healthy circulation throughout your workday.</em></i></p>
-    Updated: 2025-12-24T13:22:41Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:26:36Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [The Power of Healthy Circulation: How Blood Flow Impacts Mental Clarity and Energy](https://vitasupportmd.com/blogs/drjohnchuback/the-power-of-healthy-circulation-how-blood-flow-impacts-mental-clarity-and-energy)
-    Updated: 2025-12-24T13:22:38Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:25:48Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Professional Leg Circulation Tests: Complete Guide to Clinical Assessment and Vascular Health Monitoring](https://vitasupportmd.com/blogs/drjohnchuback/professional-leg-circulation-tests-complete-guide-to-clinical-assessment-and-vascular-health-monitoring): <p><i><em class="editor-text-italic">Explore the world of professional leg circulation testing with this comprehensive guide. Learn about clinical assessments, non-invasive diagnostic procedures, and natural approaches to supporting vascular wellness and healthy blood flow.</em></i></p>
-    Updated: 2025-12-24T13:22:36Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:25:26Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Does Alcohol Slow Your Circulation? What to Know](https://vitasupportmd.com/blogs/drjohnchuback/does-alcohol-slow-your-circulation-what-to-know): <p><i><em class="editor-text-italic">Does alcohol impact blood circulation in your legs? Explore how alcohol affects circulation, both short-term and long-term, and how lifestyle choices like hydration, regular movement, and </em></i><i><b><strong class="editor-text-bold editor-text-italic">Vein health supplements</strong></b></i><i><em class="editor-text-italic"> can help support healthy blood flow.</em></i></p>
-    Updated: 2025-12-24T13:22:33Z
-    Author: Corina Manea
-    Tags: Nutrition
+    Updated: 2026-01-08T09:25:08Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Fitness & Lifestyle
   - [Celebrate National Wellness Month with These Warming Wellness Tips](https://vitasupportmd.com/blogs/drjohnchuback/celebrate-national-wellness-month-with-these-warming-wellness-tips)
-    Updated: 2025-12-24T13:22:30Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:25:01Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Dr. John Chuback Featured in Eden Magazine’s August Issue: A Conscious Approach to Circulatory Wellness](https://vitasupportmd.com/blogs/drjohnchuback/dr-john-chuback-featured-in-eden-magazine-s-august-issue-a-conscious-approach-to-circulatory-wellness)
-    Updated: 2025-12-24T13:22:27Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:22:22Z
+    Author: Dr. John Chuback's Team
   - [7 Simple Habits for Supporting Healthy Circulation on a Busy Schedule](https://vitasupportmd.com/blogs/drjohnchuback/7-simple-habits-for-supporting-healthy-circulation-on-a-busy-schedule)
-    Updated: 2025-12-29T15:21:32Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:24:53Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [10 Common Natural Energy Boosters to Power You Through the Day](https://vitasupportmd.com/blogs/drjohnchuback/10-common-natural-energy-boosters-to-power-you-through-the-day)
-    Updated: 2025-09-10T13:08:43Z
-    Author: Corina Manea
-    Tags: Wellness
+    Updated: 2026-01-08T09:24:43Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [A Guide to Circulation Supplements: What to Know](https://vitasupportmd.com/blogs/drjohnchuback/guide-to-circulation-supplements): A Guide to Circulation Supplements: What to Know
-    Updated: 2025-09-19T15:33:02Z
-    Author: Iosif Mihai
-    Tags: Wellness
+    Updated: 2026-01-08T09:24:33Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [A Closer Look at Hesperidin Supplements and Their Origins](https://vitasupportmd.com/blogs/drjohnchuback/a-closer-look-at-hesperidin-supplements-and-their-origins)
-    Updated: 2025-09-19T15:44:04Z
-    Author: Iosif Mihai
+    Updated: 2026-01-08T09:24:25Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [5 Simple Leg Stretches for All-Day Comfort and Mobility](https://vitasupportmd.com/blogs/drjohnchuback/5-simple-leg-stretches-for-all-day-comfort-and-mobility)
-    Updated: 2025-10-06T13:55:34Z
-    Author: Iosif Mihai
+    Updated: 2026-01-08T09:23:55Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Diosmin Supplements: What They Are, Their Origins, and How They Work](https://vitasupportmd.com/blogs/drjohnchuback/diosmin-supplements-what-they-are-their-origins-and-how-they-work)
-    Updated: 2025-10-08T20:33:46Z
-    Author: Iosif Mihai
+    Updated: 2026-01-08T09:23:48Z
+    Author: Dr. John Chuback's Team
+    Tags: Ingredients 101
   - [Everyday Lifestyle Tips for a Strong and Resilient You](https://vitasupportmd.com/blogs/drjohnchuback/everyday-lifestyle-tips-for-a-strong-and-resilient-you)
-    Updated: 2025-11-10T14:08:34Z
-    Author: Iosif Mihai
+    Updated: 2026-01-08T09:23:34Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Simple Lifestyle Practices That Support Your Body’s Natural Flow](https://vitasupportmd.com/blogs/drjohnchuback/simple-lifestyle-practices-that-support-your-body-s-natural-flow)
-    Updated: 2025-11-14T10:21:17Z
-    Author: Iosif Mihai
+    Updated: 2026-01-08T09:28:16Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Gentle Exercises To Help You Feel Energized and Refreshed](https://vitasupportmd.com/blogs/drjohnchuback/gentle-exercises-to-help-you-feel-energized-and-refreshed)
-    Updated: 2025-12-24T13:21:00Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:22:55Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Diosmin and Hesperidin for Hemorrhoid & Vein Support | VitasupportMD](https://vitasupportmd.com/blogs/drjohnchuback/diosmin-and-hesperidin-how-these-flavonoids-support-hemorrhoid-and-vein-health): Diosmin and Hesperidin for Hemorrhoid & Vein Support | VitasupportMD
-    Updated: 2025-12-24T13:20:45Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:22:49Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Ingredients 101
   - [Why Compression Socks Deserve a Spot in Your Everyday Wardrobe](https://vitasupportmd.com/blogs/drjohnchuback/why-compression-socks-deserve-a-spot-in-your-everyday-wardrobe)
-    Updated: 2025-12-22T08:56:59Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:22:41Z
+    Author: Dr. John Chuback's Team
+    Tags: Fitness & Lifestyle
   - [Top Breakfast Ideas to Naturally Support Healthy Circulation](https://vitasupportmd.com/blogs/drjohnchuback/top-breakfast-ideas-to-naturally-support-healthy-circulation)
-    Updated: 2025-12-24T12:20:55Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:22:30Z
+    Author: Dr. John Chuback's Team
+    Tags: Circulatory Health, Food & Nutrition
   - [How to Enjoy Essential Oils as Part of a Relaxing Wellness Routine](https://vitasupportmd.com/blogs/drjohnchuback/how-to-enjoy-essential-oils-as-part-of-a-relaxing-wellness-routine)
-    Updated: 2025-12-30T19:06:31Z
+    Updated: 2026-01-05T07:37:15Z
     Author: Dr. John Chuback's Team
 - [News](https://vitasupportmd.com/blogs/news-1)
   - [How to Maintain Healthy Circulation Amidst Holiday Feasts](https://vitasupportmd.com/blogs/news-1/preparing-for-thanksgiving-how-to-maintain-healthy-circulation-amidst-holiday-feasts): How to Maintain Healthy Circulation Amidst Holiday Feasts
-    Updated: 2025-02-28T13:50:31Z
-    Author: Vlad Petcu
+    Updated: 2026-01-09T14:20:46Z
+    Author: Dr. John Chuback's Team
   - [Dr. John Chuback M.D. at the Hip and Knee Surgeons Meeting](https://vitasupportmd.com/blogs/news-1/meet-dr-john-chuback-m-d-at-the-american-association-of-hip-and-knee-surgeons-meeting): Dr. John Chuback M.D. at the Hip and Knee Surgeons Meeting
-    Updated: 2025-02-28T13:51:56Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:19:56Z
+    Author: Dr. John Chuback's Team
   - [Improved Design - Same Effective MPFF Formulation!](https://vitasupportmd.com/blogs/news-1/improved-design-same-effective-mpff-formulation)
-    Updated: 2025-02-13T12:27:00Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:17:38Z
+    Author: Dr. John Chuback's Team
   - [Dr. John Chuback Featured on Late Night Health Radio](https://vitasupportmd.com/blogs/news-1/dr-john-chuback-featured-on-late-night-health-radio)
-    Updated: 2025-02-13T12:31:31Z
-    Author: Liviu Hacicu
+    Updated: 2026-01-08T09:18:15Z
+    Author: Dr. John Chuback's Team
   - [Dr. John Chuback Discusses Seasonal Nutrition for Heart Health](https://vitasupportmd.com/blogs/news-1/dr-john-chuback-joins-food-talk-for-health-podcast-to-discuss-seasonal-nutrition-for-heart-health): Dr. John Chuback Discusses Seasonal Nutrition for Heart Health
-    Updated: 2025-02-28T13:54:15Z
-    Author: Liviu Hacicu
-  - [Dr. John Chuback's Upcoming Article in the Alternative Medicine](https://vitasupportmd.com/blogs/news-1/dr-john-chubacks-upcoming-article-in-the-alternative-medicine-magazine): Dr. John Chuback's Upcoming Article in the Alternative Medicine
-    Updated: 2025-02-28T13:55:16Z
-    Author: Liviu Hacicu
+    Updated: 2026-01-08T09:20:07Z
+    Author: Dr. John Chuback's Team
+  - [Dr. John Chuback's Upcoming Article in the Alternative ](https://vitasupportmd.com/blogs/news-1/dr-john-chubacks-upcoming-article-in-the-alternative--magazine): Dr. John Chuback's Upcoming Article in the Alternative 
+    Updated: 2026-01-08T09:20:15Z
+    Author: Dr. John Chuback's Team
   - [Dr. John Chuback Shares "Keys to Health" in The Eden Magazine](https://vitasupportmd.com/blogs/news-1/dr-john-chuback-shares-keys-to-health-in-the-eden-magazine)
-    Updated: 2025-02-13T12:33:43Z
-    Author: Liviu Hacicu
+    Updated: 2026-01-08T09:18:31Z
+    Author: Dr. John Chuback's Team
   - [Exciting News: Tri-Power Circulation Formula is Here!](https://vitasupportmd.com/blogs/news-1/exciting-news-tri-power-circulation-formula-is-here)
-    Updated: 2025-02-13T12:52:41Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:18:45Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD Attends the Independent Venous Providers Symposium](https://vitasupportmd.com/blogs/news-1/vitasupportmd-attends-the-independent-venous-providers-symposium)
-    Updated: 2025-02-13T12:54:18Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:18:55Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD Attended VISION 2025!](https://vitasupportmd.com/blogs/news-1/vitasupportmd-attended-vision-2025)
-    Updated: 2025-03-18T11:04:01Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:21:00Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD Attends ECRM 2025](https://vitasupportmd.com/blogs/news-1/vitasupportmd-attends-ecrm-2025)
-    Updated: 2025-03-18T08:52:27Z
-    Author: Salomea Strava
+    Updated: 2026-01-08T09:20:46Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD Attends the 37th Annual Meeting of the American Venous Forum](https://vitasupportmd.com/blogs/news-1/vitasupportmd-attends-the-37th-annual-meeting-of-the-american-venous-forum)
-    Updated: 2025-03-18T08:48:19Z
-    Author: Salomea Strava
+    Updated: 2026-01-08T09:20:38Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD Will Attend Expo West 2025](https://vitasupportmd.com/blogs/news-1/vitasupportmd-will-attend-expo-west-2025)
-    Updated: 2025-03-18T08:09:23Z
-    Author: Salomea Strava
+    Updated: 2026-01-08T09:20:25Z
+    Author: Dr. John Chuback's Team
   - [Dr. John Chuback Shares Blood Clot Prevention Tips for Travelers in Luxe Beat Magazine](https://vitasupportmd.com/blogs/news-1/dr-john-chuback-shares-blood-clot-prevention-tips-for-travelers-in-luxe-beat-magazine)
-    Updated: 2025-04-10T06:49:27Z
-    Author: Karina Tuduce
+    Updated: 2026-01-08T09:21:05Z
+    Author: Dr. John Chuback's Team
   - [Dr. John Chuback Featured in Eden Magazine’s April Issue](https://vitasupportmd.com/blogs/news-1/dr-john-chuback-featured-in-eden-magazine-s-april-issue): <p>Dr. John Chuback is featured in Eden Magazine's April issue, discussing "The Silent Epidemic: Understanding Cardiovascular Disease in America." Discover insights on prevention and lifestyle changes. </p>
-    Updated: 2025-04-10T07:16:34Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:21:10Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD at 2025 Vein Conference in Miami](https://vitasupportmd.com/blogs/news-1/vitasupportmd-at-the-2025-international-vein-conference-in-miami): VitasupportMD at 2025 Vein Conference in Miami
-    Updated: 2025-06-17T10:20:01Z
-    Author: Karina Tuduce
+    Updated: 2026-01-08T09:21:27Z
+    Author: Dr. John Chuback's Team
   - [Live from IVC 2025 – Come Visit Us at Booth #217!](https://vitasupportmd.com/blogs/news-1/live-from-ivc-2025-come-visit-us-at-booth-218)
-    Updated: 2025-04-25T07:09:42Z
-    Author: Karina Tuduce
+    Updated: 2026-01-08T09:21:19Z
+    Author: Dr. John Chuback's Team
   - [VitasupportMD at IVC 2025 – Advancing Vein Health Together](https://vitasupportmd.com/blogs/news-1/vitasupportmd-at-ivc-2025-a-successful-collaboration-for-healthy-vein-support): VitasupportMD at IVC 2025 – Advancing Vein Health Together
-    Updated: 2025-06-17T10:52:58Z
-    Author: Karina Tuduce
+    Updated: 2026-01-08T09:21:32Z
+    Author: Dr. John Chuback's Team
   - [Dr. Chuback Featured in Luxe Beat Magazine: Expert Advice on Vein and Lymphatic Health](https://vitasupportmd.com/blogs/news-1/dr-chuback-featured-in-luxe-beat-magazine-expert-advice-on-vein-and-lymphatic-health)
-    Updated: 2025-05-19T11:09:07Z
-    Author: Georgiana Vieru
+    Updated: 2026-01-08T09:21:24Z
+    Author: Dr. John Chuback's Team
 - [Wellness News](https://vitasupportmd.com/blogs/wellness): Stay informed with wellness advice, health tips, and supplement insights to support your overall wellbeing. Explore the latest on Vita Support MD’s Wellness blog.
   - [The Power of Micronized Purified Flavonoid Fraction: Supporting Circulatory and Lymphatic Health](https://vitasupportmd.com/blogs/wellness/the-power-of-micronized-purified-flavonoid-fraction-supporting-circulatory-and-lymphatic-health)
-    Updated: 2025-02-26T08:38:58Z
-    Author: Vlad Petcu
+    Updated: 2026-01-08T09:19:06Z
+    Author: Dr. John Chuback's Team
 
 ## Store Pages
 
@@ -750,7 +811,7 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2025-11-20T08:51:45Z
 - [Doctors Wholesale Login Page](https://vitasupportmd.com/pages/doctors-wholesale-login-page)
   Updated: 2025-11-20T13:20:38Z
-- [Doctors Wholesale Message](https://vitasupportmd.com/pages/doctors-wholesale-message): Thank you for the submission! We have received your submission and will respond as soon as possible. Once approved, you will be able to log in and ...
+- [Doctors Wholesale Message](https://vitasupportmd.com/pages/doctors-wholesale-message): Thank you for the submission! We have received your submission and will respond as soon as possible. Once , you will be able to log in and ...
   Updated: 2024-02-07T15:24:34Z
 - [Referral](https://vitasupportmd.com/pages/referral)
   Updated: 2024-02-20T12:10:11Z
@@ -764,9 +825,9 @@ This philosophy is what makes every VitasupportMD team member so special, and so
   Updated: 2024-04-11T08:21:03Z
 - [VitasupportMD Sustainability – Wellness with Responsibility](https://vitasupportmd.com/pages/sustainability): 
   Updated: 2025-11-17T09:28:54Z
-- [Discount for Military](https://vitasupportmd.com/pages/discount-for-military): Verify your eligibility with ID.me to receive this exclusive discount. F5C81E89-34DE-4075-A67C-5F6663EECA8E Verification by ID.me • What is ID.me? ...
+- [ for Military](https://vitasupportmd.com/pages/-for-military): Verify your eligibility with ID.me to receive this exclusive . F5C81E89-34DE-4075-A67C-5F6663EECA8E Verification by ID.me • What is ID.me? ...
   Updated: 2024-05-21T11:08:01Z
-- [You successfully verified!](https://vitasupportmd.com/pages/verify): Continue shopping. window.location.replace("https://biosupportmd.myshopify.com")
+- [You successfully !](https://vitasupportmd.com/pages/verify): Continue shopping. window.location.replace("https://biosupportmd.myshopify.com")
   Updated: 2024-05-17T06:30:42Z
 - [Ingredients & Directions](https://vitasupportmd.com/pages/ingredients-directions)
   Updated: 2024-06-11T14:11:17Z
