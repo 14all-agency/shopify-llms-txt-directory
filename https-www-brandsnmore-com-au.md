@@ -1,6 +1,6 @@
 # Brands N More (https://www.brandsnmore.com.au)
 
-> Brands N More offer premium coffee machines for offices, hospitality, healthcare, petrol stations and homes across Australia. Quality commercial and household solutions."
+> Brands N More offer premium coffee machines for offices, hospitality, , petrol stations and homes across Australia. Quality commercial and household solutions."
 
 - Domain: https://www.brandsnmore.com.au
 - Locale: en
@@ -9,7 +9,7 @@
 - Created At: 2025-05-04T01:42:47Z
 - Contact Email: sales@brandsnmore.com.au
 - Contact Phone: 61425707369
-- Updated At: 2026-01-05T00:00:25.625Z
+- Updated At: 2026-01-12T00:00:31.857Z
 
 ## Products
 
@@ -679,7 +679,7 @@
 - [Hospitality Coffee Machines - Brands N More](https://www.brandsnmore.com.au/collections/hospitality-coffee-machines): Hospitality coffee machines for hotels, restaurants, cafes & venues across Australia. Deliver exceptional coffee experiences with reliable commercial equipment.
   Updated: 2025-11-29T09:44:08Z
   Total Products: 5
-- [Healthcare & Retirement Home Coffee Solutions | BNM](https://www.brandsnmore.com.au/collections/healthcare-retirement-home-coffee-solutions): Healthcare & Retirement Home Coffee Solutions Easy-to-use coffee machines. Reliable consistent quality for aged care and medical environments across Australia
+- [ & Retirement Home Coffee Solutions | BNM](https://www.brandsnmore.com.au/collections/-retirement-home-coffee-solutions):  & Retirement Home Coffee Solutions Easy-to-use coffee machines. Reliable consistent quality for aged care and  environments across Australia
   Updated: 2025-11-30T09:25:51Z
   Total Products: 4
 - [Petrol Station Coffee Machines - High Volume Solutions - BNM](https://www.brandsnmore.com.au/collections/petrol-station-coffee-machines): Petrol Station Coffee Machines - Commercial Coffee Machines for petrol stations. High-capacity, durable, and easy-to-use systems perfect for service stations.
