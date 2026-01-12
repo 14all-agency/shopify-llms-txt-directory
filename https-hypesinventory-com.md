@@ -6,98 +6,98 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-01-04T00:00:42.177Z
+- Updated At: 2026-01-12T00:00:41.916Z
 
 ## Products
 
 - [Flared Yoga Pants | Women’s 30” High-Waisted Yoga Pants](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets): Flared yoga pants designed for comfort and style. Women’s 30” high-waisted fit with soft, quick-dry fabric and pockets—perfect for yoga or everyday wear.
-  Updated: 2025-12-26T19:19:38Z
+  Updated: 2026-01-05T20:16:20Z
   Vendor: Flairé™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/5ea04f35-78e3-423d-91ff-9e58daf98aa1.webp?v=1759881773
   - [Olive Green / Small](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240144294141)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1767644179
     Price: $34.95 USD
   - [Olive Green / Medium](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240151732477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1767644179
     Price: $34.95 USD
   - [Olive Green / Large](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240151798013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1767644179
     Price: $34.95 USD
   - [Olive Green / XL](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240152060157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63328e99-5be8-4d5b-80ec-31b64ac6c3f7_2_df3bae8b-d615-44c9-86f5-4c13a8e70ce4.webp?v=1767644179
     Price: $34.95 USD
   - [Cocoa / Small](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46239763103997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1760314928
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1767644179
     Price: $34.95 USD
   - [Cocoa / Medium](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154190077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1760314928
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1767644179
     Price: $34.95 USD
   - [Cocoa / Large](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154255613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1760314928
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1767644179
     Price: $34.95 USD
   - [Cocoa / XL](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154452221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1760314928
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9c62e250-8ca9-4ef6-86d0-b3da2c78ec2b_2_7b332aff-23f4-40e2-9c2c-576130e729d7.webp?v=1767644179
     Price: $34.95 USD
   - [Dark Brown / Small](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46239763136765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1767644179
     Price: $34.95 USD
   - [Dark Brown / Medium](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154517757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1767644179
     Price: $34.95 USD
   - [Dark Brown / Large](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154616061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1767644179
     Price: $34.95 USD
   - [Dark Brown / XL](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154747133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a67e379-09de-44d9-a1ad-2c4a788b1505_1_728d8954-1b03-45cc-9ee7-8cef1642e7aa.webp?v=1767644179
     Price: $34.95 USD
   - [Black / Small](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46239763529981)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1767644179
     Price: $34.95 USD
   - [Black / Medium](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240154878205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1767644179
     Price: $34.95 USD
   - [Black / Large](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240155042045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1767644179
     Price: $34.95 USD
   - [Black / XL](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240155140349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f1faec3a-89d9-464a-b89f-989ebc8c10d3_2166439b-f396-402b-84a9-35d0e87b718c.webp?v=1767644179
     Price: $34.95 USD
   - [Gray / Small](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46239763693821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1767644179
     Price: $34.95 USD
   - [Gray / Medium](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240155271421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1767644179
     Price: $34.95 USD
   - [Gray / Large](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240155336957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1767644179
     Price: $34.95 USD
   - [Gray / XL](https://hypesinventory.com/products/flaire-bell-bottom-yoga-pants-with-pockets?variant=46240155435261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1760525754
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ee5b2336-3ca8-4ebb-9e80-06343336d4ca_ab60c30b-c171-4b34-867c-29a92743b23f.webp?v=1767644179
     Price: $34.95 USD
 - [Flairé™ Flared Leggings with Pockets | 30” High-Waisted Yoga Pants](https://hypesinventory.com/products/flaire-flared-leggings-with-pockets): Shop Flairé™ 30” high-waisted flared leggings with pockets. Sculpting, stretchy yoga & athleisure pants designed for comfort, support, and everyday wear. ✨
-  Updated: 2025-12-27T00:20:04Z
+  Updated: 2026-01-10T05:34:12Z
   Vendor: Flairé™
   Product Type: Flared Leggings
   Availability: Available
@@ -402,7 +402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Yz3IIeDJldlOhiPt.webp?v=1759882640
     Price: $19.98 USD
 - [PHOFAY Double-Take Cream & Powder Blush Duo](https://hypesinventory.com/products/phofay-double-take-cream-powder-blush-duo): Net Weight: 6.5g Functions: Smooth, Weightless Suggested Usage:- Start by using the brush to apply the cream with a gentle, stamping motion to create definition. - Layer the powder over areas where the cream has been applied to buff out any harsh lines and add warmth to the skin, focusing on areas where the sun would naturally hit the face. - To contour the nose, apply the same tips using the Brush.
-  Updated: 2025-12-25T23:36:17Z
+  Updated: 2026-01-05T11:08:12Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -420,7 +420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/03ThqILWRKOASZXw.webp?v=1746606970
     Price: $26.95 USD
   - [01 / 1PCS](https://hypesinventory.com/products/phofay-double-take-cream-powder-blush-duo?variant=46260580024573)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/5hHGPu6OU0eI5du3.webp?v=1746607390
     Price: $26.95 USD
   - [02 / 1PCS](https://hypesinventory.com/products/phofay-double-take-cream-powder-blush-duo?variant=46260580057341)
@@ -1375,7 +1375,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/51Jorkp1qGL._AC_SL1080.jpg?v=1748137090
   Price: $58.95 USD
-- [Crowned in Silk Hair Bonnet](https://hypesinventory.com/products/curly-hair-bonnet): Wake Up to Beautiful, Frizz-Free Curls Transform your hair care routine with our luxurious silk sleep bonnet, thoughtfully crafted for curly and textured hair. Designed to protect and preserve your natural curls overnight, this premium bonnet ensures you rise each morning with soft, smooth, and defined hair—ready to take on the day. Made from 100% ultra-soft silk, it gently shields your strands, reducing friction, breakage, and moisture loss while you sleep. Say goodbye to tangles, frizz, and morning hair stress, and hello to healthier, more manageable curls. ✨ Why You'll Love It: Pure Silk EleganceEnjoy the buttery softness of silk that glides over your hair, preventing damage while supporting strong, vibrant curls. Adjustable Fit for All Head SizesFeaturing an adjustable tie band that stays put all night without slipping or tugging—comfort and security in one stylish design. Frizz-Free MorningsDesigned to reduce frizz and maintain your curl pattern, so you wake up with hair that looks like you already styled it. Breathable & LightweightNo more overheating at night—our silk is breathable, moisture-retaining, and featherlight for uninterrupted beauty rest. Chic and FunctionalMore than just a bonnet—it's a statement. This elegant accessory adds a touch of luxury to your nighttime routine. Elevate Your Routine. Empower Your Beauty. This bonnet isn’t just a sleep essential—it’s a self-care ritual. Perfect for anyone tired of waking up to dry, tangled hair, it's a must-have for queens who want effortless beauty and real results. Unlike low-quality alternatives, ours is crafted from premium silk with durability and style in mind, making it a long-lasting investment in your hair health. Give your curls the royal treatment they deserve.Because beauty sleep should actually benefit your beauty.
+- [Crowned in Silk Hair Bonnet](https://hypesinventory.com/products/curly-hair-bonnet): Wake Up to Beautiful, Frizz-Free Curls Transform your hair care routine with our luxurious silk sleep bonnet, thoughtfully crafted for curly and textured hair. Designed to protect and preserve your natural curls overnight, this premium bonnet ensures you rise each morning with soft, smooth, and defined hair—ready to take on the day. Made from 100% ultra-soft silk, it gently shields your strands, reducing friction, breakage, and moisture loss while you sleep. Say goodbye to tangles, frizz, and morning hair stress, and hello to healthier, more manageable curls. ✨ Why You'll Love It: Pure Silk EleganceEnjoy the buttery softness of silk that glides over your hair, preventing damage while supporting strong, vibrant curls. Adjustable Fit for All Head SizesFeaturing an adjustable tie band that stays put all night without slipping or tugging—comfort and security in one stylish design. Frizz-Free MorningsDesigned to reduce frizz and maintain your curl pattern, so you wake up with hair that looks like you already styled it. Breathable & LightweightNo more overheating at night—our silk is breathable, moisture-retaining, and featherlight for uninterrupted beauty rest. Chic and FunctionalMore than just a bonnet—it's a statement. This elegant accessory adds a touch of luxury to your nighttime routine. Elevate Your Routine. Empower Your Beauty. This bonnet isn’t just a sleep essential—it’s a self-care ritual. Perfect for anyone tired of waking up to dry, tangled hair, it's a must-have for queens who want effortless beauty and real results. Unlike low-quality alternatives, ours is crafted from premium silk with durability and style in mind, making it a long-lasting  in your hair health. Give your curls the royal  they deserve.Because beauty sleep should actually benefit your beauty.
   Updated: 2025-12-25T22:42:00Z
   Vendor: Hypes Inventory
   Product Type: 
@@ -2025,7 +2025,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/FsnUa89UEX2enzBa.webp?v=1756259577
     Price: $53.95 USD
-- [Pulse Sleep Aid Microcurrent](https://hypesinventory.com/products/sleep-aid-microcurrent): Discover the ultimate solution for a restful night's sleep with our 15-level handheld sleep monitor. This innovative device is designed to help you achieve deep relaxation and tranquility, making it the perfect companion for anyone seeking a better night's rest. Featuring a sleek and modern design, the sleep monitor is available in three stylish colors: White, Green, and Black. Its compact size (6.5*4*3.5CM) and lightweight construction (only 0.027KG) make it easy to hold and carry, allowing you to use it wherever you go. With 15 adjustable gears, you can personalize your experience to find the perfect level of comfort and relaxation. The device operates at a low power consumption of just 0.3W, ensuring that you can enjoy its benefits without worrying about battery life. The built-in 300mAh battery allows for extended use, and it conveniently charges via a USB cable included in the package. Made from high-quality ABS plastic and stainless steel, the sleep monitor is not only durable but also easy to clean. It comes with a comprehensive instruction manual, guiding you through its features and helping you maximize its potential for improved sleep. Rest easy knowing that our product meets international safety and quality standards, certified by CE, ROHS, and FCC. With this sleep monitor, you're investing in a better quality of life, one peaceful night at a time. Don't let sleepless nights hold you back any longer. Experience the soothing benefits of our handheld sleep monitor today!
+- [Pulse Sleep Aid Microcurrent](https://hypesinventory.com/products/sleep-aid-microcurrent): Discover the ultimate solution for a restful night's sleep with our 15-level handheld sleep monitor. This innovative device is designed to help you achieve deep relaxation and tranquility, making it the perfect companion for anyone seeking a better night's rest. Featuring a sleek and modern design, the sleep monitor is available in three stylish colors: White, Green, and Black. Its compact size (6.5*4*3.5CM) and lightweight construction (only 0.027KG) make it easy to hold and carry, allowing you to use it wherever you go. With 15 adjustable gears, you can personalize your experience to find the perfect level of comfort and relaxation. The device operates at a low power consumption of just 0.3W, ensuring that you can enjoy its benefits without worrying about battery life. The built-in 300mAh battery allows for extended use, and it conveniently charges via a USB cable included in the package. Made from high-quality ABS plastic and stainless steel, the sleep monitor is not only durable but also easy to clean. It comes with a comprehensive instruction manual, guiding you through its features and helping you maximize its potential for improved sleep. Rest easy knowing that our product meets international safety and quality standards,  by CE, ROHS, and FCC. With this sleep monitor, you're investing in a better quality of life, one peaceful night at a time. Don't let sleepless nights hold you back any longer. Experience the soothing benefits of our handheld sleep monitor today!
   Updated: 2025-12-25T22:42:24Z
   Vendor: Hypes Inventory
   Product Type: 
@@ -2043,7 +2043,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/CzEe7Hl8T9WNOng9.webp?v=1752721090
     Price: $34.90 USD
-- [Smart Eye Massager with Microcurrent and Heat Therapy](https://hypesinventory.com/products/smart-eye-massager-with-microcurrent-and-heat-therapy): Experience the ultimate in eye care with our smart eye massager. Designed to rejuvenate your eyes and provide relief from fatigue, this innovative device combines microcurrent technology, heat therapy, and gentle vibrations to create a unique pampering experience. Say goodbye to tired eyes and hello to a refreshed appearance! This eye massage instrument features a sleek and modern design, available in two stylish colors: White and Purple, allowing you to choose the one that best suits your style. Its compact size of 22.5cm x 12.5cm x 6.5cm makes it perfect for home use or travel, ensuring you can enjoy a professional-grade treatment anytime, anywhere. With each use, the massager helps reduce the appearance of eye bags and dark circles, while promoting better blood circulation and relaxation around the delicate eye area. The heat function soothes tired eyes, while the vibration mode invigorates and energizes, leaving you looking and feeling your best. Packaged conveniently in a box containing 30 sets, it's perfect for those looking to stock up or share the joy of this eye care solution with friends and family. Each box weighs 9 kg and fits neatly into your beauty routine or spa sessions. Don't let fatigue and stress take a toll on your eyes. Invest in our smart eye massager today and unlock the secret to a brighter, more youthful gaze!
+- [Smart Eye Massager with Microcurrent and Heat Therapy](https://hypesinventory.com/products/smart-eye-massager-with-microcurrent-and-heat-therapy): Experience the ultimate in eye care with our smart eye massager. Designed to rejuvenate your eyes and provide relief from fatigue, this innovative device combines microcurrent technology, heat therapy, and gentle vibrations to create a unique pampering experience. Say goodbye to tired eyes and hello to a refreshed appearance! This eye massage instrument features a sleek and modern design, available in two stylish colors: White and Purple, allowing you to choose the one that best suits your style. Its compact size of 22.5cm x 12.5cm x 6.5cm makes it perfect for home use or travel, ensuring you can enjoy a professional-grade  anytime, anywhere. With each use, the massager helps reduce the appearance of eye bags and dark circles, while promoting better blood circulation and relaxation around the delicate eye area. The heat function soothes tired eyes, while the vibration mode invigorates and energizes, leaving you looking and feeling your best. Packaged conveniently in a box containing 30 sets, it's perfect for those looking to stock up or share the joy of this eye care solution with friends and family. Each box weighs 9 kg and fits neatly into your beauty routine or spa sessions. Don't let fatigue and stress take a toll on your eyes.  in our smart eye massager today and unlock the secret to a brighter, more youthful gaze!
   Updated: 2025-12-25T22:42:26Z
   Vendor: Hypes Inventory
   Product Type: 
@@ -6911,7 +6911,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dzKV67fZIfAFAHy1.webp?v=1760239077
   Price: $39.90 USD
-- [3-Piece Winter Beanie, Scarf & Gloves Set – Warm Knit Touchscreen Set for Men & Women](https://hypesinventory.com/products/winter-beanie-hat-scarf-gloves-warm-fleece-knit-winter-hats-touch-screen-gloves-neck-scarf-set-winter-gifts-for-unisex-adult): Stay warm with our 3-piece winter knit set featuring a beanie, scarf, and touchscreen gloves. Soft acrylic, plush lining, and stretchy fit for men and women — perfect for gifting and cold weather.
+- [3-Piece Winter Beanie, Scarf & Gloves Set – Warm Knit Touchscreen Set for Men & Women](https://hypesinventory.com/products/winter-beanie-hat-scarf-gloves-warm-fleece-knit-winter-hats-touch-screen-gloves-neck-scarf-set-winter-gifts-for-unisex-): Stay warm with our 3-piece winter knit set featuring a beanie, scarf, and touchscreen gloves. Soft acrylic, plush lining, and stretchy fit for men and women — perfect for gifting and cold weather.
   Updated: 2025-12-25T22:44:34Z
   Vendor: Hypes Inventory
   Product Type: 
@@ -7909,31 +7909,31 @@
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/7d96551d-c9b1-44c0-9c5c-40411163e96d.avif?v=1762149619
   - [White / S](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577101565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [White / M](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577134333)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [White / L](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577199869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [White / XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577167101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [White / 2XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577232637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [White / 3XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577068797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [White / 4XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577265405)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Beige-XXXL_8ae7db00-aac7-41d7-94de-3569e52467f7.921.avif?v=1765141996
     Price: $38.99 USD
   - [Purple / S](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781576478973)
     Availability: Available
@@ -8021,51 +8021,51 @@
     Price: $38.99 USD
   - [Light Blue / S](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781576741117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
     Price: $38.99 USD
   - [Light Blue / M](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781576773885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
     Price: $38.99 USD
   - [Light Blue / L](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578346749)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
     Price: $38.99 USD
   - [Light Blue / XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578379517)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
     Price: $38.99 USD
   - [Light Blue / 2XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578412285)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
     Price: $38.99 USD
   - [Light Blue / 3XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781576806653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Sky-Blue-XXXL_b3ed2296-0f29-45c4-8649-096022bf5191..avif?v=1765141996
     Price: $38.99 USD
   - [Lemon Yellow / S](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578182909)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
     Price: $38.99 USD
   - [Lemon Yellow / M](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578215677)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
     Price: $38.99 USD
   - [Lemon Yellow / L](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578248445)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
     Price: $38.99 USD
   - [Lemon Yellow / XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781578281213)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
     Price: $38.99 USD
   - [Lemon Yellow / 2XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781576872189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
     Price: $38.99 USD
   - [Lemon Yellow / 3XL](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781576839421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Discount-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO--Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Yellow-XXXL_6dcdab53-5ca0-41bf-a98f-dc682f354948.34.avif?v=1765141996
     Price: $38.99 USD
   - [Dark Purple / S](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set?variant=46781577855229)
     Availability: Available
@@ -8357,17 +8357,17 @@
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/0368be3e879f66e783b59b25633e13bf.jpg?v=1765920061
   Price: $139.99 USD
 - [NFC Smart Epoxy Keychain for Google Instagram Whatsapp Facebook Snapchat Review Tap Keychain for Instant Customer Feedback](https://hypesinventory.com/products/nfc-smart-epoxy-keychain-for-google-instagram-whatsapp-facebook-snapchat-review-tap-keychain-for-instant-customer-feedback): Feature Chip: NTAG215 Frequency: 13.56MHz Protocol: 14443A Memory: 504 bytes Material: Epoxy Size: 30*33.5MM Water-proof Acid-proof Alkali-proof Operating temperature: -40'C to +85'C Application NFC quick link to Google Review or other soical media, you can program the NFC cards with NFC enabled mobile phone with NFC related APP, Such as APP "NFC tools", and write you google reviews URL into it Instructions How to Write your google review link 1.Dowload "NFC tools" app in Apple store or Google Play Store
-  Updated: 2025-12-25T22:45:15Z
+  Updated: 2026-01-11T13:57:27Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4c80ce78ff555f05535736c6979e22f3.jpg?v=1765919990
-  - [Square Instagram](https://hypesinventory.com/products/nfc-smart-epoxy-keychain-for-google-instagram-whatsapp-facebook-snapchat-review-tap-keychain-for-instant-customer-feedback?variant=46972923969789)
+  - [Squaer Instagram](https://hypesinventory.com/products/nfc-smart-epoxy-keychain-for-google-instagram-whatsapp-facebook-snapchat-review-tap-keychain-for-instant-customer-feedback?variant=46972923969789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/93f204db22a5a2c22c4c0d21429abfc8.jpg?v=1765920018
     Price: $14.99 USD
-  - [Square Whatsapp](https://hypesinventory.com/products/nfc-smart-epoxy-keychain-for-google-instagram-whatsapp-facebook-snapchat-review-tap-keychain-for-instant-customer-feedback?variant=46972924002557)
-    Availability: Available
+  - [Squaer Whatsapp](https://hypesinventory.com/products/nfc-smart-epoxy-keychain-for-google-instagram-whatsapp-facebook-snapchat-review-tap-keychain-for-instant-customer-feedback?variant=46972924002557)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a3a9a8ddf22a0e866cde4f319f18378a.jpg?v=1765920022
     Price: $14.99 USD
   - [Square Google Black](https://hypesinventory.com/products/nfc-smart-epoxy-keychain-for-google-instagram-whatsapp-facebook-snapchat-review-tap-keychain-for-instant-customer-feedback?variant=46972924035325)
@@ -8423,35 +8423,35 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b24f2ce2d78639bdba93fd0979ed2b2f.jpg?v=1765919998
     Price: $14.99 USD
 - [NFC Social Media Keychain | Tap to Share Reviews & Profiles](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card): NFC social media keychain that lets customers tap to open Google reviews, Instagram, Facebook, or any link instantly. Waterproof, durable, and easy to use.
-  Updated: 2025-12-25T00:07:50Z
+  Updated: 2026-01-07T20:32:35Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a78facda140e49f699568addc8ae246b.jpg?v=1765919923
   - [Facebook](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160122109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1dcc91c78ef47e45890084eaa522fdd7.jpg?v=1765919963
-    Price: $14.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1dcc91c78ef47e45890084eaa522fdd7.jpg?v=1767817904
+    Price: $12.99 USD
   - [Google White](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160154877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b144541075d00cc14d0c667d9d242920.jpg?v=1765919979
-    Price: $14.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b144541075d00cc14d0c667d9d242920.jpg?v=1767817904
+    Price: $12.99 USD
   - [Instagram](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160187645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b943f5e6231bcd5f85c51fdca5cabb62.jpg?v=1765919969
-    Price: $14.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/b943f5e6231bcd5f85c51fdca5cabb62.jpg?v=1767817904
+    Price: $12.99 USD
   - [Google Black](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160220413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/526f569492ac34b8ba91f4bd2b72b493.jpg?v=1765919974
-    Price: $14.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/526f569492ac34b8ba91f4bd2b72b493.jpg?v=1767817904
+    Price: $12.99 USD
   - [Whatsapp](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160253181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8970f0fb64d5c97ba201481c9474f619.jpg?v=1765919958
-    Price: $14.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8970f0fb64d5c97ba201481c9474f619.jpg?v=1767817904
+    Price: $12.99 USD
   - [Tik-Tok](https://hypesinventory.com/products/waterproof-epoxy-nfc-tap-review-keychain-google-review-follow-us-on-instagram-facebook-nfc-key-card?variant=46982160285949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ChatGPT_Image_Dec_10_2025_05_00_39_AM.png?v=1765919986
-    Price: $14.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ChatGPT_Image_Dec_10_2025_05_00_39_AM.png?v=1767817904
+    Price: $12.99 USD
 - [Insulated Lunch & Laptop Bag – Stylish 2-in-1 Work & Travel Tote](https://hypesinventory.com/products/insulated-lunch-laptop-bag): Upgrade your daily carry with this insulated lunch & laptop bag. Stylish 2-in-1 tote keeps food fresh while protecting your laptop—perfect for work, school & travel.
   Updated: 2025-12-25T00:07:55Z
   Vendor: Hypes Inventory
@@ -8682,15 +8682,493 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/365buHBJUwNKARJMwRpv_1cfcc57d-9abe-45a0-bd3c-0a2ed06816c1.webp?v=1767293502
     Price: $74.07 USD
-[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk3NzY0MTc2MTI1LCJsYXN0X3ZhbHVlIjoiOTA5Nzc2NDE3NjEyNSJ9)
+- [6 -Piece Wicker Patio Sofa Conversation Set with Orange Cushions](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions): OVIOS has advanced furniture production technology and unique design concept, more than 12 years of furniture production experience. We are committed to providing you with high quality and beautiful products, ensuring your comfortable and stylish outdoor life is our top priority. This wicker outdoor patio furniture set is modern and the 7 seatings are wide and sturdy. It transforms the touch of life into a meticulous taste, which is in line with the human scale. Comfortable, luxurious atmosphere, elegant and romantic. Ergonomic design backrest, fade-resistant PE wicker, non-slip pad for cushions, cushion zippers, these thoughtful details are just to make you more satisfied. The patio conversation set with gas fire pit table include 6 pieces: 1 couch, 1 love seat, 2 swivel rocking chairs, 1 side table, 1 fire pit table and 2 free pillows. Some cushions of this set are packed vacuum compression, pls allow 1-2 weeks to rebound to the original thickness. For long lasting maintain, it would better cover it with furniture cover when rainy or not use. Easy to Clean Fabric: resists water, and UV harm, visible texture and thick, high-end and bright colors, multiple color options, dry fast and easy to maintain Long-lasting PE Wicker: UV protection and anti-aging, well made and thicker than normal, 200% longer service life High Density and Resilience Cushions: thickened foam, suitable supporting capacity,not tired from sitting for a long time, soft enough, longer service life Swivel and Rocking Function: two chairs with suitable height armrests, well-constructed rocker base, more smooth and silent when you swivel and glide Smokeless Propane Gas Fire Pit Table: insulated ceramic tiles table top, more safer with CSA certification, serve as an outdoor dining table with the metal lid covered, with a heat output of 50,000 BTU, include a free furniture cover for fire pit and lava rock
+  Updated: 2026-01-08T23:03:33Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6df5e70aab802905e7bfd58d018cd756.jpg?v=1767663143
+  - [Orange](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions?variant=47058372133117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6df5e70aab802905e7bfd58d018cd756.jpg?v=1767663143
+    Price: $1,599.99 USD
+  - [Blue](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions?variant=47058372165885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/94f8358c5a77e031da9f618716ae8fe9.jpg?v=1767663143
+    Price: $1,599.99 USD
+  - [Gray](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions?variant=47058372198653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4a3773c29654e3ac75ead566cf2c9a91.jpg?v=1767663143
+    Price: $1,599.99 USD
+  - [Beige](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions?variant=47058372231421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a94f0ad985db93ab7183435579e31684.jpg?v=1767663143
+    Price: $1,599.99 USD
+  - [Black](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions?variant=47058372264189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/86c55555cf5e567415ebd8240339c8de.jpg?v=1767663144
+    Price: $1,679.99 USD
+  - [Dark Gray](https://hypesinventory.com/products/6-piece-wicker-patio-sofa-conversation-set-with-orange-cushions?variant=47058372296957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/5806bb35152fdc0974f8ebe02dc7e1cb.jpg?v=1767663143
+    Price: $1,679.99 USD
+- [All-match Knitted Coat](https://hypesinventory.com/products/all-match-knitted-coat): Product Description:Stay cozy and stylish with this versatile knitted coat. Perfect for layering, it pairs effortlessly with any outfit. Soft, comfortable, and chic—ideal for any season!Version: LooseStyle: CardiganSleeve type: sleeveMain fabric composition: Polyester (polyester fiber)
+  Updated: 2026-01-07T21:43:43Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6f3syYLIWqUW6ujT.webp?v=1767779009
+  - [Gray / S](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800502525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6f3syYLIWqUW6ujT.webp?v=1767779009
+    Price: $82.74 USD
+  - [Wine Red / L](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800535293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/nx9Cx7bRxa4anFSX.webp?v=1767779094
+    Price: $84.09 USD
+  - [Black / S](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800568061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/JoNPTAu16gixwIIK.webp?v=1767779050
+    Price: $82.74 USD
+  - [Grass Green / L](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800600829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ctwtwU2uhn9D7Zzv.webp?v=1767779018
+    Price: $84.09 USD
+  - [Black / M](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800633597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/tbKWQAsLwQvuXpt3.webp?v=1767779029
+    Price: $83.40 USD
+  - [Grass Green / XL](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800666365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/FLANFxRamsRIgk3W.webp?v=1767779081
+    Price: $84.75 USD
+  - [Grass Green / M](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800699133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/IeGENiNnyVOpWflP.webp?v=1767779050
+    Price: $83.40 USD
+  - [Gray / M](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800731901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Qrs5zAhWe2HflpeQ.webp?v=1767779114
+    Price: $83.40 USD
+  - [Grass Green / S](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800764669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/X3BRC04d1Ck0AXhb.webp?v=1767779082
+    Price: $82.74 USD
+  - [Black / XL](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800797437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/yjoIcZ7TF01IAY4D.webp?v=1767779071
+    Price: $84.75 USD
+  - [Gray / L](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800830205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/cBgokGsDLr0Lxbr8.webp?v=1767779082
+    Price: $84.09 USD
+  - [Gray / XL](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800862973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/OusudDQkuZUgtfSh.webp?v=1767779124
+    Price: $84.75 USD
+  - [Black / L](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800895741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ui4QWvFvM81WLcdU.webp?v=1767779083
+    Price: $84.09 USD
+  - [Wine Red / S](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800928509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/LOrKAXyhidRlgysb.webp?v=1767779147
+    Price: $82.74 USD
+  - [Wine Red / XL](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800961277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Pk5Tu5wZnIeuu96L.webp?v=1767779157
+    Price: $84.75 USD
+  - [Wine Red / M](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067800994045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/D7jjbvj0lsFwyH1S.webp?v=1767779169
+    Price: $83.40 USD
+  - [Orange Red / L](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067801026813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6PGEOnbPGmgHOzqP.webp?v=1767779134
+    Price: $84.09 USD
+  - [Orange Red / XL](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067801059581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/G3mGYpforLtJ7SsQ.webp?v=1767779182
+    Price: $84.75 USD
+  - [Orange Red / S](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067801092349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/cejqla4QMUGBMvsL.webp?v=1767779019
+    Price: $82.74 USD
+  - [Orange Red / M](https://hypesinventory.com/products/all-match-knitted-coat?variant=47067801125117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ENsw0NYPpaC6rqbC.webp?v=1767779192
+    Price: $83.40 USD
+- [Faux Sherpa Cocoon Coat - Cool Grey](https://hypesinventory.com/products/faux-sherpa-cocoon-coat-cool-grey): When temps drop, you cocoon up. Designed with a luxe faux sherpa fabric, the Cocoon Coat makes layering a breeze (ironic, right?). Pair with your go-to jeans or workout ootd.
+  Updated: 2026-01-10T00:12:34Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4c88255f1a9afbdcdf7ffbc9fcace133.jpg?v=1767914476
+  - [Xxs/Xs](https://hypesinventory.com/products/faux-sherpa-cocoon-coat-cool-grey?variant=47077539283197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4c88255f1a9afbdcdf7ffbc9fcace133.jpg?v=1767914476
+    Price: $96.00 USD
+  - [S/M](https://hypesinventory.com/products/faux-sherpa-cocoon-coat-cool-grey?variant=47077539315965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4c88255f1a9afbdcdf7ffbc9fcace133.jpg?v=1767914476
+    Price: $96.00 USD
+  - [L/Xl](https://hypesinventory.com/products/faux-sherpa-cocoon-coat-cool-grey?variant=47077539348733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4c88255f1a9afbdcdf7ffbc9fcace133.jpg?v=1767914476
+    Price: $96.00 USD
+  - [1X/3X](https://hypesinventory.com/products/faux-sherpa-cocoon-coat-cool-grey?variant=47077539381501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4c88255f1a9afbdcdf7ffbc9fcace133.jpg?v=1767914476
+    Price: $96.00 USD
+- [Corduroy Tote Bag for Women | Large Canvas Shoulder Bag](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket): Shop a stylish large corduroy tote bag for women. Lightweight, durable canvas shoulder bag with inner pockets—perfect for work, school, travel & everyday use.
+  Updated: 2026-01-11T21:37:29Z
+  Vendor: Hypes Inventory
+  Product Type: Corduroy Tote Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-Large-for-Women-Girl-Lady-Canvas-Shoulder-Cord-Purse-and-Handbags-with-Inner-Pocket-Beige_11983383-7bdd-46bf-ace1-1d3748ff30c9.ed9c7b1d984bfe794ec2dbd212a11.jpg?v=1768102003
+  - [Beige](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568676093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-Large-for-Women-Girl-Lady-Canvas-Shoulder-Cord-Purse-and-Handbags-with-Inner-Pocket-Beige_11983383-7bdd-46bf-ace1-1d3748ff30c9.ed9c7b1d984bfe794ec2dbd212a11.jpg?v=1768102003
+    Price: $23.95 USD
+  - [Black](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568545021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4cd0e18e450da9279c585da2224a8953.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Brown](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568774397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-Large-for-Women-Girl-Lady-Canvas-Shoulder-Cord-Purse-with-Inner-Pocket-Brown_487f0aea-22af-45f3-8cbd-dd2741539bc9.cf9760ab1ef307b5bfea042e1c6d405d.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Purple Grey](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568971005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-for-Women-Girl-Lady-Large-Corduroy-Bag-Canvas-Shoulder-Bag-and-Handbags-with-Inner-Pocket_3670c963-8af9-4e27-bd26-195cd7344d9c.c6d28152f7522b3331bd362c79f1f.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Green](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568577789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-Large-for-Women-Girl-Lady-Canvas-Shoulder-Cord-Purse-and-Handbags-with-Inner-Pocket-Green_22d611a3-861e-406f-adb4-88d65e3b3306.1f1b9c3909294a4ea17e23d96c686.jpg?v=1768113035
+    Price: $23.95 USD
+  - [A-Cow](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568610557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Women-s-Corduroy-Canvas-Cow-Tote-Shoulder-Purse_a0715ef3-fd5f-4ea5-b36c-af53579912d7.540293978473af8697776857e9fb0944.jpg?v=1768113035
+    Price: $23.95 USD
+  - [A-Sunflower](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568643325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-for-Women-Girl-Canvas-Shoulder-Cord-Purse-with-Inner-Pocket-Sunflowers_8bba93b2-6fd9-4af6-83de-b0a15d4be563.e76b38eb85e72684b9d7a8fb104b99f1.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Beige/Grid](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568708861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-for-Women-Girl-Canvas-Shoulder-Cord-Purse-with-Inner-Pocket-Grid_5e55a9f4-78dc-46f8-a71f-0e069d0eb6b0.94f151f531625d04e95e6f15b7e83235.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Blue Flowers](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568741629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-for-Women-Girl-Lady-Large-Corduroy-Bag-Canvas-Shoulder-Bag-and-Handbags-with-Inner-Pocket_3744a199-0e3d-453d-b512-baac7c08a58d.300baeedb3de7450cfc9b47f043a7.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Retro Flower](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568807165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-Large-for-Women-Girl-Lady-Canvas-Shoulder-Cord-Purse-and-Handbags-with-Inner-Pocket-Retro-Flower_b041095d-ad35-48f0-a713-ec2dc7edd52c.8f44eafbfef9475386ef30.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Rose/Bowknot](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568839933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-for-Women-Girl-Canvas-Shoulder-Cord-Purse-with-Inner-Pocket-Bowknot_d8d0cad3-97b4-418b-82c5-a9f3d532cca4.4c24c93447cab969b3720b1cce84d7d9.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Strawberry](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568872701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Women-s-Corduroy-Strawberry-Shoulder-Handbag-A-Strawberry_516e50b2-712c-4dda-9788-e77ecc999735.3ab695313cbbae431d6973892170585f.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Marble](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568905469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-Large-for-Women-Girl-Lady-Canvas-Shoulder-Cord-Purse-and-Handbags-with-Inner-Pocket_fddb4a61-65e1-4d4f-9723-190a78e15f71.1d09f79337699c7dc4f4c6a8d64e8d7f.jpg?v=1768113035
+    Price: $23.95 USD
+  - [Mint Green/Grid](https://hypesinventory.com/products/corduroy-tote-bag-large-for-women-girl-lady-canvas-shoulder-cord-purse-with-inner-pocket?variant=47077568938237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Ayieyill-Corduroy-Tote-Bag-for-Women-Girl-Canvas-Shoulder-Cord-Purse-with-Inner-Pocket-Mint-Green-Grid_17118420-56dd-48b3-b212-8609d4b65fe1.1674f89e65609175a350b4f3a0a24767.jpg?v=1768113035
+    Price: $23.95 USD
+- [Keychain Cherry Bag Charms Purse，Key Chains Women Cute /Red Apple](https://hypesinventory.com/products/keychain-cherry-bag-charms-purse-key-chains-women-cute-red-apple): eBay Lovely Cherry-Inspired Style Showcases bright, shimmering red cherries paired with a golden stem and leaf detail. This sweet design injects a cute, fashionable vibe into any item it adorns. Whether attached to handbags, keys, or backpacks, it adds a delightful, eye-catching touch that elevates your everyday essentials. Multi-Scene Application Doubles as a keychain for car or house keys, a decorative charm for leather handbags or canvas totes, and even a small accent for backpacks or pencil cases. It adapts effortlessly to different uses, fitting seamlessly into daily life—whether you’re heading out, working, or traveling. Solid & Long-Lasting Quality Crafted with premium materials: the metal clasp boasts strong closure to keep it from slipping off, and the chain is sturdy enough to withstand daily tugging. The cherry decorations are well-made, resisting scratches or fading from regular use, ensuring it stays in great shape for a long time. Sweet Gift Option Perfect for gifting on anniversaries, weddings, birthdays, or even as a “just because” present for friends, sisters, or partners who love cute, small accessories. It’s a thoughtful, practical gift that adds a touch of charm to their daily belongings, making every use feel special.
+  Updated: 2026-01-11T11:17:16Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/s-l1600_4b0a3ad6-eace-4f44-9568-a5ed8b1cf96d.jpg?v=1767995960
+  - [Red](https://hypesinventory.com/products/keychain-cherry-bag-charms-purse-key-chains-women-cute-red-apple?variant=47077599936765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/s-l1600_4b0a3ad6-eace-4f44-9568-a5ed8b1cf96d.jpg?v=1767995960
+    Price: $9.99 USD
+  - [Pink](https://hypesinventory.com/products/keychain-cherry-bag-charms-purse-key-chains-women-cute-red-apple?variant=47077599969533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/s-l1600_a70aabd4-7d5d-4f4d-92fd-b0e326c87768.jpg?v=1767917405
+    Price: $9.99 USD
+  - [Gold](https://hypesinventory.com/products/keychain-cherry-bag-charms-purse-key-chains-women-cute-red-apple?variant=47077600002301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/s-l1600_936df905-6d57-4465-8331-b4306b137055.jpg?v=1767917405
+    Price: $9.99 USD
+- [Katchme&Aerkyn Women'S Chic Square Neck Stripe Long Sleeve Crop Top & Low-Rise Wide Leg Trousers Co-Ord, Basic Two Piece Outfits for Lady, Cozy Womenswear(Cn)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn): KatchMe&AERKYN Women's Slouchy Square Neck Stripe Long Sleeve Crop Top & Low-Rise Wide Leg Trousers Co-ord Elevate your everyday wardrobe with our stunning two-piece set that radiates elegance and sophistication. Material: Polyester Details: Square neck, Long sleeves, Cropped length, Low-rise, Drawstring waist, Soft and stretch fabric Fit: Slim fit, Wide leg fit Pattern: Color matching stripe Occasion: Leisure, Outdoor, Activity, Street Care Instructions: Machine and hand wash PLEASE NOTE: Actual Color May Vary Slightly from the Picture Due to Lighting Effects & Different Screen Display Setting You can make a return and upload the return tracking number within 30 days of receipt of the products. Please note that items must be in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached. This size chart is a guide only. Please note every individual has unique fit needs. Order your regular size for a compression fit, if you want a looser fit, we recommend sizing up for the best experience. If you have received a faulty/damaged/incorrect item, don't hesitate to contact our Customer Services Team, we'll reply within 24 hours and offer you a satisfactory solution.
+  Updated: 2026-01-10T09:10:32Z
+  Vendor: Hypes Inventory
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/52135ba1208a4cd5a954fcbdb63dd614_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+  - [Red / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603694845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/52135ba1208a4cd5a954fcbdb63dd614_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Red / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603727613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/52135ba1208a4cd5a954fcbdb63dd614_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Red / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603760381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/52135ba1208a4cd5a954fcbdb63dd614_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Red / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603793149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/52135ba1208a4cd5a954fcbdb63dd614_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Red / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603825917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/52135ba1208a4cd5a954fcbdb63dd614_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Blue / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603858685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c57768742abf49a0a0ba3eb5577ade3f_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Blue / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603891453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c57768742abf49a0a0ba3eb5577ade3f_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Blue / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603924221)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c57768742abf49a0a0ba3eb5577ade3f_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Blue / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603956989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c57768742abf49a0a0ba3eb5577ade3f_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Blue / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081603989757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c57768742abf49a0a0ba3eb5577ade3f_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Light Grey / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604022525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/76c82f8440184c928846afe01740a951_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992435
+    Price: $44.95 USD
+  - [Light Grey / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604055293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/76c82f8440184c928846afe01740a951_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992435
+    Price: $44.95 USD
+  - [Light Grey / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604088061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/76c82f8440184c928846afe01740a951_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992435
+    Price: $44.95 USD
+  - [Light Grey / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604120829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/76c82f8440184c928846afe01740a951_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992435
+    Price: $44.95 USD
+  - [Light Grey / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604153597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/76c82f8440184c928846afe01740a951_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992435
+    Price: $44.95 USD
+  - [Taupe / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604186365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a3d1f1571bd54a88b0438649beae04e8_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992445
+    Price: $44.95 USD
+  - [Taupe / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604219133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a3d1f1571bd54a88b0438649beae04e8_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992445
+    Price: $44.95 USD
+  - [Taupe / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604251901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a3d1f1571bd54a88b0438649beae04e8_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992445
+    Price: $44.95 USD
+  - [Taupe / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604284669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a3d1f1571bd54a88b0438649beae04e8_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992445
+    Price: $44.95 USD
+  - [Taupe / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604317437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a3d1f1571bd54a88b0438649beae04e8_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992445
+    Price: $44.95 USD
+  - [Brown / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604350205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dd28bf6ba2c242bfaaf6a3677f600ef3_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Brown / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604382973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dd28bf6ba2c242bfaaf6a3677f600ef3_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Brown / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604415741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dd28bf6ba2c242bfaaf6a3677f600ef3_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Brown / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604448509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dd28bf6ba2c242bfaaf6a3677f600ef3_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Brown / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604481277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dd28bf6ba2c242bfaaf6a3677f600ef3_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992442
+    Price: $44.95 USD
+  - [Black / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604514045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a83921454894b198a195cc54d6563a1_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992639
+    Price: $44.95 USD
+  - [Black / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604546813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a83921454894b198a195cc54d6563a1_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992639
+    Price: $44.95 USD
+  - [Black / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604579581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a83921454894b198a195cc54d6563a1_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992639
+    Price: $44.95 USD
+  - [Black / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604612349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a83921454894b198a195cc54d6563a1_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992639
+    Price: $44.95 USD
+  - [Black / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604645117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6a83921454894b198a195cc54d6563a1_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992639
+    Price: $44.95 USD
+  - [Grey Black / S(Us4/6)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604677885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3a3f2ddb1ff74d2d84505957ae963d1b_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Grey Black / M(Us8)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604710653)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3a3f2ddb1ff74d2d84505957ae963d1b_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Grey Black / L(Us10)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604743421)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3a3f2ddb1ff74d2d84505957ae963d1b_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Grey Black / Xl(Us12)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604776189)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3a3f2ddb1ff74d2d84505957ae963d1b_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+  - [Grey Black / 2Xl(Us14)](https://hypesinventory.com/products/katchme-aerkyn-womens-chic-square-neck-stripe-long-sleeve-crop-top-low-rise-wide-leg-trousers-co-ord-basic-two-piece-outfits-for-lady-cozy-womenswearcn?variant=47081604808957)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3a3f2ddb1ff74d2d84505957ae963d1b_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1767992431
+    Price: $44.95 USD
+- [Cherry Bag Charm Keychain for Handbags | Cute Purse Charm Gift for Women](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women): Add a cute cherry bag charm to your handbag or purse. Durable, stylish cherry keychain with secure clip—perfect gift for women and girls. Shop now.
+  Updated: 2026-01-11T13:57:56Z
+  Vendor: Hypes Inventory
+  Product Type: Bag Charm Keychain
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/s-l1600_4b0a3ad6-eace-4f44-9568-a5ed8b1cf96d.jpg?v=1767995960
+  - [A01 1Pcs Cherry Charm(Red)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666183421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/s-l1600_4b0a3ad6-eace-4f44-9568-a5ed8b1cf96d.jpg?v=1767995960
+    Price: $8.95 USD
+  - [A15 1Pcs Cherry Charm (Gold)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666248957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/2_7c67a15c-30ed-41cd-8172-1dafbce16624.png?v=1767999052
+    Price: $10.83 USD
+  - [A11 1Pcs Cherry Charm (Pink)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666543869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/10_f4809aeb-a0a5-4125-b1c6-ad3417b65e6c.png?v=1767999741
+    Price: $10.83 USD
+  - [A14 1Pcs Silver Cherry Charm (Red)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081667002621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_51.png?v=1768000881
+    Price: $10.83 USD
+  - [A12 1Pcs Cherry Charm (Light Pink)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666871549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_47.png?v=1768000315
+    Price: $10.83 USD
+  - [A13 1Pcs Silver Cherry Charm (Light Pink )](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666642173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/13_73533c51-42bc-4172-b907-b1aa1feb4b29.png?v=1767999831
+    Price: $10.83 USD
+  - [A21 1Pcs Cherry Charm (Glitter Gold)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081667035389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_52.png?v=1768001045
+    Price: $10.83 USD
+  - [A03 Cherry Charm(Black)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666740477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/16_3ce97352-ab9a-4303-9b4a-c023fbbea277.png?v=1768000059
+    Price: $10.83 USD
+  - [A02 1Pcs Cherry Charm(Red And Green)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666674941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/14_da06b9e6-6a62-4bd5-bf76-74f87a53c2e5.png?v=1767999849
+    Price: $10.83 USD
+  - [A19 1Pcs Bow Cherry Charm (Pink)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666412797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/6_af2698ef-8852-4375-80a1-586b1fdb8c0b.png?v=1767999375
+    Price: $7.51 USD
+  - [A18 1Pcs Bow Cherry Charm (Red)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666609405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/12_4fb98383-f5b7-45ac-9db5-0f2ae06181ee.png?v=1767999813
+    Price: $8.95 USD
+  - [A30 Pink Cherry Charm And Bag Extenders(Pink Heart)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666216189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1_7a3a77d7-681a-42d3-8a26-0f2e972df0bc.png?v=1767997672
+    Price: $13.28 USD
+  - [A26 Red Cherry Charm And Bag Extenders(Black Heart)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666380029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/5_f4fba646-178e-4a33-a666-b5d86c23e766.png?v=1767999341
+    Price: $13.00 USD
+  - [A29 Pink Cherry Charm And Bag Extenders(Pink Moon)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666347261)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/4_8d4ceec4-8c87-4db3-849c-16ab6d0601f1.png?v=1767999268
+    Price: $13.28 USD
+  - [A27 Black Cherry Charm And Bag Extenders(Black Moon)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666445565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/7_f8921ec9-451c-48b9-8c3a-132fef53f271.png?v=1767999394
+    Price: $11.83 USD
+  - [A23 Red Cherry Charm And Bag Extenders(White Moon)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666576637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/11_a7503f47-f14b-44f9-85f4-00f89e7a5e16.png?v=1767999788
+    Price: $13.00 USD
+  - [A28 Black Cherry Charm And Bag Extenders(Black Heart)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666806013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_44_ab8ed157-080d-48bc-8d3e-a36dace27ac7.png?v=1768000158
+    Price: $11.84 USD
+  - [A24 Red Cherry Charm And Bag Extenders(White Heart)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666904317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_48.png?v=1768000521
+    Price: $13.00 USD
+  - [A09 Cherry Bag Charm And Bag Extender Chain](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666707709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/15_911733bc-9e14-4b7f-be73-25d1b6d0bab7.png?v=1768001131
+    Price: $14.73 USD
+  - [A22 Small Cherry Charm And Strawberry Keychain](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666281725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3_66ebd3bd-121d-46f3-9814-38c1d4be3b35.png?v=1767999556
+    Price: $10.40 USD
+  - [A08 Fluffy Cherry Charm And Metal Cherry Keychain](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666314493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_46.png?v=1767999237
+    Price: $11.55 USD
+  - [A06 1Pcs Cherry Charm And 1Pcs Strawberry Keychain](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666478333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8_88a0d9b6-c504-47b3-8c0e-e16f67acecb9.png?v=1767999431
+    Price: $11.84 USD
+  - [A07 2Pcs Cherry Charm(Mixed Sizes)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666773245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/17_edb9ad3d-8694-4dbb-8de5-d378e4e15fda.png?v=1768000100
+    Price: $11.26 USD
+  - [A20 1Pcs Strawberry Charm (Red)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666511101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/9_d6e625de-506d-4013-a5f4-8feb2bf1ba14.png?v=1767999598
+    Price: $7.51 USD
+  - [A16 1Pcs Small Cherry Charm (Red Green)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666838781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_45.png?v=1768000175
+    Price: $7.51 USD
+  - [A04 2Pcs Cherry Charm](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666937085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_49.png?v=1768000653
+    Price: $14.73 USD
+  - [A17 1Pcs Small Cherry Charm (Pink Green)](https://hypesinventory.com/products/cherry-bag-charm-cute-key-chains-cherry-purse-charms-for-handbags-strawberry-keychain-gifts-for-women?variant=47081666969853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Untitled_design_50.png?v=1768000765
+    Price: $7.51 USD
+[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTA1OTMxNjMyODkzLCJsYXN0X3ZhbHVlIjoiOTEwNTkzMTYzMjg5MyJ9)
 
 ## Collections
 
 - [PHOFAY Collection](https://hypesinventory.com/collections/phofay): PHOFAY Brand Selection
-  Updated: 2025-12-25T23:36:18Z
+  Updated: 2026-01-07T05:06:34Z
   Total Products: 15
 - [Flairé™ collection](https://hypesinventory.com/collections/flaire™-collection): Designed to sculpt, support, and move with you.The Flairé™ Collection delivers sleek, body-contouring activewear that enhances your shape while keeping you comfortable, confident, and effortlessly stylish—from workouts to everyday wear.
-  Updated: 2026-01-01T22:55:51Z
+  Updated: 2026-01-10T12:18:49Z
   Total Products: 8
 - [Health & Beauty](https://hypesinventory.com/collections/health-beauty)
   Updated: 2025-12-25T23:36:18Z
@@ -8702,14 +9180,14 @@
   Updated: 2025-12-30T18:48:18Z
   Total Products: 63
 - [Featured Collection](https://hypesinventory.com/collections/featured-collection-yl5rv)
-  Updated: 2025-12-30T18:48:18Z
+  Updated: 2026-01-07T20:32:36Z
   Total Products: 23
 - [LÁVINE™ Essentials](https://hypesinventory.com/collections/lavine™-essentials): Effortless luxury, designed for everyday elegance.The LÁVINE™ Collection features ultra-soft, elevated essentials made to flatter, move, and feel indulgent—perfect for lounging, stepping out, or owning every moment in comfort and style.
-  Updated: 2026-01-01T22:36:53Z
+  Updated: 2026-01-09T12:30:24Z
   Total Products: 6
 - [Clothing](https://hypesinventory.com/collections/clothing)
-  Updated: 2026-01-01T18:48:28Z
-  Total Products: 1
+  Updated: 2026-01-07T09:43:41Z
+  Total Products: 2
 
 ## Blogs
 
@@ -8723,7 +9201,7 @@
 
 - [Contact](https://hypesinventory.com/pages/contact)
   Updated: 2025-04-16T15:55:15Z
-- [Do not sell or share my personal information](https://hypesinventory.com/pages/data-sale-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Do not  or share my personal information](https://hypesinventory.com/pages/data--opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-04-16T15:55:22Z
 - [About Us](https://hypesinventory.com/pages/about-us)
   Updated: 2025-04-27T23:13:31Z
@@ -8739,6 +9217,10 @@
   Updated: 2025-04-27T23:13:33Z
 - [FAQ - Help center](https://hypesinventory.com/pages/f09afb5f-e0d5-49ef-a2c8-af5238456829)
   Updated: 2025-12-12T21:15:00Z
+- [8 Reasons Why LÁVINE™ Cozy Ribbed Knit Two-Piece Lounge Set Could Be the Secret to Effortless Style and Comfort](https://hypesinventory.com/pages/8-reasons-why-l-vine-cozy-ribbed-knit-two-piece-lou-ozzx)
+  Updated: 2026-01-09T09:31:23Z
+- [8 Reasons Why the Corduroy Tote Bag for Women – Large Canvas Shoulder Bag with Inner Pockets Could Be the Secret to Your Effortless Style](https://hypesinventory.com/pages/8-reasons-why-the-corduroy-tote-bag-for-women-large-fuzt)
+  Updated: 2026-01-09T09:48:02Z
 
 ## Policies
 
