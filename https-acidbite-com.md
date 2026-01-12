@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2026-01-05T00:00:35.029Z
+- Updated At: 2026-01-12T00:00:35.778Z
 
 ## Products
 
@@ -125,7 +125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS_RESIZED_compress.png?v=1742313182
   Price: $29.00 USD
 - [Dark & punchy LUTs](https://acidbite.com/products/cine-luts): Get the punchy look with 13 distinctive LUTs for all cameras, including free conversion LUTs.
-  Updated: 2025-12-29T10:12:42Z
+  Updated: 2026-01-11T05:26:32Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -195,7 +195,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/TEXTILE_RESIZED_2e0aa369-b574-4692-955c-e4aaad6ac286.png?v=1708713227
   Price: $39.00 USD
 - [Punchy style, 36 looks](https://acidbite.com/products/gritty-luts): Get the punchy style with 36 looks pre-converted for all cameras and LOG formats, including free conversion LUTs.
-  Updated: 2025-12-29T10:12:42Z
+  Updated: 2026-01-11T05:27:19Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -286,7 +286,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BOLD_TITLES_RESIZED.png?v=1716367975
   Price: $29.00 USD
 - [Creative & colorful LUTs](https://acidbite.com/products/thermal-luts): Experience a bold new world with 55 colorful technical looks, including thermal imaging, night vision and infrared + free utility LUTs, so this pack totals 950+ files.
-  Updated: 2025-12-29T10:12:42Z
+  Updated: 2026-01-11T05:27:18Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -300,7 +300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/UPP_RESIZED.png?v=1722087174
   Price: $39.00 USD
 - [Get the Blockbuster Look](https://acidbite.com/products/blockbuster-luts): 20 distinctive cinematic looks inspired by films like “Joker“, "Matrix", "Dune" or “Barbie“.
-  Updated: 2025-12-29T10:13:31Z
+  Updated: 2026-01-11T05:27:19Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -328,14 +328,14 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS2_RESIZED_d5fc06ff-a6be-4fac-9b4e-0593d199cefc.png?v=1747134764
   Price: $29.00 USD
 - [All our assets, huge savings](https://acidbite.com/products/complete-collection): The all-in-one bundle of handcrafted video assets – easy to use, built to transform your edits.
-  Updated: 2025-12-29T10:13:31Z
+  Updated: 2026-01-08T23:21:28Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SOFTWARE_BOX_BUNDLES_CAC_3abd462d-12a5-4825-a894-078ab2353dc9.png?v=1751363990
   Price: $199.00 USD
 - [All transition packs, 60% off](https://acidbite.com/products/transition-bundle): Looking for the best transitions to take your edits to the next level? This is all you need!
-  Updated: 2025-12-18T11:57:26Z
+  Updated: 2026-01-08T17:08:54Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -351,40 +351,40 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2026-01-03T12:08:10Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2026-01-03T12:08:10Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
-  Updated: 2025-12-13T12:10:28Z
+  Updated: 2026-01-05T12:07:39Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2026-01-04T12:07:39Z
+  Updated: 2026-01-11T12:08:17Z
   Total Products: 114
 
 ## Policies
