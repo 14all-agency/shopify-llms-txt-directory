@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2026-01-05T00:00:40.961Z
+- Updated At: 2026-01-12T00:00:41.023Z
 
 ## Products
 
@@ -1020,7 +1020,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/kiss-cut-stickers-white-5.5x5.5-lifestyle-1-6717aa201cf98.jpg?v=1729604139
     Price: £12.00 GBP
-- [Verbier - Verbier Eco Clothing - Ethical Sticker sheet](https://www.tailormadetrekking.com/products/verbier-verbier-eco-clothing-ethical-sticker-sheet): Verbier - Verbier Eco Clothing - Ethical Sticker sheet These glossy stickers are designed just for you. Give your favorite items, like a notepad, laptop, or phone case an extra glow and personal touch. • Dispatched from EU & USA • Film type: MPI 3000 Gloss HOP (EU), Promotional Monomeric PVC (US) • 0.12″ (0.3 cm) white sticker border • Glossy finish • Fast and easy application • 2–3 year durability • Indoor use • Blank product sourced from Japan Don't forget to clean the surface before applying the stickers. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) WIDTH (inches) 5.83″×8.27″ 8 ¼ 5 ⅞ HEIGHT (cm) WIDTH (cm) 5.83″×8.27″ 21 14.8
+- [Verbier - Verbier Eco Clothing - Ethical Sticker sheet](https://www.tailormadetrekking.com/products/verbier-verbier-eco-clothing-ethical-sticker-sheet): Verbier - Verbier Eco Clothing - Ethical Sticker sheet These glossy stickers are designed just for you. Give your favorite items, like a notepad, laptop, or phone case an extra glow and personal touch. • Dispatched from EU & USA • Film type: MPI 3000 Gloss HOP (EU),  Monomeric PVC (US) • 0.12″ (0.3 cm) white sticker border • Glossy finish • Fast and easy application • 2–3 year durability • Indoor use • Blank product sourced from Japan Don't forget to clean the surface before applying the stickers. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) WIDTH (inches) 5.83″×8.27″ 8 ¼ 5 ⅞ HEIGHT (cm) WIDTH (cm) 5.83″×8.27″ 21 14.8
   Updated: 2025-10-02T13:38:03Z
   Vendor: Georgina Talfana Treks
   Product Type: 
@@ -1124,7 +1124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_8675.jpg?v=1759315410
   Price: £499.00 GBP
 - [Walking holiday in the Lake District](https://www.tailormadetrekking.com/products/walking-holiday-in-the-lake-district): The Lake District is famous for its open fells, lakes, wildlife, crags and ancient woodlands. There are 151 mountains over 2000ft (609m) in the Lake District giving you a lot of walking itineraries to choose from in both the north and south regions. Here are some suggestions; Scafell Pike 978m, the highest mountain in England, Helvellyn, Skiddaw, Great Gable, Esk Pike, Blencathra, The Old Man of Coniston, Seathwaite Fell, Mungrisdale Common. You can base your trekking holiday accommodation in one of the quaint towns of Kendal, Keswick, Ambleside, Windermere or Coniston, each one has its own individual charm with a mere, lake or water not far away. And if you are passionate about food and drink, you will not be disappointed with the local delicacies of Cumberland sausages, Westmorland damsons, Grasmere gingerbread, Herdwick lamb and Kendal mint cake. No of nights: 7 No of guided days trekking: 5 Daily ascents and descents: Up to 978m Daily trekking distances: Up to 20km Level of trekking: Moderate Highest elevation: 978m Accommodation: Hotel 3* Food: All meals included Style of holiday: Based in 1 accommodation for the duration of holiday Transport: Transfers to and from trekking location Sightseeing: Various outdoor adventure activities, cultural and arts centres, farmers markets, museums depending on location of accommodation Special interests: Food and drink, wildlife, authors, poets What is not included: Flights, insurance Variations to itinerary: More of less trekking or sightseeing Best time of year for this trek: April, May, June, July, August, September, October
-  Updated: 2025-11-04T11:23:08Z
+  Updated: 2026-01-07T13:51:42Z
   Vendor: Georgina Talfana Treks
   Product Type: 
   Availability: Available
@@ -1142,6 +1142,55 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/pyreneesweek3022.jpg?v=1763623224
   Price: £1,370.00 GBP
+- [Looking down towards Le Chable & Sembrancher from Les Ruinettes - abstract landscape painting](https://www.tailormadetrekking.com/products/verbier-abstract-mountain-painting): Looking down towards Le Chable & Sembrancher from Les Ruinettes In this artwork I was looking down into the valley through the clouds focusing on the lines cutting into the landscape, in particular the tracks and pathways. pencil, oil pastel, marker pen, charcoal, collage and acrylic paint on paper painted plein air Artwork size: 53 x 37.5cm 2024 white wooden frame
+  Updated: 2026-01-08T02:04:54Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/Les_ruinettes_looking_down_to_sembrancher.jpg?v=1767711737
+  Price: £600.00 GBP
+- [Le Grand Combin, before they built in front of the apartment - abstract landscape painting](https://www.tailormadetrekking.com/products/le-grand-combin-before-they-built-in-front-of-the-apartment-abstract-landscape-painting): Le Grand Combin, before they built in front of the apartment - abstract landscape painting I lived in Verbier for 4 years, during which I observed many construction projects, one of which took place over 2 years in front of my apartment. Fortunately my view of Le Grand Combin was not obstructed too much but I definitely preferred my previous view. pencil, oil pastel, marker pen, charcoal, collage and acrylic paint on paper artwork size: 53 x 37.5cm 2024 white wooden frame
+  Updated: 2026-01-07T14:54:48Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_4660.jpg?v=1767711800
+  Price: £600.00 GBP
+- [Le Grand Combin, view from Les Ruinettes - abstract landscape painting](https://www.tailormadetrekking.com/products/le-grand-combin-view-from-les-ruinettes-abstract-landscape-painting): Le Grand Combin, view from Les Ruinettes - abstract landscape painting This painting is created from a photo that I took whilst out for a walk from Les Ruinettes to La Chaux. I have experimented in particular with carbon copy transfer paper and collage in order to give a feeling of topographical contours. At this time, I was also inspired by the colours used by Swiss landscape painters Ferdinand Hodler and Alexander Perrier carbon copy transfer, pencil, oil pastel, marker pen, charcoal, collage and acrylic paint on paper artwork size: 53 x 37.5cm 2024 white wooden frame
+  Updated: 2026-01-07T15:17:55Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_4891.jpg?v=1767795402
+  Price: £600.00 GBP
+- [Le Grand Combin, view from Rue de Soleil - abstract landscape painting](https://www.tailormadetrekking.com/products/le-grand-combin-view-from-rue-de-soleil-abstract-landscape-painting): Le Grand Combin, view from Rue de Soleil - abstract landscape painting This is one in the series of 4 abstract landscape paintings that I created of the mountains around Verbier in Switzerland. The painting began with a very prescribed exercise of collaging and mark making in the studio and then continuing the painting en plein air. pencil, oil pastel, marker pen, charcoal, collage and acrylic paint on paper painted plein air artwork size: 53 x 37.5cm painted en plein air 2024 white wooden frame
+  Updated: 2026-01-08T03:12:54Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_4464_bf31c4ea-6b23-4e52-9f1e-c62284e3b331.jpg?v=1767796768
+  Price: £600.00 GBP
+- [Le Grand Combin, view from Clambin - acrylic & watercolour ink painting](https://www.tailormadetrekking.com/products/le-grand-combin-view-from-clambin-acrylic-watercolour-ink-painting): Le Grand Combin, view from Clambin - acrylic & watercolour ink painting This painting was created in my studio from a sketch that I drew at the Hameau of Clambin near to Verbier. The painting has a somewhat unfinished feeling to it in order to show the energy in the brush marks. acrylic, oil pastel & watercolour ink on cartridge paper artwork size: 105 x 37cm 2025 white wooden frame
+  Updated: 2026-01-08T03:17:15Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_4313_4c0fc0f0-5cba-4a28-9bde-602180985754.jpg?v=1767798696
+  Price: £1,500.00 GBP
+- [Le Jumbo - Col des Genetianes - Verbier - watercolour & colour pencil drawing](https://www.tailormadetrekking.com/products/le-jumbo-col-des-genetianes-verbier-watercolour-colour-pencil-drawing): Le Jumbo - Col des Genetianes - Verbier - watercolour & colour pencil drawing Le Jumbo is a gondola that takes skiers and walkers from Mont Fort to Col des Genetianes in the Swiss Alps. I love the angles and bold colours of the engineering and also the flora and fauna in this beautiful area. It is said to be one of the best ski resorts in Switzerland. watercolour, indian ink & coloured pencil on watercolour paper original artwork size: 25 x 17cm black wooden frame 2026
+  Updated: 2026-01-07T15:37:33Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_9733_5d8746da-d6cc-430e-8674-214a77cfc7f8.jpg?v=1767799978
+  Price: £450.00 GBP
+- [Gavarnie Falls, Spanish Pyrenees - gouache and ink painting](https://www.tailormadetrekking.com/products/gavarnie-falls-spanish-pyrenees-gouache-and-ink-painting): Gavarnie Falls, Spanish Pyrenees - gouache and ink painting This painting started off as a sketch that I drew whilst sitting outside Hotel d'Gavarnie and then I finished it off in the studio a few weeks later. The one thing I wanted to get across was the cloudy conditions that were rolling in. the Pyrenees are not always hot! I was also inspired by the paintings of local artist Amalry. Indian ink, pen & gouache on cartridge paper Black wooden frame Artwork size 29.7 x 21cm approx 2025
+  Updated: 2026-01-08T23:23:10Z
+  Vendor: Georgina Zafeiri Artist
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_9372.jpg?v=1767800968
+  Price: £450.00 GBP
 
 ## Collections
 
@@ -1181,6 +1230,17 @@
 - [Lake District - England](https://www.tailormadetrekking.com/collections/lake-district-england): Walking holidays in the Lake District - England organised by Georgina Talfana Treks
   Updated: 2025-11-03T23:19:29Z
   Total Products: 1
+- [Mountain art](https://www.tailormadetrekking.com/collections/mountain-art): Mountain Art by Georgina Zafeiri
+  Updated: 2026-01-07T15:50:49Z
+  Total Products: 7
+
+## Blogs
+
+- [Georgina Zafeiri Blog](https://www.tailormadetrekking.com/blogs/georgina-zafeiri-blog)
+  - [Le Jumbo - Col des Gentianes - Verbier](https://www.tailormadetrekking.com/blogs/georgina-zafeiri-blog/le-jumbo-col-des-gentianes-verbier)
+    Updated: 2026-01-07T13:17:26Z
+    Author: Georgina Talfana
+    Tags: #embroidery, #exhibition, #sewing, #textiles
 
 ## Store Pages
 
@@ -1202,6 +1262,8 @@
   Updated: 2025-09-29T10:04:21Z
 - [Your privacy choices](https://www.tailormadetrekking.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-10-18T19:43:16Z
+- [Abstract landscape paintings](https://www.tailormadetrekking.com/pages/abstract-landscape-paintings): Looking down towards Le Chable & Sembrancher from Les Ruinettes, pencil, oil pastel, marker pen, charcoal, collage and acrylic paint on paper, pain...
+  Updated: 2026-01-06T15:07:27Z
 
 ## Policies
 
