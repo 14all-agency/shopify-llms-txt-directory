@@ -10,12 +10,12 @@
 - Contact Email: daniel@fernandosprint.com
 - Contact Phone: +1-714-723-0125
 - Address: 11331 Markon Drive, Garden Grove, CA 92841
-- Updated At: 2026-01-05T00:00:36.549Z
+- Updated At: 2026-01-12T00:00:36.836Z
 
 ## Products
 
 - [Screen Printing Transparency Film Output Service - Professional Film Separations](https://fernandosprint.com/products/filmoutput): Professional transparency films for screen printers and print shops. Clean screen burns, reliable film separations, consistent results for custom apparel. Fernando's delivers quality films you can trust.
-  Updated: 2025-12-30T21:32:28Z
+  Updated: 2026-01-09T17:09:34Z
   Vendor: Fernando's Screen Printing
   Product Type: 
   Availability: Available
@@ -110,7 +110,7 @@
   - [YXL](https://fernandosprint.com/products/custom-short-sleeve-tee?variant=46789435031793)
     Availability: Available
     Price: $3.99 USD
-- [$5 Each - 50 Short Sleeve T-Shirts with up to 2-Color Logo](https://fernandosprint.com/products/5-each-50-short-sleeve-t-shirts-with-1-color-logo): 50 custom tees with one-color screen printing. Quality guaranteed, bulk pricing, same week delivery. Fernando's Screen Printing - Garden Grove's trusted choice since 2016
+- [$5 Each - 50 Short Sleeve T-Shirts with up to 2-Color Logo](https://fernandosprint.com/products/5-each-50-short-sleeve-t-shirts-with-1-color-logo): 50 custom tees with one-color screen printing. Quality , bulk pricing, same week delivery. Fernando's Screen Printing - Garden Grove's trusted choice since 2016
   Updated: 2025-08-28T16:45:14Z
   Vendor: Fernando's Screen Printing
   Product Type: Short Sleeve Tee
@@ -266,28 +266,28 @@
   - [YXL](https://fernandosprint.com/products/25-custom-dtg-tee-special-any-design-any-vision?variant=46790164414705)
     Availability: Available
     Price: $25.00 USD
-- [Premium Embroidery Hat Promotion - Just $15 Each When You Buy 25](https://fernandosprint.com/products/premium-embroidery-hat-promotion-just-15-each-when-you-buy-25): Premium custom hats just $15 each when you buy 25! Choose from Yupoong YP Classics Flexfit snapback or trucker styles. Professional embroidery available. Perfect for teams and businesses
+- [Premium Embroidery Hat  - Just $15 Each When You Buy 25](https://fernandosprint.com/products/premium-embroidery-hat--just-15-each-when-you-buy-25): Premium custom hats just $15 each when you buy 25! Choose from Yupoong YP Classics Flexfit snapback or trucker styles. Professional embroidery available. Perfect for teams and businesses
   Updated: 2025-08-28T16:45:14Z
   Vendor: Fernando's Screen Printing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/9808/7665/files/00d8170b-77b4-4500-ac43-bcd1dd0ada63.jpg?v=1755744241
-  - [Yupoong YP Classics Premium Flat Bill Snapback Cap - 6089M](https://fernandosprint.com/products/premium-embroidery-hat-promotion-just-15-each-when-you-buy-25?variant=46792843002097)
+  - [Yupoong YP Classics Premium Flat Bill Snapback Cap - 6089M](https://fernandosprint.com/products/premium-embroidery-hat--just-15-each-when-you-buy-25?variant=46792843002097)
     Availability: Available
     Price: $15.00 USD
-  - [Yupoong YP Classics Five-Panel Classic Trucker Cap - 6006](https://fernandosprint.com/products/premium-embroidery-hat-promotion-just-15-each-when-you-buy-25?variant=46792843034865)
+  - [Yupoong YP Classics Five-Panel Classic Trucker Cap - 6006](https://fernandosprint.com/products/premium-embroidery-hat--just-15-each-when-you-buy-25?variant=46792843034865)
     Availability: Available
     Price: $15.00 USD
-- [Premium Embroidery Hat Promotion Just $15 Each When You Buy 25](https://fernandosprint.com/products/premium-embroidery-hat-promotion-just-15-each-when-you-buy-25-copy): Premium custom hats just $15 each when you buy 25! Choose from Yupoong YP Classics Flexfit snapback or trucker styles. Professional embroidery available. Perfect for teams and businesses
+- [Premium Embroidery Hat  Just $15 Each When You Buy 25](https://fernandosprint.com/products/premium-embroidery-hat--just-15-each-when-you-buy-25-copy): Premium custom hats just $15 each when you buy 25! Choose from Yupoong YP Classics Flexfit snapback or trucker styles. Professional embroidery available. Perfect for teams and businesses
   Updated: 2025-08-28T16:45:14Z
   Vendor: Fernando's Screen Printing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/9808/7665/files/00d8170b-77b4-4500-ac43-bcd1dd0ada63.jpg?v=1755744241
-  - [Yupoong YP Classics Premium Flat Bill Snapback Cap - 6089M](https://fernandosprint.com/products/premium-embroidery-hat-promotion-just-15-each-when-you-buy-25-copy?variant=46817881555185)
+  - [Yupoong YP Classics Premium Flat Bill Snapback Cap - 6089M](https://fernandosprint.com/products/premium-embroidery-hat--just-15-each-when-you-buy-25-copy?variant=46817881555185)
     Availability: Available
     Price: $225.00 USD
-  - [Yupoong YP Classics Five-Panel Classic Trucker Cap - 6006](https://fernandosprint.com/products/premium-embroidery-hat-promotion-just-15-each-when-you-buy-25-copy?variant=46817881587953)
+  - [Yupoong YP Classics Five-Panel Classic Trucker Cap - 6006](https://fernandosprint.com/products/premium-embroidery-hat--just-15-each-when-you-buy-25-copy?variant=46817881587953)
     Availability: Available
     Price: $225.00 USD
 - [$7 Each 50 Long Sleeve T-Shirts with up to 2-Color Logo](https://fernandosprint.com/products/7-each-50-long-sleeve-t-shirts-with-up-to-2-color-logo-copy): Order 50 custom printed tees with one-color design from Garden Grove's family-owned print shop. Quality work, fair pricing, community discounts available. Get your quote today!
@@ -341,7 +341,7 @@
   - [Heather Grey](https://fernandosprint.com/products/6-each-100-long-sleeve-t-shirts-with-up-to-2-color-logo-copy?variant=46817910620401)
     Availability: Available
     Price: $600.00 USD
-- [$5 Each 50 Short Sleeve T-Shirts with up to 2-Color Logo](https://fernandosprint.com/products/5-each-50-short-sleeve-t-shirts-with-up-to-2-color-logo-copy): 50 custom tees with one-color screen printing. Quality guaranteed, bulk pricing, same week delivery. Fernando's Screen Printing - Garden Grove's trusted choice since 2016
+- [$5 Each 50 Short Sleeve T-Shirts with up to 2-Color Logo](https://fernandosprint.com/products/5-each-50-short-sleeve-t-shirts-with-up-to-2-color-logo-copy): 50 custom tees with one-color screen printing. Quality , bulk pricing, same week delivery. Fernando's Screen Printing - Garden Grove's trusted choice since 2016
   Updated: 2025-08-28T16:45:14Z
   Vendor: Fernando's Screen Printing
   Product Type: Short Sleeve Tee
@@ -413,7 +413,7 @@
 - [Shop](https://fernandosprint.com/collections/shop)
   Updated: 2025-08-20T22:52:22Z
   Total Products: 0
-- [Best Selling](https://fernandosprint.com/collections/best-selling)
+- [Best ](https://fernandosprint.com/collections/best-)
   Updated: 2025-12-31T12:16:34Z
   Total Products: 14
 - [PD Custom Collection](https://fernandosprint.com/collections/pd-custom-collection)
@@ -425,7 +425,7 @@
 - [All](https://fernandosprint.com/collections/all)
   Updated: 2025-12-31T12:16:34Z
   Total Products: 14
-- [Film Output](https://fernandosprint.com/collections/film-output): Professional Film Output for DIY Screen Printers Take control of your screen printing production with our professional film output services. Simply send us your artwork, and we'll produce high-quality, precision film positives that are ready for screen burning and printing. What We Offer High-Resolution Film Positives Professional-grade film output with crisp, clean lines and solid blacks essential for proper screen exposure. Our films are printed at optimal density to ensure sharp stencil creation and consistent results every time. Expert Artwork Preparation Our experienced team reviews and optimizes your artwork for screen printing, ensuring proper separation, correct sizing, and optimal output quality. We handle the technical details so your screens burn perfectly. Multiple Format Support We accept various file formats and work with your existing artwork to create production-ready films. Whether you're working with vector graphics, high-resolution images, or complex designs, we've got you covered. Quick Turnaround Fast, reliable service that keeps your production schedule on track. Send us your files and receive professional film positives ready for immediate use. Perfect For: DIY Screen Printers - Get professional-quality films without investing in expensive equipment Small Print Shops - Outsource film production to focus on printing and customer service Startups & Entrepreneurs - Access professional film output without capital investment Established Printers - Backup service for equipment downtime or overflow work Educational Programs - Schools and workshops needing reliable film production How It Works Send Your Artwork - Email your design files or upload through our system We Optimize & Output - Our experts prepare and print your films to perfection Fast Delivery - Receive professional film positives ready for screen burning Start Printing - Burn your screens and begin production immediately Why Choose Fernando's Film Output? Professional Quality - Films that produce clean, consistent screen burns Expert Review - Artwork optimization by experienced professionals Fast Service - Quick turnaround to keep your projects moving Competitive Pricing - Professional results at affordable rates Direct Communication - Work directly with owners who understand your needs Local Service - Garden Grove location with personal attention Technical Specifications High-density black output for optimal screen exposure Various film sizes available to match your screen frames Compatible with all standard screen burning equipment Precise registration marks for multi-color designs Professional-grade film materials for consistent results
+- [Film Output](https://fernandosprint.com/collections/film-output): Professional Film Output for DIY Screen Printers Take control of your screen printing production with our professional film output services. Simply send us your artwork, and we'll produce high-quality, precision film positives that are ready for screen burning and printing. What We Offer High-Resolution Film Positives Professional-grade film output with crisp, clean lines and solid blacks essential for proper screen exposure. Our films are printed at optimal density to ensure sharp stencil creation and consistent results every time. Expert Artwork Preparation Our experienced team reviews and optimizes your artwork for screen printing, ensuring proper separation, correct sizing, and optimal output quality. We handle the technical details so your screens burn perfectly. Multiple Format Support We accept various file formats and work with your existing artwork to create production-ready films. Whether you're working with vector graphics, high-resolution images, or complex designs, we've got you covered. Quick Turnaround Fast, reliable service that keeps your production schedule on track. Send us your files and receive professional film positives ready for immediate use. Perfect For: DIY Screen Printers - Get professional-quality films without investing in expensive equipment Small Print Shops - Outsource film production to focus on printing and customer service Startups & Entrepreneurs - Access professional film output without capital  Established Printers - Backup service for equipment downtime or overflow work Educational Programs - Schools and workshops needing reliable film production How It Works Send Your Artwork - Email your design files or upload through our system We Optimize & Output - Our experts prepare and print your films to perfection Fast Delivery - Receive professional film positives ready for screen burning Start Printing - Burn your screens and begin production immediately Why Choose Fernando's Film Output? Professional Quality - Films that produce clean, consistent screen burns Expert Review - Artwork optimization by experienced professionals Fast Service - Quick turnaround to keep your projects moving Competitive Pricing - Professional results at affordable rates Direct Communication - Work directly with owners who understand your needs Local Service - Garden Grove location with personal attention Technical Specifications High-density black output for optimal screen exposure Various film sizes available to match your screen frames Compatible with all standard screen burning equipment Precise registration marks for multi-color designs Professional-grade film materials for consistent results
   Updated: 2025-12-31T12:16:34Z
   Total Products: 1
 - [Direct to Film (DTF) Gang Sheet](https://fernandosprint.com/collections/direct-to-film-dtf-gang-sheet)
