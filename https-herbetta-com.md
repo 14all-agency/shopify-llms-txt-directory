@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-27T03:01:22Z
 - Contact Email: naturalstulsi@gmail.com
-- Updated At: 2026-01-04T00:00:33.158Z
+- Updated At: 2026-01-12T00:00:34.556Z
 
 ## Products
 
-- [Herbetta 100% Pure Indigo Powder | Natural Black Hair Dye & Color](https://herbetta.com/products/pure-indigo-powder): Achieve a rich, natural black hair color with Herbetta Pure Indigo Powder. 100% herbal, chemical-free, and perfect for grey coverage after henna. Safe for all hair types. Shop the organic way to color!
-  Updated: 2026-01-01T23:48:48Z
+- [Pure Indigo Powder for Hair | Natural Black Hair Dye Post Henna](https://herbetta.com/products/pure-indigo-powder): Provides natural black hair colour after henna application. Helps cover grey hair effectively while remaining free from chemicals and synthetic dyes.
+  Updated: 2026-01-07T09:51:04Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -22,8 +22,8 @@
   - [200g](https://herbetta.com/products/pure-indigo-powder?variant=51443378585882)
     Availability: Available
     Price: ₹269.00 INR
-- [Herbetta Natural Henna Powder | 100% Organic Herbal Hair Color](https://herbetta.com/products/natural-henna-powder): Get vibrant color and deep conditioning with Herbetta 100% Natural Henna Powder. Pure Lawsonia Inermis with no chemicals or PPD. Perfect for grey coverage and strengthening hair naturally. Shop the best organic henna for a healthy glow!
-  Updated: 2026-01-01T23:48:17Z
+- [Pure Natural Henna Powder for Hair Colour & Conditioning | Herbetta](https://herbetta.com/products/natural-henna-powder): Helps achieve rich red to brown hair tones while conditioning the scalp. Supports stronger, smoother hair using plant-based colouring care.
+  Updated: 2026-01-07T09:52:55Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -34,8 +34,8 @@
   - [200g](https://herbetta.com/products/natural-henna-powder?variant=51443379994906)
     Availability: Available
     Price: ₹269.00 INR
-- [Organic Amla Powder for Hair Growth & Shine | Herbetta](https://herbetta.com/products/natural-amla-powder): Revitalize your hair with Herbetta 100% Organic Amla Powder. Rich in Vitamin C to boost hair growth, strengthen roots, and prevent premature greying. Pure Emblica Officinalis for natural conditioning and shine. Shop the herbal secret for healthy hair!
-  Updated: 2026-01-01T23:47:40Z
+- [Organic Amla Powder for Hair Growth & Scalp Care | Herbetta](https://herbetta.com/products/natural-amla-powder): Supports hair growth and scalp nourishment with vitamin C rich formulation. Helps improve shine, strength, and overall hair health naturally.
+  Updated: 2026-01-07T09:54:25Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -46,8 +46,8 @@
   - [200g](https://herbetta.com/products/natural-amla-powder?variant=51446008414490)
     Availability: Available
     Price: ₹249.00 INR
-- [Natural Beetroot Powder for Glowing Skin & Face | Herbetta](https://herbetta.com/products/herbal-beetroot-powder): Get a natural pink glow with Herbetta Pure Beetroot Powder. 100% herbal skin brightener that targets pimples, removes dead skin cells, and evens skin tone. The perfect organic DIY face mask for radiant, healthy skin. Shop now!
-  Updated: 2026-01-01T23:47:12Z
+- [Beetroot Powder for Natural Skin Glow & Brightening | Herbetta](https://herbetta.com/products/herbal-beetroot-powder): Helps enhance natural skin glow and mild exfoliation. Supports acne control and healthier looking skin with plant-based nutrients.
+  Updated: 2026-01-10T10:26:00Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -58,8 +58,8 @@
   - [200g](https://herbetta.com/products/herbal-beetroot-powder?variant=51446188212506)
     Availability: Available
     Price: ₹249.00 INR
-- [Hibiscus Powder for Hair Fall & Growth | 100% Natural Herbetta](https://herbetta.com/products/herbal-hibiscus-powder): Stop hair fall naturally with Herbetta Hibiscus Flower Powder. Rich in amino acids to strengthen roots, stimulate growth, and add a brilliant shine. 100% pure herbal care for thinning hair. Use as a DIY mask or mix with Henna. Shop today!
-  Updated: 2026-01-01T23:46:36Z
+- [Hibiscus Powder for Hair Fall Control & Growth Support](https://herbetta.com/products/herbal-hibiscus-powder): Supports hair growth and helps control hair fall naturally. Improves hair thickness and shine when used as a conditioning .
+  Updated: 2026-01-07T09:59:01Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -70,8 +70,8 @@
   - [200g](https://herbetta.com/products/herbal-hibiscus-powder?variant=51446193946906)
     Availability: Available
     Price: ₹249.00 INR
-- [Organic Moringa Powder | Immunity, Energy & Hair Growth | Herbetta](https://herbetta.com/products/herbal-moringa-powder): Boost your vitality with Herbetta 100% Pure Moringa Powder. The ultimate antioxidant superfood for immunity, natural energy, and detox. Rich in vitamins for glowing skin and hair growth. Non-GMO and nutrient-dense. Experience the miracle tree today!
-  Updated: 2026-01-01T23:46:05Z
+- [Organic Moringa Powder for Immunity & Hair Skin Care | Herbetta](https://herbetta.com/products/herbal-moringa-powder): Supports immunity, energy levels, and detox naturally. Also helps nourish hair and skin with nutrient-dense plant compounds.
+  Updated: 2026-01-07T10:05:44Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -82,8 +82,8 @@
   - [200g](https://herbetta.com/products/herbal-moringa-powder?variant=51446201319706)
     Availability: Available
     Price: ₹249.00 INR
-- [Orange Peel Powder for Skin Brightening & Vitamin C | Herbetta](https://herbetta.com/products/orange-peel-powder): Brighten your complexion with Herbetta Pure Orange Peel Powder. Packed with Vitamin C to clear acne, control excess oil, and fade dark spots. 100% natural Citrus Aurantium for a fresh, glowing face. The ultimate organic DIY face pack. Shop now!
-  Updated: 2026-01-01T23:42:23Z
+- [Orange Peel Powder for Skin Brightening & Oil Control | Herbetta](https://herbetta.com/products/orange-peel-powder): Helps reduce tan and excess oil while improving skin glow. Supports acne-prone skin with vitamin C rich exfoliation care.
+  Updated: 2026-01-10T10:33:51Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -94,8 +94,8 @@
   - [200g](https://herbetta.com/products/orange-peel-powder?variant=51446208430362)
     Availability: Available
     Price: ₹249.00 INR
-- [Natural Reetha Powder | Organic Soapnut Hair Cleanser | Herbetta](https://herbetta.com/products/natural-reetha-powder): Cleanse your hair naturally with Herbetta Pure Reetha Powder. A 100% organic soapnut (Aritha) cleanser that removes oil and dirt without stripping natural oils. Strengthens roots, controls dandruff, and promotes shine. The perfect sulfate-free shampoo. Shop now!
-  Updated: 2026-01-01T23:41:32Z
+- [Natural Reetha Powder for Hair Cleansing & Dandruff Control | Herbetta](https://herbetta.com/products/natural-reetha-powder): Cleanses hair gently without sulphates while supporting dandruff control. Helps strengthen roots and restore natural hair shine.
+  Updated: 2026-01-07T09:55:43Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -106,8 +106,8 @@
   - [200g](https://herbetta.com/products/natural-reetha-powder?variant=51446216818970)
     Availability: Available
     Price: ₹269.00 INR
-- [Natural Shikakai Powder | Herbal Hair Wash & Conditioner | Herbetta](https://herbetta.com/products/herbal-shikakai-powder): Discover the power of Herbetta Pure Shikakai Powder. A 100% natural Ayurvedic cleanser that detangles hair, reduces hair fall, and restores silkiness. Rich in vitamins and low pH for gentle, chemical-free hair washing. The perfect organic hair care secret. Buy now!
-  Updated: 2026-01-01T23:40:46Z
+- [Organic Shikakai Powder for Hair Wash & Conditioning | Herbetta](https://herbetta.com/products/herbal-shikakai-powder): Acts as a natural hair cleanser and conditioner. Helps reduce hair fall, detangle strands, and improve softness with regular use.
+  Updated: 2026-01-07T09:57:06Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -118,15 +118,15 @@
   - [200g](https://herbetta.com/products/herbal-shikakai-powder?variant=51446244704538)
     Availability: Available
     Price: ₹269.00 INR
-- [Natural Black Hair Color Combo | Henna & Indigo Set | Herbetta](https://herbetta.com/products/herbetta-herbal-henna-and-indigo-powder-combo): Achieve a permanent, rich black hair color without chemicals. Herbetta’s Henna and Indigo Combo is the perfect 100% natural 2-step solution for 100% grey coverage. Ammonia-free, PPD-free, and safe for sensitive scalps. Get salon-like results organically. Shop the kit!
-  Updated: 2026-01-01T23:40:00Z
+- [Henna and Indigo Combo for Natural Black Hair Colour | Herbetta](https://herbetta.com/products/herbetta-herbal-henna-and-indigo-powder-combo): Provides a two-step herbal solution for natural black hair colour. Helps cover grey hair without synthetic chemicals or PPD.
+  Updated: 2026-01-07T10:07:34Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/0853/1482/files/hennaindigo.jpg?v=1765861735
   Price: ₹249.00 INR
-- [Organic Bhringraj Powder for Hair Growth & Scalp Care | Herbetta](https://herbetta.com/products/herbal-bhringraj-powder): Revitalize your hair with Herbetta 100% Natural Bhringraj Powder. Known as the King of Herbs, it strengthens roots, promotes thick hair growth, and prevents premature greying. Pure Eclipta Prostrata for deep scalp nourishment and shine. Shop the organic secret for healthy hair!
-  Updated: 2026-01-01T23:53:13Z
+- [Bhringraj Powder for Hair Growth & Scalp Strength | Herbetta](https://herbetta.com/products/herbal-bhringraj-powder): Supports hair growth and scalp nourishment naturally. Helps reduce premature greying and improve hair thickness over time.
+  Updated: 2026-01-07T10:09:23Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -137,8 +137,8 @@
   - [200g](https://herbetta.com/products/herbal-bhringraj-powder?variant=51463473463578)
     Availability: Available
     Price: ₹249.00 INR
-- [Organic Mulethi Powder for Skin Lightening & Dark Spots | Herbetta](https://herbetta.com/products/mulethi-powder-licorice-root): Achieve an even skin tone with Herbetta Pure Mulethi Powder. A 100% natural licorice root treatment that fades dark spots, reduces pigmentation, and brightens dull skin. Perfect for DIY face masks to soothe irritation and remove sun tan. Shop the herbal secret for radiant skin!
-  Updated: 2026-01-01T23:34:58Z
+- [Mulethi Powder for Skin Brightening & Pigmentation Care | Herbetta](https://herbetta.com/products/mulethi-powder-licorice-root): Helps reduce dark spots and uneven skin tone naturally. Supports brighter looking skin and protection against sun-induced dullness.
+  Updated: 2026-01-07T10:01:58Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -149,8 +149,8 @@
   - [200g](https://herbetta.com/products/mulethi-powder-licorice-root?variant=51463483687194)
     Availability: Available
     Price: ₹249.00 INR
-- [Multani Mitti Powder for Face & Oil Control | Herbetta](https://herbetta.com/products/multani-mitti-powder): Deeply detoxify your skin with Herbetta 100% Natural Multani Mitti. This premium Fuller’s Earth clay absorbs excess oil, clears acne, and shrinks pores for a smooth, glowing complexion. The perfect cooling DIY face mask for oily and acne-prone skin. Shop the original beauty clay!
-  Updated: 2026-01-01T23:33:32Z
+- [Multani Mitti for Face Pack | Deep Cleansing Fuller’s Earth](https://herbetta.com/products/multani-mitti-powder): Helps absorb excess oil and cleanse pores deeply. Supports acne control and improves skin clarity with regular face pack use.
+  Updated: 2026-01-07T10:01:40Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -161,8 +161,8 @@
   - [200g](https://herbetta.com/products/multani-mitti-powder?variant=51463531233562)
     Availability: Available
     Price: ₹219.00 INR
-- [Organic Neem Powder for Acne & Dandruff | Herbetta](https://herbetta.com/products/neem-powder-for-hair-skin-care): Purify your skin and scalp with Herbetta 100% Natural Neem Powder. A potent herbal remedy to clear acne, soothe itchy scalps, and eliminate dandruff. Pure Azadirachta Indica for deep detoxification and healthy skin. The ultimate organic antibacterial treatment. Shop now!
-  Updated: 2026-01-01T23:30:11Z
+- [Neem Powder for Acne Control & Scalp Health | Herbetta](https://herbetta.com/products/neem-powder-for-hair-skin-care): Supports antibacterial skin and scalp care. Helps manage acne, dandruff, and irritation with regular herbal mask application.
+  Updated: 2026-01-07T10:02:49Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -173,8 +173,8 @@
   - [200g](https://herbetta.com/products/neem-powder-for-hair-skin-care?variant=51483863908634)
     Availability: Available
     Price: ₹249.00 INR
-- [Natural Rose Petal Powder for Glowing Skin | Herbal Face Pack](https://herbetta.com/products/pure-rose-petal-powder): Herbetta Rose Petal Powder for glowing skin. 100% natural, chemical-free powder for face packs & skincare.
-  Updated: 2026-01-01T23:28:01Z
+- [Rose Petal Powder for Gentle Skin Care & Glow | Herbal Face Pack](https://herbetta.com/products/pure-rose-petal-powder): Soothes skin and helps maintain natural freshness. Suitable for gentle face packs to support soft, hydrated, and radiant skin.
+  Updated: 2026-01-10T10:37:56Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -185,8 +185,8 @@
   - [200g](https://herbetta.com/products/pure-rose-petal-powder?variant=51500766298394)
     Availability: Available
     Price: ₹269.00 INR
-- [Herbetta Triphala Churna for Digestion & Gut Health](https://herbetta.com/products/triphala-powder-churna): Herbetta Triphala Churna is a pure herbal powder that supports digestion and gut comfort. Made from traditional herbs with no chemicals added.
-  Updated: 2026-01-01T18:25:04Z
+- [Triphala Powder for Digestion & Gut Health | Herbetta](https://herbetta.com/products/triphala-powder-churna): Supports healthy digestion and bowel regularity. Helps improve gut balance using traditional herbal formulation. Buy Now!
+  Updated: 2026-01-07T10:06:00Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -197,34 +197,48 @@
   - [200g](https://herbetta.com/products/triphala-powder-churna?variant=51506652840218)
     Availability: Available
     Price: ₹239.00 INR
+- [Herbetta Amla Reetha Shikakai Combo | Natural Herbal Hair Care](https://herbetta.com/products/herbetta-amla-reetha-shikakai-combo-300g): Switch to gentle, natural hair care with Herbetta Amla Reetha Shikakai Combo. A traditional herbal blend that cleanses the scalp, strengthens hair, and adds natural softness and shine—without harsh chemicals.
+  Updated: 2026-01-10T02:24:12Z
+  Vendor: Herbetta
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0853/1482/files/main.png?v=1767584093
+  Price: ₹399.00 INR
+- [Herbetta Herbal Glow Skin Care Kit](https://herbetta.com/products/herbetta-herbal-glow-skin-care-kit): The Herbetta Herbal Glow Skin Care Kit is a natural skincare combo designed to gently cleanse, exfoliate, and nourish your skin for a healthy, radiant glow. Made with carefully selected herbal powders, this kit supports traditional skincare routines using time-tested natural ingredients. This combo helps remove impurities, reduce excess oil, and improve skin texture without the use of harsh chemicals. Suitable for all skin types, it can be used as a weekly face pack or daily cleansing routine, depending on your skincare needs. Perfect for those who prefer natural beauty solutions, the Herbetta Herbal Glow Skin Care Kit promotes clear, refreshed, and glowing skin with regular use.
+  Updated: 2026-01-10T19:58:48Z
+  Vendor: Herbetta
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0853/1482/files/haircarecombo.png?v=1768031828
+  Price: ₹419.00 INR
 
 ## Collections
 
 - [Home page](https://herbetta.com/collections/frontpage)
   Updated: 2025-12-15T04:34:06Z
   Total Products: 0
-- [Hair Care](https://herbetta.com/collections/hair-care): Nourish your hair with the power of nature. Our herbal hair care powders like Henna, Indigo, Amla, Shikakai, Reetha, and Bhringraj help in strengthening roots, promoting growth, controlling dandruff, and providing natural shine—without any chemicals.
-  Updated: 2026-01-01T11:53:06Z
+- [Herbal Hair Care Powders for Growth, Strength & Shine | Herbetta](https://herbetta.com/collections/hair-care): Supports stronger roots, hair growth, dandruff control, and natural shine using traditional herbal care without chemicals or synthetic additives.
+  Updated: 2026-01-07T10:11:37Z
   Total Products: 7
-- [Skin Care](https://herbetta.com/collections/skin-care): Pamper your skin with pure herbal care. Mulethi, Multani Mitti and Orange Peel Powder help in deep cleansing, controlling excess oil, reducing acne, and giving your skin a natural glow—completely chemical-free.
-  Updated: 2026-01-01T11:47:08Z
+- [Natural Herbal Skin Care Powders for Clear & Glowing Skin | Herbetta](https://herbetta.com/collections/skin-care): Helps cleanse pores, control excess oil, reduce acne, and improve skin glow using pure herbal skincare solutions without harsh chemicals.
+  Updated: 2026-01-10T12:22:11Z
   Total Products: 7
-- [Special Blends](https://herbetta.com/collections/special-blends): Discover our exclusive herbal blends crafted for complete care. From the Ayush 4-in-1 Hair Care Blend to the Detox Face Pack Duo, these ready-to-use combinations give you multiple benefits in one pouch, making self-care simple and effective.
-  Updated: 2026-01-01T11:39:56Z
-  Total Products: 1
-- [Health Care](https://herbetta.com/collections/health-care)
-  Updated: 2026-01-01T11:47:35Z
+- [Herbal Care Blends for Complete Hair & Skin Solutions | Herbetta](https://herbetta.com/collections/special-blends): Ready-to-use herbal combinations designed to deliver multiple benefits in one routine, making self-care simple, effective, and natural.
+  Updated: 2026-01-10T07:59:14Z
+  Total Products: 3
+- [Natural Herbal Powders for Daily Health & Wellness | Herbetta](https://herbetta.com/collections/health-care): Supports digestion, immunity, energy, and overall wellness through traditional herbal care made from pure plant-based ingredients.
+  Updated: 2026-01-07T10:12:39Z
   Total Products: 3
 - [AVADA - Best Sellers](https://herbetta.com/collections/avada-best-sellers)
-  Updated: 2026-01-01T11:53:06Z
-  Total Products: 16
+  Updated: 2026-01-10T12:22:11Z
+  Total Products: 18
 
 ## Store Pages
 
-- [Contact](https://herbetta.com/pages/contact)
-  Updated: 2025-06-27T03:01:25Z
-- [About Us](https://herbetta.com/pages/about-us): Our Story At Herbetta, we believe that true beauty shouldn't come at the cost of your health or the environment. Our journey began with a simple re...
-  Updated: 2025-12-24T05:51:00Z
+- [Contact Us for Support and Queries | Herbetta](https://herbetta.com/pages/contact): 
+  Updated: 2026-01-08T03:35:11Z
+- [About - Herbetta](https://herbetta.com/pages/about-us): Our Story At Herbetta, we believe that true beauty shouldn't come at the cost of your health or the environment. Our journey began with a simple re...
+  Updated: 2026-01-08T03:35:32Z
 
 ## Policies
 
