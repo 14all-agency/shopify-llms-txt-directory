@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-10T04:21:25Z
 - Contact Email: glowingdesserts@gmail.com
-- Updated At: 2026-01-04T00:00:22.423Z
+- Updated At: 2026-01-12T00:00:21.952Z
 
 ## Products
 
@@ -66,20 +66,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/U14raZ-mIqKsyrMPht6RqQU_2_gps_generated.png?v=1764449954
   Price: $4.50 USD
-- [Santa's Sugar Cookie Dessert Candle](https://glowingdesserts.shop/products/santas-sugar-cookie-dessert-candle): Indulge in the nostalgic charm of Santa's Sugar Cookie Dessert Candle, where festive fragrance meets artisanal craftsmanship. This expertly blended candle captures the warm, buttery essence of freshly baked sugar cookies with bright candy cane notes that evoke holiday tradition. The sophisticated scent profile delivers an authentic dessert experience without the calories, making it an ideal choice for seasonal décor or thoughtful gifting. Perfect for transforming any space into a winter wonderland of comfort and cheer. This Santa's Sugar Cookie Dessert Candle is here just in time for Christmas! This candle will have your house smelling wonderful! It is 100% soy wax, hand poured and non-toxic. The candle has a yummy sugar cookie fragrance that you will love.
-  Updated: 2025-12-12T03:05:29Z
-  Vendor: Glowing Desserts 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/okQraZGvBvbJmtUP6t7J6Aw_2_gps_generated.png?v=1764443378
-  Price: $25.00 USD
 - ["Holiday Cheer" Christmas Wreath Scented  Dessert Candle](https://glowingdesserts.shop/products/christmas-dessert-candle): This dessert candle is the Christmas Wreath Dessert Candle, it smells just like a Christmas Wreath and it will look so cute in you're cozy home. It is 100% soy wax, hand poured and non-toxic. Indulge in the festive charm of our Christmas Wreath Dessert Candle, where holiday elegance meets delectable fragrance. This expertly crafted candle captures the warm, inviting scents of seasonal desserts—think cinnamon-spiced cookies, vanilla frosting, and hints of nutmeg—creating an ambiance that transforms any room into a cozy celebration. Perfect for holiday gatherings or as a thoughtful gift, this candle delivers long-lasting fragrance that evokes the comfort of freshly baked treats. Elevate your seasonal décor with a candle that combines visual appeal with sophisticated, gourmand-inspired aromatics. Candle Details Wax: 100% soy wax Size: 16.8 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-12T03:05:30Z
+  Updated: 2026-01-07T05:53:53Z
   Vendor: Glowing Desserts 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/5jkracmXEpGsmtUPq6W84Qs_0_gps_generated.png?v=1764440604
-  Price: $12.99 USD
+  Price: $7.79 USD
 - [“ Cozy Christmas “ Variety FragrancesSnap Bars(Apple Pie, Peppermint, Sugar Cookie)](https://glowingdesserts.shop/products/christmas-snap-bars): Indulge in the festive spirit with our Christmas Snap Bar Wax Melts, expertly crafted to transform any space into a holiday haven. Each bar features three signature seasonal fragrances: the invigorating coolness of Peppermint, the comforting warmth of Sugar Cookie, and the spiced richness of Apple Pie. Simply snap off a piece and place it in your wax warmer to release hours of long-lasting, premium fragrance. Perfect for creating an authentic holiday atmosphere throughout your home during the season. These are shiny red and green snap bars just in time for Christmas! Fragrances include Peppermint, Apple Pie and Sugar Cookie. They smell amazing ! 100% Soy Wax, non toxic and hand poured. Candle Details Wax: 100% soy wax Size: 5.7 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
   Updated: 2025-12-12T03:05:34Z
   Vendor: Glowing Desserts 
@@ -88,19 +81,19 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/XToraaDMB_qtyrMPx47NgAw_0_gps_generated.png?v=1764440729
   Price: $6.99 USD
 - ["Candy Land" Christmas Dessert Candle with Christmas Wreath fragrance](https://glowingdesserts.shop/products/candy-land-christmas-dessert-candle): Step into a winter wonderland with this festive Candy Land Christmas Dessert Candle, infused with the warm, aromatic essence of a fresh Christmas wreath. This expertly crafted candle combines the nostalgia of holiday confections with the sophisticated scent profile of evergreen boughs, creating an inviting ambiance that transforms any space into a seasonal retreat. Perfect for holiday entertaining or personal indulgence, this candle delivers long-lasting fragrance that captures the magic of the season in every burn. This Candy Land Christmas candle is fun with sprinkles and smells so yummy! Comes in nice round glass, 100% Soy Wax, non toxic and 1-2 hours burning time. Filled with festive toppings. Pine scent. Candle Details Wax: 100% soy wax Size: 5.7 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-12T16:08:19Z
+  Updated: 2026-01-07T05:53:47Z
   Vendor: Glowing Desserts 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/STEraa7cIM3PmtUP9NLX4AU_2_gps_generated.png?v=1764438422
-  Price: $20.00 USD
+  Price: $12.00 USD
 - [Santa’s Hot Chocolate Dessert Candle](https://glowingdesserts.shop/products/santa-s-hot-chocolate-dessert-candle): Indulge in the warmth of freshly brewed hot chocolate with this artisanal dessert candle. Crafted to capture the rich, comforting aroma of premium cocoa blended with subtle vanilla and cream notes, it transforms any space into a cozy retreat. Perfect for holiday gatherings or quiet evenings, this candle delivers an authentic gourmand experience without the calories. Hand-poured with quality wax for an even, long-lasting burn that fills your home with sophisticated warmth. 100% Soy Wax, hand poured, non toxic, this cute dessert candle look so festive in this Christmas mug. It’s perfect for lighting on a cozy night! Candle Details Wax: 100% soy wax Size: 23 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-16T14:13:02Z
+  Updated: 2026-01-07T05:53:49Z
   Vendor: Glowing Desserts 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/hFIrada4C_bJmtUP6t7J6Aw_2_gps_generated.png?v=1764446971
-  Price: $15.00 USD
+  Price: $9.00 USD
 - ["Buttery Bakery" Snickerdoodle Crumbles](https://glowingdesserts.shop/products/snickerdoodle-crumbles): Indulge in the warm, spiced comfort of our Snickerdoodle Crumbles candle, expertly crafted to capture the essence of freshly baked gingerbread. This artisanal candle blends cinnamon, nutmeg, and molasses notes with subtle vanilla undertones, creating an inviting ambiance that transforms any space into a cozy retreat. Hand-poured with premium soy wax and a lead-free cotton wick, it burns cleanly and evenly for extended enjoyment. Perfect for seasonal décor or as a thoughtful gift for dessert lovers who appreciate quality craftsmanship and authentic fragrance. This dessert candle has a snickerdoodle scent and smells amazing! Just in time for Christmas!’ 100% Soy Wax, non toxic with 1 to 2 burning time. This candle is all hand poured. Candle Details Wax: 100% soy wax Size: 13.8 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
   Updated: 2025-12-12T04:03:20Z
   Vendor: Glowing Desserts 
@@ -115,13 +108,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/Sfw5afrwNJjAmtUPxda5qQw_2_gps_generated.png?v=1765414039
   Price: $25.00 USD
-- [Santa”s Candy Cane Ice Cream Sundae](https://glowingdesserts.shop/products/santa-s-candy-cain-sundae): Santa's Candy Cane Indulge in the nostalgic charm of a classic ice cream sundae with this festive candle. Crafted to capture the essence of creamy vanilla ice cream topped with crushed candy canes and rich chocolate sauce, each burn releases a sophisticated blend of sweet peppermint, vanilla, and cocoa notes. Perfect for holiday gatherings or adding seasonal warmth to your home, this artisan candle transforms any room into a cozy dessert haven. Hand-poured with premium wax for an even, long-lasting burn that fills your space with authentic gourmand fragrance. Candle - Adorable Sundae Design with Ice Cream Top - Christmas Scented Candle for Festive Home Aroma Candle Details Wax: 100% soy wax Size: 25.6 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-12T04:01:37Z
-  Vendor: Glowing Desserts 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/f1QraZzOEuX7mtUPvfHfoAI_2_gps_generated.png?v=1764447429
-  Price: $20.00 USD
 - [Vanilla Sprinkles Snap bars](https://glowingdesserts.shop/products/vanilla-sprinkles-snap-bars): Transform your space with our Vanilla Sprinkles Snap Wax Melts, featuring a captivating blue finish adorned with cheerful sprinkles. These premium wax melts release a warm, inviting vanilla fragrance that fills your home with sophisticated comfort. Simply snap a piece into your favorite warmer to enjoy long-lasting, even scent distribution without flame or smoke. Ideal for creating an ambient atmosphere in any room while adding a decorative touch to your décor. Vanilla Snap Bars with Colorful Embedded Gems for Aesthetic Appeal and Versatile Usage Candle Details Wax: 100% soy wax Size: 5.7 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
   Updated: 2025-12-12T03:05:39Z
   Vendor: Glowing Desserts 
@@ -137,19 +123,19 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/ZVgradDRLqKsyrMPht6RqQU_1_gps_generated.png?v=1764448444
   Price: $5.99 USD
 - ["Snowflake Kisses" Set of Sugar Cookie Christmas dessert candles.](https://glowingdesserts.shop/products/set-of-sugar-cookie-christmas-dessert-candles): Indulge in the warm, inviting aroma of freshly baked sugar cookies with this curated candle collection. Each piece captures the nostalgic essence of holiday baking, blending vanilla, butter, and subtle spice notes for an authentic dessert experience. Perfect for creating a cozy atmosphere during the festive season, these candles transform any space into a bakery-inspired sanctuary. Ideal for gifting or personal enjoyment, this set brings the comfort of homemade treats to your home without the calories. These two small dessert candles smell just like sugar cookie right out of the oven! And so delicate looking. They would be a great Christmas decoration for the holidays! 100% soy wax, non toxic, all hand poured. Candle Details Wax: 100% soy wax Size: 5.7 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-12T03:05:40Z
+  Updated: 2026-01-07T05:53:45Z
   Vendor: Glowing Desserts 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/QEUraeiCOOG5yrMPzfbuuQU_2_gps_generated.png?v=1764443529
-  Price: $10.00 USD
+  Price: $6.00 USD
 - ["Silent Night" Pine Scented Dessert Candle](https://glowingdesserts.shop/products/christmas-pine-dessert-candle): Infuse your home with the festive essence of a winter forest. This Christmas Pine Dessert Candle merges the warm, inviting aroma of fresh evergreen with subtle dessert notes, creating a sophisticated sensory experience. Hand-poured with premium ingredients, it delivers a clean, long-lasting burn perfect for holiday gatherings or personal indulgence. Transform any room into a seasonal retreat with this expertly crafted seasonal essential. This medium size glass dessert candle is green with adorable toppings. It has a Pine needle fragrance and smells just like Christmas morning! 100 % Soy Wax , Non-toxic, and all is hand-poured. Candle Details Wax: 100% soy wax Size: 5.7 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-12T04:00:58Z
+  Updated: 2026-01-07T05:53:50Z
   Vendor: Glowing Desserts 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/FTgraYyaAeG5yrMPzfbuuQU_2_gps_generated.png?v=1764440141
-  Price: $15.00 USD
+  Price: $9.00 USD
 - [Happy Birthday Dessert Candle](https://glowingdesserts.shop/products/happy-birthday-dessert-candle): Illuminate your celebration with this charming birthday dessert candle, expertly crafted to capture the warmth and joy of special moments. Perfect for topping cupcakes, small cakes, or dessert displays, this candle combines aesthetic appeal with reliable performance. The compact size makes it ideal for intimate gatherings while the soft glow adds an elegant touch to any dessert presentation. Whether you're hosting a milestone birthday or a casual celebration, this candle delivers the perfect finishing detail for memorable occasions. This Happy Birthday Candle smells just like a birthday day cake ! It’s 100% Soy wax , non toxic and has 1 to 2 burning time.
   Updated: 2025-12-12T03:05:44Z
   Vendor: Glowing Desserts 
@@ -172,12 +158,12 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/flYraZuVEpGsmtUPq6W84Qs_3_gps_generated.png?v=1764447959
   Price: $5.99 USD
 - ["Mistletoe" Christmas Dessert Candle(Pine Needle Scented)](https://glowingdesserts.shop/products/christmas-dessert-candle-1): Infuse your space with the crisp, invigorating essence of fresh pine needles—a timeless holiday fragrance that evokes the warmth of festive gatherings. This premium candle features a sophisticated blend capturing the natural woodsy notes of Christmas greenery, housed in elegant tall glassware with a secure lid for convenient storage and transport. Perfect for creating an authentic seasonal ambiance throughout your home, this expertly crafted scent transforms any room into a winter retreat. The durable glass vessel doubles as décor, while the fitted lid preserves fragrance integrity between uses. This is a beautiful Christmas candle and has a Christmas tree pine scent. It smells amazing and smells just like Christmas!!! 100% Soy Wax , non toxic and 1 to 2 burning time. The glass jar is beautiful and has a lid with it. Candle Details Wax: 100% soy wax Size: 37.8 oz (or your size—can adjust) Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
-  Updated: 2025-12-12T03:05:46Z
+  Updated: 2026-01-07T05:53:55Z
   Vendor: Glowing Desserts 
   Product Type: Soy wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/3DQraYOdHqKsyrMPht6RqQU_2_gps_generated.png?v=1764439311
-  Price: $30.00 USD
+  Price: $18.00 USD
 - [Orange Sun-Kissed  Dessert Candle](https://glowingdesserts.shop/products/orange-sun-kissed-dessert-candle): Orange Sun-Kissed Dessert Candle with Orange fragrance, this candle is all hand- poured, 100% Soy Wax, non-toxic and 2lbs. Comes in round glass candle jar. Smells amazing! Has two dried fruit Orange garnishes on top. Orange Sun-Kissed Dessert Candle Infused with warm citrus and vanilla notes, this artisan candle captures the essence of sun-ripened oranges blended with sweet dessert undertones. Hand-poured with premium soy wax, it delivers a clean, long-lasting burn that fills your space with an inviting, gourmand fragrance. Perfect for creating an indulgent atmosphere that evokes freshly baked treats and golden hour warmth. A sophisticated choice for dessert lovers seeking sophisticated home ambiance. Candle Details Wax: 100% soy wax Size: 25.9 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches Style: Fruity cocktail-inspired dessert candle
   Updated: 2025-12-18T16:45:01Z
   Vendor: Glowing Desserts 
@@ -297,13 +283,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/BD0raZXhFvbJmtUP6t7J6Aw_2_gps_generated.png?v=1764441451
   Price: $4.99 USD
-- ["Margaritaville "Margarita Candle – Fruity Scented Soy Candle](https://glowingdesserts.shop/products/margarita-candles-fruity-scented): Indulge in the sophisticated allure of our Margarita Candles, expertly crafted to capture the essence of a classic cocktail. Each candle features a vibrant fruity scent profile complemented by authentic dried citrus and botanical garnishes, creating an immersive sensory experience. Perfect for entertaining spaces, these artisanal candles deliver a refreshing, upscale ambiance that transports you to a sun-soaked bar setting. Ideal for cocktail enthusiasts and those seeking distinctive home fragrance with visual appeal. Candle Details Wax: 100% soy wax Size: 8 oz (or your size—can adjust) Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches Style: Fruity cocktail-inspired dessert candle Why You’ll Love It Looks like a real dessert Makes your whole space smell like a bakery Long, clean burn Beautiful handmade toppings Always a conversation starter Unique gift you won’t find in stores Candle Details Wax: 100% soy wax Wick: Cotton (lead-free) Handmade: Yes — poured in small batches Style: Fruity cocktail-inspired dessert candle
-  Updated: 2025-12-12T03:06:18Z
-  Vendor: Glowing Desserts 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG_7909_7e922d72-99d6-4cbf-917d-a3b2416dc6b2.jpg?v=1764030900
-  Price: $20.00 USD
 - [Cucumber Melon Christmas Snap Bars](https://glowingdesserts.shop/products/cucumber-melon-christmas-snap-bars): Cucumber Melon Christmas Snap Bars deliver a refreshing seasonal fragrance with a festive twist. Crafted from premium soy wax and infused with shimmering red glitter, these snap bars combine visual appeal with aromatic sophistication. Simply break off a piece and place it in your wax warmer to release the crisp, cooling notes of cucumber and melon throughout your space. Perfect for those seeking a lighter, more invigorating holiday scent that balances traditional seasonal warmth with modern freshness. Candle Details Wax: 100% soy wax Size: 5.7 oz Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches Style: Fruity cocktail-inspired dessert candle
   Updated: 2025-12-12T03:05:59Z
   Vendor: Glowing Desserts 
@@ -484,13 +463,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/Ed08aYnAKqW4yrMPi-__sAU_3_gps_generated.png?v=1765596530
   Price: $30.00 USD
-- [Christmas Candle Cinnamon Scented in beautiful Wine Glass](https://glowingdesserts.shop/products/christmas-candle-cinnamon-scented-in-beautiful-wine-glass): Experience the festive holiday season with our Christmas Candle. This elegantly crafted Wine Glass holds a delightful Cinnamon scent, perfect for creating a warm and welcoming atmosphere. With its long-lasting burn time, it's sure to enhance your celebration. Transform your home into a cozy winter wonderland with our Christmas Candle.
-  Updated: 2026-01-03T16:21:17Z
-  Vendor: Glowing Desserts
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8500.png?v=1765930291
-  Price: $20.00 USD
 - [Blueberry Candy Crunch](https://glowingdesserts.shop/products/blueberry-candy-crunch): Blueberry Candy Crunch small dessert candles that smell delicious! Made with soy wax and non toxic . Indulge your senses with our Blueberry Candy Crunch small dessert candles. Made with soy wax and non-toxic ingredients, these candles not only smell delicious but also provide a clean burn. Enjoy the sweet scent of blueberries without any harmful toxins.
   Updated: 2025-12-19T16:40:27Z
   Vendor: Glowing Desserts
@@ -505,13 +477,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/NdxEafnNA_W4yrMP-6CvsAU_2_gps_generated.png?v=1766120637
   Price: $15.00 USD
-- [“Glow Bears “ Candle (Fruity Candy scented](https://glowingdesserts.shop/products/glow-bears-candle-fruity-candy-scented): Experience the delightful scent and ambiance of our "Glow Bears" candle. Made with soy wax, this fruity scented candle features cute glow in the dark bears on top. Let the delicious fragrance fill your space while the gentle glow of the bears adds a touch of whimsy. Perfect for creating a warm and inviting atmosphere.
-  Updated: 2025-12-24T11:13:00Z
-  Vendor: Glowing Desserts
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/O0hLaYG_HuXCyrMPm4PfMQ_2_gps_generated.png?v=1766541440
-  Price: $15.95 USD
 - [“Starlight Glow” Fruity Scented Candle](https://glowingdesserts.shop/products/starlight-glow-fruity-scented-candle): The “Starlight Glow” candle is an expertly crafted soy wax candle that adds a touch of elegance to any room with its wine glass and gold glitter design. The fruity scent creates a pleasant ambiance and is 100% non-toxic. Perfect for decoration, it also glows beautifully under a blue light or in the dark.
   Updated: 2025-12-24T11:32:18Z
   Vendor: Glowing Desserts
@@ -566,13 +531,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8811.png?v=1767055566
   Price: $35.00 USD
-- [Valentines Candles Fruit& Candy Scented](https://glowingdesserts.shop/products/valentines-candles-fruit-candy-scented): Add a touch of sweetness to your Valentine's Day decor with our Fruit& Candy scented candles. These adorable ceramic heart candles will create a warm and cozy atmosphere, while filling your home with the irresistible scent of fruity candy. Perfect for setting the mood for a romantic evening or adding a charming touch to your home. If you are looking for cute Valentines candles to decorate your home for the love holiday ! These are the perfect little ceramic heart candles. They have a fruity candy scent.
-  Updated: 2025-12-30T13:03:47Z
-  Vendor: Glowing Desserts
-  Product Type: Soy wax
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8814.png?v=1767056460
-  Price: $5.99 USD
 - [Cutesy Cupcakes](https://glowingdesserts.shop/products/cutesy-cupcakes): Indulge in Cutesy Cupcakes, a delightful treat for the senses. Each candle is carefully crafted with soy wax and non-toxic ingredients, and boasts a variety of fragrances such as fruity candy, cotton candy, and vanilla. Create a warm and inviting ambiance in any room with our charming cupcakes.Cutesy cupcake with different fragrances including fruity candy, cotton candy and vanilla. Made with soy wax and non toxic.
   Updated: 2025-12-30T13:13:48Z
   Vendor: Glowing Desserts
@@ -614,70 +572,98 @@
     Availability: Available
     Price: $13.99 USD
 - [Cotton Candy Birthday Bash Candle](https://glowingdesserts.shop/products/cotton-candy-birthday-bash-candle): Introducing our Cotton Candy Birthday Bash Candle - a 19OZ, 100% Soy Wax candle that will surely make your birthday celebration more fun! With cute topping pieces, including a cupcake with a wick, and a sprinkling of sparkles, this candle is a great conversation starter. Plus, it's non-toxic and safe to burn. Party on with our candle!
-  Updated: 2026-01-03T16:21:17Z
+  Updated: 2026-01-09T00:25:30Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8862.png?v=1767405565
   Price: $45.00 USD
 - [Sweethearts Delight Candle](https://glowingdesserts.shop/products/sweethearts-delight-candle): Indulge your sweetheart with our Sweethearts Delight Candle, specially crafted for Valentine's Day. With a romantic scent of Vanilla and charming details like white roses and a decorative heart, this soy wax candle is sure to set the mood. Non-toxic and perfectly delightful.
-  Updated: 2026-01-03T16:21:17Z
+  Updated: 2026-01-09T00:25:30Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/NHxYaYboJr6TmtUPiOWR2Ag_1_gps_generated.png?v=1767406736
   Price: $30.00 USD
 - [Pink Party Shake Dessert Candle](https://glowingdesserts.shop/products/pink-party-shake-dessert-candle): Infuse your space with the delectable scent of vanilla with our Pink Party Shake Dessert Candle. Perfect for any occasion, this candle comes in a Sundae-inspired glass and features a wax heart and cute wax melts topped with sprinkles. Experience divine relaxation with every burn.
-  Updated: 2026-01-03T16:21:17Z
+  Updated: 2026-01-09T00:25:30Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8863.png?v=1767406771
   Price: $15.99 USD
 - [Love Candle](https://glowingdesserts.shop/products/love-candle): Experience the sweet scent of love with our Love Candle. Featuring a fruity candy fragrance and fun heart sprinkles, this small and cute Valentine's candle comes in two beautiful colors. Get ready to set the mood for a romantic evening.
-  Updated: 2026-01-03T16:21:18Z
+  Updated: 2026-01-09T00:25:31Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8867.png?v=1767407245
   Price: $8.99 USD
 - [Valentines Snap Bars ( Vanilla, Cotton Candy fragrances](https://glowingdesserts.shop/products/valentines-snap-bars-vanilla-cotton-candy-fragrances): Elevate your Valentine's Day experience with our charming Valentines Snap Bars. Infused with delightful Vanilla and Cotton Candy fragrances, these super cute wax melts not only set the mood, but also fill your home with irresistible scents. Indulge in the perfect blend of romance and sweetness. These are super cute snap bar wax melts for Valentines Day !!! These come in Vanilla and Cotton Candy.
-  Updated: 2026-01-03T16:21:18Z
+  Updated: 2026-01-09T00:25:31Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8868.png?v=1767407793
   Price: $5.99 USD
-[List Continued](https://glowingdesserts.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTYxMzA0MjI4MTI2LCJsYXN0X3ZhbHVlIjoiOTk2MTMwNDIyODEyNiJ9)
+- [Sweet Treats Dessert Candle](https://glowingdesserts.shop/products/sweet-treats-dessert-candle): Enhance any occasion with our Sweet Treats Dessert Candle. This small-sized candle features adorable wax marshmallows and a warm Vanilla Sugar fragrance. Made with 100% soy wax and non-toxic ingredients, indulge in a guilt-free, sweet treat for your senses.
+  Updated: 2026-01-09T00:25:31Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8931.png?v=1767742561
+  Price: $9.99 USD
+- [Berry Velvatine Candle](https://glowingdesserts.shop/products/berry-velvatine-candle): Indulge your senses with our Berry Velvatine Candle. This 100% soy wax candle features a delicious Berry fragrance and is topped with adorable wax Strawberries. Non-toxic and the perfect size for any occasion, it's the ideal choice for a sweet and inviting home atmosphere.
+  Updated: 2026-01-09T00:25:31Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8930.png?v=1767742969
+  Price: $10.95 USD
+- [Banana Berry Blend](https://glowingdesserts.shop/products/banana-berry-blend): Indulge your senses with our large Banana Berry Blend candle. Made from 100% soy wax, this non-toxic candle boasts a delicious fragrance with real rose wax tarts and heart wax toppings for an extra fruity touch. Enjoy a sweet and aromatic ambiance without any harmful chemicals.
+  Updated: 2026-01-09T00:25:31Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8929.png?v=1767743381
+  Price: $25.00 USD
+- [Clover & Rosemary Scented Candles](https://glowingdesserts.shop/products/clover-rosemary-scented-candles): Experience the rich, warm fragrance of our Clover & Rosemary Scented Candles. Enjoy a touch of beautiful dried flowers in every burn. Made with non-toxic soy wax, choose from small canisters or heart-shaped ceramic containers. Transform any space with the refreshing scent of clover and rosemary.
+  Updated: 2026-01-09T00:25:31Z
+  Vendor: Glowing Desserts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-8928.png?v=1767743841
+  Price: $6.99 USD
+[List Continued](https://glowingdesserts.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTY3NDgwMjQyNDYyLCJsYXN0X3ZhbHVlIjoiOTk2NzQ4MDI0MjQ2MiJ9)
 
 ## Collections
 
 - [Home page](https://glowingdesserts.shop/collections/frontpage): Welcome to Glowing Desserts Candles. Handmade soy wax dessert candles for any occasion.
-  Updated: 2026-01-03T16:21:16Z
+  Updated: 2026-01-09T00:25:30Z
   Total Products: 1
 - [Holiday Candles](https://glowingdesserts.shop/collections/holiday-candles): These holiday themed candles have a great scent and a one of a kind look.
-  Updated: 2026-01-03T16:21:16Z
+  Updated: 2026-01-09T00:25:30Z
   Total Products: 12
 - [Wax tarts](https://glowingdesserts.shop/collections/wax-tarts): Shop these wonderfully scented wax tarts
-  Updated: 2026-01-03T16:21:16Z
+  Updated: 2026-01-09T00:25:30Z
   Total Products: 9
 - [Birthday Candles](https://glowingdesserts.shop/collections/birthday-candles): Birthday dessert candles
-  Updated: 2026-01-03T16:21:17Z
+  Updated: 2026-01-09T00:25:30Z
   Total Products: 7
 - [All Products (ChatGPT-AI Product Description)](https://glowingdesserts.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-01-03T02:51:58Z
-  Total Products: 101
+  Updated: 2026-01-10T19:36:45Z
+  Total Products: 105
 - [Candles example products](https://glowingdesserts.shop/collections/candles-example-products)
-  Updated: 2026-01-03T16:21:17Z
+  Updated: 2026-01-09T00:25:30Z
   Total Products: 0
-- [Orderly Emails - Recommended Products](https://glowingdesserts.shop/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-01-03T02:52:18Z
-  Total Products: 89
+- [Orderly Emails - Recommended Products](https://glowingdesserts.shop/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
+  Updated: 2026-01-10T19:36:45Z
+  Total Products: 88
 - [New! Shopify performance sharing is now turned on](https://glowingdesserts.shop/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-03T02:51:58Z
-  Total Products: 101
+  Updated: 2026-01-10T19:36:45Z
+  Total Products: 105
 - [Featured Collection](https://glowingdesserts.shop/collections/featured-collection): Featured Collection
-  Updated: 2026-01-03T16:21:17Z
+  Updated: 2026-01-09T00:25:30Z
   Total Products: 8
 
 ## Blogs
