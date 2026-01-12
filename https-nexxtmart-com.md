@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-01-05T00:00:23.572Z
+- Updated At: 2026-01-12T00:00:24.310Z
 
 ## Products
 
@@ -22,7 +22,7 @@
   - [1 Bucket size 20oz](https://nexxtmart.com/products/african-salad-abacha?variant=45825517453364)
     Availability: Available
     Price: $18.99 USD
-- [Virgin Hair Fertilizer – Promote Healthy Hair Growth | Nexxtmart](https://nexxtmart.com/products/virgin-hair-fertilizer): Buy Virgin Hair Fertilizer – a powerful scalp treatment that promotes hair growth, nourishes roots, and revitalizes your scalp for stronger, healthier hair. Shop now at Nexxtmart
+- [Virgin Hair Fertilizer – Promote Healthy Hair Growth | Nexxtmart](https://nexxtmart.com/products/virgin-hair-fertilizer): Buy Virgin Hair Fertilizer – a powerful scalp  that promotes hair growth, nourishes roots, and revitalizes your scalp for stronger, healthier hair. Shop now at Nexxtmart
   Updated: 2025-10-10T18:37:30Z
   Vendor: My Store
   Product Type: 
@@ -61,20 +61,20 @@
     Availability: Available
     Price: $80.68 USD
 - [Egusi Grinded Melon – Pure Hand-Peeled African Spice | Nexxtmart](https://nexxtmart.com/products/egusi-grinded-melon): Buy Egusi Grinded Melon – 100% hand-peeled, stone-free, and fresh. Perfect for tasty African soups and sauces. Premium quality Egusi available now at Nexxtmart!
-  Updated: 2025-11-25T08:19:11Z
+  Updated: 2026-01-10T16:35:22Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Grinded_Egusi.png?v=1764015577
   - [8.25oz](https://nexxtmart.com/products/egusi-grinded-melon?variant=45829430345780)
     Availability: Available
-    Price: $7.99 USD
-  - [Half Bucket (2.30 LB)](https://nexxtmart.com/products/egusi-grinded-melon?variant=45829430378548)
+    Price: $8.99 USD
+  - [2.30 LB (Half Bucket Paint)](https://nexxtmart.com/products/egusi-grinded-melon?variant=45829430378548)
     Availability: Available
-    Price: $32.99 USD
-  - [Full Bucket Paint (5.60LB)](https://nexxtmart.com/products/egusi-grinded-melon?variant=45829430411316)
+    Price: $39.99 USD
+  - [5.60LB (Full Bucket Paint)](https://nexxtmart.com/products/egusi-grinded-melon?variant=45829430411316)
     Availability: Available
-    Price: $63.99 USD
+    Price: $69.99 USD
 - [Nestle Cerelac Maize – Nutritious Baby Cereal for Healthy Growth.](https://nexxtmart.com/products/nestle-cerelac-maize-1kg): Buy Nestle Cerelac Maize | 1kg – a nutritious, vitamin-rich baby cereal for healthy growth and development. Easy to prepare and gentle on your baby’s tummy.
   Updated: 2025-10-10T18:03:58Z
   Vendor: My Store
@@ -1619,7 +1619,7 @@
     Availability: Available
     Price: $90.00 USD
 - [Complan Milk – Complete Meal in a Drink 450g | Full Nutrition Boost](https://nexxtmart.com/products/complan-milk-complete-meal-drink-450g): Complan Milk provides a complete meal in a drink with protein, vitamins, and minerals. Enjoy balanced nutrition, energy support, and daily vitality in every serving.
-  Updated: 2026-01-04T18:51:06Z
+  Updated: 2026-01-05T06:51:11Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1640,7 +1640,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nigerian_white_beans_quality_whole_grains.png?v=1764014614
   Price: $26.00 USD
 - [Bay Leaf - Dried natural aromatic spice for african foods](https://nexxtmart.com/products/bay-leaf-dried-natural-aromatic-spice): Bay Leaf delivers rich aroma and flavor for soups, stews, sauces, and rice dishes. African dried leaves, gluten-free, vegan, and 100% natural. Essential for everyday cooking.
-  Updated: 2026-01-04T18:47:02Z
+  Updated: 2026-01-05T06:47:33Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1677,7 +1677,7 @@
     Availability: Available
     Price: $75.89 USD
 - [Hibiscus Flowers – Sweet Sahel - Sun-Dried Zobo Leaves - Nexxtmart](https://nexxtmart.com/products/hibiscus-flowers-dried-zobo-leaves): Hibiscus Flowers 250g: Premium sun-dried Nigerian Zobo Leaves, rich in antioxidants and caffeine-free. Ideal for hot tea, cold brew, Agua de Jamaica, and refreshing herbal drinks.
-  Updated: 2026-01-04T18:45:57Z
+  Updated: 2026-01-05T06:46:04Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1696,16 +1696,16 @@
 ## Collections
 
 - [Food Stuffs - Nexxtmart](https://nexxtmart.com/collections/food-stuffs): Stock up on high-quality foodstuffs at Nexxtmart! From pantry staples like rice, pasta, and flour to  - Nexxtmart
-  Updated: 2026-01-03T12:12:40Z
+  Updated: 2026-01-05T19:51:41Z
   Total Products: 74
 - [New Arrivals - Nexxtmart](https://nexxtmart.com/collections/new-arrivals): Stay ahead with Nexxtmart’s New Arrivals! Discover the latest and freshest products, from pantry  - Nexxtmart
   Updated: 2025-12-31T12:11:50Z
   Total Products: 30
 - [Featured Items - Nexxtmart](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2026-01-03T12:12:40Z
+  Updated: 2026-01-05T19:51:41Z
   Total Products: 150
 - [Best Sellers - Nexxtmart](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
-  Updated: 2026-01-03T12:12:40Z
+  Updated: 2026-01-05T19:51:41Z
   Total Products: 56
 - [cooking oil - Nexxtmart](https://nexxtmart.com/collections/cooking-oil): Discover high-quality cooking oils at Nexxtmart. From healthy vegetable oils to rich palm and  - Nexxtmart
   Updated: 2025-09-26T23:00:35Z
@@ -1729,10 +1729,10 @@
   Updated: 2025-11-24T21:05:41Z
   Total Products: 6
 - [Grains & Legumes - Nexxtmart](https://nexxtmart.com/collections/grains-legumes): - Nexxtmart
-  Updated: 2026-01-03T12:12:40Z
+  Updated: 2026-01-05T19:51:41Z
   Total Products: 10
-- [Best Selling Products, Buy Quality and Tasty African food items.](https://nexxtmart.com/collections/best-selling-products): Discover the best selling products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
-  Updated: 2026-01-03T12:12:40Z
+- [Best  Products, Buy Quality and Tasty African food items.](https://nexxtmart.com/collections/best--products): Discover the best  products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
+  Updated: 2026-01-05T19:51:41Z
   Total Products: 152
 - [Digital Goods VAT Tax - Nexxtmart](https://nexxtmart.com/collections/digital-goods-vat-tax): - Nexxtmart
   Updated: 2025-09-26T22:02:18Z
@@ -1781,7 +1781,7 @@
   Updated: 2025-02-10T15:38:30Z
 - [html sitemap products](https://nexxtmart.com/pages/html-sitemap-products): Products African Salad Abacha Virgin Air Fertilizer Minimie Chin chin Jigsimur Natural Herbal Drink Jekonmo Herbal Mixture Egusi Grinded Melon Nest...
   Updated: 2025-09-26T22:02:22Z
-- [html sitemap collections](https://nexxtmart.com/pages/html-sitemap-collections): Collections Food Stuffs Best Selling Products New Arrivals Featured Items Best Sellers cooking oil Baby Spices Drinks Condiments Health and Beauty ...
+- [html sitemap collections](https://nexxtmart.com/pages/html-sitemap-collections): Collections Food Stuffs Best  Products New Arrivals Featured Items Best Sellers cooking oil Baby Spices Drinks Condiments Health and Beauty ...
   Updated: 2025-09-26T22:02:24Z
 - [html sitemap blogs](https://nexxtmart.com/pages/html-sitemap-blogs): Blogs News Nigerian Cuisine & Culture Blog .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoa...
   Updated: 2025-09-26T22:02:25Z
