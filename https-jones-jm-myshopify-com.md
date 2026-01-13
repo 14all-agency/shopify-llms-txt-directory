@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-01-06T20:00:23.842Z
+- Updated At: 2026-01-13T20:00:23.422Z
 
 ## Products
 
@@ -56,19 +56,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/Main.jpg?v=1736660631
   Price: $885.95 NZD
-- [Selling Plans Ski Wax](https://jones-jm.myshopify.com/products/selling-plans-ski-wax)
+- [ Plans Ski Wax](https://jones-jm.myshopify.com/products/-plans-ski-wax)
   Updated: 2025-06-17T21:09:29Z
   Vendor: Jones JM
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/snowboard_wax.png?v=1736660632
-  - [Selling Plans Ski Wax](https://jones-jm.myshopify.com/products/selling-plans-ski-wax?variant=41487629713495)
+  - [ Plans Ski Wax](https://jones-jm.myshopify.com/products/-plans-ski-wax?variant=41487629713495)
     Availability: Available
     Price: $24.95 NZD
-  - [Special Selling Plans Ski Wax](https://jones-jm.myshopify.com/products/selling-plans-ski-wax?variant=41487629746263)
+  - [Special  Plans Ski Wax](https://jones-jm.myshopify.com/products/-plans-ski-wax?variant=41487629746263)
     Availability: Available
     Price: $49.95 NZD
-  - [Sample Selling Plans Ski Wax](https://jones-jm.myshopify.com/products/selling-plans-ski-wax?variant=41487629779031)
+  - [Sample  Plans Ski Wax](https://jones-jm.myshopify.com/products/-plans-ski-wax?variant=41487629779031)
     Availability: Available
     Price: $9.95 NZD
 - [Complete Snowboard](https://jones-jm.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
@@ -806,6 +806,18 @@
     Author: User
   - [Common Snowboarding Mistakes and How to Fix Them](https://jones-jm.myshopify.com/blogs/news/common-snowboarding-mistakes-and-how-to-fix-them): Common Snowboarding Mistakes and How to Fix Them
     Updated: 2026-01-06T00:01:33Z
+    Author: User
+  - [A Beginners Guide to Selecting Your Ideal Snowboard](https://jones-jm.myshopify.com/blogs/news/a-beginners-guide-to-selecting-your-ideal-snowboard): A Beginners Guide to Selecting Your Ideal Snowboard
+    Updated: 2026-01-07T00:01:32Z
+    Author: User
+  - [Safety Tips Every Snowboarder Should Know](https://jones-jm.myshopify.com/blogs/news/safety-tips-every-snowboarder-should-know): Safety Tips Every Snowboarder Should Know
+    Updated: 2026-01-12T00:01:13Z
+    Author: User
+  - [10 Essential Facts Every Snake Enthusiast Should Know](https://jones-jm.myshopify.com/blogs/news/10-essential-facts-every-snake-enthusiast-should-know): 10 Essential Facts Every Snake Enthusiast Should Know
+    Updated: 2026-01-12T23:02:51Z
+    Author: User
+  - [Exploring the Impact of Snowboarding on Mountain Communities](https://jones-jm.myshopify.com/blogs/news/exploring-the-impact-of-snowboarding-on-mountain-communities): Exploring the Impact of Snowboarding on Mountain Communities
+    Updated: 2026-01-13T00:01:27Z
     Author: User
 
 ## Store Pages
