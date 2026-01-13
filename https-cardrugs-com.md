@@ -6,11 +6,11 @@
 - Timezone: America/New_York
 - Created At: 2018-12-16T18:18:54Z
 - Contact Email: thecardrugs@gmail.com
-- Updated At: 2026-01-03T00:00:38.000Z
+- Updated At: 2026-01-13T00:00:38.244Z
 
 ## Products
 
-- [CarDrugs 24" Banner - White](https://cardrugs.com/products/cardrugs-future-logo-24-die-cut-banner): Car Drugs 24" Die-Cut BannerFor All Vehicles Universal size of 24" wideGreat for Front or Rear WindshieldsPhoto is only for example and is not actual sizeReleased Dec 2023Design by CarDrugs
+- [CarDrugs 24" Banner - White](https://cardrugs.com/products/cardrugs-future-logo-24-die-cut-banner): Car  24" Die-Cut BannerFor All Vehicles Universal size of 24" wideGreat for Front or Rear WindshieldsPhoto is only for example and is not actual sizeReleased Dec 2023Design by CarDrugs
   Updated: 2025-12-17T22:34:29Z
   Vendor: CarDrugs.com
   Product Type: Banner
@@ -122,7 +122,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0103/8204/9380/products/IMG_0299.jpg?v=1759445138
   Price: $8.88 USD
-- [Brilliant V1 E-Sports Jersey By CarDrugs](https://cardrugs.com/products/grind-v1-cardrugs-e-sports-jersey): Brilliant V1 E-Sports Jersey By CarDrugsNormal FitColor: MultiSize: Small - 5XLIncluding BattleGang, Low Clique, Bojengga, Klean Exhibition, Overrated, So Scare100% Satisfaction Guaranteed$6 exchange for size if you picked the wrong oneOriginal Design By DenlinReleased Dec 2021
+- [Brilliant V1 E-Sports Jersey By CarDrugs](https://cardrugs.com/products/grind-v1-cardrugs-e-sports-jersey): Brilliant V1 E-Sports Jersey By CarDrugsNormal FitColor: MultiSize: Small - 5XLIncluding BattleGang, Low Clique, Bojengga, Klean Exhibition, Overrated, So Scare100% Satisfaction $6 exchange for size if you picked the wrong oneOriginal Design By DenlinReleased Dec 2021
   Updated: 2025-12-12T19:12:07Z
   Vendor: CarDrugs.com
   Product Type: 
@@ -183,7 +183,7 @@
   Updated: 2025-12-01T12:13:27Z
   Total Products: 87
 - [Apparel](https://cardrugs.com/collections/apparel)
-  Updated: 2026-01-01T12:08:02Z
+  Updated: 2026-01-11T12:07:05Z
   Total Products: 254
 - [Lanyards](https://cardrugs.com/collections/lanyards)
   Updated: 2024-12-29T00:39:19Z
@@ -192,7 +192,7 @@
   Updated: 2024-06-05T23:09:48Z
   Total Products: 1
 - [All Slaps & Decals](https://cardrugs.com/collections/slaps-printed-decals)
-  Updated: 2026-01-01T12:08:02Z
+  Updated: 2026-01-10T12:07:37Z
   Total Products: 269
 - [Plates & Overlays](https://cardrugs.com/collections/plates-overlays)
   Updated: 2024-07-20T01:20:12Z
@@ -230,7 +230,7 @@
 - [Slaps ONLY](https://cardrugs.com/collections/all-available-slaps): USE CODE LOCK FOR 33% OFF YOUR ORDER
   Updated: 2024-06-05T23:09:10Z
   Total Products: 2
-- [August Available Slaps](https://cardrugs.com/collections/august-sale)
+- [August Available Slaps](https://cardrugs.com/collections/august-)
   Updated: 2024-12-29T00:49:20Z
   Total Products: 4
 - [Spanish Slaps](https://cardrugs.com/collections/spanish-slaps)
@@ -315,16 +315,16 @@
   Updated: 2025-02-12T00:20:35Z
   Total Products: 1
 - [Hoodies](https://cardrugs.com/collections/hooded-sweatshirts)
-  Updated: 2026-01-01T12:08:02Z
+  Updated: 2026-01-10T12:07:37Z
   Total Products: 74
 - [Hats](https://cardrugs.com/collections/hats)
-  Updated: 2025-12-28T12:08:44Z
+  Updated: 2026-01-03T12:08:25Z
   Total Products: 41
 - [Series 31](https://cardrugs.com/collections/new-series-31)
   Updated: 2025-02-12T00:18:35Z
   Total Products: 0
 - [Tees](https://cardrugs.com/collections/tees)
-  Updated: 2025-12-26T12:07:19Z
+  Updated: 2026-01-09T12:08:29Z
   Total Products: 62
 - [Series 31 Part 2](https://cardrugs.com/collections/series-31-part-2)
   Updated: 2025-02-12T00:19:48Z
@@ -336,7 +336,7 @@
   Updated: 2025-02-12T00:20:34Z
   Total Products: 0
 - [Newest!](https://cardrugs.com/collections/featured)
-  Updated: 2026-01-01T12:08:02Z
+  Updated: 2026-01-12T12:07:24Z
   Total Products: 180
 - [Series 32 Part 3](https://cardrugs.com/collections/series-32-part-3)
   Updated: 2025-02-12T00:18:16Z
@@ -354,7 +354,7 @@
   Updated: 2025-12-27T12:10:09Z
   Total Products: 169
 - [Bags & Wallets](https://cardrugs.com/collections/bags)
-  Updated: 2026-01-02T12:08:11Z
+  Updated: 2026-01-12T12:07:24Z
   Total Products: 80
 - [Series 34](https://cardrugs.com/collections/series-34)
   Updated: 2025-02-12T00:16:07Z
@@ -378,7 +378,7 @@
   Updated: 2025-11-08T12:10:11Z
   Total Products: 25
 - [Jackets](https://cardrugs.com/collections/クラブ-jackets)
-  Updated: 2026-01-01T12:08:02Z
+  Updated: 2026-01-04T12:07:28Z
   Total Products: 14
 - [Mystery Slap Pack: Base Set](https://cardrugs.com/collections/mystery-slap-packs-1)
   Updated: 2023-11-13T18:55:51Z
@@ -405,7 +405,7 @@
   Updated: 2025-12-26T12:07:19Z
   Total Products: 60
 - [Velcro Patches](https://cardrugs.com/collections/rubber-patches)
-  Updated: 2025-12-27T12:10:09Z
+  Updated: 2026-01-12T12:07:24Z
   Total Products: 103
 - [NEW Series 40](https://cardrugs.com/collections/new-series-40)
   Updated: 2025-02-12T00:21:58Z
@@ -459,7 +459,7 @@
   Updated: 2025-02-12T00:13:56Z
   Total Products: 18
 - [June 14 2024 Release](https://cardrugs.com/collections/june-14-2024)
-  Updated: 2025-12-14T12:10:13Z
+  Updated: 2026-01-04T12:07:28Z
   Total Products: 68
 - [Series 47](https://cardrugs.com/collections/series-47)
   Updated: 2025-10-11T11:08:04Z
@@ -500,14 +500,14 @@
 - [Series 51](https://cardrugs.com/collections/series-51)
   Updated: 2025-10-11T11:08:04Z
   Total Products: 38
-- [Mystery Sale!](https://cardrugs.com/collections/mystery-sale): WELCOME TO THE MYSTERY SALE We release so many products here at Car Drugs every month we have to keep things moving quickly. We only have a set amount of space for inventory so when we run out of space, items are posted here. The oldest release we still have in stock goes for stupid cheap! Currently in Mystery Items: Summer 2025 releases All items are in 100% perfect condition we just need room for new stuff!
+- [Mystery !](https://cardrugs.com/collections/mystery-): WELCOME TO THE MYSTERY  We release so many products here at Car  every month we have to keep things moving quickly. We only have a set amount of space for inventory so when we run out of space, items are posted here. The oldest release we still have in stock goes for stupid cheap! Currently in Mystery Items: Summer 2025 releases All items are in 100% perfect condition we just need room for new stuff!
   Updated: 2025-12-26T12:07:19Z
   Total Products: 8
 - [Plushie](https://cardrugs.com/collections/plushie)
   Updated: 2025-05-03T15:45:28Z
   Total Products: 1
 - [Future Specs](https://cardrugs.com/collections/future-specs-2): ONE CLUE / ONE WEEK ウォット・イフ・ウィー・ジャスト・ショー・ゼム・ザー・アイテムズ・ウィー・アー・レリーシング・ゼン・ウィー・キャン・ゲット・クール・ブーズ・ライツ BAD AT KEEPING NEW ITEM SECRET アノイーング・パート・アバウト・アー・レリース・イズ・ノット・ビーング・エーブル・ター・ショー・エブリワン・ザー・デザインズ・ザット・アー・オールレッディー・ダン YOU PEEK IT ワン・アイテム・レビールド・イーチ・ウィーク・ティル・フィフティー・ニュー・アイテムズ・オン・エープリル・トウェンティアス MONDAYS! シー・ユー・エブリー・モンディー・ティル・ウィー・ドロップ・ザー・ニュー・アイテムズ
-  Updated: 2025-12-03T12:10:08Z
+  Updated: 2026-01-09T12:08:29Z
   Total Products: 6
 - [3D CarDrugs](https://cardrugs.com/collections/3d-cardrugs)
   Updated: 2025-04-02T03:41:35Z
@@ -525,10 +525,10 @@
   Updated: 2025-12-28T12:08:44Z
   Total Products: 50
 - [Toys](https://cardrugs.com/collections/toys)
-  Updated: 2025-12-29T12:08:04Z
+  Updated: 2026-01-12T12:07:24Z
   Total Products: 5
 - [Series 56](https://cardrugs.com/collections/series-56)
-  Updated: 2026-01-01T12:08:02Z
+  Updated: 2026-01-10T12:07:37Z
   Total Products: 42
 
 ## Store Pages
@@ -545,7 +545,7 @@
   Updated: 2024-12-25T02:47:28Z
 - [Rewards Program](https://cardrugs.com/pages/rewards-program): The Rewards Program has concluded as of Jan 2024. If you believe you have remaining points, please reach out to us promptly for assistance. We will...
   Updated: 2025-09-10T21:30:04Z
-- [7 YEAR ANNV RELEASE](https://cardrugs.com/pages/7-year-annv-release): hello you. denlin here. its crazy its been 7 years. when i think back to the beginning of car drugs i remember hoping it would succeed. hoping my i...
+- [7 YEAR ANNV RELEASE](https://cardrugs.com/pages/7-year-annv-release): hello you. denlin here. its crazy its been 7 years. when i think back to the beginning of car  i remember hoping it would succeed. hoping my i...
   Updated: 2022-08-12T23:14:20Z
 - [Mystery Slap Pack FAQ](https://cardrugs.com/pages/mystery-slap-pack-faq): Here are some Frequently Asked Questions about our MSP's Q. What will I get in a MSP? A. You will get 5 Designs from the current available set. 4 G...
   Updated: 2025-04-21T04:44:01Z
