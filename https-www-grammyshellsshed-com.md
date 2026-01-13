@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2026-01-04T00:00:34.503Z
+- Updated At: 2026-01-13T00:00:36.009Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -76,7 +76,7 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_f693e741-beba-4d35-a610-4da2969aa8b2.png?v=1757345555
   Price: $18.00 USD
 - [Decorative Gibson Plate - Mountain Country Snow Scene](https://www.grammyshellsshed.com/products/decorative-gibson-plate-mountain-country-snow-scene): Shop the Decorative Gibson Plate featuring a beautiful mountain country snow scene. Perfect for collectors and home decor.
-  Updated: 2026-01-02T02:19:04Z
+  Updated: 2026-01-06T01:50:18Z
   Vendor: Gibson
   Product Type: Decorative plate
   Availability: Available
@@ -470,7 +470,7 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
 - [Mickey Mouse Certificate of Authentication - Limited Edition](https://www.grammyshellsshed.com/products/mickey-mouse-certificate-authentication): Get Mickey Mouse  Certificate of Authentication, a limited edition item perfect for collectors. Verify authenticity and enhance your Disney memorabilia collection.
   Updated: 2026-01-02T02:19:14Z
   Vendor: Grammy Shell's Shed
-  Product Type: Certified document
+  Product Type:  document
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/mouse_edfe6ade-fd9d-4ed7-a473-5581c172872e.webp?v=1757930392
   Price: $35.00 USD
@@ -1664,7 +1664,21 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/Black_vest.webp?v=1763041495
   Price: $25.99 USD
-[List Continued](https://www.grammyshellsshed.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjU0NDQ5NjM5NTc4LCJsYXN0X3ZhbHVlIjoiODY1NDQ0OTYzOTU3OCJ9)
+- [Jumbo 32oz Reese's Peanut Butter Cups coffee mug](https://www.grammyshellsshed.com/products/jumbo-32oz-reeses-peanut-butter-cups): Oversized ceramic mug celebrating the iconic Reese's Peanut Butter Cups brand. This 32-ounce jumbo vessel accommodates generous servings of coffee, tea, or your favorite hot beverage. Features vibrant Reese's graphics and branding that appeals to collectors and fans of classic American candy. Durable ceramic construction withstands daily use and dishwasher cycles. An ideal gift for nostalgia enthusiasts and Reese's devotees seeking functional drinkware with vintage charm.
+  Updated: 2026-01-12T14:15:58Z
+  Vendor: Grammy Shell's Shed 
+  Product Type: junbo coffee mug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_b09495c8-fb61-4b85-969f-cc14dcec8026.jpg?v=1768001078
+  Price: $13.50 USD
+- [Vintage Germany 06  China 10" Rose  Serving Plate 2 Handles](https://www.grammyshellsshed.com/products/vintage-germany-06-china-10-rose-serving-plate-2-handles): Elegant vintage serving plate crafted in Germany, featuring a timeless rose motif in soft, muted tones. This 10-inch china piece showcases dual handles for easy transport and graceful presentation at the table. The delicate floral design and quality porcelain construction reflect mid-century European craftsmanship. Perfect for serving appetizers, desserts, or displaying as a standalone collectible. Excellent condition with authentic maker's mark on the reverse. A refined addition to vintage dinnerware collections or everyday entertaining.
+  Updated: 2026-01-12T14:12:52Z
+  Vendor: Grammy Shell's Shed 
+  Product Type: Small serving platter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_8446c11f-b26d-4545-a740-da985f0e681d.jpg?v=1768003209
+  Price: $24.00 USD
+[List Continued](https://www.grammyshellsshed.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzMyNzkwMTYxNTYyLCJsYXN0X3ZhbHVlIjoiODczMjc5MDE2MTU2MiJ9)
 
 ## Collections
 
@@ -1675,10 +1689,10 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Updated: 2026-01-03T18:16:07Z
   Total Products: 24
 - [PLATTERS](https://www.grammyshellsshed.com/collections/platters): Elegant platters & cake stands -to present your beautiful baking and scrumptious meals for your family and friends
-  Updated: 2026-01-03T18:05:26Z
-  Total Products: 14
+  Updated: 2026-01-10T00:24:47Z
+  Total Products: 15
 - [Extraordinary selection of Pitchers & Tea pots](https://www.grammyshellsshed.com/collections/extraordinary-selection-of-pitchers-glass-pottery)
-  Updated: 2026-01-02T02:35:07Z
+  Updated: 2026-01-11T01:14:30Z
   Total Products: 10
 
 ## Blogs
@@ -1708,6 +1722,21 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
     Author: Grammy Shell
   - [Must-Know Tips for Shopping Second Hand Online](https://www.grammyshellsshed.com/blogs/news/must-know-tips-for-shopping-second-hand-online): Must-Know Tips for Shopping Second Hand Online
     Updated: 2026-01-03T00:39:01Z
+    Author: Grammy Shell
+  - [Frequently Asked Questions About Second Hand Shopping](https://www.grammyshellsshed.com/blogs/news/frequently-asked-questions-about-second-hand-shopping): Frequently Asked Questions About Second Hand Shopping
+    Updated: 2026-01-05T03:13:21Z
+    Author: Grammy Shell
+  - [Common Mistakes in Vintage Shopping and How to Avoid Them](https://www.grammyshellsshed.com/blogs/news/common-mistakes-in-vintage-shopping-and-how-to-avoid-them): Common Mistakes in Vintage Shopping and How to Avoid Them
+    Updated: 2026-01-07T03:09:11Z
+    Author: Grammy Shell
+  - [Exploring the Environmental Benefits of Buying Second Hand](https://www.grammyshellsshed.com/blogs/news/exploring-the-environmental-benefits-of-buying-second-hand): Exploring the Environmental Benefits of Buying Second Hand
+    Updated: 2026-01-10T00:42:04Z
+    Author: Grammy Shell
+  - [Exploring the Environmental Benefits of Buying Second Hand](https://www.grammyshellsshed.com/blogs/news/exploring-the-environmental-benefits-of-buying-second-hand-1): Exploring the Environmental Benefits of Buying Second Hand
+    Updated: 2026-01-10T00:42:07Z
+    Author: Grammy Shell
+  - [Vintage vs Second Hand Knowing the Key Differences](https://www.grammyshellsshed.com/blogs/news/vintage-vs-second-hand-knowing-the-key-differences): Vintage vs Second Hand Knowing the Key Differences
+    Updated: 2026-01-12T03:40:36Z
     Author: Grammy Shell
 
 ## Store Pages
