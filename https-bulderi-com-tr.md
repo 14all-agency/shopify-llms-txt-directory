@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2026-01-04T00:00:41.765Z
+- Updated At: 2026-01-13T00:00:43.721Z
 
 ## Products
 
@@ -931,7 +931,7 @@
   Updated: 2024-09-11T22:21:43Z
 - [Deri Aksesuar Satın Al](https://bulderi.com.tr/pages/deri-aksesuar-satin-al): Deri aksesuarlar, hem şıklığı hem de dayanıklılığı ile moda dünyasında önemli bir yere sahiptir. Günlük yaşamdan özel davetlere kadar her ortamda k...
   Updated: 2024-09-11T22:21:31Z
-- [Your privacy choices](https://bulderi.com.tr/pages/data-sale-opt-out): Gizlilik Politikamızda açıklandığı üzere, bizimle ve web sitemizle olan etkileşimlerinizden çerezler ve benzer teknolojiler dahil olmak üzere çeşit...
+- [Your privacy choices](https://bulderi.com.tr/pages/data--opt-out): Gizlilik Politikamızda açıklandığı üzere, bizimle ve web sitemizle olan etkileşimlerinizden çerezler ve benzer teknolojiler dahil olmak üzere çeşit...
   Updated: 2025-08-27T21:17:00Z
 - [Teslimat & İade](https://bulderi.com.tr/pages/teslimat-iade): TeslimatTürkiye saatiyle saat 15:00'e kadar verilen siparişleriniz aynı gün veya ertesi gün kargoya verilmektedir. Yerel teslimatlar Yurtiçi Kargo ...
   Updated: 2024-08-19T20:25:25Z
