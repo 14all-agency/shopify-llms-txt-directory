@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2022-07-25T06:11:29Z
-- Updated At: 2026-01-05T00:00:22.472Z
+- Updated At: 2026-01-13T00:00:26.972Z
 
 ## Products
 
@@ -45,7 +45,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/products/image_fb65d904-9719-44d4-b01b-ede210eb6d7c.png?v=1668831873
   Price: $21.99 USD
 - [Mahogany teakwood](https://spiritscents.store/products/mahogany-teakwood): 8 oz soy blend wax , mahogany teakwood Fragrance: a perfect mix of mahogany teakwood , A great scent for men, but have no fear, this woodsy scent will be enjoyed by all CANDLE CARE: Always Trim Your Wick to 1/4" Before Candle is Lit Each Time to Avoid Any Soot Burn Candle so Wax Pool Reaches the Jar Edge Each Time to Prevent Wax Tunneling Burn Candle No More Than 4 Hours at a Time and Do Not Burn Candle with Less Than a 1/2" of Wax Remaining Keep Candle Away from Fans, Open Windows, Hot Surfaces, Children, Pets Never Leave a Burning Candle Unattended
-  Updated: 2024-11-21T19:51:33Z
+  Updated: 2026-01-12T12:36:21Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
@@ -269,7 +269,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/products/image_5d92eb4d-58cb-4834-9603-f7a717eb3c4a.heic?v=1670217120
   Price: $21.99 USD
 - [LOVERS](https://spiritscents.store/products/lovers): sweet, fruity bubble gum To activate your Car Car diffuser, follow these simple steps: Unscrew the lid and remove the inner stopper Screw the lid back on carefully and securely, ensuring no fragrance oil can leak out Hold the bottle upside down for 3-5 seconds - this allows the fragrance oil to soak into the wooden lid Turn the diffuser the right way up, adjust the string to your liking, and hang where desired (making sure the bottle does not obstruct your view of the road) Over time, if you notice the aroma weakening, you can invert the bottle again for 2-3 seconds. This will re-soak the wood and refresh the scent.
-  Updated: 2024-11-21T03:58:05Z
+  Updated: 2026-01-05T00:43:06Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
@@ -488,7 +488,7 @@
   Product Type: 
   Availability: Available
   Price: $37.99 USD
-- [Goat milk body wash](https://spiritscents.store/products/goat-milk-body-wash): Goat's milk is a nutrient-rich skincare ingredient loaded with vitamins, minerals, and fatty acids that deeply nourish and protect the skin. Naturally high in Vitamin A, it helps reduce fine lines and improve skin tone, while its anti-inflammatory properties calm irritation. The antibacterial qualities of goat’s milk also make it great for reducing acne, and the lactic acid gently exfoliates for a glowing complexion. Our goat’s milk body wash is made with pure, natural ingredients and essential oils, offering a gentle, chemical-free cleanse that leaves your skin soft, hydrated, and refreshed. Ingredients: Purified Water, Decyl Glucoside (plant-based cleanser), Cocamidopropyl Betaine (coconut-derived cleanser), Sodium Olefin Sulfonate (natural cleansing agent), Goat’s Milk, Kosher Vegetable Glycerin (skin hydrator), Sea Salt, Ethylhexylglycerin (natural skin conditioner), Phenoxyethanol (Eco-certified, paraben-free preservative), essential oils.
+- [Goat milk body wash](https://spiritscents.store/products/goat-milk-body-wash): Goat's milk is a nutrient-rich skincare ingredient loaded with vitamins, minerals, and fatty acids that deeply nourish and protect the skin. Naturally high in Vitamin A, it helps reduce fine lines and improve skin tone, while its anti-inflammatory properties calm irritation. The antibacterial qualities of goat’s milk also make it great for reducing acne, and the lactic acid gently exfoliates for a glowing complexion. Our goat’s milk body wash is made with pure, natural ingredients and essential oils, offering a gentle, chemical-free cleanse that leaves your skin soft, hydrated, and refreshed. Ingredients: Purified Water, Decyl Glucoside (plant-based cleanser), Cocamidopropyl Betaine (coconut-derived cleanser), Sodium Olefin Sulfonate (natural cleansing agent), Goat’s Milk, Kosher Vegetable Glycerin (skin hydrator), Sea Salt, Ethylhexylglycerin (natural skin conditioner), Phenoxyethanol (Eco-, paraben-free preservative), essential oils.
   Updated: 2025-10-20T06:03:55Z
   Vendor: SpiritScents
   Product Type: 
@@ -568,7 +568,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/files/IMG-1600.jpg?v=1727735709
   Price: $27.00 USD
 - [Vitamin c face serum](https://spiritscents.store/products/vitamin-c-face-serum): Elevate your skincare routine with our Vitamin C Face Oil Serum, designed to protect, rejuvenate, and brighten your skin. Infused with Vitamin C, this serum works to combat the effects of environmental damage while fading the appearance of dark spots and evening out your complexion. Its antioxidant properties help shield your skin from free radicals, supporting cell repair and overall skin health. At the heart of the formula is Tetrahexyldecyl Ascorbate (THD), an advanced, highly stable form of Vitamin C that penetrates deeply to boost collagen production. THD not only provides superior hydration, but it also helps reduce the visible signs of aging, such as fine lines and wrinkles, while improving skin’s elasticity. Additionally, this serum promotes a clearer complexion by aiding in the prevention of breakouts and supporting faster skin recovery. For smoother, brighter, and more youthful-looking skin, this Vitamin C Face Oil Serum is a must-have for any skincare regimen. 2 oz
-  Updated: 2024-10-01T18:44:15Z
+  Updated: 2026-01-08T00:13:44Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
@@ -614,7 +614,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Scented frankincense](https://spiritscents.store/products/scented-frankincense): Scented frankincense Lavender and patchouli
-  Updated: 2025-01-18T18:23:17Z
+  Updated: 2026-01-12T05:43:21Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
@@ -643,7 +643,7 @@
   Product Type: 
   Availability: Available
   Price: $25.00 USD
-- [Hair growth oil](https://spiritscents.store/products/hair-growth-oil): This nourishing hair treatment helps restore, hydrate, and strengthen your hair. With roots in traditional Miskito practices, Batana Hair Growth Oil deeply penetrates to promote healthier hair growth, add shine, and protect from environmental damage. Benefits Moisturizes, stimulates growth, adds shine, conditions, protects from damage, and strengthens hair How to Use Apply a few drops directly to the scalp and hair. Gently massage to ensure even distribution. Leave on for 30 minutes or overnight, then rinse thoroughly with a mild shampoo. For best results, use 2-3 times per week. Ingredients Batana Oil, Sunflower Oil, Black Cumin Seed Oil, Black Jamaican Castor Oil, Rosemary Essential Oil
+- [Hair growth oil](https://spiritscents.store/products/hair-growth-oil): This nourishing hair  helps restore, hydrate, and strengthen your hair. With roots in traditional Miskito practices, Batana Hair Growth Oil deeply penetrates to promote healthier hair growth, add shine, and protect from environmental damage. Benefits Moisturizes, stimulates growth, adds shine, conditions, protects from damage, and strengthens hair How to Use Apply a few drops directly to the scalp and hair. Gently massage to ensure even distribution. Leave on for 30 minutes or overnight, then rinse thoroughly with a mild shampoo. For best results, use 2-3 times per week. Ingredients Batana Oil, Sunflower Oil, Black Cumin Seed Oil, Black Jamaican Castor Oil, Rosemary Essential Oil
   Updated: 2025-06-05T03:03:39Z
   Vendor: SpiritScents
   Product Type: 
