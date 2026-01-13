@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2024-08-30T00:05:15Z
 - Contact Email: info@protec2000.com
-- Updated At: 2026-01-05T00:00:21.778Z
+- Updated At: 2026-01-13T00:00:27.554Z
 
 ## Products
 
@@ -36,13 +36,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/20230830-1886817_3_975267_140445_0.jpg?v=1725016222
   Price: 165,00 $ CAD
-- [Centrale d'alarme ulc 21,95$ par mois par celulaire](https://893f5c-e2-2.myshopify.com/products/centrale-dalarme-ulc-19-99-par-mois): A professionally installed and monitored commercial security system is your best protection against the risk of loss caused by an intrusion. In a matter of seconds of detecting unauthorized entry, the security system alerts the monitoring station of an alarm. The signal is relayed via the telephone line, cellular transmitter, internet, or dedicated circuit to the monitoring station. Some systems use two of these technologies to achieve redundant reporting as recommended ULC (Underwriters’ Laboratories of Canada). After an alarm has been detected by an intrusion device, such as a motion detector, door sensor, personal safety device, glass break detector, or carbon monoxide detector, the monitoring station dispatches the correct responders or agency, and all activity is recorded for later review
-  Updated: 2026-01-01T01:03:58Z
+- [Centrale d'alarme ulc 20.75 par mois par celulaire](https://893f5c-e2-2.myshopify.com/products/centrale-dalarme-ulc-19-99-par-mois): A Le système de sécurité commerciale installé et surveillé de manière professionnelle est votre meilleure protection contre le risque de perte causée par une intrusion. En quelques secondes après la détection d'une entrée non autorisée, le système de sécurité alerte la station de surveillance d'une alarme. Le signal est relayé via la ligne téléphonique, l'émetteur cellulaire, Internet ou un circuit dédié à la station de surveillance. Certains systèmes utilisent deux de ces technologies pour obtenir des rapports redondants, comme recommandé ULC (laboratoires des souscripteurs du Canada). Après qu'une alarme ait été détectée par un dispositif d'intrusion, tel qu'un détecteur de mouvement, un capteur de porte, un dispositif de sécurité personnelle, un détecteur de bris de verre ou un détecteur de monoxyde de carbone, la station de surveillance envoie les intervenants ou l'agence corrects, et toute l'activité est enregistrée pour un examen ultérieur
+  Updated: 2026-01-05T14:24:28Z
   Vendor: Alarme protec 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/2024-02-21.jpg?v=1725017701
-  Price: 263,40 $ CAD
+  Price: 20,75 $ CAD
 - [Kit d'alarme dsc neo-ALARME-NEO](https://893f5c-e2-2.myshopify.com/products/kit-dalarme-dsc): KIT DALARME DSC NEO -   ALARME- NEO-DSC
   Updated: 2025-10-03T16:34:49Z
   Vendor: Alarme protec 2000
@@ -65,12 +65,12 @@
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/IMG_0822.png?v=1731249887
   Price: 295,00 $ CAD
 - [Batterie 12 volt 7 ampere   ,  batterie pour alarme , batterie pour systeme dalarme ,](https://893f5c-e2-2.myshopify.com/products/batterie-12-volt-5-ampere): Batterie  pour systeme d'alarme a remplacer au 4 ans
-  Updated: 2024-11-10T14:19:33Z
+  Updated: 2026-01-05T02:20:47Z
   Vendor: Alarme protec 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/batterie-plomb-agm-1270-f1-12v-7-ah.jpg?v=1726572564
-  Price: 19,95 $ CAD
+  Price: 29,95 $ CAD
 - [Detecteur de fumee a batterie](https://893f5c-e2-2.myshopify.com/products/detecteur-de-fumee-a-batterie): Détecteur de fumée. • Possède un cran de sécurité et un bouton Hush • Alimenté par des piles lithium scellées pour une durée de 10 ans • Bouton de vérification pour chaque système.
   Updated: 2024-12-21T21:12:58Z
   Vendor: Alarme protec 2000
@@ -92,13 +92,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/074-0205-001_1.webp?v=1726573208
   Price: 0,00 $ CAD
-- [cell.  LE4050M](https://893f5c-e2-2.myshopify.com/products/cell-le4050m): nouveau produit dsc
-  Updated: 2024-11-10T14:19:34Z
+- [Dsc LE4050M  5g. Neo et power série](https://893f5c-e2-2.myshopify.com/products/cell-le4050m): nouveau produit dsc gsm 5g pour système neo et power serie
+  Updated: 2026-01-05T13:55:29Z
   Vendor: Alarme protec 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/IMG_0809.jpg?v=1729681715
-  Price: 189,95 $ CAD
+  Price: 180,00 $ CAD
 - [crayon protec 2000](https://893f5c-e2-2.myshopify.com/products/crayon-protec-2000): crayon protec 2000
   Updated: 2025-08-01T03:05:42Z
   Vendor: Alarme protec 2000
@@ -112,6 +112,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/IMG_0889.jpg?v=1743957708
   Price: 249,95 $ CAD
+- [Gsm 5g  cellulaire pour Neo et power série.   special 2026](https://893f5c-e2-2.myshopify.com/products/gsm-5g-cellulaire-pour-neo-et-power-serie-special-2026): Installation. GSM 5g pour système d’alarme Power série et Neo nous all-on sur place pour installer gsm cellulaire sur votre système existant en place pour relier à notre centrale ulc 24 heure sur 24. No, no no no no no no method à 20,75 par mois pas de contras 180,00. GSM.5g. avec application. Armemen et désarment à distance et changer les code à distance. 89,95 installation Et programmation Et 20,75 par mois special 2026 Transport incluse pour relier votre système existant 180,00 + 89;95 + 20,75 par mois pas de contras transport 69;95 inclus
+  Updated: 2026-01-05T12:11:27Z
+  Vendor: ALARME PROTEC 2000 ET PYRONITECH
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/IMG_0809.jpg?v=1729681715
+  Price: 269,95 $ CAD
 
 ## Collections
 
@@ -125,7 +132,7 @@
   Updated: 2024-11-10T14:19:31Z
   Total Products: 3
 - [SYSTEME DALARME DSC](https://893f5c-e2-2.myshopify.com/collections/alarme)
-  Updated: 2024-11-10T14:19:31Z
+  Updated: 2026-01-05T02:24:12Z
   Total Products: 4
 - [Incendie](https://893f5c-e2-2.myshopify.com/collections/incendie)
   Updated: 2024-11-10T14:19:32Z
