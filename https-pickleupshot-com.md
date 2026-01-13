@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-01-05T00:00:33.546Z
+- Updated At: 2026-01-13T00:00:34.916Z
 
 ## Products
 
-- [PickleUp Pro Shot - Pineapple](https://pickleupshot.com/products/pro-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret weapon that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2025-12-30T14:54:53Z
+- [PickleUp Pro Shot - Pineapple](https://pickleupshot.com/products/pro-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
+  Updated: 2026-01-12T23:01:37Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -28,8 +28,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PUP_PIN_36_Pack_Informed_Sport.png?v=1765376354
     Price: £122.40 GBP
-- [PickleUp Pro Pineapple - Sample Shot](https://pickleupshot.com/products/pickleup-pro-pineapple-sample-shot): Try Out The Ultimate Cramp-Crushing Performance Shot. Want to check out how it tastes? Worried it won't work? Try out a single shot and see for yourself. Try The Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret weapon that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2025-12-23T11:53:41Z
+- [PickleUp Pro Pineapple - Sample Shot](https://pickleupshot.com/products/pickleup-pro-pineapple-sample-shot): Try Out The Ultimate Cramp-Crushing Performance Shot. Want to check out how it tastes? Worried it won't work? Try out a single shot and see for yourself. Try The Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
+  Updated: 2026-01-12T11:01:06Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -39,10 +39,10 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2025-12-30T12:23:37Z
+  Updated: 2026-01-10T12:21:32Z
   Total Products: 3
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2025-12-30T12:23:37Z
+  Updated: 2026-01-10T12:21:32Z
   Total Products: 3
 
 ## Blogs
@@ -51,7 +51,7 @@
   - [Why Do I Cramp?](https://pickleupshot.com/blogs/news/why-do-i-cramp)
     Updated: 2025-09-12T18:32:29Z
     Author: Oliver Donohue
-  - [The Secret Weapon AThe Secret Weapon Against Cramps: Why Pickle Juice Worksgainst Cramps: Why Pickle Juice Works](https://pickleupshot.com/blogs/news/the-secret-weapon-against-cramps-why-pickle-juice-works): The Secret Weapon AThe Secret Weapon Against Cramps: Why Pickle Juice Worksgainst Cramps: Why Pickle Juice Works
+  - [The Secret  AThe Secret  Against Cramps: Why Pickle Juice Worksgainst Cramps: Why Pickle Juice Works](https://pickleupshot.com/blogs/news/the-secret--against-cramps-why-pickle-juice-works): The Secret  AThe Secret  Against Cramps: Why Pickle Juice Worksgainst Cramps: Why Pickle Juice Works
     Updated: 2025-09-12T17:15:35Z
     Author: Oliver Donohue
   - [Beyond Sports Drinks: Why Pickle Juice Outperforms Traditional Hydration](https://pickleupshot.com/blogs/news/beyond-sports-drinks-why-pickle-juice-outperforms-traditional-hydration)
@@ -72,7 +72,7 @@
   - [Pickle Juice in the UK: Why It’s Time for a Mindset Shift](https://pickleupshot.com/blogs/news/pickle-juice-in-the-uk-why-it-s-time-for-a-mindset-shift)
     Updated: 2025-11-03T00:00:03Z
     Author: Oliver Donohue
-  - [Prevention vs. Treatment: Strategic Pickle Juice Usage for Peak Performance](https://pickleupshot.com/blogs/news/prevention-vs-treatment-strategic-pickle-juice-usage-for-peak-performance)
+  - [Prevention vs. : Strategic Pickle Juice Usage for Peak Performance](https://pickleupshot.com/blogs/news/prevention-vs--strategic-pickle-juice-usage-for-peak-performance)
     Updated: 2025-10-19T23:00:03Z
     Author: Oliver Donohue
   - [How Elite Athletes Use Pickle Juice Mid Game](https://pickleupshot.com/blogs/news/how-elite-athletes-use-pickle-juice-mid-game)
