@@ -6,7 +6,7 @@
 - Timezone: Europe/Vilnius
 - Created At: 2025-07-21T14:22:28Z
 - Contact Email: shunna913@gmail.com
-- Updated At: 2026-01-07T00:00:38.034Z
+- Updated At: 2026-01-14T00:00:39.756Z
 
 ## Products
 
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0950/6793/0950/files/novatox-100-units-brunodermalfillercom-752072_6b613978-d75f-42a9-88b5-4407633f1d11.webp?v=1763821363
   Price: €34.78 EUR
 - [ONETOX 100U](https://klumari.com/products/onetox-100u): ONE TOX® is a precision-formulated injectable using Clostridium botulinum toxin type A to smooth moderate-to-severe dynamic wrinkles and relieve targeted muscle hyperactivity. Product Profile: Active Ingredient: 100 U Clostridium botulinum toxin type A per vial Excipients: Human serum albumin (0.5 mg), sodium chloride (0.9 mg) Presentation: Lyophilized white-to-light yellow powder in a clear vial Reconstitution: Add sterile, preservative-free 0.9% saline; swirl gently; use within 24 hours Storage: Refrigerate at 2–8 °C; do not freeze Mechanism of Action:ONE TOX® blocks acetylcholine release at neuromuscular junctions, causing localized muscle relaxation. This softens expression lines for aesthetics and reduces muscle spasms therapeutically. Indications: Aesthetic: Glabellar lines, forehead wrinkles, crow’s feet, perioral lines, masseter contouring, eyebrow lifting, platysmal band smoothing Therapeutic: Hyperhidrosis, bruxism, muscle spasticity (e.g., cerebral palsy), blepharospasm, off-label chronic migraine relief Dosing & Administration: Reconstitution ratios: 1 mL saline → 100 U/mL; 2 mL saline → 50 U/mL Injection: Intramuscular per clinical guidelines; dose adjusted by  area Onset: 2–5 days Duration: 4–6 months (varies by individual and site) Safety & Precautions: Administer only by trained professionals Common reactions: Injection-site pain, swelling, bruising, headache, transient ptosis, localized weakness Rare but serious: Dysphagia, respiratory compromise—monitor high-risk patients Shelf Life:Three years from manufacture. Maintain continuous cold-chain refrigeration to preserve potency.
-  Updated: 2025-11-23T02:23:03Z
+  Updated: 2026-01-08T21:41:11Z
   Vendor: klumari
   Product Type: BOTULINUM TOXIN
   Availability: Available
@@ -703,6 +703,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/6793/0950/files/MonalisaMild.webp?v=1767639665
   Price: €38.89 EUR
+- [(11) COSRX Advanced Snail 92 All in one Cream (100ml)](https://klumari.com/products/11-cosrx-advanced-snail-92-all-in-one-cream-100ml): COSRX Advanced Snail 92 All In One Cream The COSRX Advanced Snail 92 All In One Cream is an intensive moisturizer formulated with 92% snail secretion filtrate, widely recognized for its repairing, soothing, and deeply hydrating benefits. This lightweight gel-cream absorbs quickly into the skin to help restore damage, improve elasticity, and support a healthy, balanced complexion. Suitable for normal, combination, oily, and sensitive skin, it delivers lasting moisture without clogging pores or causing irritation. Key FeaturesContains 92% snail mucin to help repair skin, replenish moisture, and soothe irritation, naturally rich in hyaluronic acid, peptides, and proteoglycans.Formulated with effective humectants such as betaine, sodium hyaluronate (1,000 ppm), and butylene glycol to lock in moisture across multiple skin layers.Includes calming ingredients like allantoin, panthenol, and adenosine to support skin barrier recovery and comfort.Fragrance-free and essential oil-free for gentle daily use without irritation.Light gel-cream texture absorbs fast and leaves no greasy residue, making it suitable for all skin types. Primary AdvantagesDeep skin repair and anti-aging support by improving elasticity, smoothing fine lines, and reducing the appearance of acne scars and dark spots.Supports post-acne recovery by calming irritated and sensitized skin with anti-inflammatory and antimicrobial properties.Comfortable for daily use, morning and night, without heaviness or buildup.Provides long-lasting hydration to reduce dryness, tightness, and dehydration lines.Helps even out skin tone, reduce redness, and promote a healthy, radiant glow. Core IngredientsSnail Secretion Filtrate (92%): A powerful natural complex containing glycoproteins, hyaluronic acid, peptides, elastin, collagen, and minerals that help repair damaged skin, enhance elasticity, and support healing.Sodium Hyaluronate (1,000 ppm): A deeply hydrating humectant capable of holding up to 1,000 times its weight in water, delivering moisture deep into the skin and softening fine lines.Betaine: A natural moisture-binding ingredient that helps keep skin hydrated and plump.Allantoin & Panthenol: Soothe irritation, strengthen the skin barrier, and reduce redness and sensitivity.Adenosine: Helps improve firmness, smooth wrinkles, and support anti-aging benefits.Cetearyl Olivate & Sorbitan Olivate: Olive-derived emulsifiers that enhance moisture retention and improve skin texture. Important NotesSkin Type Compatibility: Suitable for most skin types including normal, dry, combination, and sensitive. Very oily or acne-prone skin may prefer lighter application.Sun Protection Required: This product does not contain SPF; sunscreen should be used during daytime routines.Storage Advice: Keep tightly closed and store away from heat and direct sunlight.Patch Test Recommended: Especially for those sensitive to snail-based ingredients.Reef-Safe & Cruelty-Free: Snail mucin is ethically sourced without harming snails and formulated without parabens, sulfates, or harsh chemicals.
+  Updated: 2026-01-07T19:19:56Z
+  Vendor: klumari
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0950/6793/0950/files/322f4cdf-3f25-47bb-8d7f-a407398836ce.jpg?v=1767812995
+  Price: €21.99 EUR
+- [Holika Holika Gold Kiwi Vita C+ Brightening Cream](https://klumari.com/products/holika-holika-gold-kiwi-vita-c-brightening-cream): DescriptionEnjoy a refreshing burst of citrus-inspired hydration with this lightweight gel-cream infused with multivitamin capsules. Its silky, fast-absorbing texture helps hydrate, soften, and brighten the appearance of the skin while delivering long-lasting moisture, leaving the complexion looking fresh and radiant. The formula is centered around golden kiwi fruit water, golden kiwi extract, and kiwi seed oil naturally rich in fruit acids and antioxidants that help nourish the skin and support a healthy, glowing look. Niacinamide is also included to help promote a more even-looking skin tone and maintain a balanced moisture barrier. Additional brightening care comes from encapsulated vitamin C derived from ascorbic acid and enhanced with bioflavonoids. These ingredients help improve skin radiance, support a more even complexion, and provide antioxidant protection for a fresh, revitalized appearance. Soothing and moisturizing ingredients such as allantoin, panthenol, and betaine help keep the skin feeling calm and comfortable. Lightweight hydrating agents like squalane and sodium hyaluronate deliver lasting moisture, leaving the skin soft, smooth, and refreshed throughout the day. The creamy, lightweight texture contains tiny capsules that melt upon contact with skin warmth, creating a soft, silky finish without heaviness. Suitable for all skin types, particularly those with dull or uneven-looking skin. Size: 50 ml InstructionsAfter applying your serum, apply an appropriate amount of cream evenly to the face. Gently massage until the vitamin C capsules dissolve and the product is fully absorbed.For an overnight hydration boost, apply a more generous layer in the evening. The cream can also be used as a sleeping mask by adding two to three extra layers. WarningsIf abnormal symptoms such as redness, swelling, or itching occur during or after use, especially following sun exposure, discontinue use and consult a specialist.For external use only.Keep out of reach of children.Do not apply to damaged or irritated skin with open wounds.Avoid contact with eyes.
+  Updated: 2026-01-13T01:37:57Z
+  Vendor: klumari
+  Product Type: COSMETICS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0950/6793/0950/files/7b0bf5bc-56d4-4e9e-a126-bcf3330f5437.jpg?v=1768267366
+  Price: €35.95 EUR
+[List Continued](https://klumari.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2NzgwNjU1MDM0MiwibGFzdF92YWx1ZSI6IjE1MzY3ODA2NTUwMzQyIn0=)
 
 ## Collections
 
@@ -713,14 +728,14 @@
   Updated: 2025-12-18T12:37:23Z
   Total Products: 10
 - [BOTULINUM TOXIN - Unlock Your Radiance](https://klumari.com/collections/botulinum-toxin): Experience the transformative power of BOTULINUM TOXIN for a youthful glow. Join our satisfied customers today!
-  Updated: 2025-11-24T15:33:52Z
+  Updated: 2026-01-09T12:31:28Z
   Total Products: 36
 - [COLLAGEN STIMULATOR - Unlock Your Skin's Potential](https://klumari.com/collections/collagen-stimulator): COLLAGEN STIMULATOR boosts collagen for firmer skin and a youthful glow!
   Updated: 2025-11-24T15:33:52Z
   Total Products: 10
 - [COSMETICS / PERSONAL CARE - Elevate Your Beauty](https://klumari.com/collections/cosmetics-personal-care): Explore our COSMETICS / PERSONAL CARE collection to enhance your glow with top-rated products for every beauty routine.
-  Updated: 2025-11-24T15:33:52Z
-  Total Products: 18
+  Updated: 2026-01-07T19:19:57Z
+  Total Products: 19
 - [HAIR  - Transform Your Hair Today!](https://klumari.com/collections/hair-): Discover our exclusive HAIR  collection for luscious, healthy locks packed with revitalizing and nourishing formulas.
   Updated: 2025-11-24T15:33:50Z
   Total Products: 5
@@ -819,6 +834,15 @@
     Author: Klumari
   - [Innovative Anti-Aging Skincare with HANTOXIN 100 UNITS Embrace Dermal Fillers and Korean Beauty Essentials](https://klumari.com/blogs/news/innovative-anti-aging-skincare-with-hantoxin-100-units-embrace-dermal-fillers-and-korean-beauty-essentials): Innovative Anti-Aging Skincare with HANTOXIN 100 UNITS Embrace Dermal Fillers and Korean Beauty Essentials
     Updated: 2026-01-06T01:40:41Z
+    Author: Klumari
+  - [Unveil Radiant Youth with Elaxen Skin Care An Insight into Anti-Aging Korean Skincare and Professional Beauty Solutions](https://klumari.com/blogs/news/unveil-radiant-youth-with-elaxen-skin-care-an-insight-into-anti-aging-korean-skincare-and-professional-beauty-solutions): Unveil Radiant Youth with Elaxen Skin Care An Insight into Anti-Aging Korean Skincare and Professional Beauty Solutions
+    Updated: 2026-01-08T01:34:13Z
+    Author: Klumari
+  - [The Science of LIZTOX 200 UNITS: Transforming Anti-Aging Skincare with -Grade Cosmetics and Korean Facial Rejuvenation Products](https://klumari.com/blogs/news/the-science-of-liztox-200-units-transforming-anti-aging-skincare-with--grade-cosmetics-and-korean-facial-rejuvenation-products): The Science of LIZTOX 200 UNITS: Transforming Anti-Aging Skincare with -Grade Cosmetics and Korean Facial Rejuvenation Products
+    Updated: 2026-01-11T00:36:19Z
+    Author: Klumari
+  - [Discover BOTANIX EXO for Dermatologist- Anti-Aging Skincare and Wrinkle Reduction](https://klumari.com/blogs/news/discover-botanix-exo-for-dermatologist--anti-aging-skincare-and-wrinkle-reduction): Discover BOTANIX EXO for Dermatologist- Anti-Aging Skincare and Wrinkle Reduction
+    Updated: 2026-01-13T02:05:08Z
     Author: Klumari
 
 ## Store Pages
