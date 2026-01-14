@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2026-01-05T00:00:40.477Z
+- Updated At: 2026-01-14T00:00:39.989Z
 
 ## Products
 
@@ -964,7 +964,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/psalm-23-3-vintage-sunset-tee-he-restores-my-soul-navy-xs-t-shirt-652.webp?v=1764897698
     Price: $33.62 USD
-- [Share Your Light Christian T-Shirt](https://faithbloom.co/products/share-your-light-christian-t-shirt): Looking for a way to express your faith and inspire others? Our "Let Your Light Shine" T-shirt is the perfect choice. This impactful design serves as a daily reminder of your purpose to shine brightly, as taught in Matthew 5:16. Beyond its meaningful message, this shirt offers exceptional comfort and a stylish fit, making it a valuable addition to any wardrobe. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 This unisex ultra cotton tee is a classic. Quality cotton construction means that designs are sure to shine. The shoulders are tapped for a good upper-body fit. There are no side seams, ensuring a clean, unbroken flow. The collar has ribbed knitting for improved elasticity. The materials that went into this product are sustainably sourced and economically friendly. .: This unisex tee is an excellent, all-season wear thanks to its medium fabric (6.0 oz/yd² (203 g/m²)). Made with 100% US cotton, this tee guarantees long-lasting comfort and style. .: The classic fit along with the crew neckline make it a highly versatile choice for casual and semi-formal occasions as its neat, clean looks can blend in any setting and are perfect for accessorizing..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance..: The tear-away label minimizes skin irritations and provides a scratch-free wearing experience..: Fabric Blends: Ash Grey - 99% cotton, 1% polyester, Heather Colors & Safety Colors - 50% cotton, 50% polyester, Antique Colors & Sport Grey - 90% cotton, 10% polyester
+- [Share Your Light Christian T-Shirt](https://faithbloom.co/products/share-your-light-christian-t-shirt): Looking for a way to express your faith and inspire others? Our "Let Your Light Shine" T-shirt is the perfect choice. This impactful design serves as a daily reminder of your purpose to shine brightly, as taught in Matthew 5:16. Beyond its meaningful message, this shirt offers exceptional comfort and a stylish fit, making it a valuable addition to any wardrobe. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 This unisex ultra cotton tee is a classic. Quality cotton construction means that designs are sure to shine. The shoulders are tapped for a good upper-body fit. There are no side seams, ensuring a clean, unbroken flow. The collar has ribbed knitting for improved elasticity. The materials that went into this product are sustainably sourced and economically friendly. .: This unisex tee is an excellent, all-season wear thanks to its medium fabric (6.0 oz/yd² (203 g/m²)). Made with 100% US cotton, this tee guarantees long-lasting comfort and style. .: The classic fit along with the crew neckline make it a highly versatile choice for casual and semi-formal occasions as its neat, clean looks can blend in any setting and are perfect for accessorizing..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is  by Oeko-Tex for safety and quality assurance..: The tear-away label minimizes skin irritations and provides a scratch-free wearing experience..: Fabric Blends: Ash Grey - 99% cotton, 1% polyester, Heather Colors & Safety Colors - 50% cotton, 50% polyester, Antique Colors & Sport Grey - 90% cotton, 10% polyester
   Updated: 2025-12-05T12:50:03Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -1788,81 +1788,81 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/jesus-took-the-wheel-tee-black-s-t-shirt-107.webp?v=1753831092
     Price: $21.95 USD
-- [Faithful Vatican Certified Unisex Tee](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee): Show off your original certification with this fun and faithful tee featuring a 'Vatican Certified' stamp, complete with a dove and baptismal drops, proudly stating 'Since Baptism.' A clever way to express your lifelong faith journey, perfect for those who want to showcase their religious beliefs. Ideal for religious holidays, baptisms, confirmations, and everyday wear. S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 26.50 28.50 30.50 31.50 32.50 33.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 Product features- Neck and shoulder tape for stability and preventing stretching- Double-needle sleeve and bottom hems for durability- Ribbed collar for a well-fitted tee- Variety of fiber compositions for different colors- DTF inner neck labels for high-quality printsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
+- [Faithful Vatican  Unisex Tee](https://faithbloom.co/products/faithful-vatican--unisex-tee): Show off your original certification with this fun and faithful tee featuring a 'Vatican ' stamp, complete with a dove and baptismal drops, proudly stating 'Since Baptism.' A clever way to express your lifelong faith journey, perfect for those who want to showcase their religious beliefs. Ideal for religious holidays, baptisms, confirmations, and everyday wear. S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 26.50 28.50 30.50 31.50 32.50 33.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 Product features- Neck and shoulder tape for stability and preventing stretching- Double-needle sleeve and bottom hems for durability- Ribbed collar for a well-fitted tee- Variety of fiber compositions for different colors- DTF inner neck labels for high-quality printsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-09-05T11:37:09Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
-  - [White / S](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949277775)
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+  - [White / S](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949277775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
     Price: $17.88 USD
-  - [Sand / S](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949310543)
+  - [Sand / S](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949310543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
     Price: $17.88 USD
-  - [Cream / S](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949343311)
+  - [Cream / S](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949343311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
     Price: $17.88 USD
-  - [White / M](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949376079)
+  - [White / M](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949376079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
     Price: $17.88 USD
-  - [Sand / M](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949408847)
+  - [Sand / M](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949408847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
     Price: $17.88 USD
-  - [Cream / M](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949441615)
+  - [Cream / M](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949441615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
     Price: $17.88 USD
-  - [White / L](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949474383)
+  - [White / L](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949474383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
     Price: $17.88 USD
-  - [Sand / L](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949507151)
+  - [Sand / L](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949507151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
     Price: $17.88 USD
-  - [Cream / L](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949539919)
+  - [Cream / L](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949539919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
     Price: $17.88 USD
-  - [White / XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949572687)
+  - [White / XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949572687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
     Price: $17.88 USD
-  - [Sand / XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949605455)
+  - [Sand / XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949605455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
     Price: $17.88 USD
-  - [Cream / XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949638223)
+  - [Cream / XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949638223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
     Price: $17.88 USD
-  - [White / 2XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949670991)
+  - [White / 2XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949670991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
     Price: $20.78 USD
-  - [Sand / 2XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949703759)
+  - [Sand / 2XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949703759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
     Price: $20.78 USD
-  - [Cream / 2XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949736527)
+  - [Cream / 2XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949736527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-cream-s-t-shirt-276.webp?v=1753831111
     Price: $20.78 USD
-  - [White / 3XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43410442747983)
+  - [White / 3XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43410442747983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-white-s-t-shirt-488.webp?v=1753831104
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-white-s-t-shirt-488.webp?v=1753831104
     Price: $21.95 USD
-  - [Sand / 3XL](https://faithbloom.co/products/faithful-vatican-certified-unisex-tee?variant=43358949769295)
+  - [Sand / 3XL](https://faithbloom.co/products/faithful-vatican--unisex-tee?variant=43358949769295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican-certified-unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/faithful-vatican--unisex-tee-sand-s-t-shirt-755.webp?v=1753831108
     Price: $21.95 USD
-- [Straight Outta Confession Shirt](https://faithbloom.co/products/straight-outta-confession-shirt): No filter needed when you're "Straight Outta Confession, Feeling 100% Forgiven." This tee is for everyone who appreciates a fresh start and the absolute liberation of the Sacrament of Reconciliation. It's bold, it's honest, and it perfectly sums up that feeling of a completely clean slate. Rock your renewed spirit! S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 Introducing our Unisex Ultra Cotton Tee, a versatile addition to any wardrobe. This tee offers a cozy blend of style and comfort, perfect for casual everyday wear. The lightweight yet durable fabric feels great against the skin, making it an ideal choice for relaxing at home or stepping out with friends. With its classic fit and clean design, this shirt looks great on everyone, effortlessly pairing with jeans, shorts, or even layered under a jacket. It's perfect for individuals who appreciate quality and sustainability, as it is made from ethically sourced cotton. Celebrate everyday occasions, from casual gatherings to festive holidays, by wearing this stylish tee. It's also a thoughtful gift for friends and family, allowing them to express themselves with a sense of comfort and style!Product features- Knitted in one piece to reduce fabric waste and enhance appearance- Highly elastic, seam-free ribbed collar retains its shape- Shoulder tape stabilizes seams, preventing stretching- Environmentally-friendly cotton blend for a vintage feel and durability- Ethically sourced, certified safe, and comfortable for everyday wearCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Do not tumble dry- Do not iron- Do not dryclean
+- [Straight Outta Confession Shirt](https://faithbloom.co/products/straight-outta-confession-shirt): No filter needed when you're "Straight Outta Confession, Feeling 100% Forgiven." This tee is for everyone who appreciates a fresh start and the absolute liberation of the Sacrament of Reconciliation. It's bold, it's honest, and it perfectly sums up that feeling of a completely clean slate. Rock your renewed spirit! S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 Introducing our Unisex Ultra Cotton Tee, a versatile addition to any wardrobe. This tee offers a cozy blend of style and comfort, perfect for casual everyday wear. The lightweight yet durable fabric feels great against the skin, making it an ideal choice for relaxing at home or stepping out with friends. With its classic fit and clean design, this shirt looks great on everyone, effortlessly pairing with jeans, shorts, or even layered under a jacket. It's perfect for individuals who appreciate quality and sustainability, as it is made from ethically sourced cotton. Celebrate everyday occasions, from casual gatherings to festive holidays, by wearing this stylish tee. It's also a thoughtful gift for friends and family, allowing them to express themselves with a sense of comfort and style!Product features- Knitted in one piece to reduce fabric waste and enhance appearance- Highly elastic, seam-free ribbed collar retains its shape- Shoulder tape stabilizes seams, preventing stretching- Environmentally-friendly cotton blend for a vintage feel and durability- Ethically sourced,  safe, and comfortable for everyday wearCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Do not tumble dry- Do not iron- Do not dryclean
   Updated: 2025-07-29T23:21:56Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -2886,7 +2886,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-workout-t-shirt-for-fitness-enthusiasts-gym-gift-humor-tee-leg-day-unisex-cotton-top-ash-s-899.webp?v=1765502009
     Price: $16.62 USD
-- [Powered by Grace & Iced Coffee T-Shirt](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video): This soft, lightweight tee carries a small coffeehouse hymn: bold, circular badge art that layers a white cross, flowing script ‘Grace,’ and an illustrated iced coffee cup. Wear it as a quiet proclamation—faith lived out in everyday rhythms like the mid-morning caffeine run or slow conversations over ice and sunlight. The charcoal center and warm tan ring give it a lived-in, vintage café feel. It sits neatly under a jacket for church socials, pairs with denim for weekend coffee runs, and reads like a gentle, modern lyrical statement for those who blend faith and daily ritual.Product features- 100% ring-spun cotton (lightweight 4.5 oz/yd²) — soft, smooth surface ideal for printing- Tubular knit (no side seams) for cleaner drape and reduced fabric waste- Ribbed collar with shoulder tape — holds shape and prevents stretching- Pearlized tear-away label for comfort; DTF sleeve or neck label options with DTG body prints- Oeko-Tex certified, ethically sourced cotton; meets EU safety and compliance standards (2-year warranty)Care instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
+- [Powered by Grace & Iced Coffee T-Shirt](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video): This soft, lightweight tee carries a small coffeehouse hymn: bold, circular badge art that layers a white cross, flowing script ‘Grace,’ and an illustrated iced coffee cup. Wear it as a quiet proclamation—faith lived out in everyday rhythms like the mid-morning caffeine run or slow conversations over ice and sunlight. The charcoal center and warm tan ring give it a lived-in, vintage café feel. It sits neatly under a jacket for church socials, pairs with denim for weekend coffee runs, and reads like a gentle, modern lyrical statement for those who blend faith and daily ritual.Product features- 100% ring-spun cotton (lightweight 4.5 oz/yd²) — soft, smooth surface ideal for printing- Tubular knit (no side seams) for cleaner drape and reduced fabric waste- Ribbed collar with shoulder tape — holds shape and prevents stretching- Pearlized tear-away label for comfort; DTF sleeve or neck label options with DTG body prints- Oeko-Tex , ethically sourced cotton; meets EU safety and compliance standards (2-year warranty)Care instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
   Updated: 2025-12-19T12:34:59Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -3092,7 +3092,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/powered-by-grace-iced-coffee-t-shirt-xs-charcoal-532.webp?v=1766105513
     Price: $16.07 USD
-- [Prayer Tee — "The Original Wireless Connection" Graphic T-Shirt](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): A bold black tee that speaks softly and clearly. The arched “PRAYER” varsity lettering and engraved praying hands sit like a relic updated for the digital age. Subtle radiating signal arcs behind the hands reframe the image — faith as connection, patience as reception. Wear it to slow down in noisy spaces, to start quiet conversations at coffee shops or community events, or to carry a small reminder of stillness through a hectic commute. The distressed texture and high-contrast print give it an authentic, lived-in look that pairs with denim, a worn jacket, or a hoodie layered over on cooler evenings. It’s made to feel comfortable against the skin while broadcasting a small, thoughtful message: faith is communication, and sometimes you only need to tune in.Product features- 100% Airlume combed ring-spun cotton — lightweight, breathable 4.2 oz fabric- Side seams and shoulder tape for lasting shape and stable fit- Ribbed knit collar with seam and tear-away label for comfort- DTF/DTG print methods for crisp, detailed sleeve and neck graphics- REACH certified; retail fit sourced from humane, certified manufacturing (Bella+Canvas)Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
+- [Prayer Tee — "The Original Wireless Connection" Graphic T-Shirt](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): A bold black tee that speaks softly and clearly. The arched “PRAYER” varsity lettering and engraved praying hands sit like a relic updated for the digital age. Subtle radiating signal arcs behind the hands reframe the image — faith as connection, patience as reception. Wear it to slow down in noisy spaces, to start quiet conversations at coffee shops or community events, or to carry a small reminder of stillness through a hectic commute. The distressed texture and high-contrast print give it an authentic, lived-in look that pairs with denim, a worn jacket, or a hoodie layered over on cooler evenings. It’s made to feel comfortable against the skin while broadcasting a small, thoughtful message: faith is communication, and sometimes you only need to tune in.Product features- 100% Airlume combed ring-spun cotton — lightweight, breathable 4.2 oz fabric- Side seams and shoulder tape for lasting shape and stable fit- Ribbed knit collar with seam and tear-away label for comfort- DTF/DTG print methods for crisp, detailed sleeve and neck graphics- REACH ; retail fit sourced from humane,  manufacturing (Bella+Canvas)Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
   Updated: 2025-12-23T06:08:29Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -3298,125 +3298,125 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/3526673757579718753_2048.jpg?v=1766426923
     Price: $18.50 USD
-- [Eternally Sealed Long Sleeve Shirt — “by the Spirit” Scripture Design](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear): Clean lines. Quiet confidence. This long-sleeve feels like a thoughtful pause in a loud world — lightweight and athletic, it moves with you and keeps you cool while a single tiny red wax-seal dot speaks volumes. The bold “ETERNALLY SEALED” headline sits tall and steady across the chest, softened by the elegant “by the Spirit” script and a subtle scripture line beneath. Wear it on morning runs, early church gatherings, or while volunteering; it reads as refined rather than flashy, like someone who values clarity and intention. The fabric is whisper-light and fast-drying, offering UPF 30+ protection when the sun is high. It’s for people who want performance without shouting — understated symbolism, purposeful design, and everyday comfort that stays put.Product features- 100% moisture-wicking polyester — stays dry and cool- Extra-light 3.5 oz fabric for barely-there comfort- DTF print for sharp, durable graphics- UPF 30+ sun protection for outdoor wear- Athletic fit with durable, shape-retaining polyesterCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
+- [Eternally Sealed Long Sleeve Shirt — “by the Spirit” Scripture Design](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear): Clean lines. Quiet confidence. This long-sleeve feels like a thoughtful pause in a loud world — lightweight and athletic, it moves with you and keeps you cool while a single tiny red wax-seal dot speaks volumes. The bold “ETERNALLY SEALED” headline sits tall and steady across the chest, softened by the elegant “by the Spirit” script and a subtle scripture line beneath. Wear it on morning runs, early church gatherings, or while volunteering; it reads as refined rather than flashy, like someone who values clarity and intention. The fabric is whisper-light and fast-drying, offering UPF 30+ protection when the sun is high. It’s for people who want performance without shouting — understated symbolism, purposeful design, and everyday comfort that stays put.Product features- 100% moisture-wicking polyester — stays dry and cool- Extra-light 3.5 oz fabric for barely-there comfort- DTF print for sharp, durable graphics- UPF 30+ sun protection for outdoor wear- Athletic fit with durable, shape-retaining polyesterCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
   Updated: 2025-12-06T10:42:58Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
-  - [White / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957667407)
+  - [White / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957667407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
     Price: $27.17 USD
-  - [Sport Dark Navy / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688901199)
+  - [Sport Dark Navy / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688901199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-dark-navy-xs-925.webp?v=1764975556
     Price: $27.17 USD
-  - [Sport Graphite / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688933967)
+  - [Sport Graphite / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688933967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-graphite-xs-485.webp?v=1764975564
     Price: $27.17 USD
-  - [Sport Red / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179567183)
+  - [Sport Red / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179567183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-red-xs-893.webp?v=1764975568
     Price: $27.17 USD
-  - [Black / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688999503)
+  - [Black / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688999503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-black-s-870.webp?v=1764975560
     Price: $27.17 USD
-  - [White / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957700175)
+  - [White / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957700175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
     Price: $27.17 USD
-  - [Sport Dark Navy / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689065039)
+  - [Sport Dark Navy / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689065039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-dark-navy-xs-925.webp?v=1764975556
     Price: $27.17 USD
-  - [Sport Graphite / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689097807)
+  - [Sport Graphite / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689097807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-graphite-xs-485.webp?v=1764975564
     Price: $27.17 USD
-  - [Sport Red / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179599951)
+  - [Sport Red / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179599951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-red-xs-893.webp?v=1764975568
     Price: $27.17 USD
-  - [Black / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689163343)
+  - [Black / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689163343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-black-s-870.webp?v=1764975560
     Price: $27.17 USD
-  - [White / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957732943)
+  - [White / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957732943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
     Price: $27.17 USD
-  - [Sport Dark Navy / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689228879)
+  - [Sport Dark Navy / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689228879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-dark-navy-xs-925.webp?v=1764975556
     Price: $27.17 USD
-  - [Sport Graphite / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689261647)
+  - [Sport Graphite / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689261647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-graphite-xs-485.webp?v=1764975564
     Price: $27.17 USD
-  - [Sport Red / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179632719)
+  - [Sport Red / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179632719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-red-xs-893.webp?v=1764975568
     Price: $27.17 USD
-  - [Black / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689327183)
+  - [Black / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689327183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-black-s-870.webp?v=1764975560
     Price: $27.17 USD
-  - [White / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957765711)
+  - [White / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957765711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
     Price: $27.17 USD
-  - [Sport Dark Navy / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689392719)
+  - [Sport Dark Navy / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689392719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-dark-navy-xs-925.webp?v=1764975556
     Price: $27.17 USD
-  - [Sport Graphite / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689425487)
+  - [Sport Graphite / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689425487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-graphite-xs-485.webp?v=1764975564
     Price: $27.17 USD
-  - [Sport Red / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179665487)
+  - [Sport Red / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179665487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-red-xs-893.webp?v=1764975568
     Price: $27.17 USD
-  - [Black / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689491023)
+  - [Black / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689491023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-black-s-870.webp?v=1764975560
     Price: $27.17 USD
-  - [White / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957798479)
+  - [White / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957798479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
     Price: $27.17 USD
-  - [Sport Dark Navy / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689556559)
+  - [Sport Dark Navy / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689556559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-dark-navy-xs-925.webp?v=1764975556
     Price: $27.17 USD
-  - [Sport Graphite / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689589327)
+  - [Sport Graphite / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689589327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-graphite-xs-485.webp?v=1764975564
     Price: $27.17 USD
-  - [Sport Red / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179698255)
+  - [Sport Red / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179698255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-red-xs-893.webp?v=1764975568
     Price: $27.17 USD
-  - [Black / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689654863)
+  - [Black / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689654863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-black-s-870.webp?v=1764975560
     Price: $30.10 USD
-  - [White / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957831247)
+  - [White / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43844957831247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-white-xs-757.webp?v=1764975552
     Price: $30.10 USD
-  - [Sport Dark Navy / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689720399)
+  - [Sport Dark Navy / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689720399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-dark-navy-xs-925.webp?v=1764975556
     Price: $30.10 USD
-  - [Sport Graphite / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689753167)
+  - [Sport Graphite / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689753167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-graphite-xs-485.webp?v=1764975564
     Price: $30.10 USD
-  - [Sport Red / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179731023)
+  - [Sport Red / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt--by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179731023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternally-sealed-long-sleeve-shirt-by-the-spirit-scripture-design-sport-red-xs-893.webp?v=1764975568
     Price: $30.10 USD
@@ -3582,7 +3582,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sinner-loading-grace-77-t-shirt-minimalist-catholic-humor-tee-black-xs-413.webp?v=1764191842
     Price: $31.90 USD
-- [More Holy Spirit Less Drama T-Shirt — Y2K Neon Dove Christian Graphic](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear): This tee channels late‑90s/early‑00s Y2K energy into a faith-forward statement piece. A luminous white dove, clutching an olive branch, floats inside a chrome holographic ring while neon rays and scattered hearts burst outward—glossy, high-contrast, and designed to glow against dark fabric. Bold chrome-gradient lettering proclaims “MORE HOLY SPIRIT” above, and neon “LESS DRAMA” anchors the composition alongside a row of red X’s that feel like shutting out noise and distraction. Wear it to church nights, creative worship gatherings, or casual meetups when you want your faith to feel playful, brave, and unapologetically joyful. The heavier midweight fabric and classic fit give it substance; thoughtful construction details like twill neck tape, double-needle topstitching, and a tubular knit keep the silhouette steady wash after wash. This shirt reads as both a conversation starter and a wearable reminder to choose peace over chaos.Product features- 100% cotton solid colors; heathers 60/40 cotton/poly blend- Medium weight (6.1 oz/yd²) classic fit with tag-free neck label- Twill tape at neck/shoulders and tubular knit for shape retention- Durable double-needle topstitching and left-sleeve "C" logo- Meets EU REACH; made in Honduras; adult sizingCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
+- [More Holy Spirit Less Drama T-Shirt — Y2K Neon Dove Christian Graphic](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear): This tee channels late‑90s/early‑00s Y2K energy into a faith-forward statement piece. A luminous white dove, clutching an olive branch, floats inside a chrome holographic ring while neon rays and scattered hearts burst outward—glossy, high-contrast, and designed to glow against dark fabric. Bold chrome-gradient lettering proclaims “MORE HOLY SPIRIT” above, and neon “LESS DRAMA” anchors the composition alongside a row of red X’s that feel like shutting out noise and distraction. Wear it to church nights, creative worship gatherings, or casual meetups when you want your faith to feel playful, brave, and unapologetically joyful. The heavier midweight fabric and classic fit give it substance; thoughtful construction details like twill neck tape, double-needle topstitching, and a tubular knit keep the silhouette steady wash after wash. This shirt reads as both a conversation starter and a wearable reminder to choose peace over chaos.Product features- 100% cotton solid colors; heathers 60/40 cotton/poly blend- Medium weight (6.1 oz/yd²) classic fit with tag-free neck label- Twill tape at neck/shoulders and tubular knit for shape retention- Durable double-needle topstitching and left-sleeve "C" logo- Meets EU REACH; made in Honduras;  sizingCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-12-23T05:21:28Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -5082,7 +5082,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-christian-t-shirt-ezekiel-36-26-matthew-7-24-25-black-blend-xs-755.webp?v=1764977125
     Price: $34.45 USD
-- [Citizen of Heaven T-Shirt — "Just Passing Through" Philippians 3:20](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel): Wear this like a quiet proclamation. The vintage Earth and distressed Philippians 3:20 text sit like an old postcard from home — a reminder that life here is transient and your true citizenship waits beyond the horizon. Soft, slightly lived-in fabric drapes easily over daily routines: church evenings, volunteer days, road trips to nowhere, or slow Sunday mornings. It’s simple, honest, and speaks the language of faith without shouting. Every time you pull it on, it nudges conversation, anchors prayer, and settles the heart with a gentle, hopeful clarity.Product features- 100% Airlume combed and ring-spun cotton for an ultra-soft, breathable feel- Retail crew-neck fit with side seams for a structured, comfortable silhouette- Durable collar with ribbed knit and shoulder tape to resist stretching- Printed using DTF/DTG methods for crisp, detailed chest and sleeve graphics- Tear-away label, REACH certified, ethically manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
+- [Citizen of Heaven T-Shirt — "Just Passing Through" Philippians 3:20](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel): Wear this like a quiet proclamation. The vintage Earth and distressed Philippians 3:20 text sit like an old postcard from home — a reminder that life here is transient and your true citizenship waits beyond the horizon. Soft, slightly lived-in fabric drapes easily over daily routines: church evenings, volunteer days, road trips to nowhere, or slow Sunday mornings. It’s simple, honest, and speaks the language of faith without shouting. Every time you pull it on, it nudges conversation, anchors prayer, and settles the heart with a gentle, hopeful clarity.Product features- 100% Airlume combed and ring-spun cotton for an ultra-soft, breathable feel- Retail crew-neck fit with side seams for a structured, comfortable silhouette- Durable collar with ribbed knit and shoulder tape to resist stretching- Printed using DTF/DTG methods for crisp, detailed chest and sleeve graphics- Tear-away label, REACH , ethically manufacturedCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
   Updated: 2025-12-19T11:06:37Z
   Vendor: Printify
   Product Type: T-Shirt
@@ -8219,7 +8219,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-long-sleeve-t-shirt-violet-s-674.webp?v=1764119247
     Price: $40.37 USD
-- [Faith Over Fear T-Shirt — Inspirational Christian Tee](https://faithbloom.co/products/faith-over-fear-t-shirt-inspirational-christian-tee): Soft, breathable cotton tee with a quiet, confident message: FAITH over FEAR printed across the chest. The lightweight Bella Canvas fabric feels gentle against skin and layers easily under jackets or over long sleeves. Clean, minimalist typography keeps the focus on the message, while quality finishing—side seams, ribbed collar, shoulder tape, and a tear-away label—means this shirt keeps its shape and stays comfortable through repeated wear. Wear it to church gatherings, community meetups, or slower weekend mornings when you want clothing that reflects steady conviction rather than loud slogans.Product features- 100% Airlume combed and ring-spun cotton (lightweight 4.2 oz) for breathable comfort- Side seams and shoulder tape provide structure and shape retention- Ribbed knit collar with seam and tear-away label for comfort and durability- High-detail sleeve and neck prints produced with DTF/DTG techniques for crisp, vibrant designs- REACH certified; sourced blank from Honduras; ethically manufactured processesCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from Honduras Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
+- [Faith Over Fear T-Shirt — Inspirational Christian Tee](https://faithbloom.co/products/faith-over-fear-t-shirt-inspirational-christian-tee): Soft, breathable cotton tee with a quiet, confident message: FAITH over FEAR printed across the chest. The lightweight Bella Canvas fabric feels gentle against skin and layers easily under jackets or over long sleeves. Clean, minimalist typography keeps the focus on the message, while quality finishing—side seams, ribbed collar, shoulder tape, and a tear-away label—means this shirt keeps its shape and stays comfortable through repeated wear. Wear it to church gatherings, community meetups, or slower weekend mornings when you want clothing that reflects steady conviction rather than loud slogans.Product features- 100% Airlume combed and ring-spun cotton (lightweight 4.2 oz) for breathable comfort- Side seams and shoulder tape provide structure and shape retention- Ribbed knit collar with seam and tear-away label for comfort and durability- High-detail sleeve and neck prints produced with DTF/DTG techniques for crisp, vibrant designs- REACH ; sourced blank from Honduras; ethically manufactured processesCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from Honduras Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
   Updated: 2025-12-19T09:10:08Z
   Vendor: Printify
   Product Type: T-Shirt
