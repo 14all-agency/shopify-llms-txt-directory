@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2026-01-07T00:00:36.556Z
+- Updated At: 2026-01-14T00:00:37.277Z
 
 ## Products
 
@@ -163,7 +163,7 @@
     Availability: Available
     Price: $199.99 USD
 - [C/R 100 Ct. Black Marble Composition Book](https://mancaveassets.com/products/c-r-100-ct-black-marble-composition-book): 100 Sheets - 200 Pages. 9.75" x 7.5" College ruled paper allows for discipline writing Sturdy front and back covers protect the paper to ensure this composition book will last Secure sewn binding keeps pages permanently bound
-  Updated: 2025-07-27T05:10:44Z
+  Updated: 2026-01-12T09:05:10Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1123,7 +1123,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Ultimate Gamer's Dream Keyboard](https://mancaveassets.com/products/ultimate-gamers-dream-keyboard): Unlock seamless gaming with wireless freedom and stunning RGB effects.
-  Updated: 2025-07-27T05:10:58Z
+  Updated: 2026-01-12T13:39:38Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1148,7 +1148,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_19_1744171470720-55761762-39434274-6094344_0.jpg?v=1744171567
   Price: $139.99 USD
 - [Ultimate Cigar Keeper](https://mancaveassets.com/products/ultimate-cigar-keeper): Keep cigars fresh and flavorful anytime, anywhere.
-  Updated: 2025-07-27T05:10:59Z
+  Updated: 2026-01-12T01:25:57Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1982,7 +1982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_709_1745396186237-29998622-69715333-75852035_0.jpg?v=1745396263
   Price: $89.99 USD
 - [Elegant Groomsmen Flask Set](https://mancaveassets.com/products/elegant-groomsmen-flask-set): Celebrate special moments with style and practicality, perfect for your best men.
-  Updated: 2025-07-27T05:11:19Z
+  Updated: 2026-01-12T00:34:54Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
