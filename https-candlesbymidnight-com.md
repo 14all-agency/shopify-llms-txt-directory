@@ -5,7 +5,7 @@
 - Currency: INR
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-17T09:43:32Z
-- Updated At: 2026-01-05T00:00:26.856Z
+- Updated At: 2026-01-14T00:00:32.582Z
 
 ## Products
 
@@ -52,14 +52,14 @@
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/iced-latte-candle-5174294.jpg?v=1752312190
   Price: ₹749.00 INR
 - [Teddy Bear Rose Candle](https://candlesbymidnight.com/products/teddy-bear-rose-candle): Teddy Bear Rose Candle—rose, vanilla & white oud in a soft, soothing blend. A warm embrace in wax for those who love gently, fiercely, and without words.
-  Updated: 2026-01-03T19:26:57Z
+  Updated: 2026-01-08T16:13:03Z
   Vendor: Candles By Midnight 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/teddy-bear-rose-candle-601088.jpg?v=1749149438
   Price: ₹299.00 INR
 - [Sunflower Candle Pack of Two](https://candlesbymidnight.com/products/sunflower-candle): Buy Sunflower Candle in India—scented with vanilla & white oud. For radiant souls, glowing with joy, quiet strength, and warmth that feels like home.
-  Updated: 2026-01-03T12:24:23Z
+  Updated: 2026-01-09T18:15:00Z
   Vendor: Candles By Midnight 
   Product Type: 
   Availability: Available
@@ -94,7 +94,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/daisy-candle-832546.png?v=1749149439
   Price: ₹149.00 INR
 - [Bubble Candle](https://candlesbymidnight.com/products/bubble-candle): Buy Bubble Candle in India - sweet notes of vanilla, strawberry, coffee & chocolate. A playful scent that glows with joy and nostalgia of your inner child.
-  Updated: 2026-01-03T12:39:34Z
+  Updated: 2026-01-13T18:12:07Z
   Vendor: Candles By Midnight 
   Product Type: 
   Availability: Available
@@ -174,7 +174,7 @@ It’s the in-between where everything feels light again.
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/daisy-candle-832546.png?v=1749149439
   Price: ₹99.00 INR
 - [Sunflower Candle Jar](https://candlesbymidnight.com/products/sunflower-candle-jar): Buy Daisy Candle Jar—vanilla-scented calm that captures slow mornings & quiet grace. Soft, still flame to soothe your soul.
-  Updated: 2026-01-03T12:07:57Z
+  Updated: 2026-01-10T04:44:26Z
   Vendor: Candles By Midnight
   Product Type: 
   Availability: Available
@@ -314,7 +314,7 @@ It’s the in-between where everything feels light again.
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/lotus-candle-pack-of-2-6552659.jpg?v=1755217992
   Price: ₹499.00 INR
 - [Wax sachet | 200 Gms](https://candlesbymidnight.com/products/wax-sachet): Buy Bubble Candle in India - sweet notes of vanilla, strawberry, coffee & chocolate. A playful scent that glows with joy and nostalgia of your inner child.
-  Updated: 2025-12-12T22:59:36Z
+  Updated: 2026-01-13T18:12:12Z
   Vendor: Candles By Midnight
   Product Type: 
   Availability: Available
@@ -328,7 +328,7 @@ It’s the in-between where everything feels light again.
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/lotus-pond-candle-2328816.png?v=1755217994
   Price: ₹699.00 INR
 - [Conch Shell Candle](https://candlesbymidnight.com/products/conch-shell-candle): Conch Shell Candle in India. A sculptural soy candle crafted for quiet moments and mindful modern spaces. Shop Now!
-  Updated: 2026-01-03T12:10:13Z
+  Updated: 2026-01-12T13:50:03Z
   Vendor: Candles By Midnight
   Product Type: 
   Availability: Available
@@ -454,7 +454,7 @@ It’s the in-between where everything feels light again.
   Image: https://cdn.shopify.com/s/files/1/0684/7135/7487/files/lotus-tea-light-candle-pack-of-8-7990442.jpg?v=1760094212
   Price: ₹399.00 INR
 - [Christmas Tree Candle](https://candlesbymidnight.com/products/christmas-tree-candle): Buy Christmas tree candle —vanilla-scented calm that captures slow mornings & quiet grace. Soft, still flame to soothe your soul.
-  Updated: 2026-01-03T12:31:26Z
+  Updated: 2026-01-13T18:12:12Z
   Vendor: Candles By Midnight
   Product Type: 
   Availability: Available
@@ -520,31 +520,31 @@ It’s the in-between where everything feels light again.
 ## Collections
 
 - [Home page](https://candlesbymidnight.com/collections/frontpage)
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 73
 - [AVADA - Best Sellers](https://candlesbymidnight.com/collections/avada-best-sellers)
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 77
 - [Jar Candles](https://candlesbymidnight.com/collections/jar-candles): Candles By Midnight’s refillable jar candles blend beauty and function. Elegant, reusable, and soothing—perfect for shelves, altars, or unwinding at day's end.
-  Updated: 2026-01-03T12:06:24Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 25
 - [Gourmet Candles](https://candlesbymidnight.com/collections/gourmet-candles): Candles By Midnight’s gourmet candles blend sweet scents like cinnamon swirl & chocolate. A delicious way to make any space feel warm, rich, and indulgent.
   Updated: 2026-01-04T12:16:42Z
   Total Products: 25
 - [Floral Candles](https://candlesbymidnight.com/collections/floral-candles): Candles By Midnight’s floral candles evoke blooming gardens at golden hour—petal-rich scents for romantics, feelers, and souls who find beauty in stillness.
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-10T12:14:33Z
   Total Products: 31
 - [Aesthetic Candles](https://candlesbymidnight.com/collections/aesthetic-candles): Candles By Midnight’s aesthetic candles are sculptural pieces with soft curves, dreamy tones & elegant scents—designed to elevate and define any space.
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 44
 - [Gifts for Him](https://candlesbymidnight.com/collections/gifts-for-him): Candles By Midnight’s ultimate gift for him — a refillable dark stoneware candle with smoked cedar & leather. A grounding ritual for his quiet moments.
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 34
 - [Gifts for Her](https://candlesbymidnight.com/collections/gifts-for-her): Candles By Midnight’s perfect gift for her, a refillable ceramic candle with wild jasmine, rosewater & fig. A soothing bloom of beauty, calm, and comfort.
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 56
 - [Bestsellers](https://candlesbymidnight.com/collections/bestseller): Candles By Midnight’s bestselling soy candles feature soothing scents & elegant jars. Enjoy a clean, long-lasting burn perfect for gifting or home décor.
-  Updated: 2026-01-04T12:16:42Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 73
 - [Festival Collection](https://candlesbymidnight.com/collections/festival-collection): More than light — they’re a celebration.Perfect for brightening your home, gifting loved ones, or marking the moments that matter.
   Updated: 2026-01-03T12:37:46Z
@@ -553,7 +553,7 @@ It’s the in-between where everything feels light again.
   Updated: 2025-12-15T06:30:44Z
   Total Products: 4
 - [Ocean Collection Candles | Serene & Stylish Candle Designs](https://candlesbymidnight.com/collections/ocean-collection-candles): Explore our Ocean Collection of candles, perfect for adding a serene and stylish touch to any space. Shop now for unique and elegant candle designs.
-  Updated: 2026-01-03T12:37:46Z
+  Updated: 2026-01-13T12:14:51Z
   Total Products: 17
 
 ## Blogs
@@ -607,7 +607,7 @@ It’s the in-between where everything feels light again.
   Updated: 2025-05-29T08:53:21Z
 - [FAQs](https://candlesbymidnight.com/pages/pushdaddy-faq-1): Your FAQ content here
   Updated: 2025-07-12T08:02:36Z
-- [Join our Affiliate Program](https://candlesbymidnight.com/pages/join-our-affiliate-program)
+- [Join our  Program](https://candlesbymidnight.com/pages/join-our--program)
   Updated: 2025-11-04T13:51:56Z
 - [Your privacy choices](https://candlesbymidnight.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-17T07:47:18Z
