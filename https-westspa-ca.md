@@ -6,11 +6,11 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2026-01-05T00:00:26.695Z
+- Updated At: 2026-01-14T00:00:30.271Z
 
 ## Blogs
 
-- [West Spa Blog | Beauty, Wellness & Medical Aesthetics in Montreal](https://westspa.ca/blogs/articles): Explore expert insights on skincare, wellness, and medical aesthetics from West Spa in Montreal’s West Island. Tips, treatments, and beauty education.
+- [West Spa Blog | Beauty, Wellness &  Aesthetics in Montreal](https://westspa.ca/blogs/articles): Explore expert insights on skincare, wellness, and  aesthetics from West Spa in Montreal’s West Island. Tips, treatments, and beauty education.
   - [Advanced Skin Treatments in Montreal | Laser Genesis & IPL Lumecca – West Spa](https://westspa.ca/blogs/articles/advanced-skin-treatments-at-west-spa-laser-genesis-ipl-lumecca): Advanced Skin Treatments in Montreal | Laser Genesis & IPL Lumecca – West Spa
     Updated: 2025-08-28T21:42:49Z
     Author: Onixx Media
@@ -23,7 +23,7 @@
   - [Hair Removal in Montreal | Laser, Waxing, Electrolysis – West Spa](https://westspa.ca/blogs/articles/advanced-hair-removal-options-tailored-to-you-only-at-west-spa-montreal): Hair Removal in Montreal | Laser, Waxing, Electrolysis – West Spa
     Updated: 2025-09-29T19:31:55Z
     Author: Onixx Media
-  - [PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy](https://westspa.ca/blogs/articles/plasma-vs-laser-resurfacing-which-advanced-treatment-is-right-for-your-skin-goals): PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy
+  - [PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy](https://westspa.ca/blogs/articles/plasma-vs-laser-resurfacing-which-advanced--is-right-for-your-skin-goals): PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy
     Updated: 2025-10-23T19:21:50Z
     Author: Onixx Media
   - [PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy](https://westspa.ca/blogs/articles/prp-for-hair-loss-is-platelet-rich-plasma-right-for-you): PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy
@@ -32,19 +32,19 @@
   - [Salmon Sperm Facial (PN Therapy) in Montreal | Regenerative Skin Rejuvenation](https://westspa.ca/blogs/articles/the-salmon-sperm-facial-what-s-it-all-about): Salmon Sperm Facial (PN Therapy) in Montreal | Regenerative Skin Rejuvenation
     Updated: 2025-11-20T15:42:42Z
     Author: Onixx Media
-  - [West Spa Celebrates 20 Years | Introducing Our New Medical Aesthetics Department](https://westspa.ca/blogs/articles/celebrating-20-years-of-wellness-beauty-a-new-era-begins-at-west-spa): West Spa Celebrates 20 Years | Introducing Our New Medical Aesthetics Department
+  - [West Spa Celebrates 20 Years | Introducing Our New  Aesthetics Department](https://westspa.ca/blogs/articles/celebrating-20-years-of-wellness-beauty-a-new-era-begins-at-west-spa): West Spa Celebrates 20 Years | Introducing Our New  Aesthetics Department
     Updated: 2025-11-30T11:15:47Z
     Author: Onixx Media
   - [West Spa Gift Certificates | The Perfect Gift for Wellness & Beauty](https://westspa.ca/blogs/articles/give-the-gift-of-wellness-why-a-west-spa-gift-certificate-is-the-perfect-present): West Spa Gift Certificates | The Perfect Gift for Wellness & Beauty
     Updated: 2025-12-16T19:23:44Z
     Author: Onixx Media
-  - [Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa Medical](https://westspa.ca/blogs/articles/sun-safety-actinic-keratosis-in-montreal-advanced-solutions-for-acne-acne-scars): Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa Medical
+  - [Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa ](https://westspa.ca/blogs/articles/sun-safety-actinic-keratosis-in-montreal-advanced-solutions-for-acne-acne-scars): Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa 
     Updated: 2025-12-30T17:19:37Z
     Author: Onixx Media
 
 ## Store Pages
 
-- [Contact West Spa | Spa & Medical Aesthetics in DDO](https://westspa.ca/pages/contact): 
+- [Contact West Spa | Spa &  Aesthetics in DDO](https://westspa.ca/pages/contact): 
   Updated: 2025-12-28T00:49:55Z
 - [Laser hair removal West Island Spa](https://westspa.ca/pages/laser-hair-removal-two): 
   Updated: 2024-05-07T17:16:16Z
@@ -68,7 +68,7 @@
   Updated: 2025-10-01T16:10:27Z
 - [Laser Genesis / Spa West Island Montreal](https://westspa.ca/pages/laser-genesis): 
   Updated: 2024-05-08T21:50:10Z
-- [About West Spa | 20 Years of Wellness & Medical Aesthetics](https://westspa.ca/pages/about): 
+- [About West Spa | 20 Years of Wellness &  Aesthetics](https://westspa.ca/pages/about): 
   Updated: 2025-12-28T00:24:59Z
 - [Manicure & Pedicure, Hand Treatments, Spa West Island](https://westspa.ca/pages/contact-1): 
   Updated: 2024-05-08T22:00:29Z
@@ -94,7 +94,7 @@
   Updated: 2024-05-07T15:50:16Z
 - [Men's Back Skincare West Island](https://westspa.ca/pages/men-back-skincare): 
   Updated: 2024-05-07T15:47:47Z
-- [Spa Services For Men-Facial Care-West Island Spa](https://westspa.ca/pages/men-facial-treatment): 
+- [Spa Services For Men-Facial Care-West Island Spa](https://westspa.ca/pages/men-facial-): 
   Updated: 2024-05-03T17:46:09Z
 - [West Island Massotherapy for men](https://westspa.ca/pages/men-massotherapy): 
   Updated: 2024-05-07T15:42:46Z
@@ -134,7 +134,7 @@
   Updated: 2025-10-22T23:16:11Z
 - [Seasonal Spa Promotions](https://westspa.ca/pages/seasonal-spa-promotions)
   Updated: 2025-10-23T13:00:43Z
-- [Medical Aesthetics](https://westspa.ca/pages/medical-aesthetics)
+- [ Aesthetics](https://westspa.ca/pages/-aesthetics)
   Updated: 2025-10-23T13:30:31Z
 - [Neuromodulators](https://westspa.ca/pages/neuromodulators)
   Updated: 2025-10-23T20:46:09Z
