@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-11-12T10:03:02Z
 - Contact Email: fivers@outlook.it
-- Updated At: 2026-01-04T00:00:35.117Z
+- Updated At: 2026-01-14T00:00:35.291Z
 
 ## Products
 
@@ -226,12 +226,12 @@
   - [L](https://fivers.store/products/fivers-edge-turchese-e-nero?variant=56476663447925)
     Availability: Available
     Price: 10,00 € EUR
-- [Pantaloncini Vibe grigi in 6 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: nero, bianco, arancio fluo, verde fluo, giallo fluo e rosso
-  Updated: 2025-12-02T15:03:51Z
+- [Pantaloncini Vibe grigi in 4 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: nero, bianco, arancio fluo, verde fluo, giallo fluo e rosso
+  Updated: 2026-01-13T19:43:20Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fbddb_dfda4885-2155-4f2c-bd75-2cff3f1ad932.png?v=1763116314
+  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/7-01.png?v=1768291055
   - [Nero / S](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti?variant=56339133202805)
     Availability: Available
     Price: 9,00 € EUR
@@ -322,217 +322,167 @@
   - [Rosso / 2XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti?variant=56339071762805)
     Availability: Available
     Price: 9,00 € EUR
-- [Pantaloncini Vibe neri in 5 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: bianco, arancio fluo, verde fluo, giallo fluo e rosso
-  Updated: 2025-12-13T12:54:55Z
+- [Pantaloncini Vibe neri in 3 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: bianco, arancio fluo, verde fluo
+  Updated: 2026-01-13T19:44:18Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
+  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/6-01.png?v=1768291016
   - [Bianco / S](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339178881397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/hgfgfh_16e776c3-d5d5-4070-91c2-230ded0c4150.png?v=1763116473
     Price: 9,00 € EUR
   - [Bianco / M](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339178914165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/hgfgfh_16e776c3-d5d5-4070-91c2-230ded0c4150.png?v=1763116473
     Price: 9,00 € EUR
   - [Bianco / L](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339178946933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/hgfgfh_16e776c3-d5d5-4070-91c2-230ded0c4150.png?v=1763116473
     Price: 9,00 € EUR
   - [Bianco / XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339178979701)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/hgfgfh_16e776c3-d5d5-4070-91c2-230ded0c4150.png?v=1763116473
     Price: 9,00 € EUR
   - [Bianco / 2XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179012469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/hgfgfh_16e776c3-d5d5-4070-91c2-230ded0c4150.png?v=1763116473
     Price: 9,00 € EUR
   - [Verde fluo / S](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179045237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Verde fluo / M](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179078005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Verde fluo / L](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179110773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Verde fluo / XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179143541)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Verde fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179176309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Arancio fluo / S](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179209077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dbddbd_af9af9d3-d7f2-4702-8037-ea349846ced1.png?v=1763116473
     Price: 9,00 € EUR
   - [Arancio fluo / M](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179241845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Arancio fluo / L](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179274613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Arancio fluo / XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179307381)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Arancio fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179340149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fvvdv_8c976618-a0e9-4126-b403-2b9f77b5c5f9.png?v=1763116473
     Price: 9,00 € EUR
   - [Giallo fluo / S](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179372917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/ffngfnfg_942ac0ad-4d5b-4d67-8b43-ab35737d3f96.png?v=1763116473
     Price: 9,00 € EUR
   - [Giallo fluo / M](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179405685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/ffngfnfg_942ac0ad-4d5b-4d67-8b43-ab35737d3f96.png?v=1763116473
     Price: 9,00 € EUR
   - [Giallo fluo / L](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179438453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/ffngfnfg_942ac0ad-4d5b-4d67-8b43-ab35737d3f96.png?v=1763116473
     Price: 9,00 € EUR
   - [Giallo fluo / XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179471221)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/ffngfnfg_942ac0ad-4d5b-4d67-8b43-ab35737d3f96.png?v=1763116473
     Price: 9,00 € EUR
   - [Giallo fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179503989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/ffngfnfg_942ac0ad-4d5b-4d67-8b43-ab35737d3f96.png?v=1763116473
     Price: 9,00 € EUR
   - [Rosso / S](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179536757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/sdfdsdsfsd_1d388b91-0ac7-4ef3-98df-d7484ed47f70.png?v=1763116473
     Price: 9,00 € EUR
   - [Rosso / M](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179569525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/sdfdsdsfsd_1d388b91-0ac7-4ef3-98df-d7484ed47f70.png?v=1763116473
     Price: 9,00 € EUR
   - [Rosso / L](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179602293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/sdfdsdsfsd_1d388b91-0ac7-4ef3-98df-d7484ed47f70.png?v=1763116473
     Price: 9,00 € EUR
   - [Rosso / XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179635061)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/sdfdsdsfsd_1d388b91-0ac7-4ef3-98df-d7484ed47f70.png?v=1763116473
     Price: 9,00 € EUR
   - [Rosso / 2XL](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1?variant=56339179667829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/sdfdsdsfsd_1d388b91-0ac7-4ef3-98df-d7484ed47f70.png?v=1763116473
     Price: 9,00 € EUR
-- [Pantaloncini Vibe bianchi in 5 varianti](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: nero, bianco, arancio fluo, verde fluo, giallo fluo e rosso
-  Updated: 2025-12-02T15:03:52Z
+- [Pantaloncini Vibe bianchi in 3 varianti](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: nero, arancio fluo, verde fluo,
+  Updated: 2026-01-13T19:44:34Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dggddg.png?v=1763116626
+  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
   - [Nero / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239764341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/VIBEBIANCO.png?v=1763116612
     Price: 9,00 € EUR
   - [Nero / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239797109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/VIBEBIANCO.png?v=1763116612
     Price: 9,00 € EUR
   - [Nero / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239829877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/VIBEBIANCO.png?v=1763116612
     Price: 9,00 € EUR
   - [Nero / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239862645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/VIBEBIANCO.png?v=1763116612
     Price: 9,00 € EUR
   - [Nero / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239895413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/VIBEBIANCO.png?v=1763116612
     Price: 9,00 € EUR
   - [Verde fluo / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240092021)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/i8u789ioiojio.png?v=1763116611
     Price: 9,00 € EUR
   - [Verde fluo / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240124789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/i8u789ioiojio.png?v=1763116611
     Price: 9,00 € EUR
   - [Verde fluo / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240157557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/i8u789ioiojio.png?v=1763116611
     Price: 9,00 € EUR
   - [Verde fluo / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240190325)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/i8u789ioiojio.png?v=1763116611
     Price: 9,00 € EUR
   - [Verde fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240223093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/i8u789ioiojio.png?v=1763116611
     Price: 9,00 € EUR
   - [Arancio fluo / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240255861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/csdsd.png?v=1763116611
     Price: 9,00 € EUR
   - [Arancio fluo / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240288629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/csdsd.png?v=1763116611
     Price: 9,00 € EUR
   - [Arancio fluo / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240321397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/csdsd.png?v=1763116611
     Price: 9,00 € EUR
   - [Arancio fluo / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240354165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/csdsd.png?v=1763116611
     Price: 9,00 € EUR
   - [Arancio fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240386933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/csdsd.png?v=1763116611
     Price: 9,00 € EUR
   - [Giallo fluo / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240419701)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fwfwewef.png?v=1763116626
     Price: 9,00 € EUR
   - [Giallo fluo / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240452469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fwfwewef.png?v=1763116626
     Price: 9,00 € EUR
   - [Giallo fluo / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240485237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fwfwewef.png?v=1763116626
     Price: 9,00 € EUR
   - [Giallo fluo / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240518005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fwfwewef.png?v=1763116626
     Price: 9,00 € EUR
   - [Giallo fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240550773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fwfwewef.png?v=1763116626
     Price: 9,00 € EUR
   - [Rosso / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240583541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dggddg.png?v=1763116626
     Price: 9,00 € EUR
   - [Rosso / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240616309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dggddg.png?v=1763116626
     Price: 9,00 € EUR
   - [Rosso / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240649077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dggddg.png?v=1763116626
     Price: 9,00 € EUR
   - [Rosso / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240681845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dggddg.png?v=1763116626
     Price: 9,00 € EUR
   - [Rosso / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240714613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/dggddg.png?v=1763116626
     Price: 9,00 € EUR
 - [Fivers Kinetic bianca e nera](https://fivers.store/products/fivers-kinetic-bianca-e-nera): La Fivers Kinetic bianca è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers nero sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
   Updated: 2025-12-13T02:11:56Z
@@ -1011,7 +961,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Urban rossa](https://fivers.store/products/fivers-urban-rossa): La Fivers Urban è pensata per chi vuole allenarsi anche nelle giornate più fresche senza rinunciare alla comodità.Il tessuto tecnico a rapida asciugatura mantiene la pelle asciutta durante lo sforzo, mentre la vestibilità sportiva garantisce libertà totale nei movimenti. DETTAGLI TECNICI Tessuto tecnico leggero e traspirante Asciugatura rapida Comfort elevato per allenamenti intensi Vestibilità sportiva che agevola i movimenti Cuciture morbide che evitano irritazioni Materiale: 100% poliestere piquet, 150 g/m². TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T23:23:23Z
+  Updated: 2026-01-13T10:35:01Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1020,7 +970,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
   - [M](https://fivers.store/products/fivers-urban-rossa?variant=56360482079093)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/p_0415_60_1_1_1_1_c7bca13e-fdfd-446b-8166-9e440ff69aef.png?v=1765538580
     Price: 12,00 € EUR
   - [L](https://fivers.store/products/fivers-urban-rossa?variant=56360482242933)
@@ -1332,7 +1282,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/GHFFHGGHDGD.png?v=1765472501
     Price: 12,00 € EUR
 - [Fivers Drop nera](https://fivers.store/products/fivers-drop-nera): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Stampa Fivers in bianco, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
-  Updated: 2025-12-12T14:30:35Z
+  Updated: 2026-01-12T09:50:41Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1350,7 +1300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/IOJIOIK_1.png?v=1765471907
     Price: 23,00 € EUR
   - [XL](https://fivers.store/products/fivers-drop-nera?variant=56465805705589)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/IOJIOIK_1.png?v=1765471907
     Price: 23,00 € EUR
 - [Fivers Drop bianca](https://fivers.store/products/fivers-drop-bianca): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Stampa Fivers in nero, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
@@ -1376,7 +1326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/p_1067_01_1_1_1.png?v=1765471939
     Price: 23,00 € EUR
 - [Fivers Pixel blu royal](https://fivers.store/products/fivers-pixel-blu-royal): La Fivers Pixel è pensata per chi vive lo sport con stile e intensità.Il tessuto tecnico pixelato leggero garantisce massima traspirazione, dona un look deciso e moderno. DETTAGLI TECNICI Materiale: 100% poliestere, 140 g/m². Tessuto leggero e traspirante Taglio atletico Asciugatura rapida (Quick-Dry) Cuciture confortevoli e resistenti Logo Fivers frontale Ottima resistenza al sudore e ai lavaggi Vestibilità regolare TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 68 cm 70 cm 72 cm 74 cm 76 cm
-  Updated: 2025-12-12T15:10:27Z
+  Updated: 2026-01-12T10:03:55Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1388,7 +1338,7 @@
     Availability: Available
     Price: 13,00 € EUR
   - [XL](https://fivers.store/products/fivers-pixel-blu-royal?variant=56465812717941)
-    Availability: Available
+    Availability: Not Available
     Price: 13,00 € EUR
   - [XXL](https://fivers.store/products/fivers-pixel-blu-royal?variant=56468858470773)
     Availability: Not Available
@@ -1869,7 +1819,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
 - [Fivers Pixel rossa](https://fivers.store/products/fivers-pixel-rossa): La Fivers Pixel è pensata per chi vive lo sport con stile e intensità.Il tessuto tecnico pixelato leggero garantisce massima traspirazione, dona un look deciso e moderno. DETTAGLI TECNICI Materiale: 100% poliestere, 140 g/m². Tessuto leggero e traspirante Taglio atletico Asciugatura rapida (Quick-Dry) Cuciture confortevoli e resistenti Logo Fivers frontale Ottima resistenza al sudore e ai lavaggi Vestibilità regolare TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 68 cm 70 cm 72 cm 74 cm 76 cm
-  Updated: 2025-12-17T11:16:40Z
+  Updated: 2026-01-12T09:58:27Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1881,7 +1831,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
   - [XL](https://fivers.store/products/fivers-pixel-rossa?variant=56485880791413)
-    Availability: Available
+    Availability: Not Available
     Price: 13,00 € EUR
   - [XXL](https://fivers.store/products/fivers-pixel-rossa?variant=56485880824181)
     Availability: Not Available
@@ -2009,35 +1959,56 @@
   - [2XL](https://fivers.store/products/fivers-snake-sport?variant=56491789353333)
     Availability: Available
     Price: 12,00 € EUR
+- [Fivers Kinetic blu royal](https://fivers.store/products/fivers-kinetic-blu-royal): La Fivers Kinetic blu royal è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers verde fluo sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design grafica sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
+  Updated: 2026-01-08T01:25:01Z
+  Vendor: Fivers
+  Product Type: Maglia tecnica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/t-shirt-blu-fivers-kinetic-con-modello.png?v=1767792666
+  - [S](https://fivers.store/products/fivers-kinetic-blu-royal?variant=56574917869941)
+    Availability: Not Available
+    Price: 9,00 € EUR
+  - [M](https://fivers.store/products/fivers-kinetic-blu-royal?variant=56574917902709)
+    Availability: Available
+    Price: 9,00 € EUR
+  - [L](https://fivers.store/products/fivers-kinetic-blu-royal?variant=56574917935477)
+    Availability: Available
+    Price: 9,00 € EUR
+  - [XL](https://fivers.store/products/fivers-kinetic-blu-royal?variant=56574917968245)
+    Availability: Not Available
+    Price: 9,00 € EUR
+  - [2XL](https://fivers.store/products/fivers-kinetic-blu-royal?variant=56574918001013)
+    Availability: Not Available
+    Price: 9,00 € EUR
 
 ## Collections
 
-- [Homepage](https://fivers.store/collections/frontpage)
-  Updated: 2025-12-18T14:07:03Z
+- [](https://fivers.store/collections/frontpage)
+  Updated: 2026-01-13T07:38:00Z
   Total Products: 6
 - [T-Shirt](https://fivers.store/collections/edge-t-shirt): Esplora la linea di T-Shirt tecniche FIVERS: leggere, traspiranti e progettate per garantire massima libertà di movimento durante ogni allenamento.Materiali resistenti, asciugatura rapida e design sportivi unici rendono queste maglie perfette per padel, tennis, running e attività ad alta intensità.Scegli il tuo modello preferito e porta le tue performance al livello successivo.
-  Updated: 2025-12-18T14:07:36Z
-  Total Products: 41
+  Updated: 2026-01-07T13:15:13Z
+  Total Products: 42
 - [Pantaloncini](https://fivers.store/collections/pantaloncini)
-  Updated: 2025-12-14T12:56:04Z
+  Updated: 2026-01-13T07:38:20Z
   Total Products: 3
 - [Felpe](https://fivers.store/collections/felpe)
   Updated: 2025-12-17T13:44:42Z
   Total Products: 13
 - [T-SHIRT UOMO](https://fivers.store/collections/uomo)
-  Updated: 2025-12-18T14:07:36Z
-  Total Products: 41
+  Updated: 2026-01-07T13:15:13Z
+  Total Products: 42
 - [T-SHIRT DONNA](https://fivers.store/collections/donna)
   Updated: 2025-12-12T11:05:01Z
   Total Products: 3
 - [TUTTI I PRODOTTI](https://fivers.store/collections/tutti-i-prodotti)
-  Updated: 2025-12-18T14:07:36Z
-  Total Products: 64
+  Updated: 2026-01-13T07:38:20Z
+  Total Products: 65
 - [ACCESSORI](https://fivers.store/collections/accessori)
   Updated: 2025-12-02T15:03:48Z
   Total Products: 2
 - [PANTALONCINI UOMO](https://fivers.store/collections/pantaloncini-uomo)
-  Updated: 2025-12-14T12:56:04Z
+  Updated: 2026-01-13T07:38:20Z
   Total Products: 3
 - [PANTALONCINI DONNA](https://fivers.store/collections/pantaloncini-donna)
   Updated: 2025-12-12T10:53:37Z
@@ -2049,8 +2020,8 @@
   Updated: 2025-12-12T14:29:20Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://fivers.store/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-18T14:08:05Z
-  Total Products: 64
+  Updated: 2026-01-13T07:38:20Z
+  Total Products: 65
 
 ## Store Pages
 
