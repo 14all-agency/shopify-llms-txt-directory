@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-11T16:58:13Z
 - Contact Email: stevenrb_uk@yahoo.co.uk
-- Updated At: 2026-01-07T00:00:32.591Z
+- Updated At: 2026-01-14T00:00:33.580Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Availability: Available
     Price: £64.95 GBP
 - [18mm Sliding Door Track Set White Free Mainland Delivery](https://slidingtracksuk.com/products/18mm-sliding-door-track-set-white): 18mm Sliding Door Track White. Other colours available see our other items Top track and bottom track as pictured, Other lengths available Collection is welcome from us in Preston Any questions just ask These Double Tracks have a wide centre leg in order to space the boards, doors or panels that run within them. This means that cupboard or wardrobe doors, which typically have protruding fittings from handles or locks, can run unobstructed in the channels. With the deeper Top track and shallower Bottom track, these Double Tracks can be fitted before installing the doors or panels. Note that there are no metal fittings for these Double Tracks, such as wheels or internal guides - they rely on the doors sliding on the low friction PVC.
-  Updated: 2026-01-05T13:02:30Z
+  Updated: 2026-01-12T12:24:42Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: £54.95 GBP
 - [Glass/Vivarium Track set Teak brown 17mm Wide Suit 4/6mm Glass Free Mainland Delivery](https://slidingtracksuk.com/products/glass-vivarium-track-set-teak-brown-17mm-wide-suit-4-6mm-glass-free-mainland-delivery): Glass / Vivarium Track Top And Bottom Included Teak / brown Different designs and colours available Will suit 4mm or 6mm glass Multi Buy available on our eBay shop Search Steves vivs check out our amazing feedback while you are there Other sizes are available or I can cut them exactly to the right length, perfect clean cut! Any questions just ask Straight Leg Double Tracks or Double Channels are designed so the middle leg allows glass sheets or boards to slide close to each other within the tracks. This relies on the panels having no protruding fittings, rather bevelled handles or finger holes. These Double Tracks can accommodate 6mm, 4mm or 3mm glass or board and are easy to fit using adhesive tape. The design of the Top and Bottom tracks means you can fit and remove the panels after installation. The Bottom tracks have a small raised runner within them to assist sliding.
-  Updated: 2025-12-22T19:47:39Z
+  Updated: 2026-01-12T14:18:19Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
@@ -683,7 +683,7 @@
 ## Collections
 
 - [Home page](https://slidingtracksuk.com/collections/frontpage)
-  Updated: 2025-12-22T19:47:36Z
+  Updated: 2026-01-07T12:24:28Z
   Total Products: 1
 - [Kwik Caps Self Adhesive Screw Caps](https://slidingtracksuk.com/collections/kwik-caps-self-adhesive-screw-caps): KwikCaps Self Adhesive Screw Cover Caps Why KwikCaps? Blend in perfectly. Just 0.3 mm thin for maximum concealment. Solid colours & wood grains - Match your surface accurately. Easy application, plus a secure, professional bond strength. 14mm & 20mm diameter screw caps are available.
   Updated: 2025-12-22T19:47:36Z
@@ -692,7 +692,7 @@
   Updated: 2025-12-22T19:47:36Z
   Total Products: 1
 - [Sliding Door Track Kits](https://slidingtracksuk.com/collections/sliding-door-track-kits)
-  Updated: 2026-01-06T12:24:10Z
+  Updated: 2026-01-13T12:24:04Z
   Total Products: 13
 
 ## Store Pages
