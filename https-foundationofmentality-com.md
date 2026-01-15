@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2026-01-05T00:00:31.337Z
+- Updated At: 2026-01-15T00:00:32.707Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -53,11 +53,11 @@ Motivational content is intentionally avoided.
   Image: https://cdn.shopify.com/s/files/1/0902/2210/0807/files/Resizer.webp?v=1764857407
   Price: €19.99 EUR
 - [Free 1st Lesson - League of Champions](https://foundationofmentality.com/products/free-1st-lesson-league-of-champions): This lesson helps you identify Point A — your real mental starting point. You’ll uncover where you break under pressure, where you lose control, and where your self-image doesn’t match reality. A clear mental baseline used by elite athletes before upgrading performance. Build Clarity first. Progress starts second.
-  Updated: 2025-12-28T15:42:58Z
+  Updated: 2026-01-12T12:24:31Z
   Vendor: Foundation Of Mentality
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0902/2210/0807/files/ChatGPTImage28_.2025_._17_39_08.png?v=1766936483
+  Image: https://cdn.shopify.com/s/files/1/0902/2210/0807/files/IMG-5571_5ab132da-d955-42fa-a7e8-a6c3386ea00f.png?v=1768220640
   Price: €0.00 EUR
 
 ## Collections
@@ -87,6 +87,21 @@ Motivational content is intentionally avoided.
   - [Structured Confidence Underpins Athlete Mentality](https://foundationofmentality.com/blogs/blog-posts/structured-confidence-underpins-athlete-mentality): Structured Confidence Underpins Athlete Mentality
     Updated: 2026-01-03T00:07:01Z
     Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Pressure Amplifies Consistency's True Value](https://foundationofmentality.com/blogs/blog-posts/pressure-amplifies-consistencys-true-value): Pressure Amplifies Consistency's True Value
+    Updated: 2026-01-05T03:03:38Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Mental Training Limits with Performance Psychology Tools](https://foundationofmentality.com/blogs/blog-posts/mental-training-limits-with-performance-psychology-tools): Mental Training Limits with Performance Psychology Tools
+    Updated: 2026-01-07T00:32:32Z
+    Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
+  - [Elite Mentality Demands Rigorous Systems](https://foundationofmentality.com/blogs/blog-posts/elite-mentality-demands-rigorous-systems): Elite Mentality Demands Rigorous Systems
+    Updated: 2026-01-10T00:09:40Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Confidence Erodes Without Mental Framework](https://foundationofmentality.com/blogs/blog-posts/confidence-erodes-without-mental-framework): Confidence Erodes Without Mental Framework
+    Updated: 2026-01-12T03:30:48Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Pressure Defines Performance: Athlete Mentality Tools Explained](https://foundationofmentality.com/blogs/blog-posts/pressure-defines-performance-athlete-mentality-tools-explained): Pressure Defines Performance: Athlete Mentality Tools Explained
+    Updated: 2026-01-14T00:31:40Z
+    Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
 
 ## Store Pages
 
