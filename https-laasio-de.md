@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2026-01-07T00:00:35.648Z
+- Updated At: 2026-01-15T00:00:36.159Z
 
 ## Products
 
@@ -407,7 +407,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Armband mit Geburtsblume & Name - Ein Meisterwerk der Emotionen](https://laasio.de/products/armband-geburtsblume-name): Trage ein einzigartiges Armband, das durch Geburtsblume und Namen eine unvergängliche Geschichte erzählt. Das perfekte, persönliche Geschenk.
-  Updated: 2026-01-06T17:58:35Z
+  Updated: 2026-01-13T00:33:08Z
   Vendor: Laasio
   Product Type: 手链
   Availability: Available
@@ -433,7 +433,7 @@ Graviertes Armband Damen
 Armband mit Emotionen
 Armband Geschichte
 Einzigartiges Armband
-  Updated: 2025-12-31T13:20:11Z
+  Updated: 2026-01-10T00:33:28Z
   Vendor: Laasio
   Product Type: 手链
   Availability: Available
@@ -1328,9 +1328,9 @@ Einzigartiges Armband
     Availability: Not Available
     Price: 19,90 € EUR
 - [Sternzeichen Kette , Halskette mit Sternzeichengravur, Konstellation Halskette, Personalisierte kette in Silber, Gold und Rosegold](https://laasio.de/products/sternzeichen-kette-halskette-mit-89146): Dieses personalisierte Sternzeichen-Halskette ist ein wunderbares Geschenk zu verschiedenen Anlässen wie Geburtstage, Muttertag, Hochzeiten oder als Überraschung für eine liebe Freundin oder Familienmitglied. Die Kette zeigt das Sternzeichen des beschenkten Menschen und ist ein zeitloser und besonderer Schmuckstück, das eine tiefe Verbindung zu dem beschenkten Menschen herstellt. Beschreibung Wunderschöne Sternzeichen Kette ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ D E T A I L S - Anhänger GRÖßE: 15mm - Kette LENGTH: 42cm +8 cm Verlängerung - MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 18k vergoldetes • Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Bestellvorgang 1. Wähle im Drop-Down Menü deine gewünschten Optionen aus. 2. Füge deine Personalisierung mit gewünschter Sternzeichen Name oder deine Geburtsdatum ,Beispiel, 12 Mai 2. In den Warenkorb legen und zur Kasse gehen. 3. Nachdem der Bestellung senden Sie uns eine Nachricht mit gewünschte Sternzeichen, über "Kontakt Shop-Besitzer" Taste auf der Shop- oder "Frage stellen" Taste unter dem Titel des Angebots gesendet werden. Wenn Sie Fragen haben, senden Sie uns bitte eine Nachricht! ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Box. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -1 bis 2 Werktag Lieferung Zeit Deutschland : 1 bis 3 werktage International : 7 bis 14 Arbeitstage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über∙LAASIO Über LAASIO: Alle unsere Produkte werden in unserem Laasio Studio in Bad Laasphe, Deutschland, liebevoll von Hand gefertigt. Jedes Schmuckstück hat seine eigene Bedeutung und wir sind stolz darauf, Ihnen hochwertige Handarbeit anzubieten. Sollten Sie jedoch irgendwelche Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir legen großen Wert auf Kundenzufriedenheit und werden unser Bestes tun, um Ihnen ein positives Einkaufserlebnis zu bieten. Vielen Dank für Ihren Besuch und hoffen, dass Sie gerne bei uns einkaufen. Liebe Grüße
-  Updated: 2025-07-30T12:59:31Z
+  Updated: 2026-01-10T11:29:10Z
   Vendor: Laasio
-  Product Type: 
+  Product Type: 项链
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/0545/1163/files/il_fullxfull.6476981637_jmdz.jpg?v=1732392119
   - [Gold / 1. Wassermann](https://laasio.de/products/sternzeichen-kette-halskette-mit-89146?variant=45073991729417)
@@ -1763,7 +1763,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 33,90 € EUR
 - [Handschrift Kette, Herz Kette für Mama, Herz Kette personalisiert mit Gravur ,in Gold, Silber & Rosé, Kette mit Herz Anhänger,](https://laasio.de/products/handschrift-kette-herz-kette-fur-mama-14546): Beschreibung Welches Schmuckgeschenk könnte sinnvoller sein als eine tatsächliche handschriftliche Nachricht auf Ihrer benutzerdefinierten Halskette? Dies wäre ein besonderes Geschenk für diejenigen, die in Ihrem Leben geliebt werden. Zeigen Sie Ihre Nachdenklichkeit mit unserer handschriftlichen Nachricht Halskette. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Sie lieben es - Es ist zeitlos und kann jeden Tag getragen werden. - Unsere hochwertige Vergoldung ist langlebig und farbbeständig. - Graviert für ein dauerhaftes Design, das ein Leben lang hält, was ein besonderes Stück macht, das Sie schätzen werden. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ D E T A I L S - Anhänger GRÖßE: 14mm x 12mm - Kette LENGTH: 45cm +5 cm Verlängerung - MATERIAL: • Silber - Edelstahl Hochglanz poliert • Gold - Edelstahl 18k vergoldetes • Roségold - Edelstahl Rosé vergoldetes ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Bestellvorgang 1. Wähle im Drop-Down Menü deine gewünschten Optionen aus. 2. In den Warenkorb legen und zur Kasse gehen. 3. Nachdem der Bestellung senden Sie uns eine Nachricht mit klaren Fotos oder Scan der Unterschrift , Handschrift oder Zeichnung über "Kontakt Shop-Besitzer" Taste auf der Shop- oder "Frage stellen" Taste unter dem Titel des Angebots gesendet werden. Klicken Sie auf "Bild anhängen", um Ihr Foto anzuhängen. Wenn Sie Fragen haben, senden Sie uns bitte eine Nachricht! ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Boxen. Wenn Sie jedes Stück in seinem eigenen Karton haben möchten, oder wenn es sich um ein Geschenk handelt, informieren Sie uns in einer Nachricht an der Kasse. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -1 bis 2 Werktag Lieferung Zeit Deutschland : 1 bis 3 Werktage International : 7 bis 14 Arbeitstage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über∙LAASIO Alle Unsere Produkte sind handgefertigt in Laasio Studio in Bad Laasphe Deutschland .Jede Bestellung mit Liebe zu handarbeiten. Jedes Schmuckstück gibt es eine Bedeutung. Wenn Sie irgendwelche Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns zu informieren. Wir lieben unsere Kunden und sind bestrebt, Sie glücklich zu machen. Vielen Dank für Ihren Besuch und hoffen, dass Sie gerne bei uns einkaufen. Liebe Grüße
-  Updated: 2025-05-25T00:29:16Z
+  Updated: 2026-01-13T10:58:57Z
   Vendor: Laasio
   Product Type: 项链
   Availability: Available
@@ -1778,7 +1778,7 @@ Einzigartiges Armband
 ## Collections
 
 - [Home page](https://laasio.de/collections/frontpage)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 27
 - [Layering Kette](https://laasio.de/collections/layering-kette)
   Updated: 2025-02-24T16:35:00Z
@@ -1802,13 +1802,13 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 0
 - [Ketten](https://laasio.de/collections/kette)
-  Updated: 2025-12-26T12:08:37Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 37
 - [Armbänder](https://laasio.de/collections/armband-1)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 20
 - [Alle produkte](https://laasio.de/collections/produkte-produkte)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 59
 - [Armband mit Haustierportrait](https://laasio.de/collections/armband-haustierportrait-1)
   Updated: 2025-12-19T12:15:17Z
@@ -1820,7 +1820,7 @@ Einzigartiges Armband
   Updated: 2025-12-14T12:15:13Z
   Total Products: 3
 - [Best Sellers](https://laasio.de/collections/best-sellers)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 68
 - [Neuheiten](https://laasio.de/collections/neuheiten)
   Updated: 2025-02-24T16:35:01Z
@@ -1844,10 +1844,10 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:01Z
   Total Products: 3
 - [Geburtsblumen](https://laasio.de/collections/geburtsblumen-geburtsblumen)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 17
 - [Sternzeichen](https://laasio.de/collections/sternzeichen): Persönliche Sternzeichen Schmuckstücke, die Geschichten erzählen Entdecken Sie die Magie der Sterne neu mit unserer "Himmelszeichen Kollektion", einer exquisiten Auswahl an handgefertigten Sternzeichen Halsketten, eleganten Armbändern für jedes Sternzeichen, und Sternzeichen Ringen mit symbolischer Bedeutung. Jedes Stück in unserer Kollektion ist nicht nur ein Schmuckstück, sondern auch ein persönlicher Talisman, der die kosmische Energie Ihres Sternzeichens einfängt und Ihre einzigartige Persönlichkeit hervorhebt. Für Astrologie-Liebhaber, die nach hochwertigen Sternzeichen Geschenken suchen, bieten unsere sorgfältig kuratierten Schmuckstücke eine Verbindung zu den himmlischen Kräften, die unser Leben leiten. Die "Himmelszeichen Kollektion" ist eine Hommage an die uralte Weisheit der Astrologie, verwoben mit modernem Design, um stilvolle Sternzeichen Accessoires für jeden Anlass zu schaffen. Unsere astrologische Schmuckkollektion mit kosmischer Energie bietet nicht nur einzigartige Geschenkideen für Sternzeichen-Enthusiasten, sondern dient auch als tägliche Inspiration und Erinnerung an die eigenen Stärken und die Verbindung zum Universum. Jedes Schmuckstück ist eine Einladung, die eigene Geschichte zu erzählen und die persönliche Reise durch das Leben mit Stil und Bedeutung zu bereichern. Lassen Sie sich von der "Himmelszeichen Kollektion" zu einer Reise einladen, auf der Sie die tiefe Verbindung zwischen den Sternen und Ihrer Seele erkunden können. Finden Sie das perfekte Schmuckstück, das speziell für Ihr Sternzeichen entworfen wurde, und feiern Sie Ihre Individualität mit einem Schatz, der so einzigartig ist wie Sie selbst.
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 4
 - [Initialen und Namen](https://laasio.de/collections/initialen-und-namen)
   Updated: 2025-02-24T16:35:02Z
@@ -1856,7 +1856,7 @@ Einzigartiges Armband
   Updated: 2026-01-01T12:08:48Z
   Total Products: 10
 - [Tierporträts und Pfotenabdrücke](https://laasio.de/collections/tierportrats-und-pfotenabdrucke)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 11
 - [Menschenfotos](https://laasio.de/collections/menschenfotos)
   Updated: 2025-02-24T16:35:02Z
@@ -1865,19 +1865,19 @@ Einzigartiges Armband
   Updated: 2025-12-26T12:08:37Z
   Total Products: 6
 - [Für Mama und Oma](https://laasio.de/collections/fur-mama-und-oma)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 16
 - [Für Papa und Opa](https://laasio.de/collections/fur-papa-und-opa)
   Updated: 2025-02-24T16:35:02Z
   Total Products: 3
 - [Für die beste Freundin](https://laasio.de/collections/fur-beste-freundin)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 24
 - [Für den Lieblingsmenschen](https://laasio.de/collections/fur-lieblingsmenschen)
-  Updated: 2026-01-01T12:08:48Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 15
 - [Für Tierliebhaber](https://laasio.de/collections/fur-tierliebhaber)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 11
 - [Zur Geburt](https://laasio.de/collections/zur-geburt)
   Updated: 2025-12-14T12:15:13Z
@@ -1886,22 +1886,22 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:02Z
   Total Products: 0
 - [Zum Geburtstag](https://laasio.de/collections/zum-geburtstag)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 27
 - [Hochzeit](https://laasio.de/collections/hochzeit)
-  Updated: 2025-11-02T12:13:30Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 1
 - [Schulanfang](https://laasio.de/collections/schulanfang)
-  Updated: 2025-11-02T12:13:30Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 4
 - [Beerdigung](https://laasio.de/collections/beerdigung-beerdigung)
   Updated: 2025-12-26T12:08:37Z
   Total Products: 6
 - [Haustier Verstorben](https://laasio.de/collections/haustier-verstorben)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 12
 - [Schmuck mit Haustier](https://laasio.de/collections/schmuck-mit-haustier)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 3
 - [Finger,Hand,Fuß Abdruck](https://laasio.de/collections/finger-hand-fuss-abdruck)
   Updated: 2025-02-24T16:35:03Z
@@ -1913,7 +1913,7 @@ Einzigartiges Armband
   Updated: 2025-02-24T16:35:03Z
   Total Products: 0
 - [Armband mit Geburtsblume](https://laasio.de/collections/armband-mit-geburtsblume)
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 4
 - [Armband mit Fingerabdruck](https://laasio.de/collections/armband-mit-fingerabdruck)
   Updated: 2025-11-07T12:14:29Z
@@ -1928,7 +1928,7 @@ Einzigartiges Armband
   Updated: 2025-11-07T12:14:29Z
   Total Products: 1
 - [Kette mit Haustierporträt, Pfotenabdruck oder Nasenabdruck](https://laasio.de/collections/kette-mit-haustierportrat-pfotenabdruck-oder-nasenabdruck)
-  Updated: 2025-12-19T12:15:17Z
+  Updated: 2026-01-07T12:12:36Z
   Total Products: 4
 - [Add-on](https://laasio.de/collections/add-on)
   Updated: 2025-12-19T12:15:17Z
@@ -1940,7 +1940,7 @@ Einzigartiges Armband
   Updated: 2025-12-19T12:15:17Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://laasio.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-03T12:12:37Z
+  Updated: 2026-01-09T23:28:51Z
   Total Products: 68
 
 ## Store Pages
