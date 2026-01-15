@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2026-01-08T00:00:37.423Z
+- Updated At: 2026-01-15T00:00:37.785Z
 
 ## Collections
 
 - [Crazedo Weekly Trends Insights on the #1 Google Search Topic](https://crazedo.com/collections/index): Crazedo weekly trends reveals the #1 Google search every week with clear insights and brand lessons. Stay ahead with weekly trend analysis.
-  Updated: 2025-11-03T17:50:52Z
+  Updated: 2026-01-09T10:32:00Z
   Total Products: 1
 
 ## Blogs
@@ -34,7 +34,7 @@
     Author: Mohammed Hassen
     Tags: $1.9 Billion Powerball, Business Lessons, Crazedo, Google Trends 2025, Powerball Jackpot 2025, Powerball Missouri Texas Winner, Powerball Numbers Sept 6 2025, Powerball Winner Sept 6 2025, SEO and Google Trends, Trending Searches 2025
   - [iPhone 17 Launch Timeline (2025) 26M+Google Searches|Crazedo](https://crazedo.com/blogs/weekly-google-trends/iphone-17-launch-timeline-sept-2025): iPhone 17 Launch Timeline (2025) 26M+Google Searches|Crazedo
-    Updated: 2025-09-22T01:02:48Z
+    Updated: 2026-01-09T08:42:31Z
     Author: Mohammed Hassen
     Tags: Apple Event 2025, Crazedo Weekly Trend, Google Trends 2025, iPhone 17, Mobile Marketing, SEO & PPC Insights, Smartphone Launches, Tech Trends
   - [Jimmy Kimmel And Erling Haaland Google Searches 2025](https://crazedo.com/blogs/weekly-google-trends/jimmy-kimmel-and-erling-haaland-google-searches-2025): Jimmy Kimmel And Erling Haaland Google Searches 2025
@@ -42,7 +42,7 @@
     Author: Mohammed Hassen
     Tags: Erling Haaland, Evergreen Traffic, Google Trends, Jimmy Kimmel, Search Spike, Soccer Trends, Trending Searches, Weekly Trend
   - [India vs Pakistan Asia Cup 2025 Final in Dubai Search Trends](https://crazedo.com/blogs/weekly-google-trends/india-vs-pakistan-asia-cup-2025-final-dubai): India vs Pakistan Asia Cup 2025 Final in Dubai Search Trends
-    Updated: 2025-09-29T21:51:53Z
+    Updated: 2026-01-11T15:37:54Z
     Author: Mohammed Hassen
     Tags: #AsiaCup2025, #AttentionEconomy, #Crazedo, #GoogleTrends, #INDvsPAK, #SearchTrends
   - [West Indies vs India 2025 Test Series 10 M+ Searches & Trend Analysis](https://crazedo.com/blogs/weekly-google-trends/west-indies-vs-india-2025-test-series-trend-analysis): West Indies vs India 2025 Test Series 10 M+ Searches & Trend Analysis
@@ -101,6 +101,10 @@
     Updated: 2026-01-05T22:48:53Z
     Author: Mohammed Hassen
     Tags: 2026 goal ideas, 20M searches, Happy New Year 2026, New Year's Day 2026, resolution keywords, seasonal search peaks, SEO content strategy, Trends analysis
+  - [Barcelona vs Real Madrid 3-2 El Clásico Final - Score](https://crazedo.com/blogs/weekly-google-trends/barcelona-vs-real-madrid-el-clasico-2026): Barcelona vs Real Madrid 3-2 El Clásico Final - Score
+    Updated: 2026-01-12T20:00:02Z
+    Author: Mohammed Hassen
+    Tags: Barcelona 3-2 Real Madrid, Barcelona vs Real Madrid, El Clasico 2026, El Clasico score, El Clasico search trends, Lamine Yamal, Mbappe bench, Raphinha goals, Real Madrid highlights, Spanish Super Cup final
 
 ## Store Pages
 
