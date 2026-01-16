@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-12-13T20:37:18Z
 - Contact Email: abusiammaram@gmail.com
-- Updated At: 2026-01-08T09:52:29.314Z
+- Updated At: 2026-01-16T00:00:21.416Z
 
 ## Products
 
@@ -379,14 +379,14 @@
     Availability: Available
     Price: $15.99 USD
 - [All-in-One Grooming Makeup Pen](https://mrumstore.myshopify.com/products/all-in-one-grooming-makeup-pen): Your Confidence, Perfected in SecondsThe All-in-One Grooming Makeup Pen is your secret  for quick, natural touch-ups anywhere, anytime. This compact multitool combines precision grooming with effortless application, helping you look polished and feel confident throughout your day.Key Benefits Instant Touch-Ups: Perfect for covering blemishes, defining features, and quick grooming on the go Compact & Portable: Fits easily in your pocket, bag, or travel kit Natural Finish: Blends seamlessly for a flawless, undetectable look Multi-Purpose Design: Combines multiple grooming functions in one sleek tool Confidence Boost: Always look your best, whether at work, social events, or unexpected moments Perfect ForBusy professionals, travelers, and anyone who values looking their best without the hassle of carrying multiple products. Keep one at your desk, in your car, and in your travel bag.
-  Updated: 2026-01-02T12:43:23Z
+  Updated: 2026-01-10T00:11:35Z
   Vendor: M
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_449_1767032698133-90506874-53818212-58875318_0.webp?v=1767033112
   Price: $19.99 USD
 - [MagMix Pro Self-Stirring Mug - Automatic Mixing Travel Cup with Temperature Display](https://mrumstore.myshopify.com/products/magmix-pro-automatic-stirring-mug): Effortless Mixing, Perfect TemperatureThe MagMix Pro transforms your daily drink routine with automatic stirring technology and real-time temperature display. Whether you're mixing protein shakes, coffee, or hot chocolate, this smart mug does the work for you.Key Features Automatic Stirring: Powerful motor mixes drinks in seconds with the press of a button Temperature Display: Built-in LCD shows exact drink temperature for perfect sipping Stainless Steel Insulation: Keeps drinks hot or cold for hours Portable Design: Leak-proof lid and ergonomic grip for on-the-go convenience USB Rechargeable: Long-lasting battery for weeks of use Perfect ForFitness enthusiasts mixing protein shakes, busy professionals enjoying coffee on the go, or anyone who wants perfectly mixed drinks without the hassle. Say goodbye to clumpy powders and unevenly mixed beverages.Experience the future of drink mixing - effortless, precise, and always ready when you are.
-  Updated: 2026-01-02T12:46:44Z
+  Updated: 2026-01-10T00:13:16Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Retro Metal Punk Aviator Sunglasses - UV Protection Shades](https://mrumstore.myshopify.com/products/retro-metal-punk-aviator-shades): Premium Aviator Sunglasses with AttitudeStep out in style with these bold retro metal punk aviator sunglasses. Designed for those who dare to stand out, these shades combine classic aviator silhouette with edgy punk aesthetics.Key Features: UV Protection: Shield your eyes from harmful UV rays while looking effortlessly cool Anti-Glare Technology: Reduces glare and sharpens vision for crystal-clear outdoor visibility Durable Metal Frame: Premium metal construction ensures long-lasting wear Versatile Style: Perfect for festivals, daily wear, driving, or beach days Comfortable Fit: Lightweight design for all-day comfort Whether you're hitting the road, attending a concert, or just elevating your everyday look, these aviator shades deliver confident outdoor style with a rebellious edge.
-  Updated: 2026-01-02T12:47:39Z
+  Updated: 2026-01-10T00:05:12Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -578,7 +578,7 @@
     Availability: Available
     Price: $44.99 USD
 - [PowerPress Pro Electric Citrus Juicer](https://mrumstore.myshopify.com/products/powerpress-pro-electric-citrus-juicer): Fresh Juice in SecondsThe PowerPress Pro Electric Citrus Juicer transforms your morning routine with powerful, whisper-quiet operation that extracts maximum juice from oranges, lemons, limes, and grapefruits.Key Benefits Quiet Power: High-torque motor delivers professional results without the noise Maximum Extraction: Dual-direction auto-reverse cone gets every last drop Easy Cleanup: Dishwasher-safe parts and drip-free spout Pulp Control: Adjustable settings for your perfect juice consistency Compact Design: Fits neatly on any countertop without taking up valuable space Perfect ForHealth-conscious families, fresh juice lovers, and anyone who wants to start their day with vitamin-packed citrus goodness. Whether you're making a single glass or preparing juice for the whole family, the PowerPress Pro handles it effortlessly.
-  Updated: 2026-01-04T09:38:17Z
+  Updated: 2026-01-10T00:05:40Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -602,7 +602,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Aquamarine Tiny AI Outfit Charm](https://mrumstore.myshopify.com/products/aquamarine-tiny-ai-outfit-charm): Your Daily Smart Companion, Beautifully DesignedThe Aquamarine Tiny AI Outfit Charm is more than just an accessory—it's a personalized smart pendant that brings fun, style, and intelligent interactions to every outfit and moment of your day.Why You'll Love It Personalized Intelligence: Small smart interactions that adapt to your lifestyle Versatile Style: Elegant aquamarine design complements any outfit—casual, professional, or evening wear Everyday Companion: Lightweight and comfortable for all-day wear Conversation Starter: Unique blend of fashion and technology Perfect ForTech enthusiasts who appreciate beautiful design, fashion-forward individuals seeking smart accessories, or anyone looking to add a touch of innovation to their daily style.Experience the future of wearable tech—stylish, smart, and uniquely yours.
-  Updated: 2026-01-05T08:45:45Z
+  Updated: 2026-01-10T00:07:11Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -614,7 +614,7 @@
     Availability: Available
     Price: $279.99 USD
 - [Retro Birthstone Box Pendant - Openable Memory Locket Necklace](https://mrumstore.myshopify.com/products/retro-birthstone-box-pendant): Keep Your Precious Memories CloseThis elegant retro-style birthstone box pendant is more than just jewelry—it's a personal treasure keeper. The transparent openable design lets you carry your most cherished keepsakes, photos, or mementos wherever you go.Features: Openable transparent compartment for photos and small keepsakes Classic retro design with timeless appeal Durable construction for daily wear Perfect for preserving special memories Thoughtful gift for birthdays, anniversaries, or special occasions Whether you're keeping a loved one's photo close to your heart or storing a tiny memento from a special moment, this versatile pendant combines style with sentimental value. The transparent design beautifully showcases whatever you choose to keep inside.
-  Updated: 2026-01-08T03:30:13Z
+  Updated: 2026-01-10T00:06:06Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -793,6 +793,372 @@
   - [20](https://mrumstore.myshopify.com/products/hidden-heart-jewelry-box-ring?variant=42379198332990)
     Availability: Available
     Price: $24.95 USD
+- [ClearBacklit iPad Keyboard Case - Slim Protective Cover with Backlit Keys](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case): Transform Your iPad Into a Productivity PowerhouseWork smarter anywhere with the ClearBacklit iPad Keyboard Case. This slim, protective case features backlit keys that let you type comfortably in any lighting condition—from bright cafes to dimly lit flights.Key Features: Backlit keyboard – Type effortlessly day or night with adjustable illumination Slim & protective design – Safeguards your iPad without adding bulk Responsive keys – Enjoy laptop-quality typing on the go Easy attachment – Secure magnetic connection for instant setup Long battery life – Stay productive for hours between charges Whether you're drafting emails, taking notes in meetings, or working remotely, this keyboard case delivers the comfort and protection you need to stay productive wherever life takes you.
+  Updated: 2026-01-10T11:42:19Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_737_1768001495229-75373684-26594888-74785720_0.webp?v=1768002047
+  - [iPad Pro 11 2024 5th / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386362990654)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363023422)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363056190)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / Transparent white](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363088958)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / Black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363121726)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / White](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363154494)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / Transparent Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363187262)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Pro 11 2024 5th / Transparent Blue](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363220030)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363252798)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363285566)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363318334)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Transparent white](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363351102)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363383870)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / White](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363416638)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Transparent Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363449406)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2025 M3 / Transparent Blue](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363482174)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363514942)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363547710)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363580478)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Transparent white](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363613246)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363646014)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / White](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363678782)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Transparent Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363711550)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 5 Air 4 / Transparent Blue](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363744318)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363777086)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363809854)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363842622)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Transparent white](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363875390)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363908158)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / White](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363940926)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Transparent Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386363973694)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad Air 11 2024 / Transparent Blue](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364006462)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364039230)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364071998)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364104766)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Transparent white](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364137534)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364170302)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / White](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364203070)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Transparent Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364235838)
+    Availability: Available
+    Price: $129.99 USD
+  - [Pro 11 2022-2018 / Transparent Blue](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364268606)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364301374)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364334142)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364366910)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Transparent white](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364399678)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364432446)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / White](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364465214)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Transparent Pink](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364497982)
+    Availability: Available
+    Price: $129.99 USD
+  - [IPad Air 13 2025 M3 / Transparent Blue](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364530750)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad 10th Gen 10.9 / Transparent black](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364563518)
+    Availability: Available
+    Price: $129.99 USD
+  - [iPad 10th Gen 10.9 / Transparent Purple](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case?variant=42386364596286)
+    Availability: Available
+    Price: $129.99 USD
+- [Pocket Lighted Grooming Mirror Pro](https://mrumstore.myshopify.com/products/pocket-lighted-grooming-mirror-pro): Perfect Grooming, Anywhere You GoNever settle for poor lighting again. The Pocket Lighted Grooming Mirror Pro delivers professional-grade illumination in a compact, portable design that fits perfectly in your pocket or bag.Key Features:Bright LED Lighting – Crystal-clear visibility for precise grooming, makeup application, and detail workUltra-Portable Design – Slim, lightweight construction goes wherever you need itTouch-Activated – Simple one-touch control for instant illuminationLong Battery Life – Reliable power for weeks of daily usePremium Quality – Durable construction with a scratch-resistant mirror surfaceWhy You'll Love It:Whether you're touching up before an important meeting, perfecting your look on the go, or need reliable lighting in dimly-lit spaces, this mirror gives you the confidence of perfect grooming anywhere. The professional-grade LED lighting eliminates shadows and provides true-color accuracy, so you always look your best.Perfect for: Travel, office touch-ups, car glove box, gym bag, purse, or daily grooming routine.
+  Updated: 2026-01-12T08:11:41Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_262_1768156622065-66543811-29778377-38292899_0.webp?v=1768156692
+  - [pink](https://mrumstore.myshopify.com/products/pocket-lighted-grooming-mirror-pro?variant=42388657537086)
+    Availability: Available
+    Price: $169.99 USD
+  - [pea-sand](https://mrumstore.myshopify.com/products/pocket-lighted-grooming-mirror-pro?variant=42388657569854)
+    Availability: Available
+    Price: $169.99 USD
+- [Lustro Moissanite Pendant - Sterling Silver Solitaire Necklace](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant): Timeless Elegance Meets Modern BrillianceThe Lustro Moissanite Pendant is your everyday luxury piece—a stunning sterling silver solitaire that catches the light with every movement and elevates any outfit from simple to sophisticated.Why You'll Love It Brilliant moissanite stone - More fire and sparkle than traditional gemstones, with exceptional clarity Premium sterling silver setting - Durable, hypoallergenic, and maintains its shine Versatile design - Perfect for daily wear, special occasions, or layering with other necklaces Confidence-building elegance - Feel polished and put-together instantly Perfect ForWhether you're heading to the office, meeting friends for brunch, or celebrating a special moment, this pendant adds that touch of refined sparkle that makes you feel extraordinary.A thoughtful gift for someone special or a well-deserved treat for yourself.
+  Updated: 2026-01-14T10:52:02Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_252_1768344360980-18585673-27943216-64085299_0.webp?v=1768344596
+  - [gold-10mm-4.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914741822)
+    Availability: Available
+    Price: $44.99 USD
+  - [silver-10mm-4.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914774590)
+    Availability: Available
+    Price: $44.99 USD
+  - [gold-11mm-5.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914807358)
+    Availability: Available
+    Price: $44.99 USD
+  - [silver-11mm-5.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914840126)
+    Availability: Available
+    Price: $44.99 USD
+  - [gold-5mm-0.5ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914872894)
+    Availability: Available
+    Price: $44.99 USD
+  - [silver-5mm-0.5ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914905662)
+    Availability: Available
+    Price: $44.99 USD
+  - [gold-6.5mm-1.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914938430)
+    Availability: Available
+    Price: $44.99 USD
+  - [silver-6.5mm-1.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391914971198)
+    Availability: Available
+    Price: $44.99 USD
+  - [gold-8mm-2.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391915003966)
+    Availability: Available
+    Price: $44.99 USD
+  - [silver-8mm-2.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391915036734)
+    Availability: Available
+    Price: $44.99 USD
+  - [gold-9mm-3.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391915069502)
+    Availability: Available
+    Price: $44.99 USD
+  - [silver-9mm-3.0ct / 45cm](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant?variant=42391915102270)
+    Availability: Available
+    Price: $44.99 USD
+- [RallyDrive Chrono Watch](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch): Built for the Road AheadThe RallyDrive Chrono Watch is your reliable companion for every adventure. Engineered for durability and precision, this rugged wristwatch keeps you on time whether you're navigating city streets or exploring the outdoors.Key Features Water-Resistant Design – Ready for rain, splashes, and everyday wear High-Contrast Display – Easy-to-read face in any lighting condition Precision Movement – Accurate timekeeping you can count on Durable Construction – Built to withstand daily wear and tear Comfortable Fit – All-day wearability for active lifestyles Your Everyday EssentialImagine glancing at your wrist and seeing the time clearly, no matter where you are. The RallyDrive Chrono is designed for those who demand reliability without sacrificing style. From morning commutes to weekend adventures, this watch keeps pace with your life.
+  Updated: 2026-01-15T01:45:13Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_338_1768397928710-35628068-23947870-81283467_0.webp?v=1768398175
+  - [Black Purple](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch?variant=42393187909694)
+    Availability: Available
+    Price: $44.99 USD
+  - [Black White](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch?variant=42393187942462)
+    Availability: Available
+    Price: $44.99 USD
+  - [Black Red](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch?variant=42393187975230)
+    Availability: Available
+    Price: $44.99 USD
+  - [Black Yellow](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch?variant=42393188007998)
+    Availability: Available
+    Price: $44.99 USD
+  - [Black Green](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch?variant=42393188040766)
+    Availability: Available
+    Price: $44.99 USD
+  - [Black Blue](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch?variant=42393188073534)
+    Availability: Available
+    Price: $44.99 USD
+- [Charming Bear Jewelry Box](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box): Cute gift box that protects necklace and makes gifting fast, personal, and memorable
+  Updated: 2026-01-14T21:39:43Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_425_1768423309328-84292216-7755129-40486769_0.webp?v=1768426640
+  - [Rose Gold Necklace / Big Pink](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944129598)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Big Violet](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944162366)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Big Grey](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944195134)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Big White](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944227902)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Big Blue](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944260670)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Big Red](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944293438)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Small Pink](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944326206)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Small Violet](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944358974)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Small Grey](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944391742)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Small White](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944424510)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Small Blue](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944457278)
+    Availability: Available
+    Price: $89.99 USD
+  - [Rose Gold Necklace / Small Red](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944490046)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Big Pink](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944522814)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Big Violet](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944555582)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Big Grey](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944588350)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Big White](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944621118)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Big Blue](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944653886)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Big Red](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944686654)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Small Pink](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944719422)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Small Violet](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944752190)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Small Grey](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944784958)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Small White](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944817726)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Small Blue](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944850494)
+    Availability: Available
+    Price: $89.99 USD
+  - [Silver Necklace / Small Red](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944883262)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Big Pink](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944916030)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Big Violet](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944948798)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Big Grey](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393944981566)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Big White](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945014334)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Big Blue](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945047102)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Big Red](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945079870)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Small Pink](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945112638)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Small Violet](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945145406)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Small Grey](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945178174)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Small White](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945210942)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Small Blue](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945243710)
+    Availability: Available
+    Price: $89.99 USD
+  - [Gold Necklace / Small Red](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box?variant=42393945276478)
+    Availability: Available
+    Price: $89.99 USD
+- [Classic Moissanite Pendant - D VVS Sterling Silver Necklace](https://mrumstore.myshopify.com/products/classic-moissanite-pendant): Timeless Elegance Meets Brilliant SparkleExperience the captivating fire and brilliance of  D VVS moissanite, expertly set in premium sterling silver. This classic pendant delivers exceptional sparkle that rivals diamonds at a fraction of the cost.Why You'll Love It  D VVS Moissanite - The highest color and clarity grade for maximum brilliance Premium Sterling Silver - Durable, hypoallergenic setting that won't tarnish easily Everyday Versatility - Elegant enough for special occasions, refined enough for daily wear Exceptional Value - Diamond-like sparkle without the premium price tag Perfect ForWhether you're treating yourself or searching for a meaningful gift, this moissanite pendant adds a touch of sophistication to any outfit. Layer it with other necklaces or let it shine solo - either way, you'll radiate confidence.Material: Sterling SilverStone:  D VVS MoissaniteStyle: Classic Pendant
+  Updated: 2026-01-15T14:47:06Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_819_1768486294480-73492835-87317113-3600075_0.webp?v=1768487473
+  - [White 6.5mm / 45-50cm](https://mrumstore.myshopify.com/products/classic-moissanite-pendant?variant=42395278213182)
+    Availability: Available
+    Price: $59.99 USD
+  - [White 5mm / 45-50cm](https://mrumstore.myshopify.com/products/classic-moissanite-pendant?variant=42395278245950)
+    Availability: Available
+    Price: $59.99 USD
+  - [Yellow 6.5mm / 45-50cm](https://mrumstore.myshopify.com/products/classic-moissanite-pendant?variant=42395278278718)
+    Availability: Available
+    Price: $59.99 USD
+  - [Yellow 5mm / 45-50cm](https://mrumstore.myshopify.com/products/classic-moissanite-pendant?variant=42395278311486)
+    Availability: Available
+    Price: $59.99 USD
 
 ## Collections
 
