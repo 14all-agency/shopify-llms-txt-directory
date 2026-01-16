@@ -6,16 +6,16 @@
 - Timezone: Asia/Dhaka
 - Created At: 2024-01-17T06:20:01Z
 - Contact Email: raymondwildlife@gmail.com
-- Updated At: 2026-01-07T00:00:39.213Z
+- Updated At: 2026-01-16T00:00:40.102Z
 
 ## Products
 
 - [Our awesome T-shirt in 70 characters or less. – Raymond Coffee](https://raymondcoffee.online/products/example-t-shirt): A great description of your products in 320 characters or less
-  Updated: 2025-08-18T09:07:39Z
+  Updated: 2026-01-15T07:14:24Z
   Vendor: Acme
   Product Type: Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/example-t-shirt-133007.jpg?v=1722167991
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/example-t-shirt-133007.jpg?v=1768461264
   - [Lithograph - Height: 9" x Width: 12"](https://raymondcoffee.online/products/example-t-shirt?variant=47935424102710)
     Availability: Available
     Price: ৳25.00 BDT
@@ -26,18 +26,18 @@
     Availability: Not Available
     Price: ৳19.99 BDT
 - [The Scout Skincare Kit – Raymond Coffee](https://raymondcoffee.online/products/the-scout-skincare-kit): This is a demonstration store. You can purchase products like this from United By Blue. A collection of the best Ursa Major has to offer! "The Scout" kit contains travel sizes of their best  skin care items including: Face Wash (2 fl oz) Shave Cream (2 fl oz) Face Balm (0.5 fl oz) 5 tonic-infused bamboo Face Wip
-  Updated: 2025-10-08T23:07:53Z
+  Updated: 2026-01-15T07:16:20Z
   Vendor: Ursa Major
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/the-scout-skincare-kit-447520.jpg?v=1722167991
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/the-scout-skincare-kit-447520.jpg?v=1768461379
   Price: ৳36.00 BDT
 - [Ayres Chambray – Raymond Coffee](https://raymondcoffee.online/products/ayers-chambray): This is a demonstration store. You can purchase products like this from United By Blue. Comfortable and practical, our chambray button down is perfect for travel or days spent on the go. The Ayres Chambray has a rich, washed out indigo color suitable to throw on for any event. Made with sustainable soft chambray featur
-  Updated: 2025-09-21T09:07:39Z
+  Updated: 2026-01-15T07:16:19Z
   Vendor: United By Blue
   Product Type: Mens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/ayres-chambray-695156.jpg?v=1722167826
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/ayres-chambray-695156.jpg?v=1768461379
   - [S](https://raymondcoffee.online/products/ayers-chambray?variant=47972019372342)
     Availability: Available
     Price: ৳98.00 BDT
@@ -51,11 +51,11 @@
     Availability: Available
     Price: ৳102.00 BDT
 - [Lodge – Raymond Coffee](https://raymondcoffee.online/products/lodge-womens-shirt): The lodge, after a day of white slopes, is a place of revelry, blazing fires and high spirits. 100% organic cotton, stonewashed graphic tee.
-  Updated: 2025-10-28T08:01:04Z
+  Updated: 2026-01-15T07:17:26Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/lodge-689204.jpg?v=1722167991
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/lodge-689204.jpg?v=1768461445
   - [White / XS](https://raymondcoffee.online/products/lodge-womens-shirt?variant=47972019503414)
     Availability: Available
     Price: ৳36.00 BDT
@@ -72,18 +72,18 @@
     Availability: Available
     Price: ৳36.00 BDT
 - [Pennsylvania Notebooks – Raymond Coffee](https://raymondcoffee.online/products/pennsylvania-field-notes): The Field Notes "State Fair" limited edition series features three notebooks, each with information on the great state of Pennsylvania
-  Updated: 2025-10-28T08:01:04Z
+  Updated: 2026-01-15T07:17:26Z
   Vendor: Field Notes
   Product Type: Home
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/pennsylvania-notebooks-773457.jpg?v=1722167991
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/pennsylvania-notebooks-773457.jpg?v=1768461445
   Price: ৳10.00 BDT
 - [Whitney Pullover – Raymond Coffee](https://raymondcoffee.online/products/whitney-pullover): The Whitney Pullover by United By Blue. 100% Wool, 4 guage. Handmade in Nepal
-  Updated: 2025-09-23T09:07:39Z
+  Updated: 2026-01-15T07:20:12Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/whitney-pullover-461850.jpg?v=1728471339
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/whitney-pullover-461850.jpg?v=1768461522
   - [S](https://raymondcoffee.online/products/whitney-pullover?variant=47972019765558)
     Availability: Not Available
     Price: ৳138.00 BDT
@@ -97,11 +97,11 @@
     Availability: Not Available
     Price: ৳138.00 BDT
 - [Gertrude Cardigan – Raymond Coffee](https://raymondcoffee.online/products/gertrude-cardigan): The Shipton Cardigan by United By Blue. 100% Nepalese Wool, 8 guage. Handmade
-  Updated: 2025-10-08T17:38:36Z
+  Updated: 2026-01-15T07:21:12Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/gertrude-cardigan-597654.jpg?v=1722167992
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/gertrude-cardigan-597654.jpg?v=1768461642
   - [Charcoal / XS](https://raymondcoffee.online/products/gertrude-cardigan?variant=47972020060470)
     Availability: Available
     Price: ৳108.00 BDT
@@ -118,18 +118,18 @@
     Availability: Not Available
     Price: ৳108.00 BDT
 - [Derby Tier Backpack – Raymond Coffee](https://raymondcoffee.online/products/derby-tier-backpack): 100% organic canvas exterior with padded straps, leather details, and brass hardware. Available in Navy Blue, Khaki, Moss Green, Nutmeg, and Chocolate
-  Updated: 2025-09-19T09:07:39Z
+  Updated: 2026-01-15T07:24:46Z
   Vendor: United By Blue
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/derby-tier-backpack-998268.jpg?v=1722167829
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/derby-tier-backpack-998268.jpg?v=1768461824
   Price: ৳148.00 BDT
 - [Chevron – Raymond Coffee](https://raymondcoffee.online/products/chevron): This is a demonstration store. You can purchase products like this from United By Blue. 100% organic cotton, stone washed slub knit 6 oz jersey fabric Made in California.
-  Updated: 2025-10-28T08:01:28Z
+  Updated: 2026-01-15T07:25:18Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/chevron-682302.jpg?v=1722167826
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/chevron-682302.jpg?v=1768461918
   - [Cream Melange / XS](https://raymondcoffee.online/products/chevron?variant=47972020584758)
     Availability: Not Available
     Price: ৳36.00 BDT
@@ -146,11 +146,11 @@
     Availability: Not Available
     Price: ৳36.00 BDT
 - [ – Raymond Coffee](https://raymondcoffee.online/products/): This is a demonstration store. You can purchase products like this from United By Blue. 100% organic cotton, stone washed slub knit 6 oz jersey fabric Made in Ca
-  Updated: 2025-10-28T08:01:28Z
+  Updated: 2026-01-15T07:25:49Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/-925484.jpg?v=1722167991
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/-925484.jpg?v=1768461949
   - [Navy / XS](https://raymondcoffee.online/products/?variant=47972020748598)
     Availability: Not Available
     Price: ৳36.00 BDT
@@ -167,11 +167,11 @@
     Availability: Not Available
     Price: ৳36.00 BDT
 - [Moon Cycle – Raymond Coffee](https://raymondcoffee.online/products/lunar-cirque): This is a demonstration store. You can purchase products like this from United By Blue. 100% Organic Cotton Stone Washed Slub Knit 6 oz Jersey Fabric Made in California Julie is 5'8" and wearing a size small
-  Updated: 2025-10-08T19:41:44Z
+  Updated: 2026-01-15T07:26:54Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/moon-cycle-865437.jpg?v=1722167992
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/moon-cycle-865437.jpg?v=1768461985
   - [Gunmetal / XS](https://raymondcoffee.online/products/lunar-cirque?variant=47972020912438)
     Availability: Available
     Price: ৳36.00 BDT
@@ -188,11 +188,11 @@
     Availability: Available
     Price: ৳36.00 BDT
 - [5 Panel Camp Cap Accessories! Raymond Coffee!](https://raymondcoffee.online/products/5-panel-hat): This is the custom meta description from toufiq
-  Updated: 2025-10-28T08:01:04Z
+  Updated: 2026-01-15T07:28:23Z
   Vendor: United By Blue
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/5-panel-camp-cap-149542.jpg?v=1723531393
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/5-panel-camp-cap-149542.jpg?v=1768462044
   - [Heather Green](https://raymondcoffee.online/products/5-panel-hat?variant=47972021076278)
     Availability: Not Available
     Price: ৳48.00 BDT
@@ -206,29 +206,29 @@
     Availability: Available
     Price: ৳48.00 BDT
 - [Canvas Lunch Bag – Raymond Coffee](https://raymondcoffee.online/products/canvas-lunch-bag): This is a demonstration store. You can purchase products like this from United By Blue. Reusable, durable, and roomy. Our lunchbag has a snap-closure top that rolls down to perfect for trail snacks and lunches. Small enough to throw in any of our bags. 100% Organic Cotton Leather Trim Lifetime Guarantee
-  Updated: 2025-08-25T09:07:07Z
+  Updated: 2026-01-15T07:32:23Z
   Vendor: United By Blue
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-638582.jpg?v=1722167831
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-638582.jpg?v=1768462230
   - [Khaki](https://raymondcoffee.online/products/canvas-lunch-bag?variant=47972021895478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-638582.jpg?v=1722167831
+    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-638582.jpg?v=1768462230
     Price: ৳32.00 BDT
   - [Moss](https://raymondcoffee.online/products/canvas-lunch-bag?variant=47972021928246)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-483312.jpg?v=1722167831
+    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-483312.jpg?v=1768462281
     Price: ৳32.00 BDT
   - [Nutmeg](https://raymondcoffee.online/products/canvas-lunch-bag?variant=47972021961014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-705988.jpg?v=1722167831
+    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-705988.jpg?v=1768462281
     Price: ৳32.00 BDT
 - [Duckworth Woolfill Jacket – Raymond Coffee](https://raymondcoffee.online/products/foraker-canvas-coat): This is a demonstration store. You can purchase products like this from United By Blue. Inspired by the timeless, functional style of your grandfather's work coat, the Foraker features brass buttons and 4 patch pockets. Crafted in Bristol, Tennessee, our 10oz organic duck canvas is light enough for an early summer morn
-  Updated: 2025-10-25T00:17:31Z
+  Updated: 2026-01-15T07:33:59Z
   Vendor: United By Blue
   Product Type: Mens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/duckworth-woolfill-jacket-112590.jpg?v=1722167828
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/duckworth-woolfill-jacket-112590.jpg?v=1768462402
   - [Harvest / S](https://raymondcoffee.online/products/foraker-canvas-coat?variant=47972022354230)
     Availability: Available
     Price: ৳188.00 BDT
@@ -254,11 +254,11 @@
     Availability: Not Available
     Price: ৳188.00 BDT
 - [Scout Backpack – Raymond Coffee](https://raymondcoffee.online/products/scout-backpack): This is a demonstration store. You can purchase products like this from United By Blue. This durable backpack is ready for any adventure, large or small. Features adjustable and padded shoulder pads for comfort. Designed with a storm flap and a secured by two snap-button closure. Made with a waxed downpour proof exteri
-  Updated: 2025-10-28T08:01:04Z
+  Updated: 2026-01-15T07:35:36Z
   Vendor: United By Blue
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/scout-backpack-295574.jpg?v=1722167992
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/scout-backpack-295574.jpg?v=1768462467
   - [Khaki](https://raymondcoffee.online/products/scout-backpack?variant=47972022616374)
     Availability: Not Available
     Price: ৳128.00 BDT
@@ -272,22 +272,22 @@
     Availability: Available
     Price: ৳128.00 BDT
 - [Cydney Plaid – Raymond Coffee](https://raymondcoffee.online/products/cydney-plaid): 100% Organic Cotton Plaid woven button down womens shirt, 4 oz Natural Corozo Buttons Made in the USA
-  Updated: 2025-08-24T09:07:29Z
+  Updated: 2026-01-15T07:36:25Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-436979.jpg?v=1722167831
+  Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-436979.jpg?v=1768462583
   - [XS](https://raymondcoffee.online/products/cydney-plaid?variant=47972022944054)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-946300.jpg?v=1722167831
     Price: ৳98.00 BDT
   - [S](https://raymondcoffee.online/products/cydney-plaid?variant=47972022976822)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-512422.jpg?v=1751192433
+    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-512422.jpg?v=1768462584
     Price: ৳98.00 BDT
   - [M](https://raymondcoffee.online/products/cydney-plaid?variant=47972023009590)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-436979.jpg?v=1722167831
+    Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-436979.jpg?v=1768462583
     Price: ৳98.00 BDT
   - [L](https://raymondcoffee.online/products/cydney-plaid?variant=47972023042358)
     Availability: Not Available
@@ -336,7 +336,7 @@
     Availability: Not Available
     Price: ৳310.00 BDT
 - [Long Sleeve Swing Shirt - Relaxed Fit and Organic Cotton](https://raymondcoffee.online/products/long-sleeve-swing): Discover the Long Sleeve Swing Shirt made from 100% organic cotton with a relaxed fit for ultimate comfort. Perfect for everyday wear at United By Blue.
-  Updated: 2026-01-04T11:10:51Z
+  Updated: 2026-01-15T08:58:02Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
@@ -454,13 +454,13 @@
   Updated: 2024-11-21T11:18:55Z
   Total Products: 7
 - [Optionize Add-ons](https://raymondcoffee.online/collections/optionize-add-ons)
-  Updated: 2025-01-13T07:08:34Z
+  Updated: 2026-01-13T06:39:41Z
   Total Products: 0
 - [All products](https://raymondcoffee.online/collections/all)
-  Updated: 2025-09-25T06:38:20Z
+  Updated: 2026-01-13T06:39:40Z
   Total Products: 31
 - [AVADA - Best Sellers](https://raymondcoffee.online/collections/avada-best-sellers)
-  Updated: 2025-09-25T06:38:20Z
+  Updated: 2026-01-13T06:39:41Z
   Total Products: 30
 
 ## Blogs
