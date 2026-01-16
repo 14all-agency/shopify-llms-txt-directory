@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2026-01-08T00:00:45.255Z
+- Updated At: 2026-01-16T00:00:44.311Z
 
 ## Products
 
@@ -104,7 +104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazza1natale.jpg?v=1738713752
   Price: 9,90 € EUR
 - [Tazza "Infermiere" personalizzabile con nome](https://www.amashopstudio.it/products/tazza-infermiere-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:14Z
+  Updated: 2026-01-08T04:49:58Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -501,7 +501,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Crea la tua t-shirt](https://www.amashopstudio.it/products/crea-la-tua-t-shirt): Crea la tua t-shirt ,aggiungi immagini,testi,colori e grafiche per creare un design unico. Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Lavabile in lavatrice. Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:21Z
+  Updated: 2026-01-13T04:28:15Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -657,7 +657,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/CREAILTUOBAVAGLINO.jpg?v=1738706086
   Price: 6,00 € EUR
 - [Bavaglino rosa ''Personalizzalo come vuoi ''](https://www.amashopstudio.it/products/bavaglino-rosa-personalizzalo-come-vuoi-copia): PERSONALIZZABILE: Crea il bavaglino come preferisci, con nomi, date, dediche. Bavaglino in poliestere dal bordino colorato rosa . Puoi personalizzarlo aggiungendo le scritte in base alle tue esigenze .
-  Updated: 2025-09-17T14:59:22Z
+  Updated: 2026-01-12T11:02:19Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -801,7 +801,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/cosedafare_ec5ab4d8-119c-416a-828f-83292b49f418.jpg?v=1739632736
   Price: 8,00 € EUR
 - [Blocco note ''La maestra'' personalizzabile](https://www.amashopstudio.it/products/blocco-note-la-maestra-personalizzabile): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le tue maestre ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:25Z
+  Updated: 2026-01-13T03:02:04Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -983,7 +983,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/STICAZZIJPG_fcafd457-b477-484a-95ef-fa121cbe52e9.jpg?v=1739743711
   Price: 8,00 € EUR
 - [Tappetino mouse ' Sei dei nostri' personalizzabile con nome, data o dedica](https://www.amashopstudio.it/products/tappetino-mouse-sei-dei-nostri-personalizzabile-con-nome-data-o-dedic): Tappetino mouse con frase ironica stampato con colori brillanti . Fai un regalo unico . Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:29Z
+  Updated: 2026-01-08T06:48:40Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1289,7 +1289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
 - [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2026-01-05T16:20:53Z
+  Updated: 2026-01-15T16:11:55Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
