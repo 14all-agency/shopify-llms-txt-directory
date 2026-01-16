@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2026-01-08T00:00:40.520Z
+- Updated At: 2026-01-16T00:00:39.976Z
 
 ## Products
 
 - [Rankz-Test Untethered Snowboard for Unmatched Performance and Style](https://rankz-test-2.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2025-10-28T08:31:40Z
+  Updated: 2026-01-15T03:14:06Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
@@ -35,8 +35,8 @@
   - [$100](https://rankz-test-2.myshopify.com/products/gift-card?variant=43057185062990)
     Availability: Available
     Price: $100.00 USD
-- [The Minimal Snowboard](https://rankz-test-2.myshopify.com/products/the-minimal-snowboard)
-  Updated: 2025-10-22T13:48:07Z
+- [Effortless Carving: The Minimal All-Terrain Snowboard Experience](https://rankz-test-2.myshopify.com/products/the-minimal-snowboard): Effortless Carving: Minimal All-Terrain Snowboard for Riders
+  Updated: 2026-01-11T23:57:12Z
   Vendor: rankz-test
   Product Type: 
   Availability: Available
@@ -56,7 +56,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/snowboard_sky.png?v=1760949920
   Price: $785.95 USD
 - [Hidden Snowboard](https://rankz-test-2.myshopify.com/products/the-hidden-snowboard): hidden snowboard winter sport snowboarding
-  Updated: 2025-10-22T13:48:07Z
+  Updated: 2026-01-15T03:14:06Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
@@ -116,41 +116,41 @@
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1760949920
   Price: $1,025.00 USD
 - [The Multi-location Snowboard](https://rankz-test-2.myshopify.com/products/the-multi-location-snowboard)
-  Updated: 2025-10-22T13:48:07Z
+  Updated: 2026-01-15T03:14:07Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1760949921
   Price: $729.95 USD
 - [The 3p Fulfilled Snowboard](https://rankz-test-2.myshopify.com/products/the-3p-fulfilled-snowboard)
-  Updated: 2025-10-22T13:48:07Z
+  Updated: 2026-01-15T03:14:07Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1760949921
   Price: $2,629.95 USD
 - [The Multi-managed Snowboard](https://rankz-test-2.myshopify.com/products/the-multi-managed-snowboard)
-  Updated: 2025-10-22T13:48:07Z
+  Updated: 2026-01-15T03:14:08Z
   Vendor: Multi-managed Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1760949920
   Price: $629.95 USD
 - [The Collection Snowboard: Liquid](https://rankz-test-2.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2025-10-22T14:37:39Z
+  Updated: 2026-01-15T03:14:08Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1760949920
   Price: $749.95 USD
 - [Yellow Snowboard](https://rankz-test-2.myshopify.com/products/yellow-snowboard)
-  Updated: 2025-10-22T12:05:19Z
+  Updated: 2026-01-15T03:14:09Z
   Vendor: rankz-test
   Product Type: 
   Availability: Available
   Price: $100.00 USD
 - [Red Snowboard](https://rankz-test-2.myshopify.com/products/red-snowboard): something that makes sense
-  Updated: 2025-10-23T04:28:22Z
+  Updated: 2026-01-15T03:14:09Z
   Vendor: rankz-test
   Product Type: 
   Availability: Available
