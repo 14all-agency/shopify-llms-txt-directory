@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-21T11:23:50Z
 - Contact Email: haolee1990@qq.com
-- Updated At: 2026-01-04T00:00:38.975Z
+- Updated At: 2026-01-16T00:00:39.286Z
 
 ## Products
 
@@ -48,21 +48,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/7038/0728/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1761045871
   Price: $600.00 USD
-- [Selling Plans Ski Wax](https://grapes-9783.myshopify.com/products/selling-plans-ski-wax)
+- [ Plans Ski Wax](https://grapes-9783.myshopify.com/products/-plans-ski-wax)
   Updated: 2025-10-22T09:01:20Z
   Vendor: grapes
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/7038/0728/files/snowboard_wax.png?v=1761045872
-  - [Selling Plans Ski Wax](https://grapes-9783.myshopify.com/products/selling-plans-ski-wax?variant=52195883974840)
+  - [ Plans Ski Wax](https://grapes-9783.myshopify.com/products/-plans-ski-wax?variant=52195883974840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0916/7038/0728/files/snowboard_wax.png?v=1761045872
     Price: $24.95 USD
-  - [Special Selling Plans Ski Wax](https://grapes-9783.myshopify.com/products/selling-plans-ski-wax?variant=52195884007608)
+  - [Special  Plans Ski Wax](https://grapes-9783.myshopify.com/products/-plans-ski-wax?variant=52195884007608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0916/7038/0728/files/wax-special.png?v=1761045872
     Price: $49.95 USD
-  - [Sample Selling Plans Ski Wax](https://grapes-9783.myshopify.com/products/selling-plans-ski-wax?variant=52195884040376)
+  - [Sample  Plans Ski Wax](https://grapes-9783.myshopify.com/products/-plans-ski-wax?variant=52195884040376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0916/7038/0728/files/sample-normal-wax.png?v=1761045872
     Price: $9.95 USD
