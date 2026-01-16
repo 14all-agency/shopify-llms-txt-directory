@@ -10,7 +10,7 @@
 - Contact Email: liveleo9thebrand@gmail.com
 - Contact Phone: 12024277643
 - Address:  Brooksquare Drive
-- Updated At: 2026-01-08T00:00:39.170Z
+- Updated At: 2026-01-16T00:00:38.212Z
 
 LIVELEO9 A bespoke shop. 
 
@@ -1199,7 +1199,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/de31184d425a486e83d72b60c65ce47e.png?v=1763621924
     Price: $245.94 USD
 - [LIVELEO9 Essential Heavyweight Crewneck  Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt): Item Number:RW0003 Gender:Unisex Model:Loose Fabric:85% cotton, 15% polyester Fabric Weight:9.4 oz/yd² (320 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Daily Casual, Sport, Outdoor, Office, Cotton Blend, Long Sleeve, Regular Sleeve, Round Neck / O-Neck, Regular, Loose, Spring, Autumn Print Size:40*52cm Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 20.5 52 21.3 54 22.0 56 22.8 58 23.6 60 24.4 62 Length 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 31.1 79 Shoulder 17.1 43.5 17.7 45 18.3 46.5 18.9 48 19.5 49.5 20.1 51 Sleeve length 24.0 61 24.6 62.5 25.2 64 25.8 65.5 26.4 67 27.0 68.5 gid://shopify/Product/9063903953084
-  Updated: 2026-01-03T11:51:16Z
+  Updated: 2026-01-15T12:43:42Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -1207,27 +1207,27 @@ LIVELEO9 A bespoke shop.
   - [Haze Blue / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt?variant=45450848829628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7273e0f10ae42eebc741101e40b1e55.png?v=1763621942
-    Price: $231.95 USD
+    Price: $241.95 USD
   - [Haze Blue / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt?variant=45450848862396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7273e0f10ae42eebc741101e40b1e55.png?v=1763621942
-    Price: $231.95 USD
+    Price: $241.95 USD
   - [Haze Blue / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt?variant=45450848895164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7273e0f10ae42eebc741101e40b1e55.png?v=1763621942
-    Price: $231.95 USD
+    Price: $241.95 USD
   - [Haze Blue / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt?variant=45450848927932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7273e0f10ae42eebc741101e40b1e55.png?v=1763621942
-    Price: $231.95 USD
+    Price: $241.95 USD
   - [Haze Blue / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt?variant=45450848960700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7273e0f10ae42eebc741101e40b1e55.png?v=1763621942
-    Price: $231.95 USD
+    Price: $241.95 USD
   - [Haze Blue / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt?variant=45450848993468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7273e0f10ae42eebc741101e40b1e55.png?v=1763621942
-    Price: $231.95 USD
+    Price: $241.95 USD
 - [LIVELEO9 Essential Cropped Zip-Up Hoodie](https://liveleo9-athliesure.myshopify.com/products/essential-cropped-zip-up-hoodie): Item Number:WQ0002 Gender:Women Model:Loose Fabric:Main Fabric: 50% cotton, 50% polyester; Contrast Fabric: 50% cotton, 50% polyester Fabric Weight:10.3 oz/yd² (350 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Street, Sexy, Daily Casual, Gym, Running, Sport, Cotton Blend, Zipper, Long Sleeve, Regular Sleeve, Hooded, Crop, Loose, Winter Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 17.7 45 18.5 47 19.3 49 20.1 51 Length 18.1 46 18.7 47.5 19.3 49 19.9 50.5 Shoulder 18.1 46 18.9 48 19.7 50 20.5 52 Sleeve length 24.8 63 25.2 64 25.6 65 26.0 66 gid://shopify/Product/9063904018620
   Updated: 2026-01-03T11:51:16Z
   Vendor: ODMPOD
@@ -1617,8 +1617,8 @@ LIVELEO9 A bespoke shop.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2f1cc033f4dd47759e7b990026109e57.png?v=1763622065
   Price: $257.93 USD
-- [Lightweight Cocoon Shape Short Sleeve Top](https://liveleo9-athliesure.myshopify.com/products/lightweight-cocoon-shape-short-sleeve-top): Item Number:WT0008 Gender:Women Model:Regular Fabric:95% cotton, 5% elastane Fabric Weight:6.2 oz/yd² (210 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Beige, Black, Grey, Basics, Casual, Preppy, Daily Casual, Home, School, Office, Cotton Blend, Short Sleeve, Regular Sleeve, Round Neck / O-Neck, Regular, Regular, Spring, Summer, Autumn Print Size:40*52cm Size Chart S M L inch cm inch cm inch cm Chest 18.5 47 19.3 49 20.1 51 Length 21.5 54.5 22.0 56 22.6 57.5 Shoulder 17.3 44 17.7 45 18.1 46 Sleeve length 7.5 19 7.9 20 8.3 21 gid://shopify/Product/9063937933500
-  Updated: 2026-01-03T11:51:17Z
+- [LIVELEO9 x Foxxland Lightweight Cocoon Shape Short Sleeve Top](https://liveleo9-athliesure.myshopify.com/products/lightweight-cocoon-shape-short-sleeve-top): Item Number:WT0008 Gender:Women Model:Regular Fabric:95% cotton, 5% elastane Fabric Weight:6.2 oz/yd² (210 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Beige, Black, Grey, Basics, Casual, Preppy, Daily Casual, Home, School, Office, Cotton Blend, Short Sleeve, Regular Sleeve, Round Neck / O-Neck, Regular, Regular, Spring, Summer, Autumn Print Size:40*52cm Size Chart S M L inch cm inch cm inch cm Chest 18.5 47 19.3 49 20.1 51 Length 21.5 54.5 22.0 56 22.6 57.5 Shoulder 17.3 44 17.7 45 18.1 46 Sleeve length 7.5 19 7.9 20 8.3 21 gid://shopify/Product/9063937933500
+  Updated: 2026-01-08T22:16:35Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -2066,58 +2066,58 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/625cb37527294899aa09d19f955c0773.png?v=1763624144
     Price: $251.94 USD
 - [LIVELEO9 Two-Tone Blockchain Fleeced Varsity Jacket](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket): Item Number:RQ0001 Gender:Unisex Model:Regular Fabric:70% polyester, 30% cotton Fabric Weight:11.2 oz/yd² (380 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Street, Daily Casual, Outdoor, Home, Sport, Long Sleeve, Regular Sleeve, V-Neck, Regular, Loose, Winter Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 21.7 55 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Length 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 29.1 74 Shoulder 20.5 52 20.9 53 21.7 55 22.4 57 23.2 59 24.0 61 Sleeve length 22.0 56 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9063938916540
-  Updated: 2026-01-03T11:51:18Z
+  Updated: 2026-01-15T11:52:09Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
   - [Black with White / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950738108)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
     Price: $367.91 USD
   - [Black with White / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950770876)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
     Price: $367.91 USD
   - [Black with White / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950803644)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
     Price: $367.91 USD
   - [Black with White / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950836412)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
     Price: $367.91 USD
   - [Black with White / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950869180)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
     Price: $367.91 USD
   - [Black with White / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950901948)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f010862c2fe747ac98fd953d1375af03.png?v=1768477925
     Price: $367.91 USD
   - [Red with White / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950934716)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1768477925
     Price: $367.91 USD
   - [Red with White / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450950967484)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1768477925
     Price: $367.91 USD
   - [Red with White / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450951000252)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1768477925
     Price: $367.91 USD
   - [Red with White / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450951033020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1768477925
     Price: $367.91 USD
   - [Red with White / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450951065788)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1768477925
     Price: $367.91 USD
   - [Red with White / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket?variant=45450951098556)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1763884949
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/d6bce79399da46c0b29c2b686f816450.png?v=1768477925
     Price: $367.91 USD
 - [LIVELEO9 Raw-Hem Color-Blockchain Raglan Crop Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/raw-hem-color-block-raglan-crop-sweatshirt): Item Number:WW0001 Gender:Women Model:Bodycon Fabric:56.44% cotton, 43.56% polyester Fabric Weight:12.4 oz/yd² (420 g/m²) Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Street, Casual, Cotton Blend, Round Neck / O-Neck, Crop, Bodycon, Spring, Autumn Print Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 19.3 49 20.1 51 20.9 53 21.7 55 Length 15.7 40 16.3 41.5 16.9 43 17.5 44.5 Sleeve length 26.4 67 27.0 68.5 27.6 70 28.1 71.5 gid://shopify/Product/9063939145916
   Updated: 2026-01-03T11:51:18Z
@@ -2189,50 +2189,50 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/cb5fba7679864b02bb2657cfcd96f37d.png?v=1763884208
     Price: $245.94 USD
-- [LIVELEO9 Big Hood Half-Zip Fleece Hoodie](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1): Item Number:RW0012 Gender:Unisex Model:Loose Fabric:84.43% cotton, 15.57% polyester Fabric Weight:12.1 oz/yd² (410 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Daily Casual, Zipper, Long Sleeve, Regular Sleeve, Regular, Loose, Winter Size Chart M L XL 2XL inch cm inch cm inch cm inch cm Chest 26.8 68 27.6 70 28.3 72 29.1 74 Length 28.0 71 28.7 73 29.5 75 30.3 77 Shoulder 25.6 65 26.4 67 27.2 69 28.0 71 Sleeve length 21.3 54 21.7 55 22.0 56 22.4 57 gid://shopify/Product/9063939309756
-  Updated: 2026-01-03T11:51:18Z
+- [LIVELEO9  Half-Zip Fleece Hoodie | Big Hood |](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1): Item Number:RW0012 Gender:Unisex Model:Loose Fabric:84.43% cotton, 15.57% polyester Fabric Weight:12.1 oz/yd² (410 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Daily Casual, Zipper, Long Sleeve, Regular Sleeve, Regular, Loose, Winter Size Chart M L XL 2XL inch cm inch cm inch cm inch cm Chest 26.8 68 27.6 70 28.3 72 29.1 74 Length 28.0 71 28.7 73 29.5 75 30.3 77 Shoulder 25.6 65 26.4 67 27.2 69 28.0 71 Sleeve length 21.3 54 21.7 55 22.0 56 22.4 57 gid://shopify/Product/9063939309756
+  Updated: 2026-01-15T11:55:27Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1763883992
-  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957422780)
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1768478126
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957422780)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1768478126
     Price: $271.94 USD
-  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957455548)
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957455548)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1768478126
     Price: $271.94 USD
-  - [Black / XL](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957488316)
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957488316)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1768478126
     Price: $271.94 USD
-  - [Black / 2XL](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957521084)
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957521084)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/29dfaca3b5ad4bc088915f38a47fe69f.png?v=1768478126
     Price: $271.94 USD
-  - [Light Gray / M](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957553852)
+  - [Light Gray / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957553852)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1768478126
     Price: $271.94 USD
-  - [Light Gray / L](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957586620)
+  - [Light Gray / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957586620)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1768478126
     Price: $271.94 USD
-  - [Light Gray / XL](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957619388)
+  - [Light Gray / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957619388)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1768478126
     Price: $271.94 USD
-  - [Light Gray / 2XL](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957652156)
+  - [Light Gray / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1?variant=45450957652156)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1763883992
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1768478126
     Price: $271.94 USD
 - [LIVELEO9  x AMIA Heavyweight Sunfade Oversized Hoodie](https://liveleo9-athliesure.myshopify.com/products/heavyweight-sunfade-oversized-hoodie): Item Number:RU0066 Gender:Unisex Model:Loose Fabric:100% cotton Fabric Weight:11.8 oz/yd² (400 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, Home, Outdoor, Sport, Pure Cotton, Washed, Pocket, Long Sleeve, Drop Shoulder, Hooded, Long, Loose, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 26.4 67 27.2 69 28.0 71 28.7 73 29.5 75 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 22.4 57 23.0 58.5 23.6 60 24.2 61.5 24.8 63 Sleeve length 24.0 61 24.4 62 24.8 63 25.2 64 25.6 65 gid://shopify/Product/9063939408060
-  Updated: 2026-01-03T11:51:18Z
+  Updated: 2026-01-15T11:57:34Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6e88d27e99b94fbcaad3145617ea7ae3.png?v=1763883836
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e14b3411c1a24128b3d71016fed58a7f.png?v=1768478254
   - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/heavyweight-sunfade-oversized-hoodie?variant=45450953621692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/172226b62fa140c0bfc017268a9b8312.png?v=1763624216
@@ -2763,8 +2763,8 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f9ec179c4d274d5386d7569e969e182b.png?v=1763626009
     Price: $137.96 USD
-- [LIVELEO9 Snow Washed Raw Edge Cropped Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/snow-washed-raw-edge-cropped-sweatshirt): Item Number:RW0004 Gender:Women Model:Loose Fabric:100% Cotton Fabric Weight:11.2 oz/yd² (380 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Sexy, Daily Casual, Outdoor, Pure Cotton, Snow Wash, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Crop, Loose, Spring, Autumn Print Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 21.3 54 22.0 56 22.8 58 23.6 60 Length 16.5 42 17.3 44 18.1 46 18.9 48 Shoulder 21.1 53.5 21.7 55 22.2 56.5 22.8 58 Sleeve length 20.5 52 21.1 53.5 21.7 55 22.2 56.5 gid://shopify/Product/9063953465532
-  Updated: 2026-01-03T11:51:19Z
+- [LIVELEO9 x AMIA Snow Washed Raw Edge Cropped Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/snow-washed-raw-edge-cropped-sweatshirt): Item Number:RW0004 Gender:Women Model:Loose Fabric:100% Cotton Fabric Weight:11.2 oz/yd² (380 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Sexy, Daily Casual, Outdoor, Pure Cotton, Snow Wash, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Crop, Loose, Spring, Autumn Print Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 21.3 54 22.0 56 22.8 58 23.6 60 Length 16.5 42 17.3 44 18.1 46 18.9 48 Shoulder 21.1 53.5 21.7 55 22.2 56.5 22.8 58 Sleeve length 20.5 52 21.1 53.5 21.7 55 22.2 56.5 gid://shopify/Product/9063953465532
+  Updated: 2026-01-08T22:10:10Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -3153,49 +3153,49 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8177688be82b41f39067938cc7cf9664.png?v=1763626342
     Price: $367.91 USD
-- [LIVELEEO9 Essential Zip-Up Fleeced Varsity Jacket](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket): Item Number:RQ0007 Gender:Unisex Model:Loose Fabric:57.4% polyester, 36.8% cotton, 5.8% other fibers Fabric Weight:10.3 oz/yd² (350 g/m²) Fabric Thickness:Thicken Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Vintage, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Pocket, Zipper, Long Sleeve, Drop Shoulder, V-Neck, Regular, Loose, Spring, Autumn, Winter Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 23.2 59 24.0 61 24.8 63 25.6 65 26.4 67 Length 25.8 65.5 26.4 67 27.0 68.5 27.6 70 28.1 71.5 Shoulder 21.1 53.5 21.7 55 22.2 56.5 22.8 58 23.4 59.5 Sleeve length 24.4 62 24.8 63 25.2 64 25.6 65 26.0 66 gid://shopify/Product/9063953694908
-  Updated: 2026-01-03T11:51:19Z
+- [LIVELEEO9 x Foxxland Essential Zip-Up Fleeced Varsity Jacket](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket): Item Number:RQ0007 Gender:Unisex Model:Loose Fabric:57.4% polyester, 36.8% cotton, 5.8% other fibers Fabric Weight:10.3 oz/yd² (350 g/m²) Fabric Thickness:Thicken Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Vintage, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Pocket, Zipper, Long Sleeve, Drop Shoulder, V-Neck, Regular, Loose, Spring, Autumn, Winter Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 23.2 59 24.0 61 24.8 63 25.6 65 26.4 67 Length 25.8 65.5 26.4 67 27.0 68.5 27.6 70 28.1 71.5 Shoulder 21.1 53.5 21.7 55 22.2 56.5 22.8 58 23.4 59.5 Sleeve length 24.4 62 24.8 63 25.2 64 25.6 65 26.0 66 gid://shopify/Product/9063953694908
+  Updated: 2026-01-15T12:20:25Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b6385dc8b300485290207aabe7aa6241.png?v=1763626030
-  - [Black / S](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043307708)
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043307708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cf91d6b45ae4d1cb501f21e096dfeeb.png?v=1763626030
     Price: $310.92 USD
-  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043340476)
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043340476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cf91d6b45ae4d1cb501f21e096dfeeb.png?v=1763626030
     Price: $310.92 USD
-  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043373244)
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043373244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cf91d6b45ae4d1cb501f21e096dfeeb.png?v=1763626030
     Price: $310.92 USD
-  - [Black / XL](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043406012)
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043406012)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cf91d6b45ae4d1cb501f21e096dfeeb.png?v=1763626030
     Price: $310.92 USD
-  - [Black / 2XL](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043438780)
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043438780)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cf91d6b45ae4d1cb501f21e096dfeeb.png?v=1763626030
     Price: $310.92 USD
-  - [Dark Gray / S](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043471548)
+  - [Dark Gray / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043471548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/15aabf53223744bab42e908344165ec8.png?v=1763626030
     Price: $310.92 USD
-  - [Dark Gray / M](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043504316)
+  - [Dark Gray / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043504316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/15aabf53223744bab42e908344165ec8.png?v=1763626030
     Price: $310.92 USD
-  - [Dark Gray / L](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043537084)
+  - [Dark Gray / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043537084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/15aabf53223744bab42e908344165ec8.png?v=1763626030
     Price: $310.92 USD
-  - [Dark Gray / XL](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043569852)
+  - [Dark Gray / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043569852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/15aabf53223744bab42e908344165ec8.png?v=1763626030
     Price: $310.92 USD
-  - [Dark Gray / 2XL](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043602620)
+  - [Dark Gray / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-zip-up-fleeced-varsity-jacket?variant=45451043602620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/15aabf53223744bab42e908344165ec8.png?v=1763626030
     Price: $310.92 USD
@@ -4636,7 +4636,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/bd30e7baf9f243dd9960039f8da752c4.png?v=1764129920
     Price: $269.96 USD
 - [LIVELEO9 Essential Fleece Kids' Crewneck Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-fleece-kids-crewneck-sweatshirt): Item Number:KW0001Gender:NeutralModel:LooseFabric:86.7% cotton, 13.3% polyesterFabric Weight:10.8 oz/yd² (365 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Daily Casual, Outdoor, Sport, School, Cotton Blend, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, Autumn, WinterPrint Size:40*52cm Size Chart 130 140 150 160 170 180 inch cm inch cm inch cm inch cm inch cm inch cm Chest 17.5 44.5 18.9 48 20.5 52 22.0 56 23.6 60 25.2 64 Length 20.5 52 22.0 56 23.6 60 25.2 64 26.8 68 28.3 72 Shoulder 19.1 48.5 20.5 52 22.0 56 23.6 60 25.2 64 26.8 68 Sleeve length 15.0 38 16.3 41.5 17.9 45.5 19.5 49.5 21.1 53.5 22.6 57.5 gid://shopify/Product/9071512486076
-  Updated: 2026-01-03T11:51:22Z
+  Updated: 2026-01-15T11:44:19Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -5988,7 +5988,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/655be929f2f9477c9d035c02f0443d92.png?v=1764306825
     Price: $229.96 USD
 - [LIVELEO9 Contrast Raglan Sleeve Baseball Jacket](https://liveleo9-athliesure.myshopify.com/products/contrast-raglan-sleeve-baseball-jacket): Item Number:RQ0029Gender:UnisexModel:LooseFabric:Main Fabric: 61.9% cotton, 38.1% polyester; Contrast Fabric: 100% polyesterFabric Weight:11.2 oz/yd² (380 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Daily Casual, Outdoor, School, Sport, Cotton Blend, Patchwork, Button, Long Sleeve, Raglan Sleeve, Lapel Collar, Regular, Loose, WinterPrint Size:40*52cm Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 21.3 54 22.0 56 22.8 58 23.6 60 24.4 62 25.2 64 Sleeve Length 29.7 75.5 30.3 77 30.9 78.5 31.5 80 32.1 81.5 32.7 83 Length 26.2 66.5 27.0 68.5 27.8 70.5 28.5 72.5 29.3 74.5 30.1 76.5 gid://shopify/Product/9072566567100
-  Updated: 2026-01-03T11:51:23Z
+  Updated: 2026-01-15T11:46:09Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -6065,132 +6065,6 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0ce0ebf250be4fc8832799c35afd161c.png?v=1764307400
     Price: $367.91 USD
-- [LIVELEO9 Color Block Raglan Sleeve Zip Track Jacket](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket): Item Number:RQ0019Gender:UnisexModel:LooseFabric:Main Fabric: 61.9% cotton, 38.1% polyester; Contrast Fabric: 100% polyesterFabric Weight:11.2 oz/yd² (380 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Zipper, Patchwork, Long Sleeve, Raglan Sleeve, Stand Collar, Regular, Regular, Autumn, WinterPrint Size:40*52cm Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 20.7 52.5 21.5 54.5 22.2 56.5 23.0 58.5 23.8 60.5 24.6 62.5 Length 26.0 66 26.8 68 27.6 70 28.3 72 29.1 74 29.9 76 Sleeve length 30.7 78 31.3 79.5 31.9 81 32.5 82.5 33.1 84 33.7 85.5 gid://shopify/Product/9072567976124
-  Updated: 2026-01-03T11:51:24Z
-  Vendor: ODMPOD
-  Product Type: LIVELEO9
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-  - [Black / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488588882108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/48733f8f799d40f99770efd6d10a1ac9.png?v=1764308192
-    Price: $361.94 USD
-  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488588914876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/48733f8f799d40f99770efd6d10a1ac9.png?v=1764308192
-    Price: $361.94 USD
-  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488588947644)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/48733f8f799d40f99770efd6d10a1ac9.png?v=1764308192
-    Price: $361.94 USD
-  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488588980412)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/48733f8f799d40f99770efd6d10a1ac9.png?v=1764308192
-    Price: $361.94 USD
-  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589013180)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/48733f8f799d40f99770efd6d10a1ac9.png?v=1764308192
-    Price: $361.94 USD
-  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589045948)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/48733f8f799d40f99770efd6d10a1ac9.png?v=1764308192
-    Price: $361.94 USD
-  - [Mild Apricot / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589078716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-    Price: $361.94 USD
-  - [Mild Apricot / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589111484)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-    Price: $361.94 USD
-  - [Mild Apricot / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589144252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-    Price: $361.94 USD
-  - [Mild Apricot / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589177020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-    Price: $361.94 USD
-  - [Mild Apricot / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589209788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-    Price: $361.94 USD
-  - [Mild Apricot / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589242556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9c795b30f89848b5b2d97408d3427b3a.png?v=1764308192
-    Price: $361.94 USD
-  - [Sky Blue / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589275324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/902cbf6ee81948318940498d4a7c7753.png?v=1764307955
-    Price: $361.94 USD
-  - [Sky Blue / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589308092)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/902cbf6ee81948318940498d4a7c7753.png?v=1764307955
-    Price: $361.94 USD
-  - [Sky Blue / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589340860)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/902cbf6ee81948318940498d4a7c7753.png?v=1764307955
-    Price: $361.94 USD
-  - [Sky Blue / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589373628)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/902cbf6ee81948318940498d4a7c7753.png?v=1764307955
-    Price: $361.94 USD
-  - [Sky Blue / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589406396)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/902cbf6ee81948318940498d4a7c7753.png?v=1764307955
-    Price: $361.94 USD
-  - [Sky Blue / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589439164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/902cbf6ee81948318940498d4a7c7753.png?v=1764307955
-    Price: $361.94 USD
-  - [Red / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589471932)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f62a3585e17344a8adda4127cef9d3ad.png?v=1764307955
-    Price: $361.94 USD
-  - [Red / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589504700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f62a3585e17344a8adda4127cef9d3ad.png?v=1764307955
-    Price: $361.94 USD
-  - [Red / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589537468)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f62a3585e17344a8adda4127cef9d3ad.png?v=1764307955
-    Price: $361.94 USD
-  - [Red / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589570236)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f62a3585e17344a8adda4127cef9d3ad.png?v=1764307955
-    Price: $361.94 USD
-  - [Red / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589603004)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f62a3585e17344a8adda4127cef9d3ad.png?v=1764307955
-    Price: $361.94 USD
-  - [Red / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589635772)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f62a3585e17344a8adda4127cef9d3ad.png?v=1764307955
-    Price: $361.94 USD
-  - [Navy Blue / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589668540)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b526df06dc434a84be2eee3204308b1c.png?v=1764307956
-    Price: $361.94 USD
-  - [Navy Blue / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589701308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b526df06dc434a84be2eee3204308b1c.png?v=1764307956
-    Price: $361.94 USD
-  - [Navy Blue / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589734076)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b526df06dc434a84be2eee3204308b1c.png?v=1764307956
-    Price: $361.94 USD
-  - [Navy Blue / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589766844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b526df06dc434a84be2eee3204308b1c.png?v=1764307956
-    Price: $361.94 USD
-  - [Navy Blue / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589799612)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b526df06dc434a84be2eee3204308b1c.png?v=1764307956
-    Price: $361.94 USD
-  - [Navy Blue / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-raglan-sleeve-zip-track-jacket?variant=45488589832380)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b526df06dc434a84be2eee3204308b1c.png?v=1764307956
-    Price: $361.94 USD
 - [LIVELEO9 Vintage Washed Heavyweight Crewneck Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-heavyweight-crewneck-sweatshirt): Item Number:RW0050Gender:UnisexModel:RegularFabric:60.3% cotton, 39.7% polyesterFabric Weight:11.8 oz/yd² (400 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, Sport, Office, Cotton Blend, Washed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL 2XL 3XL 4XL inch cm inch cm inch cm inch cm inch cm inch cm inch cm Chest 24.4 62 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 29.1 74 Length 26.4 67 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 31.1 79 Shoulder 22.8 58 23.6 60 24.0 61 24.8 63 25.6 65 26.0 66 26.8 68 Sleeve length 21.3 54 21.7 55 22.0 56 22.4 57 22.8 58 23.2 59 23.6 60 gid://shopify/Product/9073658265788
   Updated: 2026-01-03T11:51:24Z
   Vendor: ODMPOD
@@ -6546,7 +6420,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6a02e76c12524a6a8ffd1463ef56d46a.png?v=1764488451
     Price: $239.96 USD
 - [LIVELEO9 Essential Heavyweight Oversized Drawstring Hem Hoodie](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-oversized-drawstring-hem-hoodie): Item Number:RW0054Gender:UnisexModel:LooseFabric:56.44% cotton, 43.56% polyesterFabric Weight:12.4 oz/yd² (420 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Drawstring, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, WinterPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 25.6 65 26.6 67.5 27.6 70 28.5 72.5 Length 26.0 66 26.8 68 27.6 70 28.3 72 Shoulder 26.0 66 27.0 68.5 28.0 71 28.9 73.5 Sleeve length 20.9 53 21.7 55 22.0 56 22.8 58 gid://shopify/Product/9073662722236
-  Updated: 2026-01-03T11:51:24Z
+  Updated: 2026-01-15T11:35:01Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -7597,100 +7471,8 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/b1d683591c5345358bfc89ecf8e8b4ef.png?v=1765968486
     Price: $269.96 USD
-- [LIVELEO9 Mineral Wash Oversized Sweater](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater): Item Number:RM0003 Gender:Men Model:Loose Fabric:100% cotton Fabric Weight:8.4 oz/yd² (285 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Street, Daily Casual, Holiday, Outdoor, School, Office, Pure Cotton, Snow Wash, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, Autumn Print Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 Length 25.2 64 26.0 66 26.8 68 27.6 70 Shoulder 18.5 47 19.3 49 20.1 51 20.9 53 Sleeve length 25.2 64 25.6 65 26.0 66 26.4 67 gid://shopify/Product/9113136758972
-  Updated: 2026-01-03T11:51:26Z
-  Vendor: ODMPOD
-  Product Type: LIVELEO9
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/dfb623043a2342139a261b90d66451e8.png?v=1767348696
-  - [Black / S](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100708540)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/295be913fb164010b6126bb6498a9ed6.png?v=1767348696
-    Price: $245.96 USD
-  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100741308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/295be913fb164010b6126bb6498a9ed6.png?v=1767348696
-    Price: $245.96 USD
-  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100774076)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/295be913fb164010b6126bb6498a9ed6.png?v=1767348696
-    Price: $245.96 USD
-  - [Black / XL](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100806844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/295be913fb164010b6126bb6498a9ed6.png?v=1767348696
-    Price: $245.96 USD
-  - [Gray / S](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100839612)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/dfb623043a2342139a261b90d66451e8.png?v=1767348696
-    Price: $245.96 USD
-  - [Gray / M](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100872380)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/dfb623043a2342139a261b90d66451e8.png?v=1767348696
-    Price: $245.96 USD
-  - [Gray / L](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100905148)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/dfb623043a2342139a261b90d66451e8.png?v=1767348696
-    Price: $245.96 USD
-  - [Gray / XL](https://liveleo9-athliesure.myshopify.com/products/mineral-wash-oversized-sweater?variant=45640100937916)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/dfb623043a2342139a261b90d66451e8.png?v=1767348696
-    Price: $245.96 USD
-- [LIVELEO9 Mineral Wash Balloon Sleeve Cropped Sweater](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater): Item Number:WM0001Gender:WomenModel:LooseFabric:100% cottonFabric Weight:8.4 oz/yd² (285 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Daily Casual, Home, Outdoor, School, Office, Pure Cotton, Snow Wash, Long Sleeve, Puff Sleeve, Round Neck / O-Neck, Crop, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 23.6 60 24.4 62 25.2 64 26.0 66 Length 19.3 49 20.1 51 20.9 53 21.7 55 Shoulder 24.4 62 25.2 64 26.0 66 26.8 68 Sleeve length 20.9 53 21.3 54 21.7 55 22.0 56 gid://shopify/Product/9113141575868
-  Updated: 2026-01-03T11:51:26Z
-  Vendor: ODMPOD
-  Product Type: LIVELEO9
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e472c934a0f846f087b5d99bdf963cec.png?v=1767357716
-  - [Black / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124727484)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/306847acd4ae48229e78950830eb73dc.png?v=1767357716
-    Price: $245.96 USD
-  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124760252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/306847acd4ae48229e78950830eb73dc.png?v=1767357716
-    Price: $245.96 USD
-  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124793020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/306847acd4ae48229e78950830eb73dc.png?v=1767357716
-    Price: $245.96 USD
-  - [Black / XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124825788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/306847acd4ae48229e78950830eb73dc.png?v=1767357716
-    Price: $245.96 USD
-  - [Apricot / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124858556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e472c934a0f846f087b5d99bdf963cec.png?v=1767357716
-    Price: $245.96 USD
-  - [Apricot / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124891324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e472c934a0f846f087b5d99bdf963cec.png?v=1767357716
-    Price: $245.96 USD
-  - [Apricot / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124924092)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e472c934a0f846f087b5d99bdf963cec.png?v=1767357716
-    Price: $245.96 USD
-  - [Apricot / XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124956860)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e472c934a0f846f087b5d99bdf963cec.png?v=1767357716
-    Price: $245.96 USD
-  - [Gray / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640124989628)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/1d3e5334837147629ba1ec6c23e7e733.png?v=1767357716
-    Price: $245.96 USD
-  - [Gray / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640125022396)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/1d3e5334837147629ba1ec6c23e7e733.png?v=1767357716
-    Price: $245.96 USD
-  - [Gray / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640125055164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/1d3e5334837147629ba1ec6c23e7e733.png?v=1767357716
-    Price: $245.96 USD
-  - [Gray / XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-mineral-wash-balloon-sleeve-cropped-sweater?variant=45640125087932)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/1d3e5334837147629ba1ec6c23e7e733.png?v=1767357716
-    Price: $245.96 USD
-- [LIVELEO9 Vintage Wash Zip Denim Jacket](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-wash-zip-denim-jacket): Item Number:RQ0037Gender:UnisexModel:OversizedFabric:91% cotton, 7% polyester, 2% viscoseFabric Weight:11.4 oz/yd² (385 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Vintage, Daily Casual, Holiday, Outdoor, Office, Denim, Washed, Zipper, Pocket, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, Summer, AutumnPrint Size:40*52cmNotes:Each piece is handcrafted, ensuring its uniqueness. Minor variations from website images are natural and highlight its artisanal quality. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.4 62 25.4 64.5 26.4 67 27.4 69.5 28.3 72 Length 25.6 65 26.0 66 26.4 67 26.8 68 27.2 69 Shoulder 20.9 53 21.7 55 22.4 57 23.2 59 24.0 61 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9113146294460
-  Updated: 2026-01-03T11:51:26Z
+- [LIVELEO9 LOVE Vintage Wash Zip Denim Jacket](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-wash-zip-denim-jacket): Item Number:RQ0037 Gender:Unisex Model:Oversized Fabric:91% cotton, 7% polyester, 2% viscose Fabric Weight:11.4 oz/yd² (385 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Vintage, Daily Casual, Holiday, Outdoor, Office, Denim, Washed, Zipper, Pocket, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, Summer, Autumn Print Size:40*52cm Notes:Each piece is handcrafted, ensuring its uniqueness in natural highlights and its artisanal quality. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.4 62 25.4 64.5 26.4 67 27.4 69.5 28.3 72 Length 25.6 65 26.0 66 26.4 67 26.8 68 27.2 69 Shoulder 20.9 53 21.7 55 22.4 57 23.2 59 24.0 61 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9113146294460
+  Updated: 2026-01-09T13:53:14Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -7715,8 +7497,8 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/7119e9ebe4e24a459c2eba946ee7573a.png?v=1767349206
     Price: $383.90 USD
-- [LIVELEO9 Side Stripe Running Pants](https://liveleo9-athliesure.myshopify.com/products/liveleo9-side-stripe-running-pants): Item Number:RK0045Gender:UnisexModel:RegularFabric:88% polyester, 12% spandexFabric Weight:4.4 oz/yd² (150 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Gym, Running, Sport, Office, Polyester, Spandex, Drawstring, Pocket, Regular, Bodycon, Mid Waist, Spring, Summer, Autumn Size Chart M L XL 2XL 3XL 4XL inch cm inch cm inch cm inch cm inch cm inch cm Length 38.8 98.5 39.8 101 40.6 103 41.3 105 42.1 107 42.7 108.5 Waist 13.8 35 14.4 36.5 15.0 38 15.6 39.5 15.9 40.5 16.5 42 Hip 19.3 49 20.1 51 20.9 53 21.7 55 22.4 57 23.2 59 gid://shopify/Product/9113152159932
-  Updated: 2026-01-03T11:51:26Z
+- [LIVELEO9 LOVE Side Stripe Running Pants](https://liveleo9-athliesure.myshopify.com/products/liveleo9-side-stripe-running-pants): Item Number:RK0045Gender:UnisexModel:RegularFabric:88% polyester, 12% spandexFabric Weight:4.4 oz/yd² (150 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Gym, Running, Sport, Office, Polyester, Spandex, Drawstring, Pocket, Regular, Bodycon, Mid Waist, Spring, Summer, Autumn Size Chart M L XL 2XL 3XL 4XL inch cm inch cm inch cm inch cm inch cm inch cm Length 38.8 98.5 39.8 101 40.6 103 41.3 105 42.1 107 42.7 108.5 Waist 13.8 35 14.4 36.5 15.0 38 15.6 39.5 15.9 40.5 16.5 42 Hip 19.3 49 20.1 51 20.9 53 21.7 55 22.4 57 23.2 59 gid://shopify/Product/9113152159932
+  Updated: 2026-01-08T23:25:33Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -7769,12 +7551,734 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8fea361c332e4cbaa26e90d0623ca1ab.png?v=1767349506
     Price: $225.98 USD
+- [LIVELEO9 LOVE Mineral Wash Oversized Sweater](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater): Item Number:RM0003Gender:MenModel:LooseFabric:100% cottonFabric Weight:8.4 oz/yd² (285 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Street, Daily Casual, Holiday, Outdoor, School, Office, Pure Cotton, Snow Wash, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 Length 25.2 64 26.0 66 26.8 68 27.6 70 Shoulder 18.5 47 19.3 49 20.1 51 20.9 53 Sleeve length 25.2 64 25.6 65 26.0 66 26.4 67 gid://shopify/Product/9120429605052
+  Updated: 2026-01-08T21:39:20Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/937b158d92484e5dbd72445400d986d2.png?v=1767864261
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672722858172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/70e39b467e064839b5c96f9d648f2792.png?v=1767864261
+    Price: $245.96 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672722890940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/70e39b467e064839b5c96f9d648f2792.png?v=1767864261
+    Price: $245.96 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672722923708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/70e39b467e064839b5c96f9d648f2792.png?v=1767864261
+    Price: $245.96 USD
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672722956476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/70e39b467e064839b5c96f9d648f2792.png?v=1767864261
+    Price: $245.96 USD
+  - [Gray / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672722989244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/937b158d92484e5dbd72445400d986d2.png?v=1767864261
+    Price: $245.96 USD
+  - [Gray / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672723022012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/937b158d92484e5dbd72445400d986d2.png?v=1767864261
+    Price: $245.96 USD
+  - [Gray / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672723054780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/937b158d92484e5dbd72445400d986d2.png?v=1767864261
+    Price: $245.96 USD
+  - [Gray / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-oversized-sweater?variant=45672723087548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/937b158d92484e5dbd72445400d986d2.png?v=1767864261
+    Price: $245.96 USD
+- [LIVELEO9 LOVE Mineral Wash Balloon Sleeve Cropped Sweater](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater): Item Number:WM0001Gender:WomenModel:LooseFabric:100% cottonFabric Weight:8.4 oz/yd² (285 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Daily Casual, Home, Outdoor, School, Office, Pure Cotton, Snow Wash, Long Sleeve, Puff Sleeve, Round Neck / O-Neck, Crop, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 23.6 60 24.4 62 25.2 64 26.0 66 Length 19.3 49 20.1 51 20.9 53 21.7 55 Shoulder 24.4 62 25.2 64 26.0 66 26.8 68 Sleeve length 20.9 53 21.3 54 21.7 55 22.0 56 gid://shopify/Product/9120433045692
+  Updated: 2026-01-09T00:31:22Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3b267f5316db40f19676b63ffa21e5be.png?v=1767864471
+  - [Black / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733245628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3d516199545f4e5788376c5b901cbe9e.png?v=1767864470
+    Price: $245.96 USD
+  - [Black / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733278396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3d516199545f4e5788376c5b901cbe9e.png?v=1767864470
+    Price: $245.96 USD
+  - [Black / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733311164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3d516199545f4e5788376c5b901cbe9e.png?v=1767864470
+    Price: $245.96 USD
+  - [Black / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733343932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3d516199545f4e5788376c5b901cbe9e.png?v=1767864470
+    Price: $245.96 USD
+  - [Apricot / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733376700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/80c9f0d2d93247f8ad600e0db8aa720a.png?v=1767864471
+    Price: $245.96 USD
+  - [Apricot / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733409468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/80c9f0d2d93247f8ad600e0db8aa720a.png?v=1767864471
+    Price: $245.96 USD
+  - [Apricot / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733442236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/80c9f0d2d93247f8ad600e0db8aa720a.png?v=1767864471
+    Price: $245.96 USD
+  - [Apricot / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733475004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/80c9f0d2d93247f8ad600e0db8aa720a.png?v=1767864471
+    Price: $245.96 USD
+  - [Gray / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733507772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3b267f5316db40f19676b63ffa21e5be.png?v=1767864471
+    Price: $245.96 USD
+  - [Gray / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733540540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3b267f5316db40f19676b63ffa21e5be.png?v=1767864471
+    Price: $245.96 USD
+  - [Gray / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733573308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3b267f5316db40f19676b63ffa21e5be.png?v=1767864471
+    Price: $245.96 USD
+  - [Gray / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-mineral-wash-balloon-sleeve-cropped-sweater?variant=45672733606076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3b267f5316db40f19676b63ffa21e5be.png?v=1767864471
+    Price: $245.96 USD
+- [LIVELEO9 LOVE Snow Washed Oversized Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt): Item Number:RU0064Gender:UnisexModel:LooseFabric:100% cottonFabric Weight:10.6 oz/yd² (360 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Daily Casual, Home, Outdoor, School, Pure Cotton, Washed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, Autumn, WinterPrint Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.4 62 25.2 64 26.0 66 26.8 68 27.6 70 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9120439664828
+  Updated: 2026-01-08T21:33:41Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ce720230dd9643ca80becfaed571a030.png?v=1767864636
+  - [Black / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793374908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0eb9f37da7b543c6a70f51e00b3d0995.png?v=1767864635
+    Price: $255.92 USD
+  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793407676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0eb9f37da7b543c6a70f51e00b3d0995.png?v=1767864635
+    Price: $255.92 USD
+  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793440444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0eb9f37da7b543c6a70f51e00b3d0995.png?v=1767864635
+    Price: $255.92 USD
+  - [Black / XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793473212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0eb9f37da7b543c6a70f51e00b3d0995.png?v=1767864635
+    Price: $255.92 USD
+  - [Black / 2XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793505980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0eb9f37da7b543c6a70f51e00b3d0995.png?v=1767864635
+    Price: $255.92 USD
+  - [Jujube Red / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793538748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ce720230dd9643ca80becfaed571a030.png?v=1767864636
+    Price: $255.92 USD
+  - [Jujube Red / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793571516)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ce720230dd9643ca80becfaed571a030.png?v=1767864636
+    Price: $255.92 USD
+  - [Jujube Red / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793604284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ce720230dd9643ca80becfaed571a030.png?v=1767864636
+    Price: $255.92 USD
+  - [Jujube Red / XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793637052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ce720230dd9643ca80becfaed571a030.png?v=1767864636
+    Price: $255.92 USD
+  - [Jujube Red / 2XL](https://liveleo9-athliesure.myshopify.com/products/liveleo9-love-snow-washed-oversized-sweatshirt?variant=45672793669820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ce720230dd9643ca80becfaed571a030.png?v=1767864636
+    Price: $255.92 USD
+- [LIVELEO9 Color Block Stripe Polo Shirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt): Item Number:PL0010Gender:UnisexModel:LooseFabric:95% cotton, 5% spandexFabric Weight:6.8 oz/yd² (230 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Holiday, Outdoor, Running, School, Sport, Festival, Cotton Blend, Patchwork, Long Sleeve, Drop Shoulder, Lapel Collar, Regular, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 21.7 55 22.4 57 23.2 59 24.0 61 Length 26.0 66 26.8 68 27.6 70 28.3 72 Shoulder 22.0 56 22.8 58 23.6 60 24.4 62 Sleeve length 20.1 51 20.5 52 20.9 53 21.3 54 gid://shopify/Product/9120448512188
+  Updated: 2026-01-08T21:40:38Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7399f15bee44e2e941fec35345a07e1.png?v=1767864801
+  - [White with Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863334588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/a9bf3499df1a4daf80d671c47bd0cd5d.png?v=1767864801
+    Price: $231.96 USD
+  - [White with Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863367356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/a9bf3499df1a4daf80d671c47bd0cd5d.png?v=1767864801
+    Price: $231.96 USD
+  - [White with Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863400124)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/a9bf3499df1a4daf80d671c47bd0cd5d.png?v=1767864801
+    Price: $231.96 USD
+  - [White with Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863432892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/a9bf3499df1a4daf80d671c47bd0cd5d.png?v=1767864801
+    Price: $231.96 USD
+  - [Yellow with Navy Blue / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863465660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9bf9ad1eb49b4790b2bf72e856162424.png?v=1767864801
+    Price: $231.96 USD
+  - [Yellow with Navy Blue / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863498428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9bf9ad1eb49b4790b2bf72e856162424.png?v=1767864801
+    Price: $231.96 USD
+  - [Yellow with Navy Blue / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863531196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9bf9ad1eb49b4790b2bf72e856162424.png?v=1767864801
+    Price: $231.96 USD
+  - [Yellow with Navy Blue / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863563964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/9bf9ad1eb49b4790b2bf72e856162424.png?v=1767864801
+    Price: $231.96 USD
+  - [Green with Navy Blue / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863596732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f202ca5bdda14909ba86a3e832778ee3.png?v=1767864801
+    Price: $231.96 USD
+  - [Green with Navy Blue / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863629500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f202ca5bdda14909ba86a3e832778ee3.png?v=1767864801
+    Price: $231.96 USD
+  - [Green with Navy Blue / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863662268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f202ca5bdda14909ba86a3e832778ee3.png?v=1767864801
+    Price: $231.96 USD
+  - [Green with Navy Blue / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863695036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f202ca5bdda14909ba86a3e832778ee3.png?v=1767864801
+    Price: $231.96 USD
+  - [Red with White / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863727804)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7399f15bee44e2e941fec35345a07e1.png?v=1767864801
+    Price: $231.96 USD
+  - [Red with White / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863760572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7399f15bee44e2e941fec35345a07e1.png?v=1767864801
+    Price: $231.96 USD
+  - [Red with White / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863793340)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7399f15bee44e2e941fec35345a07e1.png?v=1767864801
+    Price: $231.96 USD
+  - [Red with White / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-color-block-stripe-polo-shirt?variant=45672863826108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f7399f15bee44e2e941fec35345a07e1.png?v=1767864801
+    Price: $231.96 USD
+- [LIVELEO9 Snow Washed Oversized Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt): Item Number:RU0064 Gender:Unisex Model:Loose Fabric:100% cotton Fabric Weight:10.6 oz/yd² (360 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, Home, Outdoor, School, Pure Cotton, Washed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.4 62 25.2 64 26.0 66 26.8 68 27.6 70 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9120498942140
+  Updated: 2026-01-08T22:39:34Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/303de5be44984600b08cdd6b8fabee52.png?v=1767868746
+  - [Blackish Green / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299607740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6f837e8f9dcb4ce780dd22afef3e425b.png?v=1767868746
+    Price: $255.92 USD
+  - [Blackish Green / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299640508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6f837e8f9dcb4ce780dd22afef3e425b.png?v=1767868746
+    Price: $255.92 USD
+  - [Blackish Green / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299673276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6f837e8f9dcb4ce780dd22afef3e425b.png?v=1767868746
+    Price: $255.92 USD
+  - [Blackish Green / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299706044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6f837e8f9dcb4ce780dd22afef3e425b.png?v=1767868746
+    Price: $255.92 USD
+  - [Blackish Green / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299738812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6f837e8f9dcb4ce780dd22afef3e425b.png?v=1767868746
+    Price: $255.92 USD
+  - [Jujube Red / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299771580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a19def6cc744ccca5d81d0ccdc03674.png?v=1767868746
+    Price: $255.92 USD
+  - [Jujube Red / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299804348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a19def6cc744ccca5d81d0ccdc03674.png?v=1767868746
+    Price: $255.92 USD
+  - [Jujube Red / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299837116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a19def6cc744ccca5d81d0ccdc03674.png?v=1767868746
+    Price: $255.92 USD
+  - [Jujube Red / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299869884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a19def6cc744ccca5d81d0ccdc03674.png?v=1767868746
+    Price: $255.92 USD
+  - [Jujube Red / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299902652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a19def6cc744ccca5d81d0ccdc03674.png?v=1767868746
+    Price: $255.92 USD
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299935420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e3280c0cd30b4607b999e33ad7f1a0ef.png?v=1767868746
+    Price: $255.92 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673299968188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e3280c0cd30b4607b999e33ad7f1a0ef.png?v=1767868746
+    Price: $255.92 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300000956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e3280c0cd30b4607b999e33ad7f1a0ef.png?v=1767868746
+    Price: $255.92 USD
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300033724)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e3280c0cd30b4607b999e33ad7f1a0ef.png?v=1767868746
+    Price: $255.92 USD
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300066492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e3280c0cd30b4607b999e33ad7f1a0ef.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Apricot / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300099260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/303de5be44984600b08cdd6b8fabee52.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Apricot / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300132028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/303de5be44984600b08cdd6b8fabee52.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Apricot / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300164796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/303de5be44984600b08cdd6b8fabee52.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Apricot / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300197564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/303de5be44984600b08cdd6b8fabee52.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Apricot / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300230332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/303de5be44984600b08cdd6b8fabee52.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Gray / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300263100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/23eaa9af41df4d009d715df568d93567.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Gray / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300295868)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/23eaa9af41df4d009d715df568d93567.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Gray / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300328636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/23eaa9af41df4d009d715df568d93567.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Gray / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300361404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/23eaa9af41df4d009d715df568d93567.png?v=1767868746
+    Price: $255.92 USD
+  - [Light Gray / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300394172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/23eaa9af41df4d009d715df568d93567.png?v=1767868746
+    Price: $255.92 USD
+  - [Blue / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300426940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e1e70e955823499aa741adec838db116.png?v=1767868746
+    Price: $255.92 USD
+  - [Blue / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300459708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e1e70e955823499aa741adec838db116.png?v=1767868746
+    Price: $255.92 USD
+  - [Blue / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300492476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e1e70e955823499aa741adec838db116.png?v=1767868746
+    Price: $255.92 USD
+  - [Blue / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300525244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e1e70e955823499aa741adec838db116.png?v=1767868746
+    Price: $255.92 USD
+  - [Blue / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300558012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/e1e70e955823499aa741adec838db116.png?v=1767868746
+    Price: $255.92 USD
+  - [Stone Gray / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300590780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f83668bc2c5a46d7841737118409546b.png?v=1767868747
+    Price: $255.92 USD
+  - [Stone Gray / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300623548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f83668bc2c5a46d7841737118409546b.png?v=1767868747
+    Price: $255.92 USD
+  - [Stone Gray / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300656316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f83668bc2c5a46d7841737118409546b.png?v=1767868747
+    Price: $255.92 USD
+  - [Stone Gray / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300689084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f83668bc2c5a46d7841737118409546b.png?v=1767868747
+    Price: $255.92 USD
+  - [Stone Gray / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-snow-washed-oversized-sweatshirt?variant=45673300721852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f83668bc2c5a46d7841737118409546b.png?v=1767868747
+    Price: $255.92 USD
+- [LIVELEO9 Essential Heavyweight Cotton Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-cotton-sweatshirt-1): Item Number:RW0045Gender:UnisexModel:LooseFabric:100% cottonFabric Weight:15.6 oz/yd² (530 g/m²)Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Pure Cotton, Long Sleeve, Regular Sleeve, Round Neck / O-Neck, Regular, Oversized, Spring, AutumnPrint Size:40*52cm Size Chart 2XS XS S M L inch cm inch cm inch cm inch cm inch cm Chest 22.8 58 23.6 60 24.4 62 25.2 64 26.0 66 Length 25.6 65 26.4 67 27.2 69 28.0 71 28.7 73 Shoulder 22.4 57 23.0 58.5 23.6 60 24.2 61.5 24.8 63 Sleeve length 20.5 52 20.9 53 21.3 54 21.7 55 22.0 56 gid://shopify/Product/9134329790652
+  Updated: 2026-01-15T12:38:22Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/490531f86fd944bbad29381354505c33.png?v=1768428441
+  - [Black / 2XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-cotton-sweatshirt-1?variant=45707288084668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/490531f86fd944bbad29381354505c33.png?v=1768428441
+    Price: $245.96 USD
+  - [Black / XS / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-cotton-sweatshirt-1?variant=45707288117436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/490531f86fd944bbad29381354505c33.png?v=1768428441
+    Price: $245.96 USD
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-cotton-sweatshirt-1?variant=45707288150204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/490531f86fd944bbad29381354505c33.png?v=1768428441
+    Price: $245.96 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-cotton-sweatshirt-1?variant=45707288182972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/490531f86fd944bbad29381354505c33.png?v=1768428441
+    Price: $245.96 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-cotton-sweatshirt-1?variant=45707288215740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/490531f86fd944bbad29381354505c33.png?v=1768428441
+    Price: $245.96 USD
+- [LIVELEO9 Essential Heavyweight Crewneck Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779): Item Number:RW0029Gender:UnisexModel:LooseFabric:Main Fabric: 48.9% polyester, 43.4% cotton, 7.7% spandex; Contrast Fabric: 95.6% polyester, 4.4% spandexFabric Weight:11.8 oz/yd² (400 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Holiday, Office, Cotton Blend, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Autumn, WinterPrint Size:40*52cm Size Chart S M L XL 2XL 3XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 21.3 54 22.0 56 22.8 58 23.6 60 24.4 62 25.2 64 Length 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 30.7 78 Shoulder 20.8 52.9 21.5 54.7 22.2 56.5 23.0 58.3 23.7 60.1 24.4 61.9 Sleeve length 21.8 55.4 22.1 56.2 22.4 57 22.8 57.8 23.1 58.6 23.4 59.4 gid://shopify/Product/9134336573628
+  Updated: 2026-01-15T12:22:57Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312431292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+    Price: $239.96 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312464060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+    Price: $239.96 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312496828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+    Price: $239.96 USD
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312529596)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+    Price: $239.96 USD
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312562364)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+    Price: $239.96 USD
+  - [Black / 3XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312595132)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8e86e89509df45a1b758769b749d67f6.png?v=1768428606
+    Price: $239.96 USD
+  - [White / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312627900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2bc632076c44437cbab319bde21c0c48.png?v=1768428605
+    Price: $239.96 USD
+  - [White / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312660668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2bc632076c44437cbab319bde21c0c48.png?v=1768428605
+    Price: $239.96 USD
+  - [White / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312693436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2bc632076c44437cbab319bde21c0c48.png?v=1768428605
+    Price: $239.96 USD
+  - [White / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312726204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2bc632076c44437cbab319bde21c0c48.png?v=1768428605
+    Price: $239.96 USD
+  - [White / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312758972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2bc632076c44437cbab319bde21c0c48.png?v=1768428605
+    Price: $239.96 USD
+  - [White / 3XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312791740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2bc632076c44437cbab319bde21c0c48.png?v=1768428605
+    Price: $239.96 USD
+  - [Dull Red / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312824508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cd641afc3484d74959e2119f7605ee6.png?v=1768428606
+    Price: $239.96 USD
+  - [Dull Red / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312857276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cd641afc3484d74959e2119f7605ee6.png?v=1768428606
+    Price: $239.96 USD
+  - [Dull Red / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312890044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cd641afc3484d74959e2119f7605ee6.png?v=1768428606
+    Price: $239.96 USD
+  - [Dull Red / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312922812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cd641afc3484d74959e2119f7605ee6.png?v=1768428606
+    Price: $239.96 USD
+  - [Dull Red / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312955580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cd641afc3484d74959e2119f7605ee6.png?v=1768428606
+    Price: $239.96 USD
+  - [Dull Red / 3XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/essential-heavyweight-crewneck-sweatshirt-1223779?variant=45707312988348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3cd641afc3484d74959e2119f7605ee6.png?v=1768428606
+    Price: $239.96 USD
+- [LIVELEO9 Essential Boxy Darted Sleeve Hoodie](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie): Item Number:RW0069Gender:UnisexModel:OversizedFabric:68% polyester, 32% cottonFabric Weight:10.3 oz/yd² (350 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Cotton Blend, Pocket, Long Sleeve, Drop Shoulder, Hooded, Crop, Oversized, Spring, Autumn, WinterPrint Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 26.4 67 27.2 69 28.0 71 28.7 73 29.5 75 Length 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Shoulder 24.6 62.5 25.4 64.5 26.2 66.5 27.0 68.5 27.8 70.5 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9134346895548
+  Updated: 2026-01-15T12:09:46Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/babfc50cf06644cb84161f11c3281d14.png?v=1768429910
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378753724)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/babfc50cf06644cb84161f11c3281d14.png?v=1768429910
+    Price: $251.96 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378786492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/babfc50cf06644cb84161f11c3281d14.png?v=1768429910
+    Price: $251.96 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378819260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/babfc50cf06644cb84161f11c3281d14.png?v=1768429910
+    Price: $251.96 USD
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378852028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/babfc50cf06644cb84161f11c3281d14.png?v=1768429910
+    Price: $251.96 USD
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378884796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/babfc50cf06644cb84161f11c3281d14.png?v=1768429910
+    Price: $251.96 USD
+  - [Plum Purple / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378917564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/93c71ae925454a9abf156d28117ae31f.png?v=1768429910
+    Price: $251.96 USD
+  - [Plum Purple / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378950332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/93c71ae925454a9abf156d28117ae31f.png?v=1768429910
+    Price: $251.96 USD
+  - [Plum Purple / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707378983100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/93c71ae925454a9abf156d28117ae31f.png?v=1768429910
+    Price: $251.96 USD
+  - [Plum Purple / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379015868)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/93c71ae925454a9abf156d28117ae31f.png?v=1768429910
+    Price: $251.96 USD
+  - [Plum Purple / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379048636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/93c71ae925454a9abf156d28117ae31f.png?v=1768429910
+    Price: $251.96 USD
+  - [Flower Gray / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379081404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c0234f329b01457cb94db66c6b6a8661.png?v=1768429911
+    Price: $251.96 USD
+  - [Flower Gray / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379114172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c0234f329b01457cb94db66c6b6a8661.png?v=1768429911
+    Price: $251.96 USD
+  - [Flower Gray / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379146940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c0234f329b01457cb94db66c6b6a8661.png?v=1768429911
+    Price: $251.96 USD
+  - [Flower Gray / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379179708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c0234f329b01457cb94db66c6b6a8661.png?v=1768429911
+    Price: $251.96 USD
+  - [Flower Gray / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-boxy-darted-sleeve-hoodie?variant=45707379212476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c0234f329b01457cb94db66c6b6a8661.png?v=1768429911
+    Price: $251.96 USD
+- [LIVELEO9 Vintage Washed Cropped Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt): Item Number:WW0016Gender:WomenModel:RegularFabric:85% cotton, 15% polyesterFabric Weight:12.1 oz/yd² (410 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Gym, Outdoor, School, Sport, Cotton Blend, Washed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Crop, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L inch cm inch cm inch cm Chest 22.4 57 23.2 59 24.0 61 Length 18.3 46.5 18.9 48 19.5 49.5 Shoulder 24.8 63 25.6 65 26.4 67 Sleeve length 18.9 48 19.3 49 19.7 50 gid://shopify/Product/9134347124924
+  Updated: 2026-01-15T12:49:06Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/45589699645e456585cad0992ec409e1.png?v=1768430046
+  - [Black / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707379966140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c37cbac9efed426c8c2e6da53a975ba1.png?v=1768430045
+    Price: $245.94 USD
+  - [Black / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707379998908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c37cbac9efed426c8c2e6da53a975ba1.png?v=1768430045
+    Price: $245.94 USD
+  - [Black / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380031676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c37cbac9efed426c8c2e6da53a975ba1.png?v=1768430045
+    Price: $245.94 USD
+  - [Apricot / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380064444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/45589699645e456585cad0992ec409e1.png?v=1768430046
+    Price: $245.94 USD
+  - [Apricot / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380097212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/45589699645e456585cad0992ec409e1.png?v=1768430046
+    Price: $245.94 USD
+  - [Apricot / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380129980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/45589699645e456585cad0992ec409e1.png?v=1768430046
+    Price: $245.94 USD
+  - [Rose Red / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380162748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/4708d9a59b74413196b6051a65175a0c.png?v=1768430046
+    Price: $245.94 USD
+  - [Rose Red / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380195516)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/4708d9a59b74413196b6051a65175a0c.png?v=1768430046
+    Price: $245.94 USD
+  - [Rose Red / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380228284)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/4708d9a59b74413196b6051a65175a0c.png?v=1768430046
+    Price: $245.94 USD
+  - [Dark Gray / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380261052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0e6214a7b4f14d849a4469ca567254af.png?v=1768430046
+    Price: $245.94 USD
+  - [Dark Gray / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380293820)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0e6214a7b4f14d849a4469ca567254af.png?v=1768430046
+    Price: $245.94 USD
+  - [Dark Gray / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt?variant=45707380326588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0e6214a7b4f14d849a4469ca567254af.png?v=1768430046
+    Price: $245.94 USD
+- [LIVELEO9 Vintage Washed Drawstring Sweatpants](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants): Item Number:WK0016Gender:WomenModel:LooseFabric:85% cotton, 15% polyesterFabric Weight:12.1 oz/yd² (410 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, School, Sport, Office, Cotton Blend, Washed, Drawstring, Regular, Loose, Mid Waist, WinterPrint Size:40*52cm Size Chart S M L inch cm inch cm inch cm Length 38.6 98 39.4 100 40.2 102 Waist 12.6 32 13.4 34 14.2 36 Hip 22.0 56 22.8 58 23.6 60 gid://shopify/Product/9134347452604
+  Updated: 2026-01-15T12:50:05Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
+  - [Black / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382194364)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3e39ac280e704b829d762bbaf0a21707.png?v=1768430196
+    Price: $243.96 USD
+  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382227132)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3e39ac280e704b829d762bbaf0a21707.png?v=1768430196
+    Price: $243.96 USD
+  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382259900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3e39ac280e704b829d762bbaf0a21707.png?v=1768430196
+    Price: $243.96 USD
+  - [Apricot / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382292668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
+    Price: $243.96 USD
+  - [Apricot / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382325436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
+    Price: $243.96 USD
+  - [Apricot / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382358204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
+    Price: $243.96 USD
+  - [Rose Red / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382390972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/71aecfc298d245e7ae42b6efc6937bf2.png?v=1768430195
+    Price: $243.96 USD
+  - [Rose Red / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382423740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/71aecfc298d245e7ae42b6efc6937bf2.png?v=1768430195
+    Price: $243.96 USD
+  - [Rose Red / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382456508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/71aecfc298d245e7ae42b6efc6937bf2.png?v=1768430195
+    Price: $243.96 USD
+  - [Dark Gray / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382489276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/db3160615ec042a3859583e67424685e.png?v=1768430196
+    Price: $243.96 USD
+  - [Dark Gray / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382522044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/db3160615ec042a3859583e67424685e.png?v=1768430196
+    Price: $243.96 USD
+  - [Dark Gray / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382554812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/db3160615ec042a3859583e67424685e.png?v=1768430196
+    Price: $243.96 USD
+- [LIVELEO9 Essential Slim Fit Mock Neck T-Shirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt): Item Number:WT0042Gender:WomenModel:BodyconFabric:47.1% cotton, 47.1% viscose, 5.8% spandexFabric Weight:7.7 oz/yd² (260 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Elegant, Daily Casual, Holiday, Outdoor, Sport, Cotton Blend, Spandex, Short Sleeve, Regular Sleeve, Round Neck / O-Neck, Crop, Bodycon, Spring, SummerPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 15.9 40.5 16.7 42.5 17.5 44.5 18.3 46.5 Length 19.1 48.5 19.7 50 20.3 51.5 20.9 53 Shoulder 14.0 35.5 14.6 37 15.2 38.5 15.7 40 Sleeve length 5.1 13 5.5 14 5.9 15 6.3 16 gid://shopify/Product/9134377664700
+  Updated: 2026-01-15T13:22:06Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2a5b7e8c2cd74ceb9e8bab82fb5f2dd9.png?v=1768435221
+  - [Black / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504287932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8d99309ff8fe46acb9a6195e433e1fbe.png?v=1768435221
+    Price: $149.96 USD
+  - [Black / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504320700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8d99309ff8fe46acb9a6195e433e1fbe.png?v=1768435221
+    Price: $149.96 USD
+  - [Black / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504353468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8d99309ff8fe46acb9a6195e433e1fbe.png?v=1768435221
+    Price: $149.96 USD
+  - [Black / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504386236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8d99309ff8fe46acb9a6195e433e1fbe.png?v=1768435221
+    Price: $149.96 USD
+  - [White / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504419004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8f68f8878f9e4a74a1e8d3280587f525.png?v=1768435221
+    Price: $149.96 USD
+  - [White / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504451772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8f68f8878f9e4a74a1e8d3280587f525.png?v=1768435221
+    Price: $149.96 USD
+  - [White / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504484540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8f68f8878f9e4a74a1e8d3280587f525.png?v=1768435221
+    Price: $149.96 USD
+  - [White / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504517308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8f68f8878f9e4a74a1e8d3280587f525.png?v=1768435221
+    Price: $149.96 USD
+  - [Water Blue / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504550076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a2423227a1e475d8123bfe08ac488bf.png?v=1768435221
+    Price: $149.96 USD
+  - [Water Blue / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504582844)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a2423227a1e475d8123bfe08ac488bf.png?v=1768435221
+    Price: $149.96 USD
+  - [Water Blue / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504615612)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a2423227a1e475d8123bfe08ac488bf.png?v=1768435221
+    Price: $149.96 USD
+  - [Water Blue / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504648380)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/5a2423227a1e475d8123bfe08ac488bf.png?v=1768435221
+    Price: $149.96 USD
+  - [Pink / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504681148)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2a5b7e8c2cd74ceb9e8bab82fb5f2dd9.png?v=1768435221
+    Price: $149.96 USD
+  - [Pink / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504713916)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2a5b7e8c2cd74ceb9e8bab82fb5f2dd9.png?v=1768435221
+    Price: $149.96 USD
+  - [Pink / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504746684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2a5b7e8c2cd74ceb9e8bab82fb5f2dd9.png?v=1768435221
+    Price: $149.96 USD
+  - [Pink / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504779452)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2a5b7e8c2cd74ceb9e8bab82fb5f2dd9.png?v=1768435221
+    Price: $149.96 USD
+  - [Gray Green / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504812220)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2d6fe9895f7d44e8af943d9fc2bedb4d.png?v=1768435221
+    Price: $149.96 USD
+  - [Gray Green / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504844988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2d6fe9895f7d44e8af943d9fc2bedb4d.png?v=1768435221
+    Price: $149.96 USD
+  - [Gray Green / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504877756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2d6fe9895f7d44e8af943d9fc2bedb4d.png?v=1768435221
+    Price: $149.96 USD
+  - [Gray Green / XL / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt?variant=45707504910524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2d6fe9895f7d44e8af943d9fc2bedb4d.png?v=1768435221
+    Price: $149.96 USD
+[List Continued](https://liveleo9-athliesure.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTM0Mzc3NjY0NzAwLCJsYXN0X3ZhbHVlIjoiOTEzNDM3NzY2NDcwMCJ9)
 
 ## Collections
 
-- [Home page](https://liveleo9-athliesure.myshopify.com/collections/frontpage)
-  Updated: 2026-01-05T14:30:31Z
-  Total Products: 2
+- [LIVELEO9 HOME PAGE](https://liveleo9-athliesure.myshopify.com/collections/frontpage): LIVELEO9 Art. Style. Innovation. New release pieces.
+  Updated: 2026-01-15T12:43:39Z
+  Total Products: 15
+- [LIVELEO9 LOVE COLLECTION](https://liveleo9-athliesure.myshopify.com/collections/liveleo9-love-collection): LIVELEO9 LOVE COLLECTION this collection is curated in reflection of fashion pieces for lovers.
+  Updated: 2026-01-15T12:38:23Z
+  Total Products: 8
 
 ## Store Pages
 
