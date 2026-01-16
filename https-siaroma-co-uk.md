@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-20T17:54:38Z
-- Updated At: 2026-01-08T23:31:29.863Z
+- Updated At: 2026-01-16T00:00:25.463Z
 
 ## Products
 
@@ -325,7 +325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2980.png?v=1761650019
   Price: £14.99 GBP
 - [30cl Watermelon Lemonade Candle](https://siaroma.co.uk/products/30cl-watermelon-lemonade-candle): Elevate your space with our 30 cl Watermelon Lemonade Candle. Housed in a sleek rose gold jar with a bamboo lid, this soy wax candle will infuse your home with the invigorating scent of watermelon and lemonade. With 40-50 hours of burn time, enjoy the fruity top notes of citrus and pineapple, followed by sweet and floral middle notes, and finished with base notes of patchouli and vanilla.
-  Updated: 2025-11-23T16:38:44Z
+  Updated: 2026-01-14T17:39:46Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -353,7 +353,7 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3007.png?v=1761659929
   Price: £27.50 GBP
 - [30cl Santa’s sweet snacks candle](https://siaroma.co.uk/products/30cl-santa-s-sweet-snacks-candle-1): Indulge in the cozy scents of the holiday season with our 30cl Santa’s sweet snacks candle. Made with soy wax and housed in a luxurious rose gold jar with a bamboo lid, this candle offers approximately 40-50 hours of burn time. Immerse yourself in the mouthwatering blend of pumpkin, orange, cinnamon, and clove, followed by notes of nutmeg, maple syrup, caramel, vanilla, milk, and musk. Perfect for creating a warm and inviting atmosphere.
-  Updated: 2025-11-23T16:38:24Z
+  Updated: 2026-01-14T17:39:40Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -416,7 +416,7 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3061.png?v=1761699256
   Price: £14.99 GBP
 - [30cl Shine on candle](https://siaroma.co.uk/products/30cl-shine-on-candle): Experience a sensory journey with our 30cl Shine on candle. Made with soy wax and a wooden wick, it offers a long burn time of 40-50 hours. The floral and fruity top notes blend seamlessly with a heart of floral or spicy scents and a warm, sweet, or woody base. Indulge in the "Shine" fragrance with pink berry, jasmine, and vanilla notes.
-  Updated: 2025-11-23T16:37:13Z
+  Updated: 2026-01-14T17:40:06Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
