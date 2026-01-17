@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2026-01-08T00:00:36.775Z
+- Updated At: 2026-01-17T00:00:37.505Z
 
 ## Products
 
@@ -451,30 +451,65 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_60b2489f-461c-4755-b71f-d307ddf37237.jpg?v=1767694169
     Price: $118.15 USD
+- [iPhone 17 Pro Max Case Silver Stone Quilted Case](https://starcopia.com/products/iphone-17-pro-max-case-silver-stone-quilted-case): Uneven  Glitter Cute Smartphone Case Cover Soft Quilted Design Ladies Women Women Cute Silver iPhone Case Fashionable Quilting A popular smartphone case with diamond mesh and stones inlaid into it Tickle a woman's heart: This luxurious jewelry case features quilted and rhinestones. Fluffy Quilting: The quilting is plump and has a rough and good finish Lxurious glittery hand strap : it comes with a luxurious glittery hand strap to prevent falling off and make it easy to find in your bag
+  Updated: 2026-01-08T10:53:35Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/3_c292f790-3abf-4863-9084-55f52f3917f1.jpg?v=1767869445
+  Price: $25.67 USD
+- [10W Wireless Fast Charging with Phone Holder Mount for Car](https://starcopia.com/products/10w-wireless-fast-charging-with-phone-holder-mount-for-car): [10w Fast Wireless Car Charger,Universal Compatible] The wireless car charger can auto-identify the charging power of the phone and provide a max of 10W charging for iPhone 15 Pro/15 Pro Mac 14 Pro/14 Pro Max/14/14 Plus/13/13 Pro/13 Pro Max/13 Mini/12/12 Pro/12 Pro Max/12 Mini/ 11/11 Pro/11 Pro Max/Xs Max/XS/SE/XR/X/8/8 Plus, Samsung S23/S23+/S23 Ultra/S22/S22+ /S21/S21+/S20/S20+/Note 20/S10 /S9/S8/S7/S6/Note10, GOOGLE, ONEPLUS, LG, SONY, etc. Compatible With All Wireless Charging Phones [Auto-Clamping Arms] The automatic-clamping feature enables you to mount or retrieve your phone with one hand motion. Just touch the sensing area and the arms would automatically open and you take the phone out, Once the phone is in the arms will automatically close to secure your phone [Adjustable Viewing] You have multiple installation of the wireless car charger holder, it can be installed on the dashboard, table securelyThe fully 360-degree rotation allows for optimum viewing and easier use of functions, which is the safest way to access your phones systems such as your GPS and phone calls [2-IN-1 Design] Combines the Wireless Charger and a car cell phone holder, allows for a secure hands-free experience. Keep you away from the tangled locating cords or cables. Cell phone holder is suitable for car Windshield Dashboard Air Vent installation, and makes GPS and phone call more convenient [Stackable Design] The phone holder car charger supports charging through phone cases up to 4mm thick. Please note that cases made of metal, external attachments such as credit cards, grips, uneven surface and stands will interfere with charging Type: Electric, Wireless Charger, Power Supply Adapter, Universal Adapter Usage: Mobile Phone Material: PC Fireproof Material Protection: Short Circuit Protection, Low Tension, Over-charging, Overcurrent, Over-voltage Function: Qi Brand Name: R2 car wireless phone holder Model Number: R2 wireless charger Port: 1 x USB Input voltage and current: 5V/2A output voltage and current: 5V/2A Output Power: 10W Feature: R2 Automatic Clamping Car wireless charger Color: Black,Sliver,Gold Support specification: Qualified with QI Wireless Protocol Charging Charging distance: ≤ 8 mm Weight: 230g
+  Updated: 2026-01-09T11:02:25Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_38a85c79-5db8-4f5c-85fd-dff834a95028.jpg?v=1767956320
+  - [Black](https://starcopia.com/products/10w-wireless-fast-charging-with-phone-holder-mount-for-car?variant=47826268717281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_38a85c79-5db8-4f5c-85fd-dff834a95028.jpg?v=1767956320
+    Price: $19.24 USD
+  - [Silver](https://starcopia.com/products/10w-wireless-fast-charging-with-phone-holder-mount-for-car?variant=47826268750049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover2.jpg?v=1767956320
+    Price: $19.24 USD
+- [Automatic sensor locking car mobile phone holder](https://starcopia.com/products/automatic-sensor-locking-car-mobile-phone-holder): Small and easy to use: Small size: 7.5cm x 5.5cm x 3cm; Weight: 0.16kg. Material is ABS plastic, 60mAh lithium battery. The set includes magic clip and air outlet clip for selection, which is more convenient. Custom Fit: Adjustable Car Phone Holder Mount Apply to All 4-7in Cell Phone. As the design is based on the structure of the shape of hazard button that the base comes with strong snaps to connect the car perfectly and no damage your car. Keep the difference : phone mount clamp is driven by built-in battery be different from some phone mounts which worked by gravity that is easy to fall and make noise .The electronic phone mount with auto-clamping will hold your phone more firm and noise-free, even on the dumpy road. Friendly design:The open button is placed in the side of car phone mount, which allows your press the button and put in or take out the phone by one hand only ,free your hand and ensure safety while driving.360°rotation mount provides the optimal viewing angles of your device. One Second installation: No tools are needed in the installation, the assembled phone mount includes a base and a electronic mount, you just need to connect these parts follow the video and put in the installation position . what’s more,The electronic phone mount can be taken out freely when you are not using, not take up your space. Due to the light ,there will be color difference between the pictures and the product ,you will get a black one in the end. And if you have any dissatisfaction after receiving the object please feel easy to use your replacement right or contact us at any time.
+  Updated: 2026-01-13T08:19:46Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_8138b5ea-a136-48f0-92df-032697c08324.jpg?v=1768289193
+  Price: $43.47 USD
+- [12-in-1 Car Emergency Escape Safety Hammer](https://starcopia.com/products/12-in-1-car-emergency-escape-safety-hammer): 12 In 1 Multi functionality : 12 different tools including a Awl head, Flat nose pliers, Locking pliers, Wire cutter, Hammer, Pliers handle, Pocket knife, Phillips screwdriver, Wood saw, Fish hook fork, Bottle opener, Hexagon wrench, File, Our hammer multitool is a game-changer, packing 12 essential tools into one compact device. This design makes it a must-have tool, especially for various outdoor and household repair works. Portable Emergency Survival Tools: Carrying a multi-tool ensures readiness for unforeseen situations where a versatile tool is necessary. This compact and portable device is invaluable for outdoor activities like hunting, hiking, and camping, as well as tactical training. It goes beyond a regular hammer and serves as a portable emergency survival tool, enhancing an individual's preparedness for diverse tasks and scenarios. [Heavy-Duty and Reliable] Made from high-quality iron, this car hammer is built to withstand tough conditions. The sharp hammer head remains effective even after multiple uses, and the built-in seatbelt cutter ensures you can quickly free yourself in an emergency. [Compact and Easy to Store] Small and lightweight, this emergency tool fits easily in your glove compartment or car door pocket. It’s a must-have addition to any car accessories for men and an essential part of your emergency car kit.
+  Updated: 2026-01-14T09:32:10Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/4_570f24ce-d7d4-49d8-bf30-e2a141941ce3.jpg?v=1768378291
+  Price: $32.07 USD
 
 ## Collections
 
 - [camera bag](https://starcopia.com/collections/camera-bag-1): The ideal companion, a dream for all photographers out there with a soul.
-  Updated: 2026-01-05T05:19:11Z
+  Updated: 2026-01-09T03:21:30Z
   Total Products: 4
 - [camera straps](https://starcopia.com/collections/camera-straps): Looking for something fresh? Our Collection brings in the newest straps with the same care, detail, and quality we’re known for
-  Updated: 2026-01-05T05:19:11Z
+  Updated: 2026-01-09T03:21:30Z
   Total Products: 14
 - [wrist straps](https://starcopia.com/collections/wrist-straps): Premium wrist straps for the timeless photographer
-  Updated: 2026-01-05T05:19:11Z
+  Updated: 2026-01-09T03:21:30Z
   Total Products: 10
 - [shutter toppers](https://starcopia.com/collections/shutter-toppers): Unlock the true potential of the first shutter button
-  Updated: 2026-01-05T05:19:11Z
+  Updated: 2026-01-09T03:21:30Z
   Total Products: 7
 - [thumb grip](https://starcopia.com/collections/thumb-grip): Giving you total freedom without compromise
-  Updated: 2026-01-05T05:19:11Z
+  Updated: 2026-01-09T03:21:30Z
   Total Products: 9
 - [camera goods](https://starcopia.com/collections/camera-goods): Products for your every about photography needs
-  Updated: 2026-01-05T05:19:11Z
+  Updated: 2026-01-09T03:21:30Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2026-01-06T10:09:59Z
-  Total Products: 12
+  Updated: 2026-01-14T08:14:49Z
+  Total Products: 16
 
 ## Store Pages
 
