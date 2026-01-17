@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-08-11T07:36:26Z
 - Contact Email: info@annizon.com
-- Updated At: 2026-01-08T00:00:39.821Z
+- Updated At: 2026-01-17T00:00:38.912Z
 
 ## Products
 
@@ -4392,7 +4392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/AllinaRowArtBlockLowResNoBackgroundSquare.jpg?v=1637305428
   Price: $49.00 USD
 - [Kitchen Utensils Canvas Kitchen Wall Art freeshipping - Annizon Home Essentials](https://annizon.com/products/kitchen-utensils-print-canvas-kitchen-wall-art-home-decor-kitchen-print-modern-art-cook-gift-hostess-gift-housewarming-gift-for-her-handmade-915676243): Printed on high quality cotton canvas material, these wall art pieces make the perfect addition to your home or kitchen! Mix and match with a variety of designs to create a beautiful display. Measurements: 8" H x 8" W Material: cotton canvas FRAME NOT INCLUDED  best Totes & Beach Bags from Turquoise Andromeda - Annizon Home Essentials
-  Updated: 2025-12-24T23:12:49Z
+  Updated: 2026-01-12T02:27:39Z
   Vendor: Turquoise Andromeda
   Product Type: Totes & Beach Bags
   Availability: Available
@@ -4560,7 +4560,7 @@
     Availability: Available
     Price: $88.64 USD
 - [Minimalist Fashion Items Blue Denim Art Print freeshipping - Annizon Home Essentials](https://annizon.com/products/minimalist-fashion-item-blue-denim-art-print-535180839): Size 11" x 14" (28cm x 35.5cm) Printed on 120# Mohawk white uncoated paper Ships flat with cardboard in a clear sleeve *Frame not included best Gifts from Magenta Lelantos - Annizon Home Essentials
-  Updated: 2025-12-24T23:12:52Z
+  Updated: 2026-01-08T07:07:23Z
   Vendor: Magenta Lelantos
   Product Type: Gifts
   Availability: Available
@@ -5396,7 +5396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/Creative-Marble-Stripe-Large-Rectangle-And-Round-Ceramic-Pizza-Plate-Cookware-Porcelain-Sushi-Tableware-wholesale.jpg_640x640_3881d19b-1162-40aa-9afe-5a5e3a0abbd7.jpg?v=1637300614
     Price: $57.58 USD
 - [Three Knot Baby Crib Bumper freeshipping - Annizon Home Essentials](https://annizon.com/products/three-knot-baby-crib-bumper-176325140): These cotton ropes are adorable and softly line the crib so your baby can rest safely. Available in 1 to 3 meter measurements, these cotton ropes add an adorable aesthetic and can be wound up in baby carriages as well as playpens for multiple uses. Available in a myriad of colors and combinations, it is the perfect safety/nursery decor for your baby's room. Material: COTTONAge
-  Updated: 2025-12-24T23:12:57Z
+  Updated: 2026-01-16T11:23:09Z
   Vendor: Ivory Max
   Product Type: Blankets & Pillows
   Availability: Available
@@ -6467,7 +6467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/data_9523cbf2-9427-4bf2-993d-0b2ede248717.jpg?v=1637300612
   Price: $52.56 USD
 - [HomCom Faux Leather Padded Double / Duet Piano Bench w/ Music Storage freeshipping - Annizon Home Essentials](https://annizon.com/products/homcom-faux-leather-padded-double-duet-piano-bench-w-music-storage-690603950): HomCom Faux Leather Padded Double / Duet Piano Bench w/ Music Storage - White best Home & Garden from Taupe Shadow - Annizon Home Essentials
-  Updated: 2025-12-24T23:13:02Z
+  Updated: 2026-01-13T00:52:13Z
   Vendor: Taupe Shadow
   Product Type: Home & Garden
   Availability: Available
@@ -6712,7 +6712,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/il_570xN.1158899079_37bj.jpg?v=1637302983
   Price: $27.50 USD
 - [Elderflower eye cream freeshipping - Annizon Home Essentials](https://annizon.com/products/elderflower-eye-cream-120048155): This is a deeply nourishing eye cream featuring elder flowers that are gathered in the wild, along with organic butters and oils that are known to help the skin repair damage such as argan oil, rose hip seed oil and mango butter. This isn't a thin cream, so a little goes a long ways, but it doesn't take long to soak into the skin. I love using elder flowers in skin products because
-  Updated: 2025-12-24T23:13:06Z
+  Updated: 2026-01-13T00:43:16Z
   Vendor: Pink Felix
   Product Type: Skincare
   Availability: Available
@@ -7120,35 +7120,35 @@
     Availability: Available
     Price: $96.65 USD
 - [Ore Furniture HB4791 17 in. Stencil Storage Bench Seat with Side Pocke freeshipping - Annizon Home Essentials](https://annizon.com/products/ore3024-602172352): Give your home a refined design with a beautiful, Auburn Brown Basketweave Pattern Leatherette storage ottoman bench. Made from wood construction, this storage ottoman bench is suitable for storage, seating or use as a coffee table. The rectangular form lends itself to a number of placements among your existing furniture arrangement. Side pockets will keep your elusive remote controls
-  Updated: 2025-12-24T23:13:10Z
+  Updated: 2026-01-13T00:43:13Z
   Vendor: Rose Chloe
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/ORE3024.jpg?v=1637299988
   Price: $161.50 USD
 - [Creek Vine Designs WF4102CVD Cedar Country Hearts Furniture Collection freeshipping - Annizon Home Essentials](https://annizon.com/products/ckvnd048-514056491): Bench: 48"W x 29"D x 36"H Chair: 28"W x 29"D x 36"H Bench Seat: 45"L x 18"D x 21"H Chair Seat: 24"L x 18"D x 21"H End Table: 20"L x 29"D x 16"H Bench Weight: 38 lbs. Chair Weight: 24 lbs. End Table Weight: 20 lbs. Capacity: 900 lbs. et Includes: 4' Bench Chair &amp; End Table Features: Rounded &amp; Sanded Edges Made in the U.S.A. Zinc Plated Steel best Furniture from Rose Chloe
-  Updated: 2025-12-24T23:13:11Z
+  Updated: 2026-01-13T00:45:34Z
   Vendor: Rose Chloe
   Product Type: Furniture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/ckvnd048.gif?v=1637461932
   Price: $1,139.60 USD
 - [X-Large Cat Washroom Bench Litter Box Enclosure Furniture Box House freeshipping - Annizon Home Essentials](https://annizon.com/products/copy-of-x-large-cat-washroom-bench-litter-box-enclosure-furniture-box-house-with-table-grey-450026825): The pets are often in search of a hide-hole where they can comfort themselves. Especially the furry cats who purr away to take refuge. Being a cat lover you must be in need of a suitable sanctuary washroom for your cat, for no one welcomes the litter and bad odor it creates. No one wants to create a mess at their living places. Washroom bench for your kitty is an ideal way to conceal
-  Updated: 2025-12-24T23:13:11Z
+  Updated: 2026-01-13T00:48:10Z
   Vendor: Turquoise Cronus
   Product Type: Pets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/data_e8099289-f640-4fc9-88ad-d8bbda9fad2f.jpg?v=1637300008
   Price: $169.99 USD
 - [X-Large Cat Washroom Bench Litter Box Enclosure Furniture Box House freeshipping - Annizon Home Essentials](https://annizon.com/products/cat-sounana-washroom-bench-litter-box-enclosure-black-841518774): The pets are often in search of a hide-hole where they can comfort themselves. Especially the furry cats who purr away to take refuge. Being a cat lover you must be in need of a suitable sanctuary washroom for your cat, for no one welcomes the litter and bad odor it creates. No one wants to create a mess at their living places. Washroom bench for your kitty is an ideal way to conceal
-  Updated: 2025-12-24T23:13:11Z
+  Updated: 2026-01-13T00:49:21Z
   Vendor: Turquoise Cronus
   Product Type: Pets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/pet-home-black.png?v=1637300008
   Price: $169.99 USD
 - [Home Garden Furniture Coffee Table Rattan Sofa Set freeshipping - Annizon Home Essentials](https://annizon.com/products/home-garden-furniture-coffee-table-rattan-sofa-set-679797508): Features:1. Made of high quality PE rattan and Iron frame, stable, sturdy and durable2. It has a long service time, durable in use3. The sofa set can meet your family need4. Soft cushion ensures comfortable seating experience5. Concise design and exquisite workmanship6. It can coordinate with any style of decorationSpecifications:1. Material: PE Rattan &amp; Iron &amp; Tempered
-  Updated: 2025-12-24T23:13:11Z
+  Updated: 2026-01-13T00:50:09Z
   Vendor: Lilac Milo
   Product Type: Home & Garden
   Availability: Available
@@ -7176,7 +7176,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/36643.jpg?v=1637300058
   Price: $273.58 USD
 - [White Telephone Table freeshipping - Annizon Home Essentials](https://annizon.com/products/white-telephone-table-661208557): White wood telephone table with shelf and two drawers, combines sleek simplicity with versatile functionality for use as a telephone table, side table or night stand. 15 3/4" x 11 3/4" x 27 1/4" high. We do not ship to Alaska, Hawaii, POBOX and FPO addresses  best Home & Garden from Violet Leto - Annizon Home Essentials
-  Updated: 2025-12-24T23:13:12Z
+  Updated: 2026-01-13T00:42:10Z
   Vendor: Violet Leto
   Product Type: Home & Garden
   Availability: Available
@@ -7190,7 +7190,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/7f6fe090-cb01-4608-ac0c-3419fd5c7a24.jpg?v=1637461933
   Price: $99.98 USD
 - [Cat House Side Table, Nightstand Pet House, Litter Box Enclosure freeshipping - Annizon Home Essentials](https://annizon.com/products/cat-house-and-litter-box-enclosure-nightstand-white-895739457): Description: Use as a nightstand or side table that doubles as a pet house or litter box enclosure. The cat door is fixed with a decorative cat hole allowing your cat to come and go as it pleases. The interior may also be accessed by opening the hinged door to insert a pet bed and litter box when needed. The cat house is equipped with a wide table top perfect for magazines, potted
-  Updated: 2025-12-24T23:13:12Z
+  Updated: 2026-01-13T00:45:10Z
   Vendor: Turquoise Cronus
   Product Type: Pets
   Availability: Available
@@ -7253,7 +7253,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/471112026391838720.jpg?v=1637300150
   Price: $43.32 USD
 - [X-Large Cat Washroom Bench Litter Box Enclosure Furniture Box House freeshipping - Annizon Home Essentials](https://annizon.com/products/x-large-cat-washroom-bench-litter-box-enclosure-furniture-box-house-with-table-1220794332): The pets are often in search of a hide-hole where they can comfort themselves. Especially the furry cats who purr away to take refuge. Being a cat lover you must be in need of a suitable sanctuary washroom for your cat, for no one welcomes the litter and bad odor it creates. Now you don't have to compromise! A perfect solution to help keep your litter box concealed, but easily
-  Updated: 2025-12-24T23:13:13Z
+  Updated: 2026-01-13T00:44:32Z
   Vendor: Turquoise Cronus
   Product Type: Pets
   Availability: Available
@@ -7379,7 +7379,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/hooded-blanket-christmas-night-hooded-blanket-80x60-muliticolored-13059359244391.jpg?v=1637461941
   Price: $63.98 USD
 - [Puppy Santa Hooded Blanket freeshipping - Annizon Home Essentials](https://annizon.com/products/copy-of-kitten-snowman-hooded-blanket-1431688627): ALL-DAY COMFORT The Hooded Blanket is one of the softest and most amazing blankets that you can get with Premium Sherpa. The printed colors are vivid and beautiful, making this a great gift for yourself or someone else. BENEFITS Enhanced print quality brings out the extra details and extremely vibrant artwork. Premium Sherpa Product created In-House Made in the USA FABRIC DETAILS
-  Updated: 2025-12-24T23:13:15Z
+  Updated: 2026-01-12T08:37:31Z
   Vendor: Orange Poppy
   Product Type: Textiles & Pillows
   Availability: Available
@@ -7453,185 +7453,182 @@
 ## Collections
 
 - [Home page](https://annizon.com/collections/frontpage)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:55Z
   Total Products: 36
 - [Clocks](https://annizon.com/collections/clocks)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:55Z
   Total Products: 17
 - [Home Decors](https://annizon.com/collections/home-decors)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:55Z
   Total Products: 42
 - [Home Organization](https://annizon.com/collections/home-organization)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:56Z
   Total Products: 18
 - [Home Textiles](https://annizon.com/collections/home-textiles)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:56Z
   Total Products: 18
 - [Household Merchandises](https://annizon.com/collections/household-merchandises)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:56Z
   Total Products: 21
 - [Lights](https://annizon.com/collections/light)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:56Z
   Total Products: 22
 - [Dinnerware](https://annizon.com/collections/dinnerware)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:56Z
   Total Products: 6
 - [Gift Cards](https://annizon.com/collections/gift-cards)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:56Z
   Total Products: 1
 - [Baby and Kids](https://annizon.com/collections/baby-and-kids)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:57Z
   Total Products: 0
 - [Essentials](https://annizon.com/collections/essentials)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:57Z
   Total Products: 10
 - [What's New](https://annizon.com/collections/newest)
-  Updated: 2025-12-25T20:04:39Z
+  Updated: 2026-01-09T21:43:57Z
   Total Products: 149
 - [Bath & Beauty](https://annizon.com/collections/bath-beauty)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:57Z
   Total Products: 5
 - [Kids & Babies](https://annizon.com/collections/kids-and-babies)
-  Updated: 2025-12-30T02:44:47Z
+  Updated: 2026-01-13T01:45:12Z
   Total Products: 526
 - [View All New Items](https://annizon.com/collections/all-new-items)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:57Z
   Total Products: 116
 - [Seasonal Collections](https://annizon.com/collections/holidays)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:58Z
   Total Products: 58
 - [Furniture](https://annizon.com/collections/furniture)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:58Z
   Total Products: 17
 - [Rugs](https://annizon.com/collections/rugs)
-  Updated: 2025-12-30T02:44:42Z
+  Updated: 2026-01-09T21:43:45Z
   Total Products: 33
 - [Annizon Food](https://annizon.com/collections/annizon-food)
-  Updated: 2025-12-30T02:44:31Z
+  Updated: 2026-01-09T21:43:46Z
   Total Products: 13
 - [Wall Art](https://annizon.com/collections/wall-art)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:58Z
   Total Products: 23
 - [Tables](https://annizon.com/collections/tables)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:58Z
   Total Products: 12
 - [Whole Sets](https://annizon.com/collections/whole-sets)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:58Z
   Total Products: 2
 - [Kitchen](https://annizon.com/collections/kitchen)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:58Z
   Total Products: 56
 - [Mugs](https://annizon.com/collections/mugs)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 10
 - [Gift Ideas (Arrives before Christmas)](https://annizon.com/collections/gift-ideas-arrives-before-christmas)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 7
 - [Bathroom](https://annizon.com/collections/bathroom)
-  Updated: 2025-12-26T08:01:23Z
+  Updated: 2026-01-09T21:43:46Z
   Total Products: 34
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-01-07T10:03:42Z
-  Total Products: 6150
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 10727
 - [Candles](https://annizon.com/collections/candles)
-  Updated: 2025-12-25T20:04:40Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 3
 - [Tobi Collection](https://annizon.com/collections/tobi-collection)
-  Updated: 2026-01-06T07:21:12Z
-  Total Products: 14033
-- [Made with Wood](https://annizon.com/collections/made-with-wood)
-  Updated: 2025-12-25T20:04:40Z
-  Total Products: 10
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 18634
 - [Wood](https://annizon.com/collections/wood)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 2
 - [Wall Lights](https://annizon.com/collections/wall-lights)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 12
 - [Celling Lights](https://annizon.com/collections/celling-lights)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 4
 - [Floor Lights](https://annizon.com/collections/floor-lights)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 3
 - [Table Lights](https://annizon.com/collections/table-lights)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:59Z
   Total Products: 9
 - [Chandeliers](https://annizon.com/collections/chandeliers)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 2
 - [See All Lights](https://annizon.com/collections/see-all)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 59
 - [Light Collection](https://annizon.com/collections/light-collection)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 15
 - [Nature](https://annizon.com/collections/nature)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 3
 - [Animals](https://annizon.com/collections/animals)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 1
 - [Abstract](https://annizon.com/collections/abstract)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 13
 - [Culture](https://annizon.com/collections/culture)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:44:00Z
   Total Products: 3
 - [3D Wall Art](https://annizon.com/collections/3d-art)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:47Z
   Total Products: 0
 - [Under the Water](https://annizon.com/collections/under-the-water)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:47Z
   Total Products: 1
 - [Framed](https://annizon.com/collections/framed)
-  Updated: 2025-12-25T20:04:41Z
+  Updated: 2026-01-09T21:43:47Z
   Total Products: 1
 - [Best  Products](https://annizon.com/collections/best--products)
-  Updated: 2026-01-06T07:21:12Z
-  Total Products: 14050
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 18682
 - [Newest Products](https://annizon.com/collections/newest-products)
-  Updated: 2026-01-06T07:21:12Z
-  Total Products: 14050
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 18682
 - [Bedding](https://annizon.com/collections/bedding)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:48Z
   Total Products: 9
 - [Wallpaper](https://annizon.com/collections/wallpaper)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:48Z
   Total Products: 4
 - [Wall Deocr](https://annizon.com/collections/wall-deocr)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 13
 - [Chairs](https://annizon.com/collections/chairs)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 1
 - [Outdoor](https://annizon.com/collections/outdoor)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 6
 - [Living Room](https://annizon.com/collections/living-room)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 17
 - [Bedroom](https://annizon.com/collections/bedroom)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 6
 - [Rooms](https://annizon.com/collections/rooms)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 0
 - [Bed Frames](https://annizon.com/collections/bed-frames)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 3
 - [Couch](https://annizon.com/collections/couch)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 0
 - [Side Tables](https://annizon.com/collections/side-tables)
-  Updated: 2025-12-25T20:04:42Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 3
 - [Home Office](https://annizon.com/collections/home-office)
-  Updated: 2025-12-30T02:39:11Z
+  Updated: 2026-01-09T21:43:49Z
   Total Products: 17
 - [Shoes](https://annizon.com/collections/shoes)
-  Updated: 2025-12-25T20:04:42Z
-  Total Products: 226
+  Updated: 2026-01-10T08:41:17Z
+  Total Products: 227
 - [Most Popular](https://annizon.com/collections/most-popular)
   Updated: 2025-12-25T20:04:42Z
   Total Products: 28
@@ -7639,14 +7636,14 @@
   Updated: 2025-12-30T02:44:45Z
   Total Products: 2
 - [Pets](https://annizon.com/collections/pets)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 7
+  Updated: 2026-01-11T03:33:30Z
+  Total Products: 22
 - [Health & Beauty](https://annizon.com/collections/health-beauty)
   Updated: 2025-12-30T02:44:34Z
   Total Products: 72
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-1): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-01-07T10:03:42Z
-  Total Products: 6146
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 10723
 - [Baby Girl](https://annizon.com/collections/baby-girl)
   Updated: 2025-12-30T02:44:41Z
   Total Products: 40
@@ -7654,22 +7651,22 @@
   Updated: 2026-01-06T03:05:18Z
   Total Products: 12
 - [Women](https://annizon.com/collections/women)
-  Updated: 2026-01-01T20:48:22Z
-  Total Products: 1038
+  Updated: 2026-01-16T08:01:20Z
+  Total Products: 1222
 - [Men](https://annizon.com/collections/men)
-  Updated: 2026-01-01T20:44:44Z
-  Total Products: 429
+  Updated: 2026-01-10T08:39:07Z
+  Total Products: 442
 - [Digital Products](https://annizon.com/collections/digital-products)
   Updated: 2025-12-25T20:04:43Z
   Total Products: 6
 - [Affirmation](https://annizon.com/collections/affirmation)
-  Updated: 2025-12-25T20:04:43Z
-  Total Products: 9
+  Updated: 2026-01-11T07:42:33Z
+  Total Products: 5
 - [Notebooks](https://annizon.com/collections/notebooks)
   Updated: 2025-12-25T20:04:43Z
   Total Products: 8
 - [Ship to US Only](https://annizon.com/collections/ship-to-us-only)
-  Updated: 2026-01-06T06:36:46Z
+  Updated: 2026-01-16T08:01:20Z
   Total Products: 1854
 - [Digital Art](https://annizon.com/collections/digital-art)
   Updated: 2025-12-25T20:04:43Z
@@ -7678,25 +7675,25 @@
   Updated: 2025-12-30T02:45:41Z
   Total Products: 46
 - [AVADA Email Marketing - Newest Products](https://annizon.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-01-07T10:03:42Z
-  Total Products: 6146
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 10723
 - [AVADA Email Marketing - Best Sellers](https://annizon.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-01-07T10:03:42Z
-  Total Products: 6146
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 10723
 - [tinyEinstein_best_selling](https://annizon.com/collections/tinyeinstein_best_selling)
-  Updated: 2026-01-07T10:03:42Z
-  Total Products: 6146
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 10723
 - [tinyEinstein_new_arrival](https://annizon.com/collections/tinyeinstein_new_arrival)
-  Updated: 2026-01-07T10:03:42Z
-  Total Products: 6146
+  Updated: 2026-01-17T00:00:26Z
+  Total Products: 10723
 - [Home & Kitchen](https://annizon.com/collections/home-kitchen)
-  Updated: 2025-12-25T20:04:43Z
+  Updated: 2026-01-09T21:43:54Z
   Total Products: 2
 - [Annizon Made Me Buy It!](https://annizon.com/collections/amazon-must-have)
-  Updated: 2025-12-30T02:45:50Z
-  Total Products: 11
+  Updated: 2026-01-11T07:40:37Z
+  Total Products: 1
 - [Rings](https://annizon.com/collections/rings)
-  Updated: 2026-01-05T12:12:10Z
+  Updated: 2026-01-16T08:01:21Z
   Total Products: 616
 - [Sunglasses](https://annizon.com/collections/sunglasses)
   Updated: 2025-12-25T20:04:44Z
@@ -7705,11 +7702,14 @@
   Updated: 2025-12-25T20:04:44Z
   Total Products: 2
 - [Bags](https://annizon.com/collections/bags)
-  Updated: 2026-01-05T04:37:42Z
+  Updated: 2026-01-16T08:01:20Z
   Total Products: 412
 - [Jewelry](https://annizon.com/collections/jewelry)
   Updated: 2025-12-25T21:54:02Z
   Total Products: 2
+- [Books](https://annizon.com/collections/books)
+  Updated: 2026-01-13T03:31:23Z
+  Total Products: 201
 
 ## Blogs
 
@@ -8122,6 +8122,18 @@
   - [Elevate Your Space with Vortex & Illusion Rugs: 2025 Decor Tips](https://annizon.com/blogs/news/creative-home-decor-ideas-how-to-use-vortex-rugs-and-illusion-rugs-to-elevate-your-space-in-2025): Elevate Your Space with Vortex & Illusion Rugs: 2025 Decor Tips
     Updated: 2025-06-19T03:40:12Z
     Author: annizon.com
+  - [Bodycon Maxi Dress Fit Guide: How to Choose for Your Body Shape](https://annizon.com/blogs/news/bodycon-maxi-dress-fit-guide-how-to-choose-for-your-body-shape-261-98): Bodycon Maxi Dress Fit Guide: How to Choose for Your Body Shape
+    Updated: 2026-01-09T22:33:46Z
+    Author: Anni Yang
+  - [5 Reasons a Zebra Print Halter Neck Bikini Set Should Be Your Summer Staple](https://annizon.com/blogs/news/5-reasons-a-zebra-print-halter-neck-bikini-set-should-be-your-summer-staple): 5 Reasons a Zebra Print Halter Neck Bikini Set Should Be Your Summer Staple
+    Updated: 2026-01-10T07:16:49Z
+    Author: User
+  - [Ruched Elegance Unveiling the Allure of the Long Sleeve Bodycon Maxi Dress](https://annizon.com/blogs/news/ruched-elegance-unveiling-the-allure-of-the-long-sleeve-bodycon-maxi-dress): Ruched Elegance Unveiling the Allure of the Long Sleeve Bodycon Maxi Dress
+    Updated: 2026-01-11T03:32:22Z
+    Author: User
+  - [Debating Capital Punishment A Deep Dive into America’s Controversial Justice System](https://annizon.com/blogs/news/debating-capital-punishment-a-deep-dive-into-america-s-controversial-justice-system): Debating Capital Punishment A Deep Dive into America’s Controversial Justice System
+    Updated: 2026-01-16T01:01:29Z
+    Author: User
 
 ## Store Pages
 
