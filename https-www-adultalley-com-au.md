@@ -6,17 +6,10 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-07-30T13:44:44Z
 - Contact Email: contact@adultalley.com.au
-- Updated At: 2026-01-10T00:00:33.521Z
+- Updated At: 2026-01-17T00:00:34.861Z
 
 ## Products
 
-- [Penthouse POISON COOKIE White Lace Dress Set with Hairpiece - L/XL |  Alley](https://www.adultalley.com.au/products/005805ph): Seductive Penthouse POISON COOKIE white lace dress with eyelash details, thong & hairpiece. Premium nylon-elastane. L/XL fits C/D cup. Australia shipping.
-  Updated: 2025-12-15T04:32:25Z
-  Vendor: Penthouse Lingerie
-  Product Type: LINGERIE-PREMIUM
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/005805PH.jpg?v=1755127041
-  Price: $30.95 AUD
 - [Dick Rambone Cock 17'' Flesh Dong - Doc Johnson |  Alley](https://www.adultalley.com.au/products/0268-00-cd): Premium Dick Rambone Cock 17'' flesh dong by Doc Johnson. Veined shaft, suction cup base, Sil-A-Gel formula. Phthalate-free. Australia shipping.
   Updated: 2025-12-15T04:32:43Z
   Vendor: Doc Johnson
@@ -171,13 +164,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/3900-07-BU.jpg?v=1755127352
   Price: $43.95 AUD
-- [Satisfyer Masturbator Eggs Mixed 6 Pack Stroker Sleeves - Satisfyer |  Alley](https://www.adultalley.com.au/products/4001814): Premium Satisfyer Masturbator Eggs mixed 6 pack stroker sleeves by Satisfyer. Cyber-skin material, varying inner shapes, compact travel size. Australia shipping.
-  Updated: 2025-12-15T03:55:18Z
-  Vendor: Satisfyer
-  Product Type: MASTURBATORS-PREMIUM
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/4001814.jpg?v=1755127373
-  Price: $50.95 AUD
 - [Satisfyer Dual Crush Red Air Pulse Stimulator with Vibration - Satisfyer |  Alley](https://www.adultalley.com.au/products/4003061): Premium Satisfyer Dual Crush red air pulse stimulator with vibration by Satisfyer. Dual stimulation technology, powerful performance. Australia shipping.
   Updated: 2025-12-15T04:29:34Z
   Vendor: Satisfyer
@@ -311,12 +297,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/4018386.jpg?v=1755127528
   Price: $56.95 AUD
-- [Satisfyer Duelist Blue Vibrating Adjustable Lasso Cock Ring - Satisfyer |  Alley](https://www.adultalley.com.au/products/4018430): Premium Satisfyer Duelist blue vibrating adjustable lasso cock ring by Satisfyer. Ribbed structure, one size fits all, 12 vibration programs, waterproof IPX7. Australia shipping.
-  Updated: 2025-12-15T04:28:53Z
+- [Satisfyer Duelist Dark Blue Vibrating Adjustable Lasso Cock Ring - Satisfyer |  Alley](https://www.adultalley.com.au/products/4018447): Premium Satisfyer Duelist dark blue vibrating adjustable lasso cock ring by Satisfyer. Ribbed structure, one size fits all, 12 vibration programs, waterproof IPX7. Australia shipping.
+  Updated: 2026-01-15T21:38:51Z
   Vendor: Satisfyer
   Product Type: COCK RINGS-PREMIUM
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/4018430.jpg?v=1755127535
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/4018447.jpg?v=1755127537
   Price: $51.95 AUD
 - [Satisfyer Pearl Diver Violet - USB Rechargeable Air Pulsation Stimulator |  Alley](https://www.adultalley.com.au/products/4037240): Satisfyer Pearl Diver violet shell-like stimulator. 11 pressure waves, 12 vibration settings, 132 combinations, waterproof IPX7. Australia shipping.
   Updated: 2025-12-15T03:54:41Z
@@ -451,13 +437,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/90208.jpg?v=1755127845
   Price: $42.95 AUD
-- [Wicked Hybrid Water & Silicone Blended Lubricant 240ml - Wicked |  Alley](https://www.adultalley.com.au/products/90209): Premium Wicked Hybrid water & silicone blended lubricant 240ml. Long-lasting, fragrance-free, paraben-free, best of both. Australia shipping.
-  Updated: 2025-12-15T04:32:50Z
-  Vendor: Wicked
-  Product Type: LOTIONS & LUBES
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/90209.jpg?v=1755127848
-  Price: $41.95 AUD
 - [Wicked Aqua Chill Cooling Water Based Lubricant 120ml - Wicked |  Alley](https://www.adultalley.com.au/products/90222): Premium Wicked Aqua Chill cooling water based lubricant 120ml. Peppermint, ginger & menthol, tingling sensation, vegan formula. Australia shipping.
   Updated: 2025-12-15T04:00:33Z
   Vendor: Wicked
@@ -1348,7 +1327,7 @@
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/EN-RS-9246-2.jpg?v=1755128971
   Price: $100.95 AUD
 - [Evolved RASCALLY RABBIT](https://www.adultalley.com.au/products/en-rs-9345-2): Evolved RASCALLY RABBIT - Purple
-  Updated: 2025-12-15T03:58:17Z
+  Updated: 2026-01-15T21:38:12Z
   Vendor: Evolved
   Product Type: VIBRATORS-RABBIT
   Availability: Available
@@ -1578,13 +1557,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/FOR138.jpg?v=1755129149
   Price: $27.95 AUD
-- [Four Seasons Regular Condoms](https://www.adultalley.com.au/products/for145): Four Seasons Regular Condoms 50's
-  Updated: 2026-01-09T21:37:25Z
-  Vendor: Four Seasons
-  Product Type: CONDOMS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/FOR145.jpg?v=1755129151
-  Price: $41.95 AUD
 - [Four Seasons Naked Sensations Condoms](https://www.adultalley.com.au/products/for147): Four Seasons Naked Sensations Condoms 50's
   Updated: 2025-12-15T04:31:56Z
   Vendor: Four Seasons
@@ -1592,13 +1564,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/FOR147.jpg?v=1755129152
   Price: $41.95 AUD
-- [Four Seasons Naked Closer Condoms](https://www.adultalley.com.au/products/for5012): Four Seasons Naked Closer Condoms - Bulk Box 144
-  Updated: 2025-12-15T04:32:02Z
-  Vendor: Four Seasons
-  Product Type: BULK CONDOMS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/FOR5012.jpg?v=1755129154
-  Price: $54.95 AUD
 - [Four Seasons Naked Larger Condoms](https://www.adultalley.com.au/products/for6005): Four Seasons Naked Larger Condoms - Bulk Box 144
   Updated: 2025-12-15T04:31:49Z
   Vendor: Four Seasons
@@ -1760,7 +1725,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/HSCK009.jpg?v=1755129285
   Price: $38.95 AUD
-[List Continued](https://www.adultalley.com.au/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDc2OTU0OTU3NDUxNiwibGFzdF92YWx1ZSI6IjE0NzY5NTQ5NTc0NTE2In0=)
+- [Edible Massage Candle](https://www.adultalley.com.au/products/hsck011): EB Edible Heart Massage Candle - Pineapple - 113g
+  Updated: 2025-12-15T03:55:38Z
+  Vendor: Earthly Body
+  Product Type: CANDLES
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/HSCK011.jpg?v=1755129287
+  Price: $38.95 AUD
+- [Edible Massage Candle Threesome](https://www.adultalley.com.au/products/hsck200): EB Edible Massage Candles Threesome - 3 Pack
+  Updated: 2025-12-15T03:55:37Z
+  Vendor: Earthly Body
+  Product Type: CANDLES
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/HSCK200.jpg?v=1755129291
+  Price: $35.95 AUD
+- [Hemp Seed Toy Cleaner](https://www.adultalley.com.au/products/hstc004): EB Hemp Seed Toy Cleaner - 118 ml
+  Updated: 2025-12-15T03:55:36Z
+  Vendor: Earthly Body
+  Product Type: HEALTH CARE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/HSTC004.jpg?v=1755129295
+  Price: $28.95 AUD
+- [Shades 6'' Jelly TPR Dong](https://www.adultalley.com.au/products/ic1301-3): Shades 6'' Jelly TPR Dong, Emerald
+  Updated: 2025-12-15T03:55:36Z
+  Vendor: Icon Brands
+  Product Type: DONGS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/IC1301-3.jpg?v=1755129303
+  Price: $45.95 AUD
+- [Shades 7'' Jelly TPR Dong](https://www.adultalley.com.au/products/ic1303-3): Shades 7'' Jelly TPR Dong, Violet
+  Updated: 2025-12-15T03:55:34Z
+  Vendor: Icon Brands
+  Product Type: DONGS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0932/7486/6036/files/IC1303-3.jpg?v=1755129307
+  Price: $51.95 AUD
+[List Continued](https://www.adultalley.com.au/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDc2OTU1MDA5ODgwNCwibGFzdF92YWx1ZSI6IjE0NzY5NTUwMDk4ODA0In0=)
 
 ## Collections
 
@@ -1768,11 +1768,11 @@
   Updated: 2025-12-16T10:35:16Z
   Total Products: 0
 - [Premium Condoms & Lubes Collection - Safe Intimate Products -  Alley](https://www.adultalley.com.au/collections/condoms-lubes): Shop premium condoms and lubricants for safe, satisfying intimacy. Trusted brands, comfort formulas, and long-lasting glide. Discreet shipping Australia-wide.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 371
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 429
 - [ Games & Novelty Gifts Australia -  Alley](https://www.adultalley.com.au/collections/-games-novelties): Fun  games & novelty items for parties & couples. Playful gifts & entertainment for unforgettable nights. Australia shipping.
-  Updated: 2026-01-09T21:35:21Z
-  Total Products: 259
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 278
 - [Premium  Swings & Intimate Furniture -  Alley](https://www.adultalley.com.au/collections/swings): Explore premium  swings for adventurous couples. Comfortable, sturdy designs for enhanced intimacy. Discreet shipping Australia-wide.
   Updated: 2025-12-16T10:31:32Z
   Total Products: 11
@@ -1786,152 +1786,152 @@
   Updated: 2025-12-16T10:34:32Z
   Total Products: 4
 - [Strap-On Sets & Harnesses Australia - Complete Kits -  Alley](https://www.adultalley.com.au/collections/strap-ons): Shop premium strap-on sets in Australia. Complete harness & dildo combinations for all bodies. Beginner to advanced options. Body-safe. Discreet shipping.
-  Updated: 2026-01-09T21:35:20Z
-  Total Products: 53
+  Updated: 2026-01-16T21:35:17Z
+  Total Products: 54
 - [Vibrators & Clitoral Stimulators Australia -  Alley](https://www.adultalley.com.au/collections/stimulators): Premium stimulators, vibrators & clitoral toys. From gentle teasing to powerful thrills. Perfect for solo or couples play. Discreet shipping Australia.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 103
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 107
 - [Male Enhancement Sleeves & Textured Toys Australia -  Alley](https://www.adultalley.com.au/collections/sleeves): Premium textured sleeves for enhanced pleasure & endurance. Discreet designs to bold textures. Boost confidence & sensation. Australia shipping.
   Updated: 2025-12-13T10:27:56Z
   Total Products: 0
 - [Sensual Massage Candles & Romantic Oils Australia -  Alley](https://www.adultalley.com.au/collections/candles): Luxurious massage candles that melt into warm oils. Set the mood for romance & relaxation. Premium scents & skin-safe. Australia shipping.
-  Updated: 2026-01-09T21:35:21Z
-  Total Products: 47
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 48
 - [ Toy Batteries & Rechargeable Power Australia -  Alley](https://www.adultalley.com.au/collections/batteries): High-quality batteries for  toys. Reliable power to keep your devices ready. Long-lasting performance. Discreet shipping Australia-wide.
-  Updated: 2025-12-16T10:33:59Z
-  Total Products: 7
+  Updated: 2026-01-16T21:35:25Z
+  Total Products: 10
 - [Cock Rings - Vibrating & Non-Vibrating Penis Rings -  Alley](https://www.adultalley.com.au/collections/cock-rings): Premium cock rings for enhanced stamina and pleasure. Vibrating, adjustable, and stretchy styles. Body-safe materials. Discreet Australia-wide shipping from  Alley.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 209
+  Updated: 2026-01-16T21:35:30Z
+  Total Products: 244
 - [Male Masturbators & Realistic Strokers Australia -  Alley](https://www.adultalley.com.au/collections/masturbators): Premium masturbators with realistic textures & innovative designs. Lifelike sensations for ultimate solo pleasure. Australia shipping.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 299
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 303
 - [Penis Pumps - Vacuum Erection Devices & Enhancement -  Alley](https://www.adultalley.com.au/collections/pumps): Premium penis pumps for size enhancement and erectile support. Safe, effective vacuum devices with manual and powered options. Discreet shipping from  Alley.
-  Updated: 2026-01-09T21:35:20Z
-  Total Products: 74
+  Updated: 2026-01-16T21:35:22Z
+  Total Products: 82
 - [Male Enhancement Accessories & Performance Toys Australia -  Alley](https://www.adultalley.com.au/collections/enhancers): Premium enhancement accessories for boosted performance & confidence. Supportive rings & innovative toys for prolonged play. Australia shipping.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 72
+  Updated: 2026-01-16T21:35:34Z
+  Total Products: 86
 - [Premium Dongs & Dildos Australia - Body-Safe Toys -  Alley](https://www.adultalley.com.au/collections/dongs): Explore Australia's premium dongs collection: realistic, fantasy & double-ended designs. Body-safe materials, diverse sizes. Discreet shipping nationwide.
-  Updated: 2026-01-09T21:35:31Z
-  Total Products: 256
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 289
 - [Premium Vibrators &  Toys Australia -  Alley](https://www.adultalley.com.au/collections/vibrators): Powerful vibrators from gentle pulses to intense thrills. Classic & innovative designs for solo or couples play. Premium quality Australia.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 358
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 393
 - [Bullet Vibrators & Egg Vibrators Australia - Discreet & Powerful -  Alley](https://www.adultalley.com.au/collections/bullets-eggs-1): Shop premium bullet & egg vibrators in Australia. Compact, powerful, body-safe designs. Perfect for beginners & travel. Wireless options. Discreet shipping.
-  Updated: 2026-01-05T21:35:28Z
-  Total Products: 129
+  Updated: 2026-01-16T21:35:27Z
+  Total Products: 144
 - [ Toy Kits & Gift Sets Australia -  Alley](https://www.adultalley.com.au/collections/kits): Curated  toy kits & gift sets. Perfect for couples, gifting & exploration. Ready-to-go bundles with complementary toys. Australia.
-  Updated: 2025-12-16T10:34:33Z
-  Total Products: 5
+  Updated: 2026-01-16T21:35:17Z
+  Total Products: 6
 - [Sexy Lingerie & Intimate Apparel Australia -  Alley](https://www.adultalley.com.au/collections/lingerie-apparel): Stunning lingerie & intimate apparel to celebrate your curves. Delicate lace, silky fabrics & seductive styles. Feel confident & beautiful. Australia.
-  Updated: 2026-01-09T21:35:20Z
+  Updated: 2026-01-12T21:35:29Z
   Total Products: 104
 - [Air Pulsation Toys & Suction Stimulators Australia -  Alley](https://www.adultalley.com.au/collections/air-pulsation): Shop premium air pulsation toys in Australia. Revolutionary pressure wave technology for touchless clitoral pleasure. Body-safe, whisper-quiet. Discreet shipping.
-  Updated: 2026-01-09T21:35:23Z
-  Total Products: 65
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 67
 - [ Toys for Men & Male Masturbators Australia -  Alley](https://www.adultalley.com.au/collections/for-men): Premium  toys designed for men. Strokers, prostate massagers & performance accessories. Body-safe materials. Discreet Australia shipping.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 314
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 318
 - [ Toys for Women & Female Vibrators Australia -  Alley](https://www.adultalley.com.au/collections/for-women): Premium women's  toys & vibrators. Elegant designs for solo or couples play. Body-safe materials for ultimate pleasure. Australia shipping.
-  Updated: 2026-01-09T21:35:31Z
-  Total Products: 832
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 917
 - [Anal Play Toys & Prostate Massagers Australia -  Alley](https://www.adultalley.com.au/collections/anal-play): Explore anal play with beginner to advanced toys. Plugs, beads & prostate massagers. Body-safe designs for comfort & pleasure. Australia.
-  Updated: 2026-01-09T21:35:30Z
-  Total Products: 287
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 326
 - [Intimate Health & Wellness Products Australia -  Alley](https://www.adultalley.com.au/collections/health-wellness): Essential intimate wellness products for self-care. Lubricants, massage oils & body-safe accessories. Enhance comfort & confidence. Australia.
-  Updated: 2026-01-09T21:35:31Z
-  Total Products: 85
+  Updated: 2026-01-16T21:35:21Z
+  Total Products: 90
 - [Bondage & BDSM Fetish Toys Australia -  Alley](https://www.adultalley.com.au/collections/bondage-fetish): Premium bondage & fetish toys for power play. Restraints, cuffs, paddles & sensory accessories. Quality materials for safe exploration. Australia.
-  Updated: 2026-01-09T21:35:30Z
-  Total Products: 343
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 381
 - [ Toy Kits & Pleasure Accessories Australia -  Alley](https://www.adultalley.com.au/collections/kits-accessories): Curated  toy kits & essential accessories. Perfect bundles for beginners & advanced users. Complete pleasure packages. Australia shipping.
-  Updated: 2026-01-09T21:35:21Z
-  Total Products: 51
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 56
 - [Condoms](https://www.adultalley.com.au/collections/condoms): Shop our comprehensive range of premium condoms designed for safety, comfort, and pleasure. We stock trusted brands offering a variety of sizes, textures, materials, and features to suit every preference and need.From ultra-thin for maximum sensitivity to textured for enhanced stimulation, lubricated to non-lubricated, latex to non-latex alternatives – our condom collection ensures you'll find the perfect fit for safe, enjoyable intimacy. Many options are available in bulk packs for better value.All condoms meet Australian safety standards and are individually tested for reliability. Discreet packaging and fast shipping across Australia ensure your protection arrives when you need it.
-  Updated: 2026-01-09T21:35:22Z
+  Updated: 2026-01-16T21:37:00Z
   Total Products: 25
 - [Bulk Condoms – Buy in Bulk & Save on Premium Protection |  Alley](https://www.adultalley.com.au/collections/bulk-condoms): Shop bulk condom packs for exceptional value and convenience. Trusted brands, Australian safety standards, discreet delivery. Stock up and save today.
-  Updated: 2026-01-02T21:35:41Z
+  Updated: 2026-01-12T21:35:30Z
   Total Products: 4
 - [Silicone Based Lubricants – Premium Long-Lasting Intimate Care |  Alley](https://www.adultalley.com.au/collections/lubes): Shop premium silicone lubricants for long-lasting, waterproof intimate comfort. Hypoallergenic formulas from trusted brands. Discreet shipping across Australia.
-  Updated: 2025-12-16T10:32:31Z
-  Total Products: 25
+  Updated: 2026-01-16T21:09:33Z
+  Total Products: 26
 - [Lotions](https://www.adultalley.com.au/collections/lotions): Discover our premium collection of intimate lotions and lubricants, carefully curated to enhance pleasure and comfort. From silky massage oils to long-lasting lubricants, our range features trusted brands including Wicked, SHIATSU, and CleanStream.Whether you're seeking water-based, silicone, or hybrid formulas, edible massage oils, or specialty products for anal play, our lotions collection offers body-safe, high-quality options for every preference. Many products are vegan, paraben-free, and enhanced with natural extracts for a luxurious experience.Explore flavoured lubricants, warming and cooling sensations, desensitising formulas, and premium massage oils designed to elevate intimacy. All products ship discreetly across Australia.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 293
+  Updated: 2026-01-16T21:35:34Z
+  Total Products: 349
 - [Bullets](https://www.adultalley.com.au/collections/bullets)
-  Updated: 2026-01-09T21:35:23Z
-  Total Products: 118
+  Updated: 2026-01-16T21:35:27Z
+  Total Products: 135
 - [Egg Vibrators: Discreet, Powerful & Body-Safe -  Alley](https://www.adultalley.com.au/collections/eggs): Shop premium egg vibrators in Australia. Compact, powerful, and body-safe designs for discreet pleasure. Wireless options available. Discreet shipping.
-  Updated: 2026-01-09T21:35:31Z
+  Updated: 2026-01-16T21:37:00Z
   Total Products: 27
 - [Wigs for Role Play & Costume - Quality Synthetic Wigs Australia |  Alley](https://www.adultalley.com.au/collections/wigs): Shop premium wigs in various styles & colours. Perfect for role play, costumes & transformation. Quality synthetic wigs with comfortable fit. Discreet Australia shipping.
-  Updated: 2025-12-16T10:32:12Z
-  Total Products: 10
+  Updated: 2026-01-16T21:35:18Z
+  Total Products: 11
 - [Anal Douche & Intimate Cleansing Products Australia |  Alley](https://www.adultalley.com.au/collections/cleaning): Shop premium anal douches & intimate cleansing products. Body-safe materials, discreet shipping Australia-wide. Quality wellness solutions for comfort & confidence.
-  Updated: 2026-01-09T21:35:31Z
-  Total Products: 46
+  Updated: 2026-01-16T21:09:22Z
+  Total Products: 47
 - [Toy Cleaners](https://www.adultalley.com.au/collections/toy-cleaners): Caring for your pleasure products is an important part of intimate wellness. Our health and wellness range is designed to keep your toys safe, clean, and ready whenever you are. From gentle cleaners and lubricants to storage solutions made for discretion and protection, each product supports your comfort, confidence, and peace of mind. Thoughtfully chosen for body-safe care, this collection helps you enjoy your toys to the fullest while making self-care an essential part of your intimate routine.
-  Updated: 2025-12-22T21:35:23Z
-  Total Products: 15
+  Updated: 2026-01-16T21:35:21Z
+  Total Products: 18
 - [Hemp Seed Intimate Products & Lubricants -  Alley](https://www.adultalley.com.au/collections/hemp-seed): Premium hemp seed intimate products including natural lubricants and massage oils. Nourishing, long-lasting formulas with omega-rich hemp seed oil for sensitive skin.
-  Updated: 2026-01-09T21:35:23Z
+  Updated: 2026-01-12T21:35:30Z
   Total Products: 72
 - [ Toy Storage Bags & Cases - Discreet & Hygienic -  Alley](https://www.adultalley.com.au/collections/toy-storage-bags): Premium storage solutions for  toys. Keep your collection clean, organized, and discreet with our range of storage bags and cases designed for hygiene and privacy.
   Updated: 2025-12-15T03:57:30Z
   Total Products: 9
 - [Massage Oil – Premium Body & Intimate Massage Oils |  Alley](https://www.adultalley.com.au/collections/massage-oil): Shop premium massage oils for relaxation and intimacy. Skin-nourishing formulas, sensory blends, warming options. Trusted brands, discreet delivery Australia-wide.
-  Updated: 2026-01-09T21:35:21Z
+  Updated: 2026-01-12T21:35:30Z
   Total Products: 62
 - [Massage Lotions – Premium Body & Intimate Massage Creams |  Alley](https://www.adultalley.com.au/collections/massage-lotions): Shop premium massage lotions that glide smoothly and absorb beautifully. Non-greasy, skin-nourishing formulas from trusted brands. Discreet delivery Australia-wide.
   Updated: 2026-01-09T21:35:23Z
   Total Products: 16
 - [Water Based Lubricants – Versatile Intimate Care & Wellness |  Alley](https://www.adultalley.com.au/collections/water-based-lubricants): Shop premium water-based lubricants safe for all toys and condoms. Natural feel, easy cleanup, gentle formulas from trusted brands. Discreet shipping Australia-wide.
-  Updated: 2026-01-09T21:35:23Z
-  Total Products: 108
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 138
 - [Flavoured Lubricants – Premium Edible & Flavoured Lubes |  Alley](https://www.adultalley.com.au/collections/flavoured-lubricants): Shop premium flavoured lubricants for enhanced oral pleasure. Body-safe, delicious flavours, condom-compatible. Trusted brands, discreet delivery Australia-wide.
-  Updated: 2025-12-16T10:34:11Z
-  Total Products: 8
+  Updated: 2026-01-16T21:35:34Z
+  Total Products: 9
 - [ Games & Intimate Couples Games -  Alley](https://www.adultalley.com.au/collections/-games): Discover premium  games designed to deepen intimacy and spark playful connection. Sophisticated card games, couples' challenges, and interactive experiences.
-  Updated: 2026-01-09T21:35:21Z
-  Total Products: 72
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 76
 - [ Novelties & Playful Gifts -  Alley](https://www.adultalley.com.au/collections/novelties): Discover cheeky  novelties and playful gifts. From party essentials to conversation starters, explore fun accessories that add humor to intimate moments.
-  Updated: 2026-01-09T21:35:20Z
-  Total Products: 99
+  Updated: 2026-01-16T21:35:36Z
+  Total Products: 110
 - [ Board Games](https://www.adultalley.com.au/collections/-board-games): Game Night, Reimagined Elevate your evenings with our collection of  board games—where strategy meets seduction and friendly competition takes on a whole new dimension. These aren't your childhood board games. Our curated selection features sophisticated gameplay designed for grown-up gatherings, whether you're hosting an intimate date night or an adventurous evening with friends. Each game combines engaging mechanics with playful  themes, creating memorable experiences that go beyond the board. What Makes These Games Special Strategic Depth: Thoughtfully designed gameplay that keeps you engaged Premium Components: High-quality materials and beautiful design Versatile Play: Options for couples, small groups, or larger parties Conversation & Connection: Games that encourage interaction and intimacy From trivia that tests your knowledge of desire to strategy games with sensual stakes, our  board games transform ordinary evenings into extraordinary experiences. Perfect for breaking the ice, deepening connections, or simply adding a playful edge to your social gatherings.
-  Updated: 2026-01-09T21:35:21Z
-  Total Products: 11
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 12
 - [ Gift Bags & Intimate Gift Sets -  Alley](https://www.adultalley.com.au/collections/-gift-bags): Discover curated  gift bags and intimate gift sets. Premium selections for bachelorette parties, anniversaries, and self-care. Thoughtfully packaged and discreetly shipped.
-  Updated: 2026-01-09T21:35:20Z
+  Updated: 2026-01-12T21:35:30Z
   Total Products: 20
 - [ Dice Games & Couples Dice Games -  Alley](https://www.adultalley.com.au/collections/dice-games): Discover playful  dice games for couples. Simple, spontaneous intimate games that add excitement and surprise to your connection. Compact and travel-friendly.
-  Updated: 2025-12-18T21:35:30Z
-  Total Products: 18
+  Updated: 2026-01-16T21:09:45Z
+  Total Products: 20
 - [Men's Intimate Wellness Products & Sprays Australia -  Alley](https://www.adultalley.com.au/collections/for-men-1): Premium intimate wellness for men including performance sprays, creams, colognes & fragrances. Discreet shipping Australia-wide. Trusted brands, quality .
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 37
+  Updated: 2026-01-16T21:35:22Z
+  Total Products: 42
 - [Women's Intimate Enhancement Products & Arousal Gels Australia -  Alley](https://www.adultalley.com.au/collections/enhancers-for-women): Premium intimate enhancement for women including arousal gels, stimulation sprays & specialty products. Discreet shipping Australia-wide. Trusted brands, safe formulations.
-  Updated: 2025-12-16T10:34:24Z
-  Total Products: 9
+  Updated: 2026-01-16T21:35:34Z
+  Total Products: 13
 - [Anal Beads - Graduated Silicone, Glass & Metal -  Alley](https://www.adultalley.com.au/collections/anal-beads): Premium anal beads in graduated sizes. Silicone, glass, and metal options. Flexible and rigid designs, beginner to advanced. Discreet shipping.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 35
+  Updated: 2026-01-16T21:35:31Z
+  Total Products: 45
 - [Tail Butt Plugs - Animal & Fantasy Tail Plugs -  Alley](https://www.adultalley.com.au/collections/tail-butt-plugs): Premium tail butt plugs for pet play and roleplay. Fox, bunny, cat, and fantasy tails. Body-safe silicone bases, realistic fur. Discreet shipping.
   Updated: 2025-12-19T23:16:25Z
   Total Products: 12
 - [Butt Plug Sets - Multi-Size Training Kits -  Alley](https://www.adultalley.com.au/collections/butt-plug-sets): Premium butt plug sets with multiple sizes for progressive training. Beginner to advanced kits, body-safe silicone, storage included. Discreet shipping.
-  Updated: 2025-12-22T21:35:21Z
-  Total Products: 36
+  Updated: 2026-01-16T21:35:19Z
+  Total Products: 38
 - [Prostate Massagers - P-Spot Stimulation Toys -  Alley](https://www.adultalley.com.au/collections/prostate-massagers): Premium prostate massagers for targeted P-spot stimulation. Vibrating and manual options, ergonomic designs, body-safe silicone. Discreet shipping.
-  Updated: 2026-01-09T21:35:19Z
-  Total Products: 32
+  Updated: 2026-01-16T21:35:16Z
+  Total Products: 41
 - [Vibrating Butt Plugs - Remote Control & Rechargeable -  Alley](https://www.adultalley.com.au/collections/vibrating-butt-plugs): Premium vibrating butt plugs with multiple speeds and patterns. Remote control options, body-safe silicone, rechargeable. Discreet shipping.
-  Updated: 2026-01-09T21:35:30Z
-  Total Products: 39
+  Updated: 2026-01-16T21:37:00Z
+  Total Products: 43
 - [Inflatable Butt Plugs - Expandable Anal Toys -  Alley](https://www.adultalley.com.au/collections/wireless-butt-plugs): Premium inflatable butt plugs with adjustable sizing. Hand pump control, customizable girth, body-safe materials. Beginner to advanced. Discreet shipping.
-  Updated: 2025-12-19T23:10:07Z
-  Total Products: 4
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 6
 - [Jeweled Butt Plugs - Crystal & Gem Anal Toys -  Alley](https://www.adultalley.com.au/collections/jeweled-butt-plug): Premium jeweled butt plugs with crystal and gem accents. Metal, glass, and silicone bases. Decorative designs, body-safe materials. Discreet shipping.
   Updated: 2026-01-09T21:35:23Z
   Total Products: 8
@@ -1939,7 +1939,7 @@
   Updated: 2025-12-19T23:05:04Z
   Total Products: 24
 - [Nipple Pasties - Reusable & Adhesive Covers -  Alley](https://www.adultalley.com.au/collections/nipple-pasties): Premium nipple pasties in silicone, satin, and lace. Reusable adhesive, decorative designs, body-safe materials. Discreet shipping.
-  Updated: 2025-12-19T23:03:40Z
+  Updated: 2026-01-12T21:35:29Z
   Total Products: 4
 - [Body Stockings - Sheer Full-Body Lingerie -  Alley](https://www.adultalley.com.au/collections/body-stockings): Premium body stockings in lace, fishnet, and sheer mesh. Full-body coverage, open crotch styles, plus sizes available. Discreet shipping.
   Updated: 2025-12-19T22:57:43Z
@@ -1948,28 +1948,28 @@
   Updated: 2025-12-19T05:32:08Z
   Total Products: 16
 - [Vibrators for Women - Rechargeable & Body-Safe Designs -  Alley](https://www.adultalley.com.au/collections/rechargeable-vibrators): Explore premium vibrators in bullet, wand, rabbit, and G-spot styles. Rechargeable, body-safe silicone, powerful motors. Discreet shipping Australia-wide.
-  Updated: 2026-01-09T21:35:22Z
-  Total Products: 96
+  Updated: 2026-01-16T21:35:31Z
+  Total Products: 103
 - [Rabbit Vibrators - Dual Stimulation G-Spot & Clitoral -  Alley](https://www.adultalley.com.au/collections/rabbit-vibrators): Premium rabbit vibrators with dual motors for simultaneous G-spot and clitoral pleasure. Rechargeable, body-safe silicone, waterproof. Discreet shipping.
-  Updated: 2025-12-22T21:35:21Z
-  Total Products: 85
+  Updated: 2026-01-16T21:35:28Z
+  Total Products: 91
 - [Massage Wands - Powerful Vibrators for Full-Body Pleasure -  Alley](https://www.adultalley.com.au/collections/massage-wands): Premium massage wands with deep, rumbly vibrations. Flexible heads, multiple speeds, rechargeable. Perfect for muscle relief and intimate pleasure. Discreet shipping.
-  Updated: 2026-01-09T21:35:19Z
-  Total Products: 40
+  Updated: 2026-01-16T21:35:29Z
+  Total Products: 43
 - [G-Spot Vibrators - Curved Designs for Targeted Pleasure -  Alley](https://www.adultalley.com.au/collections/rechargeable-g-spot-vibrators): Premium G-spot vibrators with curved, angled designs for precise internal stimulation. Rechargeable, body-safe silicone, powerful motors. Discreet shipping.
-  Updated: 2025-12-19T03:28:49Z
-  Total Products: 15
+  Updated: 2026-01-16T21:35:29Z
+  Total Products: 17
 - [Air Pulse Stimulators - Suction & Pressure Wave Technology -  Alley](https://www.adultalley.com.au/collections/stimlutor): Premium air pulse clitoral stimulators with suction technology. Touchless pleasure, multiple intensity levels, whisper-quiet, rechargeable. Discreet shipping.
-  Updated: 2026-01-09T21:35:23Z
-  Total Products: 32
+  Updated: 2026-01-16T21:35:31Z
+  Total Products: 33
 - [Clitoral Stimulators - Vibrators, Air Pulse & Suction Toys -  Alley](https://www.adultalley.com.au/collections/clitoral-stimulator): Premium clitoral stimulators including bullet vibes, air pulse, and suction toys. Body-safe silicone, powerful motors, whisper-quiet. Discreet shipping.
-  Updated: 2026-01-09T21:35:20Z
+  Updated: 2026-01-16T21:37:00Z
   Total Products: 26
 - [Strap-On Harnesses - Adjustable & Universal Fit -  Alley](https://www.adultalley.com.au/collections/strap-on-harnesses): Premium strap-on harnesses with adjustable straps for all bodies. Universal O-ring compatibility, comfortable designs, secure fit. Discreet shipping.
-  Updated: 2025-12-19T03:43:34Z
+  Updated: 2026-01-12T21:35:29Z
   Total Products: 14
 - [Hollow Strap-Ons - For ED & Size Enhancement -  Alley](https://www.adultalley.com.au/collections/hollow-strap-ons): Premium hollow strap-ons for erectile dysfunction and size enhancement. Secure fit, body-safe materials, inclusive designs. Discreet shipping.
-  Updated: 2025-12-19T03:45:34Z
+  Updated: 2026-01-15T21:35:18Z
   Total Products: 22
 - [Strapless Strap-Ons - Harness-Free Double Dildos -  Alley](https://www.adultalley.com.au/collections/strapless-strap-on): Premium strapless strap-ons with harness-free designs. Double-ended for dual pleasure, body-safe silicone, vibrating options. Discreet shipping.
   Updated: 2025-12-19T03:44:36Z
@@ -1978,83 +1978,83 @@
   Updated: 2026-01-05T21:35:29Z
   Total Products: 22
 - [Fantasy Dongs - Unique Creative Designs & Colors -  Alley](https://www.adultalley.com.au/collections/fantasy-dongs): Premium fantasy dongs with unique shapes, vibrant colors, and artistic textures. Body-safe silicone, imaginative designs. Discreet shipping.
-  Updated: 2026-01-09T21:35:31Z
+  Updated: 2026-01-14T01:39:28Z
   Total Products: 30
 - [Realistic Dongs - Lifelike Dildos with Authentic Detail -  Alley](https://www.adultalley.com.au/collections/realistic-dongs): Premium realistic dongs with lifelike textures and authentic detail. Body-safe silicone, firm yet flexible, multiple sizes. Discreet shipping.
-  Updated: 2026-01-05T21:35:27Z
-  Total Products: 18
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 22
 - [Inflatable Dongs - Adjustable Size & Customizable Girth -  Alley](https://www.adultalley.com.au/collections/inflatable-dongs): Premium inflatable dongs with adjustable sizing. Customizable girth and firmness, body-safe materials, easy-to-use pump. Discreet shipping.
-  Updated: 2025-12-19T03:46:45Z
+  Updated: 2026-01-14T01:39:28Z
   Total Products: 8
 - [Rechargeable Dongs - USB Vibrating Dildos & Dongs -  Alley](https://www.adultalley.com.au/collections/rechargeable-dongs): Premium rechargeable dongs with powerful motors and USB charging. Body-safe silicone, waterproof, multiple speeds. Eco-friendly. Discreet shipping.
-  Updated: 2026-01-09T21:35:23Z
-  Total Products: 24
+  Updated: 2026-01-16T21:35:26Z
+  Total Products: 26
 - [Flicking & Licking Stimulators - Tongue Vibrators -  Alley](https://www.adultalley.com.au/collections/flicking-licking-stimulators): Premium tongue-style stimulators with realistic flicking and licking motions. Rechargeable, body-safe silicone, multiple patterns. Discreet shipping.
-  Updated: 2026-01-09T21:35:20Z
-  Total Products: 38
+  Updated: 2026-01-16T21:35:31Z
+  Total Products: 43
 - [Finger Stimulators - Wearable Vibrators for Precision -  Alley](https://www.adultalley.com.au/collections/finger-stimulators): Premium finger stimulators with wearable designs for precise control. Rechargeable, body-safe silicone, powerful motors. Discreet shipping.
-  Updated: 2026-01-05T21:35:28Z
-  Total Products: 16
+  Updated: 2026-01-16T21:35:28Z
+  Total Products: 17
 - [Flesh Vagina Strokers - Realistic Skin-Tone Masturbators -  Alley](https://www.adultalley.com.au/collections/vagina-stroker): Premium flesh-tone vagina strokers with realistic textures. Lifelike feel, body-safe materials, tight internal channels. Discreet shipping.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 70
+  Updated: 2026-01-16T21:35:12Z
+  Total Products: 71
 - [Mini Strokers - Compact Pocket-Sized Masturbators -  Alley](https://www.adultalley.com.au/collections/mini-strokers): Premium mini strokers with compact, discreet designs. Textured interiors, travel-friendly, body-safe materials. Perfect for on-the-go. Discreet shipping.
-  Updated: 2025-12-19T04:52:41Z
+  Updated: 2026-01-12T21:35:29Z
   Total Products: 7
 - [Sucking Vibrating Masturbators - Automatic Strokers -  Alley](https://www.adultalley.com.au/collections/sucking-vibrating-stroker): Premium automatic masturbators with suction and vibration. Hands-free pleasure, rechargeable, multiple modes. Realistic textures. Discreet shipping.
   Updated: 2026-01-09T21:35:23Z
   Total Products: 38
 - [Lifesize Strokers & Realistic Masturbators - Full Scale Pleasure -  Alley](https://www.adultalley.com.au/collections/lifesize): Premium lifesize strokers with anatomically accurate details. Dual-entry designs, realistic textures, and body-safe materials. Discreet shipping from  Alley.
-  Updated: 2026-01-09T21:35:24Z
+  Updated: 2026-01-16T21:37:00Z
   Total Products: 36
 - [Lifesize Strokers - Full-Scale Realistic Masturbators -  Alley](https://www.adultalley.com.au/collections/lifesize-strokers): Premium lifesize strokers with anatomically accurate details. Dual-entry designs, realistic textures, body-safe materials. Discreet shipping.
-  Updated: 2026-01-09T21:35:24Z
+  Updated: 2026-01-16T21:37:00Z
   Total Products: 39
 - [Cock Ring Sets - Multi-Pack Variety Kits -  Alley](https://www.adultalley.com.au/collections/cock-ring-set): Premium cock ring sets with multiple sizes and styles. Value packs in silicone and TPE, variety kits for experimentation. Discreet shipping.
-  Updated: 2026-01-09T21:35:22Z
-  Total Products: 49
+  Updated: 2026-01-16T21:35:28Z
+  Total Products: 57
 - [Ball Stretchers - Scrotum Weights & Stretchers -  Alley](https://www.adultalley.com.au/collections/ball-stretchers): Premium ball stretchers in silicone, leather, and metal. Enhance sensation with body-safe scrotum weights and stretchers. Discreet shipping.
-  Updated: 2025-12-24T21:35:40Z
-  Total Products: 14
+  Updated: 2026-01-16T21:35:24Z
+  Total Products: 15
 - [Adjustable Cock Rings - Custom Fit & Comfort -  Alley](https://www.adultalley.com.au/collections/adjustable-cock-rings): Premium adjustable cock rings with customizable fit. Snap, strap, and lasso styles, body-safe materials, comfortable for all sizes. Discreet shipping.
-  Updated: 2025-12-19T04:37:12Z
-  Total Products: 7
+  Updated: 2026-01-16T21:35:20Z
+  Total Products: 9
 - [Vibrating Cock Rings - Rechargeable & Remote Control -  Alley](https://www.adultalley.com.au/collections/wireless-remote-cock-rings): Premium vibrating cock rings with powerful motors. Rechargeable, remote control options, body-safe silicone, couples pleasure. Discreet shipping.
-  Updated: 2026-01-09T21:35:24Z
-  Total Products: 4
+  Updated: 2026-01-16T21:35:11Z
+  Total Products: 5
 - [Nipple & Vaginal Pumps - Suction for Enhanced Sensation -  Alley](https://www.adultalley.com.au/collections/nipple-suckers): Premium nipple and vaginal pumps for enhanced sensitivity. Manual and automatic suction, body-safe materials, beginner-friendly. Discreet shipping.
-  Updated: 2026-01-09T21:35:23Z
-  Total Products: 12
+  Updated: 2026-01-16T21:35:16Z
+  Total Products: 13
 - [Penis Extenders & Sleeves - Add Length & Girth -  Alley](https://www.adultalley.com.au/collections/penis-extenders): Premium penis extenders and sleeves for instant size enhancement. Realistic, textured, and vibrating options. Body-safe materials. Discreet shipping from  Alley.
-  Updated: 2026-01-09T21:35:19Z
-  Total Products: 24
+  Updated: 2026-01-16T21:09:41Z
+  Total Products: 25
 - [Bondage Tape & Rope - Premium Restraints for Safe Play -  Alley](https://www.adultalley.com.au/collections/bondage-tape-rope): Explore premium bondage tape and rope for safe, versatile restraint play. Beginner-friendly to advanced options. Body-safe materials. Discreet shipping across Australia.
-  Updated: 2025-12-23T21:35:39Z
-  Total Products: 22
+  Updated: 2026-01-16T21:35:24Z
+  Total Products: 31
 - [Nipple Clamps - Adjustable & Vibrating Styles -  Alley](https://www.adultalley.com.au/collections/nipple-clamps): Premium nipple clamps with adjustable pressure. Tweezer, clover, vibrating styles. Body-safe materials, beginner to advanced. Discreet shipping.
-  Updated: 2025-12-23T21:35:40Z
-  Total Products: 21
+  Updated: 2026-01-16T21:35:22Z
+  Total Products: 23
 - [Whips & Paddles - Impact Play & Spanking Toys -  Alley](https://www.adultalley.com.au/collections/whips-paddles): Premium whips and paddles for impact play. Floggers, crops, spanking paddles in leather and vegan materials. Beginner to advanced. Discreet shipping.
-  Updated: 2026-01-05T21:35:28Z
-  Total Products: 45
+  Updated: 2026-01-16T21:35:16Z
+  Total Products: 46
 - [Handcuffs - Metal, Leather & Fuzzy Restraints -  Alley](https://www.adultalley.com.au/collections/handcuffs-restraints): Premium handcuffs in metal, leather, and fuzzy styles. Quick-release safety, adjustable fit, beginner to advanced. Discreet shipping.
-  Updated: 2026-01-09T21:35:22Z
+  Updated: 2026-01-15T21:35:17Z
   Total Products: 18
 - [Bondage Sets - Complete BDSM Kits for Beginners -  Alley](https://www.adultalley.com.au/collections/bondage-sets): Premium bondage sets with everything you need. Beginner-friendly kits, restraints, blindfolds, and accessories. Body-safe materials. Discreet shipping.
-  Updated: 2025-12-22T21:35:21Z
-  Total Products: 21
+  Updated: 2026-01-16T21:36:59Z
+  Total Products: 22
 - [Mouth Gags - Ball Gags & Bit Gags for BDSM -  Alley](https://www.adultalley.com.au/collections/mouth-gags): Premium mouth gags including ball gags, bit gags, and ring gags. Adjustable straps, breathable designs, body-safe materials. Discreet shipping.
   Updated: 2026-01-09T21:35:21Z
   Total Products: 26
 - [Chastity Devices - Cages & Belts for Control Play -  Alley](https://www.adultalley.com.au/collections/chastity): Premium chastity devices including cages and belts. Metal, silicone, and resin designs. Locking mechanisms, adjustable fit. Discreet shipping.
-  Updated: 2026-01-05T21:35:28Z
+  Updated: 2026-01-14T01:39:27Z
   Total Products: 15
 - [Hood Masks - Sensory Deprivation & Roleplay -  Alley](https://www.adultalley.com.au/collections/hood-mask): Premium hood masks for sensory deprivation and roleplay. Leather, spandex, and breathable designs. Adjustable fit, body-safe materials. Discreet shipping.
-  Updated: 2025-12-23T21:35:39Z
-  Total Products: 45
+  Updated: 2026-01-16T21:35:19Z
+  Total Products: 47
 - [Collar & Leash - BDSM Pet Play Accessories -  Alley](https://www.adultalley.com.au/collections/collar-leash): Premium collars and leashes for BDSM and pet play. Leather, vegan, and locking styles. Adjustable fit, D-ring attachments. Discreet shipping.
-  Updated: 2025-12-19T05:26:59Z
-  Total Products: 9
+  Updated: 2026-01-16T21:35:19Z
+  Total Products: 10
 - [Urethral Sounds & Penis Plugs -  Grade Quality |  Alley](https://www.adultalley.com.au/collections/penis-plugs): Premium urethral sounds & penis plugs. -grade stainless steel, multiple sizes. For experienced users. Discreet shipping Australia-wide from  Alley.
   Updated: 2025-12-16T10:32:29Z
   Total Products: 4
