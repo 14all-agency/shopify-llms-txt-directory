@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2026-01-07T00:00:39.359Z
+- Updated At: 2026-01-17T00:00:39.991Z
 
 ## Products
 
@@ -1446,7 +1446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
     Price: $57.00 USD
 - [2026 Autumn Winter Long Sleeve Elegant Mini Dress Women's Clothing Casual Party Work Evening Sheath Office Lady Dresses](https://aovica.top/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses): 2025 Autumn Winter Long Sleeve Elegant Mini Dress Women's Clothing Casual Party Work Evening Sheath Office Lady Dresses
-  Updated: 2025-12-30T06:47:07Z
+  Updated: 2026-01-16T16:01:00Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
