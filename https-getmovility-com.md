@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-19T20:57:54Z
 - Contact Email: info@getmovility.com
-- Updated At: 2026-01-10T00:00:39.383Z
+- Updated At: 2026-01-17T00:00:41.162Z
 
 # getMovility — Trusted Mobility, Comfort, and Home-Safety Essentials
 
@@ -1784,13 +1784,13 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-12-25T12:13:08Z
   Total Products: 156
 - [Skin Care & Wound Supplies for Healing | getMovility](https://getmovility.com/collections/skin-care-wound-supplies): Shop cleansers, dressings, bandages, tape & more for effective wound care. Clinically trusted supplies—CareMatch guides your best fit.
-  Updated: 2025-12-09T12:18:17Z
+  Updated: 2026-01-11T12:17:28Z
   Total Products: 1313
 - [Health Monitoring Tools for Comprehensive Wellness | getMovility](https://getmovility.com/collections/health-monitoring-tools): Shop blood pressure kits, thermometers & smart scales for accurate daily tracking. Trusted tools for seniors & caregivers—CareMatch guides your wellness plan.
   Updated: 2025-11-30T12:25:34Z
   Total Products: 110
 - [Incontinence Management Solutions | getMovility](https://getmovility.com/collections/incontinence-management): Shop underpads, protective underwear, pads & briefs for discreet, comfortable incontinence support. CareMatch guides you to the right protection.
-  Updated: 2026-01-09T12:17:24Z
+  Updated: 2026-01-14T20:24:40Z
   Total Products: 549
 - [ Instruments & Clinical Supplies | getMovility](https://getmovility.com/collections/-instruments-clinical-supplies): Shop diagnostic, surgical & specimen supplies for professional . Trusted -grade instruments—CareMatch helps you find what fits your facility.
   Updated: 2025-11-29T13:13:02Z
@@ -1820,7 +1820,7 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-29T13:24:25Z
   Total Products: 37
 - [Internal Collection - Not for Customer Use | getMovility](https://getmovility.com/collections/mckesson-products-internal): Internal inventory management collection. Not intended for customer browsing. Products are available through main category collections.
-  Updated: 2026-01-09T12:17:24Z
+  Updated: 2026-01-16T12:16:42Z
   Total Products: 6469
 - [Internal Collection - Not for Customer Use | getMovility](https://getmovility.com/collections/complete--products-internal): Internal inventory management collection. Not intended for customer browsing. Products are available through main category collections.
   Updated: 2025-12-23T12:20:48Z
@@ -1829,19 +1829,19 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-23T17:38:30Z
   Total Products: 4
 - [Nutritional Supplements & Feeding Supplies | getMovility](https://getmovility.com/collections/nutritional-supplements-feeding-supplies): Shop supplements, protein shakes & adaptive feeding aids for strength and wellness. CareMatch guides you to personalized nutrition support.
-  Updated: 2025-12-20T12:20:37Z
+  Updated: 2026-01-15T12:17:59Z
   Total Products: 365
 - [Maternity & Motherhood Essentials | getMovility](https://getmovility.com/collections/maternity-motherhood-essentials): Shop baby formula, breast pump accessories, diapers & more. Essentials for comfort, nutrition, and confidence from pregnancy through motherhood—guided by CareMatch.
   Updated: 2025-11-23T17:30:44Z
   Total Products: 68
 - [Apparel & Protective Wear for Safety & Comfort | getMovility](https://getmovility.com/collections/apparel-protective-wear): Shop gowns, masks, gloves & compression wear designed for comfort and protection. Clinical-grade apparel that combines safety, function, and style.
-  Updated: 2025-12-02T12:25:16Z
+  Updated: 2026-01-16T12:16:42Z
   Total Products: 235
 - [Drainage and Suction Supplies -  Care | Get Movility](https://getmovility.com/collections/drainage-suction-supplies): Discover drainage and suction supplies at Get Movility. Shop suction canisters and connector tubing for effective  care.
   Updated: 2025-11-23T17:01:35Z
   Total Products: 15
 - [Gloves & Hand Protection for Safety & Hygiene | getMovility](https://getmovility.com/collections/gloves-hand-protection): Shop surgical, exam & nitrile gloves for hygiene, safety, and precision. High-quality, latex-free options for home, lab, or clinical use.
-  Updated: 2025-12-30T12:17:47Z
+  Updated: 2026-01-11T12:17:28Z
   Total Products: 120
 - [Housekeeping & Sanitation Supplies | getMovility](https://getmovility.com/collections/housekeeping-sanitation): Shop disinfectants, wipes, bleach, paper products & cleaning tools for a safe, hygienic environment. CareMatch guides your ideal sanitation setup.
   Updated: 2025-11-23T17:25:00Z
@@ -1856,13 +1856,13 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-23T17:50:39Z
   Total Products: 119
 - [All Products (ChatGPT-AI Product Description)](https://getmovility.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-01-09T12:17:24Z
+  Updated: 2026-01-16T12:16:42Z
   Total Products: 5432
 - [Smart Products Filter Index - Do not delete](https://getmovility.com/collections/globofilter-best--products-index)
-  Updated: 2026-01-09T12:17:24Z
+  Updated: 2026-01-16T12:16:42Z
   Total Products: 5432
 - [All Products](https://getmovility.com/collections/all-products-in-stock)
-  Updated: 2026-01-09T12:17:24Z
+  Updated: 2026-01-16T12:16:42Z
   Total Products: 5432
 
 ## Blogs
