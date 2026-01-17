@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-08-12T19:25:30Z
 - Contact Email: sales@metalfxoffroad.com
-- Updated At: 2026-01-10T00:00:41.171Z
+- Updated At: 2026-01-17T00:00:43.577Z
 
 ## Products
 
 - [Plastic Center Caps | Metal FX Offroad - Wheel Accesories](https://metalfxoffroad.com/products/plastic-center-caps): Buy Plastic Center Caps, Wheel Accesories at Metal FX Offroad.
-  Updated: 2026-01-06T04:13:56Z
+  Updated: 2026-01-16T18:14:13Z
   Vendor: Garden Grove Warehouse
   Product Type: 
   Availability: Available
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer6RGlossBlackContrastCut.670.jpg?v=1766588717
     Price: $30.00 USD
 - [Black Spline Drive Lug Nuts + Socket | Metal FX Offroad - Wheel Accessories](https://metalfxoffroad.com/products/spline-lug-nuts): Buy Black Spline Drive Lug Nuts + Socket, Wheel Accessories at Metal FX Offroad.
-  Updated: 2026-01-06T20:46:45Z
+  Updated: 2026-01-16T07:48:06Z
   Vendor: Garden Grove Warehouse
   Product Type: 
   Availability: Available
@@ -93,7 +93,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/offroad-hitman-78102-wheel-4lug-bronze-15x6-lay.jpg?v=1683659449
     Price: $399.00 USD
 - [Hitman Beadlock - Satin Black | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/hitman-beadlock-wheel-black): Buy Hitman Beadlock Satin Black UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:41:46Z
+  Updated: 2026-01-15T17:16:11Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/offroad-hitman-78101-wheel-4lug-matte-black-15x6-lay.jpg?v=1683659510
     Price: $399.00 USD
 - [Hitman Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/hitman-beadlock-wheel-raw): Buy Hitman Beadlock Raw UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-29T23:23:11Z
+  Updated: 2026-01-15T17:16:11Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/offroad-hitman-78106-wheel-4lug-machined-15x6-lay.jpg?v=1683659479
     Price: $399.00 USD
 - [Delta Beadlock - Gunmetal Contrast Cut | Metal FX Offroad - Wheels](https://metalfxoffroad.com/products/delta-beadlock-gunmetal-contrast-cut): Buy Delta Beadlock Gunmetal Contrast Cut Wheels from Metal FX Offroad. Best service. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:42:36Z
+  Updated: 2026-01-15T17:17:21Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -143,7 +143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/offroad-delta-beadlock-78312-wheel-4lug-gunmetal-15x10-lay.jpg?v=1721776990
     Price: $419.00 USD
 - [Delta Beadlock - Satin Black Contrast Cut | Metal FX Offroad - Wheels](https://metalfxoffroad.com/products/delta-beadlock-satin-black-contrast-cut): Buy Delta Beadlock Satin Black Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:42:36Z
+  Updated: 2026-01-15T17:17:11Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -286,14 +286,14 @@
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/metal-fx-offroad-hitman-R-wheel-5lug-gloss-black-15x7.jpg?v=1683659573
   Price: $449.00 USD
 - [Hitman R Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/hitman-r-beadlock-raw): Buy Hitman R Beadlock Raw UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-22T21:00:46Z
+  Updated: 2026-01-15T17:16:11Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/metal-fx-offroad-hitman-R-wheel-4lug-raw-wheel-15x7.jpg?v=1683659545
   Price: $449.00 USD
 - [Delta R Beadlock - Satin Black | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black): Buy Delta R Beadlock Satin Black Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:43:06Z
+  Updated: 2026-01-15T17:18:15Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -307,7 +307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/metal-fx-offroad-deltar-beadlock-wheel-5lug-gloss-black-15x10-lay.jpg?v=1683659184
     Price: $449.00 USD
 - [Delta R Beadlock - Satin Black Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-contrast-cut): Buy Delta R Beadlock Satin Black Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:43:06Z
+  Updated: 2026-01-15T17:18:16Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -321,7 +321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/metal-fx-offroad-deltar-beadlock-wheel-5lug-gloss-black-milled-15x10-lay.jpg?v=1683659223
     Price: $459.00 USD
 - [Delta Beadlock - Satin Black | Metal FX Offroad - Wheels | Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-satin-black): Buy Delta Beadlock Satin Black Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:46:41Z
+  Updated: 2026-01-15T17:17:11Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -517,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/0CD752A6-42AA-4C59-8ECC-3994571A29A9.jpg?v=1705449962
     Price: $419.00 USD
 - [Outlaw R Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-r-beadlock-raw): Designed to tackle any terrain with style and power at an affordable price. The Metal FX Outlaw sports a tough 10 spoke design with a durable forged 6061-t6 beadlock ring. Free Shipping On a Set of Four.
-  Updated: 2025-12-22T21:03:56Z
+  Updated: 2026-01-15T17:19:01Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -661,7 +661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/85B10BEA-6955-4D2A-AE2B-A1444FBB6EA0.jpg?v=1705445770
     Price: $419.00 USD
 - [Outlaw R Beadlock - Satin Black | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-r-beadlock-satin-black): Designed to tackle any terrain with style and power at an affordable price. The Metal FX Outlaw R sports a tough 10 spoke design with a durable forged 6061-t6 beadlock ring. Free Shipping On a Set of Four.
-  Updated: 2025-12-22T21:03:56Z
+  Updated: 2026-01-15T17:19:00Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -838,7 +838,7 @@
     Availability: Available
     Price: $999.00 USD
 - [Delta R Beadlock | Satin Black + Sandcraft DESTROYER Slayer | Metal FX Offroad](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-sandcraft-destroyer-slayer-set-of-4): Buy Delta R Beadlock Satin Black + Sandcraft DESTROYER Slayer (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-05T16:46:28Z
+  Updated: 2026-01-15T17:20:26Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -940,7 +940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-4879.jpg?v=1765217997
     Price: $4,196.00 USD
 - [Delta R Beadlock | Satin Black Contrast Cut + Sandcraft DESTROYER Slayer | Metal FX Offroad](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-contrast-cut-sandcraft-destroyer-slayer-set-of-4): Buy Delta R Beadlock Satin Black Contrast Cut + Sandcraft DESTROYER Slayer (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-05T16:42:48Z
+  Updated: 2026-01-15T17:19:46Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1042,7 +1042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-4878.jpg?v=1765217417
     Price: $4,236.00 USD
 - [Delta Beadlock | Satin Black + Sandcraft DESTROYER Slayer | Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-satin-black-sandcraft-destroyer-slayer-set-of-4): Buy Delta Beadlock Satin Black + Sandcraft DESTROYER Slayer (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-06T19:46:52Z
+  Updated: 2026-01-15T17:17:58Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1198,7 +1198,7 @@
     Availability: Available
     Price: $3,481.00 USD
 - [Delta Beadlock | Satin Black Contrast Cut + Sandcraft DESTROYER Slayer | Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-satin-black-contrast-cut-sandcraft-destroyer-slayer-set-of-4): Buy Delta Beadlock Satin Black Contrast Cut + Sandcraft DESTROYER Slayer (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-06T19:43:02Z
+  Updated: 2026-01-15T17:17:58Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1354,7 +1354,7 @@
     Availability: Available
     Price: $3,581.00 USD
 - [Delta Beadlock | Gunmetal Contrast Cut + Sandcraft DESTROYER Slayer | Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-gunmetal-contrast-cut-sandcraft-destroyer-slayer-set-of-4): Buy Delta Beadlock Gunmetal Contrast Cut + Sandcraft DESTROYER Slayer (Set of 4 Wheels + 4 Tires + Lugs) at Metal FX Offroad.
-  Updated: 2026-01-06T19:42:53Z
+  Updated: 2026-01-15T17:17:53Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1510,7 +1510,7 @@
     Availability: Available
     Price: $3,581.00 USD
 - [Delta R Beadlock | Satin Black - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-utv-wheel-kit): Buy Delta R Beadlock Satin Black UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:43:21Z
+  Updated: 2026-01-15T17:20:17Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1536,7 +1536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/30EFEFB3-877B-4F5B-87A1-9FC41DB45B50.jpg?v=1712099196
     Price: $2,280.00 USD
 - [Delta R Beadlock | Satin Black Contrast Cut - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-contrast-cut-utv-wheel-kit): Buy Delta R Beadlock Satin Black Contrast Cut UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-06T19:43:21Z
+  Updated: 2026-01-15T17:19:38Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1562,7 +1562,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/34BC092F-6BC3-4DC5-8F70-964601AD08E5.jpg?v=1712099170
     Price: $2,330.00 USD
 - [Hitman R Beadlock Raw UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-utv-wheel-kit): Buy Hitman R Beadlock Raw UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-22T21:00:56Z
+  Updated: 2026-01-13T23:16:41Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1586,7 +1586,7 @@
     Availability: Available
     Price: $2,280.00 USD
 - [Hitman Beadlock Raw UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/hitman-beadlock-raw-utv-wheel-kit): Buy Hitman Beadlock Raw UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2025-12-10T20:14:37Z
+  Updated: 2026-01-15T17:16:16Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1622,7 +1622,7 @@
     Availability: Available
     Price: $675.00 USD
 - [Delta Beadlock - Gunmetal Contrast Cut - UTV Wheel Kit | Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-gunmetal-contrast-cut-utv-wheel-kit): Buy Delta Beadlock Gunmetal Contrast Cut UTV Wheel Kit at Metal FX Offroad. Free Shipping on a set of 4 or 5. Best Service
-  Updated: 2026-01-06T19:42:52Z
+  Updated: 2026-01-15T17:17:57Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1688,7 +1688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/17FB98F8-A70A-493C-98E1-17D5F7B1D958.jpg?v=1712097981
     Price: $2,130.00 USD
 - [Delta R Beadlock - Gunmetal Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-gunmetal-contrast-cut): Buy Delta R Beadlock Gunmetal Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-06T19:43:06Z
+  Updated: 2026-01-15T17:18:15Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1702,7 +1702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/04DA2B80-7D24-4972-876D-055803D5CD69.jpg?v=1705445242
     Price: $459.00 USD
 - [Delta R Beadlock | Gunmetal Contrast Cut - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-gunmetal-contrast-cut-utv-wheel-kit): Buy Delta R Beadlock Gunmetal Contrast Cut UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-05T16:46:30Z
+  Updated: 2026-01-15T17:20:18Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1736,7 +1736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/4C2DE146-A820-46E1-92A9-D61C8A6C542E.jpg?v=1712098180
     Price: $2,380.00 USD
 - [Delta R Beadlock | Gunmetal Contrast Cut + Sandcraft DESTROYER Slayer | Metal FX Offroad](https://metalfxoffroad.com/products/delta-r-beadlock-gunmetal-contrast-cut-sandcraft-destroyer-slayer-set-of-4): Buy Delta R Beadlock Gunmetal Contrast Cut + Sandcraft DESTROYER Slayer (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-05T16:46:33Z
+  Updated: 2026-01-15T17:20:18Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1838,7 +1838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-4880.jpg?v=1765216153
     Price: $4,236.00 USD
 - [Hitman Beadlock | Satin Black | UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/hitman-beadlock-satin-black-utv-wheel-kit): Buy Hitman Beadlock Satin Black UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2025-12-29T23:23:16Z
+  Updated: 2026-01-15T17:16:16Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1886,7 +1886,7 @@
     Availability: Available
     Price: $2,030.00 USD
 - [Delta Beadlock | Satin Black Contrast Cut | UTV Wheel Kit - Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-satin-black-contrast-cut-utv-wheel-kit): Buy Delta Beadlock Satin Black Contrast Cut UTV Wheel Kit at Metal FX Offroad. Best Service. Free Shipping on a set of 4 or 5.
-  Updated: 2026-01-06T19:43:03Z
+  Updated: 2026-01-15T17:19:41Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -1952,7 +1952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/97480A8B-D374-495A-8C09-514B9FB5F893.jpg?v=1712098020
     Price: $2,130.00 USD
 - [Delta Beadlock - Satin Black - UTV Wheel Kit | Metal FX Offroad](https://metalfxoffroad.com/products/delta-beadlock-satin-black-utv-wheel-kit): Buy Delta Beadlock Satin Black UTV Wheel Kit at Metal FX Offroad. Free Shipping on a set of 4 or 5.
-  Updated: 2026-01-06T19:47:00Z
+  Updated: 2026-01-15T17:17:40Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2176,7 +2176,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $1,500.00 USD
 - [Delta 6R Beadlock - Satin Black | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-6r-beadlock-satin-black): Buy Delta 6R Beadlock Satin Black Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-09T16:28:10Z
+  Updated: 2026-01-13T17:33:18Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2190,7 +2190,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Delta6R.1449.jpg?v=1727817977
     Price: $449.00 USD
 - [Delta 6R Beadlock - Satin Black Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-6r-beadlock-satin-black-contrast-cut): Buy Delta 6R Beadlock Satin Black Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-05T18:46:26Z
+  Updated: 2026-01-15T17:18:40Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2204,28 +2204,28 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Delta6R.1451.jpg?v=1727818009
     Price: $459.00 USD
 - [Outlaw 6R Beadlock - Satin Black | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-6r-beadlock-satin-black): Buy Outlaw 6R Beadlock Satin Black UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-06T19:44:51Z
+  Updated: 2026-01-15T17:19:30Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x7Outlaw6R.1301_Compressed.jpg?v=1724258017
   Price: $449.00 USD
 - [Outlaw 6R Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-6r-beadlock-raw): Buy Outlaw 6R Beadlock Raw Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-08T17:09:53Z
+  Updated: 2026-01-15T17:19:30Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x7Outlaw6R.1303_Compressed.jpg?v=1724258073
   Price: $449.00 USD
 - [Outlaw 6R Beadlock - Satin Black Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-6r-beadlock-satin-black-contrast-cut): Buy Outlaw 6R Beadlock Satin Black Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2025-12-02T19:46:10Z
+  Updated: 2026-01-15T17:19:36Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/23229B04-2177-4961-A4ED-BF744EAE8A57.jpg?v=1734294111
   Price: $459.00 USD
 - [Delta 6R Beadlock - Satin Black - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-6r-beadlock-satin-black-utv-wheel-kit): Buy Delta 6R Beadlock Satin Black UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-09T16:28:16Z
+  Updated: 2026-01-13T17:33:18Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2251,7 +2251,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-3785.jpg?v=1734295389
     Price: $2,280.00 USD
 - [Slayer Beadlock - Gloss Black Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-beadlock-gloss-black-contrast-cut): Buy Slayer Beadlock Gloss Black Contrast Cut UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-06T19:47:22Z
+  Updated: 2026-01-14T21:48:57Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -2273,7 +2273,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer2GlossBlackContrastCut.144.png?v=1766589586
     Price: $459.00 USD
 - [Outlaw 6R Beadlock - Satin Black Contrast Cut - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-6r-beadlock-satin-black-contrast-cut-utv-wheel-kit): Buy Outlaw 6R Beadlock Satin Black Contrast Cut UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2025-12-02T19:46:16Z
+  Updated: 2026-01-15T17:19:43Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2285,7 +2285,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $2,330.00 USD
 - [Outlaw 6R Beadlock - Satin Black - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-6r-beadlock-satin-black-utv-wheel-kit): Buy Outlaw 6R Beadlock Satin Black UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-06T19:44:56Z
+  Updated: 2026-01-15T17:19:35Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2297,7 +2297,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $2,280.00 USD
 - [Delta 6R Beadlock - Satin Black Contrast Cut - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-6r-beadlock-satin-black-contrast-cut-utv-wheel-kit): Buy Delta 6R Beadlock Satin Black Contrast Cut UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-05T16:47:06Z
+  Updated: 2026-01-15T17:19:36Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2394,7 +2394,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/0002s_0005_DES_Sliders_31_Front_14_V2_web_fd024a11-4040-41fb-bd9a-2c341474bfa3.jpg?v=1711138714
     Price: $2,415.00 USD
 - [Delta R Beadlock | Gunmetal Contrast Cut + Sandcraft DESTROYER Slider | Metal FX Offroad](https://metalfxoffroad.com/products/delta-r-beadlock-gunmetal-contrast-cut-sandcraft-destroyer-slider-set-of-4): Buy Delta R Beadlock Gunmetal Contrast Cut + Sandcraft DESTROYER Slider (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-05T16:46:31Z
+  Updated: 2026-01-15T17:20:17Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2415,7 +2415,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $4,266.00 USD
 - [Delta R Beadlock | Satin Black + Sandcraft DESTROYER Slider | Metal FX Offroad](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-sandcraft-destroyer-slider-set-of-4): Buy Delta R Beadlock Satin Black + Sandcraft DESTROYER Slider (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-05T16:46:27Z
+  Updated: 2026-01-15T17:20:22Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2436,7 +2436,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $4,226.00 USD
 - [Delta R Beadlock | Satin Black Contrast Cut + Sandcraft DESTROYER Slider | Metal FX Offroad](https://metalfxoffroad.com/products/delta-r-beadlock-satin-black-contrast-cut-sandcraft-destroyer-slider-set-of-4): Buy Delta R Beadlock Satin Black Contrast Cut + Sandcraft DESTROYER Slider (Set of 4) at Metal FX Offroad.
-  Updated: 2026-01-05T16:42:48Z
+  Updated: 2026-01-15T17:19:42Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2454,7 +2454,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $4,266.00 USD
 - [Slayer R Beadlock | Gloss Black + Center Cap Spacer - Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-gloss-black-plus-center-cap-spacer): Buy Slayer R Beadlock | Gloss Black + Center Cap Spacer at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-08T18:45:35Z
+  Updated: 2026-01-15T17:23:50Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2466,7 +2466,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $459.00 USD
 - [Slayer R Beadlock - Gloss Black Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-gloss-black-contrast-cut): Buy Slayer R Beadlock Gloss Black Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-05T16:49:35Z
+  Updated: 2026-01-15T17:20:10Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2478,7 +2478,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $459.00 USD
 - [Outlaw 6R Beadlock - Raw - UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-6r-beadlock-raw-utv-wheel-kit): Buy Outlaw 6R Beadlock Raw UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-01T03:46:04Z
+  Updated: 2026-01-15T17:19:36Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2490,7 +2490,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $2,280.00 USD
 - [Slayer R Beadlock - Gunmetal Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-gunmetal-contrast-cut): Buy Slayer R Beadlock Gunmetal Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-31T00:24:23Z
+  Updated: 2026-01-14T19:26:17Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2500,11 +2500,11 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x8SlayerRGunmetalContrastCut.209.png?v=1766589037
     Price: $449.00 USD
   - [15x10 | +0mm/5+5 | 5x4.5 | 78672 (Polaris 5-Lug / Segway Super Villain)](https://metalfxoffroad.com/products/slayer-r-beadlock-gunmetal-contrast-cut?variant=42916504371252)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10SlayerRGunmetalContrastCut.198.png?v=1766589037
     Price: $459.00 USD
 - [Outlaw R Beadlock Raw UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-r-beadlock-raw-utv-wheel-kit-1): Buy Outlaw R Beadlock Raw UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-22T21:04:31Z
+  Updated: 2026-01-15T17:19:31Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2518,7 +2518,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/56A01B9E-754D-49D9-991D-0AFFD7687E85.jpg?v=1712190305
     Price: $2,280.00 USD
 - [Outlaw R Beadlock Satin Black UTV Wheel Kit | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/outlaw-r-beadlock-satin-black-utv-wheel-kit): Buy Outlaw R Beadlock Satin Black UTV Wheel Kit at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-22T21:04:31Z
+  Updated: 2026-01-15T17:19:45Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -2697,69 +2697,6 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/metal-fx-rogue-truck-wheel-5lug-raw-17x7.jpg?v=1693266697
     Price: $150.00 USD
-- [Hitman R Beadlock | Raw + OBOR (Set of 4) | Metal FX Offroad - UTV Wheel & Tire Kit](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4): Buy Hitman R Beadlock | Raw + OBOR (Set of 4) at Metal FX Offroad.
-  Updated: 2025-12-22T21:00:57Z
-  Vendor: METAL FX OFFROAD
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/E6EE83CC-5024-4967-A1F3-D5479C3FF58A.jpg?v=1720549470
-  - [32x10 R15 | OBOR RocScraper | Rocks / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329810395188)
-    Availability: Available
-    Price: $3,039.00 USD
-  - [35x10 R15 | OBOR RocScraper | Rocks / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873113140)
-    Availability: Available
-    Price: $3,187.00 USD
-  - [37x10 R15 | OBOR RocScraper | Rocks / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873145908)
-    Availability: Available
-    Price: $3,463.00 USD
-  - [32x10 R15 | OBOR Predator | Street / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873211444)
-    Availability: Not Available
-    Price: $3,167.00 USD
-  - [34x10 R15 | OBOR Predator | Street / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873244212)
-    Availability: Not Available
-    Price: $3,231.00 USD
-  - [32x10 R15 | OBOR Lynx | Mud / Snow / Loose Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873276980)
-    Availability: Available
-    Price: $3,047.00 USD
-  - [35x10 R15 | OBOR Lynx | Mud / Snow / Loose Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873309748)
-    Availability: Available
-    Price: $3,083.00 USD
-  - [32x10 R15 | OBOR Tricera | Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873342516)
-    Availability: Available
-    Price: $3,031.00 USD
-  - [33x9.5 R15 | OBOR Daemon | High Speed Desert](https://metalfxoffroad.com/products/hitman-r-beadlock-raw-obor-set-of-4?variant=44329873375284)
-    Availability: Not Available
-    Price: $3,051.00 USD
-- [Hitman R Beadlock | Satin Black + OBOR (Set of 4) | Metal FX Offroad - UTV Wheel & Tire Kit](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4): Buy Hitman R Beadlock | Satin Black + OBOR (Set of 4) at Metal FX Offroad.
-  Updated: 2025-12-22T21:00:56Z
-  Vendor: METAL FX OFFROAD
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/5771EE96-7006-4CFF-AE35-6198F0EB0061.jpg?v=1720552913
-  - [32x10 R15 | OBOR RocScraper | Rocks / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635246821428)
-    Availability: Available
-    Price: $3,039.00 USD
-  - [32x10 R15 | OBOR Predator | Street / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635247345716)
-    Availability: Not Available
-    Price: $3,167.00 USD
-  - [32x10 R15 | OBOR Lynx | Mud / Snow / Loose Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635247607860)
-    Availability: Available
-    Price: $3,047.00 USD
-  - [32x10 R15 | OBOR Tricera | Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635247870004)
-    Availability: Available
-    Price: $3,031.00 USD
-  - [33x9.5 R15 | OBOR Daemon | High Speed Desert](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635248033844)
-    Availability: Not Available
-    Price: $3,051.00 USD
-  - [34x10 R15 | OBOR Predator | Street / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635247542324)
-    Availability: Not Available
-    Price: $3,231.00 USD
-  - [35x10 R15 | OBOR RocScraper | Rocks / Hardpack Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635247050804)
-    Availability: Available
-    Price: $3,187.00 USD
-  - [35x10 R15 | OBOR Lynx | Mud / Snow / Loose Dirt](https://metalfxoffroad.com/products/hitman-r-beadlock-satin-black-obor-set-of-4?variant=44635247837236)
-    Availability: Available
-    Price: $3,083.00 USD
 - [Alpha SCS - Forged 3-Piece - Beadlock | Metal FX Offroad - Wide 5 Wheels](https://metalfxoffroad.com/products/alpha-scs-forged-3-piece-beadlock): Buy Alpha SCS Forged 3-Piece Beadlock Wide 5 Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
   Updated: 2025-09-25T17:15:02Z
   Vendor: METAL FX OFFROAD
@@ -4342,7 +4279,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $399.00 USD
 - [Slayer R Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-raw): Buy Slayer R Beadlock Raw Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-09T17:58:20Z
+  Updated: 2026-01-13T17:23:26Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4392,7 +4329,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $539.00 USD
 - [Slayer Beadlock - Gloss Black | Metal FX Offroad - UTV Wheels | Metal FX Offroad](https://metalfxoffroad.com/products/slayer-beadlock-gloss-black-copy): Buy Slayer Beadlock Gloss Black UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-05T16:52:19Z
+  Updated: 2026-01-15T17:22:20Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -4414,7 +4351,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer2GlossBlack.142.png?v=1766589776
     Price: $449.00 USD
 - [Delta R Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/delta-r-beadlock-raw): Buy Delta R Beadlock Raw UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-29T23:26:56Z
+  Updated: 2026-01-15T17:18:16Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4433,7 +4370,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/A26D8404-F2A3-4645-8202-3C1DBBB535CD.jpg?v=1749835720
   Price: $4.00 USD
 - [Slayer 6R Beadlock - Gloss Black | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-6r-beadlock-gloss-black): Buy Slayer 6R Beadlock Gloss Black Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-06T19:48:02Z
+  Updated: 2026-01-13T17:26:01Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4446,6 +4383,20 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer6R2GlossBlack.139.png?v=1766588602
     Price: $449.00 USD
+- [Slayer 6R Beadlock - Gloss Black Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-6r-beadlock-gloss-black-contrast-cut): Buy Slayer 6R Beadlock Gloss Black Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
+  Updated: 2026-01-16T18:12:13Z
+  Vendor: METAL FX OFFROAD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer6R2GlossBlackContrastCut.137.png?v=1766588717
+  - [15x8 | +25mm/5+3 | 6x5.5 | 78681 (Maverick R)](https://metalfxoffroad.com/products/slayer-6r-beadlock-gloss-black-contrast-cut?variant=46931078840372)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x8Slayer6R2GlossBlackContrastCut.159.png?v=1766588717
+    Price: $449.00 USD
+  - [15x10 | +25mm/6+4 | 6x5.5 | 78691 (Maverick R)](https://metalfxoffroad.com/products/slayer-6r-beadlock-gloss-black-contrast-cut?variant=46931078873140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Slayer6R2GlossBlackContrastCut.137.png?v=1766588717
+    Price: $459.00 USD
 - [Slayer 6R Beadlock - Gunmetal Contrast Cut | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-6r-beadlock-gunmetal-contrast-cut): Buy Slayer 6R Beadlock Gunmetal Contrast Cut Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
   Updated: 2025-12-31T00:24:41Z
   Vendor: METAL FX OFFROAD
@@ -4643,7 +4594,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/5-LugPlasticCapSpacer-0375.815.jpg?v=1758134469
     Price: $10.00 USD
 - [Slayer R Beadlock | Gloss Black - Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-gloss-black): Buy Slayer R Beadlock | Gloss Black at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-08T18:45:31Z
+  Updated: 2026-01-15T17:23:45Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4655,7 +4606,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $449.00 USD
 - [Slayer R Beadlock | Gloss Black Contrast Cut + Center Cap Spacer | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-gloss-black-contrast-cut-center-cap-spacer): Buy Slayer R Beadlock | Gloss Black Contrast Cut Wheels + Center Cap Spacer at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-05T16:49:40Z
+  Updated: 2026-01-15T17:22:20Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4669,7 +4620,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-5060.png?v=1765558517
     Price: $469.00 USD
 - [Slayer R Beadlock | Gunmetal Contrast Cut + Center Cap Spacer | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-gunmetal-contrast-cut-center-cap-spacer): Buy Slayer R Beadlock | Gunmetal Contrast Cut Wheels + Center Cap Spacers at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-31T00:24:27Z
+  Updated: 2026-01-14T19:26:26Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4679,11 +4630,11 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x8SlayerR2GunmetalContrastCut_CenterCapSpacer.186.png?v=1766589251
     Price: $459.00 USD
   - [15x10 | +0mm/5+5 | 5x4.5 | 78672](https://metalfxoffroad.com/products/slayer-r-beadlock-gunmetal-contrast-cut-center-cap-spacer?variant=47117671694388)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10SlayerR2GunmetalContrastCut_CenterCapSpacer.191.png?v=1766589251
     Price: $469.00 USD
 - [Slayer R Beadlock | Raw + Center Cap Spacer - Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/slayer-r-beadlock-raw-center-cap-spacer): Buy Slayer R Beadlock | Raw Wheels + Center Cap Spacers at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2026-01-09T17:58:25Z
+  Updated: 2026-01-13T17:23:32Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4702,7 +4653,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x7OutlawRSatinBlackContrastCut.630_f23ef682-d2c5-4507-a074-0d990064ea97.jpg?v=1715978347
   Price: $479.00 USD
 - [17 Outlaw R Beadlock - Raw | Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/17-outlaw-r-beadlock-raw): Designed to tackle any terrain with style and power at an affordable price. The Metal FX Outlaw sports a tough 10 spoke design with a durable forged 6061-t6 beadlock ring. Free Shipping On a Set of Four.
-  Updated: 2025-12-02T19:45:57Z
+  Updated: 2026-01-11T19:05:07Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
@@ -4721,7 +4672,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Availability: Available
     Price: $539.00 USD
 - [Alpha R Beadlock | Satin Black w/ Gloss Black Ring - Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/alpha-r-beadlock-satin-black-with-gloss-black-ring): Buy Alpha R Beadlock | Satin Black w/ Gloss Black Ring at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-30T08:23:35Z
+  Updated: 2026-01-12T17:16:18Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4735,7 +4686,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10AlphaRSatinBlackwGlossBlackRing.234.jpg?v=1766174068
     Price: $389.00 USD
 - [Alpha R Beadlock | Gloss Black DDT Face - Metal FX Offroad - UTV Wheels](https://metalfxoffroad.com/products/alpha-r-beadlock-gloss-black-ddt): Buy Alpha R Beadlock | Gloss Black DDT Face at Metal FX Offroad. Free Shipping On a Set of Four.
-  Updated: 2025-12-29T20:28:54Z
+  Updated: 2026-01-12T17:15:52Z
   Vendor: METAL FX OFFROAD
   Product Type: 
   Availability: Available
@@ -4777,17 +4728,17 @@ Experience superior handling, unmatched performance and toughness that lasts for
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/15x10Alpha6RGlossBlackDDT.246.jpg?v=1766174784
     Price: $399.00 USD
 - [Slayer Beadlock - Raw | Metal FX Offroad - UTV Wheels | Metal FX Offroad](https://metalfxoffroad.com/products/slayer-beadlock-raw): Buy Slayer Beadlock Raw UTV Wheels at Metal FX Offroad. Free Shipping On a Set of Four or Five.
-  Updated: 2026-01-02T22:23:46Z
+  Updated: 2026-01-14T19:26:02Z
   Vendor: Riverside Warehouse
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-5604.jpg?v=1767129618
   - [15x8 | 0mm/4+4 | 4x136/4x137 | 78648 (Can-Am / Honda)](https://metalfxoffroad.com/products/slayer-beadlock-raw?variant=47375423275060)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-5603.jpg?v=1767129618
     Price: $439.00 USD
   - [15x10 | 0mm/5+5 | 4x136/4x137 | 78649 (Can-Am / Honda)](https://metalfxoffroad.com/products/slayer-beadlock-raw?variant=47375423307828)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0606/9115/2948/files/IMG-5605.jpg?v=1767129618
     Price: $449.00 USD
   - [15x8 | 0mm/4+4 | 4x156 | 78650 (Kawasaki / Polaris / Yamaha 2019+ / Speed)](https://metalfxoffroad.com/products/slayer-beadlock-raw?variant=47375423340596)
@@ -4805,13 +4756,13 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-01-20T20:26:27Z
   Total Products: 0
 - [Shop 4-Lug UTV Premium Cast | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/utv-premium-cast): Shop Best Selection Of 4-lug UTV Premium Cast At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-03T12:08:13Z
+  Updated: 2026-01-11T12:07:40Z
   Total Products: 19
 - [Shop Assassin | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/assassin-wheels): Shop Best Selection Of Assassin At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-01-20T20:26:27Z
   Total Products: 4
 - [Shop Delta Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/delta-beadlock): Shop Best Selection Of Delta Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-03T12:08:13Z
+  Updated: 2026-01-11T12:07:40Z
   Total Products: 12
 - [Shop Delta Non Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/delta-non-beadlock): Shop Best Selection Of Delta Non Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-08-22T11:07:05Z
@@ -4823,7 +4774,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-31T12:08:00Z
   Total Products: 32
 - [Accessories](https://metalfxoffroad.com/collections/accessories): Shop Plastic or Aluminum Center Caps, Beadlock Rings, Beadlock Ring Hardware Kits, Black Spline Drive Lug Nuts, and more!
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-16T12:07:52Z
   Total Products: 14
 - [Shop Apparel | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/apparel): Shop Best Selection Of Apparel At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-13T12:10:05Z
@@ -4838,17 +4789,17 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-18T12:10:30Z
   Total Products: 23
 - [Shop Truck Premium Cast | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/truck-premium-cast): Shop Best Selection Of Truck Premium Cast At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-07-28T16:41:45Z
-  Total Products: 5
+  Updated: 2026-01-16T21:52:29Z
+  Total Products: 10
 - [Shop 5-Lug UTV All | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/r-series): Shop Best Selection Of 5-lug UTV All At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-14T12:07:30Z
   Total Products: 50
 - [Shop FORGED / 3-PIECE NON-BEADLOCK | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/forged-3-piece-non-beadlock): Shop Best Selection Of Forged / 3-piece Non-beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-01-20T20:26:27Z
   Total Products: 2
 - [Shop Normal | Metal FX Offroad - Best Selection, Best Service.](https://metalfxoffroad.com/collections/normal): Shop Best Selection Of Normal At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
-  Total Products: 250
+  Updated: 2026-01-16T21:52:29Z
+  Total Products: 239
 - [Shop FORGED MONOBLOCK / BEADLOCK WHEELS | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/forged-1-piece-beadlock-wheels): Shop Best Selection Of Forged Monoblock / Beadlock Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-04-02T17:48:01Z
   Total Products: 6
@@ -4859,31 +4810,31 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-05-07T23:42:19Z
   Total Products: 7
 - [Shop UTV Wheels | Metal FX Offroad - Free Shipping on Orders of 4 or more Wheels (Exclusions Apply)](https://metalfxoffroad.com/collections/wheels): Metal FX Offroad UTV wheels provide the ultimate combination of  engineering, performance, and head-turning looks. Explore our extensive range of custom forged and cast UTV wheels.
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-14T12:07:30Z
   Total Products: 78
 - [Shop Best  Products | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/best--products): Shop Best  Products At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
-  Total Products: 267
+  Updated: 2026-01-16T21:52:29Z
+  Total Products: 256
 - [Shop Newest Products | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/newest-products): Shop Best Selection Of Newest Products At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
-  Total Products: 267
+  Updated: 2026-01-16T21:52:29Z
+  Total Products: 256
 - [Shop 5-Lug UTV Wheels | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/5-lug-utv-wheels): Shop Best Selection Of 5-lug UTV Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-14T12:07:30Z
   Total Products: 40
 - [Shop 4-Lug UTV Wheels | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/4-lug-utv-wheels): Shop Best Selection Of 4-lug UTV Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-03T12:08:13Z
+  Updated: 2026-01-11T12:07:40Z
   Total Products: 30
 - [Shop 5-Lug UTV Forged Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/5-lug-utv-forged-beadlock): Shop Best Selection Of 5-lug UTV Forged Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-18T12:10:30Z
   Total Products: 20
 - [Shop 5-Lug UTV Cast Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/5-lug-utv-cast-beadlock): Shop Best Selection Of 5-lug UTV Cast Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-14T12:07:30Z
   Total Products: 18
 - [Shop 4-Lug UTV Forged Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/4-lug-utv-forged-beadlock): Shop Best Selection Of 4-lug UTV Forged Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-05-08T01:29:47Z
   Total Products: 11
 - [Shop 4-Lug UTV Cast Beadlock Wheels | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/4-lug-utv-cast-beadlock): Shop Best Selection Of 4-lug UTV Cast Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-03T12:08:13Z
+  Updated: 2026-01-13T23:28:17Z
   Total Products: 14
 - [Shop 4-Lug UTV Cast Non-Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/4-lug-utv-cast-non-beadlock): Shop Best Selection Of 4-lug UTV Cast Non-beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-08-22T11:07:05Z
@@ -4892,8 +4843,8 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-09-10T20:26:30Z
   Total Products: 6
 - [Shop Truck Cast | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/truck-cast): Shop Best Selection Of Truck Cast At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-07-28T16:41:45Z
-  Total Products: 5
+  Updated: 2026-01-16T21:52:29Z
+  Total Products: 10
 - [Shop 4-Lug UTV Forged Non-Beadlock | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/4-lug-utv-forged-non-beadlock): Shop Best Selection Of 4-lug UTV Forged Non-beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-29T23:34:32Z
   Total Products: 5
@@ -4925,7 +4876,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-31T12:08:00Z
   Total Products: 4
 - [Outlaw Wheels | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/outlaw): Shop Best Selection Of Outlaw Wheels At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-12T12:07:17Z
   Total Products: 12
 - [UTV Cast 5-Lug Wheel Kits | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/utv-cast-5-lug-wheel-kits): Shop Best Selection Of UTV Cast 5-Lug Wheel Kits At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-09T17:29:34Z
@@ -4943,8 +4894,8 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-24T15:35:06Z
   Total Products: 6
 - [5-Lug UTV Wheel & Tire Kits - Dirt | Metal FX Offroad](https://metalfxoffroad.com/collections/5-lug-utv-wheel-tire-kits-dirt): Shop Best Selection Of 5-Lug UTV Wheel & Tire Kits - Dirt At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-05-23T19:36:40Z
-  Total Products: 13
+  Updated: 2026-01-10T00:53:01Z
+  Total Products: 0
 - [4-Lug UTV Wheel & Tire Kits - Sand | Metal FX Offroad](https://metalfxoffroad.com/collections/4-lug-utv-wheel-tire-kits-sand): Shop Best Selection Of 4-Lug UTV Wheel & Tire Kits - Sand At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-31T12:08:00Z
   Total Products: 4
@@ -4955,7 +4906,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-10-14T17:30:59Z
   Total Products: 8
 - [6-Lug UTV Cast Beadlock | Metal FX Offroad](https://metalfxoffroad.com/collections/6-lug-utv-cast-beadlock): Shop Best Selection Of 6-Lug UTV Cast Beadlock At Metal FX Offroad. Free Shipping On A Set Of Four.
-  Updated: 2025-12-24T12:09:03Z
+  Updated: 2026-01-13T23:24:21Z
   Total Products: 13
 - [UTV Cast 6-Lug Wheel Kits | Metal FX Offroad](https://metalfxoffroad.com/collections/utv-cast-6-lug-wheel-kits): Shop Best Selection Of UTV Cast 6-Lug Wheel Kits At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-12-09T12:09:55Z
@@ -4982,10 +4933,10 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-11-07T12:08:13Z
   Total Products: 12
 - [On  Cast UTV | Metal FX Offroad](https://metalfxoffroad.com/collections/on--cast-utv): Shop On  Cast UTV Wheels at Metal FX Offroad. Best Service. Free shipping on a set of 4.
-  Updated: 2026-01-08T18:41:36Z
-  Total Products: 56
+  Updated: 2026-01-14T19:26:56Z
+  Total Products: 57
 - [Center Caps | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/center-caps): Shop Replacement Center Caps & Hardware Kits At Metal FX Offroad.
-  Updated: 2026-01-06T12:08:17Z
+  Updated: 2026-01-16T12:07:52Z
   Total Products: 4
 - [OBOR Tires | Metal FX Offroad - Best Selection, Best Service](https://metalfxoffroad.com/collections/obor-tires): Shop Best Selection of OBOR Tires At Metal FX Offroad. Free Shipping On A Set Of Four.
   Updated: 2025-11-19T20:58:48Z
@@ -5003,11 +4954,11 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-29T23:34:33Z
   Total Products: 2
 - [BFCM2025](https://metalfxoffroad.com/collections/bfcm-10-off)
-  Updated: 2026-01-03T12:08:13Z
+  Updated: 2026-01-14T12:07:30Z
   Total Products: 63
 - [Military ](https://metalfxoffroad.com/collections/military-)
-  Updated: 2026-01-07T12:07:31Z
-  Total Products: 79
+  Updated: 2026-01-16T21:52:29Z
+  Total Products: 84
 - [Forged 3-Piece | All](https://metalfxoffroad.com/collections/forged-3-piece-all)
   Updated: 2025-12-18T12:10:30Z
   Total Products: 34
@@ -5018,13 +4969,13 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-12-29T23:34:32Z
   Total Products: 12
 - [5-Lug Outlaw](https://metalfxoffroad.com/collections/5-lug-outlaw)
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-12T12:07:17Z
   Total Products: 10
 - [4-Lug Hitman](https://metalfxoffroad.com/collections/4-lug-hitman)
-  Updated: 2026-01-03T12:08:13Z
+  Updated: 2026-01-11T12:07:40Z
   Total Products: 9
 - [5-Lug Hitman](https://metalfxoffroad.com/collections/5-lug-hitman)
-  Updated: 2025-12-06T12:10:14Z
+  Updated: 2026-01-14T12:07:30Z
   Total Products: 4
 - [Custom Cast - 5-Lug](https://metalfxoffroad.com/collections/custom-cast-5-lug)
   Updated: 2025-05-18T18:58:19Z
@@ -5039,8 +4990,8 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-03-17T19:55:24Z
   Total Products: 1
 - [Segway Super Villain - Cast](https://metalfxoffroad.com/collections/segway-super-villain-cast)
-  Updated: 2025-12-31T12:08:00Z
-  Total Products: 14
+  Updated: 2026-01-14T12:07:30Z
+  Total Products: 10
 - [15" 4-Lug Forged 3-Piece Beadlock](https://metalfxoffroad.com/collections/15-forged-3-piece-beadlock-4-lug)
   Updated: 2025-04-30T05:05:10Z
   Total Products: 3
@@ -5093,16 +5044,16 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-04-08T19:07:43Z
   Total Products: 2
 - [Hardware Kits](https://metalfxoffroad.com/collections/hardware-kits)
-  Updated: 2025-12-27T12:08:30Z
+  Updated: 2026-01-16T12:07:52Z
   Total Products: 3
 - [Beadlock Rings](https://metalfxoffroad.com/collections/beadlock-rings)
-  Updated: 2025-12-27T12:08:30Z
+  Updated: 2026-01-12T12:07:17Z
   Total Products: 2
 - [Segway Super Villain - Cast Wheel Kits](https://metalfxoffroad.com/collections/segway-super-villain-cast-wheel-kits)
   Updated: 2025-12-09T17:29:34Z
   Total Products: 3
 - [New Releases](https://metalfxoffroad.com/collections/new-releases)
-  Updated: 2025-12-24T12:09:03Z
+  Updated: 2026-01-10T12:07:43Z
   Total Products: 9
 - [Kawasaki Teryx H2 - Cast](https://metalfxoffroad.com/collections/kawasaki-teryx-h2-cast)
   Updated: 2025-10-10T11:07:07Z
@@ -5111,7 +5062,7 @@ Experience superior handling, unmatched performance and toughness that lasts for
   Updated: 2025-09-23T21:27:57Z
   Total Products: 2
 - [17 5-Lug Outlaw](https://metalfxoffroad.com/collections/17-5-lug-outlaw)
-  Updated: 2026-01-07T12:07:31Z
+  Updated: 2026-01-12T12:07:17Z
   Total Products: 3
 
 ## Blogs
