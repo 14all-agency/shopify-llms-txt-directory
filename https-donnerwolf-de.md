@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-04-24T12:00:01Z
 - Contact Email: donnerwolforiginal@gmail.com
-- Updated At: 2026-01-07T00:00:41.615Z
+- Updated At: 2026-01-17T00:00:41.774Z
 
 Donnerwolf ist dein Shop für authentische Wikinger-Mode und nordische Apparel. Wir bieten Premium T-Shirts, Hoodies, Tank-Tops und Accessoires mit kraftvollen Wikinger-Motiven, humorvollen Sprüchen und nordischer Mythologie. Alle Produkte aus nachhaltiger Bio-Baumwolle. Kostenloser Versand ab 50€ in Deutschland.
 
@@ -397,7 +397,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/bis-ein-wolf-kommt-organic-hoodie-glazed-green-xs-hoodies-183.webp?v=1733757526
     Price: 54,95 € EUR
 - [Ich sterbe nicht Wikinger Hoodie Bio Unsterblichkeit | Donnerwolf](https://donnerwolf.de/products/ich-sterbe-nicht-organic-hoodie): Ich sterbe nicht! - Bio Hoodie für unsterbliche Krieger-Seelen. Valhalla wartet! Premium Bio-Baumwolle, kraftvolles Statement für Wikinger. Jetzt bei Donnerwolf!
-  Updated: 2025-12-18T04:46:33Z
+  Updated: 2026-01-09T21:41:22Z
   Vendor: Donnerwolf
   Product Type: Hoodies
   Availability: Available
@@ -681,7 +681,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/raid-or-die-premium-snapback-red-green-one-size-kappen-muetzen-151.webp?v=1733757683
     Price: 24,95 € EUR
 - [Berserker Midgard Warrior T-Shirt - Deine Donnerwolf Mode](https://donnerwolf.de/products/berserker-midgard-warrior-tshirt): Werde zum Berserker mit unserem Midgard Warrior T-Shirt von Donnerwolf! Zeige deine Stärke mit diesem Premium Shirt – jetzt entdecken & Abenteuer erleben!
-  Updated: 2026-01-06T19:15:05Z
+  Updated: 2026-01-16T07:25:11Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -1365,7 +1365,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/google-teddy-damen-premium-shirt-dark-grey-xs-lady-shirts-751.webp?v=1733758089
     Price: 24,95 € EUR
 - [Google Teddy Wikinger Hoodie Bio – Humor Statement | Donnerwolf](https://donnerwolf.de/products/google-teddy-organic-basic-hoodie): Google Teddy Wikinger Hoodie aus Bio-Baumwolle. Humorvolles Statement, warm & bequem. Jetzt bei Donnerwolf!
-  Updated: 2025-12-12T16:09:51Z
+  Updated: 2026-01-09T21:41:22Z
   Vendor: Donnerwolf
   Product Type: Hoodies
   Availability: Available
@@ -4047,7 +4047,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/ich-bin-nicht-dick-premium-shirt-brown-s-unisex-shirts-883.webp?v=1733759745
     Price: 24,95 € EUR
 - [Ich bin nicht Dick - Basic Unisex Hoodie](https://donnerwolf.de/products/ich-bin-nicht-dick-basic-unisex-hoodie): Dein Team von Donnerwolf.
-  Updated: 2025-11-14T09:25:28Z
+  Updated: 2026-01-08T10:52:39Z
   Vendor: Donnerwolf
   Product Type: Hoodies
   Availability: Available
@@ -5519,7 +5519,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/raido-rune-wikinger-premiumshirt-der-weg-des-reisenden-884.webp?v=1733760151
     Price: 24,95 € EUR
 - ["Raido Rune" Wikinger-Premiumshirt – Der Weg des Reisenden - Ladies Tank-Top](https://donnerwolf.de/products/raido-rune-wikinger-premiumshirt-der-weg-des-reisenden-ladies-tank-top): Dein Team von Donnerwolf.
-  Updated: 2025-11-14T09:29:11Z
+  Updated: 2026-01-16T03:39:31Z
   Vendor: Donnerwolf
   Product Type: Tank-Tops
   Availability: Available
@@ -5697,7 +5697,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/raido-rune-wikinger-premiumshirt-der-weg-des-reisenden-947.webp?v=1733760191
     Price: 24,95 € EUR
 - [Viking Valhalla  - Premium Shirt](https://donnerwolf.de/products/viking-valhalla-premium-shirt): Dein Team von Donnerwolf.
-  Updated: 2025-06-09T01:18:54Z
+  Updated: 2026-01-11T00:20:05Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -5777,7 +5777,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/viking-valhalla-unisex-hoodie-beidseitiger-druck-deep-black-xs-226.webp?v=1733760224
     Price: 54,95 € EUR
 - [Odin wartet an seiner Tafel auf mich  - Premium Shirt](https://donnerwolf.de/products/odin-wartet-an-seiner-tafel-auf-mich-premium-shirt): Hochwertig bedruckt in Europa Erstklassige Qualitätsstandards Deine Top-Adresse für Wikinger- und Nordische Mythologie Hast du Odins Ruf vernommen? Träumst du von Valhalla?
-  Updated: 2025-11-15T05:25:39Z
+  Updated: 2026-01-13T14:13:30Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -8895,7 +8895,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/ich-bleib-so-wie-bin-premium-t-shirt-unisex-s-schwarz-363.webp?v=1733761846
     Price: 24,95 € EUR
 - [Wir finden einen weg Premium T-Shirt](https://donnerwolf.de/products/wir-finden-einen-weg-premium-t-shirt): ⚔️ Wir finden einen Weg, oder wir machen einen Weg! - T-Shirt ⚔️ Dieses motivierende T-Shirt ist der perfekte Begleiter für alle, die niemals aufgeben und sich ihren eigenen Weg bahnen.
-  Updated: 2025-04-05T13:26:01Z
+  Updated: 2026-01-11T04:51:51Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -15268,7 +15268,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/wir-sehen-uns-in-valhalla-unisex-sweatshirt-deep-black-xs-129.png?v=1736351722
     Price: 44,95 € EUR
 - [Respekt, Ehre, Loyalität - Premium Shirt](https://donnerwolf.de/products/respekt-ehre-loyalitat-premium-shirt): Material: 100 % Baumwolle (ringgesponnen) / Ausnahme Ash: 99 % Baumwolle, 1 % Viskose / Ausnahme Sport Grey: 85 % Baumwolle, 15 % Polyester Grammatur: 185 g/m² Schnitt: Regular (normale Passform) Rundhalsausschnitt in 1x1-Rippstrick Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-12-24T11:04:28Z
+  Updated: 2026-01-12T07:28:14Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
@@ -16156,7 +16156,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/lieber-mit-odin-unisex-hoodie-deep-black-xs-hoodies-394.png?v=1736521886
     Price: 54,95 € EUR
 - [Lieber mit Odin - Basic Sweatshirt](https://donnerwolf.de/products/lieber-mit-odin-basic-sweatshirt): Material: 80% Baumwolle, 20% Polyester (Black Smoke: 70% Baumwolle / 30% Polyester) Grammatur: 280 g/m² Schnitt: Regular Fit (normale Passform) Set-In-Ärmel Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-11-14T18:28:32Z
+  Updated: 2026-01-11T13:24:12Z
   Vendor: Donnerwolf
   Product Type: Sweatshirts
   Availability: Available
@@ -16498,7 +16498,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/nur-odin-unisex-sweatshirt-storm-grey-solid-xs-sweatshirts-934.png?v=1736642102
     Price: 44,95 € EUR
 - [Nur Odin  - Basic Unisex Hoodie](https://donnerwolf.de/products/nur-odin-basic-unisex-hoodie): Material: 80 % Baumwolle, 20 % Polyester Grammatur: 280 g/m² Schnitt: normale Passform Doppelnahtverarbeitung Innen angeraut Kapuzenkordel in identischer Farbe Doppellagige Kapuze Kängurutasche an Vorderseite Strick-Bündchen an Ärmeln und Saum Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-12-21T16:02:55Z
+  Updated: 2026-01-14T11:34:31Z
   Vendor: Donnerwolf
   Product Type: Hoodies
   Availability: Available
@@ -19436,13 +19436,13 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
 ## Collections
 
 - [Wikinger T-Shirt Herren: Premium Nordische Shirts | Donnerwolf](https://donnerwolf.de/collections/wikinger-t-shirts-herren): Wikinger T-Shirt Herren in Premium-Qualität. Nordische Symbole, Odin, Mjölnir & Runen-Designs. Bio-Baumwolle, starke Statements. Jetzt bei Donnerwolf bestellen!
-  Updated: 2026-01-05T12:17:06Z
+  Updated: 2026-01-07T12:15:52Z
   Total Products: 143
 - [Wikinger T-Shirt Damen: Premium Nordische Shirts für Frauen | Donnerwolf](https://donnerwolf.de/collections/wikinger-t-shirts-damen): Wikinger T-Shirt Damen in Premium-Qualität. Nordische Symbole, Walküren, Runen & Göttin-Designs. Starke Shirts für starke Frauen. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-18T12:18:59Z
   Total Products: 41
 - [Wikinger Hoodie Herren: Premium Nordische Kapuzenpullover | Donnerwolf](https://donnerwolf.de/collections/hoodie): Wikinger Hoodie Herren in Premium-Qualität. Nordische Symbole, Odin, Mjölnir & Runen-Designs. Bio-Baumwolle, warme Kapuzenpullover. Jetzt bei Donnerwolf bestellen!
-  Updated: 2025-12-22T12:15:13Z
+  Updated: 2026-01-10T12:15:18Z
   Total Products: 68
 - [Wikinger Tank-Top Herren: Premium Gym & Sport Tank-Tops | Donnerwolf](https://donnerwolf.de/collections/tank-top-herren): Wikinger Tank-Top Herren für Gym & Training. Nordische Symbole, atmungsaktive Baumwolle, starke Motive. Premium Tank-Tops für Männer. Jetzt bei Donnerwolf bestellen!
   Updated: 2025-12-17T16:22:14Z
@@ -19466,13 +19466,13 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
   Updated: 2025-12-12T01:42:12Z
   Total Products: 2
 - [Bestseller: Wikinger Shirts & Hoodies Herren | Donnerwolf](https://donnerwolf.de/collections/bestseller): Unsere Bestseller: Premium Wikinger T-Shirts, Hoodies & Accessoires für Herren. Nordische Symbole, Bio-Qualität, beliebteste Designs. Jetzt bei Donnerwolf entdecken!
-  Updated: 2025-12-19T12:39:34Z
+  Updated: 2026-01-10T12:15:18Z
   Total Products: 8
 - [Alle Produkte](https://donnerwolf.de/collections/alle-produkte)
-  Updated: 2026-01-05T12:17:06Z
+  Updated: 2026-01-10T12:15:18Z
   Total Products: 359
 - [ Wikinger Kleidung - Reduzierte T-Shirts & Hoodies | Donnerwolf](https://donnerwolf.de/collections/): Spare jetzt bei hochwertiger Wikinger-Kleidung! Reduzierte T-Shirts, Hoodies & mehr mit nordischen Motiven. Premium-Qualität, limitierte Stückzahl. Jetzt zuschlagen!
-  Updated: 2025-12-17T16:35:37Z
+  Updated: 2026-01-10T12:15:18Z
   Total Products: 14
 
 ## Blogs
