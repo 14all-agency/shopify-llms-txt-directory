@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2025-12-04T17:43:31Z
 - Contact Email: greemnest@gmail.com
-- Updated At: 2026-01-09T00:00:34.663Z
+- Updated At: 2026-01-18T00:00:35.649Z
 
 ## Products
 
@@ -38,20 +38,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/129719758271099.jpg?v=1765008060
     Price: €60.99 EUR
-- [Children's Handwoven Straw Bag | Mini Crossbody - Greemnest](https://greemnest.store/products/bag-straw-woven-fashion-women-shoulder-tote-handmade-bag-summer-leisure-ladies-knitting-handbag-feminine-beach-bags-bolsos-mujer): Adorable handwoven straw crossbody for kids. Eco-friendly mini messenger with fruit designs & zipper closure. Perfect gift for children. Greemnest.
-  Updated: 2026-01-04T17:32:02Z
-  Vendor: Greemnest
-  Product Type: Children's Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/3562905055691.jpg?v=1765008219
-  - [Dark Beige](https://greemnest.store/products/bag-straw-woven-fashion-women-shoulder-tote-handmade-bag-summer-leisure-ladies-knitting-handbag-feminine-beach-bags-bolsos-mujer?variant=47405791478016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/900269959841.jpg?v=1765008225
-    Price: €40.79 EUR
-  - [Light Beige](https://greemnest.store/products/bag-straw-woven-fashion-women-shoulder-tote-handmade-bag-summer-leisure-ladies-knitting-handbag-feminine-beach-bags-bolsos-mujer?variant=47405791510784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/238588153251_b1001842-5956-4793-911f-af69dbbc61f6.jpg?v=1765008225
-    Price: €39.87 EUR
 - [Round Woven Handbag Wooden Handle | Paper Weave - Greemnest](https://greemnest.store/products/girls-small-bags-princess-all-match-coin-purse-hand-woven-childrens-mini-fruit-zipper-bag-messenger-bag): Elegant round woven handbag with wooden handle. Premium paper weave construction. Minimalist design, sustainable luxury. Handcrafted by Greemnest.
   Updated: 2026-01-04T17:32:02Z
   Vendor: Greemnest
@@ -143,27 +129,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1623057352493.jpg?v=1765010298
     Price: €90.99 EUR
-- [small bags-Rattan Woven Bag Semicircle Shoulder Bag Rattan Woven Bag Messenger Bag](https://greemnest.store/products/rattan-woven-bag-semicircle-shoulder-bag-rattan-woven-bag-messenger-bag): Discover our versatile bag with compartment, shoulder bag, tote purse, and small bag all in one! Perfect for daily essentials with stylish organization on the go.
-  Updated: 2026-01-04T17:32:03Z
-  Vendor: null
-  Product Type: eco friendly
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616487052571.jpg?v=1765010452
-  Price: €100.99 EUR
-- [Woven Dumpling Crossbody Bag | Casual Underarm - Greemnest](https://greemnest.store/products/one-shoulder-hand-bag-woven-bag-beach-bag-mori-series-straw-woven-bag-female-bag-trapezoidal-rattan-bag): Handwoven dumpling crossbody bag. Soft rounded shape, casual underarm style. Lightweight, comfortable & versatile. Artisan crafted. Greemnest.
-  Updated: 2026-01-04T17:32:04Z
-  Vendor: Greemnest
-  Product Type: Handwoven Straw Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619329804728.jpg?v=1765010512
-  - [Beige](https://greemnest.store/products/one-shoulder-hand-bag-woven-bag-beach-bag-mori-series-straw-woven-bag-female-bag-trapezoidal-rattan-bag?variant=47405998997760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619329804730.jpg?v=1765010514
-    Price: €70.99 EUR
-  - [light coffee](https://greemnest.store/products/one-shoulder-hand-bag-woven-bag-beach-bag-mori-series-straw-woven-bag-female-bag-trapezoidal-rattan-bag?variant=47405999030528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1619329817044.jpg?v=1765010514
-    Price: €70.99 EUR
 - [Semicircle Straw Messenger Bag | Rattan Shoulder - Greemnest](https://greemnest.store/products/shoulder-bag-casual-crossbody-bag-woven-bag-underarm-dumpling-bag): Handwoven semicircle straw messenger bag. Lightweight rattan shoulder bag. Elegant half-moon design, versatile & artisan crafted. Greemnest.
   Updated: 2026-01-04T17:32:04Z
   Vendor: Greemnest
@@ -200,70 +165,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1615808967848.jpg?v=1765010609
     Price: €120.99 EUR
-- [Leisure Straw Shoulder Bag | One Shoulder Tote - Greemnest](https://greemnest.store/products/bamboo-bag-bucket-bag-female-bag): Handwoven leisure straw shoulder bag. Lightweight one-shoulder tote, casual & comfortable. Perfect for everyday relaxed style. Greemnest.
-  Updated: 2026-01-04T17:32:04Z
-  Vendor: Greemnest
-  Product Type: Handwoven Straw Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/3196274308918.jpg?v=1765010649
-  Price: €60.99 EUR
-- [small bags-Leisure One Shoulder Straw Woven Bag](https://greemnest.store/products/leisure-one-shoulder-straw-woven-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2026-01-04T17:32:04Z
-  Vendor: null
-  Product Type: eco friendly
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616219332098.jpg?v=1765010687
-  - [Beige](https://greemnest.store/products/leisure-one-shoulder-straw-woven-bag?variant=47406015840512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616219332098_ade5766d-9e46-465f-923a-d9ccf69441d2.jpg?v=1765010689
-    Price: €50.99 EUR
-  - [Brown](https://greemnest.store/products/leisure-one-shoulder-straw-woven-bag?variant=47406015873280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616219332374.jpg?v=1765010689
-    Price: €50.99 EUR
-- [Antique Straw Messenger Beach Bag | Vintage Woven - Greemnest](https://greemnest.store/products/new-womens-summer-straw-woven-bag-shoulder-bag-paper-rope-bag): Vintage antique straw messenger beach bag. Handwoven with timeless appeal. Spacious crossbody design perfect for beach & market. Greemnest.
-  Updated: 2026-01-04T17:32:04Z
-  Vendor: Greemnest
-  Product Type: Handwoven Straw Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616486644981.jpg?v=1765010723
-  - [Beige](https://greemnest.store/products/new-womens-summer-straw-woven-bag-shoulder-bag-paper-rope-bag?variant=47406024130816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616486652750.jpg?v=1765010724
-    Price: €43.79 EUR
-  - [Khaki](https://greemnest.store/products/new-womens-summer-straw-woven-bag-shoulder-bag-paper-rope-bag?variant=47406024163584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1616486652756.jpg?v=1765010724
-    Price: €35.95 EUR
-- [shoulder bags-Antique straw woven bag messenger beach bag](https://greemnest.store/products/antique-straw-woven-bag-messenger-beach-bag): A versatile bag with compartment designed for everyday use. Available as a stylish shoulder bag, practical tote purse, and compact small bag for easy organization and comfort.
-  Updated: 2026-01-04T17:32:04Z
-  Vendor: null
-  Product Type: eco friendly
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1228511359009.jpg?v=1765012886
-  - [Beige](https://greemnest.store/products/antique-straw-woven-bag-messenger-beach-bag?variant=47406293713152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/276693371146.jpg?v=1765012890
-    Price: €70.99 EUR
-  - [Brown](https://greemnest.store/products/antique-straw-woven-bag-messenger-beach-bag?variant=47406293745920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/304273504388.jpg?v=1765012890
-    Price: €70.99 EUR
-  - [Deep brown](https://greemnest.store/products/antique-straw-woven-bag-messenger-beach-bag?variant=47406293778688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/1689954487330.jpg?v=1765012890
-    Price: €70.99 EUR
-  - [Green](https://greemnest.store/products/antique-straw-woven-bag-messenger-beach-bag?variant=47406293811456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/2364349029326.jpg?v=1765012890
-    Price: €70.99 EUR
-- [Support for Carbon Removal | Planet](https://greemnest.store/products/support-for-groundbreaking-carbon-removal-technologies): Support carbon removal with Planet. Make your fashion choices eco-conscious and impactful for a cleaner, sustainable future.
-  Updated: 2026-01-04T17:32:05Z
-  Vendor: Planet
-  Product Type: PLANET_CONTRIBUTION
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/logo.png?v=1765019958
-  Price: €0.43 EUR
 - [Classic Straw Women's Handbag | Handwoven Tote - Greemnest](https://greemnest.store/products/hand-woven-bamboo-basket-handbag): Premium handwoven straw women's handbag. Classic tote design, natural material, versatile & sustainable. Timeless artisan quality. Greemnest.
   Updated: 2026-01-04T17:32:05Z
   Vendor: Greemnest
@@ -422,22 +323,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/343a7c39-c7e8-4a7d-9055-2b3835526a99.jpg?v=1765305343
     Price: €141.99 EUR
-- [Handwoven Eco-Friendly Straw Shopping Bag - Greemnest](https://greemnest.store/products/hand-knitting-leisure-vacation-grocery-shopping-bag): Premium handwoven eco-friendly straw shopping bag. Sustainable, artisan crafted. Perfect for grocery, beach & everyday. Lightweight luxury. Greemnest.
-  Updated: 2026-01-04T17:32:08Z
-  Vendor: GREEMNEST
-  Product Type: Handwoven Straw Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/4b5d3098-5841-4b89-a8f7-a9c671fe241b.jpg?v=1765737304
-  - [Beige](https://greemnest.store/products/hand-knitting-leisure-vacation-grocery-shopping-bag?variant=47431980122368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/54cd62fe-6cfb-4998-a0df-c1258a4dd54f.jpg?v=1765305417
-    Price: €30.50 EUR
-  - [Camel](https://greemnest.store/products/hand-knitting-leisure-vacation-grocery-shopping-bag?variant=47431980155136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/40fb2eed-8b85-41ba-90fb-e053bbeea699.jpg?v=1765305417
-    Price: €30.50 EUR
-- [Suede Mini Crossbody Bag](https://greemnest.store/products/suede-mini-crossbody-bag): Bag size:Small Material:PU Leather,Suede Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 8.7
-  Updated: 2026-01-08T18:45:15Z
+- [Suede Mini Crossbody Bag | Small PU Leather Shoulder Bag | Greemnest](https://greemnest.store/products/suede-mini-crossbody-bag): Premium suede mini crossbody bag. PU leather & suede, ultra-lightweight, compact design. Luxurious elegance for any occasion. Shop at Greemnest.
+  Updated: 2026-01-16T20:36:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -455,28 +342,28 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/2a56e16c-b77c-4aa9-929e-ea0701156e48-Max-Origin.webp?v=1767897891
     Price: €60.99 EUR
 - [Nicole Lee USA Eco-Leather Boston Bag](https://greemnest.store/products/nicole-lee-usa-eco-leather-boston-bag): An eco-leather Boston bag is a stylish and sustainable option for carrying your belongings. It is typically made from eco-friendly materials that mimic the look and feel of traditional leather, but without the environmental impact. This type of bag is a great choice for those looking to reduce their carbon footprint and support ethical fashion practices. Bag size: Medium Material: PU Suede, Eco-leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height One Size 14 6.5 8.5
-  Updated: 2026-01-08T18:46:57Z
+  Updated: 2026-01-16T20:35:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/990fd035-de88-4777-9bad-19800f67e5cb-Max.webp?v=1767897981
   Price: €75.99 EUR
-- [Nicole Lee USA Convertible Adjustable Strap Backpack Bag](https://greemnest.store/products/nicole-lee-usa-convertible-adjustable-strap-backpack-bag): The Convertible Adjustable Strap Backpack Bag is a versatile and practical accessory. Its adjustable strap allows you to customize the fit for comfortable carrying. This bag can be easily converted from a backpack to a shoulder bag, offering flexibility in how you wear it. Perfect for various occasions, this bag combines functionality with style to meet your everyday needs. Bag size: Large Material: Eco-leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height One Size 13.5 3.8 14
-  Updated: 2026-01-08T18:47:12Z
+- [Nicole Lee USA Convertible Backpack | Adjustable Strap Eco-Leather Bag | Greemnest](https://greemnest.store/products/nicole-lee-usa-convertible-adjustable-strap-backpack-bag): Nicole Lee USA convertible backpack. Eco-leather, adjustable straps, large capacity. Transforms from backpack to shoulder bag. Shop at Greemnest.
+  Updated: 2026-01-17T19:19:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/29e2ea30-bfee-4885-b0a0-f0d49dd3205b-Max.webp?v=1767898007
   Price: €82.99 EUR
-- [Buckle Shoulder Bag](https://greemnest.store/products/buckle-shoulder-bag): Bag size:Medium Material:PU Leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Height Actual Length ONESIZE 8.7 12.2
-  Updated: 2026-01-08T18:48:30Z
+- [Buckle Shoulder Bag | Medium PU Leather Handbag | Greemnest](https://greemnest.store/products/buckle-shoulder-bag): Classic buckle shoulder bag. Premium PU leather, secure buckle closure, medium size. Timeless sophistication for work and weekends. Shop at Greemnest.
+  Updated: 2026-01-16T20:35:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/747db53c24004ead9144774597498ec9-Max-Origin.webp?v=1767898076
   Price: €69.99 EUR
-- [Woven Straw Tote Bag](https://greemnest.store/products/woven-straw-tote-bag): Bag size:Small Material:straw weaving Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 11.8
-  Updated: 2026-01-08T18:49:23Z
+- [Woven Straw Tote Bag | Medium Handwoven Beach Tote | Greemnest](https://greemnest.store/products/woven-straw-tote-bag): Medium handwoven straw tote bag. Natural fibers, artisan-crafted, eco-friendly. Perfect for beach, markets, daily use. Shop sustainable bags at Greemnest.
+  Updated: 2026-01-16T20:34:55Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -489,8 +376,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/b9657b6887974205b009414eb1947c9d-Max-Origin.webp?v=1767898137
     Price: €40.99 EUR
-- [Straw Woven Crossbody Bag](https://greemnest.store/products/straw-woven-crossbody-bag): Bag size:Mini Material:straw weaving Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 9.8
-  Updated: 2026-01-08T18:49:59Z
+- [Straw Woven Crossbody Bag | Mini Handwoven Natural Fiber Bag | Greemnest](https://greemnest.store/products/straw-woven-crossbody-bag): Mini handwoven straw crossbody bag. Natural fibers, artisan-crafted, ultra-lightweight. Perfect for beach and summer style. Shop sustainable at Greemnest.
+  Updated: 2026-01-16T20:34:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -503,15 +390,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/7624a9fcae9246eb9542230f1399897b-Max-Origin.webp?v=1767898174
     Price: €69.99 EUR
-- [Double Buckle Crossbody Bag](https://greemnest.store/products/double-buckle-crossbody-bag): Bag size:Medium Material:Suede Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 12.2
-  Updated: 2026-01-08T18:51:36Z
+- [Double Buckle Crossbody Bag | Medium Suede Shoulder Bag | Greemnest](https://greemnest.store/products/double-buckle-crossbody-bag): Vintage double buckle crossbody bag. Premium suede, secure dual buckle closure, medium size. Timeless sophistication. Shop at Greemnest.
+  Updated: 2026-01-16T20:34:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/6908e4b6-b8ec-427c-9dad-98a5c0ff97c6-Max-Origin.webp?v=1767898262
   Price: €50.99 EUR
-- [Woven Straw Tote Bag](https://greemnest.store/products/woven-straw-tote-bag-1): Bag size:Large Material:Straw Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Height onesize 16.5 10.2
-  Updated: 2026-01-08T18:52:17Z
+- [Woven Straw Tote Bag | Large Handwoven Beach Bag | Greemnest](https://greemnest.store/products/woven-straw-tote-bag-1): Large handwoven straw tote bag. Natural fibers, spacious design, artisan-crafted. Perfect for beach, markets, summer adventures. Shop sustainable at Greemnest.
+  Updated: 2026-01-16T20:33:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -524,8 +411,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/63b2061d8d104c3f86dd6c329130cd5e-Max-Origin.webp?v=1767898291
     Price: €68.99 EUR
-- [Bow Decor Crossbody Bag](https://greemnest.store/products/bow-decor-crossbody-bag): Bag size:Small Material:Suede Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 9.1
-  Updated: 2026-01-08T18:53:18Z
+- [Bow Decor Crossbody Bag | Small Suede Shoulder Bag with Bow | Greemnest](https://greemnest.store/products/bow-decor-crossbody-bag): Charming bow decor crossbody bag. Premium suede, adorable bow detail, compact design. Feminine elegance for any occasion. Shop at Greemnest.
+  Updated: 2026-01-16T20:33:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -542,15 +429,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/b3eb40d3c9ba4639bcce1a11a1d09187-Max-Origin.webp?v=1767898368
     Price: €89.99 EUR
-- [Woven Straw Crossbody Bag](https://greemnest.store/products/woven-straw-crossbody-bag): Bag size:Small Material:Straw weaving Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 7.9
-  Updated: 2026-01-08T18:56:05Z
+- [Woven Straw Crossbody Bag | Small Handwoven Natural Fiber Bag | Greemnest](https://greemnest.store/products/woven-straw-crossbody-bag): Handwoven straw crossbody bag. Natural fibers, artisan-crafted, ultra-lightweight. Perfect for beach and summer style. Shop sustainable bags at Greemnest.
+  Updated: 2026-01-16T20:33:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/52740cdd2b644fa98570d7a73d012246-Max-Origin.webp?v=1767898520
   Price: €67.99 EUR
-- [Vintage Suede Tassel Shoulder Bag](https://greemnest.store/products/vintage-suede-tassel-shoulder-bag): Bag size:Medium Material:Suede Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Height Actual Length One Size 7.5 12.2
-  Updated: 2026-01-08T18:57:29Z
+- [Vintage Suede Tassel Shoulder Bag | Medium Bohemian Bag | Greemnest](https://greemnest.store/products/vintage-suede-tassel-shoulder-bag): Vintage suede shoulder bag with playful tassels. Premium suede, bohemian charm, lightweight design. Perfect for festivals and free spirits. Shop at Greemnest.
+  Updated: 2026-01-16T20:32:49Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -567,8 +454,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/082fad17aa004f28984cd34f2b1af7a9-Max-Origin.webp?v=1767898611
     Price: €99.99 EUR
-- [Vintage Style Crossbody Bag with Charm](https://greemnest.store/products/vintage-style-crossbody-bag-with-charm): Bag size:Mini Material:PU Leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 9.3
-  Updated: 2026-01-08T19:01:22Z
+- [Vintage Crossbody Bag with Charm | Mini PU Leather Shoulder Bag | Greemnest](https://greemnest.store/products/vintage-style-crossbody-bag-with-charm): Vintage crossbody bag with adorable charm detail. Premium PU leather, compact design, whimsical elegance. Perfect for daily wear. Shop at Greemnest.
+  Updated: 2026-01-16T20:32:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -590,14 +477,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/560d0684465a46578ef8fbf1f14c661f-Max-Origin.webp?v=1767898707
     Price: €80.99 EUR
 - [Adjustable Suede Crossbody Bag | Buckle Detail | Premium Suede | Greemnest](https://greemnest.store/products/adjustable-strap-buckle-crossbody-bag): Suede crossbody bag with adjustable buckle strap. Luxurious texture, customizable fit, versatile style. Perfect for everyday elegance. Shop at Greemnest.
-  Updated: 2026-01-08T19:19:07Z
+  Updated: 2026-01-16T20:32:14Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/8017b9e38d574d0195dc51649126130b-Max-Origin.webp?v=1767898746
   Price: €57.99 EUR
 - [Textured Crossbody Bag with Top Handle | Dual Carry | Leather | Greemnest](https://greemnest.store/products/textured-crossbody-bag-with-top-handle): Textured leather crossbody with top handle. Dual carry options, premium PU leather, versatile design. Perfect for everyday elegance. Shop at Greemnest.
-  Updated: 2026-01-08T19:21:34Z
+  Updated: 2026-01-16T20:31:44Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -611,14 +498,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/cc884e95-bdc9-43d5-aa53-d7eb335bcb2e-Max-Origin.webp?v=1767898792
     Price: €74.99 EUR
 - [Leather Round Handle Tote Bag | Sculptural Design | Premium Tote | Greemnest](https://greemnest.store/products/leather-round-handle-tote-bag): Leather tote with round handles. Premium PU leather, architectural design, spacious capacity. Perfect for sophisticated style. Shop luxury totes at Greemnest.
-  Updated: 2026-01-08T19:21:23Z
+  Updated: 2026-01-16T20:31:21Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/409c9206fba54400aabde563e281a2a9-Max-Origin.webp?v=1767898839
   Price: €119.99 EUR
 - [Vintage Leather Shoulder Bag | Premium PU Leather | Timeless Style | Greemnest](https://greemnest.store/products/vintage-style-leather-shoulder-bag): Vintage-style leather shoulder bag. Premium PU leather, classic design, versatile elegance. Perfect for everyday luxury. Shop timeless bags at Greemnest.
-  Updated: 2026-01-08T19:21:14Z
+  Updated: 2026-01-16T20:30:57Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -640,14 +527,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/764e9cc4e7e446108da2e580dc7e7fc4-Max-Origin.webp?v=1767898884
     Price: €89.99 EUR
 - [Suede Fringe Crossbody Bag | Bohemian Luxury | Premium Suede | Greemnest](https://greemnest.store/products/fame-suede-fringe-crossbody-bag): Fame suede fringe crossbody bag. Luxurious texture, statement fringe detail, bohemian elegance. Perfect for standout style. Shop premium bags at Greemnest.
-  Updated: 2026-01-08T19:21:00Z
+  Updated: 2026-01-16T20:30:40Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/f648dea8-5081-467c-a84d-a53a6c2e7689-Max-Origin.webp?v=1767898959
   Price: €79.99 EUR
 - [Vintage Suede Hobo Bag | Shoulder Bag | Premium Suede | Greemnest](https://greemnest.store/products/vintage-suede-hobo-shoulder-bag): Vintage suede hobo shoulder bag. Soft, luxurious texture, timeless design. Perfect for effortless elegance. Shop premium bags at Greemnest.
-  Updated: 2026-01-08T19:20:51Z
+  Updated: 2026-01-16T20:30:23Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -665,14 +552,14 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/748fd0d6-fd18-4e96-a058-6af741765b18-Max-Origin.webp?v=1767899068
     Price: €49.99 EUR
 - [Half Moon Straw Tote Bag | Handwoven | Eco-Luxury Tote | Greemnest](https://greemnest.store/products/fame-half-moon-straw-tote-bag): Fame Half Moon straw tote bag. Handwoven, sculptural design, sustainable materials. Perfect for everyday elegance. Shop artisan luxury at Greemnest.
-  Updated: 2026-01-08T19:20:37Z
+  Updated: 2026-01-16T20:30:03Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/411b0b5d-1d71-4a49-8cd4-5c779c5d87cd-Max-Origin.webp?v=1767899118
   Price: €67.99 EUR
 - [Straw Crossbody Bag | Adjustable Strap | Handwoven | Sustainable | Greemnest](https://greemnest.store/products/straw-woven-adjustable-strap-crossbody-bag): Handwoven straw crossbody bag with adjustable strap. Lightweight, eco-friendly, and timeless. Perfect for minimalist style. Shop sustainable luxury at Greemnest.
-  Updated: 2026-01-08T19:20:25Z
+  Updated: 2026-01-16T20:29:45Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -680,20 +567,20 @@
   - [Coffee Brown / onesize](https://greemnest.store/products/straw-woven-adjustable-strap-crossbody-bag?variant=47558603571456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/efe9801a97514c7ca1c91e80627fab21-Max-Origin.webp?v=1767899196
-    Price: €29.87 EUR
+    Price: €67.99 EUR
   - [Cream / onesize](https://greemnest.store/products/straw-woven-adjustable-strap-crossbody-bag?variant=47558603604224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/02b3de046f404f428b812f1c63f75b1c-Max-Origin.webp?v=1767899196
-    Price: €29.87 EUR
+    Price: €67.99 EUR
 - [Straw Shoulder Bag with Leather Accents | Handwoven | Eco-Luxury | Greemnest](https://greemnest.store/products/woven-straw-shoulder-bag-with-leather-accents): Premium woven straw shoulder bag with leather accents. Artisan-crafted, sustainable materials, timeless design. Elevate your style with eco-luxury from Greemnest.
-  Updated: 2026-01-08T19:20:11Z
+  Updated: 2026-01-16T20:29:23Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/c06b1c7da86c4d6a9e18f0c0dd85f1ae-Max-Origin.webp?v=1767899243
   Price: €70.99 EUR
 - [Woven Straw Crossbody Bag | Adjustable Strap | Eco-Luxury | Greemnest](https://greemnest.store/products/woven-straw-adjustable-strap-crossbody-bag): Handwoven straw crossbody bag with adjustable strap. Sustainable, lightweight, and timeless. Perfect for everyday elegance. Shop eco-luxury at Greemnest.
-  Updated: 2026-01-08T19:20:01Z
+  Updated: 2026-01-16T20:29:07Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -706,8 +593,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/ac548c2378f248e88a8823f9284b5f2b-Max-Origin.webp?v=1767899284
     Price: €50.99 EUR
-- [Leather Zipper Shoulder Bag](https://greemnest.store/products/leather-zipper-shoulder-bag): Bag size:Mini Material:PU Leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Height Actual Length One Size 6.3 9.1
-  Updated: 2026-01-08T20:24:34Z
+- [Leather Zipper Shoulder Bag | Mini PU Leather Crossbody Bag | Greemnest](https://greemnest.store/products/leather-zipper-shoulder-bag): Secure mini leather shoulder bag with zipper closure. Premium PU leather, compact design, reliable protection. Perfect for travel and daily wear. Shop at Greemnest.
+  Updated: 2026-01-16T20:28:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -728,8 +615,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/ee69b19a-d5ee-486b-8fb9-e5955be3422c-Max-Origin.webp?v=1767903850
     Price: €87.99 EUR
-- [Stylish Crescent Hobo Crossbody Bag](https://greemnest.store/products/stylish-crescent-hobo-crossbody-bag): Bag size:Small Material:PU Leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 9.8
-  Updated: 2026-01-08T20:30:08Z
+- [Crescent Hobo Crossbody Bag | Small PU Leather Shoulder Bag | Greemnest](https://greemnest.store/products/stylish-crescent-hobo-crossbody-bag): Stylish crescent hobo crossbody bag. Unique curved shape, premium PU leather, ultra-lightweight. Modern bohemian elegance. Shop at Greemnest.
+  Updated: 2026-01-16T20:28:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -750,8 +637,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/d8fda46f47114a42b479e9458c8ad080-Max-Origin.webp?v=1767904165
     Price: €68.99 EUR
-- [Hobo Crossbody Bag with Coin Purse](https://greemnest.store/products/hobo-crossbody-bag-with-coin-purse): Bag size:Medium Material:Canvas Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 11
-  Updated: 2026-01-08T20:32:03Z
+- [Hobo Crossbody Bag with Coin Purse | Canvas Shoulder Bag Set | Greemnest](https://greemnest.store/products/hobo-crossbody-bag-with-coin-purse): Canvas hobo crossbody bag with matching coin purse. 2-piece set, eco-friendly, bohemian style. Perfect for daily wear. Shop sustainable bags at Greemnest.
+  Updated: 2026-01-16T20:28:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -772,15 +659,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/e44be37b-effd-4ac2-a6fc-05b5c0564688-Max-Origin.webp?v=1767904271
     Price: €120.99 EUR
-- [Denim Shoulder Bag with Leather Handle](https://greemnest.store/products/denim-shoulder-bag-with-leather-handle): Bag size:Medium Material:PU Leather,Denim Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Height Actual Length One Size 9.8 11
-  Updated: 2026-01-08T20:32:20Z
+- [Denim Shoulder Bag with Leather Handle | Casual PU Leather Tote | Greemnest](https://greemnest.store/products/denim-shoulder-bag-with-leather-handle): Casual denim shoulder bag with PU leather handles. Eco-conscious, lightweight, versatile style. Perfect for weekends and errands. Shop at Greemnest.
+  Updated: 2026-01-16T20:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/8555ee8d-6bfa-485b-b64c-b2fc386e63f7-Max-Origin.webp?v=1767904306
-  Price: €24.86 EUR
-- [Butterfly Decor Lace-Up Shoulder Bag](https://greemnest.store/products/butterfly-decor-lace-up-shoulder-bag): Bag size:Medium Material:Suede Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Height Actual Length One Size 10.2 11.8
-  Updated: 2026-01-08T20:32:48Z
+  Price: €58.99 EUR
+- [Butterfly Decor Lace-Up Shoulder Bag | Suede Bohemian Bag | Greemnest](https://greemnest.store/products/butterfly-decor-lace-up-shoulder-bag): Whimsical butterfly shoulder bag with lace-up details. Premium suede, ultra-lightweight, bohemian charm. Perfect for festivals and free spirits. Shop at Greemnest.
+  Updated: 2026-01-16T20:27:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -793,8 +680,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/e8184b2a-facf-41d5-96b1-33ff5bfb4622-Max-Origin.webp?v=1767904335
     Price: €54.99 EUR
-- [PU Leather Removable Strap Crossbody Bag](https://greemnest.store/products/pu-leather-removable-strap-crossbody-bag): Bag size: Large Material: PU leather, Polyester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height One Size 15.7 3.1 9.4
-  Updated: 2026-01-08T20:33:30Z
+- [PU Leather Removable Strap Crossbody Bag | Large Versatile Shoulder Bag | Greemnest](https://greemnest.store/products/pu-leather-removable-strap-crossbody-bag): Large PU leather crossbody with removable strap. Versatile 3-in-1 design, spacious capacity, vegan leather. Perfect for work and weekends. Shop at Greemnest.
+  Updated: 2026-01-16T20:27:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -811,8 +698,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/19ea8221-3153-4d40-baa1-2e9bb40e4df0-Max.webp?v=1767904376
     Price: €160.99 EUR
-- [Suede Crossbody Bag with Adjustable Shoulder Strap](https://greemnest.store/products/suede-crossbody-bag-with-adjustable-shoulder-strap): Bag size:Mini Material:Suede Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 8.3
-  Updated: 2026-01-08T20:34:10Z
+- [Suede Crossbody Bag with Adjustable Strap | Mini Luxury Bag | Greemnest](https://greemnest.store/products/suede-crossbody-bag-with-adjustable-shoulder-strap): Premium suede crossbody bag with adjustable shoulder strap. Compact mini design, luxurious texture, versatile style. Perfect for everyday elegance. Shop at Greemnest.
+  Updated: 2026-01-16T20:26:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -833,39 +720,179 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/a7a7b387-f5ba-4e1f-8136-d90a725a57f0-Max-Origin.webp?v=1767904417
     Price: €65.99 EUR
+- [Flap Closure Shoulder Bag | Small PU Leather Crossbody Bag | Greemnest](https://greemnest.store/products/flap-closure-shoulder-bag): Classic flap closure shoulder bag. Premium PU leather, compact design, versatile carry. Timeless elegance for any occasion. Shop at Greemnest.
+  Updated: 2026-01-16T20:26:35Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/c10c8b7f-8934-4b48-bd92-c859a7878d50-Max-Origin.webp?v=1767987633
+  - [Brown / One Size](https://greemnest.store/products/flap-closure-shoulder-bag?variant=47560997273856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/48ebf3da-c414-4338-afc0-547bc16dcbde-Max-Origin.webp?v=1767987631
+    Price: €66.99 EUR
+  - [Black / One Size](https://greemnest.store/products/flap-closure-shoulder-bag?variant=47560997306624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/f0a6e0f2-d742-49f3-8dff-836617b00e21-Max-Origin.webp?v=1767987631
+    Price: €66.99 EUR
+- [Vintage Barrel Crossbody Bag | Small Suede PU Leather Bag | Greemnest](https://greemnest.store/products/vintage-barrel-crossbody-bag): Vintage barrel crossbody bag. Unique cylindrical shape, suede & PU leather, ultra-lightweight. Retro charm for modern style. Shop at Greemnest.
+  Updated: 2026-01-16T20:26:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/6509be26b915451cbde9a68b66759980-Max-Origin.webp?v=1767987687
+  Price: €72.99 EUR
+- [Leather Textured Shoulder Bag | Premium PU Leather Handbag | Greemnest](https://greemnest.store/products/leather-textured-shoulder-bag): Premium textured leather shoulder bag. Distinctive embossed pattern, spacious design, vegan leather. Perfect for work and weekends. Shop at Greemnest.
+  Updated: 2026-01-16T20:25:54Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/3e0c41e5-91e2-4968-b887-c7e04e9cd9ba-Max-Origin.webp?v=1767987727
+  - [Black / One Size](https://greemnest.store/products/leather-textured-shoulder-bag?variant=47560997667072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/642b595c-3676-43f0-b418-4fb82b3cad07-Max-Origin.webp?v=1767987727
+    Price: €67.99 EUR
+  - [Beige / One Size](https://greemnest.store/products/leather-textured-shoulder-bag?variant=47560997699840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/023adab0-1883-4c2f-970f-a8364a7d001a-Max-Origin.webp?v=1767987727
+    Price: €67.99 EUR
+  - [Brown / One Size](https://greemnest.store/products/leather-textured-shoulder-bag?variant=47560997732608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/18e64b57-c61d-42c5-9f0f-354ce61832eb-Max-Origin.webp?v=1767987727
+    Price: €67.99 EUR
+- [Woven Straw Crossbody Bag | Handwoven Natural Fiber Shoulder Bag | Greemnest](https://greemnest.store/products/woven-straw-crossbody-bag-1): Handwoven straw crossbody bag. Natural fibers, artisan-crafted, eco-friendly. Perfect for beach, markets, summer style. Shop sustainable luxury at Greemnest.
+  Updated: 2026-01-16T20:25:34Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/72bcdce7-0e7d-4f4f-8749-393ca7cc0711-Max-Origin.webp?v=1767988008
+  - [Brown / One Size](https://greemnest.store/products/woven-straw-crossbody-bag-1?variant=47560999665920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/72bcdce7-0e7d-4f4f-8749-393ca7cc0711-Max-Origin.webp?v=1767988008
+    Price: €56.99 EUR
+  - [Pastel  Blue / One Size](https://greemnest.store/products/woven-straw-crossbody-bag-1?variant=47560999698688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/7d6ea73a-84db-42a0-a894-16d50c59afa7-Max-Origin.webp?v=1767988008
+    Price: €56.99 EUR
+  - [Black / One Size](https://greemnest.store/products/woven-straw-crossbody-bag-1?variant=47560999731456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/81217d19-70d3-4c16-89ee-67203c689ff9-Max-Origin.webp?v=1767988009
+    Price: €56.99 EUR
+  - [White / One Size](https://greemnest.store/products/woven-straw-crossbody-bag-1?variant=47560999764224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/41885b76-c14b-4bc0-a9ef-8fc589745714-Max-Origin.webp?v=1767988008
+    Price: €56.99 EUR
+- [Top Handle Crossbody Bag | Suede Dual Carry Shoulder Bag | Greemnest](https://greemnest.store/products/top-handle-crossbody-bag): Premium suede crossbody with top handle. Dual carry options, ultra-lightweight, compact design. Versatile elegance for day to night. Shop at Greemnest.
+  Updated: 2026-01-16T20:25:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/169e3e1dc187427d8fb2eca52b0ad436-Max-Origin.webp?v=1767988046
+  - [Brown / One Size](https://greemnest.store/products/top-handle-crossbody-bag?variant=47560999960832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/b5407605-162d-4e2f-b032-3f93dfd230b8-Max-Origin.webp?v=1767988046
+    Price: €72.99 EUR
+  - [Chocolate / One Size](https://greemnest.store/products/top-handle-crossbody-bag?variant=47560999993600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/628004d9-a699-4795-87f1-48fc3ca4cfa3-Max-Origin.webp?v=1767988046
+    Price: €72.99 EUR
+  - [Green / One Size](https://greemnest.store/products/top-handle-crossbody-bag?variant=47561000026368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/b7ecd66b9bc94893817bb8229429fe00-Max-Origin.webp?v=1767988046
+    Price: €72.99 EUR
+  - [Khaki / One Size](https://greemnest.store/products/top-handle-crossbody-bag?variant=47561000059136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/6da7f3d74a554ba8afb8dd20ab23e269-Max-Origin.webp?v=1767988046
+    Price: €72.99 EUR
+- [Vintage Leather Crossbody Bag | Premium PU Leather Shoulder Bag | Greemnest](https://greemnest.store/products/vintage-style-leather-crossbody-bag): Premium vintage leather crossbody bag. Soft PU leather, adjustable strap, compact design. Timeless elegance for everyday wear. Eco-luxury at Greemnest.
+  Updated: 2026-01-16T20:24:53Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/03231bbc-3d20-4b98-a5f5-973590526ae0-Max-Origin.webp?v=1767988769
+  Price: €78.99 EUR
+- [Geometric Woven Crossbody Bag | Handwoven Adjustable Strap | Greemnest](https://greemnest.store/products/geometric-adjustable-strap-crossbody-bag): Handwoven geometric crossbody bag. Artisan-crafted, ultra-lightweight, adjustable strap. Sustainable bohemian style. Shop eco-luxury at Greemnest.
+  Updated: 2026-01-16T20:24:34Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/76f2748f-3c09-40b3-8229-3700e71872a3-Max.webp?v=1767988858
+  - [Red / One Size](https://greemnest.store/products/geometric-adjustable-strap-crossbody-bag?variant=47561005924608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/05b74efd-d7cb-497b-9db0-66a56ecd792c-Max.webp?v=1767988858
+    Price: €67.99 EUR
+  - [Blue / One Size](https://greemnest.store/products/geometric-adjustable-strap-crossbody-bag?variant=47561005957376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/0b60b3ee-05a9-41fc-ad95-d2112d0b6724-Max.webp?v=1767988858
+    Price: €67.99 EUR
+  - [Black / One Size](https://greemnest.store/products/geometric-adjustable-strap-crossbody-bag?variant=47561005990144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/33905248-fea7-4a0b-985e-cfc2ff0501b4-Max.webp?v=1767988858
+    Price: €67.99 EUR
+- [Vintage Leather Shoulder Bag | Classic PU Leather Handbag | Greemnest](https://greemnest.store/products/vintage-style-leather-shoulder-bag-1): Timeless vintage leather shoulder bag. Premium PU leather, spacious design, classic elegance. Perfect for work and weekends. Shop vegan luxury at Greemnest.
+  Updated: 2026-01-16T20:24:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/13ae6b5c-8106-4d47-aa3c-0d2bcd9d7c7f-Max-Origin.webp?v=1767988926
+  Price: €71.99 EUR
+- [Color Block Crossbody Bag | Flap Top Handle PU Leather Bag | Greemnest](https://greemnest.store/products/color-block-flap-crossbody-bag-with-top-handle): Bold color block crossbody bag with flap closure and top handle. Premium PU leather, dual carry options, modern style. Shop vegan luxury at Greemnest.
+  Updated: 2026-01-16T20:23:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/59d3b6156b254579b086df5f314b4c34-Max-Origin.webp?v=1767989024
+  - [Black / One Size](https://greemnest.store/products/color-block-flap-crossbody-bag-with-top-handle?variant=47561006645504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/59d3b6156b254579b086df5f314b4c34-Max-Origin.webp?v=1767989024
+    Price: €65.66 EUR
+  - [Blue / One Size](https://greemnest.store/products/color-block-flap-crossbody-bag-with-top-handle?variant=47561006678272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/4415f37055b5446389098cde426127e2-Max-Origin.webp?v=1767989024
+    Price: €65.66 EUR
+  - [Brown / One Size](https://greemnest.store/products/color-block-flap-crossbody-bag-with-top-handle?variant=47561006711040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/288177ec-681a-49ee-af1e-0b00c0eae2c4-Max-Origin.webp?v=1767989024
+    Price: €65.66 EUR
+- [Knitted Tote Bag with Faux Leather Handles | Handwoven Shoulder Bag | Greemnest](https://greemnest.store/products/fame-faux-leather-handle-knitted-tote-bag): Handwoven knitted tote bag with faux leather handles. Unique artisan texture, spacious design, eco-conscious materials. Shop sustainable luxury at Greemnest.
+  Updated: 2026-01-16T20:23:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/de5bcf7c-c75f-4a85-8192-dc4d56693be4-Max.webp?v=1767989055
+  Price: €57.99 EUR
 
 ## Collections
 
 - [Handwoven Straw Crossbody Bags - Natural Shoulder Bags | Greemnest](https://greemnest.store/collections/crossbody-bags): Handmade straw crossbody bags with adjustable straps. Lightweight, stylish, and crafted from premium natural materials. Shop hands-free elegance.
-  Updated: 2026-01-08T19:10:36Z
-  Total Products: 2
+  Updated: 2026-01-15T20:23:11Z
+  Total Products: 3
 - [Handwoven Straw Bag Gifts - Unique Natural Bag Presents | Greemnest](https://greemnest.store/collections/gift-ideas): Shop handmade straw bags as gifts. Unique, sustainable, and beautifully crafted from natural materials. Perfect presents for any occasion.
-  Updated: 2026-01-08T19:09:49Z
-  Total Products: 6
+  Updated: 2026-01-15T20:23:11Z
+  Total Products: 1
 - [Something that you love](https://greemnest.store/collections/something-that-you-love): Something that you love
-  Updated: 2026-01-08T19:10:36Z
-  Total Products: 30
-- [Handwoven Tote Bags - Premium Natural Fiber Bags - Greemnest](https://greemnest.store/collections/tote-bags): Shop luxury handwoven tote bags crafted from sustainable materials. Premium straw, bamboo & rattan designs. Artisanal craftsmanship meets eco-luxury.
-  Updated: 2026-01-08T20:02:04Z
-  Total Products: 12
-- [Handwoven Crossbody Bags - Natural Fiber Crossbody - Greemnest](https://greemnest.store/collections/cross-bags): Luxury handwoven crossbody bags crafted from sustainable rattan, bamboo & cork. Artisan-made with eco-friendly materials. Shop premium natural fiber bags.
-  Updated: 2026-01-08T20:34:05Z
+  Updated: 2026-01-15T20:23:11Z
   Total Products: 23
+- [Handwoven Tote Bags - Premium Natural Fiber Bags - Greemnest](https://greemnest.store/collections/tote-bags): Shop luxury handwoven tote bags crafted from sustainable materials. Premium straw, bamboo & rattan designs. Artisanal craftsmanship meets eco-luxury.
+  Updated: 2026-01-15T20:23:11Z
+  Total Products: 10
+- [Handwoven Crossbody Bags - Natural Fiber Crossbody - Greemnest](https://greemnest.store/collections/cross-bags): Luxury handwoven crossbody bags crafted from sustainable rattan, bamboo & cork. Artisan-made with eco-friendly materials. Shop premium natural fiber bags.
+  Updated: 2026-01-15T20:23:11Z
+  Total Products: 29
 - [Handwoven Beach Bags - Natural Straw & Seagrass Totes - Greemnest](https://greemnest.store/collections/beach-bags): Premium handwoven beach bags crafted from sustainable seagrass, straw & rattan. Spacious, durable & artisan-made. Eco-luxury for coastal living.
-  Updated: 2026-01-08T20:05:09Z
+  Updated: 2026-01-15T20:23:11Z
   Total Products: 4
 - [Handwoven Shoulder Bags - Premium Natural Fiber Bags - Greemnest](https://greemnest.store/collections/shoulder-bags): Luxury handwoven shoulder bags crafted from sustainable bamboo, rattan & straw. Artisan-made with eco-friendly materials. Timeless design meets ethical fashion.
-  Updated: 2026-01-08T20:34:05Z
-  Total Products: 16
+  Updated: 2026-01-15T20:23:11Z
+  Total Products: 27
 - [Handwoven Backpacks - Sustainable Natural Fiber Rucksacks - Greemnest](https://greemnest.store/collections/backpacks): Luxury handwoven backpacks crafted from sustainable bamboo, rattan & cork. Artisan-made eco-friendly bags. Functional design meets ethical craftsmanship.
-  Updated: 2026-01-08T20:06:22Z
+  Updated: 2026-01-15T20:23:11Z
   Total Products: 1
 - [Handwoven Hobo Bags - Natural Straw & Rattan Slouch Bags - Greemnest](https://greemnest.store/collections/hobo-bags): Premium handwoven hobo bags made from sustainable seagrass, straw & bamboo. Artisan-crafted slouchy bags. Relaxed luxury meets eco-friendly design.
-  Updated: 2026-01-08T20:31:39Z
+  Updated: 2026-01-15T20:23:11Z
   Total Products: 3
 - [Handwoven Mini Bags - Small Natural Fiber Crossbody Bags - Greemnest](https://greemnest.store/collections/mini-bags): Luxury handwoven mini bags crafted from sustainable rattan, bamboo & straw. Artisan-made small bags. Compact design meets eco-conscious style.
-  Updated: 2026-01-08T20:08:03Z
-  Total Products: 2
+  Updated: 2026-01-15T20:23:11Z
+  Total Products: 4
 
 ## Blogs
 
@@ -1248,7 +1275,7 @@
     Author: My Store Admin
     Tags: carbon footprint, climate action, eco-friendly, renewable materials, sustainable fashion
   - [Zero Waste Living: How Natural Material Bags Support Your Journey](https://greemnest.store/blogs/latest-news-and-trending-stories/zero-waste-living-natural-material-bags): Zero Waste Living: How Natural Material Bags Support Your Journey
-    Updated: 2026-01-02T18:01:16Z
+    Updated: 2026-01-17T22:01:56Z
     Author: My Store Admin
     Tags: biodegradable, eco-friendly, natural materials, sustainable living, zero waste
   - [Conscious Consumerism: Making Every Purchase Count in 2026](https://greemnest.store/blogs/latest-news-and-trending-stories/conscious-consumerism-2026-guide): Conscious Consumerism: Making Every Purchase Count in 2026
@@ -1262,71 +1289,75 @@
 
 ## Store Pages
 
-- [Contact Greemnest | Premium Handwoven Bags - Customer Support](https://greemnest.store/pages/contact): TRADE NAME: Greemnest PHONE NUMBER: +923158776286 EMAIL: greemnest@gmail.com
-  Updated: 2026-01-01T14:04:59Z
+- [Contact Us | Greemnest Premium Handwoven Bags - Customer Service & Support](https://greemnest.store/pages/contact): Get in Touch Have questions about our handwoven bags, orders, or sustainability practices? We're here to help! Reach out and we'll respond within 2...
+  Updated: 2026-01-15T17:57:25Z
 - [Your Privacy Choices | Data Sharing Opt-Out - Greemnest](https://greemnest.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-06T20:38:24Z
-- [Collaborations & Partnerships | Work with Greemnest](https://greemnest.store/pages/collab): Collaborate with GreemnestWelcome to Greemnest's collaboration hub. We believe in the power of partnerships to amplify sustainable fashion and supp...
-  Updated: 2026-01-01T14:07:36Z
+  Updated: 2026-01-16T18:54:42Z
+- [Collaborations & Partnerships | Work with Greemnest](https://greemnest.store/pages/collab): Let's Create Something Beautiful Together Greemnest partners with brands, influencers, artists, and organizations who share our passion for sustain...
+  Updated: 2026-01-09T13:16:59Z
 - [ & Partnership Network | Join Greemnest](https://greemnest.store/pages/valuable-network): 
   Updated: 2026-01-01T21:01:03Z
 - [Submit Your Review | Share Your Greemnest Experience](https://greemnest.store/pages/review-submission): In the realm of e-commerce, customer feedback plays a pivotal role in shaping product offerings and enhancing service quality. Reviews serve as a v...
   Updated: 2026-01-01T14:08:47Z
 - [Blog](https://greemnest.store/pages/blog): In recent years, the demand for eco-friendly products has surged significantly, driven by increased awareness of environmental issues and the impac...
   Updated: 2025-12-22T14:19:59Z
-- [Green Rewards Loyalty Program | Earn Points - Greemnest](https://greemnest.store/pages/green-reward-loyalty-program): 🌿 Greemnest Green RewardsShop More. Earn More. Protect Nature.At Greemnest, every purchase helps keep the planet clean. Join our Green Rewards Prog...
-  Updated: 2026-01-01T14:09:05Z
-- [About Greemnest | Sustainable Handwoven Bags & Artisan Craftsmanship](https://greemnest.store/pages/about-us): About Greemnest - Handwoven Luxury with PurposeWelcome to Greemnest, where traditional artisan craftsmanship meets contemporary sustainable luxury....
-  Updated: 2026-01-01T14:09:47Z
-- [Shipping & Returns | Free EU Shipping Over €75 - Greemnest](https://greemnest.store/pages/shipping-returns): Shipping & Returns PolicyAt Greemnest, we want your shopping experience to be as smooth and sustainable as our handwoven bags. Here's everything yo...
-  Updated: 2026-01-01T14:10:19Z
+- [Green Rewards Loyalty Program | Earn Points - Greemnest](https://greemnest.store/pages/green-reward-loyalty-program): Green Rewards Loyalty Program Earn points every time you shop, share, and engage with Greemnest. Redeem for discounts on premium handwoven bags and...
+  Updated: 2026-01-09T13:14:19Z
+- [About Greemnest | Sustainable Handwoven Bags & Artisan Craftsmanship](https://greemnest.store/pages/about-us): Welcome to Greemnest Where Artisan Tradition Meets Sustainable Luxury We create premium handwoven bags from natural materials—pieces that honor cra...
+  Updated: 2026-01-09T12:13:01Z
+- [Shipping & Returns | Free EU Shipping Over €75 - Greemnest](https://greemnest.store/pages/shipping-returns): Shipping & Returns We want you to love your Greemnest bag. Here's everything you need to know about shipping, delivery, and our hassle-free return ...
+  Updated: 2026-01-09T12:54:01Z
 - [FAQ - Handwoven Bags Care, Shipping & Returns | Greemnest](https://greemnest.store/pages/faq): Frequently Asked QuestionsFind answers to common questions about Greemnest handwoven bags, materials, care, shipping, and more.About Our BagsWhat m...
   Updated: 2026-01-01T14:10:40Z
-- [Our Sustainability Commitment | Eco-Friendly Handwoven Bags - Greemnest](https://greemnest.store/pages/sustainability): Sustainability at GreemnestSustainability isn't just a value at Greemnest—it's woven into every fiber of who we are and what we create. From the ma...
-  Updated: 2026-01-01T14:10:52Z
+- [Our Sustainability Commitment | Eco-Friendly Handwoven Bags - Greemnest](https://greemnest.store/pages/sustainability): Sustainability Isn't a Trend. It's Our Foundation. At Greemnest, sustainability isn't marketing—it's how we operate. From the materials we source t...
+  Updated: 2026-01-09T12:10:18Z
 - [Terms of Service | Greemnest](https://greemnest.store/pages/terms-of-service): Terms of ServiceLast Updated: January 1, 20261. Agreement to TermsBy accessing and using Greemnest (greemnest.store), you agree to be bound by thes...
   Updated: 2026-01-01T14:16:58Z
 - [Privacy Policy | GDPR Compliant - Greemnest](https://greemnest.store/pages/privacy-policy): Privacy PolicyLast Updated: January 1, 2026IntroductionAt Greemnest, we are committed to protecting your privacy and personal data. This Privacy Po...
   Updated: 2026-01-01T14:17:19Z
-- [Refund Policy | 30-Day Money-Back Guarantee - Greemnest](https://greemnest.store/pages/refund-policy): Refund PolicyLast Updated: January 1, 2026Our Commitment to Your SatisfactionAt Greemnest, we want you to love your handwoven bag. If you're not co...
-  Updated: 2026-01-01T14:17:30Z
-- [About Greemnest - Our Story, Mission & Values | Quality Products & Exceptional Service](https://greemnest.store/pages/about-us-1): Welcome to Greemnest - Where Quality Meets PurposeAt Greemnest, we're more than just an online store—we're a community dedicated to bringing you ca...
-  Updated: 2026-01-03T18:39:31Z
-- [FAQ - Frequently Asked Questions | Greemnest Customer Support](https://greemnest.store/pages/frequently-asked-questions): Frequently Asked QuestionsWelcome to our FAQ page! Here you'll find answers to the most common questions about shopping with Greemnest. If you can'...
-  Updated: 2026-01-03T18:48:04Z
-- [Size Guide - Find Your Perfect Fit | Greemnest](https://greemnest.store/pages/size-guide): Size GuideFinding the perfect fit is important to us! Use this comprehensive size guide to help you choose the right size for your purchase.How to ...
-  Updated: 2026-01-03T18:52:41Z
-- [Wholesale & Business Inquiries - Partner with Greemnest](https://greemnest.store/pages/wholesale-business-inquiries): Wholesale & Business OpportunitiesThank you for your interest in partnering with Greemnest! We welcome wholesale inquiries and business collaborati...
-  Updated: 2026-01-03T18:52:59Z
+- [Refund Policy | 30-Day Money-Back Guarantee - Greemnest](https://greemnest.store/pages/refund-policy): Refund & Returns Policy Last updated: January 15, 2026 At Greemnest, we stand behind the quality of our premium handwoven bags. Your satisfaction i...
+  Updated: 2026-01-15T18:05:03Z
+- [About Greemnest - Our Story, Mission & Values | Quality Products & Exceptional Service](https://greemnest.store/pages/about-us-1): Handwoven with Purpose, Crafted with Care At Greemnest, every bag tells a story—of skilled artisans, sustainable materials, and timeless design. We...
+  Updated: 2026-01-09T12:00:49Z
+- [FAQ - Frequently Asked Questions | Greemnest Customer Support](https://greemnest.store/pages/frequently-asked-questions): Frequently Asked Questions Find quick answers to common questions about our handwoven bags, ordering, shipping, and more. Can't find what you're lo...
+  Updated: 2026-01-09T12:15:21Z
+- [Size Guide - Find Your Perfect Fit | Greemnest](https://greemnest.store/pages/size-guide): Size Guide Find your perfect Greemnest bag with our comprehensive size guide. From compact clutches to spacious totes, we'll help you choose the ri...
+  Updated: 2026-01-09T12:58:26Z
+- [Wholesale & Business Inquiries - Partner with Greemnest](https://greemnest.store/pages/wholesale-business-inquiries): Partner with Greemnest Join retailers, boutiques, and businesses worldwide in offering premium handwoven bags that combine artisan craftsmanship, s...
+  Updated: 2026-01-09T13:07:11Z
 - [Careers at Greemnest - Join Our Team | Job Opportunities](https://greemnest.store/pages/careers): Join the Greemnest TeamAt Greemnest, we're always looking for talented, passionate individuals to join our growing team. If you're excited about e-...
   Updated: 2026-01-03T18:53:10Z
-- [Gift Cards - Give the Perfect Gift | Greemnest](https://greemnest.store/pages/gift-cards): Greemnest Gift CardsGive the gift of choice with a Greemnest gift card! Perfect for any occasion, our gift cards let your loved ones choose exactly...
-  Updated: 2026-01-03T18:53:22Z
-- [Our Story - The Journey of Greemnest | How We Started](https://greemnest.store/pages/our-story): The Greemnest StoryEvery great business starts with a vision, and ours began with a simple belief: that shopping should be more than just a transac...
-  Updated: 2026-01-03T18:55:26Z
-- [Track Your Order - Greemnest Order Tracking & Shipping Updates](https://greemnest.store/pages/track-your-order): Track Your OrderWe know you're excited to receive your order! Use this page to track your package and see exactly where it is on its journey to you...
-  Updated: 2026-01-03T18:55:35Z
+- [Gift Cards - Give the Perfect Gift | Greemnest](https://greemnest.store/pages/gift-cards): Give the Gift of Sustainable Luxury Let them choose their perfect handwoven bag. Greemnest gift cards are delivered instantly, never expire, and su...
+  Updated: 2026-01-09T13:03:57Z
+- [Our Story - The Journey of Greemnest | How We Started](https://greemnest.store/pages/our-story): Every Bag Has a Story. This Is Ours. From a simple idea to a global movement for sustainable luxury—discover how Greemnest became the bridge betwee...
+  Updated: 2026-01-09T12:05:11Z
+- [Track Your Order - Greemnest Order Tracking & Shipping Updates](https://greemnest.store/pages/track-your-order): Track Your Order Stay updated on your Greemnest bag's journey to you. Enter your tracking number below or log in to view your order status. 📦 Have ...
+  Updated: 2026-01-09T13:00:34Z
 - [Payment Methods - Secure Payment Options | Greemnest](https://greemnest.store/pages/payment-methods): Payment MethodsAt Greemnest, we offer a variety of secure payment options to make your shopping experience convenient and safe.Accepted Payment Met...
   Updated: 2026-01-03T18:55:52Z
 - [ Program - Earn Money Promoting Greemnest | Join Today](https://greemnest.store/pages/-program): Join the Greemnest  ProgramLove Greemnest? Share it with your audience and earn  on every ! Our  program is perfect...
   Updated: 2026-01-03T18:57:34Z
 - [Accessibility Statement - Our Commitment to Inclusive Shopping | Greemnest](https://greemnest.store/pages/accessibility-statement): Accessibility StatementAt Greemnest, we're committed to ensuring that our website is accessible to everyone, including people with disabilities. We...
   Updated: 2026-01-03T18:57:47Z
-- [Press & Media - Greemnest News, Media Kit & Press Releases](https://greemnest.store/pages/press-media): Press & MediaWelcome to the Greemnest press and media center. Here you'll find resources, information, and contact details for media inquiries.Abou...
-  Updated: 2026-01-03T18:58:04Z
+- [Press & Media - Greemnest News, Media Kit & Press Releases](https://greemnest.store/pages/press-media): Press & Media Welcome to the Greemnest press room. Find everything you need to cover our story—from brand assets and press releases to product info...
+  Updated: 2026-01-09T13:19:53Z
 - [Sitemap - Navigate Greemnest Website | All Pages & Links](https://greemnest.store/pages/sitemap): SitemapWelcome to the Greemnest sitemap. Use this page to quickly navigate to any section of our website.Shop All Products New Arrivals Best Seller...
   Updated: 2026-01-03T18:58:25Z
+- [Eco-Friendly Materials FAQ - Sustainable Handwoven Bags](https://greemnest.store/pages/eco-friendly-materials-faq): Your Questions About Our Sustainable Materials, Answered Every Greemnest bag tells a story of craftsmanship, sustainability, and timeless style. He...
+  Updated: 2026-01-09T11:58:28Z
 
 ## Policies
 
 - [Privacy Policy](https://greemnest.store/policies/privacy-policy)
   Updated: 2025-12-04T22:43:42+05:00
+- [Shipping Policy](https://greemnest.store/policies/shipping-policy)
+  Updated: 2026-01-16T15:16:52+05:00
 - [Refund Policy](https://greemnest.store/policies/refund-policy)
-  Updated: 2025-12-07T00:11:26+05:00
+  Updated: 2026-01-18T00:12:51+05:00
 - [Terms of Service](https://greemnest.store/policies/terms-of-service)
-  Updated: 2025-12-11T01:36:29+05:00
+  Updated: 2026-01-16T15:12:59+05:00
 - [Contact Information](https://greemnest.store/policies/contact-information)
-  Updated: 2025-12-07T00:12:32+05:00
+  Updated: 2026-01-16T15:21:03+05:00
 
 ## Optional
 
