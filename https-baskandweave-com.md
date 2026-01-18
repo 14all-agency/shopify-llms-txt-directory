@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2026-01-11T00:00:43.776Z
+- Updated At: 2026-01-18T00:00:46.838Z
 
 ## Products
 
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-classic-tee-cardinal-front-2-678e2f32979ca.jpg?v=1737371659
     Price: $26.00 USD
 - [Men's Softstyle T-Shirt – Ultra-Soft, Comfortable & Stylish](https://baskandweave.com/products/short-sleeve-mens-t-shirt): Experience all-day comfort with our Men's Softstyle T-Shirt. Made from ultra-soft fabric for a smooth feel, perfect for casual and everyday wear.
-  Updated: 2025-10-29T23:28:32Z
+  Updated: 2026-01-13T07:09:53Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -4408,7 +4408,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-heavyweight-long-sleeve-shirt-ecru-front-678e54b245688.jpg?v=1737381134
     Price: $45.00 USD
 - [Men's Embroidered T-Shirt – Stylish Custom Staple Tee](https://baskandweave.com/products/mens-embroidered-t-shirt): Shop the Men's Embroidered T-Shirt for a sleek and timeless look. This stylish custom staple tee offers premium comfort and refined embroidery for everyday wear
-  Updated: 2025-10-30T23:49:21Z
+  Updated: 2026-01-13T02:29:12Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -6057,7 +6057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/faux-leather-bomber-jacket-brown-front-67922f91e8329.jpg?v=1737829597
     Price: $102.00 USD
 - [Men's Bomber Jacket – All-Over Print Stylish Outerwear](https://baskandweave.com/products/mens-all-over-print-bomber-jacket): Shop the men's bomber jacket with all-over print design. This stylish bomber delivers comfort, bold patterns, and a perfect fit for modern streetwear fashion.
-  Updated: 2025-11-01T23:46:17Z
+  Updated: 2026-01-12T12:57:34Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -15841,7 +15841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-bodycon-dress-white-front-6796860a115df.jpg?v=1737918376
     Price: $41.50 USD
 - [Women's Skater Dress – Trendy, Flowy & Stylish Outfits](https://baskandweave.com/products/all-over-print-womens-skater-dress): Step out in confidence with our women's skater dress, designed for comfort and style. Shop trendy, flattering, and flowy dresses perfect for any occasion.
-  Updated: 2025-11-03T23:21:40Z
+  Updated: 2026-01-13T01:15:23Z
   Vendor: Bask & Weave
   Product Type: Dresses
   Availability: Available
@@ -17101,7 +17101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-raglan-hoodie-white-front-6796a9fc65274.jpg?v=1737941526
     Price: $67.00 USD
 - [Women's Oversized Hoodie – Cozy, Stylish & Relaxed Fit](https://baskandweave.com/products/womens-oversized-hoodie): Shop our women's oversized hoodie for the perfect blend of comfort and style. Stay warm, relaxed, and effortlessly fashionable.
-  Updated: 2025-11-04T00:07:20Z
+  Updated: 2026-01-11T13:43:43Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -19687,7 +19687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-sweatpants-pigment-light-blue-front-67a69b49681a5.jpg?v=1738973507
     Price: $69.50 USD
 - [Women's Leggings - All-Over Print Stylish Activewear](https://baskandweave.com/products/all-over-print-womens-leggings): Upgrade your style with our women's leggings featuring bold all-over prints. These comfortable, high-quality leggings are perfect for workouts or casual wear.
-  Updated: 2025-11-05T00:25:06Z
+  Updated: 2026-01-12T11:33:41Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
