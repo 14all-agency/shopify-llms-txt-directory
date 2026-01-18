@@ -10,7 +10,7 @@
 - Contact Email: allamazon04@gmail.com
 - Contact Phone: +13017542500
 - Address: 11910 Parklawn Drive; Suite U Rockville, MD  20852
-- Updated At: 2026-01-11T00:00:38.170Z
+- Updated At: 2026-01-18T00:00:39.642Z
 
 ## Products
 
@@ -1851,6 +1851,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Clean_Start_Bundle.jpg?v=1761249702
   Price: $18.99 USD
+- [Bachelorette Party Favors 10-Pack | Hangover, Mani, First Aid](https://kitusafe.com/products/bachelorette-party-survival-kit-10-pack): Save the squad with the Ultimate Bachelorette Survival Kit 10-Pack. Pre-packed with Hangover relief, Mani tools, and First Aid essentials. Only $10/guest!
+  Updated: 2026-01-17T07:18:19Z
+  Vendor: Kit U Safe
+  Product Type: Personal Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0615/3220/9357/files/Untitled_6.png?v=1768591911
+  Price: $99.99 USD
 
 ## Collections
 
@@ -1885,8 +1892,8 @@
   Updated: 2025-11-19T20:52:51Z
   Total Products: 3
 - [Smart Products Filter Index - Do not delete](https://kitusafe.com/collections/globofilter-best--products-index)
-  Updated: 2025-11-26T12:04:28Z
-  Total Products: 71
+  Updated: 2026-01-16T19:43:56Z
+  Total Products: 72
 - [Manicure Kits – Portable Nail Care Essentials | Kit U Safe](https://kitusafe.com/collections/manicure-kits): Manicure Kits from Kit U Safe include nail clippers, files, buffers, and wipes—compact, hygienic, and perfect for travel, events, or daily care.
   Updated: 2025-11-19T20:52:51Z
   Total Products: 3
@@ -1897,8 +1904,8 @@
   Updated: 2025-11-26T12:04:28Z
   Total Products: 5
 - [All Kits – Explore Every Kit U Safe Product | Kit U Safe](https://kitusafe.com/collections/all-kits): All Kits from Kit U Safe include every hygiene, travel, and care essential—explore our complete range of first aid, shower, period, and specialty kits.
-  Updated: 2025-11-26T12:04:28Z
-  Total Products: 71
+  Updated: 2026-01-16T19:43:56Z
+  Total Products: 72
 - [B2B Kits – Wholesale Hygiene & Safety Solutions | Kit U Safe](https://kitusafe.com/collections/b2b-kits): Explore B2B Kits to enhance your business collaborations. Learn how these kits can optimize your professional engagements.
   Updated: 2025-11-26T12:04:28Z
   Total Products: 10
@@ -1909,8 +1916,8 @@
   Updated: 2025-11-19T20:52:51Z
   Total Products: 11
 - [Bundles – Hygiene & Travel Essentials | Kit U Safe](https://kitusafe.com/collections/bundles): Bundles built for businesses, schools, and travelers. Kit U Safe combines hygiene, travel, and emergency kits for total on-the-go protection.
-  Updated: 2025-11-19T20:52:51Z
-  Total Products: 6
+  Updated: 2026-01-16T19:43:56Z
+  Total Products: 7
 
 ## Blogs
 
