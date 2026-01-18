@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-01-10T00:00:29.595Z
+- Updated At: 2026-01-18T00:00:36.051Z
 
 ## Products
 
@@ -234,8 +234,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-toilette-bebe-Bebe-Touriste-utilite.webp?v=1742085427
   Price: 23,90 € EUR
-- [Chancelière Poussette - DodoBébé™ -  BLUE](https://bebetouriste.com/products/chanceliere-poussette-strollerfootmuff-blue): 🎁Chancelière poussette BLUE : accessoire universel, confortable et chaud pour bébé. S'adapte à 95% des poussettes. Idéal pour des promenades en toute saison.
-  Updated: 2025-12-20T00:29:16Z
+- [Poussette Chancelière - DodoBébé™ -  BLUE](https://bebetouriste.com/products/chanceliere-poussette-strollerfootmuff-blue): 🎁Poussette chancelière BLUE : accessoire universel, confortable et chaud pour bébé. S'adapte à 95% des poussettes. Idéal pour des promenades en toute saison.
+  Updated: 2026-01-14T05:13:53Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -524,8 +524,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-jaune.webp?v=1742083352
   Price: 28,90 € EUR
-- [SAC A LANGER - BabyHandBag™ - Noir](https://bebetouriste.com/products/sac-a-langer-babybag-noir): Le sac à langer noir est l'accessoire polyvalent pour les parents actifs. Avec son organisation optimale, il vous accompagne dans toutes vos aventures avec bébé.
-  Updated: 2025-12-20T00:29:12Z
+- [SAC A LANGER - Noir - BabyHandBag™](https://bebetouriste.com/products/sac-a-langer-babybag-noir): Le sac à langer noir est l'accessoire polyvalent pour les parents actifs. Avec son organisation optimale, il vous accompagne dans toutes vos aventures avec bébé.
+  Updated: 2026-01-14T06:13:19Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -1055,7 +1055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-nomade-8-en-1-blanc-gris.png?v=1757791091
     Price: 34,50 € EUR
 - [Chauffe Biberon Nomade - HotMilk™ - Pile](https://bebetouriste.com/products/chauffe-biberon-nomade-hotmilk-pile): 🍼 Découvrez notre chauffe biberon nomade : réchauffez le lait parfaitement n'importe où ! Fini le stress des sorties avec bébé. Commandez maintenant !
-  Updated: 2025-12-20T00:29:14Z
+  Updated: 2026-01-17T19:09:22Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -3132,14 +3132,14 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-3-couleurs-noir-blanc-jaune.webp?v=1759274076
     Price: 89,50 € EUR
 - [Sac de couchage bébé | DodoSérénité™](https://bebetouriste.com/products/sac-de-couchage-bebe-dodoserenite): 🌙 Découvrez notre sac de couchage bébé sécurisant ! Sommeil ininterrompu, température idéale et tranquillité pour toute la famille. Nuits sereines garanties !
-  Updated: 2025-12-22T16:01:42Z
+  Updated: 2026-01-14T00:52:10Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sacs-de-couchage-bebe-vert-et_gris.webp?v=1759370171
   - [Vert](https://bebetouriste.com/products/sac-de-couchage-bebe-dodoserenite?variant=44918103244857)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-de-couchage-bebe-vert.webp?v=1759370269
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-de-couchage-bebe-vert.webp?v=1768351929
     Price: 48,50 € EUR
   - [Noir](https://bebetouriste.com/products/sac-de-couchage-bebe-dodoserenite?variant=44918103277625)
     Availability: Available
@@ -5491,18 +5491,388 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bleu-sku_20526.jpg?v=1767753725
     Price: 58,50 € EUR
-[List Continued](https://bebetouriste.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTQwMTE4MDMyNDQxLCJsYXN0X3ZhbHVlIjoiODE0MDExODAzMjQ0MSJ9)
+- [Sac à Langer Bébé | BabyBag™](https://bebetouriste.com/products/sac-langer-bebe-babybag): 👜 Découvrez notre sac à langer élégant avec compartiments multiples. Simplifiez vos sorties avec bébé sans sacrifier votre style. Livraison offerte !
+  Updated: 2026-01-11T03:15:52Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-bebe-rose.jpg?v=1767962002
+  - [Noir](https://bebetouriste.com/products/sac-langer-bebe-babybag?variant=45327230926905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-bebe-noir.jpg?v=1767962019
+    Price: 44,50 € EUR
+  - [Rose](https://bebetouriste.com/products/sac-langer-bebe-babybag?variant=45327230959673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-rose.jpg?v=1767962036
+    Price: 44,50 € EUR
+  - [Gris](https://bebetouriste.com/products/sac-langer-bebe-babybag?variant=45327230992441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-langer-bebe-gris.jpg?v=1767962056
+    Price: 44,50 € EUR
+- [SAC A LANGER BEBE | Compact & Pliable™](https://bebetouriste.com/products/sac-a-langer-bebe-compact-pliable): 👜 Découvrez notre sac à langer pliable, compact et organisé pour des sorties sereines avec bébé. Polyester résistant, multiples compartiments !
+  Updated: 2026-01-11T03:16:25Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bebe-voyage-pliable.webp?v=1768070986
+  - [Bleu](https://bebetouriste.com/products/sac-a-langer-bebe-compact-pliable?variant=45327248949305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bebe-voyage-bleu.jpg?v=1768070925
+    Price: 44,50 € EUR
+  - [Gris](https://bebetouriste.com/products/sac-a-langer-bebe-compact-pliable?variant=45327248982073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bebe-voyage-gris.jpg?v=1768070925
+    Price: 44,50 € EUR
+  - [Noir](https://bebetouriste.com/products/sac-a-langer-bebe-compact-pliable?variant=45327249113145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-bebe.jpg?v=1768070925
+    Price: 44,50 € EUR
+- [CHANCELIERE BEBE CONFORT | CozyWinter™ | Rose, Rouge et Noir](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir): 🧸 Chancelière bébé confort : gardez votre petit au chaud lors des sorties hivernales. Un cocon douillet pour poussette qui offre chaleur et confort à bébé !
+  Updated: 2026-01-12T13:57:44Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir-pluie-bebe-confort.jpg?v=1768174773
+  - [Rouge](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707147833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rouge-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Noir](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707278905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Rose](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707311673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rose-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Rose poudre](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707377209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/poudre-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Rouge au points blancs](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707442745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/points-blancs-rouge-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Noir au points blancs](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707475513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir-points-blancs-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Noir avec grosses gouttes de pluie](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707508281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir-pluie-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+  - [Coccinelle](https://bebetouriste.com/products/chanceliere-bebe-confort-cozywinter-rose-rouge-et-noir?variant=45332707770425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/coccinelle-bebe-confort.jpg?v=1768174773
+    Price: 64,50 € EUR
+- [CHANCELIERE COSY HIVER | Multicolore™](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore): 👶Protégez votre bébé du froid avec la chancelière cosy hiver : isolation thermique optimale, confort douillet et praticité pour des promenades hivernales.
+  Updated: 2026-01-12T03:32:07Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noire-points-blancs.jpg?v=1768171887
+  - [Noir avec gouttes de pluie](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332709933113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gouttes-de-pluie.jpg?v=1768171280
+    Price: 89,50 € EUR
+  - [Leopard](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332709965881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/leopard.jpg?v=1768171209
+    Price: 89,50 € EUR
+  - [Cigales vertes](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332710031417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert-cigale.jpg?v=1768171253
+    Price: 89,50 € EUR
+  - [Carré vert](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332710096953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/carre-bleu.jpg?v=1768171334
+    Price: 89,50 € EUR
+  - [Coccinelle](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332710162489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/coccinelle.jpg?v=1768171193
+    Price: 89,50 € EUR
+  - [Rouge avec points blancs](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332711243833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rouge-points-blancs.jpg?v=1768171230
+    Price: 89,50 € EUR
+  - [Noir avec points blancs](https://bebetouriste.com/products/chanceliere-cosy-hiver-multicolore?variant=45332711276601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir-points-blancs-fourrure.jpg?v=1768171308
+    Price: 89,50 € EUR
+- [Chancelière Fourrure |  DouceHiver™](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver): 🧸 Protégez bébé du froid ! Chancelière fourrure douillette pour poussette, sortez sans crainte en hiver. Compatible toutes marques. Commandez maintenant !
+  Updated: 2026-01-12T05:08:06Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-rouge-fourrure.webp?v=1768157795
+  - [Gris](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754366521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gris-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [Vert](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754563129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/verte-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [Noir](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754595897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/noir-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [bleu - gris](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754628665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu-gris-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [acajou](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754661433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/acajou.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [Rose](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754694201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rose-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [Jaune](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754726969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/jaune-citron.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [vert armée](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754759737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert-armee.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [rouge flamme](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754792505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rouge-flamme.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [Rose B](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754858041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/poudre-rose-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [bleu vert](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754890809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu-vert.jpg?v=1768157795
+    Price: 89,50 € EUR
+  - [Rouge](https://bebetouriste.com/products/chanceliere-fourrure-doucehiver?variant=45332754989113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rouge-chanceliere.jpg?v=1768157795
+    Price: 89,50 € EUR
+- [Chancelière Cosy | Thermique™](https://bebetouriste.com/products/chanceliere-cosy-thermique): 🧸 Protégez bébé du froid! Chancelière cosy: cocon thermique pour poussette, compatible toutes saisons. Sorties hivernales sereines garanties!
+  Updated: 2026-01-12T05:54:45Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-bleu-gris.jpg?v=1768172776
+  - [Gris](https://bebetouriste.com/products/chanceliere-cosy-thermique?variant=45332852637753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-grise.jpg?v=1768172851
+    Price: 64,50 € EUR
+  - [Vert](https://bebetouriste.com/products/chanceliere-cosy-thermique?variant=45332852670521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-verte.jpg?v=1768172793
+    Price: 64,50 € EUR
+  - [Marron](https://bebetouriste.com/products/chanceliere-cosy-thermique?variant=45332852768825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-marron.jpg?v=1768172868
+    Price: 64,50 € EUR
+  - [Bleu gris](https://bebetouriste.com/products/chanceliere-cosy-thermique?variant=45332852834361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-bleu-gris.jpg?v=1768172776
+    Price: 64,50 € EUR
+  - [Gris léopard](https://bebetouriste.com/products/chanceliere-cosy-thermique?variant=45332852965433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-leopard.jpg?v=1768172832
+    Price: 64,50 € EUR
+  - [Vert cigale](https://bebetouriste.com/products/chanceliere-cosy-thermique?variant=45332852998201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-vert-cigale.jpg?v=1768172814
+    Price: 64,50 € EUR
+- [CASQUETTE BEBE| Protection confortable toutes saisons™](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons): 👶 Protégez votre bébé avec nos casquettes confortables et tendance. Commandez dès maintenant pour des promenades en toute sécurité, été comme hiver !
+  Updated: 2026-01-13T12:08:13Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/casquette-bebe_e0872ac0-3d14-43b4-bcfe-62c3c31d8f22.jpg?v=1768262833
+  - [Blanc](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons?variant=45340807692345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/casquette-bebe_2f9a397f-66b2-466e-9d0f-64186bd87da2.jpg?v=1768262833
+    Price: 23,90 € EUR
+  - [Bleu](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons?variant=45340808085561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/casquette-bebe_e0872ac0-3d14-43b4-bcfe-62c3c31d8f22.jpg?v=1768262833
+    Price: 23,90 € EUR
+  - [Marron](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons?variant=45340808118329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/casquette-bebe_b5e8fdeb-944b-4f82-b045-f88746d56952.jpg?v=1768262833
+    Price: 23,90 € EUR
+  - [Brique](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons?variant=45340808151097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/brique.png?v=1768263843
+    Price: 23,90 € EUR
+  - [Jaune](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons?variant=45340808183865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/casquette-bebe.jpg?v=1768262833
+    Price: 23,90 € EUR
+- [Gigoteuse | BébéDoux™](https://bebetouriste.com/products/gigoteuse-bebedoux): 👶 Découvrez nos gigoteuses 100% coton pour des nuits paisibles. Confort optimal et sécurité garantie pour le sommeil de bébé. Commandez dès maintenant !
+  Updated: 2026-01-16T16:09:16Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse.jpg?v=1768268985
+  - [Cygne rose / 3 à 6 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340890005561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse_f1c4bd6e-9bbe-47d9-aa4b-315a3454cfe7.jpg?v=1768269057
+    Price: 28,90 € EUR
+  - [Cygne rose / 12 à 18 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899737657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse_f1c4bd6e-9bbe-47d9-aa4b-315a3454cfe7.jpg?v=1768269057
+    Price: 28,90 € EUR
+  - [Cygne rose / 6 à 12 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899770425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse_f1c4bd6e-9bbe-47d9-aa4b-315a3454cfe7.jpg?v=1768269057
+    Price: 28,90 € EUR
+  - [Violet / 3 à 6 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340890038329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse-violet.jpg?v=1768269135
+    Price: 28,90 € EUR
+  - [Violet / 12 à 18 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899803193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse-violet.jpg?v=1768269135
+    Price: 28,90 € EUR
+  - [Violet / 6 à 12 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899835961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/gigoteuse-violet.jpg?v=1768269135
+    Price: 28,90 € EUR
+  - [Bleu avec sapins / 3 à 6 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340890071097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sapin-bleu.jpg?v=1768269182
+    Price: 28,90 € EUR
+  - [Bleu avec sapins / 12 à 18 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899868729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sapin-bleu.jpg?v=1768269182
+    Price: 28,90 € EUR
+  - [Bleu avec sapins / 6 à 12 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899901497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sapin-bleu.jpg?v=1768269182
+    Price: 28,90 € EUR
+  - [Bleu avec moutons / 3 à 6 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340890103865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/mouton-gris.jpg?v=1768267438
+    Price: 28,90 € EUR
+  - [Bleu avec moutons / 12 à 18 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899934265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/mouton-gris.jpg?v=1768267438
+    Price: 28,90 € EUR
+  - [Bleu avec moutons / 6 à 12 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899967033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/mouton-gris.jpg?v=1768267438
+    Price: 28,90 € EUR
+  - [Gris avec oiseaux / 3 à 6 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340890136633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oiseaux-gris.jpg?v=1768267750
+    Price: 28,90 € EUR
+  - [Gris avec oiseaux / 12 à 18 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340899999801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oiseaux-gris.jpg?v=1768267750
+    Price: 28,90 € EUR
+  - [Gris avec oiseaux / 6 à 12 mois](https://bebetouriste.com/products/gigoteuse-bebedoux?variant=45340900032569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oiseaux-gris.jpg?v=1768267750
+    Price: 28,90 € EUR
+- [Nid d'ange Douillet | Cosy Winter™ | Nid de lapins](https://bebetouriste.com/products/nid-dange-douillet-cosy-winter): 👶 Nid d'ange douillet : gardez bébé au chaud en hiver ! Protection imperméable, sommeil paisible et sorties simplifiées. Découvrez ce cocon indispensable !
+  Updated: 2026-01-17T06:55:30Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/ciel-bleu.jpg?v=1768536699
+  - [Savane Africaine / Hauteur pratique de 95 cm (108 x 52 cm)](https://bebetouriste.com/products/nid-dange-douillet-cosy-winter?variant=45359338225721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/savane-africaine.jpg?v=1768534696
+    Price: 43,50 € EUR
+  - [Dragon et château / Hauteur pratique de 95 cm (108 x 52 cm)](https://bebetouriste.com/products/nid-dange-douillet-cosy-winter?variant=45359338258489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/dragon.jpg?v=1768534732
+    Price: 43,50 € EUR
+  - [Éléphant et Lapin / Hauteur pratique de 95 cm (108 x 52 cm)](https://bebetouriste.com/products/nid-dange-douillet-cosy-winter?variant=45359338291257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/elephant-lapin.jpg?v=1768534656
+    Price: 43,50 € EUR
+  - [Ciel bleu / Hauteur pratique de 95 cm (108 x 52 cm)](https://bebetouriste.com/products/nid-dange-douillet-cosy-winter?variant=45359338389561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/ciel-bleu-etoiles.jpg?v=1768534782
+    Price: 43,50 € EUR
+- [BONNET BEBE | Doux & Confortable™](https://bebetouriste.com/products/bonnet-bebe-doux-confortable): 👶 Protégez votre bébé avec nos bonnets doux et confortables. Découvrez notre collection de bonnets pour bébé, fabriqués avec soin pour garder vos trésors au chaud.
+  Updated: 2026-01-17T06:11:13Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_028757e3-5052-4ce1-82f7-6b958e9106e2.jpg?v=1768586565
+  - [Blanc / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560189497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_690213db-2bdc-4c12-9bc0-d27505852c50.jpg?v=1768586565
+    Price: 22,90 € EUR
+  - [Beige / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560451641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_2fc11f6e-62b5-4bab-b921-177460822dad.jpg?v=1768586565
+    Price: 22,90 € EUR
+  - [Rose / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560484409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rose-bonnet.jpg?v=1768589501
+    Price: 22,90 € EUR
+  - [Bleu / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560517177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu-bonnet.jpg?v=1768589534
+    Price: 22,90 € EUR
+  - [Vert / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560549945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert-bonnet.jpg?v=1768589299
+    Price: 22,90 € EUR
+  - [Rouge / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560582713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/rouge-bonnet.jpg?v=1768589354
+    Price: 22,90 € EUR
+  - [Bourgogne / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560615481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bourgogne-bonnet.jpg?v=1768589406
+    Price: 22,90 € EUR
+  - [Bleu marine / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368560648249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu-marine-bonnet.jpg?v=1768589262
+    Price: 22,90 € EUR
+  - [Vert herbe / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-confortable?variant=45368700829753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert-herbe-bonnet.jpg?v=1768589459
+    Price: 22,90 € EUR
+- [BONNET BEBE | Doux & Chaleureux™](https://bebetouriste.com/products/bonnet-bebe-doux-chaleureux): 🧢 Protégez la tête de votre bébé avec nos bonnets doux et stylés. Commandez maintenant et gardez votre petit bien au chaud pour tous les moments de tendresse !
+  Updated: 2026-01-17T08:13:01Z
+  Vendor: mutualdropshopping
+  Product Type: mutual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_104dd568-ddc8-45ff-90ce-833df4be4eb7.jpg?v=1768594301
+  - [Beige / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-chaleureux?variant=45368838455353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/beige.png?v=1768601507
+    Price: 23,90 € EUR
+  - [Noir / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-chaleureux?variant=45368838488121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_b6d5c0f7-7056-45c9-b539-cbc6c118c8a1.jpg?v=1768601507
+    Price: 23,90 € EUR
+  - [Marron / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-chaleureux?variant=45368838520889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe_26b2268a-3479-4c40-a78d-b4a45e979245.jpg?v=1768601507
+    Price: 23,90 € EUR
+  - [Blanc / Unique](https://bebetouriste.com/products/bonnet-bebe-doux-chaleureux?variant=45368838553657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/blanc.png?v=1768601507
+    Price: 23,90 € EUR
+[List Continued](https://bebetouriste.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTU2Njc0ODgzNjQxLCJsYXN0X3ZhbHVlIjoiODE1NjY3NDg4MzY0MSJ9)
 
 ## Collections
 
 - [ALL - Tout pour votre bébé](https://bebetouriste.com/collections/all): 👶🧳 Découvrez notre collection complète d'accessoires de voyage pour votre bébé ! Produits de qualité pour le confort et le bien-être quotidien de votre enfant! 🎁
-  Updated: 2026-01-09T12:21:10Z
-  Total Products: 236
+  Updated: 2026-01-17T23:15:51Z
+  Total Products: 249
 - [NOS MEILLEURES VENTES](https://bebetouriste.com/collections/nos-meilleures-ventes): 👶 Découvrez nos meilleures ventes pour bébé ! Accessoires pratiques et essentiels pour simplifier votre quotidien de parent et voyager sereinement.
-  Updated: 2026-01-01T22:13:11Z
-  Total Products: 79
+  Updated: 2026-01-16T22:21:20Z
+  Total Products: 82
 - [SAC A LANGER](https://bebetouriste.com/collections/sac-a-langer-babybag): 👜🧸 Notre gamme de sacs à langer: pratiques et élégants, pour répondre aux besoins des parents modernes. Trouvez le modèle parfait pour vos sorties avec bébé !
-  Updated: 2026-01-09T12:21:10Z
+  Updated: 2026-01-13T18:09:46Z
   Total Products: 22
 - [COUVERTURE BÉBÉ](https://bebetouriste.com/collections/couverture-bebe-babyblanket): Découvrez notre gamme de couvertures bébé alliant douceur et confort. Du tricot chaleureux à la polaire douce, trouvez la couverture parfaite pour votre petit.
   Updated: 2025-11-09T13:49:27Z
@@ -5511,11 +5881,11 @@
   Updated: 2026-01-07T02:08:36Z
   Total Products: 16
 - [CHANCELIÈRE POUSSETTE](https://bebetouriste.com/collections/chanceliere-poussette): Notre sélection de chancelières poussette offre des modèles universels, pratiques et confortables, adaptés à toutes les poussettes pour le confort de votre petit.
-  Updated: 2025-12-29T22:57:18Z
-  Total Products: 20
+  Updated: 2026-01-13T16:45:22Z
+  Total Products: 24
 - [NID D'ANGE](https://bebetouriste.com/collections/nids-dange): 👶 Découvrez nos nids d'ange, cocons douillets pour garder bébé au chaud en balade. Pratiques pour poussettes et sièges auto. Commandez le vôtre !
-  Updated: 2025-12-20T03:03:26Z
-  Total Products: 13
+  Updated: 2026-01-16T04:12:31Z
+  Total Products: 14
 - [POUSSETTE](https://bebetouriste.com/collections/poussette): 👶 Découvrez nos poussettes confortables et légères pour vos sorties avec bébé. Profitez de modèles pratiques adaptés à tous vos besoins !
   Updated: 2026-01-04T17:34:40Z
   Total Products: 12
@@ -5541,11 +5911,14 @@
   Updated: 2026-01-06T20:20:39Z
   Total Products: 14
 - [BARBOTEUSE](https://bebetouriste.com/collections/barboteuse)
-  Updated: 2026-01-04T02:29:53Z
+  Updated: 2026-01-13T02:02:44Z
   Total Products: 10
 - [BONNETS, CHAPEAUX, CASQUETTES](https://bebetouriste.com/collections/bonnets-chapeaux-casquettes)
-  Updated: 2026-01-05T14:14:51Z
-  Total Products: 3
+  Updated: 2026-01-17T23:15:51Z
+  Total Products: 10
+- [GIGOTEUSE](https://bebetouriste.com/collections/gigoteuse)
+  Updated: 2026-01-13T02:03:11Z
+  Total Products: 1
 
 ## Blogs
 
@@ -5573,7 +5946,7 @@
     Updated: 2025-09-04T00:46:27Z
     Author: carmen camelia schneider
   - [ECHARPE DE PORTAGE  - Nouvelle Collection chez Bébé Touriste](https://bebetouriste.com/blogs/infos/echarpe-de-portage-nouvelle-collection-chez-bebe-touriste)
-    Updated: 2025-09-04T00:33:11Z
+    Updated: 2026-01-17T17:48:49Z
     Author: carmen camelia schneider
     Tags: Bébé Touriste voyage bébé parents
   - [LE SAC A LANGER BABYBAG™](https://bebetouriste.com/blogs/infos/le-sac-a-langer-babybag)
