@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-28T11:01:38Z
 - Contact Email: eroze2209@gmail.com
-- Updated At: 2026-01-11T00:00:21.811Z
+- Updated At: 2026-01-18T00:00:32.081Z
 
 ## Products
 
@@ -449,12 +449,74 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/perro-feliz-siendo-secado.png?v=1767903523
   Price: 83,67 € EUR
+- [GPS Pet Tracker Collar for Lost Pet Location Tracking](https://lynxshoop.com/products/gps-pet-tracker-collar-for-lost-pet-location-tracking): Introducing the ultimate solution for keeping your beloved pet safe: the GPS Tracking Collar. This innovative collar combines cutting-edge technology with user-friendly features to ensure that you always know where your furry friend is. Crafted from durable ABS material, this collar is designed to withstand daily wear and tear while providing reliable performance. With a versatile GSM network supporting 850/900/1800/1900MHz and GPRS Class 12, you can rest assured that your pet's location is constantly monitored. Experience unparalleled positioning accuracy with multiple modes including GPS, AGPS, Wifi (optional), and LBS. The GPS location accuracy is within 10 meters outdoors, while Wifi can pinpoint locations within 50 meters for certain models, and LBS provides accuracy above 100 meters. The tracking system is seamlessly integrated with an intuitive APP, Web interface, and SMS notifications, making it easy for you to keep tabs on your pet from anywhere. The collar operates effectively in a wide temperature range of -20℃ to 45℃ and is suitable for a humidity level of 5% to 95%. Choose from a stylish Blue color that not only looks great but also ensures that your pet is easily identifiable. With dimensions of 170mm in length, 40mm in height, and a lightweight design of just 0.31kg, this collar is perfect for pets of all sizes. Don’t wait until it’s too late!  in the GPS Tracking Collar today and enjoy peace of mind knowing that your pet is safe and sound. Check out the images below to see this amazing product in action!
+  Updated: 2026-01-12T07:04:24Z
+  Vendor: Lynxshoop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/MMu4SqZ5beQpfxTr.webp?v=1768158245
+  Price: 38,93 € EUR
+- [Pet Collar Camera](https://lynxshoop.com/products/pet-collar-camera): Get a glimpse into your pet’s world with this Wireless Pet Collar Camera — the perfect companion for curious cats and adventurous dogs! Whether indoors or out, this lightweight camera captures all the fun from your pet's point of view.Key Features: Real-time recording – Watch your pet’s daily adventures as they happen Perfect for cats and dogs – Designed to comfortably fit both small and large pets Indoor & outdoor use – Durable enough for walks, playtime, and exploring Unique pet perspective – See the world through your furry friend’s eyes Lightweight and easy to attach – Ensures comfort without slowing them down Whether you're monitoring their safety or just curious about what they’re up to, this collar camera lets you stay connected to your pet’s everyday life like never before!
+  Updated: 2026-01-12T07:07:34Z
+  Vendor: Lynxshoop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/uP4YxIBK1nJ0Ts62.webp?v=1768158449
+  - [Black / Black Collar Camera](https://lynxshoop.com/products/pet-collar-camera?variant=57696288244093)
+    Availability: Available
+    Price: 53,31 € EUR
+  - [Black / Blackwrist strap32G card](https://lynxshoop.com/products/pet-collar-camera?variant=57696288276861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/uP4YxIBK1nJ0Ts62.webp?v=1768158449
+    Price: 57,25 € EUR
+  - [Black / Blackwrist strap8G card](https://lynxshoop.com/products/pet-collar-camera?variant=57696288309629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/0jinnZFosg37kUYl.webp?v=1768158493
+    Price: 56,76 € EUR
+  - [white / Blackwrist strap32G card](https://lynxshoop.com/products/pet-collar-camera?variant=57696288342397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/teIEmkASJdoo7ZIu.webp?v=1768158577
+    Price: 56,76 € EUR
+  - [white / Whitewrist strap8G card](https://lynxshoop.com/products/pet-collar-camera?variant=57696288375165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/S0cToPzMMuWZYPyW.webp?v=1768158540
+    Price: 56,76 € EUR
+  - [New Black / Black Collar](https://lynxshoop.com/products/pet-collar-camera?variant=57696288407933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/oZDRs4Y7Vk0Lf7gH.webp?v=1768158461
+    Price: 56,76 € EUR
+  - [New Black A / 128GB](https://lynxshoop.com/products/pet-collar-camera?variant=57696288440701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/997ba7dd47a5b6893e4d4150b91a.png?v=1768158553
+    Price: 56,76 € EUR
+  - [Black / Black Collar](https://lynxshoop.com/products/pet-collar-camera?variant=57696288473469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/NcCymyfQsEB2t2Pa.webp?v=1768158471
+    Price: 35,86 € EUR
+  - [Black / black](https://lynxshoop.com/products/pet-collar-camera?variant=57696288506237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/rRic8ZYsP82xec5b.webp?v=1768158516
+    Price: 56,76 € EUR
+- [Security Dog Hoodie Warm Cozy Brushed Fleece Interior Dog Clothes Dog Hoodie with Pocket Dog Sweatshirt Dog Sweaters for Medium Dogs(M)](https://lynxshoop.com/products/security-dog-hoodie-warm-cozy-brushed-fleece-interior-dog-clothes-dog-hoodie-with-pocket-dog-sweatshirt-dog-sweaters-for-medium-dogsm): [EXTRAORDINARY SOFTNESS & COMFORT : Pamper your dog with our high-quality dog hoodie designed to offer the ultimate in softness and warmth. The soft brushed fleece interior provides a gentle cozy touch ensuring that your furry friend stays comfortable and stylish no matter the occasion. Perfect for snuggling up or strutting out in style! "VERSATILE FIT FOR MOST DOGS : Our dog hoodie is available in 6 sizes from XS to XXL designed to fit most dogs. Since every dog has a unique body shape its important to select the right size based on our size chart rather than relying on previous shopping experiences or your dogs weight." STYLISH & PRACTICAL : Featuring a bold "SECURITY" print on the back this dog hoodie makes a fun statement. The high-quality screen printing ensures the design stays vibrant without peeling or fading. Plus the charming little pocket adds both style and function perfect for holding treats or small toys. "IDEAL FOR ALL SEASONS : Whether its a brisk fall morning or a chilly winter day this dog hoodie is designed to keep your dog comfortable without overheating. Lightweight yet warm its the perfect choice for year-round wear making it suitable for everyday activities outdoor adventures or as a thoughtful gift for any dog lover." DURABLE & EASY CARE : Built with premium craftsmanship and high-density stitching this dog hoodie is made to last through all of your dog’s playful antics and frequent washes. It’s machine washable for your convenience so you can keep your dog looking and feeling great with minimal effort.]
+  Updated: 2026-01-12T13:29:00Z
+  Vendor: Lynxshoop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/uFEIwJFxD0wHT9XH.webp?v=1768158645
+  Price: 29,83 € EUR
+- [Light Up Dog Harness Rechargeable LED Dog Harness Reflective Dog Harness Adjustable Soft Lighted Dog Harness for Night Walking Glowing Dog Vest for Small Medium Large Dog](https://lynxshoop.com/products/light-up-dog-harness-rechargeable-led-dog-harness-reflective-dog-harness-adjustable-soft-lighted-dog-harness-for-night-walking-glowing-dog-vest-for-small-medium-large-dog): [【Comfortable & Safe】The light up dog harness features breathable nylon pads to reduce discomfort and stress. The handle on the back is padded with soft nylon for extra comfort. The LED lights make your dog highly visible during night walks greatly improving safety and protecting them from accidents. "【Long Lasting Shine & Adjustable】The led dog harness fully charges in 1.5 hours provides 9-15 hours of light depending on the lighting mode（about 9 H steady light 10-12 H fast flashing 13-15 H slow flashing）. Adjustable straps ensure a perfect fit for your dog please leaving about two fingers space for comfort" 【High Visibility & 3 Light Modes】The lighted safety best features three light modes: steady light fast flashing and slow flashing. These modes ensure your dog remains highly visible from a distance enhancing their safety during walks day or night. 【Easy to Use】Designed for easy on-and-off use with quick-release buckles No need wearing over through the dog head. Adjustable Illuminated harness makes getting ready for walks a breeze. The lightweight breathable design ensures comfort for year-round use. 【Enjoy a Walk with Your Pet】Made from high-quality nylon fabric and breathable mesh lining ensure dog welly heat dissipation adjustable glowing vest is built to last. If you have any questions about the led harness please contact us by amazon.]
+  Updated: 2026-01-12T07:11:03Z
+  Vendor: Lynxshoop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/vTKRq7Vquw2DAzXP.webp?v=1768158658
+  Price: 29,52 € EUR
 
 ## Collections
 
 - [Pet Supplies](https://lynxshoop.com/collections/pet-supplies)
-  Updated: 2026-01-08T16:50:01Z
-  Total Products: 12
+  Updated: 2026-01-11T19:07:23Z
+  Total Products: 14
 - [Productos Destacados para Perros - Los Más Vendidos | Lynxshoop](https://lynxshoop.com/collections/productos-destacados): Descubre los productos favoritos de nuestros clientes. Secador 2 en 1, correa anti-tirones y bebedero automático. Envío rápido en España.
   Updated: 2026-01-08T16:10:24Z
   Total Products: 3
