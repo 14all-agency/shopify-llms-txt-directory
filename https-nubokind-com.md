@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-09T08:18:27Z
 - Contact Email: care@nubokind.com
-- Updated At: 2026-01-11T00:00:24.809Z
+- Updated At: 2026-01-18T00:00:33.137Z
 
 ## About us
 nubokind (also known as nubo) creates premium silicone newborn teethers and teething toys.  
@@ -19,42 +19,42 @@ Free shipping is available across India.
 ## Products
 
 - [BIS safe silicone teether| nubokind (Pack of 2)](https://nubokind.com/products/ele-ring-teether-set-green-and-blue): The perfect first teething toy for your newborn. The ele ring teether is a 100% safe silicone teether, BPA-free and designed in India for gentle relief.
-  Updated: 2026-01-10T17:06:40Z
+  Updated: 2026-01-17T18:25:47Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-grey-best-seller.jpg?v=1767730014
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-pink-beige-best-seller.jpg?v=1768292099
+  - [baby pink & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44078049853555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-pink-beige-best-seller.jpg?v=1768292099
+    Price: ₹649.00 INR
   - [sage green & slate grey](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=43755867897971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-grey-best-seller.jpg?v=1767730014
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-grey-icon.jpg?v=1768292099
     Price: ₹649.00 INR
   - [sage green & aqua blue](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=43158621290611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-blue-icon.jpg?v=1767730014
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-blue-icon.jpg?v=1768292099
     Price: ₹649.00 INR
-  - [baby pink & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44078049853555)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-pink-beige-icon.jpg?v=1767730014
-    Price: ₹649.00 INR
-- [BIS Kiko No-Drop Teether](https://nubokind.com/products/kiko-no-drop-newborn-teether): Discover the perfect solution for your little one's teething journey. Our kiko teether is more than just a newborn teething toy.
-  Updated: 2026-01-10T19:36:21Z
+- [Kiko No-Drop Teether](https://nubokind.com/products/kiko-no-drop-newborn-teether): Discover the perfect solution for your little one's teething journey. Our kiko teether is more than just a newborn teething toy.
+  Updated: 2026-01-17T18:53:13Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko-teether-white-hot-seller.jpg?v=1767729868
+  - [sage green](https://nubokind.com/products/kiko-no-drop-newborn-teether?variant=43747723313267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko-teether-green-icon.jpg?v=1767729868
+    Price: ₹699.00 INR
   - [cloud white](https://nubokind.com/products/kiko-no-drop-newborn-teether?variant=43747723280499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko-teether-white-hot-seller.jpg?v=1767729868
-    Price: ₹699.00 INR
-  - [sage green](https://nubokind.com/products/kiko-no-drop-newborn-teether?variant=43747723313267)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko-teether-green-icon.jpg?v=1767729868
     Price: ₹699.00 INR
 
 ## Collections
 
 - [Best Baby Teethers in India | Soft & Safe for Newborns](https://nubokind.com/collections/newborn-essentials): Discover the perfect solution for your little one's teething journey. Our newborn teether are more than just a newborn teething toy.
-  Updated: 2026-01-10T12:19:35Z
+  Updated: 2026-01-17T12:20:01Z
   Total Products: 3
 
 ## Blogs
@@ -182,6 +182,21 @@ Free shipping is available across India.
     Author: nubo kind
   - [Prevent and treat drool rash](https://nubokind.com/blogs/tips-and-guide-for-teething-relief/how-to-prevent-and-treat-drool-rash): Prevent and treat drool rash
     Updated: 2026-01-06T19:54:47Z
+    Author: Nubokind Experts
+  - [7 Reasons High-Contrast Visuals Accelerate Brain Development](https://nubokind.com/blogs/tips-and-guide-for-teething-relief/7-reasons-high-contrast-visuals-accelerate-brain-development): <p><meta charset="utf-8">Ever wonder why newborns are mesmerized by black and white? It’s more than just a preference—it’s a biological necessity. Discover the neuroscience of high-contrast visuals and how they "switch on" your baby’s brain to build one million neural connections every single second.</p>
+    Updated: 2026-01-15T11:03:30Z
+    Author: Nubokind Experts
+  - [The Neuroscience of Sight: Mapping Your Baby's Visual Journey (0-6 Months)](https://nubokind.com/blogs/tips-and-guide-for-teething-relief/the-neuroscience-of-sight-mapping-your-babys-visual-journey-0-6-months): <p><meta charset="utf-8">Your baby's visual journey moves from a blurry fog to 3D depth in just six months. Explore the neurology of how babies learn to see and how high-contrast tools like <b data-path-to-node="38,0,0" data-index-in-node="179">nübo's My First Book Set</b> support early brain architecture.</p>
+    Updated: 2026-01-15T11:03:47Z
+    Author: Nubokind Experts
+  - [The Science of Reflection: 4 Ways Mirrors Jumpstart Your Baby’s Social-Emotional Wiring](https://nubokind.com/blogs/tips-and-guide-for-teething-relief/the-science-of-reflection-4-ways-mirrors-jumpstart-your-baby-s-social-emotional-wiring): <p><meta charset="utf-8">Mirrors are more than just fun; they are essential tools for wiring your baby's social-emotional brain. From building empathy via "mirror neurons" to achieving self-recognition, discover the four ways reflection shapes your baby's developing sense of self during the critical first 24 months.</p>
+    Updated: 2026-01-15T11:03:55Z
+    Author: Nubokind Experts
+  - [3 Tummy Time Hacks to Build Core Strength & Focus](https://nubokind.com/blogs/tips-and-guide-for-teething-relief/3-tummy-time-hacks-to-build-core-strength-focus): <p><meta charset="utf-8">Tummy time is essential for brain and body development, but many babies  it. Discover three neuroscience-backed hacks—using high-contrast visuals like <b data-path-to-node="33,0,0" data-index-in-node="169">nübo's My First Book Set</b>, props, and mirrors—to turn struggle into strength during the first six months.</p>
+    Updated: 2026-01-16T10:16:51Z
+    Author: Nubokind Experts
+  - [The Logic of Play: How to Wire a Baby's Brain for Problem Solving](https://nubokind.com/blogs/tips-and-guide-for-teething-relief/the-logic-of-play-how-to-wire-a-babys-brain-for-problem-solving): <p><meta charset="utf-8">Logic starts with the eyes. Discover how <b data-path-to-node="35,0,0" data-index-in-node="55">nübo's My First Puzzles</b> uses high-contrast "visual logic" to wire your baby's brain for STEM, from object permanence to early pattern recognition.</p>
+    Updated: 2026-01-14T17:20:26Z
     Author: Nubokind Experts
 
 ## Store Pages
