@@ -10,14 +10,14 @@
 - Contact Email: hugo@tadam-art.com
 - Contact Phone: +33624216434
 - Address: 22 rue de berru
-- Updated At: 2026-01-10T09:10:38.110Z
+- Updated At: 2026-01-18T00:00:31.165Z
 
 TADAM is an online gallery dedicated to graphic design and modern art. We showcase emerging artists by publishing their work as exclusive prints, produced with impeccable quality. Art with character, for people with character 💚
 
 ## Products
 
 - [Interference](https://www.tadam-art.com/products/interference): Une vague de couleur se déploie avec intensité, du rouge incandescent au turquoise profond, en passant par des nuances dorées et rosées.Les contours se fondent les uns dans les autres, comme si la lumière elle-même s’étirait et se pliait.L’ensemble dégage une énergie fluide, presque cinétique — une tension entre chaleur et fraîcheur, entre mouvement et silence.C’est une composition moderne, vibrante et maîtrisée, où chaque dégradé semble capturer le passage d’une émotion à une autre.
-  Updated: 2026-01-09T17:50:54Z
+  Updated: 2026-01-12T10:03:30Z
   Vendor: Treechild
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -173,7 +173,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/dopl7ubataawermp13i9ahm5gt0y.webp?v=1767047301
 - [Funky Beat](https://www.tadam-art.com/products/funky-beat-by-ejaaz-haniff)
-  Updated: 2026-01-09T17:50:57Z
+  Updated: 2026-01-12T10:03:35Z
   Vendor: Ejaaz Haniff
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -329,7 +329,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/oak_dark.webp?v=1767189388
 - [Asiantiger Green](https://www.tadam-art.com/products/asiantiger-green-by-arty-guava)
-  Updated: 2026-01-09T17:51:00Z
+  Updated: 2026-01-12T10:03:41Z
   Vendor: Arty Gava
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -485,7 +485,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/go2kvfkp6n75pk3lpymvoplbyhwt.webp?v=1764231027
 - [Body of Work](https://www.tadam-art.com/products/body-of-work-blue-by-arty-guava): Acid- and lignin-free and made to last. The natural finish enhances vibrancy and depth. Textured matte surface that enhances depth without losing clarity. Handmade wooden frame from Italy.
-  Updated: 2026-01-09T17:51:04Z
+  Updated: 2026-01-12T10:03:47Z
   Vendor: Arty Gava
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -641,7 +641,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/wiqa5x9evqhu47dwhiavwyrag5vb.webp?v=1767189813
 - [National Museum  of Modern Art Tokyo](https://www.tadam-art.com/products/national-museum-of-modern-art-tokyo-by-annick)
-  Updated: 2026-01-09T17:51:07Z
+  Updated: 2026-01-12T10:03:52Z
   Vendor: Annick
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -797,7 +797,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/green_a7eaad0e-9ef2-4ec6-b296-bac1951b764a.webp?v=1767047354
 - [Aspectratiomixed42](https://www.tadam-art.com/products/aspectratiomixed42-by-elena-ristova)
-  Updated: 2026-01-09T17:51:10Z
+  Updated: 2026-01-12T10:03:57Z
   Vendor: Elena Ristova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -953,7 +953,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/green_wood.webp?v=1767047371
 - [Aspectratiomixed40](https://www.tadam-art.com/products/3x4-aspectratiomixed40-by-elena-ristova)
-  Updated: 2026-01-09T17:51:14Z
+  Updated: 2026-01-12T10:04:03Z
   Vendor: Elena Ristova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -1109,7 +1109,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/op2bhzc3bmhw78t2ue9et802if35.webp?v=1767047389
 - [ANGEL](https://www.tadam-art.com/products/angel)
-  Updated: 2026-01-09T17:51:17Z
+  Updated: 2026-01-12T10:04:08Z
   Vendor: Alex Parnassus
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -1265,7 +1265,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/hx9sckukgq705hdg2pwcyyiwi1i0.webp?v=1766226070
 - [ANAL CLUB](https://www.tadam-art.com/products/anal-club-by-carla-palette)
-  Updated: 2026-01-09T17:51:20Z
+  Updated: 2026-01-12T10:04:15Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -1421,7 +1421,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/887w13k6666mw0vg0704n6tpnoxt.webp?v=1767047421
 - [3](https://www.tadam-art.com/products/3)
-  Updated: 2026-01-09T17:51:24Z
+  Updated: 2026-01-12T10:04:21Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -1577,7 +1577,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/nsdsakrfnuzykzs1v31d8hjfwz4s.webp?v=1767047435
 - [OOOH](https://www.tadam-art.com/products/oooh): “OOOH” by Carla Palette is a bold typographic artwork featuring elongated, rounded black letters stretched vertically across a light background. The oversized shapes create a rhythmic, almost architectural feel, turning a simple exclamation into a striking graphic composition.
-  Updated: 2026-01-09T17:51:27Z
+  Updated: 2026-01-12T10:04:26Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -1733,7 +1733,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/0gzpxe6b6sjqq15mf5vres3595pe.webp?v=1767191214
 - [WORK](https://www.tadam-art.com/products/work)
-  Updated: 2026-01-09T17:51:30Z
+  Updated: 2026-01-12T10:04:30Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -1889,7 +1889,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/p41v3fnq47qbbdi6o4zl2ec0gu2x.webp?v=1767191335
 - [Bubble Letter](https://www.tadam-art.com/products/picturfy-07-by-carla-palette)
-  Updated: 2026-01-09T17:51:34Z
+  Updated: 2026-01-12T10:04:37Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2045,7 +2045,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/1zi5kwwms1kpqaivrs2lol9evavn.webp?v=1767191603
 - [Hollow Embrace](https://www.tadam-art.com/products/picturfy-06-by-carla-palette): Acid- and lignin-free and made to last. The natural finish enhances vibrancy and depth. Textured matte surface that enhances depth without losing clarity. Handmade wooden frame from Italy.
-  Updated: 2026-01-09T17:51:37Z
+  Updated: 2026-01-12T10:04:42Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2201,7 +2201,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/i4wsy7ylq162jyp4oh8953pejf7e.webp?v=1767428363
 - [Onon](https://www.tadam-art.com/products/picturfy-01-by-carla-palette)
-  Updated: 2026-01-09T17:51:41Z
+  Updated: 2026-01-12T10:04:49Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2357,7 +2357,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/cxvfawly08v94k9ch54bqt3ag7hk.webp?v=1767428387
 - [PISS](https://www.tadam-art.com/products/picturfy-10-by-carla-palette)
-  Updated: 2026-01-09T17:51:45Z
+  Updated: 2026-01-12T10:04:55Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2513,7 +2513,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ildufvj5gqttv81l8159cg3ifnyq.webp?v=1767192475
 - [MUSE](https://www.tadam-art.com/products/muse-by-carla-palette)
-  Updated: 2026-01-09T17:51:48Z
+  Updated: 2026-01-12T10:05:00Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2669,7 +2669,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/s4z4cywycxxw42znd6n90aznvn5c.webp?v=1767192615
 - [Chaos](https://www.tadam-art.com/products/chaos)
-  Updated: 2026-01-09T17:51:51Z
+  Updated: 2026-01-12T10:05:06Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2825,7 +2825,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ge1z2a85kkk1qq66t8dnq419qpaw.webp?v=1767192821
 - [W](https://www.tadam-art.com/products/picturfy-03-by-carla-palette)
-  Updated: 2026-01-09T17:51:54Z
+  Updated: 2026-01-12T10:05:11Z
   Vendor: Carla Palette
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -2981,7 +2981,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ggmptydsp02pbth3za8m2mo39d2r.webp?v=1766224959
 - [GEOMETRIC III](https://www.tadam-art.com/products/geometric-iii-by-sergio-ortiz)
-  Updated: 2026-01-09T17:51:58Z
+  Updated: 2026-01-12T10:05:17Z
   Vendor: Sergio Ortiz
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -3137,7 +3137,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ekp7rtau8zc0psi7mcx6wnhzcq4l.webp?v=1767350378
 - [BETTER PLACE](https://www.tadam-art.com/products/better-place-by-sergio-ortiz)
-  Updated: 2026-01-09T17:52:02Z
+  Updated: 2026-01-12T10:05:23Z
   Vendor: Sergio Ortiz
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -3293,7 +3293,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/xiujnlw8phfxrfpixu7u5qyuzuak.webp?v=1767350650
 - [Star Cut Out](https://www.tadam-art.com/products/star-cut-out-by-little-dean)
-  Updated: 2026-01-09T17:52:05Z
+  Updated: 2026-01-12T10:05:28Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -3449,7 +3449,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/n3ca1sufmqaiy54nbmf75be75hew.webp?v=1767350814
 - [Color of the hill wind](https://www.tadam-art.com/products/color-of-the-hill-wind-by-little-dean)
-  Updated: 2026-01-09T17:52:09Z
+  Updated: 2026-01-12T10:05:35Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -3605,7 +3605,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/7it2bieo7fcn9op91noo891k63iz.webp?v=1767350946
 - [Seagull in foreign land](https://www.tadam-art.com/products/seagull-in-foreign-land-by-little-dean)
-  Updated: 2026-01-09T17:52:12Z
+  Updated: 2026-01-12T10:05:40Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -3761,7 +3761,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/4jn2b12npvbyjdy24jcrikz5qzoq.webp?v=1766225312
 - [Vibrant desert](https://www.tadam-art.com/products/vibrant-desert-by-little-dean)
-  Updated: 2026-01-09T17:52:15Z
+  Updated: 2026-01-12T10:05:46Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -3917,7 +3917,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/fwv4nbmsev7npeiwvq5apshhxten.webp?v=1767351183
 - [Barn In Color Blocks](https://www.tadam-art.com/products/barn-in-color-blocks-by-little-dean)
-  Updated: 2026-01-09T17:52:19Z
+  Updated: 2026-01-12T10:05:52Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -4073,7 +4073,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/fdew2dvnvms0p9azgoq1ldjs4wym.webp?v=1767428402
 - [Blue Checker Cloth](https://www.tadam-art.com/products/blue-checker-cloth-by-little-dean)
-  Updated: 2026-01-09T17:52:22Z
+  Updated: 2026-01-12T10:05:57Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -4229,7 +4229,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/qemih0vpq4a5cr2qbs1sdp02ly6b.webp?v=1767351434
 - [Spark Gas Station](https://www.tadam-art.com/products/spark-gas-station-by-rosi-feist)
-  Updated: 2026-01-09T17:52:26Z
+  Updated: 2026-01-12T10:06:03Z
   Vendor: Rosi Feist
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -4385,7 +4385,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/dnahryxf9zhufq94ggdbonc2x63d.webp?v=1767351599
 - [Here Comes the Sun](https://www.tadam-art.com/products/here-comes-the-sun-a1-png-by-alina-shulhouskaya)
-  Updated: 2026-01-09T17:52:29Z
+  Updated: 2026-01-12T10:06:08Z
   Vendor: Alina Shulhouskaya
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -4541,7 +4541,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/tq501aip9xf1ut3o9jzur3kk0b0t.webp?v=1767351700
 - [Halloween](https://www.tadam-art.com/products/halloween-a1-copy-6-png-by-alina-shulhouskaya)
-  Updated: 2026-01-09T17:52:33Z
+  Updated: 2026-01-12T10:06:14Z
   Vendor: Alina Shulhouskaya
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -4697,7 +4697,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ocw1j61uft97tka7phxm8i6eg5j3.webp?v=1767351807
 - [FOUR SQUARED](https://www.tadam-art.com/products/four-squared)
-  Updated: 2026-01-09T17:52:36Z
+  Updated: 2026-01-12T10:06:20Z
   Vendor: Angus Vasili
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -4853,7 +4853,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/78uor6u2yh2b8egrb3ttzkgs8tpb.webp?v=1767352049
 - [HAVE A GOOD DAY](https://www.tadam-art.com/products/have-a-good-day)
-  Updated: 2026-01-09T17:52:39Z
+  Updated: 2026-01-12T10:06:26Z
   Vendor: Harry Polar
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5009,7 +5009,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/yja88t1f1gribq17v4fah4qbcinx.webp?v=1767352218
 - [COOL PEOPLE](https://www.tadam-art.com/products/cool-people)
-  Updated: 2026-01-09T17:52:43Z
+  Updated: 2026-01-12T10:06:32Z
   Vendor: Harry Polar
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5165,7 +5165,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/e5vzzwzbok32361u85q6ce9ihbmo.webp?v=1767352338
 - [ANOTHER NIGHT IN TOKYO](https://www.tadam-art.com/products/another-night-in-tokyo)
-  Updated: 2026-01-09T17:52:46Z
+  Updated: 2026-01-12T10:06:38Z
   Vendor: Jeremy Gdalia
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5321,7 +5321,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/wg70c3t32gjcpl2h5jyqznzgz41s.webp?v=1767352532
 - [FLOATING TEMPLE](https://www.tadam-art.com/products/floating-temple)
-  Updated: 2026-01-09T17:52:49Z
+  Updated: 2026-01-12T10:06:44Z
   Vendor: Jeremy Gdalia
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5477,7 +5477,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/lkcxs35wfwotgrrqg670501btibr.webp?v=1767352787
 - [Aviary](https://www.tadam-art.com/products/aviary-by-ada-jarzebowska)
-  Updated: 2026-01-09T17:52:53Z
+  Updated: 2026-01-12T10:06:50Z
   Vendor: Ada Jarzebowska
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5633,7 +5633,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/5hdvgexo2ldr6a5590breb0aocu0.webp?v=1767352881
 - [Peaches](https://www.tadam-art.com/products/peaches-by-ada-jarzebowska)
-  Updated: 2026-01-09T17:52:56Z
+  Updated: 2026-01-12T10:06:55Z
   Vendor: Ada Jarzebowska
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5785,7 +5785,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/law9zf7t0g5zuowc1t0ckkq0pjd4.webp?v=1767353056
 - [El Raval](https://www.tadam-art.com/products/el-raval-by-ada-jarzebowska)
-  Updated: 2026-01-09T17:53:00Z
+  Updated: 2026-01-12T10:07:00Z
   Vendor: Ada Jarzebowska
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -5941,7 +5941,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/2f9p1u7i0vxjs8nixg1lmt71occk.webp?v=1767353137
 - [Lisbon Flat](https://www.tadam-art.com/products/bauhaus-rug-2-by-emma-make)
-  Updated: 2026-01-09T17:53:02Z
+  Updated: 2026-01-12T10:07:05Z
   Vendor: Emma Make
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -6097,7 +6097,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/13l7n90u6qr3bphmypgw1vllswt1.webp?v=1767353291
 - [You're Beautiful](https://www.tadam-art.com/products/youre-beautiful)
-  Updated: 2026-01-09T17:53:06Z
+  Updated: 2026-01-12T10:07:11Z
   Vendor: Harry Polar
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -6253,7 +6253,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ou8u83695nv8lfds5tdo22iwr0fm.webp?v=1766219970
 - [THOUGHTS BECOME THINGS](https://www.tadam-art.com/products/thoughts-become-things)
-  Updated: 2026-01-09T17:53:10Z
+  Updated: 2026-01-12T10:07:17Z
   Vendor: Harry Polar
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -6409,7 +6409,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/rb6p4k7u6vnqk3h1dajxyvdr0j52.webp?v=1767353731
 - [FAKE FLOWERS](https://www.tadam-art.com/products/fake-flowers)
-  Updated: 2026-01-09T17:53:16Z
+  Updated: 2026-01-12T10:07:29Z
   Vendor: Harry Polar
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -6565,7 +6565,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/x9p7zr7xlqpytt0uxmwn5hhqoo8f.webp?v=1767047220
 - [Black Hole Pastel Cosmos](https://www.tadam-art.com/products/black-hole-pastel-cosmos-by-amy-louise-baker)
-  Updated: 2026-01-09T17:53:19Z
+  Updated: 2026-01-12T10:07:34Z
   Vendor: Amy Louise Baker
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -6721,7 +6721,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/3lcg32a5r5ocf865cv1q6rl44mwo.webp?v=1767362902
 - [Reflection and Shadow](https://www.tadam-art.com/products/reflection-and-shadow-by-amy-louise-baker)
-  Updated: 2026-01-09T17:53:23Z
+  Updated: 2026-01-12T10:07:40Z
   Vendor: Amy Louise Baker
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -6877,7 +6877,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/j04cdp0waeo8tfsxhjr0adt38krd.webp?v=1767047270
 - [Wooden Blocks](https://www.tadam-art.com/products/wooden-blocks-by-amy-louise-baker)
-  Updated: 2026-01-09T17:53:26Z
+  Updated: 2026-01-12T10:07:46Z
   Vendor: Amy Louise Baker
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7033,7 +7033,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/6hbekewg6lavxbl16vfmqj2k4nyt.webp?v=1767047281
 - [Minimal Marble Sunset](https://www.tadam-art.com/products/minimal-marble-sunset-by-amy-louise-baker)
-  Updated: 2026-01-09T17:53:30Z
+  Updated: 2026-01-12T10:07:50Z
   Vendor: Amy Louise Baker
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7189,7 +7189,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/91fazf2hgigdjkiyoujksfzrkxko.webp?v=1767354416
 - [Pixel Sunset](https://www.tadam-art.com/products/pixel-sunset-by-amy-louise-baker)
-  Updated: 2026-01-09T17:53:33Z
+  Updated: 2026-01-12T10:07:56Z
   Vendor: Amy Louise Baker
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7345,7 +7345,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/jt0w10clq6k23smdkxlyc1regi49.webp?v=1767354555
 - [Black Worm Hole Gradient](https://www.tadam-art.com/products/black-worm-hole-gradient-by-amy-louise-baker)
-  Updated: 2026-01-09T17:53:36Z
+  Updated: 2026-01-12T10:08:01Z
   Vendor: Amy Louise Baker
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7501,7 +7501,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/7cnjb6so1qggwe22155q67he3krg.webp?v=1766173333
 - [13](https://www.tadam-art.com/products/13-by-little-dean)
-  Updated: 2026-01-09T17:53:40Z
+  Updated: 2026-01-12T10:08:08Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7657,7 +7657,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/qph9wdmzplnlurheoj5k3ouymwt5.webp?v=1767358072
 - [Green field](https://www.tadam-art.com/products/green-field-by-little-dean)
-  Updated: 2026-01-09T17:53:43Z
+  Updated: 2026-01-12T10:08:12Z
   Vendor: Little Dean
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7813,7 +7813,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/7zlboldhy8h3yh0rzkx11aa4tda9.webp?v=1766172510
 - [TBC 3](https://www.tadam-art.com/products/tea-break)
-  Updated: 2026-01-09T17:53:47Z
+  Updated: 2026-01-12T10:08:18Z
   Vendor: Yuliya Ratnikova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -7969,7 +7969,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/2ly0pbdmr6m5gmgbcv1eweneb5ud.webp?v=1767358289
 - [Yuliya Ratnikova - PEACE](https://www.tadam-art.com/products/peace): The idea of this typography was inspired by piano keys and their simple, elegant rhythm. I wanted to create a design that feels both musical and visual, where the black and white shapes play together like notes in a melody. It’s almost like turning music into something you can see.
-  Updated: 2026-01-09T17:53:50Z
+  Updated: 2026-01-12T10:08:24Z
   Vendor: Yuliya Ratnikova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -8125,7 +8125,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/fx6g74jqxkucnkif26oap06i021l.webp?v=1767167584
 - [MUSIC IS THE ANSWER](https://www.tadam-art.com/products/music-is-the-answer)
-  Updated: 2026-01-09T17:53:54Z
+  Updated: 2026-01-12T10:08:30Z
   Vendor: Yuliya Ratnikova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -8281,7 +8281,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/7ber3agnswtfdbpa9poyl4v6nmme.webp?v=1766219192
 - [LODZ MANUFACTURA](https://www.tadam-art.com/products/lodz)
-  Updated: 2026-01-09T17:53:57Z
+  Updated: 2026-01-12T10:08:36Z
   Vendor: Yuliya Ratnikova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -8437,7 +8437,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/4lhv8mz130r06amag8ktv5v1anls.webp?v=1767033192
 - [Human & Nature](https://www.tadam-art.com/products/human-nature)
-  Updated: 2026-01-09T17:54:00Z
+  Updated: 2026-01-12T10:08:41Z
   Vendor: Yuliya Ratnikova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -8593,7 +8593,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/tviba67135f3tuek3j6mk5ae65kp.webp?v=1767033046
 - [number 8](https://www.tadam-art.com/products/8): experimental typographic poster created for 36 days of type
-  Updated: 2026-01-09T17:54:04Z
+  Updated: 2026-01-12T10:08:47Z
   Vendor: Yuliya Ratnikova
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -8749,7 +8749,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ff21rxyzmlggisn43h87sp3n6ebh.webp?v=1767032455
 - [HAPPY](https://www.tadam-art.com/products/happy): Contribution to the PosterJam open call on the topic "Happy", which literally consists of these letters
-  Updated: 2026-01-09T17:54:07Z
+  Updated: 2026-01-12T10:08:52Z
   Vendor: Mikhail Lychkovskiy
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -8905,7 +8905,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/bpi52sx4zhhx9c4rvw0q2yprp3cx.webp?v=1767032337
 - [HAPPY 2](https://www.tadam-art.com/products/happy-2): Contribution to the PosterJam open call on the topic "Happy", which literally consists of these letters
-  Updated: 2026-01-09T17:54:11Z
+  Updated: 2026-01-12T10:08:58Z
   Vendor: Mikhail Lychkovskiy
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9061,7 +9061,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/a1ty4cvtps8r2fzwg3bipenrcshm.webp?v=1767032287
 - [Die Spielverderber](https://www.tadam-art.com/products/die-spielverderber): Conceptual poster for a theatrical show "Die Spielverderber / oder das Erbe der Narren (The Spoilsport / or The Legacy of Fools)"
-  Updated: 2026-01-09T17:54:15Z
+  Updated: 2026-01-12T10:09:04Z
   Vendor: Mikhail Lychkovskiy
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9217,7 +9217,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/h089n30kcfbhcs372zg9kukfhyw4.webp?v=1767031392
 - [yangtze](https://www.tadam-art.com/products/yangtze): Poster for the “Yangtze River – Future” international public welfare poster design invitation exhibition
-  Updated: 2026-01-09T17:54:18Z
+  Updated: 2026-01-12T10:09:09Z
   Vendor: Mikhail Lychkovskiy
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9373,7 +9373,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/e2hugw8ftdq6gt8f29mhzwtfx4fj.webp?v=1766218294
 - [swirl drop](https://www.tadam-art.com/products/swirl-drop): Experimental poster aiming to reveal the animation capabilities of Figma
-  Updated: 2026-01-09T17:54:21Z
+  Updated: 2026-01-12T10:09:15Z
   Vendor: Mikhail Lychkovskiy
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9529,7 +9529,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/sdbz45rrcjpxjcs1z6yebwlr7v58.webp?v=1767031213
 - [normal](https://www.tadam-art.com/products/normal): After watching Decision to Leave, I suddenly felt that my life is bland—but in a good way. It’s ordinary, undramatic, yet framed with a certain quiet style. That’s what this piece reflects.
-  Updated: 2026-01-09T17:54:24Z
+  Updated: 2026-01-12T10:09:20Z
   Vendor: Shen Hou
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9685,7 +9685,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/74pyab6vtwig8wutzmu62uladyvt.webp?v=1767031082
 - [Life](https://www.tadam-art.com/products/life): There’s an old tradition of reading someone’s face to predict their future. I wondered—if I could measure a face precisely enough, could I really see what lies ahead?
-  Updated: 2026-01-09T17:54:28Z
+  Updated: 2026-01-12T10:09:26Z
   Vendor: Shen Hou
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9841,7 +9841,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/lgemjjy8fq2zeozil1kshv5esugb.webp?v=1767030051
 - [health check](https://www.tadam-art.com/products/health-check)
-  Updated: 2026-01-09T17:54:32Z
+  Updated: 2026-01-12T10:09:32Z
   Vendor: Shen Hou
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -9997,7 +9997,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/njqsn4o2l9wvbw8yhqir0p5h1551.webp?v=1767029928
 - [amour](https://www.tadam-art.com/products/amour)
-  Updated: 2026-01-09T17:54:35Z
+  Updated: 2026-01-12T10:09:36Z
   Vendor: Rīm Atelier
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -10153,7 +10153,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/fyrxcqvm0v1oj2bp8gdnl2dheijk.webp?v=1767358764
 - [fujisan](https://www.tadam-art.com/products/fujisan)
-  Updated: 2026-01-09T17:54:38Z
+  Updated: 2026-01-12T10:09:42Z
   Vendor: Rīm Atelier
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -10309,7 +10309,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/rx4bxl6dy6zqq1lcxgqu99xrr49d.webp?v=1767029580
 - [horizon](https://www.tadam-art.com/products/horizon)
-  Updated: 2026-01-09T17:54:41Z
+  Updated: 2026-01-12T10:09:47Z
   Vendor: Rīm Atelier
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -10465,7 +10465,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/r4vqb17jdkbnob9wzomqxsvyp2r1.webp?v=1767029201
 - [emotions](https://www.tadam-art.com/products/emotions)
-  Updated: 2026-01-09T17:54:45Z
+  Updated: 2026-01-12T10:09:54Z
   Vendor: Rīm Atelier
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -10621,7 +10621,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/yyeldtgbzu5x7f736hul39gfu4is.webp?v=1767032708
 - [peace please](https://www.tadam-art.com/products/peace-please)
-  Updated: 2026-01-09T17:54:49Z
+  Updated: 2026-01-12T10:09:59Z
   Vendor: Eric Schwarz
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -10777,7 +10777,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/1mjef4413ljhwjbinbwpck6bu4it.webp?v=1767028770
 - [CLOUDY](https://www.tadam-art.com/products/crying-on-the-people)
-  Updated: 2026-01-09T17:54:52Z
+  Updated: 2026-01-12T10:10:04Z
   Vendor: Eric Schwarz
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -10933,7 +10933,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/e2dgitzye94q3k5r74sr764xdiuw.webp?v=1767028567
 - [world peace](https://www.tadam-art.com/products/world-peace)
-  Updated: 2026-01-09T17:54:56Z
+  Updated: 2026-01-12T10:10:10Z
   Vendor: Eric Schwarz
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -11089,7 +11089,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/24dc1xj5u1f5s1xyu99phyrcsxpw.webp?v=1766563465
 - [SUNRISE](https://www.tadam-art.com/products/sun-reflection)
-  Updated: 2026-01-09T17:54:59Z
+  Updated: 2026-01-12T10:10:15Z
   Vendor: Eric Schwarz
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -11245,7 +11245,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/k91qog96ahe6uqwoxqa7iv4naxmz.webp?v=1766240623
 - [offline](https://www.tadam-art.com/products/offline)
-  Updated: 2026-01-09T17:55:02Z
+  Updated: 2026-01-12T10:10:21Z
   Vendor: Hien Chi Le
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -11401,7 +11401,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/o1a7662m0jdno1w9b7dnaxh1w01x.webp?v=1766562808
 - [alive](https://www.tadam-art.com/products/alive)
-  Updated: 2026-01-09T17:55:06Z
+  Updated: 2026-01-12T10:10:27Z
   Vendor: Hien Chi Le
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -11557,7 +11557,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/1mrh9doglp2oy1k0bd676gq9sgmq.webp?v=1766562639
 - [we have lost control](https://www.tadam-art.com/products/we-have-lost-control)
-  Updated: 2026-01-09T17:55:09Z
+  Updated: 2026-01-12T10:10:31Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -11713,7 +11713,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/3z82xrru9mq2vwji1a5nk82aat9f.webp?v=1766562154
 - [the ascent](https://www.tadam-art.com/products/the-ascent)
-  Updated: 2026-01-09T17:55:12Z
+  Updated: 2026-01-12T10:10:38Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -11869,7 +11869,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/u0woo8ye3prd7u318j4okts0qmr4.webp?v=1766561917
 - [friends](https://www.tadam-art.com/products/friends)
-  Updated: 2026-01-09T17:55:16Z
+  Updated: 2026-01-12T10:10:42Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12025,7 +12025,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/svqqoh9ucq6ehf9dultj8km1ua3a.webp?v=1766561647
 - [feral 2](https://www.tadam-art.com/products/feral-2)
-  Updated: 2026-01-09T17:55:19Z
+  Updated: 2026-01-12T10:10:48Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12181,7 +12181,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/qhyj3jlfme78lhjvkyssr0dd37h1.webp?v=1766561504
 - [feral 1](https://www.tadam-art.com/products/feral-1)
-  Updated: 2026-01-09T17:55:22Z
+  Updated: 2026-01-12T10:10:54Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12337,7 +12337,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/1a6t0fl43fuzkkbodj0c5415f13m.webp?v=1766561338
 - [beak](https://www.tadam-art.com/products/palace-st-gallen)
-  Updated: 2026-01-09T17:55:25Z
+  Updated: 2026-01-12T10:10:58Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12493,7 +12493,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/2dxkc1v8eevinnwkup7puv9t6812.webp?v=1766561057
 - [bataille](https://www.tadam-art.com/products/bataille)
-  Updated: 2026-01-09T17:55:29Z
+  Updated: 2026-01-12T10:11:04Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12649,7 +12649,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/3a1lmg9m8wjmisgyotp5yxksmts1.webp?v=1766560950
 - [snake 2](https://www.tadam-art.com/products/snake-2)
-  Updated: 2026-01-09T17:55:32Z
+  Updated: 2026-01-12T10:11:09Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12805,7 +12805,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/pqc8b9vqp43bkqv4mz3uvfe3fspa.webp?v=1766560818
 - [snake 1](https://www.tadam-art.com/products/snake-1)
-  Updated: 2026-01-09T17:55:35Z
+  Updated: 2026-01-12T10:11:15Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -12961,7 +12961,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/6u4ltz775ji865bgoyark29vea3b.webp?v=1766560480
 - [bubble 1](https://www.tadam-art.com/products/bubble-1)
-  Updated: 2026-01-09T17:55:39Z
+  Updated: 2026-01-12T10:11:20Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -13117,7 +13117,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/qykfk1le74kvg84nk6eyq7msur1w.webp?v=1766560363
 - [akzent](https://www.tadam-art.com/products/akzent)
-  Updated: 2026-01-09T17:55:41Z
+  Updated: 2026-01-12T10:11:25Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -13273,7 +13273,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/6o5jvf6yjly4raff7ai89c67tb2i.webp?v=1766560171
 - [friends 2](https://www.tadam-art.com/products/friends-2)
-  Updated: 2026-01-09T17:55:45Z
+  Updated: 2026-01-12T10:11:31Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -13429,7 +13429,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/tuk65jgpxckdxvqc9en8cae111kq.webp?v=1766559796
 - [bubble 2](https://www.tadam-art.com/products/bubble-2)
-  Updated: 2026-01-09T17:55:47Z
+  Updated: 2026-01-12T10:11:35Z
   Vendor: Jérôme Bizien
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -13585,7 +13585,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/fm5qqbnj3zngvj0zq8v5nuxvcrhi.webp?v=1766560227
 - [blob city](https://www.tadam-art.com/products/blob-city)
-  Updated: 2026-01-09T17:55:51Z
+  Updated: 2026-01-12T10:11:42Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -13741,7 +13741,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/y6tsgcm4g6d3ec2l0svx2ln8hkdp.webp?v=1767425810
 - [Yayanagi Knows best](https://www.tadam-art.com/products/yayanagi-knows-best)
-  Updated: 2026-01-09T17:55:55Z
+  Updated: 2026-01-12T10:11:48Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -13897,7 +13897,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/vl4xchdw0udagg6rx2jyc9xjrcd2.webp?v=1767425933
 - [Triplets](https://www.tadam-art.com/products/triplets)
-  Updated: 2026-01-09T17:55:58Z
+  Updated: 2026-01-12T10:11:53Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14053,7 +14053,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/afjt7w0vl8aocjepuwfdsmbc5xpk.webp?v=1767426007
 - [Strange Playground](https://www.tadam-art.com/products/strange-playground)
-  Updated: 2026-01-09T17:56:02Z
+  Updated: 2026-01-12T10:12:00Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14209,7 +14209,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/kwu26xa1a37cu5ntcc1qb6ca327f.webp?v=1767426515
 - [Sputnik Sweatheart](https://www.tadam-art.com/products/sputnik-sweatheart)
-  Updated: 2026-01-09T17:56:05Z
+  Updated: 2026-01-12T10:12:04Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14365,7 +14365,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/tb9bdwdcwej4rudxho5wffsv3wfp.webp?v=1767426528
 - [Parisole](https://www.tadam-art.com/products/parisole)
-  Updated: 2026-01-09T17:56:08Z
+  Updated: 2026-01-12T10:12:11Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14521,7 +14521,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/jp1sq944drqjyscvkv7jev08505s.webp?v=1767426219
 - [Glowing Sculpture](https://www.tadam-art.com/products/glowing-sculpture)
-  Updated: 2026-01-09T17:56:12Z
+  Updated: 2026-01-12T10:12:17Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14677,7 +14677,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/1ky3y5vyv60mledb1is9yibiybun.webp?v=1767427877
 - [Fountain of Nonsense](https://www.tadam-art.com/products/fountain-of-nonsense)
-  Updated: 2026-01-09T17:56:15Z
+  Updated: 2026-01-12T10:12:22Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14833,7 +14833,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/r1slzimjtf2uuybdbdbrdq0n42v6.webp?v=1767426306
 - [Exit](https://www.tadam-art.com/products/exit)
-  Updated: 2026-01-09T17:56:18Z
+  Updated: 2026-01-12T10:12:28Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -14989,7 +14989,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/z7px0qefm99g9v1c5qm3oqbg1yj7.webp?v=1767426502
 - [Orb Fountain](https://www.tadam-art.com/products/orb-fountain)
-  Updated: 2026-01-09T17:56:21Z
+  Updated: 2026-01-12T10:12:33Z
   Vendor: Rowena Lloyd
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -15145,7 +15145,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/dwmlj0iz73sy1a97f2jeqztsctk0.webp?v=1767426469
 - [Colors from the deep](https://www.tadam-art.com/products/colors-from-the-deep)
-  Updated: 2026-01-09T17:56:25Z
+  Updated: 2026-01-12T10:12:39Z
   Vendor: Timothée Boubay
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -15301,7 +15301,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/j2nyfd5cghcq67lqj4p64j4ryb62.webp?v=1767393288
 - [Countryside](https://www.tadam-art.com/products/countryside)
-  Updated: 2026-01-09T17:56:28Z
+  Updated: 2026-01-12T10:12:45Z
   Vendor: Timothée Boubay
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -15457,7 +15457,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ssx6g0x0pzuobz8v1zsltz7bxayf.webp?v=1767426855
 - [CHROME SNAKE](https://www.tadam-art.com/products/chrome-snake)
-  Updated: 2026-01-09T17:56:31Z
+  Updated: 2026-01-12T10:12:49Z
   Vendor: Alex Parnassus
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -15613,7 +15613,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/st4bwd99b4owd1w9ofvqocev8xoh.webp?v=1767426932
 - [RED HEART](https://www.tadam-art.com/products/red-heart)
-  Updated: 2026-01-09T17:56:35Z
+  Updated: 2026-01-12T10:12:56Z
   Vendor: Alex Parnassus
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -15769,7 +15769,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ltlb09pgxuyd3ngg611c9tcw4nhq.webp?v=1767426999
 - [DAY DREAMING](https://www.tadam-art.com/products/day-dreaming)
-  Updated: 2026-01-09T17:56:38Z
+  Updated: 2026-01-12T10:13:01Z
   Vendor: Angus Vasili
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -15925,7 +15925,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/nddlmj68eej8be855c8ukiksxjgd.webp?v=1767395018
 - [SKY HOUSE](https://www.tadam-art.com/products/sky-house)
-  Updated: 2026-01-09T17:56:42Z
+  Updated: 2026-01-12T10:13:08Z
   Vendor: Angus Vasili
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -16081,7 +16081,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/5qgn4uxl06gho0rehf3n6prtjytu.webp?v=1767427180
 - [an khang](https://www.tadam-art.com/products/an-khang)
-  Updated: 2026-01-09T17:56:46Z
+  Updated: 2026-01-12T10:13:14Z
   Vendor: Hien Chi Le
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -16237,7 +16237,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/psaie9owbekw3zl288i1w0bhill9.webp?v=1767427337
 - [DO NOT DISTURB](https://www.tadam-art.com/products/do-not-disturb)
-  Updated: 2026-01-09T17:56:48Z
+  Updated: 2026-01-12T10:13:19Z
   Vendor: Hien Chi Le
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -16393,7 +16393,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/8rkd7eh9443tei6b5tr2yyo7vktb.webp?v=1767427401
 - [Handle with care](https://www.tadam-art.com/products/handle-with-care)
-  Updated: 2026-01-09T17:56:52Z
+  Updated: 2026-01-12T10:13:25Z
   Vendor: Hien Chi Le
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -16549,7 +16549,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/kmjv8gnjh0s20l0v7h2fxmkfcw9f.webp?v=1767427480
 - [Transmission](https://www.tadam-art.com/products/q)
-  Updated: 2026-01-09T17:56:55Z
+  Updated: 2026-01-12T10:13:29Z
   Vendor: Mikhail Lychkovskiy
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -16705,7 +16705,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/btt7btyqj4o0cgfg2c8uyguipr0f.webp?v=1767427640
 - [Thin Vuong](https://www.tadam-art.com/products/thin-vuong)
-  Updated: 2026-01-09T17:56:58Z
+  Updated: 2026-01-12T10:13:35Z
   Vendor: Hien Chi Le
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -16861,7 +16861,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/wzp7ssyv5eenhhxsbmp5n5xyikpb.webp?v=1767427709
 - [Butterfly](https://www.tadam-art.com/products/butterfly)
-  Updated: 2026-01-09T17:57:02Z
+  Updated: 2026-01-12T10:13:40Z
   Vendor: Alex Parnassus
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -17017,7 +17017,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/rcpme6y34kk6m57q6skds1x5wkvb.webp?v=1767425653
 - [OPEN YOUR MOUTH](https://www.tadam-art.com/products/open-your-mouth)
-  Updated: 2026-01-09T17:57:05Z
+  Updated: 2026-01-12T10:13:45Z
   Vendor: Alex Parnassus
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -17173,7 +17173,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/qx0wmp4pfkguhtoda0wp0mjyhwq3.webp?v=1767359412
 - [Two Palms](https://www.tadam-art.com/products/two-palms)
-  Updated: 2026-01-09T17:57:09Z
+  Updated: 2026-01-12T10:13:51Z
   Vendor: Itamar Makover
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -17329,7 +17329,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/he6kkok7xrpfm4hmw655y25merj5.webp?v=1767425453
 - [Chaos](https://www.tadam-art.com/products/chaos-1)
-  Updated: 2026-01-09T17:57:12Z
+  Updated: 2026-01-12T10:13:56Z
   Vendor: Itamar Makover
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -17484,8 +17484,8 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
   - [50 x 70 cm / 19 x 27″ / Green Wood](https://www.tadam-art.com/products/chaos-1?variant=54046175428931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/ugzcsgwh3jqlcy23owmahcerw0fu.webp?v=1767359174
-- [Navigating in Times of storm](https://www.tadam-art.com/products/navigating-in-times-of-storm)
-  Updated: 2026-01-09T17:57:15Z
+- [Navigating in Times of storm - Poster Art Affiche by Itamar Makover](https://www.tadam-art.com/products/navigating-in-times-of-storm): Navigating in Times of storm est une affiche d’art abstrait moderne signée Itamar Makover. Un poster déco design et coloré pour sublimer votre intérieur.
+  Updated: 2026-01-14T11:32:03Z
   Vendor: Itamar Makover
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -17641,7 +17641,7 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4401/0563/files/1d8az695dx0g1rhvixhewwqp6av7.webp?v=1767425226
 - [limited body endless soul](https://www.tadam-art.com/products/limited-body-endless-soul)
-  Updated: 2026-01-09T17:57:19Z
+  Updated: 2026-01-12T10:14:08Z
   Vendor: Itamar Makover
   Product Type: Fine Art Paper Print
   Availability: Available
@@ -17801,61 +17801,61 @@ TADAM is an online gallery dedicated to graphic design and modern art. We showca
 ## Collections
 
 - [TOUT LES PRINTS](https://www.tadam-art.com/collections/allprints): We support independant artists around the world.
-  Updated: 2026-01-09T17:57:17Z
+  Updated: 2026-01-13T12:19:04Z
   Total Products: 113
 - [Sergio Ortiz](https://www.tadam-art.com/collections/sergio-ortiz): Sergio Ortiz is an artist known for vibrant, expressive works that blend bold colors with geometric patterns. His art fuses cultural influences with modern design, inviting emotion and reflection. Through his pieces, he celebrates creativity, diversity, and human connection.
-  Updated: 2026-01-09T17:52:00Z
+  Updated: 2026-01-12T10:05:19Z
   Total Products: 2
 - [ROSI FEIST](https://www.tadam-art.com/collections/rosi-feist): Rosi Feist, born in 1981 in Dresden in the former GDR, grew up near the borders of Western Germany and the Czech Republic. He studied Media Art & Design at the Bauhaus University Weimar, developing much of his work under Prof. Christine Hill. Feist draws inspiration from photographs taken by his wife during their travels in the USA—capturing abandoned motels, desert landscapes, and overlooked everyday objects. Fascinated by the trivial, he transforms simple items like garden chairs or bins into minimalist pop art. Using pastel tones, layered shapes, and textured papers, his work evokes a nostalgic appreciation for the quiet banality of daily life.
-  Updated: 2026-01-10T08:10:26Z
+  Updated: 2026-01-12T10:05:58Z
   Total Products: 1
 - [Alina Shulhouskaya](https://www.tadam-art.com/collections/alina-shulhouskaya): Alina Shulhouskaya is a senior graphic designer and illustrator from Warsaw, Poland, known for her whimsical retro-inspired characters. Her work blends humor, nostalgia, and playful storytelling, bringing charming, light-hearted worlds to life through bold shapes and expressive design.
-  Updated: 2026-01-10T08:10:10Z
+  Updated: 2026-01-12T10:06:09Z
   Total Products: 2
 - [carla palette](https://www.tadam-art.com/collections/carla-palette): Carla Palette crée des œuvres typographiques puissantes et provocantes. Elle part du langage et des lettres, qu’elle aime volontairement déformer, étirer ou casser pour sortir des règles classiques du design. Son travail explore des thèmes forts comme le désir, le contrôle et la perte de maîtrise, en jouant avec la tension entre structure graphique et émotion. Certaines œuvres sont discrètes, d’autres plus frontales, mais toutes cherchent à provoquer une réaction immédiate chez celui qui la regarde. Pas besoin d’analyser : l’essentiel est de ressentir et d’avoir envie de regarder.
-  Updated: 2026-01-10T08:11:25Z
+  Updated: 2026-01-12T10:05:08Z
   Total Products: 11
 - [Elena Ristova](https://www.tadam-art.com/collections/elena-ristova): Elena Ristova s’est imposée sur la scène artistique de Sydney. C’est en étudiant à la National Academy of Arts qu’elle découvre sa passion pour la sérigraphie. Très vite, elle développe sa propre marque, affine son style singulier d’art moderne et lance sa boutique dédiée aux tirages d’art abstrait.
-  Updated: 2026-01-10T08:11:54Z
+  Updated: 2026-01-12T10:03:58Z
   Total Products: 2
 - [Rowena Lloyd](https://www.tadam-art.com/collections/rowena-lloyd): Rowena Lloyd est une designer, animatrice et illustratrice basée à Naarm/Melbourne, en Australie. Son travail mêle illustration, mouvement et narration visuelle, avec une approche sensible et contemporaine qui donne vie à des univers à la fois ludiques et expressifs. Son parcours et ses créations ont été mis en avant par des médias reconnus tels que It’s Nice That, BOOOOOOOM ou encore Frankie Magazine, témoignant de la singularité et de la pertinence de son regard créatif.
-  Updated: 2026-01-10T08:09:55Z
+  Updated: 2026-01-12T10:12:30Z
   Total Products: 10
 - [Mikhail Lychkovskiy](https://www.tadam-art.com/collections/mikhail-lychkovskiy): Mikhail Lychkovskiy est un designer contemporain et créateur d’affiches. Diplômé de la British Higher School of Art & Design, il a ensuite étudié auprès de Peter Bankov, élargissant son champ de techniques et développant une profonde affinité pour l’école française de design, qui, aux côtés des écoles allemande et suisse, constitue l’une de ses principales sources d’inspiration. Son travail repose sur un traitement typographique affirmé et le mélange de styles graphiques nationaux. Ses œuvres sont régulièrement présentées dans des festivals de design graphique et ont été récompensées par plus de vingt prix internationaux.
-  Updated: 2026-01-10T08:09:22Z
+  Updated: 2026-01-12T10:13:26Z
   Total Products: 6
 - [Angus Vasili](https://www.tadam-art.com/collections/angus-vassily): Angus Vasili est un artiste reconnu pour ses sérigraphies à la fois architecturales et abstraites. Diplômé en design graphique et illustration à la Liverpool John Moores University, il a développé une pratique axée sur le processus, mêlant sérigraphie, photographie et finitions manuelles. Inspiré par la dégradation urbaine — notamment les affiches et panneaux publicitaires altérés par le temps — il transforme ces traces en formes abstraites ouvertes à l’interprétation. Son travail révèle la beauté cachée des espaces urbains négligés, en équilibrant déconstruction et reconstruction, et repousse sans cesse les limites de l’estampe contemporaine.
-  Updated: 2026-01-10T08:09:38Z
+  Updated: 2026-01-12T10:13:03Z
   Total Products: 3
 - [Rīm Atelier](https://www.tadam-art.com/collections/rim-atelier): Rīm Atelier est le projet artistique d’un designer français. Il puise dans le meilleur de chaque époque pour façonner un style singulier et intemporel. À travers l’exploration de nouveaux langages visuels, il cherche à transformer l’émotion en matière artistique, donnant naissance à des œuvres sensibles et expressives.
-  Updated: 2026-01-10T08:09:03Z
+  Updated: 2026-01-12T10:09:49Z
   Total Products: 4
 - [ERIC SCHWARZ](https://www.tadam-art.com/collections/eric-schwarz): Eric Schwarz travaille comme illustrateur et auteur de bande dessinée indépendant depuis 2019. Il a notamment collaboré avec The New York Times, présenté son travail lors de la conférence Pictoplasma et publié son deuxième livre, The Art Of Oversharing, chez Paripé Books en 2024. Son travail a été exposé à Berlin, Paris, New York et Minorque, et a été désigné comme l’une des meilleures œuvres de 2024 par la Society of Illustrators. Depuis 2022, il enseigne également des cours de bande dessinée et d’illustration à la HBKsaa
-  Updated: 2026-01-10T08:02:59Z
+  Updated: 2026-01-12T10:10:11Z
   Total Products: 4
 - [ALEX PARNASSUS](https://www.tadam-art.com/collections/alex-parnassus): Alex est un designer basé à Athènes, en Grèce, qui combine direction artistique et design produit pour explorer l’espace où la créativité rencontre la technologie.
-  Updated: 2026-01-10T08:08:33Z
+  Updated: 2026-01-12T10:13:42Z
   Total Products: 5
 - [ARTY GAVA](https://www.tadam-art.com/collections/arty-gava): Lay Hoon, plus connue sous le nom d’Arty Guava, est une artiste née en Malaisie et installée à Vancouver, au Canada. Sa pratique artistique englobe une grande diversité de médiums, allant de l’art numérique à la peinture traditionnelle, en passant par des fresques murales de grande échelle et des installations d’art digital.
-  Updated: 2026-01-10T08:13:20Z
+  Updated: 2026-01-12T10:03:43Z
   Total Products: 2
 - [JEROME BIZIEN](https://www.tadam-art.com/collections/jerome-bizien): Jérôme Bizien est un designer graphique français vivant à Saint-Gall, en Suisse. Depuis l’obtention de son master en design à la Haute école des arts de Berne, il a travaillé sur de nombreux projets créatifs pour des entreprises, des organisations et des artistes. Il s’est fait connaître notamment pour son travail dans l’industrie musicale, en concevant des visuels pour des groupes renommés et des salles de concert à travers le monde. Son travail a également été présenté dans des expositions dans plusieurs pays, dont les États-Unis, l’Allemagne, la Suisse, la Russie, la Roumanie, l’Amérique du Sud, le Canada et la France, entre autres.
-  Updated: 2026-01-10T08:21:49Z
+  Updated: 2026-01-12T10:11:33Z
   Total Products: 13
 - [LITTLE DEAN](https://www.tadam-art.com/collections/little-dean): Dean Ng, également connu sous le nom de Little Dean, est un artiste et illustrateur autodidacte basé à Kuala Lumpur, en Malaisie. Né et élevé sur place, il a découvert sa passion pour l’art dès son plus jeune âge et a construit un corpus d’œuvres varié grâce à sa détermination et à un apprentissage autonome. Ses créations reflètent une vision personnelle singulière, développée en dehors des parcours artistiques traditionnels.
-  Updated: 2026-01-10T08:33:49Z
+  Updated: 2026-01-13T12:19:04Z
   Total Products: 8
 - [Ada Jarzebowska](https://www.tadam-art.com/collections/ada-jarzebowska): Ada est une designer graphique et illustratrice basée à Poznań. Diplômée de la Faculté des Beaux-Arts de l’Université Nicolas-Copernic à Toruń ainsi que de la Facultat de Belles Arts de l’Université de Barcelone, elle collabore avec des institutions culturelles, des marques de mode et des groupes de musique. Son travail s’inspire de la vie urbaine, de la nature — pierres et arbres — et du charme des vieux quartiers.
-  Updated: 2026-01-10T08:39:45Z
+  Updated: 2026-01-12T10:06:56Z
   Total Products: 3
 - [Hien Chi Lee](https://www.tadam-art.com/collections/hien-chi-lee): Hien Chi Le (@visual_anxiety_) est une designer graphique basée à Hanoï, au Vietnam. Son travail bouscule les codes du design et célèbre les pratiques expérimentales.
-  Updated: 2026-01-10T08:47:55Z
+  Updated: 2026-01-12T10:13:31Z
   Total Products: 6
 - [Itamar Makover](https://www.tadam-art.com/collections/itamar-makover): Illustrateur et designer graphique basé à Stockholm, Itamar Makover insuffle à son travail des influences surréalistes et psychédéliques. Ses créations prennent la forme de récits abstraits ou fragmentés, explorant le symbolisme du subconscient et ses réflexions personnelles. Son univers visuel navigue entre intuition, imagination et philosophie intime.
-  Updated: 2026-01-10T08:53:59Z
+  Updated: 2026-01-12T10:14:04Z
   Total Products: 4
 - [Yuliya Ratnikova](https://www.tadam-art.com/collections/yuliya-ratnikova): Designer graphique spécialisé en branding, identité visuelle, affiches et typographie expérimentale. Ses affiches sont issues d’expérimentations autour de divers effets, textures, superpositions et de l’utilisation de couleurs audacieuses. Son travail est régulièrement présenté dans des festivals d’affiches, notamment la Biennale internationale de l’affiche de Varsovie, l’Intercontinental Biennale, entre autres. Il a également été publié sur des plateformes telles que Bounty Hunters Posters, Slanted: Posters Can Help, Experimental Type 2.0, entre autres. Membre de la communauté People of Print.
-  Updated: 2026-01-10T09:01:20Z
+  Updated: 2026-01-12T10:08:43Z
   Total Products: 6
 
 ## Store Pages
