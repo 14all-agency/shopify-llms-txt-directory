@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2026-01-11T00:00:32.747Z
+- Updated At: 2026-01-18T00:00:34.788Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/RenderedImage_eb97cc0a-7537-4161-9c95-b71651d7af76.png?v=1766256095
   Price: $12.99 USD
 - [Live Ugly - Possum Wisdom Keychain](https://nat20lasercrafts.com/products/live-ugly-possum-wisdom-keychain): Embrace the possum lifestyle with this hilariously honest keychain that celebrates nature's most chaotic marsupial. Product Details Large heart-shaped wooden keychain Precision laser-engraved possum design with stars Text reads "LIVE UGLY FAKE YOUR DEATH EAT TRASH GET HIT BY A CAR" Natural wood finish with detailed engraving Durable metal keyring and chain included Approximately 3" across - substantial size that won't get lost Lightweight and comfortable to carry Peak Possum Energy This isn't just a keychain—it's a lifestyle manifesto. The laser-engraved possum mid-scream perfectly captures the chaotic energy we all feel sometimes. Surrounded by stars like the celestial trash panda it is, this possum delivers the most relatable life advice you'll ever receive on a wooden heart. Perfect For Anyone who relates a little too hard to possums Gifts for friends with a dark sense of humor People who appreciate honest life advice Keys, bags, backpacks, or purse charms Starting conversations and making people laugh Embracing the chaos of everyday life Whether you're having a rough day or just living your best possum life, this keychain serves as a reminder that sometimes the best approach is to just scream into the void and eat some trash. The substantial size means you'll never lose your keys again, and the durable construction ensures this possum wisdom will accompany you through all of life's adventures (and misadventures).
-  Updated: 2025-12-21T06:41:54Z
+  Updated: 2026-01-12T22:40:51Z
   Vendor: Nat 20 Custom Laser Crafts
   Product Type: 
   Availability: Available
@@ -207,6 +207,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/IMG-7783.heic?v=1766882657
     Price: $34.99 USD
+- [Custom Laser-Engraved Cork Coasters](https://nat20lasercrafts.com/products/custom-laser-engraved-cork-coasters): Protect your surfaces in style with our premium laser-engraved cork coasters. Each coaster features intricate fantasy designs—from Celtic knots to dragon motifs—expertly etched into natural cork. Premium natural cork – Durable, heat-resistant, and eco-friendly Laser-engraved designs – Crisp, permanent detailing that won't fade Perfect for gamers & fantasy enthusiasts – Bring adventure to your tabletop Bundle pricing available – 2 for $10 or 6 for $25 Whether you're protecting your gaming table or adding a touch of fantasy to your home bar, these coasters combine craftsmanship with character.
+  Updated: 2026-01-12T22:40:51Z
+  Vendor: Nat 20 Custom Laser Crafts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/image_b44a1e0c-9ec2-4397-9b30-0cc1a58fb618.png?v=1768102482
+  Price: $5.00 USD
 
 ## Collections
 
@@ -220,7 +227,7 @@
   Updated: 2025-12-19T21:44:40Z
   Total Products: 5
 - [Animal & Wilderness Custom Laser Crafts - Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/animal-wilderness): Discover custom laser-engraved animal and wilderness themed products. Personalized gifts featuring wildlife, nature scenes, and outdoor motifs on slate, wood, glass & more.
-  Updated: 2025-12-21T01:23:12Z
+  Updated: 2026-01-13T12:20:22Z
   Total Products: 9
 - [Collaborators Corner - Multimedia Art & Custom Collaborations | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/collaborators-corner): Discover unique collaborative art pieces blending photography, digital art, and custom laser engraving. Community-driven creativity showcasing multimedia possibilities.
   Updated: 2025-12-20T20:27:08Z
@@ -247,8 +254,8 @@
   Updated: 2025-12-19T21:41:24Z
   Total Products: 5
 - [Cork & Craft Collection - Fantasy Home Decor & Garden Accessories - Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/cork-and-craft): Discover our Cork & Craft collection featuring laser-engraved coasters, cutting boards, plant markers & serving boards with fantasy tavern and garden themes.
-  Updated: 2025-12-21T01:28:58Z
-  Total Products: 8
+  Updated: 2026-01-13T12:20:22Z
+  Total Products: 9
 
 ## Blogs
 
@@ -279,6 +286,15 @@
     Author: Nat 20 Custom Laser Crafts
   - [Embracing Life's Flaws with the Live Ugly Possum Wisdom Keychain](https://nat20lasercrafts.com/blogs/news/embracing-lifes-flaws-with-the-live-ugly-possum-wisdom-keychain): Embracing Life's Flaws with the Live Ugly Possum Wisdom Keychain
     Updated: 2026-01-10T01:04:42Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Exploring the Mystical World of Chibi Cryptids: The Perfect Statement for Your Earring Collection](https://nat20lasercrafts.com/blogs/news/exploring-the-mystical-world-of-chibi-cryptids-the-perfect-statement-for-your-earring-collection): Exploring the Mystical World of Chibi Cryptids: The Perfect Statement for Your Earring Collection
+    Updated: 2026-01-12T04:02:21Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Discover the Artistry of Top Decking Life's Laser Engraved Slate Coasters](https://nat20lasercrafts.com/blogs/news/discover-the-artistry-of-top-decking-lifes-laser-engraved-slate-coasters): Discover the Artistry of Top Decking Life's Laser Engraved Slate Coasters
+    Updated: 2026-01-14T03:13:12Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Exploring the Quirky Charms of Space Possum Wall Art](https://nat20lasercrafts.com/blogs/news/exploring-the-quirky-charms-of-space-possum-wall-art): Exploring the Quirky Charms of Space Possum Wall Art
+    Updated: 2026-01-17T01:05:55Z
     Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
