@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2026-01-08T00:00:36.531Z
+- Updated At: 2026-01-19T00:00:38.109Z
 
 ## Products
 
@@ -1647,7 +1647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/mockup-of-a-man-wearing-a-pullover-hoodie-with-his-face-cropped-m839_3.png?v=1763831959
     Price: 54,99 € EUR
 - [Dirty Profits Bold Print Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/dirty-profits-bold-print-streetwear-oversized-hoodie): Dirty Profits Hoodie – Streetwear mit cyan-violettem Gradient. Schweres Material & starkes Statement-Design. WRONGCROW Oversize Streetwear. Jetzt entdecken!
-  Updated: 2026-01-06T13:39:06Z
+  Updated: 2026-01-09T13:12:13Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3188,7 +3188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/69552fb3da3f9.jpg?v=1767190611
     Price: 44,99 € EUR
 - [Wrongcrow Arch Logo Hoodie](https://www.wrongcrow.com/products/wrongcrow-arch-logo-hoodie): Hol dir den WRONGCROW Arch Logo Hoodie. Mit markantem lila Schriftzug, Oversized-Passform & Premium-Baumwolle. Dein Statement für Street Knowledge!
-  Updated: 2026-01-02T07:59:42Z
+  Updated: 2026-01-08T03:44:45Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3242,7 +3242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/Gemini_Generated_Image_w38682w38682w386.png?v=1767300700
     Price: 54,99 € EUR
 - [Wrongcrow Arch Logo Gradient Hoodie](https://www.wrongcrow.com/products/wrongcrow-arch-logo-gradient-hoodie): Hol dir den WRONGCROW Arch Logo Hoodie. Mit markantem gradient Schriftzug, Oversized-Passform & Premium-Baumwolle. Dein Statement für Street Knowledge!
-  Updated: 2026-01-02T08:54:57Z
+  Updated: 2026-01-08T03:44:28Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3400,13 +3400,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.wrongcrow.com/policies/privacy-policy)
-  Updated: 2025-12-25T04:00:24+01:00
+  Updated: 2026-01-18T03:58:29+01:00
 - [Shipping Policy](https://www.wrongcrow.com/policies/shipping-policy)
   Updated: 2025-06-11T17:45:48+02:00
 - [Refund Policy](https://www.wrongcrow.com/policies/refund-policy)
-  Updated: 2025-12-19T06:26:41+01:00
+  Updated: 2026-01-09T06:46:17+01:00
 - [Terms of Service](https://www.wrongcrow.com/policies/terms-of-service)
-  Updated: 2026-01-06T04:07:36+01:00
+  Updated: 2026-01-15T04:09:59+01:00
 - [Contact Information](https://www.wrongcrow.com/policies/contact-information)
   Updated: 2025-06-12T14:15:51+02:00
 
