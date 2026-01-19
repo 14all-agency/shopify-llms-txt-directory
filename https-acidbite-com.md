@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2026-01-12T00:00:35.778Z
+- Updated At: 2026-01-19T00:00:36.481Z
 
 ## Products
 
@@ -20,7 +20,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/S8_RESIZED_1829f893-afdd-4b9f-a596-0007416ab739.png?v=1708713197
   Price: $29.00 USD
 - [Analog video galore](https://acidbite.com/products/analog-video-package): Get that analog video nostalgia with 50+ analog video statics, glitches, viewfinder scans and preroll assets from various cameras and VCR decks.
-  Updated: 2025-12-23T10:27:41Z
+  Updated: 2026-01-14T17:49:56Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -55,7 +55,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/TORN_RESIZED_679bd795-e75c-4b34-bcb6-cd34be4178d9.png?v=1708713286
   Price: $19.00 USD
 - [Colorful burn textures & transitions](https://acidbite.com/products/film-burns): 33 differently colored film burns shot on Kodak 8mm Stock and scanned in open gate 4k resolution! Use them as textures or transitions!
-  Updated: 2025-12-18T11:57:20Z
+  Updated: 2026-01-18T21:56:48Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -125,7 +125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS_RESIZED_compress.png?v=1742313182
   Price: $29.00 USD
 - [Dark & punchy LUTs](https://acidbite.com/products/cine-luts): Get the punchy look with 13 distinctive LUTs for all cameras, including free conversion LUTs.
-  Updated: 2026-01-11T05:26:32Z
+  Updated: 2026-01-13T10:30:06Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -195,7 +195,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/TEXTILE_RESIZED_2e0aa369-b574-4692-955c-e4aaad6ac286.png?v=1708713227
   Price: $39.00 USD
 - [Punchy style, 36 looks](https://acidbite.com/products/gritty-luts): Get the punchy style with 36 looks pre-converted for all cameras and LOG formats, including free conversion LUTs.
-  Updated: 2026-01-11T05:27:19Z
+  Updated: 2026-01-13T10:29:22Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -237,7 +237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SMMP_RESIZED-compress.png?v=1742313050
   Price: $39.00 USD
 - [Customizable 4K title designs](https://acidbite.com/products/film-titles): 25 customizable 4K title designs for vertical and horizontal use in all popular softwares.
-  Updated: 2026-01-02T18:52:57Z
+  Updated: 2026-01-12T20:58:58Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
@@ -258,7 +258,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/LIGHTS_RESIZED_20d4e74c-e77e-43eb-a5ea-42f46f5babd1.png?v=1708713100
   Price: $39.00 USD
 - [Kickstart your projects with 60% off](https://acidbite.com/products/kickstart-bundle): Ready to kickstart your editing journey? This is all you need.
-  Updated: 2025-12-18T11:57:22Z
+  Updated: 2026-01-18T11:29:23Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -272,21 +272,21 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/URBAN_RESIZED.png?v=1709300336
   Price: $29.00 USD
 - [CRT Elements](https://acidbite.com/products/crt-elements): A pack full of genuine digitized vintage video textures containing more than 260 files. Feedback effects, textures, overlays, flashes, analog flares. You’ll also get a SFX Toolkit and flat look LUTs pre-converted for all camera manufacturers.
-  Updated: 2025-12-18T11:57:19Z
+  Updated: 2026-01-14T17:49:56Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CRT_ELEMENTS_RESIZED.png?v=1712928723
   Price: $29.00 USD
 - [Bold Titles](https://acidbite.com/products/bold-titles): 25 unique and fully adjustable 4K title designs inspired by fashion and commercial films for vertical and horizontal use in all major softwares.
-  Updated: 2026-01-02T18:54:30Z
+  Updated: 2026-01-12T21:00:03Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BOLD_TITLES_RESIZED.png?v=1716367975
   Price: $29.00 USD
 - [Creative & colorful LUTs](https://acidbite.com/products/thermal-luts): Experience a bold new world with 55 colorful technical looks, including thermal imaging, night vision and infrared + free utility LUTs, so this pack totals 950+ files.
-  Updated: 2026-01-11T05:27:18Z
+  Updated: 2026-01-13T10:29:22Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -300,14 +300,14 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/UPP_RESIZED.png?v=1722087174
   Price: $39.00 USD
 - [Get the Blockbuster Look](https://acidbite.com/products/blockbuster-luts): 20 distinctive cinematic looks inspired by films like “Joker“, "Matrix", "Dune" or “Barbie“.
-  Updated: 2026-01-11T05:27:19Z
+  Updated: 2026-01-13T10:29:22Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BLOCKBUSTER_TITLES_RESIZED.png?v=1727267590
   Price: $29.00 USD
 - [Horror Movie Titles](https://acidbite.com/products/horror-movie-titles): 15 boo-nique and fully adjustable 4K title designs inspired by classic horror and slasher films.
-  Updated: 2026-01-02T18:54:30Z
+  Updated: 2026-01-12T21:00:03Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
@@ -328,7 +328,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS2_RESIZED_d5fc06ff-a6be-4fac-9b4e-0593d199cefc.png?v=1747134764
   Price: $29.00 USD
 - [All our assets, huge savings](https://acidbite.com/products/complete-collection): The all-in-one bundle of handcrafted video assets – easy to use, built to transform your edits.
-  Updated: 2026-01-08T23:21:28Z
+  Updated: 2026-01-13T10:30:06Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -351,40 +351,40 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-16T12:09:17Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-15T12:08:35Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-17T12:08:53Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
   Updated: 2026-01-05T12:07:39Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2026-01-11T12:08:17Z
+  Updated: 2026-01-18T12:08:28Z
   Total Products: 114
 
 ## Policies
