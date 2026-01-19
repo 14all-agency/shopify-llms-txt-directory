@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-10-15T15:54:52Z
 - Contact Email: support@kazehane.com
-- Updated At: 2026-01-12T00:00:27.527Z
+- Updated At: 2026-01-19T00:00:33.705Z
 
 KAZEHANE is a curated multi-brand platform offering selected designer and premium fashion from leading and emerging labels. Our focus is on quality, rarity, and a seamless shopping experience—connecting discerning customers with exclusive pieces across Europe.and United States
 
@@ -317,7 +317,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ4276-g.jpg?v=1767095526
     Price: €54.95 EUR
 - [Jordan](https://kazehane.com/products/jordan-dri-fit-fleece-training-pant-herren-freizeit-jogging-hose-weiss-dq7890-135): Jordan Dri-FIT Fleece Training Pant combines performance technology with casual comfort. Engineered with Nike's signature Dri-FIT moisture-wicking fabric, these men's joggers keep you dry during workouts and everyday wear. The soft fleece construction provides warmth without bulk, while the streamlined silhouette delivers a modern aesthetic. Perfect for training sessions or relaxed days off the court.
-  Updated: 2025-12-30T23:51:30Z
+  Updated: 2026-01-16T08:55:12Z
   Vendor: Brandstyle24
   Product Type: Herren > Hosen
   Availability: Available
@@ -453,7 +453,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/FJ4192-001-g.jpg?v=1765588342
     Price: €118.95 EUR
 - [Reebok](https://kazehane.com/products/reebok-club-c-85-vegan-milk-makeup-herren-sneakers-schuhe-weiss-100072089): The Reebok Club C 85 Vegan in Milk Makeup delivers timeless court-style aesthetics with modern ethical considerations. Crafted with vegan materials, this men's sneaker combines heritage design with contemporary values. The clean white colorway ensures versatile styling across casual and smart-casual wardrobes. Built on Reebok's iconic silhouette, it offers reliable comfort for daily wear while maintaining the understated elegance that defines the Club C legacy.
-  Updated: 2026-01-11T11:38:15Z
+  Updated: 2026-01-17T01:05:45Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -615,7 +615,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV1678-012-g.jpg?v=1765588341
     Price: €204.95 EUR
 - [Nike Air Dunk](https://kazehane.com/products/nike-air-dunk-low-jumbo-ultraman-herren-sneakers-schuhe-dv0821-102): Nike Air Dunk Low Jumbo in the iconic Ultraman colorway. This men's sneaker delivers classic basketball heritage with bold aesthetic appeal. Premium construction and timeless silhouette make it a versatile addition to any collection.
-  Updated: 2025-12-30T23:11:41Z
+  Updated: 2026-01-15T04:38:31Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -737,7 +737,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/14353001-g.jpg?v=1765588341
     Price: €159.95 EUR
 - [Timberland](https://kazehane.com/products/timberland-greenstride-motion-6-low-herren-schuhe-sneaker-schwarz-tb0a6bw5-ebd): Timberland's GreenStride Motion 6 Low combines sustainable craftsmanship with modern performance. This black leather sneaker features responsive cushioning and eco-conscious materials, delivering comfort for everyday wear. The low-profile silhouette suits both casual and professional settings, while premium construction ensures durability. A refined choice for men seeking quality footwear with environmental responsibility.
-  Updated: 2026-01-10T19:29:26Z
+  Updated: 2026-01-15T20:48:06Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -779,13 +779,13 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/TB0A6BW5-EBD-g.jpg?v=1765588342
     Price: €79.95 EUR
 - [Nike Air Force 1](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001): The Nike Air Force 1 is an iconic basketball sneaker that transcends sport and style. Featuring a clean leather upper, responsive cushioning, and a durable rubber sole, this timeless silhouette delivers comfort for everyday wear. Its versatile design pairs effortlessly with any wardrobe, from casual to elevated looks. A true classic that has defined sneaker culture for decades.
-  Updated: 2026-01-07T10:33:27Z
+  Updated: 2026-01-14T20:33:31Z
   Vendor: Brandstyle24
   Product Type: Unisex > Sneaker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV0788-001-g.jpg?v=1765588342
   - [EU 38.5 US 6](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001?variant=52577823424851)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV0788-001-g.jpg?v=1765588342
     Price: €115.95 EUR
   - [EU 39 US 6.5](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001?variant=52577823457619)
@@ -797,7 +797,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV0788-001-g.jpg?v=1765588342
     Price: €115.95 EUR
   - [EU 40.5 US 7.5](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001?variant=52577823523155)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV0788-001-g.jpg?v=1765588342
     Price: €115.95 EUR
   - [EU 45 US 11](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001?variant=52577823555923)
@@ -889,7 +889,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/FZ4110-001-g.jpg?v=1765588341
     Price: €164.95 EUR
 - [Salomon Speedcross Peak GTX - GORE-TEX](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538): Salomon Speedcross Peak GTX delivers trail-ready performance with GORE-TEX waterproofing and advanced grip technology. Engineered for demanding terrain, these men's running shoes combine lightweight responsiveness with protective cushioning. The aggressive tread pattern ensures traction on wet and loose surfaces, while the durable construction handles rugged conditions. Ideal for serious trail runners seeking reliable protection and speed.
-  Updated: 2026-01-08T02:43:25Z
+  Updated: 2026-01-13T00:00:27Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -899,7 +899,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
   - [EU 41 1/3 UK 7.5](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538?variant=52577825161555)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
   - [EU 42 UK 8](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538?variant=52577825194323)
@@ -935,7 +935,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
 - [Nike Dunk](https://kazehane.com/products/nike-dunk-high-university-chenille-swoosh-herren-sneakers-schuhe-leder-dr8805-002): Nike Dunk High University in classic black leather with distinctive chenille Swoosh detailing. Premium construction combines heritage basketball aesthetics with modern comfort. The DR8805-002 delivers timeless style for sneaker enthusiasts who appreciate quality craftsmanship and iconic design. Perfect for casual wear or collecting.
-  Updated: 2026-01-11T15:40:41Z
+  Updated: 2026-01-17T21:17:39Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -1189,7 +1189,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/687977-020-g.jpg?v=1765588342
     Price: €118.95 EUR
 - [Nike SB Paul Rodriguez Zoom Air Low 1 OG](https://kazehane.com/products/nike-sb-paul-rodriguez-zoom-air-low-1-og-herren-sneakers-schuhe-weiss-hq6828-10): The Nike SB Paul Rodriguez Zoom Air Low 1 OG delivers legendary skate performance in a clean white colorway. Built with responsive Zoom Air cushioning and a reinforced design, these men's sneakers combine heritage aesthetics with modern comfort. The iconic Paul Rodriguez silhouette offers reliable grip and board feel for both street skating and everyday wear. A timeless addition to any sneaker collection.
-  Updated: 2026-01-08T22:58:10Z
+  Updated: 2026-01-18T05:23:01Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -1207,7 +1207,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ6828-100-g.jpg?v=1765588342
     Price: €149.95 EUR
   - [EU 41 US 8](https://kazehane.com/products/nike-sb-paul-rodriguez-zoom-air-low-1-og-herren-sneakers-schuhe-weiss-hq6828-10?variant=52577830437203)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ6828-100-g.jpg?v=1765588342
     Price: €149.95 EUR
   - [EU 42 US 8.5](https://kazehane.com/products/nike-sb-paul-rodriguez-zoom-air-low-1-og-herren-sneakers-schuhe-weiss-hq6828-10?variant=52577830469971)
@@ -1397,7 +1397,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DD1391-601-g.jpg?v=1765588341
     Price: €113.95 EUR
 - [adidas X_PLR BOOST](https://kazehane.com/products/adidas-x_plr-boost-herren-sneakers-schuhe-schwarz-hp3131): The adidas X_PLR BOOST combines cutting-edge Boost cushioning technology with a sleek, minimalist silhouette. Engineered for modern performance, these black sneakers deliver responsive comfort and contemporary style. The lightweight construction and streamlined design make them ideal for both everyday wear and athletic pursuits. A versatile essential for those who demand both substance and sophistication in their footwear.
-  Updated: 2025-12-30T22:27:08Z
+  Updated: 2026-01-16T04:52:48Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -1535,7 +1535,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/CW6973-600-g.jpg?v=1765588351
     Price: €199.95 EUR
 - [Salomon GORE-TEX](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-475588): Salomon GORE-TEX trail running shoes engineered for demanding terrain. Advanced waterproof protection meets breathable performance, keeping feet dry without compromising ventilation. Responsive cushioning absorbs impact on technical descents while aggressive tread patterns deliver grip on loose, wet surfaces. Built for runners who demand durability and protection on mountain trails.
-  Updated: 2026-01-07T22:40:56Z
+  Updated: 2026-01-14T12:27:59Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -1592,157 +1592,8 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/475588-g.jpg?v=1765588357
     Price: €116.95 EUR
-- [Dolce & Gabbana Bracelet](https://kazehane.com/products/dolce-gabbana-multicolor-silver-chain-brass-beaded-lobster-clasp-bracelet): Crafted from brass with lustrous silver-toned chain detailing, this Dolce & Gabbana bracelet features vibrant multicolor beads and a secure lobster clasp. A refined accessory that seamlessly transitions from day to evening, combining Italian design heritage with contemporary elegance.
-  Updated: 2025-12-30T22:18:52Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4272413.jpg?v=1765611194
-  Price: €430.00 EUR
-- [Dolce & Gabbana Teddy Bear](https://kazehane.com/products/dolce-gabbana-brown-teddy-bear-gold-crystal-crown-hair-band-diadem): Elevate your accessory collection with this striking Dolce & Gabbana hair band, featuring a plush brown teddy bear adorned with a gleaming gold crystal crown. The sophisticated diadem design combines playful charm with luxury craftsmanship, making it an ideal statement piece for fashion-forward individuals who appreciate designer details. Perfect for adding a touch of whimsy and elegance to any ensemble.
-  Updated: 2025-12-30T22:14:14Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4404728.jpg?v=1765611194
-  Price: €587.40 EUR
-- [Dolce & Gabbana Bomber Jacket](https://kazehane.com/products/dolce-gabbana-brown-beaded-crown-skull-logo-jacket): Dolce & Gabbana An iconic Dolce & Gabbana double-breasted bomber jacket crafted from premium nylon with meticulous Italian construction. This statement piece features elaborate embellishment
-  Updated: 2025-12-30T22:10:23Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/1283476.jpg?v=1765611197
-  - [IT44 | S](https://kazehane.com/products/dolce-gabbana-brown-beaded-crown-skull-logo-jacket?variant=52578016002387)
-    Availability: Available
-    Price: €1,314.30 EUR
-  - [IT46 | M](https://kazehane.com/products/dolce-gabbana-brown-beaded-crown-skull-logo-jacket?variant=52578016035155)
-    Availability: Available
-    Price: €1,314.30 EUR
-  - [IT50 | L](https://kazehane.com/products/dolce-gabbana-brown-beaded-crown-skull-logo-jacket?variant=52578016067923)
-    Availability: Available
-    Price: €1,314.30 EUR
-- [Neil Barrett Backpack](https://kazehane.com/products/neil-barrett-black-nylon-men-backpack): Crafted from premium black nylon, this Neil Barrett backpack merges minimalist design with functional sophistication. The streamlined silhouette suits both professional and casual settings, while durable construction ensures reliable everyday performance. An essential accessory for the discerning man who values understated elegance and practicality.
-  Updated: 2025-12-30T21:55:16Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4115877.webp?v=1765611198
-  Price: €289.60 EUR
-- [Tommy Hilfiger Sneaker](https://kazehane.com/products/tommy-hilfiger-bianco-leather-women-sneaker): Tommy Hilfiger Sneaker combines timeless American sportswear heritage with contemporary design. Crafted for everyday versatility, these sneakers deliver comfort and style whether you're navigating city streets or casual outings. The iconic branding reflects quality craftsmanship, while the clean silhouette pairs effortlessly with any wardrobe. A reliable choice for those who appreciate understated sophistication in footwear.
-  Updated: 2025-12-30T21:48:46Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/7557639.jpg?v=1765611197
-  - [EU38/US8](https://kazehane.com/products/tommy-hilfiger-bianco-leather-women-sneaker?variant=52578017509715)
-    Availability: Available
-    Price: €151.60 EUR
-  - [EU39/US9](https://kazehane.com/products/tommy-hilfiger-bianco-leather-women-sneaker?variant=52578017542483)
-    Availability: Available
-    Price: €151.60 EUR
-  - [EU40/US10](https://kazehane.com/products/tommy-hilfiger-bianco-leather-women-sneaker?variant=52578017575251)
-    Availability: Available
-    Price: €151.60 EUR
-- [Givenchy Backpack](https://kazehane.com/products/givenchy-red-black-nylon-urban-backpack): Givenchy's urban backpack merges sophisticated design with practical functionality. Crafted from durable nylon in striking red and black colorways, this piece delivers contemporary style for the modern commuter. The structured silhouette accommodates daily essentials while maintaining a refined aesthetic. Perfect for those who demand both elegance and utility in their everyday carry.
-  Updated: 2025-12-30T21:42:31Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/1547039.jpg?v=1765611198
-  Price: €902.00 EUR
-- [Cerruti 1881 Calfskin Men Wallet](https://kazehane.com/products/cerruti-1881-brown-calfskin-men-wallet): Elevate your style with the timeless sophistication of a Cerruti 1881 Leather Wallet, designed for the modern man who appreciates the finesse of craftsmanship. This elegant accessory, featuring a subtle front logo, is the embodiment of luxury in a compact form. Perfectly sized at 20*10*3 cm to fit in your pocket or briefcase, it’s a statement of class and practicality.
-  Updated: 2025-12-14T18:26:55Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4336403.jpg?v=1765611198
-  Price: €142.40 EUR
-- [Tommy Hilfiger Sneaker](https://kazehane.com/products/tommy-hilfiger-white-leather-women-sneaker): Tommy Hilfiger Sneaker Timeless athletic style meets everyday comfort in this classic Tommy Hilfiger sneaker. Engineered with quality construction and recognizable branding, these shoes deliver versatile wear for casual outings and relaxed settings. The clean design pairs effortlessly with jeans, shorts, or athletic wear, making them a reliable choice for those who value both performance and understated sophistication.
-  Updated: 2026-01-09T14:10:31Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/7803339.jpg?v=1765611205
-  - [EU39/US9](https://kazehane.com/products/tommy-hilfiger-white-leather-women-sneaker?variant=52578018296147)
-    Availability: Available
-    Price: €148.20 EUR
-  - [EU40/US10](https://kazehane.com/products/tommy-hilfiger-white-leather-women-sneaker?variant=52578018328915)
-    Availability: Available
-    Price: €148.20 EUR
-  - [EU41/US11](https://kazehane.com/products/tommy-hilfiger-white-leather-women-sneaker?variant=52578018361683)
-    Availability: Available
-    Price: €148.20 EUR
-- [Dolce & Gabbana](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes): Dolce & Gabbana sandals combine Italian craftsmanship with contemporary design. These versatile shoes feature premium materials and refined detailing, perfect for elevating casual or resort wear. Lightweight and comfortable, they deliver effortless sophistication for warm-weather occasions.
-  Updated: 2025-12-31T04:10:04Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4322515.jpg?v=1765611207
-  - [EU38.5/US8](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018722131)
-    Availability: Available
-    Price: €425.00 EUR
-  - [EU35.5/US5](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018754899)
-    Availability: Available
-    Price: €425.00 EUR
-  - [EU35/US4.5](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018787667)
-    Availability: Available
-    Price: €425.00 EUR
-  - [EU36.5/US6](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018820435)
-    Availability: Available
-    Price: €425.00 EUR
-  - [EU36/US5.5](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018853203)
-    Availability: Available
-    Price: €425.00 EUR
-  - [EU37.5/US7](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018885971)
-    Availability: Available
-    Price: €425.00 EUR
-  - [EU37/US6.5](https://kazehane.com/products/dolce-gabbana-blue-crystals-flats-sandals-beachwear-shoes?variant=52578018918739)
-    Availability: Available
-    Price: €425.00 EUR
-- [Napapijri Arancione Recycled  Backpack](https://kazehane.com/products/napapijri-arancione-recycled-polyester-men-backpack): Crafted from recycled materials, this Napapijri backpack combines durability with environmental responsibility. The vibrant orange design offers distinctive style, while thoughtful compartments ensure practical organization for daily use. A reliable companion for work, travel, or adventure—built to last and designed with purpose.
-  Updated: 2025-12-30T21:34:22Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/6977683.jpg?v=1765611207
-  Price: €87.40 EUR
-- [Dolce & Gabbana Sneakers](https://kazehane.com/products/dolce-gabbana-orange-multi-panel-chunky-high-top-sneakers-shoes): Dolce & Gabbana Sneakers represent the perfect fusion of Italian craftsmanship and contemporary design. These versatile shoes seamlessly transition from casual streetwear to refined everyday wear, delivering both comfort and sophisticated style. Engineered with premium materials and meticulous attention to detail, they embody the luxury aesthetic the brand is renowned for. An  piece that elevates any wardrobe with understated elegance and enduring quality.
-  Updated: 2025-12-30T16:09:16Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4368255.jpg?v=1765611208
-  Price: €1,130.80 EUR
-- [Dolce & Gabbana Crocodile Leather Airpod Case](https://kazehane.com/products/dolce-gabbana-black-crocodile-leather-silver-metal-logo-airpods-case): Protect your AirPods in style with this luxurious Dolce & Gabbana case crafted from genuine crocodile leather. The distinctive texture and premium finish deliver sophisticated elegance, while durable construction ensures reliable protection. A statement accessory for those who appreciate refined craftsmanship and timeless design.
-  Updated: 2025-12-30T21:16:39Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4396836.jpg?v=1767086189
-  Price: €684.30 EUR
-- [Dolce & Gabbana Airpod Case](https://kazehane.com/products/dolce-gabbana-black-leather-strap-silver-metal-logo-printed-airpods-case): Protect your AirPods in style with this premium Dolce & Gabbana case. Crafted with meticulous attention to detail, it combines Italian luxury with everyday functionality. The sleek design safeguards your earbuds from scratches and impact while maintaining the iconic D&G aesthetic. Perfect for those who demand both protection and sophistication.
-  Updated: 2025-12-30T21:14:41Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4401771.jpg?v=1767086077
-  Price: €283.00 EUR
-- [Calvin Klein Wallet](https://kazehane.com/products/calvin-klein-nero-leather-men-wallet): Elevate your accessory game with the sleek and secure CALVIN KLEIN wallet. This premium piece, crafted from 100% Pelle, offers not just style but practicality with its two spacious compartments, dedicated coin purse, and ample room for your cards. The RFID blocking feature ensures your personal information stays protected, while the bold Nero shade and signature CK logo provide that trendy, urban edge. Designed for the modern man who appreciates luxury and functionality. Material: 100% Pelle Country of origin: Cambodia Color: Nero RFID Blocking: Yes
-  Updated: 2026-01-11T07:29:55Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/6915322.jpg?v=1765611209
-  Price: €133.40 EUR
-- [Max Mara Sunglasses](https://kazehane.com/products/max-mara-gold-metal-sunglasses-1): Max Mara Sunglasses Elevate your eyewear collection with these sophisticated Max Mara sunglasses, a hallmark of Italian luxury and refined design. Crafted with meticulous attention to detail, these frames combine timeless elegance with contemporary style, offering superior UV protection and optical clarity. The premium materials and expert construction ensure durability and comfort for all-day wear. Whether navigating city streets or relaxing by the coast, these sunglasses deliver the polished aesthetic and functional excellence that discerning wearers expect from the Max Mara brand. An  in both style and quality.
-  Updated: 2026-01-02T01:39:39Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/4366448.jpg?v=1765611208
-  Price: €202.80 EUR
 - [HOKA Speedgoat 6](https://kazehane.com/products/hoka-speedgoat-6-herren-trail-running-schuhe-laufschuhe-vibram-1147791-mplc): HOKA Speedgoat 6 represents the pinnacle of trail running performance. Built for technical terrain, this shoe combines aggressive traction with responsive cushioning to handle demanding mountain routes. The lightweight design reduces fatigue on long distances, while the reinforced upper provides stability across uneven surfaces. Engineered for runners who demand speed without compromise on protection.
-  Updated: 2026-01-07T14:36:26Z
+  Updated: 2026-01-16T17:00:22Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -2269,7 +2120,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ5974-g.jpg?v=1765875324
     Price: €318.95 EUR
 - [Air JORDAN](https://kazehane.com/products/air-jordan-spizike-low-herren-sneakers-basketball-schuhe-beige-hq3439-101): Air Jordan Spizike Low combines heritage basketball design with modern comfort. This men's sneaker merges the iconic Spizike silhouette with a refined beige colorway, featuring premium materials and responsive cushioning. Perfect for collectors and sneaker enthusiasts seeking authentic Jordan performance with timeless style. Model HQ3439-101 delivers the classic appeal of Air Jordan innovation in a versatile low-top profile.
-  Updated: 2025-12-31T06:38:32Z
+  Updated: 2026-01-15T12:43:26Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2299,7 +2150,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ3439-101-g.jpg?v=1767119907
     Price: €157.95 EUR
 - [Mizuno](https://kazehane.com/products/mizuno-wave-prophecy-12-herren-sneakers-laufschuhe-schwarz-j1gc238333): Mizuno Engineered for performance, Mizuno delivers precision and reliability across every product. Built with meticulous attention to detail, our collection combines advanced technology with refined craftsmanship. Whether you're seeking superior comfort, durability, or competitive edge, Mizuno products are designed to elevate your experience. Trusted by professionals worldwide, each piece reflects our commitment to excellence and innovation.
-  Updated: 2026-01-11T23:45:51Z
+  Updated: 2026-01-15T20:48:05Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2409,7 +2260,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HF0263-402-g.jpg?v=1767119907
     Price: €94.95 EUR
 - [Nike Air Max Plus TN](https://kazehane.com/products/nike-air-max-plus-tn-phantom-herren-sneakers-schuhe-dm0032-019): The Nike Air Max Plus TN in Phantom delivers iconic style with technical precision. Engineered with the signature Air Max cushioning system, these men's sneakers combine responsive comfort with a bold aesthetic. The streamlined silhouette features premium materials and the distinctive TN tubing design, making them equally suited for everyday wear or athletic pursuits. A timeless choice for those who appreciate heritage sneaker craftsmanship.
-  Updated: 2026-01-07T02:28:26Z
+  Updated: 2026-01-18T01:20:31Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2497,7 +2348,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/ID1708-g.jpg?v=1767119907
     Price: €179.95 EUR
 - [Nike Air Max](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03): Nike Air Max sneakers deliver iconic style with engineered comfort. Featuring responsive cushioning and a sleek silhouette, these shoes blend performance with everyday versatility. Perfect for those who demand both aesthetic appeal and reliable support in a timeless design.
-  Updated: 2026-01-11T19:43:07Z
+  Updated: 2026-01-18T21:33:40Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2511,7 +2362,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
     Price: €118.95 EUR
   - [EU 42 US 8.5](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615309651)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
     Price: €118.95 EUR
   - [EU 42.5 US 9](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615342419)
@@ -2535,7 +2386,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
     Price: €118.95 EUR
   - [EU 46 US 12](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615506259)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
     Price: €118.95 EUR
   - [EU 47.5 US 13](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615539027)
@@ -2597,7 +2448,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/VN0A4BTTORL1-g.jpg?v=1767119907
     Price: €57.95 EUR
 - [adidas YEEZY](https://kazehane.com/products/adidas-yeezy-boost-350-v2-mx-rock-sneakers-schuhe-gw3774-limitiert): The adidas YEEZY Boost 350 V2 MX Rock delivers iconic silhouette design with premium comfort and distinctive aesthetic appeal. Featuring the signature Boost cushioning technology, these limited-edition sneakers offer responsive support for everyday wear. The neutral colorway ensures versatile styling across casual and contemporary wardrobes. A collector's piece for sneaker enthusiasts seeking authentic performance and heritage craftsmanship.
-  Updated: 2025-12-31T06:38:42Z
+  Updated: 2026-01-18T21:33:40Z
   Vendor: Brandstyle24
   Product Type: Unisex > Sneaker
   Availability: Available
@@ -2607,7 +2458,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/GW3774-g.jpg?v=1767119907
     Price: €169.95 EUR
   - [Schwarz / EU 36 2/3 UK 4](https://kazehane.com/products/adidas-yeezy-boost-350-v2-mx-rock-sneakers-schuhe-gw3774-limitiert?variant=52688616456531)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/GW3774-g.jpg?v=1767119907
     Price: €169.95 EUR
   - [Schwarz / EU 37 1/3 UK 4.5](https://kazehane.com/products/adidas-yeezy-boost-350-v2-mx-rock-sneakers-schuhe-gw3774-limitiert?variant=52688616489299)
@@ -2643,7 +2494,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/GW3774-g.jpg?v=1767119907
     Price: €229.95 EUR
 - [adidas Originals](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033): Classic adidas Originals Samoa sneaker in premium white leather. This iconic silhouette combines timeless design with exceptional comfort, featuring a durable leather upper and responsive cushioning. Perfect for everyday wear or casual styling. A versatile essential that transcends trends.
-  Updated: 2026-01-06T02:14:06Z
+  Updated: 2026-01-17T01:05:37Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2653,11 +2504,11 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/675033-g.jpg?v=1767119907
     Price: €94.95 EUR
   - [EU 40 UK 6.5](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033?variant=52688615604563)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/675033-g.jpg?v=1767119907
     Price: €94.95 EUR
   - [EU 40 2/3 UK 7](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033?variant=52688615637331)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/675033-g.jpg?v=1767119907
     Price: €94.95 EUR
   - [EU 41 1/3 UK 7.5](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033?variant=52688615670099)
@@ -2669,7 +2520,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/675033-g.jpg?v=1767119907
     Price: €94.95 EUR
   - [EU 43 1/3 UK 9](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033?variant=52688615735635)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/675033-g.jpg?v=1767119907
     Price: €94.95 EUR
   - [EU 44 UK 9.5](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033?variant=52688615768403)
@@ -2726,25 +2577,6 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/1115561-2198-g.jpg?v=1767119907
     Price: €79.95 EUR
-- [Daniele Alessandrini](https://kazehane.com/products/daniele-alessandrini-green-crewneck-cotton-sweater): Crafted from premium cotton, this Daniele Alessandrini crewneck sweater delivers timeless elegance in a sophisticated green hue. The refined construction and classic silhouette make it an essential layering piece for any discerning wardrobe. Perfect for effortless sophistication, whether styled casually or dressed up for refined occasion.
-  Updated: 2026-01-01T20:21:24Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/457249.jpg?v=1767121274
-  Price: €131.60 EUR
-- [Frankie Morello](https://kazehane.com/products/frankie-morello-red-cotton-riders-crewneck-t-shirt): I appreciate your request, but I need the product information to generate a description. Could you please provide details about the Frankie Morello product, such as: - Product type (clothing, accessories, footwear, etc.) - Key features or materials - Style or design elements - Any unique  points - Color, size, or variant details Once you share these details, I'll create a concise, elegant English description in an expert tone.
-  Updated: 2026-01-01T20:27:05Z
-  Vendor: Maison & Co Outlet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/463843.jpg?v=1767121274
-  - [M](https://kazehane.com/products/frankie-morello-red-cotton-riders-crewneck-t-shirt?variant=52688808116563)
-    Availability: Available
-    Price: €105.80 EUR
-  - [S](https://kazehane.com/products/frankie-morello-red-cotton-riders-crewneck-t-shirt?variant=52688808149331)
-    Availability: Available
-    Price: €105.80 EUR
 - [Moncler](https://kazehane.com/products/moncler-ml0046-black-sunglasses): MONCLER Eyewear blends premium fashion with high-performance design, inspired by the brand’s iconic alpine heritage. Known for innovation, protection, and luxury comfort, MONCLER creates eyewear that is both bold in style and engineered for modern life.
   Updated: 2026-01-01T20:17:07Z
   Vendor: ArtOPTIC
@@ -3056,17 +2888,17 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
 ## Collections
 
 - [Menswear](https://kazehane.com/collections/herren): Discover menswear selected for modern movement and timeless style. Each piece is chosen for its clean lines, premium materials, and the ability to elevate your everyday wardrobe with effortless confidence.
-  Updated: 2026-01-10T18:07:40Z
-  Total Products: 23
+  Updated: 2026-01-14T10:17:32Z
+  Total Products: 19
 - [Womenswear](https://kazehane.com/collections/damen): Our womenswear collection brings together refined silhouettes and unique details. Every item is curated for versatility, quality, and a sense of understated luxury—designed to fit seamlessly into your personal style.
   Updated: 2026-01-10T18:07:40Z
   Total Products: 12
 - [Footwear](https://kazehane.com/collections/footwear): Our footwear selection brings together iconic brands and rare finds, all chosen for their craftsmanship, comfort, and visual impact. Only the most distinctive silhouettes and materials make the cut—every pair embodies the Kazehane ethos: movement, individuality, and timeless design⁠
-  Updated: 2026-01-01T16:04:01Z
-  Total Products: 60
+  Updated: 2026-01-14T10:17:31Z
+  Total Products: 54
 - [Accessoires](https://kazehane.com/collections/accessoires): Accessories at Kazehane are more than additions—they are statements. Find rare, distinctive pieces that complete any look, each one handpicked for design, craftsmanship, and individuality.
-  Updated: 2026-01-06T16:42:32Z
-  Total Products: 15
+  Updated: 2026-01-14T10:17:31Z
+  Total Products: 5
 
 ## Store Pages
 
