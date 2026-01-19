@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2026-01-01T18:10:13Z
-- Updated At: 2026-01-12T00:00:21.258Z
+- Updated At: 2026-01-19T00:00:32.401Z
 
 ## Products
 
@@ -920,7 +920,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/S4216bdab568641b299b8972f5ebb230bo.webp?v=1767477096
   Price: $50.00 CAD
 - [Glasses](https://shafto-3.myshopify.com/products/glasses): Children deserve the best, that's why we present to you Glasses, ideal for those who seek quality products for their little ones! Get at the best prices!
-  Updated: 2026-01-04T10:00:54Z
+  Updated: 2026-01-17T03:26:15Z
   Vendor: BigBuy Christmas
   Product Type: Toys | Fancy Dress > Fancy dress and celebration items > Costume accessories
   Availability: Available
@@ -1050,7 +1050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/manualProduct_2Fad9ff4e02965e751dfddeb784da2bb7b.jpg?v=1767477825
   Price: $17.09 CAD
 - [Active Mike Boys Jogger Set](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set): Keep your little one cozy and stylish with this soft and breathable 100% cotton zip-up hoodie jogger set. Perfect for everyday wear, playtime, or daycare, this outfit combines comfort with a fun design that kids love. Features: Zip-up Hoodie – Long sleeve, round neck, with playful embroidered Mickey outline. Sweatpants – Elastic waistband and cuffs for all-day comfort and easy movement. Fabric – 100% premium cotton for softness, durability, and breathability. Why Parents Love It: Gentle on sensitive skin Easy to mix & match Durable for active play Machine washable
-  Updated: 2026-01-11T05:17:11Z
+  Updated: 2026-01-18T05:17:41Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -1058,70 +1058,70 @@
   - [Indigo / 2](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228328820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image-2025-10-02T164145.622.png?v=1767478060
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Indigo / 3](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228361588)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image-2025-10-02T164145.622.png?v=1767478060
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Indigo / 4](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228394356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image-2025-10-02T164145.622.png?v=1767478060
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Indigo / 5](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228427124)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image-2025-10-02T164145.622.png?v=1767478060
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Navy / 2](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228459892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Navy / 3](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228492660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Navy / 4](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228525428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
-    Price: $22.80 CAD
+    Price: $14.00 CAD
   - [Navy / 5](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set?variant=53798228558196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
-    Price: $22.80 CAD
+    Price: $14.00 CAD
 - [Basket set DKD Home Decor 149582](https://shafto-3.myshopify.com/products/basket-set-dkd-home-decor-149582): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Basket set DKD Home Decor 149582 at the best price. Approx. dimensions: 22 x 22 cm Type: Basket set
-  Updated: 2026-01-09T03:20:03Z
+  Updated: 2026-01-16T03:18:51Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Bathroom > Bathroom accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001625635_S3007360_P32.jpg?v=1767480708
   Price: $40.99 CAD
 - [Incense set DKD Home Decor Incense](https://shafto-3.myshopify.com/products/incense-set-dkd-home-decor-incense): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Incense set DKD Home Decor Incense at the best price. Design: Indian Man Units: 6 Units Approx. dimensions: 7 x 7 x 13 cm Width: 7 cm Adjustable: No Material: Mango wood Mountable: No Colour: Multicolour Type: Incense Holder Important information: Assorted designs sent randomly according to stock.
-  Updated: 2026-01-08T03:34:32Z
+  Updated: 2026-01-17T03:33:15Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Cleaning, Vacuuming and Ironing > Air Fresheners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424002082680_V3402134_P00.jpg?v=1767480713
   Price: $15.00 CAD
 - [Wineglass DKD Home Decor Crystal Turquoise (150 ml)](https://shafto-3.myshopify.com/products/wineglass-dkd-home-decor-crystal-turquoise-150-ml): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Wineglass DKD Home Decor Crystal Turquoise (150 ml) at the best price. Colour: Turquoise Material: Crystal Characteristics: Suitable for dishwashers Not suitable for microwaves Unsuitable for microwave Capacity: 150 ml Approx. dimensions: 7 x 7 x 20 cm
-  Updated: 2026-01-10T10:25:40Z
+  Updated: 2026-01-17T03:32:09Z
   Vendor: DKD Home Decor
   Product Type: Kitchen | Gourmet > Kitchenware > Glasses, cups and jugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001950164_S3037330_P23.jpg?v=1767480730
-  Price: $5.22 CAD
+  Price: $4.81 CAD
 - [Decorative Figure DKD Home Decor White Brown Vintage](https://shafto-3.myshopify.com/products/decorative-figure-dkd-home-decor-white-brown-vintage): If you are looking for new market trending items, we present the Decorative Figure DKD Home Decor White Brown Vintage! Type: Decorative Figure Colour: White Brown Material: PVC Metal Design: Vintage
-  Updated: 2026-01-09T10:24:04Z
+  Updated: 2026-01-16T10:23:37Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Decoration and Lighting > Other Decoration Items
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424002078034_S3061631_P00.jpg?v=1767480739
-  Price: $11.78 CAD
+  Price: $7.84 CAD
 - [Equip 333313 разпределител на напрежение (PDU) 8 Изход(и) за променлив ток 1U Черен, Сребърен (333313)](https://shafto-3.myshopify.com/products/equip-333313-разпределител-на-напрежение-pdu-8-изходи-за-променлив-ток-1u-черен-сребърен-333313): RoHS stands for Restriction of Hazardous Substances. RoHS, also known as Directive 2002/95/EC, originated in the European Union and restricts the use of specific hazardous materials found in electrical and electronic products (known as EEE). All applicable products in the EU market after July 1, 2006 must pass RoHS compliance. The substances banned under RoHS are lead (Pb), mercury (Hg), cadmium (Cd), hexavalent chromium (CrVI), polybrominated biphenyls (PBB), polybrominated diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, BBP, DIBP).
-  Updated: 2026-01-10T23:02:45Z
+  Updated: 2026-01-17T23:04:14Z
   Vendor: Equip
   Product Type: Elektronika -> Elektronikai tartozékok -> Tápellátás -> Elosztók és túlfeszültségvédők
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/bf1d7060-41ac-4c41-97db-e8bc3e87e4d3.png?v=1767481239
-  Price: $29.42 CAD
+  Price: $29.21 CAD
 - [Men’s box hoodie](https://shafto-3.myshopify.com/products/men-s-box-hoodie-7): This hoodie’s tightly knit fleece delivers premium softness. The drop shoulders and overlapped neckline give it a clean, boxy shape—made to look fresh every time you wear it. • 60% cotton, 40% polyester • Carbon Grey color is 55% cotton, 45% polyester • 3-end fleece • Fabric weight: 10 oz./yd.² (339 g/m²) • Oversized, relaxed fit • Set-in sleeves • Drop shoulders • Overlapped neckline • 1 × 1 rib at the cuffs and waistband • Double-layered hood in self fabric • Single-jersey neck tape on the inside of the back • Self-fabric half moon on the inside of the back • Blank product sourced from Pakistan
   Updated: 2026-01-07T07:36:42Z
   Vendor: SHAFTO 
