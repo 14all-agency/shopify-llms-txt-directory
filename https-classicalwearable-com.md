@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-04-26T12:18:31Z
-- Updated At: 2026-01-12T00:00:39.916Z
+- Updated At: 2026-01-19T00:00:40.400Z
 
 ## Products
 
@@ -1228,7 +1228,7 @@
   Availability: Available
   Price: $108.69 USD
 - [Signature Nicole Lee USA Convertible Adjustable Strap Bac...](https://classicalwearable.com/products/nicole-lee-usa-convertible-adjustable-strap-backpack-bag): Shop Signature Nicole Lee USA Convertibl - RFID-blocking design with ergonomic straps performance. Part of our Bags & Travel. Free shipping on orders $50+.
-  Updated: 2026-01-11T05:50:48Z
+  Updated: 2026-01-17T19:19:47Z
   Vendor: Trend Premier
   Product Type: Bags & Travel
   Availability: Available
@@ -1369,7 +1369,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/1230/9053/files/dc7644c7-5270-482d-b9d0-b90443f9470c_6c777d96-2360-4590-9d82-83cf473252ad.jpg?v=1765256414
   Price: $78.00 USD
 - [Premium Elite Nicole Lee USA Eco-Leather Handbag with Sid...](https://classicalwearable.com/products/nicole-lee-usa-eco-leather-handbag-with-side-pockets): Premium Elite Nicole Lee USA Eco-Le - Built for multiple compartments with durable quality. Trusted by thousands. Free returns.
-  Updated: 2026-01-11T05:51:18Z
+  Updated: 2026-01-12T15:45:56Z
   Vendor: Trend Premier
   Product Type: Bags & Travel
   Availability: Available
