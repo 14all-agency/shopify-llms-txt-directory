@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2026-01-12T00:01:04.189Z
+- Updated At: 2026-01-19T00:01:05.421Z
 
 ## Products
 
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-leather-designer-tote-front-view.webp?v=1736822487
     Price: $43.95 USD
 - [Women Handbags: Structured Faux Leather, Organized Style](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote): Women handbags: Discover our structured faux leather bag, perfect for work or style, offering secure storage and versatile carrying. Elevate your look today!
-  Updated: 2026-01-10T19:51:18Z
+  Updated: 2026-01-16T08:39:52Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's structured faux leather handbag
   Availability: Available
@@ -1954,7 +1954,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2026-01-10T19:53:24Z
+  Updated: 2026-01-18T22:30:26Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2132,7 +2132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/purple-plaid-coat-casual-denim-outfit.webp?v=1737920110
     Price: $44.95 USD
   - [Violet / L](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043794522)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/purple-plaid-coat-casual-denim-outfit.webp?v=1737920110
     Price: $44.95 USD
   - [Violet / XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043827290)
@@ -15355,7 +15355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2026-01-10T20:25:35Z
+  Updated: 2026-01-16T05:11:00Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -15553,7 +15553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/feminine-ruffle-hem-dress-joyful-pose.webp?v=1744508781
     Price: $74.95 USD
 - [Shop Emerald Green Satin Formal Dresses Online](https://ursupermart.com/products/emerald-green-satin-formal-dress): Elevate your style with an emerald green satin one shoulder formal dress. Perfect for galas, proms, and weddings. Free shipping included, Shop Now!
-  Updated: 2026-01-10T20:25:52Z
+  Updated: 2026-01-13T03:31:52Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Prom Dress
   Availability: Available
@@ -15684,7 +15684,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/halter-neck-mini-dress-side-pose.webp?v=1744750736
   Price: $87.45 USD
 - [Sparkling V Neck Sequin Prom Dress | Side Slit & Open Back](https://ursupermart.com/products/backless-pink-sequin-prom-dress-side-slit): Make a statement in our stunning pink sequin mini dress with v-neck design and side slit. Perfect for prom, cocktail parties and special events. Free Shipping!
-  Updated: 2026-01-10T20:26:07Z
+  Updated: 2026-01-16T07:01:56Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Prom Dress
   Availability: Available
@@ -15694,7 +15694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pink-sequin-mini-prom-dress.webp?v=1744755589
     Price: $92.45 USD
   - [Dusty Pink / L](https://ursupermart.com/products/backless-pink-sequin-prom-dress-side-slit?variant=41868862783578)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pink-sequin-mini-prom-dress.webp?v=1744755589
     Price: $92.45 USD
   - [Dusty Pink / XL](https://ursupermart.com/products/backless-pink-sequin-prom-dress-side-slit?variant=41868862816346)
@@ -16558,7 +16558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dress-green-tiered-soft-feminine-look.webp?v=1751690925
     Price: $44.95 USD
 - [Midi Dress for Women Floral Ruffles](https://ursupermart.com/products/midi-dress-for-women-casual-elegant-party-wear-outfit-1): Find your perfect Midi Dress for summer with our collection of comfortable, easy-care smocked dresses featuring floral patterns and relaxed fits.
-  Updated: 2026-01-10T20:28:00Z
+  Updated: 2026-01-13T22:24:06Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Smocked Floral Midi Dress
   Availability: Available
@@ -16612,7 +16612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smocked-off-shoulder-floral-midi-dress-full.webp?v=1751920758
     Price: $41.95 USD
 - [Floral Dresses for Women Square Neck Style](https://ursupermart.com/products/floral-dresses-for-women-beautiful-flowy-designs-online): Floral cami dress with pockets, comfortable and versatile for everyday wear, made from easy-care polyester, perfect for summer.
-  Updated: 2026-01-10T20:28:02Z
+  Updated: 2026-01-17T16:10:41Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Floral Square Neck Cami Dress with Pockets
   Availability: Available
@@ -16627,10 +16627,10 @@
     Availability: Available
     Price: $46.95 USD
   - [Floral / XL](https://ursupermart.com/products/floral-dresses-for-women-beautiful-flowy-designs-online?variant=41900467355738)
-    Availability: Available
+    Availability: Not Available
     Price: $46.95 USD
 - [Mini Dresses for Girls and Women Online](https://ursupermart.com/products/mini-dresses-for-women-casual-party-wear-outfits-online-2): Shop trendy mini dresses with ruffles, perfect for a night out or warm weather. Get chic, feminine styles with backless and short sleeve designs.
-  Updated: 2026-01-10T20:28:14Z
+  Updated: 2026-01-14T22:17:47Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Mini Dress
   Availability: Available
@@ -17095,7 +17095,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/714712978808.jpg?v=1746981604
   Price: $39.95 USD
 - [EMS facial slimming massager for a firm, youthful look.](https://ursupermart.com/products/ems-facial-slimming-massager-for-firm-youthful-skin): Slim your face with our EMS Facial Slimming Massager. Get a V shape facial lift at home! Shop now for a toned, youthful look.
-  Updated: 2026-01-10T20:29:07Z
+  Updated: 2026-01-15T06:25:33Z
   Vendor: Make | CJ
   Product Type: Facial massager
   Availability: Available
@@ -17980,7 +17980,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multiway-dress-light-blue-halter-style.webp?v=1752518992
     Price: $47.95 USD
 - [Magnetic Phone Mount - Secure & Easy Car Use](https://ursupermart.com/products/magnetic-phone-mount-car-dashboard-holder): Secure your phone with our top-rated magnetic car phone mount.  Enjoy hands-free navigation & easy installation – no more shaky drives!
-  Updated: 2026-01-10T20:31:18Z
+  Updated: 2026-01-17T23:25:28Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Foldable Magnetic Car Phone Mount
   Availability: Available
@@ -18002,17 +18002,17 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-magnetic-phone-holder-white-accessory.webp?v=1753896986
     Price: $29.95 USD
 - [Colombian Shapewear - Sculpt & Slim Instantly!](https://ursupermart.com/products/best-colombian-shapewear-body-shapers): Shop Colombian shapewear for ultimate tummy control.  Our fajas offer post-surgery support & a flattering silhouette.  Buy now!
-  Updated: 2026-01-10T20:31:24Z
+  Updated: 2026-01-14T02:25:33Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Colombian Shapewear (Fajas, Body Shaper, Tummy Control Shapewear, Post-Surgery Shapewear, Butt Lifter Shapewear, Melibelt Bodysuit)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/colombian-shapewear-butt-lifter-fajas.webp?v=1752771030
   - [Black / S](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196288602)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / M](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196255834)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / L](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196223066)
@@ -18020,7 +18020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / XL](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196321370)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / 2XL](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196157530)
@@ -18028,7 +18028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $38.95 USD
   - [Black / 3XL](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196190298)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $42.95 USD
   - [Beige / S](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196485210)
@@ -19487,7 +19487,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/snowflake-yoga-pants-grey-camo-fit.webp?v=1749254907
     Price: $27.95 USD
 - [Easy Needle Threader - Simple & Quick!](https://ursupermart.com/products/easy-needle-threader-tool-for-sewing-projects-1): Effortlessly thread needles with our Easy Needle Threader!  Perfect for seniors & anyone with vision challenges, this handy tool makes sewing a breeze.
-  Updated: 2026-01-10T20:35:00Z
+  Updated: 2026-01-17T01:25:26Z
   Vendor: S1B|@Updated - 1-CJ
   Product Type: Needle threader
   Availability: Available
@@ -19735,7 +19735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-ethnic-print-sleeveless.webp?v=1752532859
     Price: $41.95 USD
 - [Women's Dresses for Summer in Floral Prints](https://ursupermart.com/products/women-dresses-for-special-occasions-online-store-1): Shop women's dresses in tropical prints, maxi styles, and comfortable fits. Find the perfect V-neck cami dress or flowy summer dress with pockets.
-  Updated: 2026-01-10T20:35:31Z
+  Updated: 2026-01-17T16:43:51Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Women's Tropical Leaf Print Maxi Dress
   Availability: Available
@@ -21235,7 +21235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-polo-shirt-yellow.webp?v=1752855447
     Price: $29.95 USD
 - [Women's Jumpsuits for  Online Fashionable Designs](https://ursupermart.com/products/women-s-jumpsuits-stylish-printed-sweetheart-neck-jumpsuit): Women's jumpsuits with floral prints and sweetheart necklines perfect for summer, casual, and stylish outfits.
-  Updated: 2026-01-10T20:38:39Z
+  Updated: 2026-01-15T11:28:32Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Jumpsuit
   Availability: Available
@@ -21431,7 +21431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2026-01-11T13:26:36Z
+  Updated: 2026-01-15T12:26:36Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22415,7 +22415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fleece-jogger-pink-women-soft-drawstring-pants.webp?v=1751594983
     Price: $38.95 USD
 - [Men's Trousers for Comfort and Style Everyday](https://ursupermart.com/products/mens-trousers-with-large-pockets-for-comfort-and-practicality): Comfortable men's trousers with large pockets and durable stitching, perfect for work, hiking, or everyday use.
-  Updated: 2026-01-10T20:42:04Z
+  Updated: 2026-01-13T03:26:52Z
   Vendor: S1B|@Updated - CJ
   Product Type: Men's Trousers
   Availability: Available
@@ -23485,7 +23485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/877cd568-979e-4a16-a377-38c938ecb3d0.jpg?v=1756925020
   Price: $64.95 USD
 - [Tote bags large capacity secure and stylish for daily use](https://ursupermart.com/products/large-capacity-tote-bags-secure-stylish-daily-use): Tote bags for work, school, or travel offer large capacity, comfy straps, and a secure snap closure to keep all your daily essentials safe; find your perfect one now!
-  Updated: 2026-01-10T20:44:10Z
+  Updated: 2026-01-12T05:30:38Z
   Vendor: S1B|S1|CJ
   Product Type: Tote bag
   Availability: Available
@@ -23610,7 +23610,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/amphibious-rc-car-green-tracked-kit.webp?v=1759021004
   Price: $38.95 USD
 - [RC boats: Fast remote control, anti-flip, night light](https://ursupermart.com/products/rc-boats-fast-remote-control-anti-flip-night-light): RC boats deliver thrilling water adventures with self-righting tech, night lights, and 20mph speed. Enjoy extended playtime; grab yours today!
-  Updated: 2026-01-10T20:44:25Z
+  Updated: 2026-01-16T01:25:30Z
   Vendor: S1B|S1|CJ
   Product Type: RC boat
   Availability: Available
@@ -25302,7 +25302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-shoulder-bag-lavender-fluffy-style.webp?v=1758055294
     Price: $34.95 USD
 - [Moon Necklace Glowing Crescent Pendant for Unique Style](https://ursupermart.com/products/moon-necklace-glowing-crescent-pendant-unique-style): This moon necklace features a glowing crescent pendant and orb charm, perfect for expressing your unique style and adding magic to any look. Get yours today!
-  Updated: 2026-01-10T20:48:06Z
+  Updated: 2026-01-15T22:26:36Z
   Vendor: S1B|@S1|CJ
   Product Type: Glowing Crescent Moon Pendant Necklace
   Availability: Available
@@ -26461,7 +26461,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/kids-whiteboard-learning-organizer-in-use.webp?v=1759589733
   Price: $74.95 USD
 - [Fidget Toy Rotating Puzzle for Stress Relief & Focus](https://ursupermart.com/products/fidget-toy-rotating-puzzle-for-stress-relief-and): This fidget toy rotating puzzle offers stress relief and boosts focus with its smooth 360-degree spin and colorful beads. Sharpen your mind and find calm; get yours today!
-  Updated: 2026-01-10T20:50:36Z
+  Updated: 2026-01-16T03:26:26Z
   Vendor: @S1B|S1|CJ
   Product Type: Fidget Toy
   Availability: Available
@@ -32618,7 +32618,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2026-01-10T21:00:53Z
+  Updated: 2026-01-16T06:26:42Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -33605,7 +33605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
     Price: $64.95 USD
 - [Women's Overcoats: Tailored Fit & Warm Winter Style](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style): Women's Overcoats deliver tailored style and cozy warmth for autumn and winter, perfect for any occasion. Elevate your look and feel confident; shop now!
-  Updated: 2026-01-10T21:03:44Z
+  Updated: 2026-01-15T08:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Overcoat
   Availability: Available
@@ -35726,7 +35726,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-wool-coat-blush-pink-feminine.webp?v=1762465043
     Price: $82.95 USD
 - [Wool Pea Coat for Women - Warm Winter Style & Slim Fit](https://ursupermart.com/products/womens-slim-fit-warm-wool-pea-coat-winter-style): This wool pea coat for women offers warmth and timeless style with a slim fit, stand collar, and pockets for fall and winter. Shop now for elegant comfort!
-  Updated: 2026-01-10T21:08:59Z
+  Updated: 2026-01-15T08:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Wool Pea Coat
   Availability: Available
@@ -35932,7 +35932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-pea-coat-camel-urban-style.webp?v=1763242254
     Price: $54.95 USD
 - [Women Coats: Warm & Stylish Belted Winter Outerwear](https://ursupermart.com/products/women-coats-warm-stylish-belted-winter-outerwear): Women coats provide stylish warmth with a flattering belted design, perfect for any occasion. Stay cozy and confident all winter long; find your perfect fit and color today!
-  Updated: 2026-01-10T21:09:10Z
+  Updated: 2026-01-13T02:26:52Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Coat
   Availability: Available
@@ -38239,7 +38239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cross-heart-necklace-set-silver-box.webp?v=1764717689
     Price: $27.95 USD
 - [Magnetic Wireless Charger - Fast 15W Power & Easy Use](https://ursupermart.com/products/magnetic-wireless-charger-fast-15w-power-easy-use-iphone): Magnetic wireless charger offers 15W fast, effortless power with perfect alignment, decluttering your space and protecting your phone. Get yours now!
-  Updated: 2026-01-10T21:14:36Z
+  Updated: 2026-01-13T07:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Magnetic wireless charger
   Availability: Available
@@ -41222,7 +41222,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hands-free-neck-massager-premium-green-relief-strap.webp?v=1765229483
   Price: $87.95 USD
 - [Women's Quilted Puffer Coat | Oversized with Hood & Pockets](https://ursupermart.com/products/womens-quilted-puffer-coat-sherpa): Shop our women's quilted puffer coat in 8 colors. Oversized fit, sherpa lining, functional pockets, and extended length. XS-XXXXL sizes available now.
-  Updated: 2026-01-10T21:19:30Z
+  Updated: 2026-01-15T08:28:17Z
   Vendor: CJ
   Product Type: women's quilted puffer coat
   Availability: Available
@@ -42861,6 +42861,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mid-length-wool-coat-premium-blue-urban-style.webp?v=1766155159
     Price: $77.95 USD
+- [Cropped Faux Fur Jacket | High Waisted Styles for Women](https://ursupermart.com/products/cropped-faux-fur-jacket-women): Shop our cropped faux fur jacket with zip front closure. Works with high waisted jeans, preserves your hairstyle. Ivory & pink options. Ships free.
+  Updated: 2026-01-14T11:19:34Z
+  Vendor: CJ
+  Product Type: Faux Fur Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-ivory-cropped-fireplace.webp?v=1766252141
+  - [White Opal / S](https://ursupermart.com/products/cropped-faux-fur-jacket-women?variant=42672571711578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-ivory-cafe-table.webp?v=1766252256
+    Price: $117.95 USD
+  - [White Opal / M](https://ursupermart.com/products/cropped-faux-fur-jacket-women?variant=42672571678810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-ivory-cafe-table.webp?v=1766252256
+    Price: $117.95 USD
+  - [White Opal / L](https://ursupermart.com/products/cropped-faux-fur-jacket-women?variant=42672571646042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-ivory-cafe-table.webp?v=1766252256
+    Price: $117.95 USD
+  - [Light Pink / S](https://ursupermart.com/products/cropped-faux-fur-jacket-women?variant=42672571809882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-blush-cropped-zip.webp?v=1766252319
+    Price: $117.95 USD
+  - [Light Pink / M](https://ursupermart.com/products/cropped-faux-fur-jacket-women?variant=42672571777114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-blush-cropped-zip.webp?v=1766252319
+    Price: $117.95 USD
+  - [Light Pink / L](https://ursupermart.com/products/cropped-faux-fur-jacket-women?variant=42672571744346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-jacket-blush-cropped-zip.webp?v=1766252319
+    Price: $117.95 USD
 - [Women's Shawl Cardigan for Easy Layering and Comfort](https://ursupermart.com/products/womens-shawl-cardigan-leopard-print): Shop our women's shawl cardigan with faux-fur trim and fringe detail. Open-front design, oversized fit, three colors. Free shipping-14 day returns-24/7 support
   Updated: 2026-01-10T21:22:46Z
   Vendor: S1B|S1|CJ
@@ -43046,6 +43076,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-faux-fur-coat-ultimate-white-elegant-fit.webp?v=1767550741
     Price: $74.95 USD
+- [Professional Structured Handbag With Organized Compartments](https://ursupermart.com/products/structured-handbag-organized-compartments-work): Shop our structured handbag with zippered compartments, adjustable strap & glossy finish. Stands upright, stays organized. Perfect for work & commuting.
+  Updated: 2026-01-14T06:39:57Z
+  Vendor: CJ
+  Product Type: Commuter Handbag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-color-options-view.webp?v=1768149049
+  - [Black / 30X22X13](https://ursupermart.com/products/structured-handbag-organized-compartments-work?variant=42710306848858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-black-front-view.webp?v=1768149082
+    Price: $44.95 USD
+  - [Blue / 30X22X13](https://ursupermart.com/products/structured-handbag-organized-compartments-work?variant=42710306881626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-navy-blue-front-view.webp?v=1768149150
+    Price: $44.95 USD
+  - [Gray / 30X22X13](https://ursupermart.com/products/structured-handbag-organized-compartments-work?variant=42710306914394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-red-front-view.webp?v=1768149181
+    Price: $44.95 USD
+  - [Khaki / 30X22X13](https://ursupermart.com/products/structured-handbag-organized-compartments-work?variant=42710306947162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-khaki-front-view.webp?v=1768149217
+    Price: $44.95 USD
+  - [Wine Red / 30X22X13](https://ursupermart.com/products/structured-handbag-organized-compartments-work?variant=42710306979930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-gray-front-view.webp?v=1768149116
+    Price: $44.95 USD
+  - [Chocolate / 30X22X13](https://ursupermart.com/products/structured-handbag-organized-compartments-work?variant=42710307012698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-faux-leather-satchel-handbag-tan-front-view.webp?v=1768149280
+    Price: $44.95 USD
 
 ## Collections
 
@@ -43077,7 +43137,7 @@
   Updated: 2025-11-01T02:07:14Z
   Total Products: 95
 - [Sustainable Vegan Leather Purses for Ethical Style](https://ursupermart.com/collections/cruelty-free-vegan-leather-bags-collection): Explore our cruelty-free vegan leather bucket bags. Stylish, eco-friendly, and affordable, perfect for conscious fashion enthusiasts. Shop now!
-  Updated: 2025-12-29T23:26:06Z
+  Updated: 2026-01-13T18:21:38Z
   Total Products: 37
 - [Best Black Friday Gadgets Under $15: Viral TikTok Tech](https://ursupermart.com/collections/black-friday-deals-under-15): Discover trending Black Friday gadgets under $15! Shop viral TikTok tech gifts, phone accessories & kitchen tools. Free shipping on all orders.
   Updated: 2025-12-29T02:35:13Z
@@ -43143,7 +43203,7 @@
   Updated: 2025-12-02T20:24:48Z
   Total Products: 12
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2026-01-06T22:55:40Z
+  Updated: 2026-01-13T23:31:51Z
   Total Products: 107
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
   Updated: 2025-12-29T02:35:13Z
