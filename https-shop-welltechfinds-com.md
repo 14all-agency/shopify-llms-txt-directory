@@ -6,7 +6,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-08-09T04:42:37Z
 - Contact Email: hello@welltechfinds.com
-- Updated At: 2026-01-12T00:00:31.253Z
+- Updated At: 2026-01-19T00:00:32.861Z
 
 ## Products
 
@@ -144,15 +144,19 @@
   Updated: 2025-10-04T04:27:29Z
 - [Contact Us](https://shop.welltechfinds.com/pages/contact-us)
   Updated: 2025-10-04T04:27:29Z
+- [InkyLess Go™ | Educator Priority Access](https://shop.welltechfinds.com/pages/educator-flyer): The InkyLess Go™ Educator's Advantage The #1 Ink-Free Solution for Australian Classrooms. ZERO INK. ZERO TONER. ZERO IT TICKETS. 🛠️ Lifetime Digita...
+  Updated: 2026-01-16T08:41:40Z
 
 ## Policies
 
 - [Privacy Policy](https://shop.welltechfinds.com/policies/privacy-policy)
-  Updated: 2025-09-09T15:40:34+08:00
+  Updated: 2026-01-18T15:06:22+08:00
+- [Shipping Policy](https://shop.welltechfinds.com/policies/shipping-policy)
+  Updated: 2026-01-18T15:29:29+08:00
 - [Refund Policy](https://shop.welltechfinds.com/policies/refund-policy)
-  Updated: 2025-10-23T17:43:05+08:00
+  Updated: 2026-01-18T14:23:37+08:00
 - [Terms of Service](https://shop.welltechfinds.com/policies/terms-of-service)
-  Updated: 2025-09-09T15:58:03+08:00
+  Updated: 2026-01-18T15:14:44+08:00
 
 ## Optional
 
