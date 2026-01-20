@@ -10,7 +10,7 @@
 - Contact Email: reverbarberproducts@gmail.com
 - Contact Phone: 0767661863
 - Address: Paunesti, Vrancea, 077145 Vrancea, Romania
-- Updated At: 2026-01-13T00:00:40.859Z
+- Updated At: 2026-01-20T00:00:45.461Z
 
 ## Products
 
@@ -113,13 +113,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/disposable-sponge-neck-duster-black-spongy-rectangular-white-background.jpg?v=1751969658
   Price: €5.00 EUR
-- [Fade Brush Comb for Barbers – Durable & Precise Styling Tool](https://rovra.com/products/fade-brush-comb-for-barbers-l): Discover Rovra's fade brush comb for barbers, combining precision and durability. Perfect for professional barbers seeking quality tools for smooth fades.
-  Updated: 2026-01-06T16:11:26Z
-  Vendor: My Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-fade-brush-comb-for-barbers-black-lifted-tooth.jpg?v=1751969828
-  Price: €8.00 EUR
 - [Barber Razor for Hair Texturizing Finger Texturing Razor Black](https://rovra.com/products/barber-razor-for-hair-texturizing): Get precision with Rovra's black finger texturing razor, the perfect barber razor for hair texturizing. Durable, innovative, and designed for ease and passion.
   Updated: 2026-01-06T20:11:52Z
   Vendor: My Store
@@ -148,13 +141,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-professional-barber-cape-black-gold-logo-design.png?v=1751970339
   Price: €35.00 EUR
-- [Colored Guards for Hair Clippers – Magnetic 0.5-4mm Guides](https://rovra.com/products/colored-guards-for-hair-clippers-rovra): Shop Rovra's magnetic colored guides for clippers, 0.5–4 mm. These colored guards for hair clippers offer precision, durability, and easy clip changes.
-  Updated: 2026-01-06T20:11:52Z
-  Vendor: My Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/ROVRA_MAGNETIC_COLORED_GUIDES_1200x1200_5bbac91f-4946-42dd-a27c-2d0765bf3ff2.jpg?v=1763464340
-  Price: €30.00 EUR
 - [Magnetic Barber Station Mat Black with Tool Holders](https://rovra.com/products/magnetic-barber-station-mat-black): Shop Rovra's magnetic barber station mat in black for a sleek, durable workspace organizer. Perfect for pros seeking precision and ease in every cut.
   Updated: 2026-01-06T16:11:27Z
   Vendor: My Store
@@ -226,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/ROVRA_SWEDISH_STAINLESS_STEEL_BLADE_1200x1200_9ec210e7-7483-47ee-9a2e-7866116301b7.jpg?v=1763463604
   Price: €15.00 EUR
 - [Cordless Professional Hair Trimmer X-TRIM 6500 RPM](https://rovra.com/products/cordless-professional-hair-trimmer-xtrim): Rovra's cordless professional hair trimmer X-TRIM delivers 6500 RPM power for precise, effortless grooming. Experience top durability and cutting-edge tech.
-  Updated: 2026-01-06T16:11:28Z
+  Updated: 2026-01-17T07:36:26Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -359,13 +345,13 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-barber-tool-vest-full-front-white-background.jpg?v=1751973383
   Price: €100.00 EUR
 - [Professional Fade Brush by ROVRA – Precision Barber Tool](https://rovra.com/products/professional-fade-brush-rovra): Discover Rovra's professional fade brush with a vibrant design and durable bristles, perfect for precise styling. Shop quality barber tools at Rovra.
-  Updated: 2026-01-06T20:11:52Z
+  Updated: 2026-01-13T14:27:12Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/professional-fade-brush-neon-yellow-handle-black-bristle-angled-side.jpg?v=1751973572
   - [Green](https://rovra.com/products/professional-fade-brush-rovra?variant=49949576298832)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/professional-fade-brush-neon-yellow-handle-black-bristle-angled-side.jpg?v=1751973572
     Price: €20.00 EUR
   - [White](https://rovra.com/products/professional-fade-brush-rovra?variant=49949576331600)
@@ -482,7 +468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/hairdresser-collar-cape-black-waterproof-salon-use.jpg?v=1751976555
   Price: €20.00 EUR
 - [Super Cut Hair Clipper 10000 RPM Cordless Precision](https://rovra.com/products/super-cut-hair-clipper-10000-rpm): Get precision with Rovra's super cut hair clipper 10000 RPM cordless trimmer, designed for durability and ease. Perfect for pros and enthusiasts alike.
-  Updated: 2026-01-06T16:11:34Z
+  Updated: 2026-01-19T12:00:46Z
   Vendor: Rovra
   Product Type: 
   Availability: Available
@@ -888,13 +874,13 @@
   Updated: 2026-01-06T16:11:24Z
   Total Products: 2
 - [Professional Barber Accessories for Precision and Efficiency | Rovra](https://rovra.com/collections/professional-barber-accessories-rovra): Discover professional barber accessories at Rovra, designed for precision and durability to meet the demands of busy salons and barbershops.
-  Updated: 2026-01-08T13:05:48Z
+  Updated: 2026-01-14T12:21:04Z
   Total Products: 58
 - [Clipper Blade Cleaner and Maintenance Essentials | Rovra](https://rovra.com/collections/clipper-blade-cleaner-tools): ROVRA cleaning essentials, including clipper blade cleaner, protect and maintain grooming tools for smooth, safe, and professional cuts every time.
   Updated: 2026-01-06T16:11:24Z
   Total Products: 2
 - [Professional Hair Clippers for Precision & Durability | Rovra](https://rovra.com/collections/professional-hair-clippers-rovra): Shop Rovra's professional hair clippers collection for precision, long battery life, and durability. Perfect for any haircut style and easy to use.
-  Updated: 2026-01-07T12:23:15Z
+  Updated: 2026-01-18T12:23:50Z
   Total Products: 27
 - [Professional Hair Dryer for Fast, Damage-Free Styling | Rovra](https://rovra.com/collections/professional-hair-dryer-rovra): Discover the professional hair dryer collection at Rovra, featuring powerful, lightweight designs with advanced ion tech for salon-quality results.
   Updated: 2026-01-06T16:11:24Z
@@ -918,22 +904,22 @@
   Updated: 2025-06-04T07:51:35Z
   Total Products: 0
 - [Professional Barber Tools for Precision & Durability | Rovra](https://rovra.com/collections/professional-barber-tools-collection): Discover Rovra’s professional barber tools collection offering modern, durable, and precise grooming devices designed for experts and enthusiasts alike.
-  Updated: 2026-01-08T13:01:54Z
-  Total Products: 116
+  Updated: 2026-01-18T12:23:50Z
+  Total Products: 114
 - [VORON](https://rovra.com/collections/voron)
   Updated: 2026-01-06T16:11:25Z
   Total Products: 7
 - [Best  Cele Mai Vândute Aparate De Tuns | Rovra](https://rovra.com/collections/cele-mai-vandute-aparate-de-tuns-best): Discover Rovra’s best  collection featuring cele mai vândute aparate de tuns that combine precision and innovation for perfect grooming every time.
-  Updated: 2026-01-08T13:02:18Z
+  Updated: 2026-01-18T12:23:50Z
   Total Products: 126
 - [LIMITED TIME OFFER - GET 20% OFF](https://rovra.com/collections/-collection)
-  Updated: 2026-01-08T13:04:37Z
+  Updated: 2026-01-18T12:23:50Z
   Total Products: 41
 - [test - please delete](https://rovra.com/collections/test)
-  Updated: 2026-01-08T12:22:51Z
+  Updated: 2026-01-18T12:23:50Z
   Total Products: 41
 - [TVA 21%](https://rovra.com/collections/tva-21)
-  Updated: 2026-01-08T13:06:31Z
+  Updated: 2026-01-18T12:23:50Z
   Total Products: 126
 
 ## Blogs
@@ -967,7 +953,7 @@
 ## Store Pages
 
 - [Contact Us](https://rovra.com/pages/contact)
-  Updated: 2025-03-13T13:36:19Z
+  Updated: 2026-01-14T12:53:40Z
 - [Privacy Policy](https://rovra.com/pages/privacy-policy): Our website address is: https://rovra.com/ Protection of personal data – updated according to EU regulation 2016/679 (GDPR) General information REV...
   Updated: 2025-05-19T15:18:26Z
 - [Cookies](https://rovra.com/pages/cookies): 1. Cookie use policy This refers to the cookies from the website www.rovra.com, owned by REVER BARBER PRODUCTS SRL with its registered office in Pa...
@@ -1022,7 +1008,7 @@
 - [Shipping Policy](https://rovra.com/policies/shipping-policy)
   Updated: 2025-10-03T11:31:46+03:00
 - [Refund Policy](https://rovra.com/policies/refund-policy)
-  Updated: 2025-10-03T11:53:30+03:00
+  Updated: 2026-01-14T14:47:17+02:00
 - [Terms of Service](https://rovra.com/policies/terms-of-service)
   Updated: 2025-10-03T11:46:00+03:00
 - [Contact Information](https://rovra.com/policies/contact-information)
