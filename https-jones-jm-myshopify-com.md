@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-01-13T20:00:23.422Z
+- Updated At: 2026-01-20T20:00:25.096Z
 
 ## Products
 
@@ -818,6 +818,27 @@
     Author: User
   - [Exploring the Impact of Snowboarding on Mountain Communities](https://jones-jm.myshopify.com/blogs/news/exploring-the-impact-of-snowboarding-on-mountain-communities): Exploring the Impact of Snowboarding on Mountain Communities
     Updated: 2026-01-13T00:01:27Z
+    Author: User
+  - [How Snowboarding Became a Worldwide Phenomenon](https://jones-jm.myshopify.com/blogs/news/how-snowboarding-became-a-worldwide-phenomenon): How Snowboarding Became a Worldwide Phenomenon
+    Updated: 2026-01-14T00:01:45Z
+    Author: User
+  - [7 Simple Steps to a Sustainable Lifestyle](https://jones-jm.myshopify.com/blogs/news/7-simple-steps-to-a-sustainable-lifestyle): 7 Simple Steps to a Sustainable Lifestyle
+    Updated: 2026-01-18T03:44:04Z
+    Author: User
+  - [Top 10 Tips for Reducing Your Carbon Footprint Right Now](https://jones-jm.myshopify.com/blogs/news/top-10-tips-for-reducing-your-carbon-footprint-right-now): Top 10 Tips for Reducing Your Carbon Footprint Right Now
+    Updated: 2026-01-18T03:51:42Z
+    Author: User
+  - [Top 10 Ways to Incorporate Sustainability Into Your Daily Routine](https://jones-jm.myshopify.com/blogs/news/top-10-ways-to-incorporate-sustainability-into-your-daily-routine): Top 10 Ways to Incorporate Sustainability Into Your Daily Routine
+    Updated: 2026-01-18T21:39:20Z
+    Author: User
+  - [The Ultimate Guide to Embracing Minimalism in Everyday Life](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-embracing-minimalism-in-everyday-life): The Ultimate Guide to Embracing Minimalism in Everyday Life
+    Updated: 2026-01-18T22:46:07Z
+    Author: User
+  - [Top 10 Timeless Fashion Pieces You Need in Your Wardrobe](https://jones-jm.myshopify.com/blogs/news/top-10-timeless-fashion-pieces-you-need-in-your-wardrobe): Top 10 Timeless Fashion Pieces You Need in Your Wardrobe
+    Updated: 2026-01-18T22:51:07Z
+    Author: User
+  - [The Biggest Challenges in Achieving Global Sustainability and How We Can Solve Them](https://jones-jm.myshopify.com/blogs/news/the-biggest-challenges-in-achieving-global-sustainability-and-how-we-can-solve-them): The Biggest Challenges in Achieving Global Sustainability and How We Can Solve Them
+    Updated: 2026-01-19T00:00:58Z
     Author: User
 
 ## Store Pages
