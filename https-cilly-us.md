@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2026-01-12T00:00:58.365Z
+- Updated At: 2026-01-20T00:00:57.024Z
 
 ## Products
 
@@ -10719,7 +10719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/76BB1A3533089DF5B867BC6D91F6063C.jpg?v=1756589759
     Price: CHF 14.28 CHF
 - [Keramik-Napf Schräg - Für Hunde & Katzen Ergonomisch](https://cilly.us/products/pet-supplies-bowl-ceramic-cat-bowl-dog-bowl-oblique-mouth): Ergonomischer Keramik-Napf mit schrägem MundDieser ergonomische Keramik-Napf mit schrägem Mund ist perfekt für Hunde und Katzen - bequeme Fütterung für die DACH-Region.Produktvorteile: Schräger Mund: Ergonomischer Fresswinkel Keramik: Hygienisch und langlebig Ergonomisch: Reduziert Belastung des Nackens Für Hunde & Katzen: Vielseitig einsetzbar Bequem: Angenehmes Fressen Leicht zu reinigen: Spülmaschinenfest Ideal für:Hunde, Katzen, ältere Haustiere, ergonomische Fütterung sowie für bequemes Fressen.Ergonomischer Komfort beim Fressen!
-  Updated: 2025-10-23T14:34:49Z
+  Updated: 2026-01-16T06:06:16Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -19299,7 +19299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e95205bf-51a1-4554-bfc3-31a09b8d197f.jpg?v=1757621138
     Price: CHF 256.20 CHF
 - [Wooden Wagon Planter Box, 3-Tier Raised Garden Bed, For Vegetables Flowers Herbs](https://cilly.us/products/wooden-wagon-planter-box-3-tier-raised-garden-bed-for-vegetables-flowers-herbs): Features: - Our raised planter offers three flower boxes - Vintage-style wheel motifs give your garden a focal point - Drainage holes on each wooden box prevent our garden bed from becoming a pond after heavy rain - The fir wood has been sealed, offering a rustic look and a more outdoor-ready build - Assembly is required Specification: - Color: Carbonized - Material: Fir wood - Overall Dimensions: 25.25" L x 21.25" W x 23.5" H - Single Planting Box Dimensions: 22" W x 7.75" D x 6" H - Internal Planting Area: 20.75" W x 6.75" D x 5" H - Wheel Size: 21.25" Dia - Weight Capacity: 55 lbs. (Per Box) Package Includes: - 1 x Garden Bed - 1 x Manual
-  Updated: 2025-11-18T09:16:57Z
+  Updated: 2026-01-19T08:06:32Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -19334,7 +19334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d217385c-ede8-4231-a43c-90fa299c52b7.jpg?v=1757622274
     Price: CHF 148.30 CHF
 - [Wooden Wagon Planter Box, 2-Tier Raised Garden Bed, For Vegetables Flowers Herbs](https://cilly.us/products/wooden-wagon-planter-box-2-tier-raised-garden-bed-for-vegetables-flowers-herbs): Features: - Our raised planter offers two flower boxes - Vintage-style wheel motifs give your garden a focal point - Drainage holes on each wooden box prevent our garden bed from becoming a pond after heavy rain - The fir wood has been sealed, offering a rustic look and a more outdoor-ready build - Assembly is required Specification: - Color: Carbonized - Material: Fir wood - Overall Dimensions: 21.75" L x 12.5" W x 22" H - Single Planting Box Dimensions: 18.5" W x 7" D x 6" H - Internal Planting Area: 17.25" W x 6" D x 5" H - Wheel Size: 11" W x 21.25" H - Weight Capacity: 55 lbs. (per box) Package Includes: - 1 x Garden Bed - 1 x Manual
-  Updated: 2025-11-18T09:17:00Z
+  Updated: 2026-01-19T08:06:31Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -30804,6 +30804,85 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/71ad0521-5b84-4bb1-bf77-59aa5f40d27d.jpg?v=1763586827
     Price: CHF 11.50 CHF
+- [Camping kerosene stove](https://cilly.us/products/camping-kerosene-stove): Description of 168 oil furnace: Product name: Spot is Meilun brand kerosene stove Camping stove integrated 8-lamp stove core suitable for 5-8 people Structure: Integrated 8-core oil furnace Fuel: kerosene, diesel and other liquid oils Specifications: diameter 17cm, height 19cm Maximum firepower burning time: 6-7 hours
+  Updated: 2026-01-12T23:27:37Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Garten
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/30642649902524.jpg?v=1768217147
+  Price: CHF 24.50 CHF
+- [Outdoor Lamp Retro Revolving Lantern Camping Tent Lamp Camping Lamp Rechargeable Portable Lamp Atmosphere Lamp](https://cilly.us/products/outdoor-lamp-retro-revolving-lantern-camping-tent-lamp-camping-lamp-rechargeable-portable-lamp-atmosphere-lamp): Functional Features Multiple Charging Methods : Equipped with solar charging function. When outdoors in sunlight, it can convert light energy into electrical energy through the solar panel to charge the lamp, which is environmentally friendly and energy-saving. It also supports USB charging, making it convenient to charge via power banks, computers, and other devices when there is no sunlight. Excellent Lighting Performance Multi-level Lighting Modes : Usually featuring multiple lighting modes, such as high light, medium light, low light, strobe, and SOS modes. The high light mode provides bright illumination over a large area at night, facilitating outdoor walking and activities; medium and low light modes are suitable for creating a warm atmosphere in tents while saving power; strobe and SOS modes can send out distress signals in emergency situations. High Brightness and Wide Illumination Range : Adopting high-brightness LED lamp beads or COB light sources, it can provide sufficient brightness to easily illuminate camping sites or surrounding environments. The light is soft and not dazzling, so long-term use will not cause visual fatigue. Strong Battery Life : Built-in large-capacity lithium battery. After a full charge, it can be used continuously for several hours or even dozens of hours depending on different lighting modes, meeting the long-term lighting needs of outdoor camping, other activities without frequent charging. Multi-functional Design : In addition to basic lighting functions, it also has some other practical functions. For example, it can be used as an emergency power bank to charge mobile phones and other electronic devices through the USB interface, solving the problem of dead electronic devices outdoors; some models are equipped with a radio function to enhance outdoor entertainment. Appearance and Design Simple and Stylish Appearance : Generally adopting a simple and stylish design style, the lamp body is mostly in classic colors such as black and white, with some bright color options like orange and blue. It is not only aesthetically pleasing but also matches the outdoor environment, satisfying the personalized needs of different users. Lightweight and Portable : With light overall weight and small size, it is easy to carry. Whether placed in a backpack, hung on a belt, or stored in the trunk of a car, it does not take up much space, making it very suitable for outdoor travel. User-friendly Design : It has an ergonomic grip design for easy holding; equipped with a convenient hook or adjustable bracket, it can be easily hung in tents, on tree branches, or other places, and the lighting angle can be adjusted as needed; some are also equipped with strong adsorption magnets, which can be attached to metal surfaces for more flexible use. Applicable Scenarios Outdoor Camping : When camping, it can be hung in the tent to provide warm lighting or placed outside the tent to illuminate the surrounding area, facilitating night activities. Wild Adventure : In wild adventures such as hiking and mountaineering, it can be used as a lighting tool to help identify roads and the surrounding environment. Night Market Vending : It can provide sufficient light for vending at night markets, attracting customers and making the stall more eye-catching. Emergency Lighting : In emergency situations such as household power outages, vehicle breakdowns, and emergency rescue, it can provide timely lighting to ensure safety and facilitate operations.
+  Updated: 2026-01-12T23:43:25Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Garten
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/832dfa4d-0140-40be-aeee-292cd9698723.jpg?v=1768218031
+  Price: CHF 18.60 CHF
+- [Pet Visual Automatic Pet Feeder](https://cilly.us/products/pet-visual-automatic-pet-feeder): Product information: Specifications: gray, pink, blue Material: complete set of automatic feeding tableware Applicable object: Cat Import or not: no Category: Pet tableware Packing list: Pet Bowl*1 Product Image:
+  Updated: 2026-01-13T02:06:45Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3e1b287c-87ef-4fc7-8065-ddc3f244a89c_trans.jpg?v=1768225477
+  - [Blue](https://cilly.us/products/pet-visual-automatic-pet-feeder?variant=52242657411413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fe093000-1634-4b2d-9c7e-44602de75e2d_trans.jpg?v=1768225487
+    Price: CHF 28.50 CHF
+  - [Gray](https://cilly.us/products/pet-visual-automatic-pet-feeder?variant=52242657444181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0cb4145a-88d1-4c74-b932-42da08922dc1_trans.jpg?v=1768225486
+    Price: CHF 28.50 CHF
+  - [Pink](https://cilly.us/products/pet-visual-automatic-pet-feeder?variant=52242657476949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b4049f02-e770-4e16-8b62-8b6aab2e9748_trans.jpg?v=1768225486
+    Price: CHF 28.50 CHF
+- [Automatic Water Change Pet Feeder](https://cilly.us/products/automatic-water-change-pet-feeder): Product information: Specifications: dark gray, royal blue, watermelon red Material: ABS Applicable object: Cat Function; For cats and dogs to eat and drink water Category: Pet tableware Packing list: Pet feeder X1PCS Product Image:
+  Updated: 2026-01-13T01:47:49Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f677bba5-ea54-46ac-88a3-14e8430ab27d_trans.jpg?v=1768225611
+  - [Dark Gray](https://cilly.us/products/automatic-water-change-pet-feeder?variant=52242663080277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d79596ea-6a0f-4126-9f3c-aaa372448523.jpg?v=1768225619
+    Price: CHF 28.90 CHF
+  - [Royal Blue](https://cilly.us/products/automatic-water-change-pet-feeder?variant=52242663113045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d58b5ebc-740e-41e9-9fe5-b0bb01ba3593.jpg?v=1768225620
+    Price: CHF 28.90 CHF
+  - [Watermelon Red](https://cilly.us/products/automatic-water-change-pet-feeder?variant=52242663145813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d95f59aa-0e12-4a47-b102-7e5992e6bcfa.jpg?v=1768225620
+    Price: CHF 28.90 CHF
+- [Pocket solar radio](https://cilly.us/products/pocket-solar-radio): Material: Engineering Plastic Charging mode: Solar Charging applicable environment: daily carry camping hiking night riding diving caving hunting Whether it is waterproof: Yes Maximum brightness (maximum luminous flux): 100 lumens or less
+  Updated: 2026-01-13T09:57:12Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Garten
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/131509780008792.jpg?v=1768252098
+  - [Green](https://cilly.us/products/pocket-solar-radio?variant=52244487471445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/131509780008792_4e138fb7-b2ae-49a3-ac5b-8dfb8529ddd9.jpg?v=1768252107
+    Price: CHF 42.60 CHF
+  - [Red](https://cilly.us/products/pocket-solar-radio?variant=52244487504213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/304418297484.jpg?v=1768252107
+    Price: CHF 44.10 CHF
+  - [White](https://cilly.us/products/pocket-solar-radio?variant=52244487536981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/806687378667.jpg?v=1768252108
+    Price: CHF 44.10 CHF
+  - [Yellow](https://cilly.us/products/pocket-solar-radio?variant=52244487569749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2978764249528.jpg?v=1768252107
+    Price: CHF 42.60 CHF
+- [Mother Pot Set Thermostat And Heat Preservation Pot](https://cilly.us/products/mother-pot-set-thermostat-and-heat-preservation-pot): Product information: Material: Stainless steel Capacity: 1.7L Style: Chinese Popular elements: pastoral style Tea tableware craft: other
+  Updated: 2026-01-14T22:57:44Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1616742698305.jpg?v=1768337992
+  Price: CHF 48.20 CHF
 
 ## Collections
 
@@ -30811,14 +30890,14 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-11-19T21:16:20Z
-  Total Products: 381
+  Updated: 2026-01-12T13:49:16Z
+  Total Products: 383
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2026-01-09T12:22:33Z
-  Total Products: 430
+  Updated: 2026-01-12T13:49:16Z
+  Total Products: 432
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
-  Updated: 2025-10-29T18:43:53Z
-  Total Products: 135
+  Updated: 2026-01-12T13:49:17Z
+  Total Products: 137
 - [Pferd | Pferdebedarf, Zubehör & Pferdefutter online](https://cilly.us/collections/pferd): Hol dir alles für dein Pferd: Futter, Stallzubehör, Pflege & Reitsportartikel. Große Auswahl bei Alles für deine Haustiere – sicher & einfach online bestellen.
   Updated: 2025-09-27T09:46:20Z
   Total Products: 5
@@ -30841,14 +30920,14 @@
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
 - [Küche | Küchenbedarf, Küchengeräte & Zubehör online](https://cilly.us/collections/kuche): Hol dir alles für deine Küche: Küchenhelfer, Küchengeräte, Utensilien & Zubehör. Jetzt bei Alles für deine Haustiere – sicher, einfach & schnell online kaufen.
-  Updated: 2025-11-03T22:01:34Z
-  Total Products: 93
+  Updated: 2026-01-12T21:22:32Z
+  Total Products: 94
 - [Küchengeräte | Elektrogeräte & Küchenmaschinen online](https://cilly.us/collections/kuchengerate): Hol dir Küchengeräte für jede Küche: Mixer, Toaster, Kaffeemaschinen & mehr. Große Auswahl bei Alles für deine Haustiere – schnell & sicher online bestellen.
-  Updated: 2025-11-03T22:01:34Z
-  Total Products: 68
+  Updated: 2026-01-15T00:55:41Z
+  Total Products: 72
 - [Küchenbedarf | Küchenzubehör & Küchenhelfer online](https://cilly.us/collections/kuchenbedarf): Bei Alles für deine Haustiere findest du günstigen Küchenbedarf, Utensilien & Kochzubehör für jeden Haushalt. Qualität günstig online kaufen & genießen.
-  Updated: 2025-11-03T22:01:34Z
-  Total Products: 87
+  Updated: 2026-01-15T00:55:41Z
+  Total Products: 90
 - [Haushalt](https://cilly.us/collections/haushalt)
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
@@ -30889,8 +30968,8 @@
   Updated: 2025-09-27T00:44:26Z
   Total Products: 2
 - [Katzenfutter](https://cilly.us/collections/katzenfutter)
-  Updated: 2025-09-27T01:46:43Z
-  Total Products: 2
+  Updated: 2026-01-12T13:49:17Z
+  Total Products: 4
 - [Hundeleine](https://cilly.us/collections/hundeleine)
   Updated: 2025-10-29T20:07:37Z
   Total Products: 48
@@ -30907,14 +30986,14 @@
   Updated: 2025-11-03T21:40:42Z
   Total Products: 31
 - [Hundefutter](https://cilly.us/collections/hundefutter)
-  Updated: 2025-09-27T15:04:36Z
-  Total Products: 4
+  Updated: 2026-01-12T13:49:17Z
+  Total Products: 6
 
 ## Store Pages
 
 - [Kontakt](https://cilly.us/pages/contact)
   Updated: 2025-08-14T16:06:31Z
-- [Your privacy choices](https://cilly.us/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://cilly.us/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-19T12:13:11Z
 - [Über uns](https://cilly.us/pages/uber-uns): Alles für deine Haustiere Canovastraße 8 7430 Thusis Tel. +41 0796037788 Telefonzeiten: Mon-Fri, 9:00-16:00 E-mail: Allesfuerdeinehaustiere.com Int...
   Updated: 2025-09-08T12:03:42Z
