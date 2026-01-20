@@ -4,7 +4,7 @@
 
 - Contact Email: support@aurinwear.com
 - Address: Dallas, TX, USA
-- Updated At: 2026-01-12T00:00:37.863Z
+- Updated At: 2026-01-20T00:00:41.836Z
 
 ## Products
 
@@ -1813,7 +1813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-organic-raglan-sweatshirt-charcoal-melange-front-6935d681d8929.png?v=1765137030
     Price: $34.99 USD
 - [Unisex Focus Motivational Quote Raglan Printed Sweatshirt](https://www.aurinwear.com/products/unisex-focus-motivational-quote-raglan-printed-sweatshirt): Stay inspired and driven every day with our Unisex Focus Motivational Quote Premium Printed Sweatshirt. Designed with a bold retro-style "FOCUS" graphic on a sleek black backdrop, this sweatshirt is perfect for anyone who values productivity, mental clarity, and personal growth. Whether you're studying, working, creating, or simply embracing a positive mindset, this cozy and stylish sweatshirt keeps your motivation front and center. Features Soft and comfortable premium material Unisex fit for all-day comfort Durable, high-quality print design Perfect for students, entrepreneurs, gym-goers, and creatives Available in multiple sizes 100% organic cotton exterior Charcoal Melange exterior: 60% organic cotton, 40% recycled polyester 80% organic cotton, 20% recycled polyester interior 97% organic cotton, 3% elastane ribs Fabric weight: 8.3 oz/yd² (280 g/m²) Fabric weight for Charcoal Melange: 10.3 oz/yd² (348 g/m²) Side-seamed construction Raglan sleeves for a relaxed fit Neck tape for added comfort Brushed fleece lining for warmth 2 × 2 ribbed cuffs, collar, and hem
-  Updated: 2026-01-07T09:35:41Z
+  Updated: 2026-01-17T20:58:02Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -7047,7 +7047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6941116befe58.png?v=1765906609
     Price: $34.99 USD
 - [Unisex Dog Birthday Premium Printed Hoodie](https://www.aurinwear.com/products/unisex-dog-birthday-premium-printed-hoodie): This unisex eco raglan hoodie features a cute dog wearing a birthday cap, designed to add a fun and cheerful touch to your everyday look. Perfect for casual outings, lounging at home, or celebrating a special day, this hoodie is a great choice for dog lovers and anyone who enjoys playful, feel-good designs. Soft and comfortable eco-friendly fabric blend Raglan sleeves for easy movement and a relaxed fit Durable printed design that holds up to regular wear Unisex style suitable for everyday casual outfits This hoodie works especially well during fall and winter seasons, offering warmth without feeling heavy. It also makes a thoughtful birthday gift for dog owners and pet enthusiasts.
-  Updated: 2026-01-07T09:33:18Z
+  Updated: 2026-01-18T08:57:35Z
   Vendor: Aurin Wear
   Product Type: 
   Availability: Available
@@ -9953,7 +9953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-6945ac1c521db.png?v=1766174574
     Price: $34.99 USD
 - [Eat Drink Be Thankful Fall Hoodie | Unisex Pullover](https://www.aurinwear.com/products/unisex-eat-drink-be-thankful-fall-premium-pullover-hoodie): This Eat Drink Be Thankful fall hoodie is designed for the season of gratitude, combining a clean vertical graphic with warm autumn tones. It’s a comfortable and meaningful choice for Thanksgiving celebrations and everyday fall wear. Perfect for Thanksgiving dinners, family gatherings, and seasonal outings Unisex fit designed for both men and women Classic pullover style with a front pouch pocket for daily comfort Minimal fall-inspired design that pairs easily with jeans or joggers Made with a soft 100% cotton face and a durable cotton-poly blend, this hoodie offers warmth without feeling heavy. The 3-panel hood, flat drawstrings, and smooth interior make it ideal for layering during cooler fall and winter days. Whether you’re hosting Thanksgiving, traveling for the holidays, or enjoying crisp autumn weather, this Eat Drink Be Thankful hoodie delivers comfort, seasonal style, and long-lasting wear.
-  Updated: 2026-01-10T16:50:22Z
+  Updated: 2026-01-17T20:57:25Z
   Vendor: Aurin Wear
   Product Type: Hoodies for Men's & Women's
   Availability: Available
@@ -10159,7 +10159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-695ac2111dcc3.png?v=1767556626
     Price: $39.99 USD
 - [Sunflower Graphic Hoodie for Men & Women | Aurin Wear](https://www.aurinwear.com/products/unisex-sunflower-graphic-premium-pullover-hoodie): Stay comfortable in our sunflower graphic hoodie, featuring a clean unisex design and soft fabric. Ideal for casual wear and cool-weather layering.
-  Updated: 2026-01-10T16:50:24Z
+  Updated: 2026-01-17T20:57:24Z
   Vendor: Aurin Wear
   Product Type: Hoodies for Men's & Women's
   Availability: Available
@@ -10365,7 +10365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-695ad35aafd92.png?v=1767560956
     Price: $39.99 USD
 - [Pixel Cat Meow Graphic Hoodie | Unisex Premium Pullover](https://www.aurinwear.com/products/unisex-pixel-cat-meow-premium-pullover-graphic-hoodie): Shop the Pixel Cat Meow Graphic Hoodie. A unisex premium pullover hoodie designed for comfort, casual wear, and everyday street style.
-  Updated: 2026-01-10T16:50:25Z
+  Updated: 2026-01-17T20:57:24Z
   Vendor: Aurin Wear
   Product Type: Hoodies for Men's & Women's
   Availability: Available
@@ -10571,7 +10571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-695adbf2a42f0.png?v=1767563162
     Price: $39.99 USD
 - [Unisex Stay Weird Bunny Graphic Premium Pullover Hoodie](https://www.aurinwear.com/products/unisex-stay-weird-bunny-graphic-premium-pullover-hoodie): Stand out in a Stay Weird bunny graphic hoodie designed for everyday comfort. This unisex premium pullover is perfect for casual streetwear and cool weather
-  Updated: 2026-01-10T21:47:17Z
+  Updated: 2026-01-17T20:57:24Z
   Vendor: Aurin Wear
   Product Type: Hoodies for Men's & Women's
   Availability: Available
@@ -11189,7 +11189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-heather-deep-teal-front-6962d60578102.png?v=1768085030
     Price: $19.99 USD
 - [Unisex Make It Happen Motivational Printed T-Shirt](https://www.aurinwear.com/products/unisex-make-it-happen-motivational-printed-t-shirt): Stay inspired every day with the Make It Happen motivational premium T-shirt. A comfortable unisex tee designed for casual wear and everyday confidence.
-  Updated: 2026-01-11T20:59:56Z
+  Updated: 2026-01-12T13:24:14Z
   Vendor: Aurin Wear
   Product Type: T-Shirts for Men's & Women's
   Availability: Available
@@ -11395,7 +11395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-heather-deep-teal-front-69640d84dd7da.png?v=1768164769
     Price: $19.99 USD
 - [Funny Dog Graphic Printed T-Shirt for Men & Women](https://www.aurinwear.com/products/unisex-funny-dog-aimal-printed-t-shirt): Shop the Funny Dog Graphic Printed T-Shirt featuring a cool dog illustration with glasses. A comfortable unisex tee perfect for everyday streetwear.
-  Updated: 2026-01-11T21:20:57Z
+  Updated: 2026-01-12T12:59:39Z
   Vendor: Aurin Wear
   Product Type: T-Shirts for Men's & Women's
   Availability: Available
@@ -11600,6 +11600,798 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-heather-deep-teal-front-696412930f838.png?v=1768166371
     Price: $24.99 USD
+- [Unisex Cat Mama Pullover Graphic Hoodie](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie): This Cat Mama pullover graphic hoodie is made for proud cat lovers who want comfort without sacrificing style. Featuring a clean, minimal cat-themed design, it’s an easy everyday hoodie you’ll reach for again and again. Designed for relaxed daily wear, this unisex hoodie works well for casual outings, cozy nights at home, or layering during fall and winter weather. The soft cotton-rich fabric feels comfortable against the skin while maintaining durability for regular use. Classic unisex fit suitable for men and women Soft, smooth cotton exterior for all-day comfort Ideal for casual wear, lounging, or gifting to cat moms Perfect for fall, winter, and cool-weather layering Fabric: 65% ring-spun cotton, 35% polyester Heather Colors: Charcoal Heather, Carbon Grey, and Oatmeal Heather are 55% ring-spun cotton, 45% polyester Face Fabric: 100% cotton Fabric Weight: 8.5 oz./yd.² (288.2 g/m²) Design: Front pouch pocket with matching flat drawstrings Construction: 3-panel hood with self-fabric patch on the back Label: Tear-away tag for added comfort
+  Updated: 2026-01-17T20:57:24Z
+  Vendor: Aurin Wear
+  Product Type: Hoodies for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124454038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+    Price: $39.99 USD
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124486806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+    Price: $39.99 USD
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124519574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+    Price: $39.99 USD
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124552342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+    Price: $39.99 USD
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124585110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+    Price: $39.99 USD
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124617878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-6968bf0c59bb7.png?v=1768472457
+    Price: $39.99 USD
+  - [Black / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123470998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-6968bf0be0284.png?v=1768472457
+    Price: $39.99 USD
+  - [Black / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123503766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-6968bf0be0284.png?v=1768472457
+    Price: $39.99 USD
+  - [Black / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123536534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-6968bf0be0284.png?v=1768472457
+    Price: $39.99 USD
+  - [Black / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123569302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-6968bf0be0284.png?v=1768472457
+    Price: $39.99 USD
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123602070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-6968bf0be0284.png?v=1768472457
+    Price: $39.99 USD
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123634838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-6968bf0be0284.png?v=1768472457
+    Price: $39.99 USD
+  - [Maroon / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123667606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-6968bf0c0ef7e.png?v=1768472457
+    Price: $39.99 USD
+  - [Maroon / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123700374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-6968bf0c0ef7e.png?v=1768472457
+    Price: $39.99 USD
+  - [Maroon / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123733142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-6968bf0c0ef7e.png?v=1768472457
+    Price: $39.99 USD
+  - [Maroon / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123765910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-6968bf0c0ef7e.png?v=1768472457
+    Price: $39.99 USD
+  - [Maroon / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123798678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-6968bf0c0ef7e.png?v=1768472457
+    Price: $39.99 USD
+  - [Maroon / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123831446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-6968bf0c0ef7e.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Royal / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123864214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-6968bf0c1bcc4.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Royal / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123896982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-6968bf0c1bcc4.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Royal / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123929750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-6968bf0c1bcc4.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123962518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-6968bf0c1bcc4.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182123995286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-6968bf0c1bcc4.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124028054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-6968bf0c1bcc4.png?v=1768472457
+    Price: $39.99 USD
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124060822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-6968bf0c30fa2.png?v=1768472457
+    Price: $39.99 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124093590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-6968bf0c30fa2.png?v=1768472457
+    Price: $39.99 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124126358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-6968bf0c30fa2.png?v=1768472457
+    Price: $39.99 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124159126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-6968bf0c30fa2.png?v=1768472457
+    Price: $39.99 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124191894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-6968bf0c30fa2.png?v=1768472457
+    Price: $39.99 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124224662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-6968bf0c30fa2.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124257430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-6968bf0c3f27d.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124290198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-6968bf0c3f27d.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124322966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-6968bf0c3f27d.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124355734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-6968bf0c3f27d.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124388502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-6968bf0c3f27d.png?v=1768472457
+    Price: $39.99 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124421270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-6968bf0c3f27d.png?v=1768472457
+    Price: $39.99 USD
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124650646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-6968bf0c737e3.png?v=1768472359
+    Price: $39.99 USD
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124683414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-6968bf0c737e3.png?v=1768472359
+    Price: $39.99 USD
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124716182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-6968bf0c737e3.png?v=1768472359
+    Price: $39.99 USD
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124748950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-6968bf0c737e3.png?v=1768472359
+    Price: $39.99 USD
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124781718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-6968bf0c737e3.png?v=1768472359
+    Price: $39.99 USD
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124814486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-6968bf0c737e3.png?v=1768472359
+    Price: $39.99 USD
+  - [Bone / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124847254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-6968bf0c8a631.png?v=1768472359
+    Price: $39.99 USD
+  - [Bone / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124880022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-6968bf0c8a631.png?v=1768472359
+    Price: $39.99 USD
+  - [Bone / L](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124912790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-6968bf0c8a631.png?v=1768472359
+    Price: $39.99 USD
+  - [Bone / XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124945558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-6968bf0c8a631.png?v=1768472359
+    Price: $39.99 USD
+  - [Bone / 2XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182124978326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-6968bf0c8a631.png?v=1768472359
+    Price: $39.99 USD
+  - [Bone / 3XL](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182125011094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-6968bf0c8a631.png?v=1768472359
+    Price: $39.99 USD
+  - [White / S](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182125043862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-6968bf0cbf2f9.png?v=1768472358
+    Price: $39.99 USD
+  - [White / M](https://www.aurinwear.com/products/unisex-cat-mama-pullover-graphic-hoodie?variant=46182125076630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-6968bf0cbf2f9.png?v=1768472358
+    Price: $39.99 USD
+- [Dogs Make Me Happy Humans Make My Head Hurt T-Shirt](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt): Show your love for dogs with the Dogs Make Me Happy Humans Make My Head Hurt t-shirt. A comfortable unisex tee perfect for dog lovers and casual wear.
+  Updated: 2026-01-19T10:13:29Z
+  Vendor: Aurin Wear
+  Product Type: T-Shirts for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+  - [White / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213310614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [White / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213343382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [White / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213376150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [White / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213408918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213441686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213474454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [White / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186213507222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-white-front-696d5ac7eb6fb.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211246230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211278998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211311766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211344534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211377302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211410070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Black / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211442838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-black-front-696d5ac5c4223.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211475606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211508374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211541142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211573910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211606678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211639446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Team Purple / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211672214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-team-purple-front-696d5ac657671.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211704982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211737750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211770518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211803286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211836054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211868822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Maroon / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211901590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-maroon-front-696d5ac65f591.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211934358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211967126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186211999894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212032662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212065430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212098198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Forest / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212130966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-forest-front-696d5ac677b86.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212163734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212196502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212229270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212262038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212294806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212327574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Berry / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212360342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-berry-front-696d5ac6986f0.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212393110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / M](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212425878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / L](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212458646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212491414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / 2XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212524182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / 3XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212556950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Army / 4XL](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212589718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-army-front-696d5ac6c4b92.png?v=1768774574
+    Price: $24.99 USD
+  - [Heather Deep Teal / S](https://www.aurinwear.com/products/unisex-dogs-make-me-happy-humans-make-my-head-hurt-printed-t-shirt?variant=46186212622486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-staple-t-shirt-heather-deep-teal-front-696d5ac707699.png?v=1768774574
+    Price: $24.99 USD
+- [Unisex Cheers Cocktail Hoodie Pullover Graphic Hoodie](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie): This unisex Cheers cocktail graphic hoodie features a clean, modern design with clinking cocktail glasses and a bold “Cheers!” message. It’s a relaxed everyday hoodie made for casual wear, social gatherings, and laid-back celebrations. Designed for comfort and versatility, this pullover hoodie is ideal for evening outings, weekend plans, parties, or simply staying warm during fall and winter. The classic unisex fit makes it easy to style with jeans, joggers, or layered looks. The soft cotton-blend fabric delivers a smooth feel on the outside and cozy warmth on the inside, making it a dependable go-to hoodie for cooler seasons. 65% ring-spun cotton, 35% polyester Charcoal Heather, Carbon Grey, and Oatmeal Heather: 55% ring-spun cotton, 45% polyester 100% cotton face for a soft, premium feel Fabric weight: 8.5 oz./yd.² (288.2 g/m²) Front pouch pocket for everyday convenience Self-fabric patch on the back Matching flat drawstrings 3-panel hood for a structured fit Tear-away tag for added comfort
+  Updated: 2026-01-19T17:14:36Z
+  Vendor: Aurin Wear
+  Product Type: Hoodies for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+  - [Black / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497245334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+    Price: $37.00 USD
+  - [Black / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497278102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+    Price: $37.00 USD
+  - [Black / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497310870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+    Price: $37.00 USD
+  - [Black / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497343638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+    Price: $37.00 USD
+  - [Black / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497376406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+    Price: $39.50 USD
+  - [Black / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497409174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dbd81eba22.png?v=1768799640
+    Price: $42.00 USD
+  - [Maroon / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497441942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dbd8235c76.png?v=1768800219
+    Price: $37.00 USD
+  - [Maroon / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497474710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dbd8235c76.png?v=1768800219
+    Price: $37.00 USD
+  - [Maroon / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497507478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dbd8235c76.png?v=1768800219
+    Price: $37.00 USD
+  - [Maroon / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497540246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dbd8235c76.png?v=1768800219
+    Price: $37.00 USD
+  - [Maroon / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497573014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dbd8235c76.png?v=1768800219
+    Price: $39.50 USD
+  - [Maroon / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497605782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dbd8235c76.png?v=1768800219
+    Price: $42.00 USD
+  - [Forest Green / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497638550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dbd823b095.png?v=1768800219
+    Price: $37.00 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497671318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dbd823b095.png?v=1768800219
+    Price: $37.00 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497704086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dbd823b095.png?v=1768800219
+    Price: $37.00 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497736854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dbd823b095.png?v=1768800219
+    Price: $37.00 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497769622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dbd823b095.png?v=1768800219
+    Price: $39.50 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497802390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dbd823b095.png?v=1768800219
+    Price: $42.00 USD
+  - [Team Red / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497835158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dbd82404f5.png?v=1768800219
+    Price: $37.00 USD
+  - [Team Red / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497867926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dbd82404f5.png?v=1768800219
+    Price: $37.00 USD
+  - [Team Red / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497900694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dbd82404f5.png?v=1768800219
+    Price: $37.00 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497933462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dbd82404f5.png?v=1768800219
+    Price: $37.00 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497966230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dbd82404f5.png?v=1768800219
+    Price: $39.50 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186497998998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dbd82404f5.png?v=1768800219
+    Price: $42.00 USD
+  - [Dusty Rose / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498031766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dbd8252402.png?v=1768800219
+    Price: $37.00 USD
+  - [Dusty Rose / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498064534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dbd8252402.png?v=1768800219
+    Price: $37.00 USD
+  - [Dusty Rose / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498097302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dbd8252402.png?v=1768800219
+    Price: $37.00 USD
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498130070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dbd8252402.png?v=1768800219
+    Price: $37.00 USD
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498162838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dbd8252402.png?v=1768800219
+    Price: $39.50 USD
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498195606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dbd8252402.png?v=1768800219
+    Price: $42.00 USD
+  - [Carbon Grey / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498228374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dbd825f88f.png?v=1768800219
+    Price: $37.00 USD
+  - [Carbon Grey / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498261142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dbd825f88f.png?v=1768800219
+    Price: $37.00 USD
+  - [Carbon Grey / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498293910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dbd825f88f.png?v=1768800219
+    Price: $37.00 USD
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498326678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dbd825f88f.png?v=1768800219
+    Price: $37.00 USD
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498359446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dbd825f88f.png?v=1768800219
+    Price: $39.50 USD
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498392214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dbd825f88f.png?v=1768800219
+    Price: $42.00 USD
+  - [White / S](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498424982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dbd826fe78.png?v=1768800219
+    Price: $37.00 USD
+  - [White / M](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498457750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dbd826fe78.png?v=1768800219
+    Price: $37.00 USD
+  - [White / L](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498490518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dbd826fe78.png?v=1768800219
+    Price: $37.00 USD
+  - [White / XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498523286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dbd826fe78.png?v=1768800219
+    Price: $37.00 USD
+  - [White / 2XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498556054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dbd826fe78.png?v=1768800219
+    Price: $39.50 USD
+  - [White / 3XL](https://www.aurinwear.com/products/cheers-cocktail-graphic-hoodie?variant=46186498588822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dbd826fe78.png?v=1768800219
+    Price: $42.00 USD
+- [Unisex Hello Weekend Graphic Premium Pullover Hoodie](https://www.aurinwear.com/products/unisex-premium-graphic-pullover): Weekends are a feeling — and this hoodie captures it perfectly. The Hello Weekend Graphic Premium Pullover Hoodie is designed for laid-back days, slow mornings, and effortless style. Featuring a soft pastel badge graphic with playful typography, this hoodie delivers a relaxed, feel-good aesthetic that instantly sets the weekend mood. Crafted for comfort and everyday wear, its premium fabric blend offers warmth without bulk, making it ideal for casual outings, lounging, travel days, or cozy nights in. The clean, modern design pairs easily with jeans, joggers, or leggings, giving you a versatile streetwear staple you’ll reach for again and again. Perfect for anyone who lives for Fridays, brunch plans, and off-duty vibes, this unisex hoodie makes an easy gift and an even easier favorite in your wardrobe. Why you’ll love it: Soft, premium feel built for all-day comfort Relaxed unisex fit for effortless styling Minimal yet expressive weekend-inspired design Ideal for casual wear, travel, lounging, or gifting Aesthetic, cozy, and always on-trend Slip it on, slow it down, and let everyone know — the weekend starts now.
+  Updated: 2026-01-19T17:38:41Z
+  Vendor: Aurin Wear
+  Product Type: Hoodies for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-696dc3312c019.png?v=1768832361
+  - [Black / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186540957846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dc32fe0eef.png?v=1768832361
+    Price: $37.00 USD
+  - [Black / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186540990614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dc32fe0eef.png?v=1768832361
+    Price: $37.00 USD
+  - [Black / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541023382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dc32fe0eef.png?v=1768832361
+    Price: $37.00 USD
+  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541056150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dc32fe0eef.png?v=1768832361
+    Price: $37.00 USD
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541088918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dc32fe0eef.png?v=1768832361
+    Price: $39.50 USD
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541121686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-696dc32fe0eef.png?v=1768832361
+    Price: $42.00 USD
+  - [Maroon / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541154454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dc3309558c.png?v=1768832361
+    Price: $37.00 USD
+  - [Maroon / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541187222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dc3309558c.png?v=1768832361
+    Price: $37.00 USD
+  - [Maroon / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541219990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dc3309558c.png?v=1768832361
+    Price: $37.00 USD
+  - [Maroon / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541252758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dc3309558c.png?v=1768832361
+    Price: $37.00 USD
+  - [Maroon / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541285526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dc3309558c.png?v=1768832361
+    Price: $39.50 USD
+  - [Maroon / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541318294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-maroon-front-696dc3309558c.png?v=1768832361
+    Price: $42.00 USD
+  - [Team Royal / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541351062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-696dc3309a118.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Royal / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541383830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-696dc3309a118.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Royal / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541416598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-696dc3309a118.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541449366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-696dc3309a118.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541482134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-696dc3309a118.png?v=1768832361
+    Price: $39.50 USD
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541514902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-696dc3309a118.png?v=1768832361
+    Price: $42.00 USD
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541547670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dc330a1f8e.png?v=1768832361
+    Price: $37.00 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541580438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dc330a1f8e.png?v=1768832361
+    Price: $37.00 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541613206)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dc330a1f8e.png?v=1768832361
+    Price: $37.00 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541645974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dc330a1f8e.png?v=1768832361
+    Price: $37.00 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541678742)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dc330a1f8e.png?v=1768832361
+    Price: $39.50 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541711510)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-forest-green-front-696dc330a1f8e.png?v=1768832361
+    Price: $42.00 USD
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541744278)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dc330ad635.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541777046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dc330ad635.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541809814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dc330ad635.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541842582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dc330ad635.png?v=1768832361
+    Price: $37.00 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541875350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dc330ad635.png?v=1768832361
+    Price: $39.50 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541908118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-red-front-696dc330ad635.png?v=1768832361
+    Price: $42.00 USD
+  - [Dusty Rose / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541940886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dc330bb76f.png?v=1768832361
+    Price: $37.00 USD
+  - [Dusty Rose / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186541973654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dc330bb76f.png?v=1768832361
+    Price: $37.00 USD
+  - [Dusty Rose / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542006422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dc330bb76f.png?v=1768832361
+    Price: $37.00 USD
+  - [Dusty Rose / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542039190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dc330bb76f.png?v=1768832361
+    Price: $37.00 USD
+  - [Dusty Rose / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542071958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dc330bb76f.png?v=1768832361
+    Price: $39.50 USD
+  - [Dusty Rose / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542104726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-dusty-rose-front-696dc330bb76f.png?v=1768832361
+    Price: $42.00 USD
+  - [Carbon Grey / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542137494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dc330cd180.png?v=1768832361
+    Price: $37.00 USD
+  - [Carbon Grey / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542170262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dc330cd180.png?v=1768832361
+    Price: $37.00 USD
+  - [Carbon Grey / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542203030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dc330cd180.png?v=1768832361
+    Price: $37.00 USD
+  - [Carbon Grey / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542235798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dc330cd180.png?v=1768832361
+    Price: $37.00 USD
+  - [Carbon Grey / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542268566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dc330cd180.png?v=1768832361
+    Price: $39.50 USD
+  - [Carbon Grey / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542301334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-696dc330cd180.png?v=1768832361
+    Price: $42.00 USD
+  - [Sky Blue / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542334102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-696dc330e242a.png?v=1768832361
+    Price: $37.00 USD
+  - [Sky Blue / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542366870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-696dc330e242a.png?v=1768832361
+    Price: $37.00 USD
+  - [Sky Blue / L](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542399638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-696dc330e242a.png?v=1768832361
+    Price: $37.00 USD
+  - [Sky Blue / XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542432406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-696dc330e242a.png?v=1768832361
+    Price: $37.00 USD
+  - [Sky Blue / 2XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542465174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-696dc330e242a.png?v=1768832361
+    Price: $39.50 USD
+  - [Sky Blue / 3XL](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542497942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-sky-blue-front-696dc330e242a.png?v=1768832361
+    Price: $42.00 USD
+  - [Bone / S](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542530710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-696dc331060cd.png?v=1768832361
+    Price: $37.00 USD
+  - [Bone / M](https://www.aurinwear.com/products/unisex-premium-graphic-pullover?variant=46186542563478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-696dc331060cd.png?v=1768832361
+    Price: $37.00 USD
 
 ## Collections
 
@@ -11613,8 +12405,8 @@
   Updated: 2025-12-04T10:37:34Z
   Total Products: 0
 - [Aurin Wear Collection | Premium Stylish Clothing for Every Day](https://www.aurinwear.com/collections/all): Explore the Aurin Wear Collection featuring premium-quality, stylish, and comfortable apparel made for modern lifestyles. Shop trendy essentials, everyday favorites, and fashion pieces designed to elevate your style effortlessly.
-  Updated: 2026-01-11T21:17:02Z
-  Total Products: 68
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 72
 - [Best  Apparel | Top Streetwear & Trending Designs](https://www.aurinwear.com/collections/best--aurin-wear-t-shirts-hoodies-sweatshirts): Shop our best- hoodies, shirts, and graphic apparel. Unisex styles inspired by streetwear, anime, and pet-lover designs. Explore top picks now.
   Updated: 2025-12-28T12:54:21Z
   Total Products: 16
@@ -11634,92 +12426,92 @@
   Updated: 2026-01-10T22:53:46Z
   Total Products: 0
 - [Short Sleeve T-Shirts | Unisex Graphic & Streetwear Tees](https://www.aurinwear.com/collections/short-sleeve-t-shirts): Shop unisex short sleeve T-shirts with bold graphics, soft fabrics, and modern streetwear style. Perfect for casual outfits and everyday comfort.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [T-Shirts for Men & Women | Premium Everyday Tees – Aurin Wear](https://www.aurinwear.com/collections/t-shirts-men-women): Shop Aurin Wear’s T-Shirts for Men & Women. Discover premium-quality tees in modern fits, soft fabrics, oversized styles, minimalist basics, and graphic designs made for everyday comfort and style."
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Hoodies | Unisex Graphic Hoodies & Streetwear Styles](https://www.aurinwear.com/collections/hoodies): Shop unisex hoodies with bold graphics, soft fleece interiors, and modern streetwear style. Stay warm and expressive with comfortable hoodies for everyday wear.
-  Updated: 2026-01-06T20:51:54Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [New Arrivals | Latest Fashion & Fresh Drops – Aurin Wear](https://www.aurinwear.com/collections/new-arrivals): Shop the latest New Arrivals at Aurin Wear. Discover fresh drops, trendy styles, and premium-quality apparel designed for comfort, style, and everyday wear. Stay ahead of fashion with our newest collection.
-  Updated: 2026-01-11T21:17:02Z
-  Total Products: 68
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 72
 - [Dog Lover Sweatshirts | Cute & Graphic Designs by Aurin Wear](https://www.aurinwear.com/collections/dog-lover-sweatshirts): Shop sweatshirts for dog lovers featuring cozy fits and expressive graphics. Perfect for everyday wear or gifting. Discover your new favorite style.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 13
-- [Cat Lover Sweatshirts | Cozy Graphic Styles by Aurin Wear](https://www.aurinwear.com/collections/cat-lover-sweatshirts): Shop cat lover sweatshirts with soft fabrics and stylish graphic designs. Perfect for everyday comfort or gifting to proud cat parents.
-  Updated: 2026-01-04T21:41:47Z
+  Updated: 2026-01-18T22:16:44Z
   Total Products: 14
+- [Cat Lover Sweatshirts | Cozy Graphic Styles by Aurin Wear](https://www.aurinwear.com/collections/cat-lover-sweatshirts): Shop cat lover sweatshirts with soft fabrics and stylish graphic designs. Perfect for everyday comfort or gifting to proud cat parents.
+  Updated: 2026-01-15T10:22:36Z
+  Total Products: 15
 - [Animal Lover Sweatshirts | Cozy Graphic Styles by Aurin Wear](https://www.aurinwear.com/collections/animal-lover-sweatshirts): Shop animal lover sweatshirts with soft fabrics and meaningful graphic designs. Perfect for everyday comfort or gifting to animal enthusiasts.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 33
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 35
 - [Graphic Hoodies for Men & Women | Bold & Premium Designs – Aurin Wear](https://www.aurinwear.com/collections/graphic-hoodies): Shop premium graphic hoodies for men and women. Bold prints, streetwear-inspired designs, and comfortable fits made for everyday wear. Free U.S. shipping available.
-  Updated: 2026-01-06T20:51:54Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Graphic T-Shirts for Men & Women | Streetwear & Printed Tees – Aurin Wear](https://www.aurinwear.com/collections/graphic-t-shirts): Shop graphic t-shirts designed for everyday wear. Bold prints, premium fabric, and streetwear-inspired styles for men and women. Made for comfort and expression.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Graphic Sweatshirts for Men & Women | Premium Crewneck Styles – Aurin Wear](https://www.aurinwear.com/collections/graphic-sweatshirts): Discover premium graphic sweatshirts designed for comfort and everyday wear. Clean prints, soft fabrics, and versatile crewneck styles for men and women.
   Updated: 2025-12-28T20:01:33Z
   Total Products: 59
 - [Printed Hoodies for Men & Women | High-Quality Prints – Aurin Wear](https://www.aurinwear.com/collections/printed-hoodies): Explore premium printed hoodies designed for comfort and durability. High-quality prints, soft fabric, and modern fits made for everyday wear.
-  Updated: 2026-01-07T09:38:13Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Printed T-Shirts for Men & Women | Durable & Comfortable Tees](https://www.aurinwear.com/collections/printed-t-shirts): Shop printed t-shirts made for everyday wear. Durable prints, soft fabric, and comfortable fits designed to last. Perfect for casual and streetwear outfits.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Streetwear Style & Clothing for Men & Women | Aurin Wear](https://www.aurinwear.com/collections/streetwear-style): Explore modern streetwear style with graphic hoodies, t-shirts, and everyday essentials. Designed for comfort, expression, and effortless street fashion.
   Updated: 2026-01-11T20:57:04Z
   Total Products: 20
 - [Streetwear Hoodies for Men & Women | Modern Street Style – Aurin Wear](https://www.aurinwear.com/collections/streetwear-hoodies): Shop streetwear hoodies designed for modern outfits. Graphic designs, relaxed fits, and premium fabric made for everyday street style and comfort.
-  Updated: 2026-01-06T20:51:54Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Streetwear T-Shirts for Men & Women | Everyday Street Style – Aurin Wear](https://www.aurinwear.com/collections/streetwear-t-shirts): Shop streetwear t-shirts designed for everyday outfits. Graphic designs, relaxed fits, and comfortable fabric made for modern street style.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Urban Streetwear Clothing for Men & Women | Modern City Style – Aurin Wear](https://www.aurinwear.com/collections/urban-streetwear-clothing): Discover urban streetwear clothing designed for modern city life. Graphic hoodies, t-shirts, and everyday essentials built for comfort and expression.
   Updated: 2026-01-11T20:57:04Z
   Total Products: 20
 - [Vintage Style Graphic T-Shirts | Retro & Old-School Designs – Aurin Wear](https://www.aurinwear.com/collections/vintage-style-graphic-t-shirts): Shop vintage style graphic t-shirts inspired by retro design and old-school aesthetics. Timeless prints, soft fabric, and everyday wearability.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
-- [Minimalist Graphic T-Shirts | Clean & Subtle Designs – Aurin Wear](https://www.aurinwear.com/collections/minimalist-graphic-t-shirts): Shop minimalist graphic t-shirts with clean design and subtle prints. Premium fabric, simple aesthetics, and everyday comfort for men and women.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
-- [Aesthetic Graphic T-Shirts | Artistic & Modern Designs – Aurin Wear](https://www.aurinwear.com/collections/aesthetic-graphic-t-shirts): Discover aesthetic graphic t-shirts designed with artistic visuals and modern style. Expressive prints, comfortable fits, and everyday wearability.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
-- [Oversized Hoodies for Men & Women | Relaxed & Comfortable Fits – Aurin Wear](https://www.aurinwear.com/collections/oversized-hoodies): Shop oversized hoodies designed for comfort and modern street style. Relaxed fits, premium fabric, and everyday wearability for men and women.
-  Updated: 2026-01-06T20:51:54Z
+  Updated: 2026-01-18T22:16:44Z
   Total Products: 5
+- [Minimalist Graphic T-Shirts | Clean & Subtle Designs – Aurin Wear](https://www.aurinwear.com/collections/minimalist-graphic-t-shirts): Shop minimalist graphic t-shirts with clean design and subtle prints. Premium fabric, simple aesthetics, and everyday comfort for men and women.
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
+- [Aesthetic Graphic T-Shirts | Artistic & Modern Designs – Aurin Wear](https://www.aurinwear.com/collections/aesthetic-graphic-t-shirts): Discover aesthetic graphic t-shirts designed with artistic visuals and modern style. Expressive prints, comfortable fits, and everyday wearability.
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
+- [Oversized Hoodies for Men & Women | Relaxed & Comfortable Fits – Aurin Wear](https://www.aurinwear.com/collections/oversized-hoodies): Shop oversized hoodies designed for comfort and modern street style. Relaxed fits, premium fabric, and everyday wearability for men and women.
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Oversized Graphic T-Shirts | Relaxed Fit Streetwear Tees – Aurin Wear](https://www.aurinwear.com/collections/oversized-graphic-t-shirts): Shop oversized graphic t-shirts designed with balanced prints and relaxed fits. Comfortable streetwear tees made for bold yet wearable style.
   Updated: 2026-01-10T22:35:57Z
   Total Products: 0
 - [Boxy Fit T-Shirts for Men & Women | Structured Modern Fit – Aurin Wear](https://www.aurinwear.com/collections/boxy-fit-t-shirts): Shop boxy fit t-shirts designed with a structured silhouette and modern proportions. Clean shape, premium fabric, and everyday wearability.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Relaxed Fit Graphic T-Shirts | Comfortable Everyday Style – Aurin Wear](https://www.aurinwear.com/collections/relaxed-fit-graphic-t-shirts): Shop relaxed fit graphic t-shirts designed for comfort and effortless style. Easy silhouettes, balanced graphics, and everyday wearability.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Heavyweight T-Shirts for Men & Women | Thick & Durable Tees – Aurin Wear](https://www.aurinwear.com/collections/heavyweight-t-shirts): Shop heavyweight t-shirts made with thick, premium fabric for structure and durability. Built for everyday wear with a solid, high-quality feel.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:44Z
+  Total Products: 5
 - [Premium Cotton T-Shirts for Men & Women | Soft & Breathable Tees – Aurin Wear](https://www.aurinwear.com/collections/premium-cotton-t-shirts): Shop premium cotton t-shirts made with soft, breathable fabric for everyday comfort. High-quality tees designed for long-lasting wear and a refined feel.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Animals & Lifestyle Clothing | Graphic Apparel for Animal Lovers – Aurin Wear](https://www.aurinwear.com/collections/animals-lifestyle): Explore animal-inspired lifestyle clothing designed for pet lovers and animal enthusiasts. Graphic hoodies and t-shirts that express personality and passion.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 33
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 35
 - [Animal Graphic Hoodies for Men & Women | Expressive Streetwear – Aurin Wear](https://www.aurinwear.com/collections/animal-graphic-hoodies): Shop animal graphic hoodies designed for comfort and expression. Meaningful animal-inspired designs, premium fabric, and everyday wearability.
-  Updated: 2026-01-10T21:47:40Z
-  Total Products: 3
+  Updated: 2026-01-15T10:22:36Z
+  Total Products: 4
 - [Cat Lover T-Shirts for Men & Women | Express Your Love for Cats – Aurin Wear](https://www.aurinwear.com/collections/cat-lover-t-shirts): Shop cat lover t-shirts designed for comfort and personality. Thoughtful cat-inspired graphics, soft fabric, and everyday wearability for cat lovers.
   Updated: 2025-12-28T21:44:03Z
   Total Products: 0
 - [Dog Lover T-Shirts for Men & Women | Designed for Dog Lovers – Aurin Wear](https://www.aurinwear.com/collections/dog-lover-t-shirts): Shop dog lover t-shirts made for comfort and expression. Meaningful dog-inspired graphics, soft fabric, and everyday wearability for dog lovers.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 1
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 2
 - [Nature Inspired Graphic T-Shirts | Calm & Artistic Designs – Aurin Wear](https://www.aurinwear.com/collections/nature-inspired-graphic-t-shirts): Shop nature inspired graphic t-shirts designed with calm visuals and outdoor-inspired artwork. Comfortable, expressive tees for everyday wear.
   Updated: 2025-12-28T21:50:17Z
   Total Products: 0
@@ -11772,8 +12564,8 @@
   Updated: 2026-01-11T22:06:11Z
   Total Products: 1
 - [Positive Quote T-Shirts for Men & Women | Wear Positivity – Aurin Wear](https://www.aurinwear.com/collections/positive-quote-t-shirts): Shop positive quote t-shirts designed to spread optimism and good energy. Uplifting messages, comfortable fabric, and everyday wearability.
-  Updated: 2026-01-11T21:17:31Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Mental Health Awareness T-Shirts for Men & Women | Wear Support – Aurin Wear](https://www.aurinwear.com/collections/mental-health-awareness-t-shirts): Shop mental health awareness t-shirts designed to promote understanding, empathy, and support. Thoughtful messages, clean design, and everyday comfort.
   Updated: 2026-01-11T22:06:09Z
   Total Products: 0
@@ -11781,8 +12573,8 @@
   Updated: 2026-01-11T22:03:32Z
   Total Products: 1
 - [Men’s Graphic Hoodies | Bold, Comfortable & Everyday Wear – Aurin Wear](https://www.aurinwear.com/collections/mens-graphic-hoodies): Shop men’s graphic hoodies designed for comfort and visual expression. Modern designs, soft fabric, and versatile hoodies made for everyday wear.
-  Updated: 2026-01-11T22:03:20Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Premium Streetwear Clothing for Men & Women | Elevated Urban Style](https://www.aurinwear.com/collections/premium-streetwear-clothing): Explore premium streetwear clothing designed with elevated materials, modern silhouettes, and refined urban style. Built for comfort, quality, and everyday wear.
   Updated: 2026-01-11T22:04:48Z
   Total Products: 20
@@ -11801,63 +12593,60 @@
 - [Funny Streetwear T-Shirts | Humor-Driven Urban Style](https://www.aurinwear.com/collections/funny-streetwear-t-shirts): Shop funny streetwear t-shirts with bold humor and modern urban style. Premium cotton tees made for everyday streetwear expression.
   Updated: 2026-01-11T21:17:31Z
   Total Products: 1
-- [Men’s Graphic Hoodies | Streetwear Hoodies with Edge](https://www.aurinwear.com/collections/men-s-graphic-hoodies): Explore men’s graphic hoodies with bold designs and streetwear attitude. Premium, comfortable hoodies made for everyday wear and layering.
-  Updated: 2026-01-11T22:03:10Z
-  Total Products: 5
 - [Women’s Graphic Hoodies | Streetwear with Personality](https://www.aurinwear.com/collections/women-s-graphic-hoodies): Shop women’s graphic hoodies with bold designs and modern streetwear fits. Comfortable, versatile hoodies made for everyday wear.
-  Updated: 2026-01-11T22:02:36Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Men’s Graphic T-Shirts | Streetwear Tees for Men](https://www.aurinwear.com/collections/men-s-graphic-t-shirts): Shop men’s graphic t-shirts with bold designs and everyday streetwear style. Premium cotton tees made for comfort and expression.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Women’s Graphic T-Shirts | Bold Streetwear Style](https://www.aurinwear.com/collections/women-s-graphic-t-shirts): Shop women’s graphic t-shirts with bold designs and modern streetwear appeal. Premium cotton tees made for everyday comfort and expression.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Unisex Graphic Hoodies | Streetwear Made for Everyone](https://www.aurinwear.com/collections/unisex-graphic-hoodies): Shop unisex graphic hoodies with bold designs and relaxed streetwear fits. Premium comfort hoodies made for everyday wear, any style.
-  Updated: 2026-01-11T22:02:19Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Unisex Graphic T-Shirts | Streetwear for Every Style](https://www.aurinwear.com/collections/unisex-graphic-t-shirts): Shop unisex graphic t-shirts with bold designs and relaxed streetwear fits. Premium cotton tees made for everyday wear, any style.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Casual Graphic T-Shirts | Everyday Streetwear Comfort](https://www.aurinwear.com/collections/casual-graphic-t-shirts): Shop casual graphic t-shirts designed for everyday comfort and clean style. Easy-to-wear graphic tees made for relaxed streetwear looks.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Everyday Wear T-Shirts | Comfortable Tees for Daily Use](https://www.aurinwear.com/collections/everyday-wear-t-shirts): Shop everyday wear t-shirts designed for comfort, simplicity, and daily use. Premium cotton tees made to fit your routine effortlessly.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Gift Graphic T-Shirts | Easy, Thoughtful Tee Gifts](https://www.aurinwear.com/collections/gift-graphic-t-shirts): Shop gift graphic t-shirts made for easy, meaningful gifting. Fun, stylish graphic tees perfect for birthdays, holidays, and surprises.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Gift Hoodies for Him | Thoughtful Streetwear Gifts](https://www.aurinwear.com/collections/gift-hoodies-for-him): Shop gift hoodies for him with clean graphics and everyday comfort. Easy streetwear hoodie gifts made for style, warmth, and wear.
-  Updated: 2026-01-11T22:02:03Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Gift Hoodies for Her | Cozy & Stylish Hoodie Gifts](https://www.aurinwear.com/collections/gift-hoodies-for-her): Shop gift hoodies for her with cozy comfort and modern streetwear style. Easy, thoughtful hoodie gifts made to be worn every day.
-  Updated: 2026-01-11T22:01:44Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Summer Graphic T-Shirts | Lightweight Streetwear Tees](https://www.aurinwear.com/collections/summer-graphic-t-shirts): Shop summer graphic t-shirts made for warm weather comfort. Lightweight, breathable graphic tees designed for everyday summer wear.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Winter Hoodies Collection | Warm Streetwear Essentials](https://www.aurinwear.com/collections/winter-hoodies-collection): Explore winter hoodies designed for warmth and comfort. Cozy streetwear hoodies made to layer, relax, and stay warm all season.
-  Updated: 2026-01-11T22:01:30Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Fall Streetwear Hoodies | Cozy Layers for Autumn](https://www.aurinwear.com/collections/fall-streetwear-hoodies): Shop fall streetwear hoodies made for layering and comfort. Cozy, versatile hoodies designed for cool weather and everyday style.
-  Updated: 2026-01-11T22:01:09Z
-  Total Products: 5
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Spring Graphic T-Shirts | Fresh Streetwear Styles](https://www.aurinwear.com/collections/spring-graphic-t-shirts): Shop spring graphic t-shirts designed for comfort and fresh style. Lightweight, breathable graphic tees perfect for everyday spring wear.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
-- [High Quality Graphic Hoodies | Premium Streetwear](https://www.aurinwear.com/collections/high-quality-graphic-hoodies): Shop high quality graphic hoodies crafted for comfort, durability, and modern streetwear style. Premium hoodies made to last.
-  Updated: 2026-01-11T22:00:51Z
+  Updated: 2026-01-18T22:16:45Z
   Total Products: 5
+- [High Quality Graphic Hoodies | Premium Streetwear](https://www.aurinwear.com/collections/high-quality-graphic-hoodies): Shop high quality graphic hoodies crafted for comfort, durability, and modern streetwear style. Premium hoodies made to last.
+  Updated: 2026-01-19T14:19:22Z
+  Total Products: 8
 - [Sustainable Graphic T-Shirts | Responsible Streetwear](https://www.aurinwear.com/collections/sustainable-graphic-t-shirts): Explore sustainable graphic t-shirts made with mindful materials and clean streetwear design. Comfortable, responsible tees for everyday wear.
-  Updated: 2026-01-11T21:17:32Z
-  Total Products: 4
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 5
 - [Eco-Friendly Streetwear | Responsible Urban Style](https://www.aurinwear.com/collections/eco-friendly-streetwear): Explore eco-friendly streetwear designed with responsible materials and modern style. Everyday streetwear made with long-term wear in mind.
   Updated: 2026-01-11T21:58:53Z
   Total Products: 20
 - [Animal Lover Graphic T-Shirts | Cute & Wild Tees](https://www.aurinwear.com/collections/animal-lover-graphic-t-shirts): Shop animal lover graphic T-shirts — cute, bold & expressive tees for pet lovers & wildlife fans. Perfect gifts & everyday style.
-  Updated: 2026-01-11T21:50:43Z
-  Total Products: 2
+  Updated: 2026-01-18T22:16:45Z
+  Total Products: 3
 
 ## Policies
 
