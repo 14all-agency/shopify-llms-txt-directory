@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-01-13T20:00:26.624Z
+- Updated At: 2026-01-20T20:00:28.107Z
 
 ## Products
 
@@ -2671,7 +2671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/files/steckzaun-ancona-pulverbeschichtet-RAL7016-anthrazitgrau.png?v=1761212316
     Price: 78,40 € EUR
 - [Steckzaun Rosa im Set aus Metall | ELEO](https://www.eleo-garten.de/products/steckzaun-rosa-im-set): 5-teiliges Komplett-Set Steckzaun Rosa ✓ aus hochwertigem Metall ✓ mit romantischen C-Dekoren ✓ Beschichtung nach Wahl ► Jetzt entdecken!
-  Updated: 2026-01-12T09:18:36Z
+  Updated: 2026-01-20T04:12:14Z
   Vendor: ELEO Garten
   Product Type: 
   Availability: Available
@@ -3053,7 +3053,7 @@
   Updated: 2026-01-02T12:07:31Z
   Total Products: 24
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
-  Updated: 2026-01-05T12:08:09Z
+  Updated: 2026-01-19T12:08:28Z
   Total Products: 19
 - [Rankobelisken aus Metall ➤ Jetzt online kaufen! | ELEO Garten](https://www.eleo-garten.de/collections/rankobelisken): Rankobelisken für Kletterpflanzen ✓ stabil ✓ dekorativ ✓ nützliches Gartenaccessoire ➤ jetzt Obelisk aus Metall bestellen!
   Updated: 2026-01-02T12:07:31Z
@@ -3062,10 +3062,10 @@
   Updated: 2026-01-12T09:19:35Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-01-13T12:07:40Z
+  Updated: 2026-01-19T12:08:28Z
   Total Products: 107
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
-  Updated: 2026-01-12T09:19:54Z
+  Updated: 2026-01-15T12:07:26Z
   Total Products: 12
 - [Gartenstecker aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/gartenstecker-metall): Gartenstecker aus Metall: wunderschöne Deko für Ihre Blumenbeete!  ✓ aus hochwertigem Metall ✓ wetterfest ✓ besondere Designs ➤ Gleich bestellen!
   Updated: 2026-01-02T06:50:19Z
@@ -3074,7 +3074,7 @@
   Updated: 2026-01-02T06:49:31Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-01-12T09:19:35Z
+  Updated: 2026-01-19T12:08:28Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2026-01-12T09:19:01Z
@@ -3340,6 +3340,10 @@
     Updated: 2026-01-12T13:08:30Z
     Author: Annett Zahn
     Tags: Garten & Pflanzen, Ratgeber
+  - [Geschenke zum Valentinstag für Gartenliebhaber](https://www.eleo-garten.de/blogs/blog/valentinstag-geschenke): Geschenke zum Valentinstag für Gartenliebhaber
+    Updated: 2026-01-20T10:05:57Z
+    Author: Jennifer Faatz
+    Tags: Ratgeber
 
 ## Store Pages
 
@@ -3474,7 +3478,7 @@
 - [Italia (it / EUR)](https://www.eleo-giardino.it//llms.txt?market=italia)
 - [Niederlande (nl / EUR)](https://www.eleo-tuin.nl//llms.txt?market=niederlande)
 - [Switzerland (de / CHF)](https://www.eleo-garten.ch//llms.txt?market=switzerland)
-- [United Kingdom (de / GBP)](https://www.eleo-garden.co.uk//llms.txt?market=united-kingdom)
+- [United Kingdom (en / GBP)](https://www.eleo-garden.co.uk//llms.txt?market=united-kingdom)
 
 ## Optional
 
