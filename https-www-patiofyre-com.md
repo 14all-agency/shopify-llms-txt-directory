@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2026-01-01T00:00:42.623Z
+- Updated At: 2026-01-20T00:00:41.568Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -24,12 +24,12 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_full-safety-cage_JLMBC_1.jpg?v=1739922588
   Price: $869.00 USD
 - [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro): Discover the Metro Jetlamp: a sleek wood pellet patio heater that transforms outdoor heating with style and sustainability.
-  Updated: 2025-12-30T17:08:32Z
+  Updated: 2026-01-18T21:36:34Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_main_JLMB.jpg?v=1731891277
-  Price: $999.00 USD
+  Price: $949.00 USD
 - [Lower Safety Cage | Patiofyre](https://www.patiofyre.com/products/lower-safety-cage): Secure your patio area with our lower safety cage. Designed for added protection around wood pellet heaters, ensuring a safer environment.
   Updated: 2025-12-23T17:21:10Z
   Vendor: PatioFyre
@@ -59,81 +59,81 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_hopper-extension_AHEM.jpg?v=1731968837
   Price: $199.00 USD
 - [Jetlamp Cleaning Kit |Patiofyre](https://www.patiofyre.com/products/jetlamp-cleaning-kit): Maintain your Jetlamp with our cleaning kit, designed to keep your wood pellet patio heater in top condition for optimal performance
-  Updated: 2025-12-31T19:11:51Z
+  Updated: 2026-01-19T19:00:02Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp-cleaning-kit_ACKM.jpg?v=1731968838
   Price: $59.99 USD
 - [Buddeez Pellet Storage | Patiofyre](https://www.patiofyre.com/products/buddeez-pellet-storage): Keep your wood pellets dry and organized with our pellet storage solutions. Ideal for maintaining pellet quality and accessibility.
-  Updated: 2025-12-28T16:53:17Z
+  Updated: 2026-01-19T04:13:34Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_budeez-pellet-storage_ABPS_a7f8e2cd-6849-4934-b1b7-395ec0501a14.jpg?v=1731968837
   Price: $17.99 USD
 - [Propane Torch | Patiofyre](https://www.patiofyre.com/products/propane-torch): Light your wood pellet patio heater easily with our propane torch. Designed for quick, efficient ignition in any outdoor setting.
-  Updated: 2025-12-29T12:45:47Z
+  Updated: 2026-01-19T01:07:17Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_blow-torch_APFT.jpg?v=1731968837
   Price: $39.99 USD
 - [Glass Tube for Heaters |Patiofyre](https://www.patiofyre.com/products/glass-tube): Get a replacement for your broken patio heater glass tube. Our durable glass tubes ensure your heater operates safely and efficiently.
-  Updated: 2025-12-30T06:14:57Z
+  Updated: 2026-01-15T02:30:36Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_solo-glass-tube_PGTM.jpg?v=1731968837
   Price: $59.99 USD
 - [Metro Jetlamp Box 1 (Main)](https://www.patiofyre.com/products/metro-jetlamp-box-1-test): Includes Heater Assembly/Frame with Pellet Hopper Pellet Cartridge/Sled Airflow Damper/Door Jetlamp Stand/Post Clean out tool Propane Torch
-  Updated: 2025-12-31T22:48:05Z
+  Updated: 2026-01-19T19:19:20Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Metro Jetlamp Box 2 (Base & Top)](https://www.patiofyre.com/products/metro-jetlamp-box-2): Includes: Base Heat Reflector with Spark Arrestor
-  Updated: 2025-12-31T22:48:05Z
+  Updated: 2026-01-19T19:19:22Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Metro Jetlamp Box 3 (Glass Tube)](https://www.patiofyre.com/products/metro-jetlamp-box-3-glass-tube)
-  Updated: 2025-12-31T22:48:05Z
+  Updated: 2026-01-19T19:19:20Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Metro Jetlamp Bundle](https://www.patiofyre.com/products/metro-1): AGE OLD TRADITION MEETS BRAND NEW THINKING Our patent-pending Metro Jetlamp eclipses traditional patio heaters in every way. Starting with a sleek, modern design that emphasizes the natural beauty of fire, to the sustainable way it’s fueled, to the even and powerful heat distribution—it’s fire, transformed.
-  Updated: 2025-12-31T22:48:10Z
+  Updated: 2026-01-19T19:19:26Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/metro-jetlamp-feature-image_732e20be-e4c1-4710-b2a3-ae48bd5403c6.png?v=1718110159
   Price: $0.00 USD
 - [Metro Jetlamp with Bistro | Patiofyre](https://www.patiofyre.com/products/metro-jetlamp-with-bistro): Discover the Metro Jetlamp with a steel Bistro table—perfect for gathering, socializing, and enjoying the fire’s full warmth and glow.
-  Updated: 2025-12-29T00:44:56Z
+  Updated: 2026-01-17T17:02:44Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_bistro-table_JLMBB.jpg?v=1743067181
-  Price: $1,849.00 USD
+  Price: $1,799.00 USD
 - [Safety Cage Jetlamp | Patiofyre](https://www.patiofyre.com/products/metro-jetlamp-with-safety-cage): Metro Jetlamp Full Safety Cage keeps you safe from hot stove and glass. Heavy-gauge steel and mesh protect while letting fire shine.
-  Updated: 2025-12-23T15:02:07Z
+  Updated: 2026-01-19T04:13:32Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_full-safety-cage_SCFM.png?v=1745942416
-  Price: $1,749.00 USD
+  Price: $1,699.00 USD
 - [Bag of Pellets | Patiofyre](https://www.patiofyre.com/products/bag-of-pellets): Buy Douglas fir softwood pellets for a clean, hot burn. They ignite fast, burn efficiently, and deliver strong radiant heat on cold nights.
-  Updated: 2025-12-29T12:45:47Z
+  Updated: 2026-01-19T04:13:34Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_wood-pellets_AWP40.jpg?v=1763836091
   Price: $14.99 USD
 - [Jetlamp Starter Kit | Patiofyre](https://www.patiofyre.com/products/jetlamp-starter-kit-with-pellets): Everything you need to get started with your Jetlamp, designed to keep your wood pellet patio heater in top condition for optimal performance.
-  Updated: 2025-12-31T18:48:31Z
+  Updated: 2026-01-18T21:36:34Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
@@ -146,28 +146,28 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2025-12-08T12:22:24Z
   Total Products: 1
 - [Accessories | Patiofyre](https://www.patiofyre.com/collections/accessories): Enhance your patio heater with our top-quality accessories. Browse our selection to find the perfect addition to your outdoor space.
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 14
 - [Jetlamps](https://www.patiofyre.com/collections/jetlamps): Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 3
-- [Best Selling Products](https://www.patiofyre.com/collections/best-selling-products)
-  Updated: 2025-12-30T12:19:55Z
+- [Best  Products](https://www.patiofyre.com/collections/best--products)
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 31
 - [Newest Products](https://www.patiofyre.com/collections/newest-products)
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 31
 - [Jetlamp Only](https://www.patiofyre.com/collections/jetlamp-only)
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 3
 - [Metro Jetlamp Collection | Patiofyre](https://www.patiofyre.com/collections/metro-jetlamps): Jetlamps elevate any outdoor space with stylish, smokeless, odorless, eco-friendly heat—at a fraction of the cost of propane.
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 3
 - [Related Products - Jetlamp PDPs](https://www.patiofyre.com/collections/related-products-jetlamp-pdps)
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 5
 - [Pellets](https://www.patiofyre.com/collections/pellets)
-  Updated: 2025-12-30T12:19:55Z
+  Updated: 2026-01-19T12:17:10Z
   Total Products: 2
 
 ## Blogs
@@ -214,7 +214,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
     Updated: 2025-10-26T16:19:12Z
     Author: Angela Korish
   - [Why Wood Pellet Infrared Heaters Win | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/why-wood-pellet-infrared-heaters-outperform-every-other-outdoor-heating-solution): Why Wood Pellet Infrared Heaters Win | Patiofyre
-    Updated: 2025-12-22T02:30:02Z
+    Updated: 2026-01-13T23:57:52Z
     Author: Adam Kleinberg
     Tags: Efficient Outdoor Heating, infrared heat, Wood Pellet Heater
   - [Functional Over Flashy: The Rise of Practical Luxury](https://www.patiofyre.com/blogs/patiofyre-blog/why-smart-dads-are-choosing-functional-over-flashy-the-rise-of-practical-luxury)
@@ -237,7 +237,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
 
 - [Contact Us | Patiofyre](https://www.patiofyre.com/pages/contact): 
   Updated: 2025-10-25T21:24:24Z
-- [Return Policy | Patiofyre](https://www.patiofyre.com/pages/returns): We accept returns only on items purchased directly through Patiofyre via phone, our website, or at a sponsored event. Product(s) can be returned up...
+- [Return Policy | Patiofyre](https://www.patiofyre.com/pages/returns): We accept returns only on items purchased directly through Patiofyre via phone, our website, or at a  event. Product(s) can be returned up...
   Updated: 2025-10-25T21:23:04Z
 - [Frequently Asked Questions | Patiofyre](https://www.patiofyre.com/pages/faq): 
   Updated: 2025-10-25T20:27:36Z
@@ -249,7 +249,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2025-10-25T21:25:03Z
 - [About Us | Patiofyre](https://www.patiofyre.com/pages/about): 
   Updated: 2025-10-10T18:02:23Z
-- [Terms of Sale | Patiofyre](https://www.patiofyre.com/pages/terms-of-sale): PLEASE READ THESE TERMS OF SALE CAREFULLY. BY PURCHASING AN ITEM FROM THE WEB SITES, MOBILE APPLICATIONS OR ONLINE SERVICES (COLLECTIVELY, “SITES”)...
+- [Terms of  | Patiofyre](https://www.patiofyre.com/pages/terms-of-): PLEASE READ THESE TERMS OF  CAREFULLY. BY PURCHASING AN ITEM FROM THE WEB SITES, MOBILE APPLICATIONS OR ONLINE SERVICES (COLLECTIVELY, “SITES”)...
   Updated: 2025-10-25T21:22:10Z
 - [Tutorials | Patiofyre](https://www.patiofyre.com/pages/tutorials): Explore our comprehensive video tutorials to learn how to maximize the performance and lifespan of your Patiofyre Jetlamp. From setup to maintenanc...
   Updated: 2025-10-25T21:20:56Z
@@ -263,7 +263,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2025-10-25T21:14:03Z
 - [Built America Tough | Patiofyre](https://www.patiofyre.com/pages/america-tough): 
   Updated: 2025-10-26T00:17:58Z
-- [Affiliate Program | Patiofyre](https://www.patiofyre.com/pages/affiliates): Join the Fyre. Share the Glow. Are you a creator, publisher, or brand partner who loves great design, outdoor living, and gear that actually lasts?...
+- [ Program | Patiofyre](https://www.patiofyre.com/pages/affiliates): Join the Fyre. Share the Glow. Are you a creator, publisher, or brand partner who loves great design, outdoor living, and gear that actually lasts?...
   Updated: 2025-11-09T15:51:53Z
 - [Wood Pellets](https://www.patiofyre.com/pages/wood-pellets): The Right Fuel Makes All the Difference Meet the unsung heroes of clean fire: wood pellets. These sleek little cylinders are made from sawdust, woo...
   Updated: 2025-12-22T23:04:48Z
