@@ -9,7 +9,7 @@
 - Created At: 2025-05-04T01:42:47Z
 - Contact Email: sales@brandsnmore.com.au
 - Contact Phone: 61425707369
-- Updated At: 2026-01-12T00:00:31.857Z
+- Updated At: 2026-01-20T00:00:34.655Z
 
 ## Products
 
@@ -705,7 +705,7 @@
   Updated: 2025-05-04T02:00:06Z
 - [Track Order](https://www.brandsnmore.com.au/pages/track-order)
   Updated: 2025-11-29T09:37:39Z
-- [Your privacy choices](https://www.brandsnmore.com.au/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://www.brandsnmore.com.au/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-29T09:37:26Z
 
 ## Policies
