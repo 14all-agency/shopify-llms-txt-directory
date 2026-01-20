@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-01-13T00:00:34.916Z
+- Updated At: 2026-01-20T00:00:36.643Z
 
 ## Products
 
 - [PickleUp Pro Shot - Pineapple](https://pickleupshot.com/products/pro-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-01-12T23:01:37Z
+  Updated: 2026-01-19T14:08:32Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PUP_PIN_36_Pack_Informed_Sport.png?v=1765376354
     Price: £122.40 GBP
 - [PickleUp Pro Pineapple - Sample Shot](https://pickleupshot.com/products/pickleup-pro-pineapple-sample-shot): Try Out The Ultimate Cramp-Crushing Performance Shot. Want to check out how it tastes? Worried it won't work? Try out a single shot and see for yourself. Try The Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-01-12T11:01:06Z
+  Updated: 2026-01-16T13:05:42Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -39,10 +39,10 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-01-10T12:21:32Z
+  Updated: 2026-01-17T12:21:03Z
   Total Products: 3
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-01-10T12:21:32Z
+  Updated: 2026-01-17T12:21:03Z
   Total Products: 3
 
 ## Blogs
