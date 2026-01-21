@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2026-01-14T00:00:39.989Z
+- Updated At: 2026-01-21T00:00:42.692Z
 
 ## Products
 
@@ -8638,7 +8638,7 @@
   Updated: 2025-12-18T21:10:28Z
   Total Products: 5
 - [The Grace & Glimmer Collection: Scripture-Inspired](https://faithbloom.co/collections/the-grace-glimmer-collection-scripture-inspired-style-for-every-spirit): Faith Bloom Co. presents The Grace & Glimmer Collection. Discover Scripture-inspired jewelry, art, and apparel reflecting faith, hope, and spiritual light for all.
-  Updated: 2025-12-12T19:13:17Z
+  Updated: 2026-01-14T23:02:01Z
   Total Products: 7
 - [Little Blooms - Tiny Feet Heaven-Bound](https://faithbloom.co/collections/little-blooms-tiny-feet-heaven-bound): Faith Bloom Co. presents Little Blooms, a collection dedicated to children, celebrating their innocence and spiritual journey with special faith-inspired designs.
   Updated: 2025-12-10T23:30:56Z
@@ -8650,6 +8650,8 @@
   Updated: 2025-09-10T14:43:35Z
 - [Your privacy choices](https://faithbloom.co/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-08T08:41:44Z
+- [Review Submission](https://faithbloom.co/pages/review-submission)
+  Updated: 2026-01-14T17:44:35Z
 
 ## Policies
 
