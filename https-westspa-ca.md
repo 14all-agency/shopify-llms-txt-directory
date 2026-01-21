@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2026-01-14T00:00:30.271Z
+- Updated At: 2026-01-21T00:00:32.268Z
 
 ## Blogs
 
@@ -40,6 +40,9 @@
     Author: Onixx Media
   - [Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa ](https://westspa.ca/blogs/articles/sun-safety-actinic-keratosis-in-montreal-advanced-solutions-for-acne-acne-scars): Sun Safety, Actinic Keratosis & Advanced Acne Treatments in Montreal | West Spa 
     Updated: 2025-12-30T17:19:37Z
+    Author: Onixx Media
+  - [2026 Skin Reset Guide | Advanced  Aesthetics at West Spa](https://westspa.ca/blogs/articles/new-year-new-skin-a-fresh-start-with-advanced--aesthetics-in-2026): 2026 Skin Reset Guide | Advanced  Aesthetics at West Spa
+    Updated: 2026-01-15T10:35:46Z
     Author: Onixx Media
 
 ## Store Pages
@@ -104,8 +107,6 @@
   Updated: 2024-05-08T16:39:53Z
 - [Men's Laser Genesis , West Island Spa Montreal](https://westspa.ca/pages/men-laser-genesis): 
   Updated: 2024-05-03T17:44:08Z
-- [GTR Santé at West Island Spa](https://westspa.ca/pages/gtr-sante): 
-  Updated: 2024-05-08T22:05:25Z
 - [Maderotherapy / wood therapy / spa care west island](https://westspa.ca/pages/maderotherapy): 
   Updated: 2024-05-08T16:47:25Z
 - [Spa Montreal / Spa Packages / West Island](https://westspa.ca/pages/packages): 
@@ -120,8 +121,6 @@
   Updated: 2024-05-08T16:28:15Z
 - [Spa services for Men - Advanced skin care and treatments IPL/lumecca](https://westspa.ca/pages/mens-ipl): 
   Updated: 2024-05-07T14:38:37Z
-- [Plastic Surgery West Island](https://westspa.ca/pages/dr-mirko-gilardino): 
-  Updated: 2025-08-28T13:21:11Z
 - [Policies](https://westspa.ca/pages/policies): Cancellation Policy Should you need to cancel, please do so at least 24 hours in advance of your scheduled appointment. If you cancel with less tha...
   Updated: 2024-05-08T14:28:13Z
 - [Microneedling](https://westspa.ca/pages/microneedling)
