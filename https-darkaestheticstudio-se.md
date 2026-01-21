@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2026-01-13T00:00:41.204Z
+- Updated At: 2026-01-21T00:00:43.541Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -239,7 +239,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-planchette-necklace-product-photography.png?v=1762870463
   Price: 239,00 kr SEK
 - [Unisex T-shirt  – Loose Fit](https://darkaestheticstudio.se/products/unisex-t-shirt-loose-fit): Uppgradera din vardagsstil med denna avslappnade t-shirt i 100 % bomull. Den lösa passformen ger maximal komfort, medan det abstrakta trycket tillför en modern och uttrycksfull touch. Perfekt för både honom och henne – oavsett om du är ute efter streetwear-vibbar eller en stilren bas i garderoben. Detaljer: Material: 100 % bomull – mjuk, andningsbar och hållbar Passform: Loose fit för en avslappnad silhuett Hals: Klassisk rundhals (crewneck) Ärmar: Kortärmad Färger: Svart, Vit Storlekar: M, L, XL, XXL
-  Updated: 2025-12-07T12:09:59Z
+  Updated: 2026-01-16T18:21:36Z
   Vendor: Dark Aesthetic Studio
   Product Type: T-shirt
   Availability: Available
@@ -295,7 +295,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-extra-large-bow-with-measurements_b0376e68-43a3-4272-98f1-04768c7c78bc.png?v=1763848402
     Price: 129,00 kr SEK
 - [Y2K Denim Benvärmare med Korsdesign - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/benvarmare): Trendiga Y2K denim-benvärmare i svart med korsdetalj. Högmidjade med lätt utsvängd form och dragsko. 95% bomull, one size. Perfekt för din dark aesthetic-stil.
-  Updated: 2025-12-07T12:19:18Z
+  Updated: 2026-01-16T18:20:08Z
   Vendor: Dark Aesthetic Studio
   Product Type: Assecesoar
   Availability: Available
@@ -313,7 +313,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/blue-denim-leg-warmers-standing-model.png?v=1762716574
     Price: 279,00 kr SEK
 - [Laddningsbar glödlampa i retro design](https://darkaestheticstudio.se/products/laddningsbar-glodlampa): En ljuskälla som inte bara lyser upp rummet – den förvandlar det. Denna laddningsbara 5V LED-lampa med retroformad glaskropp är designad som ett kärleksfullt artefakt, formad för att skapa stämning snarare än bara funktion. Perfekt som nattlampa, altarbelysning eller subtilt atmosfärsljus i din studio. 🕯️ Specifikationer: Ström: USB-laddbar 5V, 3W LED med knappströmbrytare Design: Retroformad glaskupa – skulptural och nostalgisk Mått: 70 x 110 mm Certifiering: EU CE – säker och pålitlig Låt den lysa upp dina kreativa rum med låg energi och hög närvaro.
-  Updated: 2025-12-07T01:51:12Z
+  Updated: 2026-01-16T18:19:42Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
@@ -331,7 +331,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-neonlampor-mockup_51583c47-fd53-4b4c-9559-97405d211a7d.png?v=1763848113
     Price: 129,00 kr SEK
 - [Halvfingerhandskar i Distressed Svart](https://darkaestheticstudio.se/products/halvfingerhandskar): Dessa handskar är inte bara accessoarer – de är ett statement. Skapade för att bäras av dem som rör sig mellan subkulturer – hip-hop, punk, goth. 🕯️ Specifikationer: Material: 100% polyester (acetic acid fabric) – lätt, följsamt och bekvämt Design: Halvfingerstil med distressed detaljer – rå, ofiltrerad estetik Färg: Svart med sliten finish – en del av den mörka vinden
-  Updated: 2025-12-07T01:49:27Z
+  Updated: 2026-01-16T18:19:44Z
   Vendor: Dark Aesthetic Studio
   Product Type: Acessoar
   Availability: Available
@@ -388,7 +388,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-popcorn-dark-photography_02d8662a-7cc9-49f2-afb7-8c3ef62aa516.png?v=1762720097
     Price: 189,00 kr SEK
 - [Grinch Tomte - Mörk Juldekor | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/grinch-tomte): Unik Grinch-tomte med grön lurvigt skägg. Perfekt alternativ juldekor för dig som älskar det annorlunda. Skapar mörk, gotisk julstämning.
-  Updated: 2025-12-07T01:43:43Z
+  Updated: 2026-01-16T18:19:48Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
@@ -402,7 +402,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grinch-tomte-mockup-1_b1e09232-7f10-4935-855e-fa6f10defb30.png?v=1763847970
     Price: 129,00 kr SEK
 - [Halloween Bitleksak – För Katter med Smak för Det Mörka](https://darkaestheticstudio.se/products/halloween-catnip-toys): Låt din katt fira högtiden med något mer än bara godis. Denna Halloween-inspirerade bitleksak är fylld med kattmynta för maximal stimulans och tillverkad i mjuk plysch som tål både tänder och klor. Med motiv som spetsklädda skelett, fladdermusmonster och faceless figurer blir varje tugga en liten ritual. 🕯️ Specifikationer: Material: Mjuk plysch, slitstark och kramvänlig Fyllning: Kattmynta – för lek, jakt och eufori En perfekt gåva till din lilla monsterkompanjon – för en högtid i skuggornas tecken.
-  Updated: 2025-12-07T01:42:42Z
+  Updated: 2026-01-16T18:19:52Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurleksak
   Availability: Available
@@ -432,7 +432,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
     Price: 79,00 kr SEK
 - [Kistformad hårklämma](https://darkaestheticstudio.se/products/kistformad-harklamma): Låt din frisyr tala under högtiden. Dessa handgjorda shark clips är inte bara accessoarer – de är små konstverk. Med sina udda tryck, mörka färger och lekfulla motiv ger de varje look en dos av karaktär, vare sig du klär dig för fest, ritual eller bara vill bära något som bryter mot det vanliga. 🐾 Specifikationer: Design: Kreativa Halloween-motiv – kusligt söt och mörkt charmig Material: Akryl och PVC – hållbart, glansigt och stilrent Stil: Shark clip – starkt grepp, ikonisk form Perfekt för att sätta pricken över i:et på din mörka look – eller som en oväntad detalj i ett annars neutralt hår.
-  Updated: 2025-12-07T01:42:07Z
+  Updated: 2026-01-16T18:19:54Z
   Vendor: Dark Aesthetic Studio
   Product Type: Acessoar
   Availability: Available
@@ -687,7 +687,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/turquoise-hoodie-on-rack-dark-aesthetic_f8ba7379-f8b7-4aa1-8ec9-64c880791d6d.png?v=1763853683
     Price: 399,00 kr SEK
 - [Laserleksak för Katter – Interaktiv Jaktlek | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/laserleksak-for-katter): Interaktiv laserleksak som aktiverar din katts jaktinstinkt. Håll din katt underhållen och aktiv med denna enkla, effektiva leksak.
-  Updated: 2025-12-08T20:54:40Z
+  Updated: 2026-01-16T17:01:22Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurleksak
   Availability: Available
@@ -705,7 +705,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/produktbild-med-m-rk-bakgrund_413e6aa3-91a7-4ec7-95d1-36d9598f379f.png?v=1763921383
     Price: 189,00 kr SEK
 - [Stickad Husdjurströja - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/stickad-husdjurstroja): Stickad husdjurströja för små och medelstora djur. Mysig, varm och perfekt för den mörka estetiken. Passar hundar och katter.
-  Updated: 2025-12-07T01:35:26Z
+  Updated: 2026-01-16T17:00:56Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurkl�der
   Availability: Available
@@ -791,7 +791,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-pet-sweater_6f5d457c-c58d-4a27-a1bb-6b802b6a3ec4.png?v=1763923285
     Price: 139,00 kr SEK
 - [Nitbesatta Platåsandaler - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/platasandaler): Platåsandaler med silvriga nitar och tjock sula. Rebellisk lyx för din dark aesthetic-garderob. Bekväm passform med justerbara remmar.
-  Updated: 2025-12-06T13:34:14Z
+  Updated: 2026-01-16T17:01:07Z
   Vendor: Dark Aesthetic Studio
   Product Type: Skor
   Availability: Available
@@ -869,7 +869,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-orange-sandals_fbde39d3-bf6d-4745-a868-0bfc79a78ade.png?v=1763925635
     Price: 299,00 kr SEK
 - [Mini Gaia Harts Dekorativ Figur - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dekorativ-figur): Handgjord mini Gaia-figur i harts med mörk gotisk estetik. Perfekt dekorativ skulptur för mystiska interiörer. Unik design från Dark Aesthetic Studio.
-  Updated: 2025-12-14T15:35:30Z
+  Updated: 2026-01-16T17:01:10Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
@@ -946,7 +946,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/i-am-the-meowster-pin-p-v-ska.png?v=1764188744
   Price: 49,00 kr SEK
 - [Djurtröja - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/djurtroja): Exklusiv djurkläder i dark aesthetic-stil. Premium kvalitet med gotisk elegans för den som uppskattar rolig design.
-  Updated: 2025-12-07T01:25:43Z
+  Updated: 2026-01-16T16:27:49Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurkl?der
   Availability: Available
@@ -1047,7 +1047,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Price: 299,00 kr SEK
 - [Varsity Set Barn - Tvådelat Bomullsset | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/tvadelat-bomullsset): Klassiskt varsity-set för barn i mjuk bomull. Jacka med kontrastärmar och matchande byxor. Perfekt för vår och höst. Flera färger tillgängliga.
-  Updated: 2025-12-07T12:15:10Z
+  Updated: 2026-01-16T16:27:08Z
   Vendor: Dark Aesthetic Studio
   Product Type: Barnkl�der
   Availability: Available
@@ -1093,7 +1093,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-beige_1080fa8d-1cf3-4fdf-aa17-763ff1ec44d7.png?v=1764443709
     Price: 349,00 kr SEK
 - [Underlägg för matskålar](https://darkaestheticstudio.se/products/underlagg-for-matskalar): Stilfullt matunderlägg för husdjur. Skyddar golvet, lätt att rengöra och passar perfekt i det moderna hemmet. Premium kvalitet från Dark Aesthetic Studio.
-  Updated: 2025-12-07T12:13:38Z
+  Updated: 2026-01-16T15:37:49Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djur
   Availability: Available
@@ -1127,21 +1127,21 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/limegr-n-bj-rnformad-underl-gg_a2bf3eaf-18d2-4013-9963-96e5d80e01b8.png?v=1765026915
     Price: 179,00 kr SEK
 - [Dark Sportväska | Premium Minimalistisk Design](https://darkaestheticstudio.se/products/sports-travel-bag): Rymlig sportväska med dark aesthetic-design. Hållbar, mångsidig och elegant minimalistisk. Perfekt för gym, resor och weekendäventyr.
-  Updated: 2025-12-07T09:53:53Z
+  Updated: 2026-01-16T15:34:17Z
   Vendor: Dark Aesthetic Studio
   Product Type: V�ska
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/sportv-ska-med-dark-aesthetic-bakgrund.png?v=1765058540
   Price: 299,00 kr SEK
 - [Gothic Pentagram Midjekedja](https://darkaestheticstudio.se/products/gothic-pentagram-midjekedja): Förhöj din dark aesthetic-stil med denna justerbara midjekedja i flera lager med pentagram-detaljer. Perfekt för att skapa ett unikt och dramatiskt uttryck.Produktdetaljer: Justerbar passform för maximal komfort Flerlagers design med pentagram-hängen Passar perfekt över klänningar, toppar eller höga midjebyxor Skapar en slående silhuett och accentuerar midjan Idealisk för både vardag och speciella tillfällen Styling:Kombinera med våra dark aesthetic-plagg för en komplett look. Bär över en svart klänning eller med höga midjebyxor för maximal effekt.
-  Updated: 2025-12-07T10:04:56Z
+  Updated: 2026-01-16T15:34:22Z
   Vendor: Dark Aesthetic Studio
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pentagram-midjekedja-med-m-rk-bakgrund.png?v=1765059064
   Price: 129,00 kr SEK
 - [LED Läslampa | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/led-reading-lamp): Uppladdningsbar LED-läslampa i matt svart med tre ljusnivåer. Perfekt minimalistisk belysning för läsning och arbete. Kompakt, portabel och stilren design.
-  Updated: 2025-12-08T12:14:05Z
+  Updated: 2026-01-16T15:28:48Z
   Vendor: Dark Aesthetic Studio
   Product Type: B�cker
   Availability: Available
@@ -1155,14 +1155,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/white-lamp-illuminated.png?v=1765118747
     Price: 139,00 kr SEK
 - [Gothic Halloween Väska | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/gothic-halloween-vaska): Spöklikt elegant Halloween clutch väska med gotisk estetik. Premium PU-läder perfekt för dark style-älskare. Sofistikerad makaber design för vardagsmörker.
-  Updated: 2025-12-08T02:57:12Z
+  Updated: 2026-01-16T15:28:35Z
   Vendor: Dark Aesthetic Studio
   Product Type: Väska
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/vardaglig-model-med-clutch_5c87c34b-f1cb-4d0a-ae33-8a62a316815f.png?v=1765120066
   Price: 389,00 kr SEK
 - [Dark Style Loose Fit Retro T-Shirt | Gothic Couple Tee](https://darkaestheticstudio.se/products/dark-style-loose-fit-retro-t-shirt): Retro-inspirerad loose fit t-shirt för dark aesthetic-älskare. Unisex design, premium kvalitet. Perfekt för par som delar passionen för goth-luxe stil. Shoppa nu!
-  Updated: 2025-12-08T12:17:37Z
+  Updated: 2026-01-16T15:27:55Z
   Vendor: Dark Aesthetic Studio
   Product Type: T-shirt
   Availability: Available
@@ -2572,6 +2572,202 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlos_design_4a95a574-6e08-4860-9585-4e7b893aac53.png?v=1767996839
     Price: 5,00 kr SEK
+- [Please Be Patient With Me I'm From The 1900s Pin | Nostalgisk Enamel Pin](https://darkaestheticstudio.se/products/pin-from-the-1900s): Nostalgisk enamel pin med texten 'Please be patient with me, I'm from the 1900s'. Perfekt för dig som längtar tillbaka till enklare tider. Premium kvalitet.
+  Updated: 2026-01-18T02:55:18Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/modell-h-ller-pin.png?v=1768661891
+  Price: 49,00 kr SEK
+- [Overthink Pin – Dark Aesthetic Studio](https://darkaestheticstudio.se/products/overthink-pin): Premium enamel pin för dig som lever i tankestormarna. Mörk, minimalistisk design med högkvalitativ finish. Perfekt accessoar för den gotiska estetiken.
+  Updated: 2026-01-18T03:05:43Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/overthink-pin-close-up-p-l-derv-ska.png?v=1768662583
+  Price: 49,00 kr SEK
+- [Dropped this - Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dropped-this-pin): Statement enamel pin i premium kvalitet. Mörk humor möter självsäker stil. Perfekt accessoar för jackor, väskor och hattar. Handla nu hos Dark Aesthetic Studio.
+  Updated: 2026-01-18T03:15:53Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/enamel-pin-p-svart-l-derv-ska.png?v=1768663195
+  Price: 49,00 kr SEK
+- [Dramatic - Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dramatic-pin): Dramatic enamel pin med dark aesthetic design. Högkvalitativ finish och säkert fäste. Perfekt för jackor, väskor och hattar. Från Dark Aesthetic Studio.
+  Updated: 2026-01-18T03:24:26Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/modell-h-ller-pin-i-handen.png?v=1768663744
+  Price: 49,00 kr SEK
+- [Adulting Pin – 1 av 5 Stjärnor | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/adulting-pin): Humoristisk emalj-pin för alla som kämpar med vuxenlivet. Premium kvalitet med mörk estetik. 1 av 5 stjärnor – ärlighet i pin-form.
+  Updated: 2026-01-18T03:34:03Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/adulting-pin-p-svart-l-derryggs-ck.png?v=1768664413
+  Price: 49,00 kr SEK
+- [No is a Complete Sentence – Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/no-pin): Kraftfull enamel pin med budskapet 'No is a complete sentence'. Premium kvalitet, mörk aesthetic. Perfekt gränssättande statement för jacka, väska eller hatt.
+  Updated: 2026-01-18T03:44:43Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/no-pin-flat-lay.png?v=1768666006
+  Price: 49,00 kr SEK
+- [HOLO - Klistermärke](https://darkaestheticstudio.se/products/holografisk-klistermarke): Förvandla dina tillhörigheter med detta unika klistermärke. Perfekt för att ge din laptop, telefon, vattenflaska eller dagbok. Detaljer: Lätt att applicera Perfekt storlek för de flesta ytor Mått: Ca 6-7CM
+  Updated: 2026-01-18T04:15:27Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Klistermärke
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlosdesign_11.png?v=1768666535
+  - [1](https://darkaestheticstudio.se/products/holografisk-klistermarke?variant=52569330942295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlosdesign_11.png?v=1768666535
+    Price: 5,00 kr SEK
+  - [2](https://darkaestheticstudio.se/products/holografisk-klistermarke?variant=52569330975063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Namnlosdesign_10.png?v=1768666535
+    Price: 5,00 kr SEK
+- [Nyckelband Dark Aesthetic Studio – Premium Merch](https://darkaestheticstudio.se/products/nyckelband-dark-aesthetic-studio): Exklusivt nyckelband från Dark Aesthetic Studio. Premium merch för dig som älskar dark aesthetic. Stötta studion och visa din stil.
+  Updated: 2026-01-18T04:22:28Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/nyckelband-hero-shot.png?v=1768667578
+  Price: 89,00 kr SEK
+- [Nyckelformad Penna - Dark Aesthetic Studio | Gotisk Skrivredskap](https://darkaestheticstudio.se/products/penna-dark-aesthetic-studio): Unik penna formad som en antik nyckel med Dark Aesthetic Studio logotyp. Premium gotiskt skrivredskap för den som uppskattar mörk elegans. Stötta vår vision.
+  Updated: 2026-01-18T04:37:13Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Penna
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-pen-flat-lay.png?v=1768668154
+  Price: 20,00 kr SEK
+- [Dead Inside Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dead-inside-pin): Enamel pin med attityd. Dead inside pin för dig som uppskattar mörk humor och gothic aesthetic. Premium kvalitet från Dark Aesthetic Studio.
+  Updated: 2026-01-18T05:01:22Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dead-inside-pin-n-rbild-p-l-derv-ska.png?v=1768669628
+  Price: 49,00 kr SEK
+- [Black Sunshine Pin – Dark Aesthetic Studio](https://darkaestheticstudio.se/products/black-sunshine): Enamel pin med texten 'little ray of pitch black sunshine'. Perfekt accessoar för dig som älskar dark aesthetic och gotisk stil. Högkvalitativ finish.
+  Updated: 2026-01-18T05:09:20Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/black-sunshine-pin-p-sammet.png?v=1768670091
+  Price: 49,00 kr SEK
+- [Coffee Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/coffee-pin): Premium enamel pin för kaffeälskare med dark aesthetic. Minimalistisk design, högkvalitativ finish. Perfekt accessoar för jacka eller väska.
+  Updated: 2026-01-18T05:24:14Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/coffee-pin-flat-lay-med-kaffeb-nor.png?v=1768670961
+  Price: 49,00 kr SEK
+- [Thinking of You Voodoo Pin – Dark Aesthetic Studio](https://darkaestheticstudio.se/products/you-pin): Mörkt humoristisk enamel pin med voodoo-docka. Premium kvalitet för dig som älskar gotisk estetik och alternativ humor. Handgjord detalj för jacka eller väska.
+  Updated: 2026-01-18T05:30:45Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/voodoo-pin-p-tote-bag.png?v=1768671283
+  Price: 49,00 kr SEK
+- [Dolls Voodoo Enamel Pin - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dolls-pin): Still plays with dolls enamel pin med voodoo-docka. Premium gothic accessoar för den som älskar dark aesthetic. Perfekt detalj till jacka eller väska.
+  Updated: 2026-01-18T05:39:55Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/flat-lay-med-accessories.png?v=1768672309
+  Price: 49,00 kr SEK
+- [Anxiety Pin – I Have Bonus Feelings | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/anxiety-pin): Enamel pin med attityd. 'I don't have anxiety, I have bonus feelings' – en mörk, ärlig påminnelse för alla som känner djupt. Premium kvalitet från Dark Aesthetic Studio.
+  Updated: 2026-01-18T05:57:12Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/anxiety-pin-flat-lay.png?v=1768672844
+  Price: 49,00 kr SEK
+- [Work Hard Pin – Enamel Pin för Hundälskare | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/work-hard-pin): Stilren enamel pin för dig som jobbar hårt för din hund. Premium kvalitet med mörk aesthetic. Perfekt present till hundägare.
+  Updated: 2026-01-18T06:02:26Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/n-rbild-av-pin-mot-m-rk-bakgrund.png?v=1768673315
+  Price: 49,00 kr SEK
+- [Smash the Patriarchy Pin – Enamel Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/smash-the-patriarchy-pin): Kraftfull enamel pin med statement. Premium kvalitet för dig som bär dina värderingar synligt. Perfekt accessoar till jacka, väska eller hatt.
+  Updated: 2026-01-18T06:11:19Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pin-p-svart-denimjacka.png?v=1768673783
+  Price: 49,00 kr SEK
+- [I Had Anxiety Pin - Dark Aesthetic Studio](https://darkaestheticstudio.se/products/i-had-anxiety-pin): Enamel pin med mörk humor. 'I came. I saw. I had anxiety, I left.' Perfekt accessoar för jackor och väskor. Premium kvalitet från Dark Aesthetic Studio.
+  Updated: 2026-01-18T06:19:05Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pin-p-sammetsdisplay.png?v=1768674170
+  Price: 49,00 kr SEK
+- [ Pin – Enamel Pin med Mörk Humor | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/-pin): Premium enamel pin för dig som är trött på att förklara. Mörk humor möter dark aesthetic. Perfekt accessoar till jacka eller väska.
+  Updated: 2026-01-18T06:26:15Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/-pin-p-l-derjakka.png?v=1768675046
+  Price: 49,00 kr SEK
+- [Trauma Enamel Pin - Dark Aesthetic Studio | Gotisk Accessoar](https://darkaestheticstudio.se/products/trauma-pin): Premium enamel pin för dark aesthetic-älskare. Perfekt för jackor, väskor och hattar. Handla nu.
+  Updated: 2026-01-18T06:40:20Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/close-up-p-svart-tygv-ska.png?v=1768675400
+  Price: 49,00 kr SEK
+- [A Little Bit Excessive Pin – Dark Humor Enamel Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/a-little-bit-excessive-pin): Enamel pin med attityd. 'Being a functional  everyday seems a little bit excessive' – perfekt för den som uppskattar mörk humor och realism. Premium kvalitet.
+  Updated: 2026-01-18T06:47:24Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/enamel-pin-p-svart-ryggs-ck.png?v=1768675828
+  Price: 49,00 kr SEK
+- [You're Safe to Be You - Enamel Pin | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/you-re-safe-to-be-you-pin): Premium enamel pin med ett kraftfullt budskap om acceptans och autenticitet. Perfekt accessoar för den som värdesätter äkthet och modet att vara sig själv.
+  Updated: 2026-01-18T06:53:24Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Enamel Pin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pin-p-svart-l-derv-ska.png?v=1768676197
+  Price: 49,00 kr SEK
+- [Paranoid Nyckelring | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/paranoid-nyckelring): Minimalistisk gotisk nyckelring med mörk estetik. Premium kvalitet för dig som omfamnar det mystiska. Perfekt dark aesthetic accessoar från Dark Aesthetic Studio.
+  Updated: 2026-01-18T07:02:44Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Nyckelring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/lifestyle-bag-mockup.png?v=1768676667
+  Price: 59,00 kr SEK
+- [Boot Nyckelring – Dark Aesthetic Accessoar | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/boot-nyckelring): Gotisk nyckelring formad som en klassisk stövel. Premium dark aesthetic accessoar med tidlös design. Perfekt för dig som älskar moody detaljer.
+  Updated: 2026-01-18T07:10:56Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/boot-keychain-lifestyle-mockup.png?v=1768677379
+  Price: 89,00 kr SEK
+- [My Child Barks Nyckelring| Dark Aesthetic Studio](https://darkaestheticstudio.se/products/my-child-bark-nyckelring): Gotisk nyckelring i premium kvalitet. My Child Barks kombinerar dark aesthetic med funktionalitet. Perfekt accessoar för den mörka stilen.
+  Updated: 2026-01-18T07:20:26Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Nyckelring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/lifestyle-mockup.png?v=1768677938
+  Price: 69,00 kr SEK
+- [Dont pray for me - Nyckelring | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/dont-pray-for-me-nyckelring): Nyckelring med attityd för dig som går din egen väg. Högkvalitativ dark aesthetic accessoar från Dark Aesthetic Studio. Perfekt present eller personlig statement.
+  Updated: 2026-01-18T07:30:51Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Nyckelring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-marble-mockup.png?v=1768678362
+  Price: 59,00 kr SEK
+- [I'm Always Dressed for a Funeral Nyckelring | Dark Aesthetic Studio](https://darkaestheticstudio.se/products/im-always-dressed-for-a-funeral-nyckelring): Nyckelring med attityd för dark aesthetic-älskare. Högkvalitativ design med texten 'I'm always dressed for a funeral'. Perfekt accessoar för din gotiska stil.
+  Updated: 2026-01-18T12:21:14Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Nyckelring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/nyckelring-p-betong.png?v=1768678820
+  Price: 69,00 kr SEK
 
 ## Collections
 
@@ -2579,17 +2775,17 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.se/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2026-01-09T21:27:22Z
-  Total Products: 24
+  Updated: 2026-01-17T19:41:10Z
+  Total Products: 40
 - [Merch](https://darkaestheticstudio.se/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
-  Updated: 2025-11-23T20:16:02Z
-  Total Products: 1
+  Updated: 2026-01-17T16:43:26Z
+  Total Products: 3
 - [Hem](https://darkaestheticstudio.se/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
   Updated: 2026-01-09T22:16:44Z
   Total Products: 24
 - [Alla produkter](https://darkaestheticstudio.se/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2026-01-09T22:16:44Z
-  Total Products: 83
+  Updated: 2026-01-17T19:41:10Z
+  Total Products: 110
 - [Jul](https://darkaestheticstudio.se/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
   Updated: 2025-12-15T12:40:08Z
   Total Products: 14
@@ -2597,8 +2793,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-12-06T13:22:51Z
   Total Products: 7
 - [Skuggnytt🕯️](https://darkaestheticstudio.se/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2026-01-09T22:16:44Z
-  Total Products: 29
+  Updated: 2026-01-17T20:02:22Z
+  Total Products: 39
 - [Dark Aesthetic Skor - Gothic & Edgy Footwear | Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/skor): Upptäck vår kollektion av dark aesthetic skor. Platåsandaler, boots och mer med gotisk elegans och rebelliska detaljer. Premium kvalitet för din unika stil.
   Updated: 2025-11-23T19:31:21Z
   Total Products: 1
@@ -2609,8 +2805,11 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-29T19:21:38Z
   Total Products: 2
 - [Pyssel & DIY - Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/pyssel): Kreativa pyssel- och DIY-material med mörk estetik.
-  Updated: 2026-01-09T22:15:47Z
-  Total Products: 16
+  Updated: 2026-01-17T16:21:03Z
+  Total Products: 17
+- [Smycken Dark Aesthetic – Gotisk & Elegant Stil | Dark Aesthetic Studio](https://darkaestheticstudio.se/collections/smycken): Upptäck vår kurerade kollektion av dark aesthetic smycken. Premium gotiska ringar, halsband och örhängen för den som älskar mörk elegans.
+  Updated: 2026-01-17T14:36:32Z
+  Total Products: 8
 
 ## Store Pages
 
