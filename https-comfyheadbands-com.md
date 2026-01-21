@@ -6,47 +6,47 @@
 - Timezone: Europe/London
 - Created At: 2025-03-27T12:54:05Z
 - Contact Email: hello@comfyheadbands.com
-- Updated At: 2026-01-13T00:00:36.465Z
+- Updated At: 2026-01-21T00:00:37.968Z
 
 ## Products
 
 - [Kids Warm Cotton Over-Ear Headband – Blue | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-blue): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid- designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2026-01-11T21:04:43Z
+  Updated: 2026-01-14T01:29:08Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/3.jpg?v=1765471552
   Price: £9.99 GBP
 - [Kids Warm Cotton Over-Ear Headband – Orange | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-orange): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid- designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2026-01-11T21:04:43Z
+  Updated: 2026-01-14T14:36:08Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/4.jpg?v=1765471543
   Price: £9.99 GBP
 - [Kids Warm Cotton Over-Ear Headband – Grey | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-grey): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid- designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2026-01-11T21:04:44Z
+  Updated: 2026-01-14T01:26:24Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/1.jpg?v=1765471545
   Price: £9.99 GBP
 - [Kids Warm Cotton Over-Ear Headband – Red | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-red): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid- designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2026-01-11T21:04:44Z
+  Updated: 2026-01-14T01:27:31Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/5_c50f772d-8423-489e-982f-d2429eb27b22.jpg?v=1765471553
   Price: £9.99 GBP
 - [Kids Warm Cotton Over-Ear Headband – Black | Comfy Headbands](https://comfyheadbands.com/products/comfy-headbands-active-black): Say goodbye to tight, itchy headbands and hello to all-day comfort! Our Comfy Kids Headbands are specially designed for little heads – stretchy, breathable, and oh-so-gentle on sensitive skin. Whether it’s a big day at school, playing in the forest or any sporting activity, these headbands stay in place without a fuss. Why Kids & Parents Love Them: Ultra-soft & flexible fabric – no pinching or pressure Kid- designs – bright colours Warm, just perfect - keeps their ears warm in the cold No-slip grip – stays put through cartwheels and giggles
-  Updated: 2026-01-11T21:04:44Z
+  Updated: 2026-01-14T01:27:17Z
   Vendor: Comfy Headbands
   Product Type: Headbands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/2.jpg?v=1765471545
   Price: £9.99 GBP
-- [Kids Winter Thermal Underwear Set Boys Warm Long Sleeve Top and Pants Cosy Insulating Base Layer Sizes 3-13 Charcoal Black by Heatwave Thermalwear](https://comfyheadbands.com/products/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cosy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear): Heatwave® Boys Thermal Long Sleeve Top & Pants Set, Kids Warm Winter Underwear Introducing the Heatwave® Boys Thermal Long Sleeve Top & Pants Set, the ultimate winter underwear solution for kids. Designed to provide superior warmth and comfort, this set is ideal for cold winter days, ensuring your little one stays snug and cozy. The unique 0.45 tog rating sets it apart, providing excellent insulation by holding more warm air close to the skin. Key Feature 1: Advanced Insulating Yarn Description: The thermal underwear base layers are crafted from an advanced insulating yarn. This material boasts high performance insulation with a soft brushed inner that enhances warmth. Benefits: Keeps your child warm by trapping heat close to the body, perfect for outdoor activities or cold indoor environments. Key Feature 2: Comfort Fit Design Description: The ribbed construction of the set shapes to the contours of the body, offering a perfect fit. The tops are side seam-free, adding an extra layer of comfort. Benefits: Provides a snug and comfortable fit that moves with your child, reducing discomfort and allowing free movement. Key Feature 3: High Performance Insulation Description: The combination of 50% polyester and 50% cotton provides excellent insulation while maintaining breathability. The materials are specifically designed to keep children warm without overheating. Benefits: Balances warmth and breathability, making it ideal for both indoor and outdoor use during the winter season. Sizes Ages 3-5: Long Sleeve Top Chest to Fit Approx 20-22", Long John Pants Waist to Fit Approx 20.5" Ages 6-8: Long Sleeve Top Chest to Fit Approx 24-26", Long John Pants Waist to Fit Approx 21.5" Ages 9-11: Long Sleeve Top Chest to Fit Approx 28-30", Long John Pants Waist to Fit Approx 22.5" Ages 12-13: Long Sleeve Top Chest to Fit Approx 30-32", Long John Pants Waist to Fit Approx 24.5" Ages 14-15: Long Sleeve Top Chest to Fit Approx 32-34", Long John Pants Waist to Fit Approx 26.5" Colours Or Style Options Black Charcoal Care Guide Machine washable at 40°C Can be tumble dried Wash dark colours separately Why Choose This Product Choose the Heatwave® Boys Thermal Long Sleeve Top & Pants Set for its superior warmth, comfort fit, and high-performance insulation. Unlike other winter underwear, this set is designed with both warmth and comfort in mind. User testimonials praise its durability and effectiveness, making it a reliable choice for keeping your child warm during the cold months. Trust in the quality and value of Heatwave® for a worry-free winter experience. Additional Information Usability: Ideal for outdoor play, winter sports, or as an extra layer under school uniforms. This versatile set ensures your child stays warm in various settings. Warranty and Support: Comes with a satisfaction guarantee and responsive customer support. Return policies are in place to ensure you are completely satisfied with your purchase.
-  Updated: 2026-01-12T14:49:08Z
+- [Kids Winter Thermal Underwear Set Boys](https://comfyheadbands.com/products/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cosy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear): Heatwave® Boys Thermal Long Sleeve Top & Pants Set, Kids Warm Winter Underwear Introducing the Heatwave® Boys Thermal Long Sleeve Top & Pants Set, the ultimate winter underwear solution for kids. Designed to provide superior warmth and comfort, this set is ideal for cold winter days, ensuring your little one stays snug and cozy. The unique 0.45 tog rating sets it apart, providing excellent insulation by holding more warm air close to the skin. Key Feature 1: Advanced Insulating Yarn Description: The thermal underwear base layers are crafted from an advanced insulating yarn. This material boasts high performance insulation with a soft brushed inner that enhances warmth. Benefits: Keeps your child warm by trapping heat close to the body, perfect for outdoor activities or cold indoor environments. Key Feature 2: Comfort Fit Design Description: The ribbed construction of the set shapes to the contours of the body, offering a perfect fit. The tops are side seam-free, adding an extra layer of comfort. Benefits: Provides a snug and comfortable fit that moves with your child, reducing discomfort and allowing free movement. Key Feature 3: High Performance Insulation Description: The combination of 50% polyester and 50% cotton provides excellent insulation while maintaining breathability. The materials are specifically designed to keep children warm without overheating. Benefits: Balances warmth and breathability, making it ideal for both indoor and outdoor use during the winter season. Sizes Ages 3-5: Long Sleeve Top Chest to Fit Approx 20-22", Long John Pants Waist to Fit Approx 20.5" Ages 6-8: Long Sleeve Top Chest to Fit Approx 24-26", Long John Pants Waist to Fit Approx 21.5" Ages 9-11: Long Sleeve Top Chest to Fit Approx 28-30", Long John Pants Waist to Fit Approx 22.5" Ages 12-13: Long Sleeve Top Chest to Fit Approx 30-32", Long John Pants Waist to Fit Approx 24.5" Ages 14-15: Long Sleeve Top Chest to Fit Approx 32-34", Long John Pants Waist to Fit Approx 26.5" Colours Or Style Options Black Charcoal Care Guide Machine washable at 40°C Can be tumble dried Wash dark colours separately Why Choose This Product Choose the Heatwave® Boys Thermal Long Sleeve Top & Pants Set for its superior warmth, comfort fit, and high-performance insulation. Unlike other winter underwear, this set is designed with both warmth and comfort in mind. User testimonials praise its durability and effectiveness, making it a reliable choice for keeping your child warm during the cold months. Trust in the quality and value of Heatwave® for a worry-free winter experience. Additional Information Usability: Ideal for outdoor play, winter sports, or as an extra layer under school uniforms. This versatile set ensures your child stays warm in various settings. Warranty and Support: Comes with a satisfaction guarantee and responsive customer support. Return policies are in place to ensure you are completely satisfied with your purchase.
+  Updated: 2026-01-20T11:55:55Z
   Vendor: Sock Stack
   Product Type: Thermal Underwear
   Availability: Available
@@ -72,7 +72,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cozy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear-charcoal-3-5-yrs-thermal-underwear-1.jpg?v=1767800137
     Price: £7.00 GBP
   - [BLACK / 3-5 YRS](https://comfyheadbands.com/products/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cosy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear?variant=56480729989495)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cozy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear-charcoal-3-5-yrs-thermal-underwear-1.jpg?v=1767800137
     Price: £7.00 GBP
   - [BLACK / 6-8 YRS](https://comfyheadbands.com/products/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cosy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear?variant=56480730022263)
@@ -88,11 +88,11 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cozy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear-charcoal-3-5-yrs-thermal-underwear-1.jpg?v=1767800137
     Price: £7.00 GBP
   - [BLACK / 14-15 YRS](https://comfyheadbands.com/products/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cosy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear?variant=56480730120567)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cozy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear-charcoal-3-5-yrs-thermal-underwear-1.jpg?v=1767800137
     Price: £7.00 GBP
 - [FatStick Kids Childs Changing Robe “FatWrap” With Sherpa Fleece Lining](https://comfyheadbands.com/products/fatstick-kids-childs-changing-robe-fatwrap-with-sherpa-fleece-lining): Waterproof kids | Child’s Unisex Fleeced Dry Changing Robe FREE FatStick Matching Beanie Hat with every kids FatStick Changing Robe Our Kids | Child Changing Robes come in one size for children’s ages 5 to 13 year olds. All our Kids Changing Robes are lovingly manufactured using recycled materials & have a stunning large embroidered FatStick logo on the rear of the robe. Stay warm, dry, and comfortable with our Waterproof Unisex Dry Changing Robe. This versatile robe is designed to make changing out of your wet gear a breeze while providing ultimate protection against the elements. The FatWrap has a waterproof & windproof outer with a thick recycled sherpa fleece lining that will not only help you dry, it'll keep you warm.Our Changing Robe wasn't made for just Paddle Boarding, this awesome piece of kit can be used by anyone, anywhere. The FatStick Changing Robe has 2 deep* outer zip pockets, an inner pocket* with zip and adjustable cuffs. The chunky zip also features a windbreak inside to prevent the wind whistling through along with the ability to unzip from the top or bottom to help make it easier to change. It also features a large hood and long sleeves to protect you from the elements. SIZING 5-13 year olds ( Time, effort and love has gone into creating the FatWrap Changing Robe in order to bring you the usual FatStick quality without the crazy prices. Rest assured, our Changing Robe is well made and stands toe to toe with other Robes that are currently out there, there’s only one difference;This is a FatStick Robe and gets you exclusive entry into the FatStick Family!…lastly, there is zero single use plastic in the supply chain of this robe. From creation to your door, this robe will not be adding to the single use plastic problem. A few Kids FatWrap Changing Robe Uses…… Changing before/after Watersports activities Dog Walking Blanket for warmth & protection Great for Runners or Athletes before/after events Protects Anglers from the elements Stay warm on those Summer camping trips Doubles up as a great Beach blanket Check the Robes in action! SIZE GUIDE Our Kids | Child Changing Robes come in one size for children’s ages 5 to 13 year olds. Please note: you may need to roll the sleeves up on smaller younger children. Shoulder to Hem: 80cm Armpit to Armpit: 58cm Shoulder to Cuff: 51cm Our Beautiful Warm Changing Robes being used in Scotland!
-  Updated: 2026-01-11T21:04:44Z
+  Updated: 2026-01-13T12:30:48Z
   Vendor: FatStick Boards
   Product Type: Accessories/Bags
   Availability: Available
@@ -113,57 +113,43 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/FatStick_Childs_Change_Robe_Green.jpg?v=1767800662
     Price: £49.00 GBP
-- [Kids Leg Sleeve Socks Red Fits Over Calf Shin Pads Compression Sleeves for Football Training Running by Sock Stack](https://comfyheadbands.com/products/kids-leg-sleeve-socks-red-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. Red. Machine-washable at 30°C.
-  Updated: 2026-01-11T21:04:44Z
+- [Kids Leg Sleeve Socks Red - Fits over Shin Pads](https://comfyheadbands.com/products/kids-leg-sleeve-socks-red-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. Red. Machine-washable at 30°C.
+  Updated: 2026-01-14T01:27:31Z
   Vendor: Sock Stack
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-leg-sleeve-socks-red-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack-red-socks-1176513507.jpg?v=1767802638
   Price: £9.00 GBP
-- [Changing Robe Kids Unisex Hooded Coat Camo/Black Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear](https://comfyheadbands.com/products/changing-robe-kids-unisex-hooded-coat-camo-black-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear): Introducing the Changing Robe Kids Unisex Hooded Coat Camo/Black Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear, the ultimate gear for young adventurers who love the water. This innovative changing robe keeps your child warm, dry, and comfortable during beach outings, surfing sessions, or swimming lessons. With its quick-dry and waterproof design, this robe is perfect for active kids who need a reliable companion for all water-based activities. Key Feature 1: Quick-Dry & Waterproof Design Description: Crafted from 100% polyester, this changing robe offers a quick-dry and waterproof exterior to shield your child from moisture and wind. This robust design ensures they remain snug and dry, no matter the weather or activity. Benefits: The fast-drying fabric keeps kids dry quickly, while its waterproof nature ensures comfort even in wet environments. This feature is indispensable for effortless changing after water activities, allowing your child to transition comfortably from water to land. Key Feature 2: Ideal for Water Sports & Outdoor Adventures Description: Available in stylish color options including black/grey, black/pink, and camo/black, this robe is perfect for a variety of water sports. Whether your child is surfing, swimming, or simply enjoying a family day at the beach, this robe is a versatile essential. Benefits: This changing robe ensures long-lasting wear, making it an essential part of any young adventurer's wardrobe. It’s designed for durability and functionality, offering unmatched comfort for all outdoor explorations. Key Feature 3: Hooded & Oversized Fit for Maximum Comfort Description: The oversized fit and cozy hood offer full coverage to protect against the elements. Designed for kids aged 9-13 years, it provides a relaxed yet secure fit that’s perfect for quick changes and added warmth. Benefits: The roomy design facilitates easy movement, and the hood provides an extra layer of warmth and protection. It’s ideal for after-swim comfort, ensuring your child can change swiftly and remain cozy. Sizes Available in a variety of sizes for children aged 9-13, ensuring a comfortable and secure fit. Choose the ideal size for your child to enhance their beach or poolside experience. Colours Or Style Options Choose from a selection of stylish colors: black/grey, black/pink, and camo/black. Whether your child prefers bold hues or classic tones, there's an option to match their style. Care Guide Machine wash on a gentle cycle with cold water. Avoid using bleach and harsh detergents. Tumble dry on low heat or hang to dry. Do not iron to maintain the robe’s waterproof and quick-dry properties. Why Choose This Product The Changing Robe by Heatwave Thermalwear is more than just a garment; it's an essential for active kids who indulge in water sports. Its quick-dry, waterproof features, combined with a comfortable oversized fit, make it an unbeatable choice for keeping your child warm and ready for their next adventure. Trusted by parents for its quality and durability, this robe offers peace of mind and superior performance. Additional Information Usability: Perfect for young surfers, swimmers, and beach enthusiasts, providing a warm and convenient changing space after aquatic activities. Warranty and Support: Our product comes with a 1-year warranty, backed by dedicated customer support, and a 30-day hassle-free return policy for your satisfaction.
-  Updated: 2026-01-11T21:04:45Z
+- [Changing Robe Kids Unisex Hooded Coat Camo/Black](https://comfyheadbands.com/products/changing-robe-kids-unisex-hooded-coat-camo-black-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear): Introducing the Changing Robe Kids Unisex Hooded Coat Camo/Black Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear, the ultimate gear for young adventurers who love the water. This innovative changing robe keeps your child warm, dry, and comfortable during beach outings, surfing sessions, or swimming lessons. With its quick-dry and waterproof design, this robe is perfect for active kids who need a reliable companion for all water-based activities. Key Feature 1: Quick-Dry & Waterproof Design Description: Crafted from 100% polyester, this changing robe offers a quick-dry and waterproof exterior to shield your child from moisture and wind. This robust design ensures they remain snug and dry, no matter the weather or activity. Benefits: The fast-drying fabric keeps kids dry quickly, while its waterproof nature ensures comfort even in wet environments. This feature is indispensable for effortless changing after water activities, allowing your child to transition comfortably from water to land. Key Feature 2: Ideal for Water Sports & Outdoor Adventures Description: Available in stylish color options including black/grey, black/pink, and camo/black, this robe is perfect for a variety of water sports. Whether your child is surfing, swimming, or simply enjoying a family day at the beach, this robe is a versatile essential. Benefits: This changing robe ensures long-lasting wear, making it an essential part of any young adventurer's wardrobe. It’s designed for durability and functionality, offering unmatched comfort for all outdoor explorations. Key Feature 3: Hooded & Oversized Fit for Maximum Comfort Description: The oversized fit and cozy hood offer full coverage to protect against the elements. Designed for kids aged 9-13 years, it provides a relaxed yet secure fit that’s perfect for quick changes and added warmth. Benefits: The roomy design facilitates easy movement, and the hood provides an extra layer of warmth and protection. It’s ideal for after-swim comfort, ensuring your child can change swiftly and remain cozy. Sizes Available in a variety of sizes for children aged 9-13, ensuring a comfortable and secure fit. Choose the ideal size for your child to enhance their beach or poolside experience. Colours Or Style Options Choose from a selection of stylish colors: black/grey, black/pink, and camo/black. Whether your child prefers bold hues or classic tones, there's an option to match their style. Care Guide Machine wash on a gentle cycle with cold water. Avoid using bleach and harsh detergents. Tumble dry on low heat or hang to dry. Do not iron to maintain the robe’s waterproof and quick-dry properties. Why Choose This Product The Changing Robe by Heatwave Thermalwear is more than just a garment; it's an essential for active kids who indulge in water sports. Its quick-dry, waterproof features, combined with a comfortable oversized fit, make it an unbeatable choice for keeping your child warm and ready for their next adventure. Trusted by parents for its quality and durability, this robe offers peace of mind and superior performance. Additional Information Usability: Perfect for young surfers, swimmers, and beach enthusiasts, providing a warm and convenient changing space after aquatic activities. Warranty and Support: Our product comes with a 1-year warranty, backed by dedicated customer support, and a 30-day hassle-free return policy for your satisfaction.
+  Updated: 2026-01-20T15:23:39Z
   Vendor: Sock Stack
   Product Type: Changing Robe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/changing-robe-kids-unisex-hooded-coat-camo-black-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear-9-13-years-camo-black-changing-robe-1176984555.jpg?v=1767802637
   Price: £30.00 GBP
-- [Kids Leg Sleeve Socks Blue Fits Over Calf Shin Pads Compression Sleeves for Football Training Running by Sock Stack](https://comfyheadbands.com/products/kids-leg-sleeve-socks-blue-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. Blue. Machine-washable at 30°C.
-  Updated: 2026-01-11T21:04:45Z
+- [Kids Leg Sleeve Socks Blue - Fits over Shin Pads](https://comfyheadbands.com/products/kids-leg-sleeve-socks-blue-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. Blue. Machine-washable at 30°C.
+  Updated: 2026-01-14T01:26:51Z
   Vendor: Sock Stack
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-leg-sleeve-socks-blue-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack-blue-socks-1176798636.jpg?v=1767802638
   Price: £9.00 GBP
-- [Kids Leg Sleeve Socks Black Fits Over Calf Shin Pads Compression Sleeves for Football Training Running by Sock Stack](https://comfyheadbands.com/products/kids-leg-sleeve-socks-black-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. Black. Machine-washable at 30°C.
-  Updated: 2026-01-11T21:04:45Z
+- [Kids Leg Sleeve Socks Black - Fits over Shin Pads](https://comfyheadbands.com/products/kids-leg-sleeve-socks-black-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. Black. Machine-washable at 30°C.
+  Updated: 2026-01-14T01:27:14Z
   Vendor: Sock Stack
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-leg-sleeve-socks-black-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack-black-socks-1176513502.jpg?v=1767802639
   Price: £9.00 GBP
-- [Changing Robe Kids Unisex Hooded Coat Black/Grey Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear](https://comfyheadbands.com/products/changing-robe-kids-unisex-hooded-coat-black-grey-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear): Introducing the Changing Robe Kids Unisex Hooded Coat Black/Grey Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear, the ultimate gear for young adventurers who love the water. This innovative changing robe keeps your child warm, dry, and comfortable during beach outings, surfing sessions, or swimming lessons. With its quick-dry and waterproof design, this robe is perfect for active kids who need a reliable companion for all water-based activities. Key Feature 1: Quick-Dry & Waterproof Design Description: Crafted from 100% polyester, this changing robe offers a quick-dry and waterproof exterior to shield your child from moisture and wind. This robust design ensures they remain snug and dry, no matter the weather or activity. Benefits: The fast-drying fabric keeps kids dry quickly, while its waterproof nature ensures comfort even in wet environments. This feature is indispensable for effortless changing after water activities, allowing your child to transition comfortably from water to land. Key Feature 2: Ideal for Water Sports & Outdoor Adventures Description: Available in stylish color options including black/grey, black/pink, and camo/black, this robe is perfect for a variety of water sports. Whether your child is surfing, swimming, or simply enjoying a family day at the beach, this robe is a versatile essential. Benefits: This changing robe ensures long-lasting wear, making it an essential part of any young adventurer's wardrobe. It’s designed for durability and functionality, offering unmatched comfort for all outdoor explorations. Key Feature 3: Hooded & Oversized Fit for Maximum Comfort Description: The oversized fit and cozy hood offer full coverage to protect against the elements. Designed for kids aged 9-13 years, it provides a relaxed yet secure fit that’s perfect for quick changes and added warmth. Benefits: The roomy design facilitates easy movement, and the hood provides an extra layer of warmth and protection. It’s ideal for after-swim comfort, ensuring your child can change swiftly and remain cozy. Sizes Available in a variety of sizes for children aged 9-13, ensuring a comfortable and secure fit. Choose the ideal size for your child to enhance their beach or poolside experience. Colours Or Style Options Choose from a selection of stylish colors: black/grey, black/pink, and camo/black. Whether your child prefers bold hues or classic tones, there's an option to match their style. Care Guide Machine wash on a gentle cycle with cold water. Avoid using bleach and harsh detergents. Tumble dry on low heat or hang to dry. Do not iron to maintain the robe’s waterproof and quick-dry properties. Why Choose This Product The Changing Robe by Heatwave Thermalwear is more than just a garment; it's an essential for active kids who indulge in water sports. Its quick-dry, waterproof features, combined with a comfortable oversized fit, make it an unbeatable choice for keeping your child warm and ready for their next adventure. Trusted by parents for its quality and durability, this robe offers peace of mind and superior performance. Additional Information Usability: Perfect for young surfers, swimmers, and beach enthusiasts, providing a warm and convenient changing space after aquatic activities. Warranty and Support: Our product comes with a 1-year warranty, backed by dedicated customer support, and a 30-day hassle-free return policy for your satisfaction.
-  Updated: 2026-01-12T23:25:41Z
-  Vendor: Sock Stack
-  Product Type: Changing Robe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/changing-robe-kids-unisex-hooded-coat-black-grey-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear-9-13-years-black-grey-changing-robe-1176984547.jpg?v=1767802637
-  Price: £30.00 GBP
-- [Changing Robe Kids Unisex Hooded Coat Black/Pink Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear](https://comfyheadbands.com/products/changing-robe-kids-unisex-hooded-coat-black-pink-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear): Introducing the Changing Robe Kids Unisex Hooded Coat Black/Pink Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear – a must-have for young adventurers and water enthusiasts. This premium robe combines functionality with style, making it the perfect accessory for swimming, surfing, and beach outings. Crafted with superior materials, it ensures warmth, comfort, and durability, setting it apart from conventional changing robes. Key Feature 1: Quick-Dry & Waterproof Design Description: Made from 100% polyester, this changing robe features a quick-dry and waterproof exterior, ensuring your child stays dry after water activities. Whether at the beach or by the pool, its advanced waterproof technology offers excellent protection. Benefits: The fast-drying material prevents prolonged dampness, providing a comfortable and hassle-free changing experience. Perfect for active kids who need to stay dry and warm post-surfing or swimming. Key Feature 2: Ideal for Water Sports & Outdoor Adventures Description: Available in stylish color options such as black/pink and camo/black, this robe is designed for versatility. It's an excellent companion for a variety of water sports and outdoor activities, from surfing to poolside relaxation. Benefits: This robe’s durable design promises long-lasting wear, making it ideal for young explorers who enjoy diverse water sports. Its versatility ensures your child is always prepared for any adventure. Key Feature 3: Hooded & Oversized Fit for Maximum Comfort Description: Featuring an oversized fit and cozy hood, this robe offers full coverage to protect against wind and chill. Tailored for children aged 9-13, it provides a relaxed fit that enhances comfort. Benefits: The oversized design allows for free movement, while the hood offers additional warmth and protection, making it perfect for quick changes after water activities. Sizes Available in a range of sizes for kids aged 9-13, ensuring the perfect fit for comfort and functionality. Colours Or Style Options Choose from stylish combinations like black/pink to match your child’s personality, whether they prefer vibrant or classic tones. Care Guide To maintain the robe’s quality, machine wash on a gentle cycle with cold water. Avoid bleach and harsh detergents. Tumble dry on low heat or hang to dry. Do not iron to preserve its waterproof and quick-drying features. Why Choose This Product The Heatwave Thermalwear Youth Changing Robe is indispensable for active children who love water sports. Its quick-dry, waterproof fabrics, oversized fit, and cozy hood ensure warmth, dryness, and readiness for new adventures. Perfect for beach trips, pool days, and family holidays, this robe is a must-have for outdoor enthusiasts. Additional Information Usability: Perfect for young surfers, swimmers, and beachgoers, offering a convenient and warm changing space post-water activities.
-  Updated: 2026-01-12T21:51:06Z
-  Vendor: Sock Stack
-  Product Type: Changing Robe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/changing-robe-kids-unisex-hooded-coat-black-pink-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear-9-13-years-black-pink-changing-robe-1176513487.jpg?v=1767802638
-  Price: £30.00 GBP
-- [Kids Leg Sleeve Socks White Fits Over Calf Shin Pads Compression Sleeves for Football Training Running by Sock Stack](https://comfyheadbands.com/products/kids-leg-sleeve-socks-white-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. White. Machine-washable at 30°C.
-  Updated: 2026-01-11T21:04:46Z
+- [Kids Leg Sleeve Socks White - Fits over Shin Pads](https://comfyheadbands.com/products/kids-leg-sleeve-socks-white-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack): Kids' football compression leg sleeves designed to wear over shin pads. Feature moisture-wicking fabric for sweat control and a secure compression fit that minimises muscle fatigue during training and matches. Made from durable 96% nylon and 4% elastane for season-long wear. One-size fits most children. White. Machine-washable at 30°C.
+  Updated: 2026-01-14T03:33:09Z
   Vendor: Sock Stack
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-leg-sleeve-socks-white-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack-white-socks-1176755002.jpg?v=1767802636
   Price: £9.00 GBP
-- [Girls Thermal Underwear Set Long Sleeve Top and Long Jane Pants Insulating Cotton-Rich Winter Baselayer Soft Breathable Multiple Colours Sizes by Daisy Dreamer](https://comfyheadbands.com/products/girls-thermal-underwear-set-long-sleeve-top-and-long-jane-pants-insulating-cotton-rich-winter-baselayer-soft-breathable-multiple-colours-sizes-by-daisy-dreamer): Keep her cozy, comfy, and ready for every winter adventure with the Daisy Dreamer Girls Thermal Underwear Set — a cotton-rich baselayer pairing a long sleeve top with Long Jane pants. Engineered for superior warmth without bulk, this soft, breathable set locks in heat, wicks away moisture, and moves with her all day. Perfect under school uniforms, ski gear, or weekend layers, it’s a cold‑weather essential parents trust and kids love. Key Feature 1: Advanced Insulating Yarn Description: Crafted with high‑performance insulating yarn and a soft brushed inner that traps more warm air close to the skin. Delivers a dependable 0.45 tog rating for impressive warmth while staying lightweight and easy to layer. Benefits: Reliable, all‑day thermal regulation keeps her warm without added bulk, so she can layer under clothes comfortably in changing winter conditions. Key Feature 2: Comfort Fit and Ribbed Construction Description: Ribbed fabric contours to the body for a snug yet flexible fit. Smart, side seam‑free construction minimises friction for irritation‑free comfort during active play and everyday wear. Benefits: Stays put, stretches with movement, and feels smooth against the skin—ideal for school days, sports, and weekend layering. Key Feature 3: Cotton-Rich Fabric Description: A breathable cotton‑rich blend balances warmth with airflow. The naturally soft handfeel is gentle on sensitive skin, while effective wicking helps manage moisture during activity. Benefits: Keeps her dry and comfortable by reducing clamminess and chills from damp fabric—perfect for outdoor play or chilly classrooms. Sizes Available in a range of kids’ sizes suited to various age groups for an easy, comfortable fit. Please refer to the size chart to select the ideal top and Long Jane combination for your child. Colours Or Style Options White – classic and clean under light uniforms Marl Grey – versatile everyday neutral Black – sleek, discreet, and easy to pair Care Guide Machine wash at 40°C Tumble dry friendly Wash dark colours separately to maintain vibrancy and fabric quality Why Choose This Product Warmth without weight: 0.45 tog performance plus brushed inner for dependable insulation. All-day comfort: Ribbed, seam‑free design reduces irritation and supports free movement. Breathable and cotton‑rich: Soft against skin with moisture management for dry, cosy wear. Versatile layering: Ideal under school uniforms, sports kits, and everyday winter outfits. Trusted by parents, loved by kids: A customer‑favourite baselayer for reliable cold‑weather comfort. Additional Information Usability: Wear under school shirts and trousers for extra warmth, layer beneath ski and winter sports gear, or use as a snug sleep layer on particularly cold nights. Great for travel, outdoor excursions, and weekend activities.
-  Updated: 2026-01-11T21:04:46Z
+- [Girls Thermal Underwear Set](https://comfyheadbands.com/products/girls-thermal-underwear-set-long-sleeve-top-and-long-jane-pants-insulating-cotton-rich-winter-baselayer-soft-breathable-multiple-colours-sizes-by-daisy-dreamer): Keep her cozy, comfy, and ready for every winter adventure with the Daisy Dreamer Girls Thermal Underwear Set — a cotton-rich baselayer pairing a long sleeve top with Long Jane pants. Engineered for superior warmth without bulk, this soft, breathable set locks in heat, wicks away moisture, and moves with her all day. Perfect under school uniforms, ski gear, or weekend layers, it’s a cold‑weather essential parents trust and kids love. Key Feature 1: Advanced Insulating Yarn Description: Crafted with high‑performance insulating yarn and a soft brushed inner that traps more warm air close to the skin. Delivers a dependable 0.45 tog rating for impressive warmth while staying lightweight and easy to layer. Benefits: Reliable, all‑day thermal regulation keeps her warm without added bulk, so she can layer under clothes comfortably in changing winter conditions. Key Feature 2: Comfort Fit and Ribbed Construction Description: Ribbed fabric contours to the body for a snug yet flexible fit. Smart, side seam‑free construction minimises friction for irritation‑free comfort during active play and everyday wear. Benefits: Stays put, stretches with movement, and feels smooth against the skin—ideal for school days, sports, and weekend layering. Key Feature 3: Cotton-Rich Fabric Description: A breathable cotton‑rich blend balances warmth with airflow. The naturally soft handfeel is gentle on sensitive skin, while effective wicking helps manage moisture during activity. Benefits: Keeps her dry and comfortable by reducing clamminess and chills from damp fabric—perfect for outdoor play or chilly classrooms. Sizes Available in a range of kids’ sizes suited to various age groups for an easy, comfortable fit. Please refer to the size chart to select the ideal top and Long Jane combination for your child. Colours Or Style Options White – classic and clean under light uniforms Marl Grey – versatile everyday neutral Black – sleek, discreet, and easy to pair Care Guide Machine wash at 40°C Tumble dry friendly Wash dark colours separately to maintain vibrancy and fabric quality Why Choose This Product Warmth without weight: 0.45 tog performance plus brushed inner for dependable insulation. All-day comfort: Ribbed, seam‑free design reduces irritation and supports free movement. Breathable and cotton‑rich: Soft against skin with moisture management for dry, cosy wear. Versatile layering: Ideal under school uniforms, sports kits, and everyday winter outfits. Trusted by parents, loved by kids: A customer‑favourite baselayer for reliable cold‑weather comfort. Additional Information Usability: Wear under school shirts and trousers for extra warmth, layer beneath ski and winter sports gear, or use as a snug sleep layer on particularly cold nights. Great for travel, outdoor excursions, and weekend activities.
+  Updated: 2026-01-17T09:26:47Z
   Vendor: Sock Stack
   Product Type: Thermal Underwear
   Availability: Available
@@ -217,7 +203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-thermal-underwear-set-for-girls-long-sleeve-top-and-pants-insulating-cotton-rich-winter-baselayer-soft-breathable-multiple-colors-sizes-by-heatwave-thermalwear-marl-grey-3-5-yrs.jpg?v=1767802701
     Price: £7.00 GBP
 - [Girls Recycled Polyester Kids Stretch Leggings](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings): An essential for all sports kits these girl's high-waisted leggings with no side seams provide ultimate comfort for movement whilst the pocket on the rear waistband scores extra points. 80% Recycled polyester, 20% Elastane interlock
-  Updated: 2026-01-11T21:04:46Z
+  Updated: 2026-01-13T12:31:03Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -263,7 +249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2.jpg?v=1767802923
     Price: £18.00 GBP
 - [Recycled Polyester Kids Microfleece](https://comfyheadbands.com/products/recycled-polyester-kids-microfleece): Recycled fleece top with 1/4 front YKK NATULON® eco-friendly zip. Soft bound elasticised cuffs and hem. Decorative body stitching. Made from highest quality perPETual© sustainable yarns using 100% post-consumer PET recycled plastic bottles offering an equivalent to conventional yarns. Easy wash quick-dry. Ideal for schoolwear. Hang Loop. PFC-free. End of life recyclable. Biodegradable bags & recycled cartons.
-  Updated: 2026-01-12T22:41:42Z
+  Updated: 2026-01-20T22:41:27Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -325,11 +311,11 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/R905J_Grey_FT.jpg?v=1767802924
     Price: £12.00 GBP
   - [XL / Navy](https://comfyheadbands.com/products/recycled-polyester-kids-microfleece?variant=56480981680503)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/R905J_Navy_FT.jpg?v=1767802924
     Price: £12.00 GBP
 - [Organic Cotton Kids Polo Shirt](https://comfyheadbands.com/products/organic-cotton-kids-polo-shirt): Kids polo in fun colours that can be combined with any outfit.
-  Updated: 2026-01-11T21:04:46Z
+  Updated: 2026-01-18T17:49:06Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -495,7 +481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/SX117_White_FT.jpg?v=1767802924
     Price: £13.00 GBP
 - [Fairtrade Organic Kids Sweatpants](https://comfyheadbands.com/products/fairtrade-organic-kids-sweatpants): Shaped sweatpants with elastic waist and adjustable flat strings. Features side pockets as well as one back pocket and twofold cuffs at bottom legs to secure a comfortable, tight fit. Comfortable heavyweight quality with a soft brushed inside made from ringspun 300gsm combed cotton. 100% ORGANIC FAIRTRADE COTTON
-  Updated: 2026-01-11T21:04:46Z
+  Updated: 2026-01-13T12:31:29Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -572,214 +558,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O34001-03.jpg?v=1767802924
     Price: £13.00 GBP
-- [Recycled Polyester T-shirt Kids](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids): 100% Recycled polyester. Understated yet high performing allowing you to focus fully and unlock your potential while doing your bit for the environment. By recycling post-consumer bottles your running class or sports kit will help clean up the world.
-  Updated: 2026-01-11T21:04:47Z
-  Vendor: Earth Wardrobe
-  Product Type: Clothing
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_LS00_2022_2048x2048_7ee1f0aa-368c-4f40-ada1-d13de58e0425.jpg?v=1767802925
-  - [9/11 Years / Sun Yellow](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480983875959)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SunYellow_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / Charcoal](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480983908727)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Charcoal_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / Charcoal](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480983941495)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Charcoal_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Charcoal](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480983974263)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Charcoal_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Charcoal](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984007031)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Charcoal_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Charcoal](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984039799)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Charcoal_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / Arctic White](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984072567)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ArcticWhite_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Electric Green](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984105335)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ElectricGreen_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Arctic White](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984138103)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ArcticWhite_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Jet Black](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984170871)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_JetBlack_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Jet Black](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984203639)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_JetBlack_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / Jet Black](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984236407)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_JetBlack_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / Jet Black](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984269175)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_JetBlack_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Fire Red](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984301943)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FireRed_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Fire Red](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984334711)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FireRed_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Fire Red](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984367479)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FireRed_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / Fire Red](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984400247)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FireRed_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / Fire Red](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984433015)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FireRed_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Purple](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984465783)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Purple_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Purple](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984498551)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Purple_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Purple](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984531319)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Purple_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / Purple](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984564087)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Purple_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / Purple](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984596855)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_Purple_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Royal Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984629623)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_RoyalBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [3/4 Years / Royal Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984662391)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_RoyalBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [5/6 Years / Royal Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984695159)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_RoyalBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [7/8 Years / Royal Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984727927)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_RoyalBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [9/11 Years / Royal Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984760695)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_RoyalBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [12/13 Years / Sapphire Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984793463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SapphireBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [3/4 Years / Sapphire Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984826231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SapphireBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [5/6 Years / Sapphire Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984858999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SapphireBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [7/8 Years / Sapphire Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984891767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SapphireBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [9/11 Years / Sapphire Blue](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984924535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SapphireBlue_FT.jpg?v=1767802925
-    Price: £7.00 GBP
-  - [7/8 Years / Arctic White](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984957303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ArcticWhite_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / Sun Yellow](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480984990071)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SunYellow_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Sun Yellow](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985022839)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SunYellow_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Sun Yellow](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985055607)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SunYellow_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Sun Yellow](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985088375)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_SunYellow_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / Electric Green](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985121143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ElectricGreen_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / Electric Green](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985153911)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ElectricGreen_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / Electric Green](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985186679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ElectricGreen_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Electric Green](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985219447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ElectricGreen_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Jet Black](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985252215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_JetBlack_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [9/11 Years / French Navy](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985284983)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FrenchNavy_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [7/8 Years / French Navy](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985317751)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FrenchNavy_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [5/6 Years / French Navy](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985350519)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FrenchNavy_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / French Navy](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985383287)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FrenchNavy_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / French Navy](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985416055)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_FrenchNavy_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [12/13 Years / Arctic White](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985448823)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ArcticWhite_FT.jpg?v=1767802924
-    Price: £7.00 GBP
-  - [3/4 Years / Arctic White](https://comfyheadbands.com/products/recycled-polyester-t-shirt-kids?variant=56480985481591)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/JJ201_ArcticWhite_FT.jpg?v=1767802924
-    Price: £7.00 GBP
 - [Fairtrade Organic Kids T-shirt](https://comfyheadbands.com/products/fairtrade-organic-kids-t-shirt): Single jersey T-shirt with regular short sleeves. Classic fit, round crew neck with double-layered elastane rib and inside neck tape. Soft, lightweight quality, made from ringspun 155gsm combed cotton.\n100% ORGANIC FAIRTRADE COTTON
-  Updated: 2026-01-11T21:04:47Z
+  Updated: 2026-01-13T12:32:30Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -985,205 +765,205 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/16_1024x1024_9f3d4529-8b46-4c76-ad4e-94f75afecc80.jpg?v=1767802925
     Price: £8.00 GBP
 - [Fairtrade Organic Kids Zipped Hoodie](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie): Heavyweight hooded sweatshirt with kangaroo pocket and YKK zipper at front. Soft double lined hood with adjustable flat strings and inside neck tape. Featuring inside neck tape, double-layered elastane rib at cuffs and waistband. Made from ringspun 300gsm combed cotton and has a soft brushed inside.\n100% ORGANIC FAIRTRADE COTTON
-  Updated: 2026-01-11T21:04:47Z
+  Updated: 2026-01-18T19:43:05Z
   Vendor: Earth Wardrobe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301KidsZipHoodie_BottleGreen_1024x1024_2048x2048_453e00bd-8280-491a-825e-950aceb7b955.jpg?v=1767802926
-  - [Yellow / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987873655)
+  - [8/9 Years / Yellow](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987873655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Yellow / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989282679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
-    Price: £27.00 GBP
-  - [Yellow / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989315447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
-    Price: £27.00 GBP
-  - [Yellow / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989348215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
-    Price: £27.00 GBP
-  - [Yellow / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989380983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
-    Price: £27.00 GBP
-  - [Yellow / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989413751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
-    Price: £27.00 GBP
-  - [Black / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988070263)
+  - [10/11 Years / Black](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987906423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-03.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Black / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987906423)
+  - [12/13 Years / Black](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987939191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-03.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Black / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987939191)
+  - [2/3 Years / Black](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987971959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-03.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Black / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480987971959)
+  - [4/5 Years / Black](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988004727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-03.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Black / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988004727)
+  - [6/7 Years / Black](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988037495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-03.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Black / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988037495)
+  - [8/9 Years / Black](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988070263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-03.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Bottle Green / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988266871)
+  - [10/11 Years / Bottle Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988103031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-33.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Bottle Green / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988103031)
+  - [12/13 Years / Bottle Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988135799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-33.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Bottle Green / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988135799)
+  - [2/3 Years / Bottle Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988168567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-33.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Bottle Green / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988168567)
+  - [4/5 Years / Bottle Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988201335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-33.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Bottle Green / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988201335)
+  - [6/7 Years / Bottle Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988234103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-33.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Bottle Green / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988234103)
+  - [8/9 Years / Bottle Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988266871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-33.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Green / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988463479)
+  - [10/11 Years / Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988299639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-67.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Green / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988299639)
+  - [12/13 Years / Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988332407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-67.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Green / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988332407)
+  - [2/3 Years / Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988365175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-67.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Green / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988365175)
+  - [4/5 Years / Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988397943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-67.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Green / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988397943)
+  - [6/7 Years / Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988430711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-67.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Green / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988430711)
+  - [8/9 Years / Green](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988463479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-67.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Navy / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988660087)
+  - [10/11 Years / Navy](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988496247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-04.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Navy / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988496247)
+  - [12/13 Years / Navy](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988529015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-04.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Navy / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988529015)
+  - [2/3 Years / Navy](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988561783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-04.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Navy / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988561783)
+  - [4/5 Years / Navy](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988594551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-04.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Navy / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988594551)
+  - [6/7 Years / Navy](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988627319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-04.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Navy / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988627319)
+  - [8/9 Years / Navy](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988660087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-04.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Red / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988856695)
+  - [10/11 Years / Red](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988692855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-05.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Red / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988692855)
+  - [12/13 Years / Red](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988725623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-05.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Red / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988725623)
+  - [2/3 Years / Red](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988758391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-05.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Red / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988758391)
+  - [4/5 Years / Red](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988791159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-05.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Red / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988791159)
+  - [6/7 Years / Red](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988823927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-05.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Red / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988823927)
+  - [8/9 Years / Red](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988856695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-05.jpg?v=1767802926
     Price: £27.00 GBP
-  - [Sport Grey / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989053303)
+  - [10/11 Years / Sport Grey](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988889463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-21.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Sport Grey / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988889463)
+  - [12/13 Years / Sport Grey](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988922231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-21.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Sport Grey / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988922231)
+  - [2/3 Years / Sport Grey](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988954999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-21.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Sport Grey / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988954999)
+  - [4/5 Years / Sport Grey](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988987767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-21.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Sport Grey / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480988987767)
+  - [6/7 Years / Sport Grey](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989020535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-21.jpg?v=1767802927
     Price: £27.00 GBP
-  - [Sport Grey / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989020535)
+  - [8/9 Years / Sport Grey](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989053303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-21.jpg?v=1767802927
     Price: £27.00 GBP
-  - [White / 8/9 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989249911)
+  - [10/11 Years / White](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989086071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Price: £27.00 GBP
+  - [12/13 Years / White](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989118839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Price: £27.00 GBP
+  - [2/3 Years / White](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989151607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Price: £27.00 GBP
+  - [4/5 Years / White](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989184375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Price: £27.00 GBP
+  - [6/7 Years / White](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989217143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Price: £27.00 GBP
+  - [8/9 Years / White](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989249911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
     Price: £14.00 GBP
-  - [White / 10/11 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989086071)
+  - [10/11 Years / Yellow](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989282679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
-  - [White / 12/13 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989118839)
+  - [12/13 Years / Yellow](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989315447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
-  - [White / 2/3 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989151607)
+  - [2/3 Years / Yellow](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989348215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
-  - [White / 4/5 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989184375)
+  - [4/5 Years / Yellow](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989380983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
-  - [White / 6/7 Years](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989217143)
+  - [6/7 Years / Yellow](https://comfyheadbands.com/products/fairtrade-organic-kids-zipped-hoodie?variant=56480989413751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-01.jpg?v=1767802926
+    Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
 - [Fairtrade Organic Kids Hoodie](https://comfyheadbands.com/products/fairtrade-organic-kids-hoodie): Heavyweight hooded sweatshirt with kangaroo pocket at front and double lined hood with adjustable flat strings. Featuring inside neck tape, double-layered elastane rib at cuffs and waistband. Made from ringspun 300gsm combed cotton and has a soft brushed inside.\n100% ORGANIC FAIRTRADE COTTON
-  Updated: 2026-01-11T21:04:47Z
+  Updated: 2026-01-13T12:33:28Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -1392,22 +1172,22 @@
 ## Collections
 
 - [Home page](https://comfyheadbands.com/collections/frontpage)
-  Updated: 2026-01-11T21:04:43Z
+  Updated: 2026-01-13T13:25:23Z
   Total Products: 5
 - [Kids Over-Ear Headbands - Nordic Comfort for Active Children | Comfy Headbands](https://comfyheadbands.com/collections/headbands): Discover why Norwegian families love our comfy over-ear headbands for kids. Perfect for cold weather, active play & outdoor adventures. Soft, warm & stays put!
-  Updated: 2026-01-11T21:04:43Z
+  Updated: 2026-01-13T13:25:23Z
   Total Products: 5
 - [APPPlaza - Best Sellers](https://comfyheadbands.com/collections/appplaza-best-sellers)
-  Updated: 2026-01-10T12:44:53Z
+  Updated: 2026-01-13T13:25:23Z
   Total Products: 23
 - [Thermal Wear for Kids – Outdoor Base Layers & Accessories | Comfy Headbands](https://comfyheadbands.com/collections/thermal-wear): Keep kids warm during outdoor play with our thermal wear collection. Quality base layers, changing robes & accessories designed for active children.
-  Updated: 2026-01-11T21:04:43Z
+  Updated: 2026-01-13T13:25:22Z
   Total Products: 6
 - [Kids Clothing – Durable Outdoor Wear for Active Children | Comfy Headbands](https://comfyheadbands.com/collections/kids-clothing): Quality kids clothing designed for outdoor play. Durable, comfortable pieces that keep active children warm and ready for adventure.
   Updated: 2026-01-11T21:04:43Z
   Total Products: 7
 - [Football Sleeves for Shin Pads – Kids Football Gear | Comfy Headbands](https://comfyheadbands.com/collections/football-sleeves): Football sleeves that keep shin pads secure during matches and training. Comfortable, durable hold for young players who play hard.
-  Updated: 2026-01-11T21:04:43Z
+  Updated: 2026-01-13T13:25:21Z
   Total Products: 4
 
 ## Blogs
@@ -1422,7 +1202,13 @@
     Author: Faye Soberg
     Tags: brand story, our mission, scandinavian inspiration, welcome, why headbands
   - [Headbands vs Beanies: Which Works Best for Active Kids](https://comfyheadbands.com/blogs/active-blog/headbands-vs-beanies-active-kids)
-    Updated: 2026-01-12T04:21:05Z
+    Updated: 2026-01-15T03:26:49Z
+    Author: Faye Soberg
+  - [Why Does My Child's Headband Keep Slipping Off?](https://comfyheadbands.com/blogs/active-blog/child-headband-keep-slipping-off)
+    Updated: 2026-01-19T05:26:43Z
+    Author: Faye Soberg
+  - [Winter Headgear Checklist for Active Children](https://comfyheadbands.com/blogs/active-blog/winter-headgear-checklist-active-children)
+    Updated: 2026-01-19T05:27:43Z
     Author: Faye Soberg
 
 ## Store Pages
