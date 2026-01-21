@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2026-01-12T00:00:40.157Z
+- Updated At: 2026-01-21T00:00:41.571Z
 
 ## Products
 
@@ -612,7 +612,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_b575d30e-03ec-41d6-9b6c-77e58fed0a9a.jpg?v=1722579140
   Price: £29.99 GBP
 - [James Tissot In the Conservatory, 1878 Canvas Tote Bag with Zip](https://andcici.com/products/james-tissot-in-the-conservatory-1878-canvas-tote-bag-with-zip): James Tissot French Oil Painter, Illustrator "In the Conservatory, 1878" Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: "In the Conservatory" showcases a serene and intimate moment between a well-dressed couple seated in a lush conservatory. The conservatory is filled with vibrant greenery, which contrasts beautifully with the elegant attire of the figures. Tissot’s attention to detail is evident in the intricate patterns of the woman’s dress, the textures of the plants, and the subtle expressions on the faces of the subjects. The painting explores themes of romance, leisure, and the genteel life of the upper classes during the Victorian era. The setting—a conservatory, a luxurious space often associated with affluence—emphasizes the exclusivity and refinement of the couple’s world. Painted during a period of burgeoning interest in domestic interiors and leisure activities among the European upper classes, this artwork reflects the cultural and social values of the time. Tissot, who had moved to London after the Franco-Prussian War, was influenced by the British appreciation for detailed narrative painting, which is evident in this work. About the bag: Dimensions: 36cm x 36cm x 10cm Thick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered. Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-03-22T17:37:33Z
+  Updated: 2026-01-13T03:59:22Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
@@ -1163,7 +1163,7 @@
 ## Collections
 
 - [Home page](https://andcici.com/collections/frontpage)
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2026-01-17T12:15:43Z
   Total Products: 13
 - [Alphonse Mucha](https://andcici.com/collections/alphonse-mucha): Alfons Maria Mucha known internationally as Alphonse Mucha, was a Czech painter, illustrator, and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, as well as designs, which became among the best-known images of the period.
   Updated: 2026-01-10T12:17:22Z
@@ -1172,37 +1172,37 @@
   Updated: 2025-12-06T12:18:19Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
-  Updated: 2025-12-31T12:16:44Z
+  Updated: 2026-01-17T12:15:43Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2026-01-10T12:17:22Z
+  Updated: 2026-01-20T12:18:52Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2026-01-17T12:15:43Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
   Updated: 2025-12-31T12:16:44Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
-  Updated: 2025-12-15T12:24:20Z
+  Updated: 2026-01-17T12:15:43Z
   Total Products: 12
 - [William Morris](https://andcici.com/collections/william-morris): William Morris was a British textile artist, writer, and designer who was a major leader in the Arts and Crafts Movement of the 19th century. He revolutionized the decorative arts with his intricate designs and notable use of color and pattern. His works included stained glass, wallpaper, furniture, and fabric, and his influence can still be seen today in many modern designs. His passion for craftsmanship and commitment to beauty remain an inspiration to artisans and designers everywhere.
-  Updated: 2025-12-25T12:11:05Z
+  Updated: 2026-01-17T12:15:43Z
   Total Products: 6
 - [Van Gogh](https://andcici.com/collections/van-gogh): Vincent Willem Van Gogh (30 March 1853 - 29 July 1890) was a Dutch Post-impressionist painter born in North Brabant, Netherlands. He was an influential Post-Impressionist painter who is still widely regarded as one of the most important figures in the history of art. After his passing, he became one of the most famous & influential figures in Western Art History. In a decade, he created about 2,100 artworks, including Starry Night, The Potato Eaters and Sunflowers
-  Updated: 2026-01-10T12:17:22Z
+  Updated: 2026-01-20T12:18:52Z
   Total Products: 28
 - [Johannes Vermeer](https://andcici.com/collections/johannes-vermeer): Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age, famous for his intimate household scenes with amazing light. In other paintings by Vermeer, such as the famous Girl with a Pearl Earring and View of Delft, he managed to create a calm, almost timeless atmosphere.
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2026-01-10T12:17:22Z
+  Updated: 2026-01-20T12:18:52Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2026-01-10T12:17:22Z
+  Updated: 2026-01-20T12:18:52Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2026-01-10T12:17:22Z
+  Updated: 2026-01-17T12:15:43Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-12-06T12:18:19Z
