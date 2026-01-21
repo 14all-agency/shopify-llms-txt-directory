@@ -6,34 +6,34 @@
 - Timezone: America/New_York
 - Created At: 2025-09-06T00:34:56Z
 - Contact Email: jahnzayscloset@gmail.com
-- Updated At: 2026-01-13T06:16:21.990Z
+- Updated At: 2026-01-21T00:00:27.181Z
 
 Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, personalized apparel, custom tumblers, and event items. We create made-to-order designs for birthdays, celebrations, small businesses, schools, and special moments. Our products include custom t-shirts, tumblers, party decor, and personalized gifts with local pickup and shipping available.
 
 ## Products
 
-- [Rep Your Flag 20oz Tumblers | Custom Sublimation Flag Tumblers with Name](https://jahnzayscloset.com/products/rep-your-flag-20oz-sublimation-tumbler-personalized-name): Celebrate your heritage with the Rep Your Flag 20oz Sublimation Tumbler. Featuring durable, vibrant sublimation printing, this tumbler offers full-wrap glossy coverage of Caribbean flags, ensuring your design stands out. Double-walled insulation maintains cold drinks for up to 12 hours and hot beverages for up to 6 hours, enhancing everyday use. Personalize it with your name for a unique touch. Easy to care for with recommended hand washing, this tumbler is ideal for cultural festivals, daily hydration, or thoughtful gifting. Show your pride with a stylish, functional accessory you’ll treasure.
-  Updated: 2025-10-08T04:08:59Z
+- [Rep Your Flag 20oz Tumblers | Custom Caribbean Flag Tumblers with Name - Jah & Zay's Closet](https://jahnzayscloset.com/products/rep-your-flag-20oz-sublimation-tumbler-personalized-name): Celebrate your heritage with personalized 20oz Caribbean flag tumblers. Double-walled insulation keeps drinks cold 12hrs, hot 6hrs. Custom sublimation printing with your name.
+  Updated: 2026-01-14T17:10:11Z
   Vendor: Jah & Zay's Closet
   Product Type: Drinkware
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/9A040A11-F623-4E21-9A8D-595E00E9BEDE.jpg?v=1757554116
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/37A6DAF0-DA14-4813-B25F-9D24ED9EDE7D.jpg?v=1768365326
   Price: $24.00 USD
-- [Custom Keepsake Pillows | Personalized Photo Pillows with Name](https://jahnzayscloset.com/products/custom-keepsake-pillows-add-your-photos-name): Soft. Stylish. Personalized. Elevate your home décor with our 16” × 16” custom cotton pillows — perfect for adding comfort and personality to any space. Choose your favorite design, add a name or special message, and we’ll handcraft a pillow that’s both cozy and one-of-a-kind. Details: • Size: 16” × 16” • Filling: 100% soft cotton • Cover: Premium, durable fabric • Fully customizable — add your name, logo, or design • Ideal for gifts, home styling, or special events How to Order:1. Select product2. Email your photo(s) and personalization details to jahnzayscloset@gmail.com3. Approve your design proof before printing 💡 Perfect for graduations, memorials, birthdays, and special milestones!
-  Updated: 2025-10-12T23:58:12Z
+- [Custom Keepsake Pillows | Personalized Photo Pillows with Name - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-keepsake-pillows-add-your-photos-name): Create a one-of-a-kind 16x16 custom photo pillow with your favorite memories. Soft cotton filling, premium fabric. Perfect for graduations, memorials & special milestones.
+  Updated: 2026-01-19T13:38:53Z
   Vendor: Jah & Zay’s Closet
   Product Type: Pillow
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/FullSizeRender.jpg?v=1757277414
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/custom-graduation-photo-pillow-turner-high-school.png?v=1768829830
   - [One-Sided Design](https://jahnzayscloset.com/products/custom-keepsake-pillows-add-your-photos-name?variant=50340148576541)
     Availability: Available
     Price: $36.00 USD
   - [Double Sided Design](https://jahnzayscloset.com/products/custom-keepsake-pillows-add-your-photos-name?variant=50340148609309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/3B274664-CBCB-4D53-BD27-87FDA5ADB73E.jpg?v=1757266275
+    Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/Custom_Graduation_Photo_Pillow_Personalized_Keepsake_Gift.jpg?v=1768829932
     Price: $52.00 USD
-- [Custom Sublimation Tumblers | Personalized Full-Color Drinkware](https://jahnzayscloset.com/products/custom-sublimation-tumblers): Personalized sublimation tumblers perfect for gifts, events, and everyday use. Includes one design and name customization. Upgrade with photo collages for a truly custom look Email all pictures name etc. or inspo pic to jahnzayscloset.com
-  Updated: 2025-12-29T06:39:25Z
+- [Custom Sublimation Tumblers | Personalized Full-Color Drinkware - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-sublimation-tumblers): Personalized sublimation tumblers with vibrant full-color designs and name customization. Perfect for gifts, events, and everyday use. Photo collage upgrades available.
+  Updated: 2026-01-14T17:33:55Z
   Vendor: Jah & Zay’s Closet
   Product Type: Drinkware
   Availability: Available
@@ -45,8 +45,8 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/AE2E9591-D6E6-4A51-9C42-45199EE55B44.jpg?v=1757554287
     Price: $24.00 USD
-- [Custom Candy & Favor Cards | Personalized Party Cards – Any Theme](https://jahnzayscloset.com/products/custom-candy-favor-cards-kids): Make every celebration extra sweet! 🎉 These personalized cards are perfect for birthdays, holidays, graduations, and more. Each card includes: Custom name printed on the design ✍🏽 Assorted candy 🍬 Small favors like bubbles, mini coloring books, stickers, sunglasses, etc. 🎁 Bright, fun kid-friendly themes 🌈
-  Updated: 2025-10-08T04:08:59Z
+- [Custom Candy & Favor Cards | Personalized Party Cards for Kids](https://jahnzayscloset.com/products/custom-candy-favor-cards-kids): Personalized party favor cards with custom names, assorted candy & fun favors. Perfect for birthdays, holidays & graduations. Bright kid-friendly themes available.
+  Updated: 2026-01-14T03:23:58Z
   Vendor: Jah & Zay’s Closet
   Product Type: Gifts
   Availability: Available
@@ -57,35 +57,35 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [11” x 14”](https://jahnzayscloset.com/products/custom-candy-favor-cards-kids?variant=50332307620125)
     Availability: Not Available
     Price: $24.00 USD
-- [Custom Party Favors | Personalized Treat Bundles for Birthdays & Events](https://jahnzayscloset.com/products/untitled-sep9_03-36): Make your celebration unforgettable! Our custom party favor packages are fully personalized to match your theme, colors, and style. Each package includes high-quality snacks with custom labels and designs — perfect for birthdays, baby showers, graduations, and more! ✨ Customization Included in price 🎨 Any Theme 📦 12 treats per item picked
-  Updated: 2026-01-12T17:45:24Z
+- [Custom Party Favors | Personalized Treat Bundles for Birthdays](https://jahnzayscloset.com/products/custom-party-favors): Personalized party favor packages with custom labels & designs. 12 treats per bundle. Perfect for birthdays, baby showers & graduations. Any theme available.
+  Updated: 2026-01-15T21:36:01Z
   Vendor: Jah & Zay’s Closet
   Product Type: Party favors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/CC0ADDD1-0089-4EB1-A5A9-7BF9659287B3.jpg?v=1757413418
-  - [2 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879725341)
+  - [2 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879725341)
     Availability: Available
     Price: $96.00 USD
-  - [3 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879758109)
+  - [3 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879758109)
     Availability: Available
     Price: $144.00 USD
-  - [4 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879790877)
+  - [4 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879790877)
     Availability: Available
     Price: $192.00 USD
-  - [5 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879823645)
+  - [5 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879823645)
     Availability: Available
     Price: $240.00 USD
-  - [6 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879856413)
+  - [6 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879856413)
     Availability: Available
     Price: $288.00 USD
-  - [7 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879889181)
+  - [7 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879889181)
     Availability: Available
     Price: $336.00 USD
-  - [8 Dozen](https://jahnzayscloset.com/products/untitled-sep9_03-36?variant=50335879921949)
+  - [8 Dozen](https://jahnzayscloset.com/products/custom-party-favors?variant=50335879921949)
     Availability: Available
     Price: $384.00 USD
-- [Digital Gift Cards – Jah & Zay’s Closet | Perfect Last-Minute Gift](https://jahnzayscloset.com/products/untitled-sep9_05-52): Give the Perfect Gift! 🎁 Shopping for someone but not sure what to choose? A Jah & Zay’s Closet Digital Gift Card is the perfect solution! Redeemable online or in-store, these gift cards can be used toward custom apparel, party décor, rentals, tumblers, and so much more. Details: Available in multiple denominations Delivered instantly via email No expiration date Can be redeemed at jahnzayscloset.com
-  Updated: 2025-10-08T04:09:00Z
+- [Digital Gift Cards | Jah & Zay's Closet - Perfect Last-Minute Gift](https://jahnzayscloset.com/products/untitled-sep9_05-52): Instant digital gift cards for custom apparel, party décor, rentals & more. Delivered via email. No expiration. Perfect for any occasion.
+  Updated: 2026-01-14T17:39:34Z
   Vendor: Jah & Zay’s Closet
   Product Type: Gift Card
   Availability: Available
@@ -105,8 +105,8 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [$200.00](https://jahnzayscloset.com/products/untitled-sep9_05-52?variant=50336089538845)
     Availability: Available
     Price: $200.00 USD
-- [Custom Styrofoam Cups | Personalized Party Cups – Bulk & Event Ready](https://jahnzayscloset.com/products/custom-styrofoam-cups): Make your event unforgettable with our custom printed styrofoam cups! Sizes: 12oz & 16oz Quantities: 25, 50, 100 Includes one flat design fee (we’ll create the artwork for you, or contact us if you have your own design) Perfect for weddings, birthdays, showers, business events & more Durable, high-quality styrofoam
-  Updated: 2025-10-08T04:09:00Z
+- [Custom Styrofoam Cups | Personalized Party Cups - Bulk & Event Ready](https://jahnzayscloset.com/products/custom-styrofoam-cups): Custom printed styrofoam cups in 12oz & 16oz. Bulk quantities: 25, 50, 100. Perfect for weddings, birthdays & events. Design included.
+  Updated: 2026-01-14T13:58:39Z
   Vendor: Jah & Zay’s Closet
   Product Type: Drinkware
   Availability: Available
@@ -129,11 +129,12 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [16oz / 100](https://jahnzayscloset.com/products/custom-styrofoam-cups?variant=50336563036445)
     Availability: Available
     Price: $220.00 USD
-- [Custom DTF Kids T-Shirts – High-Quality Full-Color Prints | Infant to Youth XL](https://jahnzayscloset.com/products/custom-dtf-kids-t-shirts-high-quality-full-color-prints-infant-to-youth-xl): Shop custom DTF kids' T-shirts with vibrant prints on any shirt color. Sizes infant to youth XL.
-  Updated: 2026-01-12T23:32:09Z
+- [Custom DTF Kids T-Shirts | High-Quality Full-Color Prints | Infant to Youth XL](https://jahnzayscloset.com/products/custom-dtf-kids-t-shirts-high-quality-full-color-prints-infant-to-youth-xl): Custom DTF kids' T-shirts with vibrant prints on any shirt color. Sizes infant to youth XL. Perfect for birthdays, events & personalized kids apparel.
+  Updated: 2026-01-19T05:57:57Z
   Vendor: Jah & Zay’s Closet
   Product Type: Apparel
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/E07989E9-BA7B-453A-B24B-EED18406B192.jpg?v=1768759071
   - [Infant/Toddler / Center Front Only](https://jahnzayscloset.com/products/custom-dtf-kids-t-shirts-high-quality-full-color-prints-infant-to-youth-xl?variant=50341484658973)
     Availability: Available
     Price: $14.40 USD
@@ -188,8 +189,8 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [Youth XL / Center Front + Full Back](https://jahnzayscloset.com/products/custom-dtf-kids-t-shirts-high-quality-full-color-prints-infant-to-youth-xl?variant=50829069517085)
     Availability: Available
     Price: $24.80 USD
-- [Personalized Lighters | Custom Printed Lighters for Gifts & Event Favors](https://jahnzayscloset.com/products/custom-personalized-lighters-unique-gifts-event-favors): Light up any occasion with our custom personalized lighters – perfect for parties, weddings, birthdays, and special events! Each lighter can be customized with your name, logo, photo, or theme to create a one-of-a-kind keepsake. High-quality lighters Full-color custom designs Perfect for gifts, party favors, and event giveaways Bulk and single orders available Fast turnaround and proof approval before printing Please provide your theme, colors, and personalization details when ordering. A proof will be sent to your email or Instagram for approval before production. Rush orders are available upon request.
-  Updated: 2025-12-04T07:24:15Z
+- [Personalized Lighters | Custom Printed Lighters for Gifts & Events - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-personalized-lighters-unique-gifts-event-favors): Custom lighters with your name, logo or photo. Perfect for parties, weddings & events. Full-color designs. Bulk orders available. Fast turnaround.
+  Updated: 2026-01-14T03:17:39Z
   Vendor: Jah & Zay’s Closet
   Product Type: Party favors
   Availability: Available
@@ -206,12 +207,12 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [24 lighters](https://jahnzayscloset.com/products/custom-personalized-lighters-unique-gifts-event-favors?variant=50343278674205)
     Availability: Available
     Price: $84.00 USD
-- [Custom Birthday Party Box | Themed Party Supplies & Decorations – Any Theme](https://jahnzayscloset.com/products/custom-birthday-snack-favor-box-any-theme): Make any celebration extra special with a customized birthday snack & party favor box! Each package is fully personalized with your child’s name, age, and theme of choice. Perfect for birthdays, daycare parties, school celebrations, or keepsake gift boxes. 🎨 Customization: Please enter Name, age, theme/character (ex: Gracie’s Corner, Cocomelon, Carnival, etc.) of your choice in the personalization box 🖍 Optional Add-On: Coloring Book or tumbler ✨ What’s Included: 1 Custom Rice Krispies Treat (treat included) 1 Custom Chip Bag filled (chips included) 1 Custom Hershey’s Bar wrapper (candy included) 1 Custom Juice Pouch label (Capri Sun included) Themed/Similiar party favors inside each box With this package, you choose the theme from popular characters to unique designs and we bring it to life!
-  Updated: 2025-10-08T04:09:00Z
+- [Custom Birthday Party Box | Themed Party Supplies & Decorations - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-birthday-snack-favor-box-any-theme): Complete custom birthday party box with themed supplies & decorations. Fully personalized to match any theme, colors & style. Perfect for memorable celebrations.
+  Updated: 2026-01-15T00:46:37Z
   Vendor: Jah & Zay’s Closet
   Product Type: Gifts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/D6B3C497-327B-4B9E-89C6-754DDA19EE14.png?v=1757817161
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/IMG-2082.png?v=1768359369
   - [Standard Box](https://jahnzayscloset.com/products/custom-birthday-snack-favor-box-any-theme?variant=50345008562461)
     Availability: Available
     Price: $32.00 USD
@@ -224,44 +225,45 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [Box + Coloring Book + Tumbler](https://jahnzayscloset.com/products/custom-birthday-snack-favor-box-any-theme?variant=50345111585053)
     Availability: Available
     Price: $52.80 USD
-- [Balloon Columns](https://jahnzayscloset.com/products/untitled-sep27_07-59): 🎈 Make a bold statement with our custom balloon columns — perfect for birthdays, graduations, baby showers, sports parties, grand openings, and more! What’s Included: • 1 balloon column (approximately 6–7 ft tall) • Choice of up to 2 colors to match your event theme • Topper options: jumbo latex balloon, foil balloon (numbers or themed), or custom print • Columns may be purchased individually or as a pair (add 2 to your cart for both sides of an entrance or setup) 💡 Styles Available: – Classic Spiral (multi-color twist) – Organic – Solid Stacked – Themed (birthday, baby shower, sports, etc.) 📍 Pickup, Delivery & Setup Policy: Price listed is for pickup only. Delivery and on-site setup are available for an additional fee and are not included in the listed price. Delivery and setup fees are determined by the event location. Delivery and installation available in Broward County and surrounding areas. 👉 Please contact us before or after placing your order to receive a delivery and setup quote.
-  Updated: 2026-01-13T04:59:30Z
+- [Balloon Columns | Custom Stacked Balloon Decorations for Events](https://jahnzayscloset.com/products/balloon-columns): Stunning custom balloon columns perfect for parties, events & celebrations. Available in any color scheme. Professional setup included. Make your event unforgettable.
+  Updated: 2026-01-16T09:10:24Z
   Vendor: Jah & Zay’s Closet
-  Product Type: 
+  Product Type: Balloon Decor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/Black_Gold_Stacked_Balloon_Column_with_Number_Topper.png?v=1768280370
-  - [Jumbo Latex / Classic Spiral](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400709771549)
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/IMG-2113.png?v=1768510464
+  - [Jumbo Latex / Classic Spiral](https://jahnzayscloset.com/products/balloon-columns?variant=50400709771549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/Balloon_Column_corporate_party.jpg?v=1768280370
-    Price: $80.00 USD
-  - [Foil Number/Letter / Classic Spiral](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400709804317)
+    Price: $50.00 USD
+  - [Foil Number/Letter / Classic Spiral](https://jahnzayscloset.com/products/balloon-columns?variant=50400709804317)
     Availability: Available
     Price: $84.00 USD
-  - [Themed Foil / Classic Spiral](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400709837085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/FullSizeRender_845160c2-637a-4fe5-8381-b565851ca7be.jpg?v=1768243378
-    Price: $90.00 USD
-  - [Jumbo Latex / Solid Stack](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400911982877)
-    Availability: Available
-    Price: $85.00 USD
-  - [Foil Number/Letter / Solid Stack](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400912048413)
+  - [Themed Foil / Classic Spiral](https://jahnzayscloset.com/products/balloon-columns?variant=50400709837085)
     Availability: Available
     Price: $90.00 USD
-  - [Foil Number/Letter / Organic](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400912081181)
+  - [Jumbo Latex / Solid Stack](https://jahnzayscloset.com/products/balloon-columns?variant=50400911982877)
+    Availability: Available
+    Price: $50.00 USD
+  - [Foil Number/Letter / Solid Stack](https://jahnzayscloset.com/products/balloon-columns?variant=50400912048413)
+    Availability: Available
+    Price: $90.00 USD
+  - [Foil Number/Letter / Organic](https://jahnzayscloset.com/products/balloon-columns?variant=50400912081181)
     Availability: Available
     Price: $100.00 USD
-  - [Themed Foil / Solid Stack](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400912113949)
+  - [Themed Foil / Solid Stack](https://jahnzayscloset.com/products/balloon-columns?variant=50400912113949)
     Availability: Available
     Price: $95.00 USD
-  - [Themed Foil / Organic](https://jahnzayscloset.com/products/untitled-sep27_07-59?variant=50400912146717)
+  - [Themed Foil / Organic](https://jahnzayscloset.com/products/balloon-columns?variant=50400912146717)
     Availability: Available
     Price: $105.00 USD
-- [Custom DTF  T-Shirts – High-Quality Full-Color Prints | S to 4XL](https://jahnzayscloset.com/products/custom-dtf--tshirts): Design your perfect shirt with our Custom DTF  T-Shirts! DTF (Direct-to-Film) printing delivers vibrant, long-lasting colors on any shirt color — perfect for detailed logos, gradients, photos, and bold designs. Ideal for personal wear, branding, events, or gifts. Material: 100% Cotton Best For: Complex graphics, vibrant logos, full-color prints, and designs on light or dark fabrics Available Sizes: XS to 4XL Shirt Colors: Choose your preferred color — enter it in the custom text box at checkout. Features: • Bright, high-resolution printing • Works on any shirt color • Soft, comfortable, and durable • Perfect for custom logos, parties, teams, and events Care Instructions: Turn inside out before washing. Machine wash cold. Tumble dry low. Do not iron directly on design.
-  Updated: 2026-01-12T20:59:52Z
+  - [2 Jumbo Latex / 2 Spiral](https://jahnzayscloset.com/products/balloon-columns?variant=50844010250525)
+    Availability: Available
+    Price: $90.00 USD
+- [Custom DTF  T-Shirts | High-Quality Full-Color Prints | S to 4XL](https://jahnzayscloset.com/products/custom-dtf--tshirts): Custom DTF  T-shirts with vibrant full-color prints on any shirt color. Sizes S to 4XL. Perfect for events, gifts & personalized apparel.
+  Updated: 2026-01-19T05:55:28Z
   Vendor: Jah & Zay’s Closet
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/94997C20-3F19-4E15-9BEF-2A78F1E6A18E.jpg?v=1768251592
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/Custom-birthday-crew-shirts.jpg?v=1768759168
   - [XS / Center Front Only](https://jahnzayscloset.com/products/custom-dtf--tshirts?variant=50829164216605)
     Availability: Available
     Price: $20.00 USD
@@ -334,46 +336,327 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
   - [4XL / Center Front + Full Back](https://jahnzayscloset.com/products/custom-dtf--tshirts?variant=50829164970269)
     Availability: Available
     Price: $32.80 USD
-- [Congrats Neon Sign (Rental)](https://jahnzayscloset.com/products/congrats-neon-sign)
-  Updated: 2026-01-13T04:23:33Z
+- [Congrats Neon Sign Rental | LED Event Décor for Graduations & Celebrations - Jah & Zay's Closet](https://jahnzayscloset.com/products/congrats-neon-sign): Rent our stunning Congrats LED neon sign for graduations, promotions & celebrations. 5-hour rental. Perfect photo backdrop. Delivery available in Broward County.
+  Updated: 2026-01-13T23:40:45Z
   Vendor: Jah & Zay’s Closet
   Product Type: Event Rental
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/F8E708C5-E6B0-48A3-8718-D7D5E6517ADC.jpg?v=1768275622
   Price: $28.00 USD
+- [Chiara Backdrop & Balloon Packages | Jah & Zay’s Closet](https://jahnzayscloset.com/products/chiara-backdrop-balloon-packages): Luxury Chiara backdrop and organic balloon decor packages for birthdays, baby showers, graduations, and events in South Florida.
+  Updated: 2026-01-14T07:04:45Z
+  Vendor: Jah & Zay’s Closet
+  Product Type: Balloon Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/A7F4A8C0-D1DA-4ACC-9AFA-A987725462F8.jpg?v=1768275622
+  - [Essential – 6.6ft Chiara](https://jahnzayscloset.com/products/chiara-backdrop-balloon-packages?variant=50832270852381)
+    Availability: Available
+    Price: $180.00 USD
+  - [Signature – 7.2ft Chiara](https://jahnzayscloset.com/products/chiara-backdrop-balloon-packages?variant=50832270885149)
+    Availability: Available
+    Price: $236.00 USD
+  - [Luxe – 7.2ft + 6.6ft Chiara](https://jahnzayscloset.com/products/chiara-backdrop-balloon-packages?variant=50832270917917)
+    Availability: Available
+    Price: $316.00 USD
+- [Valentine’s Day & Birthday Hotel Room Decoration Setup in Broward County | Jah & Zay’s Closet](https://jahnzayscloset.com/products/hotel-room-decor-setup): Book a hotel room decoration setup for Valentine’s Day or birthdays in Broward County (33068). Balloon-only, balloons + roses, or full luxury decor. Decor setup only.
+  Updated: 2026-01-14T07:52:48Z
+  Vendor: Jah & Zay’s Closet
+  Product Type: Hotel Room Decor Setup
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/0E61A2EE-556E-436C-BADA-A372F3C7D9B2.jpg?v=1768347420
+  - [Be Mine](https://jahnzayscloset.com/products/hotel-room-decor-setup?variant=50832532275485)
+    Availability: Available
+    Price: $239.00 USD
+  - [I love you](https://jahnzayscloset.com/products/hotel-room-decor-setup?variant=50832532767005)
+    Availability: Available
+    Price: $319.00 USD
+  - [Head Over Hills](https://jahnzayscloset.com/products/hotel-room-decor-setup?variant=50832534569245)
+    Availability: Available
+    Price: $479.00 USD
+- [Custom Sublimation Kids T-Shirts | Full-Color Prints Infant to Youth XL - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts): Custom sublimation kids t-shirts with vibrant full-color prints that never fade. 100% polyester. Perfect for birthdays, school events & team wear. Infant-Youth XL.
+  Updated: 2026-01-20T12:15:52Z
+  Vendor: Jah & Zay’s Closet
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/Personalized_Birthday_Shirt_Tropical_Princess-Inspired_Custom_Design.jpg?v=1768832948
+  - [Infant/Toddler / Center Front Only](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570182941)
+    Availability: Available
+    Price: $16.00 USD
+  - [Infant/Toddler / Center Front + Small Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570215709)
+    Availability: Available
+    Price: $21.00 USD
+  - [Infant/Toddler / Center Front + Full Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570248477)
+    Availability: Available
+    Price: $24.00 USD
+  - [Youth XS / Center Front Only](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570281245)
+    Availability: Available
+    Price: $19.00 USD
+  - [Youth XS / Center Front + Small Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570314013)
+    Availability: Available
+    Price: $24.00 USD
+  - [Youth XS / Center Front + Full Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570346781)
+    Availability: Available
+    Price: $27.00 USD
+  - [Youth S / Center Front Only](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570379549)
+    Availability: Available
+    Price: $19.00 USD
+  - [Youth S / Center Front + Small Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570412317)
+    Availability: Available
+    Price: $24.00 USD
+  - [Youth S / Center Front + Full Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570445085)
+    Availability: Available
+    Price: $27.00 USD
+  - [Youth M / Center Front Only](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570477853)
+    Availability: Available
+    Price: $19.00 USD
+  - [Youth M / Center Front + Small Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570510621)
+    Availability: Available
+    Price: $24.00 USD
+  - [Youth M / Center Front + Full Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570543389)
+    Availability: Available
+    Price: $27.00 USD
+  - [Youth L / Center Front Only](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570576157)
+    Availability: Available
+    Price: $19.00 USD
+  - [Youth L / Center Front + Small Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570608925)
+    Availability: Available
+    Price: $24.00 USD
+  - [Youth L / Center Front + Full Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570641693)
+    Availability: Available
+    Price: $27.00 USD
+  - [Youth XL / Center Front Only](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570674461)
+    Availability: Available
+    Price: $19.00 USD
+  - [Youth XL / Center Front + Small Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570707229)
+    Availability: Available
+    Price: $24.00 USD
+  - [Youth XL / Center Front + Full Back](https://jahnzayscloset.com/products/custom-sublimation-kids-shirts?variant=50834570739997)
+    Availability: Available
+    Price: $27.00 USD
+- [Custom Sublimation T-Shirts Adults | Full-Color Prints XS-4XL - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-sublimation--shirts): Vibrant custom sublimation  t-shirts with full-color prints. 100% polyester, no cracking or peeling. Perfect for photos, logos & detailed designs. XS-4XL.
+  Updated: 2026-01-18T17:52:57Z
+  Vendor: Jah & Zay’s Closet
+  Product Type:  Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/CE0C9E7F-36DE-447A-B2DD-397C77EFC116.jpg?v=1768360634
+  - [XS / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834591842589)
+    Availability: Available
+    Price: $23.00 USD
+  - [XS / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834591875357)
+    Availability: Available
+    Price: $30.00 USD
+  - [XS / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834591908125)
+    Availability: Available
+    Price: $33.00 USD
+  - [S / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834591940893)
+    Availability: Available
+    Price: $23.00 USD
+  - [S / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834591973661)
+    Availability: Available
+    Price: $30.00 USD
+  - [S / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592006429)
+    Availability: Available
+    Price: $33.00 USD
+  - [M / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592039197)
+    Availability: Available
+    Price: $23.00 USD
+  - [M / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592071965)
+    Availability: Available
+    Price: $30.00 USD
+  - [M / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592104733)
+    Availability: Available
+    Price: $33.00 USD
+  - [L / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592137501)
+    Availability: Available
+    Price: $23.00 USD
+  - [L / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592170269)
+    Availability: Available
+    Price: $30.00 USD
+  - [L / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592203037)
+    Availability: Available
+    Price: $33.00 USD
+  - [XL / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592235805)
+    Availability: Available
+    Price: $25.00 USD
+  - [XL / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592268573)
+    Availability: Available
+    Price: $32.00 USD
+  - [XL / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592301341)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592334109)
+    Availability: Available
+    Price: $25.00 USD
+  - [2XL / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592366877)
+    Availability: Available
+    Price: $32.00 USD
+  - [2XL / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592399645)
+    Availability: Available
+    Price: $35.00 USD
+  - [3XL / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592432413)
+    Availability: Available
+    Price: $27.00 USD
+  - [3XL / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592465181)
+    Availability: Available
+    Price: $36.00 USD
+  - [3XL / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592497949)
+    Availability: Available
+    Price: $39.00 USD
+  - [4XL / Front Only](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592530717)
+    Availability: Available
+    Price: $29.00 USD
+  - [4XL / Small Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592563485)
+    Availability: Available
+    Price: $36.00 USD
+  - [4XL / Full Back Design](https://jahnzayscloset.com/products/custom-sublimation--shirts?variant=50834592596253)
+    Availability: Available
+    Price: $39.00 USD
+- [Custom Vinyl Kids T-Shirts | HTV Heat Press Infant to Youth XL - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts): Personalized vinyl kids t-shirts with heat-pressed HTV designs. Infant/toddler to youth XL. Perfect for birthdays, school events & team shirts. Durable & vibrant.
+  Updated: 2026-01-19T15:31:38Z
+  Vendor: Jah & Zay’s Closet
+  Product Type: Kids Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/IMG-2474.jpg?v=1768793476
+  - [Infant/Toddler](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts?variant=50834595315997)
+    Availability: Available
+    Price: $18.00 USD
+  - [Youth XS](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts?variant=50834595348765)
+    Availability: Available
+    Price: $20.00 USD
+  - [Youth S](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts?variant=50834595381533)
+    Availability: Available
+    Price: $20.00 USD
+  - [Youth M](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts?variant=50834595414301)
+    Availability: Available
+    Price: $20.00 USD
+  - [Youth L](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts?variant=50834595447069)
+    Availability: Available
+    Price: $20.00 USD
+  - [Youth XL](https://jahnzayscloset.com/products/custom-vinyl-kids-shirts?variant=50834595479837)
+    Availability: Available
+    Price: $20.00 USD
+- [Custom Vinyl T-Shirts Adults | HTV Heat Press Designs XS-4XL - Jah & Zay's Closet](https://jahnzayscloset.com/products/custom-vinyl--shirts): Durable custom vinyl  t-shirts with hand-pressed HTV designs. Front, small back & full back options. Sizes XS-4XL. Perfect for events, teams & gifts.
+  Updated: 2026-01-19T13:51:23Z
+  Vendor: Jah & Zay’s Closet
+  Product Type:  Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/8091/3949/files/Funny_Birthday_Shirt_I_Am_39_Fine_Custom_Design.jpg?v=1768830570
+  - [XS / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629132573)
+    Availability: Available
+    Price: $24.00 USD
+  - [XS / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629165341)
+    Availability: Available
+    Price: $30.00 USD
+  - [XS / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629198109)
+    Availability: Available
+    Price: $34.00 USD
+  - [S / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629230877)
+    Availability: Available
+    Price: $24.00 USD
+  - [S / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629263645)
+    Availability: Available
+    Price: $30.00 USD
+  - [S / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629296413)
+    Availability: Available
+    Price: $34.00 USD
+  - [M / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629329181)
+    Availability: Available
+    Price: $24.00 USD
+  - [M / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629361949)
+    Availability: Available
+    Price: $30.00 USD
+  - [M / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629394717)
+    Availability: Available
+    Price: $34.00 USD
+  - [L / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629427485)
+    Availability: Available
+    Price: $24.00 USD
+  - [L / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629460253)
+    Availability: Available
+    Price: $30.00 USD
+  - [L / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629493021)
+    Availability: Available
+    Price: $34.00 USD
+  - [XL / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629525789)
+    Availability: Available
+    Price: $26.00 USD
+  - [XL / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629558557)
+    Availability: Available
+    Price: $32.00 USD
+  - [XL / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629591325)
+    Availability: Available
+    Price: $36.00 USD
+  - [2XL / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629624093)
+    Availability: Available
+    Price: $26.00 USD
+  - [2XL / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629656861)
+    Availability: Available
+    Price: $32.00 USD
+  - [2XL / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629689629)
+    Availability: Available
+    Price: $36.00 USD
+  - [3XL / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629722397)
+    Availability: Available
+    Price: $28.00 USD
+  - [3XL / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629755165)
+    Availability: Available
+    Price: $36.00 USD
+  - [3XL / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629787933)
+    Availability: Available
+    Price: $40.00 USD
+  - [4XL / Front Only](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629820701)
+    Availability: Available
+    Price: $30.00 USD
+  - [4XL / Front + Small Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629853469)
+    Availability: Available
+    Price: $38.00 USD
+  - [4XL / Front + Full Back](https://jahnzayscloset.com/products/custom-vinyl--shirts?variant=50834629886237)
+    Availability: Available
+    Price: $42.00 USD
+- [Custom Graduation Stoles with Photos | Full Coverage Sublimation - Jah & Zay's Closet](https://jahnzayscloset.com/products/premium-sublimation-graduation-stoles): Premium custom graduation stoles with full-coverage design & up to 3 photos. Personalized with name, year & school. Youth &  sizes. Bulk pricing available.
+  Updated: 2026-01-15T03:22:28Z
+  Vendor: Jah & Zay’s Closet
+  Product Type: Graduation Accessories
+  Availability: Available
+  - [Youth](https://jahnzayscloset.com/products/premium-sublimation-graduation-stoles?variant=50834648531229)
+    Availability: Available
+    Price: $33.60 USD
+  - [](https://jahnzayscloset.com/products/premium-sublimation-graduation-stoles?variant=50834648563997)
+    Availability: Available
+    Price: $43.20 USD
 
 ## Collections
 
-- [🎈 Event Rental & Party Décor](https://jahnzayscloset.com/collections/🎈-balloon-decor-backdrops): Transform any event into a stunning experience with our balloon garlands, custom backdrops, Chiara arches, and themed party setups. Whether it’s a birthday, baby shower, wedding, or corporate event, our décor brings color, creativity, and a polished look to your celebration. Choose from ready-to-style packages or let us design something fully custom to fit your vision.
-  Updated: 2026-01-13T04:23:34Z
-  Total Products: 2
-- [👕 Custom Apparel & Accessories](https://jahnzayscloset.com/collections/👕-custom-products): Stand out in style with our custom shirts and apparel for all ages. Available in sublimation, vinyl, or DTF prints, our shirts can be personalized with names, photos, logos, and themes. Perfect for birthdays, family events, business branding, and everyday wear — choose from kids’ and adults’ sizes to create your one-of-a-kind look.
-  Updated: 2026-01-13T03:48:26Z
+- [Event Rental & Party Décor | Balloon Garlands & Backdrops - Jah & Zay's Closet](https://jahnzayscloset.com/collections/🎈-balloon-decor-backdrops): Transform your event with custom balloon garlands, backdrops & themed party setups. Perfect for birthdays, baby showers & weddings in Miami & Broward.
+  Updated: 2026-01-15T20:56:25Z
+  Total Products: 4
+- [Custom Apparel & T-Shirts | Personalized Clothing for All Ages - Jah & Zay's Closet](https://jahnzayscloset.com/collections/👕-custom-products): Custom shirts with sublimation, vinyl & DTF prints. Personalized with names, photos & logos. Kids &  sizes. Perfect for birthdays & events.
+  Updated: 2026-01-15T21:36:33Z
   Total Products: 8
-- [🎉 Party Favors](https://jahnzayscloset.com/collections/🎉-party-rentals): Make every celebration unforgettable with our custom party favors and personalized gifts. From treat boxes and snack packs to custom gift bags and keepsakes, we design unique items that bring fun and style to birthdays, baby showers, weddings, and more. Perfect for kids and adults, our favors are tailored to match your theme and leave guests with lasting memories.
-  Updated: 2026-01-13T00:55:20Z
+- [Custom Party Favors & Personalized Gifts | Birthdays & Events - Jah & Zay's Closet](https://jahnzayscloset.com/collections/🎉-party-rentals): Unique custom party favors, treat boxes & personalized gifts for birthdays, baby showers & weddings. Tailored to match your theme & style.
+  Updated: 2026-01-13T23:40:43Z
   Total Products: 5
 - [Digital Goods VAT Tax](https://jahnzayscloset.com/collections/digital-goods-vat-tax)
   Updated: 2025-09-08T06:32:18Z
   Total Products: 0
-- [Gift Cards](https://jahnzayscloset.com/collections/gift-cards): Shop Jah & Zay’s Closet Digital Gift Card — the perfect choice for birthdays, celebrations, and special events. Redeemable online or in-store.
-  Updated: 2025-10-08T04:08:59Z
+- [Digital Gift Cards | Perfect Gift for Any Occasion - Jah & Zay's Closet](https://jahnzayscloset.com/collections/gift-cards): Instant digital gift cards for custom apparel, party décor & event rentals. Perfect last-minute gift for birthdays & celebrations. Never expires.
+  Updated: 2026-01-13T23:40:43Z
   Total Products: 1
-- [🥤 Custom Drinkware](https://jahnzayscloset.com/collections/tumblers-cups-drinkware): Sip in style with our custom tumblers, cups, and drinkware! Choose from 20oz skinny tumblers, kids tumblers, and reusable party cups — all available for full-color sublimation or personalized designs. Whether for daily use, parties, or as thoughtful gifts, our drinkware is both practical and stylish, keeping drinks hot or cold while showing off your unique design.
-  Updated: 2026-01-13T03:50:06Z
+- [Custom Tumblers & Drinkware | Personalized Sublimation Cups - Jah & Zay's Closet](https://jahnzayscloset.com/collections/tumblers-cups-drinkware): Custom tumblers with full-color sublimation & personalized designs. 20oz tumblers, kids cups & party drinkware. Perfect for gifts & daily use.
+  Updated: 2026-01-13T23:40:43Z
   Total Products: 3
-- [Holiday Specials 🎄 (Christmas, Thanksgiving, Valentine’s Day, etc](https://jahnzayscloset.com/collections/holiday-specials-🎄-christmas-thanksgiving-valentine-s-day-etc)
-  Updated: 2025-09-13T22:19:17Z
-  Total Products: 0
+- [Holiday & Appreciation Gifts | Custom Party Décor for All Occasions - Jah & Zay's Closet](https://jahnzayscloset.com/collections/holiday-specials-🎄-christmas-thanksgiving-valentine-s-day-etc): Shop custom holiday party supplies & appreciation gifts for Christmas, Valentine's Day, Teacher Appreciation, Nurse Week & more. Personalized décor & favors.
+  Updated: 2026-01-16T22:49:16Z
+  Total Products: 4
 
 ## Store Pages
 
 - [Contact](https://jahnzayscloset.com/pages/contact): We’d love to hear from you! Have questions about your order, need a custom design, or want to book us for your next event? We’re here to help! 📧 Em...
   Updated: 2025-09-07T13:49:02Z
-- [Your privacy choices](https://jahnzayscloset.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://jahnzayscloset.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-06T00:35:10Z
-- [FAQ](https://jahnzayscloset.com/pages/faq): A. General Questions Q: What services does Jah & Zay’s Closet offer? A: We provide custom apparel, event rentals, party décor, and complete event p...
-  Updated: 2025-09-16T03:02:35Z
+- [FAQ - Jah & Zay's Closet | Custom Products, Rentals & Event Services](https://jahnzayscloset.com/pages/faq): Frequently Asked QuestionsFind answers to common questions about our custom products, services, and policies. Can't find what you're looking for? C...
+  Updated: 2026-01-13T13:08:04Z
 - [Shipping, Delivery & Returns](https://jahnzayscloset.com/pages/shipping-delivery-returns): A. Shipping for Custom Products Processing Time: Orders for personalized items (tumblers, custom shirts, shot glasses, etc.)are processed within 4-...
   Updated: 2025-09-16T02:58:06Z
 
@@ -381,6 +664,12 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
 
 - [Privacy Policy](https://jahnzayscloset.com/policies/privacy-policy)
   Updated: 2025-09-05T20:35:11-04:00
+- [Refund Policy](https://jahnzayscloset.com/policies/refund-policy)
+  Updated: 2026-01-13T18:46:18-05:00
+- [Terms of Service](https://jahnzayscloset.com/policies/terms-of-service)
+  Updated: 2026-01-13T18:49:04-05:00
+- [Contact Information](https://jahnzayscloset.com/policies/contact-information)
+  Updated: 2026-01-13T18:49:35-05:00
 
 Website
 https://jahnzayscloset.com
