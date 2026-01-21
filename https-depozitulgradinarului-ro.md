@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2026-01-13T00:00:47.647Z
+- Updated At: 2026-01-21T00:00:50.192Z
 
 ## Products
 
@@ -674,208 +674,236 @@ Comanda acum de la Depozitul Gradinarului!
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-03-07at22.57.59.jpg?v=1741381285
   Price: 21,00 lei RON
 - [DANUBIO Donau Saat, KlimaFit, FAO 260, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/danubio-donau-saat-klimafit-fao-260-samanta-porumb-sac-50-000-boabe): DANUBIO, Donau Saat, FAO 260 – sămânță porumb talie foarte mare, vigoare excelentă, stay green, productivitate ridicată pentru boabe și siloz. (Sac 50 MB)
-  Updated: 2025-12-02T00:37:59Z
+  Updated: 2026-01-19T08:03:58Z
   Vendor: Donau Saat
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at14.30.13_2.jpg?v=1764592502
-  Price: 445,00 lei RON
+  Price: 545,00 lei RON
 - [P8567, FAO 275, Samanta Porumb Pioneer (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/p8567-fao-275-samanta-porumb-pioneer-sac-80-000-boabe): P8567 Pioneer, FAO 275, Samanta Porumb – hibrid timpuriu, foarte productiv, cu plasticitate ecologică excelentă, ideal pentru cultură dublă și soluri dificile. (Sac 80 MB)
-  Updated: 2025-12-02T02:03:58Z
+  Updated: 2026-01-19T08:03:22Z
   Vendor: PIONEER
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at15.47.46_7.jpg?v=1764597757
-  Price: 845,00 lei RON
+  Price: 945,00 lei RON
 - [SUPORTO Saaten Union, FAO 290, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/suporto-saaten-union-fao-290-samanta-porumb-sac-50-000-boabe): SUPORTO Saaten Union FAO 290 – sămânță de porumb timpuriu, cu talie mică-medie, potențial bun de producție și rezistență la principalele boli. (Sac 50 MB)
-  Updated: 2025-12-01T04:16:08Z
+  Updated: 2026-01-19T07:41:59Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_48aa57fa-dfdc-485d-a380-9bf40b3e410a.png?v=1739278435
-  Price: 450,00 lei RON
+  Price: 550,00 lei RON
 - [DKC 4391, FAO 300 - 340, Samanta Porumb Dekalb (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/dkc-4391-fao-300-340-samanta-porumb-dekalb-sac-80-000-boabe): DKC 4391, Dekalb, Samanta Porumb – hibrid porumb intensiv, productiv, stabil în toate mediile, pretabil la densități ridicate, cu pierdere rapidă a apei din boabe. (Sac 80 MB)
-  Updated: 2025-12-02T02:18:14Z
+  Updated: 2026-01-19T08:02:47Z
   Vendor: DEKALB
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at16.07.28_2.jpg?v=1764598604
-  Price: 805,00 lei RON
+  Price: 905,00 lei RON
 - [P9074, FAO 300, Samanta Porumb Pioneer (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/p9074-fao-300-samanta-porumb-pioneer-sac-80-000-boabe): P9074 Pioneer, FAO 300, Samanta Porumb – hibrid semi-timpuriu, foarte productiv, cu dry down excelent, ideal pe soluri dificile și pentru siloz sau cultură dublă. (Sac 80 MB)
-  Updated: 2025-12-02T02:02:15Z
+  Updated: 2026-01-19T08:02:29Z
   Vendor: DEKALB
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at15.47.46_6.jpg?v=1764597623
-  Price: 840,00 lei RON
+  Price: 940,00 lei RON
 - [SY TORINO Syngenta, FAO 300 – 340, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-torino-syngenta-fao-300-340-samanta-porumb-hibrid-timpuriu-sac-50-000-boabe): SY TORINO, Syngenta, FAO 300–340 – sămânță de porumb timpuriu, cu talie medie, start rapid în vegetație, pierdere rapidă a apei și producție ridicată. (Sac 50 MB)
-  Updated: 2025-12-01T04:03:49Z
+  Updated: 2026-01-19T08:02:15Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29_8.jpg?v=1764518574
-  Price: 619,00 lei RON
+  Price: 719,00 lei RON
 - [SY CHORINTOS Syngenta, FAO 300 – 340, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-chorintos-syngenta-fao-300-340-samanta-porumb-hibrid-timpuriu-sac-50-000-boabe): SY CHORINTOS, Syngenta, FAO 300–340 – sămânță de porumb timpuriu, cu talie înaltă, pierdere rapidă a apei din bob și toleranță ridicată la boli și cădere. (Sac 50 MB)
-  Updated: 2025-12-01T04:02:38Z
+  Updated: 2026-01-19T08:02:00Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29_7.jpg?v=1764518496
-  Price: 545,00 lei RON
+  Price: 645,00 lei RON
 - [SY SCORPIUS Syngenta, FAO 300–340, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-scorpius-syngenta-fao-300-340-samanta-porumb-hibrid-timpuriu-sac-50-000-boabe): SY SCORPIUS, Syngenta, FAO 300–340 – sămânță de porumb timpuriu, cu talie medie, start rapid în vegetație, producții stabile și toleranță la boli. (Sac 50 MB)
-  Updated: 2025-12-01T04:01:17Z
+  Updated: 2026-01-19T08:01:42Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29_6.jpg?v=1764518403
-  Price: 545,00 lei RON
+  Price: 645,00 lei RON
 - [P8834, FAO 310, Samanta Porumb Pioneer (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/p8834-fao-310-samanta-porumb-pioneer-sac-80-000-boabe): P8834 Pioneer, FAO 310, Samanta Porumb – hibrid productiv, tolerant la secetă și arșiță, cu stabilitate ridicată și recomandat pentru semănat timpuriu. (Sac 80 MB)
-  Updated: 2025-12-02T01:59:57Z
+  Updated: 2026-01-19T08:00:22Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at15.47.46_5.jpg?v=1764597530
-  Price: 965,00 lei RON
+  Price: 1.065,00 lei RON
+- [SPARTAN Saaten Union, FAO 320, Samanta porumb (sac 25.000 boabe)](https://depozitulgradinarului.ro/products/spartan-saaten-union-fao-320-samanta-porumb-sac-25-000-boabe): SPARTAN Saaten Union FAO 320 – sămânță de porumb cu talie medie-înaltă, producție ridicată, rezistentă la secetă, arșiță, cădere și boli. (Sac 25 MB)
+  Updated: 2026-01-19T08:00:06Z
+  Vendor: SAATEN UNION
+  Product Type: AGRO-Samanta Porumb
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_433d0a5e-3d32-4e58-a1bb-244f46c8c4b9.png?v=1739279978
+  Price: 370,00 lei RON
 - [SPARTAN Saaten Union, FAO 320, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/spartan-saaten-union-fao-320-samanta-porumb-sac-50-000-boabe): SPARTAN Saaten Union, FAO 320 – sămânță de porumb dentat, cu producție ridicată, toleranță excelentă la secetă și arșiță, ideală pentru toate zonele de cultură. (Sac 50 MB)
-  Updated: 2025-12-02T00:02:43Z
+  Updated: 2026-01-19T07:58:53Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at18.25.29_7.jpg?v=1764590451
-  Price: 532,00 lei RON
+  Price: 632,00 lei RON
+- [ARDENNO Donau Saat, FAO 320, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/ardenno-donau-saat-fao-320-samanta-porumb-sac-50-000-boabe): ARDENNO, Donau Saat, FAO 320 – sămânță porumb dentiformis, talie medie-joasă, vigoare bună, pierdere rapidă apă, recomandat pentru boabe și furaj. (Sac 50 MB)
+  Updated: 2026-01-19T07:58:26Z
+  Vendor: SAATEN UNION
+  Product Type: AGRO-Samanta Porumb
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at14.30.13_1.jpg?v=1764592374
+  Price: 542,00 lei RON
 - [KWS ADONISIO, FAO 330, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/kws-adonisio-fao-330-samanta-porumb-sac-50-000-boabe): Samanta Porumb KWS ADONISIO, FAO 330 – sămânță de porumb robustă, cu plasticitate ridicată și producție constantă, adaptată tuturor zonelor de cultură din România.
-  Updated: 2025-12-01T03:34:33Z
+  Updated: 2026-01-19T07:53:16Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at16.51.02.jpg?v=1764516796
-  Price: 630,00 lei RON
+  Price: 730,00 lei RON
 - [ES MYLADY Lidea, Boost&Go, FAO 340, Samanta Porumb (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/es-mylady-lidea-boost-go-fao-340-samanta-porumb-sac-80-000-boabe): ES MYLADY, Lidea, FAO 340 – sămânță porumb Boost&Go, viguroasă, tolerantă la secetă și Fusarium, boabe cu uscare rapidă și randament ridicat. (Sac 80 MB)
-  Updated: 2025-12-02T01:02:22Z
+  Updated: 2026-01-19T07:51:47Z
   Vendor: LIDEA
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at14.57.13_1.jpg?v=1764594025
-  Price: 1.090,00 lei RON
+  Price: 1.190,00 lei RON
+- [P9889, FAO 350, Samanta Porumb Pioneer (sac 25.000 boabe)](https://depozitulgradinarului.ro/products/p9889-fao-350-samanta-porumb-pioneer-sac-25-000-boabe): P9889 Pioneer, FAO 350, Samanta Porumb – hibrid stay-green cu productivitate ridicată și toleranță excelentă la secetă, ideal pentru toate zonele de cultură. (Sac 25 MB)
+  Updated: 2026-01-19T07:49:34Z
+  Vendor: PIONEER
+  Product Type: AGRO-Samanta Porumb
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at15.47.46_3.jpg?v=1764597313
+  Price: 450,00 lei RON
+- [P9889, FAO 350, Samanta Porumb Pioneer (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/p9889-fao-350-samanta-porumb-pioneer-sac-80-000-boabe): P9889 Pioneer, FAO 350, Samanta Porumb – hibrid stay-green cu productivitate ridicată și toleranță excelentă la secetă, ideal pentru toate zonele de cultură. (Sac 80 MB)
+  Updated: 2026-01-19T07:49:45Z
+  Vendor: PIONEER
+  Product Type: AGRO-Samanta Porumb
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at15.47.46_2.jpg?v=1764597201
+  Price: 1.020,00 lei RON
 - [KWS HYPOLITO, FAO 350, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/kws-hypolito-fao-350-samanta-porumb-sac-50-000-boabe): Samanta Porumb KWS HYPOLITO, FAO 350 – sămânță de porumb cu producție stabilă, toleranță ridicată la secetă și arșiță, răspunde excelent culturilor intensive din România.
-  Updated: 2025-12-01T03:32:50Z
+  Updated: 2026-01-19T07:48:39Z
   Vendor: KWS
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at16.51.01_5.jpg?v=1764516656
-  Price: 635,00 lei RON
+  Price: 735,00 lei RON
 - [DKC 4728, FAO 350 - 390, Samanta porumb Dekalb (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/dkc-4728-fao-350-390-samanta-porumb-dekalb-sac-80-000-boabe): DKC 4728, Dekalb, Samanta Porumb – hibrid porumb foarte productiv, stabil, pretabil la densități ridicate, cu toleranță excelentă la secetă și arșiță. (Sac 80 MB)
-  Updated: 2025-12-02T02:15:50Z
+  Updated: 2026-01-19T07:48:12Z
   Vendor: DEKALB
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at16.07.28_1.jpg?v=1764598481
-  Price: 940,00 lei RON
+  Price: 1.040,00 lei RON
 - [DKC 4611, FAO 350 - 390, Samanta Porumb Dekalb (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/dkc-4611-fao-350-390-samanta-porumb-dekalb-sac-80-000-boabe): DKC 4611, Dekalb, Samanta Porumb – hibrid semi-timpuriu, foarte productiv, toleranță excelentă la secetă și arșiță, rădăcină și tulpină puternice. (Sac 80 MB)
-  Updated: 2025-12-02T02:13:48Z
+  Updated: 2026-01-19T07:47:55Z
   Vendor: DEKALB
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at16.07.28.jpg?v=1764598228
-  Price: 909,00 lei RON
+  Price: 1.009,00 lei RON
 - [KWS OLTENIO, FAO 360, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/kws-oltenio-fao-360-samanta-porumb-sac-50-000-boabe): Samanta POrumb KWS OLTENIO FAO 360 – hibrid porumb boabe, semitimpuriu, dentat, productiv, tolerant la secetă și arșiță, cu fertilizare sincrona și stabilitate ridicată.
-  Updated: 2025-12-01T03:30:26Z
+  Updated: 2026-01-19T07:47:10Z
   Vendor: KWS
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at16.51.01_4.jpg?v=1764516573
-  Price: 640,00 lei RON
+  Price: 740,00 lei RON
 - [BADIANE Saaten Union, FAO 360, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/badiane-saaten-union-fao-360-samanta-porumb-sac-50-000-boabe): BADIANE Saaten Union, FAO 360 – sămânță de porumb cu producție ridicată, toleranță la secetă și arșiță, aparat foliar dezvoltat și pierdere rapidă a apei. (Sac 50 MB)
-  Updated: 2025-12-01T23:52:27Z
+  Updated: 2026-01-19T07:38:43Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at18.25.29_5.jpg?v=1764590307
-  Price: 535,00 lei RON
+  Price: 635,00 lei RON
 - [SUM 305 Saaten Union, FAO 370, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sum-305-saaten-union-fao-370-samanta-porumb-sac-50-000-boabe): SUM 305 Saaten Union, FAO 370 – sămânță de porumb semi-timpurie, viguroasă, cu talie medie, stay green și rezistență bună la frângere, secetă și boli.
-  Updated: 2025-12-01T04:11:49Z
+  Updated: 2026-01-19T07:41:22Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_f7b8f50b-9ad2-4ca3-b3d3-4e3b67868fbd.png?v=1739282893
-  Price: 505,00 lei RON
+  Price: 605,00 lei RON
 - [KWS KASHMIR, FAO 370, Plus4Grain, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/kws-kashmir-fao-370-plus4grain-samanta-porumb-sac-50-000-boabe): Samanta Porumb KWS KASHMIR FAO 370 – hibrid intensiv Plus4Grain, talie înaltă, foliaj stay-green, știulete flex cu boabe dentate, productivitate ridicată și uscare rapidă.
-  Updated: 2025-12-01T03:28:45Z
+  Updated: 2026-01-19T07:46:33Z
   Vendor: KWS
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at16.51.01_3.jpg?v=1764516431
-  Price: 630,00 lei RON
+  Price: 730,00 lei RON
 - [P9757, FAO 370, Samanta Porumb Pioneer (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/p9757-fao-370-samanta-porumb-pioneer-sac-80-000-boabe): P9757 Pioneer, FAO 370 – sămânță porumb cu productivitate ridicată, stabilitate la secetă, stay green excelent și recomandat pentru semănat timpuriu. (Sac 80 MB)
-  Updated: 2025-12-02T01:50:34Z
+  Updated: 2026-01-19T07:46:09Z
   Vendor: PIONEER
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at15.47.46.jpg?v=1764596906
-  Price: 940,00 lei RON
+  Price: 1.040,00 lei RON
 - [REPLIK Saaten Union, FAO 380, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/replik-saaten-union-fao-380-samanta-porumb-sac-50-000-boabe): REPLIK Saaten Union, FAO 380 – sămânță de porumb cu start rapid în vegetație, talie mică-medie, toleranță ridicată la secetă, cădere și boli. (Sac 50 MB)
-  Updated: 2025-12-01T04:09:20Z
+  Updated: 2026-01-19T07:45:41Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_6b291046-f1b3-4fbd-8b3f-910c4573b877.png?v=1739283500
-  Price: 529,00 lei RON
+  Price: 629,00 lei RON
 - [OSSK 396 Saaten Union, FAO 380, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/ossk-396-saaten-union-fao-380-samanta-porumb-sac-50-000-boabe): OSSK 396, Saaten Union, FAO 380 – sămânță de porumb cu potențial ridicat, talie mică-medie, toleranță la secetă, arsită și rezistență la boli. (Sac 50 MB)
-  Updated: 2025-12-01T23:50:17Z
+  Updated: 2026-01-19T07:40:20Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at18.25.29_3.jpg?v=1764589736
-  Price: 409,90 lei RON
+  Price: 509,90 lei RON
 - [MULTIPEL Donau Saat, FAO 380, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/multipel-donau-saat-fao-380-samanta-porumb-sac-50-000-boabe): Multipel, Donau Saat,  FAO 400 – sămânță porumb dentiformis, talie înaltă, potențial de producție excelent, rezistent la fusarium, recomandat în România. (Sac 50 MB)
-  Updated: 2025-12-02T00:32:55Z
+  Updated: 2026-01-19T07:44:57Z
   Vendor: Donau Saat
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-12-01at14.30.13.jpg?v=1764592293
-  Price: 480,00 lei RON
+  Price: 580,00 lei RON
 - [SUM 405, Saaten Union, FAO 400, Samanta porumb, Semi-Tardiv (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sum-405-saaten-union-fao-400-samanta-porumb-semi-tardiv-sac-50-000-boabe): SUM 405, Saaten Union FAO 400 – sămânță de porumb semi-tardivă, cu randament ridicat, toleranță la boli și frângere, potrivită pentru boabe și siloz. (Sac 50 MB)
-  Updated: 2025-12-01T23:43:25Z
+  Updated: 2026-01-19T07:39:56Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at18.25.29_1.jpg?v=1764589258
-  Price: 499,00 lei RON
+  Price: 599,00 lei RON
 - [SY MINERVA Syngenta, FAO 400–440, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-minerva-syngenta-fao-400-440-samanta-porumb-hibrid-semi-tardiv-sac-50-000-boabe): SY MINERVS, Syngenta, FAO 400–440 – sămânță de porumb semi-tardivă, cu producție excelentă, toleranță la secetă și adaptabilitate pe diverse soluri. (Sac 50 MB)
-  Updated: 2025-12-01T03:57:54Z
+  Updated: 2026-01-19T07:44:28Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29_4.jpg?v=1764518197
-  Price: 619,00 lei RON
+  Price: 719,00 lei RON
 - [SY FABIO Syngenta, FAO 400 – 440, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-fabio-syngenta-fao-400-440-samanta-porumb-hibrid-semi-tardiv-sac-50-000-boabe): SY FABIO, Syngenta, FAO 400–440 – sămânță de porumb semi-tardivă, cu talie înaltă, stay green excelent și producție constantă, adaptată diverselor soluri. (Sac 50 MB)
-  Updated: 2025-12-01T03:55:52Z
+  Updated: 2026-01-19T07:44:11Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29_2.jpg?v=1764518099
-  Price: 630,00 lei RON
+  Price: 730,00 lei RON
 - [OS 4014 Saaten Union, FAO 420, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/os-4014-saaten-union-fao-420-samanta-porumb-sac-50-000-boabe): OS 4014, Saaten Union, FAO 420 – sămânță de porumb semi-tardivă, cu plante viguroase, toleranță ridicată la secetă și randament excelent pentru boabe și siloz. (Sac 50 MB)
-  Updated: 2025-12-01T23:40:32Z
+  Updated: 2026-01-19T07:39:26Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at18.25.29.jpg?v=1764588985
-  Price: 399,90 lei RON
+  Price: 499,90 lei RON
 - [SY CARIOCA Syngenta, FAO 450 – 490, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-carioca-syngenta-fao-450-490-samanta-porumb-hibrid-tardiv-sac-50-000-boabe): SY CARIOCA, Syngenta, FAO 450–490 – sămânță de porumb tardiv, cu potențial ridicat de producție, rezistent la boli și adaptat culturilor intensive. (Sac 50 MB)
-  Updated: 2025-12-01T03:54:38Z
+  Updated: 2026-01-19T07:43:29Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29_1.jpg?v=1764517754
-  Price: 545,00 lei RON
+  Price: 645,00 lei RON
 - [SY VALPARAISO Syngenta, FAO 450 – 490, Samanta porumb (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-valparaiso-syngenta-fao-450-490-samanta-porumb-hibrid-tardiv-siloz-sac-50-000-boabe): SY Valparaiso, Syngenta, FAO 450–490 – sămânță de porumb tardiv pentru siloz, cu plante robuste, stay green și calitate superioară a recoltelor. (Sac 50 MB)
-  Updated: 2025-12-01T03:48:34Z
+  Updated: 2026-01-19T07:43:10Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-11-30at17.45.29.jpg?v=1764517662
-  Price: 440,00 lei RON
+  Price: 540,00 lei RON
 - [Sapaliga Dreapta cu 3 Colti](https://depozitulgradinarului.ro/products/sapaliga-dreapta-3-colti): Săpăligă dreaptă cu 3 colți, perfectă pentru prășit, afânat și mărunțit solul. Robustă, practică și ușor de folosit în grădină sau agricultură.
   Updated: 2026-01-02T14:01:07Z
   Vendor: Depozitul Grădinarului
@@ -1366,7 +1394,7 @@ Comanda acum de la Depozitul Gradinarului!
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_5.jpg?v=1740080870
   Price: 2,99 lei RON
 - [Seminte Gogosar ROSSO, AGROSEM - 0.6 GR | Fructe Mari, Roșu Intens](https://depozitulgradinarului.ro/products/seminte-gogosar-rosso-agrosem-0-6-gr): Seminte Gogosar ROSSO, AGROSEM (0.6 GR) - Fructe rotunde, mari, roșu-intens, pulpa groasă și aromată. Perfect pentru consum proaspăt, umplut și conserve.
-  Updated: 2026-01-02T13:44:47Z
+  Updated: 2026-01-20T04:31:56Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -1421,8 +1449,8 @@ Comanda acum de la Depozitul Gradinarului!
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.46_2.jpg?v=1739902643
   Price: 2,99 lei RON
-- [Seminte Ardei URECHE DE ELEFANT, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-ureche-de-elefant-agrosem-0-7-gr): Seminte Ardei URECHE DE ELEFANT, AGROSEM (0.7 GR) – fructe mari 18–20 cm, roșii, dulci și aromate. Ideal pentru grătar, salate, murături și conservare!
-  Updated: 2026-01-02T13:44:46Z
+- [Seminte Ardei Kapia URECHE DE ELEFANT, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-ureche-de-elefant-agrosem-0-7-gr): Seminte Ardei URECHE DE ELEFANT, AGROSEM (0.7 GR) – fructe mari 18–20 cm, roșii, dulci și aromate. Ideal pentru grătar, salate, murături și conservare!
+  Updated: 2026-01-20T04:45:43Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2644,12 +2672,12 @@ Fasole Pitică cu Păstăi Subțiri
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at14.17.22.jpg?v=1761740259
   Price: 34,90 lei RON
 - [Seminte Floarea Soarelui ALEXA SU, Saaten Union – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-alexa-su-saaten-union-sac-150-000-seminte): Semințe de floarea soarelui ALEXA SU Saaten Union – hibrid semi-timpuriu, de generație nouă, tehnologie tribenuron-metil, rezistent la cădere și frângere, cu potențial ridicat de producție.
-  Updated: 2025-10-30T00:34:03Z
+  Updated: 2026-01-19T08:22:13Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at13.21.39_3.jpg?v=1761737947
-  Price: 989,00 lei RON
+  Price: 1.089,00 lei RON
 - [Semințe Gazon Universal - 1 KG | Gazon Rezistent și Dens](https://depozitulgradinarului.ro/products/seminte-gazon-universal-1-kg): Semințe Gazon Universal 1 KG pentru un gazon sănătos și dens, potrivit pentru grădini, curți și spații verzi. Rezistent, ușor de întreținut și durabil.
   Updated: 2025-10-29T21:46:26Z
   Vendor: AGROSEM
@@ -2658,96 +2686,96 @@ Fasole Pitică cu Păstăi Subțiri
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at19.53.46_2.jpg?v=1739733068
   Price: 21,99 lei RON
 - [Seminte Floarea Soarelui DAVERO SU, Saaten Union – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-davero-su-saaten-union-sac-150-000-seminte): Seminte Floarea Soarelui DAVERO SU Saaten Union – hibrid semi-timpuriu, tehnologie Sulfonilureic (tribenuron-metyl). Rezistență la cădere, randament ridicat în toate zonele, tolerant la secetă.
-  Updated: 2025-10-30T01:59:53Z
+  Updated: 2026-01-19T08:22:29Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at13.21.39_2.jpg?v=1761737607
-  Price: 989,00 lei RON
+  Price: 1.089,00 lei RON
 - [Seminte Floarea Soarelui MARQUESA CL, Saaten Union – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-marquesa-cl-saaten-union-sac-150-000-seminte): Seminte Floarea Soarelui MARQUESA CL Saaten Union – hibrid semi-tardiv, rezistent la cădere și boli, cu potențial maxim de producție, toleranță la secetă, ideal pentru culturi intensive.
-  Updated: 2025-10-30T01:46:54Z
+  Updated: 2026-01-19T08:22:46Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at13.21.39_1.jpg?v=1761737196
-  Price: 699,00 lei RON
+  Price: 799,00 lei RON
 - [Seminte Floarea Soarelui NESTOR SU, Saaten Union – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-nestor-su-saaten-union-sac-150-000-seminte): Semințe Floarea Soarelui NESTOR SU Saaten Union – hibrid semi-timpuriu, tehnologie Sulfonilureic (tribenuron-metyl), cu randament ridicat și adaptabilitate excelentă.
-  Updated: 2025-10-30T04:42:00Z
+  Updated: 2026-01-19T08:23:00Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at13.21.39.jpg?v=1761736921
-  Price: 699,00 lei RON
+  Price: 799,00 lei RON
 - [Seminte Floarea Soarelui PARAISO 102CL, Saaten Union – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-paraiso-102cl-saaten-union-sac-150-000-seminte): Semințe Floarea Soarelui PARAISO 102CL Saaten Union – hibrid Clearfield® semi-tardiv, cu potențial ridicat de producție și toleranță la secetă și arsita.
-  Updated: 2025-10-30T01:21:58Z
+  Updated: 2026-01-19T08:23:29Z
   Vendor: SAATEN UNION
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at12.58.50.jpg?v=1761735550
-  Price: 969,00 lei RON
+  Price: 1.069,00 lei RON
 - [Seminte Floarea Soarelui P64LE99, Pioneer – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-p64le99-pioneer-express-sac-150-000-seminte): Semințe Floarea Soarelui Pioneer P64LE99  – hibrid tardiv, productiv și adaptabil, tolerant la erbicid Express, cu cel mai ridicat potențial de producție.
-  Updated: 2025-10-29T10:28:42Z
+  Updated: 2026-01-19T08:24:06Z
   Vendor: PIONEER
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at12.19.27.jpg?v=1761733382
-  Price: 1.049,00 lei RON
+  Price: 1.149,00 lei RON
 - [Seminte Floarea Soarelui P64LE162, Pioneer  – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-p64le162-pioneer-express-sac-150-000-seminte): Semințe Floarea Soarelui Pioneer P64LE162 – hibrid tardiv, pentru tehnologia Express (tribenuron metil). Potențial ridicat de producție și stabilitate excelentă.
-  Updated: 2025-10-30T01:24:59Z
+  Updated: 2026-01-19T08:24:45Z
   Vendor: PIONEER
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-29at12.06.13.jpg?v=1761732388
-  Price: 1.025,00 lei RON
+  Price: 1.125,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA EXPERTO HO – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-experto-ho-clearfield-plus-sac-150-000-seminte): Hibrid semi-timpuriu SYNGENTA EXPERTO HO Clearfield® Plus – High Oleic, productiv și stabil, tolerant la secetă și la toate rasele de mană din România.
-  Updated: 2025-10-29T08:13:36Z
+  Updated: 2026-01-19T08:27:30Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at22.10.38.jpg?v=1761682250
-  Price: 1.140,00 lei RON
+  Price: 1.240,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA ONESTAR – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-onestar-clearfield-plus-sac-150-000-seminte): Semințe Floarea Soarelui SYNGENTA ONESTAR Clearfield® Plus – hibrid semi-timpuriu, cu producții ridicate, conținut mare de ulei și toleranță excelentă la mană.
-  Updated: 2025-10-28T20:09:54Z
+  Updated: 2026-01-19T08:27:44Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at22.07.08.jpg?v=1761682052
-  Price: 1.160,00 lei RON
+  Price: 1.260,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA SUBARO HTS – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-subaro-hts-sac-150-000-seminte): Semințe Floarea Soarelui SYNGENTA SUBARO HTS – hibrid semi-tardiv pentru tehnologia EXPRESS, cu producții ridicate și stabilitate excelentă în toate zonele.
-  Updated: 2025-10-29T15:23:04Z
+  Updated: 2026-01-19T08:28:05Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at22.03.30.jpg?v=1761681840
-  Price: 1.099,00 lei RON
+  Price: 1.199,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA SUMIKO HTS – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-sumiko-hts-sac-150-000-seminte): Semințe Floarea Soarelui SYNGENTA SUMIKO HTS – hibrid semi-timpuriu pentru tehnologia EXPRESS, cu producții mari și conținut ridicat în ulei.
-  Updated: 2025-10-28T20:03:11Z
+  Updated: 2026-01-19T08:28:31Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at21.59.22.jpg?v=1761681579
-  Price: 1.099,00 lei RON
+  Price: 1.199,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA SURELI HTS – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-sureli-hts-sac-150-000-seminte): Semințe Floarea Soarelui SYNGENTA SURELI HTS – hibrid semi-tardiv cu productivitate excelentă, rezistență la secetă și adaptabilitate în toate zonele agricole.
-  Updated: 2025-10-28T19:59:09Z
+  Updated: 2026-01-19T08:28:47Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at21.55.32.jpg?v=1761681402
-  Price: 1.149,00 lei RON
+  Price: 1.249,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA TALENTO HO  – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-talento-ho-clearfield-plus-sac-150-000-seminte): Hibrid semi-timpuriu TALENTO HO Clearfield Plus – 150.000 semințe. Conținut ridicat în acid oleic, adaptabil și tolerant la toate rasele de mană din România.
-  Updated: 2025-10-29T07:53:15Z
+  Updated: 2026-01-19T08:29:18Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at21.50.01.jpg?v=1761681016
-  Price: 1.149,00 lei RON
+  Price: 1.249,00 lei RON
 - [Seminte Floarea Soarelui SYNGENTA NK NEOMA – Sac 150.000 seminte](https://depozitulgradinarului.ro/products/seminte-floarea-soarelui-syngenta-nk-neoma-clearfield-sac-150-000-seminte): Hibrid semi-timpuriu SYNGENTA NK NEOMA Clearfield® – 150.000 semințe. Producții ridicate, rezistență excelentă și adaptabilitate în toate zonele.
-  Updated: 2025-10-28T19:48:31Z
+  Updated: 2026-01-19T08:29:37Z
   Vendor: Syngenta
   Product Type: AGRO-Seminte Floarea Soarelui
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-28at21.41.38_1.jpg?v=1761680900
-  Price: 1.070,00 lei RON
+  Price: 1.170,00 lei RON
 - [Pachet Tratament TUIA - Fungicid, Insecto-Acaricid, Ingrasamant Foliar](https://depozitulgradinarului.ro/products/pachet-ingrijire-tuia): Protejează și revitalizează tuia cu pachetul complet: fungicid, insecticid-acaricid și îngrășământ foliar. Tratamente eficiente pentru tuia verde și sănătos!
   Updated: 2026-01-02T13:52:04Z
   Vendor: AGROSEM
@@ -2784,12 +2812,12 @@ Fasole Pitică cu Păstăi Subțiri
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/vitadevie.png?v=1739430243
   Price: 25,00 lei RON
 - [Semințe Lucernă GEA 10 kg – Drajată și Certificată](https://depozitulgradinarului.ro/products/seminte-lucerna-gea-certificata-10-kg): Semințe de Lucernă GEA Drajată, Certificată – sac 10 kg. Randament ridicat, rezistență la secetă, regenerare rapidă și plantare ușoară.  Recomandată pentru cosit și furaje nutritive.
-  Updated: 2025-10-30T00:58:33Z
+  Updated: 2026-01-20T17:52:36Z
   Vendor: AGROSEM
   Product Type: GRAD-AGRO-Plante Furajere
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/GEA_10_KG.jpg?v=1739430484
-  Price: 329,00 lei RON
+  Price: 340,00 lei RON
 - [Amestec Semințe Coasă și Pășune 10 kg – Productiv și rezistent](https://depozitulgradinarului.ro/products/amestec-seminte-special-coasa-si-pasune-10-kg): Amestec special de semințe pentru cosă și pășune – 10 kg. Asigură pășuni dense și fân de calitate, cu 2-3 coase/an și rezistență la secetă.
   Updated: 2025-10-20T06:22:05Z
   Vendor: Depozitul Grădinarului
@@ -2904,12 +2932,12 @@ Fasole Pitică cu Păstăi Subțiri
   Price: 3,50 lei RON
 - [KWS KASHMIR, FAO 370, Plus4Grain, Samanta porumb (sac 25.000 boabe)](https://depozitulgradinarului.ro/products/kws-kashmir-fao-370-plus4grain-samanta-porumb-sac-25-000-boabe): Semintele de porumb KASHMIR de la KWS sunt recomandate pentru productia de boabe. Bobul este dentat, lung si galben. 
 Grupa FAO: 370, Grupa Plus4Grain
-  Updated: 2025-10-16T11:33:50Z
+  Updated: 2026-01-19T07:42:25Z
   Vendor: KWS
   Product Type: AGRO-Samanta Porumb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/kashmir25mb.jpg?v=1739559442
-  Price: 325,00 lei RON
+  Price: 425,00 lei RON
 - [Homevo Mastic Cicatrizant – Protecția și Cicatrizarea Pomilor și Arbuștilor](https://depozitulgradinarului.ro/products/mastic-cicatrizant-arbori-300-gr-homevo): Protejează pomii fructiferi cu Masticul Cicatrizant Homevo! Pe bază de rășină și cupru, igienizează rănile și accelerează cicatrizarea după tăieri și altoiri.
   Updated: 2026-01-02T13:50:15Z
   Vendor: HOMEVO
@@ -2959,6 +2987,13 @@ Grupa FAO: 370, Grupa Plus4Grain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-15at21.29.29.jpg?v=1739649468
   Price: 6,90 lei RON
+- [DKC 5016, FAO 400 - 450, Samanta porumb Dekalb (sac 80.000 boabe)](https://depozitulgradinarului.ro/products/dkc-5016-fao-400-450-samanta-porumb-dekalb-sac-80-000-boabe): DEKALB DKC 5016, este noul produs din portofoliul DEKALB dedicat fermierilor profesioniști care aplică o tehnologie intensivă de cultura și țintesc producții de top chiar și în condiții de stres. Grupa FAO: 400-450
+  Updated: 2026-01-19T08:04:16Z
+  Vendor: DEKALB
+  Product Type: AGRO-Samanta Porumb
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Dekalb.jpg?v=1740410117
+  Price: 1.020,00 lei RON
 - [Dezinfectant Organic Sol CLYNSOL – 500 ML, Ingrijirea Solului](https://depozitulgradinarului.ro/products/dezinfectant-organic-sol-clynsol-500-ml-ingrijirea-solului-in-gradini-sere-solarii): Dezinfectantul Organic ClynSol® este un tratament avansat pentru îmbunătățirea sănătății solului, conceput special pentru a susține o creștere și dezvoltare optimă a plantelor.
   Updated: 2025-12-19T08:29:50Z
   Vendor: Taminco
@@ -3691,8 +3726,8 @@ Ideal pentru grădinari și fermieri care doresc producții uniforme, sănătoas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_0728.jpg?v=1751829624
   Price: 39,00 lei RON
-- [Ingrasamant foliar VEGENERGY, Organic - 100 ML, Vitana, Legume, Plante ornamentale, Vita de Vie, Pomi, Cereale, Azot si Aminoacizi vegetali liberi](https://depozitulgradinarului.ro/products/ingrasamant-foliar-vegenergy-organic-100-ml-vitana-azot-si-aminoacizi-vegetali-liberi): Stimulează creșterea naturală cu ingrasamantul foliar Vegenergy, organic de la Vitana - 100% natural, pentru plante viguroase și recolte bogate, poate fi utilizat pentru toate tipurile de culturi: legume, plante ornamentale, pomi, vita de vie, cereale.
-  Updated: 2026-01-02T13:50:11Z
+- [Ingrasamant Foliar VEGENERGY, Organic - 100 ML, Vitana, Legume, Plante ornamentale, Vita de Vie, Pomi, Cereale, Azot si Aminoacizi vegetali liberi](https://depozitulgradinarului.ro/products/ingrasamant-foliar-vegenergy-organic-100-ml-vitana-azot-si-aminoacizi-vegetali-liberi): Stimulează creșterea naturală cu ingrasamantul foliar Vegenergy, organic de la Vitana - 100% natural, pentru plante viguroase și recolte bogate, poate fi utilizat pentru toate tipurile de culturi: legume, plante ornamentale, pomi, vita de vie, cereale.
+  Updated: 2026-01-20T17:20:20Z
   Vendor: Vitana
   Product Type: Ingrasamant
   Availability: Available
@@ -4024,14 +4059,14 @@ Livrare rapidă, oriunde în țară, în 1-3 zile lucrătoare.
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-10-15at21.04.41_1.jpg?v=1760553484
   Price: 26,00 lei RON
 - [Seminte BROCCOLI, AGROSEM - 5 GR | Soi Timpuriu Productiv](https://depozitulgradinarului.ro/products/seminte-broccoli-agrosem-5-gr-1): Semințe Broccoli Ramono Calabrese, Agrosem - soi timpuriu și productiv, cu inflorescențe compacte, verde intens. Ideal pentru grădină și culturi sănătoase.
-  Updated: 2026-01-12T16:23:55Z
+  Updated: 2026-01-13T01:53:35Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2026-01-12at18.13.19.jpg?v=1768234652
   Price: 2,99 lei RON
 - [Seminte Romanesti TOMATE BUZAU 22, AGROSEM - 0.2 GR | Soi Tradițional](https://depozitulgradinarului.ro/products/seminte-romanesti-tomate-buzau-22-agrosem-0-2-gr): Semințe românești Tomate Buzău 22, Agrosem - soi tradițional sem-itardiv, cu fructe mari, cărnoase, gust autentic și producții ridicate, ideale pentru grădină.
-  Updated: 2026-01-12T20:38:22Z
+  Updated: 2026-01-13T07:56:46Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -4044,38 +4079,38 @@ Livrare rapidă, oriunde în țară, în 1-3 zile lucrătoare.
   Updated: 2025-05-29T15:22:58Z
   Total Products: 1
 - [Sămânță Porumb KWS | Hibrizi de Top pentru Randament Maxim](https://depozitulgradinarului.ro/collections/samanta-porumb-kws): Alege sămânța de porumb KWS – hibrizi de top pentru randament maxim, producție ridicată, toleranță excelentă la secetă și boli. Cumpără online de la Depozitul Grădinarului, livrare rapidă și prețuri competitive!
-  Updated: 2025-11-30T14:27:33Z
+  Updated: 2026-01-19T08:03:06Z
   Total Products: 9
 - [Sămânță Porumb Pioneer | Hibrizi Performanți pentru Producții Ridicate](https://depozitulgradinarului.ro/collections/samanta-porumb-pioneer): Alege sămânța de porumb Pioneer - hibrizi performanți pentru producții ridicate, randament excelent, adaptabilitate și toleranță la secetă. Hibrizi de top pentru boabe și siloz, disponibili acum la Depozitul Grădinarului!
-  Updated: 2025-12-01T14:03:54Z
+  Updated: 2026-01-19T08:03:23Z
   Total Products: 8
 - [Sămânță Porumb Dekalb | Hibrizi De Top pentru Producții Ridicate](https://depozitulgradinarului.ro/collections/samanta-porumb-dekalb): Cumpără sămânță de porumb Dekalb – hibrizi de top pentru producții ridicate, randament mare la hectar, toleranță la secetă și stabilitate excelentă. Disponibili pentru boabe și siloz. Livrare rapidă de la Depozitul Grădinarului!
-  Updated: 2025-12-01T14:18:10Z
+  Updated: 2026-01-19T08:04:17Z
   Total Products: 5
 - [Sămânță Porumb Fertillia | Hibrizi Productivi și Rezistenți la Secetă](https://depozitulgradinarului.ro/collections/samanta-porumb-fertillia): Alege sămânța de porumb Fertillia pentru culturi profitabile – hibrizi productivi și rezistenți la secetă, adaptați pentru boabe și siloz, cu producție ridicată, vigoare excelentă și toleranță la stres climatic.
 Livrare rapidă!
   Updated: 2025-05-29T15:22:58Z
   Total Products: 0
 - [Sămânță Porumb Donau Saat | Hibrizi Productivi pentru Boabe și Siloz](https://depozitulgradinarului.ro/collections/samanta-porumb-donau-saat): Cumpără sămânță de porumb Donau Saat – hibrizi productivi pentru boabe și siloz, randament ridicat, toleranță la secetă și stabilitate în cultură. Livrare rapidă de la Depozitul Grădinarului!
-  Updated: 2025-10-27T08:15:08Z
+  Updated: 2026-01-19T08:03:59Z
   Total Products: 3
 - [Sămânță Porumb Saaten Union | Producție Ridicată & Toleranță Excelentă](https://depozitulgradinarului.ro/collections/samanta-porumb-saaten-union): Descoperă sămânța de porumb Saten Union – hibrizi performanți, producție ridicată, toleranță la secetă și adaptabilitate excelentă. Comandă online de la Depozitul Grădinarului!
-  Updated: 2026-01-06T12:26:42Z
+  Updated: 2026-01-19T07:58:54Z
   Total Products: 8
 - [Sămânță de Porumb Turda | Hibrizi Românești cu Producție Ridicată](https://depozitulgradinarului.ro/collections/samanta-porumb-turda): Cumpără sămânță de porumb Turda – hibrizi românești cu producție ridicată, adaptați solurilor din România, randament mare, rezistență la secetă și preț avantajos. Ideală pentru boabe. Livrare rapidă!
-  Updated: 2025-12-01T12:27:54Z
+  Updated: 2026-01-19T07:52:04Z
   Total Products: 2
 - [Sămânță Porumb Lidea | Hibrizi de calitate pentru Randament Maxim](https://depozitulgradinarului.ro/collections/samanta-porumb-lidea): Descoperă hibrizii de porumb Lidea – sămânță de calitate superioară pentru randament maxim, adaptabilitate excelentă, producții ridicate și toleranță la secetă. Disponibilă pentru boabe și siloz. Comandă online cu livrare rapidă!
   Updated: 2025-05-29T15:22:58Z
   Total Products: 0
 - [Semințe Profesionale Legume și Fruncte - Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
-  Updated: 2026-01-02T13:46:56Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2026-01-12T19:54:47Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 127
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
-  Updated: 2026-01-02T13:46:57Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 7
 - [Semințe Plante Aromatice | Busuioc, Mentă, Rozmarin, Oregano, Cimbru, Tarhon, Lavamdă, Salvie, Rucola, Mărar, Măcriș, Leuștean, Coriandru](https://depozitulgradinarului.ro/collections/seminte-plante-aromatice): Descoperă semințe de plante aromatice pentru grădină sau balcon: busuioc, mentă, oregano, cimbru, rozmarin, lavandă și altele. Soiuri productive, gustoase și ușor de cultivat.
   Updated: 2026-01-02T13:46:11Z
@@ -4087,28 +4122,28 @@ Livrare rapidă!
   Updated: 2025-11-30T13:06:05Z
   Total Products: 17
 - [Semințe Grădina Fermecată | Legume, Pepene verde și pepene galben](https://depozitulgradinarului.ro/collections/seminte-gradina-fermecata): Descoperă gama noastră de semințe Grădina Fermecată: legume, pepene verde și pepene galben, de calitate superioară. Alege semințele perfecte pentru grădina ta și bucură-te de o recoltă bogată și sănătoasă.
-  Updated: 2025-11-24T18:35:06Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 44
 - [Semințe Floarea-Soarelui Pioneer - Semințe Profesionale](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui-pioneer): Semințe profesionale de floarea-soarelui Pioneer – hibrizi productivi, rezistenți la secetă și boli, cu producții mari și conținut ridicat de ulei. Clearfield® și Express®Sun.
-  Updated: 2025-10-27T08:16:24Z
+  Updated: 2026-01-19T08:27:15Z
   Total Products: 4
 - [Semințe Floarea-Soarelui Saaten Union – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui-saaten-union): Alege semințe de floarea-soarelui Saaten Union – hibrizi productivi și performanți, cu randament ridicat, rezistență la secetă și conținut mare de ulei. Clearfield & convenționali.
-  Updated: 2025-12-15T12:37:46Z
+  Updated: 2026-01-19T08:23:30Z
   Total Products: 5
 - [Semințe Floarea-Soarelui | Hibrizi Performanți](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui): Alege hibrizi de floarea-soarelui performanți, cu rezistență la diferite erbicide sau convenționali. Semințe de calitate, adaptate pentru randament ridicat și rezistență la secetă.
-  Updated: 2026-01-12T12:29:43Z
+  Updated: 2026-01-19T12:29:24Z
   Total Products: 16
 - [Sâmânță de Porumb](https://depozitulgradinarului.ro/collections/samanta-porumb): Descoperă gama noastră de sămânță porumb și hibrizi de înaltă performanță, ideale pentru o recoltă bogată. Alege semințe de calitate superioară pentru însămânțări eficiente și profitabile.
-  Updated: 2026-01-06T12:26:42Z
+  Updated: 2026-01-19T08:04:17Z
   Total Products: 49
 - [FAO 200 - 299 KWS](https://depozitulgradinarului.ro/collections/fao-200-299-kws)
-  Updated: 2025-05-29T15:22:59Z
+  Updated: 2026-01-19T08:03:06Z
   Total Products: 1
 - [FAO 300 - 399 KWS](https://depozitulgradinarului.ro/collections/fao-300-399-kws)
-  Updated: 2025-06-18T08:50:55Z
+  Updated: 2026-01-19T07:53:17Z
   Total Products: 5
 - [FAO 400 - 499 KWS](https://depozitulgradinarului.ro/collections/fao-400-499-kws)
-  Updated: 2025-11-30T14:27:33Z
+  Updated: 2026-01-19T07:43:57Z
   Total Products: 2
 - [FAO 500 - 599 KWS](https://depozitulgradinarului.ro/collections/fao-400-599-kws)
   Updated: 2025-05-29T15:22:59Z
@@ -4120,13 +4155,13 @@ Livrare rapidă!
   Updated: 2025-05-29T15:22:59Z
   Total Products: 0
 - [FAO 200 - 299 Pioneer](https://depozitulgradinarului.ro/collections/fao-200-299-pioneer)
-  Updated: 2025-12-01T14:03:54Z
+  Updated: 2026-01-19T08:03:23Z
   Total Products: 1
 - [FAO 300 - 399 Pioneer](https://depozitulgradinarului.ro/collections/fao-300-399-pioneer)
-  Updated: 2025-12-01T14:01:57Z
+  Updated: 2026-01-19T08:02:30Z
   Total Products: 5
 - [FAO 300 - 399 Pioneer](https://depozitulgradinarului.ro/collections/fao-300-399-pioneer-1)
-  Updated: 2025-12-01T13:59:53Z
+  Updated: 2026-01-19T08:00:23Z
   Total Products: 2
 - [FAO 400 - 499 Pioneer](https://depozitulgradinarului.ro/collections/fao-400-499-pioneer)
   Updated: 2025-05-29T15:22:59Z
@@ -4144,10 +4179,10 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:00Z
   Total Products: 0
 - [FAO 300 - 399 Dekalb](https://depozitulgradinarului.ro/collections/fao-300-399-dekalb)
-  Updated: 2025-12-01T14:18:10Z
+  Updated: 2026-01-19T08:02:48Z
   Total Products: 4
 - [FAO 400 - 499 Dekalb](https://depozitulgradinarului.ro/collections/fao-400-499-dekalb)
-  Updated: 2025-05-29T15:23:00Z
+  Updated: 2026-01-19T08:04:17Z
   Total Products: 1
 - [FAO 500 - 599 Dekalb](https://depozitulgradinarului.ro/collections/fao-500-599-dekalb)
   Updated: 2025-05-29T15:23:00Z
@@ -4177,10 +4212,10 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:00Z
   Total Products: 0
 - [FAO 200 - 299 Donau Saat](https://depozitulgradinarului.ro/collections/fao-200-299-donau-saat)
-  Updated: 2025-07-04T12:35:59Z
+  Updated: 2026-01-19T08:03:59Z
   Total Products: 1
 - [FAO 300 - 399 Donau Saat](https://depozitulgradinarului.ro/collections/fao-300-399-donau-saat)
-  Updated: 2025-10-27T08:15:08Z
+  Updated: 2026-01-19T07:58:27Z
   Total Products: 2
 - [FAO 400 - 499 Donau Saat](https://depozitulgradinarului.ro/collections/fao-400-499-donau-saat)
   Updated: 2025-05-29T15:23:01Z
@@ -4195,13 +4230,13 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:01Z
   Total Products: 0
 - [FAO 200 - 299 Saaten Union](https://depozitulgradinarului.ro/collections/fao-200-299-saaten-union)
-  Updated: 2025-07-08T16:30:54Z
+  Updated: 2026-01-19T07:42:00Z
   Total Products: 1
 - [FAO 300 - 399 Saaten Union](https://depozitulgradinarului.ro/collections/fao-300-399-saaten-union)
-  Updated: 2026-01-06T12:26:42Z
+  Updated: 2026-01-19T07:59:08Z
   Total Products: 8
 - [FAO 400 - 499 Saaten Union](https://depozitulgradinarului.ro/collections/fao-400-499-saaten-union)
-  Updated: 2025-12-01T11:43:23Z
+  Updated: 2026-01-19T07:39:58Z
   Total Products: 2
 - [FAO 500 - 599 Saaten Union](https://depozitulgradinarului.ro/collections/fao-500-599-saaten-union)
   Updated: 2025-05-29T15:23:01Z
@@ -4216,7 +4251,7 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:01Z
   Total Products: 0
 - [FAO 300 - 399 Turda](https://depozitulgradinarului.ro/collections/fao-300-399-turda)
-  Updated: 2025-12-01T12:27:54Z
+  Updated: 2026-01-19T07:52:04Z
   Total Products: 2
 - [FAO 400 - 499 Turda](https://depozitulgradinarului.ro/collections/fao-400-499-turda)
   Updated: 2025-05-29T15:23:01Z
@@ -4234,7 +4269,7 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:02Z
   Total Products: 0
 - [FAO 300 - 399 LIDEA](https://depozitulgradinarului.ro/collections/fao-300-399-lidea)
-  Updated: 2025-12-01T13:02:03Z
+  Updated: 2026-01-19T07:51:48Z
   Total Products: 2
 - [FAO 400 - 499 LIDEA](https://depozitulgradinarului.ro/collections/fao-400-499-lidea)
   Updated: 2025-05-29T15:23:02Z
@@ -4249,7 +4284,7 @@ Livrare rapidă!
   Updated: 2025-12-18T18:59:29Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2026-01-02T13:52:05Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
   Updated: 2025-12-18T18:52:24Z
@@ -4276,29 +4311,29 @@ Livrare rapidă!
   Updated: 2026-01-02T13:50:16Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2026-01-02T13:52:05Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2026-01-12T19:54:47Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 208
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
-  Updated: 2026-01-12T12:29:43Z
+  Updated: 2026-01-20T17:52:37Z
   Total Products: 49
 - [Îngrășăminte de calitate | Naturale, Chimice, Foliare, Granulate](https://depozitulgradinarului.ro/collections/ingrasaminte): Îngrășăminte de calitate pentru plante sănătoase și recolte bogate - alege îngrășăminte naturale, chimice, foliare sau granulate pentru o creștere optimă.
-  Updated: 2026-01-11T20:39:43Z
-  Total Products: 42
+  Updated: 2026-01-20T17:40:25Z
+  Total Products: 43
 - [Semințe de Gazon 1 kg & 10 kg | Universal, Soare, Umbră, Sport](https://depozitulgradinarului.ro/collections/gazon): Cumpără semințe de gazon pentru soare, umbră, sport și utilizare universală. Pachete de 1 kg și 10 kg pentru peluze dense, verzi și rezistente. Livrare rapidă!
   Updated: 2025-12-08T12:35:21Z
   Total Products: 8
 - [Semințe Furajere | Lucernă, Trifoi, Lolium, Amestecuri](https://depozitulgradinarului.ro/collections/plante-furajere): Alege semințe furajere de calitate: lucernă, trifoi, lolium, mixuri profesionale pentru pășuni și fânețe. Soiuri selecționate pentru furaje animale de calitate.
-  Updated: 2026-01-06T12:26:42Z
+  Updated: 2026-01-20T17:52:37Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
   Updated: 2026-01-02T14:03:32Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
-  Updated: 2026-01-02T13:46:56Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 18
 - [Raticide Avizate | Eliminare Rozătoare din Gospodărie și Fermă](https://depozitulgradinarului.ro/collections/raticide-1): Raticide puternice pentru eliminarea rozătoarelor în spații comerciale, locuințe, ferme și depozite. Protejează-ți proprietatea eficient!
   Updated: 2026-01-02T13:50:16Z
@@ -4310,25 +4345,25 @@ Livrare rapidă!
   Updated: 2026-01-02T14:01:10Z
   Total Products: 76
 - [Îngrășăminte Foliare Profesionale | Legume, Pomi, Culturi Agricole, Gazon, Cereale, Flori, Tuia, Plante Furajere](https://depozitulgradinarului.ro/collections/ingrasaminte-foliare): Îngrășăminte foliare profesionale pentru legume, pomi, flori, gazon, tuia, plante furajere și culturi agricole, precum: porumb, floarea-soarelui, grâu. Soluții lichide rapide, cu absorbție eficientă prin frunze, pentru plante viguroase.
-  Updated: 2026-01-11T20:39:43Z
-  Total Products: 37
+  Updated: 2026-01-20T17:40:25Z
+  Total Products: 38
 - [Îngrășăminte Granulate | Legume, Pomi, Gazon, Culturi Agricole](https://depozitulgradinarului.ro/collections/ingrasaminte-granulate): Îngrășăminte Granulate – Nutriție echilibrată pentru pomi fructiferi, legume, gazon, plante furajere, cât și pentru culturi agricole: porumb, floarea-soarelui, grâu.
-  Updated: 2025-12-01T14:25:13Z
+  Updated: 2026-01-19T12:29:24Z
   Total Products: 5
 - [Sămânță Porumb FAO 100 -199](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-100-199)
   Updated: 2025-05-29T15:23:03Z
   Total Products: 0
 - [Sămânță Porumb FAO 200 -299](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-200-299)
-  Updated: 2025-12-01T14:03:54Z
+  Updated: 2026-01-19T08:03:59Z
   Total Products: 4
 - [Sămânță Porumb FAO 300 - 399](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-300-399)
-  Updated: 2026-01-06T12:26:42Z
+  Updated: 2026-01-19T08:02:48Z
   Total Products: 34
 - [Sămânță Porumb FAO 400 - 499](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-400-499)
-  Updated: 2025-12-01T11:43:23Z
+  Updated: 2026-01-19T08:04:17Z
   Total Products: 9
 - [Sămânță Porumb FAO 500 -599](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-500-599)
-  Updated: 2025-05-29T15:23:03Z
+  Updated: 2026-01-19T07:42:54Z
   Total Products: 1
 - [Sămânță Porumb FAO 600+](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-600)
   Updated: 2025-05-29T15:23:03Z
@@ -4340,10 +4375,10 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:03Z
   Total Products: 0
 - [FAO 300 - 399 Syngenta](https://depozitulgradinarului.ro/collections/fao-300-399-syngenta)
-  Updated: 2025-10-27T08:15:28Z
+  Updated: 2026-01-19T08:02:16Z
   Total Products: 4
 - [FAO 400 - 499 Syngenta](https://depozitulgradinarului.ro/collections/fao-400-499-syngenta)
-  Updated: 2025-05-29T15:23:04Z
+  Updated: 2026-01-19T07:44:29Z
   Total Products: 4
 - [FAO 500 - 599 Syngenta](https://depozitulgradinarului.ro/collections/fao-500-599-syngenta)
   Updated: 2025-05-29T15:23:04Z
@@ -4352,22 +4387,22 @@ Livrare rapidă!
   Updated: 2025-05-29T15:23:04Z
   Total Products: 0
 - [Sămânță Porumb Syngenta | Semințe Profesionale pentru Randament și Eficiență](https://depozitulgradinarului.ro/collections/samanta-porumb-syngenta): Alege sămânța de porumb Syngenta pentru culturi profitabile: semințe profesionale pentru randament și eficiență, certificate, hibrizi adaptați pentru boabe și siloz, cu productivitate ridicată și toleranță excelentă la stres termic și hidric.
-  Updated: 2025-10-27T08:15:28Z
+  Updated: 2026-01-19T08:02:16Z
   Total Products: 8
 - [Pachete Tratament Grădină & Agricultură | Pomi Fructiferi, Legume, Vita de Vie, Gazon, Tuia, Flori](https://depozitulgradinarului.ro/collections/pachete-tratament): Alege pachete complete de tratament grădină & agricultură, pentru viță-de-vie, legume, pomi fructiferi, flori, gazon sau tuia. Soluții eficiente împotriva bolilor și dăunătorilor.
   Updated: 2026-01-02T13:52:05Z
   Total Products: 12
 - [Produse BIO | Legume, Flori, Pomi, Gazon, Dezinfectant sol, Raticide](https://depozitulgradinarului.ro/collections/produse-bio): Gama completă de produse BIO: tratamente naturale pentru legume, pomi, flori, gazon, sol și combaterea rozătoarelor. Alege soluții ecologice!
-  Updated: 2026-01-11T20:39:43Z
+  Updated: 2026-01-20T17:20:21Z
   Total Products: 36
 - [Semințe Floarea-Soarelui Syngenta – Hibrizi Performanți](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui-syngenta): Cumpără semințe de floarea-soarelui Syngenta – hibrizi performanți, toleranți la secetă și boli, cu randament ridicat și conținut mare de ulei. Tehnologia Clearfield® & Express®.
-  Updated: 2026-01-12T12:29:43Z
+  Updated: 2026-01-19T12:29:24Z
   Total Products: 7
 - [KWS](https://depozitulgradinarului.ro/collections/kws)
-  Updated: 2025-11-30T14:27:33Z
+  Updated: 2026-01-19T08:03:06Z
   Total Products: 9
 - [Semințe 2.99 RON](https://depozitulgradinarului.ro/collections/semințe-sub-2-99-ron)
-  Updated: 2026-01-12T19:54:47Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 108
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
   Updated: 2026-01-02T13:52:05Z
@@ -4421,194 +4456,199 @@ Livrare rapidă!
   Updated: 2025-10-21T14:52:08Z
   Total Products: 8
 - [Promoții](https://depozitulgradinarului.ro/collections/promoții)
-  Updated: 2026-01-02T14:03:32Z
+  Updated: 2026-01-20T17:20:21Z
   Total Products: 336
 - [Semințe Legume Românești - Semințe Tradiționale pentru Grădină](https://depozitulgradinarului.ro/collections/seminte-romanesti): Cumpără semințe de legume românești de calitate, adaptate climei din România, cu germinare excelentă și producții sigure pentru grădină și agricultură!
-  Updated: 2026-01-12T19:54:47Z
+  Updated: 2026-01-20T12:28:25Z
   Total Products: 3
 
 ## Blogs
 
 - [Articole, Studii de Caz și Recomandări - Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole): Din pasiune pentru agricultură și grădinărit, postăm săptămânal articole despre grădinărit și agricultură. Recomandări de utilizare direct de la Ingineri agronomi.
   - [AGROSAN B : Soluția Eficientă împotriva Melcilor din grădina dumneavoastră!](https://depozitulgradinarului.ro/blogs/articole/agrosan-b-solutia-eficienta-impotriva-melcilor-din-gradina-dumneavoastra)
-    Updated: 2025-11-25T17:57:14Z
+    Updated: 2026-01-13T09:55:51Z
     Author: Sântimbrean Marius
+    Tags: Boli și Dăunători, pesticide
   - [Gazonul Universal: Soluția Ideală pentru o Peluză Perfectă](https://depozitulgradinarului.ro/blogs/articole/gazonul-universal-soluția-ideala-pentru-o-peluza-perfecta): <p>Gazonul Universal este cea mai sigură alegere pentru curțile din România: rezistă la trafic, soare, semiumbră și necesită întreținere minimă. În acest ghid afli cum îl alegi, cum îl semeni corect, ce produse îți trebuie și cum îl menții verde tot sezonul. Ideal pentru proprietarii care vor o peluză frumoasă fără efort excesiv.</p>
-    Updated: 2025-11-26T10:45:42Z
+    Updated: 2026-01-13T09:57:00Z
     Author: Sântimbrean Marius
-    Tags: gazon
+    Tags: DIY Grădină, Semințe și Plantare
   - [Îngrășământul Foliar Cropmax: Stimularea Creșterii și Dezvoltării Plantelor](https://depozitulgradinarului.ro/blogs/articole/ingrasamantul-foliar-cropmax-stimularea-cresterii-si-dezvoltarii-plantelor): <p>Cropmax este un biostimulator 100% natural, conceput pentru a ajuta plantele să treacă peste stres: caniculă, secetă, frig, grindină sau fitotoxicitate. Conține aminoacizi, hormoni vegetali, vitamine și microelemente care accelerează regenerarea, stimulează înflorirea, legarea și dezvoltarea rădăcinilor. Ideal pentru legume, pomi, vie, răsaduri, flori și gazon.</p>
-    Updated: 2025-11-26T10:46:35Z
+    Updated: 2026-01-13T10:27:36Z
     Author: Sântimbrean Marius
-    Tags: Îngrășământul Foliar
+    Tags: Îngrășăminte, Soluții Organice
   - [Pesticide naturale vs chimice | Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole/pesticide-naturale-vs-chimice-ghid-responsabil): Pesticide naturale vs chimice | Depozitul Grădinarului
-    Updated: 2025-11-25T19:26:05Z
+    Updated: 2026-01-13T09:58:55Z
     Author: Sântimbrean Marius
-    Tags: agricultură responsabilă, biopesticide, Depozitul Grădinarului, IPM, pesticide chimice, pesticide naturale, protecția culturilor, reziduuri MRL, siguranță alimentară, tratamente fitosanitare
+    Tags: pesticide, Soluții Organice
   - [Sisteme de Irigare Smart: Picurare vs Aspersie.](https://depozitulgradinarului.ro/blogs/articole/sisteme-irigare-smart-economiseste-apa-timp): Sisteme de Irigare Smart: Picurare vs Aspersie.
-    Updated: 2025-11-25T18:09:49Z
+    Updated: 2026-01-13T09:59:56Z
     Author: Sântimbrean Marius
-    Tags: aspersoare grădină, automatizare grădină, Depozitul Grădinarului, economisire apă, fertigare, irigare inteligentă, irigare prin picurare, pompe irigație, sisteme de irigare, tehnologie agricolă
+    Tags: Irigare
   - [Semințe de porumb: diferențe între soiuri tradiționale și hibrizi F1](https://depozitulgradinarului.ro/blogs/articole/seminte-porumb-soiuri-vs-hibrizi): Semințe de porumb: diferențe între soiuri tradiționale și hibrizi F1
-    Updated: 2025-11-25T18:38:42Z
+    Updated: 2026-01-13T10:00:42Z
     Author: Sântimbrean Marius
-    Tags: hibrizi, porumb, Semințe hibride, soiuri tradiționale
+    Tags: Culturi de Câmp, Semințe și Plantare
   - [Cum alegi semințele pentru grădina ta: ghid rapid și practic](https://depozitulgradinarului.ro/blogs/articole/cum-sa-alegi-semintele-pentru-gradina-ta): Cum alegi semințele pentru grădina ta: ghid rapid și practic
-    Updated: 2025-11-24T16:54:58Z
+    Updated: 2026-01-13T10:01:31Z
     Author: Sântimbrean Marius
-    Tags: Depozitul Grădinarului, pelleted, primed, seminte
+    Tags: Semințe și Plantare
   - [Ce este un pachet de tratament integrat și cum îți crește producția](https://depozitulgradinarului.ro/blogs/articole/ce-este-un-pachet-de-tratament-integrat-si-cum-iti-crește-productia): Ce este un pachet de tratament integrat și cum îți crește producția
-    Updated: 2025-11-25T19:20:52Z
+    Updated: 2026-01-13T10:02:19Z
     Author: Sântimbrean Marius
-    Tags: pachete de tratament
+    Tags: Fungicide, insecticide, pesticide
   - [Furaje și Concentrate pentru Porci: Ghid pe Faze de Creștere](https://depozitulgradinarului.ro/blogs/articole/furaje-concentrate-porci-ghid-nutritie-pe-faze): Furaje și Concentrate pentru Porci: Ghid pe Faze de Creștere
-    Updated: 2025-11-24T16:54:14Z
+    Updated: 2026-01-13T10:02:45Z
     Author: Sântimbrean Marius
-    Tags: concentrate, furaje, porci
+    Tags: Nutreț și Animale
   - [Îngrășăminte Bio și Fertilizare Organică – Ghid Practic](https://depozitulgradinarului.ro/blogs/articole/ingrasaminte-bio-fertilizare-organica-ghid): Îngrășăminte Bio și Fertilizare Organică – Ghid Practic
-    Updated: 2025-11-25T19:40:42Z
+    Updated: 2026-01-13T10:03:07Z
     Author: Sântimbrean Marius
-    Tags: biopesticide, concentrate, Fertilizare Organică, îngrășăminte bio
+    Tags: Îngrășăminte, Soluții Organice
   - [DIY Casă & grădină: 8 proiecte rapide, buget mic](https://depozitulgradinarului.ro/blogs/articole/diy-casa-gradina-proiecte-rapide-buget-mic): DIY Casă & grădină: 8 proiecte rapide, buget mic
-    Updated: 2025-11-25T19:21:46Z
+    Updated: 2026-01-13T10:03:48Z
     Author: Sântimbrean Marius
-    Tags: Proiecte DIY
+    Tags: DIY Grădină
   - [Lucernă, trifoi și amestecuri - ghid Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole/lucerna-trifoi-amestecuri-furajere-ghid): Lucernă, trifoi și amestecuri - ghid Depozitul Grădinarului
-    Updated: 2025-11-25T19:02:28Z
+    Updated: 2026-01-13T10:04:19Z
     Author: Sântimbrean Marius
-    Tags: lucernă, plante furajere, trifoi
+    Tags: Culturi de Câmp, Nutreț și Animale
   - [Comenzi en-gros pesticide, ingrasaminte si seminte](https://depozitulgradinarului.ro/blogs/articole/comenzi-en-gros-pesticide-ingrasaminte-si-seminte): Comenzi en-gros pesticide, ingrasaminte si seminte
-    Updated: 2025-11-25T18:39:41Z
+    Updated: 2026-01-13T10:04:36Z
     Author: Sântimbrean Marius
-    Tags: Depozitul Grădinarului, en-gros, pesticide
+    Tags: B2B și Angro
   - [Catalog en-gros 2025–2026 Depozitul Gradinarului](https://depozitulgradinarului.ro/blogs/articole/catalog-en-gros-2025-2026-depozitul-gradinarului): Catalog en-gros 2025–2026 Depozitul Gradinarului
-    Updated: 2025-11-25T19:20:13Z
+    Updated: 2026-01-13T10:04:56Z
     Author: Sântimbrean Marius
-    Tags: agricultură responsabilă, catalog en-gros, îngrășăminte bio
+    Tags: B2B și Angro
   - [Ghid: Făinarea la roșii: cauze, simptome și tratamente eficiente](https://depozitulgradinarului.ro/blogs/articole/fainarea-la-rosii-tratamente-simptome-preventie): Ghid: Făinarea la roșii: cauze, simptome și tratamente eficiente
-    Updated: 2025-11-25T19:34:43Z
+    Updated: 2026-01-13T10:05:18Z
     Author: Sântimbrean Marius
-    Tags: fainare, ghid complet, roșii, tratamente
+    Tags: Boli și Dăunători, Culturi Legumicole, Fungicide
   - [Mană la cartofi: simptome, cauze și tratament eficient cu Zorvec](https://depozitulgradinarului.ro/blogs/articole/mana-cartofi-tratament-cu-zorvec-ghid-complet): Mană la cartofi: simptome, cauze și tratament eficient cu Zorvec
-    Updated: 2025-11-25T19:34:43Z
+    Updated: 2026-01-13T10:05:54Z
     Author: Sântimbrean Marius
-    Tags: cartofi, mană, Phytophthora infestans, tratamente
+    Tags: Boli și Dăunători, Culturi Legumicole, Fungicide
   - [Paianjenul rosu la rosii: simptome, prevenire si tratament eficient](https://depozitulgradinarului.ro/blogs/articole/paianjenul-rosu-la-rosii-tratamente-simptome-prevenire): Paianjenul rosu la rosii: simptome, prevenire si tratament eficient
-    Updated: 2025-11-25T19:34:43Z
+    Updated: 2026-01-13T10:06:17Z
     Author: Sântimbrean Marius
-    Tags: ghid complet, insecticide, paianjen roșu, roșii
+    Tags: Boli și Dăunători, Culturi Legumicole
   - [Ofilirea tomatelor: cauze, simptome și tratamente eficiente](https://depozitulgradinarului.ro/blogs/articole/ofilirea-tomatelor-fusarium-verticillium-tratamente): Ofilirea tomatelor: cauze, simptome și tratamente eficiente
-    Updated: 2025-11-25T19:34:43Z
+    Updated: 2026-01-13T10:06:41Z
     Author: Sântimbrean Marius
-    Tags: fusarium, ofilirea vasculară, roșii, tomate, tratamente, verticillium
+    Tags: Boli și Dăunători, Culturi Legumicole, Fungicide
   - [Musculița albă la roșii: cum o recunoști și cum o ții sub control](https://depozitulgradinarului.ro/blogs/articole/musculita-alba-la-rosii-tratamente-preventie-solar): <p>Musculița albă poate compromite rapid o cultură de roșii, mai ales în solar. În acest ghid afli cum o recunoști, ce condiții o favorizează și cum o ții sub control cu insecticide eficiente și soluții bio, plus măsuri de prevenție pe termen lung.</p>
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:07:13Z
     Author: Sântimbrean Marius
-    Tags: roșii, roșii musculița albă, tratamente
+    Tags: Boli și Dăunători, Culturi Legumicole, insecticide
   - [Ghid BIO 2026: Reziduu-Zero, scheme și strategii de vânzare](https://depozitulgradinarului.ro/blogs/articole/ghid-produse-bio-2026): Ghid BIO 2026: Reziduu-Zero, scheme și strategii de vânzare
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:08:58Z
     Author: Sântimbrean Marius
-    Tags: 2026, Depozitul Grădinarului, produse bio, Reziduu-Zero 2026, soluții ecologice
+    Tags: Fungicide, Soluții Organice
   - [Conformitate B2B: Trasabilitate, SDS, retururi și garanții 2026](https://depozitulgradinarului.ro/blogs/articole/conformitate-b2b-trasabilitate-retururi-2026): Conformitate B2B: Trasabilitate, SDS, retururi și garanții 2026
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:09:16Z
     Author: Sântimbrean Marius
-    Tags: condiții comerciale, Depozitul Grădinarului, Parteneriat B2B 2026
+    Tags: B2B și Angro
   - [Udarea corectă în solar 2026: Ghid Complet Fără Greșeli](https://depozitulgradinarului.ro/blogs/articole/udarea-corecta-in-solar-2026-ghid-complet-fara-greseli): Udarea corectă în solar 2026: Ghid Complet Fără Greșeli
-    Updated: 2025-12-02T17:53:49Z
+    Updated: 2026-01-13T10:11:05Z
     Author: Sântimbrean Marius
-    Tags: irigare inteligenta, solar, udare
+    Tags: Culturi Legumicole, Irigare
   - [Furaje pentru păsări (en-gros): ghid complet pentru creștere sănătoasă](https://depozitulgradinarului.ro/blogs/articole/ghid-complet-furaje-pui-gaini): Furaje pentru păsări (en-gros): ghid complet pentru creștere sănătoasă
-    Updated: 2025-12-02T17:53:58Z
+    Updated: 2026-01-13T10:11:42Z
     Author: Sântimbrean Marius
-    Tags: en-gros, furaje, găini, păsări
+    Tags: Nutreț și Animale
   - [Erbicide pentru porumb: costuri și strategii eficiente](https://depozitulgradinarului.ro/blogs/articole/erbicide-porumb-costuri-strategii): Erbicide pentru porumb: costuri și strategii eficiente
-    Updated: 2025-12-02T17:54:25Z
+    Updated: 2026-01-13T10:12:11Z
     Author: Sântimbrean Marius
-    Tags: erbicide, porumb
+    Tags: Culturi de Câmp, erbicide
   - [Protecția rădăcinii la plantare: Trika Expert și Homevo (ghid 2026)](https://depozitulgradinarului.ro/blogs/articole/protectie-radacina-rasaduri-daunatori-sol-trika-homevo): Protecția rădăcinii la plantare: Trika Expert și Homevo (ghid 2026)
-    Updated: 2025-12-02T17:54:38Z
+    Updated: 2026-01-13T10:12:41Z
     Author: Sântimbrean Marius
-    Tags: coropișnița, insecticid, viermi se sârmă
+    Tags: insecticide, Semințe și Plantare
   - [Zeamă Bordeleză și Piatră Vânătă: Utilizare Corectă (Ghid 2026)](https://depozitulgradinarului.ro/blogs/articole/piatra-vanata-zeama-bordeleza-ghid-2026): Zeamă Bordeleză și Piatră Vânătă: Utilizare Corectă (Ghid 2026)
-    Updated: 2025-12-02T17:54:12Z
+    Updated: 2026-01-13T10:13:02Z
     Author: Sântimbrean Marius
-    Tags: fungicid, piatră vânătă, zeama bordeleză
+    Tags: Fungicide
   - [Melcii în Grădină 2026: Ce funcționează cu adevărat?](https://depozitulgradinarului.ro/blogs/articole/melci-limacsi-combatere-agrosan-b): Melcii în Grădină 2026: Ce funcționează cu adevărat?
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:13:21Z
     Author: Sântimbrean Marius
-    Tags: melci de grădină
+    Tags: Boli și Dăunători, pesticide
   - [Ulei horticol la pomi primavara-iarna: cand si cum il folosesti](https://depozitulgradinarului.ro/blogs/articole/ulei-horticol-pomi-tratament-iarna-primavara-2026): Ulei horticol la pomi primavara-iarna: cand si cum il folosesti
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:13:53Z
     Author: Sântimbrean Marius
-    Tags: tratamente, ulei horticol
+    Tags: insecticide
   - [Achiziții en-gros agro: cum reduci costurile](https://depozitulgradinarului.ro/blogs/articole/achizitii-en-gros-pesticide-furaje): Achiziții en-gros agro: cum reduci costurile
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:14:14Z
     Author: Sântimbrean Marius
-    Tags: Depozitul Grădinarului, en-gros, furaje, pesticide
+    Tags: B2B și Angro
   - [Conformitate fitofarmacie: etichete, timpi de pauză](https://depozitulgradinarului.ro/blogs/articole/conformitate-fitofarmacie-etichetare-timpi-pauza): Conformitate fitofarmacie: etichete, timpi de pauză
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:14:33Z
     Author: Sântimbrean Marius
-    Tags: 2026, agro, fitofarmacie, retail
+    Tags: B2B și Angro
   - [Pesticide Organice: Unde le găsești și Ce funcționează real în 2026](https://depozitulgradinarului.ro/blogs/articole/pesticide-organice-eficiente-2026): <p>Pesticidele organice nu mai înseamnă tratamente slabe și recolte pierdute. Zapex și Champ 77 WG te ajută să protejezi roșiile, castraveții și vița de vie cu produse potrivite pentru agricultura ecologică, comandate online, direct la poarta grădinii tale.</p>
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:15:29Z
     Author: Sântimbrean Marius
-    Tags: biopesticide, pesticide, pesticide organice, produse bio
+    Tags: pesticide, Soluții Organice
   - [Gama esențială pentru o fitofarmacie nouă: stoc inițial](https://depozitulgradinarului.ro/blogs/articole/gama-esentiala-fitofarmacie-noua-stoc-initial): Gama esențială pentru o fitofarmacie nouă: stoc inițial
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:15:48Z
     Author: Sântimbrean Marius
-    Tags: fitofarmacie
+    Tags: B2B și Angro, pesticide
   - [pH-ul Apei la Stropiri 2026: De ce nu funcționează pesticidele?](https://depozitulgradinarului.ro/blogs/articole/ph-apa-stropiri-ghid-2026): <p>De ce nu mai au pesticidele efectul așteptat, deși respecți dozele? În foarte multe solarii, problema este pH-ul și duritatea apei. Învață cum să o măsori, să o corectezi și să prepari corect soluția înainte de stropit.</p>
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:16:15Z
     Author: Sântimbrean Marius
-    Tags: 2026, pesticide, ph-ul apei, stropiri
+    Tags: pesticide
   - [Erbicid Total în Curte: Ghid 2026 Roundup Extra](https://depozitulgradinarului.ro/blogs/articole/erbicid-total-in-curte-ghid-2026): Erbicid Total în Curte: Ghid 2026 Roundup Extra
     Updated: 2025-12-07T15:37:20Z
     Author: Sântimbrean Marius
     Tags: erbicide
   - [Cei mai buni raticizi pentru șoareci și șobolani (ghid 2025)](https://depozitulgradinarului.ro/blogs/articole/cei-mai-buni-raticizi-pentru-soareci-si-sobolani-ghid-2025): Cei mai buni raticizi pentru șoareci și șobolani (ghid 2025)
-    Updated: 2025-12-07T15:37:20Z
+    Updated: 2026-01-13T10:17:23Z
     Author: Sântimbrean Marius
-    Tags: raticizi, șoareci, șobolani
+    Tags: Boli și Dăunători, pesticide
   - [Coropișnița și Viermii de Sârmă 2026: Insecticide Sol (Trika Expert)](https://depozitulgradinarului.ro/blogs/articole/coropisnita-viermi-de-sarma-protectie-la-plantare-trika-expert): Coropișnița și Viermii de Sârmă 2026: Insecticide Sol (Trika Expert)
-    Updated: 2026-01-06T13:55:37Z
+    Updated: 2026-01-13T10:18:02Z
     Author: Sântimbrean Marius
-    Tags: cartofi, coropișnița, fitofarmacie, insecticide, IPM, protecția culturilor, roșii, tratamente fitosanitare, viermi se sârmă
+    Tags: Boli și Dăunători, insecticide, Semințe și Plantare
   - [Protecția Pomilor de Iepuri și Căprioare: Metode Mecanice și Chimice](https://depozitulgradinarului.ro/blogs/articole/protectia-pomilor-tineri-iarna-iepuri-caprioare): Protecția Pomilor de Iepuri și Căprioare: Metode Mecanice și Chimice
-    Updated: 2026-01-06T14:16:58Z
+    Updated: 2026-01-13T10:19:24Z
     Author: Sântimbrean Marius
-    Tags: agricultură responsabilă, ghid complet, piatră vânătă, protecția culturilor, stropiri, tratamente fitosanitare, zeama bordeleză
+    Tags: Ghiduri Sezoniere
   - [Fertilizarea de Toamnă 2026: Pregătirea Solului cu NPK și Organice](https://depozitulgradinarului.ro/blogs/articole/fertilizarea-de-toamna-2026-pregatirea-solului-npk-organice): Fertilizarea de Toamnă 2026: Pregătirea Solului cu NPK și Organice
-    Updated: 2026-01-06T14:35:12Z
+    Updated: 2026-01-13T10:20:09Z
     Author: Sântimbrean Marius
-    Tags: agricultură responsabilă, agro, Fertilizare Organică, ghid complet, îngrășăminte bio, produse bio
+    Tags: Ghiduri Sezoniere, Îngrășăminte
   - [Folie de Mulcire: Neagră sau Transparentă? Ghid Alegere 2026](https://depozitulgradinarului.ro/blogs/articole/folia-de-mulcire-2026-neagra-transparenta-maro-ghid-solar): Folie de Mulcire: Neagră sau Transparentă? Ghid Alegere 2026
-    Updated: 2026-01-06T14:52:38Z
+    Updated: 2026-01-13T10:20:35Z
     Author: Sântimbrean Marius
-    Tags: economisire apă, erbicide, irigare prin picurare, Proiecte DIY, protecția culturilor, sisteme de irigare, solar
+    Tags: Culturi Legumicole
   - [Întreținerea Uneltelor 2026: Ascuțire Foarfecă și Curățare Pompe](https://depozitulgradinarului.ro/blogs/articole/intretinerea-uneltelor-de-gradina-2026-ascutire-foarfeca-curatare-duze): Întreținerea Uneltelor 2026: Ascuțire Foarfecă și Curățare Pompe
-    Updated: 2026-01-06T15:22:26Z
+    Updated: 2026-01-13T10:21:18Z
     Author: Sântimbrean Marius
-    Tags: agricultură responsabilă, fitofarmacie, ghid complet, pesticide, Proiecte DIY, stropiri
+    Tags: DIY Grădină, Ghiduri Sezoniere
   - [Culturi de Toamnă 2026: Ce plantăm în Septembrie? (Salată, Măcriș)](https://depozitulgradinarului.ro/blogs/articole/culturile-de-toamna-2026-ce-plantam-in-septembrie-si-octombrie): Culturi de Toamnă 2026: Ce plantăm în Septembrie? (Salată, Măcriș)
-    Updated: 2026-01-09T13:17:27Z
+    Updated: 2026-01-13T10:21:43Z
     Author: Sântimbrean Marius
-    Tags: agricultură responsabilă, agro, ghid complet, îngrășăminte bio, protecția culturilor, seminte, solar
+    Tags: Culturi Legumicole, Ghiduri Sezoniere, Semințe și Plantare
   - [Păduchii la Pomi și Furnicile: Cum scapi de ei? (Mospilan, Teppeki)](https://depozitulgradinarului.ro/blogs/articole/paduchii-la-pomi-furnici-frunze-rasucite-mospilan-teppeki): Păduchii la Pomi și Furnicile: Cum scapi de ei? (Mospilan, Teppeki)
-    Updated: 2026-01-09T13:38:55Z
+    Updated: 2026-01-13T10:22:06Z
     Author: Sântimbrean Marius
-    Tags: ghid complet, insecticid, insecticide, pesticide, pomi, protecția culturilor, stropiri
+    Tags: Boli și Dăunători, insecticide
   - [Fertilizarea pe Faze la Legume 2026: Înflorire vs. Coacere (Ghid Potasiu)](https://depozitulgradinarului.ro/blogs/articole/fertilizarea-pe-faze-la-legume-2026-inflorire-coacere-potasiu-calciu): Fertilizarea pe Faze la Legume 2026: Înflorire vs. Coacere (Ghid Potasiu)
-    Updated: 2026-01-09T14:07:45Z
+    Updated: 2026-01-13T10:22:29Z
     Author: Sântimbrean Marius
-    Tags: fertigare, Fertilizare Organică, ghid complet, Îngrășământul Foliar, roșii, solar, tomate
+    Tags: Culturi Legumicole, Îngrășăminte
   - [Gândacul de Colorado 2026: Cele mai Eficiente Insecticide (Coragen, Mospilan)](https://depozitulgradinarului.ro/blogs/articole/gandacul-de-colorado-2026-insecticide-rotatie-rezistenta): Gândacul de Colorado 2026: Cele mai Eficiente Insecticide (Coragen, Mospilan)
-    Updated: 2026-01-09T14:47:37Z
+    Updated: 2026-01-13T10:23:07Z
     Author: Sântimbrean Marius
-    Tags: 2026, cartofi, insecticid, insecticide, IPM, pesticide, protecția culturilor, tratamente, tratamente fitosanitare
+    Tags: Boli și Dăunători, Culturi Legumicole, insecticide
   - [De ce Cad Florile la Roșii? Cauze și Tratamente Legare (Cambo, Cropmax)](https://depozitulgradinarului.ro/blogs/articole/de-ce-cad-florile-la-rosii-si-ardei-cambo-cropmax-2026): De ce Cad Florile la Roșii? Cauze și Tratamente Legare (Cambo, Cropmax)
-    Updated: 2026-01-09T15:25:14Z
+    Updated: 2026-01-13T10:24:12Z
     Author: Sântimbrean Marius
-    Tags: ardei, biostimulator, bor, caderea-florilor, cambo, cropmax, fertilizare-foliara, legare, rosii, solar
+    Tags: Boli și Dăunători, Culturi Legumicole, Îngrășăminte
+  - [Trandafiri Sănătoși 2026: Combatere Pătarea Neagră și Afide (Ghid)](https://depozitulgradinarului.ro/blogs/articole/trandafiri-patarea-neagra-afide-tratament-2026): Trandafiri Sănătoși 2026: Combatere Pătarea Neagră și Afide (Ghid)
+    Updated: 2026-01-14T09:36:17Z
+    Author: Sântimbrean Marius
+    Tags: Fungicide, Ghiduri Sezoniere, insecticide, pesticide
 
 ## Store Pages
 
