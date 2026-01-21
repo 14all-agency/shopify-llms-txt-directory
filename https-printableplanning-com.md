@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-14T00:00:46.193Z
+- Updated At: 2026-01-21T04:00:27.726Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -442,7 +442,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Housekeeping_Log_Detailed_Service_Tracking_2_-_Printable_Planning.jpg?v=1564501319
   Price: $5.95 USD
 - [Team Bowling Blue Score Sheet - Printable](https://printableplanning.com/products/team-bowling-blue-score-sheet-printable): A printable Team Bowling Blue Score Sheet that allows you to keep track of the scores for up to (4) bowlers per game. Print a new sheet for each game of bowling. It's perfect for birthday parties, weekly team bowling, or athletic leisure bowling with a group of friends. The bottom of this sheet features an illustration of a bowling ball on a wooden alley, with a blue design for the background. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Keep track of scores for up to 4 bowlers per game. Designed for team bowling. Print a new printable Team Bowling Blue Score Sheet per game, or as needed.
-  Updated: 2025-07-21T19:21:08Z
+  Updated: 2026-01-20T03:15:34Z
   Vendor: Artistically Invited
   Product Type: Children's Pages
   Availability: Available
@@ -1086,7 +1086,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedRedAppleColorfulBookmarks5-up-PrintablePlanning.jpg?v=1686328289
   Price: $5.95 USD
 - [Personalized Heart Cupcake Pink Blue and Purple Bookmarks - Printable](https://printableplanning.com/products/personalized-heart-cupcake-pink-blue-purple-bookmarks-printable): Cute DIY printable personalized heart cupcake pink blue and purple bookmarks for your children or students that can be personalized with their names, and when printed on card stock makes for a durable reading gift. These fun bookmarks are designed with a pink cupcake with a heart paired with different gradient colors in pink, blue, and purple for each bookmark, and the names are personalized in pink. Parents and teachers love these affordable bookmarks because you can print as many as you need, changing the names as needed. Teachers can print these bookmarks for different occasions throughout the year and change the names to fit their classroom every year. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these bookmarks from these printable pages. PLEASE NOTE: Font size, style, and color is available only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Bookmarks measure approximately 7" x 2" each. Edit the names (every time you print). Colorful and cute. Print a new page of these printable personalized heart cupcake pink blue and purple bookmarks every time you need more.
-  Updated: 2025-07-21T19:20:27Z
+  Updated: 2026-01-16T06:32:34Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -1646,7 +1646,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PurpleBorderNameLabelsforSchoolSupplies-EXAMPLE-PrintablePlanning_21a35166-1853-462f-afeb-22f02c27fc3e.jpg?v=1687401022
   Price: $4.95 USD
 - [Border Color Name Labels for School Supplies BUNDLE - Printable](https://printableplanning.com/products/border-color-name-labels-for-school-supplies-bundle-printable): A bundle of printable 8.5" x 11" pages of Border Color Name Labels for School Supplies personalized with your name in dark gray in a white area over a background color in red, blue, pink, or purple that borders the name area. These name labels are perfect for putting your children's name on school supplies for back to school. These pages were programmed that when you update the names on one label, the rest then all update for that page. These pages match Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: (4) @ 8.5" x 11" printable PDF pages. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the name (every time you print). 1 name line. Edit one label on a page and it updates every label. Print new pages from this printable Border Color Name Labels for School Supplies BUNDLE every time you need more back-to-school name labels (or other use).
-  Updated: 2025-07-21T19:20:13Z
+  Updated: 2026-01-21T00:30:14Z
   Vendor: Artistically Invited
   Product Type: Name Labels
   Availability: Available
@@ -2839,25 +2839,25 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-01-09T12:01:07Z
+  Updated: 2026-01-20T12:01:15Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-01-03T12:01:12Z
+  Updated: 2026-01-17T12:01:14Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2026-01-09T12:01:07Z
+  Updated: 2026-01-20T12:01:15Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website  lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2026-01-01T12:00:41Z
+  Updated: 2026-01-15T12:01:18Z
   Total Products: 13
 - [Caregivers, Health, Housekeeping, and Pet forms at Printable Planning](https://printableplanning.com/collections/caregivers-health-housekeeping): A collection of printable forms designed for caregivers of both people and pets. Our comprehensive suite includes baby logs, nanny logs, health information sheets, and specialized forms for elderly and disability care. You'll also find a range of forms for housekeeping and cleaning tasks. Perfect for organizing and streamlining your caregiving responsibilities.
-  Updated: 2026-01-09T12:01:07Z
+  Updated: 2026-01-16T12:01:03Z
   Total Products: 41
 - [Printable Financial Sheets online at Printable Planning](https://printableplanning.com/collections/financial-sheets): Get your money organized with financial sheets. Printable Planning provides a collection of printable financial sheets and logs. Your money is one of your most important assets. It is important to keep track of your finances and follow your expenses. These financial sheets are designed to help you with various money-related areas of your life, from keep track of your finances, to help you keep track of your monthly bills, to help you with saving money, to help you with paying off debt. Find the printable financial sheets that will help you the most. • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2026-01-09T12:01:07Z
+  Updated: 2026-01-20T12:01:15Z
   Total Products: 43
 - [Holiday and Occasion Printables: Gift Tags, RSVP Organizers & More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Discover DIY Christmas gift tags, holiday bookmarks, RSVP organizers, and more, perfect for your holiday events, special occasions, or other celebrations.
-  Updated: 2025-12-24T12:01:45Z
+  Updated: 2026-01-17T12:01:14Z
   Total Products: 65
 - [Printable Calendars and Planner Pages | Letter Size and Undated](https://printableplanning.com/collections/calendars-and-planner-pages): Get organized with blank and undated printable calendars and planner pages. Perfect for home, work, or on-the-go. Perfect for professional or personal use.
   Updated: 2025-12-10T21:41:06Z
@@ -2869,13 +2869,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-09-12T11:01:24Z
   Total Products: 27
 - [Printable Bookmarks and Bookplates online at Printable Planning](https://printableplanning.com/collections/bookmarks-and-bookplates): Personalized DIY printable bookmarks and bookplates. The printable bookmarks are a favorite for parents and teachers to give to their young readers as gifts. The printable bookplate labels and stickers are great for labeling your books, and excellent for young readers to get excited about their books and reading.
-  Updated: 2025-12-11T19:30:36Z
+  Updated: 2026-01-17T12:01:14Z
   Total Products: 53
 - [Printable goodies for School and Teachers online at Printable Planning](https://printableplanning.com/collections/school-and-teachers): Grading forms, homework assignments, name labels for school supplies, and more! Printable Planning brings you a collection of printable forms and labels for back to school, the school year, and teacher forms and labels. Popular listings include the name labels for school supplies. You'll also find organizational pages for your homework, for teachers to grade their students, school supplies shopping lists, and more. • 8.5" x 11" printable PDF pages and label sheets.• Print as many times as you need once you have your download.
   Updated: 2026-01-07T12:01:05Z
   Total Products: 42
 - [Children's Printable Pages online at Printable Planning](https://printableplanning.com/collections/childrens-printable-pages): Printable pages, chore charts, and goodies for children. Printable Planning provides a collection of fun and useful printable chore charts, organizational pages, and goodies such as bowling sheets for children. Children need organization, and having kids means parents sometimes need organizational tools too. Shop this collection of highly affordable pages, charts, and goodies. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Some of the charts and goodies require DIY crafting to utilize their full use.
-  Updated: 2025-12-10T21:05:57Z
+  Updated: 2026-01-17T12:01:14Z
   Total Products: 29
 - [Printable Diet and Exercise Sheets online at Printable Planning](https://printableplanning.com/collections/diet-and-exercise-sheets): Stay on track with your health goals with Diet and Exercise Sheets. Printable Planning brings you a collection of printable diet tracking sheets and exercise logs. Whether you're making your New Years resolutions to get healthy and fit, or if you're looking for a better way to keep track of your diet and exercise goals, these printable tracking sheets and logs will help you stay organized. • 8.5" x 11" printable PDF pages.• Print as many times as you need. * Please consult a doctor or health professional before beginning any diet or exercise regimen. These printables are in no way an  by Printable Planning of any diet or exercise routine.
   Updated: 2025-11-23T12:01:17Z
