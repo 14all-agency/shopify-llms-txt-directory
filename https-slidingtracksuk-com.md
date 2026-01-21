@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-11T16:58:13Z
 - Contact Email: stevenrb_uk@yahoo.co.uk
-- Updated At: 2026-01-14T00:00:33.580Z
+- Updated At: 2026-01-21T00:00:35.792Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Availability: Available
     Price: £54.95 GBP
 - [12mm Sliding Door Track White Free Mainland Delivery](https://slidingtracksuk.com/products/12mm-sliding-door-track-white-free-mainland-delivery): 12mm Sliding Door Track White, to suit 12mm thick doors Overall width 36mm Other colours available Multi Buy options available on our ebay Page search Steves vivs check out our amazing feedback while you are there! Top track and bottom track included as pictured, Other lengths available These Double Tracks have a wide centre leg in order to space the boards, doors or panels that run within them. This means that cupboard or wardrobe doors, which typically have protruding fittings from handles or locks, can run unobstructed in the channels. With the deeper Top track and shallower Bottom track, these Double Tracks can be fitted before installing the doors or panels. Note that there are no metal fittings for these Double Tracks, such as wheels or internal guides - they rely on the doors sliding on the low friction PVC. Collection is welcome from us in preston Any questions just ask
-  Updated: 2025-12-27T15:02:41Z
+  Updated: 2026-01-19T10:34:56Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
@@ -510,7 +510,7 @@
     Availability: Available
     Price: £14.95 GBP
 - [Lancaster Oak Kwik Caps Self Adhesive Screw Caps](https://slidingtracksuk.com/products/lancaster-oak-kwik-caps-self-adhesive-screw-caps): 50 x KwikCaps Self Adhesive Screw Cover Caps - Natural Lancaster Oak Egger Match: W3368 ST9 Wax crayon match: Natural Lancaster OakWhy KwikCaps? Blend in perfectly. Just 0.3 mm thin for maximum concealment. Solid colours & wood grains - Match your surface accurately. Easy application, plus a secure, professional bond strength. 14mm & 20mm diameter screw caps are available. What Quantities are Available? 14mm KwikCaps. Total 50 caps
-  Updated: 2025-12-22T19:47:41Z
+  Updated: 2026-01-20T18:57:01Z
   Vendor: Sliding Tracks UK
   Product Type: 
   Availability: Available
@@ -679,21 +679,284 @@
   - [8' (2440mm) Length](https://slidingtracksuk.com/products/25mm-t-section-black?variant=52733241590087)
     Availability: Available
     Price: £64.95 GBP
+- [Driva Hollow Wall Fixings](https://slidingtracksuk.com/products/driva-hollow-wall-fixings): Pack of 20 plugs with screws included Driva hollow wall plugs are a type of self-drilling anchor, often made of nylon or metal, designed for secure fixing into hollow plasterboard walls and ceilings without pre-drilling, using a screwdriver to screw the spiral plug directly in until flush with the wall, then attaching your item with the provided screw. They offer great holding power for items like shelves, hooks, and brackets, with heavier-duty versions like Driva-Loc providing extra toggle action for even stronger support.
+  Updated: 2026-01-17T22:39:33Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/driva1.jpg?v=1768689502
+  Price: £7.95 GBP
+- [Soffit Circular Air Vent 70mm cut out uPVC Push In White](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white): Easily installed vents 70mm hole, the vent is 80mm at its largest point 70mm White Circular Soffit Vent - Effective Ventilation Solution for Roof Spaces Enhance Airflow with a Sleek, Durable 70mm White Soffit Vent The 70mm white Circular Soffit Vent is designed to provide efficient airflow and ventilation in roof spaces, preventing condensation and moisture build up. Crafted from durable, weather-resistant materials, this vent ensures reliable performance and longevity, even in challenging conditions. Its sleek finish blends seamlessly with existing soffits for a discreet look. Ideal for maintaining healthy air circulation, this vent is an essential addition to any well-ventilated roof space, combining functionality and style effortlessly.
+  Updated: 2026-01-20T09:14:18Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_200355.jpg?v=1768857242
+  - [5](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white?variant=53166926790983)
+    Availability: Available
+    Price: £8.95 GBP
+  - [10](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white?variant=53166926823751)
+    Availability: Available
+    Price: £11.95 GBP
+  - [20](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white?variant=53166926856519)
+    Availability: Available
+    Price: £19.95 GBP
+  - [100](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white?variant=53166926889287)
+    Availability: Available
+    Price: £39.95 GBP
+- [Soffit Circular Air Vent 70mm cut out uPVC Push In Brown / Teak](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white-copy): Easily installed vents 70mm hole, the vent is 80mm at its largest point 70mm Brown Circular Soffit Vent - Effective Ventilation Solution for Roof Spaces Enhance Airflow with a Sleek, Durable 70mm Brown Soffit Vent The 70mm brown Circular Soffit Vent is designed to provide efficient airflow and ventilation in roof spaces, preventing condensation and moisture build up. Crafted from durable, weather-resistant materials, this vent ensures reliable performance and longevity, even in challenging conditions. Its sleek finish blends seamlessly with existing soffits for a discreet look. Ideal for maintaining healthy air circulation, this vent is an essential addition to any well-ventilated roof space, combining functionality and style effortlessly.
+  Updated: 2026-01-20T09:10:01Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_200308.jpg?v=1768856970
+  - [5](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white-copy?variant=53166932721991)
+    Availability: Available
+    Price: £8.95 GBP
+  - [10](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white-copy?variant=53166932754759)
+    Availability: Available
+    Price: £11.95 GBP
+  - [20](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white-copy?variant=53166932787527)
+    Availability: Available
+    Price: £19.95 GBP
+  - [100](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-white-copy?variant=53166932820295)
+    Availability: Available
+    Price: £39.95 GBP
+- [Soffit Circular Air Vent 70mm cut out uPVC Push In Black](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-brown-teak-copy): Easily installed vents 70mm hole, the vent is 80mm at its largest point 70mm Black Circular Soffit Vent - Effective Ventilation Solution for Roof Spaces Enhance Airflow with a Sleek, Durable 70mm Black Soffit Vent The 70mm black Circular Soffit Vent is designed to provide efficient airflow and ventilation in roof spaces, preventing condensation and moisture build up. Crafted from durable, weather-resistant materials, this vent ensures reliable performance and longevity, even in challenging conditions. Its sleek finish blends seamlessly with existing soffits for a discreet look. Ideal for maintaining healthy air circulation, this vent is an essential addition to any well-ventilated roof space, combining functionality and style effortlessly.
+  Updated: 2026-01-20T13:22:14Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_200433.jpg?v=1768857089
+  - [5](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-brown-teak-copy?variant=53166938620231)
+    Availability: Available
+    Price: £8.95 GBP
+  - [10](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-brown-teak-copy?variant=53166938652999)
+    Availability: Available
+    Price: £11.95 GBP
+  - [20](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-brown-teak-copy?variant=53166938685767)
+    Availability: Available
+    Price: £19.95 GBP
+  - [100](https://slidingtracksuk.com/products/soffit-circular-air-vent-70mm-cut-out-upvc-push-in-brown-teak-copy?variant=53166938718535)
+    Availability: Available
+    Price: £39.95 GBP
+- [Kitchen Hinge Screw](https://slidingtracksuk.com/products/kitchen-hinge-screw): These are the small screws for mounting the kitchen / cabinet hinges 13.5mm length
+  Updated: 2026-01-19T21:25:15Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_190632.jpg?v=1768857533
+  - [5](https://slidingtracksuk.com/products/kitchen-hinge-screw?variant=53166966636871)
+    Availability: Available
+    Price: £3.95 GBP
+  - [10](https://slidingtracksuk.com/products/kitchen-hinge-screw?variant=53166966669639)
+    Availability: Available
+    Price: £5.95 GBP
+  - [25](https://slidingtracksuk.com/products/kitchen-hinge-screw?variant=53166966702407)
+    Availability: Available
+    Price: £10.95 GBP
+  - [50](https://slidingtracksuk.com/products/kitchen-hinge-screw?variant=53166966735175)
+    Availability: Available
+    Price: £14.95 GBP
+  - [100](https://slidingtracksuk.com/products/kitchen-hinge-screw?variant=53166966767943)
+    Availability: Available
+    Price: £24.95 GBP
+- [90mm (4") Mending Plate](https://slidingtracksuk.com/products/90mm-4-mending-plate): Zinc Plated Mending Brackets
+  Updated: 2026-01-19T21:29:41Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_191356.jpg?v=1768858058
+  - [5](https://slidingtracksuk.com/products/90mm-4-mending-plate?variant=53166977057095)
+    Availability: Available
+    Price: £3.95 GBP
+  - [10](https://slidingtracksuk.com/products/90mm-4-mending-plate?variant=53166977089863)
+    Availability: Available
+    Price: £5.95 GBP
+  - [25](https://slidingtracksuk.com/products/90mm-4-mending-plate?variant=53166977122631)
+    Availability: Available
+    Price: £9.95 GBP
+  - [50](https://slidingtracksuk.com/products/90mm-4-mending-plate?variant=53166977155399)
+    Availability: Available
+    Price: £14.95 GBP
+  - [100](https://slidingtracksuk.com/products/90mm-4-mending-plate?variant=53166977188167)
+    Availability: Available
+    Price: £19.95 GBP
+- [50mm (2") Right Angle Mending Plate](https://slidingtracksuk.com/products/50mm-2-right-angle-mending-plate): Zinc Plated Right Angle Mending Brackets
+  Updated: 2026-01-20T13:02:20Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_191656_1a9dbf67-9482-49cb-8c09-e1a3ea54f587.jpg?v=1768858425
+  - [5](https://slidingtracksuk.com/products/50mm-2-right-angle-mending-plate?variant=53167075787079)
+    Availability: Available
+    Price: £3.95 GBP
+  - [10](https://slidingtracksuk.com/products/50mm-2-right-angle-mending-plate?variant=53167075819847)
+    Availability: Available
+    Price: £5.95 GBP
+  - [25](https://slidingtracksuk.com/products/50mm-2-right-angle-mending-plate?variant=53167075852615)
+    Availability: Available
+    Price: £9.95 GBP
+  - [50](https://slidingtracksuk.com/products/50mm-2-right-angle-mending-plate?variant=53167075885383)
+    Availability: Available
+    Price: £14.95 GBP
+  - [100](https://slidingtracksuk.com/products/50mm-2-right-angle-mending-plate?variant=53167075918151)
+    Availability: Available
+    Price: £19.95 GBP
+- [Kitchen / Cabinet Hinge Repair Plate](https://slidingtracksuk.com/products/kitchen-cabinet-hinge-repair-plate): Fix the panel where the screw has ripped out of the side The flat connecting plate has a smooth design, easy to install; the package comes with stainless screws, just use a screwdriver or electric drill to fix the bracket in a breeze. Adopting hinge board technology, both door, and side panels can be used.
+  Updated: 2026-01-19T21:54:36Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_192753.jpg?v=1768858809
+  - [1 Pair](https://slidingtracksuk.com/products/kitchen-cabinet-hinge-repair-plate?variant=53168425730375)
+    Availability: Available
+    Price: £3.95 GBP
+  - [2 Pair](https://slidingtracksuk.com/products/kitchen-cabinet-hinge-repair-plate?variant=53168425763143)
+    Availability: Available
+    Price: £5.95 GBP
+  - [10 Pair](https://slidingtracksuk.com/products/kitchen-cabinet-hinge-repair-plate?variant=53168425795911)
+    Availability: Available
+    Price: £24.95 GBP
+- [Superfast Plus CT1 50ml (Large Bottle) Superglue](https://slidingtracksuk.com/products/superfast-plus-ct1-50ml-large-bottle-superglue): This stuff is amazing! and its what we use to fix the sliding tracks to anything,, A new concept in superglues, Superfast is almost a pure cyanacrylate with an amazing ability to bond and in many cases fuse base materials together. SUPERFAST PLUS is an adhesive which bonds in seconds and has a special formula based on Cyanacrylate. SUPERFAST PLUS is a one component adhesive which does not contain solvent and consists mainly of Athyl Cyanacrylate Monomer. SUPERFAST PLUS is temperature resistant in the range from 30°C up to 100°C. SUPERFAST PLUS is resistant to solvents, oils, benzene, temperature fluctuations and atmospheric conditions. No heating – No soldering – No mixing.Very high tensile strength.Bonds in seconds.Colourless. APPLICATIONS SUPERFAST PLUS provides an exceptionally strong bond between almost all kinds of materials, with the exception of polyethylene, polypropylene and fluorine containing plastic materials. Materials which can be bonded: ABS, aluminium, bakelite, bronze, buthyl, celluloid, choroprene, chrome, delrin, glass, copper, natural rubber, NBR, neoprene, nitril, nylon, phenol, polycarbonate, polystyrene, porcelain, hard PVC, stainless steel, steel.
+  Updated: 2026-01-19T22:01:40Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_195837.jpg?v=1768860067
+  Price: £9.95 GBP
+- [35mm Soft Close Kitchen / Cabinet Hinges](https://slidingtracksuk.com/products/35mm-soft-close-kitchen-cabinet-hinges): Nickel-plated with full overlay and automatic closing. For door thickness 14-22mm. Steel Construction Clip-On Soft-Close Overlay
+  Updated: 2026-01-19T22:06:18Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_195414.jpg?v=1768860270
+  - [1 Pair](https://slidingtracksuk.com/products/35mm-soft-close-kitchen-cabinet-hinges?variant=53168448504135)
+    Availability: Available
+    Price: £4.95 GBP
+  - [5 Pair](https://slidingtracksuk.com/products/35mm-soft-close-kitchen-cabinet-hinges?variant=53168448536903)
+    Availability: Available
+    Price: £12.95 GBP
+  - [10 Pair](https://slidingtracksuk.com/products/35mm-soft-close-kitchen-cabinet-hinges?variant=53168448569671)
+    Availability: Available
+    Price: £24.95 GBP
+  - [50 Pair](https://slidingtracksuk.com/products/35mm-soft-close-kitchen-cabinet-hinges?variant=53168448602439)
+    Availability: Available
+    Price: £49.95 GBP
+- [White Recessed Circular Vivarium Thermometer Humidity](https://slidingtracksuk.com/products/white-recessed-circular-vivarium-thermometer-humidity): Description : Premium Material: The selects premium plastic, which is sturdy and wear-resistant for long time use. Embedded: The features an embedded design, which is dust-proof and can protect the screen. Digital: The temperature gauge comes with a round cabinet, which features digital display, very professional. Portable: The weather gauge enjoys a compact size and light weight, which is portable and easy to carry when travelling. Multifunctional: The meter is also a hygrometer, which is suitable for indoor or outdoor. Specification: Colour: Black/White Material: Plastic. Size: Approx. 10x15x3cm/3.94x5.9x1.18inch. Temperature Range: -50°~70°. Measurement Accuracy: temperature: ±1°; humidity: ±5％. Resolution: temperature: 0.1°; humidity: 1%. Power Supply: 1.5V. Battery: Button batteryx1. Package Includes: 1 pc
+  Updated: 2026-01-20T17:38:13Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_194853.jpg?v=1768930447
+  Price: £5.95 GBP
+- [Black Recessed Circular Vivarium Thermometer Humidity](https://slidingtracksuk.com/products/black-recessed-circular-vivarium-thermometer-humidity): Description : Premium Material: The selects premium plastic, which is sturdy and wear-resistant for long time use. Embedded: The features an embedded design, which is dust-proof and can protect the screen. Digital: The temperature gauge comes with a round cabinet, which features digital display, very professional. Portable: The weather gauge enjoys a compact size and light weight, which is portable and easy to carry when travelling. Multifunctional: The meter is also a hygrometer, which is suitable for indoor or outdoor. Specification: Colour: Black/White Material: Plastic. Size: Approx. 10x15x3cm/3.94x5.9x1.18inch. Temperature Range: -50°~70°. Measurement Accuracy: temperature: ±1°; humidity: ±5％. Resolution: temperature: 0.1°; humidity: 1%. Power Supply: 1.5V. Battery: Button batteryx1. Package Includes: 1 pc
+  Updated: 2026-01-20T17:39:32Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_195039.jpg?v=1768930772
+  Price: £5.95 GBP
+- [Stainless Steel Sink Latch Screws for Kitchen Drain Plug](https://slidingtracksuk.com/products/stainless-steel-sink-latch-screws-for-kitchen-drain-plug): DescriptionMade from stainless steel, they offer excellent, ensuring long-term performance. Easy to install and replace, these screws are an essential accessory for any kitchen sink.The 35mm stainless steel sink drain plug screw is a practical and reliable solution for maintaining your kitchen sink. Designed to fit snugly in your vegetable washing basin, these screws ensure a secure and leak-free connectionFeatures -qty x 1-Colour: Silver-Material: Stainless Steel-Size:3.50X1.50X1.50cm/1.38X0.59X0.59in-Material: constructed from stainless steel, this sink drain plug screw is ensuring durability-Precise fit: the 35 mm screw size is for securing kitchen sink drainers, providing a reliable fit to prevent leaks
+  Updated: 2026-01-20T17:50:13Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_200148.jpg?v=1768931348
+  Price: £5.95 GBP
+- [Easy Fit Push To Open Cabinet Door Catch](https://slidingtracksuk.com/products/easy-fit-push-to-open-cabinet-door-catch): Specification： 100% Brand new and high quality.Colour: SilverFeature: Can be used in cabinet,drawer and also another furniture.Material: ABS and stainless steelPurpose: Soft Cushion Doors / Protecting FurnitureProduct size: 12.5 * 2.1 * 1.2cm (length of unfolded 12.5, length of unfolded 8.3) Features: It is designed to slow down the closing action of any door, soft close buffer enhanced style. Push to open system, can be used in cabinet, drawer and also another furniture, to replace the handle, This push to open system make the door close soft and completely and had a Wear-resisting rubber gasket. Enhanced style soft close buffer. Make the door close soft and completely because of the magnetic tip which is a suitable matcher with hinge.
+  Updated: 2026-01-20T20:08:50Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_192849.jpg?v=1768939132
+  - [1](https://slidingtracksuk.com/products/easy-fit-push-to-open-cabinet-door-catch?variant=53176455037255)
+    Availability: Available
+    Price: £5.95 GBP
+  - [5](https://slidingtracksuk.com/products/easy-fit-push-to-open-cabinet-door-catch?variant=53176455070023)
+    Availability: Available
+    Price: £12.95 GBP
+  - [10](https://slidingtracksuk.com/products/easy-fit-push-to-open-cabinet-door-catch?variant=53176455102791)
+    Availability: Available
+    Price: £19.95 GBP
+  - [25](https://slidingtracksuk.com/products/easy-fit-push-to-open-cabinet-door-catch?variant=53176455135559)
+    Availability: Available
+    Price: £39.95 GBP
+  - [50](https://slidingtracksuk.com/products/easy-fit-push-to-open-cabinet-door-catch?variant=53176455168327)
+    Availability: Available
+    Price: £49.95 GBP
+- [1000x Nails To Suit Parkside Lidl Air Compressor Stapler Various Sizes](https://slidingtracksuk.com/products/1000x-nails-to-suit-parkside-lidl-air-compressor-stapler-various-sizes): These are the nails to fit the Lidl Parkside Stapler, The stapler that runs off the air compressor These do not fit the electric or battery gun Several different lengths available
+  Updated: 2026-01-20T20:14:11Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_191937.jpg?v=1768940047
+  - [20mm](https://slidingtracksuk.com/products/1000x-nails-to-suit-parkside-lidl-air-compressor-stapler-various-sizes?variant=53176984109383)
+    Availability: Available
+    Price: £8.95 GBP
+  - [30mm](https://slidingtracksuk.com/products/1000x-nails-to-suit-parkside-lidl-air-compressor-stapler-various-sizes?variant=53176984174919)
+    Availability: Available
+    Price: £9.95 GBP
+  - [40mm](https://slidingtracksuk.com/products/1000x-nails-to-suit-parkside-lidl-air-compressor-stapler-various-sizes?variant=53176984240455)
+    Availability: Available
+    Price: £11.95 GBP
+  - [50mm](https://slidingtracksuk.com/products/1000x-nails-to-suit-parkside-lidl-air-compressor-stapler-various-sizes?variant=53177391153479)
+    Availability: Available
+    Price: £13.95 GBP
+- [Smart Sensor Light Kitchen Cabinet Closet Cupboard Wardrobe Hinge Lights](https://slidingtracksuk.com/products/smart-sensor-light-kitchen-cabinet-closet-cupboard-wardrobe-hinge-lights): Hinge LED Cabinet Light | Battery-Powered Auto Sensor Lighting for Cupboards, Closets & Wardrobes Bring instant visibility to your cupboards and cabinets with this smart LED hinge light. Compact, efficient and easy to install, it’s a clever lighting solution designed to turn on automatically when you open a door — giving you hands-free convenience exactly when you need it. Perfect for kitchen cupboards, wardrobe doors, bathroom cabinets and more, this practical little light is powered by a 12V battery (not included), making it completely wireless and ideal for DIY upgrades. ✅ Key Features: Automatic Door-Activated Lighting: Turns on instantly as the cabinet door opens, and off when it closes. Bright & Efficient LED Output: Equipped with 3x SMD3528 LED chips for crisp white light (warm or cool). Easy Installation – No Electrician Needed: Mounts directly onto the cabinet hinge using the included screw. Durable & Lightweight ABS Housing: Long-lasting ABS plastic construction ensures reliability and performance. Battery-Powered & Cord-Free: Operates on a 12V 23A battery (included) — no wiring required. Multipurpose Use: Ideal for kitchen units, wardrobes, hallway storage, and bathroom cabinets.
+  Updated: 2026-01-20T20:27:45Z
+  Vendor: Sliding Tracks UK
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/6300/2951/files/20260119_200010.jpg?v=1768940608
+  - [1](https://slidingtracksuk.com/products/smart-sensor-light-kitchen-cabinet-closet-cupboard-wardrobe-hinge-lights?variant=53178120208711)
+    Availability: Available
+    Price: £5.95 GBP
+  - [5](https://slidingtracksuk.com/products/smart-sensor-light-kitchen-cabinet-closet-cupboard-wardrobe-hinge-lights?variant=53178120241479)
+    Availability: Available
+    Price: £9.95 GBP
+  - [10](https://slidingtracksuk.com/products/smart-sensor-light-kitchen-cabinet-closet-cupboard-wardrobe-hinge-lights?variant=53178120274247)
+    Availability: Available
+    Price: £18.95 GBP
+  - [25](https://slidingtracksuk.com/products/smart-sensor-light-kitchen-cabinet-closet-cupboard-wardrobe-hinge-lights?variant=53178120307015)
+    Availability: Available
+    Price: £29.95 GBP
 
 ## Collections
 
 - [Home page](https://slidingtracksuk.com/collections/frontpage)
   Updated: 2026-01-07T12:24:28Z
   Total Products: 1
-- [Kwik Caps Self Adhesive Screw Caps](https://slidingtracksuk.com/collections/kwik-caps-self-adhesive-screw-caps): KwikCaps Self Adhesive Screw Cover Caps Why KwikCaps? Blend in perfectly. Just 0.3 mm thin for maximum concealment. Solid colours & wood grains - Match your surface accurately. Easy application, plus a secure, professional bond strength. 14mm & 20mm diameter screw caps are available.
-  Updated: 2025-12-22T19:47:36Z
-  Total Products: 1
 - [Self Adhesive Screw Caps](https://slidingtracksuk.com/collections/self-adhesive-screw-caps)
-  Updated: 2025-12-22T19:47:36Z
-  Total Products: 1
-- [Sliding Door Track Kits](https://slidingtracksuk.com/collections/sliding-door-track-kits)
-  Updated: 2026-01-13T12:24:04Z
+  Updated: 2026-01-17T22:55:45Z
+  Total Products: 5
+- [Sliding Door Track Kits](https://slidingtracksuk.com/collections/sliding-door-track-kits): These Double Tracks have a wide centre leg in order to space the boards, doors or panels that run within them. This means that cupboard or wardrobe doors, which typically have protruding fittings from handles or locks, can run unobstructed in the channels. With the deeper Top track and shallower Bottom track, these Double Tracks can be fitted before installing the doors or panels. Note that there are no metal fittings for these Double Tracks, such as wheels or internal guides - they rely on the doors sliding on the low friction PVC.
+  Updated: 2026-01-19T12:23:45Z
   Total Products: 13
+- [Featured Products](https://slidingtracksuk.com/collections/featured-products)
+  Updated: 2026-01-17T22:06:02Z
+  Total Products: 3
+- [Plastic Extrusions / Trims](https://slidingtracksuk.com/collections/plastic-extrusions-trims): A wide range of plastic extrusions to suit any application, from plinth seal to stop your kitchen plinths from swelling to u channel to finish off unfinished edges We've got you covered!
+  Updated: 2026-01-17T22:16:18Z
+  Total Products: 5
+- [Vents](https://slidingtracksuk.com/collections/vents): All sizes and colours of vents available, buy direct from the manufacturer to save money!
+  Updated: 2026-01-19T21:13:26Z
+  Total Products: 12
+- [Staples](https://slidingtracksuk.com/collections/staples): Staples to suit a wide range of staple , feel free to message us with any queries
+  Updated: 2026-01-20T20:14:07Z
+  Total Products: 2
+- [Fixings](https://slidingtracksuk.com/collections/fixings): From hollow wall fixings to basic screws, let us handle your needs!
+  Updated: 2026-01-20T20:25:35Z
+  Total Products: 12
+- [Pallets / Other Timber Based Products](https://slidingtracksuk.com/collections/pallets-other-timber-based-products): Eco friendly, responsibly sourced timber products, Pallets in small quantities
+  Updated: 2026-01-17T22:43:40Z
+  Total Products: 3
+- [Cabinet Handles](https://slidingtracksuk.com/collections/cabinet-handles): Selection of cabinet handles
+  Updated: 2026-01-17T22:48:21Z
+  Total Products: 1
+- [Kitchen Plinth Seal](https://slidingtracksuk.com/collections/kitchen-plinth-seal): Kitchen plinth seals (also known as kickboard sealing strips) are essential protective trims designed to bridge the gap between kitchen cabinets and the floor. They prevent water, dust, and debris from ingress beneath units, protecting the raw edges of plinth panels from moisture damage and swelling.
+  Updated: 2026-01-17T22:51:46Z
+  Total Products: 2
 
 ## Store Pages
 
