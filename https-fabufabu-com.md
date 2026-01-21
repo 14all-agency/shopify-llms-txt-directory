@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2026-01-12T00:00:35.029Z
+- Updated At: 2026-01-21T00:00:37.176Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/japan-twist-rhinestone-ear-clipsearringsfabufabufabufabu-design-storesl02741-d846f9d3-0202-4c79-80a7-339712fb630d-3992598.jpg?v=1765257972
   Price: $63.69 USD
 - [Mini Hoop Ring Pendant Necklace](https://fabufabu.com/products/mini-hoop-ring-pendant-necklace): DESIGNED IN JAPAN: A simple necklace that fits any style, with an open round top and a plump and shiny shape. This is a versatile necklace that goes well with any outfit. Although simple, the circular pattern exudes a subtle presence, and it can be matched with any outfit, so it is recommended as an everyday accessory. It can be worn in many occasions, whether dressed or not. Simplicity at its finest! Size: Motif: 0.9cm x 1cm, approx. 1.7g. Chain: Total length 38cm (with 3cm adjuster). Color: Gold color (K18 gold coating), Made in Japan, suitable for metal allergies/nickel-free MATERIAL: K18 gold-plated on Alloy metal, A Shiny Lifetime Protective Finish and Tarnish-resistant and Hypoallergenic,Lead Free and Nickle Free ,this Necklace doesn’t cause any irritation Comfortable Experience,Easy to Put on and Take off. THE PERFECT GIFT: This dazzling dainty jewelry is an excellent choice for birthdays, anniversaries, holidays, and more gift-giving occasions! Give this to your wife, girlfriend, friends, family members, loved ones or even better treat for yourself. Safely protect your skin! Nickel-free: Nickel is one of the culprits of metal allergies. This product does not contain nickel, has excellent skin-friendliness, and can be used with confidence. (Nickel-free products do not mean that they will never cause allergies. Even if you use nickel-free products, people who are allergic to substances other than nickel may have allergic reactions, so please be aware.) Note/Warning: The actual item may be slightly different from what you see on the screen. Thank you for your understanding.
-  Updated: 2025-12-26T12:37:18Z
+  Updated: 2026-01-18T10:31:38Z
   Vendor: fabufabu
   Product Type: Necklaces
   Availability: Available
@@ -46,21 +46,21 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/baby-toddler-hanger-closet-dividerscloset-dividersfabufabufabufabu-design-storeby26cover-02c4a686-62ac-4f0d-afdd-01bb6f57b07f-1459501.jpg?v=1765257969
   Price: $19.99 USD
 - [Morse Code Bracelet Couple Distance Matching](https://fabufabu.com/products/morse-code-bracelet-couple-distance-matching): I Love You or Fuck Off Secret Message Friendship Handmade Adjustable Bracelet Jewelry MEANINGFUL MORSE CODE MESSAGE: This Morse code bracelet features a carefully crafted message spelled out in Morse code, allowing you to wear a secret or meaningful phrase that holds significance to you or a loved one. ADJUSTABLE AND COMFORTABLE FIT: The bracelet is designed with an adjustable closure, ensuring a comfortable and secure fit on wrists of various sizes. It's suitable for both men and women. MATERIALS AND SIZE: high-quality copper beads, copper; Adjustable bracelet， Bracelet Size of About 16cm-28cm/6.3inch-11inch，beads：2mm， designed to leave on through daily wear including baths. STYLISH AND MINIMALIST DESIGN: Its sleek and minimalist design complements any outfit, making it a versatile accessory for both casual and formal occasions. It's a subtle yet fashionable way to express your unique message. THOUGHTFUL GIFT IDEA: Whether you're gifting it to a friend, family member, or significant other, this Morse code bracelet makes for a thoughtful and personalized present. It allows you to convey sentiments and messages in a creative and stylish manner. Accessories maintenance Wear recommendations: It is not recommended to wear any jewelry for bathing, bathing, swimming, sports, and avoid contact with hot springs, sea water, swimming pool chlorine, cleaning agents, or other chemicals. Before changing clothes or going to bed, you should remove the jewelry to prevent it from breaking or falling off due to accidental pulling and collision. Daily maintenance: When not wearing it, wipe the surface with cotton cloth or glasses cloth to remove water and dirt, and then put it in a sealed zipper bag to avoid air contact and oxidation. If the jewelry is stained with sweat or cosmetics, it is recommended to rinse it off with water, dry it, and air dry it before putting it in a zipper bag.
-  Updated: 2025-12-26T12:37:18Z
+  Updated: 2026-01-18T21:43:36Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/morse-code-bracelet-couple-distance-matchingbraceletsfabufabu-design-storefabufabu-design-storems009-lovei-love-ucover-1-5014925.jpg?v=1765257972
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_a5bcae8d-336f-4ac0-8c41-d85873907c98.jpg?v=1768729398
   - [I Love U](https://fabufabu.com/products/morse-code-bracelet-couple-distance-matching?variant=45465707315397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/morse-code-bracelet-couple-distance-matchingbraceletsfabufabu-design-storefabufabu-design-storems009-lovei-love-u6-e63de837-cc8b-42b4-a9e0-118549921fb6-2615087.jpg?v=1765257971
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/morse-code-bracelet-couple-distance-matchingbraceletsfabufabu-design-storefabufabu-design-storems009-lovei-love-u6-e63de837-cc8b-42b4-a9e0-118549921fb6-2615087.jpg?v=1768729398
     Price: $20.55 USD
   - [Off](https://fabufabu.com/products/morse-code-bracelet-couple-distance-matching?variant=45465707348165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/morse-code-bracelet-couple-distance-matchingbraceletsfabufabu-design-storefabufabu-design-storems009-offoff7-9a09efaf-d249-4a59-ab14-ebbd53c7e96d-8020458.jpg?v=1765257972
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/morse-code-bracelet-couple-distance-matchingbraceletsfabufabu-design-storefabufabu-design-storems009-offoff7-9a09efaf-d249-4a59-ab14-ebbd53c7e96d-8020458.jpg?v=1768729398
     Price: $20.55 USD
 - [Hemp Cords Ethnic Tribal Bracelets](https://fabufabu.com/products/hemp-cords-ethnic-tribal-bracelets): Colorful adjustable woven braided bracelets, simple and fashionable. These bracelets can be worn alone or stacked as you like, suitable for various occasions
-  Updated: 2025-12-26T12:37:19Z
+  Updated: 2026-01-14T08:44:18Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
@@ -144,11 +144,11 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/jewelry-8mm-glass-charm-braceletbraceletsfabufabu-design-storefabufabu-design-storesl0268cover-c1dd77b4-6968-4610-ab6d-f10948569014-1132544.jpg?v=1768030993
   Price: $21.97 USD
 - [Purple Butterfly Earrings](https://fabufabu.com/products/purple-butterfly-earrings): Fabufabu "Less is More” collection, Long Butterfly Dangle Earrings, Unique Jewelry Shows Perfect Elegance, Perfect For Own Use Or As A Gift. Long butterfly earrings dangle are made of Glass / Silver/ Stainless steel pearls with silver plated, nickel free, lead free, fade-resistant, durable and long lasting, hypoallergenic for your senstive ear. less is more from FABUFABU’s theme, Eye catching detachable purple pearl tassel drop earrings. Purple butterfly earrings with diamonds. These earrings are one of a kind and will definitely be eye catching so you’ll be sure to have many compliments. Length - 10.9cm Perfect Gift:Butterfly tassel style zircon earrings are the perfect anniversary gift, mother's day gift, graduation gift, Christmas gift, engagement gift, valentine's day gift, thanksgiving gift, wedding gift to show how important they are in your heart 🧚🏻♀️Jewellery care🧚🏻♀️To ensure the long lasting of this jewellery keep away from water so ensure you take your earrings out before showering, swimming or bathing, avoid any harsh chemicals such as perfumes, remove jewellery before going to bed or if doing any physical activity. To clean jewellery just wipe with a soft cloth.
-  Updated: 2026-01-10T07:43:18Z
+  Updated: 2026-01-14T22:51:04Z
   Vendor: fabufabu design store
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/purple-butterfly-earringsearringsfabufabu-design-storefabufabu-design-storesl0270cover-ecc6538b-8d0e-4f39-aa3d-0d5a4660e5d4-1703772.jpg?v=1768030989
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_d100fa2a-bf15-4848-bc56-ccf3fcf776b2.jpg?v=1768387859
   Price: $19.28 USD
 - [Pearl-Flower Style Earrings](https://fabufabu.com/products/pearl-flower-style-earrings): Fabufabu "Less is More” collection, unique and dreamy design, adds a little romance and cuteness to the monotonous life. High-quality alloy materials are used to carve exquisite florets, and the exquisite electroplating process is matched with pearl-like stud earrings. Simple and stylish design, earrings with gentle temperament. Add casual elegance to you. The surprises in the details also make the earrings light and dazzling as a whole. This earring is a two-way earring, which can be worn alone with pearl earrings. Suitable for the crowd: extremely simple style white-collar office workers, elegant and fashionable women, small and fresh personality Wen Qingfeng students Uses: Valentine's Day gift for girlfriend, graduation gift, friend gift, sisters, girlfriends, earrings, girlfriend gift Dimensions: 16mm x 14mm x 4mm Weight: less than 0.001kg Material: Alloy, zircon; imitation pearl shape: flower  process: electroplating *All products are shipped by Hongkong Post Registered by default, no tracking service*
   Updated: 2026-01-10T07:43:22Z
@@ -324,7 +324,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover.png?v=1766656229
   Price: $33.35 USD
 - [2pcs Drink Deflector Juice Box with Lid](https://fabufabu.com/products/2pcs-drink-deflector-juice-box-with-lid): Wide Range of Application: Milk box spout pourer is suitable for a wide range of applications, suitable for boxed milk, fruit and vegetable drinks, etc. With Lid: Box drinks spout pourer is compact and portable, easy to store and will not take you too much time. with lid, dustproof, sealed for ness.Multifunctional and wide application, suitable for boxed milk, fruit and vegetable drinks. Ergonomic Design: Box drinks spout pourer adopts ergonomic design, easy to install and convenient to pour drinks.It can be used inserting into the box drinks, easily pouring milk and beverages, with a cover design, clean and hygienic, and easy to keep. 2pcs: A total of 2 packs, sufficient quantity to meet your daily needs, easy to use and stable performance. ABS and PP+PEDF : Box drinks spout pourer is made of ABS and PP, sturdy and , deformation resistant, and can be used for a long time.
-  Updated: 2026-01-10T07:43:20Z
+  Updated: 2026-01-17T09:38:09Z
   Vendor: fabufabu design store
   Product Type: drink deflector
   Availability: Available
@@ -395,7 +395,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cordless-automatic-curling-iron-rechargeable-auto-curlerscurling-ironfabufabu-design-storefabufabu-design-storemy07cover-e34b40df-1446-45c1-95e3-712f9b5e0076-4439065.jpg?v=1768030996
   Price: $73.11 USD
 - [Platinum-plated Genuine Silver Bracelet](https://fabufabu.com/products/platinum-plated-genuine-silver-bracelet): 【MATCHING BRACELETS】Our silver bracelet is 7cm. The understated yet distinctive design of this chain bracelet for men & lady serves as an ideal accessory for all, making it a flawless option for both festive holiday gatherings and heartfelt gifting occasions. 【PREMIUM CRAFTSMANSHIP】Elevate your style with our men & lady bracelet, meticulously crafted from platinum-plated genuine silver. with a silver chain, the men & lady silver bracelet is not only visually appealing but also lead-free, nickel-free, and hypoallergenic. 【Trendy'S JEWELRY】Embrace the essence of understated elegance with our silver bracelet for all. This braclets effortlessly captures the essence of silver's style, showcasing simplicity and masculinity with a touch of refined charm. 【INSPIRATIONAL GIFTS FOR ALL】 An ideal choice for birthdays, parties, Valentine's Day, Thanksgiving, and Christmas. Whether it's your best friend, groom, husband, dad , this sterling silver trendy chain will make them feel your heart. **The color of the photo in the picture is slightly different from the actual product due to the environment. The actual product at the time of receipt shall prevail.** ●Maintenance knowledge 1. All jewelry, no matter what kind of material, is afraid of moisture, especially rain, sweat, perfume, bathing hot springs, chemical products, etc., will seriously damage the jewelry and produce oxidation, so it should be avoided and stayed away as much as possible. 2. Jewelry is recommended to be worn frequently, body oil can make jewelry produce a natural, warm and beautiful luster. 3. The jewelry will be oxidized over time and vulcanized or oxidized to turn yellow and black. You can use a moist soft toothbrush with toothpaste or dentifrice to gently brush the surface, or wipe with a silver or copper cloth to restore the original Metallic luster. 4. If you are worried that the chemical emulsion of silver wiping cloth and copper wiping cloth will cause skin allergies, you can rinse with water and wipe dry before wearing. 6. When not wearing it, put it in a sealed bag cleanly to reduce the oxidation rate. 8. Do not put all kinds of jewelry in the same jewelry box. Different hardness of the jewelry will rub against each other and cause wear. 9. Never use any other tools to clean your jewelry, which will leave scratches on the surface of the jewelry. If using a brush is necessary, please use a clean or very soft brush to scrub your jewelry.
-  Updated: 2026-01-10T07:43:23Z
+  Updated: 2026-01-13T08:19:28Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
@@ -440,6 +440,34 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/fabufabu-2paks-small-plastic-storage-containers-with-dust-proof-silicone-designstorage-boxfabufabu-design-storefabufabu-design-storech2162-blackblackcover-black-2898359.jpg?v=1768030991
     Price: $19.25 USD
+- [Medium Claw Hair Clips for Women Girls](https://fabufabu.com/products/medium-claw-hair-clips-for-women-girls): [ALL MATCHING COLOURS] The hair clip set comes in pink colour with red dot and a soft matte finish to match all your everyday outfits, and blend seamlessly with any hair color. [One Size Fits All] The 3.15“ & 1.18” hair claw clips are large enough to hold large sections of thick hair but still close tightly. These claw clips are perfect for any type of hair, including thick, thin, curly, fine and more. [Non-slip and Durable] These claw clips for women are made of strong plastic and will not shatter when dropped. It also has a strong metal spring and small inner teeth that help to grip the hair more tightly when in use. [Upgraded Design]The small clip features a unique double-layer teeth design, which provides a more secure grip and helps keep your hair in place.
+  Updated: 2026-01-13T02:31:26Z
+  Vendor: fabufabu design store
+  Product Type: Hair Clip
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_1467ffc7-883d-49be-a485-e735c7894eb5.png?v=1768215447
+  Price: $11.54 USD
+- [Smart Induction Automatic Foam hand wash](https://fabufabu.com/products/smart-induction-automatic-foam-hand-wash): The infrared sensor design does not require any pressure contact, a simple, convenient and intelligent handwashing experience, which can easily take care of the health and hygiene of the family. It automatically provides creamy fine foam, deeply cleans the pores and effectively inhibits daily bacteria by 99.9%. There is no need to use designated hand sanitizers, and liquid hand sanitizers of the foam mousse type on the market can be used. The body can be filled with a large capacity of about 300ml, and the three-stage bubble design can be used to match the needs, and also make the skin of the hand softer and smoother. Noble and simple style design, with temperature display, into the home taste. It adopts non-marking strong adhesive for easy installation in wall-mounted rooms, no need to punch holes, built-in 2000mAh lithium battery, and adopts the new design of type-c fast charging, which can be charged for up to 4 months at a time, which is extremely easy and convenient.
+  Updated: 2026-01-17T10:32:15Z
+  Vendor: fabufabu design store
+  Product Type: handwashing maching
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_8417c41d-4f36-4ff1-a528-20814d618b0b.jpg?v=1768645573
+  - [Black](https://fabufabu.com/products/smart-induction-automatic-foam-hand-wash?variant=45645018529989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_8417c41d-4f36-4ff1-a528-20814d618b0b.jpg?v=1768645573
+    Price: $48.74 USD
+  - [White](https://fabufabu.com/products/smart-induction-automatic-foam-hand-wash?variant=45645018562757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover2.jpg?v=1768645573
+    Price: $48.74 USD
+- [First Layer Cowhide Pencil Storage Bag](https://fabufabu.com/products/first-layer-cowhide-pencil-storage-bag): Pen accessories: leather pen cases have been created to offer lovers of fine writing instruments the companion from pen organizers to pen pouches for their favorite pens. Pen container: special retro design. handmade leather pen cases pouch holder, grade genuine leather. Simplely design, unisex. Whether in business or more casual settings. enjoy, and let your pens live in luxury!It feels comfortable and easy to carry. First layer cowhide pencil case: elegance yet functional, refined yet practical, make the perfect complement to any writing need. extremely durable. The leather pencil pouch is made from high quality leather, soft touching. It is a durable leather pen case which made with care and craftsmanship. With a fine stitching that looks good, durable for quality , give you a lifetime of use. Excellent Gift : With its smart capacity and nice look, this leather roll-up pencil case is the best solution to keep you organized. It also is a perfect gifts for Birthdays and Christmas! Perfect gift for artists, writers, professionals, and hobbyists. ideal for everyday use at college, university or in the office. All leather leather goods are not washable. When there are obvious stains, use a semi-dry cloth or colorless leather to clean and care products. Apply a small amount to a clean soft cloth and wipe the leather evenly.
+  Updated: 2026-01-20T07:25:37Z
+  Vendor: fabufabu design store
+  Product Type: Storage Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/covercoffee.png?v=1768893640
+  Price: $32.06 USD
 
 ## Collections
 
@@ -465,8 +493,8 @@
   Updated: 2026-01-09T03:20:29Z
   Total Products: 1
 - [Hairclip](https://fabufabu.com/collections/hairclip)
-  Updated: 2026-01-09T03:20:29Z
-  Total Products: 3
+  Updated: 2026-01-12T11:00:39Z
+  Total Products: 4
 - [BabyKids](https://fabufabu.com/collections/babykids)
   Updated: 2026-01-09T03:20:29Z
   Total Products: 1
@@ -474,8 +502,8 @@
   Updated: 2026-01-09T03:20:29Z
   Total Products: 3
 - [Home](https://fabufabu.com/collections/home)
-  Updated: 2026-01-09T03:20:29Z
-  Total Products: 6
+  Updated: 2026-01-20T07:23:39Z
+  Total Products: 8
 - [Man](https://fabufabu.com/collections/man-1)
   Updated: 2026-01-09T03:20:30Z
   Total Products: 3
@@ -487,7 +515,7 @@
 
 - [Contact](https://fabufabu.com/pages/contact)
   Updated: 2025-12-01T09:42:46Z
-- [Your privacy choices](https://fabufabu.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://fabufabu.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-01T13:56:31Z
 - [about fabufabu](https://fabufabu.com/pages/about-fabufabu): about fabufabu Welcome to fabufabu, our mission is to deliver the theme of “Hello! My Planet”. Just like lifestyle, various things are gradually ch...
   Updated: 2025-12-03T10:52:33Z
