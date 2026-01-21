@@ -6,29 +6,89 @@
 - Timezone: America/Jamaica
 - Created At: 2025-06-10T20:29:25Z
 - Contact Email: lizversh@gmail.com
-- Updated At: 2026-01-13T12:38:16.340Z
+- Updated At: 2026-01-21T00:00:27.712Z
 
 ## Products
 
-- [Silk Scrunchie - Pure Passion No.002](https://lissofficial.com/products/silk-scrunchie-pure-passion-no-001): 100% Mulberry Silk Scrunchie for smooth hair and effortless style.
-  Updated: 2025-12-10T14:21:03Z
+- [Silk Dreams Pillowcase — Burgundy](https://lissofficial.com/products/silk-dreams-pillowcase): A must-have for those who value their beauty sleep. Silk Dreams Pillowcase in Burgundy is crafted from 100% mulberry silk and designed to stay perfectly in place throughout the night. The secure closure prevents slipping and shifting, so your pillowcase stays smooth and comfortable while you sleep. Finished with optional custom embroidery, each pillowcase can be made uniquely yours.
+  Updated: 2026-01-18T21:57:42Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/LISS_Midnight_Silk_Scrunchie.jpg?v=1762602312
-  Price: €30.00 EUR
-- [Embroidery](https://lissofficial.com/products/embroidery)
-  Updated: 2026-01-12T14:08:32Z
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Silk_Dreams_Pillowcase_in_Burgundy.png?v=1768686576
+  Price: €55.00 EUR
+- [Silk Dreams Pillowcase — Olive](https://lissofficial.com/products/silk-dreams-pillowcase-1): A must-have for those who value their beauty sleep. Silk Dreams Pillowcase in Olive is crafted from 100% mulberry silk and designed to stay perfectly in place throughout the night. The secure closure prevents slipping and shifting, so your pillowcase stays smooth and comfortable while you sleep. Finished with optional custom embroidery, each pillowcase can be made uniquely yours.
+  Updated: 2026-01-18T05:37:19Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
-  Price: €10.00 EUR
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Silk_Dreams_Pillowcase_in_Olve.png?v=1768670907
+  Price: €55.00 EUR
+- [Silk Dreams Pillowcase — Creme](https://lissofficial.com/products/silk-dreams-pillowcase-2): A must-have for those who value their beauty sleep. Silk Dreams Pillowcase in Creme is crafted from 100% mulberry silk and designed to stay perfectly in place throughout the night. The secure closure prevents slipping and shifting, so your pillowcase stays smooth and comfortable while you sleep. Finished with optional custom embroidery, each pillowcase can be made uniquely yours.
+  Updated: 2026-01-18T09:54:11Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Silk_Dreams_Pillowcase_in_Creame.png?v=1768672373
+  Price: €55.00 EUR
+- [Big Scrunchie — Light Green](https://lissofficial.com/products/big-silk-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
+  Updated: 2026-01-18T09:19:39Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-LightGreen_f6b93fd9-057a-46d0-8d00-ed0d69c1d2cb.png?v=1768685536
+  Price: €25.00 EUR
+- [Big Scrunchie — Olive](https://lissofficial.com/products/olive-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
+  Updated: 2026-01-18T11:03:56Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-Olive.png?v=1768692004
+  Price: €25.00 EUR
+- [Big Scrunchie — Burgundy](https://lissofficial.com/products/burgundy-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
+  Updated: 2026-01-18T11:04:54Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Big_Scrunchie_-_Burgundy_Shade.png?v=1768685755
+  Price: €25.00 EUR
+- [Big Scrunchie — Creme](https://lissofficial.com/products/creme-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
+  Updated: 2026-01-18T11:05:26Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-CremeShade.png?v=1768685850
+  Price: €25.00 EUR
+- [Big Scrunchie — Coffee](https://lissofficial.com/products/coffee-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
+  Updated: 2026-01-18T11:06:27Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-CoffeeShade.png?v=1768686028
+  Price: €25.00 EUR
+- [Big Scrunchie — Champagne](https://lissofficial.com/products/champagne-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
+  Updated: 2026-01-18T09:48:30Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-Champagne.png?v=1768686297
+  Price: €25.00 EUR
+- [Surprise Set Scrunchies](https://lissofficial.com/products/surprise-set-scrunchies): You don’t choose the color — your shade chooses you. The LISS Surprise Set includes two silk scrunchies, carefully selected at random from our signature palette. Each set is designed to turn the moment of unboxing into a small ritual. Inside, you may discover two different tones from our core shades:Coffee, Cream, Champagne, Burgundy, Olive, or Light Green. Every shade carries its own mood.Trust the process — the right one always finds you.
+  Updated: 2026-01-19T02:46:26Z
+  Vendor: LISS OFFICIAL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/SupriseSet.png?v=1768746839
+  Price: €29.00 EUR
 
 ## Collections
 
 - [All Products](https://lissofficial.com/collections/all-products)
-  Updated: 2025-12-10T14:21:04Z
-  Total Products: 3
+  Updated: 2026-01-18T12:15:58Z
+  Total Products: 11
+- [Silk Dreams Collection](https://lissofficial.com/collections/silk-dreams-collection): Silk Dreams is a collection created from our belief that self-care should feel personal, intentional, and effortless.
+  Updated: 2026-01-17T23:20:09Z
+  Total Products: 9
 
 ## Store Pages
 
@@ -38,8 +98,10 @@
   Updated: 2025-07-28T23:58:30Z
 - [Care Instruction](https://lissofficial.com/pages/care-instruction)
   Updated: 2025-07-29T00:13:04Z
-- [Your privacy choices](https://lissofficial.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://lissofficial.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-10T15:08:39Z
+- [About Us](https://lissofficial.com/pages/about-us): 
+  Updated: 2026-01-18T14:39:57Z
 
 ## Policies
 
