@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2020-04-21T00:03:21Z
 - Contact Email: boutiqueblooms@rachelaclingen.com
-- Updated At: 2026-01-14T00:00:34.909Z
+- Updated At: 2026-01-21T00:00:36.417Z
 
 ## Products
 
@@ -31,202 +31,176 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-sympathy-flowers-toronto.jpg?v=1744825082
     Price: $289.99 CAD
-- [White Modern Bloom Box - Large](https://www.boutiqueblooms.ca/products/white-modern-large-bloom-box): Order White Modern Bloom Box - Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-12T23:50:30Z
+- [Mellow Yellow](https://www.boutiqueblooms.ca/products/mellow-yellows): Order Mellow Yellow - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
+  Updated: 2026-01-17T07:50:59Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-flowers-same-day-delivery-vaughan.jpg?v=1761144228
-  - [Grey Bloom Box](https://www.boutiqueblooms.ca/products/white-modern-large-bloom-box?variant=48059939750121)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-funeral-florist_60a5a676-49e1-4356-bfdb-d88f60bd02a9.jpg?v=1768593255
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=44811821449449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-flowers-same-day-delivery-vaughan.jpg?v=1761144228
-    Price: $155.99 CAD
-  - [White Bloom Box](https://www.boutiqueblooms.ca/products/white-modern-large-bloom-box?variant=44812062720233)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/modern-toronto-sympathy-flowers-same-day-delivery.jpg?v=1761144262
-    Price: $155.99 CAD
-- [Simply Summer](https://www.boutiqueblooms.ca/products/large-summer-mix-bloom-box): Order Simply Summer, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-19T23:55:15Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/prettiest-toronto-delivery-flowers.jpg?v=1737647498
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/large-summer-mix-bloom-box?variant=44811690148073)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-funeral-florist_60a5a676-49e1-4356-bfdb-d88f60bd02a9.jpg?v=1768593255
+    Price: $137.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=44811821514985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/prettiest-toronto-delivery-flowers.jpg?v=1737647498
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/funeral-flower-delivery_0a2830d3-c654-4a46-a641-016a28061677.jpg?v=1768593255
+    Price: $137.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=50026878861545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-flower-delivery_083848c4-8f95-4544-9870-9acfd702f1c3.jpg?v=1768593255
+    Price: $195.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=50026878894313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/newborn-flowers-toronto-delivery_e50460b5-a4f6-4a1f-89cd-ecf78b87882a.jpg?v=1768593255
+    Price: $195.99 CAD
+  - [Medium Grey Box](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=50026878927081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/torontos-best-flower-delivery_6ca642a6-bd2f-4c68-9d53-3ea9674138c7.jpg?v=1768593255
+    Price: $195.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=50026878959849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-luxury-flower-delivery_37c5a04f-f7f9-4fc8-ba0d-694dd7edb7d5.jpg?v=1768593255
+    Price: $259.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=50026878992617)
+    Availability: Available
     Price: $147.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/large-summer-mix-bloom-box?variant=44811690180841)
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=50026879025385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/beautiful-summer-flowers-gta.jpg?v=1737647462
-    Price: $157.99 CAD
-- [Mauve Mix Bloom Box - Small](https://www.boutiqueblooms.ca/products/summer-mauve-mix): Order Mauve Mix Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:23Z
+    Price: $205.99 CAD
+- [Designer's Choice Round Box](https://www.boutiqueblooms.ca/products/designers-choice-1): Order Designers Choice Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
+  Updated: 2026-01-20T03:08:01Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/mauve-roses-bolton-delivery.jpg?v=1739894537
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/summer-mauve-mix?variant=44812040241385)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/Mauve-purple-flowers-gta.jpg?v=1739894537
-    Price: $112.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/summer-mauve-mix?variant=44812040274153)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-shop_4866e229-22ee-471f-92cb-156f33c04576.jpg?v=1768591489
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=44811672486121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/mauve-roses-bolton-delivery.jpg?v=1739894537
-    Price: $117.99 CAD
-- [Designer's Choice Bloom Box - Large](https://www.boutiqueblooms.ca/products/designers-choice): Order Designers Choice Bloom Box - Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-09T14:52:16Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/designer-flowers-bolton.jpg?v=1730216346
-  - [Patterned Bloom Box](https://www.boutiqueblooms.ca/products/designers-choice?variant=44811757256937)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/designer-flowers-bolton.jpg?v=1730216346
-    Price: $159.99 CAD
-  - [Grey Bloom Box](https://www.boutiqueblooms.ca/products/designers-choice?variant=45759337726185)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/stylish-flowers-toronto.jpg?v=1730216373
-    Price: $159.99 CAD
-- [Mellow Yellow - Small](https://www.boutiqueblooms.ca/products/mellow-yellows): Order Mellow Yellow - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-21T13:21:45Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Vases
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/happy-sympathy-flowers-vaughan-delivery.jpg?v=1761144981
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=44811821449449)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/beautiful-sympathy-flowers-toronto.jpg?v=1761145025
-    Price: $114.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/mellow-yellows?variant=44811821514985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/happy-sympathy-flowers-vaughan-delivery.jpg?v=1761144981
-    Price: $119.99 CAD
-- [Sweet Summertime](https://www.boutiqueblooms.ca/products/sweet-summertime): The bloom box is packed with stunning seasonal blooms bringing summer wherever it goes. Designed in our large signature bloom box using in-season blooms. Available in Bloom Box or Vase Floral and vase varieties may vary depending on availability.
-  Updated: 2025-12-23T01:25:01Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/spring-summer-bloom-box.jpg?v=1708026312
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/sweet-summertime?variant=44811646206185)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sweet-summertime-toronto-blooms.jpg?v=1708026317
-    Price: $186.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/sweet-summertime?variant=44811657937129)
-    Availability: Available
-    Price: $196.99 CAD
-- [Designer's Choice Bloom Box - Small](https://www.boutiqueblooms.ca/products/designers-choice-1): Order Designers Choice Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-09T03:49:55Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-shop-toronto_62f5b426-1db2-4844-b320-808466ab28f4.jpg?v=1737126700
-  - [White Bloom Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=44811672486121)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-stylish-blooms-pink.jpg?v=1737126711
-    Price: $119.99 CAD
-  - [Pink Bloom Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=45759329796329)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-shop-toronto_62f5b426-1db2-4844-b320-808466ab28f4.jpg?v=1737126700
-    Price: $119.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=44811672518889)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-vase-flowers-delivery.jpg?v=1737126711
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-shop_4866e229-22ee-471f-92cb-156f33c04576.jpg?v=1768591489
     Price: $124.99 CAD
-- [Birthday Girl Bombshell](https://www.boutiqueblooms.ca/products/birthday-girl): The most vibrant combination of our premium blooms designed in our large signature box. The perfect birthday surprise! Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2026-01-11T01:26:41Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/vaughan-flowers.jpg?v=1738253653
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/birthday-girl?variant=44812246909161)
+  - [Small White Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=45759329796329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/vaughan-flowers.jpg?v=1738253653
-    Price: $219.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/birthday-girl?variant=44812246941929)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-florist_0fecf38b-b7d4-4bea-8287-2c8da9aa9f96.jpg?v=1768591489
+    Price: $124.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=44811672518889)
     Availability: Available
-    Price: $229.99 CAD
-- [Parisienne Petals](https://www.boutiqueblooms.ca/products/parisienne-petals-luxury-bloom-box): One of our most luxurious bloom boxes overflowing with seasonal premium flowers. Designed in our signature large box, this piece is an absolute stunner. Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-15T17:08:34Z
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-florist_53347add-5322-4c62-966d-6c5900a8377b.jpg?v=1768591722
+    Price: $142.99 CAD
+  - [Large Grey Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=50026860511465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/stylish-flower-shop-toronto_1866bad7-bc3c-472b-b96a-e73ab88807d4.jpg?v=1768591519
+    Price: $190.99 CAD
+  - [Extra Large Taupe Box](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=50026860544233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/torontos-best-flowers_d438fc4e-77ca-4c70-b0bd-2db293697ac8.jpg?v=1768591541
+    Price: $276.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=50026866376937)
+    Availability: Available
+    Price: $134.99 CAD
+  - [Large Vase](https://www.boutiqueblooms.ca/products/designers-choice-1?variant=50026866409705)
+    Availability: Available
+    Price: $199.99 CAD
+- [White Modern](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box): Order White Modern Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
+  Updated: 2026-01-20T19:02:15Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/florist_near_me.jpg?v=1738253905
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/parisienne-petals-luxury-bloom-box?variant=44812256116969)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8580_jpg.jpg?v=1768590565
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=48059928674537)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxurious-anniversary-flower-delivery-toronto.jpg?v=1687274112
-    Price: $339.00 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/parisienne-petals-luxury-bloom-box?variant=44812256149737)
-    Availability: Available
-    Price: $349.00 CAD
-- [White Modern Bloom Box - Small](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box): Order White Modern Bloom Box - Small, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-13T12:42:56Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/white-flowers-toronto-delivery.jpg?v=1761144047
-  - [Pink Bloom Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=48059928674537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/white-flowers-toronto-delivery.jpg?v=1761144047
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8580_jpg.jpg?v=1768590565
     Price: $109.99 CAD
-  - [White Bloom Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=44812061606121)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/modern-luxury-flower-delivery-gta.jpg?v=1742999891
+  - [Small White Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=44812061606121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8595_jpg.jpg?v=1768590565
     Price: $109.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=50026820698345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/2287CCA2-28B1-46A8-93F2-F580489C066A.jpg?v=1768590565
+    Price: $145.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=50026822861033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8605_jpg_5aacc052-e405-42df-aa7c-8168fa5e5458.jpg?v=1768590565
+    Price: $145.99 CAD
+  - [Medium Grey Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=50026823975145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8585_jpg.jpg?v=1768590565
+    Price: $145.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/small-white-modern-bloom-box?variant=50026830594281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8338_jpg.jpg?v=1768590565
+    Price: $189.99 CAD
 - [Wild One](https://www.boutiqueblooms.ca/products/wild-one): Order Wild One, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-23T03:15:47Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/toronto-flower-delivery_3759d00c-3baa-411b-8aeb-4eba991c8f02.jpg?v=1674595421
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/wild-one?variant=44812095488233)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/toronto-flower-delivery_3759d00c-3baa-411b-8aeb-4eba991c8f02.jpg?v=1674595421
-    Price: $126.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/wild-one?variant=44812095521001)
-    Availability: Available
-    Price: $131.99 CAD
-- [Mauve Mix Bloom Box - Large](https://www.boutiqueblooms.ca/products/mauve-mix-large): Order Mauve Mix Bloom Box - Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:24Z
+  Updated: 2026-01-17T08:49:56Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-delivery-flowers-same-day.jpg?v=1737743790
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=44812044075241)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-flower-delivery-gta_2336764c-6289-49d1-a43c-af8102572f94.jpg?v=1768597195
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/wild-one?variant=44812095488233)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-delivery-flowers-same-day.jpg?v=1737743790
-    Price: $155.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=44812044108009)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-flower-delivery-gta_2336764c-6289-49d1-a43c-af8102572f94.jpg?v=1768597195
+    Price: $135.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/wild-one?variant=44812095521001)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/IMG_7070_jpg.jpg?v=1737743658
-    Price: $165.99 CAD
-- [Stop It, I’m Blushing](https://www.boutiqueblooms.ca/products/sweetly-kissed): Blush tones & luxe blooms overflow in our Sweetly Kissed box. Perfect for any occasion. Order Toronto flower delivery today!
-  Updated: 2026-01-03T04:35:41Z
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/bolton-birthday-flowers_06bda431-e689-415d-b6c7-25dff073d8df.jpg?v=1768597195
+    Price: $135.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/wild-one?variant=50026928832745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-stylish-flower-bouquet-toronto_f3393378-a7f6-4e82-b67a-cd62d09323f6.jpg?v=1768597195
+    Price: $159.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/wild-one?variant=50026928865513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/birthday-flowers-toronto-same-day-delivery_55be3f0d-574e-4882-b756-11b462dc4111.jpg?v=1768597195
+    Price: $159.99 CAD
+  - [Medium Grey Box](https://www.boutiqueblooms.ca/products/wild-one?variant=50026928898281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/stylish-flower-arrangement-woodbrigde_35a7cc57-3976-4b5d-8ab8-53bd6b3b0c7e.jpg?v=1768597195
+    Price: $159.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/wild-one?variant=50026928931049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/wild-flower-bouquet-vaughan-delivery_28d41a26-6703-4a83-acd4-a67dbcd373bc.jpg?v=1768596933
+    Price: $248.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/wild-one?variant=50026928963817)
+    Availability: Available
+    Price: $145.99 CAD
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/wild-one?variant=50026928996585)
+    Availability: Available
+    Price: $169.99 CAD
+- [Mauve Mix](https://www.boutiqueblooms.ca/products/mauve-mix-large): Order Mauve Mix Bloom Box - Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
+  Updated: 2026-01-17T07:19:17Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-flower-gift-toronto.jpg?v=1615411222
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/sweetly-kissed?variant=44812252381417)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/F570ECAA-249E-49CB-A77F-53542CEF6E60.jpg?v=1768591139
+  - [Small White Box](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=44812044075241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-flower-gift-toronto.jpg?v=1615411222
-    Price: $265.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/sweetly-kissed?variant=44812252414185)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/F570ECAA-249E-49CB-A77F-53542CEF6E60.jpg?v=1768591139
+    Price: $115.99 CAD
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=44812044108009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/blush-flowers-gta.jpg?v=1738253858
-    Price: $275.99 CAD
-- ["Fall"ing in Love](https://www.boutiqueblooms.ca/products/falling-in-love): Order "Fall"ing in Love, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-06T20:43:50Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flowershop-autumn-flowers.jpg?v=1760021203
-  - [Bloom Box](https://www.boutiqueblooms.ca/products/falling-in-love?variant=44812090376425)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/074AF1A4-A44E-4FCE-99C1-7B6C5BDE8CD8.jpg?v=1768591139
+    Price: $115.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=50026841243881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flowershop-autumn-flowers.jpg?v=1760021203
-    Price: $209.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/falling-in-love?variant=44812090409193)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/1FBD8EA9-B20D-43B3-9715-9A2F26F70EEF.jpg?v=1768591139
+    Price: $185.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=50026841276649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/red-flowers-toronto.jpg?v=1760021137
-    Price: $219.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_8317_jpg.jpg?v=1768591139
+    Price: $185.99 CAD
+  - [Medium Grey Box](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=50026841309417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/74745753-4E9A-47C4-B92E-103DE4A1EE93.jpg?v=1768591139
+    Price: $185.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=50026841342185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/9CF0F270-BD3C-4F99-942C-49B89EC1E51E.jpg?v=1768591139
+    Price: $239.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=50026866147561)
+    Availability: Available
+    Price: $125.99 CAD
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/mauve-mix-large?variant=50026866180329)
+    Availability: Available
+    Price: $195.99 CAD
 - [Autumn Designers Choice - Signature Grey](https://www.boutiqueblooms.ca/products/autumn-designers-choice): Seasonal autumn flowers arranged in a designer bloom box. Order Autumn Designer’s Choice for a warm seasonal touch today.
   Updated: 2025-12-12T18:06:25Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -248,13 +222,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/anniversary-flowers-vaughan-delivery_57c472a8-50d0-48d7-b43a-21cf592022d9.jpg?v=1767898219
   Price: $309.99 CAD
-- [Luxury in Love](https://www.boutiqueblooms.ca/products/luxury-in-love): This absolutely stunning bloom box is the epitome of luxury. Layers and layers of premium roses overflowing from our signature blush hat box make for an overwhelming presentation. The perfect piece to tell someone you love them or to treat yourself! Floral varieties may vary based upon availability but we promise to make it beautiful! Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be .
-  Updated: 2025-12-12T18:06:25Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/image_072ca435-6e59-4954-9079-53f7afad7836.jpg?v=1675025625
-  Price: $399.99 CAD
 - [Peppermint Hot Chocolate](https://www.boutiqueblooms.ca/products/peppermint-hot-chocolate): This arrangement gives all the cozy vibes with peppermint hues, and fresh winter greens. A stunning blend of seasonal greens, ivory blooms, and just a touch of magnolia, ornaments, and pinecones. The most perfect arrangement all winter long! Arranged with love in our signature grey hat box. Floral varieties may vary based on availability but we promise to make it beautiful!
   Updated: 2025-12-29T17:19:26Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -263,7 +230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-christmas-flowers-toronto-delivery.jpg?v=1763152386
   Price: $199.99 CAD
 - [Lush Baby Love - Pink](https://www.boutiqueblooms.ca/products/lush-baby-love-pink): A luxurious blend of pink, blush, and ivory blooms mixed with soft seasonal greens. Designed with love in our large blush signature hat box finished with premium satin and "It's a Girl" ribbon. This bombshell box is the perfect gift to welcome a precious baby girl into the world! Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:25Z
+  Updated: 2026-01-16T01:49:04Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -288,6 +255,38 @@
   - [Made in Vase](https://www.boutiqueblooms.ca/products/berry-bliss?variant=44812089065705)
     Availability: Available
     Price: $205.99 CAD
+- [Pinks Please](https://www.boutiqueblooms.ca/products/pinks-please-1): This one is for the pink lovers! A round hat box filled with soft blush flowers complemented with hints of creamy blooms, creating the most elegant bloom box! Perfect for birthdays, an anniversary, or any occasion that needs a little extra sweetness. Carefully hand-delivered by our in-house team, ensuring dependable flower delivery across the GTA and beyond. Floral varieties may vary based upon availability but we promise to make it beautiful!
+  Updated: 2026-01-19T15:53:12Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-birthday-girl-flowers_f4cb0ec4-8ed7-454e-96c0-e2705bcd0f6f.jpg?v=1768592760
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=44812106334441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-birthday-girl-flowers_f4cb0ec4-8ed7-454e-96c0-e2705bcd0f6f.jpg?v=1768592760
+    Price: $139.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=47153467457769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-flower-arrangement-flower-delivery_5421bb94-2f54-489a-a8eb-15333f5f9f2a.jpg?v=1768592760
+    Price: $139.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=50026873880809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/bridal-shower-flowers-toronto_1126a7a5-f21d-4a8f-a0f5-054d0ddabc48.jpg?v=1768592470
+    Price: $189.99 CAD
+  - [Large Grey Box](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=50026873913577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-bouquet-toronto-flower-delivery_a998c48e-1401-44b4-8211-d72a9b751b20.jpg?v=1768592508
+    Price: $195.99 CAD
+  - [Extra Large Taupe Box](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=50026873946345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-flowers-same-day-delivery_f0fbfb3c-d668-49ee-9b56-3c7ec182172e.jpg?v=1768592579
+    Price: $259.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=50026874208489)
+    Availability: Available
+    Price: $149.99 CAD
+  - [Large Vase](https://www.boutiqueblooms.ca/products/pinks-please-1?variant=50026874241257)
+    Availability: Available
+    Price: $204.99 CAD
 - [Merry and Bright](https://www.boutiqueblooms.ca/products/holly-jolly-christmas): The most fun winter arrangement yet! Festive ornaments, premium fresh flowers, and fragrant winter greens make this the perfect piece to brighten up your special someone's day! Arranged with love in our small signature white hatbox. Floral and ornament varieties may vary based on availability but we promise to make it beautiful!
   Updated: 2025-12-24T03:49:15Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -337,19 +336,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/red-rose-bouquet-valentines-vaughan.jpg?v=1674600348
   Price: $109.99 CAD
-- [Show Me the Roses](https://www.boutiqueblooms.ca/products/show-me-the-roses-1): Roses upon roses packed into our signature and largest blush hat box. This luxurious box is the perfect way to say “I love you”, “I’m thinking of you”, “Happy Birthday”, or really for any occasion! Available in Bloom Box or Vase
-  Updated: 2025-12-12T18:06:27Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-rose-box-anniversary-gift-toronto.jpg?v=1615410973
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/show-me-the-roses-1?variant=44812243271913)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-rose-box-anniversary-gift-toronto.jpg?v=1615410973
-    Price: $225.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/show-me-the-roses-1?variant=44812243304681)
-    Availability: Available
-    Price: $235.99 CAD
 - [Luxury in Love Red | Valentine’s Flowers Oakville | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/luxury-in-love-1): Luxury in Love Red is a premium Valentine’s arrangement in rich red blooms, designed for a show-stopping gift. Delivery across Toronto & the GTA, including Oakville.
   Updated: 2026-01-10T04:53:02Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -357,33 +343,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-engagement-flower-delivery_c9ec1e53-4dd2-4641-87e9-e9edd98d524c.jpg?v=1767899058
   Price: $309.99 CAD
-- [Party Petals](https://www.boutiqueblooms.ca/products/party-petals): Order Party Petals, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:28Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-flowers-toronto-delivery.jpg?v=1729175117
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/party-petals?variant=44812064686313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-flowers-toronto-delivery.jpg?v=1729175117
-    Price: $160.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/party-petals?variant=44812064719081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-toronto-delivery-flowers.jpg?v=1742397300
-    Price: $170.99 CAD
-- [Petite Party Petals](https://www.boutiqueblooms.ca/products/petite-party-petals): This bloom box is nothing short of stunning and this colour palette is ready for a party! Vibrant, premium roses along with other mixed blooms designed in our signature pink square box. The perfect arrangement to say Happy Birthday, Happy Anniversary, Congratulations, or just to let someone know you're thinking of them! Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:28Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-shop-toronto.jpg?v=1748375924
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/petite-party-petals?variant=44811769839849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-shop-toronto.jpg?v=1748375924
-    Price: $128.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/petite-party-petals?variant=44811769872617)
-    Availability: Available
-    Price: $138.99 CAD
 - [Dinner for Two Centerpiece | Luxury Valentine’s Flowers Oakville | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/dinner-for-two): Dinner for Two Centerpiece is a romantic table arrangement made for Valentine’s hosting and date-night dinners. Delivery across Toronto & the GTA, including Oakville.
   Updated: 2026-01-10T07:50:33Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -392,32 +351,12 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/DinnerForTwoCenterpiece.jpg?v=1674766624
   Price: $149.99 CAD
 - [Family Love | Valentine’s Flowers Mississauga | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/family-love): Family Love is a warm, joyful Valentine’s arrangement made for celebrating the people you love most. Delivery across Toronto & the GTA, including Mississauga.
-  Updated: 2026-01-09T20:20:40Z
+  Updated: 2026-01-14T21:58:23Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/valentines-day-flowers-for-her.jpg?v=1767989724
   Price: $99.99 CAD
-- [Champagne Kisses](https://www.boutiqueblooms.ca/products/champagne-kisss): Order Champagne Kisses, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-18T17:58:49Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-flower-delivery-toronto.jpg?v=1737473444
-  Price: $219.99 CAD
-- [Butterfly Kisses](https://www.boutiqueblooms.ca/products/butterfly-kisses): Order Butterfly Kisses, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:28Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/birthday-flower-arrangement-delivery.jpg?v=1611246020
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/butterfly-kisses?variant=44812100272361)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/birthday-flower-arrangement-delivery.jpg?v=1611246020
-    Price: $129.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/butterfly-kisses?variant=44812100305129)
-    Availability: Available
-    Price: $134.99 CAD
 - [Fields of Flowers](https://www.boutiqueblooms.ca/products/summer-mix): Let our designers surprise you with a Summer Mix of in-season blooms! Hand-tied & ready for your vase. Order Toronto delivery today!
   Updated: 2026-01-08T07:39:01Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -431,17 +370,49 @@
     Availability: Available
     Price: $79.99 CAD
 - [Champagne and Pearls](https://www.boutiqueblooms.ca/products/pearly-petals): Pearly Petals add elegance with their delicate blooms, making them perfect for gifting or décor. Shop Pearly Petals now for fresh floral beauty.
-  Updated: 2026-01-07T18:52:13Z
+  Updated: 2026-01-17T11:48:36Z
   Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
+  Product Type: Bloom Bag
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/florist-near-me.jpg?v=1738251880
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6595_2.jpg?v=1768607292
   - [Large (Pictured)](https://www.boutiqueblooms.ca/products/pearly-petals?variant=33338720419917)
     Availability: Available
-    Price: $109.99 CAD
+    Price: $110.99 CAD
   - [Small](https://www.boutiqueblooms.ca/products/pearly-petals?variant=33338720452685)
     Availability: Available
     Price: $79.99 CAD
+- [On My Mind](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers): Send love with On My Mind Sympathy Flowers. White blooms in a grey hat box, perfect to say "I'm thinking of you." Toronto delivery today.
+  Updated: 2026-01-18T23:00:26Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-flower-arrangement-fast-bolton-delivery_90678374-f3cc-47db-ab58-4f5b160e3659.jpg?v=1768599012
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=44812261949673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-flower-arrangement-fast-bolton-delivery_90678374-f3cc-47db-ab58-4f5b160e3659.jpg?v=1768599012
+    Price: $118.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=44812261982441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sympathy-flowers-fast-toronto-delivery_8af80ec0-5b38-43ab-bc04-7211e9a0a89b.jpg?v=1768599012
+    Price: $118.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=50027001676009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/modern-flower-arrangement-vaughan-delivery_a7e24a50-6ae3-4db1-8133-c3c1b3f382d5.jpg?v=1768599012
+    Price: $139.99 CAD
+  - [Large Grey Box](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=50027001708777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-engagement-party-flowers_1cf9819f-9d99-4ab2-93a3-a6be98057d14.jpg?v=1768599012
+    Price: $162.99 CAD
+  - [Extra Large Taupe Box](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=50027001741545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-luxury-flower-shop_87656536-57c8-4b93-9b96-fbafc5901607.jpg?v=1768599012
+    Price: $236.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=50027001774313)
+    Availability: Available
+    Price: $128.99 CAD
+  - [Large Vase](https://www.boutiqueblooms.ca/products/on-my-mind-sympathy-flowers?variant=50027001807081)
+    Availability: Available
+    Price: $172.99 CAD
 - [Phoebe Vase](https://www.boutiqueblooms.ca/products/phoebe-vase): Get the perfect vase for your fresh cut blooms! 10.5" tall with a flared opening to allow your flowers the perfect spread.
   Updated: 2025-12-12T18:06:29Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -475,7 +446,7 @@
     Availability: Available
     Price: $79.99 CAD
 - [Pretty in Pink](https://www.boutiqueblooms.ca/products/pretty-in-pink): This bright bundle is the perfect blend of soft and deeper vibrant pinks. Balanced with some soft white and a touch of foliages. Fresh cut and packaged in our signature bloom bag ready to be transferred into your favourite vase or add-on one of our vases to your purchase! Pictured is our large bundle. Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2026-01-07T18:52:43Z
+  Updated: 2026-01-15T03:02:33Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Bag
   Availability: Available
@@ -501,18 +472,37 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/sympathy-funeral-standing-spray-flowers-woodbridge.jpg?v=1761143545
   Price: $599.99 CAD
 - [Send A Smile](https://www.boutiqueblooms.ca/products/send-a-smile): Order Send A Smile, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-13T18:47:26Z
+  Updated: 2026-01-17T09:07:28Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-delivery-flowers-same-day.jpg?v=1738185615
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/send-a-smile?variant=44812200706281)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/anniversary-flower-arrangement-toronto_f572f2b9-9a7f-40c1-86e2-4809dd5c3eb1.jpg?v=1768597345
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/send-a-smile?variant=44812200706281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-delivery-flowers-same-day.jpg?v=1738185615
-    Price: $162.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/send-a-smile?variant=44812200739049)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/anniversary-flower-arrangement-toronto_f572f2b9-9a7f-40c1-86e2-4809dd5c3eb1.jpg?v=1768597345
+    Price: $143.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/send-a-smile?variant=44812200739049)
     Availability: Available
-    Price: $172.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/thoughtful-delivery-flowers-vaughan_353c0d7e-8dfd-42e8-9d39-af399964770f.jpg?v=1768597445
+    Price: $143.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/send-a-smile?variant=50026991386857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/stylish-sympathy-flowers-toronto_26172e1e-fcd0-445a-9f45-fa48383bd908.jpg?v=1768597426
+    Price: $195.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/send-a-smile?variant=50026991419625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-bolton-delivery-flowers_c41ab43a-fa72-43b9-8590-48ef1f28bf5e.jpg?v=1768597407
+    Price: $195.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/send-a-smile?variant=50026991452393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/vaughan-sympathy-flowers-same-day-delivery_18faf92d-d5a5-4ebb-97c4-dec7eecd19f3.jpg?v=1768597472
+    Price: $259.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/send-a-smile?variant=50026991485161)
+    Availability: Available
+    Price: $153.99 CAD
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/send-a-smile?variant=50026991517929)
+    Availability: Available
+    Price: $205.99 CAD
 - [Designer's Choice Bloom Bag](https://www.boutiqueblooms.ca/products/designers-choice-2): Let our designers surprise you! A bloom box of fresh, in-season flowers picked just for you. Order Designer’s Choice with Toronto delivery!
   Updated: 2025-12-12T18:06:30Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -525,13 +515,6 @@
   - [Small](https://www.boutiqueblooms.ca/products/designers-choice-2?variant=39270676463693)
     Availability: Available
     Price: $99.99 CAD
-- [Make Her Day](https://www.boutiqueblooms.ca/products/make-her-mothers-day): Make her Mother’s Day special with our luxurious bloom box in blush tones. Order now for Toronto delivery and make her feel loved!
-  Updated: 2025-12-12T18:06:31Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/fresh-mothers-day-flowers-pickup-delivery.jpg?v=1617911422
-  Price: $199.99 CAD
 - [She's My Sunshine](https://www.boutiqueblooms.ca/products/shes-my-sunshine): This bright bloom box is the cheeriest colour palette! Packed with premium blooms in pinks, whites, blush, and just a touch of wispy yellows! Make her day this Mother's Day! Floral varieties may vary based on availability but we promise to make it beautiful!
   Updated: 2025-12-12T18:06:31Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -544,40 +527,38 @@
   - [Grey](https://www.boutiqueblooms.ca/products/shes-my-sunshine?variant=48357711708393)
     Availability: Available
     Price: $210.99 CAD
-- [Mom's Garden](https://www.boutiqueblooms.ca/products/moms-garden): This garden inspired piece is bursting with fresh, premium blooms in the prettiest colour palette. The perfect piece to remind someone of just how loved they are! Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:31Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/vaughaun-flower-delivery-mothers-day.jpg?v=1617997048
-  Price: $250.99 CAD
 - [Rainbows and Butterflies](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys): Order Rainbows and Butterflies, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:31Z
+  Updated: 2026-01-17T07:35:32Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flower-shop.jpg?v=1737562470
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=44811783831785)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-vaughan-flower-shop_f3bec2fb-00dd-4d89-88c1-491287c6e614.jpg?v=1768592106
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=44811783831785)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flower-shop.jpg?v=1737562470
-    Price: $104.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=44811783864553)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-vaughan-flower-shop_f3bec2fb-00dd-4d89-88c1-491287c6e614.jpg?v=1768592106
+    Price: $129.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=44811783864553)
     Availability: Available
-    Price: $109.99 CAD
-- [Send Mom Some Spring](https://www.boutiqueblooms.ca/products/send-some-spring): Send Some Spring! Vibrant seasonal blooms in our large square box, perfect to lift spirits. Order Toronto flower delivery today!
-  Updated: 2025-12-12T18:06:31Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/send-some-spring-blooms-toronto.png?v=1708026534
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/send-some-spring?variant=44811692900585)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/vaughan-flower-delivery_0759875e-7935-41e3-acf4-de993ac65a37.jpg?v=1768592106
+    Price: $129.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=50026863788265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/send-some-spring-blooms-toronto.png?v=1708026534
-    Price: $219.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/send-some-spring?variant=44811692933353)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flower-shop-delivery_f39e8e4d-11a0-4ca6-ab11-bc4c49c1cc51.jpg?v=1768592106
+    Price: $182.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=50026863821033)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/send-spring-flowers-toronto.jpg?v=1711044556
-    Price: $229.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-flower-delivery_6bb08bf9-9b39-42d9-ac78-d415910b7096.jpg?v=1768592106
+    Price: $182.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=50026863853801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flower-delivery_cffc2bd0-3d35-442e-b446-67dfaff9e500.jpg?v=1768592106
+    Price: $255.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=50026864247017)
+    Availability: Available
+    Price: $139.99 CAD
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/rainbows-and-butterflys?variant=50026864279785)
+    Availability: Available
+    Price: $192.99 CAD
 - [The Fun One](https://www.boutiqueblooms.ca/products/option-1): Let us have some fun with colour! This bloom bag subscription will be designed with seasonal, premium blooms in a designers choice colour palette. Delivered fresh cut in our stylish bloom bags ready to be transferred to your vase and enjoyed at home! All subscription arrangements are designers choice and are always beefed up with a few extra blooms - just because we love you that much!
   Updated: 2025-12-12T18:06:31Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -614,20 +595,6 @@
   - [Large](https://www.boutiqueblooms.ca/products/the-box-one?variant=39346729418829)
     Availability: Available
     Price: $197.99 CAD
-- [Fall For You](https://www.boutiqueblooms.ca/products/fall-for-you): Order Fall For You, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-12T18:06:32Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/stylish-florist-delivery-toronto.jpg?v=1632753349
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/fall-for-you?variant=44812097487081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/stylish-florist-delivery-toronto.jpg?v=1632753349
-    Price: $182.99 CAD
-  - [Made in vase](https://www.boutiqueblooms.ca/products/fall-for-you?variant=44812097519849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/fall-flowers-toronto-delivery.jpg?v=1728051755
-    Price: $192.99 CAD
 - [Rose Romance Blush | Luxury Valentine’s Roses Kleinburg | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/rose-romance): Rose Romance Blush is a soft, romantic Valentine’s rose arrangement in blush tones—curated for a luxury gift. Delivery across Toronto & the GTA, including Kleinburg and Vaughan.
   Updated: 2026-01-10T07:58:27Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -647,17 +614,76 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-rose-bouquet-same-day-delivery_dcc953d1-481d-4a66-b513-83c09176ef6a.jpg?v=1767899903
     Price: $279.99 CAD
 - [Blushing Blooms](https://www.boutiqueblooms.ca/products/blushing-blooms): Order Blushing Blooms, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-11T19:24:15Z
+  Updated: 2026-01-18T17:27:22Z
   Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
+  Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-blooms.jpg?v=1737127346
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=44812091195625)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/482DF63F-389F-43EB-9BCB-9A75772C4893_1cbefae6-fe43-4e03-9ed1-fa1f9ff68cec.jpg?v=1768598055
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=44812091195625)
     Availability: Available
-    Price: $220.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=44812091228393)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/482DF63F-389F-43EB-9BCB-9A75772C4893_1cbefae6-fe43-4e03-9ed1-fa1f9ff68cec.jpg?v=1768598055
+    Price: $115.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993090793)
     Availability: Available
-    Price: $230.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/D24D2862-8B41-4293-A917-A75A48B5C9BD_44350d94-e494-45e0-bbb4-2768e81732dd.jpg?v=1768598055
+    Price: $115.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993123561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/D5762FB5-C941-4701-ADAC-8BEC40AACA67_d6017b9e-13ab-43c0-ab1f-8445e95fff3d.jpg?v=1768598072
+    Price: $149.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993156329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/8835C5F2-43F2-4844-B14F-09F0BB2DA428_1938b424-ed8b-412c-9c24-bd9506274fb6.jpg?v=1768598072
+    Price: $149.99 CAD
+  - [Medium Grey Box](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993189097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/06ACCCEE-14B1-43CD-9D78-E9E80ABC41EF_05a72927-ad13-4ae0-9b39-8290e4a00a34.jpg?v=1768598055
+    Price: $149.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993221865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/C3233A00-A6F3-46D1-84E1-633A2162C8F7_9809ea3d-3a36-4186-a0b9-b08ab50bb22f.jpg?v=1768598055
+    Price: $243.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993254633)
+    Availability: Available
+    Price: $125.99 CAD
+  - [Large Vase](https://www.boutiqueblooms.ca/products/blushing-blooms?variant=50026993287401)
+    Availability: Available
+    Price: $253.99 CAD
+- [Modern Garden](https://www.boutiqueblooms.ca/products/modern-garden): Order Modern Garden, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
+  Updated: 2026-01-20T19:35:06Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/FD6A66EC-FD4F-4668-AC0C-CE82A1DF64F9.jpg?v=1754501159
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/modern-garden?variant=44812033589481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/4F04D96D-3DF2-4376-ADE5-259877EAF7C9.jpg?v=1754501159
+    Price: $115.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/modern-garden?variant=44812033556713)
+    Availability: Available
+    Price: $115.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/modern-garden?variant=48477227614441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/34D58317-A44F-4BC3-9A56-45FB27E4CB9D.jpg?v=1754501159
+    Price: $152.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/modern-garden?variant=48477227581673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/2CEC0987-EDEE-4F97-8D9C-D3D68B995795.jpg?v=1754501159
+    Price: $152.99 CAD
+  - [Medium Grey Box](https://www.boutiqueblooms.ca/products/modern-garden?variant=48636616212713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/7EA73584-2C11-475C-B68A-80C371657CE4.jpg?v=1754501159
+    Price: $152.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/modern-garden?variant=48477227679977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/FD6A66EC-FD4F-4668-AC0C-CE82A1DF64F9.jpg?v=1754501159
+    Price: $198.99 CAD
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/modern-garden?variant=48477227647209)
+    Availability: Available
+    Price: $162.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/modern-garden?variant=48477227548905)
+    Availability: Available
+    Price: $125.99 CAD
 - [White Chocolate](https://www.boutiqueblooms.ca/products/white-chocolate-long-lasting-arrangement): Designed in a modern, mounded style in combinations of whites and golds with touches of natural pinecones and rich green foliage. This is the perfect piece to give for the holidays or to dress up your entrance table. Available with or without florals. Ribbon and ornament varieties may vary based upon availability but we promise to make it beautiful!
   Updated: 2025-12-23T20:12:59Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -726,19 +752,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-christmas-box-toronto-delivery.jpg?v=1637796928
   Price: $87.99 CAD
-- [Petal Pink Rose Box](https://www.boutiqueblooms.ca/products/petal-pink-rose-box-2): These beautiful roses are designed in a beautiful, mounded, style in our brand new signature blush hat box! Finished with a beautiful satin ribbon. Exact ratio of rose varieties may vary but we promise to make it beautiful! Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be .
-  Updated: 2025-12-12T18:06:33Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-rose-box-pink-white-toronto.jpg?v=1639074497
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/petal-pink-rose-box-2?variant=44812362580201)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/luxury-rose-box-pink-white-toronto.jpg?v=1639074497
-    Price: $152.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/petal-pink-rose-box-2?variant=44812362612969)
-    Availability: Available
-    Price: $162.99 CAD
 - [Silver Bells](https://www.boutiqueblooms.ca/products/winter-whites): This long lasting, ever green arrangement is designed with long lasting, seasonal foliages and luxury ribbons, pine cones, and festive ornaments. With the addition of two taper style candles, this is the perfect piece to dress your table all Christmas long. Please note that exact ornament varieties may vary based on availability but we promise to make it beautiful!
   Updated: 2025-12-21T15:43:07Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -787,20 +800,6 @@
   - [Made in Vase](https://www.boutiqueblooms.ca/products/sweet-baby-bliss-1?variant=44812370772201)
     Availability: Available
     Price: $141.99 CAD
-- [Pink Lemonade](https://www.boutiqueblooms.ca/products/pink-lemonade): This bright palette of sweet pinks and citrus will have you wishing it was summer all year long! Arranged in our new signature pink square box and finished with a perfect bow, this piece is perfect for any celebration or to simply make someone smile! Available in Bloom Box or Vase Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:34Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-yellow-greens-summer.jpg?v=1695303841
-  - [Small Bloom Box](https://www.boutiqueblooms.ca/products/pink-lemonade?variant=44811730026729)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/PinkLemonade.jpg?v=1695303841
-    Price: $160.99 CAD
-  - [Large Bloom Box](https://www.boutiqueblooms.ca/products/pink-lemonade?variant=47169886617833)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pink-yellow-greens-summer.jpg?v=1695303841
-    Price: $185.99 CAD
 - [Peach Bellini](https://www.boutiqueblooms.ca/products/peach-bellini): This pretty blend of peaches and pinks balanced with fresh greenery is the perfect piece to brighten any day. Perfect as a sympathy piece, to celebrate a birthday, or simply show someone you're thinking of them! Designed in our large cylinder vase with fresh cut flowers. Also available in size small! Designed in a similar style in a smaller glass vase. Floral varieties may vary based on availability, but we promise to make it beautiful! *Vase style may vary depending on availability*
   Updated: 2025-12-20T03:25:24Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -863,20 +862,6 @@
   - [Small](https://www.boutiqueblooms.ca/products/le-vie-en-rose?variant=42588171075817)
     Availability: Available
     Price: $135.99 CAD
-- [Mellow Yellow - Large](https://www.boutiqueblooms.ca/products/large-mellow-yellows): Order Mellow Yellow - Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-19T19:01:45Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-delivery-toronto.jpg?v=1737062193
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/large-mellow-yellows?variant=44812006719721)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flower-delivery-toronto.jpg?v=1737062193
-    Price: $174.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/large-mellow-yellows?variant=44812006785257)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sympathy-flowers-toronto.jpg?v=1737124928
-    Price: $184.99 CAD
 - [Cinnamon Heart | Luxury Valentine’s Flowers Vaughan | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/forever-yours): Cinnamon Heart is a warm, romantic Valentine’s arrangement in rich, love-forward tones—designed for a luxury gift. Delivery across Toronto & the GTA, including Vaughan and Kleinburg.
   Updated: 2026-01-10T04:43:56Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -884,6 +869,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/rose-bouquet-valentines-day.jpg?v=1674600081
   Price: $109.99 CAD
+- [Be My Valentine | Luxury Valentine’s Flowers Kleinburg | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/be-my-valentine): Be My Valentine is a luxury arrangement made for the perfect Valentine’s gesture. Delivery across Toronto & the GTA, including Kleinburg and Vaughan.
+  Updated: 2026-01-18T04:16:24Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Bloom Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/BeMyValentine.jpg?v=1643921619
+  Price: $185.99 CAD
 - [Sweeter than Sugar](https://www.boutiqueblooms.ca/products/sweeter-than-sugar): This yummy blend of soft cream, nude, and blush give us all the heart eyes! Designed with beautiful texture and depth in our crystal Sarah Vase. The perfect piece to let someone know you are thinking of them. Please note that exact varieties may vary based on availability but we promise to make it beautiful! *Vase style may vary depending on availability*
   Updated: 2025-12-12T18:06:35Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -891,39 +883,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/Sweeter-tha-sugar-delivery-flower-toronto.jpg?v=1692898629
   Price: $258.99 CAD
-- [Boho Baby](https://www.boutiqueblooms.ca/products/boho-baby): Order Boho Baby, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-08T23:29:12Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/BohoBaby.jpg?v=1645112068
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/boho-baby?variant=44812088475881)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/BohoBaby.jpg?v=1645112068
-    Price: $199.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/boho-baby?variant=44812088508649)
-    Availability: Available
-    Price: $209.99 CAD
-- [Citrus Sorbet](https://www.boutiqueblooms.ca/products/citrus-sorbet): A beautiful mounded collection of rich peaches and pinks meaningfully arranged in our signature pink square box. This piece is a fun twist on our original white and blush rose boxes that is perfect for any occasion! Available in Bloom Box or Vase Exact ratio of rose varieties may vary but we promise to make it beautiful!
-  Updated: 2025-12-12T18:06:35Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/CirtusSorbet.jpg?v=1645114159
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/citrus-sorbet?variant=44811727306985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/CirtusSorbet.jpg?v=1645114159
-    Price: $145.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/citrus-sorbet?variant=44811727339753)
-    Availability: Available
-    Price: $150.99 CAD
 - [Pink Lady](https://www.boutiqueblooms.ca/products/pink-lady): Order Pink Lady, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-09T19:59:23Z
+  Updated: 2026-01-17T09:53:43Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6887.jpg?v=1690900721
-  Price: $172.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/A0E82525-F7BE-46E4-ADA1-92E0752F58CC.jpg?v=1768599502
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/pink-lady?variant=50027034509545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/A0E82525-F7BE-46E4-ADA1-92E0752F58CC.jpg?v=1768599502
+    Price: $203.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/pink-lady?variant=50027034542313)
+    Availability: Available
+    Price: $203.99 CAD
 - [Petite Petals | Valentine’s Flowers Mississauga | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/petite-rouge-rose-box): Petite Petals is a sweet, smaller Valentine’s arrangement—perfect for a thoughtful, elegant gift. Delivery across Toronto & the GTA, including Mississauga.
   Updated: 2026-01-10T07:27:20Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -938,6 +910,38 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-flowers-for-birthday_4f190939-bf29-4fb3-b94b-e055dcce72d6.jpg?v=1767901602
     Price: $89.99 CAD
+- [Peachy Keen](https://www.boutiqueblooms.ca/products/peachy-keen): Peachy Keen is a stunning fusion of soft peach roses, creamy white blooms, and a touch of greenery, creating a fresh, vibrant feel. The delicate blend of warm and cool tones is perfect for adding a bit of charm to any occasion. Whether brightening up a special event or sending a thoughtful gift, it is a beautiful mix of blooms anyone will be sure to love! Thoughtfully hand delivered by our dedicated in house team for reliable flower delivery in the GTA and beyond. Floral varieties may vary based upon availability but we promise to make it beautiful!
+  Updated: 2026-01-17T08:40:53Z
+  Vendor: Rachel A. Clingen Boutique Blooms
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/newborn-flowers-same-day-delivery-toronto_f1ac1b67-6489-4da4-af09-1c99834ad4c1.jpg?v=1768595813
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/peachy-keen?variant=44811727798505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/newborn-flowers-same-day-delivery-toronto_f1ac1b67-6489-4da4-af09-1c99834ad4c1.jpg?v=1768595813
+    Price: $112.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/peachy-keen?variant=50026913235177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/fast-same-day-delivery-flowers-vaughan_ae562552-4b72-41e0-94c2-60fb1f52830e.jpg?v=1768596018
+    Price: $112.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/peachy-keen?variant=50026913267945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sympathy-flower-bouquet-toronto_58e1d840-8072-465f-916c-59ae4b30372e.jpg?v=1768596018
+    Price: $132.99 CAD
+  - [Large Grey Box](https://www.boutiqueblooms.ca/products/peachy-keen?variant=50026913300713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-flower-delivery-woodbridge_5194e943-d228-4bfa-ab86-c51eab5189ce.jpg?v=1768596018
+    Price: $164.50 CAD
+  - [Extra Large Taupe Box](https://www.boutiqueblooms.ca/products/peachy-keen?variant=50026913333481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-birthday-flowers-fast-delivery_e541fc23-2fe5-4eea-96e2-a1fbda9a5a0c.jpg?v=1768596018
+    Price: $242.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/peachy-keen?variant=50026919756009)
+    Availability: Available
+    Price: $122.99 CAD
+  - [Large Vase](https://www.boutiqueblooms.ca/products/peachy-keen?variant=50026919788777)
+    Availability: Available
+    Price: $174.99 CAD
 - [May Mix](https://www.boutiqueblooms.ca/products/may-mix): This beautiful collection of blooms are ready to swing you into the summer mood! This bundle includes tulips, warm dusty pinks, whites and fresh greens. Floral varieties will vary based on availability but we promise it will be beautiful!
   Updated: 2025-12-12T18:06:36Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -1009,19 +1013,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/holiday-centrepiece-toronto-flower-shop.jpg?v=1762962678
   Price: $109.99 CAD
-- [White Garden Bloom Box](https://www.boutiqueblooms.ca/products/white-garden-bloom-box): This mix of beautiful white blooms is the perfect blend of modern and garden using a monochromatic palette and grouping the flowers within their varieties. Designed within our signature patterned bloom box - this is the perfect piece to decorate the neutral lovers home. Available in Bloom Box or Vase Please note that flower varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2025-12-30T19:06:16Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/best-flower-shop-toronto-GTA.jpg?v=1672865427
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/white-garden-bloom-box?variant=44812080873705)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/best-flower-shop-toronto-GTA.jpg?v=1672865427
-    Price: $189.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/white-garden-bloom-box?variant=44812080906473)
-    Availability: Available
-    Price: $218.99 CAD
 - [Sweet Baby Boy](https://www.boutiqueblooms.ca/products/sweet-baby-boy): Welcome a special baby boy into the world with this adorable arrangement of buttery yellows, whites, greenery and hints of blue. All nestled together in a white vase with a special blue ribbon. Floral varieties may vary based on availability but we promise to make it beautiful!
   Updated: 2026-01-10T13:34:46Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -1030,14 +1021,14 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-baby-flowers.jpg?v=1744305684
   Price: $86.99 CAD
 - [Sweet Baby Girl](https://www.boutiqueblooms.ca/products/sweet-baby-girl): The sweetest arrangement to celebrate a precious girl to the world. Dusty pinks and creamy whites with fresh greens, all bundled together in a pink ceramic pot with a special baby girl ribbon. Floral varieties may vary based on availability but we promise to make it beautiful!
-  Updated: 2026-01-06T17:44:57Z
+  Updated: 2026-01-16T22:04:43Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/products/newborn_flowers.jpg?v=1738254475
   Price: $86.99 CAD
 - [Cupid's Pick - Designers Choice](https://www.boutiqueblooms.ca/products/cupids-pick-designers-choice): Send someone some love this Valentine's Day with this custom designers choice hand tie. Cupid's Pick is both flirty and sweet! Soft pink tones and a punch of red with hints of greens, all bundled up in our signature branded paper, ready to be transferred into your favourite vase, or add-on one of our vases to your purchase! Floral varieties will vary based on availability but we promise it will be beautiful! Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots cannot be .
-  Updated: 2025-12-12T18:06:37Z
+  Updated: 2026-01-20T21:32:05Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: 
   Availability: Available
@@ -1104,7 +1095,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sympathy-funeral-flowers-toronto-gta-delivery.jpg?v=1708533658
   Price: $604.99 CAD
 - [Deluxe Standing Sympathy Spray](https://www.boutiqueblooms.ca/products/deluxe-standing-sympathy-spray): Send heartfelt condolences with our deluxe standing spray. Carefully arranged florals for a lasting tribute. Order now to convey your sympathy.
-  Updated: 2025-12-12T18:06:38Z
+  Updated: 2026-01-15T21:10:54Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Flowers
   Availability: Available
@@ -1125,7 +1116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/spring-pot-centrepiece-blooms-bolton.jpg?v=1708025878
   Price: $139.99 CAD
 - [Signs of Spring](https://www.boutiqueblooms.ca/products/handful-of-spring): Share spring joy! Send a Handful of Spring bouquet, perfect for Easter or gifting. Hand-tied and delivered fresh across Toronto.
-  Updated: 2026-01-11T13:54:36Z
+  Updated: 2026-01-16T23:49:51Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Bag
   Availability: Available
@@ -1173,41 +1164,72 @@
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/mothers-day-bouquet-gta.jpg?v=1682708544
   Price: $99.99 CAD
 - [Just So Pretty](https://www.boutiqueblooms.ca/products/just-so-pretty): Order Just So Pretty, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2026-01-13T13:08:26Z
+  Updated: 2026-01-20T02:34:36Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-toronto-delivery-flowers.jpg?v=1737127365
-  - [Pink Bloom Box](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=44811695718633)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-floral-delivery_174b2bd6-81e7-4c3c-8d77-61623ebf1a93.jpg?v=1768595622
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=44811695718633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/flower-delivery-toronto-same-day.jpg?v=1737127333
-    Price: $115.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=44811695751401)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-floral-delivery_174b2bd6-81e7-4c3c-8d77-61623ebf1a93.jpg?v=1768595622
+    Price: $139.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=44811695751401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/vaughans-best-florist_cbfe6510-87c9-45be-ab35-1dc0303260ac.jpg?v=1768595622
+    Price: $139.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=50026908942569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/torontos-best-florist-same-day-delivery.jpg?v=1768595622
+    Price: $194.99 CAD
+  - [Medium White Box](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=50026908975337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-toronto-florist-delivery_4050bd9d-25e3-4def-ab13-0a37a48e2268.jpg?v=1768595622
+    Price: $194.99 CAD
+  - [Large Taupe Box](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=50026909008105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-same-day-flower-delivery_064c468a-9deb-46d0-b138-2d57ca4e495b.jpg?v=1768595622
+    Price: $289.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=50026909040873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pretty-colourful-flowers-bolton.jpg?v=1737127333
-    Price: $120.99 CAD
+    Price: $149.99 CAD
+  - [Medium Vase](https://www.boutiqueblooms.ca/products/just-so-pretty?variant=50026909073641)
+    Availability: Available
+    Price: $204.99 CAD
 - [White Sangria](https://www.boutiqueblooms.ca/products/white-sangria): Order White Sangria, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-22T18:50:51Z
+  Updated: 2026-01-17T09:22:45Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6375.jpg?v=1683051404
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/white-sangria?variant=44811681956073)
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/birthday-flowers-toronto-delivery_1743e557-7e4a-4ed5-b310-4c4e8ef93dd3.jpg?v=1768598558
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/white-sangria?variant=44811681956073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6375.jpg?v=1683051404
-    Price: $215.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/white-sangria?variant=44811681988841)
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/birthday-flowers-toronto-delivery_1743e557-7e4a-4ed5-b310-4c4e8ef93dd3.jpg?v=1768598558
+    Price: $142.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/white-sangria?variant=44811681988841)
     Availability: Available
-    Price: $225.99 CAD
-- [Hand Tied For Her](https://www.boutiqueblooms.ca/products/hand-tied-for-her): Two dozen blush roses with greenery, wrapped in our bloom bag—ready to impress her and brighten hearts this Valentine's Day.
-  Updated: 2026-01-10T08:01:20Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/BeMyValentine_cc918ec6-6150-4064-89af-b7ab013100f3.jpg?v=1683135394
-  Price: $139.99 CAD
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-birthday-flowers-toronto-delivery_4419d18f-eaf1-4550-9ade-1e57039e0e4b.jpg?v=1768598558
+    Price: $142.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/white-sangria?variant=50026997809385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-vaughan-delivery-flowers_fffbcc2e-f75c-4533-880f-da8a47d0f3ea.jpg?v=1768598558
+    Price: $172.99 CAD
+  - [Large Grey Box](https://www.boutiqueblooms.ca/products/white-sangria?variant=50026997842153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-special-occasion-flowers-toronto_4e978d09-0d8b-416e-9964-74ca4e3b3e76.jpg?v=1768598558
+    Price: $239.99 CAD
+  - [Extra Large Taupe Box](https://www.boutiqueblooms.ca/products/white-sangria?variant=50026997874921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/same-day-delivery-birthday-flowers-woodbridge_4e501201-9f1c-4a1a-afef-eba159e900d3.jpg?v=1768598558
+    Price: $299.99 CAD
+  - [Small Vase](https://www.boutiqueblooms.ca/products/white-sangria?variant=50026997907689)
+    Availability: Available
+    Price: $152.99 CAD
+  - [Large Vase](https://www.boutiqueblooms.ca/products/white-sangria?variant=50026997940457)
+    Availability: Available
+    Price: $249.99 CAD
 - [Love You Forever](https://www.boutiqueblooms.ca/products/love-you-forever): Gift elegance with two dozen white roses wrapped in love. Perfect for Valentine’s Day. Order now and show someone they mean everything.
-  Updated: 2026-01-10T08:00:38Z
+  Updated: 2026-01-18T04:15:13Z
   Vendor: Rachel A. Clingen Boutique Blooms
   Product Type: Bloom Bag
   Availability: Available
@@ -1320,7 +1342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/rose-gold-pink-flowers-vaughan.jpg?v=1700075148
     Price: $189.99 CAD
 - [Snow Globe Centrepiece](https://www.boutiqueblooms.ca/products/small-orchid-centrepiece): Bring a touch of winter elegance to your table with the Snow Globe Centerpiece. This refined arrangement features creamy white roses paired with blush-toned cymbidium orchids, creating a soft, romantic palette reminiscent of freshly fallen snow. Lush seasonal evergreens and vibrant foliage add texture and depth, giving the piece a natural, wintry feel. Floral varieties may vary based upon availability but we promise to make it beautiful!
-  Updated: 2025-12-23T20:07:38Z
+  Updated: 2026-01-14T16:29:03Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Centrepiece
   Availability: Available
@@ -1403,27 +1425,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/valentines-gifts-toronto.jpg?v=1737489886
   Price: $162.99 CAD
-- [Garden of Roses](https://www.boutiqueblooms.ca/products/garden-of-roses): Beautiful tibet roses designed in staggering layers within our signature blush square hat box. This is the perfect piece for the classic rose lover.
-  Updated: 2025-12-12T18:06:43Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/toronto-rose-box-delivery_e7f9c2c2-426b-4185-9329-3269ef87be68.jpg?v=1706114893
-  Price: $172.99 CAD
-- [Large Rose Bloom Box](https://www.boutiqueblooms.ca/products/large-rose-bloom-box): A beautiful collection of premium roses in our signature large bloom box. A perfect way to send a 'congratulations', 'happy anniversary', 'happy birthday' or 'I love you'. Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be .
-  Updated: 2025-12-12T18:06:43Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-rose-flower-box_e7cbec73-db23-4eb2-bd76-d91dca1a010e.jpg?v=1706115024
-  Price: $132.99 CAD
-- [Petal Pink Rose Box](https://www.boutiqueblooms.ca/products/petal-pink-rose-box): Gift elegance with our Petal Pink Rose Box, wrapped in satin ribbon. Order today for Valentine's Day delivery in Toronto & beyond!
-  Updated: 2025-12-12T18:06:44Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-rose-box-pink-white-toronto_288ec5d7-b74e-4684-85f2-1c35db0ddaf9.jpg?v=1706119003
-  Price: $179.99 CAD
 - [Stop & Smell the Roses Red | Luxury Valentine’s Flowers Vaughan | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/rose-romance-white): Stop & Smell the Roses Red is a bold Valentine’s arrangement in rich red rose tones, curated for an unforgettable gift. Delivery across Toronto & the GTA, including Vaughan and Kleinburg.
   Updated: 2026-01-10T07:56:03Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -1456,13 +1457,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/white-rose-arrangement-perfect-gift-for-her.jpg?v=1767988094
     Price: $152.99 CAD
-- [Vanilla Bean](https://www.boutiqueblooms.ca/products/vanilla-bean-1): Roses upon roses arranged with love. This collection of premium white roses is the best way to show someone you're thinking of them on a birthday, anniversary, or any occasion! This piece is designed with care in our new signature patterned bloom box. Please note that deliveries on February 14th will be taking place between 8am - 5pm. Due to high volume of deliveries for this date, time slots can not be .
-  Updated: 2025-12-30T19:22:41Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/rose-bloom-box-delivery-vaughaun_8ca70015-7cd2-4583-ad7f-9d167a45ffe6.jpg?v=1706120322
-  Price: $190.99 CAD
 - [Amore Rouge | Luxury Valentine’s Flowers Kleinburg | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/products/amore-rouge): Amore Rouge is a luxury Valentine’s arrangement in romantic red tones, designed to make a statement. Delivery across Toronto & the GTA, including Kleinburg and Vaughan.
   Updated: 2026-01-10T04:53:24Z
   Vendor: Rachel A. Clingen Boutique Blooms
@@ -1649,19 +1643,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sumer-flowers-toronto.jpg?v=1720706779
     Price: $209.00 CAD
-- [Designer's Choice Bloom Box - X-Large](https://www.boutiqueblooms.ca/products/designers-choice-bloom-box-x-large): Order Designer's Choice Bloom Box - X-Large, featuring a vibrant blend of fresh blooms. Perfect for any occasion, with fast delivery.
-  Updated: 2025-12-13T08:43:32Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6552_jpg.jpg?v=1724432590
-  - [Bloom Box (as shown)](https://www.boutiqueblooms.ca/products/designers-choice-bloom-box-x-large?variant=47708424077545)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6552_jpg.jpg?v=1724432590
-    Price: $259.99 CAD
-  - [Made in Vase](https://www.boutiqueblooms.ca/products/designers-choice-bloom-box-x-large?variant=47708424110313)
-    Availability: Available
-    Price: $259.99 CAD
 - [Amber Elegance Centrepiece](https://www.boutiqueblooms.ca/products/amber-centrepiece): Amber Elegance Centrepiece, featuring seasonal blooms and warm foliage, creates a refined autumn floral arrangement for Thanksgiving tables.
   Updated: 2025-12-12T18:06:47Z
   Vendor: Boutique Blooms by Rachel A. Clingen
@@ -1761,48 +1742,32 @@
   - [$350.00](https://www.boutiqueblooms.ca/products/boutique-blooms-gift-card?variant=48008941895913)
     Availability: Available
     Price: $350.00 CAD
-- [White Modern Bloom Box - Extra Large](https://www.boutiqueblooms.ca/products/white-modern-bloom-box-extra-large): Order the White Modern Bloom Box, featuring premium white roses & tulips in a luxurious design. Perfect for any occasion. Order now!
-  Updated: 2026-01-09T00:02:11Z
-  Vendor: Rachel A. Clingen Boutique Blooms
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/deluxe-sympathy-arrangement-vaughan.jpg?v=1761144390
-  Price: $185.99 CAD
-- [Mellow Yellow - Extra Large](https://www.boutiqueblooms.ca/products/mellow-yellow-extra-large): Brighten their day with the Mellow Yellow extra-large box. Featuring fresh seasonal blooms. Order now to spread joy with vibrant flowers.
-  Updated: 2025-12-17T19:44:53Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-delivery-flowers-gta.jpg?v=1737062670
-  Price: $210.99 CAD
 - [Sweetheart | Toronto Flower Delivery | Boutique Blooms](https://www.boutiqueblooms.ca/products/sweetherart): Shop Sweetheart—a charming, gift-ready arrangement designed to feel warm and romantic. Premium blooms with reliable GTA delivery. Order online today.
-  Updated: 2026-01-09T20:00:41Z
+  Updated: 2026-01-20T15:10:58Z
   Vendor: Boutique Blooms by Rachel A. Clingen
   Product Type: Bloom Box
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-flower-arrangement-toronto-delivery.jpg?v=1761144576
-  Price: $384.99 CAD
-- [Champagne Kisses - Extra Large](https://www.boutiqueblooms.ca/products/champagne-kisses-extra-large): Luxurious Champagne Kisses bloom box with pink and white blooms. Perfect for romantic gestures. Order now!
-  Updated: 2026-01-05T01:09:11Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/premium-delivery-flowers-woodbridge.jpg?v=1761145344
-  Price: $345.99 CAD
-- [Just So Gorgeous](https://www.boutiqueblooms.ca/products/just-so-gorgeous): Our 'Just So Pretty' bloom box just got a little bit bigger! Isn't she gorgeous? A beautifully soft assortment of blooms layered with texture and fresh floral varieties in one of our signature bloom boxes. The prettiest way to tell someone you're thinking of them. Floral varieties will vary based on availability but we promise it will be beautiful!
-  Updated: 2025-12-12T18:06:49Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-toronto-flowers.jpg?v=1738254178
-  Price: $219.99 CAD
-- [Just So Stunning](https://www.boutiqueblooms.ca/products/just-so-stunning): Elegant sympathy flowers in a bloom box, crafted to comfort. Order Just So Stunning for a heartfelt tribute today.
-  Updated: 2025-12-12T18:06:49Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/pretty-toronto-delivery-flowers.jpg?v=1761146182
-  Price: $254.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flowers-for-her-toronto-delivery_a56ba400-c01b-4d84-a5e2-4eadca8784b5.jpg?v=1768595019
+  - [Small Taupe Box](https://www.boutiqueblooms.ca/products/sweetherart?variant=50026903044329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-flowers-for-her-toronto-delivery_a56ba400-c01b-4d84-a5e2-4eadca8784b5.jpg?v=1768595019
+    Price: $137.99 CAD
+  - [Small White Box](https://www.boutiqueblooms.ca/products/sweetherart?variant=50026903077097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/baby-girl-flowers-toronto-delivery_33a3512c-79bf-4f92-b683-225ab3c616f7.jpg?v=1768595019
+    Price: $137.99 CAD
+  - [Medium Taupe Box](https://www.boutiqueblooms.ca/products/sweetherart?variant=50026903109865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/anniversary-flowers-same-day-delivery-toronto_323e3b20-7224-4e73-baae-fb62dc677717.jpg?v=1768595019
+    Price: $219.99 CAD
+  - [Large Grey Box](https://www.boutiqueblooms.ca/products/sweetherart?variant=50026903142633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/sympathy-flowers-same-day-bolton-delivery_0a7b40fc-4063-4e0e-bed8-581126502f9c.jpg?v=1768595019
+    Price: $258.99 CAD
+  - [Extra Large Taupe Box](https://www.boutiqueblooms.ca/products/sweetherart?variant=50026903175401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/best-anniversary-flowers-toronto_e0c75c4a-1825-4118-bf59-f14088046590.jpg?v=1768595019
+    Price: $342.99 CAD
 - [Single Stem Rose | Toronto Flower Delivery | Boutique Blooms](https://www.boutiqueblooms.ca/products/single-stem-rose): Send a Single Stem Rose—simple, meaningful, and beautifully presented. Perfect for a sweet gesture with reliable GTA delivery. Order online today.
   Updated: 2026-01-09T19:58:12Z
   Vendor: Boutique Blooms by Rachel A. Clingen
@@ -1821,13 +1786,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_2062_jpg.jpg?v=1737491775
     Price: $8.99 CAD
-- [Mauve Mix - Extra Large](https://www.boutiqueblooms.ca/products/mauve-mix-extra-large): Send love with our Extra Large Mauve Mix! Soft pastels and fresh greens in a signature bloom box. Order Toronto flower delivery today.
-  Updated: 2025-12-12T18:06:49Z
-  Vendor: Boutique Blooms by Rachel A. Clingen
-  Product Type: Bloom Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/neutral-sympathy-flowers-toronto-delivery.jpg?v=1761146346
-  Price: $225.99 CAD
 - [Spring Love - Bloom Box](https://www.boutiqueblooms.ca/products/spring-love-bloom-box): Celebrate spring with tulips, daffodils & chamomile in our Spring Love box. A happy gift for Easter, Mother’s Day & more. Order Toronto!
   Updated: 2025-12-12T18:06:49Z
   Vendor: Boutique Blooms by Rachel A. Clingen
@@ -1985,100 +1943,121 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_4543_jpg.jpg?v=1764099129
   Price: $105.99 CAD
-[List Continued](https://www.boutiqueblooms.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTI4ODkyMTA0OTM3LCJsYXN0X3ZhbHVlIjoiOTEyODg5MjEwNDkzNyJ9)
+- [Lady in Red](https://www.boutiqueblooms.ca/products/lady-in-red): This luxury red rose box features a dome of 65 premium long-stem red roses, arranged in an elegant hat box. Each rose is carefully selected for its rich crimson color, velvety petals, creating a timeless floral statement. Perfect for Valentine’s Day, anniversaries, birthdays, or romantic gestures, this classic red rose box symbolizes love, passion, and devotion.
+  Updated: 2026-01-15T20:49:38Z
+  Vendor: Boutique Blooms by Rachel A. Clingen
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/luxury-valentines-red-rose-bouquet-toronto-delivery.jpg?v=1768510170
+  Price: $575.99 CAD
+- [A Love Like This](https://www.boutiqueblooms.ca/products/a-love-like-this): Make a bold and timeless statement with this red rose bloom box. This elegant floral design features 38 premium, velvety red roses arranged in a sleek, modern hat box. Symbolizing love, passion, and sophistication, this arrangement is perfect for anniversaries, Valentine’s Day, birthdays, romantic gestures, or upscale home décor. Each rose is carefully selected for its rich color and freshness, creating a full, symmetrical presentation. The neutral-toned box complements any interior style, making this arrangement a stunning gift that leaves a lasting impression.
+  Updated: 2026-01-15T21:15:29Z
+  Vendor: Boutique Blooms by Rachel A. Clingen
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6014_jpg.jpg?v=1768508876
+  Price: $345.99 CAD
+- [Written in Roses](https://www.boutiqueblooms.ca/products/written-in-roses): Celebrate meaningful moments with this red rose bouquet. Make a lasting impression with our Written In Roses bloom box, featuring 20 premium red roses beautifully designed in a sleek hat box. Elegant, romantic, and timeless, this arrangement is perfect for anniversaries, birthdays, and meaningful celebrations!
+  Updated: 2026-01-15T22:04:18Z
+  Vendor: Boutique Blooms by Rachel A. Clingen
+  Product Type: Bloom Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0274/0859/7069/files/IMG_6011_jpg.jpg?v=1768509559
+  Price: $188.99 CAD
+[List Continued](https://www.boutiqueblooms.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTc1MDUzOTI2NjMzLCJsYXN0X3ZhbHVlIjoiOTE3NTA1MzkyNjYzMyJ9)
 
 ## Collections
 
 - [Bloom Bag's](https://www.boutiqueblooms.ca/collections/bloom-bags)
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-17T12:04:19Z
   Total Products: 27
 - [Romantic Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/romantic-flowers): Romantic flower arrangements designed to express love and connection, delivered across Toronto and the GTA.
-  Updated: 2026-01-13T12:04:31Z
-  Total Products: 63
+  Updated: 2026-01-17T16:16:19Z
+  Total Products: 66
 - [Signature Flower Collection](https://www.boutiqueblooms.ca/collections/signature-flower-collection): Explore our stunning summer flower collection. From vibrant roses to delicate daisies, find the perfect bloom boxes to brighten your day. Order now!
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 105
 - [Luxury Flowers Toronto | Boutique Blooms](https://www.boutiqueblooms.ca/collections/luxury-flower-boxes): Discover luxury floral arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2026-01-12T12:03:36Z
-  Total Products: 30
+  Updated: 2026-01-19T12:03:48Z
+  Total Products: 32
 - [Petite Parties](https://www.boutiqueblooms.ca/collections/petite-parties): Beautiful celebrations can come in small packages. We've teamed teamed up with our industry friends at Plate Occasions, and table top experts to bring some curated packages to include everything you need to celebrate beautifully right at home. Combinations of plateware, cutlery and stemware, paired with our gorgeous blooms will provide everything you need for a stunning table setting. Please review the "FAQ" section below for a comprehensive explanation of what is included and how pick up/delivery/return of your Petite Party works. What does each package include? Each package includes the following (per person): a charger plate or mat, dinner plate, dessert plate, stemware, 4 piece cutlery set and a coordinating floral arrangement (or two based on package size). The vase(s) for the florals are yours to keep! May I add on additional rentals or flowers? Yes! After you purchase your Petite Party online, please forward your order confirmation to us along with a note indicating which rental items you would like to add on, or for additional floral arrangements, we are happy to quote you the relevant floral arrangement costs. Can I pick up my order? Do you offer delivery? Each customer has the option to pick up their Petite Party rentals package from the Plate Occasions warehouse in Woodbridge on the day prior to your event (typically Fridays for weekend events). There is no cost for this service. The rentals should be returned on the day after your event (typically Mondays for Friday and weekend events). Optional delivery of your Petite Parties package is available for most locations in the Greater Toronto Area. Delivery costs will be quoted based on postal code during the check-out process. PLEASE NOTE: regardless of choosing pick up or delivery, your floral arrangements will be delivered fresh on the day of your event at no extra cost within the Greater Toronto Area**. If your event is being hosted during the morning or afternoon, we recommend requesting delivery on the day prior to ensure the florals are received in time. All rentals will be delivered on the day prior to your event unless otherwise requested. Please note that orders for events taking place on Mondays will incur a surcharge and the florals would not be available for delivery any earlier than the afternoon. Please discuss with Plate Occasions prior to placing an order for a Monday event. Deliveries outside of the Greater Toronto Area require a minimum spend of $450.00 and delivery fees will be quoted prior to purchase. Availability: All packages are subject to availability and are not . Should a package be sold out for your date, we will contact you to discuss options or provide a full refund within 3 business days. Floral arrangements may be affected by seasonal availability. Floral substitutions may occur, however, every attempt will be made for floral arrangements to resemble the photos provided as closely as possible. Please email us for details. Booking + Cancellation: All Petite Party orders must be placed at lease 7 days in advance. All orders are non-refundable. Orders that are cancelled at least 7 days in advance may be re-booked within 3 months without penalty. **Greater Toronto Standard Delivery Area: City of Toronto, City of Mississauga, All of York Region, Pickering, Ajax, Whitby, Caledon, Brampton, Bolton, Milton, Oakville (for deliveries outside of this area, please contact us for a quote)
   Updated: 2025-12-12T18:08:17Z
   Total Products: 12
 - [Autumn & Thanksgiving Flowers Collection in Bolton & GTA](https://www.boutiqueblooms.ca/collections/autumn-and-thanksgiving): Fresh autumn and Thanksgiving flower arrangements, centrepieces, bloom boxes and bloom bags with delivery across Bolton and the GTA.
-  Updated: 2026-01-09T12:03:38Z
+  Updated: 2026-01-17T12:04:19Z
   Total Products: 35
 - [Recommended products (Seguno)](https://www.boutiqueblooms.ca/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-01-13T12:04:31Z
-  Total Products: 366
+  Updated: 2026-01-20T12:04:17Z
+  Total Products: 370
 - [Holiday Flower Delivery Toronto | Christmas Flowers](https://www.boutiqueblooms.ca/collections/winter-collection): Shop Christmas and holiday flower arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2026-01-11T12:03:45Z
+  Updated: 2026-01-15T12:03:54Z
   Total Products: 76
 - [New Baby Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/flowers-for-newborns): Celebrate a new arrival with beautiful new baby flowers, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2026-01-11T12:03:45Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 19
 - [Gift Bloom Boxes](https://www.boutiqueblooms.ca/collections/gift-bloom-boxes): Explore Boutique Blooms’ signature Gift Bloom Boxes, luxurious floral arrangements designed in elegant hat boxes & delivered across Toronto.
-  Updated: 2025-12-12T18:08:17Z
+  Updated: 2026-01-16T20:48:00Z
   Total Products: 7
 - [Add-On's](https://www.boutiqueblooms.ca/collections/add-ons): Complete your Boutique Blooms floral gift with thoughtful add-ons like chocolates, candles, and greeting cards, available for delivery in Toronto.
   Updated: 2025-12-12T18:08:17Z
   Total Products: 32
 - [Valentine’s Day Flowers Toronto & GTA | Luxury Arrangements & Roses](https://www.boutiqueblooms.ca/collections/valentines-day): Shop Boutique Blooms’ Valentine’s Day Collection—luxury roses and curated arrangements with delivery across Toronto & the GTA, including Vaughan, Kleinburg, and Oakville. Limited quantities available.
-  Updated: 2026-01-13T12:04:31Z
-  Total Products: 50
+  Updated: 2026-01-18T12:04:18Z
+  Total Products: 53
 - [Signature Bloom Bags | Hand-Tied Flowers Toronto](https://www.boutiqueblooms.ca/collections/bloom-bags-1): Shop hand-tied Signature Bloom Bags, thoughtfully designed with seasonal flowers and delivered across Toronto and the GTA.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-17T12:04:19Z
   Total Products: 23
 - [Funeral & Sympathy Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/sympathy-flowers): Thoughtfully designed funeral and sympathy flowers, delivered with care across Toronto and the GTA.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-19T12:03:48Z
   Total Products: 27
 - [Birthday Blooms](https://www.boutiqueblooms.ca/collections/birthday-blooms): Celebrate their special day with Boutique Blooms’ birthday flowers — fresh, stunning arrangements delivered anywhere in Toronto.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 24
 - [Mother's Day Collection](https://www.boutiqueblooms.ca/collections/mothers-day-collection): Please note that deliveries on May 11th will occur between 9am - 5pm. We kindly ask that you consider ordering for Friday or Saturday if you would like to ensure she has them Sunday Morning!
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 33
 - [Trending Summer Flower Box Collection - Boutique Blooms](https://www.boutiqueblooms.ca/collections/summer-collection): Brighten your summer with Boutique Blooms' Summer Flower Box Collection. Enjoy vibrant, seasonal blooms delivered right to your door.
-  Updated: 2026-01-12T12:03:36Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 31
 - [Flower Subscription Services in Toronto & GTA- Boutique Blooms](https://www.boutiqueblooms.ca/collections/subscriptions): Get Boutique Blooms flower subscriptions for every budget! Enjoy premium floral arrangements with affordable delivery across the GTA.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 15
 - [Hanukkah Collection](https://www.boutiqueblooms.ca/collections/hanukkah-collection): Beautiful collection of our most festive creations to make this holiday a memorable one.
   Updated: 2025-12-24T12:05:04Z
   Total Products: 4
 - [Vase Arrangements](https://www.boutiqueblooms.ca/collections/vase-arrangements): Shop elegant vase arrangements at Boutique Blooms, featuring fresh, hand-designed flowers delivered in stylish vases across Toronto.
-  Updated: 2026-01-10T12:04:40Z
+  Updated: 2026-01-20T12:04:16Z
   Total Products: 11
 - [Spring Flower Collection - Boutique Blooms by Rachel A. Clingen](https://www.boutiqueblooms.ca/collections/spring-flowers): Explore our vibrant Spring Flower Collection.
 Beautiful floral arrangements that make this time of year that much more beautiful. For all of your spring time gatherings or to accent your home, there is a stylish arrangement for you!
-  Updated: 2026-01-12T12:03:36Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 30
 - [WHILE QUANTITIES LAST!](https://www.boutiqueblooms.ca/collections/designers-choice): Let Boutique Blooms’ designers craft a custom floral arrangement with fresh in-season blooms, delivered across Toronto with love.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 6
 - [Peony Hand Ties](https://www.boutiqueblooms.ca/collections/peony-hand-ties)
   Updated: 2025-12-12T18:08:18Z
   Total Products: 3
 - [Mellow Yellow](https://www.boutiqueblooms.ca/collections/mellow-yellow): Brighten any day with cheerful yellow floral arrangements from Boutique Blooms. Fresh delivery available across Toronto.
-  Updated: 2026-01-08T12:03:53Z
+  Updated: 2026-01-18T12:04:18Z
   Total Products: 3
 - [Mellow Yellow](https://www.boutiqueblooms.ca/collections/mellow-yellow-1)
-  Updated: 2026-01-08T12:03:53Z
+  Updated: 2026-01-18T12:04:18Z
   Total Products: 2
 - [Toronto's Stylish Flower Delivery - Boutique Blooms](https://www.boutiqueblooms.ca/collections/blooms-flowers): Explore elegant, custom flower arrangements from Flower Delivery in Toronto, curated by The Rachel A.Clingen Team for all events. In-house delivery available across Toronto
-  Updated: 2026-01-13T12:04:31Z
-  Total Products: 69
+  Updated: 2026-01-20T12:04:17Z
+  Total Products: 70
 - [Boutique Party Flower Collection - Boutique Blooms by Rachel](https://www.boutiqueblooms.ca/collections/boutique-parties): Boutique centrepieces for the prettiest of parties! Elevate a birthday, baptism, communion, engagement, dinner party or any event you're hosting with our beautiful party flowers!
   Updated: 2025-12-12T18:08:18Z
   Total Products: 5
 - [Mauve Mix](https://www.boutiqueblooms.ca/collections/mauve-mix)
-  Updated: 2026-01-10T12:04:40Z
+  Updated: 2026-01-18T12:04:18Z
   Total Products: 3
 - [Mother's Day Designer's Choice Collection](https://www.boutiqueblooms.ca/collections/designers-choice-1): Please note that deliveries on May 11th will occur between 9am - 5pm. We kindly ask that you consider ordering for Friday or Saturday if you would like to ensure she has them Sunday Morning!
-  Updated: 2026-01-12T12:03:36Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 7
 - [Valentine's Flowers](https://www.boutiqueblooms.ca/collections/designers-choice-2): Just in the knick of time...shop blooms still available for Valentines Day and February 15th!
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 8
 - [Bloom Academy](https://www.boutiqueblooms.ca/collections/bloom-academy): Join Bloom Academy for a hands-on floral design class with Rachel Clingen. Sign up today and start creating stunning blooms with us!
   Updated: 2025-12-12T18:08:18Z
@@ -2093,53 +2072,53 @@ Beautiful floral arrangements that make this time of year that much more beautif
   Updated: 2026-01-11T12:03:45Z
   Total Products: 15
 - [*NEW* Signature Collection](https://www.boutiqueblooms.ca/collections/new-signature-collection): Stylish Flower Arrangements for Delivery Across the GTADiscover our stunning, handcrafted flower arrangements perfect for every occasion—available for reliable delivery throughout the Greater Toronto Area (GTA). Whether you're celebrating a birthday, expressing sympathy, sending congratulations, or just brightening someone's day, Boutique Blooms Signature Collection offers fresh, modern floral designs made with premium blooms. Each bouquet is thoughtfully arranged by expert florists and delivered with care across Toronto, Mississauga, Brampton, Vaughan, Markham, and beyond. Shop now to find the perfect arrangement and enjoy same-day flower delivery in the GTA.
-  Updated: 2026-01-10T12:04:40Z
+  Updated: 2026-01-16T21:35:12Z
   Total Products: 21
 - [*NEW* Romance Collection](https://www.boutiqueblooms.ca/collections/new-romance-collection)
-  Updated: 2026-01-13T12:04:31Z
-  Total Products: 19
+  Updated: 2026-01-15T20:46:14Z
+  Total Products: 22
 - [Designer's Choice](https://www.boutiqueblooms.ca/collections/designers-choice-3)
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 5
 - [Champagne Kisses](https://www.boutiqueblooms.ca/collections/champagne-kisses)
-  Updated: 2026-01-11T12:03:45Z
+  Updated: 2026-01-16T21:55:50Z
   Total Products: 2
 - [Best  Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/best-sellers): Shop our best  flower arrangements, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 19
 - [Flowers Under $100 | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/under-100): Shop beautiful, thoughtfully designed flowers under $100. Perfect for gifting or small gestures, delivered across Toronto and the GTA.
-  Updated: 2026-01-13T12:04:31Z
-  Total Products: 189
+  Updated: 2026-01-17T12:04:19Z
+  Total Products: 188
 - [Birthday Flowers | Same-Day Delivery Toronto & GTA](https://www.boutiqueblooms.ca/collections/birthday-flowers): Shop birthday flowers in Toronto and the GTA. Thoughtfully designed arrangements with same-day delivery available.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 12
 - [Anniversary Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/anniversary-flowers): Shop anniversary flowers in Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 17
 - [Graduation Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/graduation-flowers): Celebrate their achievement with graduation flowers, thoughtfully designed and delivered across Toronto and the GTA.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-18T12:04:18Z
   Total Products: 8
 - [New - Our Stylish Flower Collection](https://www.boutiqueblooms.ca/collections/new-our-stylish-flower-collection)
   Updated: 2025-12-19T15:15:51Z
   Total Products: 0
 - [Thank You Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/thank-you-flowers): Send thank you flowers across Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 12
 - [Get Well Flowers | Toronto & GTA Delivery](https://www.boutiqueblooms.ca/collections/get-well-flowers): Send get well flowers across Toronto and the GTA. Thoughtfully designed arrangements delivered with care.
-  Updated: 2026-01-11T12:03:45Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 8
 - [Just Because Flowers | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/just-because): Shop just because flowers in Toronto and the GTA. Thoughtfully designed arrangements, perfect for everyday moments.
-  Updated: 2026-01-13T12:04:31Z
+  Updated: 2026-01-20T12:04:17Z
   Total Products: 13
 - [Winter Designer's Choice and Long Lasting Centerpieces](https://www.boutiqueblooms.ca/collections/winter-designers-choice-and-long-lasting-centerpieces)
   Updated: 2026-01-11T12:03:45Z
   Total Products: 13
 - [New Year’s Flowers & Bouquets | Boutique Blooms Toronto](https://www.boutiqueblooms.ca/collections/new-years-flowers): Celebrate 2026 in style with luxury New Year’s bouquets. Fresh blooms, elegant designs, and same-day delivery across Toronto & GTA. Order now.
 Ring in the New Year beautifully. Premium flowers, modern arrangements
-  Updated: 2026-01-11T12:03:45Z
+  Updated: 2026-01-15T12:03:54Z
   Total Products: 15
 - [WinterWinter Flowers & Bouquets | Toronto Flower Delivery](https://www.boutiqueblooms.ca/collections/winter-collection-jan-march-2026): Discover refined winter floral arrangements handcrafted with premium stems. Modern bouquets with delivery across Toronto & the GTA.
-  Updated: 2026-01-09T16:35:43Z
+  Updated: 2026-01-15T12:03:54Z
   Total Products: 9
 
 ## Blogs
@@ -2228,6 +2207,12 @@ Ring in the New Year beautifully. Premium flowers, modern arrangements
 <p data-start="299" data-end="538" data-is-last-node="" data-is-only-node="">Flowers are a simple way to send that message without forcing a long conversation. They don’t demand energy or the perfect words—they just arrive, warm and beautiful, and remind someone that they’re supported as they step into what’s next.</p>
     Updated: 2026-01-07T14:21:31Z
     Author: Rachel Clingen
+  - [Winter Flowers Toronto | Luxury Winter Arrangements | Boutique Blooms](https://www.boutiqueblooms.ca/blogs/all-blogs/winter-flowers-in-toronto-how-to-send-something-that-feels-warm-even-in-january): Winter Flowers Toronto | Luxury Winter Arrangements | Boutique Blooms
+    Updated: 2026-01-16T21:00:45Z
+    Author: Rachel Clingen
+  - [Boutique Blooms 2026 Refresh | New Bloom Boxes & Designer’s Choice](https://www.boutiqueblooms.ca/blogs/all-blogs/a-fresh-look-for-2026-new-signature-bloom-boxes-same-designer-level-flowers): Boutique Blooms 2026 Refresh | New Bloom Boxes & Designer’s Choice
+    Updated: 2026-01-20T17:33:22Z
+    Author: Rachel Clingen
 
 ## Store Pages
 
@@ -2295,7 +2280,7 @@ Ring in the New Year beautifully. Premium flowers, modern arrangements
 - [Shipping Policy](https://www.boutiqueblooms.ca/policies/shipping-policy)
   Updated: 2023-05-26T10:41:03-04:00
 - [Refund Policy](https://www.boutiqueblooms.ca/policies/refund-policy)
-  Updated: 2022-01-11T11:24:42-05:00
+  Updated: 2026-01-20T11:59:52-05:00
 - [Terms of Service](https://www.boutiqueblooms.ca/policies/terms-of-service)
   Updated: 2025-12-18T10:46:49-05:00
 - [Contact Information](https://www.boutiqueblooms.ca/policies/contact-information)
