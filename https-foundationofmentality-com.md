@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2026-01-15T00:00:32.707Z
+- Updated At: 2026-01-22T00:00:35.813Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -101,6 +101,15 @@ Motivational content is intentionally avoided.
     Author: Evgeny Kanunnikov - Athlete Mentality Coach
   - [Pressure Defines Performance: Athlete Mentality Tools Explained](https://foundationofmentality.com/blogs/blog-posts/pressure-defines-performance-athlete-mentality-tools-explained): Pressure Defines Performance: Athlete Mentality Tools Explained
     Updated: 2026-01-14T00:31:40Z
+    Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
+  - [Athlete Mentality Requires Systematic Approach](https://foundationofmentality.com/blogs/blog-posts/athlete-mentality-requires-systematic-approach): Athlete Mentality Requires Systematic Approach
+    Updated: 2026-01-17T00:10:53Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Mental Training Exposes Hidden Pressure Gaps](https://foundationofmentality.com/blogs/blog-posts/mental-training-exposes-hidden-pressure-gaps): Mental Training Exposes Hidden Pressure Gaps
+    Updated: 2026-01-20T01:08:43Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Pressure Limits Confidence Without Athlete Structure Tools](https://foundationofmentality.com/blogs/blog-posts/pressure-limits-confidence-without-athlete-structure-tools): Pressure Limits Confidence Without Athlete Structure Tools
+    Updated: 2026-01-21T00:09:41Z
     Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
 
 ## Store Pages
