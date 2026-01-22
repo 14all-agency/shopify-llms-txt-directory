@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-11-12T10:03:02Z
 - Contact Email: fivers@outlook.it
-- Updated At: 2026-01-14T00:00:35.291Z
+- Updated At: 2026-01-22T00:00:37.923Z
 
 ## Products
 
@@ -137,7 +137,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge nera e verde fluo](https://fivers.store/products/fivers-edge-nera-e-verde-fluo): La maglia tecnica Fivers Edge nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti verde fluo e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:17:58Z
+  Updated: 2026-01-19T16:59:12Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -323,7 +323,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Pantaloncini Vibe neri in 3 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: bianco, arancio fluo, verde fluo
-  Updated: 2026-01-13T19:44:18Z
+  Updated: 2026-01-19T16:59:08Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
@@ -623,7 +623,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic arancio fluo e nera](https://fivers.store/products/fivers-kinetic-arancio-fluo-e-nera): La Fivers Kinetic arancio fluo è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers nero sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:08:11Z
+  Updated: 2026-01-14T12:57:31Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1209,7 +1209,7 @@
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-b676abbc_1.png?v=1763483976
   Price: 6,00 € EUR
 - [Fivers Grip neri](https://fivers.store/products/fivers-grip-neri): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Grip sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
-  Updated: 2025-12-19T18:06:44Z
+  Updated: 2026-01-19T16:59:11Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1725,31 +1725,73 @@
   - [2XL](https://fivers.store/products/fivers-circuit-2?variant=56423829864821)
     Availability: Available
     Price: 12,00 € EUR
-- [Fivers Origin](https://fivers.store/products/fivers-origin): La maglia tecnica Fivers Origin nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e scritta avanti. DETTAGLI TECNICI Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T04:31:52Z
+- [Fivers Origin nera 3 colori](https://fivers.store/products/fivers-origin): La maglia tecnica Fivers Origin nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e scritta avanti. DETTAGLI TECNICI Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
+  Updated: 2026-01-14T20:30:26Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fivers-black-t-shirt-frontal.png?v=1765471683
-  - [12 ANNI](https://fivers.store/products/fivers-origin?variant=56432885694837)
+  - [12 ANNI / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602266501493)
     Availability: Available
     Price: 12,00 € EUR
-  - [16 ANNI](https://fivers.store/products/fivers-origin?variant=56432885727605)
+  - [12 ANNI / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602266534261)
     Availability: Available
     Price: 12,00 € EUR
-  - [S](https://fivers.store/products/fivers-origin?variant=56432885760373)
+  - [12 ANNI / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602266567029)
     Availability: Available
     Price: 12,00 € EUR
-  - [M](https://fivers.store/products/fivers-origin?variant=56432885793141)
+  - [16 ANNI / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602266599797)
     Availability: Available
     Price: 12,00 € EUR
-  - [L](https://fivers.store/products/fivers-origin?variant=56432885825909)
+  - [16 ANNI / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602266632565)
     Availability: Available
     Price: 12,00 € EUR
-  - [XL](https://fivers.store/products/fivers-origin?variant=56432885858677)
+  - [16 ANNI / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602266665333)
     Availability: Available
     Price: 12,00 € EUR
-  - [2XL](https://fivers.store/products/fivers-origin?variant=56432885891445)
+  - [S / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602266698101)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [S / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602266730869)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [S / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602266763637)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [M / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602266796405)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [M / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602266829173)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [M / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602266861941)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [L / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602266894709)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [L / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602266927477)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [L / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602266960245)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [XL / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602266993013)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [XL / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602267025781)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [XL / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602267058549)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [2XL / Logo Bianco](https://fivers.store/products/fivers-origin?variant=56602267091317)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [2XL / Logo Verde fluo](https://fivers.store/products/fivers-origin?variant=56602267124085)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [2XL / Logo Arancio fluo](https://fivers.store/products/fivers-origin?variant=56602267156853)
     Availability: Available
     Price: 12,00 € EUR
 - [Fivers Drop bianca donna](https://fivers.store/products/fivers-drop-bianca-donna): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Stampa Fivers in nero, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 47 cm 50 cm 53 cm 56 cm 59 cm ALTEZZA 63 cm 65 cm 67 cm 69 cm 71 cm
@@ -1866,8 +1908,8 @@
   - [L](https://fivers.store/products/fivers-edge-gialla-fluo?variant=56486432014709)
     Availability: Not Available
     Price: 10,00 € EUR
-- [Fivers Drop nera con ricamo](https://fivers.store/products/fivers-drop-nera-con-ricamo): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Logo Fivers ricamato in bianco, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
-  Updated: 2025-12-18T01:52:45Z
+- [Fivers Drent nera con ricamo](https://fivers.store/products/fivers-drop-nera-con-ricamo): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Logo Fivers ricamato in bianco, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
+  Updated: 2026-01-17T02:43:32Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1980,48 +2022,117 @@
   - [2XL](https://fivers.store/products/fivers-kinetic-blu-royal?variant=56574918001013)
     Availability: Not Available
     Price: 9,00 € EUR
+- [Fivers Origin bianca 3 colori](https://fivers.store/products/fivers-origin-bianca-3-colori): La maglia tecnica Fivers Origin bianca è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e scritta avanti. DETTAGLI TECNICI Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
+  Updated: 2026-01-14T20:38:04Z
+  Vendor: Fivers
+  Product Type: Maglia tecnica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/t-shirt-bianca-fivers-loghi-pi-bassi_1_ff32c40c-dbf0-45f1-ab87-184119970120.png?v=1768379741
+  - [12 ANNI / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272694645)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [12 ANNI / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272727413)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [12 ANNI / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272760181)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [16 ANNI / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272792949)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [16 ANNI / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272825717)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [16 ANNI / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272858485)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [S / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272891253)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [S / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272924021)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [S / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272956789)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [M / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602272989557)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [M / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273022325)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [M / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273055093)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [L / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273087861)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [L / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273120629)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [L / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273153397)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [XL / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273186165)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [XL / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273218933)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [XL / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273251701)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [2XL / Logo Bianco](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273284469)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [2XL / Logo Verde fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273317237)
+    Availability: Available
+    Price: 12,00 € EUR
+  - [2XL / Logo Arancio fluo](https://fivers.store/products/fivers-origin-bianca-3-colori?variant=56602273350005)
+    Availability: Available
+    Price: 12,00 € EUR
 
 ## Collections
 
 - [](https://fivers.store/collections/frontpage)
-  Updated: 2026-01-13T07:38:00Z
+  Updated: 2026-01-20T12:48:34Z
   Total Products: 6
 - [T-Shirt](https://fivers.store/collections/edge-t-shirt): Esplora la linea di T-Shirt tecniche FIVERS: leggere, traspiranti e progettate per garantire massima libertà di movimento durante ogni allenamento.Materiali resistenti, asciugatura rapida e design sportivi unici rendono queste maglie perfette per padel, tennis, running e attività ad alta intensità.Scegli il tuo modello preferito e porta le tue performance al livello successivo.
-  Updated: 2026-01-07T13:15:13Z
-  Total Products: 42
+  Updated: 2026-01-20T12:48:34Z
+  Total Products: 43
 - [Pantaloncini](https://fivers.store/collections/pantaloncini)
-  Updated: 2026-01-13T07:38:20Z
+  Updated: 2026-01-20T12:48:34Z
   Total Products: 3
 - [Felpe](https://fivers.store/collections/felpe)
-  Updated: 2025-12-17T13:44:42Z
+  Updated: 2026-01-16T14:43:08Z
   Total Products: 13
 - [T-SHIRT UOMO](https://fivers.store/collections/uomo)
-  Updated: 2026-01-07T13:15:13Z
-  Total Products: 42
+  Updated: 2026-01-20T12:48:34Z
+  Total Products: 43
 - [T-SHIRT DONNA](https://fivers.store/collections/donna)
   Updated: 2025-12-12T11:05:01Z
   Total Products: 3
 - [TUTTI I PRODOTTI](https://fivers.store/collections/tutti-i-prodotti)
-  Updated: 2026-01-13T07:38:20Z
-  Total Products: 65
+  Updated: 2026-01-20T12:48:34Z
+  Total Products: 66
 - [ACCESSORI](https://fivers.store/collections/accessori)
-  Updated: 2025-12-02T15:03:48Z
+  Updated: 2026-01-20T12:48:34Z
   Total Products: 2
 - [PANTALONCINI UOMO](https://fivers.store/collections/pantaloncini-uomo)
-  Updated: 2026-01-13T07:38:20Z
+  Updated: 2026-01-20T12:48:34Z
   Total Products: 3
 - [PANTALONCINI DONNA](https://fivers.store/collections/pantaloncini-donna)
   Updated: 2025-12-12T10:53:37Z
   Total Products: 2
 - [FELPA UOMO](https://fivers.store/collections/felpa-uomo)
-  Updated: 2025-12-17T13:44:42Z
+  Updated: 2026-01-16T14:43:08Z
   Total Products: 10
 - [FELPA DONNA](https://fivers.store/collections/felpa-donna)
   Updated: 2025-12-12T14:29:20Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://fivers.store/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-13T07:38:20Z
-  Total Products: 65
+  Updated: 2026-01-20T12:48:34Z
+  Total Products: 66
 
 ## Store Pages
 
