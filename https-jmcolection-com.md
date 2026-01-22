@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T15:55:06Z
 - Contact Email: jeanmaymerline1996@gmail.com
-- Updated At: 2026-01-15T00:00:36.197Z
+- Updated At: 2026-01-22T00:00:38.394Z
 
 ## Products
 
@@ -1988,13 +1988,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/70a36b31-0bac-4813-8350-cadb93e04ac9.jpg?v=1764290041
     Price: $18.14 USD
-- [Retractable Car Charger [69W USB C Car Charger](https://jmcolection.com/products/retractable-car-charger-69w-usb-c-car-charger): 4-in-1 Retractable Car Charger (5.9 x 2.64 x 1.38 inches) combines a compact design with powerful performance. Its 160° rotating plug fits standard 12V vehicle sockets up to 0.9 inches wide and 2.76 inches deep. The retractable cord extends up to 31.5 inches, making it ideal for long trips, tight spaces like semi-truck cabins, or everyday use. A practical choice for personal needs or as a holiday gift (Christmas/Thanksgiving), this charger delivers convenience and reliability on the go Featuring dual USB ports and a retractable cable, the LISEN 4 in 1 Charger offers a clutter free solution for charging multiple devices. Perfect for truck enthusiasts or as a thoughtful gift for drivers, it supports Android and iPhone users, including fast USB C charging for devices like the iPhone 16 Pro Max. Keep your vehicle organized while ensuring efficient power delivery for all your tech. 69W 4 Port Car Charger: Equipped with a 30W PD USB C port, a 12W USB A port, and additional charging options, this powerhouse charges up to four devices simultaneously. Ideal for fast charging the iPhone 16 Pro Max or other gadgets, it’s versatile enough for truck accessories or stylish car essentials. Its smart power distribution maintains high speed charging across all ports. The LISEN Retractable Car Charger boasts a 180° adjustable plug for stable charging, even on bumpy roads. Perfect for SUVs or work trucks, it ensures uninterrupted power for devices like the iPhone 16 Pro Max. Note: Designed exclusively for 12V vehicle power outlets (not USB ports). Confirm your vehicle has a 12V outlet before purchase. Compatible with iPhone 16/15/14/13/12 models and USB C/USB A devices, this charger is a must have for tech savvy drivers. Whether upgrading truck accessories or seeking unique gifts for car lovers, it’s an excellent stocking stuffer for multi device users. Streamline your charging setup with this efficient, space saving solution.
-  Updated: 2025-11-30T12:03:59Z
-  Vendor: J&M
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/data.jpg?v=1764461036
-  Price: $14.99 USD
 - [Car USB FM Transmitter Bluetooth FM Receiver](https://jmcolection.com/products/car-usb-fm-transmitter-bluetooth-fm-receiver): NOTE【Bluetooth 5.0 Chip】-- Bluetooth 5.0 support 24bit/192KHz sound transmission, more faster and steady transmission speed, lower power comsuption. Supports multiple audio modes, MP3, FLAC, WAV, WMA, APE. 【Hands-free Call】-- Support Bluetooth hands-free phone calling via built-in microphone, just press the button to answer phone call, convenient to use and keep your driving safe. The middle button can switch USB disk and Bluetooth Mode. 【Memory Function】-- FM Channels 87.5/95.0/108.0, Car Bluetooth FM transmitter lets you enjoy your phone music when driving and plays a louder and clearer phone navigation voice on car stereo. The song, the volume and the frequency will revert to pre-shutdown mode. 【AUX Function】-- Insert the AUX cable to connect the car, select the AUX audio input mode, connect the Bluetooth RD-01 with your mobile phone, and play music on your phone to enjoy the car stereo music, easy operation. Support USB flash disk and card reader to play the song. 【Magnetic LED Display】-- The magnetized base can be magnetized to any metal surfaces, and the 90cm long line is free to place the FM Transmitter. Universally use in various vehicles, DC 12-24V voltage input, applicable to most cars, trucks, off-road, etc.Special Features: Bluetooth 5.0 Chip, AUX Function, Hands-free Call, FM Channels 87.5/95.0/108.0, Magnetic LED Display Voltage: 24 Volts PACKAGE LIST:1* Car USB FM Transmitter Bluetooth FM Receiver1*RETAILER BOXNOTES: Do not ship to overseas states of USA.
   Updated: 2025-11-30T12:04:07Z
   Vendor: J&M
@@ -2248,8 +2241,8 @@
   Updated: 2025-10-19T17:04:34Z
   Total Products: 1
 - [Best ](https://jmcolection.com/collections/best-)
-  Updated: 2025-12-27T20:27:25Z
-  Total Products: 29
+  Updated: 2026-01-20T02:41:57Z
+  Total Products: 28
 - [Beauty & Cosmetics - Premium Skincare & Makeup | J&M](https://jmcolection.com/collections/beauty-cosmetics): Shop our curated collection of premium beauty and cosmetic products. Quality skincare, makeup essentials, and self-care luxuries for every routine.
   Updated: 2025-11-30T04:38:58Z
   Total Products: 4
@@ -2258,7 +2251,7 @@
 
 - [Contact](https://jmcolection.com/pages/contact)
   Updated: 2025-08-17T15:55:09Z
-- [Your privacy choices](https://jmcolection.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://jmcolection.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-08-17T15:55:15Z
 - [FAQ (Frequently Asked Questions)](https://jmcolection.com/pages/faq-frequently-asked-questions): Frequently Asked Questions (FAQ) Here are some common questions we receive. If you don't find the answer you're looking for, please don't hesitate ...
   Updated: 2025-10-18T23:39:52Z
