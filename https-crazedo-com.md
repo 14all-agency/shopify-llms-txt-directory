@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2026-01-15T00:00:37.785Z
+- Updated At: 2026-01-22T00:00:40.750Z
 
 ## Collections
 
@@ -105,6 +105,10 @@
     Updated: 2026-01-12T20:00:02Z
     Author: Mohammed Hassen
     Tags: Barcelona 3-2 Real Madrid, Barcelona vs Real Madrid, El Clasico 2026, El Clasico score, El Clasico search trends, Lamine Yamal, Mbappe bench, Raphinha goals, Real Madrid highlights, Spanish Super Cup final
+  - [AFCON 2025 Final: 14M+ Searches](https://crazedo.com/blogs/weekly-google-trends/afcon-2025-final): AFCON 2025 Final: 14M+ Searches
+    Updated: 2026-01-19T18:42:23Z
+    Author: Mohammed Hassen
+    Tags: Achraf Hakimi, AFCON 2026, AFCON controversy, AFCON final highlights, Brahim Diaz penalty, football SEO, Morocco vs Senegal, Pape Gueye goal, Sadio Mane, Senegal AFCON champions
 
 ## Store Pages
 
