@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-12T19:38:14Z
 - Contact Email: geemoney91152@gmail.com
-- Updated At: 2026-01-09T00:00:26.062Z
+- Updated At: 2026-01-22T00:00:34.643Z
 
 ## Products
 
@@ -1402,13 +1402,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/womens-hoodie-pullover-hooded-sweatshirt-graphic-inspire-faith-hoodies-light-blue-s-474.jpg?v=1765747590
     Price: $28.60 USD
-- [Unisex Black Full-Zip Hooded Sweatshirt with Face Cover Black (5XL )](https://straighthud.myshopify.com/products/unisex-black-full-zip-hooded-sweatshirt-with-face-cover-black-5xl): Stay covered and stylish with this black hooded sweatshirt featuring a full front zipper that extends to the nose for added protection. Designed with a sleek YD logo on the chest, it includes a built-in face cover and layered hood for enhanced utility and comfort. Ideal for urban wear, travel, or outdoor use.
-  Updated: 2025-12-21T04:30:38Z
-  Vendor: One stop shop 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/getpubthumb.png?v=1765747597
-  Price: $19.49 USD
 - [Yoga Pants HOODIE](https://straighthud.myshopify.com/products/yoga-pants-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:30:40Z
   Vendor: One stop shop 
@@ -2298,210 +2291,160 @@
     Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/fc500831d3a84055b24edbafaaa89b49.webp?v=1765852772
     Price: $27.99 USD
 - [1-10Years Baby Base Shirt Round Neck Warm Boys Girls Spring Clothing Long Sleeved Tee Children's Velvet High Elastic Warm Shirt](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt): Autumn Winter Kids Cartoon Lion Knitted Sweater Baby Girl Thicken Casual Warm Pullover Knitwear Boys Children Retro Tops Clothes Fabric: acrylic cotton Package: 1 X Kids shirt with OPP bag Size Suggest Height Suggest weight 80 65-75cm 7-9kg 90 75-85cm 10-13kg 100 85-95cm 12-16kg 110 95-105cm 14-18kg 120 105-115cm 18-22kg 130 115-125cm 22-26kg 140 125-135cm 26-30kg 150 135-145cm 30-35kg Size Cloth Length Chest 80 36cm 33cm 90 39cm 35cm 100 42cm 37cm 110 45cm 39cm 120 48cm 41cm 130 51cm 43cm 140 54cm 45cm 150 57cm 47cm Note: 1.Due to different measurement methods,There will be 1-3 cm error; 2.According to the children's height.weight.Dressing habits to Choose the right size,thanks! 3.Due to different lighting and display, there is a slight color difference, it is not quality problem, hope you undersand.IFANYUO hope you have a pleasant shopping day!
-  Updated: 2025-12-21T04:32:11Z
+  Updated: 2026-01-10T12:21:28Z
   Vendor: One stop shop 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/7c13f5e92af64547a1e395b213e2cbff.webp?v=1765852773
+  Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/7c13f5e92af64547a1e395b213e2cbff.webp?v=1767995471
   - [Khaki3 / 100](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301573255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/3b08a4b7ba3e4b8292ec146f11139f48.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 120](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301606023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/6cffdb305b714fabb5537f98dd1a5612.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 90](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301638791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/1cf240d1c89a472ba7eab3808a94e051.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 110](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301671559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/4e922501250d429d8cc2c0e318c0479f.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301704327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/5bc7aea66e364626812cc13a5c1b0d58.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 150](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301737095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/038d0993e11f400690c2cd4c03ab958e.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 80](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301769863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/dbafa42e44d7444ba5b39cb33d4bb138.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 120](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301802631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/dee29faf1827440eab81a52895d504d8.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 110](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301835399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/3e167e36b72040e6962b68d524ad53f6.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 80](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301868167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/24aeae5e17784973a979795be23ac1ca.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301900935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/75668adc31794e8cbd8ed7bb48684026.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301933703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/340514972fa1489aabfa592eb769c12f.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki3 / 150](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301966471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/41b9fa4e068742eea842a1b4ab6ac4d9.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 90](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606301999239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/3e5f9871bef143f6837079e5abe56215.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 100](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302032007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/c019a5c9f8d744ebb78e7047c2731797.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 120](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302064775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/ff8bb00febc44e6b8ccfc9a00ab56b74.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 110](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302097543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/1157194754fe4a4d9fdad55ffbabb1f1.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 100](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302130311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/b642a338a92644efa5cc8ab83c079254.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302163079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/0bb7994c7d51443f8e061a387c06115e.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 90](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302195847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/0d7c04b086a7408cbfa5c1fcaa712ec4.webp?v=1765852776
     Price: $15.99 USD
   - [Green2 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302228615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/6f17d34bbcbe4b439ea0ff31f3f2b8cd.webp?v=1765852776
     Price: $15.99 USD
   - [Green2 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302261383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/038cd671805943d394d7a1c2c2917059.webp?v=1765852776
     Price: $15.99 USD
   - [Green2 / 150](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302294151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/dcf771b48f18484e82527d144a99649f.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 80](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302326919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/44636c6b484046579d86569e92ad89ca.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 120](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302359687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/4deb9178c0944c8faac47473ddc7ba0d.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 90](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302392455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/82287fcf6e3f480ba1c1edce08b4a454.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 100](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302425223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/d5dba682ee2a4afa82a11be84395ade7.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 110](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302457991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/c4fd467d668e4239a6243cb24c1cd7db.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302490759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/230c3d29dee74d51815ad9b697e3af7f.webp?v=1765852776
     Price: $15.99 USD
   - [Pink2 / 80](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302523527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/a95dc2c0c82c42f497e03803823134f3.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 150](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302556295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/5b504aab7c184f6bb59e1bff9ae9dfff.webp?v=1765852776
     Price: $15.99 USD
   - [Yellow2 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302589063)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/b42068e525e244459369b94ba0a2696f.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 100](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302621831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/0d6c27a9d2a8443a92f13d3e24777a68.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 120](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302654599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/1b046c73ac4b421389c08284a1a6a9a2.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 90](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302687367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/2b2c27a5601b45d9a4b4bbe423e8053c.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 110](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302720135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/e150bf59dc52430791f8c27bb26ca68b.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302752903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/9ebae6524e834a168b9ccb77e2ed3dff.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302785671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/ed6b6900483448c1bc31287f06a307ef.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 80](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302818439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/89bfc345f5fe41ef96654b0d3ebdac17.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302851207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/4fcb99a133cd4dc3bfc39e0b86c22b0e.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302883975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/797e95b81ecc4416b29a5748c8af02c2.webp?v=1765852776
     Price: $15.99 USD
   - [White2 / 100](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302916743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/25e87906047e486196494d8d61e7e3d0.webp?v=1765852776
     Price: $15.99 USD
   - [Coffee3 / 150](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302949511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/f617839b0a334653821ffcc0ad9bbf33.webp?v=1765852776
     Price: $15.99 USD
   - [White2 / 90](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606302982279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/a7e8c5bf18024897b82cb8fd3f84309f.webp?v=1765852776
     Price: $15.99 USD
   - [White2 / 120](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606303015047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/a90990b8a6464e3ba668f3c91383d63a.webp?v=1765852776
     Price: $15.99 USD
   - [Pink3 / 150](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606303047815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/f5a51838ce7546cf85053db50052b288.webp?v=1765852776
     Price: $15.99 USD
   - [White2 / 110](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606303080583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/fbf1eb9ce53e43dd8f4edb0861e35f27.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki2 / 140](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606303113351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/d16181e9735f4a7489eecf43a1b601f3.webp?v=1765852776
     Price: $15.99 USD
   - [Khaki2 / 130](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606303146119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/92bf4fe61ebc406d958e33d05c6a0e75.webp?v=1765852776
     Price: $15.99 USD
   - [White2 / 80](https://straighthud.myshopify.com/products/1-10years-baby-base-shirt-round-neck-warm-boys-girls-spring-clothing-long-sleeved-tee-childrens-velvet-high-elastic-warm-shirt?variant=43606303178887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0705/7706/2023/files/b84e320ee5e04b59b4118042ee210c35.webp?v=1765852776
     Price: $15.99 USD
 - [I’ll Be Gnome For Christmas Hoodie](https://straighthud.myshopify.com/products/i-ll-be-gnome-for-christmas-hoodie): Shop cool Hoodie designed by hundreds of top artists and express who you are. Material Info: Cotton/Poly fleece blend. Super warm and cozy fleece lining with an adjustable hood and banded cuffs to keep in the heat. The Perfect Cut: Years of experience & research went into crafting the perfect fit. Check out our size chart to see how this fits on real people! The Perfect Weight: Wear your favorite design on a Hoodie that’s not too thick or heavy. Made Fairly: Made in a safe, friendly, fair-wage factory that is Wrap and Fair Labor .
   Updated: 2025-12-21T04:32:16Z
@@ -2930,7 +2873,7 @@
 
 - [Contact](https://straighthud.myshopify.com/pages/contact)
   Updated: 2025-12-12T19:38:16Z
-- [Your privacy choices](https://straighthud.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://straighthud.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-12T19:38:24Z
 
 ## Policies
