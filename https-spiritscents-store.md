@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2022-07-25T06:11:29Z
-- Updated At: 2026-01-13T00:00:26.972Z
+- Updated At: 2026-01-22T00:00:34.071Z
 
 ## Products
 
@@ -276,7 +276,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/products/image_4edd3114-98a0-4725-bbe8-4b7e33961284.heic?v=1670478630
   Price: $12.99 USD
 - [DIAMOND](https://spiritscents.store/products/diamond): Top: Notes of rose, jasmine, and citrusMiddle: Spice, melon, appleBottom: Raspberry crystals, amber, woody smells very tropical and summer scent To activate your Car Car diffuser, follow these simple steps: Unscrew the lid and remove the inner stopper Screw the lid back on carefully and securely, ensuring no fragrance oil can leak out Hold the bottle upside down for 3-5 seconds - this allows the fragrance oil to soak into the wooden lid Turn the diffuser the right way up, adjust the string to your liking, and hang where desired (making sure the bottle does not obstruct your view of the road) Over time, if you notice the aroma weakening, you can invert the bottle again for 2-3 seconds. This will re-soak the wood and refresh the scent.
-  Updated: 2024-11-20T03:39:43Z
+  Updated: 2026-01-13T06:56:21Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
