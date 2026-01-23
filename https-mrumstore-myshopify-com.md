@@ -6,12 +6,12 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-12-13T20:37:18Z
 - Contact Email: abusiammaram@gmail.com
-- Updated At: 2026-01-16T00:00:21.416Z
+- Updated At: 2026-01-23T00:00:33.473Z
 
 ## Products
 
 - [Pocket Phone Screen Magnifier - Portable Mobile Screen Enlarger](https://mrumstore.myshopify.com/products/pocket-phone-screen-magnifier): Magnify videos & reduce eye strain with this portable phone screen enlarger. Hands-free viewing anywhere. Perfect for movies & reading.
-  Updated: 2026-01-02T12:02:45Z
+  Updated: 2026-01-18T21:42:09Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Smart Curtain Drive Pro - Automated Curtain Motor | App & Voice Control](https://mrumstore.myshopify.com/products/smart-curtain-drive-pro): Automate your curtains with app, voice & battery power. Easy installation, reliable daily control. Transform any curtain into a smart curtain.
-  Updated: 2026-01-02T12:04:27Z
+  Updated: 2026-01-18T20:35:51Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -47,14 +47,14 @@
     Availability: Available
     Price: $74.99 USD
 - [Smart Grip Power Trainer - Hand Grip Strengthener with Progress Tracking](https://mrumstore.myshopify.com/products/smart-grip-power-trainer-pro): Build stronger hands with smart tracking & progress analytics. Auto-capture feedback for daily strength gains. Perfect for fitness & rehab
-  Updated: 2026-01-02T12:06:16Z
+  Updated: 2026-01-20T08:38:04Z
   Vendor: M
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_702_1765668191260-20923378-46427699-44406162_0.webp?v=1765668306
   Price: $29.99 USD
 - [Radiant Rice Hydration Cream - Korean Skincare Serum & Moisturizer Set](https://mrumstore.myshopify.com/products/radiant-rice-hydration-cream): Deeply hydrate & soothe sensitive skin with rice extract. Smooths fine lines quickly. Complete Korean skincare routine in one set.
-  Updated: 2026-01-02T12:10:28Z
+  Updated: 2026-01-20T00:01:52Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -93,7 +93,7 @@
     Availability: Available
     Price: $79.99 USD
 - [LED Fidget Clicker Keychain - Glow in Dark Stress Relief Toy](https://mrumstore.myshopify.com/products/glow-click-keychain): Pocket fidget clicker with LED glow for instant stress relief & focus. Perfect for anxiety, ADHD, or fidgeting on the go
-  Updated: 2026-01-02T12:11:20Z
+  Updated: 2026-01-20T08:38:26Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -105,7 +105,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Bone Conduction Speaker - Wireless Portable Surface Vibration Speaker](https://mrumstore.myshopify.com/products/hummingbird-mini-bone-speaker): Turn any surface into powerful wireless stereo sound. Portable bone conduction technology for hands-free listening anywhere
-  Updated: 2026-01-02T12:14:40Z
+  Updated: 2026-01-20T08:38:46Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -120,7 +120,7 @@
     Availability: Available
     Price: $24.99 USD
 - [EchoPulse Wireless Earbuds - Deep Bass Bluetooth Earbuds | Long Battery](https://mrumstore.myshopify.com/products/echopulse-true-wireless-earbuds): Premium wireless earbuds with deep bass, Premium wireless earbuds with deep bass, crystal-clear calls & all-day battery. True wireless freedom with secure fit for workouts
-  Updated: 2026-01-02T12:16:24Z
+  Updated: 2026-01-20T08:39:04Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -141,7 +141,7 @@
     Availability: Available
     Price: $27.99 USD
 - [Portable Clothes Dryer - Fast Drying UV Sterilization for Travel & Home](https://mrumstore.myshopify.com/products/quickfold-portable-dryer): Dry & sanitize clothes anywhere with UV sterilization. Compact, foldable design perfect for travel, RVs, dorms & small spaces.
-  Updated: 2026-01-02T12:17:07Z
+  Updated: 2026-01-20T08:39:33Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -153,14 +153,14 @@
     Availability: Available
     Price: $69.99 USD
 - [Collagen Powder - BioPeptide Protein for Skin, Joints & Recovery](https://mrumstore.myshopify.com/products/daily-collagen-biopeptide-boost-powder): Clean collagen protein for firmer skin, healthier joints & faster recovery. Bioavailable formula mixes easily. No fillers or additives
-  Updated: 2026-01-02T12:17:50Z
+  Updated: 2026-01-20T08:40:56Z
   Vendor: M
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_489_1765910133094-74588484-96315263-33169029_0.webp?v=1765910254
   Price: $39.99 USD
 - [Migraine Relief Cap - Hot & Cold Therapy Headache Ice Pack](https://mrumstore.myshopify.com/products/coolrelief-migraine-ice-therapy-cap): Stop migraines fast with hot & cold therapy. 360° coverage for -free pain relief. Blocks light for better sleep & recovery
-  Updated: 2026-01-02T12:18:46Z
+  Updated: 2026-01-18T21:44:09Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -172,7 +172,7 @@
     Availability: Available
     Price: $26.99 USD
 - [Magnetic Gym Bag - Quick Access Gym Duffel with Smart Organization](https://mrumstore.myshopify.com/products/magflex-pro-gym-carry-pack): Gym bag with magnetic closure for instant access. Smart compartments keep shoes, clothes & valuables organized. Perfect for workouts & travel
-  Updated: 2026-01-02T12:19:32Z
+  Updated: 2026-01-18T20:38:46Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -184,7 +184,7 @@
     Availability: Available
     Price: $45.99 USD
 - [LED Fingerless Gloves - Waterproof Light-Up Gloves for Fishing & Cycling](https://mrumstore.myshopify.com/products/nightgrip-led-fingerless-gloves): Hands-free LED illumination for fishing, cycling & camping. Waterproof fingerless design with rechargeable battery. Work safely in the dark.
-  Updated: 2026-01-02T12:20:34Z
+  Updated: 2026-01-20T08:42:11Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -199,7 +199,7 @@
     Availability: Available
     Price: $21.99 USD
 - [Cordless Hot Air Brush - 2-in-1 Hair Dryer Brush for Fast Styling](https://mrumstore.myshopify.com/products/mini-power-styler-brush): Salon-quality styling in minutes with cordless hot air brush. Smooths frizz, adds volume & saves time. Perfect for travel & busy mornings.
-  Updated: 2026-01-02T12:21:46Z
+  Updated: 2026-01-20T00:00:10Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -211,14 +211,14 @@
     Availability: Available
     Price: $37.99 USD
 - [3-in-1 Wireless Charger - Fast Charging Station for iPhone, Watch & AirPods](https://mrumstore.myshopify.com/products/magnetic-3-in-1-wireless-charging-hub): Charge iPhone, Apple Watch & AirPods simultaneously. Magnetic alignment, fast wireless charging & cable-free convenience. Sleek modern design
-  Updated: 2026-01-02T12:22:42Z
+  Updated: 2026-01-18T20:27:33Z
   Vendor: M
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_81_1766012442740-87195587-91650376-23386202_0.webp?v=1766012991
   Price: $84.99 USD
 - [Magnetic Phone Grip - Camera Handle for Steady Video & Selfies](https://mrumstore.myshopify.com/products/maggrip-camera-phone-handle): Film like a pro with magnetic phone grip. Eliminates camera shake for smooth videos & perfect selfies. Compact & portable design.
-  Updated: 2026-01-02T12:24:57Z
+  Updated: 2026-01-18T20:30:49Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -258,7 +258,7 @@
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_82_1766350317628-7537384-37661125-53800901_0.webp?v=1766350763
   Price: $54.99 USD
 - [Motion Sensor LED Cabinet Light - Rechargeable Under Cabinet Lighting](https://mrumstore.myshopify.com/products/glowflex-ultra-thin-cabinet-light): Hands-free LED lighting with motion sensor. Ultra-thin, rechargeable & easy to install. Perfect for kitchens, closets & hallways
-  Updated: 2026-01-02T12:33:00Z
+  Updated: 2026-01-19T08:34:06Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -288,7 +288,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Self-Cleaning Hair Brush - Retractable Detangling Brush for All Hair Types](https://mrumstore.myshopify.com/products/easyclean-retractable-detangling-scalp-brush): One-click hair removal with retractable bristles. Gentle detangling & scalp massage for healthier hair. Easy to clean & hygienic
-  Updated: 2026-01-02T12:34:25Z
+  Updated: 2026-01-18T20:37:47Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -300,14 +300,14 @@
     Availability: Available
     Price: $29.99 USD
 - [Air Quality Monitor - Real-Time Indoor Air Quality Detector for Home](https://mrumstore.myshopify.com/products/homeair-smart-monitor): Monitor air quality, CO2, VOCs, temperature & humidity in real-time. Smart alerts protect your family's health. Perfect for homes & offices.
-  Updated: 2026-01-02T12:35:32Z
+  Updated: 2026-01-19T22:44:44Z
   Vendor: M
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_725_1766443095519-22036783-50905427-90221179_0.webp?v=1766443241
   Price: $84.99 USD
 - [4-Mode Basin Faucet - Hot & Cold Mixer Tap with Multiple Spray Modes"](https://mrumstore.myshopify.com/products/flowmaster-four-mode-basin-faucet-mixer): Premium basin faucet with 4 water modes & precise temperature control. Durable construction, easy installation. Modern bathroom upgrade.
-  Updated: 2026-01-02T12:36:34Z
+  Updated: 2026-01-18T20:34:34Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -325,7 +325,7 @@
     Availability: Available
     Price: $139.99 USD
 - [Wireless CarPlay Adapter - Convert Wired CarPlay to Wireless](https://mrumstore.myshopify.com/products/swiftconnect-plus-wireless-carplay-adapter): Transform factory CarPlay to wireless. Zero latency, instant connection & hands-free safety. Plug & play setup for iPhone users
-  Updated: 2026-01-02T12:40:03Z
+  Updated: 2026-01-18T20:29:17Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -379,14 +379,14 @@
     Availability: Available
     Price: $15.99 USD
 - [All-in-One Grooming Makeup Pen](https://mrumstore.myshopify.com/products/all-in-one-grooming-makeup-pen): Your Confidence, Perfected in SecondsThe All-in-One Grooming Makeup Pen is your secret  for quick, natural touch-ups anywhere, anytime. This compact multitool combines precision grooming with effortless application, helping you look polished and feel confident throughout your day.Key Benefits Instant Touch-Ups: Perfect for covering blemishes, defining features, and quick grooming on the go Compact & Portable: Fits easily in your pocket, bag, or travel kit Natural Finish: Blends seamlessly for a flawless, undetectable look Multi-Purpose Design: Combines multiple grooming functions in one sleek tool Confidence Boost: Always look your best, whether at work, social events, or unexpected moments Perfect ForBusy professionals, travelers, and anyone who values looking their best without the hassle of carrying multiple products. Keep one at your desk, in your car, and in your travel bag.
-  Updated: 2026-01-10T00:11:35Z
+  Updated: 2026-01-20T11:27:24Z
   Vendor: M
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_449_1767032698133-90506874-53818212-58875318_0.webp?v=1767033112
   Price: $19.99 USD
 - [MagMix Pro Self-Stirring Mug - Automatic Mixing Travel Cup with Temperature Display](https://mrumstore.myshopify.com/products/magmix-pro-automatic-stirring-mug): Effortless Mixing, Perfect TemperatureThe MagMix Pro transforms your daily drink routine with automatic stirring technology and real-time temperature display. Whether you're mixing protein shakes, coffee, or hot chocolate, this smart mug does the work for you.Key Features Automatic Stirring: Powerful motor mixes drinks in seconds with the press of a button Temperature Display: Built-in LCD shows exact drink temperature for perfect sipping Stainless Steel Insulation: Keeps drinks hot or cold for hours Portable Design: Leak-proof lid and ergonomic grip for on-the-go convenience USB Rechargeable: Long-lasting battery for weeks of use Perfect ForFitness enthusiasts mixing protein shakes, busy professionals enjoying coffee on the go, or anyone who wants perfectly mixed drinks without the hassle. Say goodbye to clumpy powders and unevenly mixed beverages.Experience the future of drink mixing - effortless, precise, and always ready when you are.
-  Updated: 2026-01-10T00:13:16Z
+  Updated: 2026-01-20T11:25:26Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Retro Metal Punk Aviator Sunglasses - UV Protection Shades](https://mrumstore.myshopify.com/products/retro-metal-punk-aviator-shades): Premium Aviator Sunglasses with AttitudeStep out in style with these bold retro metal punk aviator sunglasses. Designed for those who dare to stand out, these shades combine classic aviator silhouette with edgy punk aesthetics.Key Features: UV Protection: Shield your eyes from harmful UV rays while looking effortlessly cool Anti-Glare Technology: Reduces glare and sharpens vision for crystal-clear outdoor visibility Durable Metal Frame: Premium metal construction ensures long-lasting wear Versatile Style: Perfect for festivals, daily wear, driving, or beach days Comfortable Fit: Lightweight design for all-day comfort Whether you're hitting the road, attending a concert, or just elevating your everyday look, these aviator shades deliver confident outdoor style with a rebellious edge.
-  Updated: 2026-01-10T00:05:12Z
+  Updated: 2026-01-20T11:47:14Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -421,8 +421,8 @@
   - [col.c5](https://mrumstore.myshopify.com/products/retro-metal-punk-aviator-shades?variant=42346347528254)
     Availability: Available
     Price: $44.99 USD
-- [EInk Memories Phone Case - Battery-Free Digital Display with NFC](https://mrumstore.myshopify.com/products/eink-memories-phone-case): Keep Your Precious Memories Always VisibleTransform your phone into a personal gallery with our innovative EInk Memories Phone Case. Featuring a battery-free E Ink display, you can showcase your favorite photos, notes, or reminders without draining your phone's battery.Key Features: Battery-Free E Ink Display - Crystal-clear visibility in any light, no charging required NFC Technology - Instantly update your display with a simple tap All-Day Visibility - Your memories stay visible 24/7 without power consumption Privacy-Focused - Keep your essentials private yet accessible Durable Protection - Premium materials protect your phone while displaying what matters most Perfect For:Family photos, daily reminders, inspirational quotes, emergency contacts, or personal notes - all displayed beautifully on your phone case without compromising battery life.Experience the perfect blend of technology and sentimentality with a phone case that does more than just protect.
-  Updated: 2026-01-02T12:48:42Z
+- [EInk Memories Phone Case - Battery-Free Digital Display with NFC](https://mrumstore.myshopify.com/products/eink-memories-phone-case): Keep Your Precious Memories Always Visible Transform your phone into a personal gallery with our innovative EInk Memories Phone Case. Featuring a battery-free E Ink display, you can showcase your favorite photos, notes, or reminders without draining your phone's battery. Key Features: Battery-Free E Ink Display - Crystal-clear visibility in any light, no charging required NFC Technology - Instantly update your display with a simple tap All-Day Visibility - Your memories stay visible 24/7 without power consumption Privacy-Focused - Keep your essentials private yet accessible Durable Protection - Premium materials protect your phone while displaying what matters most Perfect For: Family photos, daily reminders, inspirational quotes, emergency contacts, or personal notes - all displayed beautifully on your phone case without compromising battery life. Experience the perfect blend of technology and sentimentality with a phone case that does more than just protect.
+  Updated: 2026-01-19T08:30:39Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -578,7 +578,7 @@
     Availability: Available
     Price: $44.99 USD
 - [PowerPress Pro Electric Citrus Juicer](https://mrumstore.myshopify.com/products/powerpress-pro-electric-citrus-juicer): Fresh Juice in SecondsThe PowerPress Pro Electric Citrus Juicer transforms your morning routine with powerful, whisper-quiet operation that extracts maximum juice from oranges, lemons, limes, and grapefruits.Key Benefits Quiet Power: High-torque motor delivers professional results without the noise Maximum Extraction: Dual-direction auto-reverse cone gets every last drop Easy Cleanup: Dishwasher-safe parts and drip-free spout Pulp Control: Adjustable settings for your perfect juice consistency Compact Design: Fits neatly on any countertop without taking up valuable space Perfect ForHealth-conscious families, fresh juice lovers, and anyone who wants to start their day with vitamin-packed citrus goodness. Whether you're making a single glass or preparing juice for the whole family, the PowerPress Pro handles it effortlessly.
-  Updated: 2026-01-10T00:05:40Z
+  Updated: 2026-01-20T11:25:15Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -602,7 +602,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Aquamarine Tiny AI Outfit Charm](https://mrumstore.myshopify.com/products/aquamarine-tiny-ai-outfit-charm): Your Daily Smart Companion, Beautifully DesignedThe Aquamarine Tiny AI Outfit Charm is more than just an accessory—it's a personalized smart pendant that brings fun, style, and intelligent interactions to every outfit and moment of your day.Why You'll Love It Personalized Intelligence: Small smart interactions that adapt to your lifestyle Versatile Style: Elegant aquamarine design complements any outfit—casual, professional, or evening wear Everyday Companion: Lightweight and comfortable for all-day wear Conversation Starter: Unique blend of fashion and technology Perfect ForTech enthusiasts who appreciate beautiful design, fashion-forward individuals seeking smart accessories, or anyone looking to add a touch of innovation to their daily style.Experience the future of wearable tech—stylish, smart, and uniquely yours.
-  Updated: 2026-01-10T00:07:11Z
+  Updated: 2026-01-20T11:38:57Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -614,7 +614,7 @@
     Availability: Available
     Price: $279.99 USD
 - [Retro Birthstone Box Pendant - Openable Memory Locket Necklace](https://mrumstore.myshopify.com/products/retro-birthstone-box-pendant): Keep Your Precious Memories CloseThis elegant retro-style birthstone box pendant is more than just jewelry—it's a personal treasure keeper. The transparent openable design lets you carry your most cherished keepsakes, photos, or mementos wherever you go.Features: Openable transparent compartment for photos and small keepsakes Classic retro design with timeless appeal Durable construction for daily wear Perfect for preserving special memories Thoughtful gift for birthdays, anniversaries, or special occasions Whether you're keeping a loved one's photo close to your heart or storing a tiny memento from a special moment, this versatile pendant combines style with sentimental value. The transparent design beautifully showcases whatever you choose to keep inside.
-  Updated: 2026-01-10T00:06:06Z
+  Updated: 2026-01-20T11:39:06Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -710,7 +710,7 @@
     Availability: Available
     Price: $34.99 USD
 - [Hidden Heart Jewelry Box Ring - Secret Compartment Ring for Keepsakes](https://mrumstore.myshopify.com/products/hidden-heart-jewelry-box-ring): Your Secrets, Beautifully HiddenDiscover the magic of our Hidden Heart Jewelry Box Ring—a stunning piece that's more than just jewelry. This elegant ring features a discreet secret compartment designed to hold your most precious tiny keepsakes, love notes, or surprise messages close to your heart.Perfect For: Storing emergency medication or vitamins Hiding romantic messages from loved ones Keeping a lock of hair or small memento Surprising someone special with a hidden note Travel-friendly storage for small valuables Why You'll Love It:Imagine carrying a secret love note from your partner, a tiny photo, or a meaningful keepsake wherever you go. This versatile ring combines elegant design with practical functionality, making it perfect for daily wear, travel, or as a thoughtful gift that tells a story.The smooth-opening compartment is cleverly concealed within the heart design, ensuring your treasures stay safe and private while you wear a beautiful piece of jewelry that sparks conversation.
-  Updated: 2026-01-08T09:24:42Z
+  Updated: 2026-01-20T11:39:32Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -793,8 +793,8 @@
   - [20](https://mrumstore.myshopify.com/products/hidden-heart-jewelry-box-ring?variant=42379198332990)
     Availability: Available
     Price: $24.95 USD
-- [ClearBacklit iPad Keyboard Case - Slim Protective Cover with Backlit Keys](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case): Transform Your iPad Into a Productivity PowerhouseWork smarter anywhere with the ClearBacklit iPad Keyboard Case. This slim, protective case features backlit keys that let you type comfortably in any lighting condition—from bright cafes to dimly lit flights.Key Features: Backlit keyboard – Type effortlessly day or night with adjustable illumination Slim & protective design – Safeguards your iPad without adding bulk Responsive keys – Enjoy laptop-quality typing on the go Easy attachment – Secure magnetic connection for instant setup Long battery life – Stay productive for hours between charges Whether you're drafting emails, taking notes in meetings, or working remotely, this keyboard case delivers the comfort and protection you need to stay productive wherever life takes you.
-  Updated: 2026-01-10T11:42:19Z
+- [ClearBacklit iPad Keyboard Case - Slim Protective Cover with Backlit Keys](https://mrumstore.myshopify.com/products/clearbacklit-ipad-keyboard-case): Transform Your iPad Into a Productivity Powerhouse Work smarter anywhere with the ClearBacklit iPad Keyboard Case. This slim, protective case features backlit keys that let you type comfortably in any lighting condition—from bright cafes to dimly lit flights. Key Features: Backlit keyboard – Type effortlessly day or night with adjustable illumination Slim & protective design – Safeguards your iPad without adding bulk Responsive keys – Enjoy laptop-quality typing on the go Easy attachment – Secure magnetic connection for instant setup Long battery life – Stay productive for hours between charges Whether you're drafting emails, taking notes in meetings, or working remotely, this keyboard case delivers the comfort and protection you need to stay productive wherever life takes you.
+  Updated: 2026-01-20T11:23:24Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -950,7 +950,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Pocket Lighted Grooming Mirror Pro](https://mrumstore.myshopify.com/products/pocket-lighted-grooming-mirror-pro): Perfect Grooming, Anywhere You GoNever settle for poor lighting again. The Pocket Lighted Grooming Mirror Pro delivers professional-grade illumination in a compact, portable design that fits perfectly in your pocket or bag.Key Features:Bright LED Lighting – Crystal-clear visibility for precise grooming, makeup application, and detail workUltra-Portable Design – Slim, lightweight construction goes wherever you need itTouch-Activated – Simple one-touch control for instant illuminationLong Battery Life – Reliable power for weeks of daily usePremium Quality – Durable construction with a scratch-resistant mirror surfaceWhy You'll Love It:Whether you're touching up before an important meeting, perfecting your look on the go, or need reliable lighting in dimly-lit spaces, this mirror gives you the confidence of perfect grooming anywhere. The professional-grade LED lighting eliminates shadows and provides true-color accuracy, so you always look your best.Perfect for: Travel, office touch-ups, car glove box, gym bag, purse, or daily grooming routine.
-  Updated: 2026-01-12T08:11:41Z
+  Updated: 2026-01-20T11:28:17Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -962,7 +962,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Lustro Moissanite Pendant - Sterling Silver Solitaire Necklace](https://mrumstore.myshopify.com/products/lustro-moissanite-pendant): Timeless Elegance Meets Modern BrillianceThe Lustro Moissanite Pendant is your everyday luxury piece—a stunning sterling silver solitaire that catches the light with every movement and elevates any outfit from simple to sophisticated.Why You'll Love It Brilliant moissanite stone - More fire and sparkle than traditional gemstones, with exceptional clarity Premium sterling silver setting - Durable, hypoallergenic, and maintains its shine Versatile design - Perfect for daily wear, special occasions, or layering with other necklaces Confidence-building elegance - Feel polished and put-together instantly Perfect ForWhether you're heading to the office, meeting friends for brunch, or celebrating a special moment, this pendant adds that touch of refined sparkle that makes you feel extraordinary.A thoughtful gift for someone special or a well-deserved treat for yourself.
-  Updated: 2026-01-14T10:52:02Z
+  Updated: 2026-01-20T11:39:47Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -1004,7 +1004,7 @@
     Availability: Available
     Price: $44.99 USD
 - [RallyDrive Chrono Watch](https://mrumstore.myshopify.com/products/rallydrive-chrono-watch): Built for the Road AheadThe RallyDrive Chrono Watch is your reliable companion for every adventure. Engineered for durability and precision, this rugged wristwatch keeps you on time whether you're navigating city streets or exploring the outdoors.Key Features Water-Resistant Design – Ready for rain, splashes, and everyday wear High-Contrast Display – Easy-to-read face in any lighting condition Precision Movement – Accurate timekeeping you can count on Durable Construction – Built to withstand daily wear and tear Comfortable Fit – All-day wearability for active lifestyles Your Everyday EssentialImagine glancing at your wrist and seeing the time clearly, no matter where you are. The RallyDrive Chrono is designed for those who demand reliability without sacrificing style. From morning commutes to weekend adventures, this watch keeps pace with your life.
-  Updated: 2026-01-15T01:45:13Z
+  Updated: 2026-01-20T11:40:22Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -1028,7 +1028,7 @@
     Availability: Available
     Price: $44.99 USD
 - [Charming Bear Jewelry Box](https://mrumstore.myshopify.com/products/charming-bear-jewelry-box): Cute gift box that protects necklace and makes gifting fast, personal, and memorable
-  Updated: 2026-01-14T21:39:43Z
+  Updated: 2026-01-20T11:30:29Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -1142,7 +1142,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Classic Moissanite Pendant - D VVS Sterling Silver Necklace](https://mrumstore.myshopify.com/products/classic-moissanite-pendant): Timeless Elegance Meets Brilliant SparkleExperience the captivating fire and brilliance of  D VVS moissanite, expertly set in premium sterling silver. This classic pendant delivers exceptional sparkle that rivals diamonds at a fraction of the cost.Why You'll Love It  D VVS Moissanite - The highest color and clarity grade for maximum brilliance Premium Sterling Silver - Durable, hypoallergenic setting that won't tarnish easily Everyday Versatility - Elegant enough for special occasions, refined enough for daily wear Exceptional Value - Diamond-like sparkle without the premium price tag Perfect ForWhether you're treating yourself or searching for a meaningful gift, this moissanite pendant adds a touch of sophistication to any outfit. Layer it with other necklaces or let it shine solo - either way, you'll radiate confidence.Material: Sterling SilverStone:  D VVS MoissaniteStyle: Classic Pendant
-  Updated: 2026-01-15T14:47:06Z
+  Updated: 2026-01-20T11:30:02Z
   Vendor: M
   Product Type: 
   Availability: Available
@@ -1159,6 +1159,60 @@
   - [Yellow 5mm / 45-50cm](https://mrumstore.myshopify.com/products/classic-moissanite-pendant?variant=42395278311486)
     Availability: Available
     Price: $59.99 USD
+- [XPlus Mini Home Theater Projector](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector): Transform Any Space Into Your Personal CinemaExperience immersive big-screen entertainment anywhere with the XPlus Mini Home Theater Projector. This portable Android-powered projector delivers crisp, high-definition visuals perfect for movie nights, gaming sessions, presentations, and more.Key Features: Portable Design - Compact and lightweight for easy setup in any room Android OS Built-In - Access your favorite streaming apps directly without additional devices Wireless Streaming - Connect seamlessly via WiFi for cable-free convenience Crisp HD Quality - Enjoy sharp, vibrant images for an immersive viewing experience Fast Setup - Get started in minutes with simple plug-and-play operation Multiple Plug Options - Available in UK, EU, AU, and US configurations Perfect For: Movie nights with family and friends Gaming on the big screen Business presentations Outdoor entertainment Dorm rooms and small spaces Whether you're creating a home theater experience or need a portable solution for presentations, the XPlus Mini delivers professional-quality projection in a compact, user-friendly package.
+  Updated: 2026-01-20T11:22:51Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_151_1768687787444-77504517-84171031-8321366_0.webp?v=1768687882
+  - [X3 PLUS 2G RAM Bag / UK Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791237694)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM Bag / EU Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791270462)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM Bag / AU Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791303230)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM Bag / US Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791335998)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM 2 / UK Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791368766)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM 2 / EU Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791401534)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM 2 / AU Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791434302)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 2G RAM 2 / US Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791467070)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 1G RAM / UK Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791499838)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 1G RAM / EU Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791532606)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 1G RAM / AU Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791565374)
+    Availability: Available
+    Price: $109.99 USD
+  - [X3 PLUS 1G RAM / US Plug](https://mrumstore.myshopify.com/products/xplus-mini-home-theater-projector?variant=42398791598142)
+    Availability: Available
+    Price: $109.99 USD
+- [Galaxy Night Star Projector Lamp](https://mrumstore.myshopify.com/products/galaxy-night-star-projector-lamp): Transform Your Space into a Starry SanctuaryExperience the magic of a peaceful night sky right in your bedroom. The Galaxy Night Star Projector Lamp creates a mesmerizing display of rotating stars and celestial patterns that instantly calm your mind and prepare you for deep, restful sleep.Key Benefits: Soothing Sleep Aid – Gentle rotating stars create a calming atmosphere that helps you drift off naturally Built-in Relaxation Sounds – Choose from peaceful soundscapes to enhance your bedtime routine Adjustable Brightness & Speed – Customize the projection intensity and rotation to match your mood Perfect for All Ages – Ideal for nurseries, kids' rooms, bedrooms, or meditation spaces Easy to Use – Simple controls make it effortless to create your perfect ambiance Whether you struggle with falling asleep, want to create a peaceful environment for meditation, or simply love the beauty of a starlit sky, this projector transforms any room into a tranquil retreat.
+  Updated: 2026-01-21T00:39:35Z
+  Vendor: M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3744/3902/files/image_162_1768689607602-85011842-62191953-17755701_0.webp?v=1768689736
+  - [Basic Version / USB Plug](https://mrumstore.myshopify.com/products/galaxy-night-star-projector-lamp?variant=42398817747006)
+    Availability: Available
+    Price: $29.99 USD
+  - [Upgrade Version / USB Plug](https://mrumstore.myshopify.com/products/galaxy-night-star-projector-lamp?variant=42398817779774)
+    Availability: Available
+    Price: $29.99 USD
 
 ## Collections
 
@@ -1171,12 +1225,33 @@
 - [Posters, Prints and Visual Artwork example products](https://mrumstore.myshopify.com/collections/posters-prints-and-visual-artwork-example-products)
   Updated: 2025-12-26T23:34:45Z
   Total Products: 0
+- [Tech & Electronics - Smart Gadgets & Accessories | M](https://mrumstore.myshopify.com/collections/tech-electronics): Shop innovative tech gadgets, wireless chargers, earbuds, phone accessories, and smart electronics. Premium quality tech products for your modern lifestyle.
+  Updated: 2026-01-20T08:40:03Z
+  Total Products: 11
+- [Home & Kitchen Gadgets - Smart Home Solutions | M](https://mrumstore.myshopify.com/collections/home-kitchen): Shop innovative home and kitchen gadgets including air monitors, LED lights, cleaning tools, and kitchen appliances. Upgrade your home with smart solutions.
+  Updated: 2026-01-18T20:39:16Z
+  Total Products: 6
+- [Beauty & Personal Care - Hair, Skincare & Grooming Tools | M](https://mrumstore.myshopify.com/collections/beauty-personal-care): Shop beauty and personal care essentials including hair brushes, styling tools, skincare, and grooming accessories. Premium beauty products for your daily routine.
+  Updated: 2026-01-20T00:02:22Z
+  Total Products: 5
+- [Jewelry & Accessories - Necklaces, Watches & Sunglasses | M](https://mrumstore.myshopify.com/collections/jewelry-accessories): Shop beautiful jewelry and accessories including moissanite pendants, jewelry boxes, watches, and sunglasses. Elegant pieces to complete your look.
+  Updated: 2026-01-18T21:51:02Z
+  Total Products: 2
+- [Health & Wellness Products - Fitness & Relief Tools | M](https://mrumstore.myshopify.com/collections/health-wellness): Shop health and wellness products including migraine relief, fitness tools, and nutritional supplements. Support your wellbeing with quality health essentials.
+  Updated: 2026-01-20T08:41:27Z
+  Total Products: 2
+- [Pet Care Products - Grooming & Pet Accessories | M](https://mrumstore.myshopify.com/collections/pet-care): Shop pet care essentials including grooming tools and pet accessories. Quality products to keep your pets happy and healthy.
+  Updated: 2026-01-18T20:48:17Z
+  Total Products: 0
+- [Travel & Outdoor Gear - Portable Gadgets & Accessories | M](https://mrumstore.myshopify.com/collections/travel-outdoor): Shop travel and outdoor essentials including portable gadgets, LED gloves, gym bags, and travel accessories. Quality gear for your active lifestyle.
+  Updated: 2026-01-20T08:42:41Z
+  Total Products: 3
 
 ## Store Pages
 
 - [Contact](https://mrumstore.myshopify.com/pages/contact)
   Updated: 2025-12-13T20:37:21Z
-- [Your privacy choices](https://mrumstore.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://mrumstore.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-13T23:35:32Z
 - [About Us - M | Quality Home & Lifestyle Products](https://mrumstore.myshopify.com/pages/about-us): Welcome to Mstore We're passionate about bringing you practical, high-quality products that make everyday life easier and more enjoyable. From inno...
   Updated: 2026-01-01T22:27:18Z
