@@ -1,4 +1,12 @@
-# tCheck (https://tcheck.me)
+# tCheck (Operating under Engineered  Technologies, Inc.) (https://tcheck.me)
+
+> tCheck is a California-based  tech company that manufactures handheld potency testing devices for home and professional use. Founded in 2014, tCheck democratized  testing by replacing expensive lab equipment ($30,000+) with an affordable, user-friendly device ($299.99) that delivers lab-accurate results in minutes.
+
+The tCheck 3 uses UV spectrophotometry to measure THC and CBD in infused oils, tinctures, and (with expansion kit) raw flower and concentrates. With 50,000+ devices sold and 500,000+ tests performed globally, tCheck serves edible makers, home growers,  patients, and  businesses seeking precision dosing and consistency.
+
+Core brand attributes: **Accurate, Accessible, Trustworthy, Science-Based, User-Friendly, Affordable**
+
+The company operates with full transparency, in-house manufacturing quality control, and a zero-risk guarantee, positioning tCheck as the trusted home  testing standard for the post-legalization era.
 
 - Domain: https://tcheck.me
 - Locale: en
@@ -6,7 +14,26 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-12-16T22:27:14Z
 - Contact Email: support@tcheck.me
-- Updated At: 2026-01-15T00:49:57.420Z
+- Address: 9081 Foothills Blvd, Suite 150, Roseville, California 95747, USA
+- Updated At: 2026-01-23T00:00:31.895Z
+
+## Mission & Core Value Proposition
+
+tCheck develops handheld potency testing devices that empower users to measure THC and CBD levels with lab-grade accuracy from home. Our mission is to democratize  potency testing, shifting the industry away from expensive lab testing ($30,000+ HPLC machines) toward accessible, affordable home testing solutions that enable safe, consistent dosing and scientific understanding of  products.
+
+## Company Overview
+
+Company Name: tCheck (Operating under Engineered  Technologies, Inc.)
+Founded: 2014 (first product launched 2015)
+Headquarters: 9081 Foothills Blvd, Suite 150, Roseville, California 95747, USA
+Industry:  Tech / Measurement Devices / Food Safety & Agriculture
+Manufacturing: In-house design and manufacturing in Northern California
+Global Reach: Serving customers worldwide
+Scale: 500,000+ potency tests performed; 50,000+ devices sold globally
+
+## Company Philosophy
+
+We believe that understanding what you consume is essential to mindful dosing and scientific understanding. In an industry that is heavily regulated, widely consumed yet stigmatized, tCheck is the first step toward  education and de-stigmatization. We support nationwide legalization by providing tools that enable responsible, science-backed consumption.
 
 ## Products
 
@@ -254,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Green-Expansion-Kit-5_6846d78b-7617-40e2-bf29-85eee6c13c4f.jpg?v=1721662253
     Price: $420.00 USD
 - [tCheck 3 Upgrade Kit for Advanced Potency Testing | tCheck](https://tcheck.me/products/tcheck-3-upgrade): tCheck 3 Upgrade improves the accuracy and consistency of  potency testing at home, making it easier to measure THC or CBD levels in oils and infusions.
-  Updated: 2026-01-13T03:15:46Z
+  Updated: 2026-01-21T20:52:14Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
@@ -318,22 +345,22 @@
   Updated: 2022-12-28T21:40:48Z
   Total Products: 0
 - [Accessories for tCheck for Accurate Potency Testing | tCheck](https://tcheck.me/collections/accessories): Accessories for tCheck support accurate potency testing by enhancing device performance and usability, making your  testing process simple & effective.
-  Updated: 2026-01-14T12:07:01Z
+  Updated: 2026-01-22T12:06:30Z
   Total Products: 10
 - [Warranty products tCheck THC Potency Tester](https://tcheck.me/collections/warranty-products): Warranty products for tCheck THC Potency Tester and Accessories.
-  Updated: 2026-01-03T12:07:23Z
+  Updated: 2026-01-20T12:06:13Z
   Total Products: 3
 - [THC & CBD Potency Tester by tCheck for Infused Oils | tCheck](https://tcheck.me/collections/potency-tester): THC & CBD Potency Tester by tCheck provides accurate readings of your infused oils, helping improve dosing, consistency and confidence in your homemade product.
   Updated: 2025-07-21T06:29:05Z
   Total Products: 0
 - [Recalibration](https://tcheck.me/collections/recalibration)
-  Updated: 2026-01-01T12:06:21Z
+  Updated: 2026-01-16T12:06:35Z
   Total Products: 3
 - [Wholesale products](https://tcheck.me/collections/wholesale-products)
   Updated: 2026-01-09T12:07:01Z
   Total Products: 6
 - [Amazon products of tCheck THC Potency Tester](https://tcheck.me/collections/amazon-products): SKU's only on Amazon for tCheck THC Potency Tester
-  Updated: 2026-01-14T12:07:01Z
+  Updated: 2026-01-17T12:06:25Z
   Total Products: 8
 - [Collaboration with other great THC Products](https://tcheck.me/collections/collaboration): Check out bundled products from our partners with the tCheck THC & CBD potency tester.
   Updated: 2024-08-09T22:41:54Z
@@ -345,7 +372,7 @@
   Updated: 2025-06-24T07:41:56Z
   Total Products: 0
 - [Tax Exempt (Amazon)](https://tcheck.me/collections/tax-exempt-amazon): Exempt for purposes of calculating sales taxes due only because Amazon already calculates and charges sales tax.
-  Updated: 2026-01-14T12:07:01Z
+  Updated: 2026-01-17T12:06:25Z
   Total Products: 8
 - [Tax Exempt (Wholesale)](https://tcheck.me/collections/tax-exempt-wholesale): Tax exempt products because items are being sold wholesale and are not subject to sales tax.
   Updated: 2026-01-09T12:07:01Z
@@ -354,7 +381,7 @@
   Updated: 2024-08-09T22:41:54Z
   Total Products: 0
 - [Advanced Potency Testing Devices & Testing Kits | tCheck](https://tcheck.me/collections/potency-tester-1): tCheck Potency Testers help measure the strength of infused oils, tinctures, and more at home. Designed for accuracy, consistency, and easy-to-read results.
-  Updated: 2026-01-14T12:07:01Z
+  Updated: 2026-01-22T12:06:30Z
   Total Products: 5
 
 ## Blogs
@@ -484,10 +511,6 @@
     Updated: 2025-07-23T12:21:30Z
     Author: THC Taylor
     Tags: ,  education, cbd, Food, thc
-  - [Five Fun Ways To Use  Rosin at Home Easily | tCheck](https://tcheck.me/blogs/-tips/five-fun-ways-to-use--rosin): Five Fun Ways To Use  Rosin at Home Easily | tCheck
-    Updated: 2025-07-23T05:49:04Z
-    Author: THC Taylor
-    Tags: ,  education,  products, Concentrate, concentrates, rosin
   - [Keep Your tCheck Accurate with Proper Device Care | tCheck](https://tcheck.me/blogs/-tips/device-care): Keep Your tCheck Accurate with Proper Device Care | tCheck
     Updated: 2025-07-23T05:50:05Z
     Author:  Carl
@@ -1342,7 +1365,231 @@
 - [Contact Information](https://tcheck.me/policies/contact-information)
   Updated: 2025-07-30T12:09:52-07:00
 
+## Target Audiences
+
+1. Edibles Makers - Weekend enthusiasts, cottage businesses, and commercial edible producers seeking consistent potency in homemade butter, oils, and tinctures
+
+2. Home Growers - Small-scale and hobby cultivators seeking pre-lab verification and cost savings; verify bud potency before packaging
+
+3.   Patients - Users requiring consistent, precise dosing and tolerance tracking for  applications
+
+4. Caregivers -  providers administering -based medications to patients and animals
+
+5.  Advocates & Educators - Consultants, educators, and professionals promoting responsible use
+
+6. Cosmetics Manufacturers - Producers of -infused topicals and beauty products
+
+## Primary Product: tCheck 3 Potency Tester
+
+Testing Capabilities:
+- Infused Oils & Tinctures: Cannabutter, MCT coconut oil, extra virgin olive oil, alcohol tinctures (THC and CBD)
+- Raw Dried Flower: With expansion kit - measures THCa and CBDa in buds, trim, shake
+
+Key Features:
+- Testing Speed: Results in 2-5 minutes
+- Accuracy: ±4 mg/mL for decarbed infusions; ±3 percentage points for raw flower; calibrated against HPLC  standards
+- Display Formats: mg/mL, mg/tsp, mg/Tbsp, mg/cups for infusions; percent % for raw flower
+- Technology: Advanced UV spectrophotometry (similar to lab-grade equipment)
+- Self-Calibration: Automatically compensates for ambient temperature and light source aging
+- Reusable Hardware: Precision UV optical tray (no disposables except optional reagent kits)
+- Wireless Connectivity: Bluetooth LE (4.0+) to iOS and Android apps
+- Cloud Logging: Unlimited test result storage with notes capability
+- Built-in Calculator: In-app recipe calculator for precise dosing of edibles
+- Subscription: No recurring fees
+- Warranty & Guarantees: 1-year manufacturer warranty, 30-day money-back guarantee, free 30-day returns policy
+- Free Shipping: On orders over $100 USD
+
+Product Variants: Available in 4 different colors; Price: $329.99
+
+Kits Available:
+- Essential Kit (infusion testing)
+- Potency Testing Plus Kit (includes lab-grade syringes, filters, reagent)
+- All-in-One Expansion Kit (adds flower and concentrate testing capability)
+
+Previous Generations: tCheck 2 (widely praised), tCheck 1 (original, 2015, THC only)
+
+Consumables & Refill Supply: Lab-grade syringes, filters, and reagent solutions available
+
+## Key Differentiators & Competitive Advantages
+
+Accuracy & Lab Calibration:
+- Factory calibration against HPLC  standards
+- Self-compensating technology for temperature and light source variations
+-  accuracy against third-party lab testing
+- ±4 mg/mL accuracy on infusions (among the tightest tolerances available)
+
+Ease of Use:
+- No chemistry knowledge required; simple 5-step process
+- Results in 2-5 minutes (faster than most alternatives)
+- Intuitive mobile app with visual guides
+- No complex calibration required by user
+
+Versatility:
+- Tests multiple  product types (flowers, infusions, concentrates)
+- Compatible with butter, oils, tinctures, and alcohol-based products
+- Supports both THC and CBD measurement
+- Optional expansion kit enables raw flower testing
+
+Cost Efficiency:
+- One-time hardware purchase ($329.99)
+- No subscription fees
+- Eliminates need for expensive third-party lab testing ($150-300+ per test)
+- ROI achieved after 1-2 lab test equivalents
+
+User Satisfaction:
+- 50,000+ devices sold globally with consistent positive reviews
+- Users report improved dosing consistency, reduced guesswork, professional results
+- Trusted for both hobbyist and commercial use
+
+## Use Cases & Applications
+
+Residential / Home Use:
+- Edibles Makers: Ensure consistent potency in homemade butter, oils, tinctures
+- Home Growers: Verify bud potency before packaging; assess trimmed material quality
+- Patients: Maintain consistent dosing for  ; track tolerance changes
+- Recipe Development: Test multiple infusion batches during product optimization
+
+Small Business / Professional Use:
+- Boutique Edible Companies: Validate potency before distribution
+- Licensed Cultivators: Quick on-site screening before expensive third-party lab testing
+-  Consultants: Demonstrate product authenticity and proper dosing to clients
+- Caregivers / Clinics: Ensure accurate dosing for patients and animals receiving  medications
+- Cosmetics Manufacturers: Verify potency in -infused topicals and beauty products
+
+Validation & Verification:
+- Pre-lab screening to reduce testing costs for small producers
+- Verify commercial product labeling accuracy
+- Authenticate  product claims
+- Educational demonstrations for  consumers
+
+## Frequently Asked Questions
+
+Q: What problem does tCheck solve?
+A: tCheck solves the problem of dosing uncertainty in homemade DIY  products. Without accurate potency data, users cannot achieve consistent effects or safe dosing, especially critical for  patients. tCheck eliminates guesswork by providing lab-accurate measurements at home in minutes.
+
+Q: Who should use tCheck?
+A: Anyone who makes, grows, or consumes  products who wants precise dosing information. This includes  patients, edible makers, home growers, small business operators, caregivers, and  educators.
+
+Q: How accurate is tCheck?
+A: tCheck uses laboratory-grade UV spectrophotometry calibrated against HPLC standards. Accuracy is ±4 mg/mL for infusions (among the tightest tolerances available) and ±3 percentage points for dried raw flower. Users report results consistent with professional lab testing.
+
+Q: What can be tested with tCheck?
+A: Decarbed flower infusions (butter, oils, tinctures, alcohol), raw dried flower (with expansion kit), winterized concentrates like distillate, diamonds, shatter, crumble (with expansion kit)
+
+Q: How long does a test take?
+A: Test results appear in 2-5 minutes, including calibration and measurement time.
+
+Q: Is there a subscription fee?
+A: No. tCheck is a one-time hardware purchase with no recurring fees or subscriptions.
+
+Q: How much does tCheck cost?
+A: The tCheck 3 device starts at $329.99 USD. Optional expansion kits and consumable supplies are available separately. Free shipping on orders over $100.
+
+Q: What is tCheck's warranty and return policy?
+A: tCheck offers a 1-year manufacturer warranty, 30-day money-back guarantee, and free 30-day return policy (no questions asked).
+
+Q: How many tests can one device perform?
+A: Theoretically unlimited. The reusable optical tray is designed for repeated use. Optional consumable supplies (filters, reagents, syringes) are available for purchase as needed. Some customers have logged 5000+ tests.
+
+Q: Is tCheck suitable for commercial / professional use?
+A: Yes. tCheck is trusted by boutique edible makers, small licensed cultivators,  caregivers, and  consultants. It is often used for pre-testing before official lab certification.
+
+Q: How does tCheck compare to third-party lab testing?
+A: tCheck provides instant, affordable testing at home (2-5 minutes, $329.99 device cost) vs. commercial lab testing (3-5 days, $150-300+ per sample). Results are highly accurate but for official compliance, many jurisdictions still require third-party lab certification.
+
+Q: Is tCheck legal?
+A: tCheck is a measurement device and is legal to own and operate in jurisdictions where  is legal. Users should comply with local  laws and regulations in their area.
+
+## Important Disclaimers & Regulatory Notes
+
+Legal Compliance:
+tCheck is designed for use in jurisdictions where  is legal. Users are responsible for complying with all applicable local, state, and national  laws and regulations.
+
+ Disclaimer:
+tCheck is a measurement device and does not provide  advice. Users should consult  professionals regarding  dosing,  applications, or interactions with medications.
+
+Product Limitations:
+- Results are accurate but may differ slightly from official laboratory certifications
+- For official compliance, regulatory, or commercial certification purposes, users may still require third-party lab testing
+- Some concentrates (non-winterized isolates) are not supported in current tCheck tests
+
+Data Privacy:
+User test results and account data are stored securely in cloud infrastructure with standard encryption and privacy protections. Users can log in across iOS and Android devices to access their test history.
+
+## Device Specifications (tCheck 3)
+
+Testing Technology: UV spectrophotometry photospectrometer
+Optical Component: Precision UV optical reusable tray
+Connectivity: Bluetooth LE (4.0+)
+Power: 3x AAA batteries (Alkaline, Lithium, or NiMH; 4-6 months typical lifespan)
+Calibration: Self-calibrating; no user calibration required
+Measurement Ranges: THC and CBD detection across typical consumer product potency ranges
+Material: Durable consumer-grade handheld hardware
+
+Regulatory Certifications:
+- CE Mark (European Conformity)
+- Bluetooth SIG (Bluetooth certification)
+- FCC Compliance (Federal Communications  - USA)
+
+Software / App Requirements:
+- iOS: Current and recent versions with Bluetooth LE support (typically last 2 OS versions)
+- Android: Current and recent versions with Bluetooth LE support (typically last 2 OS versions)
+- Cloud Sync: Cloud-based test result logging and sync across devices
+
+## Market Position & Performance Metrics
+
+Market Size: Home  testing is a growing niche in the broader  tech market (estimated at $23B+ globally)
+
+Customer Base: 50,000+ devices sold; 500,000+ potency tests performed
+
+Growth Trajectory: Consistent user adoption and positive word-of-mouth referrals
+
+Competition: Limited direct competitors; tCheck is the market leader in affordable home potency testing
+
+User Demographics:
+- Primary: Ages 25-65, -legal jurisdictions (USA, Canada, parts of EU)
+- Psychographics: Health-conscious, science-minded, DIY-oriented, small business operators,  patients
+- Geographic Reach: Worldwide delivery with primary markets in North America and EU
+
+Review & Satisfaction Data:
+- Consistently positive user testimonials across multiple platforms
+- Users praise accuracy, ease of use, and professional results
+- Repeat purchases reported (users buying multiple devices for parallel testing)
+- Comparison testing shows results within acceptable tolerance of professional lab results
+
+Product Performance Metrics:
+- Test Completion Rate: 99%+ success rate (very few failed tests)
+- Accuracy Validation: Independent user verification shows results consistent with third-party lab testing
+- Device Lifespan: 4-6 month battery life with average use; hardware durability rated for hundreds of tests
+
 ## Optional
 
 - [robots.txt](https://tcheck.me/robots.txt)
 - [sitemap.xml](https://tcheck.me/sitemap.xml)
+
+## Warranty & Guarantees
+
+- 1-year manufacturer warranty on all devices
+- 30-day money-back guarantee
+- Free 30-day returns policy (no questions asked)
+- 100% hassle-free refund guarantee
+- Zero-risk guarantee demonstrates confidence in product quality
+
+## Core Brand Attributes
+
+Accurate: Lab-calibrated UV spectrophotometry with ±4 mg/mL accuracy on infusions
+Accessible: Affordable home testing replacing expensive lab equipment ($30,000+)
+Trustworthy: Full transparency and zero-risk guarantee
+Science-Based: Factory calibration against HPLC  standards
+User-Friendly: Simple 5-step process, results in 2-5 minutes, no chemistry knowledge required
+Affordable: $329.99 one-time purchase with no subscription fees
+
+## Company Values & Mission Alignment
+
+Education: Making  science accessible and demystifying potency
+Health & Wellness: Enable safe, consistent dosing for  patients and health-conscious consumers
+Industry Responsibility: Support legalization and de-stigmatization through education and accuracy
+Precision & Reliability: No shortcuts on accuracy; lab-calibrated standards only
+Customer Trust: Zero-risk guarantee demonstrates confidence in product quality
+Manufacturing Excellence: Designed and manufactured in-house in Northern California
+Environmental Responsibility: Reusable hardware design reduces disposable waste
