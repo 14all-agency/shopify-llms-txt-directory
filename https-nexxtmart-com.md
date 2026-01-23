@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-01-12T00:00:24.310Z
+- Updated At: 2026-01-23T00:00:35.380Z
 
 ## Products
 
@@ -1771,7 +1771,7 @@
 
 - [Contact Us | Get in Touch with Nexxtmart Customer Support](https://nexxtmart.com/pages/contact): 
   Updated: 2025-02-10T15:36:36Z
-- [Your privacy choices](https://nexxtmart.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://nexxtmart.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-07-01T00:22:54Z
 - [About NexxtMart: Authentic Nigerian Food & Grocery Delivery in the USA](https://nexxtmart.com/pages/about-us): 
   Updated: 2025-01-17T03:11:20Z
