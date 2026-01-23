@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-05T15:01:33Z
 - Contact Email: ashok@astconsulting.in
-- Updated At: 2026-01-16T00:00:38.291Z
+- Updated At: 2026-01-23T00:00:42.702Z
 
 ## Products
 
@@ -317,7 +317,7 @@ In today's competitive market, finding the perfect Trunks can be overwhelming. A
 
 - [Contact](https://ast-test-store.myshopify.com/pages/contact)
   Updated: 2025-03-05T15:01:35Z
-- [Your privacy choices](https://ast-test-store.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://ast-test-store.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-07-01T05:16:51Z
 
 ## Policies
