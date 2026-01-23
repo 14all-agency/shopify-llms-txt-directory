@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-09-28T13:22:36Z
 - Contact Email: eywebinfo@gmail.com
-- Updated At: 2026-01-15T14:31:13.408Z
+- Updated At: 2026-01-23T00:00:28.547Z
 
 ## Products
 
 - [Gift Card](https://test-2-dev-storre.myshopify.com/products/gift-card): This is a gift card for the store
-  Updated: 2025-09-29T01:26:37Z
+  Updated: 2026-01-15T22:51:42Z
   Vendor: Snowboard Vendor
   Product Type: giftcard
   Availability: Available
@@ -29,28 +29,28 @@
     Availability: Available
     Price: $100.00 USD
 - [The Inventory Not Tracked Snowboard](https://test-2-dev-storre.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2025-09-29T01:43:16Z
+  Updated: 2026-01-15T22:51:42Z
   Vendor: test 2 dev storre
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/snowboard_purple_hydrogen.png?v=1759065803
   Price: $949.95 USD
 - [The Collection Snowboard: Hydrogen](https://test-2-dev-storre.myshopify.com/products/the-collection-snowboard-hydrogen)
-  Updated: 2025-09-29T01:23:31Z
+  Updated: 2026-01-15T22:51:42Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1759065802
   Price: $600.00 USD
 - [The Videographer Snowboard](https://test-2-dev-storre.myshopify.com/products/the-videographer-snowboard)
-  Updated: 2025-09-29T01:23:45Z
+  Updated: 2026-01-15T22:51:43Z
   Vendor: test 2 dev storre
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main.jpg?v=1759065802
   Price: $885.95 USD
 - [ Plans Ski Wax](https://test-2-dev-storre.myshopify.com/products/-plans-ski-wax)
-  Updated: 2025-09-29T01:23:33Z
+  Updated: 2026-01-15T22:51:43Z
   Vendor: test 2 dev storre
   Product Type: accessories
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1759065802
   Price: $749.95 USD
 - [Complete Snowboard](https://test-2-dev-storre.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2025-09-29T01:43:10Z
+  Updated: 2026-01-15T22:51:43Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
@@ -102,42 +102,42 @@
     Availability: Available
     Price: $699.95 USD
 - [The Compare at Price Snowboard](https://test-2-dev-storre.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2025-09-29T01:23:37Z
+  Updated: 2026-01-15T22:51:43Z
   Vendor: test 2 dev storre
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/snowboard_sky.png?v=1759065803
   Price: $785.95 USD
 - [The Collection Snowboard: Oxygen](https://test-2-dev-storre.myshopify.com/products/the-collection-snowboard-oxygen)
-  Updated: 2025-09-29T01:23:42Z
+  Updated: 2026-01-15T22:51:43Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1759065802
   Price: $1,025.00 USD
 - [The Multi-location Snowboard](https://test-2-dev-storre.myshopify.com/products/the-multi-location-snowboard)
-  Updated: 2025-09-29T01:23:29Z
+  Updated: 2026-01-15T22:51:44Z
   Vendor: test 2 dev storre
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1759065803
   Price: $729.95 USD
 - [The Collection Snowboard: Liquid](https://test-2-dev-storre.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2025-09-29T01:23:30Z
+  Updated: 2026-01-15T22:51:44Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1759065803
   Price: $749.95 USD
 - [The 3p Fulfilled Snowboard](https://test-2-dev-storre.myshopify.com/products/the-3p-fulfilled-snowboard)
-  Updated: 2025-09-29T01:23:29Z
+  Updated: 2026-01-15T22:51:44Z
   Vendor: test 2 dev storre
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2747/9502/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1759065803
   Price: $2,629.95 USD
 - [The Multi-managed Snowboard](https://test-2-dev-storre.myshopify.com/products/the-multi-managed-snowboard)
-  Updated: 2025-09-29T01:23:31Z
+  Updated: 2026-01-15T22:51:44Z
   Vendor: Multi-managed Vendor
   Product Type: snowboard
   Availability: Available
@@ -147,13 +147,13 @@
 ## Collections
 
 - [Home page](https://test-2-dev-storre.myshopify.com/collections/frontpage)
-  Updated: 2025-09-28T13:22:47Z
+  Updated: 2026-01-15T22:51:42Z
   Total Products: 0
 - [Automated Collection](https://test-2-dev-storre.myshopify.com/collections/automated-collection)
-  Updated: 2025-09-28T13:23:52Z
+  Updated: 2026-01-15T22:51:42Z
   Total Products: 8
 - [Hydrogen](https://test-2-dev-storre.myshopify.com/collections/hydrogen)
-  Updated: 2025-09-28T13:23:24Z
+  Updated: 2026-01-15T22:51:42Z
   Total Products: 3
 
 ## Blogs
@@ -353,7 +353,7 @@
 
 - [Contact](https://test-2-dev-storre.myshopify.com/pages/contact)
   Updated: 2025-09-28T13:22:39Z
-- [Your privacy choices](https://test-2-dev-storre.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://test-2-dev-storre.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-28T13:22:47Z
 
 ## Policies
