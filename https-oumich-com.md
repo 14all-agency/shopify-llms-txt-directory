@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2026-01-17T00:00:34.409Z
+- Updated At: 2026-01-24T00:00:35.995Z
 
 ## Products
 
@@ -467,6 +467,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-11-23T20:44:28Z
 - [Contactgegevens](https://oumich.com/pages/contactgegevens)
   Updated: 2025-12-11T21:44:17Z
+- [Waarom byOumich?](https://oumich.com/pages/waarom-byoumich): Wij doen één ding. En dat doen we goed. Bij byOumich vind je geen eindeloze collecties, geen seizoensdruk, geen influencer-hype. Wel: zorgvuldig ge...
+  Updated: 2026-01-21T15:16:44Z
 
 ## Policies
 
