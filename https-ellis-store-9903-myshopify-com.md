@@ -6,277 +6,21 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-31T06:39:26Z
 - Contact Email: ellis82877@gmail.com
-- Updated At: 2026-01-16T23:10:39.721Z
+- Updated At: 2026-01-24T00:00:28.254Z
 
 Ellis Store specializes in premium pet supplies for dogs and cats, including high-quality collars, toys, beds, and bowls. We focus on durable, stylish products with fast shipping from US-based suppliers to ensure the best experience for pet owners and their furry companions.
 
 ## Products
 
-- [Dog Autumnwinter Coat With A Leash](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash): Product information:Colors: White and blue, white and pink, white and brownSizes: XS, S, M, L, XLMaterial: PolyesterCategory: Pet ClothingPacking list: Pet clothes *1 Product Image:
-  Updated: 2026-01-10T13:48:50Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/079d7ac4-19ed-4a20-a9a8-078502c54e43.jpg?v=1767640329
-  - [White And Blue / XS](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116058272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/079d7ac4-19ed-4a20-a9a8-078502c54e43.jpg?v=1767640329
-    Price: $26.99 USD
-  - [White And Blue / S](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116091040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/079d7ac4-19ed-4a20-a9a8-078502c54e43.jpg?v=1767640329
-    Price: $24.99 USD
-  - [White And Blue / M](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116123808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/079d7ac4-19ed-4a20-a9a8-078502c54e43.jpg?v=1767640329
-    Price: $25.99 USD
-  - [White And Blue / L](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116156576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/079d7ac4-19ed-4a20-a9a8-078502c54e43.jpg?v=1767640329
-    Price: $26.99 USD
-  - [White And Blue / XL](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116189344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/079d7ac4-19ed-4a20-a9a8-078502c54e43.jpg?v=1767640329
-    Price: $26.99 USD
-  - [White Powder / XS](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116222112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/78e694d7-482c-4efd-b141-22d08c923083.jpg?v=1767640329
-    Price: $24.99 USD
-  - [White Powder / S](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116254880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/78e694d7-482c-4efd-b141-22d08c923083.jpg?v=1767640329
-    Price: $24.99 USD
-  - [White Powder / M](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116287648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/78e694d7-482c-4efd-b141-22d08c923083.jpg?v=1767640329
-    Price: $25.99 USD
-  - [White Powder / L](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116320416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/78e694d7-482c-4efd-b141-22d08c923083.jpg?v=1767640329
-    Price: $26.99 USD
-  - [White Powder / XL](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116353184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/78e694d7-482c-4efd-b141-22d08c923083.jpg?v=1767640329
-    Price: $26.99 USD
-  - [White Coffee / XS](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116385952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3c21a72d-7a15-4488-87de-a149ec52a7d7.jpg?v=1767640329
-    Price: $24.99 USD
-  - [White Coffee / S](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116418720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3c21a72d-7a15-4488-87de-a149ec52a7d7.jpg?v=1767640329
-    Price: $24.99 USD
-  - [White Coffee / M](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116451488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3c21a72d-7a15-4488-87de-a149ec52a7d7.jpg?v=1767640329
-    Price: $25.99 USD
-  - [White Coffee / L](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116484256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3c21a72d-7a15-4488-87de-a149ec52a7d7.jpg?v=1767640329
-    Price: $26.99 USD
-  - [White Coffee / XL](https://ellis-store-9903.myshopify.com/products/dog-autumnwinter-coat-with-a-leash?variant=53148116517024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3c21a72d-7a15-4488-87de-a149ec52a7d7.jpg?v=1767640329
-    Price: $26.99 USD
-- [Pet Ear Drops](https://ellis-store-9903.myshopify.com/products/pet-ear-drops): Product information:Ingredients: water, glycerin, sodium chloride, menthol, borneol, disodium EDTA, coconut oil, calendula extract, witch hazel extract, chamomile extract.Packing list:Pet Ear Drops *1
-  Updated: 2026-01-10T13:47:01Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/4030cd80-b0b8-4389-ac8b-04b8a75e162c.jpg?v=1767640335
-  Price: $19.99 USD
-- [Portable, Foldable EVA Handbag For Pets - Dog And Cat - For Easy Carrying When Going Out.](https://ellis-store-9903.myshopify.com/products/portable-foldable-eva-handbag-for-pets-dog-and-cat-for-easy-carrying-when-going-out): Overview:Portable, foldable EVA handbag for pets - dog and cat - for easy carrying when going out.size：45-35-32CMtexture：EVA
-  Updated: 2026-01-10T15:12:40Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0fb3e073-609c-4b5c-962c-3cf2f913d3f2.jpg?v=1767640564
-  - [Pink](https://ellis-store-9903.myshopify.com/products/portable-foldable-eva-handbag-for-pets-dog-and-cat-for-easy-carrying-when-going-out?variant=53148122054816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0fb3e073-609c-4b5c-962c-3cf2f913d3f2.jpg?v=1767640564
-    Price: $36.99 USD
-  - [Gray](https://ellis-store-9903.myshopify.com/products/portable-foldable-eva-handbag-for-pets-dog-and-cat-for-easy-carrying-when-going-out?variant=53148122087584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/f45cf0ec-6b1c-42b9-a634-788d8ff793b8.jpg?v=1767640564
-    Price: $36.99 USD
-  - [Champagne](https://ellis-store-9903.myshopify.com/products/portable-foldable-eva-handbag-for-pets-dog-and-cat-for-easy-carrying-when-going-out?variant=53148122120352)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/76cbc685-4822-41f6-9db4-f2f300d9ba45.jpg?v=1767640564
-    Price: $36.99 USD
-- [New Autumn-winter Pet Bed - Cute, Soft, Comfortable, Detachable, Thick And Warm Plush Cushion Products For Pets](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets): Overview：New autumn-winter pet bed - cute, soft, comfortable, detachable, thick and warm plush cushion products for petssize：Size S: 50 - 35 - 12CM。M size: 60 - 45 - 13CM。Lsize：70-55-15CMNote:Before purchasing this item, please make sure to carefully check the size. If you are unsure about how to choose the size, please contact our customer service.package content;One set of pet mats。
-  Updated: 2026-01-10T15:11:53Z
-  Vendor: Dropshipman
-  Product Type: Pet Beds
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-  - [White / Size S](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148132835488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [White / Middle size](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148132868256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [White / L code](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148132901024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [Burnt sugar coloring / Size S](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148132933792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [Burnt sugar coloring / Middle size](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148132966560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [Burnt sugar coloring / L code](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148132999328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [Wathet / Size S](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148133032096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [Wathet / Middle size](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148133064864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-  - [Wathet / L code](https://ellis-store-9903.myshopify.com/products/new-autumn-winter-pet-bed-cute-soft-comfortable-detachable-thick-and-warm-plush-cushion-products-for-pets?variant=53148133097632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0796e9b1-57a3-4d6b-82d3-ea19e23699ce.jpg?v=1767641068
-    Price: $69.99 USD
-- [Cat Deterrent Spray](https://ellis-store-9903.myshopify.com/products/cat-deterrent-spray): Product information:Ingredients: water, glycerin, 1,2- hexanediol, MENTHA ARVENSIS extract, ACTINIDIA POLYGAMA fruit extract.Packing list:Cat scratch spray *1
-  Updated: 2026-01-10T15:10:42Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/5fb78e8a-891c-41a2-b39c-a48877cb5a52.jpg?v=1767641260
-  Price: $24.99 USD
-- [Dog Ear Cleaner](https://ellis-store-9903.myshopify.com/products/dog-ear-cleaner): Product information:Ingredients: water, glycerin, 1,2- hexanediol, betaine salicylate, disodium EDTA, olive oil, grapefruit extract, fennel extract, bioflavonoids.Packing list:Pet cleaning ear drops *1
-  Updated: 2026-01-10T15:09:54Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/7d3484f3-0a84-4ba4-ab66-37fb401ef8f8.jpg?v=1767641392
-  Price: $19.99 USD
-- [Newly Designed Pet-specific Banana-shaped Nail Clippers - The Ultimate Nail Shears For Pets](https://ellis-store-9903.myshopify.com/products/newly-designed-pet-specific-banana-shaped-nail-clippers-the-ultimate-nail-shears-for-pets): Overview:Newly designed pet-specific banana-shaped nail clippers - the ultimate nail shears for pets
-  Updated: 2026-01-10T15:15:47Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/c31ddc1d-e829-4f31-8786-e584aa91a4ad.png?v=1767641646
-  - [Yellow](https://ellis-store-9903.myshopify.com/products/newly-designed-pet-specific-banana-shaped-nail-clippers-the-ultimate-nail-shears-for-pets?variant=53148137980064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/c31ddc1d-e829-4f31-8786-e584aa91a4ad.png?v=1767641646
-    Price: $29.99 USD
-  - [Green](https://ellis-store-9903.myshopify.com/products/newly-designed-pet-specific-banana-shaped-nail-clippers-the-ultimate-nail-shears-for-pets?variant=53148138012832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/72ccd6b7-eef9-42eb-a3a0-11479cb9660f.png?v=1767641646
-    Price: $29.99 USD
-  - [Purple](https://ellis-store-9903.myshopify.com/products/newly-designed-pet-specific-banana-shaped-nail-clippers-the-ultimate-nail-shears-for-pets?variant=53148138045600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/c6a4785b-efff-4ba9-bf64-e5759deeed9c.png?v=1767641646
-    Price: $29.99 USD
-- [Paw Balm](https://ellis-store-9903.myshopify.com/products/paw-balm): Product information:Ingredients: water, mineral oil, glycerol, glycerol stearate, 1,2- hexanediol, carbomer, arginine, panthenol. Packing list: Paw Balm*1 Product Image:
-  Updated: 2026-01-10T15:08:24Z
-  Vendor: Dropshipman
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/b1a69c82-3ccb-4fd7-8479-699108267442.jpg?v=1767641812
-  Price: $17.99 USD
-- [Waterproof Pet CollarEllisabethan Collar For Cats And Dogs](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs): Product information:Pattern: Color-blockColors: Avocado, Papaya, BlueberrySizes: S, M, L, XL, 2XLMaterial: PolyesterSuitable for: UniversalApplicable Occasions: Other holidaysSuitable Season: All seasonsStyle: Instagram-inspiredSize: Packing list: Collar x1pc Product Image:
-  Updated: 2026-01-10T03:06:26Z
-  Vendor: Dropshipman
-  Product Type: pets collar
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/48d12a05-7e6f-4ec3-8123-96df07d90b52.jpg?v=1767642295
-  - [Avocado / S](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144042144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/48d12a05-7e6f-4ec3-8123-96df07d90b52.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Avocado / M](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144074912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/48d12a05-7e6f-4ec3-8123-96df07d90b52.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Avocado / L](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144107680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/48d12a05-7e6f-4ec3-8123-96df07d90b52.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Avocado / XL](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144140448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/48d12a05-7e6f-4ec3-8123-96df07d90b52.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Avocado / 2XL](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144173216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/48d12a05-7e6f-4ec3-8123-96df07d90b52.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Papaya Color / S](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144205984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0b1428f5-447b-4714-8b9e-59ed8f380296.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Papaya Color / M](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144238752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0b1428f5-447b-4714-8b9e-59ed8f380296.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Papaya Color / L](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144271520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0b1428f5-447b-4714-8b9e-59ed8f380296.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Papaya Color / XL](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144304288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0b1428f5-447b-4714-8b9e-59ed8f380296.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Papaya Color / 2XL](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144337056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0b1428f5-447b-4714-8b9e-59ed8f380296.jpg?v=1767642295
-    Price: $21.99 USD
-  - [Blueberry / S](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144369824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/34d230c9-a1a0-47d0-b377-a93a718a8f6b.jpg?v=1767642296
-    Price: $21.99 USD
-  - [Blueberry / M](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144402592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/34d230c9-a1a0-47d0-b377-a93a718a8f6b.jpg?v=1767642296
-    Price: $21.99 USD
-  - [Blueberry / L](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144435360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/34d230c9-a1a0-47d0-b377-a93a718a8f6b.jpg?v=1767642296
-    Price: $21.99 USD
-  - [Blueberry / XL](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144468128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/34d230c9-a1a0-47d0-b377-a93a718a8f6b.jpg?v=1767642296
-    Price: $21.99 USD
-  - [Blueberry / 2XL](https://ellis-store-9903.myshopify.com/products/waterproof-pet-collarellisabethan-collar-for-cats-and-dogs?variant=53148144500896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/34d230c9-a1a0-47d0-b377-a93a718a8f6b.jpg?v=1767642296
-    Price: $21.99 USD
-- [New Automatic Pet Bowl With No Wet Mouth And Splash-proof Design](https://ellis-store-9903.myshopify.com/products/new-automatic-pet-bowl-with-no-wet-mouth-and-splash-proof-design): Overview：New automatic pet bowl with no wet mouth and splash-proof designPallet packing dimensions：49*42*47.5cmSize of the water bottle packaging box：43*20*35.5cm
-  Updated: 2026-01-10T15:05:47Z
-  Vendor: Dropshipman
-  Product Type: pet's bowl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8a227663-cf9d-423c-9e18-6c3eb4d3e312.jpg?v=1767642631
-  - [Redness](https://ellis-store-9903.myshopify.com/products/new-automatic-pet-bowl-with-no-wet-mouth-and-splash-proof-design?variant=53148151087264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8a227663-cf9d-423c-9e18-6c3eb4d3e312.jpg?v=1767642631
-    Price: $39.99 USD
-  - [Gray](https://ellis-store-9903.myshopify.com/products/new-automatic-pet-bowl-with-no-wet-mouth-and-splash-proof-design?variant=53148151120032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/177866de-331c-4d72-901a-595e4d463c91.jpg?v=1767642631
-    Price: $39.99 USD
-  - [Blove](https://ellis-store-9903.myshopify.com/products/new-automatic-pet-bowl-with-no-wet-mouth-and-splash-proof-design?variant=53148151152800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/4f652216-1d19-4de7-b902-412b117598d0.jpg?v=1767642631
-    Price: $39.99 USD
 - [Uha Stainless Steel Automatic Pet Water Dispenser](https://ellis-store-9903.myshopify.com/products/uha-stainless-steel-automatic-pet-water-dispenser): Material:High-quality stainless steelProduct Information: Color: Smart stainless steel design with a matching water dispenser filter element. Specifications: Automatic and intelligent water dispensing system designed for pets. Applicable Pets: Suitable for both dogs and cats. Features: Durability: Constructed with sturdy stainless steel for long-lasting use. Efficient Filtration: Includes a filter element and gravitational ball filter cotton for cleaner water. Convenience: Easy-to-use automatic water dispenser with a smart design that promotes hydration. What’s Included: 1 x Smart Stainless Steel Water Dispenser (Host) 1 x Stainless Steel Drinking Tray 1 x Stainless Steel Water Tank 1 x Filter Element 1 x Gravitational Ball Filter Cotton 1 x Charging Cable Category: Drinking Water Dispenser for PetsImport Status: Not importedPerfect for keeping your pets hydrated with clean, fresh water throughout the day!
-  Updated: 2026-01-11T01:24:56Z
+  Updated: 2026-01-19T20:49:12Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8rhE63X8MCCxOGrY.webp?v=1767644465
   Price: $195.54 USD
 - [Cat Smart Dog Automatic Pet Feeder](https://ellis-store-9903.myshopify.com/products/cat-smart-dog-automatic-pet-feeder): Ensure your pets are always well-fed with the Cat & Dog Smart Automatic Pet Feeder. This sleek, electronic feeder comes in both white and black options with transparent buttons or WIFI connectivity for added convenience. It is ideal for both cats and dogs, providing a reliable feeding solution.The feeder is available in a 4L capacity and can be powered via a USB interface or with various adapter options, including national, EU, Japanese, British, Australian, South Korean, and American standards.Perfect for busy pet owners, this automatic feeder makes feeding easy and stress-free. Material: Durable Plastic Color Options: White Transparent Button, Black Transparent Button, White Transparent WIFI, Black Transparent WIFI Capacity: 4L Applicable for: Dogs & Cats Power Options: USB interface, multiple adapter types (National, EU, UK, US, AU, JP, KR) Packing List: 1 Automatic Pet Feeder 1 USB data cable 1 instruction manual 1 desiccant 1 stainless steel food tray
-  Updated: 2026-01-10T15:04:20Z
+  Updated: 2026-01-19T20:49:12Z
   Vendor: zendrop
   Product Type: Pet Bowls
   Availability: Available
@@ -410,7 +154,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/rXbOFdKvHsKrRhwB.webp?v=1767644555
     Price: $193.17 USD
 - [Plush Pet Bed](https://ellis-store-9903.myshopify.com/products/plush-pet-bed): Give your furry friend the ultimate comfort with the Plush Pet Bed. Designed for cats and small to medium dogs, this pet bed offers a perfect blend of style, warmth, and functionality.Key Features: Thick Backrest: Provides plush support for added comfort, ensuring your pet feels secure and relaxed. Anti-Slip Base: Equipped with anti-slip pellets to keep the bed in place, preventing accidental slips and ensuring moisture resistance. Included Pillow: Comes with a soft pillow to enhance your pet’s sleeping experience, making every nap more restful. Product Information: Colors: Mousse Coffee, Lemon Yellow, Cherry Blossom Pink, Moonlight Beige Sizes: M (with pillow) L (with pillow) Material: High-quality fabric for durability and coziness. Suitable For: Cats and small to medium-sized dogs. Category: Pet Bed / Cage Accessory Packing List:1 x Pet Cat SofaTreat your pet to a cozy retreat with the Plush Pet Bed—where comfort meets luxury!
-  Updated: 2026-01-10T03:02:46Z
+  Updated: 2026-01-19T20:49:12Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -480,8 +224,8 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/EWUcfGJ9PVRY3Epd.webp?v=1767644535
     Price: $95.72 USD
 - [Bedsure Cute Cat Sofa - Soft Corduroy Fleece Pet Bed](https://ellis-store-9903.myshopify.com/products/bedsure-cute-cat-sofa-soft-corduroy-fleece-pet-bed): Pamper your pet with the Bedsure Cute Cat Couch, designed for ultimate comfort and support. This cozy and luxurious pet sofa is perfect for dogs and cats of all sizes, offering a warm, secure, and restful spot for your furry friend.Key Features: Superior Support: The three-sided design provides optimal head and neck support, making it ideal for pets who love to rest their heads on a pillow. The high backrest is especially beneficial for pets with higher pillow needs, offering extra comfort for various breeds. Balanced Comfort: Featuring a perfect 2:1 mix of chopped foam and polyester fiber filling, this couch strikes a balance between softness and support, ensuring your pet enjoys deep, restful naps. Cozy Warmth: Made with ultra-soft faux rabbit fur, this bed is warm and snug, perfect for autumn and winter. Its plush feel will make your pet feel like they’re wrapped in a luxurious blanket. Non-Slip Safety: Equipped with an anti-slip bottom, this pet couch stays in place, preventing unwanted movement and ensuring your pet's safety while resting. Versatile Sizes: Available in small, medium, and large to suit pets of all sizes. Size Options: Small: 61 x 45 x 25 cm | Weight: 1700g Medium: 76 x 51 x 25 cm | Weight: 2000g Large: 91 x 69 x 25 cm | Weight: 2300g Perfect for All Seasons: Whether it's chilly autumn or winter, your pet will love the warmth and comfort of this luxurious pet couch, ensuring they always have the perfect spot to rest.Give your pet the comfort they deserve with this stylish and cozy couch that provides both support and relaxation.
-  Updated: 2026-01-10T15:01:48Z
-  Vendor: Ellis store
+  Updated: 2026-01-19T20:49:12Z
+  Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/b2qYnNWBiHaaPofN.webp?v=1767644495
@@ -546,7 +290,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/qsh1xV8U4YV5pEd2.webp?v=1767644590
     Price: $202.69 USD
 - [CozyNest Large Winter Cat Sofa Bed](https://ellis-store-9903.myshopify.com/products/cozynest-large-winter-cat-sofa-bed): The CozyNest Large Winter Cat Sofa Bed is designed to offer your feline friend ultimate comfort and warmth during the colder months. This fully enclosed, insulated cat bed ensures your cat stays snug and secure, with its soft, plush interior that provides a cozy, safe haven. The bed is crafted with a warm and cold-proof fabric that helps maintain an ideal temperature, shielding your pet from chilly drafts while also allowing airflow to prevent overheating. The spacious large size is perfect for cats of all sizes, offering plenty of room to curl up and relax. Its stylish sofa-like design fits seamlessly into your home decor, offering both functionality and aesthetic appeal. Whether it’s winter or simply a cool day, the CozyNest Winter Cat Sofa Bed ensures your pet always has a warm and cozy retreat.
-  Updated: 2026-01-10T15:01:05Z
+  Updated: 2026-01-19T20:49:13Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -564,7 +308,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3dZ6G4uyuzYrVK9g.webp?v=1767644552
     Price: $63.22 USD
 - [Warm And Cozy Cat Bed](https://ellis-store-9903.myshopify.com/products/warm-and-cozy-cat-bed): Detailed Product DescriptionGive your feline friend the ultimate lounging experience with the Warm and Cozy Cat Bed. Designed with your cat’s comfort in mind, this bed offers a soft and inviting space for your pet to rest, nap, and relax. Its plush, insulated design provides a warm retreat, making it perfect for cooler days or cats that love to snuggle. With a modern and stylish look, it seamlessly blends into any home decor.Key Features: Supreme Comfort: Made with ultra-soft, high-quality materials that provide a cozy and luxurious surface for your cat to rest. Thermal Insulation: Retains your cat's body heat, ensuring a warm and snug environment even during colder months. Supportive Design: Features a padded base and cushioned sides for added support and security, perfect for curling up. Durable & Scratch-Resistant: Crafted from long-lasting, pet-friendly fabric that stands up to everyday use and gentle kneading. Non-Slip Base: Equipped with a non-skid bottom to keep the bed securely in place, even on smooth surfaces. Why You’ll Love It: Provides a dedicated space for your cat to relax, keeping them off furniture. Lightweight and portable, so your pet can enjoy comfort anywhere in the house. Easy to clean and maintain, ensuring a hygienic space for your furry companion. Stylish design available in various colors to suit your home’s decor. Available Sizes: Small (for kittens and petite cats) Medium (for average-sized cats) Large (for bigger breeds or multi-cat households) Care Instructions: Machine washable on a gentle cycle for easy cleaning. Air dry or tumble dry on low heat to maintain the plush texture. Make your cat’s comfort a priority with the Warm and Cozy Cat Bed—a perfect blend of warmth, softness, and style that your feline friend will adore!
-  Updated: 2026-01-10T14:59:48Z
+  Updated: 2026-01-19T20:49:13Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -638,7 +382,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/AhCsuj463fhKSTR7.webp?v=1767644688
     Price: $46.66 USD
 - [Cat Water Fountain](https://ellis-store-9903.myshopify.com/products/cat-water-fountain): This automatic cat water dispenser features a circulating filtration system that keeps your cat's water fresh and clean. The constant flow of water encourages drinking, promoting better hydration for your feline friend.Color:, black plug-in standard edition [with Authentication Adapter], white plug-in standard edition [with Authentication Adapter]]Specifications: Chinese standard, American Standard, European standard, Australian standard, South Korea standard, Japanese standard, British StandardApplicable objects: dogs and catsCategory: pet water dispenserSize:
-  Updated: 2026-01-10T14:58:08Z
+  Updated: 2026-01-19T20:49:13Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -724,7 +468,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vQaNFPglrwLjG9gx.webp?v=1767644647
     Price: $73.67 USD
 - [Pet Molar Long Lasting Latex Sounding Toy](https://ellis-store-9903.myshopify.com/products/pet-molar-long-lasting-latex-sounding-toy): The Pet Molar Long Lasting Latex Sounding Toy is designed to keep your pet entertained and engaged for hours. Made from durable latex, this toy is perfect for chewing, teething, and interactive play. The built-in sound feature adds extra excitement, making it irresistible to dogs of all sizes. Its unique molar design helps promote healthy teeth and gums while satisfying your pet’s natural chewing instincts. Ideal for active pups, this toy is both fun and functional, providing a long-lasting solution for your pet's playtime.Key Features: Durable latex material for long-lasting use Built-in sound feature for extra excitement Molar design promotes healthy teeth and gums Perfect for chewing, teething, and interactive play Ideal for dogs of all sizes Non-toxic and safe for pets Easy to clean and maintain Helps prevent destructive chewing habits Great for active and playful dogs Available in multiple sizes and colors
-  Updated: 2026-01-10T14:47:44Z
+  Updated: 2026-01-19T20:49:13Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -738,7 +482,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/KezkzH6T92MH9xJH.webp?v=1767644573
     Price: $29.38 USD
 - [LED Waterproof Dog Paw Trimmer](https://ellis-store-9903.myshopify.com/products/led-waterproof-dog-paw-trimmer): Keep your furry friend looking their best with the LED Waterproof Dog Paw Trimmer. Designed for efficient and safe grooming, this innovative trimmer combines functionality with convenience, making pet care a breeze.Key Features:LED Light: The built-in LED light illuminates the grooming area, allowing for precise trimming even in low-light conditions, ensuring you don’t miss any spots.Fully Waterproof: This trimmer is fully waterproof, making it easy to clean and perfect for use in the bath or outdoors without worrying about damage.Wide Blade Design: Featuring an 18mm wide blade, it provides a faster and smoother cutting experience, efficiently tackling even the thickest fur.User-Friendly LED Display: The LED display shows battery life and speed settings, ensuring you have all the information you need at a glance.Ergonomic Design: The comfortable grip allows for extended use without strain, making grooming sessions more enjoyable for both you and your pet.Quiet Operation: Designed to operate quietly, this trimmer helps reduce stress for your pet during grooming, promoting a calm experience.Make grooming a stress-free and enjoyable process with the LED Waterproof Dog Paw Trimmer—the perfect tool for keeping your dog's paws neat and tidy!
-  Updated: 2026-01-10T14:37:12Z
+  Updated: 2026-01-19T20:49:13Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -752,7 +496,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/u67yYyBhgv7pUDtov2lX_1354d974-bb0c-4de1-b820-9045c386b7f5.webp?v=1767644616
     Price: $35.22 USD
 - [Semi-Closed Cat Bed Nest](https://ellis-store-9903.myshopify.com/products/semi-closed-cat-bed-nest): 使用这款半封闭式猫床，为您的宠物提供一个舒适的休息场所。其贝壳状结构专为全年舒适而设计，提供温暖舒适的环境，非常适合猫和小狗。半封闭式设计提供安全感，而透气材料确保四季舒适。这款多功能宠物床既时尚又实用，是冬季保暖或夏季放松的理想选择。其耐用、易于清洁的结构使其成为任何宠物主人的实用选择。
-  Updated: 2026-01-12T19:43:28Z
+  Updated: 2026-01-19T20:49:14Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -806,7 +550,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Ek0efGxk719wduhp.webp?v=1767644695
     Price: $70.42 USD
 - [CozyPaw All-Season Bed](https://ellis-store-9903.myshopify.com/products/cozypaw-all-season-bed): This versatile bed is designed with soft, cozy materials that keep pets warm in winter and cool in summer. Its round shape provides a snug, secure feel, perfect for curling up or lounging. Durable and easy to clean, it’s the ideal sleeping space for cats, dogs, or small animals, ensuring your furry friend stays happy and comfortable in any season.Material ClothProduct Attributes OrdinaryPackage Size 400*130*130(1mm); 400*150*150(1mm); 430*160*160(1mm); 430*170*170(1mm)
-  Updated: 2026-01-12T19:43:29Z
+  Updated: 2026-01-19T20:49:14Z
   Vendor: zendrop
   Product Type: pet's beds
   Availability: Available
@@ -948,7 +692,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/M7W4irusX6liFz2i.webp?v=1767644771
     Price: $69.99 USD
 - [Portable Mini Automatic Retractable Leash For Cats And Dogs](https://ellis-store-9903.myshopify.com/products/portable-mini-automatic-retractable-leash-for-cats-and-dogs): Product information:Color: white circle, blue circle, pink circleMaterial: plasticImported: noCategory: pet collars, leashes & straps Packing list: 1*Nylon Tow Rope Product Image:
-  Updated: 2026-01-10T15:27:26Z
+  Updated: 2026-01-19T20:49:14Z
   Vendor: Dropshipman
   Product Type: pets collar
   Availability: Available
@@ -978,7 +722,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/a8f8957f-a40d-469d-9aa9-c731a5d6ef6b.jpg?v=1768015424
     Price: $14.99 USD
 - [Polyester Pet Crossbody Bag With Pockets, Can Hold Up To 15 Jin](https://ellis-store-9903.myshopify.com/products/polyester-pet-crossbody-bag-with-pockets-can-hold-up-to-15-jin): Product information:Pattern: Solid colorSpecifications: Gray – with phone pocket (polyester), no logo; Black – with phone pocket (polyester), no logo; Dark Blue – with phone pocket (polyester), no logo; Apricot – with phone pocket (polyester), no logo; Coffee – with phone pocket (polyester), no logo; Pink – with phone pocket (polyester), no logo; Bright Red – with phone pocket (polyester), no logo; Army Green – with phone pocket (polyester), no logo; Yellow – with phone pocket (polyester), no logo; Khaki – with phone pocket (polyester), no logo; Orange – with phone pocket (polyester), no logo; Dark Gray – with phone pocket (polyester), no logo; Navy Blue – with phone pocket (polyester), no logoSuitable gift-giving occasions: Gatherings, partiesHardness: SoftMaterial: PolyesterSuitable recipients: PetsApplicable holidays: Christmas, Lunar New Year, New Year’s DayCategory: Pet carrierPacking list: Pet Backpack *1 Product Image:
-  Updated: 2026-01-10T15:29:41Z
+  Updated: 2026-01-19T20:49:14Z
   Vendor: Dropshipman
   Product Type: Pet Accessories
   Availability: Available
@@ -1078,7 +822,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/e3dz3qyCqVXTGr9n.webp?v=1768016486
     Price: $24.99 USD
 - [Baby Sling Carrier](https://ellis-store-9903.myshopify.com/products/baby-sling-carrier): Designed for babies aged 6 months to 3 years, this cloth baby sling carrier offers hands-free convenience and close comfort for both parent and child. With a free-size fit and a 15kg weight limit, it’s available in a variety of colors and patterns, including blue plaid, bonsai black, and monochrome blue.Package Size: 220 x 120 x 60 mm | Max Load: 15kg
-  Updated: 2026-01-12T17:35:12Z
+  Updated: 2026-01-19T20:49:14Z
   Vendor: zendrop
   Product Type: baby product
   Availability: Available
@@ -1104,7 +848,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/1v8yVkAzLA0ZUXZQ.webp?v=1768016441
     Price: $39.99 USD
 - [Double Stainless Steel Pet Bowl](https://ellis-store-9903.myshopify.com/products/double-stainless-steel-pet-bowl): This double stainless steel pet bowl features a cartoon-style ABS base and anti-overturn design. Ideal for cats and dogs, it includes a neck-guard tilt to support comfortable eating and drinking. Durable, easy to clean, and prevents spills—perfect for serving food and water at once with a stylish, pet-friendly look.
-  Updated: 2026-01-12T17:31:30Z
+  Updated: 2026-01-19T20:49:15Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1118,7 +862,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/f730c054464d947a301f43b0cfe8.png?v=1768016417
     Price: $22.99 USD
 - [Nylon Custom Dog Puppy Collar Leash Set Personalized Genuine Leather Pet Nameplate ID Tag Accessories Collars Pet Products Perro](https://ellis-store-9903.myshopify.com/products/nylon-custom-dog-puppy-collar-leash-set-personalized-genuine-leather-pet-nameplate-id-tag-accessories-collars-pet-products-perro): Pattern Type: Solidcolor: Brown/Blue/DeepBlue/Green/Black/GrayType: personalized dog collar leash set/pet collar/ Dog leashis_customize: YESApplicable breeds: small medium Large dogsFeatures: anti-lost, adjustableExtra service: Free engravingSize: S/M/LMaterial: Nylon and Genuine LeatherBrand Name: PET ARTISTType: DogsMaterial: NylonHigh-concerned chemical: NoneLifestage: All stagesCollar Type: Basic CollarsIs Smart Device: NoCN: ZhejiangFeature: PersonalizedSeason: all seasonsOrigin: Mainland Chinais_customized: YesType: CollarsChoice: yessemi_Choice: yes
-  Updated: 2026-01-13T10:46:52Z
+  Updated: 2026-01-22T21:43:34Z
   Vendor: modelyst
   Product Type: Pet Accessories
   Availability: Available
@@ -1323,26 +1067,8 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S334add53238d4babab33598270a090d0j.jpg?v=1768244291
     Price: $31.00 USD
-- [Pet Toy Cat Scratch Toy Cat Hanging Sisal Ball Built-In Bell Interactive Toy Pet Supplies Cat Toys  Pet Products](https://ellis-store-9903.myshopify.com/products/pet-toy-cat-scratch-toy-cat-hanging-sisal-ball-built-in-bell-interactive-toy-pet-supplies-cat-toys-pet-products): Brand Name: NONEHigh-concerned chemical: Nonewhether electrical: NoIs Smart Device: NoOrigin: Mainland ChinaCN: GuangdongMaterial: SisalBattery Included: NoToys Type: BallsType: cats
-  Updated: 2026-01-13T08:19:53Z
-  Vendor: modelyst
-  Product Type: Pet Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S95762f37ced54ed4bfd8976bc06335acu.jpg?v=1768244762
-  - [Green Orange Yellow](https://ellis-store-9903.myshopify.com/products/pet-toy-cat-scratch-toy-cat-hanging-sisal-ball-built-in-bell-interactive-toy-pet-supplies-cat-toys-pet-products?variant=53169145512096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S34952f80bdfe4a0193b4f7caa419390ec.jpg?v=1768244763
-    Price: $9.99 USD
-  - [Yellow Orange Blue](https://ellis-store-9903.myshopify.com/products/pet-toy-cat-scratch-toy-cat-hanging-sisal-ball-built-in-bell-interactive-toy-pet-supplies-cat-toys-pet-products?variant=53169145544864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S770961b4687d40d7a32335f3a91a99e8A.jpg?v=1768244763
-    Price: $9.99 USD
-  - [Pink Orange Green](https://ellis-store-9903.myshopify.com/products/pet-toy-cat-scratch-toy-cat-hanging-sisal-ball-built-in-bell-interactive-toy-pet-supplies-cat-toys-pet-products?variant=53169145577632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Sf15e31b254a74dfa80579e30f7e3714cp.jpg?v=1768244762
-    Price: $9.99 USD
 - [New Waterproof Big Dog Vest Jacket Winter Warm Pet Dog Clothes for Small Large Dogs Puppy Pug Coat Dogs Pets Clothing 4XL 5XL](https://ellis-store-9903.myshopify.com/products/new-waterproof-big-dog-vest-jacket-winter-warm-pet-dog-clothes-for-small-large-dogs-puppy-pug-coat-dogs-pets-clothing-4xl-5xl): Brand Name: brother cat dogMaterial: 100% CottonOrigin: Mainland ChinaCN: GuangdongHigh-concerned chemical: NoneTarget Pet: DogSeason: WinterPattern Type: SolidType: DogsColor: Green,Red,Blue,Pinkstyle: Pet Dog Clothes For Dogs,Dog Jacket For Dogssuit: Chihuahua,Yorkshire Terrier,Pug,Shih TzuStyle 1: Puppy Big Dog Coat,Dog ClothingSuit 1: Pomeranian,Golden Retriever,PitbullSale: Drop Shipping,dropping shipping ,wholesaleSize: S,M,L,XL,XXL,3XL,4XL,5XL
-  Updated: 2026-01-13T11:14:07Z
+  Updated: 2026-01-22T22:30:33Z
   Vendor: modalyst
   Product Type: Pet Accessories
   Availability: Available
@@ -1476,7 +1202,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S03f0dc06219147cbaa14ac89b05b24013.jpg?v=1768245160
     Price: $25.99 USD
 - [Pet Big Dog Raincoat Clothes for Dogs Pets Clothing Cape Raincoat Golden Retriever Large Dog Costumes Coat Jacket Corgi Cloak](https://ellis-store-9903.myshopify.com/products/pet-big-dog-raincoat-clothes-for-dogs-pets-clothing-cape-raincoat-golden-retriever-large-dog-costumes-coat-jacket-corgi-cloak): Brand Name: brother cat dogOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: A20190726-41Type: DogsPattern Type: SolidMaterial: POLYESTERColor: red,blue,green,orangesize: S,M,L,XL,2XL,3XL,4XL,5XL,6XL,7XL,8XL,9XL
-  Updated: 2026-01-13T19:23:29Z
+  Updated: 2026-01-22T22:45:48Z
   Vendor: Modalyst
   Product Type: Pet Accessories
   Availability: Available
@@ -1674,7 +1400,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Sf1b9498d26954750bb63ace4f99e6e2ct_24XrX5T.jpg?v=1768245209
     Price: $25.99 USD
 - [Sports Warm Winter Pet Dog Coat Clothes for Small Dogs Pets Thicken Waterproof Hoodies Dog Clothing Jumpsuit Chihuahua Costume](https://ellis-store-9903.myshopify.com/products/sports-warm-winter-pet-dog-coat-clothes-for-small-dogs-pets-thicken-waterproof-hoodies-dog-clothing-jumpsuit-chihuahua-costume): Brand Name: brother cat dogMaterial: 100% CottonOrigin: Mainland ChinaCN: GuangdongHigh-concerned chemical: NoneTarget Pet: DogSeason: WinterPattern Type: LetterType: DogsSize: S,M,L,XL,XXLColor: red,blackdog clothes for small dogs: dog clothes for large dogsdog clothes for medium dogs: big dog clothesWinter clothes for dogs: Clothes for small dogs Catfrench bulldog clothes: designer dog clothesluxury dog clothes: clothes for dogs 2024keyword 1: Russian winter dog clothesdog clothes for yorkie: clothes for yorkfrench bulldog: chihuahua clotheshonden kleding: puppy clotheswinter clothes for dogs: pug suityorkshire terrier clothes: yorkies clothesdog clothes winter warm: dog clothes waterproofdog clothes for small dogs: Clothes for dogsdog costume: dog coat Catjumpsuit for dogs: jacket for dogsclothes for dogs winter: suit for a dogYorkie dog clothes: dog costumes for small dogsdog outfit: Dog Jumpsuit
-  Updated: 2026-01-13T08:27:05Z
+  Updated: 2026-01-21T01:14:04Z
   Vendor: modalyst
   Product Type: Pet Accessories
   Availability: Available
@@ -1720,7 +1446,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S4735dc6936d64ef2a7022a278a98114aD.jpg?v=1768245245
     Price: $24.99 USD
 - [Padded Ski Vest For Pets](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets): Material: Premium CottonProduct Details: Category: Padded Cotton Vest Style: Inspired by European and American fashion trends, this vest combines practicality with a modern aesthetic. Features: Designed for versatility and comfort, the lightweight construction provides excellent warmth without bulk. Perfect for layering during outdoor adventures, winter sports, or casual outings. The padded design ensures extra insulation, while maintaining a sleek and stylish silhouette. Package Size: 300 × 200 × 50 mm Whether you're hitting the slopes, taking a winter walk, or heading out for a casual day, this cotton vest is a reliable and fashionable choice.
-  Updated: 2026-01-16T15:38:01Z
+  Updated: 2026-01-19T20:49:16Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1728,117 +1454,117 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Army Green / XXXXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182588576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/5qvWeoo5mDCb7I9y.webp?v=1768534656
-    Price: $50.21 USD
+    Price: $44.99 USD
   - [Army Green / XXXXXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182621344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/NeXRxnlHTryYDekY.webp?v=1768534666
-    Price: $53.98 USD
+    Price: $44.99 USD
   - [Army Green / Small](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182654112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/DFF6NRilUSiJFy2O.webp?v=1768534698
-    Price: $38.84 USD
+    Price: $44.99 USD
   - [Army Green / Medium](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182686880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/1XDcykxRh2TcTzRV.webp?v=1768534709
-    Price: $39.50 USD
+    Price: $44.99 USD
   - [Army Green / XXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182719648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/wdfKjX2eS6Uu8HHU.webp?v=1768534719
-    Price: $41.39 USD
+    Price: $44.99 USD
   - [Black / XL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182752416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/kZ79ampEJ3LNlL9F.webp?v=1768534730
-    Price: $40.76 USD
+    Price: $44.99 USD
   - [Red / XXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182785184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/oMOIAt35FgHXzV9z.webp?v=1768534795
-    Price: $41.39 USD
+    Price: $41.99 USD
   - [Red / Large](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182817952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/FvUUSFzHjDtgCKEr.webp?v=1768534764
-    Price: $40.10 USD
+    Price: $41.99 USD
   - [Army Green / XXXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182850720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/0QsGIJyFD8WHpjhU.webp?v=1768534828
-    Price: $46.32 USD
+    Price: $44.99 USD
   - [Army Green / Large](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182883488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/5XxEYNPrSwWFbXEY.webp?v=1768534838
-    Price: $40.10 USD
+    Price: $44.99 USD
   - [Army Green / XL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182916256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/OARdzEAOF9HYCprd.webp?v=1768534861
-    Price: $40.76 USD
+    Price: $44.99 USD
   - [Dark Blue / Small](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182949024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/JiDG7xMqG0cHPORG.webp?v=1768534899
-    Price: $38.84 USD
+    Price: $42.99 USD
   - [Black / XXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182182981792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/zLlLV2pkewkdMYAz.webp?v=1768534910
-    Price: $41.39 USD
+    Price: $44.99 USD
   - [Dark Blue / XL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183014560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/6V5LFH3toD2vOI88.webp?v=1768534888
-    Price: $40.76 USD
+    Price: $42.99 USD
   - [Dark Blue / Medium](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183047328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/iHTZHligW5HfpfxP.webp?v=1768534930
-    Price: $39.50 USD
+    Price: $42.99 USD
   - [Dark Blue / Large](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183080096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/cyfoJgGeApQgbQKX.webp?v=1768534941
-    Price: $40.10 USD
+    Price: $42.99 USD
   - [Dark Blue / XXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183112864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Xz6uo9bEsATxU6XS.webp?v=1768534920
-    Price: $41.39 USD
+    Price: $42.99 USD
   - [Black / Medium](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183145632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/2V6CXpQ812FYUTUm.webp?v=1768534915
-    Price: $39.50 USD
+    Price: $44.99 USD
   - [Black / Large](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183178400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8xmhsaEjVpyDoIST.webp?v=1768534925
-    Price: $40.10 USD
+    Price: $44.99 USD
   - [Black / Small](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183211168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/J1nWxsedqW6Sh0A6.webp?v=1768534962
-    Price: $38.84 USD
+    Price: $44.99 USD
   - [Purple / Small](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183243936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/OMpPFp2mme2e8aXP.webp?v=1768534951
-    Price: $38.84 USD
+    Price: $41.00 USD
   - [Purple / Medium](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183276704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/o2UdsBdlmA00M5HG.webp?v=1768534972
-    Price: $39.50 USD
+    Price: $41.00 USD
   - [Purple / Large](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183309472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ZxXiFkira4EBDERC.webp?v=1768534783
-    Price: $40.10 USD
+    Price: $41.00 USD
   - [Purple / XL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183342240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/p9t8Ql6SMnuqMkNP.webp?v=1768534983
-    Price: $40.76 USD
+    Price: $41.00 USD
   - [Purple / XXL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183375008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/kkJhwLwAVoUBiPe6.webp?v=1768534753
-    Price: $41.39 USD
+    Price: $41.00 USD
   - [Red / Medium](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183407776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/fX5QeuxK7LrtC4m1.webp?v=1768534850
-    Price: $39.50 USD
+    Price: $41.99 USD
   - [Red / XL](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183440544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/N4lQOa9RY3IZL1kb.webp?v=1768534817
-    Price: $40.76 USD
+    Price: $41.99 USD
   - [Red / Small](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets?variant=53182183473312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8dMb6x8ktI6EHCAy.webp?v=1768534993
-    Price: $38.84 USD
+    Price: $41.99 USD
 - [Cooling Vest for Pets](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets): Keep your furry friend cool and comfortable during hot summer days with this breathable cooling vest. The innovative cooling technology helps regulate your pet's body temperature, preventing overheating and ensuring a happy and healthy summer.Material ClothProduct Attributes OrdinaryPackage Size 300*200*30(1mm)
-  Updated: 2026-01-16T15:46:16Z
+  Updated: 2026-01-19T20:49:16Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1846,101 +1572,101 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Orange / 2XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182184816800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/4uKuRYuCBgEdeHMo.webp?v=1768534770
-    Price: $75.42 USD
+    Price: $49.99 USD
   - [Green / 2XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182184849568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/98XkW8TkMCP5WWL0.webp?v=1768534779
-    Price: $75.42 USD
+    Price: $51.99 USD
   - [Pink / L](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182184882336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S1BkthxN1ED9919z.webp?v=1768534814
-    Price: $60.63 USD
+    Price: $52.99 USD
   - [Pink / 2XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182184915104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8lmvvzvh9qQjJlDy.webp?v=1768534846
-    Price: $75.42 USD
+    Price: $52.99 USD
   - [Green / L](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182184947872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/lmgdxVl3JC2o5xkt.webp?v=1768534859
-    Price: $60.63 USD
+    Price: $51.99 USD
   - [Orange / 3XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182184980640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/asIwc7rsTZ8CyP8P.webp?v=1768534883
-    Price: $82.36 USD
+    Price: $49.99 USD
   - [Pink / 3XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185013408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Bsk1lqaroCwGKK3K.webp?v=1768534817
-    Price: $82.36 USD
+    Price: $52.99 USD
   - [Green / 3XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185046176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/W6PhElrRouldiUQW.webp?v=1768534897
-    Price: $82.36 USD
+    Price: $51.99 USD
   - [Blue / L](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185078944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/iAB6jPoCYkIkfAhL.webp?v=1768534917
-    Price: $60.63 USD
+    Price: $53.99 USD
   - [Blue / 3XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185111712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/9avVSEhNXDCBI1A7.webp?v=1768534948
-    Price: $82.36 USD
+    Price: $53.99 USD
   - [Blue / 2XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185144480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/MKa7ywxbOdhuHM4I.webp?v=1768534959
-    Price: $75.42 USD
+    Price: $53.99 USD
   - [Orange / L](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185177248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/dRDcr3Aa0DD4x6Ua.webp?v=1768534969
-    Price: $60.63 USD
+    Price: $49.99 USD
   - [Blue / M](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185210016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/uZLFn2F0aDwxXN5r.webp?v=1768534835
-    Price: $53.73 USD
+    Price: $53.99 USD
   - [Green / M](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185242784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/kHqY00ZZtWyuI8cQ.webp?v=1768534979
-    Price: $53.73 USD
+    Price: $51.99 USD
   - [Orange / M](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185275552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/j4ezWTHpVRBU4QCw.webp?v=1768534990
-    Price: $53.73 USD
+    Price: $49.99 USD
   - [Pink / S](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185308320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/g3BFvf34j6LCu109.webp?v=1768534871
-    Price: $47.70 USD
+    Price: $52.99 USD
   - [Green / XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185341088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/uP4wvNTI3hzochnU.webp?v=1768535000
-    Price: $66.66 USD
+    Price: $51.99 USD
   - [Pink / XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185373856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/su1ax5h7IQfO4fbp.webp?v=1768535021
-    Price: $66.66 USD
+    Price: $52.99 USD
   - [Blue / XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185406624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/r0CXt8Elmuqg2Jx5.webp?v=1768534884
-    Price: $66.66 USD
+    Price: $53.99 USD
   - [Green / S](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185439392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/65BDl87Xi9LzFDq3.webp?v=1768534803
-    Price: $47.70 USD
+    Price: $51.99 USD
   - [Pink / M](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185472160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/AcU8aYbO8Dqbv7eu.webp?v=1768534907
-    Price: $53.73 USD
+    Price: $52.99 USD
   - [Orange / S](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185504928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/xWfoygKr7u5hCCwj.webp?v=1768534937
-    Price: $47.70 USD
+    Price: $49.99 USD
   - [Orange / XL](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185537696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3DAP2E8HPV7BrmCB.webp?v=1768535011
-    Price: $66.66 USD
+    Price: $49.99 USD
   - [Blue / S](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets?variant=53182185570464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/VMfffZNnGfaXhbRl.webp?v=1768534872
-    Price: $47.70 USD
+    Price: $53.99 USD
 - [Themed Dog Clothes for Pets](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets): Keep your furry friend stylish and cozy with these adorable coral fleece dinosaur-inspired pet clothes. Perfect for all seasons, these comfortable and soft four-legged outfits are sure to make your pet stand out.Product Features: Material: High-quality coral fleece for ultimate warmth and comfort Design: Fun and playful dinosaur transformation design Category: Four-legged clothing, ideal for pets who love to stand out Gender: Suitable for both male and female pets Application: Perfect for daily wear, indoor lounging, or outdoor adventures Note: Please measure your pet carefully before purchasing to ensure the perfect fit.Ideal for keeping your pet cozy while adding a fun, fashionable twist. A must-have for pet owners who want to give their pets a unique, charming look.
-  Updated: 2026-01-16T15:48:07Z
+  Updated: 2026-01-19T20:49:16Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1948,29 +1674,29 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Green / 2XL](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets?variant=53182185668768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1_65fc0c45-9d24-4e95-9221-e014ef17aa77.webp?v=1768534810
-    Price: $30.90 USD
+    Price: $29.99 USD
   - [Green / XL](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets?variant=53182185701536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1.webp?v=1768534799
-    Price: $30.21 USD
+    Price: $29.99 USD
   - [Green / M](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets?variant=53182185734304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1_470087bd-ea30-4f8f-98ba-518132bf4bbb.webp?v=1768534833
-    Price: $30.36 USD
+    Price: $29.99 USD
   - [Green / L](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets?variant=53182185767072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1_ffc19108-e4da-48ad-899d-c2f4dcbe2a1f.webp?v=1768534872
-    Price: $29.58 USD
+    Price: $29.99 USD
   - [Green / S](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets?variant=53182185799840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1_5c2b0e00-b0f4-4ee7-8da4-e9225652d852.webp?v=1768534908
-    Price: $29.67 USD
+    Price: $29.99 USD
   - [Green / XS](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets?variant=53182185832608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1_9df0fea7-65a0-4e2b-8e82-c255bbb1d1f9.webp?v=1768534859
-    Price: $29.01 USD
+    Price: $29.99 USD
 - [Printed Love Sweater for Pets](https://ellis-store-9903.myshopify.com/products/printed-love-sweater-for-pets): – Cozy & Stylish Outfit for Your Furry FriendKeep your pet warm and adorable with this Printed Love Sweater, designed for comfort, warmth, and style. Made from soft and breathable fabric, this sweater provides cozy protection against chilly weather while adding a cute and fashionable touch to your pet’s look. Perfect for small to medium-sized dogs and cats!Features:✔ Soft & Warm Fabric – Ensures comfort and insulation in cold weather✔ Adorable Love Print Design – Adds a cute and stylish flair✔ Lightweight & Breathable – Keeps pets cozy without overheating✔ Easy to Wear & Remove – Stretchable material for a snug, comfy fit✔ Perfect for Indoor & Outdoor Wear – Ideal for walks, photoshoots, and daily wearGive your pet a warm hug in the form of a sweater with this cute and cozy outfit!
-  Updated: 2026-01-16T15:48:38Z
+  Updated: 2026-01-19T20:49:16Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1978,72 +1704,72 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [PINK / XS](https://ellis-store-9903.myshopify.com/products/printed-love-sweater-for-pets?variant=53182187929760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/T54yIPV33if9FVZh.webp?v=1768534836
-    Price: $43.90 USD
+    Price: $39.99 USD
   - [WHITE / L](https://ellis-store-9903.myshopify.com/products/printed-love-sweater-for-pets?variant=53182187962528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Sl4X8HCh4HHDMFOe.webp?v=1768534923
-    Price: $44.56 USD
+    Price: $39.99 USD
   - [WHITE / 2XL](https://ellis-store-9903.myshopify.com/products/printed-love-sweater-for-pets?variant=53182187995296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/EENmouzmd3yaQhK1.webp?v=1768534934
-    Price: $45.88 USD
+    Price: $39.99 USD
   - [New-WHITE / XL](https://ellis-store-9903.myshopify.com/products/printed-love-sweater-for-pets?variant=53182188028064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Fg5W2tOWuoDMovat.webp?v=1768534900
-    Price: $45.88 USD
+    Price: $39.99 USD
 - [Sanded Student Skirt for Pets](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets): Introducing the perfect blend of style and comfort for your furry friend! Our pet clothes are crafted from premium coral velvet, ensuring a soft and cozy fit that your pet will love. Available in two vibrant colors, khaki and yellow, these stylish skirts are designed for pets who love to strut their stuff. Choose from a variety of sizes including S, M, L, XL, and XXL, to find the perfect fit for your pet. Whether they're lounging around the house or heading out for a walk, our two-legged clothing will keep them looking fabulous. Check out our lovely product images below for a closer look at this adorable outfit: Dress your pet in comfort and style with our fashionable skirts, and let them be the center of attention wherever they go!
-  Updated: 2026-01-16T15:49:27Z
+  Updated: 2026-01-19T20:49:16Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/gRlIWrTjKtOMouDD.webp?v=1768534886
   - [Khaki / 2XL](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189535392)
     Availability: Available
-    Price: $24.71 USD
+    Price: $22.99 USD
   - [yellow / 2XL](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189568160)
     Availability: Available
-    Price: $24.71 USD
+    Price: $23.99 USD
   - [Khaki / M](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189600928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/gRlIWrTjKtOMouDD.webp?v=1768534886
-    Price: $24.71 USD
+    Price: $22.99 USD
   - [Khaki / XL](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189633696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ddSanVQdKN1tmTYK.webp?v=1768534909
-    Price: $24.71 USD
+    Price: $22.99 USD
   - [Khaki / S](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189666464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/mcv7ENXFykn8cxP0.webp?v=1768534962
-    Price: $24.71 USD
+    Price: $22.99 USD
   - [Khaki / L](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189699232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/V6moXJaWoqEKEAPJ.webp?v=1768534941
-    Price: $24.71 USD
+    Price: $22.99 USD
   - [yellow / M](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189732000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Wo7WyRLJhKthz1aU.webp?v=1768534927
-    Price: $24.71 USD
+    Price: $23.99 USD
   - [yellow / L](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189764768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/oUop77Z4eEJI8pBa.webp?v=1768534931
-    Price: $24.71 USD
+    Price: $23.99 USD
   - [yellow / S](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189797536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/lyFt9EqaTDeydKRG.webp?v=1768534919
-    Price: $24.71 USD
+    Price: $23.99 USD
   - [yellow / XL](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets?variant=53182189830304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/9oMQJ9tTrvnoFPLN.webp?v=1768534952
-    Price: $24.71 USD
+    Price: $23.99 USD
 - [Pets Water Fountain](https://ellis-store-9903.myshopify.com/products/pets-water-fountain): Pets Water Fountain with Auto Filter – USB Electric Mute Cat Drinker Bowl (1200mL)Keep your cat hydrated and healthy with the Pets Water Fountain! This automatic water dispenser is designed to provide your cat with a continuous flow of fresh, clean water, ensuring they stay hydrated throughout the day. With a generous 1200mL capacity, the fountain is perfect for multiple cats or larger breeds, offering a steady supply of water that encourages drinking and reduces the risk of urinary tract infections and dehydration.Equipped with a multi-stage filtration system, this fountain uses a recirculating filtration mechanism to keep the water clean and free of impurities, ensuring your pet always has access to fresh, clean water. The ultra-quiet design (mute operation) means your cat won’t be disturbed by the sound of the pump, making it ideal for sensitive pets or peaceful environments.Powered via USB, the fountain is both energy-efficient and convenient to use, easily connecting to a USB adapter or power bank for hassle-free operation. The sleek, modern design fits seamlessly into any home decor while keeping your cat's hydration needs met in style.Key Features: 1200mL Capacity: Ideal for one or more cats, reducing the need for frequent refills. Auto Filter & Multi-Stage Filtration: The built-in filtration system removes impurities, odors, and contaminants, keeping the water fresh and clean. Recirculating Water Flow: Continuous water flow encourages pets to drink more, promoting better hydration and health. Quiet Operation (Mute): Ultra-quiet pump ensures a peaceful environment without disturbing your pet, even when they drink from the fountain. USB Powered: Powered by a USB cable (adapter or power bank), making it energy-efficient and easy to set up anywhere. Sleek, Modern Design: The contemporary design fits into any room décor, whether in the kitchen, living room, or bedroom. Encourages Healthy Hydration: The flowing water naturally attracts cats and helps reduce urinary and kidney issues caused by insufficient water intake. Easy to Clean: The fountain is easy to disassemble and clean, ensuring that it stays hygienic for your pet's health. Product Specifications: Material: High-quality BPA-free plastic (safe for pets) Capacity: 1200mL (approximately 1.2 liters) Water Flow System: Recirculating water flow with built-in filtration Filtration System: Multi-stage filtration (replaceable filters) Noise Level: Ultra-quiet (mute operation) Power Supply: USB (compatible with USB adapters, power banks, or USB ports) Dimensions: 18 x 18 x 15 cm (L x W x H) Weight: 500g (lightweight and portable) Color: Available in multiple colors (white, grey, etc.) Included in Package: 1 x Pet Water Fountain, 1 x USB Cable, 1 x Filter (pre-installed), 1 x User Manual Why Choose the Pets Water Fountain? Healthier Pets: Encourages your cat to drink more water, which is essential for their kidney and urinary health. Convenient & Low Maintenance: With a large 1200mL capacity and easy-to-clean design, you won’t need to constantly refill or worry about it becoming dirty. Peaceful Environment: The silent, mute operation ensures your cat is comfortable drinking without distractions from noise. Eco-Friendly & Cost-Effective: USB-powered design eliminates the need for batteries, making it both environmentally friendly and cost-effective. Stylish & Functional: The modern design looks great in any home while serving a functional purpose in keeping your pets hydrated.
-  Updated: 2026-01-16T15:42:11Z
+  Updated: 2026-01-19T20:49:17Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/MnfwOyVQcVBdTogc.webp?v=1768534926
-  Price: $58.84 USD
+  Price: $49.99 USD
 - [Cotton Stretch Apparel for Pets](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets): Treat your furry friend to the ultimate in comfort and style with our Cotton Stretch Pet Apparel. Designed with your pet's needs in mind, this casual sweater is crafted from high-quality cotton that provides a soft, breathable fit, ensuring your pet stays cozy during chilly days. Available in a beautiful pink color, this sweater is not only functional but also fashionable, making your pet the star of the park. With various sizes ranging from S to 2XL, you can find the perfect fit for pets of all shapes and sizes. Our pet apparel features: Choose from multiple sizes to ensure a comfortable fit: Don't miss out on the chance to pamper your pet with this stylish and comfortable sweater. Your adorable companion will not only feel great but will also turn heads wherever you go!
-  Updated: 2026-01-16T04:31:05Z
+  Updated: 2026-01-19T20:49:17Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2051,63 +1777,63 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Pink / M](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191206560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/svFBvpttNuAMEuLo.webp?v=1768534966
-    Price: $39.31 USD
+    Price: $34.99 USD
   - [Pink / FB](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191239328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/eIJmxgniXm79S6Ie.webp?v=1768535018
-    Price: $41.92 USD
+    Price: $34.99 USD
   - [Pink / S](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191272096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/q1dNQxexgfOMivNn.webp?v=1768534997
-    Price: $38.03 USD
+    Price: $34.99 USD
   - [Pink / XXL](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191304864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/AHvsjie9xrliWh2d.webp?v=1768535028
-    Price: $41.29 USD
+    Price: $34.99 USD
   - [Pink / L](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191337632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/lJuzc5q60iGJFsJd.webp?v=1768534976
-    Price: $40.00 USD
+    Price: $34.99 USD
   - [Pink / XL](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191370400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/KoYRKf22r7vVXAjV.webp?v=1768535008
-    Price: $40.63 USD
+    Price: $34.99 USD
   - [Pink / SM](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets?variant=53182191403168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/wsnSKQS9HizswvuP.webp?v=1768535039
-    Price: $38.65 USD
+    Price: $34.99 USD
 - [Dog Clothes for Pets](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets): Dress your furry friend in style with our trendy casual hoodie, designed specifically for dogs. Made from high-quality cotton, this hoodie ensures your pet stays comfortable while looking fabulous. Available in two chic colors: Yellow and Grey, our hoodie comes in sizes ranging from XS to M, catering to dogs of all shapes and sizes. Whether you have a tiny pup or a medium-sized companion, we have the perfect fit for them! Upgrade your pet's wardrobe with our stylish hoodie, perfect for any occasion, and watch them strut their stuff with confidence!
-  Updated: 2026-01-16T15:43:19Z
+  Updated: 2026-01-19T20:49:17Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/gDzJgAuNtnH5wCHN.webp?v=1768534994
-  - [Grey / S](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182192910496)
+  - [Grey / S / rubber](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182192910496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/gDzJgAuNtnH5wCHN.webp?v=1768534994
-    Price: $23.83 USD
-  - [Grey / M](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182192943264)
+    Price: $22.99 USD
+  - [Grey / M / rubber](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182192943264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/EVuvZTJpHy5zBdTT.webp?v=1768535036
-    Price: $23.83 USD
-  - [Yellow / XS](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182192976032)
+    Price: $22.99 USD
+  - [Yellow / XS / rubber](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182192976032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/E7RRI0qIXeHfyXNK.webp?v=1768535046
-    Price: $23.83 USD
-  - [Yellow / S](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182193008800)
+    Price: $22.99 USD
+  - [Yellow / S / rubber](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182193008800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8cyfZxONGMN0XwqR.webp?v=1768535057
-    Price: $23.83 USD
-  - [Grey / XS](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182193041568)
+    Price: $22.99 USD
+  - [Grey / XS / rubber](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182193041568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/DdnIx87kUnGr0VJI.webp?v=1768535015
-    Price: $23.83 USD
-  - [Yellow / M](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182193074336)
+    Price: $22.99 USD
+  - [Yellow / M / rubber](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets?variant=53182193074336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/y1oAtYH3fa7VECbV.webp?v=1768535004
-    Price: $23.83 USD
+    Price: $22.99 USD
 - [Thickened Tricolor Sweater for Pets](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets): Keep your furry friends warm and stylish with our new line of Thickened Tricolor Sweaters. Made from luxurious coral velvet, these sweaters provide both comfort and warmth, ensuring your pet stays cozy during the colder months. Available in three vibrant colors: Purple, Gray, and Orange, these sweaters are designed to fit pets of all sizes with options ranging from S to XXL. Whether you have a small pup or a larger breed, there's a perfect fit for everyone. The stylish leisure design is perfect for casual outings or simply lounging at home. Treat your pet to the ultimate in comfort and style with our Thickened Tricolor Sweater. Browse through our various options to find the ideal color and size for your furry companion:
-  Updated: 2026-01-16T15:51:16Z
+  Updated: 2026-01-19T20:49:17Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2115,78 +1841,78 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Orange / 2XL](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193729696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3ZDsFTfU7DhvPUgN.webp?v=1768535039
-    Price: $31.97 USD
+    Price: $29.99 USD
   - [Grey / XL](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193762464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/SB2DEnahTusH2JEo.webp?v=1768535153
-    Price: $30.71 USD
+    Price: $31.99 USD
   - [Purple / M](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193795232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/X0Wp8ZttYhndXWer.webp?v=1768535029
-    Price: $28.01 USD
+    Price: $29.99 USD
   - [Orange / XL](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193828000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Qeub11Tf8zNQRnsd.webp?v=1768535164
-    Price: $30.71 USD
+    Price: $29.99 USD
   - [Purple / XL](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193860768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/z1M4inINX6Z5acJ2.webp?v=1768535122
-    Price: $30.71 USD
+    Price: $29.99 USD
   - [Purple / L](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193893536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3sRIwfjGCUMmaJSb.webp?v=1768535143
-    Price: $28.86 USD
+    Price: $29.99 USD
   - [Grey / L](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193926304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/2hRuya2J94zjxXeh.webp?v=1768535185
-    Price: $28.86 USD
+    Price: $31.99 USD
   - [Purple / 2XL](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193959072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/QrUxXRgQs3wZFwo0.webp?v=1768535174
-    Price: $31.97 USD
+    Price: $29.99 USD
   - [Purple / S](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182193991840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/7cf8r8aefC8kbWAN.webp?v=1768535195
-    Price: $28.23 USD
+    Price: $29.99 USD
   - [Grey / M](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182194024608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/eW13h1HxyyjCHLta.webp?v=1768535060
-    Price: $28.01 USD
+    Price: $31.99 USD
   - [Grey / 2XL](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182194057376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/o1cE4mmlqeMhkgL1.webp?v=1768535071
-    Price: $31.97 USD
+    Price: $31.99 USD
   - [Orange / S](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182194090144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/C4QUChD4iBlTVXyD.webp?v=1768535102
-    Price: $28.23 USD
+    Price: $29.99 USD
   - [Grey / S](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182194122912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/K3rJsiFirQVQef7T.webp?v=1768535112
-    Price: $28.23 USD
+    Price: $31.99 USD
   - [Orange / L](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182194155680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/tviY8TvptgL0pSQ9.webp?v=1768535091
-    Price: $28.86 USD
+    Price: $29.99 USD
   - [Orange / M](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets?variant=53182194188448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/daiJUG07t6UNHVPO.webp?v=1768535132
-    Price: $28.01 USD
+    Price: $29.99 USD
 - [Thickened Warm Hoodie for Pets](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets): Keep your furry friend cozy and stylish with our Pet Fashion Thickened Warm Hoodie. Made from soft and luxurious velvet, this hoodie is perfect for those chilly days when your pet needs an extra layer of warmth. The casual style makes it easy for your pet to wear, whether they're lounging at home or out for a walk. Available in a variety of colors including Beige, Light Blue, and Grey, and sizes ranging from XS to XXL, there’s a perfect fit for every pet! Dress your pet in comfort with this chic hoodie that combines fashion and function. The thickened fabric ensures warmth without sacrificing style. Check out our stunning collection of images below to see how adorable your pet will look in their new hoodie! Treat your pet to the ultimate in comfort and style with our Pet Fashion Thickened Warm Hoodie—because they deserve to look good while staying warm!
-  Updated: 2026-01-16T15:50:47Z
+  Updated: 2026-01-19T20:49:17Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/hB9NZTK3oX1f4WHc.webp?v=1768535050
   - [Beige / L](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194548896)
     Availability: Available
-    Price: $26.22 USD
+    Price: $24.99 USD
   - [Beige / XL](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194581664)
     Availability: Available
-    Price: $26.22 USD
+    Price: $24.99 USD
   - [Beige / XXL](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194614432)
     Availability: Available
-    Price: $26.22 USD
+    Price: $24.99 USD
   - [Grey / L](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194647200)
     Availability: Available
     Price: $26.22 USD
@@ -2208,7 +1934,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Beige / XS](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194843808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/hB9NZTK3oX1f4WHc.webp?v=1768535050
-    Price: $26.22 USD
+    Price: $24.99 USD
   - [Light Blue / M](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194876576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/YNUodfkYMOFPuCut.webp?v=1768535071
@@ -2220,7 +1946,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Beige / S](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194942112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/dx8grrElc2aB57Lj.webp?v=1768535092
-    Price: $26.22 USD
+    Price: $24.99 USD
   - [Light Blue / XS](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182194974880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/HhlMSqfNLNKpLsxx.webp?v=1768535102
@@ -2232,7 +1958,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Beige / M](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182195040416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/aRHiYfqEKXRiULBg.webp?v=1768535081
-    Price: $26.22 USD
+    Price: $24.99 USD
   - [Light Blue / S](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets?variant=53182195073184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/wTu7RcvR2Gt4NQIF.webp?v=1768535112
@@ -2242,7 +1968,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/REgjXh27P9rvWkvD.webp?v=1768535133
     Price: $26.22 USD
 - [Thickened Winter Cotton Vest Warm Fur Collar For Pets](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets): Thickened Winter Cotton Vest with Warm Fur Collar for Pets – Cozy Comfort for Your Furry FriendKeep your beloved pet warm and stylish during the colder months with the Thickened Winter Cotton Vest with Warm Fur Collar for Pets. Designed to provide maximum comfort and insulation, this vest is perfect for protecting your pet from chilly weather while ensuring they look adorable. With its premium materials and thoughtful design, it’s a must-have for your pet's winter wardrobe. Key Features: Thickened Cotton Fabric: Made with high-quality, thickened cotton to provide excellent insulation and keep your pet cozy in the coldest temperatures. Fur Collar Detail: The soft, fluffy fur collar adds an extra layer of warmth and a touch of luxury, making it both functional and fashionable. Snug Fit Design: Tailored to provide a comfortable and secure fit that allows your pet to move freely without feeling restricted. Easy-to-Wear: Features a simple and convenient closure system, making it easy to put on and take off your pet. Lightweight and Breathable: While thick and warm, the vest remains lightweight and breathable to ensure your pet’s comfort during extended wear. Durable and Long-Lasting: Crafted with strong stitching and quality materials that can withstand regular use and playful activities. Available in Various Sizes: Suitable for small, medium, and large pets, ensuring a perfect fit for your furry companion. Benefits: Protects your pet from cold and windy weather. Soft materials prevent irritation and ensure maximum comfort. Stylish fur collar design adds a trendy touch to your pet’s outfit. Easy-to-maintain fabric can be cleaned quickly for hassle-free care. Perfect For: Outdoor walks during winter. Pets who need extra warmth due to shorter fur or cold sensitivity. Owners looking to combine functionality with style for their pets. Why You’ll Love It:The Thickened Winter Cotton Vest with Warm Fur Collar for Pets is not just a winter essential but a thoughtful way to show your care and love for your pet. Its stylish design and cozy materials make it an ideal choice for both practicality and aesthetics. Whether you're taking your pet for a walk in the snow or just snuggling indoors, this vest ensures they stay warm and comfortable.Pamper your pet this winter with the Thickened Winter Cotton Vest with Warm Fur Collar—because your furry friend deserves the very best!
-  Updated: 2026-01-16T15:44:45Z
+  Updated: 2026-01-19T20:49:18Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2250,45 +1976,45 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Blue / M](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195531936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/22aZ3O39BFAZmWZS.webp?v=1768535070
-    Price: $47.29 USD
+    Price: $44.99 USD
   - [Blue / S](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195564704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/5LA5xDqw04lNfTMA.webp?v=1768535164
-    Price: $45.94 USD
+    Price: $44.99 USD
   - [Blue / XL](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195597472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/4X4fmLl9ZZKCGX7j.webp?v=1768535184
-    Price: $48.51 USD
+    Price: $44.99 USD
   - [Pink / S](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195630240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/BUdzfbAjFncJjYHs.webp?v=1768535206
-    Price: $45.94 USD
+    Price: $45.99 USD
   - [Pink / M](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195663008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/a6arbGqxkRFhpr5w.webp?v=1768535153
-    Price: $47.29 USD
+    Price: $45.99 USD
   - [Pink / XL](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195695776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/xX5l07an2qhQayT3.webp?v=1768535195
-    Price: $48.51 USD
+    Price: $45.99 USD
   - [Blue / L](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195728544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/IoTRLmMyGpfjGbnB.webp?v=1768535091
-    Price: $48.61 USD
+    Price: $44.99 USD
   - [Pink / 2XL](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195761312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/kmJmHU13Ky93wtEo.webp?v=1768535123
-    Price: $49.83 USD
+    Price: $45.99 USD
   - [Pink / L](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195794080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/lebe4THVrsCUPCS2.webp?v=1768535174
-    Price: $48.61 USD
+    Price: $45.99 USD
   - [Blue / 2XL](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets?variant=53182195826848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/V4vmgzhgi4r9FAb1.webp?v=1768535216
-    Price: $49.83 USD
+    Price: $44.99 USD
 - [Winter Cotton Knit Vest for Pets - Academic Style](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style): Introducing our winter vest, expertly crafted from warm knitted cotton for your beloved pets. This stylish piece showcases a chic academic style, making it the perfect addition to their wardrobe. Ensure your furry friend stays both cozy and fashionable during the chilly months. Available in a variety of sizes from XS to 5XL, you can find the perfect fit for pets of all shapes and sizes: Choose from an array of vibrant colors including yellow, green, red, and gray. Each vest not only adds a pop of color but also ensures your pet stands out in style. With a lightweight design, the vest weighs between 62g to 169g, depending on the size, making it easy for your pet to wear throughout the day. Don't let the cold weather keep your pet indoors; let them strut their style in our fashionable winter vest!
-  Updated: 2026-01-16T15:49:53Z
+  Updated: 2026-01-23T12:09:16Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2296,149 +2022,149 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [yellow / S](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182195957920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/CygDG73zO9QRY8U9.webp?v=1768535081
-    Price: $20.22 USD
+    Price: $19.99 USD
   - [yellow / M](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182195990688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/HM6QUEBQW9WL7Z1v.webp?v=1768535091
-    Price: $20.85 USD
+    Price: $19.99 USD
   - [yellow / L](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196023456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/B3IQ2vbFHqfbRroe.webp?v=1768535123
-    Price: $21.23 USD
+    Price: $19.99 USD
   - [yellow / XS](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196056224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/y3vqwT7cJM2yxOgS.webp?v=1768535153
-    Price: $19.66 USD
+    Price: $19.99 USD
   - [yellow / XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196088992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GOilx2EUWYxnht51.webp?v=1768535185
-    Price: $20.94 USD
+    Price: $19.99 USD
   - [yellow / XXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196121760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/73qKNjgZrqrMnK6r.webp?v=1768535164
-    Price: $21.82 USD
+    Price: $19.99 USD
   - [gray / M](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196154528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Qsk8zP3u47gYjcQN.webp?v=1768535216
-    Price: $20.85 USD
+    Price: $21.99 USD
   - [red / XXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196187296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/FTofHkLZcimO5OWx.webp?v=1768535248
-    Price: $21.82 USD
+    Price: $21.99 USD
   - [gray / XS](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196220064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ikMd971yqvxng7SI.webp?v=1768535279
-    Price: $19.66 USD
+    Price: $21.99 USD
   - [red / XXXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196252832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Wg4nQ9v0WfdwLXy3.webp?v=1768535289
-    Price: $23.08 USD
+    Price: $21.99 USD
   - [red / XS](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196285600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/4sYTK8hAGaLTlRwA.webp?v=1768535310
-    Price: $19.66 USD
+    Price: $21.99 USD
   - [gray / XXXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196318368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/K3hDiKkuIYRp4aqZ.webp?v=1768535320
-    Price: $23.08 USD
+    Price: $21.99 USD
   - [red / 4XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196351136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/SDKqmSGnt1WzPROW.webp?v=1768535341
-    Price: $25.03 USD
+    Price: $21.99 USD
   - [gray / S](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196383904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Rku1QEpDbPscou7v.webp?v=1768535174
-    Price: $20.22 USD
+    Price: $21.99 USD
   - [gray / 5XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196416672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/88mwgTzYfU3nyB6A.webp?v=1768535352
-    Price: $26.97 USD
+    Price: $21.99 USD
   - [gray / XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196449440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/P7mRsZzn6a5RnHWd.webp?v=1768535268
-    Price: $20.94 USD
+    Price: $21.99 USD
   - [red / 5XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196482208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ImjvtYXTaceDpfBA.webp?v=1768535373
-    Price: $26.97 USD
+    Price: $21.99 USD
   - [red / L](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196514976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/plxCSNsvztiHZFvc.webp?v=1768535383
-    Price: $21.23 USD
+    Price: $21.99 USD
   - [gray / 4XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196547744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/2n2yNBUOV3N7TWd5.webp?v=1768535404
-    Price: $25.03 USD
+    Price: $21.99 USD
   - [green / XS](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196580512)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/H87y3aW2aPSEgn7V.webp?v=1768535112
-    Price: $19.66 USD
+    Price: $21.99 USD
   - [yellow / XXXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196613280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/AdgpbL6YMVNYwLnh.webp?v=1768535415
-    Price: $23.08 USD
+    Price: $19.99 USD
   - [gray / L](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196646048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/n8EpmTx8t4BhFS3G.webp?v=1768535362
-    Price: $21.23 USD
+    Price: $21.99 USD
   - [red / XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196678816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/fV7T3ehBs3p4h8eD.webp?v=1768535437
-    Price: $20.94 USD
+    Price: $21.99 USD
   - [green / XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196711584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/TBAwHHyfndeTZV6W.webp?v=1768535394
-    Price: $20.94 USD
+    Price: $21.99 USD
   - [green / S](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196744352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/seAwdQ6vguMBUgWE.webp?v=1768535447
-    Price: $20.22 USD
+    Price: $21.99 USD
   - [green / 5XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196777120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/CtqJi52Yol5NQfJd.webp?v=1768535468
-    Price: $26.97 USD
+    Price: $21.99 USD
   - [red / S](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196809888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/V2mBPagRpHDITjg0.webp?v=1768535237
-    Price: $20.22 USD
+    Price: $21.99 USD
   - [yellow / 5XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196842656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/eLJQMBqslHaw7GWz.webp?v=1768535206
-    Price: $26.97 USD
+    Price: $19.99 USD
   - [gray / XXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196875424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/2ORYAoJvnjpbY4SK.webp?v=1768535479
-    Price: $21.82 USD
+    Price: $21.99 USD
   - [green / M](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196908192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/FMzqjEvgamXGLcY1.webp?v=1768535498
-    Price: $20.85 USD
+    Price: $21.99 USD
   - [green / XXXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196940960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/M9Uv2p1tkJ7RB7e6.webp?v=1768535489
-    Price: $23.08 USD
+    Price: $21.99 USD
   - [green / XXL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182196973728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8Q95kxJW0KJ5Y0PC.webp?v=1768535426
-    Price: $21.82 USD
+    Price: $21.99 USD
   - [red / M](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182197006496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/5bAV8cGK1L7ufl8Z.webp?v=1768535331
-    Price: $20.85 USD
+    Price: $21.99 USD
   - [green / L](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182197039264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8zTZQC0itEO4wTEY.webp?v=1768535300
-    Price: $21.23 USD
+    Price: $21.99 USD
   - [yellow / 4XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182197072032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ksIg5fExAd0jS5rj.webp?v=1768535499
-    Price: $25.03 USD
+    Price: $19.99 USD
   - [green / 4XL](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style?variant=53182197104800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/XNmdNJ8pt95KtUyx.webp?v=1768535458
-    Price: $25.03 USD
+    Price: $21.99 USD
 - [Reflective Thickened Warm Pet Vest for Autumn Winter](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter): Keep your furry friend warm and stylish this autumn and winter with our Warm Pet Vest. Designed for both comfort and functionality, this vest is perfect for chilly outdoor adventures or cozy indoor lounging. Crafted from high-quality polyester, the vest is not only thickened for warmth but also features a reflective design to ensure your pet is visible during evening walks. Its cotton padded construction provides an extra layer of insulation, making it ideal for those frosty days. Available in a classic Army Green color, this vest comes in multiple sizes, from S to 2XL, ensuring a perfect fit for every breed. Check out our product images to see the stylish design and premium quality you can expect: Don’t let your pet miss out on the warmth and style they deserve this season! Choose the perfect size for your furry companion and elevate their wardrobe with our Warm Pet Vest.
-  Updated: 2026-01-16T15:45:14Z
+  Updated: 2026-01-23T12:07:46Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2446,25 +2172,25 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Army Green / M](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter?variant=53182197268640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/5I1CHG4J0pQjXDQs.webp?v=1768535102
-    Price: $45.34 USD
+    Price: $39.99 USD
   - [Army Green / L](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter?variant=53182197301408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/LHEJJSDun6koe2Hc.webp?v=1768535122
-    Price: $45.34 USD
+    Price: $39.99 USD
   - [Army Green / S](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter?variant=53182197334176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/eol4VWvetGAw4Bo7.webp?v=1768535112
-    Price: $45.34 USD
+    Price: $39.99 USD
   - [Army Green / XL](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter?variant=53182197366944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/okWxQ0yORyGxVkkf.webp?v=1768535154
-    Price: $45.34 USD
+    Price: $39.99 USD
   - [Army Green / 2XL](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter?variant=53182197399712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/qFvbtr1sXFJOVQwI.webp?v=1768535143
-    Price: $45.34 USD
-- [Winter Warmth Vest for Pets](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets): Keep your furry friends cozy and stylish with this leather winter vest, designed to provide warmth and comfort during chilly seasons. This casual yet fashionable vest is perfect for both dogs and cats, offering a snug fit and durable design. Available in elegant colors and a wide range of sizes, it ensures your pet stays protected while looking adorable.Key Features: Material: Premium leather for warmth and durability Style: Casual design suitable for everyday wear Colors: Grey, Purplish Red, Brown Sizes: S, M, L, XL, XXL, 3XL, 4XL, 5XL (Check the size chart for accurate fitting) Gender: Unisex – perfect for both dogs and cats Size & Fit Notes: Allow 2-3 cm variations due to manual measurement. Slight color differences may occur due to varying screen displays. Give your pet the gift of warmth and comfort with this stylish winter vest, combining practicality and charm for every outdoor adventure!
-  Updated: 2026-01-16T15:48:35Z
+    Price: $39.99 USD
+- [Winter Warmth Vest for Pets](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets): Keep your furry friends cozy and stylish with this leather winter vest, designed to provide warmth and comfort during chilly seasons. This casual yet fashionable vest is perfect for both dogs and cats, offering a snug fit and durable design. Available in elegant colors and a wide range of sizes, it ensures your pet stays protected while looking adorable. Key Features: Material: Premium leather for warmth and durability Style: Casual design suitable for everyday wear Colors: Grey, Purplish Red, Brown Sizes: S, M, L, XL, XXL, 3XL, 4XL, 5XL (Check the size chart for accurate fitting) Gender: Unisex – perfect for both dogs and cats Size & Fit Notes: Allow 2-3 cm variations due to manual measurement. Slight color differences may occur due to varying screen displays. Give your pet the gift of warmth and comfort with this stylish winter vest, combining practicality and charm for every outdoor adventure!
+  Updated: 2026-01-23T12:05:34Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2472,120 +2198,290 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [Brown / 4XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182198841504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vI5GhQqECgEwrWlv.webp?v=1768535300
-    Price: $45.72 USD
+    Price: $39.99 USD
   - [Brown / XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182198874272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/im4KyW1GDrKjxAft.webp?v=1768535310
-    Price: $38.97 USD
+    Price: $39.99 USD
   - [Brown / 3XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182198907040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/UDabQurKngYRAqew.webp?v=1768535373
-    Price: $43.58 USD
+    Price: $39.99 USD
   - [Brown / Medium](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182198939808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/aixvDE1a8wqrKoUf.webp?v=1768535404
-    Price: $35.98 USD
+    Price: $39.99 USD
   - [Brown / Small](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182198972576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/2hLM8BvlmvcfLaZJ.webp?v=1768535331
-    Price: $34.57 USD
+    Price: $39.99 USD
   - [Brown / Large](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199005344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/YBH7chMIDyiUVdhp.webp?v=1768535384
-    Price: $37.21 USD
+    Price: $39.99 USD
   - [Brown / 5XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199038112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Sixsidwvd4rWCQ6U.webp?v=1768535415
-    Price: $48.01 USD
+    Price: $39.99 USD
   - [Brown / 2XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199070880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/yrTTAR32eLrQLRyv.webp?v=1768535436
-    Price: $41.26 USD
+    Price: $39.99 USD
   - [Gray / 4XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199103648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/xTced7XvfllsjZxj.webp?v=1768535447
-    Price: $45.72 USD
+    Price: $41.99 USD
   - [Gray / 2XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199136416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ZeYZT1qielcijQfv.webp?v=1768535468
-    Price: $41.26 USD
+    Price: $41.99 USD
   - [Gray / Small](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199169184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/FECPRHcYXCyznO7Y.webp?v=1768535479
-    Price: $34.57 USD
+    Price: $41.99 USD
   - [Gray / Medium](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199201952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/2eemq3WBrOes1b5J.webp?v=1768535499
-    Price: $35.98 USD
+    Price: $41.99 USD
   - [Gray / 5XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199234720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/iGjbJtXs4nqJCmZk.webp?v=1768535394
-    Price: $48.01 USD
+    Price: $41.99 USD
   - [Gray / XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199267488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/c6QSesDIUo8DNDQB.webp?v=1768535509
-    Price: $38.97 USD
+    Price: $41.99 USD
   - [Gray / 3XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199300256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Zkno6QNYtzC4CUL4.webp?v=1768535341
-    Price: $43.58 USD
+    Price: $41.99 USD
   - [Gray / Large](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199333024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/RbOSl70S7UyDNbkV.webp?v=1768535426
-    Price: $37.21 USD
+    Price: $41.99 USD
   - [Purple / 2XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199365792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/O8cghBa7PSBqOg1Q.webp?v=1768535530
-    Price: $41.26 USD
+    Price: $43.99 USD
   - [Purple / 3XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199398560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/eaqHbZjQepDxfFzi.webp?v=1768535362
-    Price: $43.58 USD
+    Price: $43.99 USD
   - [Purple / 4XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199431328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/qEnJggyh1yPgXt7J.webp?v=1768535458
-    Price: $45.72 USD
+    Price: $43.99 USD
   - [Purple / 5XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199464096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/gsh6lUPRBNtdMAuJ.webp?v=1768535541
-    Price: $48.01 USD
+    Price: $43.99 USD
   - [Purple / Medium](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199496864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/6GhSmNdrcFqsGKEu.webp?v=1768535562
-    Price: $35.98 USD
+    Price: $43.99 USD
   - [Purple / Small](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199529632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/JKcYlzrCLHowq389.webp?v=1768535551
-    Price: $34.57 USD
+    Price: $43.99 USD
   - [Purple / XL](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199562400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/jaR8BjaInuXJnAdm.webp?v=1768535489
-    Price: $38.97 USD
+    Price: $43.99 USD
   - [Purple / Large](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets?variant=53182199595168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/LZHUYiH170J8USXF.webp?v=1768535520
-    Price: $37.21 USD
+    Price: $43.99 USD
+- [CAISANG Dog Skirt Shirts Puppy Dresses for Small Dogs Girls Pet Clothes](https://ellis-store-9903.myshopify.com/products/caisang-dog-skirt-shirts-puppy-dresses-for-small-dogs-girls-pet-clothes-doggy-apparel-comfortable-summer-shirt-beach-wear-clothing-outfits-for-medium-dog-kitty-cats-cotton-tops-pink-xs): T-shirts is selected of premium quality cotton fabric will not hurt dog’s skin. Exquisite workmanship which is create a better quality of life for your puppy dog and cat. Suitable for small and medium pets.The dog clothes are no longer only for keep warm classic and casual style make dogs more attractive.■ Style: Shirts /T-shirtsItem 1：Shirts(Black*1）Item 2：Shirts(Grey *1）Item 3：T-Shirts(Red*1+Blue*1)■ Main Material: Cotton (Shirts) / Polyester (T-Shirts)■ Size: X-Small Small Medium Large X-Large.Note:1. Your baby pets usually wears size S doesnt mean all size S will fit her/him Each manufacturer will have its own different size chart. Pls measuring your dog for choose perfectly fitting clothes.2. If the measurement value of any part is between two sizes please choose larger size.3. Soft and resilient cotton clothes will be size certain error of 0.4~0.7inch after washed!So please kindly double check the size chart on the photo as above to make sure you choose the correct size for your dogs and cats. Thanks!
+  Updated: 2026-01-19T20:49:18Z
+  Vendor: zendrop
+  Product Type: Pet Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/fNboA1zY0yjg95in.webp?v=1768607654
+  Price: $39.99 USD
+- [EXPAWLORER Cat Sweater for Cold Weather - Stylish Knitted Cat Clothes Soft Cat](https://ellis-store-9903.myshopify.com/products/expawlorer-cat-sweater-for-cold-weather-stylish-knitted-cat-clothes-soft-cat-sweatshirt-with-sleeve-warm-clothing-fall-and-winter-pet-clothes-for-all-different-cats-or-puppies-medium-grey): [SIZE M: Neck 11.8" Chest 15.4" Back Length 16.9". Please carefully measure the size of the neck chest and back length of your pet before buying. "SOFT & WARM: Made of super soft fabric soft and breathable long-term wear will not harm the pets skin suitable for Sphynx Cat Devon Rex Cat Cornish Rex Cat Peterbald Cat and other cats. A suitable length should completely wrap your pets back but leave room for free movement of its legs to better achieve the effect of keeping warm." CLASSIC KNITWEAR: Instead of a normal sweater design we use a classic cardigan design with white rib knit binding your cat will stay elegant even in winter it will never go out of style. "EASY TO WEAR: The button closure type ensures the convenience of pulling on and taking off while retaining the classic button elements and will not hinder indoor or outdoor activities. It can also prevent your pets hair from falling onto the sofa or bed to a certain extent keeping your home clean." FASHIONABLE: In addition to being worn for indoor or outdoor activities in daily life it is also suitable for occasions such as holiday parties birthday parties photography etc. Wearing this cat sweater will definitely make your cat the most attractive presence.]
+  Updated: 2026-01-19T20:49:18Z
+  Vendor: zendrop
+  Product Type: Pet Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/ju3IcBPcb10LaZNf.webp?v=1768607677
+  Price: $34.99 USD
+- [Shipping Protection](https://ellis-store-9903.myshopify.com/products/shipping-protection): Shipping Protection
+  Updated: 2026-01-20T01:08:04Z
+  Vendor: Shipping Protection
+  Product Type: Protectify
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/logo.png?v=1768804025
+  - [ZIK0](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155225760)
+    Availability: Available
+    Price: $1.00 USD
+  - [ZIK1](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155258528)
+    Availability: Available
+    Price: $2.01 USD
+  - [ZIK2](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155291296)
+    Availability: Available
+    Price: $3.02 USD
+  - [ZIK3](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155324064)
+    Availability: Available
+    Price: $4.03 USD
+  - [ZIK4](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155356832)
+    Availability: Available
+    Price: $5.04 USD
+  - [ZIK5](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155389600)
+    Availability: Available
+    Price: $6.05 USD
+  - [ZIK6](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155422368)
+    Availability: Available
+    Price: $7.06 USD
+  - [ZIK7](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155455136)
+    Availability: Available
+    Price: $8.07 USD
+  - [ZIK8](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155487904)
+    Availability: Available
+    Price: $9.08 USD
+  - [ZIK9](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155520672)
+    Availability: Available
+    Price: $10.09 USD
+  - [ZIK10](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155553440)
+    Availability: Available
+    Price: $11.10 USD
+  - [ZIK11](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155586208)
+    Availability: Available
+    Price: $12.11 USD
+  - [ZIK12](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155618976)
+    Availability: Available
+    Price: $13.12 USD
+  - [ZIK13](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155651744)
+    Availability: Available
+    Price: $14.13 USD
+  - [ZIK14](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155684512)
+    Availability: Available
+    Price: $15.14 USD
+  - [ZIK15](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155717280)
+    Availability: Available
+    Price: $16.15 USD
+  - [ZIK16](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155750048)
+    Availability: Available
+    Price: $17.16 USD
+  - [ZIK17](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155782816)
+    Availability: Available
+    Price: $18.17 USD
+  - [ZIK18](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155815584)
+    Availability: Available
+    Price: $19.18 USD
+  - [ZIK19](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155848352)
+    Availability: Available
+    Price: $20.19 USD
+  - [ZIK20](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155881120)
+    Availability: Available
+    Price: $21.20 USD
+  - [ZIK21](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155913888)
+    Availability: Available
+    Price: $22.21 USD
+  - [ZIK22](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155946656)
+    Availability: Available
+    Price: $23.22 USD
+  - [ZIK23](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189155979424)
+    Availability: Available
+    Price: $24.23 USD
+  - [ZIK24](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156012192)
+    Availability: Available
+    Price: $25.24 USD
+  - [ZIK25](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156044960)
+    Availability: Available
+    Price: $26.25 USD
+  - [ZIK26](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156077728)
+    Availability: Available
+    Price: $27.26 USD
+  - [ZIK27](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156110496)
+    Availability: Available
+    Price: $28.27 USD
+  - [ZIK28](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156143264)
+    Availability: Available
+    Price: $29.28 USD
+  - [ZIK29](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156176032)
+    Availability: Available
+    Price: $30.29 USD
+  - [ZIK30](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156208800)
+    Availability: Available
+    Price: $31.30 USD
+  - [ZIK31](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156241568)
+    Availability: Available
+    Price: $32.31 USD
+  - [ZIK32](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156274336)
+    Availability: Available
+    Price: $33.32 USD
+  - [ZIK33](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156307104)
+    Availability: Available
+    Price: $34.33 USD
+  - [ZIK34](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156339872)
+    Availability: Available
+    Price: $35.34 USD
+  - [ZIK35](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156372640)
+    Availability: Available
+    Price: $36.35 USD
+  - [ZIK36](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156405408)
+    Availability: Available
+    Price: $37.36 USD
+  - [ZIK37](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156438176)
+    Availability: Available
+    Price: $38.37 USD
+  - [ZIK38](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156470944)
+    Availability: Available
+    Price: $39.38 USD
+  - [ZIK39](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156503712)
+    Availability: Available
+    Price: $40.39 USD
+  - [ZIK40](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156536480)
+    Availability: Available
+    Price: $41.40 USD
+  - [ZIK41](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156569248)
+    Availability: Available
+    Price: $42.41 USD
+  - [ZIK42](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156602016)
+    Availability: Available
+    Price: $43.42 USD
+  - [ZIK43](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156634784)
+    Availability: Available
+    Price: $44.43 USD
+  - [ZIK44](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156667552)
+    Availability: Available
+    Price: $45.44 USD
+  - [ZIK45](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156700320)
+    Availability: Available
+    Price: $46.45 USD
+  - [ZIK46](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156733088)
+    Availability: Available
+    Price: $47.46 USD
+  - [ZIK47](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156765856)
+    Availability: Available
+    Price: $48.47 USD
+  - [ZIK48](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156798624)
+    Availability: Available
+    Price: $49.48 USD
+  - [ZIK49](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156831392)
+    Availability: Available
+    Price: $50.49 USD
 
 ## Collections
 
 - [Home page](https://ellis-store-9903.myshopify.com/collections/frontpage)
-  Updated: 2026-01-06T20:53:55Z
+  Updated: 2026-01-19T20:49:12Z
   Total Products: 0
 - [Pet Supplies](https://ellis-store-9903.myshopify.com/collections/pet-supplies)
-  Updated: 2026-01-16T04:21:15Z
-  Total Products: 28
+  Updated: 2026-01-19T20:49:12Z
+  Total Products: 30
 - [Animals & Pet Supplies](https://ellis-store-9903.myshopify.com/collections/animals-pet-supplies)
-  Updated: 2026-01-12T19:43:30Z
+  Updated: 2026-01-19T20:49:12Z
   Total Products: 8
 - [Baby Safety](https://ellis-store-9903.myshopify.com/collections/baby-safety)
-  Updated: 2026-01-12T17:35:13Z
+  Updated: 2026-01-19T20:49:12Z
   Total Products: 1
 
 ## Store Pages
 
 - [Contact](https://ellis-store-9903.myshopify.com/pages/contact)
   Updated: 2025-12-31T06:39:31Z
-- [Your privacy choices](https://ellis-store-9903.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://ellis-store-9903.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-31T06:39:42Z
 - [About Our Premium Pet Supplies/Ellis Store](https://ellis-store-9903.myshopify.com/pages/about-our-pet-supplies): Welcome to Ellis Store – Premium Pet Essentials for Your Best FriendWe believe your pet deserves the very best. That's why we've curated a thoughtf...
   Updated: 2026-01-05T22:40:19Z
