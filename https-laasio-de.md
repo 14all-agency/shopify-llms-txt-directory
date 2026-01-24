@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2026-01-15T00:00:36.159Z
+- Updated At: 2026-01-24T00:00:40.696Z
 
 ## Products
 
@@ -433,7 +433,7 @@ Graviertes Armband Damen
 Armband mit Emotionen
 Armband Geschichte
 Einzigartiges Armband
-  Updated: 2026-01-10T00:33:28Z
+  Updated: 2026-01-16T13:28:33Z
   Vendor: Laasio
   Product Type: 手链
   Availability: Available
