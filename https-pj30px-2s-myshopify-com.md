@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-06-24T10:07:25Z
 - Contact Email: antonain.heronlenoir@gmail.com
-- Updated At: 2026-01-15T00:00:23.271Z
+- Updated At: 2026-01-24T00:00:35.046Z
 
 ## Products
 
