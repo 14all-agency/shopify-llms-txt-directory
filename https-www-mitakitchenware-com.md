@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2026-01-16T00:00:37.127Z
+- Updated At: 2026-01-24T00:00:40.001Z
 
 ## Products
 
@@ -24,8 +24,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_4aecd580-bd60-4456-95e6-45c20f4f480f.jpg?v=1758281790
   Price: $359.00 AUD
-- [Karaca Tokyo PowerSteel 316 Steel Coffee Pot Cezve Set](https://www.mitakitchenware.com/products/karaca-tokyo-powersteel-316-steel-coffee-pot-cezve-set): Shop the Karaca PowerSteel 316 Turkish Coffee Pot Set. Premium 316 stainless steel for richer flavour, high durability and induction-safe brewing in Australia.
-  Updated: 2026-01-15T10:58:45Z
+- [Karaca Turkish Coffee Pot Set | 316 Stainless Steel Cezve | Mitakitchenware](https://www.mitakitchenware.com/products/karaca-tokyo-powersteel-316-steel-coffee-pot-cezve-set): Brew authentic Turkish coffee with the Karaca 316 stainless steel Turkish coffee pot set (cezve). Induction compatible. Includes 3 sizes and stand. Australia stock.
+  Updated: 2026-01-16T14:25:39Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee Pots
   Availability: Available
@@ -39,12 +39,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/Image_4.jpg?v=1708234705
   Price: $89.00 AUD
 - [Karaca New Everest Cutlery: 84pc Stainless Steel Set](https://www.mitakitchenware.com/products/karaca-everest-silver-84-pieces-boxed-cutlery-set): Elevate your dining experience with the Karaca New Everest cutlery set, featuring 84 pieces of high-quality stainless steel for 12 people.
-  Updated: 2026-01-15T10:58:39Z
+  Updated: 2026-01-20T05:41:27Z
   Vendor: Mita Kitchenware
   Product Type: Cutlery + Servingware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/D56EB7FD-A872-427F-AFFE-C0F05E59DB03.jpg?v=1745759110
-  Price: $799.00 AUD
+  Price: $599.00 AUD
 - [Karaca Heron 60 Pcs Cutlery Set for 12 Persons 18/10 stainless steel](https://www.mitakitchenware.com/products/karaca-heron-60-pcs-cutlery-set-for-12-persons): Discover the Karaca Heron 60 Pcs Cutlery Set for 12 persons. Elevate your dining experience with this stylish and functional cutlery set.
   Updated: 2026-01-15T10:58:34Z
   Vendor: Mita Kitchenware
@@ -74,26 +74,26 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/tivoli-153.02.01.0299-1.jpg?v=1745758702
   Price: $299.00 AUD
 - [Karaca Fine Pearl Azur 62 Pieces Pearl Dinnerware Set](https://www.mitakitchenware.com/products/karaca-fine-pearl-azur-62-pieces-pearl-dinnerware-set-for-12-persons): Elevate your dining experience with Karaca Fine Pearl Dinnerware Set – a 62-piece set perfect for hosting dinners for up to 12 people.
-  Updated: 2026-01-15T09:33:34Z
+  Updated: 2026-01-17T11:25:53Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_04f2ee95-a73b-488f-a651-9921e8a69f23.jpg?v=1745758993
-  Price: $679.00 AUD
+  Price: $770.00 AUD
 - [Karaca Fine Pearl Grace Black 58-Piece Dinner Set | Luxury Tableware](https://www.mitakitchenware.com/products/karaca-fine-pearl-grace-black-58-pieces-pearl-dinnerware-set-for-12-persons): Shop the Karaca Fine Pearl Grace Black 58-Piece Dinnerware Set for 12. Luxury pearl-infused plates with black & gold detailing. Fast delivery Australia-wide.
-  Updated: 2026-01-15T09:33:35Z
+  Updated: 2026-01-17T11:26:51Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_cff4bdfa-4427-4895-8adc-6fc0cf471fc0.jpg?v=1708234991
-  Price: $759.00 AUD
-- [Karaca Fine Pearl Grace Black 62 Pieces Pearl](https://www.mitakitchenware.com/products/karaca-fine-pearl-grace-black-62-pieces-pearl-dinnerware-set-for-12-persons): Elevate your dining experience with Karaca Fine Pearl Grace Black 62 Pieces Pearl Dinnerware Set for 12 Persons. Shop now for elegance and style.
-  Updated: 2026-01-15T09:33:35Z
+  Price: $799.00 AUD
+- [Karaca Fine Pearl Grace Black 62 Piece Dinnerware Set – 12 Persons](https://www.mitakitchenware.com/products/karaca-fine-pearl-grace-black-62-pieces-pearl-dinnerware-set-for-12-persons): Premium Karaca Fine Pearl Grace Black 62-piece porcelain dinnerware set. Real pearl-infused tableware with superior durability and elegant design. Perfect luxury dining set for 12 persons.
+  Updated: 2026-01-22T10:48:24Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/153.03.07.5692-2.jpg?v=1745759405
-  Price: $849.00 AUD
+  Price: $899.00 AUD
 - [Karaca Fine Pearl Dinnerset for 12 People 58 Piece](https://www.mitakitchenware.com/products/karaca-fine-pearl-grace-mint-58-pieces-pearl-dinnerware-set-for-12-persons): Shop the Karaca Fine Pearl Dinnerset for 12 People 58 Piece in Mint Multi online. Perfect for hosting guests or everyday dining.
   Updated: 2026-01-15T09:33:35Z
   Vendor: Mita Kitchenware
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_21e2d6bb-f57d-478c-becd-7c071d35d60e.jpg?v=1745759593
   Price: $829.00 AUD
 - [Karaca Poly 28 Pieces 6 Person Breakfast Set](https://www.mitakitchenware.com/products/karaca-poly-28-pieces-6-person-breakfast-set): Get the Karaca Poly 28 Pieces 6 Person Breakfast Set for your dining table. This versatile set is perfect for serving breakfast in style.
-  Updated: 2026-01-15T10:58:41Z
+  Updated: 2026-01-20T06:16:02Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.07.9371-20.jpg?v=1708236059
   Price: $310.00 AUD
 - [Karaca Otto Platinum 58 Piece Dinnerware Set for 12 People](https://www.mitakitchenware.com/products/karaca-otto-platin-58-pieces-dinnerware-set-for-12-people): Shop now for the Karaca Otto Platinum 58 Piece Dinnerware Set for 12 People. Perfect for elegant dining and entertaining.
-  Updated: 2026-01-15T10:58:40Z
+  Updated: 2026-01-19T06:31:05Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
@@ -179,21 +179,21 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.06.2484-1.jpg?v=1717858570
   Price: $14.95 AUD
 - [Karaca Autumn Glass Set - 6pc Soft Drink Elegance](https://www.mitakitchenware.com/products/karaca-autumn-6-piece-soft-drink-glass): Elevate any gathering with Karaca's 6-Piece Autumn Glass Set. Perfect for drinks, easy clean & dishwasher safe. Embrace the charm!
-  Updated: 2026-01-15T21:16:36Z
+  Updated: 2026-01-16T07:01:48Z
   Vendor: Mita Kitchenware
   Product Type: Glassware
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/image153.03.08.0478-1.png?v=1762855010
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/image153.03.08.0478-1.png?v=1768546899
   Price: $25.00 AUD
 - [Karaca Gold Glass Set 25 Pcs - Elegant Tableware](https://www.mitakitchenware.com/products/karaca-autumn-25-piece-gold-glass-set): Elevate your dining with the Karaca 25pc Gold Glass Set - the ultimate wedding gift. Sophistication meets durability for everyday luxury.
-  Updated: 2026-01-15T09:21:51Z
+  Updated: 2026-01-16T07:01:48Z
   Vendor: Mita Kitchenware
   Product Type: Glassware
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/image153.03.08.0125-1.png?v=1762845939
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/image153.03.08.0125-1.png?v=1768546882
   Price: $249.00 AUD
 - [Karaca Jamie Gold Rim Glass Set 25 Pcs - Elegant Glassware](https://www.mitakitchenware.com/products/karaca-jamie-gold-rim-25-piece-glass-set): Elevate your table with Karaca Jamie Gold Rim 25 Piece Glass Set. Dishwasher-safe & durable, perfect for daily use or special occasions. Shop now!
-  Updated: 2026-01-15T10:58:34Z
+  Updated: 2026-01-20T10:14:34Z
   Vendor: Mita Kitchenware
   Product Type: Glassware
   Availability: Available
@@ -291,11 +291,11 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.07.9774-1.jpg?v=1758282146
   Price: $89.00 AUD
 - [Apricot Vivi Gold Coffee Cups - Set of 6](https://www.mitakitchenware.com/products/apricot-vivi-gold-set-of-6-coffee-cups): Elevate your coffee moments with the Apricot Vivi Gold Coffee Cups set. Turkish design & porcelain elegance for your caffeinated gatherings!
-  Updated: 2026-01-15T09:21:49Z
+  Updated: 2026-01-16T07:01:01Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-8912.webp?v=1737466756
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/IMG-8912.webp?v=1768546848
   Price: $69.00 AUD
 - [Karaca Blue Rosa 12 Pieces 6 Person Tea Set](https://www.mitakitchenware.com/products/karaca-blue-rosa-12-pieces-6-person-tea-set): Set Content 6 Tea Cups 6 Tea Plates Glass Hand washing is recommended. Product features Brand Karaca Model No.
   Updated: 2026-01-15T09:21:52Z
@@ -333,19 +333,19 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image_ed2481ce-9633-4592-9c03-cd904157af4e.jpg?v=1768460377
   Price: $39.95 AUD
 - [Karaca Mesopotamia Small Copper Cezve – Handmade Turkish Coffee Pot (1–2 Cups)](https://www.mitakitchenware.com/products/karaca-mesopotamia-small-size-copper-coffee-pot): Experience authentic Turkish coffee with the Karaca Mesopotamia Small Copper Cezve. Handmade in Turkey for 1–2 cups, with superior heat control and rich köpük foam.
-  Updated: 2026-01-15T08:41:09Z
+  Updated: 2026-01-16T02:14:40Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee Pots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image153.03.08.0060-40.jpg?v=1758282200
   Price: $33.95 AUD
-- [Karaca Osaka 316 Steel Turkish Coffee Set](https://www.mitakitchenware.com/products/karaca-osaka-powersteel-316-steel-coffee-pot-set): Experience elite durability with Karaca Osaka's Turkish coffee cezve set, made from robust 316 steel and enhanced with heat-conductive Molybdenum.
-  Updated: 2026-01-15T10:58:40Z
+- [Karaca Osaka Turkish Coffee Pot Set | 316 Stainless Steel Cezve](https://www.mitakitchenware.com/products/karaca-osaka-turkish-coffee-pot-set): Buy the Karaca Osaka Turkish coffee pot set made from premium 316 stainless steel. Induction compatible cezve set with 3 sizes, perfect for authentic Turkish coffee in Australia.
+  Updated: 2026-01-16T15:13:11Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee Pots
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/image8697918726584-1.jpg?v=1758282205
-  Price: $99.00 AUD
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/44525470-8476-4253-81EF-9D00A01C642E.jpg?v=1768533152
+  Price: $89.00 AUD
 - [Karaca Romeo Pink Porcelain Snack Bowl – 14cm | Mita Kitchenware](https://www.mitakitchenware.com/products/karaca-romeo-pink-snack-bowl): Shop the Karaca Romeo Pink Porcelain Snack Bowl 14cm. Elegant small serving bowl for snacks, desserts & nibbles. Dishwasher safe & crafted in Türkiye.
   Updated: 2026-01-15T10:58:44Z
   Vendor: Mita Kitchenware
@@ -375,19 +375,12 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/IMG_6796.jpg?v=1758282241
   Price: $395.00 AUD
 - [Karaca Akdeniz 24-Piece Porcelain Dinnerware Set – Mediterranean Blue](https://www.mitakitchenware.com/products/karaca-akdeniz-6-person-dinnerware): Karaca Akdeniz 24-piece porcelain dinner set with Mediterranean blue pattern. Premium plates and bowls for 6 people. Elegant, durable, and perfect for everyday dining.
-  Updated: 2026-01-15T09:21:51Z
+  Updated: 2026-01-16T07:01:31Z
   Vendor: Mita Kitchenware
   Product Type: Dinnerware
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/IMG_5921.jpg?v=1708234378
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/IMG_5921.jpg?v=1768546882
   Price: $190.00 AUD
-- [Karaca Fine Pearl Dinner Set for 12 | 58-Piece Luxury Pearl Dinnerware](https://www.mitakitchenware.com/products/karaca-fine-pearl-eternal-58-pieces-pearl-dinnerware-set-for-12-persons): Discover Karaca Fine Pearl Eternal Dinner Set for 12. 58-piece luxury white dinnerware made with real pearls. Patented, award-winning design.
-  Updated: 2026-01-15T09:33:34Z
-  Vendor: Mita Kitchenware
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/61760CDC-3E15-4AD8-89F6-9BEF48022720.jpg?v=1758282256
-  Price: $699.00 AUD
 - [Karaca Hatır Mod Milk Turkish Coffee Machine – Red](https://www.mitakitchenware.com/products/karaca-hatir-mod-milk-turkish-coffee-machine-red): Premium Turkish coffee machine with milk function, anti-overflow sensors, 5-cup capacity, ember-style flavor, and automatic heat control for perfect results.
   Updated: 2026-01-15T09:33:38Z
   Vendor: Mita Kitchenware
@@ -652,7 +645,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/PTN12KTM0007_01.jpg?v=1708238026
   Price: $99.00 AUD
 - [Kütahya Tuana 6pc Coffee Set - PEARL Matt Grey](https://www.mitakitchenware.com/products/kutahya-tuana-coffee-cup-set-for-6-pearl-matt-grey): Elevate your coffee serving with Kütahya Tuana's pearl matt grey Turkish coffee cups. Exquisite design, pure porcelain, made in Turkiye.
-  Updated: 2026-01-15T10:59:00Z
+  Updated: 2026-01-20T09:38:26Z
   Vendor: Mita Kitchenware
   Product Type: Tea and Coffee sets
   Availability: Available
@@ -700,13 +693,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/kuetahya-porcelain-toledo-coffee-set-for-2-gift-box-tea-and-sets-241.webp?v=1741174931
   Price: $69.00 AUD
-- [Kütahya Porcelain Bone Rosa 29-Piece High-Grade Porcelain Dinner Set](https://www.mitakitchenware.com/products/kutahya-porcelain-bone-rosa-29-piece-dinnerware-set-white): Premium 29-piece high-grade porcelain dinnerware set by Kütahya. Award-winning Bone Rosa design. Elegant, durable, and perfect for luxury dining.
-  Updated: 2026-01-15T10:58:50Z
-  Vendor: Mita Kitchenware
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/68149605-7547-45F2-B025-0F28A3A6935F.jpg?v=1726177235
-  Price: $749.00 AUD
 - [Kütahya Porcelain Tavola Puzzle Platter Serving Set](https://www.mitakitchenware.com/products/kutahya-porcelain-tavola-puzzle-plate-set): Elevate dining with the Kütahya Porcelain Tavola Puzzle Platter Set. Perfect for stylish salads, mezzes, and more. High-quality, creative design.
   Updated: 2026-01-12T19:40:31Z
   Vendor: Mita Kitchenware
@@ -904,7 +890,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/8E1867E5-1BDB-410F-BAB2-644562CCF143.jpg?v=1708235258
   Price: $149.00 AUD
 - [Porland Glamorous 8-Piece Turkish Tea Set | Luxury Porcelain](https://www.mitakitchenware.com/products/porland-glamorous-tea-set-8-pcs): Shop the Porland Glamorous 8-Piece Turkish Tea Set. Premium tea glasses and porcelain saucers in vibrant jewel-tone patterns. Fast Australian delivery.
-  Updated: 2025-11-27T08:33:15Z
+  Updated: 2026-01-17T21:57:25Z
   Vendor: Mita Kitchenware
   Product Type: Porland Premium Collection
   Availability: Available
@@ -1037,14 +1023,14 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/B8ADC2B0-A7DB-4805-9F1A-580C82B10BE4.png?v=1762924004
   Price: $90.00 AUD
 - [Mita Kitchenware Classic Turkish Peshtemal Bath Towel – 100% Cotton Hammam | Fast-Drying, Lightweight](https://www.mitakitchenware.com/products/turkish-bath-hamam-towels): Upgrade your beach or bath routine with our 100% Turkish cotton peshtemal towel. Fast-drying, lightweight, sand-resistant, and beautifully woven.
-  Updated: 2026-01-15T09:21:50Z
+  Updated: 2026-01-16T07:01:29Z
   Vendor: Mita Kitchenware
   Product Type: Homewares
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/BFDCFC0A-096C-43B8-9899-4BFB2094B96B.jpg?v=1748304751
+  Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/BFDCFC0A-096C-43B8-9899-4BFB2094B96B.jpg?v=1768546850
   - [Kara Black](https://www.mitakitchenware.com/products/turkish-bath-hamam-towels?variant=45491655999639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/578914AA-C367-4D4E-9A33-093C1D92328F.jpg?v=1758283135
+    Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/files/578914AA-C367-4D4E-9A33-093C1D92328F.jpg?v=1768546853
     Price: $29.00 AUD
   - [Bej](https://www.mitakitchenware.com/products/turkish-bath-hamam-towels?variant=45491656032407)
     Availability: Available
@@ -1107,13 +1093,13 @@
   Updated: 2025-12-09T10:15:36Z
   Total Products: 11
 - [Cutlery + Servingware | Kitchen Utensils & Accessories](https://www.mitakitchenware.com/collections/cutlery-servingware): Explore a wide range of Cutlery + Servingware products for your dining needs. Find the perfect utensils and serving essentials for any occasion.
-  Updated: 2025-12-04T03:58:01Z
+  Updated: 2026-01-19T10:54:07Z
   Total Products: 9
 - [Porcelain Dinner Sets Australia|Karaca & Kũtahya-Mita Kitchenware](https://www.mitakitchenware.com/collections/dinnerware): Shop premium porcelain dinnerware sets in Australia from Karaca & Kütahya Porcelain. Luxury dinner sets, plates & bowls with fast Australian delivery.
-  Updated: 2026-01-12T07:39:16Z
+  Updated: 2026-01-22T10:48:25Z
   Total Products: 46
 - [Glassware | Shop the Best Glassware Online - Wide Selection](https://www.mitakitchenware.com/collections/glassware): Enhance your sipping experience. Explore stylish glassware collections in sets of 6-49 pieces. Shop our classic and contemporary designs today. Free Shipping*
-  Updated: 2025-12-08T22:17:47Z
+  Updated: 2026-01-18T12:16:14Z
   Total Products: 9
 - [Kitchen Appliances- Turkish Coffee Machine](https://www.mitakitchenware.com/collections/kitchen-appliances): Discover a wide range of kitchen appliances to level up your cooking game. Shop Karaca brands and find the perfect Turkish Coffee machines for your home.
   Updated: 2025-12-26T12:43:01Z
@@ -1128,7 +1114,7 @@
   Updated: 2025-04-28T02:26:53Z
   Total Products: 0
 - [Tea and Coffee Pots - Buy Tea and Coffee Pots Online](https://www.mitakitchenware.com/collections/tea-and-coffee-pots): Explore a wide selection of high-quality TurkishTea and Coffee Pots for brewing the perfect cup of tea or coffee. Find the perfect pot for your daily ritual.
-  Updated: 2026-01-15T06:53:11Z
+  Updated: 2026-01-16T03:27:44Z
   Total Products: 9
 - [Homewares | Shop Homewares Online - Home Decor & Furnishings](https://www.mitakitchenware.com/collections/homewares-1): Explore a wide range of Homewares products to enhance your living space. Find everything you need for your home at our Homewares collection.
   Updated: 2025-12-02T04:16:28Z
@@ -1140,10 +1126,10 @@
   Updated: 2025-12-25T09:51:17Z
   Total Products: 14
 - [Archive  | Exclusive Deals on Trendy Items | ](https://www.mitakitchenware.com/collections/archive): Discover the best deals on designer pieces from past seasons at our exclusive ARCHIVE  collection. Shop now and add timeless pieces to your wardrobe.
-  Updated: 2026-01-12T07:39:16Z
-  Total Products: 75
+  Updated: 2026-01-22T10:48:25Z
+  Total Products: 77
 - [Quick Order Collection | Fast & Easy Ordering for Your Needs](https://www.mitakitchenware.com/collections/quick-order-collection): Discover the convenience of Quick Order Collection with our wide range of products available for fast and hassle-free pickup.
-  Updated: 2026-01-15T09:20:08Z
+  Updated: 2026-01-22T10:48:25Z
   Total Products: 198
 - [Mita Coffee Gift Set Collection | Turkish Coffee Cup Gift Box Set](https://www.mitakitchenware.com/collections/premium-mita-gift-set-collection): Enjoy authentic Turkish coffee with the Mita kahve Gift Set for Two-includes 2 Turkish coffee cups, premium coffee, a cezve. Perfect for gifting or sharing!
   Updated: 2025-12-19T21:36:43Z
@@ -1152,10 +1138,10 @@
   Updated: 2026-01-10T22:08:42Z
   Total Products: 15
 - [AVADA - Best Sellers](https://www.mitakitchenware.com/collections/avada-best-sellers)
-  Updated: 2026-01-15T09:20:08Z
+  Updated: 2026-01-22T10:48:25Z
   Total Products: 198
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-15T09:20:08Z
+  Updated: 2026-01-22T10:48:25Z
   Total Products: 198
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-12-19T07:35:13Z
