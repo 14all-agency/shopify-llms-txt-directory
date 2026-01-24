@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-10T05:17:07Z
 - Contact Email: a16604485052@gmail.com
-- Updated At: 2026-01-15T00:00:37.689Z
+- Updated At: 2026-01-24T00:00:40.609Z
 
 ## Products
 
@@ -156,7 +156,7 @@
 
 - [Contact](https://hander-test-store.myshopify.com/pages/contact)
   Updated: 2025-11-10T05:17:10Z
-- [Your privacy choices](https://hander-test-store.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://hander-test-store.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-10T05:17:18Z
 
 ## Policies
