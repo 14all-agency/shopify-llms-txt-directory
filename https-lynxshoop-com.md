@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-28T11:01:38Z
 - Contact Email: eroze2209@gmail.com
-- Updated At: 2026-01-18T00:00:32.081Z
+- Updated At: 2026-01-25T00:00:33.844Z
 
 ## Products
 
