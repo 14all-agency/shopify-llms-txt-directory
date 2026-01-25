@@ -6,12 +6,12 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-01-03T14:26:25Z
 - Contact Email: bamsialp747@gmail.com
-- Updated At: 2026-01-17T10:06:06.222Z
+- Updated At: 2026-01-25T00:00:26.920Z
 
 ## Products
 
 - [Cute Shark Slides: Non-Slip Summer Beach Slippers](https://sharklasshoes-us.myshopify.com/products/new-style-shark-slippers-women-summer-cute-eva-flip-flops-men-non-slip-indoor-outdoor-slides-girls-boys-beach-shoes-sandals)
-  Updated: 2026-01-04T19:36:25Z
+  Updated: 2026-01-24T23:58:25Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sd83e24b1a4ff4e1199e6ffa17dd4327cS.webp?v=1767512179
     Price: €88.00 EUR
 - [Glow-in-the-Dark Shark Slippers | Unisex Platform Summer Slides](https://sharklasshoes-us.myshopify.com/products/cute-shark-slippers-for-women-men-summer-platform-night-glow-in-the-dark-indoor-beach-slides-home-street-wear-diy-accessory)
-  Updated: 2026-01-05T12:20:13Z
+  Updated: 2026-01-20T14:10:45Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -415,7 +415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S64d9795344084644902272ca45dcd9fdX.webp?v=1767541605
     Price: €120.00 EUR
 - [Christmas Shark Slippers with Red Hat | Cute DIY Glow House Shoes](https://sharklasshoes-us.myshopify.com/products/funny-christmas-party-shark-slippers-for-women-men-cute-diy-red-hat-house-shoes-soft-eva-thick-sole-couples-indoor-street-slide)
-  Updated: 2026-01-09T17:06:41Z
+  Updated: 2026-01-24T23:20:14Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -541,7 +541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sebe95f558ede4ccda9159fd7c793465cg.webp?v=1767543111
     Price: €65.00 EUR
 - [Non-Slip Shark Slides | Unisex Summer Outdoor & Bathroom Slippers](https://sharklasshoes-us.myshopify.com/products/summer-slippers-lovely-shark-slides-outdoor-women-shoes-flip-flops-men-couples-cartoon-eva-shoes-bathroom-non-slip-sandals)
-  Updated: 2026-01-05T04:15:31Z
+  Updated: 2026-01-20T14:10:45Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -715,7 +715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sb99e0ac5de42485395f23fbb3d3d1d8f3.webp?v=1767543317
     Price: €70.00 EUR
 - [New Style Shark Slippers | Non-Slip EVA Summer Slides for Men & Women](https://sharklasshoes-us.myshopify.com/products/new-style-shark-slippers-women-summer-cute-eva-flip-flops-men-non-slip-indoor-outdoor-slides-girls-boys-beach-shoes-sandals-1)
-  Updated: 2026-01-05T04:18:11Z
+  Updated: 2026-01-20T14:10:45Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -913,7 +913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sd83e24b1a4ff4e1199e6ffa17dd4327cS_710d9a40-9e37-4783-a3c0-f34264c92426.webp?v=1767543478
     Price: €90.00 EUR
 - [Fluffy Fur Shark Slippers | Kawaii Plush Winter House Shoes for Women](https://sharklasshoes-us.myshopify.com/products/big-mouth-shark-slippers-home-women-fluffy-fur-slides-kawaii-winters-sharks-shoes-ladies-soft-plush-animal-roomy-shoes-1)
-  Updated: 2026-01-05T04:18:08Z
+  Updated: 2026-01-24T23:58:19Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -955,7 +955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S5fc07f6df8324c6c939035fbb6880a74Y_6856a4a5-9510-4e05-84c4-42ee5a877408.webp?v=1767543483
     Price: €105.00 EUR
 - [Glow-in-the-Dark Shark Slippers | 4cm Platform Summer Slides for Men & Women](https://sharklasshoes-us.myshopify.com/products/cute-shark-slippers-for-women-men-summer-platform-night-glow-in-the-dark-indoor-beach-slides-home-street-wear-diy-accessory-1)
-  Updated: 2026-01-05T04:18:21Z
+  Updated: 2026-01-20T14:10:45Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1161,7 +1161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S64d9795344084644902272ca45dcd9fdX_dfe4ea2c-5e2b-4423-8c71-0f3f82e7569f.webp?v=1767543484
     Price: €120.00 EUR
 - [Glow-in-the-Dark Shark Slippers | 4cm Thick Sole Summer Slides](https://sharklasshoes-us.myshopify.com/products/4cm-thick-sole-shark-slippers-for-women-men-indoor-beach-slides-cute-diy-night-glowing-lantern-couples-summer-street-sandals-1)
-  Updated: 2026-01-05T04:18:08Z
+  Updated: 2026-01-20T14:10:45Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1287,7 +1287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sf1951626999b45b1b80d5d5f0ee48ab87_f2ed1a60-06a3-419d-bd02-6397c71880b6.webp?v=1767543479
     Price: €70.00 EUR
 - [Christmas Shark Slippers with Red Hat | Thick Sole DIY House Shoes](https://sharklasshoes-us.myshopify.com/products/funny-christmas-party-shark-slippers-for-women-men-cute-diy-red-hat-house-shoes-soft-eva-thick-sole-couples-indoor-street-slide-1)
-  Updated: 2026-01-09T17:06:42Z
+  Updated: 2026-01-20T14:10:45Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1413,7 +1413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sebe95f558ede4ccda9159fd7c793465cg_b9fa2e38-2af2-4c45-8362-f3cc70eeae01.webp?v=1767543480
     Price: €65.00 EUR
 - [Non-Slip Shark Summer Slides | Unisex Outdoor & Bathroom Slippers](https://sharklasshoes-us.myshopify.com/products/summer-slippers-lovely-shark-slides-outdoor-women-shoes-flip-flops-men-couples-cartoon-eva-shoes-bathroom-non-slip-sandals-1)
-  Updated: 2026-01-09T17:07:39Z
+  Updated: 2026-01-20T14:10:46Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1587,7 +1587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sb99e0ac5de42485395f23fbb3d3d1d8f3_3c30bea9-088b-4933-b009-421377ea9b2a.webp?v=1767543481
     Price: €70.00 EUR
 - [2026 New Strawberry Shark Slippers | Non-Slip Summer Slides for All](https://sharklasshoes-us.myshopify.com/products/2025-new-shark-slippers-women-men-summer-shoes-cute-diy-strawberry-indoor-street-sandals-girls-boys-beach-shower-slides)
-  Updated: 2026-01-09T17:06:39Z
+  Updated: 2026-01-24T23:27:07Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1673,7 +1673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sce2ff0b1e5ea4be3ba3770508dcb9c4aS.webp?v=1767543479
     Price: €65.00 EUR
 - [New Style Shark Slippers | Non-Slip EVA Summer Slides for All](https://sharklasshoes-us.myshopify.com/products/new-style-shark-slippers-women-summer-cute-eva-flip-flops-men-non-slip-indoor-outdoor-slides-girls-boys-beach-shoes-sandals-2)
-  Updated: 2026-01-09T17:07:07Z
+  Updated: 2026-01-20T14:10:46Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1847,7 +1847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S137c5b1fb2a544a28a8573b937e04ca8y.webp?v=1767544888
     Price: €65.00 EUR
 - [2026 New Strawberry Shark Slippers | Non-Slip Summer Slides for All](https://sharklasshoes-us.myshopify.com/products/2025-new-shark-slippers-women-men-summer-shoes-cute-diy-strawberry-indoor-street-sandals-girls-boys-beach-shower-slides-1)
-  Updated: 2026-01-09T17:06:40Z
+  Updated: 2026-01-24T23:41:47Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -1933,7 +1933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S3da51a781d434c009052ebdf71ed6593x_854034ff-f4ce-40ec-9a13-17be4545fa0c.webp?v=1767545205
     Price: €75.00 EUR
 - [Animal Shark & Panda Slides | Non-Slip Cloud Platform Slippers for All](https://sharklasshoes-us.myshopify.com/products/women-shark-slippers-flip-flops-panda-house-cloud-platform-slides-summer-beach-sandals-men-male-ladies-clapper-shoes-cat-female)
-  Updated: 2026-01-09T17:07:25Z
+  Updated: 2026-01-24T23:16:49Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -2139,7 +2139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/Sba2f6b30fbb84ce4a8ac509d586a2ca2j.webp?v=1767545456
     Price: €115.00 EUR
 - [Watermelon Shark Slippers | Non-Slip Thick Sole Summer Slides](https://sharklasshoes-us.myshopify.com/products/shark-watermelon-shark-slippers-for-men-summer-home-fury-thick-sole-soft-sole-anti-slip-eva-cartoon-slippers-for-women-couples)
-  Updated: 2026-01-05T12:29:44Z
+  Updated: 2026-01-24T23:47:04Z
   Vendor: sharklasshoes.us
   Product Type: 
   Availability: Available
@@ -2324,15 +2324,307 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S52389ede453a4c57a9332451aebac0c1f.webp?v=1767545750
     Price: €80.00 EUR
+- [Strawberry Shark Summer Slides](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides)
+  Updated: 2026-01-24T19:04:21Z
+  Vendor: shopify
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S7fda7cd708534e2caf705c63210ced533_cd223521-0f6f-4999-be67-b864cf13f62d.webp?v=1769238220
+  - [Pink / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042680102)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042712870)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042745638)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042778406)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042811174)
+    Availability: Available
+    Price: €60.00 EUR
+  - [meifen / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042843942)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042876710)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042909478)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042942246)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981042975014)
+    Availability: Available
+    Price: €65.00 EUR
+  - [wumailan / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043007782)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043040550)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043073318)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043106086)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043138854)
+    Availability: Available
+    Price: €70.00 EUR
+  - [Purple / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043171622)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043204390)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043237158)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043269926)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides?variant=51981043302694)
+    Availability: Available
+    Price: €75.00 EUR
+- [Strawberry Shark Summer Slides](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1): Free tracked & insured shipping 30 Days Money Back Guarantee Free Returns ""Product review goes here. To edit it hover the text and click on the pencil icon. Add an authentic review and click on Save button."" John Doe Enjoy cool comfort and non-slip safety on hot days with these fun, stylish slides. ✔️ Enhance Style Instantly with Playful Designs ✔️ Increase Safety with Non-Slip Soles Everywhere ✔️ Boost Comfort All Day with Soft Materials ✔️ Keep Feet Cool with Breathable Design in Heat Tired of Slippery Summer Shoes? With non-slip soles, these slides make sure you stay steady and secure even on wet surfaces, making outdoor adventures fun and worry-free. Need a Fun Fashion Boost? The strawberry shark design adds a splash of fun to any outfit, making your summer wardrobe pop with personality and style. .pagepilot-features { display: flex; justify-content: space-between; margin-top: 10px; border-bottom: 1px solid #ececec; padding-bottom: 20px; margin-bottom: 20px; } .pagepilot-features .feature { display: flex; flex-direction: column; text-align: center; flex: 1; font-size: 1rem; } .pagepilot-features .feature .icon { width: 28px; height: 28px; display: block; margin: 0 auto 7px auto; background-size: cover; background-repeat: no-repeat; } .pagepilot-features .feature .icon.truck { background-image: url("data:image/svg+xml,%3Csvg fill='%23000000' height='800px' width='800px' version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 462.522 462.522' xml:space='preserve'%3E%3Cpath d='M432.958,222.262c-1.452-0.305-2.823-0.592-4.042-0.909c-13.821-3.594-20.129-5.564-24.793-14.569l-17.667-35.768 c-5.678-10.961-20.339-19.879-32.682-19.879h-31.453v-41.303c0-7.416-6.034-13.45-13.452-13.45l-219.07,0.22 c-7.218,0-12.661,5.736-12.661,13.343v12.208H21.018C9.429,122.156,0,131.584,0,143.174s9.429,21.018,21.018,21.018h56.119v20.145 H40.394c-11.589,0-21.018,9.429-21.018,21.018s9.429,21.018,21.018,21.018h36.743v20.145H59.77 c-11.589,0-21.018,9.429-21.018,21.018s9.429,21.018,21.018,21.018h17.367v21.07c0,7.416,6.034,13.45,13.45,13.45h22.788 c3.549,24.323,24.542,43.064,49.837,43.064c25.297,0,46.291-18.741,49.841-43.064h92.224c0.479,0,0.97-0.032,1.46-0.064 c3.522,24.354,24.528,43.128,49.845,43.128c25.297,0,46.291-18.741,49.841-43.064h32.732c12.885,0,23.368-10.482,23.368-23.366 v-39.648C462.522,228.465,444.73,224.732,432.958,222.262z M356.582,297.46c10.1,0,18.317,8.214,18.317,18.311 s-8.217,18.311-18.317,18.311c-10.096,0-18.31-8.214-18.31-18.311S346.486,297.46,356.582,297.46z M322.321,219.414v-48.77h24.036 c9.238,0,20.634,6.932,24.864,15.094l15.721,31.829c0.333,0.644,0.679,1.258,1.038,1.846H322.321z M181.529,315.77 c0,10.096-8.217,18.311-18.317,18.311c-10.096,0-18.309-8.214-18.309-18.311s8.213-18.311,18.309-18.311 C173.312,297.46,181.529,305.674,181.529,315.77z'/%3E%3C/svg%3E"); } .pagepilot-features .feature .icon.return { background-image: url("data:image/svg+xml,%3Csvg width='800px' height='800px' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20.5 7.27783L12 12.0001M12 12.0001L3.49997 7.27783M12 12.0001L12 21.5001M14 20.889L12.777 21.5684C12.4934 21.726 12.3516 21.8047 12.2015 21.8356C12.0685 21.863 11.9315 21.863 11.7986 21.8356C11.6484 21.8047 11.5066 21.726 11.223 21.5684L3.82297 17.4573C3.52346 17.2909 3.37368 17.2077 3.26463 17.0893C3.16816 16.9847 3.09515 16.8606 3.05048 16.7254C3 16.5726 3 16.4013 3 16.0586V7.94153C3 7.59889 3 7.42757 3.05048 7.27477C3.09515 7.13959 3.16816 7.01551 3.26463 6.91082C3.37368 6.79248 3.52345 6.70928 3.82297 6.54288L11.223 2.43177C11.5066 2.27421 11.6484 2.19543 11.7986 2.16454C11.9315 2.13721 12.0685 2.13721 12.2015 2.16454C12.3516 2.19543 12.4934 2.27421 12.777 2.43177L20.177 6.54288C20.4766 6.70928 20.6263 6.79248 20.7354 6.91082C20.8318 7.01551 20.9049 7.13959 20.9495 7.27477C21 7.42757 21 7.59889 21 7.94153L21 12.5001M7.5 4.50008L16.5 9.50008M16 18.0001L18 20.0001L22 16.0001' stroke='%23000000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); } .pagepilot-features .feature .icon.guarantee { background-image: url("data:image/svg+xml,%3Csvg fill='%23000000' width='800px' height='800px' viewBox='0 0 52 52' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M26,2c3,0,5.43,3.29,8.09,4.42s6.82.51,8.84,2.65,1.51,6.07,2.65,8.84S50,23,50,26s-3.29,5.43-4.42,8.09-.51,6.82-2.65,8.84-6.07,1.53-8.84,2.65S29,50,26,50s-5.43-3.29-8.09-4.42-6.82-.51-8.84-2.65-1.53-6.07-2.65-8.84S2,29,2,26s3.29-5.43,4.42-8.09.51-6.82,2.65-8.84,6.07-1.53,8.84-2.65S23,2,26,2Zm0,7.58A16.42,16.42,0,1,0,42.42,26h0A16.47,16.47,0,0,0,26,9.58Zm7.62,9.15,1.61,1.52a1.25,1.25,0,0,1,0,1.51L25.08,33.07a2.07,2.07,0,0,1-1.61.7,2.23,2.23,0,0,1-1.61-.7L16.37,27.6a1,1,0,0,1-.1-1.42l.1-.11L18,24.56a1.1,1.1,0,0,1,1.54-.07l.07.07,3.89,4,8.59-9.8A1.1,1.1,0,0,1,33.62,18.73Z'/%3E%3C/svg%3E"); } @media only screen and (max-width: 290px) { .pagepilot-features { flex-direction: column; gap: 18px; } } .pagepilot-featuredReview { display: flex; align-items: center; gap: 20px; border-bottom: 1px solid #ececec; padding-bottom: 10px; } .pagepilot-featuredReview .reviewImg { width: 75px; height: 75px; border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; } .pagepilot-featuredReview .content { display: flex; flex-direction: column; gap: 8px; } .pagepilot-featuredReview .content .stars { display: flex; gap: 2px; } .pagepilot-featuredReview .content .star { width: 11px; height: 11px; display: block; background-image: url("data:image/svg+xml,%3Csvg version='1.0' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='800px' height='800px' viewBox='0 0 64 64' enable-background='new 0 0 64 64' xml:space='preserve'%3E%3Cpath fill='%23fbbc02' d='M62.799,23.737c-0.47-1.399-1.681-2.419-3.139-2.642l-16.969-2.593L35.069,2.265 C34.419,0.881,33.03,0,31.504,0c-1.527,0-2.915,0.881-3.565,2.265l-7.623,16.238L3.347,21.096c-1.458,0.223-2.669,1.242-3.138,2.642 c-0.469,1.4-0.115,2.942,0.916,4l12.392,12.707l-2.935,17.977c-0.242,1.488,0.389,2.984,1.62,3.854 c1.23,0.87,2.854,0.958,4.177,0.228l15.126-8.365l15.126,8.365c0.597,0.33,1.254,0.492,1.908,0.492c0.796,0,1.592-0.242,2.269-0.72 c1.231-0.869,1.861-2.365,1.619-3.854l-2.935-17.977l12.393-12.707C62.914,26.68,63.268,25.138,62.799,23.737z'/%3E%3C/svg%3E"); background-size: cover; background-repeat: no-repeat; } .pagepilot-featuredReview .content .review { font-size: 15px; letter-spacing: 0; line-height: 18px; text-align: left; margin-bottom: -2px; margin-top: 3px; } .pagepilot-featuredReview .content .author { display: flex; gap: 5px; align-items: center; font-size: 15px; font-weight: 600; font-style: italic; } .pagepilot-featuredReview .content .author . { width: 16px; height: 16px; display: block; background-image: url("data:image/svg+xml,%3Csvg width='800px' height='800px' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M9.5924 3.20027C9.34888 3.4078 9.22711 3.51158 9.09706 3.59874C8.79896 3.79854 8.46417 3.93721 8.1121 4.00672C7.95851 4.03705 7.79903 4.04977 7.48008 4.07522C6.6787 4.13918 6.278 4.17115 5.94371 4.28923C5.17051 4.56233 4.56233 5.17051 4.28923 5.94371C4.17115 6.278 4.13918 6.6787 4.07522 7.48008C4.04977 7.79903 4.03705 7.95851 4.00672 8.1121C3.93721 8.46417 3.79854 8.79896 3.59874 9.09706C3.51158 9.22711 3.40781 9.34887 3.20027 9.5924C2.67883 10.2043 2.4181 10.5102 2.26522 10.8301C1.91159 11.57 1.91159 12.43 2.26522 13.1699C2.41811 13.4898 2.67883 13.7957 3.20027 14.4076C3.40778 14.6511 3.51158 14.7729 3.59874 14.9029C3.79854 15.201 3.93721 15.5358 4.00672 15.8879C4.03705 16.0415 4.04977 16.201 4.07522 16.5199C4.13918 17.3213 4.17115 17.722 4.28923 18.0563C4.56233 18.8295 5.17051 19.4377 5.94371 19.7108C6.278 19.8288 6.6787 19.8608 7.48008 19.9248C7.79903 19.9502 7.95851 19.963 8.1121 19.9933C8.46417 20.0628 8.79896 20.2015 9.09706 20.4013C9.22711 20.4884 9.34887 20.5922 9.5924 20.7997C10.2043 21.3212 10.5102 21.5819 10.8301 21.7348C11.57 22.0884 12.43 22.0884 13.1699 21.7348C13.4898 21.5819 13.7957 21.3212 14.4076 20.7997C14.6511 20.5922 14.7729 20.4884 14.9029 20.4013C15.201 20.2015 15.5358 20.0628 15.8879 19.9933C16.0415 19.963 16.201 19.9502 16.5199 19.9248C17.3213 19.8608 17.722 19.8288 18.0563 19.7108C18.8295 19.4377 19.4377 18.8295 19.7108 18.0563C19.8288 17.722 19.8608 17.3213 19.9248 16.5199C19.9502 16.201 19.963 16.0415 19.9933 15.8879C20.0628 15.5358 20.2015 15.201 20.4013 14.9029C20.4884 14.7729 20.5922 14.6511 20.7997 14.4076C21.3212 13.7957 21.5819 13.4898 21.7348 13.1699C22.0884 12.43 22.0884 11.57 21.7348 10.8301C21.5819 10.5102 21.3212 10.2043 20.7997 9.5924C20.5922 9.34887 20.4884 9.22711 20.4013 9.09706C20.2015 8.79896 20.0628 8.46417 19.9933 8.1121C19.963 7.95851 19.9502 7.79903 19.9248 7.48008C19.8608 6.6787 19.8288 6.278 19.7108 5.94371C19.4377 5.17051 18.8295 4.56233 18.0563 4.28923C17.722 4.17115 17.3213 4.13918 16.5199 4.07522C16.201 4.04977 16.0415 4.03705 15.8879 4.00672C15.5358 3.93721 15.201 3.79854 14.9029 3.59874C14.7729 3.51158 14.6511 3.40781 14.4076 3.20027C13.7957 2.67883 13.4898 2.41811 13.1699 2.26522C12.43 1.91159 11.57 1.91159 10.8301 2.26522C10.5102 2.4181 10.2043 2.67883 9.5924 3.20027ZM16.3735 9.86314C16.6913 9.5453 16.6913 9.03 16.3735 8.71216C16.0557 8.39433 15.5403 8.39433 15.2225 8.71216L10.3723 13.5624L8.77746 11.9676C8.45963 11.6498 7.94432 11.6498 7.62649 11.9676C7.30866 12.2854 7.30866 12.8007 7.62649 13.1186L9.79678 15.2889C10.1146 15.6067 10.6299 15.6067 10.9478 15.2889L16.3735 9.86314Z' fill='%232C95E9'/%3E%3C/svg%3E"); background-size: cover; background-repeat: no-repeat; } @media only screen and (max-width: 290px) { .pagepilot-featuredReview { flex-direction: column; } .pagepilot-featuredReview .content .stars, .pagepilot-featuredReview .content .author { justify-content: center; } .pagepilot-featuredReview .content .review { text-align: center; } }
+  Updated: 2026-01-24T23:53:15Z
+  Vendor: shopify
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S7fda7cd708534e2caf705c63210ced533_5eaf906b-4dec-47b6-94e2-fa4ad565d08c.webp?v=1769238702
+  - [Pink / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253050662)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253083430)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253116198)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253148966)
+    Availability: Available
+    Price: €60.00 EUR
+  - [Pink / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253181734)
+    Availability: Available
+    Price: €60.00 EUR
+  - [meifen / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253214502)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253247270)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253280038)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253312806)
+    Availability: Available
+    Price: €65.00 EUR
+  - [meifen / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253345574)
+    Availability: Available
+    Price: €65.00 EUR
+  - [wumailan / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253378342)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253411110)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253443878)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253476646)
+    Availability: Available
+    Price: €70.00 EUR
+  - [wumailan / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253509414)
+    Availability: Available
+    Price: €70.00 EUR
+  - [Purple / EU40-41](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253542182)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU38-39](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253574950)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU44-45](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253607718)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU42-43](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253640486)
+    Availability: Available
+    Price: €75.00 EUR
+  - [Purple / EU36-37](https://sharklasshoes-us.myshopify.com/products/strawberry-shark-summer-slides-1?variant=51981253673254)
+    Availability: Available
+    Price: €75.00 EUR
+- [Cozy Animal Cloud Slides](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides)
+  Updated: 2026-01-24T23:01:19Z
+  Vendor: shopify
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/S6a7c1c73011f4075bad63371d3b4f86ca_ccb1b41e-9316-44ad-95f8-605203286cc2.webp?v=1769295619
+  - [2 light green / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666795302)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 light green / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666828070)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 light green / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666860838)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 light green / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666893606)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 light green / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666926374)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 green / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666959142)
+    Availability: Available
+    Price: €65.00 EUR
+  - [2 green / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994666991910)
+    Availability: Available
+    Price: €65.00 EUR
+  - [2 green / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667024678)
+    Availability: Available
+    Price: €65.00 EUR
+  - [2 green / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667057446)
+    Availability: Available
+    Price: €65.00 EUR
+  - [2 green / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667090214)
+    Availability: Available
+    Price: €65.00 EUR
+  - [4 Black handle / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667122982)
+    Availability: Available
+    Price: €70.00 EUR
+  - [4 Black handle / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667155750)
+    Availability: Available
+    Price: €70.00 EUR
+  - [4 Black handle / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667188518)
+    Availability: Available
+    Price: €70.00 EUR
+  - [4 Black handle / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667221286)
+    Availability: Available
+    Price: €70.00 EUR
+  - [4 Black handle / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667254054)
+    Availability: Available
+    Price: €70.00 EUR
+  - [2 violet / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667286822)
+    Availability: Available
+    Price: €75.00 EUR
+  - [2 violet / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667319590)
+    Availability: Available
+    Price: €75.00 EUR
+  - [2 violet / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667352358)
+    Availability: Available
+    Price: €75.00 EUR
+  - [2 violet / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667385126)
+    Availability: Available
+    Price: €75.00 EUR
+  - [2 violet / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667417894)
+    Availability: Available
+    Price: €75.00 EUR
+  - [4 yellow TAXI / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667450662)
+    Availability: Available
+    Price: €80.00 EUR
+  - [4 yellow TAXI / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667483430)
+    Availability: Available
+    Price: €80.00 EUR
+  - [4 yellow TAXI / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667516198)
+    Availability: Available
+    Price: €80.00 EUR
+  - [4 yellow TAXI / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667548966)
+    Availability: Available
+    Price: €80.00 EUR
+  - [4 yellow TAXI / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667581734)
+    Availability: Available
+    Price: €80.00 EUR
+  - [2 powder / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667614502)
+    Availability: Available
+    Price: €85.00 EUR
+  - [2 powder / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667647270)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 powder / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667680038)
+    Availability: Available
+    Price: €60.00 EUR
+  - [2 powder / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667712806)
+    Availability: Available
+    Price: €85.00 EUR
+  - [2 powder / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667745574)
+    Availability: Available
+    Price: €85.00 EUR
+  - [3 Polka dot white / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667778342)
+    Availability: Available
+    Price: €60.00 EUR
+  - [3 Polka dot white / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667811110)
+    Availability: Available
+    Price: €90.00 EUR
+  - [3 Polka dot white / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667843878)
+    Availability: Available
+    Price: €90.00 EUR
+  - [3 Polka dot white / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667876646)
+    Availability: Available
+    Price: €90.00 EUR
+  - [3 Polka dot white / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667909414)
+    Availability: Available
+    Price: €90.00 EUR
+  - [3 Polka dot yellow / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667942182)
+    Availability: Available
+    Price: €95.00 EUR
+  - [3 Polka dot yellow / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994667974950)
+    Availability: Available
+    Price: €95.00 EUR
+  - [3 Polka dot yellow / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668007718)
+    Availability: Available
+    Price: €95.00 EUR
+  - [3 Polka dot yellow / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668040486)
+    Availability: Available
+    Price: €95.00 EUR
+  - [3 Polka dot yellow / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668073254)
+    Availability: Available
+    Price: €95.00 EUR
+  - [2 blue / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668106022)
+    Availability: Available
+    Price: €100.00 EUR
+  - [2 blue / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668138790)
+    Availability: Available
+    Price: €100.00 EUR
+  - [2 blue / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668171558)
+    Availability: Available
+    Price: €100.00 EUR
+  - [2 blue / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668204326)
+    Availability: Available
+    Price: €100.00 EUR
+  - [2 blue / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668237094)
+    Availability: Available
+    Price: €100.00 EUR
+  - [4 Blue ice cream / 44-45](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668269862)
+    Availability: Available
+    Price: €105.00 EUR
+  - [4 Blue ice cream / 36-37](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668302630)
+    Availability: Available
+    Price: €60.00 EUR
+  - [4 Blue ice cream / 38-39](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668335398)
+    Availability: Available
+    Price: €105.00 EUR
+  - [4 Blue ice cream / 42-43](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668368166)
+    Availability: Available
+    Price: €105.00 EUR
+  - [4 Blue ice cream / 40-41](https://sharklasshoes-us.myshopify.com/products/cozy-animal-cloud-slides?variant=51994668400934)
+    Availability: Available
+    Price: €105.00 EUR
+- [Shipping Protection](https://sharklasshoes-us.myshopify.com/products/shipping-protection): Protect your order from loss, theft, or damage
+  Updated: 2026-01-24T23:06:29Z
+  Vendor: sharklasshoes.us
+  Product Type: Atlas - Shipping Protection
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0994/1775/1846/files/shield.png?v=1769295984
+  Price: €2.99 EUR
 
 ## Collections
 
 - [Home page](https://sharklasshoes-us.myshopify.com/collections/frontpage)
-  Updated: 2026-01-04T08:03:19Z
+  Updated: 2026-01-20T14:10:44Z
   Total Products: 1
-- [Sharklas Shoes](https://sharklasshoes-us.myshopify.com/collections/sharklas-shoes)
-  Updated: 2026-01-06T11:01:00Z
-  Total Products: 15
 
 ## Store Pages
 
