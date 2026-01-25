@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-02T14:28:00Z
 - Contact Email: andpor63@gmail.com
-- Updated At: 2026-01-16T00:00:40.840Z
+- Updated At: 2026-01-25T00:00:42.626Z
 
 ## Products
 
@@ -5226,7 +5226,7 @@
 
 - [Contact](https://morningnook.com/pages/contact)
   Updated: 2025-10-02T14:28:03Z
-- [Your privacy choices](https://morningnook.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://morningnook.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-10-02T14:28:11Z
 - [Our Mission](https://morningnook.com/pages/our-mission): Our mission is to empower cancer struggling families by dedicating a portion of every coffee purchase directly to providing them with the resources...
   Updated: 2025-10-24T18:29:45Z
