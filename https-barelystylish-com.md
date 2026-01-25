@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-02-12T13:57:24Z
 - Contact Email: info@barelystylish.com
-- Updated At: 2026-01-18T00:00:36.156Z
+- Updated At: 2026-01-25T00:00:38.229Z
 
 BarelyStylish® — Minimal Style. Maximum Impact.
 
@@ -92,7 +92,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/IMG_0686_938d2fd0-34cd-45b0-a5b7-209db695789e.jpg?v=1739427209
     Price: ₹699.00 INR
 - [Premium cotton blend Polo T-Shirts](https://barelystylish.com/products/premium-cotton-blend-polo-t-shirts): Experience the ultimate comfort and style with our Premium Cotton Blend Polo T-Shirts. Made from a light blue cotton blend, these shirts offer a soft and breathable fabric that keeps you feeling cool and looking sharp. Elevate your wardrobe with this versatile and high-quality staple piece.
-  Updated: 2026-01-15T13:37:41Z
+  Updated: 2026-01-22T10:38:56Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -118,7 +118,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/IMG_0656_84320073-f087-4293-aa6a-482c5aca0e72.jpg?v=1739428314
     Price: ₹699.00 INR
 - [Flame Red Cotton blend Polo T-Shirt](https://barelystylish.com/products/flame-red-cotton-blend-polo-t-shirt): Elevate your wardrobe with our Flame Red Cotton blend Polo T-Shirt. Made with a blend of cotton, this shirt offers both comfort and style. The bright red color is perfect for adding a pop of color to any outfit. Our expertly crafted design makes this a must-have for any fashion-forward individual.
-  Updated: 2026-01-15T13:37:41Z
+  Updated: 2026-01-22T10:40:18Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/IMG_0634_1bb7d571-8aa2-4d3f-a827-700689a2ea45.jpg?v=1739428684
     Price: ₹499.00 INR
 - [Cotton blend Green Polo T-Shirt](https://barelystylish.com/products/cotton-blend-green-polo-t-shirt): Introducing our Cotton blend Green Polo T-Shirt, made with a high-quality cotton blend material for ultimate comfort and durability. Crafted with precision, this timeless piece effortlessly combines style and functionality, making it a must-have in every wardrobe. Upgrade your look with this versatile and breathable Polo T-Shirt.
-  Updated: 2026-01-15T13:37:43Z
+  Updated: 2026-01-22T10:38:26Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -1787,7 +1787,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/Imageofamodelwearingdarkgreencolortracksuitformen.capturedetailsofupperstitchingandpockets.jpg?v=1742490458
     Price: ₹3,899.00 INR
 - [BarelyStylish Men’s Tracksuit | Dark Lilac | Trendy & Comfortable for Workouts & Travel](https://barelystylish.com/products/barelystylish-men-s-tracksuit-trendy-comfortable-for-workouts-travel): Stay effortlessly stylish and comfortable with our premium men's tracksuit, designed for modern men who are always on the move. This tracksuit blends athleisure and business travel wear to keep you looking sharp while feeling at ease. Key Features: ✅ Ultra-Soft & Breathable Fabric – Made from high-quality, lightweight material that offers all-day comfort.✅ Travel-Ready Design – Wrinkle-resistant and stretchable, perfect for long flights or daily commutes.✅ Sweat-Wicking & Quick-Dry – Keeps you fresh and dry, no matter the activity.✅ Modern Fit & Tailored Look – A sleek, contemporary design that flatters all body types.✅ Versatile for Any Occasion – Ideal for airport travel, casual outings, workouts, and lounging.✅ Zippered Pockets – Securely store essentials like your phone, wallet, or passport.✅ Premium Stitching & Durability – Built to last, wash after wash.
-  Updated: 2026-01-15T13:37:41Z
+  Updated: 2026-01-19T05:40:11Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -2375,7 +2375,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/20250328_2021_CafeChatStyle_simple_compose_01jqekssyvfns84fwpvsc65rr4.png?v=1743334362
     Price: ₹499.00 INR
 - [Cotton Blend Light Magenta Crew neck T-shirt](https://barelystylish.com/products/cotton-blend-mustard-crew-neck-t-shirt-copy): This Light Magenta T-shirt is a playful addition to any wardrobe. Made with a soft cotton blend, it'll keep you comfortable all day. Perfect for casual outings or lounging around the house. Go ahead, add some zest to your style with this quirky T-shirt!
-  Updated: 2026-01-15T13:37:47Z
+  Updated: 2026-01-20T08:07:21Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -4166,7 +4166,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/17.png?v=1744035735
     Price: ₹999.00 INR
 - [Men's Premium Cotton Vanilla Cream Polo – Bright Colors with Contrast Tipped Collar](https://barelystylish.com/products/mens-premium-cotton-vanilla-cream-polo-bright-colors-with-contrast-tipped-collar): Upgrade your everyday style with our Men's Premium Cotton Polo T-Shirt, crafted from high-quality breathable cotton for unmatched comfort and durability. Designed in bold, bright colors to make a statement, this polo features a stylish contrast-tipped collar and cuffs, adding a modern edge to a timeless classic. Ideal for casual outings, semi-formal occasions, or weekend getaways, this versatile polo tee is a must-have in every man’s wardrobe. Key Features:✔ 100% Premium Quality Cotton – Soft, breathable, and gentle on skin✔ Bright & Vibrant Colors – Adds a pop of personality to any look✔ Contrast Tipped Collar & Sleeves – Modern detailing for a stylish twist✔ Regular Fit – Comfortable yet flattering silhouette✔ Durable Stitching – Made to last through everyday wear✔ Versatile Styling – Perfect for casual, smart-casual, or semi-formal outfits
-  Updated: 2026-01-15T13:37:43Z
+  Updated: 2026-01-22T03:48:38Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -5348,7 +5348,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/Anultrarealistic_shotfromleftsideofmodel_imageofyoungwomanwearingskintightleggingscolorcodeSageMist_B2B8A3_madeupofCotton_90_Spandex_10_mix.midwaist.Imagemustappearasapart.jpg?v=1746530976
     Price: ₹799.00 INR
 - [Premium Cotton Crew Neck T-Shirt | Minimalist Casual Wear for Everyday Comfort](https://barelystylish.com/products/premium-cotton-crew-neck-t-shirt-minimalist-casual-wear-for-everyday-comfort-7): Level up your wardrobe basics with our premium crew neck t-shirt, crafted from a soft, breathable cotton blend that keeps you feeling fresh all day. Featuring a timeless silhouette, this tee combines comfort and minimalism, making it the ultimate go-to for work, weekend, or travel. Fabric: 100% Cotton / Cotton-Polyester Blend (varies by color) Neckline: Classic crew neck for a versatile and clean look Fit: Regular fit with structured shoulders Design: Solid colors with minimalist detailing, no loud logos Style It With: Denims, joggers, shorts, or under a blazer for a smart-casual twist Occasion: Ideal for office casuals, airport looks, and daily wear
-  Updated: 2026-01-15T13:37:50Z
+  Updated: 2026-01-21T23:28:51Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -5452,7 +5452,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/Ultra-realistic_high-resolutionimageofawoman_fromwaisttotipoftheleg_wearingelegantcolorcodeCrimsonRed__DC143Cleggings.Thebottomendoftheleggings_ishavingdelicatesamecolorlacetrim_2.jpg?v=1746700149
     Price: ₹799.00 INR
 - [Premium High-Waist Stretchable Leggings for Women – All-Day Comfort & Flattering Fit](https://barelystylish.com/products/premium-high-waist-stretchable-leggings-for-women-all-day-comfort-flattering-fit-copy): Step into effortless style and unmatched comfort with our Premium High-Waist Leggings for Women. Crafted with a perfect blend of cotton and spandex, these leggings offer a buttery-soft touch, excellent breathability, and a 4-way stretch that adapts to your body for a flawless fit. ✅ Ultra-Soft Fabric: Made of breathable cotton-spandex blend for a skin feel ✅ High-Waist Support: Tummy-control waistband enhances your natural silhouette ✅ 4-Way Stretch: Perfect for yoga, workouts, lounging, or casual wear ✅ No Transparency: Squat-proof & confidence-boosting in every move ✅ Multiple Color Options: Available in versatile shades to match every outfit
-  Updated: 2026-01-15T13:37:52Z
+  Updated: 2026-01-20T03:31:31Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -6273,7 +6273,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/20250512_2316_WomaninRelaxedMode_remix_01jv2sm060ev0twn065jpzw8xb.png?v=1747072178
     Price: ₹685.00 INR
 - [Women's Premium Cotton Relaxed Fit T-Shirt | BarelyStylish](https://barelystylish.com/products/womens-premium-cotton-relaxed-fit-t-shirt-barelystylish-10): Step into elevated comfort and minimal street-style with our BarelyStylish Comfort Fit Regular T-Shirt — your new go-to essential for every mood and moment. Crafted from a heavyweight, breathable cotton blend (220 GSM), this drop-shoulder T-shirt offers a relaxed drape, roomy fit, and buttery-soft feel against the skin. Its clean silhouette, rolled sleeves, and subtle design details make it a versatile piece you can dress up or down — from city strolls to cozy home days. Whether you're layering it over joggers, pairing it with denims, or styling it solo, this oversized tee delivers effortless impact without compromising comfort. Rooted in modern Indian style and comfort-first fashion, this is where everyday ease meets bold expression. Fabric & Care: Material: 220 GSM Cotton Blend Wash Care: Machine wash cold, tumble dry low, do not bleach Fabric: Soft-touch breathable cotton blend (90% Cotton) Fit: Relaxed, oversized silhouette for all-day comfort Design: Minimalist aesthetic with subtle logo embroidery Ideal For: Airport looks, casual hangouts, travel days, or work-from-home Available Sizes: XS to XXL | Multiple colors available
-  Updated: 2026-01-15T13:38:12Z
+  Updated: 2026-01-20T09:23:42Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -6397,7 +6397,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/20250602_1250_Dreamy_Athleisure_Moment_remix_01jwqr4fqjfb7s4zg3g1pmm40h.png?v=1749794010
     Price: ₹499.00 INR
 - [BarelyStylish Men's Classic Crew Neck 1857 T-Shirt](https://barelystylish.com/products/mens-classic-crew-neck-1857-t-shirt): BarelyStylish Men's Classic Crew Neck 1857 T-Shirt. Ideal for Summer. Goes good with denim or joggers. Proudly Made in India.
-  Updated: 2026-01-15T13:37:53Z
+  Updated: 2026-01-21T11:16:12Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -6655,11 +6655,11 @@ Classic fundamentals—executed with modern precision.
 ## Collections
 
 - [Polo T-Shirts | Premium Officewear, Casuals & Travel Wear for Men](https://barelystylish.com/collections/polo-t-shirts): Polo T-Shirts – minimal style, maximum impact. Perfect for office, college & travel. Premium fabrics, modern fits, India’s smart casual choice. Shop now at BarelyStylish.com
-  Updated: 2026-01-15T12:55:06Z
+  Updated: 2026-01-22T12:17:31Z
   Total Products: 40
 - [Round Neck T-Shirts | Casual & Travel Essentials](https://barelystylish.com/collections/bright-crew-neck-tees): Shop BarelyStylish Round Neck T-Shirts – soft, stylish & versatile. Perfect for college, office casuals & travel. Minimal style, maximum impact every day.
-  Updated: 2026-01-17T13:01:42Z
-  Total Products: 76
+  Updated: 2026-01-21T06:08:09Z
+  Total Products: 77
 - [Premium Winterwear Collection for Men and Women](https://barelystylish.com/collections/winterwear-for-men-and-women): Stay warm and cosy with BarelyStylish Winterwear 2025 collection of Hoodies, Sweatshirts, Pullovers and Jackets.
   Updated: 2026-01-14T13:48:04Z
   Total Products: 51
@@ -6673,8 +6673,8 @@ Classic fundamentals—executed with modern precision.
   Updated: 2026-01-14T13:48:04Z
   Total Products: 16
 - [BarelyStylish Men’s Topwear Collection | Polos, Crewnecks, Hoodies & Tees](https://barelystylish.com/collections/mens-topwear): Shop BarelyStylish Men’s Collection – polos, round neck tees, hoodies, sweatshirts & more. Premium fits for office, college & travel. Minimal style, maximum impact.
-  Updated: 2026-01-15T11:35:00Z
-  Total Products: 106
+  Updated: 2026-01-21T06:08:09Z
+  Total Products: 107
 - [BarelyStylish Women's Topwear | Trendy T Shirts, Hoodies, Sweatshirts](https://barelystylish.com/collections/womens-topwear-tshirts-hoodies-sweatshirts): Discover top rated, bestseller outfits, loved by customers online. Shop BarelyStylish’s most trusted hoodies, sweatshirts, t shirts and travel dress for women.
   Updated: 2026-01-14T13:48:05Z
   Total Products: 96
@@ -6685,10 +6685,10 @@ Classic fundamentals—executed with modern precision.
   Updated: 2026-01-14T13:48:05Z
   Total Products: 32
 - [New Arrivals | Latest Fashion Trends Online](https://barelystylish.com/collections/new-arrivals): Shop the latest arrivals at BarelyStylish! Trendy athleisure & travel wear designed for comfort, style, and versatility. Stay ahead in fashion! 🚀
-  Updated: 2026-01-17T13:01:43Z
+  Updated: 2026-01-19T12:16:46Z
   Total Products: 63
 - [BarelyStylish Men’s Tracksuit | Trendy & Comfortable for Workouts & Travel](https://barelystylish.com/collections/track-suits-for-men): Stay effortlessly stylish and comfortable with our premium men's tracksuit, designed for modern men; tracksuit blends athleisure and business travel wear.
-  Updated: 2026-01-14T13:48:05Z
+  Updated: 2026-01-19T12:16:46Z
   Total Products: 6
 - [BarelyStylish Women’s T-Shirts | Casual, Travel & Everyday Wear](https://barelystylish.com/collections/cotton-tees-for-women): Discover BarelyStylish Women’s T-Shirts – soft, stylish & versatile. Perfect for office, college & travel looks. Minimal style, maximum impact for modern women.
   Updated: 2026-01-14T13:48:05Z
@@ -6703,8 +6703,8 @@ Classic fundamentals—executed with modern precision.
   Updated: 2026-01-14T13:48:05Z
   Total Products: 24
 - [Summer Polo - Combo Offer](https://barelystylish.com/collections/summer-polo-combo-offer): Save more with BarelyStylish Shopping Combo Offers – curated combos of tees, polos, leggings etc. Perfect mix of style & value. Minimal style, maximum impact.
-  Updated: 2026-01-15T11:35:00Z
-  Total Products: 36
+  Updated: 2026-01-22T12:17:31Z
+  Total Products: 37
 - [Summer Crew Neck Basics Combo Offer](https://barelystylish.com/collections/summer-crew-neck-basics-combo-offer)
   Updated: 2026-01-17T13:01:42Z
   Total Products: 13
@@ -6724,11 +6724,11 @@ Classic fundamentals—executed with modern precision.
   Updated: 2026-01-14T13:48:05Z
   Total Products: 36
 - [BarelyStylish Shopping Bundles | Combo Offers & Fashion Sets](https://barelystylish.com/collections/shopping-bundle): Save min 10% extra with BarelyStylish Shopping Bundles – curated combos of tees, polos, leggings & more. Perfect mix of style & value. Minimal style, maximum impact.
-  Updated: 2026-01-17T13:01:43Z
-  Total Products: 138
+  Updated: 2026-01-21T06:08:09Z
+  Total Products: 139
 - [Limited Period Offers | Exclusive Fashion Deals on select Merchandise](https://barelystylish.com/collections/offers): Grab BarelyStylish Limited Period Offers – premium athleisure, polos, leggings & more at special prices. Shop now for minimal style & maximum impact.
-  Updated: 2026-01-17T13:01:16Z
-  Total Products: 215
+  Updated: 2026-01-21T06:08:35Z
+  Total Products: 216
 - [Men’s Bottomwear | Casual & Travel Pants | To Be Travel Ready, Always!](https://barelystylish.com/collections/bottomwear-men): Shop BarelyStylish Men’s Bottomwear – joggers, chinos & travel pants designed for office, college & everyday comfort. Minimal style, maximum impact for men.
   Updated: 2026-01-14T13:48:06Z
   Total Products: 34
@@ -6751,8 +6751,8 @@ Classic fundamentals—executed with modern precision.
   Updated: 2026-01-14T13:48:06Z
   Total Products: 38
 - [All Products](https://barelystylish.com/collections/all-products)
-  Updated: 2026-01-17T13:01:16Z
-  Total Products: 347
+  Updated: 2026-01-22T12:17:31Z
+  Total Products: 348
 
 ## Blogs
 
@@ -6984,7 +6984,7 @@ Classic fundamentals—executed with modern precision.
   Updated: 2025-03-30T07:10:25Z
 - [sitemap.xml](https://barelystylish.com/pages/sitemap-xml): version="1.0" encoding="UTF-8"? https://barelystylish.com/ 2025-03-31 1.0 https://barelystylish.com/collections/women 2025-03-31 0.8 https://barely...
   Updated: 2025-10-12T04:08:45Z
-- [Your privacy choices](https://barelystylish.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://barelystylish.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-07-01T02:02:14Z
 - [FAQs](https://barelystylish.com/pages/pushdaddy-faq-1): Your FAQ content here
   Updated: 2025-06-12T16:49:04Z
@@ -7012,7 +7012,7 @@ Classic fundamentals—executed with modern precision.
 - [Shipping Policy](https://barelystylish.com/policies/shipping-policy)
   Updated: 2025-10-13T14:41:20+05:30
 - [Refund Policy](https://barelystylish.com/policies/refund-policy)
-  Updated: 2025-12-03T21:49:05+05:30
+  Updated: 2026-01-19T23:08:59+05:30
 - [Terms of Service](https://barelystylish.com/policies/terms-of-service)
   Updated: 2025-10-13T14:44:31+05:30
 - [Contact Information](https://barelystylish.com/policies/contact-information)
