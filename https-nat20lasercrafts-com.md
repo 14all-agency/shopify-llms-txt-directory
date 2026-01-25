@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T14:50:46Z
 - Contact Email: nat20lasercrafts@gmail.com
-- Updated At: 2026-01-18T00:00:34.788Z
+- Updated At: 2026-01-25T00:00:36.276Z
 
 ## Products
 
@@ -214,6 +214,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/image_b44a1e0c-9ec2-4397-9b30-0cc1a58fb618.png?v=1768102482
   Price: $5.00 USD
+- [Holographic Lucky Cat Bag Charm - Kawaii Maneki Neko Keychain](https://nat20lasercrafts.com/products/holographic-lucky-cat-bag-charm-maneki-neko-keychain): Adorable holographic lucky cat bag charm with rainbow confetti. Perfect kawaii accessory for bags, keys & backpacks. Bring good fortune with this Maneki Neko keychain!
+  Updated: 2026-01-20T02:58:19Z
+  Vendor: Nat 20 Custom Laser Crafts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/7094/7814/files/lucky-cat-bag-charm-in-kawaii-setting.png?v=1768834655
+  Price: $14.99 USD
 
 ## Collections
 
@@ -236,8 +243,8 @@
   Updated: 2025-12-21T06:06:08Z
   Total Products: 15
 - [Kawaii Laser-Engraved Gifts - Cute Custom Creations & Accessories | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/kawaii-creations): Adorable kawaii laser-engraved products featuring cute animals, chibi art, and pastel designs. Custom keychains, coasters, displays, and decor. Personalization available!
-  Updated: 2025-12-20T20:26:36Z
-  Total Products: 8
+  Updated: 2026-01-20T12:20:58Z
+  Total Products: 9
 - [Critical Laughs - Funny Gamer & Nerd Humor Gifts | Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/collections/critical-laughs): Hilarious laser-engraved gaming puns, nerdy jokes, and sarcastic sayings on coasters, signs, tumblers, and more. Perfect funny gifts for gamers and geeks!
   Updated: 2025-12-20T20:26:04Z
   Total Products: 10
@@ -296,12 +303,21 @@
   - [Exploring the Quirky Charms of Space Possum Wall Art](https://nat20lasercrafts.com/blogs/news/exploring-the-quirky-charms-of-space-possum-wall-art): Exploring the Quirky Charms of Space Possum Wall Art
     Updated: 2026-01-17T01:05:55Z
     Author: Nat 20 Custom Laser Crafts
+  - [Versatile Uses for Laser Engraved Slate Coaster Sets to Transform Your Home Decor](https://nat20lasercrafts.com/blogs/news/versatile-uses-for-laser-engraved-slate-coaster-sets-to-transform-your-home-decor): Versatile Uses for Laser Engraved Slate Coaster Sets to Transform Your Home Decor
+    Updated: 2026-01-20T01:24:09Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Dungeon and Dragons Themed Bar Essentials for Every Class with D&D Class Coaster Set](https://nat20lasercrafts.com/blogs/news/dungeon-and-dragons-themed-bar-essentials-for-every-class-with-d-d-class-coaster-set): Dungeon and Dragons Themed Bar Essentials for Every Class with D&D Class Coaster Set
+    Updated: 2026-01-21T02:03:06Z
+    Author: Nat 20 Custom Laser Crafts
+  - [Uncovering the Hidden Beauty of Whimsical Wall Art with the Live Ugly Opossum Sign](https://nat20lasercrafts.com/blogs/news/uncovering-the-hidden-beauty-of-whimsical-wall-art-with-the-live-ugly-opossum-sign): Uncovering the Hidden Beauty of Whimsical Wall Art with the Live Ugly Opossum Sign
+    Updated: 2026-01-24T00:44:31Z
+    Author: Nat 20 Custom Laser Crafts
 
 ## Store Pages
 
 - [Contact](https://nat20lasercrafts.com/pages/contact)
   Updated: 2025-12-05T14:50:48Z
-- [Your privacy choices](https://nat20lasercrafts.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://nat20lasercrafts.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-05T14:50:57Z
 - [Our Story - Nat 20 Custom Laser Crafts](https://nat20lasercrafts.com/pages/our-story): The Quest BeginsEvery great adventure starts with a roll of the dice and a spark of inspiration. Ours began when two adventurers—one an artist with...
   Updated: 2025-12-18T00:56:04Z
