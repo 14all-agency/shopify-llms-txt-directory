@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-11-27T05:18:20Z
 - Contact Email: salah.ashraf@acodez.co.in
-- Updated At: 2026-01-18T00:00:38.121Z
+- Updated At: 2026-01-25T00:00:41.304Z
 
 ## Products
 
@@ -2038,7 +2038,7 @@ Hot Wheels Star Wars Rogue One Partisan X-wing Fighter Carship](https://aco-supp
 
 - [Contact](https://aco-support.myshopify.com/pages/contact)
   Updated: 2024-11-27T05:18:22Z
-- [Your privacy choices](https://aco-support.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://aco-support.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T15:56:34Z
 
 ## Policies
