@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2025-11-18T07:20:00Z
 - Contact Email: marginean.damian1989@gmail.com
-- Updated At: 2026-01-18T00:00:44.392Z
+- Updated At: 2026-01-25T00:00:47.115Z
 
 ## Products
 
@@ -19581,7 +19581,7 @@
 
 - [Contact](https://mdgshop.com/pages/contact)
   Updated: 2025-11-18T07:20:03Z
-- [Your privacy choices](https://mdgshop.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://mdgshop.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-18T10:24:12Z
 - [Discover MDG](https://mdgshop.com/pages/discover-mdg): At MDG, we are dedicated to providing a curated selection of stylish and functional accessories that cater to the modern woman's fashion needs. Fou...
   Updated: 2025-11-18T21:31:30Z
