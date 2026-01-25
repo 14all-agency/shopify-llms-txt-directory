@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-01T14:02:49Z
 - Contact Email: drs@drstudin.com
-- Updated At: 2026-01-17T00:00:38.784Z
+- Updated At: 2026-01-25T00:00:40.818Z
 
 ## Collections
 
@@ -425,7 +425,7 @@
 
 - [Contact Us - Dr Joel Studin Plastic Surgery](https://drstudin.com/pages/contact-us): 
   Updated: 2024-12-30T07:36:42Z
-- [Your privacy choices](https://drstudin.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://drstudin.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T20:28:41Z
 - [Tummy Tuck Abdominoplasty - NYC and Long Island](https://drstudin.com/pages/drainfree-tummy-tuck-abdominoplasty): 
   Updated: 2025-04-02T12:25:49Z
