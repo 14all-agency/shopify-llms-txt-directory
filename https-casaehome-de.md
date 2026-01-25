@@ -6,58 +6,70 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-11-24T05:21:30Z
 - Contact Email: casaeHome-Living@web.de
-- Updated At: 2026-01-17T00:00:35.418Z
+- Updated At: 2026-01-25T00:00:38.424Z
 
 ## Products
 
-- [Knot Kissen Bright Red](https://casaehome.de/products/sofa-pillow-office-nap-craft-pillow-knot-throw-pillow): Knot Kissen Schlichtes Design für modernen Wohnkomfort. Dieses Kissen vereint minimalistischen Stil mit gemütlichen Materialien. Der Bezug aus weicher Acrylfaser bietet eine angenehme Haptik, während die PP-Baumwollfüllung für Stabilität und Komfort sorgt. Ideal als Akzent auf dem Sofa oder Bett. Produktdetails Typ: Kissen Stil: Schlicht & Modern& einzigartig Material Bezug: Acrylfaser / Polyesterfaser Füllmaterial: Hochwertige PP-Baumwolle Abmessungen: 39 cm (L) × 30 cm (B) × 16 cm (H)
-  Updated: 2026-01-15T21:04:36Z
+- [Alpaca Kissen](https://casaehome.de/products/alpaca-kissen): Alpaka Kuscheltier-Kissen Handgemacht, extra weich und perfekt zum Kuscheln. Dieses 50 cm große Alpaka ist Kuscheltier und Kissen in einem. Das weiche Kunstfell fühlt sich angenehm an und macht das Alpaka zu einem gemütlichen Begleiter – zu Hause, auf Reisen im Auto oder im Flugzeug. Ideal zum Umarmen, Anlehnen und Einschlafen und zugleich ein dekoratives Highlight im Kinderzimmer. Produktdetails Typ: Kuscheltier-Kissen Material Bezug: 90% Kunstfell, 7% Leder, 3% Naturfilz Füllmaterial: Silikonisierte Polyesterwatte Abmessungen: ca. 50 cm Höhe Farben: Hellcreme oder Rostbraun Altersempfehlung: Geeignet ab 6 Monaten Pflege: Handwäsche, natürlich trocknen lassen; falls nötig nach dem Waschen ausspülen
+  Updated: 2026-01-22T20:44:35Z
+  Vendor: CASAE
+  Product Type: Alpaca Kissen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/data_8211a386-bfb7-4a1f-b6e7-275005985668.jpg?v=1769068194
+  Price: 48,99 € EUR
+- [Wolf Kissen](https://casaehome.de/products/wolf-kissen): Wolf Kuscheltier-Kissen Der weiche Wächter für mutige Träume. Dieses Wolf-Kuscheltier ist Kissen und Freund zugleich. Als „König der litauischen Wälder“ begleitet der graue Wolf Kinder zuverlässig durch die Nacht – zum Ankuscheln, Ausruhen und Einschlafen. Dank der praktischen Größe ist er auch unterwegs ein bequemer Reisebegleiter, auf dem man den Kopf entspannt ablegen kann. Produktdetails Typ: Kuscheltier-Kissen Material: 100% Polyester, 100% Naturfilz Füllmaterial: Silikonisierte Polyesterwatte Abmessungen: ca. 45 cm Höhe Farbe: Grau Altersempfehlung: Geeignet ab 6 Monaten Pflege: Handwäsche, natürlich trocknen lassen; falls nötig nach dem Waschen auflockern
+  Updated: 2026-01-22T19:58:02Z
   Vendor: CASAE
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/20f6f814-75ee-47b5-b319-6c9d6e69b5eb.jpg?v=1767690795
-  Price: 99,99 € EUR
-- [Knot Kissen Yellow](https://casaehome.de/products/knot-kissen-kopie): KNOT KISSEN Weiches Acrylfaser-Kissen für eine gemütliche Wohnatmosphäre. Dieses Kissen vereint schlichtes, modernes Design mit hohem Komfort. Der weiche Bezug aus Acrylfaser sorgt für eine angenehme Haptik, während die hochwertige Füllung Formstabilität und Gemütlichkeit garantiert. Produktdetails Design: Modern & Minimalistisch Material: Weiche Acrylfaser / Polyesterfaser Füllung: PP-Baumwolle Maße: 39 cm (L) × 30 cm (B) × 16 cm (H)
-  Updated: 2026-01-15T21:04:30Z
+  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/data_7b93542a-32c0-4cf2-8d06-e2d675549196.jpg?v=1769068603
+  Price: 48,99 € EUR
+- [Knot Kissen](https://casaehome.de/products/knot-kissen): Knot Kissen Schlichtes Design für modernen Wohnkomfort. Dieses Kissen vereint minimalistischen Stil mit gemütlichen Materialien. Der Bezug aus weicher Acrylfaser bietet eine angenehme Haptik, während die PP-Baumwollfüllung für Stabilität und Komfort sorgt. Ideal als Akzent auf dem Sofa oder Bett. Produktdetails Typ: Kissen Stil: Schlicht & Modern & einzigartig Material Bezug: Acrylfaser / Polyesterfaser Füllmaterial: Hochwertige PP-Baumwolle Abmessungen: 39 cm (L) × 30 cm (B) × 16 cm (H)
+  Updated: 2026-01-22T20:49:06Z
   Vendor: CASAE
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/ee1398ad-a83d-43fa-8573-0738254a98b5.jpg?v=1767690854
-  Price: 99,99 € EUR
-- [Knot Kissen Red](https://casaehome.de/products/knot-kissen-kopie-kopie): KNOT KISSEN Weiches Acrylfaser-Kissen für eine gemütliche Wohnatmosphäre. Dieses Kissen vereint schlichtes, modernes Design mit hohem Komfort. Der weiche Bezug aus Acrylfaser sorgt für eine angenehme Haptik, während die hochwertige Füllung Formstabilität und Gemütlichkeit garantiert. Produktdetails Design: Modern & Minimalistisch Material: Weiche Acrylfaser / Polyesterfaser Füllung: PP-Baumwolle Maße: 39 cm (L) × 30 cm (B) × 16 cm (H)
-  Updated: 2026-01-15T21:04:02Z
+  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/ee73b008-789e-4f18-9252-0dbe74648ecb_d631b84e-81d6-4fe8-a558-ad290b435ed9.jpg?v=1769069413
+  - [Red / 39x30x16cm](https://casaehome.de/products/knot-kissen?variant=52535371858258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/cb421e9d-f99f-4a98-8dbc-c02b101f1f32.jpg?v=1769068919
+    Price: 94,99 € EUR
+  - [Grey / 39x30x16cm](https://casaehome.de/products/knot-kissen?variant=52535371891026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/04f8404d-bcc9-4057-b082-7d0efecee1a9.jpg?v=1769068920
+    Price: 94,99 € EUR
+  - [Orange / 39x30x16cm](https://casaehome.de/products/knot-kissen?variant=52535371923794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/029089f1-a18b-42f3-8a78-1d72ac1c0464_1b8e1275-81d0-475c-a057-4fdd39adf4f4.jpg?v=1769068920
+    Price: 94,99 € EUR
+  - [Yellow / 39x30x16cm](https://casaehome.de/products/knot-kissen?variant=52535371956562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/ee1398ad-a83d-43fa-8573-0738254a98b5.jpg?v=1769068920
+    Price: 94,99 € EUR
+  - [Light apricot / 39x30x16cm](https://casaehome.de/products/knot-kissen?variant=52535371989330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/b9e100bd-348a-4bdd-b583-3bf9401c3c64.jpg?v=1769068919
+    Price: 94,99 € EUR
+  - [Bright red / 39x30x16cm](https://casaehome.de/products/knot-kissen?variant=52535372022098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/20f6f814-75ee-47b5-b319-6c9d6e69b5eb_670748f1-e9b3-4adf-938b-dbf23910cef0.jpg?v=1769068920
+    Price: 94,99 € EUR
+- [Swan Kissen](https://casaehome.de/products/swan-kissen): Schwan Kuscheltier Majestätisch, weich und das perfekte Geschenk für kleine Prinzessinnen. Ein Schwan von außergewöhnlicher Schönheit: mit Krone und glänzendem Schnabel wird er zum echten Hingucker und Lieblingsbegleiter. Durch den Anteil an natürlicher Lama-Wolle wirkt dieses Kuscheltier besonders einzigartig – und bleibt dabei angenehm sanft und weich. Ideal auch für unterwegs: dank der handlichen Größe lässt sich der Schwan bequem mitnehmen und eignet sich wunderbar zum Anlehnen und Ausruhen auf Reisen. Produktdetails Typ: Kuscheltier Material: 30% Lama-Wolle, 100% Polyester, 100% Naturfilz Füllmaterial: Silikonisierte Polyesterwatte Abmessungen: ca. 45 cm Höhe Farbe: Weiß Altersempfehlung: Geeignet ab 6 Monaten Pflege: Handwäsche, natürlich trocknen lassen; falls nötig nach dem Waschen auflockern
+  Updated: 2026-01-22T21:25:31Z
   Vendor: CASAE
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/cb421e9d-f99f-4a98-8dbc-c02b101f1f32.jpg?v=1767553631
-  Price: 99,99 € EUR
-- [Knot Kissen Grey](https://casaehome.de/products/knot-kissen-grey): KNOT KISSEN Weiches Acrylfaser-Kissen für eine gemütliche Wohnatmosphäre. Dieses Kissen vereint schlichtes, modernes Design mit hohem Komfort. Der weiche Bezug aus Acrylfaser sorgt für eine angenehme Haptik, während die hochwertige Füllung Formstabilität und Gemütlichkeit garantiert. Produktdetails Design: Modern & Minimalistisch Material: Weiche Acrylfaser / Polyesterfaser Füllung: PP-Baumwolle Maße: 39 cm (L) × 30 cm (B) × 16 cm (H)
-  Updated: 2026-01-15T21:04:19Z
-  Vendor: CASAE
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/04f8404d-bcc9-4057-b082-7d0efecee1a9.jpg?v=1767553785
-  Price: 99,99 € EUR
-- [Knot Kissen Light Apricot](https://casaehome.de/products/knot-kissen-kopie-kopie-1): Knot Kissen Schlichtes Design für modernen Wohnkomfort. Dieses Kissen vereint minimalistischen Stil mit gemütlichen Materialien. Der Bezug aus weicher Acrylfaser bietet eine angenehme Haptik, während die PP-Baumwollfüllung für Stabilität und Komfort sorgt. Ideal als Akzent auf dem Sofa oder Bett. Produktdetails Typ: Kissen Stil: Schlicht & Modern& einzigartig Material Bezug: Acrylfaser / Polyesterfaser Füllmaterial: Hochwertige PP-Baumwolle Abmessungen: 39 cm (L) × 30 cm (B) × 16 cm (H)
-  Updated: 2026-01-15T21:04:13Z
-  Vendor: CASAE
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/b9e100bd-348a-4bdd-b583-3bf9401c3c64.jpg?v=1767690272
-  Price: 99,99 € EUR
-- [Knot Kissen Orange](https://casaehome.de/products/knot-kissen-kopie-kopie-2): Knot Kissen Schlichtes Design für modernen Wohnkomfort. Dieses Kissen vereint minimalistischen Stil mit gemütlichen Materialien. Der Bezug aus weicher Acrylfaser bietet eine angenehme Haptik, während die PP-Baumwollfüllung für Stabilität und Komfort sorgt. Ideal als Akzent auf dem Sofa oder Bett. Produktdetails Typ: Kissen Stil: Schlicht & Modern& einzigartig Material Bezug: Acrylfaser / Polyesterfaser Füllmaterial: Hochwertige PP-Baumwolle Abmessungen: 39 cm (L) × 30 cm (B) × 16 cm (H)
-  Updated: 2026-01-15T21:04:08Z
-  Vendor: CASAE
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/029089f1-a18b-42f3-8a78-1d72ac1c0464.jpg?v=1767871021
-  Price: 99,99 € EUR
+  Image: https://cdn.shopify.com/s/files/1/1018/7633/4930/files/data_0ce70641-115c-44aa-9b69-3bb179397c5d.jpg?v=1769069725
+  Price: 48,99 € EUR
 
 ## Collections
 
 - [Knot Kissen](https://casaehome.de/collections/frontpage)
-  Updated: 2026-01-15T16:59:18Z
-  Total Products: 6
+  Updated: 2026-01-22T08:05:43Z
+  Total Products: 1
+- [Kuscheltiere](https://casaehome.de/collections/kuscheltiere)
+  Updated: 2026-01-22T08:16:12Z
+  Total Products: 3
 
 ## Store Pages
 
