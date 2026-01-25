@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-01-01T19:49:51Z
 - Contact Email: info@elarajewlery.com
-- Updated At: 2026-01-15T00:00:33.063Z
+- Updated At: 2026-01-25T00:00:35.024Z
 
 ## Products
 
@@ -1834,7 +1834,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863412592734208.webp?v=1767299749
   Price: AED 145.00 AED
-[List Continued](https://elarajewelry.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTk4MzE5NDkzMzUwLCJsYXN0X3ZhbHVlIjoiOTU5ODMxOTQ5MzM1MCJ9)
+- [Sea Urchin Textured Hoops | 14K Gold Plated Earrings](https://elarajewelry.store/products/textured-crescent-hoops-198540719383277568-1668): Sculptural gold-plated hoops with organic sea urchin texture. 14K gold on stainless steel brings coastal maximalism to your jewelry collection. Confidence-channeling statement earrings.
+  Updated: 2026-01-07T19:32:55Z
+  Vendor: Elara
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863757268054016.webp?v=1767299750
+  Price: AED 95.00 AED
+[List Continued](https://elarajewelry.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTk4MzE5NTU4ODg2LCJsYXN0X3ZhbHVlIjoiOTU5ODMxOTU1ODg4NiJ9)
 
 ## Collections
 
@@ -1851,8 +1858,8 @@
   Updated: 2026-01-07T19:32:14Z
   Total Products: 48
 - [Earrings](https://elarajewelry.store/collections/earrings)
-  Updated: 2026-01-07T19:32:14Z
-  Total Products: 128
+  Updated: 2026-01-23T01:55:22Z
+  Total Products: 127
 - [The Azure Dreams](https://elarajewelry.store/collections/azure-dreams): The Azure Dreams collection captures the serene beauty of clear skies and tranquil waters. Each piece in this exquisite collection features crystal blue colors reminiscent of azure horizons. Let these ethereal pieces transport you to a world of elegance and sophistication.
   Updated: 2026-01-07T19:32:14Z
   Total Products: 7
@@ -1876,7 +1883,7 @@
 
 - [Contact](https://elarajewelry.store/pages/contact)
   Updated: 2026-01-01T19:49:54Z
-- [Your privacy choices](https://elarajewelry.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://elarajewelry.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-01T20:45:09Z
 
 ## Policies
