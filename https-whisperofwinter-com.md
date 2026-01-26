@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T20:39:43Z
 - Contact Email: Info@whisperofwinter.com
-- Updated At: 2026-01-19T00:00:36.055Z
+- Updated At: 2026-01-26T00:00:37.599Z
 
 Whisper of Winter is an independent, Nordic-inspired brand offering children’s books, creative storytelling products, apparel, accessories, and gifts. The brand blends imagination, winter folklore, symbolic runes, and themes of strength, kindness, and wonder. All content, products, and descriptions are designed to inspire creativity, family connection, and meaningful storytelling experiences.
 
@@ -142,7 +142,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/white-ceramic-mug-with-color-inside-black-15-oz-front-69279fd36e098.jpg?v=1765750996
     Price: $24.99 USD
 - [Frostmark Rune – Embroidered Champion Packable Jacket](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket): Explore the Frostmark Rune – Embroidered Champion Packable Jacket for a winter aesthetic with Nordic inspired design. Perfect gift for fantasy lovers!
-  Updated: 2026-01-12T18:50:25Z
+  Updated: 2026-01-19T18:59:32Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
@@ -232,11 +232,11 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-light-blue-front-6929d944b4d17.jpg?v=1765750965
     Price: $84.99 USD
   - [Light Blue / M](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540608052)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-light-blue-front-6929d944b4d17.jpg?v=1765750965
     Price: $84.99 USD
   - [Light Blue / L](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540640820)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/embroidered-champion-packable-jacket-light-blue-front-6929d944b4d17.jpg?v=1765750965
     Price: $84.99 USD
   - [Light Blue / XL](https://whisperofwinter.com/products/frostmark-rune-embroidered-champion-packable-jacket?variant=47289540673588)
@@ -275,7 +275,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
   Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/retro-trucker-hat-black-front-2-6929de6cd3406.jpg?v=1765752950
   Price: $32.99 USD
 - [Nordic Wolf Bindrune Hoodie – Tiwaz Algiz Fehu](https://whisperofwinter.com/products/nordic-wolf-bindrune-hoodie-tiwaz-algiz-fehu-crest): Nordic Wolf Bindrune Hoodie features wolf symbolism and rune inspired art. Embrace winter aesthetics with our cozy unisex apparel!
-  Updated: 2026-01-06T18:41:41Z
+  Updated: 2026-01-19T18:59:36Z
   Vendor: Whisper of Winter
   Product Type: 
   Availability: Available
@@ -313,7 +313,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/lane-seven-ls14003-i-premium-full-zip-hoodie-navy-front-692b2f28d3327.jpg?v=1765752926
     Price: $69.99 USD
   - [Navy / L](https://whisperofwinter.com/products/nordic-wolf-bindrune-hoodie-tiwaz-algiz-fehu-crest?variant=47290240729140)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0736/6370/9236/files/lane-seven-ls14003-i-premium-full-zip-hoodie-navy-front-692b2f28d3327.jpg?v=1765752926
     Price: $69.99 USD
   - [Navy / XL](https://whisperofwinter.com/products/nordic-wolf-bindrune-hoodie-tiwaz-algiz-fehu-crest?variant=47290240761908)
@@ -537,7 +537,7 @@ Whisper of Winter is an independent, Nordic-inspired brand offering children’s
 
 - [Contact](https://whisperofwinter.com/pages/contact): Have a question? Email me anytime at:info@whisperofwinter.com
   Updated: 2025-11-26T06:32:19Z
-- [Your privacy choices](https://whisperofwinter.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://whisperofwinter.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-27T00:52:03Z
 - [Whisper of Winter – Children’s Book](https://whisperofwinter.com/pages/whisper-of-winter-children-s-book): Cuddle with a blanket, hot cocoa, and immerse in the enchanting realm of 'Whisper of Winter.' A chilly journey in a snug quilt of creativity! 📘 Buy...
   Updated: 2025-11-23T05:16:20Z
