@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-12-27T14:20:15Z
 - Contact Email: s.design7art@gmail.com
-- Updated At: 2026-01-18T00:00:29.358Z
+- Updated At: 2026-01-26T00:00:33.368Z
 
 ## Products
 
@@ -17,15 +17,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/beginner_intermediate.webp?v=1768395581
   Price: ₺200.00 TRY
-- [The Moon Thief E-Kitap | İngilizce Hikaye, Pratik ve Alıştırmalar](https://goodspond.com/products/the-moon-thief-e-kitap): Bu e-kitap, fantastik bir İngilizce hikaye sunar. Okuyarak İngilizce pratik yap, alıştırmalarla kelime ve anlama becerini geliştir.
-  Updated: 2026-01-15T00:49:15Z
+- [The Moon Thief – An English Story eBook for Reading Practice](https://goodspond.com/products/the-moon-thief-english-story-ebook): The Moon Thief is a story-based ebook created for English learners.
+  Updated: 2026-01-19T05:49:45Z
   Vendor: Goods Pond
   Product Type: simple, downloadable, virtual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Fantastic-English-Story-E-book.webp?v=1768394944
   Price: ₺15.00 TRY
-- [When We Are Together E-Kitap | İngilizce Hikaye, Pratik ve Alıştırmalar](https://goodspond.com/products/when-we-are-together-e-kitap): Bu e-kitap, sakin ve duygusal bir İngilizce hikaye sunar. İngilizce pratik yap, alıştırmalarla okuma ve kelime becerini geliştir.
-  Updated: 2026-01-14T12:40:33Z
+- [When We Are Together E-Kitap | İngilizce Hikaye, Pratik ve Alıştırmalar](https://goodspond.com/products/when-we-are-together-english-story-ebook): This digital ebook uses gentle storytelling, reading exercises, and vocabulary practice to improve comprehension skills through interactive reading.
+  Updated: 2026-01-20T01:19:57Z
   Vendor: Goods Pond
   Product Type: simple, downloadable, virtual
   Availability: Available
