@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2026-01-19T00:00:38.109Z
+- Updated At: 2026-01-26T00:00:39.891Z
 
 ## Products
 
@@ -1646,8 +1646,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/mockup-of-a-man-wearing-a-pullover-hoodie-with-his-face-cropped-m839_3.png?v=1763831959
     Price: 54,99 € EUR
-- [Dirty Profits Bold Print Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/dirty-profits-bold-print-streetwear-oversized-hoodie): Dirty Profits Hoodie – Streetwear mit cyan-violettem Gradient. Schweres Material & starkes Statement-Design. WRONGCROW Oversize Streetwear. Jetzt entdecken!
-  Updated: 2026-01-09T13:12:13Z
+- [Dirty Profits Hoodie | Heavyweight Streetwear (380 GSM) | Wrongcrow](https://www.wrongcrow.com/products/dirty-profits-bold-print-streetwear-oversized-hoodie): Entdecke den Dirty Profits Hoodie von Wrongcrow. 380 GSM Heavy Cotton, perfekter Oversized Fit & hochwertiger Print. Premium Streetwear für Macher. Jetzt sichern!
+  Updated: 2026-01-22T23:47:23Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -2829,7 +2829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_17.png?v=1763980378
     Price: 34,99 € EUR
 - [Broken Savings Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/broken-savings-streetwear-oversized-hoodie): Broken Savings Hoodie von WRONGCROW – starkes Street Finance Design im Violet/Cyan Gradient. Premium Qualität für urbanen Style. Jetzt entdecken!
-  Updated: 2025-12-18T15:25:40Z
+  Updated: 2026-01-21T00:49:13Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3187,8 +3187,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/69552fb3da3f9.jpg?v=1767190611
     Price: 44,99 € EUR
-- [Wrongcrow Arch Logo Hoodie](https://www.wrongcrow.com/products/wrongcrow-arch-logo-hoodie): Hol dir den WRONGCROW Arch Logo Hoodie. Mit markantem lila Schriftzug, Oversized-Passform & Premium-Baumwolle. Dein Statement für Street Knowledge!
-  Updated: 2026-01-08T03:44:45Z
+- [Heavyweight Oversize Hoodie 380 GSM - Wrongcrow Arch Logo](https://www.wrongcrow.com/products/wrongcrow-arch-logo-hoodie): Erlebe 380 GSM Panzer-Qualität mit dem Wrongcrow Arch Logo Hoodie. Massive Baumwolle, Boxy Fit & gebrushtes Innenfutter. Jetzt Premium Streetwear bestellen!
+  Updated: 2026-01-21T01:53:50Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3241,8 +3241,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/Gemini_Generated_Image_w38682w38682w386.png?v=1767300700
     Price: 54,99 € EUR
-- [Wrongcrow Arch Logo Gradient Hoodie](https://www.wrongcrow.com/products/wrongcrow-arch-logo-gradient-hoodie): Hol dir den WRONGCROW Arch Logo Hoodie. Mit markantem gradient Schriftzug, Oversized-Passform & Premium-Baumwolle. Dein Statement für Street Knowledge!
-  Updated: 2026-01-08T03:44:28Z
+- [Heavyweight Oversize Hoodie 380 GSM - Wrongcrow Arch Logo](https://www.wrongcrow.com/products/wrongcrow-arch-logo-gradient-hoodie): Erlebe 380 GSM Panzer-Qualität mit dem Wrongcrow Arch Logo Hoodie. Massive Baumwolle, Boxy Fit & gebrushtes Innenfutter. Jetzt Premium Streetwear bestellen!
+  Updated: 2026-01-20T22:55:19Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3298,44 +3298,41 @@
 
 ## Collections
 
-- [Wrongcrow | Street Knowledge & Premium Heavyweight Streetwear](https://www.wrongcrow.com/collections/caps): Wrongcrow Caps: Entdecke Snapback Rapper Caps und mehr. Falsch, laut, unbequem – trag deine Haltung mit einzigartigen Designs. Jetzt entdecken!
-  Updated: 2026-01-04T07:44:50Z
+- [Streetwear Caps & Headwear | Exklusive Styles – Wrongcrow](https://www.wrongcrow.com/collections/caps): Vervollständige deinen Look mit den Wrongcrow Caps. Hochwertiger Print, langlebige Materialien und Passformen. Streetwear-Headwear. Jetzt shoppen!
+  Updated: 2026-01-22T13:42:18Z
   Total Products: 3
-- [Heavyweight Pants (380 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/joggingpants): Maximaler Komfort & Stand: Entdecke Wrongcrow Pants aus 380 GSM Heavy Cotton. Robuste Qualität, perfekter Fit. Fragen zur Größe? Schreib uns per WhatsApp!
-  Updated: 2026-01-04T07:41:44Z
+- [380 GSM Essentials Pants | Heavyweight Streetwear Hosen – Wrongcrow](https://www.wrongcrow.com/collections/joggingpants): Entdecke Essentials Pants: 380 GSM Heavyweight Cotton für den ultimativen Look.  Oversized Schnitt trifft auf maximale Langlebigkeit. Jetzt Piece sichern!
+  Updated: 2026-01-22T13:39:15Z
   Total Products: 4
-- [Heavyweight Hoodies (380 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/essentials): Echte Streetwear mit Haltung: Entdecke Heavyweight Hoodies (380 GSM) & T-Shirts von Wrongcrow. Premium Qualität aus Deutschland. Jetzt exklusive Styles sichern!
-  Updated: 2026-01-04T08:20:21Z
+- [Streetwear Essentials & Basics](https://www.wrongcrow.com/collections/essentials): Entdecke die Wrongcrow Essentials: Zeitlose Streetwear Basics mit Logo-Power. Hochwertige Hoodies, Tees & Sweats für deinen Daily Look. Clean, minimal & urban.
+  Updated: 2026-01-22T12:23:27Z
   Total Products: 24
-- [Heavyweight T-Shirts (240 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/t-shirt): Premium Heavyweight Tees: Entdecke Wrongcrow T-Shirts aus 240 GSM Baumwolle. Fester Griff, perfekter Oversized Fit. Jetzt Streetwear mit Haltung shoppen!
-  Updated: 2026-01-04T08:16:33Z
+- [Essentials T-Shirts | 240 GSM Heavyweight Oversized Tees – Wrongcrow](https://www.wrongcrow.com/collections/t-shirt): Premium Streetwear Basics: Entdecke die Wrongcrow Essentials T-Shirts. 240 GSM Heavy Cotton, lockerer Oversized Schnitt und langlebige Qualität. Jetzt sichern!
+  Updated: 2026-01-22T13:30:13Z
   Total Products: 6
-- [Heavyweight Hoodies (380 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/hoodies): Echte Streetwear mit Haltung: Entdecke Heavyweight Hoodies (380 GSM) & T-Shirts von Wrongcrow. Premium Qualität aus Deutschland. Jetzt exklusive Styles sichern!
-  Updated: 2026-01-04T08:20:32Z
+- [Hoodies ohne Kordel | Heavyweight Streetwear (380 GSM) – Wrongcrow](https://www.wrongcrow.com/collections/hoodies): Entdecke Premium Hoodies ohne Kordel bei Wrongcrow. 380 GSM Heavyweight Baumwolle, Oversized Fit & hochwertiger Print. Statement für die Straße. Jetzt shoppen!
+  Updated: 2026-01-22T12:12:00Z
   Total Products: 13
 - [Wrongcrow | Street Knowledge & Premium Heavyweight Streetwear](https://www.wrongcrow.com/collections/sweat): Echte Streetwear mit Haltung: Entdecke Heavyweight Hoodies (380 GSM) & T-Shirts von Wrongcrow. Premium Qualität aus Deutschland. Jetzt exklusive Styles sichern!
-  Updated: 2026-01-04T07:43:48Z
+  Updated: 2026-01-22T13:36:08Z
   Total Products: 1
-- [Wrongcrow Streetwear | Heavyweight Hoodies (380 GSM) & Shirts](https://www.wrongcrow.com/collections/alle-produkte): Street Knowledge ist kein Modus, sondern ein Lebensgefühl. Hol dir Wrongcrow Streetwear mit Attitüde. Mutige Designs & Heavyweight Qualität. Jetzt online shoppen!
-  Updated: 2026-01-05T15:31:58Z
+- [Wrongcrow Shop | Premium Heavyweight Streetwear & Oversized Mode](https://www.wrongcrow.com/collections/collections-all): Shoppe die gesamte Wrongcrow Kollektion. Von 380 GSM Heavyweight Hoodies bis zu 240 GSM Oversized Tees. Für alle, die keine Kompromisse machen. Jetzt entdecken!
+  Updated: 2026-01-22T12:45:42Z
   Total Products: 66
-- [Wrongcrow Streetwear | Heavyweight Hoodies (380 GSM) & Shirts](https://www.wrongcrow.com/collections/kollektionen): Echte Streetwear mit Haltung: Entdecke Heavyweight Hoodies (380 GSM) & T-Shirts von Wrongcrow. Premium Qualität aus Deutschland. Jetzt exklusive Styles sichern!
-  Updated: 2026-01-04T08:20:08Z
-  Total Products: 0
 - [Wrongcrow | High-End Streetwear & Heavyweight Hoodies Reality Crash](https://www.wrongcrow.com/collections/neu): Street Knowledge ist kein Modus, sondern ein Lebensgefühl. Hol dir Wrongcrow Streetwear mit Attitüde. Mutige Designs & Heavyweight Qualität. Jetzt online shoppen!
   Updated: 2026-01-04T07:48:07Z
   Total Products: 13
-- [Wrongcrow | High-End Streetwear & Heavyweight Hoodies Reality Crash](https://www.wrongcrow.com/collections/reality-crash): Street Knowledge ist kein Modus, sondern ein Lebensgefühl. Hol dir Wrongcrow Streetwear mit Attitüde. Mutige Designs & Heavyweight Qualität. Jetzt online shoppen!
-  Updated: 2026-01-04T08:19:09Z
+- [Reality Crash Kollektion | Oversized Streetwear mit Botschaft](https://www.wrongcrow.com/collections/reality-crash): Streetwear, die den Status Quo hinterfragt. Hochwertige Reality Crash Essentials in Premium-Qualität. Zeige Haltung mit unseren Oversized Looks. Jetzt shoppen!
+  Updated: 2026-01-22T13:01:40Z
   Total Products: 13
-- [Heavyweight T-Shirts (240 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/t-shirts): Premium Heavyweight Tees: Entdecke Wrongcrow T-Shirts aus 240 GSM Baumwolle. Fester Griff, perfekter Oversized Fit. Jetzt Streetwear mit Haltung shoppen!
-  Updated: 2026-01-04T08:16:23Z
+- [Reality Crash T-Shirts | 240 GSM Heavyweight Streetwear – Wrongcrow](https://www.wrongcrow.com/collections/t-shirts): Premium Reality Crash Tees in 240 GSM Heavyweight Cotton. Hochwertige Prints, lockere Oversized Passform und maximale Langlebigkeit. Dein Piece sichern!
+  Updated: 2026-01-22T13:24:02Z
   Total Products: 6
-- [Oversized Hoodies mit Attitüde | Wrongcrow Streetwear Styles](https://www.wrongcrow.com/collections/hoodies-1): Heavyweight Hoodies (380 GSM) von Wrongcrow. Massiver Stoff, perfekter Drop & Street-Haltung. Fragen zum Fit? Schreib uns für Beratung direkt per WhatsApp!
-  Updated: 2026-01-04T08:16:13Z
+- [Reality Crash Hoodies | 380 GSM Heavyweight Streetwear – Wrongcrow](https://www.wrongcrow.com/collections/hoodies-1): Streetwear mit Substanz: Entdecke die Reality Crash Hoodies. 380 GSM Qualität,  Oversized Schnitt und Designs, die Haltung zeigen. Jetzt Piece sichern!
+  Updated: 2026-01-22T13:22:21Z
   Total Products: 6
-- [Wrongcrow | Street Knowledge & Premium Heavyweight Streetwear](https://www.wrongcrow.com/collections/pants): Maximaler Komfort & Stand: Entdecke Wrongcrow Pants aus 380 GSM Heavy Cotton. Robuste Qualität, perfekter Fit. Fragen zur Größe? Schreib uns per WhatsApp!
-  Updated: 2026-01-04T08:17:00Z
+- [Reality Crash Pants | Oversized Streetwear Hosen – Wrongcrow](https://www.wrongcrow.com/collections/pants): Die Reality Crash Pants. Robuste Materialien, lockerer Schnitt und urbanes Design. Perfekte Oversized Pants für deinen Streetwear-Style. Jetzt entdecken!
+  Updated: 2026-01-22T13:27:37Z
   Total Products: 1
 - [Heavyweight T-Shirts (240 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/t-shirts-1): Premium Heavyweight Tees: Entdecke Wrongcrow T-Shirts aus 240 GSM Baumwolle. Fester Griff, perfekter Oversized Fit. Jetzt Streetwear mit Haltung shoppen!
   Updated: 2026-01-05T15:31:52Z
@@ -3343,18 +3340,15 @@
 - [Wrongcrow | Street Knowledge & Premium Heavyweight Streetwear](https://www.wrongcrow.com/collections/hoodies-2): Heavyweight Hoodies (380 GSM) von Wrongcrow. Massiver Stoff, perfekter Drop & Street-Haltung. Fragen zum Fit? Schreib uns für Beratung direkt per WhatsApp!
   Updated: 2026-01-05T15:31:58Z
   Total Products: 0
-- [Heavyweight Hoodies (380 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/dirty-profits): Wrongcrow – Streetwear mit Haltung | Dirty Profits Kollektion. Heahyweight Premium Streetwear zum fairem Preis. Maximaler Komfort im Oversize Fit. Jetzt kaufen!
-  Updated: 2026-01-04T08:13:37Z
+- [Dirty Profits Kollektion | Premium Heavyweight Streetwear](https://www.wrongcrow.com/collections/dirty-profits): Provokante Designs treffen auf 380 GSM Heavyweight Qualität. Entdecke die Dirty Profits Kollektion: Oversized Hoodies & Tees für Macher. Jetzt Piece sichern!
+  Updated: 2026-01-22T13:03:11Z
   Total Products: 26
-- [Heavyweight Hoodies (380 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/hoodies-3): Echte Streetwear mit Haltung: Entdecke Heavyweight Hoodies (380 GSM) & T-Shirts von Wrongcrow. Premium Qualität aus Deutschland. Jetzt exklusive Styles sichern!
-  Updated: 2026-01-04T08:20:46Z
+- [Dirty Profits Hoodies | 380 GSM Heavyweight Streetwear – Wrongcrow](https://www.wrongcrow.com/collections/hoodies-3): Die Dirty Profits Hoodies 380 GSM Heavy Cotton, perfekter Oversized Schnitt & markante Designs. Sichere dir dein Piece ohne Kompromisse. Jetzt shoppen!
+  Updated: 2026-01-22T13:16:22Z
   Total Products: 13
-- [Heavyweight T-Shirts (240 GSM) | Wrongcrow Street Knowledge](https://www.wrongcrow.com/collections/t-shirts-2): Premium Heavyweight Tees: Entdecke Wrongcrow T-Shirts aus 240 GSM Baumwolle. Fester Griff, perfekter Oversized Fit. Jetzt Streetwear mit Haltung shoppen!
-  Updated: 2026-01-04T08:16:44Z
+- [Dirty Profits T-Shirts | 240 GSM Heavyweight Streetwear – Wrongcrow](https://www.wrongcrow.com/collections/t-shirts-2): Premium Dirty Profits Tees mit 240 GSM. Entdecke den Oversized Look und hochwertige Prints. Heavyweight Cotton für maximale Langlebigkeit. Jetzt sichern!
+  Updated: 2026-01-22T13:19:37Z
   Total Products: 13
-- [All Products (ChatGPT-AI Product Description)](https://www.wrongcrow.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-01-05T15:31:58Z
-  Total Products: 66
 
 ## Blogs
 
@@ -3372,20 +3366,20 @@
     Updated: 2025-11-06T11:42:54Z
     Author: Sascha Dimitrios Piepiora
   - [Die Geschichte der Streetwear in Deutschland](https://www.wrongcrow.com/blogs/news/die-geschichte-der-streetwear-in-deutschland)
-    Updated: 2025-12-25T19:46:28Z
+    Updated: 2026-01-21T11:30:35Z
     Author: Sascha Dimitrios Piepiora
     Tags: Blockkids, EntstehungvonStreetwear, Germanstreetwear, GeschichteStreetwear, Statement Street, Streetwear, Streetweardeutschland, Undergrounddays
   - [Warum Heavyweight Cotton den Unterschied macht](https://www.wrongcrow.com/blogs/news/warum-heavyweight-cotton-den-unterschied-macht)
-    Updated: 2025-12-25T19:55:03Z
+    Updated: 2026-01-21T11:29:42Z
     Author: Sascha Dimitrios Piepiora
     Tags: 240GSM Tees, 380GSM Hoodies, BoxyFit, HeacyweightCotton, HeavyCotton, Premium, Vacancy
 
 ## Store Pages
 
-- [Antworten zu Bestellung Versand und Schreib](https://www.wrongcrow.com/pages/fragen-zu-bestellung-versand-und-schreib-bei-wrongcrow): 🛒 Bestellung Wie bestell ich was?Einfach dein Teil aussuchen, Größe checken, in den Warenkorb ballern und ab zur Kasse. Easy. Kann ich meine Bestel...
-  Updated: 2025-12-14T07:28:13Z
-- [Über Uns](https://www.wrongcrow.com/pages/about-us): Vom System zum Statement: Die Geschichte hinter WRONGCROW „Die Straße kennt keine Schablonen. Und ich auch nicht.“ Ich wurde nicht mit dem goldenen...
-  Updated: 2025-12-25T13:35:13Z
+- [Antworten zu Bestellung Versand und Schreib](https://www.wrongcrow.com/pages/fragen-zu-bestellung-versand-und-schreib-bei-wrongcrow): 🛒 Bestellung Wie bestell ich was? Einfach Dein Teil aussuchen, Größe überprüfen, in den Warenkorb legen und ab zur Kasse. Kann ich meine Bestellung...
+  Updated: 2026-01-22T15:12:32Z
+- [Über uns | Die Geschichte hinter WRONGCROW Streetwear](https://www.wrongcrow.com/pages/about-us): Vom System zum Statement: Die Geschichte hinter WRONGCROW „Die Straße kennt keine Schablonen. Und ich auch nicht.“ Ich wurde nicht mit dem goldenen...
+  Updated: 2026-01-22T15:33:38Z
 - [Kontaktiere Uns](https://www.wrongcrow.com/pages/contact-us): info@wrongcrow.com support@wrongcrow.com oder über Unsere Social Media Kanäle
   Updated: 2025-06-27T06:17:27Z
 - [Shipping Policy](https://www.wrongcrow.com/pages/shipping-policy)
@@ -3400,7 +3394,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.wrongcrow.com/policies/privacy-policy)
-  Updated: 2026-01-18T03:58:29+01:00
+  Updated: 2026-01-24T03:47:18+01:00
 - [Shipping Policy](https://www.wrongcrow.com/policies/shipping-policy)
   Updated: 2025-06-11T17:45:48+02:00
 - [Refund Policy](https://www.wrongcrow.com/policies/refund-policy)
