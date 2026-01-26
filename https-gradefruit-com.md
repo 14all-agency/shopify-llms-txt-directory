@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-01-18T00:00:37.171Z
+- Updated At: 2026-01-26T00:00:39.329Z
 
 ## Products
 
@@ -544,20 +544,20 @@
   Updated: 2024-08-28T19:36:50Z
   Total Products: 0
 - [LUTs](https://gradefruit.com/collections/luts): Transform your photos and videos with our premium LUT packs! Designed for photographers, videographers, and creators, our LUTs offer stunning color grading options to elevate your visuals effortlessly. Perfect for all skill levels!
-  Updated: 2025-12-21T12:18:52Z
+  Updated: 2026-01-20T12:19:55Z
   Total Products: 34
 - [Bundle and save big](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
   Updated: 2026-01-10T12:17:41Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
-  Updated: 2025-12-21T12:18:52Z
+  Updated: 2026-01-20T12:19:55Z
   Total Products: 34
 
 ## Store Pages
 
 - [Contact](https://gradefruit.com/pages/contact)
   Updated: 2024-08-28T15:17:35Z
-- [Your privacy choices](https://gradefruit.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://gradefruit.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T14:36:27Z
 - [FAQ](https://gradefruit.com/pages/faq)
   Updated: 2024-10-05T16:14:12Z
