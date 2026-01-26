@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-02-28T03:22:00Z
 - Contact Email: info@starcopia.com
-- Updated At: 2026-01-17T00:00:37.505Z
+- Updated At: 2026-01-26T00:00:40.498Z
 
 ## Products
 
@@ -486,6 +486,182 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/4_570f24ce-d7d4-49d8-bf30-e2a141941ce3.jpg?v=1768378291
   Price: $32.07 USD
+- [Car Safety Hammer Seat Belt Cutter](https://starcopia.com/products/car-safety-hammer-seat-belt-cutter): 👍【Safety Hammer】------Open the cover on left side, hold the body, put the black head on the glass, PRESS HARD, the metal hammer inside will pop out and break the glass, the metal hammer will reset automatically; A round glass inside each package for trial use; 👍【Seat Belt Cutter】------Open the right side cap with ON and OFF sign, and you will see a blade; insert the seat belt into the V-shaped groove and use force to cut seatbelt; 👍【Phone Number Plate】------There are 60 green, fluor escent, and magnetic numbers. Select required digital, just put them on the inside rectangle mirror, combine into telephone number plate; rotate the right cover clockwise, and the arrow will point from ON to OFF, then phone number will be hidden 👍【Fashionable 3-in-1 Design】 ------ Aluminum alloy shell, resistant to dirt or corrosion, can be used for 10 years, similar size like an 's middle finger, small, light, easy to carry, a best Emergency Escape Tool 👍【Best Gift Option】------can be placed in front and rear row seats of the car, or in handbag. can be gifts to relatives and friends on Father's Day, Mother's Day, Thanksgiving, and Christmas
+  Updated: 2026-01-18T05:16:19Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/2000x200px.png?v=1768709368
+  - [black](https://starcopia.com/products/car-safety-hammer-seat-belt-cutter?variant=47865305071841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/2000x200px.png?v=1768709368
+    Price: $23.09 USD
+  - [red](https://starcopia.com/products/car-safety-hammer-seat-belt-cutter?variant=47865305104609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_red_ea759bc4-025f-4786-b4b8-6ed500d39af1.png?v=1768709369
+    Price: $23.09 USD
+- [Air Purifiers for Automotive](https://starcopia.com/products/air-purifiers-for-automotive): 🍃【Refreshment & Relaxation】 If you struggle with allergies, low-quality sleep, bad odor in your car, or symptoms caused by pet dander, the Starcopia Air Purifier Ionizer is ready to help you create a healthy space. We provide perfect air purifiers for bedroom, office and traveling. 🍃【Powerful & Efficient Air Purifier】With large expansion area and longer lifespan than others, Starcopia use Japan's Sharp PM2.5 sensor, it is accurate and sensitivecar air purifier releases 15 Million negative ions per second, eliminating 99. 97% of pollutants such as dust, smoke, and other allergens. At the same time, the noise level is quite low as 30db without disturbing your sleep. 🍃【Unique Dual Sterilization System】Uses efficient negative ion technology, releasing 15 Million Negative Ion per second, which means you won’t have to spend time and money to replace the filter periodically. Also, Eco-Friendly UVC Disinfection system protects you from airborne particles , reaching a sterilization rate of 99.99%. It makes you feel safer in your personal space. 🍃【Compact & Portable Design】The air purifiers for bedroom has sleek and skin-friendly texture body. The size is small as the coffee cup. On the top of the air purifier, it has the led screen to show PM2.5 real time monitor, fan mode, and current battery capacity. When you put it in your car, it also has the cup holder which can be put at the botton of the air purifier ionizer.It prevents the car holder blocks the air inlet. 🍃【 More Powerful】Car UVC Intelligent air purifier, EU , Type-c fast charging, no need to plug in, 1800mAH battery capacity, longer standby time up to 260 minutes, intelligent real-time monitoring function, display air index, one-button switch, start to use at any time.
+  Updated: 2026-01-18T05:15:29Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_c1ea0e5f-8971-4789-a772-6bff3c1df577.png?v=1768710512
+  Price: $83.38 USD
+- [Portable Air Pump for Car Wheel & Tire](https://starcopia.com/products/portable-air-pump-for-car-wheel-tire): 【More Refined Design & Smarter Work】Tire inflator portable air compressor is equipped with a high-efficiency motor and a stylish appearance to lead the market trend! Tire inflator can increase the inflation speed to 36L/Min, so it takes less than 3.5 minutes to inflate a 195/65/R15 car tire from 0 psi to 35 psi. 【More Ergonomic & Powerful Air Compressor】The tire inflator portable air compressor is designed to fit in people's hands in a streamlined digital style, and its size and weight are extremely compressed (like a can of soda). This portable air compressor is Equipped with an 15,000mAh battery capacity charging and Type-C instant charging that can be used continuously for 1 hour and fully charged in 3 to 4 hours. It will be your best travel partner! 【User-friendly 4 Inflation Modes】The car air pump has 4 preset modes suitable for Cars, off-road vehicles, SUVs, motorcycles, bicycles amd basketball It will automatically shut off when it reaches the preset value. You can also set the pressure value to 150PSI to meet more inflatable products. Finally, you can easily switch between PSI, KPa, BAR and KG/CM² pressure units with just one button. 【Display and Pressure Detection】This tire inflator is equipped with a Number and icon display more detailed values. 【Portable Inflator & Emergency Flashlight】It is not only a car tire inflator but also an outdoor emergency flashlight and power banks. When you encounter an emergency at night (tire inflation, tire replacement, warning, and appeal for help), it can play a huge role!
+  Updated: 2026-01-20T07:45:20Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_760c784e-fd87-4eb8-a2b8-2f4ab8b7e3a7.jpg?v=1768894920
+  Price: $49.99 USD
+- [Car Temporary Parking Card Plate](https://starcopia.com/products/car-temporary-parking-card-plate): PHONE NUMBER PARKING SIGN-- Relieve the problem of temporary car parking. The temporary parking card is made of ABS + spring material, Stable structure, durable and not easy to damage. Press to change the number,With a single press, you can switch the display and hide of the number in one second, VEHICLE- MOUNTED CAR PARKING-- You are free to combine your own numbers. Size is 128mm x 35mm x 28mm/5.03*1.38*1.1inch, Small and portable, perfect for all temporary parking panels. Simple installation, self-adhesive design at the bottom, firm adhesion, simple operation to complete the installation. TEMPORARY PARKING CARD-- Wonderful gift choice for friends and much more.
+  Updated: 2026-01-24T06:18:20Z
+  Vendor: starcopia
+  Product Type: car
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_Black_92b76e7a-18a2-4811-b8e4-a6a2969c217b.jpg?v=1769235243
+  - [Black](https://starcopia.com/products/car-temporary-parking-card-plate?variant=47889165484257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_Black_92b76e7a-18a2-4811-b8e4-a6a2969c217b.jpg?v=1769235243
+    Price: $19.24 USD
+  - [White](https://starcopia.com/products/car-temporary-parking-card-plate?variant=47889165517025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_white_8d8e7745-ddd9-485a-af30-935b8006bd5e.jpg?v=1769235243
+    Price: $19.24 USD
+- [M.2 SSD Portable USB 3.2 Type-C 10Gps Hard Drive case](https://starcopia.com/products/m-2-ssd-portable-usb-3-2-type-c-10gps-hard-drive-case): Easy Installation: Tool free installation. Plug & Play, No driver needed for this SATA enclosure. Just push out the cover, plug in the drive, close the cover and go. Hot-swap supported. No request for extra power supply., quickly install and remove SSDs without any tools. DESIGN: Aluminum alloy metal casing, better heat dissipation, plug and play, no need to install drivers, tool-free installation, easy to convert hard drives in seconds. Portable yet durable, ideal for traveling SPEED: M.2 NVMe SSD external case adopts an upgraded version of the main control chip solution and is equipped with the PCIE3.0a standard and latest Gen 2 Type-C interface. Support UASP acceleration protocol and support theoretical data transmission speed of up to 10Gbps. Perfect for tech nerds, 4K content designers, and engineers. When using high-performance NVMe media, the read/write performance can exceed 950 MB/s, Data copy and transferring will be done in in no time COMPATIBILITY: M.2 form factor compatible with both SATA and NVME in sizes: 2230 /2242/2260/2280. 4 kinds of extensions are USB 2.0 x 1, USB-C x 1, SD card slot x 1, TF card slot x 1 compatible SUPPORT MULTIPLE OPERATING SYSTEMS: Supports Window / Mac / Linux. This external hard disk box is suitable for connecting computers, Smartphones, laptops, PS4, and other devices. Supports Window / Mac / Linux. This external hard disk box is suitable for connecting computers, Smartphones, laptops, PS4, and other devices.
+  Updated: 2026-01-24T06:28:35Z
+  Vendor: starcopia
+  Product Type: Hard Drive Enclosure
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/coverqq.jpg?v=1769235899
+  Price: $81.96 USD
+- [Loop Nylon Clasp Bands Compatible with Apple Watch](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch): ✅【Compatible Models】This Fabufabu Band Compatible with Apple Watch Bands 38mm 40mm 41mm 42mm 44mm 45mm 49mm for all Apple Watch Series Ultra 2, Apple Watch Ultra, Apple Watch SE and Apple Watch Series 9/8/7/6/5/4/3/2/1. ✅【Flexible Adjustment】：Fabufabu bands for men 49mm 45mm 44mm 42mm bracelet design with G-Hook, it is easy to wear and take off. Fabufabu band 38/40/41mm Size: Suitable for 5.1"-9.8" (130mm-250mm) wrist;42/44/45/49mm M/L Size: Suitable for 5.1"-9.8" (130mm-250mm) wrist. ✅【Premium Material 】The Rugged Fabufabu is made from two textile layers woven together into one continuous piece without stitching.The newly designed ultra Fabufabu stretchy band fits snugly around your wrist without irritating your skin.The thin, lightweight Fabufabu is made from a nylon weave creating a soft band with increased elasticity for a comfortable fit. The band is infinitely adjustable with a convenient pull tab for quick adjustments on the go. ✅【Choice of Ideal Gift】A nice choice for Father's Day, Mother's Day, Thanksgiving, Christmas, Anniversary, Birthday, Valentine's Day, etc. for friends, boyfriend/girlfriend. ✅【Sports band】Suitable for many scenes, especially suitable for sports such as hike, run, outdoor Activities. Making the ultimate sports watch for athletes of all kinds required a unique approach. That’s why specialized bands for outdoor adventures, endurance training, and water sports are as meticulously crafted as the watch itself.
+  Updated: 2026-01-24T06:44:53Z
+  Vendor: starcopia
+  Product Type: watch clasp
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/1_e5c474b8-22d3-4c46-869f-1376c962a4a4.jpg?v=1769236465
+  - [44mm / Black](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889181999329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/1_e5c474b8-22d3-4c46-869f-1376c962a4a4.jpg?v=1769236465
+    Price: $19.24 USD
+  - [44mm / Orange](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182032097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/3_b0545cbd-8af8-4f54-82ab-3512cb1aaad4.jpg?v=1769236465
+    Price: $19.24 USD
+  - [44mm / Green](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182064865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/4_a2e16dd8-91b2-4ce6-b821-611cb6b78cbb.jpg?v=1769236465
+    Price: $19.24 USD
+  - [44mm / White](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182097633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/2_e72b6dc9-1a0a-41cd-81c7-cb40e91f98b5.jpg?v=1769236465
+    Price: $19.24 USD
+  - [38mm / Black](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182130401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/1_e5c474b8-22d3-4c46-869f-1376c962a4a4.jpg?v=1769236465
+    Price: $19.24 USD
+  - [38mm / Orange](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182163169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/3_b0545cbd-8af8-4f54-82ab-3512cb1aaad4.jpg?v=1769236465
+    Price: $19.24 USD
+  - [38mm / Green](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182195937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/4_a2e16dd8-91b2-4ce6-b821-611cb6b78cbb.jpg?v=1769236465
+    Price: $19.24 USD
+  - [38mm / White](https://starcopia.com/products/loop-nylon-clasp-bands-compatible-with-apple-watch?variant=47889182228705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/2_e72b6dc9-1a0a-41cd-81c7-cb40e91f98b5.jpg?v=1769236465
+    Price: $19.24 USD
+- [iPhone case for IPHONE 14PROMAX compatible](https://starcopia.com/products/iphone-case-for-iphone-14promax-compatible): A durable lightweight case, your carry pop with an ultra-strong and flexible build that gives your most basic equipment the protection it deserves. Durable and flexible Lightweight and form-fitting Made of smooth silicone for easy grip Liquid Animated Phone Case Material: Silicone+tpu Unit weight: 0.025kg
+  Updated: 2026-01-24T06:57:03Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/7_31f15710-1057-4afa-baae-fc7b5b328dd7.png?v=1769237485
+  - [Yellow](https://starcopia.com/products/iphone-case-for-iphone-14promax-compatible?variant=47889197564129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/7_31f15710-1057-4afa-baae-fc7b5b328dd7.png?v=1769237485
+    Price: $26.94 USD
+  - [Black](https://starcopia.com/products/iphone-case-for-iphone-14promax-compatible?variant=47889197596897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_fa4b434b-6824-4bc7-a565-18cd10952074.jpg?v=1769237484
+    Price: $26.94 USD
+  - [White](https://starcopia.com/products/iphone-case-for-iphone-14promax-compatible?variant=47889197629665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_white_7f60a7cd-ffdc-4257-acea-2b43eae8f194.jpg?v=1769237484
+    Price: $26.94 USD
+- [2pcs bundle blue & orange iPhone case for IPHONE 13PROMAX compatible MagSafe](https://starcopia.com/products/2pcs-bundle-blue-orange-iphone-case-for-iphone-13promax-compatible-magsafe): A durable lightweight case with built-in magnets makes your carry pop with an ultra-strong and flexible build that gives your most basic equipment the protection it deserves. Durable and flexible Lightweight and form-fitting Compatible with wireless and MagSafe charging Made of smooth silicone for easy grip Hassle-free, drop protection up to 6ft/1.8m Liquid Animated Phone Case Process Injection/Injection
+  Updated: 2026-01-24T07:29:10Z
+  Vendor: starcopia
+  Product Type: Mobile Phone Cases
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover2_02bdf84f-d240-498a-a354-790c092b7e86.jpg?v=1769239587
+  Price: $19.24 USD
+- [Luxury NAPPA Leather Case Compatible for iPhone 14 pro max](https://starcopia.com/products/luxury-nappa-leather-case-compatible-for-iphone-14-pro-max): The minimalist style of minimal solid colors, with fine threading craftsmanship, using Nappa PU leather fabric, lined with high elastic sponge, replicating the classic, soft and elegant, raised edges and closed bottom structure, providing Extra care. The perfect blend of elegance and everyday protection! Premium leather exterior that develops a unique sheen over time for the convenience of everyday life. elegant minimalist style Lingge car line, with solid color and high-quality materials, a variety of colors to choose from. Solid colors span a variety of minimalist design styles, perfectly matching Hello My Planet's philosophy of life; meeting your style needs from weekdays to weekends. The raised camera edge and the ultra-fine bottom are completely covered.
+  Updated: 2026-01-24T13:26:32Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_white_3aa4b411-3aa9-466e-841a-ac748b00f8a1.png?v=1769240886
+  - [White](https://starcopia.com/products/luxury-nappa-leather-case-compatible-for-iphone-14-pro-max?variant=47889229709537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_white_3aa4b411-3aa9-466e-841a-ac748b00f8a1.png?v=1769240886
+    Price: $79.53 USD
+  - [Beige](https://starcopia.com/products/luxury-nappa-leather-case-compatible-for-iphone-14-pro-max?variant=47889229742305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_beige_668d4432-bac3-457e-a8dc-17b33113b5bd.jpg?v=1769240886
+    Price: $79.53 USD
+  - [Black](https://starcopia.com/products/luxury-nappa-leather-case-compatible-for-iphone-14-pro-max?variant=47889229775073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_250d36fb-4332-4797-8c8f-369eaf9eb7e4.png?v=1769240886
+    Price: $79.53 USD
+- [leather phone case compatible with iPhone 14 pro max series](https://starcopia.com/products/leather-phone-case-compatible-with-iphone-14-pro-max-series): Stylish & Taste: The Fabufabu Hello My Planet collection, in minimalist style in minimal solid colors, offers extra care with a slim leather case lined with luxurious, and a closed bottom construction. The perfect blend of elegance and everyday protection! PREMIUM Genuine Leather : Crafted from premium leather exterior that develops a unique sheen over time. Reinforced with rippled ribs for enhanced grip. This Case is a heavy-duty design that doesn't bulk up your pocket. Wireless charging made easy : The MagSafe-compatible Snap Case supports wireless charging, so you can mount and charge your phone without opening and closing the case. Minimalist style : Various colors are available. Solid colors span a variety of minimalist design styles, perfectly matching Hello My Planet's philosophy of life; meeting your style needs from weekdays to weekends. Raised camera edge, ultra-fine bottom for complete coverage.
+  Updated: 2026-01-24T08:04:04Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_orange.png?v=1769241568
+  - [Orange](https://starcopia.com/products/leather-phone-case-compatible-with-iphone-14-pro-max-series?variant=47889239965921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_orange.png?v=1769241568
+    Price: $19.24 USD
+  - [Brown](https://starcopia.com/products/leather-phone-case-compatible-with-iphone-14-pro-max-series?variant=47889239998689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_brown_c43f44e9-140c-45ba-a4f2-7ccfa5894313.jpg?v=1769241567
+    Price: $19.24 USD
+  - [Black](https://starcopia.com/products/leather-phone-case-compatible-with-iphone-14-pro-max-series?variant=47889240031457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_167fbaca-9dff-4fa7-b1ea-c580b4b6196d.png?v=1769241568
+    Price: $19.24 USD
+- [Carbon Fiber Case for iPhone 14 Pro Max](https://starcopia.com/products/carbon-fiber-case-for-iphone-14-pro-max): Engineered from aramid fiber, matte coated, non-slip light-weight for minimal protection. The case is compatible with thin magnets, does not interfere with cell phone signals, and is compatible with wireless charging. Precisely mechanically cut to weigh only 12.2g, slim profile, only 0.56mm thick, easy access to all ports and buttons. Compatible phone model: iPhone 14 Pro Max Material: aramid fiber Pattern: Stripes
+  Updated: 2026-01-24T08:17:40Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_7408a38c-5fdf-41aa-8dd5-fe145fc54044.jpg?v=1769242282
+  Price: $19.24 USD
+- [1500D Aramid Fiber Case Compatible for iPhone 15 Pro Max](https://starcopia.com/products/1500d-aramid-fiber-case-compatible-for-iphone-15-pro-max): [Premium Material & Creative Technology] Made from 1500D aramid fiber, unlike carbon fiber, this fine-weaved case will not interfere with the signal and it is non-conductive, strong, and durable. Through fine techniques, the iPhone 15 Pro Max case features breathtaking scenes of the vast universe in a minimalist design that is aesthetically appealing to the eyes. [The Thinnest & Lightest Case] Precisely mechanically cut to weigh only 0.42 oz (12g), thickness 0.02 in (0.5 mm) . Light as 2 half dollar coins and thin as a , this iPhone 15 Pro Max case adds no extra bulk and offers a case-less feel for your iPhone 15 Pro Max. [Comfortable to Hold] Designed to improve the user's extra hold and comfort with unique 3D Grip Technology, smooth but non-slip. The rim of the back of the phone is crafted through the chamfering process, which looks more slim and stylish while ensuring a comfortable hold. [Compatibility] Only compatible with iPhone 15 Pro Max -6.7 inch. The rim on the front is polished through zero gapping with a round-edged design to avoid sharp edges, protect the phone's front screen, and allow you to apply a screen protector (not included).
+  Updated: 2026-01-24T08:21:34Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_c652192f-b8d4-41fe-94f7-a12152cccd0f.png?v=1769242579
+  Price: $19.24 USD
+- [Leather Phone Case Compatible Fits to iPhone 15 Pro Max](https://starcopia.com/products/leather-phone-case-compatible-fits-to-iphone-15-pro-max): Stylish & Taste: The Fabufabu Hello My Planet collection, in minimalist style in minimal solid colors, offers extra care with a slim leather case lined with luxurious, raised edges and a closed bottom construction. The perfect blend of elegance and everyday protection! PREMIUM First Layer of Cowhide : Crafted from premium leather exterior that develops a unique sheen over time. Reinforced with rippled ribs for enhanced grip. This Case is a heavy-duty design that doesn't bulk up your pocket. EXCEPTIONAL PROTECTION: Nano vacuum-plated soft edges, tight fit, fully enclosed design, comprehensive and considerate protection of every aspect of the phone and lens position Wireless charging made easy : The MagSafe-compatible Snap Case supports wireless charging, so you can mount and charge your phone without opening and closing the case. minimalist style Various colors are available. Solid colors span a variety of minimalist design styles, perfectly matching Hello My Planet's philosophy of life; meeting your style needs from weekdays to weekends. Raised camera edge, ultra-fine bottom for complete coverage.
+  Updated: 2026-01-24T08:25:59Z
+  Vendor: starcopia
+  Product Type: iphone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_481c9b2b-1326-4013-92b4-6a9c5ae73d14.png?v=1769242878
+  - [Black](https://starcopia.com/products/leather-phone-case-compatible-fits-to-iphone-15-pro-max?variant=47889257693409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_black_481c9b2b-1326-4013-92b4-6a9c5ae73d14.png?v=1769242878
+    Price: $19.24 USD
+  - [Green](https://starcopia.com/products/leather-phone-case-compatible-fits-to-iphone-15-pro-max?variant=47889257726177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0630/7649/9681/files/cover_green_6a6ba583-6538-4d33-a55a-c27a168f2a79.png?v=1769242878
+    Price: $19.24 USD
 
 ## Collections
 
@@ -508,8 +684,8 @@
   Updated: 2026-01-09T03:21:30Z
   Total Products: 4
 - [accessories](https://starcopia.com/collections/accessories): Products for your everyday needs
-  Updated: 2026-01-14T08:14:49Z
-  Total Products: 16
+  Updated: 2026-01-24T08:24:40Z
+  Total Products: 29
 
 ## Store Pages
 
@@ -547,7 +723,7 @@
   Updated: 2025-10-21T10:00:33Z
 - [FAQ](https://starcopia.com/pages/faq): Honourable customer, firstly thanks for your visit on Starcopia design store. Question: How long does it take until I receive my order? Answer: Del...
   Updated: 2025-10-22T02:57:07Z
-- [Your privacy choices](https://starcopia.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://starcopia.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:40:28Z
 - [Mix and Match](https://starcopia.com/pages/collection-bundle)
   Updated: 2025-10-05T05:02:00Z
