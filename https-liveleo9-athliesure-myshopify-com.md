@@ -10,7 +10,7 @@
 - Contact Email: liveleo9thebrand@gmail.com
 - Contact Phone: 12024277643
 - Address:  Brooksquare Drive
-- Updated At: 2026-01-16T00:00:38.212Z
+- Updated At: 2026-01-26T00:00:42.221Z
 
 LIVELEO9 A bespoke shop. 
 
@@ -2066,7 +2066,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/625cb37527294899aa09d19f955c0773.png?v=1763624144
     Price: $251.94 USD
 - [LIVELEO9 Two-Tone Blockchain Fleeced Varsity Jacket](https://liveleo9-athliesure.myshopify.com/products/two-tone-fleeced-varsity-jacket): Item Number:RQ0001 Gender:Unisex Model:Regular Fabric:70% polyester, 30% cotton Fabric Weight:11.2 oz/yd² (380 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Street, Daily Casual, Outdoor, Home, Sport, Long Sleeve, Regular Sleeve, V-Neck, Regular, Loose, Winter Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 21.7 55 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Length 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 29.1 74 Shoulder 20.5 52 20.9 53 21.7 55 22.4 57 23.2 59 24.0 61 Sleeve length 22.0 56 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9063938916540
-  Updated: 2026-01-15T11:52:09Z
+  Updated: 2026-01-16T00:50:16Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -2190,7 +2190,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/cb5fba7679864b02bb2657cfcd96f37d.png?v=1763884208
     Price: $245.94 USD
 - [LIVELEO9  Half-Zip Fleece Hoodie | Big Hood |](https://liveleo9-athliesure.myshopify.com/products/big-hood-half-zip-fleece-hoodie-1): Item Number:RW0012 Gender:Unisex Model:Loose Fabric:84.43% cotton, 15.57% polyester Fabric Weight:12.1 oz/yd² (410 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Daily Casual, Zipper, Long Sleeve, Regular Sleeve, Regular, Loose, Winter Size Chart M L XL 2XL inch cm inch cm inch cm inch cm Chest 26.8 68 27.6 70 28.3 72 29.1 74 Length 28.0 71 28.7 73 29.5 75 30.3 77 Shoulder 25.6 65 26.4 67 27.2 69 28.0 71 Sleeve length 21.3 54 21.7 55 22.0 56 22.4 57 gid://shopify/Product/9063939309756
-  Updated: 2026-01-15T11:55:27Z
+  Updated: 2026-01-16T12:59:16Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -2228,7 +2228,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ab75386590a04f46bd2574bd2d69b6cc.png?v=1768478126
     Price: $271.94 USD
 - [LIVELEO9  x AMIA Heavyweight Sunfade Oversized Hoodie](https://liveleo9-athliesure.myshopify.com/products/heavyweight-sunfade-oversized-hoodie): Item Number:RU0066 Gender:Unisex Model:Loose Fabric:100% cotton Fabric Weight:11.8 oz/yd² (400 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, Home, Outdoor, Sport, Pure Cotton, Washed, Pocket, Long Sleeve, Drop Shoulder, Hooded, Long, Loose, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 26.4 67 27.2 69 28.0 71 28.7 73 29.5 75 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 22.4 57 23.0 58.5 23.6 60 24.2 61.5 24.8 63 Sleeve length 24.0 61 24.4 62 24.8 63 25.2 64 25.6 65 gid://shopify/Product/9063939408060
-  Updated: 2026-01-15T11:57:34Z
+  Updated: 2026-01-16T00:12:58Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -4377,32 +4377,6 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c49251094d284b0b88ed899c2fb34e07.png?v=1763626588
     Price: $257.95 USD
-- [LIVELEO9 Sun Fade Boxy Detachable Fur Hoodie](https://liveleo9-athliesure.myshopify.com/products/sun-fade-boxy-detachable-fur-hoodie): Item Number:RQ0027Gender:UnisexModel:RegularFabric:51% polyester, 49% cottonFabric Weight:10.6 oz/yd² (360 g/m²)Fabric Thickness:ThickenCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Outdoor, Running, Sport, Office, Cotton Blend, Washed, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, WinterPrint Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 Length 24.4 62 25.2 64 26.0 66 26.8 68 27.6 70 Shoulder 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 Sleeve length 22.4 57 22.8 58 23.2 59 23.6 60 24.0 61 gid://shopify/Product/9068724453564
-  Updated: 2026-01-03T11:51:21Z
-  Vendor: ODMPOD
-  Product Type: LIVELEO9
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ad41a7a1d15b4f3581975cd5ae220a2c.png?v=1764051275
-  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/sun-fade-boxy-detachable-fur-hoodie?variant=45471656214716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ad41a7a1d15b4f3581975cd5ae220a2c.png?v=1764051275
-    Price: $370.00 USD
-  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/sun-fade-boxy-detachable-fur-hoodie?variant=45471656247484)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ad41a7a1d15b4f3581975cd5ae220a2c.png?v=1764051275
-    Price: $370.00 USD
-  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/sun-fade-boxy-detachable-fur-hoodie?variant=45471656280252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ad41a7a1d15b4f3581975cd5ae220a2c.png?v=1764051275
-    Price: $370.00 USD
-  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/sun-fade-boxy-detachable-fur-hoodie?variant=45471656313020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ad41a7a1d15b4f3581975cd5ae220a2c.png?v=1764051275
-    Price: $370.00 USD
-  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/sun-fade-boxy-detachable-fur-hoodie?variant=45471656345788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/ad41a7a1d15b4f3581975cd5ae220a2c.png?v=1764051275
-    Price: $370.00 USD
 - [LIVELEO9 Denim Vintage Washed Jacket](https://liveleo9-athliesure.myshopify.com/products/liveleo9-denim-vintage-washed-jacket): Item Number:RQ0030Gender:UnisexModel:LooseFabric:87.1% cotton, 6.7% viscose, 6.2% spandexFabric Weight:9.7 oz/yd² (330 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, Sport, Office, Cotton Blend, Washed, Zipper, Patchwork, Pocket, Long Sleeve, Drop Shoulder, Stand Collar, Regular, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Length 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 Shoulder 19.7 50 20.3 51.5 20.9 53 21.5 54.5 22.0 56 Sleeve length 25.4 64.5 26.0 66 26.6 67.5 27.2 69 27.8 70.5 gid://shopify/Product/9068855984316
   Updated: 2026-01-03T11:51:21Z
   Vendor: ODMPOD
@@ -5988,7 +5962,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/655be929f2f9477c9d035c02f0443d92.png?v=1764306825
     Price: $229.96 USD
 - [LIVELEO9 Contrast Raglan Sleeve Baseball Jacket](https://liveleo9-athliesure.myshopify.com/products/contrast-raglan-sleeve-baseball-jacket): Item Number:RQ0029Gender:UnisexModel:LooseFabric:Main Fabric: 61.9% cotton, 38.1% polyester; Contrast Fabric: 100% polyesterFabric Weight:11.2 oz/yd² (380 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Daily Casual, Outdoor, School, Sport, Cotton Blend, Patchwork, Button, Long Sleeve, Raglan Sleeve, Lapel Collar, Regular, Loose, WinterPrint Size:40*52cm Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 21.3 54 22.0 56 22.8 58 23.6 60 24.4 62 25.2 64 Sleeve Length 29.7 75.5 30.3 77 30.9 78.5 31.5 80 32.1 81.5 32.7 83 Length 26.2 66.5 27.0 68.5 27.8 70.5 28.5 72.5 29.3 74.5 30.1 76.5 gid://shopify/Product/9072566567100
-  Updated: 2026-01-15T11:46:09Z
+  Updated: 2026-01-16T12:44:37Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -6420,7 +6394,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/6a02e76c12524a6a8ffd1463ef56d46a.png?v=1764488451
     Price: $239.96 USD
 - [LIVELEO9 Essential Heavyweight Oversized Drawstring Hem Hoodie](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-heavyweight-oversized-drawstring-hem-hoodie): Item Number:RW0054Gender:UnisexModel:LooseFabric:56.44% cotton, 43.56% polyesterFabric Weight:12.4 oz/yd² (420 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Cotton Blend, Drawstring, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, WinterPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 25.6 65 26.6 67.5 27.6 70 28.5 72.5 Length 26.0 66 26.8 68 27.6 70 28.3 72 Shoulder 26.0 66 27.0 68.5 28.0 71 28.9 73.5 Sleeve length 20.9 53 21.7 55 22.0 56 22.8 58 gid://shopify/Product/9073662722236
-  Updated: 2026-01-15T11:35:01Z
+  Updated: 2026-01-16T00:11:35Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -8076,7 +8050,7 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/c0234f329b01457cb94db66c6b6a8661.png?v=1768429911
     Price: $251.96 USD
 - [LIVELEO9 Vintage Washed Cropped Sweatshirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-cropped-sweatshirt): Item Number:WW0016Gender:WomenModel:RegularFabric:85% cotton, 15% polyesterFabric Weight:12.1 oz/yd² (410 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Gym, Outdoor, School, Sport, Cotton Blend, Washed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Crop, Loose, Spring, AutumnPrint Size:40*52cm Size Chart S M L inch cm inch cm inch cm Chest 22.4 57 23.2 59 24.0 61 Length 18.3 46.5 18.9 48 19.5 49.5 Shoulder 24.8 63 25.6 65 26.4 67 Sleeve length 18.9 48 19.3 49 19.7 50 gid://shopify/Product/9134347124924
-  Updated: 2026-01-15T12:49:06Z
+  Updated: 2026-01-24T17:43:17Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -8130,61 +8104,61 @@ LIVELEO9 A bespoke shop.
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/0e6214a7b4f14d849a4469ca567254af.png?v=1768430046
     Price: $245.94 USD
 - [LIVELEO9 Vintage Washed Drawstring Sweatpants](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants): Item Number:WK0016Gender:WomenModel:LooseFabric:85% cotton, 15% polyesterFabric Weight:12.1 oz/yd² (410 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, School, Sport, Office, Cotton Blend, Washed, Drawstring, Regular, Loose, Mid Waist, WinterPrint Size:40*52cm Size Chart S M L inch cm inch cm inch cm Length 38.6 98 39.4 100 40.2 102 Waist 12.6 32 13.4 34 14.2 36 Hip 22.0 56 22.8 58 23.6 60 gid://shopify/Product/9134347452604
-  Updated: 2026-01-15T12:50:05Z
+  Updated: 2026-01-24T17:41:35Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
-  - [Black / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382194364)
+  - [Black / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382194364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3e39ac280e704b829d762bbaf0a21707.png?v=1768430196
     Price: $243.96 USD
-  - [Black / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382227132)
+  - [Black / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382227132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3e39ac280e704b829d762bbaf0a21707.png?v=1768430196
     Price: $243.96 USD
-  - [Black / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382259900)
+  - [Black / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382259900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/3e39ac280e704b829d762bbaf0a21707.png?v=1768430196
     Price: $243.96 USD
-  - [Apricot / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382292668)
+  - [Apricot / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382292668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
     Price: $243.96 USD
-  - [Apricot / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382325436)
+  - [Apricot / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382325436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
     Price: $243.96 USD
-  - [Apricot / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382358204)
+  - [Apricot / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382358204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/13c5b01e11d546dbbbb36a9ee056bab9.png?v=1768430196
     Price: $243.96 USD
-  - [Rose Red / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382390972)
+  - [Rose Red / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382390972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/71aecfc298d245e7ae42b6efc6937bf2.png?v=1768430195
     Price: $243.96 USD
-  - [Rose Red / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382423740)
+  - [Rose Red / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382423740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/71aecfc298d245e7ae42b6efc6937bf2.png?v=1768430195
     Price: $243.96 USD
-  - [Rose Red / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382456508)
+  - [Rose Red / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382456508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/71aecfc298d245e7ae42b6efc6937bf2.png?v=1768430195
     Price: $243.96 USD
-  - [Dark Gray / S](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382489276)
+  - [Dark Gray / S / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382489276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/db3160615ec042a3859583e67424685e.png?v=1768430196
     Price: $243.96 USD
-  - [Dark Gray / M](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382522044)
+  - [Dark Gray / M / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382522044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/db3160615ec042a3859583e67424685e.png?v=1768430196
     Price: $243.96 USD
-  - [Dark Gray / L](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382554812)
+  - [Dark Gray / L / Female](https://liveleo9-athliesure.myshopify.com/products/liveleo9-vintage-washed-drawstring-sweatpants?variant=45707382554812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/db3160615ec042a3859583e67424685e.png?v=1768430196
     Price: $243.96 USD
 - [LIVELEO9 Essential Slim Fit Mock Neck T-Shirt](https://liveleo9-athliesure.myshopify.com/products/liveleo9-essential-slim-fit-mock-neck-t-shirt): Item Number:WT0042Gender:WomenModel:BodyconFabric:47.1% cotton, 47.1% viscose, 5.8% spandexFabric Weight:7.7 oz/yd² (260 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Elegant, Daily Casual, Holiday, Outdoor, Sport, Cotton Blend, Spandex, Short Sleeve, Regular Sleeve, Round Neck / O-Neck, Crop, Bodycon, Spring, SummerPrint Size:40*52cm Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 15.9 40.5 16.7 42.5 17.5 44.5 18.3 46.5 Length 19.1 48.5 19.7 50 20.3 51.5 20.9 53 Shoulder 14.0 35.5 14.6 37 15.2 38.5 15.7 40 Sleeve length 5.1 13 5.5 14 5.9 15 6.3 16 gid://shopify/Product/9134377664700
-  Updated: 2026-01-15T13:22:06Z
+  Updated: 2026-01-24T17:45:11Z
   Vendor: ODMPOD
   Product Type: LIVELEO9
   Availability: Available
@@ -8269,7 +8243,59 @@ LIVELEO9 A bespoke shop.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/2d6fe9895f7d44e8af943d9fc2bedb4d.png?v=1768435221
     Price: $149.96 USD
-[List Continued](https://liveleo9-athliesure.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTM0Mzc3NjY0NzAwLCJsYXN0X3ZhbHVlIjoiOTEzNDM3NzY2NDcwMCJ9)
+- [LIVELEO9 Wide Leg Drawstring Sweatpants](https://liveleo9-athliesure.myshopify.com/products/wide-leg-drawstring-sweatpants): Item Number:RK0072 Gender:Unisex Model:Loose Fabric:54.7% polyester, 39.8% cotton, 5.5% spandex Fabric Weight:11.2 oz/yd² (380 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, Holiday, Outdoor, School, Office, Cotton Blend, Pleated, Pocket, Drawstring, Regular, Wide Leg, Mid Waist, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 41.7 106 42.1 107 42.5 108 42.9 109 43.3 110 Waist 13.4 34 14.2 36 15.0 38 15.7 40 16.5 42 Hip 20.5 52 21.3 54 22.0 56 22.8 58 23.6 60 gid://shopify/Product/9152824213692
+  Updated: 2026-01-25T05:22:31Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f788290e727249de8242dcd249e86093.png?v=1769275326
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/wide-leg-drawstring-sweatpants?variant=45781798650044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f788290e727249de8242dcd249e86093.png?v=1769275326
+    Price: $243.96 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/wide-leg-drawstring-sweatpants?variant=45781798682812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f788290e727249de8242dcd249e86093.png?v=1769275326
+    Price: $243.96 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/wide-leg-drawstring-sweatpants?variant=45781798715580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f788290e727249de8242dcd249e86093.png?v=1769275326
+    Price: $243.96 USD
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/wide-leg-drawstring-sweatpants?variant=45781798748348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f788290e727249de8242dcd249e86093.png?v=1769275326
+    Price: $243.96 USD
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/wide-leg-drawstring-sweatpants?variant=45781798781116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/f788290e727249de8242dcd249e86093.png?v=1769275326
+    Price: $243.96 USD
+- [LIVELEO9 Boxy Cinched Hem Hoodie](https://liveleo9-athliesure.myshopify.com/products/boxy-cinched-hem-hoodie): Item Number:RW0072 Gender:Unisex Model:Loose Fabric:54.7% polyester, 39.8% cotton, 5.5% spandex Fabric Weight:11.2 oz/yd² (380 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, Outdoor, School, Office, Cotton Blend, Pocket, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 25.6 65 26.4 67 27.2 69 28.0 71 28.7 73 Length 27.2 69 27.6 70 28.0 71 28.3 72 28.7 73 Shoulder 25.6 65 26.4 67 27.2 69 28.0 71 28.7 73 Sleeve length 23.4 59.5 23.8 60.5 24.2 61.5 24.6 62.5 25.0 63.5 gid://shopify/Product/9152829325500
+  Updated: 2026-01-25T05:31:18Z
+  Vendor: ODMPOD
+  Product Type: LIVELEO9
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8a258d1b1dc54164bf3a4cf8f4a87e8d.png?v=1769275866
+  - [Black / S / Unisex](https://liveleo9-athliesure.myshopify.com/products/boxy-cinched-hem-hoodie?variant=45781825126588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8a258d1b1dc54164bf3a4cf8f4a87e8d.png?v=1769275866
+    Price: $245.96 USD
+  - [Black / M / Unisex](https://liveleo9-athliesure.myshopify.com/products/boxy-cinched-hem-hoodie?variant=45781825159356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8a258d1b1dc54164bf3a4cf8f4a87e8d.png?v=1769275866
+    Price: $245.96 USD
+  - [Black / L / Unisex](https://liveleo9-athliesure.myshopify.com/products/boxy-cinched-hem-hoodie?variant=45781825192124)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8a258d1b1dc54164bf3a4cf8f4a87e8d.png?v=1769275866
+    Price: $245.96 USD
+  - [Black / XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/boxy-cinched-hem-hoodie?variant=45781825224892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8a258d1b1dc54164bf3a4cf8f4a87e8d.png?v=1769275866
+    Price: $245.96 USD
+  - [Black / 2XL / Unisex](https://liveleo9-athliesure.myshopify.com/products/boxy-cinched-hem-hoodie?variant=45781825257660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0737/6735/4556/files/8a258d1b1dc54164bf3a4cf8f4a87e8d.png?v=1769275866
+    Price: $245.96 USD
+[List Continued](https://liveleo9-athliesure.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTUyODI5MzI1NTAwLCJsYXN0X3ZhbHVlIjoiOTE1MjgyOTMyNTUwMCJ9)
 
 ## Collections
 
@@ -8284,7 +8310,7 @@ LIVELEO9 A bespoke shop.
 
 - [Contact](https://liveleo9-athliesure.myshopify.com/pages/contact)
   Updated: 2025-11-20T06:15:47Z
-- [Your privacy choices](https://liveleo9-athliesure.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://liveleo9-athliesure.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-20T06:15:55Z
 
 ## Policies
