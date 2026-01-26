@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2026-01-01T18:10:13Z
-- Updated At: 2026-01-19T00:00:32.401Z
+- Updated At: 2026-01-26T00:00:34.719Z
 
 ## Products
 
@@ -881,7 +881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/71VogZbCbYL.jpg?v=1767477029
     Price: $67.30 CAD
 - [Goose Down Sleeping Bag Grey](https://shafto-3.myshopify.com/products/goose-down-sleeping-bag-grey): Our company is synonymous with excellence and comfort. We have made it our purpose to develop new and exciting products that make your life easier. For those who love a good outdoor adventure, our camping beds are here to provide a unique experience so you can live in full comfort even in the depths of the woods. If you are not entirely happy with your purchase, our customer support team is always ready to address your questions and concerns. Discover our goose down sleeping bag. Presenting the Yatta Life 4 Seasons Lightweight Portable Waterproof Camping White Goose Down Mummy Sleeping Bag with Compression Sack, a versatile and reliable choice for outdoor enthusiasts of all levels. This sleeping bag combines compactness, warmth, and durability, making it a top pick for customers seeking quality and convenience. The 20D Nylon Inner fabric and 300g of White Goose Down (750FP) stuffing provide a luxurious feel, while the temperature rating of Comfort: 0℃, Limit: -6℃, Extreme: -17℃ guarantees a comfortable night's sleep in various weather conditions. SUPERIOR INSULATION - Our lightweight sleeping bag features 300g of goose down with a 750FP rating, offering exceptional warmth and comfort even in cold weather, ensuring you stay cozy on your camping, backpacking, hiking, or outdoor adventures DURABLE MATERIAL - This hiking sleeping bag is crafted with a 20D Nylon fabric both inside and outside to withstand rough outdoor conditions while providing a soft and comfortable sleeping surface, perfect for long-term use in various environments WEATHER RESISTANT - Our waterproof sleeping bag for adults protects you from moisture and dampness, keeping you dry and comfortable throughout the night, ideal for unpredictable weather conditions during your outdoor expeditions VERSATILE DESIGN - Designed for all seasons, this camping sleeping bag features a temperature rating of Comfort: 0℃, Limit: -6℃, Extreme: -17℃, ensuring you stay warm and comfortable whether you are camping in mild weather or extreme cold environments As a product expert, I confidently present the Goose Down Sleeping Bag - Black. With its goose down filling and durable black exterior, this sleeping bag offers superior warmth and protection for outdoors enthusiasts. Stay comfortable and well-rested on your next adventure with this high-quality sleeping bag. Material：Surface Fabric: 20D Nylon Inner both inside and outside Stuffing: White Goose Down 300g（750FP） Total Weight：820g Size: Unfold size 200×80cm Fold size : Φ18×29cm Limit Temperature Rating: Comfort:0℃ Limit:-6℃ Extreme:-17℃ Zipper:YKK 20D water repellent nylon surface The right equipment for every adventure - with the extensive range from Yatta Life. Yatta - Tested in the Canadian Rockies Available in Black and Grey
-  Updated: 2026-01-04T09:50:34Z
+  Updated: 2026-01-23T19:20:15Z
   Vendor: YATTA
   Product Type: n/a
   Availability: Available
@@ -913,7 +913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/Cot3.jpg?v=1767477029
     Price: $218.43 CAD
 - [2 in 1 Electric Bikini Trimmer & Facial Shaver Waterproof Pink](https://shafto-3.myshopify.com/products/2-in-1-electric-bikini-trimmer-facial-shaver-waterproof-pink): Effortless & Painless Grooming – Silky Smooth Skin Anytime, Anywhere Specifications: Model: ZB-0236L Blade Type: R-Type Clipper Blade with Hypoallergenic Stainless-Steel Blades Design: Dual-Head (Body Shaver + Facial Shaver) Wet & Dry Use: IPX7 Waterproof, suitable for shower or bathtub use Comb Guide: 3mm & 6mm attachments for customized trimming Battery Life: 1.5 hours full charge lasts 20-30 uses (15-30 days) Charging Options: USB charging (compatible with power bank, laptop & car charger) Portability: Compact, lightweight & travel-friendly Key Features: ✔ 2-in-1 Dual-Head Design: Bikini trimmer & facial shaver in one device✔ Painless & Gentle: R-Type hypoallergenic blades prevent irritation, perfect for sensitive skin✔ Waterproof & Easy to Clean: IPX7-rated for use in wet & dry conditions✔ Rechargeable & Long-Lasting: Quick 1.5-hour charge provides up to 30 uses✔ Adjustable Trimming Lengths: Includes 3mm & 6mm comb guides for precise grooming✔ Travel-Ready Design: Compact & lightweight for easy portability Product Description: Achieve flawless, smooth skin effortlessly with the 2-in-1 Electric Bikini Trimmer & Facial Shaver. Designed with hypoallergenic stainless-steel blades, this electric razor gently removes hair from sensitive areas such as the bikini line, underarms, legs, and face—all without irritation or discomfort. The dual-head design allows you to switch between a body shaver and a facial trimmer, eliminating the need for multiple devices. Built for versatile grooming, this IPX7 waterproof shaver can be used in or out of the shower, and its detachable cutter head makes cleaning a breeze. With a quick 1.5-hour charge, enjoy 20-30 uses per charge, making it the perfect travel companion. The compact and lightweight design ensures it fits effortlessly into your purse or makeup bag, so you can maintain silky-smooth skin anytime, anywhere.
-  Updated: 2026-01-11T23:47:56Z
+  Updated: 2026-01-21T23:53:48Z
   Vendor: OBA
   Product Type: Health & Beauty > Shaving & Hair Removal > Shaving & Grooming
   Availability: Available
@@ -1050,7 +1050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/manualProduct_2Fad9ff4e02965e751dfddeb784da2bb7b.jpg?v=1767477825
   Price: $17.09 CAD
 - [Active Mike Boys Jogger Set](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set): Keep your little one cozy and stylish with this soft and breathable 100% cotton zip-up hoodie jogger set. Perfect for everyday wear, playtime, or daycare, this outfit combines comfort with a fun design that kids love. Features: Zip-up Hoodie – Long sleeve, round neck, with playful embroidered Mickey outline. Sweatpants – Elastic waistband and cuffs for all-day comfort and easy movement. Fabric – 100% premium cotton for softness, durability, and breathability. Why Parents Love It: Gentle on sensitive skin Easy to mix & match Durable for active play Machine washable
-  Updated: 2026-01-18T05:17:41Z
+  Updated: 2026-01-25T05:17:41Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -1088,14 +1088,14 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
     Price: $14.00 CAD
 - [Basket set DKD Home Decor 149582](https://shafto-3.myshopify.com/products/basket-set-dkd-home-decor-149582): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Basket set DKD Home Decor 149582 at the best price. Approx. dimensions: 22 x 22 cm Type: Basket set
-  Updated: 2026-01-16T03:18:51Z
+  Updated: 2026-01-25T23:18:17Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Bathroom > Bathroom accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001625635_S3007360_P32.jpg?v=1767480708
-  Price: $40.99 CAD
+  Price: $60.99 CAD
 - [Incense set DKD Home Decor Incense](https://shafto-3.myshopify.com/products/incense-set-dkd-home-decor-incense): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Incense set DKD Home Decor Incense at the best price. Design: Indian Man Units: 6 Units Approx. dimensions: 7 x 7 x 13 cm Width: 7 cm Adjustable: No Material: Mango wood Mountable: No Colour: Multicolour Type: Incense Holder Important information: Assorted designs sent randomly according to stock.
-  Updated: 2026-01-17T03:33:15Z
+  Updated: 2026-01-21T03:31:19Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Cleaning, Vacuuming and Ironing > Air Fresheners
   Availability: Available
@@ -1116,12 +1116,12 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424002078034_S3061631_P00.jpg?v=1767480739
   Price: $7.84 CAD
 - [Equip 333313 разпределител на напрежение (PDU) 8 Изход(и) за променлив ток 1U Черен, Сребърен (333313)](https://shafto-3.myshopify.com/products/equip-333313-разпределител-на-напрежение-pdu-8-изходи-за-променлив-ток-1u-черен-сребърен-333313): RoHS stands for Restriction of Hazardous Substances. RoHS, also known as Directive 2002/95/EC, originated in the European Union and restricts the use of specific hazardous materials found in electrical and electronic products (known as EEE). All applicable products in the EU market after July 1, 2006 must pass RoHS compliance. The substances banned under RoHS are lead (Pb), mercury (Hg), cadmium (Cd), hexavalent chromium (CrVI), polybrominated biphenyls (PBB), polybrominated diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, BBP, DIBP).
-  Updated: 2026-01-17T23:04:14Z
+  Updated: 2026-01-24T23:03:25Z
   Vendor: Equip
   Product Type: Elektronika -> Elektronikai tartozékok -> Tápellátás -> Elosztók és túlfeszültségvédők
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/bf1d7060-41ac-4c41-97db-e8bc3e87e4d3.png?v=1767481239
-  Price: $29.21 CAD
+  Price: $28.79 CAD
 - [Men’s box hoodie](https://shafto-3.myshopify.com/products/men-s-box-hoodie-7): This hoodie’s tightly knit fleece delivers premium softness. The drop shoulders and overlapped neckline give it a clean, boxy shape—made to look fresh every time you wear it. • 60% cotton, 40% polyester • Carbon Grey color is 55% cotton, 45% polyester • 3-end fleece • Fabric weight: 10 oz./yd.² (339 g/m²) • Oversized, relaxed fit • Set-in sleeves • Drop shoulders • Overlapped neckline • 1 × 1 rib at the cuffs and waistband • Double-layered hood in self fabric • Single-jersey neck tape on the inside of the back • Self-fabric half moon on the inside of the back • Blank product sourced from Pakistan
   Updated: 2026-01-07T07:36:42Z
   Vendor: SHAFTO 
