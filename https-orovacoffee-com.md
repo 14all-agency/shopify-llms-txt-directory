@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2026-01-19T00:00:44.586Z
+- Updated At: 2026-01-26T00:00:46.889Z
 
 ## Products
 
@@ -3454,7 +3454,7 @@
 
 - [Contact](https://orovacoffee.com/pages/contact)
   Updated: 2025-07-08T18:58:27Z
-- [Your privacy choices](https://orovacoffee.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://orovacoffee.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-11T14:59:47Z
 
 ## Policies
