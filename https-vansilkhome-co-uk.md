@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-23T02:38:43Z
 - Contact Email: support@vansilkhome.co.uk
-- Updated At: 2026-01-18T00:00:25.453Z
+- Updated At: 2026-01-26T00:00:35.201Z
 
 ## Products
 
@@ -4182,12 +4182,18 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Layer Up! The Art of Adding Warmth Through Winter Textiles](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/layer-up-the-art-of-adding-warmth-through-winter-textiles)
     Updated: 2026-01-16T07:22:27Z
     Author: WenQing Wang
+  - [UK Student Halls Bedding Sizes Explained (So You Don’t Buy the Wrong One)](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/uk-student-halls-bedding-sizes-explained-so-you-don-t-buy-the-wrong-one)
+    Updated: 2026-01-20T05:44:08Z
+    Author: WenQing Wang
+  - [Designing Your Sanctuary: A Galentine’s Guide to Quiet Luxury](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/designing-your-sanctuary-a-galentine-s-guide-to-quiet-luxury)
+    Updated: 2026-01-23T05:32:00Z
+    Author: WenQing Wang
 
 ## Store Pages
 
 - [Contact](https://vansilkhome.co.uk/pages/contact): Company Info LOOMUSE INC Store Hours 9:00 AM – 6:00 PM, Monday to Friday. Support Email support@vansilkhome.co.uk
   Updated: 2025-12-23T09:49:28Z
-- [Your privacy choices](https://vansilkhome.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://vansilkhome.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-23T11:19:05Z
 - [Shipping Information](https://vansilkhome.co.uk/pages/shipping-information): Vansilk offers world worldwide shipping. For orders over £100, we will offer free delivery. For orders under £100, the freight price is £8 which wi...
   Updated: 2025-12-23T09:32:24Z
