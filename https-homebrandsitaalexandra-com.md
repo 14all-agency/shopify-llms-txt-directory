@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-03T11:00:45Z
 - Contact Email: homebrandsitaalexandraofficial@gmail.com
-- Updated At: 2026-01-18T00:00:36.780Z
+- Updated At: 2026-01-26T00:00:38.373Z
 
 ## Products
 
@@ -348,7 +348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/30c87ab3-cf16-403e-b362-150c9f0051eb.jpg?v=1765810848
     Price: £15.99 GBP
 - [150cm Artificial Olive Tree With Black Pot, Tall Fake Tree With Natural Wood Trunk & Realistic Green Leaves And Fruits, Indoor Faux Plant For Home, Office, Living Room, Corner Decor](https://homebrandsitaalexandra.com/products/150cm-artificial-olive-tree-with-black-pot-tall-fake-tree-with-natural-wood-trunk-realistic-green-leaves-and-fruits-indoor-faux-plant-for-home-office-living-room-corner-decor): Features & Details Lifelike All-Season Design: This artificial olive tree features vibrant green leaves and lifelike fruits. Made of durable rubber silk fabric with detailed textures and rich colour, it brings year-round freshness to any home or commercial space Easy Maintenance Greenery: No watering, no pruning, no fading or wilting! This fake tree stays fresh and vibrant year-round. Just wipe with a damp cloth to keep it clean—enjoy the beauty of nature without the hassle of plant care Flexible Branches: Built-in metal wires allow you to bend and shape each branch to your liking. Create a personalised look to suit your space—whether natural, full, or minimal. The tree maintains its form for years to come Peace of Mind Materials: Crafted from fire-retardant, smell-free materials with a silk-like feel. Secure for families with pets or the olds, and ideal for use in enclosed spaces like offices or bedrooms Quick Assembly, Versatile Decoration: The pre-installed trunk and sturdy base ensure fast, easy setup. Ideal for living rooms, bedrooms, offices, and balconies. Pair with a decorative pot for added style or use as a thoughtful gift
-  Updated: 2026-01-16T09:07:42Z
+  Updated: 2026-01-23T05:10:15Z
   Vendor: Homebrandsitaalexandra
   Product Type: 
   Availability: Available
@@ -2805,6 +2805,15 @@
   - [Dazzling Joan Made Easy Tips to Style Maxi Dress for Women While Shopping Upcoming Fabrics from HomebrandSitaAlexandra Online Store Featuring the Dianise Athen Jewelry Box](https://homebrandsitaalexandra.com/blogs/news/dazzling-joan-made-easy-tips-to-style-maxi-dress-for-women-while-shopping-upcoming-fabrics-from-homebrandsitaalexandra-online-store-featuring-the-dianise-athen-jewelry-box): Dazzling Joan Made Easy Tips to Style Maxi Dress for Women While Shopping Upcoming Fabrics from HomebrandSitaAlexandra Online Store Featuring the Dianise Athen Jewelry Box
     Updated: 2026-01-17T07:01:02Z
     Author: HomebrandSitaAlexandra Content Manager
+  - [Enhance Your Dog's Comfort with Leash Chest Strap Vest Shopping Expert Tips on Online Store Favorites like HomebrandSitaAlexandra and Trending Online Shopping Websites](https://homebrandsitaalexandra.com/blogs/news/enhance-your-dogs-comfort-with-leash-chest-strap-vest-shopping-expert-tips-on-online-store-favorites-like-homebrandsitaalexandra-and-trending-online-shopping-websites): Enhance Your Dog's Comfort with Leash Chest Strap Vest Shopping Expert Tips on Online Store Favorites like HomebrandSitaAlexandra and Trending Online Shopping Websites
+    Updated: 2026-01-20T03:05:57Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Essential Sweatshirt Set Tips for Men's Fall Style at HomebrandSitaAlexandra Online Store Exploring Leading Online Shopping Websites](https://homebrandsitaalexandra.com/blogs/news/essential-sweatshirt-set-tips-for-mens-fall-style-at-homebrandsitaalexandra-online-store-exploring-leading-online-shopping-websites): Essential Sweatshirt Set Tips for Men's Fall Style at HomebrandSitaAlexandra Online Store Exploring Leading Online Shopping Websites
+    Updated: 2026-01-21T07:06:08Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Discover Unique Printed Fleece Hoodies: A Shopper's Guide to HomebrandSitaAlexandra Online Store for the Best in Cozy Style](https://homebrandsitaalexandra.com/blogs/news/discover-unique-printed-fleece-hoodies-a-shoppers-guide-to-homebrandsitaalexandra-online-store-for-the-best-in-cozy-style): Discover Unique Printed Fleece Hoodies: A Shopper's Guide to HomebrandSitaAlexandra Online Store for the Best in Cozy Style
+    Updated: 2026-01-24T07:01:25Z
+    Author: HomebrandSitaAlexandra Content Manager
 
 ## Store Pages
 
@@ -2812,7 +2821,7 @@
   Updated: 2025-12-03T11:00:49Z
 - [About Us](https://homebrandsitaalexandra.com/pages/about-us): About Homebrandsitaalexandra Homebrandsitaalexandra is a department store and home to several brands. From Luxury to Affordable Homebrandsitaalexan...
   Updated: 2025-12-05T14:57:30Z
-- [Your privacy choices](https://homebrandsitaalexandra.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://homebrandsitaalexandra.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-15T16:28:19Z
 
 ## Policies
