@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2025-10-27T18:51:36Z
 - Contact Email: support@kosmopellis.ae
-- Updated At: 2026-01-19T11:24:29.498Z
+- Updated At: 2026-01-27T00:00:24.009Z
 
 ## Products
 
@@ -43,8 +43,8 @@
 
 - [All Our Products | Expert Skincare & Microneedling Patches | KŌSMOPELLIS](https://kosmopellis.ae/collections/all): Discover our full range of microstructure patches for visibly smoother, deeply hydrated, and revitalized skin.
 Clinically proven Kósmopellis treatments — innovative, natural, and non-invasive skincare technology.
-  Updated: 2025-11-01T16:50:41Z
-  Total Products: 0
+  Updated: 2026-01-22T11:38:28Z
+  Total Products: 4
 - [Lip Care | Plumping & Hydrating Microneedling Patches | KŌSMOPELLIS](https://kosmopellis.ae/collections/lips): Restore volume and softness with our microneedling lip patches. Deeply hydrate, smooth, and plump your lips naturally with Hyaluronic Acid and Peptides — powered by Kósmopellis microstructure technology.
   Updated: 2025-11-01T16:50:40Z
   Total Products: 0
