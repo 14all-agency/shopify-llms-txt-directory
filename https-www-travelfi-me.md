@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-01T17:38:27Z
-- Updated At: 2026-01-18T20:44:20.813Z
+- Updated At: 2026-01-27T00:00:32.799Z
 
 ## Products
 
@@ -4846,7 +4846,7 @@
     Availability: Available
     Price: $25.20 USD
 - [Europe eSIM Daily Pass – Unlimited Data for Travelers  TravelFi](https://www.travelfi.me/products/eu-42_daypass): Unlimited data eSIM for Europe. Pay per day, instant activation, no roaming fees. Ideal for short trips.
-  Updated: 2025-12-11T19:08:26Z
+  Updated: 2026-01-26T04:44:40Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -7522,7 +7522,7 @@
     Availability: Available
     Price: $23.10 USD
 - [Sweden eSIM Daily Pass – Unlimited Data for Travelers  TravelFi](https://www.travelfi.me/products/se_daypass): Unlimited data eSIM for Sweden. Pay per day, instant activation, no roaming fees. Ideal for short trips.
-  Updated: 2025-12-11T19:08:40Z
+  Updated: 2026-01-26T09:00:42Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -8495,13 +8495,13 @@
   Updated: 2025-12-20T12:17:39Z
   Total Products: 9
 - [Unlimited Data](https://www.travelfi.me/collections/daypass): Unlimited data for the selected number of days.This eSIM plans are a non-reloadable day passes. After daily limit used speed will be throttled until next 24 period. No top-ups or extensions are available.Simply choose how many days you want your pass to be valid, and enjoy unlimited data during that period.
-  Updated: 2026-01-17T12:16:56Z
+  Updated: 2026-01-26T04:20:54Z
   Total Products: 114
 - [South America](https://www.travelfi.me/collections/south-america): South America travel destinations
   Updated: 2025-12-11T19:07:47Z
   Total Products: 19
 - [Europe Travel eSIMs](https://www.travelfi.me/collections/europe-destinations): Stay connected across Europe with ease. Our Europe Travel eSIM Collection is designed for modern explorers who want seamless data coverage
-  Updated: 2026-01-17T12:16:56Z
+  Updated: 2026-01-25T21:00:22Z
   Total Products: 94
 - [Balkan](https://www.travelfi.me/collections/balkan): Travel eSIM for Balkan destinations
   Updated: 2025-12-11T19:07:47Z
@@ -8548,9 +8548,12 @@
 - [Global eSIM Plans](https://www.travelfi.me/collections/global-plans): Travel worldwide with seamless connectivity under one eSIM
   Updated: 2025-12-11T19:07:48Z
   Total Products: 2
-- [Multi Regional eSIM Travel Plans](https://www.travelfi.me/collections/multi-regional-esim-plans)
-  Updated: 2025-12-20T12:17:39Z
+- [Multi Regional eSIM Travel Plans](https://www.travelfi.me/collections/multi-regional-esim-plans): One eSIM. Multiple countries. Seamless coverage with fast data and instant activation for international travelers, spanning Europe, Asia, Americas and more.
+  Updated: 2026-01-26T04:04:34Z
   Total Products: 34
+- [Browse All Travelfi eSIMs  Reliable Global Travel Data Plan](https://www.travelfi.me/collections/all-esim-plans-for-international-travel): Browse all Travelfi eSIM plans for global, regional, and country‑specific travel. Instant activation, fast data, and reliable coverage for every destination.
+  Updated: 2026-01-26T04:26:19Z
+  Total Products: 271
 
 ## Blogs
 
@@ -8580,19 +8583,25 @@
 ## Store Pages
 
 - [Contact Us](https://www.travelfi.me/pages/contact): We’re here to keep you connected—wherever you go. Whether you have questions about our eSIM plans, need help activating your connection, or want to...
-  Updated: 2026-01-11T14:53:43Z
+  Updated: 2026-01-19T05:04:19Z
 - [Esim Setup Instructions](https://www.travelfi.me/pages/esim-setup)
   Updated: 2025-10-26T03:34:44Z
 - [About Travelfi](https://www.travelfi.me/pages/about-us): Global connection, simplified. At Travelfi, we believe staying connected shouldn’t be complicated—especially when you’re crossing borders. That’s w...
-  Updated: 2025-10-22T11:10:20Z
-- [Your privacy choices](https://www.travelfi.me/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-11-10T05:54:47Z
+  Updated: 2026-01-19T05:04:35Z
+- [Your Privacy Choices](https://www.travelfi.me/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-01-26T23:37:41Z
 - [Save 5% When You Buy 3 or More eSIMs](https://www.travelfi.me/pages/family-friends-): Save 5% When You Buy 3 or More eSIMs Traveling together should make everything easier—including staying connected. That’s why we automatically appl...
   Updated: 2025-12-29T04:46:09Z
 - [eSIM Troubleshooting](https://www.travelfi.me/pages/esim-troubleshooting): I can’t connect to the internet after I activate my data plan. Make sure you have selected the newly purchased eSIM as your Cellular Data (Setting ...
   Updated: 2025-12-29T05:59:27Z
 - [General FAQ](https://www.travelfi.me/pages/general-faq): Q: Does my eSIM come with a phone number or SMS? A: Generally, eSIMs are data only. If an eSIM includes a phone number or SMS, it will be detailed ...
   Updated: 2025-12-29T05:59:17Z
+- [Collabs](https://www.travelfi.me/pages/collab)
+  Updated: 2026-01-18T23:54:45Z
+- [Travelfi.me eSIM FAQ – Activation, Travel Support Answers](https://www.travelfi.me/pages/faq): 
+  Updated: 2026-01-26T04:55:28Z
+- [Countries with 5G  network support](https://www.travelfi.me/pages/which-countries-support-5g): Here is a list of countries we support 5G at this moment, the following info might change, Aaland Islands 4G/5G Argentina 4G/5G Asia (20 areas) 4G/...
+  Updated: 2026-01-19T04:47:18Z
 
 ## Policies
 
