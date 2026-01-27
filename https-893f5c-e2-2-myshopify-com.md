@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2024-08-30T00:05:15Z
 - Contact Email: info@protec2000.com
-- Updated At: 2026-01-20T00:00:32.770Z
+- Updated At: 2026-01-27T00:00:35.537Z
 
 ## Products
 
@@ -51,7 +51,7 @@
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/IMG_0148.png?v=1730080200
   Price: 899,00 $ CAD
 - [Système de surveillance d'alarme incendie Dsc](https://893f5c-e2-2.myshopify.com/products/fire-alarm-monitoring-system): Surveillance d'alarme incendie, 24 heures sur 24, 7 jours sur 7 avec un kit de surveillance d'alarme incendie DSC NEO ULC, qui offre une tranquillité d'esprit en sachant quand des événements d'incendie se produisent lors de la détection de votre système et que la transmission est immédiate. Les situations d'urgence seront traitées, même lorsque personne n'est présent. Les alertes sont envoyées immédiatement et automatiquement à votre société de surveillance, réduisant ainsi le temps de réponse de votre caserne de pompiers locale. Les composants du kit comprennent : • Communicateur cellulaire/double Internet LE2080 ou TL280LE • Panneau de commande HS2032 DSC NEO • Clavier HS2LCD • Boîtier rouge PC4050CR • Deux batteries 712BNP 12 V 7 Ah Support technique et support technique Installation NON incluse
-  Updated: 2024-11-10T14:19:33Z
+  Updated: 2026-01-21T07:31:26Z
   Vendor: Alarme protec 2000
   Product Type: 
   Availability: Available
