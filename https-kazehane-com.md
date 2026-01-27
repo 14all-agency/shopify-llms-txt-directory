@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-10-15T15:54:52Z
 - Contact Email: support@kazehane.com
-- Updated At: 2026-01-19T00:00:33.705Z
+- Updated At: 2026-01-27T00:00:36.478Z
 
 KAZEHANE is a curated multi-brand platform offering selected designer and premium fashion from leading and emerging labels. Our focus is on quality, rarity, and a seamless shopping experience—connecting discerning customers with exclusive pieces across Europe.and United States
 
@@ -317,7 +317,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ4276-g.jpg?v=1767095526
     Price: €54.95 EUR
 - [Jordan](https://kazehane.com/products/jordan-dri-fit-fleece-training-pant-herren-freizeit-jogging-hose-weiss-dq7890-135): Jordan Dri-FIT Fleece Training Pant combines performance technology with casual comfort. Engineered with Nike's signature Dri-FIT moisture-wicking fabric, these men's joggers keep you dry during workouts and everyday wear. The soft fleece construction provides warmth without bulk, while the streamlined silhouette delivers a modern aesthetic. Perfect for training sessions or relaxed days off the court.
-  Updated: 2026-01-16T08:55:12Z
+  Updated: 2026-01-21T18:13:40Z
   Vendor: Brandstyle24
   Product Type: Herren > Hosen
   Availability: Available
@@ -339,7 +339,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DQ7890-135-g.jpg?v=1765588341
     Price: €49.95 EUR
 - [Nike Air Max](https://kazehane.com/products/nike-air-max-ltd-3-herren-sneakers-schuhe-leder-weiss-687977-111): The Nike Air Max LTD 3 delivers timeless style with premium leather construction. Featuring the iconic Air Max cushioning technology, these men's sneakers provide responsive comfort for everyday wear. The clean white colorway offers versatility to pair with any outfit, while the durable leather upper ensures lasting quality. A classic silhouette that combines heritage design with modern performance—an essential addition to any sneaker collection.
-  Updated: 2025-12-30T23:37:20Z
+  Updated: 2026-01-24T16:59:10Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -373,7 +373,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/687977-111-g_5b5b0ccd-25d6-4897-80ee-6adf4312bddc.jpg?v=1765588341
     Price: €117.95 EUR
   - [Weiß / EU 45 US 11](https://kazehane.com/products/nike-air-max-ltd-3-herren-sneakers-schuhe-leder-weiss-687977-111?variant=52577818706259)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/687977-111-g_5b5b0ccd-25d6-4897-80ee-6adf4312bddc.jpg?v=1765588341
     Price: €117.95 EUR
   - [Weiß / EU 45.5 US 11.5](https://kazehane.com/products/nike-air-max-ltd-3-herren-sneakers-schuhe-leder-weiss-687977-111?variant=52577818739027)
@@ -453,7 +453,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/FJ4192-001-g.jpg?v=1765588342
     Price: €118.95 EUR
 - [Reebok](https://kazehane.com/products/reebok-club-c-85-vegan-milk-makeup-herren-sneakers-schuhe-weiss-100072089): The Reebok Club C 85 Vegan in Milk Makeup delivers timeless court-style aesthetics with modern ethical considerations. Crafted with vegan materials, this men's sneaker combines heritage design with contemporary values. The clean white colorway ensures versatile styling across casual and smart-casual wardrobes. Built on Reebok's iconic silhouette, it offers reliable comfort for daily wear while maintaining the understated elegance that defines the Club C legacy.
-  Updated: 2026-01-17T01:05:45Z
+  Updated: 2026-01-25T05:06:46Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -573,7 +573,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HL9338-g.jpg?v=1765588341
     Price: €79.95 EUR
 - [Nike Air VaporMax](https://kazehane.com/products/nike-air-vapormax-2023-fk-flyknit-herren-sneakers-schuhe-dv1678-012): Nike Air VaporMax combines cutting-edge cushioning technology with a sleek, modern silhouette. The innovative VaporMax sole delivers responsive comfort for all-day wear, while the breathable upper ensures optimal ventilation. Perfect for athletes and style-conscious wearers seeking performance and contemporary design in one premium shoe.
-  Updated: 2025-12-30T23:12:59Z
+  Updated: 2026-01-19T13:41:50Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -679,7 +679,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/YW0YW01665-0LE-g.jpg?v=1765588341
     Price: €85.95 EUR
 - [DR. DOC MARTENS](https://kazehane.com/products/dr-doc-martens-1460-smooth-mono-milled-leder-stiefel-boots-schwarz-14353001): The iconic Dr. Martens 1460 in smooth milled leather delivers timeless style with uncompromising durability. This classic black boot features the signature yellow stitching, air-cushioned sole, and welted construction that define the brand. Built to last and break in beautifully, it's a versatile essential for any wardrobe—equally at home with jeans or tailored pieces.
-  Updated: 2025-12-31T02:36:04Z
+  Updated: 2026-01-23T17:52:56Z
   Vendor: Brandstyle24
   Product Type: Unisex > Stiefel
   Availability: Available
@@ -779,7 +779,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/TB0A6BW5-EBD-g.jpg?v=1765588342
     Price: €79.95 EUR
 - [Nike Air Force 1](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001): The Nike Air Force 1 is an iconic basketball sneaker that transcends sport and style. Featuring a clean leather upper, responsive cushioning, and a durable rubber sole, this timeless silhouette delivers comfort for everyday wear. Its versatile design pairs effortlessly with any wardrobe, from casual to elevated looks. A true classic that has defined sneaker culture for decades.
-  Updated: 2026-01-14T20:33:31Z
+  Updated: 2026-01-21T09:11:12Z
   Vendor: Brandstyle24
   Product Type: Unisex > Sneaker
   Availability: Available
@@ -797,7 +797,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV0788-001-g.jpg?v=1765588342
     Price: €115.95 EUR
   - [EU 40.5 US 7.5](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001?variant=52577823523155)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DV0788-001-g.jpg?v=1765588342
     Price: €115.95 EUR
   - [EU 45 US 11](https://kazehane.com/products/nike-air-force-1-low-07-sneakers-schuhe-weiss-schwarz-dv0788-001?variant=52577823555923)
@@ -889,7 +889,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/FZ4110-001-g.jpg?v=1765588341
     Price: €164.95 EUR
 - [Salomon Speedcross Peak GTX - GORE-TEX](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538): Salomon Speedcross Peak GTX delivers trail-ready performance with GORE-TEX waterproofing and advanced grip technology. Engineered for demanding terrain, these men's running shoes combine lightweight responsiveness with protective cushioning. The aggressive tread pattern ensures traction on wet and loose surfaces, while the durable construction handles rugged conditions. Ideal for serious trail runners seeking reliable protection and speed.
-  Updated: 2026-01-13T00:00:27Z
+  Updated: 2026-01-25T01:04:22Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -907,7 +907,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
   - [EU 42 2/3 UK 8.5](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538?variant=52577825227091)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/478538-g.jpg?v=1765588343
     Price: €114.95 EUR
   - [EU 43 1/3 UK 9](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-478538?variant=52577825259859)
@@ -1189,7 +1189,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/687977-020-g.jpg?v=1765588342
     Price: €118.95 EUR
 - [Nike SB Paul Rodriguez Zoom Air Low 1 OG](https://kazehane.com/products/nike-sb-paul-rodriguez-zoom-air-low-1-og-herren-sneakers-schuhe-weiss-hq6828-10): The Nike SB Paul Rodriguez Zoom Air Low 1 OG delivers legendary skate performance in a clean white colorway. Built with responsive Zoom Air cushioning and a reinforced design, these men's sneakers combine heritage aesthetics with modern comfort. The iconic Paul Rodriguez silhouette offers reliable grip and board feel for both street skating and everyday wear. A timeless addition to any sneaker collection.
-  Updated: 2026-01-18T05:23:01Z
+  Updated: 2026-01-26T13:49:30Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -1207,7 +1207,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ6828-100-g.jpg?v=1765588342
     Price: €149.95 EUR
   - [EU 41 US 8](https://kazehane.com/products/nike-sb-paul-rodriguez-zoom-air-low-1-og-herren-sneakers-schuhe-weiss-hq6828-10?variant=52577830437203)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ6828-100-g.jpg?v=1765588342
     Price: €149.95 EUR
   - [EU 42 US 8.5](https://kazehane.com/products/nike-sb-paul-rodriguez-zoom-air-low-1-og-herren-sneakers-schuhe-weiss-hq6828-10?variant=52577830469971)
@@ -1497,7 +1497,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HJ4320-001-g.jpg?v=1765588351
     Price: €194.95 EUR
 - [Nike Air VaporMax Plus TN](https://kazehane.com/products/nike-air-vapormax-plus-tn-triple-red-herren-sneakers-schuhe-rot-cw6973-600): The Nike Air VaporMax Plus TN merges cutting-edge cushioning with bold design. Featuring VaporMax air units for responsive comfort and a distinctive wavy silhouette, this sneaker delivers premium performance for everyday wear. The breathable upper and durable construction ensure lasting quality, while the striking aesthetic makes it a standout choice for those who demand both style and substance.
-  Updated: 2025-12-30T22:24:51Z
+  Updated: 2026-01-21T10:08:37Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -1535,7 +1535,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/CW6973-600-g.jpg?v=1765588351
     Price: €199.95 EUR
 - [Salomon GORE-TEX](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-475588): Salomon GORE-TEX trail running shoes engineered for demanding terrain. Advanced waterproof protection meets breathable performance, keeping feet dry without compromising ventilation. Responsive cushioning absorbs impact on technical descents while aggressive tread patterns deliver grip on loose, wet surfaces. Built for runners who demand durability and protection on mountain trails.
-  Updated: 2026-01-14T12:27:59Z
+  Updated: 2026-01-19T09:40:06Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -1565,7 +1565,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/475588-g.jpg?v=1765588357
     Price: €116.95 EUR
   - [EU 44 2/3 UK 10](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-475588?variant=52577838301523)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/475588-g.jpg?v=1765588357
     Price: €116.95 EUR
   - [EU 45 1/3 UK 10.5](https://kazehane.com/products/salomon-speedcross-peak-gtx-gore-tex-herren-trail-running-schuhe-laufschuhe-schwarz-475588?variant=52577838334291)
@@ -1593,7 +1593,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/475588-g.jpg?v=1765588357
     Price: €116.95 EUR
 - [HOKA Speedgoat 6](https://kazehane.com/products/hoka-speedgoat-6-herren-trail-running-schuhe-laufschuhe-vibram-1147791-mplc): HOKA Speedgoat 6 represents the pinnacle of trail running performance. Built for technical terrain, this shoe combines aggressive traction with responsive cushioning to handle demanding mountain routes. The lightweight design reduces fatigue on long distances, while the reinforced upper provides stability across uneven surfaces. Engineered for runners who demand speed without compromise on protection.
-  Updated: 2026-01-16T17:00:22Z
+  Updated: 2026-01-23T17:52:57Z
   Vendor: Brandstyle24
   Product Type: Herren > Laufschuhe
   Availability: Available
@@ -1890,28 +1890,6 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ6862-g.jpg?v=1765875323
     Price: €87.95 EUR
-- [adidas Originals Sambarose](https://kazehane.com/products/adidas-originals-sambarose-zip-w-damen-schuhe-gelb-ee5089): The adidas Originals Sambarose reimagines a classic silhouette with contemporary flair. Featuring the iconic Samba sole paired with elevated design elements, this sneaker delivers timeless style with modern sophistication. Premium construction ensures durability, while the versatile aesthetic transitions seamlessly from casual wear to elevated streetwear. A must-have for collectors and sneaker enthusiasts seeking heritage meets innovation.
-  Updated: 2025-12-30T06:27:14Z
-  Vendor: Brandstyle24
-  Product Type: Damen > Sneaker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/EE5089-g.jpg?v=1765875324
-  - [Gelb / EU 36 UK 3.5](https://kazehane.com/products/adidas-originals-sambarose-zip-w-damen-schuhe-gelb-ee5089?variant=52595774521683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/EE5089-g.jpg?v=1765875324
-    Price: €29.95 EUR
-  - [Gelb / EU 37 1/3 UK 4.5](https://kazehane.com/products/adidas-originals-sambarose-zip-w-damen-schuhe-gelb-ee5089?variant=52595774554451)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/EE5089-g.jpg?v=1765875324
-    Price: €29.95 EUR
-  - [Gelb / EU 38 UK 5](https://kazehane.com/products/adidas-originals-sambarose-zip-w-damen-schuhe-gelb-ee5089?variant=52595774587219)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/EE5089-g.jpg?v=1765875324
-    Price: €29.95 EUR
-  - [Gelb / EU 38 2/3 UK 5.5](https://kazehane.com/products/adidas-originals-sambarose-zip-w-damen-schuhe-gelb-ee5089?variant=52595774619987)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/EE5089-g.jpg?v=1765875324
-    Price: €38.95 EUR
 - [Puma Scuderia Ferrari](https://kazehane.com/products/puma-scuderia-ferrari-metal-energy-race-jacke-herren-trainingsjacke-schwarz-536414-01): Experience the pinnacle of motorsport heritage with the Puma Scuderia Ferrari collection. Engineered for those who demand performance and style, each piece captures the essence of racing excellence and Italian craftsmanship. From track-inspired design to everyday sophistication, discover footwear and apparel that embodies the legendary spirit of the Scuderia.
   Updated: 2025-12-30T03:36:53Z
   Vendor: Brandstyle24
@@ -2068,7 +2046,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/CU9452-002-g.jpg?v=1765875323
     Price: €114.95 EUR
 - [adidas Originals NITEBALL](https://kazehane.com/products/adidas-originals-niteball-herren-sneakers-schuhe-gy8564): The adidas Originals NITEBALL merges retro basketball aesthetics with contemporary design. Featuring a distinctive silhouette inspired by '90s court culture, this sneaker combines premium materials with responsive cushioning for all-day comfort. The iconic three stripes and heritage branding deliver authentic adidas DNA, while the versatile colorways transition seamlessly from court to street. A must-have for collectors and sneaker enthusiasts seeking timeless style with modern performance.
-  Updated: 2026-01-08T10:48:34Z
+  Updated: 2026-01-19T05:37:54Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2090,7 +2068,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/GY8564-g.jpg?v=1765875324
     Price: €89.95 EUR
   - [Mehrfarbig / EU 44 UK 9.5](https://kazehane.com/products/adidas-originals-niteball-herren-sneakers-schuhe-gy8564?variant=52595776225619)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/GY8564-g.jpg?v=1765875324
     Price: €89.95 EUR
   - [Mehrfarbig / EU 45 1/3 UK 10.5](https://kazehane.com/products/adidas-originals-niteball-herren-sneakers-schuhe-gy8564?variant=52595776258387)
@@ -2150,7 +2128,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HQ3439-101-g.jpg?v=1767119907
     Price: €157.95 EUR
 - [Mizuno](https://kazehane.com/products/mizuno-wave-prophecy-12-herren-sneakers-laufschuhe-schwarz-j1gc238333): Mizuno Engineered for performance, Mizuno delivers precision and reliability across every product. Built with meticulous attention to detail, our collection combines advanced technology with refined craftsmanship. Whether you're seeking superior comfort, durability, or competitive edge, Mizuno products are designed to elevate your experience. Trusted by professionals worldwide, each piece reflects our commitment to excellence and innovation.
-  Updated: 2026-01-15T20:48:05Z
+  Updated: 2026-01-25T05:06:42Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2188,7 +2166,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/J1GC238333-g.jpg?v=1767119907
     Price: €159.95 EUR
 - [Tommy Hilfiger](https://kazehane.com/products/tommy-hilfiger-retro-basket-essential-herren-sneakers-schuhe-leder-weiss-em0em01395-dw4): De Classic American style meets refined craftsmanship with this Tommy Hilfiger piece. Designed for the discerning individual who values timeless elegance and quality construction, it seamlessly transitions from casual to polished settings. The signature attention to detail reflects the brand's heritage of sophisticated, wearable luxury. An  in enduring style that transcends seasonal trends.
-  Updated: 2026-01-09T03:03:52Z
+  Updated: 2026-01-20T17:58:44Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2218,7 +2196,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/EM0EM01395-DW4-g.jpg?v=1767119907
     Price: €79.95 EUR
 - [Nike Cortez](https://kazehane.com/products/nike-cortez-txt-herren-sneakers-schuhe-blau-textile-hf0263-402): The Nike Cortez TXT combines timeless design with modern comfort. These men's sneakers feature a textile upper in striking blue, delivering a lightweight feel perfect for everyday wear. The iconic Cortez silhouette pairs classic aesthetics with contemporary craftsmanship, making them an essential addition to any sneaker collection. Built for both style and performance.
-  Updated: 2026-01-06T22:25:46Z
+  Updated: 2026-01-25T13:11:22Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2260,13 +2238,13 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/HF0263-402-g.jpg?v=1767119907
     Price: €94.95 EUR
 - [Nike Air Max Plus TN](https://kazehane.com/products/nike-air-max-plus-tn-phantom-herren-sneakers-schuhe-dm0032-019): The Nike Air Max Plus TN in Phantom delivers iconic style with technical precision. Engineered with the signature Air Max cushioning system, these men's sneakers combine responsive comfort with a bold aesthetic. The streamlined silhouette features premium materials and the distinctive TN tubing design, making them equally suited for everyday wear or athletic pursuits. A timeless choice for those who appreciate heritage sneaker craftsmanship.
-  Updated: 2026-01-18T01:20:31Z
+  Updated: 2026-01-22T02:18:50Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DM0032-019-g.jpg?v=1767119907
   - [EU 42 US 8.5](https://kazehane.com/products/nike-air-max-plus-tn-phantom-herren-sneakers-schuhe-dm0032-019?variant=52688612393299)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/DM0032-019-g.jpg?v=1767119907
     Price: €163.95 EUR
   - [EU 43 US 9.5](https://kazehane.com/products/nike-air-max-plus-tn-phantom-herren-sneakers-schuhe-dm0032-019?variant=52688612426067)
@@ -2347,52 +2325,6 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/ID1708-g.jpg?v=1767119907
     Price: €179.95 EUR
-- [Nike Air Max](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03): Nike Air Max sneakers deliver iconic style with engineered comfort. Featuring responsive cushioning and a sleek silhouette, these shoes blend performance with everyday versatility. Perfect for those who demand both aesthetic appeal and reliable support in a timeless design.
-  Updated: 2026-01-18T21:33:40Z
-  Vendor: Brandstyle24
-  Product Type: Herren > Sneaker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-  - [EU 40 US 7](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615244115)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 41 US 8](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615276883)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 42 US 8.5](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615309651)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 42.5 US 9](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615342419)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 43 US 9.5](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615375187)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 44 US 10](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615407955)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 44.5 US 10.5](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615440723)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 45 US 11](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615473491)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 46 US 12](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615506259)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
-  - [EU 47.5 US 13](https://kazehane.com/products/nike-air-max-command-herren-sneakers-schuhe-schwarz-629993-03?variant=52688615539027)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/629993-032-g.jpg?v=1767119907
-    Price: €118.95 EUR
 - [VANS](https://kazehane.com/products/vans-rowley-classic-herren-sneakers-schuhe-leder-schwarz-vn0a4bttorl1): VANS Iconic footwear brand delivering timeless style and durability. Known for authentic skate culture heritage and versatile designs that transition seamlessly from street to casual wear. Premium construction ensures comfort and longevity. A staple choice for those seeking quality sneakers with genuine cultural credibility.
   Updated: 2026-01-04T23:56:57Z
   Vendor: Brandstyle24
@@ -2494,7 +2426,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/GW3774-g.jpg?v=1767119907
     Price: €229.95 EUR
 - [adidas Originals](https://kazehane.com/products/adidas-originals-samoa-herren-sneakers-schuhe-leder-weiss-675033): Classic adidas Originals Samoa sneaker in premium white leather. This iconic silhouette combines timeless design with exceptional comfort, featuring a durable leather upper and responsive cushioning. Perfect for everyday wear or casual styling. A versatile essential that transcends trends.
-  Updated: 2026-01-17T01:05:37Z
+  Updated: 2026-01-21T18:13:44Z
   Vendor: Brandstyle24
   Product Type: Herren > Sneaker
   Availability: Available
@@ -2701,7 +2633,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/adidas-premium-polo-shirt-black-front-695d3d6abdcf4.jpg?v=1767718271
     Price: €44.90 EUR
 - [Under Armour®  ORGNL BSTRD s1](https://kazehane.com/products/under-armour®-orgnl-bstrd-s1): The ORGNL BSTRD Season 1 collection represents Under Armour's bold reimagining of performance essentials. Engineered with precision and stripped of unnecessary complexity, each piece delivers uncompromising functionality for athletes who demand authenticity. This inaugural season merges technical innovation with understated design—built for those who let performance speak louder than aesthetics.
-  Updated: 2026-01-07T05:01:09Z
+  Updated: 2026-01-26T19:13:14Z
   Vendor: KAZEHANE
   Product Type: 
   Availability: Available
@@ -2715,7 +2647,7 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/under-armour-hoodie-black-front-695d3fb269925.jpg?v=1767718851
     Price: €59.90 EUR
   - [Black / L](https://kazehane.com/products/under-armour®-orgnl-bstrd-s1?variant=52726769320275)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/under-armour-hoodie-black-front-695d3fb269925.jpg?v=1767718851
     Price: €59.90 EUR
   - [Black / XL](https://kazehane.com/products/under-armour®-orgnl-bstrd-s1?variant=52726769353043)
@@ -2884,15 +2816,62 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/all-over-print-unisex-wide-leg-pants-white-right-front-696294ca3f9a5.jpg?v=1768068361
     Price: €34.90 EUR
+- [Fur Lined Parka](https://kazehane.com/products/fellparka): Premium Fur-Lined Parka – Removable Lining & Hood Stay warm in style with this luxurious fur-lined parka. Designed for maximum comfort during cold seasons, it combines durable cotton on the outside with genuine fur on the inside for exceptional insulation and a premium look. Key Features Fully fur-lined interior with real furOffers superior warmth, softness, and a high-end feel. Hood with detachable inner liningAdjust your comfort level easily depending on weather and temperature. Side flap pockets & adjustable drawstring waistProvides practical storage and allows you to tailor the fit. Materials: Genuine fur & cottonEnsures durability, comfort, and long-lasting protection.
+  Updated: 2026-01-21T22:17:26Z
+  Vendor: MyMint-shop.com
+  Product Type: Coats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/fellparka-806859.jpg?v=1768814160
+  Price: €699.00 EUR
+- [Diesel Black Gold](https://kazehane.com/products/diesel-black-gold-sweater): Diesel Black Gold Sweater – Clean Painted Panel Design A sleek black crew-neck sweater from Diesel Black Gold featuring a bold white front panel with a dark brushstroke paint effect. The lightweight rayon-blend fabric gives the piece a smooth, premium drape, making it perfect for elevated everyday styling. Features Diesel Black Gold sweater White front panel with painted brushstroke effect Crew neck, long sleeves Soft, fluid rayon-blend Comfortable modern fit Material 95% Rayon 5% Other fibers
+  Updated: 2026-01-22T01:46:38Z
+  Vendor: MyMint-shop.com
+  Product Type: Tops sweatshirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/diesel-black-gold-sweater-556127.jpg?v=1768814160
+  Price: €79.00 EUR
+- [Visvim Stencil Hoodie](https://kazehane.com/products/visvim-stencil-hoodie): Visvim Stencil Hoodie – Made in Japan A premium loopwheel cotton hoodie from Visvim featuring the signature multicolor stencil “BATT” graphic on the front. Crafted in Japan with Visvim’s renowned attention to detail, this piece delivers a vintage-inspired aesthetic, a soft heavyweight feel, and exceptional durability. Features Original Visvim stencil hoodie Multicolor “BATT” front graphic Made in Japan Heavyweight loopwheel cotton Kangaroo pocket Vintage-wash aesthetic Soft, durable, premium construction
+  Updated: 2026-01-21T22:29:54Z
+  Vendor: MyMint-shop.com
+  Product Type: Tops sweatshirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/visvim-stencil-hoodie-983757.jpg?v=1768814160
+  Price: €269.00 EUR
+- [The Kooples Puffer Vest](https://kazehane.com/products/the-kooples-jacke): The Kooples Black Puffer Vest with Detachable Hood A sleek black puffer vest by The Kooples featuring a modern minimalist design. Lightweight padding provides warmth without bulk, while the detachable hood adds versatility for changing weather. Finished with high-quality zippers and side pockets for practical everyday wear. Features Black puffer vest by The Kooples Lightweight quilted padding Detachable hood High-quality front zipper Side zip pockets Minimalist modern design
+  Updated: 2026-01-22T03:37:02Z
+  Vendor: MyMint-shop.com
+  Product Type: Jackets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/thekooplesB3541y.jpg?v=1768814160
+  - [Black / L](https://kazehane.com/products/the-kooples-jacke?variant=52816496230739)
+    Availability: Available
+    Price: €99.00 EUR
+  - [Black / M](https://kazehane.com/products/the-kooples-jacke?variant=52816496263507)
+    Availability: Not Available
+    Price: €99.00 EUR
+- [Griffin Down Jacket](https://kazehane.com/products/griffin-daunenjacke): Griffin Down Jacket – Premium Winter Protection Stay warm, protected, and effortlessly stylish with the Griffin Down Jacket. Designed for cold days and urban environments, this jacket combines durable construction with functional details. Key Features Down coat with detachable hoodAdjust your look and comfort easily depending on the weather. Hidden zipper closure + secure zip pocketsA clean, streamlined silhouette with practical storage. Camouflage shoulder detailsAdds a distinctive, modern accent to the jacket’s overall design. High-quality insulation: 70% down, 30% feathersEnsures exceptional warmth while remaining lightweight and comfortable.
+  Updated: 2026-01-21T22:12:48Z
+  Vendor: MyMint-shop.com
+  Product Type: Coats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/griffinB3552s.jpg?v=1768814161
+  Price: €339.00 EUR
+- [Maison Margiela](https://kazehane.com/products/overzise-hoodie): This white Maison Margiela Oversized Hoodie exemplifies refined minimalism and architectural design sensibility. The pre-owned piece showcases the label's signature craftsmanship and attention to proportion, with an intentionally generous silhouette that defines contemporary luxury. A sustainable choice for discerning collectors, it seamlessly transitions between elevated casual and relaxed sophistication. Timeless versatility meets designer heritage in this essential wardrobe .
+  Updated: 2026-01-21T22:06:45Z
+  Vendor: MyMint-shop.com
+  Product Type: Tops sweatshirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1000/8566/2035/files/overzise-hoodie-241585.jpg?v=1768814160
+  Price: €399.00 EUR
 
 ## Collections
 
 - [Menswear](https://kazehane.com/collections/herren): Discover menswear selected for modern movement and timeless style. Each piece is chosen for its clean lines, premium materials, and the ability to elevate your everyday wardrobe with effortless confidence.
-  Updated: 2026-01-14T10:17:32Z
-  Total Products: 19
+  Updated: 2026-01-21T10:36:05Z
+  Total Products: 24
 - [Womenswear](https://kazehane.com/collections/damen): Our womenswear collection brings together refined silhouettes and unique details. Every item is curated for versatility, quality, and a sense of understated luxury—designed to fit seamlessly into your personal style.
-  Updated: 2026-01-10T18:07:40Z
-  Total Products: 12
+  Updated: 2026-01-21T10:36:05Z
+  Total Products: 17
 - [Footwear](https://kazehane.com/collections/footwear): Our footwear selection brings together iconic brands and rare finds, all chosen for their craftsmanship, comfort, and visual impact. Only the most distinctive silhouettes and materials make the cut—every pair embodies the Kazehane ethos: movement, individuality, and timeless design⁠
   Updated: 2026-01-14T10:17:31Z
   Total Products: 54
@@ -2904,10 +2883,10 @@ KAZEHANE is a curated multi-brand platform offering selected designer and premiu
 
 - [Contact](https://kazehane.com/pages/contact): Bei Fragen zu Produkten, Bestellungen oder Rückgaben erreichst du uns jederzeit per E-Mail an support@kazehane.com. Wir antworten so schnell wie mö...
   Updated: 2025-12-12T17:40:45Z
-- [Your privacy choices](https://kazehane.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://kazehane.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-10-19T13:07:35Z
-- [About Us](https://kazehane.com/pages/uber-uns): KAZEHANE is more than a brand—it is a destination for those who seek the extraordinary in fashion. We curate only the finest pieces from around the...
-  Updated: 2025-12-25T12:27:39Z
+- [About Us](https://kazehane.com/pages/uber-uns): KAZEHANE - it is a destination for those who seek the extraordinary in fashion. We curate only the finest pieces from around the world, spanning ic...
+  Updated: 2026-01-24T14:16:35Z
 - [Impressum](https://kazehane.com/pages/impressum): Impressum folgt ...
   Updated: 2025-11-02T12:33:50Z
 
