@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-19T16:08:55Z
 - Contact Email: zaviay82@gmail.com
-- Updated At: 2026-01-19T00:00:35.457Z
+- Updated At: 2026-01-27T00:00:38.789Z
 
 check it out great items inside
 
@@ -3252,7 +3252,7 @@ check it out great items inside
 
 - [Contact](https://zaviay-appliances.myshopify.com/pages/contact)
   Updated: 2025-12-19T16:08:58Z
-- [Your privacy choices](https://zaviay-appliances.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://zaviay-appliances.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-12-19T16:09:09Z
 
 ## Policies
