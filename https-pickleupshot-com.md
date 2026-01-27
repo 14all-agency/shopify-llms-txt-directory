@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-01-20T00:00:36.643Z
+- Updated At: 2026-01-27T00:00:38.214Z
 
 ## Products
 
 - [PickleUp Pro Shot - Pineapple](https://pickleupshot.com/products/pro-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-01-19T14:08:32Z
+  Updated: 2026-01-26T10:57:26Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -39,10 +39,10 @@
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-01-17T12:21:03Z
+  Updated: 2026-01-26T12:23:54Z
   Total Products: 3
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-01-17T12:21:03Z
+  Updated: 2026-01-26T12:23:54Z
   Total Products: 3
 
 ## Blogs
