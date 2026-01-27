@@ -6,7 +6,7 @@
 - Timezone: Asia/Yerevan
 - Created At: 2025-12-28T14:29:54Z
 - Contact Email: davidempire247@gmail.com
-- Updated At: 2026-01-19T06:54:26.770Z
+- Updated At: 2026-01-27T00:00:29.318Z
 
 You're welcome to the place where you can shop with royalty from the comfort of your home 🏡
 
@@ -2469,7 +2469,7 @@ You're welcome to the place where you can shop with royalty from the comfort of 
     Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/INgtQpRkflynpxII.webp?v=1767597025
     Price: $35.16 USD
 - [Climbing Man T-Shirt](https://davidempireshop.myshopify.com/products/climbing-man-t-shirt): YOU WILL RECEIVE TONS OF COMPLIMENTS: Prepare for a flood of compliments! Each design is a fantastic conversation starter, and everyone will be curious about where you got it.ATTENTION GRABBERS: Be an attention magnet! Scientifically proven, 72.3% of people will like you more. It's an undeniable fact.Features:*Just your average smooth, comfortable tee, a wardrobe essential.*Modern classic fit, so size up if you prefer a looser fit.*Solid Color T-shirts are 100% Ringspun Cotton.*Versatile T-shirt designed for men*Made with OEKO-TEX  low-impact dyes.*Midweight 4.5 oz./yd² or 150gsm Fabric.*Proudly printed and shipped within the US
-  Updated: 2026-01-18T18:53:55Z
+  Updated: 2026-01-19T14:52:02Z
   Vendor: DAVID EMPIRE 
   Product Type: 
   Availability: Available
@@ -2503,7 +2503,7 @@ You're welcome to the place where you can shop with royalty from the comfort of 
     Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/hm4phI3d6XZCLe6_5cec08f3-c339-4c35-acfa-da5b1c85be4a.webp?v=1767597212
     Price: $97.31 USD
   - [Black / XXL](https://davidempireshop.myshopify.com/products/climbing-man-t-shirt?variant=50781309600050)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/cCU0UyMpL8ZTUCa.webp?v=1767597109
     Price: $97.31 USD
   - [White / XXL](https://davidempireshop.myshopify.com/products/climbing-man-t-shirt?variant=50781309632818)
@@ -3084,7 +3084,168 @@ You're welcome to the place where you can shop with royalty from the comfort of 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/zyJl4Kt6IVBMndKQ.webp?v=1767798948
     Price: $50.99 USD
-[List Continued](https://davidempireshop.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA4MDE4ODI2ODg1MCwibGFzdF92YWx1ZSI6IjEwMDgwMTg4MjY4ODUwIn0=)
+- [Baby Fleece Hooded Jacket for Boys and Girls Winter](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter): Prepare your little one for the chilly winter months with our cozy and stylish baby hooded jacket! Designed for both boys and girls, this jacket is perfect for ages 0 to 3 years, ensuring your baby stays warm and fashionable during the cold season. Crafted with a blend of 52.9% polyester and 47.1% cotton on the outside, this jacket features a soft lining made of 93.6% polyester and 6.4% spandex, making it not only comfortable but also stretchy enough for active babies. This versatile outerwear comes in a variety of vibrant colors, including yellow, red, pink, and blue, ensuring there's a perfect shade to suit your child's personality. With sizes ranging from 73cm to 110cm, you can easily find the ideal fit for your baby. Each size has been carefully measured to provide a comfortable fit, featuring a range of dress lengths, sleeve lengths, and bust measurements tailored to growing toddlers. Don't compromise on style or comfort! Our baby hooded jacket is easy to put on and take off, making it a practical choice for busy parents. Whether you’re heading out for a stroll or a playdate in the park, your little one will be snug and adorable in this jacket. Plus, its high-quality fabric is designed to withstand the wear and tear of everyday adventures. Check out the size chart below to find the perfect fit for your child: Note: Asian sizes tend to run smaller than European and American sizes, so we recommend choosing a larger size if you're between sizes. Please allow for slight measurement differences due to manual measuring practices. Don’t miss out on this opportunity to keep your little one warm while showcasing their unique style! Browse our collection of adorable hooded jackets today:
+  Updated: 2026-01-19T19:25:40Z
+  Vendor: DAVID EMPIRE 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/kBzDfUOILvObjgcr.webp?v=1768807500
+  - [Yellow / 100cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769679666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/kBzDfUOILvObjgcr.webp?v=1768807500
+    Price: $58.31 USD
+  - [Pink / 90cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769712434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/pg6ODbD0fVJek52G.webp?v=1768807511
+    Price: $57.68 USD
+  - [Red / 110cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769745202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/LIRTW4Xjw6ujvYOF.webp?v=1768807544
+    Price: $58.94 USD
+  - [Blue / 90cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769777970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/IxqLhdtnsq5tONUy.webp?v=1768807555
+    Price: $57.68 USD
+  - [Blue / 80cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769810738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/IA9mZd5NibDA7HB9.webp?v=1768807577
+    Price: $57.09 USD
+  - [Yellow / 73cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769843506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/CfTxZ1MPH2YVriQI.webp?v=1768807567
+    Price: $56.43 USD
+  - [Yellow / 90cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769876274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/nZElqq8clnOLHhvf.webp?v=1768807588
+    Price: $57.68 USD
+  - [Red / 100cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769909042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/5krgxf8axXSbEfec.webp?v=1768807611
+    Price: $58.31 USD
+  - [Red / 73cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769941810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/ylDsNR0vB7Hgl5Mk.webp?v=1768807533
+    Price: $56.43 USD
+  - [Blue / 100cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832769974578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/L7mM1oGRxnRb8rwA.webp?v=1768807600
+    Price: $58.31 USD
+  - [Yellow / 110cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770007346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/rKOdNKxFqRJK7E8m.webp?v=1768807522
+    Price: $58.94 USD
+  - [Pink / 110cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770040114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/PHYiB75bpMiPuzyQ.webp?v=1768807624
+    Price: $58.94 USD
+  - [Blue / 110cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770072882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/6yGwFqJRmpKXrbiq.webp?v=1768807645
+    Price: $58.94 USD
+  - [Yellow / 80cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770105650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/M4rhCpz4zvDF9nyM.webp?v=1768807633
+    Price: $57.09 USD
+  - [Pink / 80cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770138418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/K5vHYuCj9vd3xCov.webp?v=1768807656
+    Price: $57.09 USD
+  - [Red / 80cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770171186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/lcE0ldTtbFoQYF9k.webp?v=1768807667
+    Price: $57.09 USD
+  - [Blue / 73cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770203954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/ManJIBlGxrIW2f75.webp?v=1768807679
+    Price: $56.43 USD
+  - [Pink / 73cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770236722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/QqRZHrHkG5LGiN5x.webp?v=1768807691
+    Price: $56.43 USD
+  - [Pink / 100cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770269490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/7XpHtjlPFwUb9bnj.webp?v=1768807701
+    Price: $58.31 USD
+  - [Red / 90cm](https://davidempireshop.myshopify.com/products/baby-fleece-hooded-jacket-for-boys-and-girls-winter?variant=50832770302258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/FKopy36QTNyvSY6Y.webp?v=1768807712
+    Price: $57.68 USD
+- [Children's Hooded Jacket and Fleece Sweater for Boys](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys): Dress your little ones in style with our Children's Hooded Jacket and Fleece Boy Sweater, designed for boys aged 3 to 8 years. Made from soft and breathable grain cotton, this jacket is perfect for everyday wear, providing both comfort and durability during playtime. Available in three vibrant colors: green, beige, and sky blue, this versatile jacket is not just practical but also fashionable. Its casual style makes it suitable for a variety of occasions, whether they're heading to school, a playdate, or simply enjoying outdoor adventures. Each jacket features a cozy hood, ensuring your child stays warm and snug even on cooler days. With sizes ranging from 90cm to 140cm, you can find the perfect fit for your growing child. Check out the detailed sizing chart below to ensure an ideal match: Don’t miss out on these wonderful images that showcase the jacket’s design and color options: Ensure your child stands out while staying warm and comfortable with our stylish jacket. Explore the variety of sizes and colors available to find the perfect match for your little adventurer!
+  Updated: 2026-01-19T19:26:06Z
+  Vendor: DAVID EMPIRE 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/N5rDyPuGw58Uy5BI.webp?v=1768807541
+  - [Beige / 100cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770761010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/N5rDyPuGw58Uy5BI.webp?v=1768807541
+    Price: $64.90 USD
+  - [Beige / 90cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770793778)
+    Availability: Available
+    Price: $64.90 USD
+  - [Sky Blue / 100cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770826546)
+    Availability: Available
+    Price: $64.90 USD
+  - [Sky Blue / 90cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770859314)
+    Availability: Available
+    Price: $64.90 USD
+  - [Beige / 140cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770892082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/tKdV9znJFWFOCuWL.webp?v=1768807553
+    Price: $64.90 USD
+  - [Green / 100cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770924850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/QSm8z4tu0x2XnjNX.webp?v=1768807585
+    Price: $64.90 USD
+  - [Green / 110cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770957618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/JnZS3Di7JsgZuNgH.webp?v=1768807597
+    Price: $64.90 USD
+  - [Green / 120cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832770990386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/p5M3ghDkuqtyl42Y.webp?v=1768807620
+    Price: $64.90 USD
+  - [Green / 130cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771023154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/sJ9x2XypAb04QUfe.webp?v=1768807575
+    Price: $64.90 USD
+  - [Green / 140cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771055922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/A1LyYaAb7UfIKwn6.webp?v=1768807608
+    Price: $64.90 USD
+  - [Green / 90cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771088690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/78SHUUkXcRjsjy9v.webp?v=1768807632
+    Price: $64.90 USD
+  - [Sky Blue / 110cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771121458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/RCqbUbz8vAkF0qZ1.webp?v=1768807642
+    Price: $64.90 USD
+  - [Sky Blue / 130cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771154226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/665mtiNIl3AGtCr9.webp?v=1768807653
+    Price: $64.90 USD
+  - [Sky Blue / 120cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771186994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/XPFCxEOyTynUDTcw.webp?v=1768807664
+    Price: $64.90 USD
+  - [Sky Blue / 140cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771219762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/LaQNTjs8dC6enbrp.webp?v=1768807687
+    Price: $64.90 USD
+  - [Beige / 120cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771252530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/LqjncgsEOW35nXNn.webp?v=1768807675
+    Price: $64.90 USD
+  - [Beige / 130cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771285298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/fbKhTkVqTaAxPi6R.webp?v=1768807698
+    Price: $64.90 USD
+  - [Beige / 110cm](https://davidempireshop.myshopify.com/products/childrens-hooded-jacket-and-fleece-sweater-for-boys?variant=50832771318066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0964/5821/1634/files/vmrOaxVQSZHbkflo.webp?v=1768807710
+    Price: $64.90 USD
+[List Continued](https://davidempireshop.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA4OTA2OTA1MjIxMCwibGFzdF92YWx1ZSI6IjEwMDg5MDY5MDUyMjEwIn0=)
 
 ## Collections
 
@@ -3155,8 +3316,8 @@ You're welcome to the place where you can shop with royalty from the comfort of 
   Updated: 2026-01-15T16:45:08Z
   Total Products: 2
 - [Clothing](https://davidempireshop.myshopify.com/collections/clothing)
-  Updated: 2026-01-15T16:45:08Z
-  Total Products: 1
+  Updated: 2026-01-19T07:26:07Z
+  Total Products: 3
 - [Camera & Optic Accessories](https://davidempireshop.myshopify.com/collections/camera-optic-accessories)
   Updated: 2026-01-15T16:45:08Z
   Total Products: 1
@@ -3177,7 +3338,7 @@ You're welcome to the place where you can shop with royalty from the comfort of 
 
 - [Contact](https://davidempireshop.myshopify.com/pages/contact)
   Updated: 2025-12-28T14:29:57Z
-- [Your privacy choices](https://davidempireshop.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+- [Your Privacy Choices](https://davidempireshop.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-03T16:20:00Z
 - [David EMPIRE SHOPPING](https://davidempireshop.myshopify.com/pages/https-5qtai0-21-myshopify-com): We are e-commerce  company that sells all kinds of trending brand new Products.
   Updated: 2026-01-10T11:01:26Z
