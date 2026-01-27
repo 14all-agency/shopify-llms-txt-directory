@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2026-01-20T00:00:38.174Z
+- Updated At: 2026-01-27T00:00:40.242Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -664,11 +664,11 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_f2d270bd-f396-4268-8077-4ae66b095f0b.png?v=1756401997
   Price: $19.85 USD
 - [Girls Long Sleeve Rare Edition Patchwork Dress 6X](https://www.grammyshellsshed.com/products/girls-long-sleeve-rare-edition-patchwork-dress-6x): Discover the Girls Long Sleeve Rare Edition Patchwork Dress 6X with lace trim. A stylish, comfortable essential for your little one's wardrobe.
-  Updated: 2026-01-14T01:07:43Z
+  Updated: 2026-01-21T14:27:21Z
   Vendor: Grammy Shell's Shed
   Product Type: Girls dress
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_d8054faa-9732-4b97-a23c-3d1d2221d1d2.png?v=1756401460
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMAGE-EDIT_d8054faa-9732-4b97-a23c-3d1d2221d1d2.png?v=1769005382
   Price: $18.96 USD
 - [Vintage Snowman Candy Cookie Dish](https://www.grammyshellsshed.com/products/hallmark-vintage-snowman-candy-dish): Shop the Hallmark Vintage Snowman Candy Cookie Cheese Snack Dish, a charming ceramic serving plate perfect for your holiday gatherings.
   Updated: 2026-01-14T01:07:44Z
@@ -1643,7 +1643,21 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_8446c11f-b26d-4545-a740-da985f0e681d.jpg?v=1768003209
   Price: $24.00 USD
-[List Continued](https://www.grammyshellsshed.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzMyNzkwMTYxNTYyLCJsYXN0X3ZhbHVlIjoiODczMjc5MDE2MTU2MiJ9)
+- [Corelle by Corning Set Of 4  Coffee Cups 70'S Gold Butterfly Collection](https://www.grammyshellsshed.com/products/corelle-by-corning-set-of-4-coffee-cups-70s-gold-butterfly-collection): The Corelle by Corning Set of 4 Coffee Cups from the 70's Gold Butterfly Collection combines durability and vintage design. Made from lightweight, chip-resistant material, these cups are ideal for daily use. Their elegant butterfly motif enhances aesthetic appeal while remaining practical for both hot and cold beverages.
+  Updated: 2026-01-21T13:46:25Z
+  Vendor: Grammy Shell's Shed 
+  Product Type: coffee cups
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_4d5a72a0-ea79-4a37-a243-c8cf92d2cd44.jpg?v=1768964281
+  Price: $15.00 USD
+- [Signature Collection Queen Anne 3 Tea Cups /Saucers set - Vtg Japan](https://www.grammyshellsshed.com/products/untitled-jan20_20-56): The Signature Collection Queen Anne 3 Tea Cups and Saucers, crafted in vintage Japan, exemplify fine porcelain artistry. Their elegant design enhances both traditional and modern table settings, while the durable material ensures longevity. These pieces provide a refined tea-drinking experience, suitable for formal occasions or daily use.
+  Updated: 2026-01-21T14:07:03Z
+  Vendor: Grammy Shell's Shed 
+  Product Type: Tea Cups and Saucers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_bf43faab-57c4-4a3d-a0db-be22dd8dc2a1.jpg?v=1768963152
+  Price: $23.45 USD
+[List Continued](https://www.grammyshellsshed.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzQ4OTY1ODIyNjE4LCJsYXN0X3ZhbHVlIjoiODc0ODk2NTgyMjYxOCJ9)
 
 ## Collections
 
@@ -1659,6 +1673,9 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
 - [Extraordinary selection of Pitchers & Tea pots](https://www.grammyshellsshed.com/collections/extraordinary-selection-of-pitchers-glass-pottery)
   Updated: 2026-01-14T01:07:21Z
   Total Products: 10
+- [Special Finds](https://www.grammyshellsshed.com/collections/special-finds)
+  Updated: 2026-01-24T19:28:05Z
+  Total Products: 23
 
 ## Blogs
 
@@ -1670,7 +1687,7 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
 <h1>
 <img src="https://cdn.shopify.com/s/files/1/0691/6702/2234/files/Screenshot_20250929_000117_Cloud.jpg?v=1759787967" alt="" width="142" height="308" style="font-size: 0.875rem;"><img src="https://cdn.shopify.com/s/files/1/0691/6702/2234/files/Screenshot_20250929_000153_Cloud.jpg?v=1759787757" alt="" width="135" height="293" style="font-size: 0.875rem;"><img src="https://cdn.shopify.com/s/files/1/0691/6702/2234/files/Screenshot_20251006_174813_Facebook.jpg?v=1759787733" alt="" width="119" height="258" style="font-size: 0.875rem;"><img src="https://cdn.shopify.com/s/files/1/0691/6702/2234/files/plates_609b9d97-f195-41cc-8017-1803398785a1.webp?v=1759789693" alt="" width="211" height="281"><img src="https://cdn.shopify.com/s/files/1/0691/6702/2234/files/background-editor_output_d99950d1-fa45-4f46-b32c-35a4fc791e12.png?v=1759715280" alt="" width="216" height="288"><img src="https://cdn.shopify.com/s/files/1/0691/6702/2234/files/IMG_20250926_183534.jpg?v=1759788623" alt="" width="384" height="227" style="font-size: 0.875rem;">
 </h1>
-    Updated: 2025-10-07T03:34:43Z
+    Updated: 2026-01-24T19:54:12Z
     Author: Patrice Michelle Moore
     Tags: history, home decore, new and used, outer banks, pre loved, travel, vintage
   - [The Ultimate Guide to Finding Hidden Gems in Thrift Stores](https://www.grammyshellsshed.com/blogs/news/the-ultimate-guide-to-finding-hidden-gems-in-thrift-stores): The Ultimate Guide to Finding Hidden Gems in Thrift Stores
@@ -1709,6 +1726,15 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   - [Your Checklist for Identifying Authentic Vintage Finds](https://www.grammyshellsshed.com/blogs/news/your-checklist-for-identifying-authentic-vintage-finds): Your Checklist for Identifying Authentic Vintage Finds
     Updated: 2026-01-17T00:43:01Z
     Author: Grammy Shell
+  - [How to Start Your Vintage Collection on a Budget](https://www.grammyshellsshed.com/blogs/news/how-to-start-your-vintage-collection-on-a-budget): How to Start Your Vintage Collection on a Budget
+    Updated: 2026-01-20T01:18:50Z
+    Author: Grammy Shell
+  - [Navigating the World of Second Hand Furniture for Beginners](https://www.grammyshellsshed.com/blogs/news/navigating-the-world-of-second-hand-furniture-for-beginners): Navigating the World of Second Hand Furniture for Beginners
+    Updated: 2026-01-21T01:50:21Z
+    Author: Grammy Shell
+  - [Unlocking Value in Vintage Electronics and Gadgets](https://www.grammyshellsshed.com/blogs/news/unlocking-value-in-vintage-electronics-and-gadgets): Unlocking Value in Vintage Electronics and Gadgets
+    Updated: 2026-01-24T00:31:08Z
+    Author: Grammy Shell
 
 ## Store Pages
 
@@ -1716,6 +1742,8 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Updated: 2025-07-27T12:32:21Z
 - [Your Privacy Choices](https://www.grammyshellsshed.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-10-17T00:20:56Z
+- [CUSTOMER FEEDBACK](https://www.grammyshellsshed.com/pages/multicolumn): This page features our multicolumn content.
+  Updated: 2026-01-23T19:21:30Z
 
 ## Policies
 
