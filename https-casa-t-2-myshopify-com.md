@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-01-01T19:35:07Z
 - Contact Email: casatekitty98@gmail.com
-- Updated At: 2026-01-20T00:00:31.674Z
+- Updated At: 2026-01-27T00:00:34.145Z
 
 ## Collections
 
