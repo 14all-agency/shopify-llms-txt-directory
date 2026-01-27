@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2026-01-13T00:00:43.721Z
+- Updated At: 2026-01-27T00:00:42.164Z
 
 ## Products
 
@@ -390,7 +390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/HakikiDeriKompaktElYapimiCuzdan5.png?v=1734733400
   Price: ₺999,90 TRY
 - [Hakiki Deri Klasik El Yapımı Soft Cüzdan](https://bulderi.com.tr/products/hakiki-deri-klasik-el-yapimi-soft-cuzdan): Bulderi hakiki deri klasik el yapımı soft cüzdan, zamansız tasarımı ve kaliteli işçiliğiyle öne çıkan unisex bir aksesuardır. %100 hakiki deri malzemeden üretilen ve tamamen el işçiliğiyle tamamlanan bu cüzdan, 6 kart bölmesi ve 1 kağıt para bölmesiyle kullanıcılara pratik bir çözüm sunar.
-  Updated: 2025-08-13T22:11:18Z
+  Updated: 2026-01-26T01:29:20Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
@@ -400,7 +400,7 @@
 ## Collections
 
 - [Deri Cüzdanlar](https://bulderi.com.tr/collections/cuzdanlar): Bulderi'nin Hakiki Deri Cüzdan Koleksiyonu, zarafetin ve dayanıklılığın mükemmel bir birleşimini sunuyor. El emeğiyle hazırlanan cüzdanlarımız, benzersiz tasarımları ve kaliteli derisiyle dikkat çekiyor.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-01-26T12:07:37Z
   Total Products: 11
 - [Deri Kartlıklar](https://bulderi.com.tr/collections/kartliklar): Bulderi'nin Kartlıklar koleksiyonu, tarzınızı ve kişiliğinizi yansıtan benzersiz ve özgün tasarımlarıyla dikkat çekiyor. Her bir kart, özel anlarınızı ve duygularınızı en güzel şekilde ifade etmenize olanak sağlayacak zengin içeriklerle donatılmıştır.
   Updated: 2025-12-15T12:12:29Z
@@ -412,13 +412,13 @@
   Updated: 2025-05-11T17:37:18Z
   Total Products: 0
 - [İndirimdekiler](https://bulderi.com.tr/collections/i̇ndirimdekiler): Bulderi'nin İndirimdekiler koleksiyonu, harika fırsatları kaçırmamanız için tasarlanmıştır. Bu özel koleksiyon, indirimli fiyatlarla en sevilen ürünleri bir araya getirir. Moda, güzellik, ev dekorasyonu ve daha birçok kategoride geniş bir ürün yelpazesine sahiptir.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-01-26T12:07:37Z
   Total Products: 36
 - [En Yeniler](https://bulderi.com.tr/collections/en-yeniler): Bulderi'nin En Yeniler koleksiyonu, son trendleri takip eden ve sürekli olarak güncellenen ürünleri bir araya getiriyor. Bu özel koleksiyon, en yeni ve özgün tasarımlarıyla dikkat çekiyor.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-01-26T12:07:37Z
   Total Products: 37
 - [Çok Satanlar](https://bulderi.com.tr/collections/cok-satanlar): Bulderi'nin Çok Satanlar koleksiyonu, müşterilerimizin en çok tercih ettiği ve beğendiği ürünleri bir araya getiriyor. Bu özel koleksiyon, popülerliklerini kanıtlamış ve kalitesiyle öne çıkan ürünleri içerir.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-01-26T12:07:37Z
   Total Products: 37
 - [Telefon Bölmeli Cüzdanlar](https://bulderi.com.tr/collections/telefon-bolmeli-cuzdanlar): Telefon Bölmeli Cüzdanlar, işlevselliği ve şıklığı bir araya getiren modern yaşamın vazgeçilmez aksesuarlarıdır. Her biri özenle seçilmiş yüksek kaliteli malzemelerden üretilen cüzdanlarımız, telefonunuza uygun bölmeleriyle pratik kullanım sunar.
   Updated: 2025-10-01T11:09:52Z
@@ -436,7 +436,7 @@
   Updated: 2025-12-23T12:11:10Z
   Total Products: 22
 - [El Yapımı](https://bulderi.com.tr/collections/el-yapimi): Bulderi’nin el yapımı deri koleksiyonu, şıklığı ve zarafeti bir araya getirerek, her tarza hitap eden benzersiz parçalar sunar. Cüzdan, kartlık, çanta ve aksesuarlar gibi çeşitli ürünler, ustalarımızın özenle seçtiği yüksek kaliteli deri kullanılarak el işçiliği ile üretilmiştir.
-  Updated: 2025-12-23T12:11:10Z
+  Updated: 2026-01-26T12:07:37Z
   Total Products: 10
 - [Yaz İndirimi](https://bulderi.com.tr/collections/yaz-indirimi): Yaz sıcaklarını şıklıkla karşılayın! Bulderi'nin özel Yaz İndirimi Koleksiyonu, %100 gerçek deriden üretilmiş cüzdan, çanta, kartlık ve el yapımı deri aksesuarlarla dolu.
   Updated: 2025-12-15T12:12:29Z
