@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-03-27T12:54:05Z
 - Contact Email: hello@comfyheadbands.com
-- Updated At: 2026-01-21T00:00:37.968Z
+- Updated At: 2026-01-28T00:00:41.229Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/2.jpg?v=1765471545
   Price: £9.99 GBP
 - [Kids Winter Thermal Underwear Set Boys](https://comfyheadbands.com/products/kids-winter-thermal-underwear-set-boys-warm-long-sleeve-top-and-pants-cosy-insulating-base-layer-sizes-3-13-charcoal-black-by-heatwave-thermalwear): Heatwave® Boys Thermal Long Sleeve Top & Pants Set, Kids Warm Winter Underwear Introducing the Heatwave® Boys Thermal Long Sleeve Top & Pants Set, the ultimate winter underwear solution for kids. Designed to provide superior warmth and comfort, this set is ideal for cold winter days, ensuring your little one stays snug and cozy. The unique 0.45 tog rating sets it apart, providing excellent insulation by holding more warm air close to the skin. Key Feature 1: Advanced Insulating Yarn Description: The thermal underwear base layers are crafted from an advanced insulating yarn. This material boasts high performance insulation with a soft brushed inner that enhances warmth. Benefits: Keeps your child warm by trapping heat close to the body, perfect for outdoor activities or cold indoor environments. Key Feature 2: Comfort Fit Design Description: The ribbed construction of the set shapes to the contours of the body, offering a perfect fit. The tops are side seam-free, adding an extra layer of comfort. Benefits: Provides a snug and comfortable fit that moves with your child, reducing discomfort and allowing free movement. Key Feature 3: High Performance Insulation Description: The combination of 50% polyester and 50% cotton provides excellent insulation while maintaining breathability. The materials are specifically designed to keep children warm without overheating. Benefits: Balances warmth and breathability, making it ideal for both indoor and outdoor use during the winter season. Sizes Ages 3-5: Long Sleeve Top Chest to Fit Approx 20-22", Long John Pants Waist to Fit Approx 20.5" Ages 6-8: Long Sleeve Top Chest to Fit Approx 24-26", Long John Pants Waist to Fit Approx 21.5" Ages 9-11: Long Sleeve Top Chest to Fit Approx 28-30", Long John Pants Waist to Fit Approx 22.5" Ages 12-13: Long Sleeve Top Chest to Fit Approx 30-32", Long John Pants Waist to Fit Approx 24.5" Ages 14-15: Long Sleeve Top Chest to Fit Approx 32-34", Long John Pants Waist to Fit Approx 26.5" Colours Or Style Options Black Charcoal Care Guide Machine washable at 40°C Can be tumble dried Wash dark colours separately Why Choose This Product Choose the Heatwave® Boys Thermal Long Sleeve Top & Pants Set for its superior warmth, comfort fit, and high-performance insulation. Unlike other winter underwear, this set is designed with both warmth and comfort in mind. User testimonials praise its durability and effectiveness, making it a reliable choice for keeping your child warm during the cold months. Trust in the quality and value of Heatwave® for a worry-free winter experience. Additional Information Usability: Ideal for outdoor play, winter sports, or as an extra layer under school uniforms. This versatile set ensures your child stays warm in various settings. Warranty and Support: Comes with a satisfaction guarantee and responsive customer support. Return policies are in place to ensure you are completely satisfied with your purchase.
-  Updated: 2026-01-20T11:55:55Z
+  Updated: 2026-01-27T18:40:23Z
   Vendor: Sock Stack
   Product Type: Thermal Underwear
   Availability: Available
@@ -121,7 +121,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-leg-sleeve-socks-red-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack-red-socks-1176513507.jpg?v=1767802638
   Price: £9.00 GBP
 - [Changing Robe Kids Unisex Hooded Coat Camo/Black](https://comfyheadbands.com/products/changing-robe-kids-unisex-hooded-coat-camo-black-windproof-waterproof-quick-dry-for-beach-surfing-swimming-by-heatwave-thermalwear): Introducing the Changing Robe Kids Unisex Hooded Coat Camo/Black Windproof Waterproof Quick Dry for Beach Surfing Swimming by Heatwave Thermalwear, the ultimate gear for young adventurers who love the water. This innovative changing robe keeps your child warm, dry, and comfortable during beach outings, surfing sessions, or swimming lessons. With its quick-dry and waterproof design, this robe is perfect for active kids who need a reliable companion for all water-based activities. Key Feature 1: Quick-Dry & Waterproof Design Description: Crafted from 100% polyester, this changing robe offers a quick-dry and waterproof exterior to shield your child from moisture and wind. This robust design ensures they remain snug and dry, no matter the weather or activity. Benefits: The fast-drying fabric keeps kids dry quickly, while its waterproof nature ensures comfort even in wet environments. This feature is indispensable for effortless changing after water activities, allowing your child to transition comfortably from water to land. Key Feature 2: Ideal for Water Sports & Outdoor Adventures Description: Available in stylish color options including black/grey, black/pink, and camo/black, this robe is perfect for a variety of water sports. Whether your child is surfing, swimming, or simply enjoying a family day at the beach, this robe is a versatile essential. Benefits: This changing robe ensures long-lasting wear, making it an essential part of any young adventurer's wardrobe. It’s designed for durability and functionality, offering unmatched comfort for all outdoor explorations. Key Feature 3: Hooded & Oversized Fit for Maximum Comfort Description: The oversized fit and cozy hood offer full coverage to protect against the elements. Designed for kids aged 9-13 years, it provides a relaxed yet secure fit that’s perfect for quick changes and added warmth. Benefits: The roomy design facilitates easy movement, and the hood provides an extra layer of warmth and protection. It’s ideal for after-swim comfort, ensuring your child can change swiftly and remain cozy. Sizes Available in a variety of sizes for children aged 9-13, ensuring a comfortable and secure fit. Choose the ideal size for your child to enhance their beach or poolside experience. Colours Or Style Options Choose from a selection of stylish colors: black/grey, black/pink, and camo/black. Whether your child prefers bold hues or classic tones, there's an option to match their style. Care Guide Machine wash on a gentle cycle with cold water. Avoid using bleach and harsh detergents. Tumble dry on low heat or hang to dry. Do not iron to maintain the robe’s waterproof and quick-dry properties. Why Choose This Product The Changing Robe by Heatwave Thermalwear is more than just a garment; it's an essential for active kids who indulge in water sports. Its quick-dry, waterproof features, combined with a comfortable oversized fit, make it an unbeatable choice for keeping your child warm and ready for their next adventure. Trusted by parents for its quality and durability, this robe offers peace of mind and superior performance. Additional Information Usability: Perfect for young surfers, swimmers, and beach enthusiasts, providing a warm and convenient changing space after aquatic activities. Warranty and Support: Our product comes with a 1-year warranty, backed by dedicated customer support, and a 30-day hassle-free return policy for your satisfaction.
-  Updated: 2026-01-20T15:23:39Z
+  Updated: 2026-01-27T16:17:42Z
   Vendor: Sock Stack
   Product Type: Changing Robe
   Availability: Available
@@ -149,7 +149,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-leg-sleeve-socks-white-fits-over-calf-shin-pads-compression-sleeves-for-football-training-running-by-sock-stack-white-socks-1176755002.jpg?v=1767802636
   Price: £9.00 GBP
 - [Girls Thermal Underwear Set](https://comfyheadbands.com/products/girls-thermal-underwear-set-long-sleeve-top-and-long-jane-pants-insulating-cotton-rich-winter-baselayer-soft-breathable-multiple-colours-sizes-by-daisy-dreamer): Keep her cozy, comfy, and ready for every winter adventure with the Daisy Dreamer Girls Thermal Underwear Set — a cotton-rich baselayer pairing a long sleeve top with Long Jane pants. Engineered for superior warmth without bulk, this soft, breathable set locks in heat, wicks away moisture, and moves with her all day. Perfect under school uniforms, ski gear, or weekend layers, it’s a cold‑weather essential parents trust and kids love. Key Feature 1: Advanced Insulating Yarn Description: Crafted with high‑performance insulating yarn and a soft brushed inner that traps more warm air close to the skin. Delivers a dependable 0.45 tog rating for impressive warmth while staying lightweight and easy to layer. Benefits: Reliable, all‑day thermal regulation keeps her warm without added bulk, so she can layer under clothes comfortably in changing winter conditions. Key Feature 2: Comfort Fit and Ribbed Construction Description: Ribbed fabric contours to the body for a snug yet flexible fit. Smart, side seam‑free construction minimises friction for irritation‑free comfort during active play and everyday wear. Benefits: Stays put, stretches with movement, and feels smooth against the skin—ideal for school days, sports, and weekend layering. Key Feature 3: Cotton-Rich Fabric Description: A breathable cotton‑rich blend balances warmth with airflow. The naturally soft handfeel is gentle on sensitive skin, while effective wicking helps manage moisture during activity. Benefits: Keeps her dry and comfortable by reducing clamminess and chills from damp fabric—perfect for outdoor play or chilly classrooms. Sizes Available in a range of kids’ sizes suited to various age groups for an easy, comfortable fit. Please refer to the size chart to select the ideal top and Long Jane combination for your child. Colours Or Style Options White – classic and clean under light uniforms Marl Grey – versatile everyday neutral Black – sleek, discreet, and easy to pair Care Guide Machine wash at 40°C Tumble dry friendly Wash dark colours separately to maintain vibrancy and fabric quality Why Choose This Product Warmth without weight: 0.45 tog performance plus brushed inner for dependable insulation. All-day comfort: Ribbed, seam‑free design reduces irritation and supports free movement. Breathable and cotton‑rich: Soft against skin with moisture management for dry, cosy wear. Versatile layering: Ideal under school uniforms, sports kits, and everyday winter outfits. Trusted by parents, loved by kids: A customer‑favourite baselayer for reliable cold‑weather comfort. Additional Information Usability: Wear under school shirts and trousers for extra warmth, layer beneath ski and winter sports gear, or use as a snug sleep layer on particularly cold nights. Great for travel, outdoor excursions, and weekend activities.
-  Updated: 2026-01-17T09:26:47Z
+  Updated: 2026-01-26T20:04:00Z
   Vendor: Sock Stack
   Product Type: Thermal Underwear
   Availability: Available
@@ -203,53 +203,53 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/kids-thermal-underwear-set-for-girls-long-sleeve-top-and-pants-insulating-cotton-rich-winter-baselayer-soft-breathable-multiple-colors-sizes-by-heatwave-thermalwear-marl-grey-3-5-yrs.jpg?v=1767802701
     Price: £7.00 GBP
 - [Girls Recycled Polyester Kids Stretch Leggings](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings): An essential for all sports kits these girl's high-waisted leggings with no side seams provide ultimate comfort for movement whilst the pocket on the rear waistband scores extra points. 80% Recycled polyester, 20% Elastane interlock
-  Updated: 2026-01-13T12:31:03Z
+  Updated: 2026-01-26T15:04:34Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2_2048x2048_811e1cd3-9b0c-43cb-924d-ef832d0cb820.jpg?v=1767802923
-  - [Black / 11/12](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980894071)
+  - [11/12 / Black](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980894071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_black_ft2.jpg?v=1767802923
     Price: £9.00 GBP
-  - [Black / 3/4](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980926839)
+  - [3/4 / Black](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980926839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_black_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Black / 5/6](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980959607)
+  - [5/6 / Black](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980959607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_black_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Black / 7/8](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980992375)
+  - [7/8 / Black](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480980992375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_black_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Black / 9/10](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981025143)
+  - [9/10 / Black](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981025143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_black_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Navy / 11/12](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981057911)
+  - [11/12 / Navy](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981057911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Navy / 3/4](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981090679)
+  - [3/4 / Navy](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981090679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Navy / 5/6](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981123447)
+  - [5/6 / Navy](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981123447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Navy / 7/8](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981156215)
+  - [7/8 / Navy](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981156215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2.jpg?v=1767802923
     Price: £18.00 GBP
-  - [Navy / 9/10](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981188983)
+  - [9/10 / Navy](https://comfyheadbands.com/products/recycled-polyester-kids-stretch-leggings?variant=56480981188983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/lv897_navy_ft2.jpg?v=1767802923
     Price: £18.00 GBP
 - [Recycled Polyester Kids Microfleece](https://comfyheadbands.com/products/recycled-polyester-kids-microfleece): Recycled fleece top with 1/4 front YKK NATULON® eco-friendly zip. Soft bound elasticised cuffs and hem. Decorative body stitching. Made from highest quality perPETual© sustainable yarns using 100% post-consumer PET recycled plastic bottles offering an equivalent to conventional yarns. Easy wash quick-dry. Ideal for schoolwear. Hang Loop. PFC-free. End of life recyclable. Biodegradable bags & recycled cartons.
-  Updated: 2026-01-20T22:41:27Z
+  Updated: 2026-01-23T09:36:13Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/R905J_Navy_FT.jpg?v=1767802924
     Price: £12.00 GBP
 - [Organic Cotton Kids Polo Shirt](https://comfyheadbands.com/products/organic-cotton-kids-polo-shirt): Kids polo in fun colours that can be combined with any outfit.
-  Updated: 2026-01-18T17:49:06Z
+  Updated: 2026-01-26T00:53:21Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -963,7 +963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/4486/3607/files/O13301-98.jpg?v=1767802926
     Price: £27.00 GBP
 - [Fairtrade Organic Kids Hoodie](https://comfyheadbands.com/products/fairtrade-organic-kids-hoodie): Heavyweight hooded sweatshirt with kangaroo pocket at front and double lined hood with adjustable flat strings. Featuring inside neck tape, double-layered elastane rib at cuffs and waistband. Made from ringspun 300gsm combed cotton and has a soft brushed inside.\n100% ORGANIC FAIRTRADE COTTON
-  Updated: 2026-01-13T12:33:28Z
+  Updated: 2026-01-26T18:14:16Z
   Vendor: Earth Wardrobe
   Product Type: Clothing
   Availability: Available
@@ -1208,7 +1208,13 @@
     Updated: 2026-01-19T05:26:43Z
     Author: Faye Soberg
   - [Winter Headgear Checklist for Active Children](https://comfyheadbands.com/blogs/active-blog/winter-headgear-checklist-active-children)
-    Updated: 2026-01-19T05:27:43Z
+    Updated: 2026-01-26T05:26:41Z
+    Author: Faye Soberg
+  - [Cotton vs Polyester Headbands: Material Comparison](https://comfyheadbands.com/blogs/active-blog/cotton-vs-polyester-headbands-material-comparison)
+    Updated: 2026-01-22T02:48:34Z
+    Author: Faye Soberg
+  - [Best Headband Colors for Boys and Girls Aged 7-14](https://comfyheadbands.com/blogs/active-blog/best-headband-colors-boys-girls-7-14)
+    Updated: 2026-01-26T05:18:52Z
     Author: Faye Soberg
 
 ## Store Pages
