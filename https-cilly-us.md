@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2026-01-20T00:00:57.024Z
+- Updated At: 2026-01-28T00:00:58.099Z
 
 ## Products
 
@@ -12824,14 +12824,14 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d15714f1-86e2-4cf7-b825-bb31a79c576b.jpg?v=1757165271
     Price: CHF 38.20 CHF
 - [Large Metal Chicken Coop, Walk-in Chicken Run,Galvanized Wire Poultry Chicken Hen Pen Cage, Rabbits Duck Cages With Waterproof And Anti-Ultraviolet Cover For Outside 10 L X 20 W X 6.56 H](https://cilly.us/products/large-metal-chicken-coop-walk-in-chicken-run-galvanized-wire-poultry-chicken-hen-pen-cage-rabbits-duck-cages-with-waterproof-and-anti-ultraviolet-cover-for-outside-10-l-x-20-w-x-6-56-h): Specification Available Ship to: United States Details Product Dimensions Assembled Length (in.):120.00 Assembled Width (in.):240.00 Assembled Height (in.):79.00 Weight (lbs.):101.00 Package Size Length (in.):76.85 Width (in.):11.00 Height (in.):9.50 Weight (lbs.):104.00 Product Features Perfect Size:Large size ensures that animals have enough space for movement Perfect Size:Large size ensures that animals have enough space for movement Intensive Wire Mesh:Plastic-dipped hexagonal wire mesh can prevent animals from being lost and avoid damage from natural enemies. It is coated with PVC on the outside, secure for the chickens' touch and grip.
-  Updated: 2025-09-07T11:36:43Z
+  Updated: 2026-01-26T13:06:20Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6e0cb80a-21aa-4817-ba87-003545ea8c0a.jpg?v=1757165634
   Price: CHF 276.30 CHF
 - [Wooden Chicken Coop Swiship-Ship Prohibited By WalMart](https://cilly.us/products/wooden-chicken-coop-swiship-ship-prohibited-by-walmart): Specification Available Ship to: United States Details Features: - Sweet cottage-like design - Waterproof paint and roof protect against rainwater for weather protection - Toxin-free paint prevents harmful polluting chemicals from endangering pets, keeping your home and your animals safe - Steel wire strength against the wild animals Specification: - Color: White and Green - Material: Pine Wood, Steel Wire - Overall Dimensions: 77.25" L x 30" W x 38.25" H - Main House Dimensions: 25.25" L x 25.25" W x 38.25" H. Door: 10" L x 16.5" W - Run Backyard Dimensions: 38" L x 25" W x 22.75" H. Door: 17" L x 19.75" W - Ramp Door Dimensions: 8.75" W x 13.75" H - Nest Box Dimensions: 23.75" L x 14.25" W x 14.25" H - Assembly Required - NOTE: 2 grown chickens suggested - 1 x Hen House Coop - 1 x Manual
-  Updated: 2025-09-07T11:36:44Z
+  Updated: 2026-01-26T08:06:20Z
   Vendor: Alles für deine Haustiere 
   Product Type: 
   Availability: Available
@@ -15180,13 +15180,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/932d9ac8-2093-4b71-bfe1-449fc26485cb_edfa75d2-e5c0-4617-9691-bb6c1acc0fdd.jpg?v=1757280785
     Price: CHF 77.10 CHF
-- [Luxus Hundebett Memory Foam - 13cm Dick mit Kunstfell Abnehmbar](https://cilly.us/products/luxury-faux-fur-5-inches-thick-super-soft-memory-foam-dog-bed-with-soft-removable-please-note-that-this-product-is-shipped-by-yourself-for-the-average-shipping-cost): Luxus Hundebett mit Memory Foam - 13cm DickDieses luxuriöse Hundebett mit 13cm dickem Memory Foam und weichem Kunstfell bietet ultimativen Komfort - mit abnehmbarem Bezug für die DACH-Region.Produktvorteile: Memory Foam: Passt sich perfekt an Körperform an 13cm dick: Extra dick für maximalen Komfort Kunstfell: Superweich und kuschelig Abnehmbar: Bezug leicht zu waschen Luxus-Qualität: Premium-Material Für Hunde: Verschiedene Größen Ideal für:Große Hunde, ältere Hunde, Gelenkprobleme, Luxus sowie für maximalen Komfort.Ultimativer Komfort mit Memory Foam!
-  Updated: 2025-12-30T07:09:50Z
-  Vendor: Alles für deine Haustiere 
-  Product Type: Haustier bedarf
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/52b4053a-dcf0-423c-a3b5-7cd1a67c4a7c.jpg?v=1757280890
-  Price: CHF 69.30 CHF
 - [Plush Square Pet Bed Wave Memory Foam Deep Sleep Dog Sofa Bed](https://cilly.us/products/plush-square-pet-bed-wave-memory-foam-deep-sleep-dog-sofa-bed): Product information: Color: dark gray, black Gray, scraping white coffee, pink white, brown, beige, beige, black, purple, sky blue, fruit green, red, apricot, white, skin pink light pink, dark coffee color Material: cloth Applicable object: Dog Specifications: S 40*30 * 5cm, M 50*40 * 5cm, L 75*50 * 6cm, XL 100*60 * 10cm, XXL 120*80 * 10cm Packing list: 1 x Pet pad Product Image:
   Updated: 2025-09-08T09:40:30Z
   Vendor: Alles für deine Haustiere 
