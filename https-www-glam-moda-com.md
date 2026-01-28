@@ -6,7 +6,7 @@
 - Timezone: Asia/Riyadh
 - Created At: 2024-07-16T13:58:00Z
 - Contact Email: shop@glam-moda.com
-- Updated At: 2026-01-19T09:24:06.139Z
+- Updated At: 2026-01-28T00:00:33.047Z
 
 ## Products
 
@@ -61,7 +61,7 @@
   Image: https://cdn.shopify.com/s/files/1/0612/2461/6006/files/La-Vie-Est-Belle-Perfume-GLAM-MODA-27342695006278.jpg?v=1763565908
   Price: SAR 705.00 SAR
 - [I Want Choo Perfume](https://www.glam-moda.com/products/jimmy-choo-i-want-choo-perfume-by-jimmy-choo): Eau De Parfum Spray About the Product Jimmy Choo I Want Choo Eau de Parfum is a captivating fragrance offered by the renowned Jimmy Choo company, known as a luxury lifestyle accessories brand. Designed for the modern and glamourous woman, this scent embodies a playfully daring spirit, combining elegance with a touch of audacity. Created by perfumers Louise Turner, Sonia Constant, and Antoine Maisondieu, I Want Choo captures the essence of sophistication. As an offering from the esteemed Jimmy Choo brand, known for its exquisite creations, this fragrance carries the brand's traces of elegance and refinement. It pays homage to the legacy of the brand's founder, Mr. Choo, and his remarkable craftsmanship. With its alluring composition, I Want Choo captures the spirit of a modern and glamorous woman, reminiscent of the iconic Princess Diana who effortlessly epitomized grace and style. This fragrance invites wearers to indulge in a captivating olfactory journey that exudes confidence and timeless beauty. Mr. Choo's niece continues the brand's legacy, ensuring that his vision lives on even after Mr. Choo departed. Fragrance Family: Amber Floral Scent Type: Warm, sweet Notes: Jimmy Choo I Want Choo Eau de Parfum features a delightful blend of scent notes that create an enchanting olfactory experience. The fragrance opens with the vibrant and succulent combination of mandarin orange and velvet peach, middle notes being red spider lily and jasmine sambac, infusing the composition with a luscious fruity sweetness while introducing a captivating floral inflection. Finally, the base notes of vanilla, benzoin, and resinoid leave a lingering trail, evoking an empowered sense of allure and leaving a warm, seductive impression. Suggested Use For long-lasting fragrance, apply I Want Choo to pulse points behind your ears, at the base of your neck, and on your wrists. Additionally, warmer areas of the body, such as behind the knees and inside the elbow, can enhance the intensity of the scent. Product Code: F-557563-X-W
-  Updated: 2025-11-19T15:25:11Z
+  Updated: 2026-01-23T20:18:43Z
   Vendor: WOMEN
   Product Type: 
   Availability: Available
@@ -603,7 +603,7 @@
   Image: https://cdn.shopify.com/s/files/1/0612/2461/6006/files/Bloom-Ambrosia-Di-Fiori-Perfume-GLAM-MODA-27342758117446.jpg?v=1763565704
   Price: SAR 677.00 SAR
 - [Illusione Tonka Solaire Perfume](https://www.glam-moda.com/products/bottega-veneta-illusione-tonka-solaire-perfume-by-bottega-veneta): Eau De Parfum Spray Illusione Tonka Solaire is a perfume for women by Bottega Veneta, released in 2021. This floral fruity fragrance is modern and sophisticated, offering a fresh take on the classic base note, tonka bean. This wonderful scent blends invigorating citrus, uplifting florals and earthy woody notes to radiate femininity, confidence and allure. Fragrance Family: Floral, fruity Scent Type: Citrus, woody, green Notes: Bottega Veneta Illusione Tonka Solaire perfume makes tonka bean, a long-loved base accord, the star of this transcendent fragrance. It sets a tone of optimism with a top layer of lemon, orange blossom and black currant. The fragrance beautifully reveals a middle layer of fig leaf and tonka bean. Ultimately, it dries down to a heartwarming base of cedarwood and olive tree for a pitch-perfect note of sensuality. Suggested Use For long-lasting fragrance that you can carry throughout the day and to minimize the need for reapplying, focus on your pulse points behind your ears, at the base of your neck and on your wrists as well as warmer areas of the body, such as behind the knees and inside the elbow. These are the best places to apply your fragrance since the scent intensifies by the warmth of your body. Product code: F-564071-X-W
-  Updated: 2025-11-19T15:21:48Z
+  Updated: 2026-01-25T11:21:16Z
   Vendor: WOMEN
   Product Type: 
   Availability: Available
@@ -1797,70 +1797,70 @@
 ## Collections
 
 - [Bottega Veneta: Elevate Your Style with Luxury Italian Craftsmanship](https://www.glam-moda.com/collections/bottega-veneta): Discover timeless elegance with Bottega Veneta. Explore luxury fashion that sets trends with exquisite craftsmanship and modern sophistication.
-  Updated: 2025-12-29T17:42:40Z
+  Updated: 2026-01-27T14:17:34Z
   Total Products: 91
 - [Discover Timeless Elegance with BURBERRY Collections](https://www.glam-moda.com/collections/burberry): Discover timeless elegance with the BURBERRY Collection. Explore luxury fashion pieces that blend classic style with modern sophistication. Shop now!
-  Updated: 2026-01-17T15:39:55Z
-  Total Products: 21
+  Updated: 2026-01-27T14:01:12Z
+  Total Products: 44
 - [Chloe Collection: Elevate Your Style with Timeless Elegance](https://www.glam-moda.com/collections/chloe): Discover Chloe: A timeless collection of elegance and style, featuring chic designs to elevate your wardrobe with a touch of sophistication.
-  Updated: 2026-01-15T10:47:20Z
-  Total Products: 35
+  Updated: 2026-01-27T13:51:31Z
+  Total Products: 53
 - [Dior: Discover Elegant Fashion & Timeless Luxury Styles](https://www.glam-moda.com/collections/dior): Explore the elegance of Dior's collection. Discover luxury fashion and timeless designs that redefine style and sophistication.
   Updated: 2026-01-17T15:40:06Z
   Total Products: 24
 - [Dazzle in Style with DOLCE & GABBANA's Latest Collection](https://www.glam-moda.com/collections/dolce-gabbana): Explore exquisite elegance with the latest Dolce & Gabbana collection. Discover timeless fashion pieces that redefine luxury and style.
-  Updated: 2025-10-25T10:18:15Z
-  Total Products: 4
+  Updated: 2026-01-27T13:59:38Z
+  Total Products: 10
 - [Discover Maison Margiela: Avant-Garde Fashion Redefined](https://www.glam-moda.com/collections/maison-margiela): Discover the iconic Maison Margiela collection. Immerse in avant-garde fashion with timeless pieces that redefine elegance and style.
   Updated: 2025-11-23T08:35:58Z
   Total Products: 10
 - [Explore Luxury: Discover TOD'S Timeless Elegance](https://www.glam-moda.com/collections/tods): Explore TOD'S collection for timeless elegance and Italian craftsmanship. Discover shoes, bags, and accessories that define luxury. Shop now!
-  Updated: 2026-01-06T07:52:11Z
+  Updated: 2026-01-24T10:20:28Z
   Total Products: 2
 - [Step into Elegance with Aquazzura: Stylish & Chic Footwear](https://www.glam-moda.com/collections/aquazzura-1): Discover elegance with Aquazzura's exquisite collection. Step into luxury with stunning designs that elevate your style. Explore now!
-  Updated: 2025-11-27T11:38:11Z
+  Updated: 2026-01-21T07:58:48Z
   Total Products: 12
 - [SAINT LAURENT: Elevate Your Style with Timeless Elegance](https://www.glam-moda.com/collections/saint-laurent): Explore the luxury and sophistication of the SAINT LAURENT collection. Discover iconic styles and timeless elegance in fashion.
-  Updated: 2026-01-18T17:07:51Z
-  Total Products: 62
+  Updated: 2026-01-27T14:02:58Z
+  Total Products: 63
 - [Valentino: Elevate Your Style with Luxurious Fashion](https://www.glam-moda.com/collections/valentino): Explore the timeless elegance of the Valentino Collection. Discover luxury fashion pieces that redefine style with sophistication and grace.
-  Updated: 2026-01-17T15:39:54Z
+  Updated: 2026-01-21T08:01:17Z
   Total Products: 21
 - [Gucci: Elevate Your Style with Luxury Fashion & Accessories](https://www.glam-moda.com/collections/gucci): Discover the latest Gucci collection: luxury fashion, timeless style, and iconic designs. Elevate your wardrobe with our stunning new arrivals. Shop now!
-  Updated: 2026-01-17T15:40:07Z
+  Updated: 2026-01-25T05:20:38Z
   Total Products: 81
 - [Stylish Footwear Collection: Elevate Your Step with Trendy Shoes](https://www.glam-moda.com/collections/footwears): Explore our premium Footwear collection. Discover stylish, comfortable shoes for every occasion. Step into quality and elevate your style!
-  Updated: 2026-01-18T14:31:41Z
-  Total Products: 404
+  Updated: 2026-01-27T14:01:13Z
+  Total Products: 429
 - [Stylish Accessories for Every Occasion](https://www.glam-moda.com/collections/accessories): Shop our exclusive Accessories collection, featuring trendy essentials to elevate your style. Discover must-have additions to complete your look today!
-  Updated: 2026-01-13T13:43:49Z
-  Total Products: 458
+  Updated: 2026-01-27T14:01:12Z
+  Total Products: 462
 - [Versace Collection: Elevate Your Style with Luxury Fashion](https://www.glam-moda.com/collections/versace): Discover the latest Versace collection featuring iconic styles and luxurious designs. Elevate your fashion game with timeless elegance and cutting-edge trends.
-  Updated: 2025-11-23T09:29:48Z
+  Updated: 2026-01-20T07:56:18Z
   Total Products: 8
 - [Smart Products Filter Index - Do not delete](https://www.glam-moda.com/collections/globofilter-best--products-index)
-  Updated: 2026-01-19T09:23:26Z
-  Total Products: 6237
+  Updated: 2026-01-27T21:46:33Z
+  Total Products: 6587
 - [Trendy Clothing Collection: Revamp Your Wardrobe Today!](https://www.glam-moda.com/collections/women-clothing): Discover stylish and trendy clothing for every occasion. Update your wardrobe with our latest collection and find your perfect look today!
-  Updated: 2026-01-18T14:31:38Z
-  Total Products: 291
+  Updated: 2026-01-27T14:01:18Z
+  Total Products: 410
 - [Stylish Bags Collection: Elevate Your Look with Trendy Bags](https://www.glam-moda.com/collections/bags-1): Explore our diverse collection of stylish bags for every occasion. Find the perfect bag to match your style and elevate your look today!
-  Updated: 2026-01-17T15:40:16Z
-  Total Products: 375
+  Updated: 2026-01-27T14:17:34Z
+  Total Products: 406
 - [Elegant & Timeless Jewelry: Discover Our Exquisite Collection](https://www.glam-moda.com/collections/jewellery-women-new-in): Explore our stunning jewellery collection featuring elegant designs and timeless pieces to elevate your style. Find your perfect accessory today!
   Updated: 2026-01-08T09:58:52Z
   Total Products: 47
 - [Irresistible Women's Fragrances: Find Your Signature Scent Today!](https://www.glam-moda.com/collections/women-fragrance): Discover our Women Fragrance collection, where elegance meets allure. Elevate your scent game with captivating perfumes for every occasion. Shop now!
-  Updated: 2026-01-19T09:22:57Z
-  Total Products: 929
+  Updated: 2026-01-27T14:02:58Z
+  Total Products: 965
 - [Trendy Women's Apparel Collection - Shop All Styles Online](https://www.glam-moda.com/collections/women-all): Explore our diverse range of women's products designed to suit every style. Discover fashion, accessories, and more for all occasions!
-  Updated: 2026-01-19T09:23:26Z
-  Total Products: 6234
+  Updated: 2026-01-27T21:46:33Z
+  Total Products: 6584
 - [Discover Stunning Jewelry Trends: Elevate Your Style Today](https://www.glam-moda.com/collections/jewelry-trends): Discover the latest jewelry trends with stunning pieces that sparkle. Elevate your style with our curated collection of stylish and timeless jewelry.
   Updated: 2025-10-25T10:18:16Z
   Total Products: 4
 - [Louis Vuitton: Discover Iconic Luxury Fashion & Accessories](https://www.glam-moda.com/collections/louis-vuitton): Discover timeless elegance with Louis Vuitton's iconic collection. Elevate your style with luxury fashion that defines sophistication and class.
-  Updated: 2026-01-19T09:12:42Z
+  Updated: 2026-01-22T08:26:39Z
   Total Products: 61
 - [Demellier: Elegant Handbags & Timeless Accessories Collection](https://www.glam-moda.com/collections/demellier): Explore the elegant Demellier collection: timeless designs, crafted with precision. Discover luxury handbags that blend style and sophistication effortlessly.
   Updated: 2025-12-29T17:39:24Z
@@ -1869,47 +1869,47 @@
   Updated: 2025-12-14T13:38:08Z
   Total Products: 0
 - [Explore the Latest Balenciaga Collection – Shop Now!](https://www.glam-moda.com/collections/balenciaga): Explore the latest Balenciaga collection featuring innovative designs and luxury fashion staples that redefine style. Discover your new favorite pieces now!
-  Updated: 2026-01-12T07:50:55Z
-  Total Products: 6
+  Updated: 2026-01-27T07:01:34Z
+  Total Products: 44
 - [Discover The Row: Effortless Luxury & Timeless Style](https://www.glam-moda.com/collections/the-row): Discover The Row: Explore timeless fashion elegance with our curated collection of luxury apparel and accessories. Shop now for chic sophistication.
-  Updated: 2026-01-15T07:35:17Z
-  Total Products: 9
+  Updated: 2026-01-27T14:01:16Z
+  Total Products: 12
 - [Shop Stylish UGG Footwear & Accessories | Cozy Comfort for All Seasons](https://www.glam-moda.com/collections/ugg): Discover cozy comfort with our UGG collection. Shop iconic boots, slippers & more for ultimate warmth and style. Find your perfect pair today!
-  Updated: 2026-01-16T05:54:34Z
-  Total Products: 56
+  Updated: 2026-01-25T08:04:57Z
+  Total Products: 55
 - [Stylish & Chic: Explore the Latest Miu Miu Collection](https://www.glam-moda.com/collections/miu-miu): Discover the latest Miu Miu collection with bold designs and luxe styles. Elevate your wardrobe with iconic fashion statements. Shop now for exclusivity!
-  Updated: 2026-01-17T15:33:12Z
-  Total Products: 129
+  Updated: 2026-01-27T14:02:56Z
+  Total Products: 130
 - [Discover Luxury Fashion with TotêMe Collection Online](https://www.glam-moda.com/collections/toteme): Discover TotêMe, a curated collection of timeless fashion pieces. Elevate your style with elegant designs and exceptional quality. Explore now!
-  Updated: 2026-01-15T11:22:48Z
+  Updated: 2026-01-24T09:17:35Z
   Total Products: 11
 - [Shop Tory Burch: Chic Styles & Timeless Fashion Essentials](https://www.glam-moda.com/collections/tory-burch): Discover timeless elegance with the Tory Burch collection. Shop chic designs that embody sophistication and style. Elevate your wardrobe today!
-  Updated: 2026-01-14T07:58:02Z
+  Updated: 2026-01-24T13:55:32Z
   Total Products: 13
 - [Christian Louboutin: Iconic Luxury Footwear Collection Online](https://www.glam-moda.com/collections/christian-louboutin): Step into luxury with Christian Louboutin's iconic collection. Discover timeless elegance and unmatched style in every pair.
-  Updated: 2025-12-01T10:45:18Z
+  Updated: 2026-01-21T06:09:24Z
   Total Products: 16
 - [Luxurious Brunello Cucinelli Collection: Timeless Elegance Awaits](https://www.glam-moda.com/collections/brunello-cucinelli): Discover the elegance of Brunello Cucinelli's collection, where luxury meets timeless style. Elevate your wardrobe with premium Italian craftsmanship.
-  Updated: 2026-01-17T03:39:12Z
-  Total Products: 12
+  Updated: 2026-01-24T14:19:21Z
+  Total Products: 28
 - [Discover the Timeless Elegance of ETRO Fashion Collection](https://www.glam-moda.com/collections/etro): Discover ETRO's unique collection of luxury fashion and accessories. Elevate your style with innovative designs and exquisite craftsmanship.
   Updated: 2025-10-25T10:18:17Z
   Total Products: 2
 - [Shop the Latest Givenchy Collection: Luxury Fashion Redefined](https://www.glam-moda.com/collections/givenchy): Explore the exquisite Givenchy collection, where luxury meets timeless elegance. Discover iconic fashion pieces and elevate your style today!
-  Updated: 2026-01-17T15:43:20Z
-  Total Products: 10
+  Updated: 2026-01-27T13:52:19Z
+  Total Products: 41
 - [Golden Goose Collection: Find Iconic Styles & Premium Designs](https://www.glam-moda.com/collections/golden-goose): Discover the iconic Golden Goose collection: unique Italian footwear blending luxury and casual style. Stand out with handcrafted sneakers today!
-  Updated: 2026-01-08T09:50:21Z
+  Updated: 2026-01-24T11:26:41Z
   Total Products: 3
 - [Discover Timeless Elegance: Hermes Collection Awaits](https://www.glam-moda.com/collections/hermes): Explore the exquisite Hermes collection - luxury redefined with timeless elegance and unparalleled craftsmanship. Discover your perfect piece today!
   Updated: 2025-12-20T07:21:41Z
   Total Products: 22
 - [Chic & Timeless Style with Isabel Marant Collection](https://www.glam-moda.com/collections/isabel-marant): Discover the chic and effortless style of Isabel Marant's collection—perfect for elevating your wardrobe with Parisian flair.
-  Updated: 2026-01-06T12:36:37Z
+  Updated: 2026-01-23T12:56:54Z
   Total Products: 5
 - [Chic Jacquemus Collection: Discover Bold & Elegant Styles](https://www.glam-moda.com/collections/jacquemus): Discover the Jacquemus collection: where chic meets innovation. Elevate your style with our curated selection of fashion-forward essentials.
-  Updated: 2025-12-11T10:02:35Z
-  Total Products: 2
+  Updated: 2026-01-27T14:01:18Z
+  Total Products: 5
 - [Discover Iconic Fashion with Marc Jacobs Collections](https://www.glam-moda.com/collections/marc-jacobs): Discover the latest Marc Jacobs collection: bold, innovative designs that redefine fashion. Shop now and elevate your style!
   Updated: 2025-10-25T10:18:17Z
   Total Products: 2
@@ -1953,8 +1953,8 @@
   Updated: 2025-10-25T10:18:17Z
   Total Products: 4
 - [Timeless Elegance: Explore the Carolina Herrera Collection](https://www.glam-moda.com/collections/carolina-herrera): Discover elegance with Carolina Herrera's timeless collections. Explore sophisticated styles that embody luxury and grace. Elevate your fashion statement today.
-  Updated: 2025-12-07T13:36:52Z
-  Total Products: 2
+  Updated: 2026-01-27T13:59:41Z
+  Total Products: 6
 - [Explore the Exquisite Caron Collection for Timeless Elegance](https://www.glam-moda.com/collections/caron): Discover the Caron Collection: a luxurious blend of timeless elegance and modern style. Elevate your fashion game with our exquisite pieces. Shop now!
   Updated: 2025-10-25T10:18:17Z
   Total Products: 1
@@ -1998,10 +1998,10 @@
   Updated: 2025-10-25T10:18:18Z
   Total Products: 18
 - [Armani Collection: Elegant Styles for the Modern Fashionista](https://www.glam-moda.com/collections/giorgio-armani): Discover the timeless elegance of Armani. Shop our exclusive collection and elevate your style with luxurious, sophisticated fashion essentials.
-  Updated: 2025-12-11T09:59:53Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 11
 - [Guerlain: Luxurious Fragrances & Elegant Beauty Products](https://www.glam-moda.com/collections/guerlain): Discover the exquisite Guerlain collection, featuring luxurious fragrances and beauty products that captivate your senses and elevate your elegance.
-  Updated: 2026-01-05T09:21:36Z
+  Updated: 2026-01-25T12:14:43Z
   Total Products: 89
 - [Histoires De Parfums: Unique Fragrances That Tell a Story](https://www.glam-moda.com/collections/histoires-de-parfums): Discover the enchanting world of Histoires De Parfums, where each fragrance tells a unique story. Explore our collection and find your signature scent today.
   Updated: 2025-10-25T10:18:18Z
@@ -2016,10 +2016,10 @@
   Updated: 2025-10-25T10:18:18Z
   Total Products: 3
 - [Elegant Fragrances - Discover the Jimmy Choo Collection](https://www.glam-moda.com/collections/jimmy-choo): Discover luxury and elegance with our Jimmy Choo collection. Step out in style and confidence with timeless designs and unparalleled sophistication.
-  Updated: 2025-10-27T08:34:54Z
-  Total Products: 16
+  Updated: 2026-01-27T13:51:37Z
+  Total Products: 20
 - [Explore Luxurious Fragrances: Discover Jo Malone Perfume Collection](https://www.glam-moda.com/collections/jo-malone): Discover luxury fragrances and elevate your senses with Jo Malone's exquisite collection. Timeless scents for every mood and occasion.
-  Updated: 2026-01-10T12:16:08Z
+  Updated: 2026-01-25T12:14:43Z
   Total Products: 16
 - [Joop: Elevate Your Style with Trendsetting Fashion](https://www.glam-moda.com/collections/joop): Explore the Joop collection for stylish trends and chic fashion pieces that elevate your wardrobe with elegance and modern flair. Discover your style today!
   Updated: 2025-10-25T10:18:18Z
@@ -2034,7 +2034,7 @@
   Updated: 2026-01-18T14:31:03Z
   Total Products: 10
 - [Discover Luxurious Lancome Products for Radiant Beauty](https://www.glam-moda.com/collections/lancome): Discover luxury beauty with Lancome's exclusive collection. Elevate your skincare and makeup routine with premium products. Shop now for radiant results!
-  Updated: 2026-01-13T13:43:29Z
+  Updated: 2026-01-26T12:12:28Z
   Total Products: 22
 - [Discover Luxury Scents: Explore the Le Labo Collection](https://www.glam-moda.com/collections/le-labo): Discover the artisanal world of Le Labo fragrances. Handcrafted perfumes with unique scents that embody elegance and sophistication. Explore the collection now.
   Updated: 2025-10-25T10:18:19Z
@@ -2043,7 +2043,7 @@
   Updated: 2025-10-25T10:18:19Z
   Total Products: 3
 - [Shop Loewe: Luxury Fashion & Accessories at Its Finest](https://www.glam-moda.com/collections/loewe): Discover Loewe's exquisite collection of luxury fashion, where innovation meets elegance. Explore timeless styles and sophisticated designs today.
-  Updated: 2026-01-17T15:33:14Z
+  Updated: 2026-01-27T11:17:13Z
   Total Products: 37
 - [Loro Piana: Luxurious Fashion Redefined for Modern Elegance](https://www.glam-moda.com/collections/loro-piana): Discover the elegance of the Loro Piana collection, where luxury meets style with unmatched craftsmanship. Explore timeless pieces that define sophistication.
   Updated: 2025-12-09T14:53:32Z
@@ -2085,8 +2085,8 @@
   Updated: 2025-10-25T10:18:19Z
   Total Products: 4
 - [Discover the Stunning Rabanne Collection - Elevate Your Style](https://www.glam-moda.com/collections/paco-rabanne): Explore Rabanne's exclusive collection—trendy fashion pieces that redefine style and elegance. Discover luxurious designs for a chic wardrobe upgrade!
-  Updated: 2026-01-17T12:15:49Z
-  Total Products: 43
+  Updated: 2026-01-27T14:02:51Z
+  Total Products: 44
 - [Discover Luxury Fragrances at Penhaligon's - Unique & Timeless Scents](https://www.glam-moda.com/collections/penhaligons): Discover Penhaligon's: a luxurious array of captivating fragrances and exquisite perfumes crafted to elevate your senses to new heights.
   Updated: 2025-10-25T10:18:19Z
   Total Products: 3
@@ -2094,11 +2094,11 @@
   Updated: 2025-10-25T10:18:19Z
   Total Products: 1
 - [Shop the Latest Styles from Ralph Lauren Collection Now](https://www.glam-moda.com/collections/ralph-lauren): Explore timeless elegance and luxury fashion with Ralph Lauren's exclusive collection. Discover iconic styles and elevate your wardrobe today!
-  Updated: 2026-01-06T12:14:41Z
+  Updated: 2026-01-26T12:12:28Z
   Total Products: 6
 - [Explore the Latest Prada Collection: Timeless Elegance & Style](https://www.glam-moda.com/collections/prada): Explore Prada's latest collection for timeless elegance and modern sophistication. Discover luxury fashion that elevates your style.
-  Updated: 2026-01-17T15:33:15Z
-  Total Products: 163
+  Updated: 2026-01-25T08:04:54Z
+  Total Products: 161
 - [Relive The Past with Our Exclusive Reminiscence Collection](https://www.glam-moda.com/collections/reminiscence): Explore Reminiscence: a timeless collection that captures the essence of cherished memories and classic elegance.
   Updated: 2025-10-25T10:18:19Z
   Total Products: 1
@@ -2118,28 +2118,28 @@
   Updated: 2025-10-25T10:18:20Z
   Total Products: 4
 - [Thomas Kosmala: Discover Unique & Exquisite Fragrances Today](https://www.glam-moda.com/collections/thomas-kosmala): Discover the Thomas Kosmala collection, where art meets fragrance sophistication. Explore our unique scents crafted with passion and precision.
-  Updated: 2025-10-25T10:18:20Z
+  Updated: 2026-01-24T13:33:54Z
   Total Products: 2
 - [Shop Tiffany Jewelry: Elegant Designs & Timeless Luxury](https://www.glam-moda.com/collections/tiffany): Discover the exquisite Tiffany collection, featuring timeless elegance and unmatched craftsmanship in jewelry. Explore luxurious designs today!
-  Updated: 2025-10-25T10:18:20Z
+  Updated: 2026-01-24T13:30:55Z
   Total Products: 2
 - [Discover the Alluring Tiziana Terenzi Fragrances Collection](https://www.glam-moda.com/collections/tiziana-terenzi): Unveil luxury with Tiziana Terenzi's enchanting fragrances. Dive into elegance and captivation to find your signature scent today!
-  Updated: 2025-12-01T11:41:26Z
+  Updated: 2026-01-24T13:13:46Z
   Total Products: 12
 - [Luxury Style & Elegance: Explore the Tom Ford Collection](https://www.glam-moda.com/collections/tom-ford): Discover the luxurious Tom Ford collection. Elevate your style with our exclusive range of premium fashion and accessories. Shop now for timeless elegance.
-  Updated: 2026-01-13T12:15:02Z
-  Total Products: 98
+  Updated: 2026-01-27T13:51:38Z
+  Total Products: 130
 - [Ungaro Collection: Timeless Elegance & Luxury Fashion](https://www.glam-moda.com/collections/ungaro): Discover Ungaro's exquisite collection, where timeless elegance meets modern design. Elevate your style with our luxurious and sophisticated pieces.
   Updated: 2025-10-25T10:18:20Z
   Total Products: 1
 - [Victoria Beckham Collection: Chic & Timeless Fashion Essentials](https://www.glam-moda.com/collections/victoria-beckham): Explore the chic Victoria Beckham collection. Discover timeless fashion pieces that elevate your style with elegance and sophistication. Shop now!
-  Updated: 2026-01-18T12:16:06Z
+  Updated: 2026-01-20T07:53:19Z
   Total Products: 29
 - [Elegant Fashion Finds | Viktor & Rolf Collection](https://www.glam-moda.com/collections/viktor-rolf): Discover the avant-garde elegance of Viktor & Rolf. Explore stunning designs that blend innovative creativity with high fashion allure.
-  Updated: 2026-01-13T13:44:06Z
+  Updated: 2026-01-20T07:43:19Z
   Total Products: 3
 - [Discover Luxury Fragrances: Shop the Exclusive Xerjoff Collection](https://www.glam-moda.com/collections/xerjoff): Explore the luxurious world of Xerjoff fragrances. Indulge in exquisite scents crafted with precision for an unforgettable olfactory experience.
-  Updated: 2026-01-10T12:16:08Z
+  Updated: 2026-01-21T07:39:38Z
   Total Products: 18
 - [Discover Elegance & Style with Savette Luxury Collections](https://www.glam-moda.com/collections/savette): Discover Savette: A curated collection of timeless elegance and style. Elevate your fashion sense with our exclusive pieces today.
   Updated: 2025-10-25T10:18:20Z
@@ -2148,35 +2148,35 @@
   Updated: 2025-10-25T10:18:20Z
   Total Products: 11
 - [Discover Captivating Fragrances for Every Moment](https://www.glam-moda.com/collections/fragrances-all): Discover our enchanting Fragrances collection, featuring captivating scents to elevate your senses and leave a lasting impression. Explore now!
-  Updated: 2026-01-19T09:23:26Z
-  Total Products: 1000
+  Updated: 2026-01-27T14:02:58Z
+  Total Products: 1033
 - [Glam Up with Our Stunning Makeup Collection](https://www.glam-moda.com/collections/women-makeup): Explore our stunning Makeup collection, featuring top-quality products to enhance your beauty. Discover luxury online shopping GCC.
-  Updated: 2026-01-19T08:54:46Z
-  Total Products: 1275
+  Updated: 2026-01-27T21:46:33Z
+  Total Products: 1334
 - [Shop Best Sellers: Top-Rated Products & Hottest Trends Today](https://www.glam-moda.com/collections/above-300bhd): Shop our Best Sellers for top-rated products everyone loves! Discover the hottest trends and must-have items today. Don't miss out!
-  Updated: 2026-01-17T13:10:18Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 13
 - [Shop Top Picks Under 2999 SAR - Affordable Deals Await!](https://www.glam-moda.com/collections/below-300bhd): Discover top-quality products all under 2999 SAR! Explore unbeatable deals and elevate your shopping experience with amazing savings.
-  Updated: 2025-12-31T12:17:31Z
+  Updated: 2026-01-25T12:14:43Z
   Total Products: 348
 - [Discover Rhode: Trendy Fashion Staples for Every Wardrobe](https://www.glam-moda.com/collections/rhode): Discover the Rhode collection for unique, stylish pieces. Elevate your wardrobe with our must-have clothing and accessories today!
-  Updated: 2026-01-15T12:15:09Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 30
 - [Radiant Face & Skincare: Unlock Your Natural Glow Today](https://www.glam-moda.com/collections/face-skincare): Discover rejuvenating face and skincare essentials for a radiant glow. Elevate your routine with our curated products for healthy, beautiful skin today!
-  Updated: 2026-01-19T08:22:09Z
-  Total Products: 881
+  Updated: 2026-01-27T18:28:10Z
+  Total Products: 925
 - [Shop Trendy Zadig & Voltaire Collection Online - Latest Styles & Deals](https://www.glam-moda.com/collections/zadig-voltaire): Explore the bold and chic styles of Zadig & Voltaire. Elevate your wardrobe with edgy fashion staples. Shop now for a unique Parisian flair!
   Updated: 2025-11-29T14:00:27Z
   Total Products: 2
 - [Haus Labs by Lady Gaga: Bold Beauty Revolution](https://www.glam-moda.com/collections/haus-labs-by-lady-gaga): Discover bold beauty with Haus Labs by Lady Gaga. Explore innovative, cruelty-free makeup that elevates your style and empowers self-expression.
-  Updated: 2025-12-27T12:51:19Z
+  Updated: 2026-01-26T12:12:28Z
   Total Products: 15
 - [Discover Celestial Beauty with R.E.M. Beauty Products](https://www.glam-moda.com/collections/r-e-m-beauty): Discover dreamy beauty essentials with R.E.M. Beauty. Elevate your look with our celestial makeup collection. Shop now for cosmic glam!
-  Updated: 2025-12-25T12:13:29Z
+  Updated: 2026-01-25T12:14:43Z
   Total Products: 8
 - [Stylish Sunglasses Collection: Elevate Your Look Today!](https://www.glam-moda.com/collections/women-sunglasses): Discover our trendy sunglasses collection for every style. Protect your eyes with top-quality lenses and elevate your look today. Find your perfect pair!
-  Updated: 2026-01-17T15:33:15Z
-  Total Products: 170
+  Updated: 2026-01-24T14:19:49Z
+  Total Products: 177
 - [Discover Schaffrath: Exquisite Jewelry Collection Online](https://www.glam-moda.com/collections/schaffrath): Discover the Schaffrath Collection: Stunning designs and exquisite craftsmanship. Elevate your space with timeless elegance and superior quality.
   Updated: 2025-10-25T10:18:21Z
   Total Products: 7
@@ -2190,7 +2190,7 @@
   Updated: 2025-10-25T10:18:21Z
   Total Products: 3
 - [Shop Varley: Stylish & Versatile Activewear Collection](https://www.glam-moda.com/collections/varley): Explore Varley's exclusive collection for stylish activewear that blends fashion and functionality. Elevate your workout with our trendy, comfortable designs.
-  Updated: 2025-12-31T12:38:00Z
+  Updated: 2026-01-20T11:03:30Z
   Total Products: 5
 - [Stylish Clare V. Collection - Elevate Your Fashion Game](https://www.glam-moda.com/collections/clare-v): Explore Clare V.'s chic collection featuring timeless accessories and stylish essentials that elevate any outfit. Discover your must-have pieces today!
   Updated: 2025-10-25T10:18:21Z
@@ -2202,7 +2202,7 @@
   Updated: 2025-11-16T07:04:17Z
   Total Products: 4
 - [New Balance: Discover Trendy Sneakers & Athletic Gear Today](https://www.glam-moda.com/collections/new-balance): Shop the latest New Balance collection for innovative style and unmatched comfort. Elevate your look with iconic footwear and apparel. Discover now!
-  Updated: 2025-10-25T10:18:22Z
+  Updated: 2026-01-22T05:12:41Z
   Total Products: 2
 - [Stylish Boho Fashion: Discover Free People's Unique Collection](https://www.glam-moda.com/collections/free-people): Discover the latest bohemian trends with Free People. Shop unique styles and elevate your wardrobe today. Free shipping on orders over $100!
   Updated: 2025-10-25T10:18:22Z
@@ -2211,8 +2211,8 @@
   Updated: 2025-10-25T10:18:22Z
   Total Products: 2
 - [Shop Refy: Elevate Your Style with Trendy Fashion Essentials](https://www.glam-moda.com/collections/refy): Discover the Refy collection: Elevate your style with versatile, trendy pieces designed for every occasion. Shop now and transform your wardrobe!
-  Updated: 2026-01-13T13:44:11Z
-  Total Products: 37
+  Updated: 2026-01-27T16:56:46Z
+  Total Products: 39
 - [Glam Picks: Discover Trendy Fashion for Every Occasion](https://www.glam-moda.com/collections/glam-picks): Discover Glam Picks: Curated fashion and accessories to elevate your style. Trendy, chic, and must-have items for a glamorous wardrobe upgrade!
   Updated: 2025-10-25T12:58:03Z
   Total Products: 18
@@ -2220,8 +2220,8 @@
   Updated: 2025-10-25T10:18:22Z
   Total Products: 6
 - [Explore Patrick Ta: Elevate Your Beauty Game Today!](https://www.glam-moda.com/collections/patrick-ta): Discover the Patrick Ta collection for glamorous makeup essentials that redefine beauty. Elevate your look with chic, innovative, and luxurious products.
-  Updated: 2026-01-18T14:31:03Z
-  Total Products: 22
+  Updated: 2026-01-27T13:59:49Z
+  Total Products: 37
 - [Summer Fridays: Your Essential Summer Wardrobe Collection](https://www.glam-moda.com/collections/summer-fridays): Discover Summer Fridays: Your ultimate destination for essential beauty and skincare products. Feel refreshed and radiant all summer long!
   Updated: 2025-11-25T09:06:45Z
   Total Products: 2
@@ -2235,7 +2235,7 @@
   Updated: 2025-10-25T10:18:22Z
   Total Products: 6
 - [E.L.F. Cosmetics: Unleash Your Bold and Beautiful Look](https://www.glam-moda.com/collections/e-l-f): Discover E.L.F.'s stunning collection and elevate your beauty routine with high-quality, affordable cosmetics designed for every look and occasion.
-  Updated: 2025-11-25T11:39:55Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 22
 - [Discover Merit: Elevate Your Style with Timeless Elegance](https://www.glam-moda.com/collections/merit): Discover Merit: Elevate your style with our stunning collection of timeless designs. Shop now for elegance that stands the test of time!
   Updated: 2026-01-14T14:52:12Z
@@ -2247,26 +2247,26 @@
   Updated: 2025-12-31T12:36:05Z
   Total Products: 12
 - [Discover Saie: Clean Beauty Essentials for a Radiant You](https://www.glam-moda.com/collections/saie): Discover Saie's clean, award-winning beauty products. Elevate your routine with sustainable, high-performance formulas crafted for glowing, healthy skin.
-  Updated: 2026-01-15T10:43:41Z
+  Updated: 2026-01-27T06:08:57Z
   Total Products: 24
 - [Explore Moonglaze: Unique, Stylish, and Out-of-this-World Fashion](https://www.glam-moda.com/collections/moonglaze): Discover Moonglaze: A captivating collection of celestial-inspired designs that illuminate your style. Explore the magic of the night sky today!
   Updated: 2025-11-25T12:02:40Z
   Total Products: 6
 - [Glossier: Discover Cutting-Edge Beauty & Skincare Products](https://www.glam-moda.com/collections/glossier): Discover Glossier's collection of effortlessly chic beauty essentials. Elevate your routine with innovative products designed for all skin types.
-  Updated: 2025-12-09T14:35:35Z
-  Total Products: 15
+  Updated: 2026-01-27T13:59:39Z
+  Total Products: 19
 - [Discover Timeless Style with Hugo Boss Collection](https://www.glam-moda.com/collections/hugo-boss): Explore the latest Hugo Boss collection for timeless elegance and style. Elevate your wardrobe with premium fashion and sophisticated designs.
   Updated: 2025-10-25T10:18:22Z
   Total Products: 1
 - [Gisou Haircare: Elevate Your Hair Routine Naturally](https://www.glam-moda.com/collections/gisou): Discover Gisou Haircare: Luxurious bee-powered products for silky, healthy hair. Experience the magic of nature-infused beauty today!
-  Updated: 2025-11-25T10:48:25Z
-  Total Products: 13
+  Updated: 2026-01-24T14:17:44Z
+  Total Products: 18
 - [Sameera Al-Muzayyan: Discover Unique Fashion Trends Today](https://www.glam-moda.com/collections/sameera-al-muzayyan): Discover the unique artistry of Sameera Al-Muzayyan. Explore captivating designs that blend tradition and innovation in every piece.
-  Updated: 2026-01-15T12:15:09Z
-  Total Products: 112
+  Updated: 2026-01-27T16:56:46Z
+  Total Products: 114
 - [Discover Exclusive Deals | Shop All Collections Online](https://www.glam-moda.com/collections/shop-all): Discover our 'Shop All' collection, featuring top products in fashion, tech, home, and more. Find everything you need in one convenient place!
-  Updated: 2026-01-19T09:23:26Z
-  Total Products: 6148
+  Updated: 2026-01-27T21:46:33Z
+  Total Products: 6498
 - [Hydrate Your Skin with Laneige: Discover Essential Skincare Solutions](https://www.glam-moda.com/collections/laneige): Discover Laneige's innovative skincare solutions. Experience radiant, hydrated skin with our top-rated products. Shop now for your ultimate glow-up!
   Updated: 2026-01-13T13:42:38Z
   Total Products: 33
@@ -2286,7 +2286,7 @@
   Updated: 2025-11-25T12:53:34Z
   Total Products: 2
 - [Discover the Perfect One Size Collection - Versatile Fashion Awaits](https://www.glam-moda.com/collections/one-size): Discover stylish, versatile, one-size-fits-all fashion pieces that flatter every body type and ensure a perfect fit for every occasion. Explore now!
-  Updated: 2026-01-15T10:43:40Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 38
 - [Shop Bobbi Brown: Iconic Makeup & Skincare Essentials Online](https://www.glam-moda.com/collections/bobbi-brown): Discover Bobbi Brown: Explore cosmetics designed for effortless beauty and unmatched quality. Elevate your makeup routine with our iconic collection.
   Updated: 2026-01-17T15:40:00Z
@@ -2304,22 +2304,22 @@
   Updated: 2025-10-25T10:18:23Z
   Total Products: 1
 - [Essential Makeup Must-Haves for a Flawless Look](https://www.glam-moda.com/collections/top-picks-makeup): Discover essential makeup must-haves to enhance your beauty routine. Shop top-rated products for flawless looks. Elevate your style today!
-  Updated: 2026-01-05T12:13:18Z
+  Updated: 2026-01-24T07:55:56Z
   Total Products: 17
 - [Explore Our Exclusive Signature Fragrances Collection](https://www.glam-moda.com/collections/signature-fragrances): Discover Signature Fragrances: Unleash your unique scent with our exquisite collection that captivates the senses. Experience luxury and originality today!
   Updated: 2025-10-25T10:18:23Z
   Total Products: 15
 - [New Luxury Arrivals: Fashion, Beauty & Accessories at Glam Moda](https://www.glam-moda.com/collections/new-arrivals): Discover the latest arrivals in luxury fashion, beauty, and accessories. Shop new in styles and elevate your look with Glam Moda today.
-  Updated: 2026-01-18T07:52:26Z
+  Updated: 2026-01-27T11:17:13Z
   Total Products: 30
 - [THIERRY MUGLER: Iconic Fashion & Fragrance Collection](https://www.glam-moda.com/collections/thierry-mugler): Explore the bold and avant-garde world of THIERRY MUGLER. Discover iconic fragrances and fashion that redefine elegance and innovation.
   Updated: 2026-01-07T07:31:17Z
   Total Products: 2
 - [Top Hair Care Products: Achieve Luscious Locks Today](https://www.glam-moda.com/collections/hair-care): Discover top-quality hair care products for vibrant, healthy hair. Shop shampoos, conditioners, and treatments tailored to your unique hair needs today!
-  Updated: 2026-01-18T14:31:00Z
-  Total Products: 775
+  Updated: 2026-01-27T14:02:51Z
+  Total Products: 790
 - [Radiate Elegance with Timeless Dior Makeup Collection](https://www.glam-moda.com/collections/dior-makeup): Discover the Dior Makeup collection for luxurious beauty products that enhance your elegance and style with unparalleled sophistication.
-  Updated: 2026-01-18T14:33:43Z
+  Updated: 2026-01-23T12:15:36Z
   Total Products: 42
 - [Discover LATTAFA: Exquisite Fragrances for Every Occasion](https://www.glam-moda.com/collections/lattafa): Discover LATTAFA: A luxurious fragrance collection that captivates the senses with exotic scents. Elevate your essence with aromatic elegance.
   Updated: 2025-12-29T17:01:40Z
@@ -2346,31 +2346,31 @@
   Updated: 2025-12-20T12:57:22Z
   Total Products: 62
 - [Discover Top Picks: Explore Our Rhode Favorites Collection](https://www.glam-moda.com/collections/rhode-favorite): Discover your next treasure in the Rhode Favorites collection – a handpicked selection of must-have items just for you!
-  Updated: 2026-01-05T12:13:18Z
+  Updated: 2026-01-20T12:17:33Z
   Total Products: 3
 - [OUAI Hair Care Collection - Achieve Effortless Style & Shine](https://www.glam-moda.com/collections/ouai): Discover OUAI: Elevate your haircare routine with luxury products that transform your tresses. Shop now for chic, effective solutions for every hair type!
-  Updated: 2026-01-19T09:23:26Z
-  Total Products: 54
+  Updated: 2026-01-24T14:16:33Z
+  Total Products: 56
 - [Antipodean: Explore Unique Southern Hemisphere Treasures](https://www.glam-moda.com/collections/antipodean): Discover the unique Antipodean collection, fusing eclectic design and adventurous style. Explore bold fashion pieces inspired by the southern hemisphere.
   Updated: 2025-12-31T12:41:38Z
   Total Products: 0
 - [Top Picks for You: Discover Must-Have Products Today](https://www.glam-moda.com/collections/recommended-for-you): Discover curated picks tailored just for you. Explore now and find your next favorite items in our exclusive 'Recommended for You' collection.
-  Updated: 2026-01-16T12:15:43Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 7
 - [Timeless Beauty: Discover the Hourglass Collection Today](https://www.glam-moda.com/collections/hourglass): Discover Hourglass: A timeless collection that embodies elegance and style. Unveil your perfect look today with our stunning, unique pieces.
-  Updated: 2026-01-16T12:15:43Z
-  Total Products: 41
+  Updated: 2026-01-27T16:36:14Z
+  Total Products: 43
 - [Discover Tarte's Top Makeup Picks: Elevate Your Beauty Routine](https://www.glam-moda.com/collections/tarte): Discover Tarte's vibrant collection of beauty essentials. Enhance your look with cruelty-free, high-performance makeup and skincare favorites.
-  Updated: 2026-01-17T15:40:24Z
-  Total Products: 9
+  Updated: 2026-01-25T11:53:09Z
+  Total Products: 10
 - [Discover the Latest Morphe Collection: Unleash Your Beauty Potential](https://www.glam-moda.com/collections/morphe): Discover Morphe: Unleash your creativity with bold palettes, innovative brushes, and pro-level tools for stunning makeup looks. Elevate your artistry today!
-  Updated: 2025-12-29T12:16:44Z
+  Updated: 2026-01-24T12:15:22Z
   Total Products: 81
 - [Discover Oribe: Luxury Haircare Products & Styling Solutions](https://www.glam-moda.com/collections/oribe): Discover Oribe's luxurious beauty products crafted for sophistication and performance. Elevate your self-care routine with unbeatable quality.
-  Updated: 2025-12-15T12:23:33Z
+  Updated: 2026-01-20T12:17:33Z
   Total Products: 114
 - [Supre Tan: Achieve a Stunning Tan with Our Premium Products](https://www.glam-moda.com/collections/supre-tan): Discover a radiant glow with Supre Tan - your ultimate destination for tanning perfection. Elevate your skin's allure today!
-  Updated: 2025-10-25T10:18:24Z
+  Updated: 2026-01-26T12:07:21Z
   Total Products: 1
 - [Pro Tan: Achieve the Perfect Tan with Our Premium Products](https://www.glam-moda.com/collections/pro-tan): Discover Pro Tan: Sunless tanning essentials for a flawless, radiant glow. Achieve the perfect tan all year round with our premium self-tanning products.
   Updated: 2025-10-25T10:18:24Z
@@ -2397,7 +2397,7 @@
   Updated: 2026-01-17T15:39:24Z
   Total Products: 44
 - [Youth to the People Skincare: Elevate Your Routine Today](https://www.glam-moda.com/collections/youth-to-the-people): Discover rejuvenating skincare with Youth to the People. Elevate your routine with vegan, eco-friendly products for vibrant, youthful skin.
-  Updated: 2026-01-19T08:22:09Z
+  Updated: 2026-01-21T07:27:35Z
   Total Products: 14
 - [Larry King Collection: Iconic Interviews & Timeless Insights](https://www.glam-moda.com/collections/larry-king): Explore the timeless charm of the Larry King collection, featuring exclusive pieces curated for the iconic style and sophistication that define his legacy.
   Updated: 2025-11-25T11:26:39Z
@@ -2406,10 +2406,10 @@
   Updated: 2025-11-25T09:20:58Z
   Total Products: 29
 - [Unforgettable Vacation Ideas: Explore Your Dream Getaway Today](https://www.glam-moda.com/collections/vacation): Discover your dream getaway with our Vacation collection, featuring top destinations, travel tips, and exclusive deals for the ultimate escape! ✈️🌴
-  Updated: 2025-11-25T09:50:01Z
+  Updated: 2026-01-21T08:03:09Z
   Total Products: 8
 - [Explore Supergoop: Ultimate Sun Protection Essentials](https://www.glam-moda.com/collections/supergoop): Discover Supergoop's innovative sun protection products for radiant, healthy skin. Shop now and shield your skin with dermatologist- SPF solutions!
-  Updated: 2025-11-25T09:05:26Z
+  Updated: 2026-01-26T12:47:20Z
   Total Products: 6
 - [Lapcos: Discover Premium Skincare & Beauty Essentials](https://www.glam-moda.com/collections/lapcos): Discover premium skincare and beauty products with Lapcos. Experience innovative formulas and transform your routine for a radiant, youthful glow.
   Updated: 2025-11-25T09:22:34Z
@@ -2418,7 +2418,7 @@
   Updated: 2025-11-25T09:14:41Z
   Total Products: 1
 - [Get the Perfect Glow with Tanning Club's Premium Services](https://www.glam-moda.com/collections/tanning-club): Join the Tanning Club for a sun-kissed glow all year round. Discover premium products and tips for achieving your perfect tan.
-  Updated: 2025-11-25T09:04:49Z
+  Updated: 2026-01-25T11:55:17Z
   Total Products: 5
 - [Stylish & Durable Phone Covers for Every Device](https://www.glam-moda.com/collections/mobile-phone-covers): Explore our stylish phone covers! Protect your device with durable, trendy designs. Shop now for the perfect blend of fashion and functionality!
   Updated: 2025-12-08T12:17:24Z
@@ -2433,50 +2433,50 @@
   Updated: 2025-11-25T09:17:43Z
   Total Products: 3
 - [Stylish & Versatile Bags for Every Occasion | Shop Bags & More](https://www.glam-moda.com/collections/bags-more): Discover Bags & More: a curated collection of trendy bags and accessories perfect for every occasion. Style meets functionality in every piece!
-  Updated: 2026-01-16T14:10:04Z
-  Total Products: 346
+  Updated: 2026-01-27T14:17:34Z
+  Total Products: 378
 - [Discover Gorgeous Huda Beauty Products for Flawless Makeup](https://www.glam-moda.com/collections/huda-beauty): Explore the latest in makeup with Huda Beauty. Discover high-quality cosmetics, vibrant palettes, and must-have beauty essentials. Glam up today!
-  Updated: 2026-01-18T14:31:03Z
-  Total Products: 27
+  Updated: 2026-01-24T14:18:30Z
+  Total Products: 30
 - [Thank You Farmer Skincare: Embrace Naturally Radiant Beauty](https://www.glam-moda.com/collections/thank-you-farmer): Discover the natural essence of Korean skincare with Thank You Farmer. Achieve glowing, healthy skin with eco-friendly, effective products.
-  Updated: 2026-01-07T08:55:24Z
+  Updated: 2026-01-25T11:40:04Z
   Total Products: 2
 - [Shop Tower 28: Clean Beauty Essentials for Glowing Skin](https://www.glam-moda.com/collections/tower-28): Discover the Tower 28 collection for clean, vegan beauty products that elevate your skincare routine. Experience effortless radiance and feel-good formulas!
-  Updated: 2025-11-25T12:50:58Z
+  Updated: 2026-01-22T10:31:31Z
   Total Products: 20
 - [RMS BEAUTY: Clean, Natural & Radiant Makeup Collection](https://www.glam-moda.com/collections/rms-beauty): Discover RMS BEAUTY's transformative collection. Elevate your natural glow with clean, luxury cosmetics designed for radiant, healthy skin.
   Updated: 2025-11-25T09:12:27Z
   Total Products: 45
 - [Exclusive Fashion: Unique Styles & Limited Editions at Glam Moda](https://www.glam-moda.com/collections/exclusive-products): Shop Glam Moda's Exclusives: Limited edition clothing & accessories from top global brands. Discover unique styles & stay ahead of trends with rare finds!
-  Updated: 2026-01-18T09:26:32Z
-  Total Products: 418
+  Updated: 2026-01-27T14:19:32Z
+  Total Products: 419
 - [Discover Top Beauty Essentials - Shop Our All-in-One Collection!](https://www.glam-moda.com/collections/beauty-all-products): Discover top beauty products for radiant skin and stunning looks. Explore now to elevate your beauty routine with our carefully curated collection.
-  Updated: 2026-01-19T09:23:26Z
-  Total Products: 3050
+  Updated: 2026-01-27T21:46:33Z
+  Total Products: 3120
 - [Explore the Unique Charm of Rare Beauty Collection Now!](https://www.glam-moda.com/collections/rare-beauty): Discover the allure of Rare Beauty. Explore unique, high-quality beauty products that celebrate individuality and redefine modern beauty standards.
-  Updated: 2026-01-18T14:31:06Z
+  Updated: 2026-01-27T12:13:13Z
   Total Products: 21
 - [Chic Beauty Unveiled: Discover Too Faced's Vibrant Collection](https://www.glam-moda.com/collections/too-faced): Discover the Too Faced collection, where beauty meets fun. Find bold, playful cosmetics to express your unique style and elevate your makeup game!
-  Updated: 2026-01-14T09:01:41Z
+  Updated: 2026-01-24T10:15:30Z
   Total Products: 22
 - [Discover the Bold Beauty of Milk Makeup Products](https://www.glam-moda.com/collections/milk-makeup): Discover bold, cruelty-free beauty with Milk Makeup. Shop vegan cosmetics and skincare designed for your unique style and personality.
-  Updated: 2026-01-03T14:47:43Z
-  Total Products: 10
+  Updated: 2026-01-24T14:19:32Z
+  Total Products: 12
 - [NARS Cosmetics: Elevate Your Beauty with Iconic Makeup Essentials](https://www.glam-moda.com/collections/nars-cosmetics): Discover the allure of NARS Cosmetics with iconic shades, luxurious formulas, and bold, long-lasting makeup. Elevate your beauty routine today!
-  Updated: 2026-01-18T14:31:01Z
-  Total Products: 17
+  Updated: 2026-01-24T14:18:31Z
+  Total Products: 22
 - [Yves Saint Laurent Makeup - Elevate Your Beauty Routine](https://www.glam-moda.com/collections/yves-saint-laurent-makeup): Discover the iconic Yves Saint Laurent Makeup collection. Elevate your beauty routine with luxury cosmetics that define elegance and sophistication.
-  Updated: 2026-01-06T14:34:40Z
+  Updated: 2026-01-26T12:12:28Z
   Total Products: 39
 - [Armani Makeup: Elevate Your Beauty Routine Today](https://www.glam-moda.com/collections/armani-makeup): Discover luxury and elegance with Armani Makeup. Elevate your beauty routine with our premium collection tailored for flawless, radiant skin.
-  Updated: 2026-01-17T15:40:01Z
-  Total Products: 12
+  Updated: 2026-01-26T12:12:28Z
+  Total Products: 18
 - [Chanel Makeup: Elevate Your Look with Luxury Beauty Products](https://www.glam-moda.com/collections/chanel): Discover Chanel Makeup: Elevate your beauty routine with luxurious products that enhance, define, and illuminate. Embrace elegance with every application.
   Updated: 2026-01-04T12:16:01Z
   Total Products: 53
 - [Enchanting Beauty: Discover Charlotte Tilbury's Iconic Collection](https://www.glam-moda.com/collections/charlotte-tilbury): Discover the allure of Charlotte Tilbury’s makeup collection and transform your look with luxurious beauty products. Embrace glamour and elegance today!
-  Updated: 2026-01-17T15:40:05Z
-  Total Products: 34
+  Updated: 2026-01-24T14:18:33Z
+  Total Products: 36
 - [Kylie Cosmetics: Elevate Your Beauty with Trendy Makeup Essentials](https://www.glam-moda.com/collections/kylie-cosmetics): Discover bold, beautiful looks with Kylie Cosmetics. Dive into trendsetting makeup & skincare products for a fresh, flawless look!
   Updated: 2026-01-04T13:02:56Z
   Total Products: 0
@@ -2484,7 +2484,7 @@
   Updated: 2025-10-30T09:49:37Z
   Total Products: 15
 - [Discover Timeless Elegance: Alaia Collection Online](https://www.glam-moda.com/collections/alaia): Discover the Alaia collection: elegant designs and timeless sophistication that redefine style. Perfect for fashion-forward trendsetters.
-  Updated: 2026-01-17T15:32:51Z
+  Updated: 2026-01-27T11:42:50Z
   Total Products: 22
 - [Agua By Aguabendita: Explore Stylish Swimwear Collection](https://www.glam-moda.com/collections/agua-by-aguabendita): Discover Agua By Aguabendita: a vibrant, exquisite collection combining art and fashion for unique, standout style. Dive into ultimate elegance today!
   Updated: 2025-12-31T12:32:58Z
@@ -2508,14 +2508,14 @@
   Updated: 2025-12-31T12:35:07Z
   Total Products: 0
 - [Shop the Best Stanley Products: Quality & Reliability ](https://www.glam-moda.com/collections/stanley): Discover the Stanley collection: durable, innovative gear for your adventures. Explore top-quality products built to last!
-  Updated: 2026-01-13T13:43:51Z
-  Total Products: 124
+  Updated: 2026-01-27T04:57:36Z
+  Total Products: 134
 - [Urban Decay: Bold, Unstoppable Beauty with Edge](https://www.glam-moda.com/collections/urban-decay): Explore Urban Decay's bold collection – from vivid eyeshadows to long-lasting lipsticks. Unleash your edge with our iconic makeup essentials!
-  Updated: 2026-01-18T14:31:05Z
+  Updated: 2026-01-26T12:12:28Z
   Total Products: 19
 - [Fenty Beauty by Rihanna | Iconic Makeup for All Skin Tones – Glam Moda](https://www.glam-moda.com/collections/fenty-beauty-by-rihanna): Discover Fenty Beauty by Rihanna at Glam Moda: inclusive, cruelty-free makeup for all skin tones. Shop bestselling foundations, glosses, and more!
-  Updated: 2026-01-06T15:04:09Z
-  Total Products: 37
+  Updated: 2026-01-25T08:13:08Z
+  Total Products: 38
 - [Discover Babaria: Natural Beauty Essentials for Radiant Skin](https://www.glam-moda.com/collections/babaria): Discover Babaria – a collection of innovative and natural skincare products designed for radiant, healthy skin. Experience the essence of beauty today!
   Updated: 2025-10-27T07:26:59Z
   Total Products: 6
@@ -2526,8 +2526,8 @@
   Updated: 2025-12-12T12:19:31Z
   Total Products: 3
 - [Stylish & Eco-Friendly Water Bottles for Every Lifestyle](https://www.glam-moda.com/collections/water-bottles): Stay hydrated in style! Explore our wide range of durable and eco-friendly water bottles perfect for every adventure. Shop now and quench your thirst!
-  Updated: 2026-01-18T08:45:05Z
-  Total Products: 356
+  Updated: 2026-01-27T04:57:36Z
+  Total Products: 365
 - [Elegant Clara Collection: Timeless Style & Sophistication](https://www.glam-moda.com/collections/clara): Discover the Clara Collection: Stylish, timeless pieces to elevate your wardrobe. Shop now for elegance and sophistication.
   Updated: 2025-10-28T07:29:59Z
   Total Products: 15
@@ -2535,7 +2535,7 @@
   Updated: 2025-11-25T11:24:12Z
   Total Products: 41
 - [Chic Hair Accessories: Elevate Your Style with Trendy Pieces](https://www.glam-moda.com/collections/hair-accessories): Discover chic hair accessories to elevate your style. From elegant clips to trendy headbands, find the perfect piece to complete your look.
-  Updated: 2026-01-15T10:47:16Z
+  Updated: 2026-01-23T12:15:36Z
   Total Products: 155
 - [Top Hair Devices for Stunning Styles & Healthy Locks](https://www.glam-moda.com/collections/hair-devices): Discover top-rated hair devices for styling, straightening, and curling. Achieve salon-quality results at home with our innovative tools!
   Updated: 2025-12-11T08:30:12Z
@@ -2554,6 +2554,10 @@
     Updated: 2025-12-07T07:58:11Z
     Author: Tapita
     Tags: Clothing, Fashion, Glamour, Style, Trends
+- [All day footwear](https://www.glam-moda.com/blogs/all-day-footwear)
+  - [UGG Shoes for Women | Cozy & Stylish Footwear for All-Day Comfort](https://www.glam-moda.com/blogs/all-day-footwear/all-day-footwear): UGG Shoes for Women | Cozy & Stylish Footwear for All-Day Comfort
+    Updated: 2026-01-21T12:54:30Z
+    Author: Ali Sohail
 
 ## Store Pages
 
@@ -2564,7 +2568,7 @@
 - [About Us: Discover Our Journey, Values & Exceptional Service Team](https://www.glam-moda.com/pages/about-us-1): Glam Moda Profile: GLAM MODA is an international retailer and service supplier of fashion goods.We are a revolutionary online retailer where our Mu...
   Updated: 2025-12-28T12:45:14Z
 - [Hassle-Free Returns & Refunds - Shop with Confidence Today!](https://www.glam-moda.com/pages/return-refund-policy): Refunds: Refunds are issued as store credit only. Credit excludes costs like shipping, taxes, duties (which are non-refundable). We are not respons...
-  Updated: 2025-11-06T09:07:03Z
+  Updated: 2026-01-27T09:35:52Z
 - [Glam Moda: Unmatched Authenticity Guarantee for Genuine Products](https://www.glam-moda.com/pages/authenticity): Authenticity Guarantee In an industry where authenticity is paramount, Glam Moda upholds the highest standards to ensure that  items nev...
   Updated: 2025-10-11T13:43:13Z
 - [Affiliations: Partner with Leading Organizations Today](https://www.glam-moda.com/pages/affiliations): 
@@ -2591,10 +2595,6 @@
   Updated: 2026-01-13T10:52:28Z
 - [Shared wishlist](https://www.glam-moda.com/pages/yoyo-shared-whishlist)
   Updated: 2026-01-17T08:53:39Z
-- [Review Page](https://www.glam-moda.com/pages/review-page)
-  Updated: 2026-01-17T10:50:21Z
-- [All reviews page](https://www.glam-moda.com/pages/all-reviews-page)
-  Updated: 2026-01-17T11:04:12Z
 - [Create survey](https://www.glam-moda.com/pages/survey): /* Hide all common theme elements */ header, footer, .header, .footer, .site-header, .site-footer, .shopify-section-header, .shopify-section-footer...
   Updated: 2026-01-17T11:58:31Z
 
@@ -2610,6 +2610,8 @@
   Updated: 2025-05-12T15:55:32+03:00
 - [Contact Information](https://www.glam-moda.com/policies/contact-information)
   Updated: 2024-09-25T11:14:46+03:00
+
+https://www.instagram.com/glammoda.official
 
 ## Optional
 
