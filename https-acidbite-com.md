@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2026-01-19T00:00:36.481Z
+- Updated At: 2026-01-28T00:00:39.955Z
 
 ## Products
 
@@ -55,7 +55,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/TORN_RESIZED_679bd795-e75c-4b34-bcb6-cd34be4178d9.png?v=1708713286
   Price: $19.00 USD
 - [Colorful burn textures & transitions](https://acidbite.com/products/film-burns): 33 differently colored film burns shot on Kodak 8mm Stock and scanned in open gate 4k resolution! Use them as textures or transitions!
-  Updated: 2026-01-18T21:56:48Z
+  Updated: 2026-01-21T08:09:32Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -237,7 +237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SMMP_RESIZED-compress.png?v=1742313050
   Price: $39.00 USD
 - [Customizable 4K title designs](https://acidbite.com/products/film-titles): 25 customizable 4K title designs for vertical and horizontal use in all popular softwares.
-  Updated: 2026-01-12T20:58:58Z
+  Updated: 2026-01-23T11:09:13Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
@@ -258,7 +258,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/LIGHTS_RESIZED_20d4e74c-e77e-43eb-a5ea-42f46f5babd1.png?v=1708713100
   Price: $39.00 USD
 - [Kickstart your projects with 60% off](https://acidbite.com/products/kickstart-bundle): Ready to kickstart your editing journey? This is all you need.
-  Updated: 2026-01-18T11:29:23Z
+  Updated: 2026-01-21T08:09:33Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -279,7 +279,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CRT_ELEMENTS_RESIZED.png?v=1712928723
   Price: $29.00 USD
 - [Bold Titles](https://acidbite.com/products/bold-titles): 25 unique and fully adjustable 4K title designs inspired by fashion and commercial films for vertical and horizontal use in all major softwares.
-  Updated: 2026-01-12T21:00:03Z
+  Updated: 2026-01-23T11:10:18Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
@@ -307,7 +307,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BLOCKBUSTER_TITLES_RESIZED.png?v=1727267590
   Price: $29.00 USD
 - [Horror Movie Titles](https://acidbite.com/products/horror-movie-titles): 15 boo-nique and fully adjustable 4K title designs inspired by classic horror and slasher films.
-  Updated: 2026-01-12T21:00:03Z
+  Updated: 2026-01-23T11:10:18Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
@@ -328,7 +328,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS2_RESIZED_d5fc06ff-a6be-4fac-9b4e-0593d199cefc.png?v=1747134764
   Price: $29.00 USD
 - [All our assets, huge savings](https://acidbite.com/products/complete-collection): The all-in-one bundle of handcrafted video assets – easy to use, built to transform your edits.
-  Updated: 2026-01-13T10:30:06Z
+  Updated: 2026-01-26T21:57:57Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -351,40 +351,40 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2026-01-16T12:09:17Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
-  Updated: 2026-01-15T12:08:35Z
+  Updated: 2026-01-24T12:08:45Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2026-01-17T12:08:53Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
   Updated: 2026-01-05T12:07:39Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2026-01-18T12:08:28Z
+  Updated: 2026-01-27T12:08:56Z
   Total Products: 114
 
 ## Policies
