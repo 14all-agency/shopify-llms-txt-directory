@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2026-01-13T00:00:58.807Z
+- Updated At: 2026-01-28T05:29:31.116Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/485_1.jpg?v=1723197915
   Price: ₹899.00 INR
 - [TOMICA NO.75 TOYOTA ASTON MARTIN DBX-SCALE:1:66](https://theworldofnerds.com/products/tomica-no-75-toyota-aston-martin-dbx-scale-1-66): Designed by: Takara Tomy, JapanPart of: The iconic Tomica range, celebrating over 50 years of model car excellenceFeatures: Realistic car details and high-quality craftsmanshipCollection: Collect all the Tomica vehicles to complete your setPackaging: Collector-friendly packaging to protect your modelPerfect for: Collectors and gift-givers alike, every Tomica vehicle is licensed and a standout addition to any collection
-  Updated: 2025-07-29T05:10:28Z
+  Updated: 2026-01-25T14:56:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/493_1.jpg?v=1723203645
   Price: ₹699.00 INR
 - [TOMICA NO 54 TOYOTA TOWN ACE HAMBURGER CAR-SCALE-1:64](https://theworldofnerds.com/products/tomica-no-54-toyota-town-ace-hamburger-car-scale-1-64): Designed by: Takara Tomy, JapanPart of: The iconic Tomica range, celebrating over 50 years of model car excellenceFeatures: Realistic car details and high-quality craftsmanshipCollection: Collect all the Tomica vehicles to complete your setPackaging: Collector-friendly packaging to protect your modelPerfect for: Collectors and gift-givers alike, every Tomica vehicle is licensed and a standout addition to any collection
-  Updated: 2025-12-26T08:42:48Z
+  Updated: 2026-01-19T17:11:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/539_1.jpg?v=1723377943
   Price: ₹589.00 INR
 - [KILLUA-ABYSTYLE HUNTER X HUNTER-ACRYL](https://theworldofnerds.com/products/killua-abystyle-hunter-x-hunter-acryl): HUNTER X HUNTER Acryl® Killua Give life to your favorite manga hero! Under his innocent and childish appearance, Kirua hides a redoubtable killer on this Hunter X Hunter Acryl® by ABYstyle. 3 pieces to set up: character, emblem/logo and base Character height: approximately 9.5cm High quality printing on acrylic Pieces to be separated from the printed board
-  Updated: 2025-07-29T05:10:33Z
+  Updated: 2026-01-26T09:58:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03742.jpg?v=1726925924
   Price: ₹399.00 INR
 - [GOJO SATORU BOBBLEHEAD](https://theworldofnerds.com/products/gojo-satoru-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-12-10T05:56:16Z
+  Updated: 2026-01-14T16:26:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -676,7 +676,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_203004.jpg?v=1728370529
   Price: ₹349.00 INR
 - [HOT WHEELS QUICK BITE](https://theworldofnerds.com/products/hot-wheels-quick-bite): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and various styles, from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys.
-  Updated: 2025-07-29T05:10:53Z
+  Updated: 2026-01-16T09:58:43Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -711,10 +711,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_204016.jpg?v=1728371685
   Price: ₹599.00 INR
 - [HOT WHEELS FORD PERFOMANCE SUPERVAN 4](https://theworldofnerds.com/products/hot-wheels-ford-perfomance-supervan-4): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and various styles, from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys.
-  Updated: 2025-07-29T05:10:54Z
+  Updated: 2026-01-25T02:40:13Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_204038.jpg?v=1728378674
   Price: ₹349.00 INR
 - [HOT WHEELS TOYOTA SUPRA](https://theworldofnerds.com/products/hot-wheels-toyota-supra): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and various styles, from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys.
@@ -767,7 +767,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_204850.jpg?v=1728380631
   Price: ₹399.00 INR
 - [HOT WHEELS 95 MAZDA RX-7](https://theworldofnerds.com/products/hot-wheels-95-mazda-rx-7): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and various styles, from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys.
-  Updated: 2026-01-06T12:53:57Z
+  Updated: 2026-01-25T06:54:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -886,7 +886,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/623_3.jpg?v=1729146025
   Price: ₹149.00 INR
 - [SHIN CHAN IN BLUE JERSEY WITH FOOTBALL KEYCHAIN](https://theworldofnerds.com/products/shin-chan-with-football-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature a variety of adorable designs that cater to all ages. Perfect for everyday use or as a charming gift, our keychains are lightweight, flexible, and available in multiple colors and styles. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you're looking to express your unique style or searching for the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-11-29T09:16:33Z
+  Updated: 2026-01-13T00:01:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1124,7 +1124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/627.jpg?v=1729862684
   Price: ₹149.00 INR
 - [BLACK PANTHER KEYCHAIN](https://theworldofnerds.com/products/black-panther-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-10-19T17:08:24Z
+  Updated: 2026-01-13T09:25:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1159,7 +1159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/632.jpg?v=1729863897
   Price: ₹149.00 INR
 - [PSYDUCK ON POKEBALL KEYCHAIN](https://theworldofnerds.com/products/psyduck-on-pokeball-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-12-19T13:06:11Z
+  Updated: 2026-01-16T05:20:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1845,7 +1845,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_fb02af06-5f15-4e78-b349-44fcd856ca13.png?v=1730704843
   Price: ₹499.00 INR
 - [MONCOLLE#22 IWANKO](https://theworldofnerds.com/products/moncolle-22-iwanko): Discover the vibrant world of Takara Tomy MONCOLLE, where Pokémon come to life in stunning detail! MONCOLLE figures are expertly crafted, capturing the unique characteristics of your favorite Pokémon in a compact, collectible format. Ideal for fans of all ages, these figures are perfect for display, play, or enhancing your Pokémon collection. With a wide variety of characters available, from classic favorites to new additions, MONCOLLE brings the excitement of the Pokémon universe right to your hands. Explore our extensive range and join the adventure today! Perfect for collectors and enthusiasts, MONCOLLE is your go-to choice for Pokémon.
-  Updated: 2025-07-29T05:11:36Z
+  Updated: 2026-01-16T02:43:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1880,7 +1880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_7f8af583-096d-4666-8f50-666b472e5fd7.png?v=1730788309
   Price: ₹289.00 INR
 - [SANEMI SHINAZUGAWA KATANA PEN](https://theworldofnerds.com/products/sanemi-shinazugawa-katana-pen): Experience the perfect blend of elegance and durability with the Katana Pen, crafted from high-quality metal for a sleek and sophisticated writing experience. Inspired by the iconic katana sword, this precision-engineered pen features a unique design, making it not only a functional tool but a striking piece of art. Whether you're signing important documents or jotting down notes, the Katana Pen offers smooth, effortless writing with a durable construction that ensures longevity. Ideal for professionals, collectors, or anyone who appreciates fine craftsmanship, this premium metal pen is a standout addition to any desk. Key Features: Crafted from premium, high-quality metal for strength and elegance Ergonomic design for comfort and smooth writing Sleek, katana-inspired aesthetics for a distinctive look Ideal for gifting or personal use Add a touch of luxury to your writing routine with the Katana Pen—where craftsmanship meets functionality.
-  Updated: 2025-12-19T04:40:31Z
+  Updated: 2026-01-20T18:50:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1908,7 +1908,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_cbaff2c7-873d-4c20-8a32-d922fb5d0d95.png?v=1730788892
   Price: ₹289.00 INR
 - [SHINOBU KOCHO KATANA PEN](https://theworldofnerds.com/products/shinobu-kocho-katana-pen): Experience the perfect blend of elegance and durability with the Katana Pen, crafted from high-quality metal for a sleek and sophisticated writing experience. Inspired by the iconic katana sword, this precision-engineered pen features a unique design, making it not only a functional tool but a striking piece of art. Whether you're signing important documents or jotting down notes, the Katana Pen offers smooth, effortless writing with a durable construction that ensures longevity. Ideal for professionals, collectors, or anyone who appreciates fine craftsmanship, this premium metal pen is a standout addition to any desk. Key Features: Crafted from premium, high-quality metal for strength and elegance Ergonomic design for comfort and smooth writing Sleek, katana-inspired aesthetics for a distinctive look Ideal for gifting or personal use Add a touch of luxury to your writing routine with the Katana Pen—where craftsmanship meets functionality.
-  Updated: 2025-12-23T17:47:47Z
+  Updated: 2026-01-20T10:36:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1957,10 +1957,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/945.jpg?v=1738669229
   Price: ₹349.00 INR
 - [HOT WHEELS CELERO GT](https://theworldofnerds.com/products/hot-wheels-celero-gt): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-12-25T09:39:12Z
+  Updated: 2026-01-26T18:02:20Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/942.jpg?v=1731047058
   Price: ₹349.00 INR
 - [HOT WHEELS HOVER STORM](https://theworldofnerds.com/products/hot-wheels-hover-storm): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
@@ -1985,7 +1985,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/940.jpg?v=1731047489
   Price: ₹249.00 INR
 - [HOT WHEELS HW450F](https://theworldofnerds.com/products/hot-wheels-hw450f): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-07-29T05:11:41Z
+  Updated: 2026-01-22T07:01:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2090,14 +2090,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/955.jpg?v=1731052579
   Price: ₹299.00 INR
 - [HOT WHEELLS 70 DODGE CHARGER](https://theworldofnerds.com/products/hot-wheells-70-dodge-charger): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-08-29T07:59:33Z
+  Updated: 2026-01-15T03:56:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/943.jpg?v=1731052678
   Price: ₹349.00 INR
 - [HOT WHEELS 94 TOYOTA SUPRA](https://theworldofnerds.com/products/hot-wheels-94-toyota-supra): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2026-01-01T12:49:15Z
+  Updated: 2026-01-15T03:56:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2125,14 +2125,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/961.jpg?v=1731053042
   Price: ₹349.00 INR
 - [HOT WHEELS HONDA S800 RACING](https://theworldofnerds.com/products/hot-wheels-honda-s800-racing): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-12-03T15:10:20Z
+  Updated: 2026-01-22T21:56:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/956.jpg?v=1731053136
   Price: ₹349.00 INR
 - [HOT WHEELS TESLA MODEL S PLAID](https://theworldofnerds.com/products/hot-wheels-tesla-model-s-plaid): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-12-28T14:19:35Z
+  Updated: 2026-01-17T06:43:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2251,7 +2251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/975.jpg?v=1731062667
   Price: ₹349.00 INR
 - [HOT WHEELS MAZDA RX-3](https://theworldofnerds.com/products/hot-wheels-mazda-rx-3): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2026-01-01T12:49:17Z
+  Updated: 2026-01-15T03:56:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2398,7 +2398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_03808477-f412-4e9a-a9ed-6321f15546f4.png?v=1731138556
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 VOLKSWAGEN T1 PICK-UP](https://theworldofnerds.com/products/solido-1-18-volkswagen-t1-pick-up): Discover the charm of the SOLIDO 1:18 Volkswagen T1 Pick-Up, a meticulously detailed replica of this iconic classic. Renowned for its rugged design and versatility, this die-cast model perfectly captures the spirit of the vintage Volkswagen pick-up. It is an essential addition for collectors and Volkswagen enthusiasts alike—a true piece of automotive history. Don't miss the chance to add this timeless gem to your collection today! Bring a piece of automotive history to your collection with this SOLIDO VOLKSWAGEN T1 PICK-UP.
-  Updated: 2025-11-29T09:08:11Z
+  Updated: 2026-01-25T11:43:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -2503,10 +2503,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untiled.png?v=1731329866
   Price: ₹4,699.00 INR
 - [ZORO-PURPLE ENMA WOODEN KATANA](https://theworldofnerds.com/products/zoro-purple-enma-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:59Z
+  Updated: 2026-01-13T13:48:00Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_5_58afe5aa-cc18-461e-91e5-52e8a7c51c30.png?v=1731330715
   Price: ₹1,999.00 INR
 - [LUFFY-NIDAI KITETSU WOODEN KATANA](https://theworldofnerds.com/products/luffy-nidai-kitetsu-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
@@ -2523,12 +2523,12 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_6_83538c1b-af3d-4e9b-ab24-8b51ed3a8556.png?v=1731331308
   Price: ₹1,999.00 INR
-- [TANJIRO-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tanjiro-nichirin-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:58Z
+- [TANJIRO-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tanjiro-nichirin-katana): Channel your inner Demon Slayer with Tanjiro Kamado’s iconic Nichirin Katana, reimagined in a lightweight, wooden cosplay format. Designed for collectors, cosplayers and anime enthusiasts, this non-metal katana captures the authentic proportions, circle guard design, and stylized blade look of the original  — all while staying event-safe and display-friendly. Perfect for cosplay conventions, anime photoshoots, room decoration, and gifting, this prop offers the right balance between aesthetic accuracy and safety. A must-have collectible for anyone who loves Demon Slayer (Kimetsu no Yaiba). Specifications ✔ Material: Wood ✔ Total Length: ~104 cm (approx.) ✔ Blade Length: ~70–72 cm (approx.) ✔ Style: Tanjiro Nichirin – Circle Guard ✔ Weight: Lightweight (Cosplay Friendly) ✔ Category: Cosplay / Display / Collectible ✔ Safety: Non-metal, Non-sharpened edge
+  Updated: 2026-01-20T17:19:09Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_ae8a8c95-037c-4d7a-bca1-42c49c227ef2.png?v=1731331408
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_3c70ccf8-d97f-488d-a23a-55a0141da8ac.jpg?v=1768808560
   Price: ₹1,999.00 INR
 - [SHINOBU-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/shinobu-nichirin-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
   Updated: 2025-12-23T11:14:16Z
@@ -2566,17 +2566,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_6_830df1b6-7b63-441b-9ac3-f58e4cc15d06.png?v=1731333051
   Price: ₹1,999.00 INR
 - [SANEMI WOODEN KATANA](https://theworldofnerds.com/products/sanemi-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:59Z
+  Updated: 2026-01-13T13:46:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_2_03f503d8-ffff-4dde-84ff-250934670bdb.png?v=1731333137
   Price: ₹1,999.00 INR
 - [KOZUKI ODEN-WHITE ENMA WOODEN KATANA](https://theworldofnerds.com/products/zoro-white-enma-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:59Z
+  Updated: 2026-01-13T13:35:12Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-Photoroom_a10b9261-8fd5-4818-9492-91abcfa5221f.png?v=1731333268
   Price: ₹1,999.00 INR
 - [YORIICHI TSUGIKUNI WOODEN KATANA](https://theworldofnerds.com/products/yoriichi-t-sugikuni-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
@@ -2593,18 +2593,18 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_1_04bac191-bd54-4cd0-81f7-1fd701ff829e.png?v=1731333479
   Price: ₹1,999.00 INR
-- [ZORO-WADO ICHIMONJI WOODEN KATANA](https://theworldofnerds.com/products/zoro-wada-ichimonji-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:58Z
+- [SANEMI SHINAZUGAWA-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/zoro-wada-ichimonji-katana): Step into the world of One Piece with Roronoa Zoro’s Wado Ichimonji Wooden Katana, a finely crafted cosplay and display sword made for collectors, enthusiasts, and fans of the legendary swordsman. Featuring a clean white scabbard, traditional wrapping, and sleek blade detailing, this prop brings anime accuracy to life — without sharp edges or metal. Perfect for cosplay conventions, showcases, studio photoshoots, décor setups, and collection displays, this piece adds authenticity while remaining lightweight, safe, and convention-friendly. Whether you’re completing Zoro’s iconic three-sword style, upgrading your display shelf, or finishing your cosplay build, the Wado Ichimonji stands out with its elegant simplicity and screen-inspired design. Specifications ✔ Total Length: ~105 cm (APPROX)✔ Blade Material: Wood (Bamboo)✔ Scabbard Material: ABS Plastic✔ Handle Wrapping: Cotton/Poly Weave✔ Weight: Lightweight (Cosplay Friendly)✔ Use: Display / Cosplay / Photography / Collection
+  Updated: 2026-01-21T01:08:59Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-Photoroom_d2d61b47-9ef5-4e40-ace4-11547cfbd475.png?v=1731333573
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3ecca723-a517-42a8-898c-91e6e39a634f.jpg?v=1768816676
   Price: ₹1,999.00 INR
 - [ZORO-SANDAI KITETSU WOODEN KATANA](https://theworldofnerds.com/products/soro-sandai-kitetsu-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:59Z
+  Updated: 2026-01-13T13:36:55Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_5_daffdb1a-ed44-46e9-bb1d-a83ae9230951.png?v=1731333651
   Price: ₹1,999.00 INR
 - [GIYU WOODEN KATANA](https://theworldofnerds.com/products/giyu-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
@@ -2615,7 +2615,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_1_-Photoroom_cd6e18e8-5f2e-4dde-95f4-70f2e41e6559.png?v=1731647800
   Price: ₹1,999.00 INR
 - [SASUKE-KATANA](https://theworldofnerds.com/products/sasuke-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:58Z
+  Updated: 2026-01-13T07:34:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -2642,12 +2642,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_06bb2f63-79c1-4012-b493-6e178fb89dc8.png?v=1731496786
   Price: ₹2,399.00 INR
-- [TANJIRO-NEW NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tanjiro-new-nichiirin-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-12-03T09:33:58Z
+- [TANJIRO-NEW NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tanjiro-new-nichiirin-katana): Channel the spirit of the Demon Slayer Corps with Tanjiro Kamado’s Nichirin Katana, recreated in a compact wooden cosplay and display format. This short version is designed for anime room decor, cosplay events, photography props, and collector displays, offering the iconic Nichirin look without sharp edges or heavy metal parts. Lightweight, safe, and fully convention-friendly, it’s perfect for both seasoned cosplayers and first-time fans who want a realistic anime sword prop that’s comfortable to pose with, carry, and showcase. Dimensions & Specifications ✔ Total Length: ~104 cm (approx.)✔ Blade Length: ~70–72 cm (approx.)✔ Material: Wood✔ Category: Cosplay / Display / Collectible✔ Safety: Non-sharp, Non-metal, Convention-friendly
+  Updated: 2026-01-21T01:51:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_2_84f00ce8-992f-40d6-8096-33908f05f46a.png?v=1761634297
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f5fe232-fec8-4950-911e-6c22ee1a9c82.jpg?v=1768809337
   Price: ₹1,999.00 INR
 - [INOSUKE WOODEN KATANA](https://theworldofnerds.com/products/inosuke-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
   Updated: 2025-12-19T05:16:36Z
@@ -2818,7 +2818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fc0c00e3-34e0-46a1-a61c-6ad0b5a703a2.jpg?v=1732702562
   Price: ₹149.00 INR
 - [DISNEY STITCH KEYCHAIN](https://theworldofnerds.com/products/disney-stitch-keychain-1): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-11-29T09:56:20Z
+  Updated: 2026-01-13T14:05:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3140,7 +3140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_1.jpg?v=1738234401
   Price: ₹795.00 INR
 - [MAISTO KAWASAKI NINJA® ZX™ - 12R SCALE - 1:18](https://theworldofnerds.com/products/maisto-kawasaki-ninja-zx-12r-scale-1-18): Expertly crafted with precision and attention to detail, the MAISTO KAWASAKI NINJA ZX - 12R SCALE - 1:18 is a must-have for motorcycle enthusiasts. This 1:18 scale replica accurately captures the sleek design of the legendary Kawasaki Ninja ZX - 12R, making it a perfect addition to any collection. Get a taste of the thrill of the ride with this high-quality model.
-  Updated: 2025-07-29T05:12:14Z
+  Updated: 2026-01-25T13:37:32Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3427,7 +3427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_47.jpg?v=1738323077
   Price: ₹2,295.00 INR
 - [BBURAGO® MERCEDES-BENZ 300 SL 1954 SCALE - 1:24](https://theworldofnerds.com/products/bburago®-mercedes-benz-300-sl-1954-scale-1-24): Experience the classic elegance of the BBURAGO MERCEDES BENZ 300 SL 1954 SCALE - 1:24 model car. With its precise 1:24 scale and iconic design, this model captures the essence of the original 1954 Mercedes Benz, making it a must-have for any collector or enthusiast.
-  Updated: 2026-01-01T16:49:51Z
+  Updated: 2026-01-25T03:54:43Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3497,7 +3497,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_36.jpg?v=1738319851
   Price: ₹2,295.00 INR
 - [BBURAGO PORSCHE 918 WEISSACH SCALE - 1:24](https://theworldofnerds.com/products/bburago-porsche-918-weissach-scale-1-24): Expertly crafted and meticulously designed, the BBURAGO PORSCHE 918 WEISSACH SCALE 1:24 is a must-have for car enthusiasts and collectors alike. With a precision scale of 1:24, this Porsche model showcases the iconic design and sleek features of the real car. Add this to your collection and experience the power of a Porsche in the palm of your hands.
-  Updated: 2025-09-05T05:53:41Z
+  Updated: 2026-01-13T17:08:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3567,10 +3567,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8_0e9edb9b-f111-4f6e-950b-4242acf9debc.jpg?v=1738301346
   Price: ₹2,295.00 INR
 - [MAISTO ASTON MARTIN VALKYRIE SCALE - 1:18](https://theworldofnerds.com/products/maisto-aston-martin-valkyrie-scale-1-18): Designed with precision and attention to detail, the MAISTO ASTON MARTIN VALKYRIE SCALE - 1:18 is a sleek and stylish addition to any collector's display. Its 1:18 scale accurately replicates the iconic Aston Martin Valkyrie, perfect for enthusiasts and admirers alike.
-  Updated: 2025-11-14T03:49:41Z
+  Updated: 2026-01-23T05:33:41Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_3.jpg?v=1738232171
   Price: ₹5,500.00 INR
 - [BBURAGO PORSCHE 911 GT3 RS 4.0 SCALE - 1:18](https://theworldofnerds.com/products/bburago-porsche-911-gt3-rs-4-0-scale-1-18): Expand your die-cast car collection with the BBURAGO PORSCHE 911 GT3 RS 4.0 SCALE - 1:18 model. Highly detailed and accurate, this replica of the iconic Porsche 911 GT3 RS 4.0 boasts a 1:18 scale for a realistic display. Perfect for both car enthusiasts and collectors, this model is a must-have.
@@ -3602,10 +3602,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_15_3904b51c-f641-4471-9a3e-43614059eeee.jpg?v=1738309115
   Price: ₹2,295.00 INR
 - [BBURAGO WHITE PORSCHE 911 RSR SCALE - 1:24](https://theworldofnerds.com/products/bburago-porsche-911-rsr-scale-1-25): This detailed 1:24 scale model of the iconic Porsche 911 RSR captures every sleek curve and aerodynamic feature of the real car, making it a must-have for collectors and enthusiasts alike. Expertly crafted and intricately designed, this model is the perfect addition to any car lover's collection.
-  Updated: 2025-11-27T23:00:51Z
+  Updated: 2026-01-25T20:15:00Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_17_4a515574-4391-484c-a304-3961d0005e77.jpg?v=1738309516
   Price: ₹2,495.00 INR
 - [MAISTO ROYAL ENFIELD CLASSIC SCALE - 1:12](https://theworldofnerds.com/products/maisto-royal-enfield-classic-scale-1-12): Experience the iconic style and precision of Maisto's Royal Enfield Classic scale model, now in the perfect 1:12 scale. Expertly crafted to showcase the legendary details of this classic motorcycle, it's a must-have for any enthusiast. Add it to your collection today.
@@ -4400,7 +4400,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_2_4.jpg?v=1738747393
   Price: ₹799.00 INR
 - [HOT WHEELS DODGE VAN](https://theworldofnerds.com/products/hot-wheels-dodge-van): Introducing the HOT WHEELS DODGE VAN, a must-have for collectors and racing enthusiasts alike. With its sleek design and high performance features, this van is sure to impress. Don't miss out on the chance to add this iconic vehicle to your collection.
-  Updated: 2025-12-13T03:00:41Z
+  Updated: 2026-01-23T07:24:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4428,10 +4428,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_13.jpg?v=1738747736
   Price: ₹349.00 INR
 - [HOT WHEELS MCLAREN F1](https://theworldofnerds.com/products/hot-wheels-mclaren-f1): This Hot Wheels McLaren F1 is a precision die-cast replica of the iconic supercar. With realistic design and details, this 1:64 scale model is perfect for collectors and car enthusiasts. Add it to your collection or display it as a showpiece.
-  Updated: 2025-12-20T15:16:55Z
+  Updated: 2026-01-17T06:43:26Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_12.jpg?v=1738747805
   Price: ₹599.00 INR
 - [HOT WHEELS FORD MUSTANG DARK HORSE](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse): Discover the sleek and powerful HOT WHEELS FORD MUSTANG DARK HORSE. This collectible die-cast car boasts exquisite detailing and a fierce design, perfect for any car enthusiast. With its high-quality craftsmanship and iconic brand, this Mustang is a must-have for any collection.
@@ -4442,7 +4442,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_10_43251284-947f-4ee1-8daf-7be0e074a933.jpg?v=1738747872
   Price: ₹399.00 INR
 - [HOT WHEELS 1966 TRIUMPH TIGER 100](https://theworldofnerds.com/products/hot-wheels-1966-triumph-tiger-100): Experience the classic style and power of the HOT WHEELS 1966 TRIUMPH TIGER 100. With its sleek design and iconic features, this car is sure to impress any collector or enthusiast. Perfect for display or high-speed racing, this model is a must-have for any vintage car lover.
-  Updated: 2025-07-29T05:13:14Z
+  Updated: 2026-01-25T13:17:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4456,14 +4456,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_7_281a3be7-cdb7-4f86-9e68-8c2de19eb186.jpg?v=1738748088
   Price: ₹249.00 INR
 - [HOT WHEELS VW T3 CUSTOM](https://theworldofnerds.com/products/hot-wheels-vw-t3-custom): Get ready to hit the road in style with the HOT WHEELS VW T3 CUSTOM! This unique van features a custom design that will make heads turn. With its sleek exterior and high-quality craftsmanship, this HOT WHEELS creation is perfect for any car enthusiast. Take your love for cars to the next level with the HOT WHEELS VW T3 CUSTOM.
-  Updated: 2025-10-10T09:31:37Z
+  Updated: 2026-01-23T07:24:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_16.jpg?v=1738748165
   Price: ₹349.00 INR
 - [HOT WHEELS HI - ROLLER II](https://theworldofnerds.com/products/hot-wheels-hi-roller-ii): Experience thrill and excitement with the HOT WHEELS HI - ROLLER II. This advanced toy car boasts high-speed performance, making it perfect for racing and stunts. With sleek design and durable construction, this is a must-have for any car enthusiast. Upgrade your collection and race to victory with HOT WHEELS HI - ROLLER II.
-  Updated: 2025-10-04T12:37:20Z
+  Updated: 2026-01-26T18:02:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4477,7 +4477,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_18.jpg?v=1738748287
   Price: ₹499.00 INR
 - [HOT WHEELS ALFA ROMEO GTV6 3.0](https://theworldofnerds.com/products/hot-wheels-alfa-romeo-gtv6-3-0): The HOT WHEELS ALFA ROMEO GTV6 3.0 is a highly detailed die-cast replica of the iconic sports car. With its sleek design and authentic features, this model car is perfect for collectors and enthusiasts alike. Add it to your collection today and appreciate the precision and craftsmanship of this miniature masterpiece.
-  Updated: 2025-08-28T11:11:30Z
+  Updated: 2026-01-21T13:16:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4960,7 +4960,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7379copy.jpg?v=1739879609
   Price: ₹599.00 INR
 - [ONE PIECE ACE ACTION FIGURE](https://theworldofnerds.com/products/one-piece-ace-action-figure): Introducing the ONE PIECE ACE ACTION FIGURE - the perfect addition to any collection for fans of the popular series. This finely detailed figure captures the likeness of Ace, showcasing his iconic look and powerful stance. Crafted with precision and quality, it's a must-have for any ONE PIECE enthusiast.
-  Updated: 2025-07-29T05:13:30Z
+  Updated: 2026-01-13T01:34:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4974,7 +4974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/01.jpg?v=1739879919
   Price: ₹599.00 INR
 - [NARUTO - MINATO NAMIKAZE ACTION FIGURE](https://theworldofnerds.com/products/naruto-minato-namikaze-action-figure): Explore the world of Naruto with this highly detailed Minato Namikaze action figure. Made from durable materials, this figure is perfect for display or play. With realistic features and accurate detailing, it's the perfect addition to any Naruto collection. Bring your favorite character to life and relive epic battles.
-  Updated: 2025-07-29T05:13:30Z
+  Updated: 2026-01-22T03:31:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5128,7 +5128,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7633copy.jpg?v=1739950870
   Price: ₹499.00 INR
 - [DEMON SLAYER SET OF 12](https://theworldofnerds.com/products/demon-slayer-set-of-12): This 12-piece Demon Slayer set includes a variety of tools specifically designed for taking on challenges and defeating demons. With this set, you'll have everything you need to become a skilled demon slayer and protect others from the forces of evil. Each tool is expertly crafted and backed by scientific knowledge, ensuring optimal performance and success in your battles.
-  Updated: 2025-07-29T05:13:34Z
+  Updated: 2026-01-22T05:18:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5373,7 +5373,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7792copy.jpg?v=1740118651
   Price: ₹1,199.00 INR
 - [MONKEY D.LUFFY D3 ACTION FIGURE](https://theworldofnerds.com/products/monkey-d-luffy-d3-action-figure): This MONKEY D.LUFFY D3 ACTION FIGURE captures the adventurous and determined nature of the beloved character. With realistic details and high-quality materials, this action figure is the perfect addition to any collection for fans of the series. Let your imagination run wild with endless possibilities for play and display.
-  Updated: 2025-12-23T11:43:51Z
+  Updated: 2026-01-25T01:01:43Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -6164,7 +6164,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250227_175751_066_1775107979.jpg?v=1740660594
   Price: ₹2,799.00 INR
 - [HOT WHEELS RWB PORSCHE 930](https://theworldofnerds.com/products/hot-wheels-rwb-porsche-930): Experience the thrill of speed with the HOT WHEELS RWB PORSCHE 930! This sleek and stylish toy car features realistic design and high-quality construction for a truly authentic experience. Perfect for collectors and racing enthusiasts alike, this HOT WHEELS car is sure to provide hours of entertainment.
-  Updated: 2025-12-01T05:51:55Z
+  Updated: 2026-01-24T18:05:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6248,10 +6248,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250304_153240_296_-103622971.jpg?v=1741083236
   Price: ₹899.00 INR
 - [HOT WHEELS RETRO RACERS SET OF 5](https://theworldofnerds.com/products/hot-wheels-retro-racers-set-of-5): Introducing the HOT WHEELS RETRO RACERS SET OF 5! Experience the thrill of speed with this collection of retro-inspired racers. Featuring 5 unique designs, these cars are sure to impress. Perfect for collectors and kids alike, these cars are crafted with precision and attention to detail for a truly authentic racing experience.
-  Updated: 2025-07-29T05:14:09Z
+  Updated: 2026-01-20T01:06:14Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1741082914799.jpg?v=1741083734
   Price: ₹899.00 INR
 - [HOT WHEELS HW GETAWAYS NETFLIX SET OF 5](https://theworldofnerds.com/products/hot-wheels-hw-getaways-netflix-set-of-5): Experience the thrill of the open road with the HOT WHEELS HW GETAWAYS NETFLIX SET OF 5. This set includes 5 iconic cars from some of your favorite Netflix shows, perfect for collectors and car enthusiasts alike. Made with high-quality materials and precision engineering, these cars are sure to provide endless hours of enjoyment. Add this set to your collection today and bring home the excitement of the open road.
@@ -6318,14 +6318,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6062_874476661.jpg?v=1741421215
   Price: ₹199.00 INR
 - [MAJORETTE CHEVROLET SILVERADO](https://theworldofnerds.com/products/majorette-chevrolet-silverado): The MAJORETTE CHEVROLET SILVERADO is a highly detailed replica of the iconic truck. With precise design and craftsmanship, this model accurately captures the sleek and rugged style of the real Silverado. Perfect for collectors or young car enthusiasts, this model showcases the best of the Chevrolet brand.
-  Updated: 2026-01-12T11:58:28Z
+  Updated: 2026-01-27T13:56:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6061_873553140.jpg?v=1741421294
   Price: ₹199.00 INR
 - [MAJORETTE STREET CAR HONDA E](https://theworldofnerds.com/products/majorette-street-car-honda-e): The MAJORETTE STREET CAR HONDA E is a high-quality street car that features exceptional design and engineering. With its sleek and modern style, this car is sure to turn heads. Built with precision and attention to detail, the HONDA E offers a smooth and efficient ride for all. Perfect for city driving or long road trips, this car is a must-have for any car enthusiast.
-  Updated: 2026-01-12T12:27:13Z
+  Updated: 2026-01-28T04:25:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6346,7 +6346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6069_880941308.jpg?v=1741421615
   Price: ₹199.00 INR
 - [MAJORETTE STREET CAR DS 4](https://theworldofnerds.com/products/majorette-street-car-ds-4): Get behind the wheel of the MAJORETTE STREET CAR DS 4 and experience smooth handling and high performance. With precise control and sleek design, this car is perfect for both city driving and long road trips. Dominate the streets and elevate your driving experience with the MAJORETTE STREET CAR DS 4.
-  Updated: 2026-01-12T12:26:57Z
+  Updated: 2026-01-21T20:39:13Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6367,7 +6367,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6075_905876375.jpg?v=1741424257
   Price: ₹199.00 INR
 - [MAJORETTE JEEP WRANGLER STREET CAR](https://theworldofnerds.com/products/majorette-jeep-wrangler-street-car): Discover endless adventures with the MAJORETTE JEEP WRANGLER STREET CAR. This highly detailed toy car is designed to provide realistic and immersive play experiences. With its durable construction and sleek design, it's the perfect addition to any little car enthusiast's collection. Let their imagination run wild with this expertly crafted toy car.
-  Updated: 2026-01-12T12:08:07Z
+  Updated: 2026-01-25T08:48:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6395,10 +6395,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6066_878170745.jpg?v=1741425009
   Price: ₹199.00 INR
 - [MAJORETTE TOYOTA HILUX REVO STREET CAR](https://theworldofnerds.com/products/majorette-toyota-hilux-revo-street-car): Introduce your child to the world of cars with the MAJORETTE TOYOTA HILUX REVO STREET CAR. This miniature toy car features a realistic design and smooth handling, providing endless hours of imaginative play. Made with durable materials, it is built to last and perfect for any car enthusiast.
-  Updated: 2026-01-12T12:50:39Z
+  Updated: 2026-01-27T13:56:21Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6079_909570459.jpg?v=1741425204
   Price: ₹199.00 INR
 - [MAJORETTE ISUZU D-MAX](https://theworldofnerds.com/products/majorette-isuzu-d-max): As a leader in the toy car industry, Majorette presents the Isuzu D-Max, a sturdy and realistic die-cast model of the popular pick-up truck. With its intricate details and durable construction, this toy is perfect for both playing and collecting. Bring the thrill of the road to life with the Majorette Isuzu D-Max.
@@ -6409,14 +6409,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6072_903105812.jpg?v=1741425367
   Price: ₹199.00 INR
 - [MAJORETTE CHEVROLET CAMARO STREET CAR](https://theworldofnerds.com/products/majorette-chevrolet-camaro-street-car): Introducing the MAJORETTE CHEVROLET CAMARO STREET CAR - the perfect blend of style and performance. This die-cast car features a highly detailed design and realistic street car features. With its sleek and powerful design, this car is sure to impress car enthusiasts of all ages. Bring the thrill of the street to life with the MAJORETTE CHEVROLET CAMARO STREET CAR.
-  Updated: 2026-01-12T11:57:51Z
+  Updated: 2026-01-23T04:53:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6071_902182291.jpg?v=1741425488
   Price: ₹199.00 INR
 - [MAJORETTE FIAT 500 ICON STREET CAR](https://theworldofnerds.com/products/majorette-fiat-500-icon-street-car): As an industry expert, discover the powerful features of the MAJORETTE FIAT 500 ICON STREET CAR. Designed with precision and style, this car offers unmatched performance and durability on the streets. With its iconic design and advanced technology, it is the perfect addition to any car collection.
-  Updated: 2026-01-12T12:03:00Z
+  Updated: 2026-01-26T08:05:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6486,7 +6486,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6051.jpg?v=1741428357
   Price: ₹349.00 INR
 - [MAJORETTE VOLVO CONSTRUCTION EXCAVATOR EC950F](https://theworldofnerds.com/products/majorette-volvo-construction-excavator-ec950f): Discover the power of the MAJORETTE VOLVO CONSTRUCTION EXCAVATOR EC950F. Made with advanced features and precision engineering, this excavator is perfect for any construction project. With its durable design and high-quality materials, it offers unparalleled performance and efficiency, allowing you to get the job done quickly and effectively. Trust in the expertise of MAJORETTE and VOLVO to deliver a top-of-the-line construction vehicle.
-  Updated: 2026-01-12T13:19:39Z
+  Updated: 2026-01-24T17:55:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6626,7 +6626,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c76d2253-8441-49d3-9c9f-4c0c64fa38ea.jpg?v=1741610444
   Price: ₹349.00 INR
 - [MAJORETTE AIRPLANES BOEING 787-9](https://theworldofnerds.com/products/majorette-airplanes-boeing-787-9): The MAJORETTE AIRPLANES BOEING 787-9 is a highly-detailed and accurately-sized model of the popular commercial airliner. With realistic features and expert craftsmanship, this model is perfect for collectors or aviation enthusiasts. Bring the beauty and sophistication of the Boeing 787-9 into your home or office with this exquisite model.
-  Updated: 2026-01-12T11:54:50Z
+  Updated: 2026-01-26T05:22:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6752,7 +6752,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250308_155922_046.jpg?v=1741436378
   Price: ₹349.00 INR
 - [MAJORETTE AIRPLANE A380-800](https://theworldofnerds.com/products/majorette-airplane-a380-800): The MAJORETTE AIRPLANE A380-800 is a beautifully crafted toy that promises hours of imaginative play. With its realistic design and intricate details, it offers a 100% accurate representation of the actual A380-800 aircraft. Perfect for budding aviation enthusiasts, this toy stimulates creativity and encourages role-playing.
-  Updated: 2026-01-12T11:54:04Z
+  Updated: 2026-01-19T15:13:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6794,7 +6794,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_1e2c0fcd-1c32-4af9-8ff2-8cda9d7004a2.jpg?v=1741590617
   Price: ₹1,599.00 INR
 - [MAJORETTE VOLKSWAGEN THE ORIGINALS 5 PCS GIFTPACK](https://theworldofnerds.com/products/majorette-volkswagen-the-originals-5-pcs-giftpack): Experience the iconic style and precision engineering of Volkswagen with the MAJORETTE VOLKSWAGEN THE ORIGINALS 5 PCS GIFTPACK. This set includes 5 authentic Volkswagen die-cast cars, perfect for collectors or aspiring car enthusiasts. Each vehicle is crafted with attention to detail and built to last, ensuring endless hours of imaginative play.
-  Updated: 2026-01-12T13:19:08Z
+  Updated: 2026-01-13T02:55:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6822,7 +6822,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_110530_280_-1150323544.jpg?v=1741597870
   Price: ₹799.00 INR
 - [MAJORETTE VOLKSWAGEN GOLF MK 1 THE ORIGINALS](https://theworldofnerds.com/products/majorette-volkswagen-golf-mk-1-the-originals): Introducing the MAJORETTE VOLKSWAGEN GOLF MK 1 THE ORIGINALS. Enjoy the classic design and precision of this iconic car model. With authentic details and high-quality construction, this is a must-have for any car enthusiast. Perfect for display or play, experience the original in miniature form.
-  Updated: 2026-01-12T13:05:52Z
+  Updated: 2026-01-25T07:17:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6899,21 +6899,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_110841_833_934468601.jpg?v=1741599685
   Price: ₹599.00 INR
 - [MAJORETTE VOLKSWAGEN BEETLE CHILL IN CAMPER CLUB](https://theworldofnerds.com/products/majorette-volkswagen-beetle-chill-in-camper-club): This MAJORETTE VOLKSWAGEN BEETLE CHILL IN CAMPER CLUB is perfect for young adventurers looking to explore the great outdoors. With a sleek and durable design, this toy vehicle allows for endless playtime and imagination. Let your child's creativity run wild as they "chill" and have fun with this iconic camper club set.
-  Updated: 2026-01-12T13:04:39Z
+  Updated: 2026-01-28T04:25:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_110811_103_-479436808.jpg?v=1741599874
   Price: ₹599.00 INR
 - [MAJORETTE VOLKSWAGEN T 1 PEACE MUSIC THE ORIGINALS](https://theworldofnerds.com/products/majorette-volkswagen-t-1-peace-music-the-originals): The MAJORETTE VOLKSWAGEN T 1 PEACE MUSIC THE ORIGINALS combines the iconic design of the classic VW T 1 with a touch of music and peace. This miniature vehicle brings joy to collectors and enthusiasts alike with its authentic details, durable construction, and vibrant colors. Perfect for display or play, this MAJORETTE model is a must-have for any Volkswagen fan.
-  Updated: 2026-01-12T13:08:10Z
+  Updated: 2026-01-28T04:25:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_111136_190_-1242069401.jpg?v=1741600035
   Price: ₹599.00 INR
 - [MAJORETTE VOLKSWAGEN BEETLE THE ORIGINALS](https://theworldofnerds.com/products/majorette-volkswagen-beetle-the-originals): Get your hands on the classic MAJORETTE VOLKSWAGEN BEETLE THE ORIGINALS. This iconic toy car is a must-have for any car enthusiast. With its detailed design and high-quality construction, it's the perfect addition to any collection. Made with precision and attention to detail, this toy car is sure to impress.
-  Updated: 2026-01-12T13:05:05Z
+  Updated: 2026-01-25T11:34:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7557,7 +7557,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_d5d10ac5-7cc3-40cd-8cc5-a39d8a6d4b22.png?v=1748408807
   Price: ₹899.00 INR
 - [RMZ CITY LAMBORGHINI MURCIELAGO PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-lamborghini-murcielago-pullback-scale-1-32): This RMZ CITY LAMBORGHINI MURCIELAGO PULLBACK SCALE - 1:32 is a high-quality and accurate model of the iconic Lamborghini Murcielago. With its pullback mechanism, this 1:32 scale model car is not just a collector's item, but also a fun and interactive toy for both kids and adults. Perfect for fans of Lamborghini and car enthusiasts.
-  Updated: 2025-07-29T05:14:47Z
+  Updated: 2026-01-13T15:37:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7900,10 +7900,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_51b32cba-f4ba-4cd9-9607-ade0af221bc0.png?v=1748430860
   Price: ₹1,879.00 INR
 - [SHINCHAN BUTTERFLY KEYCHAIN](https://theworldofnerds.com/products/shinchan-butterfly-keychain): Add a playful touch to your keys with our Shinchan Butterfly Keychain! Made from high-quality, durable silicon, this keychain features an adorable Shinchan design with a butterfly twist—perfect for fans of all ages. Lightweight, flexible, and colorful, it’s ideal for daily use or as a cute gift. Express your fun side with this must-have accessory!
-  Updated: 2025-12-31T19:26:10Z
+  Updated: 2026-01-21T07:34:01Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d12842b9-95db-4d3d-a579-5239d0930233.jpg?v=1748437935
   Price: ₹249.00 INR
 - [SHINCHAN AS BIRD KEYCHAIN](https://theworldofnerds.com/products/shinchan-as-bird-keychain): Bring a quirky twist to your keys with our Shinchan as Bird Keychain! Crafted from high-quality, durable silicon, this fun design features Shinchan in a playful bird costume. Lightweight, flexible, and eye-catching, it’s perfect for daily use or as a unique gift. A must-have accessory for Shinchan fans of all ages!
@@ -8243,7 +8243,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cdaa5674-e56c-452c-b601-37cc32412db3.jpg?v=1751880720
   Price: ₹329.00 INR
 - [Chill Deadpool Swing Figure](https://theworldofnerds.com/products/chill-deadpool-swing-figure): “Sunset drive, music up, and there’s Deadpool—approx. 10cm wide and 4cm tall—chilling in a laid-back pose, swaying with every turn like a Marvel end-credit meme. This relaxed antihero brings humor and savage vibes to your car, desk, or gaming setup, reminding you it’s okay to kick back and own your chaos.”
-  Updated: 2026-01-04T09:57:27Z
+  Updated: 2026-01-22T09:39:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8579,14 +8579,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_f829a1d1-c311-4158-aaf3-477d0f048d65.jpg?v=1751953092
   Price: ₹299.00 INR
 - [Deadpool Chill Mode Figurine](https://theworldofnerds.com/products/deadpool-chill-mode-figurine): Set against a striking red background, this compact Deadpool figure—about 8 cm long and 5 cm tall—reclines in classic “too cool to care” style. One hand casually supports him while the other throws a bold thumbs-up, adding his signature mix of sass and confidence. The moment feels playful yet smug, like he's just wrapped up a wild adventure and decided to take five. It’s equal parts comedy, charisma, and chaos—just like the merc himself. A fun collectible that brings personality to any shelf or workspace.
-  Updated: 2026-01-01T10:55:41Z
+  Updated: 2026-01-16T19:17:31Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3936318f-c78d-4c28-885d-8ef34de12c49.jpg?v=1751953175
   Price: ₹179.00 INR
 - [Deadpool Standing Pose – Sassy Look Figurine](https://theworldofnerds.com/products/deadpool-standing-pose-sassy-look-figurine): Striking a cheeky pose in a sea of red, this 10 cm tall Deadpool figure perfectly captures his sarcastic, larger-than-life personality. With one hand thoughtfully placed on his chin and the other resting on his hip, he stands like he's just dropped a clever one-liner—or about to roast someone. The bold monochrome setting makes him pop, giving the scene a dramatic yet playful vibe. It feels like a mix of mischief, mockery, and full-blown confidence—just the way fans love him. This figurine is a fun reminder that heroes don’t always follow the rules.
-  Updated: 2026-01-01T10:55:42Z
+  Updated: 2026-01-22T18:19:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8614,7 +8614,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_6e0122d8-4a60-41e8-bbed-820aadb42fe9.jpg?v=1751953712
   Price: ₹179.00 INR
 - [Bold Deadpool Figurine Holding Funny Sign](https://theworldofnerds.com/products/bold-deadpool-figurine-holding-funny-sign): In classic Deadpool fashion, this 10 cm figurine throws subtlety out the window. Standing with one foot cocked and sign in hand, he delivers a message that’s anything but polite—yet undeniably hilarious. The fiery red backdrop turns the moment into a theatrical spotlight, as if he's performing on his own sarcastic stage. With his tilted head and that smug body language, you can almost hear the imaginary mic drop. It’s bold, cheeky, and pure Deadpool—perfect for fans who like their collectibles with a side of attitude and zero filter.
-  Updated: 2026-01-01T10:55:41Z
+  Updated: 2026-01-22T18:19:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8894,7 +8894,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_8b428552-fcbf-45a3-9f9d-cf2878c222f1.jpg?v=1752213324
   Price: ₹299.00 INR
 - [Squatting Shinchan Figurine](https://theworldofnerds.com/products/squatting-shinchan-figurine): Capture Shinchan's iconic mischief with this 6.5cm collectible figurine featuring him in a squatting pose and an adorably surprised expression. Made from durable material, it’s a must-have for anime lovers and fans of quirky, expressive decor. Ideal for desks, shelves, or gifting to fellow Shinchan fans!
-  Updated: 2025-12-01T11:35:51Z
+  Updated: 2026-01-21T16:49:12Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8943,7 +8943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_782f41b4-4c7b-4e22-b52e-44a92c8f62af.jpg?v=1752214120
   Price: ₹299.00 INR
 - [Shinchan Funny Big Ear Pose Collectible Figure](https://theworldofnerds.com/products/shinchan-funny-big-ear-pose-collectible-figure): Get ready to laugh with this one-of-a-kind Shinchan collectible figure! Capturing the beloved character in a goofy oversized ear pose, this toy is perfect for fans who love Shinchan’s wild expressions and iconic humor. A fantastic piece for anime lovers, collectors, or anyone who enjoys quirky desk decor.
-  Updated: 2026-01-09T05:55:52Z
+  Updated: 2026-01-22T09:39:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9188,7 +9188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0829ece8-3a05-41d3-b10d-8a9774e3325d.jpg?v=1756451763
   Price: ₹119.00 INR
 - [Attack on Titan Keychains: Eren & Mikasa](https://theworldofnerds.com/products/attack-on-titan-keychains-eren-mikasa): These keychains bring Eren Yeager and Mikasa Ackerman from Attack on Titan to life with bold design and character. Eren’s determined, fierce eyes on the left contrast with Mikasa’s calm yet focused expression on the right. The contrasting designs reflect their different personalities yet shared mission. The vibrant art captures both their physical strength and emotional resolve, making this set a perfect tribute to the bond they share in the face of overwhelming adversity.
-  Updated: 2026-01-11T10:16:11Z
+  Updated: 2026-01-16T19:52:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9209,7 +9209,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6d092255-8ce0-4e70-a118-79ae3d18ed5a.jpg?v=1756451973
   Price: ₹119.00 INR
 - [Demon Slayer Keychains – Stunning Artwork for True Fans](https://theworldofnerds.com/products/demon-slayer-keychains-stunning-artwork-for-true-fans): These Demon Slayer keychains feature captivating artwork that captures the intensity and emotion of the series. With bold imagery and detailed character depictions, they serve as both a tribute to the iconic anime and an essential collectible for fans. Whether you’re drawn to the characters’ fierce determination or their emotional depth, these keychains offer a perfect way to carry a piece of Demon Slayer with you wherever you go.
-  Updated: 2026-01-03T15:01:11Z
+  Updated: 2026-01-22T05:33:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9258,10 +9258,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1168d1a8-c5fe-486e-a01d-400ddab916e9.jpg?v=1756452411
   Price: ₹119.00 INR
 - [Pokémon Charizard Keychain – Featuring Charizard and Poké Balls](https://theworldofnerds.com/products/pokemon-charizard-keychain-featuring-charizard-and-poke-balls): Ignite your Pokémon collection with this Charizard keychain, designed with bold artwork that showcases Charizard’s fiery spirit. Featuring Charizard on one side and Poké Balls on the other, this keychain captures the essence of the franchise’s adventure and excitement. A great accessory for any Pokémon lover, it’s the perfect way to carry your favorite Fire-type Pokémon with you wherever you go!
-  Updated: 2026-01-11T06:38:41Z
+  Updated: 2026-01-16T05:20:01Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1ca3b9ad-3263-4d1b-9e45-e4672fc8617d.jpg?v=1756452481
   Price: ₹119.00 INR
 - [Fiery Charizard & Cool Gengar: The Ultimate Keychain Set](https://theworldofnerds.com/products/fiery-charizard-cool-gengar-the-ultimate-keychain-set): These eye-catching keychains feature embroidered versions of Charizard and Gengar, each with fiery and sparkling designs that add a playful yet bold touch to any set of keys. The vibrant orange backdrop complements the characters’ intense expressions, capturing a mix of fierce power and mischievous charm.
@@ -9412,14 +9412,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_60c9307c-7c46-46c0-8c7e-4352715366cd.jpg?v=1756467279
   Price: ₹1,956.00 INR
 - [Sasuke Uchiha Keychain – Sharingan & Rinnegan Design](https://theworldofnerds.com/products/sasuke-uchiha-keychain-sharingan-rinnegan-design): This double-sided keychain captures Sasuke Uchiha’s powerful presence – from his classic shinobi look to the close-up of his Sharingan and Rinnegan eyes. A perfect collectible for Naruto fans, it blends style with nostalgia, making it a must-have accessory for your bag, keys, or anime collection.
-  Updated: 2025-12-25T18:46:22Z
+  Updated: 2026-01-16T19:52:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ee55f3f0-2f3f-48e8-a149-84750b1affd4.jpg?v=1756467339
   Price: ₹119.00 INR
 - [Zenitsu Agatsuma Embroidered Anime Keychain – Demon Slayer Thunder Design](https://theworldofnerds.com/products/double-sided-keychain-yuji-sukuna-face-off): Show your love for Demon Slayer with this Zenitsu Agatsuma embroidered keychain, featuring a bold double-sided design inspired by Zenitsu’s iconic thunder aesthetic. One side showcases a detailed monochrome illustration of Zenitsu, while the other highlights his striking yellow eyes and lightning-themed pattern. Crafted with durable embroidered fabric and a sturdy metal key ring, this anime keychain is perfect for everyday use on keys, backpacks, sling bags, or as a collector’s accessory. A must-have for Demon Slayer fans and anime merchandise collectors looking for a stylish and long-lasting Zenitsu accessory.
-  Updated: 2026-01-02T19:21:01Z
+  Updated: 2026-01-22T05:33:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9440,14 +9440,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d98be785-fd52-49e0-998b-16e96696db62.jpg?v=1756467553
   Price: ₹119.00 INR
 - [Demon Slayer Keychain | Double-Sided Fabric Key Ring with Nezuko Kamado](https://theworldofnerds.com/products/demon-slayer-keychain-double-sided-fabric-key-ring-with-nezuko-kamado): Carry Nezuko Kamado with you wherever you go! This double-sided Demon Slayer keychain features her adorable yet fierce expression with pink accents to match her character design. Made with strong fabric and durable stitching, it’s the perfect accessory for keys, backpacks, or anime collections.
-  Updated: 2026-01-02T19:21:01Z
+  Updated: 2026-01-22T05:33:42Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4084c294-2e3e-4dda-8962-ad73571153c7.jpg?v=1756467610
   Price: ₹119.00 INR
 - [Naruto Jiraiya Keychain | Double-Sided Fabric Key Ring Anime Accessory](https://theworldofnerds.com/products/naruto-jiraiya-keychain-double-sided-fabric-key-ring-anime-accessory): Honor the legendary Sannin with this Naruto keychain featuring Jiraiya the Toad Sage. This double-sided design captures his iconic look and bold personality. Made from durable fabric with strong stitching, it’s perfect for fans who want to carry a piece of the Hidden Leaf everywhere they go.
-  Updated: 2025-08-29T11:42:37Z
+  Updated: 2026-01-13T16:05:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9482,7 +9482,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_26c621c2-ff0c-4fd1-892f-be8107265e9e.jpg?v=1756467923
   Price: ₹119.00 INR
 - [Rengoku Flame Hashira Embroidered Keychain](https://theworldofnerds.com/products/eyes-of-the-inferno-keychains-of-uncontrolled-power): Carry the fiery spirit of the Flame Hashira wherever you go with this Rengoku embroidered keychain, inspired by Kyojuro Rengoku from Demon Slayer: Kimetsu no Yaiba.Featuring high-quality embroidery with bold flame tones and iconic eye artwork, this keychain perfectly captures Rengoku’s intense passion and fearless personality. Made with durable fabric and strong stitching, it’s ideal for everyday use on keys, backpacks, sling bags, or as an anime collectible. A must-have accessory for Demon Slayer fans and anime lovers who admire Rengoku’s unwavering spirit.
-  Updated: 2026-01-05T09:58:06Z
+  Updated: 2026-01-22T05:33:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9496,7 +9496,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_65d276ad-d5f4-4f3b-92ba-20788ec86fbd.jpg?v=1756468127
   Price: ₹119.00 INR
 - [Luffy and Goku, the Joyous Warriors keychains](https://theworldofnerds.com/products/luffy-and-goku-the-joyous-warriors-keychains): These keychains capture the unyielding spirit and infectious energy of a true adventurer. With wide grins and eyes full of determination, the characters leap forward, ready to face whatever challenges lie ahead. The contrast between the clouds and vibrant colors speaks to their boundless optimism, while the fierce expressions show the unwavering resolve behind their cheerful demeanor. These keychains are more than just designs—they represent the joy of the journey and the endless pursuit of dreams, no matter how wild or impossible they may seem.
-  Updated: 2026-01-04T08:31:11Z
+  Updated: 2026-01-20T16:00:12Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9566,7 +9566,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_deaf3cf0-d7fc-4cd1-9190-0829158e0257.jpg?v=1756468846
   Price: ₹119.00 INR
 - [Power Unleashed: Zen'in Maki Keychain](https://theworldofnerds.com/products/power-unleashed-zenin-maki-keychain): This keychain features Maki Zen'in, captured in her determined state with fierce focus in her eyes. The warm orange background mirrors her inner strength and fiery spirit, while the intricate design highlights the power she possesses, making this keychain a striking representation of one of the fiercest characters in Jujutsu Kaisen.
-  Updated: 2026-01-12T15:58:37Z
+  Updated: 2026-01-22T18:51:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9748,14 +9748,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_62c085b6-75dc-416a-8ec5-ffaf02141c31.gif?v=1756545258
   Price: ₹119.00 INR
 - [Nezuko Kamado Chibi Keychain – Demon Slayer Edition](https://theworldofnerds.com/products/nezuko-kamado-chibi-keychain-demon-slayer-edition): Celebrate the strength and beauty of Nezuko Kamado with this adorable chibi-style keychain. Featuring Nezuko in her iconic red-and-pink kimono and bamboo muzzle, this keychain captures her fierce yet protective spirit as she fights to protect her loved ones. The detailed design reflects her emotional journey in Demon Slayer, making it the perfect accessory for fans of the series. Whether you're a fan of Nezuko's resilience or her loving heart, this keychain is a small but powerful tribute to her character. Carry Nezuko's courage and warmth wherever you go!
-  Updated: 2025-12-08T09:54:55Z
+  Updated: 2026-01-20T05:33:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_cccc8003-eff7-435f-a10e-3afe4e87ebda.gif?v=1756545270
   Price: ₹119.00 INR
 - [Samurai Wave Sword Keychain – A  of Precision](https://theworldofnerds.com/products/samurai-wave-sword-keychain-a--of-precision): This keychain represents the perfect blend of artistry and strength, featuring a beautifully designed sword with flowing waves along the blade. The intricate design captures the essence of water's grace and power, symbolizing fluid movement and control. Ideal for fans of martial arts, anime, or anyone who appreciates a masterful , this keychain brings both style and symbolism to your accessories. Whether you’re wielding the sword in spirit or simply displaying its beauty, it’s a reminder of the power found in balance and precision.
-  Updated: 2025-09-26T13:39:01Z
+  Updated: 2026-01-13T16:05:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10175,10 +10175,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96dd8a7c-67ff-42f2-af3a-d10a952800e0.jpg?v=1762323998
   Price: ₹399.00 INR
 - [Majorette Vintage Yellow Citroën HY Collectible Diecast Model](https://theworldofnerds.com/products/majorette-vintage-yellow-citroen-hy-collectible-diecast-model): Bring vintage charm to your collection with the Majorette Citroën HY Service Van diecast model. Featuring authentic yellow Citroën Service livery, realistic detailing, and sturdy metal construction, this collectible van is perfect for both play and display. A must-have for fans of classic French vehicles and Majorette vintage series collectors, this Citroën HY diecast toy car celebrates automotive history in miniature form.
-  Updated: 2026-01-12T13:04:10Z
+  Updated: 2026-01-25T08:48:46Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7f5604d8-6be1-4f47-ab58-c4c46491cadc.jpg?v=1762324421
   Price: ₹399.00 INR
 - [Majorette Renault Clio 16S Diecast Model Car](https://theworldofnerds.com/products/majorette-renault-clio-16s-diecast-model-car): Experience the legacy of French performance with the Majorette Renault Clio 16S diecast car. This detailed miniature captures the sporty essence of the iconic hot hatch, featuring a sleek black finish, realistic wheels, and durable metal body. Perfect for display or play, the Renault Clio 16S model by Majorette is a must-have for collectors who love vintage cars and European classics.
@@ -10189,10 +10189,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1d830198-14b6-4db9-80f6-9f60e74a4f49.jpg?v=1762324494
   Price: ₹399.00 INR
 - [Majorette Mercedes-Benz 190E 2.5-16 EVO I Diecast Model](https://theworldofnerds.com/products/majorette-mercedes-benz-190e-2-5-16-evo-i-diecast-model): Celebrate German engineering excellence with the Majorette Mercedes-Benz 190E 2.5-16 EVO I diecast car. Featuring sleek silver detailing, sporty alloy wheels, and a premium metal build, this collectible model captures the timeless spirit of the iconic DTM-era sedan. Perfect for collectors and enthusiasts alike, the Mercedes 190E EVO I Majorette is a standout piece in any vintage diecast car collection.
-  Updated: 2026-01-12T12:12:35Z
+  Updated: 2026-01-26T08:20:16Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3b364f25-d991-48c0-90ae-f4b6e7e4dddf.jpg?v=1762324568
   Price: ₹399.00 INR
 - [Majorette Citroen 2CV Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-citroen-2cv-vintage-diecast-model-car): Rediscover French automotive heritage with the Majorette Citroën 2CV diecast car. This beautifully crafted miniature features a charming green and white color scheme, realistic body detailing, and sturdy metal construction. Perfect for collectors and enthusiasts, the Citroën 2CV toy model captures the nostalgic elegance of one of France’s most iconic vehicles. Add this Majorette vintage series collectible to your diecast car collection today.
@@ -10203,28 +10203,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_86721ee7-36d4-4e3a-b067-0514df675e31.jpg?v=1762324647
   Price: ₹399.00 INR
 - [Majorette Toyota 2000GT Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-toyota-2000gt-vintage-diecast-model-car): Celebrate Japanese automotive excellence with the Majorette Toyota 2000GT diecast model car. This iconic red sports car miniature captures the elegance and speed of the legendary 1960s classic, featuring realistic detailing and durable metal construction. Perfect for collectors and enthusiasts, the Toyota 2000GT by Majorette is a must-have piece in any vintage diecast car collection.
-  Updated: 2026-01-12T12:44:16Z
+  Updated: 2026-01-24T05:40:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c9e0514f-eb69-44bf-b06b-1dc5fe5e1c8c.jpg?v=1762324710
   Price: ₹399.00 INR
 - [Majorette Fiat 500 D Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-fiat-500-d-vintage-diecast-model-car): Add Italian charm to your collection with the Majorette Fiat 500 D diecast car. This beautifully crafted light blue miniature showcases the timeless style of the classic Fiat, complete with detailed bodywork and durable metal construction. Ideal for collectors and fans of vintage European cars, the Fiat 500 D by Majorette captures the essence of retro motoring in a compact, display-worthy design.
-  Updated: 2026-01-12T12:02:26Z
+  Updated: 2026-01-23T12:15:42Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b92d3907-f4ee-4ca1-9f05-95eeb9939fbe.jpg?v=1762324779
   Price: ₹399.00 INR
 - [Majorette Volvo 240 GL Estate Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-volvo-240-gl-estate-vintage-diecast-model-car): Celebrate Scandinavian design and durability with the Majorette Volvo 240 GL Estate diecast model car. This detailed red miniature showcases the iconic Volvo station wagon, known for its reliability and timeless style. Perfect for collectors and fans of classic European cars, the Volvo 240 GL Estate by Majorette combines authentic detailing, smooth finish, and premium metal craftsmanship for a must-have addition to your vintage diecast collection.
-  Updated: 2026-01-12T13:19:21Z
+  Updated: 2026-01-27T07:51:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_77db9118-75f0-46ee-bb7c-1d30809d3b87.jpg?v=1762324844
   Price: ₹399.00 INR
 - [Majorette Porsche 934 Vintage Blue Diecast Model Car](https://theworldofnerds.com/products/majorette-porsche-934-vintage-blue-diecast-model-car): Experience the thrill of German engineering with the Majorette Porsche 934 diecast model car. This stunning blue collectible captures the spirit of Porsche’s legendary racing heritage with realistic detailing, gold-accented wheels, and a premium metallic finish. Perfect for collectors and enthusiasts, the Majorette Vintage Porsche 934 brings classic motorsport style to your display shelf. Ideal for diecast car collections, vintage car lovers, and Porsche fans alike.
-  Updated: 2026-01-12T12:17:29Z
+  Updated: 2026-01-22T04:05:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10238,35 +10238,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e382ee09-b588-4339-8835-156f109ad478.jpg?v=1762324976
   Price: ₹399.00 INR
 - [Majorette DS 21 Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-ds-21-vintage-diecast-model-car): Experience the elegance of French automotive history with the Majorette DS 21 vintage diecast model car. This finely detailed collectible captures the iconic Citroën DS 21, known for its futuristic design and smooth lines. Perfect for car enthusiasts and diecast collectors, the Majorette DS 21 brings a touch of retro charm and authenticity to any display.
-  Updated: 2026-01-12T12:01:51Z
+  Updated: 2026-01-26T08:05:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a35dc7e2-1861-4ac1-b705-0679fe1818d2.jpg?v=1762325052
   Price: ₹399.00 INR
 - [Majorette Datsun 260Z Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-datsun-260z-vintage-diecast-model-car): Relive the golden era of Japanese sports cars with the Majorette Datsun 260Z vintage diecast model car. This beautifully crafted collectible showcases the sleek design and racing spirit of the iconic Datsun 260Z, finished in a stylish dark green. A perfect addition for diecast enthusiasts and car lovers, the Majorette Datsun 260Z captures the essence of classic performance and automotive heritage.
-  Updated: 2026-01-12T12:00:13Z
+  Updated: 2026-01-25T08:48:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_214954db-75ae-4d4c-972f-2e9b0a356346.jpg?v=1762325105
   Price: ₹399.00 INR
 - [Majorette Toyota GRMN Yaris Premium Diecast Model Car](https://theworldofnerds.com/products/majorette-toyota-grmn-yaris-premium-diecast-model-car): Experience pure performance in miniature form with the Majorette Toyota GRMN Yaris Premium Cars diecast model. This sleek black collectible highlights Toyota’s high-performance GRMN division, capturing the sporty design and aggressive stance of the Toyota GRMN Yaris. Perfect for collectors and enthusiasts, this premium Majorette model car brings authentic detailing and dynamic style to any diecast collection.
-  Updated: 2026-01-12T12:46:31Z
+  Updated: 2026-01-24T07:50:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_76baafe4-8675-4a8e-b98d-104ec3c53a29.jpg?v=1762325157
   Price: ₹399.00 INR
 - [Majorette Volvo EX90 Premium Diecast Model Car](https://theworldofnerds.com/products/majorette-volvo-ex90-premium-diecast-model-car): The Majorette Volvo EX90 Premium Diecast Model Car captures the modern elegance of Volvo’s all-electric SUV in stunning detail. Featuring a sleek black finish, premium design, and realistic proportions, this Majorette Premium Cars Volvo EX90 is a must-have for collectors and SUV enthusiasts. Designed for durability and display, it perfectly showcases the innovation and sophistication of Volvo’s electric range.
-  Updated: 2026-01-12T13:21:31Z
+  Updated: 2026-01-24T05:54:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a4f0aa77-72bb-4fdb-842e-f6d5f7b49b1d.jpg?v=1762325886
   Price: ₹399.00 INR
 - [Majorette Range Rover Evoque Premium Diecast Car](https://theworldofnerds.com/products/majorette-range-rover-evoque-premium-diecast-car): The Majorette Range Rover Evoque Premium Diecast Car showcases the bold and refined design of Land Rover’s luxury SUV in a stunning red finish. Built with premium materials and authentic detailing, this Majorette Premium Cars Evoque model is a collector’s favorite. Perfect for car enthusiasts and toy car collections, it combines durability, realism, and the iconic elegance of Range Rover engineering.
-  Updated: 2026-01-09T06:35:08Z
+  Updated: 2026-01-24T23:49:10Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10280,25 +10280,25 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f84f5638-2cbb-4da8-b32c-b0091d12b482.jpg?v=1762326014
   Price: ₹399.00 INR
 - [Majorette Bugatti Chiron Pur Sport Diecast Car](https://theworldofnerds.com/products/majorette-bugatti-chiron-pur-sport-diecast-car): The Majorette Bugatti Chiron Pur Sport Diecast Car showcases the perfect blend of speed, style, and precision. Finished in striking yellow with authentic detailing, this Majorette Premium Cars edition replicates the legendary Bugatti’s aerodynamic design and racing heritage. A premium collectible for car enthusiasts, this miniature model captures the power and luxury of the real Bugatti Chiron Pur Sport, making it a standout piece in any diecast collection.
-  Updated: 2026-01-12T11:57:02Z
+  Updated: 2026-01-27T15:29:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e1fdbab9-74d3-469f-9843-0cbb27006947.jpg?v=1762326071
   Price: ₹399.00 INR
 - [Majorette Volkswagen ID. Buzz Diecast Van](https://theworldofnerds.com/products/majorette-volkswagen-id-buzz-diecast-van): The Majorette Volkswagen ID. Buzz Diecast Van captures the charm of Volkswagen’s futuristic electric van in a stunning yellow-and-white finish. Part of the Majorette Premium Cars collection, this detailed miniature replicates the design of the real VW ID. Buzz, combining nostalgia with modern innovation. Ideal for collectors and VW enthusiasts, this model showcases premium craftsmanship, realistic detailing, and smooth rolling wheels for display or play.
-  Updated: 2026-01-12T13:07:02Z
+  Updated: 2026-01-24T17:55:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_54013ade-0e0c-4203-8361-82e22336e657.jpg?v=1762326126
   Price: ₹399.00 INR
 - [Majorette Jeep Wrangler 4XE Diecast Model](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-diecast-model): The Majorette Jeep Wrangler 4XE Diecast Model showcases the power and ruggedness of the legendary off-roader in a bold yellow finish. As part of the Majorette Premium Cars collection, this detailed miniature captures the hybrid Jeep Wrangler 4XE design with realistic doors, intricate detailing, and durable construction. Perfect for collectors and Jeep fans, this diecast SUV brings adventure to your display shelf or playtime with authentic style and craftsmanship.
-  Updated: 2026-01-12T12:07:46Z
+  Updated: 2026-01-27T07:10:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8d8fc36f-f100-466d-8296-3102971a5f73.jpg?v=1762326176
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_764af717-e288-45d9-91ba-e66082bc3cc8.jpg?v=1769497809
   Price: ₹399.00 INR
 - [Majorette Alpine A110 R Diecast Model](https://theworldofnerds.com/products/majorette-alpine-a110-r-diecast-model): The Majorette Alpine A110 R Diecast Model captures the essence of French racing elegance with its sleek blue design and precision detailing. Part of the Majorette Premium Cars lineup, this miniature features authentic Alpine styling, aerodynamic curves, and realistic wheels that reflect the spirit of performance. Perfect for collectors and enthusiasts, this Alpine A110 R toy car adds a touch of racing heritage and premium craftsmanship to any diecast car collection.
   Updated: 2026-01-12T11:55:48Z
@@ -10308,7 +10308,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f071f518-ae44-4ee9-a323-60ecf4dfaaf5.jpg?v=1762326269
   Price: ₹399.00 INR
 - [Majorette Mercedes-AMG GT R Diecast Model](https://theworldofnerds.com/products/majorette-mercedes-amg-gt-r-diecast-model): The Majorette Mercedes-AMG GT R Diecast Model brings the power and precision of German engineering to your collection. Finished in a striking orange hue, this Majorette Premium Cars edition captures the aggressive styling, aerodynamic lines, and sporty stance of the real AMG GT R. A must-have for car enthusiasts and collectors, this miniature model showcases exceptional craftsmanship and premium detailing that reflect the performance legacy of Mercedes-AMG.
-  Updated: 2026-01-12T12:11:12Z
+  Updated: 2026-01-25T16:34:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10329,63 +10329,63 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d1b83ee8-3e69-4eb0-a324-bf7b0e52db0a.jpg?v=1762326458
   Price: ₹399.00 INR
 - [Majorette McLaren Senna Diecast Model Car](https://theworldofnerds.com/products/majorette-mclaren-senna-diecast-model-car): The Majorette McLaren Senna Diecast Model Car is a stunning miniature tribute to one of the most iconic hypercars ever built. Crafted with precision, this Majorette Premium Cars edition features a sleek metallic green finish, signature aerodynamic details, and authentic design elements that capture the speed and spirit of the real McLaren Senna. Perfect for collectors and automotive enthusiasts, this model showcases Majorette’s commitment to quality and realism in every detail.
-  Updated: 2026-01-12T12:10:47Z
+  Updated: 2026-01-21T02:58:42Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9cacd2cf-6f5a-4def-87ab-b30efa295de4.jpg?v=1762326556
   Price: ₹399.00 INR
 - [Majorette Ford Mustang Dark Horse Diecast Model Car](https://theworldofnerds.com/products/majorette-ford-mustang-dark-horse-diecast-model-car): The Majorette Ford Mustang Dark Horse Diecast Model Car is a bold representation of American muscle and performance. Part of the Majorette Premium Cars series, this sleek black Ford Mustang Dark Horse miniature captures the essence of raw power and aggressive design. Perfect for collectors and car enthusiasts, this diecast model showcases premium detailing, durable build quality, and authentic styling inspired by the real Mustang Dark Horse.
-  Updated: 2026-01-12T12:05:51Z
+  Updated: 2026-01-23T10:22:52Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b2b75220-0c0f-44f0-bf7e-415941d1df1c.jpg?v=1762326606
   Price: ₹399.00 INR
 - [Majorette Toyota Tacoma TRD Pro Diecast Model Car](https://theworldofnerds.com/products/majorette-toyota-tacoma-trd-pro-diecast-model-car): The Majorette Toyota Tacoma TRD Pro Diecast Model Car captures the rugged spirit of Toyota’s iconic off-road pickup. From the Majorette Premium Cars collection, this detailed white Tacoma TRD Pro miniature truck features authentic design, durable build quality, and realistic wheels. Perfect for collectors and off-road enthusiasts, this diecast model highlights the strength, style, and adventure-ready essence of the real TRD Pro.
-  Updated: 2026-01-12T12:50:51Z
+  Updated: 2026-01-25T08:48:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_68172c71-2bd9-4de3-8c41-94ec3e46fece.jpg?v=1762326807
   Price: ₹399.00 INR
 - [Majorette Land Rover Defender 90 Diecast Model](https://theworldofnerds.com/products/majorette-land-rover-defender-90-diecast-model): The Majorette Land Rover Defender 90 Diecast Model Car is a detailed miniature that embodies the power and prestige of the legendary off-roader. Part of the Majorette Premium Cars lineup, this grey Land Rover Defender 90 features realistic detailing, durable metal construction, and precision wheels. Ideal for collectors and SUV enthusiasts, it captures the rugged elegance and adventure-ready spirit of the Defender 90 in a compact collectible form.
-  Updated: 2026-01-09T15:17:06Z
+  Updated: 2026-01-20T17:44:46Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8d28fff3-4590-4334-a60e-65fc3eb77181.jpg?v=1762326891
   Price: ₹399.00 INR
 - [Majorette Lamborghini Huracan Avio Diecast Car](https://theworldofnerds.com/products/majorette-lamborghini-huracan-avio-diecast-car): Experience the thrill of Italian engineering with the Majorette Lamborghini Huracán Avio Diecast Model Car. This stunning black Huracán Avio features yellow accent details, capturing the bold aeronautical-inspired design of Lamborghini’s special edition supercar. Part of the Majorette Premium Cars collection, it combines durable diecast metal construction with authentic detailing, perfect for collectors and car enthusiasts.
-  Updated: 2026-01-09T06:35:00Z
+  Updated: 2026-01-25T18:38:36Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c7e3463c-0659-4ee5-a16e-ad1b04d3b999.jpg?v=1762326960
   Price: ₹399.00 INR
 - [Majorette Mercedes-AMG A35 4MATIC Diecast Car](https://theworldofnerds.com/products/majorette-mercedes-amg-a35-4matic-diecast-car): Unleash luxury and performance with the Majorette Mercedes-AMG A35 4MATIC Diecast Model Car. This premium red AMG A35 miniature captures the sleek design and sporty elegance of the real Mercedes-Benz. Built with detailed interiors, realistic wheels, and durable diecast metal, it’s part of the Majorette Premium Cars lineup—perfect for collectors and automotive fans.
-  Updated: 2026-01-12T12:11:01Z
+  Updated: 2026-01-25T16:34:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_53e934bf-36fc-4469-8470-a7058f0d26ae.jpg?v=1762327016
   Price: ₹399.00 INR
 - [Majorette Jeep Wrangler 4XE Diecast Diecast Car](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-diecast-diecast-car): Explore adventure with the Majorette Jeep Wrangler 4XE Diecast Model Car. This striking red off-road collectible captures the rugged spirit of the iconic Jeep Wrangler 4XE. Designed with detailed interiors, opening parts, and durable metal build, it’s part of the Majorette Premium Cars series, ideal for collectors and kids alike.
-  Updated: 2026-01-12T12:07:14Z
+  Updated: 2026-01-27T07:11:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_798cd038-75c7-4cf9-a284-44e1fa3bf4f3.jpg?v=1762327086
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ac1ab468-60dc-4663-95d2-055a4429d9e0.jpg?v=1769497878
   Price: ₹399.00 INR
 - [Majorette Nissan Z Racing Car Diecast Model](https://theworldofnerds.com/products/majorette-nissan-z-racing-car-diecast-model): black sports car collectible features red detailing, racing decals, and authentic design from the Majorette Racing Cars series. Perfect for car lovers and collectors, the Nissan Z diecast delivers a bold racing aesthetic with precision craftsmanship and durable build quality.
-  Updated: 2026-01-12T12:14:02Z
+  Updated: 2026-01-25T06:54:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2b3387f8-c70d-4f2d-9ef7-f357b97994a2.jpg?v=1762327154
   Price: ₹399.00 INR
 - [Majorette Chevrolet Corvette 1990 ZR-1 Racing Car](https://theworldofnerds.com/products/majorette-chevrolet-corvette-1990-zr-1-racing-car): Experience racing nostalgia with the Majorette Chevrolet Corvette 1990 ZR-1 Diecast Car. This white racing collectible features authentic detailing, classic red-blue striping, and the bold number 55 design. From the Majorette Racing Cars series, it’s perfect for collectors and enthusiasts who appreciate vintage Chevrolet performance cars and high-quality diecast craftsmanship.
-  Updated: 2026-01-12T11:58:05Z
+  Updated: 2026-01-22T03:32:53Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10399,35 +10399,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_395e4018-27eb-422b-a4bd-c4c83fd02b61.jpg?v=1762327266
   Price: ₹399.00 INR
 - [Majorette Jeep Wrangler 4XE Racing Edition](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-racing-edition): Unleash off-road power with the Majorette Jeep Wrangler 4XE Racing Car, a premium diecast model featuring an eye-catching purple and blue racing livery with number 41 decals. Part of the Majorette Racing Cars series, this miniature captures the rugged style of the hybrid Jeep 4XE with realistic detailing, sturdy wheels, and sporty graphics — perfect for collectors and Jeep enthusiasts who love adventurous designs.
-  Updated: 2026-01-12T12:07:59Z
+  Updated: 2026-01-25T08:48:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b65c2251-37f9-497c-a3b3-126ab0572865.jpg?v=1762327354
   Price: ₹399.00 INR
 - [Majorette Ford F-150 Raptor Racing Edition](https://theworldofnerds.com/products/majorette-ford-f-150-raptor-racing-edition): Experience the thrill of off-road racing with the Majorette Ford F-150 Raptor #7, a stunning diecast model from the Majorette Racing Cars series. Designed in a striking light blue and orange livery, this collectible captures the bold spirit of the legendary Ford F-150 Raptor with realistic detailing, rugged wheels, and sporty graphics. Perfect for collectors, racing fans, and truck enthusiasts who appreciate powerful design and precision craftsmanship.
-  Updated: 2026-01-12T12:05:18Z
+  Updated: 2026-01-26T05:28:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_99113137-d5ee-4b3a-beb9-0aac7b0778e5.jpg?v=1762327409
   Price: ₹399.00 INR
 - [Majorette Lamborghini Countach LP400 Racing Edition Diecast Model](https://theworldofnerds.com/products/majorette-lamborghini-countach-lp400-racing-edition-diecast-model): Unleash classic supercar performance with the Majorette Lamborghini Countach LP400 #6, a stunning diecast from the Majorette Racing Cars series. Featuring a bold red body with white racing stripes and gold wheels, this collectible perfectly recreates the legendary design of the Lamborghini Countach LP400, a true icon of speed and style. Ideal for collectors and car enthusiasts who appreciate detailed craftsmanship and timeless automotive history.
-  Updated: 2026-01-12T12:08:29Z
+  Updated: 2026-01-22T13:56:40Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_72002192-2de1-42bb-9b8d-93c378181783.jpg?v=1762327467
   Price: ₹399.00 INR
 - [Majorette Ford Bronco Wildtrak Diecast Model Car](https://theworldofnerds.com/products/majorette-ford-bronco-wildtrak-diecast-model-car): Take your collection off-road with the Majorette Ford Bronco Wildtrak, a rugged and stylish diecast car built for adventure. Featuring a sleek gray and black design with red racing accents and all-terrain wheels, this collectible captures the true spirit of the Ford Bronco Wildtrak. Perfect for fans of powerful 4x4 vehicles and diecast car collectors alike, this model from the Majorette Racing Cars series combines bold design with detailed craftsmanship.
-  Updated: 2026-01-12T12:03:55Z
+  Updated: 2026-01-24T05:40:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_13baae50-0d7b-4dca-9c8a-233f25e319e4.jpg?v=1762327523
   Price: ₹399.00 INR
 - [Majorette Alfa Romeo Tonale Diecast Model Car](https://theworldofnerds.com/products/majorette-alfa-romeo-tonale-diecast-model-car): Experience Italian style and racing passion with the Majorette Alfa Romeo Tonale, a detailed diecast model celebrating Alfa Romeo’s sporty heritage. Featuring a striking red and black geometric livery with the 110th anniversary emblem, this collectible car from the Majorette Racing Cars series embodies performance and elegance. Perfect for collectors and car enthusiasts, the Alfa Romeo Tonale miniature adds a touch of luxury and racing spirit to any diecast display.
-  Updated: 2026-01-12T11:55:30Z
+  Updated: 2026-01-25T08:56:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10455,14 +10455,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6c3fe00c-efe4-49e5-8216-7c19f64b4907.jpg?v=1762327798
   Price: ₹399.00 INR
 - [Majorette Bugatti Chiron Pur Sport Diecast Car](https://theworldofnerds.com/products/majorette-bugatti-chiron-pur-sport-diecast-car-1): Experience the thrill of speed and precision with the Majorette Bugatti Chiron Pur Sport diecast car. This stunning black racing edition features orange accent wheels and authentic detailing that captures the essence of Bugatti’s performance legacy. Perfect for collectors and supercar fans, this miniature model from the Majorette Racing Cars series embodies power, elegance, and craftsmanship. Display it proudly or add it to your diecast racing collection for a touch of hypercar excellence.
-  Updated: 2026-01-12T11:57:18Z
+  Updated: 2026-01-23T17:32:52Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_eeb30d58-116e-4588-9b67-96a9de9791b8.jpg?v=1762327863
   Price: ₹399.00 INR
 - [Majorette Porsche 911 GT3 RS Pink Pig Edition](https://theworldofnerds.com/products/majorette-porsche-911-gt3-rs-pink-pig-edition): The Majorette Porsche 911 GT3 RS Pink Pig Edition is a collector’s dream for Porsche enthusiasts and diecast fans alike. Featuring the iconic #23 Pink Pig livery, this model captures the racing heritage of Porsche’s legendary GT3 RS. Crafted with precision, it showcases authentic detailing, a sporty rear wing, and premium quality construction. Perfect for collectors, display shelves, or racing-themed collections, this Majorette Porsche Edition brings timeless motorsport design to your miniature car lineup.
-  Updated: 2026-01-12T12:16:24Z
+  Updated: 2026-01-27T10:20:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10476,21 +10476,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_107b13bf-4c34-4f65-bdd1-eb22895b9f4d.jpg?v=1762328028
   Price: ₹399.00 INR
 - [Majorette Porsche 718 Boxster Diecast Car](https://theworldofnerds.com/products/majorette-porsche-718-boxster-diecast-car): The Majorette Porsche 718 Boxster is a beautifully detailed diecast model that captures the elegance and performance of Porsche’s iconic convertible sports car. Part of the Majorette Porsche Edition, this miniature features a sleek green finish, authentic body design, and precision detailing. Ideal for collectors and Porsche enthusiasts, this model showcases the perfect blend of luxury and speed, making it a standout addition to any diecast or model car collection.
-  Updated: 2026-01-12T12:14:30Z
+  Updated: 2026-01-22T03:32:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f12ad048-9eac-48ed-bf9e-ea5c3146da3a.jpg?v=1762328124
   Price: ₹399.00 INR
 - [Majorette Ford Mustang GT Diecast Car – Limited Edition](https://theworldofnerds.com/products/majorette-ford-mustang-gt-diecast-car-limited-edition): The Majorette Ford Mustang GT Limited Edition is a striking diecast model featuring a bold gold finish and authentic detailing that captures the power and style of the legendary muscle car. Part of Majorette’s Series 3 collection, this miniature Ford Mustang GT showcases precision craftsmanship, premium paint, and realistic design — perfect for car enthusiasts and collectors alike. Add this iconic American sports car to your Majorette collection and experience the thrill of Mustang performance in miniature form.
-  Updated: 2026-01-12T12:06:04Z
+  Updated: 2026-01-26T06:14:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f06a6ac-ffee-4771-abea-75c037304cfb.jpg?v=1762328189
   Price: ₹399.00 INR
 - [Majorette Dodge Charger R/T Diecast Car – Limited Edition](https://theworldofnerds.com/products/majorette-dodge-charger-r-t-diecast-car-limited-edition): The Majorette Dodge Charger R/T Limited Edition brings classic American muscle to your collection in a sleek black and gold design. This Series 3 diecast model captures the aggressive styling and vintage power of the legendary Dodge Charger R/T, making it a must-have for collectors and enthusiasts. Featuring detailed graphics, realistic body lines, and premium construction, this Majorette collectible is a perfect showcase of muscle car heritage and craftsmanship.
-  Updated: 2026-01-12T12:01:04Z
+  Updated: 2026-01-27T11:45:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10532,7 +10532,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c81bb089-5637-468d-b745-b9cdf5721a0d.jpg?v=1762335602
   Price: ₹349.00 INR
 - [Hot Wheels ’83 Chevy Silverado – Then and Now Series Diecast Cars](https://theworldofnerds.com/products/hot-wheels-83-chevy-silverado-then-and-now-series-diecast-cars): Experience classic American power with the Hot Wheels ’83 Chevy Silverado from the Then and Now Series. This stunning blue diecast pickup truck features bold chrome rims, realistic detailing, and a sleek lowrider design. A must-have for Hot Wheels collectors and Chevy fans alike, celebrating the timeless style of the 1983 Silverado.
-  Updated: 2026-01-03T23:56:16Z
+  Updated: 2026-01-26T06:36:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10553,7 +10553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_288a9dbe-19d9-4de2-b525-37486c26d24f.jpg?v=1762335958
   Price: ₹549.00 INR
 - [Hot Wheels ’21 Ford Bronco – HW Hot Trucks Diecast](https://theworldofnerds.com/products/hot-wheels-21-ford-bronco-hw-hot-trucks-diecast): Conquer every terrain with the Hot Wheels ’21 Ford Bronco from the HW Hot Trucks series. This rugged black diecast SUV features bold detailing, off-road tires, and authentic Ford graphics. Perfect for collectors and enthusiasts who love adventure-inspired diecast models and realistic 4x4 trucks.
-  Updated: 2025-11-05T12:23:01Z
+  Updated: 2026-01-21T13:16:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10574,17 +10574,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_22c3e51c-0e9f-4f40-9671-6da9627d24a8.jpg?v=1762336193
   Price: ₹549.00 INR
 - [Hot Wheels Bumblebee – Transformers Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-bumblebee-transformers-edition-diecast-car): Bring home cinematic nostalgia with the Hot Wheels Bumblebee from the Transformers x HW Screen Time series. Inspired by the iconic yellow Volkswagen Beetle, this diecast model perfectly captures Bumblebee’s classic look from the Transformers universe. A must-have collectible for movie fans and Hot Wheels enthusiasts alike.
-  Updated: 2025-11-05T15:15:12Z
+  Updated: 2026-01-27T20:03:48Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e089e3cb-f24f-4f46-b2f1-6ee6f0de9c66.jpg?v=1762336372
   Price: ₹549.00 INR
 - [Hot Wheels ’87 Audi Quattro – Factory Fresh Diecast Car](https://theworldofnerds.com/products/hot-wheels-87-audi-quattro-factory-fresh-diecast-car): Experience classic rally heritage with the Hot Wheels ’87 Audi Quattro from the Factory Fresh series. This teal diecast car celebrates the legendary Audi performance icon, featuring detailed body lines, quattro decals, and realistic wheels. A must-have for Audi fans and Hot Wheels collectors who appreciate timeless German engineering.
-  Updated: 2025-12-28T14:19:35Z
+  Updated: 2026-01-21T13:16:07Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e6f576b2-41d3-4aae-b229-5b6468d44482.jpg?v=1762336468
   Price: ₹549.00 INR
 - [Hot Wheels ’90 Acura NSX – HW The 90s Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-90-acura-nsx-hw-the-90s-series-diecast-car): Celebrate 90s performance excellence with the Hot Wheels ’90 Acura NSX from the HW The 90s series. This sleek yellow diecast model pays tribute to the iconic Japanese supercar, combining realistic design, sharp detailing, and collector-grade finish. A perfect addition for JDM enthusiasts and Hot Wheels collectors alike.
@@ -10623,10 +10623,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2ecc4aae-4a8a-4d18-8825-48951f0741cb.jpg?v=1762337191
   Price: ₹549.00 INR
 - [Hot Wheels Land Rover Defender 90 Diecast](https://theworldofnerds.com/products/hot-wheels-land-rover-defender-90-diecast): Experience rugged adventure with the Hot Wheels Land Rover Defender 90 from the Then and Now series. This diecast collectible features a beige body, black off-road wheels, and bold “Defender 68” graphics. Perfect for collectors and off-road enthusiasts, this 1:64 scale model captures the classic durability and timeless design of the legendary Land Rover Defender.
-  Updated: 2025-12-13T10:36:16Z
+  Updated: 2026-01-21T13:16:07Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d82e623f-267b-4b62-b450-cb7499f5a254.jpg?v=1762337265
   Price: ₹399.00 INR
 - [Hot Wheels Ravenger S/T Muscle Mania Diecast](https://theworldofnerds.com/products/hot-wheels-ravenger-s-t-muscle-mania-diecast): Unleash the power of speed with the Hot Wheels Ravenger S/T from the Muscle Mania series. This striking blue diecast model features sleek aerodynamic lines, black racing stripes, and bold detailing for an aggressive muscle car look. A must-have for collectors and Hot Wheels enthusiasts, the Ravenger S/T captures the essence of raw American performance and style.
@@ -10665,10 +10665,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_83f49fb4-eeb7-4f8e-a881-9b1af1e39e26.jpg?v=1762337536
   Price: ₹299.00 INR
 - [Hot Wheels Slide-Burn 2025 HW Drift Edition Diecast car](https://theworldofnerds.com/products/hot-wheels-slide-burn-2025-hw-drift-edition-diecast-car): Unleash the power of drift with the Hot Wheels Slide-Burn 2025, a striking green and black muscle car designed for speed and style. Featuring red-accented wheels and a bold aerodynamic build, this HW Drift car is a collector’s favorite and a must-have for racing enthusiasts. Perfect for showcasing your Hot Wheels collection or high-octane track battles.
-  Updated: 2025-11-05T13:51:20Z
+  Updated: 2026-01-23T07:24:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_385e18a1-3ddd-44b9-8531-2c2b291c710e.jpg?v=1762337608
   Price: ₹299.00 INR
 - [Hot Wheels Custom ’18 Ford Mustang GT 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-custom-18-ford-mustang-gt-2025-edition-diecast-car): Celebrate American muscle with the Hot Wheels Custom ’18 Ford Mustang GT, a bold blue racer with signature white stripes from the Mustang 60th Anniversary series. This diecast car combines raw power and sleek design, making it a must-have for collectors and Ford fans alike. Perfect addition to any Hot Wheels muscle car lineup.
@@ -10707,7 +10707,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_436a20f7-7d60-4fe7-85c8-be849b7b0915.jpg?v=1762338276
   Price: ₹699.00 INR
 - [Hot Wheels Audi 90 Quattro 2025 Diecast Model - Limited Edition](https://theworldofnerds.com/products/hot-wheels-audi-90-quattro-2025-diecast-model-limited-edition): Unleash German engineering power with the Hot Wheels Audi 90 Quattro from the Peak Edition series. This diecast model showcases the classic racing livery with number 25 graphics, aerodynamic detailing, and authentic Quattro styling. A must-have for collectors and racing enthusiasts, it perfectly captures the spirit of Audi’s legendary performance heritage.
-  Updated: 2025-11-05T16:38:49Z
+  Updated: 2026-01-27T10:20:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10728,7 +10728,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fa98f588-d7fa-41dd-9d6c-b484d0b73c6f.jpg?v=1762338590
   Price: ₹499.00 INR
 - [Hot Wheels Mod Mill 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-mod-mill-2025-edition-diecast-car): Unleash raw power and classic speed with the Hot Wheels Mod Mill from the Muscle Mania 2025 series. This bold red open-top hot rod features exposed engine pipes, sleek black wheels, and a dynamic racing stripe design that screams performance. A must-have for collectors and fans of vintage-inspired muscle cars, the Mod Mill combines retro styling with modern Hot Wheels craftsmanship.
-  Updated: 2025-11-05T12:46:37Z
+  Updated: 2026-01-26T18:02:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10777,17 +10777,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5daa4b2d-bcf7-4fd5-bc13-254207fc48f5.jpg?v=1762339099
   Price: ₹599.00 INR
 - [Hot Wheels Porsche 904 Carrera GTS – HW Race Day Series Diecast Cars](https://theworldofnerds.com/products/hot-wheels-porsche-904-carrera-gts-hw-race-day-series-diecast-cars): The Hot Wheels Porsche 904 Carrera GTS from the HW Race Day series showcases a sleek black racing design inspired by classic motorsport heritage. With detailed Porsche branding, racing number #63, and realistic body lines, this diecast model celebrates the spirit of endurance racing. A perfect addition for collectors and Porsche enthusiasts alike, it combines vintage charm with Hot Wheels precision craftsmanship.
-  Updated: 2025-11-05T13:08:13Z
+  Updated: 2026-01-27T20:03:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d0df7dbc-bc6a-4405-9304-0dc7037f78b2.jpg?v=1762339210
   Price: ₹599.00 INR
 - [Hot Wheels Flippin’ Fast – Experimotors Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-flippin-fast-experimotors-series-diecast-car): This Hot Wheels Flippin Fast car is part of the Experimotors series, featuring a striking yellow and red color scheme. The toy car is marked as 2/10 in the collection, showcasing a unique wheel design that stands out. Perfect for collectors and children 3 and up, this Hot Wheels car promises fun and excitement in every spin.
-  Updated: 2025-11-05T14:50:50Z
+  Updated: 2026-01-19T17:11:06Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8c99e53f-ce4f-4f92-9afc-43a0fbf6109e.jpg?v=1762339260
   Price: ₹299.00 INR
 - [Hot Wheels 2025 Futurismo Purple & Green Racer Diecast Car](https://theworldofnerds.com/products/hot-wheels-2025-futurismo-purple-green-racer-diecast-car): The Hot Wheels Futurismo from the HW Race Day series is a sleek, futuristic racer featuring a striking purple and green color scheme with aerodynamic styling. This diecast collectible delivers high-speed vibes with bold racing stripes and a low-profile design perfect for track action. Ideal for Hot Wheels fans and collectors, the Futurismo showcases Hot Wheels’ signature blend of imagination, design, and performance.
@@ -10812,10 +10812,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_036c388d-26ba-4744-986a-b88e0f10741e.jpg?v=1762339793
   Price: ₹599.00 INR
 - [Hot Wheels Monteracer – X-Raycers Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-monteracer-x-raycers-series-diecast-car): The Hot Wheels Monteracer from the X-Raycers series features a sleek transparent green body with bold orange accents and futuristic styling. Designed for speed and style, this diecast car stands out with its semi-clear design and detailed racing aesthetic. Perfect for collectors and Hot Wheels enthusiasts, the Monteracer embodies innovation and high-speed excitement in miniature form.
-  Updated: 2025-11-05T14:27:14Z
+  Updated: 2026-01-19T17:11:06Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e1728f03-7559-49da-8bba-4664860ca792.jpg?v=1762339845
   Price: ₹299.00 INR
 - [Hot Wheels Green King Kuda with Redline Wheels Diecast Car](https://theworldofnerds.com/products/hot-wheels-green-king-kuda-with-redline-wheels-diecast-car): The Hot Wheels King Kuda from the Muscle Mania series is a bold tribute to American muscle power. Featuring a striking green body, redline wheels, and a massive exposed engine, this diecast car embodies speed and strength. Perfect for collectors and muscle car fans, the King Kuda combines vintage styling with modern performance details for a truly iconic addition to any Hot Wheels collection.
@@ -10875,10 +10875,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0bd639e9-8dc8-4ad2-940d-a9ecff2eb996.jpg?v=1762341203
   Price: ₹499.00 INR
 - [Hot Wheels Arrow Dynamic – X-Raycers Series Diecast](https://theworldofnerds.com/products/hot-wheels-arrow-dynamic-x-raycers-series-diecast): The Hot Wheels Arrow Dynamic – X-Raycers Series is a sleek, futuristic race car featuring a transparent red body and bold blue wheels. Designed for speed and style, this diecast racer embodies cutting-edge aerodynamics and Hot Wheels’ signature flair. A standout piece for collectors and racing enthusiasts alike, the Arrow Dynamic delivers performance-inspired design and vibrant detailing.
-  Updated: 2025-11-05T16:04:59Z
+  Updated: 2026-01-26T18:02:20Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_371f2be0-8cc3-4c58-af5d-040bc1379d1b.jpg?v=1762341294
   Price: ₹299.00 INR
 - [Hot Wheels Blitzspeeder – HW Track Champs Series Diecast](https://theworldofnerds.com/products/hot-wheels-blitzspeeder-hw-track-champs-series-diecast): The Hot Wheels Blitzspeeder – HW Track Champs Series features a bold green and purple aerodynamic design built for top track performance. With gold-accented wheels and a futuristic racer body, this collectible diecast car combines speed, precision, and striking looks. Perfect for Hot Wheels fans and collectors, the Blitzspeeder stands out as one of the most dynamic models from the Track Champs lineup.
@@ -10931,10 +10931,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f5907b73-32aa-447b-8f06-87818b9a3189.jpg?v=1762341917
   Price: ₹299.00 INR
 - [Hot Wheels Dune It Up from HW Trail Champs Series Diecast](https://theworldofnerds.com/products/hot-wheels-dune-it-up-from-hw-trail-champs-series-diecast): Take on any terrain with the Hot Wheels Dune It Up, a rugged off-road buggy from the HW Trail Champs series. Designed in striking red with black detailing, roll cage lights, and massive all-terrain tires, this diecast car is built for desert racing and dune domination. A must-have for Hot Wheels collectors and fans of extreme off-road adventures.
-  Updated: 2025-11-05T16:02:43Z
+  Updated: 2026-01-21T13:16:07Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_557d67e9-2ba6-44a4-8cc4-258d5e07e9cc.jpg?v=1762341957
   Price: ₹299.00 INR
 - [Hot Wheels Long Bloc – HW Art Cars 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-long-bloc-hw-art-cars-2025-edition-diecast-car): Unleash creativity with the Hot Wheels Long Bloc, a striking diecast from the HW Art Cars 2025 series. This sleek green car with classic wood panel detailing and a white spoiler blends retro charm with modern edge. Perfect for collectors and design enthusiasts, the Long Bloc celebrates the art of automotive imagination.
@@ -11036,10 +11036,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_663fae9c-ca92-4d94-9912-4f7f318bc7e3.jpg?v=1762342773
   Price: ₹899.00 INR
 - [Hot Wheels Recycle Truck Diecast – Trash Basher](https://theworldofnerds.com/products/hot-wheels-recycle-truck-diecast-trash-basher): Keep the city clean with the Hot Wheels Trash Basher Super Rigs truck! This blue and yellow recycling-themed truck features detailed designs and moving wheels. A great addition for Hot Wheels fans and kids who love eco-friendly vehicles and diecast trucks.
-  Updated: 2025-11-05T14:16:22Z
+  Updated: 2026-01-17T18:44:42Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b19bef10-711a-4990-bb68-95b5bd7489e8.jpg?v=1762342855
   Price: ₹899.00 INR
 - [Hot Wheels Chopper Bike Diecast – Twin Flame](https://theworldofnerds.com/products/hot-wheels-chopper-bike-diecast-twin-flame): Race into action with the Hot Wheels Twin Flame Moto, a stylish green chopper motorcycle. Its futuristic black and neon green design makes it a must-have for collectors and bike enthusiasts. Perfect for display or high-speed Hot Wheels races!
@@ -11127,21 +11127,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9eaf3af6-e1ff-4a55-bfea-aad48a8e2b8f.jpg?v=1762346064
   Price: ₹999.00 INR
 - [Majorette Ford F-150 Raptor & Mustang GT – Ford Performance Team Edition Diecast Car](https://theworldofnerds.com/products/majorette-ford-f-150-raptor-mustang-gt-ford-performance-team-edition-diecast-car): Bring home the excitement of motorsport with the Majorette Racing Transporter Collection, featuring officially licensed die-cast vehicles and trailers inspired by top automotive brands. Each set includes a finely detailed transporter and matching race car, showcasing authentic logos, bold color schemes, and precision design. Perfect for collectors and car lovers alike, these Majorette models highlight brands like Bilstein, Vaillant, Ford Performance, and Nismo, making them a standout addition to any miniature car collection or display.
-  Updated: 2026-01-09T06:34:43Z
+  Updated: 2026-01-24T05:54:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_33508163-8aa0-46fc-aaf4-dbb345f5bcf5.jpg?v=1762346131
   Price: ₹999.00 INR
 - [Majorette Mack Granite & Nissan GT-R Nismo GT3 – Nismo Racing Edition Diecast Car](https://theworldofnerds.com/products/majorette-mack-granite-nissan-gt-r-nismo-gt3-nismo-racing-edition-diecast-car): Bring home the excitement of motorsport with the Majorette Racing Transporter Collection, featuring officially licensed die-cast vehicles and trailers inspired by top automotive brands. Each set includes a finely detailed transporter and matching race car, showcasing authentic logos, bold color schemes, and precision design. Perfect for collectors and car lovers alike, these Majorette models highlight brands like Bilstein, Vaillant, Ford Performance, and Nismo, making them a standout addition to any miniature car collection or display.
-  Updated: 2026-01-09T06:34:41Z
+  Updated: 2026-01-22T21:09:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3f673c5f-95e3-47a9-b4b0-b816bfc5a4b1.jpg?v=1762346192
   Price: ₹999.00 INR
 - [Majorette Volkswagen Golf MK1 Diecast Model Car](https://theworldofnerds.com/products/majorette-volkswagen-golf-mk1-diecast-model-car): Bring home the charm of classic Volkswagen vehicles with the Majorette Volkswagen Diecast Collection. Each officially licensed model features detailed designs, authentic paintwork, and premium build quality — perfect for collectors and car enthusiasts. Whether it’s the iconic Beetle, the adventurous T1 Bus, or the sporty Golf MK1, these miniature cars capture the timeless spirit of Volkswagen. Ideal for display or gifting, they’re a must-have addition to any diecast car collection.
-  Updated: 2026-01-12T13:06:06Z
+  Updated: 2026-01-18T12:05:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11204,28 +11204,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_519a2292-de3e-493a-a412-f5ba3b8513be.jpg?v=1762347037
   Price: ₹899.00 INR
 - [Majorette 1955 Chevrolet Bel Air – Classic American Icon Miniature Diecast Car](https://theworldofnerds.com/products/majorette-1955-chevrolet-bel-air-classic-american-icon-miniature-diecast-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-01-12T11:52:07Z
+  Updated: 2026-01-25T08:48:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0d2cbf3a-4479-4321-bf6a-a931396db0af.jpg?v=1762347149
   Price: ₹899.00 INR
 - [Majorette 1965 Shelby GT350 – Collector’s Edition Diecast Muscle Car](https://theworldofnerds.com/products/majorette-1965-shelby-gt350-collector-s-edition-diecast-muscle-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-01-12T11:52:34Z
+  Updated: 2026-01-22T03:32:53Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_19973d1e-ed13-4df7-bc0e-6732d7fb1bfb.jpg?v=1762347216
   Price: ₹899.00 INR
 - [Majorette 1975 Porsche 930 Turbo – Vintage German Sports Diecast Car Model](https://theworldofnerds.com/products/majorette-1975-porsche-930-turbo-vintage-german-sports-diecast-car-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-01-12T11:52:48Z
+  Updated: 2026-01-17T18:12:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_862c8731-7386-4462-9284-940b31b66e50.jpg?v=1762347275
   Price: ₹899.00 INR
 - [Majorette 1985 Chevrolet Camaro – Retro Blue Collector Diecast Car](https://theworldofnerds.com/products/majorette-1985-chevrolet-camaro-retro-blue-collector-diecast-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-01-12T11:53:01Z
+  Updated: 2026-01-21T09:41:52Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11274,24 +11274,24 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_204090d2-e6c6-41da-9968-b4feac484821.jpg?v=1762497030
   Price: ₹399.00 INR
 - [Majorette Porsche 911 Carrera S Diecast Car – Metallic Green Edition](https://theworldofnerds.com/products/majorette-porsche-911-carrera-s-diecast-car-metallic-green-edition): This Majorette Porsche 911 Carrera S in metallic green is a stunning diecast collectible inspired by Porsche’s timeless sports car design. With realistic detailing, signature wheels, and authentic branding, this miniature masterpiece is ideal for collectors who appreciate precision and style. A perfect addition to any Porsche or diecast car collection.
-  Updated: 2026-01-12T12:15:44Z
+  Updated: 2026-01-23T15:29:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96dce933-6a1b-4ff5-b810-d01156d5a6a7.jpg?v=1762497085
   Price: ₹399.00 INR
 - [Majorette Porsche 917 Diecast Car – Blue Racing Edition](https://theworldofnerds.com/products/majorette-porsche-917-diecast-car-blue-racing-edition): The Majorette Porsche 917 in blue racing colors brings the spirit of Le Mans to your collection. With its detailed #17 design, opening rear engine cover, and realistic build, this diecast model pays homage to Porsche’s iconic endurance racer. A must-have for collectors who appreciate precision, history, and the excitement of classic motorsport.
-  Updated: 2026-01-12T12:16:36Z
+  Updated: 2026-01-24T05:40:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96aa7711-8719-4093-9d4a-9ee8b44b29d2.jpg?v=1762497159
   Price: ₹399.00 INR
 - [Volvo FMX Truck with Loader Diecast Model](https://theworldofnerds.com/products/volvo-fmx-truck-with-loader-diecast-model): Bring the power of construction to your collection with the Majorette Volvo Construction Series. Each model features authentic Volvo FMX truck detailing, durable diecast construction, and realistic accessories that capture the essence of heavy-duty machinery. Perfect for collectors, truck enthusiasts, and kids who love construction vehicles, these models combine quality, realism, and play value in one dynamic set.
-  Updated: 2026-01-12T13:22:48Z
+  Updated: 2026-01-28T02:45:09Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_83920bec-c843-40f4-91c4-7236b0f0be86.jpg?v=1762497236
   Price: ₹749.00 INR
 - [Majorette Volvo FMX Construction Container Truck Diecast](https://theworldofnerds.com/products/majorette-volvo-fmx-construction-container-truck-diecast): Bring the power of construction to your collection with the Majorette Volvo Construction Series. Each model features authentic Volvo FMX truck detailing, durable diecast construction, and realistic accessories that capture the essence of heavy-duty machinery. Perfect for collectors, truck enthusiasts, and kids who love construction vehicles, these models combine quality, realism, and play value in one dynamic set.
@@ -11330,7 +11330,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_527b5bf7-6362-4781-9906-e35330aa0fda.jpg?v=1762497676
   Price: ₹199.00 INR
 - [Majorette Street Cars – White Off-Road SUV Diecast](https://theworldofnerds.com/products/majorette-street-cars-white-off-road-suv-diecast): A studio shot of a white die-cast SUV toy car, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
-  Updated: 2026-01-12T12:42:57Z
+  Updated: 2026-01-25T11:34:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11358,24 +11358,24 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_42106ef1-8390-48ed-a49b-fad5e3294503.jpg?v=1762498297
   Price: ₹199.00 INR
 - [Majorette Street Cars Red Convertible Toy Car in Blister Pack](https://theworldofnerds.com/products/majorette-street-cars-red-convertible-toy-car-in-blister-pack): A studio shot of a red die-cast convertible sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up
-  Updated: 2026-01-12T12:40:20Z
+  Updated: 2026-01-27T13:56:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9b5263c3-d537-4a42-8061-bbc7f3c0a7fb.jpg?v=1762498460
   Price: ₹199.00 INR
 - [Majorette Yellow Sports Car Diecast Model in Blister Pack](https://theworldofnerds.com/products/majorette-yellow-sports-car-diecast-model-in-blister-pack): Experience the thrill of racing with this Majorette yellow diecast car from the Speed Series collection. Designed with precision detailing, black racing stripes, and a sporty finish, it’s perfect for both young car lovers and  collectors. Packaged securely in a display-ready blister pack, this miniature vehicle combines style, durability, and the signature Majorette craftsmanship.
-  Updated: 2026-01-12T13:22:04Z
+  Updated: 2026-01-27T13:56:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d1d161e4-ca57-4aec-add1-eba726b1eb75.jpg?v=1762498519
   Price: ₹199.00 INR
 - [Limited Edition Majorette Diecast Car – Pink with Green Wheels](https://theworldofnerds.com/products/limited-edition-majorette-diecast-car-pink-with-green-wheels): Discover the rare Majorette 2025 Chase Car, a stunning pink diecast model with bright green wheels and sporty detailing. Part of the Majorette Street Cars collection, this limited-edition release combines bold design with precision craftsmanship. Perfect for collectors and enthusiasts, this eye-catching toy car adds a vibrant touch to any diecast display or racing collection.
-  Updated: 2026-01-12T11:51:29Z
+  Updated: 2026-01-16T05:40:32Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e95c7c08-7e1b-4a0e-9fc7-90161a72fa2a.jpg?v=1762498592
   Price: ₹199.00 INR
 - [Majorette Premium Diecast Vehicle – Yellow Compact Coupe](https://theworldofnerds.com/products/majorette-premium-diecast-vehicle-yellow-compact-coupe): Add a touch of city style to your collection with this Majorette Street Cars yellow hatchback diecast model. Designed with realistic detailing and durable metal construction, this compact car captures the charm of urban driving. Perfect for kids aged 3+ and collectors who appreciate everyday classics, it comes sealed in a vibrant Majorette blister pack for display or gifting.
@@ -11386,7 +11386,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5e9b7346-8be9-4928-8952-776bd84ee1b5.jpg?v=1762498684
   Price: ₹199.00 INR
 - [Majorette Diecast Vehicle – Sleek White Sports Coupe](https://theworldofnerds.com/products/majorette-diecast-vehicle-sleek-white-sports-coupe): This Majorette white sports car from the Street Cars series blends sleek design with authentic detailing, perfect for collectors and kids alike. With its aerodynamic body, stylish rims, and premium finish, this diecast model captures the thrill of modern racing. Ideal for display or play, it comes securely packaged in an eye-catching Majorette blister pack, suitable for ages 3 and up.
-  Updated: 2026-01-12T12:00:50Z
+  Updated: 2026-01-27T13:56:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11477,7 +11477,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/001_96befb36-6aea-4ceb-82c4-dd647c01cd6a.jpg?v=1764762023
   Price: ₹1,103.00 INR
 - [jujutsu Bobblehead Bundle](https://theworldofnerds.com/products/jujutsu-bobblehead): 🔮 Jujutsu Kaisen Chibi Bobblehead Bundle – 2-Piece Sorcerer Set Bring home the power of Jujutsu Kaisen with this adorable 2-Piece Chibi Bobblehead Bundle! Each figure features chibi-style proportions, expressive eyes, high-quality detailing, and a sturdy display base with Japanese text. Perfect for your desk, car dashboard, shelf, or anime collection — these sorcerers deliver maximum cuteness with a touch of cursed energy. ✨ Bundle Includes: Satoru Gojo – Blindfolded Chibi Bobble Edition Yuji Itadori – Jujutsu Student Bobble Edition 🔥 A fun, stylish, and must-have collectible set for every JJK fan — perfect for display, gifting, and anime lovers of all ages!
-  Updated: 2026-01-08T05:08:59Z
+  Updated: 2026-01-14T16:26:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11603,7 +11603,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Pokemonbxox.png?v=1764678423
   Price: ₹1,012.00 INR
 - [Shinchan Bundle](https://theworldofnerds.com/products/shinchan-bundle): 😂 Shinchan Funny Pose Figure Bundle – 6-Piece Collectible Set Bring home the humor of Crayon Shin-chan with this 6-Piece Shinchan Funny Pose Figure Bundle! Each figure captures Shinchan’s iconic mischievous expressions and hilarious poses from the anime. Made with high-quality materials, smooth detailing, and vibrant colors, these mini figures are perfect for desks, shelves, car dashboards, and gifting. ✨ Bundle Includes: Shinchan – Big Ear Pose Shinchan – Innocent Standing Pose Shinchan – Cheeky Bum Pose Shinchan – Reading Book Pose Shinchan – Funny Stretch Face Pose Shinchan – Puffed Cheeks Whistle Pose 🔥 A super-funny, adorable, and must-have collectible set for every Shinchan fan —  to bring smiles and nostalgia!
-  Updated: 2026-01-09T05:55:55Z
+  Updated: 2026-01-22T09:39:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -11673,7 +11673,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f53471cb-b0c1-45fc-884d-badb59d38851.jpg?v=1765535584
   Price: ₹839.00 INR
 - [ZD Toys Thanos Action Figure – 4 Inch Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/zd-toys-thanos-action-figure-12-cm-marvel-infinity-saga-collectible): The ZD Toys 4 Inch Thanos action figure features detailed sculpting, metallic armor accents, and screen-inspired colors from the Infinity Saga. Designed for Marvel collectors, this figure includes a sturdy display base and premium window-box packaging, making it ideal for showcasing, gifting, or completing your villain lineup. Features ZD Toys premium Thanos figure 4 Inch collectible size Detailed gold armor & purple skin sculpt Includes display stand (and  variant if applicable) Durable build quality Comes in a collector window box
-  Updated: 2025-12-31T07:11:00Z
+  Updated: 2026-01-23T15:22:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11946,7 +11946,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/zd-toys-avengers-age-of-ultron-iron-man-mark-xliii-43-action-figure-no-light-up-function-9469815.webp?v=1766037634
   Price: ₹3,999.00 INR
 - [Iron Spider – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-spider-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Spider figure features the iconic red, gold, and blue suit with metallic detailing inspired by the Avengers films. Designed with clean sculpting and a durable build, this collectible captures the advanced Iron Spider armor and delivers a bold display presence for Marvel fans and Spider-Man collectors. Highlights• ZD Toys Iron Spider collectible figure• Red, gold & blue armor-style suit design• Detailed sculpting with metallic finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2026-01-02T15:20:06Z
+  Updated: 2026-01-20T11:48:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -12030,10 +12030,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2bd51dca-8a88-4841-8db5-a26575ea7b31.jpg?v=1767955799
   Price: ₹285.00 INR
 - [Batman – D2 Collectible Figure](https://theworldofnerds.com/products/batman-d2-collectible-figure): Bring the Dark Knight to your display with the Batman D2 Collectible Figure. Designed in a compact chibi-style form, this figure captures Batman’s intense expression, iconic cowl, and armored suit in a sleek matte-black finish. Perfect for desks, shelves, or display stands, it’s a must-have piece for DC fans and collectors who love minimal yet powerful designs. Highlights Chibi-style Batman D2 collectible figure Iconic black suit with detailed armor texture Expressive face design with sharp eye detailing Compact size – ideal for desk, shelf, or showcase Premium finish with sturdy build quality Perfect for DC fans, Batman lovers & collectors Great gifting option for superhero enthusiasts
-  Updated: 2026-01-09T10:58:13Z
+  Updated: 2026-01-25T20:15:05Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6d18ecf5-f7dd-4473-9034-e90ed930d519.jpg?v=1767955996
   Price: ₹349.00 INR
 - [Pokémon Scarlet and Violet – Pokémon  Cards Game PK98 (Blue)](https://theworldofnerds.com/products/pokemon-scarlet-and-violet-pokemon--cards-game-pk98-blue): Boost your Pokémon card collection with the Blue – Scarlet & Violet Pokémon  Cards Game PK98. Inspired by the Scarlet & Violet era, this blue-themed pack features vibrant artwork, popular Pokémon characters, and exciting card designs. Ideal for collectors, kids, and fans who enjoy , collecting, and casual gameplay. Highlights Scarlet & Violet–inspired Pokémon  cards Blue edition (PK98) with eye-catching designs Includes a mix of Pokémon & action-style cards Perfect for collecting, , and fun play Suitable for kids, beginners & Pokémon fans Great gift option for Pokémon card lovers
@@ -12260,14 +12260,987 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/6_d35a0357-c715-4d1e-a65c-fb8844943eb1.jpg?v=1768197556
   Price: ₹1,499.00 INR
+- [Sasuke’s Kusanagi White Wooden Katana](https://theworldofnerds.com/products/sasuke-s-kusanagi-white-wooden-katana-anime-replica-training-sword-with-sheath): Strike in style with Sasuke’s iconic Kusanagi White Wooden Katana, a sleek collectible inspired by the legendary  from the Naruto anime universe. Featuring the bold Uchiha clan crest and clean black line accents, this sword blends minimalist elegance with true fandom energy. Lightweight, durable, and perfectly sized for cosplay events, room décor, photography, and collector displays, it delivers the visual impact of a katana without the weight or risk of a metal blade. A must-have for Naruto collectors and cosplayers looking to complete their setup with authenticity. Specifications ✔ Material: Premium Wood ✔ Length: ~104 cm (approx.) ✔ Weight: Lightweight for cosplay handling ✔ Type: Decorative / Cosplay / Display ✔ Finish: Gloss White Lacquer + Clan Marking ✔ Blade: Non-Sharp (Event-Safe & Display-Safe)
+  Updated: 2026-01-20T18:23:24Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/SDILYURT8904Y84-scaled.jpg?v=1768311883
+  Price: ₹1,999.00 INR
+- [TSUGIKUNI YORIICHI-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tsugikuni-yoriichi-nichirin-wooden-katana): Inspired by the legendary swordsman Yoriichi Tsugikuni, this Nichirin wooden katana captures the iconic red flame blade and elegant golden hilt that symbolize the origin of Sun Breathing. Designed for collectors, anime fans, and cosplayers, it delivers a premium visual presence without the danger of metal. The glossy black sheath, flame-detailed blade, and golden details make it a standout display piece for any Demon Slayer collection. Perfect for room décor, cosplay shoots, conven tion appearances, and gifting to true fans of the series. Lightweight, durable, and visually accurate — this katana brings the Demon Slayer world to life in your hands. SPECIFICATIONS Material: Premium Painted WoodBlade Style: Red & Black Flame PatternHandle Wrap: Gold Fabric GripGuard (Tsuba): Matte Black + Gold AccentSheath (Saya): Gloss Black with Gold End CapLength: ~102cm (varies 1–2cm) (APPROX)Weight: Lightweight (Cosplay & Display Friendly)Usage: Collectible • Display • CosplaySafety: Non-sharp, non-metal, convention-safeSeries: Demon Slayer / Kimetsu no Yaiba
+  Updated: 2026-01-20T17:31:27Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_d8c732cb-66ef-4821-ab0c-2c02948435c7.jpg?v=1768815312
+  Price: ₹1,999.00 INR
+- [Kyojuro Rengoku Nichirin Wooden Katana](https://theworldofnerds.com/products/kyojuro-rengoku-nichirin-wooden-katana-demon-slayer-sword): Unleash the spirit of the Flame Hashira with Kyojuro Rengoku’s Flame Nichirin Katana, recreated in a lightweight wooden cosplay and display format. Designed for anime fans, collectors, and cosplayers, this full-length replica features vivid flame detailing and Rengoku’s signature tsuba style — all without sharp metal edges. Perfect for cosplay conventions, photoshoots, anime room decor, and collector setups, this replica offers accuracy, safety, and visual impact in one collectible piece. Specifications Version: Full-Length / Cosplay & DisplayBlade Material: wood (printed flame finish)Handle: Plastic w/ wrapped-style textureScabbard: High-quality plastic Approximate Dimensions: ✔ Total Length: ~104 cm / 40.9 in✔ Blade Length: ~70.5 cm / 27.75 in✔ Handle Length: ~27 cm / 10.62 in✔ Scabbard Length: ~75 cm / 29.5 in
+  Updated: 2026-01-20T17:29:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_a6e007b6-ee14-45d2-b567-013a9d808c76.jpg?v=1768814585
+  Price: ₹1,999.00 INR
+- [ZORO RORONOA-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/zoro-roronoa-nichirin-wooden-katana): Unleash the spirit of the legendary swordsman with the Zoro Roronoa Wooden Katana, crafted for collectors, cosplay enthusiasts, and anime fans who value accuracy and craftsmanship. This cosplay edition is made from premium lightweight bamboo, paired with a glossy black scabbard and gold metallic accents for a sleek, screen-inspired aesthetic. Whether you’re preparing for cosplay conventions, studio photography, décor setups, or expanding your anime weapons collection, this katana delivers visual impact without sharp metal edges — making it safe, stylish, and convention-friendly. Specifications Suggested structure once you share: ✔ Version: Full-Length / Display & Cosplay✔ Blade Material: Bamboo✔ Scabbard: Gloss Black with Gold Accents✔ Handle: Wrapped-style design✔ Safety: Non-metal • Non-sharp • Cosplay-safe
+  Updated: 2026-01-20T17:33:35Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4b0d2202-40e1-45d1-af3a-61ff462f8a68.jpg?v=1768816235
+  Price: ₹1,999.00 INR
+- [Zenitsu Agatsuma Nichirin Wooden Katana](https://theworldofnerds.com/products/zenitsu-agatsuma-nichirin-wooden-katana): Harness the thunder of the Demon Slayer Corps with Zenitsu Agatsuma’s Nichirin Katana, reimagined as a lightweight wooden cosplay and display sword. Built for anime fans, collectors, and cosplayers, this replica combines screen-accurate colors with safe, convention-friendly materials — making it ideal for everyday handling, photoshoots, and anime room decor.Specifications Version: Full-Length / Cosplay & DisplayBlade Material: Bamboo (printed lightning pattern)Handle: High-quality plastic w/ wrap textureScabbard: High-quality plastic Dimensions: ✔ Total Length: 106 cm / 40.9 in (approx.)✔ Blade Length: 70.5 cm / 27.75 in (approx.) ✔ Handle Length: 27 cm / 10.62 in (approx.)✔ Scabbard Length: 75 cm / 29.5 in (approx.)
+  Updated: 2026-01-20T17:27:05Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_b67bc4c6-fdff-4e71-822a-9033884a78ec.jpg?v=1768814435
+  Price: ₹1,999.00 INR
+- [ZORO SANDAI KITETSU WOODEN KATANA](https://theworldofnerds.com/products/zoro-sandai-kitetsu-wooden-katana): Styled after the cursed blade Sandai Kitetsu, this katana replica showcases its signature deep red handle wrap, gold fittings, and dark blade finish. The distinctive cross-shaped tsuba and serrated blade motif make it instantly recognizable to One Piece fans, while its lightweight build keeps it safe for display and cosplay. Perfect for collectors who want the intimidating aura of Kitetsu without the hazards of real steel, this wooden cosplay version is event-safe, convention-friendly, and ideal for photography, décor, and shelf display. Specifications ✔ Blade Material: Bamboo (Cosplay-safe)✔ Scabbard Material: Hard Plastic✔ Handle Wrap: Fabric Ito + Decorative Underlayer✔ Guard (Tsuba): Plastic with Metallic Finish Dimensions (Approx.): ✔ Total Length (with scabbard): (104) APPROX✔ Blade Length: ~26 in✔ Handle Length: ~10.5–11 in
+  Updated: 2026-01-20T17:40:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_c701b275-fb95-4431-acfd-530119dc7f90.jpg?v=1768816888
+  Price: ₹1,999.00 INR
+- [ZORO PURPLE ENMA WOODEN KATANA](https://theworldofnerds.com/products/zoro-purple-enma-wooden-katana): Channel the power of Roronoa Zoro’s Enma with this beautifully crafted wooden katana — one of the most iconic swords in One Piece. Finished with a vibrant purple lacquered scabbard, golden fittings, and elegant sakura-style detailing, this collectible stands out instantly in any sword lineup or cosplay build. The blade features Enma’s signature wave pattern and dark spine coloration, making it a fan-favorite choice for cosplayers, collectors, photographers, and display enthusiasts. Lightweight, non-sharp, and convention-friendly, it captures the look of Enma without the risk of real steel. Specifications ✔ Character: Zoro – Enma (One Piece)✔ Material: High-grade wood✔ Scabbard: Hard plastic w/ lacquer finish✔ Handle Wrapping: Cloth braid (Ito style)✔ Blade Color: Blue wave pattern + black spine✔ Length: ~41 in (approx.)✔ Weight: Lightweight for cosplay & posing✔ Use Case: Cosplay / Display / Photoshoot / Collection✔ Age Suitability: 14+
+  Updated: 2026-01-20T17:41:46Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_df8c951c-0396-4b9b-b94c-aeec69a7f510.jpg?v=1768817309
+  Price: ₹1,999.00 INR
+- [KOUZUKI ODEN WOODEN KATANA](https://theworldofnerds.com/products/kouzuki-oden-wooden-katana): Step into the legacy of Kozuki Oden with this vibrant wooden katana inspired by the legendary swordsman of Wano. Featuring a striking white scabbard with purple braid & tassels, golden accents, and Oden’s recognizable color scheme, this piece instantly elevates any One Piece cosplay or collection. The blade showcases a distinct flame-style red pattern, reflecting Oden’s fierce combat presence and iconic style. Specifications Character: Kozuki Oden (One Piece) Material: Wood (high-grade) Scabbard: Plastic with lacquer finish Blade Styling: Flame edge pattern (red + silver) Handle Wrapping: Cloth braid (purple) Overall Length: ~41 inch (approx.) Weight: Lightweight for fast handling Display Use: Shelf, cosplay, décor, showcase Recommended Age: 14+
+  Updated: 2026-01-19T13:33:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cae7cdcb-b38b-4bab-855c-8f9d1a0e3216.jpg?v=1768817409
+  Price: ₹1,999.00 INR
+- [ZORO SHUSUI SWORD WOODEN KATANA](https://theworldofnerds.com/products/zoro-shusui-sword-wooden-katana): Honor the legacy of Roronoa Zoro’s Shusui, the legendary national treasure of Wano from One Piece. This wooden sword replica captures the katana’s bold and unmistakable aesthetic, featuring a dark lacquered scabbard, sakura-style purple detailing, and the iconic red scalloped blade pattern that fans instantly recognize. Lightweight, durable, and safe for events, this replica is perfect for cosplay conventions, anime room décor, wall displays, photography setups, and collector showcases, without the risk or regulations of a metal blade. A must-have treasure for One Piece fans and display collectors. ✔ Material: Premium wood ✔ Length: ~104 cm (approx.) ✔ Weight: Lightweight for cosplay handling ✔ Type: Decorative / Cosplay / Display ✔ Finish: Gloss-white lacquer with clan marking ✔ Blade: Non-sharp (safe for display & events)
+  Updated: 2026-01-20T18:10:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_ae127ae0-0954-43e0-ba97-2e1632bac10c.jpg?v=1768820331
+  Price: ₹1,999.00 INR
+- [KOKUSHIBO WOODEN KATANA](https://theworldofnerds.com/products/kokushibo-wooden-katana): Strike the perfect balance between elegance and eerie mystery with the Kokushibo Wooden Katana, inspired by one of the most visually unique swords in modern anime. Featuring a bold pink scabbard, purple fittings, and the signature multi-eye motif, this replica instantly stands out in any cosplay setup or  wall display. Crafted with lightweight materials for comfort and event safety, this katana is ideal for cosplay conventions, photoshoots, room décor, reenactments, and collector showcases—delivering striking detail without the risks or restrictions of a metal blade. Whether you're completing a cosplay or expanding your  display, this piece is built to impress. Specifications ✔ Blade Material: Wood ✔ Scabbard Material: Hard Plastic ✔ Handle Wrap: Fabric + Synthetic Grip ✔ Total Length: Approx. 38–41 inches (≈104 cm) ✔ Weight: Lightweight for easy cosplay use
+  Updated: 2026-01-20T18:21:06Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_42657cf3-b54e-4282-96ff-049a206e3eef.jpg?v=1768820482
+  Price: ₹1,999.00 INR
+- [SANEMI SHINAZUGAWA-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/sanemi-shinazugawa-nichirin-wooden-katana): Unleash the Wind Hashira’s spirit with the Sanemi Shinazugawa Nichirin Wooden Katana, a vibrant collectible inspired by one of the most striking swords in modern anime. With its signature green wave-patterned blade, star-shaped guard, and thunder-style gold scabbard details, this piece instantly commands attention in any cosplay setup or display wall. Crafted for cosplay events, photoshoots, décor, and collector showcases, this wooden replica delivers the visual impact of a Nichirin blade without the safety concerns or regulations of metal props. Lightweight, durable, and con-friendly — perfect for posing, swinging, and styling. Specifications ✔ Character: Sanemi Shinazugawa — Wind Hashira✔ Blade Material: Wood✔ Scabbard Material: Hard Plastic✔ Handle Wrap: Fabric + Synthetic Grip✔ Overall Length: Approx. 38–41 inches / 104 cm✔ Weight: Lightweight for cosplay handling✔ Purpose: Cosplay / Display / Décor / Photo Props✔ Blade Edge: Non-sharp (Event & Con Safe)
+  Updated: 2026-01-20T19:58:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_e2b181aa-ff27-4129-a7e0-0ad712c38aac.jpg?v=1768890387
+  Price: ₹1,999.00 INR
+- [Toyota GR Supra - Yellow - CCA](https://theworldofnerds.com/products/yellow-toyota-gr-supra-cca): Toyota GR Supra 1:64 die-cast, Supra model car, premium collectible sports car, CCA die-cast model, GR Supra scale car, desk display toy car, collector sports car die-cast, premium series Supra model, Toyota GR model toy.Key FeaturesVehicle Model: Toyota GR SupraScale: 1:64Color: YellowBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T21:56:05Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b86d998d-7aa1-44b9-86d1-aa8f7e725c29.jpg?v=1769151567
+  Price: ₹599.00 INR
+- [Toyota GR Supra White CCA](https://theworldofnerds.com/products/white-toyota-gr-supra-cca): Toyota GR Supra 1:64 die-cast, white Supra model car, premium collectible sports car, CCA Supra miniature, GR Supra scale model, desk display toy car, collector die-cast sports car, premium series Toyota model.Key FeaturesVehicle Model: Toyota GR SupraScale: 1:64Colour: WhiteBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:04:04Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7cd177ef-bbdf-415b-8069-19f940d89931.jpg?v=1769159874
+  Price: ₹599.00 INR
+- [Ford Mustang GT350 -- Grey -- CCA](https://theworldofnerds.com/products/grey-ford-mustang-gt350-cca): Ford Mustang GT350 1:64 die-cast, grey Mustang model car, premium collectible muscle car, CCA Mustang miniature, GT350 scale die-cast, desk display sports car model, collector muscle car die-cast, premium series Ford model.Key FeaturesVehicle Model: Ford Mustang GT350Scale: 1:64Colour: GreyBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:05:12Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3333cd2f-3d3b-43cc-9082-9c21078ec866.jpg?v=1769160190
+  Price: ₹599.00 INR
+- [Ford Mustang GT350 -- Orange -- CCA](https://theworldofnerds.com/products/orange-ford-mustang-gt350-cca): Ford Mustang GT350 1:64 die-cast, orange Mustang model car, premium collectible muscle car, CCA Mustang miniature, GT350 scale die-cast, desk display sports car model, collector muscle car die-cast, premium series Ford model,Key FeaturesVehicle Model: Ford Mustang GT350Scale: 1:64Colour: OrangeBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:55:04Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a1b2057a-1651-4290-a21f-523ae13eeaef.jpg?v=1769162690
+  Price: ₹599.00 INR
+- [Lamborghini SVJ -- Black -- CCA](https://theworldofnerds.com/products/black-lamborghini-svj-cca): Lamborghini SVJ 1:64 die-cast, black SVJ model car, premium collectible hypercar, CCA Lamborghini miniature, SVJ scale die-cast, desk display hypercar model, collector die-cast supercar, premium series Lamborghini, 1:64 SVJ die-cast modelKey FeaturesVehicle Model: Lamborghini SVJScale: 1:64Colour: BlackBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:54:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f69f6df7-f42d-42ae-b1a7-7aa9bb5c3e37.jpg?v=1769163176
+  Price: ₹599.00 INR
+- [Lamborghini SVJ -- Yellow -- CCA](https://theworldofnerds.com/products/yellow-lamborghini-svj-cca): Lamborghini SVJ 1:64 die-cast, yellow SVJ model car, premium collectible hypercar, CCA Lamborghini miniature, SVJ scale die-cast model, desk display hypercar, collector die-cast supercar, premium series Lamborghini model.Key FeaturesVehicle Model: Lamborghini SVJScale: 1:64Color: YellowBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:53:35Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5f9eb962-4257-4de2-9e09-a648f56413a7.jpg?v=1769163240
+  Price: ₹599.00 INR
+- [Maroon Bentley Flying Spur Hybrid – CCA](https://theworldofnerds.com/products/maroon-bentley-flying-spur-hybrid-cca): Bentley Flying Spur die-cast model, 1:70 luxury sedan toy car, maroon Bentley miniature, CCA die-cast Bentley, Flying Spur hybrid scale model, collector luxury car die-cast, premium series Bentley model, desk display luxury sedanKey FeaturesVehicle Model: Bentley Flying Spur HybridScale: 1:70Color: MaroonBrand: CCASeries: Premium Series
+  Updated: 2026-01-23T10:18:38Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a5dae234-6c69-4582-80bf-160ac39f0215.jpg?v=1769163478
+  Price: ₹599.00 INR
+- [Bentley Flying Spur Hybrid -- Green -- CCA](https://theworldofnerds.com/products/green-bentley-flying-spur-hybrid-cca): Bentley Flying Spur die-cast model, 1:70 luxury sedan miniature, green Bentley scale car, CCA Bentley toy model, Flying Spur hybrid die-cast, collector luxury sedan model, premium series Bentley scale car, desktop display luxury car.Key FeaturesVehicle Model: Bentley Flying Spur HybridScale: 1:70Color: GreenBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:52:48Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_616e57dd-53bf-4ea0-9089-35707155c5bc.jpg?v=1769163531
+  Price: ₹599.00 INR
+- [KAWASAKI NINJA H2R - CCA](https://theworldofnerds.com/products/1-64-kawasaki-ninja-h2r-cca): Kawasaki Ninja H2R die-cast bike, black Kawasaki Ninja H2R model motorcycle with green accents, premium collectible sports bike, CCA Ninja H2R miniature, die-cast superbike model, desk display sports motorcycle, collector sports motorcycle die-cast, CCA Premium Series Kawasaki model. Key FeaturesVehicle Model: Kawasaki Ninja H2RScale: 1:64Colour: Black with Green accentsBrand: CCASeries: Premium Series
+  Updated: 2026-01-23T22:36:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a32abda2-8d0e-4d2d-aa0e-8bd7b762d36d.jpg?v=1769163426
+  Price: ₹1,699.00 INR
+- [Lamborghini STO -- Sky Blue -- CCA](https://theworldofnerds.com/products/sky-blue-lamborghini-sto-cca): Lamborghini STO 1:64 die-cast, sky blue STO model car, premium collectible hypercar, CCA Lamborghini miniature, STO scale die-cast model, collector die-cast supercar, premium series Lamborghini model, desk display hypercar. Key FeaturesVehicle Model: Lamborghini STOScale: 1:64Color: Sky BlueBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:51:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_32c4b39b-79d5-444f-9912-401da2ad3bf1.jpg?v=1769163696
+  Price: ₹599.00 INR
+- [BMW M85I -- Green -- CCA](https://theworldofnerds.com/products/1-64-green-bmw-m85i-cca): BMW M850i die-cast car, green BMW M850i model car, premium collectible luxury sports car, CCA BMW M850i miniature, die-cast BMW model, desk display sports car model, collector BMW die-cast car, CCA Premium Series BMW model. Key FeaturesVehicle Model: BMW M850iScale: 1:64Colour: GreenBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:50:22Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8b82c501-f7c8-4677-8e32-6be20b0f1af1.jpg?v=1769163754
+  Price: ₹599.00 INR
+- [BMW M85I -- Orange -- CCA](https://theworldofnerds.com/products/1-64-orange-bmw-m85i-cca): BMW M850i die-cast car, orange BMW M850i model car, premium collectible luxury sports car, CCA BMW M850i miniature, die-cast BMW model, desk display sports car model, collector BMW die-cast car, CCA Premium Series BMW model. Key FeaturesVehicle Model: BMW M850iScale: 1:64Colour: OrangeBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:47:54Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e89e6210-3a5d-4848-8cd1-ddad57baf613.jpg?v=1769164020
+  Price: ₹599.00 INR
+- [Lamborghini STO -- Green -- CCA](https://theworldofnerds.com/products/green-lamborghini-sto-cca): Lamborghini STO 1:64 die-cast, green STO model car, premium collectable hypercar, CCA Lamborghini miniature, STO scale die-cast model, collector die-cast supercar, premium series Lamborghini model, desk display hypercar.Key FeaturesVehicle Model: Lamborghini STOScale: 1:64Colour: GreenBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:47:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_09e5ceff-ca1b-49a7-9ab8-8c1dfa568725.jpg?v=1769164033
+  Price: ₹599.00 INR
+- [Pagani Utopia -- Silver -- CCA](https://theworldofnerds.com/products/silver-pagani-utopia-cca): Pagani Utopia 1:64 die-cast, silver Utopia model car, premium collectible hypercar, CCA Pagani miniature, Utopia scale die-cast model, collector die-cast supercar, premium series Pagani model, desk display hypercar, Key FeaturesVehicle Model: Pagani UtopiaScale: 1:64Colour: SilverBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:42:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d051cc9e-8bfc-486f-b2e5-1fa60abfcd17.jpg?v=1769164260
+  Price: ₹599.00 INR
+- [Volkswagen Amarok -- Blue -- CCA](https://theworldofnerds.com/products/blue-volkswagen-amarok-cca): Volkswagen Amarok die-cast pickup truck, Volkswagen Amarok model car, premium collectible pickup truck, CCA Volkswagen Amarok miniature, die-cast VW truck model, desk display pickup model, collector Volkswagen die-cast, CCA Premium Series Volkswagen model. Key FeaturesVehicle Model: Volkswagen AmarokScale: 1:64Colour: BlueBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:36:35Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_74ff7a5c-6d17-4975-a364-731989b6b4cb.jpg?v=1769164242
+  Price: ₹599.00 INR
+- [Pagani Utopia -- Black -- CCA](https://theworldofnerds.com/products/black-pagani-utopia-cca): Pagani Utopia 1:64 die-cast, black Utopia model car, premium collectible hypercar, CCA Pagani miniature, Utopia scale die-cast model, collector die-cast supercar, premium series Pagani model, desk display hypercar.Key FeaturesVehicle Model: Pagani UtopiaScale: 1:64Color: BlackBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:42:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5912301c-f342-4c3b-b974-22677d184331.jpg?v=1769164370
+  Price: ₹599.00 INR
+- [Volkswagen Amarok -- Grey -- CCA](https://theworldofnerds.com/products/grey-volkswagen-amarok-cca): Volkswagen Amarok die-cast pickup truck, grey Volkswagen Amarok model car, premium collectible pickup truck, CCA Volkswagen Amarok miniature, die-cast VW truck model, desk display pickup model, collector Volkswagen die-cast, CCA Premium Series Volkswagen model. Key FeaturesVehicle Model: Volkswagen AmarokScale: 1:64Colour: GreyBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:41:17Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b6c45959-2124-4399-85b5-a07dd8100547.jpg?v=1769164708
+  Price: ₹599.00 INR
+- [Nissan GTR (R35) -- White -- CCA](https://theworldofnerds.com/products/white-nissan-gtr-r35-cca): Nissan GT-R R35 die-cast car, white Nissan GT-R model car with red racing stripes, premium collectible Japanese sports car, CCA Nissan GT-R miniature, die-cast performance car model, desk display sports car, collector Nissan die-cast car, CCA Premium Series Nissan model. Key FeaturesVehicle Model: Nissan GT-R (R35)Scale: 1:64Colour: White with Red stripesBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:38:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_87d4245e-57ee-4cc0-a90d-22f756be1398.jpg?v=1769165065
+  Price: ₹599.00 INR
+- [Nissan GTR (R35) -- Blue -- CCA](https://theworldofnerds.com/products/blue-nissan-gtr-r35-cca): Nissan GT-R R35 die-cast car, blue Nissan GT-R model car with dual racing stripes, premium collectible Japanese sports car, CCA Nissan GT-R miniature, die-cast performance car model, desk display sports car, collector Nissan die-cast car, CCA Premium Series Nissan model. Key FeaturesVehicle Model: Nissan GT-R (R35)Scale: 1:64Colour: Blue with White stripesBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:37:17Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_eccd5e0e-653c-48c5-ba93-e3257f1dcaf2.jpg?v=1769165312
+  Price: ₹599.00 INR
+- [Lamborghini Aventador Roadster -- Blue -- CCA](https://theworldofnerds.com/products/blue-lamborghini-aventador-roadster-cca): Lamborghini Aventador Roadster die-cast car, Lamborghini Aventador model car, premium convertible supercar miniature, CCA Aventador collectible, die-cast performance sports car, desk display supercar model, luxury Italian car miniature, CCA Premium Series Lamborghini. Key FeaturesVehicle Model: Lamborghini Aventador RoadsterScale: 1:64Colour: BlueBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-25T01:32:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_05f3ce72-5526-4a3a-86c8-9901257ec1cc.jpg?v=1769165941
+  Price: ₹599.00 INR
+- [Lamborghini Aventador Roadster -- Green -- CCA](https://theworldofnerds.com/products/green-lamborghini-aventador-roadster-cca): Lamborghini Aventador Roadster die-cast car, Lamborghini Aventador model car, premium convertible supercar miniature, CCA Aventador collectible, die-cast performance sports car, desk display supercar model, luxury Italian car miniature, CCA Premium Series Lamborghini. Key FeaturesVehicle Model: Lamborghini Aventador RoadsterScale: 1:64Colour: GreenBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:34:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_04d94ab0-aaa4-4f3b-9cc4-b8451fc44e32.jpg?v=1769166765
+  Price: ₹599.00 INR
+- [Lexus ES 300h -- Grey -- CCA](https://theworldofnerds.com/products/grey-lexus-es-300h-cca): Lexus ES 300h die-cast car, Lexus ES hybrid model car, premium luxury sedan miniature, CCA Lexus collectible, die-cast executive car model, desk display luxury car, Japanese hybrid sedan scale model, CCA Premium Series Lexus. Key FeaturesVehicle Model: Lexus ES 300hScale: 1:64Colour: GreyBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:33:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_21edf6a6-a166-4c74-b0f5-f959eb30ab24.jpg?v=1769166932
+  Price: ₹599.00 INR
+- [Lexus ES 300h -- Blue -- CCA](https://theworldofnerds.com/products/blue-lexus-es-300h-cca): Lexus ES 300h die-cast car, Lexus ES hybrid model car, premium luxury sedan miniature, CCA Lexus collectible, die-cast executive car model, desk display luxury sedan, Japanese hybrid scale model, CCA Premium Series Lexus. Key FeaturesVehicle Model: Lexus ES 300hScale: 1:64Colour: BlueBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:29:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9673a470-d4d6-418e-aa1a-3b796c3629ce.jpg?v=1769167273
+  Price: ₹599.00 INR
+- [BMW i7 -- Grey -- CCA](https://theworldofnerds.com/products/grey-bmw-i-7-cca): BMW i7 die-cast car, BMW i7 luxury sedan model, premium electric executive car miniature, CCA BMW collectible, die-cast electric performance sedan, desk display luxury EV model, German flagship sedan scale model, CCA Premium Series BMW. Key FeaturesVehicle Model: BMW i7Scale: 1:64Colour: GreyBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:27:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5ac7a19c-9ba4-47c8-9789-eb9260fb241b.jpg?v=1769167439
+  Price: ₹599.00 INR
+- [BMW i7 -- Blue -- CCA](https://theworldofnerds.com/products/blue-bmw-i-7-cca): BMW i7 die-cast car, BMW i7 luxury sedan model, premium electric executive car miniature, CCA BMW collectible, die-cast electric performance sedan, desk display luxury EV model, German flagship sedan scale model, CCA Premium Series BMW. Key FeaturesVehicle Model: BMW i7Scale: 1:64Colour: BlueBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:31:58Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_773c8fac-f561-4c84-9df8-35c28ea07e93.jpg?v=1769167554
+  Price: ₹599.00 INR
+- [Suzuki Jimny 2018 -- Green -- CCA](https://theworldofnerds.com/products/green-suzuki-jimmy-2018-cca): Suzuki Jimny 2018 die-cast car, Suzuki Jimny off-road SUV model, premium compact 4x4 miniature, CCA Jimny collectible, die-cast adventure vehicle, desk display SUV model, Japanese off-road car miniature, CCA Premium Series Suzuki. Key FeaturesVehicle Model: Suzuki Jimny (2018)Scale: 1:64Colour: GreenBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:30:20Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d1be9c64-4a4e-4af1-a5aa-1d3b20ff8f2f.jpg?v=1769167661
+  Price: ₹599.00 INR
+- [Suzuki Jimny 2018 -- Red -- CCA](https://theworldofnerds.com/products/red-suzuki-jimmy-2018-cca): Suzuki Jimny 2018 die-cast car, Suzuki Jimny off-road SUV model, premium compact 4x4 miniature, CCA Jimny collectible, die-cast adventure vehicle, desk display SUV model, Japanese off-road car miniature, CCA Premium Series Suzuki. Key FeaturesVehicle Model: Suzuki Jimny (2018)Scale: 1:64Colour: RedBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:27:20Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b292cc40-4d00-423d-b428-6907a6b7487d.jpg?v=1769167898
+  Price: ₹599.00 INR
+- [BMW M4 -- Dark Green -- CCA](https://theworldofnerds.com/products/dark-green-bmw-m4-cca): BMW M4 die-cast car, premium performance car miniature, CCA BMW M4 collectible, die-cast German sports car, desk display racing coupe, luxury performance scale model, CCA Premium Series BMW. Key FeaturesVehicle Model: BMW M4Scale: 1:64Colour: Dark GreenBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:25:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b3d9ffe8-a0a9-4654-987e-5978287ba049.jpg?v=1769167989
+  Price: ₹599.00 INR
+- [BMW M4 -- Light Green -- CCA](https://theworldofnerds.com/products/light-green-bmw-m4-cca): BMW M4 die-cast car, premium performance car miniature, CCA BMW M4 collectible, die-cast German racing car, desk display sports coupe, luxury performance scale model, CCA Premium Series BMW. Key FeaturesVehicle Model: BMW M4Scale: 1:64Colour: Light GreenBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:24:09Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_384f3c42-5a20-44ad-82a7-c6201f66e14d.jpg?v=1769168087
+  Price: ₹599.00 INR
+- [Pagani Zonda Revolution C1 – CCA](https://theworldofnerds.com/products/pagani-zonda-revolution-c2-cca): A 1:64 scale Pagani Zonda Revolution C1 die-cast hypercar by CCA featuring premium detailing, metal body construction, and aggressive Zonda track-focused styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Pagani performance car Key FeaturesVehicle Model: Pagani Zonda Revolution C1Scale: 1:64Brand: CCASeries: Premium Series
+  Updated: 2026-01-23T23:43:46Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4c3d4bd5-d9a8-4691-abdd-0c6e9e20a8ff.jpg?v=1769168124
+  Price: ₹599.00 INR
+- [Ford GT 2017 -- Red -- CCA](https://theworldofnerds.com/products/red-ford-gt-2017-cca): Ford GT 2017 die-cast car, red Ford GT supercar model with racing stripes, premium American performance car miniature, CCA Ford GT collectible, die-cast track-inspired sports car, desk display supercar model, high-performance coupe scale model, CCA Premium Series Ford. Key FeaturesVehicle Model: Ford GT (2017)Scale: 1:64Colour: Red with White racing stripesBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:23:25Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2d0aa773-caf5-4594-8a1b-5fcc2a768907.jpg?v=1769168200
+  Price: ₹599.00 INR
+- [Ford GT 2017 -- Blue -- CCA](https://theworldofnerds.com/products/blue-ford-gt-2017-cca): Ford GT 2017 die-cast car, blue Ford GT supercar model with racing stripes, premium American performance car miniature, CCA Ford GT collectible, die-cast track-inspired sports car, desk display supercar model, high-performance coupe scale model, CCA Premium Series Ford. Key FeaturesVehicle Model: Ford GT (2017)Scale: 1:64Colour: Blue with White racing stripesBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:22:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_008b022e-950a-4dac-bcaa-7d531e846fd9.jpg?v=1769168305
+  Price: ₹599.00 INR
+- [Pagani Zonda Revolution C2](https://theworldofnerds.com/products/pagani-zonda-revolution-c2): A 1:64 scale Pagani Zonda Revolution C2 die-cast hypercar by CCA featuring premium detailing, metal body construction, and aggressive Zonda track-focused styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Pagani performance car Key FeaturesVehicle Model: Pagani Zonda Revolution C2Scale: 1:64Brand: CCASeries: Premium Series
+  Updated: 2026-01-23T11:41:23Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_12d104cc-73b6-47b1-bb36-0a2391682a7a.jpg?v=1769168392
+  Price: ₹599.00 INR
+- [VOLKSWAGEN BEETLE 1967 C2-CCA](https://theworldofnerds.com/products/volkswagen-beetle-1967-c2-cca): Volkswagen Beetle 1967 die-cast car, black classic VW Beetle model, vintage German car miniature, CCA Volkswagen collectible, die-cast retro car model, desk display classic automobile, iconic air-cooled Beetle scale model, CCA Premium Series Volkswagen. Key FeaturesVehicle Model: Volkswagen Classical Beetle (1967)Scale: 1:64Colour: BlackBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-23T11:42:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ab35064e-31e8-4521-9f8f-0f3047bfb484.jpg?v=1769168468
+  Price: ₹599.00 INR
+- [VOLKSWAGEN BEETLE 1967 C1-CCA](https://theworldofnerds.com/products/volkswagen-beetle-1967-c1-cca): Volkswagen Beetle 1967 die-cast car, pink classic VW Beetle model, vintage German car miniature, CCA Volkswagen collectible, die-cast retro car model, desk display classic automobile, iconic air-cooled Beetle scale model, CCA Premium Series Volkswagen. Key FeaturesVehicle Model: Volkswagen Classical Beetle (1967)Scale: 1:64Colour: Light PinkBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T02:10:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8d60118c-5e9a-457a-b261-3957284783b8.jpg?v=1769168577
+  Price: ₹599.00 INR
+- [BMW M4 GT3 -- Yellow -- CCA](https://theworldofnerds.com/products/yellow-bmw-m4-gt3-cca): BMW M4 GT3 die-cast car, yellow BMW M4 GT3 racing model, premium track-ready sports car miniature, CCA BMW GT3 collectible, die-cast motorsport car, desk display race car model, German performance racing coupe scale model, CCA Premium Series BMW. Key FeaturesVehicle Model: BMW M4 GT3Scale: 1:64Colour: YellowBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:21:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_42bdee54-171e-498d-b5ad-5de5fd1c7241.jpg?v=1769168673
+  Price: ₹599.00 INR
+- [BMW M4 GT3 -- White -- CCA](https://theworldofnerds.com/products/white-bmw-m4-gt3-cca): BMW M4 GT3 die-cast car, BMW M4 GT3 racing model, premium track-ready sports car miniature, CCA BMW GT3 collectible, die-cast motorsport car, desk display race car model, German performance racing coupe scale model, CCA Premium Series BMW. Key FeaturesVehicle Model: BMW M4 GT3Scale: 1:64Colour: WhiteBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-25T00:13:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a44f6149-cfcd-49a0-9d9c-66c4a0fbc6ef.jpg?v=1769168765
+  Price: ₹599.00 INR
+- [2018 Ford Mustang GT -- Orange -- CCA](https://theworldofnerds.com/products/orange-2018-ford-mustang-gt-cca): Ford Mustang GT 2018 die-cast car, Ford Mustang GT muscle car model, premium American sports coupe miniature, CCA Mustang collectible, die-cast performance car, desk display muscle car model, iconic V8 sports car scale model, CCA Premium Series Ford. Key FeaturesVehicle Model: Ford Mustang GT (2018)Scale: 1:64Colour: OrangeBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:20:27Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1728590f-569b-4c29-a0c9-4b7f62712752.jpg?v=1769168857
+  Price: ₹599.00 INR
+- [2018 Ford Mustang GT -- Green -- CCA](https://theworldofnerds.com/products/green-2018-ford-mustang-gt-cca): Ford Mustang GT 2018 die-cast car, Ford Mustang GT muscle car model, premium American sports coupe miniature, CCA Mustang collectible, die-cast performance car, desk display muscle car model, iconic V8 sports car scale model, CCA Premium Series Ford. Key FeaturesVehicle Model: Ford Mustang GT (2018)Scale: 1:64Colour: GreenBrand: CCA (Cool Chic Auto)Series: Premium Series
+  Updated: 2026-01-24T22:19:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_61a57def-1d9c-48b5-aa6a-77cb109962c6.jpg?v=1769168952
+  Price: ₹599.00 INR
+- [Toyota AE86 -- White -- CCA](https://theworldofnerds.com/products/white-toyota-ae86-cca): A 1:64 scale Toyota AE86 die-cast sports coupe by CCA featuring premium detailing, metal body construction, and iconic AE86 styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Toyota classic sports car replicas in 1:64 scale. Key FeaturesVehicle Model: Toyota AE86Scale: 1:64Color: WhiteBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:18:04Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_12662836-4312-4100-99cf-ad1a31e492bb.jpg?v=1769168688
+  Price: ₹599.00 INR
+- [Toyota AE86 -- Red -- CCA](https://theworldofnerds.com/products/red-toyota-ae86-cca): A 1:64 scale Toyota AE86 die-cast sports coupe by CCA featuring premium detailing, metal body construction, and iconic AE86 styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Toyota classic sports car replicas in 1:64 scale. Key FeaturesVehicle Model: Toyota AE86Scale: 1:64Color: RedBrand: CCASeries: Premium Series
+  Updated: 2026-01-25T01:35:10Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f9e7a2db-251d-409b-8f14-dca898b5035e.jpg?v=1769169225
+  Price: ₹599.00 INR
+- [2013 Chevrolet Camaro -- Blue -- CCA](https://theworldofnerds.com/products/blue-2013-chevrolet-camaro-cca): A 1:64 scale 2013 Chevrolet Camaro die-cast sports coupe by CCA featuring premium detailing, metal body construction, and authentic Camaro muscle styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Chevrolet performance car replicas in 1:64 scale. Key FeaturesVehicle Model: 2013 Chevrolet CamaroScale: 1:64Color: BlueBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:16:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4c54186b-2b0e-4fea-8680-14d3bc6f6041.jpg?v=1769169554
+  Price: ₹599.00 INR
+- [2013 Chevrolet Camaro -- Yellow -- CCA](https://theworldofnerds.com/products/yellow-2013-chevrolet-camaro-cca): A 1:64 scale 2013 Chevrolet Camaro die-cast sports coupe by CCA featuring premium detailing, metal body construction, and authentic Camaro muscle styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Chevrolet performance car replicas in 1:64 scale. Key FeaturesVehicle Model: 2013 Chevrolet CamaroScale: 1:64Color: YellowBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:14:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ca17b91c-f697-45bc-9055-5f3bb95db6b3.jpg?v=1769170835
+  Price: ₹599.00 INR
+- [BMW 3.0 CSL -- White -- CCA](https://theworldofnerds.com/products/white-bmw-3-0-csl-cca): A 1:64 scale White BMW 3.0 CSL die-cast sports coupe by CCA featuring premium detailing, metal body construction, and iconic CSL aerodynamic styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW classic performance car Key FeaturesVehicle Model: BMW 3.0 CSLScale: 1:64Color: WhiteBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:13:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_95116556-c073-42b1-9cb9-b1d166f7c83c.jpg?v=1769171026
+  Price: ₹599.00 INR
+- [BMW Z4 M40i -- Red -- CCA](https://theworldofnerds.com/products/red-bmw-z4-m40i-cca): A 1:64 scale Red BMW Z4 M40i die-cast roadster by CCA featuring premium detailing, metal body construction, and authentic M40i performance styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW sports roadster. Key FeaturesVehicle Model: BMW Z4 M40iScale: 1:64Color: RedBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:12:35Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_049c022d-6f43-4465-a013-4fc1247768b7.jpg?v=1769171270
+  Price: ₹599.00 INR
+- [BMW Z4 M40i -- Blue -- CCA](https://theworldofnerds.com/products/blue-bmw-z4-m40i-cca): A 1:64 scale Blue BMW Z4 M40i die-cast roadster by CCA featuring premium detailing, metal body construction, and authentic M40i performance styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW sports roadster replicas in 1:64 scale. Key FeaturesVehicle Model: BMW Z4 M40iScale: 1:64Color: BlueBrand: CCASeries: Premium Series
+  Updated: 2026-01-25T14:56:36Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_57569247-bc50-493c-b4d2-3c49146b68a6.jpg?v=1769172583
+  Price: ₹599.00 INR
+- [Audi RS 5 Racing 2017 -- Orange -- CCA](https://theworldofnerds.com/products/orange-audi-rs-5-racing-2017-cca): A 1:64 scale Audi RS 5 Racing 2017 die-cast touring car by CCA featuring premium detailing, metal body construction, and aggressive RS 5 race-spec styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Audi motorsport replicas in 1:64 scale. Key FeaturesVehicle Model: Audi RS 5 Racing 2017Scale: 1:64Color: OrangeBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:11:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7f2cf8c8-e3f9-4ac1-a087-52349a5a143e.jpg?v=1769172804
+  Price: ₹599.00 INR
+- [Audi RS 5 Racing 2017 -- Black -- CCA](https://theworldofnerds.com/products/black-audi-rs-5-racing-2017-cca): A 1:64 scale Audi RS 5 Racing 2017 die-cast touring car by CCA featuring premium detailing, metal body construction, and aggressive RS 5 race-spec styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Audi motorsport replicas in 1:64 scale. Key FeaturesVehicle Model: Audi RS 5 Racing 2017Scale: 1:64Color: BlackBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T22:10:23Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1e9e7e0c-3299-4214-9dc2-2e58c42b4763.jpg?v=1769173211
+  Price: ₹599.00 INR
+- [Audi RS 5 Racing 2017 -- Black -- CCA](https://theworldofnerds.com/products/black-audi-rs-5-racing-2017-cca-1): A 1:64 scale Audi RS 5 Racing 2017 die-cast touring car by CCA featuring premium detailing, metal body construction, and aggressive RS 5 race-spec styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Audi motorsport replicas in 1:64 scale. Key FeaturesVehicle Model: Audi RS 5 Racing 2017Scale: 1:64Color: BlackBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T12:12:05Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_fba47c92-84bd-4a5a-a9f0-73d6a8787bfa.jpg?v=1769236576
+  Price: ₹799.00 INR
+- [Volkswagen Amarok Blue - CCA - (With Case)](https://theworldofnerds.com/products/blue-volkswagen-amarok-cca-with-case): A 1:64 scale Volkswagen Amarok die-cast pickup truck by CCA featuring premium detailing, metal body construction, and realistic Amarok pickup styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for accurate Volkswagen off-road pickup replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Volkswagen AmarokScale: 1:64Color: BlueBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:55:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_6d497478-0a33-43db-9ac6-4c834e27b8aa.jpg?v=1769236876
+  Price: ₹799.00 INR
+- [BMW Z40 M40i Blue CCA (With Case)](https://theworldofnerds.com/products/blue-bmw-z40-m40i-cca-with-case): A 1:64 scale BMW Z40 M40i die-cast roadster by CCA featuring premium detailing, metal body construction, and authentic M40i performance styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW sports roadster replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW Z40 M40iScale: 1:64Color: BlueBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:53:01Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ccffb93e-c754-4857-aeeb-137c18bab49d.jpg?v=1769237525
+  Price: ₹799.00 INR
+- [Suzuki Jimny 2018 -Green – CCA (With Case)](https://theworldofnerds.com/products/green-suzuki-jimny-2018-cca-with-case): A 1:64 scale Suzuki Jimny 2018 die-cast off-road SUV by CCA featuring premium detailing, metal body construction, and authentic Jimny compact 4x4 styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Suzuki off-road vehicle replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Suzuki Jimny 2018Scale: 1:64Color: GreenBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-26T07:47:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_09d79698-033a-4391-82f5-38cd0c03e2cb.jpg?v=1769237662
+  Price: ₹799.00 INR
+- [e Pagani Zonda Revolution C1 – CCA (With Case)](https://theworldofnerds.com/products/e-pagani-zonda-revolution-c1-cca-with-case): A 1:64 scale Pagani Zonda Revolution C1 die-cast hypercar by CCA featuring premium detailing, metal body construction, and aggressive Zonda race-focused styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Pagani performance car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Pagani Zonda Revolution C1Scale: 1:64Brand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T14:49:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_a8b11ca5-c886-4892-96ec-cbe41c192128.jpg?v=1769237825
+  Price: ₹799.00 INR
+- [Volkswagen T1- Red - CCA (With Case)](https://theworldofnerds.com/products/red-volkswagen-t1-cca-with-case): A 1:64 scale Volkswagen T1 die-cast classic van by CCA featuring premium detailing, metal body construction, and authentic vintage T1 styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Volkswagen classic van replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Volkswagen T1Scale: 1:64Color: RedBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:47:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_76183ad2-c444-43e4-9ffe-9d00912775a3.jpg?v=1769237988
+  Price: ₹799.00 INR
+- [BMW i7 -Blue  – CCA (With Case)](https://theworldofnerds.com/products/blue-bmw-i7-cca-with-case): A 1:64 scale BMW i7 die-cast luxury electric sedan by CCA featuring premium detailing, metal body construction, and authentic BMW flagship EV styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW luxury electric vehicle replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW i7Scale: 1:64Color: BlueBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T09:38:03Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e3986c00-0c12-4beb-bd1a-6b2036ce3f72.jpg?v=1769238176
+  Price: ₹799.00 INR
+- [VOLKSWAGEN AMAROK-CCA WITH CASE](https://theworldofnerds.com/products/volkswagen-amarok-cca-with-case): A 1:64 scale Volkswagen Amarok die-cast pickup truck by CCA featuring premium detailing, metal body construction, and realistic Amarok pickup styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for accurate Volkswagen pickup truck replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Volkswagen AmarokScale: 1:64Brand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T07:26:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4cd36dd3-37af-4756-a809-4c5aede7f843.jpg?v=1769238372
+  Price: ₹799.00 INR
+- [Lexus ES300h -Blue– CCA (With Case)](https://theworldofnerds.com/products/blue-lexus-es300h-cca-with-case): A 1:64 scale Lexus ES300h die-cast luxury hybrid sedan by CCA featuring premium detailing, metal body construction, and authentic ES executive styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Lexus luxury hybrid sedan replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Lexus ES300hScale: 1:64Color: BlueBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:37:27Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_135288d1-bd23-4de3-8d7d-3fa5eb0c41b6.jpg?v=1769239654
+  Price: ₹799.00 INR
+- [Lamborghini Huracan STO – CCA Blue with Case](https://theworldofnerds.com/products/blue-lamborghini-huracan-sto-cca-with-case): Lamborghini Huracán STO die-cast car, blue Lamborghini Huracán STO model car with rear wing, premium collectible supercar, CCA Lamborghini Huracán miniature, high-detail die-cast sports car model, desk display supercar, collector Lamborghini die-cast car, CCA Premium Series Lamborghini model with display case. Key FeaturesVehicle Model: Lamborghini Huracán STOScale: 1:64Colour: BlueBrand: CCASeries: Premium Series
+  Updated: 2026-01-24T19:37:35Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1f9d10a3-c0e7-447f-a93a-23c4ee29d386.jpg?v=1769239889
+  Price: ₹799.00 INR
+- [Lamborghini Aventador SVJ C1 – CCA (With Case)](https://theworldofnerds.com/products/lamborghini-aventador-svj-c1-cca-with-case): A 1:64 scale Lamborghini Aventador SVJ C1 die-cast hypercar by CCA featuring premium detailing, metal body construction, and aggressive SVJ aerodynamic styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Lamborghini performance car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Lamborghini Aventador SVJ C1Scale: 1:64Brand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T07:35:58Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_25aa9005-619c-4d50-8965-d38c48e1a855.jpg?v=1769239974
+  Price: ₹799.00 INR
+- [BMW M4 – CCA Dark Green with Case](https://theworldofnerds.com/products/dark-green-bmw-m4-cca-with-case): BMW M4 die-cast car, dark green BMW M4 model car, premium collectible BMW sports car, CCA BMW M4 miniature, high-detail die-cast luxury performance car, desk display BMW model, collector BMW die-cast car, CCA Collection Series BMW model with display case. Key FeaturesVehicle Model: BMW M4Scale: 1:64Colour: Dark GreenBrand: CCASeries: Collection Series
+  Updated: 2026-01-24T21:29:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ea64c334-633a-4f80-8912-2f6ff06432d8.jpg?v=1769240158
+  Price: ₹799.00 INR
+- [BMW M4 GT3 -Yellow- CCA (WITH CASE)](https://theworldofnerds.com/products/yellow-bmw-m4-gt3-cca-with-case): A 1:64 scale BMW M4 GT3 die-cast racing sports car by CCA featuring premium detailing, metal body construction, and authentic GT3 racing aero styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW motorsport replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW M4 GT3Scale: 1:64Color: YellowBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:36:37Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/8_8e7e4c56-081a-4c15-b86c-66a40008139f.jpg?v=1769240189
+  Price: ₹799.00 INR
+- [BMW i7 - Grey  – CCA (With Case)](https://theworldofnerds.com/products/grey-bmw-i7-cca-with-case): A 1:64 scale BMW i7 die-cast luxury electric sedan by CCA featuring premium detailing, metal body construction, and authentic BMW flagship EV styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW luxury electric vehicle replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW i7Scale: 1:64Color: GreyBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-25T00:57:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_00ed6b33-3869-4fd4-b3c3-80bbf4c5dba4.jpg?v=1769240379
+  Price: ₹799.00 INR
+- [Lamborghini Huracan STO – CCA Red with Case](https://theworldofnerds.com/products/red-lamborghini-huracan-sto-cca-with-case): Lamborghini Huracan STO die-cast car, red Lamborghini Huracan STO model car, premium collectible supercar, CCA Lamborghini Huracan STO miniature, high-detail die-cast performance car, desk display Lamborghini model, collector supercar die-cast, CCA Collection Series Lamborghini model with display case. Key FeaturesVehicle Model: Lamborghini Huracan STOScale: 1:64Colour: RedBrand: CCASeries: Collection Series
+  Updated: 2026-01-24T21:31:20Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d4d1b1bb-ce2f-4a03-9f4f-59d11c50ad1f.jpg?v=1769240317
+  Price: ₹799.00 INR
+- [Lamborghini Aventador Roadstar – CCA (With Case)](https://theworldofnerds.com/products/lamborghini-aventador-roadstar-cca-with-case): A 1:64 scale Lamborghini Aventador Roadstar die-cast hypercar by CCA featuring premium detailing, metal body construction, and aggressive open-top Aventador styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Lamborghini performance car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Lamborghini Aventador RoadstarScale: 1:64Brand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T12:32:13Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3c425a8d-52a2-46dc-89d7-9fb97f8d8402.jpg?v=1769240462
+  Price: ₹799.00 INR
+- [Pagani Utopia – CCA Silver with Case](https://theworldofnerds.com/products/silver-pagani-utopio-cca-with-case): Pagani Utopia die-cast car, silver Pagani Utopia model car, premium collectible hypercar, CCA Pagani Utopia miniature, high-detail die-cast luxury performance car, desk display Pagani model, collector hypercar die-cast, CCA Collection Series Pagani model with display case. Key FeaturesVehicle Model: Pagani UtopiaScale: 1:64Colour: SilverBrand: CCASeries: Collection Series
+  Updated: 2026-01-24T21:31:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6d0bec7f-59ea-46f6-8dad-879d2f37c0fa.jpg?v=1769240498
+  Price: ₹799.00 INR
+- [BMW M850i - Orange – CCA (With Case)](https://theworldofnerds.com/products/orange-bmw-m850i-cca-with-case): A 1:64 scale BMW M850i die-cast luxury grand tourer by CCA featuring premium detailing, metal body construction, and authentic M850i performance styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW luxury performance car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW M850iScale: 1:64Color: OrangeBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:34:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_cfe9d9c5-33ea-46dd-b107-0ce7f9e813b0.jpg?v=1769240546
+  Price: ₹799.00 INR
+- [BMW M4 GT3- White – CCA (With Case)](https://theworldofnerds.com/products/white-bmw-m4-gt3-cca-with-case): A 1:64 scale BMW M4 GT3 die-cast racing sports car by CCA featuring premium detailing, metal body construction, and authentic GT3 racing aero styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW motorsport replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW M4 GT3Scale: 1:64Color: WhiteBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-25T00:42:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_6c329514-509c-4058-b9c1-298a7cd9dcae.jpg?v=1769240675
+  Price: ₹799.00 INR
+- [PAGANI UTOPIO- BLACK -CCA WITH CASE](https://theworldofnerds.com/products/black-pagani-utopio-cca-with-case): Pagani Utopia die-cast car, Pagani Utopia model car, premium collectible hypercar, CCA Pagani Utopia miniature, high-detail die-cast luxury performance car, desk display Pagani model, collector hypercar die-cast, CCA Collection Series Pagani model with display case. Key FeaturesVehicle Model: Pagani UtopiaScale: 1:64Colour: BlackBrand: CCASeries: Collection Series
+  Updated: 2026-01-24T21:32:49Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c25f036e-9dc1-44f1-90b8-101642e0e97d.jpg?v=1769240616
+  Price: ₹799.00 INR
+- [Lamborghini Aventador SVJ C2 – CCA (With Case)](https://theworldofnerds.com/products/lamborghini-aventador-svj-c2-cca-with-case): A 1:64 scale Lamborghini Aventador SVJ C2 die-cast hypercar by CCA featuring premium detailing, metal body construction, and aggressive SVJ aerodynamic styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Lamborghini performance car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Lamborghini Aventador SVJ C2Scale: 1:64Brand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T07:48:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_e3ef8452-15d0-42b6-978d-17e9e08af78b.jpg?v=1769240815
+  Price: ₹799.00 INR
+- [BMW Z4 M40i - Red  – CCA (With Case)](https://theworldofnerds.com/products/red-bmw-z4-m40i-cca-with-case): A 1:64 scale Red BMW Z4 M40i die-cast roadster by CCA featuring premium detailing, metal body construction, and authentic M40i performance styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW sports roadster replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW Z4 M40iScale: 1:64Color: RedBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:32:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_092c5537-c26c-46a3-8ac0-661e21f8a530.jpg?v=1769240951
+  Price: ₹799.00 INR
+- [PAGANI ZONDA REVOLUTION C2-CCA WITH CASE](https://theworldofnerds.com/products/pagani-zonda-revolution-c2-cca-with-case): Pagani Zonda Revolution C2 die-cast car, black Pagani Zonda Revolution model car, premium collectible track hypercar, CCA Pagani Zonda miniature, high-detail die-cast performance car, desk display Pagani model, collector hypercar die-cast, CCA Collection Series Pagani model with display case. Key FeaturesVehicle Model: Pagani Zonda Revolution C2Scale: 1:64Colour: BlackBrand: CCASeries: Collection Series
+  Updated: 2026-01-24T07:52:37Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8c194028-7109-4639-904a-7f329ca52626.jpg?v=1769241005
+  Price: ₹799.00 INR
+- [AUDI R35 RACING 2017-BLACK  - CCA (WITH CASE))](https://theworldofnerds.com/products/black-audi-r35-racing-2017-cca-with-case): A 1:64 scale Black Audi R35 Racing 2017 die-cast touring car by CCA featuring premium detailing, metal body construction, and aggressive race-spec styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Audi motorsport replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Audi R35 Racing 2017Scale: 1:64Color: BlackBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T21:31:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_58acb3ab-19fc-47ac-8a1b-b24cae53831d.jpg?v=1769241180
+  Price: ₹799.00 INR
+- [BMW M4 – CCA (With Case)](https://theworldofnerds.com/products/bmw-m4-cca-with-case): A 1:64 scale BMW M4 die-cast sports coupe by CCA featuring premium detailing, metal body construction, and authentic M Series performance styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic BMW performance car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: BMW M4Scale: 1:64Color: GreenBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T09:20:13Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_87f564ec-b9b2-43fe-9f15-c592ce2ff325.jpg?v=1769246336
+  Price: ₹799.00 INR
+- [Audi RS5 Racing 2017 – CCA (With Case)](https://theworldofnerds.com/products/audi-rs5-racing-2017-cca-with-case): A 1:64 scale Audi RS5 Racing 2017 die-cast touring car by CCA featuring premium detailing, metal body construction, and aggressive race-spec RS styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Audi motorsport replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Audi RS5 Racing 2017Scale: 1:64Color: PinkBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T09:23:23Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_2416a178-e639-4629-aef4-e3e0baf48091.jpg?v=1769246491
+  Price: ₹799.00 INR
+- [Volkswagen Beetle 1967 – CCA (With Case)](https://theworldofnerds.com/products/volkswagen-beetle-1967-cca-with-case): A 1:64 scale Volkswagen Beetle 1967 die-cast classic car by CCA featuring premium detailing, metal body construction, and authentic Beetle vintage styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Volkswagen classic car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Volkswagen Beetle 1967Scale: 1:64Brand: CCAcolour : pinkSeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T09:26:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e711a387-1d62-44f1-82d5-e350f0741184.jpg?v=1769246605
+  Price: ₹799.00 INR
+- [VOLKSWAGEN BEETLE 1967-CCA WITH CASE](https://theworldofnerds.com/products/volkswagen-beetle-1967-cca-with-case-1): A 1:64 scale Volkswagen Beetle 1967 die-cast classic car by CCA featuring premium detailing, metal body construction, and authentic Beetle vintage styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Volkswagen classic car replicas in 1:64 scale. Comes with a protective display case for preservation and presentation. Key FeaturesVehicle Model: Volkswagen Beetle 1967Scale: 1:64Brand: CCAcolour : blackSeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-24T09:28:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_9c60bca7-bc28-4781-be8c-88692e648b5a.jpg?v=1769246829
+  Price: ₹799.00 INR
+- [Lexus ES 300h – MSZ Grey](https://theworldofnerds.com/products/lexus-es-300h-msz-grey): Lexus ES 300h die-cast car, grey Lexus ES 300h luxury sedan model, premium Japanese hybrid car miniature, MSZ Lexus collectible, die-cast executive car model, desk display luxury sedan, modern hybrid four-door scale model, MSZ Premium Series Lexus. Key FeaturesVehicle Model: Lexus ES 300hScale: 1:26 / 1:38Colour: GreyBrand: MSZ (Metal Speed Zone)Series: Premium Series
+  Updated: 2026-01-24T09:50:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3bc9e3b8-5673-48a3-b37e-47a7a8be9b45.jpg?v=1769247957
+  Price: ₹2,099.00 INR
+- [Lexus ES 300h – MSZ Blue](https://theworldofnerds.com/products/lexus-es-300h-msz-blue): Lexus ES 300h die-cast car, blue Lexus ES 300h luxury sedan model, premium Japanese hybrid car miniature, MSZ Lexus collectible, die-cast executive car model, desk display luxury sedan, modern hybrid four-door scale model, MSZ Premium Series Lexus. Key FeaturesVehicle Model: Lexus ES 300hScale: 1:26 / 1:38Colour: BlueBrand: MSZ (Metal Speed Zone)Series: Premium Series
+  Updated: 2026-01-26T05:37:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_cdd70f63-66b1-4db7-bd05-02ce532096c6.jpg?v=1769248127
+  Price: ₹2,099.00 INR
+- [Lamborghini LP560-4 – MSZ Yellow](https://theworldofnerds.com/products/lamborghini-lp560-4-msz-yellow): Lamborghini LP560-4 die-cast car, yellow Lamborghini Gallardo LP560-4 supercar model, premium Italian sports car miniature, MSZ Lamborghini collectible, die-cast performance coupe, desk display supercar model, high-speed exotic car scale model, MSZ Premium Series Lamborghini. Key FeaturesVehicle Model: Lamborghini Gallardo LP560-4Scale: 1:26 / 1:38Colour: YellowBrand: MSZ (Metal Speed Zone)Series: Premium Series
+  Updated: 2026-01-24T09:54:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_287fed56-3b1c-4d02-ac3e-af26ce41ae55.jpg?v=1769248259
+  Price: ₹2,099.00 INR
+- [Porsche Cayman S Blue – MSZ](https://theworldofnerds.com/products/porsche-cayman-s-blue-msz): Porsche Cayman S die-cast car, blue Porsche Cayman S sports coupe model, premium German performance car miniature, MSZ Porsche collectible, die-cast luxury coupe model, desk display sports car, iconic mid-engine coupe replica, MSZ Street Series model. Key FeaturesVehicle Model: Porsche Cayman SScale: 1:26 / 1:38Colour: BlueBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:05:25Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8c289aad-ae47-42d0-840d-f1f646f36778.jpg?v=1769248390
+  Price: ₹2,099.00 INR
+- [Bentley Flying Spur Hybrid Red – MSZ](https://theworldofnerds.com/products/bentley-flying-spur-hybrid-red-msz): Bentley Flying Spur Hybrid die-cast car, red Bentley Flying Spur luxury sedan model, premium British executive car miniature, MSZ Bentley collectible, die-cast premium four-door model, desk display luxury sedan, hybrid performance saloon scale model, MSZ Street Series Bentley. Key FeaturesVehicle Model: Bentley Flying Spur HybridScale: 1:26 / 1:38Colour: RedBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:09:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9ba228e5-6812-42df-b587-5db1cf30e063.jpg?v=1769248932
+  Price: ₹2,099.00 INR
+- [Jeep Wrangler Blue – MSZ](https://theworldofnerds.com/products/jeep-wrangler-blue-msz): Jeep Wrangler die-cast car, blue Jeep Wrangler off-road SUV model, premium American 4x4 miniature, MSZ Jeep collectible, die-cast adventure vehicle, desk display off-road model, rugged four-wheel-drive scale replica, MSZ Street Series Jeep. Key FeaturesVehicle Model: Jeep WranglerScale: 1:26 / 1:38Colour: BlueBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:11:05Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a87d454d-95a0-45de-a1d2-29f251eaf2bd.jpg?v=1769249102
+  Price: ₹2,099.00 INR
+- [Suzuki Jimny Green – MSZ](https://theworldofnerds.com/products/suzuki-jimny-green-msz): Suzuki Jimny die-cast off-road SUV model in green from MSZ, detailed miniature with realistic body lines, rugged 4x4 styling, and premium finish for collectors and display. Key FeaturesVehicle Model: Suzuki JimnyScale: 1:26 / 1:38Colour: GreenBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:15:25Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_1f22f66d-6772-4170-a5ec-6350b37573df.jpg?v=1769249369
+  Price: ₹2,099.00 INR
+- [Bentley Flying Spur Hybrid Brown – MSZ Die-Cast Model Car](https://theworldofnerds.com/products/bentley-flying-spur-hybrid-brown-msz-die-cast-model-car): Bentley Flying Spur Hybrid luxury sedan die-cast car in elegant brown from MSZ (Metal Speed Zone). A highly detailed collectible model with premium paint finish, realistic interior, and smooth pull-back action, perfect for car collectors, kids, and desktop display. Key FeaturesVehicle Model: Bentley Flying Spur HybridScale: 1:26 / 1:38Colour: BrownBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T15:26:03Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_531f33a9-f793-49be-81d6-2d1cf9db15ca.jpg?v=1769249506
+  Price: ₹2,099.00 INR
+- [Porsche 911 Carrera Cabriolet Red – MSZ](https://theworldofnerds.com/products/porsche-911-carrera-cabriolet-red-msz): Porsche 911 Carrera Cabriolet die-cast sports car in striking red from MSZ (Metal Speed Zone), detailed convertible model with realistic body lines, premium paint finish, and pull-back action, perfect for collectors, kids, and desk display. Key FeaturesVehicle Model: Porsche 911 Carrera CabrioletScale: 1:26 / 1:38Colour: RedBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:21:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ad7f8df4-75f2-4484-96f7-c864a873fd52.jpg?v=1769249730
+  Price: ₹2,099.00 INR
+- [Porsche 911 Carrera Cabriolet Yellow – MSZ](https://theworldofnerds.com/products/porsche-911-carrera-cabriolet-yellow-msz): Porsche 911 Carrera Cabriolet die-cast sports car in bright yellow from MSZ (Metal Speed Zone), a premium convertible model with realistic exterior detailing, finely crafted interior, and smooth pull-back action, ideal for collectors, gifting, and stylish desk display. Key FeaturesVehicle Model: Porsche 911 Carrera CabrioletScale: 1:26 / 1:38Colour: YellowBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:24:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1c6cae96-ea1a-4354-9b07-50bd83e47b4e.jpg?v=1769249838
+  Price: ₹2,099.00 INR
+- [Porsche Cayman S Red – MSZ](https://theworldofnerds.com/products/porsche-cayman-s-red-msz): Porsche Cayman S die-cast sports car in vibrant red from MSZ (Metal Speed Zone), a premium miniature model with realistic body lines, detailed interior, and smooth pull-back action, perfect for collectors, gifting, and stylish desk display. Key FeaturesVehicle Model: Porsche Cayman SScale: 1:26 / 1:38Colour: RedBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:25:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_99ed2007-cf40-4d3a-bfe5-6c5b1e410941.jpg?v=1769249925
+  Price: ₹2,099.00 INR
+- [Pagani Huayra Roadster Green – MSZ](https://theworldofnerds.com/products/pagani-huayra-roadster-green-msz): Pagani Huayra Roadster die-cast hypercar model in striking green from MSZ (Metal Speed Zone), featuring aggressive carbon-fiber styling, detailed interior, and premium paint finish. A high-performance convertible supercar replica perfect for collectors, gifting, and luxury desk display. Key FeaturesVehicle Model: Pagani Huayra RoadsterScale: 1:26 / 1:38Colour: GreenBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:29:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_62d493c8-b917-4119-a7e4-a5ad050b4d98.jpg?v=1769250240
+  Price: ₹2,099.00 INR
+- [Toyota Corolla Hybrid Black – MSZ](https://theworldofnerds.com/products/toyota-corolla-hybrid-black-msz): Toyota Corolla Hybrid die-cast sedan in elegant black from MSZ (Metal Speed Zone), featuring realistic exterior styling, detailed interior, and smooth pull-back action. A premium everyday car miniature ideal for collectors, gifting, and professional desk display. Key FeaturesVehicle Model: Toyota Corolla HybridScale: 1:26 / 1:38Colour: BlackBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:37:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c389b7c6-324e-4a02-8441-5b22fa23994c.jpg?v=1769250631
+  Price: ₹2,099.00 INR
+- [Toyota GR Supra Yellow – MSZ](https://theworldofnerds.com/products/toyota-gr-supra-yellow-msz): Toyota GR Supra die-cast sports car in striking yellow from MSZ (Metal Speed Zone), featuring aggressive coupe styling, detailed interior, and smooth pull-back action. A perfect miniature for JDM car lovers, collectors, and premium desk display. Key FeaturesVehicle Model: Toyota GR SupraScale: 1:26 / 1:38Colour: YellowBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:42:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b3a934af-1260-46c6-b200-5f25a78e7b48.jpg?v=1769250892
+  Price: ₹2,099.00 INR
+- [Nissan GT-R R35 Grey – MSZ](https://theworldofnerds.com/products/nissan-gt-r-r35-grey-msz): High-performance Nissan GT-R R35 die-cast sports car in sleek grey from MSZ (Metal Speed Zone). This detailed miniature captures the iconic Japanese supercar with racing stripes, aerodynamic spoiler, and premium finish, perfect for collectors and car enthusiasts. Key FeaturesVehicle Model: Nissan GT-R (R35)Scale: 1:26 / 1:38Colour: GreyBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:48:48Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5c0df1ac-969d-4da6-bee5-c4d33c1ceb46.jpg?v=1769251075
+  Price: ₹2,099.00 INR
+- [Pagani Huayra Roadster White – MSZ](https://theworldofnerds.com/products/pagani-huayra-roadster-white-msz): Pagani Huayra Roadster die-cast supercar in elegant white from MSZ (Metal Speed Zone). This premium miniature replica features a detailed aerodynamic body, carbon-fiber style accents, and realistic interior, making it a perfect collectible for hypercar lovers and display enthusiasts. Key FeaturesVehicle Model: Pagani Huayra RoadsterScale: 1:26 / 1:38Colour: WhiteBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:52:17Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1ed058b4-3bc2-497a-a88d-63a878db47e2.jpg?v=1769251376
+  Price: ₹2,099.00 INR
+- [BMW i4 M50 Yellow – MSZ](https://theworldofnerds.com/products/bmw-i4-m50-yellow-msz): BMW i4 M50 electric sports sedan die-cast model in vibrant yellow from MSZ (Metal Speed Zone). This premium miniature replica showcases the modern BMW kidney grille, M-badging, detailed interior, and sporty aerodynamic styling, making it an ideal collectible for BMW and EV enthusiasts. Key FeaturesVehicle Model: BMW i4 M50Scale: 1:26 / 1:38Colour: YellowBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:57:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_07462fc9-0b01-42de-97db-042b677032e4.jpg?v=1769251679
+  Price: ₹2,099.00 INR
+- [Maserati MC20 Blue – MSZ](https://theworldofnerds.com/products/maserati-mc20-blue-msz): Maserati MC20 die-cast supercar in deep blue from MSZ (Metal Speed Zone). This premium collectible miniature captures the sleek Italian design, aerodynamic body lines, and luxury sports car detailing, making it perfect for supercar collectors, display, and gifting. Key FeaturesVehicle Model: Maserati MC20Scale: 1:26 / 1:38Colour: BlueBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T10:59:51Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ba2b1e45-0847-472d-a602-2d05ba5d583f.jpg?v=1769251837
+  Price: ₹2,099.00 INR
+- [Audi R8 Spyder Red – MSZ](https://theworldofnerds.com/products/audi-r8-spyder-red-msz): Audi R8 Spyder die-cast convertible supercar in striking red from MSZ (Metal Speed Zone). This detailed miniature captures the aggressive V10 roadster design with open-top styling, sporty wheels, and premium finish, making it an excellent collectible for supercar lovers and display. Key FeaturesVehicle Model: Audi R8 SpyderScale: 1:26 / 1:38Colour: RedBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T11:02:07Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b3f7db6c-d514-49c8-acb7-de816f857fb0.jpg?v=1769251966
+  Price: ₹2,099.00 INR
+- [BMW i4 M50 Red – MSZ](https://theworldofnerds.com/products/bmw-i4-m50-red-msz): BMW i4 M50 electric sports sedan die-cast model in bold red from MSZ (Metal Speed Zone). This premium miniature replica features the signature BMW kidney grille, M performance styling, detailed interior, and smooth aerodynamic lines, making it a perfect collectible for BMW lovers and modern EV enthusiasts. Key FeaturesVehicle Model: BMW i4 M50Scale: 1:26 / 1:38Colour: RedBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T11:05:27Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f4269f82-e875-4b26-9c39-6a7b304c9686.jpg?v=1769252155
+  Price: ₹2,099.00 INR
+- [Toyota GR Supra Blue – MSZ](https://theworldofnerds.com/products/toyota-gr-supra-blue-msz): Toyota GR Supra die-cast car, blue Toyota GR Supra sports coupe model, premium Japanese performance car miniature, MSZ Supra collectible, die-cast racing car replica, desk display sports car model, iconic turbocharged JDM coupe scale model, MSZ Street Series Toyota. Key FeaturesVehicle Model: Toyota GR SupraScale: 1:26 / 1:38Colour: BlueBrand: MSZ (Metal Speed Zone)Series: Street Series
+  Updated: 2026-01-24T11:04:49Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_c899653b-25da-4642-98c4-41c353ee2999.jpg?v=1769252279
+  Price: ₹2,099.00 INR
+- [Volkswagen The Beetle Yellow – RASTAR](https://theworldofnerds.com/products/volkswagen-the-beetle-yellow-rastar): Volkswagen Beetle die-cast car, yellow classic VW Beetle model, premium German compact car miniature, RASTAR collectible, die-cast city car replica, desk display vintage hatchback model, iconic rounded design Beetle scale model, RASTAR licensed Volkswagen series. Key FeaturesVehicle Model: Volkswagen The BeetleScale: 1:43Colour: YellowBrand: RASTARSeries: Licensed Collection
+  Updated: 2026-01-24T13:08:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_439659b1-318a-455e-b46b-f6e59f06c484.jpg?v=1769259909
+  Price: ₹1,299.00 INR
+- [Mercedes-Benz SLS AMG Red – RASTAR](https://theworldofnerds.com/products/mercedes-benz-sls-amg-red-rastar): Mercedes-Benz SLS AMG die-cast car, red Mercedes SLS AMG sports car model, premium German supercar miniature, RASTAR officially licensed collectible, detailed metal gullwing coupe replica, desk display luxury performance car model, iconic long-hood AMG design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Mercedes-Benz SLS AMGScale: 1:43Colour: RedBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:11:07Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7eaa9523-79f1-4897-9fd2-7de8c9b99469.jpg?v=1769260098
+  Price: ₹1,299.00 INR
+- [BMW Z4 Black – RASTAR](https://theworldofnerds.com/products/bmw-z4-black-rastar): BMW Z4 die-cast car, black BMW Z4 roadster model, premium German sports convertible miniature, RASTAR officially licensed BMW collectible, detailed metal open-top car replica, desk display luxury performance roadster model, iconic BMW Z-Series design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: BMW Z4Scale: 1:43Colour: BlackBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:15:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cb7bda84-c256-4973-b3eb-9ee279581f24.jpg?v=1769260413
+  Price: ₹1,299.00 INR
+- [Audi A1 Silver – RASTAR](https://theworldofnerds.com/products/audi-a1-silver-rastar): Audi A1 die-cast car, silver Audi A1 hatchback model, premium German compact car miniature, RASTAR officially licensed Audi collectible, detailed metal city car replica, desk display modern urban car model, iconic Audi single-frame grille design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Audi A1Scale: 1:43Colour: SilverBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:20:04Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_266b2835-b52d-44d7-8ac3-291da869b8e8.jpg?v=1769260601
+  Price: ₹1,299.00 INR
+- [Volkswagen The Beetle Pink – RASTAR](https://theworldofnerds.com/products/volkswagen-the-beetle-pink-rastar): Volkswagen The Beetle die-cast car, pink Volkswagen Beetle model, classic German compact car miniature, RASTAR officially licensed VW collectible, premium metal Beetle replica, desk display cute vintage hatchback model, iconic rounded design Volkswagen scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Volkswagen The BeetleScale: 1:43Colour: PinkBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:26:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8d15dabb-ebc5-4fa8-8c7b-e22a978fc6b0.jpg?v=1769260899
+  Price: ₹1,299.00 INR
+- [Range Rover Sport Silver – RASTAR](https://theworldofnerds.com/products/range-rover-sport-silver-rastar): Range Rover Sport die-cast car, silver Range Rover Sport luxury SUV model, premium British performance SUV miniature, RASTAR officially licensed Land Rover collectible, detailed metal off-road vehicle replica, desk display luxury SUV model, iconic Range Rover design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Range Rover SportScale: 1:43Colour: SilverBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:32:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3b23a915-6ab3-47be-b32e-ca1605631b1c.jpg?v=1769261037
+  Price: ₹1,299.00 INR
+- [Bugatti Divo Black – RASTAR](https://theworldofnerds.com/products/bugatti-divo-black-rastar): Bugatti Divo die-cast car, black Bugatti Divo hypercar model, premium French supercar miniature, RASTAR officially licensed Bugatti collectible, detailed metal performance car replica, desk display luxury hypercar model, aggressive aerodynamic Bugatti design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Bugatti DivoScale: 1:43Colour: BlackBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:27:22Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4a62f731-58fe-42f7-9315-ba4390663edb.jpg?v=1769261168
+  Price: ₹1,299.00 INR
+- [Audi A1 Red – RASTAR](https://theworldofnerds.com/products/audi-a1-red-rastar): Audi A1 die-cast car, red Audi A1 hatchback model, premium German compact car miniature, RASTAR officially licensed Audi collectible, detailed metal city car replica, desk display modern urban car model, iconic Audi single-frame grille design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Audi A1Scale: 1:43Colour: RedBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-24T13:33:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_622e184c-c7d0-41cd-8f8a-29684e7701b8.jpg?v=1769261298
+  Price: ₹1,299.00 INR
+- [Land Rover Discovery 3 Black – RASTAR](https://theworldofnerds.com/products/land-rover-discovery-3-black-rastar): Land Rover Discovery 3 die-cast car, black Land Rover Discovery 3 SUV model, premium British off-road vehicle miniature, RASTAR officially licensed Land Rover collectible, detailed metal luxury SUV replica, desk display rugged 4x4 model, iconic Discovery design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Land Rover Discovery 3Scale: 1:43Colour: BlackBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-26T04:56:51Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ba538322-d013-484e-a03b-04e0f5a60212.jpg?v=1769403286
+  Price: ₹1,299.00 INR
+- [Land Rover Discovery 3 Grey – RASTAR](https://theworldofnerds.com/products/land-rover-discovery-3-grey-rastar): Land Rover Discovery 3 die-cast car, grey Land Rover Discovery 3 SUV model, premium British off-road vehicle miniature, RASTAR officially licensed Land Rover collectible, detailed metal luxury SUV replica, desk display rugged 4x4 model, iconic Discovery design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Land Rover Discovery 3Scale: 1:43Colour: GreyBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-26T05:03:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_951b00d1-a3f9-4a96-b48f-0412c61c8814.jpg?v=1769403495
+  Price: ₹1,299.00 INR
+- [Range Rover Sport Red – RASTAR](https://theworldofnerds.com/products/range-rover-sport-red-rastar): Range Rover Sport die-cast car, red Range Rover Sport luxury SUV model, premium British performance SUV miniature, RASTAR officially licensed Land Rover collectible, detailed metal off-road vehicle replica, desk display luxury SUV model, iconic Range Rover design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Range Rover SportScale: 1:43Colour: RedBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-26T05:06:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2f4000f6-8806-4579-b8a0-6768b9723565.jpg?v=1769403899
+  Price: ₹1,299.00 INR
+- [Mercedes-Benz SLS AMG Grey – RASTAR](https://theworldofnerds.com/products/mercedes-benz-sls-amg-grey-rastar): Mercedes-Benz SLS AMG die-cast car, grey Mercedes SLS AMG sports car model, premium German supercar miniature, RASTAR officially licensed AMG collectible, detailed metal gullwing coupe replica, desk display luxury performance car model, iconic long-hood AMG design scale model, RASTAR die-cast toy car. Key FeaturesVehicle Model: Mercedes-Benz SLS AMGScale: 1:43Colour: GreyBrand: RASTARSeries: Official Licensed Collection
+  Updated: 2026-01-26T05:07:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_204817ae-1dc6-445c-ba93-91dbac2b6846.jpg?v=1769404019
+  Price: ₹1,299.00 INR
+- [Lexus ES300h -- Grey -- CCA (With Case)](https://theworldofnerds.com/products/lexus-es300h-grey-cca-with-case): Product Description A 1:64 scale Grey Lexus ES300h die-cast luxury hybrid sedan by CCA featuring premium detailing, metal body construction, and authentic ES executive styling. Ideal for collectors, desk displays, and gifting. This miniature appeals to die-cast enthusiasts looking for realistic Lexus luxury hybrid sedan replicas in 1:64 scale. Comes with a protective display case for preservation and presentation.Key Features Vehicle Model: Lexus ES300hScale: 1:64Color: GreyBrand: CCASeries: Premium SeriesIncludes: Display Case
+  Updated: 2026-01-26T05:49:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0ab5253e-b155-4325-8943-21d8ff885747.jpg?v=1769406506
+  Price: ₹799.00 INR
+- [Pokémon 8-Piece Collectible Figure Set](https://theworldofnerds.com/products/pokemon-8-piece-collectible-figure-set): Catch the classic Pokémon vibe with this Pokémon 8PC Figure Set, featuring a perfect mix of iconic trainers and fan-favorite Pokémon. Designed with vibrant colors and anime-accurate detailing, this combo set brings nostalgia and fun together—ideal for collectors, kids, and Pokémon fans of all ages. Perfect for display, play, or gifting. Highlights Complete 8-piece Pokémon combo set Includes popular Pokémon characters & trainers Anime-accurate sculpting with expressive details Durable build with premium paint finish Compact size – ideal for desk, shelf, or showcase Great for Pokémon fans, collectors & kids Perfect gift set or starter Pokémon collection
+  Updated: 2026-01-27T12:16:56Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/7_c3f8a80b-b678-4179-ae35-e014bea8f8fb.jpg?v=1769516121
+  Price: ₹1,499.00 INR
+- [Luffy character keychain](https://theworldofnerds.com/products/luffy-character-keychain): A stylized Luffy D1 Pop Keychain featuring a chibi design with bold colors and iconic straw hat details. Crafted from durable PVC with a metal key ring, this keychain is ideal for fans, collectors, and everyday carry. Lightweight and compact, it attaches easily to bags, keys, and accessories Key Features • Character: Luffy (Pop Style)• Material: PVC Figure + Metal Key Ring• Design: Chibi / Pop Edition• Usage: Keychain, Bag Charm, Collectible• Category: Anime Merchandise
+  Updated: 2026-01-27T12:49:20Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_fb8f7ca1-b43f-48e2-90c1-bcba024412f5.jpg?v=1769518027
+  Price: ₹299.00 INR
+- [DRAGON BALL Z SET OF 12](https://theworldofnerds.com/products/dragon-ball-z-set-of-12): A complete Dragon Ball Z collectible character set featuring 12 mini figures inspired by iconic DBZ characters. Designed in a compact chibi style with vibrant colors and expressive detailing, this set is ideal for collectors, fans, and display setups. Each figure is crafted from durable PVC and stands independently for shelf, desk, or showcase use. Key Features Series: Dragon Ball Z Set Size: 12 Figures Style: Chibi / Mini Collectible Usage: Display, Collectible, Gift Category: Anime Merchandise
+  Updated: 2026-01-27T12:56:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC00633.jpg?v=1769518393
+  Price: ₹2,549.00 INR
+- [RORONOA ZORO – Premium Anime Action Figure 17cm | One Piece Collectible](https://theworldofnerds.com/products/roronoa-zoro-premium-anime-action-figure-17cm-one-piece-collectible): Roronoa Zoro Action Figure is a premium-quality anime collectible inspired by the popular One Piece series. This figure features detailed sculpting, Zoro’s signature green hair, iconic swords, and his powerful stance. Standing approximately 17 cm tall with a sturdy 10 cm round base, it is made with durable material and a smooth paint finish, making it perfect for display, photography, and collection. Ideal for anime fans, collectors, and as a gift for One Piece lovers. Key Features: Character: Roronoa Zoro (One Piece) Size: Approximately 17 cm tall with a 10 cm round base Durable material with premium finish
+  Updated: 2026-01-27T12:58:22Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_accf1ea4-4360-4c28-ac8d-4c0f4d422190.jpg?v=1769516570
+  Price: ₹599.00 INR
+- [Monkey D. Luffy Action Figure 25cm – One Piece Anime Collectible Statue](https://theworldofnerds.com/products/monkey-d-luffy-action-figure-25cm-one-piece-anime-collectible-statue): Monkey D. Luffy Action Figure is a high-quality anime collectible inspired by the legendary One Piece series. Featuring Luffy’s iconic straw hat, signature grin, and powerful fighting pose, this figure stands approximately 25 cm tall with a 10 cm base. Crafted with detailed sculpting and premium paint finish, it is perfect for display, photography, and collection. A must-have for One Piece fans and an ideal gift for anime lovers. Key Features Character: Monkey D. Luffy (One Piece) Height: Approx. 25 cm Base Width: Approx. 10 cm Material: Durable material with premium finish
+  Updated: 2026-01-27T13:02:33Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_024ac553-e9de-4a0c-9197-8af594768655.jpg?v=1769518846
+  Price: ₹1,999.00 INR
+- [Monkey D. Luffy Action Figure 24cm – One Piece Premium Anime Collectible Statue](https://theworldofnerds.com/products/monkey-d-luffy-action-figure-24cm-one-piece-premium-anime-collectible-statue): Monkey D. Luffy Action Figure is a premium-quality anime collectible inspired by the iconic One Piece series. Featuring Luffy in his stylish red suit with cape and straw hat, this figure captures his confident pose and sharp detailing. Standing approximately 24 cm tall with a 14 cm base width, it is crafted with durable material and a high-quality paint finish, making it perfect for display, photography, and collectors. A must-have for One Piece fans and an excellent gift for anime lovers. Key Features Character: Monkey D. Luffy (One Piece) Variant: D3 Edition (Red Suit with Cape) Height: Approx. 24 cm Base Width: Approx. 14 cm Material: Durable material with premium finish
+  Updated: 2026-01-27T13:12:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7b16dce0-7765-4698-ae2e-b0e4a0ecf30a.jpg?v=1769519381
+  Price: ₹1,499.00 INR
+- [Goku Super Saiyan 4 Action Figure 14cm – Dragon Ball Z Premium Anime Collectible](https://theworldofnerds.com/products/goku-super-saiyan-4-action-figure-14cm-dragon-ball-z-premium-anime-collectible): Goku Super Saiyan 4 Action Figure is a high-quality anime collectible inspired by Dragon Ball GT. This dynamic figure captures Goku in his powerful SSJ4 form with red fur, spiky hair, and an intense battle pose. Standing approximately 14 cm tall with a sturdy 10 cm round base, it features detailed sculpting and a premium paint finish. Perfect for display, photography, and collectors, this figure is a must-have for Dragon Ball fans and an excellent gift for anime lovers. Key Features Character: Goku (Super Saiyan 4) – Dragon Ball GT Height: Approx. 14 cm Base: 10 cm round stand Material: Durable material with premium finish
+  Updated: 2026-01-27T13:16:28Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f64c7e27-1c20-4cad-a728-bcc95567b399.jpg?v=1769519734
+  Price: ₹1,199.00 INR
+- [Car Die-Cast – Set of 4 PCS](https://theworldofnerds.com/products/car-die-cast-set-of-4-pcs): A set of 4 miniature die-cast cars featuring assorted vehicle styles and colors. Each model is crafted with metal bodies, rolling wheels, and molded interior details, making them ideal for kids, collectors, and desk displays. Compact and durable, these cars are suitable for gifting, toy collections, and creative play. Key Features • Type: Die-Cast Cars• Set: 4 Pieces• Build: Metal Body + Plastic Details• Function: Free Rolling Wheels• Usage: Toys, Display, Collectible• Category: Miniature Vehicles
+  Updated: 2026-01-27T13:19:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_be1c20a8-b8a0-416c-8531-8989df921633.jpg?v=1769519845
+  Price: ₹399.00 INR
+- [Goku Super Saiyan 4 Action Figure 23.5cm – Dragon Ball GT Premium Anime Collectible Statue](https://theworldofnerds.com/products/goku-super-saiyan-4-action-figure-23-5cm-dragon-ball-gt-premium-anime-collectible-statue): Goku Super Saiyan 4 D1 Action Figure is a premium anime collectible inspired by Dragon Ball GT. This dynamic figure captures Goku in his powerful SSJ4 form with fierce red fur, spiked hair, and an intense mid-air attack pose. Standing approximately 23.5 cm tall with a sturdy 12 cm round base, it features highly detailed sculpting and a smooth, high-quality paint finish. Perfect for display, photography, and serious collectors, this figure is an excellent addition to any Dragon Ball collection and a great gift for anime fans. Key Features Character: Goku (Super Saiyan 4) – Dragon Ball GT Edition: D1 Variant Height: Approx. 23.5 cm Base: 12 cm round stand Material: Durable material with premium finish
+  Updated: 2026-01-27T13:20:28Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_94288308-6536-4d51-a242-a069abe12cca.jpg?v=1769519927
+  Price: ₹1,199.00 INR
+- [CAR DIE CAST-SET OF 4PCS](https://theworldofnerds.com/products/car-die-cast-set-of-4pcs): A set of 4 miniature die-cast sports cars featuring assorted supercar designs and vibrant colors. Each model includes a metal body, rolling wheels, and molded interior details, making them suitable for kids, collectors, and display setups. Compact and durable, this pack is ideal for gifting, play, and miniature car collections. Key Features • Type: Die-Cast Sports Cars• Set: 4 Pieces• Build: Metal Body + Plastic Details• Function: Free Rolling Wheels• Usage: Toys, Collectibles, Display• Category: Miniature Vehicles
+  Updated: 2026-01-27T13:22:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d0697552-0624-4f3b-82d5-95539d60172b.jpg?v=1769520012
+  Price: ₹399.00 INR
+- [Super Mario Action Figure Set of 4 – Mario Anime Game Collectible Toys](https://theworldofnerds.com/products/super-mario-action-figure-set-of-4-mario-anime-game-collectible-toys): Super Mario Action Figure Set of 4 is a premium-quality gaming collectible inspired by the iconic Nintendo Super Mario series. This set includes four detailed mini figures featuring Mario and Luigi in their classic red, green, and alternate color outfits. Crafted with durable material and vibrant paint finish, these figures are perfect for display, decoration, photography, and gifting. An ideal collectible set for gamers, anime lovers, and Super Mario fans of all ages. Key Features Characters: Mario & Luigi (Super Mario Series) Set Includes: 4 Mini Action Figures Material: High-quality durable PVC
+  Updated: 2026-01-27T13:28:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/set4supermario.jpg?v=1769520359
+  Price: ₹1,350.00 INR
+- [Monkey D. Luffy Gear 5 Action Figure 15cm – One Piece Premium Anime Collectible Statue](https://theworldofnerds.com/products/monkey-d-luffy-gear-5-action-figure-15cm-one-piece-premium-anime-collectible-statue): Monkey D. Luffy Gear 5 Action Figure is a premium anime collectible inspired by One Piece. This dynamic figure showcases Luffy in his powerful Gear 5 form with cloud-like white hair, intense expression, and a massive punch effect pose. Standing approximately 15 cm tall with a sturdy round base, it features highly detailed sculpting, energy effect parts, and a smooth premium paint finish. Perfect for display, photography, and serious collectors, this figure is a must-have for every One Piece fan. Key Features Character: Monkey D. Luffy (Gear 5) – One Piece Height: Approx. 15 cm Base: Sturdy round display stand Material: High-quality premium finish
+  Updated: 2026-01-28T04:56:09Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_78596724-7d27-4a41-9fcb-10bbdc069351.jpg?v=1769575970
+  Price: ₹679.00 INR
+- [Satoru Gojo Action Figure 18cm – Jujutsu Kaisen Premium Anime Collectible Statue](https://theworldofnerds.com/products/satoru-gojo-action-figure-18cm-jujutsu-kaisen-premium-anime-collectible-statue): Satoru Gojo Action Figure is a premium-quality anime collectible inspired by the hit series Jujutsu Kaisen. This figure features Gojo in his iconic black outfit with blindfold pose and confident stance, capturing his powerful personality and sharp detailing. Standing approximately 18 cm tall with a sturdy 7 cm round base, it is crafted with durable PVC material and a smooth, high-quality paint finish. Perfect for display, photography, and collectors, this figure is a must-have for every Jujutsu Kaisen fan. Key Features Character: Satoru Gojo (Jujutsu Kaisen) Height: Approx. 18 cm Base: 7 cm round stand Material: Premium durable quality
+  Updated: 2026-01-28T05:02:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_05de4e62-f6f6-4294-a171-69ae30562424.jpg?v=1769576344
+  Price: ₹699.00 INR
+- [ORANGE R/C DRIFT CAR – 30KM/H](https://theworldofnerds.com/products/orange-r-c-drift-car-30km-h): A high-performance R/C drift car capable of reaching speeds up to 30 km/h, designed for racing and drift performance. Featuring 4WD traction, 2.4GHz radio control, dual light modes, and a detailed aerodynamic body with rear spoiler. Includes barricade cones for obstacle setups and realistic play. Ideal for hobbyists, R/C beginners, and drift racing enthusiasts. Key Features • Type: R/C Drift Car• Max Speed: 30 km/h (Approx)• Drive: 4WD Full Wheel• Control: 2.4GHz Controller• Scale: 1:16 (Approx)• Light Modes: 2 Types (with chassis lighting)• Body Style: Aerodynamic Racing• Included: Barricade Props + Controller• Category: Performance R/C Vehicle Controller Functions • Speed Up / Speed Down• Light On/Off• Light Mode Switch• Power Switch• Steering Wheel• Throttle Trigger
+  Updated: 2026-01-28T05:20:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_9de62344-9d2c-4b80-9bba-318d752a8561.jpg?v=1769577563
+  Price: ₹4,875.00 INR
+- [Majin Vegeta Action Figure 27.5cm – Dragon Ball Z Premium Anime Collectible](https://theworldofnerds.com/products/majin-vegeta-action-figure-27-5cm-dragon-ball-z-premium-anime-collectible): Majin Vegeta Action Figure is a high-detail premium anime collectible inspired by the legendary Dragon Ball Z series. This powerful figure features Vegeta in his Majin form with golden Super Saiyan hair, intense battle expression, Majin symbol on his forehead, and a battle-damaged suit with lightning aura effects. Standing approximately 27.5 cm tall with a wide 20 cm stance, it showcases muscular sculpting and dynamic energy detailing. Crafted with durable material and a smooth premium paint finish, this figure is perfect for display, photography, and serious collectors. A must-have addition for every Dragon Ball fan and an excellent gift for anime lovers. Key Features Character: Majin Vegeta (Dragon Ball Z) Height: Approx. 27.5 cm Width: Approx. 20 cm Material: High-quality durable material
+  Updated: 2026-01-28T05:22:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_49b13741-05bd-4bdc-ae70-3864a3c66cde.jpg?v=1769577656
+  Price: ₹1,499.00 INR
+- [HAWK EYES BIG](https://theworldofnerds.com/products/hawk-eyes-big): A large-scale Hawk Eyes Mihawk display statue featuring the world’s greatest swordsman seated on his iconic throne with the massive Yoru blade forming an ornamental cross backdrop. Sculpted with high detail in clothing textures, facial expression, and throne structure, this piece stands approximately 32 cm tall and is designed for premium display collectors. Made from durable PVC with a wide base for stability, making it ideal for shelves, desks, and showcase environments.Key Features • Character: Dracule "Hawk Eyes" Mihawk• Size: Approx. 32 cm (Height) / 25 cm (Width) - (APPROX)• Material: PVC + ABS• Style: Premium Display Statue• Position: Seated Throne Pose• Category: Anime Collectible• Series: One Piece• Base: Decorative Wide Display Base• Usage: Display, Collection, Showcase, Gift
+  Updated: 2026-01-28T05:25:10Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e16745f7-6161-43ed-ae3a-e0456a1ec4d8.jpg?v=1769577792
+  Price: ₹3,499.00 INR
+- [Shizuka Action Figure 29cm – Doraemon Premium Anime Collectible](https://theworldofnerds.com/products/shizuka-action-figure-29cm-doraemon-premium-anime-collectible): Shizuka Action Figure is a high-quality anime collectible inspired by the beloved Doraemon series. This figure features Shizuka in her classic pink top, red skirt, and sweet smiling expression, capturing her gentle and cheerful personality. Standing approximately 29 cm tall with a stable 7 cm base width, it is crafted with durable material and a smooth premium paint finish. Perfect for display, decoration, photography, and collection, this figure is an ideal choice for Doraemon fans and a lovely gift for anime lovers. Key Features Character: Shizuka Minamoto (Doraemon) Height: Approx. 29 cm Base Width: Approx. 7 cm Material: High-quality durable material
+  Updated: 2026-01-28T05:26:22Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2b65f828-6819-4b08-8553-a0431b653d8e.jpg?v=1769577884
+  Price: ₹2,299.00 INR
+- [Nobita Nobi Action Figure 29cm – Doraemon Premium Anime Collectible](https://theworldofnerds.com/products/nobita-nobi-action-figure-29cm-doraemon-premium-anime-collectible): Nobita Nobi Action Figure is a premium-quality anime collectible inspired by the popular Doraemon series. This figure features Nobita in his classic yellow shirt, blue shorts, glasses, and cheerful pointing pose, perfectly capturing his innocent and friendly personality. Standing approximately 29 cm tall with a stable 9 cm base width, it is made with durable material and a smooth premium paint finish. Ideal for display, decoration, photography, and collection, this figure is a perfect gift for Doraemon fans and anime lovers of all ages. Key Features Character: Nobita Nobi (Doraemon) Height: Approx. 29 cm Base Width: Approx. 9 cm Material: High-quality durable material
+  Updated: 2026-01-28T05:28:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1cee356d-fa93-4ab4-852f-53e7a311dc92.jpg?v=1769578044
+  Price: ₹2,299.00 INR
 
 ## Collections
 
 - [BOBBLEHEAD](https://theworldofnerds.com/collections/bobble-head): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-15T12:12:37Z
   Total Products: 43
 - [TOMICA](https://theworldofnerds.com/collections/tomica): Explore the world of Tomica diecast cars, where exceptional quality meets unmatched detail! Tomica has been a trusted name in miniature vehicles for decades, offering a wide range of cars, trucks, and vehicles from both real-world and fictional worlds. Each model is crafted with precision, featuring intricate designs, vibrant colors, and realistic features that make them perfect for collectors and enthusiasts. Whether you're a fan of classic cars, emergency vehicles, or unique transportation models, Tomica offers a collection that will add excitement and authenticity to your diecast car display.
-  Updated: 2025-12-23T12:08:03Z
+  Updated: 2026-01-26T12:10:50Z
   Total Products: 20
 - [ABY style](https://theworldofnerds.com/collections/aby-style): Discover the bold and unique world of ABY Style, where creativity meets pop culture! Known for their eye-catching designs and high-quality craftsmanship, ABY Style brings you a diverse collection of officially licensed merchandise inspired by anime, gaming, and comic book universes. From stylish apparel and accessories to cool home decor and collectible items, ABY Style offers something for every fan. Whether you're looking to represent your favorite series, characters, or franchises, their products are designed to make a statement and add a touch of fandom to your everyday life.
   Updated: 2025-12-08T12:14:19Z
@@ -12276,19 +13249,19 @@
   Updated: 2025-12-08T06:32:08Z
   Total Products: 30
 - [HOTWHEELS PREMIUM](https://theworldofnerds.com/collections/hotwheels-premium): Rev up your nostalgia with Hot Wheels Premium Pop Culture cars! This exclusive collection features meticulously crafted die-cast vehicles that celebrate iconic moments from movies, TV shows, and music. Each car is adorned with vibrant, high-quality graphics and unique detailing that pays homage to beloved pop culture classics. From legendary films to timeless television series, these cars are not just toys—they're collector's items that capture the essence of your favorite stories. With a focus on realism and artistry, Hot Wheels Premium Pop Culture cars make the perfect addition to any collection, inviting fans of all ages to relive the magic of the moments that shaped their childhoods.
-  Updated: 2025-12-28T12:13:33Z
+  Updated: 2026-01-25T12:11:47Z
   Total Products: 21
 - [HOTWHEELS MAINLINE](https://theworldofnerds.com/collections/hotwheels-mainline): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2026-01-07T12:13:38Z
+  Updated: 2026-01-27T12:11:26Z
   Total Products: 100
 - [KIDS CAMERA](https://theworldofnerds.com/collections/kids-camera): A kids’ camera toy is like giving your little one their very own way to capture the world! Made with bright colors and soft, durable materials, these cameras are super easy for small hands to use. They let kids snap photos, shoot videos, and sometimes even play fun games all while letting them feel like a little photographer. Some even come with cool filters and cute accessories, so they can get creative with their shots. It’s the perfect way to spark their imagination and let them see the world in a whole new way, all while having a blast!
   Updated: 2025-08-12T11:12:51Z
   Total Products: 5
 - [MAJORETTE](https://theworldofnerds.com/collections/majorette): Explore the vibrant world of Majorette cars! Our high-quality die-cast vehicles feature realistic designs and durable construction, perfect for imaginative play and display. From sleek sports cars to essential emergency vehicles, Majorette offers a diverse collection that captivates automotive enthusiasts of all ages. Ideal for gifts or as a collectible, Majorette cars are sure to spark joy and creativity.
-  Updated: 2026-01-11T12:11:51Z
+  Updated: 2026-01-27T12:11:26Z
   Total Products: 193
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2026-01-11T12:11:51Z
+  Updated: 2026-01-23T12:11:51Z
   Total Products: 265
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
   Updated: 2026-01-09T12:13:17Z
@@ -12303,7 +13276,7 @@
   Updated: 2025-12-24T12:15:39Z
   Total Products: 4
 - [KATANA PEN](https://theworldofnerds.com/collections/katana-pen): Add a touch of elegance and strength to your desk with our Katana Pens! Inspired by the legendary Japanese sword, these pens combine the artistry of traditional craftsmanship with modern functionality. Designed with intricate details resembling a katana’s hilt and blade, each pen offers smooth writing while making a bold statement. Whether you're a collector, a fan of unique stationery, or just looking for a conversation starter, the Katana Pen is a must-have accessory. Unleash your creativity and write with the precision and style of a true warrior!
-  Updated: 2025-12-24T12:15:38Z
+  Updated: 2026-01-21T12:11:58Z
   Total Products: 11
 - [HOTWHEELS ULTRA HOTS](https://theworldofnerds.com/collections/hotwheels-ultra-hots): Rev up your collection with Hot Wheels Ultra Hots! Known for their sleek designs and high-performance wheels, Ultra Hots are built for speed and style. These cars feature eye-catching graphics, bold colors, and ultra-detailed designs, making them a standout addition to any Hot Wheels collection. With enhanced wheels for smoother, faster races, the Ultra Hots series delivers an exciting experience whether you're displaying them on your shelf or racing them on the track. Perfect for collectors and racing fans, these cars bring the ultimate Hot Wheels thrill to your collection!
   Updated: 2025-10-27T07:39:48Z
@@ -12318,14 +13291,14 @@
   Updated: 2025-12-23T12:09:58Z
   Total Products: 27
 - [ALL KATANA](https://theworldofnerds.com/collections/all-katana): A katana toy is like holding a piece of samurai history in your hands! While it's not meant for real combat, these miniature swords are crafted with amazing detail to look just like the real thing. Made from materials like plastic or metal, they usually come with cool features like intricate designs on the hilt and faux blades that shine just like a real katana. Whether you’re into cosplay, love samurai culture, or just think they look awesome, katana toys let you connect with that history and bring a touch of elegance and coolness to your collection or playtime. Perfect for displaying or pretending you’re a legendary warrior!
-  Updated: 2026-01-01T12:13:04Z
-  Total Products: 38
+  Updated: 2026-01-21T12:11:58Z
+  Total Products: 44
 - [NEON KATANA](https://theworldofnerds.com/collections/neon-katana): Illuminate your collection with our striking Neon Katanas! Combining the traditional elegance of the katana with vibrant, glowing neon colors, these swords are perfect for those who appreciate both art and style. Designed with LED lights that shine brightly in the dark, these neon katanas make an eye-catching display piece or a fun prop for cosplay and themed events. Whether you’re a collector, a fan of futuristic design, or looking for a unique addition to your decor, our neon katanas bring bold, dynamic energy to any space.
   Updated: 2025-10-24T04:50:38Z
   Total Products: 5
 - [WOODEN KATANA](https://theworldofnerds.com/collections/wooden-katana): Unleash the spirit of the samurai with our beautifully crafted Wooden Katanas. Each katana is meticulously made from high-quality wood, designed to resemble the iconic Japanese sword in both style and detail. Perfect for collectors, martial arts enthusiasts, or anyone looking to add a touch of traditional elegance to their space, these wooden katanas offer a safe and striking display piece. Whether you're training, decorating your home, or showcasing your love for Japanese culture, our wooden katanas bring timeless craftsmanship to life.
-  Updated: 2026-01-01T12:13:04Z
-  Total Products: 22
+  Updated: 2026-01-20T06:29:03Z
+  Total Products: 32
 - [MAISTO BIKE SCALE 1:12](https://theworldofnerds.com/collections/diecast-bikes-2): Bring precision and craftsmanship to your collection with Maisto 1:12 Scale Bikes! Renowned for their attention to detail, these 1:12 scale models offer an impressive representation of iconic motorcycles in miniature form. Each diecast bike features intricate design elements, from realistic engine details to movable parts, capturing the essence of real-world motorcycles. Perfect for collectors and enthusiasts, these Maisto bikes are crafted with durable materials and vibrant finishes, making them ideal for display or as a thoughtful gift. Add a Maisto 1:12 scale bike to your collection and experience the thrill of motorcycling in miniature!
   Updated: 2026-01-07T12:13:38Z
   Total Products: 23
@@ -12339,28 +13312,28 @@
   Updated: 2025-12-23T12:15:00Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2026-01-11T12:11:51Z
-  Total Products: 488
+  Updated: 2026-01-27T13:21:42Z
+  Total Products: 598
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
-  Updated: 2026-01-12T06:00:36Z
+  Updated: 2026-01-16T12:13:02Z
   Total Products: 142
 - [MAISTO DIECAST CAR'S](https://theworldofnerds.com/collections/maisto): Get ready to rev up your collection with Maisto Diecast Cars! Known for their exceptional craftsmanship and attention to detail, Maisto diecast cars offer a perfect blend of realism and durability. From sleek sports cars to classic vintage models, each car is carefully crafted with realistic features, intricate designs, and vibrant finishes. Whether you’re a passionate car collector or simply a fan of fine models, Maisto cars are built to impress and are ideal for display, gifting, or adding to your collection. Start your Maisto journey today and experience the ultimate in diecast car excellence!
-  Updated: 2025-11-27T11:02:28Z
+  Updated: 2026-01-23T12:11:51Z
   Total Products: 14
 - [BBURAGO DIECAST CAR'S](https://theworldofnerds.com/collections/bburago): Step into the world of high-quality craftsmanship with BBURAGO Diecast Cars! Known for their attention to detail and authentic designs, BBURAGO offers a wide range of diecast cars, from classic vintage models to the latest sports cars. Each model is expertly crafted with precision, featuring realistic finishes, detailed interiors, and movable parts, making them perfect for collectors and car enthusiasts alike. Whether you're displaying them on your shelf or racing them on your track, BBURAGO’s diecast cars are built to impress with their stunning design and durability.
-  Updated: 2026-01-03T12:13:14Z
+  Updated: 2026-01-26T12:10:50Z
   Total Products: 63
 - [BBURAGO CAR SCLAE 1:18](https://theworldofnerds.com/collections/sclae-1-18): Take your collection to the next level with BBURAGO 1:18 Scale Cars! These larger-than-life diecast models are crafted with impeccable attention to detail, offering a stunning representation of both classic and modern vehicles. From fully functional doors and hoods to intricate interiors, each model is designed to showcase the finest automotive features in a 1:18 scale. Perfect for serious collectors, car enthusiasts, or anyone who appreciates high-quality craftsmanship, BBURAGO’s 1:18 scale cars deliver both style and realism in every piece.
   Updated: 2025-07-29T05:10:29Z
   Total Products: 2
 - [BBURAGO CAR SCALE 1:24](https://theworldofnerds.com/collections/car-scale-1-24): Experience the thrill of automotive perfection with BBURAGO 1:24 Scale Cars! These meticulously crafted diecast models offer an exceptional level of detail, capturing the essence of both classic and modern vehicles. With functional features like opening doors, hoods, and trunks, as well as stunning paint finishes, BBURAGO's 1:24 scale cars are designed to impress. Perfect for collectors and car enthusiasts, these models are ideal for display or as a thoughtful gift. Whether you're adding to your collection or showcasing your passion for cars, BBURAGO’s 1:24 scale models are a must-have for any fan!
-  Updated: 2026-01-03T12:13:14Z
+  Updated: 2026-01-26T12:10:50Z
   Total Products: 37
 - [MAISTO CAR SCALE 1:25](https://theworldofnerds.com/collections/car-scale-1-25): Add a touch of automotive excellence to your collection with Maisto 1:25 Scale Cars! These beautifully detailed diecast models are crafted to showcase the precision and style of real-world vehicles in a slightly smaller 1:25 scale. With intricate designs, realistic finishes, and carefully recreated features, each car in this collection offers a true-to-life representation of both classic and modern vehicles. Whether you're a car enthusiast, a collector, or looking for the perfect gift, Maisto’s 1:25 scale cars are a must-have addition to any diecast collection!
   Updated: 2025-07-29T05:10:29Z
   Total Products: 1
 - [MAISTO CAR SCALE 1:18](https://theworldofnerds.com/collections/maisto-car-scale-1-18): Elevate your collection with Maisto 1:18 Scale Cars! Known for their impressive detail and craftsmanship, these diecast cars offer an authentic, larger-than-life version of your favorite vehicles. From luxurious sports cars to classic models, each car features finely detailed exteriors, realistic interiors, and functional moving parts like doors, hoods, and trunks. Maisto's 1:18 scale cars are perfect for collectors and car enthusiasts, offering both beauty and functionality in a display-ready format. Whether you’re looking to add to your collection or searching for the perfect gift, these cars bring the world of automotive excellence right to your shelf.
-  Updated: 2025-08-09T11:09:43Z
+  Updated: 2026-01-23T12:11:51Z
   Total Products: 2
 - [MAISTO CAR SCALE 1:24](https://theworldofnerds.com/collections/maisto-car-scale-1-24): Unleash the power of precision with Maisto 1:24 Scale Cars! These highly detailed diecast models capture the essence of your favorite cars in a larger, 1:24 scale. From classic muscle cars to modern sports cars, each model is crafted with intricate details, including opening doors, hoods, and trunks, as well as realistic finishes that showcase the beauty of real-world vehicles. Perfect for collectors, car enthusiasts, or anyone who appreciates fine craftsmanship, Maisto’s 1:24 scale cars are ideal for display or as a standout gift. Start your collection today and add a touch of automotive excellence to your space!
   Updated: 2025-11-27T11:02:28Z
@@ -12381,32 +13354,32 @@
   Updated: 2025-10-27T11:10:40Z
   Total Products: 38
 - [ALL ACTION FIGURES](https://theworldofnerds.com/collections/action-figures): Action figures are more than just toys—they’re a chance to bring your favorite characters to life. With their detailed designs, movable joints, and cool accessories, these figures let you recreate epic moments or imagine your own adventures. Whether it’s superheroes, villains, or characters from your favorite shows, each figure captures the essence of who they are, making them fun to play with or display. For kids, they’re a tool for creativity and storytelling, and for collectors, they’re a way to hold onto a piece of the worlds we love. Simply put, action figures make playtime and display a lot more exciting!
-  Updated: 2026-01-12T12:11:21Z
-  Total Products: 286
+  Updated: 2026-01-27T12:08:53Z
+  Total Products: 285
 - [RC](https://theworldofnerds.com/collections/rc): Remote control toys are an awesome way to have some fun and let your imagination run wild. Whether it’s racing cars, flying drones, or even controlling a little robot, these toys let you take charge of the action. They’re not just for kids—adults love them too! You can race around, do tricks, or just enjoy the thrill of controlling something with a simple push of a button. Plus, they’re a great way to practice coordination and problem-solving. With so many cool options out there, there’s a remote control toy for pretty much anyone and any interest.
-  Updated: 2025-08-30T05:30:08Z
-  Total Products: 10
+  Updated: 2026-01-28T05:20:39Z
+  Total Products: 11
 - [KARAOKE SPEAKERS](https://theworldofnerds.com/collections/karaoke-speakers): Turn any space into the ultimate karaoke party with our high-quality karaoke speakers! Designed for crystal-clear sound and powerful performance, these speakers make your singing experience unforgettable. Whether you're hosting a family gathering, a party, or just practicing your favorite hits, our karaoke speakers deliver rich audio, adjustable settings, and Bluetooth connectivity for easy pairing. With built-in microphones, vibrant lighting effects, and portable designs, they’re perfect for taking your karaoke sessions wherever you go. Get ready to sing your heart out and enjoy endless fun with our top-rated karaoke speakers!
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2026-01-11T12:11:51Z
-  Total Products: 305
+  Updated: 2026-01-27T12:49:02Z
+  Total Products: 306
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-21T12:11:58Z
   Total Products: 121
 - [DC & MARVEL KEYCHAINS](https://theworldofnerds.com/collections/dc-marvel-keychains): Show off your superhero pride with our epic collection of DC and Marvel keychains! Featuring your favorite characters from both iconic universes, these keychains are perfect for fans of all ages. Whether you're team Batman, Wonder Woman, Spider-Man, or Iron Man, our keychains bring your beloved heroes and villains to life in vibrant, durable designs. Made with high-quality materials, these keychains are not just functional, but a stylish way to express your fandom. Add a heroic touch to your everyday essentials or give the perfect gift to a fellow superhero enthusiast!
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-13T12:11:59Z
   Total Products: 34
 - [ANIME KEYCHAIN](https://theworldofnerds.com/collections/anime-keychain): Show your love for anime with our exclusive collection of Anime Keychains! Featuring your favorite characters from popular anime series, these keychains are the perfect way to carry a piece of your fandom wherever you go. Made with vibrant colors and high-quality materials, each keychain is designed to showcase the iconic heroes, villains, and moments that make anime so unforgettable. Whether you’re looking to add some personality to your bag, keys, or accessories, our anime keychains are the perfect way to express your passion for the world of anime!
-  Updated: 2026-01-11T12:11:51Z
-  Total Products: 146
+  Updated: 2026-01-27T12:49:02Z
+  Total Products: 147
 - [SPORTS KEYCHAIN](https://theworldofnerds.com/collections/sports-keychain): Show off your love for sports with our collection of Sports Keychains! Whether you're a fan of football, basketball, soccer, or any other sport, these keychains are the perfect way to carry a symbol of your favorite game with you. Crafted with attention to detail and durable materials, each keychain features iconic sports equipment, team logos, or action-packed designs that will make a bold statement. Perfect for athletes, fans, or anyone who loves the thrill of the game, these sports keychains are a great addition to your everyday essentials or make an ideal gift for the sports enthusiast in your life.
   Updated: 2026-01-05T12:12:20Z
   Total Products: 7
 - [ALL DIECAST BIKES](https://theworldofnerds.com/collections/diecast-bikes): Rev up your collection with our detailed Diecast Bikes! These miniature replicas are crafted with precision and attention to detail, capturing the sleek design and power of iconic motorcycles. From classic cruisers to modern superbikes, each diecast bike is built to impress with high-quality materials and realistic features. Whether you're a motorcycle enthusiast or a collector, these diecast bikes are perfect for displaying your love for two-wheelers. Start your collection today and bring home the perfect addition to your garage or display shelf!
-  Updated: 2026-01-07T12:13:38Z
-  Total Products: 56
+  Updated: 2026-01-23T10:35:54Z
+  Total Products: 57
 - [ACCESSORIES](https://theworldofnerds.com/collections/accessories): Unleash your ninja spirit with our collection of Naruto Rings! Inspired by the iconic symbols and characters from the world of Naruto, these rings are the perfect way to showcase your love for the series. Crafted with intricate details, each ring represents elements from the Hidden Villages, clans, and powerful shinobi, making them a must-have for any true fan. Whether you’re looking for a symbol of the Sharingan, the Akatsuki cloud, or the Leaf Village, our Naruto rings combine style and fandom, letting you carry a piece of the ninja world wherever you go.
   Updated: 2025-12-26T12:09:32Z
   Total Products: 3
@@ -12417,11 +13390,11 @@
   Updated: 2025-07-29T05:10:31Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2026-01-11T12:11:51Z
+  Updated: 2026-01-27T12:11:26Z
   Total Products: 217
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2026-01-12T13:22:48Z
-  Total Products: 581
+  Updated: 2026-01-27T12:11:26Z
+  Total Products: 580
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
   Total Products: 1
@@ -12438,11 +13411,11 @@
   Updated: 2025-08-04T11:09:26Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2026-01-12T13:22:48Z
-  Total Products: 626
+  Updated: 2026-01-27T12:11:26Z
+  Total Products: 625
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
-  Updated: 2026-01-09T12:13:17Z
-  Total Products: 379
+  Updated: 2026-01-27T12:49:02Z
+  Total Products: 382
 - [TOYS & EXPLORERS FAVOURITES](https://theworldofnerds.com/collections/toys-explorers-favourites): "Unleash the fun with our Toys & Explorers' Favorites collection! From action-packed figures and interactive playsets to educational toys and adventure-ready collectibles, there’s something for every young explorer and collector. Whether you're into superheroes, anime, fantasy worlds, or hands-on discovery, our carefully curated selection brings imagination to life. Perfect for kids and the young at heart—shop now and start your next adventure!" 🚀🎮✨
   Updated: 2025-10-27T11:10:40Z
   Total Products: 31
@@ -12453,7 +13426,7 @@
   Updated: 2026-01-09T11:05:16Z
   Total Products: 26
 - [HOT WHEELS SET OF 5](https://theworldofnerds.com/collections/hot-wheels-set-of-5): Unleash the thrill of speed and style with the Hot Wheels Set of 5, a carefully curated collection of high-performance diecast cars designed for collectors, racers, and dreamers alike. Each car in this set boasts striking designs, precision detailing, and signature smooth-rolling wheels, making them perfect for high-speed track action or eye-catching display. Whether you're expanding your collection, setting up epic races, or gifting a fellow car enthusiast, this set delivers iconic Hot Wheels energy in every ride.
-  Updated: 2026-01-10T12:13:40Z
+  Updated: 2026-01-18T12:12:41Z
   Total Products: 5
 - [HOT WHEELS CROME PIECES](https://theworldofnerds.com/collections/hot-wheels-crome-pieces): Upgrade your Hot Wheels collection with our premium Chrome Edition pieces, designed for collectors and enthusiasts alike. These die-cast cars feature a sleek, high-shine chrome finish that enhances their bold designs, making them stand out on any display or track. Crafted with precision and attention to detail, each model boasts vibrant accents, smooth-rolling wheels, and an authentic build that captures the essence of speed and style. Perfect for racing, showcasing, or gifting, these limited-edition chrome Hot Wheels add a touch of luxury and exclusivity to your collection. Get yours now and elevate your racing experience!
   Updated: 2025-12-21T12:15:11Z
@@ -12462,23 +13435,23 @@
   Updated: 2026-01-09T06:35:37Z
   Total Products: 9
 - [NARUTO](https://theworldofnerds.com/collections/naruto): Naruto Collection – Unleash Your Ninja Spirit! Step into the world of shinobi with our exclusive Naruto merchandise, featuring epic apparel, high-quality hoodies, t-shirts, accessories, collectible figurines, and iconic headbands inspired by the Hidden Leaf Village. Whether you're a die-hard fan of Naruto Uzumaki, Sasuke Uchiha, or the legendary Hokages, our collection lets you showcase your ninja pride in style. Train like a shinobi and represent your favorite anime with officially inspired Naruto gear. Shop now and awaken your inner ninja!
-  Updated: 2026-01-09T13:06:54Z
+  Updated: 2026-01-20T10:11:55Z
   Total Products: 83
 - [DEMON SLAYER](https://theworldofnerds.com/collections/demon-slayer): Demon Slayer Collection – Embrace the way of the blade and immerse yourself in the world of Kimetsu no Yaiba with our exclusive Demon Slayer merchandise. Discover high-quality apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Nichirin sword replicas. Whether you admire Tanjiro’s determination, Nezuko’s resilience, or the fierce Hashira warriors, our collection lets you showcase your love for the series in style. Gear up like a true demon slayer and bring the spirit of the anime to life. Shop now and join the fight against the demons.
-  Updated: 2026-01-09T13:00:06Z
+  Updated: 2026-01-20T09:44:47Z
   Total Products: 65
 - [ONE PIECE](https://theworldofnerds.com/collections/one-piece): One Piece Collection – Set sail on an epic adventure with our exclusive One Piece merchandise inspired by the world of pirates and the Grand Line. Discover a treasure trove of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Straw Hat gear. Whether you admire Luffy’s unbreakable spirit, Zoro’s unmatched swordsmanship, or the bond of the Straw Hat crew, our collection lets you celebrate your love for the legendary anime in style. Join the journey, embrace the pirate life, and find your next treasure. Shop now and become a part of the One Piece world.
-  Updated: 2026-01-12T06:00:36Z
-  Total Products: 107
+  Updated: 2026-01-28T05:25:11Z
+  Total Products: 100
 - [DRAGON BALL Z](https://theworldofnerds.com/collections/dragon-ball-z): Dragon Ball Z Collection – Power up your style with our exclusive Dragon Ball Z merchandise inspired by the legendary Saiyan warriors. Explore a dynamic range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items like Dragon Balls and Saiyan armor. Whether you admire Goku’s unstoppable determination, Vegeta’s fierce pride, or the intense battles that shaped the universe, our collection lets you showcase your love for the series. Train like a true warrior, unleash your power, and take your fandom to the next level. Shop now and channel the energy of the Dragon Ball Z universe.
-  Updated: 2026-01-12T12:11:21Z
-  Total Products: 99
+  Updated: 2026-01-28T05:22:41Z
+  Total Products: 102
 - [JUJUTSU KAISEN](https://theworldofnerds.com/collections/jujutsu-kaisen): Jujutsu Kaisen Collection – Step into the world of sorcery and cursed energy with our exclusive Jujutsu Kaisen merchandise. Explore a powerful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items inspired by Gojo Satoru, Itadori Yuji, Megumi Fushiguro, and other legendary jujutsu sorcerers. Whether you’re drawn to intense battles, powerful domain expansions, or the dark and mysterious world of curses, our collection lets you showcase your love for the series in style. Shop now and embrace the power of Jujutsu Kaisen.
-  Updated: 2025-12-27T12:16:06Z
-  Total Products: 28
+  Updated: 2026-01-28T05:00:55Z
+  Total Products: 29
 - [POKEMON](https://theworldofnerds.com/collections/pokemon): Pokemon Collection – Catch ‘em all with our exclusive Pokemon merchandise, perfect for trainers of all ages. Explore a wide range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Pikachu, Charizard, Eevee, and other beloved Pokemon. Whether you’re a longtime fan or just starting your journey, our collection brings the magic of the Pokemon world to life. Train, battle, and collect your favorites in style. Shop now and become the ultimate Pokemon Master.
-  Updated: 2026-01-11T12:11:51Z
-  Total Products: 60
+  Updated: 2026-01-27T12:16:21Z
+  Total Products: 61
 - [DEATH NOTE](https://theworldofnerds.com/collections/death-note): Death Note Collection – Enter the world of mystery and mind games with our exclusive Death Note merchandise. Discover a dark and stylish selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items inspired by Light Yagami, L, Ryuk, and the legendary Death Note itself. Whether you admire Light’s intellect, L’s detective skills, or the thrilling battle of wits, our collection lets you showcase your love for the series. Shop now and embrace the power of Death Note.
   Updated: 2025-12-30T12:12:48Z
   Total Products: 3
@@ -12495,16 +13468,16 @@
   Updated: 2025-12-25T06:25:27Z
   Total Products: 1
 - [SHINCHAN](https://theworldofnerds.com/collections/shinchan): Shinchan Collection – Bring the fun and mischief of Shinchan into your life with our exclusive merchandise inspired by the beloved cartoon. Explore a playful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Shinchan, his family, and friends. Whether you love his hilarious antics, carefree attitude, or nostalgic moments, our collection lets you relive the joy of this classic series. Shop now and add a little Shinchan-style mischief to your day.
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-22T12:11:45Z
   Total Products: 50
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2026-01-12T13:22:48Z
-  Total Products: 980
+  Updated: 2026-01-27T12:08:53Z
+  Total Products: 979
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-26T12:10:50Z
   Total Products: 141
 - [DC](https://theworldofnerds.com/collections/dc): "Dive into the DC Universe with our latest collection of collectibles! Featuring legendary heroes and villains like Batman, Superman, Wonder Woman, The Joker, and more, our lineup includes action figures, Funko Pop! collectibles, keychains, and epic merchandise. Whether you're a fan of the Justice League, Gotham’s dark knights, or the rogues of Metropolis, these high-quality items bring the iconic battles and stories of DC to life. Add your favorite characters to your collection today!" 🦇⚡🔥
-  Updated: 2026-01-12T13:07:03Z
+  Updated: 2026-01-26T12:10:50Z
   Total Products: 20
 - [GAME OF THRONES](https://theworldofnerds.com/collections/game-of-thrones): "Step into the world of Game of Thrones with our latest collectibles! From the mighty House Stark and Targaryen to legendary characters like Jon Snow, Daenerys, and the Night King, our collection features action figures, Funko Pop! collectibles, keychains, and more. Whether you're a loyal fan of the Seven Kingdoms or a collector of epic fantasy memorabilia, these high-quality items bring the drama, power, and intrigue of Westeros to life. Claim your piece of the throne today!" ⚔️🔥🐉
   Updated: 2025-12-25T06:18:55Z
@@ -12516,22 +13489,22 @@
   Updated: 2025-11-11T12:13:46Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they  out!" 🚗✨
-  Updated: 2026-01-12T06:00:36Z
-  Total Products: 580
+  Updated: 2026-01-28T05:28:20Z
+  Total Products: 676
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
   Total Products: 8
 - [SUPER MARIO](https://theworldofnerds.com/collections/super-mario)
-  Updated: 2025-12-24T12:15:39Z
-  Total Products: 6
+  Updated: 2026-01-27T13:28:19Z
+  Total Products: 7
 - [ZD Toys](https://theworldofnerds.com/collections/zd-toys)
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-24T12:12:56Z
   Total Products: 69
 - [PRE ORDERS](https://theworldofnerds.com/collections/pre-orders)
-  Updated: 2025-12-06T12:15:46Z
+  Updated: 2026-01-19T09:32:12Z
   Total Products: 17
 - [⚡ ALL ANIME MERCHANDISE ⚔️🔥](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2026-01-12T12:13:32Z
+  Updated: 2026-01-22T12:11:45Z
   Total Products: 417
 - [MATCHBOX](https://theworldofnerds.com/collections/matchbox)
   Updated: 2025-12-16T12:21:02Z
@@ -12546,11 +13519,29 @@
   Updated: 2026-01-02T13:00:23Z
   Total Products: 52
 - [Best ](https://theworldofnerds.com/collections/best-)
-  Updated: 2026-01-09T12:13:17Z
+  Updated: 2026-01-21T12:11:57Z
   Total Products: 85
 - [Anime Ultimates](https://theworldofnerds.com/collections/anime-ultimates)
   Updated: 2026-01-09T13:25:44Z
   Total Products: 13
+- [SCALE 1:64](https://theworldofnerds.com/collections/cca)
+  Updated: 2026-01-26T12:10:50Z
+  Total Products: 48
+- [CCA](https://theworldofnerds.com/collections/cca-1)
+  Updated: 2026-01-26T12:10:50Z
+  Total Products: 76
+- [SCALE : 1:64 (WITH CASE)](https://theworldofnerds.com/collections/scale-1-64)
+  Updated: 2026-01-26T07:47:16Z
+  Total Products: 29
+- [MSZ](https://theworldofnerds.com/collections/msz)
+  Updated: 2026-01-26T05:24:28Z
+  Total Products: 20
+- [Roster](https://theworldofnerds.com/collections/roster)
+  Updated: 2026-01-26T05:34:53Z
+  Total Products: 12
+- [RASTAR](https://theworldofnerds.com/collections/rastar)
+  Updated: 2026-01-27T04:44:42Z
+  Total Products: 12
 
 ## Store Pages
 
