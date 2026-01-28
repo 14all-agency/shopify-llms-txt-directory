@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-01-21T04:00:27.726Z
+- Updated At: 2026-01-28T04:00:28.062Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -267,7 +267,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ToddlerChoreChart-MegaBundleDailyTasks-PrintablePlanning.jpg?v=1687799976
   Price: $9.95 USD
 - [Toddler Chore Chart BUNDLE - Pink Purple Daily Routine Weekly Pages - Printable](https://printableplanning.com/products/toddler-chore-chart-bundle-pink-purple-daily-routine-weekly-pages-printable): A printable Toddler Chore Chart BUNDLE - Pink Purple Daily Routine Weekly Pages for young children that you use as a parent to help your kids learn to do their daily routines on their own and grow personal responsibility. Teaching kids at a young age, as young as a toddler, to have responsibility in doing daily tasks has a wide variety of benefits. This chart includes tasks for: Brushing their teeth in the morning. Getting dressed. Making the bed. Evening tasks for cleaning up their toys. Putting their dirty clothes away when getting dressed for nighttime. Brushing their teeth before bedtime. This purchase gets you both the pink and purple toddler chore charts. Other charts are available in shop, individually as well. SPECIFICATIONS: (2) 8.5" x 11" printable PDF pages. Visually stimulating. Includes pictures to illustrate tasks. Two color options are available, ideal for households with multiple girls. Print new pages from this printable Toddler Chore Chart BUNDLE - Pink Purple Daily Routine Weekly Pages every week or as needed.
-  Updated: 2025-07-21T19:21:12Z
+  Updated: 2026-01-25T09:21:12Z
   Vendor: Artistically Invited
   Product Type: Chore Chart
   Availability: Available
@@ -708,7 +708,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/AdorableLittlePenguinAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686182042
   Price: $5.95 USD
 - [Adorable Little Girl Penguin Address Labels - Printable](https://printableplanning.com/products/adorable-little-girl-penguin-address-labels-printable): Printable 8.5" x 11" page of adorable little girl penguin address labels designed with a cute and adorable little rounded girl penguin wearing a pink bow and personalized with your address in black. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable adorable little girl penguin address labels.
-  Updated: 2025-07-21T19:21:00Z
+  Updated: 2026-01-26T09:33:56Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
@@ -953,7 +953,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/HousekeepingWeeklyChecklist-CleaningServicesEditableRoomandTaskList-PrintablePlanning.jpg?v=1687031852
   Price: $5.95 USD
 - [School Supplies Shopping List - Consolidated - Printable](https://printableplanning.com/products/school-supplies-shopping-list-consolidated-printable): Printable school supplies shopping list that consolidates your supply shopping efforts in an organized way for when you have multiple school age children. Each sheet displays a column for writing everyone's school supplies, a column for the total number of those supplies that are needed as a whole, and then columns for up to 4 kids' names with their individual supply needs. The circles on the left of the supplies allow you to check off what you've already found while school supply shopping. Print as many sheets as you need, or a new sheet every time you need one. Use this sheet for every school year. Print 2 sheets or more if all of the supplies do not fit on one sheet, or if you have more than 4 children. If more than 4 children, make sure the entire total only goes in one total column on one of the sheets. SHOPPING LIST INCLUDES: 4 name columns - for up to 4 children on one sheet. Below the names you will write their individual school supply totals. Column for all of the school supplies, on every child's' list. Column for TOTAL number of each school supply for all children combined so that you do not have to shuffle through every child's individual shopping list from their teacher. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Full page. Visually appealing and gives you a clear organized view of every supply that is needed, and then for which child for sorting or distributing once your shopping is done. Print a new printable School Supplies Shopping List - Consolidated every year or as needed.
-  Updated: 2025-07-21T19:20:30Z
+  Updated: 2026-01-25T09:10:52Z
   Vendor: Artistically Invited
   Product Type: School and Teachers
   Availability: Available
@@ -1247,7 +1247,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/RedGinghamDailyOrganizationCategoryTaskSheet-PrintablePlanning.jpg?v=1687023367
   Price: $5.95 USD
 - [Turquoise Gingham Daily Organization Category Task Sheet - Printable](https://printableplanning.com/products/turquoise-gingham-daily-organization-category-task-sheet-printable): Get your daily life organized with our turquoise gingham daily organization category task sheet. A printable full page daily task list for your daily personal activities and responsibilities with a turquoise gingham design. This list highlights many of the common tasks people face everyday. It's a full page size, giving you a full and clear view of your daily tasks. Print as many sheets as you need, or a new sheet every time you need one. INCLUDED on SHEET: Important Tasks. People to Call. Errands. If I get to them... tasks. SPECIFICATIONS: 8.5" x 11" printable PDF page. Full page daily task list. Simple and clean. Color and Design: Turquoise Gingham. Excellent for personal daily to-do lists. Print a new printable turquoise gingham daily organization category task sheet every time you need more.
-  Updated: 2025-07-21T19:20:23Z
+  Updated: 2026-01-22T04:02:43Z
   Vendor: Artistically Invited
   Product Type: To-Do List
   Availability: Available
@@ -2839,25 +2839,25 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-01-20T12:01:15Z
+  Updated: 2026-01-27T12:00:43Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-01-17T12:01:14Z
+  Updated: 2026-01-23T12:01:06Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2026-01-20T12:01:15Z
+  Updated: 2026-01-27T12:00:43Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website  lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2026-01-15T12:01:18Z
+  Updated: 2026-01-23T12:01:06Z
   Total Products: 13
 - [Caregivers, Health, Housekeeping, and Pet forms at Printable Planning](https://printableplanning.com/collections/caregivers-health-housekeeping): A collection of printable forms designed for caregivers of both people and pets. Our comprehensive suite includes baby logs, nanny logs, health information sheets, and specialized forms for elderly and disability care. You'll also find a range of forms for housekeeping and cleaning tasks. Perfect for organizing and streamlining your caregiving responsibilities.
-  Updated: 2026-01-16T12:01:03Z
+  Updated: 2026-01-26T12:00:56Z
   Total Products: 41
 - [Printable Financial Sheets online at Printable Planning](https://printableplanning.com/collections/financial-sheets): Get your money organized with financial sheets. Printable Planning provides a collection of printable financial sheets and logs. Your money is one of your most important assets. It is important to keep track of your finances and follow your expenses. These financial sheets are designed to help you with various money-related areas of your life, from keep track of your finances, to help you keep track of your monthly bills, to help you with saving money, to help you with paying off debt. Find the printable financial sheets that will help you the most. • 8.5" x 11" printable PDF pages.• Print as many times as you need.
   Updated: 2026-01-20T12:01:15Z
   Total Products: 43
 - [Holiday and Occasion Printables: Gift Tags, RSVP Organizers & More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Discover DIY Christmas gift tags, holiday bookmarks, RSVP organizers, and more, perfect for your holiday events, special occasions, or other celebrations.
-  Updated: 2026-01-17T12:01:14Z
+  Updated: 2026-01-27T12:00:43Z
   Total Products: 65
 - [Printable Calendars and Planner Pages | Letter Size and Undated](https://printableplanning.com/collections/calendars-and-planner-pages): Get organized with blank and undated printable calendars and planner pages. Perfect for home, work, or on-the-go. Perfect for professional or personal use.
   Updated: 2025-12-10T21:41:06Z
@@ -2872,10 +2872,10 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-01-17T12:01:14Z
   Total Products: 53
 - [Printable goodies for School and Teachers online at Printable Planning](https://printableplanning.com/collections/school-and-teachers): Grading forms, homework assignments, name labels for school supplies, and more! Printable Planning brings you a collection of printable forms and labels for back to school, the school year, and teacher forms and labels. Popular listings include the name labels for school supplies. You'll also find organizational pages for your homework, for teachers to grade their students, school supplies shopping lists, and more. • 8.5" x 11" printable PDF pages and label sheets.• Print as many times as you need once you have your download.
-  Updated: 2026-01-07T12:01:05Z
+  Updated: 2026-01-23T12:01:06Z
   Total Products: 42
 - [Children's Printable Pages online at Printable Planning](https://printableplanning.com/collections/childrens-printable-pages): Printable pages, chore charts, and goodies for children. Printable Planning provides a collection of fun and useful printable chore charts, organizational pages, and goodies such as bowling sheets for children. Children need organization, and having kids means parents sometimes need organizational tools too. Shop this collection of highly affordable pages, charts, and goodies. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Some of the charts and goodies require DIY crafting to utilize their full use.
-  Updated: 2026-01-17T12:01:14Z
+  Updated: 2026-01-23T12:01:06Z
   Total Products: 29
 - [Printable Diet and Exercise Sheets online at Printable Planning](https://printableplanning.com/collections/diet-and-exercise-sheets): Stay on track with your health goals with Diet and Exercise Sheets. Printable Planning brings you a collection of printable diet tracking sheets and exercise logs. Whether you're making your New Years resolutions to get healthy and fit, or if you're looking for a better way to keep track of your diet and exercise goals, these printable tracking sheets and logs will help you stay organized. • 8.5" x 11" printable PDF pages.• Print as many times as you need. * Please consult a doctor or health professional before beginning any diet or exercise regimen. These printables are in no way an  by Printable Planning of any diet or exercise routine.
   Updated: 2025-11-23T12:01:17Z
@@ -2887,7 +2887,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-01-09T12:01:07Z
   Total Products: 15
 - [Printable To-Do Lists and Task Checklists](https://printableplanning.com/collections/to-do-lists-and-task-checklists): To-do lists and task checklists to organize your life. Printable Planning brings you a collection of printable to-do lists and task checklists for organizing each day or week of your life. Use these printable lists and sheets to keep track of all of your tasks and to-dos that you have on a daily or weekly basis, or keep a running list. These affordable sheets are available as an instant download when you purchase, and as long as you keep your file(s) you can print them forever. Find the printable list or checklist that works for you! • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2025-12-10T20:55:28Z
+  Updated: 2026-01-26T12:00:56Z
   Total Products: 26
 
 ## Store Pages
