@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2026-01-21T00:00:37.176Z
+- Updated At: 2026-01-28T00:00:40.980Z
 
 ## Products
 
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/sterling-silver-4-leaf-clover-charm-braceletbraceletsfabufabufabufabu-design-storesl0260-whitewhite8-89118528-4726-41af-8f87-b4d9d3fe64f2-8349464.jpg?v=1765257969
     Price: $25.57 USD
 - [S925 Sterling Silver Stars Bracelet](https://fabufabu.com/products/s925-sterling-silver-stars-bracelet): bracelet is the actual idea of using star and beaded style, simple and elegant. Star bracelet can be free to match according to your preferences.
-  Updated: 2025-12-26T12:37:19Z
+  Updated: 2026-01-23T11:11:46Z
   Vendor: fabufabu
   Product Type: Bracelets
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/gold-plated-zircon-tennis-braceletbraceletsfabufabu-design-storefabufabu-design-storesl0271cover-c9d84b64-7ec9-4449-bb74-401f17133078-5068368.jpg?v=1765434913
   Price: $19.28 USD
 - [Love Heart Charm Chain Bracelet titanium steel Lucky Bracelet](https://fabufabu.com/products/love-heart-charm-chain-bracelet-titanium-steel-lucky-bracelet): Fabufabu "Less is More” collection, simple and elegant jewellery is your preference, you love aesthetic and texture elements, and you can wear them with a different taste. Approximate size: 22cm x 0.9cm x 0.5cm & Approximate weight: 0.01kg. Length suitable for most women and girls.This bracelet looks very delicate and strong. It has a lobster clasp, so it's easy to put on. Material: Heart-shaped bracelet made of titanium steel. electroplated with silver. The bracelet is well polished and comfortable to wear. The color won't fade. The perfect gift: This stylish heart-shaped bracelet can be given to your friends and family during holidays, Christmas, Valentine's Day, Mother's Day, weddings, parties, engagements, classes, dates, the beach, home, office and everyday life. This simple gold bracelet can be given to your friends' relatives during the holidays and is an ideal gift for women and teenage girls. It also works for any dress-up occasion.
-  Updated: 2025-12-26T12:37:20Z
+  Updated: 2026-01-25T09:03:57Z
   Vendor: fabufabu design store
   Product Type: Bracelets
   Availability: Available
@@ -468,47 +468,82 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/covercoffee.png?v=1768893640
   Price: $32.06 USD
+- [Pure Titanium Chain Bracelet](https://fabufabu.com/products/pure-titanium-chain-bracelet): 💖PREMIUM PURE TITANIUM: This brand new chain bracelet is Solid Pure Titanium, it is NOT Plated, NOT Filled, NOT Hollow. Highly durable, not tarnish, fade, skin-friendly and never rust. Perfect for all skin types everyday wear. 💖CHAIN SPECIFICATIONS: Width: 8 mm, Weight: 0.03kg (1.05oz), Circle length: 18 - 20cm (7.08-7.87 inches). Material: 316L titanium steel, Ice crystal silver colour, more charm look than titanium colour. The chain fastens with a sturdy Pure Titanium Lobster Clasp, easy to put on and take off (Note: Check your wrist circle first, bracelet length need 0.78 inch-0.98 inch longer than your wrist Circle). 💖ICE-CUT STYLE: Titanium ice-cut Angle chain bracelet's Ice Crystal Pattern is formed after high temperature firing of pure titanium, NOT plating, with the high manufacturing standards. Perfect for professional, formal, or casual outfits. 💖STURDY CONSTRUCTION: The chain bracelet is Hand-Polished chain bracelet (Pure titanium difficult to be machine polished), tight seams, no welds but very high tensile strength, durable and timeless. 💖BUY WITH CONFIDENT: 1 X Pure Titanium Bracelet with gift box, ideal gift for all occasions, birthdays, anniversaries, Christmas, valentines day, or holiday.
+  Updated: 2026-01-25T10:04:34Z
+  Vendor: fabufabu design store
+  Product Type: Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/2_8881faa9-7f71-4820-b30d-c53a8496d575.jpg?v=1769335057
+  Price: $25.57 USD
+- [Classic Aviator Sunglasses for Men Women](https://fabufabu.com/products/classic-aviator-sunglasses-for-men-women): ★ Protect Your Eyes With Style ▶ Polarized aviator sunglasses for men/women trendy with UV400 eye protection effectively filter and block glares to protect your eyes against UV damage and keeping your eyes healthy. It is designed for protection & comfort from Sun as well as driving, fishing and all outdoor activities. High-definition lens gives you a natural and clear vision. restore true color. ★ Be More Relaxed Every Day ▶ Those sunglasses come with top rated polarized lenses that we tested over time. Polarization reduces glare reflected by mirrors, shiny or polished materials or any other kind of sun rays reflection. You will feel your eyes permanently relaxed because you will not squint anymore! Whether you are driving to work or having a nice sunbath on the beach, you will be less tired at the end of the day because your eyes are more relaxed. ★ See The World In Its True Colors ▶ The HD polarized lens of our sunglasses mens offer true color perception because of the neutral color coating and clear vision by eliminating reflected and scattered light. Therefore you will be able to enjoy the sunglasses during all outdoor activities, driving, fishing or any water sport as well. Just imagine how good you will feel not having to worry about eyes health while being able to enjoy and admire the world in every beautiful detail. ★ Move Free And Feel Free ▶ We know how uncomfortable frames can be and how this affects every wearer. We care about your vision and want to help you keep your sun glasses on for as long as you need them. Therefore we picked ultra-light materials for glasses frame, shatterproof polarized lenses and we took care so that every edge is smoothed and polished so you’ll even forget that you wear them out in the sun. Wearing sunglasses has never been more relaxing, secure and comfortable than now! ★ Gift Idea Package ▶ Classic sunglasses, microfiber pouch, polarized test paper, PU leather case. Our sunglasses for men women are also gift packed, which will be great gifts for your family and friends! ★ PRODUCT DETAIL ▶ Lens Width: 64mm(2.52inches) | Lens Height: 53mm(2.09inches) | Temple Length: 140mm(5.51inches) | Nose Bridge: 14mm(0.55inches) | Frame width is about 152mm(5.98inches) ; and weight is about 30g ; Lens Material: Resin; Frame Material: Metal Lens function: polarized light; UVA protection; UVB protection
+  Updated: 2026-01-26T03:54:01Z
+  Vendor: fabufabu design store
+  Product Type: Sunglasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Cover_307C_black.jpg?v=1769399298
+  - [Black](https://fabufabu.com/products/classic-aviator-sunglasses-for-men-women?variant=45701539102917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Cover_307C_black.jpg?v=1769399298
+    Price: $51.32 USD
+  - [Gold](https://fabufabu.com/products/classic-aviator-sunglasses-for-men-women?variant=45701539135685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/Cover_307C_gold.jpg?v=1769399298
+    Price: $51.32 USD
+- [trendy titanium temples sunglasses](https://fabufabu.com/products/trendy-titanium-temples-sunglasses): 【High Definition UV400】-high quality UV400 protection lens can effectively reduce sunlight reflections, improve visual clarity, protect your eyes against long-term UV damage. 【PAY ATTENTION TO CARE】-Do not expose your sunglasses to high temperature or humidity for a long time. When you are not using your sunglasses, put them in the case. Sunglasses should be handled with care to avoid damage. And regularly clean the lenses with water or mild detergent, and wipe the sunglasses with a glasses cloth. 【Adapt to Multi Occasions】-the UV400 sunglasses can block 100% harmful UVA, UVB rays, suitable for various outdoor activity, such as shopping, driving, taking a sunbath and so on. 【Premium Quality】The lens width is about 52mm, the lens height is about 44mm, the total width of the mirror is about 127mm, the length of the temple is about 137mm, the distance between the nose is about 20mm, and the weight is about 0.01kg. Material : Temples: titanium; Frame: acetate; Lens: pc 【Package Included】-Comes with a beautiful gift box, glasses storage bag, cleaning cloth, and glasses dust bag to effectively protect the glasses
+  Updated: 2026-01-27T05:08:51Z
+  Vendor: fabufabu design store
+  Product Type: Sunglasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_tranFrame.png?v=1769490174
+  - [Clear](https://fabufabu.com/products/trendy-titanium-temples-sunglasses?variant=45713445781701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_tranFrame.png?v=1769490174
+    Price: $89.65 USD
+  - [Black](https://fabufabu.com/products/trendy-titanium-temples-sunglasses?variant=45713445814469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_blackFrame.png?v=1769490174
+    Price: $89.65 USD
 
 ## Collections
 
 - [Home page](https://fabufabu.com/collections/frontpage)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 0
 - [Bracelets](https://fabufabu.com/collections/bracelets-1)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 12
 - [Earrings](https://fabufabu.com/collections/earrings)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 3
 - [Necklaces](https://fabufabu.com/collections/necklaces)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 1
 - [Bags](https://fabufabu.com/collections/bags)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 1
 - [Beauty](https://fabufabu.com/collections/beauty)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 3
 - [Rings](https://fabufabu.com/collections/rings)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 1
 - [Hairclip](https://fabufabu.com/collections/hairclip)
-  Updated: 2026-01-12T11:00:39Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 4
 - [BabyKids](https://fabufabu.com/collections/babykids)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 1
 - [Pet](https://fabufabu.com/collections/pet)
-  Updated: 2026-01-09T03:20:29Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 3
 - [Home](https://fabufabu.com/collections/home)
-  Updated: 2026-01-20T07:23:39Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 8
 - [Man](https://fabufabu.com/collections/man-1)
-  Updated: 2026-01-09T03:20:30Z
-  Total Products: 3
+  Updated: 2026-01-27T05:07:46Z
+  Total Products: 6
 - [Outfits](https://fabufabu.com/collections/outfits-1)
-  Updated: 2026-01-10T07:41:08Z
+  Updated: 2026-01-26T03:52:40Z
   Total Products: 4
 
 ## Store Pages
