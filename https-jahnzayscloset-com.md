@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-06T00:34:56Z
 - Contact Email: jahnzayscloset@gmail.com
-- Updated At: 2026-01-21T00:00:27.181Z
+- Updated At: 2026-01-28T00:00:33.653Z
 
 Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, personalized apparel, custom tumblers, and event items. We create made-to-order designs for birthdays, celebrations, small businesses, schools, and special moments. Our products include custom t-shirts, tumblers, party decor, and personalized gifts with local pickup and shipping available.
 
