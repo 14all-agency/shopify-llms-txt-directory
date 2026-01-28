@@ -3,14 +3,14 @@
 - Domain: https://curateliving.ca
 - Locale: en
 - Currency: CAD
-- Timezone: America/Vancouver
+- Timezone: America/Los_Angeles
 - Created At: 2026-01-19T00:07:11Z
-- Updated At: 2026-01-20T21:19:58.721Z
+- Updated At: 2026-01-28T00:00:28.787Z
 
 ## Products
 
-- [Acrylic Digital Photo Frame with Video Playback & 1GB Storage – Battery & USB-C Compatible](https://curateliving.ca/products/acrylic-digital-photo-frame-with-video-playback-1gb-storage-battery-usb-c-compatible): This acrylic digital photo frame is the perfect modern alternative to traditional albums and wooden frames. Ideal for displaying photos, playing videos, and even streaming music, it’s suitable for homes, cafes, hotels, and shops. With automatic playback, easy-to-use functions, and high-definition video support, it’s designed for effortless enjoyment, even for children and elderly users.Key Features: Multi-Functional Display: Supports photo, video, and music playback, making it perfect for various settings. Automatic Playback: Identifies and plays photos, videos, or music automatically upon selection. HD Video & Clear Sound: Supports full HD videos up to 720P in MP4 and AVI formats with clear audio from dual speakers. Slim Design: Ultra-thin and stylish acrylic design, available in three screen sizes. User-Friendly Interface: Simple button operation with Type-C connectivity for easy content updates. Product Details: Screen Sizes Available: 5”, 7”, and 10” Resolution: 854x480 Brightness: 350 lumens Material: Acrylic, plastic, and screen Battery: Built-in 3.7V 1500mAh lithium battery Supported Formats: Photos: JPG, BMP Music: MP3, WMA Videos: AVI, MP4 (up to 720P) Orientation: Set in horizontal (16:9) or vertical (9:16) mode before use Dimensions: 5 inches: 159mm x 105mm x 28mm 7 inches: 211mm x 145mm x 28mm 10 inches: 274mm x 188mm x 28mm Package Includes:1 x Digital Photo Frame
-  Updated: 2026-01-19T12:24:08Z
+- [Acrylic Digital Photo Frame with Video Playback](https://curateliving.ca/products/acrylic-digital-photo-frame-with-video-playback-1gb-storage-battery-usb-c-compatible): Showcase your memories in style with this acrylic digital photo frame with video playback. Supports photos and videos, USB/SD card input, slideshow loop.
+  Updated: 2026-01-27T22:15:22Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -87,15 +87,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/6CfnXgCwLnSGt1cL.webp?v=1768782314
     Price: $481.65 CAD
-- [Portable Wireless Electric Coffee Machine](https://curateliving.ca/products/portable-wireless-electric-coffee-machine): Brew fresh coffee anytime, anywhere with the Portable Wireless Electric Coffee Machine. Designed with a pump pressure system, this compact capsule coffee machine delivers rich, barista-quality coffee on the go. With a sleek black finish, the CM-1988 model is not only stylish but also highly functional, featuring rust prevention for long-lasting use.Key Features: Pump Pressure Type: Ensures smooth extraction of flavors, giving you a delicious cup of coffee every time. Wireless Convenience: Operates on a low voltage (≤36V) for safe, portable use without needing to plug in. Control Panel Operation: Easily manage settings with the intuitive control panel. Compact & Portable: Measuring just 245x76mm, it's perfect for travel, commuting, or outdoor adventures. Capsule Compatibility: Designed for capsule coffee, but also includes a coffee powder bin for flexibility. What's in the Box: Coffee machine *1 Capsule bin *1 Coffee powder bin *1
-  Updated: 2026-01-20T16:05:32Z
+- [Compact Wireless Portable Coffee Maker](https://curateliving.ca/products/compact-wireless-portable-coffee-maker): Brew fresh coffee anywhere with this compact wireless portable coffee maker. Rechargeable, easy to use, and travel-friendly—enjoy café-quality coffee on the go.
+  Updated: 2026-01-27T22:15:22Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/1hujjeEwrXycByEm.webp?v=1768782229
   Price: $67.00 CAD
-- [Portable Telescopic Vacuum Cleaner for Household Cleaning](https://curateliving.ca/products/portable-telescopic-vacuum-cleaner-for-household-cleaning): Product DescriptionMaterial: Plastic, GlassProduct Attributes: Battery OperatedPackage Size: 430mm x 260mm x 180mmProduct Information: Discover the power of efficient cleaning with our compact vacuum cleaner, designed for modern households. This stylish vacuum features a sleek purple finish and is equipped with a state-of-the-art brushless motor, providing reliable suction while operating quietly. Rated Power: 150W Rated Voltage: ≤ 36V Rated Frequency: 150Hz Engineered for performance, this vacuum cleaner effortlessly tackles dust, dirt, and pet hair, making it ideal for all surfaces. Its lightweight design and portable nature allow for easy maneuverability, ensuring a thorough clean wherever you need it.Packing List:1x Vacuum Cleaner
-  Updated: 2026-01-20T16:05:32Z
+- [Portable Telescopic Vacuum Cleaner](https://curateliving.ca/products/portable-telescopic-vacuum-cleaner-for-household-cleaning): Clean every corner with ease using this portable telescopic vacuum cleaner. Cordless, lightweight, and adjustable, it’s perfect for home, or office cleaning.
+  Updated: 2026-01-27T22:15:23Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -108,8 +108,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/aMb0q2Jgb8pmOIin.webp?v=1768782247
     Price: $199.99 CAD
-- [Non-Slip Shower Scrubber Mat](https://curateliving.ca/products/non-slip-shower-scrubber-mat): Transform your shower experience with our Shower Foot & Back Scrubber Mat. This innovative foot cleaner features a non-slip silicone pad that ensures safety while you indulge in a rejuvenating massage. Say goodbye to dead skin and hello to smoother feet! Designed to exfoliate effectively, this mat acts as a divine artifact for your back and feet, bringing a spa-like experience right into your bathroom. Crafted from high-quality PP material, it is suitable for anyone and provides a gentle yet thorough cleansing experience. Whether you choose the vibrant Pink, calming Blue, or sleek Gray option, you're  to elevate your shower routine. With its lightweight design of only 0.15 kg, this mat is easy to handle and store. Enjoy the luxury of a massage while ensuring your feet remain clean and refreshed. Upgrade your bathroom accessories with this must-have product and let every shower become a moment of relaxation and self-care.
-  Updated: 2026-01-20T16:05:32Z
+- [Non-Slip Shower Scrubber Mat- sleep](https://curateliving.ca/products/non-slip-shower-scrubber-mat): Stay safe in shower with this non-slip shower scrubber mat. Durable, hygienic, and slip-resistant, it cleans, exfoliates, and massages your feet effortlessly.
+  Updated: 2026-01-27T22:15:23Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -126,8 +126,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/MCyeB1vsFrJTwGSo.webp?v=1768828966
     Price: $4.99 CAD
-- [No-Drill Wall Hook](https://curateliving.ca/products/no-drill-wall-hook): Upgrade your bathroom or living space with this high-grade, punch-free wall-mounted clothes hook. Designed for durability and convenience, this hook features a strong vacuum suction or viscose adhesive, allowing for easy installation without drilling. Made from premium 304 stainless steel, it offers excellent rust resistance and a sleek, modern aesthetic. Key Features:No-Drill Installation – Strong suction cup or adhesive backing ensures secure attachment without wall damage.Durable 304 Stainless Steel – Rust-resistant and built to last.Elegant Matte Black & Multiple Finishes – Matches various interior styles.Strong Load Capacity – Holds clothes, towels, and other household items securely.Versatile Use – Ideal for bathrooms, kitchens, bedrooms, and more.Specifications:
-  Updated: 2026-01-20T16:05:32Z
+- [No-Drill Wall Hook – Easy & Damage-Free Hanging](https://curateliving.ca/products/no-drill-wall-hook): Organize your home effortlessly with the No-Drill Wall Hook. Strong, easy-to-install, and removable—hang coats, towels, bags, and more without drilling.
+  Updated: 2026-01-27T22:15:23Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -216,8 +216,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/2K2spJ8N4B5KDYLc.webp?v=1768829186
     Price: $10.99 CAD
-- [Compact Chef's Blade Sharpener](https://curateliving.ca/products/compact-chefs-blade-sharpener): Transform your kitchen experience with our Electric Knife Sharpener, designed for home use and portability. Whether you're a seasoned chef or a cooking enthusiast, this device ensures that your knives and scissors are always razor-sharp, enhancing your culinary adventures.Crafted from durable ABS material, this compact sharpener features a versatile design that accommodates various blade types, including options for both USB and power cord interfaces. With multiple specifications available, you can choose the perfect match for your sharpening needs: Blade type (USB interface) Blade type (power cord interface) Ordinary model (USB interface) Ordinary model (power cord interface) Grinding disc Grinding wheel Equipped with a whetstone function, this sharpener is designed to give your blades a professional edge. Its irregular style not only performs well but also adds a modern touch to your kitchen. Lightweight at just 0.321 kg, it’s easy to store and ideal for on-the-go sharpening.Don’t struggle with dull blades any longer. Elevate your kitchen tools with our Electric Knife Sharpener and enjoy effortless slicing, dicing, and cutting every time you cook!
-  Updated: 2026-01-20T19:42:56Z
+- [Compact Chef's Blade Sharpener](https://curateliving.ca/products/compact-chefs-blade-sharpener): Keep your knives razor-sharp with the Compact Chef's Blade Sharpener. Safe, durable, and easy-to-use for home cooks and professional chefs alike.
+  Updated: 2026-01-27T22:15:23Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -246,15 +246,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/mqVi2EBiuYN3Cnos.webp?v=1768894707
     Price: $42.60 CAD
-- [Modern Minimalist Ceramic Vase - White Matte Finish | Curate Living](https://curateliving.ca/products/modern-minimalist-ceramic-vase): Shop our modern minimalist ceramic vase with organic curves and matte white finish. Perfect statement piece for contemporary home decor. Free shipping available.
-  Updated: 2026-01-20T16:25:18Z
+- [Modern Minimalist Ceramic Vase – Elegant Simplicity](https://curateliving.ca/products/modern-minimalist-ceramic-vase): Add timeless style with the Modern Minimalist Ceramic Vase. Perfect for flowers or décor, durable, elegant, and ideal for any modern space.
+  Updated: 2026-01-27T22:15:23Z
   Vendor: Curate Living
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/image.png?v=1768926157
   Price: $45.00 CAD
-- [Daisy Flower Silicone Coaster - Durable and Non-slip](https://curateliving.ca/products/daisy-flower-silicone-coaster-durable-and-non-slip): Introducing the New Daisy Flower Heat Insulation Mat, the perfect blend of style and functionality for your home! This stunning silicone coaster not only protects your surfaces from heat damage but also adds a touch of elegance to your decor. Available in a delightful range of colors including Matcha Green, Milk White, Lemon Yellow, Peach Pink, and Lavender Purple, these coasters are designed to brighten up any room. Each mat features a charming daisy flower design, making them not just practical but also a beautiful addition to your table settings. With its durable and non-slip surface, the New Daisy Flower Heat Insulation Mat ensures that your pots and pans stay securely in place, preventing any accidental spills or slips. Measuring just 0.073 kg, they are lightweight and easy to handle, making them ideal for both everyday use and special occasions. Transform your dining experience with our heat insulation mats that marry functionality with aesthetic appeal. Whether you're enjoying a casual meal or hosting a dinner party, these coasters will impress your guests and keep your surfaces safe. Elevate your dining and entertaining experience with the New Daisy Flower Heat Insulation Mat – where practicality meets beauty!
-  Updated: 2026-01-20T16:30:42Z
+- [Daisy Flower Silicone Coaster - Durable and Non-slip](https://curateliving.ca/products/daisy-flower-silicone-coaster-durable-and-non-slip): Protect your surfaces in style with the Daisy Flower Silicone Coaster. Durable, heat-resistant, and non-slip—perfect for home or gifting!
+  Updated: 2026-01-27T22:15:24Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -279,8 +279,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/xUmETEduUvoFV5xd.webp?v=1768926642
     Price: $14.74 CAD
-- [Elegant Handheld Shower Head](https://curateliving.ca/products/elegant-handheld-shower-head): Transform your daily showering experience with our premium Handheld Shower Head. Designed to elevate your bathroom's functionality and style, this shower head is crafted from durable ABS material, ensuring longevity and reliability. With a universal installation interface, it can be easily connected to most shower setups, making it a hassle-free upgrade to your bathroom. Available in four stunning colors—Blue, Plating, UV, and White—you can choose the perfect shade to match your bathroom decor. Each shower head features an electroplating process that not only enhances its aesthetic appeal but also provides resistance to wear and tear. This handheld shower head operates efficiently under normal pressure, delivering a refreshing and invigorating shower experience at a comfortable working temperature. Its compact size of 30cm in height and 30cm in length makes it suitable for any bathroom space. Included in your purchase is one shower head, ready to transform your bathing ritual.
-  Updated: 2026-01-20T16:30:07Z
+- [Elegant Handheld Shower Head – Stylish, Versatile & Comfort](https://curateliving.ca/products/elegant-handheld-shower-head): Upgrade your shower with Elegant Handheld Shower Head. Adjustable sprays, easy installation, and a sleek design bring luxury and convenience to your bathroom.
+  Updated: 2026-01-27T22:15:24Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -301,8 +301,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/NmcME2YBfKMLjLOr.webp?v=1768926575
     Price: $49.18 CAD
-- [Luxury Bamboo-Cotton Towels](https://curateliving.ca/products/luxury-bamboo-cotton-towels): Experience the luxurious softness and eco-friendly benefits of our bamboo fiber towels. Made from a blend of bamboo fiber and cotton, these towels offer an unparalleled level of absorbency and comfort. Weighing just 120g, they are lightweight yet remarkably durable, making them perfect for daily use. Available in three elegant colors—Khaki, Green, and White—these towels will complement any bathroom or spa setting, adding a touch of sophistication to your linens. Measuring at 34*76cm, they provide ample coverage while remaining compact enough for easy storage. The unique properties of bamboo fiber ensure that these towels are not only soft to the touch but also resistant to odors and bacteria, promoting a healthier environment. Elevate your bathing experience with our thick bamboo fiber towels. Choose your favorite color and indulge in the ultimate softness and absorbency today!
-  Updated: 2026-01-20T16:41:34Z
+- [Luxury Bamboo-Cotton Towels – Soft, Absorbent & Durable](https://curateliving.ca/products/luxury-bamboo-cotton-towels): Experience spa-level comfort with Luxury Bamboo-Cotton Towels—ultra-soft, highly absorbent, and crafted for everyday elegance.
+  Updated: 2026-01-27T22:15:24Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -319,8 +319,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/lETkLPy2fleH9q3Y.webp?v=1768927219
     Price: $15.64 CAD
-- [Smart Wine Pourer](https://curateliving.ca/products/smart-wine-pourer): 自动葡萄酒分配器是一种现代化的设备，只需轻触按钮即可轻松精准地倒酒。它的工作原理是利用泵或加压系统直接从酒瓶中抽取葡萄酒，确保每次倒酒的份量精准，并能更长时间地保持葡萄酒的新鲜度。这些分配器常用于家庭、酒吧或餐厅，有些还配备温度控制功能，以确保葡萄酒在最佳饮用状态下供应。部分型号还配备触摸屏界面、LED显示屏或多个出酒口，可同时从多个酒瓶中倒酒。对于追求便捷、精准和更精致的倒酒体验的葡萄酒爱好者来说，自动葡萄酒分配器是理想之选。
-  Updated: 2026-01-20T16:42:23Z
+- [Smart Wine Pourer- Wine Jar Pourer](https://curateliving.ca/products/smart-wine-pourer): Enhance every glass with the Smart Wine Pourer—instant aeration, drip-free pouring, and a sleek design for perfect wine enjoyment every time.
+  Updated: 2026-01-27T22:15:24Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -331,10 +331,10 @@
     Price: $113.46 CAD
   - [New Black](https://curateliving.ca/products/smart-wine-pourer?variant=51634878153016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/6lmLFbxwsDKr9eA4.webp?v=1768927267
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/6lmLFbxwsDKr9eA4.webp?v=1769449709
     Price: $113.46 CAD
-- [Winter Magnetic Door Curtain](https://curateliving.ca/products/winter-magnetic-door-curtain): Experience the ultimate in home comfort and style with our Winter Windproof Magnetic Curtain with Insulation and Privacy. Designed for practicality and aesthetics, this curtain not only keeps your living space warm but also offers effective mosquito protection, making it a perfect addition to your bedroom or any area of your home. Constructed from high-quality polyester, this fabric curtain is durable and easy to maintain. Available in a chic dark grey color, it seamlessly blends with any decor while providing a modern touch. Enjoy the convenience of a no-drill installation with our innovative magic tape design, allowing you to set it up effortlessly without damaging your walls. The magnetic closure ensures a secure fit, making it easy to pass through while keeping unwanted pests out. Choose from a variety of sizes to fit your needs: 80x210cm - 1.5kg 90x210cm - 1.6kg 100x210cm - 1.75kg 120x210cm - 1.85kg With its energy-saving properties, this curtain will help keep your home cozy during the cold winter months while enhancing your interior's elegance. Transform your space today with our stylish and functional magnetic curtain!
-  Updated: 2026-01-20T16:44:00Z
+- [Winter Magnetic Door Curtain-](https://curateliving.ca/products/winter-magnetic-door-curtain): Winter magnetic door curtain designed to block cold drafts and retain warmth. Easy to install, hands-free magnetic closure, and ideal for winter insulation.
+  Updated: 2026-01-27T22:15:24Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -355,8 +355,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/dd79ae68481e8663ad79a7d60e2e.png?v=1768927314
     Price: $117.27 CAD
-- [Sleek One-Hand Electric Grinder](https://curateliving.ca/products/sleek-one-hand-electric-grinder): Transform Your Culinary ExperienceElevate your kitchen game with our German Myle Mai Ruisi Electric Black Pepper Grinder. Crafted from transparent acrylic, this grinder not only looks sleek but also allows you to easily monitor your spice levels at a glance. The effortless push-button operation means you can season your dishes with just one hand, letting you focus on what really matters – the flavor! No more manual grinding; our electric grinder does the hard work for you, saving you time and effort.This product is made of ABS material and has a size of 22.5*5cm. This product is powered by dry batteries.Versatile Grinding OptionsThis grinder is perfect for a variety of spices, including pepper, coarse salt, sugar, mung beans, and rice. Enjoy the freedom to control the coarseness of your spices: simply rotate clockwise for a fine grind or counterclockwise for a coarser texture. With a design that is both leak-proof and flexible, it's not only simple to operate but also practical for everyday use. Whether you're cooking a gourmet meal or adding a dash of flavor to your snack, freshness is just a twist away!Perfect for Any OccasionGift this grinder to the culinary enthusiasts in your life or treat yourself to a kitchen upgrade. It's ideal for  promotions and can be a stylish addition to any kitchen décor.Included in Your PurchaseEach order comes with one high-quality grinder, ready to spice up your life.
-  Updated: 2026-01-20T16:44:46Z
+- [Sleek One-Hand Electric Grinder](https://curateliving.ca/products/sleek-one-hand-electric-grinder): Sleek one-hand electric grinder designed for effortless seasoning. Modern, powerful, and perfect for salt, pepper, and everyday cooking.
+  Updated: 2026-01-27T22:15:25Z
   Vendor: Curate Living
   Product Type: 
   Availability: Available
@@ -377,119 +377,272 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/66reLD7sEpxLInSX.webp?v=1768927424
     Price: $54.98 CAD
+- [50Pcs Disposable Plastic Toilet Seat Cover Waterproof and Non Slip Individually Wrapped, for Travel, Toilet Seat Protectors](https://curateliving.ca/products/50pcs-disposable-plastic-toilet-seat-cover-waterproof-and-non-slip-individually-wrapped-for-travel-toilet-seat-protectors): • Eco-Friendly Material :Crafted from disposable plastic, these toilet seat covers are eco-friendly, ensuring a guilt-free use for environmental conscious individuals. • Waterproof and Non-Slip :These toilet seat covers are designed to be waterproof and non-slip, providing a secure and clean experience every time. • Individually Wrapped :Each toilet seat cover comes individually wrapped, ensuring hygiene and cleanliness with every use. • Single-Piece Set :The single-piece set design makes these toilet seat covers easy to use and apply, offering convenience for travel or home use. • Overcoat Toilet Case :These overcoat toilet cases provide an extra layer of protection, making your toilet seat more sanitary and comfortable. • Ideal for Travel :Lightweight and compact, these disposable toilet seat covers are perfect for travel, providing a clean and safe seat every time. • Waterproof and Non-Slip :This toilet seat cover is made of waterproof material and has a non-slip design, ensuring a safe and comfortable experience. • Individually Wrapped :Each toilet seat cover is individually wrapped, making it easy to use and dispose of, without touching the actual seat. • Travel-Friendly :These toilet seat covers are perfect for travel, as they are lightweight and easy to carry around, ensuring a hassle-free experience. • Durable Material :Made of high-quality plastic, these toilet seat covers are durable and long-lasting, providing reliable protection for your toilet seat. • Waterproof and Non-Slip :Stay dry and secure with these disposable toilet seat covers that are waterproof and non-slip. • Individually Wrapped :Each cover is individually wrapped, ensuring cleanliness and hygiene for each user. • Travel-Friendly :These toilet seat covers are perfect for travel, making them a convenient and hassle-free addition to your essentials. • Durable Material :Made of high-quality plastic, these toilet seat covers are durable and long-lasting. Product description Features: The toilet seat covers are disposable, perfect toilet seat cover potty protectors, perfect for travel, for adults and your families.Travel friendly design, each pack of toilet seat covers is individually packaged for easy storage in carry-on luggage, travel bags, toddler diaper bags or in your vehicle.The double-layers and recessed design makes it easy to cover the toilet seat. The symmetric design quickly can match various toilet seats, eliminating the trouble of front and rear positioning. Specification: Material: PE Type: Disposable Toilet Seat Cover Color: Transparent Size: 40x48cm(15.75 X 18.90in) Package included: 50PCS Disposable Toilet Seat Cover Notice: - There may be some size errors due to manual measurement. -Due to different lighting effects and monitor settings, the actual color of the item may not accurately reflect the color on the picture.
+  Updated: 2026-01-27T22:15:25Z
+  Vendor: Curate Living
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/bbd73899c898a9ca66160dde426affb1.jpg?v=1769441682
+  Price: $9.53 CAD
+- [Utensil Holder Large Crocks Kitchen (Black)](https://curateliving.ca/products/utensil-holder-large-crocks-kitchen-black): LARGE MATTE BLACK UTENSIL HOLDER- Perfect for stainless steel, wooden, metal, silicone kitchen utensils and cooking tools. COUNTERTOP SOLUTION - Keep your kitchen clean and organized with this utensil caddy. Can be used Indoors or Outdoors for family barbecue, picnics and parties. STYLISH - Utensil Holder Black kitchen tools organizer will declutter your kitchen top, optimize your kitchen space with a vintage farmhouse rustic decor PERFECT GIFT - Comes in a gift ready box for special occasions! Give the gift that sparks joy! UTENSIL HOLDER DIMENSIONS – 5.4 in wide 6.7 in tall. The Farmhouse Utensil Holder is made of high quality powder coated galvanized steel. So easy to clean with a damp cloth. Product description Crocks Kitchen Utensil Holder Black Perfect Gift LARGE MATTE BLACK UTENSIL HOLDER- Perfect for stainless steel, wooden, metal, silicone kitchen utensils and cooking tools. STYLISH - Utensil Holder Black kitchen tools organizer will declutter your kitchen top, optimize your kitchen space with a vintage farmhouse rustic look decor. Large Organizer Indoor/Outdoor Use COUNTERTOP SOLUTION - Keep your kitchen clean and organized with this utensil caddy. Can be used Indoors or Outdoors for family barbecue, picnics and parties. Countertop Solution PERFECT GIFT - Comes in a gift ready box for special occasions! Give the gift that sparks joy! UTENSIL HOLDER DIMENSIONS – 5.4 in wide 6.7 in tall. The Farmhouse Utensil Holder is made of high quality powder coated galvanized steel. So easy to clean with a damp cloth. Kitchen Essentials- Black Canister set & Utensil Holder Sold Separately All you need to create a modern organized look in you kitchen. Each piece mindfully designed and brilliantly crafted in the highest quality metal. Perfect gift ready in custom packaging! Steelware Central- Matching Pieces - Sold Separately Utensil Holder Large Coffee, Tea and Sugar Canister Set Paper Towel Holder Spoon Rest Holder
+  Updated: 2026-01-27T22:15:25Z
+  Vendor: Curate Living
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/003b821bf2388da3a6de1a4e26af3361.jpg?v=1769441691
+  Price: $21.74 CAD
+- [Elegant Fort Barbette Wine Display Rack - Stylish Countertop Bottle Holder for Your Cellar](https://curateliving.ca/products/elegant-fort-barbette-wine-display-rack-stylish-countertop-bottle-holder-for-your-cellar): Description:The wine bottle holder designed in simple wire design to make the wine bottle stand tilted. Display your wine with style! This novelty wine rack makes a great centerpiece for your wine cellar or your dining table. A chic piece that will fascinate everyone who comes to visit.FeaturesColor: As shown.Material: Iron.Size: Approx. 19 x 12 x 11cm.Made of premium iron, it is painted and polished carefully, very strudy and exquisite.It is a great display piece that youll be proud to have out.Can be used to store wine, beer bottles and other items.A wonderful Christmas gift, New years gift or a Valentines gift to a friend.Warm Tip: Dear buyer, due to lighting effect, monitors brightness, manual measurement and etc, there could be some slight differences in the color and size between the photo and the actual item. Sincerely hope that you can understand! Thank you!Pack: 1 x wine rack
+  Updated: 2026-01-27T22:15:26Z
+  Vendor: Curate Living
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/690e28569041915f399d9cd8dc13761c.jpg?v=1769459529
+  Price: $10.32 CAD
+- [Elegant 8-Piece Cotton Napkin Set - 40x40CM Plain Washed Dining Towels for Weddings, Parties, and Restaurants - Perfect Table Decor](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor): 8pcs Cotton Napkins Bulk 40x40cm Stonewashed Cloth Dinner Napkins Rustic Thick Table Napkins for Fall Thanksgiving Christmas Party Wedding Decoration Package: Contains 8 pieces of cotton napkins .Material: High quality thick and soft cotton hotel napkins. Hand-dyed from natural material.Features: The edges are carefully stitched to keep an elegant condition, adding a rustic and unique look to your dinner table.Occasions: This napkin set is a perfect match with our table runners for wedding party,bridal & baby shower,holiday party,birthday party,Christmas party,Thanksgiving,Valentines’ Day,New Year,ceremony and other special events.Tips: Hand wash or gentle machine wash in cold water in a laundry bag.
+  Updated: 2026-01-27T22:15:27Z
+  Vendor: Curate Living
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/e93a4806526d91921b3095da468c7822.jpg?v=1769459565
+  - [8Pcs  Apricot](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265740600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/e93a4806526d91921b3095da468c7822.jpg?v=1769459565
+    Price: $14.16 CAD
+  - [8Pcs  Beige](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265773368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/5f613bb104388482e47660d41c75ef92.jpg?v=1769459565
+    Price: $14.31 CAD
+  - [8Pcs  Dark Green](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265806136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/331bc3c3363c856489ae70b10b6ae52d.jpg?v=1769459565
+    Price: $15.18 CAD
+  - [8Pcs  Sky Blue](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265838904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/406dd6f3b9db39cb3c182305cd48ff49.jpg?v=1769459566
+    Price: $15.14 CAD
+  - [8Pcs  Dark Grey](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265871672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/9a4af40beab37eef57a744066ac62d0e.jpg?v=1769459565
+    Price: $15.18 CAD
+  - [8Pcs  Brown](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265904440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/ef30849e35ac840691794621084d8cae.jpg?v=1769459565
+    Price: $14.96 CAD
+  - [8Pcs  Fruit Green](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265937208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/2cf998ab4d6db56eafbe84cb71175339.jpg?v=1769459566
+    Price: $15.36 CAD
+  - [8Pcs  White](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664265969976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/b6953308d64bfd7c3853af51e1b4d155.jpg?v=1769459566
+    Price: $14.71 CAD
+  - [8Pcs  Stone Blue](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266002744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/c91e31c4ce41e141d89e229f2d33d517.jpg?v=1769459565
+    Price: $14.70 CAD
+  - [8Pcs  Grass Green](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266035512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/1efe5ae200c16a113e63465227f1e871.jpg?v=1769459565
+    Price: $15.18 CAD
+  - [8Pcs  Pink](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266068280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/da541ca0f6f91b721b56c2f73b3fda65.jpg?v=1769459565
+    Price: $14.36 CAD
+  - [8Pcs  Dark Blue](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266101048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/2821c94e734129cd9f7dc6bf6c106cef.jpg?v=1769459565
+    Price: $15.18 CAD
+  - [8Pcs  Sandbeach](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266133816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/3572b69f0108b1cbef088f8fba9b74f8.jpg?v=1769459565
+    Price: $14.83 CAD
+  - [8Pcs  Red](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266166584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/3fff48f84b99e244a19dfe55a55d2482.jpg?v=1769459565
+    Price: $14.73 CAD
+  - [8Pcs  Burgundy](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266199352)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/94b6dde0d17d20ff80ff07ab1ff2bf6a.jpg?v=1769459565
+    Price: $14.92 CAD
+  - [8Pcs  Purple](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266232120)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/4b66c224fa3aaf598af5398a223f89ae.jpg?v=1769459565
+    Price: $14.49 CAD
+  - [8Pcs  Rust Red](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266264888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/3dea98eeec22683db6e3a7da3cde70dc.jpg?v=1769459565
+    Price: $16.76 CAD
+  - [8Pcs  Smoke Grey](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266297656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/9b8d836135b9b8b4d0b774d98131612f.jpg?v=1769459565
+    Price: $14.96 CAD
+  - [8Pcs  Inulin](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266330424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/S2916a23ed08240989dab41f61ea30c12m.webp?v=1769459567
+    Price: $15.18 CAD
+  - [8Pcs  Light Brown](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266363192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/7e685174c05451a1e3943df27fc1490e.jpg?v=1769459565
+    Price: $14.92 CAD
+  - [8Pcs  Black](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266395960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/6e5b55bf27d62f63564abe7defac98ad.jpg?v=1769459565
+    Price: $15.24 CAD
+  - [8Pcs  Light Green](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266428728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/fff528e6f5efa114fa5a8e68f61c044f.jpg?v=1769459565
+    Price: $14.56 CAD
+  - [8Pcs  Light Beige](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266461496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/94aa75f2f2d69f36a34218fc4b17a590.jpg?v=1769459565
+    Price: $15.18 CAD
+  - [8Pcs  Acid Blue](https://curateliving.ca/products/elegant-8-piece-cotton-napkin-set-40x40cm-plain-washed-dining-towels-for-weddings-parties-and-restaurants-perfect-table-decor?variant=51664266494264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/7a7286aa13d2476a1b5e30eb8c79de0a.jpg?v=1769459565
+    Price: $15.18 CAD
+- [Eternal Rose LED Light in Glass Cover - Perfect Valentine's Day Gift for Girlfriend, Wedding Decor & Mother's Day Surprise](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise): Overview: 1. LED Strip light with glass lampshade creative romantic atmosphere for lover.2. Perfect to any decorative or holiday project, suitable for party, wedding, indoor decoration, etc.3. Powered by AAA battery(not included),led strip light bright warm white lighting.4. Made of high copper wire, flexible, waterproof, durable for daily use.5. LED string is made with a fine bendable copper wire that create any shape you want. Product information: Material: eternal flowerCraft: handmadePacking: foam box + cartonColor: red, gold, gray, rose red, blue, pinkNet weight: 328 grams Packing list: Glass cover immortal flower*1
+  Updated: 2026-01-27T22:15:27Z
+  Vendor: Curate Living
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/6f2293b7aebb7393f6a47e2ab120b274.jpg?v=1769459570
+  - [Red](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise?variant=51664266527032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/6f2293b7aebb7393f6a47e2ab120b274.jpg?v=1769459570
+    Price: $8.29 CAD
+  - [Grey](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise?variant=51664266559800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/56fe4aaa110b19ec41866e41602c903b.jpg?v=1769459570
+    Price: $8.29 CAD
+  - [Gold](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise?variant=51664266592568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/618b4f5bc06408c9961bdd9babe50351.jpg?v=1769459571
+    Price: $4.05 CAD
+  - [Rose Red](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise?variant=51664266625336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/e96d7b254a660436ba2e542f0b22154c.jpg?v=1769459570
+    Price: $8.29 CAD
+  - [Blue](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise?variant=51664266658104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/9449a88e0b3576e1be83f5898489d853.jpg?v=1769459570
+    Price: $4.05 CAD
+  - [Pink](https://curateliving.ca/products/eternal-rose-led-light-in-glass-cover-perfect-valentines-day-gift-for-girlfriend-wedding-decor-mothers-day-surprise?variant=51664266690872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0981/1794/3608/files/a599f4cfeb6dcf2ba8dfe67404d07d5c.jpg?v=1769459570
+    Price: $4.05 CAD
 
 ## Collections
 
 - [Home page](https://curateliving.ca/collections/frontpage)
-  Updated: 2026-01-20T16:18:10Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Best Sellers](https://curateliving.ca/collections/best-sellers): Collection
-  Updated: 2026-01-20T16:19:31Z
-  Total Products: 9
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Trending Deals](https://curateliving.ca/collections/trending-deals): Collection
-  Updated: 2026-01-20T16:19:31Z
-  Total Products: 9
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Dogs](https://curateliving.ca/collections/dogs): Collection
-  Updated: 2026-01-20T16:18:11Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Kitchen](https://curateliving.ca/collections/kitchen): Collection
-  Updated: 2026-01-20T16:19:42Z
-  Total Products: 5
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 2
 - [Beauty](https://curateliving.ca/collections/beauty): Collection
-  Updated: 2026-01-20T16:19:30Z
-  Total Products: 5
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Jewelry](https://curateliving.ca/collections/jewelry): Collection
-  Updated: 2026-01-20T16:18:14Z
-  Total Products: 3
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Trendy Gadgets](https://curateliving.ca/collections/trendy-gadgets): Collection
-  Updated: 2026-01-20T16:19:31Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:22Z
+  Total Products: 0
 - [Health](https://curateliving.ca/collections/health): Collection
-  Updated: 2026-01-20T16:18:13Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Garden](https://curateliving.ca/collections/garden): Collection
-  Updated: 2026-01-20T16:19:29Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Clothing](https://curateliving.ca/collections/clothing)
-  Updated: 2026-01-20T16:18:15Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Pet Supplies](https://curateliving.ca/collections/pet-supplies)
-  Updated: 2026-01-20T16:18:15Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Building Materials](https://curateliving.ca/collections/building-materials)
-  Updated: 2026-01-20T16:18:16Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Party & Celebration](https://curateliving.ca/collections/party-celebration)
-  Updated: 2026-01-20T16:18:17Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Outdoor Recreation](https://curateliving.ca/collections/outdoor-recreation)
-  Updated: 2026-01-20T16:18:16Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Clothing Accessories](https://curateliving.ca/collections/clothing-accessories)
-  Updated: 2026-01-20T16:18:17Z
-  Total Products: 3
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Party & Celebration](https://curateliving.ca/collections/party-celebration-1)
-  Updated: 2026-01-20T16:18:16Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Household Supplies](https://curateliving.ca/collections/household-supplies)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 1
 - [Kitchen & Dining](https://curateliving.ca/collections/kitchen-dining)
-  Updated: 2026-01-20T16:53:30Z
+  Updated: 2026-01-27T22:15:23Z
   Total Products: 5
 - [General Office Supplies](https://curateliving.ca/collections/general-office-supplies)
-  Updated: 2026-01-20T16:18:17Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Audio](https://curateliving.ca/collections/audio)
-  Updated: 2026-01-20T16:05:33Z
+  Updated: 2026-01-27T22:15:23Z
   Total Products: 1
 - [Novelty & Special Use](https://curateliving.ca/collections/novelty-special-use)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Toys](https://curateliving.ca/collections/toys)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Hobbies & Creative Arts](https://curateliving.ca/collections/hobbies-creative-arts)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Toys](https://curateliving.ca/collections/toys-1)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Handbags, Wallets & Cases](https://curateliving.ca/collections/handbags-wallets-cases)
-  Updated: 2026-01-20T16:18:17Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:23Z
+  Total Products: 0
 - [Decor](https://curateliving.ca/collections/decor)
-  Updated: 2026-01-20T16:05:33Z
+  Updated: 2026-01-27T22:15:23Z
   Total Products: 1
 - [Home & Garden](https://curateliving.ca/collections/home-garden)
-  Updated: 2026-01-20T16:05:33Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 1
 - [Vehicle Parts & Accessories](https://curateliving.ca/collections/vehicle-parts-accessories)
-  Updated: 2026-01-20T16:18:19Z
-  Total Products: 2
+  Updated: 2026-01-27T22:15:24Z
+  Total Products: 0
 - [Vehicles & Parts](https://curateliving.ca/collections/vehicles-parts)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:24Z
+  Total Products: 0
 - [Health & Beauty](https://curateliving.ca/collections/health-beauty)
-  Updated: 2026-01-20T16:18:18Z
-  Total Products: 1
+  Updated: 2026-01-27T22:15:24Z
+  Total Products: 0
 - [Linens & Bedding](https://curateliving.ca/collections/linens-bedding)
-  Updated: 2026-01-20T16:39:30Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 2
 - [Flood, Fire & Gas Safety](https://curateliving.ca/collections/flood-fire-gas-safety)
-  Updated: 2026-01-20T16:29:29Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 1
 - [Electronics Accessories](https://curateliving.ca/collections/electronics-accessories)
-  Updated: 2026-01-20T16:40:38Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 1
 - [Hardware Accessories](https://curateliving.ca/collections/hardware-accessories)
-  Updated: 2026-01-20T16:41:32Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 1
 - [Sofas](https://curateliving.ca/collections/sofas)
-  Updated: 2026-01-20T16:41:56Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 1
 - [Home Decor example products](https://curateliving.ca/collections/home-decor-example-products)
-  Updated: 2026-01-20T16:49:39Z
+  Updated: 2026-01-27T22:15:24Z
   Total Products: 0
 
 ## Store Pages
