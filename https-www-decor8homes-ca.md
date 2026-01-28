@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-01-20T00:00:34.407Z
+- Updated At: 2026-01-28T00:00:36.626Z
 
 ## Products
 
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM059-5.png?v=1757369076
   Price: $34.99 CAD
 - [The Regal Elephant – Graceful Strength, Quiet Wisdom | Premium Decorative Sculpture for Refined Home & Office Spaces](https://www.decor8homes.ca/products/61): The Regal Elephant: Strength. Wisdom. Royal grace.A timeless emblem of prosperity and power, The Regal Elephant brings an aura of majesty to any space. Adorned with exquisite patterns, ornate accents, and a delicately sculpted leaf tray, this piece stands as a tribute to tradition refined by modern craftsmanship.Its rich mahogany finish and intricate black-and-gold detailing highlight every curve, giving it the look of a royal heirloom. The elephant’s raised trunk symbolizes good fortune and success — making it a powerful statement piece that blends meaning with beauty.Perfect for entryways, living rooms, or as a thoughtful gift, The Regal Elephant serves both as décor and as a symbol of strength, balance, and dignity — a touch of timeless luxury in sculpted form. Key Features:• Premium polyresin sculpture• Gloss mahogany with black & gold accents• Symbolizes strength, wisdom, and royalty• Includes decorative tray Care & Maintenance:Dust gently; avoid harsh chemicals
-  Updated: 2025-12-18T18:04:13Z
+  Updated: 2026-01-22T01:46:34Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
