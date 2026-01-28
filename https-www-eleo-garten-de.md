@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-01-20T20:00:28.107Z
+- Updated At: 2026-01-28T00:00:44.197Z
 
 ## Products
 
@@ -426,7 +426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_d1820564-4f69-4c13-a27f-87d82118c2dc.png?v=1763043459
     Price: 94,40 € EUR
 - [Pflanzenstütze "Grosetto" aus Metall online kaufen | ELEO](https://www.eleo-garten.de/products/pflanzenstuetze-grosetto): Pflegeleichte Pflanzenstütze "Grosetto": ✓ Schmiedeeisen ✓ stabil & langlebig ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-01-12T09:19:44Z
+  Updated: 2026-01-26T12:55:28Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1310,7 +1310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-1-Bank_pulverbeschichtet-schokobraun_RAL8017.png?v=1761228065
     Price: 1.310,40 € EUR
 - [Hochwertigen Rosenbogen im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria-mit-bank-und-rueckwand): Rosenbogen "Calabria" mit Bank und Rückwand aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht ✓ romantisch ✓ pflegeleicht ➤ Jetzt bestellen!
-  Updated: 2026-01-12T09:19:19Z
+  Updated: 2026-01-26T12:55:18Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1344,7 +1344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Calabria-mit-Ruckwand_1Bank_pulverbeschichtet-schokobraun_RAL8017.png?v=1761228044
     Price: 1.608,00 € EUR
 - [Dekorativer Rosenbogen im Set online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rosenbogen-calabria-mit-rueckwand): Rosenbogen "Calabria" mit Rückwand: ✓ dekorativ ✓ pflegeleicht ✓ langlebig ✓ verschiedene Designs ➤ Jetzt bestellen!
-  Updated: 2026-01-12T09:19:18Z
+  Updated: 2026-01-26T12:55:18Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1480,7 +1480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Matera_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034534
     Price: 456,00 € EUR
 - [Rückwand "Calabria" einfach online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rueckwand-calabria): Rückwand zum Rosenbogen "Calabria": ✓ verschiedene Designs ✓ pflegeleicht ✓ langlebig ✓ dekorativer Blickfang ➤ Jetzt hier bestellen!
-  Updated: 2026-01-12T09:19:14Z
+  Updated: 2026-01-26T12:55:18Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -3050,19 +3050,19 @@
   Updated: 2026-01-02T06:50:34Z
   Total Products: 1
 - [Gartendeko aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallgartendeko): Metallgartendeko in vielen Designs ✓ stabil & wetterfest ✓ dekorativ & edel ✓ Beschichtung frei wählbar ➤ Jetzt bestellen!
-  Updated: 2026-01-02T12:07:31Z
+  Updated: 2026-01-21T12:09:03Z
   Total Products: 24
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
-  Updated: 2026-01-19T12:08:28Z
+  Updated: 2026-01-26T12:07:44Z
   Total Products: 19
 - [Rankobelisken aus Metall ➤ Jetzt online kaufen! | ELEO Garten](https://www.eleo-garten.de/collections/rankobelisken): Rankobelisken für Kletterpflanzen ✓ stabil ✓ dekorativ ✓ nützliches Gartenaccessoire ➤ jetzt Obelisk aus Metall bestellen!
-  Updated: 2026-01-02T12:07:31Z
+  Updated: 2026-01-24T12:07:36Z
   Total Products: 9
 - [Metall Rankgitter jetzt online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallrankgitter): Rankgitter für Ihre Hauswand ✓ massives Metall ✓ langlebig ✓ dekorativ ✓ verschiedene Beschichtungen ✓ inkl. Wandhalterung ➤ Jetzt bestellen!
   Updated: 2026-01-12T09:19:35Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-01-19T12:08:28Z
+  Updated: 2026-01-26T12:07:44Z
   Total Products: 107
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
   Updated: 2026-01-15T12:07:26Z
@@ -3074,7 +3074,7 @@
   Updated: 2026-01-02T06:49:31Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-01-19T12:08:28Z
+  Updated: 2026-01-21T12:09:03Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2026-01-12T09:19:01Z
@@ -3083,10 +3083,10 @@
   Updated: 2026-01-13T12:07:40Z
   Total Products: 18
 - [Test collection](https://www.eleo-garten.de/collections/test-collection)
-  Updated: 2026-01-02T06:50:32Z
+  Updated: 2026-01-21T12:09:03Z
   Total Products: 4
 - [Gartensäule aus Metall » Windlichtsäulen & Dekosäulen online kaufen](https://www.eleo-garten.de/collections/metall-gartensaeulen): Hochwertige Gartensäulen aus Metall in Rostoptik oder matt-grauem Finish ✓ Windlichtsäulen und Metallsäulen in verschiedenen Größen » Jetzt entdecken!
-  Updated: 2026-01-02T12:07:31Z
+  Updated: 2026-01-24T12:07:36Z
   Total Products: 19
 
 ## Blogs
