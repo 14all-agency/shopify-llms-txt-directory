@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2026-01-22T00:00:38.631Z
+- Updated At: 2026-01-29T00:00:41.787Z
 
 King And Queen Games, llc
 
@@ -190,7 +190,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/4.jpg?v=1756960214
   Price: $48.00 USD
 - [Disney Lorcana  Cards Into Inkland - King And Queen Games](https://kingandqueengames.com/products/disney-lorcana--cards-into-inkland): Discover the Magic of Disney Lorcana  Cards.Description: All cards are 100% Japan authentic official product.Condition: New Sealed BoxLanguage: Japanese1Box = 16 Packs1Pack = 6 CardsWhat is Disney Lorcana?Disney Lorcana is an exciting new  card game that immerses players into the whimsical realm of Inkland. Players can collect beautifully designed cards featuring their favorite Disney characters. In this game, creativity reigns supreme, and players can unleash their imaginations while strategizing their moves. As you navigate through games, you can create unique decks and discover new ways to play.Gameplay and FeaturesThe gameplay of Disney Lorcana is engaging, combining elements of strategy and luck. Players take turns playing cards, invoking Disney characters to use their special powers. It's a game that encourages not only competitive spirit but also collaborative play, making it ideal for families and friends. Furthermore, because each card has unique attributes, players must think ahead and adapt their strategies continuously.Why Play Disney Lorcana?Disney Lorcana stands out because it blends nostalgia with modern gameplay, appealing to both young and  fans of Disney. It offers endless replayability with its diverse card collections and dynamic gameplay. The colorful artwork and familiar characters create an enchanting experience that keeps players coming back for more. Ultimately, Disney Lorcana empowers players to create, strategize, and enjoy memorable moments with loved ones. - King And Queen Games
-  Updated: 2026-01-17T04:54:02Z
+  Updated: 2026-01-25T16:39:26Z
   Vendor: King And Queen Games
   Product Type: 
   Availability: Available
@@ -323,7 +323,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Lucario_EX.jpg?v=1767973807
   Price: $40.00 USD
 - [Japanese Surfing Pikachu Vmax Card - King And Queen Games](https://kingandqueengames.com/products/japanese-surfing-pikachu-vmax-card): Japanese Surfing Pikachu VMAX Card.Celebrate the 25th anniversary of Pokémon with this 2021 Japanese Surfing Pikachu VMAX card, graded PSA Mint 9. This collectible features the iconic Pikachu in a dynamic surfing pose, showcasing vibrant artwork and powerful VMAX stats. A prized addition for serious collectors, it combines rarity, condition, and nostalgic appeal, making it a standout piece in any Pokémon card portfolio. - King And Queen Games
-  Updated: 2026-01-17T04:50:03Z
+  Updated: 2026-01-28T16:45:38Z
   Vendor: King And Queen Games
   Product Type: Graded Pokemon Cards
   Availability: Available
@@ -442,12 +442,12 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Paldean_Tauros.jpg?v=1767660936
   Price: $3.00 USD
 - [Nihil Zero Pre-Order - King And Queen Games](https://kingandqueengames.com/products/nihil-zero-pre-order): Nihil Zero launches January 23, 2026. Each booster box contains 30 packs with 5 cards per pack, delivering 150 cards total. The set features 80 unique cards plus special variants and chase pulls. Secure your allocation now before release day. Perfect for collectors and competitive players building their Nihil Zero collections. - King And Queen Games
-  Updated: 2026-01-17T04:46:26Z
+  Updated: 2026-01-28T18:39:22Z
   Vendor: King And Queen Games
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/NihilZeroBoosterBox.jpg?v=1767801440
-  Price: $110.00 USD
+  Price: $84.00 USD
 - [Swinub (165/159) - King And Queen Games](https://kingandqueengames.com/products/swinub-165-159): Swinub - 165/159 Swinub 165/159 from Pokémon Scarlet & Violet: Journey Together represents a secret rare pull from this sought-after set. This Ice/Ground-type Pokémon card showcases premium artwork and collectible appeal for both players and enthusiasts. The 165/159 designation indicates this is a chase card beyond the standard set, making it a notable addition to any SV09 collection. Ideal for competitive deck building or display in a graded slab. Product Details Card Number / Rarity:165/159 / Illustration Rare Card Type / HP / Stage:Fighting / 70 / Basic Attack 1:[1] Call for FamilySearch your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck. Attack 2:[F] Lunge Out (10) Weakness / Resistance / Retreat Cost:Gx2 / / 2 - King And Queen Games
   Updated: 2026-01-17T04:46:16Z
   Vendor: King And Queen Games
@@ -512,7 +512,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Arven_sGreedent_075_063AR.jpg?v=1768099601
   Price: $3.60 USD
 - [Alolan Dugtrio – 116/106 AR - King And Queen Games](https://kingandqueengames.com/products/alolan-dugtrio-116-106-ar): Alolan Dugtrio – 116/106 ARSV8: Super Electric Breaker (Japanese) Add a unique and visually striking card to your collection with Alolan Dugtrio – 116/106 AR from the Japanese SV8: Super Electric Breaker expansion. This Art Rare (AR) card features vibrant artwork that highlights Alolan Dugtrio’s distinctive design, making it a standout piece for collectors and fans of Japanese Pokémon releases. Pulled directly from pack and carefully handled, this card is ideal for both collection display and competitive deck building. As a secret rare card numbered above the set’s standard range, it holds added appeal for rarity-focused collectors. Product Details: Card Name: Alolan Dugtrio Card Number: 116/106 Rarity: Art Rare (AR) Set: SV8 – Super Electric Breaker Language: Japanese Condition: Near Mint / Mint Authentic Pokémon  Card Game product Perfect for collectors seeking Japanese-exclusive artwork or players looking to enhance their Pokémon TCG lineup, Alolan Dugtrio AR is a must-have addition to any modern Pokémon collection. - King And Queen Games
-  Updated: 2026-01-17T04:43:34Z
+  Updated: 2026-01-27T07:26:06Z
   Vendor: King And Queen Games
   Product Type: 
   Availability: Available
@@ -575,7 +575,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Rapidash069_063.jpg?v=1768111735
   Price: $2.90 USD
 - [Kecleon 118/106 (SV8) - King And Queen Games](https://kingandqueengames.com/products/kecleon-118-106-sv8): Kecleon - 118/106 Art Rare | SV8: Super Electric Breaker (SV8) Discover the elusive charm of Kecleon - 118/106, an Art Rare card from the highly sought-after SV8: Super Electric Breaker set. This card is a must-have for collectors and competitive players alike, featuring stunning artwork that brings Kecleon’s unique character to life. Set: SV8: Super Electric Breaker Rarity: Art Rare Card Number: 118/106 Condition: [Lightly Played] Perfect for building your deck or enhancing your collection, this Kecleon card offers both visual appeal and strategic value. Its vibrant art and rarity make it a standout piece in any Pokémon TCG collection. Add this exclusive SV8 Art Rare to your collection today and let Kecleon’s playful presence electrify your Pokémon lineup! - King And Queen Games
-  Updated: 2026-01-16T07:46:49Z
+  Updated: 2026-01-27T07:25:29Z
   Vendor: King And Queen Games
   Product Type: 
   Availability: Available
@@ -589,12 +589,47 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Bombirdier089_078.jpg?v=1768113053
   Price: $2.30 USD
 - [Phanpy 115/106 (SV8) - King And Queen Games](https://kingandqueengames.com/products/phanpy-115-106-sv8): Phanpy 115/106 AR – SV8: Super Electric Breaker Collect this rare Phanpy Art Rare (AR) card from SV8: Super Electric Breaker! Perfect for Pokémon collectors and competitive decks, it features vibrant artwork and standout collectible value. Don’t miss out! - King And Queen Games
-  Updated: 2026-01-16T07:40:16Z
+  Updated: 2026-01-28T16:40:31Z
   Vendor: King And Queen Games
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Phanpy115_106.jpg?v=1768113512
   Price: $2.80 USD
+- [Umbron Pokemon Plush - King And Queen Games](https://kingandqueengames.com/products/umbron-plush): Umbron Plush- King And Queen Games
+  Updated: 2026-01-25T18:59:45Z
+  Vendor: King And Queen Games
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Umbron_pokemon_plush.jpg?v=1769324512
+  Price: $25.00 USD
+- [FB08 – Saiyan’s Pride Japanese Booster Box - King And Queen Games](https://kingandqueengames.com/products/fb08-saiyan-s-pride-dragon-ball-z-japanese): FB08 – Saiyan’s Pride Japanese Booster Box good for kids or collecting - King And Queen Games
+  Updated: 2026-01-25T19:45:43Z
+  Vendor: King And Queen Games
+  Product Type: Dragon Ball Z Fusion World
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/FB08_Saiyan_s_Pride_Japanese_Booster_Box.png?v=1769327190
+  Price: $56.00 USD
+- [One Piece Card Game The Best Vol.2 (PRB-02) Booster Box (Japanese)- King And Queen Games](https://kingandqueengames.com/products/one-piece-card-gameprbone-piece-card-the-best-vol-2-prb-02-box): Shop One Piece Card Game The Best Vol.2 (PRB-02) Japanese Booster Box. Factory sealed with premium reprints, iconic cards, and fast shipping. - King And Queen Games
+  Updated: 2026-01-25T20:07:49Z
+  Vendor: King And Queen Games
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/ONE_PIECE_Card_Game_Premium_Booster.jpg?v=1769328565
+  Price: $60.00 USD
+- [Mega Dream - King And Queen Games](https://kingandqueengames.com/products/untitled-jan26_00-14): Open the Mega Dream ex Booster Box (M2a)! High Class Japanese Pokémon TCG packs with powerful Pokémon ex and collector-grade cards. - King And Queen Games
+  Updated: 2026-01-26T18:29:57Z
+  Vendor: King And Queen Games
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Mega_Dream_Booster_Box.jpg?v=1769409397
+  Price: $100.00 USD
+- [Start Deck 100 Battle Collection - King And Queen Games](https://kingandqueengames.com/products/start-deck-100-battle-collection): Start Deck 100 Battle Collection features a randomly selected Japanese Pokémon TCG pre-constructed deck. Collect, battle, and discover all 100 decks. - King And Queen Games
+  Updated: 2026-01-27T01:33:01Z
+  Vendor: King And Queen Games
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Start_Deck_100_Battle_Collection.jpg?v=1769410392
+  Price: $38.00 USD
 
 ## Collections
 
@@ -602,8 +637,8 @@ King And Queen Games, llc
   Updated: 2026-01-09T20:17:50Z
   Total Products: 3
 - [Dragon Ball Z Fusion World - King And Queen Games](https://kingandqueengames.com/collections/dragon-ball-z-fusion-world): Discover the Fascinating Dragon Ball Z Super Fusion World Dragon Ball Z Super Card Game Fusion World What is Dragon Ball Z Fusion? Dragon Ball Z Fusion is an exciting concept where characters combine their powers to create stronger warriors. This fusion process brings together two characters, merging their abilities, strengths, and even their personalities. As fans love to watch these epic transformations, various combinations lead to unique fighters with extraordinary capabilities. The idea not only enhances the battles but also adds an element of surprise, as viewers eagerly anticipate who will fuse next. - King And Queen Games
-  Updated: 2026-01-10T16:34:01Z
-  Total Products: 4
+  Updated: 2026-01-25T07:54:57Z
+  Total Products: 5
 - [Graded Pokemon Cards - King And Queen Games](https://kingandqueengames.com/collections/graded-pokemon-cards): Understanding Graded Pokemon Cards Professionally authenticated through PSA, Beckett, CGC and other  card grading service company. How to Start Collecting Graded Pokemon Cards If you're interested in starting your own collection of graded Pokemon cards, it’s important to do some research first. Start by learning about the different grading companies, such as PSA, CGC, and BGS, to understand their grading scales and what they look for in a card. Additionally, consider attending local card shows or connecting with online collectors, as they can provide valuable insight and tips. Because the world of graded cards can be competitive, being informed will help you make better buying and  decisions. - King And Queen Games
   Updated: 2026-01-10T07:22:26Z
   Total Products: 19
@@ -611,7 +646,7 @@ King And Queen Games, llc
   Updated: 2026-01-05T00:43:31Z
   Total Products: 3
 - [Pre Order Products - King And Queen Games](https://kingandqueengames.com/collections/pre-order-products): Discover the Best Pre Order Products What Are Pre Order Products? Pre order products are items that customers can purchase before they are officially available in stores. This means that you can secure the latest gadgets, toys, or any upcoming releases ahead of time. It’s advantageous because it guarantees you’ll get the item once it’s released. Many people choose to pre order products because they want to avoid missing out on a popular item, especially when quantities are limited. With pre orders, you can enjoy peace of mind knowing that your purchase is set aside just for you. - King And Queen Games
-  Updated: 2026-01-15T18:25:46Z
+  Updated: 2026-01-28T06:36:55Z
   Total Products: 1
 - [Accessories Products Dice Playmates Card Sleeves - King And Queen Games](https://kingandqueengames.com/collections/accessories-products): Accessories Products Dice Playmates Card Sleeves. Explore Online Accessories to Elevate Your StyleAccessories, Playmats, Card Sleeves, Dice, Ect.Quality and AffordabilityWhen shopping for online accessories, quality and affordability are crucial. Most online stores provide detailed product descriptions, including material and care instructions, which help in making informed decisions. Because of this transparency, you can buy trendy accessories without breaking the bank, ensuring you get the best value for your money. - King And Queen Games
   Updated: 2026-01-17T05:01:42Z
@@ -629,8 +664,8 @@ King And Queen Games, llc
   Updated: 2026-01-10T07:27:56Z
   Total Products: 4
 - [Smart Products Filter Index - Do not delete - King And Queen Games](https://kingandqueengames.com/collections/globofilter-best--products-index): - King And Queen Games
-  Updated: 2026-01-15T18:25:46Z
-  Total Products: 87
+  Updated: 2026-01-28T06:36:55Z
+  Total Products: 92
 - [Single  Cards - King And Queen Games](https://kingandqueengames.com/collections/single--cards): Single  Card Games Check out our single  card from Pokemon, Magic, Lorcana, Yu-Gi-Oh, Dragon ball Z and Other TCG's. - King And Queen Games
   Updated: 2026-01-11T18:20:28Z
   Total Products: 14
@@ -650,10 +685,19 @@ King And Queen Games, llc
   Updated: 2026-01-11T02:33:24Z
   Total Products: 3
 - [Japanese Pokemon Booster Boxes - King And Queen Games](https://kingandqueengames.com/collections/japanese-pokemon-booster-boxes): Japanese Pokémon Booster Boxes Explore our collection of Japanese Pokémon Booster Boxes, featuring authentic, factory-sealed Pokémon TCG products imported directly from Japan. Japanese booster boxes are known for premium card quality, exclusive artwork, and early-release sets not yet available internationally. Perfect for collectors, competitive players, and sealed product investors, this collection includes the latest and most popular Japanese Pokémon expansions. - King And Queen Games
-  Updated: 2026-01-14T21:18:56Z
-  Total Products: 14
+  Updated: 2026-01-26T07:33:48Z
+  Total Products: 15
 - [Best Sellers - King And Queen Games](https://kingandqueengames.com/collections/best-sellers): Best Sellers Discover our most popular products, chosen by collectors and players alike. Our Best Sellers Collection features the items customers come back for again and again—trusted favorites known for their quality, demand, and value. From highly sought-after sealed products to standout singles and limited releases, this collection highlights what’s trending right now. Whether you’re expanding your collection, chasing key pulls, or picking up a proven favorite, these top- items represent the best of what we offer. Shop with confidence knowing these products are customer-, consistently in demand, and ready to ship. - King And Queen Games
   Updated: 2026-01-14T21:18:56Z
+  Total Products: 6
+- [￼ Other items ￼ - King And Queen Games](https://kingandqueengames.com/collections/other-items): - King And Queen Games
+  Updated: 2026-01-25T07:03:48Z
+  Total Products: 1
+- [ONE PIECE Card Game - King And Queen Games](https://kingandqueengames.com/collections/one-piece-card-game): - King And Queen Games
+  Updated: 2026-01-25T08:51:03Z
+  Total Products: 1
+- [New Arrivals ￼ - King And Queen Games](https://kingandqueengames.com/collections/new-arrivals): - King And Queen Games
+  Updated: 2026-01-26T07:01:11Z
   Total Products: 6
 
 ## Blogs
@@ -692,13 +736,19 @@ King And Queen Games, llc
   - [Exploring the Appeal of MERLIN CGC GEM 10 DISNEY LORCANA RISE OF THE FLOODBORN in the Context of Pokemon Cards and Global Booster Box Trends](https://kingandqueengames.com/blogs/news/exploring-the-appeal-of-merlin-cgc-gem-10-disney-lorcana-rise-of-the-floodborn-in-the-context-of-pokemon-cards-and-global-booster-box-trends): Exploring the Appeal of MERLIN CGC GEM 10 DISNEY LORCANA RISE OF THE FLOODBORN in the Context of Pokemon Cards and Global Booster Box Trends
     Updated: 2026-01-20T00:23:36Z
     Author: King And Queen Games
+  - [Pokemon Card Collecting Adventures with Merlin Rabbit and Japanese and Chinese Booster Boxes](https://kingandqueengames.com/blogs/news/pokemon-card-collecting-adventures-with-merlin-rabbit-and-japanese-and-chinese-booster-boxes): Pokemon Card Collecting Adventures with Merlin Rabbit and Japanese and Chinese Booster Boxes
+    Updated: 2026-01-22T00:13:09Z
+    Author: King And Queen Games
+  - [Battle the FloodBorn: Comparing Disney Lorcana's Rise to Japanese Booster Boxes and Chinese Pokemon Cards](https://kingandqueengames.com/blogs/news/battle-the-floodborn-comparing-disney-lorcanas-rise-to-japanese-booster-boxes-and-chinese-pokemon-cards): Battle the FloodBorn: Comparing Disney Lorcana's Rise to Japanese Booster Boxes and Chinese Pokemon Cards
+    Updated: 2026-01-26T00:33:22Z
+    Author: King And Queen Games
 
 ## Store Pages
 
 - [Contact Information for Your Needs](https://kingandqueengames.com/pages/contact-information): Contact Information: Contact information - 1133 Acacia Club RD Hollister MO,65672.(we our an online store only) join our email newsletter . Contact...
   Updated: 2026-01-19T07:06:43Z
 - [Your privacy choice: Understand Your Options](https://kingandqueengames.com/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-24T21:19:20Z
+  Updated: 2026-01-28T16:28:23Z
 - [KingAndQueenGames About-Us](https://kingandqueengames.com/pages/about-us): Welcome to King & Queen Games – About Us Hello, my name is David. I started my journey back in 1998. I would open packs from some of the top retail...
   Updated: 2026-01-18T16:59:54Z
 - [Product Navigation-Graded Cards, Japan Pokemon, Chinese Pokemon](https://kingandqueengames.com/pages/product-navigation): The Importance of Product Navigation Product navigation Simplified Chinese Trainer Col... Battle Partner Booster box (Ja... Stellar Miracle Booster...
@@ -721,7 +771,7 @@ King And Queen Games, llc
 - [Shipping Policy](https://kingandqueengames.com/policies/shipping-policy)
   Updated: 2025-06-27T13:49:19-05:00
 - [Refund Policy](https://kingandqueengames.com/policies/refund-policy)
-  Updated: 2026-01-03T23:40:43-06:00
+  Updated: 2026-01-23T22:34:13-06:00
 - [Terms of Service](https://kingandqueengames.com/policies/terms-of-service)
   Updated: 2025-03-20T00:38:29-05:00
 - [Contact Information](https://kingandqueengames.com/policies/contact-information)
