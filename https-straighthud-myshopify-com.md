@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-12-12T19:38:14Z
 - Contact Email: geemoney91152@gmail.com
-- Updated At: 2026-01-22T00:00:34.643Z
+- Updated At: 2026-01-29T00:00:36.792Z
 
 ## Products
 
@@ -2874,7 +2874,7 @@
 - [Contact](https://straighthud.myshopify.com/pages/contact)
   Updated: 2025-12-12T19:38:16Z
 - [Your Privacy Choices](https://straighthud.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-12T19:38:24Z
+  Updated: 2026-01-28T17:58:36Z
 
 ## Policies
 
