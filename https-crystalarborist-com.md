@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-01-22T00:00:36.549Z
+- Updated At: 2026-01-29T00:00:38.614Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -551,13 +551,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-32696174-11b7-4447-a253-8752bd9db6d6-_1.jpg?v=1766548193
   Price: $10.00 USD
-- [Vintage 1964 Louis Hartley Mallards Teals and Pintails Duck Plates, Wall Decor Crystal Arborist](https://crystalarborist.com/products/vintage-1964-louis-hartley-mallards-teals-and-pintails-duck-plates-wall-decor): Calling all Duck Lovers! Here I have 2 Louis Hartley 1964 decorative Duck Plates. Labeled on the back as Mallards, Teals, and Pintails, these Vintage plates were designed in Canada
-  Updated: 2026-01-21T14:45:55Z
-  Vendor: My Store
-  Product Type: Vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-2db631f5-4ada-4378-a140-a61ef006ebad-_1.jpg?v=1766548175
-  Price: $12.00 USD
 - [Vintage Virginia Beach Coffee Cup Crystal Arborist](https://crystalarborist.com/products/vintage-virginia-beach-coffee-cup): This Vintage Coffee Cup features a seagle and a sandy beach, graced with seashells, starfish, and beach grass. Perfect for those who love the beach or appreciate a good cup of
   Updated: 2026-01-21T14:45:55Z
   Vendor: Unbranded
@@ -1454,13 +1447,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_f8a25cbd-fc65-4c3e-b3af-06da05c35617.jpg?v=1760591787
   Price: $18.00 USD
-- [Vintage Brown Glass, Pluto, Disney Crystal Arborist](https://crystalarborist.com/products/vintage-brown-glass-pluto-disney): Pluto the Dog, Mickey's loyal companion, is featured on the side of this vintage glass. Brown glass that tapers to clear at the top. A beautiful  piece for any lover of Disney
-  Updated: 2026-01-21T14:45:55Z
-  Vendor: Crystal Arborist
-  Product Type: Vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_fd3d9366-79b4-4a13-a7ba-e336cc1ee548.jpg?v=1760591790
-  Price: $12.00 USD
 - [Herkimer Diamond, New York, Crystal Crystal Arborist](https://crystalarborist.com/products/herkimer-diamond-new-york-crystal): Herkimer Diamond. Mined in the State of New York. Good sized crystal. Herkimer Diamonds are a type of double terminated Quartz Crystal. They symbolize Clarity and Purification.
   Updated: 2026-01-21T14:45:55Z
   Vendor: My Store
@@ -1753,7 +1739,21 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-f622f22c-d5f7-4d8e-ba6d-2a827651e7ee-_1.jpg?v=1766285815
   Price: $3.00 USD
-[List Continued](https://crystalarborist.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIxMzgwODkxMDQ5NiwibGFzdF92YWx1ZSI6IjE1MjEzODA4OTEwNDk2In0=)
+- [Brown and White Vintage Flower Pin, at Crystal Arborist](https://crystalarborist.com/products/brown-and-white-vintage-flower-pin): Come and see this Brown and White Vintage Flower Pin. This Brooch would make a fine addition to your collection of Vintage Pins.
+  Updated: 2026-01-21T14:45:55Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-a04fe358-7aa1-4ea9-9e33-4a5e1a4b1c54-_1.jpg?v=1766285804
+  Price: $3.00 USD
+- [Star-Shaped Vintage Pin, Available Now at Crystal Arborist](https://crystalarborist.com/products/star-shaped-vintage-pin): Star-Shaped Vintage Pin. Shop today or browse around. Come and see the Vintage Vista Collection. Only at Crystal Arborist. Your sure to find something special
+  Updated: 2026-01-21T14:45:55Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-000c9215-cfa6-441d-b5a0-401d6ffe3e88-_1.jpg?v=1766285795
+  Price: $6.00 USD
+[List Continued](https://crystalarborist.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIxMzgzMTQ1NDg4MCwibGFzdF92YWx1ZSI6IjE1MjEzODMxNDU0ODgwIn0=)
 
 ## Collections
 
@@ -1767,7 +1767,7 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Updated: 2026-01-17T20:57:48Z
   Total Products: 90
 - [Vintage Vista, Presented By Crystal Arborist](https://crystalarborist.com/collections/vintage-vista): Vintage Vista, our Timeless Collection of Vintage and Antique Items. Classic and Retro. Pieces with History that have withstood the test of Time.
-  Updated: 2026-01-17T20:57:48Z
+  Updated: 2026-01-25T16:33:20Z
   Total Products: 96
 - [Crystal Cavern, Presented By Crystal Arboris](https://crystalarborist.com/collections/crystal-cavern): Crystal Cavern: Shop our Collection of Rocks, Minerals, Crystal and Gemstone Specimens, as well as the symbol of our Shop, Gemstone and Wire Tree Sculptures.
   Updated: 2026-01-17T20:57:48Z
@@ -1776,7 +1776,7 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Updated: 2026-01-17T20:57:48Z
   Total Products: 31
 - [Newest Items, Presented By Crystal Arborist](https://crystalarborist.com/collections/products): Newest items, browse the newest items available from  Crystal Arborist.
-  Updated: 2026-01-17T20:57:48Z
+  Updated: 2026-01-25T16:33:20Z
   Total Products: 349
 - [Top Ten Treasures Crystal Arborist](https://crystalarborist.com/collections/top-page-treasures): Explore the Top Ten Treasures collection at Crystal Arborist — featuring rare crystals, collectible figures, gemstone bundles, charms & unique finds. Shop hand-selected treasures that spark joy and curiosity!
   Updated: 2026-01-21T19:00:17Z
@@ -1850,6 +1850,22 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
     Updated: 2026-01-21T03:52:51Z
     Author: Callie Hitchcock
     Tags: Botanical fantasy, Connection, Courage, Dimensional Travel, Found family, Gardens, Hope, Romantic science fiction, Short story, Soft Sci-fi, Stars and constellations, Wholesome
+  - [The Worth of What Calls Us (TWoWCU Book 1)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-worth-of-what-calls): <p><em><strong>A thief who hears objects calling. A traveling troupe of misfits. A journey to discover what's truly worth keeping. A cozy fantasy novella about belonging and the magic hidden in overlooked things.</strong></em></p>
+    Updated: 2026-01-26T22:40:53Z
+    Author: Callie Hitchcock
+    Tags: Cozy Fantasy, Found family, Heartwarming, Magical Objects, Self-Discovery, Traveling Troupe, Whimsical
+  - [The Mender's Tale (TWoWCU Book 2)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-menders-tale): <p><em><strong><span>Sam stole a locket filled with memories and it nearly destroyed him. Now, years later, he's become Mender—a traveling memory healer who helps broken people find grace. But before he could save others, he had to learn to save himself. A backstory novella about redemption, found family, and the transformative power of undeserved kindness.</span></strong></em></p>
+    Updated: 2026-01-26T22:40:03Z
+    Author: Callie Hitchcock
+    Tags: Backstory, Cozy Fantasy, Emotional journey, Found family, Grace and forgiveness, Magical realism, Memory magic, Novella, Pocket watch, Prequel, Redemption arc, Second chances, Theif to healer, Traveling Troupe
+  - [Song & Starlight (TWoWCU Book 3)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/song-starlight): <p><em><strong>Lyric makes music with magic. Lumina weaves light to rival constellations. A Story about belonging, and creating something beautiful together.</strong></em></p>
+    Updated: 2026-01-26T22:39:33Z
+    Author: Callie Hitchcock
+    Tags: Cozy Fantasy, Love, Magic, Music magic, neurodivergent characters
+  - [Luck of the Card Master (TWoWCU Book 4)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/luck-of-the-card-master): <p><em><strong>A street thief, a  deck of cards, and pocket dragons who won't stop stealing. Felix's journey from survival to belonging in this cozy fantasy tale.</strong></em></p>
+    Updated: 2026-01-26T23:23:11Z
+    Author: Callie Hitchcock
+    Tags: Card magic, Coming of Age Fantasy, Dragons, Performance Troupe, Street theif
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
@@ -1889,7 +1905,7 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
 - [Contact, Crystal Arborist Contact Information](https://crystalarborist.com/pages/contact): Contact Info Before attempting to Call or Email, please Contact me through the built-in Chat Bubble. Also, please note, attempting to Contact by Em...
   Updated: 2026-01-07T03:08:56Z
 - [Your privacy choices, featured in Crystal Arborist](https://crystalarborist.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-21T04:05:11Z
+  Updated: 2026-01-28T17:22:14Z
 - [Crystal Arborist Wishlist, Save Your Faves](https://crystalarborist.com/pages/swym-wishlist): window.SwymCallbacks = window.SwymCallbacks || []; window.SwymCallbacks.push(function(swat) { var wishlistContainerElement = document.querySelector...
   Updated: 2025-12-21T04:05:11Z
 - [The Crystal Arborist Shop, Shared Wishlist](https://crystalarborist.com/pages/swym-share-wishlist): Shared Wishlist
