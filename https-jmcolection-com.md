@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T15:55:06Z
 - Contact Email: jeanmaymerline1996@gmail.com
-- Updated At: 2026-01-22T00:00:38.394Z
+- Updated At: 2026-01-29T00:00:40.923Z
 
 ## Products
 
@@ -791,7 +791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/25f512b5-df88-4696-90fc-33b1c3d9fdb5.jpg?v=1763511796
     Price: $29.90 USD
 - [Wireless Over-Ear Headphones with Mic & FM Radio](https://jmcolection.com/products/wireless-headphones-portable-over-ear-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc-wireless-headset-headphones-wireless-wirele)
-  Updated: 2025-11-19T12:30:13Z
+  Updated: 2026-01-24T23:04:20Z
   Vendor: JEL
   Product Type: 
   Availability: Available
@@ -2225,6 +2225,100 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/3d715a0e-1735-4505-9d9d-1ba6410b877f.jpg?v=1766940970
     Price: $7.28 USD
+- [150x Telescope, 70mm Aperture Telescope, High Magnification, Portable Astronomical Telescope, with Tripod Phone Adapter and Wireless Remote Control, Telescope for Phone](https://jmcolection.com/products/150x-telescope-70mm-aperture-telescope-high-magnification-portable-astronomical-telescope-with-tripod-phone-adapter-and-wireless-remote-control-telescope-for-phone): SPECIFICATIONSFocus Type: Manual FocusItem ID: WN497220Maximum Magnification: 150XObjective Lens Diameter (mm): 70Origin: Fujian,China Description:· This telescope provides 150x maximum magnification for observing celestial bodies and distant terrestrial objects.· Features a 70mm objective lens diameter that gathers light for viewing during astronomical activities.· Designed as a portable astronomical refractor telescope for outdoor stargazing and travel.· Includes a tripod for viewing and a phone adapter with wireless remote for capturing telescopic images.
+  Updated: 2026-01-25T14:14:11Z
+  Vendor: J&M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/e49cdf71-439b-476e-aea0-019e0640c44e.jpg?v=1769307217
+  - [White](https://jmcolection.com/products/150x-telescope-70mm-aperture-telescope-high-magnification-portable-astronomical-telescope-with-tripod-phone-adapter-and-wireless-remote-control-telescope-for-phone?variant=51310864138561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/fa11642d-4fc7-4621-9639-7c4d9f85a60d.jpg?v=1769307217
+    Price: $53.50 USD
+  - [Black](https://jmcolection.com/products/150x-telescope-70mm-aperture-telescope-high-magnification-portable-astronomical-telescope-with-tripod-phone-adapter-and-wireless-remote-control-telescope-for-phone?variant=51310864171329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/0f8535ae-fcf6-47a0-a78b-388ad27eed79.jpg?v=1769307217
+    Price: $53.50 USD
+  - [Dark Blue](https://jmcolection.com/products/150x-telescope-70mm-aperture-telescope-high-magnification-portable-astronomical-telescope-with-tripod-phone-adapter-and-wireless-remote-control-telescope-for-phone?variant=51310864204097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/52b7532b-eb6a-4239-94a3-30e40e382e3f.jpg?v=1769307217
+    Price: $53.50 USD
+- [Wireless Over Ear Headphones, Portable Headphones, Foldable Headphones WIth Mic, FM Radio, 3.5MM AUX Cable, Soft-Earpads, Support TF Card Play For Travel Home Office Cellphone PC](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc): SPECIFICATIONSAccessory: CableAge Range: AdultApplicable Age Group: 14 Years+Battery Capacity (mAh): 400MAhBattery Properties: Rechargeable BatteryCable Feature: DetachableCompatible Device: CellphonesConnectivity: wirelessControl Method: Push ButtonControl Type: Media ControlDoes It Include A Charger?: NoDoes It Support Coordinated Fast Charging?: NoEarcup Style: Closed-backHeadphone Features: FoldableHeadphone Jack: 3.5mmIs There A Charging Case?: NoItem ID: NA261954Material: PlasticMaximum Rated Power: 5WMicrophone Type: Condenser MicrophoneMinimum Rated Power: 5WNoise Control Mode: Active Noise CancellationOperating Voltage: ≤36VOrigin: Guangdong,ChinaPower Mode: USB ChargingProduct Charging Port: Type-C Port ChargingRechargeable Battery: Lithium Battery-PolymerRecommended Scenario: CallingTheme: Movie;Tv series;Video gameVoltage: See Product DetailsWireless Property: wireless Description:· These wireless headphones offer cable-free listening and are compatible with cellphones and PCs for versatile use.· Foldable construction with closed-back earcups and soft earpads makes these headphones suitable for travel, home, or office use.· Supports TF card play and includes a 3.5mm AUX cable for flexible audio connectivity options.
+  Updated: 2026-01-26T12:25:37Z
+  Vendor: J&M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/cebbeb05-fa9e-4d3f-8012-0409e21d5490.jpg?v=1769387051
+  - [Blue](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc?variant=51315282575681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/db5825cc-bee0-4abf-b693-c0a789f85b77.jpg?v=1769387050
+    Price: $23.74 USD
+  - [Black](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc?variant=51315282608449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/cebbeb05-fa9e-4d3f-8012-0409e21d5490.jpg?v=1769387051
+    Price: $23.74 USD
+  - [Red](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc?variant=51315282641217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/575d05e7-99df-44ee-a006-6084d6703d79.jpg?v=1769387051
+    Price: $23.76 USD
+  - [White](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc?variant=51315282673985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/86b82a08-b159-43dc-a093-fbb929b5ae56.jpg?v=1769387051
+    Price: $23.74 USD
+  - [Green](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc?variant=51315282706753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/0e4e9cb9-3b89-4218-863b-5896908f3172.jpg?v=1769387051
+    Price: $23.74 USD
+  - [Matt Black](https://jmcolection.com/products/wireless-over-ear-headphones-portable-headphones-foldable-headphones-with-mic-fm-radio-3-5mm-aux-cable-soft-earpads-support-tf-card-play-for-travel-home-office-cellphone-pc?variant=51315282739521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/d570f89b-600a-4926-963c-2b38fa821a99.jpg?v=1769387051
+    Price: $24.08 USD
+- [FAWEIO Smart Watch with Alexa - Fitness Tracker & Wireless Calling](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker): FAWEIO smartwatch with Alexa, 1.95" display, wireless calling & 100+ sport modes. Track fitness, answer calls, and stay connected. Compatible with iPhone & Android.
+  Updated: 2026-01-26T12:32:20Z
+  Vendor: J&M
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/aeb8d0fc-8cb5-4316-a1da-b0c4f27c6772.jpg?v=1769387411
+  - [Black 2](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315316883777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/aeb8d0fc-8cb5-4316-a1da-b0c4f27c6772.jpg?v=1769387411
+    Price: $49.92 USD
+  - [Black Dual strap](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315316916545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/993b9495-9f0e-403b-8536-034c823ed357.jpg?v=1769387412
+    Price: $49.92 USD
+  - [Pink Dual strap](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315316949313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/dc4a21f4-cb00-407e-b5b6-4f9817e76478.jpg?v=1769387412
+    Price: $49.92 USD
+  - [Inky Black](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315316982081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/ec5b84c7-4545-4cdf-8191-3f72209fd48d.jpg?v=1769387412
+    Price: $45.40 USD
+  - [Sakura Pink](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315317014849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/30f9f7dc-10cf-4641-b1c1-37355eae80e3.jpg?v=1769387412
+    Price: $45.42 USD
+  - [Light Grey](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315317047617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/24b919cb-459e-407e-be85-cc3e933b82d5.jpg?v=1769387412
+    Price: $45.42 USD
+  - [Blue 2](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315317080385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/d4656536-368e-41d0-8076-73935f0a6a6e.jpg?v=1769387412
+    Price: $49.92 USD
+  - [Black](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315317113153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/49232a99-97f7-4b09-98b2-f16a6121b86b.jpg?v=1769387412
+    Price: $49.92 USD
+  - [pink](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315317145921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/940067a8-4cd3-4516-9f3f-e944a980429c.jpg?v=1769387412
+    Price: $49.92 USD
+  - [Gray](https://jmcolection.com/products/faweio-smart-watch-with-alexa-1-95-fitness-tracker?variant=51315317178689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/0050/3361/files/e223041a-1789-4410-babc-1b2c307c6862.jpg?v=1769387412
+    Price: $49.92 USD
 
 ## Collections
 
@@ -2241,7 +2335,7 @@
   Updated: 2025-10-19T17:04:34Z
   Total Products: 1
 - [Best ](https://jmcolection.com/collections/best-)
-  Updated: 2026-01-20T02:41:57Z
+  Updated: 2026-01-25T12:18:58Z
   Total Products: 28
 - [Beauty & Cosmetics - Premium Skincare & Makeup | J&M](https://jmcolection.com/collections/beauty-cosmetics): Shop our curated collection of premium beauty and cosmetic products. Quality skincare, makeup essentials, and self-care luxuries for every routine.
   Updated: 2025-11-30T04:38:58Z
@@ -2252,7 +2346,7 @@
 - [Contact](https://jmcolection.com/pages/contact)
   Updated: 2025-08-17T15:55:09Z
 - [Your Privacy Choices](https://jmcolection.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-08-17T15:55:15Z
+  Updated: 2026-01-28T17:13:53Z
 - [FAQ (Frequently Asked Questions)](https://jmcolection.com/pages/faq-frequently-asked-questions): Frequently Asked Questions (FAQ) Here are some common questions we receive. If you don't find the answer you're looking for, please don't hesitate ...
   Updated: 2025-10-18T23:39:52Z
 - [Shipping Policy](https://jmcolection.com/pages/shipping-policy): Thank you for shopping with [ JM]! We are committed to providing you with the best possible shopping experience, including fast and reliable shippi...
