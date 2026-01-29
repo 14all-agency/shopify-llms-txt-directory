@@ -6,313 +6,132 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-29T12:17:18Z
 - Contact Email: info@damastklingen-shop.de
-- Updated At: 2026-01-21T12:58:22.586Z
+- Updated At: 2026-01-29T11:36:22.353Z
 
 ## Products
 
 - [Geschenkgutschein Damastklingen-Shop – Freude am Kochen](https://damastklingen-shop.de/products/damastklingen-shop-gutschein): Verschenke hochwertige Messer, Schneidbretter & Zubehör: Gutschein für den Damastklingen-Shop. Flexibel einlösbar & ideal als Geschenkidee.
   Updated: 2025-11-25T16:15:48Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Logo_DK.jpg?v=1753962375
-  - [25€](https://damastklingen-shop.de/products/damastklingen-shop-gutschein?variant=53222599491915)
-    Availability: Available
-    Price: 25,00 € EUR
-  - [50€](https://damastklingen-shop.de/products/damastklingen-shop-gutschein?variant=53149593370955)
-    Availability: Available
-    Price: 50,00 € EUR
-  - [100€](https://damastklingen-shop.de/products/damastklingen-shop-gutschein?variant=53149593403723)
-    Availability: Available
-    Price: 100,00 € EUR
-  - [150€](https://damastklingen-shop.de/products/damastklingen-shop-gutschein?variant=53149593436491)
-    Availability: Available
-    Price: 150,00 € EUR
-  - [200€](https://damastklingen-shop.de/products/damastklingen-shop-gutschein?variant=53149593469259)
-    Availability: Available
-    Price: 200,00 € EUR
-  - [250€](https://damastklingen-shop.de/products/damastklingen-shop-gutschein?variant=53149593502027)
-    Availability: Available
-    Price: 250,00 € EUR
+  Price: 25,00 € EUR — 250,00 € EUR
 - [Edles Schneidebrett aus Akazienholz – nachhaltig & stilvoll](https://damastklingen-shop.de/products/edles-schneidebrett-aus-massivem-holz): Edles Schneidebrett aus FSC-zertifiziertem Akazienholz. Messerfreundlich, robust & zeitlos im Design – ideal zum Schneiden, Servieren & Anrichten.
   Updated: 2025-12-23T00:11:16Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/schneidebrett_holz_massiv.webp?v=1757501545
   Price: 99,95 € EUR
 - [Damast Klappmesser – 76 Lagen Stahl und edler Griff](https://damastklingen-shop.de/products/damast-taschenmesser-mit-holzgriff-aus-palisander): Handgefertigtes Damast Klappmesser mit 76 Lagen Stahl & Palisandergriff. Extrem scharf, langlebig & perfekt für Outdoor, Alltag & Sammler.
   Updated: 2026-01-08T20:00:26Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Damast_Taschen_Messer.webp?v=1756902925
   Price: 69,95 € EUR
 - [Damast Bunkamesser 5,5 Zoll Ebenholzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-bunka-mit-griff-aus-ebenholz): Edles Bunka Damastmesser aus 67 Lagen Stahl & Ebenholzgriff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Jetzt im Damastklingen-Shop kaufen!
   Updated: 2025-12-24T14:35:11Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastmesserBunkaHolzgriffEbenholz1.webp?v=1757412269
   Price: 79,95 € EUR
 - [Damast Filetiermesser Sashimi 10 Zoll 110-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-sashimimesser-mit-griff-aus-holz): Filetiermesser aus 110-lagigen Damaststahl & Holzgriff. Extrem scharf & ideal für präzises Filetieren von Fisch & Fleisch. Jetzt im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:10:24Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Damast_Sashimimesser_110_Lagen_Stahl.webp?v=1757414026
   Price: 169,95 € EUR
 - [Kiritsuke Damastmesser 8 Zoll mit Epoxyharzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-8-zoll-mit-epoxy-holzgriff): Edles Damast Küchenmesser aus 67-lagigen Damaststahl & Epoxyharz-Griff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:10:09Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/chef_messer_kueche_bestes.webp?v=1757334643
   Price: 109,95 € EUR
 - [Chefmesser Damastmesser 8 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-8-zoll-mit-schwarzem-holzgriff): Edles Chefmesser aus 67-lagigen Damaststahl & Pakkaholz-Griff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:14:18Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastKuechenmesser8ZollmitPakkaHolzgriff.webp?v=1759139731
   Price: 129,95 € EUR
 - [Damast Allzweckmesser Ebenholz 5 Zoll](https://damastklingen-shop.de/products/damast-allzweckmesser-5-zoll-mit-holzgriff): Allzweckmesser aus 67-lagigen Damaststahl & Griff aus Ebenholz sowie Wurzelholz. Scharf, langlebig & vielseitig – ideal für Profiköche & Hobbyköche.
   Updated: 2026-01-08T20:00:25Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastAllzweckmesser5ZollEbenholgriff1.webp?v=1757420960
   Price: 59,95 € EUR
 - [Nakiri Damastmesser Beil 6,5 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-nakiri-beilmesser-6-5-zoll-mit-holzgriff): Nakiri Damastbeil aus 67-lagigen Damaststahl & Ebenholzgriff. Scharf, langlebig & vielseitig – ideal für Profiköche & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:13:48Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastKuechenmesserBeilNakiri6_5ZollHolzgriff1.webp?v=1757421945
   Price: 129,95 € EUR
 - [Santoku Damastmesser 7 Zoll mit Griff aus Ebenholz](https://damastklingen-shop.de/products/damast-kuchenmesser-7-zoll-mit-holzgriff): Santoku Damastmesser aus 67-lagigen Damaststahl & mit Ebenholzgriff. Scharf, langlebig & vielseitig. Ideal für Profis & Hobbyköche !
   Updated: 2025-12-23T00:13:27Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastKuechenmesser7ZollEbenholgriff1.webp?v=1757422486
   Price: 134,95 € EUR
 - [Damastmesser Chefmesser 8 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-8-zoll-mit-holzgriff): Edles Kochmesser aus 67-lagigen Damaststahl & Ebenholzgriff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:08:17Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastKuechenmesser8ZollHolzgriff1.webp?v=1757423201
   Price: 139,95 € EUR
 - [Damast Bunkamesser 5,5 Zoll Sandelholzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-5-5-zoll-mit-griff-aus-sandelholz): Edles Bunka Damastmesser aus 67 Lagen Stahl & Sandelholzgriff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Jetzt im Damastklingen-Shop kaufen
   Updated: 2025-12-28T09:37:16Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastmesserBunkaHolzgriffSandelholz1.webp?v=1757509089
   Price: 74,95 € EUR
 - [Kiritsuke Damastmesser 7,5 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-7-5-zoll-mit-griff-aus-sandelholz): Edles Kiritsuke Damastmesser aus 67 Lagen Stahl & Sandelholzgriff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-28T09:37:20Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastmesserKiritsukeHolzgriffSandelholz1.webp?v=1757936568
   Price: 124,95 € EUR
 - [Allzweckmesser Damastmesser 5 Zoll](https://damastklingen-shop.de/products/damast-kuchenmesser-5-zoll-mit-griff-aus-ebenholz): Allzweckmesser aus 67-lagigen Damaststahl & Ebenholzgriff. Scharf, langlebig & vielseitig – ideal für Profiköche & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:07:16Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastAllzweckmesser5ZollEbenholzgriffkomplett1.webp?v=1757936491
   Price: 64,95 € EUR
 - [Kiritsuke Damastmesser 8 Zoll mit Ebenholzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-kiritsuke-8-zoll-mit-ebenholzgriff): Edles Kiritsuke Damastmesser aus 67 Lagen Stahl & Ebenholzgriff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:06:58Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastmesserKiritsukeEbenholzgriff1.webp?v=1757936318
   Price: 129,95 € EUR
 - [Damast Allzweckmesser Pakkaholz 5 Zoll](https://damastklingen-shop.de/products/damast-allzweckmesser-5-zoll-mit-pakka-holzgriff): Allzweckmesser aus 67-lagigen Damaststahl & Pakkaholzgriff. Scharf, langlebig & vielseitig – ideal für Profiköche & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-24T14:35:26Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastAllzweckmesser5ZollPakkaholgriff1.webp?v=1757682181
   Price: 64,95 € EUR
 - [Nakiri Damastmesser 7 Zoll mit Pakkaholzgriff](https://damastklingen-shop.de/products/damast-nakiri-beilmesser-7-zoll-mit-pakkaholzgriff): Nakiri Damastbeil aus 67-lagigen Damaststahl & Pakkaholzgriff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:06:30Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/DamastKuechenmesserBeilNakiri7ZollPakkaholz1.webp?v=1759398685
   Price: 124,95 € EUR
 - [Santoku Damastmesser 7 Zoll mit Griff aus Pakkaholz](https://damastklingen-shop.de/products/damast-santoku-kuchenmesser-7-zoll-mit-pakkaholzgriff): Santoku Damastmesser aus 67-lagigen Damaststahl & Pakkaholzgriff. Scharf & langlebig. Ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:11:19Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/SantokuDamastmesser7ZollPakkaholgriff1.webp?v=1757683252
   Price: 124,95 € EUR
 - [Santoku Damastmesser 5,5 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damastmesser-santoku-5-5-zoll-mit-olivenholzgriff): Santoku aus 67-lagigen Damaststahl & Olivenholzgriff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:09:52Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/santoku-olivenholz-bueffel-klein.webp?v=1759148323
   Price: 84,95 € EUR
 - [Filetiermesser Damastmesser 6 Zoll aus 73-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-filetiermesser-6-zoll-mit-olivenholzgriff): Edles Filetiermesser aus 73-lagigen Damaststahl & Olivenholzgriff. Extrem scharf & langlebig. Ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2026-01-01T12:11:26Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Olivenholzgriff-Filetiermesser.webp?v=1760013951
   Price: 104,95 € EUR
 - [Santoku Damastmesser 7,3 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-santoku-kuchenmesser-7-3-zoll-mit-olivenholzgriff): Santoku Damastmesser aus 67-lagigen Damaststahl & Olivenholzgriff. Scharf & langlebig. Ideal für Profiköche & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:09:22Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/santoku-olivenholz-bueffel.webp?v=1759831656
   Price: 134,95 € EUR
 - [Nakiri Damastmesser Beil 7 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-nakiri-beilmesser-7-zoll-mit-olivenholzgriff): Nakiri Damastbeil aus 67-lagigen Damaststahl & Olivenholzgriff. Scharf,langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2026-01-08T18:29:29Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Nakiri-Olivenholz-bueffel.webp?v=1759831656
   Price: 129,95 € EUR
 - [Chefmesser Damastmesser 8,5 Zoll aus 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-8-5-zoll-mit-olivenholzgriff): Edles Chefmesser aus 67-lagigen Damaststahl & Olivenholzgriff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:04:37Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Chefmesser-Olivenholzgriff-Bueffel.webp?v=1759831656
   Price: 139,95 € EUR
 - [Damast Filetiermesser 10 Zoll 67-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-filetiermesser-10-zoll-mit-olivenholzgriff): Filetiermesser mit 67-lagigen Damaststahl & Olivenholzgriff. Extrem scharf & ideal für präzises Tranchieren. Jetzt im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:04:18Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Sashimimesser-Olivenholzgriff-bueffel.webp?v=1759226465
   Price: 149,95 € EUR
 - [Allzweckmesser Damastmesser 5 Zoll](https://damastklingen-shop.de/products/damast-allzweckmesser-mit-olivenholzgriff): Allzweckmesser aus 73-lagigen Damaststahl & Olivenholzgriff. Scharf, langlebig & vielseitig – ideal für Profiköche & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:03:42Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Allzweck-Olive-Damast.webp?v=1758887139
   Price: 79,95 € EUR
 - [Santoku Damastmesser 7 Zoll aus 73-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-santoku-kuchenmesser-mit-olivenholzgriff): Santoku Damastmesser aus 73-lagigen Damaststahl & Olivenholzgriff. Scharf & langlebig. Ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:10:31Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Santoku-Olivenholzgriff.jpg?v=1759139334
   Price: 134,95 € EUR
 - [Nakiri Damastmesser 7 Zoll mit Olivenholzgriff](https://damastklingen-shop.de/products/damast-nakiri-beilmesser-mit-olivenholzgriff): Nakiri Damastbeil aus 73-lagigen Damaststahl & Olivenholzgriff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:07:31Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Olivenholzgriff-Beil.webp?v=1759139147
   Price: 132,95 € EUR
 - [Chefmesser Damastmesser 8,5 Zoll aus 73-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-mit-olivenholzgriff): Edles Chefmesser aus 73-lagigen Damaststahl & Olivenholzgriff. Scharf, langlebig & vielseitig – ideal für Profis & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:09:46Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/KuechenmessermitOlivenholzgriff.jpg?v=1759141072
   Price: 142,95 € EUR
 - [Diamant Messerschärfer mit Holzrolle & Magnetführung | Rollschleifer](https://damastklingen-shop.de/products/messerschaerfer-rollschleifer-koernung-400-1000): Messer professionell nachschärfen: Diamant-Messerschärfer mit Holzrolle & Magnetwinkel. Ideal für Küche & Gastronomie. Jetzt im Damstklingen-Shop kaufen
   Updated: 2025-12-23T00:01:46Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Messerschleifer.webp?v=1759315473
   Price: 39,95 € EUR
 - [Magnetischer Messerhalter kaufen | Messerleiste aus Akazienholz](https://damastklingen-shop.de/products/messerhalter-magnetleiste-aus-akazienholz): Edle Messerleiste aus Akazienholz mit starker Magnetkraft. Platz für bis zu 7 Messer – platzsparend & einfach zu montieren. Jetzt im Damastklingen-Shop kaufen !
   Updated: 2025-12-23T00:09:05Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Wandhalterung-magnetisch-Holz.webp?v=1759315397
   Price: 39,95 € EUR
 - [Messerhalter magnetisch | Holzständer für Küchenmesser](https://damastklingen-shop.de/products/magnetischer-messerhalter-mit-standfuss-aus-akazienholz): Stilvoller Messerständer aus Akazienholz mit starker Magnetkraft. Hält deine Messer sicher & griffbereit – die moderne Alternative zum Messerblock.
   Updated: 2025-12-23T00:01:07Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/MagnetischerMesserhaltermitStandfussausAkazienholz2.webp?v=1758883016
   Price: 49,95 € EUR
 - [Damastmesser-Set Nakiri & Santoku mit Olivenholzgriff](https://damastklingen-shop.de/products/damastmesserset-santoku-und-nakiri-mit-olivenholzgriff): Edles 2-teiliges Damastmesser-Set mit 73 Lagen Stahl & Olivenholzgriffen. Santoku & Nakiri.  Rasiermesserscharf, langlebig – ideal für Profis & Hobbyköche
   Updated: 2025-12-23T00:00:52Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Olive-Set.webp?v=1759840562
   Price: 249,95 € EUR
 - [Edles Damastmesser-Set 2-teilig – 67 Lagen & Sandelholzgriffe](https://damastklingen-shop.de/products/damastmesserset-bunka-und-kiritsuke-mit-sandelholzgriff): „Exklusives 2-teiliges Damastmesser-Set mit 67 Lagen Stahl & Sandelholzgriffen. Bunka & Kiritsuke. Rasiermesserscharf, langlebig – für Profis & Hobbyköche.“
   Updated: 2025-12-27T14:53:11Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Sandelholz-Set.webp?v=1759840038
   Price: 185,90 € EUR
 - [Damastmesser-Set 2-teilig I Bunka und Kiritsuke mit Ebenholzgriff](https://damastklingen-shop.de/products/damastmesserset-bunka-und-kiritsuke-mit-ebenholzgriff): Edles zweier Damastmesser-Set mit 67 Lagen Stahl & Ebenholzgriff. Bunka & Kiritsuke. Rasiermesserscharf, langlebig – perfekt für Profis & Hobbyköche
   Updated: 2025-12-23T00:00:19Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Ebenholz-Set.webp?v=1759841997
   Price: 194,95 € EUR
 - [Exklusives Damastmesser-Set – 2-teilig | 67 Lagen & Pakkaholz](https://damastklingen-shop.de/products/damastmesserset-santoku-und-nakiri-mit-pakkaholzgriff): Edles 2-teiliges Damastmesser-Set mit 67 Lagen Stahl & Pakkaholzgriffen. Santoku & Nakiri.  Rasiermesserscharf, langlebig – ideal für Profis & Hobbyköche
   Updated: 2025-12-23T00:00:04Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Pakka-Set.webp?v=1759839199
   Price: 234,95 € EUR
 - [Sehr edles Damastmesser-Set 3-teilig I 67 Lagen Stahl & Olivenholzgriff](https://damastklingen-shop.de/products/damastmesserset-3-teilig-santoku-nakiri-und-chefmesser-mit-olivenholzgriff): 3-teiliges Damastmesser-Set mit 67 Lagen Stahl & Olivenholzgriff. Santoku, Nakiri & Chefmesser. Rasiermesserscharf, langlebig – perfekt für Profis & Hobbyköche
   Updated: 2025-12-22T23:58:01Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Olivenholz-Bueffel-Set.webp?v=1759831656
   Price: 379,95 € EUR
 - [Sehr edles Damastmesser-Set 4-teilig I 67 Lagen Stahl & Ebenholzgriff](https://damastklingen-shop.de/products/damastmesserset-4-teilig-allzweckmesser-nakiri-santoku-und-gyuto-mit-ebenholzgriff): 4-teiliges Damastmesser-Set mit 67 Lagen Stahl & Ebenholzgriff. Allzweckmesser, Nakiri, Santoku & Gyuto. Rasiermesserscharf, – perfekt für Profis & Hobbyköche
   Updated: 2025-12-22T23:57:49Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Ebenholz-komplett-Set.webp?v=1760006996
   Price: 429,95 € EUR
 - [Damastmesser-Set 2-teilig I Bunka und Allzweckmesser mit Ebenholzgriff](https://damastklingen-shop.de/products/damast-allzweckmesser-und-bunka-mit-ebenholzgriff): Edles 2-teiliges Damastmesser-Set mit 67 Lagen Stahl & Ebenholzgriff. Allzweckmesser & Bunka. Rasiermesserscharf, langlebig – perfekt für Profis & Hobbyköche
   Updated: 2025-12-22T23:56:33Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Ebenholz-Allzweck-Bunka.webp?v=1760006597
   Price: 134,95 € EUR
 - [Exklusives Damastmesser-Set 2-teilig mit Pakkaholzgriff](https://damastklingen-shop.de/products/damastmesserset-allzweckmesser-und-chefmesser-mit-pakkaholzgriff): Edles 2-teiliges Damastmesser-Set mit 67 Lagen Stahl & Pakkaholzgriffen. Allzweck- & Chefmesser.  Rasiermesserscharf, langlebig – für Profis & Hobbyköche
   Updated: 2025-12-23T00:03:08Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Pakka-Allzweck-Chef-Set.webp?v=1760007915
   Price: 179,95 € EUR
 - [Sehr edles Damastmesser-Set 2-teilig I 67 Lagen Stahl & Olivenholzgriff](https://damastklingen-shop.de/products/damastmesserset-kleines-und-grosses-santoku-mit-olivenholzgriff): 2-teiliges Damastmesser-Set mit 67 Lagen Stahl & Olivenholzgriff. Großes und kleines Santo. Rasiermesserscharf, langlebig – perfekt für Profis & Hobbyköche
   Updated: 2025-12-23T00:03:52Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Santoku-Olive-Set.webp?v=1760007891
   Price: 199,95 € EUR
 - [Damastmesser-Set Allzweckmesser & Santoku mit Olivenholzgriff](https://damastklingen-shop.de/products/damastmesserset-allzweckmesser-und-santoku-mit-olivenholzgriff): Edles 2-teiliges Damastmesser-Set mit 73 Lagen Stahl & Olivenholzgriffen. Allzweckmesser & Santoku. Rasiermesserscharf – für Profis & Hobbyköche
   Updated: 2025-12-22T23:55:44Z
-  Vendor: Damastklingen-Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0956/2823/0987/files/Olive-Santoku-Allzweck-Set.webp?v=1760007999
   Price: 197,95 € EUR
 
 ## Collections
@@ -327,7 +146,7 @@
   Updated: 2025-12-11T12:52:36Z
   Total Products: 1
 - [Messerpflege & Schleifsteine](https://damastklingen-shop.de/collections/schleifen-co): Messerpflege - Schleifsteine & Leder Abzieher für langlebige, scharfe Klingen. Ideal für Damastmesser oder als praktisches Geschenk für Kochliebhaber
-  Updated: 2025-12-11T13:07:15Z
+  Updated: 2026-01-21T13:03:49Z
   Total Products: 1
 - [Gutscheine](https://damastklingen-shop.de/collections/gutscheine): Gutschein – Damastklingen-Shop | Geschenk für Kochliebhaber
   Updated: 2025-11-25T16:15:48Z
@@ -422,13 +241,13 @@
 ## Policies
 
 - [Privacy Policy](https://damastklingen-shop.de/policies/privacy-policy)
-  Updated: 2026-01-21T03:54:51+01:00
+  Updated: 2026-01-28T04:11:56+01:00
 - [Shipping Policy](https://damastklingen-shop.de/policies/shipping-policy)
   Updated: 2025-10-22T14:48:54+02:00
 - [Refund Policy](https://damastklingen-shop.de/policies/refund-policy)
-  Updated: 2026-01-09T07:13:11+01:00
+  Updated: 2026-01-27T01:09:08+01:00
 - [Terms of Service](https://damastklingen-shop.de/policies/terms-of-service)
-  Updated: 2026-01-15T04:06:42+01:00
+  Updated: 2026-01-27T01:05:37+01:00
 - [Contact Information](https://damastklingen-shop.de/policies/contact-information)
   Updated: 2025-09-10T18:47:38+02:00
 
