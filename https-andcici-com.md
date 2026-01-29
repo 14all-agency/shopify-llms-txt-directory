@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2026-01-21T00:00:41.571Z
+- Updated At: 2026-01-29T00:00:44.991Z
 
 ## Products
 
@@ -1124,7 +1124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_3c30641f-d69c-4ec0-9c5b-aeebd28aefb4.jpg?v=1736223079
   Price: £14.99 GBP
 - [Claude Monet "Spring by the Seine, 1875" Canvas Tote Bag with Zip](https://andcici.com/products/claude-monet-spring-by-the-seine-1875-canvas-tote-bag-with-zip): Claude Monet French Oil Painter "Spring by the Seine, 1875" Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: “Spring by the Seine, 1875” is a captivating painting by Claude Monet, one of the leading figures of the Impressionist movement. Created in 1875, this artwork exemplifies Monet’s fascination with the natural world and his talent for capturing the ephemeral qualities of light and atmosphere. The painting portrays a serene riverside scene along the Seine, a river that inspired many of Monet’s works. In this composition, Monet painted the Seine during springtime, depicting a tranquil landscape bursting with life and color. The river is framed by lush greenery, with trees in full bloom lining the banks. Their delicate, leafy branches seem to sway gently in the breeze, creating a sense of movement and vitality. The soft, pastel tones of the vegetation are beautifully reflected in the calm waters of the Seine, which shimmer under the sunlight. Monet’s brushwork in “Spring by the Seine” is loose and fluid, characteristic of his Impressionist style. His strokes blend together to suggest, rather than define, the details of the scene, allowing the viewer to focus on the overall mood and atmosphere. The light in the painting is particularly striking, with soft, diffused sunlight illuminating the landscape and casting subtle shadows that enhance the depth and texture of the composition. The scene is devoid of human figures, emphasizing the peaceful and undisturbed beauty of nature. Monet’s palette for this painting is dominated by soft greens, blues, and yellows, evoking the freshness and vitality of spring. His use of these colors creates a harmonious balance, drawing the viewer into the serene and idyllic setting. “Spring by the Seine, 1875” reflects Monet’s commitment to plein air painting, where he worked outdoors to directly observe and capture the changing effects of light and weather on the landscape. This approach allowed him to convey the fleeting beauty of a specific moment in time with remarkable sensitivity. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-07-31T18:21:10Z
+  Updated: 2026-01-24T02:09:38Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
@@ -1172,7 +1172,7 @@
   Updated: 2025-12-06T12:18:19Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
-  Updated: 2026-01-17T12:15:43Z
+  Updated: 2026-01-22T12:17:27Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
   Updated: 2026-01-20T12:18:52Z
@@ -1184,7 +1184,7 @@
   Updated: 2025-12-31T12:16:44Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
-  Updated: 2026-01-17T12:15:43Z
+  Updated: 2026-01-22T12:17:27Z
   Total Products: 12
 - [William Morris](https://andcici.com/collections/william-morris): William Morris was a British textile artist, writer, and designer who was a major leader in the Arts and Crafts Movement of the 19th century. He revolutionized the decorative arts with his intricate designs and notable use of color and pattern. His works included stained glass, wallpaper, furniture, and fabric, and his influence can still be seen today in many modern designs. His passion for craftsmanship and commitment to beauty remain an inspiration to artisans and designers everywhere.
   Updated: 2026-01-17T12:15:43Z
@@ -1196,13 +1196,13 @@
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2026-01-20T12:18:52Z
+  Updated: 2026-01-22T12:17:27Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2026-01-20T12:18:52Z
+  Updated: 2026-01-22T12:17:27Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2026-01-17T12:15:43Z
+  Updated: 2026-01-22T12:17:27Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-12-06T12:18:19Z
