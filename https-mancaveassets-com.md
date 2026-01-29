@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2026-01-14T00:00:37.277Z
+- Updated At: 2026-01-29T00:00:41.788Z
 
 ## Products
 
@@ -131,6 +131,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/h6T1EGvQibHO0pP.webp?v=1738657238
   Price: $429.99 USD
+- [MCM Aren Small Checkerboard Leather Bifold Wallet](https://mancaveassets.com/products/mcm-aren-small-checkerboard-leather-bifold-wallet): Style: MCM Aren Small Checkerboard Print Black Multi Visetos Slim Bifold Wallet Material: Pebbled Leather Features: 6 Card Slots, 2 Note Compartments, Vertical Bill Slot Measures: 4.25" L x 3.5" H
+  Updated: 2026-01-20T19:30:27Z
+  Vendor: Man Cave Assets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/2la8LuA5lwBDpqq.webp?v=1738657431
+  Price: $679.99 USD
 - [Burberry Sandon Grained Leather Card Case Wallet](https://mancaveassets.com/products/burberry-sandon-grained-leather-card-case-wallet): Style: Burberry Sandon Leather Card Case Wallet (Black) Material: Leather Features: 4 Card Slots, Center Note Compartment Measures: 4" L x 3" H
   Updated: 2025-08-23T22:16:04Z
   Vendor: Man Cave Assets
@@ -699,7 +706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_931_1741564740746-79435990-9450054-48584406_0.jpg?v=1741564833
   Price: $139.99 USD
 - [Stylish Everyday Canvas Wallet](https://mancaveassets.com/products/stylish-everyday-canvas-wallet): Simplify your daily routine with a wallet that combines style and function effortlessly.
-  Updated: 2025-07-27T05:10:51Z
+  Updated: 2026-01-22T01:26:33Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1684,14 +1691,14 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_295_1744590430778-99205762-30426189-21939117_0.jpg?v=1744590519
   Price: $59.99 USD
 - [Elegant Cigar Keeper](https://mancaveassets.com/products/elegant-cigar-keeper-2): Keep cigars fresh and enhance your space with high-style storage.
-  Updated: 2025-07-27T05:11:11Z
+  Updated: 2026-01-21T00:00:06Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_787_1744784817215-82305490-52881757-34632108_0.jpg?v=1744784919
   Price: $389.99 USD
 - [Smart Cigar Humidor Cabinet](https://mancaveassets.com/products/smart-cigar-humidor-cabinet): Keep cigars fresh with precise humidity and temperature control, enhancing their flavor and aroma.
-  Updated: 2025-07-27T05:11:11Z
+  Updated: 2026-01-21T23:23:10Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -1857,7 +1864,7 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_768_1745198235949-15277669-58012761-46807020_0.jpg?v=1745198336
   Price: $199.99 USD
 - [Comfy Chic Turtleneck Tee](https://mancaveassets.com/products/comfy-chic-turtleneck-tee): Stay cozy and stylish with a breathable, slim-fit turtleneck perfect for layering or solo wear.
-  Updated: 2025-07-27T05:11:16Z
+  Updated: 2026-01-22T11:49:42Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
@@ -3248,14 +3255,14 @@
     Availability: Available
     Price: $699.99 USD
 - [FusionPro X Sound Bliss](https://mancaveassets.com/products/fusionpro-x-sound-bliss): Experience wireless freedom and crystal-clear audio on the go, enhancing your daily routine with seamless connectivity.
-  Updated: 2025-07-27T05:11:26Z
+  Updated: 2026-01-25T13:37:09Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_403_1745795547583-54911865-83686994-89429669_0.jpg?v=1745795655
   Price: $59.99 USD
 - [Heroic Deadpool Mask Adventure](https://mancaveassets.com/products/heroic-deadpool-mask-adventure-1): Unleash Your Inner Hero with Confidence
-  Updated: 2025-07-27T05:11:26Z
+  Updated: 2026-01-25T01:36:45Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
