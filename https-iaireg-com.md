@@ -6,12 +6,12 @@
 - Timezone: Africa/Cairo
 - Created At: 2025-06-22T23:50:08Z
 - Contact Email: hazemswalim@icloud.com
-- Updated At: 2026-01-21T16:56:24.535Z
+- Updated At: 2026-01-29T00:00:29.436Z
 
 ## Products
 
 - [تكييف كاريير 1.5 حصان بارد  فقط](https://iaireg.com/products/carrier-high-wall-optimax-pro-fixed-speed-1-5-horse-power-cooling-only-tropical-a-c): Brand Name Carrier Capacity 1.1 Tons Cooling Power 12000 British Thermal Units Special Features Turbo Function, Follow Me Function, Eco Sleep Function, Smart Air Flow Item Dimensions D x W x H 19.2D x 81.2W x 30H centimeters BEE Star Rating 1 Star Color White Voltage 220 Volts Noise Level 39.1 dB Refrigerant R-410A
-  Updated: 2026-01-16T07:41:10Z
+  Updated: 2026-01-23T13:36:43Z
   Vendor: I AIR 
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£25,500.00 EGP
 - [تكييف ميديا ميشين برو .2.25 بارد فقط](https://iaireg.com/products/midea-mission-msmb1t-18cr-air-conditioner-cooling-only-2-25-horse-power): Brand Name Midea Capacity 1.5 Tons Cooling Power 5480.56 Watts Special Features Fast Cooling Item Dimensions D x W x H 30D x 77W x 50H centimeters BEE Star Rating 1 Star Color white Voltage 220 Noise Level 40.4 dB Refrigerant R410A
-  Updated: 2025-12-19T18:50:18Z
+  Updated: 2026-01-23T13:36:43Z
   Vendor: I AIR 
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_1.jpg?v=1751995803
     Price: E£34,500.00 EGP
 - [تكييف ميديا ميشين برو 1.5 حصان بارد فقط](https://iaireg.com/products/midea-mission-msmb1t-12cr-air-conditioner-cooling-only-1-5-horse-power): Brand Name Midea Capacity 1 Tons Cooling Power 12000 British Thermal Units Special Features Fast Cooling Item Dimensions D x W x H 28D x 90W x 30H centimeters Color White Power Source Corded Electric Form Factor Mini-Split Model Name Upto 150 sq.ft Warranty Type Limited
-  Updated: 2025-12-19T19:00:01Z
+  Updated: 2026-01-23T13:36:43Z
   Vendor: I AIR 
   Product Type: 
   Availability: Available
@@ -63,7 +63,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_1.jpg?v=1751995803
     Price: E£22,080.00 EGP
 - [تكييف ميديا ميشين برو 3 حصان بارد فقط](https://iaireg.com/products/midea-3-horse-power-fixed-speed-cooling-only): Brand Name Midea Capacity 2 Tons Special Features Remote Controlled, sleep_mode Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 27 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:15:28Z
+  Updated: 2026-01-23T13:36:43Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_1.jpg?v=1751995803
     Price: E£43,500.00 EGP
 - [تكييف كاريير اوبتيماكس 2.25حصان بارد فقط](https://iaireg.com/products/carrier-2-25-horse-power-fixed-speed-cooling-only): Brand Name Carrier Capacity 1.5 Tons Special Features Remote Controlled, sleep_mode Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 10 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:12:46Z
+  Updated: 2026-01-23T13:36:43Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£38,900.00 EGP
 - [تكييف كاريير اوبتيماكس 3 حصان بارد فقط](https://iaireg.com/products/carrier-hw-optimax-pro-fixed-speed-3hp-cooling-only-tropical-a-c): Brand Name Carrier Capacity 3 Liters Cooling Power 22900 British Thermal Units Special Features Remote Controlled, Tropical Compressor, Dust Filter, Auto Clean, Fast Cooling Item Dimensions D x W x H 22.5D x 108.2W x 33.8H centimeters BEE Star Rating 1 Star Color White Voltage 240 Volts Noise Level 42.9 dB Refrigerant R-410A
-  Updated: 2025-07-29T10:07:42Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -114,7 +114,7 @@
     Availability: Available
     Price: E£50,700.00 EGP
 - [تكييف كاريير اوبتيماكس 1,5 حصان  بارد ساخن](https://iaireg.com/products/carrier-1-5-horse-power-fixed-speed-cooling-and-heating):  for spaces up to 12 m², and up to 14 m² if not on the top floor. Exceeding recommended space might exclude you from the warranty.
-  Updated: 2025-12-19T19:17:57Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -132,7 +132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£26,985.00 EGP
 - [تكييف كاريير اوبتيماكس 2,25 بارد ساخن](https://iaireg.com/products/carrier-hw-optimax-pro-fixed-speed-2-25hp-cooling-and-heating-tropical-a-c): Brand Name Carrier Capacity 2.25 Liters Cooling Power 17800 British Thermal Units Special Features Remote Controlled, Tropical Compressor, Ionizer, Heating And Cooling Function, Electrostatic Carbon FilterRemote Controlled, Tropical Compressor, Ionizer, Heating And Cooling Function, Electrostatic Carbon Filter Item Dimensions D x W x H 21.8D x 97.3W x 31.9H centimeters BEE Star Rating 1 Star Color White Voltage 240 Volts Noise Level 41.9 dB Refrigerant R-410A
-  Updated: 2025-12-19T19:31:37Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -150,7 +150,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£40,530.00 EGP
 - [تكييف كاريير اوبتيماكس 3 حصان بارد ساخن](https://iaireg.com/products/carrier-hw-optimax-pro-fixed-speed-3hp-cooling-and-heating-tropical-a-c): Brand Name Carrier Cooling Power 22800 British Thermal Units Special Features Remote Controlled, Tropical Compressor, Ionizer, Heating And Cooling Function, Electrostatic Carbon FilterRemote Controlled, Tropical Compressor, Ionizer, Heating And Cooling Function, Electrostatic Carbon Filter Item Dimensions D x W x H 22.5D x 108.2W x 33.8H centimeters BEE Star Rating 1 Star Start Year 2007 Color white Voltage 240 Volts Noise Level 42.9 dB Refrigerant R-410A, GWP: 2088
-  Updated: 2025-12-19T19:29:57Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -167,7 +167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£48,500.00 EGP
 - [تكييف ميديا ميشين برو 3 حصان بارد ساخن](https://iaireg.com/products/midea-3-horse-power-fixed-speed-cooling-and-heating): Brand Name Midea Capacity 2 Tons Special Features Remote Controlled, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 30 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-07-23T13:33:09Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -182,7 +182,7 @@
     Availability: Available
     Price: E£50,700.00 EGP
 - [تكييف ميديا ميشين برو 2,25 بارد ساخن](https://iaireg.com/products/midea-2-25-horse-power-fixed-speed-cooling-and-heating-visit-the-midea-store-egp-36-429-00egp36-429-00): Brand Name Midea Capacity 2.25 Tons Special Features Remote Controlled, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 29 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:03:47Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -199,7 +199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_1.jpg?v=1751995803
     Price: E£37,910.00 EGP
 - [تكييف ميديا ميشين برو 1.5 بارد ساخن](https://iaireg.com/products/midea-1-5-horse-power-cooling-and-heating-plasma-air-conditioner): Brand Name Midea Capacity 1.5 Tons Cooling Power 12000 British Thermal Units Special Features Heating And Cooling Function Item Dimensions D x W x H 20.5D x 80.5W x 28.5H centimeters Color White Power Source Corded Electric Form Factor Mini-Split Model Name MSMB1T 12HRJ Warranty Type Limited
-  Updated: 2025-12-19T18:59:06Z
+  Updated: 2026-01-23T13:36:44Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_1.jpg?v=1751995803
     Price: E£23,975.00 EGP
 - [تكييف ميديا ميشين برو 1.5 حصان  بارد ساخن انفرتر](https://iaireg.com/products/midea-1-5-horse-power-inverter-cooling-and-heating): Brand Name Midea Capacity 1 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 20 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T18:39:38Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -232,7 +232,7 @@
     Availability: Available
     Price: E£29,500.00 EGP
 - [تكييف ميديا ميشين برو 2.25 حصان بارد ساخن انفرتر](https://iaireg.com/products/midea-2-25-horse-power-inverter-cooling-and-heating): Brand Name Midea Capacity 1.5 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 21 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:28:03Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -250,7 +250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/1.jpg?v=1752053539
     Price: E£44,500.00 EGP
 - [تكييف ميديا ميشين برو 3 حصان بارد ساخن انفرتر](https://iaireg.com/products/midea-3-horse-power-inverter-cooling-and-heating): Brand Name Midea Capacity 2 Tons Cooling Power 3 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 22 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric
-  Updated: 2025-12-19T19:19:53Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -268,7 +268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/1.jpg?v=1752053539
     Price: E£49,900.00 EGP
 - [تكييف كاريير اوبتيماكس 1.5 حصان بارد ساخن انفرتر](https://iaireg.com/products/carrier-1-5-horse-power-inverter-cooling-and-heating): Brand Name Carrier Capacity 1 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 4 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:06:21Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -286,7 +286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£34,000.00 EGP
 - [تكييف كاريير اوبتيماكس 2,25حصان بارد ساخن انفرتر](https://iaireg.com/products/carrier-2-25-horse-power-inverter-cooling-and-heating): Brand Name Carrier Capacity 1.5 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 5 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:26:26Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -304,7 +304,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£48,500.00 EGP
 - [تكييف كاريير اوبتيماكس 3 حصان بارد ساخن انفرتر](https://iaireg.com/products/carrier-3-horse-power-inverter-cooling-and-heating): Brand Name Carrier Capacity 2 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 6 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:24:54Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/images_2.jpg?v=1751995661
     Price: E£54,500.00 EGP
 - [تكييف كاريير 4 حصان بارد ساخن](https://iaireg.com/products/carrier-4-horse-power-fixed-speed-cooling-and-heating): Brand Name Carrier Capacity 2.5 Tons Special Features Remote Controlled, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 15 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T19:09:07Z
+  Updated: 2026-01-23T13:36:45Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -340,7 +340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/51IqRY6r8HL.__AC_SY445_SX342_QL70_ML2.jpg?v=1752069480
     Price: E£77,490.00 EGP
 - [تكييف كاريير 5 حصان بارد ساخن انفرتر](https://iaireg.com/products/carrier-5-horse-power-inverter-cooling-and-heating): Brand Name Carrier Capacity 3 Tons Special Features Inverter Compressor, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 8 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric Form Factor Split System
-  Updated: 2025-12-19T18:42:13Z
+  Updated: 2026-01-23T13:36:46Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -358,7 +358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/51IqRY6r8HL.__AC_SY445_SX342_QL70_ML2.jpg?v=1752069480
     Price: E£99,500.00 EGP
 - [كاريير 5 حصان بارد ساخن](https://iaireg.com/products/carrier-5-horse-power-fixed-speed-cooling-and-heating): Brand Name Carrier Capacity 3 Tons Special Features Remote Controlled, Heating & Cooling Function Item Dimensions D x W x H 50D x 40W x 75H centimeters BEE Star Rating 16 Star Color White Voltage 220 Volts Noise Level 32 dB Power Source Corded Electric
-  Updated: 2025-12-19T18:47:48Z
+  Updated: 2026-01-23T13:36:46Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -378,21 +378,21 @@
     Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/51IqRY6r8HL.__AC_SY445_SX342_QL70_ML2.jpg?v=1752069480
     Price: E£99,700.00 EGP
 - [تكييف كاريير فري استاند 5 حصان بارد ساخن](https://iaireg.com/products/carrier-5-power-horse-f): Brand Name Carrier Capacity 5 Liters Cooling Power 33500 British Thermal Units Special Features Remote Controlled, 3D Air Flow, Tropical Compressor, Heating And Cooling Function, Follow me Item Dimensions D x W x H 41D x 182.5W x 54H centimeters BEE Star Rating 1 Star Color White Voltage 240 Volts Noise Level 58.9 dB Refrigerant R-410A
-  Updated: 2025-12-19T19:20:43Z
+  Updated: 2026-01-23T13:36:46Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/2.jpg?v=1752757859
   Price: E£109,000.00 EGP
 - [تكييف كاريير فري استاند 7.5 بارد ساخن](https://iaireg.com/products/carrier-floor-standing-elegant-pro-fixed-speed-7-5hp-cooling-and-heating-tropical-a-c)
-  Updated: 2025-12-19T19:21:43Z
+  Updated: 2026-01-23T13:36:46Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/6016/5350/files/2.jpg?v=1752757859
   Price: E£131,000.00 EGP
 - [كاريير تكييف كونسيلد 5 حصان بارد ساخن](https://iaireg.com/products/carrier-concealed-air-conditioner-classi-cool-pro3-hp-cool-heat-53qdmt12n-718a6): Brand Name Carrier Form Factor Pedestal Indoor Outdoor Usage Outdoor Power Source Corded Electric Heating Method Forced Air Recommended Uses For Product Indoor (e.g., bedrooms, living rooms, offices) and Outdoor (e.g., patios, tents) Mounting Type Floor Mount Room Type Patio Fuel Type Electric
-  Updated: 2025-12-19T19:22:26Z
+  Updated: 2026-01-23T13:36:46Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -402,13 +402,13 @@
 ## Collections
 
 - [Home page](https://iaireg.com/collections/frontpage)
-  Updated: 2026-01-12T12:17:39Z
+  Updated: 2026-01-23T13:36:43Z
   Total Products: 4
 - [Media](https://iaireg.com/collections/carrier)
-  Updated: 2025-12-19T19:27:13Z
+  Updated: 2026-01-23T13:36:43Z
   Total Products: 9
 - [Carrier](https://iaireg.com/collections/carrier-1)
-  Updated: 2026-01-12T12:17:39Z
+  Updated: 2026-01-23T13:36:43Z
   Total Products: 15
 
 ## Store Pages
