@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-01-18T00:00:36.051Z
+- Updated At: 2026-01-30T00:00:40.078Z
 
 ## Products
 
@@ -1004,7 +1004,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-multifonction-7-en-1-maman-bebe.jpg?v=1752449339
   Price: 44,50 € EUR
 - [Chauffe biberon multifonctionnel 9 en 1 - BabyBottleWarmer™](https://bebetouriste.com/products/chauffe-biberon-multifonctionnel-9-en-1-babybottlewarmer): 🍼 Découvrez le chauffe biberon multifonctionnel 9 en 1 ! Chauffez, stérilisez et maintenez au chaud en un seul appareil. Simplifiez vos nuits avec bébé !
-  Updated: 2025-12-20T00:29:13Z
+  Updated: 2026-01-23T02:50:47Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1017,6 +1017,7 @@
     Price: 64,95 € EUR
   - [Blanc / EU](https://bebetouriste.com/products/chauffe-biberon-multifonctionnel-9-en-1-babybottlewarmer?variant=44680246526009)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-multifonctionnel-9-en-1.jpg?v=1752547300
     Price: 64,95 € EUR
 - [Chauffe biberon multifonction 6 en 1 - BabyBottleWarmer™](https://bebetouriste.com/products/chauffe-biberon-multifonction-6-en-1-babybottlewarmer): 🍼 Découvrez le chauffe biberon 6 en 1 ! Réchauffage, stérilisation, conservation - un seul appareil. Simplifiez vos nuits, préservez les nutriments essentiels.
   Updated: 2025-12-20T00:29:13Z
@@ -1055,7 +1056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-nomade-8-en-1-blanc-gris.png?v=1757791091
     Price: 34,50 € EUR
 - [Chauffe Biberon Nomade - HotMilk™ - Pile](https://bebetouriste.com/products/chauffe-biberon-nomade-hotmilk-pile): 🍼 Découvrez notre chauffe biberon nomade : réchauffez le lait parfaitement n'importe où ! Fini le stress des sorties avec bébé. Commandez maintenant !
-  Updated: 2026-01-17T19:09:22Z
+  Updated: 2026-01-28T12:15:56Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2206,7 +2207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/nid-dange-poussette-fleurs-roses.jpg?v=1756850523
     Price: 32,50 € EUR
 - [CHANCELIERE BEBE -  HappyBaby™ - Coupe Vent](https://bebetouriste.com/products/chanceliere-poussette-strollerfootmuff-coupe-vent): 🧸 Protégez bébé du froid et du vent avec notre chancelière poussette ! Créez un cocon douillet lors de chaque promenade. Commandez maintenant !
-  Updated: 2025-11-09T13:49:45Z
+  Updated: 2026-01-23T16:05:38Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2799,7 +2800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-bebe-rose-apprentissage.jpg?v=1758387017
     Price: 35,99 € EUR
 - [Pare-soleil Auto-adhésif Anti-UV | FreshDrive](https://bebetouriste.com/products/pare-soleil-auto-adhesif-anti-uv-freshdrive): 🚗 Protégez votre famille de la chaleur ! Notre pare soleil auto-adhésif bloque 99% des UV. Commandez maintenant pour des trajets plus frais et confortables !
-  Updated: 2025-12-12T08:16:26Z
+  Updated: 2026-01-18T17:47:23Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2807,23 +2808,23 @@
   - [Main dans la main](https://bebetouriste.com/products/pare-soleil-auto-adhesif-anti-uv-freshdrive?variant=44890723057721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pare-soleil-main-dans-la-main.jpg?v=1758403044
-    Price: 26,99 € EUR
+    Price: 27,90 € EUR
   - [Voyage heureux](https://bebetouriste.com/products/pare-soleil-auto-adhesif-anti-uv-freshdrive?variant=44890723090489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pare-soleil-heureux-voyage.jpg?v=1758403116
-    Price: 26,99 € EUR
+    Price: 27,90 € EUR
   - [Petit dinosaure](https://bebetouriste.com/products/pare-soleil-auto-adhesif-anti-uv-freshdrive?variant=44890723123257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pare-soleil-jaune-petit-dinosaure.jpg?v=1758403194
-    Price: 26,99 € EUR
+    Price: 27,90 € EUR
   - [Dinosaures aux ballons](https://bebetouriste.com/products/pare-soleil-auto-adhesif-anti-uv-freshdrive?variant=44890743406649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pare-soleil-bleu-marine-dinosaures-ballons.jpg?v=1758403286
-    Price: 26,99 € EUR
+    Price: 27,90 € EUR
   - [Dinosaures](https://bebetouriste.com/products/pare-soleil-auto-adhesif-anti-uv-freshdrive?variant=44890743439417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pare-soleil-grand-dinosaure.jpg?v=1758403355
-    Price: 26,99 € EUR
+    Price: 27,90 € EUR
 - [Sac à Langer Multifonction | BabyCare™](https://bebetouriste.com/products/sac-a-langer-multifonction-babycare): 👜 Découvrez notre sac à langer multifonction ! Élégant, pratique et spacieux pour tous vos déplacements avec bébé. Commandez dès maintenant !
   Updated: 2025-12-20T00:29:08Z
   Vendor: Bébé Touriste
@@ -2991,8 +2992,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/livre-bebe-tissu-girafe.webp?v=1759197866
     Price: 32,99 € EUR
-- [Livre bebe en tissus | Sensoriel Éveil™](https://bebetouriste.com/products/livre-bebe-en-tissus-sensoriel-eveil): 📚 Explorez notre livre bébé en tissu sensoriel, doux et coloré. Stimulez l'éveil de votre enfant tout en favorisant son développement. Commandez maintenant !
-  Updated: 2025-12-20T00:29:10Z
+- [LIVRE BEBE EN TISSUS| Sensoriel Éveil™](https://bebetouriste.com/products/livre-bebe-en-tissus-sensoriel-eveil): 📚 Explorez notre livre bébé en tissu sensoriel, doux et coloré. Stimulez l'éveil de votre enfant tout en favorisant son développement. Commandez maintenant !
+  Updated: 2026-01-26T04:47:13Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -3132,7 +3133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-3-couleurs-noir-blanc-jaune.webp?v=1759274076
     Price: 89,50 € EUR
 - [Sac de couchage bébé | DodoSérénité™](https://bebetouriste.com/products/sac-de-couchage-bebe-dodoserenite): 🌙 Découvrez notre sac de couchage bébé sécurisant ! Sommeil ininterrompu, température idéale et tranquillité pour toute la famille. Nuits sereines garanties !
-  Updated: 2026-01-14T00:52:10Z
+  Updated: 2026-01-23T15:44:39Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -3147,7 +3148,7 @@
     Price: 48,50 € EUR
   - [Gris A](https://bebetouriste.com/products/sac-de-couchage-bebe-dodoserenite?variant=44918103310393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-de-couchage-bebe-gris-a.webp?v=1759370317
+    Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-de-couchage-bebe-gris-a.webp?v=1769182962
     Price: 48,50 € EUR
   - [Noir A](https://bebetouriste.com/products/sac-de-couchage-bebe-dodoserenite?variant=44918103343161)
     Availability: Available
@@ -4108,7 +4109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/differents-plats.jpg?v=1765081218
   Price: 97,50 € EUR
 - [Lit de Voyage pour Bébé Pliable | CozyTravel™](https://bebetouriste.com/products/lit-de-voyage-pour-bebe-pliable-cozytravel): 🛌 Lit de voyage pour bébé pliable : montage éclair, sommeil serein partout ! Découvrez le cocon anti-pression qui transforme vos voyages en famille.
-  Updated: 2025-12-07T06:06:17Z
+  Updated: 2026-01-23T00:32:42Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4176,7 +4177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/tasse-bleue-temperature.jpg?v=1765084898
     Price: 54,50 € EUR
 - [Livre bébé en tissus | Éveil Coloré™](https://bebetouriste.com/products/livre-bebe-en-tissus-eveil-colore): 📚 Découvrez nos livres bébé en tissus colorés, doux et stimulants pour l'éveil de votre enfant. Jouet éducatif lavable et sans danger. Commandez maintenant !
-  Updated: 2025-12-20T00:29:12Z
+  Updated: 2026-01-23T03:53:41Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4539,12 +4540,12 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/miroir-voiture-bb.jpg?v=1765505268
     Price: 25,90 € EUR
 - [Oreiller de voyage | Ergonomique™](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique): 💤 Dormez confortablement en voyage avec notre oreiller ergonomique ! Découvrez l'allié parfait pour vos déplacements et dites adieu aux douleurs cervicales.
-  Updated: 2025-12-14T01:25:04Z
-  Vendor: Bébé Touriste
+  Updated: 2026-01-23T15:34:03Z
+  Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oreiller-de-voyage.jpg?v=1765508922
-  - [Bleu](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863226425)
+  - [Dinosaure bleu](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863226425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bleu.png?v=1765510447
     Price: 36,90 € EUR
@@ -4552,19 +4553,19 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oreiller-de-voyage-rose.png?v=1765510368
     Price: 36,90 € EUR
-  - [Vert](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863291961)
+  - [Vert avocat](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863291961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/vert.png?v=1765510476
     Price: 36,90 € EUR
-  - [Jaune](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863324729)
+  - [Dinosaure jaune](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863324729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oreiller-de-voyage-jaune.png?v=1765510386
     Price: 36,90 € EUR
-  - [Blanc](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863357497)
+  - [Blanc avec animaux](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247863357497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oreiller-de-voyage-blanc.png?v=1765510406
     Price: 36,90 € EUR
-  - [Rouge](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247866110009)
+  - [Dinosaure rouge](https://bebetouriste.com/products/oreiller-de-voyage-ergonomique?variant=45247866110009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oreiller-de-voyage-rouge.png?v=1765510429
     Price: 36,90 € EUR
@@ -5866,11 +5867,11 @@
 ## Collections
 
 - [ALL - Tout pour votre bébé](https://bebetouriste.com/collections/all): 👶🧳 Découvrez notre collection complète d'accessoires de voyage pour votre bébé ! Produits de qualité pour le confort et le bien-être quotidien de votre enfant! 🎁
-  Updated: 2026-01-17T23:15:51Z
-  Total Products: 249
+  Updated: 2026-01-29T12:14:10Z
+  Total Products: 263
 - [NOS MEILLEURES VENTES](https://bebetouriste.com/collections/nos-meilleures-ventes): 👶 Découvrez nos meilleures ventes pour bébé ! Accessoires pratiques et essentiels pour simplifier votre quotidien de parent et voyager sereinement.
-  Updated: 2026-01-16T22:21:20Z
-  Total Products: 82
+  Updated: 2026-01-25T16:41:41Z
+  Total Products: 87
 - [SAC A LANGER](https://bebetouriste.com/collections/sac-a-langer-babybag): 👜🧸 Notre gamme de sacs à langer: pratiques et élégants, pour répondre aux besoins des parents modernes. Trouvez le modèle parfait pour vos sorties avec bébé !
   Updated: 2026-01-13T18:09:46Z
   Total Products: 22
@@ -5893,29 +5894,29 @@
   Updated: 2026-01-04T01:39:39Z
   Total Products: 24
 - [ACTIVITÉS](https://bebetouriste.com/collections/activites): 📚📚📚🧳👶Offrez à votre enfant des activités enrichissantes, agréables et utiles, pendant vos voyages ou à la maison! Venez les découvrir!
-  Updated: 2026-01-01T21:20:26Z
-  Total Products: 20
+  Updated: 2026-01-25T16:47:09Z
+  Total Products: 25
 - [SAC À DOS À LANGER](https://bebetouriste.com/collections/sac-a-dos-a-langer): 🎒SAC À DOS À LANGER : L'allié idéal pour les parents actifs. Avec style et fonctionnalité, ils offrent une grande capacité de rangement et un confort optimal.
-  Updated: 2025-12-27T14:08:54Z
-  Total Products: 21
+  Updated: 2026-01-25T04:05:45Z
+  Total Products: 22
 - [CHAUFFE BIBERON](https://bebetouriste.com/collections/chauffe-biberon): 🍼 Découvrez nos chauffe biberons premium et simplifiez les repas de bébé ! Chauffage rapide, multifonctions et pratique. Commandez maintenant !
-  Updated: 2026-01-06T01:13:58Z
-  Total Products: 14
+  Updated: 2026-01-29T12:14:10Z
+  Total Products: 15
 - [ECHARPE DE PORTAGE](https://bebetouriste.com/collections/echarpe-de-portage): 👶 Découvrez nos écharpes de portage confortables et libérez vos mains ! Créez un lien unique avec bébé tout en restant actif. Commandez dès maintenant !
-  Updated: 2026-01-07T01:37:07Z
+  Updated: 2026-01-21T04:05:51Z
   Total Products: 17
 - [HALLOWEEN DES BÉBÉS](https://bebetouriste.com/collections/halloween-des-bebes): Transformez votre petit adorable avec notre collection Halloween : gigoteuses, barboteuses et pyjamas confortables pour des festivités réussies et chaleureuses.
   Updated: 2025-11-01T02:30:20Z
   Total Products: 10
 - [TOUT POUR VOITURE](https://bebetouriste.com/collections/tout-pour-voiture)
-  Updated: 2026-01-06T20:20:39Z
-  Total Products: 14
+  Updated: 2026-01-19T02:42:27Z
+  Total Products: 18
 - [BARBOTEUSE](https://bebetouriste.com/collections/barboteuse)
-  Updated: 2026-01-13T02:02:44Z
-  Total Products: 10
+  Updated: 2026-01-25T00:12:18Z
+  Total Products: 12
 - [BONNETS, CHAPEAUX, CASQUETTES](https://bebetouriste.com/collections/bonnets-chapeaux-casquettes)
-  Updated: 2026-01-17T23:15:51Z
-  Total Products: 10
+  Updated: 2026-01-18T02:29:07Z
+  Total Products: 11
 - [GIGOTEUSE](https://bebetouriste.com/collections/gigoteuse)
   Updated: 2026-01-13T02:03:11Z
   Total Products: 1
@@ -5982,7 +5983,7 @@
 - [Conditions Générales d'Utilisation](https://bebetouriste.com/pages/conditions-generales-dutilisation): Notre politique de protection de vos données personnelles permet d'instaurer une relation de confiance entre vous et nos services, afin de vous off...
   Updated: 2024-11-02T00:12:42Z
 - [Vos choix en matière de confidentialité](https://bebetouriste.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
-  Updated: 2025-07-05T20:32:14Z
+  Updated: 2026-01-28T15:46:29Z
 - [Blog](https://bebetouriste.com/pages/blog): Le Blog Ultime pour les Parents Voyageurs Vous êtes un parent qui aime voyager avec votre bébé ? Vous êtes au bon endroit ! Notre blog regorge d'as...
   Updated: 2025-09-02T04:08:53Z
 - [GDPR](https://bebetouriste.com/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
