@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-28T13:22:36Z
 - Contact Email: eywebinfo@gmail.com
-- Updated At: 2026-01-23T00:00:28.547Z
+- Updated At: 2026-01-30T00:00:33.402Z
 
 ## Products
 
@@ -354,7 +354,7 @@
 - [Contact](https://test-2-dev-storre.myshopify.com/pages/contact)
   Updated: 2025-09-28T13:22:39Z
 - [Your Privacy Choices](https://test-2-dev-storre.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-28T13:22:47Z
+  Updated: 2026-01-28T16:08:40Z
 
 ## Policies
 
