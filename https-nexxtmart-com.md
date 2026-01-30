@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-01-23T00:00:35.380Z
+- Updated At: 2026-01-30T00:00:37.589Z
 
 ## Products
 
@@ -388,11 +388,11 @@
     Availability: Available
     Price: $122.99 USD
 - [Dry Catfish, Smoked and Tasty – Tasty African Flavor | Nexxtmart](https://nexxtmart.com/products/dry-catfish-smoked): Buy Tasty Smoked Dry Catfish – rich, smoky, and full of african flavor. Perfect for soups, stews, and traditional dishes. Shop premium dry catfish now at Nexxtmart!
-  Updated: 2025-11-04T19:09:33Z
+  Updated: 2026-01-25T01:28:20Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/smoked-catfish.png?v=1758922748
+  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/bucket-of-dried-catfish-4lb.png?v=1759335907
   - [1 Pack (1LB)](https://nexxtmart.com/products/dry-catfish-smoked?variant=45824716832820)
     Availability: Available
     Price: $39.99 USD
@@ -465,14 +465,14 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/curry-powder-lion.png?v=1758922779
   Price: $2.99 USD
 - [Yam Tubers – Fresh African Yams from Ghana. Shop from Nexxtmart](https://nexxtmart.com/products/yam-tubers): Buy fresh Ghana Yam Tubers from Nexxtmart! African yams perfect for boiling, frying, or pounded yam. Enjoy real taste, rich texture, and fast delivery across the USA.
-  Updated: 2025-10-28T06:33:16Z
+  Updated: 2026-01-25T01:29:26Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/ghana_yam_carton.png?v=1758922784
   - [1 Box 50LB (Between 10-12 Tubers)](https://nexxtmart.com/products/yam-tubers?variant=45837616218164)
     Availability: Available
-    Price: $150.00 USD
+    Price: $120.00 USD
   - [6 Tubers (Between 17-20LB)](https://nexxtmart.com/products/yam-tubers?variant=45837616250932)
     Availability: Available
     Price: $90.00 USD
@@ -670,11 +670,11 @@
     Availability: Available
     Price: $39.99 USD
 - [Beans Flour – African Clean Bean Powder for moi moi and akara](https://nexxtmart.com/products/beans-flour): Buy Beans Flour – 100% natural, clean, and ready-to-use bean powder for Akara, Moi Moi & more. Quality, sand-free & shell-free. Shop Beans Flour at Nexxtmart today!
-  Updated: 2025-10-05T05:30:58Z
+  Updated: 2026-01-25T13:52:57Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Beans_Flour.png?v=1758922853
+  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/nexxtmart_Beans_flour.png?v=1769304898
   - [1.8LB](https://nexxtmart.com/products/beans-flour?variant=45827971055668)
     Availability: Available
     Price: $12.99 USD
@@ -1772,7 +1772,7 @@
 - [Contact Us | Get in Touch with Nexxtmart Customer Support](https://nexxtmart.com/pages/contact): 
   Updated: 2025-02-10T15:36:36Z
 - [Your Privacy Choices](https://nexxtmart.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-01T00:22:54Z
+  Updated: 2026-01-28T16:07:35Z
 - [About NexxtMart: Authentic Nigerian Food & Grocery Delivery in the USA](https://nexxtmart.com/pages/about-us): 
   Updated: 2025-01-17T03:11:20Z
 - [FAQ | Answers to Common Questions About Nexxtmart](https://nexxtmart.com/pages/faq): 
