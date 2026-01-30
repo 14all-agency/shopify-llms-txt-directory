@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-01-13T11:56:16Z
 - Contact Email: hello@idun-life.com
-- Updated At: 2026-01-22T00:00:41.611Z
+- Updated At: 2026-01-30T00:00:42.030Z
 
 ## Products
 
 - [IdunLife Liposomal Resveratrol - Liquid High Absorption - 250ml](https://idun-life.com/products/liposomal-resveratrol-250ml): Idun Life Liposomal Resveratrol 250 ml is a premium liquid antioxidant supplement designed for high absorption. It delivers trans-resveratrol extracted from Japanese Knotweed root, supported by an advanced liposomal delivery system to improve bioavailability compared with standard capsules or powders. This supplement is ideal for people looking for cardiovascular support, healthy aging benefits, and powerful antioxidant protection. Each 250 ml bottle provides a convenient daily dose; take 5 ml once or twice per day and shake well before use. The formula includes purified water, glycerol, phospholipids, trans-resveratrol, apple acid, and rosemary extract, with no unnecessary additives. Made in Germany under strict quality standards, this liquid format allows for better uptake than dried supplements. Tested for PAH and Emodin to ensure safe levels.
-  Updated: 2026-01-21T12:05:07Z
+  Updated: 2026-01-29T09:24:47Z
   Vendor: IDUN
   Product Type: 
   Availability: Available
@@ -21,13 +21,13 @@
 ## Collections
 
 - [Home page](https://idun-life.com/collections/frontpage)
-  Updated: 2026-01-21T12:22:31Z
+  Updated: 2026-01-29T12:22:38Z
   Total Products: 1
 - [Longevity Supplements](https://idun-life.com/collections/longevity-supplements)
-  Updated: 2026-01-21T12:22:31Z
+  Updated: 2026-01-29T12:22:38Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://idun-life.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-21T12:22:31Z
+  Updated: 2026-01-29T12:22:38Z
   Total Products: 1
 
 ## Blogs
@@ -63,7 +63,7 @@
 - [Collabs](https://idun-life.com/pages/collab)
   Updated: 2025-07-24T08:36:43Z
 - [Your Privacy Choices](https://idun-life.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-25T15:26:54Z
+  Updated: 2026-01-28T15:42:35Z
 
 ## Policies
 
