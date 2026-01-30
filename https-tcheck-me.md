@@ -15,7 +15,7 @@ The company operates with full transparency, in-house manufacturing quality cont
 - Created At: 2022-12-16T22:27:14Z
 - Contact Email: support@tcheck.me
 - Address: 9081 Foothills Blvd, Suite 150, Roseville, California 95747, USA
-- Updated At: 2026-01-23T00:00:31.895Z
+- Updated At: 2026-01-30T00:00:34.286Z
 
 ## Mission & Core Value Proposition
 
@@ -90,11 +90,11 @@ We believe that understanding what you consume is essential to mindful dosing an
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/all-devices_aca800e1-8e8d-43ba-88e3-06410fc9335b.png?v=1718035906
   Price: $0.00 USD
 - [Replacement Tray for Accurate THC or CBD Testing | tCheck](https://tcheck.me/products/replacement-tray): Looking to replace your original tCheck tray? This genuine replacement tray ensures continued accurate readings, intended as a replacement, not an extra tray.
-  Updated: 2025-10-17T05:17:36Z
+  Updated: 2026-01-26T16:06:17Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/tCheck2-reusable-tray.webp?v=1732549593
+  Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/tCheck2-reusable-tray.webp?v=1769443577
   Price: $75.00 USD
 - [Syringe and Filter Refill Set for Potency Testing | tCheck](https://tcheck.me/products/syringe-and-filters-refill-set): Syringe and Filter Refill Set for Potency Testing ensures smooth and accurate  testing with your tCheck device using clean fresh components every time.
   Updated: 2025-08-11T19:30:08Z
@@ -146,7 +146,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Filters.jpg?v=1721053858
   Price: $29.99 USD
 - [tCheck device (Warranty Replacement) - Special Price](https://tcheck.me/products/tcheck-device-warranty-replacement-special-price): Warranty replacement for tCheck devices with a special price - when out of warranty - offering a chance to get a new device at a special price
-  Updated: 2025-12-18T17:44:44Z
+  Updated: 2026-01-26T16:03:01Z
   Vendor: tCheck
   Product Type: Other
   Availability: Available
@@ -241,7 +241,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/V5-TCHECK3_7e8ba578-f92b-49ff-9a8c-745822f920f8.png?v=1718035877
     Price: $420.00 USD
 - [tCheck 3 Device for Home Potency Testing of Infusions | tCheck](https://tcheck.me/products/thc-and-cbd-potency-test-device3): tCheck 3 Device for Home Potency Testing of Infusions lets you quickly measure THC and CBD levels in  infused oils butter or tinctures with accuracy.
-  Updated: 2026-01-09T21:03:27Z
+  Updated: 2026-01-26T21:39:49Z
   Vendor: tCheck
   Product Type: Device Only
   Availability: Available
@@ -259,7 +259,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Availability: Available
     Price: $329.99 USD
 - [tCheck 3 Device with Flower Testing Expansion Kit | tCheck](https://tcheck.me/products/thc-and-cbd-potency-test-device3-and-kit): tCheck 3 Device with Flower Testing Expansion Kit lets you measure THC or CBD potency in infusions, concentrates, and raw flower quickly and accurately at home.
-  Updated: 2025-08-11T05:15:04Z
+  Updated: 2026-01-26T21:39:45Z
   Vendor: tCheck
   Product Type: Device + Kit
   Availability: Available
@@ -281,7 +281,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Green-Expansion-Kit-5_6846d78b-7617-40e2-bf29-85eee6c13c4f.jpg?v=1721662253
     Price: $420.00 USD
 - [tCheck 3 Upgrade Kit for Advanced Potency Testing | tCheck](https://tcheck.me/products/tcheck-3-upgrade): tCheck 3 Upgrade improves the accuracy and consistency of  potency testing at home, making it easier to measure THC or CBD levels in oils and infusions.
-  Updated: 2026-01-21T20:52:14Z
+  Updated: 2026-01-29T08:35:16Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
@@ -345,7 +345,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2022-12-28T21:40:48Z
   Total Products: 0
 - [Accessories for tCheck for Accurate Potency Testing | tCheck](https://tcheck.me/collections/accessories): Accessories for tCheck support accurate potency testing by enhancing device performance and usability, making your  testing process simple & effective.
-  Updated: 2026-01-22T12:06:30Z
+  Updated: 2026-01-29T12:06:22Z
   Total Products: 10
 - [Warranty products tCheck THC Potency Tester](https://tcheck.me/collections/warranty-products): Warranty products for tCheck THC Potency Tester and Accessories.
   Updated: 2026-01-20T12:06:13Z
@@ -354,13 +354,13 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2025-07-21T06:29:05Z
   Total Products: 0
 - [Recalibration](https://tcheck.me/collections/recalibration)
-  Updated: 2026-01-16T12:06:35Z
+  Updated: 2026-01-24T12:06:52Z
   Total Products: 3
 - [Wholesale products](https://tcheck.me/collections/wholesale-products)
   Updated: 2026-01-09T12:07:01Z
   Total Products: 6
 - [Amazon products of tCheck THC Potency Tester](https://tcheck.me/collections/amazon-products): SKU's only on Amazon for tCheck THC Potency Tester
-  Updated: 2026-01-17T12:06:25Z
+  Updated: 2026-01-29T12:06:22Z
   Total Products: 8
 - [Collaboration with other great THC Products](https://tcheck.me/collections/collaboration): Check out bundled products from our partners with the tCheck THC & CBD potency tester.
   Updated: 2024-08-09T22:41:54Z
@@ -372,7 +372,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2025-06-24T07:41:56Z
   Total Products: 0
 - [Tax Exempt (Amazon)](https://tcheck.me/collections/tax-exempt-amazon): Exempt for purposes of calculating sales taxes due only because Amazon already calculates and charges sales tax.
-  Updated: 2026-01-17T12:06:25Z
+  Updated: 2026-01-29T12:06:22Z
   Total Products: 8
 - [Tax Exempt (Wholesale)](https://tcheck.me/collections/tax-exempt-wholesale): Tax exempt products because items are being sold wholesale and are not subject to sales tax.
   Updated: 2026-01-09T12:07:01Z
@@ -381,7 +381,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2024-08-09T22:41:54Z
   Total Products: 0
 - [Advanced Potency Testing Devices & Testing Kits | tCheck](https://tcheck.me/collections/potency-tester-1): tCheck Potency Testers help measure the strength of infused oils, tinctures, and more at home. Designed for accuracy, consistency, and easy-to-read results.
-  Updated: 2026-01-22T12:06:30Z
+  Updated: 2026-01-29T12:06:22Z
   Total Products: 5
 
 ## Blogs
@@ -420,7 +420,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author:  Carl
     Tags: about tCheck, app, calculator, ,  tester, results
   - [How and Why to Decarb  for Better Results | tCheck](https://tcheck.me/blogs/-tips/decarbing-defined-the-what-why-and-how-of-decarboxylation): How and Why to Decarb  for Better Results | tCheck
-    Updated: 2025-07-23T06:19:15Z
+    Updated: 2026-01-29T06:08:10Z
     Author: THC Taylor
     Tags: Cannabinoids, ,  cooking,  education, cbd, cooking, decarb, decarboxylation, thc
   - [What You Can Easily Test with tCheck Potency Device | tCheck](https://tcheck.me/blogs/-tips/what-you-can-test-with-tcheck): What You Can Easily Test with tCheck Potency Device | tCheck
@@ -468,7 +468,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  cooking,  edibles, cannabutter, measuring , measuring cannabutter
   - [11 Ways to Use Leftover  Pulp Without Waste | tCheck](https://tcheck.me/blogs/-tips/11-ways-to-use-leftover--pulp): 11 Ways to Use Leftover  Pulp Without Waste | tCheck
-    Updated: 2025-07-30T09:21:15Z
+    Updated: 2026-01-29T06:02:36Z
     Author: THC Taylor
     Tags: ,  edibles, cooking, diy, pulp
   - [How to Store Your  Infusions Like a Pro | tCheck](https://tcheck.me/blogs/-tips/how-to-store--infusion): How to Store Your  Infusions Like a Pro | tCheck
@@ -476,7 +476,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author:  Carl
     Tags: ,  infused, infused, infusion
   - [How Do  Terpenes Work? A Comprehensive Guide](https://tcheck.me/blogs/-tips/how-do--terpenes-work): How Do  Terpenes Work? A Comprehensive Guide
-    Updated: 2025-12-29T16:30:40Z
+    Updated: 2026-01-29T07:27:33Z
     Author: THC Taylor
     Tags: ,  education, terpenes
   - [Complete Guide to CBD Distillate and Its Benefits | tCheck](https://tcheck.me/blogs/-tips/cbd-distillate-a-complete-guide): Complete Guide to CBD Distillate and Its Benefits | tCheck
@@ -512,7 +512,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  education, cbd, Food, thc
   - [Keep Your tCheck Accurate with Proper Device Care | tCheck](https://tcheck.me/blogs/-tips/device-care): Keep Your tCheck Accurate with Proper Device Care | tCheck
-    Updated: 2025-07-23T05:50:05Z
+    Updated: 2026-01-29T07:18:17Z
     Author:  Carl
     Tags: about tCheck, , FAQ, Help, Support, troubleshooting
   - [Understanding Flower-to-Oil Ratio for Your  | tCheck](https://tcheck.me/blogs/-tips/understanding-flower-to-oil-ratios-for-your--infusions): Understanding Flower-to-Oil Ratio for Your  | tCheck
@@ -520,7 +520,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: Cannabinoids, ,  infused, infusion, oil infusion
   - [ Dosing Guide in Milligrams for New Users | tCheck](https://tcheck.me/blogs/-tips/dosage-tips-for-new--users):  Dosing Guide in Milligrams for New Users | tCheck
-    Updated: 2025-12-29T16:32:20Z
+    Updated: 2026-01-29T06:05:45Z
     Author: THC Taylor
     Tags: ,  education, dosing, dosing tips, edibles, , microdose, tinctures
   - [Best  Buds to Enjoy While Binge-Watching TV | tCheck](https://tcheck.me/blogs/-tips/tv-binge-worthy--buds): Best  Buds to Enjoy While Binge-Watching TV | tCheck
@@ -552,7 +552,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: , health, health and wellness, health benefits, hemp, wellness
   - [Herb-Infused  Stuffing Recipe for Rich Meal | tCheck](https://tcheck.me/blogs/-tips/herb-infused-herby-stuffing-recipe): Herb-Infused  Stuffing Recipe for Rich Meal | tCheck
-    Updated: 2026-01-08T12:11:08Z
+    Updated: 2026-01-29T06:04:20Z
     Author: THC Taylor
     Tags: ,  consumption,  cooking, cooking, Food, recipe
   - [Gift Ideas for  Enthusiasts and  Users | tCheck](https://tcheck.me/blogs/-tips/18-gift-ideas-for--enthusiasts): Gift Ideas for  Enthusiasts and  Users | tCheck
@@ -568,7 +568,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  cooking,  drinks, holidays, New Years eve, recipe
   - [How to Make Edibles with Common Extracts](https://tcheck.me/blogs/-tips/how-to-make-edibles-common-extracts): How to Make Edibles with Common Extracts
-    Updated: 2025-07-30T12:38:01Z
+    Updated: 2026-01-29T07:00:13Z
     Author: THC Taylor
     Tags: ,  consumption, diy, Food, recipe, wellness
   - [5 Smoke Free Ways to Enjoy  Without Smoking | tCheck](https://tcheck.me/blogs/-tips/5-smoke-free-ways-to-enjoy-): 5 Smoke Free Ways to Enjoy  Without Smoking | tCheck
@@ -624,7 +624,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: exercise, fitness, health and wellness, post workout recovery, working out
   - [What to Expect Before Trying  in First Session | tCheck](https://tcheck.me/blogs/-tips/getting-started-with--what-to-expect-before-your-first-session): What to Expect Before Trying  in First Session | tCheck
-    Updated: 2025-07-24T11:26:15Z
+    Updated: 2026-01-29T06:56:56Z
     Author: THC Taylor
     Tags: , first time smoker, health and wellness, trying  for the first time
   - [-Infused Pink Sauce Recipe by Stoney Mac | tCheck](https://tcheck.me/blogs/-tips/-infused-pink-sauce-recipe-by-stoney-macaroni): -Infused Pink Sauce Recipe by Stoney Mac | tCheck
@@ -640,11 +640,11 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags:  community,  education, facts and myths, Flower
   - [Your Guide to Getting a Legit   Card | tCheck](https://tcheck.me/blogs/-tips/-in-your--cabinet-how-to-obtain-a-legit-mmj-card): Your Guide to Getting a Legit   Card | tCheck
-    Updated: 2025-07-24T11:31:42Z
+    Updated: 2026-01-29T06:53:54Z
     Author: THC Taylor
     Tags:  card,  dispensary,  shopping, health, health and wellness, health benefits
   - [ Infused Cornbread Recipe by Stoney Macaroni | tCheck](https://tcheck.me/blogs/-tips/-infused-cornbread-recipe-by-stoney-macaroni):  Infused Cornbread Recipe by Stoney Macaroni | tCheck
-    Updated: 2025-07-23T06:13:24Z
+    Updated: 2026-01-29T06:55:00Z
     Author: THC Taylor
     Tags: , cannabutter, cornbread, Food, recipe
   - [What the Endocannabinoid System Does During Workout | tCheck](https://tcheck.me/blogs/-tips/what-does-the-endocannabinoid-system-have-to-do-with-exercise): What the Endocannabinoid System Does During Workout | tCheck
@@ -660,7 +660,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags:  edibles, edibles, Food, gummies, storing gummies,  gummies
   - [5 DIY  Edible Recipes for Beginners | Cannabutter](https://tcheck.me/blogs/-tips/5-diy-edible-recipes-for-beginners): 5 DIY  Edible Recipes for Beginners | Cannabutter
-    Updated: 2025-07-31T06:01:04Z
+    Updated: 2026-01-29T06:51:58Z
     Author:  Carl
     Tags: , Food, recipe
   - [Q&A Interview With Monica Lo of SousWeed on Cooking | tCheck](https://tcheck.me/blogs/-tips/q-a-interview-monica-lo-for-sousweed): Q&A Interview With Monica Lo of SousWeed on Cooking | tCheck
@@ -672,7 +672,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  christmas, Food, recipe
   - [How Does Body Process THC for Better Understanding | tCheck](https://tcheck.me/blogs/-tips/how-does-my-body-process-thc): How Does Body Process THC for Better Understanding | tCheck
-    Updated: 2025-07-23T06:15:35Z
+    Updated: 2026-01-29T06:50:02Z
     Author: THC Taylor
     Tags: ,  consumption,  education, health, thc
   - [Guide to -Assisted Psychotherapy for Health | tCheck](https://tcheck.me/blogs/-tips/-assisted-psychotherapy): Guide to -Assisted Psychotherapy for Health | tCheck
@@ -744,7 +744,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  tester, potency tester
   - [5 Refreshing -Infused Alcohol-Free Mocktails](https://tcheck.me/blogs/-tips/5-refreshing--infused-mocktail-recipes-for-a-cool-summer): 5 Refreshing -Infused Alcohol-Free Mocktails
-    Updated: 2025-07-31T06:42:37Z
+    Updated: 2026-01-29T06:38:34Z
     Author: THC Taylor
     Tags: ,  drinks, Food, recipe
   - [Tips for Identifying & Preventing Mold on Your Herb | tCheck](https://tcheck.me/blogs/-tips/mold-on--9-tips): Tips for Identifying & Preventing Mold on Your Herb | tCheck
@@ -776,7 +776,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags:  education, cannabiz, endocannabinoids, health, health and wellness, wellness
   - [ Testing Equipment for THC and CBD Potency | tCheck](https://tcheck.me/blogs/-tips/-testing-equipment):  Testing Equipment for THC and CBD Potency | tCheck
-    Updated: 2025-07-21T07:58:17Z
+    Updated: 2026-01-29T06:34:59Z
     Author: THC Taylor
     Tags: ,  tester, potency tester, tcheck potency tester
   - [Beginner's Guide to  Cultivation Essentials | tCheck](https://tcheck.me/blogs/-tips/beginners-guide--cultivation-tips-tricks): Beginner's Guide to  Cultivation Essentials | tCheck
@@ -824,7 +824,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  consumption,  education, terpenes
   - [How  Helps You Get Creative with Science | tCheck](https://tcheck.me/blogs/-tips/-artistic-creativity): How  Helps You Get Creative with Science | tCheck
-    Updated: 2025-07-25T12:04:04Z
+    Updated: 2026-01-29T06:28:31Z
     Author: THC Taylor
     Tags: ,  education,  users
   - [The 3 Myths of Decarboxylation Exposed with Facts | tCheck](https://tcheck.me/blogs/-tips/decarboxylation-myths): The 3 Myths of Decarboxylation Exposed with Facts | tCheck
@@ -844,7 +844,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: about tCheck, Support
   - [How Long  Stays in Your System Explained | tCheck](https://tcheck.me/blogs/-tips/how-long-does--stay-in-my-system): How Long  Stays in Your System Explained | tCheck
-    Updated: 2025-07-28T11:59:04Z
+    Updated: 2026-01-29T06:25:40Z
     Author: THC Taylor
     Tags: ,  consumption,  education, dosing tips
   - [Indica and Sativa Differences in  Effects | tCheck](https://tcheck.me/blogs/-tips/indica-vs-sativa-understanding-the-difference-in--strains): Indica and Sativa Differences in  Effects | tCheck
@@ -887,22 +887,22 @@ We believe that understanding what you consume is essential to mindful dosing an
     Updated: 2025-10-27T17:56:09Z
     Author: THC Taylor
   - [Sip Bright: A Citrus THC-Infused Mocktail for Your Holiday Gatherings](https://tcheck.me/blogs/-tips/infused-thc-mocktail)
-    Updated: 2025-12-24T20:28:35Z
+    Updated: 2026-01-29T05:53:51Z
     Author: THC Taylor
   - [Merry Cherry Gummies — A Festive -Infused Treat](https://tcheck.me/blogs/-tips/merry-cherry-gummies--infused-treat): <p><meta charset="utf-8">Add a little holiday magic to your celebrations with Merry Cherry Gummies. This post shows you how to make tart, juicy cherry gummies infused with  oil — and how to use a potency tester so each bite is consistent and safe. Perfect for gifting, relaxing by the fire, or sharing at your next festive get-together.</p>
     Updated: 2025-12-24T20:18:46Z
     Author: THC Taylor
   - [Cozy  Infused Chai Nog](https://tcheck.me/blogs/-tips/-infused-chai-nog)
-    Updated: 2025-12-24T20:30:22Z
+    Updated: 2026-01-29T06:22:01Z
     Author: THC Taylor
   - [Citrus Sleigh Ride Gummies — A Zesty, Booze-Free Holiday Treat](https://tcheck.me/blogs/-tips/gummies-booze-free-holiday-treat)
-    Updated: 2025-12-24T20:29:12Z
+    Updated: 2026-01-29T06:14:54Z
     Author: THC Taylor
   - [Peppermint Bliss Holiday Cannabrownies](https://tcheck.me/blogs/-tips/peppermint-bliss-holiday-cannabrownies)
-    Updated: 2025-12-24T20:27:40Z
+    Updated: 2026-01-29T06:13:08Z
     Author: THC Taylor
   - [Chill n' Cheer  Infused Sugar Cookies](https://tcheck.me/blogs/-tips/-infused-sugar-cookies): <p><meta charset="utf-8">Soft, melt-in-your-mouth sugar cookies with a calm, cozy twist — that’s the magic of “Chill n’ Cheer.” Using properly infused oil or butter (tested for potency), you can bake sweet treats that deliver a gentle lift — no cocktails required. With straightforward ingredients and easy instructions, these festive cookies are perfect for decorating, sharing at holiday gatherings, or nibbling straight from the tray.</p>
-    Updated: 2025-12-24T20:19:57Z
+    Updated: 2026-01-29T06:11:56Z
     Author: THC Taylor
   - [The Ultimate Beginner’s Guide: Holiday Drink](https://tcheck.me/blogs/-tips/ultimate-beginners-guide-holiday-drink)
     Updated: 2025-12-24T20:29:59Z
@@ -923,13 +923,13 @@ We believe that understanding what you consume is essential to mindful dosing an
     Updated: 2025-07-23T12:41:36Z
     Author: THC Taylor
     Tags: ,  education, cbd, dosing tips
-- [Troubleshooting & FAQs for Potency Testing Devices | tCheck](https://tcheck.me/blogs/support): Explore detailed support resources for resolving issues, understanding results, and maximizing the performance of your tCheck  potency testing device.
+- [Troubleshooting & FAQs for THC Potency Testing Devices | tCheck](https://tcheck.me/blogs/support): Explore detailed support resources for resolving issues, understanding results, and maximizing the performance of your tCheck  potency testing device.
   - [How to Change the Unit of Measurement in Seconds | tCheck](https://tcheck.me/blogs/support/how-to-change-the-unit-of-measurement): How to Change the Unit of Measurement in Seconds | tCheck
     Updated: 2025-07-25T12:07:38Z
     Author: Peichen Chang
     Tags: Support
   - [Troubleshooting the 1% Error Message Step-by-Step | tCheck](https://tcheck.me/blogs/support/error-message-1): Troubleshooting the 1% Error Message Step-by-Step | tCheck
-    Updated: 2025-12-24T20:48:15Z
+    Updated: 2026-01-26T23:26:56Z
     Author: Peichen Chang
     Tags: Support
   - [Coconut Oil or MCT Oil in  Potency Testing | tCheck](https://tcheck.me/blogs/support/coconut-oil-mct-coconut-oil): Coconut Oil or MCT Oil in  Potency Testing | tCheck
@@ -953,7 +953,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [Can tCheck Accurately Measure Delta-8 Infusions | tCheck](https://tcheck.me/blogs/support/can-tcheck-measure-delta-8-infusions): Can tCheck Accurately Measure Delta-8 Infusions | tCheck
-    Updated: 2025-07-25T12:15:04Z
+    Updated: 2026-01-26T21:57:18Z
     Author: Peichen Chang
     Tags: Support
   - [How to Clean the tCheck Tray for Best Test Results | tCheck](https://tcheck.me/blogs/support/how-to-clean-your-tray): How to Clean the tCheck Tray for Best Test Results | tCheck
@@ -965,7 +965,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [DIY Cloudy Tray Repair Tips for Clearer Results | tCheck](https://tcheck.me/blogs/support/diy-cloudy-tray-repair): DIY Cloudy Tray Repair Tips for Clearer Results | tCheck
-    Updated: 2026-01-08T12:07:10Z
+    Updated: 2026-01-26T23:17:32Z
     Author: Peichen Chang
     Tags: Support
   - [Fix Device Connection Issues Quickly and Easily | tCheck](https://tcheck.me/blogs/support/im-having-trouble-connecting-to-the-device): Fix Device Connection Issues Quickly and Easily | tCheck
@@ -1017,7 +1017,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [How Accurate is tCheck for  Potency Results | tCheck](https://tcheck.me/blogs/support/how-accurate-is-tcheck-1): How Accurate is tCheck for  Potency Results | tCheck
-    Updated: 2025-07-28T11:38:39Z
+    Updated: 2026-01-26T21:59:45Z
     Author: Peichen Chang
     Tags: Support
   - [How to Decarb  for Maximum Potency Results | tCheck](https://tcheck.me/blogs/support/how-to-decarb-instructions-complex): How to Decarb  for Maximum Potency Results | tCheck
@@ -1049,11 +1049,11 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [FAQ General Common Questions Answered for Customers | tCheck](https://tcheck.me/blogs/support/faq-general-common-questions): FAQ General Common Questions Answered for Customers | tCheck
-    Updated: 2025-07-28T11:50:09Z
+    Updated: 2026-01-26T23:36:09Z
     Author: Peichen Chang
     Tags: Support
   - [FAQ-Shipping & Delivery Information for Customers | tCheck](https://tcheck.me/blogs/support/faq-shipping-delivery): FAQ-Shipping & Delivery Information for Customers | tCheck
-    Updated: 2025-07-25T05:00:53Z
+    Updated: 2026-01-26T21:58:58Z
     Author: Peichen Chang
     Tags: Support
   - [Transparent Pricing for Potency Testing Solutions | tCheck](https://tcheck.me/blogs/support/pricing): Transparent Pricing for Potency Testing Solutions | tCheck
@@ -1141,7 +1141,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [How Our Return & Refund Policy Works for Customers | tCheck](https://tcheck.me/blogs/support/what-is-your-return-for-refund-policy): How Our Return & Refund Policy Works for Customers | tCheck
-    Updated: 2025-07-29T07:19:02Z
+    Updated: 2026-01-26T21:58:25Z
     Author: Peichen Chang
     Tags: Support
   - [Privacy Policy for How We Handle Your Information | tCheck](https://tcheck.me/blogs/support/privacy-policy): Privacy Policy for How We Handle Your Information | tCheck
@@ -1149,7 +1149,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [tCheck Mobile App User Manual for Accurate Testing | tCheck](https://tcheck.me/blogs/support/tcheck-mobile-app-user-manual): tCheck Mobile App User Manual for Accurate Testing | tCheck
-    Updated: 2025-07-29T07:19:52Z
+    Updated: 2026-01-26T23:22:27Z
     Author: Peichen Chang
     Tags: Support
   - [How to Use the Potency Calculator Tool Effectively | tCheck](https://tcheck.me/blogs/support/how-to-use-the-calculator): How to Use the Potency Calculator Tool Effectively | tCheck
@@ -1161,7 +1161,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [Learn What the tCheck Device Can Measure Accurately | tCheck](https://tcheck.me/blogs/support/what-does-it-test): Learn What the tCheck Device Can Measure Accurately | tCheck
-    Updated: 2025-07-29T07:23:58Z
+    Updated: 2026-01-26T21:59:26Z
     Author: Peichen Chang
     Tags: Support
   - [Reagent Solid After Shipment Troubleshooting Guide | tCheck](https://tcheck.me/blogs/support/reagent-solid-after-shipment): Reagent Solid After Shipment Troubleshooting Guide | tCheck
@@ -1177,7 +1177,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [Understanding Your Device Warranty Policy and Terms | tCheck](https://tcheck.me/blogs/support/device-warranty-policy): Understanding Your Device Warranty Policy and Terms | tCheck
-    Updated: 2025-12-17T23:13:24Z
+    Updated: 2026-01-26T23:12:55Z
     Author: Peichen Chang
     Tags: Support
   - [How To Get Replacement tCheck Device in Easy Steps | tCheck](https://tcheck.me/blogs/support/how-to-get-a-replacement-tcheck-device): How To Get Replacement tCheck Device in Easy Steps | tCheck
@@ -1201,7 +1201,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [Testing Gummies Effectively with Your Device Guide | tCheck](https://tcheck.me/blogs/support/testing-gummies): Testing Gummies Effectively with Your Device Guide | tCheck
-    Updated: 2025-07-29T07:39:32Z
+    Updated: 2026-01-26T21:56:54Z
     Author: Peichen Chang
     Tags: Support
   - [How to Clean Your tCheck Device for Best Accuracy | tCheck](https://tcheck.me/blogs/support/how-to-clean-your-tcheck): How to Clean Your tCheck Device for Best Accuracy | tCheck
@@ -1225,7 +1225,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [How To Get a Replacement Tray in Just a Few Steps | tCheck](https://tcheck.me/blogs/support/how-to-get-a-replacement-tray-1): How To Get a Replacement Tray in Just a Few Steps | tCheck
-    Updated: 2025-11-24T17:55:13Z
+    Updated: 2026-01-26T23:15:03Z
     Author: Peichen Chang
     Tags: Support
   - [Types of  Products that tCheck Can Test Now | tCheck](https://tcheck.me/blogs/support/types-of--products-that-tcheck-can-test): Types of  Products that tCheck Can Test Now | tCheck
@@ -1265,7 +1265,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: Peichen Chang
     Tags: Support
   - [How to Test RSO or FECO Using Your Device Correctly | tCheck](https://tcheck.me/blogs/support/do-you-test-rso-or-feco): How to Test RSO or FECO Using Your Device Correctly | tCheck
-    Updated: 2025-09-05T18:29:25Z
+    Updated: 2026-01-26T21:57:43Z
     Author: Peichen Chang
     Tags: Support
   - [How to Dilute Infused Oil Sample Over 15mg per mL | tCheck](https://tcheck.me/blogs/support/how-to-dilute-an-infused-oil-sample-15mg-ml-or-over-result): How to Dilute Infused Oil Sample Over 15mg per mL | tCheck
@@ -1286,7 +1286,7 @@ We believe that understanding what you consume is essential to mindful dosing an
 - [Get Started with tCheck THC Potency Tester at Home | tCheck](https://tcheck.me/pages/go): Find everything needed to get up and going with your tCheck potency tester below.
   Updated: 2025-07-21T12:58:17Z
 - [Compare THC & CBD Potency Tester Products That Work | tCheck](https://tcheck.me/pages/compare-thc-cbd-potency-tester-products): 
-  Updated: 2025-07-22T11:38:17Z
+  Updated: 2026-01-26T23:04:13Z
 - [LEVO II Infusion Machine Compatible with tCheck | tCheck](https://tcheck.me/pages/levo-tcheck-collaboration): 
   Updated: 2025-07-21T10:28:47Z
 - [Test Flower or Isolate Infusions Easily with tCheck | tCheck](https://tcheck.me/pages/how-to-test-a-flower-or-isolate-based-infusion): Follow our step by step tutorial for testing flower based or isolate based infusions with your tCheck  potency tester.
