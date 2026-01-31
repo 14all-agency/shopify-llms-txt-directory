@@ -6,271 +6,271 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2025-05-09T14:15:49Z
 - Contact Email: sac@masterplants.com.br
-- Updated At: 2026-01-23T00:00:34.952Z
+- Updated At: 2026-01-31T00:00:37.776Z
 
 ## Products
 
 - [Quantum Board 35W PRO-MID GOLDEN SERIES Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/led-35w-quantum-board-pro-mid): Quantum Board 35W PRO-MID GOLDEN SERIES Master Plants. Chips Samsung LM283B+ e Deep Red para cultivo indoor eficiente, durável e de ótimo custo-benefício! 🌱
-  Updated: 2026-01-22T21:57:11Z
+  Updated: 2026-01-30T16:12:06Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/Capa.png?v=1753300104
   Price: R$ 151,91 BRL
 - [Quantum Board 65W PRO-MID GOLDEN SERIES Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/led-65w-qb-quantum-board-pro-mid): Quantum Board 65W PRO-MID GOLDEN SERIES Master Plants. Chips Samsung LM283B+ e Deep Red para cultivo indoor com alta eficiência e ótimo custo-benefício! 🌱
-  Updated: 2026-01-22T17:07:21Z
+  Updated: 2026-01-30T04:21:41Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/Imagens_1000x1000_3.png?v=1753300115
   Price: R$ 252,07 BRL
 - [Quantum Barra 120W PRO-MID GOLDEN SERIE Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-120w-quantum-pro-mid): Quantum Barra 120W PRO-MID GOLDEN SERIES Master Plants. Iluminação avançada com chips Samsung LM283B+ para cultivo indoor de alta performance! 🌱
-  Updated: 2026-01-22T17:07:21Z
+  Updated: 2026-01-30T14:33:11Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/Imagens_1000x1000_5.png?v=1753300126
   Price: R$ 699,00 BRL
 - [Quantum Barra 240W LED Samsung LM283B+ Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-quantum-bar-promid-240): Quantum Barra 240W PRO-MID com chips Samsung LM283B+ e Deep Red 660nm. Alta eficiência, PPF 648 µmol/s e espectro completo para cultivo indoor avançado! 🌱
-  Updated: 2026-01-22T18:52:16Z
+  Updated: 2026-01-28T21:57:17Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_1a363919-2d33-4035-9ed0-5be43f013431.png?v=1759513468
   Price: R$ 979,00 BRL
 - [Quantum Barra 720W LED Samsung LM283B+ Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/painel-quantum-bar-pro-mid-720w): Quantum Barra 720W PRO-MID com chips Samsung LM283B+ e Deep Red. Espectro completo, alto PPF e máxima eficiência no cultivo indoor! 🌱
-  Updated: 2026-01-22T12:47:20Z
+  Updated: 2026-01-30T17:24:11Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_aa2c22c7-fafd-4e07-bcb7-91e86c827183.png?v=1753300160
   Price: R$ 2.499,00 BRL
 - [Quantum Barra 240W PRO-MASTER Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/led-quantum-bar-240w-pro-master): Quantum Barra 240W PRO-MASTER Master Plants. Chips de alta eficiência, espectro completo e 2,9 µmol/J para máximo desempenho no cultivo indoor! 🌱
-  Updated: 2026-01-22T19:46:56Z
+  Updated: 2026-01-30T23:32:19Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_f964a759-b8ea-4ab3-b903-a4f3611c1428.png?v=1756736432
   Price: R$ 1.099,00 BRL
 - [Estufa Grow 40x40x120cm Cultivo Indoor Mylar 600D | Master Plants](https://masterplantsloja.com.br/products/estufa-40x40x120cm-cultivo-indoor): Estufa Master Plants 40x40x120cm com Mylar 600D e estrutura reforçada. Cultive indoor com praticidade, segurança e máxima eficiência! 🌱
-  Updated: 2026-01-22T01:33:12Z
+  Updated: 2026-01-30T22:07:16Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_7497ca4b-4baf-4d10-94a2-bcb4e3b0a6e0.png?v=1753300182
-  Price: R$ 268,04 BRL
+  Price: R$ 279,00 BRL
 - [Estufa Grow 60x60x160cm Cultivo Indoor Mylar 600D | Master Plants](https://masterplantsloja.com.br/products/estufa-60x60x160cm-cultivo-indoor): Estufa Master Plants 60x60x160cm com Mylar 600D e estrutura reforçada. Cultive indoor com praticidade, segurança e eficiência garantida! 🌱
-  Updated: 2026-01-22T22:33:11Z
+  Updated: 2026-01-30T20:53:06Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_ece68c5e-4630-4bfd-959f-afc04dee1882.png?v=1753300193
   Price: R$ 419,90 BRL
 - [Estufa Grow 80x80x180cm Cultivo Indoor Mylar 600D | Master Plants](https://masterplantsloja.com.br/products/estufa-80x80x180cm-cultivo-indoor): Estufa Master Plants 80x80x180cm com Mylar 600D e estrutura reforçada. Cultive indoor com segurança, praticidade e máxima eficiência! 🌱
-  Updated: 2026-01-22T23:57:06Z
+  Updated: 2026-01-30T19:47:13Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_e2710bae-6685-4b4d-a3ba-aca4051ad73f.png?v=1753300204
   Price: R$ 472,63 BRL
 - [Estufa Grow 100x100x200cm Cultivo Indoor Mylar 600D | Master Plants](https://masterplantsloja.com.br/products/estufa-100x100x200-cultivo-indoor): Estufa Master Plants 100x100x200cm com Mylar 600D e estrutura reforçada. Cultive indoor com praticidade, segurança e máxima eficiência! 🌱
-  Updated: 2026-01-22T18:29:11Z
+  Updated: 2026-01-30T16:31:17Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_57b3de3b-2e16-418b-a121-77be77dfe346.png?v=1753300215
   Price: R$ 648,90 BRL
 - [Estufa Grow 120x120x200cm Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/estufa-120x120x200-cultivo-indoor): Estufa Grow 120x120x200cm Master Plants: resistente, segura e discreta. O ambiente perfeito para cultivo indoor com qualidade e eficiência! 🌱
-  Updated: 2026-01-22T02:27:56Z
+  Updated: 2026-01-30T21:32:01Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_6e141382-5df6-4b6e-9d6c-be0889273a12.png?v=1753300225
   Price: R$ 769,00 BRL
 - [Estufa Grow 150x150x200cm Cultivo Indoor Mylar 600D | Master Plants](https://masterplantsloja.com.br/products/estufa-150x150x200-cultivo-indoor): Estufa Master Plants 150x150x200cm com Mylar 600D e estrutura reforçada. Cultive indoor com segurança, praticidade e máxima eficiência! 🌱
-  Updated: 2026-01-21T17:52:27Z
+  Updated: 2026-01-28T04:41:07Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_5f7189fa-19c3-4c25-a11d-0005196abfa9.png?v=1756736461
   Price: R$ 899,00 BRL
 - [Estufa Grow 240x120x200cm Cultivo Indoor Mylar 600D | Master Plants](https://masterplantsloja.com.br/products/estufa-240x120x200-cultivo-indoor): Estufa Master Plants 240x120x200cm com Mylar 600D e estrutura reforçada. Cultive indoor com praticidade, segurança e máxima eficiência! 🌱
-  Updated: 2026-01-22T18:13:16Z
+  Updated: 2026-01-30T21:07:16Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_fb50510d-6476-4d72-86f7-4557194ddc89.png?v=1756736472
   Price: R$ 998,90 BRL
 - [Estufa Grow 240x240x200cm Cultivo Indoor Grande Escala | Master Plants](https://masterplantsloja.com.br/products/estufa-240x240x200-cultivo-indoor): Estufa Grow 240x240x200cm Master Plants: espaço amplo, Mylar 600D e estrutura metálica reforçada. Ideal para cultivos indoor de larga escala! 🌱
-  Updated: 2026-01-20T15:51:16Z
+  Updated: 2026-01-27T22:52:49Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_f55cb49f-3cda-40bd-80fa-32e3f2188383.png?v=1756736484
   Price: R$ 1.587,85 BRL
 - [Estufa Grow 300x150x200 Cultivo Indoor Mylar 600D PRO | Master Plants](https://masterplantsloja.com.br/products/estufa-300x150x200-cultivo-indoor): Estufa Grow 300x150x200cm Master Plants: espaço grandioso, Mylar 600D PRO, estrutura reforçada e alta durabilidade para cultivo indoor em larga escala! 🌱
-  Updated: 2026-01-14T20:19:04Z
+  Updated: 2026-01-28T20:08:10Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_8f2218cc-be29-4bb4-a214-99ed3f197f55.png?v=1756736505
   Price: R$ 1.488,22 BRL
 - [Estufa Grow 300x300x200cm Cultivo Indoor Profissional | Master Plants](https://masterplantsloja.com.br/products/estufa-300x300x200-cultivo-indoor): Estufa Grow 300x300x200cm Master Plants: gigante, resistente e ideal para cultivo indoor em larga escala. Mais espaço, qualidade e segurança no seu grow! 🌱
-  Updated: 2026-01-20T02:03:17Z
+  Updated: 2026-01-27T22:52:28Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_28d305bf-839d-445e-94cc-547179b763f2.png?v=1756736516
   Price: R$ 1.434,98 BRL
 - [Estufa 120x40x200cm Clonagem Propagação Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/estufa-propagacao-120x40x200cm): Estufa Grow 120x40x200cm Master Plants: ideal para clonagem e propagação de mudas. Mylar 600D, estrutura reforçada e máxima eficiência no cultivo indoor. 🌱
-  Updated: 2026-01-19T18:14:28Z
+  Updated: 2026-01-27T23:06:50Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_b0e162c5-c441-4efe-ab92-9f4990f1a02a.png?v=1756736560
   Price: R$ 1.289,90 BRL
 - [Painel Led 65W Quantum Board PRO Chip Samsung LM301H EVO|Master Plants](https://masterplantsloja.com.br/products/led-qb-pro-65w-chips-lm301h-evo): 💡 Quantum Board PRO 65W (LM301H EVO): alta eficiência, baixo calor e PPFD uniforme. 🌿 Ideal para cultivo indoor do vegetativo à floração!
-  Updated: 2026-01-22T22:33:10Z
+  Updated: 2026-01-30T18:05:31Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_3e969412-0b7c-45b0-ab0f-ecd7640f8320.png?v=1756736675
   Price: R$ 569,90 BRL
 - [Quantum Barra 120W UV+IR LM301H Samsung Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-quantum-bar-pro-120w): Quantum Barra 120W PRO UV+IR Master Plants: chips Samsung LM301H, Deep Red, Blue, UV e IR. Espectro completo, alta eficiência e máximo desempenho no cultivo! 🌱
-  Updated: 2026-01-21T13:21:11Z
+  Updated: 2026-01-27T22:33:41Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_fd8aaadf-1572-4826-9299-92ef4ee732e6.png?v=1756736699
   Price: R$ 1.499,00 BRL
 - [Quantum Bar 240W PRO UV+IR LED Cultivo Indoor Samsung | Master Plants](https://masterplantsloja.com.br/products/painel-led-quantum-bar-pro-240w): Quantum 240W PRO BAR UV+IR com chips Samsung LM301H EVO. LED premium com espectro completo, Deep Red, UV e IR para máximo rendimento no cultivo indoor! 🌱
-  Updated: 2026-01-22T19:52:20Z
+  Updated: 2026-01-30T16:27:12Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_c203a029-59bd-4452-a26e-4560312e919c.png?v=1756736719
   Price: R$ 2.460,50 BRL
 - [Quantum Barra 480W PRO Chips LM301H EVO Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-480w-quantum-bar-pro): Quantum Barra 480W PRO com chips Samsung LM301H EVO, Deep Red e Blue. LED premium, 3.1 µmol/J e PPF 1392 µmol/s para cultivo indoor de alto nível! 🌱
-  Updated: 2026-01-21T11:27:48Z
+  Updated: 2026-01-29T12:15:27Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_a7175bd3-f0bc-446f-bf7f-b34f6ccefabc.png?v=1756736729
   Price: R$ 4.179,05 BRL
 - [Quantum Bar 650W PRO Cultivo Indoor Samsung LM301H EVO | Master Plants](https://masterplantsloja.com.br/products/painel-led-quantum-bar-pro-650w): Quantum Barra 650W PRO Master Plants. Chips Samsung LM301H EVO, Deep Red e Deep Blue para cultivo indoor com potência, espectro completo e eficiência! 🌱
-  Updated: 2026-01-22T18:16:16Z
+  Updated: 2026-01-28T20:51:14Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_a203d1b7-882e-412b-ac60-01a7567e796a.png?v=1756736739
   Price: R$ 5.130,00 BRL
 - [Kit Cultivo Indoor Completo: Estufa 40x40 + Quantum Board 35W PRO-MID](https://masterplantsloja.com.br/products/kit-cultivo-tenda-40x40-led-35w): Kit Completo Master Plants: Estufa 40x40x120cm + Quantum Board 35W PRO-MID. Cultive indoor com qualidade, eficiência e ótimo custo-benefício! 🌱
-  Updated: 2026-01-22T21:57:16Z
+  Updated: 2026-01-30T16:12:32Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT40x40_35WPRO-MID.png?v=1756736749
   Price: R$ 419,95 BRL
 - [Kit Cultivo Indoor Completo Estufa 60x60 + Quantum Board 65W PRO](https://masterplantsloja.com.br/products/kit-tenda-60x60-quantum-board-65w): Kit Completo Master Plants: Estufa 60x60x160cm + Quantum Board 65W PRO. Cultive indoor com qualidade, praticidade e alto desempenho! 🌱
-  Updated: 2026-01-22T22:29:56Z
+  Updated: 2026-01-30T18:05:36Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT60x60_LED65WPRO.png?v=1756736763
   Price: R$ 1.098,34 BRL
 - [Kit Cultivo Indoor Estufa 60x60 + Quantum Board 65W PRO-MID](https://masterplantsloja.com.br/products/kit-estufa-60x60-led-65w-pro-mid): Kit Completo Master Plants: Estufa 60x60x160cm + Quantum Board 65W PRO-MID GOLDEN SERIES. Cultive indoor com qualidade, praticidade e eficiência! 🌱
-  Updated: 2026-01-22T17:07:46Z
+  Updated: 2026-01-30T04:27:15Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT60x60_65WPRO-MID.png?v=1756736780
   Price: R$ 726,12 BRL
 - [Kit Completo Tenda 80x80 + Quantum Barra Qb 120w PRO UV+IR LM301H EVO](https://masterplantsloja.com.br/products/kit-tenda-80x80-qb-120w-lm301h-ev): 🌱 Kit 80×80×180 + Quantum Barra QB 120W PRO UV+IR (LM301H EVO). 💡 Espectro completo, baixo calor e montagem simples para cultivo indoor eficiente.
-  Updated: 2026-01-21T13:21:22Z
+  Updated: 2026-01-27T22:33:15Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT80x80_120WPRO.png?v=1756736794
   Price: R$ 2.241,81 BRL
 - [Kit Cultivo Indoor Estufa 80x80x180cm + Quantum Barra 120W PRO-MID](https://masterplantsloja.com.br/products/kit-cultivo-estufa-80x80-led-120w): Kit Completo Master Plants: Estufa 80x80x180cm + Quantum Barra 120W PRO-MID GOLDEN SERIES. Cultive indoor com tecnologia avançada e máxima eficiência! 🌱
-  Updated: 2026-01-22T17:08:27Z
+  Updated: 2026-01-30T14:33:31Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT80x80_120WPRO-MID.png?v=1756736803
   Price: R$ 1.200,14 BRL
 - [Kit Cultivo Tenda 100x100x200 + Quantum Bar 240W PRO UV+IR LM301H EVO](https://masterplantsloja.com.br/products/kit-tenda-1x1-led-240w-lm301h-evo): 🌱 Kit 100×100×200 + Quantum Barra 240W PRO UV+IR (LM301H EVO). 💡 Espectro completo, PPFD uniforme e baixo calor para cultivo indoor eficiente!
-  Updated: 2026-01-22T19:57:20Z
+  Updated: 2026-01-30T16:24:26Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT100x100_LED240WPROUV_IR.png?v=1756736827
   Price: R$ 3.389,90 BRL
 - [Kit Cultivo Indoor 100x100 + Quantum Barra 240W PRO-MID](https://masterplantsloja.com.br/products/kit-tenda-100x100-quantu-bar-240w): Kit Cultivo Indoor Completo: Estufa Tenda Grow 100x100x200cm + Quantum Barra 240W PRO-MID. Espaço amplo, alta performance e máximo rendimento!
-  Updated: 2026-01-22T18:33:15Z
+  Updated: 2026-01-30T16:31:22Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT100x100_LED240WPRO-MID.png?v=1756736837
   Price: R$ 1.627,90 BRL
 - [Kit Cultivo Indoor Estufa 120x120 + Quantum Barra 480W PRO LM301H EVO](https://masterplantsloja.com.br/products/kit-estufa-120x120-led-480w-pro): Kit completo com Estufa 120x120x200cm e Quantum Barra 480W PRO LM301H EVO. Cultivo indoor potente, eficiente e de alto rendimento! 🌱
-  Updated: 2026-01-19T12:32:16Z
+  Updated: 2026-01-29T12:22:13Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT120x120_LED480WPRO.png?v=1756736850
   Price: R$ 5.224,05 BRL
 - [Kit Cultivo Indoor 150x150 + Quantum Barra 650W PRO | Master Plants](https://masterplantsloja.com.br/products/kit-tenda-150x150x200-qb-650w-pro): Kit Completo Master Plants: Tenda 150x150x200cm + Quantum Barra 650W PRO. Cultive indoor com potência, espectro completo e máxima eficiência! 🌱
-  Updated: 2026-01-22T18:16:23Z
+  Updated: 2026-01-28T20:51:19Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT150x150_LED650WPRO.png?v=1756736897
   Price: R$ 6.121,76 BRL
 - [Kit Completo: Tenda 150x150x200cm + Quantum Barra 720W | Master Plants](https://masterplantsloja.com.br/products/kit-cultiv-tenda-150x150-led-720w): Kit Completo Master Plants: Estufa 150x150x200cm + Quantum Barra 720W PRO-MID. Cultive indoor em grande escala com potência, eficiência e alto desempenho! 🌱
-  Updated: 2026-01-21T17:19:23Z
+  Updated: 2026-01-28T04:47:16Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_21b7fffc-6388-4a03-bb7d-659cfee71958.png?v=1756736908
-  Price: R$ 3.398,00 BRL
+  Price: R$ 4.368,96 BRL
 - [LED 33W 220V Standard Pivô Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-standard-pivo-220v-33w): Painel de LED 33W Standard Pivô: alta emissão de fótons, eficiência e custo-benefício para cultivos indoor, outdoor e pivô de irrigação. 🌱
-  Updated: 2026-01-22T18:52:16Z
+  Updated: 2026-01-27T23:05:33Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_86e2a7d2-5655-480c-b201-0ff8774c451c.png?v=1756736920
   Price: R$ 74,84 BRL
 - [Painel de Led Master Plants Standard Pivô R&B 220V 112W | Master Plants](https://masterplantsloja.com.br/products/painel-led-standard-piv-220v-112w): 💡 Standard Pivô R&B 112W (220V) Master Plants: manejo de fotoperíodo com baixo consumo. 🌿 Luz vermelha/azul para cobertura ampla e operação estável.
-  Updated: 2026-01-15T19:32:21Z
+  Updated: 2026-01-27T22:29:26Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_2959083a-b896-4aac-8128-085cedf3153d.png?v=1756736942
   Price: R$ 180,41 BRL
 - [LED 175W Bivolt Standard Pivô Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-standar-pivo-220v-175w): Painel LED 175W Standard Pivô Master Plants: alta eficiência fotônica, ideal para cultivo indoor e outdoor com ótimo custo-benefício e durabilidade! 🌱
-  Updated: 2026-01-14T20:18:57Z
+  Updated: 2026-01-27T22:12:54Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_ff719be9-d4c9-4928-b01e-90ba25d321c3.png?v=1756736952
   Price: R$ 269,85 BRL
 - [LED 112W Bivolt Standard Pivô Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/painel-standard-pivo-white-112w): LED 112W Standard Pivô Master Plants: iluminação potente e econômica, ideal para cultivo indoor, outdoor, lavouras e pivôs de irrigação com alto desempenho.
-  Updated: 2026-01-22T12:57:10Z
+  Updated: 2026-01-27T22:50:09Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_78276791-3f4e-41ef-9456-d9ad48f98dd8.png?v=1756736985
   Price: R$ 180,41 BRL
 - [Painel LED 175W Standard Pivô Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/standard-pivo-white-bivolt-175w): Painel de LED 175W Standard Pivô Master Plants: iluminação eficiente para cultivo indoor e outdoor, alto desempenho em fótons e ótimo custo-benefício! 💡🌱
-  Updated: 2026-01-21T12:57:12Z
+  Updated: 2026-01-27T23:10:39Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_97ec7bc7-7818-4471-83f6-4493af63fb4b.png?v=1756736996
   Price: R$ 269,85 BRL
 - [Luminária Tubular UVB T5 24W 310nm Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/luminaria-tubular-aluminio-24w): Luminária UVB T5 24W 310nm Master Plants: aumenta tricomas, resina e defesa natural das plantas. Ideal para fase final da floração no cultivo indoor. 🌱
-  Updated: 2026-01-16T01:12:16Z
+  Updated: 2026-01-27T23:10:20Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -282,28 +282,28 @@
     Availability: Available
     Price: R$ 518,94 BRL
 - [Quantum Barra 320W PRO-LIGHT Chips Samsung LM301H | Master Plants](https://masterplantsloja.com.br/products/led-qb-quantum-bar-pro-light-320w): Quantum Barra 320W PRO-LIGHT | Master Plants: chips Samsung LM301H, 3.1 µmol/J, espectro completo e Deep Red 660nm. Mais produtividade no cultivo indoor! 🌱
-  Updated: 2026-01-20T21:09:06Z
+  Updated: 2026-01-28T14:36:50Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_9d6b37cd-4124-479f-8a8c-bfda3cd96a2c.png?v=1756737017
   Price: R$ 2.436,75 BRL
 - [Luminária Led 20W 60cm Hortiled Warm White | Master Plants](https://masterplantsloja.com.br/products/20w-60cm-led-hortiled-warm-white): 💡 Luminária LED 20W 60 cm Warm White Master Plants: barra slim, baixo consumo e luz quente agradável. 🌿 Ideal como apoio no cultivo indoor.
-  Updated: 2026-01-21T17:14:23Z
+  Updated: 2026-01-27T21:58:40Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_8c2babe4-131b-4891-b986-cf4e9d6414b1.png?v=1756738447
   Price: R$ 151,05 BRL
 - [Luminária para Jardim Vertical Rail Led 3000K 36° 30W | Master Plants](https://masterplantsloja.com.br/products/luminaria-jardim-rail-led-36-30w): 💡 Luminária Rail 30W 3000K — feixe 36° para destacar jardins verticais. 🌱 Luz quente, eficiência e design discreto para ambientes internos.
-  Updated: 2026-01-15T08:59:54Z
+  Updated: 2026-01-27T23:07:12Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/8.jpg?v=1756737096
   Price: R$ 406,13 BRL
 - [Luminária Led Paisagismo Pendant 3000K 20° 20W | Master Plants](https://masterplantsloja.com.br/products/led-paisagismo-pendant-20-20w): Lâmpada Pendant 20W Master Plants: LED com design italiano, cabo 5m e luz precisa. Ideal para plantas em vasos, decora e ilumina com eficiência. 🌱
-  Updated: 2026-01-14T20:37:21Z
+  Updated: 2026-01-27T23:01:39Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -317,7 +317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_1.png?v=1756737114
     Price: R$ 261,25 BRL
 - [Lâmpada Pendant 20W Cultivo Indoor Iluminação | Master Plants](https://masterplantsloja.com.br/products/luminaria-paisagismo-pendant-20w): Lâmpada Pendant 20W Master Plants: design italiano + LED preciso para plantas indoor. Crescimento saudável e estilo para seu ambiente! 🌱💡
-  Updated: 2026-01-14T20:03:20Z
+  Updated: 2026-01-27T22:20:49Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_1_99833305-9ee1-4a4b-852f-dec409da0514.png?v=1756737168
     Price: R$ 274,55 BRL
 - [Lâmpada Pendant 30W 20° LED Iluminação Plantas Indoor | Master Plants](https://masterplantsloja.com.br/products/led-paisagismo-pendant-20-30w): Pendant 30W Master Plants: LED com design italiano, cabo de 5m e luz precisa. Ideal para plantas em vasos, decora e favorece o crescimento saudável. 🌱
-  Updated: 2026-01-14T20:37:39Z
+  Updated: 2026-01-27T22:58:56Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -345,7 +345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_1_99833305-9ee1-4a4b-852f-dec409da0514.png?v=1756737168
     Price: R$ 284,05 BRL
 - [Lâmpada Pendant 30W 40° LED Cultivo Plantas Indoor | Master Plants](https://masterplantsloja.com.br/products/led-paisagismo-pendant-40-30w): Pendant 30W Master Plants: LED com design italiano, cabo de 5m e luz precisa 40°. Decora o ambiente e favorece o crescimento saudável das plantas. 🌱
-  Updated: 2026-01-14T20:40:17Z
+  Updated: 2026-01-27T23:00:36Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_1_99833305-9ee1-4a4b-852f-dec409da0514.png?v=1756737168
     Price: R$ 284,05 BRL
 - [Lâmpada Pendant 40W Cultivo Indoor | Iluminação Decorativa Master Plants](https://masterplantsloja.com.br/products/luminaria-paisagismo-pendant-40w): Lâmpada Pendant 40W Master Plants: design italiano + LED preciso para plantas indoor. Estilo e crescimento saudável em seu ambiente! 🌱💡
-  Updated: 2026-01-14T20:40:33Z
+  Updated: 2026-01-29T12:32:16Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -373,7 +373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_1_99833305-9ee1-4a4b-852f-dec409da0514.png?v=1756737168
     Price: R$ 312,55 BRL
 - [Lâmpada Pendant 40W 40° Cultivo Indoor Iluminação | Master Plants](https://masterplantsloja.com.br/products/luminar-led-paisagismo-pendant-40): Lâmpada Pendant 40W Master Plants: design italiano + LED preciso para plantas indoor. Crescimento saudável e estilo para seu ambiente! 🌱💡
-  Updated: 2026-01-16T15:56:28Z
+  Updated: 2026-01-27T23:05:02Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -387,7 +387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_1_99833305-9ee1-4a4b-852f-dec409da0514.png?v=1756737168
     Price: R$ 331,55 BRL
 - [Fertilizante Terra Aquatica TriPart Grow | Master Plants](https://masterplantsloja.com.br/products/fertilizante-ta-tripart-grow): 🌱 TriPart Grow da Terra Aquatica: base do vegetativo com NPK equilibrado. 💧 Crescimento rápido, caules fortes e folhas verdes em solo, coco e hidro.
-  Updated: 2026-01-22T15:45:13Z
+  Updated: 2026-01-30T21:20:13Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_c5bf3a65-6334-401b-9855-9b9f4c925998.png?v=1756737183
     Price: R$ 36,01 BRL
 - [Fertilizante Terra Aquatica TriPart Micro](https://masterplantsloja.com.br/products/fertilizante-ta-tripart-micro): 💧 TriPart Micro — micronutrientes essenciais da Terra Aquatica. 🌱 Equilibra a solução nutritiva e potencializa o vigor em hidroponia e solo!
-  Updated: 2026-01-22T04:31:19Z
+  Updated: 2026-01-30T21:20:11Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -415,7 +415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_9d033b9c-5c0e-427e-a4fe-ef4c2b6dd43e.png?v=1756737197
     Price: R$ 65,40 BRL
 - [Fertilizante Terra Aquatica DualPart Coco Grow | Master Plants](https://masterplantsloja.com.br/products/fertilizante-dualpart-coco-grow): 💧 Terra Aquatica DualPart Coco Grow: alta disponibilidade em coco. 🌱 Equilíbrio NPK + micro, vigor radicular e verde intenso no vegetativo.
-  Updated: 2026-01-14T20:03:19Z
+  Updated: 2026-01-27T22:55:59Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -429,7 +429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_e416d8a9-1c79-4143-ba1e-dc18ded09fa6.png?v=1756737212
     Price: R$ 68,40 BRL
 - [Fertilizante Terra Aquatica NovaMax Grow](https://masterplantsloja.com.br/products/fertilizante-ta-novamax-grow): 💡 NovaMax Grow — fórmula completa para crescimento vigoroso. 🌿 Maior densidade foliar, fácil de usar e econômico em hidroponia, coco ou solo.
-  Updated: 2026-01-21T00:08:26Z
+  Updated: 2026-01-27T22:09:41Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -443,7 +443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_b26d5c33-6cfe-46dc-98a5-945e5b6e51d7.png?v=1756737242
     Price: R$ 83,84 BRL
 - [Fertilizante Terra Aquatica Oligo Spectrum | Master Plants](https://masterplantsloja.com.br/products/fertilizante-ta-oligo-spectrum): 💧 TA Oligo Spectrum — complemento de microelementos para todo o ciclo. 🌿 Metabolismo ativo, cor verde intensa e desenvolvimento uniforme.
-  Updated: 2026-01-22T15:47:17Z
+  Updated: 2026-01-29T16:26:17Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -457,11 +457,11 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_afb30e4b-ed25-457f-85ad-3fda2e537796.png?v=1756737269
     Price: R$ 36,01 BRL
   - [5L](https://masterplantsloja.com.br/products/fertilizante-ta-oligo-spectrum?variant=50468373430488)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_a8fcc641-fd1f-46b0-855d-cac35c894583.png?v=1756737270
     Price: R$ 135,28 BRL
 - [Fertilizante Terra Aquatica Humic | Master Plants](https://masterplantsloja.com.br/products/fertilizante-terra-aquatica-humic): TA Humic — suporte orgânico para raízes fortes. 🌱 Maior retenção de nutrientes, tamponamento de pH e vigor em solo, coco e sistemas hidropônicos.
-  Updated: 2026-01-17T04:22:01Z
+  Updated: 2026-01-27T22:11:39Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -475,343 +475,315 @@
     Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_5551b028-673c-4295-bed7-2690c7dad1ed.png?v=1756737298
     Price: R$ 63,08 BRL
 - [Trilho Eletrificado Sobrepor 1m Alumínio Iluminação – Master Plants](https://masterplantsloja.com.br/products/trilho-eletrificado-sobrepor-1m): 💡 Trilho eletrificado 1 m de sobrepor em alumínio. ⚙️ Instalação fácil, alta durabilidade e flexibilidade para spots. Ideal para projetos residenciais e comerciais.
-  Updated: 2026-01-14T20:51:44Z
+  Updated: 2026-01-27T23:04:32Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_ae898bdc-9bb4-401a-92a2-604eaaad528e.jpg?v=1756737422
   Price: R$ 81,23 BRL
 - [Kit Cultivo Indoor 60x60 + Quantum Barra 120W PRO-MID | Master Plants](https://masterplantsloja.com.br/products/kit-cultivo-tenda-60x60-led-120w): Kit Completo Master Plants: Estufa 60x60x160cm + Quantum Barra 120W PRO-MID GOLDEN SERIES. Cultive indoor com alta performance e eficiência! 🌱
-  Updated: 2026-01-22T17:07:32Z
+  Updated: 2026-01-30T14:33:31Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT60x60_LED120WPRO-MID.png?v=1756737442
   Price: R$ 1.138,10 BRL
 - [Kit Estufa 100x100x200 + Quantum Barra 480W LM301H EVO | Master Plants](https://masterplantsloja.com.br/products/kit-estufa-100x100-led-480w-pro): Kit completo com Estufa 100x100x200cm e Quantum Barra 480W LM301H EVO. Iluminação potente, alta eficiência e cultivo indoor com resultados excepcionais! 🌱
-  Updated: 2026-01-19T12:32:26Z
+  Updated: 2026-01-29T12:22:19Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT100x100_LED480WPRO.png?v=1756737486
   Price: R$ 5.644,90 BRL
 - [Quantum Board 65W Chips Samsung LM281B Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/quantum-board-65w-samsung-lm281b): Quantum Board 65W Full Spectrum Samsung LM281B + Deep Red. Iluminação ideal para cultivo indoor em todas as fases, com eficiência e durabilidade! 🌱
-  Updated: 2026-01-22T15:47:38Z
+  Updated: 2026-01-30T20:53:11Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/3_4246d0c1-26ea-4dc4-b310-aae506d78d96.png?v=1756737498
   Price: R$ 175,66 BRL
 - [Exaustor Turbo 100mm Bivolt Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/exaustor-turbo-100mm-bivolt-40w): Exaustor Turbo 100mm Bivolt Master Plants. Alta eficiência e baixo ruído no cultivo indoor, com vazão de 310m³/h para ventilação e controle climático! 🌱
-  Updated: 2026-01-22T17:01:16Z
+  Updated: 2026-01-29T18:00:31Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO.png?v=1756737524
   Price: R$ 331,55 BRL
 - [Exaustor Turbo 125mm Bivolt 360m³/h Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/exaustor-turbo-125mm-bivolt-40w): Exaustor Turbo 125mm | Master Plants: fluxo de 360m³/h, silencioso e bivolt. Ventilação eficiente para controle de temperatura e umidade no cultivo indoor!
-  Updated: 2026-01-22T18:29:11Z
+  Updated: 2026-01-30T16:24:41Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_285b0c37-31ef-4bfc-a70f-8a4501e86ae7.png?v=1756737552
   Price: R$ 376,75 BRL
 - [Exaustor Turbo Bivolt 150mm Cultivo Indoor 75w Preto | Master Plants](https://masterplantsloja.com.br/products/exaustor-turbo-bivolt-150mm-75w): Exaustor Turbo 150mm Bivolt com 540m³/h de vazão. Silencioso, eficiente e ideal para controlar temperatura e umidade no cultivo indoor. 🌱
-  Updated: 2026-01-22T17:01:21Z
+  Updated: 2026-01-29T18:00:35Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_c9476e9e-7d26-4de9-9f59-25eb2a230a55.png?v=1756737566
   Price: R$ 425,77 BRL
 - [Exaustor Turbo 200mm 130W Bivolt Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/exaustor-turbo-bivolt-200mm-130w): Exaustor Turbo 200mm Bivolt Master Plants: 900m³/h de vazão, silencioso e eficiente. Controle temperatura e umidade no seu cultivo indoor! 🌱
-  Updated: 2026-01-20T18:07:36Z
+  Updated: 2026-01-29T18:01:36Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/PRETO_7552e663-30bd-4251-a4e6-5a50184e5df4.png?v=1756737580
   Price: R$ 539,70 BRL
-- [Exaustor 100mm Branco Bivolt Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/exaustor-bivolt-100mm-12w-branco): Exaustor 100mm Bivolt Master Plants. Alta eficiência e baixo ruído para cultivo indoor, garantindo ventilação, controle de temperatura e umidade! 🌱
-  Updated: 2026-01-22T18:51:27Z
-  Vendor: Master Plants
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/BRANCO.jpg?v=1756737594
-  Price: R$ 94,05 BRL
 - [Vaso de Tecido Feltro 19L Quadrado para Plantas Grow | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-19l-quadrado): Vaso de Tecido Feltro 19L Master Plants: leve, resistente e com alta drenagem. Ideal para cultivo indoor e outdoor, garante raízes saudáveis e produtivas. 🌱
-  Updated: 2026-01-21T17:53:19Z
+  Updated: 2026-01-28T02:22:26Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_483153c5-53d7-4517-95c6-92b86e03ebd9.jpg?v=1756737640
   Price: R$ 22,71 BRL
 - [Vaso de Tecido Feltro 27L Quadrado para Plantas Grow | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-27l-quadrado): Vaso de Feltro 27L com alças reforçadas e drenagem eficiente. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e plantas mais saudáveis. 🌱
-  Updated: 2026-01-22T00:16:22Z
+  Updated: 2026-01-27T22:16:55Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_78c5f5ee-c8bf-4daf-978e-f128d59916d6.jpg?v=1756737651
   Price: R$ 28,41 BRL
 - [Vaso de Feltro 38L Quadrado Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-38l-quadrado): Vaso de Feltro 38L com alças reforçadas e drenagem eficiente. Ideal para cultivo indoor e outdoor, garantindo raízes saudáveis e crescimento vigoroso. 🌱
-  Updated: 2026-01-17T15:53:04Z
+  Updated: 2026-01-27T23:06:23Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_ccf3174e-f928-469a-bbc1-031824624545.jpg?v=1756737661
   Price: R$ 32,21 BRL
 - [Vaso de Feltro Tecido 8L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/vaso-de-tecido-feltro-8l-redondo): Vaso de Feltro 8L Master Plants. Resistente, leve e com excelente drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-17T23:31:20Z
+  Updated: 2026-01-27T21:54:39Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_af8737b9-958a-43d2-9160-60b0b2204ef8.jpg?v=1756737671
   Price: R$ 16,06 BRL
 - [Vaso de Feltro Tecido 11L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/vaso-de-tecido-feltro-11l-redondo): Vaso de Feltro 11L Master Plants. Resistente, leve e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T17:03:22Z
+  Updated: 2026-01-30T17:24:12Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_e73c9957-c958-4234-ba64-1d7d82cf8c7c.jpg?v=1756737681
   Price: R$ 15,68 BRL
 - [Filtro de Carvão Ativado 125mm 310m3/h Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/filtro-carvao-ativado-125mm-310m3): Filtro de Carvão Ativado 125mm Master Plants: neutraliza odores no cultivo indoor com eficiência e discrição. Compatível com exaustores até 310m³/h. 🌱
-  Updated: 2026-01-22T18:29:11Z
+  Updated: 2026-01-30T16:24:40Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_33f874b7-847e-417a-a9c8-3469f5c9b95c.jpg?v=1756737713
   Price: R$ 284,91 BRL
 - [Suporte Hanger com Catraca Grow Filtros e Exaustores | Master Plants](https://masterplantsloja.com.br/products/suporte-hanger-gancho-de-metal): Suporte hanger com catraca ajustável, mosquetão em aço e corda resistente. Ideal para fixar LEDs, exaustores e filtros de carvão no cultivo indoor. 🌱
-  Updated: 2026-01-17T12:43:16Z
+  Updated: 2026-01-27T23:09:52Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_8733bfd2-accc-4945-b31e-b7d261dbad5c.png?v=1756737735
   Price: R$ 45,03 BRL
 - [Suporte Hanger Gancho Plástico Cultivo Indoor Ajustável |Master Plants](https://masterplantsloja.com.br/products/suporte-hanger-gancho-plastico): Suporte Hanger com gancho plástico resistente, corda de polipropileno e ajuste de altura. Ideal para LEDs, exaustores e filtros de carvão no grow! 🌱
-  Updated: 2026-01-22T14:27:21Z
+  Updated: 2026-01-27T23:08:00Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_75c9c097-f8b3-4ecf-b92c-c9eabc3caaf7.png?v=1756737763
   Price: R$ 36,00 BRL
 - [Quantum Barra 1000W PRO-MID Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/led-quantum-barra-1000w-lm283b): Quantum Barra 1000W PRO-MID Master Plants. Chips Samsung LM283B+, espectro completo e 2,7 µmol/J para cultivo indoor de alta performance e eficiência! 🌱
-  Updated: 2026-01-22T20:42:26Z
+  Updated: 2026-01-30T19:52:31Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_ba3f3ff8-33f7-4e90-a0ab-fe6a43ba9acf.png?v=1756737794
   Price: R$ 3.499,00 BRL
 - [Quantum Barra 1000W PRO-LIGHT Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/led-quantum-bar-1000w-qb-lm301h): Quantum Barra 1000W PRO-LIGHT Master Plants. Chips Samsung LM301H, 3,1 µmol/J e espectro completo para máxima eficiência no cultivo indoor! 🌱
-  Updated: 2026-01-21T20:18:32Z
+  Updated: 2026-01-30T19:21:22Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_0db6b28f-4404-4561-a421-de5e2c25d7c1.png?v=1756737813
   Price: R$ 4.703,04 BRL
 - [Filtro de Carvão 150mm 500m³/h Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/filtro-carvao-ativado-150mm-500m3): Filtro de Carvão 150mm Master Plants: elimina odores no cultivo indoor com eficiência e discrição. Compatível com exaustores até 500m³/h. 🌱
-  Updated: 2026-01-22T17:07:31Z
+  Updated: 2026-01-29T18:01:32Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_a8e10302-4c71-46d0-b37f-dfcf95e1e1f1.jpg?v=1756737847
   Price: R$ 466,36 BRL
 - [Filtro de Carvão Ativado 200mm 1000m³/h Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/filtro-carvao-ativad-200mm-1000m3): Filtro de Carvão Ativado 200mm 1000m³/h Master Plants. Elimina odores no cultivo indoor com máxima eficiência, discrição e qualidade garantida! 🌱
-  Updated: 2026-01-22T01:37:22Z
+  Updated: 2026-01-29T18:02:29Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_2f5976b2-218a-48b2-be84-d34c973b8dbd.jpg?v=1756737870
   Price: R$ 693,41 BRL
 - [Vaso de Feltro Tecido 4L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-4l-redondo): Vaso de Feltro 4L Master Plants. Leve, resistente e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T18:16:36Z
+  Updated: 2026-01-27T21:58:15Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_f2d16750-ea09-4e7f-bc0b-cc4cc40f2a0c.jpg?v=1756737881
   Price: R$ 11,31 BRL
 - [Vaso de Tecido Feltro 19L Redondo para Plantas Grow | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-19l-redondo): Vaso de Feltro 19L Master Plants: cultivo indoor ou outdoor com alta drenagem, oxigenação e raízes mais fortes. Versátil, resistente e durável! 🌱
-  Updated: 2026-01-20T23:27:26Z
+  Updated: 2026-01-30T15:07:16Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_738f6a8c-67e4-4b95-bdcb-2eb354a1c4da.jpg?v=1756737891
   Price: R$ 17,96 BRL
 - [Vaso de Tecido Feltro 27L Redondo para Plantas Grow | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-27l-redondo): Vaso de Feltro 27L redondo com alças reforçadas e drenagem eficiente. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e plantas saudáveis. 🌱
-  Updated: 2026-01-20T23:20:11Z
+  Updated: 2026-01-30T11:57:11Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_7faede5c-733d-4053-804a-f679eae8b5ed.jpg?v=1756737902
   Price: R$ 20,81 BRL
 - [Vaso de Tecido Feltro 38L Redondo para Plantas Grow | Master Plants](https://masterplantsloja.com.br/products/vaso-tecido-feltro-38l-redondo): Vaso de Feltro 38L redondo com alças reforçadas e drenagem eficiente. Ideal para cultivo indoor e outdoor, promovendo raízes fortes e plantas saudáveis. 🌱
-  Updated: 2026-01-14T20:43:18Z
+  Updated: 2026-01-27T22:05:52Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_81d53a5a-5e8b-49cd-8323-01e7bc3c1ce9.jpg?v=1756737913
   Price: R$ 27,46 BRL
 - [Tesoura Poda Curva Profissional Jardim Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/tesoura-curva-profissional-poda): Tesoura de poda curva com lâminas inox e cabo emborrachado. Corte limpo, seguro e ergonômico para jardinagem e cultivo indoor. 🌱✂️
-  Updated: 2026-01-22T18:33:15Z
+  Updated: 2026-01-27T23:12:23Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_dc180387-5380-42e7-b649-53276411bdb6.jpg?v=1756737943
   Price: R$ 25,40 BRL
 - [Termo-Higrômetro Digital Controle Temperatura Umidade | Master Plants](https://masterplantsloja.com.br/products/higrometro-digital-relogio-medido): Termo-Higrômetro Digital Master Plants. Meça temperatura, umidade, data e hora. Controle preciso para cultivo indoor mais saudável e produtivo! 🌱
-  Updated: 2026-01-22T22:33:16Z
+  Updated: 2026-01-30T16:27:36Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_c843f6b7-891f-4d1a-bb41-ae13db40e571.png?v=1763477815
   Price: R$ 23,37 BRL
 - [Kit Cultivo Indoor Estufa 60x60 + Quantum Board 65W | Master Plants](https://masterplantsloja.com.br/products/kit-cultivo-tenda-60x60-led-65w): Kit Grow Master Plants: Estufa 60x60x160cm + Quantum Board 65W. Solução completa para cultivo indoor com eficiência, praticidade e discrição! 🌱
-  Updated: 2026-01-22T15:47:31Z
+  Updated: 2026-01-30T20:53:16Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITCOMLED65WMARKET.png?v=1766074192
   Price: R$ 649,71 BRL
 - [Kit Cultivo  150x150 + Quantum Bar 650W LM301H EVO + Exaustor + Filtro](https://masterplantsloja.com.br/products/kit-tenda-150x150-qb-650-ex-turbo): Kit Completo Master Plants: Estufa 150x150x200cm + Quantum Barra 650W LM301H EVO + Exaustor + Filtro de Carvão. Cultive indoor com potência e eficiência! 🌱
-  Updated: 2026-01-22T18:16:34Z
+  Updated: 2026-01-28T20:51:31Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT150x150_650WPRO_EXAUST200MMPRETO_FILTRO200mm1000m.png?v=1756738384
   Price: R$ 7.354,86 BRL
-- [Kit Cultivo Estufa 150x150 + LED 720W Samsung LM301H | Master Plants](https://masterplantsloja.com.br/products/kit-tend-150x150-led-720w-ex-turb): Kit completo com estufa 150x150, LED 720W Samsung LM301H, exaustor 200mm e filtro de carvão. Máxima eficiência e discrição no cultivo indoor! 🌱
-  Updated: 2026-01-21T12:31:27Z
-  Vendor: Master Plants
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT150x150_720WPRO-LIGHT_EXAUST200MMPRETO_FILTRO200mm1000m.png?v=1756738400
-  Price: R$ 5.825,36 BRL
 - [Kit Estufa 150x150 + LED Qb 720W + Exaustor + Filtro | Master Plants](https://masterplantsloja.com.br/products/kit-tenda-150x150-led-720w-lm283b): Kit Completo Master Plants: Estufa 150x150, LED 720W, exaustor 200mm e filtro de carvão. Eficiência, discrição e alto desempenho no cultivo indoor! 🌱
-  Updated: 2026-01-21T17:17:52Z
+  Updated: 2026-01-29T18:01:36Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT150x150_720WPRO-MID_EXAUST200MMPRETO_FILTRO200mm1000m.png?v=1756738433
   Price: R$ 4.696,00 BRL
 - [HORTILED Warm White 20W e 40W Cultivo Indoor e Clonagem| Master Plants](https://masterplantsloja.com.br/products/40w-luminaria-led-hortiled-white): HORTILED Warm White 20W e 40W Master Plants. LED para fazendas verticais, estufas e clonagem com espectro completo, eficiência e alta durabilidade! 🌱
-  Updated: 2026-01-14T19:01:18Z
+  Updated: 2026-01-27T22:34:00Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_8c2babe4-131b-4891-b986-cf4e9d6414b1.png?v=1756738447
   Price: R$ 213,75 BRL
-- [Quantum Barra 720W LED Samsung LM301H Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/painel-led-quantum-bar-720w-light): Quantum Barra 720W PRO-LIGHT com chips Samsung LM301H, Deep Red 660nm e eficácia de 3.1 µmol/J. Potência, eficiência e colheitas abundantes! 🌱
-  Updated: 2026-01-21T12:31:27Z
-  Vendor: Minha loja
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/2_ab92c6a3-cc37-40bd-91fb-97cd399811dd.png?v=1763478006
-  Price: R$ 3.600,50 BRL
 - [Quantum Barra 240W Cultivo Indoor Chips Samsung LM301H | Master Plants](https://masterplantsloja.com.br/products/painel-led-quantu-bar-240w-lm301h): Quantum Barra 240W PRO-LIGHT Master Plants. Chips Samsung LM301H, espectro completo e 3,1 µmol/J para cultivo indoor com alta eficiência e produtividade! 🌱
-  Updated: 2026-01-22T18:16:14Z
+  Updated: 2026-01-29T19:00:46Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/2_d140fafa-7c34-4a61-8a97-f8053a562a62.png?v=1756738489
   Price: R$ 1.700,50 BRL
 - [Quantum Barra 720W LED Samsung LM283B+ Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/kit-02un-led-720w-chips-lm283b): Quantum Barra 720W PRO-MID com chips Samsung LM283B+ e Deep Red. Espectro completo, alto PPF e máxima eficiência no cultivo indoor! 🌱
-  Updated: 2026-01-20T19:21:45Z
+  Updated: 2026-01-30T16:43:17Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT02LED_s_1_e1af9857-e44e-4d8c-aa79-0faa1da4a85a.png?v=1763477916
   Price: R$ 4.998,00 BRL
 - [Quantum Barra 1000W PRO-MID Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/kit-02un-led-1000w-chips-lm283b): Quantum Barra 1000W PRO-MID Master Plants. Chips Samsung LM283B+, espectro completo e 2,7 µmol/J para cultivo indoor de alta performance e eficiência! 🌱
-  Updated: 2026-01-22T21:03:26Z
+  Updated: 2026-01-30T19:52:31Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITS02LED_S_7238f5c0-b692-4724-8bb0-add729eec155.png?v=1763477932
   Price: R$ 6.998,00 BRL
-- [Quantum Barra 720W LED Samsung LM301H Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/kit-02un-led-720w-chips-lm301h): Quantum Barra 720W PRO-LIGHT com chips Samsung LM301H, Deep Red 660nm e eficácia de 3.1 µmol/J. Potência, eficiência e colheitas abundantes! 🌱
-  Updated: 2026-01-21T12:31:27Z
-  Vendor: Minha loja
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITS02LED_S_7e74d10f-a4f2-4f08-b556-4af46b8e79dc.png?v=1763478008
-  Price: R$ 7.201,00 BRL
 - [Quantum Barra 1000W PRO-LIGHT Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/kit-02un-led-1000w-chips-lm301h): Quantum Barra 1000W PRO-LIGHT Master Plants. Chips Samsung LM301H, 3,1 µmol/J e espectro completo para máxima eficiência no cultivo indoor! 🌱
-  Updated: 2026-01-22T11:33:21Z
+  Updated: 2026-01-29T21:01:17Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT02LED_s_1_2c679454-c976-47fb-8a5e-cf5a3a921074.png?v=1763478021
   Price: R$ 9.406,08 BRL
 - [Quantum Barra 480W PRO Chips LM301H EVO Cultivo Indoor | Master Plants](https://masterplantsloja.com.br/products/kit-02un-led-480w-chip-lm301h-evo): Quantum Barra 480W PRO com chips Samsung LM301H EVO, Deep Red e Blue. LED premium, 3.1 µmol/J e PPF 1392 µmol/s para cultivo indoor de alto nível! 🌱
-  Updated: 2026-01-19T12:32:31Z
+  Updated: 2026-01-29T12:22:24Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KIT02LED_s_1_79a4daef-d20c-4431-bc3e-6d693da92663.png?v=1763478036
   Price: R$ 8.358,10 BRL
 - [Led Complementar 35w Ir 730nm Efeito Emerson | Master Plants](https://masterplantsloja.com.br/products/led-complementar-35w-ir-730nm): 💡 35W Infravermelho 730 nm — ativa o Efeito Emerson com o vermelho 660 nm. 🌱 Mais performance fotossintética e desenvolvimento equilibrado.
-  Updated: 2026-01-14T20:50:18Z
+  Updated: 2026-01-27T22:59:59Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/0_6f7385ad-7701-4700-bd33-ea287d45ce72.png?v=1763478116
   Price: R$ 966,70 BRL
 - [Kit Cultivo Estufa 100x100x200 + Qb 240w Lm301h Grow | Master Plants](https://masterplantsloja.com.br/products/kit-tenda-1x1-qb-240w-lm301h-grow): 🌱 Kit 100×100×200 + QB 240W LM301H: PPFD uniforme, baixo calor e espectro completo. 💡 Setup prático e eficiente para cultivo indoor.
-  Updated: 2026-01-22T18:23:55Z
+  Updated: 2026-01-29T18:34:28Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/9f572cdf5bf6464fa7128588aca1dd57_2Fproduct_2Fimages_2F9473209_2F581fda549cba4d7d9fc108f0af1bed01.png?v=1763478131
   Price: R$ 2.349,40 BRL
 - [Trilho Eletrificado Sobrepor 1m Alumínio Iluminação – Master Plants](https://masterplantsloja.com.br/products/trilho-eletrificado-sobrepor-1m-aluminio-iluminacao-spots-copia): 💡 Trilho eletrificado 1 m de sobrepor em alumínio. ⚙️ Instalação fácil, alta durabilidade e flexibilidade para spots. Ideal para projetos residenciais e comerciais.
-  Updated: 2026-01-14T20:50:28Z
+  Updated: 2026-01-27T23:02:05Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/8_7871e3fd-5385-4329-aa58-f4784d343948.jpg?v=1763478171
   Price: R$ 81,23 BRL
 - [Vaso de Feltro Tecido 11L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/kit-02un-vaso-de-tecido-feltro-11l-redondo-para-plantas-grow): Vaso de Feltro 11L Master Plants. Resistente, leve e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T17:03:26Z
+  Updated: 2026-01-30T16:28:06Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITDEVASODEFELTRO11L.png?v=1763478184
   Price: R$ 43,51 BRL
 - [Vaso de Feltro Tecido 11L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/kit-04un-vaso-de-tecido-feltro-11l-redondo-para-plantas-grow): Vaso de Feltro 11L Master Plants. Resistente, leve e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T17:03:22Z
+  Updated: 2026-01-30T16:28:06Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITDEVASODEFELTRO11L_1.png?v=1763478200
   Price: R$ 87,02 BRL
 - [Vaso de Feltro Tecido 11L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/kit-06un-vaso-de-tecido-feltro-11l-redondo-para-plantas-grow): Vaso de Feltro 11L Master Plants. Resistente, leve e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T17:03:32Z
+  Updated: 2026-01-30T16:28:05Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITDEVASODEFELTRO11L_2.png?v=1763478215
   Price: R$ 130,53 BRL
 - [Vaso de Feltro Tecido 11L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/kit-08un-vaso-de-tecido-feltro-11l-redondo-para-plantas-grow): Vaso de Feltro 11L Master Plants. Resistente, leve e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T17:03:41Z
+  Updated: 2026-01-30T16:28:05Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/KITDEVASODEFELTRO11L_3.png?v=1763478230
   Price: R$ 174,04 BRL
 - [Tesoura de Titânio para Poda Galhos Jardim - Cultivo Indoor Grow](https://masterplantsloja.com.br/products/tesoura-de-titanio-para-poda-galhos-jardim-cultivo-indoor-grow): ✂️ Tesoura de Poda Robusta em Titânio – Para Galhos e Plantas de Médio Porte A Tesoura de Poda Robusta em Titânio foi desenvolvida para quem precisa de força, precisão e durabilidade em podas mais exigentes. Ideal para galhos de espessura média e plantas maiores, ela entrega um corte limpo mesmo em trabalhos intensivos de jardinagem e cultivo. Suas lâminas em titânio de alta qualidade garantem maior resistência ao desgaste e excelente retenção de fio, enquanto o cabo reforçado e ergonômico proporciona firmeza, conforto e segurança mesmo em uso prolongado. 🚀 Por que escolher essa tesoura? Corte potente e preciso para galhos e plantas de médio porte. Lâmina em titânio – mais durabilidade, menos desgaste e maior vida útil. Estrutura robusta, ideal para jardinagem pesada e manutenção intensiva. Design ergonômico, reduzindo esforço e fadiga nas mãos. ⚙️ Características Tipo: Tesoura de poda robusta Material da lâmina: Titânio Material do cabo: Reforçado, com pegada firme Uso indicado: Galhos, plantas de médio porte e jardinagem pesada 📏 Especificações Técnicas Dimensões: 22 × 6,5 × 2,5 cm Peso: 400 g Diferenciais: Alta resistência, corte limpo, durabilidade superior e design reforçado 🌱 Ideal para quem leva o cultivo a sério Seja no cultivo indoor, no jardim ou na manutenção de plantas maiores, essa tesoura entrega desempenho profissional, segurança e conforto em cada corte. Garanta já a sua Tesoura de Poda em Titânio e tenha mais eficiência, força e precisão no seu cultivo!
-  Updated: 2026-01-17T17:53:11Z
+  Updated: 2026-01-27T23:11:15Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_73adc050-1273-483f-a94b-6157dae65dc7.png?v=1766073601
   Price: R$ 44,90 BRL
 - [Tesoura Trimming para Poda Jardim - Cultivo Indoor Grow](https://masterplantsloja.com.br/products/tesoura-de-titanio-para-poda-galhos-jardim-cultivo-indoor-grow-copia): ✂️ Tesoura Trimming para Poda – Ideal para Cultivo Indoor e Jardinagem A Tesoura Trimming para Poda foi desenvolvida para quem precisa de precisão máxima em cortes delicados. Perfeita para bonsai, temperos, hortaliças e flores, ela garante acabamento limpo e controle total durante o manejo das plantas. Equipada com lâminas afiadas em aço inoxidável, oferece excelente durabilidade e fácil limpeza. Seu design ergonômico tipo pinça facilita o manuseio, reduz o esforço das mãos e proporciona maior agilidade em podas de detalhamento. 🌿 Ideal para trabalhos delicados Corte preciso para folhas, ramos finos e flores delicadas. Controle total para trimming e manutenção de plantas pequenas. Leve e prática, perfeita para uso contínuo. ⚙️ Características Tipo: Tesoura de poda / trimming Material da lâmina: Aço inoxidável Design: Tipo pinça, ergonômico Uso indicado: Bonsai, temperos, hortaliças, flores e cultivo indoor 📏 Especificações Técnicas Dimensões: 15 × 4 × 1,5 cm Peso: 90 g Diferenciais: Ergonomia aprimorada, fácil limpeza e longa durabilidade 🌱 Essencial para quem busca acabamento perfeito Seja no cultivo indoor, no jardim ou no trimming de precisão, essa tesoura entrega leveza, eficiência e controle absoluto em cada corte. Garanta já a sua Tesoura Trimming e leve mais precisão e praticidade para o seu cultivo!
-  Updated: 2026-01-15T19:30:13Z
+  Updated: 2026-01-27T23:10:57Z
   Vendor: Master Plants
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/4847/6120/files/1_c2e0f0de-da8b-41ee-a257-9d7d93a4ce62.png?v=1766073617
   Price: R$ 26,90 BRL
 - [Vaso de Feltro Tecido 11L Cultivo Indoor e Outdoor | Master Plants](https://masterplantsloja.com.br/products/kit-12un-vaso-de-tecido-feltro-11l-redondo-para-plantas-grow): Vaso de Feltro 11L Master Plants. Resistente, leve e com ótima drenagem. Ideal para cultivo indoor e outdoor, garantindo raízes fortes e saudáveis! 🌱
-  Updated: 2026-01-22T17:03:31Z
+  Updated: 2026-01-30T16:28:10Z
   Vendor: Minha loja
   Product Type: 
   Availability: Available
@@ -822,31 +794,31 @@
 ## Collections
 
 - [Iluminação para Cultivo | Master Plants](https://masterplantsloja.com.br/collections/iluminacao-para-cultivo): 💡 Iluminação para cultivo indoor: LEDs de alta eficiência com espectro completo para todas as fases do crescimento das plantas.
-  Updated: 2026-01-22T18:16:15Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 64
 - [Estufas | Master Plants](https://masterplantsloja.com.br/collections/estufas): 🌱 Estufas Master Plants: qualidade, resistência e discrição. Cultive indoor com eficiência e colha resultados de alto nível!
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 18
 - [Kits Cultivo | Master Plants](https://masterplantsloja.com.br/collections/kits-cultivo): 🌱 Kits de Cultivo prontos: tenda + LED + ventilação + filtragem. 🌿 Do iniciante ao avançado, escolha o tamanho e comece hoje!
-  Updated: 2026-01-22T18:27:34Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 52
 - [Acessórios | Master Plants](https://masterplantsloja.com.br/collections/acessorios-master-plants): 🔧 Acessórios Master Plants: hangers, filtros, exaustores e muito mais para completar seu cultivo indoor com praticidade, segurança e eficiência.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 30
 - [Linha PRO | Master Plants](https://masterplantsloja.com.br/collections/linha-pro): 💡 Descubra a Linha PRO: potência, qualidade e tecnologia avançada em LEDs para elevar seu cultivo indoor ao próximo nível.
-  Updated: 2026-01-21T12:18:58Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 10
 - [Linha PRO-MID | Master Plants](https://masterplantsloja.com.br/collections/linha-pro-mid): 💡 Linha PRO-MID Master Plants: LEDs com chips Samsung LM283B+, alta eficiência, espectro completo e máximo desempenho no cultivo indoor.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 17
 - [Linha PRO-MASTER | Master Plants](https://masterplantsloja.com.br/collections/linha-pro-master): 💡 PRO-MASTER: iluminação de ponta com espectro completo e 5 anos de garantia. Potência, eficiência e tecnologia para o cultivo profissional.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 8
 - [Linha AGROLED | Master Plants](https://masterplantsloja.com.br/collections/linha-agroled): Linha AGROLED Master Plants: iluminação agrícola de alta performance para estufas e lavouras, com máxima eficiência e durabilidade.
   Updated: 2026-01-14T20:03:23Z
   Total Products: 1
 - [Linha HORTILED | Master Plants](https://masterplantsloja.com.br/collections/linha-hortiled): Linha Hortiled Master Plants: iluminação LED agrícola de alta eficiência, ideal para estufas e cultivos profissionais com máximo desempenho.
-  Updated: 2026-01-21T12:18:58Z
+  Updated: 2026-01-24T12:31:35Z
   Total Products: 2
 - [Linha CANOPY | Master Plants](https://masterplantsloja.com.br/collections/linha-canopy): Master Plants Linha CANOPY: tecnologia de iluminação intercalar para distribuir luz no dossel e elevar a eficiência do seu cultivo. 🌱
   Updated: 2026-01-14T20:03:23Z
@@ -858,83 +830,86 @@
   Updated: 2026-01-22T12:19:14Z
   Total Products: 8
 - [Linha PAISAGISMO | Master Plants](https://masterplantsloja.com.br/collections/linha-paisagismo): Linha PAISAGISMO Master Plants: iluminação eficiente e durável para realçar jardins, áreas externas e projetos decorativos com máxima qualidade.
-  Updated: 2026-01-14T20:03:23Z
+  Updated: 2026-01-24T12:31:35Z
   Total Products: 12
 - [Campeões de Venda | Master Plants](https://masterplantsloja.com.br/collections/campeoes-de-venda): 🌱 Os favoritos dos growers estão aqui: confira os Campeões de Venda Master Plants e eleve o nível do seu cultivo!
-  Updated: 2026-01-22T18:27:34Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 42
 - [Fertilizantes | Master Plants](https://masterplantsloja.com.br/collections/fertilizantes): Fertilizantes Master Plants: nutrição completa para todas as fases do cultivo, garantindo plantas mais fortes, saudáveis e produtivas.
   Updated: 2026-01-22T12:19:14Z
   Total Products: 12
 - [Linha PRO-LIGHT | Master Plants](https://masterplantsloja.com.br/collections/linha-pro-light): 🚀 Descubra a Linha PRO-LIGHT Master Plants! LEDs premium com chips Samsung LM301H, Deep Red e eficiência máxima para colheitas abundantes.
-  Updated: 2026-01-22T18:16:15Z
+  Updated: 2026-01-29T12:19:46Z
   Total Products: 8
 - [Promoção da Semana | Master Plants](https://masterplantsloja.com.br/collections/promocao-da-semana): 🎉 Aproveite a Promoção da Semana Master Plants: estufas, LEDs, exaustores e acessórios com descontos exclusivos! 🌱
-  Updated: 2026-01-22T18:27:34Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 73
 - [Os Melhores Produtos para o seu Cultivo! | Master Plants](https://masterplantsloja.com.br/collections/melhores-produtos-para-cultivo): 🚀 Os melhores produtos para cultivo indoor estão aqui! Máxima eficiência, tecnologia avançada e resultados surpreendentes.
-  Updated: 2026-01-22T18:27:34Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 197
 - [Led's Mais Vendidos | Master Plants](https://masterplantsloja.com.br/collections/leds-mais-vendidos): 💡 Confira os LED’s mais vendidos da Master Plants! Potência, eficiência e espectro completo para cultivo indoor com máxima produtividade.
-  Updated: 2026-01-22T18:16:15Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 34
 - [Ofertas da Semana | Master Plants](https://masterplantsloja.com.br/collections/ofertas-da-semana): 🚀 Promoções exclusivas da semana! Kits completos, iluminação LED e acessórios com preços especiais. Garanta já o seu!
-  Updated: 2026-01-22T18:16:15Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 16
 - [Exaustores
  – Master Plants](https://masterplantsloja.com.br/collections/exaustores-master-plants): Exaustores para cultivo indoor: alta eficiência, baixo ruído e renovação de ar constante para plantas mais saudáveis. 🌱
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 7
 - [Filtros de Carvão | Master Plants](https://masterplantsloja.com.br/collections/filtros-de-carvao): Filtros de Carvão Master Plants: eliminam odores com máxima eficiência, garantindo um cultivo indoor discreto, limpo e de alta qualidade.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-28T12:18:28Z
   Total Products: 7
 - [Vasos de Feltro](https://masterplantsloja.com.br/collections/vasos-de-feltro): Vasos de feltro para cultivo indoor e outdoor. Melhor drenagem, oxigenação e raízes mais fortes para plantas saudáveis. 🌱
-  Updated: 2026-01-21T12:18:58Z
+  Updated: 2026-01-29T12:19:46Z
   Total Products: 19
 - [Tenda U
  – Master Plants](https://masterplantsloja.com.br/collections/tenda-u): 🌱 Tendas U para cultivo indoor com tecido Mylar 600D PRO e estrutura reforçada. Segurança, eficiência e discrição para o seu grow.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 7
 - [Tenda H | Master Plants](https://masterplantsloja.com.br/collections/tenda-h): 🌱 Tenda H Master Plants: estrutura reforçada, tecido Mylar 600D PRO e vedação total de luz. Perfeita para cultivo indoor seguro e eficiente!
-  Updated: 2026-01-14T21:34:12Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 4
 - [Tenda Propagação | Master Plants](https://masterplantsloja.com.br/collections/tenda-propagacao): 🌱 Tendas de Propagação Master Plants: ideais para germinação e clones. Estrutura reforçada, Mylar 600D e total controle para seu cultivo indoor.
   Updated: 2026-01-19T18:13:01Z
   Total Products: 4
 - [Cultivos Pequenos | Master Plants](https://masterplantsloja.com.br/collections/cultivos-pequenos): Cultivos Pequenos Master Plants: estufas compactas, LEDs eficientes e acessórios ideais para quem busca praticidade e discrição.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 11
 - [Cultivos Médios | Master Plants](https://masterplantsloja.com.br/collections/cultivos-medios): 🚀 A solução perfeita para cultivos médios! Tecnologia avançada em LEDs, estufas e exaustão para resultados consistentes e vigorosos.
-  Updated: 2026-01-22T18:23:56Z
+  Updated: 2026-01-24T03:43:12Z
   Total Products: 18
 - [Cultivos Grandes | Master Plants](https://masterplantsloja.com.br/collections/cultivos-grandes): Cultivos Grandes Master Plants: estufas, LEDs e kits completos para máxima produtividade com espaço e eficiência profissional.
   Updated: 2026-01-22T18:27:34Z
   Total Products: 17
 - [Exaustão | Master Plants](https://masterplantsloja.com.br/collections/exaustao-master-plants): 🌱 Exaustão para grow: exaustores, dutos e filtros que garantem ar puro, temperatura estável e crescimento saudável das plantas.
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 14
 - [Medidores
  – Master Plants](https://masterplantsloja.com.br/collections/medidores): Monitore temperatura e umidade do seu cultivo com precisão! Termohigrômetro digital ideal para estufas, jardins e ambientes indoor. 🌡️🌱
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 1
 - [Hangers | Master Plants](https://masterplantsloja.com.br/collections/hangers): Hangers Master Plants: suporte seguro e prático para LEDs, exaustores e filtros. Resistentes, ajustáveis e fáceis de usar no cultivo indoor.
-  Updated: 2026-01-18T12:19:55Z
+  Updated: 2026-01-27T12:18:23Z
   Total Products: 2
 - [Kits Completos | Master Plants](https://masterplantsloja.com.br/collections/kits-completos): 🌱 Kits Completos Master Plants: estufas, LEDs, exaustores e filtros. Tudo que você precisa para um cultivo indoor eficiente e discreto!
   Updated: 2026-01-22T18:27:34Z
   Total Products: 30
 - [Led's Alta Potência | Master Plants](https://masterplantsloja.com.br/collections/leds-alta-potencia): 💡 LEDs de alta potência: espectro completo, máxima eficiência e resultados incríveis no cultivo indoor. Mais produção com menos energia!
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-29T12:19:46Z
   Total Products: 9
 - [Todos os Produtos](https://masterplantsloja.com.br/collections/todos-os-produtos)
-  Updated: 2026-01-22T18:27:34Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 197
 - [Tesouras](https://masterplantsloja.com.br/collections/tesouras)
-  Updated: 2026-01-22T12:19:14Z
+  Updated: 2026-01-24T12:31:35Z
   Total Products: 5
 - [☀️ PROMOÇÃO DE VERÃO ☀️| Master Plants](https://masterplantsloja.com.br/collections/promocao-de-verao): Chegou a Promoção de Verão! Descontos de até 20%, frete grátis, 5% OFF no PIX e Parcelamento em até 10x SEM JUROS! Garanta LEDs, estufas e kits Master Plants com estoque limitado!
-  Updated: 2026-01-22T18:27:34Z
+  Updated: 2026-01-30T12:20:25Z
   Total Products: 72
+- [PROMOÇÃO 02.02 🎉](https://masterplantsloja.com.br/collections/promocao-02-02): Promoção de leds, estufas e kits completos de cultivo indoor.
+  Updated: 2026-01-29T12:19:46Z
+  Total Products: 8
 
 ## Blogs
 
@@ -1049,6 +1024,18 @@
     Author: Frederico Sabbag
   - [Filtro de carvão ativado para cultivo indoor: guia de tamanhos](https://masterplantsloja.com.br/blogs/novidades/filtro-de-carvao-ativado-master-plants-o-guia-de-tamanhos-para-eliminar-100-do-odor): Filtro de carvão ativado para cultivo indoor: guia de tamanhos
     Updated: 2026-01-22T13:32:37Z
+    Author: Frederico Sabbag
+  - [Estufa de Propagação: Setup Ideal para Clonagem](https://masterplantsloja.com.br/blogs/novidades/estufa-de-propagacao-o-setup-ideal-para-clonagem-e-mudas-saudaveis): Estufa de Propagação: Setup Ideal para Clonagem
+    Updated: 2026-01-23T21:30:02Z
+    Author: Frederico Sabbag
+  - [Tesoura Reta ou Curva para Trimming: Quando Usar Cada Uma](https://masterplantsloja.com.br/blogs/novidades/poda-de-precisao-quando-usar-a-tesoura-reta-e-a-tesoura-curva-para-um-trimming-perfeito): Tesoura Reta ou Curva para Trimming: Quando Usar Cada Uma
+    Updated: 2026-01-26T22:00:01Z
+    Author: Frederico Sabbag
+  - [Deficiências Nutricionais das Plantas: Guia Visual Completo](https://masterplantsloja.com.br/blogs/novidades/identificando-deficiencias-nutricionais-o-guia-visual-de-cores-e-formas-para-corrigir-problemas-com-terra-aquatica): Deficiências Nutricionais das Plantas: Guia Visual Completo
+    Updated: 2026-01-28T21:00:01Z
+    Author: Frederico Sabbag
+  - [Técnica SCROG: Passo a Passo para Cobrir 100% da Estufa](https://masterplantsloja.com.br/blogs/novidades/tecnica-scrog-passo-a-passo-para-montar-a-rede-de-sustentacao-e-cobrir-100-da-sua-estufa): Técnica SCROG: Passo a Passo para Cobrir 100% da Estufa
+    Updated: 2026-01-30T15:00:01Z
     Author: Frederico Sabbag
 
 ## Store Pages
