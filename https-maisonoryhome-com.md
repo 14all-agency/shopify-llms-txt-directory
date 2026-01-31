@@ -9,7 +9,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-24T23:43:09Z
 - Contact Email: gotommylee0522@gmail.com
-- Updated At: 2026-01-23T08:09:17.124Z
+- Updated At: 2026-01-31T00:00:34.493Z
 
 ## Products
 
@@ -1927,7 +1927,7 @@
   Updated: 2026-01-18T01:44:35Z
   Total Products: 6572
 - [Spring Refresh - Seasonal Home Decor & Furniture | MaisonoryHome](https://maisonoryhome.com/collections/spring-refresh): Refresh your home for spring with our seasonal decor collection. Light, airy furniture and accessories in fresh colors to brighten your living space this season.
-  Updated: 2026-01-18T15:46:24Z
+  Updated: 2026-01-25T12:17:29Z
   Total Products: 16935
 - [Under $50 - Affordable Home Decor & Furniture | MaisonoryHome](https://maisonoryhome.com/collections/under-50): Shop stylish home decor and furniture under $50. Budget-friendly pieces that don't compromise on quality. Transform your space affordably with MaisonoryHome.
   Updated: 2026-01-18T14:49:23Z
@@ -1957,13 +1957,13 @@
   Updated: 2026-01-18T15:50:51Z
   Total Products: 13693
 - [Sustainable & Natural Materials - Eco-Friendly Furniture | MaisonoryHome](https://maisonoryhome.com/collections/sustainable-natural-materials): Shop sustainable home furniture made from natural, eco-friendly materials. Responsibly sourced pieces that combine environmental consciousness with beautiful design.
-  Updated: 2026-01-18T01:47:35Z
+  Updated: 2026-01-25T12:17:29Z
   Total Products: 10684
 - [Smart Home Accessories - Tech-Integrated Furniture | MaisonoryHome](https://maisonoryhome.com/collections/smart-home-accessories): Discover smart home furniture with built-in charging stations and tech features. Modern, functional pieces designed for connected living and convenience.
   Updated: 2026-01-18T01:47:46Z
   Total Products: 3263
 - [Wellness & Self-Care - Relaxation & Meditation Furniture | MaisonoryHome](https://maisonoryhome.com/collections/wellness-self-care): Create a wellness sanctuary at home with furniture and decor for meditation, yoga, and relaxation. Peaceful pieces designed to nurture your well-being.
-  Updated: 2026-01-18T15:46:24Z
+  Updated: 2026-01-25T12:17:29Z
   Total Products: 17301
 
 ## Blogs
@@ -2467,13 +2467,88 @@
     Updated: 2026-01-22T23:00:02Z
     Author: Hyun Seung Lee
     Tags: curtains, home decor, interior design, window treatments
+  - [2026 Luxury Interior Trends: Elevate Your Space | MaisonoryHome](https://maisonoryhome.com/blogs/news/2026-luxury-interior-trends-elevate-your-space): 2026 Luxury Interior Trends: Elevate Your Space | MaisonoryHome
+    Updated: 2026-01-26T15:00:01Z
+    Author: Hyun Seung Lee
+  - [Creating Warmth: Your Winter Interior Guide | MaisonoryHome](https://maisonoryhome.com/blogs/news/creating-warmth-your-winter-interior-guide): Creating Warmth: Your Winter Interior Guide | MaisonoryHome
+    Updated: 2026-01-26T17:00:01Z
+    Author: Hyun Seung Lee
+  - [Premium Textiles: Upgrade Your Space with Luxury Fabrics | MaisonoryHome](https://maisonoryhome.com/blogs/news/premium-textiles-upgrade-your-space-with-luxury-fabrics): Premium Textiles: Upgrade Your Space with Luxury Fabrics | MaisonoryHome
+    Updated: 2026-01-26T19:00:01Z
+    Author: Hyun Seung Lee
+  - [Transform Your Space with Lighting: A Designer's Guide | MaisonoryHome](https://maisonoryhome.com/blogs/news/transform-your-space-with-lighting-a-designers-guide): Transform Your Space with Lighting: A Designer's Guide | MaisonoryHome
+    Updated: 2026-01-26T21:00:01Z
+    Author: Hyun Seung Lee
+  - [Minimal Luxury: The Art of Sophisticated Simplicity | MaisonoryHome](https://maisonoryhome.com/blogs/news/minimal-luxury-the-art-of-sophisticated-simplicity): Minimal Luxury: The Art of Sophisticated Simplicity | MaisonoryHome
+    Updated: 2026-01-26T23:00:00Z
+    Author: Hyun Seung Lee
+  - [Kitchen Design Essentials: Form Meets Function | MaisonoryHome](https://maisonoryhome.com/blogs/news/kitchen-design-essentials-form-meets-function): Kitchen Design Essentials: Form Meets Function | MaisonoryHome
+    Updated: 2026-01-27T15:00:11Z
+    Author: Hyun Seung Lee
+  - [First Impressions: Designing a Welcoming Entryway | MaisonoryHome](https://maisonoryhome.com/blogs/news/first-impressions-designing-a-welcoming-entryway): First Impressions: Designing a Welcoming Entryway | MaisonoryHome
+    Updated: 2026-01-27T17:00:03Z
+    Author: Hyun Seung Lee
+  - [Creating Your Home Spa: Bathroom Luxury Essentials | MaisonoryHome](https://maisonoryhome.com/blogs/news/creating-your-home-spa-bathroom-luxury-essentials): Creating Your Home Spa: Bathroom Luxury Essentials | MaisonoryHome
+    Updated: 2026-01-27T19:00:01Z
+    Author: Hyun Seung Lee
+  - [Productive Elegance: Designing Your Home Office | MaisonoryHome](https://maisonoryhome.com/blogs/news/productive-elegance-designing-your-home-office): Productive Elegance: Designing Your Home Office | MaisonoryHome
+    Updated: 2026-01-27T21:00:01Z
+    Author: Hyun Seung Lee
+  - [The Art of Entertaining: Dining Room Design | MaisonoryHome](https://maisonoryhome.com/blogs/news/the-art-of-entertaining-dining-room-design): The Art of Entertaining: Dining Room Design | MaisonoryHome
+    Updated: 2026-01-27T23:00:01Z
+    Author: Hyun Seung Lee
+  - [Bedroom Sanctuary: Creating a Restful Retreat | MaisonoryHome](https://maisonoryhome.com/blogs/news/bedroom-sanctuary-creating-a-restful-retreat): Bedroom Sanctuary: Creating a Restful Retreat | MaisonoryHome
+    Updated: 2026-01-28T15:00:04Z
+    Author: Hyun Seung Lee
+  - [Outdoor Living: Extending Your Home Beyond Four Walls | MaisonoryHome](https://maisonoryhome.com/blogs/news/outdoor-living-extending-your-home-beyond-four-walls): Outdoor Living: Extending Your Home Beyond Four Walls | MaisonoryHome
+    Updated: 2026-01-28T17:00:06Z
+    Author: Hyun Seung Lee
+  - [Gallery Walls: Curating Art at Home | MaisonoryHome](https://maisonoryhome.com/blogs/news/gallery-walls-curating-art-at-home): Gallery Walls: Curating Art at Home | MaisonoryHome
+    Updated: 2026-01-28T19:00:02Z
+    Author: Hyun Seung Lee
+  - [Reading Nooks: Creating Cozy Corner Retreats | MaisonoryHome](https://maisonoryhome.com/blogs/news/reading-nooks-creating-cozy-corner-retreats): Reading Nooks: Creating Cozy Corner Retreats | MaisonoryHome
+    Updated: 2026-01-28T23:00:02Z
+    Author: Hyun Seung Lee
+  - [Closet Organization: Creating Luxury Storage Solutions | MaisonoryHome](https://maisonoryhome.com/blogs/news/closet-organization-creating-luxury-storage-solutions): Closet Organization: Creating Luxury Storage Solutions | MaisonoryHome
+    Updated: 2026-01-28T21:00:04Z
+    Author: Hyun Seung Lee
+  - [Sustainable Living: Eco-Friendly Home Design | MaisonoryHome](https://maisonoryhome.com/blogs/news/sustainable-living-eco-friendly-home-design): Sustainable Living: Eco-Friendly Home Design | MaisonoryHome
+    Updated: 2026-01-29T15:00:01Z
+    Author: Hyun Seung Lee
+  - [Small Space Living: Maximizing Style and Function | MaisonoryHome](https://maisonoryhome.com/blogs/news/small-space-living-maximizing-style-and-function): Small Space Living: Maximizing Style and Function | MaisonoryHome
+    Updated: 2026-01-29T17:00:01Z
+    Author: Hyun Seung Lee
+  - [Home Bar Essentials: Entertaining in Style | MaisonoryHome](https://maisonoryhome.com/blogs/news/home-bar-essentials-entertaining-in-style): Home Bar Essentials: Entertaining in Style | MaisonoryHome
+    Updated: 2026-01-29T19:00:01Z
+    Author: Hyun Seung Lee
+  - [Meditation Spaces: Creating Wellness Retreats at Home | MaisonoryHome](https://maisonoryhome.com/blogs/news/meditation-spaces-creating-wellness-retreats-at-home): Meditation Spaces: Creating Wellness Retreats at Home | MaisonoryHome
+    Updated: 2026-01-29T21:00:01Z
+    Author: Hyun Seung Lee
+  - [Mudroom Organization: Creating Functional Family Entryways | MaisonoryHome](https://maisonoryhome.com/blogs/news/mudroom-organization-creating-functional-family-entryways): Mudroom Organization: Creating Functional Family Entryways | MaisonoryHome
+    Updated: 2026-01-29T23:00:02Z
+    Author: Hyun Seung Lee
+  - [Nursery Design: Creating a Serene Space for Baby | MaisonoryHome](https://maisonoryhome.com/blogs/news/nursery-design-creating-a-serene-space-for-baby): Nursery Design: Creating a Serene Space for Baby | MaisonoryHome
+    Updated: 2026-01-30T15:00:06Z
+    Author: Hyun Seung Lee
+  - [Laundry Room Organization: Elevating a Functional Space | MaisonoryHome](https://maisonoryhome.com/blogs/news/laundry-room-organization-elevating-a-functional-space): Laundry Room Organization: Elevating a Functional Space | MaisonoryHome
+    Updated: 2026-01-30T17:00:03Z
+    Author: Hyun Seung Lee
+  - [Powder Room Design: Making a Bold Statement in Small Spaces | MaisonoryHome](https://maisonoryhome.com/blogs/news/powder-room-design-making-a-bold-statement-in-small-spaces): Powder Room Design: Making a Bold Statement in Small Spaces | MaisonoryHome
+    Updated: 2026-01-30T19:00:01Z
+    Author: Hyun Seung Lee
+  - [Pet-Friendly Interiors: Stylish Living with Furry Family Members | MaisonoryHome](https://maisonoryhome.com/blogs/news/pet-friendly-interiors-stylish-living-with-furry-family-members): Pet-Friendly Interiors: Stylish Living with Furry Family Members | MaisonoryHome
+    Updated: 2026-01-30T21:00:02Z
+    Author: Hyun Seung Lee
+  - [Foyer Design: Crafting Memorable First Impressions | MaisonoryHome](https://maisonoryhome.com/blogs/news/foyer-design-crafting-memorable-first-impressions): Foyer Design: Crafting Memorable First Impressions | MaisonoryHome
+    Updated: 2026-01-30T23:00:01Z
+    Author: Hyun Seung Lee
 
 ## Store Pages
 
 - [Contact](https://maisonoryhome.com/pages/contact): Have a question? We’re here to help.For all inquiries about your order, shipping, returns, or product information, feel free to reach out anytime.O...
   Updated: 2025-11-20T18:47:10Z
 - [Your Privacy Choices](https://maisonoryhome.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-01T08:00:59Z
+  Updated: 2026-01-28T16:44:12Z
 - [The Story of MaisonoryHome](https://maisonoryhome.com/pages/the-story-of-maisonoryhome): At MaisonoryHome, we don’t just  decor. We help you shape the environment where your memories are made, your mornings begin, and your evenings ...
   Updated: 2025-08-04T09:33:29Z
 - [Contact Information](https://maisonoryhome.com/pages/contact-information): Trade name:MaisonoryHome Email: gotommylee0522@gmail.com
