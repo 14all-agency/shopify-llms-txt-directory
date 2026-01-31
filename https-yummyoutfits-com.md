@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-11T08:35:09Z
 - Contact Email: myfunoutfits@yahoo.com
-- Updated At: 2026-01-24T00:00:32.504Z
+- Updated At: 2026-01-31T00:00:36.244Z
 
 ## Products
 
@@ -3122,13 +3122,22 @@
   - [How to Match Your Mugs with Food Prints to Your Kitchen Decor](https://yummyoutfits.com/blogs/news/how-to-match-your-mugs-with-food-prints-to-your-kitchen-decor): How to Match Your Mugs with Food Prints to Your Kitchen Decor
     Updated: 2026-01-22T10:08:59Z
     Author: yummyoutfits
+  - [5 Ways Sweatshirts with Food Graphics Are Redefining Casual Style](https://yummyoutfits.com/blogs/news/5-ways-sweatshirts-with-food-graphics-are-redefining-casual-style): 5 Ways Sweatshirts with Food Graphics Are Redefining Casual Style
+    Updated: 2026-01-27T10:03:18Z
+    Author: yummyoutfits
+  - [The Top 10 Trending Hoodies with Food Art for the Season](https://yummyoutfits.com/blogs/news/the-top-10-trending-hoodies-with-food-art-for-the-season): The Top 10 Trending Hoodies with Food Art for the Season
+    Updated: 2026-01-28T10:09:05Z
+    Author: yummyoutfits
+  - [Why T Shirts with Food Icons Make the Perfect Casual Friday Staple](https://yummyoutfits.com/blogs/news/why-t-shirts-with-food-icons-make-the-perfect-casual-friday-staple): Why T Shirts with Food Icons Make the Perfect Casual Friday Staple
+    Updated: 2026-01-29T10:06:41Z
+    Author: yummyoutfits
 
 ## Store Pages
 
 - [Contact](https://yummyoutfits.com/pages/contact)
   Updated: 2025-07-11T08:35:11Z
 - [Your Privacy Choices](https://yummyoutfits.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-11T08:35:20Z
+  Updated: 2026-01-28T17:26:35Z
 - [Our Story](https://yummyoutfits.com/pages/our-story)
   Updated: 2025-07-12T13:35:42Z
 - [Contact Us](https://yummyoutfits.com/pages/contact-us)
