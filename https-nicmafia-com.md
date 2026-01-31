@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-09-09T19:14:08Z
 - Contact Email: info@nicmafia.com
-- Updated At: 2026-01-21T16:45:08.613Z
+- Updated At: 2026-01-31T00:00:38.481Z
 
 # NicMafia.com
 
@@ -156,7 +156,7 @@ This site sells age-restricted products (21+). Information provided here is for 
     Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Smok_Novo_Pro_Device_SilverCarbonFiber.jpg?v=1725992372
     Price: $29.95 USD
 - [Vaporesso XROS Pro Pod System - 1200mAh Battery](https://nicmafia.com/products/vaporesso-xros-pro-pod): Discover the Vaporesso XROS Pro Pod System with a 1200mAh battery, quick Type-C charging, and dual activation modes. Compatible with XROS Pods.
-  Updated: 2025-12-02T00:53:30Z
+  Updated: 2026-01-28T19:47:52Z
   Vendor: Vaporesso
   Product Type: Disposable vapes
   Availability: Available
@@ -277,7 +277,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Fume_Infinity_MiamiMix_Disposable_Vape_1.png?v=1725992420
   Price: $17.95 USD
 - [SMOK Propod 22W Pod Kit | Durable, High-Performance Vape](https://nicmafia.com/products/smok-propod-22w-pod-kit): Shop the SMOK Propod 22W Pod Kit with an 800mAh battery, 22W output, and durable zinc-alloy construction. Features top-fill Novo 2X Pods and dual firing modes.
-  Updated: 2025-08-19T02:01:43Z
+  Updated: 2026-01-28T19:47:20Z
   Vendor: Smok
   Product Type: Disposable vapes
   Availability: Available
@@ -307,7 +307,7 @@ This site sells age-restricted products (21+). Information provided here is for 
     Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Smok_ProPod_Devices_Pink.jpg?v=1725992431
     Price: $23.95 USD
 - [Vaporesso XROS 2 16W Pod System | Slim & Powerful Vape](https://nicmafia.com/products/vaporesso-xros-2-16w-pod-system): Discover the Vaporesso XROS 2 with a 1000mAh battery, dual firing modes, and Mesh and Regular Pod compatibility. Perfect for on-the-go vaping.
-  Updated: 2026-01-13T08:57:26Z
+  Updated: 2026-01-28T19:47:10Z
   Vendor: Vaporesso
   Product Type: Disposable vapes
   Availability: Available
@@ -341,7 +341,7 @@ This site sells age-restricted products (21+). Information provided here is for 
     Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Vaporesso_Xros2_KIT_Devices_OrangeRed.jpg?v=1725992444
     Price: $30.95 USD
 - [Geek Vape WENAX K1 | 16W Compact Pod System](https://nicmafia.com/products/geek-vape-wenax-k1): Experience the Geek Vape WENAX K1 with a 600mAh battery, 16W output, and 2mL refillable pod. Lightweight design and enhanced flavor.
-  Updated: 2025-05-29T04:32:56Z
+  Updated: 2026-01-28T19:46:18Z
   Vendor: Geek Vape
   Product Type: Disposable vapes
   Availability: Available
@@ -363,7 +363,7 @@ This site sells age-restricted products (21+). Information provided here is for 
     Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/GeekVape_Wenax_K1_Devices_Blue.jpg?v=1725992452
     Price: $25.95 USD
 - [SMOK NOVO 4 Mini 25W Kit | Compact and Powerful](https://nicmafia.com/products/smok-novo-4-mini-25w-kit): Discover the SMOK NOVO 4 Mini 25W Kit with a 900mAh battery, adjustable airflow, and 2mL capacity. Enjoy enhanced vapor and flavor with the compact NOVO Mini 4.
-  Updated: 2026-01-01T02:14:08Z
+  Updated: 2026-01-28T19:45:41Z
   Vendor: Smok
   Product Type: Disposable vapes
   Availability: Available
@@ -461,7 +461,7 @@ This site sells age-restricted products (21+). Information provided here is for 
     Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Smok_Novo2S_Device_BlackArmor.jpg?v=1725992492
     Price: $27.95 USD
 - [Geek Vape Sonder U Pod System with 1000mAh Battery](https://nicmafia.com/products/geek-vape-sonder-u-pod-system): Discover the Geek Bar Sonder U vape with a 1000mAh battery, 2mL pod capacity, and 0.7ohm coil. Durable and portable, it's perfect for on-the-go vaping.
-  Updated: 2025-05-19T05:19:44Z
+  Updated: 2026-01-25T09:49:56Z
   Vendor: Geek Vape
   Product Type: Disposable vapes
   Availability: Available
@@ -483,7 +483,7 @@ This site sells age-restricted products (21+). Information provided here is for 
     Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/GeekBar_Device_SonderU_WineRed.jpg?v=1725992502
     Price: $14.95 USD
 - [SMOK Vape Pen V2 Kit with 1600mAh Battery](https://nicmafia.com/products/smok-vape-pen-v2-60w-kit): Discover the SMOK Vape Pen V2, an all-in-one kit with 1600mAh battery, 3mL tank capacity, and Vape Pen V2 Mesh Coil compatibility.
-  Updated: 2025-05-30T03:52:30Z
+  Updated: 2026-01-28T19:45:01Z
   Vendor: Smok
   Product Type: Disposable vapes
   Availability: Available
@@ -585,14 +585,14 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Geek_Bar_Pulse_PatriotEdition_WatermelonIce.png?v=1725992540
   Price: $33.95 USD
 - [Miami Mint - Geek Bar Pulse X 25K (Patriot Edition)](https://nicmafia.com/products/miami-mint-geek-bar-pulse-x-25k-patriot-edition): Discover the Geek Bar Pulse X Patriot Edition in Miami Mint flavor. Enjoy up to 25,000 puffs with 18mL e-liquid and 5% nicotine concentration.
-  Updated: 2026-01-14T15:49:20Z
+  Updated: 2026-01-28T19:43:44Z
   Vendor: Geek Bar
   Product Type: Disposable vapes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Geek_Bar_Pulse_PatriotEdition_MiamiMint.png?v=1725992542
   Price: $24.95 USD
 - [SMOK RPM 25W Pod System with 900mAh Battery](https://nicmafia.com/products/smok-rpm-25w-pod-system): Discover the SMOK RPM 25W with a 900mAh battery, 5-25W output, and LP1 coil support. Enjoy adjustable airflow, Type-C charging, and excellent vapor and flavor.
-  Updated: 2025-07-28T23:32:23Z
+  Updated: 2026-01-28T19:42:54Z
   Vendor: Smok
   Product Type: Disposable vapes
   Availability: Available
@@ -889,7 +889,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/LostMary_BerryPassionFruitGrape__Disposable_Vape_1.png?v=1725992658
   Price: $15.95 USD
 - [Strawberry Lemonade - Lost Mary OS5000 Disposable Vape](https://nicmafia.com/products/strawberry-lemonade-lost-mary-os5000): Indulge in sweet strawberries and refreshing iced lemonade with the Lost Mary OS5000. Perfectly balanced for a summer vape experience.
-  Updated: 2025-11-27T12:04:18Z
+  Updated: 2026-01-28T19:42:13Z
   Vendor: Lost Mary
   Product Type: Disposable vapes
   Availability: Available
@@ -994,7 +994,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/HQD_CuvieX_Disposable_Vape_BlueRaspberryGrape.jpg?v=1725992748
   Price: $19.95 USD
 - [Black Dragonfruit - HQD CUVIE X 25K Vape](https://nicmafia.com/products/black-dragonfruit-hqd-cuvie-x): Experience the exotic flavor of black dragonfruit with a hint of sweetness in HQD Cuvie X Black Dragonfruit. With 25,000 puffs and three dynamic modes.
-  Updated: 2025-09-23T01:29:12Z
+  Updated: 2026-01-23T03:08:24Z
   Vendor: HQD
   Product Type: Disposable vapes
   Availability: Available
@@ -1120,7 +1120,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Geek_Pulsex25K_Disposable_Vape_StrawberryB-Pop.jpg?v=1725992828
   Price: $24.95 USD
 - [Sour Fcuking FAB - Geek Bar Pulse X 25K Vape](https://nicmafia.com/products/sour-fcuking-fab-geek-bar-pulse-x-25k): Experience bold, sour intensity with 15,000 puffs in Pulse Mode and 25,000 puffs in Regular Mode. Customize your vape with a 3D screen.
-  Updated: 2026-01-14T15:49:18Z
+  Updated: 2026-01-26T12:51:51Z
   Vendor: Geek Bar
   Product Type: Disposable vapes
   Availability: Available
@@ -1176,7 +1176,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Geek_Pulsex25K_Disposable_Vape_BlueRazzIce.jpg?v=1725992851
   Price: $24.95 USD
 - [Banana Taffy Freeze - Geek Bar Pulse X 25K Vape](https://nicmafia.com/products/banana-taffy-freeze-geek-bar-pulse-x-25k): Enjoy sweet banana taffy and ice with 15,000 puffs in Pulse Mode, 25,000 in Regular Mode. 3D screen shows battery, eJuice, and power settings. Try now!
-  Updated: 2026-01-14T15:49:18Z
+  Updated: 2026-01-23T21:52:37Z
   Vendor: Geek Bar
   Product Type: Disposable vapes
   Availability: Available
@@ -1218,7 +1218,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Speceman_Prism25k_Disposable_Vape_PrismMint.png?v=1725992866
   Price: $18.95 USD
 - [Pineapple Watermelon - Spaceman Prism 20K Disposable Vape](https://nicmafia.com/products/pineapple-watermelon-spaceman-prism-20k): Enjoy juicy pineapple and watermelon flavors with adjustable power modes: Soft (15W), Norm (18W), Boost (20W). Refresh your vape today!
-  Updated: 2025-11-25T05:05:46Z
+  Updated: 2026-01-28T19:41:57Z
   Vendor: Spaceman
   Product Type: Disposable vapes
   Availability: Available
@@ -1330,7 +1330,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Smok_PrivBar_Turbo_Disposable_Vape_StrawberryMintCandy.png?v=1725992911
   Price: $15.95 USD
 - [Raspberry Pomegranate - Priv Bar Vape Turbo](https://nicmafia.com/products/raspberry-pomegranate-priv-bar-turbo): Tangy raspberries meet luscious pomegranate in the Raspberry Pomegranate Priv Bar Turbo, offering up to 10,000 puffs in Turbo Mode or 15,000 puffs in standard mode.
-  Updated: 2025-10-19T07:08:39Z
+  Updated: 2026-01-28T19:41:42Z
   Vendor: Priv Bar
   Product Type: Disposable vapes
   Availability: Available
@@ -1365,7 +1365,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Smok_PrivBar_Turbo_Disposable_Vape_FloridaLemonade.png?v=1725992926
   Price: $15.95 USD
 - [DR.Cherry - Priv Bar Vape Turbo](https://nicmafia.com/products/dr-cherry-priv-bar-turbo): Enjoy up to 15,000 puffs of uniquely authentic black cherry cola flavor with Dr. Cherry Priv Bar Turbo.
-  Updated: 2025-12-28T07:58:26Z
+  Updated: 2026-01-29T17:51:22Z
   Vendor: Priv Bar
   Product Type: Disposable vapes
   Availability: Available
@@ -1477,7 +1477,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Equator_EQ30000_Disposable_Vape_CherryLemon.jpg?v=1725992972
   Price: $19.95 USD
 - [Blue Razz - Equator EQ30000 Disposable Vape](https://nicmafia.com/products/blue-razz-equator-eq30000-vape): Enjoy the tangy blend of raspberry and blueberry with the EQ30000 Equator Vape. Triple tanks, mesh coils, and 30,000 puffs of Blue Razz delight.
-  Updated: 2025-05-19T05:20:03Z
+  Updated: 2026-01-26T09:49:51Z
   Vendor: Equator
   Product Type: Disposable vapes
   Availability: Available
@@ -1512,7 +1512,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Chris_Brown_CB15K_Disposable_Vape_StrawberryWhip.jpg?v=1725992986
   Price: $10.95 USD
 - [Strawberry Watermelon - Chris Brown x CB15K Disposable Vape](https://nicmafia.com/products/strawberry-watermelon-chris-brown-x-cb15k): Experience the delicious fusion of Strawberry Watermelon with the Chris Brown CB15K Vape. Enjoy up to 15,000 puffs of sweet satisfaction
-  Updated: 2025-11-12T23:11:30Z
+  Updated: 2026-01-27T02:06:51Z
   Vendor: Chris Brown
   Product Type: Disposable vapes
   Availability: Available
@@ -1589,7 +1589,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Chris_Brown_CB15K_Disposable_Vape_GeorgianPeach.jpg?v=1725993014
   Price: $10.95 USD
 - [Dragon Fruit Lemonade - Chris Brown x CB15K Disposable Vape](https://nicmafia.com/products/dragon-fruit-lemonade-chris-brown-x-cb15k): Experience the invigorating Dragon Fruit Lemonade flavor with Chris Brown CB15K Vape. Enjoy up to 15,000 puffs and a 15ml e-liquid reservoir.
-  Updated: 2026-01-02T19:22:22Z
+  Updated: 2026-01-27T02:06:51Z
   Vendor: Chris Brown
   Product Type: Disposable vapes
   Availability: Available
@@ -1603,14 +1603,14 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Chris_Brown_CB15K_Disposable_Vape_CoolMint.jpg?v=1725993020
   Price: $10.95 USD
 - [Cherry Lemon - Chris Brown x CB15K Disposable Vape](https://nicmafia.com/products/cherry-lemon-chris-brown-x-cb15k): Discover the classic taste of Cherry Lemon with the Chris Brown CB15K Vape. Enjoy up to 15,000 puffs and a 15ml e-liquid reservoir for long-lasting satisfaction.
-  Updated: 2025-11-10T21:19:40Z
+  Updated: 2026-01-27T02:06:51Z
   Vendor: Chris Brown
   Product Type: Disposable vapes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Chris_Brown_CB15K_Disposable_Vape_CherryLemon.jpg?v=1725993024
   Price: $10.95 USD
 - [Cherry Cola - Chris Brown x CB15K Disposable Vape](https://nicmafia.com/products/cherry-cola-chris-brown-x-cb15k): Discover the classic taste of Cherry Cola with the Chris Brown CB15K Vape. Enjoy up to 15,000 puffs and a 15ml e-liquid reservoir for long-lasting satisfaction.
-  Updated: 2025-11-10T21:19:40Z
+  Updated: 2026-01-27T02:06:51Z
   Vendor: Chris Brown
   Product Type: Disposable vapes
   Availability: Available
@@ -1638,7 +1638,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Image: https://cdn.shopify.com/s/files/1/0626/3055/9786/files/Chris_Brown_CB15K_Disposable_Vape_BlueberryWatermelon.jpg?v=1725993036
   Price: $10.95 USD
 - [Apple Gummies - Chris Brown x CB15K Disposable Vape](https://nicmafia.com/products/apple-gummies-chris-brown-x-cb15k): Enjoy sweet Apple Gummies flavor with the Chris Brown CB15K Vape. 15,000 puffs, wireless charging, and rechargeable battery for ultimate convenience.
-  Updated: 2025-11-10T21:19:39Z
+  Updated: 2026-01-27T02:06:51Z
   Vendor: Chris Brown
   Product Type: Disposable vapes
   Availability: Available
@@ -1825,14 +1825,14 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-05-19T05:19:42Z
   Total Products: 0
 - [NicMafia - New Arrivals](https://nicmafia.com/collections/new-arrivals): Do you dare to taste our latest hand-picked disposable vape flavors? There’s a high chance you might find your new favorite disposable within this curated catalog.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 2849
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 2869
 - [Shop All Vapes | Full NicMafia Catalog of Top Brands](https://nicmafia.com/collections/shop-all): Browse every vape available at NicMafia — disposable vapes, top brands, strong hits, and great flavors. Fast shipping on all $50+ orders.
-  Updated: 2026-01-21T15:45:56Z
-  Total Products: 2849
+  Updated: 2026-01-30T16:26:34Z
+  Total Products: 2869
 - [Best- Disposable Vapes | Top Picks From NicMafia](https://nicmafia.com/collections/best-sellers): What are the best- disposable vapes on the market? There are many great disposable vapes on the market, but some of the most popular brands include: Fume Dummy vapes Raz vapes Geek Bar Fire XL6000 Fire Boost HQD How do you choose the right best-seller disposable vape? When choosing a best-seller disposable vape, there are a few factors to consider: Flavor: Choose a flavor that you enjoy and that is appropriate for your taste preferences. Nicotine strength: Disposable vapes come in a variety of nicotine strengths, so choose one that is appropriate for your needs. Puff count: Disposable vapes have a different puff count, so choose one that will last you long enough. Price: Disposable vapes vary in price, so choose one that fits your budget. Tips for getting the most out of your best-seller disposable vape Here are a few tips for getting the most out of your disposable vape: Store the disposable vape in a cool, dry place. Avoid exposing the disposable vape to extreme temperatures. Take short, shallow puffs to prevent the coil from burning out. If the disposable vape starts to taste burnt, stop using it and replace it with a new one.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 2849
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 2869
 - [E-Liquids with Premium E-Juice](https://nicmafia.com/collections/e-liquids): Shop the widest selection of USA-made e-liquids with customizable flavors, nicotine strengths, and bottle sizes. Enjoy fast shipping and a satisfaction guarantee on every order.
   Updated: 2026-01-02T00:44:19Z
   Total Products: 453
@@ -1840,10 +1840,10 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-04T12:13:58Z
   Total Products: 12
 - [CZAR Vape: Premium Vape | NicMafia](https://nicmafia.com/collections/czar-vape): Explore CZAR Vape's collection of premium disposable devices, including the CZ9000 and CX15000 models. Enjoy free shipping on all your orders!
-  Updated: 2025-07-21T16:05:36Z
+  Updated: 2026-01-28T19:40:34Z
   Total Products: 30
 - [Chris Brown CB15K Disposable Vape](https://nicmafia.com/collections/chris-brown-cb15k-vape): Elevate your vaping with CB15K x Chris Brown. Enjoy 15,000 puffs of premium flavor. Choose satisfaction, choose CB15K. Enjoy free shipping!
-  Updated: 2026-01-04T10:41:04Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 21
 - [Dummy vapes 8000 Puffs Disposable](https://nicmafia.com/collections/dummy-vapes): Featuring dual mesh coils, 18ml e-liquid capacity, 5% nicotine strength, and a 650mAh rechargeable battery. Get Dummy Vapes with 8,000 puffs each.
   Updated: 2025-11-15T16:06:57Z
@@ -1861,8 +1861,8 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-09T18:39:49Z
   Total Products: 47
 - [NicMafia Vape Picks | Curated Disposable Vapes & Top Flavor Choices](https://nicmafia.com/collections/nic-mafia-picks): Our handpicked selection of disposable vapes with strong hits, great flavor profiles, and reliable performance. These are the NicMafia favorites.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 2849
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 2869
 - [Fume Eternity: 20,000 Puff Premium Disposable Vape](https://nicmafia.com/collections/fume-eternity-disposable-vape): Experience convenience and precision with Fume Eternity. Explore 20000 puffs and advanced monitoring.Enjoy free shipping on orders over $50.
   Updated: 2025-05-19T05:19:43Z
   Total Products: 0
@@ -1882,13 +1882,13 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-09T16:24:47Z
   Total Products: 36
 - [Budget-Friendly Disposable Vapes for Every Wallet | NicMafia](https://nicmafia.com/collections/cheapest-disposable-vapes): If you're looking for some of the cheapest disposable vapes, this page showcases all of the most affordable options at $11 or under.
-  Updated: 2026-01-20T20:46:38Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 1125
 - [Chris Brown CB15K Disposables | NicMafia](https://nicmafia.com/collections/chris-brown-cb15k-vape-1): Elevate your vaping with CB15K x Chris Brown. Enjoy 15,000 puffs of premium flavor. Choose satisfaction, choose CB15K. Enjoy free shipping!
-  Updated: 2026-01-03T12:14:58Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 21
 - [Citrus Flavored Disposable Vapes | NicMafia](https://nicmafia.com/collections/citrus-flavored-disposable-vapes): Enjoy the zing of tantalizing citrus flavors with our range of sweet and sour disposable vapes. NicMafia offers a wide range of citrus-flavored vapes to suit your tastebuds.
-  Updated: 2025-12-16T12:15:20Z
+  Updated: 2026-01-22T12:14:50Z
   Total Products: 43
 - [Cloud Nurdz E-Liquid | NicMafia](https://nicmafia.com/collections/cloud-nurdz-e-liquid): Discover the bold and vibrant flavors of Cloud Nurdz e-liquids, where fruity and candy-inspired blends collide for an unforgettable vaping experience.
   Updated: 2025-05-19T05:19:44Z
@@ -1897,16 +1897,16 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-08-31T11:15:51Z
   Total Products: 24
 - [CZAR CX15000 Disposable Vape | NicMafia](https://nicmafia.com/collections/czar-cx15000): Enjoy free shipping on CZAR CX15000 Disposable Vapes at NicMafia. Explore our range of flavors and experience premium vaping today!
-  Updated: 2025-06-17T20:45:33Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 15
 - [CZAR CZ9000 - Shop all flavors | NicMafia](https://nicmafia.com/collections/czar-cz9000-vape): Explore the CZAR CZ9000 for top-notch vaping. Enjoy 17mL e-liquid, 600mAh battery, various flavors, and get it shipped for free!
   Updated: 2025-05-27T06:20:13Z
   Total Products: 15
 - [CZAR Vape: Premium Vape | NicMafia](https://nicmafia.com/collections/czar-vape-1): Explore CZAR Vape's collection of premium disposable devices, including the CZ9000 and CX15000 models. Enjoy free shipping on all your orders!
-  Updated: 2025-06-17T20:45:33Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 30
 - [Dessert Flavored Disposable Vapes | NicMafia](https://nicmafia.com/collections/dessert-flavored-disposable-vapes): Sweet and savory desserts are available in a variety of flavors. Check out our full range available on NicMafia.
-  Updated: 2026-01-14T12:14:18Z
+  Updated: 2026-01-28T12:13:07Z
   Total Products: 23
 - [Digiflavor X Geek Bar Lush 20k](https://nicmafia.com/collections/geek-bar-digiflavor-lush-disposable): Discover the ultimate vaping experience with Geek Bar DC25000 Disposable Vape. Up to 25,000 puffs, diverse flavors, and free shipping. Shop now!
   Updated: 2025-05-19T05:19:44Z
@@ -1915,8 +1915,8 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-09T12:15:10Z
   Total Products: 11
 - [Disposable Vapes | Catalog of TOP Brands at NicMafia](https://nicmafia.com/collections/all-disposable-vapes): Find all the different brands and flavors from the most popular Disposable vape brands and enjoy FAST and FREE shipping on every order $50+
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 2367
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 2387
 - [Dummy Classic Disposable Vapes by 6ix9ine | Premium Flavors](https://nicmafia.com/collections/dummy-classic-vapes): Explore 6ix9ine’s Dummy Classic Vapes! Over 9 premium flavors, 8000 puffs, and 5% nicotine. Stylish, rechargeable, and bold. Dive into supreme vaping!
   Updated: 2025-11-14T12:16:15Z
   Total Products: 10
@@ -1936,10 +1936,10 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-10-24T11:13:48Z
   Total Products: 15
 - [Fire Vape: Premium Disposable Vaping Solutions](https://nicmafia.com/collections/fire-disposable-vape): Explore Fire Vape's premium disposable vape collection, featuring Fire XL and Fire Boots. Elevate your vaping experience today!
-  Updated: 2026-01-18T12:15:20Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 41
 - [Fire XL 6000 Disposable Vapes | NicMafia](https://nicmafia.com/collections/fire-xl-6000): Fire XL 6000 Disposable Vapes are the perfect choice for vapers who want a delicious, satisfying experience without the hassle of refilling or recharging.
-  Updated: 2026-01-18T12:15:20Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 26
 - [Frozen Fruit Monster - E-Liquid Collection](https://nicmafia.com/collections/frozen-fruit-monster): Frozen Fruit Monster delivers a refreshing blast of icy fruit flavors in every puff. Explore a chilling fusion of succulent fruits infused with a frosty finish.
   Updated: 2025-05-19T05:19:44Z
@@ -1948,44 +1948,44 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-11-28T12:15:48Z
   Total Products: 9
 - [Fruity Flavored Disposable Vapes | NicMafia](https://nicmafia.com/collections/fruity-flavored-disposable-vapes): Prefer a fruity vape juice for your vape devices? Check out our whole range of fruity-flavored disposable vapes from a variety of top-rated brands.
-  Updated: 2026-01-13T12:13:14Z
+  Updated: 2026-01-22T12:14:50Z
   Total Products: 77
 - [Disposable Fume Vapes +100 Flavors – NicMafia](https://nicmafia.com/collections/fume-disposables): Disposable Fume Vapes are ideal for both beginners and regular users, with a range of models including Fume Mini, Extra, Ultra, Infinity, and Unlimited.
-  Updated: 2026-01-21T12:14:27Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 240
 - [Fume Eternity: 20,000 Puff Premium Disposable Vape](https://nicmafia.com/collections/fume-eternity-disposable-vape-1): Experience convenience and precision with Fume Eternity. Explore 20000 puffs and advanced monitoring.Enjoy free shipping on orders over $50.
   Updated: 2025-05-19T05:19:45Z
   Total Products: 0
 - [Best Fume Infinity Disposable Vape | Long-Lasting Vapes at NicMafia](https://nicmafia.com/collections/fume-infinity): the Fume Infinity offers options to suit every palate, from the robust notes of Coffee Tobacco to the tantalizing blend of Strawberry Mango.
-  Updated: 2026-01-13T12:13:14Z
+  Updated: 2026-01-24T12:13:08Z
   Total Products: 41
 - [Fume Mini Disposable Vape Collection | NicMafia](https://nicmafia.com/collections/fume-mini): Explore the all-new Fume Mini disposable vape Collection. Fume smallest vape from their entire lineup. Offering up to 1000 puffs on every device!
   Updated: 2025-11-22T12:14:24Z
   Total Products: 13
 - [Fume Recharge - 22 Flavors & Free Shipping](https://nicmafia.com/collections/fume-recharge-vapes): Fume recharge vapes are an excellent choice for both beginners and regular users, providing a variety of flavors.
-  Updated: 2026-01-09T16:19:29Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 23
 - [Fume Recharge Zero](https://nicmafia.com/collections/fume-recharge-zero): Discover the full range of Fume Recharge Zero nicotine disposable vape flavors and enjoy quick shipping on every order!
   Updated: 2025-11-10T20:47:16Z
   Total Products: 20
 - [Fume Ultra Disposable Vapes](https://nicmafia.com/collections/fume-ultra): Try the incredible Fume Ultra disposable vape and get quick free shipping on all orders. Pick from 35+ flavors!
-  Updated: 2026-01-09T12:15:10Z
+  Updated: 2026-01-22T12:14:50Z
   Total Products: 38
 - [Fume Unlimited Disposable Vapes](https://nicmafia.com/collections/fume-unlimited): Discover the Fume Unlimited 7000 puffs vape devices. Indulge in more than 25 different flavors of prefilled e-liquid disposable vapes.
   Updated: 2025-05-19T05:19:45Z
   Total Products: 0
 - [Geek Bar Vapes](https://nicmafia.com/collections/geek-bar): Shop Geek Bar Pulse disposable vapes. Up to 15,000 puffs, dual modes (Regular/Pulse), 16ml capacity, digital display. Geek Bar Pulse price from $18.99.
-  Updated: 2026-01-10T12:14:14Z
-  Total Products: 128
+  Updated: 2026-01-30T12:13:55Z
+  Total Products: 135
 - [Geek Bar Pulse Frozen Edition with Free Shipping – NicMafia](https://nicmafia.com/collections/geek-bar-frozen-edition): Discover Geek Bar Pulse Frozen Edition flavors like Frozen Strawberry and Frozen Pina Colada. Order now from NicMafia and enjoy free shipping!
-  Updated: 2026-01-10T12:14:14Z
+  Updated: 2026-01-23T12:14:11Z
   Total Products: 6
 - [Geek Bar Pulse Disposable Vape 7500 Puffs – NicMafia](https://nicmafia.com/collections/geek-bar-pulse): A fusion of technology and flavor in NicMafia. Enjoy up to 15,000 puffs with dual power modes and many rich flavors.
-  Updated: 2026-01-10T12:14:14Z
+  Updated: 2026-01-30T12:13:55Z
   Total Products: 41
 - [Geek Bar Pulse x 25k Disposable Vape](https://nicmafia.com/collections/geek-bar-pulse-x-25k): Discover the Geek Bar Pulse X 25000, featuring dual modes, First 3D curved screen, and long-lasting battery. Experience vaping excellence today.
-  Updated: 2026-01-08T20:46:47Z
-  Total Products: 36
+  Updated: 2026-01-27T12:11:15Z
+  Total Products: 42
 - [Geek Bar Pulse X Patriot Edition 2500 Puffs – NicMafia](https://nicmafia.com/collections/geek-bar-pulse-x-patriot-edition): Explore the Geek Bar Pulse X Patriot Edition with 2500 puffs, dual vaping modes, and a 3D curved screen, available now at NicMafia.
   Updated: 2026-01-08T20:46:47Z
   Total Products: 3
@@ -2008,34 +2008,34 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-11-27T12:15:28Z
   Total Products: 15
 - [HQD Disposable Vapes Collection | NicMafia Premium Vapes](https://nicmafia.com/collections/hqd-disposables): Explore the premium vaping experience with our range of HQD disposable vapes. Whether you prefer fruity or menthol flavors, our variety caters to all preferences!
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 191
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 205
 - [HQD Cuvie Vapes | 20+ Flavors in a Slim Disposable Device](https://nicmafia.com/collections/hqd-cuvie): Explore HQD Cuvie 800 puffs device. Super slim and practical disposable vape device. Over 20 different flavors to choose from. Fast SHIPPING!
   Updated: 2025-12-02T03:03:04Z
   Total Products: 15
 - [HQD Cuvie Air 4000: Big Flavor, Compact Size](https://nicmafia.com/collections/hqd-cuvie-air): Counting with a strong performance and rich puffs in a compact design. Cuvie Air makes it easy to vape on the go.
-  Updated: 2026-01-17T12:14:01Z
+  Updated: 2026-01-28T12:13:07Z
   Total Products: 18
 - [HQD Cuvie Ba:  7000 Puffs Disposable Vape](https://nicmafia.com/collections/hqd-cuvie-bar): Shop HQD Cuvie Bar 7000 puff disposable vapes. Draw-activated, USB-C rechargeable. Flavors: Cool Mint, Black Ice, Lush Ice & more. Free shipping $50+.
-  Updated: 2026-01-09T16:27:50Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 28
 - [HQD Cuvie Glaze 15000, Bold Flavor, Smart Design](https://nicmafia.com/collections/hqd-cuvie-glaze-vape): A high-puff disposable with rich flavors, mesh coil tech, and style. See why it’s a fan favorite.
   Updated: 2026-01-18T12:15:20Z
   Total Products: 9
 - [HQD Cuvie Mars - 8,000 Puffs Disposable Vapes](https://nicmafia.com/collections/hqd-cuvie-mars-vapes): This HQD Cuvie Mars comes with a rechargeable 650mAh USB-C battery and 18mL of delicious e-liquid. Discover more than 15 different flavors!
-  Updated: 2026-01-10T12:14:14Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 18
 - [HQD Cuvie Plus Vapes Collection: Compact, Flavorful & Reliable](https://nicmafia.com/collections/hqd-cuvie-plus): Discover the lineup of HQD Cuvie Plus devices. Great flavor options and steady vapor output.
-  Updated: 2026-01-14T12:14:18Z
+  Updated: 2026-01-28T12:13:07Z
   Total Products: 50
 - [HQD Cuvie Plus 2.0 - 9,000 Puffs Disposable](https://nicmafia.com/collections/hqd-cuvie-plus-2-0): Experience convenience and flavor with HQD Cuvie Plus 2.0. Enjoy a user-friendly design, extended pleasure, and premium flavors in a sleek, portable package.
-  Updated: 2025-10-12T11:15:29Z
+  Updated: 2026-01-30T12:13:55Z
   Total Products: 27
 - [HQD Cuvie X 25000 Puff Collection](https://nicmafia.com/collections/hqd-cuvie-x): A look at the specs, design, and high puff count of this long-lasting disposable.
-  Updated: 2025-12-23T12:15:47Z
+  Updated: 2026-01-23T12:14:11Z
   Total Products: 16
 - [Ice Flavored Disposable Vapes | NicMafia](https://nicmafia.com/collections/ice-flavored-disposable-vapes): Transform your vaping experience with an icy kick. These ice-flavored disposable vapes are a perfect alternative to those familiar with menthol cigarettes.
-  Updated: 2026-01-13T12:13:14Z
+  Updated: 2026-01-24T12:13:08Z
   Total Products: 117
 - [Innevape E-Liquids: Unique Flavors | NicMafia](https://nicmafia.com/collections/innevape-e-liquid): Explore Innevape E-Liquids' innovative flavors like Heisenberg and Carousel. Our collection promises a journey of taste and quality in every 75mL bottle.
   Updated: 2025-11-21T12:14:32Z
@@ -2050,13 +2050,13 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-12-28T12:14:29Z
   Total Products: 41
 - [Juicy Bar JB5000](https://nicmafia.com/collections/juicy-bar-jb5000-disposable-vape): Discover convenience and flavor with Juicy Bar JB5000. Explore 5000 puffs, 26 delicious flavors, and 50mg nicotine strength.
-  Updated: 2026-01-20T12:14:22Z
+  Updated: 2026-01-29T12:13:50Z
   Total Products: 31
 - [Juicy Bar 7500 Disposable Vape](https://nicmafia.com/collections/juicy-bar-7500-vape): Enjoy uninterrupted vaping with Juicy Bar JB7500 Pro. Rechargeable with 650mAh battery. Free shipping!
-  Updated: 2026-01-19T12:13:45Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 19
 - [Discover the Juicy Bar Vape Collection](https://nicmafia.com/collections/juicy-bar-vape): Enjoy Colombian Coffee Ice, Blueberry Raspberry, Green Apple Ice, and more with our JB5000 and JB7500 Pro models. Plus, get free shipping on your order.
-  Updated: 2026-01-20T12:14:22Z
+  Updated: 2026-01-29T12:13:50Z
   Total Products: 65
 - [Juucy Model X Disposable vapes - All flavors | FAST Shipping](https://nicmafia.com/collections/juucy): Find all your favorite Juucy Disposable vapes on one single website and enjoy fast free shipping on every order! Save over 25% on your next order
   Updated: 2025-12-02T03:08:28Z
@@ -2071,14 +2071,14 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-11-25T12:15:46Z
   Total Products: 15
 - [Long Lasting Disposable Vapes | NicMafia](https://nicmafia.com/collections/long-lasting-disposable-vapes): With lots of disposable vape pens out there, not all of them will last more than a day or so. This collection of long-lasting disposable vapes is ideal for those looking for long-lasting vape experiences.
-  Updated: 2026-01-21T12:14:27Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 507
 - [Lost Angel Pro Max 20K Vape](https://nicmafia.com/collections/lost-angel-vape): Discover Lost Angel Vape's dual modes & 20,000 puffs. Enjoy fruity and menthol flavors & Type-C rechargeable battery. Order from NicMafia!
   Updated: 2025-12-27T12:14:51Z
   Total Products: 34
 - [Mint Disposable Vapes | NicMafia](https://nicmafia.com/collections/mint-vapes): Explore the entire Mint flavor collection page. Find all the available flavors that have mint on them for all the Mint lovers out there!
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 229
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 230
 - [Modus x Kado Bar KB10000 Disposable](https://nicmafia.com/collections/modus-x-kador-bar-vape): Discover the Modus x Kado Bar KB10000 collection, with 12 flavors, 10000 puffs, 5% nicotine, and USB-C charging. Elevate your vaping experience now!
   Updated: 2025-12-28T12:14:29Z
   Total Products: 12
@@ -2107,10 +2107,10 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-11-10T22:08:42Z
   Total Products: 15
 - [Non-Rechargeable Disposable Vapes | NicMafia](https://nicmafia.com/collections/non-rechargeable-disposable-vapes): With most disposable vapes being non-rechargeable, this selection is often a popular choice of vape devices for both new and seasoned vapers.
-  Updated: 2026-01-14T12:14:18Z
+  Updated: 2026-01-28T12:13:07Z
   Total Products: 228
 - [Off Stamp Vapes: SW9000 Modular Disposable & Eco-Friendly](https://nicmafia.com/collections/off-stamp-disposable-vapes): Shop Offstamp Vapes SW9000 modular system. 9000 puffs, 13ml capacity, rechargeable 800mAh dock. Off Stamp flavors: Blue Razz Ice, Miami Mint & more.
-  Updated: 2026-01-09T18:17:35Z
+  Updated: 2026-01-24T12:13:08Z
   Total Products: 61
 - [Orion Bar Disposable Vape](https://nicmafia.com/collections/orion-bar-disposable-vape): Elevate your vaping experience with Orion Bar – featuring 7,500 puffs and 5% nicotine. Discover convenience and satisfaction in every draw. Enjoy fast shipping
   Updated: 2025-05-27T04:10:24Z
@@ -2122,7 +2122,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-09T18:41:41Z
   Total Products: 10
 - [Packwood Disposable Vapes](https://nicmafia.com/collections/packwood-packspod-vapes): Discover the convenience of Packwoods Disposable. Explore a variety of flavors and learn about their user-friendly design.
-  Updated: 2026-01-12T12:13:16Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 40
 - [PB & Jam Monster](https://nicmafia.com/collections/pb-jam-monster)
   Updated: 2025-05-19T05:19:48Z
@@ -2158,17 +2158,17 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-08T20:44:23Z
   Total Products: 3
 - [Raz DC25000 Disposable Vape](https://nicmafia.com/collections/raz-dc25000-vape): Enjoy hassle-free vaping with Raz DC25000 Disposable Vape. Up to 25,000 puffs, diverse flavors, portable design. Plus, free & fast shipping!
-  Updated: 2026-01-16T12:13:31Z
+  Updated: 2026-01-30T12:13:55Z
   Total Products: 45
 - [RAZ TN9000 Disposable Vape | 9000 Puffs & Top Flavors](https://nicmafia.com/collections/raz-tn9000-vapes): Shop the RAZ TN9000—9000 puffs, rich flavor options, and smooth performance in every draw. A reliable disposable for everyday vaping.
-  Updated: 2026-01-15T12:13:13Z
+  Updated: 2026-01-30T12:13:55Z
   Total Products: 42
 - [RAZ Disposable Vapes: Top Disposable Devices & Bold Flavors](https://nicmafia.com/collections/raz-vapes): Shop RAZ disposable vapes: CA6000 (6000 puffs) & TN9000 (9000 puffs). Adjustable airflow, LED indicators. RAZ vape price from $16.95. Free shipping $50+.
-  Updated: 2026-01-16T12:13:31Z
-  Total Products: 142
+  Updated: 2026-01-30T12:13:55Z
+  Total Products: 141
 - [Best Rechargeable Disposable Vapes 2026 | NicMafia](https://nicmafia.com/collections/rechargeable-disposable-vapes): This collection offers all of the available rechargeable disposable vapes on TheSmokyBox. Try it now!
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 1737
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 1757
 - [Discover the Best Rifbar Vape Flavors | Free Shipping Available](https://nicmafia.com/collections/rifbar-vape): Browse our selection of Rifbar vape flavors, from Alaskan Mint to Banana Ice. Enjoy free shipping on all orders for a convenient vaping experience.
   Updated: 2025-09-28T11:14:00Z
   Total Products: 16
@@ -2179,8 +2179,8 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-12-16T12:15:19Z
   Total Products: 26
 - [Shop All](https://nicmafia.com/collections/shop-all-1)
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 1583
+  Updated: 2026-01-30T16:26:03Z
+  Total Products: 1603
 - [SMOK IGEE A1 Pod Kit | 14W Portable Vape Device](https://nicmafia.com/collections/smok-igee-a1): Discover the SMOK IGEE A1 Pod Kit, featuring a 650mAh battery, 14W max wattage, and 2mL pod with integrated coil. Perfect for beginners and travelers.
   Updated: 2025-05-19T05:19:49Z
   Total Products: 1
@@ -2236,14 +2236,14 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-06T12:13:00Z
   Total Products: 21
 - [Valentine's Day Gift Ideas For Vape Lovers](https://nicmafia.com/collections/valentines-day-gift-ideas-for-vape-lovers): Explore the vape gifts at NicMafia to elevate your Valentine's Day experience
-  Updated: 2026-01-20T12:14:22Z
-  Total Products: 928
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 931
 - [Vapes For Easter Gifts](https://nicmafia.com/collections/vapes-for-easter-gifts): Introducing our Easter Collection: a delightful array of special edition vapes crafted to enhance your Easter celebrations. Each vape boasts charming pastel colors and flavors inspired by springtime delights, making them the perfect companions for your Easter festivities. Whether you're hunting for eggs or enjoying a family brunch, our exclusive collection of vapes will add a touch of joy to your holiday. Celebrate Easter in style with our premium vapes.
-  Updated: 2026-01-14T12:14:18Z
-  Total Products: 108
+  Updated: 2026-01-28T21:00:49Z
+  Total Products: 109
 - [Vapes to Celebrate St Patricks](https://nicmafia.com/collections/st-patricks): Introducing our St. Patrick's Day Collection: a range of special edition vapes designed to elevate your celebration.
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 386
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 388
 - [Vapetasia E-Liquids: Explore Premium E-Liquids](https://nicmafia.com/collections/vapetasia-e-liquid): Immerse yourself in a world of rich, diverse flavors and top-quality ingredients. Tailored for vaping enthusiasts craving exceptional taste!
   Updated: 2025-12-28T12:14:29Z
   Total Products: 48
@@ -2302,11 +2302,11 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-06-16T15:35:45Z
   Total Products: 12
 - [Shop Most Popular Vape Brands | Top Vape Brands at NicMafia](https://nicmafia.com/collections/shop-by-brands): Your go-to catalog of vape brands — top flavors, smooth hits, and reliable performance. Find your favorite brand at NicMafia.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 1583
+  Updated: 2026-01-30T16:26:03Z
+  Total Products: 1603
 - [Browse All Best Vape Picks | Popular Vapes & New Arrivals at NicMafia](https://nicmafia.com/collections/explore): Find popular vapes, new arrivals, and customer favorites in one place. Strong hits, great flavors, and fast shipping on $50+ orders at NicMafia.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 1583
+  Updated: 2026-01-30T16:26:03Z
+  Total Products: 1603
 - [Adjust Vape Airflow Disposable Vape – NicMafia](https://nicmafia.com/collections/adjust-vape): Discover Adjust Vape disposables with up to 40,000 puffs, adjustable airflow, and customizable flavor intensity for the perfect vape experience.
   Updated: 2026-01-09T12:15:10Z
   Total Products: 39
@@ -2317,16 +2317,16 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-08T12:14:54Z
   Total Products: 5
 - [Adjust MyCool Vape 40k Vape – NicMafia](https://nicmafia.com/collections/adjust-my-cool-40000-vape): Adjust MyCool 40K Vape, enjoy a smooth, customizable vaping experience with premium flavors. Shop now at NicMafia!
-  Updated: 2025-12-22T12:15:18Z
+  Updated: 2026-01-27T00:18:53Z
   Total Products: 15
 - [IGET Vape](https://nicmafia.com/collections/iget-vape): Discover the IGET Vape collection with up to 20,000 puffs, a rechargeable battery, and replaceable pods. Smooth draws, bold flavors—shop now!
-  Updated: 2026-01-21T12:14:27Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 32
 - [IGET Sun KP20000 Pod – 20,000 Puffs | Replaceable Vape Pod](https://nicmafia.com/collections/iget-sun-kp20k-pod-disposable): IGET Sun KP20000 Pod – 20,000 puffs, 5% nicotine, rich flavors, and a smooth vaping experience. Compatible with IGET Sun KP20000 Kit. Try it now!
-  Updated: 2026-01-20T20:46:38Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 20
 - [HQD Shisha 20K: Modern Hookah in a Vape | NicMafia](https://nicmafia.com/collections/hqd-shisha-20k-disposable): Nicmafia offers a hookah-inspired device with smart screen, airflow control and 20K flavorfull puffs.
-  Updated: 2026-01-06T12:13:00Z
+  Updated: 2026-01-28T17:49:16Z
   Total Products: 10
 - [Fifty Bar V2 20K Vape – 20kPuffs, USB-C Rechargeable](https://nicmafia.com/collections/fifty-bar-v2-20k-vape): Shop the Fifty Bar V2 20K Disposable Vape with 20,000 puffs, 5% nicotine, and USB-C fast charging. Enjoy premium Beard Vape Co.
   Updated: 2026-01-09T15:54:38Z
@@ -2341,7 +2341,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-12-17T12:16:53Z
   Total Products: 5
 - [Juicy Bar JB25000 Vape – 25K Puffs | Best Price at NicMafia](https://nicmafia.com/collections/juicy-bar-jb25000-vape): Shop the Juicy Bar JB25000 Vape at NicMafia. Enjoy up to 25k puffs, a built-in LED screen, USB-C recharge, and bold flavors—all for just $23.95!
-  Updated: 2026-01-06T12:13:00Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 14
 - [RAZ LTX 25000 Gush Edition – Vape with 25k Puffs](https://nicmafia.com/collections/raz-ltx-25000-gush-edition): Shop the RAZ LTX 25000 Gush Edition at NicMafia – featuring up to 25,000 puffs, bold flavors, 5% nicotine, HD screen, and dual-mode vaping.
   Updated: 2026-01-15T12:13:13Z
@@ -2362,7 +2362,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-08T20:46:38Z
   Total Products: 5
 - [Nicotine Free Disposable Vape 0%](https://nicmafia.com/collections/zero-nicotine-disposable): Nicotine-free vape perfect for those who enjoy vaping to relieve stress without nicotine intake. Shop the collection of Nicotine Free Disposable Vape.
-  Updated: 2026-01-10T12:14:14Z
+  Updated: 2026-01-26T12:12:33Z
   Total Products: 17
 - [RAZ TN9000 Zero Nicotine Disposable Vape](https://nicmafia.com/collections/raz-tn9000-zero-nicotine-disposable): Discover the RAZ TN9000 Zero Nicotine Vape. Up to 9000 puffs, USB-C rechargeable, HD display, adjustable airflow, and zero nicotine.
   Updated: 2026-01-10T12:14:14Z
@@ -2371,7 +2371,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-08T20:46:38Z
   Total Products: 5
 - [RAZ LTX DC25000 Zero Nicotine - 0% Nicotine](https://nicmafia.com/collections/raz-ltx-dc25000-zero-nicotine-disposable): Shop the RAZ LTX DC25000 Zero Nicotine Disposable Vape. Up to 25,000 puffs, dual mesh coils, and bold flavors—without the nicotine.
-  Updated: 2026-01-08T20:44:12Z
+  Updated: 2026-01-26T12:12:33Z
   Total Products: 4
 - [Geek Bar Meloso Mini 1500 Disposable – Pocket-Sized Power](https://nicmafia.com/collections/geek-bar-meloso-mini-1500-disposable): Try the Geek Bar Meloso Mini 1500—small in size, bold in flavor. Enjoy 1500 smooth puffs, no charging needed.
   Updated: 2026-01-01T12:12:36Z
@@ -2401,7 +2401,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-06-25T18:00:28Z
   Total Products: 17
 - [Shisha 20K Disposable Vapes](https://nicmafia.com/collections/shisha-vapes): A disposable vape device with airflow control and it is rechargable. It contains 28ml salt e-juice and vape up to 20000 puffs.
-  Updated: 2026-01-06T12:13:00Z
+  Updated: 2026-01-28T17:49:16Z
   Total Products: 10
 - [SWFT Bar Vape](https://nicmafia.com/collections/swft-vape): Discover SWFT Vape’s pre-filled vapes with smooth hits, bold flavors, and zero maintenance. Shop now and find your perfect fit.
   Updated: 2025-06-11T02:50:37Z
@@ -2413,10 +2413,10 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-07-04T06:30:09Z
   Total Products: 14
 - [Beri Crush Vape | 50k Puffs, Bold Flavors & Power](https://nicmafia.com/collections/beri-crush-vape): Explore the Beri Crush 50K Disposable—up to 50,000 puffs, bold flavors, dual-mode vaping, and real-time display.
-  Updated: 2026-01-14T12:14:18Z
+  Updated: 2026-01-23T17:37:14Z
   Total Products: 14
 - [Best Hookah Vape Options for Flavorful and Portable Enjoyment](https://nicmafia.com/collections/hookah-vape): Discover the top hookah vape options that blend flavor and portability for your enjoyment. Find the perfect choice for your next session.
-  Updated: 2026-01-06T12:13:00Z
+  Updated: 2026-01-28T17:49:16Z
   Total Products: 25
 - [Fume Hookah Vape](https://nicmafia.com/collections/fume-hookah-vape): Discover the best fume hookah vapes with 20K puffs, rechargeable features, and exciting flavors. Explore top options and elevate your vaping experience!
   Updated: 2025-09-29T11:12:28Z
@@ -2425,25 +2425,25 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2025-07-24T19:43:39Z
   Total Products: 8
 - [HQD Cuvie Plus: Flavor Collections & Best Picks](https://nicmafia.com/collections/all-hqd-flavor-collection-available): Check our top HQD flavors and see what makes each standout. Compare favorites and get the one that fits your taste.
-  Updated: 2026-01-10T12:14:14Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 10
 - [Best HQD Vapes For This 2026: High Quality Vaping | NicMafia](https://nicmafia.com/collections/hqd-vapes): Get to know the key features, design, and top models from HQD—crafted for performance and user satisfaction.
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 192
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 205
 - [HQD Disposable Vapes for  – 30+ Flavors in Stock](https://nicmafia.com/collections/hqd-disposable-vapes): Shop HQD’s best- disposable vapes, available in multiple styles and price ranges.
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 192
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 205
 - [HQD Cuvie Box – Premium Flavor in a Sleek Disposable Vape](https://nicmafia.com/collections/hqd-box): Get 5500 puffs of smooth vapor, rich flavor options, and USB-C recharge in a compact and stylish device.
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 192
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 205
 - [HQD Cuvie Bar 7000: Detailed Guide on Price and Features | NicMafia](https://nicmafia.com/collections/hqd-cuvie-bar-price): Skip the fluff—here’s what to know about the price, design, and where to get HQD Cuvie Bar 7000 now.
-  Updated: 2026-01-06T12:13:00Z
+  Updated: 2026-01-27T12:11:15Z
   Total Products: 28
 - [Foger Vape Options: Discover the Best Flavors and Devices](https://nicmafia.com/collections/foger-vape): Shop Foger Vape Switch Pro 30K with 30,000 puffs, boost mode & reusable power bank. Foger vape flavors: Cool Mint, Blue Razz Ice & more. Price from $24.95.
-  Updated: 2026-01-09T18:35:15Z
+  Updated: 2026-01-26T23:02:32Z
   Total Products: 37
-- [Foger Bit 35K Disposable | Up to 35,000 Puffs](https://nicmafia.com/collections/foger-bit-35k): Shop Foger Bit 35K – 35,000 puffs, rich flavors, adjustable airflow, and smart display. Experience the best in high-performance disposable vaping.
-  Updated: 2026-01-06T12:13:00Z
+- [Foger Bit 35K Vape: High Puff Disposable Performance](https://nicmafia.com/collections/foger-bit-35k): The Foger Bit 35K delivers long-lasting performance, smooth airflow, and consistent flavor in a high-puff disposable vape.
+  Updated: 2026-01-26T23:02:32Z
   Total Products: 15
 - [NEXA Pix 35000 puffs: Dual Mode Power, All In One](https://nicmafia.com/collections/nexa-pix-35k): Everything about the NEXA Pix 35K, from puff modes to flavor output and battery life, plus tips for getting the best performance.
   Updated: 2026-01-01T12:12:36Z
@@ -2458,26 +2458,26 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-21T12:14:27Z
   Total Products: 17
 - [Disposable Vape  | Limited-Time Vape Deals](https://nicmafia.com/collections/disposable-vape-): Huge vape  deals! Save on top disposable vapes while supplies last. Find fruity, icy, and mint flavors at the best prices—shop now.
-  Updated: 2026-01-21T12:14:27Z
+  Updated: 2026-01-30T12:13:56Z
   Total Products: 248
 - [Romo Vapes](https://nicmafia.com/collections/romo-vapes): Shop the Romo Hex 50K Disposable Vape – bold flavors, 50,000 puffs, dual battery system, smart display, and ECO/Boost modes.
-  Updated: 2025-12-20T12:15:14Z
+  Updated: 2026-01-30T12:13:55Z
   Total Products: 10
 - [Black Friday Vape Deals 2025](https://nicmafia.com/collections/black-friday-deals-2025): Save big on top disposable vapes with seasonal price drops and limited-time offers you won’t want to miss.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 745
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 758
 - [Shop our Best Black Friday Vapes 2025](https://nicmafia.com/collections/black-friday-cyber-monday-2025): Find the strongest discounts of the season on high-quality vapes, long-lasting devices, and fan-favorite flavors.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 685
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 698
 - [HQD Black Friday Deals This 2025](https://nicmafia.com/collections/hqd-black-friday): Unlock major savings on HQD disposables, high-puff devices, and popular flavors during this year’s  event.
-  Updated: 2026-01-18T12:15:20Z
-  Total Products: 192
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 205
 - [Shop NicMafia Black Friday 2025](https://nicmafia.com/collections/best-black-friday-deals-nicmafia): Shop exclusive Black Friday markdowns across leading vape brands and grab premium devices at lower prices.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 2367
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 2387
 - [Fume Vape Black Friday 2025](https://nicmafia.com/collections/fume-vape-black-friday): Score big reductions on Fume disposables, including best- flavors and long-lasting devices.
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 239
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 240
 - [Fifty Bar Black Friday Deals 2025](https://nicmafia.com/collections/fifty-bar-black-friday): The Fifty Bar Black Friday deals for 2025 are finally here, bringing some of the best black friday deals on disposable vapes across the entire market. If you’re a fan of tight draws, bold flavors, and strong cloud output, this is the perfect time to shop and save before stock disappears. Why Fifty Bar Deals Are Worth Grabbing Fifty Bar stands out in the disposable vape market thanks to its clean engineering, smooth delivery, and premium e liquid blends. The brand is known for using strong craftsmanship, reliable airflow, and consistent puff output that vapers enjoy every day. Their devices often feature a dual parallel mesh coil, which delivers better flavor and denser clouds than many competing models. If you like high-quality disposables built with precision and strong performance, Fifty Bar offers unmatched value during the Black Friday event. Fifty Bar also uses high-quality USA-made formulations in many of their flavors, giving each device a clean, bold taste while still keeping the price low during holiday deals. Whether you want fruit blends, icy mint, or candy-style juice options, their lineup delivers. Best Fifty Bar Black Friday Deals Below are the models expected to bring the biggest markdowns during the November rush. Fifty Bar Ultra Fifty Bar Ultra is a heavy-hitting disposable built for flavor lovers. Its dual parallel mesh coil design gives you smoother vapor, stronger clouds, and richer flavor across the entire device life. This model usually sells out fast—especially when the price drops. Fifty Bar 6000 The Fifty Bar 6000 is all about reliability, balanced juice delivery, and long-lasting puff output. With strong airflow and clean execution, this model gives you a ton of value for the price, especially when black friday deals go live. Fifty Bar 10K Fifty Bar 10K offers exceptional longevity, strong performance, and some of the most potent flavors in the brand’s lineup. It’s perfect for vapers who want disposables that last several days without sacrificing throat feel or cloud density. How To Choose Your Fifty Bar Picking the right Fifty Bar model comes down to strength, longevity, and how you vape on a daily basis. Flavor Strength Fifty Bar disposables are known for high-intensity flavor output. Whether you prefer icy mint, fruity blends, or USA-inspired mixes, the brand delivers bold and layered flavors that stay consistent until the device is empty. The bar disposable style delivers great flavor without any complicated setup. Battery Performance Fifty Bar devices are engineered with efficient power use and strong battery consistency, making them great for vaping on the go. Their devices hold charge well, delivering smooth hits until the last puff without sacrificing cloud quality or flavor. Fifty Bar Black Friday Deals FAQs Do Fifty Bar deals  out fast? Yes. Fifty Bar models tend to  quickly during November, especially the higher-end devices with strong flavor and larger puff counts. Once the main Black Friday wave hits, stock can drop rapidly—so add them to your cart early. Are flavors discounted too? Absolutely. Many Fifty Bar flavors, including fruity blends, mint profiles, and vape juice variations, receive discounts during the Black Friday . Some drops include bundled flavors or limited-edition juices at lower prices.
   Updated: 2026-01-09T15:54:38Z
   Total Products: 47
@@ -2485,13 +2485,13 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-21T12:14:27Z
   Total Products: 60
 - [RAZ Black Friday 2025](https://nicmafia.com/collections/raz-black-friday): Take advantage of fresh markdowns on RAZ vapes and upgrade to smooth, flavorful devices at better prices.
-  Updated: 2026-01-16T12:13:31Z
-  Total Products: 142
+  Updated: 2026-01-30T12:13:55Z
+  Total Products: 141
 - [Disposable Vapes Black Friday 2025](https://nicmafia.com/collections/black-friday-disposable-sales): Shop discounted disposable vapes with long puff counts, strong flavors, and dependable quality during the .
-  Updated: 2026-01-21T12:14:27Z
-  Total Products: 745
+  Updated: 2026-01-30T12:13:56Z
+  Total Products: 758
 - [Juicy Bar Black Friday Deals 2025](https://nicmafia.com/collections/juicy-bar-black-friday-deals-2025): Save on Juicy Bar favorites featuring bold blends, satisfying vapor, and impressive puff performance.
-  Updated: 2026-01-20T12:14:22Z
+  Updated: 2026-01-29T12:13:50Z
   Total Products: 65
 - [Buy Lost Angel Meta 50K Disposable Vapes](https://nicmafia.com/collections/lost-angel-meta-50k-disposable-vape): Shop the Lost Angel Meta 50K Collection. Up to 50,000 puffs, Smart Screen, and Dual Mesh Coil technology.
   Updated: 2025-12-27T12:14:51Z
@@ -2509,7 +2509,7 @@ This site sells age-restricted products (21+). Information provided here is for 
   Updated: 2026-01-03T23:12:57Z
   Total Products: 10
 - [Off‑Stamp X‑Cube Crystal Pod 35K](https://nicmafia.com/collections/off-stamp-x-cube-crystal-pod-35k): Shop Off‑Stamp X‑Cube Crystal 35K pods with up to 35,000 puffs, 17mL e‑liquid, dual mesh coils, and adjustable airflow.
-  Updated: 2025-12-27T00:47:10Z
+  Updated: 2026-01-24T12:13:08Z
   Total Products: 10
 - [Cookies Nicotine Vape – 30K Puffs Disposable Collection](https://nicmafia.com/collections/cookies-nicotine-vape): Shop the Cookies 30K Puffs Disposable Vape – 50mg nicotine, dual mesh coils, rechargeable with smart display.
   Updated: 2026-01-08T22:42:28Z
@@ -2520,6 +2520,18 @@ This site sells age-restricted products (21+). Information provided here is for 
 - [Kado Bar NI40000 Disposable Vape](https://nicmafia.com/collections/kado-bar-ni40000-disposable): Discover the Kado Bar NI40000 – a smart disposable vape with 40K puffs, adjustable ice & nicotine levels, and triple mesh coils for smooth, flavorful vapor.
   Updated: 2026-01-18T12:15:20Z
   Total Products: 13
+- [How Much Is a RAZ Vape?](https://nicmafia.com/collections/raz-vape-price): Wondering how much a RAZ Vape costs? Compare prices for RAZ TN9000, DC25000, and RX50K — find the best RAZ Vape deals online today.
+  Updated: 2026-01-30T12:13:55Z
+  Total Products: 141
+- [HQD Everest 25K Disposable Vape](https://nicmafia.com/collections/hqd-everest): Shop the HQD Everest 25K Disposable Vape — up to 25,000 puffs, dual mesh coil, rechargeable LED display & powerful flavor options.
+  Updated: 2026-01-23T18:47:25Z
+  Total Products: 16
+- [Foger Bit 35K Flavors: Full Flavor Lineup Explained](https://nicmafia.com/collections/foger-bit-flavors): See the full lineup of Foger Bit 35K flavors, including fruit, candy, mint, and smooth all-day options.
+  Updated: 2026-01-26T23:02:32Z
+  Total Products: 15
+- [HQD GO 35K Disposable Vape](https://nicmafia.com/collections/hqd-go-35k-disposable): Discover the HQD GO 35K Vape — up to 35,000 puffs, adjustable modes, dual mesh coils, and rich flavor options.
+  Updated: 2026-01-28T21:00:49Z
+  Total Products: 14
 
 ## Blogs
 
@@ -2771,8 +2783,8 @@ This site sells age-restricted products (21+). Information provided here is for 
     Updated: 2025-06-28T22:15:24Z
     Author: My Store Admin
   - [Fume Rechargeable Flavors  | Next-Level Fume Vapes For This 2026](https://nicmafia.com/blogs/fume-disposables/fume-recharge-everything-you-need-to-know): Fume Rechargeable Flavors  | Next-Level Fume Vapes For This 2026
-    Updated: 2025-12-11T14:35:17Z
-    Author: Arianna Lupi
+    Updated: 2026-01-28T17:01:14Z
+    Author: John Smith
     Tags: fume
   - [Comparing Fume Infinity vs. Other Vapes | Best Brand 2026](https://nicmafia.com/blogs/fume-disposables/fume-infinity-vs-other-vapes): Comparing Fume Infinity vs. Other Vapes | Best Brand 2026
     Updated: 2025-12-11T14:30:11Z
@@ -2829,6 +2841,18 @@ This site sells age-restricted products (21+). Information provided here is for 
   - [How to Refill Your RAZ CA6000 Vape Easily](https://nicmafia.com/blogs/raz-vape/how-to-refill-ca-6000)
     Updated: 2025-03-15T21:59:41Z
     Author: John Smith
+  - [Best RAZ Vape Flavors of 2026 — Find Your Next Favorite](https://nicmafia.com/blogs/raz-vape/raz-vape-flavors-list): Best RAZ Vape Flavors of 2026 — Find Your Next Favorite
+    Updated: 2026-01-22T22:59:30Z
+    Author: My Store Admin
+  - [How to Refill a RAZ Vape : TN9000, DC25000 & More](https://nicmafia.com/blogs/raz-vape/how-to-refill-a-raz-vape): How to Refill a RAZ Vape : TN9000, DC25000 & More
+    Updated: 2026-01-22T22:59:35Z
+    Author: My Store Admin
+  - [How Much Nicotine Is in a RAZ Vape?](https://nicmafia.com/blogs/raz-vape/how-much-nicotine-is-in-a-raz-vape): How Much Nicotine Is in a RAZ Vape?
+    Updated: 2026-01-22T22:59:42Z
+    Author: My Store Admin
+  - [Top 10 Best Raz Vape Flavors in 2026 – Ranked by Real Users](https://nicmafia.com/blogs/raz-vape/best-raz-vape-flavors): Top 10 Best Raz Vape Flavors in 2026 – Ranked by Real Users
+    Updated: 2026-01-23T00:12:15Z
+    Author: My Store Admin
 - [packwoods](https://nicmafia.com/blogs/packwoods)
   - [How To Spot Fake Packwoods](https://nicmafia.com/blogs/packwoods/how-to-spot-fake-packwoods)
     Updated: 2025-04-09T17:01:20Z
@@ -2921,6 +2945,9 @@ This site sells age-restricted products (21+). Information provided here is for 
   - [Nicotine Percentage in HQD Vapes: What to Know](https://nicmafia.com/blogs/hqd-disposables/hqd-nicotine-percentage): Nicotine Percentage in HQD Vapes: What to Know
     Updated: 2025-10-23T13:56:33Z
     Author: My Store Admin
+  - [HQD GO 35K Review 2026 – 35K Puffs, Power Modes & Flavor](https://nicmafia.com/blogs/hqd-disposables/hqd-go-35k-review): HQD GO 35K Review 2026 – 35K Puffs, Power Modes & Flavor
+    Updated: 2026-01-30T21:31:01Z
+    Author: John Smith
 - [tyson-heavyweight](https://nicmafia.com/blogs/tyson-heavyweight)
   - [Top 10 Best Tyson Heavyweight Flavors](https://nicmafia.com/blogs/tyson-heavyweight/best-flavors)
     Updated: 2025-04-17T16:06:56Z
@@ -3121,13 +3148,64 @@ This site sells age-restricted products (21+). Information provided here is for 
   - [NEXA Pix Vape Price Guide: What To Expect](https://nicmafia.com/blogs/nexa-vape/nexa-vape-pix-best-prices): NEXA Pix Vape Price Guide: What To Expect
     Updated: 2025-12-05T17:40:17Z
     Author: My Store Admin
+- [Beri Crush](https://nicmafia.com/blogs/beri-crush)
+  - [How to Use Beri Crush Vape](https://nicmafia.com/blogs/beri-crush/how-to-use-beri-crush-vape)
+    Updated: 2026-01-23T17:08:16Z
+    Author: My Store Admin
+  - [Beri Crush Vape Review 2026 – 50K Puffs, Flavor & Performance](https://nicmafia.com/blogs/beri-crush/best-beri-crush-vape-review): Beri Crush Vape Review 2026 – 50K Puffs, Flavor & Performance
+    Updated: 2026-01-23T18:05:47Z
+    Author: My Store Admin
+- [Foger Vape](https://nicmafia.com/blogs/foger-vape)
+  - [Foger Bit 35K Instructions: How to Use It Properly](https://nicmafia.com/blogs/foger-vape/foger-bit-35k-instructions): Foger Bit 35K Instructions: How to Use It Properly
+    Updated: 2026-01-26T19:09:46Z
+    Author: My Store Admin
+  - [Foger Bit 35K Review: Flavor, Vapor, and Longevity](https://nicmafia.com/blogs/foger-vape/foger-bit-35k-review): Foger Bit 35K Review: Flavor, Vapor, and Longevity
+    Updated: 2026-01-26T19:09:39Z
+    Author: My Store Admin
+  - [Foger Vape Not Working? Common Issues and Fixes](https://nicmafia.com/blogs/foger-vape/foger-vape-not-working)
+    Updated: 2026-01-26T19:09:31Z
+    Author: My Store Admin
+  - [Foger Nicotine Vapes: Strengths and What to Know](https://nicmafia.com/blogs/foger-vape/foger-nicotine-vapes): Foger Nicotine Vapes: Strengths and What to Know
+    Updated: 2026-01-26T19:09:24Z
+    Author: My Store Admin
+  - [Foger Vape Charger: Charging Tips and Compatibility](https://nicmafia.com/blogs/foger-vape/foger-vape-charger): Foger Vape Charger: Charging Tips and Compatibility
+    Updated: 2026-01-26T19:09:14Z
+    Author: My Store Admin
+    Tags: foger vape
+  - [Are Foger Vapes Safe? What Users Should Know](https://nicmafia.com/blogs/foger-vape/are-foger-vapes-safe): Are Foger Vapes Safe? What Users Should Know
+    Updated: 2026-01-26T19:22:14Z
+    Author: My Store Admin
+  - [How Much Do Foger Vapes Cost? Price Breakdown](https://nicmafia.com/blogs/foger-vape/how-much-do-foger-vapes-cost): How Much Do Foger Vapes Cost? Price Breakdown
+    Updated: 2026-01-26T21:01:38Z
+    Author: My Store Admin
+  - [Do Foger Vapes Have Nicotine? Explained Simply](https://nicmafia.com/blogs/foger-vape/do-foger-vapes-have-nicotine): Do Foger Vapes Have Nicotine? Explained Simply
+    Updated: 2026-01-26T21:25:45Z
+    Author: My Store Admin
+  - [Foger Vapes Review: Brand Performance and Quality](https://nicmafia.com/blogs/foger-vape/foger-vapes-review): Foger Vapes Review: Brand Performance and Quality
+    Updated: 2026-01-26T21:20:10Z
+    Author: My Store Admin
+  - [How to Charge Foger Vape: Step-by-Step Guide](https://nicmafia.com/blogs/foger-vape/how-to-charge-a-foger-vape): How to Charge Foger Vape: Step-by-Step Guide
+    Updated: 2026-01-26T21:54:56Z
+    Author: My Store Admin
+  - [Foger Vape Instructions: Proper Use and Care Tips](https://nicmafia.com/blogs/foger-vape/foger-vape-instructions): Foger Vape Instructions: Proper Use and Care Tips
+    Updated: 2026-01-26T22:03:56Z
+    Author: My Store Admin
+  - [Where Can I Buy Foger Vapes? Trusted Retail Options](https://nicmafia.com/blogs/foger-vape/where-can-i-buy-foger-vapes): Where Can I Buy Foger Vapes? Trusted Retail Options
+    Updated: 2026-01-26T22:13:44Z
+    Author: My Store Admin
+  - [Foger Refills Explained: Pods, Options, and Value](https://nicmafia.com/blogs/foger-vape/foger-refills)
+    Updated: 2026-01-30T21:57:00Z
+    Author: Alice Clark
+  - [Do Foger Vapes Contain Diacetyl? What You Should Know](https://nicmafia.com/blogs/foger-vape/do-foger-vapes-contain-diacetyl)
+    Updated: 2026-01-30T21:31:21Z
+    Author: John Smith
 
 ## Store Pages
 
 - [Contact us - Customer support over email | NicMafia](https://nicmafia.com/pages/contact-us): If you have any questions or comments for us, fill out the form bellow with all your details and we’ll get back to you within 48 hours. You can als...
   Updated: 2025-05-17T00:13:21Z
 - [Your Privacy Choices](https://nicmafia.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-06-30T16:19:13Z
+  Updated: 2026-01-28T15:38:55Z
 - [Loyalty Program](https://nicmafia.com/pages/loyalty-program)
   Updated: 2025-02-05T00:37:29Z
 - [Track Order](https://nicmafia.com/pages/track-order): Enter your tracking number to see the status of your order. //
