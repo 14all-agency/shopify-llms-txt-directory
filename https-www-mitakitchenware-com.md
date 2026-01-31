@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-06-12T08:32:00Z
 - Contact Email: admin@mitakitchenware.com
-- Updated At: 2026-01-24T00:00:40.001Z
+- Updated At: 2026-01-31T00:00:43.438Z
 
 ## Products
 
@@ -575,7 +575,7 @@
   Image: https://cdn.shopify.com/s/files/1/0573/7231/1703/products/SKL04MZS0010_01.jpg?v=1648037264
   Price: $99.00 AUD
 - [Karim Rashid Kütahya Skallop 17cm Porcelain Bowls – Turquoise 2pc](https://www.mitakitchenware.com/products/kutahya-skallop-17cm-small-bowl-2-piece-set-turquoise): Shop Karim Rashid–designed Kütahya Skallop 17cm porcelain bowls in turquoise. Premium alumina porcelain, elegant scalloped design. 2-piece set.
-  Updated: 2026-01-15T10:58:57Z
+  Updated: 2026-01-28T10:05:33Z
   Vendor: Mita Kitchenware
   Product Type: Kütahya Skallop Collection
   Availability: Available
@@ -1141,7 +1141,7 @@
   Updated: 2026-01-22T10:48:25Z
   Total Products: 198
 - [New! Shopify performance sharing is now turned on](https://www.mitakitchenware.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-22T10:48:25Z
+  Updated: 2026-01-30T04:12:20Z
   Total Products: 198
 - [SOHAI DRINKWARE](https://www.mitakitchenware.com/collections/drink-bottles): Designed in Australia SOHAİ brings style and sustainability together in every sip. Each bottle is crafted from premium double-wall stainless steel or a BPA-free, sustainable material — the perfect alternative to single-use plastic bottles. The insulated stainless steel design keeps drinks cold for up to 24 hours or hot for up to 12, ensuring refreshment wherever you go. Lightweight, durable, and beautifully minimalist, SOHAİ bottles are made to fit seamlessly into your day. The SOHAİ Kids Range makes hydration fun and personal, featuring customisable bottles that kids can decorate with charms, and stickers — building sustainable habits with creativity and care. Durable. Reusable. Designed in Australia. SOHAİ — Sustainable style for everyone.
   Updated: 2025-12-19T07:35:13Z
