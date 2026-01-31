@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-06-24T10:07:25Z
 - Contact Email: antonain.heronlenoir@gmail.com
-- Updated At: 2026-01-24T00:00:35.046Z
+- Updated At: 2026-01-31T00:00:37.596Z
 
 ## Products
 
@@ -4932,7 +4932,7 @@
 - [Contact](https://pj30px-2s.myshopify.com/pages/contact)
   Updated: 2025-06-24T10:07:28Z
 - [Vos choix en matière de confidentialité](https://pj30px-2s.myshopify.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
-  Updated: 2025-06-24T22:02:04Z
+  Updated: 2026-01-28T15:53:07Z
 
 ## Policies
 
