@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-04-26T15:31:32Z
 - Contact Email: sophie@laasio.de
-- Updated At: 2026-01-24T00:00:40.696Z
+- Updated At: 2026-01-31T00:00:43.040Z
 
 ## Products
 
@@ -715,7 +715,7 @@ Einzigartiges Armband
     Availability: Available
     Price: 24,50 € EUR
 - [Fußabdruck Armband, Handabdruck ,Armband mit Fußabdruck, Armband personalisiert, Armband mit Gravur Plättchen in Silber, Gold oder Rosegold](https://laasio.de/products/fussabdruck-armband-handabdruck-armband-42211): D E T A I L S -Größe der Anhänger (rund): 13mm -Durchmesser Armreif: 15cm +3cm verstellbar Beschreibung Dieses personalisierte Armband verbindet moderne Eleganz mit tiefer Bedeutung. Perfekt geeignet, um die zarten Hand- und Fußabdrücke Ihrer Liebsten zu verewigen. Jedes Armband wird sorgfältig gefertigt und kann mit einer Gravur auf dem Plättchen individuell gestaltet werden. Einzigartige Personalisierung: Die Möglichkeit, Hand- und Fußabdrücke sowie Namen oder besondere Daten zu gravieren, macht jedes Stück zu einem Unikat. Vielseitiger Stil: Dieses Armband ist ein wunderbares Accessoire, das zu jedem Anlass passt und Ihrem Outfit eine persönliche Note verleiht. Anwendungsmöglichkeiten Ideales Geschenk: Perfekt für Geburtstage, Jahrestage, Muttertag oder als Erinnerungsgeschenk. Täglicher Begleiter: Tragen Sie die Erinnerung an Ihre Liebsten stets bei sich. Emotionale Bedeutung: Ein symbolträchtiges Schmuckstück, das die Verbindung zu Ihren Liebsten ausdrückt und bewahrt. Mit seiner Kombination aus personalisierter Gravur und hochwertigen Materialien ist dieses Armband mehr als nur ein Schmuckstück – es ist ein Zeichen der Liebe und Verbundenheit, das Sie immer bei sich tragen können. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Geschenk Alle Artikel sind schön verpackt bereit zum Geschenk in eleganten Schmuck-Boxen. Wenn Sie jedes Stück in seinem eigenen Karton haben möchten, oder wenn es sich um ein Geschenk handelt, informieren Sie uns in einer Nachricht an der Kasse. Wenn Ihre Bestellung als Geschenk gekennzeichnet ist, werden wir auch eine leere Geschenkkarte für Sie beifügen. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ C U R R E N T , P R O D U C T I O N , T I M E S -1 bis 2 Werktag Lieferung Zeit Deutschland : 1 bis 3 Werktage International : 7 bis 14 Arbeitstage ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ Über∙LAASIO Wir haben ein Team mit 2 Künstlerin . Alle Unsere Produkte sind handgefertigt in Laasio Studio in Bad Laasphe Deutschland .Jede Bestellung mit Liebe zu handarbeiten. Jedes Schmuckstück gibt es eine Bedeutung. Wenn Sie irgendwelche Bedenken oder Probleme mit Ihrer Bestellung haben, zögern Sie bitte nicht, uns zu informieren. Wir lieben unsere Kunden und sind bestrebt, Sie glücklich zu machen. Vielen Dank für Ihren Besuch und hoffen, dass Sie gerne bei uns einkaufen. Liebe Grüße
-  Updated: 2025-02-24T17:46:28Z
+  Updated: 2026-01-24T23:18:12Z
   Vendor: Laasio
   Product Type: 
   Availability: Available
