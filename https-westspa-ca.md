@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2026-01-21T00:00:32.268Z
+- Updated At: 2026-01-31T00:00:36.195Z
 
 ## Blogs
 
@@ -43,6 +43,9 @@
     Author: Onixx Media
   - [2026 Skin Reset Guide | Advanced  Aesthetics at West Spa](https://westspa.ca/blogs/articles/new-year-new-skin-a-fresh-start-with-advanced--aesthetics-in-2026): 2026 Skin Reset Guide | Advanced  Aesthetics at West Spa
     Updated: 2026-01-15T10:35:46Z
+    Author: Onixx Media
+  - [Winter Skin Treatments | Repair & Hydration at West Spa](https://westspa.ca/blogs/articles/winter-skin-rescue-how-to-repair-hydrate-brighten-your-skin): Winter Skin Treatments | Repair & Hydration at West Spa
+    Updated: 2026-01-26T15:03:56Z
     Author: Onixx Media
 
 ## Store Pages
