@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-20T17:54:38Z
-- Updated At: 2026-01-23T00:00:34.382Z
+- Updated At: 2026-01-31T00:00:37.480Z
 
 ## Products
 
@@ -318,19 +318,19 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2972.png?v=1761596463
   Price: £4.00 GBP
 - [20cl Citronella Candle](https://siaroma.co.uk/products/20cl-citronella-candle): This 20cl citronella candle is expertly crafted to provide a natural, soy-wax-infused, citronella-scented experience. The wood wick adds an organic touch to this candle, ideal for outdoor and indoor use. Keep bugs away while enjoying a relaxing ambiance. Burning time approximately 30hours
-  Updated: 2025-11-28T16:34:46Z
+  Updated: 2026-01-28T08:59:38Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2980.png?v=1761650019
-  Price: £14.99 GBP
+  Price: £15.00 GBP
 - [30cl Watermelon Lemonade Candle](https://siaroma.co.uk/products/30cl-watermelon-lemonade-candle): Elevate your space with our 30 cl Watermelon Lemonade Candle. Housed in a sleek rose gold jar with a bamboo lid, this soy wax candle will infuse your home with the invigorating scent of watermelon and lemonade. With 40-50 hours of burn time, enjoy the fruity top notes of citrus and pineapple, followed by sweet and floral middle notes, and finished with base notes of patchouli and vanilla.
-  Updated: 2026-01-14T17:39:46Z
+  Updated: 2026-01-28T08:56:49Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2989.png?v=1761652048
-  Price: £29.99 GBP
+  Price: £25.00 GBP
 - [20cl Santa’s sweet snacks candle](https://siaroma.co.uk/products/20cl-santa-s-sweet-snacks-candle): This festive 20cl soy wax candle wooden wick will fill your home with the delicious scent of Santa's sweet snacks. With notes of pumpkin, orange, cinnamon, and maple syrup, this candle will create a warm and inviting atmosphere. Burn time of approximately 30 hours.
   Updated: 2025-12-02T21:55:15Z
   Vendor: Si Aroma
@@ -346,21 +346,21 @@
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3003.png?v=1761658858
     Price: £15.00 GBP
 - [30cl Santa’s sweet snacks candle](https://siaroma.co.uk/products/30cl-santa-s-sweet-snacks-candle): Indulge in the warm and cozy ambience of our 30cl soy wax candle. With a wooden wick and bamboo lid, it offers approximately 40-50 hours of burning time. Enjoy the mouthwatering blend of pumpkin, orange, cinnamon, and clove, layered with nutmeg and maple syrup. Its base of caramel, vanilla, milk, and musk adds a creamy richness.
-  Updated: 2025-11-23T16:23:55Z
+  Updated: 2026-01-28T08:56:41Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3007.png?v=1761659929
-  Price: £27.50 GBP
+  Price: £25.00 GBP
 - [30cl Santa’s sweet snacks candle](https://siaroma.co.uk/products/30cl-santa-s-sweet-snacks-candle-1): Indulge in the cozy scents of the holiday season with our 30cl Santa’s sweet snacks candle. Made with soy wax and housed in a luxurious rose gold jar with a bamboo lid, this candle offers approximately 40-50 hours of burn time. Immerse yourself in the mouthwatering blend of pumpkin, orange, cinnamon, and clove, followed by notes of nutmeg, maple syrup, caramel, vanilla, milk, and musk. Perfect for creating a warm and inviting atmosphere.
-  Updated: 2026-01-14T17:39:40Z
+  Updated: 2026-01-28T08:56:31Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3012.png?v=1761660542
-  Price: £27.50 GBP
+  Price: £25.00 GBP
 - [30cl Christmas Wish candle](https://siaroma.co.uk/products/30cl-christmas-wish-candle): Capture the essence of festive comfort with our 30cl Christmas Wish candle. Made with soy wax, the candle burns for 40-50 hours and comes in a rose gold or silver jar with a bamboo lid. Enjoy the warm and inviting scents of cinnamon, clove, orange, mandarin, and soft woods, perfect for creating a cozy and uplifting atmosphere during the holiday season.
-  Updated: 2025-12-21T15:01:10Z
+  Updated: 2026-01-28T08:56:04Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -368,34 +368,34 @@
   - [Silver](https://siaroma.co.uk/products/30cl-christmas-wish-candle?variant=55789486702924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/0EC465BA-C1D5-4EA9-8B03-07C8075296D7.png?v=1761662169
-    Price: £27.50 GBP
+    Price: £25.00 GBP
   - [Rose gold](https://siaroma.co.uk/products/30cl-christmas-wish-candle?variant=55789486735692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/BF634EF0-1F2A-48D0-8980-620C9A667D0F.jpg?v=1761662168
-    Price: £27.50 GBP
+    Price: £25.00 GBP
 - [30cl Lavender chamomile & Vanilla candle](https://siaroma.co.uk/products/30cl-lavender-chamomile-vanilla-candle): Relax and unwind with our 30cl Lavender Chamomile & Vanilla soy wax candle. With a luxurious rose gold jar, wooden wick, and bamboo lid, it has a burning time of 40-50 hours. Enjoy the rich musky floral scent of ylang, gardenia, bergamot, rose, and hibiscus, perfect for creating a peaceful atmosphere.
-  Updated: 2025-11-23T16:37:59Z
+  Updated: 2026-01-28T08:59:11Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3025.png?v=1761663944
-  Price: £27.50 GBP
+  Price: £25.00 GBP
 - [20cl Lavender chamomile & Vanilla candle](https://siaroma.co.uk/products/20cl-lavender-chamomile-vanilla-candle): Experience the calming and aromatic ambiance of our 20cl Lavender chamomile & Vanilla candle. Made with soy wax, this 20cl candle offers approximately 30 hours of burning time. Featuring a rich musky floral accord with top notes of ylang, gardenia, bergamot, orange, lavender and chamomile, and a base of musk, hibiscus, Tonka and precious woods.
-  Updated: 2025-11-28T16:34:03Z
+  Updated: 2026-01-28T08:59:03Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3030.png?v=1761663945
-  Price: £14.99 GBP
+  Price: £15.00 GBP
 - [20cl Blackberry & Bay Leaf candle](https://siaroma.co.uk/products/20cl-blackberry-bay-leaf-candle): Indulge your senses with our 20cl Blackberry & Bay Leaf candle. Made with high-quality soy wax, enjoy up to 30 hours of burn time. Immerse yourself in nature with its dark berry, fresh green leaf, and woody undertones, evoking the enchanting feeling of a forest stroll.
-  Updated: 2025-11-10T21:45:12Z
+  Updated: 2026-01-28T08:58:55Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3052.png?v=1761695889
-  Price: £19.99 GBP
+  Price: £15.00 GBP
 - [30cl Pinkblush candle](https://siaroma.co.uk/products/30cl-pinkblush-candle): Introducing the 30cl Pinkblush Candle - an eco-friendly soy wax candle that provides a clean burn for up to 50 hours. Enjoy the bold and sweet aroma of Morello cherries, pink pepper, and orange blossom, with a base of pink praline and vanilla pods. Comes with a stylish bamboo lid for a touch of elegance.
-  Updated: 2025-12-21T15:00:52Z
+  Updated: 2026-01-28T08:58:43Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -403,41 +403,41 @@
   - [Rose gold](https://siaroma.co.uk/products/30cl-pinkblush-candle?variant=55794531107148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3057.jpg?v=1761698137
-    Price: £27.50 GBP
+    Price: £25.00 GBP
   - [Silver](https://siaroma.co.uk/products/30cl-pinkblush-candle?variant=55794531139916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3059.png?v=1761698138
-    Price: £27.50 GBP
+    Price: £25.00 GBP
 - [20cl Exotic Flower candle](https://siaroma.co.uk/products/20cl-exotic-flower-candle): Experience a luxurious ambiance with our 20cl Exotic Flower candle. Made with soy wax and a wooden wick, it offers approximately 30 hours of burn time. Enjoy the fresh, fruity top notes of pear, apple, peach, and bergamot, before being enveloped by a watery floral heart of rose, jasmine, violet, lily, and chamomile. Let the base of soft woods provide a soothing and comforting finish.
-  Updated: 2025-11-28T16:33:02Z
+  Updated: 2026-01-28T08:58:34Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3061.png?v=1761699256
-  Price: £14.99 GBP
+  Price: £15.00 GBP
 - [30cl Shine on candle](https://siaroma.co.uk/products/30cl-shine-on-candle): Experience a sensory journey with our 30cl Shine on candle. Made with soy wax and a wooden wick, it offers a long burn time of 40-50 hours. The floral and fruity top notes blend seamlessly with a heart of floral or spicy scents and a warm, sweet, or woody base. Indulge in the "Shine" fragrance with pink berry, jasmine, and vanilla notes.
-  Updated: 2026-01-14T17:40:06Z
+  Updated: 2026-01-28T08:58:27Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3065.png?v=1761700286
-  Price: £27.50 GBP
+  Price: £25.00 GBP
 - [20cl Sheer Pink candle](https://siaroma.co.uk/products/20cl-sheer-pink-candle): Experience the light and airy blend of fruity, floral, and sweet notes with our 20cl Sheer Pink candle. With a wooden wick and approximately 30 hours of burn time, you can enjoy a delicate aroma and a longer-lasting fragrance. Made with soy wax, this luxurious candle is sure to elevate any space.
-  Updated: 2025-11-28T16:33:12Z
+  Updated: 2026-01-28T08:59:53Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3068.png?v=1761701258
-  Price: £14.99 GBP
+  Price: £15.00 GBP
 - [20cl Plush candle](https://siaroma.co.uk/products/20cl-plush-candle): Experience relaxation and ambiance with our 20cl Plush candle. Made with soy wax and a wooden wick, this candle offers approximately 30 hours of burn time. The soft, floral, and powdery notes will create a calming atmosphere in any room.
-  Updated: 2025-11-28T16:32:48Z
+  Updated: 2026-01-28T08:58:17Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3071.png?v=1761702038
-  Price: £14.99 GBP
+  Price: £15.00 GBP
 - [20cl Pear Drops candle](https://siaroma.co.uk/products/20cl-pear-drops-candle): Indulge in the sweet aroma of Pear Drops with this 20cl soy wax candle. With approximately 30 hours of burn time, this candle is perfect for creating a warm and inviting atmosphere. The blend of fruity, sweet pears with a dash of sugar will remind you of your favorite childhood candy. Enjoy top notes of pear and raspberry, followed by a mix of floral and spicy middle notes, and a base of powdery raspberry, vanilla, and musk. A must-have for any candle lover.
-  Updated: 2025-11-28T16:32:39Z
+  Updated: 2026-01-28T08:58:11Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -445,15 +445,15 @@
   - [Black](https://siaroma.co.uk/products/20cl-pear-drops-candle?variant=55794806292812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3075.png?v=1761703290
-    Price: £14.99 GBP
+    Price: £15.00 GBP
   - [Rose gold](https://siaroma.co.uk/products/20cl-pear-drops-candle?variant=55794806325580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3076.png?v=1761703289
-    Price: £14.99 GBP
+    Price: £15.00 GBP
   - [Grey](https://siaroma.co.uk/products/20cl-pear-drops-candle?variant=55794806358348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3077.png?v=1761703290
-    Price: £14.99 GBP
+    Price: £15.00 GBP
 - [30cl Desirable candle](https://siaroma.co.uk/products/30cl-desirable-candle): Introducing the 30cl Desirable Candle, perfect for creating a spooky Halloween ambiance. Crafted with 30cl soy wax, this candle features a captivating blend of fresh orange, jasmine, rose, patchouli, and vetiver for a strong yet refreshing scent. Awaken your senses and elevate your space with this alluring composition.
   Updated: 2025-11-17T22:04:56Z
   Vendor: Si Aroma
@@ -757,7 +757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3746.png?v=1763460048
     Price: £10.00 GBP
 - [Heart in hands candle](https://siaroma.co.uk/products/heart-in-hands-candle): The Heart in Hands Candle is a beautiful addition to any home or office, adding a touch of decoration and ambiance. Made with approximately 150g of high-quality wax, this candle comes in a variety of colors and scents to suit your personal preference. Give it as a thoughtful and unique gift, or indulge in its calming glow for yourself.
-  Updated: 2025-11-18T21:40:41Z
+  Updated: 2026-01-28T08:53:55Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -765,19 +765,19 @@
   - [White / Opulence](https://siaroma.co.uk/products/heart-in-hands-candle?variant=55971007365452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3742.png?v=1763458675
-    Price: £11.99 GBP
+    Price: £7.99 GBP
   - [Pastel purple / Opulence](https://siaroma.co.uk/products/heart-in-hands-candle?variant=55971007430988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3741.png?v=1763458676
-    Price: £11.99 GBP
+    Price: £7.99 GBP
   - [White / Blackberry & Bay leaf](https://siaroma.co.uk/products/heart-in-hands-candle?variant=55971014050124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3742.png?v=1763458675
-    Price: £11.99 GBP
+    Price: £7.99 GBP
   - [Pink / Minimal](https://siaroma.co.uk/products/heart-in-hands-candle?variant=55971014148428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3743.png?v=1763458675
-    Price: £11.99 GBP
+    Price: £7.99 GBP
 - [Set of 3 rose candles](https://siaroma.co.uk/products/untitled-nov19_12-41): Indulge in the elegant beauty of our Set of 3 Rose Candles. Perfect for any occasion, these candles are delicately packed in a white box for a lovely presentation. Choose from a variety of scents and colors to create the perfect ambiance. Each rose weighs approximately 50g, providing a long-lasting and fragrant experience.
   Updated: 2025-11-20T02:50:03Z
   Vendor: Si Aroma
@@ -911,20 +911,13 @@
   - [Banana](https://siaroma.co.uk/products/wax-melt-snap-bars-50g?variant=56159518818636)
     Availability: Available
     Price: £3.50 GBP
-- [Christmas Wax melt bundle](https://siaroma.co.uk/products/christmas-wax-melt-bundle): Indulge in the holiday spirit with our Christmas Wax Melt Bundle. This bundle includes 6 different scents: Christmas Wish, Merry Christmas, Shea, Mixed Berry Squash, Choc Raspberry Ice, and Ditsy Sweets. Made with soy wax and high quality fragrance oils, each 50g melt provides long-lasting results.
-  Updated: 2025-12-17T04:30:06Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4396.png?v=1765902489
-  Price: £20.00 GBP
 - [Decorative Pastel Puppy Candle – Handmade Soy Wax (515g)](https://siaroma.co.uk/products/decorative-pastel-puppy-candle-handmade-soy-wax-515g): Add a touch of charm and warmth to your space with this beautifully handcrafted decorative candle. Designed in a soft pastel tone, this adorable puppy-shaped candle is made from 100% natural soy wax, giving it a smooth finish and an elegant, artisanal feel. Lightly scented to create a subtle and calming ambiance, it’s perfect for styling shelves, coffee tables, nurseries, or gifting to candle lovers. While fully functional, this candle is also ideal as a décor piece, bringing personality and coziness to any room. Details: Handmade decorative candle Natural soy wax Light pastel colour Lightly scented for a gentle aroma Weight: 515g A perfect blend of artistry and fragrance, this candle is designed to delight—whether displayed or softly lit. 🕯️✨ Candle Safety Information: This candle is intended primarily for decorative purposes. If you choose to burn it, always place it on a stable, heat-resistant surface to prevent heat damage or wax spills. Never leave a lit candle unattended, and keep it away from flammable materials, children, and pets. Trim the wick to 5 mm before lighting for a cleaner, safer burn, and extinguish the candle when approximately 1 cm of wax remains.
-  Updated: 2025-12-18T22:09:56Z
+  Updated: 2026-01-28T08:53:23Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4460.png?v=1766052373
-  Price: £55.00 GBP
+  Price: £50.00 GBP
 - [Wax Melt Flower Bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-3): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 580g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
   Updated: 2025-12-19T00:55:13Z
   Vendor: Si Aroma
@@ -953,7 +946,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4483.png?v=1766064460
   Price: £40.00 GBP
-[List Continued](https://siaroma.co.uk/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2Njg3OTM4NTkzMiwibGFzdF92YWx1ZSI6IjE1NDY2ODc5Mzg1OTMyIn0=)
+- [🎀 Luxury Red Bow Gift Box – Candle & Wax Melt Collection 🎀](https://siaroma.co.uk/products/🎀-luxury-red-bow-gift-box-candle-wax-melt-collection-🎀): Create the perfect present with this stunning, elegant gift set beautifully packaged in a large red keepsake box finished with a statement bow tie lid. Designed to impress at first sight, this luxurious box makes an unforgettable gift for birthdays, anniversaries, Valentine’s Day, or simply treating someone special. Inside, you’ll discover a hand-picked collection of indulgent home fragrance favourites: ✨ What’s included: • 1 × 20cl candle in Plush scent • 1 × Cloud Blue crackle wax melt/oil burner • 5 × 60g heart-shaped wax melts in: – Sour Patches – Ruby Figure – Pink Blush – Lily of the Valley – Bahama Breeze Each scent fills your home with long-lasting, beautiful fragrance, while the stylish crackle burner adds a cosy decorative touch to any room. The reusable red bow box not only protects your treats but also doubles as a gorgeous keepsake storage box – no wrapping required! 💝 Perfect for gifting. Beautiful to display. Delightful to enjoy.
+  Updated: 2026-01-27T04:45:41Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5058.png?v=1769445614
+  Price: £40.00 GBP
+[List Continued](https://siaroma.co.uk/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUzODk4NTg2MTQ1MiwibGFzdF92YWx1ZSI6IjE1NTM4OTg1ODYxNDUyIn0=)
 
 ## Collections
 
@@ -961,17 +961,17 @@
   Updated: 2025-11-10T21:45:04Z
   Total Products: 0
 - [Candles](https://siaroma.co.uk/collections/candles)
-  Updated: 2025-11-28T16:34:47Z
+  Updated: 2026-01-28T08:59:54Z
   Total Products: 16
 - [Wax Melts](https://siaroma.co.uk/collections/wax-melts)
-  Updated: 2025-12-16T16:30:58Z
+  Updated: 2026-01-26T16:47:11Z
   Total Products: 24
 - [Car Fresheners](https://siaroma.co.uk/collections/reed-diffusers)
   Updated: 2026-01-06T15:51:57Z
   Total Products: 4
 - [Gift sets & Bundles](https://siaroma.co.uk/collections/gift-sets)
-  Updated: 2025-12-18T13:28:25Z
-  Total Products: 13
+  Updated: 2026-01-26T16:47:11Z
+  Total Products: 14
 - [Accessories & Decor](https://siaroma.co.uk/collections/accessories-decor)
   Updated: 2025-12-12T12:31:32Z
   Total Products: 14
@@ -979,10 +979,10 @@
   Updated: 2025-12-04T21:04:28Z
   Total Products: 11
 - [Seasonal Products](https://siaroma.co.uk/collections/seasonal-products): Seasonal Collections – Celebrate Every Moment with Fragrance & Style Transform your home for every season and special occasion with our enchanting Seasonal Products. From the warm glow of Christmas candles to the playful scents of Easter and the spooky charm of Halloween, each collection is thoughtfully crafted to capture the spirit of the season. Discover hand-poured wax melts, luxury candles, and festive home décor designed to fill your space with comforting aromas and stunning seasonal style. Whether you’re celebrating Valentine’s Day, cosy autumn evenings, or joyful winter holidays, our unique creations bring the perfect touch of magic to your home.
-  Updated: 2026-01-06T15:51:57Z
+  Updated: 2026-01-28T08:56:42Z
   Total Products: 20
 - [Decorative Candles](https://siaroma.co.uk/collections/decorative-candles): Candle Safety NoticeOur decorative candles are primarily designed for display and aesthetic purposes. If you choose to light them, please do so responsibly. Always place the candle on a heat-resistant, suitable dish or holder to catch any melting wax. Never leave a burning candle unattended or near flammable materials. Keep out of reach of children and pets, and ensure the candle is placed on a stable, flat surface away from drafts. Extinguish the flame completely before leaving the room or going to sleep. Enjoy your Si Aroma candle safely and beautifully.
-  Updated: 2025-12-18T10:10:52Z
+  Updated: 2026-01-28T08:53:56Z
   Total Products: 9
 - [Reed Diffusers](https://siaroma.co.uk/collections/reed-diffusers-1)
   Updated: 2025-11-10T21:45:04Z
@@ -993,6 +993,9 @@
 - [Media And Entertainment example products](https://siaroma.co.uk/collections/media-and-entertainment-example-products)
   Updated: 2025-11-17T20:57:51Z
   Total Products: 0
+- [Valentine’s Day collection](https://siaroma.co.uk/collections/valentine-s-day-collection): Say ,,I love you’’ with aroma they enjoy ❤️🎁
+  Updated: 2026-01-29T18:44:46Z
+  Total Products: 12
 
 ## Store Pages
 
