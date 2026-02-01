@@ -6,23 +6,23 @@
 - Timezone: Europe/Madrid
 - Created At: 2024-09-22T21:03:11Z
 - Contact Email: nohaner@gmail.com
-- Updated At: 2026-01-20T00:00:35.394Z
+- Updated At: 2026-02-01T00:00:38.867Z
 
 ## Products
 
-- [18,73€/L - Alcohol Para Hacer Licores 96º - Alcohol Alimentario 96º](https://www.alcoholparahacerlicores.com/products/alcohol-alimentario-96): 18,73€/L. IVA e impuesto al Alcohol incluidos. Envío Gratis (3-5 días) Precio Venta Alcohol Etílico Puro Para Limoncello Elaborar Licor fabricar Mistela Donde Comprar Alcohol Uso Alimenticio Neutro De Boca Etanol 96 grados Etilium
-  Updated: 2026-01-19T21:58:34Z
+- [18,73€/L- Alcohol Para Hacer Licores 96º| Alcohol Alimentario 96º](https://www.alcoholparahacerlicores.com/products/alcohol-alimentario-96): 18,73€/L. IVA e impuesto al Alcohol incluidos. Envío Gratis (3-5 días) ✔ Grado alcohólico: 96º ✔ Uso alimentario certificado ✔ Sabor neutro (no altera el licor) ✔ Apto para maceraciones ✔ Etilium Ideal para licores caseros: limoncello, mistela, orujo, hierbas, extractos, maceraciones...
+  Updated: 2026-01-31T16:08:44Z
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0898/5021/6771/files/Alcohol-Para-Hacer-Licores-Alcohol-Alimentario-1-litro.webp?v=1766384434
+  Image: https://cdn.shopify.com/s/files/1/0898/5021/6771/files/Alcohol-Para-Hacer-Licores-Alcohol-Alimentario-Etilium-1-litro.webp?v=1769623948
   - [1 Litro (26,26€/L)](https://www.alcoholparahacerlicores.com/products/alcohol-alimentario-96?variant=49394198053187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0898/5021/6771/files/Alcohol-Para-Hacer-Licores-Alcohol-Alimentario-1-litro.webp?v=1766384434
+    Image: https://cdn.shopify.com/s/files/1/0898/5021/6771/files/Alcohol-Para-Hacer-Licores-Alcohol-Alimentario-Etilium-1-litro.webp?v=1769623948
     Price: 26,26 € EUR
   - [3 Litros (24,16€/L)](https://www.alcoholparahacerlicores.com/products/alcohol-alimentario-96?variant=49394198085955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0898/5021/6771/files/Alcohol-Para-Hacer-Licores-Alcohol-Alimentario-1-litro.webp?v=1766384434
+    Image: https://cdn.shopify.com/s/files/1/0898/5021/6771/files/Alcohol-Para-Hacer-Licores-Alcohol-Alimentario-Etilium-1-litro.webp?v=1769623948
     Price: 72,50 € EUR
   - [5 Litros (20,72€/L)](https://www.alcoholparahacerlicores.com/products/alcohol-alimentario-96?variant=49394198118723)
     Availability: Available
@@ -72,16 +72,16 @@
 ## Collections
 
 - [Productos:](https://www.alcoholparahacerlicores.com/collections/frontpage)
-  Updated: 2026-01-19T12:19:44Z
+  Updated: 2026-01-31T12:18:42Z
   Total Products: 5
 - [Catálogo](https://www.alcoholparahacerlicores.com/collections/catalogo)
-  Updated: 2026-01-19T12:19:44Z
+  Updated: 2026-01-31T12:18:42Z
   Total Products: 11
 - [carrito](https://www.alcoholparahacerlicores.com/collections/carrito)
-  Updated: 2026-01-19T12:19:44Z
+  Updated: 2026-01-31T12:18:42Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.alcoholparahacerlicores.com/collections/avada-best-sellers)
-  Updated: 2026-01-19T12:19:44Z
+  Updated: 2026-01-31T12:18:42Z
   Total Products: 11
 
 ## Store Pages
