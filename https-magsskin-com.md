@@ -6,40 +6,40 @@
 - Timezone: America/New_York
 - Created At: 2024-08-04T13:55:49Z
 - Contact Email: hello@magsskin.com
-- Updated At: 2026-01-21T21:21:26.450Z
+- Updated At: 2026-02-01T00:00:32.648Z
 
 ## Products
 
 - [MAGS Skin Deodorant For Sensitive Skin](https://magsskin.com/products/mags-skin-deodorant): A dermatologist- solution for sensitive underarms. No rubbing, no irritation, just clean confidence. MAGS Skin is made with magnesium, a naturally occurring mineral that helps neutralize odor-causing bacteria without disrupting your skin’s pH. Unlike traditional deodorants that rely on aluminum, baking soda, or fragrance, MAGS Skin keeps odor in check without triggering stinging, flare-ups, or discomfort. And because it’s a spray, there’s no need to rub or apply pressure to already sensitive skin making it ideal for anyone dealing with eczema, psoriasis, post-shave irritation, or dermatitis. It’s fast-drying, non-toxic, and safe enough to use every single day. In user trials with 307 participants: 96% said they stayed odor-free for 24 hours 92% experienced no irritation, stinging, or redness 89% would recommend MAGS Skin to friends
-  Updated: 2026-01-21T16:01:24Z
+  Updated: 2026-01-31T21:35:13Z
   Vendor: MAGS Skin
   Product Type: Deodorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/MAGSSkinSeal_MainImage_-30DAY.png?v=1765399933
   Price: $39.97 USD
 - [BIA Eczema Relief Lotion](https://magsskin.com/products/bia-eczema-relief-lotion): As our largest organ, skin’s primary job is to serve as a physical barrier to the outside world. For skin to properly perform its protective function, it must be adequately hydrated. Healthy skin feels soft, smooth, and plump. When skin becomes dehydrated, both its appearance and protective function begin to deteriorate; it becomes dry, flaky, and itchy. When skin dries out (and it’s the last organ to re-hydrate), the skin barrier begins to degrade, leading to more rapid water loss. This degradation accelerates with daily exposure to environmental stressors (sun/pollution) and the degree of degradation accumulates with age. Hence, as one gets older, an increase in the frequency of applying water-containing skincare products is needed. While water-containing formulations do re-hydrate the skin, this effect is only temporary due to evaporation. To lock in this moisture, formulations must contain ingredients that attract water present externally in the air and internally within the lower layers of the skin. They must also form a moisture sealing layer on the skin’s surface to slow the evaporation process. The Bia collection is focused on hydration, moisture retention, and cleansing without stripping moisture in a way that also supports the microbiome. Our BiaComplex® 2.0 was specifically designed to soothe dry skin, help shed its outer dry layers, moisturize, and seal in water by forming a protective barrier. BIA now includes the first OTC product containing active 1% Colloidal Oatmeal for eczema.
-  Updated: 2026-01-21T18:47:04Z
+  Updated: 2026-01-31T20:43:22Z
   Vendor: Codex Labs Corp
   Product Type: Lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/CL_Packshot_BIA-Lotion-US_WEB.jpg?v=1764091888
   Price: $38.00 USD
 - [SUPERBAND Value Pack of 9](https://magsskin.com/products/superband-value-pack-of-9): Stock up and save. This case includes 9 boxes of SUPERBANDS, our best- hydrocolloid bandage for healing cuts, scrapes, burns, blemishes, eczema, and post-procedure skin with less scarring and faster recovery. Ideal for families, skin care lovers, wellness seekers, clinics, school nurses, estheticians, and anyone who values moist healing as part of their daily skin ritual. Each box includes 3 large SUPERBANDS (sterile, individually wrapped) Hypoallergenic, latex-free, ultra-gentle on sensitive skin Adheres securely without irritation, even overnight Designed for wounds that need TLC—not just coverage Shelf-stable and compact for easy storage or travel 💡 Bundle + Save: This 9-pack offers a built-in  compared to single-box purchases. Heal better. Stock smarter.
-  Updated: 2026-01-20T03:34:37Z
+  Updated: 2026-01-29T13:03:32Z
   Vendor: MAKEITSKIN, INC.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/Amazon_Clean9_864481b5-fc1a-4269-8ce1-437e23414de3.png?v=1765804866
   Price: $140.00 USD
 - [SUPERBAND](https://magsskin.com/products/superband): A modern bandage for fast, gentle skin recovery. SUPERBAND is your go-to hydrocolloid solution for scrapes, cuts, burns, eczema, and breakouts—designed to support healing, reduce scarring, and stay put through it all. Made for sensitive skin and eczema-prone areas, this premium, waterproof bandage protects while creating the perfect moist healing environment. Made in Korea by a leading hydrocolloid manufacturer, and brought to you by our Dallas-based small business. Whether it’s a blister from new shoes or a flare-up that needs calming, SUPERBAND helps your skin bounce back—faster, gentler, and cleaner. SUPERPOWERS: Creates a moist healing environment that supports faster recovery Helps minimize scarring and prevents scab formation Soothes and protects sensitive or eczema-prone skin Waterproof—sticks through showers, workouts, and daily wear Customizable and flexible: cut to size for any shape or wound Clean, vegan, cruelty-free and hypoallergenic What’s inside: 3 large bandages, individually sealed for sterility Dimensions: 2.75 x 3.94 in Material: Latex-free -grade hydrocolloid
-  Updated: 2026-01-21T20:49:52Z
+  Updated: 2026-01-31T23:35:56Z
   Vendor: MAKEITSKIN, INC.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/Amazon_Thumbnails_030925-07.jpg?v=1765804867
   Price: $20.00 USD
 - [Skin Barrier Eczema Relief System (: 18+)](https://magsskin.com/products/skin-barrier-eczema-relief-system--18): A system trio for improving and comforting dry, itchy skin from the inside & out by addressing the skin-gut connection of eczema. Temporarily protects and helps relieve minor skin irritation due to eczema and rashes.
-  Updated: 2026-01-21T18:16:12Z
+  Updated: 2026-01-31T21:31:00Z
   Vendor: Codex Labs Corp
   Product Type: Bundles
   Availability: Available
@@ -49,10 +49,10 @@
 ## Collections
 
 - [All Products](https://magsskin.com/collections/all)
-  Updated: 2026-01-21T12:16:19Z
+  Updated: 2026-01-31T12:16:27Z
   Total Products: 2
 - [Sensitive Skin Collection](https://magsskin.com/collections/sensitive-skin-collection)
-  Updated: 2026-01-21T12:16:19Z
+  Updated: 2026-01-31T12:16:27Z
   Total Products: 5
 
 ## Blogs
@@ -816,7 +816,7 @@
 - [Questions? Comments? Rashes? We’re here!](https://magsskin.com/pages/contact)
   Updated: 2025-05-30T12:54:38Z
 - [Your Privacy Choices](https://magsskin.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-06-30T13:56:04Z
+  Updated: 2026-01-28T15:26:22Z
 - [FAQs](https://magsskin.com/pages/faqs)
   Updated: 2025-04-09T20:49:31Z
 - [Meet MAGS Skin](https://magsskin.com/pages/about): Sensitive skin deserves the gentlest care.But for people with eczema, psoriasis, and reactive skin, underarms were ignored and irritation was expec...
