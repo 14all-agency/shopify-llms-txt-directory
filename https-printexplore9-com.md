@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2026-01-17T15:10:48.178Z
+- Updated At: 2026-02-01T14:12:14.251Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -1114,7 +1114,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Hair_growth_Tonic.jpg?v=1759082290
   Price: $31.90 USD
 - [Snail Mucin Facial Serum for Deep Hydration & Skin Repair](https://printexplore9.com/products/snail-mucin-facial-serum): Transform dull skin with our Snail Mucin Serum—brightens tone, boosts elasticity, and deeply hydrates for smooth, youthful, glowing skin.
-  Updated: 2026-01-17T13:57:01Z
+  Updated: 2026-01-18T00:32:39Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
@@ -1171,17 +1171,17 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman_s_ideal_Raceback_Tank-Black_Lady.jpg?v=1759082302
     Price: $22.95 USD
-- [Custom Phone Cases – Sleek Design & Superior Protection](https://printexplore9.com/products/tough-cases-print-explore-3): Personalize your phone with premium custom cases. Durable dual-layer. wireless charging compatible matte or glossy finishes for style.
-  Updated: 2025-10-12T09:54:42Z
+- [Custom Phone Cases – Sleek Design & Superior Protection](https://printexplore9.com/products/custom-phone-cases): Personalize your phone with premium custom phone cases. Durable dual-layer. wireless charging compatible matte or glossy finishes for style.
+  Updated: 2026-01-28T21:58:28Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Tough_cases-Black_Lady.jpg?v=1759081870
-  - [iPhone 15 / Glossy](https://printexplore9.com/products/tough-cases-print-explore-3?variant=45614564901131)
+  - [iPhone 15 / Glossy](https://printexplore9.com/products/custom-phone-cases?variant=45614564901131)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Tough_cases-Black_Lady.jpg?v=1759081870
     Price: $25.00 USD
-  - [iPhone 15 / Matte](https://printexplore9.com/products/tough-cases-print-explore-3?variant=45614564933899)
+  - [iPhone 15 / Matte](https://printexplore9.com/products/custom-phone-cases?variant=45614564933899)
     Availability: Available
     Price: $25.00 USD
 - [Flowy  Scoop Muscle Tee | Lightweight, Stylish & Comfortable](https://printexplore9.com/products/womens-flowy-scoop-muscle-tank): Stay stylish and comfortable with our flowy muscle tee—lightweight, relaxed fit, and perfect for casual or athletic looks.
@@ -1908,8 +1908,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 
 ## Collections
 
-- [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-12-20T13:46:40Z
+- [Best- Products | Top Customer Favorites –Printexplore](https://printexplore9.com/collections/best-seller): Shop our best- products loved by customers. Discover top-rated favorites, proven quality, and trending picks at printexplore.
+  Updated: 2026-01-29T20:07:28Z
   Total Products: 40
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
   Updated: 2026-01-04T18:29:24Z
@@ -1930,7 +1930,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-12-12T02:02:10Z
   Total Products: 3
 - [Custom Phone Cases](https://printexplore9.com/collections/phone-cases): Explore our collection of custom phone cases Durable dual-layer protection wireless charging compatible Choose matte or glossy.
-  Updated: 2025-10-15T12:01:15Z
+  Updated: 2026-01-28T09:57:30Z
   Total Products: 4
 - [Suitcases](https://printexplore9.com/collections/suitcases)
   Updated: 2025-10-18T17:48:44Z
@@ -1939,7 +1939,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-12-07T10:32:34Z
   Total Products: 8
 - [Unisex distressed Caps](https://printexplore9.com/collections/unisex-distressed-caps)
-  Updated: 2025-12-13T16:41:51Z
+  Updated: 2026-02-01T10:15:29Z
   Total Products: 0
 - [Home/Room Decor](https://printexplore9.com/collections/home-room-decor): Eco-friendly home decor crafted to enhance your room with natural materials Stylish designs that bring warmth and care.
   Updated: 2025-11-09T06:47:33Z
@@ -1963,49 +1963,49 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   - [Celebrate Mom: Exclusive Mother’s Day Discounts & Deals](https://printexplore9.com/blogs/news/make-moms-heart-sing-unique-designs-unbeatable-savings-the-gift-of-security): Celebrate Mom: Exclusive Mother’s Day Discounts & Deals
     Updated: 2025-11-28T15:48:12Z
     Author: NAIRA AVALIANI
-  - [Printexplore: US Sustainable Apparel & Organic Skincare](https://printexplore9.com/blogs/news/press-release-printexplore-usa-made-sustainable-apparel-skincare): Printexplore: US Sustainable Apparel & Organic Skincare
-    Updated: 2025-12-05T16:39:45Z
+  - [Printexplore Sustainable Apparel | USA-Made Ethical Fashion](https://printexplore9.com/blogs/news/blogs-news-printexplore-sustainable-apparel-usa): Printexplore Sustainable Apparel | USA-Made Ethical Fashion
+    Updated: 2026-01-29T19:52:46Z
     Author: NAIRA AVALIANI
-  - [7  Ways to Glow This Holiday  | Clean Skincare & Mindful Gifts](https://printexplore9.com/blogs/news/7-ways-to-enjoy-a-sustainable-holiday-glow-natural-skincare-self-care-mindful-gifts): 7  Ways to Glow This Holiday  | Clean Skincare & Mindful Gifts
-    Updated: 2025-12-05T16:35:51Z
+  - [7  Ways to Glow This Holiday  | Organic Skincare](https://printexplore9.com/blogs/news/7-ways-to-enjoy-a-sustainable-holiday-glow-natural-skincare-self-care-mindful-gifts): 7  Ways to Glow This Holiday  | Organic Skincare
+    Updated: 2026-01-28T12:45:13Z
     Author: NAIRA AVALIANI
     Tags: eco-friendly skincare, holiday beauty tips, mindful living, sustainable holiday gifts
-  - [Snail Serum for Face: Benefits and How to Use It](https://printexplore9.com/blogs/news/snail-serum-for-face-benefits-and-how-to-use-it): <p>A short guide explaining how Snail Face Serum fits into a skincare routine and what to expect from regular use.</p>
-    Updated: 2026-01-17T14:25:14Z
+  - [Snail Serum for Face: Benefits and How to Use It](https://printexplore9.com/blogs/news/snail-serum-for-face-benefits-and-how-to-use-it): Snail Serum for Face: Benefits and How to Use It
+    Updated: 2026-01-29T19:53:44Z
     Author: NAIRA AVALIANI
 
 ## Store Pages
 
 - [Contact Us - We're Here to Help 24/7](https://printexplore9.com/pages/contact-us): "We make support easy! Got questions? reach out to us, we are here 24/7."
   Updated: 2024-10-06T07:02:17Z
-- [About | Print & Explore 9](https://printexplore9.com/pages/about-us): We Stand Behind Our Products Print &Explore was created for people who care about what they buy and why they buy it. We believe everyday products s...
-  Updated: 2025-12-17T09:29:37Z
+- [About Print & Explore – Our Story & Values](https://printexplore9.com/pages/about-us): We Stand Behind Our Products Print &Explore was created for people who care about what they buy and why they buy it. We believe everyday products s...
+  Updated: 2026-01-28T13:22:48Z
 - [Shipping Policy – Delivery Information | Printexplore9](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
   Updated: 2025-12-05T16:27:39Z
 - [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
   Updated: 2025-10-12T09:47:15Z
 - [Loyalty Program | Earn Rewards Today |Join For Free](https://printexplore9.com/pages/loyalty-program): Join the Print&Explore Loyalty Program and turn every purchase into points that you can redeem for discounts, free shipping, exclusive offers. its ...
   Updated: 2025-10-15T13:34:33Z
-- [T-Shirt Size Chart – Shop With Confidence](https://printexplore9.com/pages/size-chart): Size Chest Width (inches) Length (inches) Small 34-36 28 Medium 38-40 29 Large 42-44 30 XLarge 46-48 31 XXLarge 50-52 32
-  Updated: 2025-10-15T13:24:38Z
-- [Hoodie Size Chart – Find Your Perfect Fit Guide](https://printexplore9.com/pages/size-chart-hoodies): 
-  Updated: 2025-10-12T09:44:52Z
-- [T-Shirt Size Chart – Fit Guide by Printexplore 9](https://printexplore9.com/pages/size-chart-1): 
-  Updated: 2025-10-12T09:42:32Z
-- [Information for AI Tools – AI Disclosure File](https://printexplore9.com/pages/llms-txt): Printexplore9 Your destination for organic skincare and sustainable fashion. This page provides instructions for Large Language Model (LLM) crawler...
-  Updated: 2025-08-12T11:41:30Z
-- [Subscribe to Printexplore Insights](https://printexplore9.com/pages/subscribe-to-printexplore-insights): Get smart, actionable ideas on Brand protection and growth! “Don’t just shop — grow with us!” Join us for brand strategies, creative stories, and i...
-  Updated: 2025-11-01T11:01:18Z
+- [T-Shirt Size Chart – Shop With Confidence](https://printexplore9.com/pages/t-shirt-size-chart): This T-shirt Size Chart helps you find the correct fit before placing your order. Review chest width, shirt length, and sleeve measurements to comp...
+  Updated: 2026-01-29T19:51:35Z
+- [Size Chart Hoodies – Find Your Perfect Fit Guide](https://printexplore9.com/pages/size-chart-hoodies): This Size chart Hoodies page helps you choose the right fit before placing your order. Use the measurements to compare chest width, length, and sle...
+  Updated: 2026-01-28T13:57:48Z
+- [T-Shirt Size Chart – Fit Guide by Printexplore 9](https://printexplore9.com/pages/size-chart-1): The T-shirt Size Chart provides clear measurements to help you select the right size before ordering. Review chest width, shirt length, and sleeve ...
+  Updated: 2026-01-28T14:17:57Z
+- [Information for AI Tools – AI Disclosure File](https://printexplore9.com/pages/information-for-ai-tools): Printexplore9 Your destination for organic skincare and sustainable fashion. This page provides instructions for Large Language Model (LLM) crawler...
+  Updated: 2026-01-28T13:32:49Z
+- [Subscribe to Printexplore Insights](https://printexplore9.com/pages/subscribe-to-printexplore-insights): Subscribe to Printexplore Insights to receive practical ideas on brand growth, creative strategy, and thoughtful business practices. This page shar...
+  Updated: 2026-01-28T14:49:32Z
 - [Featured in the Media | Printexplore9](https://printexplore9.com/pages/featured-on-printexplore9): Media Features Printexplore9 has been featured in leading lifestyle, fashion, wellness, and sustainability publications. These features highlight o...
   Updated: 2026-01-03T14:48:58Z
 - [Materials & Sustainability| Bella+Canvas & Gildan Apparel](https://printexplore9.com/pages/materials-sustainability): Materials & Sustainability At PrintExplore, transparency matters. This page explains the materials used in our apparel, how they are constructed, a...
   Updated: 2025-12-26T10:23:05Z
 - [Skincare Ingredients & Manufacturing](https://printexplore9.com/pages/skincare-ingredients-manufacturing): Skincare Ingredients & Manufacturing At Print Explore, we believe skincare transparency is essential. This page provides general information about ...
-  Updated: 2026-01-03T17:21:03Z
+  Updated: 2026-01-28T14:51:30Z
 - [Premium Collection & Craftsmanship | Print Explore](https://printexplore9.com/pages/premium-collection-craftsmanship-print-explore): Premium Collection & Craftsmanship Our Premium Collection features a small selection of elevated apparel designed for comfort, durability, and long...
-  Updated: 2025-12-26T10:55:15Z
-- [Snail Mucin Serum Benefits, Uses & How to Apply | Complete Guide](https://printexplore9.com/pages/snail-mucin-serum-complete-guide): Snail Mucin Serum: Benefits, Uses, and How to Apply It for Healthy Skin Snail mucin serum has become a popular skincare staple for people looking t...
-  Updated: 2026-01-17T14:50:33Z
+  Updated: 2026-01-28T14:50:26Z
+- [Snail Mucin Serum for Acne-Prone skin](https://printexplore9.com/pages/snail-mucin-serum-benefits): Snail Mucin Serum for Acne-Prone Skin People with acne-prone skin often look for products that hydrate without feeling heavy. Snail mucin serum is ...
+  Updated: 2026-01-29T19:43:24Z
 
 ## Policies
 
