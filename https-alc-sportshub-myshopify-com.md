@@ -6,7 +6,7 @@
 - Timezone: Asia/Manila
 - Created At: 2025-12-04T12:15:28Z
 - Contact Email: angelanc13@gmail.com
-- Updated At: 2026-01-25T00:00:29.281Z
+- Updated At: 2026-02-01T00:00:33.961Z
 
 ## Products
 
@@ -206,6 +206,104 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/onealelement740.avif?v=1768457691
   Price: ₱750.00 PHP
+- [nike soccer shoes](https://alc-sportshub.myshopify.com/products/nike-soccer-shoes)
+  Updated: 2026-01-29T03:56:27Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/nikesoccer.jpg?v=1769656833
+  Price: ₱3,500.00 PHP
+- [puma black](https://alc-sportshub.myshopify.com/products/puma-black)
+  Updated: 2026-01-29T04:02:32Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/pumasoccershoes.jpg?v=1769656927
+  Price: ₱3,200.00 PHP
+- [adidas green](https://alc-sportshub.myshopify.com/products/adidas-green)
+  Updated: 2026-01-29T04:02:18Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/addidassoccershoes.jpg?v=1769656992
+  Price: ₱3,400.00 PHP
+- [nike elite](https://alc-sportshub.myshopify.com/products/nike-elite)
+  Updated: 2026-01-29T03:58:23Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/nikesoccershoes.jpg?v=1769657059
+  Price: ₱3,500.00 PHP
+- [speargun](https://alc-sportshub.myshopify.com/products/speargun)
+  Updated: 2026-01-29T03:59:25Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/speargun.jpg?v=1769657143
+  Price: ₱4,300.00 PHP
+- [spear fishing gear short](https://alc-sportshub.myshopify.com/products/spear-fishing-gear-short)
+  Updated: 2026-01-29T04:07:14Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/spearfishinggears.jpg?v=1769657208
+  Price: ₱5,000.00 PHP
+- [spear full body set](https://alc-sportshub.myshopify.com/products/spear-full-body-set)
+  Updated: 2026-01-29T15:31:40Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/spearfishinggear.jpg?v=1769657566
+  Price: ₱7,000.00 PHP
+- [spear fishing full set](https://alc-sportshub.myshopify.com/products/spear-fishing-full-set)
+  Updated: 2026-01-29T04:15:21Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/spearfishing.jpg?v=1769657717
+  Price: ₱7,000.00 PHP
+- [bow and arrow with accesories](https://alc-sportshub.myshopify.com/products/bow-and-arrow-with-accesories)
+  Updated: 2026-01-29T04:30:19Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/bow.jpg?v=1769658494
+  Price: ₱4,000.00 PHP
+- [bow and arrow](https://alc-sportshub.myshopify.com/products/bow-and-arrow)
+  Updated: 2026-01-29T04:33:28Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/bowandarrow.jpg?v=1769658589
+  Price: ₱1,300.00 PHP
+- [bow and arrow with target pad](https://alc-sportshub.myshopify.com/products/bow-and-arrow-with-target-pad)
+  Updated: 2026-01-29T04:31:00Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/bowsandarrows.jpg?v=1769658662
+  Price: ₱2,350.00 PHP
+- [dart board with cabinet](https://alc-sportshub.myshopify.com/products/dart-board-with-cabinet)
+  Updated: 2026-01-29T13:20:38Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/dartcabinet.jpg?v=1769658744
+  Price: ₱2,900.00 PHP
+- [dart pins](https://alc-sportshub.myshopify.com/products/dart-pins)
+  Updated: 2026-01-29T04:43:55Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/dartpins.jpg?v=1769658824
+  Price: ₱450.00 PHP
+- [dart board and pins](https://alc-sportshub.myshopify.com/products/dart-board-and-pins)
+  Updated: 2026-01-29T04:39:21Z
+  Vendor: Abtik Sportsgear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4626/0340/files/boardandpins.jpg?v=1769658896
+  Price: ₱2,300.00 PHP
 
 ## Collections
 
@@ -213,8 +311,8 @@
   Updated: 2025-12-08T03:16:01Z
   Total Products: 4
 - [water sports](https://alc-sportshub.myshopify.com/collections/water-sports)
-  Updated: 2026-01-15T04:15:08Z
-  Total Products: 2
+  Updated: 2026-01-29T03:58:39Z
+  Total Products: 6
 - [trend sports](https://alc-sportshub.myshopify.com/collections/water-sports-1)
   Updated: 2025-12-20T02:21:56Z
   Total Products: 3
@@ -225,31 +323,44 @@
   Updated: 2026-01-15T05:17:45Z
   Total Products: 10
 - [happy feet games](https://alc-sportshub.myshopify.com/collections/football)
-  Updated: 2026-01-15T04:27:18Z
-  Total Products: 0
+  Updated: 2026-01-29T03:58:01Z
+  Total Products: 9
 - [bullseye](https://alc-sportshub.myshopify.com/collections/bullseye)
-  Updated: 2026-01-15T04:29:33Z
-  Total Products: 0
+  Updated: 2026-01-29T03:56:31Z
+  Total Products: 6
 - [riding gears](https://alc-sportshub.myshopify.com/collections/rides)
   Updated: 2026-01-15T06:16:32Z
   Total Products: 6
-- [page front](https://alc-sportshub.myshopify.com/collections/page-front)
-  Updated: 2026-01-16T01:57:04Z
-  Total Products: 5
+- [Top Performance](https://alc-sportshub.myshopify.com/collections/page-front)
+  Updated: 2026-01-29T03:59:48Z
+  Total Products: 12
+
+## Blogs
+
+- [News](https://alc-sportshub.myshopify.com/blogs/news)
+  - [Sportwear ideas](https://alc-sportshub.myshopify.com/blogs/news/sportwear-ideas)
+    Updated: 2026-01-31T05:24:10Z
+    Author: Angelito Ancog
 
 ## Store Pages
 
 - [Contact](https://alc-sportshub.myshopify.com/pages/contact)
   Updated: 2025-12-04T12:15:30Z
-- [About](https://alc-sportshub.myshopify.com/pages/about): Our History ALC Sportshub was founded with a simple idea: to make quality sports gear accessible to everyone, from beginners taking their first ste...
-  Updated: 2025-12-20T01:14:54Z
+- [About](https://alc-sportshub.myshopify.com/pages/about): Our History Abtik Sportsgear was founded with a simple idea: to make quality sports gear accessible to everyone, from beginners taking their first ...
+  Updated: 2026-01-29T01:55:28Z
 
 ## Policies
 
 - [Privacy Policy](https://alc-sportshub.myshopify.com/policies/privacy-policy)
   Updated: 2025-12-04T20:15:37+08:00
+- [Shipping Policy](https://alc-sportshub.myshopify.com/policies/shipping-policy)
+  Updated: 2026-01-29T09:13:14+08:00
 - [Refund Policy](https://alc-sportshub.myshopify.com/policies/refund-policy)
-  Updated: 2025-12-08T10:55:18+08:00
+  Updated: 2026-01-29T09:14:40+08:00
+- [Terms of Service](https://alc-sportshub.myshopify.com/policies/terms-of-service)
+  Updated: 2026-01-29T09:11:26+08:00
+- [Contact Information](https://alc-sportshub.myshopify.com/policies/contact-information)
+  Updated: 2026-01-29T09:13:37+08:00
 
 ## Optional
 
