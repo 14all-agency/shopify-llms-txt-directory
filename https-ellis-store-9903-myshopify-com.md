@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-31T06:39:26Z
 - Contact Email: ellis82877@gmail.com
-- Updated At: 2026-01-24T00:00:28.254Z
+- Updated At: 2026-02-01T00:00:34.459Z
 
 Ellis Store specializes in premium pet supplies for dogs and cats, including high-quality collars, toys, beds, and bowls. We focus on durable, stylish products with fast shipping from US-based suppliers to ensure the best experience for pet owners and their furry companions.
 
@@ -862,7 +862,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/f730c054464d947a301f43b0cfe8.png?v=1768016417
     Price: $22.99 USD
 - [Nylon Custom Dog Puppy Collar Leash Set Personalized Genuine Leather Pet Nameplate ID Tag Accessories Collars Pet Products Perro](https://ellis-store-9903.myshopify.com/products/nylon-custom-dog-puppy-collar-leash-set-personalized-genuine-leather-pet-nameplate-id-tag-accessories-collars-pet-products-perro): Pattern Type: Solidcolor: Brown/Blue/DeepBlue/Green/Black/GrayType: personalized dog collar leash set/pet collar/ Dog leashis_customize: YESApplicable breeds: small medium Large dogsFeatures: anti-lost, adjustableExtra service: Free engravingSize: S/M/LMaterial: Nylon and Genuine LeatherBrand Name: PET ARTISTType: DogsMaterial: NylonHigh-concerned chemical: NoneLifestage: All stagesCollar Type: Basic CollarsIs Smart Device: NoCN: ZhejiangFeature: PersonalizedSeason: all seasonsOrigin: Mainland Chinais_customized: YesType: CollarsChoice: yessemi_Choice: yes
-  Updated: 2026-01-22T21:43:34Z
+  Updated: 2026-01-30T18:29:01Z
   Vendor: modelyst
   Product Type: Pet Accessories
   Availability: Available
@@ -1202,7 +1202,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S03f0dc06219147cbaa14ac89b05b24013.jpg?v=1768245160
     Price: $25.99 USD
 - [Pet Big Dog Raincoat Clothes for Dogs Pets Clothing Cape Raincoat Golden Retriever Large Dog Costumes Coat Jacket Corgi Cloak](https://ellis-store-9903.myshopify.com/products/pet-big-dog-raincoat-clothes-for-dogs-pets-clothing-cape-raincoat-golden-retriever-large-dog-costumes-coat-jacket-corgi-cloak): Brand Name: brother cat dogOrigin: Mainland ChinaHigh-concerned chemical: NoneModel Number: A20190726-41Type: DogsPattern Type: SolidMaterial: POLYESTERColor: red,blue,green,orangesize: S,M,L,XL,2XL,3XL,4XL,5XL,6XL,7XL,8XL,9XL
-  Updated: 2026-01-22T22:45:48Z
+  Updated: 2026-01-28T04:55:11Z
   Vendor: Modalyst
   Product Type: Pet Accessories
   Availability: Available
@@ -2461,6 +2461,165 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   - [ZIK49](https://ellis-store-9903.myshopify.com/products/shipping-protection?variant=53189156831392)
     Availability: Available
     Price: $50.49 USD
+- [Melatonin for Dogs - Dog Melatonin - Dog Melatonin for Small Dogs - Cat Melatonin - Anxiety & Stress Relief - Promote Relaxation & Deep Sleep for Cat & Dog](https://ellis-store-9903.myshopify.com/products/melatonin-for-dogs-dog-melatonin-dog-melatonin-for-small-dogs-cat-melatonin-anxiety-stress-relief-promote-relaxation-deep-sleep-for-cat-dog): Melatonin for Dogs - Dog Melatonin - Dog Melatonin for Small Dogs - Cat Melatonin -Cat Melatonin - Promote Relaxation & Deep Sleep for Cat & Dog
+  Updated: 2026-01-24T13:52:01Z
+  Vendor: zendrop
+  Product Type: Pet Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/wbdsR3J6wVX7xZtu.webp?v=1769219372
+  Price: $88.72 USD
+- [Universal Removable Pet Nest Mat in Animal Shape](https://ellis-store-9903.myshopify.com/products/universal-removable-pet-nest-mat-in-animal-shape): Transform your pet's resting experience with our Pet Nest Four Seasons Universal Removable Mat. Designed in an adorable animal shape, this cozy cat and teddy nest is perfect for pets who deserve a touch of luxury in their lives. Crafted from high-quality cloth, this versatile pet bed ensures maximum comfort for your furry friends. With dimensions of 39*15cm, it provides a snug fit for small pets, making it an ideal sanctuary for cats and small dogs alike. Choose between two elegant color options: Dark Gray and Milky White. Both colors are not only stylish but also blend seamlessly into any home decor, adding a sophisticated touch to your living space. The removable mat feature allows for easy cleaning, ensuring that your pet's nest remains fresh and hygienic throughout the seasons. The perfect combination of style, comfort, and practicality, this pet bed is a must-have for every pet owner. Explore the images below to see how this delightful pet bed can enhance your pet's comfort: Give your beloved pet the gift of comfort and style with the Pet Nest Four Seasons Universal Removable Mat. Order yours today and let your furry friend enjoy the ultimate relaxation experience!
+  Updated: 2026-01-25T02:08:00Z
+  Vendor: zendrop
+  Product Type: Pet Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/MoPqYXa6FRcoad3z.webp?v=1769219443
+  - [Dark gray](https://ellis-store-9903.myshopify.com/products/universal-removable-pet-nest-mat-in-animal-shape?variant=53200362832032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/MoPqYXa6FRcoad3z.webp?v=1769219443
+    Price: $62.35 USD
+  - [Milky white](https://ellis-store-9903.myshopify.com/products/universal-removable-pet-nest-mat-in-animal-shape?variant=53200362864800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/YeqaNTDEbWeU1Ggq.webp?v=1769219454
+    Price: $62.35 USD
+- [MLB Philadelphia Phillies Two-Tone Lanyard with Detachable Buckle](https://ellis-store-9903.myshopify.com/products/mlb-philadelphia-phillies-two-tone-lanyard-with-detachable-buckle): DescriptionOfficially licensed Lanyards are available in variety of sizes and style but our most popular is has 1" width and a detachable buckle. These lanyards come in your favorite teams vibrant colors. Made in both China and the USA.
+  Updated: 2026-01-24T13:55:12Z
+  Vendor: zendrop
+  Product Type: Pet Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/NxHbtCwYxqhSePrs.webp?v=1769219481
+  Price: $55.85 USD
+- [Digital Tire Pressure Gauge](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge): Introducing the ultimate Digital Tire Pressure Gauge for Cars and Motorcycles! This sleek and compact device not only enhances your vehicle's performance but also ensures your safety on the road. With precise measurements and digital display, checking your tire pressure has never been easier. Featuring a power output of 5W and a convenient size of 14*5.7*2.7 cm, this gauge is designed for both cars and motorcycles. Whether you're a car enthusiast or just someone who values safety, our tire pressure gauge is a must-have tool in your kit. Available in a variety of stunning colors including Silver, Red, Blue, Black, and Orange, you can choose the one that best suits your style. Each color option is crafted with high-quality materials, ensuring durability and reliability. Don't compromise on safety—monitor your tire pressure accurately and efficiently with our Digital Tire Pressure Gauge. It's lightweight at just 0.130 kg, making it easy to carry wherever you go. Upgrade your driving experience today and ensure that your tires are always in optimal condition!Note: The Bubble Shell Color Card variant is not boxed.
+  Updated: 2026-01-24T13:56:10Z
+  Vendor: zendrop
+  Product Type: auto tire pressure gauge
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Fc3n49tcA6okHHwU.webp?v=1769219669
+  - [Blue Bubble Shell Color Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200365846688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Fc3n49tcA6okHHwU.webp?v=1769219669
+    Price: $28.32 USD
+  - [Red Rubber Paint Bubble Shell Color Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200365879456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/K2EHYcy5epsBq50B.webp?v=1769219803
+    Price: $28.32 USD
+  - [Blue Frosted Color Boxed](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200365912224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/jMiCH6Nc09HLgGLk.webp?v=1769219838
+    Price: $28.32 USD
+  - [Silver Painted Bubble Shell Color Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200365944992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/qWwjWN5BGccXnR9B.webp?v=1769219692
+    Price: $28.32 USD
+  - [Blue Color Box](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200365977760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/XbVjANxnnz6lShg0.webp?v=1769219814
+    Price: $28.32 USD
+  - [Gray Frosted Bubble Shell Color Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366010528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/7hcjWNHFCS0d3vlh.webp?v=1769219791
+    Price: $28.32 USD
+  - [Blue Frosted Bubble Shell Color Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366043296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Mrd22rOn6Qvmc9GY.webp?v=1769219703
+    Price: $28.32 USD
+  - [Red Rubber Paint Color Boxed](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366076064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/RwHYM3wYsNtPpmYb.webp?v=1769219815
+    Price: $28.32 USD
+  - [Orange Color Box](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366108832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/kgU8mAR0VWfhaBDe.webp?v=1769219860
+    Price: $28.32 USD
+  - [Black Rubber Paint Bubble Shell Color Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366141600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/jFPJ38TSWjCgXuKQ.webp?v=1769219681
+    Price: $28.32 USD
+  - [Orange  Card](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366174368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/whK5v78Ca9he53FA.webp?v=1769219758
+    Price: $28.32 USD
+  - [Silver  Paint Color Boxed](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366207136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/fpuDRAn19imLS35s.webp?v=1769219714
+    Price: $28.32 USD
+  - [Black  Rubber Paint Color Boxed](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366239904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/BSRidS3X0NLTJWfv.webp?v=1769219781
+    Price: $28.32 USD
+  - [Gray Frosted Color Boxed](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge?variant=53200366272672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vwep4reSI42YzCCN.webp?v=1769219746
+    Price: $28.32 USD
+- [Grooming Cat Toy Arch](https://ellis-store-9903.myshopify.com/products/grooming-cat-toy-arch): Transform your feline's playtime into a pampering session with our innovative Cat Toy Arch Self Groomer. This all-in-one interactive toy doubles as a grooming tool, ensuring your cat stays entertained while getting the care they deserve.Designed with high-quality plastic and a luxurious high-end carpet, this grooming arch provides a delightful scratching experience that keeps your kitty engaged. Measuring approximately 35 x 28 x 35 cm, it's perfectly sized for cats of all ages and sizes. The robust chassis of 36 x 28.5 cm ensures stability during play.Let your cat indulge in their natural instincts with this multifunctional grooming toy. They can scratch, groom, and play all at once, reducing shedding and promoting a healthy coat. The Cat Toy Arch Self Groomer is the perfect addition to your pet's play area, offering endless fun and relaxation.Give your furry friend the ultimate pampering experience they deserve!
+  Updated: 2026-01-24T14:02:09Z
+  Vendor: zendrop
+  Product Type: Pet Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/67e290b34b219e6bb04cadc888c4.png?v=1769220040
+  Price: $33.29 USD
+- [Foldable Car Trash & Storage Box](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box): Transform your vehicle's interior with our multi-functional car trash can and storage box. Designed specifically for convenience and organization, this stylish accessory hangs easily on your car door or the back of your seats, allowing you to keep your space clutter-free while adding a touch of elegance.Crafted from high-quality leather, this storage box measures approximately 20.5 * 14.5 * 4cm, making it the perfect size for all your essentials. Whether you're on a long road trip or just commuting to work, you can easily store snacks, drinks, and other items within reach.Choose from a variety of chic colors to match your car's interior: Black - sleek and versatile Mocha Brown - warm and inviting Saddle Brown - rustic charm Wine Red - bold and striking Beige - classic elegance Additionally, if you need a garbage bag to complement your storage box, simply contact customer service for assistance.Your vehicle deserves to look and feel its best. Upgrade your car decor and functionality with our car trash can and storage box today!
+  Updated: 2026-01-24T14:01:47Z
+  Vendor: zendrop
+  Product Type: garbage bag for auto
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vArkwaHMkDUGXGNN.webp?v=1769220099
+  - [Beige Multifunctional Storage Box 1](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box?variant=53200390422688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vArkwaHMkDUGXGNN.webp?v=1769220099
+    Price: $30.00 USD
+  - [Wine Red [Multifunctional Storage Box 1](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box?variant=53200390455456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Mi6fncbH9ZuOakwu.webp?v=1769220166
+    Price: $30.00 USD
+  - [Black Multifunctional Storage Box 1](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box?variant=53200390488224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/j0RwkoFWG3fBqELu.webp?v=1769220198
+    Price: $30.00 USD
+  - [Mocha Brown Multifunctional Storage Box 1](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box?variant=53200390520992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/eNghXzeLWTZ4pgQK.webp?v=1769220145
+    Price: $30.00 USD
+  - [Saddle Brown Multifunctional Storage Box 1](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box?variant=53200390553760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/tWu7pOASEVgPjpe4.webp?v=1769220123
+    Price: $30.00 USD
+- [Mini Electronic Digital Food Scale](https://ellis-store-9903.myshopify.com/products/mini-electronic-digital-food-scale): Transform Your Cooking ExperienceIntroducing the perfect companion for every home chef: our Precision Kitchen Electronic Digital Mini Household Multifunctional Food Scales for Kitchen Use. Whether you're baking, cooking, or portioning, these scales are designed to make your culinary adventures effortless and precise.With a clear display that is easy to read, you can quickly and accurately measure your ingredients. Choose between two versatile options: Electronic Scales Without Pallets or Electronic Scales With Pallets, both capable of handling a measurement range from 1G to 5KG. No matter your choice, you'll appreciate the convenience these scales bring to your kitchen.Lightweight and compact, these scales are perfect for any kitchen size. Weighing only 0.24 kg for the version without pallets and 0.31 kg for the version with pallets, they are easy to store and transport.
+  Updated: 2026-01-24T14:02:35Z
+  Vendor: zendrop
+  Product Type: scale
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/6y9LFsS2eBn1vBZl.webp?v=1769220128
+  - [Electronic Scales Without Pallets / 1G-5KG](https://ellis-store-9903.myshopify.com/products/mini-electronic-digital-food-scale?variant=53200392945824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/6y9LFsS2eBn1vBZl.webp?v=1769220128
+    Price: $29.99 USD
+  - [Electronic Scales With Pallets / 1G-5KG](https://ellis-store-9903.myshopify.com/products/mini-electronic-digital-food-scale?variant=53200392978592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/YrmFNCmc0O5uLWTd.webp?v=1769220193
+    Price: $29.99 USD
+- [Motorcycle Child Safety Belt](https://ellis-store-9903.myshopify.com/products/motorcycle-child-safety-belt): Ensure the safety of your little ones while enjoying the thrill of motorcycle rides with our Motorcycle Child Safety Belt Storage. This essential accessory is designed to keep your child secure and comfortable, allowing you to focus on the road ahead. Crafted from high-quality breathable cotton and linen, our safety belt offers a perfect blend of durability and comfort. Available in four vibrant colors—dark blue, dark red, light blue, and pink—you can choose the one that suits your child’s personality best. With a maximum load capacity of 50kg and an adjustable waist circumference ranging from 60cm to 110cm, this safety belt is designed to grow with your child, ensuring a snug fit every time. Each set includes one child safety belt, making it a simple yet effective solution for family outings.
+  Updated: 2026-01-25T00:59:59Z
+  Vendor: zendrop
+  Product Type: baby product
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vwxtjw6eFPAhuGtV.webp?v=1769220158
+  - [Light Blue](https://ellis-store-9903.myshopify.com/products/motorcycle-child-safety-belt?variant=53200394813600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vwxtjw6eFPAhuGtV.webp?v=1769220158
+    Price: $29.99 USD
+  - [Dark Blue](https://ellis-store-9903.myshopify.com/products/motorcycle-child-safety-belt?variant=53200394846368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/9CM54cxVpmvZhbRA.webp?v=1769220159
+    Price: $29.99 USD
+  - [Dark Red](https://ellis-store-9903.myshopify.com/products/motorcycle-child-safety-belt?variant=53200394879136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/NGA8YAVCzgAwsQhb.webp?v=1769220215
+    Price: $29.99 USD
+  - [Pink](https://ellis-store-9903.myshopify.com/products/motorcycle-child-safety-belt?variant=53200394911904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/rT55Nzr6RaYV0muq.webp?v=1769220193
+    Price: $29.99 USD
 
 ## Collections
 
@@ -2468,13 +2627,25 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   Updated: 2026-01-19T20:49:12Z
   Total Products: 0
 - [Pet Supplies](https://ellis-store-9903.myshopify.com/collections/pet-supplies)
-  Updated: 2026-01-19T20:49:12Z
-  Total Products: 30
+  Updated: 2026-01-24T02:19:20Z
+  Total Products: 31
 - [Animals & Pet Supplies](https://ellis-store-9903.myshopify.com/collections/animals-pet-supplies)
-  Updated: 2026-01-19T20:49:12Z
-  Total Products: 8
+  Updated: 2026-01-24T02:21:44Z
+  Total Products: 11
 - [Baby Safety](https://ellis-store-9903.myshopify.com/collections/baby-safety)
   Updated: 2026-01-19T20:49:12Z
+  Total Products: 1
+- [Vehicle Parts & Accessories](https://ellis-store-9903.myshopify.com/collections/vehicle-parts-accessories)
+  Updated: 2026-01-24T02:15:42Z
+  Total Products: 2
+- [Puzzles](https://ellis-store-9903.myshopify.com/collections/puzzles)
+  Updated: 2026-01-24T02:14:01Z
+  Total Products: 0
+- [Household Appliances](https://ellis-store-9903.myshopify.com/collections/household-appliances)
+  Updated: 2026-01-24T02:09:08Z
+  Total Products: 1
+- [Luggage & Bags](https://ellis-store-9903.myshopify.com/collections/luggage-bags)
+  Updated: 2026-01-24T02:06:39Z
   Total Products: 1
 
 ## Store Pages
@@ -2482,20 +2653,20 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
 - [Contact](https://ellis-store-9903.myshopify.com/pages/contact)
   Updated: 2025-12-31T06:39:31Z
 - [Your Privacy Choices](https://ellis-store-9903.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-31T06:39:42Z
+  Updated: 2026-01-28T17:46:00Z
 - [About Our Premium Pet Supplies/Ellis Store](https://ellis-store-9903.myshopify.com/pages/about-our-pet-supplies): Welcome to Ellis Store – Premium Pet Essentials for Your Best FriendWe believe your pet deserves the very best. That's why we've curated a thoughtf...
   Updated: 2026-01-05T22:40:19Z
 
 ## Policies
 
 - [Privacy Policy](https://ellis-store-9903.myshopify.com/policies/privacy-policy)
-  Updated: 2026-01-13T09:54:06-08:00
+  Updated: 2026-01-27T23:53:11-08:00
 - [Shipping Policy](https://ellis-store-9903.myshopify.com/policies/shipping-policy)
-  Updated: 2026-01-06T14:38:17-08:00
+  Updated: 2026-01-27T23:52:59-08:00
 - [Refund Policy](https://ellis-store-9903.myshopify.com/policies/refund-policy)
   Updated: 2026-01-13T09:55:43-08:00
 - [Terms of Service](https://ellis-store-9903.myshopify.com/policies/terms-of-service)
-  Updated: 2026-01-13T09:54:45-08:00
+  Updated: 2026-01-27T23:53:26-08:00
 - [Contact Information](https://ellis-store-9903.myshopify.com/policies/contact-information)
   Updated: 2026-01-13T09:56:12-08:00
 
