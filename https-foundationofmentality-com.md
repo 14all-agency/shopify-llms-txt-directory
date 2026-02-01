@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2026-01-22T00:00:35.813Z
+- Updated At: 2026-02-01T00:00:38.395Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -111,6 +111,18 @@ Motivational content is intentionally avoided.
   - [Pressure Limits Confidence Without Athlete Structure Tools](https://foundationofmentality.com/blogs/blog-posts/pressure-limits-confidence-without-athlete-structure-tools): Pressure Limits Confidence Without Athlete Structure Tools
     Updated: 2026-01-21T00:09:41Z
     Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
+  - [Precision Breeds Elite Athlete Consistency](https://foundationofmentality.com/blogs/blog-posts/precision-breeds-elite-athlete-consistency): Precision Breeds Elite Athlete Consistency
+    Updated: 2026-01-24T00:10:45Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Imperfect Systems Undermine Athlete Pressure Handling](https://foundationofmentality.com/blogs/blog-posts/imperfect-systems-undermine-athlete-pressure-handling): Imperfect Systems Undermine Athlete Pressure Handling
+    Updated: 2026-01-26T01:43:44Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Athlete Mentality Faces Limits Without Consistent Performance Tools](https://foundationofmentality.com/blogs/blog-posts/athlete-mentality-faces-limits-without-consistent-performance-tools): Athlete Mentality Faces Limits Without Consistent Performance Tools
+    Updated: 2026-01-28T00:09:54Z
+    Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
+  - [Athlete Mentality Hinges on Structured Confidence](https://foundationofmentality.com/blogs/blog-posts/athlete-mentality-hinges-on-structured-confidence): Athlete Mentality Hinges on Structured Confidence
+    Updated: 2026-01-31T00:08:42Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
 
 ## Store Pages
 
