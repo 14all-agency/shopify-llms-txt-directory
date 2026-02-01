@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-09T08:18:27Z
 - Contact Email: care@nubokind.com
-- Updated At: 2026-01-25T00:00:35.180Z
+- Updated At: 2026-02-01T00:00:37.767Z
 
 ## About us
 nubokind (also known as nubo) creates premium silicone newborn teethers and teething toys.  
@@ -19,7 +19,7 @@ Free shipping is available across India.
 ## Products
 
 - [BIS safe silicone teether| nubokind (Pack of 2)](https://nubokind.com/products/ele-ring-teether-set-green-and-blue): The perfect first teething toy for your newborn. The ele ring teether is a 100% safe silicone teether, BPA-free and designed in India for gentle relief.
-  Updated: 2026-01-24T19:28:09Z
+  Updated: 2026-01-31T20:40:31Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -37,7 +37,7 @@ Free shipping is available across India.
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-blue-icon.jpg?v=1768292099
     Price: ₹649.00 INR
 - [Kiko No-Drop Teether](https://nubokind.com/products/kiko-no-drop-newborn-teether): Discover the perfect solution for your little one's teething journey. Our kiko teether is more than just a newborn teething toy.
-  Updated: 2026-01-24T11:32:24Z
+  Updated: 2026-01-31T20:40:32Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -54,7 +54,7 @@ Free shipping is available across India.
 ## Collections
 
 - [Best Baby Teethers in India | Soft & Safe for Newborns](https://nubokind.com/collections/newborn-essentials): Discover the perfect solution for your little one's teething journey. Our newborn teether are more than just a newborn teething toy.
-  Updated: 2026-01-24T12:19:58Z
+  Updated: 2026-01-31T12:18:45Z
   Total Products: 4
 
 ## Blogs
