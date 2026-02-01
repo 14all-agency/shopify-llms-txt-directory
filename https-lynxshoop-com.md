@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-28T11:01:38Z
 - Contact Email: eroze2209@gmail.com
-- Updated At: 2026-01-25T00:00:33.844Z
+- Updated At: 2026-02-01T00:00:36.643Z
 
 ## Products
 
@@ -526,7 +526,7 @@
 - [Contacto](https://lynxshoop.com/pages/contact)
   Updated: 2025-12-28T11:01:42Z
 - [Tus opciones de privacidad](https://lynxshoop.com/pages/data-sharing-opt-out): Como se describe en nuestra Política de privacidad, recopilamos información personal de sus interacciones con nosotros y nuestro sitio web, incluso...
-  Updated: 2026-01-03T12:33:27Z
+  Updated: 2026-01-28T15:39:24Z
 
 ## Policies
 
