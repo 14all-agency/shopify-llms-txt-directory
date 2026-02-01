@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-01-01T19:49:51Z
 - Contact Email: info@elarajewlery.com
-- Updated At: 2026-01-25T00:00:35.024Z
+- Updated At: 2026-02-01T00:00:37.491Z
 
 ## Products
 
@@ -1884,7 +1884,7 @@
 - [Contact](https://elarajewelry.store/pages/contact)
   Updated: 2026-01-01T19:49:54Z
 - [Your Privacy Choices](https://elarajewelry.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-01T20:45:09Z
+  Updated: 2026-01-28T17:39:54Z
 
 ## Policies
 
