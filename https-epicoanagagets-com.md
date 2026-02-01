@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-21T05:41:29Z
 - Contact Email: cristibunghez1974@gmail.com
-- Updated At: 2026-01-24T18:16:22.648Z
+- Updated At: 2026-02-01T00:00:31.994Z
 
 Welcome to Oana Prime Shop — where modern innovation meets refined simplicity.
 
@@ -815,7 +815,7 @@ All product descriptions, policies, and offers published on our website are the 
   Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/WHGrQMRxTPsqQXU.webp?v=1766469460
   Price: £36.32 GBP
 - [Activated Charcoal Mask](https://epicoanagagets.com/products/activated-charcoal-mask): Rejuvenate your face skin while absorbing excess oils and impurities in your face, restoring your natural firmness and soft radiance. HAVE A SMOOTH SKIN. Our face mask acts as a deep cleansing scrub and facial mask to visibly minimize the appearance of pores, absorb excess oil, and provide a gentle exfoliation for a radiant, fresh appearance.DETOX & DEEP CLEANING. A loosely porous structure increases the absorption capacity. Reduce the skin pores and clean them thoroughly—effectively clear skin problems like blackheads and wrinkles.NATURAL INGREDIENTS.This face mask is mainly charcoal, with a loose, porous structure that absorbs stubborn dirt from pores and removes excess oil from the skin to reduce pores and strengthen the skin. Keep your face more supple and tender.MULTIPURPOSE. It helps reduce the effect of computer radiation on the skin, gives vitality to dull and uneven skin, and makes it firmer. CUSTOM PREPARED. Our charcoal is the ideal powder size for topical use; it is not too 'grainy' or too rough for skin masks, creams, or scrubs.INGREDIENTS: Activated charcoal, kaolin clay, baking soda.DIRECTIONS: Mix 1 tsp of our powder mask with water, honey, aloe vera gel, or rose water (as you desire) in a small bowl and apply all over your face with a brush or your fingertips, avoiding the eye area. Rinse with warm water, dry with a clean cloth, and moisturise.WEIGHT: 4oz.Crafted with love by artisans' hands in small batches.
-  Updated: 2026-01-24T09:55:11Z
+  Updated: 2026-01-24T21:55:24Z
   Vendor: Oana Prime Shop
   Product Type: 
   Availability: Available
@@ -4706,13 +4706,6 @@ All product descriptions, policies, and offers published on our website are the 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/CumZ6InBCad5q3J0.webp?v=1766944174
   Price: £111.44 GBP
-- [Exercise Stepper For Women Mini Fitness Stepper With 2 Resistance Bands LCD Monitor Max 330.7LBS Load Stair Stepper Quiet Stepper](https://epicoanagagets.com/products/exercise-stepper-for-women-mini-fitness-stepper-with-2-resistance-bands-lcd-monitor-max-330-7lbs-load-stair-stepper-quiet-stepper): Highlights The 2 removable resistance bands provide a comprehensive workout to tone your arms, shoulders, back and chest muscles. More stepping, less weight, healthier figure. The triangle knob in the front can help you adjust the intensity of your workout. Bear up to 330.7lbs Easy to read Specification Shipping Limitations: Unlimited Dimensions: 11.00 in * 15.00 in * 7.30 in Weight: 10.5000 lb Available Ship to: United States Details *Features*: *Full Body Workout*:Widely used for weight loss,slim legs,buttock lifting,body shaping etc.. The 2 removable resistance bands provide a comprehensive workout to tone your arms,shoulders,back and chest muscles. *Portable Stair Stepper*:Easy to carry. You can use those fragmented time to step while watching TV,during work or before training etc.. More stepping,less weight,healthier figure. *Easy To Use*:No installation needed. Just push the power button and start stepping!The triangle knob in the front can help you adjust the intensity of your workout. *Considerate Design*:Made of steel,the stepper can hold up to 330.7lbs. The pedals are non-slip and quiet. *LCD Monitor*:Easy to read. Shows your workout time,steps per minute,calorie consumption,frequency. *Specifications*: Product Type: Mini Stepper Material: Steel Color: Grey Max Load Bearing: 150kg/330.7lbs Per Resistance Band Length: 95cm/37.4in Item Size: 27.7*38*18.5cm/11*15*7.3in Item Weight: 4.75kg/10.5lbs Package Size: 34*22*41cm/13.39*8.66*16.14in Package Weight: 5.65kg/12.46lbs *Package Lists*: 1 x Mini Stepper 1 x Triangle Fastener 1 x Wrench 2 x Resistance Bands 1 x User Manual
-  Updated: 2025-12-29T05:51:07Z
-  Vendor: Oana Prime Shop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/f0dB2oOtUFP2ybQ4.webp?v=1766944262
-  Price: £172.92 GBP
 - [Indoor Pull-Up Trainer with Resistance Bands and Accessories](https://epicoanagagets.com/products/indoor-pull-up-trainer-with-resistance-bands-and-accessories): Transform your home workout routine with our innovative Pull-Up Training Machine. Designed to enhance your strength training experience, this versatile equipment features PU pedals and 6 elastic ropes to provide the support you need while performing pull-ups and other strength-building exercises. With a delivery time of just 5-7 days, your fitness journey can begin almost immediately! Simply find a suitable horizontal bar and follow our expertly crafted exercise guide to maximize your results: 1. Start by grabbing the bar with a forehand grip. Lift your feet off the ground until you can no longer support yourself, strengthening your grip and forearm strength. Aim for 4 sets of 4 to 6 repetitions, holding each for 15 to 20 seconds. 2. Position yourself with your heels on the ground, keeping your chest up and abdomen engaged. Pull your upper body up, focusing on your shoulder blades. Complete 4 sets with 10-15 repetitions each. 3. Raise your body until your chin is above the bar and hold this position. Repeat for 4 sets of 4 to 6 times, with each hold lasting 10 to 15 seconds. 4. Begin hanging with bent arms and slowly lower your body back to a vertical hang, using your back muscles to resist gravity. Aim for 4 sets of 5-8 repetitions. Enhance your strength training with this compact and effective piece of equipment, weighing only 1.93 kg and measuring 350mm in width, 100mm in height, and 300mm in length. Available in a striking red color, it will not only help you achieve your fitness goals but also add a touch of style to your workout space. Get ready to elevate your training with our Pull-Up Training Machine! Check out the images below to see it in action:
   Updated: 2025-12-29T05:52:30Z
   Vendor: Oana Prime Shop
@@ -5874,7 +5867,21 @@ All product descriptions, policies, and offers published on our website are the 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/ihlSCE43MUazHFQc.webp?v=1767183968
     Price: £129.40 GBP
-[List Continued](https://epicoanagagets.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg0Mzc4MDU5MTk2NSwibGFzdF92YWx1ZSI6IjE1ODQzNzgwNTkxOTY1In0=)
+- [Gaming Keyboard](https://epicoanagagets.com/products/gaming-keyboard): Compact Power. Vibrant Performance. Take your gaming setup to the next level with the Marquee Colorful 87-Key Mechanical Keyboard—built for speed, precision, and style. This ten keyless (TKL) design offers a compact layout without sacrificing functionality, giving you more desk space for mouse movement and cleaner aesthetics.Key Features:87-key TKL design – space-saving without losing functionMechanical switches – durable, responsive, and satisfyingColorful marquee RGB lighting – with multiple dynamic effectsErgonomic keycap layout – for comfort during long sessionsPlug-and-play USB connection – no drivers neededElevate your gameplay with a keyboard that looks as good as it performs.
+  Updated: 2026-01-06T04:52:56Z
+  Vendor: Oana Prime Shop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/IKfUWRwNHo2p4PJJ.webp?v=1767183851
+  - [Black](https://epicoanagagets.com/products/gaming-keyboard?variant=63001231720797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/IKfUWRwNHo2p4PJJ.webp?v=1767183851
+    Price: £73.96 GBP
+  - [White](https://epicoanagagets.com/products/gaming-keyboard?variant=63001231753565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1021/7183/6765/files/GFL7U4PbmRbU1HyZ.webp?v=1767183875
+    Price: £73.96 GBP
+[List Continued](https://epicoanagagets.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg0Mzc4MDcyMzAzNywibGFzdF92YWx1ZSI6IjE1ODQzNzgwNzIzMDM3In0=)
 
 ## Collections
 
@@ -5972,8 +5979,8 @@ All product descriptions, policies, and offers published on our website are the 
   Updated: 2026-01-07T07:06:49Z
   Total Products: 105
 - [Fitness & General Exercise Equipment](https://epicoanagagets.com/collections/fitness-general-exercise-equipment)
-  Updated: 2026-01-07T07:06:49Z
-  Total Products: 155
+  Updated: 2026-01-29T18:40:04Z
+  Total Products: 154
 - [Luggage & Bags](https://epicoanagagets.com/collections/luggage-bags)
   Updated: 2026-01-06T04:52:53Z
   Total Products: 2
@@ -6062,11 +6069,11 @@ All product descriptions, policies, and offers published on our website are the 
   Updated: 2026-01-06T04:52:55Z
   Total Products: 1
 - [Sporting Goods](https://epicoanagagets.com/collections/sporting-goods)
-  Updated: 2026-01-07T07:06:49Z
-  Total Products: 116
+  Updated: 2026-01-29T18:40:04Z
+  Total Products: 115
 - [Uncategorized](https://epicoanagagets.com/collections/uncategorized)
-  Updated: 2026-01-06T04:52:55Z
-  Total Products: 14
+  Updated: 2026-01-29T18:40:04Z
+  Total Products: 13
 - [Home & Garden](https://epicoanagagets.com/collections/home-garden)
   Updated: 2026-01-06T04:52:55Z
   Total Products: 0
@@ -6128,13 +6135,25 @@ All product descriptions, policies, and offers published on our website are the 
   - [Simplify Your Charging Routine with the Innovative 3-in-1 Wireless Charger from Baseus](https://epicoanagagets.com/blogs/news/simplify-your-charging-routine-with-the-innovative-3-in-1-wireless-charger-from-baseus): Simplify Your Charging Routine with the Innovative 3-in-1 Wireless Charger from Baseus
     Updated: 2026-01-24T10:02:27Z
     Author: Oana Prime Shop
+  - [Why Wearable Technology Is Becoming an Everyday Essential](https://epicoanagagets.com/blogs/news/why-wearable-technology-is-becoming-an-everyday-essential)
+    Updated: 2026-01-24T18:27:37Z
+    Author: Oana Prime Shop
+  - [Maximize Gaming Precision and Office Productivity with the E-Sports Mechanical Keyboard Hybrid Experience](https://epicoanagagets.com/blogs/news/maximize-gaming-precision-and-office-productivity-with-the-e-sports-mechanical-keyboard-hybrid-experience): Maximize Gaming Precision and Office Productivity with the E-Sports Mechanical Keyboard Hybrid Experience
+    Updated: 2026-01-26T10:08:15Z
+    Author: Oana Prime Shop
+  - [Stay Connected and Stylish with the 2-in-1 Smart Watch Featuring Bluetooth Calling](https://epicoanagagets.com/blogs/news/stay-connected-and-stylish-with-the-2-in-1-smart-watch-featuring-bluetooth-calling): Stay Connected and Stylish with the 2-in-1 Smart Watch Featuring Bluetooth Calling
+    Updated: 2026-01-28T10:07:18Z
+    Author: Oana Prime Shop
+  - [Unveiling the Power of REDMOND Re-Lyte Immunity Multivitamin Mix and Its Benefits for a Healthier Lifestyle](https://epicoanagagets.com/blogs/news/unveiling-the-power-of-redmond-re-lyte-immunity-multivitamin-mix-and-its-benefits-for-a-healthier-lifestyle): Unveiling the Power of REDMOND Re-Lyte Immunity Multivitamin Mix and Its Benefits for a Healthier Lifestyle
+    Updated: 2026-01-31T10:02:17Z
+    Author: Oana Prime Shop
 
 ## Store Pages
 
 - [Contact](https://epicoanagagets.com/pages/contact)
   Updated: 2025-12-21T05:41:32Z
 - [Your Privacy Choices](https://epicoanagagets.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-17T05:47:17Z
+  Updated: 2026-01-28T16:16:11Z
 
 ## Policies
 
