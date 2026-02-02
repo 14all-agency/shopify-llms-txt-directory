@@ -112,12 +112,12 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
 - Timezone: Europe/Paris
 - Created At: 2024-08-29T09:25:50Z
 - Contact Email: sav@mylittledeen.com
-- Updated At: 2026-01-23T00:00:39.377Z
+- Updated At: 2026-02-02T00:00:45.275Z
 
 ## Products
 
 - [Peluche Veilleuse Coranique | Cadeau Enfant Musulman | Cadeau Aïd](https://mylittledeen.com/products/little-deen-peluche-veilleuse-coranique): Découvrez la Peluche Veilleuse coranique, idéale pour un sommeil paisible et l'apprentissage des noms d'Allah. Parfait comme cadeau apaisant pour les enfants.
-  Updated: 2026-01-22T22:43:18Z
+  Updated: 2026-02-01T23:12:05Z
   Vendor: My Little Deen
   Product Type: Peluche coranique
   Availability: Available
@@ -142,7 +142,7 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/quiz-islam-90-questions-a-imprimer-1612310.jpg?v=1765647914
   Price: 4,20 € EUR
 - [Veilleuse coranique - Peluche lumineuse apaisante pour sommeil et apprentissage](https://mylittledeen.com/products/peluche-veilleuse-coranique-little-mahmud): La veilleuse coranique Little Mahmud, une peluche lumineuse qui favorise un sommeil paisible, l'apprentissage des noms d'Allah et l'alphabet arabe
-  Updated: 2026-01-22T22:43:18Z
+  Updated: 2026-02-01T10:50:56Z
   Vendor: My Little Deen
   Product Type: Peluche coranique
   Availability: Available
@@ -181,7 +181,7 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/pack-de-31-fonds-decran-apaisants-avec-duas-pour-telephone-3620684.jpg?v=1765647930
   Price: 3,99 € EUR
 - [Personnalisation Prénom](https://mylittledeen.com/products/personnalisation)
-  Updated: 2026-01-22T22:43:19Z
+  Updated: 2026-01-30T22:51:50Z
   Vendor: Textbox App - Price Addon
   Product Type: 
   Availability: Available
@@ -195,40 +195,40 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/magnifique-calendrier-dactivite-a-construire-2371750.png?v=1765647931
   Price: 8,99 € EUR
 - [Mobile coranique bébé Kaaba pour berceau, design unique et Bluetooth](https://mylittledeen.com/products/mobile-bebe-kaaba-pour-berceau): Découvrez le mobile coranique bébé avec design Kaaba, Bluetooth pour récitation, 1h30 de Coran et Douas. Tout inclus pour un berceau apaisant et spirituel.
-  Updated: 2026-01-22T22:43:20Z
+  Updated: 2026-02-01T20:02:11Z
   Vendor: MyLittle Deen
   Product Type: Mobile coranique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/mobile-coranique-bebe-kaaba-pour-berceau-1740562.png?v=1767508277
   Price: 69,99 € EUR
 - [Jeu pour musulman : Jeu des 7 Muslim éducatif et ludique dès 3 ans](https://mylittledeen.com/products/jeu-des-7-muslim): Découvrez le jeu pour musulman, le jeu des 7 Muslim idéal pour apprendre les bases de l'Islam en famille, dès 3 ans, en 15-30 minutes d'apprentissage ludique.
-  Updated: 2026-01-22T21:31:10Z
+  Updated: 2026-02-01T23:59:51Z
   Vendor: My Little Deen
   Product Type: Cartes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/jeu-des-7-muslim-9728113.jpg?v=1767688231
+  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/jeu-des-7-muslim-9728113.jpg?v=1769360402
   Price: 13,90 € EUR
 - [Mobile bébé kaaba pour berceau Blanc](https://mylittledeen.com/products/pre-commande-mobile-bebe-kaaba-pour-berceau-copie): .grid-container { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; text-align: center; max-width: 500px; margin: auto; font-size: 14px; line-height: 1.4; font-weight: 500; color: #333; border-top: none; border-bottom: none; } .grid-item { display: flex; align-items: center; justify-content: center; padding: 12px; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; } .grid-item:nth-child(2n) { border-right: none; /* Supprime la bordure droite de la 2e colonne */ } .grid-item:nth-last-child(-n+2) { border-bottom: none; /* Supprime la bordure horizontale des éléments du bas */ } .grid-item span { font-size: 18px; /* Taille plus grande des émojis */ margin-right: 8px; } 🕋Design Kaaba unique cousu à la main 🌙 Apaise bébé 🎶 1h30 de Coran et de Douas ✔️ Tout est inclus (boîte à coran, support, télécommande…)
-  Updated: 2026-01-22T22:43:18Z
+  Updated: 2026-01-30T22:51:50Z
   Vendor: MyLittle Deen
   Product Type: Mobile coranique
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/mobile-bebe-kaaba-pour-berceau-blanc-5793372.jpg?v=1765647930
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/mobile-bebe-kaaba-pour-berceau-blanc-5793372.jpg?v=1769360384
   Price: 69,99 € EUR
 - [Livre sonore: Mes premières sourates, apprentissage facile pour enfant](https://mylittledeen.com/products/mes-premieres-sourates-pour-enfant): Découvrez le livre sonore pour enfants avec 3 sourates: Al-Fatiha, Al-Falaq, Al-Ikhlas. Écoutez facilement avec 4 récitateurs dans un design doux et apaisant.
-  Updated: 2026-01-22T21:42:07Z
+  Updated: 2026-02-01T23:59:50Z
   Vendor: My Little Deen
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/livre-sonore-mes-premieres-sourates-9186253.jpg?v=1768144819
   - [Français & Arabe](https://mylittledeen.com/products/mes-premieres-sourates-pour-enfant?variant=51847078609242)
     Availability: Available
-    Price: 50,99 € EUR
+    Price: 49,99 € EUR
   - [Deutsch & Arabisch](https://mylittledeen.com/products/mes-premieres-sourates-pour-enfant?variant=51847078642010)
     Availability: Available
     Price: 49,99 € EUR
 - [Tapis de prière personnalisable | Cadeau Enfant Musulman | Cadeau Aïd](https://mylittledeen.com/products/tapis-de-priere-pour-enfant-personnalisable): Offrez à votre enfant un tapis de prière personnalisable avec son prénom. Léger et confortable, parfait pour son apprentissage. Idéal pour l’Aïd ou un cadeau.
-  Updated: 2026-01-22T22:43:19Z
+  Updated: 2026-02-01T21:32:56Z
   Vendor: My Little Deen
   Product Type: 
   Availability: Available
@@ -242,42 +242,42 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
     Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/tapis-de-priere-pour-enfant-8853904.png?v=1765647939
     Price: 20,90 € EUR
 - [Barakah pack](https://mylittledeen.com/products/barakah-pack)
-  Updated: 2026-01-22T22:43:29Z
+  Updated: 2026-02-02T00:00:34Z
   Vendor: Fast Bundle
   Product Type: Peluche coranique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/barakah-pack-2511079.jpg?v=1768143925
   Price: 71,98 € EUR
 - [Veilleuse coranique - Peluche Veilleuse coranique Little Mimi](https://mylittledeen.com/products/little-mimi-peluche-veilleuse-coranique-edition-limitee): Peluche veilleuse coranique MyLittle Deen : une douce peluche qui récite des sourates du Coran pour apaiser votre enfant. Idéale pour accompagner le sommeil avec une lumière rassurante et des versets inspirants.
-  Updated: 2026-01-22T22:43:18Z
+  Updated: 2026-01-31T12:43:21Z
   Vendor: My Little Deen
   Product Type: Peluche coranique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/little-mimi-peluche-veilleuse-coranique-edition-limitee-4511629.jpg?v=1768143932
   Price: 44,90 € EUR
 - [Pack exclusif – 1ère commande](https://mylittledeen.com/products/pack-1ere-commandes): 🧒 Jeu des 7 Muslims offert pour toute première commande📚 Coffret Mes premières sourates avec 3 livres sonores (Al-Fatiha, Al-Falaq, Al-Ikhlâs)🎧 Texte en arabe, phonétique et français + 4 récitateurs (2 hommes, une fille, un garçon)🧠 Apprentissage facilité par la répétition + illustrations adaptées aux enfants non lecteurs📦 Bibliothèque de rangement offerte📴 Encourage des moments calmes, spirituels et sans écran dès 6 mois🎁 Pack exclusif en stock limité
-  Updated: 2026-01-22T22:43:31Z
+  Updated: 2026-02-02T00:00:35Z
   Vendor: Fast Bundle
   Product Type: Cartes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/pack-exclusif-1ere-commande-4959531.jpg?v=1765647916
-  Price: 50,99 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/pack-exclusif-1ere-commande-4959531.jpg?v=1769360375
+  Price: 49,99 € EUR
 - [Baraqah Pack](https://mylittledeen.com/products/baraqah-pack): .grid-container { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; text-align: center; max-width: 500px; margin: auto; font-size: 14px; line-height: 1.4; font-weight: 500; color: #333; border-top: none; border-bottom: none; } .grid-item { display: flex; align-items: center; justify-content: center; padding: 12px; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; } .grid-item:nth-child(2n) { border-right: none; } .grid-item:nth-last-child(-n+2) { border-bottom: none; } .grid-item span { font-size: 18px; margin-right: 8px; } 🎲Jeu des 7 familles version musulman 📖3 Livre sonore pour apprendre les sourates 📝Fiches duaas & quiz à imprimer offerts 🎁Pack économique avec -22% immédiat
-  Updated: 2026-01-22T21:42:20Z
+  Updated: 2026-02-02T00:00:34Z
   Vendor: Fast Bundle
   Product Type: Apprentissage Islam
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/baraqah-pack-5767744.jpg?v=1765647926
+  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/baraqah-pack-5767744.jpg?v=1769360376
   Price: 56,99 € EUR
 - [Arche de jeu spirale Kaaba - Édition Kaaba](https://mylittledeen.com/products/arche-de-jeu-spirale-kaaba): .grid-container { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; text-align: center; max-width: 500px; margin: auto; font-size: 14px; line-height: 1.4; font-weight: 500; color: #333; border-top: none; border-bottom: none; } .grid-item { display: flex; align-items: center; justify-content: center; padding: 12px; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; } .grid-item:nth-child(2n) { border-right: none; /* Supprime la bordure droite de la 2e colonne */ } .grid-item:nth-last-child(-n+2) { border-bottom: none; /* Supprime la bordure horizontale des éléments du bas */ } .grid-item span { font-size: 18px; /* Taille plus grande des émojis */ margin-right: 8px; } ⭐ Stimule les sens de bébé 🌙 Extensible de 15 à 50 cm 🍼 S’accroche facilement à un cosy, poussette ou transat 🎁 Cadeau idéal pour une naissance
-  Updated: 2026-01-22T22:43:19Z
+  Updated: 2026-02-01T22:55:51Z
   Vendor: MyLittle Deen
   Product Type: Cadeau de naissance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/arche-de-jeu-spirale-kaaba-edition-kaaba-1612568.png?v=1765647932
   Price: 29,99 € EUR
 - [Arche d’éveil en bois : Jouet bébé naturel et symboles islamiques](https://mylittledeen.com/products/arche-d-eveil-en-bois-edition-kaaba): Découvrez l’Arche d’éveil en bois, idéale pour stimuler bébé avec ses jouets suspendus et ses symboles islamiques doux. Parfait comme cadeau de naissance.
-  Updated: 2026-01-22T23:42:24Z
+  Updated: 2026-02-01T16:31:10Z
   Vendor: MyLittle Deen
   Product Type: Cadeau de naissance
   Availability: Available
@@ -291,49 +291,49 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/personnalisation-5434064.jpg?v=1768220909
   Price: 8,99 € EUR
 - [Hörbuch Koran : 3-teiliges Set mit Suren auf Arabisch & Deutsch](https://mylittledeen.com/products/3-teiliges-horbuch-set-meine-ersten-suren-auf-arabisch-und-deutsch): Hörbuch Koran mit 3 Suren: Al-Fatiha, Al-Falaq, Al-Ikhlas, ideal für Kinder, einfach zu bedienen, mit 4 Sprechern für ein beruhigendes Hörerlebnis.
-  Updated: 2026-01-22T20:27:32Z
+  Updated: 2026-02-01T21:32:50Z
   Vendor: My Little Deen
   Product Type: Livre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/3-teiliges-horbuch-set-meine-ersten-suren-auf-arabisch-und-deutsch-9154564.jpg?v=1768143395
   Price: 49,99 € EUR
 - [Coffret naissance 20% de réduction](https://mylittledeen.com/products/coffret-naissance-20-de-reduction): Offrez à votre enfant (ou à un proche) un coffret unique, pensé spécialement pour accompagner ses premiers mois avec douceur, apaisement et amour de la religion. Ce coffret prestige réunit nos 4 produits les plus appréciés, sélectionnés pour créer un univers harmonieux, sécurisé et chaleureux autour de bébé : 🌙 1. Arche d’éveil en bois – Édition KaabaUn espace de découverte qui stimule la motricité, l’exploration et l’autonomie dès les premiers mois. ⭐ 2. Peluche CoraniqueLe compagnon rassurant qui diffuse sourates protectrices, bruits blancs et veilleuse apaisante. Un doudou tendre et sécurisant. 🍼 3. Arche Kaaba à suspendre (lit/poussette)Parfait pour apaiser et occuper bébé partout : lit, poussette, cosy… Un petit rappel doux et symbolique de la Maison Sacrée.
-  Updated: 2026-01-22T23:42:42Z
+  Updated: 2026-02-01T23:12:14Z
   Vendor: Fast Bundle
   Product Type: Peluche coranique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/coffret-naissance-20-de-reduction-9097201.png?v=1765647920
   Price: 110,03 € EUR
 - [Holz-Entdeckungsbogen – Kaaba Edition](https://mylittledeen.com/products/holz-entdeckungsbogen-kaaba-edition): .grid-container { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; text-align: center; max-width: 500px; margin: auto; font-size: 14px; line-height: 1.4; font-weight: 500; color: #333; border-top: none; border-bottom: none; } .grid-item { display: flex; align-items: center; justify-content: center; padding: 12px; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; } .grid-item:nth-child(2n) { border-right: none; } .grid-item:nth-last-child(-n+2) { border-bottom: none; } .grid-item span { font-size: 18px; margin-right: 8px; } ⭐Weckt und stimuliert das Baby dank seiner hängenden Spielzeuge 🌙Sanfte islamische Symbole: Mond, Stern, Kaaba und Wolke 🍼Naturholz und weicher Filz, sicher ab Geburt 🎁 Ideales Geschenk zur Geburt
-  Updated: 2026-01-22T22:43:19Z
+  Updated: 2026-02-01T16:54:27Z
   Vendor: MyLittle Deen
   Product Type: Cadeau de naissance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/arche-deveil-en-bois-edition-kaaba-6375322.jpg?v=1767686263
   Price: 64,90 € EUR
 - [Calendrier du ramadan | Cadeau Aïd enfant | Cadeau Enfant Musulman](https://mylittledeen.com/products/calendrier-du-ramadan): Offrez un calendrier du Ramadan sur les prophètes unique de 30 jours pour enfants afin de patienter jusqu’à l’Aïd. Livraison rapide en France, Belgique, Suisse.
-  Updated: 2026-01-22T21:31:11Z
+  Updated: 2026-02-01T21:54:26Z
   Vendor: My Little Deen
   Product Type: Cadeau Eïd enfant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/77c54a69-003d-4aa0-9192-c20ce18e0a72.png?v=1768143279
   Price: 39,99 € EUR
 - [Deen pack](https://mylittledeen.com/products/deen-pack-prenium): ✨ Ce pack comprend :🎁 Sac cadeau offert 🧸 Peluche Little Deen – Le compagnon éducatif et apaisant préféré des enfants. 🃏 Jeu des 7 Muslims – Apprends en t’amusant avec toute la famille. ❓ Quiz de 90 questions sur l'Islam – Teste tes connaissances avec ce quiz imprimable. 📜 22 fiches de duas pour enfants – Imprime-les et apprends une nouvelle dua chaque jour.
-  Updated: 2026-01-22T22:43:32Z
+  Updated: 2026-02-02T00:00:37Z
   Vendor: Fast Bundle
   Product Type: Peluche coranique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/temp_bkJX3kn.png?v=1767508636
   Price: 53,99 € EUR
 - [Kit de couture spéciale ramadan](https://mylittledeen.com/products/kit-de-courture-speciale-ramadan): .grid-container { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; text-align: center; max-width: 500px; margin: auto; font-size: 14px; line-height: 1.4; font-weight: 500; color: #333; border-top: none; border-bottom: none; } .grid-item { display: flex; align-items: center; justify-content: center; padding: 12px; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; } .grid-item:nth-child(2n) { border-right: none; } .grid-item:nth-last-child(-n+2) { border-bottom: none; } .grid-item span { font-size: 18px; margin-right: 8px; } 🌙7 créations de couture autour du Ramadan 🧵Des activités manuelles pensées pour ce mois sacré 🤍Un moment fort de partage parent enfant 🎁Un cadeau éducatif pour vivre pleinement le Ramadan
-  Updated: 2026-01-22T21:31:10Z
+  Updated: 2026-02-01T21:13:11Z
   Vendor: My Little Deen
   Product Type: Cadeau Eïd enfant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/7be250bb-95b7-438f-abd2-cb04574cf632.png?v=1768861029
+  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/7be250bb-95b7-438f-abd2-cb04574cf632.png?v=1769360267
   Price: 21,90 € EUR
 - [Plüschtier Koranisches Nachtlicht | Geschenk für muslim | Eid-Geschenk](https://mylittledeen.com/products/pluschtier-mit-koran-nachtlicht): My Little Deen Koran-Nachtlicht-Plüschtier: Ein Plüschtier, das Suren aus dem Koran rezitiert, um Ihr Kind zu beruhigen. Ideal als Begleiter beim Einschlafen.
-  Updated: 2026-01-22T22:42:40Z
+  Updated: 2026-02-01T14:19:55Z
   Vendor: My Little Deen
   Product Type: Peluche coranique
   Availability: Available
@@ -351,59 +351,59 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
     Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/temp_eXrdofr.jpg?v=1767508608
     Price: 40,99 € EUR
 - [Spiralförmige Spielbogen Kaaba – Kaaba Edition](https://mylittledeen.com/products/spiralformige-spielbogen-kaaba-kaaba-edition): .grid-container { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; text-align: center; max-width: 500px; margin: auto; font-size: 14px; line-height: 1.4; font-weight: 500; color: #333; border-top: none; border-bottom: none; } .grid-item { display: flex; align-items: center; justify-content: center; padding: 12px; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; } .grid-item:nth-child(2n) { border-right: none; } .grid-item:nth-last-child(-n+2) { border-bottom: none; } .grid-item span { font-size: 18px; margin-right: 8px; } ⭐Fördert die Sinne des Babys 🌙Ausziehbar von 15 bis 50 cm 🍼Einfach an Babyschale, Kinderwagen oder Wippe zu befestigen 🎁Ideales Geschenk zur Geburt
-  Updated: 2026-01-22T22:43:18Z
+  Updated: 2026-02-01T23:08:25Z
   Vendor: MyLittle Deen
   Product Type: Cadeau de naissance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/arche-de-jeu-spirale-kaaba-edition-kaaba-1612568.png?v=1765647932
   Price: 29,99 € EUR
 - [Personalisierung -  7 Werktage](https://mylittledeen.com/products/personalisierung)
-  Updated: 2026-01-12T12:28:29Z
+  Updated: 2026-01-28T08:10:57Z
   Vendor: My Little Deen
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/personnalisation-5434064.jpg?v=1768220909
   Price: 8,99 € EUR
 - [Ramadan-Kalender : Bedeutungsvolles Geschenk & Dekoration für Ramadan](https://mylittledeen.com/products/ramadan-kalender): Entdecken Sie den Ramadan-Kalender, ein bedeutungsvolles Geschenk, das tägliche Rituale fördert und die Geschichte der Propheten vermittelt, ideal für Ramadan und Eid
-  Updated: 2026-01-22T21:42:07Z
+  Updated: 2026-02-01T22:05:48Z
   Vendor: My Little Deen
   Product Type: Cadeau Eïd enfant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/77c54a69-003d-4aa0-9192-c20ce18e0a72.png?v=1768143279
   Price: 39,99 € EUR
-- [Pack cadeau préparation du ramadan pour enfant](https://mylittledeen.com/products/pack-cadeau-preparation-du-ramadan-pour-enfant): Tout ce qu'il faut pour que ton enfant vive son plus beau Ramadan. 📆 Calendrier du Ramadan — 30 jours pour découvrir les prophètes📖 Livre sonore – Mes Premières Sourates — Il écoute, répète et mémorise ses premières sourates 🧵 Kit de couture spéciale Ramadan — Des créations à faire ensemble en famille 🎴 Jeu des 7 Muslims — Apprendre les piliers de l'Islam en s'amusant 🏗️ Calendrier d'activité à construire — Une mosquée à bâtir jour après jour 🤲 22 fiches Duaa — Les invocations essentielles du quotidien, prêtes à afficher ❓ Quiz Islam – 90 questions — Toute la famille joue, tout le monde apprend
-  Updated: 2026-01-22T21:42:21Z
+- [Cadeau du Ramadan : Pack enfant pour préparer un Ramadan inoubliable](https://mylittledeen.com/products/pack-cadeau-preparation-du-ramadan-pour-enfant): Offrez un cadeau du Ramadan unique avec ce pack pour enfant : calendrier, livre sonore, jeu, fiches Duaa et activités pour vivre un Ramadan enrichissant
+  Updated: 2026-02-02T00:00:36Z
   Vendor: Fast Bundle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/header_500x500_16d55b94-0aaa-491f-b613-0fd3ddfe864b.png?v=1768861039
+  Image: https://cdn.shopify.com/s/files/1/0893/1006/9082/files/header_500x500_16d55b94-0aaa-491f-b613-0fd3ddfe864b.png?v=1769360266
   Price: 99,99 € EUR
 
 ## Collections
 
 - [Peluche & veilleuse coranique](https://mylittledeen.com/collections/peluche-coranique): Découvrez nos peluches qui facilitent l'endormissement, apprenne l'alphabet arabe, les 99 noms d'Allah et les sourates protectrices
-  Updated: 2026-01-22T12:28:41Z
-  Total Products: 5
+  Updated: 2026-02-01T12:29:23Z
+  Total Products: 6
 - [Apprentissage Islam](https://mylittledeen.com/collections/apprentissage-islam): Découvrez nos produits à imprimer
-  Updated: 2026-01-22T12:28:41Z
-  Total Products: 10
+  Updated: 2026-02-01T12:29:23Z
+  Total Products: 11
 - [Carte](https://mylittledeen.com/collections/cartes): Nos cartes pour petits et grands musulmans. Retrouvez des jeux de cartes qui permettrons aux plus jeunes d'apprendre les bases de l'Islam et des cartes d'affirmations qui vous guideront tout le long de votre vie pour vous rapprocher d'Allah
-  Updated: 2026-01-22T12:28:41Z
+  Updated: 2026-02-01T12:29:23Z
   Total Products: 2
 - [Mobile coranique](https://mylittledeen.com/collections/mobile-coranique)
-  Updated: 2026-01-21T12:29:44Z
+  Updated: 2026-02-01T12:29:23Z
   Total Products: 2
 - [Cadeau de naissance](https://mylittledeen.com/collections/cadeau-de-naissance)
-  Updated: 2026-01-22T12:28:41Z
-  Total Products: 8
+  Updated: 2026-02-01T12:29:23Z
+  Total Products: 9
 - [Livre sonore 5,5](https://mylittledeen.com/collections/livre-sonore-5-5)
-  Updated: 2026-01-22T12:28:41Z
+  Updated: 2026-02-01T12:29:23Z
   Total Products: 3
 - [Cadeaux Eid pour Enfants | Jouets et Livres coranique – My Little Deen](https://mylittledeen.com/collections/cadeaux-de-l-aid-pour-enfants): Découvrez nos cadeaux Eid pour enfants : Calendrier du Ramadan, peluches coraniques, livres sonores et jeux islamiques parfaits pour l’Aïd. Livraison rapide 48h.
-  Updated: 2026-01-22T12:28:41Z
-  Total Products: 10
+  Updated: 2026-02-01T12:29:23Z
+  Total Products: 11
 - [Livres sonores islamiques pour enfants](https://mylittledeen.com/collections/livres-sonores-islamiques-pour-enfants): Les livres sonores islamiques My Little Deen accompagnent les enfants dans l’apprentissage de leurs premières sourates du Coran, de manière douce, ludique et sans écran.Chaque livre permet à l’enfant d’écouter les sourates grâce à plusieurs voix (adultes et enfants), tout en suivant le texte en arabe, en français et en phonétique, favorisant ainsi la mémorisation naturelle. Conçus dès le plus jeune âge, nos livres sonores encouragent l’amour du Coran à la maison, développent l’écoute, la concentration et l’autonomie, tout en respectant le rythme de chaque enfant. Un cadeau éducatif musulman idéal, pensé pour transmettre le Deen avec douceur et sens 🤎
-  Updated: 2026-01-22T12:28:41Z
+  Updated: 2026-02-01T12:29:23Z
   Total Products: 3
 
 ## Blogs
@@ -509,13 +509,16 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
   - [Ateliers sensoriels islamiques pour bébés : activités et rituels doux](https://mylittledeen.com/blogs/infos/ateliers-sensoriels-islamiques-pour-bebes-activites-et-rituels-doux-pour-eveiller-la-foi-et-lattachement): Ateliers sensoriels islamiques pour bébés : activités et rituels doux
     Updated: 2025-12-13T17:46:38Z
     Author: My Little Deen 
+  - [Offrir des cadeaux pour l'Aïd en Islam : idées, traditions et inspirations pour faire plaisir à vos proches](https://mylittledeen.com/blogs/infos/offrir-des-cadeaux-pour-laid-en-islam-idees-traditions-et-inspirations-pour-faire-plaisir-a-vos-proches)
+    Updated: 2026-01-26T08:02:10Z
+    Author: My little Deen Admin
 
 ## Store Pages
 
 - [Contact](https://mylittledeen.com/pages/contact)
   Updated: 2024-08-29T09:25:55Z
 - [Vos choix en matière de confidentialité](https://mylittledeen.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
-  Updated: 2025-06-30T14:39:30Z
+  Updated: 2026-01-28T15:28:39Z
 - [Vos avis sur les veilleuse et peluche coranique](https://mylittledeen.com/pages/vos-avis-sur-les-veilleuse-et-peluche-coranique)
   Updated: 2024-09-07T05:40:17Z
 - [Guide d'utilisation](https://mylittledeen.com/pages/comment-utiliser-little-deen)
@@ -545,7 +548,11 @@ My Little Deen is an Islamic children’s gift and educational store offering Qu
 - [Guide d'utilisation Peluche coranique](https://mylittledeen.com/pages/guide-dutilisation-peluche-coranique)
   Updated: 2026-01-07T05:16:19Z
 - [PDP](https://mylittledeen.com/pages/pdp)
-  Updated: 2026-01-22T19:01:01Z
+  Updated: 2026-01-27T12:11:19Z
+- [PDP V2](https://mylittledeen.com/pages/pdp-v2)
+  Updated: 2026-01-27T12:10:35Z
+- [PDP v3](https://mylittledeen.com/pages/pdp-v3)
+  Updated: 2026-01-27T12:09:40Z
 
 ## Policies
 
