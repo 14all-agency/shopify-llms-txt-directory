@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-23T02:38:43Z
 - Contact Email: support@vansilkhome.co.uk
-- Updated At: 2026-01-26T00:00:35.201Z
+- Updated At: 2026-02-02T00:00:38.083Z
 
 ## Products
 
@@ -4188,13 +4188,16 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   - [Designing Your Sanctuary: A Galentine’s Guide to Quiet Luxury](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/designing-your-sanctuary-a-galentine-s-guide-to-quiet-luxury)
     Updated: 2026-01-23T05:32:00Z
     Author: WenQing Wang
+  - [Reclaiming the Bedtime Story: Creating a 'Tech-Free' Sanctuary for National Storytelling Week](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/reclaiming-the-bedtime-story-creating-a-tech-free-sanctuary-for-national-storytelling-week)
+    Updated: 2026-01-28T02:38:35Z
+    Author: WenQing Wang
 
 ## Store Pages
 
 - [Contact](https://vansilkhome.co.uk/pages/contact): Company Info LOOMUSE INC Store Hours 9:00 AM – 6:00 PM, Monday to Friday. Support Email support@vansilkhome.co.uk
   Updated: 2025-12-23T09:49:28Z
 - [Your Privacy Choices](https://vansilkhome.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-23T11:19:05Z
+  Updated: 2026-01-28T17:30:18Z
 - [Shipping Information](https://vansilkhome.co.uk/pages/shipping-information): Vansilk offers world worldwide shipping. For orders over £100, we will offer free delivery. For orders under £100, the freight price is £8 which wi...
   Updated: 2025-12-23T09:32:24Z
 - [Return & Exchanges](https://vansilkhome.co.uk/pages/return-exchanges): VanSilk Return and Exchange Policy At VanSilk, we are committed to providing you with a fantastic shopping experience! We offer a 30-day return per...
