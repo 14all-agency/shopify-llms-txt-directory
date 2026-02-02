@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2025-12-18T13:49:41Z
 - Contact Email: kitchkittyslc@gmail.com
-- Updated At: 2026-01-25T00:00:35.911Z
+- Updated At: 2026-02-02T00:00:39.272Z
 
 ## Products
 
@@ -1076,7 +1076,7 @@
 - [Contact](https://www.kitchkittybaby.com/pages/contact)
   Updated: 2025-12-18T13:49:44Z
 - [Your Privacy Choices](https://www.kitchkittybaby.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-18T13:49:52Z
+  Updated: 2026-01-28T18:01:05Z
 - [About Us](https://www.kitchkittybaby.com/pages/about-us): Welcome to the KitchKitty Family! Hello, my name is Kat Palacio and I'm a mother, wife, artist, and an all-round positive person. During my journey...
   Updated: 2025-12-25T04:29:06Z
 - [Shipping and Returns](https://www.kitchkittybaby.com/pages/shipping-and-returns): Shipping Information Shipping policies and delivery times may vary depending on the supplier. Generally, you can expect your order to be shipped wi...
