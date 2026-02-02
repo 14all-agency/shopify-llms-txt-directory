@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-04-25T08:13:12Z
 - Contact Email: info@wrongcrow.com
-- Updated At: 2026-01-26T00:00:39.891Z
+- Updated At: 2026-02-02T00:00:43.515Z
 
 ## Products
 
@@ -1593,7 +1593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/mockup-of-a-man-posing-with-his-hands-behind-his-back-while-wearing-a-hoodie-m22416_1_40ca82f2-d85d-4282-9976-5e1db7ecce4b.png?v=1763831477
     Price: 54,99 € EUR
 - [Dirty Profits – Financial Pressure Warning Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/dirty-profits-financial-pressure-warning-streetwear-oversized-hoodie): Dirty Profits Hoodie – cleanes Warning-Design, Premium-Qualität & Statement für Street Finance Culture. Oversized Fit & Cyan/Purple Gradient. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:19Z
+  Updated: 2026-01-27T17:41:23Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -1748,8 +1748,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/mockup-of-a-man-posing-with-his-hands-behind-his-back-while-wearing-a-hoodie-m22416_6.png?v=1763891550
     Price: 54,99 € EUR
-- [Untraceable Money Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/untraceable-money-streetwear-oversized-hoodie): Untraceable Money Hoodie mit glitchigem QR-Code-Design in Cyan-Violett. Streetwear für alle, die ihre eigenen Regeln schreiben. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:19Z
+- [Untraceable Money Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/untraceable-money-streetwear-oversized-hoodie): Untraceable Money Hoodie mit glitchigem QR-Code-Design in Cyan-Violett. Streetwear für alle, die ihre eigenen Regeln schreiben. Jetzt entdecken!
+  Updated: 2026-01-28T05:37:36Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -1802,8 +1802,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/mockup-of-a-full-zip-hoodie-with-a-back-view-worn-by-a-man-in-studio-23401_b3e53aab-a5ea-4b92-bb01-c2a29342b1fc.png?v=1763892610
     Price: 59,99 € EUR
-- [Financial Malfunction Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/financial-malfunction-streetwear-oversized-hoodie): Financial Malfunction Hoodie: Glitch-Design, blau-violetter Gradient & Premium Streetwear-Qualität. Perfekt für Nights, Grind & System Rebels. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:19Z
+- [Financial Malfunction Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/financial-malfunction-streetwear-oversized-hoodie): Financial Malfunction Hoodie: Glitch-Design, blau-violetter Gradient & Premium Streetwear-Qualität. Perfekt für Nights, Grind & System Rebels. Jetzt entdecken!
+  Updated: 2026-01-28T05:36:44Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -1856,8 +1856,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/back-view-mockup-featuring-a-man-wearing-a-pullover-hoodie-with-sleeves-in-a-studio-m56514_10.png?v=1763893285
     Price: 59,99 € EUR
-- [Easy Money Is a Trap Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/easy-money-is-a-trap-streetwear-oversized-hoodie): Starker Statement-Hoodie: Easy Money Is a Trap. Premium Streetwear, schwere Qualität, klare Botschaft. Wrongcrow Dirty Profits Collection. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:19Z
+- [Easy Money Is a Trap Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/easy-money-is-a-trap-streetwear-oversized-hoodie): Starker Statement-Hoodie: Easy Money Is a Trap. Premium Streetwear, schwere Qualität, klare Botschaft. Wrongcrow Dirty Profits Collection. Jetzt entdecken!
+  Updated: 2026-01-28T05:35:58Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -1910,8 +1910,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/back-view-mockup-featuring-a-man-wearing-a-pullover-hoodie-with-sleeves-in-a-studio-m56514_3.png?v=1763893751
     Price: 59,99 € EUR
-- [Black Money Ops Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/black-money-ops-streetwear-oversized-hoodie): Black Money Ops Hoodie mit Money-Case Backprint. Urban, bold und oversized. Teil der WRONGCROW Dirty Profits Collection. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:19Z
+- [Black Money Ops Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/black-money-ops-streetwear-oversized-hoodie): Black Money Ops Hoodie mit Money-Case Backprint. Urban, bold und oversized. Teil der WRONGCROW Dirty Profits Collection. Jetzt entdecken!
+  Updated: 2026-01-28T05:37:42Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -1964,8 +1964,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/back-view-mockup-featuring-a-man-wearing-a-pullover-hoodie-with-sleeves-in-a-studio-m56514_12.png?v=1763894297
     Price: 59,99 € EUR
-- [Money Laundered Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/money-laundered-streetwear-oversized-hoodie): Money Laundered Hoodie von WRONGCROW – schwerer Streetwear-Hoodie mit Violet/Cyan Backprint. Perfekt für Systemkritiker & Street Finance Style. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:19Z
+- [Money Laundered Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/money-laundered-streetwear-oversized-hoodie): Money Laundered Hoodie von WRONGCROW – schwerer Streetwear-Hoodie mit Violet/Cyan Backprint. Perfekt für Systemkritiker & Street Finance Style. Jetzt entdecken!
+  Updated: 2026-01-28T14:28:08Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -2018,8 +2018,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/back-view-mockup-featuring-a-man-wearing-a-pullover-hoodie-with-sleeves-in-a-studio-m56514_8.png?v=1763894886
     Price: 59,99 € EUR
-- [Profits Loading Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/profits-loading-streetwear-oversized-hoodie): Streetwear Hoodie „Profits Loading…“ – Premium Oversized Hoodie mit Progress-Bar-Design im Violet/Cyan-Look. Für Worker, Dreamer & Strugglers. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:20Z
+- [Profits Loading Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/profits-loading-streetwear-oversized-hoodie): Streetwear Hoodie „Profits Loading…“ – Premium Oversized Hoodie mit Progress-Bar-Design im Violet/Cyan-Look. Für Worker, Dreamer & Strugglers. Jetzt entdecken!
+  Updated: 2026-01-28T15:16:40Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -2072,8 +2072,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/back-view-mockup-featuring-a-man-wearing-a-pullover-hoodie-with-sleeves-in-a-studio-m56514_6.png?v=1763895341
     Price: 59,99 € EUR
-- [Cash Only Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/cash-only-streetwear-oversized-hoodie): Cash Only Hoodie mit Cyan-Purple Gradient. Streetwear, Oversize Fit & starke Message. WRONGCROW Dirty Profits Collection. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:20Z
+- [Cash Only Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/cash-only-streetwear-oversized-hoodie): Cash Only Hoodie mit Cyan-Purple Gradient. Streetwear, Oversize Fit & starke Message. WRONGCROW Dirty Profits Collection. Jetzt entdecken!
+  Updated: 2026-01-28T05:36:13Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -2342,8 +2342,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/mockup-of-a-man-with-a-locs-hairstyle-wearing-an-oversized-tee-m25212_7.png?v=1763905808
     Price: 32,99 € EUR
-- [Official Money Hater Club Streetwear Oversized Tee](https://www.wrongcrow.com/products/official-money-hater-club-streetwear-oversized-tee): Official Money Hater Club Tee im Oversized Fit. Starkes Streetwear-Statement mit Violet-Cyan Gradient. WRONGCROW Style für echte Systembrecher. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:20Z
+- [Official Money Hater Club Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/official-money-hater-club-streetwear-oversized-tee): Official Money Hater Club Tee im Oversized Fit. Starkes Streetwear-Statement mit Violet-Cyan Gradient. WRONGCROW Style für echte Systembrecher. Jetzt entdecken!
+  Updated: 2026-01-28T05:35:12Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2396,8 +2396,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_1_8732f3d8-cb4a-47ca-80d6-f2e0e0d0b3ee.png?v=1763976785
     Price: 34,99 € EUR
-- [Untraceable Money Streetwear Oversized Tee](https://www.wrongcrow.com/products/untraceable-money-streetwear-oversized-tee): Untraceable Money Oversized Tee mit glitchigem QR-Print in Cyan-Violet. Streetwear von WRONGCROW – stark, modern, untrackable. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Untraceable Money Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/untraceable-money-streetwear-oversized-tee): Untraceable Money Oversized Tee mit glitchigem QR-Print in Cyan-Violet. Streetwear von WRONGCROW – stark, modern, untrackable. Jetzt entdecken!
+  Updated: 2026-01-28T05:35:17Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2450,8 +2450,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_4_74a133cf-8dbe-4db5-be49-cacc01f40529.png?v=1763977287
     Price: 34,99 € EUR
-- [Financial Malfunction Streetwear Oversized Tee](https://www.wrongcrow.com/products/financial-malfunction-streetwear-oversized-tee): FINANCIAL MALFUNCTION Oversized Tee mit glitchendem Zahlen-Print. Streetwear für Systemkritiker & Nightlife Rebels. WRONGCROW Streetwear. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Financial Malfunction Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/financial-malfunction-streetwear-oversized-tee): FINANCIAL MALFUNCTION Oversized Tee mit glitchendem Zahlen-Print. Streetwear für Systemkritiker & Nightlife Rebels. WRONGCROW Streetwear. Jetzt entdecken!
+  Updated: 2026-01-28T05:43:56Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2504,8 +2504,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_5_86649763-8373-49c1-8a4d-629e06fd58b7.png?v=1763977727
     Price: 34,99 € EUR
-- [Easy Money Is a Trap Streetwear Oversized Tee](https://www.wrongcrow.com/products/easy-money-is-a-trap-streetwear-oversized-tee): Oversized Streetwear Tee mit „Easy Money Is a Trap“-Backprint. Premium Qualität, starke Message, Teil der WRONGCROW Dirty Profits Collection. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Easy Money Is a Trap Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/easy-money-is-a-trap-streetwear-oversized-tee): Oversized Streetwear Tee mit „Easy Money Is a Trap“-Backprint. Premium Qualität, starke Message, Teil der WRONGCROW Dirty Profits Collection. Jetzt entdecken!
+  Updated: 2026-01-28T15:43:38Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2558,8 +2558,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_8_6b6acd3f-d1d9-41cb-8a18-1241644be1b8.png?v=1763978117
     Price: 34,99 € EUR
-- [Black Money Ops Streetwear Oversized Tee](https://www.wrongcrow.com/products/black-money-ops-streetwear-oversized-tee): BLACK MONEY OPS Oversized Tee – kräftiger Gradient-Print, Premium Streetwear und Wrongcrow Attitude. Keine Fragen. Nur Style. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Black Money Ops Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/black-money-ops-streetwear-oversized-tee): BLACK MONEY OPS Oversized Tee – kräftiger Gradient-Print, Premium Streetwear und Wrongcrow Attitude. Keine Fragen. Nur Style. Jetzt entdecken!
+  Updated: 2026-01-28T05:33:29Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2612,8 +2612,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_9_4462fbe7-bd11-4f37-9c43-601a32a5d64b.png?v=1763978551
     Price: 34,99 € EUR
-- [Money Laundered Streetwear Oversized Tee](https://www.wrongcrow.com/products/money-laundered-streetwear-oversized-tee): Oversized Shirt mit „Money Laundered“-Backprint. Provokant, urban, Wrongcrow Style. Street Finance Design für echte Rulebreaker. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Money Laundered Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/money-laundered-streetwear-oversized-tee): Oversized Shirt mit „Money Laundered“-Backprint. Provokant, urban, Wrongcrow Style. Street Finance Design für echte Rulebreaker. Jetzt entdecken!
+  Updated: 2026-01-28T05:44:25Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2666,8 +2666,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_12.png?v=1763978975
     Price: 34,99 € EUR
-- [Profits Loading Streetwear Oversized Tee](https://www.wrongcrow.com/products/profits-loading-streetwear-oversized-tee): Oversized Streetwear Tee mit PROFITS LOADING Print. Violet/Cyan Gradient, Premium Fit, WRONGCROW Streetwear. Perfekt für Hustler & Struggler. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Profits Loading Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/profits-loading-streetwear-oversized-tee): Oversized Streetwear Tee mit PROFITS LOADING Print. Violet/Cyan Gradient, Premium Fit, WRONGCROW Streetwear. Perfekt für Hustler & Struggler. Jetzt entdecken!
+  Updated: 2026-01-28T05:33:44Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2720,8 +2720,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_13.png?v=1763979494
     Price: 34,99 € EUR
-- [Cash Only Streetwear Oversized Tee](https://www.wrongcrow.com/products/cash-only-streetwear-oversized-tee): CASH ONLY – NO QUESTIONS Oversized Shirt. Streetwear mit Cyan-Purple Gradient. Für alle, die keine Erklärungen brauchen. Wrongcrow Streetwear. Jetzt entdecken!
-  Updated: 2025-12-07T16:33:21Z
+- [Cash Only Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/cash-only-streetwear-oversized-tee): CASH ONLY – NO QUESTIONS Oversized Shirt. Streetwear mit Cyan-Purple Gradient. Für alle, die keine Erklärungen brauchen. Wrongcrow Streetwear. Jetzt entdecken!
+  Updated: 2026-01-28T05:42:29Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2774,8 +2774,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_16.png?v=1763979915
     Price: 34,99 € EUR
-- [Broken Savings Streetwear Oversized Tee](https://www.wrongcrow.com/products/broken-savings-streetwear-oversized-tee): Streetwear Tee Broken Savings von WRONGCROW. Oversized, Premiumdruck & starke Message über die Realität der Finanzen. Jetzt entdecken!
-  Updated: 2026-01-06T13:38:14Z
+- [Broken Savings Streetwear Oversized Tee mit Backprint](https://www.wrongcrow.com/products/broken-savings-streetwear-oversized-tee): Streetwear Tee Broken Savings von WRONGCROW. Oversized, Premiumdruck & starke Message über die Realität der Finanzen. Jetzt entdecken!
+  Updated: 2026-01-28T17:07:52Z
   Vendor: MarketPrint
   Product Type: T-Shirt
   Availability: Available
@@ -2828,8 +2828,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0941/1546/3500/files/oversized-t-shirt-mockup-featuring-a-man-posing-backwards-in-a-studio-m56524_17.png?v=1763980378
     Price: 34,99 € EUR
-- [Broken Savings Streetwear Oversized Hoodie](https://www.wrongcrow.com/products/broken-savings-streetwear-oversized-hoodie): Broken Savings Hoodie von WRONGCROW – starkes Street Finance Design im Violet/Cyan Gradient. Premium Qualität für urbanen Style. Jetzt entdecken!
-  Updated: 2026-01-21T00:49:13Z
+- [Broken Savings Streetwear Oversized Hoodie mit Backprint](https://www.wrongcrow.com/products/broken-savings-streetwear-oversized-hoodie): Broken Savings Hoodie von WRONGCROW – starkes Street Finance Design im Violet/Cyan Gradient. Premium Qualität für urbanen Style. Jetzt entdecken!
+  Updated: 2026-01-28T05:40:03Z
   Vendor: MarketPrint
   Product Type: Hoodie
   Availability: Available
@@ -3317,7 +3317,7 @@
   Updated: 2026-01-22T13:36:08Z
   Total Products: 1
 - [Wrongcrow Shop | Premium Heavyweight Streetwear & Oversized Mode](https://www.wrongcrow.com/collections/collections-all): Shoppe die gesamte Wrongcrow Kollektion. Von 380 GSM Heavyweight Hoodies bis zu 240 GSM Oversized Tees. Für alle, die keine Kompromisse machen. Jetzt entdecken!
-  Updated: 2026-01-22T12:45:42Z
+  Updated: 2026-01-27T17:36:00Z
   Total Products: 66
 - [Wrongcrow | High-End Streetwear & Heavyweight Hoodies Reality Crash](https://www.wrongcrow.com/collections/neu): Street Knowledge ist kein Modus, sondern ein Lebensgefühl. Hol dir Wrongcrow Streetwear mit Attitüde. Mutige Designs & Heavyweight Qualität. Jetzt online shoppen!
   Updated: 2026-01-04T07:48:07Z
@@ -3341,29 +3341,29 @@
   Updated: 2026-01-05T15:31:58Z
   Total Products: 0
 - [Dirty Profits Kollektion | Premium Heavyweight Streetwear](https://www.wrongcrow.com/collections/dirty-profits): Provokante Designs treffen auf 380 GSM Heavyweight Qualität. Entdecke die Dirty Profits Kollektion: Oversized Hoodies & Tees für Macher. Jetzt Piece sichern!
-  Updated: 2026-01-22T13:03:11Z
+  Updated: 2026-01-27T17:36:00Z
   Total Products: 26
 - [Dirty Profits Hoodies | 380 GSM Heavyweight Streetwear – Wrongcrow](https://www.wrongcrow.com/collections/hoodies-3): Die Dirty Profits Hoodies 380 GSM Heavy Cotton, perfekter Oversized Schnitt & markante Designs. Sichere dir dein Piece ohne Kompromisse. Jetzt shoppen!
-  Updated: 2026-01-22T13:16:22Z
+  Updated: 2026-01-27T17:36:00Z
   Total Products: 13
 - [Dirty Profits T-Shirts | 240 GSM Heavyweight Streetwear – Wrongcrow](https://www.wrongcrow.com/collections/t-shirts-2): Premium Dirty Profits Tees mit 240 GSM. Entdecke den Oversized Look und hochwertige Prints. Heavyweight Cotton für maximale Langlebigkeit. Jetzt sichern!
-  Updated: 2026-01-22T13:19:37Z
+  Updated: 2026-01-27T17:33:21Z
   Total Products: 13
 
 ## Blogs
 
 - [Über uns](https://www.wrongcrow.com/blogs/news)
   - [Unsere Geschichte](https://www.wrongcrow.com/blogs/news/unsere-geschichte)
-    Updated: 2025-11-06T11:23:27Z
+    Updated: 2026-01-27T18:00:35Z
     Author: Sascha Dimitrios Piepiora
   - [Einfluss von Musik](https://www.wrongcrow.com/blogs/news/einfluss-von-musik)
-    Updated: 2025-11-06T11:28:57Z
+    Updated: 2026-01-27T18:00:24Z
     Author: Sascha Dimitrios Piepiora
   - [Warum Streetwear ?](https://www.wrongcrow.com/blogs/news/warum-streetwear)
-    Updated: 2025-11-06T11:43:10Z
+    Updated: 2026-01-27T17:59:57Z
     Author: Sascha Dimitrios Piepiora
   - [Traum wird Realität?](https://www.wrongcrow.com/blogs/news/traum-wird-realitat)
-    Updated: 2025-11-06T11:42:54Z
+    Updated: 2026-01-27T18:00:12Z
     Author: Sascha Dimitrios Piepiora
   - [Die Geschichte der Streetwear in Deutschland](https://www.wrongcrow.com/blogs/news/die-geschichte-der-streetwear-in-deutschland)
     Updated: 2026-01-21T11:30:35Z
@@ -3373,6 +3373,9 @@
     Updated: 2026-01-21T11:29:42Z
     Author: Sascha Dimitrios Piepiora
     Tags: 240GSM Tees, 380GSM Hoodies, BoxyFit, HeacyweightCotton, HeavyCotton, Premium, Vacancy
+  - [Mehr als nur Stoff – Warum WRONGCROW die Antwort auf Fast Fashion ist](https://www.wrongcrow.com/blogs/news/mehr-als-nur-stoff-warum-wrongcrow-die-antwort-auf-fast-fashion-ist)
+    Updated: 2026-01-27T18:09:19Z
+    Author: Sascha Dimitrios Piepiora
 
 ## Store Pages
 
@@ -3390,17 +3393,19 @@
   Updated: 2025-06-27T06:31:10Z
 - [PHILOSOPHIE DER STRASSE](https://www.wrongcrow.com/pages/philosophie-der-strasse): Wir gehören nicht dazu. Und genau deshalb gehören wir uns selbst. WRONGCROW steht für alle, die anecken, scheitern, aufstehen, durchziehen.Für die,...
   Updated: 2025-09-19T08:54:29Z
+- [Deine Datenschutz-Einstellungen](https://www.wrongcrow.com/pages/data-sharing-opt-out): Wie in unserer Datenschutzrichtlinie beschrieben, erfassen wir personenbezogene Daten aus Ihren Interaktionen mit uns und unserer Website, unter an...
+  Updated: 2026-01-29T21:12:47Z
 
 ## Policies
 
 - [Privacy Policy](https://www.wrongcrow.com/policies/privacy-policy)
-  Updated: 2026-01-24T03:47:18+01:00
+  Updated: 2026-01-31T04:22:11+01:00
 - [Shipping Policy](https://www.wrongcrow.com/policies/shipping-policy)
   Updated: 2025-06-11T17:45:48+02:00
 - [Refund Policy](https://www.wrongcrow.com/policies/refund-policy)
-  Updated: 2026-01-09T06:46:17+01:00
+  Updated: 2026-01-27T01:03:36+01:00
 - [Terms of Service](https://www.wrongcrow.com/policies/terms-of-service)
-  Updated: 2026-01-15T04:09:59+01:00
+  Updated: 2026-01-27T01:00:53+01:00
 - [Contact Information](https://www.wrongcrow.com/policies/contact-information)
   Updated: 2025-06-12T14:15:51+02:00
 
