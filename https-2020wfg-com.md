@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2024-06-01T02:17:53Z
-- Updated At: 2026-01-24T00:00:37.795Z
+- Updated At: 2026-02-02T00:00:41.196Z
 
 ## Products
 
@@ -447,7 +447,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
   Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/57.png?v=1761759614
   Price: $31.00 USD
 - [6-in-1 Organic Mushroom Powder – Brain, Gut & Energy Support | 180g](https://2020wfg.com/products/6-in-1-organic-mushroom-powder-2000-mg-for-brain-health-focus-anti-fatigue-and-digestive-support): Smarter than your average coffee. Fuel your brain, calm your nerves, and strengthen your immunity with our elite-grade 6-in-1 Mushroom Powder—a blend of cognitive-enhancing, anti-fatigue, and gut-supporting mushrooms made for peak performers. 💥 Why It Works: 🧠 Lion’s Mane + Cordyceps + Reishi – Enhance focus, memory & natural energy without jitters 🦠 Turkey Tail + Shiitake + Maitake – Antioxidant-rich blend to strengthen immune defense & digestion ☕ Arabica Coffee Infusion – 80% less caffeine than traditional coffee, same bold flavor 🌱 Non-GMO, Gluten-Free, Vegan – No fillers, no nonsense—just adaptogenic power 🛠️ Part of Our Deals & Gifts Collection Most “mushroom powders” are just hype. We source direct from trusted manufacturers, test in 3rd-party labs, and offer true therapeutic-grade blends at a fraction of the cost. We did it with ANADRAX, and we’re doing it here too. 📦 Product Details: 🔍 Feature ✅ Info Size 180g (30 servings) Daily Dose 4–6g once or twice daily (no scoop included) Key Ingredients Lion’s Mane, Cordyceps, Reishi, Turkey Tail, Shiitake Caffeine Content Low (80% less than normal coffee) Function Focus, Immunity, Gut Health, Natural Energy Usage Mix into hot water, smoothies, or coffee Shelf Life 📅 2 Years Shipping 🚚 Ships in 48h (Weekdays Only)
-  Updated: 2026-01-22T18:07:55Z
+  Updated: 2026-01-25T16:12:07Z
   Vendor: 2020WFG
   Product Type: Natural Extracts
   Availability: Available
@@ -1798,7 +1798,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/3a619cd8-62fe-49dc-8a0e-75a53ebae53e-Max-Origin.webp?v=1764696313
     Price: $33.24 USD
 - [Zip-Up Hoodie and Pants Active Set](https://2020wfg.com/products/zip-up-hoodie-and-pants-active-set): Features:Drawstring,Zipper Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:75% polyester, 20% cotton, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Bottom Length Inseam Sleeve Length S 22.2 37.8 45.3 40.2 28.7 19.9 M 22.8 40.2 47.6 40.6 28.7 20.1 L 23.4 42.5 50 40.9 28.8 20.3 XL 24 45.7 53.1 41.3 28.8 20.5 2XL 24.6 48.8 56.3 41.7 28.8 20.7
-  Updated: 2026-01-23T21:00:37Z
+  Updated: 2026-01-27T03:31:00Z
   Vendor: 2020WFG
   Product Type: 
   Availability: Available
@@ -2080,7 +2080,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/d1b2b061-8aa3-4b9d-bd10-70c8087e32de-Max-Origin.webp?v=1764696728
     Price: $17.84 USD
 - [Zip Up Long Sleeve Active Outerwear](https://2020wfg.com/products/zip-up-long-sleeve-active-outerwear): Features: Basic style Thickness: Thin Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 2/4 18.1 32.3 24.4 M 6 18.5 33.9 24.8 L 8 18.9 35.4 25.2 XL 10 19.3 37 25.6
-  Updated: 2026-01-20T18:00:25Z
+  Updated: 2026-01-26T22:56:31Z
   Vendor: 2020WFG
   Product Type: 
   Availability: Available
@@ -2388,7 +2388,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/32f39931-4d53-4a98-ab77-3ea82ce64829-Max.webp?v=1764697082
     Price: $31.00 USD
 - [Scoop Neck Wide Strap Top and Pants Active Set](https://2020wfg.com/products/scoop-neck-wide-strap-top-and-pants-active-set): Features: Basic style Number of pieces: Two-piece Stretch: Highly stretchy Material composition: 92% polyamide, 8% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Bottom Length Waist Hip S 4 12 28.3 32.3 23.2 29.1 M 6/8 12.4 29.9 33.1 24.8 31.1 L 10/12 12.8 31.5 33.9 26.4 33.1 XL 14/16 13.2 33.1 34.6 28 35.4
-  Updated: 2026-01-20T18:00:26Z
+  Updated: 2026-01-31T11:15:47Z
   Vendor: 2020WFG
   Product Type: 
   Availability: Available
@@ -2474,7 +2474,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/14d0536f-e421-477a-85f6-19d74ec23273-Max.webp?v=1764697122
     Price: $42.00 USD
 - [Scoop Neck Wide Strap Top and Shorts Active Set](https://2020wfg.com/products/scoop-neck-wide-strap-top-and-shorts-active-set): Features: Basic style Number of pieces: Two-piece Stretch: Highly stretchy Material composition: 92% polyamide, 8% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Bottom Length Waist Hip S 2/4 12 28.3 14.2 23.2 28.3 M 6/8 12.4 29.9 14.6 24.8 29.9 L 10 12.8 31.5 15 26.4 31.5 XL 12 13.2 33.1 15.4 28 33.1
-  Updated: 2026-01-20T18:00:26Z
+  Updated: 2026-01-27T16:43:26Z
   Vendor: 2020WFG
   Product Type: 
   Availability: Available
@@ -2748,7 +2748,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/c3b3f058-91e0-4893-b6f8-e734d8aa9a45-Max.webp?v=1764698470
     Price: $28.00 USD
 - [Half Zip Mock Neck Active Jumpsuit](https://2020wfg.com/products/half-zip-mock-neck-active-jumpsuit): Features: Basic style Stretch: Highly stretchy Material composition: 75% nylon, 25% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Bust 24.41 in, Top Length 50.00 in, Waist 21.26 in, HIP 27.95 inM:Bust 25.98 in, Top Length 50.39 in, Waist 22.83 in, HIP 29.53 inL:Bust 27.56 in, Top Length 50.79 in, Waist 24.41 in, HIP 31.10 inXL:Bust 29.13 in, Top Length 51.18 in, Waist 25.98 in, HIP 32.68 in
-  Updated: 2026-01-21T21:49:22Z
+  Updated: 2026-01-25T01:35:57Z
   Vendor: 2020WFG
   Product Type: 
   Availability: Available
@@ -3092,7 +3092,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/all-over-print-mens-tank-top-white-front-692f2e636dc80.png?v=1764699782
     Price: $43.00 USD
 - [Crop Hoodie](https://2020wfg.com/products/crop-hoodie): Let fashion take over your wardrobe with this great statement piece. The trendy raw hem and matching drawstrings means that this hoodie is bound to become a true favorite. • 52% airlume combed and ring-spun cotton, 48% poly fleece • Fabric weight: 6.5 oz/yd² (220.39 g/m²) • Dyed-to-match drawstrings • Dropped shoulder cut • Cropped body with a raw hem • Blank product sourced from Mexico, Nicaragua or the United States This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (inches) LENGTH (inches) S 22 18 ⅝ M 23 ½ 19 ⅜ L 25 ½ 21 ⅜ XL 27 ½ 22 ⅛ 2XL 29 ½ 22 ⅞ WIDTH (cm) LENGTH (cm) S 55.9 47.2 M 59.7 49.3 L 64.8 54.4 XL 69.9 56.1 2XL 75 58.2
-  Updated: 2026-01-20T18:00:29Z
+  Updated: 2026-01-26T17:38:00Z
   Vendor: 2020WFG
   Product Type: 
   Availability: Available
@@ -3130,7 +3130,7 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/womens-cropped-hoodie-military-green-front-692f3d945c802.png?v=1764703681
     Price: $94.50 USD
   - [Military Green / XL](https://2020wfg.com/products/crop-hoodie?variant=42815431377009)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/2119/1537/files/womens-cropped-hoodie-military-green-front-692f3d945c802.png?v=1764703681
     Price: $94.50 USD
   - [Military Green / 2XL](https://2020wfg.com/products/crop-hoodie?variant=42815431409777)
@@ -5268,10 +5268,10 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
   Updated: 2026-01-20T18:00:05Z
   Total Products: 15
 - [AVADA - Best Sellers](https://2020wfg.com/collections/avada-best-sellers)
-  Updated: 2026-01-23T12:13:22Z
+  Updated: 2026-01-29T12:12:36Z
   Total Products: 239
 - [Deals & Gifts](https://2020wfg.com/collections/deals-gifts): Shop the 2020WFG Deals & Gifts Collection for exclusive rewards! Get free supplements from top brands with qualifying purchases. Elevate your fitness journey today!
-  Updated: 2026-01-23T12:13:22Z
+  Updated: 2026-01-29T12:12:36Z
   Total Products: 52
 - [Stacks](https://2020wfg.com/collections/stack-savers-best-deals): Save big with Stack Savers: Best Deals! Explore discounted cycles and stacks from 2020WFG and top supplement brands. Achieve your fitness goals with premium products at unbeatable prices.
   Updated: 2026-01-20T18:00:05Z
@@ -5283,13 +5283,13 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
   Updated: 2026-01-20T18:00:05Z
   Total Products: 41
 - [All Products](https://2020wfg.com/collections/all-products)
-  Updated: 2026-01-23T12:13:22Z
+  Updated: 2026-01-29T12:12:36Z
   Total Products: 232
 - [individual products of 2020WFG](https://2020wfg.com/collections/individual-products-of-2020wfg)
   Updated: 2026-01-20T18:00:05Z
   Total Products: 29
 - [All](https://2020wfg.com/collections/all)
-  Updated: 2026-01-23T12:13:22Z
+  Updated: 2026-01-29T12:12:36Z
   Total Products: 271
 - [top ](https://2020wfg.com/collections/top-)
   Updated: 2026-01-20T18:00:05Z
@@ -5353,8 +5353,8 @@ prohormone stack, anabolic alternative, post-cycle therapy, non-hormonal mass bu
   Updated: 2024-11-07T17:26:53Z
 - [Review Submission](https://2020wfg.com/pages/review-submission)
   Updated: 2025-05-14T01:08:42Z
-- [Your privacy choices](https://2020wfg.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-12T08:55:28Z
+- [Your Privacy Choices](https://2020wfg.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-01-29T17:08:08Z
 
 ## Policies
 
