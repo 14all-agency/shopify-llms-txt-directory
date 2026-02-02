@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2025-12-23T19:24:36Z
 - Contact Email: freedom202616@outlook.com
-- Updated At: 2026-01-26T00:00:27.081Z
+- Updated At: 2026-02-02T00:00:34.921Z
 
 ## Products
 
@@ -256,7 +256,7 @@
 - [Frakt og Retur](https://freedom-com-3645.myshopify.com/pages/frakt-og-retur): Frakt og levering 📦 Gratis frakt Vi tilbyr gratis frakt på alle ordre til Norge. ⏱️ Leveringstid Normal leveringstid er 7-16 virkedager etter at be...
   Updated: 2025-12-29T21:33:00Z
 - [Dine personvernvalg](https://freedom-com-3645.myshopify.com/pages/data-sharing-opt-out): Som beskrevet i personvernerklæringen vår samler vi inn personlig informasjon fra din interaksjon med oss og nettstedet vårt, inkludert gjennom inf...
-  Updated: 2026-01-09T18:16:27Z
+  Updated: 2026-01-28T17:56:47Z
 
 ## Policies
 
