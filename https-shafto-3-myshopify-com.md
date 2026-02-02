@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2026-01-01T18:10:13Z
-- Updated At: 2026-01-26T00:00:34.719Z
+- Updated At: 2026-02-02T00:00:37.776Z
 
 ## Products
 
@@ -807,7 +807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/Hammock2.jpg?v=1767477028
     Price: $206.07 CAD
 - [Yatta Life Surestep Kids Ice Cleats for Winter Traction Aid](https://shafto-3.myshopify.com/products/yatta-life-surestep-kids-ice-cleats-for-winter-traction-aid): Confident steps. Safe adventures. Give your kids the freedom to play, explore, and enjoy winter without slips or falls. SureGrip Kids ice grips are designed with parents in mind and kids at heart — lightweight, durable, and easy to slip on, they make every snowy adventure safer and more fun. Why Parents Love It Trusted safety: 13 stainless steel spikes (7mm long) bite into ice and snow for steady traction. Built to last: High-tech TPR elastomer stays flexible and strong, tested to withstand temperatures as low as –40°C. Quick on & off: Compact and lightweight (just 170–180g), kids can gear up in seconds. Peace of mind: A clean, professional design that feels dependable — never gimmicky. Kid-Friendly Comfort Wide Kids Fit Range: Small and Medium sizes fit footwear from US Toddler 9 to Kids 7, covering growing feet from early walkers to big kids. Flexible material stretches easily over boots without fuss. Lightweight build keeps little feet moving freely. Materials & Specs Material: TPR elastomer with reinforced eyelets. Spikes: Stainless steel, 13 total, 7mm length. Chain: TWIST stainless steel chain for added durability. .yatta-size-chart { max-width: 520px; margin: 2rem auto; padding: 1.5rem 1.75rem; border-radius: 16px; background: #f6f8fc; border: 1px solid #dfe3f0; font-family: inherit; font-size: 14px; color: #1f2933; } .yatta-size-chart__title { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.75rem; font-size: 1.1rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; } .yatta-size-chart__badge { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; padding: 0.15rem 0.5rem; border-radius: 999px; background: #0f9ac9; color: #ffffff; } .yatta-size-chart__subtitle { font-size: 0.9rem; margin-bottom: 1rem; color: #4b5563; } .yatta-size-chart table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-bottom: 0.5rem; } .yatta-size-chart thead { background: #0f9ac9; color: #ffffff; } .yatta-size-chart th, .yatta-size-chart td { padding: 0.6rem 0.5rem; text-align: center; border-bottom: 1px solid #dfe3f0; } .yatta-size-chart th:first-child, .yatta-size-chart td:first-child { text-align: left; font-weight: 700; } .yatta-size-chart tbody tr:nth-child(even) { background: #edf2fb; } .yatta-size-chart__note { font-size: 0.8rem; color: #6b7280; margin-top: 0.5rem; } @media (max-width: 600px) { .yatta-size-chart { padding: 1.25rem 1rem; } .yatta-size-chart table { font-size: 0.85rem; } } Yatta Life SureSteps Kids Size Guide Choose the size based on your child’s regular shoe size. Size EU Shoe Size US Kids Shoe Size XS 26–28 9 – 11.5 S 30–34 12 – 3 M 35–38 3.5 – 7 Tip: If your child is between sizes, choose the larger size for a more comfortable fit over winter boots.
-  Updated: 2026-01-04T19:23:07Z
+  Updated: 2026-01-29T19:24:14Z
   Vendor: YATTA
   Product Type: n/a
   Availability: Available
@@ -920,12 +920,12 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/S4216bdab568641b299b8972f5ebb230bo.webp?v=1767477096
   Price: $50.00 CAD
 - [Glasses](https://shafto-3.myshopify.com/products/glasses): Children deserve the best, that's why we present to you Glasses, ideal for those who seek quality products for their little ones! Get at the best prices!
-  Updated: 2026-01-17T03:26:15Z
+  Updated: 2026-02-01T10:25:26Z
   Vendor: BigBuy Christmas
   Product Type: Toys | Fancy Dress > Fancy dress and celebration items > Costume accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/V0300625_2065441.jpg?v=1767477650
-  Price: $15.00 CAD
+  Price: $3.88 CAD
 - [Eyewood - Madison](https://shafto-3.myshopify.com/products/eyewood-madison): We give you our collection of all wooden sunglasses! These lighweight, highly comfortable beauties are  to make people look twice in envy. Made out of wood and high quality lenses, they will surely give you a natural feeling of comfort and design. Each pair is unique because it comes from different parts of the tree. Polarized lenses UV400, 100% UVA/UVB-protection Black lenses High-quality stainless steel hinges Measurements L: 151 mm, W: 145 mm, H: 53 mm Weight: only 18 g 100% handmade Full front lenses All our Eyewood sunglasses are delivered in a handmade, exclusive empress tree case and a microfiber pouch together with a polishing cloth. Real wooden sunglasses.
   Updated: 2026-01-04T10:03:10Z
   Vendor: Zerpico
@@ -1050,7 +1050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/manualProduct_2Fad9ff4e02965e751dfddeb784da2bb7b.jpg?v=1767477825
   Price: $17.09 CAD
 - [Active Mike Boys Jogger Set](https://shafto-3.myshopify.com/products/active-mike-boys-jogger-set): Keep your little one cozy and stylish with this soft and breathable 100% cotton zip-up hoodie jogger set. Perfect for everyday wear, playtime, or daycare, this outfit combines comfort with a fun design that kids love. Features: Zip-up Hoodie – Long sleeve, round neck, with playful embroidered Mickey outline. Sweatpants – Elastic waistband and cuffs for all-day comfort and easy movement. Fabric – 100% premium cotton for softness, durability, and breathability. Why Parents Love It: Gentle on sensitive skin Easy to mix & match Durable for active play Machine washable
-  Updated: 2026-01-25T05:17:41Z
+  Updated: 2026-01-31T05:21:14Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -1088,40 +1088,33 @@
     Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/image_48.png?v=1767478061
     Price: $14.00 CAD
 - [Basket set DKD Home Decor 149582](https://shafto-3.myshopify.com/products/basket-set-dkd-home-decor-149582): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Basket set DKD Home Decor 149582 at the best price. Approx. dimensions: 22 x 22 cm Type: Basket set
-  Updated: 2026-01-25T23:18:17Z
+  Updated: 2026-01-30T03:21:53Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Bathroom > Bathroom accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001625635_S3007360_P32.jpg?v=1767480708
   Price: $60.99 CAD
-- [Incense set DKD Home Decor Incense](https://shafto-3.myshopify.com/products/incense-set-dkd-home-decor-incense): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Incense set DKD Home Decor Incense at the best price. Design: Indian Man Units: 6 Units Approx. dimensions: 7 x 7 x 13 cm Width: 7 cm Adjustable: No Material: Mango wood Mountable: No Colour: Multicolour Type: Incense Holder Important information: Assorted designs sent randomly according to stock.
-  Updated: 2026-01-21T03:31:19Z
-  Vendor: DKD Home Decor
-  Product Type: Home | Garden > Cleaning, Vacuuming and Ironing > Air Fresheners
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424002082680_V3402134_P00.jpg?v=1767480713
-  Price: $15.00 CAD
 - [Wineglass DKD Home Decor Crystal Turquoise (150 ml)](https://shafto-3.myshopify.com/products/wineglass-dkd-home-decor-crystal-turquoise-150-ml): If you like to take care of every detail in your home and own the latest products that will make your life easier, purchase Wineglass DKD Home Decor Crystal Turquoise (150 ml) at the best price. Colour: Turquoise Material: Crystal Characteristics: Suitable for dishwashers Not suitable for microwaves Unsuitable for microwave Capacity: 150 ml Approx. dimensions: 7 x 7 x 20 cm
-  Updated: 2026-01-17T03:32:09Z
+  Updated: 2026-01-29T03:30:52Z
   Vendor: DKD Home Decor
   Product Type: Kitchen | Gourmet > Kitchenware > Glasses, cups and jugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424001950164_S3037330_P23.jpg?v=1767480730
   Price: $4.81 CAD
 - [Decorative Figure DKD Home Decor White Brown Vintage](https://shafto-3.myshopify.com/products/decorative-figure-dkd-home-decor-white-brown-vintage): If you are looking for new market trending items, we present the Decorative Figure DKD Home Decor White Brown Vintage! Type: Decorative Figure Colour: White Brown Material: PVC Metal Design: Vintage
-  Updated: 2026-01-16T10:23:37Z
+  Updated: 2026-01-27T11:58:37Z
   Vendor: DKD Home Decor
   Product Type: Home | Garden > Decoration and Lighting > Other Decoration Items
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/8424002078034_S3061631_P00.jpg?v=1767480739
   Price: $7.84 CAD
 - [Equip 333313 разпределител на напрежение (PDU) 8 Изход(и) за променлив ток 1U Черен, Сребърен (333313)](https://shafto-3.myshopify.com/products/equip-333313-разпределител-на-напрежение-pdu-8-изходи-за-променлив-ток-1u-черен-сребърен-333313): RoHS stands for Restriction of Hazardous Substances. RoHS, also known as Directive 2002/95/EC, originated in the European Union and restricts the use of specific hazardous materials found in electrical and electronic products (known as EEE). All applicable products in the EU market after July 1, 2006 must pass RoHS compliance. The substances banned under RoHS are lead (Pb), mercury (Hg), cadmium (Cd), hexavalent chromium (CrVI), polybrominated biphenyls (PBB), polybrominated diphenyl ethers (PBDE), and four different phthalates (DEHP, BBP, BBP, DIBP).
-  Updated: 2026-01-24T23:03:25Z
+  Updated: 2026-01-31T23:12:14Z
   Vendor: Equip
   Product Type: Elektronika -> Elektronikai tartozékok -> Tápellátás -> Elosztók és túlfeszültségvédők
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/5410/6740/files/bf1d7060-41ac-4c41-97db-e8bc3e87e4d3.png?v=1767481239
-  Price: $28.79 CAD
+  Price: $28.45 CAD
 - [Men’s box hoodie](https://shafto-3.myshopify.com/products/men-s-box-hoodie-7): This hoodie’s tightly knit fleece delivers premium softness. The drop shoulders and overlapped neckline give it a clean, boxy shape—made to look fresh every time you wear it. • 60% cotton, 40% polyester • Carbon Grey color is 55% cotton, 45% polyester • 3-end fleece • Fabric weight: 10 oz./yd.² (339 g/m²) • Oversized, relaxed fit • Set-in sleeves • Drop shoulders • Overlapped neckline • 1 × 1 rib at the cuffs and waistband • Double-layered hood in self fabric • Single-jersey neck tape on the inside of the back • Self-fabric half moon on the inside of the back • Blank product sourced from Pakistan
   Updated: 2026-01-07T07:36:42Z
   Vendor: SHAFTO 
