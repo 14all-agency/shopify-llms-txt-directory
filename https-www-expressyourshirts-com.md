@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-11T03:52:50Z
 - Contact Email: expressyourshirts@gmail.com
-- Updated At: 2026-01-22T18:55:51.593Z
+- Updated At: 2026-02-02T19:53:35.232Z
 
 ## Products
 
@@ -6571,7 +6571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZW12240_2FFSZW12240_WHE_S_NUB_2F695d3558fcf27fd5b7dc27a933bf9ad3.jpg?v=1676839301
     Price: $14.69 USD
 - [Printed Helter Top](https://www.expressyourshirts.com/products/printed-helter-top): Sizing: True to size Material composition: 100% Polyester Material: Polyester Pattern: Self design Season: Spring-Summer Style: Sexy Weight: 60 g This crop top has a plunging neckline with halter straps, an abstract dazzling print all over, ruching details at the bust, and tie closures at the back.Size Chart(inch) Size US UK Length Bust Waist S 2-4 6-8 20 31 24 M 4-6 8-10 20 32 25 L 6-8 10-12 20 33 27
-  Updated: 2026-01-13T22:43:47Z
+  Updated: 2026-01-25T10:06:39Z
   Vendor: kakaclo
   Product Type: Ladies Top
   Availability: Available
@@ -8573,7 +8573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM00128_2FFSZM00128_B_M_NUB_2Fe41e580df79161baf678b874b0428975.jpg?v=1676858903
     Price: $23.05 USD
 - [Men's Slim Fit Business Two Piece Suit](https://www.expressyourshirts.com/products/mens-slim-fit-business-two-piece-suit): Sizing: True to size Material composition: 60% Polyester, 40% Viscose Material: Polyester Pattern: Solid Season: Spring-Summer Sleeve_type: Regular sleeve Style: Light business Sleeve_length: Long sleeves Weight: 1000 g Men's suit: Formal design that offers you an impeccable combination of elegant and comfortable. Includes: Suit jacket and trousers. High quality fabric and good workmanship, chic pattern and comfortable to wear. Occasion: Suitable for any occasion, business and work, formals, wedding and party. Care instructions: Dry cleaning, do not bleach, do not tumble dry, iron on low heat.Size Chart(inch) Size Length Shoulder Bust Sleeve Length S 27 17 37 24 M 28 18 39 24 L 28 18 40 25 XL 29 19 42 25 XXL 30 19 43 26 3XL 30 19 45 27 4XL 30 20 46 27 5XL 31 20 48 28 6XL 31 21 50 28 Pants(inch) Size Waist Outer trousers length S 30 39 M 31 40 L 33 41 XL 34 42 XXL 36 43 3XL 38 43 4XL 40 44 5XL 42 45 6XL 44 45
-  Updated: 2026-01-13T22:46:19Z
+  Updated: 2026-01-26T03:08:33Z
   Vendor: kakaclo
   Product Type: Men's Suit
   Availability: Available
@@ -14632,8 +14632,8 @@
   Updated: 2026-01-14T03:39:08Z
   Total Products: 157
 - [Smart Products Filter Index - Do not delete](https://www.expressyourshirts.com/collections/globofilter-best--products-index)
-  Updated: 2026-01-21T12:17:37Z
-  Total Products: 2048
+  Updated: 2026-01-31T12:18:46Z
+  Total Products: 2059
 - [DRESSES](https://www.expressyourshirts.com/collections/dresses)
   Updated: 2026-01-15T05:51:04Z
   Total Products: 141
@@ -14665,8 +14665,8 @@
   Updated: 2025-12-20T06:26:26Z
   Total Products: 37
 - [Hurtz Shirtz](https://www.expressyourshirts.com/collections/hurts-shirts): Great shirts for dad prompt best gift for boyfriend prompt Best gift for husband prompt Husband gift prompt Prefect Christmas gift prompt Best secret Santa gift prompt Perfect secret Santa Prompt Gift prompt. White Elephant Gift Prompt Great shirts for dads prompt Best present for boyfriend prompt Best present for husband prompt Husband present prompt Prefect Christmas present prompt Best secret Santa present prompt Perfect secret Santa Prompt present prompt. White Elephant present prompt Gag gift prompt Joke present prompt Great shirt prompt comfy shirt prompt funny gifts prompt Shirts that are funny prompt crazy shirt ides prompt stupid shirts prompt shirts that make you laugh prompt holiday shirt prompt Original shirts prompt Unique Shirts Prompts Colorful shirts Prompts perfect gift for that perfect person prompt gift for the man that has everything prompt Gift for that woman that has everything prompt Gift for that special someone prompt Grandpa gifts prompt Cool Shirts prompt Great Shirts for Grandpa Prompt Great shirts for Boyfriend prompt Brother gifts prompt Sister gifts prompt from me to you gifts prompt Groovy prompt Hip prompt Neat prompt
-  Updated: 2026-01-21T12:17:37Z
-  Total Products: 351
+  Updated: 2026-01-31T12:18:46Z
+  Total Products: 362
 - [FACEBOOK](https://www.expressyourshirts.com/collections/facebook)
   Updated: 2026-01-21T04:16:55Z
   Total Products: 643
