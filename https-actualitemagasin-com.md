@@ -6,54 +6,54 @@
 - Timezone: America/Toronto
 - Created At: 2025-12-20T03:29:10Z
 - Contact Email: actualitemagasin@yahoo.com
-- Updated At: 2026-01-26T00:00:33.940Z
+- Updated At: 2026-02-02T00:00:36.586Z
 
 ## Products
 
 - [Jeté décoratif Basic plaid gris pale](https://actualitemagasin.com/products/jete-decoratif-basic-plaid-gris-pale): Jeté décoratif d'un toucher incroyablement doux! Il est conçu pour embellir votre décor, mais si confortable qu'on ne peut s'empêcher de l'utiliser comme couverture! Taille 54'' x 70''
-  Updated: 2026-01-25T22:45:58Z
+  Updated: 2026-01-31T22:48:06Z
   Vendor: Chéné Sasseville
   Product Type: Jeté décoratif
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/basic_plaid_gris_pale.jpg?v=1766211604
   Price: 118,33 $ CAD
 - [Jeté décoratif Wave lime](https://actualitemagasin.com/products/jete-decoratif-wave-lime): Jeté décoratif d'un toucher incroyablement doux! Il est conçu pour embellir votre décor, mais si confortable qu'on ne peut s'empêcher de l'utiliser comme couverture! Taille 54'' x 70''
-  Updated: 2026-01-25T22:46:19Z
+  Updated: 2026-01-31T22:48:09Z
   Vendor: Chéné Sasseville
   Product Type: Jeté décoratif
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/wave_lime.jpg?v=1766211604
   Price: 118,33 $ CAD
 - [Jeté décoratif Formentera bleu azur](https://actualitemagasin.com/products/jete-decoratif-formentera-bleu-azur): Jeté décoratif d'un toucher incroyablement doux! Il est conçu pour embellir votre décor, mais si confortable qu'on ne peut s'empêcher de l'utiliser comme couverture! Taille 54'' x 70''
-  Updated: 2026-01-25T22:46:20Z
+  Updated: 2026-01-31T22:48:05Z
   Vendor: Chéné Sasseville
   Product Type: Jeté décoratif
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/FORMENTERA-BLEU-NUIT.jpg?v=1766211604
   Price: 118,33 $ CAD
 - [Jeté décoratif Basic plaid orange](https://actualitemagasin.com/products/jete-decoratif-basic-plaid-orange): Jeté décoratif d'un toucher incroyablement doux! Il est conçu pour embellir votre décor, mais si confortable qu'on ne peut s'empêcher de l'utiliser comme couverture! Taille 54'' x 70''
-  Updated: 2026-01-25T22:46:07Z
+  Updated: 2026-01-31T22:47:50Z
   Vendor: Chéné Sasseville
   Product Type: Jeté décoratif
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/basicplaidorange_d245b549-c0fc-46bb-82f1-eb86776b49fa.jpg?v=1766211604
   Price: 118,33 $ CAD
 - [Jeté décoratif Petra baie](https://actualitemagasin.com/products/jete-decoratif-petra-baie): Jeté décoratif d'un toucher incroyablement doux! Il est conçu pour embellir votre décor, mais si confortable qu'on ne peut s'empêcher de l'utiliser comme couverture! Taille 54'' x 70''
-  Updated: 2026-01-25T22:45:58Z
+  Updated: 2026-01-31T22:47:47Z
   Vendor: Chéné Sasseville
   Product Type: Jeté décoratif
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/PETRABERRY-Copie.jpg?v=1766211604
   Price: 118,33 $ CAD
 - [Jeté décoratif Wave orange](https://actualitemagasin.com/products/jete-decoratif-wave-orange): Jeté décoratif d'un toucher incroyablement doux! Il est conçu pour embellir votre décor, mais si confortable qu'on ne peut s'empêcher de l'utiliser comme couverture! Taille 54'' x 70''
-  Updated: 2026-01-25T22:46:08Z
+  Updated: 2026-01-31T22:48:06Z
   Vendor: Chéné Sasseville
   Product Type: Jeté décoratif
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/wave_orange.jpg?v=1766211604
   Price: 118,33 $ CAD
 - [Active Mike Boys Jogger Set](https://actualitemagasin.com/products/active-mike-boys-jogger-set): Keep your little one cozy and stylish with this soft and breathable 100% cotton zip-up hoodie jogger set. Perfect for everyday wear, playtime, or daycare, this outfit combines comfort with a fun design that kids love. Features: Zip-up Hoodie – Long sleeve, round neck, with playful embroidered Mickey outline. Sweatpants – Elastic waistband and cuffs for all-day comfort and easy movement. Fabric – 100% premium cotton for softness, durability, and breathability. Why Parents Love It: Gentle on sensitive skin Easy to mix & match Durable for active play Machine washable
-  Updated: 2026-01-25T05:17:42Z
+  Updated: 2026-01-31T05:20:45Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -61,37 +61,37 @@
   - [Indigo / 2](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105623970149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image-2025-10-02T164145.622.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Indigo / 3](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624002917)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image-2025-10-02T164145.622.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Indigo / 4](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624035685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image-2025-10-02T164145.622.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Indigo / 5](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624068453)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image-2025-10-02T164145.622.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Navy / 2](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624101221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image_48.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Navy / 3](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624133989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image_48.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Navy / 4](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624166757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image_48.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
   - [Navy / 5](https://actualitemagasin.com/products/active-mike-boys-jogger-set?variant=50105624199525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image_48.png?v=1766212171
-    Price: 22,80 $ CAD
+    Price: 14,00 $ CAD
 - [Blossom Baby Girls Formal Dress](https://actualitemagasin.com/products/blossom-baby-girls-formal-dress): L'élégance à son paroxysme! Belle robe plissée en tulle brillant avec bordure en strass à la taille et bas à volants. Une exclusivité JuniorKids! Elegance at its finest! Beautiful pleated top shiny tulle dress with rhinestone trim on the waist and ruffle bottom. A JuniorKids Luxury exclusivity!
-  Updated: 2026-01-25T05:17:32Z
+  Updated: 2026-01-31T05:20:32Z
   Vendor: JuniorKids
   Product Type: Formal Girls
   Availability: Available
@@ -137,7 +137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/Untitleddesign-2024-01-18T152504.846_restored.png?v=1766212171
     Price: 192,40 $ CAD
 - [Arrow Flower Girls Casual Set](https://actualitemagasin.com/products/arrow-flower-girls-casual-set): Bel ensemble d'été habillé pour de parfaites sorties en famille comprenant un t-shirt en coton doux (95% Cotton / 5% Lycra) et des shorts large en denim brillant (80% Viscose / 10% Polyester / 10% Lurex). Beautiful summer set dressed for perfect family outings including a soft cotton t-shirt (95% Cotton / 5% Lycra) and wide shiny denim shorts (80% Viscose / 10% Polyester / 10% Lurex).
-  Updated: 2026-01-25T05:17:18Z
+  Updated: 2026-01-31T06:20:23Z
   Vendor: JuniorKids
   Product Type: Casual Girls
   Availability: Available
@@ -145,25 +145,25 @@
   - [Blue / 6-7](https://actualitemagasin.com/products/arrow-flower-girls-casual-set?variant=50105624887653)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/1_a621c18f-20e9-4382-b81a-bd5e87e16d82.png?v=1766212171
-    Price: 22,00 $ CAD
+    Price: 66,60 $ CAD
   - [Blue / 7-8](https://actualitemagasin.com/products/arrow-flower-girls-casual-set?variant=50105624920421)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/1_a621c18f-20e9-4382-b81a-bd5e87e16d82.png?v=1766212171
-    Price: 22,00 $ CAD
+    Price: 66,60 $ CAD
   - [Blue / 9-10](https://actualitemagasin.com/products/arrow-flower-girls-casual-set?variant=50105624953189)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/1_a621c18f-20e9-4382-b81a-bd5e87e16d82.png?v=1766212171
-    Price: 23,15 $ CAD
+    Price: 66,60 $ CAD
   - [Blue / 11-12](https://actualitemagasin.com/products/arrow-flower-girls-casual-set?variant=50105624985957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/1_a621c18f-20e9-4382-b81a-bd5e87e16d82.png?v=1766212171
-    Price: 22,00 $ CAD
+    Price: 66,60 $ CAD
   - [Blue / 13-14](https://actualitemagasin.com/products/arrow-flower-girls-casual-set?variant=50105625018725)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/1_a621c18f-20e9-4382-b81a-bd5e87e16d82.png?v=1766212171
-    Price: 23,15 $ CAD
+    Price: 66,60 $ CAD
 - [American Hero Casual Jogger Set](https://actualitemagasin.com/products/american-hero-casual-jogger-set): Level up your child’s style with this bold red jogger set featuring fun 8-bit pixel hero graphics. The sweatshirt is designed with colorful Captain America retro-game inspired prints across the chest and sleeves. A playful blend of comfort and character, perfect for school, playdates, or lounging in style. Fabric: 100% soft cotton Top: Red sweatshirt with large pixel hero graphic + sleeve details Bottoms: Matching joggers with Captain America and elastic waistband Design: Retro 8-bit style with vibrant colors Fit: Relaxed sweatshirt, tapered jogger pants for comfort and mobility Care: Machine washable, retains color and shape A standout 2-piece set that brings together gaming vibes and everyday comfort.
-  Updated: 2026-01-25T05:17:36Z
+  Updated: 2026-01-31T05:20:32Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/whitebg_1_1.png?v=1766212172
     Price: 14,99 $ CAD
 - [BEAR Boys Joggers Set](https://actualitemagasin.com/products/bear-boys-joggers-set): Make his everyday play stylish and comfortable with this 2-piece toddler boys’ set. Perfect for school, playdates, or lounging, it combines softness and durability for all-day wear. Details Sweatshirt: Soft thick 100% cotton fabric with a bold “BEAR” front print for a sporty look Joggers: Brushed inside for extra coziness, with elastic waistband, functional drawstring, and ribbed ankle cuffs for a secure fit Fit: Designed for active boys size 1–5 Versatility: Lightweight enough for spring, yet warm enough for cooler fall days Bonus: Dog chain accessory included for extra style
-  Updated: 2026-01-25T05:17:09Z
+  Updated: 2026-01-31T06:20:22Z
   Vendor: JuniorKids
   Product Type: Casual Boys
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/image_93.png?v=1766212171
     Price: 14,99 $ CAD
 - [Lady of Norway Girls Formal Dress](https://actualitemagasin.com/products/lady-of-norway-girls-formal-dress): Une superbe robe courte en satin avec des mancherons et des nœuds en satin sur les épaules, un joli haut style croisé, une jupe plissée et un nœud amovible dans le dos. Cette élégante robe est confortable pour les enfants avec sa doublure en coton. Un design exclusif JuniorKids Luxury. A stunning satin short dress with cap sleeves and satin bows on the shoulders, a nice crisscross style top, pleated skirt, and a removable bow in the back. This elegant dress is comfortable for kids with its cotton fabric lining. A JuniorKids Luxury exclusive design.
-  Updated: 2026-01-25T05:17:45Z
+  Updated: 2026-02-01T05:18:26Z
   Vendor: JuniorKids
   Product Type: Formal Girls
   Availability: Available
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/51o0L9exQUL._AC_UL1100.jpg?v=1766212235
   Price: 22,39 $ CAD
 - [NNEDSZ Wireless Bluetooth Earphones With Charging Box & Led Display](https://actualitemagasin.com/products/wireless-bluetooth-earphones-with-charging-box-led-display): Features:• Bluetooth 5.0 for fast and stable mobile device connection• High-fidelity sound quality for improved compatibility and smooth playback• LED digital display to track remaining power• Intelligent voice assistant for hands-free commands• Smart touch controls for easy operation• Semi-in-ear design for lightweight and comfortable wearSpecifications:• Bluetooth Version: V5.0+Edr with Ultra Low Power Consumption• Working Distance: 10-20M• Single Headphone Battery Capacity: 35 mah • Battery Capacity of Charging Box: 320 mah • Working Time: 2.5-3.5 Hours• Headphone Standby Time: 70 Hours• Charging Voltage: Dc 5VPackage Includes:• 1 x P100Pro Tws Touch Wireless Bluetooth 5.0 Earphone With Charging Box Led Smart Digital DisplayReturns, Refunds, and Replacements:Products that are received faulty, damaged, or not as described are eligible for a return, refund, or replacement by Australian Consumer Law (ACL). We are committed to ensuring that all products meet the standards of quality and reliability expected by our customers. However, please note that we do not accept returns or provide refunds for Changes of Mind (COM). We encourage you to carefully consider your purchase to ensure it meets your needs and expectations.Delivery Timeframe:Please note that we cannot guarantee an exact delivery date. The estimated delivery timeframes exclude weekends, public holidays, and any potential delays caused by local shipping carriers due to network congestion, natural disasters (such as floods or bushfires), or other unforeseen circumstances.8-12 Working Days (approximately) across Australia
-  Updated: 2026-01-24T19:19:45Z
+  Updated: 2026-01-30T19:21:00Z
   Vendor: NNEDSZ
   Product Type: Electronics > Headphones and Earphones > Wireless Headphones & Earbuds
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/V562-B106933600ADE-227106-00.jpg?v=1766212974
   Price: 177,30 $ CAD
 - [Off-White Top with Contrast Elements](https://actualitemagasin.com/products/buy_online_off_white_top_for_boys_and_girls): Off-white Top with Contrast Elements for boys and girls. Avantgarde long-sleeved shirt made from pure organic cotton and soft jersey with a buttoned round neck. Unisex top for little fashionistas. This series is developed in collaboration with menswear designer Sandro Marzo Available in sizes 2 to 6 years. For the optimal fit please consult our Size Guide Vegan Regular Fit  Organic Cotton Designed in Belgium Handcrafted in Portugal at Pereira & Rocha
-  Updated: 2026-01-24T04:01:41Z
+  Updated: 2026-01-31T04:00:50Z
   Vendor: Infantium Victoria
   Product Type: Shirt
   Availability: Available
@@ -359,32 +359,32 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/Infantium_Victoria_Cotton_Contrast_Shirt_For_Girls_Off-White_and_Black__Front_opt.jpg?v=1766212985
     Price: 72,67 $ CAD
 - [NNEOBA Wireless Noise Cancellation Headphone Black](https://actualitemagasin.com/products/haylou-s40-anc-wireless-headphone-50db-noise-canceling-hi-res-3d-spatial-audio-earphone-with-ldac-bluetooth-6-0-over-ear-headset): Immerse yourself in pure, high-resolution sound with — powerful 50dB adaptive noise cancellation, 3D spatial audio, and 90-hour playtime for the ultimate listening experience. Specifications:• Noise Cancellation: Up to 50dB (adaptive hybrid ANC with 5-mic system)• Bluetooth Version: 6.0 (flagship chipset, ultra-low 80ms latency)• Drivers: Dual 40mm + 20mm titanium-coated dynamic units• Audio Codec: LDAC, Hi-Res & Hi-Res Wireless • Frequency Response: 20Hz – 40KHz• Battery Life: 90 hours (music mode) / 45 hours (ANC mode)• Charging Time: 10 minutes = 5 hours playtime (fast charge)• Connectivity: Bluetooth 6.0 + 3.5mm wired AUX• Features: Smart App EQ customization, 360° spatial sound, dual-device connection• Weight: Lightweight ergonomic over-ear design• Color: Black Features:• 50dB Adaptive Noise Cancellation: Upgraded hybrid ANC with 5 microphones intelligently blocks noise across 20–4000Hz, keeping your world quiet wherever you are.• 360° Spatial Audio + Head Tracking: 6-axis spatial sensors follow your head movement to deliver realistic 3D sound positioning for gaming, movies, or music.• Hi-Res Audio with LDAC Codec: Experience studio-grade clarity with  Hi-Res Audio, offering 3× more data transmission for pure, detailed sound.• Multiple Noise Control Modes: Switch easily between Indoor, Commute, Crowd, and Anti-Wind modes for the perfect sound isolation in any setting.• Smart Tap-to-Talk: Instantly lower your music volume and activate ambient sound with a single touch to hear your surroundings or talk freely.• Bluetooth 6.0 Flagship Chipset: Enjoy faster pairing, enhanced stability, low-latency audio, and optimized energy efficiency.• Dual Dynamic Drivers: 40mm bass drivers + 20mm tweeters with adaptive EQ ensure deep lows, balanced mids, and crisp highs.• Customizable via App: Adjust EQ settings, ANC modes, and game mode directly through the app.• Dual-Device Connection: Stay connected to two Bluetooth devices simultaneously — switch from laptop to phone effortlessly.• Ultra-Long Battery Life: 90 hours in standard mode or 45 hours with ANC on. A 10-minute charge gives you 5 hours of playback.• Wired & Wireless Flexibility: Includes AUX cable for wired listening — perfect for gaming, streaming, or professional calls. Description:The Wireless Bluetooth 6.0 Headphones redefine what premium audio feels like. Equipped with advanced 50dB adaptive noise cancellation and LDAC Hi-Res Audio certification, these over-ear headphones deliver breathtaking clarity and precision. Whether you’re gaming, traveling, or working, the 360° spatial sound and head-tracking technology immerse you in a lifelike 3D listening experience. Enjoy total comfort with plush ear cushions and up to 90 hours of battery life, backed by intelligent multi-device connectivity and app customization. Isn’t just a headphone — it’s your personal sound universe, engineered for power, precision, and pure immersion.
-  Updated: 2026-01-22T19:14:18Z
+  Updated: 2026-01-30T19:14:52Z
   Vendor: NNEOBA
   Product Type: Electronics > Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/Sde45901645f746a98da05db7b41a712bm.png?v=1766212977
   Price: 214,78 $ CAD
 - [Archie's Penguin Tail Vest Set](https://actualitemagasin.com/products/archies-penguin-tail-vest-set): Embrace elegance and comfort on your special day with this stylish baptism set. Featuring a trendy, UK-inspired design, this set includes a white cotton shirt, a penguin tail sleeveless vest adorned with a tone on tone jacquard pattern, a matching bowtie, and slim pants. Make a statement with this must-have ensemble.
-  Updated: 2026-01-25T05:17:30Z
+  Updated: 2026-01-31T05:20:43Z
   Vendor: JuniorKids
   Product Type: Baptism Boys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/Image18.png?v=1766212983
   - [White / 0-6M](https://actualitemagasin.com/products/archies-penguin-tail-vest-set?variant=50105626788197)
     Availability: Available
-    Price: 192,40 $ CAD
+    Price: 59,99 $ CAD
   - [White / 6-12M](https://actualitemagasin.com/products/archies-penguin-tail-vest-set?variant=50105626919269)
     Availability: Available
-    Price: 192,40 $ CAD
+    Price: 59,99 $ CAD
   - [White / 12-18M](https://actualitemagasin.com/products/archies-penguin-tail-vest-set?variant=50105626952037)
     Availability: Available
-    Price: 192,40 $ CAD
+    Price: 59,99 $ CAD
   - [White / 18-24M](https://actualitemagasin.com/products/archies-penguin-tail-vest-set?variant=50105626984805)
     Availability: Available
-    Price: 192,40 $ CAD
+    Price: 59,99 $ CAD
 - [Black Onesie with Green Elements](https://actualitemagasin.com/products/buy_online_black_and_green_onesie_for_babies): The Black Onesie with Green Elements is the perfect addition to your baby's wardrobe. Made from pure organic cotton Pied-de-poule and soft jersey back and round neckline, this avant-garde long-sleeved shirt is designed to keep your baby comfortable and stylish. The black onesie is adorned with green elements that add a pop of color to the outfit. This unisex onesie is perfect for baby fashionistas and makes a great gift for fashion-conscious families. The Black Onesie with Green Elements is part of a series developed in collaboration with menswear designer Sandro Marzo, ensuring that your baby is dressed in the latest fashion trends. This series is developed in collaboration with menswear designer Sandro Marzo. The Black Onesie with Green Elements is available in sizes 6 months to 2 years, ensuring that your baby can wear it for a long time. For the optimal fit, please consult our Size Guide. The Black Onesie with Green Elements is vegan, ensuring that no animals were harmed in the making of this product. The regular fit of the onesie ensures that your baby can move around comfortably. The Black Onesie with Green Elements is made from GOTS  Organic Cotton, ensuring that it is made from sustainable materials. The onesie is designed in Belgium
-  Updated: 2026-01-24T04:01:38Z
+  Updated: 2026-01-31T04:00:44Z
   Vendor: Infantium Victoria
   Product Type: Onesie
   Availability: Available
@@ -459,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/imgi_15_4b5b814e-a458-4d73-a8de-d4d1e19963bf.jpg?v=1766212972
   Price: 254,99 $ CAD
 - [Black Overall Bodysuit with White Elements](https://actualitemagasin.com/products/buy_online_black_playsuit-for_babies): Black Overall Onesie with White Elements for baby boys and girls. Avantgarde long-sleeved playsuit made from 3 textile combination - pure cotton, soft jersey and contrast fabric. Unisex playsuit for baby fashionistas. Great gift for fashion conscious families! This series is developed in collaboration with menswear designer Sandro Marzo Available in sizes 6 mths to 2 years. For the optimal fit please consult our Size Guide Vegan Regular Fit GOTS  Organic Cotton Designed in Belgium Handcrafted in Germany
-  Updated: 2026-01-24T04:01:30Z
+  Updated: 2026-01-31T04:00:33Z
   Vendor: Infantium Victoria
   Product Type: Bodysuit
   Availability: Available
@@ -477,7 +477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/InfantiumVictoria_Black_Jersey_Overall_Bodysuit_for_Baby_Front.jpg?v=1766212981
     Price: 80,75 $ CAD
 - [Dear Mom! Girls Formal Dress](https://actualitemagasin.com/products/dear-mom-girls-formal-dress): Faites tourner les têtes avec cette robe trapèze sans manches a col soleil pour votre petite superstar avec une doublure en coton pour plus de confort. C'est un très bon choix pour tous les occasions spéciales et une creation exclusive JuniorKids! Turn heads in this sleeveless A-line short dress for your little superstar with cotton lining for extra comfort. It is a very good choice for any special occasion. JuniorKids's latest exclusive creation!
-  Updated: 2026-01-25T05:17:31Z
+  Updated: 2026-02-01T05:18:26Z
   Vendor: JuniorKids
   Product Type: Formal Girls
   Availability: Available
@@ -850,7 +850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/ROSARIO-1_Nude_TOP_MODA.jpg?v=1766940972
     Price: 50,60 $ CAD
 - [REFLECT-S Gold Soda](https://actualitemagasin.com/products/reflect-s-gold-soda): Soda Shoes Women Sandals Crisscross Band Strap Casual Slides REFLECT-S Heel Height: 0.5" Brand name: Soda shoes Style Name: Reflect-S Color: Gold Sandals Material: Man-Made Faux Material. This style runs true to the size. When it comes to casual and comfortable footwear, flat sandals flip flops are a go-to choice for women. If you're looking for a pair of flat sandals flip flops that combine comfort with style, then the "Reflect-S" from the "Soda" brand is the perfect option.The "Reflect-S" flat sandals flip flops feature a crisscross strap band design, adding a trendy and chic element to the overall look. The crisscross straps not only provide a secure fit but also create an interesting visual appeal. These sandals will keep your feet snugly in place while adding a touch of style to your outfit.With a flat heel, the "Reflect-S" sandals provide a comfortable and easy walking experience. The absence of a heel ensures that you can wear these sandals for extended periods without any discomfort. Whether you're strolling along the beach, running errands, or enjoying a casual outing, these sandals offer a comfortable and cushioned base for your feet.These sandals are versatile and can be paired with a variety of outfits. Whether you're wearing shorts, a sundress, or a casual skirt, the "Reflect-S" flat sandals flip flops are the perfect complement to your summer wardrobe. Their stylish design and crisscross strap band will instantly elevate your look, adding a touch of sophistication to your casual ensemble.In conclusion, the "Reflect-S" flat sandals flip flops from the "Soda" brand are a must-have for women seeking comfort and style. With their crisscross strap band design and flat heel, these sandals offer a fashionable and comfortable option for everyday wear. Whether you're headed to the beach, running errands, or enjoying a casual outing, the "Reflect-S" sandals will keep you looking chic and feeling comfortable. Add these trendy sandals to your collection today and step out in style!
-  Updated: 2026-01-08T03:29:15Z
+  Updated: 2026-02-01T13:16:23Z
   Vendor: Soda
   Product Type: Sandals
   Availability: Available
@@ -1043,7 +1043,7 @@
     Availability: Available
     Price: 27,84 $ CAD
 - [Sheer Mesh Briefs, Teja](https://actualitemagasin.com/products/sheer-mesh-briefs-teja): From the less is a'mor sheer mesh handmade collection. Comfortable sheer mesh briefs. Search less is amor in the bay search bar for more products. material: 80% nylon, 20% spandex good for everyday use soft sheer mesh hand wash no iron Made in Canada
-  Updated: 2026-01-25T20:45:13Z
+  Updated: 2026-01-31T20:45:10Z
   Vendor: Less Is Amor
   Product Type: n/a
   Availability: Available
@@ -1099,46 +1099,46 @@
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/IMG_9028.jpg?v=1766941116
   Price: 25,31 $ CAD
 - [Push Up Cup Balconette Style Bra, Tauri](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri): From the Less Is A'mor Lux handmade collection. Give your bust the ultimate lift with this underwire push up lace bra. material: 90% polyamide, 10% elastane black lace lined with beige padded cups sustainable oeko-tex  fabrics fully adjustable straps back hook-and-eye closure full support wired push up cups removable extra cup pads hand wash no iron designed in Toronto, made in Latvia What is a Push Up Balconette Bra? A balconette push up bra is the ideal combination of sophistication, support, and a gentle lift. Our designs are created to enhance your natural silhouette, providing a subtle push-up effect. This style features a classic balconette cut, characterized by its lower neckline and wide-set straps. If you’re searching for a bra that delivers a rounded, lifted shape with undeniable style, this is the one to consider. Understanding the Balconette Design The balconette bra is celebrated for its distinctive half-cup coverage. This design makes it an excellent choice for pairing with tops and dresses featuring lower necklines. The shape offers a subtly alluring yet sophisticated aesthetic, giving a natural lift to your bust without relying on excessive padding. How Push-Up Cups Enhance the Fit The magic of the push up balconette bra lies in its specialized cups. These cups gently lift the breasts, enhancing cleavage and creating a fuller appearance. Unlike traditional push-up bras, the balconette push up prioritizes creating a lifted, rounded shape rather than focusing solely on dramatic volume. You might also hear this style referred to as a push up balconette bra, balconette bra push up, or even a push-up balconette bra. Explore various options such as the balconet push up bra for unique support and design. Why Choose a Push Up Cup Balconette Style Bra? The Push Up Cup Balconette Style Bra is more than just a visually appealing piece; it's about providing an unmatched fusion of style, comfort, and support. Here's what sets it apart: Stylish Design for Every Occasion Whether you're dressing up for a special evening or simply desire to feel confident in your everyday attire, this balconette push up bra offers a sleek and elegant silhouette that complements a wide array of outfits. For those seeking versatility, a balconette style bra is also an excellent choice. Unmatched Comfort and Support Each bra is meticulously crafted with supportive underwire and adjustable straps, ensuring a snug yet comfortable fit that lasts throughout the day. It provides lift without digging into your skin, making it perfect for extended wear. Consider a push up balcony bra for similar levels of comfort. High-Quality Materials for Durability The Push Up Cup Balconette Bra is crafted from premium, breathable fabrics that ensure durability. The soft lace or smooth satin finish guarantees you feel luxurious while enjoying long-lasting wear. You might also explore options like a balconet push up bra for specialized support. How to Choose the Perfect Balconette Push-Up Bra A well-fitted bra is essential for both comfort and support. When selecting a balconette push up bra, accurately measure your band and cup size to guarantee the ideal fit. If needed, consider seeking professional fitting services for expert advice. Find your perfect push up balconette bra today at Less is Amor.Absolutely! The Tauri bra is designed with your comfort in mind. It features supportive underwire, adjustable straps for a snug fit, and is crafted from premium, breathable fabrics for lasting comfort, even during extended wear. 1. Q: What makes the Tauri Push Up Cup Balconette Bra different from other push-up bras? • A: Unlike traditional push-up bras that focus on dramatic volume, the Tauri Balconette gently lifts and rounds your breasts for a natural-looking, enhanced silhouette. It also features a low neckline and wide-set straps for a stylish and versatile fit. 2. Q: Is the Tauri Push Up Cup Balconette Bra comfortable enough for all-day wear? • A: Absolutely! The Tauri bra is designed with your comfort in mind. It features supportive underwire, adjustable straps for a snug fit, and is crafted from premium, breathable fabrics for lasting comfort, even during extended wear.
-  Updated: 2026-01-25T20:45:13Z
+  Updated: 2026-01-31T20:45:11Z
   Vendor: Less Is Amor
   Product Type: Bra
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/push-up-balconette-bra.webp?v=1766941128
   - [34C / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116522901861)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [34D / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116522934629)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [34DD (E) / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116522967397)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [36C / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523000165)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [36D / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523032933)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [36DD (E) / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523065701)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [38DD (E) / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523098469)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [38C / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523131237)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [38D / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523164005)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [34F / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523196773)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
   - [36F / Black](https://actualitemagasin.com/products/push-up-cup-balconette-style-bra-tauri?variant=50116523229541)
     Availability: Available
-    Price: 81,40 $ CAD
+    Price: 81,41 $ CAD
 - [Sheer Mesh Garter, Gomeisa](https://actualitemagasin.com/products/sheer-mesh-garter-gomeisa): From the less is a'mor lux handmade collection. Beautiful sheer mesh garter matching our Gomeisa lingerie set. Material: 90% polyamide, 10% elastane Adjustable hook and eye closure 4 garter clips Hand wash No iron Made in Canada
-  Updated: 2026-01-25T20:45:14Z
+  Updated: 2026-01-31T20:45:10Z
   Vendor: Less Is Amor
   Product Type: n/a
   Availability: Available
@@ -1175,7 +1175,7 @@
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/IMG_0058.png?v=1766941132
   Price: 27,84 $ CAD
 - [Lace Mesh Briefs, Alaya](https://actualitemagasin.com/products/lace-mesh-briefs-alaya): From the Less Is A'mor lux handmade collection. Comfortable lace mesh briefs. Material: 90% polyamide, 10% elastane Fully adjustable side straps High-rise Soft sustainable mesh/lace fabrics Hand wash No iron Made in Canada
-  Updated: 2026-01-25T20:45:14Z
+  Updated: 2026-01-31T20:45:10Z
   Vendor: Less Is Amor
   Product Type: n/a
   Availability: Available
@@ -1197,13 +1197,13 @@
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/White_Lace_Briefs_Adjastable_Sides.jpg?v=1766941169
     Price: 51,80 $ CAD
 - [Printed Organic Cotton Boxer Shorts Tools On Bluish Gray Background](https://actualitemagasin.com/products/printed-organic-cotton-boxer-shorts-tools-on-bluish-gray-background): Our Printed Organic Cotton Boxer Shorts Tools on Bluish Gray Background are equal parts comfy and cute! Super soft in stretch cotton, this short features a colorful allover tool print and a logo elastic waistband for a touch of signature style.
-  Updated: 2026-01-25T15:05:41Z
+  Updated: 2026-01-31T15:05:18Z
   Vendor: Deux par Deux
   Product Type: Underwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/G30PB60_047_1_15379c45-5b9a-4305-bfa4-e0ca62ebbde3.jpg?v=1766941168
   - [2/3](https://actualitemagasin.com/products/printed-organic-cotton-boxer-shorts-tools-on-bluish-gray-background?variant=50116523622757)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0871/2431/2421/files/G30PB60_047_1_15379c45-5b9a-4305-bfa4-e0ca62ebbde3.jpg?v=1766941168
     Price: 17,72 $ CAD
   - [4/5](https://actualitemagasin.com/products/printed-organic-cotton-boxer-shorts-tools-on-bluish-gray-background?variant=50116523655525)
@@ -1234,7 +1234,7 @@
 - [Contact](https://actualitemagasin.com/pages/contact)
   Updated: 2025-12-20T03:29:13Z
 - [Vos choix en matière de confidentialité](https://actualitemagasin.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
-  Updated: 2025-12-20T08:00:38Z
+  Updated: 2026-01-28T16:23:27Z
 - [Frequently Asked Questions](https://actualitemagasin.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
   Updated: 2026-01-08T02:28:13Z
 
