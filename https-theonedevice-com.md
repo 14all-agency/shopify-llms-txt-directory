@@ -6,56 +6,56 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-03-26T00:09:33Z
 - Contact Email: hello@theonedevice.com
-- Updated At: 2026-01-25T00:00:36.149Z
+- Updated At: 2026-02-03T00:00:40.164Z
 
 ## Products
 
 - [The One in Gold](https://theonedevice.com/products/one-gold-plated): What It Is OneDevice is a patented wearable wellness device that uses synchronized frequencies of sound and light to support energetic balance, activate the body’s natural self-healing processes, and enhance overall human performance. It is based on bioresonance and quantum resonance technology, integrating ancient healing principles with modern scientific insight. What It Does Aligns your energetic body with frequencies that support clarity, abundance, and inner strength. Creates a radiant field of protection—deflecting chaotic environments and digital noise. Enhances presence and intentionality during meditation, movement, and moments of stillness. Supports emotional resilience and helps maintain a clear, elevated state throughout your day. Amplifies your natural magnetism—drawing in what’s meant for you, while filtering what’s not. How It Works At the heart of OneDevice is a finely tuned energetic engine—designed with light, sound, and vibration frequencies that speak directly to your biofield. These frequencies pulse into your system, recalibrating your body’s natural resonance. This is a subtle, wearable frequency device—working in the background to keep you calm, focused, and aligned. No apps. No effort. Just pure energetic support—always on. What's Inside Shungite – Known for its unique carbon structure, Shungite offers powerful energetic detoxification and shields the body from EMFs and environmental stressors. Clear Quartz Amplifier – Revered in energy  for its ability to refine and elevate intentions, it works synergistically with Shungite to create a more coherent energetic field. Copper Casing – An exceptional conductor of subtle frequencies, copper enhances the transmission of encoded light, sound, and vibration—ensuring the energetic signals remain stable and effective. Precision Engineering – The internal architecture of The One is designed for resonance—delivering consistent vibrational support without external input. Transducer - emitting Solfeggio sound frequencies targeting the nervous and endocrine systems, promoting coherence and emotional regulation. IR and Full Spectrum Light LED - Visible and near-infrared light is emitted at carefully calibrated wavelengths, supporting mitochondrial activity and tissue regeneration. Multi-Modal Coherence - Together, sound, light and activated crystals create a coherent vibrational field that restores the bioenergetic balance of the body, harmonizes energy centers, and activates natural mechanisms of self-regulation.
-  Updated: 2026-01-24T20:32:42Z
+  Updated: 2026-02-02T17:20:52Z
   Vendor: TheOneDevice
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0636/3679/9745/files/Gold-Engraved-v1-2026_3ba91b7e-d4d3-432d-8d96-33a91653fba7.png?v=1768922008
   Price: $329.00 USD
 - [The One in Platinum](https://theonedevice.com/products/one-platinum-plated): What It Is OneDevice is a patented wearable wellness device that uses synchronized frequencies of sound and light to support energetic balance, activate the body’s natural self-healing processes, and enhance overall human performance. It is based on bioresonance and quantum resonance technology, integrating ancient healing principles with modern scientific insight. What It Does Aligns your energetic body with frequencies that support clarity, abundance, and inner strength. Creates a radiant field of protection—deflecting chaotic environments and digital noise. Enhances presence and intentionality during meditation, movement, and moments of stillness. Supports emotional resilience and helps maintain a clear, elevated state throughout your day. Amplifies your natural magnetism—drawing in what’s meant for you, while filtering what’s not. How It Works At the heart of OneDevice is a finely tuned energetic engine—designed with light, sound, and vibration frequencies that speak directly to your biofield. These frequencies pulse into your system, recalibrating your body’s natural resonance. This is a subtle, wearable frequency device—working in the background to keep you calm, focused, and aligned. No apps. No effort. Just pure energetic support—always on. What's Inside Shungite – Known for its unique carbon structure, Shungite offers powerful energetic detoxification and shields the body from EMFs and environmental stressors. Clear Quartz Amplifier – Revered in energy  for its ability to refine and elevate intentions, it works synergistically with Shungite to create a more coherent energetic field. Copper Casing – An exceptional conductor of subtle frequencies, copper enhances the transmission of encoded light, sound, and vibration—ensuring the energetic signals remain stable and effective. Precision Engineering – The internal architecture of The One is designed for resonance—delivering consistent vibrational support without external input. Transducer - emitting Solfeggio sound frequencies targeting the nervous and endocrine systems, promoting coherence and emotional regulation. IR and Full Spectrum Light LED - Visible and near-infrared light is emitted at carefully calibrated wavelengths, supporting mitochondrial activity and tissue regeneration. Multi-Modal Coherence - Together, sound, light and activated crystals create a coherent vibrational field that restores the bioenergetic balance of the body, harmonizes energy centers, and activates natural mechanisms of self-regulation.
-  Updated: 2026-01-24T18:14:33Z
+  Updated: 2026-02-02T19:57:27Z
   Vendor: TheOneDevice
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0636/3679/9745/files/Platinum-Engraved-v1-2026_498ca07a-ee49-45df-87ac-39fd3ae85fb9.png?v=1768922034
   Price: $379.00 USD
 - [The One in Black Nickel](https://theonedevice.com/products/one-in-black-nickel): What It Is OneDevice is a patented wearable wellness device that uses synchronized frequencies of sound and light to support energetic balance, activate the body’s natural self-healing processes, and enhance overall human performance. It is based on bioresonance and quantum resonance technology, integrating ancient healing principles with modern scientific insight. What It Does Aligns your energetic body with frequencies that support clarity, abundance, and inner strength. Creates a radiant field of protection—deflecting chaotic environments and digital noise. Enhances presence and intentionality during meditation, movement, and moments of stillness. Supports emotional resilience and helps maintain a clear, elevated state throughout your day. Amplifies your natural magnetism—drawing in what’s meant for you, while filtering what’s not. How It Works At the heart of OneDevice is a finely tuned energetic engine—designed with light, sound, and vibration frequencies that speak directly to your biofield. These frequencies pulse into your system, recalibrating your body’s natural resonance. This is a subtle, wearable frequency device—working in the background to keep you calm, focused, and aligned. No apps. No effort. Just pure energetic support—always on. What's Inside Shungite – Known for its unique carbon structure, Shungite offers powerful energetic detoxification and shields the body from EMFs and environmental stressors. Clear Quartz Amplifier – Revered in energy  for its ability to refine and elevate intentions, it works synergistically with Shungite to create a more coherent energetic field. Copper Casing – An exceptional conductor of subtle frequencies, copper enhances the transmission of encoded light, sound, and vibration—ensuring the energetic signals remain stable and effective. Precision Engineering – The internal architecture of The One is designed for resonance—delivering consistent vibrational support without external input. Transducer - emitting Solfeggio sound frequencies targeting the nervous and endocrine systems, promoting coherence and emotional regulation. IR and Full Spectrum Light LED - Visible and near-infrared light is emitted at carefully calibrated wavelengths, supporting mitochondrial activity and tissue regeneration. Multi-Modal Coherence - Together, sound, light and activated crystals create a coherent vibrational field that restores the bioenergetic balance of the body, harmonizes energy centers, and activates natural mechanisms of self-regulation.
-  Updated: 2026-01-24T22:31:43Z
+  Updated: 2026-02-02T23:56:11Z
   Vendor: TheOneDevice
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0636/3679/9745/files/Black_Nickel-Engraved-v1-2026_b2e2b8bb-1575-4816-8aa0-695aad82b3da.png?v=1768921865
   Price: $199.00 USD
 - [The One in Rose Gold](https://theonedevice.com/products/one-in-rose-gold): What It Is OneDevice is a patented wearable wellness device that uses synchronized frequencies of sound and light to support energetic balance, activate the body’s natural self-healing processes, and enhance overall human performance. It is based on bioresonance and quantum resonance technology, integrating ancient healing principles with modern scientific insight. What It Does Aligns your energetic body with frequencies that support clarity, abundance, and inner strength. Creates a radiant field of protection—deflecting chaotic environments and digital noise. Enhances presence and intentionality during meditation, movement, and moments of stillness. Supports emotional resilience and helps maintain a clear, elevated state throughout your day. Amplifies your natural magnetism—drawing in what’s meant for you, while filtering what’s not. How It Works At the heart of OneDevice is a finely tuned energetic engine—designed with light, sound, and vibration frequencies that speak directly to your biofield. These frequencies pulse into your system, recalibrating your body’s natural resonance. This is a subtle, wearable frequency device—working in the background to keep you calm, focused, and aligned. No apps. No effort. Just pure energetic support—always on. What's Inside Shungite – Known for its unique carbon structure, Shungite offers powerful energetic detoxification and shields the body from EMFs and environmental stressors. Clear Quartz Amplifier – Revered in energy  for its ability to refine and elevate intentions, it works synergistically with Shungite to create a more coherent energetic field. Copper Casing – An exceptional conductor of subtle frequencies, copper enhances the transmission of encoded light, sound, and vibration—ensuring the energetic signals remain stable and effective. Precision Engineering – The internal architecture of The One is designed for resonance—delivering consistent vibrational support without external input. Transducer - emitting Solfeggio sound frequencies targeting the nervous and endocrine systems, promoting coherence and emotional regulation. IR and Full Spectrum Light LED - Visible and near-infrared light is emitted at carefully calibrated wavelengths, supporting mitochondrial activity and tissue regeneration. Multi-Modal Coherence - Together, sound, light and activated crystals create a coherent vibrational field that restores the bioenergetic balance of the body, harmonizes energy centers, and activates natural mechanisms of self-regulation.
-  Updated: 2026-01-24T15:56:58Z
+  Updated: 2026-02-02T17:37:31Z
   Vendor: TheOneDevice
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0636/3679/9745/files/Rose_Gold-Engraved-v1-2026_1fb23200-01a1-493f-bbd3-14549224810c.png?v=1768921915
-  Price: $249.00 USD
+  Price: $249.09 USD
 - [Bio-Tuning® Upgrade: Personalized Frequency](https://theonedevice.com/products/bio-tuning®): Unlock a deeper level of alignment with Bio-Tuning® Upgrade - created in partnership with Dr. Jeffrey Thompson. The technology is based on 40+ years of clinical observations and utilizes specialized “Real-Time Heart Rate Variability” to measure the balance of the Autonomic Nervous System (ANS). If you already know your Bio-Tuning® frequency: enter it below. Your personal frequency will then be programmed onto your device before shipment. If you don't your Bio-Tuning® frequency yet: schedule your session at Dr. Thompson's Skye Lounge in San Diego MOCEAN center in New York MOCEAN center in Los Angeles This is an add-on product and must be purchased with your One Device.
-  Updated: 2026-01-18T17:53:30Z
+  Updated: 2026-02-02T19:39:32Z
   Vendor: TheOneDevice
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0636/3679/9745/files/2.png?v=1756132001
-  Price: $300.00 USD
+  Price: $150.00 USD
 
 ## Collections
 
 - [Home page](https://theonedevice.com/collections/frontpage)
-  Updated: 2026-01-24T12:19:44Z
+  Updated: 2026-02-02T12:18:04Z
   Total Products: 4
 - [Featured Products](https://theonedevice.com/collections/featured-products)
-  Updated: 2026-01-24T12:19:44Z
+  Updated: 2026-02-02T12:18:04Z
   Total Products: 4
 - [One](https://theonedevice.com/collections/one)
-  Updated: 2026-01-24T12:19:44Z
+  Updated: 2026-02-02T12:18:04Z
   Total Products: 5
 
 ## Blogs
