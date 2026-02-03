@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T19:37:22Z
 - Contact Email: care@thepreppyestatecollective.com
-- Updated At: 2026-01-22T00:00:39.343Z
+- Updated At: 2026-02-03T00:00:43.507Z
 
 ## Products
 
@@ -3274,93 +3274,51 @@
 - [Home page: Personalized Preppy Gifts, Home Decor & Wrapping Paper](https://thepreppyestatecollective.com/collections/home-page): preppy wrapping paper, custom name gift wrap, monogrammed garden flags, and personalized home décor and gifts, blending Southern warmth with New England charm
   Updated: 2025-12-22T12:32:05Z
   Total Products: 0
-- [Wrapping Paper & Gift Tags](https://thepreppyestatecollective.com/collections/gift-wrap-tags): Luxury preppy Wrapping Paper & Gift Tags  with nutcrackers, skiers, bows, and florals. Printable tags for Christmas, birthdays, and special occasions.
-  Updated: 2026-01-01T23:51:29Z
-  Total Products: 137
 - [Shop All Preppy Gifts & Home Décor](https://thepreppyestatecollective.com/collections/shop-all): Browse all preppy gift wrap, garden flags, desk accessories, pillows, platters, and personalized home décor from The Preppy Estate in one place.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 532
+  Updated: 2026-01-25T23:20:37Z
+  Total Products: 556
 - [Garden & Porch Flags](https://thepreppyestatecollective.com/collections/garden-porch-flags): Shop personalized garden & porch flags with names, monograms, and house numbers. Classic preppy designs—perfect for gifting and curb appeal.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 120
-- [Desk & Office Gifts](https://thepreppyestatecollective.com/collections/desk-office-gifts): Desk & Office Gifts: Personalized office accessories in preppy patterns. Thoughtful gifts for teachers, coworkers, students, and your own home office.
-  Updated: 2026-01-20T12:45:11Z
-  Total Products: 99
-- [Personalized Gifts for Home & Holidays](https://thepreppyestatecollective.com/collections/personalized-gifts): Personalized Gifts for Home & Holidays : Custom gift wrap, garden flags, platters, and desk accessories personalized with names, monograms, and house numbers.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 333
-- [Home Décor & Personalized Gifts](https://thepreppyestatecollective.com/collections/home-decor-personalized-gifts): Home Décor & Personalized Gifts from The Preppy Estate Collective. Classic coastal patterns, florals, and monograms to make every room feel like home.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 155
+  Updated: 2026-01-25T23:15:02Z
+  Total Products: 130
 - [Holiday & Seasonal Gift Wrap & Décor](https://thepreppyestatecollective.com/collections/holiday-seasonal): Holiday & Seasonal gift wrap, garden flags, and home décor for Christmas, fall, spring, and more. Classic preppy prints that make every holiday feel special.
-  Updated: 2026-01-20T13:06:05Z
+  Updated: 2026-01-25T23:20:36Z
   Total Products: 181
 - [Best- Preppy Gifts & Home Décor](https://thepreppyestatecollective.com/collections/best--preppy-gifts-home-decor): Best- Preppy Gifts & Home Décor Collection: gift wrap, porch flags, desk accessories, and home décor.
-  Updated: 2026-01-21T14:53:45Z
+  Updated: 2026-01-25T23:20:35Z
   Total Products: 11
-- [Christmas Gifts & Decor](https://thepreppyestatecollective.com/collections/christmas-gifts-decor): Shop preppy Christmas Gifts & Decor. Classic tartans, Nutcracker prints, and custom monograms for a timeless holiday home.
-  Updated: 2026-01-01T23:48:56Z
-  Total Products: 62
-- [Birthday Gifts Decor & Gift Wrap](https://thepreppyestatecollective.com/collections/birthday-gifts-decor-gift-wrap): Discover preppy Birthday Gifts Decor & Gift Wrap, tags, and platters. Classic patterns, custom monograms, and made-to-order details for every celebration.
-  Updated: 2026-01-20T12:32:42Z
-  Total Products: 98
-- [Personalized Graduation Gifts & Decor](https://thepreppyestatecollective.com/collections/personalized-graduation-gifts-decor): Personalized Graduation Gifts & Decor: Celebrate grads with personalized graduation gifts, custom name gift wrap.
-  Updated: 2026-01-02T00:01:29Z
-  Total Products: 27
-- [Personalized Housewarming Gifts](https://thepreppyestatecollective.com/collections/personalized-housewarming-gifts): Shop Personalized Housewarming Gifts, custom platters, and preppy home décor. Classic monograms and coastal-inspired designs to welcome them home in style.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 169
-- [New Baby Gifts & Baby Shower Gifts](https://thepreppyestatecollective.com/collections/new-baby-gifts-baby-shower-gifts): Discover personalized New Baby Gifts & Baby Shower Gifts , custom gift wrap, and nursery-ready décor. Soft, preppy designs for little ones and new parents.
-  Updated: 2026-01-20T12:04:15Z
-  Total Products: 16
-- [Wedding Gifts & Monogram Gift Wrap](https://thepreppyestatecollective.com/collections/wedding): Shop personalized wedding gifts, bridal shower platters, and monogram wedding gift wrap. Classic, preppy designs for couples who love timeless style.
-  Updated: 2026-01-01T23:53:38Z
-  Total Products: 58
-- [Religious Gifts & Gift Wrap](https://thepreppyestatecollective.com/collections/religious-gifts-gift-wrap): Find Religious Gifts & Gift Wrap. Soft, faith-inspired designs with classic preppy charm.
-  Updated: 2026-01-02T00:06:44Z
-  Total Products: 8
-- [Valentines Day Gifts, Decor, & Gift Wrap](https://thepreppyestatecollective.com/collections/valentines-day-gifts-decor-gift-wrap): Preppy Valentines Day Gifts, Decor, & Gift Wrap for her, him, and kids. Heart-themed patterns, soft florals, and custom monograms made to order.
-  Updated: 2026-01-08T17:10:25Z
-  Total Products: 31
-- [Personalized Spring Décor & Gifts](https://thepreppyestatecollective.com/collections/personalized-spring-decor-gifts): Brighten your home with Personalized Spring Décor & Gifts that capture the fresh spirit of the season. Perfect for Easter, showers, and spring gifting.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 79
-- [Personalized Winter Décor & Gifts](https://thepreppyestatecollective.com/collections/personalized-winter-decor-gifts): Add warmth and charm to the season with Personalized Winter Décor & Gifts that make every space feel cozy and festive.
-  Updated: 2026-01-04T12:17:40Z
-  Total Products: 26
-- [Personalized Mother's Day Gifts & Gift Wrap](https://thepreppyestatecollective.com/collections/personalized-mothers-day-gifts): Personalized Mother's Day Gifts are a heartfelt way to show your appreciation for everything she does. Make her feel special with something created for her
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 67
-- [Personalized Father's Day Gifts](https://thepreppyestatecollective.com/collections/personalized-fathers-day-gifts): Shop Personalized Father's Day Giftsand preppy gift wrap. Custom platters, desk accessories, and sports-inspired designs made to order for dad.
-  Updated: 2026-01-02T00:00:36Z
-  Total Products: 49
-- [Personalized Gifts for Sports Lovers](https://thepreppyestatecollective.com/collections/personalized-gifts-for-sports-lovers): Shop personalized gifts for sports lovers, including ski-themed gift wrap, platters, and décor. Personalized, subtle designs for fans who love classic style.
-  Updated: 2026-01-01T23:57:22Z
-  Total Products: 23
-- [Personalized Gifts for Kids & Gift Wrap](https://thepreppyestatecollective.com/collections/personalized-gifts-for-kids): Discover personalized gifts for kids and gift wrap with bright, playful patterns. Name-print wrapping paper, and accessories made to order for little ones.
-  Updated: 2026-01-20T12:45:11Z
-  Total Products: 70
-- [Personalized Teacher Gifts & Personalized Stationery](https://thepreppyestatecollective.com/collections/personalized-teacher-gifts): Shop personalized teacher gifts: custom sticky notes, notepads, desk pads and preppy gift wrap. Show your appreciation for the incredible teachers in your life.
-  Updated: 2026-01-20T12:45:11Z
-  Total Products: 50
-- [Personalized Gifts for Her](https://thepreppyestatecollective.com/collections/personalized-gifts-for-her): Find personalized gifts for her: floral phone cases, custom notepads, desk pads, and home décor with classic preppy style. Made to order with her monogram.
-  Updated: 2026-01-20T13:09:10Z
-  Total Products: 187
-- [Personalized Gifts for Him](https://thepreppyestatecollective.com/collections/personalized-gifts-for-him): Shop personalized gifts for him, including desk accessories, mouse pads, and preppy home pieces in classic colors. Thoughtful, practical, and made to order.
-  Updated: 2026-01-20T12:27:52Z
-  Total Products: 95
-- [Personalized Sports Gifts & Gift Wrap](https://thepreppyestatecollective.com/collections/personalized-sports-gifts-gift-wrap): Discover Personalized Sports Gifts & Gift Wrap with a preppy twist. Personalized platters, ski and sports motifs, and classic patterns for fans and families.
-  Updated: 2026-01-01T23:56:39Z
-  Total Products: 20
-- [Custom Pet Gifts](https://thepreppyestatecollective.com/collections/custom-pet-gifts): Custom pet gifts and personalized pet lover décor featuring your dog or cat. Custom feeding mats, wrapping paper, and more with free personalization.
-  Updated: 2026-01-02T00:06:59Z
-  Total Products: 6
-- [Summer](https://thepreppyestatecollective.com/collections/summer): Preppy summer décor and personalized summer gifts, including coastal garden flags, lemon and hydrangea platters, and summer wrapping paper.
-  Updated: 2026-01-20T13:09:10Z
+- [Shop Spring](https://thepreppyestatecollective.com/collections/shop-spring): Celebrate the season with personalized preppy décor for a beautifully welcoming home. Our Spring Collection features classic garden flags and hostess-ready favorites inspired by coastal and grandmillennial style.
+  Updated: 2026-01-28T15:21:32Z
+  Total Products: 214
+- [Entertaining & Hosting](https://thepreppyestatecollective.com/collections/entertaining-hosting): Personalized preppy pieces for the coastal hostess who loves welcoming beautifully. Timeless entertaining essentials designed for gathering, gifting, and celebrating at home.
+  Updated: 2026-01-28T15:31:51Z
+  Total Products: 175
+- [Home Accents](https://thepreppyestatecollective.com/collections/home-accents): Personalized preppy home accents inspired by coastal living and grandmillennial charm — timeless pieces designed to make every space feel warm, welcoming, and uniquely yours.
+  Updated: 2026-01-28T15:36:03Z
+  Total Products: 177
+- [Gifts](https://thepreppyestatecollective.com/collections/gifts): Personalized preppy gifts for every occasion — timeless, thoughtful pieces inspired by coastal living and grandmillennial charm.
+  Updated: 2026-01-28T15:42:26Z
   Total Products: 94
-- [Personalized Beach Towels](https://thepreppyestatecollective.com/collections/personalized-beach-towels): Shop personalized beach towels customized with a name or monogram—perfect for beach trips, pool days, vacations, and summer gifts.
-  Updated: 2026-01-02T00:08:02Z
-  Total Products: 53
+- [Housewarming & Hostess](https://thepreppyestatecollective.com/collections/housewarming-hostess): Thoughtful, personalized pieces designed to make a house feel like home. This collection features classic preppy gifts perfect for welcoming new neighbors, thanking a gracious host, or celebrating a fresh start with timeless style and charm.
+  Updated: 2026-01-28T15:48:13Z
+  Total Products: 122
+- [Wedding & Newlyweds](https://thepreppyestatecollective.com/collections/wedding-newlyweds): Timeless personalized gifts created to celebrate love, tradition, and new beginnings. From elegant entertaining pieces to meaningful home accents, these designs make beautiful keepsakes for weddings, showers, and newlywed homes.
+  Updated: 2026-01-28T15:49:37Z
+  Total Products: 2
+- [Mother's Day](https://thepreppyestatecollective.com/collections/mothers-day): Celebrate her with something personal, thoughtful, and beautifully made. Our Mother’s Day gifts blend classic prep, coastal charm, and meaningful personalization to honor the women who make a house feel like home.
+  Updated: 2026-01-28T15:51:42Z
+  Total Products: 0
+- [Pet Lovers](https://thepreppyestatecollective.com/collections/pet-lovers): Personalized pieces made for the people who love their pets like family. From charming home accents to thoughtful giftables, this collection celebrates furry friends with preppy style and heartfelt detail.
+  Updated: 2026-01-28T15:54:04Z
+  Total Products: 58
+- [Sports & Outdoors](https://thepreppyestatecollective.com/collections/sports-outdoors): Classic, personalized designs inspired by sporting traditions and outdoor living. Perfect for lake houses, cabins, and families who love time outside, these pieces blend refined prep with a love for the outdoors.
+  Updated: 2026-01-28T15:56:13Z
+  Total Products: 0
+- [Teachers](https://thepreppyestatecollective.com/collections/teachers): Thoughtful, personalized gifts created to say thank you in a meaningful way. This collection features preppy, polished pieces that make heartfelt end-of-year, holiday, or appreciation gifts for the teachers who make a lasting impact. Designed to feel personal, timeless, and easy to give, these gifts are perfect for classroom thank-yous, favorite teacher surprises, and thoughtful gestures that go beyond the ordinary.
+  Updated: 2026-01-28T16:00:50Z
+  Total Products: 3
+- [Kids & Baby](https://thepreppyestatecollective.com/collections/kids-baby): Sweet, personalized pieces designed to celebrate little ones and the moments that matter most. From nursery accents to meaningful keepsakes, this collection blends classic preppy style with soft, timeless charm. Perfect for baby showers, birthdays, and milestones, these thoughtful designs are made to feel personal, special, and treasured for years to come.
+  Updated: 2026-01-28T16:02:07Z
+  Total Products: 16
 
 ## Blogs
 
@@ -3415,7 +3373,7 @@
 ## Store Pages
 
 - [Privacy Policy](https://thepreppyestatecollective.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-12T15:20:45Z
+  Updated: 2026-01-28T17:25:11Z
 - [About Us| Mother–Daughter Home Décor Studio](https://thepreppyestatecollective.com/pages/about-us): Welcome to The Preppy Estate, a mother–daughter studio devoted to personalized home décor rooted in charm, tradition, and timeless style. From mono...
   Updated: 2025-12-12T15:19:34Z
 - [Contact Us | Order & Custom Design Questions](https://thepreppyestatecollective.com/pages/contact-us): Have a question about an order or a custom design? Use the form below or email us at care@thepreppyestatecollective.com .
