@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T18:22:08Z
 - Contact Email: support@maisonoudco.ca
-- Updated At: 2026-01-26T22:18:42.763Z
+- Updated At: 2026-02-03T00:00:29.565Z
 
 ## Products
 
@@ -88,11 +88,18 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG_2306_521fe55b-d1af-4a82-b3d8-9f4932855031.jpg?v=1767473985
   Price: $125.00 CAD
 - [Arabiyat Perfume | Authentic Luxury Fragrance](https://maisonoudco.ca/products/arabiyat-perfume): Arabiyat Sugar Coconut Chiffon EDP 100ml. Authentic luxury fragrance with coconut, jasmine & vanilla. Shop premium perfumes in Canada.
-  Updated: 2026-01-23T11:00:06Z
+  Updated: 2026-01-28T03:22:24Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/33E13F21-5293-4CDF-AB2C-D9806C6AD729.png?v=1767474056
+  Price: $125.00 CAD
+- [Arabiyat Sugar Cookie Dough | EDP 100ml for Women | Luxury Gourmand Fragrance](https://maisonoudco.ca/products/arabiyat-sugar-cookie-dough-edp-100ml-for-women-luxury-gourmand-fragrance): Arabiyat Sugar Cookie Dough is a refined, gourmand fragrance crafted for the discerning woman who appreciates heritage-infused luxury. Opening with rich cocoa butter and the creamy softness of coconut milk, it evokes the indulgent memory of a perfectly baked cookie dough, a moment of sweetness that lingers. The heart reveals a delicate orchid, softly lifting the sweetness into a timeless elegance. In the base, creamy vanilla blends with sandalwood and a whisper of musk, leaving a warm, suave trail that endures with quiet confidence. Fragrance notes: - Top notes: Cocoa Butter, Coconut Milk - Middle notes: Orchid - Base notes: Vanilla, Sandalwood, Musk Why you’ll love it: - A sophisticated gourmand that echoes old-money refinement and heritage. - Instantly recognizable, yet never ostentatious — ideal for evening affairs and refined daytime occasions. - Crafted to evolve beautifully on skin, revealing layers of warmth and elegance over time. - Elegant 100ml bottle designed to reflect a heritage of timeless luxury. Usage and styling: - For best results, apply to pulse points and allow the fragrance to mingle with your natural warmth. - Complements classic silhouettes and refined accessories; ideal for formal events and executive settings.
+  Updated: 2026-01-27T16:39:46Z
+  Vendor: Maison Oud & Co.
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/FB62089B-0D54-444B-B702-2100773833D4.png?v=1766639353
   Price: $125.00 CAD
 
 ## Collections
@@ -113,8 +120,8 @@
   Updated: 2026-01-20T21:56:55Z
   Total Products: 0
 - [Arabiyat Sugar Perfume | Sweet Gourmand Long-Lasting Fragrance!! Shop.](https://maisonoudco.ca/collections/arabiyat-sugar): Discover Arabiyat Sugar perfume, a sweet gourmand fragrance with warm, creamy notes. Long-lasting and elegant scent ideal for daily wear or special occasions.
-  Updated: 2026-01-22T22:59:34Z
-  Total Products: 3
+  Updated: 2026-01-27T04:39:58Z
+  Total Products: 4
 
 ## Blogs
 
@@ -128,7 +135,7 @@
 - [Contact Maison Oud & Co. | Expert Fragrance Guidance & Support](https://maisonoudco.ca/pages/contact): We're Here to HelpWhether you have questions about our luxury perfumes, need fragrance recommendations, or require assistance with your order, our ...
   Updated: 2026-01-11T17:01:51Z
 - [Privacy Choices | Maison Oud & Co. Luxury Perfume Data Protection](https://maisonoudco.ca/pages/privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-05T15:25:50Z
+  Updated: 2026-01-28T18:15:51Z
 - [About Maison Oud & Co. | Authentic Luxury Perfumes & Premium Oud Oils](https://maisonoudco.ca/pages/about-us): About Us At Maison Oud & Co., our story is one of passion, heritage, and dedication to the art of fragrance. We are more than a boutique; we are a ...
   Updated: 2026-01-11T16:43:18Z
 - [Our Story | Maison Oud & Co. - Heritage of Authentic Luxury Perfumes](https://maisonoudco.ca/pages/brand-story): Brand StoryAt Maison Oud & Co., we celebrate heritage, craftsmanship, and the artistry of fine fragrance. We are more than a boutique; we are a san...
