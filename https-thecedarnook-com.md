@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-11-19T18:20:56Z
 - Contact Email: info@thecedarnook.com
-- Updated At: 2026-01-26T19:17:41.573Z
+- Updated At: 2026-02-03T00:00:30.566Z
 
 ## Products
 
@@ -46,12 +46,12 @@
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-balsam-salve-3_2048x2048-award.jpg?v=1680537088
   Price: $26.00 CAD
 - [Tree to be Planted](https://thecedarnook.com/products/tree-to-be-planted): Tree by One Tree Planted
-  Updated: 2026-01-26T09:17:53Z
+  Updated: 2026-02-02T09:17:52Z
   Vendor: One Tree Planted
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-plant-tree.jpg?v=1619206703
-  Price: $1.37 CAD
+  Price: $1.36 CAD
 - [Gift Card](https://thecedarnook.com/products/gift-card): Surprise the nature-lover in your life with this instant e-gift card for glowing skin!
   Updated: 2025-07-07T20:26:40Z
   Vendor: The Cedar Nook
@@ -91,10 +91,10 @@
   Updated: 2026-01-19T12:07:31Z
   Total Products: 9
 - [Best Sellers - Canadian Natural Skincare Products](https://thecedarnook.com/collections/avada-best-sellers): Indulge in nature's finest with our award-winning skincare collection. From our top- Rosehip + Calendula Face Serum to the luxurious Patchouli Wild Mint Lip Butter, each product is meticulously crafted to nurture your skin. Experience the healing power of our Balsam Fir Healing Salve and the nourishing properties of our Moisturizing Meadow Oil. Discover the gentle cleansing of our Goldenrod Oil Cleanser and the soothing relief of our Yarrow Face Serum for Dry + Sensitive Skin. Complete your skincare ritual with our invigorating Wintergreen Face Toner. Elevate your beauty routine with our carefully curated selection of botanical wonders. Plant-based, locally hand harvested, wildcrafted botanicals and products.
-  Updated: 2026-01-26T09:17:55Z
+  Updated: 2026-02-02T09:17:53Z
   Total Products: 6
 - [New! Shopify performance sharing is now turned on](https://thecedarnook.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-26T09:17:55Z
+  Updated: 2026-02-02T09:17:53Z
   Total Products: 11
 
 ## Blogs
