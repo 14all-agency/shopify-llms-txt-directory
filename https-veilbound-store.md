@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-10-05T08:19:06Z
 - Contact Email: team@veilbound.store
-- Updated At: 2026-01-27T00:00:31.812Z
+- Updated At: 2026-02-03T00:00:33.334Z
 
 ## Products
 
 - [DEATHLINE I SHIRT (Wraith Black) 300 GSM. DENSE.](https://veilbound.store/products/deathline-i-shirt-wraith-black): WRAITH BLACK drips with spectral energy. White ink clawing through obsidian cotton like a scream from the void. Same mirrored chaos. Same intricate hellscape. New darkness. 300 GSM heavyweight cotton Double-stitched & pre-shrunk Oversized box fit Front & full back high-detail DTF print Color: Wraith Black Designed to leave a mark. Built to hold weight.
-  Updated: 2026-01-26T20:48:16Z
+  Updated: 2026-01-31T00:06:36Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Deathline II Zip Up Hoodie (Wraith Black) 500GSM](https://veilbound.store/products/deathline-ii-hoodie): One of our darkest yet. Aggressive in print. Heavy in presence. This heavyweight full-zip hoodie features an oversized back design built from chaos a visceral tangle of skulls, skeletons, and winged beasts. Front and sleeve prints layer in more intensity without saying a word. Made to hold up under pressure, inside or out. Details: -500 GSM heavyweight cotton-blend fleece -Oversized full-back graphic -Chest and sleeve detailing -Double-layer hood and front pockets -Relaxed fit with dropped shoulders
-  Updated: 2026-01-23T13:34:04Z
+  Updated: 2026-01-30T06:08:52Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Available
     Price: $80.00 USD
 - [TFD II — LIGHT DEVOURED Zip Up Hoodie (Wraith Black) 500GSM. PREMIUM.](https://veilbound.store/products/light-devoured-zip-up-hoodie): Before the fracture, the heavens burned bright. After, there was only this. The Light Devoured Zip-Up Hoodie stands as the centerpiece of Total Fucking Darkness II. It represents the night the false light fell and the fire of truth rose to take its place. This is not just a garment. It is the physical embodiment of the story, a relic of rebellion, transformation, and divine awakening. Designed by one of our artists, the artwork reaches a level of insane intricacy that challenges the limits of apparel design. Every element carries purpose. Each symbol and line reflects the fall of heaven, the rise of the oathbearer, and the fire that devours illusion. The artwork feels alive, layered with meaning and presence. Look closer and the story begins to unfold. Hidden details are woven throughout the design, revealing themselves the longer you study it. Faces buried in the smoke, ancient symbols carved into shadow, celestial fragments lost within the chaos. Every inch of this hoodie was created to be discovered piece by piece, like finding fragments of a forgotten scripture. Each hoodie is made to order, created specifically for its owner. The fabric is cut, sewn, and printed individually before final inspection. This slow process ensures that every piece feels intentional, personal, and permanent. Constructed from 500 GSM luxury heavyweight cotton, it carries undeniable presence. The oversized silhouette, dense texture, and large high-definition prints create a structure built to endure. The weight alone speaks of quality, but the craftsmanship and design reveal something greater. This is luxury with purpose. Why It Is Worth It Most hoodies labeled premium end between 300 and 400 GSM and are produced in bulk. Light Devoured is nearly double that weight, designed with precision, and made one at a time. The attention to detail rivals luxury fashion houses, yet every piece holds something more. It carries meaning, purpose, and myth. At $115, you are not purchasing clothing. You are acquiring a luxury artifact, a creation built to outlast time and trend. Every thread, print, and symbol exists for a reason. It is art designed to be studied, not just worn. This is not streetwear. This is Veilbound luxury. Purpose born in darkness. Fire without mercy.
-  Updated: 2026-01-24T01:50:27Z
+  Updated: 2026-01-31T08:58:13Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -131,7 +131,7 @@
     Availability: Available
     Price: $110.00 USD
 - [TFD II — SIGIL OF DOMINION Un-Cuffed Sweatpants (Wraith Black) 500GSM. SOLID.](https://veilbound.store/products/tfd-ii-sigil-of-dominion-un-cuffed-sweatpants): After the light fractured and heaven fell, the world stood silent. Then came Dominion. The Sigil of Dominion Sweatpants represent the moment power was claimed from the ashes. Each leg carries the Veilbound sigil, a dragon coiled around a cross, symbolizing the bond between chaos and creation. It marks the point where destruction gave way to control and faith was reforged through fire. Crafted from 500 GSM heavyweight luxury fleece, these sweatpants embody structure, softness, and endurance. The oversized silhouette carries true weight and presence while remaining comfortable enough for daily wear. Each pair features prints down both legs, representing balance and duality, power and restraint. Every pair is made to order, cut, sewn, and printed individually before final inspection. Nothing is rushed. Each one is created with precision, patience, and permanence. Why It Is Worth It Most sweats labeled premium rely on light materials and mass production. Sigil of Dominion stands apart. Built from 500 GSM fleece, printed on both sides, and designed with intention, it holds the craftsmanship and density found only in luxury apparel. Every stitch and print serves purpose. At $80, this is not ordinary streetwear. It is a mark of control, strength, and creation reclaimed through darkness. This is Veilbound luxury. From ruin came control. From darkness, Dominion.
-  Updated: 2026-01-25T15:20:12Z
+  Updated: 2026-01-30T07:16:14Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Available
     Price: $80.00 USD
 - [LOGO 555 — SOVEREIGN OF RUIN Zip Up Hoodie. (Amethyst Ash) 500GSM. ENGINEERED.](https://veilbound.store/products/compression-short-sleeve-wraith-black): A statement back piece featuring Veilbound’s 555 mark above a throne of collapse. Dense white illustration, sharp negative space, and violet accents cut through the black base. Oversized placement. Unapologetic presence.
-  Updated: 2026-01-26T18:51:32Z
+  Updated: 2026-01-29T06:13:14Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -179,16 +179,16 @@
     Availability: Available
     Price: $110.00 USD
 - [VEILBOUND DEATH LOGO — DIVINE Compression (Wraith Black) 220GSM. REINFORCED,](https://veilbound.store/products/copy-compression-short-sleeve-wraith-black): A compression fit built for intensity and control. Features Veilbound’s Death Logo across the chest and back with matching sleeve hits. High-stretch, second-skin construction designed to move under load while maintaining structure and shape.
-  Updated: 2026-01-26T20:48:16Z
+  Updated: 2026-01-30T18:36:18Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/79F85A8E-9A66-45BF-886E-DE0D372C5730.png?v=1768966294
+  Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/19C8DE60-EE36-436E-9785-848F738FF159.png?v=1769574213
   - [S](https://veilbound.store/products/copy-compression-short-sleeve-wraith-black?variant=44385724268623)
     Availability: Available
     Price: $65.00 USD
   - [M](https://veilbound.store/products/copy-compression-short-sleeve-wraith-black?variant=44385724301391)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 USD
   - [L](https://veilbound.store/products/copy-compression-short-sleeve-wraith-black?variant=44385724334159)
     Availability: Available
@@ -203,11 +203,11 @@
     Availability: Available
     Price: $65.00 USD
 - [LOGO 555 — WE ARE FOREVER Shirt (Wriath Black) 300GSM. BOLD.](https://veilbound.store/products/copy-angel-of-the-wake-tee): A stripped-back statement piece built around permanence. Veilbound’s 555 logo anchors the front, paired with bold gothic typography across the back. High contrast, minimal color, and oversized placement designed to hold presence without distraction.
-  Updated: 2026-01-24T19:02:53Z
+  Updated: 2026-01-29T08:36:49Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/E704ADB9-8F96-4C62-99EA-8926CF067F71.png?v=1769146051
+  Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/E704ADB9-8F96-4C62-99EA-8926CF067F71.png?v=1769574305
   - [S](https://veilbound.store/products/copy-angel-of-the-wake-tee?variant=44386492874831)
     Availability: Available
     Price: $60.00 USD
@@ -227,21 +227,21 @@
     Availability: Available
     Price: $60.00 USD
 - [555 — DOMINION NECKLACE (free with orders over $50) 28cm](https://veilbound.store/products/555-dominion-necklace): Forged in the silence before the empire rose, The Oathbound Cross carries the weight of the first vow. It marks the promise made when the veil was broken and the path through darkness began. It is not bought. It is given. A relic bound to those who walk this journey, a mark of allegiance to the shadows and the strength found within them. Every piece serves as a reminder that once the oath is taken, there is no turning back.
-  Updated: 2026-01-24T11:58:21Z
+  Updated: 2026-01-28T04:24:20Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/A10961AC-89E0-4FA3-81B5-A311AD147E83.png?v=1769043639
   Price: $0.00 USD
 - [555 — DOMINION NECKLACE (free with orders over $50) 28cm](https://veilbound.store/products/555-dominion-necklace-free-with-orders-over-150): Forged in the silence before the empire rose, The Oathbound Cross carries the weight of the first vow. It marks the promise made when the veil was broken and the path through darkness began. It is not bought. It is given. A relic bound to those who walk this journey, a mark of allegiance to the shadows and the strength found within them. Every piece serves as a reminder that once the oath is taken, there is no turning back.
-  Updated: 2026-01-24T11:57:02Z
+  Updated: 2026-01-28T04:25:35Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/9136/5455/files/A10961AC-89E0-4FA3-81B5-A311AD147E83.png?v=1769043639
   Price: $34.00 USD
 - [WE ARE FOREVER BUNDLE Heavyweight/Premium Hoodie + Shirt (limited time)](https://veilbound.store/products/we-are-forever-bundle-hoodie-shirt-limited-time): This exclusive bundle includes the Veilbound “We Are Forever” Hoodie and matching graphic tee — a set created for those who move through darkness with purpose. Designed with raw, bold visuals and a defiant aesthetic that stands apart. 🛠️ Made to Order Each bundle is produced individually after purchase to ensure quality and exclusivity. This is not mass-produced — once the drop ends, it’s gone for good. 🗓️ Available Until: February 4th @ 11:59 PM EST No restocks. No reruns. One shot only. Bundle Includes: 1x We Are Forever Hoodie (Heavyweight / Premium Print) 1x Matching Tee (Heavyweight / Premium Print) Original Value: $170 Drop Price: $135 Limited availability. For those who never follow — only lead.
-  Updated: 2026-01-26T18:51:37Z
+  Updated: 2026-01-29T08:36:55Z
   Vendor: Veilbound
   Product Type: 
   Availability: Available
@@ -358,43 +358,43 @@
 ## Collections
 
 - [Tees](https://veilbound.store/collections/hymns-beneath-a-dying-moon-tee)
-  Updated: 2026-01-25T12:16:31Z
+  Updated: 2026-01-29T12:17:11Z
   Total Products: 18
 - [Sweatpants](https://veilbound.store/collections/hymns-beneath-a-dying-moon-un-cuffed-sweatpants)
-  Updated: 2026-01-24T12:18:29Z
+  Updated: 2026-01-31T12:16:15Z
   Total Products: 13
 - [220 GSM Beaters](https://veilbound.store/collections/220-gsm-beaters)
   Updated: 2026-01-21T02:30:21Z
   Total Products: 12
 - [230 gsm compression shirt](https://veilbound.store/collections/230-gsm-compression-shirt)
-  Updated: 2026-01-26T12:15:35Z
+  Updated: 2026-01-31T12:16:15Z
   Total Products: 5
 - [Women’s Wear](https://veilbound.store/collections/women-s-wear)
   Updated: 2025-09-21T07:48:42Z
   Total Products: 2
 - [Hoodies and Sweatpants](https://veilbound.store/collections/deathline-ii-hoodie)
-  Updated: 2026-01-26T12:15:35Z
+  Updated: 2026-01-31T12:16:15Z
   Total Products: 23
 - [VEILBOUND JEWELRY](https://veilbound.store/collections/veilbound-jewelry)
   Updated: 2026-01-21T02:30:58Z
   Total Products: 4
 - [Bestsellers](https://veilbound.store/collections/new-and-bestsellers)
-  Updated: 2026-01-26T12:15:35Z
+  Updated: 2026-01-31T12:16:15Z
   Total Products: 11
 - [3.0 BLACKOUT](https://veilbound.store/collections/3-0-blackout)
   Updated: 2026-01-21T02:28:12Z
   Total Products: 6
 - [TFD I](https://veilbound.store/collections/tfd-i)
-  Updated: 2026-01-26T12:15:35Z
+  Updated: 2026-01-31T12:16:15Z
   Total Products: 5
 - [TFD II](https://veilbound.store/collections/tfd-ii)
-  Updated: 2026-01-25T12:16:31Z
+  Updated: 2026-01-31T12:16:15Z
   Total Products: 20
 - [Bundle](https://veilbound.store/collections/hoodies)
   Updated: 2026-01-23T05:07:05Z
   Total Products: 1
 - [Ghosts to Life’s Parade](https://veilbound.store/collections/ghosts-to-life-s-parade)
-  Updated: 2026-01-25T12:16:31Z
+  Updated: 2026-01-29T12:17:11Z
   Total Products: 8
 
 ## Store Pages
@@ -402,7 +402,7 @@
 - [Contact](https://veilbound.store/pages/contact): veilbound777@gmail.com 707-502-9775 359 Railroad ave Loleta, CA, 95551 Black Background with White Text body { background-color: #000; color: #fff;...
   Updated: 2025-02-04T14:26:16Z
 - [Your Privacy Choices](https://veilbound.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-06-23T03:44:15Z
+  Updated: 2026-01-28T15:40:59Z
 - [50 Song Playlists Designed For You!](https://veilbound.store/pages/free-playlist): body { background-color: black !important; /* Make the entire page black */ color: white; /* Make text white for readability */ } Spotify Playlist ...
   Updated: 2025-01-08T11:20:00Z
 - [Review Submission](https://veilbound.store/pages/review-submission)
