@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2024-08-30T00:05:15Z
 - Contact Email: info@protec2000.com
-- Updated At: 2026-01-27T00:00:35.537Z
+- Updated At: 2026-02-04T00:00:38.487Z
 
 ## Products
 
@@ -119,6 +119,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/IMG_0809.jpg?v=1729681715
   Price: 269,95 $ CAD
+- [Spécial 2026](https://893f5c-e2-2.myshopify.com/products/special-2026)
+  Updated: 2026-01-31T00:25:51Z
+  Vendor: ALARME PROTEC 2000 ET PYRONITECH
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/Screenshot2026-01-30at15.37.08.png?v=1769818638
+  Price: 20,75 $ CAD
 
 ## Collections
 
