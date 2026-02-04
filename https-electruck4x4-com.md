@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-08-31T22:17:17Z
 - Contact Email: hello@electruck4x4.com
-- Updated At: 2026-01-28T00:00:29.283Z
+- Updated At: 2026-02-04T00:00:37.086Z
 
 ## Products
 
@@ -264,7 +264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/products/71l3Y2nk9TL._AC_SX466.jpg?v=1678840718
   Price: $219.99 USD
 - [Center Console Organizer for Rivian R1T/R1S](https://electruck4x4.com/products/rivian-r1t-r1s-center-console-organizer): The Rivian R1T/R1S Center Console Organizer is designed to fit snugly in the center console of the Rivian R1T/R1S. This organizer provides all the storage space you need to keep your items organized and within reach. With its custom-cut design, it forms the perfect fit for the vehicle's console.
-  Updated: 2026-01-27T23:34:04Z
+  Updated: 2026-01-28T11:34:08Z
   Vendor: Megawatt™
   Product Type: Interior Organizers
   Availability: Available
@@ -426,7 +426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/20230626_102842.jpg?v=1692332132
     Price: $1,121.15 USD
 - [Megawatt Premium Tempered Matte Glass Screen Protector](https://electruck4x4.com/products/megawatt-premium-tempered-matte-glass-screen-protector): The Megawatt Premium Tempered Matte Glass Screen Protector provides 9H hardness and anti-scratch protection for your device's screen. Its oleophobic coating reduces smudges and fingerprints, while its slim design preserves your device's touchscreen sensitivity. Enjoy superior protection and improved visibility with this premium screen protector. Ultra-hard scratch resistant 9H glass is stronger than PET competitors and provides the ultimate protection from dust, scratches, and wear. Dramatically reduces glare via its matte finish. This superior anti glare improves visual clarity and helps prevent driving conditions that are potentially hazardous to both you and your R1T or R1S. Oleophobic properties repel oil from hands significantly reducing fingerprints and improving cleanliness. Easy to install kit includes screens to protect your dash, center, and rear displays offering full coverage and maximum protection of your Rivian. Includes installation accessory kit complete with screen cleaning wipes and applicators
-  Updated: 2026-01-26T09:11:17Z
+  Updated: 2026-01-29T16:21:56Z
   Vendor: Megawatt™
   Product Type: Interior Protection
   Availability: Available
@@ -521,7 +521,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MTXXSO-Pair.png?v=1769462144
   Price: $429.99 USD
 - [MAXTRAX XTREME Red Recovery Boards](https://electruck4x4.com/products/maxtrax-xtreme-red-recovery-boards): Multi-award-winning MAXTRAX XTREME Red is the most advanced 4WD recovery track ever created. Featuring 88 replaceable anodized alloy teeth molded into a heavy-duty, super-tough, engineering-grade reinforced Nylon recovery track. SOLD IN A PAIR
-  Updated: 2026-01-27T17:09:29Z
+  Updated: 2026-01-28T05:10:16Z
   Vendor: MaxTrax
   Product Type: Recovery Boards
   Availability: Available
@@ -535,7 +535,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/ACC38019.jpg?v=1700758235
   Price: $467.50 USD
 - [Air Compressor Hose Winder](https://electruck4x4.com/products/air-compressor-hose-winder): This one is pretty much what it says on the tin and shows in the video! This thing honestly works great. It's pretty quick to wrap things up and toss back in the bag. If you're like me and your back seat is full of car seats - that under-seat storage isn't an option and it's gotta go back. This thing has been a game changer for me!
-  Updated: 2026-01-26T09:11:18Z
+  Updated: 2026-01-31T22:43:43Z
   Vendor: S00nish
   Product Type: Off-Road Tools
   Availability: Available
@@ -718,18 +718,18 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/ford-f-150-lightning-interior-wrap-includes-dash-door-trims-484.jpg?v=1742274824
     Price: $59.95 USD
 - [Screen Protector for Ford F-150 Lightning (Lariat & Platinum) and Mustang Mach-E (9H Hardness PET)](https://electruck4x4.com/products/screen-protector-for-ford-f-150-lightning-lariat-platinum-and-mustang-mach-e-9h-hardness-pet): Product Features 🛡 9H Hardness PET material, protects against scuffs and scratches 👌 Perfect fit 🦠 Helps reduce fingerprints 🧰 Comes with installation kit + video instructions 🇺🇸 Designed in California What's Included 1 x 9H Main Screen Protector 1 x Screen cleaning kit Installation instructions + video Installation Install difficulty: EasyInstall time: ~ 5 min.Fits: Ford F-150 Lightning
-  Updated: 2026-01-26T14:50:14Z
+  Updated: 2026-02-03T16:28:44Z
   Vendor: TWRAPS
   Product Type: Interior Protection
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-clear-15-5-screen-protector-ford-f-150-lightning-lariat-164.jpg?v=1769395801
+  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-clear-15-5-screen-protector-ford-f-150-lightning-lariat-164.jpg?v=1770136111
   - [Clear](https://electruck4x4.com/products/screen-protector-for-ford-f-150-lightning-lariat-platinum-and-mustang-mach-e-9h-hardness-pet?variant=41180190179374)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-clear-15-5-screen-protector-ford-f-150-lightning-lariat-164.jpg?v=1769395801
+    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-clear-15-5-screen-protector-ford-f-150-lightning-lariat-164.jpg?v=1770136111
     Price: $19.95 USD
   - [Matte](https://electruck4x4.com/products/screen-protector-for-ford-f-150-lightning-lariat-platinum-and-mustang-mach-e-9h-hardness-pet?variant=41180190212142)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-clear-15-5-screen-protector-ford-f-150-lightning-lariat-164.jpg?v=1769395801
+    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-clear-15-5-screen-protector-ford-f-150-lightning-lariat-164.jpg?v=1770136111
     Price: $19.95 USD
 - [Seat Back iPad and Accessory Mounting Set for Rivian R1S and R1T](https://electruck4x4.com/products/rivian-r1s-and-r1t-seat-back-ipad-and-accessory-mount): Developed in partnership with our friends at S00nish, this seat back mount features a stainless steel laser cut base made by a Rivian owner located in the Pacific Northwest. There are no 3D printed parts here! This kit contains: ✅ 1 x Stainless steel mounting clip✅ 1 x Aluminum swivel mount✅ 1 x Expandable device holder✅ 1 x Allen wrench for installation Rock solid once installed, this kit is suitable for phones and tablets alike. Not interested in a phone or tablet holder? The base clip for this kit is threaded like a tripod mount and can be used on any device that uses a similar fastener, (GoPros, flexible mounting arms, etc.) We're sure there are many other uses we haven't thought of yet - and would love to hear what you've got in mind! Warning: Do not over tighten screws on install. Just keep the holder snug.
   Updated: 2026-01-26T09:11:19Z
@@ -753,26 +753,12 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MAXTRAXHitch50.png?v=1768507389
   Price: $219.99 USD
 - [MAXTRAX MKII Olive Drab Recovery Boards](https://electruck4x4.com/products/maxtrax-mkii-olive-drab-recovery-boards): Originally made at the request of the United States Marine Corps, this muted Olive Drab will blend in with forest surroundings. Be sure to use the included Tell-Tale leashes to easily spot your MAXTRAX in the muck. SOLD IN A PAIR
-  Updated: 2026-01-26T09:11:19Z
+  Updated: 2026-02-01T03:29:32Z
   Vendor: MaxTrax
   Product Type: Recovery Boards
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/ODpair.png?v=1769131677
+  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/ODpair_60ae0863-e9f0-4368-9285-54c36fcf27fd.png?v=1769873370
   Price: $269.99 USD
-- [MAXTRAX MKII Mounting Pins](https://electruck4x4.com/products/maxtrax-mkii-mounting-pins): MAXTRAX Mounting Pins are the easiest, safest, and most-secure way to mount your Recovery Boards. Because of the unique design of our patented Keyhole, our Mounting Pins (both 40mm and 17mm) can carry either one or two sets of MAXTRAX (two or four boards) and their M10 stainless bolt has a provision for a small TSA-style padlock. Two individual rotating Nylon “keys” allow you to securely restrain your MAXTRAX while the primary component remains stationary, attached to your roof or bed rack, or custom mounting application. Sold in a set of four, enough to mount one or two sets of MAXTRAX (two or four boards total). Please Note: Anti-seize recommended on install.
-  Updated: 2026-01-26T09:11:19Z
-  Vendor: MaxTrax
-  Product Type: Recovery Boards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MPS2020_2516b278-00eb-4e46-9191-1eb273ebad52.png?v=1769375597
-  - [40mm](https://electruck4x4.com/products/maxtrax-mkii-mounting-pins?variant=41180202106926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MPS2020_2516b278-00eb-4e46-9191-1eb273ebad52.png?v=1769375597
-    Price: $66.99 USD
-  - [17mm](https://electruck4x4.com/products/maxtrax-mkii-mounting-pins?variant=41180202139694)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MTXMPS17.png?v=1769375597
-    Price: $55.99 USD
 - [MAXTRAX Kinetic Recovery Ropes](https://electruck4x4.com/products/maxtrax-kinetic-recovery-ropes): The MAXTRAX Kinetic Ropes are designed, as their name suggests, to be the kinetic element during a vehicle recovery. The MAXTRAX KINETIC ROPES produce increased kinetic power compared to flat snatch straps, with up to 30% ELONGATION providing a smoother, safer dynamic recovery.
   Updated: 2026-01-26T09:11:19Z
   Vendor: MaxTrax
@@ -824,7 +810,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/krrr013t_01.jpg?v=1705518480
   Price: $1,879.00 USD
 - [Armrest/Console Organizer Tray for Rivian R1T/R1S](https://electruck4x4.com/products/armrest-console-organizer-tray-for-rivian-r1t-r1s): Expand your storage options in the R1T/R1S with this armrest organizer that goes under the armrest area, where your elbows are while driving. The best fitting armrest organizer on the market - designed and manufactured by us, in California, battle tested with over 5000 R1T and R1S owners! 3D printed with premium, odorless ABS Features two dividers that you can remove. Easter egg: we've designed the dividers attachment to be the same shape as the Rivian's distinctive headlights. Front cable channel allows for easy removable/re-insertion if you are running charging cords or using our MagSafe compatible dual wireless charger for your Rivian.
-  Updated: 2026-01-27T22:00:13Z
+  Updated: 2026-02-02T18:01:39Z
   Vendor: TWRAPS
   Product Type: Interior Organizers
   Availability: Available
@@ -835,10 +821,10 @@
     Price: $24.95 USD
   - [Yellow](https://electruck4x4.com/products/armrest-console-organizer-tray-for-rivian-r1t-r1s?variant=41180190146606)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-yellow-armrest-organizer-for-rivian-r1t-r1s-2021-2026-817_a3845085-3041-43c6-bd2c-87e612d0cc00.jpg?v=1769551202
+    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-yellow-armrest-organizer-for-rivian-r1t-r1s-2021-2026-817_d16f07b4-eb5f-42d5-9c8c-d021511f4a4c.jpg?v=1770055297
     Price: $24.95 USD
 - [Chrome Delete for Rivian R1S](https://electruck4x4.com/products/chrome-delete-for-rivian-r1s): Product Features 🏁 Covers the chrome line above the front and back doors, behind the trunk windows and above the windshield 🎁 It wraps around for a complete and finished look 🛡 Made with premium weather-rated vinyl (we use 3M and Avery Dennison) 💪 Install in ~60 minutes. Easy to remove/replace without any residue 💎 Precise digital cutout 🇺🇸 Made in the USA Available Colors Glossy Black - 99% match with OEM Rivian R1S black trim Satin Black - 95% match with Rivian's black trim if is wrapped with matte/satin/stealth PPF Yellow - relatively close match with the Rivian Yellow color, in case you want to add a little extra color pop. What's Included 5 vinyl cutouts (one for each chrome line) Complete 2nd Set 1 plastic squeegee Installation instructions Installation Install difficulty: MediumInstall time: ~ 60 minFits: Rivian R1SMaterial: 3M 1080/2080 or Avery Dennison SW900
-  Updated: 2026-01-26T09:11:20Z
+  Updated: 2026-01-31T20:16:15Z
   Vendor: TWRAPS
   Product Type: PPF
   Availability: Available
@@ -868,11 +854,11 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/recently-added-chrome-delete-blackout-wrap-kit-rivian-r1s-2022-2025-373_02f7cba8-ac8d-4b76-ba4a-0992c8d94c00.jpg?v=1758226067
     Price: $119.95 USD
 - [Camp Speaker Drawer Replacement for Rivian R1T/R1S](https://electruck4x4.com/products/camp-speaker-drawer-replacement-for-rivian-r1t-r1s): While we all love an adventure with our Rivian, truth is most of the time we don't really use the built-in camp speaker. For those of us, who'd rather use the space as an off-sight storage drawer, this is the perfect solution. Made with strong ABS (right here in California), our Camp Speaker Drawer Replacement will fit perfectly in the place of the camp speaker. While our drawer latches the same way the speaker does, have in mind that the locking mechanism is controlled by the car's software, and as it currently stands - the drawer won't lock. So while it's a nice place to store items that won't be visible, it's recommended that you don't use it as a safe, because it's not.
-  Updated: 2026-01-27T21:06:58Z
+  Updated: 2026-02-03T19:29:17Z
   Vendor: TWRAPS
   Product Type: Interior Organizers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-camp-speaker-drawer-organizer-for-rivian-r1s-r1t-2021-2026-285_dccabd06-aabd-4444-bf1f-ed8242c6cc2a.jpg?v=1769548520
+  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-camp-speaker-drawer-organizer-for-rivian-r1s-r1t-2021-2026-285.jpg?v=1770146945
   Price: $39.95 USD
 - [Front Lip Vinyl Cover for Rivian R1T/R1S](https://electruck4x4.com/products/front-lip-vinyl-cover-for-rivian-r1t-r1s): Product Features 🏁 Add distinguishing detail to the front of your R1T 🛡 Made with premium weather-rated vinyl (we use 3M and Avery Dennison) 💪 Install in under 10 minutes. Easy to remove/replace without any residue. 💎 Precise digital cutout 🇺🇸 Made in the USA What's Included Front lip wrap Spray bottle Squeegee Installation instructions + video Installation Install difficulty: Easy.Install time: ~ 5 min.Fits: Rivian R1T / R1SMaterial: 3M 1080/2080 or Avery Dennison SW900.
   Updated: 2026-01-26T09:11:20Z
@@ -911,7 +897,7 @@
     Availability: Available
     Price: $299.99 USD
 - [Jacking Point Covers Replacement for Rivian R1T/R1S](https://electruck4x4.com/products/jacking-point-covers-replacement-for-rivian-r1t-r1s): Rivian's jacking point covers are easy to lose when doing a tire rotation. We've designed replacement covers in case you've lost yours. Notice: Rivian's design is such that these are mostly held by magic and a little tension. The replacements may fall off just as well as the originals. The original covers have a hook like thing that will keep them attached to your vehicle if they fall off. That doesn't always work though. Ours don't have that, but to compensate for this we've designed them to fit tighter than the originals. This is sold as a set of 4.
-  Updated: 2026-01-27T23:01:10Z
+  Updated: 2026-02-02T22:18:12Z
   Vendor: TWRAPS
   Product Type: Repair
   Availability: Available
@@ -925,21 +911,21 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/recently-890.jpg?v=1758226282
   Price: $24.95 USD
 - [Rear Seats Under-Storage Divider for Rivian R1T](https://electruck4x4.com/products/rear-seats-under-storage-divider-for-rivian-r1t): Add extra versatility to the storage area under the rear seats with these 3D printed dividers that fit like a glove! Notice that the R1T can accommodate up to 2 dividers that go in already existing channels. Also notice that there is about a 2" gap at the bottom.
-  Updated: 2026-01-26T09:11:20Z
+  Updated: 2026-02-03T22:16:16Z
   Vendor: TWRAPS
   Product Type: Interior
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/1-1_96ae9853-40f5-42a8-859b-04a29d0a4a35.jpg?v=1760289761
   - [Single](https://electruck4x4.com/products/rear-seats-under-storage-divider-for-rivian-r1t?variant=41180189851694)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/1-1_989945c2-2f66-4dc3-9729-cce5b860de70.jpg?v=1769282209
+    Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/1-1_af8fc7f9-b505-4786-986a-78fc28a2ba30.jpg?v=1770156972
     Price: $19.95 USD
   - [Set of 2](https://electruck4x4.com/products/rear-seats-under-storage-divider-for-rivian-r1t?variant=41180189884462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/1-1_96ae9853-40f5-42a8-859b-04a29d0a4a35.jpg?v=1760289761
     Price: $24.95 USD
 - [Mirrors Clear Protection Film (PPF) for Rivian R1T / R1S](https://electruck4x4.com/products/mirrors-clear-protection-film-ppf-for-rivian-r1t-r1s): Product Features 🛡 Protects the top part of the mirrors that is painted in the color of the car 💠 100% clear and almost invisible once installed 🏁 Made with ultra premium self-healing, stain resistant paint protection film 💪 Install in 45 minutes. Easy to remove/replace. 💎 Precision cutout that requires a heat gun and patience to install 🇺🇸 Made in the USA What's Included 8 PPF cutouts - 4 per side. The painted is split into 3 pieces, and there is one additional piece for the signal Spray bottle (you need to fill it up with water) Squeegee Installation instructions & video Installation Install difficulty: Hard Install time: ~ 45 min.Fits: Rivian R1T / R1S
-  Updated: 2026-01-26T09:11:20Z
+  Updated: 2026-01-29T04:00:15Z
   Vendor: TWRAPS
   Product Type: PPF
   Availability: Available
@@ -953,7 +939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/recently-174.jpg?v=1758225774
     Price: $54.95 USD
 - [Mud Flaps for Rivian R1T/R1S](https://electruck4x4.com/products/mud-flaps-for-rivian-r1t-r1s): Product Features 🛡️ Protect your car and the cars behind you with these custom fit, laser cut mud flaps 💪 Made of durable ABS, 3/32" thick 🖨️ Includes custom designed 3D printed brackets for the rear mud flaps, to assure extra stability 🙌 No drilling required. Install on existing screws! 🧰 Easy installation in 20 minutes or less 🇺🇸 Made in the USA What's Included 4 mud flaps (2 front / 2 back) 2 custom designed brackets for the rear mud flaps Installation kit for the brackets (screws, fasteners and nuts) T20 L Torx Star key needed to remove the existing screws Installation Install difficulty: EasyInstall time: ~ 20 min.Fits: Rivian R1T and R1S
-  Updated: 2026-01-26T09:11:20Z
+  Updated: 2026-02-02T02:35:21Z
   Vendor: TWRAPS
   Product Type: Paint Protection
   Availability: Available
@@ -986,7 +972,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Overlandstorage.png?v=1742274914
   Price: $215.00 USD
 - [LinerX Seat Back Cover Mats for 2022-2025 Rivian R1S](https://electruck4x4.com/products/linerx-seat-back-cover-mats-for-2022-2025-rivian-r1s): Designed to offer maximum interior protection from sand, mud, snow, dirt, and etc. to keep the rear seats clean and pristine in all seasons. Made from premium quality Thermoplastic Elastomer (Eco-friendly) material. Non-toxic, odorless,100% recyclable, and exceptionally good-looking and durable. Our Advanced Performance Mat Liner is Tested for Extreme Conditions to Ensure they Don't Crack, Split or Deform. Great Accessories for your Rivian R1S. Textured skid-resistant surface, easy cleanup.Please Note: Designed to fit with the floor in its Lower positions and the Flat Cargo Bed positions. It's best for the 3rd row to always stay folded down. If you need to fold up the 3rd row, you must first fold up the bottom flap. Hook and loop fasteners are included and can be attached according to your preference.Regular hook strips don't stick to the carpet in this vehicle. We include self-adhesive loop strips to help keep the mats in place. Please follow the instruction that comes with your order to prep and install the strips in your vehicle.Need protection for your cargo area and back hatch as well? We recommend the All Weather Cargo Liner. Click Here to View
-  Updated: 2026-01-27T22:23:11Z
+  Updated: 2026-02-03T22:15:51Z
   Vendor: LinerX
   Product Type: Floor Mats
   Availability: Available
@@ -1004,14 +990,14 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/linerx-seat-back-cover-mats-for-2022-2024-rivian-r1s-linerx-3.png?v=1724870768
     Price: $89.99 USD
 - [LinerX Floor Mats for 2025 Rivian R1T](https://electruck4x4.com/products/linerx-floor-mats-for-2025-rivian-r1t): Designed to offer maximum interior protection from sand, mud, snow, dirt, and etc. to keep the Rivian R1T floors clean and pristine in all seasons. Made from premium quality Thermoplastic Elastomer (Eco-friendly) material. Non-toxic, odorless,100% recyclable, and exceptionally good-looking and durable. Durable and Strong - Our Advanced Performance Mat Liner is Tested for Extreme Conditions to Ensure they Don't Crack, Split or Deform. Great Accessories for your Rivian R1T. Textured skid-resistant surface, easy cleanup. Compatible with Gen 2 (2025+) vehicles only. Need protection for your Gen 1 (2022-2024) vehicles? Click Here to View
-  Updated: 2026-01-27T02:40:05Z
+  Updated: 2026-02-01T09:39:12Z
   Vendor: LinerX
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/R1T-IMG-0087_3e39ff18-598c-454e-a362-478e3601e6e8.png?v=1762514977
   Price: $159.99 USD
 - [LinerX Cargo Liner for 2022-2025 Rivian R1S](https://electruck4x4.com/products/linerx-cargo-liner-for-2022-2025-rivian-r1s): Custom designed to offer maximum interior protection from sand, mud, snow, dirt, and etc. to keep the cargo area and back hatch clean and pristine in all seasons. Made from premium quality Thermoplastic Elastomer (Eco-friendly) material. Non-toxic, odorless, 100% recyclable, and exceptionally good-looking and durable. Our Advanced Performance Mat Liner is Tested for Extreme Conditions to Ensure they Don't Crack, Split or Deform. Great Accessories for your Rivian R1S. Textured skid-resistant surface, easy cleanup.Please Note: To get a perfect fit, the tie downs must be removed from the tracks.Need protection for your 2nd & 3rd row seats back as well? We recommend the All Weather Seat Back Cover Mats. Click Here to View
-  Updated: 2026-01-27T15:16:37Z
+  Updated: 2026-02-03T22:15:51Z
   Vendor: LinerX
   Product Type: Floor Mats
   Availability: Available
@@ -1025,21 +1011,21 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/linerx-front-cargo-liner-for-2022-2024-rivian-r1sr1t-linerx-1_b03670a5-c998-45d4-b3dc-0c586de56176.png?v=1762514963
   Price: $89.99 USD
 - [LinerX Front Cargo Liner for 2025 Rivian R1S/R1T](https://electruck4x4.com/products/linerx-front-cargo-liner-for-2025-rivian-r1s-r1t): Custom designed to offer maximum interior protection from sand, mud, snow, dirt, and etc. to keep the front cargo area clean and pristine in all seasons. Made from premium quality Thermoplastic Elastomer (Eco-friendly) material. Non-toxic, odorless, 100% recyclable, and exceptionally good-looking and durable. Our Advanced Performance Mat Liner is Tested for Extreme Conditions to Ensure they Don't Crack, Split or Deform. Great Accessories for your Rivian R1S/R1T. Textured skid-resistant surface, easy cleanup. Compatible with Gen 2 (2025+) vehicles only. Need protection for your Gen 1 (2022-2024) vehicles? Click Here to View
-  Updated: 2026-01-26T09:11:20Z
+  Updated: 2026-02-03T22:15:51Z
   Vendor: LinerX
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/IMG-1947_71c13e76-215c-49e2-8b05-76505c182272.png?v=1762514978
   Price: $89.99 USD
 - [LinerX Floor Mats for 2025 Rivian R1S](https://electruck4x4.com/products/linerx-floor-mats-for-2025-rivian-r1s): Designed to offer maximum interior protection from sand, mud, snow, dirt, and etc. to keep the Rivian R1S floors clean and pristine in all seasons. Made from premium quality Thermoplastic Elastomer (Eco-friendly) material. Non-toxic, odorless,100% recyclable, and exceptionally good-looking and durable. Durable and Strong - Our Advanced Performance Mat Liner is Tested for Extreme Conditions to Ensure they Don't Crack, Split or Deform. Great Accessories for your Rivian R1S. Textured skid-resistant surface, easy cleanup. Compatible with Gen 2 (2025+) vehicles only. Need protection for your Gen 1 (2022-2024) vehicles? Click Here to View
-  Updated: 2026-01-27T15:16:37Z
+  Updated: 2026-02-03T22:15:51Z
   Vendor: LinerX
   Product Type: Floor Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/IMG-1902_a27a650f-8649-4ca7-a3be-1f0dc2eaaecc.png?v=1762514974
   Price: $159.99 USD
 - [Megawatt™ Performance Rock Sliders with Step for R1S (Both Gen 1 and Gen 2)](https://electruck4x4.com/products/megawatt™-performance-rock-sliders-with-step-for-gen-2-r1s): In stock and available for immediate delivery The Rivian R1 is the perfect vehicle to tackle the outdoors. It's high ground  and individual wheel control enable it to navigate rocky terrain with ease. Even the most capable vehicles and drivers, however, can get hung-up on rocks and logs, which can result serious rocker panel damage or worse. Rock sliders help guard against this off-road hazard to keep your truck protected. Unsatisfied with current Rivian offerings, a team of early owners and longtime off-roaders assembled to engineer the strongest rock slider on the market that can serve as an R1S running board, yet stand up to even the most punishing abuse. What they arrived at is the latest product from Megawatt™ performance products. Make no mistake, this product is a rock slider first with the added benefit of serving as a convenient Rivian step. Given the weight of the Rivian R1S, and the potential for extreme forces while off-roading, we felt a purpose-built protection solution be crafted first. Only then could added features like a running board step be added. The Rivian R1S has a curb weight of almost 7,100 lbs. That is close the weight of a Dodge RAM 3500 MegaCab. As such, we used proven slider methods for vehicles like these to benchmark the Megawatt™ Rivian R1S rock slider. We then adapted this formula to fit the lines and unique architecture of the Rivian. The result is not only a rock solid, highly functional slider, but a side-step that looks great. Note: This product fits both Gen 1 and Gen 2 R1S vehicles Installation instructions can be found here. MEGAWATT™ ROCK SLIDERS COMPETITIVE ADVANTAGE ANALYSIS Feature MEGAWATT™ COMPETITOR 1 COMPETITOR 2 COMPETITOR 3 🔨 Construction ✅ Fully enclosed tubing ✅ Fully enclosed tubing ❌ Press broken sheet metal ❌ Press broken sheet metal Why It Matters: Sheet metal is often used because it costs less than enclosed tubing. Unfortunately, this folded structure relies on just a few corner welds that can split apart on impact. 🔩 Mounting Points ✅ Two rows of bolts ❌ One row offset ✅ Two rows of bolts ✅ Two rows of bolts Why It Matters: Single row mounting allows the slider to flex when pushed upward, leading to body damage. ⚙️ Rail Mounting ✅ Inline with frame ❌ Cantilevered outside ✅ Inline with frame ✅ Inline with frame Why It Matters: Offsetting mounts creates additional outside leverage when the rail is pushed up, which can cause flex and frame damage. 📏 Rail Thickness ✅ .188" ❌ .134" 🤷♂️ Undisclosed 🤷♂️ Undisclosed Why It Matters: Thicker rails withstand more force without crushing or bending. ⚡ Weld Type ✅ TIG ❌ MIG ❌ MIG ❌ MIG Why It Matters: TIG welding results in cleaner, stronger welds than MIG. 🛡️ Coverage ✅ Full wheel-to-wheel ❌ Mostly wheel-to-wheel ❌ Mostly wheel-to-wheel ❌ Mostly wheel-to-wheel Why It Matters: Partial coverage leaves vulnerable areas open to rock damage. 👢 Kick-out ✅ Yes ❌ No ❌ No ❌ No Why It Matters: Provides stepping platform, additional protection, and obstacle pivot point. 🔧 Underside Cover No No Yes No Why It Matters: Underside plating traps debris while providing only marginal protection. 💰 Price Point $$$ $ $$ $$ Why It Matters: Premium price reflects premium materials and construction. Megawatt™ vs. COMPETITOR 1 Falls Short: Single row mounting, cantilevered design Falls Short: Thinner material (.134" vs .188") Falls Short: MIG welds, partial coverage Falls Short: No kick-out design Megawatt™ vs. COMPETITOR 2 Falls Short: Sheet metal construction Falls Short: Undisclosed rail thickness Falls Short: MIG welds, partial coverage Falls Short: No kick-out design Megawatt™ vs. COMPETITOR 3 Falls Short: Sheet metal construction Falls Short: Undisclosed rail thickness Falls Short: MIG welds, partial coverage Falls Short: No kick-out design ENGINEERED FOR SUPERIOR STRENGTH Premium materials. Premium construction. Premium performance.
-  Updated: 2026-01-26T09:11:20Z
+  Updated: 2026-02-03T17:52:41Z
   Vendor: Megawatt™
   Product Type: Rock Sliders
   Availability: Available
@@ -1060,7 +1046,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/SnapPlate_for_Ford_F-150_Lightning_EV_Main_Fade_1.jpg?v=1762886538
   Price: $110.00 USD
 - [Phone Holder for Rivian R1T and R1S, Adjustable](https://electruck4x4.com/products/rivian-phone-holder-for-r1t-and-r1s-adjustable): Key Features Anchor expands to lock into place behind the driver or passenger side of the center display Includes a 17mm, 20mm, or 25mm/1in/B-size ball or a 17mm ball on a rigid arm Patent-pending anchors and ball mounts are Made in USA from 3D-printed, high-temperature, PolyHex plastic and stainless steel Sold individually, order two for both sides Compatibility Rivian R1T & R1S (all years and trims) Industry-standard 17mm, 20mm, or 25mm/1in/B-size arms, mounts, and other accessories Installation Instruction guide
-  Updated: 2026-01-26T15:56:10Z
+  Updated: 2026-02-02T22:32:42Z
   Vendor: EveryAmp
   Product Type: Device Mounts
   Availability: Available
@@ -1110,14 +1096,14 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Rivian_R1T_R1S_25mm_Dash_Anchor.jpg?v=1742274865
     Price: $30.00 USD
 - [HEPA+Activated Carbon Cabin Air Filter for Rivian R1T & R1S](https://electruck4x4.com/products/rivian-r1t-r1s-hepa-activated-carbon-cabin-air-filter): Key Features HEPA (High Efficiency Particulate Air) H11 filter element removes 99.976% of particulates greater than 0.3µm including pollen and other allergens (may result in a minor restriction to airflow) Activated carbon captures VOCs (volatile organic compounds) and gases including carbon monoxide and sulfur dioxide Compatibility Rivian R1T and R1S (2022-2024 / All Trims) Includes One combination HEPA + activated carbon filter Installation Instruction guide
-  Updated: 2026-01-27T23:58:30Z
+  Updated: 2026-02-03T22:46:52Z
   Vendor: EveryAmp
   Product Type: Maintenance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Rivian_R1T_R1S_Activated_Carbon_Cabin_Air_Filter_Both_Sides_R1T_R1S.jpg?v=1762471361
   Price: $21.00 USD
 - [SnapPlate Front License Plate Mount for Rivian R1T & R1S](https://electruck4x4.com/products/rivian-r1t-r1s-snapplate-front-license-plate-mount): Key Features Clean, minimal design blends perfectly with the Rivian front end Mount installs and completely removes in seconds Adjustable-height plate mount to reduce visibility on camera Adjustable rotating latches to fine tune the fit on the grille Breakaway features reduce risk of grille damage from minor accidents and car washes (remove for touch washes!) 3D printed from Made-in-USA recycled PETG plastic Compatibility Rivian R1T & R1S (choose your year) US, Canada, and Mexico license plates Includes Five black and four silver T25 torx security screws, T10/T25 screwdriver, and felt case Security screw and driver to prevent removal and deter theft Installation Instruction guide
-  Updated: 2026-01-27T23:04:25Z
+  Updated: 2026-02-03T18:19:46Z
   Vendor: EveryAmp
   Product Type: Brackets and Mounts
   Availability: Available
@@ -1131,7 +1117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/SnapPlate_for_2022_to_2024_Rivian_R1T_R1S_Main_Fade.jpg?v=1742274863
     Price: $120.00 USD
 - [F150 Lightning Lariat, Platinum & Flash- MagSafe Compatible Wireless Charger](https://electruck4x4.com/products/f150-lightning-lariat-platinum-flash-magsafe-compatible-wireless-charger): Product Features 🚗 Perfect fit for Ford F150 Lightning Lariat & Platinum: Our wireless phone charger is specifically designed to seamlessly integrate into your car, offering a customized and secure placement in the center console (refer to images to see the exact location). ⚡️ Reliable charging on the go: Enjoy fast and efficient charging for your iPhone or Android with a compatible MagSafe case! 🧲 MagSafe compatibility for a secure connection: With strong built-in magnets and a design that accommodates the iPhone's camera bump, the TWRAPS charger keeps your device securely in place while wirelessly charging, even on bumpy roads. 💠 Solid and beautiful design: Our wireless charger boasts a sleek two layer construction, blending seamlessly with your car's interior. What's Included Wireless Charger - MagSafe Compatible 3M double sided tape to secure the charging module above the charger Installation Install difficulty: EasyFits: Ford F150 Lightning Lariat, Platinum & Flash
-  Updated: 2026-01-27T19:46:15Z
+  Updated: 2026-02-03T18:04:26Z
   Vendor: TWRAPS
   Product Type: Device Chargers
   Availability: Available
@@ -1187,21 +1173,21 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-tail-lights-clear-ppf-shield-tesla-cybertruck-taillamp-cover-165.jpg?v=1754201879
   Price: $59.95 USD
 - [B & C Pillars & Door Buttons Vinyl Wrap for Tesla Cybertruck - Carbon Fiber Film Decal](https://electruck4x4.com/products/b-c-pillars-door-buttons-vinyl-wrap-for-tesla-cybertruck-carbon-fiber-film-decal): Enhance your Cybertruck's style and protect its pillars with the TWRAPS B & C Pillars & Door Buttons Vinyl Wrap. With a sleek carbon fiber pattern, it adds dimension while shielding against scratches and damage. Easy 20-minute installation for hassle-free enhancement. Features 🌟 Stylish Design: Elevate the look of your car while providing essential protection for your door pillars. The carbon fiber pattern creates a subtle dimension in the appearance, without being too obvious. 🛡 Protect your Cybertruck's door pillars: This area is prone to damage and unsightly scratches as people enter and exit, often carrying keys, rings, and watches. Shield it effectively on all four doors. 🏁 Engineered with top-tier automotive film: Renowned for its premium quality and exceptional weather resistance. This film (series 2080) ensures that your  remains protected, come rain or shine. 💪 Enjoy a hassle-free installation process: It takes a mere 20 minutes to install the film on all 4 pillars. What's more, removal and replacement are a breeze. Keep your car looking pristine without any undue effort. 💎 Expertly Cut for Precision: No advanced tools or special skills are needed, our product is precision-cut to fit the Tesla Cybertruck 2024+ B & C Pillars as well as all 4 door buttons. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included Vinyl cutout Squeegee Installation instructions Fits Tesla Cybertruck 2024+ Installation Time & Difficulty 20 minutes Medium
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-01-28T20:39:58Z
   Vendor: TWRAPS
   Product Type: Exterior protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-b-c-pillars-door-buttons-vinyl-wrap-tesla-cybertruck-822.jpg?v=1754201950
   Price: $44.95 USD
 - [Mud Flaps for Tesla Cybertruck - Front & Rear Splash Guards](https://electruck4x4.com/products/mud-flaps-for-tesla-cybertruck-front-rear-splash-guards): Enhance your Cybertruck's rugged style with the TWRAPS Mud Flaps. Designed for easy installation, these ABS plastic flaps offer reliable protection against mud and debris, maintaining your truck's sleek appearance. Made in the USA with premium materials, they're a must-have accessory for any Cybertruck owner. Product Features 🛡️ Rugged Cybertruck Style: Our mud flaps boast a rugged design, perfectly complementing the exterior of your Cybertruck for a seamless, cohesive look. 👌 Drill-Free Installation: No need to worry about complicated installations—our mud flaps require no drilling. The kit includes all necessary plastic rivets for easy setup. 🚗 Protection on Point: Keep your Cybertruck looking pristine with our textured ABS plastic mud flaps. They shield your vehicle from mud and debris, preserving its sleek appearance. 💪 Durable and Slim: Crafted from durable ABS plastic, our mud flaps offer reliable protection without compromising on the Cybertruck's sleek design. Slim yet sturdy, they withstand tough conditions. 🌧️ Weather-Ready: Be prepared for any weather with our splash guards. Designed to handle rain, mud, and more, they ensure your Cybertruck stays clean and stylish on every journey. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included Front Mud Flaps Rear Mud Flaps 12 Plastic Rivets Installation instructions Fits Tesla Cybertruck 2024+ Installation Time & Difficulty 30 minutes Easy This product is patent pending.
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-01-31T17:24:01Z
   Vendor: TWRAPS
   Product Type: Mudflaps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-mud-flaps-tesla-cybertruck-front-rear-splash-guards-420.jpg?v=1754201840
   Price: $19.95 USD
 - [Lightbar Tint for Tesla Cybertruck - Smoked Headlamp 8mil PPF](https://electruck4x4.com/products/lightbar-tint-for-tesla-cybertruck-smoked-headlamp-8mil-ppf): Enhance your Tesla Cybertruck's style and protection with our Front Lightbar Smoke Tint PPF. Featuring a refined 30% VLT, this smoky tint ensures clarity while offering durable 8mil paint protection. Made in the USA, it combines beauty with endurance, though installation requires precision and patience. Features 💨 Smoke & Visibility: Merging aesthetics & safety, our smoky tint offers a refined 30% VLT, ensuring the lightbar shine with clarity amidst the blackout allure. ✨ PPF Film Features: Beyond its tinted design, our film boasts self-healing, non-fading and oleophobic qualities, combining beauty with endurance. 🛡️ 8mil Protective Shield: Precision-made to guard against common road nuisances like rock chips, scratches, & debris, this shield ensures your Cybertruck headlamp's prolonged elegance. 🌟 Dual Functionality: With our calendered headlight covers, experience unmatched paint protection combined with a unique smokey appearance that turns heads. 💪 Install Difficulty: Crafted for a perfect fit on Tesla Cybertruck lightbar, this tint promises DIY application, but beware - it's hard, it requires the use of heat gun and it takes a long time. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included PPF / Tint Cutout Spray bottle (tack) Squeegee Installation instructions Fits Tesla Cybertruck 2024+ Installation Time & Difficulty 60 minutes Very Hard
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-01-28T20:39:57Z
   Vendor: TWRAPS
   Product Type: PPF
   Availability: Available
@@ -1215,7 +1201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-charge-port-vinyl-wrap-tesla-cybertruck-carbon-fiber-film-515.jpg?v=1754202155
   Price: $19.95 USD
 - [Front & Back Screen Protector for Tesla Cybertruck 2024+ | Display Cover 9H Ultra Tough](https://electruck4x4.com/products/front-back-screen-protector-for-tesla-cybertruck-2024-display-cover-9h-ultra-tough): Shield your Cybertruck's screens from everyday hazards, like scratches, cracks, and shattering with the TWRAPS Front & Back Screen Protectors. Crafted with ultra-tough 9H hardness PET film, it offers unmatched protection and crystal-clear clarity. With a seamless installation process and included cleaning kit, keeping your screens pristine has never been easier. Features 🛡️Unmatched toughness for Cybertruck screens: Our screen protector is crafted with an Ultra tough & premium shock proof 9H hardness PET film, providing unbeatable protection against scratches, cracks, and shattering. 🎯 Perfect fitment for your Tesla: Designed with precision, our screen protector seamlessly adheres to the screen of your 2024+ Tesla Cybertruck. Enjoy a bubble-free installation and preserved touch sensitivity. 💎 Advanced coating for crystal-clear screens: Our screen protector features a cutting-edge coating that resists fingerprints, smudges, and oils, keeping your Cybertruck's screen crystal clear and easy to clean. 🛠️ Comprehensive protection for your Tesla's screen: Shield your Tesla's screen from dust, dirt, keys, rings, watches, and everyday hazards, ensuring your display remains in pristine condition. ✅ Easy install: Our screen protectors come with a hassle-free installation kit and screen cleaning kits, making it incredibly easy to apply without any bubbles or misalignments. Enjoy a seamless installation experience in minutes. 🇺🇸 Proudly Made in USA: Designed from A to Z in California, the TWRAPS Screen protectors kit for Tesla Cybertruck includes 2 screen protectors (front & rear), microfiber cloth, screen cleaning wipes, dust absorbing stickers and a squeegee. And most importantly includes video instructions for how to complete a successful installation. What's Included Front 18.5" Screen Protector Rear 9.4" Screen Protector 2 x Screen Cleaning Kits Squeegee Installation Instructions Fits Tesla Cybertruck 2024+ Installation Time & Difficulty 20 minutes Hard (dust-free installation on large screens can be challenging)
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-02-03T17:44:44Z
   Vendor: TWRAPS
   Product Type: Interior Protection
   Availability: Available
@@ -1223,13 +1209,13 @@
   - [Matte](https://electruck4x4.com/products/front-back-screen-protector-for-tesla-cybertruck-2024-display-cover-9h-ultra-tough?variant=41180198567982)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-matte-screen-protectors-tesla-cybertruck-display-cover-9h-843.jpg?v=1754201899
-    Price: $39.95 USD
+    Price: $49.95 USD
   - [Clear](https://electruck4x4.com/products/front-back-screen-protector-for-tesla-cybertruck-2024-display-cover-9h-ultra-tough?variant=41180198600750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-matte-screen-protectors-tesla-cybertruck-display-cover-9h-843.jpg?v=1754201899
-    Price: $39.95 USD
+    Price: $49.95 USD
 - [Armrest Organizer for Tesla Cybertruck - Center Console Storage Insert](https://electruck4x4.com/products/armrest-organizer-for-tesla-cybertruck-center-console-storage-insert): Patent pending design. Introducing the TWRAPS Armrest Organizer for the Tesla Cybertruck 2024+ center console. Crafted with durable ABS and premium leather liners, each compartment is meticulously designed to keep your essentials organized and minimize rattling. Proudly made in the USA, our industrial-inspired organizer is a testament to quality craftsmanship and functional design. Product Features 🚀 Perfect Fit & Style: This organizer is meticulously crafted to seamlessly integrate with the Tesla Cybertruck 2024 style, ensuring it not only fits perfectly but also enhances the overall aesthetic appeal of the vehicle's interior. 🔒 Durable ABS Construction: Constructed from high-quality ABS plastic with a matte black finish, this organizer is built to withstand the rigors of daily use, ensuring durability and longevity while maintaining its sleek appearance for years to come. 📦 Multiple Compartments: With its intelligently designed layout, this organizer offers multiple compartments of various sizes, providing ample space to neatly store and organize a wide range of items, ensuring everything has its place within arm's reach. 🛡️ Premium Leather Liners: Each compartment of this organizer is lined with premium thick double-sided leather liners, not only adding a touch of luxury but also serving to protect your belongings from scratches and minimize rattling noises. 🔊 Noise Reduction: Engineered with noise reduction in mind, this organizer helps dampen rattling noises caused by loose items, providing a quieter and more serene driving environment, allowing you to focus on the road ahead without distractions. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included Tray 4 removable dividers Faux leather inserts Fits Tesla Cybertruck 2024+ Materials ABS, Matte Black Rigid & Durable Temperature resistant Impact resistant Chemicals resistant Installation Time & Difficulty 1 minutes Easy
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-02-02T02:41:51Z
   Vendor: TWRAPS
   Product Type: Interior Organizers
   Availability: Available
@@ -1288,7 +1274,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-lower-armrest-organizer-tesla-cybertruck-storage-insert-755.jpg?v=1754201970
   Price: $24.95 USD
 - [Steering Wheel Vinyl Wrap for Tesla Cybertruck - Carbon Fiber](https://electruck4x4.com/products/steering-wheel-vinyl-wrap-for-tesla-cybertruck-carbon-fiber): Enhance your Cybertruck's style and protect its pillars with the TWRAPS B & C Pillars & Door Buttons Vinyl Wrap. With a sleek carbon fiber pattern, it adds dimension while shielding against scratches and damage. Easy 20-minute installation for hassle-free enhancement. Features 🚘 Tailored Fit for Tesla Controls: Designed exclusively for Cybertruck steering wheel, our vinyl wrap ensures a perfect fit, seamlessly integrating with the vehicle's design for an impeccable finish. 🔲 Dynamic Color and Pattern: Elevate your steering control with our carbon fiber pattern. These designs complement the interior, adding a sporty, sophisticated touch that enhances the driving experience. 🎨 Customization and Personality: Easily transform and personalize the appearance of the steering wheel. Our vinyl wrap offers a simple way to modify your vehicle's look, setting it apart with a unique, eye-catching aesthetic. 💅 Stylish Protection: Beyond upgrading your vehicle's style, this wrap serves as a protective barrier. It guards the steering control against scratches and daily wear, maintaining the integrity and appearance of your interior. 🔖 Superior Quality Decal: Made from durable, weather-resistant 2080 series vinyl, our decals adhere flawlessly to the steering control. This premium material ensures your car's new look remains vibrant and intact against various environmental conditions. 🧰 Comprehensive Kit for Easy Application: Our complete kit includes all essentials for a straightforward installation process. Transform your steering control with this must-have accessory, offering both a stylish upgrade and enhanced protection. What's Included Vinyl cutout Squeegee Transfer Tape Cleaning Wipe Installation instructions Fits Tesla Cybertruck 2024+ Materials Automotive Vinyl Wrap Film 3M series 2080 Weather resistant Ease of installation Longevity Installation Time & Difficulty 20 minutes Easy
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-01-28T15:21:12Z
   Vendor: TWRAPS
   Product Type: Interior Protection
   Availability: Available
@@ -1302,21 +1288,21 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-glove-box-organizer-tesla-cybertruck-tray-storage-insert-873.jpg?v=1754202173
   Price: $24.95 USD
 - [Interior Leather Liners Kit for Tesla Cybertruck](https://electruck4x4.com/products/interior-leather-liners-kit-for-tesla-cybertruck): Enhance your Cybertruck's interior with the TWRAPS premium faux leather liners kit. Enjoy the luxurious feel while effortlessly maintaining cleanliness—simply remove, wash, and reinstall. Designed for easy installation, our liners elevate both style and convenience, offering a seamless upgrade for your vehicle. Features 🌟 Luxurious Interior Upgrade: Elevate your Cybertruck's interior with our premium faux leather liners kit, adding a touch of sophistication to your vehicle's cabin. 🧼 Easy to Clean: Say goodbye to difficult-to-reach crevices! Our liners are designed to be easily removable for hassle-free cleaning, ensuring a pristine interior at all times. 🔒 Secure Fit: Each liner is precisely crafted to fit snugly into your Cybertruck's cupholders, door pockets, and armrest, providing a secure and seamless integration with your vehicle's interior. 💧 Washable Faux Leather: Made from high-quality faux leather, our liners offer a luxurious feel while remaining washable for convenient maintenance. No need to worry about spills or stains! 🛠️ Simple Installation: Enjoy effortless installation with our easy-to-follow instructions. Upgrade your Cybertruck's interior with our premium liners kit in minutes, without any tools required. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included 2 x Door Pocket Liner Front Cupholder Liner Rear Cupholder Liner Armrest Liner Fits Tesla Cybertruck 2024+ Installation Time & Difficulty 2 minutes Very Easy
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-01-28T15:17:36Z
   Vendor: TWRAPS
   Product Type: Interior Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-interior-leather-liners-tesla-cybertruck-979.jpg?v=1754202011
   Price: $19.95 USD
 - [Slidable Half Armrest Organizer for Tesla Cybertruck - Center Console Storage Insert](https://electruck4x4.com/products/slidable-half-armrest-organizer-for-tesla-cybertruck-center-console-storage-insert): Introducing the TWRAPS Slidable Half Armrest Organizer for the Tesla Cybertruck 2024+ center console. Crafted with durable plastic and premium leather liners, each compartment is meticulously designed to keep your essentials organized and minimize rattling. Proudly made in the USA, our industrial-inspired organizer is a testament to quality craftsmanship and functional design. ⚠️ Now updated (as of May 20,2 2024) with new carbon fiber material for extra rigidity! Product Features 🚀 Perfect Fit & Style: This organizer is meticulously crafted to seamlessly integrate with the Tesla Cybertruck 2024 style, ensuring it not only fits perfectly but also enhances the overall aesthetic appeal of the vehicle's interior. 📥 Easy Access: This organizer provides easy access to the bottom of the armrest area as it only occupies half of the armrest area's opening. 🔒 Rigid Construction: Constructed from high-quality plastic with a satin black finish, this organizer is built to withstand the rigors of daily use, ensuring durability and longevity while maintaining its sleek appearance for years to come. 📦 Multiple Compartments: With its intelligently designed layout, this organizer offers multiple compartments of various sizes, providing ample space to neatly store and organize a wide range of items, ensuring everything has its place within arm's reach. 🛡️ Premium Leather Liners: Each compartment of this organizer is lined with premium thick double-sided leather liners, not only adding a touch of luxury but also serving to protect your belongings from scratches and minimize rattling noises. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included Armrest Organizer Installation instructions Fits Tesla Cybertruck 2024+ Materials CF, Matte Black Rigid & Durable Temperature resistant Impact resistant Chemicals resistant Installation Time & Difficulty 1 minutes Easy
-  Updated: 2026-01-26T09:11:21Z
+  Updated: 2026-02-03T18:31:47Z
   Vendor: TWRAPS
   Product Type: Interior Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/twraps-slidable-half-armrest-organizer-tesla-cybertruck-center-579.jpg?v=1754202291
   Price: $24.95 USD
 - [Dashboard Magnetic Phone Mount for Tesla Cybertruck - iPhone Holder](https://electruck4x4.com/products/dashboard-magnetic-phone-mount-for-tesla-cybertruck-iphone-holder): Patent pending design. The TWRAPS Dashboard Magnetic Phone Mount for Cybertruck 2024 seamlessly integrates with MagSafe technology to offer a secure, adhesive-free attachment for your iPhone. Designed for use by both the driver and the passenger, it ensures optimal visibility and access to your phone's features without obstructing the road view. Proudly made in the USA, it offers an easy, tool-free installation, making it an indispensable accessory for Tesla owners seeking convenience and safety. Product Features 📱 Magnetic Mount: Securely holds your iPhone with MagSafe compatibility, perfect for Tesla Cybertruck 2024. Attaches to existing AC vents without adhesive, ensuring easy installation and removal. Allows zoom and FaceTime without obstructing the road. 🚗 Versatile Placement: Attaches on either the driver or passenger side of the dashboard, suitable for both right and left-hand traffic. Offers flexibility to position your phone for optimal viewing and accessibility while driving. 🔒 Secure Attachment: The holder features a flexible plastic base and sturdy extender that inserts into the vent, providing a secure hold for your phone. The ball mount MagSafe magnet ensures your device stays in place even on bumpy roads. 🛠️ Easy Installation: No tools or adhesive required. Simply insert the flexible base into the AC vent and attach the extender for a stable mounting solution. Allows for quick and hassle-free setup, saving you time and effort. 👁️‍🗨️ Unobstructed View: Designed to position your phone in a way that does not block your view of the road. Allows for clear visibility of the Zoom and FaceTime camera, ensuring safety while driving. 🗽 Proudly made in the USA: We take great pride in the quality of our product. Each piece is meticulously crafted in the USA, ensuring exceptional workmanship and the use of premium materials. What's Included Base Extender Magnetic phone mount Fits Tesla Cybertruck 2024+ Materials Premium, Matte Black Plastic Installation Time & Difficulty 2 minutes Easy This product is patent pending.
-  Updated: 2026-01-27T23:46:11Z
+  Updated: 2026-02-03T22:45:25Z
   Vendor: TWRAPS
   Product Type: Device Mounts
   Availability: Available
@@ -1383,7 +1369,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/IMG_6758.jpg?v=1742274905
   Price: $110.00 USD
 - [High Flow Air Valve](https://electruck4x4.com/products/high-flow-air-valve): Speed up your air up and air down times with our High Flow Air Valve. Our valve features a much larger Schrader valve allowing you cut time at the trail head. Kit comes with 5 high flow stem assemblies, a high flow air chuck and adapter for a standard Schrader air chucks for emergencies. This system fits the standard size valve stem hole and does not require any drilling for install.
-  Updated: 2026-01-26T09:11:22Z
+  Updated: 2026-02-03T19:39:25Z
   Vendor: Range Industries
   Product Type: Wheels, Tires, and Accessories
   Availability: Available
@@ -1404,7 +1390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/R1TSierraRackExtrusionSideBars.png?v=1742274905
     Price: $1,500.00 USD
 - [Quick Release Fire Extinguisher Mount](https://electruck4x4.com/products/quick-release-fire-extinguisher-mount): This fire extinguisher mount is CNC machined from billet 6061-T6 and anodized for corrosion resistance. The unique and easy-to-use design enables quick one handed operation while providing a secure hold that doesn't rattle. Designed, machined and assembled in-house, we love this quick-release mount and are certain you will as well. This mount is designed to mount to a flat surface. We also have adapters that allow you to mount this to 1-3/4" and 2" roll cages or tubing. Notes: Fire extinguisher not included. Roll Cage and tube mounts sold separately. The 3" fire extinguisher mount is designed for 2.5 lb fire extinguishers with a 3" diameter, Which can be found HERE: H3R 2.5lb 3" Fire Extinguisher Amerex 2.5lb 3" Fire Extinguisher Universal mount is designed for objects 2.5" through 4" diameter; in conjunction with included universal hose clamps.
-  Updated: 2026-01-26T09:11:22Z
+  Updated: 2026-01-30T21:51:42Z
   Vendor: Range Industries
   Product Type: Bed Rack Accessories
   Availability: Available
@@ -1474,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/single8mmtiedownpt2pack90deg.jpg?v=1742274904
   Price: $20.00 USD
 - [Apple Air Tag Magnetic Mount](https://electruck4x4.com/products/apple-air-tag-magnetic-mount): Our Apple Air Tag magnetic mount is a great way to keep an eye on your vehicle. Our mount is CNC machined from Delrin to ensure the enclosure doesn't interact with the air tag signal. It uses 2 neodymium magnets for a strong hold on steel surfaces and is sealed with an o-ring to keep your air tag safe from the elements. NOTE: Air tag not included.
-  Updated: 2026-01-26T09:11:22Z
+  Updated: 2026-01-31T16:03:56Z
   Vendor: Range Industries
   Product Type: Bed Rack Accessories
   Availability: Available
@@ -1544,11 +1530,11 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/21_Truck_Bed_Gear_Sled_2024-Sep-30_09-28-36PM-000_CustomizedView10228334720.png?v=1742274916
   Price: $1,749.00 USD
 - [Series II Overland spare tire tailgate bag](https://electruck4x4.com/products/series-ii-overland-spare-tire-tailgate-bag): Are you tired of you Trasharoo fading? Are the straps complicated and make it hard for you to remove? This is the best solution for storage in your overland rig. This overland utility bag works with spare tires, tail gates, ladder racks. If you are looking for high quality easily removable bag. This is for you. The bag are different from common Trasharoo that the straps are separate and you can quickly remove bag while leaving straps on. The best overland off road storage solution. Easily mount to spare tire, tailgate, or rack. Made with all PVC and no fabric to fade. Only bag to carry trash, wood, and side pouch for collapsable fire pits. The Inca4x4 TrailBag is a spare tire trash bag that hauls up to 40lbs of weight and fits tires from 29" - 40". It features heavy-duty stitching HD PVC black material making this the most durable bag on the market. Thanks to its unique design, you can easily remove the bag or mount it on tailgates or roof racks. This also has side pockets Dimensions: 28 x 19 x 8.5 inches Features: 40lb capacity Fits 29" - 40" tires, tailgates, or roof racks Waterproof PVC HD black material (no fabric to fade) Uses 30-gallon trash bags (FINAL VERSION DOES NOT HAVE RED)
-  Updated: 2026-01-26T09:11:23Z
+  Updated: 2026-02-01T03:35:38Z
   Vendor: electruck4x4.com
   Product Type: Trash and Hygiene
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/1ABCCDBD04563703095C510ED75CE3F0.jpg?v=1756707199
+  Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/ChatGPT_Image_Jan_31_2026_at_09_53_04_AM.png?v=1769873733
   Price: $189.00 USD
 - [Outdoor Indoor Select-Fit Car Cover Kit for Rivian R1S 2022 - 2025](https://electruck4x4.com/products/rivian-r1s-suv-2022-2025-outdoor-indoor-select-fit-car-cover-kit): MCarCovers Select-Fit Car Cover was designed to give car enthusiasts a near custom-fit cover with features never seen before on a car cover including sewn-in elastic at the front and rear of the car cover, three wind straps, vent pockets and more. Plus, the MCarCovers Select-fit Car Cover ships fast and includes a Lifetime Replacement Warranty! All for a fraction of the price of a custom-fit cover. You'll love our Select-fit Cover so much, you might just find yourself saying "I can't believe its not custom!" If you are not completely satisfied with your cover, return it for a full refund or full credit toward a custom-fit car cover. This product ships the same business day and arrives in 1 to 2 days via ground shipping! Contact us for free fabric swatches. MCarCover Select-fit Car Cover Kit Features: Limited Lifetime Replacement Warranty* Usually Ships within 1 Business Day 150 Denier Fabric (threads per square inch) Water Resistant and Breathable Material Coated Underside - Safe for Clear Coats Perfect for Indoor or Outdoor Use UV Reflecting Silver Color 2 Select-fit Mirror Pockets 3 Wind Straps (Front, Center & Rear) Front and Rear Sewn-in Bottom Elastic Free 7ft Coated Cable Free Lock & Keys Free Storage Bag Antenna Grommet Packs Small for each storage (approx. 15Hx13Wx7D) Patent Pending Design
   Updated: 2026-01-26T09:11:23Z
@@ -1565,49 +1551,49 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/r1s-rivian-blue.webp?v=1742274945
   Price: $189.95 USD
 - [Air-Compressor Valve Adaptor with Pressure Gauge](https://electruck4x4.com/products/air-compressor-valve-adaptor-with-pressure-gauge): ◄PRODUCT DESCRIPTION This valve adaptor lets you use a standard air compressor to inflate or top off your deflated items. It includes a pressure gauge to help you easily reach the recommended PSI. Perfect for road trips, it works with gas station air hoses or any pump that uses a Schrader valve connection. Disclaimer: Be cautious not to overinflate your FLATED product with an air compressor. Always monitor the pressure and ensure it does not exceed 8 PSI to prevent damage. Adhere to the manufacturer's recommended PSI guidelines. ◄PRODUCT FEATURES Made from High strength hard plastic and alloy, solid structure, saving labor, resistant high pressure, strong seal leak protection. Use your compressor or tire pump to easily reach the suggested PSI No need to buy a special rubber boat pump. Utilizes a standard connector fitting to couple with an air compressor or bike/tire pump. Suitable for most high-pressure air valve equipment such as all FLATED® products, paddleboard, rubber boat, dinghy, and so on. Lightweight and portable, easy to carry and store, no need to carry different types of inflatable tools, reduce your burden.
-  Updated: 2026-01-27T14:36:31Z
+  Updated: 2026-02-03T18:27:46Z
   Vendor: Flated
   Product Type: Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/CompressorAirValve_df6896e0-e794-4954-9c91-124e68060c00.png?v=1742274883
   Price: $19.99 USD
 - [CAP - Compact-Truck- Rivian R1T](https://electruck4x4.com/products/cap-compact-truck-maverick): THE WORLDS FIRST PATENTED INFLATABLE TRUCK SHELL! ◄PRODUCT DESCRIPTION The Air-Topper® CAP for the Ford Maverick brings sleek, cab-height design to compact-size short truck beds, fitting perfectly on the Ford Maverick and Rivian RT1. Crafted with durable drop-stitch technology, this innovative inflatable truck cap combines lightweight flexibility with rugged reliability. It inflates in minutes, offering secure coverage for your gear without adding bulk or weight, making it ideal for camping, storage, and everyday use. When not in use, the Air-Topper® CAP deflates and packs down easily, providing unmatched convenience and versatility. For Maverick and Rivian owners seeking a compact, efficient, and high-performance truck cap, the Air-Topper® CAP is the ultimate upgrade for life on the go. U.S. PATENT NO.: 12,077,977 U.S. DESIGN PATENT NO.: D,1040,730 U.S. Patent No.: 11,976,487 ◄PRODUCT FEATURES Durable and rigid. Made from military grade PVC coated drop-stitch material Tinted rollable side windows for ventilation while camping or accessing bed of truck Zipping and removable screens on side window to keep the bugs out Replaceable windows Back window uses ultra durable zippers and can be rolled/secured with built-in hook and loop closures 6 attachment points to keep it secure to the trucks rails Three mesh organizing pockets on the inside to store gear and supplies Includes easy carry bag with backpack-style shoulder straps Includes high-pressure hand pump Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-26T17:23:53Z
+  Updated: 2026-01-30T04:16:57Z
   Vendor: Flated
   Product Type: Bed cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/AirTopper_Compact_Steel.jpg?v=1742274884
   Price: $1,099.00 USD
 - [Air-RackPads](https://electruck4x4.com/products/air-rackpads): The FLATED Air-RackPads for the Air-Carrier are the perfect solution for vehicles that lack expensive rooftop cross bars. These pads secure the Air-Carrier more effectively, protect your vehicle's roof from scratches, and fold in half for easy storage in your Air-Carrier backpack. This system can save you hundreds on costly cross bar installations, offering a more affordable way to expand your rooftop storage.
-  Updated: 2026-01-26T09:11:23Z
+  Updated: 2026-02-02T15:56:45Z
   Vendor: Flated
   Product Type: Bed Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Air-RackPads_Open_290ea126-3fe9-4f88-9b4d-d6a1042f1275.jpg?v=1742274883
   Price: $99.00 USD
 - [MR - Compact-Truck - Rivian R1T](https://electruck4x4.com/products/mr-compact-truck-maverick): THE WORLDS FIRST PATENTED INFLATABLE TRUCK SHELL! ◄PRODUCT DESCRIPTION The Air-Topper® eliminates commitment and lets you think outside the box. The Air-Topper® CAP - is a sleeker, cab height design perfect for your Mid-Size Long bed truck. The Air-Topper® eliminates installation and storage hassle providing a versatile shell for your truck lifestyle. When you don’t need it, deflate, roll up, and store in the closet or garage. Tool-less installation for an easy set up, the topper comes with everything you need to get inflated, and get going. Using the Air-Topper® in combination with the FLATED® Air-Deck® will turn any truck into a happy camper. Weighing in at less than 50 lbs, this shell makes you free to vehicle convert at will. Simple and structural. U.S. PATENT NO.: 12,077,977 U.S. DESIGN PATENT NO.: D,1040,730 U.S. Patent No.: 11,976,487 ◄PRODUCT FEATURES Two chamber construction Rain Skirt Military grade PVC coated drop-stitch material Tinted rollable side windows Removable interior screen side windows Removable Clear pass-thorugh cab window Back window uses ultra durable zippers and can be rolled/secured with built-in hook and loop closures 6 attachment points to keep it secure to the trucks rails One mesh organizing pocket on the inside to store gear and supplies Carrying handles on roof 4 D-Rings on the roof to attach kayaks, canoes, an Air-Carrier, ect. Includes easy carry bag with backpack-style shoulder straps Includes high-pressure hand pump Emergency Patch Kit Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-26T09:11:23Z
+  Updated: 2026-02-01T13:40:21Z
   Vendor: Flated
   Product Type: Bed cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/AirTopper_Compact_Grey.jpg?v=1742274884
   Price: $1,399.00 USD
 - [Air-Carrier® Sport](https://electruck4x4.com/products/air-carrier®-sport): THE PATENTED AIR-CARRIER® IS A ROOFTOP CARGO BOX THAT CAN ATTACH ON ANY VEHICLE AND THEN DEFLATES FOR COMPACT STORAGE! ◄PRODUCT DESCRIPTION The Air-Carrier® is the ideal way to maximize your gear storage and make your travel excursions hassle-free. The quick, simple process to inflate and attach allows you more time to enjoy the open road. A rooftop cargo carrier offering up to 23 cubic feet of added rooftop real estate, your vehicle is well prepared for a beach day, ski day, or a full-fledged summer road trip. You can stash the Air-Carrier® just about anywhere, including your trunk. Maxing out at 23lbs the Air-Carrier® is light enough to be a one person job. Our integrated strap rack system allows the Air-Carrier® to be used on nearly any vehicle, with and without roof racks. Dual side, lockable access, as well as reduced storage and fuel efficiency when not in use. Not only is the Air-Carrier® duffle bag easy to transport, it can be checked as luggage when adventure calls you far from home. U.S. Patent No.: 11,976,487 U.S. PATENT NO.: 12,077,977 U.S. DESIGN PATENT NO.: D,1040,730 ◄PRODUCT FEATURES PVC Side walls with YKK zipper closure system Easy open two-way zippers on each side for easy access Includes 2 programable locks Aerodynamic shape to help airflow and lessen drag Built-in straps that can secure to most aftermarket or factory installed cross bars Compatible with soft rack system if vehicle doesn't have cross bars Includes easy carry storage bag with shoulder straps Includes high-pressure hand pump Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-26T09:11:23Z
+  Updated: 2026-02-03T22:59:21Z
   Vendor: Flated
   Product Type: Rooftop Cases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/FLATED_AirCarrier_Sport_bd0663c3-bc55-402d-a5de-343bf0715057.jpg?v=1742274884
   Price: $599.00 USD
 - [Air-Carrier® Medium](https://electruck4x4.com/products/air-carrier®-medium): THE PATENTED AIR-CARRIER® IS A ROOFTOP CARGO BOX THAT CAN ATTACH ON ANY VEHICLE AND THEN DEFLATES FOR COMPACT STORAGE! ◄PRODUCT DESCRIPTION The Air-Carrier® is the ideal way to maximize your gear storage and make your travel excursions hassle-free. The quick, simple process to inflate and attach allows you more time to enjoy the open road. A rooftop cargo carrier offering up to 23 cubic feet of added rooftop real estate, your vehicle is well prepared for a beach day, ski day, or a full-fledged summer road trip. You can stash the Air-Carrier® just about anywhere, including your trunk. Maxing out at 23lbs the Air-Carrier® is light enough to be a one person job. Our integrated strap rack system allows the Air-Carrier® to be used on nearly any vehicle, with and without roof racks. Dual side, lockable access, as well as reduced storage and fuel efficiency when not in use. Not only is the Air-Carrier® duffle bag easy to transport, it can be checked as luggage when adventure calls you far from home. U.S. Patent No.: 11,976,487 U.S. PATENT NO.: 12,077,977 U.S. DESIGN PATENT NO.: D,1040,730 ◄PRODUCT FEATURES PVC Side walls with YKK zipper closure system Easy open two-way zippers on each side for easy access Includes 2 programable locks Aerodynamic shape to help airflow and lessen drag Built-in straps that can secure to most aftermarket or factory installed cross bars Compatible with soft rack system if vehicle doesn't have cross bars Includes easy carry storage bag with shoulder straps Includes high-pressure hand pump Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-26T09:11:23Z
+  Updated: 2026-02-03T16:21:31Z
   Vendor: Flated
   Product Type: Rooftop Cases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Flated_AirCarrier_Medium_6d8c952c-7c64-47f5-8543-af77835f1fef.jpg?v=1742274884
   Price: $549.00 USD
 - [Air-Carrier® Large](https://electruck4x4.com/products/air-carrier®-large): THE PATENTED AIR-CARRIER® IS A ROOFTOP CARGO BOX THAT CAN ATTACH ON ANY VEHICLE AND THEN DEFLATES FOR COMPACT STORAGE! ◄PRODUCT DESCRIPTION The Air-Carrier® is the ideal way to maximize your gear storage and make your travel excursions hassle-free. The quick, simple process to inflate and attach allows you more time to enjoy the open road. A rooftop cargo carrier offering up to 23 cubic feet of added rooftop real estate, your vehicle is well prepared for a beach day, ski day, or a full-fledged summer road trip. You can stash the Air-Carrier® just about anywhere, including your trunk. Maxing out at 23lbs the Air-Carrier® is light enough to be a one person job. Our integrated strap rack system allows the Air-Carrier® to be used on nearly any vehicle, with and without roof racks. Dual side, lockable access, as well as reduced storage and fuel efficiency when not in use. Not only is the Air-Carrier® duffle bag easy to transport, it can be checked as luggage when adventure calls you far from home. U.S. Patent No.: 11,976,487 U.S. PATENT NO.: 12,077,977 U.S. DESIGN PATENT NO.: D,1040,730 ◄PRODUCT FEATURES PVC Side walls with YKK zipper closure system Easy open two-way zippers on each side for easy access Includes 2 programable locks Aerodynamic shape to help airflow and lessen drag Built-in straps that can secure to most aftermarket or factory installed cross bars Compatible with soft rack system if vehicle doesn't have cross bars Includes easy carry storage bag with shoulder straps Includes high-pressure hand pump Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-26T09:11:23Z
+  Updated: 2026-02-02T18:32:42Z
   Vendor: Flated
   Product Type: Rooftop Cases
   Availability: Available
@@ -1621,21 +1607,21 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/AirTopper_FullShortMR54.jpg?v=1742274884
   Price: $1,899.00 USD
 - [Full-Size 5.5' Short](https://electruck4x4.com/products/full-size-5-5-short): THE PATENT-PENDING AIR-DECK® INFLATES, DEFLATES, AND STORES WITH EASE TO TAKE IT FROM A STABLE RAISED-PLATFORM TO A SMALL COMPACT BACKPACK. ◄PRODUCT DESCRIPTION The Air-Deck® is an innovative, raised platform that fits in trucks, sprinters, SUVs, RVs, and vans of all makes and sizes. The Air-Deck® inflates, deflates, and rolls up into an included travel bag with ease to transform from usable to storable. For when you need your truck to be a truck. Ready to convert your vehicle into a mobile adventure rig? The Air-Deck® solves the sleep space issue without compromising the ability to pack your tools, gear and toys. The reliable Air-Deck® platform won't bow or sag throughout the night creating uneven shifts in weight distribution and temperture ranges. ◄PRODUCT FEATURES Includes carry bag with shoulder straps, Included Dual action hand pump and patch kit Four tie-down points with straps to secure in the back of the vehicle Rigid inflatable drop-stitch platform that can support over 500lbs Two storage pockets on the tailgate end Two stash pockets on either side Two access indents on the sides to secure and utilize storage Weighs under 23 Lbs Easy to roll up and store Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-27T17:37:02Z
+  Updated: 2026-02-02T21:17:08Z
   Vendor: Flated
   Product Type: Sleeping Gear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Flated_AirDeck_ccb7b811-6778-4249-be10-8878e370ddcf.jpg?v=1742274883
   Price: $599.00 USD
 - [CAP - Full-Size 5.5' Bed](https://electruck4x4.com/products/cap-full-size-5-5-bed): THE WORLDS FIRST PATENTED INFLATABLE TRUCK SHELL! ◄PRODUCT DESCRIPTION The FLATED® Air-Topper® CAP Full-Size Short 5.5' Bed - is a sleeker, cab height designed for the full-size short truck beds, compatible with models like the Ford 150, Chevy Silverado, GMC Sierra, Dodge Ram and Toyota Tundra. Made with durable drop-stitch technology, this lightweight topper provides a secure, rigid fit, while weighing under 60 pounds for easy handling and storage. The Air-Topper® inflates in just minutes, offering fast, reliable coverage for hauling gear, sheltering equipment, or creating a camping setup on the go. When it’s time to pack up, simply deflate and store it compactly, ready for your next adventure. The Air-Topper® is a perfect solution for truck owners looking for flexible, space-saving, and high-performance versatility. U.S. PATENT NO.: 12,077,977 U.S. DESIGN PATENT NO.: D,1040,730 U.S. Patent No.: 11,976,487 ◄PRODUCT FEATURES Two chamber construction Rain Skirt Military grade PVC coated drop-stitch material Tinted rollable side windows Removable interior screen side windows Removable Clear pass-thorugh cab window Back window uses ultra durable zippers and can be rolled/secured with built-in hook and loop closures 6 attachment points to keep it secure to the trucks rails One mesh organizing pocket on the inside to store gear and supplies Carrying handles on roof 4 D-Rings on the roof to attach kayaks, canoes, an Air-Carrier, ect. Includes easy carry bag with backpack-style shoulder straps Includes high-pressure hand pump Emergency Patch Kit Electric pump can be purchased separately ◄FIT GUIDE ◄HOW TO VIDEOS
-  Updated: 2026-01-27T22:49:15Z
+  Updated: 2026-02-03T04:07:01Z
   Vendor: Flated
   Product Type: Bed cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/FLATED_FullShort_CAP_daac35b7-f393-4254-b7e4-a3f83bd55cac.jpg?v=1742274883
   Price: $1,599.00 USD
 - [MAXTRAX XTREME Mounting Pins](https://electruck4x4.com/products/maxtrax-xtreme-mounting-pins): The MAXTRAX XTREME Mounting Pins are designed to work exclusively with MAXTRAX XTREME Designed exclusively for MAXTRAX XTREME—these cannot be used with any other brands. Does not work with MAXTRAX MKII. Available with either 40mm or 17mm shank size. Please Note: Antiseize recommended on install.
-  Updated: 2026-01-26T09:11:24Z
+  Updated: 2026-02-03T18:49:56Z
   Vendor: MaxTrax
   Product Type: Recovery Boards
   Availability: Available
@@ -1647,7 +1633,7 @@
     Availability: Not Available
     Price: $66.99 USD
 - [Overland Kitted MAXTRAX Bed Rail Mount](https://electruck4x4.com/products/overland-kitted-maxtrax-bed-rail-mount): Securely mount your MAXTRAX MKII or XTREME to your truck's factory bed rails. Designed to be low profile, adjustable, and work with various truck platforms across the market. Finally you have a reason to ditch that heavy bed rack! Compatible with the following Adventure Imports mounting systems: Mounting Bars Boomerang Mount Universal Mounting Plate MAXTRAX Mini Plate ﻿MAXTRAX Mounting Pins Not Included*
-  Updated: 2026-01-27T07:15:53Z
+  Updated: 2026-02-01T16:58:36Z
   Vendor: MaxTrax
   Product Type: Bed Accessories
   Availability: Available
@@ -1684,7 +1670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MTXKR2.png?v=1731375176
   Price: $79.99 USD
 - [MAXTRAX XTREME Combo Pin Set](https://electruck4x4.com/products/maxtrax-xtreme-combo-pin-set): Designed to work exclusively with MAXTRAX XTREME and MAXTRAX MKII. Our Combo pin set will allow you to mount one set of MAXTRAX XTREMEs along with one set of original MKIIs. Only one set is required for mounting one set of MKII and one set of XTREME. For mounting only MKII and MAXTRAX XTREME together: please look here for our MKII Mounting Pins Please Note: Antiseize recommended on install.
-  Updated: 2026-01-26T09:11:24Z
+  Updated: 2026-02-03T18:49:56Z
   Vendor: MaxTrax
   Product Type: Recovery Boards
   Availability: Available
@@ -1694,18 +1680,18 @@
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MPSX2020.png?v=1731375197
     Price: $66.99 USD
   - [17mm](https://electruck4x4.com/products/maxtrax-xtreme-combo-pin-set?variant=41180193587246)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/MTXMPSX17.png?v=1731375199
     Price: $55.99 USD
 - [Seatback Organizer](https://electruck4x4.com/products/seatback-organizer): The “nightstand” of car camping boasts a universal fit, a microfiber-lined pocket specifically for your phone, a headlamp pocket with a translucent window for a reading light at night, a removable pouch for added organization on the go, two G-hooks for handy key storage, a slot for tablets, books and more.  to keep you organized, the Seatback Organizer is an essential for any vehicle.
-  Updated: 2026-01-26T16:50:21Z
+  Updated: 2026-02-03T17:03:36Z
   Vendor: Luno®
   Product Type: Molle Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Rectangle4017_d8c9c9fe-e469-407b-9220-20efef56eab3.jpg?v=1762502103
   Price: $44.99 USD
 - [Fitted Mattress Sheet - AIR Vehicle Mattress](https://electruck4x4.com/products/fitted-mattress-sheet-air-vehicle-mattress): The Fitted Mattress Sheet adds a layer of comfort and protection to any Luno Air Mattress. The fabric is cozy, breathable, and offers temperature-regulated insulation. It’s designed to fit perfectly on any Luno mattress and protects your mattress from abrasion and accidental stains. Sleep soundly and guard your Luno Air Mattress for life with the Fitted Mattress Sheet. Storage pouch included.
-  Updated: 2026-01-27T22:53:10Z
+  Updated: 2026-02-03T16:56:15Z
   Vendor: Luno®
   Product Type: Sleeping Gear
   Availability: Available
@@ -1723,7 +1709,7 @@
     Availability: Not Available
     Price: $89.99 USD
 - [Gear & Shoe Storage Bag](https://electruck4x4.com/products/gear-shoe-storage-bag): Finding a place to put your shoes overnight while camping can be tricky. That’s why we designed the shoe storage bag — a water-resistant pouch that magnetically attaches to the side of your vehicle. With this bag, your shoes are accessible, safe, and dry (instead of stinking up your vehicle) all night long. Get creative — this gear bag can be used for more than just shoes!
-  Updated: 2026-01-26T16:51:16Z
+  Updated: 2026-02-03T16:11:21Z
   Vendor: Luno®
   Product Type: Camping
   Availability: Available
@@ -1735,7 +1721,7 @@
     Availability: Available
     Price: $54.99 USD
 - [AIR Truck Bed Mattress for Small/Medium Trucks](https://electruck4x4.com/products/air-truck-bed-mattress): The Luno AIR Truck Bed Mattress is easy to set up and a dream to snooze on. The ultra-tough, ultra-comfy, AIR Truck Bed Mattress will revolutionize your life on the dirt road. This mattress isn’t a rectangle for a reason. Our engineers factor wheel wells into the design, ensuring an optimized and comfortable sleeping area in most trucks. BACKORDERED | Expected to ship Early February Specifications Mid-Size 5ft Bed Size: 2 People, 6'7" Tall (with tailgate down) (200 cm) Setup Time: 3 Minutes Material: 300D Oxford Fabric Packed Size 10" x 22" (25 cm x 56 cm) Inflated Height: 4" (10 cm) Weight Limit: 300 pounds/side (136 kg/side) Packed Weight: 13 lbs (5.9 kg) Mid-Size 6ft Bed Size: 2 People, up to 6’ Tall Setup Time: 3 Minutes Material: 300D Oxford Fabric Packed Size: 10" x 23" (25 cm x 58 cm) Inflated Height: 4" (10 cm) Weight Limit: 300 pounds/side (136 kg/side) Packed Weight: 14 lbs (6.5 kg) What's Included AIR Truck Bed Mattress 2 Tailgate Buddies (NOTE: only comes with 5ft truck beds) Cordless/Rechargeable Air Pump Storage Stuff Sack Repair Patch 3-Year Warranty
-  Updated: 2026-01-27T21:43:21Z
+  Updated: 2026-02-03T00:28:51Z
   Vendor: Luno®
   Product Type: Sleeping Gear
   Availability: Available
@@ -1753,14 +1739,14 @@
     Availability: Available
     Price: $299.99 USD
 - [Headrest Organizer](https://electruck4x4.com/products/headrest-organizer): Our new, easy-to-install Headrest Organizer turns the back of your headrest into a practical organization station in seconds. With five pockets and a removable pouch, the Headrest Organizer helps campers and road trippers keep track of smaller, easy-to-lose essentials.
-  Updated: 2026-01-26T21:07:51Z
+  Updated: 2026-02-02T18:16:45Z
   Vendor: Luno®
   Product Type: Molle Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0552/3623/1214/files/Rectangle3904_91f3b9e0-794e-4606-a049-e9d0230972e6.jpg?v=1762508366
   Price: $39.99 USD
 - [Fitted Mattress Sheet - AIR+FOAM Pro Camping Mattress](https://electruck4x4.com/products/fitted-mattress-sheet-air-foam-pro-camping-mattress): The Mattress Fitted Sheet is cozy, breathable, and offers temperature-regulated insulation. It’s designed to fit snugly on the mattress, and protects your mattress from abrasion and accidental stains. Storage pouch included.
-  Updated: 2026-01-27T16:18:42Z
+  Updated: 2026-02-03T00:29:56Z
   Vendor: Luno®
   Product Type: Sleeping Gear
   Availability: Available
@@ -1772,7 +1758,7 @@
     Availability: Available
     Price: $59.99 USD
 - [AIR+FOAM PRO Rivian R1S Mattress](https://electruck4x4.com/products/air-foam-pro-rivian-r1s-mattress): Introducing the Luno AIR+FOAM PRO Rivian R1S Mattress—our most innovative sleep system to date. Engineered for exceptional comfort and packability, this premium mattress builds on our award-winning Luno AIR Mattress design. Next-level comfort for a better night's sleep. Specifications Person Capacity: 2 People Self Inflation Time: 3-5 Minutes R-Value: 11 Materials: Top = 30D Elastic Polyester Bottom = 150D Oxford TPU Coated Side = 30D Elastic Polyester Inside = Polyurethane Foam Inflated Mattress Height: 4” (10cm) Packed Dimensions: 29" x 11" x18" (74 cm x 28 cm x 46 cm) Packed Weight: 12 lbs (5.44 kg)
-  Updated: 2026-01-27T20:29:45Z
+  Updated: 2026-01-30T05:17:22Z
   Vendor: Luno®
   Product Type: Sleeping Gear
   Availability: Available
@@ -2292,13 +2278,13 @@
 ## Collections
 
 - [Rivian](https://electruck4x4.com/collections/rivian-r1t-and-r1s): Enhance your Rivian with our collection of top-quality aftermarket accessories. As a dedicated provider of Rivian accessories and EV gear, we have hand-picked our favorite products that fit your truck and will enhance your electric vehicle experience. Our selection includes off-road parts, protective wraps, screen protectors, interior accessories, wheels, tools, bike racks, floor mats, and much more. Whether you are looking to upgrade your off-road capabilities or add some style to your ride, we have you covered with our growing collection of Rivian aftermarket accessories. Take your Rivian to next level by checking them out below.
-  Updated: 2026-01-27T23:19:32Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 176
 - [Wheels, Tires and Accessories](https://electruck4x4.com/collections/rivian-wheels-tires-and-accessories): Upgrade your Rivian's wheels with factory-compatible rims. Increase your traction with high-performance tires. Keep things on the road and in tip-top shape with quality tools and accessories.
-  Updated: 2026-01-20T21:48:34Z
+  Updated: 2026-02-01T12:13:00Z
   Total Products: 26
 - [Off-road & Maintenance](https://electruck4x4.com/collections/off-road-tools-and-accessories): Take if off road and on the trail with these tough as nails accessories
-  Updated: 2026-01-20T21:48:35Z
+  Updated: 2026-02-01T12:13:00Z
   Total Products: 30
 - [Tools and Maintenance](https://electruck4x4.com/collections/tools): All the tools and maintenance parts necessary to modify your truck and keep it running great.
   Updated: 2026-01-20T21:48:35Z
@@ -2307,40 +2293,40 @@
   Updated: 2026-01-20T21:48:35Z
   Total Products: 0
 - [Universal Fit](https://electruck4x4.com/collections/all)
-  Updated: 2026-01-27T23:31:33Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 210
 - [Exterior](https://electruck4x4.com/collections/exterior)
   Updated: 2026-01-22T12:11:47Z
   Total Products: 26
 - [Interior Accessories](https://electruck4x4.com/collections/interior)
-  Updated: 2026-01-25T12:11:16Z
+  Updated: 2026-02-03T17:44:45Z
   Total Products: 42
 - [TWraps Paint Protection Films for Rivian R1T and R1S](https://electruck4x4.com/collections/twraps-paint-protection-films-for-rivian-r1t-and-r1s): Keep your truck's paint looking as good as the day it was delivered. Paint protection films (PPF) like those offered by Twraps are one of the best ways to defend you Rivian from everyday chips and scratches. You paid a lot for an awesome truck. Keep it looking that way and save big over factory wraps with PPF by Twraps and Electruck4x4.
-  Updated: 2026-01-27T23:19:32Z
+  Updated: 2026-02-03T17:44:45Z
   Total Products: 89
 - [Windshield Protection](https://electruck4x4.com/collections/windshield-protection): Shop windshield wiper blades, fluids, shades, and more for your Rivian, Ford or other electric truck!
   Updated: 2026-01-20T21:48:35Z
   Total Products: 9
 - [Rivian R1T](https://electruck4x4.com/collections/rivian-r1t-accessories): As a specialized provider of Rivian aftermarket accessories, we offer a growing range of products to enhance your R1T. Our collection has been carefully curated to provide you with the best options made specifically for your truck. Whether you're looking to make your truck more rugged, add some extra storage, or just want to personalize your Rivian, we have the perfect accessories for you. Browse our selection below and find the perfect accessory to take your R1T to the next level. Can't find what you are looking for? Check out our catered selection of universal accessories, which will also fit your Rivian!
-  Updated: 2026-01-27T23:19:32Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 163
 - [Rivian R1S](https://electruck4x4.com/collections/rivian-r1s-accessories): Our collection of R1S accessories includes everything you need to enhance your electric SUV, from wheels and jack pucks, to screen protectors, paint protection films (PPF) and more. Whether you're looking to customize, maintain, or protect your R1S, we have the perfect accessories for you. Can't find what you are looking for? Just because it wasn't made specifically for the Rivian R1S doesn't mean the aftermarket doesn't already have you covered. Check out our full selection of universal accessories that might also suit your needs.
-  Updated: 2026-01-27T23:19:32Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 98
 - [Non-Vehicle Specific](https://electruck4x4.com/collections/universal-accessories)
-  Updated: 2026-01-27T23:31:33Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 210
 - [Racks and Covers](https://electruck4x4.com/collections/cargo-racks): Explore the great outdoors with style and adventure when you outfit your EV with our collection of racks and cargo accessories from brands like BuiltRite, Kuat, Rhino Rack, ARB, and more. Our selection of rugged and stylish gear is designed to enhance your electric vehicle's capabilities and make your next road trip or camping excursion unforgettable. From BuiltRite's sleek and sturdy molle panels, to Kuat's versatile bike racks, our collection has everything you need to make the most of your electric vehicle's cargo capacity. Upgrade your truck with our collection of Rivian accessories today and discover the world in a whole new way.
   Updated: 2026-01-26T20:23:46Z
   Total Products: 8
 - [New and Featured Products](https://electruck4x4.com/collections/featured-products)
-  Updated: 2026-01-26T20:23:46Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 57
 - [Electronics](https://electruck4x4.com/collections/electronics)
   Updated: 2026-01-20T21:48:35Z
   Total Products: 9
 - [S00nish Stuff](https://electruck4x4.com/collections/s00nish-stuff)
-  Updated: 2026-01-20T21:48:35Z
+  Updated: 2026-02-01T12:13:00Z
   Total Products: 10
 - [Camping & Outdoors](https://electruck4x4.com/collections/camping)
   Updated: 2026-01-22T18:42:18Z
@@ -2355,19 +2341,19 @@
   Updated: 2026-01-22T18:42:56Z
   Total Products: 26
 - [Megawatt™ Products](https://electruck4x4.com/collections/megawatt™-products)
-  Updated: 2026-01-27T23:34:34Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 12
 - [Charging](https://electruck4x4.com/collections/charging)
-  Updated: 2026-01-27T12:10:57Z
-  Total Products: 8
+  Updated: 2026-02-03T17:50:07Z
+  Total Products: 9
 - [Non- Items](https://electruck4x4.com/collections/non--items)
-  Updated: 2026-01-21T12:12:40Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 1
 - [Tesla](https://electruck4x4.com/collections/tesla)
-  Updated: 2026-01-27T11:19:28Z
+  Updated: 2026-02-03T17:44:45Z
   Total Products: 129
 - [Cybertruck](https://electruck4x4.com/collections/cybertruck-1)
-  Updated: 2026-01-27T11:19:28Z
+  Updated: 2026-02-03T17:44:45Z
   Total Products: 129
 - [Tents, Awnings, and Accessories](https://electruck4x4.com/collections/tents-awnings-and-accessories)
   Updated: 2026-01-26T19:44:09Z
@@ -2379,7 +2365,7 @@
   Updated: 2026-01-26T19:32:43Z
   Total Products: 110
 - [Universal Fit](https://electruck4x4.com/collections/universal-fit)
-  Updated: 2026-01-27T23:31:33Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 210
 - [Shop by Category](https://electruck4x4.com/collections/shop-by-category)
   Updated: 2026-01-26T19:32:43Z
@@ -2424,13 +2410,13 @@
   Updated: 2026-01-22T18:40:03Z
   Total Products: 11
 - [Exterior Accessories](https://electruck4x4.com/collections/exterior-accessories)
-  Updated: 2026-01-26T20:23:46Z
+  Updated: 2026-02-01T12:13:00Z
   Total Products: 354
 - [Paint Protection, Vinyl, and Covers](https://electruck4x4.com/collections/paint-protection-and-armor)
   Updated: 2026-01-27T23:19:32Z
   Total Products: 88
 - [Racks and Tie-downs](https://electruck4x4.com/collections/racks-and-tie-downs)
-  Updated: 2026-01-23T22:14:47Z
+  Updated: 2026-01-29T03:17:44Z
   Total Products: 44
 - [Roof/Hitch-mounted Cargo](https://electruck4x4.com/collections/roof-hitch-mounted-cargo-cases)
   Updated: 2026-01-20T21:48:37Z
@@ -2439,7 +2425,7 @@
   Updated: 2026-01-20T21:48:37Z
   Total Products: 15
 - [Truck Bed Accessories](https://electruck4x4.com/collections/truck-bed-accessories)
-  Updated: 2026-01-20T21:48:37Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 14
 - [Bed Caps & Covers](https://electruck4x4.com/collections/bed-caps-covers)
   Updated: 2026-01-20T21:48:37Z
@@ -2460,7 +2446,7 @@
   Updated: 2026-01-22T18:42:56Z
   Total Products: 24
 - [Protection & Accents](https://electruck4x4.com/collections/protection-accents)
-  Updated: 2026-01-25T12:11:16Z
+  Updated: 2026-02-03T17:44:45Z
   Total Products: 20
 - [Comfort and Convenience](https://electruck4x4.com/collections/comfort-and-convenience)
   Updated: 2026-01-20T21:48:37Z
@@ -2487,13 +2473,13 @@
   Updated: 2026-01-27T23:19:32Z
   Total Products: 11
 - [All Products](https://electruck4x4.com/collections/all-products)
-  Updated: 2026-01-27T23:31:33Z
-  Total Products: 1038
+  Updated: 2026-02-03T17:58:35Z
+  Total Products: 1040
 - [Power and Energy](https://electruck4x4.com/collections/power-and-energy)
-  Updated: 2026-01-27T12:10:57Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 55
 - [Rock Sliders & Trail Protection](https://electruck4x4.com/collections/trail-protection-and-armor)
-  Updated: 2026-01-21T12:12:40Z
+  Updated: 2026-02-03T12:13:13Z
   Total Products: 5
 - [Interior Lights & Switches](https://electruck4x4.com/collections/interior-lights-switches)
   Updated: 2026-01-20T21:48:38Z
@@ -2505,16 +2491,16 @@
   Updated: 2026-01-27T23:31:23Z
   Total Products: 14
 - [New Arrivals](https://electruck4x4.com/collections/new-arrivals)
-  Updated: 2026-01-20T21:48:38Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 21
 - [Labor Day Specials](https://electruck4x4.com/collections/labor-day-specials)
-  Updated: 2026-01-27T23:19:32Z
+  Updated: 2026-01-30T12:11:04Z
   Total Products: 9
 - [Free Jack Puck with the Purchase of Any A2ZEV Product](https://electruck4x4.com/collections/a2z-ev-charging-products)
-  Updated: 2026-01-27T12:10:57Z
+  Updated: 2026-01-28T12:11:31Z
   Total Products: 3
 - [Hot Deals on Megawatt™ Products](https://electruck4x4.com/collections/megawatt™-black-friday-cyber-monday-)
-  Updated: 2026-01-27T23:34:34Z
+  Updated: 2026-01-30T12:11:04Z
   Total Products: 7
 - [Save Big on Already Discounted  Items](https://electruck4x4.com/collections/-copy): Save Big on Already Discounted  Items
   Updated: 2026-01-27T23:19:32Z
@@ -2526,7 +2512,7 @@
   Updated: 2026-01-20T21:48:38Z
   Total Products: 1
 - [Off-road Tools & Gear](https://electruck4x4.com/collections/off-road-maintenance-copy): Take if off road and on the trail with these tough as nails accessories
-  Updated: 2026-01-20T21:48:38Z
+  Updated: 2026-02-01T12:13:00Z
   Total Products: 21
 - [Camping & Outdoor Supplies](https://electruck4x4.com/collections/camping-outdoors)
   Updated: 2026-01-22T18:42:18Z
@@ -2611,7 +2597,7 @@
 - [Community](https://electruck4x4.com/pages/community)
   Updated: 2025-04-15T20:56:38Z
 - [Your Privacy Choices](https://electruck4x4.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-06-25T17:56:34Z
+  Updated: 2026-01-28T15:25:08Z
 
 ## Policies
 
