@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-08T10:05:42Z
 - Contact Email: support@trailtride.com
-- Updated At: 2026-01-26T12:01:14.830Z
+- Updated At: 2026-02-04T00:00:32.274Z
 
 ## Products
 
@@ -60,14 +60,14 @@
     Image: https://cdn.shopify.com/s/files/1/0944/2924/9847/files/1_4d7fb40b-72c6-4ef0-8bc7-4528a6bb1709.png?v=1765807045
     Price: $23.59 USD
 - [3800W High-Power Camp Stove for Powerful Outdoor Cooking](https://trailtride.com/products/3800w-dual-core-infrared-camp-stove): High-output 3800W infrared camp stove with stable support, wind-resistant flame, and compact foldable design. Built for serious outdoor cooking.
-  Updated: 2026-01-26T11:29:03Z
+  Updated: 2026-02-03T20:21:30Z
   Vendor: Trailtride
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0944/2924/9847/files/1_7f188d22-847a-4194-9cae-3e287a573583.png?v=1767534114
+  Image: https://cdn.shopify.com/s/files/1/0944/2924/9847/files/1_421946cc-e6c0-4a84-a7df-498ada684428.png?v=1769609969
   Price: $59.65 USD
 - [Emergency 14-in-1 Multi-Tool for Home, Car & Outdoor Use](https://trailtride.com/products/emergency-14-in-1-multi-tool): A compact 14-in-1 emergency multi-tool built for everyday problems and unexpected situations. Ideal for home, car, and outdoor readiness.
-  Updated: 2026-01-15T15:56:30Z
+  Updated: 2026-02-02T21:43:52Z
   Vendor: Trailtride
   Product Type: 
   Availability: Available
@@ -91,7 +91,7 @@
 ## Collections
 
 - [Stoves & Grills for Outdoor Cooking | Camp-Ready Heat Gear](https://trailtride.com/collections/stoves-grills): Reliable stoves and grills built for camping, outdoor cooking, and camp life. Designed for stable heat, simple use, and real-world setups.
-  Updated: 2026-01-25T12:16:38Z
+  Updated: 2026-02-03T12:18:26Z
   Total Products: 2
 - [Drinkware for Camping & Outdoor Life | Built for Everyday Use](https://trailtride.com/collections/drinkware): Durable drinkware designed for camping, travel, and everyday outdoor life. Simple, reliable pieces made to go wherever you do.
   Updated: 2026-01-20T15:13:06Z
@@ -103,13 +103,13 @@
   Updated: 2026-01-19T14:02:02Z
   Total Products: 2
 - [New arrivals](https://trailtride.com/collections/new-arrivals)
-  Updated: 2026-01-25T12:16:38Z
+  Updated: 2026-02-03T12:18:26Z
   Total Products: 10
 - [Camp Cooking Essentials | Stoves, Mugs & Outdoor Cooking Gear](https://trailtride.com/collections/camp-cooking): A curated collection of camp cooking gear made for outdoor living—simple tools for cooking, sharing meals, and slow moments outside.
-  Updated: 2026-01-25T12:16:38Z
+  Updated: 2026-02-03T12:18:26Z
   Total Products: 10
 - [EDC & Essential Tools | Everyday Carry & Emergency Gear](https://trailtride.com/collections/edc-essential-tools): Explore EDC & Essential Tools built for everyday carry, outdoor use, and emergency situations. Compact, reliable tools you can trust when it matters most.
-  Updated: 2026-01-25T03:34:45Z
+  Updated: 2026-02-03T12:18:26Z
   Total Products: 1
 - [Camp Furniture | Portable Tables & Chairs for Outdoor Living](https://trailtride.com/collections/camp-furniture): Discover compact camp furniture including camping tables and chairs. Designed for portability, stability, and comfort outdoors and at home.
   Updated: 2026-01-25T03:34:33Z
@@ -142,6 +142,22 @@
     Updated: 2025-12-19T07:42:46Z
     Author: liyonghan
     Tags: camp life, camp lifestyle, campsite living, family camping, outdoor gatherings, slow outdoor living, TrailTride
+  - [“Best 3800W Infrared Camp Stove for Outdoor Cooking & Tea (2025 Guide)”](https://trailtride.com/blogs/discover/best-3800w-infrared-camp-stove-for-outdoor-cooking-tea-2025-guide): <p>The 3800W Dual-Core Infrared Camp Stove is designed for campers who need fast, stable, and fuel-efficient outdoor cooking.</p>
+<p>Using infrared heating technology and a dual-core burner system, this camp stove delivers even heat distribution, strong wind resistance, and rapid boiling—ideal for tea brewing, outdoor meals, and minimalist camping setups.<br></p>
+    Updated: 2026-01-28T10:10:13Z
+    Author: liyonghan
+    Tags: #camping stove for everyday life, #family camping stove, #Safe, camp cooking, camp cooking gear
+  - [14-in-1 Emergency Multi Tool — The Pocket-Sized Fix for Every Situation](https://trailtride.com/blogs/discover/14-in-1-emergency-multi-tool-the-pocket-sized-fix-for-every-situation): <ul>
+<li data-start="2566" data-end="2653">
+<p data-start="2568" data-end="2653"><strong data-start="2578" data-end="2653">14-in-1 Emergency Multi Tool — The Pocket-Sized Fix for Every Situation</strong></p>
+</li>
+<li data-start="2655" data-end="2711">
+<p data-start="2657" data-end="2711">URL slug：</p>
+</li>
+</ul>
+<p>https://trailtride.com/products/emergency-14-in-1-multi-tool<br><br>Meta description：<br data-start="2732" data-end="2735">Compact 14-in-1 stainless steel multi-tool for camping, travel, home repair and emergencies. Pocket-sized, durable, always ready.</p>
+    Updated: 2026-01-28T12:01:33Z
+    Author: liyonghan
 - [Stainless steel alcohol stove](https://trailtride.com/blogs/alcoholstove1)
   - [5 Reasons Every Emergency Kit Needs a Heavy-Duty Stove | Cooking Tips](https://trailtride.com/blogs/alcoholstove1/emergency-kit-real-stove-reasons): 5 Reasons Every Emergency Kit Needs a Heavy-Duty Stove | Cooking Tips
     Updated: 2025-12-01T07:47:51Z
@@ -166,13 +182,15 @@
   Updated: 2026-01-07T15:34:46Z
 - [INTELLECTUAL PROPERTY RIGHTS](https://trailtride.com/pages/intellectual-property-rights)
   Updated: 2026-01-12T11:31:12Z
+- [90-Day Replacement](https://trailtride.com/pages/90-day-replacement): At Trailtride, we stand behind the craftsmanship of our products. To ensure you have the best experience possible, we offer a 90-day replacement gu...
+  Updated: 2026-01-29T04:01:01Z
 
 ## Policies
 
 - [Privacy Policy](https://trailtride.com/policies/privacy-policy)
   Updated: 2026-01-25T05:58:34-08:00
 - [Shipping Policy](https://trailtride.com/policies/shipping-policy)
-  Updated: 2026-01-25T05:47:55-08:00
+  Updated: 2026-02-01T23:34:55-08:00
 - [Refund Policy](https://trailtride.com/policies/refund-policy)
   Updated: 2026-01-24T02:18:29-08:00
 - [Terms of Service](https://trailtride.com/policies/terms-of-service)
