@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-03T11:00:45Z
 - Contact Email: homebrandsitaalexandraofficial@gmail.com
-- Updated At: 2026-01-26T00:00:38.373Z
+- Updated At: 2026-02-04T00:00:41.634Z
 
 ## Products
 
@@ -2668,6 +2668,447 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/CECD2297731EA70D926B2730F017F524.jpg?v=1766178332
     Price: £85.03 GBP
+- [Double Woolen Woman's Upmarket Coat One Shoulder Overcoat Female New Fashion Temperament Women's Popular Woolen Coat](https://homebrandsitaalexandra.com/products/double-woolen-womans-upmarket-coat-one-shoulder-overcoat-female-new-fashion-temperament-womens-popular-woolen-coat): Fabric material: woolMain material content of fabric: 31% (inclusive) - 50% (inclusive)Fabric: WoolPattern: solid colorStyle: StreetStreet: Europe and AmericaColor classification: ancient potterySleeves: RegularLining pattern: solid colorSleeve length: long sleeveLength: medium length Size(CM) S M Bust 92 96 Waist 90 94 Hip 105 109 Hem 134 138 Sleeve length (left) 60 61 Sleeve length (right) 54 54.5 Rear middle length 119 120 Tips: MM can refer to the above information to choose their own size! There may be 2-3cm slight error when the size chart is measured manually. Showcase The Model and ProductModel measurements : Height 180cm, bust 80cm waist 62cm hip 88cm. The following pictures are real. If in doubt, please consult,thank you.Fabrics and DetailsFabric：80% Wool & 20% Polyester
+  Updated: 2026-01-30T05:16:04Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/CAB2E50AD9357ED075FA39EC46327856.jpg?v=1769750029
+  - [Coral Red / S](https://homebrandsitaalexandra.com/products/double-woolen-womans-upmarket-coat-one-shoulder-overcoat-female-new-fashion-temperament-womens-popular-woolen-coat?variant=52135944520027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/31B0100E508294280D2DC04CF96725F7.jpg?v=1769750047
+    Price: £614.74 GBP
+  - [Coral Red / M](https://homebrandsitaalexandra.com/products/double-woolen-womans-upmarket-coat-one-shoulder-overcoat-female-new-fashion-temperament-womens-popular-woolen-coat?variant=52135944552795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/8C45D19EE727452580AC1676FFCEE210.jpg?v=1769750050
+    Price: £614.74 GBP
+- [X-Long Fake Leather Trench Coats Women Slim Belt Waist Back High Cut Up Long Sleeve Chocolate Faux Leather Jackets Women](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women): Unit: centimeters Size Shoulder chest raglan sleeves length
+  Updated: 2026-01-30T05:16:13Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  - [chocolate / S](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women?variant=52135944618331)
+    Availability: Available
+    Price: £629.88 GBP
+  - [chocolate / M](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women?variant=52135944651099)
+    Availability: Available
+    Price: £629.88 GBP
+  - [chocolate / L](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women?variant=52135944683867)
+    Availability: Available
+    Price: £629.88 GBP
+  - [black / S](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women?variant=52135944716635)
+    Availability: Available
+    Price: £629.88 GBP
+  - [black / M](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women?variant=52135944749403)
+    Availability: Available
+    Price: £629.88 GBP
+  - [black / L](https://homebrandsitaalexandra.com/products/x-long-fake-leather-trench-coats-women-slim-belt-waist-back-high-cut-up-long-sleeve-chocolate-faux-leather-jackets-women?variant=52135944782171)
+    Availability: Available
+    Price: £629.88 GBP
+- [AEL Belt Down Jacket Women Winter Irregular Long Coat Fashion Parka Lady Streetwear High Quality](https://homebrandsitaalexandra.com/products/ael-belt-down-jacket-women-winter-irregular-long-coat-fashion-parka-lady-streetwear-high-quality): Size ChartPlease allow 1-2CM differs due to manual measurement.1CM = 0.39 Inch1 Inch= 2.54 CMSizes (unit:CM)Shoulder 41; Bust 100; Sleeve 65; Length 99cm; Product InformationMaterial Fabric: 100% spandexWhite duck down: 450gStyle: Down JacketsPattern: SolidOccasion: streetColour: black,Cream
+  Updated: 2026-01-30T05:18:48Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/56A5821ABF6E1A88CAEF240E49A8AA36.jpg?v=1769750123
+  - [Beige / One Size](https://homebrandsitaalexandra.com/products/ael-belt-down-jacket-women-winter-irregular-long-coat-fashion-parka-lady-streetwear-high-quality?variant=52135944847707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/AA398875DF6BA53D962915C12FBE9F91.jpg?v=1769750140
+    Price: £621.22 GBP
+  - [Black / One Size](https://homebrandsitaalexandra.com/products/ael-belt-down-jacket-women-winter-irregular-long-coat-fashion-parka-lady-streetwear-high-quality?variant=52135944880475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/AE6993939E214536AB71D3E41C98D499.jpg?v=1769750142
+    Price: £621.22 GBP
+- [Retro black and white plaid cut double breasted wool coat with cotton clip and belt, autumn new loose wool jacket for women's fashion](https://homebrandsitaalexandra.com/products/retro-black-and-white-plaid-cut-double-breasted-wool-coat-with-cotton-clip-and-belt-autumn-new-loose-wool-jacket-for-womens-fashion): Tasteful clothes will let you exude inner charm and change your life. My task is to show them out and bring them to you!SIZE (Unit: CM):S,M,L(1 inch = 2.54 cm, 1 cm = 0.39 inch)S Bust:100CM Length:117CM Shoulder:42CM Sleeve:58CMM Bust:104CM Length:118CM Shoulder:43CM Sleeve:59CM L Bust:108CM Length:119CM Shoulder:44CM Sleeve:60CM
+  Updated: 2026-01-30T05:17:02Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  - [Black with Belt / S](https://homebrandsitaalexandra.com/products/retro-black-and-white-plaid-cut-double-breasted-wool-coat-with-cotton-clip-and-belt-autumn-new-loose-wool-jacket-for-womens-fashion?variant=52135945371995)
+    Availability: Available
+    Price: £782.64 GBP
+  - [Black with Belt / M](https://homebrandsitaalexandra.com/products/retro-black-and-white-plaid-cut-double-breasted-wool-coat-with-cotton-clip-and-belt-autumn-new-loose-wool-jacket-for-womens-fashion?variant=52135945404763)
+    Availability: Available
+    Price: £782.64 GBP
+  - [Black with Belt / L](https://homebrandsitaalexandra.com/products/retro-black-and-white-plaid-cut-double-breasted-wool-coat-with-cotton-clip-and-belt-autumn-new-loose-wool-jacket-for-womens-fashion?variant=52135945437531)
+    Availability: Available
+    Price: £782.64 GBP
+- [16AR Customized  Women Black Ostrich Feather Trimmed Sleeve Cut-out Black Midi Party Dress High Quality Evening Wedding Dress](https://homebrandsitaalexandra.com/products/16ar-customized-women-black-ostrich-feather-trimmed-sleeve-cut-out-black-midi-party-dress-high-quality-evening-wedding-dress): Style: PulloverCombination form: single pieceSkirt length: medium length skirtSkirt type: A-line skirtCollar type: U-neckSleeve type: regular sleeveSleeve length: long sleeveMain fabric composition: polyester (polyester)Main fabric content: above 95%Style: English style, elegant style We use South African ostrich feathers to make our dresses,hand sewn.We can customize according to your body size
+  Updated: 2026-01-30T05:17:02Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/554030CD76E06EDAF3678E16754E931E.jpg?v=1769750187
+  - [Multi feather / 6](https://homebrandsitaalexandra.com/products/16ar-customized-women-black-ostrich-feather-trimmed-sleeve-cut-out-black-midi-party-dress-high-quality-evening-wedding-dress?variant=52135945896283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/F269109BF99869626F030774A7D2735F.jpg?v=1769750200
+    Price: £469.56 GBP
+  - [Multi feather / 8](https://homebrandsitaalexandra.com/products/16ar-customized-women-black-ostrich-feather-trimmed-sleeve-cut-out-black-midi-party-dress-high-quality-evening-wedding-dress?variant=52135945929051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/0EE37575EE29FABCD8E47F207CFEAF31.jpg?v=1769750203
+    Price: £469.56 GBP
+  - [Multi feather / 10](https://homebrandsitaalexandra.com/products/16ar-customized-women-black-ostrich-feather-trimmed-sleeve-cut-out-black-midi-party-dress-high-quality-evening-wedding-dress?variant=52135945961819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/7AA13DA143A1032678EC4B5576C09EFC.jpg?v=1769750206
+    Price: £469.56 GBP
+  - [Multi feather / 12](https://homebrandsitaalexandra.com/products/16ar-customized-women-black-ostrich-feather-trimmed-sleeve-cut-out-black-midi-party-dress-high-quality-evening-wedding-dress?variant=52135945994587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/BA45815C317A7417F52DF1F4380ACCC6.jpg?v=1769750209
+    Price: £469.56 GBP
+- [Retro Large Lapel White Tweed Jacket Female Winter New Waist Lacing Tweed Coat](https://homebrandsitaalexandra.com/products/retro-large-lapel-white-tweed-jacket-female-winter-new-waist-lacing-tweed-coat): Fabric material: woolSize: S M LFabric: WoolPattern: solid colorStyle: StreetCollar: OtherFront placket: lace upColor classification: off whiteSleeves: RegularLining pattern: solid colorMain material content of fabric: 95% or moreSleeve length: long sleeveLength: medium lengthClothing version: slimPopular element/craft: lace upSize ChartPlease allow 1-2CM differs due to manual measurement.1CM = 0.39 Inch1 Inch= 2.54 CMSizes (unit:CM)S: Bust 106; Waist 108; Sleeve 71; Length 112cm;M: Bust 110; Waist 112; Sleeve 73; Length 113cm;L: Bust 114; Waist 116; Sleeve 74; Length 114cm; Product InformationMaterial Fabric: 100% woolStyle: wool coatPattern: SolidOccasion: streetColour: Cream
+  Updated: 2026-01-30T05:17:34Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C4525BBAE38A873D5535C15C8144B096.jpg?v=1769750210
+  - [Ivory / S](https://homebrandsitaalexandra.com/products/retro-large-lapel-white-tweed-jacket-female-winter-new-waist-lacing-tweed-coat?variant=52135946092891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C966FDFF5C68D3DD1F6BC3284F8488D4.jpg?v=1769750225
+    Price: £462.62 GBP
+  - [Ivory / M](https://homebrandsitaalexandra.com/products/retro-large-lapel-white-tweed-jacket-female-winter-new-waist-lacing-tweed-coat?variant=52135946125659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D25D80B52405C74F25F61772843D251B.jpg?v=1769750227
+    Price: £462.62 GBP
+  - [Ivory / L](https://homebrandsitaalexandra.com/products/retro-large-lapel-white-tweed-jacket-female-winter-new-waist-lacing-tweed-coat?variant=52135946158427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/8A8AB23852F7AA2EC9C8FDC552F738EA.jpg?v=1769750230
+    Price: £462.62 GBP
+- [Tote Wool Long Coat ANNECY Series Wool Greatcoat Silhouette Side Slit Lapel Long Coat For Women Arrival Spring](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring): Main fabric composition: cashmereComposition of main fabric: 80% (excluded) - 90% (included)Pattern: solid colorThickness: mediumVersion: straight cylinderLength: long (80cm
+  Updated: 2026-01-30T05:17:50Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C459FCACEFD40EBE9E259FF57B9EAA1E.jpg?v=1769750236
+  - [Black / S](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring?variant=52135946223963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/1F4F0668CC0A3DB1B7E9AA0E59C16F01.jpg?v=1769750244
+    Price: £401.44 GBP
+  - [Black / M](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring?variant=52135946256731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/AC77E8E608D8ABF45B3369C1DD82ECEA.jpg?v=1769750247
+    Price: £401.44 GBP
+  - [Black / L](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring?variant=52135946289499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C031FCD363FD9F58BB0850BE657889FE.jpg?v=1769750250
+    Price: £401.44 GBP
+  - [Gray / S](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring?variant=52135946322267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/637B4B6D74A22965DEF41B23DE92B2C5.jpg?v=1769750253
+    Price: £401.44 GBP
+  - [Gray / M](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring?variant=52135946355035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/836AA9DF06C38BCB8D35DA3A89BE1214.jpg?v=1769750255
+    Price: £401.44 GBP
+  - [Gray / L](https://homebrandsitaalexandra.com/products/tote-wool-long-coat-annecy-series-wool-greatcoat-silhouette-side-slit-lapel-long-coat-for-women-arrival-spring?variant=52135946387803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/20023B0BA93AF280842B20F256C43540.jpg?v=1769750257
+    Price: £401.44 GBP
+- [French White Double-Sided Suiting Slim Waist Woolen Coat Winter Premium Woolen Coat](https://homebrandsitaalexandra.com/products/french-white-double-sided-suiting-slim-waist-woolen-coat-winter-premium-woolen-coat): Fabric Material: WoolSize: S MFabric: WoolPattern: Solid ColorStyle: StreetCollar: OtherFront Placket: lace upColor classification: white, dark grey, greenSleeves: RegularLining pattern: solid colorMain material content of fabric: 71% (inclusive) - 80% (inclusive)Sleeve length: long sleeveLength: medium lengthPopular element/process: bandageSize ChartPlease allow 1-2CM differs due to manual measurement.1CM = 0.39 Inch1 Inch= 2.54 CMSizes (unit:CM)S: Shoulder 64; Bust 103; Sleeve 48; Length 119cm;M: Shoulder 57; Bust 117; Sleeve 49; Length 120cm; Product InformationMaterial Fabric: 80% wool, 20% nylonStyle: wool coats Pattern: SolidOccasion: streetColour: white, brownish-green
+  Updated: 2026-01-30T05:18:23Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/DF5D7F676F6EE33CEF342002FF616FB4.jpg?v=1769750259
+  - [brownish-green / S](https://homebrandsitaalexandra.com/products/french-white-double-sided-suiting-slim-waist-woolen-coat-winter-premium-woolen-coat?variant=52135947108699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/40B571E69DE2CDA6BC2D0A6561AD480A.jpg?v=1769750275
+    Price: £419.88 GBP
+  - [brownish-green / M](https://homebrandsitaalexandra.com/products/french-white-double-sided-suiting-slim-waist-woolen-coat-winter-premium-woolen-coat?variant=52135947141467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/501B30B90956518F2CAD60DA8D34046D.jpg?v=1769750279
+    Price: £419.88 GBP
+  - [White / S](https://homebrandsitaalexandra.com/products/french-white-double-sided-suiting-slim-waist-woolen-coat-winter-premium-woolen-coat?variant=52135947174235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/B9E2601B4CAFDABDABCA3AE4E1F8B679.jpg?v=1769750282
+    Price: £419.88 GBP
+  - [White / M](https://homebrandsitaalexandra.com/products/french-white-double-sided-suiting-slim-waist-woolen-coat-winter-premium-woolen-coat?variant=52135947207003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/3F4BE3F3AFBB8C6370FDEC5454AD774D.jpg?v=1769750284
+    Price: £419.88 GBP
+- [AEL Fashion Oversized Women Double Face Cloak Woolen Coat 2018 Hight Quality with Lengthen Thickening Keep Warm Winter Overcoat](https://homebrandsitaalexandra.com/products/ael-fashion-oversized-women-double-face-cloak-woolen-coat-2018-hight-quality-with-lengthen-thickening-keep-warm-winter-overcoat): INFO/SIZE Fabric: Washing method: Recommended dry cleaning Elasticity:Tiny Middle Great Thickness: Thin Middle Thick Model: taut moderate Loose Length: Short Routine Long NOTE:Because of the different methods of measurement,The goods size you receive may have a slight difference with the data in the form,Not quality problems,Please understand! -Size--Shoulder--Bust--Waist--Sleeve--Length--S-39cm122cm132cm--118cm-M-40cm126cm136cm--119cm-L FASHION TRENDS
+  Updated: 2026-01-30T05:18:49Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/91181002DBF714EB1F7305BF1005192D.jpg?v=1769750294
+  - [Khaki / S](https://homebrandsitaalexandra.com/products/ael-fashion-oversized-women-double-face-cloak-woolen-coat-2018-hight-quality-with-lengthen-thickening-keep-warm-winter-overcoat?variant=52135947272539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C40A32072D2DF5FDF02212512C0D2B6A.jpg?v=1769750310
+    Price: £400.70 GBP
+  - [Khaki / M](https://homebrandsitaalexandra.com/products/ael-fashion-oversized-women-double-face-cloak-woolen-coat-2018-hight-quality-with-lengthen-thickening-keep-warm-winter-overcoat?variant=52135947305307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C40A32072D2DF5FDF02212512C0D2B6A.jpg?v=1769750310
+    Price: £400.70 GBP
+- [Fashion Woman Cashmere Coat Thick Cardigan Elegant New  Autumn Scarf Collar Double Breasted Solid Color](https://homebrandsitaalexandra.com/products/fashion-woman-cashmere-coat-thick-cardigan-elegant-new-autumn-scarf-collar-double-breasted-solid-color): Main fabric composition: woolMain Fabric Component 2: Camel FleeceTasteful clothes will let you exude inner charm and change your life. My task is to show them out and bring them to you!SIZE (Unit: CM):S,M(1 inch = 2.54 cm, 1 cm = 0.39 inch) S Bust:120 Length:84 Sleeve:84 M Bust:124 Length:85 Sleeve:85
+  Updated: 2026-01-30T05:19:06Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  - [Gray / S](https://homebrandsitaalexandra.com/products/fashion-woman-cashmere-coat-thick-cardigan-elegant-new-autumn-scarf-collar-double-breasted-solid-color?variant=52135947370843)
+    Availability: Available
+    Price: £378.36 GBP
+  - [Gray / M](https://homebrandsitaalexandra.com/products/fashion-woman-cashmere-coat-thick-cardigan-elegant-new-autumn-scarf-collar-double-breasted-solid-color?variant=52135947403611)
+    Availability: Available
+    Price: £378.36 GBP
+- [Luxury Dress For Women Beautiful Butterfly Shape Design Sequins Mini  Party Vestido New Trendy](https://homebrandsitaalexandra.com/products/luxury-dress-for-women-beautiful-butterfly-shape-design-sequins-mini--party-vestido-new-trendy): Fabric name: CottonMain fabric component 2: Polyester (polyester fiber)
+  Updated: 2026-01-30T05:21:31Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D8FFAF41A7AF9055DAF78C4833924532.jpg?v=1769750337
+  - [Orange Red / S](https://homebrandsitaalexandra.com/products/luxury-dress-for-women-beautiful-butterfly-shape-design-sequins-mini--party-vestido-new-trendy?variant=52135947469147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D8FFAF41A7AF9055DAF78C4833924532.jpg?v=1769750337
+    Price: £341.22 GBP
+  - [Orange Red / M](https://homebrandsitaalexandra.com/products/luxury-dress-for-women-beautiful-butterfly-shape-design-sequins-mini--party-vestido-new-trendy?variant=52135947501915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D8FFAF41A7AF9055DAF78C4833924532.jpg?v=1769750337
+    Price: £341.22 GBP
+  - [Orange Red / L](https://homebrandsitaalexandra.com/products/luxury-dress-for-women-beautiful-butterfly-shape-design-sequins-mini--party-vestido-new-trendy?variant=52135947534683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D8FFAF41A7AF9055DAF78C4833924532.jpg?v=1769750337
+    Price: £341.22 GBP
+- [Original Customized Design Sense Woolen Poncho Coat For Street Photography New Hooded Short Coat For Women In Autumn And Winter](https://homebrandsitaalexandra.com/products/original-customized-design-sense-woolen-poncho-coat-for-street-photography-new-hooded-short-coat-for-women-in-autumn-and-winter): Fabrics and DetailsWool Blend Fabric80% wool and 20% polyester Size ChartPlease allow 1-3CM differs due to manual measurement.1CM = 0.39 Inch1 Inch= 2.54 CMSize (unit:CM)S: shoulder 39; length 82;M: shoulder 40; length 83;L: shoulder 41; length 84;
+  Updated: 2026-01-30T05:20:55Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/5B011455721AC318C5413B0B728F8013.jpg?v=1769750376
+  - [Black / S](https://homebrandsitaalexandra.com/products/original-customized-design-sense-woolen-poncho-coat-for-street-photography-new-hooded-short-coat-for-women-in-autumn-and-winter?variant=52135947600219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/ABAB41C91198A2CF328306204C5BAC49.jpg?v=1769750392
+    Price: £343.34 GBP
+  - [Black / M](https://homebrandsitaalexandra.com/products/original-customized-design-sense-woolen-poncho-coat-for-street-photography-new-hooded-short-coat-for-women-in-autumn-and-winter?variant=52135947632987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/AEEB89D0F71F64255D3C122BE3DF599C.jpg?v=1769750394
+    Price: £343.34 GBP
+  - [Black / L](https://homebrandsitaalexandra.com/products/original-customized-design-sense-woolen-poncho-coat-for-street-photography-new-hooded-short-coat-for-women-in-autumn-and-winter?variant=52135947665755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D5816BDCE70CDB07F55DD7F398D830A9.jpg?v=1769750397
+    Price: £343.34 GBP
+- [100% Wool Woolen Coat With Belt Spring Autumn Jacket For Women Solid With Scarf Warm Fashion Streetwear](https://homebrandsitaalexandra.com/products/100-wool-woolen-coat-with-belt-spring-autumn-jacket-for-women-solid-with-scarf-warm-fashion-streetwear): Fabric material: woolFabric: imitation woolPattern: solid colorStyle: StreetStreet: Europe and AmericaCollar: suit collarFront placket: single breastedColor classification: rose powderSleeves: RegularLining pattern: solid colorMain material content of fabric: 95% or moreSleeve length: long sleeveLength: RegularClothing version: straight cylinderFabrics and Detailswoolen fabric 100% woolSize ChartPlease allow 1-3CM differs due to manual measurement. 1CM = 0.39 Inch 1 Inch= 2.54 CM Size (unit:CM) S: shoulder 51; bust 102; sleeve 60; length 72; M: shoulder 52; bust 106; sleeve 61; length 73; L: shoulder 53; bust 110; sleeve 61; length 74;
+  Updated: 2026-01-30T05:37:49Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/FC809A899371C9D37047861CDB22A214.jpg?v=1769751387
+  - [Pink as picture / S](https://homebrandsitaalexandra.com/products/100-wool-woolen-coat-with-belt-spring-autumn-jacket-for-women-solid-with-scarf-warm-fashion-streetwear?variant=52135953039707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/B7BF676454AC2061893FDEE148239413.jpg?v=1769751405
+    Price: £456.30 GBP
+  - [Pink as picture / M](https://homebrandsitaalexandra.com/products/100-wool-woolen-coat-with-belt-spring-autumn-jacket-for-women-solid-with-scarf-warm-fashion-streetwear?variant=52135953072475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/718FB14082C76EF62FC4718B94C9B6F7.jpg?v=1769751407
+    Price: £456.30 GBP
+  - [Pink as picture / L](https://homebrandsitaalexandra.com/products/100-wool-woolen-coat-with-belt-spring-autumn-jacket-for-women-solid-with-scarf-warm-fashion-streetwear?variant=52135953105243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/B6D0497B493B01CCD7FD0B9854695287.jpg?v=1769751410
+    Price: £456.30 GBP
+- [Explosive leopard print fashion genuine leather sheepskin high-end feeling slim fit suit design sense loose and versatile top](https://homebrandsitaalexandra.com/products/explosive-leopard-print-fashion-genuine-leather-sheepskin-high-end-feeling-slim-fit-suit-design-sense-loose-and-versatile-top): - Color:Image color- Style:Imperial Sister Wind- Pattern Type:Leopard print- Sleeve Length: long sleeve- Material:Sheep skin- Closure Type: Button- Details: Three buttons- Lining Material:other- Collar Type: POLO collar- Hooded: no- Occasion: casual- Gender: Women- Size:unit：CM size bust shoulder sleeve length S 108 49 57 74 M 112 50 58 75 L 116 51 59 76 XL 120 52 60 77
+  Updated: 2026-01-30T05:39:18Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/4FE32CF24444EA6FCB3380BECC56FACE.jpg?v=1769751398
+  - [Image color / S](https://homebrandsitaalexandra.com/products/explosive-leopard-print-fashion-genuine-leather-sheepskin-high-end-feeling-slim-fit-suit-design-sense-loose-and-versatile-top?variant=52135953170779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/2AD47D7A29E43DCFA9FAC08E4060B890.jpg?v=1769751402
+    Price: £552.30 GBP
+  - [Image color / M](https://homebrandsitaalexandra.com/products/explosive-leopard-print-fashion-genuine-leather-sheepskin-high-end-feeling-slim-fit-suit-design-sense-loose-and-versatile-top?variant=52135953203547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/2AD47D7A29E43DCFA9FAC08E4060B890.jpg?v=1769751402
+    Price: £552.30 GBP
+  - [Image color / L](https://homebrandsitaalexandra.com/products/explosive-leopard-print-fashion-genuine-leather-sheepskin-high-end-feeling-slim-fit-suit-design-sense-loose-and-versatile-top?variant=52135953236315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/2AD47D7A29E43DCFA9FAC08E4060B890.jpg?v=1769751402
+    Price: £552.30 GBP
+  - [Image color / XL](https://homebrandsitaalexandra.com/products/explosive-leopard-print-fashion-genuine-leather-sheepskin-high-end-feeling-slim-fit-suit-design-sense-loose-and-versatile-top?variant=52135953269083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/2AD47D7A29E43DCFA9FAC08E4060B890.jpg?v=1769751402
+    Price: £552.30 GBP
+- [High End Customized Gardenia Yellow Big Cuffs Design Double-Sided Wool Coat Autumn And Winter New Women](https://homebrandsitaalexandra.com/products/high-end-customized-gardenia-yellow-big-cuffs-design-double-sided-wool-coat-autumn-and-winter-new-women): Size: S M LPattern: solid colorStyle: StreetStreet: Europe and AmericaCollar: stand collarFront placket: double breastedColor classification: gardenia yellowSleeves: RegularLining pattern: solid colorMain material content of fabric: 31% (inclusive) - 50% (inclusive)Sleeve length: long sleeveLength: LongClothing version: straight cylinderSize ChartPlease allow 1-2CM differs due to manual measurement.1CM = 0.39 Inch1 Inch= 2.54 CMSize (unit:CM)S: Shoulder 39; Bust 100; Sleeve 52; Length 136cm;M: Shoulder 40; Bust 104; Sleeve 53; Length 137cm; Product InformationMaterial Fabric: 80% wool, 20% polyesterStyle: woolen overcoatPattern: SolidOccasion: streetColour: Orange
+  Updated: 2026-01-30T05:38:12Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/E96C14299DD77AE085B599994121F71A.jpg?v=1769751458
+  - [Orange / S](https://homebrandsitaalexandra.com/products/high-end-customized-gardenia-yellow-big-cuffs-design-double-sided-wool-coat-autumn-and-winter-new-women?variant=52135953924443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/90A94E6C12B016543651935F839CC587.jpg?v=1769751473
+    Price: £384.58 GBP
+  - [Orange / M](https://homebrandsitaalexandra.com/products/high-end-customized-gardenia-yellow-big-cuffs-design-double-sided-wool-coat-autumn-and-winter-new-women?variant=52135953957211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/22A0BAE8BE467439CE7BDFE1ABE2356C.jpg?v=1769751476
+    Price: £384.58 GBP
+- [Show High Stitching Collision Color Niche Design Sense Double-Sided Wool Long Coat Female Winter](https://homebrandsitaalexandra.com/products/show-high-stitching-collision-color-niche-design-sense-double-sided-wool-long-coat-female-winter): Size: S M L Pattern: Solid Color Style: Commuting Commuting: Simple Collar: suit collar Front placket: concealed button Color classification: pink Sleeves: Regular Main material content of fabric: 51% (inclusive) - 70% (inclusive) Sleeve length: long sleeve Length: medium length Clothing version: straight cylinder MeasureMeasuring method：Please according with the illustration following to measure your own ,then choose good sizes as against size chart.Size ChartPlease allow 1-3CM differs due to manual measurement. 1CM = 0.39 InchShowcase The Model and ProductModel measurements : Height 180cm, bust 80cm waist 62cm hip 88cm. The following pictures are real. If in doubt, please consult,thank you.Fabrics and DetailsFabric A：80% Wool & 20% Synthetic fiber Fabric B：50% Wool & 50% Synthetic fiber
+  Updated: 2026-01-30T05:45:21Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/BFABCAFB17BE11D79226DB1592179DEC.jpg?v=1769751471
+  - [Pink / S](https://homebrandsitaalexandra.com/products/show-high-stitching-collision-color-niche-design-sense-double-sided-wool-long-coat-female-winter?variant=52135954022747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/331E5FF6DD77712BBE1D2C6A24E24EEF.jpg?v=1769751486
+    Price: £418.48 GBP
+  - [Pink / M](https://homebrandsitaalexandra.com/products/show-high-stitching-collision-color-niche-design-sense-double-sided-wool-long-coat-female-winter?variant=52135954055515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/DFCEACA14161359B18C1D7374DFC2137.jpg?v=1769751488
+    Price: £418.48 GBP
+- [AEL Winter Wool Coat Women's Poncho Jacket Warm Cape Overcoat Long Cloak Outwear Casual Shawl Female](https://homebrandsitaalexandra.com/products/ael-winter-wool-coat-womens-poncho-jacket-warm-cape-overcoat-long-cloak-outwear-casual-shawl-female): Fabric material: woolSize ChartPlease allow 1-2CM differs due to manual measurement.1CM = 0.39 Inch1 Inch= 2.54 CMSizes (unit:CM)One Size: Bust 134; Length 80cm; Product InformationMaterial Fabric: 100% woolStyle: wool coats Pattern: SolidOccasion: streetColour: brown
+  Updated: 2026-01-30T05:39:07Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/328EB4897075F5B7BCE030CCC69C1DF9.jpg?v=1769751483
+  Price: £435.58 GBP
+- [Patchwork Contrast Color Lace-up Wool Coats For Women Vintage Double-side Elegant Overcoat Autumn](https://homebrandsitaalexandra.com/products/patchwork-contrast-color-lace-up-wool-coats-for-women-vintage-double-side-elegant-overcoat-autumn): Material: Wool blend: 50% wool, 50% chemical fiber SIZE (Unit: CM):S-M(1 inch = 2.54 cm, 1 cm = 0.39 inch) S Bust:102 Length:122 Shoulder:56 Sleeve:50 M Bust:106 Length:123 Shoulder:57 Sleeve:51 * NOTE: 1 , As different computers display colors differently, the color of the actual item may vary slightly from the above images.2 , Please allow 1-3 cm error due to manual measurement.Thanks for your understanding.
+  Updated: 2026-01-30T05:39:01Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/C45DDFA51E0E4E26018B2C382EC8691A.jpg?v=1769751510
+  - [Dark Brown / S](https://homebrandsitaalexandra.com/products/patchwork-contrast-color-lace-up-wool-coats-for-women-vintage-double-side-elegant-overcoat-autumn?variant=52135954186587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/355B3CD14F0C206C62E0DDE7724905A1.jpg?v=1769751527
+    Price: £371.98 GBP
+  - [Dark Brown / M](https://homebrandsitaalexandra.com/products/patchwork-contrast-color-lace-up-wool-coats-for-women-vintage-double-side-elegant-overcoat-autumn?variant=52135954219355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/355B3CD14F0C206C62E0DDE7724905A1.jpg?v=1769751527
+    Price: £371.98 GBP
+  - [Light Green / S](https://homebrandsitaalexandra.com/products/patchwork-contrast-color-lace-up-wool-coats-for-women-vintage-double-side-elegant-overcoat-autumn?variant=52135954252123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/BB52783E1791F5950B9053E3012F34B6.jpg?v=1769751530
+    Price: £371.98 GBP
+  - [Light Green / M](https://homebrandsitaalexandra.com/products/patchwork-contrast-color-lace-up-wool-coats-for-women-vintage-double-side-elegant-overcoat-autumn?variant=52135954284891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/BB52783E1791F5950B9053E3012F34B6.jpg?v=1769751530
+    Price: £371.98 GBP
+- [Autumn And Winter New Style Home Handmade Double-Sided Cloth Water Ripple Wool Coat Wool Cashmere Coat Women](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women): Product Information: Fabric: 6.9% cashmere + 93.1% wool Color: deep caramel,black, beige, Sapphire Size: XXS, XS, S, M, L,XL Washing Method: Cold Wash, Hand Wash, Wash Separately, No Soak, No Twist, Dry in Shade, Low Iron. SIZE CHART SIZE (Unit: CM):XXS,XS,S,M,L.XL XXS Bust 104 Length 105 Raglan sleeves 66 XS Bust 106 Length 109 Raglan sleeves 69 S Bust 108 Length 113 Raglan sleeves 72 M Bust 112 Length 115 Raglan sleeves 74 L Bust 116 Length 117 Raglan sleeves 75 XL Bust 120 Length 119 Raglan sleeves 76 Note :(1 inch = 2.54 cm, 1 cm = 0.39 inch) Size recommendation table1. Accessories are not included. 2. We guarantee all pictures are real, please read product description and size chart in case of unnecessary troubles. 3. Color difference is unavoidable, since monitors are not calibrated the same. 4. There may have 1-3cm differences due to manual measurement. Fabric introduction: 6.9% cashmere + 93.1% wool cashmere: Cashmere grows on the outer skin of goats, covering the thick wool of the goat roots. It grows in winter and falls off in spring. Cashmere is a rare animal fiber. An  goat can only produce 10-40 grams of cashmere a year. Hence the title of soft gold.wool: The wool comes from sheep, the texture is delicate and delicate, the lines are clear, and the finished product is crisp. It is deeply loved by customers.Sewing process Sewing process: Purely hand-sewn, which has very high technical requirements for workers. The stitching of each coat needs 3 cm 11-13 stitches, Ensure that the strength of each pull is even. Only in this way can we make exquisite, high-quality double-sided woolen coats.Show Details Model show Model information: height 172 cm, weight 51 kg, shoulder width 39 cm, bust 85 cm, waist 63 cm, hip 88 cm, try on size M. Indoor studio shot renderings:blackSapphireDark green
+  Updated: 2026-01-30T05:40:56Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/97B8BB359E271E2080CB8136C4564666.jpg?v=1769751542
+  - [Deep caramel / XXS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135954940251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/52A5920A887FF2E595C0223EC18819D7.jpg?v=1769751559
+    Price: £352.74 GBP
+  - [Deep caramel / XS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135954973019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/F3858974140B0E2ACCE176D10D480084.jpg?v=1769751562
+    Price: £352.74 GBP
+  - [Deep caramel / S](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955005787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/FFC0EB2BCCBD94777126F0D6C8F66B17.jpg?v=1769751565
+    Price: £352.74 GBP
+  - [Deep caramel / M](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955038555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/AED8522FB0C798D95B9D7822917BE0A1.jpg?v=1769751568
+    Price: £352.74 GBP
+  - [Deep caramel / L](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955071323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/87A384AD8887B97C2E194E5A1E86330C.jpg?v=1769751570
+    Price: £352.74 GBP
+  - [Deep caramel / XL](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955104091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/1F1578E83AA795E83608B4DD41B5A961.jpg?v=1769751573
+    Price: £352.74 GBP
+  - [black / XXS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955136859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/7AA9265EB3911C150C98634858E8D93F.jpg?v=1769751576
+    Price: £352.74 GBP
+  - [black / XS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955169627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/1B355A9FA16050BB1CEF063108A578C6.jpg?v=1769751579
+    Price: £352.74 GBP
+  - [black / S](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955202395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/1B549FEE69EE793F6A543F01AEF8CB5A.jpg?v=1769751582
+    Price: £352.74 GBP
+  - [black / M](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955235163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/12AB535150C3F2A42A7CE41E020B65B0.jpg?v=1769751585
+    Price: £352.74 GBP
+  - [black / L](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955267931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/DAE1B55B6B706B39376BDFEB6B46BBA1.jpg?v=1769751588
+    Price: £352.74 GBP
+  - [black / XL](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955300699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/7E4EDCEF4B19EBE93AE1B7B735961BB1.jpg?v=1769751591
+    Price: £352.74 GBP
+  - [Beige / XXS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955333467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/5058F92CFC2870941D05C4DD37FBF0B6.jpg?v=1769751594
+    Price: £352.74 GBP
+  - [Beige / XS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955366235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/0A81F03841C49E09A61D8B38775CF743.jpg?v=1769751596
+    Price: £352.74 GBP
+  - [Beige / S](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955399003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/80E200EE8AD868F865B69D70174FA67E.jpg?v=1769751600
+    Price: £352.74 GBP
+  - [Beige / M](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955431771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/ECE31F08B0C31DC37E14052746B0BB3A.jpg?v=1769751603
+    Price: £352.74 GBP
+  - [Beige / L](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955464539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/206B99D639ACA32F7507FC4703F796EE.jpg?v=1769751605
+    Price: £352.74 GBP
+  - [Beige / XL](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955497307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/75052A8545FC5589BACFC55243170E8C.jpg?v=1769751608
+    Price: £352.74 GBP
+  - [Sapphire / XXS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955530075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/560EFB7064F32ACD41D2D623748D99AE.jpg?v=1769751611
+    Price: £352.74 GBP
+  - [Sapphire / XS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955562843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/683F707E0C1332582FE54AF5F8C53D6E.jpg?v=1769751614
+    Price: £352.74 GBP
+  - [Sapphire / S](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955595611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/9279E877FD8D406BCD7B994C66350620.jpg?v=1769751617
+    Price: £352.74 GBP
+  - [Sapphire / M](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955628379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/B6344EC73DA861FCBB04068B3DD5114F.jpg?v=1769751619
+    Price: £352.74 GBP
+  - [Sapphire / L](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955661147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/2A151E51E7E47DD54B10224B0A1594EB.jpg?v=1769751622
+    Price: £352.74 GBP
+  - [Sapphire / XL](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955693915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/84DC27DC4CA4925DAB983E877C3FE619.jpg?v=1769751625
+    Price: £352.74 GBP
+  - [Dark green / XXS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955726683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/D77B2DA21043C256BCEE0F92C3C9A72B.jpg?v=1769751628
+    Price: £352.74 GBP
+  - [Dark green / XS](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955759451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/0EBE81A952CADE6B19BC2574D06CE2F5.jpg?v=1769751631
+    Price: £352.74 GBP
+  - [Dark green / S](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955792219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/2830DA098BFA62FC039A4F259D3BD384.jpg?v=1769751634
+    Price: £352.74 GBP
+  - [Dark green / M](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955824987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/6791B2B7812CE1452FD67FAF249C7DB6.jpg?v=1769751637
+    Price: £352.74 GBP
+  - [Dark green / L](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955857755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/F3EE3579BE9D874C8C5BDDB71B03C813.jpg?v=1769751640
+    Price: £352.74 GBP
+  - [Dark green / XL](https://homebrandsitaalexandra.com/products/autumn-and-winter-new-style-home-handmade-double-sided-cloth-water-ripple-wool-coat-wool-cashmere-coat-women?variant=52135955890523)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0977/2282/7099/files/BB75AE8BC54098B7602102BBBE16886A.jpg?v=1769751642
+    Price: £352.74 GBP
 
 ## Collections
 
@@ -2814,6 +3255,18 @@
   - [Discover Unique Printed Fleece Hoodies: A Shopper's Guide to HomebrandSitaAlexandra Online Store for the Best in Cozy Style](https://homebrandsitaalexandra.com/blogs/news/discover-unique-printed-fleece-hoodies-a-shoppers-guide-to-homebrandsitaalexandra-online-store-for-the-best-in-cozy-style): Discover Unique Printed Fleece Hoodies: A Shopper's Guide to HomebrandSitaAlexandra Online Store for the Best in Cozy Style
     Updated: 2026-01-24T07:01:25Z
     Author: HomebrandSitaAlexandra Content Manager
+  - [Enhance Your Winter Wardrobe with Men's Hooded Coats from HomebrandSitaAlexandra Online Store and Discover New Styles on Top Online Shopping Websites](https://homebrandsitaalexandra.com/blogs/news/enhance-your-winter-wardrobe-with-mens-hooded-coats-from-homebrandsitaalexandra-online-store-and-discover-new-styles-on-top-online-shopping-websites): Enhance Your Winter Wardrobe with Men's Hooded Coats from HomebrandSitaAlexandra Online Store and Discover New Styles on Top Online Shopping Websites
+    Updated: 2026-01-26T07:06:45Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Exploring the Perfume Fan: How to Find Maxi Dresses for Women on Online Stores with HomebrandSitaAlexandra Online Shop](https://homebrandsitaalexandra.com/blogs/news/exploring-the-perfume-fan-how-to-find-maxi-dresses-for-women-on-online-stores-with-homebrandsitaalexandra-online-shop): Exploring the Perfume Fan: How to Find Maxi Dresses for Women on Online Stores with HomebrandSitaAlexandra Online Shop
+    Updated: 2026-01-28T07:05:46Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Discover the Perfume Fan Exploring Online Shopping Websites Fashion with HomebrandSitaAlexandra Online Store and Maxi Dresses for Women](https://homebrandsitaalexandra.com/blogs/news/discover-the-perfume-fan-exploring-online-shopping-websites-fashion-with-homebrandsitaalexandra-online-store-and-maxi-dresses-for-women): Discover the Perfume Fan Exploring Online Shopping Websites Fashion with HomebrandSitaAlexandra Online Store and Maxi Dresses for Women
+    Updated: 2026-01-31T07:00:45Z
+    Author: HomebrandSitaAlexandra Content Manager
+  - [Embrace Functional Fashion: Discover the Splicing Bag Single Shoulder Crossbody at HomebrandSitaAlexandra Online Store Through Top Online Shopping Websites](https://homebrandsitaalexandra.com/blogs/news/embrace-functional-fashion-discover-the-splicing-bag-single-shoulder-crossbody-at-homebrandsitaalexandra-online-store-through-top-online-shopping-websites): Embrace Functional Fashion: Discover the Splicing Bag Single Shoulder Crossbody at HomebrandSitaAlexandra Online Store Through Top Online Shopping Websites
+    Updated: 2026-02-02T07:05:08Z
+    Author: HomebrandSitaAlexandra Content Manager
 
 ## Store Pages
 
@@ -2822,7 +3275,7 @@
 - [About Us](https://homebrandsitaalexandra.com/pages/about-us): About Homebrandsitaalexandra Homebrandsitaalexandra is a department store and home to several brands. From Luxury to Affordable Homebrandsitaalexan...
   Updated: 2025-12-05T14:57:30Z
 - [Your Privacy Choices](https://homebrandsitaalexandra.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-15T16:28:19Z
+  Updated: 2026-01-28T16:03:38Z
 
 ## Policies
 
