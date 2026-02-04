@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-12-01T09:42:43Z
 - Contact Email: info@fabufabu.com
-- Updated At: 2026-01-28T00:00:40.980Z
+- Updated At: 2026-02-04T00:00:45.242Z
 
 ## Products
 
@@ -151,11 +151,11 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_d100fa2a-bf15-4848-bc56-ccf3fcf776b2.jpg?v=1768387859
   Price: $19.28 USD
 - [Pearl-Flower Style Earrings](https://fabufabu.com/products/pearl-flower-style-earrings): Fabufabu "Less is More” collection, unique and dreamy design, adds a little romance and cuteness to the monotonous life. High-quality alloy materials are used to carve exquisite florets, and the exquisite electroplating process is matched with pearl-like stud earrings. Simple and stylish design, earrings with gentle temperament. Add casual elegance to you. The surprises in the details also make the earrings light and dazzling as a whole. This earring is a two-way earring, which can be worn alone with pearl earrings. Suitable for the crowd: extremely simple style white-collar office workers, elegant and fashionable women, small and fresh personality Wen Qingfeng students Uses: Valentine's Day gift for girlfriend, graduation gift, friend gift, sisters, girlfriends, earrings, girlfriend gift Dimensions: 16mm x 14mm x 4mm Weight: less than 0.001kg Material: Alloy, zircon; imitation pearl shape: flower  process: electroplating *All products are shipped by Hongkong Post Registered by default, no tracking service*
-  Updated: 2026-01-10T07:43:22Z
+  Updated: 2026-01-29T15:12:15Z
   Vendor: fabufabu design store
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/pearl-flower-style-earringsearringsfabufabu-design-storefabufabu-design-storers1245cover-1c186e94-2ed1-4204-bdc0-4d93cbd58a01-2441914.jpg?v=1768030988
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_0a4009ef-0adf-4f6f-97c2-587d33c2979d.jpg?v=1769655703
   Price: $19.28 USD
 - [Cowhide leather gold ball chain handbag](https://fabufabu.com/products/cowhide-leather-gold-ball-chain-handbag): FASHIONABLE DESIGN ---how people with fashionable design, the design is made of cow leather, with gold ball chains and gold zippers add style. The handbags are equipped with internal zipper compartments and two separate compartments, which are convenient for sorting mobile phones, banknotes, cosmetics, etc., and are matched with golden hanging chains. They are suitable for anniversary parties, thank you banquets, and daily carrying. The design is light and easy to carry, shoulder carry Side back is okay. The design pays special attention to versatility and fashion, so that it can show style. PERFECT PURSE FOR A NICE DATE NIGHT!---Quilted exterior with THICK CHAIN shoulder strap.This designer clutch purse from Montana West is bold without being over the top. It's a classic piece that will look good with practically everything already hanging in your closet. SMALL & COMPACT PHONE PURSE !--- 22cm(L) x 15 cm(H) x 7cm(W) : the interior side pocket is convenient for quick access to your cell phone. There is ample room for your small wallet, lipstick and tissue. Magnetic flap closure will keep your belongings safe and secure. Perfect for a night out or a special event! STURDY & DELICATE& SPACIOUS GOING OUT BAG!---This stylish purse comes in classic black & white. Just pick one of the colorways that match your everyday style best and fill it with your most beloved essentials. Buying more than one will get you everyone's approval. QUALITY MADE ! GREAT GIFT IDEA！--- The exterior is made of durable FAUX LEATHER, comes with wear resistant fabric lining and superior golden hardware accessories. Quality made quilted shoulder bags， It is also a nice gift choice for your families and friends. DETAIL---Cow leather; Golden Ball; Gold zipper; Two separate compartments; Inside zip pocket; Shoulder Straps: Adjustable; Dimensions: 22cm (L), 15 cm (H), 7cm (W); Color: White, Black
   Updated: 2026-01-10T07:43:15Z
@@ -503,6 +503,31 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_blackFrame.png?v=1769490174
     Price: $89.65 USD
+- [Ultra Light Automatic Open Close fibre glass Rain Umbrella](https://fabufabu.com/products/ultra-light-automatic-open-close-fibre-glass-rain-umbrella): Simple design folding Rain Umbrella : Given its initial size, with a closed length of 26cm (10 in) & 4 cm in diameter only . the umbrella is 92cm in diameter and 52.5cm long when opened. This 225g windproof travel umbrella is portable, making it ideal for carrying wherever you go. Umbrella fabric material is high-density polyester fabric with a water-repellent coating repels water, providing excellent coverage and protection from the rain UPF50+ effectively blocks 99% of ultraviolet rays on sunny days while adding a touch of style. frame is aluminum and fiberglass making it extremely durable and stronge. Automatic Open & Close Rain Umbrella: Stay prepared for unexpected weather. With the push of a button, the travel umbrella can quickly open or close, providing immediate rain coverage during any outdoor adventure. Travel with Ease: Our automatic windproof travel umbrella comes with a matching slip on carrying case ensuring convenient storage while on the go. Easily fit this umbrella into any bag, purse or backpack.
+  Updated: 2026-01-28T09:50:17Z
+  Vendor: fabufabu design store
+  Product Type: umbrella
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_bf23061d-fe53-44e6-b44f-01ea2678ee43.jpg?v=1769593595
+  Price: $49.98 USD
+- [Removable Weighted Cordless Jump Rope with Counter](https://fabufabu.com/products/removable-weighted-cordless-jump-rope-with-counter): Cordless Jumping Rop: Equipped with Cordless Jumping Rope, allowing you in any sports scene. Making it easy for beginners and children to exercise. The position of the auxiliary handle is designed with a ladder, ensuring the firmness of the rope during shaking and making the replacement of the rope simple and easy to operate. Comfortable and Anti-slip Handle: The handle is made of a combination of PVC and ABS materials. PVC with a moderate softness is used at the grip position to provide a certain degree of softness and better anti slip performance. During the fitness process, even if there are differences in strength and weight during prolonged exercise, the comfort of the handle and the smoothness of movement can be maintained to the maximum extent. Fitness jump rope with 3 counting modes: The fitness jump rope is equipped with an LCD screen, 2 buttons for resetting to 0, and switching data modes. For example, after skipping rope, you can directly view the jump rope data. If it is the quantity, the button can directly switch between calories, kilometers, and miles, allowing your exercise data to be tracked at any time. Moreover, the counting mode does not require a switch and will automatically turn off after waiting for 5 minutes, which can save electricity more environmentally friendly. Two-way sensing chip design: a new generation of optimized chips, accurate counting for both left and right hands, and high-precision recording of beating data. Rope skipping data can be recorded and analyzed for health management which is resistant to bending and deformation, making your indoor and outdoor skipping rope more durable. Various forms of skipping rope are also suitable as gifts for friends, family, and children.
+  Updated: 2026-02-03T11:39:08Z
+  Vendor: fabufabu design store
+  Product Type: jump rope
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_orange.jpg?v=1770114928
+  - [Orange](https://fabufabu.com/products/removable-weighted-cordless-jump-rope-with-counter?variant=45744481206469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_orange.jpg?v=1770114928
+    Price: $25.60 USD
+  - [Pink](https://fabufabu.com/products/removable-weighted-cordless-jump-rope-with-counter?variant=45744481239237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_pink.jpg?v=1770115076
+    Price: $25.60 USD
+  - [Blue](https://fabufabu.com/products/removable-weighted-cordless-jump-rope-with-counter?variant=45744481272005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4291/4501/files/cover_83f180bc-0eac-4bbe-86d3-298ed63c79b4.jpg?v=1770115094
+    Price: $25.60 USD
 
 ## Collections
 
@@ -537,21 +562,21 @@
   Updated: 2026-01-26T03:52:40Z
   Total Products: 3
 - [Home](https://fabufabu.com/collections/home)
-  Updated: 2026-01-26T03:52:40Z
-  Total Products: 8
+  Updated: 2026-02-03T10:40:01Z
+  Total Products: 9
 - [Man](https://fabufabu.com/collections/man-1)
   Updated: 2026-01-27T05:07:46Z
   Total Products: 6
 - [Outfits](https://fabufabu.com/collections/outfits-1)
-  Updated: 2026-01-26T03:52:40Z
-  Total Products: 4
+  Updated: 2026-01-28T09:49:04Z
+  Total Products: 5
 
 ## Store Pages
 
 - [Contact](https://fabufabu.com/pages/contact)
   Updated: 2025-12-01T09:42:46Z
 - [Your Privacy Choices](https://fabufabu.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-12-01T13:56:31Z
+  Updated: 2026-01-28T18:07:35Z
 - [about fabufabu](https://fabufabu.com/pages/about-fabufabu): about fabufabu Welcome to fabufabu, our mission is to deliver the theme of “Hello! My Planet”. Just like lifestyle, various things are gradually ch...
   Updated: 2025-12-03T10:52:33Z
 
