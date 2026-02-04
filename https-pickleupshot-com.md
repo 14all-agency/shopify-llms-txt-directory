@@ -6,44 +6,42 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-01-27T00:00:38.214Z
+- Updated At: 2026-02-04T00:00:42.898Z
 
 ## Products
 
 - [PickleUp Pro Shot - Pineapple](https://pickleupshot.com/products/pro-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-01-26T10:57:26Z
+  Updated: 2026-02-03T22:41:57Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PUP_PIN_12_Pack_Informed_Sport_1.png?v=1765376274
+  - [Single Serve](https://pickleupshot.com/products/pro-shot?variant=56301633536324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/Single_Shot_with_USPs.png?v=1765376274
+    Price: £4.40 GBP
   - [12 PACK](https://pickleupshot.com/products/pro-shot?variant=55445286355268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PUP_PIN_12_Pack_Informed_Sport_1.png?v=1765376274
     Price: £48.00 GBP
   - [24 PACK](https://pickleupshot.com/products/pro-shot?variant=55445286388036)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PUP_PIN_24_Pack_Informed_Sport_aaaf16af-ec79-4d6f-91ea-aaf6523400a4.png?v=1765376289
     Price: £86.40 GBP
   - [36 PACK](https://pickleupshot.com/products/pro-shot?variant=55445286420804)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/PUP_PIN_36_Pack_Informed_Sport.png?v=1765376354
     Price: £122.40 GBP
-- [PickleUp Pro Pineapple - Sample Shot](https://pickleupshot.com/products/pickleup-pro-pineapple-sample-shot): Try Out The Ultimate Cramp-Crushing Performance Shot. Want to check out how it tastes? Worried it won't work? Try out a single shot and see for yourself. Try The Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp Pro is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-01-16T13:05:42Z
-  Vendor: PickleUp
-  Product Type: 50ml Shot
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/Sample_Shot_Product_Image_1.png?v=1763737601
-  Price: £5.00 GBP
 
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-01-26T12:23:54Z
-  Total Products: 3
+  Updated: 2026-02-03T17:00:46Z
+  Total Products: 1
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-01-26T12:23:54Z
-  Total Products: 3
+  Updated: 2026-02-03T17:00:46Z
+  Total Products: 1
+- [Merch](https://pickleupshot.com/collections/merch)
+  Updated: 2026-02-03T17:00:18Z
+  Total Products: 0
 
 ## Blogs
 
@@ -104,6 +102,9 @@
     Author: Oliver Donohue
   - [PickleUp Achieves Informed Sport Certification](https://pickleupshot.com/blogs/news/pickleup-achieves-informed-sport-certification)
     Updated: 2025-11-26T10:37:48Z
+    Author: Oliver Donohue
+  - [PickleUp Ambassador Alex Welch Finishes 19th at the Arc of Attrition 50 Mile Ultra](https://pickleupshot.com/blogs/news/pickleup-ambassador-alex-welch-finishes-19th-at-the-arc-of-attrition-50-mile-ultra)
+    Updated: 2026-01-28T17:59:32Z
     Author: Oliver Donohue
 - [Ambassadors](https://pickleupshot.com/blogs/ambassadors)
   - [Nat Phillips](https://pickleupshot.com/blogs/ambassadors/test-blog)
