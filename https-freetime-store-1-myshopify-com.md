@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-09T13:53:29Z
 - Contact Email: mohammadshabaz@gmail.com
-- Updated At: 2026-01-28T00:00:33.098Z
+- Updated At: 2026-02-04T00:00:36.213Z
 
 ## Products
 
@@ -173,7 +173,7 @@
 - [Contact](https://freetime-store-1.myshopify.com/pages/contact)
   Updated: 2025-10-09T13:53:31Z
 - [Your Privacy Choices](https://freetime-store-1.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-10-09T13:53:39Z
+  Updated: 2026-01-28T17:54:43Z
 
 ## Policies
 
