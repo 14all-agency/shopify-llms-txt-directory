@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-01-28T00:00:43.021Z
+- Updated At: 2026-02-04T00:00:43.967Z
 
 ## Products
 
@@ -843,13 +843,16 @@
   - [Understanding the Basics of Renewable Energy for a Greener World](https://jones-jm.myshopify.com/blogs/news/understanding-the-basics-of-renewable-energy-for-a-greener-world): Understanding the Basics of Renewable Energy for a Greener World
     Updated: 2026-01-26T00:01:00Z
     Author: User
+  - [How to Start an Eco-Friendly Garden in Your Backyard](https://jones-jm.myshopify.com/blogs/news/how-to-start-an-eco-friendly-garden-in-your-backyard): How to Start an Eco-Friendly Garden in Your Backyard
+    Updated: 2026-02-02T00:00:59Z
+    Author: User
 
 ## Store Pages
 
 - [Contact](https://jones-jm.myshopify.com/pages/contact)
   Updated: 2025-01-12T05:43:14Z
 - [Privacy Policy](https://jones-jm.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-27T02:34:48Z
+  Updated: 2026-01-28T15:58:11Z
 - [llms.txt](https://jones-jm.myshopify.com/pages/llms-txt): This page displays AI-readable information about our store with real-time data.
   Updated: 2025-07-25T01:02:18Z
 
