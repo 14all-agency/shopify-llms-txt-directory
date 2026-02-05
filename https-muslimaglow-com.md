@@ -6,54 +6,54 @@
 - Timezone: Europe/Paris
 - Created At: 2024-09-16T10:54:58Z
 - Contact Email: contact@muslimaglow.com
-- Updated At: 2026-01-28T00:00:35.106Z
+- Updated At: 2026-02-05T00:00:37.947Z
 
 ## Products
 
 - [Deen Affirmations Thème Iman/Foi - 52 cartes d'affirmations positives](https://muslimaglow.com/products/deen-affirmations-52-cartes-daffirmations-positives-theme-iman-foi): ✔︎ Renforce ta foi au quotidien de manière simple ✔︎ Agit directement sur ta pensée pour un impact puissant ✔︎ Commence ta journée sur un rappel d'Allah ✔︎ Te reconnecte aux valeurs essentielles de l'Islam ✔︎ À emporter partout avec soi où à poser sur son socle
-  Updated: 2026-01-27T13:55:42Z
+  Updated: 2026-02-02T13:25:23Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/Deen_Iman_-_Photos_produits_reduit_Plan_de_travail_1.jpg?v=1744813838
   Price: 26,90 € EUR
 - [Deen Affirmations Thème Tawakkul/Confiance - 52 cartes d'affirmations positives](https://muslimaglow.com/products/deen-affirmations-theme-tawakkul-confiance-52-cartes-daffirmations-positives): ✔︎ Renforce ta confiance en Allah au quotidien ✔︎ Agit directement sur ta pensée pour un impact puissant ✔︎ Facilite ta résistance face aux difficultés de la vie ✔︎ Réduis le stress et l’anxiété et apporte tranquilité ✔︎ À emporter partout avec soi ou à poser sur son socle
-  Updated: 2026-01-27T13:55:10Z
+  Updated: 2026-02-02T10:31:01Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/Deen_Tawakkul_-_Photos_produits_reduit_Plan_de_travail_1.jpg?v=1744815093
   Price: 26,90 € EUR
 - [Deen Reflections - 52 cartes de rappels et verset islamiques](https://muslimaglow.com/products/deen-reflections-52-cartes-de-rappels-et-citations): ✔︎ Renforce ta patience et ta sagesse au quotidien ✔︎ Agit directement sur ta pensée pour un impact puissant ✔︎ Te rappelle la grandeur et la bienveillance d’Allah ✔︎ À emporter partout avec soi ou à poser sur son socle
-  Updated: 2026-01-27T13:55:25Z
+  Updated: 2026-02-02T13:26:21Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/Deen_Reflections_-_Photos_produits_Plan_de_travail_1.jpg?v=1744806345
   Price: 26,90 € EUR
 - [Pochon Muslima Glow](https://muslimaglow.com/products/petit-pochon-muslima-glow): Emporte tes cartes Muslima Glow partout avec toi grâce à ce pochon fourre-tout très pratique et résistant. Avec ses dimensions de 25 x 32 cm, il est parfaitement adapté pour protéger et transporter tes cartes tout en gardant une touche élégante. Fabriqué en coton pour un look simple et authentique. Orné du logo Muslima Glow, un rappel subtil de ta foi et de ton cheminement. Idéal pour garder tes cartes organisées à la maison ou lors de tes déplacements. Un petit plus pour prendre soin de tes cartes avec élégance et simplicité 🌟
-  Updated: 2026-01-27T18:53:00Z
+  Updated: 2026-02-04T17:49:06Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/IMG_2715.png?v=1757498573
   Price: 5,00 € EUR
 - [Muslima Mindset Reset – Le guide de transformation](https://muslimaglow.com/products/muslima-mindset-reset): ✔︎ Transforme ton état d’esprit et dépasse tes blocages ✔︎ Surmonte tes épreuves avec confiance et sérénité ✔︎ Deviens la femme que tu rêves d’être ✔︎ Aligne ta réussite d’ici-bas avec celle de l’au-delà ✔︎ Débloque ton rapport à l’argent et attire l’abondance ✔︎ À emporter partout avec toi pour rester motivée
-  Updated: 2026-01-27T23:59:26Z
+  Updated: 2026-02-04T23:19:56Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/Photo_produit-01.jpg?v=1764659188
+  Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/Image_produit_MMR_v3.jpg?v=1770203349
   Price: 29,90 € EUR
 - [Pack Complet Deen Affirmations & Reflections](https://muslimaglow.com/products/pack-complet-deen-affirmations-reflections-1): Toute la puissance de Muslima Glow réunie en un seul pack pour transformer ton mindset, renforcer ta foi et apaiser ton cœur au quotidien. Ce pack réunit l’ensemble de nos outils pour t’accompagner chaque jour : Deen Affirmations – Iman : 52 phrases positives inspirées de l’Islam pour renforcer ton état d’esprit et nourrir ta foi. Deen Affirmations – Tawakkul : des affirmations puissantes pour apprendre à lâcher prise et placer ta confiance en Allah. Deen Reflections – Hikma : des versets, hadiths et rappels profonds pour trouver réconfort, comprendre le qadr et méditer au quotidien. Avec ce pack, tu profites de tous les bienfaits de Muslima Glow : ✔️ Reprogrammer ton état d’esprit avec des pensées positives ✔️ Remplacer les waswas et les doutes par la sérénité ✔️ Nourrir ta foi et rester connectée à Allah chaque jour ✔️ Avancer avec plus de confiance et de clarté
-  Updated: 2026-01-27T18:53:01Z
+  Updated: 2026-02-02T13:27:16Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/Pack_de_3_f92b614d-0924-426b-aa4c-8a76b9ff1798.jpg?v=1744816318
   Price: 72,63 € EUR
 - [Cartes Deen Affirmation & Reflection](https://muslimaglow.com/products/cartes-deen-affirmation-reflection)
-  Updated: 2025-12-01T14:00:50Z
+  Updated: 2026-02-03T15:37:18Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
@@ -67,36 +67,35 @@
   - [Hikma / Sagesse](https://muslimaglow.com/products/cartes-deen-affirmation-reflection?variant=55957195915599)
     Availability: Available
     Price: 26,90 € EUR
-- [LIVRE LÉGÈREMENT ABIMÉ À L'EXTÉRIEUR Muslima Mindset Reset – Le guide de transformation](https://muslimaglow.com/products/muslima-mindset-reset-defectueux): ✔︎ Transforme ton état d’esprit et dépasse tes blocages ✔︎ Surmonte tes épreuves avec confiance et sérénité ✔︎ Deviens la femme que tu rêves d’être ✔︎ Aligne ta réussite d’ici-bas avec celle de l’au-delà ✔︎ Débloque ton rapport à l’argent et attire l’abondance ✔︎ À emporter partout avec toi pour rester motivée
-  Updated: 2026-01-27T22:26:56Z
+- [Sac cadeau](https://muslimaglow.com/products/sac-cadeau)
+  Updated: 2026-02-01T17:35:52Z
   Vendor: Muslima Glow
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0875/0684/6031/files/PhotoMMRshopify-01_defectueux.jpg?v=1762269597
-  Price: 19,90 € EUR
+  Price: 0,30 € EUR
 
 ## Collections
 
 - [Deen Affirmations](https://muslimaglow.com/collections/deen-affirmations)
-  Updated: 2026-01-25T12:19:26Z
+  Updated: 2026-01-31T12:23:08Z
   Total Products: 4
 - [Deen Reflections](https://muslimaglow.com/collections/deen-reflections)
-  Updated: 2026-01-27T12:23:28Z
+  Updated: 2026-01-28T12:24:20Z
   Total Products: 3
 - [Nos produits](https://muslimaglow.com/collections/nos-produits)
-  Updated: 2026-01-27T12:23:28Z
+  Updated: 2026-02-04T12:26:10Z
   Total Products: 8
 - [Cartes](https://muslimaglow.com/collections/cartes): Découvrez notre collection de cartes inspirantes avec des affirmations positives et des rappels islamiques pour renforcer votre confiance en Allah. Idéales pour traverser les épreuves de la vie, ces cartes motivantes vous accompagneront dans votre parcours spirituel et personnel.
-  Updated: 2026-01-27T12:23:28Z
+  Updated: 2026-01-31T12:23:08Z
   Total Products: 6
 - [Affiches islamiques minimaliste](https://muslimaglow.com/collections/affiches): Découvrez notre collection d’affiches islamiques inspirantes, parfaites pour décorer votre intérieur avec des messages positifs et motivants. Idéales comme cadeau, ces affiches minimalistes et esthétiques apporteront une touche spirituelle à votre espace. Haute qualité, prêt à imprimer.
   Updated: 2025-11-08T11:07:14Z
   Total Products: 1
 - [Orderly Emails - Recommended Products](https://muslimaglow.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-01-27T12:23:28Z
-  Total Products: 12
+  Updated: 2026-02-04T20:55:59Z
+  Total Products: 13
 - [Livres](https://muslimaglow.com/collections/livres)
-  Updated: 2026-01-27T12:23:28Z
+  Updated: 2026-02-04T12:26:10Z
   Total Products: 3
 
 ## Blogs
@@ -130,7 +129,7 @@
 - [Notre histoire](https://muslimaglow.com/pages/notre-histoire)
   Updated: 2024-09-25T12:19:56Z
 - [Vos choix en matière de confidentialité](https://muslimaglow.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
-  Updated: 2025-06-30T15:21:18Z
+  Updated: 2026-01-28T15:30:20Z
 - [Mix and Match](https://muslimaglow.com/pages/collection-bundle)
   Updated: 2024-09-26T08:44:56Z
 - [Bundles](https://muslimaglow.com/pages/bundles)
