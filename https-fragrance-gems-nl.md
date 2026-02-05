@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-01T08:10:19Z
 - Contact Email: info@fragrance-gems.nl
-- Updated At: 2026-01-29T00:00:37.990Z
+- Updated At: 2026-02-05T00:00:40.534Z
 
 ## Products
 
@@ -18,42 +18,35 @@
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/malibu1.webp?v=1767556424
   Price: € 27,99 EUR
 - [French Avenue Aether Extrait kopen? Shop nu](https://fragrance-gems.nl/products/french-avenue-aether-extrait-100ml): Ontdek de allure van French Avenue Aether Extrait 100ml, een luxe herenparfum met ether extract voor een verfijnde geurervaring.
-  Updated: 2026-01-28T00:55:05Z
+  Updated: 2026-01-31T14:44:12Z
   Vendor: French Avenue
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_15.png?v=1767879765
   Price: € 27,50 EUR
 - [Rayhaan Pacific Aura - Aquatische Heren Parfum](https://fragrance-gems.nl/products/rayhaan-pacific-aura-100ml): Ontdek de Rayhaan Pacific Aura, een aquatische heren parfum dat frisheid en elegantie biedt. Perfect voor elke gelegenheid!
-  Updated: 2026-01-27T22:52:44Z
+  Updated: 2026-02-04T16:10:08Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_2_cd4834e4-a3b2-4d30-a711-a2af791f06ff.png?v=1767879766
   Price: € 24,99 EUR
 - [Rayhaan Tropical Vibe Parfum 100ml – Tropisch Herenparfum](https://fragrance-gems.nl/products/rayhaan-tropical-vibe-100ml): Rayhaan Tropical Vibe parfum 100ml: tropisch, fruitig en fris herenparfum met mango, ananas en citrus. Ontdek Rayhaan Tropical Vibe vandaag!
-  Updated: 2026-01-28T00:21:58Z
+  Updated: 2026-02-04T20:55:56Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_5_9be49d00-ed57-44fa-90ab-325aee5a5bfe.png?v=1767879769
   Price: € 23,99 EUR
-- [Rayhaan Nocturno kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-nocturno-100ml): Rayhaan Nocturno parfum 100ml: fris, kruidig en aromatisch herenparfum met bergamot, lavendel en amberhout. Koop vandaag nog Rayhaan Nocturno!
-  Updated: 2026-01-28T00:38:52Z
-  Vendor: Rayhaan
-  Product Type: Eaux de Parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_24.png?v=1767879768
-  Price: € 24,99 EUR
 - [French Avenue Shmallow Fluff kopen? Shop nu](https://fragrance-gems.nl/products/french-avenue-shmallow-fluff-100ml): French Avenue ShMallow Fluff 100ml: zoet, fruitig en romig damesparfum met marshmallow, vanille en praliné. Ontdek ShMallow Fluff vandaag!
-  Updated: 2026-01-28T04:28:27Z
+  Updated: 2026-02-04T16:10:00Z
   Vendor: French Avenue
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_26.png?v=1767987364
   Price: € 19,99 EUR
 - [Arabiyat Prestige Marwa kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-marwa-100ml): Ontdek Arabiyat Prestige Marwa, een luxe Arabische Eau de Parfum, perfect voor elke gelegenheid. Een geur die je een betoverende uitstraling geeft.
-  Updated: 2026-01-28T13:16:22Z
+  Updated: 2026-02-02T16:10:15Z
   Vendor: Arabiyat Prestige
   Product Type: Arabische Eau de Parfum
   Availability: Available
@@ -67,63 +60,63 @@
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_8.png?v=1767879771
   Price: € 32,99 EUR
 - [Rayhaan Terra kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-terra): Op zoek naar Rayhaan Terra Parfum 100ml? Ontdek deze warme, kruidige unisex geur voor dames en heren. Bestel nu veilig en geniet snel van uw nieuwe favoriete geur!
-  Updated: 2026-01-28T18:00:51Z
+  Updated: 2026-02-04T13:21:17Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_1.png?v=1767873881
-  Price: € 38,99 EUR
+  Price: € 34,99 EUR
 - [Rayhaan Obsidian kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-obsidian): Rayhaan Obsidian: Een Luxe Eau de Parfum Rayhaan Obsidian is een diepe, mysterieuze en verfijnde  - FragranceGems
-  Updated: 2026-01-28T00:01:21Z
+  Updated: 2026-02-04T12:41:07Z
   Vendor: Rayhaan
   Product Type: Eaux de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_12.png?v=1767879773
   Price: € 27,99 EUR
 - [Rayhaan Valhalla kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-valhalla): Ervaar de krachtige en fruitige aroma's van Rayhaan Valhalla, een meesterwerk in de wereld van parfums.
-  Updated: 2026-01-27T22:58:57Z
+  Updated: 2026-02-02T07:16:11Z
   Vendor: Rayhaan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_14.png?v=1767879774
   Price: € 32,99 EUR
 - [Rayhaan Adonis Icarus kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-adonis-icarus): Ontdek Rayhaan Adonis Icarus, een citrus-aromatisch meesterwerk dat tijdloos is. Perfect voor elke gelegenheid!
-  Updated: 2026-01-27T22:53:59Z
+  Updated: 2026-02-04T17:43:25Z
   Vendor: Rayhaan
   Product Type: Arabische Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_40.png?v=1767987365
   Price: € 29,99 EUR
 - [Rayhaan Jungle Vibe kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-jungle-vibe): Rayhaan Jungle Vibe: Ontdek Rayhaan Jungle Vibe. Bestel nu en ervaar de frisse, groene geur van vijg, bergamot en sandelhout. Voor een natuurlijk en verkwikkend parfum!
-  Updated: 2026-01-27T22:48:31Z
+  Updated: 2026-02-02T20:35:46Z
   Vendor: Rayhaan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_35.png?v=1767987369
   Price: € 18,99 EUR
 - [French Avenue Vulcan Feu kopen? Shop nu](https://fragrance-gems.nl/products/vulcan-feu): Vulcan Feu by French Avenue: Ontdek Vulcan Feu van French Avenue. Bestel nu en ervaar de frisse, bloemige geur met mango, praliné en gember. Het perfecte parfum voor elke gelegenheid!
-  Updated: 2026-01-27T22:55:30Z
+  Updated: 2026-02-02T11:56:28Z
   Vendor: French Avenue
   Product Type: Arabische Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_41.png?v=1767987373
   Price: € 26,99 EUR
 - [Lataffa Musamam Black Intense kopen? Shop nu](https://fragrance-gems.nl/products/musamam-black-intense): Musamam Black Intense by Lattafa: Ontdek Musamam Black Intense van Lattafa. Bestel nu en ervaar de diepe geur van lavendel, cacao en tonkaboon. Een uniek en luxueus unisex parfum!
-  Updated: 2026-01-28T13:16:22Z
+  Updated: 2026-02-02T20:35:45Z
   Vendor: Lataffa
   Product Type: Arabische Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_37.png?v=1767987378
   Price: € 33,99 EUR
 - [French Avenue Liquid Brun kopen? Shop nu](https://fragrance-gems.nl/products/liquid-brun): Liquid Brun by French Avenue: Ontdek Liquid Brun van French Avenue. Bestel nu en ervaar deze krachtige geur met kaneel, Bourbon vanille en hout. Het perfecte parfum voor de moderne man!
-  Updated: 2026-01-28T21:49:19Z
+  Updated: 2026-02-02T20:07:47Z
   Vendor: FragranceGems
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_43.png?v=1767987381
   Price: € 29,99 EUR
 - [French Avenue Amber Empire kopen? Shop nu](https://fragrance-gems.nl/products/french-avenue-amber-empire): Amber Empire by French Avenue: Ontdek Amber Empire van French Avenue. Bestel nu en ervaar de rijke tonen van likeur, vanille en amber. Voor een diep en mysterieus oriëntaals parfum!
-  Updated: 2026-01-27T22:50:50Z
+  Updated: 2026-02-04T11:25:56Z
   Vendor: French Avenue
   Product Type: Arabische Eau de Parfum
   Availability: Available
@@ -286,13 +279,6 @@
   - [Lattafa Hayaati / 10 ml](https://fragrance-gems.nl/products/lataffa-parfum-samples?variant=52000951730523)
     Availability: Available
     Price: € 4,00 EUR
-- [Al Wataniah Kayaan Terra - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/al-wataniah-kayaan-terra): - FragranceGems
-  Updated: 2026-01-27T22:51:32Z
-  Vendor: FragranceGems
-  Product Type: Arabische Eau de Parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/kayaanterraone.webp?v=1767818539
-  Price: € 29,99 EUR
 - [French Avenue/Fragrance World Parfum Samples - FragranceGems](https://fragrance-gems.nl/products/french-avenue-fragrance-world-parfum-samples): - FragranceGems
   Updated: 2026-01-26T20:05:51Z
   Vendor: FragranceGems
@@ -537,7 +523,7 @@
     Availability: Available
     Price: € 5,00 EUR
 - [Rayhaan Sample Cadeau Bundel - FragranceGems](https://fragrance-gems.nl/products/rayhaan-sample-cadeau-bundel): - FragranceGems
-  Updated: 2026-01-25T17:06:58Z
+  Updated: 2026-02-02T14:40:16Z
   Vendor: FragranceGems
   Product Type: 
   Availability: Available
@@ -565,14 +551,14 @@
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/urbanleparfum.webp?v=1768639048
   Price: € 4,99 EUR
 - [Fragrance World Elysia Vanilla (50ml) - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/fragrance-world-elysia-vanilla-50ml-fragrancegems): Elysia Vanilla is een warme, oosterse vanillegeur voor zowel dames als heren, die een subtiele  - FragranceGems
-  Updated: 2026-01-18T00:00:07Z
+  Updated: 2026-02-04T13:21:07Z
   Vendor: FragranceGems
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/vanilla.png?v=1768639170
   Price: € 4,99 EUR
 - [Fragrance World Elysia Vanilla Sugar (50ml) -  -](https://fragrance-gems.nl/products/fragrance-world-elysia-vanilla-sugar-50ml-fragrancegems): Hier is de beschrijving voor  Vanilla Sugar, exact volgens de vertrouwde layout en stijl:  - FragranceGems
-  Updated: 2026-01-18T00:00:01Z
+  Updated: 2026-02-04T13:21:08Z
   Vendor: Fragrance World
   Product Type: Arabische Eau de Parfum
   Availability: Available
@@ -648,121 +634,249 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/hayaatii.jpg?v=1768640472
   Price: € 4,99 EUR
-- [Maison Alhambra Jean Lowe Immortal - FragranceGems](https://fragrance-gems.nl/products/maison-alhambra-jean-lowe-immortal): - FragranceGems
-  Updated: 2026-01-28T21:57:35Z
+- [Maison Alhambra Jean Lowe Immortal kopen? Shop nu](https://fragrance-gems.nl/products/maison-alhambra-jean-lowe-immortal): Jean Lowe Immortal van Maison Alhambra: De beste inspired by L’Immensité. Bruisende gember en ambroxan. Ervaar pure luxe bij FragranceGems.
+  Updated: 2026-02-03T12:09:25Z
   Vendor: Maison Alhambra
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_55.png?v=1769550774
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_55.png?v=1769782556
   Price: € 19,99 EUR
-- [Maison Alhambra Jean Lowe Azure - FragranceGems](https://fragrance-gems.nl/products/maison-alhambra-jean-lowe-azure): - FragranceGems
-  Updated: 2026-01-28T21:57:36Z
+- [Maison Alhambra Jean Lowe Azure kopen? Shop nu](https://fragrance-gems.nl/products/maison-alhambra-jean-lowe-azure): Jean Lowe Azure van Maison Alhambra: De luxe inspired by LV Afternoon Swim. Een perfecte zomergeur, citrus en frisheid. Shop deze topkwaliteit bij FragranceGems.
+  Updated: 2026-02-03T12:09:24Z
   Vendor: Maison Alhambra
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_53.png?v=1769550798
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_53.png?v=1769782557
   Price: € 23,99 EUR
-- [Maison Asrar Legacy - FragranceGems](https://fragrance-gems.nl/products/maison-asrar-legacy): - FragranceGems
-  Updated: 2026-01-28T21:57:36Z
-  Vendor: Maison Asrar
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_72.png?v=1769589563
-  Price: € 39,99 EUR
-- [Rasasi Hawas Kobra (100ml) - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-kobra-100ml-fragrancegems): - FragranceGems
-  Updated: 2026-01-28T21:57:37Z
+- [Rasasi Hawas Kobra kopen? Shop nu](https://fragrance-gems.nl/products/rasasi-hawas-kobra): Hawas Kobra van Rasasi: De ultieme inspired by LV Imagination. Met zwarte thee, ambroxan en citrus. Shop deze frisse sensatie bij FragranceGems.
+  Updated: 2026-02-04T10:57:37Z
   Vendor: Rasasi
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_47.png?v=1769550854
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_47.png?v=1769782562
   Price: € 32,99 EUR
-- [Arabiyat Prestige Ramad Oriental (100ml) -  -](https://fragrance-gems.nl/products/arabiyat-prestige-ramad-oriental-100ml-fragrancegems): - FragranceGems
-  Updated: 2026-01-28T21:57:37Z
+- [Arabiyat Prestige Fahad Gaze kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-fahad-gaze): Fahad Gaze van Arabiyat Prestige: Een moderne herengeur (2025) met metaalachtige noten, wierook en ambergris. Innovatief en krachtig. Shop nu bij FragranceGems.
+  Updated: 2026-02-03T12:09:22Z
+  Vendor: Arabiyat Prestige
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_68.png?v=1769782579
+  Price: € 34,99 EUR
+- [Arabiyat Prestige Mahd Al Dhahab kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-mahd-al-dahab): Mahd Al Dhahab van Arabiyat Prestige: De gedurfde inspired by Drunk Lovers. Een boozy mix van cognac en sandelhout. Shop deze verleiding bij FragranceGems.
+  Updated: 2026-02-03T12:09:20Z
+  Vendor: Arabiyat Prestige
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_74.png?v=1769782577
+  Price: € 32,99 EUR
+- [Arabiyat Prestige Ramad Oriental kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-ramad-oriental): Ramad Oriental van Arabiyat Prestige: De luxe inspired by Amouage Outlands. Een vurige mix van saffraan, oudh en wierook. Shop deze krachtpatser bij FragranceGems.
+  Updated: 2026-02-03T12:09:19Z
   Vendor: Arabiyat Prestige
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_70_b5b756fd-0cc0-4950-909e-41fc99a6c382.png?v=1769589533
-  Price: € 39,99 EUR
-- [Ahmed Al Maghribi Kaaf (100ml) - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/ahmed-al-maghribi-kaaf-100ml-fragrancegems): - FragranceGems
-  Updated: 2026-01-28T21:57:38Z
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_70_b5b756fd-0cc0-4950-909e-41fc99a6c382.png?v=1769782583
+  Price: € 33,99 EUR
+- [Arabiyat Prestige Safa kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-safa): Safa van Arabiyat Prestige: Een pure en poederachtige uniseks geur met witte musk en saffraan. De perfecte clean scent. Shop nu bij FragranceGems.
+  Updated: 2026-02-03T12:09:19Z
+  Vendor: Arabiyat Prestige
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_66.png?v=1769782575
+  Price: € 31,99 EUR
+- [Arabiyat Prestige Uhud kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-uhud): Uhud van Arabiyat Prestige: Een luxe Oosterse vanille geur met karamel en honing. Warm, zoet en verleidelijk. Bestel dit nieuwe 2025 parfum bij FragranceGems!
+  Updated: 2026-02-03T12:09:19Z
+  Vendor: Arabiyat Prestige
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_64.png?v=1769782573
+  Price: € 27,49 EUR
+- [Arabiyat Prestige Blueberry Musk kopen? Shop nu](https://fragrance-gems.nl/products/arabiyat-prestige-blueberry-musk): Op zoek naar Arabiyat Prestige Blueberry Musk? Een unieke uniseks geur met bosbes, braam en witte musk. Fris en fruitig. Koop hem vandaag bij FragranceGems.
+  Updated: 2026-02-03T12:09:17Z
+  Vendor: Arabiyat Prestige
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_60.png?v=1769782572
+  Price: € 19,99 EUR
+- [Ahmed Al Maghribi Kaaf kopen? Shop nu](https://fragrance-gems.nl/products/ahmed-al-maghribi-kaaf): Ahmed Al Maghribi Kaaf: De ultieme beast mode zomergeur met watermeloen en ambroxan. Ongekende frisheid die de hele dag aanhoudt. Shop nu bij FragranceGems.
+  Updated: 2026-02-04T13:21:18Z
   Vendor: Al Maghribi
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_62.png?v=1769589310
-  Price: € 34,99 EUR
-- [French Avenue x Aromatix Royal Taboo (100ml) -  -](https://fragrance-gems.nl/products/french-avenue-x-aromatix-royal-taboo-100ml-fragrancegems): - FragranceGems
-  Updated: 2026-01-28T21:57:38Z
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_62.png?v=1769782570
+  Price: € 24,99 EUR
+- [Khadlaj Island kopen? Shop nu](https://fragrance-gems.nl/products/khadlaj-island): Khadlaj Island is een tropische ontsnapping met ananas, kokos en sandelhout. Een heerlijke uniseks vakantiegeur uit 2024. Bestel direct bij FragranceGems.
+  Updated: 2026-02-04T08:04:57Z
+  Vendor: Khadlaj
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_83.png?v=1769782570
+  Price: € 24,99 EUR
+- [Khadlaj Island Dreams kopen? Shop nu](https://fragrance-gems.nl/products/khadlaj-island-dreams): Khadlaj Island Dreams (2025) biedt moderne frisheid met gember, grapefruit en ambroxan. De perfecte cleane geur voor elke dag. Ontdek hem bij FragranceGems.
+  Updated: 2026-02-04T17:47:07Z
+  Vendor: Khadlaj
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_80.png?v=1769782569
+  Price: € 27,99 EUR
+- [French Avenue Royal Taboo kopen? Shop nu](https://fragrance-gems.nl/products/french-avenue-royal-taboo): Royal Taboo door Aromatix X French Avenue: Een koninklijke mix van tabak, kaneel en vanille. Krachtig en mysterieus. Shop deze luxe wintergeur bij FragranceGems.
+  Updated: 2026-02-03T12:09:17Z
   Vendor: French Avenue
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_51.png?v=1769550878
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_51.png?v=1769782564
   Price: € 34,99 EUR
-- [French Avenue x Aromatix Carnal Desire (100ml) -  -](https://fragrance-gems.nl/products/french-avenue-x-aromatix-carnal-desire-100ml-fragrancegems): - FragranceGems
-  Updated: 2026-01-28T21:57:39Z
+- [French Avenue Carnal Desire kopen? Shop nu](https://fragrance-gems.nl/products/french-avenue-carnal-desire): Carnal Desire van French Avenue: Een gedurfde combinatie van leer, oud en suikerspin. Intens verleidelijk voor dames en heren. Bestel nu bij FragranceGems.
+  Updated: 2026-02-04T13:21:17Z
   Vendor: French Avenue
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_57.png?v=1769550905
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_57.png?v=1769782563
   Price: € 34,99 EUR
-- [Zimaya Mazaaj Infused (100ml) - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/zimaya-mazaaj-infused-100ml-fragrancegems): - FragranceGems
-  Updated: 2026-01-28T21:57:39Z
+- [Zimaya Mazaaj Infused kopen? Shop nu](https://fragrance-gems.nl/products/zimaya-mazaaj-infused): Zimaya Mazaaj Infused is de perfecte frisse herengeur met citrus, gember en ambroxan. Luxe uitstraling en topkwaliteit. Nu op voorraad bij FragranceGems.
+  Updated: 2026-02-03T12:09:16Z
   Vendor: Zimaya
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_78.png?v=1769589227
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_78.png?v=1769782567
   Price: € 17,99 EUR
-- [Lataffa Angham (100ml) - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/lataffa-angham-100ml-fragrancegems): Lattafa Angham – Een meesterlijke symfonie van vanille en cacao Angham van Lattafa Perfumes is een  - FragranceGems
-  Updated: 2026-01-28T21:57:40Z
+- [Shaikh Saeed Rouge Stag kopen? Shop nu](https://fragrance-gems.nl/products/shaikh-saeed-rouge-stag): Rouge Stag van Shaikh Saeed: De luxe inspired by Angels' Share. Warme cognac, kaneel en praliné. Een boozy favoriet voor heren en dames bij FragranceGems.
+  Updated: 2026-02-03T12:09:14Z
+  Vendor: Shaikh Saeed
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_86.png?v=1769782593
+  Price: € 14,99 EUR
+- [Shaikh Saeed Black Onyx kopen? Shop nu](https://fragrance-gems.nl/products/shaikh-saeed-black-onyx): Shaikh Saeed Black Onyx: Dé mango-geur inspired by Cruz Del Sur II. Tropisch, romig en onweerstaanbaar. Bestel deze zomerhit nu online bij FragranceGems.
+  Updated: 2026-02-03T12:09:13Z
+  Vendor: Shaikh Saeed
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_95.png?v=1769782600
+  Price: € 14,99 EUR
+- [Shaikh Saeed Key Of Emir kopen? Shop nu](https://fragrance-gems.nl/products/shaikh-saeed-key-of-emir): Key Of Emir van Shaikh Saeed: Een bruisende cocktail van zwarte bes en perzik. Inspired by Flamingo Fizz. Shop deze unieke niche-vibe bij FragranceGems.
+  Updated: 2026-02-03T12:09:12Z
+  Vendor: Shaikh Saeed
+  Product Type: Arabische Eau de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_89.png?v=1769782595
+  Price: € 14,99 EUR
+- [Lattafa Angham kopen? Shop nu](https://fragrance-gems.nl/products/lataffa-angham): Lattafa Angham: De nieuwe sensatie van 2024 met cacao, praliné en vanille. Een warme, gourmand luxe geur voor dames en heren. Nu verkrijgbaar bij FragranceGems.
+  Updated: 2026-02-04T13:21:09Z
   Vendor: Lataffa
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_76.png?v=1769589176
-  Price: € 22,49 EUR
-- [Fragrance World Barakkat Satin Oud (100ml) -  -](https://fragrance-gems.nl/products/fragrance-world-barakkat-satin-oud-100ml-fragrancegems): Fragrance World Barakkat Satin Oud – Een zijdezachte omhelzing  roos en oud Barakkat Satin Oud  - FragranceGems
-  Updated: 2026-01-28T21:57:41Z
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_76.png?v=1769782566
+  Price: € 19,99 EUR
+- [Fragrance World Barakkat Satin Oud kopen? Shop nu](https://fragrance-gems.nl/products/fragrance-world-barakkat-satin-oud): Barakkat Satin Oud: De ultieme roos en oudh combinatie inspired by Satin Mood. Zijdezacht, koninklijk en langdurig. Ontdek luxe bij FragranceGems.
+  Updated: 2026-02-03T12:09:13Z
   Vendor: Fragrance World
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_91.png?v=1769590052
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_91.png?v=1769782594
   Price: € 13,99 EUR
-- [Fragrance World Cocktail Intense (100ml) -  -](https://fragrance-gems.nl/products/fragrance-world-cocktail-intense-100ml-fragrancegems): World Cocktail Intense – Een bedwelmende symfonie van luxe en warmte Cocktail Intense van  - FragranceGems
-  Updated: 2026-01-28T21:57:41Z
+- [Fragrance World Cocktail Intense kopen? Shop nu](https://fragrance-gems.nl/products/fragrance-world-cocktail-intense): Cocktail Intense van Fragrance World: Warme cognac, kaneel en pruim. De perfecte inspired by Angels' Share. Bestel deze winterfavoriet bij FragranceGems.
+  Updated: 2026-02-03T12:09:14Z
   Vendor: Fragrance World
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_93.png?v=1769590127
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_93.png?v=1769782597
   Price: € 14,99 EUR
-- [Rasasi Hawas Elixir (100ml) - FragranceGems - FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-elixir-100ml-fragrancegems): Rasasi Hawas Elixir – De ultieme evolutie van een legende Hawas Elixir van Rasasi is een krachtige  - FragranceGems
-  Updated: 2026-01-28T21:57:42Z
+- [Rasasi Hawas Elixir kopen? Shop nu](https://fragrance-gems.nl/products/rasasi-hawas-elixir): Rasasi Hawas Elixir (2024): De intensere evolutie van Hawas met pure chocolade en vanille. Extreme performance en sillage. Shop nu bij FragranceGems.
+  Updated: 2026-02-03T12:09:21Z
   Vendor: Rasasi
   Product Type: Arabische Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_84_1a695316-aa01-4b22-b8a3-3efaf9f4da5c.png?v=1769589731
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_84_1a695316-aa01-4b22-b8a3-3efaf9f4da5c.png?v=1769782586
   Price: € 18,99 EUR
+- [Rasasi Hawas Ultieme Zomerbundel - Kobra + Malibu - FragranceGems](https://fragrance-gems.nl/products/rasasi-hawas-ultieme-zomerbundel-kobra-malibu): Rasasi Hawas Duo Pack: Malibu &amp; Kobra – De ultieme zomer- en luxecombinatie Profiteer nu van  - FragranceGems
+  Updated: 2026-02-03T12:09:36Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_97.png?v=1770120572
+  Price: € 54,99 EUR
+- [French Avenue Vulcan Feu & Liquid Brun Bundle kopen? Shop nu](https://fragrance-gems.nl/products/french-avenue-vulcan-feu-liquid-brun-bundle-): Pak deze ! Vulcan Feu (God of Fire vibe) & Liquid Brun (Althaïr vibe) samen voor €54,99. De ultieme niche-set nu bij FragranceGems.
+  Updated: 2026-02-04T13:21:17Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_-_2026-01-30T195052.792.png?v=1770120568
+  Price: € 54,99 EUR
+- [Rayhaan Summer Bundle kopen? Shop nu](https://fragrance-gems.nl/products/rayhaan-zomer-bundel-4-in-1): De ultieme zomerdeal van 2026! Rayhaan Pacific Aura, Jungle Vibe, Tropical Vibe & Adonis Icarus in één voordelig pakket. Shop nu bij FragranceGems.
+  Updated: 2026-02-04T17:44:01Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_-_2026-01-30T205246.841.png?v=1770120578
+  Price: € 84,99 EUR
+- [Afnan Supremacy Collector's Edition kopen? Shop nu](https://fragrance-gems.nl/products/afnan-supremacy-collectors-edition): Supremacy Collector's Edition (2024) van Afnan: Een luxe mix van ananas, berkehout en ambergris. De ultieme mannelijke krachtpatser. Shop nu bij FragranceGems.
+  Updated: 2026-02-04T16:10:08Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684_99.png?v=1770120566
+  Price: € 37,99 EUR
+- [Khadlaj Island & Island Dreams Bundle kopen? Shop nu](https://fragrance-gems.nl/products/khadlaj-island-duo-bundle-): De ultieme zomerdeal! Khadlaj Island (Le Beau vibe) & Island Dreams (Symphony vibe) samen voor slechts €54,99. Shop nu bij FragranceGems.
+  Updated: 2026-02-03T12:09:47Z
+  Vendor: FragranceGems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0963/1298/3899/files/image-1346x1684-2026-01-30T202241.256.png?v=1770120576
+  Price: € 54,99 EUR
 
 ## Collections
 
 - [Bestseller Parfums | Populaire Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/bestsellers): Ontdek de bestsellers van FragranceGems. Populaire Arabische parfums zoals Rayhaan Elixir en Arabiyat Prestige. Snelle levering!
-  Updated: 2026-01-28T21:57:43Z
-  Total Products: 62
+  Updated: 2026-02-04T17:44:02Z
+  Total Products: 64
 - [Parfums Op Voorraad | Luxe Arabische Geuren – FragranceGems](https://fragrance-gems.nl/collections/op-voorraad): Parfums direct op voorraad bij FragranceGems. Luxe Arabische geuren van Rayhaan, Rasasi & Arabiyat Prestige. Snelle levering NL.
-  Updated: 2026-01-28T21:57:43Z
-  Total Products: 42
+  Updated: 2026-02-04T17:44:02Z
+  Total Products: 44
 - [Aanbevolen Parfums | Must-Have Arabische Geuren –  -](https://fragrance-gems.nl/collections/belangrijk): Onze belangrijkste en meest aanbevolen parfums. Luxe Arabische geuren geselecteerd door FragranceGems. Perfect als eerste aankoop.
-  Updated: 2026-01-28T12:33:11Z
+  Updated: 2026-02-04T12:33:27Z
   Total Products: 7
 - [Rayhaan Parfums - FragranceGems](https://fragrance-gems.nl/collections/rayhaan-parfums): FragranceGems biedt verschillende Rayhaan Parfums aan zoals Rayhaan Terra, Rayhaan Obsidian, Rayhaan Pacific Aura, Rayhaan Elixir en nog veel meer Rayhaan Parfums!
-  Updated: 2026-01-28T12:33:11Z
-  Total Products: 14
-- [French Avenue, Lataffa, Rasasi en nog veel meer! - FragranceGems](https://fragrance-gems.nl/collections/french-avenue-lataffa-rasasi-en-nog-veel-meer): - FragranceGems
-  Updated: 2026-01-28T12:33:11Z
-  Total Products: 14
+  Updated: 2026-02-04T19:32:18Z
+  Total Products: 20
 - [Parfum Samples & Decants - FragranceGems](https://fragrance-gems.nl/collections/parfum-samples-decants): In deze collectie vindt u parfum samples en decants van exclusieve en populaire parfumhuizen.Ideaal  - FragranceGems
-  Updated: 2026-01-27T12:28:06Z
+  Updated: 2026-01-29T12:33:00Z
   Total Products: 20
 - [Parfum Collectie 50ml - FragranceGems](https://fragrance-gems.nl/collections/parfum-collectie-50ml): - FragranceGems
   Updated: 2026-01-18T12:25:06Z
   Total Products: 15
+- [MyPerfumes Arabiyat Prestige Collectie - FragranceGems](https://fragrance-gems.nl/collections/myperfumes-arabiyat-prestige-collectie): - FragranceGems
+  Updated: 2026-02-04T19:36:32Z
+  Total Products: 8
+- [French Avenue Parfum Collectie - FragranceGems](https://fragrance-gems.nl/collections/french-avenue-parfum-collectie): - FragranceGems
+  Updated: 2026-02-04T19:35:33Z
+  Total Products: 12
+- [Rasasi Parfum Collectie - FragranceGems](https://fragrance-gems.nl/collections/rasasi-parfum-collectie): - FragranceGems
+  Updated: 2026-02-04T19:34:54Z
+  Total Products: 5
+- [Fragrance World Parfum Collectie - FragranceGems](https://fragrance-gems.nl/collections/fragrance-world-parfum-collectie): - FragranceGems
+  Updated: 2026-02-04T19:36:49Z
+  Total Products: 18
+- [Riiffs Parfum Collectie - FragranceGems](https://fragrance-gems.nl/collections/riiffs-parfum-collectie): - FragranceGems
+  Updated: 2026-02-04T19:34:38Z
+  Total Products: 4
+- [Maison Asrar Parfum Collectie - FragranceGems](https://fragrance-gems.nl/collections/maison-asrar-parfum-collectie): - FragranceGems
+  Updated: 2026-02-04T19:36:16Z
+  Total Products: 1
+- [Lataffa Parfum Collectie - FragranceGems](https://fragrance-gems.nl/collections/lataffa-parfum-collectie): - FragranceGems
+  Updated: 2026-02-04T19:35:54Z
+  Total Products: 5
+- [Bundel Deals Parfum - FragranceGems](https://fragrance-gems.nl/collections/bundel-deals-parfum): - FragranceGems
+  Updated: 2026-02-04T19:37:44Z
+  Total Products: 5
+- [Vrouwenparfums Collectie - FragranceGems](https://fragrance-gems.nl/collections/vrouwenparfums-collectie): - FragranceGems
+  Updated: 2026-02-02T12:32:25Z
+  Total Products: 9
+- [Khadlaj Parfums - FragranceGems](https://fragrance-gems.nl/collections/khadlaj-parfums): - FragranceGems
+  Updated: 2026-02-04T19:35:23Z
+  Total Products: 6
+- [Binnenkort Verkrijgbaar - FragranceGems](https://fragrance-gems.nl/collections/binnenkort-verkrijgbaar): - FragranceGems
+  Updated: 2026-02-04T19:31:17Z
+  Total Products: 29
 
 ## Blogs
 
@@ -829,14 +943,26 @@
     Updated: 2026-01-26T17:39:18Z
     Author: FragranceGems
   - [Hoe Nieuwe Parfumtrends Gebaseerd zijn op Oude Tradities](https://fragrance-gems.nl/blogs/nieuws/hoe-nieuwe-parfumtrends-gebaseerd-zijn-op-oude-tradities): Hoe Nieuwe Parfumtrends Gebaseerd zijn op Oude Tradities
-    Updated: 2026-01-26T02:22:27Z
+    Updated: 2026-01-30T14:15:54Z
     Author: FragranceGems
   - [Inzicht in Parfumerie Aroma's die je niet Mag Missen](https://fragrance-gems.nl/blogs/nieuws/inzicht-in-parfumerie-aromas-die-je-niet-mag-missen): Inzicht in Parfumerie Aroma's die je niet Mag Missen
-    Updated: 2026-01-28T01:49:27Z
+    Updated: 2026-01-30T14:15:55Z
+    Author: FragranceGems
+  - [Wat zijn de Trends en Ontwikkelingen in de Parfumwereld](https://fragrance-gems.nl/blogs/nieuws/wat-zijn-de-trends-en-ontwikkelingen-in-de-parfumwereld): Wat zijn de Trends en Ontwikkelingen in de Parfumwereld
+    Updated: 2026-02-03T12:09:07Z
+    Author: FragranceGems
+  - [Waarom is Elke Parfumeurs Allereerste Parfum un Grand Classique](https://fragrance-gems.nl/blogs/nieuws/waarom-is-elke-parfumeurs-allereerste-parfum-un-grand-classique): Waarom is Elke Parfumeurs Allereerste Parfum un Grand Classique
+    Updated: 2026-02-03T12:09:11Z
+    Author: FragranceGems
+  - [Innovatieve Parfums die Grenzen Verleggen wat je Moet Weten](https://fragrance-gems.nl/blogs/nieuws/innovatieve-parfums-die-grenzen-verleggen-wat-je-moet-weten): Innovatieve Parfums die Grenzen Verleggen wat je Moet Weten
+    Updated: 2026-02-04T01:53:00Z
     Author: FragranceGems
 - [SEO News](https://fragrance-gems.nl/blogs/seo-news)
   - [Arabische parfum: Complete gids voor de beste geuren en tips](https://fragrance-gems.nl/blogs/seo-news/arabische-parfum-complete-gids-voor-de-beste-geuren-en-tips-1531-62): Arabische parfum: Complete gids voor de beste geuren en tips
     Updated: 2026-01-07T20:41:46Z
+    Author: Arya Punwasi
+  - [Maceratie parfum uitleg: Wat is het en waarom is het essentieel voor geur](https://fragrance-gems.nl/blogs/seo-news/maceratie-parfum-uitleg-wat-is-het-en-waarom-is-het-essentieel-voor-geur-1994-83): Maceratie parfum uitleg: Wat is het en waarom is het essentieel voor geur
+    Updated: 2026-02-03T12:09:09Z
     Author: Arya Punwasi
 
 ## Store Pages
