@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-12T18:58:45Z
 - Contact Email: hello@restedpillow.com
-- Updated At: 2026-01-28T15:41:28.824Z
+- Updated At: 2026-02-05T00:00:33.241Z
 
 ## Products
 
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/mattress-protector-200053.jpg?v=1737816891
     Price: $109.00 USD
 - [Sleeping Bear Hybrid Mattress - Rested Pillow Mattress](https://www.restedpillow.com/products/sleeping-bear): Sleeping Bear is one of our most popular hybrid mattresses with its commercial-grade foam found in luxury hotels across America and hundreds of pocket springs.
-  Updated: 2026-01-26T08:53:45Z
+  Updated: 2026-02-04T18:34:09Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/sunny-side-up-504958.jpg?v=1739555010
     Price: $4,199.00 USD
 - [Adjustable Natural Latex Pillow - Rested Pillow Mattress](https://www.restedpillow.com/products/pillow): Our Adjustable Natural Latex Pillow's unique shape helps to provide relief from neck pain and is customizable to suit your comfort preference.
-  Updated: 2026-01-02T15:52:31Z
+  Updated: 2026-02-04T18:51:57Z
   Vendor: Rested Pillow Mattress
   Product Type: Pillow
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: $199.00 USD
 - [Wood Foundation](https://www.restedpillow.com/products/wood-foundation): Like the joist on the foundation of a house, our box spring frames have been built for over 40 years with slates placed vertically for extra strength. You'll be hard-pressed to find others who make vertical cross-slat frames! They take too long to make for most, but we know they will last immeasurably longer than traditional box spring frames.
-  Updated: 2026-01-06T19:49:55Z
+  Updated: 2026-02-04T20:13:37Z
   Vendor: Rested Pillow Mattress
   Product Type: Foundations
   Availability: Available
@@ -584,7 +584,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/way-we-were-857617.jpg?v=1741047282
     Price: $1,899.00 USD
 - [Nightcap | Rested Pillow Mattress](https://www.restedpillow.com/products/nightcap): The Nightcap hybrid mattress features 3" of luxurious Serene® foam and offers the ultimate in customization, allowing you to unzip the top of the mattress.
-  Updated: 2026-01-19T15:39:30Z
+  Updated: 2026-02-04T20:13:37Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -932,7 +932,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1_8716ccd3-bed9-4e47-aa8c-3064a0235c5d.png?v=1745935057
   Price: $149.00 USD
 - [Delivery & Install: Mattress + Box Spring](https://www.restedpillow.com/products/delivery-install-mattress-box-spring)
-  Updated: 2025-07-26T16:25:30Z
+  Updated: 2026-02-04T20:13:37Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -1032,7 +1032,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Shield_Icon_1eba037f-c10f-42a8-a82c-31aa644dad04.png?v=1738162156
   Price: $0.00 USD
 - [Bed Frame](https://www.restedpillow.com/products/f-q-bed-frame)
-  Updated: 2025-12-19T17:01:10Z
+  Updated: 2026-02-04T20:13:37Z
   Vendor: Rested Pillow Mattress 
   Product Type: Foundations
   Availability: Available
@@ -1303,7 +1303,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Spoon_Til_Noon_Side_1.jpg?v=1750915232
     Price: $3,899.00 USD
 - [Disposal](https://www.restedpillow.com/products/uninstall)
-  Updated: 2025-07-26T16:25:30Z
+  Updated: 2026-02-04T18:34:09Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -1363,7 +1363,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot_2025-06-16_112538_7e5c5dfe-814b-4ac3-8f07-43aeadfb7f05.png?v=1750087570
   Price: $1,199.00 USD
 - [Signature SS Pillowcase](https://www.restedpillow.com/products/signature-ss-pillowcase)
-  Updated: 2025-07-26T20:40:21Z
+  Updated: 2026-02-04T18:51:57Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1462,7 +1462,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Brooklin-Mattress-CB_2933.png?v=1750913003
     Price: $2,199.00 USD
 - [DreamCool™ Mattress Protector](https://www.restedpillow.com/products/df-cooling-protector): DreamFit® brand's Best  Mattress Protector, the eucalyptus fibers in their DreamCool™ Mattress Protector are silky soft, comfortable, and quiet. The eucalyptus creates a dual climate sleep zone for partners with different temperature preferences. It's also 100% waterproof, and moisture-wicking. StaDry® in the cover captures, moves, and releases moisture for healthy sleep. Breathable for enhanced airflow and comfort. Bacteria and allergen resistant. Luxury sizing to fit today's thicker mattresses.
-  Updated: 2025-10-27T00:09:03Z
+  Updated: 2026-02-04T18:34:10Z
   Vendor: Rested Pillow Mattress 
   Product Type: Mattress Protector
   Availability: Available
@@ -1727,7 +1727,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/IMG_9300.jpg?v=1758814019
     Price: $1,899.00 USD
 - [DreamFit DreamComfort Protector](https://www.restedpillow.com/products/dreamfit-stadry-protector)
-  Updated: 2026-01-27T19:29:07Z
+  Updated: 2026-01-28T16:12:50Z
   Vendor: DreamFit
   Product Type: Mattress Protector
   Availability: Available
@@ -1763,92 +1763,99 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2026-01-20133019.png?v=1768933842
   Price: $599.00 USD
+- [King/Cal King Freight Surcharge](https://www.restedpillow.com/products/king-cal-king-freight-surcharge)
+  Updated: 2026-02-03T15:34:34Z
+  Vendor: Rested Pillow Mattress 
+  Product Type: Services
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Gold_2_62a6a1ca-4c47-4c4f-9f57-f771ad0417df.png?v=1770130991
+  Price: $199.00 USD
 
 ## Collections
 
 - [Pillows](https://www.restedpillow.com/collections/pillows)
-  Updated: 2026-01-25T12:03:12Z
+  Updated: 2026-02-04T12:03:41Z
   Total Products: 4
 - [Handmade Mattresses in Michigan | Find Your Perfect Fit – Rested Pillow](https://www.restedpillow.com/collections/mattresses): Discover handcrafted mattresses made in Michigan with the highest quality materials. Enjoy customized comfort and expert, zero-pressure guidance.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 24
 - [Foundations | Rested Pillow Mattress](https://www.restedpillow.com/collections/foundations): Sleep in comfort and extend the durability of your Rested Pillow Mattress with our collection of high quality mattress foundations and bed bases.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-01T12:04:06Z
   Total Products: 12
 - [Best  Mattresses | Rested Pillow Mattress](https://www.restedpillow.com/collections/best-sellers): Shop our best  mattresses, in a variety of sizes, handcrafted in Michigan and available to ship all over the United States or deliver to Southwest MI.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 9
 - [Bedding](https://www.restedpillow.com/collections/bedding)
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-04T12:03:41Z
   Total Products: 11
 - [Standard 11”-14”](https://www.restedpillow.com/collections/standard-11-14)
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 7
 - [Deep 15"-16"](https://www.restedpillow.com/collections/deep-15-16)
-  Updated: 2026-01-25T12:03:11Z
+  Updated: 2026-02-02T12:03:28Z
   Total Products: 3
 - [Handcrafted Flippable Mattresses Made in Michigan](https://www.restedpillow.com/collections/flippable-mattresses): Experience the lasting comfort of two-sided mattresses, handcrafted with integrity right here in Michigan. Built to last, made the right way.
   Updated: 2026-01-17T12:03:42Z
   Total Products: 2
 - [Extra Firm Mattresses for Back Support | Made in Michigan](https://www.restedpillow.com/collections/extra-firm-mattresses): Experience the difference of Michigan-made extra firm mattresses designed for back pain relief and spinal support. No corners cut. Made the right way.
-  Updated: 2026-01-25T12:03:11Z
+  Updated: 2026-02-02T12:03:28Z
   Total Products: 2
 - [Premium Firm Mattresses | Outstanding Support | Handcrafted in USA](https://www.restedpillow.com/collections/firm-mattresses): Improve your sleep with handcrafted firm mattresses, Made in the USA using natural materials and artisan craftsmanship for luxury comfort and support.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 9
 - [Medium Mattresses](https://www.restedpillow.com/collections/medium-mattresses): Striking the perfect balance between comfort and support, a medium mattress is ideal for combination and side sleepers. For those exploring options, our complete guide to hybrids explains how these mattresses deliver both pressure relief and lasting support, making them a smart choice for a wide range of sleepers. Lovingly handcrafted in Michigan, all Rested Pillow Mattresses are made to order. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-01-25T12:03:11Z
+  Updated: 2026-02-02T12:03:28Z
   Total Products: 5
 - [Plush Mattresses | Luxury Softness For Restorative Sleep](https://www.restedpillow.com/collections/plush-mattresses): Experience ultimate comfort and support with our Michigan-made plush mattresses. Enjoy luxurious softness that’s made to order.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-02T12:03:28Z
   Total Products: 8
 - [Traditional Mattresses](https://www.restedpillow.com/collections/traditional-mattresses)
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 7
 - [Customizable Zipper Mattresses | 100 Night Comfort Guarantee](https://www.restedpillow.com/collections/customizable): Discover our range of luxurious zipper mattresses made right here in Michigan, designed to give you truly great sleep with customizable comfort made to last.
-  Updated: 2026-01-25T12:03:11Z
+  Updated: 2026-02-02T12:03:28Z
   Total Products: 3
 - [Best Mattress in a Box | Handcrafted Comfort and Support](https://www.restedpillow.com/collections/mattress-in-a-box-mattresses): Discover the best mattress in a box—handcrafted with premium materials for lasting comfort and support. Shop bespoke, Michigan-made mattresses today.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 10
 - [Hybrid Mattresses](https://www.restedpillow.com/collections/hybrid-mattresses): A Hybrid mattress consists of individually pocketed coils for support, with layers of comfort materials on top. Learn more about hybrid construction. Thanks to the perfect balance between comfort and support, the hybrid mattress is very popular with back and side sleepers and those who feel too hot when sleeping. All of our Rested Pillow hybrid mattresses have pocket coil units that run edge-to-edge, offering breathability and superior support with reduced motion transfer between partners. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 8
 - [Luxury California King Mattresses | Bespoke, Handcrafted Comfort](https://www.restedpillow.com/collections/california-king-mattresses): Indulge in artisan-crafted California King mattresses made in the USA. Made for ultimate luxury, our bespoke, natural mattresses offer premium comfort and support.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 12
 - [Handcrafted King Mattresses | Made in Michigan | Bespoke Comfort](https://www.restedpillow.com/collections/king-mattresses): Discover handcrafted king mattresses, made in Michigan with premium quality  materials. Experience bespoke luxury, superior comfort, and lasting quality.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 12
 - [Queen Mattresses | Handcrafted in Michigan | Rested Pillow](https://www.restedpillow.com/collections/queen-mattresses): Experience the Rested Pillow difference with our handcrafted queen mattresses made to order in Michigan, and enjoy unmatched comfort and quality.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 12
 - [Full Mattresses](https://www.restedpillow.com/collections/full-mattresses): A Full mattress, also known as a double, is a popular choice for single adults or growing kids and even a guest bedroom. A full may feel snug for couples who sleep with pets or prefer extra space, but is a good option for guest rooms or for couples who enjoy close quarters and who don’t need or want a larger mattress. At Rested Pillow, we take the time to fully understand what your individual needs are when buying a mattress and we put your sleep quality above all else. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 12
 - [Luxury Twin Mattresses | Handcrafted Quality Made in the USA](https://www.restedpillow.com/collections/twin-mattresses): Discover bespoke twin mattresses made in the USA. Experience artisan-quality comfort using the finest materials tailored for a perfect night's sleep.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 11
 - [Twin XL Mattresses](https://www.restedpillow.com/collections/twin-xl-mattresses): The Twin XL mattress is the perfect size for growing teens or those with smaller bedrooms. Handmade to order in Michigan and using only the very best materials, our mattresses are made with comfort, sleep quality, and longevity in mind. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-01-28T12:03:30Z
+  Updated: 2026-02-03T12:04:16Z
   Total Products: 12
 - [Comfort Layer](https://www.restedpillow.com/collections/comfort-layer)
-  Updated: 2026-01-21T12:04:08Z
+  Updated: 2026-01-31T12:03:31Z
   Total Products: 5
 - [Handcrafted Pillowtop Mattresses - Made in Michigan, USA](https://www.restedpillow.com/collections/pillowtop-mattresses): Discover handcrafted, made-to-order pillowtop mattresses from Rested Pillow. Artisan quality, made in Michigan. Shop bespoke luxury comfort today.
-  Updated: 2026-01-25T12:03:11Z
+  Updated: 2026-02-02T12:03:28Z
   Total Products: 4
 - [Luxurious Natural Mattresses – Handcrafted in Michigan, USA](https://www.restedpillow.com/collections/natural-mattresses): Experience the luxury of a handcrafted natural mattress from our family-run Michigan workshop. Bespoke, eco-friendly, and made in the USA for ultimate comfort.
-  Updated: 2026-01-16T12:03:40Z
+  Updated: 2026-02-01T12:04:06Z
   Total Products: 2
 - [Delivery Services](https://www.restedpillow.com/collections/delivery-services)
-  Updated: 2026-01-26T12:03:39Z
-  Total Products: 11
+  Updated: 2026-02-03T15:02:22Z
+  Total Products: 12
 - [Customer Care](https://www.restedpillow.com/collections/customer-care)
   Updated: 2026-01-17T12:03:43Z
   Total Products: 6
 - [Financing](https://www.restedpillow.com/collections/financing)
-  Updated: 2026-01-25T12:03:11Z
+  Updated: 2026-02-01T12:04:06Z
   Total Products: 1
 
 ## Blogs
