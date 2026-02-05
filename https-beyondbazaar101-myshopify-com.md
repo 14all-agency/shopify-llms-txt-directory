@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-01-12T00:16:22Z
 - Contact Email: ruansbeyondbazaar@gmail.com
-- Updated At: 2026-01-26T00:00:28.325Z
+- Updated At: 2026-02-05T00:00:34.833Z
 
 ## Products
 
@@ -72,7 +72,7 @@
   Image: https://cdn.shopify.com/s/files/1/0854/2571/7282/files/S251b4e7c9fac4ed8af0b26e0c2915790E.webp?v=1768177719
   Price: R 87.95 ZAR
 - [Portable Smoothie Maker Cup](https://beyondbazaar101.myshopify.com/products/portable-smoothie-maker-cup): Imported high-power motor. Stainless steel stirring blade,sharp and durable. Unique carrying rope design,portable,practical,take silicone material,durable pull constantly. Sentence 4. Truly portable and conveniently, makes you blend and drink from the same bottle. Sentence 5. A best gift for your friends and yourself, great ideal for home or accessory for traveling
-  Updated: 2026-01-22T02:15:46Z
+  Updated: 2026-01-29T14:26:14Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -134,7 +134,7 @@
     Availability: Available
     Price: R 46.95 ZAR
 - [Smart Cupping Massager](https://beyondbazaar101.myshopify.com/products/smart-cupping-massager): Lightweight and convenient, you can use it at home. Easy to operate, equipped with a manual. Rechargeable, convenient and safe.
-  Updated: 2026-01-15T17:30:14Z
+  Updated: 2026-01-29T16:26:10Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -289,7 +289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0854/2571/7282/files/Screenshot_2024-09-17_at_10.15.38.webp?v=1768177720
   Price: R 25.95 ZAR
 - [2024 Bluetooth Aromatherapy Diffuser](https://beyondbazaar101.myshopify.com/products/2024-bluetooth-aromatherapy-diffuser): The NEW 2024 Electric Aromatherapy Machine serves as a wall-mounted air freshener that not only enhances the ambiance of any space but also provides therapeutic benefits through essential oil diffusion. By utilizing aromatherapy, it can help improve mood, reduce stress, and promote overall well-being, making it an excellent addition for homes and hotels seeking to create a calming environment while harnessing the healing properties of essential oils.
-  Updated: 2026-01-15T17:30:15Z
+  Updated: 2026-01-29T13:21:28Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -328,7 +328,7 @@
     Availability: Available
     Price: R 19.95 ZAR
 - [VibraFlex 6-Head Massager Gun](https://beyondbazaar101.myshopify.com/products/vibraflex-6-head-massager-gun): Integrated 6-Head Massage Gun: Six heads work synergistically to disperse the vibrations across a 300% larger coverage area than traditional one-head massage , especially suitable for targeting knots on larger muscle groups. Easy Touch Control: The LED touchscreen provides intuitive control, allowing you to effortlessly adjust settings as you like. Choose from 9 intensity levels, 9 massage modes, and auto-off timer settings(10 minutes), enjoying a personalized massage experience. Professional Deep Percussion: The high-powered motor(19000times/min) delivers a powerful 20mm deep percussion, which effectively relieves muscle fatigue and pain, and decomposes lactic acid. Simply put the massage gun onto your sofa, freeing up your hands to fully enjoy a massage on your back or legs.
-  Updated: 2026-01-15T17:30:16Z
+  Updated: 2026-01-29T16:26:11Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -383,7 +383,7 @@
     Availability: Available
     Price: R 24.95 ZAR
 - [Yoga Elastic Resistance Bands](https://beyondbazaar101.myshopify.com/products/yoga-elastic-resistance-bands): Yoga resistance bands are multi purpose, can be widely applied to yoga, fitness exercises, resistance training, posture improving, refining the back line, balance improving, body stretching, body shaping, arms, legs, back, abdomen strength training Can be used as a recovery band after injury or surgery, or to safely strengthen weak joints. Best kind of latex resistance bands for physical therapy and rehab. Uses:When using, simply wrap workout bands resistance around your hands a few times to avoid slipping off, effortless to use; They can bring lots of convenience to your daily basic training and body shaping exercise.Sentence 4. Applicable Scene:homes, gyms, yards, parks, offices, dormitories, hotels.Sentence 5. Advantage:All our yoga resistance bands are made from natural latex - the highest quality raw material for elastic resistance bands. Our bands will last longer and break less easily than other types of latex or non-latex bands.
-  Updated: 2026-01-21T15:27:47Z
+  Updated: 2026-01-29T14:53:07Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -398,7 +398,7 @@
     Availability: Available
     Price: R 17.95 ZAR
   - [Pink](https://beyondbazaar101.myshopify.com/products/yoga-elastic-resistance-bands?variant=44730358890530)
-    Availability: Not Available
+    Availability: Available
     Price: R 17.95 ZAR
   - [Purple](https://beyondbazaar101.myshopify.com/products/yoga-elastic-resistance-bands?variant=44730358923298)
     Availability: Available
@@ -407,7 +407,7 @@
     Availability: Available
     Price: R 17.95 ZAR
 - [Smart Sleep Aid Massager](https://beyondbazaar101.myshopify.com/products/smart-sleep-aid-massager): The Smart Microcurrent Sleep Aid Device is designed to enhance your sleep quality by utilizing low-level electric currents to promote relaxation and reduce anxiety. This handheld instrument stimulates neurotransmitters in the brain, helping to alleviate insomnia and improve overall mood, making it an ideal solution for those struggling with sleep disorders. Compact and easy to use, this device can be incorporated into your nightly routine, providing a soothing experience that encourages faster and more restful sleep.
-  Updated: 2026-01-15T17:30:16Z
+  Updated: 2026-01-29T16:26:11Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
