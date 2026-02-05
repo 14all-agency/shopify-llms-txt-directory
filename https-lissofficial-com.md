@@ -6,7 +6,7 @@
 - Timezone: America/Jamaica
 - Created At: 2025-06-10T20:29:25Z
 - Contact Email: lizversh@gmail.com
-- Updated At: 2026-01-29T00:00:34.085Z
+- Updated At: 2026-02-05T00:00:35.989Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Silk_Dreams_Pillowcase_in_Olve.png?v=1768670907
   Price: €55.00 EUR
 - [Silk Dreams Pillowcase — Creme](https://lissofficial.com/products/silk-dreams-pillowcase-2): A must-have for those who value their beauty sleep. Silk Dreams Pillowcase in Creme is crafted from 100% mulberry silk and designed to stay perfectly in place throughout the night. The secure closure prevents slipping and shifting, so your pillowcase stays smooth and comfortable while you sleep. Finished with optional custom embroidery, each pillowcase can be made uniquely yours. Size: 50 x 70
-  Updated: 2026-01-22T22:07:30Z
+  Updated: 2026-01-31T22:05:36Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
@@ -77,10 +77,10 @@
 ## Collections
 
 - [All Products](https://lissofficial.com/collections/all-products)
-  Updated: 2026-01-28T12:14:35Z
+  Updated: 2026-02-01T12:17:59Z
   Total Products: 11
 - [Silk Dreams Collection](https://lissofficial.com/collections/silk-dreams-collection): Silk Dreams is a collection created from our belief that self-care should feel personal, intentional, and effortless.
-  Updated: 2026-01-28T12:14:35Z
+  Updated: 2026-02-01T12:17:59Z
   Total Products: 10
 
 ## Store Pages
