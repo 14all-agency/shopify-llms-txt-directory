@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-10T19:35:59Z
 - Contact Email: mancaveassets@yahoo.com
-- Updated At: 2026-01-29T00:00:41.788Z
+- Updated At: 2026-02-05T00:00:44.948Z
 
 ## Products
 
@@ -131,13 +131,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/h6T1EGvQibHO0pP.webp?v=1738657238
   Price: $429.99 USD
-- [MCM Aren Small Checkerboard Leather Bifold Wallet](https://mancaveassets.com/products/mcm-aren-small-checkerboard-leather-bifold-wallet): Style: MCM Aren Small Checkerboard Print Black Multi Visetos Slim Bifold Wallet Material: Pebbled Leather Features: 6 Card Slots, 2 Note Compartments, Vertical Bill Slot Measures: 4.25" L x 3.5" H
-  Updated: 2026-01-20T19:30:27Z
-  Vendor: Man Cave Assets
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/2la8LuA5lwBDpqq.webp?v=1738657431
-  Price: $679.99 USD
 - [Burberry Sandon Grained Leather Card Case Wallet](https://mancaveassets.com/products/burberry-sandon-grained-leather-card-case-wallet): Style: Burberry Sandon Leather Card Case Wallet (Black) Material: Leather Features: 4 Card Slots, Center Note Compartment Measures: 4" L x 3" H
   Updated: 2025-08-23T22:16:04Z
   Vendor: Man Cave Assets
@@ -2080,11 +2073,11 @@
   Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_622_1745578664070-40805835-86850283-80086734_0.jpg?v=1745578733
   Price: $79.99 USD
 - [Vintage Racing Jacket Charm](https://mancaveassets.com/products/vintage-racing-jacket-charm): Revive your wardrobe with timeless style and unmatched comfort.
-  Updated: 2025-10-26T23:29:43Z
+  Updated: 2026-02-01T20:59:33Z
   Vendor: Man Cave Assets
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_650_1745578971003-82433416-4633847-18196078_0.jpg?v=1745579061
+  Image: https://cdn.shopify.com/s/files/1/0633/2687/9990/files/image_650_1745578971003-82433416-4633847-18196078_0.jpg?v=1769979572
   - [JD Black / M](https://mancaveassets.com/products/vintage-racing-jacket-charm?variant=48192690159862)
     Availability: Available
     Price: $159.99 USD
@@ -3564,15 +3557,9 @@
 
 ## Collections
 
-- [Home Page](https://mancaveassets.com/collections/frontpage)
-  Updated: 2024-12-13T08:23:21Z
-  Total Products: 1
 - [Lighted Home Items.](https://mancaveassets.com/collections/light-district): Illuminated. Find unique, glowing accessories for every occasion. Shine bright with us. buy now. Discover the magic of light with our unique products.
   Updated: 2025-09-17T23:45:14Z
   Total Products: 168
-- [Apparel: Shop Trendy and Stylish Clothing Online](https://mancaveassets.com/collections/apparel-shop-trendy-and-stylish-clothing-online): Looking for the latest trends in fashion? Explore our collection of Apparel: Shop Trendy and Stylish Clothing Online for the best in fashion!
-  Updated: 2025-07-27T05:10:28Z
-  Total Products: 17
 - [Cave Signs | Find the Best Cave Signs Online](https://mancaveassets.com/collections/cave-signs-find-the-best-cave-signs-online): Looking for Cave Signs? Browse our collection of Cave Signs | Find the Best Cave Signs Online for your needs. Choose from a variety of options now!
   Updated: 2025-09-06T11:02:57Z
   Total Products: 30
@@ -3585,45 +3572,21 @@
 - [Drones - Buy Drones Online | Best prices for Drones](https://mancaveassets.com/collections/drones-buy-drones-online-best-prices-for-drones): Looking to buy drones online? Find the best prices for drones in our wide selection. Shop now for Drones - Buy Drones Online | Best prices for Drones.
   Updated: 2025-07-27T05:10:29Z
   Total Products: 9
-- [Bottle Openers: Shop Unique & Custom Bottle Openers Online](https://mancaveassets.com/collections/bottle-openers-shop-unique-custom-bottle-openers-online): Looking for unique & custom bottle openers? Explore our online shop for a wide selection of Bottle Openers: Shop Unique & Custom Bottle Openers Online.
-  Updated: 2025-07-27T05:10:29Z
-  Total Products: 8
-- [Cigar Items - Shop the Best Cigar Items Online](https://mancaveassets.com/collections/cigar-items-shop-the-best-cigar-items-online): Discover a range of cigar accessories. Beyond the perfect cigar, discover a collection of lighters, cutters, humidors, and more to enhance your cigar experience
-  Updated: 2025-07-28T23:56:22Z
-  Total Products: 141
 - [Phone Cases](https://mancaveassets.com/collections/phone-cases)
   Updated: 2025-08-13T08:15:57Z
   Total Products: 38
-- [Water Bottles](https://mancaveassets.com/collections/water-bottles)
-  Updated: 2025-07-27T05:10:29Z
-  Total Products: 27
 - [Wallets](https://mancaveassets.com/collections/wallets)
   Updated: 2026-01-04T23:00:16Z
   Total Products: 56
-- [The destination for all things Bluetooth.](https://mancaveassets.com/collections/bluetooth-items-1): Step into the future with wireless audio solutions. Shop for Bluetooth speaker, headphones, smartwatches, and more. Explore the freedom of wireless living.
-  Updated: 2025-11-15T01:07:32Z
-  Total Products: 99
 - [Novelty & Special Use](https://mancaveassets.com/collections/novelty-special-use)
   Updated: 2025-07-29T00:18:19Z
   Total Products: 10
 - [Donald Trump Merch](https://mancaveassets.com/collections/donald-trump-merch)
   Updated: 2025-07-27T05:10:29Z
   Total Products: 35
-- [Clothing](https://mancaveassets.com/collections/clothing)
-  Updated: 2025-12-20T11:48:35Z
-  Total Products: 36
-- [Jewelry](https://mancaveassets.com/collections/jewelry)
-  Updated: 2025-12-20T11:52:04Z
-  Total Products: 3
-- [Clothing Accessories](https://mancaveassets.com/collections/clothing-accessories)
-  Updated: 2025-08-11T02:42:16Z
-  Total Products: 11
 - [Electronics Accessories](https://mancaveassets.com/collections/electronics-accessories)
   Updated: 2025-09-13T10:46:42Z
   Total Products: 58
-- [Cool Designer Wallets](https://mancaveassets.com/collections/handbags-wallets-cases): Find the wallet that speaks to your unique style and journey. Buy now. Our wallets offer smart storage solutions for a sophisticated and streamlined look.
-  Updated: 2025-08-18T04:56:24Z
-  Total Products: 55
 - [General Office Supplies](https://mancaveassets.com/collections/general-office-supplies)
   Updated: 2025-07-29T00:14:44Z
   Total Products: 12
@@ -3642,15 +3605,9 @@
 - [Magic Items](https://mancaveassets.com/collections/magic-items)
   Updated: 2025-08-18T04:21:36Z
   Total Products: 28
-- [Stainless steel, insulated and more water bottles.](https://mancaveassets.com/collections/flasks): Hydration headquarters. Find your optimal water bottle here. Stay refreshed and explore our selection of water bottles
-  Updated: 2025-08-07T00:32:18Z
-  Total Products: 131
 - [Puzzles](https://mancaveassets.com/collections/puzzles)
   Updated: 2025-08-18T00:47:00Z
   Total Products: 82
-- [May The Force Be With You](https://mancaveassets.com/collections/may-the-force-be-with-you)
-  Updated: 2025-07-27T05:10:30Z
-  Total Products: 75
 - [Batman accessories. Holy new arrivals! Batman merch now avilable. Channel your inner Dark Knight to help get ready to patrol Gotham City.](https://mancaveassets.com/collections/the-dark-knight)
   Updated: 2025-08-06T00:29:31Z
   Total Products: 65
@@ -3660,27 +3617,33 @@
 - [Lighting](https://mancaveassets.com/collections/lighting)
   Updated: 2025-07-29T00:11:00Z
   Total Products: 11
-- [Legendary Crew](https://mancaveassets.com/collections/legendary-crew): 90s Vintage T-shirts. Retro t shirt's mens. buy now.  Vintage 80s T-shirts Mens. Retro T-shirts from the 70s. Retro t-shirts sports. nostalgic shirts.
-  Updated: 2025-08-18T00:18:20Z
-  Total Products: 98
 - [Dragon Ball Collectibles.](https://mancaveassets.com/collections/dragon-ball-collectibles): Dragon Ball Z figurines, collectibles available for . Goku, Vegta, Gohan, Bulma, Cell, Freiza, and more DBZ are in this collection. Bandai Super Saiyan DBZ.
   Updated: 2025-09-13T10:29:46Z
   Total Products: 186
-- [Naruto Merch Has Arrived.](https://mancaveassets.com/collections/naruto-merch-has-arrived): Step Into The Hidden Leaf Village with our icredible selection of Naruto merchandise. Naruto Action Figures, Hoodies. Kids Naruto merch. Men Naruto merch.
-  Updated: 2025-08-18T02:48:19Z
-  Total Products: 57
-- [Audio](https://mancaveassets.com/collections/audio)
-  Updated: 2025-09-06T11:04:43Z
-  Total Products: 1
-- [Health & Beauty](https://mancaveassets.com/collections/health-beauty)
-  Updated: 2025-10-17T06:13:59Z
-  Total Products: 0
-- [Video](https://mancaveassets.com/collections/video)
-  Updated: 2025-11-15T01:07:32Z
-  Total Products: 7
-- [Luggage & Bags](https://mancaveassets.com/collections/luggage-bags)
-  Updated: 2026-01-04T22:58:48Z
-  Total Products: 1
+- [Anime Essentials](https://mancaveassets.com/collections/anime-essentials)
+  Updated: 2026-02-01T21:42:06Z
+  Total Products: 220
+- [Audio & Bluetooth](https://mancaveassets.com/collections/audio-bluetooth)
+  Updated: 2026-01-31T08:57:46Z
+  Total Products: 129
+- [Drinkware & Bottles](https://mancaveassets.com/collections/audio-bluetooth-copy)
+  Updated: 2026-01-31T10:24:38Z
+  Total Products: 127
+- [Cigar Lounge](https://mancaveassets.com/collections/drinkware-bottles-copy)
+  Updated: 2026-01-31T10:22:49Z
+  Total Products: 153
+- [Gaming Gear](https://mancaveassets.com/collections/cigar-lounge-copy)
+  Updated: 2026-01-31T10:21:03Z
+  Total Products: 70
+- [Collectibles & Figures](https://mancaveassets.com/collections/gaming-gear-copy)
+  Updated: 2026-02-01T21:24:55Z
+  Total Products: 265
+- [New Arrivals](https://mancaveassets.com/collections/new-arrivals)
+  Updated: 2026-01-31T09:14:13Z
+  Total Products: 76
+- [Best Sellers](https://mancaveassets.com/collections/new-arrivals-copy)
+  Updated: 2026-02-01T20:47:52Z
+  Total Products: 80
 
 ## Blogs
 
