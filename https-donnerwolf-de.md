@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-04-24T12:00:01Z
 - Contact Email: donnerwolforiginal@gmail.com
-- Updated At: 2026-01-29T00:00:43.989Z
+- Updated At: 2026-02-05T00:00:46.042Z
 
 Donnerwolf ist dein Shop für authentische Wikinger-Mode und nordische Apparel. Wir bieten Premium T-Shirts, Hoodies, Tank-Tops und Accessoires mit kraftvollen Wikinger-Motiven, humorvollen Sprüchen und nordischer Mythologie. Alle Produkte aus nachhaltiger Bio-Baumwolle. Kostenloser Versand ab 50€ in Deutschland.
 
@@ -14928,7 +14928,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/skull-viking-herren-shirt-brown-xs-unisex-shirts-204.png?v=1736000405
     Price: 24,95 € EUR
 - [Skull Viking - Basic Sweatshirt](https://donnerwolf.de/products/skull-viking-basic-sweatshirt): Material: 80% Baumwolle, 20% Polyester (Black Smoke: 70% Baumwolle / 30% Polyester) Grammatur: 280 g/m² Schnitt: Regular Fit (normale Passform) Set-In-Ärmel Herstellerangaben gemäß GPSRHersteller: Felix Hantschick, Schönlinderstr. 62d, 86956 Schongau, DE, info@donnerwolf.de
-  Updated: 2025-11-29T02:32:47Z
+  Updated: 2026-02-04T13:43:07Z
   Vendor: Donnerwolf
   Product Type: Sweatshirts
   Availability: Available
@@ -17932,7 +17932,7 @@ Perfekt für Wikinger-Fans, Nordic-Lifestyle-Liebhaber und alle, die kraftvolle 
     Image: https://cdn.shopify.com/s/files/1/0753/4365/9345/files/front-relaxed-tank-top-272727-1116x.png?v=1745413583
     Price: 24,95 € EUR
 - [Germane - Premium Shirt Backprint](https://donnerwolf.de/products/germane-premium-shirt): "Germane"🛡️ Stolzer Germane: Für Männer, die ihre germanischen Wurzeln mit Stolz tragen und die Tradition der Ahnen ehren!✅ Germanische Identität: Stolz auf die Herkunft✅ Backprint Design: Kraftvolles Statement auf dem Rücken✅ Premium Qualität: Würdig der Ahnen🎯 Perfekt für: Stolze Germanen, Tradition-Bewahrer, Ahnen-Verehrer⚔️ Ein echter Germane mit Stolz und Ehre!
-  Updated: 2025-11-15T05:37:55Z
+  Updated: 2026-02-04T13:43:06Z
   Vendor: Donnerwolf
   Product Type: Unisex-Shirts
   Availability: Available
