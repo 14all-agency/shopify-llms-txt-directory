@@ -10,35 +10,35 @@
 - Contact Email: Apexgym369@gmail.com
 - Contact Phone: +27 68 763 4990 
 - Address: 01 johannesburg
-- Updated At: 2026-01-29T00:00:38.093Z
+- Updated At: 2026-02-05T00:00:39.600Z
 
 Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
 
 ## Products
 
 - [NNEVL Solar Pool Heater Panel 80x310 cm](https://apexgym369.store/products/nnevl-solar-pool-heater-panel-80x310-cm): This solar pool heater collects the sun's rays, converts them to heat and keeps your pool comfortably warm. It increases pool water temperature up to 10 degrees. With the installation of this heater, the pool water circulates through solar channels and returns to your pool nice and warm. It is compatible with most pool pump. It can be mounted on a roof/rack or simply laid on the ground by the pool. Material: 100% Polyethylene Panel dimensions: 80 x 310 cm (W x L) Number of panels: 2 Each panel width: 34 cm Hose diameter: 32 mm/38 mm Delivery contains: 2 x Panel 2 x Seal 4 x Clamp 2 x Hose connector Material: 100% Polyethylene Panel dimensions: 80 x 310 cm (W x L) Number of panels: 2 Each panel width: 34 cm Hose diameter: 32 mm/38 mm Delivery contains: 2 x Panel 2 x Seal 4 x Clamp 2 x Hose connector
-  Updated: 2026-01-28T19:06:14Z
+  Updated: 2026-02-04T19:07:42Z
   Vendor: NNEVL
   Product Type: Pool Heaters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720286155257_a_en_hd_1.jpg?v=1767056104
-  Price: R 8,532.41 ZAR
+  Price: R 8,601.11 ZAR
 - [NNEVL Solar Pool Heater Panel 6 pcs 80x310 cm](https://apexgym369.store/products/nnevl-solar-pool-heater-panel-6-pcs-80x310-cm): This solar pool heater set collects the sun's rays, converts them to heat and keeps your pool comfortably warm. It increases pool water temperature up to 10 degrees. With the installation of this heater, the pool water circulates through solar channels and returns to your pool nice and warm. It is compatible with most pool pump. It can be mounted on a roof/rack or simply laid on the ground by the pool. Material: 100% polyethylene Panel dimensions: 80 x 310 cm (W x L) Number of panels: 12 Each panel width: 34 cm Hose diameter: 32 mm/38 mm Delivery contains: 12 x Panel 12 x Seal 24 x Clamp 12 x Hose connector Material: 100% polyethylene Panel dimensions: 80 x 310 cm (W x L) Number of panels: 12 Each panel width: 34 cm Hose diameter: 32 mm/38 mm Delivery contains: 12 x Panel 12 x Seal 24 x Clamp 12 x Hose connector
-  Updated: 2026-01-25T20:58:04Z
+  Updated: 2026-02-04T19:09:02Z
   Vendor: NNEVL
   Product Type: Pool Heaters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720286562338_g_en_hd_1.jpg?v=1767056104
   Price: R 45,139.81 ZAR
 - [NNEDSZ Electric Treadmill Home Gym Exercise Fitness Running Machine](https://apexgym369.store/products/nnedsz-electric-treadmill-home-gym-exercise-fitness-running-machine): Compact and sturdy with its powder-coated steel frame, the Everfit Electric Treadmill allows you to perform essential cardio exercises within the comfort of your home. It features 12 pre-set training programs designed to simulate natural terrain. A user-centric control panel with a digital LED display lets you set up to 12 speed levels and other monitoring parameters. Its linear power drive motor produces smooth and seamless operation and the anti-slip belt and soft-grip handle bar with pulse sensors make your session a comfortable and controlled experience. Other great features include safety tether key and smooth wheels for easy mobility. Important: Running board surface must be checked for lubrication before first use. If it is dry to the touch, then lubrication is needed. Features High strength composite running board Sturdy powder coated steel frame User-centric control panel Bright digital LED display Powerful and energy-efficient motor Anti-slip and wear-resistant running belt 12 training programs 12 speed levels Safety tether key Soft-grip handle bar Foldable design Smooth wheels for mobility Specifications: Rated voltage: 240V Rated power: 1HP Speed: 0.8-12km/h Programs: 12 Running belt width: 360mm Weight capacity: 100kg Sensor: Pulse, Fat measure Colour: Black Package Content 1 x Everfit Electric Treadmill 1 x User Manual 1 x Lubricating Oil
-  Updated: 2026-01-28T19:06:29Z
+  Updated: 2026-02-04T19:07:51Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/TMILL-TITAN360-SIM-00.jpg?v=1767056104
   Price: R 11,560.09 ZAR
 - [NNEDSZ 200W Solar Panel Portable Charger JumpsPower Power Generator Foldable](https://apexgym369.store/products/nnedsz-200w-solar-panel-portable-charger-jumpspower-power-generator-foldable): JumpsPower 200W Solar Panel Portable Charger Power Generator Foldable CampingThe JumpsPower 200W Portable Solar Panel is a benchmark in advanced solar technology and innovative design, built for the eco-conscious traveller seeking power and portability. Its construction with top-tier monocrystalline silicon cells under a protective ETFE film ensures robust endurance against environmental stressors while maximizing energy conversion efficiency. Weighing just 6.1kg, this panel is a marvel of engineering, crafted with materials that balance durability with ease of use. Its IP67 waterproof rating guarantees performance in diverse outdoor situations. The panel comes equipped with a variety of output ports, including USB-C and USB-A, alongside a powerful DC output, making it a versatile source for charging an extensive range of electronic devices and portable power stations. Product Features: Premium monocrystalline silicon cells enveloped in ETFE film for high efficiency and longevity Lightweight at only 6.1kg for portability without compromising on power IP67 waterproof rating for reliable use in all weather conditions Multiple charging outputs including USB-C, USB-A, and DC to cater to a wide array of charging needs High conversion rate to ensure quick and efficient charging Product Included: 1 x JumpsPower 200W Portable Solar Panel 1 x User Manual 2 x Snap Hook 1 x MC4 to DC Cable Product Specification:Rate Power: 200W Max. Power Voltage: 19.44V Power Current: 10.3A Max. Open Circuit Current: 23.6V Short Circuit Current: 11.6A DC Output: 200W Max. (19.44V / 10.3A) Operating Temperature: -10 degrees to 65 degrees Unfolded Size: 2280 x 600 x 17mm Folded Size: 610 x 600 x 30mm Weight: 6.1kg
-  Updated: 2026-01-25T20:58:04Z
+  Updated: 2026-02-04T19:09:10Z
   Vendor: NNEDSZ
   Product Type: Portable Solar Panels
   Availability: Available
@@ -52,28 +52,28 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720286137383_g_en_hd_4.jpg?v=1767056104
   Price: R 7,981.93 ZAR
 - [NNEDSZ 21W Solar Panel Portable Charger JumpsPower Power Generator Foldable](https://apexgym369.store/products/nnedsz-21w-solar-panel-portable-charger-jumpspower-power-generator-foldable): JumpsPower 21W Solar Panel Portable Charger Power Generator Foldable CampingHarness the power of the sun with the JumpsPower 21W Portable Solar Panel, designed for the eco-conscious adventurer. This sleek and durable solar panel uses advanced monocrystalline silicon cells, enhanced with ETFE film for superior high-temperature and corrosion resistance, ensuring a longer lifespan and higher conversion efficiency. Lightweight and crafted for portability, this solar panel is about half the weight of traditional panels, making it a breeze to carry on any journey. The back features waterproof materials rated at IP67, so you're prepared for any weather (note that the solar controller is not waterproof). With integrated lamination technology, the panel is not only durable but also highly efficient in converting sunlight to energy. Equipped with both USB-C and USB-A output ports, this solar panel offers reliable and versatile charging options for all your devices. Product Features: Uses high-efficiency monocrystalline silicon cells with ETFE film Lightweight and foldable design for easy transportation IP67 waterproof rating ensures durability against the elements Equipped with both USB-C and USB-A ports for versatile charging High conversion rate and power efficiency for effective charging Integrated lamination technology for a robust build Product Included: 1 x JumpsPower 21W Portable Solar Panel 1 x User Manual 2 x Snap Hook Product Specification:Rate Power: 21W Max. Power Voltage: 6.6V Power Current: 3.18A Max. Open Circuit Current: 7.6V Short Circuit Current: 3.5A USB-C and USB-A Output: 15W Max. (5V / 3A) Operating Temperature: -10 degrees to 65 degrees Unfolded Size: 691 x 215 x 17mm Folded Size: 231 x 215 x 30mm Weight: 460g
-  Updated: 2026-01-26T19:08:45Z
+  Updated: 2026-02-03T19:12:48Z
   Vendor: NNEDSZ
   Product Type: Portable Solar Panels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V274-VE-JP-SOLPAN-21W-144687-00.jpg?v=1767056104
   Price: R 3,068.83 ZAR
 - [NNEVL Bike Cargo Trailer/Hand Wagon 155x60x83 cm Steel Black](https://apexgym369.store/products/nnevl-bike-cargo-trailerhand-wagon-155x60x83-cm-steel-black): This versatile bike trailer/hand wagon, with a transport crate, is perfect for local commutes or long-distance tours. This bike cargo trailer has a maximum load capacity of 50 kg. It is designed with a ball coupling system for easy attachment to the bike. Equipped with 2 handles on the drawbar, this cargo trailer can also be used as a hand wagon with a maximum load capacity of 70 kg. The foldable stand allows you to park it securely without having to worry about its tipping over. Thanks to the heavy-duty steel frame construction with impact-resistant plastic transport crate, this bike cargo trailer/hand wagon is very sturdy and durable. The included removable nylon cover is weather resistant and waterproof. The high-visibility coloured reflectors have been added for improved safety. The bike cargo trailer is easy to assemble. Colour: Black Material: Steel frame + plastic box + 600D nylon cover Overall size with drawbar: 155 x 60 x 83 cm (L x W x H) Transportation crate dimensions: 60 x 40 x 22 cm (L x W x H) Maximum load capacity: 50 kg (as a cargo trailer); 70 kg (as a hand wagon) Ball coupling system for easy attachment Equipped with 2 handles on the drawbar for use as a hand wagon 39 cm pneumatic wheels with yellow reflectors With a removable, weather-resistant cover Colour: Black Material: Steel frame + plastic box + 600D nylon cover Overall size with drawbar: 155 x 60 x 83 cm (L x W x H) Transportation crate dimensions: 60 x 40 x 22 cm (L x W x H) Maximum load capacity: 50 kg (as a cargo trailer); 70 kg (as a hand wagon) Ball coupling system for easy attachment Equipped with 2 handles on the drawbar for use as a hand wagon 39 cm pneumatic wheels with yellow reflectors With a removable, weather-resistant cover
-  Updated: 2026-01-28T19:07:22Z
+  Updated: 2026-01-31T19:13:14Z
   Vendor: NNEVL
   Product Type: Bicycle Trailers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8718475718116_g_en_hd_3.jpg?v=1767056105
   Price: R 5,642.36 ZAR
 - [NNETM 20W Portable Solar Panel Charger - Green](https://apexgym369.store/products/nnetm-20w-portable-solar-panel-charger-green): Stay powered up on-the-go with our foldable solar panel charger, perfect for outdoor adventures! Features: Portable Design: Convenient foldable design for easy carrying, providing renewable energy wherever you go. Perfect for Outdoor Use: Ideal for camping, hiking, and RV travel, ensuring reliable power even in remote areas. High Performance: Withstands all weather conditions, making it suitable for various outdoor activities. Waterproof: IP67 waterproof rating ensures durability in outdoor environments. Description: Stay connected and powered up even in the most remote locations with our 20W Portable Solar Panel Charger in vibrant green. This high-performance charger features a foldable design, making it incredibly portable and convenient for on-the-go use. Whether you're driving, fishing, hiking, or enjoying any outdoor adventure, harness the power of the sun to charge your devices for free. Designed for outdoor enthusiasts, our solar panel charger is perfect for camping, hiking, and RV travel, providing reliable power wherever your adventures take you. Its high-performance solar cells ensure efficiency and durability, capable of withstanding all weather conditions. However, please note that while the panels are waterproof with an IP67 rating, the junction box is not waterproof, so it's essential to keep it dry. Don't let a lack of power limit your outdoor experiences. Embrace renewable energy with our Portable Solar Panel Charger and stay connected wherever your adventures lead.
-  Updated: 2026-01-27T19:12:36Z
+  Updated: 2026-02-03T19:13:22Z
   Vendor: NNETM
   Product Type: Outdoor > Camping
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/80d7a4286850d4c5adf3a8332be1499c.webp?v=1767056104
   Price: R 1,651.32 ZAR
 - [NNEVL Weight Plates 4 pcs 30 kg Cement](https://apexgym369.store/products/nnevl-weight-plates-4-pcs-30-kg-cement): These 4 weight plates are suitable for professional dumbbell workouts at home. The weight plates are covered with robust, floor-friendly plastic. Durable material: The barbell plate is made of cement and covered with robust, floor-friendly plastic. This allows you not to experience any annoying clanging sounds of the weights.Clearly stamped weight: The weight is clearly stamped on each weight disc for quick and easy identification.Variable weight selection: These barbell weight plates consist of 2 different weights: 2 x 10 kg and 2 x 5 kg. The different weight sets always can meet your different training needs.Multifunctional dumbbell: The multifunctional dumbbell weight plate is suitable for training your chest, biceps, arms, triceps, and back muscles. Colour: Black Material: Cement with plastic covering Diameter of 10 kg plates: 31 cm Diameter of 5 kg plates: 26 cm Hole diameter: 2.7 cm Total weight: 30 kg Suitable barbell diameter: 2.5 cm (barbell is not included) Delivery contains: 2 x Plate (5 kg) 2 x Plate (10 kg) Colour: Black Material: Cement with plastic covering Diameter of 10 kg plates: 31 cm Diameter of 5 kg plates: 26 cm Hole diameter: 2.7 cm Total weight: 30 kg Suitable barbell diameter: 2.5 cm (barbell is not included) Delivery contains: 2 x Plate (5 kg) 2 x Plate (10 kg)
-  Updated: 2026-01-28T19:08:19Z
+  Updated: 2026-02-04T19:14:33Z
   Vendor: NNEVL
   Product Type: Free Weights
   Availability: Available
@@ -87,80 +87,80 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Yoga-Belts-Fitness-Pilates-Hammock-for-Aerial-Yoga-Fitness-Therapy-Anti-gravity-Straps-Hammock-with-6_1b3b50f3-7686-4707-b82b-0d845235337f.webp?v=1767056104
   Price: R 1,706.88 ZAR
 - [NNEVL Pool Solar Heating Panel 75x75 cm](https://apexgym369.store/products/nnevl-pool-solar-heating-panel-75x75-cm): Extend the swimming season with this solar pool heater! The pool heating panel is suitable for above-ground pools and can be used with filtration system. The heating system is design with high-quality material that will hold up against frequent exposure to the sun and outdoor elements. The adjustable support feet hold the panel at 40��-60�� angle to maximize sunlight capture, resulting in higher heating efficiency. They also provide flexibility in panel placement. Colour: Black Material: PE, aluminium Panel dimensions: 75 x 75 x 50 cm (L x W x H) Panel thickness: 6.5 cm Capacity: 5 L Hose length: 1 m Hose diameter: 38 mm Connection piping size: 32 mm and 38 mm Adjustable support foot 40�����60�� to the ground Can be used with filtration system Assembly required: Yes Delivery contains: 1 x Heating panel 2 x Hose Colour: Black Material: PE, aluminium Panel dimensions: 75 x 75 x 50 cm (L x W x H) Panel thickness: 6.5 cm Capacity: 5 L Hose length: 1 m Hose diameter: 38 mm Connection piping size: 32 mm and 38 mm Adjustable support foot 40�����60�� to the ground Can be used with filtration system Assembly required: Yes Delivery contains: 1 x Heating panel 2 x Hose
-  Updated: 2026-01-27T19:13:00Z
+  Updated: 2026-02-04T19:14:42Z
   Vendor: NNEVL
   Product Type: Pool Heaters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720286155189_g_en_hd_1.jpg?v=1767056104
   Price: R 7,293.82 ZAR
 - [ZAP Vintage Obsolete Premium 5 star English Willow Bat](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat): GAME TIME DONE RIGHT The cult Obsolete Premium bat is designed with a subtle vintage spirit handcrafted from Grade 1 English Willow. Boasting an uncompromisingly modern look, this version of the ZAP Vintage series combines traditional bat features with unexpected design in one versatile creation. This bat is characterized by its excellent weight control ensured by slight inclusivity, a big sweet spot, and prominent edges debossed with the ZAP branding. DETAILED FEATURES Select Premium Grade 1 AA English Willow Standard bowed blade generates a perfectly balanced pick-up The spine is slightly rounded maximizes strength in the final third of the blade Swell has large edges and a high spine peaking in the central zone of the playing surface Multiple canes, rubberized strip, and semi-oval handle construction for vibration dampening Mid to low blade swell Angled toe for a comfortable stance Clean and minimalistic engraved branding Short Handle Sustainable and eco-friendly bat poly wrap packaging Conforms to MCC Law 5 bat regulations Handmade by a proficient craftsman from Meerut, India Weight Range: 1100 gm to 1195 gm*Junior size(3,4,5) may have less weight
-  Updated: 2026-01-25T20:58:05Z
+  Updated: 2026-02-03T22:01:06Z
   Vendor: ZAP Sports
   Product Type: Bat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/7-1.jpg?v=1767056105
   - [SH (FULL) / Less than 1199 gm](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat?variant=45625501515964)
     Availability: Available
-    Price: R 14,869.25 ZAR
+    Price: R 14,946.96 ZAR
   - [SH (FULL) / Greater than 1200 gm](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat?variant=45625501548732)
     Availability: Available
-    Price: R 14,869.25 ZAR
+    Price: R 14,946.96 ZAR
   - [Harrow / Less than 1199 gm](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat?variant=45625501581500)
     Availability: Available
-    Price: R 14,869.25 ZAR
+    Price: R 14,946.96 ZAR
   - [Harrow / Greater than 1200 gm](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat?variant=45625501614268)
     Availability: Available
-    Price: R 14,869.25 ZAR
+    Price: R 14,946.96 ZAR
   - [6 / Less than 1199 gm](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat?variant=45625501647036)
     Availability: Available
-    Price: R 14,869.25 ZAR
+    Price: R 14,946.96 ZAR
   - [5 / Less than 1199 gm](https://apexgym369.store/products/zap-vintage-obsolete-premium-5-star-english-willow-bat?variant=45625501679804)
     Availability: Available
-    Price: R 14,869.25 ZAR
+    Price: R 14,946.96 ZAR
 - [ZAP Royal Crown Icon Wheelie Kit Bag](https://apexgym369.store/products/zap-royal-crown-icon-wheelie-kit-bag): Built for cricketers who need space, comfort, and smart organization. ZAP Royal Crown Icon Kit Bag is made up of PU and Polyester, it also has enough storage space for all your gear so you can carry your gear without any hassle. It has separate 8 pockets and padded compartments to keep your gear organized. There is one molded shoe pocket to keep your sports shoes in place. It also features 2 smooth Japanese Robust wheels for a smoother glide on any surface whether you are on the pitch or in your dressing room, it rolls smoothly on any surface. It also has Cushioned straps for ultimate comfort and it has Durable zip closure for effortless access to your gears. ZAP Royal Crown Icon Kit Bag also has a cooling storage box to keep your energy drinks and mineral water fresh and refreshed. It also includes 2 extra-deep pockets for leg guards, a dedicated helmet compartment, and additional zip sections for valuables like keys, wallets, and phones keeping you perfectly organized. Whether you're heading to the nets or match day, this bag is your true bestie while preparing to go to the match. Detailed Features Made up from high-quality PU and Polyester. Separate 8 pockets Padded Compartments High-performance design with game-ready storage utility Water-resistant Coating to keep your gears dry Scratch Resistance Charging Port Opening Thermal/Cooler Compartment Shoe Moulded Compartment 2 extra deep pockets for leg guards and 1 helmet compartment 2 smooth Japanese Robust wheels Cushioned Straps Heavy-Duty Zippers
-  Updated: 2026-01-25T20:58:06Z
+  Updated: 2026-02-03T22:01:08Z
   Vendor: ZAP Cricket
   Product Type: Kit bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/2_15.webp?v=1767056104
-  Price: R 1,591.54 ZAR
+  Price: R 1,583.56 ZAR
 - [Full Face Snorkel Mask Set with Flippers](https://apexgym369.store/products/full-face-snorkel-mask-set-with-flippers): Explore underwater with ease using ’s panoramic anti-fog snorkel gear. Specifications:Color: BlackSize: L/XLApplicable Age Group: 14 Years+Material: PCIncluded: 1 snorkel mask and flippers setLens View: 180° panoramicFeatures: Anti-fog, anti-seepage, adjustable straps, camera mount Benefits:Wide 180° panoramic view for immersive underwater experienceAnti-fog and anti-seepage design for clear breathing and visibilityFull face coverage makes breathing naturally through nose and mouth easyAdjustable head straps ensure a secure and comfortable fitBuilt-in camera mount lets you record underwater adventures hands-free Description:Dive into your next aquatic adventure with the Full Face Snorkel Mask Set. Designed for comfort and clarity, this set includes an anti-fog mask that offers a 180° panoramic view, allowing you to fully enjoy the underwater world. The adjustable straps ensure a snug fit, while the anti-seepage design helps keep water out so you can breathe with ease. Perfect for beginners and experienced snorkelers alike, this gear also features a camera mount for capturing every unforgettable moment.
-  Updated: 2026-01-25T20:58:06Z
+  Updated: 2026-01-31T23:52:47Z
   Vendor: TM
   Product Type: Boating & Water Sports
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/6632aec9-6c64-4b27-a7da-dbdf56617abd.jpg?v=1767056104
   Price: R 2,779.82 ZAR
 - [ZAP Star Junior Cricket Kitbag - Spacious & Lightweight Cricket Bag](https://apexgym369.store/products/zap-star-junior-cricket-kit-bag): Shop the ZAP Star Junior Cricket Kitbag, designed for young cricketers with multiple compartments, waterproof fabric, and comfortable padded straps. Perfect for beginners!
-  Updated: 2026-01-25T20:58:06Z
+  Updated: 2026-02-03T22:00:45Z
   Vendor: ZAP Cricket
   Product Type: Kit bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/KITBAG_6.webp?v=1768421551
-  Price: R 378.74 ZAR
+  Price: R 395.71 ZAR
 - [NNEVL Curved Pool Solar Heating Panels 2 pcs 110x65 cm](https://apexgym369.store/products/nnevl-curved-pool-solar-heating-panels-2-pcs-110x65-cm): This solar pool heater is ideal for above-ground pools. It heats the pool water by the use of solar energy. This solar heating system is design with high-quality materials that will hold up against frequent exposure to the sun and outdoor elements. Curved pool heating panels and the adjustable legs ensure maximised area for sun energy capturing, resulting in higher heating efficiency. Colour: Black Material: HDPE, PC, aluminium Panel dimensions: 110 x 65 x 7 cm (L x W x H) PC cover thickness: 1.2 mm Adjustable aluminium leg height: 22.5-36 cm Aluminium tube diameter: 22/25 mm Flow capacity: 10000 L/h Water capacity: 15 L Install on the ground, roof or rack Raises temperature 5 degrees or more Assembly required: Yes Delivery contains: 2 x Solar heater 2 x Hose 4 x Hose clamp 4 x Connector (38 mm) 4 x Seal 4 x Screw cap Colour: Black Material: HDPE, PC, aluminium Panel dimensions: 110 x 65 x 7 cm (L x W x H) PC cover thickness: 1.2 mm Adjustable aluminium leg height: 22.5-36 cm Aluminium tube diameter: 22/25 mm Flow capacity: 10000 L/h Water capacity: 15 L Install on the ground, roof or rack Raises temperature 5 degrees or more Assembly required: Yes Delivery contains: 2 x Solar heater 2 x Hose 4 x Hose clamp 4 x Connector (38 mm) 4 x Seal 4 x Screw cap
-  Updated: 2026-01-25T20:58:06Z
+  Updated: 2026-02-03T19:19:31Z
   Vendor: NNEVL
   Product Type: Pool Heaters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720286289143_g_en_hd_3.jpg?v=1767056105
   Price: R 15,138.26 ZAR
 - [NNEVL Solar Pool Heater Panel 6 pcs 80x620 cm](https://apexgym369.store/products/nnevl-solar-pool-heater-panel-6-pcs-80x620-cm): This solar pool heater collects the sun's rays, converts them to heat and keeps your pool comfortably warm. It increases pool water temperature up to 10 degrees. With the installation of this heater, the pool water circulates through solar channels and returns to your pool nice and warm. It is compatible with most pool pump. It can be mounted on a roof/rack or simply laid on the ground by the pool. Panel dimensions: 80 x 620 cm (W x L) Number of panels: 12 Each panel width: 34 cm Suitable for hose diameter: 32mm and 38mm Panel dimensions: 80 x 620 cm (W x L) Number of panels: 12 Each panel width: 34 cm Suitable for hose diameter: 32mm and 38mm
-  Updated: 2026-01-28T19:13:10Z
+  Updated: 2026-02-03T19:12:41Z
   Vendor: NNEVL
   Product Type: Pool Heaters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720286562307_g_en_hd_2_e7182a1f-6d60-47ce-b0c7-a0bc51a9001a.jpg?v=1767056104
   Price: R 41,561.64 ZAR
 - [NNETM Set of 2 Premium Odor-Resistant Foam Yoga Blocks (Grey)](https://apexgym369.store/products/nnetm-set-of-2-premium-odor-resistant-foam-yoga-blocks-grey): Achieve ultimate comfort and performance in every yoga pose with NNETM’s premium odor-resistant foam yoga blocks. Specifications: Set of 2 yoga blocks Dimensions: 23 x 15 x 7.5 cm per block Lightweight, moisture-wicking foam material Odor-resistant design Easy to clean with dry cloth Color: Gray Package weight: 0.28 kg Benefits: Provides reliable support for all yoga poses Helps improve stability and alignment Ideal for both beginners and advanced practitioners Lightweight and portable for easy storage and transport Moisture-wicking and odor-resistant for a fresh practice every time Description:Elevate your yoga practice with NNETM Premium Foam Yoga Blocks, designed to provide unmatched support and comfort. Made from high-quality, odor-resistant foam, these blocks help enhance your poses while offering the stability needed to improve your alignment. Lightweight and moisture-wicking, they ensure a slip-free experience during every session.
-  Updated: 2026-01-27T19:18:26Z
+  Updated: 2026-02-03T19:16:14Z
   Vendor: NNETM
   Product Type: Yoga & Pilates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Premium-Lightweight.webp?v=1767056104
   Price: R 3,027.54 ZAR
 - [NNEOBA Foldable Solar Panel Charger with 20W/h Portable USB](https://apexgym369.store/products/nneoba-foldable-solar-panel-charger-with-20wh-portable-usb): Power up anywhere with NNEOBA’s foldable solar panel – lightweight, efficient, and portable! Specifications: Color: Black (6-fold solar panel) Material: Monocrystalline Silicon Module Efficiency: 19.1% Max Power: 20W/h Nominal Capacity: 2.2A Number of Cells: 6 Number of Panels: 6 Foldable: Yes Flexible: No Type: Solar Cells Output: USB 5V Waterproof Rating: IP65 High Power (Pmax): 20W/h Open Circuit Voltage (Voc): 6V Maximum Power Voltage (Vmpp): 5V Short Circuit Current (Isc): 2.5A High Power Current (Impp): 2.2A Conversion Efficiency: 19.8% Standard Test Conditions: AM=1.5, Irradiance=1000W/m², Temperature=25°C Dimensions: Folded Size: 87 cm x 19 cm x 3 cm (Refer to the image) Benefits: High-efficiency solar cells provide reliable energy for outdoor and emergency use. Foldable and lightweight design for easy portability and storage. USB output supports charging for smartphones, tablets, and power banks. Durable, waterproof, and built for outdoor adventures. Description:The NNEOBA Foldable Solar Panel Charger is the ultimate portable power solution for outdoor enthusiasts. Designed with high-efficiency monocrystalline silicon cells, it delivers a 20W/h output to keep your devices charged wherever you go. With its foldable and lightweight build, it’s perfect for hiking, camping, fishing, and emergency preparedness. This solar panel features a USB 5V output, making it compatible with smartphones, tablets, external battery packs, and other USB-powered devices. Its durable and waterproof design ensures reliable performance in various outdoor conditions. Stay powered up anytime, anywhere with the NNEOBA foldable solar panel charger!
-  Updated: 2026-01-25T20:58:06Z
+  Updated: 2026-01-30T19:09:08Z
   Vendor: NNEOBA
   Product Type: Outdoor > Camping
   Availability: Available
@@ -226,14 +226,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Sa6d440f7c81942a283e997d6f411ebecX_750050eb-6f93-4191-9c14-742464c9cd35.webp?v=1767056302
   Price: R 2,201.81 ZAR
 - [Adjustable U-Shaped Arm Exerciser Red](https://apexgym369.store/products/adjustable-u-shaped-arm-exerciser-red): Adjustable Power, Full-Body Impact – One Tool, Total Upper Body Transformation. Specifications: Color: Red Resistance Range: 30–50KG (Adjustable) Size: 68 × 18 × 4 cm Weight: 1.5 kg Material: Thickened iron core tube High-tension stainless steel spring NBR non-slip foam handle Design: U-shaped spring bar with adjustable resistance Target Muscle Groups: Chest, Biceps, Shoulders, Abdominals, Latissimus Dorsi, Trapezius Key Features: ✔ Adjustable Resistance: Say goodbye to fixed intensity – tailor your workouts to your strength level with 30–50KG adjustable tension ✔ Heavy-Duty Build: Constructed from high-quality thickened iron and stainless steel for superior durability and performance ✔ Comfort Foam Handles: Ergonomic NBR foam grips provide a secure hold without slipping, pinching, or discomfort ✔ Full Upper Body Engagement: Versatile design enables targeted training for arms, chest, shoulders, back, and core ✔ Portable & Space-Saving: Lightweight and compact – easy to carry, store, or pack for travel workouts ✔ Safe & Skin-Friendly: Designed to prevent hair or skin pinching during intense training sessions Product Description: Elevate your strength training routine with the Adjustable U-Shaped Arm Exerciser – the ultimate tool for sculpting your chest, arms, shoulders, and core. Built with a thick iron core tube and a powerful stainless steel spring, this fitness bar offers 30–50KG of adjustable resistance to match your progress. The ergonomic U-shaped design allows for a wide range of motion, while the non-slip foam handles provide comfort and control with every rep. Whether you're doing biceps curls, chest presses, shoulder raises, or abdominal squeezes, this spring bar delivers maximum muscle activation in a single compact device. Ideal for home, office, or travel workouts, its durable and skin-safe construction ensures long-lasting use without pinching or discomfort. If you're looking to tone, build, or maintain upper body strength without bulky gym equipment, this is your go-to solution.
-  Updated: 2026-01-25T20:58:07Z
+  Updated: 2026-02-03T23:54:42Z
   Vendor: OBA
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S149be92579814380aac7b35d5f53dc38S.webp?v=1767056311
   Price: R 1,600.00 ZAR
 - [NNEOBA Extra Thick Non-Slip Yoga Mat](https://apexgym369.store/products/nneoba-extra-thick-non-slip-yoga-mat): Elevate your practice with our extra thick, non-slip yoga mat. Specifications Size: 183cm x 61cm x 1cm Material: NRB (non-toxic) Thickness: 10mm Users: Suitable for all ages, ideal for beginners Package: 1 NRB yoga mat Benefits Provides excellent grip for enhanced stability Extra thickness offers superior cushioning and support Dual-sided usability for versatile workouts Easy to clean and maintain Perfect for yoga, Pilates, and other fitness activities DescriptionTransform your fitness routine with the NNEOBA Extra Thick Non-Slip Yoga Mat. Measuring 183x61cm and featuring a 10mm thickness, this mat provides optimal cushioning and support for all levels of practitioners. Made from high-quality NRB material, it is tasteless and easy to clean, ensuring a hygienic workout environment. Whether you’re a beginner or a seasoned yogi, this versatile mat is perfect for yoga, Pilates, and other exercises. Enjoy the benefits of a stable grip and comfortable surface, designed for yoga lovers of all ages.
-  Updated: 2026-01-25T20:58:07Z
+  Updated: 2026-02-04T19:16:55Z
   Vendor: NNEOBA
   Product Type: Sports & Fitness > Exercise, Gym & Fitness > Yoga & Pilates
   Availability: Available
@@ -247,21 +247,21 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/469703c06c034ec6a4b745b971171da6-goods.jpg?v=1767056326
   Price: R 2,009.14 ZAR
 - [NNEDSZ Red And Silver Durable 8oz PU Leather Boxing Gloves - Padded & Ventilated for Training](https://apexgym369.store/products/nnedsz-red-and-silver-durable-8oz-pu-leather-boxing-gloves-padded-ventilated-for-training): Gear Up for Training: Durable 8oz PU Leather Boxing Gloves Whether you are hitting the heavy bag, practicing drills, or engaging in light sparring, these 8oz boxing training gloves offer the protection and durability you need. Crafted from tough, tear-resistant PU leather with comfortable padding, they are designed for regular use in boxing, Sanda, kickboxing, and general fitness training. Durable PU Leather Construction: Made with a tear-resistant Polyurethane (PU) leather exterior that withstands the rigors of training while being easy to clean and maintain. Protective EVA Padding: Features a pre-molded EVA foam liner with a thickened fist peak designed to effectively absorb and disperse impact shock, protecting your hands and knuckles during strikes. Breathable Palm Design: Incorporates ventilation holes in the palm area to promote airflow, helping to keep hands cooler and reduce sweat buildup for enhanced comfort during longer sessions. Secure Wrist Support: Equipped with a strong and wide wrist strap (typically hook-and-loop closure) for a secure, adjustable fit that provides essential wrist support during punching. Ideal Training Size (8oz): The 8oz weight is often suitable for younger participants, lighter adults, or specific types of training like speed work and bag drills where less bulk is desired. (Approx. total weight for the pair is 456g). Versatile Use: Suitable for various combat sports training including boxing, Sanda (Chinese kickboxing), Muay Thai drills, and cardio kickboxing fitness classes. Reliable Protection for Your Training Sessions: These gloves (Model YW301) provide a solid combination of protection, durability, and comfort. The robust construction and impact-absorbing padding help keep your hands safe, while the breathable design ensures greater comfort, allowing you to focus on your technique. Specifications: Product Name: Boxing Training Gloves Size: 8oz (Ounce) Material: Tear-Resistant PU Leather (Outer), EVA Molded Liner (Inner) Color: Red Approx. Weight (Pair): 456g Features: Padded Fist Peak, Ventilated Palm, Secure Wrist Closure Intended Use: Boxing Training, Sanda, Bag Work, Fitness Package Includes: 1 x Pair of 8oz Boxing Gloves Important Safety Notice: These gloves are intended for training purposes. Always use under appropriate supervision, especially for minors. Ensure proper hand wrapping technique is used for added protection. These gloves do not guarantee prevention of injury. Consult with a coach or professional for appropriate sizing and usage. Inspect gloves regularly for wear and tear. Returns, Refunds and Replacements Products that are received faulty, damaged, or not as described are eligible for a return, refund, or replacement in accordance with the Australian Consumer Law (ACL). We are committed to ensuring all products meet the standards of quality and reliability expected by our customers. However, please note that we do not accept returns or provide refunds for change of mind. We encourage you to carefully consider your purchase to ensure it meets your needs and expectations.Delivery Timeframe Please note that we cannot guarantee the exact date of arrival, and the delivery timeframes (excluding weekends and public holidays) are as follows: For customers in Victoria, approximately 7-10 working days; For customers in NSW, SA, ACT, and QLD, approximately 9-12 working days; For customers in WA, NT, and TAS, approximately 9-12 working days.
-  Updated: 2026-01-25T20:58:07Z
+  Updated: 2026-02-04T19:13:58Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Exercise, Gym & Fitness > Gym Equipment & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V888-ELOSUNG23991-202504171626-00.jpg?v=1767056329
   Price: R 1,788.95 ZAR
 - [NNEDSZ Pull Up Bar 104CM Doorway Chin Up Horizontal Bar Gym](https://apexgym369.store/products/nnedsz-pull-up-bar-104cm-doorway-chin-up-horizontal-bar-gym): Enjoy flexible, core strengthening exercises anywhere in the home with the Everfit Chin-up Bar. The bar is designed to easily hang above your entryway and is ideal for most modern doorways. The heavy-duty construction keeps the bar in place for safety and support, and the bar has overall weight-bearing support of 136kg. A soft and comfortable foam grip makes it easy to enjoy your favourite exercises anytime. Use for a wide variety of exercises including pull-ups, sit-ups, chin-ups and more. Get your fitness journey up and moving with the new Chin-up Bar from Everfit. FeaturesDoorway pull-up bar Multifunctional horizontal barPerfect for chin-ups, pull-ups, leg raises and moreSoft and comfortable foam grip 136kg weight-bearing supportSuitable applied to doorway or wall surface Specifications:Brand: EverfitMaterial: Steel Pipe + PP PlasticAssembled Size: 104x7x22CMAssembly required: YesNo. of packages: 1 Package ContentEverfit Chin Up Bar X1Manual X1 This product comes with 1 year warranty
-  Updated: 2026-01-27T19:06:07Z
+  Updated: 2026-02-04T19:07:55Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/PUB-A-L-BK-95269-02.jpg?v=1767056332
   Price: R 1,376.08 ZAR
 - [NNECW Folding Electric Treadmill with 12 Preset Programs for Home-Navy](https://apexgym369.store/products/nnecw-folding-electric-treadmill-with-12-preset-programs-for-home-navy): No time for gym? This folding treadmill is the perfect solution for you! The powerful motor provides 1.0 – 12.0 km/h adjustable speed, 12 preset programs and 3 modes for you to exercise effectively, so you can walk, jog and run on it. And it will not disturb your family with quiet performance. Additionally, safety is very important. Hence, the 5-layer shockproof and anti-slip running belt and safety key ensure your safety while running. Moreover, sports data (time, speed, distance, calorie and heart rate) can be feedback directly through LED monitor. In order to make running more interesting and convenient, this running machine can be connected with your phone/tablet via bluetooth. Thus, you are able to listen to the music through bluetooth speaker and control the treadmill through GYMAX APP. When the exercise is finished, you can fold this treadmill and move it with 2 built-in wheels. Bullet Point: Powerful Yet Quiet Motor: With adjustable speed from 1.0 – 12.0 km/h, 12 preset programs and 3 different modes, this electric running machine with powerful motor allows you to customize your fitness plan according to your sports goals, burning calories effectively. And it creates a quiet environment when you exercise at home. Safe Running Machine: This compact running machine is designed with 5-layer shockproof and anti-slip running belt, which provides excellent cushion for your knees and joints and brings cozy use experience. Meanwhile, the safety key will automatically shut down the treadmill for protection. Clear LED Monitor: This portable treadmill is able to track the sports data of time, speed, distance, calories and heart rate and feedback these data to your immediately. Moreover, there are heart rate sensors on the handrails to detect your pulse. And you can put your phone on the device holder for entertainment. Bluetooth Connection: You can connect your device with this electric treadmill via bluetooth which is called “EsangAudio”. Then, the quality sound will come from the bluetooth speaker, making running no longer boring. Likewise, the GYMAX APP can be activated as well in order to control the treadmill, record your fitness data, share the exercise results to the community and rank with others, etc. Perfect for Small Space: This compact treadmill with 2 built-in wheels is foldable and portable for convenient movement and storage. Therefore, you can store it under the bed/sofa or against the wall for space-saving. Features: Adjustable speed from 1.0 – 12.0 km/h for different exercise needs 12 preset programs and 3 different modes to meet various fitness goals Powerful yet quiet motor avoids disturbing others Makes running cozy and safe with 5-layer shockproof and anti-slip running belt Automatically shuts down the treadmill with safety key LED monitor for feedback the data of time, speed, distance, calorie and heart rate Device holder for placing your phone or tablet Connects your device with GYMAX APP via bluetooth for easy operation Listens to the quality sound through bluetooth speaker Easy to store and move with foldable design and 2 built-in wheels Specifications: Color: Silver/Red/Navy Material: Steel, ABS Dimension of unfolding: 112.9cm x 58.5 x 93.3 cm (L x W x H) Dimension of folding: 112.9 x 58.5 x 11 cm (L x W) Size of running belt: 95 x 36 cm (L x W) Net weight: 25.5kg Weight capacity: 90kg Speed range: 1.0 – 12.0km/h Voltage: 220-240V 50Hz Package Includes: 1 x Treadmill 1 x Instruction Box Qty：1(May vary by batch)
-  Updated: 2026-01-26T19:09:17Z
+  Updated: 2026-01-30T19:14:42Z
   Vendor: NNECW
   Product Type: Treadmills
   Availability: Available
@@ -282,26 +282,26 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/a90bf2a3-f938-4645-a9f8-2f2c5906a34a.jpg?v=1767056390
   Price: R 700.00 ZAR
 - [NNEOBA Deep Tissue Yoga Roller for Muscle Relief](https://apexgym369.store/products/nneoba-deep-tissue-yoga-roller-for-muscle-relief): Enhance your recovery with the NNEOBA Deep Tissue Yoga Roller, designed for effective muscle relaxation and trigger point relief. Specifications Size: 33 cm x 13 cm Brand: NNEOBA Material: High-density foam Benefits Targets deep tissue muscles for effective massage Improves flexibility and range of motion Reduces muscle soreness and tension Ideal for pre- and post-workout recovery Compact and portable design for easy use anywhere Description Experience superior muscle relief with the NNEOBA Deep Tissue Yoga Roller. Crafted for fitness enthusiasts and those seeking effective muscle relaxation, this foam roller targets deep tissue and trigger points to alleviate soreness and enhance flexibility. Measuring 33 cm x 13 cm, its high-density foam provides just the right amount of firmness for a personalized massage experience. Perfect for pre- and post-workout recovery, this roller is compact and easy to carry, making it a must-have in your fitness routine. Whether at home or on the go, the NNEOBA Deep Tissue Yoga Roller will help you achieve a healthier, more relaxed body.
-  Updated: 2026-01-28T19:12:21Z
+  Updated: 2026-01-31T19:13:26Z
   Vendor: NNEOBA
   Product Type: Sports & Fitness > Exercise, Gym & Fitness > Yoga & Pilates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Yoga-Roller-Fitness-Roller-Suitable-for-Deep-Tissue-Muscle-Massage-Trigger-Point-Exercise-Foam-Roller-Muscle_1836f17d-17e1-4ce5-b0d0-d737d0a94d29.webp?v=1767056393
   Price: R 1,150.88 ZAR
 - [NNETM Door Flexibility Trainer Adjustable Split Leg Stretch Strap](https://apexgym369.store/products/nnetm-door-flexibility-trainer-adjustable-split-leg-stretch-strap): Boost leg flexibility and balance with the NNETM door stretch trainer—perfect for dancers, gymnasts, and athletes. Specifications:• Quantity: 1pc• Dimensions: Refer to the image• Material: Iron• Color: Black• Number of Products: 1 Benefits:Improves flexibility and range of motionSupports proper leg alignment during stretchesGreat for home stretching routinesEasy to install on most standard doorsSuitable for yoga, ballet, taekwondo, and gymnastics Description:The NNETM Door Flexibility Trainer is designed to help improve your leg flexibility, balance, and muscle control through consistent stretching. Whether you're a dancer, athlete, or just working on mobility, this leg split strap is a great addition to your home workout gear. It installs easily on most doors and provides stable support for safe stretching routines.
-  Updated: 2026-01-28T19:06:37Z
+  Updated: 2026-02-04T19:07:51Z
   Vendor: NNETM
   Product Type: Weightlifting Machines & Racks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/4e539d12-cdac-40a9-a72d-cfdc22fc1317.jpg?v=1767056397
   Price: R 300.00 ZAR
 - [Creatine Gummies – Strawberry – 120 Count (5 g Each)](https://apexgym369.store/products/creatine-gummies-strawberry-120-count-5-g-each): Creatine Gummies – Strawberry – 120 Count (5 g Each)Premium FormPremium Formula, Maximum Efficacy: Each serving of our creatine monohydrate gummies contains 5g, which is equivalent to 2-4 gummies of pure creatine monohydrate. This combination ensures maximum benefitsula, Maximum Efficacy: Each serving of our creatine monohydrate gummies contains 5g, which is equivalent to 2-4 gummies of pure creatine monohydrate. This combination ensures maximum benefits Highest Quality:All of our gummies are manufactured, tested, and bottled in a GMP- factory to ensure superior quality and consistency. With their unique formulation synergies, they help you achieve your best workout Vegan, No-Gelatin, 0g Sugar: Each bottle contains 120 count of vegan, non-GMO, and No-gluten creatine monohydrate gummies that are also 0g Sugar. Say goodbye to bulky creatine powders and the hassle of measuring scoops. Our gummies are far from chalky textures or messy scoops. Bursting with juicy berry flavors, they turn your daily creatine intake into a delightful treat Key Benefits: Our Creatine monohydrate gummies are an easy way to consume. You can take 2-4 gummies per serving at any time and any place. Bageto creatine monohydrate gummies help promote lean muscle growth, elevate athletic performance, improve high-intensity exercise capacity, enhance muscle strength, and aid in muscle recovery Key Benefits: Our Creatine monohydrate gummies are an easy way to consume. You can take 2-4 gummies per serving at any time and any place. Bageto creatine monohydrate gummies help promote lean muscle growth, elevate athletic performance, improve high-intensity exercise capacity, enhance muscle strength, and aid in muscle recovery
-  Updated: 2026-01-28T16:49:06Z
+  Updated: 2026-02-04T16:49:35Z
   Vendor: Masterpiece Foods
   Product Type: Health and Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/7153V61MzYL._AC_SL1500.jpg?v=1767056673
-  Price: R 867.15 ZAR
+  Price: R 869.00 ZAR
 - [Deep Tissue Massage Gun](https://apexgym369.store/products/deep-tissue-massage-gun): Experience Ultimate Relaxation with Our Deep Tissue Percussion Massager Indulge in the soothing power of our Deep Tissue Percussion Massager, designed to provide a rejuvenating experience for your entire body. Whether you need to unwind after a long day or prepare for an intense workout, this handheld electric massager is your perfect companion. Unmatched Features 30 Adjustable Speeds: Tailor your massage experience with 30 speed settings, allowing you to find the perfect intensity for your needs. 9 Interchangeable Attachments: Customize your massage with multiple attachments designed for different muscle groups, ensuring a targeted  every time. USB Charging: Equipped with a rechargeable lithium battery (2500 mAh), this device ensures you can enjoy your massage without the hassle of cords. Versatile Use: Ideal for the whole body, including the neck and back, this massager is convenient for relieving tension and improving circulation. Unscented Design: Perfect for those who prefer a fragrance-free experience. Why Choose Us? What sets our Deep Tissue Percussion Massager apart from competitors is not only its powerful performance but also its thoughtful design. Our massager is lightweight and portable, making it easy to use at home, in the office, or while traveling. Plus, it makes a perfect gift for your loved ones, whether it’s for birthdays, anniversaries, or just because. Show your appreciation with a gift that promotes relaxation and wellness. Specifications Operating Voltage: 12V (included) - 20V (not included) Material: Durable plastic for long-lasting use Transform your self-care routine with our Deep Tissue Percussion Massager and experience the benefits of professional-grade massage therapy from the comfort of your home.
   Updated: 2026-01-28T19:48:14Z
   Vendor: Cashymart
@@ -343,14 +343,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/fitness-shorts-lauma-active-lm46d70-lauma-active-shorts-lavinia-lingerie-23459720897.jpg?v=1767074338
     Price: R 328.21 ZAR
 - [NNEDSZ Fitness SP-310 M2  Fitness Spin Bike](https://apexgym369.store/products/nnedsz-fitness-sp-310-m2-fitness-spin-bike): Lifespan Fitness� SP-310 emphasises quality over extravagant features. Adjustable saddle and handlebars, the SP-310 will support riders of almost all sizes. Minimalist LCD display de-clutters tracking workout data. Quality frame and parts guarantee riders a smooth workout through any intensity. GENERAL Adjustable Manual Tension 13kg Heavy duty Cast Iron Flywheel Racing seat design for performance PU Leather seat, Adjustable up and down, forwards and backwards Aluminium alloy pedals with toe clips Handlebar Adjustable Up/Down Tubular Steel Frame Chain driven DIMENSIONS AND WEIGHT Occupancy Size: 128cm x 51cm x 120cm (L x W x H) Net Weight: 35kg Maximum User Weight: 125kg Maximum User Height: 200cm (150cm minimum) Crank Arm Length: 170mm Centre Crank to Seat Top Range: 62cm - 84cm Top Tube to Seat Centre Range: 58cm - 75cm COMPUTER AND PROGRAMS Shows speed, distance, time, calories Assembly Required: This product comes partially assembled in a box with assembly instructions included.
-  Updated: 2026-01-28T19:07:22Z
+  Updated: 2026-02-04T19:09:51Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V420-LFEX-SP310-M2-87836-02.jpg?v=1767074345
   Price: R 14,610.66 ZAR
 - [NNEDSZ Fitness SP-460 M2 Fitness Spin Bike](https://apexgym369.store/products/nnedsz-fitness-sp-460-m2-fitness-spin-bike): Come flying off the mark with the Lifespan Fitness SP-460 M2 Spin Bike. Our TrueSpin� Precision flywheels are balance tested to guarantee riders the smoothest and most stable experience. With an 18kg flywheel, the SP-460 M2 carries significant momentum and provides a more consistent cadence. Find unlimited resistance at the turn of a dial to simulate the steepest climbs and fastest sprints. GENERAL Commercial Grade Cast Iron 18kg Flywheel Unlimited Resistance Chain Drive train Transport wheels Seat adjustable up and down, forwards and backwards 125kg Max user weight/height Tubular Steel Frame DIMENSIONS AND WEIGHT Occupancy Size: 128 x 51 x 120cm (L x W x H) COMPUTER AND PROGRAMS LCD display Shows time, distance, calories, speed, rpm, pulse Assembly Required: This product comes partially assembled in a box with assembly instructions included.
-  Updated: 2026-01-28T19:13:08Z
+  Updated: 2026-02-03T19:13:06Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
@@ -364,155 +364,155 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/IMG_8765.jpg?v=1767074362
   Price: R 1,965.88 ZAR
 - [Household Fitness Equipment](https://apexgym369.store/products/household-fitness-equipment): Achieve your fitness goals with ease using the NNEOBA Suction Cup Double Bar Sit-Up Assist Device. Perfect for home workouts, this device helps you build abdominal strength and tone your core. Specifications: Material: Steel, Rubber Size: 26 x 21 x 20 cm Color: Blue Features: Easy Installation: No tools required; simply place the device on a clean, flat surface and lock it in place. Adjustable Design: Features four height settings to accommodate different users and exercise needs. Non-Slip Surface: Smooth and safe for your legs and feet, reducing the risk of injury. Strong Suction: Equipped with 22 cm wide double suction cups for secure attachment on smooth surfaces like marble and granite. Durable Construction: Made from premium materials for long-lasting performance. Description: Transform your home workouts with the NNEOBA Suction Cup Double Bar Sit-Up Assist Device. This innovative fitness tool is designed for easy installation on any smooth surface, requiring no tools for setup. Its four adjustable height settings ensure a customized exercise experience, while the non-slip surface provides added safety during workouts. The double suction cups offer a strong hold on surfaces such as marble and granite, making it a versatile addition to your fitness routine. Made from durable steel and rubber, this device is built to withstand regular use and help you achieve your abdominal training goals effectively. Ideal for home exercise enthusiasts looking to enhance their core strength and overall fitness.
-  Updated: 2026-01-27T23:48:59Z
+  Updated: 2026-02-02T23:48:57Z
   Vendor: OBA
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Household-Fitness-Equipment-Suction-Cup-Double-Bar-Sit-up-Assist-Device-Abdominal-Trainer-for-Home-Exercise_0a734c4e-f884-4f92-9142-435348fcf350.webp?v=1767074367
   Price: R 1,981.62 ZAR
 - [Fitness Kick Pad](https://apexgym369.store/products/fitness-kick-pad): Enhance your training sessions with the NNEOBA Fitness Kick Pad, designed to improve your speed, accuracy, and strength. Whether you're practicing high or low kicks, this kick pad is the ideal tool to take your skills to the next level. Product Features Secure Grip: Comes with a wrist strap to ensure the pad stays securely in place during intense practice sessions. Dual Targets: Features a double-leaf design for more effective training, allowing for varied kicking techniques and combinations. Audible Feedback: Each strike produces a satisfying, loud sound, helping you focus, develop snap, and boost confidence. Perfect for All Levels: Suitable for beginners and advanced practitioners, making it an excellent gift for boxing and martial arts enthusiasts. Product Specifications: Material: Durable PU leather and EVA foam for longevity and effective impact absorption. Colors: Available in Blue. Dimensions: Measures 42 cm by 20 cm, providing ample surface area for a variety of kicks.
-  Updated: 2026-01-28T23:48:49Z
+  Updated: 2026-02-04T23:48:03Z
   Vendor: OBA
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Sf30b0c0ba0d7424683124ff54f01648ay_320bb83f-ee00-4984-89ed-1c88d725a330.webp?v=1767074375
   Price: R 788.00 ZAR
 - [Sport BH - Fitness Top L5173 - XL](https://apexgym369.store/products/sport-bh-fitness-top-l5173-xl): Der BH ist gefertigt aus weichem, dehnbarem Material. Sehr angenehm zu tragen. Der breite Gummi sorgt für Stabilität und Komfort bei jeder Trainingseinheit. Die Träger sind verstellbar. 2-fach verstellbarer, breiter Hakenverschluss auf der Rückseite. Der Artikel ist in einer Box verpackt. Pflegehinweis : 30Grad Handwäsche Farbe : schwarz/weiß Material : Hauptmaterial 87% Polyester / 13% Elasthan, Netz 90% Polyester / 10% Elasthan erhältliche Größen : S, M, L, XL
-  Updated: 2026-01-28T00:45:48Z
+  Updated: 2026-02-04T00:45:54Z
   Vendor: Lorin
   Product Type: Sport BH
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/LR582142_5173_top_2.jpg?v=1767074445
   - [S / schwarz/pink](https://apexgym369.store/products/sport-bh-fitness-top-l5173-xl?variant=45626268516540)
     Availability: Available
-    Price: R 459.44 ZAR
+    Price: R 454.22 ZAR
   - [M / schwarz/pink](https://apexgym369.store/products/sport-bh-fitness-top-l5173-xl?variant=45626268549308)
     Availability: Available
-    Price: R 459.44 ZAR
+    Price: R 454.22 ZAR
   - [L / schwarz/pink](https://apexgym369.store/products/sport-bh-fitness-top-l5173-xl?variant=45626268582076)
     Availability: Available
-    Price: R 459.44 ZAR
+    Price: R 454.22 ZAR
   - [XL / schwarz/pink](https://apexgym369.store/products/sport-bh-fitness-top-l5173-xl?variant=45626268614844)
     Availability: Available
-    Price: R 459.44 ZAR
+    Price: R 454.22 ZAR
 - [Yoga Fitness Leggings with Pockets](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets): Yoga Fitness Leggings with PocketsMeet your new favorite Yoga Fitness Leggings with Pockets. With a classic, high-waisted cut, excellent comfort and two practical side pockets, these semi-compression leggings will support you during workouts and casual walks in the city. Their comfortable and stylish design perfectly matches the elegance and comfort of the Arapakos&Evezeti collection. Ideal for all hours of the day, these leggings adapt easily to the needs of the modern woman. Get yours now!
-  Updated: 2026-01-28T15:33:12Z
+  Updated: 2026-02-04T15:30:47Z
   Vendor: Atelier Evezet Arapakou
   Product Type: CASUAL WEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/file.jpg?v=1767074448
   - [2XS](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268680380)
     Availability: Available
-    Price: R 734.72 ZAR
+    Price: R 726.37 ZAR
   - [XS](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268713148)
     Availability: Available
-    Price: R 734.72 ZAR
+    Price: R 726.37 ZAR
   - [S](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268745916)
     Availability: Available
-    Price: R 734.72 ZAR
+    Price: R 726.37 ZAR
   - [M](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268778684)
     Availability: Available
-    Price: R 734.72 ZAR
+    Price: R 726.37 ZAR
   - [L](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268811452)
     Availability: Available
-    Price: R 734.72 ZAR
+    Price: R 726.37 ZAR
   - [XL](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268844220)
     Availability: Available
-    Price: R 734.72 ZAR
+    Price: R 726.37 ZAR
   - [2XL](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268876988)
     Availability: Available
-    Price: R 756.76 ZAR
+    Price: R 748.16 ZAR
   - [3XL](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268909756)
     Availability: Available
-    Price: R 778.81 ZAR
+    Price: R 769.96 ZAR
   - [4XL](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268942524)
     Availability: Available
-    Price: R 800.85 ZAR
+    Price: R 791.76 ZAR
   - [5XL](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626268975292)
     Availability: Available
-    Price: R 822.90 ZAR
+    Price: R 813.55 ZAR
   - [6XL](https://apexgym369.store/products/yoga-fitness-leggings-with-pockets?variant=45626269008060)
     Availability: Available
-    Price: R 844.95 ZAR
+    Price: R 835.35 ZAR
 - [Sports Leggings - Fitness Hose L9026 - XL](https://apexgym369.store/products/sports-leggings-fitness-hose-l9026-xl): Gefertigt aus weichem, dehnbarem Material. Sehr angenehm zu tragen. Der hohe Bund sorgt für Stabilität beim Training. Der Artikel ist in einer Box verpackt. Pflegehinweis : 30Grad Handwäsche Farbe : schwarz/weiß Material : 82% Polyester / 18% Elasthan erhältliche Größen : S, M, L, XL
-  Updated: 2026-01-28T00:45:51Z
+  Updated: 2026-02-04T00:45:58Z
   Vendor: Lorin
   Product Type: Sport Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/LR582265_9026_leggings_2.jpg?v=1767074458
   - [S / schwarz/grau](https://apexgym369.store/products/sports-leggings-fitness-hose-l9026-xl?variant=45626269040828)
     Availability: Available
-    Price: R 470.90 ZAR
+    Price: R 465.55 ZAR
   - [M / schwarz/grau](https://apexgym369.store/products/sports-leggings-fitness-hose-l9026-xl?variant=45626269073596)
     Availability: Available
-    Price: R 470.90 ZAR
+    Price: R 465.55 ZAR
   - [L / schwarz/grau](https://apexgym369.store/products/sports-leggings-fitness-hose-l9026-xl?variant=45626269106364)
     Availability: Available
-    Price: R 470.90 ZAR
+    Price: R 465.55 ZAR
   - [XL / schwarz/grau](https://apexgym369.store/products/sports-leggings-fitness-hose-l9026-xl?variant=45626269139132)
     Availability: Available
-    Price: R 470.90 ZAR
+    Price: R 465.55 ZAR
 - [Educational Game My First Fitness Watch](https://apexgym369.store/products/educational-game-my-first-fitness-watch): Children deserve the best, that's why we present to you Educational Game My First Fitness Watch, ideal for those who seek quality products for their little ones! Get at the best prices! Colour: Black Pink Rose White Multicolour Language: French Material: Plastic Characteristics: Sound effects Gender: Children's Battery operated: Yes Includes: Battery Batteries included: Yes Number of players: 1 Players Assembly required: No Recommended age: + 1 year + 18 Months
-  Updated: 2026-01-27T03:23:32Z
+  Updated: 2026-02-04T19:20:45Z
   Vendor: BigBuy Home
   Product Type: Toys | Fancy Dress > Toys and Games > Playing at being grown-up
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8436538676394_S71008083_P30.jpg?v=1767074475
-  Price: R 788.88 ZAR
+  Price: R 736.65 ZAR
 - [Sports Leggings - Fitness Hose L9020 - XL](https://apexgym369.store/products/sports-leggings-fitness-hose-l9020-xl): Gefertigt aus weichem, dehnbarem Material. Sehr angenehm zu tragen. Der hohe Bund sorgt für Stabilität beim Training. Der Artikel ist in einer Box verpackt.Pflegehinweis : 30Grad Handwäsche Farbe : schwarz/weißMaterial : 82% Polyester / 18% Elasthanerhältliche Größen : S, M, L, XL
-  Updated: 2026-01-28T00:45:43Z
+  Updated: 2026-02-04T00:45:46Z
   Vendor: Lorin
   Product Type: Sport Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/LR582201_9020_2.jpg?v=1767074493
   - [S / schwarz/weiß](https://apexgym369.store/products/sports-leggings-fitness-hose-l9020-xl?variant=45626269892796)
     Availability: Available
-    Price: R 464.43 ZAR
+    Price: R 459.16 ZAR
   - [M / schwarz/weiß](https://apexgym369.store/products/sports-leggings-fitness-hose-l9020-xl?variant=45626269925564)
     Availability: Available
-    Price: R 464.43 ZAR
+    Price: R 459.16 ZAR
   - [L / schwarz/weiß](https://apexgym369.store/products/sports-leggings-fitness-hose-l9020-xl?variant=45626269958332)
     Availability: Available
-    Price: R 464.43 ZAR
+    Price: R 459.16 ZAR
   - [XL / schwarz/weiß](https://apexgym369.store/products/sports-leggings-fitness-hose-l9020-xl?variant=45626269991100)
     Availability: Available
-    Price: R 464.43 ZAR
+    Price: R 459.16 ZAR
 - [Sports bra - fitness top L5179 - XL](https://apexgym369.store/products/sports-bra-fitness-top-l5179-xl): A slightly stretchy mesh material on the outside. Inside a top made of stretchy, soft material (close-fitting). The wide rubber ensures stability and comfort during every training session. The article is packed in a glossy box with a picture. Care instructions: 30 degree hand wash Color : black Material : mesh 100% polyamide, inner material 90% polyamide / 10% elastane, elastic bands 75% polyester / 25% elastane Available Size : S, M, L, XL Please note that images can be similar and we assume no liability for product information.
-  Updated: 2026-01-28T15:30:50Z
+  Updated: 2026-02-04T15:30:13Z
   Vendor: Lorin
   Product Type: Apparel > Sleepwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/LR582165_5179_top.jpg?v=1767074495
   - [S / black](https://apexgym369.store/products/sports-bra-fitness-top-l5179-xl?variant=45626270023868)
     Availability: Available
-    Price: R 435.63 ZAR
+    Price: R 430.68 ZAR
   - [M / black](https://apexgym369.store/products/sports-bra-fitness-top-l5179-xl?variant=45626270056636)
     Availability: Available
-    Price: R 435.63 ZAR
+    Price: R 430.68 ZAR
   - [L / black](https://apexgym369.store/products/sports-bra-fitness-top-l5179-xl?variant=45626270089404)
     Availability: Available
-    Price: R 435.63 ZAR
+    Price: R 430.68 ZAR
   - [XL / black](https://apexgym369.store/products/sports-bra-fitness-top-l5179-xl?variant=45626270122172)
     Availability: Available
-    Price: R 435.63 ZAR
+    Price: R 430.68 ZAR
 - [Sports bra - fitness top L5160 - XL](https://apexgym369.store/products/sports-bra-fitness-top-l5160-xl): The bra is lined with soft foam on the inside, which protects the chest. The wide rubber ensures stability and comfort during every training session. The straps are adjustable. Stable, wide closure on the back. The article is packed in a glossy box with a picture. Care instructions: 30 degree hand wash Color : black/white Material : 95% polyamid / 5% elastane Available Size : S, M, L, XL Please note that images can be similar and we assume no liability for product information.
-  Updated: 2026-01-28T15:33:21Z
+  Updated: 2026-02-04T15:30:32Z
   Vendor: Lorin
   Product Type: Apparel > Sleepwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/LR582087_5160_5.jpg?v=1767084761
   - [S / black/white](https://apexgym369.store/products/sports-bra-fitness-top-l5160-xl?variant=45626270154940)
     Availability: Available
-    Price: R 490.30 ZAR
+    Price: R 484.73 ZAR
   - [M / black/white](https://apexgym369.store/products/sports-bra-fitness-top-l5160-xl?variant=45626270187708)
     Availability: Available
-    Price: R 490.30 ZAR
+    Price: R 484.73 ZAR
   - [L / black/white](https://apexgym369.store/products/sports-bra-fitness-top-l5160-xl?variant=45626270220476)
     Availability: Available
-    Price: R 490.30 ZAR
+    Price: R 484.73 ZAR
   - [XL / black/white](https://apexgym369.store/products/sports-bra-fitness-top-l5160-xl?variant=45626270253244)
     Availability: Available
-    Price: R 490.30 ZAR
+    Price: R 484.73 ZAR
 - [Creatine Monohydrate](https://apexgym369.store/products/creatine-monohydrate): The body produces small amounts of creatine, primarily in the liver and kidneys. It is subsequently carried via the bloodstream to skeletal muscle, which requires it for optimal performance. Unfortunately, the quantity of creatine shown in clinical research trials to support and promote exercise performance, muscle protein synthesis, and related processes is significantly larger than what the body can manufacture and what we receive through our diet. This is where creatine monohydrate supplementation comes in.*Our creatine monohydrate is produced by a global leader in the research, development, and manufacturing of creatine. This brand of creatine is the most widely utilized in research studies, and it is useful for athletes and others seeking that "edge" to help them reach their fitness and athletic goals.*Ingredients: Creatine Monohydrate.Flavor: UnflavoredManufacturer Country: USAProduct Amount: 0.55lb (250g)Gross Weight: 0.65lb (295g)Suggested Use: As a dietary supplement, adults take one (1) scoop in eight (8) oz. of water or juice four (4) times daily during the first five (5) days (loading phase). After the loading phase, take one (1) or two (2) times daily or as directed by a health care professional.Warning: Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place and away from direct light.*These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat, , or prevent any disease.
   Updated: 2026-01-25T20:58:11Z
   Vendor: Survival Grocery®
@@ -521,7 +521,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/20241120162036-creatine-monohydrate.jpg?v=1767084737
   Price: R 884.08 ZAR
 - [CREATINE](https://apexgym369.store/products/creatine): Increase in Strength and Power Creatine is an excellent ally for increased strength, blast speed, and endurance! Although produced naturally by the body, our body has few reserves of this amino acid compound. To optimize sporting and muscle-building results, several athletes and practitioners thus opt for supplementation with creatine.With Creatine you can enjoy the benefits of creatine in explosive strength, muscle mass gain, and recovery. With the assurance that you are taking the purest patented creatine on the market, Creapure®. What are the benefits of Creatine? – Improves performance during high-intensity and short-duration exercises;– Enhances muscle mass gain;– Helps in a speedy recovery. How to take it 3 tablets per day, for eight weeks, after training. Do not exceed recommended daily intake.
-  Updated: 2026-01-28T02:17:54Z
+  Updated: 2026-02-04T02:16:13Z
   Vendor: GoldNutrition
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -535,12 +535,12 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5958ROC609.png?v=1767076579
   Price: R 810.88 ZAR
 - [Creatine Pure - 100% Micronised Creatine Monohydrate](https://apexgym369.store/products/creatine-pure-100-micronised-creatine-monohydrate): Creatine is one of the most thoroughly researched supplements with decades of evidence behind it. Derived from the highest quality 100% Micronised Creatine Monohydrate, it’s been linked to enhanced muscle strength and power, as well as other health benefits such as enhancing mood and improving brain function. Stack Creatine Pure with your favourite VIVO Nue product for your optimal clean go to results you're looking for, weather Sports fitness or health wellbeing journey! Premium pharmaceutical grade Micronised Creatine is the most BIO-AVAILABLE form, as its fine creatine molecules are ABSORBED FAST for OPTIMAL UPTAKE.As one of the most researched and proven supplements, it supports IMPROVED EXERCISE PERFORMANCE, STRENGTH and ENDURANCE by helping to boost adenosine triphosphate production (ATP) – the primary energy source for muscle contractions, helping you power through your workouts. Creatine is responsible for improving performance in high-intensity exercises, while also increasing energy, strength and recovery rates. Supporting both physical and mental functions, Creatine offers neuroprotective and cardio protective benefits. Studies have found the use of Creatine helps improve mental clarity and focus. Plus, Creatine also helps promote cellular hydration – higher doses can support muscular water retention and lean muscle mass.
-  Updated: 2026-01-28T05:08:56Z
+  Updated: 2026-02-04T05:10:36Z
   Vendor: VIVO Nue
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Creatine-Pure-100-Micronised-Creatine-Monohydrate.png?v=1767076586
-  Price: R 554.18 ZAR
+  Price: R 559.08 ZAR
 - [Legacy Creatine | 100 Servings | Pure Creatine Monohydrate](https://apexgym369.store/products/legacy-creatine-100-servings-pure-creatine-monohydrate): Legacy Performance Creatine Monohydrate: Pure Power Boost strength, power, and recovery with 100% pure creatine monohydrate, one of the most researched and effective supplements in fitness. With 100 servings per container, it’s perfect for athletes looking to train harder, recover faster, and perform better physically and mentally.
   Updated: 2026-01-25T20:58:11Z
   Vendor: Legacy Performance
@@ -549,14 +549,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/legacy-creatine-unflavored-gym.jpg?v=1767076598
   Price: R 750.88 ZAR
 - [CREATINE POWDER](https://apexgym369.store/products/creatine-powder): Increased Strength and Power You can amplify the effects of your resistance training with Creatine Powder. The formula contains Creapure®, the purest, safest and highest quality creatine on the market that will help you get the best results in terms of strength. Creatine supplementation has positive effects on strength and power, which consequently will lead to longer training sessions, faster recovery between sets, and increased muscle volume in the long term. Ideal product for:– Increase strength and power sprint;– Increase jumping capacity;– Faster recovery between workouts. How to use? Loading Phase: 20 g / day, for 5 days. Take in doses of 5 g, 4 times a day with juice or isotonic drink. Maintenance phase: 5 g / day, for 6-8 weeks, before training. Do not exceed the recommended daily intake.
-  Updated: 2026-01-28T02:17:56Z
+  Updated: 2026-02-04T02:16:11Z
   Vendor: GoldNutrition
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/download_16_82eb8530-21a4-4a5c-9857-b789db3cd58b.png?v=1767076613
   Price: R 472.44 ZAR
 - [CREATINE MONOHYDRATE](https://apexgym369.store/products/creatine-monohydrate-s-1): Creatine Monohydrate – Nutrition & Wellness Support is a dietary supplement designed to support your daily nutrition needs in connection with training and an active lifestyle. Each serving provides creatine monohydrate, an amino-acid-derived compound found naturally in the body, to help complement dietary intake when nutritional demands are increased. This product may be used alongside a balanced diet and regular exercise routine by adults seeking to maintain proper nutrition under higher training loads. Food supplement. Not intended to diagnose, treat,  or prevent any disease. Use as part of a varied, balanced diet and healthy lifestyle. Do not exceed the recommended daily intake. Keep out of reach of children.
-  Updated: 2026-01-28T02:17:53Z
+  Updated: 2026-02-04T02:16:14Z
   Vendor: GoldNutrition
   Product Type: Supplements / Dietary Supplements
   Availability: Available
@@ -574,14 +574,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/prod_CreatineMonohydrate_WildBerries.jpg?v=1767076621
     Price: R 236.10 ZAR
 - [CAFFEINE CAPS](https://apexgym369.store/products/caffeine-caps): Performance Booster! Caffeine is one of the quintessential ergogenic ingredients, widely studied and used in sports nutrition. Caffeine supplementation has been shown to improve several aspects related to sports performance. Its effects include improved muscular endurance, improved form, and speed, improved jump, and sprint, as well as a decrease in the sensation of fatigue, and improved cognitive performance. These effects appear in trained or untrained individuals. Caffeine Caps GoldNutrition® is a supplement in capsules with 100 mg of caffeine for each. The caffeine used is Coffeine®, patented caffeine of natural origin, extracted from the green coffee beans of the Arabica variety and not synthesized in the laboratory. The specific dose of caffeine is established according to the athlete’s weight, for this reason, Caffeine Caps have 100 mg of caffeine per capsule, which allows you to adjust the dose to each athlete according to their weight and the complementary supplementation they use, and which also contains caffeine. The ideal dose is 3 to 6 mg/kg of caffeine body weight, with the minimum dose to obtain an effect being 2 mg/kg of body weight, depending on whether the athlete is a habitual caffeine consumer or not, and the dose maximum, already associated with side effects, is 9 mg/kg body weight. Caffeine Caps is a product suitable for: Increase endurance capacity and performance. Improve alertness and attention. Increase energy levels. How to take Take 1 capsule, 1 or 2 times a day, before and/or during training. Up to 4 capsules can be taken per day. This product does not have a specific time to be taken and can be taken throughout the season. It is suitable for the most intense phase of the season or for the most demanding competitions.
-  Updated: 2026-01-28T02:17:55Z
+  Updated: 2026-02-04T02:16:13Z
   Vendor: GoldNutrition
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/CaffeineCaps.jpg?v=1767076631
   Price: R 354.27 ZAR
 - [V-PROTEIN](https://apexgym369.store/products/v-protein): Your vegetable alternative! Vegan V-Protein GoldNutrition® is a product rich in vegetable proteins (83%) from peas and rice. It allows its composition to include all essential amino acids for the body without added sugars, and it contains less than 1 g of sugar per shake. The primary source of protein in Vegan V-Protein GoldNutrition® is peas. This one is rich in essential amino acids, particularly BCAAs (branched-chain amino acids) and glutamine. They are essential amino acids both in the field of sport, where recovery quickly is necessary and enhances adaptation to training, and in health, where the effects on the preservation of muscle mass that is lost with age (sarcopenia) and the optimization of the immune system. Complementarity with rice protein results in a complete amino acid profile since pea protein has methionine as the limiting amino acid, and rice is a good source of this amino acid. It may also be a choice for those who aspire to a more alkaline diet, as plant-based supplements have already shown such an effect. With a delicious taste, Vegan V-Protein GoldNutrition® can complement protein consumption in diets with higher protein needs and vegetarian and vegan diets, as protein contributes to muscle mass and bone mass maintenance. Due to its alkaline potential, it can also be consumed to balance the body’s pH. Vegetable protein is a more sustainable option because producing plant-based foods has a much smaller impact on the environment and a lower cost of production. It is the ideal vegetable protein for: Supplementing dietary protein intake. Combat the loss of muscle mass caused by age or a sedentary lifestyle. Promote muscle regeneration after training. It has a satiating effect and helps control appetite. How to take it Consume one shake a day as a supplement to your protein intake. To prepare a shake add a shallow measure (24g) to 200ml of water, stir well and be ready to serve.
-  Updated: 2026-01-28T02:17:55Z
+  Updated: 2026-02-04T02:16:14Z
   Vendor: GoldNutrition
   Product Type: n/a
   Availability: Available
@@ -619,7 +619,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/prod_VProtein_Vanilla.jpg?v=1767076634
     Price: R 800.88 ZAR
 - [L-CARNITINE 3000](https://apexgym369.store/products/l-carnitine-3000): L-carnitine 3000: more energy, less fat In each L-Carnitine 3000 single dose, you can find at least 97% L-Carnitine in the form pure. With action and ultra-fast absorption, this supplement is indicated for abdominal definition, reduction of body fat, and facilitating recovery after exercise. L-Carnitine 3000 contributes to increased performance in endurance modalities and in the prevention of chronic muscle fatigue. Assists in the  of cardiovascular problems and in diseases of angina pectoris, cardiac arrhythmia, and congestive heart failure. Ideal product for: – Abdominal definition;– Decrease body fat;– Facilitate recovery after exercise;– Increase performance in endurance modalities. How to use? Take one serving a day, preferably one hour before exercise. Do not exceed the recommended daily intake.
-  Updated: 2026-01-28T02:17:53Z
+  Updated: 2026-02-04T02:16:11Z
   Vendor: GoldNutrition
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -633,7 +633,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/prod_Lcarnitine3000Watermelon.jpg?v=1767076633
     Price: R 472.44 ZAR
 - [ProFormance Energy Gel](https://apexgym369.store/products/proformance-energy-gel): Next-generation texture! The ProFormance Energy Gel was designed to meet the demands of athletes seeking to maximize performance in long-duration and high-intensity events. A drop in blood sugar levels during prolonged sports can compromise physical performance and the athlete’s health. This phenomenon, which manifests as physical and mental fatigue, is one of the main challenges for endurance athletes. The ProFormance Energy Gel combines 25g of carbohydrates in an optimized 1:0.8 glucose-to-fructose ratio, ensuring rapid energy release and helping delay glycogen depletion. Its innovative texture – ultra-smooth and gelled – makes it easy to swallow and ideal for prolonged or high-intensity efforts. The 1:0.8 glucose-to-fructose ratio is scientifically proven to be the ideal proportion for maximizing energy absorption. This formula: Ensures efficient utilization of carbohydrate transport pathways, allowing for greater energy delivery. Reduces the risk of gastrointestinal discomfort, a common concern during long workouts or races. It provides quick and sustained energy and is ideal for maintaining pace and overcoming the most demanding challenges. ProFormance is the ideal energy gel for: Delaying the onset of physical and mental fatigue Providing quick energy Maintaining blood sugar levels Cyclists, marathon runners, triathletes, and sports lasting more than 1 hour or sports with intensity peaks like soccer, rugby, etc. How to use? Consume 1 to 2 gels per hour of endurance exercise. For every gel consumed, drink at least 250 ml of water.
-  Updated: 2026-01-28T02:17:53Z
+  Updated: 2026-02-04T02:16:12Z
   Vendor: GoldNutrition
   Product Type: n/a
   Availability: Available
@@ -675,7 +675,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/prod_ProformanceNeutro-600x593.jpg?v=1767076632
     Price: R 150.88 ZAR
 - [TOTAL PROTEIN CLASSIC](https://apexgym369.store/products/total-protein-classic): Delicious Hyperprotein Bar Total Protein Classic is a bar that combines high-biological value protein and carbohydrates. This combination favors protein synthesis and restores glycogen reserves. But it is also a solution for those who want to include a source of highly absorbed protein in their diet. Total Protein Classic is a high protein bar (31%) whose proteins come exclusively from a milk protein concentrate, one of the highest-quality protein sources available. It also has vitamins and minerals, which makes the bar more complete from a nutritional point of view. It is easy to digest since it does not contain lactose and has a soft texture and a delicious flavour. It is a healthy option to be consumed as a post-exercise snack. Additional information Presentation Bar Dietary requirements High protein Brand GoldNutrition Nutritional Information Chocolate Ingredients: Milk Protein Concentrate, Glucose Syrup, Milk Chocolate Coating (Sugar, Cocoa Butter, Skimmed Milk Powder, Cocoa Mass, Whey, Anhydrous Milk Fat, Milk Powder, Emulsifier (Soy Lecithin), Flavoring natural vanilla flavor), Sugar syrup, Sorbitol syrup, Cocoa butter, Fructose syrup, Fat-reduced cocoa powder, Mineral complex (sodium citrate, dicalcium phosphate, sodium phosphate, potassium chloride, magnesium carbonate, manganese sulfate, iron pyrophosphate, zinc oxide, potassium iodide, sodium selenite, sodium fluoride, sodium molybdate), sunflower oil, aroma, vitamin complex (cellulose, L-ascorbic acid, DL-alpha tocopheryl acetate , nicotinamide, calcium Dpantothenate, retinyl acetate, cholecalciferol, pyridoxine HCL, riboflavin, thiamine HCL, pteroylmonoglutamic acid, D-biotin, cyanocobalamin), L-Cystine. May contain traces of gluten and tree nuts. Yogurt-Apple Ingredients: Milk protein concentrate, Glucose syrup, White vegetable topping (sugar, hydrogenated vegetable fat, skimmed milk powder, emulsifier (soy lecithin), vanillin, flavouring), Sugar syrup, Sorbitol syrup, Cocoa butter, Mineral complex (sodium citrate, dicalcium phosphate, sodium phosphate, potassium chloride, magnesium carbonate, manganese sulfate, iron pyrophosphate, zinc oxide, potassium iodide, sodium selenite, sodium fluoride, sodium molybdate), Syrup of fructose, sunflower oil, diced apple, granulated apple, aroma, vitamin complex (cellulose, L-ascorbic acid, DL-alpha tocopheryl acetate, nicotinamide, calcium d-pantothenate, retinyl acetate, cholecalciferol, pyridoxine HCL, riboflavin, thiamine HCL, pteroylmonoglutamic acid, Dbiotin, cyanocobalamin), L-Cystine, Acidifier (malic acid). It may contain traces of gluten and tree nuts.
-  Updated: 2026-01-28T02:17:55Z
+  Updated: 2026-02-04T02:16:12Z
   Vendor: GoldNutrition
   Product Type: n/a
   Availability: Available
@@ -705,7 +705,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/prod_TotalProteinApple.jpg?v=1767076633
     Price: R 107.88 ZAR
 - [JELLY BAR](https://apexgym369.store/products/jelly-bar): Instant energy! Jelly Bars are ideal energetic gum bars for athletes who need an immediate dose of energy during prolonged and strenuous workouts. These bars, with fast-absorbing sugars, are practical and offer a tasty alternative to gels, with a pleasant texture to vary the offer in terms of sugar intake. Consuming products with fast-absorbing sugars is essential to maintain blood glucose stability and decrease the rate of glycogen depletion, delaying fatigue and decreasing performance in long races. All Jelly Bar flavors have a fast-absorbing sugar base (glucose/fructose), the Cola flavor has caffeine added, and the Orange flavor has sodium and magnesium added to better cover the specific needs of athletes. Benefits of Jelly Bars: Apple and Strawberry – Immediate supply of energy Cola – Energy boost due to the presence of caffeine Orange – Immediate supply of energy and replacement of mineral salts These bars are indicated for athletes who practice endurance modalities or sports lasting more than 1 hour. They are ideal to consume during training and can be consumed throughout the sporting season. How to use Ideal to consume during training. It can be consumed throughout the sporting season.
-  Updated: 2026-01-28T02:17:54Z
+  Updated: 2026-02-04T02:16:13Z
   Vendor: GoldNutrition
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -759,7 +759,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/1.jpg?v=1767076635
     Price: R 65.00 ZAR
 - [Cookies & Cream Mumma Shakes](https://apexgym369.store/products/cookies-cream-mumma-shakes): Cookies & Cream Mumma Shakes – Pure Café-Style Bliss at Home 🍪🥛 Indulge in the smooth, creamy goodness of our best- Mumma Shakes, now in a delicious Cookies & Cream flavour. Specially crafted for breastfeeding and pumping mums, this shake is the perfect way to treat yourself while supporting your body. Simply add to milk or your favourite alternative (almond, oat, or rice) and shake for a fluffy, café-style drink in seconds. For extra indulgence, sprinkle over cereal, yoghurt, or even ice cream—it’s that versatile. Convenient, nourishing, and pantry-ready, Mumma Shakes are your go-to pick-me-up—ideal for those busy afternoons when you need something extra. 💕 Size: 300g (20g per serve)👉 [See the full ingredient list here] (Note: Mumma Shakes are not meal replacements. For a more filling option, try our Protein Powder for breastfeeding mums or bulk up your shake with banana and oats.)
-  Updated: 2026-01-28T12:16:30Z
+  Updated: 2026-02-04T12:16:08Z
   Vendor: The Milk Pantry
   Product Type: Mumma Shakes
   Availability: Available
@@ -955,14 +955,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/d99a7381b9d54a4096af00499c46b9fc.webp?v=1767090684
     Price: R 128.88 ZAR
 - [Gym Bag Nike Red 30 L 48 x 33 x 18 cm](https://apexgym369.store/products/gym-bag-nike-red-30-l-48-x-33-x-18-cm): If you are looking for new market trending items, we present the Gym Bag Nike Red 30 L 48 x 33 x 18 cm! Type of fastening: Zip Material: Polyester Nylon Gender: Unisex Approx. dimensions: 48 x 33 x 18 cm Type: Gym Bag Colour: Red Capacity: 30 L
-  Updated: 2026-01-28T03:23:54Z
+  Updated: 2026-02-04T19:22:34Z
   Vendor: Nike
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/0196154136877_S71020624_P00.jpg?v=1767092585
-  Price: R 1,427.40 ZAR
+  Price: R 1,468.37 ZAR
 - [NNEDSZ Purpose Home Gym](https://apexgym369.store/products/nnedsz-purpose-home-gym): The Punching Bag Bracket and Chin-Up Bar combines two great ways to get fit. And it can be yours at our everyday low price. This piece of fitness equipment is attached to brick or stone (hardware, speedball and instructions are included). You can use the padded grips for chin-ups, pull-ups, leg raises and more. Or you can hang a speed ball or punching bag from the central beam. The bracket can hold up to 200kg, so even very heavy punching bags can be attached. And don't worry about having an intense workout — the bracket is made from a heavy-duty steel with a black powder-coated finish. It will be your fitness companion for many years to come. Perfect for the home, garage or gym, the Punching Bag Bracket and Chin-Up Bar is a great choice no matter your fitness level. Features of the Punching Bag Bracket and Chin-Up Bar: *2-in-1 punching bag bracket and bar for chin-ups and pull-ups *Heavy-duty steel construction with black powder-coated finish *Must be attached to stone or brick; hardware and instructions included *Supports weight of up to 200 kg (440 lbs) *Please Note: SpeedBall is included but Punching Bag is NOT included. Package Content: 1 x Multi Purpose Home Gym
-  Updated: 2026-01-25T20:58:14Z
+  Updated: 2026-01-31T19:12:28Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
@@ -1011,25 +1011,25 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/gym-babes-leggings-794657.jpg?v=1767092835
     Price: R 308.41 ZAR
 - [Nemesis Phoenix Boxing Gloves](https://apexgym369.store/products/nemesis-phoenix-boxing-gloves): Features 1 Outside: 100% resistant PU synthetic leather with hook and loop Velcro strap 2 Inside: 100% polyester with IMF mould 3 Designed for: Entry-level boxers for bag and sparring work Product Details Become your opponent's inescapable downfall with the Bravose Nemesis black and white boxing gloves. The soft lining, robust padding, and advanced thumb and wrist support will give you premium comfort and protection against injury. Enjoy easy on-and-off application with the hook and loop strap, and let your personal style shine through thanks to a choice of three stunning color ways.
-  Updated: 2026-01-28T02:00:11Z
+  Updated: 2026-02-04T02:00:16Z
   Vendor: Bravose
   Product Type: Boxing Gloves & Mitts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/DSC08963-Edit.jpg?v=1767094417
   - [10 Oz](https://apexgym369.store/products/nemesis-phoenix-boxing-gloves?variant=45628686860476)
     Availability: Available
-    Price: R 635.42 ZAR
+    Price: R 621.28 ZAR
   - [12 Oz](https://apexgym369.store/products/nemesis-phoenix-boxing-gloves?variant=45628686893244)
     Availability: Available
-    Price: R 635.42 ZAR
+    Price: R 621.28 ZAR
   - [14 Oz](https://apexgym369.store/products/nemesis-phoenix-boxing-gloves?variant=45628686926012)
     Availability: Available
-    Price: R 635.42 ZAR
+    Price: R 621.28 ZAR
   - [16 Oz](https://apexgym369.store/products/nemesis-phoenix-boxing-gloves?variant=45628686958780)
     Availability: Available
-    Price: R 635.42 ZAR
+    Price: R 621.28 ZAR
 - [Armour 2.0 Boxing Gloves](https://apexgym369.store/products/armour-20-boxing-gloves): Features 1 Outside: 100% resistant PU leather with hook and loop Velcro strap 2 Inside: 100% polyester with IMF mould 3 Designed for: Entry-level boxers for bag and sparring work 4 For a finish that's as tough as you, these Bravose Alpha boxing gloves are crafted from only the best materials 5 Enjoy a super snug fit thanks to the hook and loop Velcro strap 6 Cushion your fists, thumbs and wrists from heavy impact with the advanced IMF padding and soft lining 7 Express your individuality by choosing your favourite from four eye-catching designs 8 Black boxing gloves is perfect for entry-level boxers taking part in bag work and sparring Product Details Exude mystery, power, elegance, and sophistication with the Bravose boxing gloves. Crafted from PU synthetic leather, the hook and loop Velcro strap will give a super snug fit while the advanced padding and soft lining cushion the fists, thumbs and wrists from heavy impact. The PU synthetic leather is designed to be as tough as you are, and boasts an eye-catching matte black finish with gold trim.
-  Updated: 2026-01-28T02:00:12Z
+  Updated: 2026-02-04T02:00:26Z
   Vendor: Rehan
   Product Type: Boxing Gloves & Mitts
   Availability: Available
@@ -1051,14 +1051,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Armour_Boxing_Gloves_3.jpg?v=1767094424
     Price: R 888.00 ZAR
 - [Centra Kids Music Boxing Machine with Boxing Gloves](https://apexgym369.store/products/centra-kids-music-boxing-machine-with-boxing-gloves): Description Keep your kids active and entertained with the music boxing machine! Featuring 10 adjustable speeds and 9 interactive modes, it allows children to fine-tune their workout intensity and enjoy dynamic light effects that create a fun and engaging experience.With Bluetooth connectivity, kids can play their favourite music while exercising. The intelligent display tracks every punch, helping them stay motivated and monitor their progress. The high-capacity battery ensures extended playtime for endless enjoyment.Easy to install with a hook-and-loop fastener system, the boxing machine requires no drilling and can be adjusted to suit kids of all ages. Perfect for use in the living room or bedroom, it helps relieve stress, build muscle, and encourage healthy habits—all from the comfort of home.A thoughtful gift for children, this boxing machine combines fitness and fun, making it an excellent addition to any family home! Key features Bluetooth connection 10 different speeds 9 different modes Smart counting Soft foaming Long battery life One-click music playback Hook and loop fastener mounted Happy decompression for children Specifications Brand: CentraMaterial:PP?PET?TPRLength of USB charging cable: 100cmDimension: 35.5cm x 35.5cm x4.8cm (L x W x H)Colour: Black Package Contents 1 x Centra Kid Music Boxing Machine 1 x Kid Boxing Glove 1 x USB charging cable 4 x Hook And Loop Fasteners 1 x Instruction Manual
-  Updated: 2026-01-28T13:05:32Z
+  Updated: 2026-02-04T13:05:48Z
   Vendor: Xanadu Living
   Product Type: Boxing & Martial Arts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/idropship02_6dea571a-d40d-4880-9e4e-2deb7749da6f.jpg?v=1767094448
   Price: R 1,000.00 ZAR
 - [8oz PU Leather Boxing Gloves Unisex Training Gloves Black](https://apexgym369.store/products/8oz-pu-leather-boxing-gloves-unisex-training-gloves-black): Train harder, punch smarter – gloves built for power, protection, and performance. 🧾 Specifications: Color: Black Size: 8oz (US Standard) Material: High-Quality PU Leather Intended Use: Boxing, Muay Thai, Kickboxing, Sanda, Combat Training Audience: Adults – Unisex (Men & Women) 🌟 Key Features: 🥋 Versatile Use: Ideal for boxing, kickboxing, Muay Thai, and general combat training 🧤 Durable PU Leather: Tough exterior resists wear and tear for long-lasting use 🛡️ Impact Absorption Padding: Protects knuckles and wrists during high-impact sessions 🌬️ Breathable Design: Ventilated construction reduces sweat and odor 🔒 Secure Fit: Hook-and-loop wrist strap offers firm support and easy adjustability 🖊️ Product Description: Step into the ring with confidence using these 8oz PU Leather Boxing Gloves – built for both men and women who train in boxing, Muay Thai, kickboxing, or Sanda. These gloves combine durability and comfort with a tough PU leather outer shell that resists cracks and splits, even during intense sessions. The interior padding is designed to absorb shock, reducing the impact on your hands and wrists while maximizing your striking performance. A breathable, sweat-reducing lining keeps your hands cooler for longer, while the secure hook-and-loop wrist strap ensures a snug, stable fit every time. Whether you're training with sandbags, sparring with a partner, or mastering your form, these gloves are your reliable companion in the fight for fitness and skill.
-  Updated: 2026-01-28T23:48:20Z
+  Updated: 2026-02-04T23:47:37Z
   Vendor: OBA
   Product Type: fitness > fitness other
   Availability: Available
@@ -1072,24 +1072,24 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Sfc46c87806364d2dbb357a0b853f93b1s_8a23278b-c44b-4081-a045-a15dd373fe52.jpg?v=1767094478
   Price: R 1,499.94 ZAR
 - [NNECW Inflatable Boxing Ball with Boxing Gloves & Air Pump for Kid](https://apexgym369.store/products/nnecw-inflatable-boxing-ball-with-boxing-gloves-air-pump-for-kid): Our boxing ball set includes a boxing ball, boxing gloves, a stand and a pump. The inflatable boxing ball is very easy to carry and use. The boxing gloves protect the hands of children. Instead of ordinary padded bases, our bases rely on their weight to maintain stability. In your free time, you can use our boxing ball to improve your body's resistance, exercise and relieve stress. Adults and children from 8 years old can use it, It is very practical and durable. Bullet Point: Reliable Materials and Workmanship: Our punching ball is mainly made of eco-friendly PE, PVC leather and iron with good durability and high comfort. The smooth PVC leather is carefully stitched to make it very strong and safe. The iron support rod is resistant to breakage and rust. Flexible Height Adjustable Design: Our punching ball can be adjusted from 85.09cm to 130.81cm high to suit people of different sizes. Thanks to its adjustable height design, the punching ball can accompany children as they grow and is suitable for children 8 years and older. Stable Base and Safe to Use: The base of the punching ball does not need to be filled with sand or water. You can use your weight to ensure stability. The inflatable design is very comfortable and safe. Besides, our boxing gloves protect your hands. Ideal Sports Equipment: The standing punching ball is not only suitable for children, but also for adults. It can relax the body and nerves during leisure time. In addition, training with it also improves hand-eye coordination, body resistance, and own line and relieves stress. Easy to Use and Maintain: Our standing punching ball comes with instructions and pumps, so you can set it up easily. Cleaning and maintenance are a breeze thanks to the waterproof material - only a cloth is needed. The stand-up punching ball makes a great gift for family and friends. Features: High-quality materials, durable and comfortable Adjustable height from 85.09cm to 130.81cm Suitable for adults and children from 8 years old No need to fill it with sand or water Equipped with a pump, easy to use Comfortable boxing gloves, safe Spring connection, good elasticity Relax and relieve stress Clear instructions, easy settings Lightweight, easy to carry Waterproof material, easy to clean Specifications: Colour: Black & Red Material: PE + PVC Leather + Iron Adjustable height: 85-130cm Stand base Size: 66cm x 19cm x 2.5cm (L x W x H) Net Weight: 3.3kg Suitable Age: 8+ Package Includes: 1 x Boxing Ball 1 x Stand 2 x Boxing Gloves 1 x Pump 1 x Instruction
-  Updated: 2026-01-25T20:58:15Z
+  Updated: 2026-01-31T19:13:16Z
   Vendor: NNECW
   Product Type: Swing Sets & Playsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/ty579434_1_8c5004ae-ad8a-485c-9809-1e5f42fc2b83.jpg?v=1767094489
   Price: R 2,064.19 ZAR
 - [Bravose MMA Boxing Gloves – Premium PU Leather Training & Sparring Gloves for Boxing, Kickboxing & Muay Thai](https://apexgym369.store/products/bravose-mma-boxing-gloves-premium-pu-leather-training-sparring-gloves-for-boxing-kickboxing-muay-thai): Level up your training with the Bravose MMA Boxing Gloves, built for fighters who demand power, precision and protection. Designed with a sleek, modern look and engineered from premium leather, these gloves deliver pro-level performance whether you're hitting pads, the heavy bag or sparring in the ring. Why You’ll Love Them: - Maximum Protection: Multi-layer foam padding absorbs shock and cushions every punch to reduce hand fatigue. - Breathable Comfort: Mesh ventilation keeps your hands cool and dry during intense sessions. - Secure Fit: Strong hook & loop wrist strap for easy adjustment and added wrist stability. - Built to Last: Reinforced stitching and durable materials resist wear and tear — round after round. - Versatile Performance: Ideal for boxing, MMA, kickboxing and Muay Thai training. Product Details: Material: Premium synthetic leather Padding: Multi-layer foam for shock absorption Closure: Hook & loop wrist strap Use: Training, Sparring, Bag Work, Fitness Train with Bravose. Fight with Confidence.
-  Updated: 2026-01-28T02:00:11Z
+  Updated: 2026-02-04T02:00:26Z
   Vendor: Bravose
   Product Type: Boxing & MMA Punch Mitts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/mmaboxinggloves.png?v=1767094497
   - [S](https://apexgym369.store/products/bravose-mma-boxing-gloves-premium-pu-leather-training-sparring-gloves-for-boxing-kickboxing-muay-thai?variant=45628687679676)
     Availability: Available
-    Price: R 610.97 ZAR
+    Price: R 614.61 ZAR
   - [M](https://apexgym369.store/products/bravose-mma-boxing-gloves-premium-pu-leather-training-sparring-gloves-for-boxing-kickboxing-muay-thai?variant=45628687712444)
     Availability: Available
-    Price: R 610.97 ZAR
+    Price: R 614.61 ZAR
   - [L](https://apexgym369.store/products/bravose-mma-boxing-gloves-premium-pu-leather-training-sparring-gloves-for-boxing-kickboxing-muay-thai?variant=45628687745212)
     Availability: Available
     Price: R 570.62 ZAR
@@ -1101,21 +1101,21 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/ev3003.jpg?v=1767094497
   Price: R 488.52 ZAR
 - [Free Standing Punching Boxing Bag - Heavy Duty Sandbag w/ Boxing Gloves(Black)](https://apexgym369.store/products/free-standing-punching-boxing-bag-heavy-duty-sandbag-w-boxing-glovesblack): Train Hard Without the Noise!Upgrade your home gym with this free-standing punching bag, designed with noise-reducing technology and built for powerful workouts. Perfect for both fitness enthusiasts and stress relief, it's an ideal gift for any occasion. Specifications: Color: Black Material: PU Leather, EPE Foam, Fabric, Steel Overall Dimensions: 50 cm x 50 cm x 173 cm (L x W x H) Net Weight: 19 kg Applicable Age Group: 14+ Package Includes: 1 x Punching Bag with Stand 2 x Boxing Gloves 1 x User Guide Features: Noise Reduction: Features a shockproof system with thickened mute cotton and dual PVC vibration dampers for 360° noise absorption. Sturdy Base: Equipped with 4 strong springs, an enlarged silencing layer, and 12 large suction cups for ultimate stability. Easy to Use: Ready to go after simple assembly, no need for hanging or drilling. Durable Material: Multi-layer construction with wear-resistant fabric and tight stitching ensures long-lasting use. Family-Friendly: Suitable for everyone 14 and older, making it perfect for family fitness or stress relief. Waterproof & Easy to Clean: The PU leather surface is resistant to wear and easy to maintain. Product Description: The Free Standing Punching Boxing Bag is a perfect solution for your home gym, offering an intense workout experience without the disruptive noise. Designed with a unique shockproof system, this punching bag is equipped with thickened mute cotton and dual PVC vibration dampers, providing 360° noise absorption to enhance your focus during training sessions. Whether you're practicing powerful kicks or punches, the 4 strong springs and enlarged silencing layer further reduce noise, making this bag ideal for indoor use. Sturdy and versatile, this punching bag stands on an upgraded base with 12 strong suction cups, ensuring stability and preventing movement during intense workouts. The bag is constructed with high-quality materials, including wear-resistant PU leather and tight stitching for long-lasting durability. Suitable for the whole family, it’s perfect for stress relief, fitness building, or improving boxing techniques. No hanging or drilling required—simply fill the base with sand or water, assemble, and start training. The waterproof surface ensures easy cleaning, making it the perfect addition to your fitness routine.
-  Updated: 2026-01-27T23:48:59Z
+  Updated: 2026-02-02T23:48:31Z
   Vendor: TM
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/1722337901259-a537c51477384398bf2d3a0de7520f1d-goods.jpg?v=1767094533
   Price: R 7,156.20 ZAR
 - [Taekwondo & Boxing Chest Protector](https://apexgym369.store/products/taekwondo-boxing-chest-protector): Product Description: Introducing the NNEOBA Taekwondo & Boxing Chest Protector, designed to offer superior protection and comfort for both Taekwondo and boxing enthusiasts. Suitable For: Taekwondo and Boxing Material: High-quality sponge for optimal cushioning and durability Available Sizes: Size 3 - 150 - 160 cm Features: Versatile Use: Ideal for both Taekwondo practice and boxing matches, ensuring you’re well-protected in any combat sport. Professional Quality: Crafted for professional use, providing robust protection and enhancing your performance. Comfort and Fit: Lightweight and comfortable, allowing for unrestricted movement during intense training or competition. Easy Sizing: Simply select your size based on your height to ensure a snug and secure fit. How to Choose Your Size: To find the best fit, measure your height and select the corresponding size from our options. This ensures maximum coverage and protection tailored to your needs. Stay safe and perform at your best with the NNEOBA Taekwondo & Boxing Chest Protector.
-  Updated: 2026-01-27T23:52:17Z
+  Updated: 2026-01-31T23:53:30Z
   Vendor: OBA
   Product Type: Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-06-18_112359_b4d3b2e4-a27c-4d7f-bbc5-6d02602a2618.png?v=1767094589
   Price: R 1,902.71 ZAR
 - [Boxing Training Resistance Bands](https://apexgym369.store/products/boxing-training-resistance-bands): Get ready to take your boxing training to the next level with the NNEOBA Boxing Training Resistance Bands. Whether you're focusing on arms, legs, core, or comprehensive fitness, these bands are designed to enhance your workout and boost your strength and coordination. Here’s why these resistance bands are a must-have for your fitness routine: Product Highlights: High-Quality Materials: Crafted from top-notch polypropylene, diving cloth, and zinc alloy, these resistance bands offer superior durability and resistance compared to EVA materials. Enhanced Safety: The bands are made of natural latex tubes encased in high-elastic webbing, providing excellent resistance and ensuring safe workouts. Effective Training: Perfect for increasing the difficulty of your boxing and fighting routines, these bands help in effectively exercising and toning various muscle groups across your body. What's Included: Green Plus Set: Includes a wristband, waistband, foot ring, arm resistance band, waist resistance band, kick leg resistance band, and a storage bag for easy organization. Specifications: Color Options: Green. Sizes: Waistband: 130 cm Arm Resistance Band: 35 cm Waist Resistance Band: 45 cm Kick Leg Resistance Band: 65 cm Material Composition: Made from high-quality polypropylene, diving cloth, zinc alloy, and TPE (Thermoplastic Elastomer). Perfect For: Cardio Training: Ideal for enhancing your cardiovascular workouts. Targeted Muscle Groups: Suitable for arms, legs, waist, abdomen, and core exercises. Unisex: Designed for use by both men and women. Upgrade your training sessions with the NNEOBA Boxing Training Resistance Bands. Achieve your fitness goals with these versatile and robust bands designed to meet all your workout needs.
-  Updated: 2026-01-25T23:49:14Z
+  Updated: 2026-02-03T23:49:15Z
   Vendor: OBA
   Product Type: Fitness
   Availability: Available
@@ -1534,7 +1534,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Gyms-Fitness-Workout-Singlet-Sling-Vest-Men-Bodybuilding-Tank-Top-Camouflage-sleeveless-Shirt-Boy-Summer-Brand.jpg_640x640_3e8b6bb7-14f7-456b-b47c-63eed984085b.jpg?v=1767098857
     Price: R 688.08 ZAR
 - [Gym-Baddie Hoodie](https://apexgym369.store/products/gym-baddie-hoodie): Let fashion take over your wardrobe with this great statement piece. The trendy raw hem and matching drawstrings means that this hoodie is bound to become a true favorite. • 52% airlume combed and ring-spun cotton, 48% poly fleece • Fabric weight: 6.5 oz/yd² (220.39 g/m²) • Dyed-to-match drawstrings • Dropped shoulder cut • Cropped body with a raw hem • Blank product sourced from Mexico, Nicaragua or the United States This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (inches) LENGTH (inches) S 22 18 ⅝ M 23 ½ 19 ⅜ L 25 ½ 21 ⅜ XL 27 ½ 22 ⅛ 2XL 29 ½ 22 ⅞ WIDTH (cm) LENGTH (cm) S 55.9 47.2 M 59.7 49.3 L 64.8 54.4 XL 69.9 56.1 2XL 75 58.2
-  Updated: 2026-01-25T20:58:16Z
+  Updated: 2026-02-02T22:15:18Z
   Vendor: CVMK GLOBAL
   Product Type: n/a
   Availability: Available
@@ -1542,63 +1542,63 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [Black / S](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806234300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-black-front-67b172b8bf5b2.jpg?v=1767098860
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Black / M](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806267068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-black-front-67b172b8bf5b2.jpg?v=1767098860
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Black / L](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806299836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-black-front-67b172b8bf5b2.jpg?v=1767098860
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Black / XL](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806332604)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-black-front-67b172b8bf5b2.jpg?v=1767098860
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Black / 2XL](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806365372)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-black-front-67b172b8bf5b2.jpg?v=1767098860
-    Price: R 1,750.00 ZAR
+    Price: R 1,253.62 ZAR
   - [Storm / S](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806398140)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-storm-front-67b172b8c04cc.jpg?v=1767098858
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Storm / M](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806430908)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-storm-front-67b172b8c04cc.jpg?v=1767098858
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Storm / L](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806463676)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-storm-front-67b172b8c04cc.jpg?v=1767098858
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Storm / XL](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806496444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-storm-front-67b172b8c04cc.jpg?v=1767098858
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Storm / 2XL](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806529212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-storm-front-67b172b8c04cc.jpg?v=1767098858
-    Price: R 1,750.00 ZAR
+    Price: R 1,253.62 ZAR
   - [Peach / S](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806561980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-peach-front-67b172b8c117e.jpg?v=1767098859
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Peach / M](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806594748)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-peach-front-67b172b8c117e.jpg?v=1767098859
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Peach / L](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806627516)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-peach-front-67b172b8c117e.jpg?v=1767098859
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Peach / XL](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806660284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-peach-front-67b172b8c117e.jpg?v=1767098859
-    Price: R 1,750.00 ZAR
+    Price: R 1,208.85 ZAR
   - [Peach / 2XL](https://apexgym369.store/products/gym-baddie-hoodie?variant=45628806693052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/womens-cropped-hoodie-peach-front-67b172b8c117e.jpg?v=1767098859
-    Price: R 1,750.00 ZAR
+    Price: R 1,253.62 ZAR
 - [Camo Running Shorts Men 2 In 1 Double-deck Quick Dry GYM Sport Shorts Fitness Jogging Workout Shorts Men Sports Short Pants](https://apexgym369.store/products/camo-running-shorts-men-2-in-1-double-deck-quick-dry-gym-sport-shorts-fitness-jogging-workout-shorts-men-sports-short-pants): Camo Running Shorts Men 2 In 1 Double-deck Quick Dry GYM Sport Shorts Fitness Jogging Workout Shorts Men Sports Short PantsMaterial: PolyesterMaterial: SpandexGender: MENSport Type: RunningFit: Fits smaller than usual. Please check this store's sizing infoModel Number: Sport Shorts MenPattern Type: CamouflageItem Type: ShortsAsian Size: M-2XL,Don't sure size please contact usSize: This is ASIAN size,EU/US size S =ASIAN size LOccasions: Bodybuilfing/ exercise/weight-lifting/fitnessSeason: Spring/summer/autumnGender: Men/male/men/hombreItem: NEW double-deck sport shorts2 pieces: 2 IN 1,with liningSports: Running,jogging,fitness ,sport, gym,workout,trainingFeatures: double-deck,2 in 1,quick-drying
   Updated: 2026-01-25T20:58:16Z
   Vendor: Vimost Shop
@@ -2163,35 +2163,35 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V888-ELOSUNG17237-215172-00.jpg?v=1767110408
   Price: R 1,252.22 ZAR
 - [1.5L Hydrogen Rich Fitness Water Bottle(Green)](https://apexgym369.store/products/15l-hydrogen-rich-fitness-water-bottlegreen): Elevate your hydration with the 1.5L Hydrogen Rich Water Bottle – a portable USB rechargeable hydrogen generator designed to boost wellness, fitness, and longevity. Specifications: Color: Green Capacity: 1.5L (50oz) Power Mode: USB Charging Operating Voltage: ≤36V Battery Properties: Rechargeable Lithium Battery Charging Time: 2-3 hours (full charge) Battery Life: Up to 15 uses per full charge Technology: SPE Ion Membrane for advanced hydrogen generation Components: Hydrogen water bottle body, water bottle cap, USB charging cable Hydrogen Production Time: 3 minutes per cycle LED Indicators: Red light for charging, green light for fully charged Portability: Lightweight and easy to carry for outdoor, travel, fitness, and gym use Key Features: Portable Hydrogen Water Generator: Produces hydrogen-rich water in 3 minutes, offering a healthy hydration option that reduces inflammation and enhances fitness performance. USB Rechargeable: Built-in rechargeable battery with a USB charging port for easy recharging on the go, with 2-3 hours for a full charge and up to 15 uses per cycle. SPE Ion Membrane Technology: Ensures maximum hydrogen production, delivering cleaner and more effective hydration for improved exercise performance and overall health. High Capacity: 1.5L water bottle capacity makes it perfect for fitness enthusiasts, travelers, and outdoor activities. LED Status Indicators: The bottle lights up during hydrogen production and charging, with easy-to-understand red and green indicators for charge status. Durable & Leak-Proof Design: Features a sturdy, twist-on cap to prevent leaks and ensure safe usage, with a lightweight body for portability. Product Description: Stay ahead of your hydration game with the 1.5L Hydrogen Rich Water Bottle, designed to generate hydrogen-rich water in just 3 minutes. Hydrogen-infused water offers numerous health benefits, from reducing inflammation and enhancing exercise performance to slowing the aging process. Whether you're at the gym, on a hike, or traveling, this high-capacity, portable bottle provides an advanced hydration solution to support a healthy lifestyle. Equipped with a built-in USB rechargeable battery, the bottle offers up to 15 uses per charge. The innovative SPE Ion Membrane ensures that your water is infused with optimal hydrogen levels for improved well-being. With simple instructions, an easy-to-use power switch, and LED lights that guide you through the process, this bottle makes advanced hydration accessible wherever you go. The twist-on cap ensures no leaks, and the compact design makes it perfect for outdoor adventures, gym sessions, or daily hydration needs.
-  Updated: 2026-01-25T20:58:18Z
+  Updated: 2026-02-04T23:52:32Z
   Vendor: TM
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/d4781bd9-3f83-402a-8f1b-a7485829c2e7.jpg?v=1767099737
   Price: R 320.00 ZAR
 - [NNEDSZ Black Magnetic Gym Water Bottle Holder Bag - Crossbody Sling Pouch for Essentials](https://apexgym369.store/products/nnedsz-black-magnetic-gym-water-bottle-holder-bag-crossbody-sling-pouch-for-essentials): Magnetic Gym Water Bottle Holder & Essentials Bag Keep your hydration and essentials secure and accessible during your workouts with this innovative Magnetic Gym Water Bottle Holder Bag. Designed for convenience, it features a strong magnetic backing to attach directly to gym equipment, plus a versatile strap for easy carrying. Strong Magnetic Attachment: Equipped with powerful magnets on the back panel, allowing you to securely attach the bag to metal gym racks, machines, or lockers. Keeps your drink and valuables off the floor and within easy reach. Secure Bottle Compartment: Features a dedicated pouch designed to hold most standard-sized gym water bottles and shaker cups securely. Includes an adjustable drawstring toggle to keep your bottle snug. (Note: Water bottle is NOT included). Essentials Storage Pockets: Includes zippered compartments and potentially mesh pockets (depending on exact model variation) to safely store your phone, keys, cards, earbuds, and other small gym necessities. Versatile Carrying Options: Comes with a detachable and adjustable shoulder strap, instantly transforming the holder into a convenient crossbody sling bag for comfortable transport to and from the gym. Durable PU Leather Construction: Made from quality PU leather material, offering a sleek look, durability, and resistance to wear and tear in a gym environment. Easy to wipe clean. Lockable Zippers Design: Features zippers that can accommodate small travel locks (locks not included) for added security of your belongings. Product Specifications: Material: PU Leather, Magnets, Fabric Lining Color: Black Approximate Dimensions (W x D x H): 11.18cm x 14.73cm x 24.64cm Approximate Weight: 380g (0.38 kg) Primary Feature: Magnetic back panel for attachment Carrying Method: Magnetic attachment, Hand carry (using top loop if available), Crossbody/Shoulder Sling (with included strap) Package Includes: 1 x Magnetic Gym Bottle Holder Bag 1 x Detachable Adjustable Shoulder Strap (Please Note: Water Bottle is NOT included) Returns, Refunds and Replacements Products that are received faulty, damaged, or not as described are eligible for a return, refund, or replacement in accordance with the Australian Consumer Law (ACL). We are committed to ensuring all products meet the standards of quality and reliability expected by our customers. However, please note that we do not accept returns or provide refunds for change of mind. We encourage you to carefully consider your purchase to ensure it meets your needs and expectations. Delivery Timeframe Please note that we cannot guarantee the exact date of arrival, and the delivery timeframes (excluding weekends and public holidays) are as follows: For customers in Victoria, approximately 7-10 working days; For customers in NSW, SA, ACT, and QLD, approximately 9-12 working days; For customers in WA, NT, and TAS, approximately 9-12 working days.
-  Updated: 2026-01-25T20:58:18Z
+  Updated: 2026-02-03T19:19:56Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Exercise, Gym & Fitness > Gym Equipment & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V888-ELOSUNG27261-202504281437-00.jpg?v=1767099752
   Price: R 1,500.00 ZAR
 - [Wrist Wraps - Black (Pair)](https://apexgym369.store/products/wrist-wraps-black-pair): Wrist support is crucial to all pressing, overhead movements and some gymnastics. The Murgs elastic wrist wraps offer incredible support whilst being crafted from soft materials which hold the wrists firmly yet gently. Embossed with a two unique rubberised logo's on each hand mean there's never any doubt to which wrap is for each hand. The wraps offer a supportive thumb loop to help apply tension when wrapping the wrists and also allow the wraps to be pulled to an even tightness on both wrists. Wrist wraps come in one size measuring 16 inches (40.5cm) from end to end of the flexible supportive fabric. The wraps can be applied as tight or loose as required being suited to any gender of athlete. All wraps come in pairs of two unique but opposite wraps suited to the right and left hand.
-  Updated: 2026-01-27T22:01:08Z
+  Updated: 2026-02-04T22:00:23Z
   Vendor: Murgs
   Product Type: Wrist Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Firstimagere-donecopy.jpg?v=1767099924
   Price: R 737.45 ZAR
 - [Wristbands - Pink (2 Pairs)](https://apexgym369.store/products/wristbands-pink-2-pairs): Comfortable, breathable and protective sweatbands are the easiest way to keep your hands dry and grip in tact. Manufactured from combed cotton and elastane blend, this pair of wristbands has what it takes to support you through every workout. Package contains two individual pairs to get you and your partner in crime through the next sweaty workout.
-  Updated: 2026-01-27T22:01:11Z
+  Updated: 2026-02-04T22:00:13Z
   Vendor: Murgs
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Pinkeditedcomplete2Pack.jpg?v=1767099924
   Price: R 393.33 ZAR
 - [Panther Grips Ultimate + Free Wristbands](https://apexgym369.store/products/panther-grips-ultimate-free-wristbands): The Panther Grips ULTIMATE are the next generation of palm protection Sticky, grippy and tacky With our new material, you'll never have trouble holding onto a bar, rig or rings again Longer length means improved protection Longer than the standard Panther Grips, the Panther Grips ULTIMATE come with excess material to allow a fold in the grips to perform the dowel technique while still covering the fingertips. Soft on hands, tough on bars Our newly developed material offers next level grip, incredible durability and wear resistance both with and without chalk. On the flip side, a softer reverse keeps hands feeling comfortable and secure. Supportive strap Now with a 5cm wide strap, these grips wont budge when secured. Upgraded hook and loop plus more surface area to connect means this strap is bullet proof. CrossFit Games Regulations New CrossFit Games regulations state that the grips may be no longer than the finger tips when wrapped around a bar. Use the product size guide below to determine which pair may be best depending on your goals.Some competitions may enforce this rule however most training environments will not, so both pairs will be acceptable for your local box. This is a method of gripping a bar where a fold is created in the grip and placed over the bar to maintain a secure hold. The ULTIMATE is designed to be longer than usual, but if this is a problem we advise trimming them down in length leaving at least 1cm more than the longest finger to allow full coverage when the hand is around a bar.
-  Updated: 2026-01-27T22:01:14Z
+  Updated: 2026-02-04T22:00:18Z
   Vendor: Murgs
   Product Type: n/a
   Availability: Available
@@ -2203,7 +2203,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 1,041.26 ZAR
 - [Weightlifting Thumb Tape (Black)](https://apexgym369.store/products/weightlifting-thumb-tape-black): Less rips. More reps. Your thumbs have never been in better hands. Murgs weightlifting thumb tape is the ultimate in hook grip protection. Measuring in at 38mm wide, it's the ideal length to wrap thumbs up in one loop, tear to break off and lift. Manufactured from 100% Rayon Cotton, our tape offers excellent wear resistance, great tensile strength and superior comfort. Bound with a strong waterproof adhesive, this tape requires a single application per session and won't budge even in most demanding of circumstance. The tape is also residue free, so once you're done training, whip it off and you're ready for your next challenge. Coming in at 38mm wide by 5m long, a single roll should last as many as 30 sessions. Even training once a day, that's a full months worth in a single roll. Our tape is latex free and hypoallergenic meaning it's suitable for any and all skin types. 100% Rayon Cotton. 3.8cm x 5m rolls Need bulk tape? Check out our 48 pack here
-  Updated: 2026-01-27T22:01:06Z
+  Updated: 2026-02-04T22:00:16Z
   Vendor: Murgs
   Product Type: n/a
   Availability: Available
@@ -2221,7 +2221,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8Pack.jpg?v=1767099927
     Price: R 370.00 ZAR
 - [4'' Weightlifting Belt ULTRA](https://apexgym369.store/products/4-weightlifting-belt-ultra): Identical sizing to our 5'' belt but NOT the same as the previous 4'' belt. The Murgs Ultra BeltYour new training essential – built for lifters who demand more. The Ultra Belt is our premium upgrade of the classic Murgs 4-inch weightlifting belt – made for athletes who want dependable core support without sacrificing comfort or mobility. Crafted from high-density EVA foam with a reinforced hook-and-loop strap, it gives you a snug, secure fit that won’t shift mid-set. The fast-release steel buckle makes it easy to throw on between sets or drop it off quickly when your workout’s done. Whether you're squatting at 80% or cycling through barbell complexes, the Ultra is designed to support your midline during high-load or high-volume work. Place it just above your hips, below the ribs, and feel the difference in your bracing and lifting confidence. From the gym floor to competition day – this is the belt that shows up when you do.
-  Updated: 2026-01-27T22:01:16Z
+  Updated: 2026-02-04T22:00:13Z
   Vendor: Murgs
   Product Type: Belts
   Availability: Available
@@ -2245,7 +2245,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 562.02 ZAR
 - [V2 7mm Knee Sleeves - Pink Leopard Print (Pair)](https://apexgym369.store/products/v2-7mm-knee-sleeves-pink-leopard-print-pair): 7mm neoprene knee sleeves offer a combination of joint support, warmth, pain relief, injury prevention, and confidence enhancement, making them a valuable accessory for athletes looking to optimize their performance and protect their knees during lifting and workouts. Joint Support: Neoprene knee sleeves offer vital joint support by providing compression around the knee. This compression helps stabilize the joint during movements like squats and deadlifts, reducing the risk of lateral and rotational movement that could strain or injure the knee. The added support can also improve the athlete's form and technique. Warmth and Blood Flow: Neoprene is an insulating material that retains heat. When worn, these knee sleeves help keep the knee joint warm, even in colder environments. This warmth promotes increased blood flow to the area, which can be particularly beneficial before and during workouts. Improved blood flow delivers oxygen and nutrients to the muscles and joints, helping to prevent stiffness and enhance overall performance. Pain Reduction: Athletes who experience knee discomfort or have a history of knee injuries may find relief when wearing neoprene knee sleeves. The compression and warmth provided by the sleeves can help alleviate mild to moderate knee pain. This can be especially helpful for individuals with conditions like patellar tendonitis or mild arthritis, allowing them to continue their training with reduced discomfort. Injury Prevention: Knee sleeves are a proactive measure against injuries. By stabilizing the knee joint and providing support, they reduce the risk of strains, sprains, and overuse injuries. Athletes who regularly engage in heavy lifting or high-impact activities can benefit from the added protection that knee sleeves offer, as they help maintain the integrity of the knee joint over time. Improved Confidence: Wearing knee sleeves can boost an athlete's confidence during workouts. Knowing that their knees are supported and protected can allow them to push their limits without the fear of knee-related issues. This psychological boost can lead to better focus, increased motivation, and enhanced overall performance, as athletes can concentrate on their training goals rather than worrying about potential knee injuries. Wearing a smaller size than recommended may reduce the life of the sleeves. Our sleeves optimal lifespan is designed around the suggested fit seen in the size chart above and will decrease with incorrectly sized sleeves. Are these the right sleeves for me? - Click here to see the guide on which sleeves may suit you best.
-  Updated: 2026-01-27T22:01:14Z
+  Updated: 2026-02-04T22:00:12Z
   Vendor: Murgs
   Product Type: Knee Sleeves
   Availability: Available
@@ -2269,7 +2269,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 1,562.02 ZAR
 - [H.E.R. B.R.A.](https://apexgym369.store/products/her-bra): Dare to defy ordinary underwear with the H.E.R. B.R.A. – a bold fusion of rebellious comfort and unapologetic support. This isn't just lingerie; it's a statement. Feel the difference as it contours to your unique shape, providing exceptional lift while letting you breathe freely. For the woman who demands both freedom and function, without sacrificing an ounce of attitude. Experience unmatched support with the H.E.R. B.R.A. – where comfort meets confidence. This revolutionary bra doesn't just support; it liberates. Designed to embrace your natural shape while providing the perfect lift, it's the daring choice for those who refuse to compromise between feeling good and looking amazing. Redefine what comfort means to you. Size guide CHEST (inches) UNDERBUST (inches) XS 33 ⅛ 28 ¾ S 34 ⅝ 29 ½ M 36 ¼ 30 ¼ L 39 ⅜ 31 ⅞ XL 42 ½ 33 ½ 2XL 45 ⅝ 35.0 CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:17Z
   Vendor: CVMK Global LLC
   Product Type: n/a
   Availability: Available
@@ -2277,74 +2277,74 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [Black / XS](https://apexgym369.store/products/her-bra?variant=45629009166524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-714685.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [Black / S](https://apexgym369.store/products/her-bra?variant=45629009199292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-714685.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [Black / M](https://apexgym369.store/products/her-bra?variant=45629009232060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-714685.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [Black / L](https://apexgym369.store/products/her-bra?variant=45629009264828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-714685.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [Black / XL](https://apexgym369.store/products/her-bra?variant=45629009297596)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-714685.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [Black / 2XL](https://apexgym369.store/products/her-bra?variant=45629009330364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-714685.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [White / XS](https://apexgym369.store/products/her-bra?variant=45629009363132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-980323.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [White / S](https://apexgym369.store/products/her-bra?variant=45629009395900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-980323.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [White / M](https://apexgym369.store/products/her-bra?variant=45629009428668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-980323.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [White / L](https://apexgym369.store/products/her-bra?variant=45629009461436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-980323.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [White / XL](https://apexgym369.store/products/her-bra?variant=45629009494204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-980323.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
   - [White / 2XL](https://apexgym369.store/products/her-bra?variant=45629009526972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/her-sports-bra-980323.jpg?v=1767100215
-    Price: R 998.88 ZAR
+    Price: R 746.20 ZAR
 - [SAMSON](https://apexgym369.store/products/samson): SAMSON -- Des
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:16Z
   Vendor: CVMK GLOBAL
   Product Type: Vitamins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/CFA3788E-C053-425B-AAE7-31A7A469E9AD.png?v=1767100232
-  Price: R 2,056.07 ZAR
+  Price: R 1,492.41 ZAR
 - [Super Thick](https://apexgym369.store/products/super-thick): Super Thick -- Des
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:16Z
   Vendor: CVMK GLOBAL
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/gps_generated_d2cb0bc8-0202-4f32-9908-1333a157926a.png?v=1767100232
-  Price: R 1,233.64 ZAR
+  Price: R 895.44 ZAR
 - [Transform](https://apexgym369.store/products/transform): Transform - Des
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:17Z
   Vendor: CVMK GLOBAL
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/transform-868654.jpg?v=1767100232
-  Price: R 1,542.05 ZAR
+  Price: R 1,119.31 ZAR
 - [CVMK SUMMER T-SHIRT](https://apexgym369.store/products/cvmk-summer-t-shirt): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6 3XL 83.8 71.1 58 4XL 86.4 76.2 61.5 5XL 89 81.3 64.3
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:17Z
   Vendor: CVMK GLOBAL
   Product Type: n/a
   Availability: Available
@@ -2352,37 +2352,37 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [S](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010444476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [M](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010477244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [L](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010510012)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [XL](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010542780)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [2XL](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010575548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [3XL](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010608316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [4XL](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010641084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
   - [5XL](https://apexgym369.store/products/cvmk-summer-t-shirt?variant=45629010673852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/unisex-classic-tee-white-front-67eb54c150ca3.jpg?v=1767100233
-    Price: R 910.00 ZAR
+    Price: R 596.96 ZAR
 - [Hood-EEE](https://apexgym369.store/products/hood-eee): Don’t you just love sweatshirt weather? We do too. Layer up year round in this cozy, casual style. With a front pocket and snug hood, it doesn’t get much better than this. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (inches) LENGTH (inches) S 20 27 M 21 28 L 23 29 XL 25 30 2XL 26 ½ 31 3XL 28 32 CHEST WIDTH (cm) LENGTH (cm) S 50.8 68.6 M 53.3 71.1 L 58.4 73.7 XL 63.5 76.2 2XL 67.3 78.7 3XL 71.1 81.3
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:18Z
   Vendor: CVMK Global LLC
   Product Type: n/a
   Availability: Available
@@ -2390,29 +2390,29 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [S](https://apexgym369.store/products/hood-eee?variant=45629010247868)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/hood-eee-840096.jpg?v=1767100232
-    Price: R 1,336.45 ZAR
+    Price: R 970.07 ZAR
   - [M](https://apexgym369.store/products/hood-eee?variant=45629010280636)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/hood-eee-840096.jpg?v=1767100232
-    Price: R 1,336.45 ZAR
+    Price: R 970.07 ZAR
   - [L](https://apexgym369.store/products/hood-eee?variant=45629010313404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/hood-eee-840096.jpg?v=1767100232
-    Price: R 1,336.45 ZAR
+    Price: R 970.07 ZAR
   - [XL](https://apexgym369.store/products/hood-eee?variant=45629010346172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/hood-eee-840096.jpg?v=1767100232
-    Price: R 1,336.45 ZAR
+    Price: R 970.07 ZAR
   - [2XL](https://apexgym369.store/products/hood-eee?variant=45629010378940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/hood-eee-840096.jpg?v=1767100232
-    Price: R 1,336.45 ZAR
+    Price: R 970.07 ZAR
   - [3XL](https://apexgym369.store/products/hood-eee?variant=45629010411708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/hood-eee-840096.jpg?v=1767100232
-    Price: R 1,336.45 ZAR
+    Price: R 970.07 ZAR
 - [Comfys](https://apexgym369.store/products/comfys): Be inspired with Comfys - ultra soft, swag-style sweats. Combining remarkable comfort and unique style, Comfys will be a must-have in your wardrobe. Make sure you keep cozy while standing out from the crowd! Well-made and lined with fleece, these comfortable Unisex Fleece Sweatpants will be your first choice for a casual everyday outfit—all you need to add is a graphic tee and sneakers to finish off the look. • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Tightly knit 3-end fleece • 5-thread stitching • Cuffed and side-seamed legs • Elastic inside the waistband • Flat drawstrings in a matching color • 2 cross pockets in front • 1 top-stitched patch pocket on the back of the right leg • Ribbed waist, cuffs, and gusset at crotch • Blank product sourced from Pakistan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WAIST (inches) INSEAM LENGTH (inches) XS 28 28 S 30 29 M 32 30 L 34 31 XL 36 32 2XL 38 33 WAIST (cm) INSEAM LENGTH (cm) XS 71.1 71.1 S 76.2 73.7 M 81.3 76.2 L 86.4 78.7 XL 91.4 81.3 2XL 96.5 83.8
-  Updated: 2026-01-25T20:58:19Z
+  Updated: 2026-02-02T22:15:18Z
   Vendor: CVMK Global LLC
   Product Type: n/a
   Availability: Available
@@ -2420,203 +2420,203 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [Black / XS](https://apexgym369.store/products/comfys?variant=45629010706620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-163475.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Black / S](https://apexgym369.store/products/comfys?variant=45629010739388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-163475.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Black / M](https://apexgym369.store/products/comfys?variant=45629010772156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-163475.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Black / L](https://apexgym369.store/products/comfys?variant=45629010804924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-163475.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Black / XL](https://apexgym369.store/products/comfys?variant=45629010837692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-163475.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Black / 2XL](https://apexgym369.store/products/comfys?variant=45629010870460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-163475.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Navy Blazer / XS](https://apexgym369.store/products/comfys?variant=45629010903228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-126659.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Navy Blazer / S](https://apexgym369.store/products/comfys?variant=45629010935996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-126659.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Navy Blazer / M](https://apexgym369.store/products/comfys?variant=45629010968764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-126659.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Navy Blazer / L](https://apexgym369.store/products/comfys?variant=45629011001532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-126659.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Navy Blazer / XL](https://apexgym369.store/products/comfys?variant=45629011034300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-126659.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Navy Blazer / 2XL](https://apexgym369.store/products/comfys?variant=45629011067068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-126659.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Maroon / XS](https://apexgym369.store/products/comfys?variant=45629011099836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-829049.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Maroon / S](https://apexgym369.store/products/comfys?variant=45629011132604)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-829049.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Maroon / M](https://apexgym369.store/products/comfys?variant=45629011165372)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-829049.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Maroon / L](https://apexgym369.store/products/comfys?variant=45629011198140)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-829049.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Maroon / XL](https://apexgym369.store/products/comfys?variant=45629011230908)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-829049.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Maroon / 2XL](https://apexgym369.store/products/comfys?variant=45629011263676)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-829049.jpg?v=1767100235
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Charcoal Heather / XS](https://apexgym369.store/products/comfys?variant=45629011296444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-510715.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Charcoal Heather / S](https://apexgym369.store/products/comfys?variant=45629011329212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-510715.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Charcoal Heather / M](https://apexgym369.store/products/comfys?variant=45629011361980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-510715.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Charcoal Heather / L](https://apexgym369.store/products/comfys?variant=45629011394748)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-510715.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Charcoal Heather / XL](https://apexgym369.store/products/comfys?variant=45629011427516)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-510715.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Charcoal Heather / 2XL](https://apexgym369.store/products/comfys?variant=45629011460284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-510715.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Team Royal / XS](https://apexgym369.store/products/comfys?variant=45629011493052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-169864.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Team Royal / S](https://apexgym369.store/products/comfys?variant=45629011525820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-169864.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Team Royal / M](https://apexgym369.store/products/comfys?variant=45629011558588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-169864.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Team Royal / L](https://apexgym369.store/products/comfys?variant=45629011591356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-169864.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Team Royal / XL](https://apexgym369.store/products/comfys?variant=45629011624124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-169864.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Team Royal / 2XL](https://apexgym369.store/products/comfys?variant=45629011656892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-169864.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Military Green / XS](https://apexgym369.store/products/comfys?variant=45629011689660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-927341.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Military Green / S](https://apexgym369.store/products/comfys?variant=45629011722428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-927341.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Military Green / M](https://apexgym369.store/products/comfys?variant=45629011755196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-927341.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Military Green / L](https://apexgym369.store/products/comfys?variant=45629011787964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-927341.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Military Green / XL](https://apexgym369.store/products/comfys?variant=45629011820732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-927341.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Military Green / 2XL](https://apexgym369.store/products/comfys?variant=45629011853500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-927341.jpg?v=1767100234
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Dusty Rose / XS](https://apexgym369.store/products/comfys?variant=45629011886268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-870883.jpg?v=1767100236
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Dusty Rose / S](https://apexgym369.store/products/comfys?variant=45629011919036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-870883.jpg?v=1767100236
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Dusty Rose / M](https://apexgym369.store/products/comfys?variant=45629011951804)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-870883.jpg?v=1767100236
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Dusty Rose / L](https://apexgym369.store/products/comfys?variant=45629011984572)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-870883.jpg?v=1767100236
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Dusty Rose / XL](https://apexgym369.store/products/comfys?variant=45629012017340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-870883.jpg?v=1767100236
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Dusty Rose / 2XL](https://apexgym369.store/products/comfys?variant=45629012050108)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-870883.jpg?v=1767100236
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Carbon Grey / XS](https://apexgym369.store/products/comfys?variant=45629012082876)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-481277.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Carbon Grey / S](https://apexgym369.store/products/comfys?variant=45629012115644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-481277.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Carbon Grey / M](https://apexgym369.store/products/comfys?variant=45629012148412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-481277.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Carbon Grey / L](https://apexgym369.store/products/comfys?variant=45629012181180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-481277.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Carbon Grey / XL](https://apexgym369.store/products/comfys?variant=45629012213948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-481277.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [Carbon Grey / 2XL](https://apexgym369.store/products/comfys?variant=45629012246716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-481277.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [White / XS](https://apexgym369.store/products/comfys?variant=45629012279484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-857585.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
   - [White / S](https://apexgym369.store/products/comfys?variant=45629012312252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/comfys-857585.jpg?v=1767100237
-    Price: R 1,233.64 ZAR
+    Price: R 895.44 ZAR
 - [Pure Probiotics](https://apexgym369.store/products/pure-probiotics): Transform Your Gut Health with Pure Probiotics – The Ultimate 40 Billion CFU Formula for Optimal Digestion & Immunity! Are you tired of bloating, discomfort, or unpredictable digestion? Your gut is the foundation of your overall health, and Pure Probiotics is here to restore balance with a powerful, science-backed formula. Packed with 40 billion CFU of premium probiotics and enhanced with MAKTrek® Bi-Pass Technology, this advanced supplement ensures maximum absorption to deliver real results where it matters most. Say goodbye to gut issues and hello to a healthier, happier you! Why Pure Probiotics Stands Out Your gut is home to trillions of bacteria—some good, some bad. When this balance is disrupted, it can lead to digestive distress, weakened immunity, and poor nutrient absorption. This cutting-edge probiotic supplement is designed to replenish your gut with 40 billion CFU of beneficial bacteria, supporting a thriving microbiome and restoring balance to your digestive system. Unlike other probiotics that can't withstand the harsh stomach acid, Pure Probiotics utilizes revolutionary MAKTrek® Bi-Pass Technology to protect the live cultures, ensuring maximum absorption and efficacy. Why You Need Pure Probiotics ✔ Replenish Healthy Gut Bacteria: Packed with 40 billion CFU of powerful probiotic strains, Pure Probiotics helps to reestablish the optimal balance of good bacteria in your gut, promoting overall digestive function. ✔ Maintain Intestinal Lining: The probiotic strains in Pure Probiotics work to strengthen and support the integrity of your intestinal lining, supporting "leaky gut" and improving nutrient absorption. ✔ Survives in the Stomach–Reaches Intestines: Thanks to MAKTrek® Bi-Pass Technology, these probiotics survive harsh stomach acid, ensuring they reach your intestines alive and active. Unlike other probiotics that dissolve and die in the stomach, Pure Probiotics reach their destination fully intact. ✔ Support Proper Intestinal Motility: This probiotic supplement helps to regulate bowel movements, alleviating issues like constipation, diarrhea, and irregular digestion. ✔ Enhance Nutrient Absorption: By supporting a healthy gut microbiome, Pure Probiotics enhances your body's ability to absorb essential vitamins, minerals, and other nutrients from the foods you consume. ✔ Boost Immunity: Supports your gut’s immune system with anti-inflammatory cytokines, helping your body fight off harmful bacteria and inflammation. Gut health is closely linked to immune health, and the probiotic strains in Pure Probiotics help to support a robust, balanced immune system. ✔ Ease Digestive Discomfort: Helps break down lactose and dairy with probiotic acidophilus, reducing bloating and discomfort after meals. ✔ Promote Gut Barrier Integrity: Strengthens your gut’s natural defenses. The probiotics in Pure Probiotics work to fortify your gut barrier, fighting harmful bacteria, toxins, and pathogens from entering your bloodstream and triggering inflammation. ✔ All-Natural & Non-GMO – No artificial additives, gluten, corn, lactose, or added sugars. Who Needs Pure Probiotics? If you’re a health-conscious individual who wants to maintain a healthy gut and immune system and understands the importance of good guy bacteria, this is for you. Whether you are dealing with digestive issues or discomfort, Pure Probiotics offers the relief and long-term protection that you need. Anyone with Digestive Discomfort – Struggles with bloating, gas, or irregular digestion after eating. Health-Conscious Individuals – Wanting to strengthen their immune system naturally. Health Enthusiasts – Follows a healthy lifestyle but still experiences gut discomfort or irregularity issues. Fitness Enthusiasts – Needs better nutrient absorption for optimal energy and vitality. Take Control of Your Gut Health Today! If you're tired of feeling sluggish, uncomfortable, and disconnected from your best self, Pure Probiotics is the solution you've been searching for. Your journey to better digestion and stronger immunity starts now. Don’t settle for temporary fixes—Pure Probiotics is your ticket to a happier, healthier life. Backed by science and formulated with completeness, this probiotic supplement is an ideal choice for health-conscious individuals seeking natural solutions to their gut-related concerns. Regain control of your digestive health and experience the transformative benefits of a thriving gut!
   Updated: 2026-01-25T20:58:20Z
   Vendor: Purex Nutrition
@@ -2670,14 +2670,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5958ROC920.png?v=1767100967
   Price: R 670.00 ZAR
 - [The Good Guru Shilijat Rein 30g](https://apexgym369.store/products/the-good-guru-shilijat-rein-30g): The Good Guru`s Gold Shilajit Resin 30 grams harvested from the mountains of Himalayas in Gilgit-Baltistan at high altitude and provided in purified resin form. No fillers or binders Non-GMO Chemical Free Environmentally friendly Recyclable packaging Suitable for Vegetarians and Vegans INGREDIENTS: Purified Shilajit Resin
-  Updated: 2026-01-28T15:45:59Z
+  Updated: 2026-02-04T15:46:01Z
   Vendor: Pitstop Nutrition
   Product Type: General Health
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Shilajit_pearl_30g__69629.jpg?v=1767100898
   Price: R 679.72 ZAR
 - [Applied Nutrition Casein - 900g](https://apexgym369.store/products/applied-nutrition-casein-900g): 100% Casein night time protein is vital to anybody wanting to refuel their muscles during sleep when it is impractical to consume food or drink.
-  Updated: 2026-01-28T15:45:57Z
+  Updated: 2026-02-04T15:45:53Z
   Vendor: Applied Nutrition
   Product Type: Protein Powder
   Availability: Available
@@ -2692,7 +2692,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 749.62 ZAR
 - [Uncle Jack's Egg Whites](https://apexgym369.store/products/uncle-jacks-egg-whites): This is no yolk! Uncle Jack's Liquid Egg Whites are done right. Free Range & Pure. We have already separate and removed the yolk so you are saved the hassle, the time and the wastage. Make an omelette or add them into your shake. It's up to you! Keeps for up to 6 months from manufacturer. Refrigerate once opened and consume within 48 hours.
-  Updated: 2026-01-28T15:46:01Z
+  Updated: 2026-02-04T15:45:52Z
   Vendor: Uncle Jacks
   Product Type: Egg Whites
   Availability: Available
@@ -2707,7 +2707,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 465.00 ZAR
 - [Innovapharm - MVPre 3.0](https://apexgym369.store/products/innovapharm-mvpre-30): The most valuable pre-workout in the history of sports nutrition. InnovaPharm MVPre is loaded with massive, record setting and clinically proven doses of the most important ingredients to fuel your body and help dominate the most intense workouts of your life! Nothing but FULLY LOADED ingredients for FULLY LOADED PUMPS, STRENGTH & ENDURANCE. Product highlights: Increases energy and focus Enhances nitric oxide production Boosts power output Promotes greater blood flow Improves nutrient delivery to working muscles Fatigue resistance
-  Updated: 2026-01-28T15:46:02Z
+  Updated: 2026-02-04T15:45:54Z
   Vendor: Innovapharm
   Product Type: Stim Pre-Workout
   Availability: Available
@@ -2741,7 +2741,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/MVPre_3.0_-_Watermelon_Lemonade_Render_1800x1800_390dbb78-09cf-4a4b-8b98-767c1bb50d9c.jpg?v=1767100901
     Price: R 1,110.68 ZAR
 - [Trained By JP MPS Max](https://apexgym369.store/products/trained-by-jp-mps-max): The markets best intra/peri workout amino acid formula is not only back in the tbJP range BUT it is new and improved! This time we have combined PeptoPro and Hydrolysed Whey to provide whole proteins. This is essential for optimising MPS (muscle protein synthesis) To vastly increase their efficiency, Velosotil has been added into the mix, which works to further boost the complete proteins ability to raise MPS. We have used essential free form amino acids in the formula to accompany the whole proteins. This increases the BCAA content considerably, specifically leucine, which is a rate limiting amino for MPS. Having this present at the doses we use, makes MPS Max unparalleled in its effectiveness. We have used the extremely potent Peak 02 to help aid overall performance and recovery, as well as pharmacy grade electrolytes in the form of Aquamin. If you take training seriously, we believe that MPS Mas will play an intergral role in accelerating your progress.
-  Updated: 2026-01-28T15:46:01Z
+  Updated: 2026-02-04T15:45:26Z
   Vendor: Trained By JP
   Product Type: EAA
   Availability: Available
@@ -2765,7 +2765,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 1,310.68 ZAR
 - [Per4m Pre Workout](https://apexgym369.store/products/per4m-pre-workout): Per4m Pre is the ultimate pre-workout solution for optimal gym performance. It is packed with hand-picked ingredients to promote energy and mental focus, with 2000mg Taurine for added hydration. With incredible flavours to choose from, including Berry Blast, Passionfruit and Cola Bottle, our advanced formula delivers an intense pump and sustained energy to fuel your workouts.
-  Updated: 2026-01-28T15:46:01Z
+  Updated: 2026-02-04T15:45:25Z
   Vendor: Per4m
   Product Type: pre workout
   Availability: Available
@@ -3640,21 +3640,21 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/e3c773fb-5e73-4ca3-8e8b-f511fc231cf4.png?v=1767121089
   Price: R 1,694.96 ZAR
 - [NNEOBA Smart Watch Health Monitor Black](https://apexgym369.store/products/nneoba-smart-watch-health-monitor-black): Stay fit, connected, and in style — Smart Watch 6 keeps track of your health, workouts, and calls all in one sleek device. Specifications Color: Black Screen Size: 1.32-inch Full Touch LCD HD Screen Resolution: 128×128 px Battery Capacity: 150 mAh Charging Method: Magnetic Charging Bluetooth Version: BLE 5.0 Compatibility: Android & iOS Bluetooth Calling: Supported Bluetooth Music Playback: Supported Main Features 1.32” Full Touch HD Display – Bright and easy to navigate with an intuitive touch interface. Bluetooth Calling & Music Playback – Make and receive calls or enjoy music right from your wrist. Comprehensive Health Monitoring – Track your heart rate, blood pressure, blood oxygen, and sleep quality in real time. Multi-Sport Tracking – Record your steps, distance, calories burned, and workout duration to stay on top of your fitness goals. Real-Time Notifications – Get alerts for calls, texts, and app notifications instantly. Magnetic Charging Design – Hassle-free charging with secure magnetic contact. Lightweight & Comfortable – Sleek design perfect for daily wear, sports, or as a thoughtful tech gift. Long-Lasting Performance – Efficient 150mAh battery ensures dependable daily use. Description The Smart Watch 6 is your ultimate fitness and lifestyle companion — designed for those who want performance, style, and smart functionality in one. Featuring a 1.32-inch HD full-touch display, it offers clear visuals for easy interaction. Stay connected wherever you go with Bluetooth calling and music control, while advanced health monitoring tracks your heart rate, blood pressure, blood oxygen, and sleep. Whether you’re running, walking, or working out, it keeps accurate logs of your activity to help you achieve your goals. Compatible with both Android and iOS, the Smart Watch 6 makes a perfect gift for anyone who values fitness, connectivity, and modern design.
-  Updated: 2026-01-28T19:13:19Z
+  Updated: 2026-01-30T19:16:00Z
   Vendor: NNEOBA
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S9600ad79566b4697b46d5bd0057df084k.webp?v=1767121286
   Price: R 1,200.00 ZAR
 - [NNEOBA Health Tracker Smart Watch Silver](https://apexgym369.store/products/nneoba-health-tracker-smart-watch-silver): Stay connected, track your health, and shine in style — the perfect smartwatch for modern women. Specifications: Display: 1.46-inch AMOLED HD screen, 360×360 resolution Battery Capacity: 300mAh, long-lasting use Connectivity: Bluetooth 5.3 for stable and fast pairing Compatibility: Android 4.4+ / iOS 9.0+ Health Functions: Heart rate, blood pressure, oxygen, and sleep monitoring Water Resistance: IP67 – resistant to splashes and light rain Color: Silver Key Features: AMOLED HD Display: Vivid 1.46-inch screen for crystal-clear visuals and smooth touch control. Comprehensive Health Monitoring: Keep track of your heart rate, blood pressure, blood oxygen, and sleep patterns to stay informed about your health. Bluetooth Calling & Smart Notifications: Make and receive calls directly from your wrist and get message alerts instantly. Fitness & Activity Tracking: Monitor daily steps, calories burned, and activity levels to help reach your fitness goals. Durable & Water Resistant: IP67 waterproof rating makes it ideal for daily use, workouts, and light outdoor activities. Multilingual & Customizable: Supports multiple languages and customizable watch faces for a personalized experience. Description: Experience innovation, style, and wellness in one with the Smart Watch GPS 1.46” AMOLED HD Screen. Designed for modern women who value both elegance and performance, this smartwatch offers a bright 360×360 AMOLED display for vivid visuals and easy data viewing. Stay in control of your health with 24/7 tracking features for heart rate, blood pressure, oxygen levels, and sleep quality. Its Bluetooth 5.3 ensures stable connectivity, letting you answer calls, receive messages, and control music seamlessly without reaching for your phone. With IP67 water resistance, it’s built to withstand splashes, sweat, and light rain — perfect for everyday life and fitness activities. Stylish, smart, and practical, this smartwatch is more than just an accessory — it’s your personal health and lifestyle companion.
-  Updated: 2026-01-28T19:13:17Z
+  Updated: 2026-02-04T19:14:39Z
   Vendor: NNEOBA
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S2ad9457a3e634c1387e6668a222c2f0bM.webp?v=1767121288
   Price: R 1,100.00 ZAR
 - [NNEOBA Sports Smart Watch Health Monitor Pink](https://apexgym369.store/products/nneoba-sports-smart-watch-health-monitor-pink): Stay fit, connected, and stylish 💪💗 — make wireless calls, play music, and track your health 24/7 with this all-in-one 1.83” waterproof smartwatch! 📋 Specifications Color: Pink Display Size: 1.83-inch Full Touch HD Screen Bluetooth Version: 5.0 Waterproof Level: Life waterproof Battery: Long-lasting rechargeable battery Compatibility: Android 5.0 and above / iOS 9.0 and above App Support: Synchronizes health data and notifications via companion app 💎 Key Features ✅ Bluetooth HD Calls & Music Playback – Make and receive clear wireless calls directly from your wrist, or enjoy your favorite songs anytime.✅ Customizable Dial Designs – Choose from a variety of stylish dial faces or upload your own photos for a personalized look.✅ Smart Notifications – Receive call alerts, message previews, and app notifications (Facebook, WhatsApp, Instagram, Twitter, Skype, etc.) directly on your watch.✅ All-Day Health Monitoring – Track heart rate, blood pressure, sleep quality, and more for a complete picture of your wellbeing.✅ Comprehensive Fitness Tracking – Pedometer, calorie burn, distance, exercise duration, and multiple sport modes help you meet your goals.✅ Lifestyle Reminders – Stay consistent with alarm clock, sedentary reminder, drinking water reminder, and medication alerts.✅ Convenient Controls – Remote photo capture, music control, phone finder, stopwatch, countdown timer, and adjustable screen brightness.✅ Sleep Insights – Automatically records deep and light sleep cycles for better rest and recovery. 📖 Product Description The 1.83" Sports Smart Watch (Pink) combines style, performance, and smart convenience in one elegant wearable. With Bluetooth HD calling and music playback, you can stay connected without reaching for your phone. Whether you’re working out, relaxing, or at work, the watch tracks your heart rate, blood pressure, calories, steps, and sleep patterns with precision. Smart reminders help you maintain a balanced lifestyle, while custom dials let you express your personality. Designed to fit seamlessly into your day, this smartwatch is your ultimate fitness companion and personal assistant on your wrist.
-  Updated: 2026-01-27T19:12:54Z
+  Updated: 2026-02-04T19:14:07Z
   Vendor: NNEOBA
   Product Type: Watches
   Availability: Available
@@ -3709,14 +3709,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/1_68949e2c-86e4-458f-8cea-77f54aee0979.jpg?v=1767121309
     Price: R 924.98 ZAR
 - [NNEDSZ Weight Bench 10 in 1 Bench Press Home Gym Station 330kg Capacity](https://apexgym369.store/products/nnedsz-weight-bench-10-in-1-bench-press-home-gym-station-330kg-capacity): Get the full workout in one place with the Everfit Multi-functional Weight Bench. Designed for a full-body workout, you can build your core, arms, abdomen and legs all from one machine. The set is suitable for leg extensions, incline presses, preacher curls, chest flys and so much more. It has a 330kg weight limit and a tough, sturdy steel powder-coated frame for long-lasting use. The thick PU padding and foam protection for your knees will keep you safe as well as comfortable. Designed with adjustable height and incline levels, you can always work out at your most comfortable and effective level. A removable preacher curl bench and flexible foam rollers allow you to work in total customized comfort. The set is suitable for both standard and Olympic dumbbells. The bench is easy to assemble thanks to its simple and foldable design, and you can install and store this weight bench anywhere in your home using the included instructions. So, what are you waiting for? Buy an Everfit Weight Bench today and achieve your greatest gains today.Note: Barbell set and weight plates are not included. Features10-in-1 weight benchTen more workout type available Suitable for leg extensions, incline presses, preacher curls, chest flys and much more.Multi-level adjustmentBackrest and height adjustable Removable preacher curl benchFlexible foam rollersStability and safety designThick PU leather padding for comfortSuitable for standard and Olympic barbells Specifications:Brand: EverfitMaterial: Steel + LeatherColour: BlackAssembled Size: 196x110x125-149cmWeight capacity: 330KGMain tube: 50x50x1.4cmAssembly required: YesNo. of packages: 1 Package ContentEverfit Weight Bench X1 This product comes with 1 year warranty
-  Updated: 2026-01-25T20:58:25Z
+  Updated: 2026-02-04T19:21:48Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/FIT-I-BENCH-10IN1-BK-139232-00.jpg?v=1767121769
   Price: R 5,724.93 ZAR
 - [NNEDSZ Fitness Ball 55cm in Grey](https://apexgym369.store/products/nnedsz-fitness-ball-55cm-in-grey): Our Cortex 55cm fitness balls are extremely versatile and inexpensive exercise tools that can be used to work out nearly every muscle group in the body. They can be used to improve your posture, core strength and overall balance and stability. Lifespan Fitness balls are made of quality anti-burst, UV resistant material and are  to last. Fitness balls are extremely versatile and inexpensive exercise tools that can be used to work out nearly every muscle group in the body. They can be used to improve your posture, core strength and overall balance and stability. Lifespan Fitness balls are made of quality anti-burst, UV resistant material and are  to last. MATERIAL - Super Strong Anti-burst material - UV Resistant Material DIMENSIONS AND WEIGHT - User Weight: 300kg - Colour: Dark Grey - Size: 55cm
-  Updated: 2026-01-25T20:58:25Z
+  Updated: 2026-02-03T19:12:37Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
@@ -3730,7 +3730,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V888-ELOSUNG24016-202503211632-00.jpg?v=1767121811
   Price: R 860.00 ZAR
 - [NNEDSZ Adjustable Desktop Punching Speed Ball - Durable PU Leather, Stable Base (Bear pattern and Boxing gloves not included)](https://apexgym369.store/products/nnedsz-adjustable-desktop-punching-speed-ball-durable-pu-leather-stable-base-bear-pattern-and-boxing-gloves-not-included): Adjustable Desktop Punching Speed Ball Features: Durable PU Leather Material: High-quality PU leather ensures long-lasting use and excellent durability. Stable Base: The wide base (diameter 17.7 cm) provides firm stability for smooth operation. Compact and Lightweight: Easy to set up on any desktop, perfect for home or office use. Stress Relief: Relieve tension and improve focus by punching the speed ball during breaks or workouts. Adjustable Height: Designed to suit different users and various training preferences. Product Specifications: Product Dimensions: Height 40 cm, Base Diameter 17.7 cm, Foam Height 13 cm Net Weight: 800 g Material: PU Leather + ABS + Stainless Steel + PU Foam Package Includes: 1 x Punching Speed Ball 1 x Connecting Rod 1 x Base 1 x Pump Suitable For: Stress relief at home or office Fitness training to improve reflexes and hand-eye coordination Beginners or professionals looking for portable punching practice Note: This product is easy to assemble and suitable for multiple surfaces. Ensure the base is securely placed for optimal performance. Returns, Refunds and Replacements Products that are received faulty, damaged, or not as described are eligible for a return, refund, or replacement in accordance with the Australian Consumer Law (ACL). We are committed to ensuring all products meet the standards of quality and reliability expected by our customers. However, please note that we do not accept returns or provide refunds for change of mind. We encourage you to carefully consider your purchase to ensure it meets your needs and expectations. Delivery Timeframe Please note that we cannot guarantee the exact date of arrival, and the delivery timeframes (excluding weekends and public holidays) are as follows: For customers in Victoria, approximately 7-10 working days; For customers in NSW, SA, ACT, and QLD, approximately 9-12 working days; For customers in WA, NT, and TAS, approximately 9-12 working days.
-  Updated: 2026-01-25T20:58:25Z
+  Updated: 2026-01-31T19:08:31Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Exercise, Gym & Fitness > Boxing & Martial Arts
   Availability: Available
@@ -3744,7 +3744,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V420-KBSTANDARD6-94958-00.jpg?v=1767121833
   Price: R 1,376.08 ZAR
 - [NNEOBA 950ml Magnetic Thermos Water Bottle Black](https://apexgym369.store/products/nneoba-950ml-magnetic-thermos-water-bottle-black): Hydration meets convenience – a stainless steel thermos that keeps drinks hot or cold while doubling as a magnetic phone holder. Specifications Capacity: 950ml Color: Black Material: High-quality stainless steel Insulation Performance: 12–24 hours hot/cold retention Lid Type: Bouncing cover, leakproof design Special Feature: Built-in magnetic phone holder Target Users: Suitable for couples, fitness, travel, and outdoor activities Features Durable Stainless Steel – Crafted from premium stainless steel for safety and long-lasting use. Thermal Insulation – Keeps drinks hot or cold for 12–24 hours. Leakproof Bouncing Cover – Easy one-press opening with secure, spill-resistant seal. Magnetic Phone Holder – Conveniently attach your phone to the bottle for quick access. Generous Capacity – 950ml size ideal for sports, travel, office, or daily hydration. Gift-Ready Design – A stylish and practical bottle, perfect for couples or as a thoughtful gift. Product Description Stay hydrated in style with this 950ml magnetic thermos sports water bottle. Built from high-quality stainless steel, it offers safe, durable performance while keeping your beverages hot or cold for up to 24 hours thanks to its vacuum insulation technology. The sleek black design is paired with a bouncing cover lid, making it leakproof and easy to open with just one press—perfect for active lifestyles. What makes this bottle unique is its magnetic phone holder, allowing you to securely attach your phone for hands-free convenience. Whether you’re at the gym, traveling, or enjoying outdoor activities, it’s a practical feature that keeps your essentials within reach. With its large capacity and stylish multifunctional design, this thermos is not only a smart hydration choice but also an excellent gift for couples, friends, or anyone who values both function and innovation.
-  Updated: 2026-01-25T20:58:26Z
+  Updated: 2026-02-04T19:16:01Z
   Vendor: NNEOBA
   Product Type: home & living > kitchen & dining > drinkware > bottles & jugs
   Availability: Available
@@ -4099,14 +4099,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 1,048.60 ZAR
 - [NNEDPE Powertrain Home Gym Flat Bench Press Fitness Equipment](https://apexgym369.store/products/nnedpe-powertrain-home-gym-flat-bench-press-fitness-equipment): The PowerTrain flat bench is just what you need to sit and do dumbbell arm curls, as well as being a flat bench, you can do bench press with a total load rating of 110kg.It's robust and sturdy design makes it durable and thick 6cm padding is designed to keep you comfortable.Built to last from heavy gauge powder-coated steel, this attractive bench from PowerTrain will make your home gym look like the real .FEATURES: * Flat gym bench * Max load weight: 110kg * Robust steel frame * High density foam * Anti-slip feet * Dimensions: 110(L) x 36.5(W) x 46(H)CONTENTS: * 1 x Home Gym Bench * 1 x InstructionsThe PowerTrain flat bench is just what you need to sit and do dumbbell arm curls, as well as being a flat bench, you can do bench press with a total load rating of 110kg.It's robust and sturdy design makes it durable and thick 6cm padding is designed to keep you comfortable.Built to last from heavy gauge powder-coated steel, this attractive bench from PowerTrain will make your home gym look like the real .FEATURES: Flat gym bench Max load weight: 110kg Robust steel frame High density foam Anti-slip feet Dimensions: 110(L) x 36.5(W) x 46(H) CONTENTS: 1 x Home Gym Bench 1 x Instructions
-  Updated: 2026-01-26T19:15:42Z
+  Updated: 2026-02-03T19:12:39Z
   Vendor: NNEDPE
   Product Type: Free Weights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/dds-211_1.jpg?v=1767186437
   Price: R 4,888.36 ZAR
 - [NNEOBA Adjustable Gym Training Equipment for Splits & Flexibility](https://apexgym369.store/products/nneoba-adjustable-gym-training-equipment-for-splits-flexibility): Achieve perfect splits and enhance flexibility with the NNEOBA Heavy Duty Leg Stretcher Machine. Designed for gym enthusiasts and professionals, this adjustable machine provides a comprehensive stretching solution. Specifications: Type of Sports: Cardio Training Training Sites: Waist, Legs, Muscle Relaxation Apparatus, Waist & Abdomen Exercise, Foot, Hip Features: Heavy Duty Construction: Built for durability and long-term use. Adjustable Settings: Customize your stretching intensity for optimal results. Versatile Training Sites: Targets various areas including legs, waist, and hips. Enhanced Flexibility: Ideal for improving splits and overall flexibility. Comfortable Design: Ensures a comfortable stretching experience with ergonomic support. Description: Elevate your flexibility training with the NNEOBA Heavy Duty Leg Stretcher Machine. This premium gym equipment is designed for athletes and fitness enthusiasts who are serious about improving their splits and overall leg flexibility. Its heavy-duty construction and adjustable settings make it perfect for both beginners and advanced users. The machine targets multiple training sites including the waist, legs, hips, and feet, providing a comprehensive stretching solution. Whether you're preparing for a performance or aiming to enhance your workout routine, the NNEOBA Leg Stretcher Machine offers the support and effectiveness you need for achieving your fitness goals.
-  Updated: 2026-01-25T20:58:27Z
+  Updated: 2026-02-03T19:13:05Z
   Vendor: NNEOBA
   Product Type: Fitness
   Availability: Available
@@ -4120,42 +4120,42 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/07909730-4a5d-4d4c-9506-87eb31f0958c.jpg?v=1767186451
   Price: R 8,764.13 ZAR
 - [Self-Suction Abs Machine - Gym Equipment for Full Body Workout](https://apexgym369.store/products/self-suction-abs-machine-gym-equipment-for-full-body-workout): Introducing our Self-Suction Sit Up Bars Stand, a versatile fitness equipment designed for comprehensive training targeting legs, muscle relaxation, waist & abdomen, and foot exercises. Packed with key features, this multifunctional gym bench is an essential addition to your home gym. Key Features: Multifunctional Design: Address various training sites including legs, muscle relaxation, waist & abdomen, and foot exercises. Versatility for a complete workout. Teaching Mode: Book & Other: Learn and master exercises with ease using the included book teaching mode. Additionally, explore other teaching modes for a well-rounded fitness routine. Model Number: YJ39: Identifiable model number for quick reference and product classification. Classified by Exerciser Number: 1: Designed for solo workouts with a focus on individual exercise routines. Function: Belly: Specifically tailored for belly workouts, providing targeted exercises for abdominal muscles. Multifunction Pull Up: Expand your workout possibilities with the multifunction pull-up feature, enhancing upper body strength. Foldable & Adjustable: The gym bench is foldable for easy storage and adjustable to accommodate various workout intensities. Portable Sit Up Bar: Enjoy the convenience of a portable sit-up bar, allowing you to exercise anytime, anywhere. ABS Trainer & Abdominal Bench: Functions as an ABS trainer and abdominal bench, ensuring a comprehensive workout for core muscles. Home Gym Equipment: Perfect for home gym setups, providing a cost-effective and space-saving solution for your fitness needs.
-  Updated: 2026-01-25T20:58:28Z
+  Updated: 2026-01-30T23:47:57Z
   Vendor: OBA
   Product Type: fitness > fitness other
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S93670092fd0e4966beb895ed8f556f5eF_4954511d-0029-44ef-9ee4-2cd8f4a290af.webp?v=1767186456
   Price: R 1,561.00 ZAR
 - [NNEDSZ Boxing Punching Bag Stand 170CM Home Gym Training Equipment](https://apexgym369.store/products/nnedsz-boxing-punching-bag-stand-170cm-home-gym-training-equipment): Get your daily boxing routine done in style and convenience with the Everfit Boxing Bag Stand. Made from sturdy multi-layered material, the boxing bag and stand are designed to absorb whatever you throw at it, giving you a real workout. The thick and sturdy base keeps the bag in one place and prevents tipping. It can be secured with 10 strong suction cups, and you can fill the base with water or sand to guarantee stability. The reinforced shock absorption system ensures reduced vibration and quiet operation, so you can exercise in comfort and quiet. The high rebound bag easily returns to its original position after punching and gives you a range of movement to practice with. Easy to install and easy to maintain, the Everfit Boxing Bag Stand will help relieve stress, improve your physical defence and keep you fit. FeaturesFreestanding boxing bag stand kitSturdy multi-layered material Thick and stable base10 strong suction cupsReinforced shock absorption systemHigh reboundEasy installation Fill the base with sand or waterPunching game to relieve pressure and increase fitnessIdeal fitness and training equipment Specifications:Brand: EverfitMaterial: Plastic + PU leatherProduct Size: 50x50x170cmAssembly required: YesNumber of packages: 2 Package ContentEverfit Boxing Bag Stand X1 This product comes with 1 year warranty
-  Updated: 2026-01-25T20:58:28Z
+  Updated: 2026-02-01T19:07:15Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/BOXING-A-STAND-170CM-AB-173357-02.jpg?v=1767186460
   Price: R 3,916.40 ZAR
 - [NNEDSZ Electric Treadmill Home Gym Exercise Machine Fitness Equipment Physical 360mm](https://apexgym369.store/products/nnedsz-electric-treadmill-home-gym-exercise-machine-fitness-equipment-physical-360mm): Need to shred some body fat or tone your body within the comfort of your home? We have just the perfect solution for you: the Everfit Electric Treadmill. A truly effective machine to help you lose some kilos as well as perform essential cardio exercises, the Everfit Treadmill is designed to simulate natural terrain as you do your runs or walks. You get total realism in feel and impact, not to mention the great workout that you are having. Operating the Treadmill is totally effortless (we rather you save that for the running and walking) with up to 12 pre-set training programmes to choose via the user-centric and brightly lid LCD display. And you can easily increase the speed levels (up to 12 settings) to match your workout intensity on the sturdy and strong assembly without losing a beat. Not least, the anti-slip belt and soft-grip handle bar with pulse sensors will make your session a comfortable and controlled experience through and through. The Treadmill works so quietly with its super efficient motor that your less-than-enthusiastic fitness neighbours will not even know you’re sweating it out at midnight. Plus, fluids are always close at hand with the dual drink holders to ensure you’re sufficiently hydrated throughout your grueling sessions. And when all the hard work’s done, just store the compact Treadmill away easily. The built-in wheels make it hassle-free moving the Treadmill to your preferred spot. So stop procrastinating and get that body into shape pronto with the Everfit Treadmill. It’ll do you a world of good. Important: Running belt must be checked for lubrication before first use. Please refer to manual for details. Features High strength composite running board Sturdy powder coated steel frame 12 training programs User-centric control panel Bright digital LCD display Powerful and energy-efficient motor Neighbour-friendly quiet operation 12 speed levels 3 Adjustable inclination level Pulse sensor to monitor health Anti-slip and wear-resistant running belt Dual drink holders Super compact for easy storage Safety tether key Soft-grip handle bar Smooth wheels for mobility Specifications Rated voltage: 240V Rated frequency: 50Hz Rated power: 1.0HP Speed levels: 12 Speed: 0.8 - 12km/h Programs: 12 Weight capacity: 100kg Run belt width: 36cm Electric cord: 1.5m Assembly Required: Yes Number of packages: 1 Package Content 1 x Everfit Electric Treadmill 1 x User Manual 1 x Lubricating Oil
-  Updated: 2026-01-27T19:12:53Z
+  Updated: 2026-02-04T19:15:01Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/TMILL-360-BK-R01-03.jpg?v=1767186468
   Price: R 15,680.00 ZAR
 - [NNEDSZ Magnetic Recumbent Exercise Bike Fitness Trainer Home Gym Equipment Black](https://apexgym369.store/products/nnedsz-magnetic-recumbent-exercise-bike-fitness-trainer-home-gym-equipment-black): Get an effective workout in the comfort of your home while watching TV or listening to your favourite music. The Everrfit Recumbent Exercise Bike is just perfect to have all these at once. Designed for people who prefer a low or non- impact exercise regime, our recumbent bike provides adequate exercise for the body without causing undue stress and strains on your joints and back. The relaxed seating position actually allows you to balance your body weight better and get your legs and heart to work together in tandem for better blood flow. The LCD display also helps to track parameters easily to let you monitor your health while exercising. The bike itself is constructed of an industrial-strength power-coated steel frame for durability and rust resistance. With up to eight resistance levels, the bike can be adjusted for the desired exercising intensity to suit your workout. Plus, the magnetic flywheel is smooth and runs almost friction-free. Other features include an adjustable seat length, wide and comfortable seat and non-slip protective feet. Not least, the recumbent bike is also easy to transport with two handy wheels for hassle-free moving. Features *Industrial-strength powder-coated rust-proof steel frame *Body-friendly design *Silent magnetic system *8-level resistance adjustments *Lumbar seat support *Adjustable seat length *Non-slip protective feet with strap *LCD monitor *5 workout measurement displays *Hand pulse sensor *Built-in easy transporting wheels *Floor levelers *Note: Assembly required Specifications *Brand: Everfit *Frame: Powder-coated steel *Monitor: Time, speed, distance, calories, odometer, pulse *Brake system: Magnet *Drive system: ribbed belt two-ways *Training intensity: 8 levels by manual *Max. weight capacity: 120 kg *Gross weight: 32kg *Product Weight : 29.5kg *Colour: Black Package Contents 1 x Everfit Recumbent exercise bike 1 x Assembly tools 1 x Instruction manual
-  Updated: 2026-01-28T19:06:28Z
+  Updated: 2026-02-04T19:07:50Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/EB-F-RB-01-BK-00.jpg?v=1767186471
   Price: R 14,680.00 ZAR
 - [NNEDSZ Power Tower 4-IN-1 Multi-Function Station Fitness Gym Equipment](https://apexgym369.store/products/nnedsz-power-tower-4-in-1-multi-function-station-fitness-gym-equipment): Everfit Pull Up Fitness Station It offers a range of exercises such as bench presses, chin ups, dips, pull-ups, weight lifts, leg raises, push-ups and more. Fact is, there is so much you can workout to with this versatile tower of power to push your body to its limits with results that matter. Constructed from heavy-duty, powder-coated tubular steel, the gym station is durable and strong and features large, non-slip rubber feet that will prevent unwanted movement, high-density and sweat- proof cushioning and padded handles and arm supports for truly safe and comfortable training regimes Features* Complete upper body and core workout* 4-in-1 multi-function home gym* Heavy-duty, powder-coated steel frame* Capped feet* Padded handles* Height adjustable pull-up bar* High-quality sweat-proof material* High-density cushioning* Easy assembly Specifications* Weight Capacity: 200kg approx* Material: Steel construction* Product size: 85cm X 67cm X 199cm-235cm* Type: Exercise tower* Frame: Powder-coated steel* Max user weight: 200kg* Please note: Assembly required Package Content1 x Multi-function gym1 x User Manual
-  Updated: 2026-01-25T20:58:28Z
+  Updated: 2026-01-30T19:21:37Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/FIT-CHINUP-TOWER-00.jpg?v=1767186479
   Price: R 7,890.00 ZAR
 - [NNEDSZ Multi-Station Weight Bench Press Weights Equipment Fitness Home Gym Red](https://apexgym369.store/products/nnedsz-multi-station-weight-bench-press-weights-equipment-fitness-home-gym-red): Perfect for various muscle building regimes, the multi-functional Everfit Home Fitness Weight Bench is as tough as it gets. Made from high grade steel construction, the weight bench helps to targets and tone specific muscle groups. The bench platform can be set on different decline levels which allows you to work on every inch of different muscle groups. Easy and fast set up with non-slip rubber feet give you a solid and stable workouts. This multifunctional home gym weight bench will give you optimum gym experiences at your own home. Features: Multi-level bench with safety locks High grade steel construction Handles for triceps workout 5cm thick seat with PU cover Durable waterproof and oil-resistant PU material Extreme strong main tube Comes with a leg strip for sit up exercise Capped feet for floor and anti-slip protection Adjustable stand height and bench decline levels Quick and easy assembly Fully foldable for easy storage Specifications: Material: Steel Main tube: 50mm x 50mm x 1.5mm Unfolded dimensions (L*W*H): 109cm x 67cm x (82-103)cm Maximum capacity: 200kg Colour: Black Assembly required: Yes Number of packages: 1 Product Contents: 1 x Everfit Home Fitness Weight Bench 1 x Assembly Instruction
-  Updated: 2026-01-25T20:58:28Z
+  Updated: 2026-01-30T19:14:44Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
@@ -4194,7 +4194,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/51IbcifEV5L._AC_UL1000_e89d70b3-189b-4439-b641-c7a35789dd44.jpg?v=1767186910
   Price: R 331.98 ZAR
 - [NNETM Fitness Weightlifting Sandbag Training Bag](https://apexgym369.store/products/nnetm-fitness-weightlifting-sandbag-training-bag): Enhance your full-body strength with NNETM's weightlifting sandbag—portable, durable, and built for high-intensity workouts. Specifications:• Brand: NNETM• Color: Red• Weight: 20kg• Dimensions: 22 cm (width) x 60 cm (height)• Material: PU fabric• Load Type: Sand-filled• Use: Strength training, squats, physical conditioning, and weighted exercises Benefits:Build core and full-body strength with dynamic movementsSwitch between workouts with one compact training toolIdeal for home, gym, or outdoor functional trainingDesigned for resistance, durability, and easy handlingTarget multiple muscle groups using one bag Product Description:The NNETM Red Fitness Weightlifting Sandbag is your go-to training equipment for strength and endurance workouts. Designed for versatile use, this 20kg sandbag is perfect for squats, presses, carries, and dynamic training routines. Made with PU fabric, it ensures long-lasting performance through repeated use.
-  Updated: 2026-01-27T19:19:31Z
+  Updated: 2026-02-03T19:19:59Z
   Vendor: NNETM
   Product Type: Sports & Fitness > Exercise, Gym & Fitness > Free Weights
   Availability: Available
@@ -4208,14 +4208,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/2bb2cc31-fe3e-4353-b7e7-f0026a60da8a.webp?v=1767187048
   Price: R 4,299.18 ZAR
 - [NNEDSZ 15kg Dumbbell Set Weight Plates Dumbbells Lifting Bench](https://apexgym369.store/products/nnedsz-15kg-dumbbell-set-weight-plates-dumbbells-lifting-bench): Time to get tough. If you are looking to boost those triceps, biceps and shoulders, our 15kg Dumbbell Set is the perfect  for you. Whatever your game is, our dumbbell set lets you strengthen and tone those muscles your way. This commercial-grade set features a high-quality bar with non-slip handle that offers optimal gripping surface. Each weight plate weighs 2.5kg and is made of cast cement coated with smooth plastic, reducing clanging sounds and making them more floor-friendly. You can adjust the weight of the dumbbell by removing the weight plate and only using the dumbbell bar (weighing 2.5kg each) or adding more compatible weight plates. The high-quality star-shaped nuts ensure the weight plates stay securely in place for safe workouts. Best of all, the dumbbell comes in a set of two (two 7.5kg dumbbells for 15kg total) so that you can exercise both arms at the same time. Gym junkie or workout pro, you can get fit easily with our 15kg Dumbbell Set. Features Commercial grade ideal for professional body workout High quality steel bar Plastic coated, cement filled dumbbell Adjustable weight plates Non-slip handle Includes 4 weight plates Ideal for fat-loss, building muscle strength Specifications: Dimensions: 45 x 22cm x 22cm Weight plates: 4 x 2.5kg Weight of dumbbell: 10kg Weight of dumbbell bar & stoppers: 5kg Plates materials: cast cement coated with plastic Colour: Black and silver Assembly Required: Yes Number of packages: 1 Package Content 1 x 15kg Dumbbell set
-  Updated: 2026-01-28T19:13:13Z
+  Updated: 2026-02-01T19:09:10Z
   Vendor: NNEDSZ
   Product Type: Sports & Fitness > Fitness Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/FIT-K-DB-SET-35-A-00.jpg?v=1767201128
   Price: R 1,880.11 ZAR
 - [Marvel gym bags](https://apexgym369.store/products/marvel-gym-bags)
-  Updated: 2026-01-28T12:25:34Z
+  Updated: 2026-02-03T12:25:44Z
   Vendor: Evidence
   Product Type: Children|School|Tornsacks
   Availability: Available
@@ -4236,14 +4236,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/all-over-print-gym-bag-white-top-675a17e162d15.jpg?v=1767199911
   Price: R 1,840.79 ZAR
 - [NNEOBA Travel Gym Dry Wet Separation Gym Black](https://apexgym369.store/products/nneoba-travel-gym-dry-wet-separation-gym-black): Stay organized and move with ease—your all-in-one gym, travel, and sports companion. Specifications Color: Black Material: Durable polyester fabric Waterproof exterior for all-weather protection Dry/Wet separation compartment Large-capacity main storage Shoulder-carry design for comfort Suitable for gym, yoga, travel, sports, and daily use Lightweight and easy to clean Features Dry/Wet Separation Design – Dedicated compartment keeps wet clothes, towels, or toiletries separate from clean items. Durable Polyester Material – Made with strong, waterproof polyester that resists wear and is easy to maintain. Multi-Use Functionality – Designed for gym sessions, travel, yoga practice, outdoor activities, or daily commuting. Comfortable Shoulder Carry – Soft, reinforced straps make it comfortable to carry even when fully packed. Spacious & Organized – Large main compartment with smart pockets for clothes, shoes, accessories, and essentials. Stylish & Versatile – Clean black design suits men and women, making it ideal as a travel bag, sports bag, or everyday handbag. Description This black travel and gym bag offers the perfect balance of style, durability, and smart organization. Made from waterproof polyester, it protects your belongings while providing ample space for workout gear, travel essentials, or daily necessities. Built for comfort and convenience, it features a dry/wet separation pocket, spacious compartments, and a comfortable shoulder-carry design. Whether you’re heading to the gym, going on a short trip, or commuting to work, this versatile sports handbag ensures you stay organized and ready for anything.
-  Updated: 2026-01-25T20:58:30Z
+  Updated: 2026-02-03T19:12:33Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S4b8b14cedd1e4d2eb8f0f1b0021385de9.webp?v=1767199912
   Price: R 1,273.42 ZAR
 - [NNEDSZ 28L Travel Foldable Duffel Bag Gym Sports Luggage Foldaway School Bags - Black](https://apexgym369.store/products/nnedsz-28l-travel-foldable-duffel-bag-gym-sports-luggage-foldaway-school-bags-black): 28 litre capacity. Comes with: - Two end pockets and internal wet gear pocket. - Duro polyester fabric with PU backing. - Continuous coil self-repairing zips. - Carry handles multi-stitched for maximum strength. - Adjustable shoulder strap You can use this bag for travel, sports, gym, school and outdoor activities. Please note: your bag may come with a "school bags" stitched on tag. You may remove this with a pair of scissors if you'd like!
-  Updated: 2026-01-25T20:58:30Z
+  Updated: 2026-02-03T19:20:32Z
   Vendor: NNEDSZ
   Product Type: Duffel Bags
   Availability: Available
@@ -4257,98 +4257,98 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V563-B8107-DURO-NAVY-190743-00.jpg?v=1767199920
   Price: R 1,369.28 ZAR
 - [NNEDSZ Travel Foldable Duffel Bag Gym Sports Luggage Foldaway School Bags - Maroon](https://apexgym369.store/products/nnedsz-travel-foldable-duffel-bag-gym-sports-luggage-foldaway-school-bags-maroon): -Primary compartment with zip closure - Material: PVC coated Nylon - Continuous coil self repairing zips - Printed name label - Carry handles multi-stitched for maximum strength and durability. - Strong & durable Suitable for sports, gym, school and other outdoor activities. Cleaning instruction: Do not machine wash. Wipe with dampened cloth only.
-  Updated: 2026-01-25T20:58:30Z
+  Updated: 2026-02-02T19:19:07Z
   Vendor: NNEDSZ
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V563-B8112-MAROON-189804-04.jpg?v=1767199926
   Price: R 1,369.28 ZAR
 - [NNEDSZ Travel Foldable Duffel Bag Gym Sports Luggage Foldaway School Bags - Navy](https://apexgym369.store/products/nnedsz-travel-foldable-duffel-bag-gym-sports-luggage-foldaway-school-bags-navy): -Primary compartment with zip closure - Material: PVC coated Nylon - Continuous coil self repairing zips - Printed name label - Carry handles multi-stitched for maximum strength and durability. - Strong & durable Suitable for sports, gym, school and other outdoor activities. Cleaning instruction: Do not machine wash. Wipe with dampened cloth only.
-  Updated: 2026-01-25T20:58:30Z
+  Updated: 2026-01-29T19:17:30Z
   Vendor: NNEDSZ
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V563-B8112-NAVY-189803-00.jpg?v=1767199927
   Price: R 1,469.28 ZAR
 - [Tactical Gym Duffel Backpack Capacity Bag](https://apexgym369.store/products/tactical-gym-duffel-backpack-capacity-bag): Durable. Spacious. Tactical. The all-in-one bag for gym and adventure. Specifications: Color: Army Green Material: Tear-resistant 600D nylon Capacity: 45 liters Dimensions: 58.3 cm x 30.4 cm x 22 cm (refer to the image) Compartments: Large main with 2 foldable dividers, 2 zippered side pockets, 2 mesh pockets Straps: 2 adjustable shoulder straps, removable sternum strap, padded central handle Multi-style: Backpack, shoulder bag, or duffel carry options Benefits: Converts from backpack to duffel to shoulder bag with ease Built for heavy-duty use with abrasion- and shock-resistant fabric Ample space and smart compartments to keep your gear organized Lightweight yet reinforced to handle intense workouts and travel Product Description:The Tactical Gym Duffel Backpack is designed for those who demand performance and flexibility. With a spacious 45L capacity, this army green bag easily transitions from gym to weekend trips or outdoor adventures. It features a rugged 600D nylon build, multiple compartments for organized storage, and three versatile carrying options to match your movement. Its padded handle, adjustable straps, and foldable dividers ensure comfort and convenience no matter how you carry it. Whether you're heading for training, travel, or the great outdoors, the tactical bag delivers strength, style, and serious functionality.
-  Updated: 2026-01-25T20:58:31Z
+  Updated: 2026-02-04T23:54:20Z
   Vendor: TM
   Product Type: Home & Garden > Travel > Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/sample_product_-_2025-04-30T135427.137.png?v=1767199935
   Price: R 2,414.18 ZAR
 - [NNEOBA Travel Gym Duffel Bag Black](https://apexgym369.store/products/nneoba-travel-gym-duffel-bag-black): A versatile travel and fitness bag designed for organized, comfortable, and hassle-free journeys. Specifications Color: Black Size: 46 × 25 × 28 cm Detachable and adjustable shoulder strap Independent shoe compartment for clean storage Dry/Wet separation pocket for toiletries or damp items Back belt for attaching to a trolley suitcase Can be carried as a shoulder bag, crossbody bag, or handbag Ideal for travel, gym, short-distance trips, and daily use Features Detachable Shoulder Strap – Easily switch between handbag, shoulder bag, or crossbody carry for maximum comfort and flexibility. Independent Shoe Pocket – Keeps footwear separated from clothing and other items to maintain cleanliness and organization. Dry/Wet Separation Design – Dedicated waterproof pocket allows you to store wet clothes, towels, or toiletries without affecting the rest of your items. Travel-Friendly Trolley Sleeve – Convenient back belt lets you attach the bag to your luggage handle for effortless airport or city travel. Spacious Yet Portable – Offers generous storage space without being bulky, perfect for gym sessions, weekend trips, or carry-on use. Description This black travel and gym duffel bag is built for those who need a reliable and stylish partner for workouts, short trips, and everyday commuting. With a spacious main compartment and thoughtful storage features, it makes organizing your essentials simple and efficient. Designed for convenience, it includes a detachable shoulder strap, a dedicated shoe compartment, a dry/wet separation pocket, and a trolley sleeve for seamless travel. Lightweight yet durable, this versatile bag ensures comfort, organization, and ease wherever you go.
-  Updated: 2026-01-27T19:12:53Z
+  Updated: 2026-02-04T19:14:32Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Sc3bb70d1b7c9474189a39b9583b1b1c2m.png?v=1767199938
   Price: R 1,204.95 ZAR
 - [Nylon Travel Gym Duffel Bag Khaki](https://apexgym369.store/products/nylon-travel-gym-duffel-bag-khaki): Compact. Functional. Ready to Go. Specifications: Color: Khaki Material: Nylon Size: 46 cm (L) × 25 cm (W) × 28 cm (H) Closure Type: Zipper Strap Options: Hand-Carry, Crossbody, Shoulder (Detachable Strap Included) Compartments: Independent Shoe Pocket Dry/Wet Separation Compartment Use Cases: Travel, Gym, Weekend Trips, Daily Fitness Key Features: 3-Way Carry Design: Use it as a handbag, crossbody, or shoulder bag with a detachable strap Dry/Wet Separation Pocket: Keep wet towels or clothes separate from clean items Dedicated Shoe Pocket: Prevents dirt and odor from mixing with your gear Durable Nylon Material: Lightweight, water-resistant, and easy to clean Compact Yet Spacious: Ideal size for short trips, daily workouts, or carry-on use Neutral Khaki Style: Modern and suitable for all genders Two-Paragraph Description: Whether you're heading to the gym or packing light for a weekend escape, the Khaki Nylon Travel Gym Bag delivers high function in a compact form. With a size of 46×25×28 cm, it's roomy enough for your daily essentials yet small enough for overhead compartments or locker storage. Made from durable nylon, it resists wear and water while staying lightweight and flexible for everyday use. What sets this bag apart is its smart storage design—featuring an independent shoe pocket to isolate footwear, and a dry/wet compartment to separate damp gear or toiletries from clean clothes. The detachable shoulder strap lets you switch between crossbody, shoulder, or hand-carry modes for maximum comfort and versatility. Clean, organized, and adventure-ready, this is the one bag that does it all.
-  Updated: 2026-01-25T20:58:31Z
+  Updated: 2026-01-30T23:52:45Z
   Vendor: OBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Sd90b49308a9344ca9f940617a1edd303M.webp?v=1767199941
   Price: R 1,273.42 ZAR
 - [NNEOBA Travel Gym Duffel Bag Pink](https://apexgym369.store/products/nneoba-travel-gym-duffel-bag-pink): A stylish, lightweight, and spacious duffel bag—perfect for gym days, travel trips, and everyday use. Specifications Color: Pink Material: High-quality waterproof nylon Size (L): 30 cm (H) x 44 cm (L) x 19 cm (W) Bag Type: Travel bag, gym bag, duffel, handbag Usage: Fitness, sports, travel, weekend trips, daily carry Note: Actual color may vary slightly due to lighting and screen settings Features Waterproof Nylon Material: Protects your belongings from splashes, light rain, and moisture. Lightweight & Durable: Designed for everyday use with strong stitching and long-lasting fabric. Large Capacity: Spacious interior provides room for clothing, gym gear, shoes, and travel essentials. Versatile Usage: Works perfectly as a gym bag, travel duffel, sports bag, or carry-on handbag. Comfortable to Carry: Soft handles and lightweight structure make it easy to carry anywhere. Stylish Pink Color: Modern and fashionable design suitable for women and teens. Description Travel with ease and style using this large waterproof nylon duffel bag, crafted for fitness lovers and travelers alike. Its spacious design makes it ideal for storing clothes, gym gear, accessories, and everyday essentials. The vibrant pink color adds a fresh, fashionable touch to your travel or workout routine. Made from high-quality waterproof nylon, this bag ensures durability and protection wherever you go. Whether you’re headed to the gym, planning a weekend getaway, or need a reliable carry-on, this lightweight and versatile duffel bag is the perfect companion. Please note that slight color variations may occur due to lighting and screen display differences.
-  Updated: 2026-01-28T19:14:08Z
+  Updated: 2026-02-04T19:15:14Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/HTB14T6galCw3KVjSZFuq6AAOpXa5.png?v=1767199944
   Price: R 1,328.20 ZAR
 - [NNEOBA Travel Luggage Gym Bag Orange](https://apexgym369.store/products/nneoba-travel-luggage-gym-bag-orange): Bright, lightweight, and ready for every workout—your go-anywhere gym and travel companion. Specifications Color: Orange Material: Oxford fabric (waterproof, easy to clean) Size: 20 × 22 × 42 cm Weight: 0.37 kg (lightweight) Carrying Options: Hand-carry, shoulder, or crossbody Special Features: Side shoe compartment, dry/wet organization Use Case: Gym, fitness training, swimming, travel, weekend outings Features Lightweight Build: At only 0.37 kg, it’s easy and comfortable to carry, even when fully packed. Multi-Way Carrying: Designed for versatility—use it as a hand bag, shoulder bag, or crossbody depending on your activity. Waterproof Oxford Fabric: Protects your items from splashes, sweat, and unexpected rain while remaining easy to maintain. Independent Shoe Pocket: Side shoe bin keeps footwear separate from clothes to prevent dirt and odor transfer. Spacious Main Compartment: Ideal for clothes, towels, toiletries, swimming gear, or travel essentials. Perfect for Active Lifestyles: Great for gym, swimming, fitness training, or quick weekend trips. Product Description This Orange Waterproof Sports Gym Handbag is designed for active individuals who want practicality without sacrificing style. The lightweight Oxford fabric makes it easy to carry, while its spacious interior provides room for all your fitness and travel essentials. Whether you're heading to the gym, swimming sessions, or a short trip, this bag keeps your items organized and protected. With multiple carrying options—hand, shoulder, or crossbody—you can adapt it effortlessly to different occasions. The dedicated side shoe pocket prevents footwear from touching your clean clothes, while the waterproof material keeps everything inside safe and dry. Bright, durable, and versatile, it’s the perfect companion for workouts, travel, and everyday adventures.
-  Updated: 2026-01-27T19:12:54Z
+  Updated: 2026-02-04T19:14:25Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S75e92d6689f841839a1bb2c53d7e9c5bS.webp?v=1767199948
   Price: R 1,273.42 ZAR
 - [Gym Bag Regatta Shilton Red](https://apexgym369.store/products/gym-bag-regatta-shilton-red): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Regatta Shilton Red at the best price and enjoy a healthy life!The Shilton sports backpack by Regatta is a versatile and functional accessory designed for a male and unisex audience, but suitable for any  seeking practicality and durability for daily use. With a capacity of 18 liters, this backpack stands out for its vibrant red color and its construction in recycled polyester, offering a sustainable commitment without sacrificing durability or quality. Its design includes multiple secure and padded compartments that efficiently protect the contents, making it easy to organize and carry personal items, whether sports gear, electronics, or everyday essentials. Its one-size design is meant to fit comfortably without hassle, providing a balanced combination of capacity and ergonomics. The choice of durable and sustainable materials makes this backpack a practical option for those who value functionality combined with environmental responsibility. Overall, the Regatta Shilton backpack represents a reliable and versatile solution for daily use, catering to both sports and urban needs with a timeless and easy-to-match design. Type: Gym Bag Colour: Red Gender: Unisex Men Recommended age: Adults Material: Polyester Characteristics: Hand wash
-  Updated: 2026-01-26T13:36:16Z
+  Updated: 2026-02-02T03:31:40Z
   Vendor: Regatta
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5059404393220_S64163221_P00.jpg?v=1767199951
   Price: R 750.00 ZAR
 - [Gym Bag Regatta Shilton Black](https://apexgym369.store/products/gym-bag-regatta-shilton-black): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Regatta Shilton Black at the best price and enjoy a healthy life!The Shilton sports backpack by Regatta is a versatile accessory designed to offer comfort and functionality for  users, both men and unisex, who need a practical option for their sports and leisure activities. With a capacity of 18 liters, this black backpack combines a sturdy and discreet design with a large main compartment, ideal for organizing sportswear, accessories, or personal items. It also features additional pockets that facilitate storing small and quick-access items like keys or mobile devices, improving interior organization. Its padded straps provide an ergonomic fit that reduces shoulder pressure, increasing comfort during extended use. The Shilton also stands out for its sustainable approach, being an eco-friendly choice for environmentally conscious consumers. This one-size backpack is designed to fit various body types and uses, making it a practical and durable solution for sports, hiking, or daily commuting. Its functional design and selected materials ensure durability and easy maintenance for those seeking a balance between performance, comfort, and environmental awareness. In short, the Regatta Shilton backpack is a reliable choice for  users who value quality, ergonomics, and sustainability in a versatile product. Type: Gym Bag Colour: Black Gender: Unisex Men Recommended age: Adults Characteristics: Hand wash
-  Updated: 2026-01-25T20:58:32Z
+  Updated: 2026-02-02T03:31:41Z
   Vendor: Regatta
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5059404404032_S64163220_P20.jpg?v=1767199954
   Price: R 678.88 ZAR
 - [Gym Bag Puma Buzz Black](https://apexgym369.store/products/gym-bag-puma-buzz-black): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Puma Buzz Black at the best price and enjoy a healthy life!The Puma Buzz sports backpack is a functional accessory designed for daily use by both men and women thanks to its unisex design and one-size-fits-all fit, comfortably adapting to adults. Featuring a black finish, this backpack offers a modern and versatile style that easily matches different outfits and activities. It includes a single compartment that allows easy organization of essentials, while its zipper closure ensures protection and quick access to contents. Additionally, it has an adjustable strap for a personalized fit, providing comfort during transport. As a sports backpack, it balances practicality with contemporary design, ideal for those seeking a lightweight and functional accessory for everyday or athletic use. Overall, the Puma Buzz stands out for its simple structure and understated look, making it a practical choice for users who value both utility and style in a frequently used item. Colour: Black Type: Gym Bag Gender: Unisex Recommended age: Adults
-  Updated: 2026-01-28T03:32:03Z
+  Updated: 2026-02-02T03:30:34Z
   Vendor: Puma
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/4067981500536_S64167525_P00.jpg?v=1767199954
   Price: R 588.08 ZAR
 - [Gym Bag Regatta Shilton Pink](https://apexgym369.store/products/gym-bag-regatta-shilton-pink): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Regatta Shilton Pink at the best price and enjoy a healthy life!The Shilton sports backpack by Regatta is a functional and versatile accessory, designed to offer a practical solution for both daily use and sports activities. With a capacity of 18 litres, this backpack is made from recycled polyester, providing strength and durability while contributing to environmental sustainability. It features a Dusty Rose pink design, adding a modern and attractive touch, suitable for a unisex audience, especially adults. Although recommended for men, its cut and style allow comfortable use for anyone seeking a compact backpack. Its structure includes a spacious main compartment, ideal for carrying clothes, accessories, or sports gear, along with several functional pockets that help organise smaller items and essentials. The backpack is one size fits all, providing a standard fit for most users. Thanks to its lightweight and practical design, it is perfect for athletes, occasional travellers, or anyone needing a reliable accessory that combines utility with a refined finish. In short, the Regatta Shilton is designed for those who value functionality and sustainability in a comfortable and stylish sports backpack. Type: Gym Bag Colour: Pink Gender: Unisex Men Recommended age: Adults Material: Polyester
-  Updated: 2026-01-25T20:58:32Z
+  Updated: 2026-02-02T03:31:43Z
   Vendor: Regatta
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5059404404056_S64163224_P00.jpg?v=1767199964
   Price: R 788.00 ZAR
 - [Gym Bag Puma Plus Multicolour](https://apexgym369.store/products/gym-bag-puma-plus-multicolour): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Puma Plus Multicolour at the best price and enjoy a healthy life!The Plus Backpack by Puma is a sports backpack designed to offer functionality and comfort for everyday use, perfect for adults and unisex wear. It features a multicolor design that combines style and visibility thanks to its reflective elements, ideal for enhancing safety in low-light conditions. Made with 50% recycled material, this backpack reflects a commitment to sustainability and environmental care without sacrificing quality or durability. It includes a compartment specially adapted for laptops, providing protection and convenience, as well as adjustable straps that ensure a personalized fit for any user due to its one size. Its structure and materials make it suitable for sports activities or casual urban use, offering versatility for different environments and needs. Additionally, its lightweight and ergonomic design makes carrying it easy even during long days. The Plus Backpack represents a practical and responsible solution for those seeking a durable, functional backpack with modern features that address both comfort and eco-consciousness. Type: Gym Bag Gender: Unisex Men Recommended age: Adults Characteristics: Hand wash
-  Updated: 2026-01-25T20:58:33Z
+  Updated: 2026-02-02T03:28:39Z
   Vendor: Puma
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/4067981506989_S64164765_P20.jpg?v=1767199965
   Price: R 566.08 ZAR
 - [Gym Bag Nox Pickleball Pro](https://apexgym369.store/products/gym-bag-nox-pickleball-pro): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Nox Pickleball Pro at the best price and enjoy a healthy life! Type: Gym Bag Gender: Unisex Recommended age: Adults Characteristics: Ventilation system Pockets Ergonomic padding Size: One size Compartments: Front pocket Water bottle side pocket x 2 Main compartment Sport: Padel Recommended use: Ideal for walks, trips, travel…
-  Updated: 2026-01-25T20:58:33Z
+  Updated: 2026-02-04T03:26:02Z
   Vendor: Nox Sport
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8435778900375_S64194132_P40.jpg?v=1767199970
   Price: R 1,400.94 ZAR
 - [Gym Bag Regatta Shilton Water](https://apexgym369.store/products/gym-bag-regatta-shilton-water): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Regatta Shilton Water at the best price and enjoy a healthy life!The Shilton sports backpack by Regatta is a versatile and functional accessory designed for men and unisex  users seeking a practical solution for daily use and sports activities. Made from polyester, it offers high resistance and durability while remaining lightweight, making it easy to carry without adding unnecessary weight. It features a modern design in aqua color, providing a fresh and current touch suitable for various styles and occasions. This backpack has a capacity of approximately 18 liters, organized into multiple compartments that allow efficient space distribution for personal items, sports equipment, or work materials, always accessible and secure thanks to quality closures. Its size is one size, designed to fit most users comfortably without multiple options. Among its features, it also highlights an ecological approach in its materials or processes, contributing to a more environmentally responsible choice. The Regatta Shilton is ideal for both urban use and outdoor or sports activities, ensuring comfort and functionality without sacrificing style. This backpack reflects a balance between practicality and design, meeting the basic and advanced needs of an active and demanding  audience. Type: Gym Bag Colour: Water Gender: Unisex Men Recommended age: Adults Material: Polyester Characteristics: Hand wash
-  Updated: 2026-01-26T13:36:15Z
+  Updated: 2026-02-02T03:31:44Z
   Vendor: Regatta
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
@@ -4362,14 +4362,14 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Sb2635233aa944d30a59d7d29cbbaced3V.webp?v=1767199984
   Price: R 2,437.43 ZAR
 - [NNEDSZ 44L Travel Foldable Duffel Bag Gym Sports Luggage Travel Foldaway D-Zip Top School Bags - Royal Blue](https://apexgym369.store/products/nnedsz-44l-travel-foldable-duffel-bag-gym-sports-luggage-travel-foldaway-d-zip-top-school-bags-royal-blue): - Large D-Zip compartment. - Front zip pocket and 2 large end pockets. - Deluxe padded shoulder strap. - Rip Stop fabric with PU backing. - Multi stitched handles for strentgh and large feet on base for durability. - Continuous coil self repairing zips. - Mesh drink bottle holder. - 44L capacity
-  Updated: 2026-01-25T20:58:34Z
+  Updated: 2026-02-02T19:13:54Z
   Vendor: NNEDSZ
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/V563-B8115-ROYAL-189801-00.jpg?v=1767199986
   Price: R 1,569.28 ZAR
 - [Duffle Gym Shoulder Lightweight Travel Bag (Purple)](https://apexgym369.store/products/duffle-gym-shoulder-lightweight-travel-bag-purple): Spacious and versatile travel duffle bag designed for all trips. Specifications:• Material: Oxford• Color: Purple• Bag Dimensions: 52cm x 25cm x 32cm• Shoulder Strap: Adjustable length• Package Includes: 1 x Bag (no retail box) Benefits:Carries all your travel essentials with easeUse as gym, overnight, or weekender bagFits comfortably on shoulder or hand-carryEasy to store when not in useDurable Oxford material built for frequent use Description:The lightweight travel duffle bag is your go-to for weekend getaways, gym sessions, or daily use. Its large capacity and multipurpose design make it perfect for carrying clothes, gear, or essentials on the go. The adjustable shoulder strap ensures comfort for every user, whether you wear it crossbody or over the shoulder.
-  Updated: 2026-01-25T20:58:34Z
+  Updated: 2026-01-30T23:53:06Z
   Vendor: OBA
   Product Type: Luggage & Bags > Duffel Bags
   Availability: Available
@@ -4390,7 +4390,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S3c7d0fc2fd5b46f780203397cfdfb3b5P_538bebc8-6072-4b54-8b74-13d98db1be79.webp?v=1767199992
   Price: R 1,482.97 ZAR
 - [Duffle Gym Shoulder Lightweight Travel Bag (Pink)](https://apexgym369.store/products/duffle-gym-shoulder-lightweight-travel-bag-pink): Spacious and versatile travel duffle bag designed for all trips. Specifications:• Material: Oxford• Color: Pink• Bag Dimensions: 52cm x 25cm x 32cm• Shoulder Strap: Adjustable length• Package Includes: 1 x Bag (no retail box) Benefits:Carries all your travel essentials with easeUse as gym, overnight, or weekender bagFits comfortably on shoulder or hand-carryEasy to store when not in useDurable Oxford material built for frequent use Description:The lightweight travel duffle bag is your go-to for weekend getaways, gym sessions, or daily use. Its large capacity and multipurpose design make it perfect for carrying clothes, gear, or essentials on the go. The adjustable shoulder strap ensures comfort for every user, whether you wear it crossbody or over the shoulder.
-  Updated: 2026-01-27T23:49:00Z
+  Updated: 2026-02-02T23:48:58Z
   Vendor: OBA
   Product Type: Luggage & Bags > Duffel Bags
   Availability: Available
@@ -4404,42 +4404,42 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S9609f60379c548228d8ce6038c3bbd12j.webp?v=1767199994
   Price: R 1,541.89 ZAR
 - [NNEOBA Premium Sports Gym Duffel Bag Grey](https://apexgym369.store/products/nneoba-premium-sports-gym-duffel-bag-grey): Stay organized, stay active — your perfect all-purpose gym and outdoor companion. Specifications Made from high-quality nylon fabric with polyester lining Spacious design measuring 53 × 25 × 26 cm (20.87 × 9.84 × 10.24 in) Lightweight yet durable construction for daily use Water-resistant exterior for added protection Reinforced handles and adjustable shoulder strap for comfortable carrying Features Waterproof material keeps your essentials protected during workouts or outdoor activities Large main compartment for clothes, shoes, towels, and sports gear Multi-functional design suitable for gym sessions, training, travel, swimming, and weekend trips Sturdy build ensures long-lasting performance Stylish grey color that pairs well with any activewear Description This Premium Waterproof Gym & Sports Bag is designed for those who lead an active lifestyle. Made from durable nylon with a smooth polyester lining, it provides reliable protection and ample space for all your workout essentials. Whether you're heading to the gym, a training session, or an outdoor adventure, this bag delivers both style and function. Its spacious interior easily accommodates clothing, towels, shoes, and sports gear, while the sturdy construction ensures it can handle daily use. The lightweight, water-resistant design makes it perfect for swimming, travel, or any on-the-go activity. With its modern grey finish and practical features, this multi-purpose sports bag is your ideal companion for every fitness journey.
-  Updated: 2026-01-25T20:58:35Z
+  Updated: 2026-02-02T19:11:37Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S3bc5c5e0faa54c1381d4f9c06869a211h.webp?v=1767199995
   Price: R 1,469.28 ZAR
 - [Duffle Gym Shoulder Lightweight Travel Bag (Black)](https://apexgym369.store/products/duffle-gym-shoulder-lightweight-travel-bag-black): Spacious and versatile travel duffle bag designed for all trips. Specifications:• Material: Oxford• Color: Black• Bag Dimensions: 52cm x 25cm x 32cm• Shoulder Strap: Adjustable length• Package Includes: 1 x Bag (no retail box) Benefits:Carries all your travel essentials with easeUse as gym, overnight, or weekender bagFits comfortably on shoulder or hand-carryEasy to store when not in useDurable Oxford material built for frequent use Description:The lightweight travel duffle bag is your go-to for weekend getaways, gym sessions, or daily use. Its large capacity and multipurpose design make it perfect for carrying clothes, gear, or essentials on the go. The adjustable shoulder strap ensures comfort for every user, whether you wear it crossbody or over the shoulder.
-  Updated: 2026-01-28T23:48:56Z
+  Updated: 2026-02-04T23:48:12Z
   Vendor: OBA
   Product Type: Luggage & Bags > Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/imgi_15_S0e991c284cc44b16a8a0e200c8240a9cJ_jpg_960x960q75_jpg_cabe29f8-76ec-48bd-aa9f-f84c3e76e053.jpg?v=1767199999
   Price: R 1,582.97 ZAR
 - [NNETM Large Travel Gym Backpack Tote Bag](https://apexgym369.store/products/nnetm-large-travel-gym-backpack-tote-bag): Carry everything you need for travel, sports, or weekend trips with ease. Specifications:Sub-category: Travel & Sports BagColor: BlackMaterial: Durable NylonDimensions: 58.3 cm x 30.4 cm x 22 cm (refer to the image)Capacity: Large enough for gym gear, weekend clothes, or sports equipmentUsage: Ideal for gym, basketball, hiking, and travel Benefits:Easily organizes all your essentials for travel or sportsComfortable to carry on your shoulder or by handDurable nylon ensures long-lasting useSpacious interior fits clothes, shoes, and sports gearLightweight design makes it convenient for daily or weekend trips Description:The NNETM Large Travel Gym Backpack Tote Bag combines functionality with versatility. Designed for men and women, it’s perfect for gym sessions, weekend trips, or outdoor sports. With its spacious interior, you can easily store clothes, shoes, and equipment. Its durable nylon construction ensures reliable use every day.
-  Updated: 2026-01-27T19:06:46Z
+  Updated: 2026-02-04T19:09:11Z
   Vendor: NNETM
   Product Type: Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/imgi_28_176c5f59-59f3-4ec6-8600-309fa77febcf.jpg?v=1767200000
   Price: R 3,039.97 ZAR
 - [NNEOBA Lightweight Travel Gym Bag Off White](https://apexgym369.store/products/nneoba-lightweight-travel-gym-bag-off-white): A stylish and spacious travel essential designed for comfort, organization, and everyday convenience. Specifications Color: Off White Material: Durable Oxford fabric Size: 47 × 28 × 25 cm Weight: 0.47 kg Large-capacity main compartment Independent shoe compartment for clean storage Can be used as a shoulder bag, messenger bag, or handbag Lightweight and easy to carry Ideal for gym, travel, weekend trips, and daily use Features Spacious Storage Capacity – Generous interior space fits clothes, gadgets, toiletries, and more, perfect for short trips or gym essentials. Independent Shoe Compartment – Keeps footwear separate to maintain hygiene and protect other belongings. Lightweight & Portable – Weighs only 0.47 kg, making it comfortable to carry anywhere. Durable Oxford Material – Designed with strong and water-resistant Oxford fabric that withstands daily use. Versatile Carry Options – Can be carried by hand or used as a shoulder/messenger bag for flexible comfort. Stylish & Functional Design – Minimalist off-white look pairs well with any outfit while offering practical everyday use. Description This large-capacity portable travel and gym bag is designed for those who want style and practicality in one. Made from durable Oxford fabric, it offers lightweight comfort and excellent storage space, making it perfect for workouts, short-distance travel, or daily commuting. With a dedicated shoe compartment, multiple carrying options, and a spacious interior, this off-white travel bag keeps all your essentials neat and organized. Whether you're heading to the gym, going on a weekend getaway, or simply running errands, it delivers convenience, durability, and modern style in every use.
-  Updated: 2026-01-25T20:58:36Z
+  Updated: 2026-02-02T19:19:07Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S57e52cf49f30434ebbf34163e6cb6188W.webp?v=1767200002
   Price: R 1,360.00 ZAR
 - [NNEOBA Nylon Travel Gym Duffel Bag Khaki](https://apexgym369.store/products/nneoba-nylon-travel-gym-duffel-bag-khaki): Compact. Functional. Ready to Go. Specifications: Color: Khaki Material: Nylon Size: 46 cm (L) × 25 cm (W) × 28 cm (H) Closure Type: Zipper Strap Options: Hand-Carry, Crossbody, Shoulder (Detachable Strap Included) Compartments: Independent Shoe Pocket Dry/Wet Separation Compartment Use Cases: Travel, Gym, Weekend Trips, Daily Fitness Key Features: 3-Way Carry Design: Use it as a handbag, crossbody, or shoulder bag with a detachable strap Dry/Wet Separation Pocket: Keep wet towels or clothes separate from clean items Dedicated Shoe Pocket: Prevents dirt and odor from mixing with your gear Durable Nylon Material: Lightweight, water-resistant, and easy to clean Compact Yet Spacious: Ideal size for short trips, daily workouts, or carry-on use Neutral Khaki Style: Modern and suitable for all genders Two-Paragraph Description: Whether you're heading to the gym or packing light for a weekend escape, the Khaki Nylon Travel Gym Bag delivers high function in a compact form. With a size of 46×25×28 cm, it's roomy enough for your daily essentials yet small enough for overhead compartments or locker storage. Made from durable nylon, it resists wear and water while staying lightweight and flexible for everyday use. What sets this bag apart is its smart storage design—featuring an independent shoe pocket to isolate footwear, and a dry/wet compartment to separate damp gear or toiletries from clean clothes. The detachable shoulder strap lets you switch between crossbody, shoulder, or hand-carry modes for maximum comfort and versatility. Clean, organized, and adventure-ready, this is the one bag that does it all.
-  Updated: 2026-01-28T19:13:12Z
+  Updated: 2026-01-30T19:14:41Z
   Vendor: NNEOBA
   Product Type: Duffel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S77b07cf1b3484ae0b85cad40570ded8bN_0b404dfa-6fe3-4139-b98a-6b93f99802b4.webp?v=1767200002
   Price: R 1,483.42 ZAR
 - [Oxford Duffel Bag Bull Logo Travel Gym](https://apexgym369.store/products/oxford-duffel-bag-bull-logo-travel-gym): Lightweight, foldable duffel bag with bold bull head logo – perfect for travel, yoga, or daily use. Specifications:Color: WhiteDimensions: 18 cm x 50 cm x 26 cmMaterial: OxfordLining: PolyesterClosure Type: ZipperHandle Type: Double handlesStyle: Preppy, Casual, CartoonRecommended Age: 14+Occasion: Going Out, College, VacationCleaning Instructions: Machine Wash, Hand Wash Benefits:Spacious design holds all your essentials for workouts, travel, or schoolLightweight structure makes it easy to carry anywhereFoldable design for compact storageDurable zipper keeps your belongings secureComfortable double handles for convenient hand carryTrendy bull head logo adds a stylish flair Description:The White Oxford Duffel Bag with Bull Head Logo is your all-in-one carry solution for travel, yoga sessions, or casual outings. Crafted from lightweight yet durable oxford material, this bag offers ample space without adding bulk. Its preppy cartoon-inspired bull head design adds a unique touch of character, perfect for students or style-conscious travelers.
-  Updated: 2026-01-25T20:58:36Z
+  Updated: 2026-01-31T23:52:59Z
   Vendor: TM
   Product Type: Duffel Bags
   Availability: Available
@@ -4452,132 +4452,118 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/S7926a5b11a3942e996fa0cf3fbc8aaf3P.png?v=1767200010
   Price: R 1,251.26 ZAR
-- [Gym Bag Puma Gfc Essentials Multicolour](https://apexgym369.store/products/gym-bag-puma-gfc-essentials-multicolour): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Puma Gfc Essentials Multicolour at the best price and enjoy a healthy life!The Puma Gfc Essentials sports backpack is a versatile and functional option designed to meet the needs of both  men and women seeking a practical companion for their workouts or sports activities. Featuring a multicolor design that adds a distinctive and modern touch, this backpack includes a large main compartment for storing sports gear, clothing, or bulky accessories, along with a front zippered pocket ideal for keeping smaller items like keys, phone, or wallet easily accessible. Its one-size-fits-most design offers ample space to comfortably fit most users, ensuring great capacity without sacrificing ergonomic fit. Designed as a unisex sports backpack, it combines functionality and style, suitable for both sports environments and casual occasions. Manufactured according to Puma’s standards, a brand known for quality sports products, it guarantees durability and resistance for everyday use. This backpack stands out for its practicality, simple yet effective structure, and a design that facilitates organized storage, making it an essential accessory for those seeking a reliable companion in sports and training. In short, the Puma Gfc Essentials sports backpack is a practical, comfortable, and stylish solution created to support independent adults in their physical activities and daily commutes. Type: Gym Bag Gender: Unisex Recommended age: Adults
-  Updated: 2026-01-26T16:31:35Z
-  Vendor: Puma
-  Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/4067983485701_S64164153_P00.jpg?v=1767200023
-  Price: R 719.78 ZAR
-- [Gym Bag Puma Teamgoal 23 Indigo](https://apexgym369.store/products/gym-bag-puma-teamgoal-23-indigo): If you are thinking of renewing your wardrobe, buy Gym Bag Puma Teamgoal 23 Indigo and other Puma products! The best quality at the best price is now within reach! Material: 100 % polyester Sport: Football Colour: Indigo Gender: Unisex Adults unisex Recommended age: Adults Size: One size
-  Updated: 2026-01-25T20:58:37Z
-  Vendor: Puma
-  Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/4062451880385_S64118852_P00.jpg?v=1767200023
-  Price: R 810.88 ZAR
 - [Gym Bag Adidas Protour 3.3 Multicolour](https://apexgym369.store/products/gym-bag-adidas-protour-33-multicolour): If you are looking for new market trending items, we present the Gym Bag Adidas Protour 3.3 Multicolour!The Adidas Protour 3.3 sports backpack features a functional and versatile design aimed at athletes and active users who need organization and comfort on the go. Made in a combination of grey and multicolor tones, it stands out for its unisex composition and one-size-fits-all design, intended to fit adults who require adequate space without sacrificing style or practicality. This backpack includes a special laptop compartment, ideal for those who combine sports activities with the use of electronic devices, ensuring protection and easy access. It also features an adjustable elastic cord that helps secure accessories or extra clothing, allowing a customized fit depending on the load or immediate need. Its robust construction and materials reflect Adidas’ expertise in sports equipment, offering durability against wear and comfort for daily transport. Perfect for sports like padel or others, the Protour 3.3 makes it easy to carry gear, clothing, and personal items with a contemporary and functional design. In short, this backpack combines ergonomics, capacity, and a refined design for sporty users who need a reliable and comfortable companion in their routine. Type: Gym Bag Gender: Unisex Recommended age: Adults Colour: Grey
-  Updated: 2026-01-27T03:29:00Z
+  Updated: 2026-02-04T13:24:27Z
   Vendor: Adidas
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8436548249373_S64147766_P30.jpg?v=1767200026
-  Price: R 800.00 ZAR
+  Price: R 1,128.08 ZAR
 - [Gym Bag Whistler 40 L Black](https://apexgym369.store/products/gym-bag-whistler-40-l-black): If you are looking for new market trending items, we present the Gym Bag Whistler 40 L Black!The Whistler Rhorsh sports backpack, with a 40-liter capacity, is designed to offer functionality and durability for sports or leisure activities. Made from robust polyester, it stands out for its long-lasting wear resistance, ensuring extended use even under demanding conditions. Its black finish provides a sober and versatile style, suitable for any gender, as it is designed as a unisex product. This backpack is ideal for users aged 8 years and up, making it a practical choice for both youth and adults. The combination of polyester material and careful construction allows for the secure transport of sportswear, footwear, equipment, and other essential accessories. Its interior structure enables comfortable organization of items, thanks to its generous volume that adapts to various sports or training needs. In short, the Whistler Rhorsh sports backpack is a reliable and functional solution for those who require capacity, durability, and comfort in a daily and sports accessory. Type: Gym Bag Sports bag Colour: Black Material: Polyester Capacity: 40 L Recommended age: + 8 Years Gender: Unisex Size: M/L
-  Updated: 2026-01-28T03:32:47Z
+  Updated: 2026-01-30T03:36:02Z
   Vendor: Whistler
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5715325302986_S71018205_P10.jpg?v=1767200289
-  Price: R 1,435.80 ZAR
+  Price: R 1,338.14 ZAR
 - [Gym Bag The North Face Base Camp Duffel Black 71 L](https://apexgym369.store/products/gym-bag-the-north-face-base-camp-duffel-black-71-l): Return to the office without forgetting a single thing! Buy Gym Bag The North Face Base Camp Duffel Black 71 L and be the envy of your colleagues!The The North Face Base Camp Duffel is a sports backpack designed to offer exceptional capacity and outstanding durability for all kinds of adventures. With a 71-liter capacity, this bag is ideal for those who need ample space to carry sports equipment, clothing, and accessories during long trips or outdoor activities. Made from durable polyester, it ensures high toughness and remarkable resistance to wear, while its water-resistant finish protects contents from moisture and adverse weather conditions. Its black (noir) color design adds versatility and a sober style, suitable for both men and women, as it is a unisex model. The bag’s dimensions—35.5 cm long, 63.5 cm high, and 35.5 cm wide—facilitate organization and easy access to luggage, making it a practical and functional choice for demanding athletes and travelers. Additionally, The North Face, known for its commitment to quality and innovation in outdoor apparel and gear, ensures that the Base Camp Duffel strikes a perfect balance between capacity, protection, and comfort. This robust and versatile accessory meets the needs of those requiring a reliable solution to carry sports gear without worrying about the environment. In summary, this sports bag represents a durable and spacious alternative for users who value resistance and functionality in their travels. Capacity: 71 L Type: Gym Bag Sports bag Colour: Black noir Size: M Material: Polyester Nylon Characteristics: Water resistant Handle Shoulder strap Type of fastening: Zip Gender: Unisex Compartments: 1 Compartment
-  Updated: 2026-01-27T03:29:20Z
+  Updated: 2026-02-03T03:31:29Z
   Vendor: The North Face
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/0197641223896_S71013885_P00.jpg?v=1767200289
-  Price: R 3,851.09 ZAR
+  Price: R 3,799.12 ZAR
 - [Gym Bag Whistler Blue 40 L](https://apexgym369.store/products/gym-bag-whistler-blue-40-l): If you are looking for new market trending items, we present the Gym Bag Whistler Blue 40 L!The Rhorsh sports backpack from Whistler is a practical and functional solution for those seeking a versatile and durable gear for physical activities, hiking, or everyday use. Made of high-quality polyester, it stands out as a robust material that provides durability, while its waterproof finish ensures protection of the contents against rain or moisture, making it suitable for various weather conditions. With a 40-liter capacity, it offers enough space to carry clothing, sports shoes, accessories, or personal equipment in an organized and comfortable way. Additionally, it features a carrying handle for easy handling when not worn on the back, providing convenient transport options. Its blue color design combines functionality with a sober and versatile style, suitable for all users who value a sturdy and practical backpack. The Rhorsh positions itself as a reliable option in the mid-range sports backpack segment, aimed at those who require quality and durability without sacrificing a simple and effective design. Type: Gym Bag Sports bag Colour: Blue Material: Polyester Characteristics: Resistant Impermeable Carrying handle Pockets Capacity: 40 L Recommended age: + 3 years Gender: Unisex
-  Updated: 2026-01-28T03:33:24Z
+  Updated: 2026-02-04T19:29:57Z
   Vendor: Whistler
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/5715571557680_S71018208_P00.jpg?v=1767200288
-  Price: R 1,299.13 ZAR
+  Price: R 1,262.05 ZAR
 - [Gym Bag The North Face Base Camp Duffel Black 50 ml](https://apexgym369.store/products/gym-bag-the-north-face-base-camp-duffel-black-50-ml): Return to the office without forgetting a single thing! Buy Gym Bag The North Face Base Camp Duffel Black 50 ml and be the envy of your colleagues!The The North Face Base Camp Duffel sports backpack is designed for those who need a durable and versatile solution for outdoor activities and sports. This high-capacity bag offers a 50-liter volume, ideal for carrying equipment or clothing thanks to its spacious size, suitable for travel as well as daily use during training or expeditions. Its design combines functionality and durability, featuring a robust construction and water resistance that protects contents from weather conditions or damp environments. The color contrast in black, red, and rouge gives it a modern and dynamic look, perfect for users seeking a stylish yet practical item. The Base Camp Duffel also boasts quality materials that ensure long-lasting durability against the typical wear of sports activities. This model is ideal for those needing reliable gear that is easy to carry and offers ample capacity to organize their belongings efficiently. In summary, the Base Camp Duffel is a solid, functional choice within the category of durable, large-volume sports backpacks, suited for demanding users who value both toughness and space in one piece. Capacity: 50 L 50 ml Type: Gym Bag Sports bag Colour: Red rouge Black Size: S Material: Synthetic Nylon Characteristics: Water resistant Handle Shoulder strap Type of fastening: Zip Gender: Unisex Compartments: 1 Compartment
-  Updated: 2026-01-27T03:29:20Z
+  Updated: 2026-02-04T23:27:08Z
   Vendor: The North Face
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/0197642126189_S71013890_P30.jpg?v=1767200289
-  Price: R 3,997.69 ZAR
+  Price: R 3,217.16 ZAR
 - [Gym Bag El Ganso Eclipse Navy Blue 22 x 39 x 10 cm Mini](https://apexgym369.store/products/gym-bag-el-ganso-eclipse-navy-blue-22-x-39-x-10-cm-mini): If you are looking for new market trending items, we present the Gym Bag El Ganso Eclipse Navy Blue 22 x 39 x 10 cm Mini!The Safta backpack is a versatile accessory ideal for children aged 3 years and up, designed for comfortable and practical everyday use. With approximate dimensions of 22 x 39 x 10 cm, it offers a suitable size to carry personal items, books, or school supplies without being bulky or heavy. This model features a traditional backpack shape, equipped with a vertical zipper that allows quick and secure access to the interior. Made with children’s functionality in mind, it enables little ones to open and close it easily, promoting their independence. Its design combines durability and lightness, essential qualities to withstand constant use during school activities or leisure. Additionally, its compact format makes it perfect for outings, park visits, or daycare, balancing space and portability. The usual quality of the Safta brand ensures durability and comfort in a product that accompanies children through their early years of learning and exploration. This backpack is a practical, well-sized option that meets the basic storage needs of young children with a functional and accessible design. Type: Rucksack Gym Bag School Recommended age: + 3 years Size: Mini Colour: Navy Blue Characteristics: Adjustable Ergonomic padding Upper handle Material: Polyester 900D Includes: Front pocket with zip Approx. dimensions: 22 x 39 x 10 cm
-  Updated: 2026-01-27T11:58:37Z
+  Updated: 2026-02-04T03:26:01Z
   Vendor: El Ganso
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8412688594429_S4312920_P21.jpg?v=1767200288
   Price: R 800.00 ZAR
 - [Gym Bag Redcliffs db7000300 9 L 40 x 23 x 10 cm](https://apexgym369.store/products/gym-bag-redcliffs-db7000300-9-l-40-x-23-x-10-cm): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Redcliffs db7000300 9 L 40 x 23 x 10 cm at the best price and enjoy a healthy life!The Redcliffs db7000300 Sports Backpack is a versatile and functional accessory designed for those who need to carry their belongings comfortably and conveniently during physical activity or daily use. Made of polyester, a strong and durable material, this backpack offers a 9-liter capacity, ideal for storing essentials without excess bulk. Its approximate dimensions of 40 x 23 x 10 cm provide a good balance between space and lightness, making it easy to carry. It stands out with its colorful assorted colors design, combining style and practicality to suit various tastes and both sports and casual settings. The structure is designed for sports use, with compartments that allow proper organization of items such as sportswear, bottles, or medium-sized personal belongings. This Redcliffs model is especially recommended for active individuals seeking a lightweight, sturdy backpack with an eye-catching look to accompany their workouts or urban commutes hassle-free. Overall, the db7000300 sports backpack represents a practical solution for those who value a balance of capacity, varied design, and reliable materials in a regularly used sports accessory. Colour: Multicolour Assorted colours Units: 1 Unit Type: Gym Bag Material: Polyester Capacity: 9 L Approx. dimensions: 40 x 23 x 10 cm Important information: Assorted designs sent randomly according to stock. Important information: Image might not show all assorted models available.
-  Updated: 2026-01-27T10:29:28Z
+  Updated: 2026-01-31T03:23:34Z
   Vendor: Redcliffs
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8720573666121_S7923940_P00.jpg?v=1767200289
   Price: R 119.75 ZAR
 - [Bike stand Urban Prime UP-BAG-EBK](https://apexgym369.store/products/bike-stand-urban-prime-up-bag-ebk): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Bike stand Urban Prime UP-BAG-EBK at the best price and enjoy a healthy life! Colour: Black Grey Material: Polyester Cloth Characteristics: Handle Gender: Adults unisex Pocket: Inside Type: Carry bag
-  Updated: 2026-01-28T03:19:17Z
+  Updated: 2026-02-04T03:17:34Z
   Vendor: Urban Prime
   Product Type: Sports | Fitness > Cycling > Cycling accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8052870481085_S0457696_P00.jpg?v=1767200288
   Price: R 210.00 ZAR
 - [Gym Bag Columbia Trek™ Black](https://apexgym369.store/products/gym-bag-columbia-trek-black): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Columbia Trek™ Black at the best price and enjoy a healthy life!The Columbia Trek™ sports backpack is a functional and versatile option designed for outdoor activities and daily adventures. With a capacity of 18 liters, this backpack features a spacious main compartment that allows you to organize and carry all essentials comfortably during hikes, routes, or urban commutes. It is made of black polyester, a material known for its durability and wear resistance, ensuring a long lifespan even under demanding conditions. Its sturdy construction also protects contents from impacts and common abrasions, maintaining the integrity of your gear. The backpack has a lightweight design that adds no extra weight, making it easy to carry during long days without compromising comfort. Being one size fits all and unisex, it adapts well to different body types and styles, offering versatility for any  user. Its black color provides a sober and discreet look, compatible with any type of clothing or sports equipment. Overall, the Columbia Trek™ backpack combines practicality, durability, and a suitable size for those seeking a reliable and hassle-free companion for outdoor activities or daily use. This model offers a balanced solution for  users who value functionality and toughness in a sports backpack. Approx. dimensions: 13 x 26,9 x 40 cm Characteristics: Resistant Type: Gym Bag Colour: Black Gender: Unisex Recommended age: Adults Size: One size Material: Polyester
-  Updated: 2026-01-28T03:25:35Z
+  Updated: 2026-02-04T13:20:10Z
   Vendor: Columbia
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/0194894731895_S6490513_P30.jpg?v=1767200288
-  Price: R 784.12 ZAR
+  Price: R 869.46 ZAR
 - [Gym Bag Munich Blue indigo Blue 22 x 39 x 10 cm Mini](https://apexgym369.store/products/gym-bag-munich-blue-indigo-blue-22-x-39-x-10-cm-mini): If you are looking for new market trending items, we present the Gym Bag Munich Blue indigo Blue 22 x 39 x 10 cm Mini!The Safta school backpack, Mini Mochila Cremallera Vertical Munich "Blue Indigo" model, is specially designed for children from 3 years old, offering a practical size adapted to their daily needs. Its approximate dimensions of 22 x 39 x 10 cm provide an ideal volume to carry books, notebooks, and small personal items without being bulky or uncomfortable for little ones. Made with durable materials and sturdy finishes, this backpack ensures an excellent balance between lightness and robustness. It features a vertical zipper system that allows quick and easy access to the interior, optimizing content organization and enabling children to open and close it effortlessly. Its Blue Indigo color design adds a modern and attractive style suitable for school environments, and its compact structure makes it functional for daily use both at school and extracurricular activities. This Safta school backpack combines functionality, durability, and a format specially designed for the early years of education. A practical and reliable accessory for the everyday life of young children. Recommended age: + 3 years Size: Mini Type: Gym Bag Colour: Blue Characteristics: Upper handle Gender: Young Material: Polyester 600D Approx. dimensions: 22 x 39 x 10 cm
-  Updated: 2026-01-27T03:30:26Z
+  Updated: 2026-02-03T07:24:57Z
   Vendor: Munich
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8412688597666_S4312845_P11.jpg?v=1767200289
   Price: R 860.00 ZAR
 - [Gym Bag Munich BackPack Slim Brown](https://apexgym369.store/products/gym-bag-munich-backpack-slim-brown): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Munich BackPack Slim Brown at the best price and enjoy a healthy life!The Munich BackPack Slim sports backpack is an accessory designed for those seeking functionality and practicality in a compact format. Made from 100% polyester, it offers durability and easy maintenance, essential features for daily use in sports or urban activities. Its brown color provides a sober and versatile look that suits both casual and sporty outfits, making it suitable for an  unisex audience. This backpack measures approximately 30 x 40 x 18 cm, providing enough interior space to carry essentials without excessive bulk, ideal for those who prefer lightness and comfort without sacrificing capacity. The one-size-fits-all design ensures a standard fit for most users. Its slim structure facilitates carrying and reduces volume impact, optimizing mobility in urban or sports environments. In summary, the Munich BackPack Slim combines practical design with durable materials and balanced size, positioning itself as a functional and reliable option within the range of sports backpacks. Material: 100 % polyester Approx. dimensions: 30 x 40 x 18 cm Type: Gym Bag Colour: Brown Gender: Unisex Recommended age: Adults Size: One size
-  Updated: 2026-01-28T03:18:37Z
+  Updated: 2026-02-04T03:16:54Z
   Vendor: Munich
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8434521895647_S6459202_P00.jpg?v=1767200289
   Price: R 750.00 ZAR
 - [Gym Bag Real Betis Balompié Green 22 x 39 x 10 cm Mini](https://apexgym369.store/products/gym-bag-real-betis-balompie-green-22-x-39-x-10-cm-mini): If you are looking for new market trending items, we present the Gym Bag Real Betis Balompié Green 22 x 39 x 10 cm Mini!The Safta backpack is a practical and compact accessory specially designed for children over 3 years old, ideal for carrying items safely and comfortably in their daily routine. This mini backpack stands out for its approximate dimensions of 22 x 39 x 10 cm, a size tailored to meet the needs of little ones, allowing them to carry books, toys, or personal belongings without being heavy or bulky. It features a functional design that includes a vertical zipper for quick and secure access to the interior, as well as a sturdy structure suitable for frequent use. Its Real Betis Balompié theme makes it an attractive choice for fans of the club, combining practicality with sports identity. The backpack is manufactured under Safta’s own standards, known for durability and quality in school and children’s products. Thanks to its size and features, it is a versatile backpack suitable for school activities, extracurriculars, trips, or casual outings, ensuring comfortable and organized transport of children’s personal items. Overall, this backpack represents a functional choice that combines a child-friendly design with the identity of a well-known sports club. Type: Rucksack Gym Bag Recommended age: + 3 years Size: Mini Colour: Green Characteristics: Water resistant Ergonomic padding Upper handle Material: Polyester Includes: Front pocket with zip Approx. dimensions: 22 x 39 x 10 cm
-  Updated: 2026-01-26T13:32:17Z
+  Updated: 2026-02-03T07:24:57Z
   Vendor: Real Betis Balompié
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8412688598281_S4313130_P01.jpg?v=1767200288
   Price: R 660.00 ZAR
 - [Gym Bag Rip Curl Dawn Patrol Black 30 L](https://apexgym369.store/products/gym-bag-rip-curl-dawn-patrol-black-30-l): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Rip Curl Dawn Patrol Black 30 L at the best price and enjoy a healthy life! Type: Gym Bag Capacity: 30 L Colour: Black Gender: Men Recommended age: Adults Size: One size
-  Updated: 2026-01-28T03:32:03Z
+  Updated: 2026-02-03T03:34:13Z
   Vendor: Rip Curl
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/9360690133121_S64186905_P30.jpg?v=1767200288
   Price: R 1,317.28 ZAR
 - [Gym Bag Under Armour Hustle Lite Navy Blue](https://apexgym369.store/products/gym-bag-under-armour-hustle-lite-navy-blue): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Under Armour Hustle Lite Navy Blue at the best price and enjoy a healthy life! Type: Gym Bag Colour: Navy Blue Gender: Unisex Recommended age: Adults Size: One size
-  Updated: 2026-01-27T12:01:26Z
+  Updated: 2026-02-04T13:26:35Z
   Vendor: Under Armour
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/0195250923558_R30.jpg?v=1767200288
-  Price: R 617.80 ZAR
+  Price: R 632.04 ZAR
 - [Gym Bag Starvie Hard Eva Kenta](https://apexgym369.store/products/gym-bag-starvie-hard-eva-kenta): Keep fit and discover the sector's latest new releases to perform sports with the best guarantees! Purchase Gym Bag Starvie Hard Eva Kenta at the best price and enjoy a healthy life! Type: Gym Bag Laptop Backpack Gender: Unisex Adults unisex Recommended age: Adults Characteristics: Resistant Ventilation system Notebook compartment (up to 15.6") Size: One size Sport: Padel Material: EVA Compartments: Main compartment Recommended use: Ideal for walks, trips, travel…
-  Updated: 2026-01-25T20:58:40Z
+  Updated: 2026-01-31T03:24:12Z
   Vendor: Starvie
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/8436612940830_S64194121_P00.jpg?v=1767200289
   Price: R 979.32 ZAR
 - [Gym Bag The North Face Base Camp Duffel Black](https://apexgym369.store/products/gym-bag-the-north-face-base-camp-duffel-black): Return to the office without forgetting a single thing! Buy Gym Bag The North Face Base Camp Duffel Black and be the envy of your colleagues!The Base Camp Duffel from The North Face is a sports bag specially designed for adults that combines large capacity and high durability. With dimensions of 40.64 cm x 71.12 cm x 40.64 cm and an impressive 95-liter capacity, it offers enough space to carry bulky gear for both sports activities and adventure trips. This bag is made of polyester, a material that provides durability and contributes to its wear resistance. Additionally, it features a structure and finishes that make it water-resistant, ensuring protection of the contents against adverse weather conditions or humid environments. Its black (noir) color design gives it a sober and versatile appearance, suitable for various styles and uses. The Base Camp Duffel L stands out for its robust functionality and ability to withstand demanding daily use, making it an ideal choice for athletes, hikers, or travelers seeking reliable and spacious luggage. This model represents The North Face’s quality and expertise in outdoor gear manufacturing, adapting to the specific needs of those who require a high-performance, large-volume sports bag. Capacity: 95 L Type: Gym Bag Sports bag Colour: Black noir Size: L Material: Polyester 100 % Polyamide Characteristics: Water resistant Handle Shoulder strap Type of fastening: Zip Gender: Unisex Recommended age: Adults
-  Updated: 2026-01-27T03:29:21Z
+  Updated: 2026-02-03T03:31:32Z
   Vendor: The North Face
   Product Type: Sports | Fitness > Sports material and equipment > Sports backpacks and bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/0197641223957_S71013888_P00.jpg?v=1767200289
-  Price: R 4,600.00 ZAR
+  Price: R 4,015.28 ZAR
 - [Superdescender Bottle](https://apexgym369.store/products/superdescender-bottle): Water bottle for cycling. - It is a bird? It is a plane? Is it a goat? A boar? - No! It's Super Descender! This water bottle is just for you if going down makes you happy, you have that extra point of confidence and you leave anyone behind, and it's not a matter of the bike, tires or suspension they have... We have selected a high-quality plastic composition made in Spain , so as not to leave odors or taste in the water, compressible to be able to hydrate easily. With a capacity of 600ml , thanks to its transparency you will be able to see the amount of liquid you have left at a glance. Screw cap and pipette redesigned to fit perfectly and not leak, easy to open providing an optimal flow rate. Compatible with all bottle cages available on the market, it stays securely attached. Recyclable material we think about the environment, so you can recycle it.
   Updated: 2026-01-25T20:58:40Z
   Vendor: RIDEFYL
@@ -4628,7 +4614,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Availability: Available
     Price: R 56.00 ZAR
 - [Reusable Collapsible Silicone Bottles](https://apexgym369.store/products/reusable-collapsible-silicone-bottles): Stay hydrated anywhere with our eco-friendly collapsible silicone bottles! Made from premium food-grade silicone with a durable stainless-steel cap, these bottles are lightweight, reusable, and completely safe for everyday use. ✨ Key Features: Collapsible Design: Expands to hold up to 500ml (16oz) and folds down compactly when empty, perfect for bags, backpacks, or even your pocket. Durable & Leakproof: Stainless steel lid with a secure seal prevents spills, while the flexible silicone body withstands drops and everyday wear. Eco-Friendly Choice: Say goodbye to single-use plastics—our bottles are washable, reusable, and built to last. Portable & Travel-Friendly: Comes with a handy carabiner clip so you can attach it to your bag, belt, or gear when on the go. Vibrant Colors: Available in a range of fun and stylish colors to match your personality and lifestyle. Perfect for hiking, gym, travel, camping, or everyday hydration. Compact, colorful, and sustainable—these bottles make drinking water easy and eco-friendly!
-  Updated: 2026-01-28T09:30:15Z
+  Updated: 2026-02-04T09:30:14Z
   Vendor: Smile Boutiques
   Product Type: n/a
   Availability: Available
@@ -4636,23 +4622,23 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [Sage](https://apexgym369.store/products/reusable-collapsible-silicone-bottles?variant=45634376695996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/9B6DC877-524D-43D4-9C16-7DB7A2AE0E5A.jpg?v=1767260062
-    Price: R 316.61 ZAR
+    Price: R 317.29 ZAR
   - [Blush](https://apexgym369.store/products/reusable-collapsible-silicone-bottles?variant=45634376728764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/7D239BF0-1C51-49D7-8090-768F23A54DAF.jpg?v=1767260062
-    Price: R 316.61 ZAR
+    Price: R 317.29 ZAR
   - [Rainbow](https://apexgym369.store/products/reusable-collapsible-silicone-bottles?variant=45634376761532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/F4CA631F-B4C0-4D62-98DE-A4D46E473D2D.jpg?v=1767260062
-    Price: R 316.61 ZAR
+    Price: R 317.29 ZAR
   - [Winter Splash](https://apexgym369.store/products/reusable-collapsible-silicone-bottles?variant=45634376794300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/63BD135B-CAA7-461C-A248-DEDB041CCB08.jpg?v=1767260063
-    Price: R 316.61 ZAR
+    Price: R 317.29 ZAR
   - [Summer Splash](https://apexgym369.store/products/reusable-collapsible-silicone-bottles?variant=45634376827068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/EE30D240-6475-4665-BD07-A1AFF11BA423.jpg?v=1767260063
-    Price: R 316.61 ZAR
+    Price: R 317.29 ZAR
 - [Women's Seamless Gym Shorts](https://apexgym369.store/products/womens-seamless-gym-shorts): Ocean non-profit Support: This purchase donates 10% directly to The Surf Rider Foundation. UpSurge Seamless Shorts The UpSurge Seamless shorts are what you need to bring the extra energy this summer for all outdoor activities. Not only are they breathable, but they are high waisted, extra stretchy, and comfy enough to wear all summer long. With beautiful details and ribbing throughout these leggings will be a staple of your summer kit combined with the UpSurge Leggings and Sports Bra. Size Guide: True to size Model is 5’8", wearing size S Colors: Black Sand Black Tahitian Blue Coral Pink SeaFoam Green (If you are a little shy get a darker color, these are less squat proof with dark and bright underwear) Highlights:Seamless 4 way stretch Breathable Wicking Materials & Washing Directions: Nylon, Polyester, Spandex Machine wash cold, inside-out Hang dry
   Updated: 2026-01-25T20:58:40Z
   Vendor: Uhventure
@@ -4708,7 +4694,7 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
     Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/DSC00310.jpg?v=1767260374
     Price: R 200.00 ZAR
 - [Women's Seamless Gym Leggings](https://apexgym369.store/products/womens-seamless-gym-leggings): Ocean non-profit Support: This purchase donates 10% directly to The Surf Rider Foundation. UpSurge Seamless Leggings The UpSurge Seamless Leggings are what you need to bring the extra energy this summer for all outdoor activities. Not only are they breathable, but they are high waisted, extra stretchy, and comfy enough to wear all summer long. With beautiful details and ribbing throughout these leggings will be a staple of your summer kit combined with the UpSurge Shorts and Sports Bra. Size Guide: True to size Model is 5’8", wearing size S Colors: Black Sand Black Tahitian Blue Coral Pink SeaFoam Green (If you are a little shy get a darker color, these are less squat proof with dark and bright underwear) Highlights: Seamless 4 way stretch Breathable Wicking Materials & Washing Directions: Nylon, Polyester, Spandex Machine wash cold, inside-out Hang dry
-  Updated: 2026-01-25T20:58:40Z
+  Updated: 2026-01-29T14:00:16Z
   Vendor: Uhventure
   Product Type: Leggings
   Availability: Available
@@ -4821,27 +4807,134 @@ Welcome to ApexGym369 - South Africa's premium fitness equipment supplier
   - [XL](https://apexgym369.store/products/womens-soft-leggings-teal?variant=45634386854076)
     Availability: Available
     Price: R 162.90 ZAR
-[List Continued](https://apexgym369.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTEyMDExMjQzNzA4LCJsYXN0X3ZhbHVlIjoiOTExMjAxMTI0MzcwOCJ9)
+- [Women's Leggings With Pockets Marble Purple](https://apexgym369.store/products/womens-leggings-with-pockets-marble-purple): Arctic non-profit Support: This purchase donates 10% directly to POW Protect our winters. Arctic Glacier Leggings Flattering lines equal true aesthetics, the Glacier Leggings are a must-have for any activity outside. Stop worrying about where to put your phone. The Glacier leggings have sleek pockets for your valuables while you hike the trail or break a new record in the gym. Highlights: High-waist design contouring symmetrical design Pockets on both thighs for valuables (fits iPhone 11) Stretchy, squat proof, durable Fitted (not compressed) Breathable Size Guide: We recommend to size down from regular size (Ex: If you wear M, order S) Pre-shrunk Fitted (Not Compression) Material & Washing Directions: Nylon, Spandex Machine wash cold, inside-out Hang dry Model is 5'8" and wears size XSLabel Color: Marble Purple
+  Updated: 2026-01-25T20:58:41Z
+  Vendor: Uhventure
+  Product Type: Leggings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/DSC09274-2.jpg?v=1767260483
+  - [XS](https://apexgym369.store/products/womens-leggings-with-pockets-marble-purple?variant=45634387050684)
+    Availability: Available
+    Price: R 162.90 ZAR
+  - [S](https://apexgym369.store/products/womens-leggings-with-pockets-marble-purple?variant=45634387083452)
+    Availability: Available
+    Price: R 162.90 ZAR
+  - [M](https://apexgym369.store/products/womens-leggings-with-pockets-marble-purple?variant=45634387116220)
+    Availability: Available
+    Price: R 162.90 ZAR
+  - [L](https://apexgym369.store/products/womens-leggings-with-pockets-marble-purple?variant=45634387148988)
+    Availability: Available
+    Price: R 162.90 ZAR
+  - [XL](https://apexgym369.store/products/womens-leggings-with-pockets-marble-purple?variant=45634387181756)
+    Availability: Available
+    Price: R 162.90 ZAR
+- [Women's Camo Active Workout Leggings](https://apexgym369.store/products/womens-camo-active-workout-leggings): Odyssey Camo Leggings: Performance Meets Purpose Take your fitness and fashion game to the next level with Odyssey Camo Leggings—designed for movement, style, and making an impact. Why You'll Love Odyssey Camo Leggings Unrestricted Movement: Crafted with 4-way stretch fabric for unmatched flexibility during workouts or casual wear. Stay Cool & Dry: Advanced breathable, moisture-wicking technology keeps you fresh and comfortable all day. 100% Squat-Proof: Built for confidence with  non-sheer fabric. Trendy Camo Print: Stand out in a stylish camo design that transitions effortlessly from the gym to everyday adventures. Available Colors: Find the shade that suits your vibe:🔵 Blue | 🍫 Brown | 🌪 Light Gray | 💜 Purple | 🍃 Green Perfect Fit for Every Body True to Size: Flattering, tailored fit for all-day comfort. Model Specs: Our 5’4” model wears size S with ease. Size Guide: Check our detailed size chart to find your perfect match. Material & Care Tips Premium Fabric Blend: Made with a durable and stretchy Nylon-Spandex blend. Easy Care: Machine wash cold, inside-out for vibrant colors. Hang to dry to maintain quality.
+  Updated: 2026-02-02T14:00:21Z
+  Vendor: Uhventure
+  Product Type: Leggings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.38_PM.png?v=1767260538
+  - [Blue / XS](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387607740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_ab71d6e1-a847-406a-9d81-595a279b60de.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Blue / S](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387640508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_ab71d6e1-a847-406a-9d81-595a279b60de.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Blue / M](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387673276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_ab71d6e1-a847-406a-9d81-595a279b60de.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Blue / L](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387706044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_ab71d6e1-a847-406a-9d81-595a279b60de.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Brown / XS](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387738812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.30.07_PM.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Brown / S](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387771580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.30.07_PM.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Brown / M](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387804348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.30.07_PM.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Brown / L](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387837116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.30.07_PM.png?v=1767260540
+    Price: R 162.90 ZAR
+  - [Green / XS](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387869884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.54_PM.png?v=1767260539
+    Price: R 162.90 ZAR
+  - [Green / S](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387902652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.54_PM.png?v=1767260539
+    Price: R 162.90 ZAR
+  - [Green / M](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387935420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.54_PM.png?v=1767260539
+    Price: R 162.90 ZAR
+  - [Green / L](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634387968188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.54_PM.png?v=1767260539
+    Price: R 162.90 ZAR
+  - [Light Gray / XS](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388000956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_969b2f80-0a5c-4a8e-b786-558829bb8ab1.png?v=1767260541
+    Price: R 162.90 ZAR
+  - [Light Gray / S](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388033724)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_969b2f80-0a5c-4a8e-b786-558829bb8ab1.png?v=1767260541
+    Price: R 162.90 ZAR
+  - [Light Gray / M](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388066492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_969b2f80-0a5c-4a8e-b786-558829bb8ab1.png?v=1767260541
+    Price: R 162.90 ZAR
+  - [Light Gray / L](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388099260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/image_969b2f80-0a5c-4a8e-b786-558829bb8ab1.png?v=1767260541
+    Price: R 162.90 ZAR
+  - [Purple / XS](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388132028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.38_PM.png?v=1767260538
+    Price: R 162.90 ZAR
+  - [Purple / S](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388164796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.38_PM.png?v=1767260538
+    Price: R 162.90 ZAR
+  - [Purple / M](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388197564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.38_PM.png?v=1767260538
+    Price: R 162.90 ZAR
+  - [Purple / L](https://apexgym369.store/products/womens-camo-active-workout-leggings?variant=45634388230332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0745/6227/3468/files/Screenshot_2024-10-07_at_3.29.38_PM.png?v=1767260538
+    Price: R 162.90 ZAR
+[List Continued](https://apexgym369.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTEyMDExMzc0NzgwLCJsYXN0X3ZhbHVlIjoiOTExMjAxMTM3NDc4MCJ9)
 
 ## Collections
 
 - [Home page Collection | Discover Top Products and Best Deals Online](https://apexgym369.store/collections/frontpage): Explore our Home page collection for the latest products, exclusive deals, and top selections. Find everything you need on our Home page, your shopping destination.
-  Updated: 2026-01-28T16:49:07Z
-  Total Products: 162
+  Updated: 2026-02-04T23:27:09Z
+  Total Products: 161
 - [Women's COLLECTION | Premium Fitness Equipment & Activewear for Women](https://apexgym369.store/collections/womens-fitness): Explore our Women's COLLECTION featuring performance apparel, training equipment, recovery tools, and supplements designed to empower women athletes and fitness enthusiasts.
-  Updated: 2026-01-28T15:33:22Z
+  Updated: 2026-02-04T15:30:48Z
   Total Products: 65
 - [Supplements & Nutrition - Premium Sports Nutrition for Peak Performance](https://apexgym369.store/collections/supplements-nutrition): Explore our Supplements & Nutrition collection featuring creatine, protein powders, pre-workout, BCAAs, vitamins, and recovery products to boost your fitness journey.
-  Updated: 2026-01-28T16:49:07Z
+  Updated: 2026-02-04T16:49:36Z
   Total Products: 54
 - [Shop Premium Gym Bags & Backpacks for Athletes | Stylish & Durable](https://apexgym369.store/collections/gym-bags-backpacks): Discover our collection of Gym Bags & Backpacks designed for active lifestyles. Spacious, water-resistant, and built to last — perfect for gym, travel, and daily use.
-  Updated: 2026-01-27T13:17:29Z
-  Total Products: 54
+  Updated: 2026-02-04T23:27:09Z
+  Total Products: 52
 - [Gym Equipment - Weights, Machines & Training Gear - ApexGym](https://apexgym369.store/collections/gym-equipment): Shop premium gym equipment including weights, strength training machines, cardio equipment, and accessories. Build your perfect home gym in South Africa.
-  Updated: 2026-01-25T20:58:04Z
+  Updated: 2026-01-30T19:08:01Z
   Total Products: 56
 - [Men's Clothing - Premium Fitness Apparel for Performance & Style](https://apexgym369.store/collections/mens-clothing): Discover top-quality Men's Clothing designed for performance and style. Shop our premium men's fitness apparel featuring moisture-wicking, breathable fabrics, and flexible fit.
-  Updated: 2026-01-26T11:19:03Z
+  Updated: 2026-02-02T22:15:19Z
   Total Products: 98
 - [Kitchen & Dining](https://apexgym369.store/collections/kitchen-dining)
   Updated: 2026-01-25T20:58:04Z
