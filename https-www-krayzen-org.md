@@ -5,19 +5,19 @@
 - Currency: SEK
 - Timezone: Europe/Stockholm
 - Created At: 2026-01-12T15:34:12Z
-- Updated At: 2026-01-30T00:00:34.271Z
+- Updated At: 2026-02-06T00:00:35.741Z
 
 ## Products
 
 - [Stainless Steel Necklace](https://www.krayzen.org/products/stainless-steel-necklace): A sleek silver Cuban link chain with a clean, polished finish. It has a solid, classic weight that sits flat on the neck, giving a minimal but confident look that works well on its own or layered. The length is 55cm.
-  Updated: 2026-01-27T07:14:38Z
+  Updated: 2026-01-31T10:43:41Z
   Vendor: Krayzen 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9739/3270/files/IMG_4166_eb85f7a4-0789-49d3-8c9f-391c34065167.jpg?v=1768240645
   Price: kr 150.00 SEK
 - [Stainless Steel Bracelet](https://www.krayzen.org/products/stainless-steel-bracelet): This sleek stainless steel bracelet combines durability with modern style. Measuring 18 cm in length, it comes with an additional 5 cm extension, allowing you to easily adjust the size for a comfortable fit. Its polished finish gives it a sophisticated look, making it perfect for both everyday wear and special occasions.
-  Updated: 2026-01-27T07:14:38Z
+  Updated: 2026-01-31T10:43:31Z
   Vendor: Krayzen 
   Product Type: 
   Availability: Available
