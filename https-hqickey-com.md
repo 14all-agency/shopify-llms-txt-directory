@@ -8,7 +8,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2026-01-30T00:00:37.732Z
+- Updated At: 2026-02-06T00:00:40.544Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
@@ -891,6 +891,8 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-01-13T10:04:54Z
 - [Quality Assurance for ICs & Electronic Components | HQIC Key](https://hqickey.com/pages/quality-assurance): 
   Updated: 2026-01-13T12:10:58Z
+- [High-Value Surplus Stock IC Chips Recycling | E&O Electronic Components Buyback](https://hqickey.com/pages/recycling-electronic-components): 
+  Updated: 2026-01-30T08:57:59Z
 
 ## Policies
 
