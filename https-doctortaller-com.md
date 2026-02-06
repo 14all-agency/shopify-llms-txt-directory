@@ -10,7 +10,7 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-01-30T08:00:24.133Z
+- Updated At: 2026-02-06T08:00:24.446Z
 
 ## Products
 
@@ -318,11 +318,11 @@
   - [Doctor Taller Vs. Grow Power Reviews: Which is The Best Height Supplement for Teens 2025?](https://doctortaller.com/blogs/growth-tips/doctor-taller-vs-grow-power-reviews): <p>Between the ages of 9 and 17, your child will experience a big growth spurt when <a href="https://my.clevelandclinic.org/health/diseases/22070-growth-spurts" rel="nofollow">their body can grow 3 to 4 inches per year</a>. During this peak growth phase, bones are actively lengthening, growth plates are wide open, and the right nutrition can mean the difference between reaching genetic potential and falling short.</p>
     Updated: 2026-01-28T08:13:43Z
   - [What is the average height and weight for teenagers (Ages 13-19)?](https://doctortaller.com/blogs/growth-tips/average-height-and-weight-for-teenagers): What is the average height and weight for teenagers (Ages 13-19)?
-    Updated: 2026-01-28T08:11:09Z
+    Updated: 2026-01-31T02:57:59Z
   - [What is the average height and weight for children (Ages 6-12)?](https://doctortaller.com/blogs/growth-tips/average-height-and-weight-for-children): What is the average height and weight for children (Ages 6-12)?
     Updated: 2026-01-28T08:07:43Z
   - [What is the average height and weight for toddlers and preschoolers?](https://doctortaller.com/blogs/growth-tips/average-height-and-weight-for-toddlers-and-preschoolers): What is the average height and weight for toddlers and preschoolers?
-    Updated: 2026-01-28T08:04:38Z
+    Updated: 2026-01-31T03:10:22Z
   - [How to increase height for teens naturally?](https://doctortaller.com/blogs/growth-tips/how-to-increase-height-for-teens-naturally): How to increase height for teens naturally?
     Updated: 2026-01-28T07:20:38Z
 - [Author](https://doctortaller.com/blogs/author): Meet the Doctor Taller blog authors: expert health & wellness writers sharing science-backed insights on nutrition, growth, and parenting for kids & teens.
