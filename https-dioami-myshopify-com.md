@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-01-23T23:47:14Z
 - Contact Email: amadoudiop0711@gmail.com
-- Updated At: 2026-01-25T19:54:40.158Z
+- Updated At: 2026-02-06T00:00:33.515Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0993/2659/1318/files/115CDB13-0F25-45C9-9B31-5B5FC06B250A.jpg?v=1769292614
   Price: 59,99 $ USD
 - [LED Kitchen - Modern Pendant Lamp for Dining Room](https://dioami.myshopify.com/products/led-kitchen): Modern pendant lamp designed for optimal lighting in dining rooms and kitchens. Simple, sleek design that integrates with any decor. Functional and aesthetic lighting solution.
-  Updated: 2026-01-25T10:49:32Z
+  Updated: 2026-01-25T20:48:54Z
   Vendor: Dioami
   Product Type: 
   Availability: Available
@@ -67,14 +67,14 @@
   Image: https://cdn.shopify.com/s/files/1/0993/2659/1318/files/A554EAA3-1121-445B-8506-36C59653AF18.jpg?v=1769297834
   Price: 29,99 $ USD
 - [LED CLOCK](https://dioami.myshopify.com/products/led-clock): This 3D LED digital alarm clock offers optimal readability with its clear and bright display. Convenient for the home, kitchen or office, it indicates the time, date and temperature. Its modern design makes it an ideal decorative element for various environments.
-  Updated: 2026-01-25T11:49:38Z
+  Updated: 2026-01-26T00:29:01Z
   Vendor: Dioami
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/2659/1318/files/5ED077C6-340C-42DB-B684-15B8915EABD5.jpg?v=1769298549
   Price: 10,00 $ USD
 - [Shirt midwest raised lowa](https://dioami.myshopify.com/products/shirt-midwest-raised-lowa): The Midwest Raised Lowa T-shirt, made of high quality cotton. This piece offers optimal comfort thanks to its softness and breathability. Ideal for everyday use, it allows excellent freedom of movement, promoting a pleasant experience throughout the day.
-  Updated: 2026-01-25T18:41:27Z
+  Updated: 2026-01-26T06:40:44Z
   Vendor: Dioami
   Product Type: 
   Availability: Available
