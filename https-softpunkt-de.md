@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-09T10:48:21Z
 - Contact Email: support@softpunkt.de
-- Updated At: 2026-01-29T09:53:44.652Z
+- Updated At: 2026-02-06T00:00:32.173Z
 
 ## Products
 
 - [Windows 11 Professional Betriebssystem](https://softpunkt.de/products/windows-11-pro): Windows 11 Professional – Leistungsstarkes Betriebssystem für Profis Windows 11 Professional bringt ein modernes Design, verbesserte Sicherheitsfunktionen und optimierte Performance für Unternehmen, Selbstständige und anspruchsvolle Privatnutzer. Auf softpunkt.de erhalten Sie Ihre Lizenz sofort und zu attraktiven Preisen. Warum Windows 11 Professional? Windows 11 Pro wurde entwickelt, um den steigenden Anforderungen moderner Arbeitsumgebungen gerecht zu werden. Das Betriebssystem kombiniert eine klare Benutzeroberfläche mit erweiterten Funktionen für Sicherheit, Produktivität und Kommunikation. Modernes, zentriertes Startmenü Schnellere Boot- und Updatezeiten Optimierte Multitasking-Funktionen (Snap-Layouts & Snap-Gruppen) Integriertes Microsoft Teams Unterstützung für Android-Apps Starke Sicherheitsarchitektur (TPM 2.0, Secure Boot, HVCI) Ideal für Unternehmen, Freiberufler & Power-User Systemanforderungen 64-Bit-Prozessor mit 1 GHz oder schneller Mindestens 4 GB RAM Mindestens 64 GB Speicherplatz UEFI-Firmware & Secure Boot TPM 2.0 DirectX 12 kompatible Grafikkarte Performance & Produktivität Mit Windows 11 Pro wird Arbeiten effizienter denn je. Dank optimiertem Ressourcenmanagement reduziert das System Lade- und Updatezeiten erheblich. Die neuen Snap-Funktionen ermöglichen einen perfekt strukturierten, produktiven Workflow. Verbessertes Tablet-Erlebnis Wird die Tastatur entfernt, wechselt das System automatisch in den Touchmodus – ideal für 2-in-1-Geräte. Sicherheit auf Enterprise-Niveau Sicherheit ist einer der größten Vorteile von Windows 11 Professional. Microsoft setzt dabei auf moderne Zero-Trust-Strategien und starke Hardwareanforderungen. Zero-Trust-Sicherheitsmodell BitLocker-Laufwerksverschlüsselung Windows Hello (Gesichts- & Fingerabdrucklogin) Hypervisor-Protected Code Integrity (HVCI) Optimierte Abwehr gegen Ransomware Microsoft Teams direkt integriert Chats, Videokonferenzen und Telefonie sind fest im System verankert. Perfekt für Homeoffice, Remote-Arbeit und Teamkommunikation. Android-Apps auf dem PC Der Microsoft Store bietet erstmals die Möglichkeit, viele Android-Apps direkt auf Ihrem Windows-PC zu nutzen – ideal für mobile Arbeitsprozesse. Gaming mit Windows 11 Professional Auto HDR für kräftigere Farben DirectStorage für schnellere Ladezeiten Perfekt für moderne Gaming-Hardware Kompatibel mit Xbox Game Pass Windows 11 Home vs. Windows 11 Professional Funktion Windows 11 Home Windows 11 Professional BitLocker Verschlüsselung Nein Ja Remote Desktop Nein Ja Hyper-V Virtualisierung Nein Ja Gruppenrichtlinienverwaltung Nein Ja Unternehmensfunktionen Eingeschränkt Vollständig Warum bei softpunkt.de kaufen? Sofortversand des Produktschlüssels per E-Mail Direkter Downloadlink inklusive Geprüfte, rechtssichere Lizenzen Top-Preise & schneller Support Keine Wartezeit – sofort einsatzbereit Für wen lohnt sich Windows 11 Professional? Unternehmen & Organisationen Freelancer & Selbstständige Power-User & Entwickler Homeoffice & Remote-Arbeit Gamer mit moderner Hardware Fazit Windows 11 Professional ist die ideale Wahl für alle, die maximale Performance, Sicherheit und Produktivität benötigen. Kaufen Sie Ihre Lizenz günstig und sicher bei softpunkt.de und starten Sie sofort mit der Installation.
-  Updated: 2025-12-18T09:02:10Z
+  Updated: 2026-02-03T18:21:57Z
   Vendor: Microsoft
   Product Type: Product Key
   Availability: Available
@@ -25,12 +25,12 @@
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/Office-2024-Professional-Plus-jetzt-kaufen.webp?v=1765190866
   Price: 34,99 € EUR
 - [Office 2024 Standard - Sofort-Download](https://softpunkt.de/products/office-2024-standard): Office 2024 Standard – Dauerhafte Vollversion für Windows Mit Office 2024 Standard erhalten Sie die neueste Generation der Office-Suite als Einmalkauf ohne Abonnement. Ideal für Büro, Homeoffice, Schule und Studium. Die Lizenz ist dauerhaft für einen Windows-PC nutzbar und wird bequem digital per E-Mail geliefert. Enthaltene Office-Apps Office-Apps (wie im Angebot enthalten): Word 2024 – Textverarbeitung für professionelle Dokumente Excel 2024 – Tabellenkalkulation & Auswertungen PowerPoint 2024 – Präsentationen für Schule, Studium & Business Outlook 2024 – E-Mail, Kalender & Kontakte OneNote 2024 – Digitale Notizen & Protokolle Hinweis: Diese Office 2024 Standard Edition enthält kein Access, kein Teams und kein Publisher. Der Lieferumfang entspricht den Apps, die in der Office-Apps-Grafik angezeigt werden. Vorteile von Office 2024 Standard ✔ Einmalkauf – keine monatlichen oder jährlichen Gebühren ✔ Dauerhafte Lizenz für 1 Windows-PC ✔ Lokale Installation – kein Zwang zu Cloud oder Abo ✔ Ideal für Unternehmen, Selbstständige, Schüler & Studenten ✔ Bekanntes Office-Feeling in aktueller 2024-Version Systemanforderungen Unterstützte Betriebssysteme: Windows 10 Windows 11 Mindestanforderungen: Prozessor: 1,6 GHz Dual-Core oder schneller Arbeitsspeicher: 4 GB RAM oder mehr Festplatte: mindestens 4 GB freier Speicherplatz Grafik: DirectX 10 kompatible Grafikkarte Internetverbindung für Download & Aktivierung Die Programme im Überblick Word 2024 Erstellen Sie Briefe, Angebote, Berichte, Hausarbeiten und viele weitere Dokumente mit einer modernen, aufgeräumten Oberfläche und verbesserten Layout-Funktionen. Excel 2024 Perfekt für Tabellen, Kalkulationen und Auswertungen. Excel 2024 unterstützt Sie bei Budgetplanung, Listen, Statistiken und übersichtlichen Diagrammen. PowerPoint 2024 Mit PowerPoint gestalten Sie ansprechende Präsentationen für Schule, Studium, Training oder Geschäftstermine – mit aktuellen Designs, Übergängen und Animationsmöglichkeiten. Outlook 2024 Verwalten Sie Ihre E-Mails, Termine, Kontakte und Aufgaben zentral an einer Stelle. Ideal für den Einsatz im Büro und im Homeoffice. OneNote 2024 Ihr digitales Notizbuch für Besprechungen, Unterricht, Projektideen, To-Do-Listen und vieles mehr – strukturiert in Notizbüchern, Abschnitten und Seiten. Office 2024 Standard als Einmalkauf statt Abo Im Gegensatz zu Microsoft 365 handelt es sich bei Office 2024 Standard um eine Dauerlizenz. Sie zahlen einmal und nutzen die Software so lange Sie möchten – ohne erneute Gebühren. Merkmal Office 2024 Standard (Einmalkauf) Microsoft 365 (Abo) Zahlungsmodell Einmalige Zahlung Monatlich / jährlich Nutzung 1 Windows-PC Mehrere Geräte je nach Tarif Cloud-Speicher Nicht enthalten OneDrive-Speicher inklusive Updates Funktionsstand bleibt stabil, Sicherheitsupdates Regelmäßige neue Features So läuft der Kauf & die Aktivierung ab Produkt in den Warenkorb legen und Bestellung abschließen. Aktivierungsschlüssel und Download-Link per E-Mail erhalten. Installationsdatei herunterladen und Setup starten. Während oder nach der Installation den Produktschlüssel eingeben. Office 2024 Standard aktivieren und sofort nutzen. Häufig gestellte Fragen (FAQ) Ist die Lizenz von Office 2024 Standard dauerhaft? Ja. Es handelt sich um eine permanente Vollversion, die nach der Aktivierung unbegrenzt auf einem Windows-PC genutzt werden kann. Kann ich Office 2024 Standard auf einen neuen PC übertragen? Ja, sofern die Lizenz nur auf einem Gerät gleichzeitig aktiv ist. Deinstallieren Sie Office auf dem alten PC und aktivieren Sie es auf dem neuen. Funktioniert diese Version auch auf einem Mac? Nein. Office 2024 Standard in dieser Ausführung ist ausschließlich für Windows 10 und Windows 11 vorgesehen. Benötige ich ein Microsoft-Konto zur Nutzung? Für die reine Aktivierung reicht der Produktschlüssel. Ein Microsoft-Konto ist nur für optionale Dienste wie OneDrive oder Synchronisation erforderlich. Kann ich Office 2024 Standard offline nutzen? Ja. Nach Download und Aktivierung können Sie die Programme auch ohne Internetverbindung verwenden. Jetzt Office 2024 Standard für Windows kaufen Sichern Sie sich die aktuelle Office-Generation mit Word, Excel, PowerPoint, Outlook und OneNote als Einmalkauf ohne Abo. Die Lizenz ist dauerhaft gültig, der Produktschlüssel wird bequem digital per E-Mail bereitgestellt.
-  Updated: 2025-12-18T09:11:42Z
+  Updated: 2026-01-30T10:06:34Z
   Vendor: Microsoft
   Product Type: Product Key
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/Office-2024-Standard-softpunkt.de.webp?v=1765190852
-  Price: 34,99 € EUR
+  Price: 28,99 € EUR
 - [Access 2021](https://softpunkt.de/products/microsoft-access-2021)
   Updated: 2025-12-24T14:02:50Z
   Vendor: Microsoft
@@ -67,12 +67,12 @@
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/Windows-10-Pro-softpunkt.de.webp?v=1765190935
   Price: 10,99 € EUR
 - [Office 2021 Professional Plus](https://softpunkt.de/products/office-2021-professional-plus): Office 2021 Professional Plus – Dauerlizenz für Windows Office 2021 Professional Plus ist die umfassendste Office-Suite für Unternehmen, Freelancer und ambitionierte Privatanwender, die effizient arbeiten und auf vertraute Desktop-Programme setzen möchten – ganz ohne Abo. Enthalten sind Word, Excel, PowerPoint, Outlook, Publisher und Access. Die Suite liefert moderne Funktionen für produktive Teams, zuverlässige Performance auf Windows-Rechnern und volle Kontrolle dank einmaliger Zahlung. Ideal für Büros, Homeoffice und Mischumgebungen aus lokalen Dateien und Cloud-Workflows. Warum Office 2021 Professional Plus? All-in-One: Alle Kernanwendungen für Text, Tabellen, Präsentationen, E-Mail, Publikationen und Datenbanken. Dauerlizenz: Einmal kaufen, dauerhaft nutzen – ohne laufende Abokosten. Verlässliche Offline-Nutzung: Volle Funktionalität auf dem PC, unabhängig von einer Internetverbindung. Nahtlose Zusammenarbeit: Kompatibel mit OneDrive/SharePoint, freigegebene Dateien, Kommentare & Co-Authoring. Hohe Kompatibilität: Bewährte Dateiformate (DOCX, XLSX, PPTX) – austauschbar mit Kunden & Partnern. Enthaltene Programme & Highlights Word 2021 Professionelle Dokumente schneller erstellen – von Angeboten bis Berichten. Verbesserte Design-Werkzeuge und Formatvorlagen für saubere Layouts. Integrierte Rechtschreib- & Grammatikprüfung, Stilvorschläge. Excel 2021 XLOOKUP für flexible Suchen über Tabellen hinweg. Dynamische Arrays (z. B. FILTER, SORTIEREN, EINDEUTIG) für automatisierte Auswertungen. Neue Diagramm- und Datenvisualisierungsoptionen für aussagekräftige Reports. PowerPoint 2021 Moderne Übergänge, verbesserte Video- & Audio-Tools, optimierte Referentenansicht. Einfaches Einbinden von Bildschirmaufnahmen, 3D-Objekten und SVG-Grafiken. Gemeinsam präsentieren: Kommentare, Hinweis-Tools, konsistentes Corporate Design. Outlook 2021 Zentrale Steuerung für E-Mails, Kalender, Kontakte und Aufgaben. Schnellere Suche, fokussierter Posteingang, optimierte Terminabsprachen. Professionelle Signaturen, Regeln, gemeinsame Postfächer und Archivierung. Publisher 2021 Hochwertige Broschüren, Flyer, Newsletter & Kataloge ohne DTP-Vorkenntnisse. Vielfältige Vorlagen & Layout-Raster für konsistente Ergebnisse. Access 2021 Schnell anpassbare Datenbank-Apps für Desktop und kleine Teams. Formulare, Abfragen & Berichte für individuelle Prozesse und Workflows. Zusatzfunktionen, die im Alltag Zeit sparen Freihand & Ink-Editor: Markieren und Notieren mit Stift oder Touch. PDF-Export direkt aus Word/Excel/PowerPoint in Druckqualität. Barrierefreiheit prüfen: Bessere Lesbarkeit und zugängliche Dokumente. Vorlagen & Themes: Einheitliches Branding in allen Apps. Lieferumfang & Lizenz Produkttyp: Microsoft Office 2021 Professional Plus (Windows) Lizenzart: Dauerlizenz (per Aktivierungsschlüssel) Bereitstellung: Sofort-Download & Schlüssel per E-Mail Nutzung: Für 1 PC (sofern nicht anders angegeben) Systemanforderungen Kategorie Minimum Prozessor 1,6 GHz oder schneller; 32-Bit (x86) oder 64-Bit (x64) Arbeitsspeicher Mindestens 2 GB RAM Festplatte Mindestens 3 GB freier Speicherplatz Bildschirm Mindestens 1024 × 768 Pixel Betriebssysteme Windows 10 oder Windows 11; Windows Server 2019/2022 Hinweis: Für Aktivierung und Updates ist zeitweise eine Internetverbindung erforderlich. So funktioniert der Kauf Produkt in den Warenkorb legen und Kauf abschließen. Sie erhalten den Aktivierungsschlüssel sowie den Download-Link per E-Mail. Office installieren, mit dem Schlüssel aktivieren, loslegen. Für wen eignet sich Professional Plus? Unternehmen & Agenturen: Standardisierte Office-Umgebung ohne Abo. Freiberufler & Selbstständige: Einmal zahlen, dauerhaft nutzen. Vereine & Bildung: Vertraute Tools für Verwaltung, Kommunikation, Publikationen. Office 2021 Professional Plus vs. Microsoft 365 Office 2021: Einmalige Zahlung, Desktop-Apps, planbare Kosten. Microsoft 365: Abo mit Cloud-Diensten und laufenden Zahlungen. Wenn Sie eine stabile Desktop-Suite ohne wiederkehrende Gebühren möchten, ist Office 2021 Professional Plus die richtige Wahl. Häufige Fragen (FAQ) Ist die Lizenz dauerhaft? Ja. Es handelt sich um eine perpetual Lizenz – Sie zahlen einmal und nutzen die Software dauerhaft auf dem lizenzierten Gerät. Kann ich die Lizenz übertragen? Die Übertragbarkeit richtet sich nach den Microsoft-Lizenzbedingungen. In der Regel ist eine Reaktivierung auf demselben Gerät möglich, bei Hardwarewechsel gelten die jeweiligen Bestimmungen. Erhalte ich Updates? Sie erhalten Sicherheits- und Qualitätsupdates für Office 2021. Funktions-Upgrades auf spätere Office-Versionen sind nicht enthalten.
-  Updated: 2026-01-10T09:07:37Z
+  Updated: 2026-02-04T14:54:53Z
   Vendor: Microsoft
   Product Type: Product Key
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/office-2021-professional-softpunkt.de.webp?v=1765190829
-  Price: 25,00 € EUR
+  Price: 23,99 € EUR
 - [Office 2019 Professional Plus](https://softpunkt.de/products/office-2019-professional-plus)
   Updated: 2025-12-24T14:02:49Z
   Vendor: Microsoft
@@ -193,12 +193,12 @@
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/windows-10-enterprises_softwareangebote24.de.webp?v=1752238640
   Price: 19,00 € EUR
 - [Office 2021 Standard - Sofort-Download](https://softpunkt.de/products/office-2021-standard): Office 2021 Standard – Die professionelle Office-Suite für Unternehmen Office 2021 Standard ist die zuverlässige Komplettlösung für produktives Arbeiten im modernen Büroalltag. Die Suite bietet leistungsstarke, lokal installierbare Desktop-Programme, die besonders für Unternehmen, Behörden, Schulen und Selbstständige geeignet sind. Mit einer optimierten Benutzeroberfläche, verbesserten Funktionen und hoher Stabilität ermöglicht Office 2021 ein effizientes Arbeiten – ganz ohne Cloud-Zwang. Warum Office 2021 Standard? Mit Office 2021 Standard erhalten Nutzer eine langlebige, sichere und ausgereifte Softwarelösung, die alle wesentlichen Werkzeuge für die tägliche Arbeit bereitstellt. Die Lizenz ist dauerhaft (perpetual), transparent und ohne versteckte Abonnements. Enthaltene Programme Microsoft Word 2021: Professionelle Dokumente erstellen und bearbeiten mit modernen Vorlagen, intelligenten Tools und optimierter Zusammenarbeit. Microsoft Excel 2021: Leistungsstarke Tabellenkalkulation mit neuen Funktionen wie XVERWEIS, LET und dynamischen Arrays. Ideal für Analysen & Berichte. Microsoft PowerPoint 2021: Erstellung beeindruckender Präsentationen mit verbesserten Animationen, Übergängen und Medienintegration. Microsoft Outlook 2021: Effizientes E-Mail-Management sowie Kalender-, Aufgaben- und Kontaktfunktionen für strukturierte Kommunikation. Microsoft Publisher 2021: Erstellung professioneller Marketing- und Druckmaterialien wie Flyer, Broschüren und Einladungen. Microsoft OneNote 2021: Digitales Notizbuch zur Organisation von Projekten, Ideen und Besprechungen. Highlights & Vorteile Keine Cloud-Pflicht – ideal für datenschutzkritische Umgebungen Einmalige Lizenz – keine monatlichen Kosten, unbegrenzte Nutzung Verbesserte Performance auf Windows-Geräten Optimiert für Windows 10 & Windows 11 Neue Funktionen, verbesserte Performance und erhöhte Sicherheit Hohe Kompatibilität mit älteren Office-Versionen Ideal geeignet für Kleine & mittelständische Unternehmen Öffentliche Einrichtungen und Behörden Bildungseinrichtungen Freelancer & Selbstständige Büroarbeitsplätze ohne Cloud- oder Abo-Nutzung Fazit Microsoft Office 2021 Standard ist die ideale Wahl für alle, die eine stabile, sichere und leistungsstarke Office-Suite ohne laufende Abos suchen. Die bewährten Desktop-Anwendungen sorgen für maximale Produktivität – heute und in Zukunft.
-  Updated: 2025-12-18T09:09:28Z
+  Updated: 2026-01-30T10:05:11Z
   Vendor: Microsoft
   Product Type: Product Key
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/office-2021-standard-sofpunkt.de.webp?v=1765190958
-  Price: 22,00 € EUR
+  Price: 20,99 € EUR
 - [Office 2021 Home and Student](https://softpunkt.de/products/office-2021-home-and-student)
   Updated: 2025-12-24T14:02:47Z
   Vendor: Microsoft
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/office2019-home-and-business-mac-softwareangebote24.de.webp?v=1752309968
   Price: 43,00 € EUR
 - [Office 2016 Professional Plus](https://softpunkt.de/products/office-2016-professional-plus)
-  Updated: 2025-12-24T13:52:46Z
+  Updated: 2026-02-03T18:21:58Z
   Vendor: Microsoft
   Product Type: Product Key
   Availability: Available
@@ -581,31 +581,31 @@
 ## Collections
 
 - [Home page](https://softpunkt.de/collections/frontpage)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-02-04T12:32:35Z
   Total Products: 1
 - [Windows 11](https://softpunkt.de/collections/windows-11)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-02-04T12:32:35Z
   Total Products: 2
 - [Betriebssysteme](https://softpunkt.de/collections/betriebssysteme)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-02-04T12:32:35Z
   Total Products: 9
 - [Office 2021](https://softpunkt.de/collections/office-2021)
-  Updated: 2025-12-14T08:38:40Z
+  Updated: 2026-02-05T12:31:40Z
   Total Products: 4
 - [Office](https://softpunkt.de/collections/microsoft-office)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-02-05T12:31:40Z
   Total Products: 20
 - [Office Pakete](https://softpunkt.de/collections/microsoft-office-pakete)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-02-05T12:31:40Z
   Total Products: 20
 - [Windows 10](https://softpunkt.de/collections/windows-10)
   Updated: 2025-12-14T08:31:42Z
   Total Products: 5
 - [Office 2016](https://softpunkt.de/collections/office-2016)
-  Updated: 2025-07-12T09:53:56Z
+  Updated: 2026-02-04T12:32:35Z
   Total Products: 4
 - [Office 2024](https://softpunkt.de/collections/office-2024)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-01-30T10:06:35Z
   Total Products: 2
 - [Publisher](https://softpunkt.de/collections/microsoft-publisher)
   Updated: 2025-12-24T13:01:04Z
@@ -668,7 +668,7 @@
   Updated: 2025-12-24T13:12:02Z
   Total Products: 5
 - [Windows 7](https://softpunkt.de/collections/windows-7)
-  Updated: 2025-12-18T12:34:16Z
+  Updated: 2026-01-30T12:29:28Z
   Total Products: 2
 - [Office für MAC](https://softpunkt.de/collections/office-fur-mac)
   Updated: 2025-07-10T16:32:14Z
@@ -677,7 +677,7 @@
   Updated: 2025-11-20T10:49:29Z
   Total Products: 3
 - [Feed](https://softpunkt.de/collections/feed)
-  Updated: 2026-01-26T12:26:44Z
+  Updated: 2026-02-05T12:31:40Z
   Total Products: 7
 - [Visio 2024](https://softpunkt.de/collections/visio-2024)
   Updated: 2025-12-24T13:27:23Z
