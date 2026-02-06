@@ -10,12 +10,12 @@
 - Contact Email: coffeeandvape24@gmail.com
 - Contact Phone: +27662720545
 - Address: Shop 14, Showgate Centre, Curie Ave, , Bloemfontein, 9301
-- Updated At: 2026-01-30T00:00:40.375Z
+- Updated At: 2026-02-06T00:00:43.283Z
 
 ## Products
 
 - [Nasty PX10 Pods South Africa | 5000 Puffs | Coffee and Vape](https://www.coffeeandvape.co.za/products/nasty-bar-pods-px10-south-africa-shop-now): Buy Nasty PX10 disposable vape pods in South Africa. 5000 puffs per pod, 5% nic salt, 20+ flavors. Special pack pricing available. Fast delivery at Coffee and Vape SA.
-  Updated: 2026-01-29T14:01:51Z
+  Updated: 2026-02-04T14:29:46Z
   Vendor: Nasty
   Product Type: Nasty PX10 Flavouring Pods
   Availability: Available
@@ -89,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-px10-podsnasty-px10-flavouring-podscoffee-and-vape-shop-south-africa-9116029.webp?v=1753082712
     Price: R 150.00 ZAR
 - [Nasty Vape PX10 Rechargeable Battery – Coffee and Vape SA](https://www.coffeeandvape.co.za/products/nasty-px10-battery): Shop the Nasty Vape PX10 Rechargeable Battery 550mAh at Coffee and Vape SA. Compact, long-lasting, and perfect for powering Nasty PX10 Pods.
-  Updated: 2026-01-29T09:43:18Z
+  Updated: 2026-02-01T09:53:22Z
   Vendor: Nasty
   Product Type: Nasty PX10 Flavouring Pods
   Availability: Available
@@ -119,7 +119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-px10-rechargeable-batterynasty-px10-flavouring-podscoffee-and-vape-shop-south-africa-5070005.jpg?v=1753082594
     Price: R 50.00 ZAR
 - [Nasty DLT 10000 - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs): Discover the Nasty DLT 10000 at Coffee and Vape South Africa. Freebase vape with 10,000 puffs, rich flavor, and powerful DTL performance in every draw!
-  Updated: 2026-01-29T14:15:12Z
+  Updated: 2026-02-05T15:57:40Z
   Vendor: Nasty
   Product Type: DFR10Ki
   Availability: Available
@@ -135,29 +135,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-8238615.jpg?v=1753082600
     Price: R 200.00 ZAR
-  - [Grape Ice](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681193630)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-5746935.jpg?v=1753082708
+  - [Blue Sour Raspberry](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681128094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-6218850.jpg?v=1753082707
     Price: R 200.00 ZAR
   - [Lemon Cherry](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681226398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-8928793.jpg?v=1753082599
     Price: R 200.00 ZAR
-  - [Blue Sour Raspberry](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681128094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-6218850.jpg?v=1753082707
-    Price: R 200.00 ZAR
   - [Vimto Bull (Cherry Cola)](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43690419519646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-4995046.jpg?v=1753082707
     Price: R 200.00 ZAR
-  - [Apple Peach](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681029790)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-4554958.jpg?v=1753082598
-    Price: R 200.00 ZAR
   - [Blue Raspberry Cherry](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681095326)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-6218850.jpg?v=1753082707
+    Price: R 200.00 ZAR
+  - [Grape Ice](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681193630)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-5746935.jpg?v=1753082708
+    Price: R 200.00 ZAR
+  - [Apple Peach](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43656681029790)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-4554958.jpg?v=1753082598
     Price: R 200.00 ZAR
   - [Watermelon Ice](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=43690419552414)
     Availability: Not Available
@@ -172,10 +172,10 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-dlt-10000dfr10kicoffee-and-vape-shop-south-africa-4554958.jpg?v=1753082598
     Price: R 200.00 ZAR
   - [Shisha Lemon Mint](https://www.coffeeandvape.co.za/products/nasty-dlt-disposable-10000-puffs?variant=46399973359774)
-    Availability: Not Available
+    Availability: Available
     Price: R 200.00 ZAR
 - [Nasty Bar 9000 USB-C Rechargeable Vape | Longest Lasting Disposable SA](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery): Nasty Bar 9000 - USB-C rechargeable disposable vape with mesh coil technology. No burnt taste, consistent flavor start to finish. Fast charging 45 mins. Shop SA's #1 bestseller!
-  Updated: 2026-01-29T14:09:38Z
+  Updated: 2026-02-05T19:42:42Z
   Vendor: Nasty
   Product Type: Disposable Vapes
   Availability: Available
@@ -228,7 +228,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-7523987.jpg?v=1753082761
     Price: R 210.00 ZAR
   - [BLUE RASPBERRY LEMONADE](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=43726085521566)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-7812204.jpg?v=1753082795
     Price: R 210.00 ZAR
   - [FIZZY CHERRY](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=43726085554334)
@@ -252,7 +252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-8215365.jpg?v=1753082760
     Price: R 210.00 ZAR
   - [RED ENERGY](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=43726085718174)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-2538185.jpg?v=1753082742
     Price: R 210.00 ZAR
   - [WATERMELON ICE](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=43726085750942)
@@ -260,7 +260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-8283260.jpg?v=1753082795
     Price: R 210.00 ZAR
   - [MINERAL WATER  PEACH](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=43726085783710)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-6377740.jpg?v=1753082596
     Price: R 210.00 ZAR
   - [MANGO](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=43726085849246)
@@ -284,7 +284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-1933051.jpg?v=1753082761
     Price: R 210.00 ZAR
   - [GUMMY BEAR](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=44039981564062)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-3844811.jpg?v=1753082760
     Price: R 210.00 ZAR
   - [STRAWBERRY MINT LEMONADE](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=44113702748318)
@@ -304,11 +304,11 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-8521314.jpg?v=1753082742
     Price: R 210.00 ZAR
   - [STRAWBERRY PEACH](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=44509121052830)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-6983608.jpg?v=1753082743
     Price: R 210.00 ZAR
   - [WHITE PEACH RASPBERRY](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=44509126295710)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-3052258.jpg?v=1753082595
     Price: R 210.00 ZAR
   - [UNITY (Limited edition)](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=45426381291678)
@@ -316,7 +316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-4033971.jpg?v=1753082714
     Price: R 210.00 ZAR
   - [BLACKCURRANT](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=44509120987294)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-3967144.jpg?v=1753082762
     Price: R 210.00 ZAR
   - [VICTORY (Limited edition)](https://www.coffeeandvape.co.za/products/nasty-bar-9000-puffs-disposable-vape-only-r185-fast-delivery?variant=45426381258910)
@@ -332,26 +332,26 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-9000nasty-bar-9000coffee-and-vape-shop-south-africa-9277466.jpg?v=1753082713
     Price: R 210.00 ZAR
 - [VAPENGIN Neptune 2 Disposable Vape 7000 Puffs | Coffee & Vape SA](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000): VAPENGIN Neptune 2 disposable vape with 7000 puffs. Premium quality, authentic product. Special  pricing. Fast delivery across South Africa. Shop now!
-  Updated: 2026-01-29T14:02:00Z
+  Updated: 2026-02-03T18:49:21Z
   Vendor: VAPENGIN
   Product Type: Neptune 2
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-6637860.png?v=1758317720
-  - [RASPBERRY CHERRY](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858617893022)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-1087304.png?v=1758317721
-    Price: R 100.00 ZAR
   - [ALOE GRAPE](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858617925790)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-6637860.png?v=1758317720
     Price: R 100.00 ZAR
-  - [RASPBERRY LYCHEE](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858617991326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-1087304.png?v=1758317721
-    Price: R 100.00 ZAR
   - [MENTHOL MINT ICE](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858618024094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-6213794.png?v=1758317721
+    Price: R 100.00 ZAR
+  - [RASPBERRY LYCHEE](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858617991326)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-1087304.png?v=1758317721
+    Price: R 100.00 ZAR
+  - [RASPBERRY CHERRY](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858617893022)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-1087304.png?v=1758317721
     Price: R 100.00 ZAR
   - [STRAWBERRY WATERMELON](https://www.coffeeandvape.co.za/products/vapengin-neptune-2-disposable-vape-7000?variant=43858617794718)
     Availability: Not Available
@@ -374,7 +374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vapengin-neptune-2-only-r140-crazy--neptune-2coffee-and-vape-shop-south-africa-3133820.png?v=1758317720
     Price: R 100.00 ZAR
 - [Airscream AirsPops ONE USE 3ml Disposable Vape – 800 Puffs | Coffee and Vape SA](https://www.coffeeandvape.co.za/products/airspops-airpops-one-use-3-ml-disposable-by-airsream): Experience ultimate convenience with the Airscream AirsPops ONE USE Disposable Vape. Pre-filled with 3ml of 5% nicotine salts for smooth satisfaction.
-  Updated: 2026-01-29T16:19:55Z
+  Updated: 2026-02-05T19:26:07Z
   Vendor: AIRSCREAM
   Product Type: AirsPop ONE USE
   Availability: Available
@@ -502,7 +502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-one-use-3ml5airspop-one-usecoffee-and-vape-shop-south-africa-6688859.webp?v=1753082594
     Price: R 90.00 ZAR
 - [BLVK Bar 20000 Bold Flavor Vape | Best Value Per Puff Rechargeable SA](https://www.coffeeandvape.co.za/products/blvk-bar-20k-puff-disposable-vape-only-r269): BLVK Bar 20000 - Bold signature flavors, dual mesh coils, USB-C rechargeable. 20000 puffs lasts 2-3 weeks. Best value per puff. Compact design. Shop now!
-  Updated: 2026-01-29T14:04:15Z
+  Updated: 2026-02-05T15:26:17Z
   Vendor: BLVK
   Product Type: blvk
   Availability: Available
@@ -561,7 +561,7 @@
     Availability: Not Available
     Price: R 270.00 ZAR
 - [Wotofo nexPOD 50mg Replacement Pods SA | 4ml | Authentic | Fast Delivery](https://www.coffeeandvape.co.za/products/wotofo-nexpod-50mg-replacement-pods-south-africa): Shop authentic Wotofo nexPOD 50mg replacement pods in South Africa. 4ml capacity, premium flavours. Fast nationwide delivery. Buy genuine vape pods online at Coffee and Vape SA.
-  Updated: 2026-01-29T14:04:23Z
+  Updated: 2026-02-03T19:04:40Z
   Vendor: WOTOFO
   Product Type: Vape Replacement Pods
   Availability: Available
@@ -676,15 +676,11 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/wotofo-nexpod-batterycoffee-and-vape-shop-south-africa-6948068.webp?v=1753082522
     Price: R 120.00 ZAR
 - [Nasty Bar 16000 Rechargeable Vape | Bundle  | Coffee & Vape SA](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg): Nasty Bar 16000 - USB-C rechargeable, dual mesh coils, 16000 puffs lasts 2-3 weeks. Special bundle pricing available. Authentic Nasty flavors. Shop now!
-  Updated: 2026-01-29T16:25:58Z
+  Updated: 2026-02-04T15:38:31Z
   Vendor: Nasty
   Product Type: NASTY BAR 16000
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-3286131.jpg?v=1753082595
-  - [CARIBBEAN MANGO (NEW)](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=45185660485790)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-7851220.webp?v=1753082712
-    Price: R 220.00 ZAR
   - [MALIBU (NEW)](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=45185660518558)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-8168124.webp?v=1753082711
@@ -697,14 +693,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-3188844.webp?v=1753082713
     Price: R 220.00 ZAR
-  - [PEACH 🍑 ICE](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996506685598)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-5274408.webp?v=1753082742
-    Price: R 220.00 ZAR
-  - [BERRY 🫐 GRAPE 🍇](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996516188318)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-9689036.webp?v=1753082595
-    Price: R 220.00 ZAR
   - [BLUE RAZZ ICE](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996521758878)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-1497175.webp?v=1753082741
@@ -712,10 +700,6 @@
   - [CHERRY 🍒 PEACH 🍑 RASPBERRY](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996521791646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-6689791.webp?v=1753082594
-    Price: R 220.00 ZAR
-  - [PINEAPPLE 🍍 ICE](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996521824414)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-7542570.webp?v=1753082714
     Price: R 220.00 ZAR
   - [ARCTIC MINT 🆒](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996521857182)
     Availability: Available
@@ -737,16 +721,32 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-7038202.webp?v=1753082595
     Price: R 220.00 ZAR
-  - [DOUBLE WATERMELON 🍉](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996522021022)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-6998181.webp?v=1753082741
-    Price: R 220.00 ZAR
   - [STRAWBERRY 🍓 ICE](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996522053790)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-3957023.webp?v=1753082743
     Price: R 220.00 ZAR
+  - [PEACH 🍑 ICE](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996506685598)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-5274408.webp?v=1753082742
+    Price: R 220.00 ZAR
+  - [BERRY 🫐 GRAPE 🍇](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996516188318)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-9689036.webp?v=1753082595
+    Price: R 220.00 ZAR
+  - [CARIBBEAN MANGO (NEW)](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=45185660485790)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-7851220.webp?v=1753082712
+    Price: R 220.00 ZAR
+  - [PINEAPPLE 🍍 ICE](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996521824414)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-7542570.webp?v=1753082714
+    Price: R 220.00 ZAR
+  - [DOUBLE WATERMELON 🍉](https://www.coffeeandvape.co.za/products/nasty-rechargeable-bar-16000-puff-50mg?variant=43996522021022)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-16000nasty-bar-16000coffee-and-vape-shop-south-africa-6998181.webp?v=1753082741
+    Price: R 220.00 ZAR
 - [Lavie Plus 15000 puffs Disposable Vape | Coffee and Vape SA](https://www.coffeeandvape.co.za/products/lavie-plus-15000-puffs-disposable-vape): Buy the Lavie Plus 15000 puffs Disposable Vape. Enjoy 15,000 puffs, 23ml capacity, and 12 rich flavours. Special pricing available. Shop at Coffee and Vape SA.
-  Updated: 2026-01-29T14:05:00Z
+  Updated: 2026-02-02T15:39:13Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -756,7 +756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/lavie-plus-15000coffee-and-vape-shop-south-africa-9933911.png?v=1753082549
     Price: R 120.00 ZAR
   - [Mexico Mango](https://www.coffeeandvape.co.za/products/lavie-plus-15000-puffs-disposable-vape?variant=44077609287838)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/lavie-plus-15000coffee-and-vape-shop-south-africa-6342786.png?v=1753082530
     Price: R 120.00 ZAR
   - [Tropical Rainbow Blast](https://www.coffeeandvape.co.za/products/lavie-plus-15000-puffs-disposable-vape?variant=44077609353374)
@@ -772,7 +772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/lavie-plus-15000coffee-and-vape-shop-south-africa-7853919.png?v=1753082529
     Price: R 120.00 ZAR
   - [Sour Apple Ice](https://www.coffeeandvape.co.za/products/lavie-plus-15000-puffs-disposable-vape?variant=44077609484446)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/lavie-plus-15000coffee-and-vape-shop-south-africa-7458353.png?v=1753082530
     Price: R 120.00 ZAR
   - [Mango Pineapple Candy](https://www.coffeeandvape.co.za/products/lavie-plus-15000-puffs-disposable-vape?variant=44077609549982)
@@ -800,21 +800,21 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/lavie-plus-15000coffee-and-vape-shop-south-africa-7576971.png?v=1753082548
     Price: R 120.00 ZAR
 - [Nasty Juice Tobacco Silver Blend E-Liquid 60ml](https://www.coffeeandvape.co.za/products/nasty-juice-tobacco-silver-blend-60ml): Buy Nasty Juice Tobacco Silver Blend E-Liquid 60ml for only ZAR289. Enjoy a smooth tobacco and vanilla flavor. Available at Coffee & Vape South Africa.
-  Updated: 2026-01-29T14:22:03Z
+  Updated: 2026-02-05T18:05:57Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-juice-tobacco-silver-blend-e-liquid-60mlcoffee-and-vape-shop-south-africa-5167396.png?v=1753082735
-  Price: R 289.00 ZAR
+  Price: R 80.00 ZAR
 - [Nasty Ballin Passion Killa E-Liquid 60ml 3mg - Coffee and Vape SA](https://www.coffeeandvape.co.za/products/nasty-ballin-passion-killa-e-liquid-60ml): Buy Nasty Ballin Passion Killa E-Liquid 60ml - 3mg Nicotine for only ZAR190.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:11Z
+  Updated: 2026-02-05T18:03:37Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-ballin-passion-killa-e-liquid-60ml-3mg-nicotinecoffee-and-vape-shop-south-africa-4939099.jpg?v=1753082591
-  Price: R 190.00 ZAR
+  Price: R 80.00 ZAR
 - [Tugboat Pulse 20000 Disposable Vape South Africa | 20000 Puffs - Coffee and Vape](https://www.coffeeandvape.co.za/products/tugboat-pulse-20000-puffs-disposable-vape): Buy Tugboat Pulse 20000 disposable vape in South Africa. 20,000 puffs, rechargeable battery, premium flavors. Only R300. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:11Z
+  Updated: 2026-01-30T10:09:12Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: ugboat Pulse 20000 Puffs Disposable Vape
   Availability: Available
@@ -856,11 +856,11 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/tugboat-20000ugboat-pulse-20000-puffs-disposable-vapecoffee-and-vape-shop-south-africa-9902058.png?v=1753082555
     Price: R 220.00 ZAR
   - [MANGO BLACK CURRANT](https://www.coffeeandvape.co.za/products/tugboat-pulse-20000-puffs-disposable-vape?variant=44491807293598)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/tugboat-20000ugboat-pulse-20000-puffs-disposable-vapecoffee-and-vape-shop-south-africa-9902058.png?v=1753082555
     Price: R 220.00 ZAR
 - [Nasty Bar 14000 Adjustable Airflow Vape | Sweet Spot Capacity SA](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa): Nasty Bar 14000 - Adjustable airflow control, dual mesh coils, 14000 puffs lasts 2-3 weeks. Perfect balance of capacity & price. Rechargeable USB-C. R210. Shop now!
-  Updated: 2026-01-29T10:46:32Z
+  Updated: 2026-02-05T13:15:52Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
@@ -868,14 +868,6 @@
   - [ARTIC MINT](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053394590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7010631.webp?v=1753082551
-    Price: R 210.00 ZAR
-  - [BERRY GRAPE](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053427358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-3374420.webp?v=1753082551
-    Price: R 210.00 ZAR
-  - [BLUE RAZZ ICE](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053460126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7082103.webp?v=1753082550
     Price: R 210.00 ZAR
   - [CARRIBEAN MANGO](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053492894)
     Availability: Available
@@ -885,12 +877,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-9468259.webp?v=1753082550
     Price: R 210.00 ZAR
+  - [COTTON CANDY (NEW)](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44509141008542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7415534.webp?v=1753082552
+    Price: R 210.00 ZAR
+  - [BERRY GRAPE](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053427358)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-3374420.webp?v=1753082551
+    Price: R 210.00 ZAR
+  - [BLUE RAZZ ICE](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053460126)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7082103.webp?v=1753082550
+    Price: R 210.00 ZAR
   - [DOUBLE WATERMELON](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053558430)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-5352542.webp?v=1753082550
     Price: R 210.00 ZAR
   - [PEACH ICE](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053591198)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-8135213.webp?v=1753082550
     Price: R 210.00 ZAR
   - [PINEAPPLE ICE](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44474053623966)
@@ -909,10 +913,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7415534.webp?v=1753082552
     Price: R 210.00 ZAR
-  - [COTTON CANDY (NEW)](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44509141008542)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7415534.webp?v=1753082552
-    Price: R 210.00 ZAR
   - [PEACH MIXED BERRIES (NEW)](https://www.coffeeandvape.co.za/products/nasty-bar-14000-vape-south-africa?variant=44509141041310)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7415534.webp?v=1753082552
@@ -926,7 +926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-14000coffee-and-vape-shop-south-africa-7415534.webp?v=1753082552
     Price: R 210.00 ZAR
 - [Oxbar GPrime 25000 Puffs Disposable Vape | R240 South Africa](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa): Oxbar GPrime 25K disposable vape with 25,000 puffs, dual mesh coils & LED display. Premium quality at R240. Authentic, rechargeable. Free SA delivery over R500!
-  Updated: 2026-01-29T15:41:22Z
+  Updated: 2026-02-05T19:42:43Z
   Vendor: OXBAR
   Product Type: Disposable Vapes
   Availability: Available
@@ -948,7 +948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/oxbar-gprime-25kcoffee-and-vape-shop-south-africa-6941745.png?v=1753082554
     Price: R 240.00 ZAR
   - [MIXED BERRIES](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=44247645814942)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/oxbar-gprime-25kcoffee-and-vape-shop-south-africa-3188821.png?v=1753082596
     Price: R 240.00 ZAR
   - [STRAWBERRY RASPBERRY 🍓🍇](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=44247674486942)
@@ -996,7 +996,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/oxbar-gprime-25kcoffee-and-vape-shop-south-africa-8363575.jpg?v=1753082595
     Price: R 240.00 ZAR
   - [FRUIT PUNCH](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=44770707341470)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/oxbar-gprime-25kcoffee-and-vape-shop-south-africa-3955104.jpg?v=1753082596
     Price: R 240.00 ZAR
   - [ICE COFFEE](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=44770707374238)
@@ -1028,7 +1028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/oxbar-gprime-25kcoffee-and-vape-shop-south-africa-4598038.png?v=1753082709
     Price: R 240.00 ZAR
   - [CHERRY LIME](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=45676685623454)
-    Availability: Available
+    Availability: Not Available
     Price: R 240.00 ZAR
   - [DRAGONFRUIT STRAWBERRY ICE](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=45676685656222)
     Availability: Available
@@ -1037,13 +1037,13 @@
     Availability: Available
     Price: R 240.00 ZAR
   - [PASSIONFRUIT STRAWBERRY GRAPE](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=45676685721758)
-    Availability: Available
+    Availability: Not Available
     Price: R 240.00 ZAR
   - [PEACH WATERMELON](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=45676685754526)
     Availability: Available
     Price: R 240.00 ZAR
   - [STRAWBERRY KIWI](https://www.coffeeandvape.co.za/products/oxbar-g-prime-25000-vape-price-r260-south-africa?variant=45676685787294)
-    Availability: Available
+    Availability: Not Available
     Price: R 240.00 ZAR
 - [Pop Hit 12000 - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/pop-hit-12000-puffs-disposable-vape-r250): Buy Pop Hit 12000 Puffs Disposable Vape for only ZAR200.00 at Coffee and Vape Shop South Africa!
   Updated: 2026-01-14T07:37:11Z
@@ -1221,7 +1221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-12000-miniblvkcoffee-and-vape-shop-south-africa-9561047.webp?v=1753082527
     Price: R 210.00 ZAR
 - [Nasty Bar X 14000 - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/nasty-bar-x-14000-vape-x-nic-formula-14-000-puffs): Buy Nasty Bar X 14000 Disposable Vape with X Nic Formula. 14,000 puffs, premium flavors, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:05:15Z
+  Updated: 2026-02-05T14:13:21Z
   Vendor: Nasty
   Product Type: nasty 14k x
   Availability: Available
@@ -1291,13 +1291,13 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-x-14000nasty-14k-xcoffee-and-vape-shop-south-africa-1564346.png?v=1753082592
     Price: R 210.00 ZAR
 - [AirsPops One Use 15ml - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt): Buy AirsPops One Use 15ml for only ZAR265.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T15:25:37Z
+  Updated: 2026-02-04T10:45:09Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-one-use-15mlcoffee-and-vape-shop-south-africa-5557866.jpg?v=1753082547
   - [AirsPops 15ml ICE WATERMELON](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=44541909336222)
-    Availability: Not Available
+    Availability: Available
     Price: R 270.00 ZAR
   - [AirsPops 15ml POPCORN](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=45508946428062)
     Availability: Available
@@ -1307,7 +1307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-one-use-15mlcoffee-and-vape-shop-south-africa-1506301.jpg?v=1753082546
     Price: R 270.00 ZAR
   - [AirsPops 15ml GUAVA](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=45508946329758)
-    Availability: Not Available
+    Availability: Available
     Price: R 270.00 ZAR
   - [AirsPops 15ml ZESTY LEMON](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=44541909500062)
     Availability: Available
@@ -1320,17 +1320,17 @@
     Availability: Available
     Price: R 270.00 ZAR
   - [AirsPops 15ml BUBBLEGUM](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=45508946264222)
-    Availability: Not Available
+    Availability: Available
     Price: R 270.00 ZAR
   - [AirsPops 15ml FREEZY GRAPE](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=45508946296990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-one-use-15mlcoffee-and-vape-shop-south-africa-9085109.jpg?v=1753082547
     Price: R 270.00 ZAR
   - [AirsPops 15ml LYCHEE RASPBERRY](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=45508946362526)
-    Availability: Not Available
+    Availability: Available
     Price: R 270.00 ZAR
   - [AirsPops 15ml PEACH ICE](https://www.coffeeandvape.co.za/products/airspops-one-use-xv-15ml-5-n-salt?variant=45508946395294)
-    Availability: Not Available
+    Availability: Available
     Price: R 270.00 ZAR
 - [Bargain Disposable Vapes Under R100 | Affordable Vapes | SA](https://www.coffeeandvape.co.za/products/black-friday-vape--disposable-vapes-under-r100): Buy bargain disposable vapes under R100 in South Africa. Affordable, quality vaping devices from top brands. Great value. Fast delivery at Coffee and Vape.
   Updated: 2026-01-29T13:47:24Z
@@ -1438,28 +1438,28 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/bargain-vapes-under-r100bargain-vapescoffee-and-vape-shop-south-africa-5294688.webp?v=1753082551
     Price: R 60.00 ZAR
 - [SMOK Nord GT Kit South Africa | 80W Pod Mod System - Coffee and Vape](https://www.coffeeandvape.co.za/products/smok-nord-gt-kit-unleash-power-style-and-customization): Buy SMOK Nord GT Kit in South Africa. 80W power, 2500mAh battery, customizable vaping. Fast delivery nationwide. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:05:42Z
+  Updated: 2026-02-03T11:16:05Z
   Vendor: SMOK
   Product Type: smok
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/smok-nord-gt-kit-unleash-power-style-and-customizationsmokcoffee-and-vape-shop-south-africa-9555504.jpg?v=1769150194
   - [SMOK Nord GT Kit Silver Carbon Fiber](https://www.coffeeandvape.co.za/products/smok-nord-gt-kit-unleash-power-style-and-customization?variant=44581112938654)
     Availability: Not Available
-    Price: R 680.00 ZAR
+    Price: R 580.00 ZAR
   - [SMOK Nord GT Kit Black Carbon Fiber](https://www.coffeeandvape.co.za/products/smok-nord-gt-kit-unleash-power-style-and-customization?variant=44581112971422)
     Availability: Available
-    Price: R 680.00 ZAR
+    Price: R 580.00 ZAR
   - [SMOK Nord GT Kit Cyan](https://www.coffeeandvape.co.za/products/smok-nord-gt-kit-unleash-power-style-and-customization?variant=45783316562078)
     Availability: Not Available
-    Price: R 680.00 ZAR
+    Price: R 580.00 ZAR
   - [SMOK Nord GT Kit Red Black](https://www.coffeeandvape.co.za/products/smok-nord-gt-kit-unleash-power-style-and-customization?variant=46178929803422)
     Availability: Available
-    Price: R 680.00 ZAR
+    Price: R 580.00 ZAR
   - [SMOK Nord GT Kit Blue Gradient](https://www.coffeeandvape.co.za/products/smok-nord-gt-kit-unleash-power-style-and-customization?variant=46178929836190)
     Availability: Available
-    Price: R 680.00 ZAR
+    Price: R 580.00 ZAR
 - [ATVS 30K Smart Chipset Vape | Multiple Modes | Bundle  | SA](https://www.coffeeandvape.co.za/products/atvs-warship-30-000-puffs-disposable-vape): ATVS 30K - Smart chipset with multiple vaping modes, 30000 puffs lasts 4 weeks. Rechargeable, dual mesh coils. Special bundle pricing available. Shop now!
-  Updated: 2026-01-29T14:02:14Z
+  Updated: 2026-02-03T07:45:57Z
   Vendor: ATVS
   Product Type: 
   Availability: Available
@@ -1517,46 +1517,46 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/atvs-30kcoffee-and-vape-shop-south-africa-9404019.webp?v=1753082550
     Price: R 300.00 ZAR
 - [Insta Bar 20k Puffs  - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape): Buy Insta Bar 20k Puffs Disposable Vape. 20,000 puffs, premium flavors, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:16:42Z
+  Updated: 2026-02-05T18:48:06Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: insta bar vape
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-4999982.webp?v=1753082521
-  - [Peach Mango Watermelon](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192161438)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-7656937.webp?v=1753082519
-    Price: R 190.00 ZAR
-  - [Coco Strawberry](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192194206)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-4669414.webp?v=1753082520
-    Price: R 190.00 ZAR
-  - [California Cherry](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192226974)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-6282914.webp?v=1753082519
-    Price: R 190.00 ZAR
   - [Tequila Sunrise](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192259742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-5291366.webp?v=1753082589
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
+  - [Peach Mango Watermelon](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192161438)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-7656937.webp?v=1753082519
+    Price: R 100.00 ZAR
+  - [Coco Strawberry](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192194206)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-4669414.webp?v=1753082520
+    Price: R 100.00 ZAR
+  - [California Cherry](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192226974)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-6282914.webp?v=1753082519
+    Price: R 100.00 ZAR
   - [Yummy Bear](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192292510)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-4999982.webp?v=1753082521
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
   - [Lemon Lime Ice](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=45508954488990)
     Availability: Not Available
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
   - [Chill Menthol](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192358046)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-6151929.webp?v=1753082590
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
   - [Blue Cotton Candy](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192390814)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-7201943.webp?v=1753082521
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
   - [Blueberry Raspberry Lemonade](https://www.coffeeandvape.co.za/products/insta-bar-wt-20000-puffs-disposable-vape?variant=44713192423582)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/insta-bar-20kinsta-bar-vapecoffee-and-vape-shop-south-africa-9902395.webp?v=1753082520
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
 - [SMOK Novo GT Box Pod Kit South Africa | Big Display Vape - Coffee and Vape](https://www.coffeeandvape.co.za/products/smok-novo-gt-box-pod-kit-vape-with-big-display): Buy SMOK Novo GT Box Pod Kit in South Africa. Large display, powerful performance, compact design. Only R595. Fast delivery. Shop Coffee and Vape SA.
   Updated: 2026-01-23T19:04:06Z
   Vendor: SMOK
@@ -1588,13 +1588,13 @@
     Availability: Available
     Price: R 550.00 ZAR
 - [ATVS 16K Puffs - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/atvs-16k-disposable-vape-16-000-puffs-of-ultimate-vaping-satisfaction): Buy ATVS 16K Puffs Disposable Vape. 16,000 puffs, premium quality, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:18:20Z
+  Updated: 2026-02-04T15:40:52Z
   Vendor: ATVS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/atvs-16kcoffee-and-vape-shop-south-africa-1243847.webp?v=1753082550
   - [Cherry Ice 🍒❄️](https://www.coffeeandvape.co.za/products/atvs-16k-disposable-vape-16-000-puffs-of-ultimate-vaping-satisfaction?variant=44733055697054)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/atvs-16kcoffee-and-vape-shop-south-africa-1243847.webp?v=1753082550
     Price: R 140.00 ZAR
   - [Cola Ice 🥤❄️](https://www.coffeeandvape.co.za/products/atvs-16k-disposable-vape-16-000-puffs-of-ultimate-vaping-satisfaction?variant=44733055729822)
@@ -1647,7 +1647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/atvs-16kcoffee-and-vape-shop-south-africa-1412349.webp?v=1753082550
     Price: R 140.00 ZAR
 - [DRAGON by Nasty 25000  - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/dragon-by-nasty-25000-k-puff-disposable-vape-5-nicotine): Buy DRAGON by Nasty 25000 Disposable Vape. 25,000 puffs, premium Nasty flavors, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:18:28Z
+  Updated: 2026-02-01T10:02:51Z
   Vendor: Nasty
   Product Type: DRG:ON 25000
   Availability: Available
@@ -1713,7 +1713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/dragon-by-nasty-25000drgon-25000coffee-and-vape-shop-south-africa-8840475.webp?v=1753082527
     Price: R 270.00 ZAR
 - [Elf Bar EW 9000 Kit - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/elf-bar-ew9000-detachable-disposable-pod-and-battery): Buy Elf Bar EW 9000 Kit Disposable Pod Kit. 9000 puffs, detachable design, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T15:50:42Z
+  Updated: 2026-02-05T11:59:15Z
   Vendor: ELFBAR
   Product Type: Elfbar
   Availability: Available
@@ -1754,7 +1754,7 @@
     Availability: Available
     Price: R 270.00 ZAR
 - [Elf Bar EW9000 Pod - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/elf-bar-ew9000-disposable-pods-5-nic-salt-9000-puffs-16ml-e-liquid): Buy Elf Bar EW9000 Pod Disposable Vape. 9000 puffs, 16ml e-liquid, 5% nic salt. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:19:38Z
+  Updated: 2026-02-05T07:36:01Z
   Vendor: ELFBAR
   Product Type: Elfbar
   Availability: Available
@@ -1797,10 +1797,10 @@
     Availability: Not Available
     Price: R 145.00 ZAR
   - [Mango (New)](https://www.coffeeandvape.co.za/products/elf-bar-ew9000-disposable-pods-5-nic-salt-9000-puffs-16ml-e-liquid?variant=45224162525342)
-    Availability: Available
+    Availability: Not Available
     Price: R 145.00 ZAR
 - [Elf Bar Ice King 25000 Puffs LCD Display | R290 South Africa](https://www.coffeeandvape.co.za/products/elfbar-ice-king-25000-puff-disposable-vape-25k-south-africa): Elf Bar Ice King 25000 with LCD display, dual mesh coils, 45min USB-C charging. Premium 25K puff disposable vape. Best price R290. Free delivery SA. Shop now!
-  Updated: 2026-01-28T13:24:32Z
+  Updated: 2026-02-05T10:11:25Z
   Vendor: ELFBAR
   Product Type: Disposable Vapes
   Availability: Available
@@ -1864,44 +1864,44 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/elf-bar-ice-king-25000-puff-disposable-vapeelfbarcoffee-and-vape-shop-south-africa-2277520.webp?v=1764086107
     Price: R 290.00 ZAR
-- [SVG 18 000 Puff Vape  - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology): Buy SVG 18,000 Puff Vape with smart technology. 18,000 puffs, innovative design. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:19:54Z
+- [SGV 18000 Puff Replacement Pod | Compatible with Bluetooth Vape](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology): SGV 18000 puff replacement pod for Bluetooth vape device. Multiple flavors available. Easy swap system, leak-resistant design. Authentic products with warranty. Battery sold separately.
+  Updated: 2026-02-05T18:57:58Z
   Vendor: SVG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-4548679.png?v=1753082519
-  - [🍋 CITRUS LEMONADE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538694302)
-    Availability: Available
+  - [CITRUS LEMONADE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538694302)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-2666384.png?v=1753082519
     Price: R 200.00 ZAR
-  - [🍑 JUICY PEACH APPLE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538727070)
+  - [JUICY PEACH APPLE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538727070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-5608702.png?v=1753082520
     Price: R 200.00 ZAR
-  - [🥭 JUICY TROPIC MANGO](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538759838)
+  - [JUICY PEACH](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45870616871070)
+    Availability: Available
+    Price: R 200.00 ZAR
+  - [JUICY TROPIC MANGO](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538759838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-6874691.png?v=1753082520
     Price: R 200.00 ZAR
-  - [🫐 BLUEBERRY RASPBERRY](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538792606)
+  - [BLUEBERRY RASPBERRY](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538792606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-5608702.png?v=1753082520
     Price: R 200.00 ZAR
-  - [🍉 WATERMELON ICE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538825374)
+  - [WATERMELON ICE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538825374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-1233795.png?v=1753082520
     Price: R 200.00 ZAR
-  - [🍇 GRAPE ICE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538858142)
+  - [GRAPE ICE](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45067538858142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-pod-18kcoffee-and-vape-shop-south-africa-9808957.png?v=1753082518
     Price: R 200.00 ZAR
-  - [🍇 GRAPE BERRY MIX](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45753167216798)
-    Availability: Available
-    Price: R 200.00 ZAR
-  - [🍑 JUICY PEACH](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45870616871070)
+  - [GRAPE BERRY MIX](https://www.coffeeandvape.co.za/products/svg-18-000-puff-smart-vape-new-technology?variant=45753167216798)
     Availability: Available
     Price: R 200.00 ZAR
 - [SGV Smart 850mAh Battery  - Coffee and Vape Shop SA](https://www.coffeeandvape.co.za/products/sgv-smart-battery-device): Buy SGV Smart 850mAh Battery with Type-C fast charging. Compatible with SVG pods. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:20:06Z
+  Updated: 2026-02-05T06:52:33Z
   Vendor: SVG
   Product Type: 
   Availability: Available
@@ -1915,7 +1915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sgv-smart-batterycoffee-and-vape-shop-south-africa-7699678.png?v=1753082707
     Price: R 200.00 ZAR
 - [Nexa Ultra 40000  - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/nexa-ultra-40000-disposable-coffee-and-vape): Nexa Ultra 40000 Disposable Vape - 40,000 puffs, premium quality, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:18:56Z
+  Updated: 2026-02-02T06:30:05Z
   Vendor: NEXA
   Product Type: 
   Availability: Available
@@ -1970,7 +1970,7 @@
     Availability: Not Available
     Price: R 340.00 ZAR
 - [Oxbar Gturbo 36K Turbo Mode Vape | Longest Lasting 36000 Puffs SA](https://www.coffeeandvape.co.za/products/oxbar-g-turbo-36000-puffs-disposable-vape): Buy Oxbar Gturbo 36K Disposable Vape. 36,000 puffs, premium quality, rechargeable. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:20:24Z
+  Updated: 2026-02-04T15:54:46Z
   Vendor: OXBAR
   Product Type: Oxbar 36K Gturbo
   Availability: Available
@@ -2052,7 +2052,7 @@
     Availability: Not Available
     Price: R 1,700.00 ZAR
 - [Smok Novo Pro Pod Kit - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/smok-novo-pro-pod-kit): Buy Smok Novo Pro Pod Kit with 300mAh battery. Compact, portable, reliable performance. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:21:02Z
+  Updated: 2026-01-30T02:22:09Z
   Vendor: SMOK
   Product Type: smok
   Availability: Available
@@ -2064,7 +2064,7 @@
     Availability: Not Available
     Price: R 500.00 ZAR
 - [SMOK Tech 247 Pod System Kit - Coffee and Vape](https://www.coffeeandvape.co.za/products/smok-tech-247-pod-system-kit): Buy SMOK Tech 247 Pod System Kit in South Africa. Reliable performance, easy to use. Authentic product at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:21:29Z
+  Updated: 2026-01-30T02:21:51Z
   Vendor: SMOK
   Product Type: MOD
   Availability: Available
@@ -2098,164 +2098,178 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Black_Leather_Smok_RPM_5_Pro_Pod_Vape_Kit__07984.jpg?v=1769240627
   Price: R 640.00 ZAR
 - [Mojito E-Liquid South Africa | Refreshing Mint Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/mojito): Buy Mojito e-liquid in South Africa. Refreshing mint and lime flavor, premium quality vape juice. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:07:02Z
+  Updated: 2026-02-05T18:00:07Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Mango Madness/100ml/6mg x4](https://www.coffeeandvape.co.za/products/mojito?variant=45321550758046)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/mo.webp?v=1770314369
+  - [Mango Madness 100ml 6mg -  ](https://www.coffeeandvape.co.za/products/mojito?variant=45321550758046)
     Availability: Available
-    Price: R 270.00 ZAR
-  - [Peach Juicy/100ml/6mg x4](https://www.coffeeandvape.co.za/products/mojito?variant=45321550790814)
+    Price: R 120.00 ZAR
+  - [Peach Juicy 100ml 6mg -  ](https://www.coffeeandvape.co.za/products/mojito?variant=45321550790814)
     Availability: Available
-    Price: R 270.00 ZAR
+    Price: R 120.00 ZAR
 - [SWIG E-Liquid South Africa | Premium Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/swig): Buy SWIG premium e-liquid in South Africa. Bold flavors, smooth vaping experience. Fast delivery nationwide. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:08:23Z
+  Updated: 2026-02-05T18:30:31Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/swig.jpg?v=1770316194
   - [Pineapple Soda/120ml/3mg](https://www.coffeeandvape.co.za/products/swig?variant=45321567207582)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
   - [Purple Soda/120ml/0mg](https://www.coffeeandvape.co.za/products/swig?variant=45321567240350)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
   - [Lime Sod a/120ml/0mg](https://www.coffeeandvape.co.za/products/swig?variant=45321567273118)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
 - [Malaysia E-Liquid South Africa | Exotic Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/malaysia): Buy Malaysia e-liquid in South Africa. Exotic tropical flavors, premium quality vape juice. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:08:34Z
+  Updated: 2026-02-05T17:56:52Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Coffee Tobacco/120ml/0mg](https://www.coffeeandvape.co.za/products/malaysia?variant=45321573859486)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/images_1_17e16e13-79a2-4449-819b-aa378d54eb5f.jpg?v=1770314160
+  - [Coffee Tobacco 120ml 0mg -  ](https://www.coffeeandvape.co.za/products/malaysia?variant=45321573859486)
     Availability: Available
-    Price: R 300.00 ZAR
-  - [Vanilla Custard Tobacco/120ml/0mg](https://www.coffeeandvape.co.za/products/malaysia?variant=45321573892254)
+    Price: R 120.00 ZAR
+  - [Vanilla Custard Tobacco 120ml 0mg -  ](https://www.coffeeandvape.co.za/products/malaysia?variant=45321573892254)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
 - [Juicy Mambo E-Liquid South Africa | Fruity Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/juicy-mambo): Buy Juicy Mambo e-liquid in South Africa. Juicy fruit blend, smooth vaping. Fast delivery nationwide. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:08:39Z
+  Updated: 2026-02-05T17:52:59Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Berries Jam/120ml/3mg](https://www.coffeeandvape.co.za/products/juicy-mambo?variant=45321580216478)
-    Availability: Not Available
-    Price: R 300.00 ZAR
-  - [Grape Berry/120/3mg](https://www.coffeeandvape.co.za/products/juicy-mambo?variant=45321580249246)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/images_d2a765a9-f326-4399-bce8-f179bd77e173.jpg?v=1770313972
+  - [Grape Berry/120/3mg -  ](https://www.coffeeandvape.co.za/products/juicy-mambo?variant=45321580249246)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
+  - [Berries Jam/120ml/3mg -  ](https://www.coffeeandvape.co.za/products/juicy-mambo?variant=45321580216478)
+    Availability: Not Available
+    Price: R 120.00 ZAR
 - [Nasty E-Liquid Collection South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/nasty): Shop premium Nasty e-liquids in South Africa. Wide range of flavors, 60ml bottles, authentic vape juice. Fast delivery at Coffee and Vape.
-  Updated: 2026-01-29T14:09:05Z
+  Updated: 2026-02-05T18:02:45Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
-  Price: R 270.00 ZAR
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/VanillaCuban100ml-550x550h.png?v=1770314547
+  Price: R 120.00 ZAR
 - [Sweet Spot E-Liquid South Africa | Dessert Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/sweet-spot): Buy Sweet Spot e-liquid in South Africa. Delicious dessert flavors, premium quality vape juice. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:09:11Z
+  Updated: 2026-02-05T18:28:19Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Bubblegum Bottles/120ml/6mg](https://www.coffeeandvape.co.za/products/sweet-spot?variant=45321588768926)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/spearmint-chews-100ml-eliquid-shortfills-by-sweet-spot-600x600-800x800.jpg?v=1770316042
+  - [Bubblegum Bottles 120ml 6mg](https://www.coffeeandvape.co.za/products/sweet-spot?variant=45321588768926)
     Availability: Available
-    Price: R 300.00 ZAR
-  - [Spearmint Chews/120ml/6mg](https://www.coffeeandvape.co.za/products/sweet-spot?variant=45321588801694)
+    Price: R 120.00 ZAR
+  - [Spearmint Chews 120ml 6mg](https://www.coffeeandvape.co.za/products/sweet-spot?variant=45321588801694)
     Availability: Available
-    Price: R 300.00 ZAR
-  - [Strawberry Laces/120/6mg](https://www.coffeeandvape.co.za/products/sweet-spot?variant=45321588834462)
+    Price: R 120.00 ZAR
+  - [Strawberry Laces 120ml 6mg](https://www.coffeeandvape.co.za/products/sweet-spot?variant=45321588834462)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
 - [Sluuurp E-Liquid South Africa | Slushie Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/sluuurp): Buy Sluuurp e-liquid in South Africa. Refreshing slushie flavors, premium quality vape juice. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:09:24Z
+  Updated: 2026-02-05T18:22:11Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  Price: R 300.00 ZAR
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/sluurp.jpg?v=1770315711
+  Price: R 120.00 ZAR
 - [Horny Flava E-Liquid South Africa | Premium Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/horny-flava): Buy Horny Flava e-liquid in South Africa. Bold, intense flavors, premium quality vape juice. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:09:40Z
+  Updated: 2026-02-05T18:47:10Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Mango/120ml/3mg](https://www.coffeeandvape.co.za/products/horny-flava?variant=45321605480606)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Pomberryby-HornyFlava.webp?v=1770317162
+  - [Mango 120ml 3mg](https://www.coffeeandvape.co.za/products/horny-flava?variant=45321605480606)
     Availability: Available
-    Price: R 300.00 ZAR
-  - [Pomberry/120ml/0mg](https://www.coffeeandvape.co.za/products/horny-flava?variant=45321605513374)
+    Price: R 120.00 ZAR
+  - [Pomberry 120ml 0mg](https://www.coffeeandvape.co.za/products/horny-flava?variant=45321605513374)
     Availability: Available
-    Price: R 300.00 ZAR
-  - [Red Apple/120ml/3mg](https://www.coffeeandvape.co.za/products/horny-flava?variant=45321605546142)
+    Price: R 120.00 ZAR
+  - [Red Apple 120ml 3mg](https://www.coffeeandvape.co.za/products/horny-flava?variant=45321605546142)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 120.00 ZAR
 - [The Fog Clown E-Liquid South Africa | Premium Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/the-fog-clown): Buy The Fog Clown e-liquid in South Africa. Unique flavors, smooth vaping experience, premium quality. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T14:09:59Z
+  Updated: 2026-02-05T18:32:29Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Strawberry kiwi/60ml/](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612492958)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/TheFogClownE-Liquids.jpg?v=1770316281
+  - [Strawberry Kiwi 60ml](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612492958)
     Availability: Available
-    Price: R 250.00 ZAR
-  - [Mixed Berry lemonade/60ml/](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612525726)
+    Price: R 80.00 ZAR
+  - [Mixed Berry Lemonade 60ml](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612525726)
     Availability: Available
-    Price: R 250.00 ZAR
-  - [Grape Aloe/60ml/](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612558494)
+    Price: R 80.00 ZAR
+  - [Grape Aloe 60ml](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612558494)
     Availability: Available
-    Price: R 250.00 ZAR
-  - [Blueberry Rook/30ml/](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612591262)
+    Price: R 80.00 ZAR
+  - [Blueberry Rook 30ml](https://www.coffeeandvape.co.za/products/the-fog-clown?variant=45321612591262)
     Availability: Available
-    Price: R 250.00 ZAR
+    Price: R 80.00 ZAR
 - [Acid E-Liquid South Africa | Sour Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/acid): Buy Acid e-liquid in South Africa. Tangy sour flavors, intense vaping experience. Only R230. Fast delivery nationwide. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T19:03:09Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Apple sour candy/?/0mg](https://www.coffeeandvape.co.za/products/acid?variant=45321619603614)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/acid_af967be6-1188-480e-909c-872805927eb0.webp?v=1770318184
+  - [Apple Sour Candy 0mg](https://www.coffeeandvape.co.za/products/acid?variant=45321619603614)
     Availability: Available
     Price: R 230.00 ZAR
-  - [Pineapple sour candy/?/0mg](https://www.coffeeandvape.co.za/products/acid?variant=45321619636382)
+  - [Pineapple Sour Candy 0mg](https://www.coffeeandvape.co.za/products/acid?variant=45321619636382)
     Availability: Available
     Price: R 230.00 ZAR
-  - [Watermelon sour candy/?/0mg](https://www.coffeeandvape.co.za/products/acid?variant=45321619669150)
+  - [Watermelon Sour Candy 0mg](https://www.coffeeandvape.co.za/products/acid?variant=45321619669150)
     Availability: Available
     Price: R 230.00 ZAR
 - [Throne Liquids E-Liquid South Africa | Premium Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/throne-liquids): Buy Throne Liquids e-liquid in South Africa. Royal flavors, premium quality vape juice. Only R250. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:34:43Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  Price: R 250.00 ZAR
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/The-Bastard-compressor_1024x1024_09a6b6a1-2b53-4ce6-9d97-74cad78871d0.webp?v=1770316432
+  Price: R 80.00 ZAR
 - [Bastard E-Liquid South Africa | Premium Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/bastard): Buy Bastard e-liquid in South Africa. Bold, rebellious flavors, premium quality vape juice. Only R250. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:53:11Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Vanilla Caramel Tobacco/60ml/3mg](https://www.coffeeandvape.co.za/products/bastard?variant=45321627795614)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/BastardE-Liquid.jpg?v=1770317501
+  - [Vanilla Caramel Tobacco 60ml 3mg](https://www.coffeeandvape.co.za/products/bastard?variant=45321627795614)
     Availability: Available
-    Price: R 250.00 ZAR
-  - [(Nic salts) vanilla Caramel Tobacco/30ml/35mg 50mg](https://www.coffeeandvape.co.za/products/bastard?variant=45321627828382)
+    Price: R 80.00 ZAR
+  - [(Nic salts) vanilla Caramel Tobacco 30ml 35mg](https://www.coffeeandvape.co.za/products/bastard?variant=45321627828382)
     Availability: Available
-    Price: R 250.00 ZAR
+    Price: R 80.00 ZAR
 - [Combat E-Liquid South Africa | Intense Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/osaka): Buy Combat e-liquid in South Africa. Intense, powerful flavors, premium quality vape juice. Only R250. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:17:49Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Orange/60ml/70vg](https://www.coffeeandvape.co.za/products/osaka?variant=45321632776350)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/osaka.webp?v=1770315400
+  - [Orange 60ml 70vg -  ](https://www.coffeeandvape.co.za/products/osaka?variant=45321632776350)
     Availability: Available
-    Price: R 250.00 ZAR
-  - [Grape/60ml/70vg](https://www.coffeeandvape.co.za/products/osaka?variant=45321632809118)
+    Price: R 80.00 ZAR
+  - [Grape 60ml 70vg -  ](https://www.coffeeandvape.co.za/products/osaka?variant=45321632809118)
     Availability: Available
-    Price: R 250.00 ZAR
+    Price: R 80.00 ZAR
 - [Buy combat | Coffee and Vape](https://www.coffeeandvape.co.za/products/combat): Get the combat in flavour. Shop Coffee and Vape South Africa.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:45:00Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Charlie Guava/60ml/3mg](https://www.coffeeandvape.co.za/products/combat?variant=45321634840734)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/combat.jpg?v=1770317041
+  - [Charlie Guava 60ml 3mg](https://www.coffeeandvape.co.za/products/combat?variant=45321634840734)
     Availability: Available
-    Price: R 250.00 ZAR
-  - [Yankee Apple/60ml/6mg](https://www.coffeeandvape.co.za/products/combat?variant=45321634873502)
+    Price: R 80.00 ZAR
+  - [Yankee Apple 60ml 6mg](https://www.coffeeandvape.co.za/products/combat?variant=45321634873502)
     Availability: Available
-    Price: R 250.00 ZAR
+    Price: R 80.00 ZAR
 - [Nasty Juice - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/nasty-juice): Buy Nasty Juice for only ZAR200.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-24T10:21:27Z
+  Updated: 2026-02-05T18:04:47Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
@@ -2269,12 +2283,12 @@
   - [Fat Boy/60ml/0mg](https://www.coffeeandvape.co.za/products/nasty-juice?variant=45321643131038)
     Availability: Not Available
     Price: R 200.00 ZAR
-  - [Devil Teeth/60ml/0mg](https://www.coffeeandvape.co.za/products/nasty-juice?variant=45321643163806)
+  - [Devil Teeth/60ml/0mg -  ](https://www.coffeeandvape.co.za/products/nasty-juice?variant=45321643163806)
     Availability: Available
-    Price: R 200.00 ZAR
-  - [Silver Blend/3mg](https://www.coffeeandvape.co.za/products/nasty-juice?variant=45321643196574)
+    Price: R 80.00 ZAR
+  - [Silver Blend/3mg -  ](https://www.coffeeandvape.co.za/products/nasty-juice?variant=45321643196574)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 80.00 ZAR
   - [Strawberry Milk 35mg/30ml NastyLiq Salt](https://www.coffeeandvape.co.za/products/nasty-juice?variant=45856620118174)
     Availability: Available
     Price: R 240.00 ZAR
@@ -2297,31 +2311,34 @@
     Availability: Available
     Price: R 240.00 ZAR
 - [Nasty Shisha E-Liquid South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/nasty-shisha): Buy Nasty Shisha flavored e-liquid in South Africa. Premium quality, authentic flavors, fast delivery. Shop Nasty Shisha vape juice at Coffee and Vape.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:07:59Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
-  Price: R 250.00 ZAR
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/DOUBLE-APPLE.webp?v=1770314856
+  Price: R 80.00 ZAR
 - [Cali Salt Nic E-Liquid South Africa | Nicotine Salt Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/cali-salt): Buy Cali Salt nicotine salt e-liquid in South Africa. Smooth nic salt vaping, premium flavors. Only R220. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:36:54Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  Price: R 220.00 ZAR
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/cali.jpg?v=1770316605
+  Price: R 80.00 ZAR
 - [Reckless E-Liquid South Africa | Bold Vape Juice - Coffee and Vape](https://www.coffeeandvape.co.za/products/reckless): Buy Reckless e-liquid in South Africa. Bold, daring flavors, premium quality vape juice. Only R270. Fast delivery nationwide. Shop Coffee and Vape SA.
-  Updated: 2026-01-14T07:37:14Z
+  Updated: 2026-02-05T18:20:32Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  - [Yolo Yellow/100ml/6mg](https://www.coffeeandvape.co.za/products/reckless?variant=45321653616798)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/rekless.webp?v=1770315627
+  - [Yolo Yellow 100ml 6mg](https://www.coffeeandvape.co.za/products/reckless?variant=45321653616798)
     Availability: Available
-    Price: R 270.00 ZAR
-  - [Reck it red/100ml/6mg](https://www.coffeeandvape.co.za/products/reckless?variant=45321653649566)
+    Price: R 100.00 ZAR
+  - [Reck It Red 100ml 6mg](https://www.coffeeandvape.co.za/products/reckless?variant=45321653649566)
     Availability: Available
-    Price: R 270.00 ZAR
-  - [Panic pink/100ml/3mg](https://www.coffeeandvape.co.za/products/reckless?variant=45321653682334)
+    Price: R 100.00 ZAR
+  - [Panic Pink 100ml 3mg](https://www.coffeeandvape.co.za/products/reckless?variant=45321653682334)
     Availability: Available
-    Price: R 270.00 ZAR
+    Price: R 100.00 ZAR
 - [Buy geek-vape | Coffee and Vape](https://www.coffeeandvape.co.za/products/geek-vape): Get the geek-vape in flavour. Shop Coffee and Vape South Africa.
   Updated: 2026-01-14T07:37:14Z
   Vendor: Coffee and Vape Shop South Africa
@@ -2413,7 +2430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/download_3_565e503a-5220-4152-ace3-14f2a442160c.jpg?v=1750619899
     Price: R 480.00 ZAR
 - [Oxbar Elite Kit 1300mAh 8ml Pod | 30W Adjustable Vape - Coffee and Vape](https://www.coffeeandvape.co.za/products/oxbar-elite-kit): Buy the Oxbar Elite Kit for R350.00. Features 1300mAh battery, 8ml refillable pod, 30W adjustable output, digital display. Authentic warranty. Shop Coffee and Vape SA!
-  Updated: 2026-01-27T07:51:43Z
+  Updated: 2026-01-31T08:11:25Z
   Vendor: OXBAR
   Product Type: 
   Availability: Available
@@ -2443,7 +2460,7 @@
     Availability: Available
     Price: R 250.00 ZAR
 - [NEXA N20000 Vape – (25W/12W) | 20,000 Puffs | Mesh Coil Only R185](https://www.coffeeandvape.co.za/products/dragbar-nexa-20000-puffs-disposable-pod-5-nic-salt): Experience next-level performance with the NEXA N20000, a powerful disposable vape designed for serious vapers. Featuring a dual mesh coil system, this device delivers smooth, consistent flavour and dense vapor clouds with every puff. What sets the NEXA apart is its dual-mode capability: switch to Turbo Mode at 25W for intense hits and maximum vapor production, or opt for Regular Mode at 12W for a more relaxed, battery-efficient experience.
-  Updated: 2026-01-14T07:37:15Z
+  Updated: 2026-02-03T09:00:51Z
   Vendor: NEXA
   Product Type: 
   Availability: Available
@@ -2514,10 +2531,11 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/golisi-battery-g25coffee-and-vape-shop-south-africa-8094244.jpg?v=1761926682
   Price: R 110.00 ZAR
 - [Buy international Vape Juice | Coffee and Vape](https://www.coffeeandvape.co.za/products/international): Get the international Vape in flavour. Shop Coffee and Vape South Africa.
-  Updated: 2026-01-14T07:37:15Z
+  Updated: 2026-02-05T18:39:13Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/yett.jpg?v=1770316711
   - [Ice Shot 20%|10ml](https://www.coffeeandvape.co.za/products/international?variant=45832796078238)
     Availability: Available
     Price: R 60.00 ZAR
@@ -2545,21 +2563,21 @@
   - [Yeti Summit Series - Mango Ice Salt/MTL Aroma 30ml](https://www.coffeeandvape.co.za/products/international?variant=45358466498718)
     Availability: Not Available
     Price: R 220.00 ZAR
-  - [DK - Pineapple Ice 30ml (Mix included)](https://www.coffeeandvape.co.za/products/international?variant=45832791326878)
+  - [DK - Pineapple Ice 30ml  -  ](https://www.coffeeandvape.co.za/products/international?variant=45832791326878)
     Availability: Available
-    Price: R 220.00 ZAR
-  - [DK - Dragon Razz 30ml (Mix included)](https://www.coffeeandvape.co.za/products/international?variant=45832791359646)
+    Price: R 100.00 ZAR
+  - [DK - Dragon Razz 30ml  -  ](https://www.coffeeandvape.co.za/products/international?variant=45832791359646)
     Availability: Available
-    Price: R 220.00 ZAR
-  - [DK - Delightful Lemon 30ml (Mix included)](https://www.coffeeandvape.co.za/products/international?variant=45832791392414)
+    Price: R 100.00 ZAR
+  - [DK - Delightful Lemon 30ml -  ](https://www.coffeeandvape.co.za/products/international?variant=45832791392414)
     Availability: Available
-    Price: R 220.00 ZAR
-  - [DK - Cherry Ice 30ml (Mix included)](https://www.coffeeandvape.co.za/products/international?variant=45832791425182)
+    Price: R 100.00 ZAR
+  - [DK - Cherry Ice 30ml  -  ](https://www.coffeeandvape.co.za/products/international?variant=45832791425182)
     Availability: Available
-    Price: R 220.00 ZAR
-  - [DK - Straw Kiwi Bubblegun 30ml (Mix included)](https://www.coffeeandvape.co.za/products/international?variant=45832791457950)
+    Price: R 100.00 ZAR
+  - [DK - Straw Kiwi Bubblegun 30ml -  ](https://www.coffeeandvape.co.za/products/international?variant=45832791457950)
     Availability: Not Available
-    Price: R 220.00 ZAR
+    Price: R 100.00 ZAR
   - [Zing Pop Memory Lane 30ml](https://www.coffeeandvape.co.za/products/international?variant=46302257152158)
     Availability: Available
     Price: R 120.00 ZAR
@@ -2591,25 +2609,25 @@
   Availability: Available
   Price: R 0.00 ZAR
 - [Buy airspops-pro-air-egg-pods | Coffee and Vape](https://www.coffeeandvape.co.za/products/airspops-pro-air-egg-pods): Get the airspops-pro-air-egg-pods in flavour. Shop Coffee and Vape South Africa.
-  Updated: 2026-01-23T19:39:56Z
+  Updated: 2026-02-05T19:00:47Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/freezy-grape-airscream-propro-liteairegg-prefilled-pods-2-pack-5-airscream-airspops-shop-buy-online-cape-town-joburg-durban-south-africa-delivery-559129.webp?v=1769153916
   - [Airscream Pre Filled Pod South Pole](https://www.coffeeandvape.co.za/products/airspops-pro-air-egg-pods?variant=45361836687518)
     Availability: Available
-    Price: R 70.00 ZAR
+    Price: R 50.00 ZAR
   - [Airscream Pre Filled Pod Mandarin Orange](https://www.coffeeandvape.co.za/products/airspops-pro-air-egg-pods?variant=45361836720286)
     Availability: Available
-    Price: R 70.00 ZAR
+    Price: R 50.00 ZAR
   - [Airscream Pre Filled Pod Mango Peach Guava](https://www.coffeeandvape.co.za/products/airspops-pro-air-egg-pods?variant=45361836753054)
     Availability: Not Available
-    Price: R 70.00 ZAR
+    Price: R 50.00 ZAR
   - [Airscream Pre Filled Pod Rich Mango](https://www.coffeeandvape.co.za/products/airspops-pro-air-egg-pods?variant=45361836785822)
     Availability: Not Available
-    Price: R 70.00 ZAR
+    Price: R 50.00 ZAR
 - [AirPops Salt Juice 30ml - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/airspops-juices-south-africa): Buy AirPops Salt Juice 30ml for only ZAR280.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T15:21:23Z
+  Updated: 2026-02-05T13:04:00Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
@@ -2695,7 +2713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airpops-313-salt-juice-30ml-smooth-flavourful-legendarycoffee-and-vape-shop-south-africa-7989323.jpg?v=1764086113
     Price: R 280.00 ZAR
 - [Airspops Kit + Pods - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/airspops-kit-pods): Buy Airspops Kit + Pods - Slim Pod Starter Kit for only ZAR70.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-28T07:58:17Z
+  Updated: 2026-02-04T10:43:55Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
@@ -2708,11 +2726,11 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-kit-podscoffee-and-vape-shop-south-africa-1046200.png?v=1769150121
     Price: R 450.00 ZAR
   - [Pro II Glossy Yellow Kit 1000mAh](https://www.coffeeandvape.co.za/products/airspops-kit-pods?variant=45534765777054)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-kit-podscoffee-and-vape-shop-south-africa-1046200.png?v=1769150121
     Price: R 450.00 ZAR
 - [Jack Parow Nicotine Pouches | 20 Pack | 3mg/6mg/10mg](https://www.coffeeandvape.co.za/products/jack-parow-nicotine-pouches): Jack Parow nicotine pouches with a refreshing cooling sensation. 20 pouches per tub. Available in 3mg, 6mg, 10mg with multiple flavour variants.
-  Updated: 2026-01-29T13:40:07Z
+  Updated: 2026-02-04T14:07:46Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -2731,7 +2749,7 @@
     Availability: Available
     Price: R 70.00 ZAR
 - [Nasty Bar DX1.2K - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/nasty-1200-puff-only-r120): Buy Nasty Bar DX1.2K Disposable Vape for only ZAR115.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T16:02:43Z
+  Updated: 2026-02-04T13:56:06Z
   Vendor: Nasty
   Product Type: nasty
   Availability: Available
@@ -2789,7 +2807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-dx12k-disposable-vapenastycoffee-and-vape-shop-south-africa-9774919.webp?v=1761844157
     Price: R 110.00 ZAR
 - [BLVK Nano Single Use Disposable Vape South Africa | Buy 2 For R120 - Coffee and Vape](https://www.coffeeandvape.co.za/products/blvk-nano-single-use): Buy BLVK Nano single use disposable vape in South Africa. Compact, flavorful, convenient. Special: Buy 2 for R120. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-23T16:10:11Z
+  Updated: 2026-02-05T19:05:21Z
   Vendor: BLVK
   Product Type: 
   Availability: Available
@@ -2825,7 +2843,7 @@
     Availability: Available
     Price: R 100.00 ZAR
 - [Zyn Nicotine Pouches - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/zyn-nicotine-pouches): Shop ZYN Nicotine Pouches in South Africa – 100% tobacco-free, discreet, long-lasting satisfaction. Multiple strengths & flavours. Coffee and Vape delivers.
-  Updated: 2026-01-29T11:21:23Z
+  Updated: 2026-02-05T19:05:21Z
   Vendor: SMOK
   Product Type: 
   Availability: Available
@@ -2876,7 +2894,7 @@
     Availability: Available
     Price: R 35.00 ZAR
 - [E-xhale 900 Puff Disposable Vape South Africa | Buy Online R95](https://www.coffeeandvape.co.za/products/e-xhale-900-puff-disposable-vape): Buy E-xhale 900 puff disposable vape in South Africa. Compact, affordable, great flavor. Authentic product. Fast delivery nationwide. Only R95 at Coffee and Vape.
-  Updated: 2026-01-29T15:21:27Z
+  Updated: 2026-02-05T19:42:41Z
   Vendor: E-XHALE
   Product Type: 
   Availability: Available
@@ -2938,7 +2956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-900-puff-disposable-vapecoffee-and-vape-shop-south-africa-9416774.webp?v=1762758379
     Price: R 95.00 ZAR
   - [E-xhale 900 Berry and mint](https://www.coffeeandvape.co.za/products/e-xhale-900-puff-disposable-vape?variant=46261327757470)
-    Availability: Not Available
+    Availability: Available
     Price: R 95.00 ZAR
   - [E-xhale 900 Brandy & Coke](https://www.coffeeandvape.co.za/products/e-xhale-900-puff-disposable-vape?variant=45780823572638)
     Availability: Not Available
@@ -2955,7 +2973,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-900-puff-disposable-vapecoffee-and-vape-shop-south-africa-9304222.webp?v=1762758393
     Price: R 85.00 ZAR
 - [E-xhale 2000 Puff Disposable Vape SA | R150 Fast Delivery | Best Price](https://www.coffeeandvape.co.za/products/e-xhale-2000-puff-disposable-vape): E-xhale 2000 Puff - Premium disposable vape with rich flavour & smooth draw. Only R150 with fast SA delivery. Authentic products. Order now!
-  Updated: 2026-01-29T14:10:22Z
+  Updated: 2026-02-05T07:45:46Z
   Vendor: E-XHALE
   Product Type: Disposable Vapes
   Availability: Available
@@ -2981,13 +2999,13 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-2000-puff-disposable-vapecoffee-and-vape-shop-south-africa-9780613.webp?v=1762758377
     Price: R 150.00 ZAR
 - [E-xhale Juice Kloud 20K Rechargeable Disposable Vape South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/e-xhale-juice-kloud-20k-rechargeable-disposable-vape): Buy E-xhale Juice Kloud 20K rechargeable disposable vape in South Africa. 20,000 puffs, rechargeable. Only R260. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T07:31:21Z
+  Updated: 2026-02-04T10:28:10Z
   Vendor: E-XHALE
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-juice-kloud-20kcoffee-and-vape-shop-south-africa-8700488.png?v=1753082736
   - [JK20 Peach Mixed Berries](https://www.coffeeandvape.co.za/products/e-xhale-juice-kloud-20k-rechargeable-disposable-vape?variant=45508806344862)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-juice-kloud-20k-rechargeable-disposable-vapecoffee-and-vape-shop-south-africa-9311295.webp?v=1762758379
     Price: R 260.00 ZAR
   - [JK20 Kiwi Mango Pineapple](https://www.coffeeandvape.co.za/products/e-xhale-juice-kloud-20k-rechargeable-disposable-vape?variant=45508806377630)
@@ -3007,7 +3025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-juice-kloud-20k-rechargeable-disposable-vapecoffee-and-vape-shop-south-africa-5303273.webp?v=1762758379
     Price: R 260.00 ZAR
   - [JK20 Raspberry Lychee](https://www.coffeeandvape.co.za/products/e-xhale-juice-kloud-20k-rechargeable-disposable-vape?variant=45508806508702)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-juice-kloud-20k-rechargeable-disposable-vapecoffee-and-vape-shop-south-africa-4960977.webp?v=1762758379
     Price: R 260.00 ZAR
   - [JK20 Berry Grape](https://www.coffeeandvape.co.za/products/e-xhale-juice-kloud-20k-rechargeable-disposable-vape?variant=45508806541470)
@@ -3019,11 +3037,11 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-juice-kloud-20k-rechargeable-disposable-vapecoffee-and-vape-shop-south-africa-8782397.webp?v=1762758379
     Price: R 260.00 ZAR
   - [JK20 Lemon Lime](https://www.coffeeandvape.co.za/products/e-xhale-juice-kloud-20k-rechargeable-disposable-vape?variant=45993053618334)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-juice-kloud-20k-rechargeable-disposable-vapecoffee-and-vape-shop-south-africa-5546515.webp?v=1762758378
     Price: R 260.00 ZAR
 - [COFFEE](https://www.coffeeandvape.co.za/products/coffee): /* =========================== Product Spotlight (scoped) =========================== */ .product-spotlight { --brand: #f734b4; --brand-ink: #9c1f7a; --ink: #1f2937; --muted: #6b7280; --bg: #ffffff; --bg-soft: #fff2f9; --border: #e5e7eb; --radius: 14px; --shadow: 0 6px 24px rgba(17, 24, 39, 0.08); box-sizing: border-box; max-width: 960px; margin: 0 auto 28px; padding: clamp(16px, 2.5vw, 28px); background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; color: var(--ink); line-height: 1.55; } .product-spotlight * { box-sizing: border-box; } /* Header */ .product-spotlight__header { text-align: center; margin-bottom: clamp(16px, 2.2vw, 24px); } .product-spotlight__title { margin: 0 0 6px; font-weight: 800; letter-spacing: 0.2px; font-size: clamp(1.5rem, 1.2rem + 1.2vw, 2rem); color: var(--brand-ink); } /* Callout */ .product-spotlight__callout { margin: 18px 0 10px; padding: 14px 16px; border-left: 4px solid var(--brand); background: var(--bg-soft); border-radius: 8px; font-size: clamp(0.98rem, 0.95rem + 0.2vw, 1.05rem); font-weight: 700; } /* Body */ .product-spotlight__body p { margin: 12px 0 0; font-size: clamp(0.98rem, 0.95rem + 0.2vw, 1.05rem); } /* Section titles */ .product-spotlight__section { margin-top: clamp(18px, 2.5vw, 28px); } .product-spotlight__section-title { margin: 0 0 10px; font-size: clamp(1.05rem, 1rem + 0.4vw, 1.2rem); color: var(--brand-ink); } /* Lists */ .product-spotlight__list { margin: 0; padding-left: 1.1rem; font-size: clamp(0.98rem, 0.95rem + 0.2vw, 1.05rem); } .product-spotlight__list li + li { margin-top: 6px; } /* CTA */ .product-spotlight__cta { text-align: center; margin: clamp(20px, 2.5vw, 32px) 0; } .button { --btn-pad-y: 12px; --btn-pad-x: 22px; display: inline-block; padding: var(--btn-pad-y) var(--btn-pad-x); border-radius: 999px; font-weight: 800; text-decoration: none; transition: transform 120ms ease, box-shadow 120ms ease, background-color 120ms ease; outline: none; } .button--primary { background: var(--brand); color: #fff; box-shadow: 0 8px 24px rgba(247, 52, 180, 0.3); } .button--primary:hover { transform: translateY(-1px); box-shadow: 0 12px 30px rgba(247, 52, 180, 0.35); } .button--primary:focus-visible { box-shadow: 0 0 0 3px #fff, 0 0 0 6px rgba(247, 52, 180, 0.6); } /* Footer */ .product-spotlight__footer { border-top: 1px solid var(--border); padding-top: 14px; } .product-spotlight__disclaimer { margin: 0; color: var(--muted); font-size: 0.9rem; } /* Image */ .product-spotlight__image { display: block; max-width: 100%; height: auto; border-radius: 8px; margin-inline: auto; } /* Reduce motion */ @media (prefers-reduced-motion: reduce) { .button { transition: none; } .button--primary:hover { transform: none; box-shadow: 0 8px 24px rgba(247, 52, 180, 0.3); } } COFFEE — Barista-Inspired E-Liquids Espresso • Cappuccino • Latte blends • Smooth creamy notes • Crafted for coffee lovers who vape. COFFEE e-liquids bring café classics to your tank, delivering barista-inspired flavour profiles with silky, creamy undertones. Perfect for pairing with your morning routine—or any time you crave a rich, roasted pick-me-up. Flavor / Features Espresso, cappuccino, and latte-style blends Smooth, creamy notes for a café-like finish Balanced sweetness designed for all-day vaping Coffee Menu Medium Americano — R20.00 Large Americano — R30.00 Medium Cappuccino — R25.00 Large Cappuccino — R35.00 Medium Latte — R25.00 Large Latte — R35.00 Medium Hot Chocolate — R25.00 Large Hot Chocolate — R35.00 Why Vapers Love It The perfect crossover for coffee lovers—satisfying, aromatic, and comforting, with a refined roasted profile. Product Image SHOP COFFEE E-LIQUIDS WARNING: This product may contain nicotine. Nicotine is addictive. Not for  to persons under 18.
-  Updated: 2026-01-21T08:58:07Z
+  Updated: 2026-02-04T10:28:11Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -3084,7 +3102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Voopoo_Kit_Coils-Argus_series.png?v=1759497617
   Price: R 700.00 ZAR
 - [Wotofo nexPOD Refillo Kit 1000mAh + 15ml Prime Dispo Juice | SA](https://www.coffeeandvape.co.za/products/wotofo-x-prime-refillo-starter-kit): Wotofo nexPOD Refillo Kit with 1000mAh fast-charging battery, 0.6Ω nexMESH pod, adjustable airflow, leak-proof design. Includes 15ml Prime Dispo juice. Refillable & rechargeable. Shop at Coffee and Vape SA.
-  Updated: 2026-01-29T15:00:51Z
+  Updated: 2026-02-05T13:20:12Z
   Vendor: WOTOFO
   Product Type: bargain vapes
   Availability: Available
@@ -3094,7 +3112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/wotofo-x-prime-refillo-starter-kit-15ml-vape-juice-free-coilsbargain-vapescoffee-and-vape-shop-south-africa-7304047.webp?v=1753082519
     Price: R 250.00 ZAR
   - [Wotofo X Prime - Juicy Peach](https://www.coffeeandvape.co.za/products/wotofo-x-prime-refillo-starter-kit?variant=45558626189470)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/wotofo-x-prime-refillo-starter-kit-15ml-vape-juice-free-coilsbargain-vapescoffee-and-vape-shop-south-africa-2702198.webp?v=1753082521
     Price: R 250.00 ZAR
   - [Wotofo X Prime  - Watermelon Ice](https://www.coffeeandvape.co.za/products/wotofo-x-prime-refillo-starter-kit?variant=45558626222238)
@@ -3102,7 +3120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/wotofo-x-prime-refillo-starter-kit-15ml-vape-juice-free-coilsbargain-vapescoffee-and-vape-shop-south-africa-1225640.webp?v=1753082520
     Price: R 250.00 ZAR
   - [Wotofo X Prime - Sakura Grape](https://www.coffeeandvape.co.za/products/wotofo-x-prime-refillo-starter-kit?variant=45871784820894)
-    Availability: Not Available
+    Availability: Available
     Price: R 250.00 ZAR
   - [Wotofo X Prime - Pineapple Ice](https://www.coffeeandvape.co.za/products/wotofo-x-prime-refillo-starter-kit?variant=45558626255006)
     Availability: Available
@@ -3151,7 +3169,7 @@
     Availability: Available
     Price: R 450.00 ZAR
 - [Uwell Caliburn G4 Mini Pod Kit + Coil](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-mini-pod-kit): Get the Uwell Caliburn G4 Mini Pod Kit + spare coil at Coffee & Vape. USB-C, great MTL flavour. Nationwide delivery & free shipping on orders over R1500.
-  Updated: 2026-01-26T07:07:17Z
+  Updated: 2026-02-01T09:27:12Z
   Vendor: UWELL
   Product Type: 
   Availability: Available
@@ -3169,16 +3187,16 @@
     Availability: Available
     Price: R 350.00 ZAR
   - [Caliburn G4 Mini Phoenix Purple](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-mini-pod-kit?variant=45558983852190)
-    Availability: Not Available
+    Availability: Available
     Price: R 350.00 ZAR
   - [Caliburn G4 Mini Light Silver](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-mini-pod-kit?variant=45680105357470)
     Availability: Available
     Price: R 350.00 ZAR
   - [Caliburn G4 Mini Slate Grey](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-mini-pod-kit?variant=45680105390238)
-    Availability: Not Available
+    Availability: Available
     Price: R 350.00 ZAR
 - [Coffee and Vape House Juices 30 mg Nic Salts 100 ml](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts): Buy Coffee and Vape House Juices 30 mg Nic Salts 100 ml  for only ZAR350.00 only at Coffee and Vape!
-  Updated: 2026-01-29T14:27:57Z
+  Updated: 2026-02-05T17:43:02Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -3199,10 +3217,10 @@
     Availability: Available
     Price: R 330.00 ZAR
   - [Cherry Fizz-pop](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565855858846)
-    Availability: Available
+    Availability: Not Available
     Price: R 330.00 ZAR
   - [Cookies & Cream](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565855891614)
-    Availability: Available
+    Availability: Not Available
     Price: R 330.00 ZAR
   - [Lime Freeze](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565855924382)
     Availability: Not Available
@@ -3213,21 +3231,21 @@
   - [Layered Crisp Mint](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565855989918)
     Availability: Available
     Price: R 330.00 ZAR
-  - [Cloudy Pure Vanilla](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856022686)
+  - [Cloudy Pure Vanilla -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856022686)
     Availability: Available
-    Price: R 330.00 ZAR
+    Price: R 270.00 ZAR
   - [Tennis Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856055454)
     Availability: Available
     Price: R 330.00 ZAR
-  - [Toffee Apple](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856088222)
+  - [Toffee Apple -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856088222)
     Availability: Available
-    Price: R 330.00 ZAR
+    Price: R 270.00 ZAR
   - [Frost Melon](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856120990)
     Availability: Available
     Price: R 330.00 ZAR
-  - [Zoo Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856153758)
+  - [Zoo Biscuit -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45565856153758)
     Availability: Available
-    Price: R 330.00 ZAR
+    Price: R 270.00 ZAR
   - [Pure Menthol](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45679798714526)
     Availability: Available
     Price: R 330.00 ZAR
@@ -3265,7 +3283,7 @@
     Availability: Available
     Price: R 350.00 ZAR
   - [Icy Litchi](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45872209297566)
-    Availability: Available
+    Availability: Not Available
     Price: R 350.00 ZAR
   - [Icy Raspberry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=45872209952926)
     Availability: Available
@@ -3289,7 +3307,7 @@
     Availability: Available
     Price: R 350.00 ZAR
   - [Strawberry Ice](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=46210003927198)
-    Availability: Available
+    Availability: Not Available
     Price: R 350.00 ZAR
   - [Green Monster](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30-mg-nic-salts?variant=46212493967518)
     Availability: Available
@@ -3304,16 +3322,16 @@
     Availability: Available
     Price: R 330.00 ZAR
 - [Coffee and Vape House Juices 30mg Nic Salts 30ml South Africa](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml): Buy Coffee and Vape house brand nic salt e-liquid 30mg 30ml in South Africa. Premium quality, multiple flavors. Only R200. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T09:02:53Z
+  Updated: 2026-02-05T17:43:40Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/cv-house-juices-30-mg-nic-salts-30-ml-coffee-and-vape-shop-south-africa-8766502.jpg?v=1753082709
   - [American Tobacco](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008688798)
-    Availability: Available
+    Availability: Not Available
     Price: R 180.00 ZAR
   - [Ice Berries](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008721566)
-    Availability: Available
+    Availability: Not Available
     Price: R 180.00 ZAR
   - [Icy Black Cherry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008754334)
     Availability: Not Available
@@ -3322,7 +3340,7 @@
     Availability: Available
     Price: R 180.00 ZAR
   - [Icy Blueberry Mango](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008819870)
-    Availability: Not Available
+    Availability: Available
     Price: R 180.00 ZAR
   - [Cherry Fizz-pop](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008852638)
     Availability: Available
@@ -3336,9 +3354,9 @@
   - [Icy Mango](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008950942)
     Availability: Available
     Price: R 180.00 ZAR
-  - [Layered Crisp Mint](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008983710)
+  - [Layered Crisp Mint -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566008983710)
     Availability: Available
-    Price: R 180.00 ZAR
+    Price: R 100.00 ZAR
   - [Cloudy Pure Vanilla](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45566009016478)
     Availability: Available
     Price: R 180.00 ZAR
@@ -3355,7 +3373,7 @@
     Availability: Available
     Price: R 180.00 ZAR
   - [Black Cherry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45615166455966)
-    Availability: Available
+    Availability: Not Available
     Price: R 180.00 ZAR
   - [Pure Menthol](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=45679799566494)
     Availability: Not Available
@@ -3438,14 +3456,14 @@
   - [Guarana](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=46302328586398)
     Availability: Available
     Price: R 180.00 ZAR
-  - [Blueberry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=46321012572318)
+  - [Blueberry -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=46321012572318)
     Availability: Available
-    Price: R 180.00 ZAR
+    Price: R 100.00 ZAR
   - [Blueberry Ice](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-30mg-nic-salts-30ml?variant=46321012605086)
     Availability: Available
     Price: R 180.00 ZAR
 - [Coffee and Vape House Juices 50mg Nic Salts 100ml South Africa](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml): Buy Coffee and Vape house brand nic salt e-liquid 50mg 100ml in South Africa. Strong nicotine, great value. Only R350. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T12:03:06Z
+  Updated: 2026-02-05T17:45:27Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -3483,20 +3501,20 @@
   - [Cloudy Pure Vanilla](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012850334)
     Availability: Available
     Price: R 350.00 ZAR
-  - [Tennis Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012883102)
+  - [Tennis Biscuit -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012883102)
     Availability: Available
-    Price: R 350.00 ZAR
+    Price: R 270.00 ZAR
   - [Toffee Apple](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012915870)
     Availability: Available
     Price: R 350.00 ZAR
-  - [Frost Melon](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012948638)
+  - [Frost Melon -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012948638)
     Availability: Available
-    Price: R 350.00 ZAR
-  - [Zoo Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012981406)
+    Price: R 270.00 ZAR
+  - [Zoo Biscuit -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45566012981406)
     Availability: Available
-    Price: R 350.00 ZAR
+    Price: R 270.00 ZAR
   - [Black Cherry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45615173533854)
-    Availability: Available
+    Availability: Not Available
     Price: R 350.00 ZAR
   - [Pure Menthol](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45679800156318)
     Availability: Available
@@ -3511,11 +3529,11 @@
     Availability: Available
     Price: R 350.00 ZAR
   - [Raspberry Litchi](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45725331194014)
-    Availability: Available
+    Availability: Not Available
     Price: R 350.00 ZAR
-  - [Strawberry Cheesecake](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45725331226782)
+  - [Strawberry Cheesecake -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45725331226782)
     Availability: Available
-    Price: R 350.00 ZAR
+    Price: R 270.00 ZAR
   - [Strawberry Milkshake](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-100ml?variant=45725331259550)
     Availability: Available
     Price: R 350.00 ZAR
@@ -3559,7 +3577,7 @@
     Availability: Not Available
     Price: R 350.00 ZAR
 - [Coffee and Vape House Juices 50mg Nic Salts 30ml South Africa](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml): Buy Coffee and Vape house brand nic salt e-liquid 50mg 30ml in South Africa. Strong nicotine, premium quality. Only R200. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T20:31:12Z
+  Updated: 2026-02-05T17:44:08Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -3571,7 +3589,7 @@
     Availability: Available
     Price: R 190.00 ZAR
   - [Icy Black Cherry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014193822)
-    Availability: Available
+    Availability: Not Available
     Price: R 190.00 ZAR
   - [Icy Blackcurrant Litchi](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014226590)
     Availability: Available
@@ -3597,14 +3615,14 @@
   - [Cloudy Pure Vanilla](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014455966)
     Availability: Available
     Price: R 190.00 ZAR
-  - [Tennis Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014488734)
+  - [Tennis Biscuit -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014488734)
     Availability: Available
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
   - [Toffee Apple](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014521502)
     Availability: Available
     Price: R 190.00 ZAR
   - [Frost Melon](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014554270)
-    Availability: Available
+    Availability: Not Available
     Price: R 190.00 ZAR
   - [Zoo Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45566014587038)
     Availability: Available
@@ -3616,7 +3634,7 @@
     Availability: Not Available
     Price: R 190.00 ZAR
   - [Mint Imperial](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45725330768030)
-    Availability: Available
+    Availability: Not Available
     Price: R 190.00 ZAR
   - [Naartjie](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45725330800798)
     Availability: Available
@@ -3627,9 +3645,9 @@
   - [Raspberry Litchi](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45725330866334)
     Availability: Available
     Price: R 190.00 ZAR
-  - [Strawberry Cheesecake](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45725330899102)
+  - [Strawberry Cheesecake -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45725330899102)
     Availability: Available
-    Price: R 190.00 ZAR
+    Price: R 100.00 ZAR
   - [Strawberry Milkshake](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=45725330931870)
     Availability: Available
     Price: R 190.00 ZAR
@@ -3652,7 +3670,7 @@
     Availability: Available
     Price: R 190.00 ZAR
   - [Icy Mango Peach](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=46013031776414)
-    Availability: Available
+    Availability: Not Available
     Price: R 190.00 ZAR
   - [Icy Sour Mango](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=46013031809182)
     Availability: Available
@@ -3670,7 +3688,7 @@
     Availability: Available
     Price: R 190.00 ZAR
   - [Green Monster](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=46212494327966)
-    Availability: Not Available
+    Availability: Available
     Price: R 190.00 ZAR
   - [Guarana](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-50mg-nic-salts-30ml?variant=46302328684702)
     Availability: Available
@@ -3682,7 +3700,7 @@
     Availability: Available
     Price: R 190.00 ZAR
 - [C&V House Juices Free Base 6mg 120ml | Premium E-Liquid | SA](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-6mg-120ml): Shop C&V House Juices Free Base 6mg 120ml in South Africa. Premium in-house e-liquid, sub-ohm optimized, high VG. Perfect balance. R200. Fast delivery.
-  Updated: 2026-01-28T09:09:32Z
+  Updated: 2026-02-05T08:02:55Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: E-Liquid
   Availability: Available
@@ -3691,7 +3709,7 @@
     Availability: Available
     Price: R 200.00 ZAR
   - [Ice Berries](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-6mg-120ml?variant=45566017568926)
-    Availability: Available
+    Availability: Not Available
     Price: R 200.00 ZAR
   - [Icy Black Cherry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-6mg-120ml?variant=45566017601694)
     Availability: Available
@@ -3733,7 +3751,7 @@
     Availability: Not Available
     Price: R 200.00 ZAR
 - [C&V Cold Drinks](https://www.coffeeandvape.co.za/products/c-v-cold-drinks)
-  Updated: 2026-01-29T16:02:43Z
+  Updated: 2026-02-05T15:29:27Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
@@ -3754,10 +3772,10 @@
     Availability: Available
     Price: R 8.00 ZAR
   - [DRAGON ICED FRUIT 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46065143054494)
-    Availability: Available
+    Availability: Not Available
     Price: R 10.00 ZAR
   - [DRAGON  BERRIES EXTREME 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46065143087262)
-    Availability: Available
+    Availability: Not Available
     Price: R 10.00 ZAR
   - [DRAGON PEACH NUT 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46065143120030)
     Availability: Not Available
@@ -3766,7 +3784,7 @@
     Availability: Available
     Price: R 10.00 ZAR
   - [DRAGON FRUIT FUSION & BUBBLEGUM 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46065142792350)
-    Availability: Available
+    Availability: Not Available
     Price: R 10.00 ZAR
   - [DRAGON VITAMIN C 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=45600748306590)
     Availability: Available
@@ -3805,13 +3823,13 @@
     Availability: Available
     Price: R 10.00 ZAR
   - [KINGSLEY CHERRY COLA 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46065144823966)
-    Availability: Available
+    Availability: Not Available
     Price: R 10.00 ZAR
   - [KINGSLEY GINGER BEER 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=45600750272670)
     Availability: Available
     Price: R 10.00 ZAR
   - [KINGLSEY COLA  Cap 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=45600750305438)
-    Availability: Available
+    Availability: Not Available
     Price: R 10.00 ZAR
   - [KINGSLEY GRANADILLA 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46065144758430)
     Availability: Available
@@ -3886,7 +3904,7 @@
     Availability: Not Available
     Price: R 10.00 ZAR
   - [MONSTER GREEN 500ML](https://www.coffeeandvape.co.za/products/c-v-cold-drinks?variant=46169056903326)
-    Availability: Available
+    Availability: Not Available
     Price: R 20.00 ZAR
 - [VOOPOO Drag 5 177W - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/voopoo-drag-5-177w-box-mod-kit): Buy the VOOPOO Drag 5 177W for only ZAR1,470.00 at Coffee and Vape Shop South Africa!
   Updated: 2026-01-23T21:22:06Z
@@ -3906,13 +3924,13 @@
     Availability: Available
     Price: R 1,470.00 ZAR
 - [ARC DC16000 Rechargeable Disposable Vape South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape): Buy ARC DC16000 rechargeable disposable vape in South Africa. 16,000 puffs, great flavor. Only R159. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T13:48:51Z
+  Updated: 2026-02-05T14:39:17Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: bargain vapes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/arc-dc16000bargain-vapescoffee-and-vape-shop-south-africa-2617994.webp?v=1753082524
   - [Cherry Lemon](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape?variant=45615517008030)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/arc-dc16000bargain-vapescoffee-and-vape-shop-south-africa-3402377.webp?v=1753082524
     Price: R 140.00 ZAR
   - [Pink Lemonade](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape?variant=45615517040798)
@@ -3936,7 +3954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/arc-dc16000bargain-vapescoffee-and-vape-shop-south-africa-3402377.webp?v=1753082524
     Price: R 140.00 ZAR
   - [Kiwi Bubble Gum](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape?variant=46118994641054)
-    Availability: Available
+    Availability: Not Available
     Price: R 140.00 ZAR
   - [Cherry Strawberry  Kiwi](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape?variant=46118994673822)
     Availability: Available
@@ -3945,7 +3963,7 @@
     Availability: Available
     Price: R 140.00 ZAR
   - [Blueberry Watermelon](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape?variant=46118994739358)
-    Availability: Available
+    Availability: Not Available
     Price: R 140.00 ZAR
   - [Strawberry Dragon Fruit](https://www.coffeeandvape.co.za/products/arc-dc16000-rechargeable-disposable-vape?variant=46118994772126)
     Availability: Available
@@ -4010,7 +4028,7 @@
     Availability: Available
     Price: R 300.00 ZAR
 - [AirsPops One Use 3ml 0% Nicotine Disposable Vape South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/airspops-one-use-3ml-0-nicotine-disposable-vape): The AirsPops One Use 3ml 0% Nicotine Disposable Vape offers smooth flavor, no nicotine and simple one-time use. Compact, leak-free, perfect for casual vaping.
-  Updated: 2026-01-29T08:03:38Z
+  Updated: 2026-02-05T07:46:36Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
@@ -4052,16 +4070,16 @@
     Availability: Available
     Price: R 110.00 ZAR
 - [Nasty 55K Surge Disposable Vape | 55,000 Puffs | Dual Mode | Buy SA](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape): Shop Nasty 55K Surge - 55,000 puffs, dual mesh coil, ECO & TURBO modes, 30ml capacity, USB-C rechargeable. Premium disposable vape. Fast delivery South Africa.
-  Updated: 2026-01-29T20:31:16Z
+  Updated: 2026-02-05T19:26:08Z
   Vendor: Nasty
   Product Type: Disposable Vapes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7637409.webp?v=1753082523
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-8404910.png?v=1770211155
   - [Durban Drift - Sunshine Punch Ice (NEW)](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=46162574180510)
     Availability: Available
     Price: R 300.00 ZAR
   - [Jozi Frost - Raspberry Slush Ice (NEW)](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=46162574213278)
-    Availability: Not Available
+    Availability: Available
     Price: R 300.00 ZAR
   - [Mzansi Mist - Tropical Punch Ice (NEW)](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=46162574278814)
     Availability: Available
@@ -4074,27 +4092,27 @@
     Price: R 300.00 ZAR
   - [Wiks - Rootbeer Bubblegum](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993864862)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-1395666.png?v=1753082522
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-1395666.png?v=1770212711
     Price: R 300.00 ZAR
   - [Berry Bling - Berry Grape](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993438878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-2421499.png?v=1753082522
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-2421499.png?v=1770211247
     Price: R 300.00 ZAR
   - [Riptide - Blackcurrant](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993471646)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7092603.png?v=1753082551
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7092603.png?v=1770211676
     Price: R 300.00 ZAR
   - [Lemz 'n Drip - Blue Raspberry Lemonade](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993504414)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-3413275.png?v=1753082522
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-3413275.png?v=1770211787
     Price: R 300.00 ZAR
   - [Blue Chillaz -Blueberry Ice](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993537182)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-8404910.png?v=1753082523
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-8404910.png?v=1770211155
     Price: R 300.00 ZAR
   - [Fizzy Chery - Cherry Cola](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993569950)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7916647.png?v=1753082550
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7916647.png?v=1770211869
     Price: R 300.00 ZAR
   - [Shockwave - Energy Drink](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993602718)
     Availability: Available
@@ -4102,34 +4120,34 @@
     Price: R 300.00 ZAR
   - [Chappyz - Mix Fruit Bubblegum](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993635486)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-3644228.png?v=1753082522
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-3644228.png?v=1770212245
     Price: R 300.00 ZAR
   - [Mango Kasi - Mango Ice](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993668254)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7103940.png?v=1753082551
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7103940.png?v=1770212163
     Price: R 300.00 ZAR
   - [Zaka Zaka Passion - Passionfruit](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993701022)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7695664.png?v=1753082523
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7695664.png?v=1770212330
     Price: R 300.00 ZAR
   - [Soweto Sunset - Peach Ice](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993733790)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-6776682.png?v=1753082551
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-6776682.png?v=1770212542
     Price: R 300.00 ZAR
   - [Wata Berry - Raspberry Watermelon](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993766558)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7185692.png?v=1753082523
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-7185692.png?v=1770212628
     Price: R 300.00 ZAR
   - [Slam Berry Wena - Strawberry Ice](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993799326)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-6953033.png?v=1753082550
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-6953033.png?v=1770212792
     Price: R 300.00 ZAR
   - [Chill Wata - Watermelon Ice](https://www.coffeeandvape.co.za/products/nasty-55k-surge-disposable-vape?variant=45666993832094)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-9731327.png?v=1753082524
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-55k-surgecoffee-and-vape-shop-south-africacoffee-and-vape-shop-south-africa-9731327.png?v=1770212900
     Price: R 300.00 ZAR
 - [Slapple Nicotine Gum 2 mg (40 Pieces)](https://www.coffeeandvape.co.za/products/slapple-nicotine-gum): Flavourful 2 mg Slapple Nicotine Gum — 40 pieces per pack. Chew-and-park method, portable can, tidy disposal.  use only.
-  Updated: 2026-01-16T14:14:07Z
+  Updated: 2026-02-05T11:28:26Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4171,7 +4189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/cottoncoffee-and-vape-shop-south-africa-1118000.jpg?v=1758538781
     Price: R 130.00 ZAR
 - [C&V House Juices Free Base 3mg 120ml | Premium E-Liquid | SA](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml): Shop C&V House Juices Free Base 3mg 120ml in South Africa. Premium in-house e-liquid, sub-ohm optimized, high VG. Exceptional value. R200. Fast delivery.
-  Updated: 2026-01-28T16:36:12Z
+  Updated: 2026-02-05T17:42:15Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: E-Liquid
   Availability: Available
@@ -4203,18 +4221,18 @@
   - [Mango on Ice](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266346142)
     Availability: Available
     Price: R 200.00 ZAR
-  - [Layered Crisp Mint](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266378910)
+  - [Layered Crisp Mint -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266378910)
     Availability: Available
-    Price: R 200.00 ZAR
-  - [Cloudy Pure Vanilla](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266411678)
+    Price: R 120.00 ZAR
+  - [Cloudy Pure Vanilla -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266411678)
     Availability: Available
-    Price: R 200.00 ZAR
-  - [Tennis Biscuit](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266444446)
+    Price: R 120.00 ZAR
+  - [Tennis Biscuit -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266444446)
     Availability: Available
-    Price: R 200.00 ZAR
-  - [Toffee Apple](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266477214)
+    Price: R 120.00 ZAR
+  - [Toffee Apple -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266477214)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Frost Melon](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266509982)
     Availability: Available
     Price: R 200.00 ZAR
@@ -4236,18 +4254,18 @@
   - [Mint Imperial](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266706590)
     Availability: Available
     Price: R 200.00 ZAR
-  - [Naartjie](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266739358)
+  - [Naartjie -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266739358)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Pineapple Mojito](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266772126)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Raspberry Litchi](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266804894)
     Availability: Available
     Price: R 200.00 ZAR
   - [Strawberry Cheesecake](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266837662)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Strawberry Milkshake](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45725266870430)
     Availability: Available
     Price: R 200.00 ZAR
@@ -4257,9 +4275,9 @@
   - [Pure Menthol](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=45809084203166)
     Availability: Available
     Price: R 200.00 ZAR
-  - [Icy Mango](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=46062724907166)
+  - [Icy Mango -  ](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=46062724907166)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Blueberry](https://www.coffeeandvape.co.za/products/coffee-and-vape-house-juices-free-base-3-mg-120-ml?variant=46321005330590)
     Availability: Not Available
     Price: R 200.00 ZAR
@@ -4267,7 +4285,7 @@
     Availability: Not Available
     Price: R 200.00 ZAR
 - [E-XHALE Vape Juice 30ml 40mg Nic Salts South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/e-xhale-vape-juice): E-XHALE Vape Juice - 30ml 40mg Nic Salts. Universal pod use, best with E-XHALE E-Pod Pro & 2 mL Refillable Pods. Six premium blends.
-  Updated: 2026-01-28T12:40:22Z
+  Updated: 2026-02-05T08:36:01Z
   Vendor: E-XHALE
   Product Type: 
   Availability: Available
@@ -4292,7 +4310,7 @@
     Availability: Available
     Price: R 280.00 ZAR
 - [POP HIT 25K Disposable Vape Dual Mode South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/pop-hit-25k-disposable-vape): Buy POP HIT 25K dual mode disposable vape in South Africa. 25,000 puffs, two power modes, rechargeable. Only R280. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-23T20:26:38Z
+  Updated: 2026-02-02T12:05:00Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: Pophit
   Availability: Available
@@ -4346,7 +4364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/pop-hit-25k-disposable-vape-dual-mode-coffee-and-vape-south-africapophitcoffee-and-vape-shop-south-africa-4755802.jpg?v=1753082552
     Price: R 250.00 ZAR
 - [Dispo Drops 30ml Flavor Shot South Africa | Nic Salt Sold Separately - Coffee and Vape](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice): Buy Dispo Drops 30ml flavor shot in South Africa. Mix with nic salt for custom vape juice. Only R280. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-29T15:41:22Z
+  Updated: 2026-02-05T13:19:28Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4372,7 +4390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Dispo_Drops_tropical_passionfruit_coffee_and_vape.png?v=1769248777
     Price: R 170.00 ZAR
   - [Cherry Watermelon](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=45787906474142)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Dispo_Drops_cherry_watermelon_coffee_and_vape.webp?v=1769248777
     Price: R 170.00 ZAR
   - [Litchi Raspberry](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=45787906539678)
@@ -4388,7 +4406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Dispo_Drops_raspberry_crystal_coffee_and_vape.png?v=1769248662
     Price: R 170.00 ZAR
   - [Tropical Mint](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=45856703316126)
-    Availability: Not Available
+    Availability: Available
     Price: R 170.00 ZAR
   - [Strawberry Kiwi Peach](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=45856703381662)
     Availability: Available
@@ -4408,11 +4426,11 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/RainbowFrappe60ml.webp?v=1769249485
     Price: R 170.00 ZAR
   - [Grape Energy](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=45856708559006)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/grape_energy_coffee_and_vape.jpg?v=1769250166
     Price: R 170.00 ZAR
   - [Grape Cherry](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=46118964297886)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/grape_energy_coffee_and_vape.jpg?v=1769250166
     Price: R 170.00 ZAR
   - [Coffee Dunked Donut](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=45956017520798)
@@ -4438,7 +4456,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/60mlGrape_coffee_and_vape.webp?v=1769249419
     Price: R 170.00 ZAR
   - [Forest Fruit Strawberry Mango](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=46250742087838)
-    Availability: Not Available
+    Availability: Available
     Price: R 170.00 ZAR
   - [Caramel Vanilla Tobacco](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-vape-juice?variant=46382417903774)
     Availability: Available
@@ -4454,13 +4472,13 @@
     Availability: Available
     Price: R 110.00 ZAR
 - [BLVK 40K NIC&ICE E-Liquid - Refreshing Nicotine](https://www.coffeeandvape.co.za/products/blvk-40k-nic-ice): Experience BLVK 40K NIC&ICE  control, and LED screen. Shop now at Coffee and Vape SA.
-  Updated: 2026-01-29T15:29:48Z
+  Updated: 2026-02-05T15:26:16Z
   Vendor: BLVK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-40k-nicicecoffee-and-vape-shop-south-africa-5640536.jpg?v=1753461765
   - [Cherry](https://www.coffeeandvape.co.za/products/blvk-40k-nic-ice?variant=45818238402718)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-40k-nicicecoffee-and-vape-shop-south-africa-5640536.jpg?v=1753461765
     Price: R 310.00 ZAR
   - [Grape](https://www.coffeeandvape.co.za/products/blvk-40k-nic-ice?variant=45818238435486)
@@ -4539,19 +4557,19 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/voopoo-vinic-spark-220-kit-midnight-black-coilscoffee-and-vape-shop-south-africa-1741707.webp?v=1757476524
   Price: R 1,450.00 ZAR
 - [SMOK Arco Max Pod Kit 1300mAh | 2.25" TFT Display | 4 Themes | 30W | SA](https://www.coffeeandvape.co.za/products/smok-arco-digi-pod-kit): SMOK Arco Max - 1300mAh (3.5 days), 2.25" TFT display, 4 animated themes, Smart Chip 3.0, stepless airflow, zinc alloy, USB-C 35min charge. R550. Fast SA delivery!
-  Updated: 2026-01-23T07:02:42Z
+  Updated: 2026-01-30T07:47:47Z
   Vendor: SMOK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/SmokArcoMax.jpg?v=1769093689
   - [Smok Arco MAX Silver](https://www.coffeeandvape.co.za/products/smok-arco-digi-pod-kit?variant=45939876331678)
-    Availability: Not Available
+    Availability: Available
     Price: R 550.00 ZAR
   - [Smok Arco MAX Space Gray](https://www.coffeeandvape.co.za/products/smok-arco-digi-pod-kit?variant=45939876364446)
     Availability: Available
     Price: R 550.00 ZAR
   - [Smok Arco MAX Mineral Green](https://www.coffeeandvape.co.za/products/smok-arco-digi-pod-kit?variant=45939876397214)
-    Availability: Not Available
+    Availability: Available
     Price: R 550.00 ZAR
   - [Smok Arco MAX Pale Pink](https://www.coffeeandvape.co.za/products/smok-arco-digi-pod-kit?variant=45939876429982)
     Availability: Available
@@ -4581,13 +4599,13 @@
     Availability: Available
     Price: R 395.00 ZAR
 - [Upends Switch Pro Kit 12000 - Coffee and Vape Shop](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000): Buy Upends Switch Pro Kit 12000 for only ZAR0.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-28T09:22:36Z
+  Updated: 2026-02-05T07:00:41Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/upends-switch-pro-12000coffee-and-vape-shop-south-africa-5777645.jpg?v=1755858460
   - [Mint Ice Kit](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000?variant=45896570208414)
-    Availability: Not Available
+    Availability: Available
     Price: R 300.00 ZAR
   - [Peach Ice Kit](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000?variant=45896570241182)
     Availability: Available
@@ -4608,13 +4626,13 @@
     Availability: Available
     Price: R 160.00 ZAR
   - [Blue Sour Rassbery Pod](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000?variant=45896570405022)
-    Availability: Not Available
+    Availability: Available
     Price: R 160.00 ZAR
   - [Strawberry Raspberry Cherry Pod](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000?variant=45896570437790)
-    Availability: Not Available
+    Availability: Available
     Price: R 160.00 ZAR
   - [Strawberry Lychee Pod](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000?variant=45896570470558)
-    Availability: Not Available
+    Availability: Available
     Price: R 160.00 ZAR
   - [Skittels Pod](https://www.coffeeandvape.co.za/products/upends-switch-pro-12000?variant=45896661532830)
     Availability: Available
@@ -4639,7 +4657,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vaporesso-kitmodcoffee-and-vape-shop-south-africa-2363841.jpg?v=1756978286
   Price: R 900.00 ZAR
 - [AirsPops BEAST Vape Kit – 80W Power, 5ml Tank & Dual Airflow](https://www.coffeeandvape.co.za/products/airspops-beast-vape-kit-80w-power-5ml-tank-dual-airflow-coffee-vape-south-africa): Buy AirsPops BEAST Vape Kit – 80W Power, 5ml Tank & Dual Airflow | Coffee & Vape South Africa for only ZAR550.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-23T15:10:25Z
+  Updated: 2026-02-05T18:59:57Z
   Vendor: AIRSCREAM
   Product Type: MOD
   Availability: Available
@@ -4647,16 +4665,16 @@
   - [AirsPops BEAST Vape Kit Black](https://www.coffeeandvape.co.za/products/airspops-beast-vape-kit-80w-power-5ml-tank-dual-airflow-coffee-vape-south-africa?variant=45910333096094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-beast-vape-kit-80w-power-5ml-tank-dual-airflow-coffee-vape-south-africamodcoffee-and-vape-shop-south-africa-2457122.jpg?v=1756311111
-    Price: R 550.00 ZAR
+    Price: R 300.00 ZAR
   - [BEAST REFILL TANK 5ML 0.4ohm](https://www.coffeeandvape.co.za/products/airspops-beast-vape-kit-80w-power-5ml-tank-dual-airflow-coffee-vape-south-africa?variant=45910333128862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-beast-vape-kit-80w-power-5ml-tank-dual-airflow-coffee-vape-south-africamodcoffee-and-vape-shop-south-africa-6036907.jpg?v=1756311112
-    Price: R 80.00 ZAR
+    Price: R 50.00 ZAR
   - [AIRSPOPS 18650 BATTERY X1](https://www.coffeeandvape.co.za/products/airspops-beast-vape-kit-80w-power-5ml-tank-dual-airflow-coffee-vape-south-africa?variant=45910869606558)
     Availability: Available
-    Price: R 100.00 ZAR
+    Price: R 50.00 ZAR
 - [Uwell Caliburn G4 Pro 1800mAh 35W Touchscreen Pod Kit | SA](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-pro-pod-kit): Uwell Caliburn G4 Pro with 1800mAh battery (7-10 days use), 2.51" shatterproof touchscreen, 5-35W adjustable, 3 vaping modes, Pro-FOCS 4.0. Compatible with GPP/G3 pods (0.4Ω-1.2Ω). Shop at Coffee and Vape SA.
-  Updated: 2026-01-29T06:15:33Z
+  Updated: 2026-01-31T09:12:21Z
   Vendor: UWELL
   Product Type: 
   Availability: Available
@@ -4666,7 +4684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/uwell-caliburn-g4-pro-pod-kitcoffee-and-vape-shop-south-africa-5749101.jpg?v=1756311113
     Price: R 650.00 ZAR
   - [Caliburn G4 Pro Iron Grey](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-pro-pod-kit?variant=45913199542430)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/uwell-caliburn-g4-pro-pod-kitcoffee-and-vape-shop-south-africa-4846998.jpg?v=1756311113
     Price: R 650.00 ZAR
   - [Caliburn G4 Pro Ink Blue](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-pro-pod-kit?variant=45913199575198)
@@ -4678,14 +4696,14 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/uwell-caliburn-g4-pro-pod-kitcoffee-and-vape-shop-south-africa-3364080.jpg?v=1756311113
     Price: R 650.00 ZAR
   - [Caliburn G4 Pro Frost White](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-pro-pod-kit?variant=45939972407454)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/uwell-caliburn-g4-pro-pod-kitcoffee-and-vape-shop-south-africa-7448155.jpg?v=1757476525
     Price: R 650.00 ZAR
   - [Caliburn G4 Pro Pearl Silver](https://www.coffeeandvape.co.za/products/uwell-caliburn-g4-pro-pod-kit?variant=46029406208158)
     Availability: Available
     Price: R 650.00 ZAR
 - [Tugboat Disposable Vape Pods | Coffee & Vape SA](https://www.coffeeandvape.co.za/products/tugboat-pods): Shop Tugboat Disposable Vape Pods in South Africa. Premium disposable vapes with great flavors, fast shipping, and unbeatable prices from Coffee & Vape.
-  Updated: 2026-01-28T06:06:07Z
+  Updated: 2026-01-30T07:57:10Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4720,7 +4738,7 @@
     Availability: Not Available
     Price: R 1,500.00 ZAR
 - [Vaporesso 3 in 1 Charging cable](https://www.coffeeandvape.co.za/products/vaporesso-3-in-1-charging-cable): Buy Vaporesso 3 in 1 Charging cable for only ZAR80.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:18Z
+  Updated: 2026-02-03T18:50:31Z
   Vendor: VAPORESSO
   Product Type: 
   Availability: Available
@@ -4747,7 +4765,7 @@
     Availability: Not Available
     Price: R 550.00 ZAR
 - [Artery CL6 50K Disposable Vape South Africa | 50000 Puffs - Coffee and Vape](https://www.coffeeandvape.co.za/products/artery-cl6-50k-disposable-vape): Buy Artery CL6 50K disposable vape in South Africa. Massive 50,000 puffs, smooth flavor, unbeatable performance. Fast delivery. Shop Coffee and Vape SA.
-  Updated: 2026-01-28T10:14:57Z
+  Updated: 2026-01-30T11:43:25Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4793,7 +4811,7 @@
     Availability: Available
     Price: R 300.00 ZAR
 - [Mixo 40K - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/freemax-mixo-40k-disposable-vape): Buy Mixo 40K Disposable Vape  for only ZAR270.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:18Z
+  Updated: 2026-02-03T08:42:57Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4818,7 +4836,7 @@
     Availability: Available
     Price: R 270.00 ZAR
 - [Klint Nicotine Pouches - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/klint-nicotine-pouches): Buy Klint Nicotine Pouches for only ZAR110.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T13:48:01Z
+  Updated: 2026-02-04T10:46:18Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4839,7 +4857,7 @@
     Availability: Available
     Price: R 110.00 ZAR
 - [M13 Boozt Nicotine Pouches - Coffee and Vape](https://www.coffeeandvape.co.za/products/m13-boozt-nicotine-pouches): Buy M13 Boozt Nicotine Pouches for only ZAR90.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-24T07:03:32Z
+  Updated: 2026-02-04T10:46:37Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4860,14 +4878,14 @@
     Availability: Available
     Price: R 90.00 ZAR
 - [Papermints Strips - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/papermints-strips): Buy now available at Coffee and Vape Papermints Strips for only ZAR35.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T08:30:15Z
+  Updated: 2026-02-03T15:09:31Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/papermints-stripscoffee-and-vape-shop-south-africa-5773732.jpg?v=1757062184
   Price: R 35.00 ZAR
 - [Afzal Authentic Flavoured Hookah - Coffee and Vape](https://www.coffeeandvape.co.za/products/afzal-authentic-flavoured-hookah): Buy Afzal Authentic Flavoured Hookah for only ZAR40.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:18Z
+  Updated: 2026-02-05T18:57:32Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -4875,18 +4893,18 @@
   - [Spearmint](https://www.coffeeandvape.co.za/products/afzal-authentic-flavoured-hookah?variant=45935713845406)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/afzal-authentic-flavoured-hookahcoffee-and-vape-shop-south-africa-9377745.jpg?v=1757062186
-    Price: R 40.00 ZAR
+    Price: R 30.00 ZAR
   - [Mintos](https://www.coffeeandvape.co.za/products/afzal-authentic-flavoured-hookah?variant=45935713878174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/afzal-authentic-flavoured-hookahcoffee-and-vape-shop-south-africa-2614611.webp?v=1757062186
-    Price: R 40.00 ZAR
+    Price: R 30.00 ZAR
   - [Ice Cream](https://www.coffeeandvape.co.za/products/afzal-authentic-flavoured-hookah?variant=45935713910942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/afzal-authentic-flavoured-hookahcoffee-and-vape-shop-south-africa-6377943.webp?v=1757062186
-    Price: R 40.00 ZAR
+    Price: R 30.00 ZAR
   - [Gum with Mint](https://www.coffeeandvape.co.za/products/afzal-authentic-flavoured-hookah?variant=45988122198174)
     Availability: Available
-    Price: R 40.00 ZAR
+    Price: R 30.00 ZAR
 - [ELFLIQ by Elf Bar Salt Nic 30ml - Coffee and Vape](https://www.coffeeandvape.co.za/products/elfliq-by-elf-bar-salt-nic-30ml): Buy ELFLIQ by Elf Bar Salt Nic 30ml for only ZAR290.00 at Coffee and Vape Shop South Africa!
   Updated: 2026-01-25T09:57:07Z
   Vendor: ELFBAR
@@ -4943,7 +4961,7 @@
     Availability: Not Available
     Price: R 320.00 ZAR
 - [Craft Vapour E - Liquid - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid): Buy Craft Vapour E - Liquid  for only ZAR0.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T11:10:03Z
+  Updated: 2026-02-03T13:18:57Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -5011,7 +5029,7 @@
     Availability: Available
     Price: R 95.00 ZAR
   - [Wicks Gum 60ml/30ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=45956000350366)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/craft-vapour-e-liquidcoffee-and-vape-shop-south-africa-8940249.png?v=1757393435
     Price: R 140.00 ZAR
   - [Energy Drink 60ml/ 18ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=46295509631134)
@@ -5021,7 +5039,7 @@
     Availability: Available
     Price: R 95.00 ZAR
   - [Pepermint Polar Express 60ml/30ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=46295508484254)
-    Availability: Not Available
+    Availability: Available
     Price: R 140.00 ZAR
   - [Pepermint Polar Express 30ml/15ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=46295509434526)
     Availability: Available
@@ -5050,11 +5068,11 @@
   - [Cognac Tobacco 60ml / 18ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=46295509598366)
     Availability: Available
     Price: R 140.00 ZAR
-  - [Forest Litchi 60ml/ 18ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=46295509663902)
-    Availability: Not Available
+  - [Forest Litchi 60ml/ 30ml shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=46295509663902)
+    Availability: Available
     Price: R 140.00 ZAR
   - [CV NS 50mg](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=45956000383134)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/craft-vapour-e-liquidcoffee-and-vape-shop-south-africa-4829423.png?v=1757393435
     Price: R 140.00 ZAR
   - [CV LF VG 80ml](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=45956000448670)
@@ -5069,7 +5087,7 @@
     Availability: Available
     Price: R 140.00 ZAR
   - [CV Ice Shot 10ml](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=45956000481438)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/craft-vapour-e-liquidcoffee-and-vape-shop-south-africa-8940249.png?v=1757393435
     Price: R 60.00 ZAR
   - [CV Sweetner Shot](https://www.coffeeandvape.co.za/products/craft-vapour-e-liquid?variant=45956000514206)
@@ -5110,22 +5128,22 @@
     Availability: Available
     Price: R 600.00 ZAR
 - [Vaporesso XROS 5 Mini - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit): Buy Vaporesso XROS 5 Mini for only ZAR480.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-23T06:49:37Z
+  Updated: 2026-02-02T16:06:16Z
   Vendor: VAPORESSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vaporesso-xros-5-minicoffee-and-vape-shop-south-africa-8483388.png?v=1757476531
   - [Vaporesso XROS 5 Mini Black](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit?variant=45956383965342)
-    Availability: Available
+    Availability: Not Available
     Price: R 520.00 ZAR
   - [Vaporesso XROS 5 Mini Flowing Pink](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit?variant=45956383998110)
-    Availability: Not Available
+    Availability: Available
     Price: R 520.00 ZAR
   - [Vaporesso XROS 5 Mini Titanium Silver](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit?variant=45956384030878)
     Availability: Not Available
     Price: R 520.00 ZAR
   - [Vaporesso XROS 5 Mini Rose Red](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit?variant=45956384063646)
-    Availability: Not Available
+    Availability: Available
     Price: R 520.00 ZAR
   - [Vaporesso XROS 5 Mini Pastel Crystal](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit?variant=45956384096414)
     Availability: Available
@@ -5134,43 +5152,43 @@
     Availability: Available
     Price: R 520.00 ZAR
   - [Vaporesso XROS 5 Mini Flowing Blue](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-pod-kit?variant=46326098264222)
-    Availability: Available
+    Availability: Not Available
     Price: R 520.00 ZAR
-- [Vaporesso Vibe SE 1100mAh Pod Kit Dual Power Modes | SA](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy): Vaporesso Vibe SE with 1100mAh battery, 4.5ml pod, dual power modes (14W-24W), draw-activated, adjustable airflow, AXON chipset, Dual Mesh coils. USB-C charging. MTL & RDL vaping. Shop at Coffee and Vape SA.
-  Updated: 2026-01-29T15:19:37Z
+- [Vaporesso Vibe SE Pod Kit 1100mAh - Dual Power Modes | South Africa](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah): Vaporesso Vibe SE pod kit with 1100mAh battery, 4.5ml capacity, dual power modes & AXON chip. Draw-activated MTL/RDL vaping. Shop authentic kits in SA.
+  Updated: 2026-02-05T15:50:53Z
   Vendor: VAPORESSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/VaporessoVIBESEPodKit.webp?v=1769240998
-  - [Vaporesso Vibe SE Black](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956386816158)
+  - [Vaporesso Vibe SE Black](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956386816158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Vaporesso-Vibe-SE-Kit-Ice-Blueberry.webp?v=1769240998
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE White](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956386881694)
+  - [Vaporesso Vibe SE White](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956386881694)
     Availability: Available
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Grape Purple](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956386914462)
+  - [Vaporesso Vibe SE Grape Purple](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956386914462)
     Availability: Available
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Frozen Mint](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956386947230)
+  - [Vaporesso Vibe SE Frozen Mint](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956386947230)
     Availability: Available
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Grapefruit Soda](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956386979998)
+  - [Vaporesso Vibe SE Grapefruit Soda](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956386979998)
     Availability: Available
     Price: R 250.00 ZAR
-  - [IVaporesso Vibe SE Ice Blueberry](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956387012766)
-    Availability: Not Available
-    Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Blue](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956387045534)
+  - [Vaporesso Vibe SE Ice Blueberry](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956387012766)
     Availability: Available
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Ice Cream Pink](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956387078302)
+  - [Vaporesso Vibe SE Blue](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956387045534)
     Availability: Available
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Strawberry Red](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956387111070)
+  - [Vaporesso Vibe SE Ice Cream Pink](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956387078302)
     Availability: Available
     Price: R 250.00 ZAR
-  - [Vaporesso Vibe SE Mocha Coffee](https://www.coffeeandvape.co.za/products/vaporesso-xros-5-mini-copy?variant=45956387143838)
+  - [Vaporesso Vibe SE Strawberry Red](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956387111070)
+    Availability: Available
+    Price: R 250.00 ZAR
+  - [Vaporesso Vibe SE Mocha Coffee](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-pod-kit-1100mah?variant=45956387143838)
     Availability: Available
     Price: R 250.00 ZAR
 - [Vaporesso Vibe - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/vaporesso-vibe-se-copy): Buy Vaporesso Vibe Experience the future of vaping with the VIBE Series and smart features packed into one device. for only ZAR430.00
@@ -5228,7 +5246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vaporesso-luxe-q2-secoffee-and-vape-shop-south-africa-2688555.webp?v=1757476527
     Price: R 330.00 ZAR
 - [Vaporesso XROS Pro Pod Kit - Coffee and Vape](https://www.coffeeandvape.co.za/products/vaporesso-luxe-xr-max-kit-copy): Buy Vaporesso XROS Pro Pod Kit for only ZAR650.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-28T05:49:00Z
+  Updated: 2026-02-05T11:09:20Z
   Vendor: VAPORESSO
   Product Type: 
   Availability: Available
@@ -5266,23 +5284,44 @@
   - [Vaporesso XROS Pro Pod Kit Blue](https://www.coffeeandvape.co.za/products/vaporesso-luxe-xr-max-kit-copy?variant=46224256532638)
     Availability: Available
     Price: R 450.00 ZAR
-- [Vaporesso Eco Nano Pro Kit - Coffee and Vape](https://www.coffeeandvape.co.za/products/vaporesso-eco-nano-pro-kit): Buy Vaporesso Eco Nano Pro Kit for only ZAR450.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-23T19:16:24Z
+- [Vaporesso XROS 4 Mini - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini): Buy Vaporesso XROS 4 Mini for only ZAR480.00 at Coffee and Vape Shop South Africa!
+  Updated: 2026-02-03T12:34:51Z
   Vendor: VAPORESSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vaporesso-eco-nano-pro-kitcoffee-and-vape-shop-south-africa-9613260.png?v=1757476530
-  - [Vaporesso Eco Nano Pro Kit Black](https://www.coffeeandvape.co.za/products/vaporesso-eco-nano-pro-kit?variant=45956403036318)
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vaporesso-xros-4-minicoffee-and-vape-shop-south-africa-6846270.png?v=1757476531
+  - [Vaporesso XROS 4 Mini Motor Race](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45956427514014)
     Availability: Not Available
-    Price: R 450.00 ZAR
-  - [Vaporesso Eco Nano Pro Kit Coral Red](https://www.coffeeandvape.co.za/products/vaporesso-eco-nano-pro-kit?variant=45956403069086)
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Starry Night](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45956427546782)
     Availability: Not Available
-    Price: R 450.00 ZAR
-  - [Vaporesso Eco Nano Pro Kit Silver](https://www.coffeeandvape.co.za/products/vaporesso-eco-nano-pro-kit?variant=45956403101854)
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Pink City](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45956427579550)
     Availability: Available
-    Price: R 450.00 ZAR
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Space Grey](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45993093038238)
+    Availability: Not Available
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Ice Blue](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45993093071006)
+    Availability: Not Available
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Ice Purple](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45993093103774)
+    Availability: Available
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Ice Pink](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=45993093136542)
+    Availability: Available
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Camo Red](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=46123174527134)
+    Availability: Not Available
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Mini Black](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=46210177564830)
+    Availability: Not Available
+    Price: R 400.00 ZAR
+  - [Vaporesso XROS 4 Word Pop](https://www.coffeeandvape.co.za/products/vaporesso-xros-4-mini?variant=46457590349982)
+    Availability: Available
+    Price: R 400.00 ZAR
 - [Uwell Caliburn G4 Pod Kit 1200mAh 25W | Fast Charging | SA](https://www.coffeeandvape.co.za/products/g4-pod-kit): Uwell Caliburn G4 Pod Kit with 1200mAh battery, ultra-fast 2A Type-C charging (0-60% in 15min), 25W output, stepless airflow slider, Pro-FOCS technology. Compatible with G3 pods (0.6Ω, 0.9Ω, 1.2Ω). Shop at Coffee and Vape SA.
-  Updated: 2026-01-23T08:16:18Z
+  Updated: 2026-02-04T05:13:10Z
   Vendor: UWELL
   Product Type: 
   Availability: Available
@@ -5306,7 +5345,7 @@
     Availability: Available
     Price: R 600.00 ZAR
 - [Siberia Snus | Extreme Strength up to 43 mg/g](https://www.coffeeandvape.co.za/products/siberia): Siberia snus by GN Tobacco: up to 43 mg/g nicotine, spearmint & classic tobacco variants, white/white dry/original portions, slim & regular sizes.
-  Updated: 2026-01-27T15:11:55Z
+  Updated: 2026-02-05T15:34:20Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -5323,13 +5362,13 @@
     Availability: Available
     Price: R 100.00 ZAR
 - [Elf Bar EW 18K Pod - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/https-coffeeandvape-co-za-products-elf-bar-ew-18k-pod-18000-puffs): Buy Elf Bar EW 18K Pod Disposable Vape for only ZAR250.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T12:02:51Z
+  Updated: 2026-02-05T14:07:41Z
   Vendor: ELFBAR
   Product Type: Elfbar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/elf-bar-ew-18k-podelfbarcoffee-and-vape-shop-south-africa-7591685.jpg?v=1767798716
   - [Lychee Raspberry](https://www.coffeeandvape.co.za/products/https-coffeeandvape-co-za-products-elf-bar-ew-18k-pod-18000-puffs?variant=45961689563294)
-    Availability: Available
+    Availability: Not Available
     Price: R 220.00 ZAR
   - [Cotton Candy](https://www.coffeeandvape.co.za/products/https-coffeeandvape-co-za-products-elf-bar-ew-18k-pod-18000-puffs?variant=45961689596062)
     Availability: Available
@@ -5379,7 +5418,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/geek-vape-t200-aegis-touch-mod-onlycoffee-and-vape-shop-south-africa-5805560.jpg?v=1769240223
   Price: R 1,450.00 ZAR
 - [Merchandise - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/merchandise): how off your style with Coffee & Vape Merchandise. Explore our premium caps, shirts, and hoodies made for vapers across South Africa.
-  Updated: 2026-01-28T07:58:15Z
+  Updated: 2026-02-05T15:00:17Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -5392,7 +5431,7 @@
     Availability: Available
     Price: R 30.00 ZAR
   - [Smok Jacket](https://www.coffeeandvape.co.za/products/merchandise?variant=46062985085086)
-    Availability: Not Available
+    Availability: Available
     Price: R 200.00 ZAR
   - [Smok Beenie](https://www.coffeeandvape.co.za/products/merchandise?variant=45969311793310)
     Availability: Available
@@ -5539,7 +5578,7 @@
     Availability: Available
     Price: R 200.00 ZAR
 - [Nasty Bar 20000 Disposable Vape South Africa | 20000 Puffs - Coffee and Vape](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape): Buy Nasty Bar 20000 XL disposable vape in South Africa. 20000 puffs, 5% nicotine, USB-C rechargeable, 17ml e-liquid. Fast delivery. Shop premium vapes at Coffee and Vape.
-  Updated: 2026-01-26T09:19:23Z
+  Updated: 2026-02-05T10:43:26Z
   Vendor: Nasty
   Product Type: Nasty Bar 20000
   Availability: Available
@@ -5552,6 +5591,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-2236611.jpg?v=1758320602
     Price: R 240.00 ZAR
+  - [SWEET TABACCO](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=46466227667102)
+    Availability: Available
+    Price: R 240.00 ZAR
+  - [DRAGONFUIT LEMONADE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=46466227699870)
+    Availability: Available
+    Price: R 240.00 ZAR
+  - [PEACH ICE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773625502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-9923305.jpg?v=1758320602
+    Price: R 240.00 ZAR
+  - [BLACKBERRY ICE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773658270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-9485294.jpg?v=1758320602
+    Price: R 240.00 ZAR
+  - [STRAWBERRY  MINT  LEMONADE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773887646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-5377826.jpg?v=1758320602
+    Price: R 240.00 ZAR
   - [CUSHMAN MANGO BANANA](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773756574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-1123146.jpg?v=1758320602
@@ -5560,19 +5617,11 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-5177101.jpg?v=1758320602
     Price: R 240.00 ZAR
-  - [PEACH ICE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773625502)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-9923305.jpg?v=1758320602
-    Price: R 240.00 ZAR
-  - [BLACKBERRY ICE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773658270)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-9485294.jpg?v=1758320602
-    Price: R 240.00 ZAR
   - [STRAWBERRY ICE (NEW)](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=46025963438238)
     Availability: Not Available
     Price: R 240.00 ZAR
   - [BERRY GRAPE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773559966)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-7346013.jpg?v=1758320602
     Price: R 240.00 ZAR
   - [STRAWBERRY WATERMELON  ICE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773723806)
@@ -5584,10 +5633,6 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-7456101.jpg?v=1758320602
     Price: R 240.00 ZAR
   - [STRAWBERRY LEMON ICE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969774084254)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-5377826.jpg?v=1758320602
-    Price: R 240.00 ZAR
-  - [STRAWBERRY  MINT  LEMONADE](https://www.coffeeandvape.co.za/products/products-nasty-bar-20000-xl-disposable-vape?variant=45969773887646)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-5377826.jpg?v=1758320602
     Price: R 240.00 ZAR
@@ -5632,7 +5677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-bar-20000nasty-bar-20000coffee-and-vape-shop-south-africa-9212209.webp?v=1758320602
     Price: R 240.00 ZAR
 - [Airscream AirsPops ORKA 900mAh 20ml Pod Kit | 3 Power Modes | SA](https://www.coffeeandvape.co.za/products/airspop-orka): Airscream AirsPops ORKA with industry-leading 20ml refillable pod, 900mAh battery, 3 power modes (16W-22W), dual coil 0.6Ω, adjustable airflow, smart LED display, USB-C charging. MTL & RDL vaping. Shop at Coffee and Vape SA.
-  Updated: 2026-01-23T13:46:00Z
+  Updated: 2026-02-05T18:58:19Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
@@ -5640,11 +5685,11 @@
   - [Orka Starter Kit - Pearl White](https://www.coffeeandvape.co.za/products/airspop-orka?variant=45988124328094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspop-orkacoffee-and-vape-shop-south-africa-7077842.jpg?v=1758151815
-    Price: R 450.00 ZAR
+    Price: R 300.00 ZAR
   - [Orka Open Pod](https://www.coffeeandvape.co.za/products/airspop-orka?variant=45988124360862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspop-orkacoffee-and-vape-shop-south-africa-1669780.jpg?v=1758151815
-    Price: R 130.00 ZAR
+    Price: R 50.00 ZAR
 - [E-xhale 10K Disposable Vape LED Display South Africa | 6000 Puffs R210](https://www.coffeeandvape.co.za/products/e-xhale-10k): Buy E-xhale 10K with LED battery & liquid display. 6000 puffs, 8mL e-liquid, USB-C rechargeable, 3% salt nic. Authentic product. Fast delivery SA. Only R210!
   Updated: 2026-01-23T07:24:38Z
   Vendor: E-XHALE
@@ -5684,7 +5729,7 @@
     Availability: Not Available
     Price: R 850.00 ZAR
 - [San Dynasty Pod Kit | Orca Vape × Gerobak | Coffee & Vape SA](https://www.coffeeandvape.co.za/products/san-dynasty): San Dynasty Pod Kit: adjustable airflow, auto wattage, up to 30W, 0.42" OLED, USB-C, removable 14500 battery. Includes 0.6Ω & 0.8Ω pods and accessories. .
-  Updated: 2026-01-24T08:30:23Z
+  Updated: 2026-02-03T19:28:33Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -5711,24 +5756,8 @@
   - [Ocean Blue - Pod Kit](https://www.coffeeandvape.co.za/products/san-dynasty?variant=45996967657630)
     Availability: Available
     Price: R 620.00 ZAR
-  - [San Dynasty Cartridge 0.6Ω](https://www.coffeeandvape.co.za/products/san-dynasty?variant=45996969427102)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/san-dynasty-pod-kitcoffee-and-vape-shop-south-africa-2447720.jpg?v=1758538786
-    Price: R 65.00 ZAR
-  - [San Dynasty Cartridge 0.8Ω](https://www.coffeeandvape.co.za/products/san-dynasty?variant=45996969459870)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/san-dynasty-pod-kitcoffee-and-vape-shop-south-africa-2447720.jpg?v=1758538786
-    Price: R 65.00 ZAR
-  - [Slot 14500 Battery Charger](https://www.coffeeandvape.co.za/products/san-dynasty?variant=45996969492638)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/san-dynasty-pod-kitcoffee-and-vape-shop-south-africa-6938279.webp?v=1758538785
-    Price: R 250.00 ZAR
-  - [14500 Lithium Battery](https://www.coffeeandvape.co.za/products/san-dynasty?variant=45996969525406)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/san-dynasty-pod-kitcoffee-and-vape-shop-south-africa-8705110.jpg?v=1758538787
-    Price: R 100.00 ZAR
 - [Bewolk Smart Pods - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/bewolk-smart-pods): Buy Bewolk Smart Pods  let you dial in your preferred vaping style with versatile coil options: 0.4Ω, 0.6Ω and 0.8Ω for only ZAR60.00 at Coffee and Vape
-  Updated: 2026-01-24T08:05:08Z
+  Updated: 2026-02-03T07:36:56Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -5767,7 +5796,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/bewolkcoffee-and-vape-shop-south-africa-6968199.png?v=1753082522
     Price: R 550.00 ZAR
 - [Bewolk XL Pods - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/bewolk-xl-pods): Buy Bewolk XL Pods carefully brewed flavours in a disposable-style pod for a satisfying vape experience.  for only ZAR200.00 at Coffee and Vape
-  Updated: 2026-01-29T13:38:17Z
+  Updated: 2026-02-04T15:54:46Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -5851,7 +5880,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/bewolkcoffee-and-vape-shop-south-africa-7086884.png?v=1756978542
     Price: R 250.00 ZAR
 - [Bewolk XL Battery - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/bewolk-xl-battery): Shop the Bewolk XL Battery – 800mAh rechargeable power with LED screen, airflow control, and 3 smart modes for the perfect vape every time.
-  Updated: 2026-01-29T13:36:33Z
+  Updated: 2026-02-02T11:19:51Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -5865,7 +5894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/bewolkcoffee-and-vape-shop-south-africa-6664467.png?v=1753082552
     Price: R 145.00 ZAR
 - [Bewolk Nic Pouches - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/bewolk-nic-pouches): Buy Bewolk Nic Pouches Tobacco-Free for only ZAR70.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T13:35:47Z
+  Updated: 2026-02-04T14:46:26Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -5907,7 +5936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/bewolk-starter-packcoffee-and-vape-shop-south-africa-2744560.png?v=1758538783
     Price: R 250.00 ZAR
 - [Bewolk Flavour Pod - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/bewolk-flavour-pod): Buy Bewolk Flavour Pod a game-changer in disposable-style for only ZAR170.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T10:12:16Z
+  Updated: 2026-02-05T18:57:06Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -6001,11 +6030,11 @@
   - [Mystic Jelly - 20mg](https://www.coffeeandvape.co.za/products/bewolk-flavour-pod?variant=46117636309150)
     Availability: Available
     Price: R 170.00 ZAR
-  - [Mango Milkshake 0mg](https://www.coffeeandvape.co.za/products/bewolk-flavour-pod?variant=46291684163742)
+  - [Mango Milkshake 0mg -  ](https://www.coffeeandvape.co.za/products/bewolk-flavour-pod?variant=46291684163742)
     Availability: Available
-    Price: R 170.00 ZAR
+    Price: R 70.00 ZAR
 - [Bewolk Batteries - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/bewolk-battery): Buy Bewolk Batteries for an exceptional vaping experience for only ZAR130.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T13:35:17Z
+  Updated: 2026-01-31T04:59:35Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -6092,7 +6121,7 @@
     Availability: Available
     Price: R 40.00 ZAR
 - [Jack Parow Tjoef 10K Disposable Vape | 10,000 Puffs | Buy SA](https://www.coffeeandvape.co.za/products/jack-parow-tjoef): Shop Jack Parow Tjoef 10K - 10,000 puffs, dual mesh coils, 680mAh rechargeable, Type-C charging. Bold SA flavours. R280. Fast delivery South Africa.
-  Updated: 2026-01-29T15:46:16Z
+  Updated: 2026-02-05T16:33:37Z
   Vendor: BEWOLK
   Product Type: Disposable Vapes
   Availability: Available
@@ -6104,8 +6133,11 @@
   - [Lychee Juice - 20mg](https://www.coffeeandvape.co.za/products/jack-parow-tjoef?variant=46117639487646)
     Availability: Available
     Price: R 280.00 ZAR
-  - [Dear Mint - 50mg](https://www.coffeeandvape.co.za/products/jack-parow-tjoef?variant=46005480259742)
+  - [Dear Mint - 20mg](https://www.coffeeandvape.co.za/products/jack-parow-tjoef?variant=46469808291998)
     Availability: Available
+    Price: R 280.00 ZAR
+  - [Dear Mint - 50mg](https://www.coffeeandvape.co.za/products/jack-parow-tjoef?variant=46005480259742)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/jack-parow-tjoef-10kcoffee-and-vape-shop-south-africa-4577965.webp?v=1760623514
     Price: R 280.00 ZAR
   - [Cherry Sucker - 50mg](https://www.coffeeandvape.co.za/products/jack-parow-tjoef?variant=46005480292510)
@@ -6160,7 +6192,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/jack-parow-tjoef-10k-puffs-680-mahcoffee-and-vape-shop-south-africa-1991204.png?v=1764086047
     Price: R 280.00 ZAR
   - [Granadilla Lolly - 20mg](https://www.coffeeandvape.co.za/products/jack-parow-tjoef?variant=46315257200798)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/jack-parow-tjoef-10k-puffs-680-mahcoffee-and-vape-shop-south-africa-1991204.png?v=1764086047
     Price: R 280.00 ZAR
 - [Jack Parow Hat - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/jack-parow-copy): Buy Jack Parow Hat Disposable Vape for only ZAR400.00 at Coffee and Vape Shop South Africa!
@@ -6171,7 +6203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/jack-parow-hatcoffee-and-vape-shop-south-africa-4209581.webp?v=1758538780
   Price: R 400.00 ZAR
 - [Jack Parow TJOEF Lanyard merchandise - Coffee and Vape S](https://www.coffeeandvape.co.za/products/jack-parow-lanyards): Buy Jack Parow TJOEF Lanyard merchandise for only ZAR50.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-24T10:13:47Z
+  Updated: 2026-02-02T09:31:46Z
   Vendor: BEWOLK
   Product Type: 
   Availability: Available
@@ -6238,7 +6270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Jack-Parow-Keychain-Rev-1-324x324.png?v=1758325092
   Price: R 70.00 ZAR
 - [Velo Nic Pouches - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/velo-nic-pouches): Buy Velo Nic Pouches Tobacco-free and smoke-free design for only ZAR40.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-29T14:49:37Z
+  Updated: 2026-02-04T14:46:26Z
   Vendor: VUSE
   Product Type: 
   Availability: Available
@@ -6293,7 +6325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vuse-pro-onecoffee-and-vape-shop-south-africa-2493192.webp?v=1758621411
   Price: R 170.00 ZAR
 - [Vuse ePod Refills South Africa | Pre-Filled Vape Pods - Coffee and Vape](https://www.coffeeandvape.co.za/products/vuse-epod): Shop authentic Vuse ePod Refills in South Africa. Pre-filled pods with smooth nicotine salt e-liquid for rich flavor and performance. Order today!
-  Updated: 2026-01-29T14:48:57Z
+  Updated: 2026-02-04T10:24:44Z
   Vendor: VUSE
   Product Type: 
   Availability: Available
@@ -6359,7 +6391,7 @@
     Availability: Available
     Price: R 120.00 ZAR
 - [E - xhale LIPI Nicotine Mints - Coffee and Vape Shop](https://www.coffeeandvape.co.za/products/e-xhale-lipi-nicotine-mint): Buy E - xhale LIPI Nicotine Mints for only ZAR60.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-27T15:45:36Z
+  Updated: 2026-02-04T16:21:09Z
   Vendor: E-XHALE
   Product Type: 
   Availability: Available
@@ -6374,7 +6406,7 @@
     Availability: Available
     Price: R 60.00 ZAR
 - [E - xhale LIPI Nicotine Pouches - Coffee and Vape](https://www.coffeeandvape.co.za/products/e-xhale-lipi-nicotine-pouches): Buy E - xhale LIPI Nicotine Pouches for only ZAR40.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-22T09:19:43Z
+  Updated: 2026-02-04T14:07:46Z
   Vendor: E-XHALE
   Product Type: 
   Availability: Available
@@ -6392,14 +6424,14 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/e-xhale-lipi-nicotine-pouchescoffee-and-vape-shop-south-africa-5166707.webp?v=1758621412
     Price: R 40.00 ZAR
 - [AirsPops 313 Salt Juice 30ml | 1.9% - Coffee and Vape Shop](https://www.coffeeandvape.co.za/products/airspops-313-salt-juice-30ml-1-9): Buy AirsPops 313 Salt Juice 30ml | 1.9% for only ZAR100.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:20Z
+  Updated: 2026-02-01T00:59:31Z
   Vendor: AIRSCREAM
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/airspops-313-salt-juice-30ml-19coffee-and-vape-shop-south-africa-7597018.webp?v=1758621318
   Price: R 100.00 ZAR
 - [Yalla Nicotine Chewing Gum -Coffee and Vape](https://www.coffeeandvape.co.za/products/yalla-nic-gum): Yalla Nicotine Chewing Gum in Cola, Apple, Cool Mint & Watermelon. Xylitol, vegan, 40 pieces. Dose 2–8 mg by piece, chew-and-park up to 30 min. Adults 18+ only.
-  Updated: 2026-01-14T07:37:20Z
+  Updated: 2026-02-03T19:05:51Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -6416,7 +6448,7 @@
     Availability: Available
     Price: R 120.00 ZAR
 - [Oxbar Trifusion 50K - 3-Button Precision Vape | 100+](https://www.coffeeandvape.co.za/products/oxbar-trifusion-50k): Shop the Oxbar Trifusion 50K at Coffee & Vape. Fine-tune sweetness, nicotine & ice with 3 independent buttons, UNIONE Four Mesh Coil for 30% richer flavour
-  Updated: 2026-01-29T10:12:16Z
+  Updated: 2026-02-04T10:55:39Z
   Vendor: OXBAR
   Product Type: 
   Availability: Available
@@ -6457,7 +6489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/oxbar-trifusion-50kcoffee-and-vape-shop-south-africa-9513229.png?v=1759367213
     Price: R 370.00 ZAR
 - [Liqua Nicotine Salt 30ml 20mg | Premium E-Liquid | Buy SA](https://www.coffeeandvape.co.za/products/liqua-e-liquid): Shop Liqua Nicotine Salt 30ml @ 20mg in South Africa. Premium salt nic e-liquid, smooth throat hit, rich flavour. Perfect for pod systems. R150. Fast delivery.
-  Updated: 2026-01-29T08:33:18Z
+  Updated: 2026-02-05T17:54:11Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: E-Liquid
   Availability: Available
@@ -6465,7 +6497,7 @@
   - [Peach Mango Pineapple](https://www.coffeeandvape.co.za/products/liqua-e-liquid?variant=46029393887390)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/liqua-nicotine-saltcoffee-and-vape-shop-south-africa-2643454.jpg?v=1759367134
-    Price: R 150.00 ZAR
+    Price: R 100.00 ZAR
   - [Peach Ice](https://www.coffeeandvape.co.za/products/liqua-e-liquid?variant=46029393920158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/liqua-nicotine-saltcoffee-and-vape-shop-south-africa-7568810.jpg?v=1759367135
@@ -6484,7 +6516,7 @@
     Price: R 150.00 ZAR
   - [Traditional 18mg](https://www.coffeeandvape.co.za/products/liqua-e-liquid?variant=46454883647646)
     Availability: Available
-    Price: R 260.00 ZAR
+    Price: R 610.00 ZAR
 - [Elf Bar SMART Device Device (Animated Screen)](https://www.coffeeandvape.co.za/products/elfbar-ew-smart-device): Meet the Elf Bar SMART Device charging device with 4 on-screen animations, magnetic pairing, easy battery check, and EW pod compatibility.
   Updated: 2026-01-26T06:32:24Z
   Vendor: ELFBAR
@@ -6512,7 +6544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/elf-bar-smart-devicecoffee-and-vape-shop-south-africa-3145472.webp?v=1759367137
     Price: R 140.00 ZAR
 - [Nevoks Feelin AR Pod Kit (1000mAh, 9–30W)](https://www.coffeeandvape.co.za/products/nevoks-feelin-ar-pod-kit): Meet the Nevoks Feelin AR Pod Kit  budget-friendly pod kit with 1000mAh battery, auto 9–30W output, adjustable airflow, LED indicator, and A1 pods.
-  Updated: 2026-01-23T07:12:36Z
+  Updated: 2026-02-05T10:40:05Z
   Vendor: NEVOKS
   Product Type: 
   Availability: Available
@@ -6533,7 +6565,7 @@
     Availability: Available
     Price: R 220.00 ZAR
   - [Nevoks Feelin AR Cream White](https://www.coffeeandvape.co.za/products/nevoks-feelin-ar-pod-kit?variant=46384771235998)
-    Availability: Available
+    Availability: Not Available
     Price: R 220.00 ZAR
 - [Voopoo Zest 40K Disposable Vape | Smart Modes & Display](https://www.coffeeandvape.co.za/products/voopoo-zest-40k): Shop the Voopoo Zest 40K Disposable Vape with adjustable nicotine levels, smart screen display, and dual modes. Available now at Coffee & Vape South Africa.
   Updated: 2026-01-23T12:04:21Z
@@ -6566,7 +6598,7 @@
     Availability: Not Available
     Price: R 300.00 ZAR
 - [ATVS 60K 4-in-1 Vape Kit | 60,000 Puffs, 36ml](https://www.coffeeandvape.co.za/products/atvs-4-adjustable-flavours-60k): ATVS 60K 4-in-1 Vape Kit with 60,000 puffs, 36ml prefilled, 650mAh, screen, airflow control & Type-C. Switch 4 flavours in one device. Shop Coffee & Vape SA.
-  Updated: 2026-01-24T07:49:52Z
+  Updated: 2026-01-31T11:14:06Z
   Vendor: ATVS
   Product Type: 
   Availability: Available
@@ -6592,32 +6624,32 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/atvs-60k-4-in-1-kitcoffee-and-vape-shop-south-africa-2370108.jpg?v=1759998360
     Price: R 300.00 ZAR
 - [Exhale 2ml Refillable Open Pod (0.8Ω, Single)](https://www.coffeeandvape.co.za/products/exhale-2ml-refillable-open-pod): Exhale 2ml Refillable Open Pod (0.8Ω, single) for the E-XHALE E-Pod Pro. Open-system freedom and smooth flavour in a convenient single pack.
-  Updated: 2026-01-29T09:56:38Z
+  Updated: 2026-02-05T13:31:11Z
   Vendor: E-XHALE
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/exhale-2ml-refillable-open-podcoffee-and-vape-shop-south-africa-4920032.webp?v=1760081222
   Price: R 70.00 ZAR
 - [Jack Parow Limited Edition Vape Box | Coffee & Vape](https://www.coffeeandvape.co.za/products/jack-parrow-box): Jack Parow Limited Edition Vape Box- hand-signed & numbered. 4 unique flavours, 10,000 puffs each. Exclusive collector's set at Coffee & Vape.
-  Updated: 2026-01-14T07:37:21Z
+  Updated: 2026-02-05T17:50:24Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/jack-parow-limited-edition-vape-boxcoffee-and-vape-shop-south-africa-8979920.jpg?v=1760495508
   - [Zebra Gift Box](https://www.coffeeandvape.co.za/products/jack-parrow-box?variant=46062589247646)
     Availability: Available
-    Price: R 2,000.00 ZAR
+    Price: R 1,600.00 ZAR
   - [Midnight Leopard Gift Box](https://www.coffeeandvape.co.za/products/jack-parrow-box?variant=46062589280414)
     Availability: Available
-    Price: R 2,000.00 ZAR
+    Price: R 1,600.00 ZAR
   - [Leopard Gift Box](https://www.coffeeandvape.co.za/products/jack-parrow-box?variant=46062589313182)
     Availability: Available
-    Price: R 2,000.00 ZAR
+    Price: R 1,600.00 ZAR
   - [Midnight Zebra Gift Box](https://www.coffeeandvape.co.za/products/jack-parrow-box?variant=46062589345950)
     Availability: Available
-    Price: R 2,000.00 ZAR
+    Price: R 1,600.00 ZAR
 - [Pods n Salts 60ml Salt Nic Flavour Shots MTL Longfill | Buy Online SA](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill): Buy Pods n Salts 60ml Salt Nic Flavour Shots in South Africa. Premium MTL longfill e-liquid, 30ml PG flavouring. Mix with VG nic shots. Fast delivery. Shop authentic pods n salts.
-  Updated: 2026-01-28T14:55:11Z
+  Updated: 2026-02-05T07:46:45Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -6641,7 +6673,7 @@
     Availability: Available
     Price: R 140.00 ZAR
   - [Glacial Grape](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46076474556574)
-    Availability: Not Available
+    Availability: Available
     Price: R 140.00 ZAR
   - [Dragon Frost](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46076474589342)
     Availability: Available
@@ -6650,7 +6682,7 @@
     Availability: Available
     Price: R 140.00 ZAR
   - [Raspberry Lychee](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46076474654878)
-    Availability: Not Available
+    Availability: Available
     Price: R 140.00 ZAR
   - [Frozen Blueberry Cocktail](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46076474687646)
     Availability: Available
@@ -6668,12 +6700,15 @@
     Availability: Available
     Price: R 140.00 ZAR
   - [Chew](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46250728390814)
-    Availability: Available
+    Availability: Not Available
     Price: R 140.00 ZAR
   - [RY4 Tabacco](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46419900334238)
     Availability: Available
     Price: R 140.00 ZAR
   - [Zero Kelvin](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46250728423582)
+    Availability: Available
+    Price: R 140.00 ZAR
+  - [Chill Cherry](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46476955975838)
     Availability: Available
     Price: R 140.00 ZAR
   - [Raw VG 80ml](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46151811858590)
@@ -6683,23 +6718,23 @@
     Availability: Available
     Price: R 40.00 ZAR
   - [RAW SALT NIC 25 MG 30 ml](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46158002487454)
-    Availability: Available
+    Availability: Not Available
     Price: R 110.00 ZAR
   - [RAW SALT NIC 50 MG 30 ml](https://www.coffeeandvape.co.za/products/pods-n-salts-60ml-salt-nic-flavour-shots-mtl-longfill?variant=46188196724894)
-    Availability: Available
+    Availability: Not Available
     Price: R 140.00 ZAR
 - [Glow Pink Nic Salts 20ml – 20mg | Coffee and Vape](https://www.coffeeandvape.co.za/products/glow-pink-nic-salts-20ml-20mg): Shop Glow Pink Nic Salts 20ml – 20mg at Coffee and Vape South Africa. Smooth flavor, fast nicotine absorption, and consistent satisfaction in every puff!
-  Updated: 2026-01-14T07:37:21Z
+  Updated: 2026-02-05T18:48:52Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/glow-pink-nic-saltscoffee-and-vape-shop-south-africa-7615565.jpg?v=1760744018
   - [Glow Pink Nic Salts 20ml - 20mg](https://www.coffeeandvape.co.za/products/glow-pink-nic-salts-20ml-20mg?variant=46081208483998)
     Availability: Not Available
-    Price: R 150.00 ZAR
+    Price: R 50.00 ZAR
   - [Glow Pink 6Zero Flavour](https://www.coffeeandvape.co.za/products/glow-pink-nic-salts-20ml-20mg?variant=46081208516766)
     Availability: Available
-    Price: R 300.00 ZAR
+    Price: R 50.00 ZAR
 - [That Mint 6Zero 4%NIC 60ml - Coffee and Vape](https://www.coffeeandvape.co.za/products/that-mint-6zero): Buy That Mint 6Zero 4%NIC 60ml for only ZAR300.00 at Coffee and Vape Shop South Africa!
   Updated: 2026-01-29T11:50:34Z
   Vendor: Coffee and Vape Shop South Africa
@@ -6792,7 +6827,7 @@
     Availability: Available
     Price: R 150.00 ZAR
 - [Slick E-Liquid Longfill South Africa | Nic Shot Sold Separately - Coffee and Vape](https://www.coffeeandvape.co.za/products/slick-e-liquid-longfill-flavouring-nic-shot-sold-separately): Buy Slick E-Liquid Longfill /Flavouring NIC Shot Sold Separately for only ZAR170.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-24T09:40:56Z
+  Updated: 2026-02-05T11:35:51Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -6861,27 +6896,27 @@
     Availability: Not Available
     Price: R 110.00 ZAR
 - [GoodBoy 120ml Longfill RY4 Tobacco South Africa - Coffee and Vape](https://www.coffeeandvape.co.za/products/goodboy-120ml-longfill): Shop GoodBoy 120ml Longfill RY4 Tobacco Vape Concentrate at Coffee and Vape South Africa. Create your ideal mix and enjoy rich, smooth flavor with every puff!
-  Updated: 2026-01-14T07:37:21Z
+  Updated: 2026-02-05T18:49:47Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/GoodBoy120_images.avif?v=1761199278
-  Price: R 180.00 ZAR
+  Price: R 120.00 ZAR
 - [Wiener Vape - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/wiener-vape): Buy Wiener Vape DIY Longfill for a Smooth, Custom Mix for only ZAR200.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:21Z
+  Updated: 2026-02-05T18:42:52Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/wiener-vapecoffee-and-vape-shop-south-africa-3755564.webp?v=1761241309
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/wiener.webp?v=1770316926
   - [GoodBoy](https://www.coffeeandvape.co.za/products/wiener-vape?variant=46098620448926)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Starman](https://www.coffeeandvape.co.za/products/wiener-vape?variant=46098620481694)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
   - [Biscuit Bandit and The Crunchy Outlaws](https://www.coffeeandvape.co.za/products/wiener-vape?variant=46098620514462)
     Availability: Available
-    Price: R 200.00 ZAR
+    Price: R 120.00 ZAR
 - [Vaporesso XROS Pro 2 Kit SA | 2000mAh MTL Pod | R650 Fast Delivery](https://www.coffeeandvape.co.za/products/vaporesso-xros-pro-2-kit): Vaporesso XROS Pro 2 - 2000mAh battery, COREX 3.0 tech, ultra-light magnesium alloy. Premium MTL pod kit R650. Fast SA delivery. Authentic!
   Updated: 2026-01-24T08:32:43Z
   Vendor: VAPORESSO
@@ -7007,7 +7042,7 @@
     Availability: Not Available
     Price: R 350.00 ZAR
 - [Uwell Crown Pod Kit 1100mAh Dual Activation MTL/DTL | SA](https://www.coffeeandvape.co.za/products/uwell-crown-pod-kit): Uwell Crown Pod Kit with 1100mAh battery, dual activation (auto-draw & button), integrated pod airflow control, Pro-FOCS technology. Includes 0.6Ω DTL & 1.0Ω MTL pods. Aluminium alloy construction. Shop at Coffee and Vape SA.
-  Updated: 2026-01-23T08:20:14Z
+  Updated: 2026-02-01T07:46:31Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -7046,7 +7081,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Hellvape_Hellbeast_2_Subohm.jpg?v=1769104037
   Price: R 550.00 ZAR
 - [Uwell Caliburn GZ2 Pod System 850mAh 17W ZEGA | South Africa](https://www.coffeeandvape.co.za/products/uwell-calliburn-gz2-pod-system): Uwell Caliburn GZ2 Pod System with ZEGA form factor, 850mAh battery, 17W output, iAFC airflow control, 2A Type-C charging. Compatible with G & G2 coils (0.8Ω, 1.2Ω). MTL & RDTL vaping. Shop at Coffee and Vape SA.
-  Updated: 2026-01-23T08:13:44Z
+  Updated: 2026-02-03T19:44:20Z
   Vendor: UWELL
   Product Type: 
   Availability: Available
@@ -7089,46 +7124,46 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/geekvape-zx-ii-mesh-rtacoffee-and-vape-shop-south-africa-5972560.png?v=1762841154
     Price: R 650.00 ZAR
-- [Nasty VERSA 30K Starter Kit SA | 800mAh Battery | Hybrid System | R260 | Fast Delivery](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit): Shop Nasty VERSA 30K starter kit - 800mAh rechargeable battery, hybrid pod system, compatible with VERSA pods. R260 with fast delivery across South Africa. Authentic .
-  Updated: 2026-01-29T15:23:12Z
+- [VERSA Modular Pod Kit 30k | Pre-filled & Refillable Pods | South Africa](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit): VERSA modular pod system with VPOD, VPOD ZERO & ClearTech compatibility. Freedom to choose pre-filled or refillable pods. 800mAh battery. Shop authentic VERSA in SA.
+  Updated: 2026-02-05T14:58:25Z
   Vendor: Nasty
   Product Type: Pod Systems
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-5418222.png?v=1762923864
-  - [Citronade Twist](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173343902)
+  - [Citronade Twist](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173343902)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-5418222.png?v=1762923864
     Price: R 260.00 ZAR
-  - [Cranberry Grape](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173376670)
+  - [Cranberry Grape](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173376670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-7756943.png?v=1762923864
     Price: R 260.00 ZAR
-  - [Manhattan Candy](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173409438)
+  - [Manhattan Candy](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173409438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-1190463.png?v=1762923863
     Price: R 260.00 ZAR
-  - [Peach Ice](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173442206)
+  - [Peach Ice](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173442206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-3263046.png?v=1762923863
     Price: R 260.00 ZAR
-  - [Peach Mixed Berry](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173474974)
+  - [Peach Mixed Berry](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173474974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-9479334.png?v=1762923865
     Price: R 260.00 ZAR
-  - [Pineapple Passion Fruit Lychee](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173507742)
+  - [Pineapple Passion Fruit Lychee](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173507742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-7662400.png?v=1762923864
     Price: R 260.00 ZAR
-  - [Strawberry Ice](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173540510)
+  - [Strawberry Ice](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173540510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-4284806.png?v=1762923865
     Price: R 260.00 ZAR
-  - [Watermelon Ice](https://www.coffeeandvape.co.za/products/nasty-versa-starter-kit?variant=46182173573278)
+  - [Watermelon Ice](https://www.coffeeandvape.co.za/products/versa-modular-pod-system-starter-kit?variant=46182173573278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-30k-starter-kitcoffee-and-vape-shop-south-africa-8176441.png?v=1762923863
     Price: R 260.00 ZAR
-- [NASTY VERSA Hybrid Pod  – Mag-Loc Hybrid System](https://www.coffeeandvape.co.za/products/nasty-versa-pod-only): The NASTY VERSA Hybrid Pod lets you swap between pre-filled VPODs, refillable ZERO pods and ClearTech options. One modular device, endless flavour possibilities
-  Updated: 2026-01-29T15:24:08Z
+- [NASTY VERSA 30K Hybrid Pod  – Mag-Loc Hybrid System](https://www.coffeeandvape.co.za/products/nasty-versa-pod-only): The NASTY VERSA Hybrid Pod lets you swap between pre-filled VPODs, refillable ZERO pods and ClearTech options. One modular device, endless flavour possibilities
+  Updated: 2026-02-05T13:34:21Z
   Vendor: Nasty
   Product Type: Vape Pods
   Availability: Available
@@ -7166,15 +7201,15 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-pod-30kcoffee-and-vape-shop-south-africa-4815210.png?v=1762923866
     Price: R 200.00 ZAR
   - [Manhattan Candy](https://www.coffeeandvape.co.za/products/nasty-versa-pod-only?variant=46182201163934)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-pod-30kcoffee-and-vape-shop-south-africa-4131343.png?v=1762923865
     Price: R 200.00 ZAR
   - [Citronade Twist](https://www.coffeeandvape.co.za/products/nasty-versa-pod-only?variant=46182201098398)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-versa-pod-30kcoffee-and-vape-shop-south-africa-5698681.png?v=1762923866
     Price: R 200.00 ZAR
 - [Nasty Volt 30K - 30000 Puffs Disposable Vape SA | R240 Fast Delivery](https://www.coffeeandvape.co.za/products/nasty-volt-30k-disposable-vape-south-africa): Nasty Volt 30K - 30,000 puffs, dual mesh coils, 3 power modes, dual LED screens. Premium disposable vape for R240. Fast SA delivery. Order now!
-  Updated: 2026-01-28T06:35:07Z
+  Updated: 2026-02-05T19:42:43Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
@@ -7236,7 +7271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-volt-30kcoffee-and-vape-shop-south-africa-2759944.png?v=1763089592
     Price: R 250.00 ZAR
 - [Dispo Drops Longfill Freebase - Coffee and Vape South Africa](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase): Buy Dispo Drops Longfill Freebase for only ZAR0.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-28T13:11:27Z
+  Updated: 2026-02-04T09:38:58Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -7248,7 +7283,7 @@
     Availability: Available
     Price: R 200.00 ZAR
   - [Tropical Mint](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase?variant=46186271703198)
-    Availability: Available
+    Availability: Not Available
     Price: R 200.00 ZAR
   - [Grape Energy](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase?variant=46186271735966)
     Availability: Available
@@ -7266,7 +7301,7 @@
     Availability: Available
     Price: R 200.00 ZAR
   - [Tropical Passionfruit](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase?variant=46186271899806)
-    Availability: Available
+    Availability: Not Available
     Price: R 200.00 ZAR
   - [Raspberry Chrystal](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase?variant=46186271932574)
     Availability: Available
@@ -7280,20 +7315,24 @@
   - [SU Grape](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase?variant=46186315022494)
     Availability: Available
     Price: R 200.00 ZAR
-- [Freebase VG - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/freebase-vg): Buy Freebase VG for only ZAR40.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-14T07:37:22Z
+  - [2% nic Shot freebase](https://www.coffeeandvape.co.za/products/dispo-drops-longfill-freebase?variant=46470247579806)
+    Availability: Available
+    Price: R 30.00 ZAR
+- [Freebase VG Nicotine - Premium VG Base | Coffee and Vape Shop SA](https://www.coffeeandvape.co.za/products/freebase-vg): Premium freebase nicotine in pure VG base for DIY e-liquid mixing. High-quality, smooth delivery, perfect for cloud chasing. R40.00 at Coffee and Vape Shop South Africa.
+  Updated: 2026-02-04T05:54:07Z
   Vendor: Coffee and Vape Shop South Africa
-  Product Type: 
+  Product Type: Nicotine Base
   Availability: Available
   Price: R 40.00 ZAR
-- [Ice Enhancers - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/ice-enhancers): Buy Ice Enhancers for only ZAR60.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-23T12:40:40Z
+- [Hellvape Vsee ONE POD 0.8ohm - Coffee and Vape Shop SA](https://www.coffeeandvape.co.za/products/hellvape-vsee-one-pod-0-8ohm): Buy Hellvape Vsee ONE POD 0.8ohm for only ZAR70.00 at Coffee and Vape Shop South Africa!
+  Updated: 2026-02-04T15:14:56Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
-  Price: R 60.00 ZAR
+  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/hellvape-vsee-one-pod-08ohmcoffee-and-vape-shop-south-africa-4248148.webp?v=1763089584
+  Price: R 70.00 ZAR
 - [Momo Exotic Bar 15000 Puff SA | Tropical Flavours | Compact Design | R175](https://www.coffeeandvape.co.za/products/momo-exotic-bar): Buy Momo Exotic Bar with 15,000 puff capacity - tropical exotic flavours, compact portable design, rechargeable battery. R175 nationwide delivery South Africa.
-  Updated: 2026-01-29T17:31:11Z
+  Updated: 2026-02-04T06:07:22Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: Disposable Vapes
   Availability: Available
@@ -7302,7 +7341,7 @@
     Availability: Available
     Price: R 175.00 ZAR
   - [Crisp Apple](https://www.coffeeandvape.co.za/products/momo-exotic-bar?variant=46188532465822)
-    Availability: Available
+    Availability: Not Available
     Price: R 175.00 ZAR
   - [Cherry Cola](https://www.coffeeandvape.co.za/products/momo-exotic-bar?variant=46188532498590)
     Availability: Available
@@ -7349,7 +7388,7 @@
     Availability: Available
     Price: R 10.00 ZAR
 - [Black Friday - E-liquids  | Only R90 a Bottle](https://www.coffeeandvape.co.za/products/black-friday-e-liquids): Black Friday - E-liquids at Coffee & Vape this Black Friday: E-liquids for only R90 a bottle. Limited-time  - stock up on top flavours now.
-  Updated: 2026-01-28T14:06:52Z
+  Updated: 2026-02-05T17:35:21Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -7368,10 +7407,10 @@
     Price: R 90.00 ZAR
   - [Local - OGV Moondrops On Ice MTL 18mg 30ml](https://www.coffeeandvape.co.za/products/black-friday-e-liquids?variant=46210155249822)
     Availability: Available
-    Price: R 90.00 ZAR
+    Price: R 80.00 ZAR
   - [Local - Mistify Collection - Total Blackout MTL 18mg 30ml](https://www.coffeeandvape.co.za/products/black-friday-e-liquids?variant=46210155282590)
     Availability: Available
-    Price: R 90.00 ZAR
+    Price: R 80.00 ZAR
   - [Local - Mistify Collection - Summer Fugitive MTL 18mg 30ml](https://www.coffeeandvape.co.za/products/black-friday-e-liquids?variant=46210155315358)
     Availability: Available
     Price: R 90.00 ZAR
@@ -7389,12 +7428,12 @@
     Price: R 90.00 ZAR
   - [Local - SMASHD Juicy Lucy MTL - 14mg 30ml](https://www.coffeeandvape.co.za/products/black-friday-e-liquids?variant=46210155479198)
     Availability: Available
-    Price: R 90.00 ZAR
+    Price: R 80.00 ZAR
   - [Local - SMASHD The Hitman MTL - 14mg 30ml](https://www.coffeeandvape.co.za/products/black-friday-e-liquids?variant=46210155511966)
     Availability: Available
-    Price: R 90.00 ZAR
+    Price: R 80.00 ZAR
 - [Elf Bar EW 16K Premium Adjustable Ice Control | Smart Display Vape SA](https://www.coffeeandvape.co.za/products/elf-bar-ew-16k-pod-disposable-vape-copy): Elf Bar EW 16K Premium - Adjustable ice control, smart display, 16000 puff pod. Customizable cooling, rechargeable. Premium pod system. R210. Shop now!
-  Updated: 2026-01-22T14:06:48Z
+  Updated: 2026-02-04T08:33:58Z
   Vendor: ELFBAR
   Product Type: Elfbar
   Availability: Available
@@ -7412,7 +7451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/elf-bar-ew-16k-premium-podelfbarcoffee-and-vape-shop-south-africa-5608741.webp?v=1763586857
     Price: R 210.00 ZAR
   - [Black Mint (Premium Pod)](https://www.coffeeandvape.co.za/products/elf-bar-ew-16k-pod-disposable-vape-copy?variant=46210268856478)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/elf-bar-ew-16k-premium-podelfbarcoffee-and-vape-shop-south-africa-6918602.webp?v=1763586856
     Price: R 210.00 ZAR
   - [Peach Medley (Premium Pod)](https://www.coffeeandvape.co.za/products/elf-bar-ew-16k-pod-disposable-vape-copy?variant=46210268889246)
@@ -7428,13 +7467,13 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/elf-bar-ew-16k-premium-podelfbarcoffee-and-vape-shop-south-africa-7330606.webp?v=1763586856
     Price: R 210.00 ZAR
 - [BLVK 55K - 55000 Puffs Disposable Vape SA | R360 Fast Delivery](https://www.coffeeandvape.co.za/products/blvk-55k-disposable-vape): BLVK 55K - 55,000 puffs, dual mesh coils, 3 power modes, LED display. Premium disposable vape for R360. Fast SA delivery. Authentic BLVK products!
-  Updated: 2026-01-29T16:15:28Z
+  Updated: 2026-02-05T14:03:21Z
   Vendor: BLVK
   Product Type: Disposable Vapes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/BLVK55kCoffeeandVape.avif?v=1764070041
   - [Watermelon Grape](https://www.coffeeandvape.co.za/products/blvk-55k-disposable-vape?variant=46227924320414)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-55k-disposable-vapecoffee-and-vape-shop-south-africa-8119435.jpg?v=1764086052
     Price: R 340.00 ZAR
   - [Strawberry Cream](https://www.coffeeandvape.co.za/products/blvk-55k-disposable-vape?variant=46227924353182)
@@ -7462,7 +7501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-55k-disposable-vapecoffee-and-vape-shop-south-africa-4808242.jpg?v=1764086051
     Price: R 340.00 ZAR
   - [Blue Raspberry](https://www.coffeeandvape.co.za/products/blvk-55k-disposable-vape?variant=46227924549790)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-55k-disposable-vapecoffee-and-vape-shop-south-africa-4887042.jpg?v=1764086052
     Price: R 340.00 ZAR
   - [Strawberry Slush](https://www.coffeeandvape.co.za/products/blvk-55k-disposable-vape?variant=46227924582558)
@@ -7474,7 +7513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/blvk-55k-disposable-vapecoffee-and-vape-shop-south-africa-6331821.jpg?v=1764086052
     Price: R 340.00 ZAR
 - [Elf Bar EW16000 Premium Kit SA | Adjustable Ice Levels | Smart Display | R310](https://www.coffeeandvape.co.za/products/elf-bar-ew-16k-premium-kit-adjustable-ice): Buy Elf Bar EW16000 Premium Kit with adjustable ice control - 16,000 puff capacity, smart LED screen, dual battery system. R310 nationwide delivery South Africa.
-  Updated: 2026-01-27T09:48:00Z
+  Updated: 2026-02-04T08:33:57Z
   Vendor: Elfbar
   Product Type: Pod Systems
   Availability: Available
@@ -7518,7 +7557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/artery-45kcoffee-and-vape-shop-south-africa-3683700.webp?v=1764168909
     Price: R 265.00 ZAR
 - [Nasty Bar Play 28K Disposable Vape | 28,000 Puffs – Coffee & Vape SA](https://www.coffeeandvape.co.za/products/nasty-pl4y-28k): Shop the Nasty Bar Play 28K at Coffee & Vape SA. Up to 28,000 puffs, mesh coil tech, rich flavour, long-lasting battery and premium performance in every draw.
-  Updated: 2026-01-14T07:37:23Z
+  Updated: 2026-02-05T19:07:13Z
   Vendor: Nasty
   Product Type: 
   Availability: Available
@@ -7598,7 +7637,7 @@
     Availability: Available
     Price: R 450.00 ZAR
 - [Tyson 2.0 Round 2 12000 Puffs Disposable Vape | Rechargeable](https://www.coffeeandvape.co.za/products/tyson-2-0-round-2): Tyson 2.0 Round 2 delivers 12,000 puffs with 16ml e-juice, mesh coil, LED display & Type-C charging. Premium 5% nicotine salt disposable vape in South Africa.
-  Updated: 2026-01-29T14:51:17Z
+  Updated: 2026-02-03T10:01:20Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: Disposable Vapes
   Availability: Available
@@ -7616,7 +7655,7 @@
     Availability: Available
     Price: R 195.00 ZAR
   - [Pineapple Gummies](https://www.coffeeandvape.co.za/products/tyson-2-0-round-2?variant=46232873697438)
-    Availability: Not Available
+    Availability: Available
     Price: R 195.00 ZAR
 - [VooPoo MAAT Tank 6.5ml New Version | Volcano Crater Design | SA](https://www.coffeeandvape.co.za/products/voopoo-maat-tank-6-5ml): VooPoo MAAT Tank 6.5ml with Volcano Crater leak-proof design, threaded top-fill, adjustable airflow. Compatible with TPP DM1-DM4 coils. Deep DL vaping. Shop at Coffee and Vape SA.
   Updated: 2026-01-23T15:47:35Z
@@ -7666,20 +7705,20 @@
     Availability: Not Available
     Price: R 0.00 ZAR
 - [Nasty 8500 Puff Compact Vape SA | Budget-Friendly | Pocket Size | R150](https://www.coffeeandvape.co.za/products/nasty-8500): Buy Nasty 8500 compact vape - 8,500 puff capacity, budget-friendly price, pocket-sized design, authentic Nasty flavours. R150 nationwide delivery South Africa.
-  Updated: 2026-01-29T15:03:42Z
+  Updated: 2026-02-05T15:07:41Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: Disposable Vapes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-8500coffee-and-vape-shop-south-africa-4465395.png?v=1767737646
   Price: R 150.00 ZAR
 - [Nasty Salt Nic Juice 35mg 30ml | Premium Nic Salts | South Africa](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice): Nasty Salt Nic Juice 35mg 30ml with premium nicotine salts. Available in ASAP Grape, Bad Blood, Cushman, Slow Blow & more. For pod systems & MTL tanks. Shop at Coffee and Vape SA.
-  Updated: 2026-01-29T14:40:09Z
+  Updated: 2026-02-03T10:00:45Z
   Vendor: Nasty
   Product Type: E-Liquid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/nasty-salt-asap-grape-1.webp?v=1768986430
   - [Strawberry Ice (Supercool)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46277498470558)
-    Availability: Not Available
+    Availability: Available
     Price: R 240.00 ZAR
   - [Peach Ice (Supercool)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46295404609694)
     Availability: Available
@@ -7688,15 +7727,18 @@
     Availability: Available
     Price: R 240.00 ZAR
   - [Passion Fruit Ice (Supercool)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46277498536094)
-    Availability: Not Available
+    Availability: Available
     Price: R 240.00 ZAR
   - [Gauva Ice (Supercool)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46277498568862)
-    Availability: Not Available
+    Availability: Available
     Price: R 240.00 ZAR
   - [Pineapple (Smooth)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46277498601630)
     Availability: Available
     Price: R 240.00 ZAR
   - [Gauva (Smooth)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46277498634398)
+    Availability: Available
+    Price: R 240.00 ZAR
+  - [Watermelon Ice (Supercool)](https://www.coffeeandvape.co.za/products/nasty-salt-nic-juice?variant=46469920850078)
     Availability: Available
     Price: R 240.00 ZAR
 - [Hardy Caffeine Infused Pouches 75mg 20 Pack | Tobacco-Free | SA](https://www.coffeeandvape.co.za/products/hardy-caffeine-infused-pouches): Hardy Caffeine Infused Pouches with 75mg caffeine per pouch. Tobacco-free, nicotine-free energy boost. 20 pouches per can. Fast oral absorption. Discreet, portable alternative to energy drinks. Shop at Coffee and Vape SA.
@@ -7806,7 +7848,7 @@
     Availability: Not Available
     Price: R 110.00 ZAR
 - [X Nic Pouch - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/x-nic-pouch): Buy X Nic Pouch for only ZAR30.00 at Coffee and Vape Shop South Africa!
-  Updated: 2026-01-19T12:31:35Z
+  Updated: 2026-02-05T19:06:57Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: 
   Availability: Available
@@ -7869,7 +7911,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/vaporesso-gen-se-kitcoffee-and-vape-shop-south-africa-3888927.jpg?v=1766494747
   Price: R 1,250.00 ZAR
 - [Olit 45K Disposable Vape Ice Control SA | 45000 Puffs | R200 | Fast Delivery](https://www.coffeeandvape.co.za/products/olit-45k-puff-ice-control): Shop Olit 45K disposable vape with adjustable ice control - 45,000 puffs, dual mesh coils, LED display. R200 with fast delivery across South Africa. Authentic .
-  Updated: 2026-01-28T09:45:51Z
+  Updated: 2026-02-04T06:39:37Z
   Vendor: Coffee and Vape Shop South Africa
   Product Type: Disposable Vapes
   Availability: Available
@@ -7887,7 +7929,7 @@
     Availability: Available
     Price: R 200.00 ZAR
   - [Grape Ice](https://www.coffeeandvape.co.za/products/olit-45k-puff-ice-control?variant=46321945968798)
-    Availability: Available
+    Availability: Not Available
     Price: R 200.00 ZAR
 - [Elf Bar 2500 Disposable Pod Device - Coffee and Vape Shop South Africa](https://www.coffeeandvape.co.za/products/elf-bar-2500-disposable-pod-device): Buy Elf Bar 2500 Disposable Pod Device for only ZAR190.00 at Coffee and Vape Shop South Africa!
   Updated: 2026-01-14T07:37:24Z
@@ -7911,154 +7953,139 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/download_5_c1b9833c-6a5f-4698-bf97-e87c7d87195c.jpg?v=1768385874
   Price: R 70.00 ZAR
-- [Wotofo nexPOD 50MG 5K Kit 650mAh Rechargeable | South Africa](https://www.coffeeandvape.co.za/products/wotofo-nexpod-50mg-5k-kit): Wotofo nexPOD 50MG 5K Kit with 650mAh rechargeable battery, 5,000 puffs per pod, nexMESH 1.1Ω coil, nexChip 0.0001s response, Type-C charging. Pre-filled 4ml pods with 50mg salt nic. Shop at Coffee and Vape SA.
-  Updated: 2026-01-23T08:56:38Z
-  Vendor: WOTOFO
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/9742/7358/files/Wotofo-nexPOD-Kit-1.webp?v=1768801744
-  - [Wotofo Kit Dragon Fruit Berry](https://www.coffeeandvape.co.za/products/wotofo-nexpod-50mg-5k-kit?variant=46419852001438)
-    Availability: Available
-    Price: R 200.00 ZAR
-  - [Wotofo Kit Mint](https://www.coffeeandvape.co.za/products/wotofo-nexpod-50mg-5k-kit?variant=46419852034206)
-    Availability: Available
-    Price: R 200.00 ZAR
-  - [Wotofo Kit Caramel Tobacco](https://www.coffeeandvape.co.za/products/wotofo-nexpod-50mg-5k-kit?variant=46419852066974)
-    Availability: Available
-    Price: R 200.00 ZAR
-[List Continued](https://www.coffeeandvape.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTk4Mjg1NjE1MjYyLCJsYXN0X3ZhbHVlIjoiODU5ODI4NTYxNTI2MiJ9)
+[List Continued](https://www.coffeeandvape.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTg5Njk3MjIwNzY2LCJsYXN0X3ZhbHVlIjoiODU4OTY5NzIyMDc2NiJ9)
 
 ## Collections
 
 - [Nasty Vape South Africa 2026 | 55K Surge, CLEARTECH 38K, VERSA 30K - Official Stockist 1,800+ Stock](https://www.coffeeandvape.co.za/collections/nasty-vape): Shop authentic Nasty Vape disposables in South Africa. Premium flavours, long-lasting performance, warranty-backed quality. Fast delivery.
-  Updated: 2026-01-29T14:57:39Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 21
 - [Pop Hit Vape South Africa | 25K Dual Mode & 12000 Puff Disposables - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/pop-hits): Shop authentic Pop Hit disposable vapes in South Africa. Vibrant flavours, compact design, reliable performance.
-  Updated: 2026-01-29T15:02:47Z
+  Updated: 2026-02-03T12:13:06Z
   Total Products: 2
 - [Vapengin Disposable Vapes - 5000 puffs](https://www.coffeeandvape.co.za/collections/vapengin-neptune-2-south-africa): Shop authentic Vapengin Neptune vapes in South Africa. Dual-mesh technology, high puff counts, rechargeable batteries.
-  Updated: 2026-01-29T15:03:10Z
+  Updated: 2026-02-03T12:13:06Z
   Total Products: 1
 - [Airscream AirsPops Vapes South Africa | Disposables, Pods & Kits - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/airscream-airspops): Shop authentic Airscream AirsPops pod systems in South Africa. Refillable cartridges, sleek design, cost-effective.
-  Updated: 2026-01-29T15:03:31Z
-  Total Products: 15
+  Updated: 2026-02-05T19:00:34Z
+  Total Products: 16
 - [Wotofo Vape South Africa | nexPOD Refillo Kit, Profile M RTA & Nexmesh Coils - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/wotofo-nexpod-50mg-replacement-pod): Shop authentic Wotofo pod systems and replacement pods in South Africa. Innovative technology, excellent flavour, refillable.
-  Updated: 2026-01-29T15:00:20Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 9
 - [SMOK Vape South Africa | Nord, Novo, Arco Pod Kits, RPM Coils & Tanks - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/smok-starter-kits): Shop authentic SMOK starter kits and pod systems in South Africa. Advanced technology, reliable performance, warranty-backed.
-  Updated: 2026-01-29T15:00:11Z
-  Total Products: 49
+  Updated: 2026-02-05T12:13:46Z
+  Total Products: 52
 - [Elf Bar South Africa | Ice King 25000 LCD, EW 18K, EW 16K Disposables & ELFLIQ - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/elf-bar): Shop authentic Elf Bar disposable vapes in South Africa. Premium flavours, reliable performance, sleek design. Fast delivery.
-  Updated: 2026-01-29T15:00:16Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 11
 - [Lavie Energy Box 15000 Disposable Vape](https://www.coffeeandvape.co.za/collections/lavie-energy-box-15000): Shop authentic Lavie Energy Box vapes in South Africa. Up to 15,000 puffs, rechargeable, LED display.
-  Updated: 2026-01-29T15:03:51Z
+  Updated: 2026-02-01T12:10:55Z
   Total Products: 3
 - [BLVK Vape South Africa | 55K, 40K NIC&ICE Adjustable, 20K Disposables - American Premium](https://www.coffeeandvape.co.za/collections/blvk-disposable): Shop authentic BLVK disposable vapes in South Africa. Premium flavours, innovative technology, extended battery life. Fast delivery.
-  Updated: 2026-01-29T14:59:58Z
+  Updated: 2026-02-04T12:12:53Z
   Total Products: 6
 - [Best Disposable Vapes South Africa 2026 | Nasty, Elf Bar, OXBAR 900-120K Puffs - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/best-disposable-vapes): Shop South Africa's best disposable vapes from Elf Bar, BLVK, Nasty & ATVS. Authentic devices, premium flavours, fast delivery.
-  Updated: 2026-01-29T14:58:22Z
-  Total Products: 109
+  Updated: 2026-02-05T18:56:37Z
+  Total Products: 113
 - [Nasty Juice E-Liquids and Vape Flavours](https://www.coffeeandvape.co.za/collections/nasty-juices-series): Shop authentic Nasty Juice e-liquids in South Africa. Premium Malaysian flavours, various nicotine strengths, quality ingredients.
-  Updated: 2026-01-29T15:04:08Z
+  Updated: 2026-02-05T18:05:58Z
   Total Products: 15
 - [Oxbar Vape South Africa | Trifusion 50K, Gturbo 36K, GPrime 25K & Elite Pod Kit - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/oxbar): Shop authentic Oxbar disposable vapes in South Africa. Premium mesh coil technology, bold flavours, sleek design.
-  Updated: 2026-01-29T15:00:41Z
+  Updated: 2026-02-05T12:13:45Z
   Total Products: 7
 - [Tugboat 20000 Puff Disposable Vape](https://www.coffeeandvape.co.za/collections/tugboat-vape): Shop authentic Tugboat disposable vapes in South Africa. Rugged design, bold flavours, powerful performance.
-  Updated: 2026-01-29T15:04:26Z
+  Updated: 2026-01-30T12:12:14Z
   Total Products: 2
 - [Lost Vape Devices and Pods - Replacement](https://www.coffeeandvape.co.za/collections/lost-vape): Shop authentic Lost Vape pod systems and mods in South Africa. Premium DNA chipsets, advanced technology, elegant design.
   Updated: 2026-01-29T15:04:43Z
   Total Products: 4
 - [Pod Kits South Africa | Vaporesso XROS, SMOK Nord, OXVA XLIM, Uwell Caliburn - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/starter-kits-mods): Shop refillable pod kits and starter systems in South Africa. Authentic devices, rechargeable, cost-effective vaping solutions.
-  Updated: 2026-01-29T15:00:25Z
-  Total Products: 65
+  Updated: 2026-02-05T18:59:58Z
+  Total Products: 69
 - [Vape Juice South Africa | Nic Salts, Freebase E-Liquid & Longfills - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/juices): Shop premium vape juice and e-liquids in South Africa. Various nicotine strengths, authentic brands, quality ingredients.
-  Updated: 2026-01-29T16:10:24Z
-  Total Products: 80
+  Updated: 2026-02-05T21:04:56Z
+  Total Products: 82
 - [Vape Pods & Coils South Africa | SMOK, Vaporesso, Geekvape Replacement Parts - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/pods-coils): Shop authentic replacement pods and coils in South Africa. Compatible with all major brands, optimal performance .
-  Updated: 2026-01-29T15:00:33Z
-  Total Products: 111
+  Updated: 2026-02-05T19:00:34Z
+  Total Products: 112
 - [YOUUP Disposable Vapes - Disposable vape](https://www.coffeeandvape.co.za/collections/youup): Shop authentic YOUUP disposable vapes in South Africa. Innovative features, premium flavours, high puff counts.
   Updated: 2026-01-29T15:05:02Z
   Total Products: 1
 - [ATVS Vape South Africa | E-Hookah 120K World Record, 60K 4-in-1, 30K & 16K Disposables](https://www.coffeeandvape.co.za/collections/atvs): ATVS disposable vapes with up to 30,000 puffs. World-record innovation, rechargeable, adjustable airflow. Shop South Africa.
-  Updated: 2026-01-29T15:00:07Z
+  Updated: 2026-02-05T12:13:45Z
   Total Products: 4
 - [SVG Disposable Vapes](https://www.coffeeandvape.co.za/collections/svg): Shop authentic SVG disposable vapes in South Africa. Premium flavours, sleek design, reliable performance.
-  Updated: 2026-01-29T15:05:22Z
+  Updated: 2026-02-05T06:57:42Z
   Total Products: 2
 - [NEXA Vape South Africa | Ultra 40000 & Dragbar Nexa 20000 Disposables - High Capacity](https://www.coffeeandvape.co.za/collections/nexa): Shop authentic NEXA disposable vapes in South Africa. Premium flavours, high puff counts, rechargeable batteries.
-  Updated: 2026-01-29T15:00:37Z
+  Updated: 2026-02-03T12:13:06Z
   Total Products: 3
 - [Jack Parow Vape South Africa | Tjoef 10K Disposable, Nic Pouches & Official Merch - SA  Brand](https://www.coffeeandvape.co.za/collections/jack-parrow): Official Jack Parow vapes and merchandise in South Africa. Signature flavours, authentic quality, bold South African character.
-  Updated: 2026-01-29T15:00:03Z
+  Updated: 2026-02-05T17:50:06Z
   Total Products: 7
 - [Bewolk Vape South Africa | Smart Device Touchscreen, XL Pods 15mL & E-Liquids - SA Brand](https://www.coffeeandvape.co.za/collections/bewolk): Shop authentic Bewolk disposable vapes in South Africa. Local brand, unique South African flavours, quality performance.
-  Updated: 2026-01-29T15:05:44Z
+  Updated: 2026-02-05T18:56:37Z
   Total Products: 12
 - [E-xhale Vape South Africa | 900-20K Disposables, 40mg Nic Salts, LIPI Mints - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/e-xhale): Shop authentic E-xhale vapes, nic salts & LIPI mints in South Africa. Disposables, e-liquids, nicotine pouches. Fast delivery.
-  Updated: 2026-01-29T15:06:31Z
-  Total Products: 10
+  Updated: 2026-02-05T12:13:46Z
+  Total Products: 12
 - [C&V House Brand Vape Products | Coffee & Vape](https://www.coffeeandvape.co.za/collections/c-v-house-brand): Shop C&V House Brand e-liquids and vape products in South Africa. Premium quality, affordable pricing, bold flavours.
-  Updated: 2026-01-29T15:06:50Z
+  Updated: 2026-02-05T17:44:47Z
   Total Products: 7
 - [Vape Lanyards and Key Chains - Merchandise](https://www.coffeeandvape.co.za/collections/lanyards-key-chains): Shop vape lanyards, key chains & merchandise in South Africa. Jack Parow, Bewolk accessories. Durable, stylish vape gear.
-  Updated: 2026-01-29T15:07:10Z
+  Updated: 2026-02-04T12:12:52Z
   Total Products: 6
 - [Latest Vape Deals South Africa | Up to 50% Off, Multi-Buy Specials - January 2026](https://www.coffeeandvape.co.za/collections/latest-deals): Shop latest vape deals in South Africa. Save on disposables, pod kits, e-liquids. Multi-buy specials, limited offers.
-  Updated: 2026-01-29T15:07:33Z
-  Total Products: 37
+  Updated: 2026-02-05T19:00:48Z
+  Total Products: 53
 - [Vaporesso Vape South Africa | XROS 5, Gen Max 220W, Luxe Pod Kits & COREX Coils - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/vaporesso): Shop authentic Vaporesso pod systems in South Africa. XROS, Gen Max, Luxe kits with COREX technology. Fast delivery.
-  Updated: 2026-01-29T15:07:54Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 37
 - [Vape Mods & Kits South Africa | Vaporesso, Geekvape Aegis, Voopoo Drag, SMOK - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/mods-kits): Shop vape mods & starter kits in South Africa. Vaporesso, Geekvape, Voopoo, SMOK. Advanced features, authentic devices.
   Updated: 2026-01-29T15:08:18Z
   Total Products: 29
 - [Uwell Caliburn South Africa | G4 Pro Touchscreen, G4 Mini, GZ2 Pod Kits & Coils - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/uwell-caliburn): Shop authentic Uwell Caliburn pod systems in South Africa. G4 Pro, G4, G4 Mini, GZ2. Pro-FOCS technology, fast delivery.
-  Updated: 2026-01-29T15:08:36Z
+  Updated: 2026-02-05T12:13:45Z
   Total Products: 13
 - [Geekvape South Africa | Aegis Legend 3, T200 Touch Mods, Z Series Coils & Boost Pods - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/geekvape): Shop authentic Geekvape Aegis mods in South Africa. Legend 3, T200, Boost pods. IP68 waterproof, Z coils. Fast delivery.
-  Updated: 2026-01-29T15:08:57Z
+  Updated: 2026-02-04T12:12:52Z
   Total Products: 23
 - [Nevoks Vape South Africa | Feelin AR, Feelin 2, Feelin 3 Pod Kits & Pods - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/nevoks): Shop authentic Nevoks Feelin pod systems in South Africa. Feelin AR, Feelin 2, Feelin 3. Adjustable airflow, SPL coils.
-  Updated: 2026-01-29T15:09:17Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 9
 - [San Dynasty Vape South Africa | 30W Pod Kit, 14500 Battery & Charger - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/san-dynasty): Shop authentic San Dynasty 30W pod system in South Africa. Removable 14500 battery, charger, refillable pods. Unlimited runtime.
-  Updated: 2026-01-29T15:09:35Z
+  Updated: 2026-02-03T19:28:33Z
   Total Products: 4
 - [Voopoo Vape South Africa | Argus Dual Display, Drag 5 177W, PnP & TPP Coils - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/voopoo): Shop authentic Voopoo Argus & Drag mods in South Africa. Argus Dual Display, Drag 5, PnP & TPP coils. GENE chipsets.
-  Updated: 2026-01-29T15:09:54Z
+  Updated: 2026-02-04T12:12:53Z
   Total Products: 19
 - [Nicotine Pouches South Africa | Zyn, Velo, White Fox, Siberia Snus & Tobacco-Free - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/pouches): Shop nicotine pouches in South Africa. Zyn, Velo, White Fox, Siberia, LIPI mints. Tobacco-free, smoke-free, discreet.
-  Updated: 2026-01-29T15:10:14Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 17
 - [OXVA Vape South Africa | XLIM Pro 2, DNA Xlim, Nexlim Pod Kits & Pods - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/oxva): Shop authentic OXVA XLIM pod systems in South Africa. XLIM Pro 2, DNA Xlim, Nexlim. X-Treme Flavour MTL technology.
-  Updated: 2026-01-29T15:10:35Z
-  Total Products: 9
+  Updated: 2026-02-05T12:13:45Z
+  Total Products: 10
 - [Dispo Drops E-Liquid South Africa | Flavor Shots & Longfills - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/dispo-drops): Shop Dispo Drops flavor shots & longfills in South Africa. DIY e-liquid mixing, concentrated flavours, cost-effective.
-  Updated: 2026-01-29T15:10:56Z
+  Updated: 2026-02-05T12:13:45Z
   Total Products: 2
 - [Craft Vapour E-Liquid South Africa | 60ml Longfill Nic-Shots - Premium Flavors](https://www.coffeeandvape.co.za/collections/craft-vapour): Shop Craft Vapour premium e-liquids in South Africa. 60ml longfills, nic-shots, expertly blended flavours, high VG.
-  Updated: 2026-01-29T15:11:16Z
+  Updated: 2026-02-04T12:12:52Z
   Total Products: 1
 - [Vuse Vape South Africa | ePod, Pro One Devices & Pre-Filled Pods - Coffee and Vape Shop](https://www.coffeeandvape.co.za/collections/vuse): Shop authentic Vuse vape products in South Africa. Pro One, Reload kit, ePod pods. Closed pod simplicity, fast delivery.
-  Updated: 2026-01-29T15:11:36Z
+  Updated: 2026-02-05T12:13:45Z
   Total Products: 4
 - [Wholesale Vape South Africa | Bulk Disposables, Nasty, Elf Bar, OXBAR - Trade Supplier](https://www.coffeeandvape.co.za/collections/wholesale): Wholesale vapes South Africa. Bulk disposables, pod systems, e-liquids. Trade pricing, authentic products, fast delivery.
-  Updated: 2026-01-29T15:12:04Z
+  Updated: 2026-02-05T18:48:07Z
   Total Products: 71
 - [New Arrivals Vape South Africa January 2026 | Latest Disposables, Pods & E-Liquids - Updated Weekly](https://www.coffeeandvape.co.za/collections/new-arrivals): Shop latest vape arrivals in South Africa. New disposables, pod systems, e-liquids. Updated weekly, authentic products.
-  Updated: 2026-01-29T15:12:23Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 11
 - [Nicotine-Free Vapes South Africa | 0% Nic Disposables - No Nicotine Vaping](https://www.coffeeandvape.co.za/collections/no-nicotine-nic-free): Shop nicotine-free vapes in South Africa. 0% nic disposables, pure flavour, no nicotine. Perfect for reducing intake.
-  Updated: 2026-01-29T15:12:43Z
+  Updated: 2026-02-05T12:13:46Z
   Total Products: 2
 - [Smart Products Filter Index - Do not delete](https://www.coffeeandvape.co.za/collections/globofilter-best--products-index)
-  Updated: 2026-01-29T16:10:24Z
-  Total Products: 437
+  Updated: 2026-02-05T21:04:56Z
+  Total Products: 446
 
 ## Blogs
 
