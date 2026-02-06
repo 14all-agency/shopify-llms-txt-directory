@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-01T17:38:27Z
-- Updated At: 2026-01-27T00:00:32.799Z
+- Updated At: 2026-02-06T00:00:37.291Z
 
 ## Products
 
@@ -121,7 +121,7 @@
     Availability: Available
     Price: $83.20 USD
 - [Buy Argentina eSIM for travel - Argentina 100MB 7Days](https://www.travelfi.me/products/ar_zone): Pre-paid roaming. Hotspot sharing. Full-speed data plan for Argentina.
-  Updated: 2025-12-11T19:07:48Z
+  Updated: 2026-02-02T03:15:03Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -1171,7 +1171,7 @@
     Availability: Available
     Price: $39.70 USD
 - [Buy Ecuador eSIM for travel - Ecuador 1GB 7Days](https://www.travelfi.me/products/ec_zone): Pre-paid roaming. Hotspot sharing. Full-speed data plan for Ecuador.
-  Updated: 2025-12-11T19:07:57Z
+  Updated: 2026-02-02T04:16:01Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -1954,7 +1954,7 @@
     Availability: Available
     Price: $45.50 USD
 - [Buy Iceland eSIM for travel - Iceland 1GB 7Days](https://www.travelfi.me/products/is_zone): Pre-paid roaming. Hotspot sharing. Full-speed data plan for Iceland.
-  Updated: 2025-12-11T19:08:04Z
+  Updated: 2026-01-28T02:43:04Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -2149,7 +2149,7 @@
     Availability: Available
     Price: $37.70 USD
 - [Buy Kenya eSIM for travel - Kenya 100MB 7Days](https://www.travelfi.me/products/ke_zone): Pre-paid roaming. Hotspot sharing. Full-speed data plan for Kenya.
-  Updated: 2025-12-11T19:08:05Z
+  Updated: 2026-02-02T02:18:25Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -2233,7 +2233,7 @@
     Availability: Available
     Price: $33.80 USD
 - [Buy South Korea eSIM for travel - South Korea 100MB 7Days](https://www.travelfi.me/products/kr_zone): Pre-paid roaming. Hotspot sharing. Full-speed data plan for South Korea.
-  Updated: 2025-12-11T19:08:05Z
+  Updated: 2026-02-02T03:11:53Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -6820,7 +6820,7 @@
     Availability: Available
     Price: $46.20 USD
 - [Buy a Kenya Unlimited Data Day Pass eSIM Plan](https://www.travelfi.me/products/ke_daypass): Unlimited data eSIM for Kenya. Pay per day, instant activation, no roaming fees. Ideal for short trips.
-  Updated: 2025-12-11T19:08:37Z
+  Updated: 2026-02-02T02:19:21Z
   Vendor: RTG
   Product Type: eSIM
   Availability: Available
@@ -8495,53 +8495,53 @@
   Updated: 2025-12-20T12:17:39Z
   Total Products: 9
 - [Unlimited Data](https://www.travelfi.me/collections/daypass): Unlimited data for the selected number of days.This eSIM plans are a non-reloadable day passes. After daily limit used speed will be throttled until next 24 period. No top-ups or extensions are available.Simply choose how many days you want your pass to be valid, and enjoy unlimited data during that period.
-  Updated: 2026-01-26T04:20:54Z
-  Total Products: 114
+  Updated: 2026-02-04T12:19:47Z
+  Total Products: 293
 - [South America](https://www.travelfi.me/collections/south-america): South America travel destinations
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 19
-- [Europe Travel eSIMs](https://www.travelfi.me/collections/europe-destinations): Stay connected across Europe with ease. Our Europe Travel eSIM Collection is designed for modern explorers who want seamless data coverage
-  Updated: 2026-01-25T21:00:22Z
-  Total Products: 94
-- [Balkan](https://www.travelfi.me/collections/balkan): Travel eSIM for Balkan destinations
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 18
-- [Eastern Europe](https://www.travelfi.me/collections/eastern-europe): Travel eSIM for Eastern Europe countries
-  Updated: 2026-01-17T12:16:56Z
-  Total Products: 14
-- [Asia](https://www.travelfi.me/collections/asia): Asia eSIM Travel Destinations
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 90
-- [Mediterranean](https://www.travelfi.me/collections/balkan-1): Plans for Mediterranean destinations
-  Updated: 2025-12-29T12:18:26Z
+  Updated: 2026-02-03T02:56:22Z
   Total Products: 22
-- [Africa](https://www.travelfi.me/collections/africa): Travel eSIM for Africa
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 39
-- [Central America](https://www.travelfi.me/collections/central-america): Travel eSIM for Central America countries
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 8
-- [Oceania](https://www.travelfi.me/collections/oceania): Travel eSIM for Oceania and Pacific regions
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 9
-- [Latin America](https://www.travelfi.me/collections/latin-america): Travel eSIM for Latin America region
-  Updated: 2025-12-11T19:07:47Z
+- [Europe Travel eSIMs](https://www.travelfi.me/collections/europe-destinations): Stay connected across Europe with ease. Our Europe Travel eSIM Collection is designed for modern explorers who want seamless data coverage
+  Updated: 2026-02-04T12:19:47Z
+  Total Products: 129
+- [Balkan](https://www.travelfi.me/collections/balkan): Travel eSIM for Balkan destinations
+  Updated: 2026-02-02T04:11:19Z
+  Total Products: 25
+- [Eastern Europe](https://www.travelfi.me/collections/eastern-europe): Travel eSIM for Eastern Europe countries
+  Updated: 2026-01-27T03:51:53Z
   Total Products: 19
+- [Asia](https://www.travelfi.me/collections/asia): Asia eSIM Travel Destinations
+  Updated: 2026-02-03T04:20:57Z
+  Total Products: 111
+- [Mediterranean](https://www.travelfi.me/collections/balkan-1): Plans for Mediterranean destinations
+  Updated: 2026-02-02T02:22:01Z
+  Total Products: 25
+- [Africa](https://www.travelfi.me/collections/africa): Travel eSIM for Africa
+  Updated: 2026-02-03T04:23:21Z
+  Total Products: 53
+- [Central America](https://www.travelfi.me/collections/central-america): Travel eSIM for Central America countries
+  Updated: 2026-02-03T04:00:35Z
+  Total Products: 11
+- [Oceania](https://www.travelfi.me/collections/oceania): Travel eSIM for Oceania and Pacific regions
+  Updated: 2026-02-03T03:40:16Z
+  Total Products: 12
+- [Latin America](https://www.travelfi.me/collections/latin-america): Travel eSIM for Latin America region
+  Updated: 2026-02-02T04:13:35Z
+  Total Products: 24
 - [Multi Region](https://www.travelfi.me/collections/multi-region): eSIM for global or multi regions travel
-  Updated: 2025-12-11T19:07:47Z
-  Total Products: 6
+  Updated: 2026-01-27T02:53:51Z
+  Total Products: 11
 - [North America](https://www.travelfi.me/collections/north-america): Travel eSIM for North America and Caribbean destination
-  Updated: 2025-12-20T12:17:39Z
-  Total Products: 18
+  Updated: 2026-02-02T02:34:44Z
+  Total Products: 23
 - [East Asia](https://www.travelfi.me/collections/south-asia): Travel eSIM for South Asia region
-  Updated: 2025-12-11T19:07:48Z
-  Total Products: 9
+  Updated: 2026-01-28T02:45:47Z
+  Total Products: 11
 - [Caribbean](https://www.travelfi.me/collections/caribbean): Travel eSIM for Caribbean destinations
-  Updated: 2025-12-11T19:07:48Z
-  Total Products: 7
+  Updated: 2026-02-03T02:08:36Z
+  Total Products: 11
 - [Moldova eSIm Plans Unlimited & Fixed Data Options | TravelFi](https://www.travelfi.me/collections/moldova-esim-plans-for-travelers): Explore TravelFi's Moldova eSIM plans: choose between unlimited daily passes or fixed data packages. Instant activation, no roaming fees, perfect for travelers
-  Updated: 2025-12-11T19:07:48Z
-  Total Products: 2
+  Updated: 2026-01-27T01:06:39Z
+  Total Products: 3
 - [Spain eSIM Plans – Unlimited & Fixed Data Options  TravelFi](https://www.travelfi.me/collections/spain): Explore TravelFi’s Spain eSIM plans: choose between unlimited daily passes or fixed data packages. Instant activation, no roaming fees, perfect for travelers.
   Updated: 2025-12-29T12:18:26Z
   Total Products: 2
@@ -8549,36 +8549,52 @@
   Updated: 2025-12-11T19:07:48Z
   Total Products: 2
 - [Multi Regional eSIM Travel Plans](https://www.travelfi.me/collections/multi-regional-esim-plans): One eSIM. Multiple countries. Seamless coverage with fast data and instant activation for international travelers, spanning Europe, Asia, Americas and more.
-  Updated: 2026-01-26T04:04:34Z
+  Updated: 2026-02-02T04:11:19Z
   Total Products: 34
 - [Browse All Travelfi eSIMs  Reliable Global Travel Data Plan](https://www.travelfi.me/collections/all-esim-plans-for-international-travel): Browse all Travelfi eSIM plans for global, regional, and country‑specific travel. Instant activation, fast data, and reliable coverage for every destination.
-  Updated: 2026-01-26T04:26:19Z
-  Total Products: 271
+  Updated: 2026-02-03T04:22:50Z
+  Total Products: 319
 
 ## Blogs
 
-- [How To](https://www.travelfi.me/blogs/how-to)
+- [eSIM Tips & How‑Tos](https://www.travelfi.me/blogs/how-to): Learn how to use your eSIM like a pro with setup guides, data‑saving tips, device compatibility help, and step‑by‑step troubleshooting.
   - [Unlimited Data eSIM Plan: Features & How It Works](https://www.travelfi.me/blogs/how-to/unlimited-data-esim-plan-features-how-it-works): <p><span>This Unlimited Data eSIM plan offers high-speed data with a daily usage reset, hotspot support, and no SMS or voice calls. It’s ideal for travellers and remote workers, but requires a device that supports eSIM technology.</span></p>
     Updated: 2025-09-25T01:44:11Z
     Author: Jevgenijs Akimovs
-- [Travel eSIM News](https://www.travelfi.me/blogs/travel-esim-news)
-  - [eSIM Plans for Short-Term Business Travel](https://www.travelfi.me/blogs/travel-esim-news/💼-esim-plans-for-short-term-business-travel-in-2025): <p><span>TravelFi.Me offers eSIM plans for business travellers, providing instant activation, global coverage, and secure QR code delivery. Plans range from 3GB to 20GB, valid for 7 to 30 days, with compatibility for dual-SIM phones.</span></p>
-    Updated: 2025-12-23T03:37:00Z
+  - [How Much Data Do You Need for an eSIM While Traveling?](https://www.travelfi.me/blogs/how-to/how-much-data-do-you-need-for-an-esim-while-traveling): <p>Travelers often overestimate how much mobile data they need abroad. In reality, most tourists use just a few hundred megabytes per day thanks to hotel Wi‑Fi, offline maps, and light browsing. This guide breaks down real daily data usage for sightseeing, day trips, and social media so you can choose the right eSIM plan and avoid overpaying.</p>
+    Updated: 2026-02-05T02:50:09Z
+    Author: Jevgenijs Akimovs
+    Tags: esim, tips, Tourists
+  - [12 Smart Data‑Saving Tips Every Traveler Should Use in 2026](https://www.travelfi.me/blogs/how-to/smart-data-saving-tips-for-travelers-how-to-make-your-esim-last-longer): 12 Smart Data‑Saving Tips Every Traveler Should Use in 2026
+    Updated: 2026-02-05T02:50:27Z
+    Author: Jevgenijs Akimovs
+    Tags: esim, How To, tips, Tourists, travel
+  - [How to Use Wi‑Fi Calling While Traveling with a Data‑Only eSIM](https://www.travelfi.me/blogs/how-to/how-to-use-wi-fi-calling-while-traveling-and-can-you-use-it-with-a-data-only-esim): How to Use Wi‑Fi Calling While Traveling with a Data‑Only eSIM
+    Updated: 2026-02-05T02:15:27Z
+    Author: Jevgenijs Akimovs
+    Tags: esim, How To, tips, Tourists, travel
+- [Travel Tech & Connectivity](https://www.travelfi.me/blogs/travel-esim-news): Learn about Travelfi’s latest deals, rewards, family discounts, and exclusive programs for frequent travelers.
+  - [eSIM Plans for Short-Term Business Travel](https://www.travelfi.me/blogs/travel-esim-news/💼-esim-plans-for-short-term-business-travel-in-2025): <p><span>TravelFi.Me offers eSIM plans for business travelers, providing instant activation, global coverage, and secure QR code delivery. Plans range from 3GB to 20GB, valid for 7 to 30 days, with compatibility for dual-SIM phones.</span></p>
+    Updated: 2026-02-05T02:20:19Z
     Author: Jevgenijs Akimovs
     Tags: Business, esim, travel
-  - [Travel eSIM for Tourists Visiting Italy in 2026](https://www.travelfi.me/blogs/travel-esim-news/best-esim-for-tourists-visiting-italy-in-2025): <p><span>TravelFi.Me offers eSIM plans for Italy, providing instant activation, local data rates, and coverage across major cities and rural areas. Plans range from 1GB to 20GB, valid from 1 to 30 days, with secure QR code delivery and multilingual support.</span></p>
-    Updated: 2026-01-13T05:56:36Z
+- [Destination Guides](https://www.travelfi.me/blogs/travel-destinations): Find the best eSIM for your destination with detailed travel guides, data tips, and connectivity advice for every country.
+  - [Travel eSIM for Tourists Visiting Italy in 2026](https://www.travelfi.me/blogs/travel-destinations/best-esim-for-tourists-visiting-italy-in-2025): <p><span>TravelFi.Me offers eSIM plans for Italy, providing instant activation, local data rates, and coverage across major cities and rural areas. Plans range from 1GB to 20GB, valid from 1 to 30 days, with secure QR code delivery and multilingual support.</span></p>
+    Updated: 2026-02-05T02:19:58Z
     Author: Jevgenijs Akimovs
     Tags: Tourists, travel
-- [Travel Destinations](https://www.travelfi.me/blogs/travel-destinations)
   - [Kraków & Zakopane Travel Guide: Top Attractions, Connectivity Tips, and Essential Information for Visitors](https://www.travelfi.me/blogs/travel-destinations/krakow-zakopane-travel-guide-top-attractions-connectivity-tips-and-essential-information-for-visitors): <p>Stay informed with this guide to Kraków and Zakopane. Explore top attractions, travel tips, and how to stay connected across Poland with a reliable eSIM.</p>
-    Updated: 2026-01-13T06:30:54Z
+    Updated: 2026-02-05T03:41:57Z
     Author: Jevgenijs Akimovs
     Tags: esim, Poland, Tourists, travel
   - [Japan Travel Guide: Explore Tokyo, Kyoto and Osaka With Essential Tips](https://www.travelfi.me/blogs/travel-destinations/japan-travel-guide-explore-tokyo-kyoto-and-osaka-with-essential-tips): Japan Travel Guide: Explore Tokyo, Kyoto and Osaka With Essential Tips
     Updated: 2026-01-13T12:39:35Z
     Author: Jevgenijs Akimovs
     Tags: esim, Japan, Tourists, travel
+  - [Discover Gdansk: Baltic Charm, History & Seamless Travel with Travelfi](https://www.travelfi.me/blogs/travel-destinations/gdansk-poland): Discover Gdansk: Baltic Charm, History & Seamless Travel with Travelfi
+    Updated: 2026-02-05T03:39:47Z
+    Author: Jevgenijs Akimovs
+    Tags: esim, Poland, travel
 
 ## Store Pages
 
