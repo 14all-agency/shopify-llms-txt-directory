@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-06T00:34:56Z
 - Contact Email: jahnzayscloset@gmail.com
-- Updated At: 2026-01-28T00:00:33.653Z
+- Updated At: 2026-02-07T00:00:37.044Z
 
 Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, personalized apparel, custom tumblers, and event items. We create made-to-order designs for birthdays, celebrations, small businesses, schools, and special moments. Our products include custom t-shirts, tumblers, party decor, and personalized gifts with local pickup and shipping available.
 
@@ -654,7 +654,7 @@ Jah & Zay’s Closet is a custom creative brand specializing in balloon decor, p
 - [Contact](https://jahnzayscloset.com/pages/contact): We’d love to hear from you! Have questions about your order, need a custom design, or want to book us for your next event? We’re here to help! 📧 Em...
   Updated: 2025-09-07T13:49:02Z
 - [Your Privacy Choices](https://jahnzayscloset.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-06T00:35:10Z
+  Updated: 2026-01-28T17:46:04Z
 - [FAQ - Jah & Zay's Closet | Custom Products, Rentals & Event Services](https://jahnzayscloset.com/pages/faq): Frequently Asked QuestionsFind answers to common questions about our custom products, services, and policies. Can't find what you're looking for? C...
   Updated: 2026-01-13T13:08:04Z
 - [Shipping, Delivery & Returns](https://jahnzayscloset.com/pages/shipping-delivery-returns): A. Shipping for Custom Products Processing Time: Orders for personalized items (tumblers, custom shirts, shot glasses, etc.)are processed within 4-...
