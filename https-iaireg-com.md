@@ -6,7 +6,7 @@
 - Timezone: Africa/Cairo
 - Created At: 2025-06-22T23:50:08Z
 - Contact Email: hazemswalim@icloud.com
-- Updated At: 2026-01-29T00:00:29.436Z
+- Updated At: 2026-02-07T00:00:34.776Z
 
 ## Products
 
@@ -114,7 +114,7 @@
     Availability: Available
     Price: E£50,700.00 EGP
 - [تكييف كاريير اوبتيماكس 1,5 حصان  بارد ساخن](https://iaireg.com/products/carrier-1-5-horse-power-fixed-speed-cooling-and-heating):  for spaces up to 12 m², and up to 14 m² if not on the top floor. Exceeding recommended space might exclude you from the warranty.
-  Updated: 2026-01-23T13:36:44Z
+  Updated: 2026-02-04T18:38:00Z
   Vendor: I AIR
   Product Type: 
   Availability: Available
@@ -402,13 +402,13 @@
 ## Collections
 
 - [Home page](https://iaireg.com/collections/frontpage)
-  Updated: 2026-01-23T13:36:43Z
+  Updated: 2026-02-05T12:20:18Z
   Total Products: 4
 - [Media](https://iaireg.com/collections/carrier)
   Updated: 2026-01-23T13:36:43Z
   Total Products: 9
 - [Carrier](https://iaireg.com/collections/carrier-1)
-  Updated: 2026-01-23T13:36:43Z
+  Updated: 2026-02-05T12:20:18Z
   Total Products: 15
 
 ## Store Pages
