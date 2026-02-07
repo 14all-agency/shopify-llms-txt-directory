@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-01-29T00:00:38.614Z
+- Updated At: 2026-02-07T00:00:44.172Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1328,13 +1328,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_8f343b98-7a22-4e86-a7cf-055d8e6641d9.jpg?v=1760591744
   Price: $25.00 USD
-- [SEGA The Legend of Zelda Tears of the Kingdom Figure FIGURIZMα Link Crystal Arborist](https://crystalarborist.com/products/sega-the-legend-of-zelda-tears-of-the-kingdom-figure-figurizmα-link): The SEGA The Legend of Zelda Tears of the Kingdom Figure FIGURIZMα Link is a highly detailed action figure of the iconic character Link from The Legend of Zelda: Tears of the
-  Updated: 2026-01-21T14:45:55Z
-  Vendor: SEGA
-  Product Type: Action Figure
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-ec7c3174-3e04-45df-b564-378fdfb58943-_1.jpg?v=1766286529
-  Price: $55.00 USD
 - [Inuyasha Noodle Stopper Inu Yasha Action Figure 13cm FuRyu 2020 from JAPAN Crystal Arborist](https://crystalarborist.com/products/inuyasha-noodle-stopper-inu-yasha-action-figure-13cm-furyu-2020-from-japan): Inuyasha Figure. From Japan. His name translates to "dog demon". A very determined character, though at times he can also be hot headed and stubborn. This Figure depicts the
   Updated: 2026-01-21T14:45:55Z
   Vendor: FuRyu
@@ -1753,7 +1746,15 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-000c9215-cfa6-441d-b5a0-401d6ffe3e88-_1.jpg?v=1766285795
   Price: $6.00 USD
-[List Continued](https://crystalarborist.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIxMzgzMTQ1NDg4MCwibGFzdF92YWx1ZSI6IjE1MjEzODMxNDU0ODgwIn0=)
+- [Imitation Pearl Vintage Pin, For  at Crystal Arborist](https://crystalarborist.com/products/imitation-pearl-vintage-pin): Imitation Pearl Vintage Pin
+Lovely brooch would be sure to please. For those looking to wear something special & unique, or to give as a gift.
+  Updated: 2026-01-21T14:45:55Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-cfcfbb0e-9a31-4b6a-ae44-c60979edcd43-_1.jpg?v=1766285782
+  Price: $8.00 USD
+[List Continued](https://crystalarborist.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIxMzg4NDE0NTgyNCwibGFzdF92YWx1ZSI6IjE1MjEzODg0MTQ1ODI0In0=)
 
 ## Collections
 
@@ -1761,10 +1762,10 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Updated: 2026-01-17T20:57:48Z
   Total Products: 44
 - [Figure Fairgrounds, Presented by Crystal Arborist](https://crystalarborist.com/collections/figure-fairgrounds): Come One, Come All to the Figure Fairgrounds! Action Figures, Superheroes, & Anime Figures await you. Shop or Browse this unique Collection.
-  Updated: 2026-01-17T20:57:48Z
+  Updated: 2026-02-03T13:00:58Z
   Total Products: 48
 - [Necklace Nexus, Presented By Crystal Arborist](https://crystalarborist.com/collections/necklace-nexus): Enter the Necklace Nexus & find a world of unique Jewelry. Each piece is Handmade and Crafted with Care. Wirewrapped Stones and Orgonite Necklaces & Pendants.
-  Updated: 2026-01-17T20:57:48Z
+  Updated: 2026-02-03T13:02:17Z
   Total Products: 90
 - [Vintage Vista, Presented By Crystal Arborist](https://crystalarborist.com/collections/vintage-vista): Vintage Vista, our Timeless Collection of Vintage and Antique Items. Classic and Retro. Pieces with History that have withstood the test of Time.
   Updated: 2026-01-25T16:33:20Z
@@ -1776,7 +1777,7 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Updated: 2026-01-17T20:57:48Z
   Total Products: 31
 - [Newest Items, Presented By Crystal Arborist](https://crystalarborist.com/collections/products): Newest items, browse the newest items available from  Crystal Arborist.
-  Updated: 2026-01-25T16:33:20Z
+  Updated: 2026-02-03T13:02:17Z
   Total Products: 349
 - [Top Ten Treasures Crystal Arborist](https://crystalarborist.com/collections/top-page-treasures): Explore the Top Ten Treasures collection at Crystal Arborist — featuring rare crystals, collectible figures, gemstone bundles, charms & unique finds. Shop hand-selected treasures that spark joy and curiosity!
   Updated: 2026-01-21T19:00:17Z
@@ -1797,75 +1798,99 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
     Updated: 2026-01-15T18:18:45Z
     Author: Callie Hitchcock
     Tags: Creating, Criticism, gemstones, Inspiration, Keep trying, Love, Meaning, Metaphysical Shop, Passion, Self doubt, Shop Owner Life, trees
-- [Short Stories & Self Help](https://crystalarborist.com/blogs/friendly-advice-self-help-articles): Advice & Tips to Help You through some of Life's challenges. Self-Help Articles. Short Stories, Fables, & possibly Poetry. Combat depression & boredom. Be You.
-  - [Peace Be With You](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/peace-be-with-you): <p><em><strong>Tips To Combat Anger and Anxiety. Pleasant Thoughts. Peace. This Blog is about letting go of the bad and replacing it with good. Focusing not on what troubles you. I hope this small article can help you Relax and bring you a little Peace of Mind. </strong></em></p>
+- [Short Stories & Self Help](https://crystalarborist.com/blogs/short-stories-self-help): Advice & Tips to Help You through some of Life's challenges. Self-Help Articles. Short Stories, Fables, & possibly Poetry. Combat depression & boredom. Be You.
+  - [Peace Be With You](https://crystalarborist.com/blogs/short-stories-self-help/peace-be-with-you): <p><em><strong>Tips To Combat Anger and Anxiety. Pleasant Thoughts. Peace. This Blog is about letting go of the bad and replacing it with good. Focusing not on what troubles you. I hope this small article can help you Relax and bring you a little Peace of Mind. </strong></em></p>
     Updated: 2025-12-21T04:05:01Z
     Author: Callie Hitchcock
     Tags: No stress, Peace, Relaxation, Visualization, Zen
-  - [Friendship and Teamwork](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/friendship-and-teamwork): <p><em><strong>Some Advice to Help You to Achieve Your Goals. Friendship and Teamwork, I think you will find, will help You to win that race and cross the finishline. But Your Partner is someone you may not expect. </strong></em></p>
+  - [Friendship and Teamwork](https://crystalarborist.com/blogs/short-stories-self-help/friendship-and-teamwork): <p><em><strong>Some Advice to Help You to Achieve Your Goals. Friendship and Teamwork, I think you will find, will help You to win that race and cross the finishline. But Your Partner is someone you may not expect. </strong></em></p>
     Updated: 2025-12-21T04:05:04Z
     Author: Callie Hitchcock
     Tags: Achievement, Friends and Enemies, Goals, Kindness, Self Help, Teamwork
-  - [Belief in You](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/belief-in-you): <p><em><strong>An Article about Confidence. Measuring your Own Self-Worth. Belief in Yourself can Help You move Mountains. Never forget that You are Amazing</strong></em></p>
+  - [Belief in You](https://crystalarborist.com/blogs/short-stories-self-help/belief-in-you): <p><em><strong>An Article about Confidence. Measuring your Own Self-Worth. Belief in Yourself can Help You move Mountains. Never forget that You are Amazing</strong></em></p>
     Updated: 2025-12-21T04:05:06Z
     Author: Callie Hitchcock
     Tags: Belief, Confidence, Individuality, Mental Health, Self Help, Self-esteem, Your Truth
-  - [Rhyme or Reason](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/a): <p><em><strong>An Article about finding a Purpose. How important it is to have a Reason. And it's ok to seek Help if you need to. Warning: Contains some sad vibes about my own personal experiences and struggles. There is some mention of Death and Suicide </strong></em></p>
+  - [Rhyme or Reason](https://crystalarborist.com/blogs/short-stories-self-help/a): <p><em><strong>An Article about finding a Purpose. How important it is to have a Reason. And it's ok to seek Help if you need to. Warning: Contains some sad vibes about my own personal experiences and struggles. There is some mention of Death and Suicide </strong></em></p>
     Updated: 2025-12-21T04:05:07Z
     Author: Callie Hitchcock
     Tags: Depression, Life, Meaning, Purpose, Seeking Help, Self-Help, Therapy
-  - [Fingerprints](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/fingerprints): <p><em><strong>An Article about Normal. About proving that it doesn't strictly exist in the physical sense. That it's ok to not adhere to the concepts of Normality and Perfection. To be You</strong></em><br></p>
+  - [Fingerprints](https://crystalarborist.com/blogs/short-stories-self-help/fingerprints): <p><em><strong>An Article about Normal. About proving that it doesn't strictly exist in the physical sense. That it's ok to not adhere to the concepts of Normality and Perfection. To be You</strong></em><br></p>
     Updated: 2025-12-21T04:05:08Z
     Author: Callie Hitchcock
     Tags: Being yourself, Ideas, Individuality, Perfect, The concept of normal, Unique, Variety
-  - [The Ripple Effect](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-ripple-effect): <p><em><strong>Every little thing you do contributes to cause and effect. Even if it's small, sometimes you have to make yourself get up and start moving forward. This article describes the Ripple Effect. How even small actions can make an impact.</strong></em></p>
+  - [The Ripple Effect](https://crystalarborist.com/blogs/short-stories-self-help/the-ripple-effect): <p><em><strong>Every little thing you do contributes to cause and effect. Even if it's small, sometimes you have to make yourself get up and start moving forward. This article describes the Ripple Effect. How even small actions can make an impact.</strong></em></p>
     Updated: 2025-12-22T03:02:55Z
     Author: Callie Hitchcock
     Tags: Actions, Cause and effect, Depression help, Get up and go, Small things matter, The Ripple effect
-  - [A Tale of Regret](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/ea-tale-of-regr): <p>About Shame and Regret. About holding on and carrying it with you. A Short Story about two brothers, a tragedy, and the aftermath. </p>
+  - [A Tale of Regret](https://crystalarborist.com/blogs/short-stories-self-help/ea-tale-of-regr): <p>About Shame and Regret. About holding on and carrying it with you. A Short Story about two brothers, a tragedy, and the aftermath. </p>
     Updated: 2026-01-01T22:38:18Z
     Author: Callie Hitchcock
     Tags: Living, Living in the Now, Moving forward, Overcoming guilt, Regret, Shame, Short story, The past
-  - [The Bright Side](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/b): <p>It is easy to lose Hope. Things get rough in this World. But there is always a Bright Side. Even if you have to imagine Gemstone Flowers</p>
+  - [The Bright Side](https://crystalarborist.com/blogs/short-stories-self-help/b): <p>It is easy to lose Hope. Things get rough in this World. But there is always a Bright Side. Even if you have to imagine Gemstone Flowers</p>
     Updated: 2026-01-12T02:31:50Z
     Author: Callie Hitchcock
     Tags: Article, Blog posts, Fantasy, Finding the bright side, Flowers, Imagination, Perspective
-  - [Coveting Desire](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/coveting-desire): <p>A Short Story of Love and Magic, a Wish, and a Love unrequited. It is a Tale about greed, covetousness, and desire. </p>
+  - [Coveting Desire](https://crystalarborist.com/blogs/short-stories-self-help/coveting-desire): <p>A Short Story of Love and Magic, a Wish, and a Love unrequited. It is a Tale about greed, covetousness, and desire. </p>
     Updated: 2026-01-02T01:29:45Z
     Author: Callie Hitchcock
     Tags: Djinn, Fable, Fantasy, Greed, Interesting tale, Jealousy, Magic, Moral, Parable, Short story, Story with a lesson, Wish
-  - [Love & Loneliness/ The Tale of Coyote & Crow](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/love-loneliness-the-tale-of-coyote-crow): <p>A Fae Princess becomes cursed. Will Love lead the way, or will loneliness prevail? Read on to discover the Tale of Coyote &amp; Crow.</p>
+  - [Love & Loneliness/ The Tale of Coyote & Crow](https://crystalarborist.com/blogs/short-stories-self-help/love-loneliness-the-tale-of-coyote-crow): <p>A Fae Princess becomes cursed. Will Love lead the way, or will loneliness prevail? Read on to discover the Tale of Coyote &amp; Crow.</p>
     Updated: 2026-01-05T08:09:53Z
     Author: Callie Hitchcock
     Tags: Curse, Drama, Fae Folk, Fairies, Fairytale, Lonely, Love, Magic, Romance, Story
-  - [The Inferiority of Superiority](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-inferiority-of-superiority): <p>Do you feel better than everyone else, or are you struggling with feeling inferior? Words can build you up or break you down. Know your Truth, be kind, and don't let words deminish you.</p>
+  - [The Inferiority of Superiority](https://crystalarborist.com/blogs/short-stories-self-help/the-inferiority-of-superiority): <p>Do you feel better than everyone else, or are you struggling with feeling inferior? Words can build you up or break you down. Know your Truth, be kind, and don't let words deminish you.</p>
     Updated: 2026-01-06T01:37:59Z
     Author: Callie Hitchcock
     Tags: Being called Stupid, Being the better person, Feeling inferior, Illusionary concepts, Inadequacy, Intelligence, Karma, Name calling, Superiority, Thoughts and feelings, Words
-  - [Lady Liberty](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/lady-liberty): <p><em><strong>A short article about America, it's History, and Events today. About Immigration and the Foundations on which this Nation is Built</strong></em></p>
+  - [Lady Liberty](https://crystalarborist.com/blogs/short-stories-self-help/lady-liberty): <p><em><strong>A short article about America, it's History, and Events today. About Immigration and the Foundations on which this Nation is Built</strong></em></p>
     Updated: 2026-01-12T02:25:03Z
     Author: Callie Hitchcock
     Tags: America, America (My Country Tis of Thee), Current Events, Freedom, ICE, Justice, Liberty, The Liberty Bell, The Statue of Liberty, The United States
-  - [The Constellation Garden](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-constellation-garden): <p><em><strong>A botanist on a distant research station and a dimension-traveling merchant find connection across impossible distances through gifts left in a garden.</strong></em></p>
+  - [The Constellation Garden](https://crystalarborist.com/blogs/short-stories-self-help/the-constellation-garden): <p><em><strong>A botanist on a distant research station and a dimension-traveling merchant find connection across impossible distances through gifts left in a garden.</strong></em></p>
     Updated: 2026-01-21T03:52:51Z
     Author: Callie Hitchcock
     Tags: Botanical fantasy, Connection, Courage, Dimensional Travel, Found family, Gardens, Hope, Romantic science fiction, Short story, Soft Sci-fi, Stars and constellations, Wholesome
-  - [The Worth of What Calls Us (TWoWCU Book 1)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-worth-of-what-calls): <p><em><strong>A thief who hears objects calling. A traveling troupe of misfits. A journey to discover what's truly worth keeping. A cozy fantasy novella about belonging and the magic hidden in overlooked things.</strong></em></p>
+  - [The Worth of What Calls Us (TWoWCU Book 1)](https://crystalarborist.com/blogs/short-stories-self-help/the-worth-of-what-calls): <p><em><strong>A thief who hears objects calling. A traveling troupe of misfits. A journey to discover what's truly worth keeping. A cozy fantasy novella about belonging and the magic hidden in overlooked things.</strong></em></p>
     Updated: 2026-01-26T22:40:53Z
     Author: Callie Hitchcock
     Tags: Cozy Fantasy, Found family, Heartwarming, Magical Objects, Self-Discovery, Traveling Troupe, Whimsical
-  - [The Mender's Tale (TWoWCU Book 2)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/the-menders-tale): <p><em><strong><span>Sam stole a locket filled with memories and it nearly destroyed him. Now, years later, he's become Mender—a traveling memory healer who helps broken people find grace. But before he could save others, he had to learn to save himself. A backstory novella about redemption, found family, and the transformative power of undeserved kindness.</span></strong></em></p>
+  - [The Mender's Tale (TWoWCU Book 2)](https://crystalarborist.com/blogs/short-stories-self-help/the-menders-tale): <p><em><strong><span>Sam stole a locket filled with memories and it nearly destroyed him. Now, years later, he's become Mender—a traveling memory healer who helps broken people find grace. But before he could save others, he had to learn to save himself. A backstory novella about redemption, found family, and the transformative power of undeserved kindness.</span></strong></em></p>
     Updated: 2026-01-26T22:40:03Z
     Author: Callie Hitchcock
     Tags: Backstory, Cozy Fantasy, Emotional journey, Found family, Grace and forgiveness, Magical realism, Memory magic, Novella, Pocket watch, Prequel, Redemption arc, Second chances, Theif to healer, Traveling Troupe
-  - [Song & Starlight (TWoWCU Book 3)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/song-starlight): <p><em><strong>Lyric makes music with magic. Lumina weaves light to rival constellations. A Story about belonging, and creating something beautiful together.</strong></em></p>
+  - [Song & Starlight (TWoWCU Book 3)](https://crystalarborist.com/blogs/short-stories-self-help/song-starlight): <p><em><strong>Lyric makes music with magic. Lumina weaves light to rival constellations. A Story about belonging, and creating something beautiful together.</strong></em></p>
     Updated: 2026-01-26T22:39:33Z
     Author: Callie Hitchcock
     Tags: Cozy Fantasy, Love, Magic, Music magic, neurodivergent characters
-  - [Luck of the Card Master (TWoWCU Book 4)](https://crystalarborist.com/blogs/friendly-advice-self-help-articles/luck-of-the-card-master): <p><em><strong>A street thief, a  deck of cards, and pocket dragons who won't stop stealing. Felix's journey from survival to belonging in this cozy fantasy tale.</strong></em></p>
-    Updated: 2026-01-26T23:23:11Z
+  - [Luck of the Card Master (TWoWCU Book 4)](https://crystalarborist.com/blogs/short-stories-self-help/luck-of-the-card-master): <p><em><strong>A street thief, a  deck of cards, and pocket dragons who won't stop stealing. Felix's journey from survival to belonging in this cozy fantasy tale.</strong></em></p>
+    Updated: 2026-02-01T00:32:32Z
     Author: Callie Hitchcock
     Tags: Card magic, Coming of Age Fantasy, Dragons, Performance Troupe, Street theif
+  - [North of Summer](https://crystalarborist.com/blogs/short-stories-self-help/north-of-summer): <p><em><strong>Destiny pulled Hárvald through a door to another world. Washed ashore in the Summer Lands, he faces an impossible choice: his duty to the North, or Love.</strong></em></p>
+    Updated: 2026-01-31T22:50:22Z
+    Author: Callie Hitchcock
+    Tags: Coming of Age Fantasy, Drama, Gardening, Home, Love, mythology, Romance, Simple life, Viking
+  - [Whimsy's Wonder](https://crystalarborist.com/blogs/short-stories-self-help/whimsys-wonder): <p><em><strong>Sally lived in a joyless world ruled by money. Then she met Whimsy. Traveling through Paintings, Dreams, &amp; Memories, Sally discovers what she'd forgotten.</strong></em></p>
+    Updated: 2026-01-30T14:39:11Z
+    Author: Callie Hitchcock
+    Tags: Finding Yourself, Fun, Funny, Joy, Whimsy, Wonder
+  - [The Misadventures of Sir Bumble and His Extremely Reluctant Dragon](https://crystalarborist.com/blogs/short-stories-self-help/sir-bumble-and-the-dragon): <p><em><strong>Sir Bumble sets out to slay a dragon and prove he's a real knight. Instead, he befriends the dragon, befuddles a princess, and discovers that doing things his own way might be the best way after all.</strong></em></p>
+    Updated: 2026-01-31T05:30:43Z
+    Author: Callie Hitchcock
+    Tags: Comedy, Dragon, Fairytale, Fantasy, Heartwarming, Hilarious, Knights, Quests, Whimsical
+  - [Tiny Embers & Shiny Things (TWoWCU Book 5)](https://crystalarborist.com/blogs/short-stories-self-help/tiny-embers-shiny-things-twowcu-book-5): <p><em><strong>Six pocket dragons. One bungled pirate kidnapping. A chaotic rescue mission. When pirates steal two of her dragons for a treasure hunt, healer Wren and her troupe set sail to get them back—and discover that the best treasures are the ones that steal your heart. A cozy fantasy adventure about found family, magical misfits, and very determined dragons.</strong></em></p>
+    Updated: 2026-02-06T05:02:12Z
+    Author: Callie Hitchcock
+    Tags: Cozy Fantasy, Fantasy Adventure, Found family, Heartwarming, Pirates, Pocket Dragons, Traveling Troupe, Treasure, Wholesome
+  - [Sir Bumble & His Dragon: The Mysterious Lights (Book 2)](https://crystalarborist.com/blogs/short-stories-self-help/sir-bumble-2): <p><em><strong>Sir Bumble is sent to investigate mysterious lights appearing in the countryside. What he finds leads to his strangest adventure yet—one that will test his courage, challenge everything he thought he knew, and prove once again that kindness can solve what a sword cannot. The second heartwarming tale in the Sir Bumble series.</strong></em></p>
+    Updated: 2026-02-03T15:46:01Z
+    Author: Callie Hitchcock
+    Tags: Dragon companion, Fairytale retellings, Fantasy Adventure, Feel-good fantasy, Knight stories, Light magic, Magical quests, Sir Bumble, Wholesome fantasy
+  - [Silver Tide](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide): <p><em><strong>An impossible heist. A Legendary Ship. A Crew bound by Honor. Silver Tide's adventure has just begun—and the Seas will never be the same.</strong></em></p>
+    Updated: 2026-02-06T09:06:17Z
+    Author: Callie Hitchcock
+    Tags: Adventure, Coming of Age, Fantasy, Heist, Hopeful, Magical ship, Pirates, Standing against tyranny, Swashbuckling
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
