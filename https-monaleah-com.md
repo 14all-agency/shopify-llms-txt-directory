@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-07-30T03:16:35Z
 - Contact Email: care@monaleah.com
-- Updated At: 2026-01-31T00:00:28.361Z
+- Updated At: 2026-02-07T00:00:34.458Z
 
 ## Products
 
 - [Personalized Dog Memorial Stone with Photo - Custom Pet Loss Sympathy Gift](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift): Honor your pet with a personalized dog memorial stone featuring their photo. Join 5,000+ happy customers who trust our 5-star handcrafted sympathy gifts
-  Updated: 2026-01-30T21:23:42Z
+  Updated: 2026-02-06T22:00:07Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
@@ -28,9 +28,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_324e179d-6626-465f-afad-87bc529a7077.png?v=1767625287
     Price: $24.90 USD
-  - [SD-101 / 6 inch / 4) You left pawprints on our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186991521973)
+  - [SD-101 / 6 inch / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187003908277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_5.png?v=1767625287
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
     Price: $24.90 USD
   - [SD-101 / 6 inch / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781625013)
     Availability: Available
@@ -40,19 +40,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_1.png?v=1767625287
     Price: $24.90 USD
-  - [SD-101 / 6 inch / 7) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187003908277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
-    Price: $24.90 USD
-  - [SD-101 / 6 inch / 8) In loving memory of our faithful friend & companion](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187003941045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_10.png?v=1767625287
-    Price: $24.90 USD
-  - [SD-101 / 6 inch / 9) Goodbyes are not forever/ goodbyes are not the end. They simply mean I'll miss you/ until we meet again](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781657781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_11.png?v=1767625287
-    Price: $24.90 USD
-  - [SD-101 / 6 inch / 10) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781690549)
+  - [SD-101 / 6 inch / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781690549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_2.png?v=1767625287
     Price: $24.90 USD
@@ -68,9 +56,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_324e179d-6626-465f-afad-87bc529a7077.png?v=1767625287
     Price: $29.90 USD
-  - [SD-101 / 6 inch w/stand / 4) You left pawprints on our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186991554741)
+  - [SD-101 / 6 inch w/stand / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004006581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_5.png?v=1767625287
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
     Price: $29.90 USD
   - [SD-101 / 6 inch w/stand / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521795944629)
     Availability: Available
@@ -80,19 +68,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_1.png?v=1767625287
     Price: $29.90 USD
-  - [SD-101 / 6 inch w/stand / 7) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004006581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
-    Price: $29.90 USD
-  - [SD-101 / 6 inch w/stand / 8) In loving memory of our faithful friend & companion](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004039349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_10.png?v=1767625287
-    Price: $29.90 USD
-  - [SD-101 / 6 inch w/stand / 9) Goodbyes are not forever/ goodbyes are not the end. They simply mean I'll miss you/ until we meet again](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521795977397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_11.png?v=1767625287
-    Price: $29.90 USD
-  - [SD-101 / 6 inch w/stand / 10) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521796010165)
+  - [SD-101 / 6 inch w/stand / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521796010165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_2.png?v=1767625287
     Price: $29.90 USD
@@ -108,9 +84,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_324e179d-6626-465f-afad-87bc529a7077.png?v=1767625287
     Price: $34.90 USD
-  - [SD-101 / 8 inch / 4) You left pawprints on our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186991587509)
+  - [SD-101 / 8 inch / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004104885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_5.png?v=1767625287
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
     Price: $34.90 USD
   - [SD-101 / 8 inch / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781756085)
     Availability: Available
@@ -120,19 +96,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_1.png?v=1767625287
     Price: $34.90 USD
-  - [SD-101 / 8 inch / 7) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004104885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
-    Price: $34.90 USD
-  - [SD-101 / 8 inch / 8) In loving memory of our faithful friend & companion](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004137653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_10.png?v=1767625287
-    Price: $34.90 USD
-  - [SD-101 / 8 inch / 9) Goodbyes are not forever/ goodbyes are not the end. They simply mean I'll miss you/ until we meet again](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781788853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_11.png?v=1767625287
-    Price: $34.90 USD
-  - [SD-101 / 8 inch / 10) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781821621)
+  - [SD-101 / 8 inch / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521781821621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_2.png?v=1767625287
     Price: $34.90 USD
@@ -148,9 +112,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_324e179d-6626-465f-afad-87bc529a7077.png?v=1767625287
     Price: $39.90 USD
-  - [SD-101 / 8 inch w/stand / 4) You left pawprints on our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186991620277)
+  - [SD-101 / 8 inch w/stand / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004203189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_5.png?v=1767625287
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
     Price: $39.90 USD
   - [SD-101 / 8 inch w/stand / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521796108469)
     Availability: Available
@@ -160,19 +124,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_1.png?v=1767625287
     Price: $39.90 USD
-  - [SD-101 / 8 inch w/stand / 7) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004203189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_9.png?v=1767625287
-    Price: $39.90 USD
-  - [SD-101 / 8 inch w/stand / 8) In loving memory of our faithful friend & companion](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004235957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_10.png?v=1767625287
-    Price: $39.90 USD
-  - [SD-101 / 8 inch w/stand / 9) Goodbyes are not forever/ goodbyes are not the end. They simply mean I'll miss you/ until we meet again](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521796141237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_11.png?v=1767625287
-    Price: $39.90 USD
-  - [SD-101 / 8 inch w/stand / 10) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521796174005)
+  - [SD-101 / 8 inch w/stand / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=44521796174005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1.2_700x700_2.png?v=1767625287
     Price: $39.90 USD
@@ -188,9 +140,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_15.png?v=1767625287
     Price: $24.90 USD
-  - [SD-102 / 6 inch / 4) You left pawprints on our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186991653045)
+  - [SD-102 / 6 inch / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004301493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_16.png?v=1767625287
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_19.png?v=1767625287
     Price: $24.90 USD
   - [SD-102 / 6 inch / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554086069)
     Availability: Available
@@ -200,22 +152,70 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_18.png?v=1767625287
     Price: $24.90 USD
-  - [SD-102 / 6 inch / 7) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004301493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_19.png?v=1767625287
-    Price: $24.90 USD
-  - [SD-102 / 6 inch / 8) In loving memory of our faithful friend & companion](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004334261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_20.png?v=1767625287
-    Price: $24.90 USD
-  - [SD-102 / 6 inch / 9) Goodbyes are not forever/ goodbyes are not the end. They simply mean I'll miss you/ until we meet again](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554118837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_21.png?v=1767625287
-    Price: $24.90 USD
-  - [SD-102 / 6 inch / 10) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554151605)
+  - [SD-102 / 6 inch / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554151605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_22.png?v=1767625287
     Price: $24.90 USD
+  - [SD-102 / 6 inch w/stand / 1) Once by my side forever in my heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554184373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_13.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 6 inch w/stand / 2) No longer by our side but forever in our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186987425973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_14.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 6 inch w/stand / 3) If love could have saved you/ you would have lived forever](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004367029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_15.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 6 inch w/stand / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004399797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_19.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 6 inch w/stand / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554217141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_17.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 6 inch w/stand / 6) I loved you your whole life/ I'll miss you for the rest of mine](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187000565941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_18.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 6 inch w/stand / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554282677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_22.png?v=1767625287
+    Price: $29.90 USD
+  - [SD-102 / 8 inch / 1) Once by my side forever in my heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554348213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_13.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch / 2) No longer by our side but forever in our hearts](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45186987458741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_14.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch / 3) If love could have saved you/ you would have lived forever](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004465333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_15.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch / 4) You were my favorite hello and my hardest goodbye](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187004498101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_19.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch / 5) We loved you your whole life/ we'll miss you for the rest of ours](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554380981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_17.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch / 6) I loved you your whole life/ I'll miss you for the rest of mine](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45187000598709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_18.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch / 7) When tomorrow starts without me/ don't think we're far apart. For every time you think of me/ I'm right here in your heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554446517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_22.png?v=1767625287
+    Price: $34.90 USD
+  - [SD-102 / 8 inch w/stand / 1) Once by my side forever in my heart](https://monaleah.com/products/personalized-photo-pet-memorial-stone-sympathy-gift?variant=45173554512053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_2_13.png?v=1767625287
+    Price: $39.90 USD
 - [Item Personalization](https://monaleah.com/products/item-personalization): *** This is a hidden product used by Product Personalizer. You can modify everything except Price,Product availability and Product handle. Use app settings to change the Price. More details : https://productpersonalizer.com/docs/how-options-with-costs-are-displayed-in-the-cart-checkout
   Updated: 2025-11-21T21:05:25Z
   Vendor: My Store
@@ -692,11 +692,11 @@
     Availability: Available
     Price: $35.90 USD
 - [Forget-Me-Not Baby Loss Memorial Stone - Miscarriage Sympathy Gift](https://monaleah.com/products/forget-me-not-baby-loss-memorial-stone-gift): A hopeful, personalized infant loss memorial stone featuring a forget-me-not flower. Customize with your baby's name & date. A gentle sympathy gift.
-  Updated: 2026-01-26T18:21:20Z
+  Updated: 2026-02-04T14:27:09Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic_1_25.jpg?v=1762043120
+  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/pic_6_32.jpg?v=1770169524
   - [SD-95 / 6 inch](https://monaleah.com/products/forget-me-not-baby-loss-memorial-stone-gift?variant=51948463128757)
     Availability: Available
     Price: $21.90 USD
@@ -728,18 +728,18 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Mom Memorial Stone - Butterfly Sympathy Gift for Loss of Mother](https://monaleah.com/products/mom-memorial-stone-butterfly-sympathy-gift): A hopeful, personalized mom memorial stone with a delicate butterfly. Customize with her name & dates. A beautiful sympathy gift for loss of a mother.
-  Updated: 2026-01-26T18:21:19Z
+  Updated: 2026-02-04T13:41:57Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_27.jpg?v=1762050415
+  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Update_5_1.jpg?v=1770169303
   Price: $24.90 USD
 - [Rainbow Bridge Pet Memorial Stone - Personalized Sympathy Gift](https://monaleah.com/products/rainbow-bridge-pet-memorial-stone-gift): A hopeful, personalized Rainbow Bridge memorial stone. Customize with your pet's name & date. A beautiful sympathy gift for a pet "knowing they were loved."
-  Updated: 2026-01-26T18:21:19Z
+  Updated: 2026-02-04T14:34:59Z
   Vendor: Monaleah
   Product Type: Memorial Stone
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic1_28.jpg?v=1762062745
+  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/1_17.jpg?v=1770169370
   - [6 inch](https://monaleah.com/products/rainbow-bridge-pet-memorial-stone-gift?variant=52160021954741)
     Availability: Available
     Price: $21.90 USD
@@ -771,11 +771,11 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Dog Memorial Stone - Paw Print "Forever In Our Hearts" Gift](https://monaleah.com/products/dog-memorial-stone-paw-print-forever-hearts): Honor your loyal dog with a personalized paw print memorial stone. Customize their name & dates on this beautiful "Forever In Our Hearts" sympathy gift.
-  Updated: 2026-01-26T18:21:19Z
+  Updated: 2026-02-04T14:39:46Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic5_23.jpg?v=1762069921
+  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Update_7_1.jpg?v=1770169240
   - [6 inch](https://monaleah.com/products/dog-memorial-stone-paw-print-forever-hearts?variant=52159998623925)
     Availability: Available
     Price: $21.90 USD
@@ -807,11 +807,11 @@
     Availability: Available
     Price: $35.90 USD
 - [Personalized Cat Memorial Stone - "If Love Could Have Saved You" Gift](https://monaleah.com/products/cat-memorial-stone-if-love-could-have-saved-you): Honor your beloved cat with a personalized memorial heart stone. Features the quote, "If love could have saved you..." Customize with their name & dates. A hopeful sympathy gift.
-  Updated: 2026-01-26T18:21:18Z
+  Updated: 2026-02-04T14:45:41Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Pic5_25.jpg?v=1762106871
+  Image: https://cdn.shopify.com/s/files/1/0658/2491/5637/files/Update_4.jpg?v=1770169146
   - [6 inch](https://monaleah.com/products/cat-memorial-stone-if-love-could-have-saved-you?variant=52160038240437)
     Availability: Available
     Price: $21.90 USD
@@ -963,7 +963,7 @@
     Availability: Available
     Price: $39.90 USD
 - [Metal Display Stand for 6 inch or 8 inch Stones and Plaques](https://monaleah.com/products/metal-display-stand-for-6-inch-or-8-inch-stones-and-plaques): Complete your memorial with a display designed for elegance and stability. This premium iron stand provides a secure, graceful resting place for your stone.
-  Updated: 2026-01-26T18:21:17Z
+  Updated: 2026-02-04T01:23:42Z
   Vendor: Monaleah
   Product Type: 
   Availability: Available
@@ -975,7 +975,7 @@
     Availability: Available
     Price: $6.90 USD
 - [Premium Sympathy Card](https://monaleah.com/products/premium-sympathy-card)
-  Updated: 2026-01-30T08:31:00Z
+  Updated: 2026-02-05T21:49:10Z
   Vendor: Monaleah
   Product Type: Card
   Availability: Available
@@ -985,10 +985,10 @@
 ## Collections
 
 - [All Products](https://monaleah.com/collections/all)
-  Updated: 2026-01-30T12:17:12Z
-  Total Products: 30
+  Updated: 2026-02-06T12:18:55Z
+  Total Products: 31
 - [Memorial Stones](https://monaleah.com/collections/memorial-stones)
-  Updated: 2026-01-30T12:17:12Z
+  Updated: 2026-02-06T12:18:55Z
   Total Products: 7
 - [Garden Stones](https://monaleah.com/collections/garden-stones)
   Updated: 2026-01-24T19:14:28Z
