@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-01-31T00:00:34.421Z
+- Updated At: 2026-02-07T00:00:37.949Z
 
 ## Products
 
@@ -203,7 +203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/FinalDahliaHeadband.jpg?v=1746755622
   Price: $45.00 USD
 - [Astra Bag](https://collectionbynp.com/products/astra-bag): Crafted for the cosmic misfits. The Astra Bag is handmade from durable, cruelty-free PVC faux leather, featuring an all over star print. The adjustable strap lets you wear this sleek silhouette your way—crossbody, shoulder, however you prefer to style it. Your next go-to accessory for concerts, late-night adventures, errands; the perfect staple piece for any outfit. Details: Extremely lightweight Material: 100% High-quality PVC faux leather Print: All-over star design Adjustable strap (wear it crossbody or shoulder) Secure top metal zipper closure Dimensions: Height 5 1/2", Width: 8 1/4", Depth: 2 3/4" This product is handmade, dimensions may slightly vary. Care: Can use a damp cloth with mild soap and water, tap to spot clean. Wipe dry afterward. Avoid harsh chemicals, direct sunlight and heat sources for a long period of time as these can cause fading and damage. Keep in dust bag and stuffed to maintain shape when storing. Handmade in USA Colors: white has black star print, black has white star print, pink has black star print, purple has black star print and special edition has embossed stars in a metallic purple color.
-  Updated: 2026-01-29T04:57:45Z
+  Updated: 2026-02-02T08:00:42Z
   Vendor: Percacciolo Collection
   Product Type: HANDBAG
   Availability: Available
@@ -274,6 +274,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Luna1.jpg?v=1761056647
   Price: $20.00 USD
+- [Gift Card](https://collectionbynp.com/products/gift-card)
+  Updated: 2026-02-03T13:21:35Z
+  Vendor: Percacciolo Collection
+  Product Type: 
+  Availability: Available
+  - [$50.00](https://collectionbynp.com/products/gift-card?variant=45837545373930)
+    Availability: Available
+    Price: $50.00 USD
+  - [$100.00](https://collectionbynp.com/products/gift-card?variant=45837545406698)
+    Availability: Available
+    Price: $100.00 USD
+  - [$250.00](https://collectionbynp.com/products/gift-card?variant=45837545439466)
+    Availability: Available
+    Price: $250.00 USD
+  - [$500.00](https://collectionbynp.com/products/gift-card?variant=45837545472234)
+    Availability: Available
+    Price: $500.00 USD
+  - [$1,000.00](https://collectionbynp.com/products/gift-card?variant=45837545505002)
+    Availability: Available
+    Price: $1,000.00 USD
 
 ## Collections
 
@@ -296,8 +316,8 @@
   Updated: 2026-01-29T00:19:52Z
   Total Products: 2
 - [All Products](https://collectionbynp.com/collections/all-products): Step into the shadows, where intricate lace meets edgy style.
-  Updated: 2026-01-29T00:34:15Z
-  Total Products: 33
+  Updated: 2026-02-03T13:16:41Z
+  Total Products: 35
 - [Bridal](https://collectionbynp.com/collections/bridal)
   Updated: 2026-01-29T00:28:32Z
   Total Products: 17
@@ -310,6 +330,25 @@
 - [Jewelry](https://collectionbynp.com/collections/jewelry): BARB EARRINGS WILL BE AVAILABLE SOON.
   Updated: 2026-01-29T00:20:40Z
   Total Products: 4
+
+## Blogs
+
+- [News](https://collectionbynp.com/blogs/news)
+  - [Blog Sample 1](https://collectionbynp.com/blogs/news/blog-sample-1)
+    Updated: 2026-02-06T04:51:59Z
+    Author: Daniella Padilla
+  - [Blog Sample 2](https://collectionbynp.com/blogs/news/blog-sample-2)
+    Updated: 2026-02-06T13:05:26Z
+    Author: Daniella Padilla
+    Tags: Sustainability
+  - [Blog Sample 3](https://collectionbynp.com/blogs/news/blog-sample-3)
+    Updated: 2026-02-06T13:04:59Z
+    Author: Daniella Padilla
+    Tags: Our Process
+  - [Blog Sample 4](https://collectionbynp.com/blogs/news/blog-sample-4)
+    Updated: 2026-02-06T13:04:44Z
+    Author: Daniella Padilla
+    Tags: Guides
 
 ## Store Pages
 
@@ -329,13 +368,13 @@
 ## Policies
 
 - [Privacy Policy](https://collectionbynp.com/policies/privacy-policy)
-  Updated: 2023-05-10T15:34:16-04:00
+  Updated: 2026-02-05T02:30:00-05:00
 - [Shipping Policy](https://collectionbynp.com/policies/shipping-policy)
-  Updated: 2024-08-15T12:37:39-04:00
+  Updated: 2026-02-05T01:40:50-05:00
 - [Refund Policy](https://collectionbynp.com/policies/refund-policy)
-  Updated: 2023-05-12T10:24:17-04:00
+  Updated: 2026-02-05T01:43:50-05:00
 - [Terms of Service](https://collectionbynp.com/policies/terms-of-service)
-  Updated: 2023-05-10T15:34:16-04:00
+  Updated: 2026-02-05T02:50:02-05:00
 - [Contact Information](https://collectionbynp.com/policies/contact-information)
   Updated: 2023-05-12T10:26:42-04:00
 
