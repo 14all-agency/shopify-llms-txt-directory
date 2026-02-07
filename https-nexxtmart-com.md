@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-01-30T00:00:37.589Z
+- Updated At: 2026-02-07T00:00:42.057Z
 
 ## Products
 
@@ -186,17 +186,17 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ukwa_Bread_Fruit.png?v=1758922698
   Price: $18.99 USD
 - [Pure Heaven Juice, Red Grapes, 750ml - natural sweetness](https://nexxtmart.com/products/pure-heaven-juice-red-grapes-750ml): Buy Pure Heaven Juice, a premium, non-alcoholic beverage that captures the natural sweetness, crafted from the finest grape fruits, delivers a fresh, healthy drink that’s perfect for any occasion.
-  Updated: 2025-10-08T19:22:28Z
+  Updated: 2026-01-31T14:49:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Pure_Heaven_Juice_750ml.png?v=1758922699
   - [1 Pack](https://nexxtmart.com/products/pure-heaven-juice-red-grapes-750ml?variant=45833623765044)
     Availability: Available
-    Price: $15.50 USD
+    Price: $16.50 USD
   - [2 Packs](https://nexxtmart.com/products/pure-heaven-juice-red-grapes-750ml?variant=45833623797812)
     Availability: Available
-    Price: $29.10 USD
+    Price: $31.99 USD
 - [White Garri from Nigeria - Clean and fresh from Nexxtmart](https://nexxtmart.com/products/white-garri): Buy Nigerian White Garri, also known as granulated fried cassava, is made from freshly harvested cassava roots. Shop at Nexxtmart
   Updated: 2025-10-08T19:14:31Z
   Vendor: My Store
@@ -796,17 +796,17 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Sweet_and_Spicy_Ripe_Plantain_Chips.png?v=1758922877
   Price: $10.99 USD
 - [StockFish Cod - Nexxtmart | Norwegian StockFish Cod](https://nexxtmart.com/products/stockfish-cod): Buy StockFish Cod from Nexxtmart – Norwegian dried fish, available whole or partially cut. High-protein, natural, flavorful, and perfect for soups, stews & sauces.
-  Updated: 2025-11-02T02:18:47Z
+  Updated: 2026-02-06T19:09:42Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/whole_stock_fish.png?v=1758922879
   - [Pack of 4 pcs (partially cut) 2-3lb](https://nexxtmart.com/products/stockfish-cod?variant=45873049042996)
     Availability: Available
-    Price: $120.00 USD
+    Price: $170.00 USD
   - [Pack of 4 pcs (whole) 2-3lb](https://nexxtmart.com/products/stockfish-cod?variant=45873049075764)
     Availability: Available
-    Price: $120.00 USD
+    Price: $170.00 USD
 - [Curry Masala - Nexxtmart | 100% Natural Spice Blend](https://nexxtmart.com/products/curry-masala): Shop Curry Masala at Nexxtmart – 100% natural, healthy seasoning made with spices. Perfect for curries, stews, sauces & everyday cooking. Vegan & keto friendly.
   Updated: 2025-11-02T02:18:47Z
   Vendor: Nexxtmart LLC
@@ -1375,7 +1375,7 @@
     Availability: Available
     Price: $9.10 USD
 - [Iru – Fresh & Fermented African Locust Beans | Nexxtmart](https://nexxtmart.com/products/locust-beans-fresh-and-fermented-iru): Buy Iru (fresh & fermented locust beans) – authentic West African condiment. Bold flavor, nutrient-rich, and perfect for Egusi, Ogbono, Okra soups & more.
-  Updated: 2025-11-02T02:18:47Z
+  Updated: 2026-01-31T14:53:56Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1472,7 +1472,7 @@
     Availability: Available
     Price: $69.99 USD
 - [Organic Rubbed Sage – Pure Herbal Flavoring for Cooking | Nexxtmart](https://nexxtmart.com/products/organic-rubbed-sage): Organic Rubbed Sage – earthy, aromatic, and nutrient-rich. Enhance meats, seafood, vegetables, stuffing, and sauces with this pure herb. Add bold flavor and health benefits to your meals today.
-  Updated: 2025-11-02T02:18:47Z
+  Updated: 2026-02-04T05:45:59Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1499,7 +1499,7 @@
     Availability: Available
     Price: $12.99 USD
 - [White Pepper – Ground Seasoning for Home Cooking Recipes | Nexxtmart](https://nexxtmart.com/products/white-pepper): Premium White Pepper – Pure, bold, and aromatic. Add refined heat to soups, sauces, seafood, and vegetables with Nexxtmart’s all-natural seasoning.
-  Updated: 2025-12-21T19:38:45Z
+  Updated: 2026-02-03T04:56:51Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1600,7 +1600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Funbact-A_Triple_Action_Cream.png?v=1758923014
   Price: $7.99 USD
 - [Fragrance Powder – Enchanteur Charming Perfumed Talc for Silky Skin](https://nexxtmart.com/products/fragrance-powder): Experience the timeless elegance of fragrance powder with Enchanteur Charming Perfumed Talc. This lightweight talc keeps you feeling fresh, soft, and beautifully scented all day.
-  Updated: 2025-09-27T14:48:21Z
+  Updated: 2026-02-03T16:39:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1677,7 +1677,7 @@
     Availability: Available
     Price: $75.89 USD
 - [Hibiscus Flowers – Sweet Sahel - Sun-Dried Zobo Leaves - Nexxtmart](https://nexxtmart.com/products/hibiscus-flowers-dried-zobo-leaves): Hibiscus Flowers 250g: Premium sun-dried Nigerian Zobo Leaves, rich in antioxidants and caffeine-free. Ideal for hot tea, cold brew, Agua de Jamaica, and refreshing herbal drinks.
-  Updated: 2026-01-05T06:46:04Z
+  Updated: 2026-02-02T16:54:10Z
   Vendor: Nexxtmart
   Product Type: 
   Availability: Available
@@ -1696,16 +1696,16 @@
 ## Collections
 
 - [Food Stuffs - Nexxtmart](https://nexxtmart.com/collections/food-stuffs): Stock up on high-quality foodstuffs at Nexxtmart! From pantry staples like rice, pasta, and flour to  - Nexxtmart
-  Updated: 2026-01-05T19:51:41Z
+  Updated: 2026-02-06T19:09:43Z
   Total Products: 74
 - [New Arrivals - Nexxtmart](https://nexxtmart.com/collections/new-arrivals): Stay ahead with Nexxtmart’s New Arrivals! Discover the latest and freshest products, from pantry  - Nexxtmart
-  Updated: 2025-12-31T12:11:50Z
+  Updated: 2026-02-02T12:10:47Z
   Total Products: 30
 - [Featured Items - Nexxtmart](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2026-01-05T19:51:41Z
+  Updated: 2026-02-06T19:09:43Z
   Total Products: 150
 - [Best Sellers - Nexxtmart](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
-  Updated: 2026-01-05T19:51:41Z
+  Updated: 2026-02-06T19:09:43Z
   Total Products: 56
 - [cooking oil - Nexxtmart](https://nexxtmart.com/collections/cooking-oil): Discover high-quality cooking oils at Nexxtmart. From healthy vegetable oils to rich palm and  - Nexxtmart
   Updated: 2025-09-26T23:00:35Z
@@ -1717,13 +1717,13 @@
   Updated: 2026-01-03T12:12:40Z
   Total Products: 45
 - [Drinks - Nexxtmart](https://nexxtmart.com/collections/drinks): Refreshing Drinks for Every Occasion Drinks bring people together, whether it’s a chilled soda on a  - Nexxtmart
-  Updated: 2026-01-03T12:12:40Z
+  Updated: 2026-01-31T14:47:29Z
   Total Products: 17
 - [Condiments - Nexxtmart](https://nexxtmart.com/collections/condiments): Elevate your cooking with Nexxtmart’s premium selection of condiments. From rich sauces and  - Nexxtmart
-  Updated: 2025-11-24T20:43:39Z
+  Updated: 2026-02-06T19:09:43Z
   Total Products: 44
 - [Health and Beauty - Nexxtmart](https://nexxtmart.com/collections/health-and-beauty): Nourish Your Body Inside and Out Your health and beauty routine deserves the best. At Nexxtmart, our  - Nexxtmart
-  Updated: 2025-12-31T12:11:50Z
+  Updated: 2026-02-02T12:10:47Z
   Total Products: 4
 - [Fruits & Vegetables - Nexxtmart](https://nexxtmart.com/collections/fruits-vegetables): Fresh Fruits &amp; Vegetables for a Healthy Lifestyle At Nexxtmart, we bring you the finest  - Nexxtmart
   Updated: 2025-11-24T21:05:41Z
@@ -1732,7 +1732,7 @@
   Updated: 2026-01-05T19:51:41Z
   Total Products: 10
 - [Best  Products, Buy Quality and Tasty African food items.](https://nexxtmart.com/collections/best--products): Discover the best  products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
-  Updated: 2026-01-05T19:51:41Z
+  Updated: 2026-02-06T19:09:43Z
   Total Products: 152
 - [Digital Goods VAT Tax - Nexxtmart](https://nexxtmart.com/collections/digital-goods-vat-tax): - Nexxtmart
   Updated: 2025-09-26T22:02:18Z
