@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-29T12:17:18Z
 - Contact Email: info@damastklingen-shop.de
-- Updated At: 2026-01-29T11:36:22.353Z
+- Updated At: 2026-02-07T00:00:35.706Z
 
 ## Products
 
@@ -241,13 +241,13 @@
 ## Policies
 
 - [Privacy Policy](https://damastklingen-shop.de/policies/privacy-policy)
-  Updated: 2026-01-28T04:11:56+01:00
+  Updated: 2026-02-06T04:12:41+01:00
 - [Shipping Policy](https://damastklingen-shop.de/policies/shipping-policy)
   Updated: 2025-10-22T14:48:54+02:00
 - [Refund Policy](https://damastklingen-shop.de/policies/refund-policy)
-  Updated: 2026-01-27T01:09:08+01:00
+  Updated: 2026-02-03T08:10:31+01:00
 - [Terms of Service](https://damastklingen-shop.de/policies/terms-of-service)
-  Updated: 2026-01-27T01:05:37+01:00
+  Updated: 2026-02-03T08:09:35+01:00
 - [Contact Information](https://damastklingen-shop.de/policies/contact-information)
   Updated: 2025-09-10T18:47:38+02:00
 
