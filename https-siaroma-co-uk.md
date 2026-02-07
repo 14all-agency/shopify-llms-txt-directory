@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-20T17:54:38Z
-- Updated At: 2026-01-31T00:00:37.480Z
+- Updated At: 2026-02-07T00:00:39.988Z
 
 ## Products
 
@@ -100,146 +100,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FullSizeRender_62dbf251-c704-4afd-9c87-a48c17953794.jpg?v=1761213744
   Price: £15.99 GBP
-- [Luxury Fizz Wax melt (60g)](https://siaroma.co.uk/products/luxury-fizz-wax-melt): As a product of industry expertise, our Luxury Fizz wax melt (60g) offers a refreshing fruity scent, with notes of lime, lemon, and raspberry as well as a floral heart of freesia and lily of the valley. The sensual base of musk, amber, and precious woods adds a touch of luxury to your home.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2856.png?v=1761394605
-  Price: £4.50 GBP
-- [Crimson Fruit Crush Wax melt (60g)](https://siaroma.co.uk/products/crimson-fruit-crush-wax-melt): Expertly crafted with a mouth-watering fruity scent, our Crimson Fruit Crush Wax melt (60g) features a zesty blend of orange and pear, with juicy notes of cranberry, apple, strawberry, and raspberry. Enhanced with spicy undertones and a musky finish, enjoy a refreshing and invigorating fragrance experience.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2857.png?v=1761395074
-  Price: £4.50 GBP
-- [Velvet Rose Wax melt (60g)](https://siaroma.co.uk/products/velvet-rose-wax-melt): Indulge in the luxurious blend of oriental floral scents with Velvet Rose Wax melt. Crafted with expertise, our 60g clamshells offer an alluring bouquet of oud, rose, geranium, jasmine, and clove, while the velvety base of cedar, sandalwood, vetiver, amber, musk, vanilla, patchouli, and raspberry adds a touch of sweetness. Experience the perfect balance of fragrance and warmth.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2859.png?v=1761395662
-  Price: £4.50 GBP
-- [Creamy Marshmallow Wax melt (60g)](https://siaroma.co.uk/products/creamy-marshmallow-wax-melt-60g): Indulge in the irresistible scent of our Creamy Marshmallow Wax melt (60g). A delightful blend of soft marshmallow, sweet strawberry, and creamy vanilla will transport you to a world of bliss. Plus, the added foamy soap scent will leave your home smelling clean and fresh. Treat yourself to a decadent experience with every burn.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2862.png?v=1761396484
-  Price: £4.50 GBP
-- [Blood Orange Wax melt (60g)](https://siaroma.co.uk/products/blood-orange-wax-melt-60g): Experience the refreshing and energizing scent of our Blood Orange Wax melt. This 60g melt features a powerful and juicy citrus accord with hints of Florida orange and lemon peel. Enjoy the benefits of this invigorating fragrance without the mess of traditional wax candles.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2864.png?v=1761398319
-  Price: £4.50 GBP
-- [Green Peach Wax melt (60g)](https://siaroma.co.uk/products/green-peach-wax-melt-60g): Infuse your space with the refreshing scent of Green Peach Wax melt. This 60g melt boasts a vibrant peach fragrance, balanced with fresh green florals and notes of warm musk and amber. Create a welcoming and uplifting ambiance with this enticing wax melt.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2867.png?v=1761398853
-  Price: £4.50 GBP
-- [Pomegranate & Orange Wax melt (60g)](https://siaroma.co.uk/products/pomegranate-orange-wax-melt-60g): Indulge in the refreshing and uplifting scent of Pomegranate & Orange with our 60g wax melt. This fruity fragrance features notes of pomegranate, orange, mandarin, grapefruit and cassis, and is complemented by a base of precious woods, musk and dry fruits. Perfect for creating a welcoming and invigorating atmosphere in any room.
-  Updated: 2025-11-10T21:45:07Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2869.png?v=1761399536
-  Price: £4.50 GBP
-- [Pomegranate Noir Wax melt (60g)](https://siaroma.co.uk/products/pomegranate-noir-wax-melt-60g): Pomegranate Noir offers a sophisticated blend of citrus, clove, and musky scents. With warm, spicy notes and complex white woods, this 60g wax melt clamshell creates a cozy and inviting atmosphere. Elevate your space with this luxurious fragrance.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2872.png?v=1761399888
-  Price: £4.50 GBP
-- [Pink Dragon fruit Wax melt (60g)](https://siaroma.co.uk/products/pink-dragon-fruit-wax-melt-60g): Indulge in the succulent scent of Pink Dragon Fruit with our 60g wax melt clamshells. Let the sharp fruity notes of melon, pear, strawberry, peach, plum, and raspberry transport you to a sweet, musky oasis. Perfect for a refreshing and invigorating atmosphere.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2875.png?v=1761400499
-  Price: £4.50 GBP
-- [Cute Crunch Wax melt (60g)](https://siaroma.co.uk/products/cute-crunch-wax-melt-60g): Experience the sweet scent of our Cute Crunch Wax melt, featuring a delightful citrus blend of lemon and bergamot, with notes of musk, muguet, and candyfloss. Infused with a touch of vanilla, our 60g clamshells are perfect for creating a warm and inviting atmosphere in your home.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2878.png?v=1761400865
-  Price: £4.50 GBP
-- [Bubble Gum Wax melt (60g)](https://siaroma.co.uk/products/bubble-gum-wax-melt-60g): Experience the sweet, uplifting, and fun aroma of our Bubble Gum Wax melt. Made with a fragrance oil that mimics the scent of juicy fruit gum, this wax melt will fill your space with notes of fresh berries, peach, pineapple and citrus. Each clamshell contains 60g of wax, perfect for a long-lasting scent.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2880.png?v=1761401405
-  Price: £4.50 GBP
-- [White Gardenia Wax melt (60g)](https://siaroma.co.uk/products/white-gardenia-wax-melt-60g): Experience the delightful scent of Gardenia with our White Gardenia Wax Melt. Specially formulated to capture the essence of this flower, this 60g clamshell releases a strong, invigorating fragrance of bergamot, orange blossom, and grapefruit. Transport yourself to tropical and subtropical regions with each melt.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2882.png?v=1761401863
-  Price: £4.50 GBP
-- [Sauvage Wax melt (60g)](https://siaroma.co.uk/products/sauvage-wax-melt-60g): Experience the refreshing aroma of masculine scent of Sauvage with our 60g Wax Melt Clamshells. Invigorate your senses with clean notes of citrus, grapefruit, lime, and orange, followed by a delicate blend of jasmine, pine, rose, and lily of the valley. Finish off with the warm and woody base of sandalwood, musk, amber, and complex white woods. Indulge in the perfect balance of freshness and elegance with Sauvage Wax Melt.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/BB989611-1E13-4681-9249-BD7F6AAC9906.png?v=1761402318
-  Price: £4.50 GBP
-- [Bahama Breeze Wax melt (60g)](https://siaroma.co.uk/products/bahama-breeze-wax-melt-60g): Experience the refreshing and uplifting scent of Bahama Breeze with our 60g Wax melt clamshells. Enjoy the clean and fresh blend of pineapple, passionfruit, grapefruit, and peach, with a hint of musk. Transform your space and indulge in the essence of the sea.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2889.png?v=1761402730
-  Price: £4.50 GBP
-- [Sour Patches Wax melt (60g)](https://siaroma.co.uk/products/sour-patches-wax-melt-60g): Experience the ultimate burst of fruity aroma with Sour Patches Wax Melts. The Super crazy strong top notes of lemon, lime, blueberry, and raspberry will elevate your space, while middle notes of berries and pineapple juice add a refreshing twist. With sweet vanilla bottom notes, this 60g wax melt will fill your room with a delightful and irresistible scent.
-  Updated: 2025-11-10T21:45:08Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2891.png?v=1761403126
-  Price: £4.50 GBP
-- [Lily of the Valley Wax melt (60g)](https://siaroma.co.uk/products/lily-of-the-valley-wax-melt-60g): Introducing our Lily of the Valley Wax melt, featuring a rich and fragrant fragrance oil with crisp green top notes. Each 60g clamshell brings the essence of a blooming white floral to your home. Experience the benefits of a revitalizing and uplifting atmosphere with this expertly crafted wax melt.
-  Updated: 2025-11-10T21:45:09Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2893.png?v=1761403490
-  Price: £4.50 GBP
-- [Soft Musk Wax melt (60g)](https://siaroma.co.uk/products/soft-musk-wax-melt-60g): Experience tranquility with our Soft Musk Wax Melt. The delicate floral layers in our Musk Fragrance Oil provide a comforting and complex scent, perfect for achieving a peaceful atmosphere. Each clamshell contains 60g of wax, making it easy to enjoy this subtle and soothing aroma.
-  Updated: 2025-11-10T21:45:09Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2899.png?v=1761403850
-  Price: £4.50 GBP
-- [Pink Blush Wax melt (60g)](https://siaroma.co.uk/products/pink-blush-wax-melt-60g): Introducing our Pink Blush Wax Melt, a 60g luxurious melt that will fill your home with the refreshing and delightful blend of fruity and floral scents. With notes of green apple, violet, and amber, this wax melt will create a serene and inviting ambiance. Now available in a 70g wax melt clamshell for longer-lasting enjoyment.
-  Updated: 2025-11-10T21:45:09Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2902.png?v=1761404119
-  Price: £4.50 GBP
-- [Almond Liquor Wax melt (60g)](https://siaroma.co.uk/products/almond-liquor-wax-melt-60g): Indulge in the rich and creamy aroma of Almond Liquor Wax Melt. Each 60g clamshell contains the perfect blend of freshly crushed sweet almonds, leaving a nutty and velvety scent. Experience the perfect balance of fragrance and warmth with this indulgent wax melt.
-  Updated: 2025-11-10T21:45:09Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2905.png?v=1761404406
-  Price: £4.50 GBP
-- [Ruby Figure Wax melt (60g)](https://siaroma.co.uk/products/ruby-figure-wax-melt-60g): Experience the bold, seductive scent of Ruby Figure Wax melt. This 60g clamshell contains a luxurious blend of adventurous amber, sweet vanilla, and delicate notes of pear, bergamot, and leather. Perfect for adding a touch of sophistication to any room.
-  Updated: 2025-11-10T21:45:09Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-2907.png?v=1761404661
-  Price: £4.50 GBP
 - [Festive Mule Wax melt](https://siaroma.co.uk/products/festive-mule-wax-melt): Introduce the holiday spirit into your home with our Festive Mule Wax Melt. Experience the warm and inviting scent of spicy cranberry, delicate raspberry, and powdery cinnamon. This 50g Christmas-themed wax melt will fill your space with a fruity, musky aroma.
   Updated: 2026-01-06T15:55:01Z
   Vendor: Si Aroma
@@ -631,33 +491,26 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3301.png?v=1762175106
   Price: £80.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 520g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2025-11-10T21:45:15Z
+  Updated: 2026-02-01T12:13:48Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3328.png?v=1762177261
-  Price: £40.00 GBP
+  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-1): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 520g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2025-11-10T21:45:15Z
+  Updated: 2026-02-01T12:13:40Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3329.png?v=1762177271
-  Price: £40.00 GBP
-- [Large wax melt flower bouquet](https://siaroma.co.uk/products/large-wax-melt-flower-bouquet): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 1000g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2025-11-10T21:45:15Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3330.png?v=1762177270
-  Price: £70.00 GBP
+  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-2): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Black Cherry, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 520g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2025-11-10T21:45:15Z
+  Updated: 2026-02-01T12:14:50Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FE74FC90-2932-4BFB-9389-D91CA22F1995.png?v=1762363300
-  Price: £40.00 GBP
+  Price: £35.00 GBP
 - [Reed Diffuser Sour Patches](https://siaroma.co.uk/products/reed-diffuser-sour-patches): Sour Patches Reed Diffuser (100ml) Bring a burst of playful sweetness into your home with Si Aroma’s Sour Patches Reed Diffuser. Inspired by the tangy-sweet aroma of your favorite candy, this diffuser fills your space with a lively, uplifting scent that’s both refreshing and comforting. Each 100ml diffuser comes with 8 natural reed sticks, designed to slowly absorb and release the fragrance, offering long-lasting freshness for 2–4 months — depending on your environment and how often you flip the reeds. Perfect for living rooms, bedrooms, offices, or bathrooms, it’s a stylish and effortless way to enjoy continuous fragrance all day long. Product Features Fragrance: Sour Patches – sweet, tangy & invigorating Volume: 100ml premium fragrance oil Includes: 8 natural reed sticks Longevity: Lasts approximately 2–4 months Flameless & low-maintenance home fragrance solution How to Use: Remove the cap and insert the reed sticks into the bottle. Allow the reeds to absorb the fragrance for a few hours. Flip the reeds to release the scent into the air. For a stronger scent, flip the reeds every few days; for a lighter scent, flip less often. Place the diffuser in a well-ventilated area, away from direct sunlight and heat sources to prolong its life. ⚠️ Safety & Care Keep out of reach of children and pets. Do not ingest or allow liquid to come into contact with skin or eyes. Avoid placing on polished, painted, or plastic surfaces — use a coaster or protective base. Keep away from open flames and heat sources. In case of spills, wipe immediately with a damp cloth. For external use and room fragrance purposes only.
   Updated: 2026-01-04T00:30:55Z
   Vendor: Si Aroma
@@ -687,12 +540,12 @@
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3504.png?v=1762708738
   Price: £24.99 GBP
 - [Car Freshener](https://siaroma.co.uk/products/car-freshener): Premium 8ml Hanging Car Fresheners Elevate your driving experience with our 8ml car air fresheners, available in black colour to match any interior style. Designed with a sleek, minimalist, and modern look, these hanging car diffusers perfectly complement the aesthetic of any vehicle. Each diffuser is easy to install — simply tighten the attached cord and bead to hang securely in place. Choose from a range of luxurious inspired fragrances that can last up to 6 weeks, keeping your car smelling fresh and inviting. How to Use: Uncap the glass bottle.Take the plastic stopper out.Screw the wooden lid back on securely.Gently shake to allow the cork top to absorb a small amount of oil. ⚠️ Important: Always keep the bottle upright to prevent leakage. Avoid contact with your car’s interior surfaces, as any spillage may cause damage. We are not responsible for any damage resulting from misuse or failure to follow instructions. Add a touch of elegance and long-lasting fragrance to your car today with our premium hanging car fresheners. Disclaimer - Our fragrances are no way affiliated with the designer fragrances. Our diffusers are inspired by, and simply smell similar.
-  Updated: 2025-11-11T23:49:46Z
+  Updated: 2026-02-06T09:32:12Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3565.png?v=1762858618
-  Price: £6.50 GBP
+  Price: £5.99 GBP
 - [Swirl decorative candle](https://siaroma.co.uk/products/we): Swirl Decorative Candle (55g) Elevate your space with this beautifully sculpted decorative candle, featuring a graceful swirl design and soft pastel tone. Weighing approximately 55 grams, it makes a perfect accent piece for your home decor or a thoughtful gift. Choose your colour & scent. Candle Safety Information: This candle is intended primarily for decorative purposes. If you choose to burn it, always place it on a stable, heat-resistant surface to prevent heat damage or wax spills. Never leave a lit candle unattended, and keep it away from flammable materials, children, and pets. Trim the wick to 5 mm before lighting for a cleaner, safer burn, and extinguish the candle when approximately 1 cm of wax remains. Disclaimer - Our fragrances are no way affiliated with the designer fragrances. Our diffusers are inspired by, and simply smell similar.
   Updated: 2025-11-12T01:10:51Z
   Vendor: Si Aroma
@@ -733,7 +586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3634.jpg?v=1763123367
     Price: £7.99 GBP
 - [3D Stacking Elephant Candle](https://siaroma.co.uk/products/3d-stacking-elephant-candle): This 3D Stacking Elephant Candle is a perfect addition to any room. Its beautiful design and customizable color and scent options make it a versatile and stylish ornament. With a weight of approximately 140g and a length of approximately 12cm, it provides a long-lasting and visually appealing ambiance. Candle Safety Information: This candle is intended primarily for decorative purposes. If you choose to burn it, always place it on a stable, heat-resistant surface to prevent heat damage or wax spills. Never leave a lit candle unattended, and keep it away from flammable materials, children, and pets. Trim the wick to 5 mm before lighting for a cleaner, safer burn, and extinguish the candle when approximately 1 cm of wax remains. Disclaimer - Our fragrances are no way affiliated with the designer fragrances. Our diffusers are inspired by, and simply smell similar.
-  Updated: 2025-11-18T10:01:01Z
+  Updated: 2026-02-06T09:32:37Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -741,21 +594,21 @@
   - [White / Opulence](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55967785091404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3719.png?v=1763413138
-    Price: £10.00 GBP
+    Price: £8.00 GBP
   - [Pastel purple / Opulence](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55967785124172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3722.png?v=1763413146
-    Price: £10.00 GBP
+    Price: £8.00 GBP
   - [Grey / Opulence](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55971075817804)
     Availability: Not Available
-    Price: £10.00 GBP
+    Price: £8.00 GBP
   - [Pastel purple / Minimal](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55971076014412)
     Availability: Not Available
-    Price: £10.00 GBP
+    Price: £8.00 GBP
   - [Grey / Minimal](https://siaroma.co.uk/products/3d-stacking-elephant-candle?variant=55971076047180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3746.png?v=1763460048
-    Price: £10.00 GBP
+    Price: £8.00 GBP
 - [Heart in hands candle](https://siaroma.co.uk/products/heart-in-hands-candle): The Heart in Hands Candle is a beautiful addition to any home or office, adding a touch of decoration and ambiance. Made with approximately 150g of high-quality wax, this candle comes in a variety of colors and scents to suit your personal preference. Give it as a thoughtful and unique gift, or indulge in its calming glow for yourself.
   Updated: 2026-01-28T08:53:55Z
   Vendor: Si Aroma
@@ -779,7 +632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3743.png?v=1763458675
     Price: £7.99 GBP
 - [Set of 3 rose candles](https://siaroma.co.uk/products/untitled-nov19_12-41): Indulge in the elegant beauty of our Set of 3 Rose Candles. Perfect for any occasion, these candles are delicately packed in a white box for a lovely presentation. Choose from a variety of scents and colors to create the perfect ambiance. Each rose weighs approximately 50g, providing a long-lasting and fragrant experience.
-  Updated: 2025-11-20T02:50:03Z
+  Updated: 2026-02-06T09:32:50Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -787,19 +640,19 @@
   - [BlackBerry & Bay leaf (1)](https://siaroma.co.uk/products/untitled-nov19_12-41?variant=55980152881484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3792.png?v=1763556475
-    Price: £12.00 GBP
+    Price: £10.00 GBP
   - [Opulence (1)](https://siaroma.co.uk/products/untitled-nov19_12-41?variant=55980152914252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3794.png?v=1763556590
-    Price: £12.00 GBP
+    Price: £10.00 GBP
   - [Opulence (2)](https://siaroma.co.uk/products/untitled-nov19_12-41?variant=55980152947020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3797.png?v=1763557772
-    Price: £12.00 GBP
+    Price: £10.00 GBP
   - [Opulence (3)](https://siaroma.co.uk/products/untitled-nov19_12-41?variant=55980152979788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3798.png?v=1763558021
-    Price: £12.00 GBP
+    Price: £10.00 GBP
 - [Luxury Couple Candle Gift Set – Sea God & Sea Goddess 30cl Soy Candles with Seashells](https://siaroma.co.uk/products/luxury-couple-candle-gift-set-sea-god-sea-goddess-30cl-soy-candles-with-seashells): Couple Candle Set – “Sea God & Sea Goddess” (30cl each) Celebrate connection with this luxurious duo candle set, thoughtfully crafted for him and her. Each 30cl candle is hand-poured using natural soy wax, high-quality fragrance oils, and elegant wooden wicks for a clean, soothing burn. Topped with real seashells, this set captures the beauty and serenity of the ocean—making it a perfect gift for any occasion. ✨ Sea God (for Him) A bold, masculine candle inspired by the iconic Sauvage aftershave. Fragrance notes: (a fresh and citrusy top with bergamot, a middle of spicy and aromatic elements like pepper and lavender, and a warm, woody, and earthy base with notes such as patchouli, cedarwood, and ambroxan.) Fresh, powerful, and effortlessly refined—ideal for the modern man. ✨ Sea Goddess (for Her) A soft, sensual fragrance inspired by Olympéa perfume. Fragrance notes: (a blend of floral, fresh, and woody elements, with a signature salty vanilla heart.) Elegant, feminine, and captivating—perfect for adding a touch of luxury to any space. 🎁 Gift-Ready Presentation Each candle comes beautifully packaged in a sleek, modern gift box, making this pair an ideal present for birthdays, anniversaries, Valentine’s Day, weddings, or simply as a thoughtful “just because” surprise. 🌿 Why You’ll Love It: Natural soy wax for a clean, long-lasting burn Real seashell embellishments for a stunning coastal aesthetic Premium wooden wicks that crackle gently High-quality fragrance oils inspired by beloved designer scents A meaningful gift designed for couples Add a touch of ocean magic to your home or delight someone special with this elegant and romantic candle set. Disclaimer - Our fragrances are no way affiliated with the designer fragrances. Our candles are inspired by, and simply smell similar.
   Updated: 2025-11-28T04:18:43Z
   Vendor: Si Aroma
@@ -912,40 +765,40 @@
     Availability: Available
     Price: £3.50 GBP
 - [Decorative Pastel Puppy Candle – Handmade Soy Wax (515g)](https://siaroma.co.uk/products/decorative-pastel-puppy-candle-handmade-soy-wax-515g): Add a touch of charm and warmth to your space with this beautifully handcrafted decorative candle. Designed in a soft pastel tone, this adorable puppy-shaped candle is made from 100% natural soy wax, giving it a smooth finish and an elegant, artisanal feel. Lightly scented to create a subtle and calming ambiance, it’s perfect for styling shelves, coffee tables, nurseries, or gifting to candle lovers. While fully functional, this candle is also ideal as a décor piece, bringing personality and coziness to any room. Details: Handmade decorative candle Natural soy wax Light pastel colour Lightly scented for a gentle aroma Weight: 515g A perfect blend of artistry and fragrance, this candle is designed to delight—whether displayed or softly lit. 🕯️✨ Candle Safety Information: This candle is intended primarily for decorative purposes. If you choose to burn it, always place it on a stable, heat-resistant surface to prevent heat damage or wax spills. Never leave a lit candle unattended, and keep it away from flammable materials, children, and pets. Trim the wick to 5 mm before lighting for a cleaner, safer burn, and extinguish the candle when approximately 1 cm of wax remains.
-  Updated: 2026-01-28T08:53:23Z
+  Updated: 2026-02-01T12:12:56Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4460.png?v=1766052373
-  Price: £50.00 GBP
+  Price: £40.00 GBP
 - [Wax Melt Flower Bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-3): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 580g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2025-12-19T00:55:13Z
+  Updated: 2026-02-01T12:12:28Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4476.png?v=1766062403
-  Price: £40.00 GBP
+  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-4): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 545g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
-  Updated: 2025-12-19T01:38:30Z
+  Updated: 2026-02-01T12:13:12Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4479.png?v=1766063599
-  Price: £40.00 GBP
+  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-5): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 545g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
-  Updated: 2025-12-19T01:19:01Z
+  Updated: 2026-02-01T12:12:45Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4481.png?v=1766063888
-  Price: £40.00 GBP
+  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-6): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
-  Updated: 2025-12-19T01:27:57Z
+  Updated: 2026-02-01T12:12:39Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4483.png?v=1766064460
-  Price: £40.00 GBP
+  Price: £35.00 GBP
 - [🎀 Luxury Red Bow Gift Box – Candle & Wax Melt Collection 🎀](https://siaroma.co.uk/products/🎀-luxury-red-bow-gift-box-candle-wax-melt-collection-🎀): Create the perfect present with this stunning, elegant gift set beautifully packaged in a large red keepsake box finished with a statement bow tie lid. Designed to impress at first sight, this luxurious box makes an unforgettable gift for birthdays, anniversaries, Valentine’s Day, or simply treating someone special. Inside, you’ll discover a hand-picked collection of indulgent home fragrance favourites: ✨ What’s included: • 1 × 20cl candle in Plush scent • 1 × Cloud Blue crackle wax melt/oil burner • 5 × 60g heart-shaped wax melts in: – Sour Patches – Ruby Figure – Pink Blush – Lily of the Valley – Bahama Breeze Each scent fills your home with long-lasting, beautiful fragrance, while the stylish crackle burner adds a cosy decorative touch to any room. The reusable red bow box not only protects your treats but also doubles as a gorgeous keepsake storage box – no wrapping required! 💝 Perfect for gifting. Beautiful to display. Delightful to enjoy.
   Updated: 2026-01-27T04:45:41Z
   Vendor: Si Aroma
@@ -953,7 +806,106 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5058.png?v=1769445614
   Price: £40.00 GBP
-[List Continued](https://siaroma.co.uk/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUzODk4NTg2MTQ1MiwibGFzdF92YWx1ZSI6IjE1NTM4OTg1ODYxNDUyIn0=)
+- [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-7): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
+  Updated: 2026-02-04T01:35:33Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5173.png?v=1770125693
+  Price: £35.00 GBP
+- [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-8): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
+  Updated: 2026-02-04T01:44:59Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5175.png?v=1770126237
+  Price: £35.00 GBP
+- [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-9): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
+  Updated: 2026-02-04T01:48:05Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5177.png?v=1770126449
+  Price: £35.00 GBP
+- [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-10): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
+  Updated: 2026-02-04T02:05:26Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5179.png?v=1770126588
+  Price: £35.00 GBP
+- [Heart shaped Wax melts (60g)](https://siaroma.co.uk/products/untitled-feb4_12-32): Experience a diverse selection of heart-shaped wax melts, each clamshell containing 60g of high-quality wax. Offering over 30 hours of aroma, these melts range from sweet to fresh and woody scents, allowing for personalized fragrance options for your environment. Simply break a piece and use with a wax melt burner for optimal results.
+  Updated: 2026-02-05T00:45:40Z
+  Vendor: Si Aroma
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5250.png?v=1770209744
+  - [Ruby Figure](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641077068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5250.png?v=1770209744
+    Price: £4.00 GBP
+  - [Luxury fizz](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641109836)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5202.png?v=1770209744
+    Price: £4.00 GBP
+  - [Cute Crunch](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641142604)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5205.png?v=1770209743
+    Price: £4.00 GBP
+  - [Sauvage](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641175372)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5229.png?v=1770209744
+    Price: £4.00 GBP
+  - [Bahama Breeze](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641208140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5232.png?v=1770209743
+    Price: £4.00 GBP
+  - [Sour Patches](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641240908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5235.png?v=1770209743
+    Price: £4.00 GBP
+  - [Pink Blush](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641273676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5244.png?v=1770209745
+    Price: £4.00 GBP
+  - [Soft Musk](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641306444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5241.png?v=1770209744
+    Price: £4.00 GBP
+  - [Lily of the Valley](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641339212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5238.png?v=1770209744
+    Price: £4.00 GBP
+  - [Almond Liquor](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641371980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5247.png?v=1770209744
+    Price: £4.00 GBP
+  - [White Gardenia](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641404748)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5226.png?v=1770209743
+    Price: £4.00 GBP
+  - [Bubble Gum](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641437516)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5260.png?v=1770211081
+    Price: £4.00 GBP
+  - [One Love](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641470284)
+    Availability: Available
+    Price: £4.00 GBP
+  - [Pink dragon fruit](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641503052)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5214.png?v=1770209743
+    Price: £4.00 GBP
+  - [Creamy Marshmallow](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641535820)
+    Availability: Available
+    Price: £4.00 GBP
+  - [Crimson fruit Crush](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641568588)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5223.png?v=1770209743
+    Price: £4.00 GBP
+  - [Peach](https://siaroma.co.uk/products/untitled-feb4_12-32?variant=56645641601356)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5217.png?v=1770209744
+    Price: £4.00 GBP
 
 ## Collections
 
@@ -964,14 +916,14 @@
   Updated: 2026-01-28T08:59:54Z
   Total Products: 16
 - [Wax Melts](https://siaroma.co.uk/collections/wax-melts)
-  Updated: 2026-01-26T16:47:11Z
-  Total Products: 24
+  Updated: 2026-02-04T13:21:19Z
+  Total Products: 5
 - [Car Fresheners](https://siaroma.co.uk/collections/reed-diffusers)
-  Updated: 2026-01-06T15:51:57Z
+  Updated: 2026-02-06T09:32:13Z
   Total Products: 4
 - [Gift sets & Bundles](https://siaroma.co.uk/collections/gift-sets)
-  Updated: 2026-01-26T16:47:11Z
-  Total Products: 14
+  Updated: 2026-02-06T09:32:51Z
+  Total Products: 18
 - [Accessories & Decor](https://siaroma.co.uk/collections/accessories-decor)
   Updated: 2025-12-12T12:31:32Z
   Total Products: 14
@@ -982,7 +934,7 @@
   Updated: 2026-01-28T08:56:42Z
   Total Products: 20
 - [Decorative Candles](https://siaroma.co.uk/collections/decorative-candles): Candle Safety NoticeOur decorative candles are primarily designed for display and aesthetic purposes. If you choose to light them, please do so responsibly. Always place the candle on a heat-resistant, suitable dish or holder to catch any melting wax. Never leave a burning candle unattended or near flammable materials. Keep out of reach of children and pets, and ensure the candle is placed on a stable, flat surface away from drafts. Extinguish the flame completely before leaving the room or going to sleep. Enjoy your Si Aroma candle safely and beautifully.
-  Updated: 2026-01-28T08:53:56Z
+  Updated: 2026-02-06T09:32:51Z
   Total Products: 9
 - [Reed Diffusers](https://siaroma.co.uk/collections/reed-diffusers-1)
   Updated: 2025-11-10T21:45:04Z
@@ -994,8 +946,8 @@
   Updated: 2025-11-17T20:57:51Z
   Total Products: 0
 - [Valentine’s Day collection](https://siaroma.co.uk/collections/valentine-s-day-collection): Say ,,I love you’’ with aroma they enjoy ❤️🎁
-  Updated: 2026-01-29T18:44:46Z
-  Total Products: 12
+  Updated: 2026-02-06T09:32:51Z
+  Total Products: 16
 
 ## Store Pages
 
