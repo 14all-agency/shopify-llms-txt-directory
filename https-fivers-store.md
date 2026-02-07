@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2025-11-12T10:03:02Z
 - Contact Email: fivers@outlook.it
-- Updated At: 2026-01-31T00:00:41.300Z
+- Updated At: 2026-02-07T00:00:43.664Z
 
 ## Products
 
 - [Fivers Edge - IT Edition](https://fivers.store/products/fivers-edge-it-edition): La maglia tecnica Fivers Edge IT Edition unisce performance e identità italiana. Realizzata in tessuto tecnico leggero e personalizzata con stampa Tricolore e logo Fivers, è perfetta per allenamento, partite e tempo libero Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T11:08:37Z
+  Updated: 2026-02-03T10:48:34Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: 13,00 € EUR
 - [Fivers Edge bianca e nera](https://fivers.store/products/fivers-edge-it-edition-copia): La maglia tecnica Fivers Edge bianca è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti nero e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:33:09Z
+  Updated: 2026-02-03T10:48:35Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge bianca e arancio fluo](https://fivers.store/products/fivers-edge-bianca-copia): La maglia tecnica Fivers Edge bianca è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers arancio fluo avanti e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:27:51Z
+  Updated: 2026-02-03T10:48:35Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge bianca e verde fluo](https://fivers.store/products/fivers-edge-bianca-e-verde-fluo): La maglia tecnica Fivers Edge bianca è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti verde fluo e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2026-01-29T20:04:33Z
+  Updated: 2026-02-03T10:48:35Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge nera e bianca](https://fivers.store/products/fivers-edge-nera-e-bianca): La maglia tecnica Fivers Edge nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti bianca e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:22:42Z
+  Updated: 2026-02-03T10:48:35Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -116,7 +116,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge nera e arancio fluo](https://fivers.store/products/fivers-edge-nera-e-arancio-fluo): La maglia tecnica Fivers Edge nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti arancio fluo e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:17:56Z
+  Updated: 2026-02-03T10:48:35Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge nera e verde fluo](https://fivers.store/products/fivers-edge-nera-e-verde-fluo): La maglia tecnica Fivers Edge nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti verde fluo e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2026-01-19T16:59:12Z
+  Updated: 2026-02-03T10:48:36Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge verde fluo e bianca](https://fivers.store/products/fivers-edge-verde-fluo-e-bianca): La maglia tecnica Fivers Edge verde fluo è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti bianco e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:15:14Z
+  Updated: 2026-02-03T10:48:36Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge verde fluo e nera](https://fivers.store/products/fivers-edge-verde-fluo-e-nera): La maglia tecnica Fivers Edge verde fluo è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti nero e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T02:15:11Z
+  Updated: 2026-02-03T13:41:13Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -179,10 +179,10 @@
     Availability: Available
     Price: 10,00 € EUR
   - [L](https://fivers.store/products/fivers-edge-verde-fluo-e-nera?variant=56331979653493)
-    Availability: Available
+    Availability: Not Available
     Price: 10,00 € EUR
 - [Fivers Edge arancio fluo e nera](https://fivers.store/products/fivers-edge-arancio-fluo-e-nera): La maglia tecnica Fivers Edge arancio fluo è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti nero e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T11:08:37Z
+  Updated: 2026-02-03T10:48:36Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -197,7 +197,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge arancio fluo e bianca](https://fivers.store/products/fivers-edge-arancio-fluo-e-bianca): La maglia tecnica Fivers Edge arancio fluo è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti bianco e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-17T11:17:51Z
+  Updated: 2026-02-03T10:48:37Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -212,7 +212,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Fivers Edge turchese e nero](https://fivers.store/products/fivers-edge-turchese-e-nero): La maglia tecnica Fivers Edge turchese è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti nero e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-15T16:24:41Z
+  Updated: 2026-02-03T10:48:37Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -227,7 +227,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Pantaloncini Vibe grigi in 4 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: nero, bianco, arancio fluo, verde fluo, giallo fluo e rosso
-  Updated: 2026-01-13T19:43:20Z
+  Updated: 2026-02-03T10:48:37Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
@@ -323,7 +323,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Pantaloncini Vibe neri in 3 varianti](https://fivers.store/products/pantaloncini-vibe-neri-in-5-varianti-1): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: bianco, arancio fluo, verde fluo
-  Updated: 2026-01-30T08:21:46Z
+  Updated: 2026-02-03T13:41:16Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
@@ -389,88 +389,73 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/5-01.png?v=1768291016
     Price: 9,00 € EUR
 - [Pantaloncini Vibe bianchi in 3 varianti](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti): Fivers Vibe – Pantaloncini Tecnici I Fivers Vibe sono pensati per chi cerca comfort totale e uno stile essenziale.Realizzati in tessuto leggero e morbido, offrono una sensazione fresca sulla pelle anche nelle giornate più calde. Perfetti per passeggiate, relax, allenamenti leggeri o attività ad alta intensità, grazie alla loro versatilità e al design minimal che li rende ideali anche per un look casual urbano. Caratteristiche principali: Vestibilità ampia e comoda Tessuto leggero e traspirante Libertà di movimento Ideali per tempo libero, camminate e sport Materiale: 100% Poliestere Loghi disponibili: nero, arancio fluo, verde fluo,
-  Updated: 2026-01-13T19:44:34Z
+  Updated: 2026-02-03T14:07:18Z
   Vendor: Fivers
   Product Type: Pantaloncino tecnico
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
   - [Nero / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239764341)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Nero / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239797109)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Nero / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239829877)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Nero / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239862645)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Nero / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339239895413)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Verde fluo / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240092021)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Verde fluo / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240124789)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Verde fluo / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240157557)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Verde fluo / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240190325)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Verde fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240223093)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-01.png?v=1768291248
     Price: 9,00 € EUR
   - [Arancio fluo / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240255861)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
     Price: 9,00 € EUR
   - [Arancio fluo / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240288629)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
     Price: 9,00 € EUR
   - [Arancio fluo / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240321397)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
     Price: 9,00 € EUR
   - [Arancio fluo / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240354165)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
     Price: 9,00 € EUR
   - [Arancio fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240386933)
     Availability: Available
-    Price: 9,00 € EUR
-  - [Giallo fluo / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240419701)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Giallo fluo / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240452469)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Giallo fluo / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240485237)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Giallo fluo / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240518005)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Giallo fluo / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240550773)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Rosso / S](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240583541)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Rosso / M](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240616309)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Rosso / L](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240649077)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Rosso / XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240681845)
-    Availability: Available
-    Price: 9,00 € EUR
-  - [Rosso / 2XL](https://fivers.store/products/pantaloncini-vibe-bianchi-in-5-varianti?variant=56339240714613)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/3-01.png?v=1768290953
     Price: 9,00 € EUR
 - [Fivers Kinetic bianca e nera](https://fivers.store/products/fivers-kinetic-bianca-e-nera): La Fivers Kinetic bianca è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers nero sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:11:56Z
+  Updated: 2026-02-03T10:48:37Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -491,7 +476,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic bianca e verde fluo](https://fivers.store/products/fivers-kinetic-bianca-e-verde-fluo): La Fivers Kinetic bianca è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers verde fluo sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:12:07Z
+  Updated: 2026-02-03T10:48:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -512,7 +497,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic bianca e arancio fluo](https://fivers.store/products/fivers-kinetic-bianca-e-arancio-fluo): La Fivers Kinetic bianca è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers arancio fluo sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:00:41Z
+  Updated: 2026-02-03T10:48:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -533,7 +518,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic nera e arancio fluo](https://fivers.store/products/fivers-kinetic-nera-e-arancio-fluo): La Fivers Kinetic nera è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers arancio fluo sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:03:54Z
+  Updated: 2026-02-03T10:48:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -554,7 +539,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic nera e verde fluo](https://fivers.store/products/fivers-kinetic-nera-e-verde-fluo): La Fivers Kinetic nera è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers verde fluo sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:04:00Z
+  Updated: 2026-02-03T10:48:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -575,7 +560,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic nera e bianca](https://fivers.store/products/fivers-kinetic-nera-e-bianca): La Fivers Kinetic nera è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers bianco sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T02:03:58Z
+  Updated: 2026-02-03T10:48:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -596,7 +581,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic turchese e nera](https://fivers.store/products/fivers-kinetic-turchese-e-nera): La Fivers Kinetic turchese è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers nero sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2025-12-13T01:57:51Z
+  Updated: 2026-02-03T10:48:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -608,7 +593,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Fivers Kinetic arancio fluo e nera](https://fivers.store/products/fivers-kinetic-arancio-fluo-e-nera): La Fivers Kinetic arancio fluo è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers nero sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design Edge sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2026-01-14T12:57:31Z
+  Updated: 2026-02-03T10:48:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -622,29 +607,8 @@
   - [L](https://fivers.store/products/fivers-kinetic-arancio-fluo-e-nera?variant=56356795482485)
     Availability: Available
     Price: 9,00 € EUR
-- [Fivers Rise bianca e nera](https://fivers.store/products/fivers-rise-bianca-e-nera): La Fivers Rise è realizzata in tessuto microforato che mantiene la pelle fresca e asciutta, Il design laterale camouflage rende questa maglia perfetta per chi vuole distinguersi senza rinunciare alla funzionalità. DETTAGLI TECNICI Materiale: 50% poliestere riciclato / 50% poliestere, waffle interlock. 130g/m². Asciugatura rapida (Quick Dry) Pannelli laterali con stampa camouflage Cuciture rinforzate ed ergonomiche Logo FIVERS nero lato cuore Taglio sportivo e confortevole Ideale per allenamenti intensi Altissima resistenza ai lavaggi e al sudore TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T21:09:27Z
-  Vendor: Fivers
-  Product Type: Maglia tecnica
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/fivers-white-camo-black-man.png?v=1765530554
-  - [S](https://fivers.store/products/fivers-rise-bianca-e-nera?variant=56468884685173)
-    Availability: Not Available
-    Price: 13,50 € EUR
-  - [M](https://fivers.store/products/fivers-rise-bianca-e-nera?variant=56468884717941)
-    Availability: Not Available
-    Price: 13,50 € EUR
-  - [L](https://fivers.store/products/fivers-rise-bianca-e-nera?variant=56356968038773)
-    Availability: Available
-    Price: 13,50 € EUR
-  - [XL](https://fivers.store/products/fivers-rise-bianca-e-nera?variant=56468884750709)
-    Availability: Not Available
-    Price: 13,50 € EUR
-  - [XXL](https://fivers.store/products/fivers-rise-bianca-e-nera?variant=56468884783477)
-    Availability: Not Available
-    Price: 13,50 € EUR
 - [Fivers Rise rossa e nera](https://fivers.store/products/fivers-rise-bianca-e-nera-copia): La Fivers Rise è realizzata in tessuto microforato che mantiene la pelle fresca e asciutta, Il design laterale camouflage rende questa maglia perfetta per chi vuole distinguersi senza rinunciare alla funzionalità. DETTAGLI TECNICI Materiale: 50% poliestere riciclato / 50% poliestere, waffle interlock. 130g/m². Asciugatura rapida (Quick Dry) Pannelli laterali con stampa camouflage Cuciture rinforzate ed ergonomiche Logo FIVERS nero lato cuore Taglio sportivo e confortevole Ideale per allenamenti intensi TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm Altissima resistenza ai lavaggi e al sudore
-  Updated: 2025-12-12T21:09:24Z
+  Updated: 2026-02-03T10:48:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -665,7 +629,7 @@
     Availability: Not Available
     Price: 13,50 € EUR
 - [Fivers Rise royal e nera](https://fivers.store/products/fivers-rise-royal-e-nera-copia): La Fivers Rise è realizzata in tessuto microforato che mantiene la pelle fresca e asciutta, Il design laterale camouflage rende questa maglia perfetta per chi vuole distinguersi senza rinunciare alla funzionalità. DETTAGLI TECNICI Materiale: 50% poliestere riciclato / 50% poliestere, waffle interlock. 130g/m². Asciugatura rapida (Quick Dry) Pannelli laterali con stampa camouflage Cuciture rinforzate ed ergonomiche Logo FIVERS nero lato cuore Taglio sportivo e confortevole Ideale per allenamenti intensi Altissima resistenza ai lavaggi e al sudore TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T20:36:46Z
+  Updated: 2026-02-03T10:48:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -686,7 +650,7 @@
     Availability: Not Available
     Price: 13,50 € EUR
 - [Fivers Rise turchese e nera](https://fivers.store/products/fivers-rise-turchese-e-nera): La Fivers Rise è realizzata in tessuto microforato che mantiene la pelle fresca e asciutta, Il design laterale camouflage rende questa maglia perfetta per chi vuole distinguersi senza rinunciare alla funzionalità. DETTAGLI TECNICI Materiale: 50% poliestere riciclato / 50% poliestere, waffle interlock. 130g/m². Asciugatura rapida (Quick Dry) Pannelli laterali con stampa camouflage Cuciture rinforzate ed ergonomiche Logo FIVERS nero lato cuore Taglio sportivo e confortevole Ideale per allenamenti intensi Altissima resistenza ai lavaggi e al sudore TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T20:37:01Z
+  Updated: 2026-02-03T10:48:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -707,7 +671,7 @@
     Availability: Not Available
     Price: 13,50 € EUR
 - [Fivers Rise nera 2 varianti](https://fivers.store/products/fivers-rise-nera-2-varianti): La Fivers Rise è realizzata in tessuto microforato che mantiene la pelle fresca e asciutta, Il design laterale camouflage rende questa maglia perfetta per chi vuole distinguersi senza rinunciare alla funzionalità. DETTAGLI TECNICI Materiale: 50% poliestere riciclato / 50% poliestere, waffle interlock. 130g/m². Asciugatura rapida (Quick Dry) Pannelli laterali con stampa camouflage Cuciture rinforzate ed ergonomiche Logo FIVERS nero lato cuore Taglio sportivo e confortevole Ideale per allenamenti intensi Altissima resistenza ai lavaggi e al sudore TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T20:36:35Z
+  Updated: 2026-02-03T10:48:39Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -747,7 +711,7 @@
     Availability: Not Available
     Price: 13,50 € EUR
 - [Fivers Pixel nera](https://fivers.store/products/fivers-pixel-nera-e-bianca): La Fivers Pixel è pensata per chi vive lo sport con stile e intensità.Il tessuto tecnico pixelato leggero garantisce massima traspirazione, dona un look deciso e moderno. DETTAGLI TECNICI Materiale: 100% poliestere, 140 g/m². Tessuto leggero e traspirante Taglio atletico Asciugatura rapida (Quick-Dry) Cuciture confortevoli e resistenti Logo Fivers frontale Ottima resistenza al sudore e ai lavaggi Vestibilità regolare TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 68 cm 70 cm 72 cm 74 cm 76 cm
-  Updated: 2025-12-18T11:08:37Z
+  Updated: 2026-02-03T10:48:40Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -765,7 +729,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
 - [Fivers Pixel gialla e nera](https://fivers.store/products/fivers-pixel-gialla-e-nera): La Fivers Pixel è pensata per chi vive lo sport con stile e intensità.Il tessuto tecnico pixelato leggero garantisce massima traspirazione, dona un look deciso e moderno. DETTAGLI TECNICI Materiale: 100% poliestere, 140 g/m². Tessuto leggero e traspirante Taglio atletico Asciugatura rapida (Quick-Dry) Cuciture confortevoli e resistenti Logo Fivers frontale Ottima resistenza al sudore e ai lavaggi Vestibilità regolare TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 68 cm 70 cm 72 cm 74 cm 76 cm
-  Updated: 2025-12-12T19:37:27Z
+  Updated: 2026-02-03T13:41:10Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -774,7 +738,7 @@
     Availability: Available
     Price: 13,00 € EUR
   - [L](https://fivers.store/products/fivers-pixel-gialla-e-nera?variant=56465813111157)
-    Availability: Available
+    Availability: Not Available
     Price: 13,00 € EUR
   - [XL](https://fivers.store/products/fivers-pixel-gialla-e-nera?variant=56468859421045)
     Availability: Not Available
@@ -783,7 +747,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
 - [Fivers Active verde fluo](https://fivers.store/products/fivers-pixel-gialla-e-nera-copia): La Fivers Active è una felpa tecnica realizzata in tessuto traspirante, offre un’ottima gestione dell’umidità e mantiene la temperatura ideale anche nelle giornate più fresche. DETTAGLI TECNICI Materiale: 100% poliestere, 200 g/m². Felpa leggera con mezza zip Tessuto traspirante e ad asciugatura rapida Taglio sportivo ergonomico Polsini e bordo inferiore elasticizzati Ottima resistenza ai lavaggi e al sudore Logo Fivers lato cuore Ideale per allenamenti e uso quotidiano sportivo TAGLIA S M L XL XXL LARGHEZZA 51 cm 53 cm 56 cm 59 cm 62 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T15:16:26Z
+  Updated: 2026-02-03T10:48:40Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -806,7 +770,7 @@
     Availability: Not Available
     Price: 26,00 € EUR
 - [Fivers Active gialla](https://fivers.store/products/fivers-active-gialla): La Fivers Active è una felpa tecnica realizzata in tessuto traspirante, offre un’ottima gestione dell’umidità e mantiene la temperatura ideale anche nelle giornate più fresche. DETTAGLI TECNICI Materiale: 100% poliestere, 200 g/m². Felpa leggera con mezza zip Tessuto traspirante e ad asciugatura rapida Taglio sportivo ergonomico Polsini e bordo inferiore elasticizzati Ottima resistenza ai lavaggi e al sudore Logo Fivers lato cuore Ideale per allenamenti e uso quotidiano sportivo TAGLIA S M L XL XXL LARGHEZZA 51 cm 53 cm 56 cm 59 cm 62 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T15:15:56Z
+  Updated: 2026-02-03T10:48:40Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -829,7 +793,7 @@
     Availability: Not Available
     Price: 26,00 € EUR
 - [Fivers Active nera 5 colori](https://fivers.store/products/fivers-active-nera-5-colori): La Fivers Active è una felpa realizzata in tessuto traspirante, offre un’ottima gestione dell’umidità e mantiene la temperatura ideale anche nelle giornate più fresche. DETTAGLI TECNICI Materiale: 100% poliestere, 200 g/m². Felpa leggera con mezza zip Tessuto traspirante e ad asciugatura rapida Taglio sportivo ergonomico Polsini e bordo inferiore elasticizzati Ottima resistenza ai lavaggi e al sudore Logo Fivers lato cuore Ideale per allenamenti e uso quotidiano sportivo TAGLIA S M L XL XXL LARGHEZZA 51 cm 53 cm 56 cm 59 cm 62 cm ALTEZZA 71 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-13T12:54:56Z
+  Updated: 2026-02-03T10:48:40Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -889,7 +853,7 @@
     Availability: Not Available
     Price: 26,00 € EUR
 - [Fivers Urban bianca 3 varianti](https://fivers.store/products/fivers-active-blu-royal): La Fivers Urban è pensata per chi vuole allenarsi anche nelle giornate più fresche senza rinunciare alla comodità.Il tessuto tecnico a rapida asciugatura mantiene la pelle asciutta durante lo sforzo, mentre la vestibilità sportiva garantisce libertà totale nei movimenti. DETTAGLI TECNICI Tessuto tecnico leggero e traspirante Asciugatura rapida Comfort elevato per allenamenti intensi Vestibilità sportiva che agevola i movimenti Cuciture morbide che evitano irritazioni Materiale: 100% poliestere piquet, 150 g/m². TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T22:51:57Z
+  Updated: 2026-02-03T10:48:40Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -946,7 +910,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Urban rossa](https://fivers.store/products/fivers-urban-rossa): La Fivers Urban è pensata per chi vuole allenarsi anche nelle giornate più fresche senza rinunciare alla comodità.Il tessuto tecnico a rapida asciugatura mantiene la pelle asciutta durante lo sforzo, mentre la vestibilità sportiva garantisce libertà totale nei movimenti. DETTAGLI TECNICI Tessuto tecnico leggero e traspirante Asciugatura rapida Comfort elevato per allenamenti intensi Vestibilità sportiva che agevola i movimenti Cuciture morbide che evitano irritazioni Materiale: 100% poliestere piquet, 150 g/m². TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2026-01-13T10:35:01Z
+  Updated: 2026-02-03T10:48:41Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -968,7 +932,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Urban arancio fluo](https://fivers.store/products/fivers-urban-arancio-fluo): La Fivers Urban è pensata per chi vuole allenarsi anche nelle giornate più fresche senza rinunciare alla comodità.Il tessuto tecnico a rapida asciugatura mantiene la pelle asciutta durante lo sforzo, mentre la vestibilità sportiva garantisce libertà totale nei movimenti. DETTAGLI TECNICI Tessuto tecnico leggero e traspirante Asciugatura rapida Comfort elevato per allenamenti intensi Vestibilità sportiva che agevola i movimenti Cuciture morbide che evitano irritazioni Materiale: 100% poliestere piquet, 150 g/m². TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T23:26:43Z
+  Updated: 2026-02-03T10:48:41Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -989,7 +953,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Urban nera 3 varianti](https://fivers.store/products/fivers-urban-nera-5-varianti): La Fivers Urban è pensata per chi vuole allenarsi anche nelle giornate più fresche senza rinunciare alla comodità.Il tessuto tecnico a rapida asciugatura mantiene la pelle asciutta durante lo sforzo, mentre la vestibilità sportiva garantisce libertà totale nei movimenti. DETTAGLI TECNICI Tessuto tecnico leggero e traspirante Asciugatura rapida Comfort elevato per allenamenti intensi Vestibilità sportiva che agevola i movimenti Cuciture morbide che evitano irritazioni Materiale: 100% poliestere piquet, 150 g/m². TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T23:18:41Z
+  Updated: 2026-02-03T10:48:41Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1046,7 +1010,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Pulse bianca 3 varianti](https://fivers.store/products/fivers-pulse-bianca-5-varianti): La Canotta Fivers Pulse è pensata per garantire libertà di movimento, freschezza e massima leggerezza durante ogni attività sportiva.Realizzata in tessuto tecnico morbido e ultra-leggero, favorisce la traspirazione e mantiene la pelle asciutta anche nei momenti più intensi. Il design slim e femminile, con spalline larghe e schiena a vogatore, offre un fit ergonomico che valorizza la silhouette senza limitare i movimenti.È ideale per chi cerca un capo comodo, essenziale e perfetto per allenamenti all’aperto, corsa, tennis, palestra e tempo libero. DETTAGLI TECNICI Vestibilità aderente ma comoda Tessuto leggero e fresco Asciugatura rapida Massima libertà di movimento Perfetta per allenamenti, running, fitness e attività outdoor Materiale: 100% poliestere piqué, 140 g/m².
-  Updated: 2025-12-12T23:05:10Z
+  Updated: 2026-02-03T10:48:41Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1094,7 +1058,7 @@
     Availability: Not Available
     Price: 9,00 € EUR
 - [Fivers Pulse nera 3 varianti](https://fivers.store/products/fivers-pulse-nera-5-varianti): La Canotta Fivers Pulse è pensata per garantire libertà di movimento, freschezza e massima leggerezza durante ogni attività sportiva.Realizzata in tessuto tecnico morbido e ultra-leggero, favorisce la traspirazione e mantiene la pelle asciutta anche nei momenti più intensi. Il design slim e femminile, con spalline larghe e schiena a vogatore, offre un fit ergonomico che valorizza la silhouette senza limitare i movimenti.È ideale per chi cerca un capo comodo, essenziale e perfetto per allenamenti all’aperto, corsa, tennis, palestra e tempo libero. DETTAGLI TECNICI Vestibilità aderente ma comoda Tessuto leggero e fresco Asciugatura rapida Massima libertà di movimento Perfetta per allenamenti, running, fitness e attività outdoor Materiale: 100% poliestere piqué, 140 g/m².
-  Updated: 2025-12-12T22:55:54Z
+  Updated: 2026-02-03T10:48:42Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1142,7 +1106,7 @@
     Availability: Not Available
     Price: 9,00 € EUR
 - [Fivers Kinetic donna bianca 3 varianti](https://fivers.store/products/fivers-kinetic-donna-bianca): La Fivers Kinetic è pensata per chi vuole allenarsi con leggerezza e comfort, senza rinunciare a uno stile pulito e sportivo.Il tessuto tecnico a rapida asciugatura mantiene la pelle asciutta anche durante gli allenamenti più intensi, mentre il taglio femminile segue la linea del corpo senza stringere. Perfetta per padel, tennis, corsa, palestra e per tutte le attività ad alta intensità, è ideale sia come maglia principale sia come strato tecnico sotto felpe o giacche. DETTAGLI TECNICI Vestibilità femminile comoda e sportiva Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Cuciture morbide che evitano irritazioni Logo Fivers sul petto per un look pulito e minimale Ideale per allenamenti, running, fitness e uso quotidiano sportivo Materiale: 100% poliestere, waffle interlock, 135 g/m².
-  Updated: 2025-12-12T22:47:25Z
+  Updated: 2026-02-03T10:48:42Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1186,22 +1150,22 @@
   - [XL / Logo Bianco](https://fivers.store/products/fivers-kinetic-donna-bianca?variant=56468851163509)
     Availability: Not Available
     Price: 9,00 € EUR
-- [Fivers Grip bianchi](https://fivers.store/products/fivers-urban-rossa-copia): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Grip sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
-  Updated: 2025-12-19T03:42:39Z
+- [Fivers Control bianchi](https://fivers.store/products/fivers-urban-rossa-copia): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Control sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
+  Updated: 2026-02-03T13:11:38Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/1-b676abbc_1.png?v=1763483976
   Price: 6,00 € EUR
-- [Fivers Grip neri](https://fivers.store/products/fivers-grip-neri): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Grip sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
-  Updated: 2026-01-19T16:59:11Z
+- [Fivers Control neri](https://fivers.store/products/fivers-grip-neri): Massima aderenza, comfort e stabilità in ogni movimento. I Fivers Control sono calzini sportivi progettati per offrire un controllo totale grazie alla suola con inserti in silicone antiscivolo, perfetti per allenamenti intensi, partite o sessioni in palestra. Grip antiscivolo sulla pianta per maggiore trazione Ammortizzazione mirata per ridurre impatti e stress articolare Tessuto traspirante per mantenere il piede asciutto Vestibilità compressiva per una tenuta sicura Ideali per: calcio, palestra, functional training, basket, padel Taglia unica. Composizione: 95% Poliammide, 5% Spandex
+  Updated: 2026-02-03T10:48:42Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/2-b676abbc_1.png?v=1763484418
   Price: 6,00 € EUR
 - [Fivers Speed bianca 3 varianti](https://fivers.store/products/fivers-speed-bianca-5-varianti): La maglia tecnica Fivers Speed è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-20T11:45:18Z
+  Updated: 2026-02-03T10:48:42Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1267,7 +1231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/GHFFHGGHDGD.png?v=1765472501
     Price: 12,00 € EUR
 - [Fivers Drop nera](https://fivers.store/products/fivers-drop-nera): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Stampa Fivers in bianco, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
-  Updated: 2026-01-23T15:03:43Z
+  Updated: 2026-02-03T10:48:43Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1289,7 +1253,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/IOJIOIK_1.png?v=1765471907
     Price: 23,00 € EUR
 - [Fivers Drop bianca](https://fivers.store/products/fivers-drop-bianca): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Stampa Fivers in nero, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
-  Updated: 2025-12-18T11:08:37Z
+  Updated: 2026-02-03T10:48:43Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1311,7 +1275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/p_1067_01_1_1_1.png?v=1765471939
     Price: 23,00 € EUR
 - [Fivers Pixel blu royal](https://fivers.store/products/fivers-pixel-blu-royal): La Fivers Pixel è pensata per chi vive lo sport con stile e intensità.Il tessuto tecnico pixelato leggero garantisce massima traspirazione, dona un look deciso e moderno. DETTAGLI TECNICI Materiale: 100% poliestere, 140 g/m². Tessuto leggero e traspirante Taglio atletico Asciugatura rapida (Quick-Dry) Cuciture confortevoli e resistenti Logo Fivers frontale Ottima resistenza al sudore e ai lavaggi Vestibilità regolare TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 68 cm 70 cm 72 cm 74 cm 76 cm
-  Updated: 2026-01-12T10:03:55Z
+  Updated: 2026-02-03T10:48:43Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1329,7 +1293,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
 - [Fivers Freedom nera 3 varianti](https://fivers.store/products/fivers-freedom-nera-5-varianti): La Fivers Freedom è un capo pensato per lo sport — leggero, comodo e perfetto come pantaloncino o “skort” da donna. Ideale per tennis, padel, attività outdoor e tempo libero. DETTAGLI TECNICI Modello: skort / pantaloncino corto sportivo. Vita elastica: cintura elastica che assicura comfort e libertà di movimento. Vestibilità comoda e piacevole al tatto: realizzato in tessuto morbido e confortevole, adatto anche ad uso prolungato. Materiale: 95% cotone, 5% elastan — mix ideale per comfort e flessibilità. Peso/Grammatura: 220 g/m² — offre equilibrio tra leggerezza e robustezza. Versatilità: perfetto per sport con racchetta, palestra, allenamenti, tempo libero o anche streetwear.
-  Updated: 2025-12-12T22:53:50Z
+  Updated: 2026-02-03T10:48:43Z
   Vendor: Fivers
   Product Type: 
   Availability: Available
@@ -1377,7 +1341,7 @@
     Availability: Not Available
     Price: 14,00 € EUR
 - [Fivers Aura nera 3 varianti](https://fivers.store/products/fivers-aura-nera-5-varianti): Fivers Aura è un pantaloncino sportivo da donna pensato per offrire comfort, leggerezza e libertà di movimento durante allenamenti, attività outdoor o giornate calde. DETTAGLI TECNICI Taglio: pantaloncino corto con vita elastica, pensato per garantire massima libertà di movimento Tessuto: 100% cotone, jersey singolo — morbido, naturale e traspirante. Grammatura: 210 g/m² — giusto equilibrio tra leggerezza e robustezza. Vestibilità: forma aderente e confortevole; ideale per sport come corsa, fitness, allenamenti o uso casual.
-  Updated: 2025-12-12T22:53:50Z
+  Updated: 2026-02-03T10:48:43Z
   Vendor: Fivers
   Product Type: 
   Availability: Available
@@ -1419,7 +1383,7 @@
     Availability: Not Available
     Price: 11,00 € EUR
 - [Fivers Tech Rosa confetto](https://fivers.store/products/fivers-tech-rosa-confetto): Fivers Tech è una felpa tecnica da donna, ideale per allenamenti outdoor, attività sportive o uso quotidiano, perfetta per chi cerca comfort, mobilità e stile sportivo. DETTAGLI TECNICI Tipo: felpa tecnica a manica lunga raglan, tuta per donna. Tessuto: 94% poliestere e 6% elastan, 200 g/m² — leggero, tecnico e leggermente elasticizzato. Interno: felpato/“grattato” (cioè interno morbido), per comfort e calore. Zip: mezza zip invertita, tinta su tinta, con dettaglio riflettente — utile per visibilità e praticità. Maniche/Polsi: polsini con apertura per pollice — ottimo per tenere le maniche ferme durante l’attività fisica. Vestibilità: retro leggermente più lungo del davanti, per un taglio moderno e comodo.
-  Updated: 2025-12-12T15:04:30Z
+  Updated: 2026-02-03T10:48:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1439,7 +1403,7 @@
     Availability: Not Available
     Price: 16,00 € EUR
 - [Fivers Tech Giallo fluo](https://fivers.store/products/fivers-tech-rosa-confetto-copia): Fivers Tech è una felpa tecnica da donna, ideale per allenamenti outdoor, attività sportive o uso quotidiano, perfetta per chi cerca comfort, mobilità e stile sportivo. DETTAGLI TECNICI Tipo: felpa tecnica a manica lunga raglan, tuta per donna. Tessuto: 94% poliestere e 6% elastan, 200 g/m² — leggero, tecnico e leggermente elasticizzato. Interno: felpato/“grattato” (cioè interno morbido), per comfort e calore. Zip: mezza zip invertita, tinta su tinta, con dettaglio riflettente — utile per visibilità e praticità. Maniche/Polsi: polsini con apertura per pollice — ottimo per tenere le maniche ferme durante l’attività fisica. Vestibilità: retro leggermente più lungo del davanti, per un taglio moderno e comodo.
-  Updated: 2025-12-12T05:02:13Z
+  Updated: 2026-02-03T10:48:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1453,7 +1417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/p_1114_221_1_1_1_46f0946a-90e3-436f-a499-58279dc9c1e0.png?v=1765472239
     Price: 16,00 € EUR
 - [Fivers Edge bianca logo grande 3 varianti](https://fivers.store/products/fivers-edge-bianca-logo-grande-3-varianti): La maglia tecnica Fivers Edge è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti.. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare Logo Fivers al centro nei colori arancio fluo, verde fluo e nero TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T11:08:37Z
+  Updated: 2026-02-03T10:48:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1504,7 +1468,7 @@
     Availability: Available
     Price: 12,00 € EUR
 - [Fivers Edge nera logo grande 3 varianti](https://fivers.store/products/fivers-edge-nera-logo-grande-3-varianti-copia): La maglia tecnica Fivers Edge è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare Logo Fivers al centro nei colori arancio fluo, verde fluo e bianco TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T05:06:34Z
+  Updated: 2026-02-03T10:48:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1573,7 +1537,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Speed nera 3 varianti](https://fivers.store/products/fivers-speed-nera-3-varianti): La maglia tecnica Fivers Speed è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T04:56:37Z
+  Updated: 2026-02-03T10:48:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1657,7 +1621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0936/0139/9157/files/vdssdvdv.png?v=1765471862
     Price: 12,00 € EUR
 - [Fivers Circuit 1](https://fivers.store/products/fivers-circuit-1): La maglia tecnica Fivers Circuit nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-19T03:04:39Z
+  Updated: 2026-02-03T10:48:44Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1684,7 +1648,7 @@
     Availability: Available
     Price: 12,00 € EUR
 - [Fivers Circuit 2](https://fivers.store/products/fivers-circuit-2): La maglia tecnica Fivers Circuit nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti. DETTAGLI TECNICI Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-12T04:44:22Z
+  Updated: 2026-02-03T10:48:45Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1711,7 +1675,7 @@
     Availability: Available
     Price: 12,00 € EUR
 - [Fivers Origin nera 3 colori](https://fivers.store/products/fivers-origin): La maglia tecnica Fivers Origin nera è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e scritta avanti. DETTAGLI TECNICI Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2026-01-14T20:30:26Z
+  Updated: 2026-02-03T10:48:45Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1780,7 +1744,7 @@
     Availability: Available
     Price: 12,00 € EUR
 - [Fivers Drop bianca donna](https://fivers.store/products/fivers-drop-bianca-donna): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Stampa Fivers in nero, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 47 cm 50 cm 53 cm 56 cm 59 cm ALTEZZA 63 cm 65 cm 67 cm 69 cm 71 cm
-  Updated: 2025-12-13T02:37:03Z
+  Updated: 2026-02-03T10:48:45Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1798,7 +1762,7 @@
     Availability: Not Available
     Price: 23,00 € EUR
 - [Fivers Everyday](https://fivers.store/products/fivers-everyday): La Fivers Everyday è una maglia pensata per l’uso quotidiano. E' possibile averla sia con il logo stampato sia con quello ricamato. Realizzata in cotone morbido e traspirante, è ideale da indossare ogni giorno: da sola, sotto una felpa o abbinata a un look casual. Dettagli prodotto Tessuto: 100% cotone pettinato, single jersey, 180 gr/m². Vestibilità: regular fit Collo: girocollo Logo: ricamo FIVERS bianco o stampato sul petto Stile: minimal Ideale per: uso quotidiano, tempo libero, lifestyle TAGLIA 10 ANNI 12 ANNI S M L XL XXL LARGHEZZA 43 cm 46 cm 49 cm 52 cm 55 cm 58 cm 62 cm ALTEZZA 55 cm 59 cm 69 cm 71 cm 73 cm 75 cm 77 cm
-  Updated: 2025-12-17T23:11:18Z
+  Updated: 2026-02-03T10:48:45Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1846,7 +1810,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
 - [Fivers Pixel rossa](https://fivers.store/products/fivers-pixel-rossa): La Fivers Pixel è pensata per chi vive lo sport con stile e intensità.Il tessuto tecnico pixelato leggero garantisce massima traspirazione, dona un look deciso e moderno. DETTAGLI TECNICI Materiale: 100% poliestere, 140 g/m². Tessuto leggero e traspirante Taglio atletico Asciugatura rapida (Quick-Dry) Cuciture confortevoli e resistenti Logo Fivers frontale Ottima resistenza al sudore e ai lavaggi Vestibilità regolare TAGLIA S M L XL XXL LARGHEZZA 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 68 cm 70 cm 72 cm 74 cm 76 cm
-  Updated: 2026-01-12T09:58:27Z
+  Updated: 2026-02-03T10:48:45Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1864,7 +1828,7 @@
     Availability: Not Available
     Price: 13,00 € EUR
 - [Fivers Edge gialla](https://fivers.store/products/fivers-edge-gialla): La maglia tecnica Fivers Edge arancio fluo è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti bianco e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T01:26:52Z
+  Updated: 2026-02-03T10:48:46Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1879,7 +1843,7 @@
     Availability: Not Available
     Price: 10,00 € EUR
 - [Fivers Edge gialla fluo](https://fivers.store/products/fivers-edge-gialla-fluo): La maglia tecnica Fivers Edge arancio fluo è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers avanti bianco e una stampa dietro dello stesso colore. Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-18T01:30:39Z
+  Updated: 2026-02-03T10:48:46Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1894,7 +1858,7 @@
     Availability: Not Available
     Price: 10,00 € EUR
 - [Fivers Drent nera con ricamo](https://fivers.store/products/fivers-drop-nera-con-ricamo): Una felpa dallo stile pulito, sportivo e moderno, pensata per chi vuole unire comfort e identità. Una felpa premium con cappuccio regolabile e tasca a marsupio, rinomata per la sua vestibilità comoda e il tessuto resistente. Caratteristiche principali Tessuto: 50% cotone / 50% poliestere,interno felpato resistente e morbido Peso: 280 g/m² Cappuccio foderato con cordini tono su tono Tasca a marsupio frontale Polsini e orlo inferiore elasticizzati in costina Vestibilità comoda e unisex Logo Fivers ricamato in bianco, pulita e professionale TAGLIA S M L XL XXL LARGHEZZA 54 cm 57 cm 60 cm 63 cm 66 cm ALTEZZA 67 cm 69 cm 71 cm 73 cm 75 cm
-  Updated: 2026-01-23T15:03:59Z
+  Updated: 2026-02-03T13:41:16Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1906,13 +1870,13 @@
     Availability: Available
     Price: 23,00 € EUR
   - [L](https://fivers.store/products/fivers-drop-nera-con-ricamo?variant=56486674366837)
-    Availability: Available
+    Availability: Not Available
     Price: 23,00 € EUR
   - [XL](https://fivers.store/products/fivers-drop-nera-con-ricamo?variant=56486674399605)
     Availability: Available
     Price: 23,00 € EUR
 - [Fivers Snake due colori](https://fivers.store/products/fivers-snake-due-colori): La Fivers Snake è una maglia pensata per l’uso quotidiano. Realizzata in cotone morbido e traspirante, è ideale da indossare ogni giorno: da sola, sotto una felpa o abbinata a un look casual. Dettagli prodotto Tessuto: 100% cotone pettinato, single jersey, 180 gr/m². Vestibilità: regular fit Collo: girocollo Logo: ricamo FIVERS bianco stampato sul petto Stile: minimal Ideale per: uso quotidiano, tempo libero, lifestyle TAGLIA 10 ANNI 12 ANNI S M L XL XXL LARGHEZZA 43 cm 46 cm 49 cm 52 cm 55 cm 58 cm 62 cm ALTEZZA 55 cm 59 cm 69 cm 71 cm 73 cm 75 cm 77 cm
-  Updated: 2025-12-18T20:12:32Z
+  Updated: 2026-02-03T10:48:46Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1960,7 +1924,7 @@
     Availability: Not Available
     Price: 12,00 € EUR
 - [Fivers Snake sport](https://fivers.store/products/fivers-snake-sport): La maglia tecnica Fivers Snake sport è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e di un serpente stilizzato in verde fluo Caratteristiche tecniche: Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2025-12-19T02:08:54Z
+  Updated: 2026-02-03T10:48:46Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -1987,7 +1951,7 @@
     Availability: Available
     Price: 12,00 € EUR
 - [Fivers Kinetic blu royal](https://fivers.store/products/fivers-kinetic-blu-royal): La Fivers Kinetic blu royal è realizzata in tessuto tecnico morbido e traspirante, mantiene il corpo fresco anche nelle sessioni più intense.Il logo Fivers verde fluo sul petto e il design esclusivo dello stesso colore sul retro rendono la maglia unica e riconoscibile in campo, in palestra o nel tempo libero. DETTAGLI TECNICI Materiale: 100% poliestere tecnico, waffle interlock, 135 g/m². Tessuto leggero e traspirante Asciugatura rapida (quick-dry) Taglio ergonomico per massima mobilità Stampa resistente al sudore e ai lavaggi Logo Fivers frontale Design grafica sul retro Perfetta per sport ad alta intensità TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 69 cm 71 cm 72 cm 73 cm 74 cm
-  Updated: 2026-01-08T01:25:01Z
+  Updated: 2026-02-03T10:48:47Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -2008,7 +1972,7 @@
     Availability: Not Available
     Price: 9,00 € EUR
 - [Fivers Origin bianca 3 colori](https://fivers.store/products/fivers-origin-bianca-3-colori): La maglia tecnica Fivers Origin bianca è realizzata in tessuto tecnico leggero e personalizzata con stampa del logo fivers e scritta avanti. DETTAGLI TECNICI Tessuto: 100% poliestere interlock tecnico liscio Tecnologia CONTROL DRY (traspirante e anti-sudore) Peso leggero: 135 g/m² Girocollo con copri-cuciture Ventilazione ottimale durante l’attività fisica Stampa resistente Etichetta Fivers applicata Vestibilità regolare TAGLIA 12 ANNI 16 ANNI S M L XL XXL LARGHEZZA 42 cm 46 cm 48 cm 51 cm 54 cm 57 cm 60 cm ALTEZZA 60 cm 65 cm 70 cm 72 cm 73 cm 74 cm 75 cm
-  Updated: 2026-01-14T20:38:04Z
+  Updated: 2026-02-03T10:48:47Z
   Vendor: Fivers
   Product Type: Maglia tecnica
   Availability: Available
@@ -2080,43 +2044,43 @@
 ## Collections
 
 - [](https://fivers.store/collections/frontpage)
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 6
 - [T-Shirt](https://fivers.store/collections/edge-t-shirt): Esplora la linea di T-Shirt tecniche FIVERS: leggere, traspiranti e progettate per garantire massima libertà di movimento durante ogni allenamento.Materiali resistenti, asciugatura rapida e design sportivi unici rendono queste maglie perfette per padel, tennis, running e attività ad alta intensità.Scegli il tuo modello preferito e porta le tue performance al livello successivo.
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 43
 - [Pantaloncini](https://fivers.store/collections/pantaloncini)
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 3
 - [Felpe](https://fivers.store/collections/felpe)
-  Updated: 2026-01-16T14:43:08Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 13
 - [T-SHIRT UOMO](https://fivers.store/collections/uomo)
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 43
 - [T-SHIRT DONNA](https://fivers.store/collections/donna)
-  Updated: 2025-12-12T11:05:01Z
+  Updated: 2026-02-03T10:48:35Z
   Total Products: 3
 - [TUTTI I PRODOTTI](https://fivers.store/collections/tutti-i-prodotti)
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 66
 - [ACCESSORI](https://fivers.store/collections/accessori)
-  Updated: 2026-01-20T12:48:34Z
+  Updated: 2026-02-03T10:48:35Z
   Total Products: 2
 - [PANTALONCINI UOMO](https://fivers.store/collections/pantaloncini-uomo)
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 3
 - [PANTALONCINI DONNA](https://fivers.store/collections/pantaloncini-donna)
-  Updated: 2025-12-12T10:53:37Z
+  Updated: 2026-02-03T10:48:35Z
   Total Products: 2
 - [FELPA UOMO](https://fivers.store/collections/felpa-uomo)
-  Updated: 2026-01-16T14:43:08Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 10
 - [FELPA DONNA](https://fivers.store/collections/felpa-donna)
-  Updated: 2025-12-12T14:29:20Z
+  Updated: 2026-02-03T10:48:35Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://fivers.store/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-01-30T12:52:58Z
+  Updated: 2026-02-04T13:54:26Z
   Total Products: 66
 
 ## Store Pages
