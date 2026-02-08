@@ -11,7 +11,7 @@ All content emphasizes systems, feedback, and long-term mental development over 
 - Timezone: Asia/Nicosia
 - Created At: 2025-06-21T05:04:03Z
 - Contact Email: evgenykanunnikov@gmail.com
-- Updated At: 2026-02-01T00:00:38.395Z
+- Updated At: 2026-02-08T00:00:40.700Z
 
 This site focuses on structured mental training for athletes.
 Content is designed to explain how mentality functions under pressure and how mental systems are trained over time.
@@ -122,6 +122,15 @@ Motivational content is intentionally avoided.
     Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
   - [Athlete Mentality Hinges on Structured Confidence](https://foundationofmentality.com/blogs/blog-posts/athlete-mentality-hinges-on-structured-confidence): Athlete Mentality Hinges on Structured Confidence
     Updated: 2026-01-31T00:08:42Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Consistent Success Demands Rigorous Mental Training](https://foundationofmentality.com/blogs/blog-posts/consistent-success-demands-rigorous-mental-training): Consistent Success Demands Rigorous Mental Training
+    Updated: 2026-02-02T01:30:32Z
+    Author: Evgeny Kanunnikov - Athlete Mentality Coach
+  - [Performance Tools Define Structured Confidence Under Pressure](https://foundationofmentality.com/blogs/blog-posts/performance-tools-define-structured-confidence-under-pressure): Performance Tools Define Structured Confidence Under Pressure
+    Updated: 2026-02-04T00:08:59Z
+    Author: Evgeny Kanunnikov - Your Athlete Mentality Coach
+  - [Unwavering Pressure Crushes Shaky Athlete Systems](https://foundationofmentality.com/blogs/blog-posts/unwavering-pressure-crushes-shaky-athlete-systems): Unwavering Pressure Crushes Shaky Athlete Systems
+    Updated: 2026-02-07T00:06:22Z
     Author: Evgeny Kanunnikov - Athlete Mentality Coach
 
 ## Store Pages
