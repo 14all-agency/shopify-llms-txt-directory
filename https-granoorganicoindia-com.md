@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-21T17:12:23Z
 - Contact Email: granoorganicopvtltd@gmail.com
-- Updated At: 2026-01-30T00:00:30.782Z
+- Updated At: 2026-02-08T00:00:34.627Z
 
 ## Products
 
-- [Buy Organic Pearl Millet (Bajra) | Chemical & Pesticide Free | Grano Organico](https://granoorganicoindia.com/products/organic-pearl-millet-bajra): Shop premium quality Pearl Millet (Bajra) online. 100% organic, chemical-free, and pesticide-free. Gluten-free superfood for weight loss and diabetes. Order now from Grano Organico!
-  Updated: 2026-01-24T06:43:13Z
+- [Organic Pearl Millet (Bajra) | Unpolished Winter Superfood](https://granoorganicoindia.com/products/organic-pearl-millet-bajra): Buy 100% Organic Pearl Millet (Bajra). Unpolished, gluten-free & high in iron. A traditional winter superfood for heart health. Chemical-free farming.
+  Updated: 2026-02-01T19:53:25Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -24,8 +24,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/7-250g.webp?v=1769236600
     Price: ₹63.00 INR
-- [Buy Organic Proso Millet (Chena) | Chemical & Pesticide Free | Grano Organico](https://granoorganicoindia.com/products/organic-proso-millet): Shop premium Proso Millet (Chena/Barri) online. 100% organic, chemical-free, and unpolished. High-protein, gluten-free superfood for a healthy nervous system. Order now!
-  Updated: 2026-01-24T06:43:13Z
+- [Proso Millet (Chena/Barri) | High Protein Organic Grain](https://granoorganicoindia.com/products/organic-proso-millet): Premium Organic Proso Millet. Known as Chena or Barri, this unpolished grain is rich in protein & nervous system support. 100% Pesticide-free.
+  Updated: 2026-02-01T19:53:15Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -38,8 +38,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/6-250g_54ef31d4-6f80-4865-ba41-bf50d6e2a7b0.webp?v=1769236074
     Price: ₹63.00 INR
-- [Buy Organic Brown Top Millet (Hari Kangni) | High Fiber & Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-brown-top-millet): Shop premium Brown Top Millet (Hari Kangni) online. 100% organic, chemical-free, and unpolished. Highest fiber content for gut health and detox. Order now from Grano Organico!
-  Updated: 2026-01-24T18:11:59Z
+- [Brown Top Millet (Hari Kangni) | Rare Organic Superfood](https://granoorganicoindia.com/products/organic-brown-top-millet): Shop the rarest Organic Brown Top Millet (Hari Kangni). High-fiber, detox-friendly & naturally gluten-free. Sourced from sustainable organic farms.
+  Updated: 2026-02-01T19:53:02Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -52,8 +52,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/6-250g_44e1d2cb-218f-4758-80e8-5067760066fe.webp?v=1769235158
     Price: ₹99.75 INR
-- [Buy Organic Barnyard Millet (Sanwa/Samak) | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-barnyard-millet): Shop premium Barnyard Millet (Sanwa/Jhangora) online. 100% organic, chemical-free, and unpolished. Perfect for fasting (vrat), weight loss, and diabetes. Order now from Grano Organico!
-  Updated: 2026-01-24T06:43:14Z
+- [Barnyard Millet (Sanwa) | Low GI Fasting Food](https://granoorganicoindia.com/products/organic-barnyard-millet): Organic Barnyard Millet (Sanwa/Jhangora). A low-GI grain perfect for fasting (Vrat) and weight loss. 100% Natural, clean, and unpolished.
+  Updated: 2026-02-01T19:52:53Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -66,8 +66,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/6-250g_2a0c317e-7efc-4e15-8a02-258f5d5481d5.webp?v=1769232910
     Price: ₹84.00 INR
-- [Buy Organic Foxtail Millet (Kangni/Thinai) | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-foxtail-millet): Shop premium Foxtail Millet (Kangni/Thinai) online. 100% organic, chemical-free, and unpolished. Boosts immunity and nervous system health. Gluten-free. Order now from Grano Organico!
-  Updated: 2026-01-24T11:03:44Z
+- [Foxtail Millet (Kangni) | Diabetic Friendly Organic Grain](https://granoorganicoindia.com/products/organic-foxtail-millet): Organic Foxtail Millet (Kangni/Thinai). Excellent for blood sugar control. Unpolished, chemical-free & rich in Vitamin B12. Farm-to-packet purity.
+  Updated: 2026-02-01T19:52:44Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -80,8 +80,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/1-250g.webp?v=1769232049
     Price: ₹78.75 INR
-- [Buy Organic Kodo Millet (Varagu/Kodra) | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-kodo-millet): Shop premium Kodo Millet (Varagu/Kodra) online. 100% organic, chemical-free, and unpolished. Best for diabetes management and blood purification. Order now from Grano Organico!
-  Updated: 2026-01-24T06:43:13Z
+- [Kodo Millet (Kodra) | Gluten-Free Rice Substitute](https://granoorganicoindia.com/products/organic-kodo-millet): Organic Kodo Millet (Varagu/Kodra). The perfect gluten-free alternative to rice. High antioxidant content, easy to digest & 100% chemical-free.
+  Updated: 2026-02-01T19:52:37Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -94,8 +94,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/4-250g.webp?v=1769233665
     Price: ₹78.75 INR
-- [Buy Organic Little Millet (Kutki/Samai) | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-little-millet): Shop premium Little Millet (Kutki/Samai) online. 100% organic, chemical-free, and unpolished. Ideal for PCOD, diabetes, and weight loss. Order now from Grano Organico!
-  Updated: 2026-01-25T00:27:29Z
+- [Little Millet (Kutki/Samai) | Organic & Unpolished](https://granoorganicoindia.com/products/organic-little-millet): Premium Little Millet (Kutki). A perfect millet for distinct rice dishes. Rich in magnesium & phosphorus. Unpolished and strictly pesticide-free.
+  Updated: 2026-02-01T19:51:01Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -108,8 +108,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/6-250g_a477af2d-dae6-4eba-97a6-4be1b897b6d0.webp?v=1769232170
     Price: ₹78.75 INR
-- [Buy Organic Multi-Millet Mix (500g) | 3-Grain Superfood Blend | Grano Organico](https://granoorganicoindia.com/products/organic-multi-millet-mix-superfood-blend): Shop premium Mixed Millets online. Available in two 3-grain blends featuring Kodo, Foxtail, Barnyard, Little, and Pearl Millets. 100% chemical-free and gluten-free. Order now!
-  Updated: 2026-01-25T00:14:52Z
+- [Multi-Millet Mix Superfood | 3-Grain Gluten-Free Blend](https://granoorganicoindia.com/products/organic-multi-millet-mix-superfood-blend): A powerful blend of Kodo, Foxtail & Little Millets. This Organic Multi-Millet Mix is the ultimate gluten-free superfood for daily nutrition.
+  Updated: 2026-02-01T19:52:19Z
   Vendor: Grano Organico Private Limited
   Product Type: Millets
   Availability: Available
@@ -120,22 +120,22 @@
   - [Kodo Millet (200g) + Foxtail Millet (150g) + Barnyard Millet (150g)](https://granoorganicoindia.com/products/organic-multi-millet-mix-superfood-blend?variant=42368295338055)
     Availability: Available
     Price: ₹157.50 INR
-- [Buy Rajasthan Special Jeera (Cumin Seeds) | High Aroma | Grano Organico](https://granoorganicoindia.com/products/organic-jeera-cumin-seeds): Shop premium Rajasthani Jeera (Cumin Seeds) online. Sourced from Rajasthan for bold aroma and high oil content. Chemical-free, cleaned, and unpolished. Order now!
-  Updated: 2026-01-24T06:43:14Z
+- [Buy Rajasthan Special Jeera(Cumin Seeds) | High Aroma | Grano Organico](https://granoorganicoindia.com/products/organic-jeera-cumin-seeds): Shop premium Rajasthani Jeera (Cumin Seeds) online. Sourced from Rajasthan for bold aroma and high oil content. Chemical-free, cleaned, and unpolished.
+  Updated: 2026-02-01T19:50:44Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_dda128a6-d84c-4556-b923-bc389d8808f9.webp?v=1769205450
   Price: ₹294.00 INR
-- [Buy Lakadong Haldi Powder (Turmeric) | High Curcumin | Grano Organico](https://granoorganicoindia.com/products/organic-lakadong-haldi-powder): Shop premium Lakadong Haldi Powder online. High Curcumin content, deep golden color, and 100% chemical-free. No artificial colors or fillers. Order now!
-  Updated: 2026-01-24T10:18:44Z
+- [Lakadong Haldi Powder (Turmeric) | Immunity Booster | Grano Organico](https://granoorganicoindia.com/products/organic-lakadong-haldi-powder): Shop premium Lakadong Haldi Powder online. High Curcumin content, deep golden color, and 100% chemical-free. No artificial colors or fillers.
+  Updated: 2026-02-01T19:51:10Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_a8053bec-e71b-4b56-a464-227faed434ba.webp?v=1769206356
   Price: ₹138.60 INR
-- [Buy Rajasthani Dhaniya Powder (Coriander) | Cold Ground | Grano Organico](https://granoorganicoindia.com/products/rajasthani-dhaniya-powder): Shop premium Rajasthani Dhaniya Powder online. Cold-ground from fresh green seeds to retain high aroma. 100% Chemical-free with no fillers or stems. Order now!
-  Updated: 2026-01-24T10:27:23Z
+- [Rajasthani Dhaniya Powder (Coriander) | Cold Ground | Grano Organico](https://granoorganicoindia.com/products/rajasthani-dhaniya-powder): Farm-fresh Rajasthani Coriander Powder. Cold-ground to retain natural oils and aroma. 100% Organic, no fillers, no artificial colors.
+  Updated: 2026-02-01T19:51:21Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
@@ -148,8 +148,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_38ad1c2e-2168-4a05-bcb2-0348749d8797.webp?v=1769206886
     Price: ₹420.00 INR
-- [Buy Mathania Lal Mirch Powder | Authentic Rajasthani Red Chili | Grano Organico](https://granoorganicoindia.com/products/mathania-lal-mirchi-red-chili-powder): Shop premium Mathania Red Chili Powder online. Famous for its brilliant red color and authentic Rajasthani flavor. 100% Natural and chemical-free. No added dyes.
-  Updated: 2026-01-24T06:43:14Z
+- [Mathania Lal Mirch Powder | Authentic Rajasthani Red Chili | Grano Organico](https://granoorganicoindia.com/products/mathania-lal-mirchi-red-chili-powder): Legendary Mathania Red Chili Powder. Vibrant red color with medium heat. Sourced directly from Jodhpur farms. 100% Stemless & Pure.
+  Updated: 2026-02-01T19:50:33Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
@@ -162,85 +162,99 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/2_95c25a0e-d83b-45f9-a9ea-7a919a359d6e.webp?v=1769205670
     Price: ₹210.00 INR
-- [Buy Organic Red Rajma (Kidney Beans) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-red-rajma): Shop premium Red Rajma (Kidney Beans) online. 100% organic, chemical-free, and unpolished. Perfect for Rajma Chawal. High protein and gluten-free. Order now!
-  Updated: 2026-01-24T09:24:58Z
+- [Organic Red Rajma (Kidney Beans) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-red-rajma): Premium Organic Red Rajma. Unpolished and chemical-free. Cooks soft and creamy. High protein content straight from the farm to your packet.
+  Updated: 2026-02-01T19:51:49Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_00503680-70b9-4d20-8d95-0654039eab25.webp?v=1769203464
   Price: ₹163.80 INR
-- [Buy Organic Kabuli Chana (White Chickpeas) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-kabuli-chana): Shop premium Kabuli Chana (White Chickpeas) online. 100% organic, chemical-free, and unpolished. Best for Chole Bhature and Hummus. High protein. Order now!
-  Updated: 2026-01-24T09:16:00Z
+- [Organic Kabuli Chana (White Chickpeas) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-kabuli-chana): Extra-bold Organic Kabuli Chana. Unpolished and strictly non-GMO. Rich in fiber and plant protein. Perfect for hummus and curries.
+  Updated: 2026-02-01T19:53:52Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/2_b2995be7-39d5-41cc-9e5f-228738ca26ab.webp?v=1769203045
   Price: ₹142.80 INR
-- [Buy Organic Toor Dal (Arhar) | Unpolished & Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-toor-dal-arhar): Shop premium Toor Dal (Arhar Dal) online. 100% organic, chemical-free, and unpolished. High protein daily staple. Farm to packet freshness. Order now!
-  Updated: 2026-01-24T06:43:14Z
+- [Organic Toor Dal (Arhar) | Unpolished & Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-toor-dal-arhar): 100% Unpolished Toor Dal (Arhar). Free from oil polish, water polish & artificial colors. Natural farm taste and high digestibility.
+  Updated: 2026-02-01T19:14:38Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_97fbccc3-484a-49e0-b144-876dee0da935.webp?v=1769202415
   Price: ₹151.20 INR
-- [Buy Organic Chana Dal (Split Chickpeas) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-chana-dal): Shop premium Chana Dal (Split Bengal Gram) online. 100% organic, chemical-free, and unpolished. Low GI superfood for diabetics. High protein. Order now!
-  Updated: 2026-01-24T08:58:21Z
+- [Organic Chana Dal (Split Chickpeas) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-chana-dal): Pure Organic Chana Dal. Sourced from chemical-free farms. Unpolished to retain vital nutrients and authentic flavor. Best for daily protein.
+  Updated: 2026-02-01T19:14:34Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/5_d26198b3-5923-43a0-a8b6-5e1616ed78a0.webp?v=1769201859
   Price: ₹96.60 INR
-- [Buy Organic Urad Dal Chilka (Split Black Gram) | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-urad-dal): Shop premium Urad Dal Chilka (Split Black Gram) online. 100% organic, chemical-free, and unpolished. High fiber and protein. Rich earthy taste. Order now!
-  Updated: 2026-01-24T08:47:55Z
+- [Organic Urad Dal Chilka | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-urad-dal): Traditional Split Urad Dal Chilka. 100% Organic and unpolished. Essential for a balanced diet, rich in iron and protein.
+  Updated: 2026-02-01T19:14:27Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/9_a549cff6-993c-40d8-9dea-991e6cf61a23.webp?v=1769201265
   Price: ₹134.40 INR
-- [Buy Organic Moong Mogar Dal (Yellow Split) | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-moong-mogar-dal): Shop premium Moong Mogar Dal (Yellow Lentil) online. 100% organic, chemical-free, and unpolished. Easiest to digest. Perfect for Khichdi. Order now!
-  Updated: 2026-01-24T06:43:14Z
+- [Organic Moong Mogar Dal | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-moong-mogar-dal): Light and healthy Moong Mogar Dal. 100% Organic, unpolished & skinless. The most easily digestible protein for kids and elders.
+  Updated: 2026-02-01T19:14:22Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/4_cbf84f08-cc3f-4ed6-a724-fa21f4d968f2.webp?v=1769200566
   Price: ₹126.00 INR
-- [Buy Organic Green Moong Dal (Green Gram Split) | For Sprouts | Grano Organico](https://granoorganicoindia.com/products/organic-green-moong-dal): Shop premium Green Moong Dal (Green Gram Split) online. 100% organic, chemical-free, and unpolished. Best for making healthy sprouts. High protein superfood. Order now!
-  Updated: 2026-01-24T06:43:14Z
+- [Organic Green Moong Dal | High Fiber Pulse | Grano Organico](https://granoorganicoindia.com/products/organic-green-moong-dal): Split Green Moong with Chilka. High fiber, unpolished & cooling for the body. Grown without synthetic pesticides or fertilizers.
+  Updated: 2026-02-01T19:39:02Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/4_f9e0d99e-90bb-45f1-aad0-b32cb3ba4211.webp?v=1769107791
   Price: ₹121.80 INR
-- [Buy A2 Gir Cow Ghee | Vedic Bilona Method | Organic | Grano Organico](https://granoorganicoindia.com/products/a2-gir-cow-ghee): Shop premium A2 Gir Cow Ghee online. Made in Gujarat using the traditional Vedic Bilona (Curd-churned) method. 100% Pure, Organic, and Danedar. Order now!
-  Updated: 2026-01-24T06:43:14Z
+- [A2 Gir Cow Ghee | Vedic Bilona Method | Organic | Grano Organico](https://granoorganicoindia.com/products/a2-gir-cow-ghee): Shop premium A2 Gir Cow Ghee online. Made in Gujarat using the traditional Vedic Bilona (Curd-churned) method. 100% Pure, Organic, and Danedar.
+  Updated: 2026-02-02T06:58:18Z
   Vendor: Grano Organico Private Limited
   Product Type: A2 Gir Cow Ghee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/Ghee_61b36b8f-7ee1-465b-b9a1-250e0d02faf2.webp?v=1769021949
   Price: ₹1,995.00 INR
+- [Organic Masoor Dal | Unpolished and Protein-Rich | Grano Organico](https://granoorganicoindia.com/products/organic-masoor-dal): 100% organic Masoor Dal (Red Lentils). Unpolished, high in protein, and grown without synthetic pesticides. Pure, nutritious, and easy to digest for daily meals.
+  Updated: 2026-02-02T06:34:39Z
+  Vendor: Grano Organico Private Limited
+  Product Type: Pulses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/2_34fb1e98-8939-4a7c-9bc5-96ef2c47dbc9.webp?v=1769974023
+  Price: ₹117.60 INR
+- [Organic Kala Chana Dal | High Fiber & Chemical-Free | Grano Organico](https://granoorganicoindia.com/products/organic-kala-chana): Shop 100% Organic Kala Chana. Unpolished, chemical-free & high in protein. Pure Brown Chickpeas grown without synthetic pesticides. Nutritious & fiber-rich.
+  Updated: 2026-02-02T07:13:05Z
+  Vendor: Grano Organico Private Limited
+  Product Type: Pulses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/1_cb32a74f-5645-49a4-b99e-1e01eabd0d60.webp?v=1769973173
+  Price: ₹103.95 INR
 
 ## Collections
 
 - [Organic Millets & Superfoods | Gluten-Free Ancient Grains](https://granoorganicoindia.com/collections/organic-millets-superfoods): Discover nutrient-rich Little, Kodo, Brown Top, Foxtail, Barnyard, Proso and Pearl millets. Perfect for weight loss, diabetic-friendly diets, and gluten-free living. Buy healthy superfoods online.
-  Updated: 2026-01-24T06:43:15Z
+  Updated: 2026-02-01T18:49:49Z
   Total Products: 8
 - [Buy Unpolished Dals & Whole Pulses Online | Chemical-Free & Organic](https://granoorganicoindia.com/collections/organic-unpolished-dals-pulses): Order farm-fresh unpolished dals and pulses. 100% chemical-free Toor, Urad, Chana, Moong Chilka, Kabuli Chana, Moong Mogar and Rajma. Taste the nutrition of pure, unprocessed lentils.
-  Updated: 2026-01-24T12:15:56Z
-  Total Products: 7
+  Updated: 2026-02-01T18:49:43Z
+  Total Products: 9
 - [Shop by Health Goal | Weight Loss, Diabetes & Immunity](https://granoorganicoindia.com/collections/shop-by-health-benefit): Find food tailored to your health needs. Browse products for Weight Loss, Diabetes Management, Heart Health, and Immunity Boosting. Eat right for your body.
-  Updated: 2026-01-22T05:22:06Z
+  Updated: 2026-01-31T06:52:17Z
   Total Products: 0
 - [Premium Organic Spices & Masala Powders | Authentic Indian Taste](https://granoorganicoindia.com/collections/organic-indian-spices-masala): Buy hand-picked whole spices and stone-ground masala blends online. Fresh, aromatic, and free from additives. Elevate your cooking with pure Haldi Powder, Lal Mirchi Powder, Dhaniya Powder and Jeera.
-  Updated: 2026-01-24T06:43:15Z
+  Updated: 2026-02-01T18:49:43Z
   Total Products: 4
 - [Buy Pure A2 Gir Cow Ghee Online | Traditional Vedic Bilona Method](https://granoorganicoindia.com/collections/a2-gir-cow-ghee-bilona): Shop 100% natural A2 Desi Ghee made from free-grazing Gir Cows. Hand-churned using the authentic Bilona method. Lab-tested, golden texture, and perfect for Ayurvedic diets.
-  Updated: 2026-01-24T06:43:15Z
+  Updated: 2026-02-01T18:49:42Z
   Total Products: 1
 - [Monthly Grocery Combos | Save More](https://granoorganicoindia.com/collections/value-combos): Shop curated grocery combos and save money. Perfect monthly kits including Ghee, Spices, Millets, and Dals. Great for gifting or stocking your pantry.
-  Updated: 2026-01-22T05:22:06Z
+  Updated: 2026-01-31T06:52:17Z
   Total Products: 0
 - [Exclusive Grocery Offers & Discounts | Best Prices on Organic Food](https://granoorganicoindia.com/collections/special-offers-): Save big on your monthly grocery bills. Check out our latest discounts on Ghee, Millets, Spices, and Dals. Limited time offers and flash sales available now.
-  Updated: 2026-01-22T05:22:07Z
+  Updated: 2026-01-31T06:52:17Z
   Total Products: 0
 
 ## Store Pages
