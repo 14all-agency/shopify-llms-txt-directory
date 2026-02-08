@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-01-01T19:49:51Z
 - Contact Email: info@elarajewlery.com
-- Updated At: 2026-02-01T00:00:37.491Z
+- Updated At: 2026-02-08T00:00:39.625Z
 
 ## Products
 
@@ -888,13 +888,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213862731890749440.webp?v=1767299634
   Price: AED 140.00 AED
-- [Crimson Bloom Studs | Red Crystal Flower Earrings](https://elarajewelry.store/products/flower-power-statement-earrings-156653185040805888-4861): Eco-conscious vintage glamour: 18K gold-plated flower studs with burgundy zirconia crystals. Statement earrings that transform every moment into a runway. Sustainable luxury redefined.
-  Updated: 2026-01-07T19:32:38Z
-  Vendor: Elara
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213862637216919552.webp?v=1767299635
-  Price: AED 179.95 AED
 - [Crimson Petal Drop Earrings | Enamel Flower Jewelry](https://elarajewelry.store/products/pansy-drop-earrings-for-your-damn-self-156653157412925440-7618): Artistic red enamel flower earrings with luminous mother-of-pearl and 18K gold plating. Statement botanical drops that bring garden-party elegance to any occasion. Shop nature-luxe jewelry now!
   Updated: 2026-01-07T19:32:38Z
   Vendor: Elara
@@ -1182,13 +1175,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213862820206014464.webp?v=1767299672
   Price: AED 110.00 AED
-- [Crystal Bloom Studs | Gold Plated Statement Earrings](https://elarajewelry.store/products/crystal-flower-statement-earrings-gold-156856604984766464-1948): Elevate your vibe with geometric crystal flower studs on eco-friendly 18K gold-plated brass. Statement earrings that bring sophisticated edge to any look. Shop sustainable sparkle!
-  Updated: 2026-01-07T19:32:43Z
-  Vendor: Elara
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213862613397467136.webp?v=1767299673
-  Price: AED 179.95 AED
 - [Delta Sparkle Ring | Geometric White Gold Design](https://elarajewelry.store/products/geometric-crystal-ring-daily-confidence-157389630357532672-8776): Elevate your stack with this architectural triangle ring featuring zirconia sparkle and adjustable white-gold-plated design. Modern geometric elegance for every vibe. Shop now!
   Updated: 2026-01-07T19:32:43Z
   Vendor: Elara
