@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-11T08:35:09Z
 - Contact Email: myfunoutfits@yahoo.com
-- Updated At: 2026-01-31T00:00:36.244Z
+- Updated At: 2026-02-08T00:00:37.343Z
 
 ## Products
 
@@ -895,7 +895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/3188/9845/files/2012590513374114242_2048.jpg?v=1766042930
     Price: $29.08 USD
 - [Chips & Guac Forever T-Shirt](https://yummyoutfits.com/products/chips-guac-forever-t-shirt): For those who believe some love stories never end—chips & guac forever. This fun, foodie-inspired T-shirt is made for snack lovers who take their cravings seriously and their style casually cool. Featuring a clean, playful illustration of crunchy chips and creamy guacamole, this tee delivers comfort, personality, and flavor in every wear. Crafted from soft, breathable fabric, it’s perfect for everyday outings, food runs, casual hangouts, or just chilling with your favorite dip. The classic black base makes the design pop while staying easy to style with jeans, joggers, or shorts. Why You’ll Love It Playful “Chips & Guac Forever” graphic for true food lovers Soft, lightweight fabric for all-day comfort Classic crew neck with a relaxed, everyday fit Durable print that stays fresh wash after wash Easy to style for casual, streetwear, or foodie vibes Perfect For Food lovers & snack enthusiasts Casual wear, brunch dates, or taco nights Gifting to friends who love chips as much as guac Care Instructions Machine wash cold Turn inside out before washing Do not bleach Tumble dry low or hang to dry Wear your cravings proudly—because some combinations are forever. 🌮💚 S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50
-  Updated: 2026-01-03T19:12:14Z
+  Updated: 2026-02-04T23:00:47Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -3095,7 +3095,7 @@
   Updated: 2025-12-26T10:46:48Z
   Total Products: 0
 - [T-Shirts](https://yummyoutfits.com/collections/t-shirts)
-  Updated: 2025-12-26T10:46:48Z
+  Updated: 2026-02-05T12:23:17Z
   Total Products: 27
 - [Hoodies](https://yummyoutfits.com/collections/hooides)
   Updated: 2026-01-09T23:07:49Z
@@ -3130,6 +3130,15 @@
     Author: yummyoutfits
   - [Why T Shirts with Food Icons Make the Perfect Casual Friday Staple](https://yummyoutfits.com/blogs/news/why-t-shirts-with-food-icons-make-the-perfect-casual-friday-staple): Why T Shirts with Food Icons Make the Perfect Casual Friday Staple
     Updated: 2026-01-29T10:06:41Z
+    Author: yummyoutfits
+  - [The Science Behind Our Affection for Mugs with Food Patterns](https://yummyoutfits.com/blogs/news/the-science-behind-our-affection-for-mugs-with-food-patterns): The Science Behind Our Affection for Mugs with Food Patterns
+    Updated: 2026-02-03T10:03:07Z
+    Author: yummyoutfits
+  - [How Sweatshirts with Food Designs Solved My Seasonal Shopping Dilemma](https://yummyoutfits.com/blogs/news/how-sweatshirts-with-food-designs-solved-my-seasonal-shopping-dilemma): How Sweatshirts with Food Designs Solved My Seasonal Shopping Dilemma
+    Updated: 2026-02-04T10:08:53Z
+    Author: yummyoutfits
+  - [From Hoodies to Mugs: Exploring the Many Faces of the Food-on-Fabric Trend](https://yummyoutfits.com/blogs/news/from-hoodies-to-mugs-exploring-the-many-faces-of-the-food-on-fabric-trend): From Hoodies to Mugs: Exploring the Many Faces of the Food-on-Fabric Trend
+    Updated: 2026-02-05T10:07:39Z
     Author: yummyoutfits
 
 ## Store Pages
