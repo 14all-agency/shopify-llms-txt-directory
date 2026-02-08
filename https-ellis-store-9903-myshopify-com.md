@@ -6,21 +6,21 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-31T06:39:26Z
 - Contact Email: ellis82877@gmail.com
-- Updated At: 2026-02-01T00:00:34.459Z
+- Updated At: 2026-02-08T00:00:36.720Z
 
 Ellis Store specializes in premium pet supplies for dogs and cats, including high-quality collars, toys, beds, and bowls. We focus on durable, stylish products with fast shipping from US-based suppliers to ensure the best experience for pet owners and their furry companions.
 
 ## Products
 
 - [Uha Stainless Steel Automatic Pet Water Dispenser](https://ellis-store-9903.myshopify.com/products/uha-stainless-steel-automatic-pet-water-dispenser): Material:High-quality stainless steelProduct Information: Color: Smart stainless steel design with a matching water dispenser filter element. Specifications: Automatic and intelligent water dispensing system designed for pets. Applicable Pets: Suitable for both dogs and cats. Features: Durability: Constructed with sturdy stainless steel for long-lasting use. Efficient Filtration: Includes a filter element and gravitational ball filter cotton for cleaner water. Convenience: Easy-to-use automatic water dispenser with a smart design that promotes hydration. What’s Included: 1 x Smart Stainless Steel Water Dispenser (Host) 1 x Stainless Steel Drinking Tray 1 x Stainless Steel Water Tank 1 x Filter Element 1 x Gravitational Ball Filter Cotton 1 x Charging Cable Category: Drinking Water Dispenser for PetsImport Status: Not importedPerfect for keeping your pets hydrated with clean, fresh water throughout the day!
-  Updated: 2026-01-19T20:49:12Z
+  Updated: 2026-02-07T18:22:27Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8rhE63X8MCCxOGrY.webp?v=1767644465
   Price: $195.54 USD
 - [Cat Smart Dog Automatic Pet Feeder](https://ellis-store-9903.myshopify.com/products/cat-smart-dog-automatic-pet-feeder): Ensure your pets are always well-fed with the Cat & Dog Smart Automatic Pet Feeder. This sleek, electronic feeder comes in both white and black options with transparent buttons or WIFI connectivity for added convenience. It is ideal for both cats and dogs, providing a reliable feeding solution.The feeder is available in a 4L capacity and can be powered via a USB interface or with various adapter options, including national, EU, Japanese, British, Australian, South Korean, and American standards.Perfect for busy pet owners, this automatic feeder makes feeding easy and stress-free. Material: Durable Plastic Color Options: White Transparent Button, Black Transparent Button, White Transparent WIFI, Black Transparent WIFI Capacity: 4L Applicable for: Dogs & Cats Power Options: USB interface, multiple adapter types (National, EU, UK, US, AU, JP, KR) Packing List: 1 Automatic Pet Feeder 1 USB data cable 1 instruction manual 1 desiccant 1 stainless steel food tray
-  Updated: 2026-01-19T20:49:12Z
+  Updated: 2026-02-07T18:26:57Z
   Vendor: zendrop
   Product Type: Pet Bowls
   Availability: Available
@@ -154,7 +154,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/rXbOFdKvHsKrRhwB.webp?v=1767644555
     Price: $193.17 USD
 - [Plush Pet Bed](https://ellis-store-9903.myshopify.com/products/plush-pet-bed): Give your furry friend the ultimate comfort with the Plush Pet Bed. Designed for cats and small to medium dogs, this pet bed offers a perfect blend of style, warmth, and functionality.Key Features: Thick Backrest: Provides plush support for added comfort, ensuring your pet feels secure and relaxed. Anti-Slip Base: Equipped with anti-slip pellets to keep the bed in place, preventing accidental slips and ensuring moisture resistance. Included Pillow: Comes with a soft pillow to enhance your pet’s sleeping experience, making every nap more restful. Product Information: Colors: Mousse Coffee, Lemon Yellow, Cherry Blossom Pink, Moonlight Beige Sizes: M (with pillow) L (with pillow) Material: High-quality fabric for durability and coziness. Suitable For: Cats and small to medium-sized dogs. Category: Pet Bed / Cage Accessory Packing List:1 x Pet Cat SofaTreat your pet to a cozy retreat with the Plush Pet Bed—where comfort meets luxury!
-  Updated: 2026-01-19T20:49:12Z
+  Updated: 2026-02-07T18:26:07Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -224,7 +224,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/EWUcfGJ9PVRY3Epd.webp?v=1767644535
     Price: $95.72 USD
 - [Bedsure Cute Cat Sofa - Soft Corduroy Fleece Pet Bed](https://ellis-store-9903.myshopify.com/products/bedsure-cute-cat-sofa-soft-corduroy-fleece-pet-bed): Pamper your pet with the Bedsure Cute Cat Couch, designed for ultimate comfort and support. This cozy and luxurious pet sofa is perfect for dogs and cats of all sizes, offering a warm, secure, and restful spot for your furry friend.Key Features: Superior Support: The three-sided design provides optimal head and neck support, making it ideal for pets who love to rest their heads on a pillow. The high backrest is especially beneficial for pets with higher pillow needs, offering extra comfort for various breeds. Balanced Comfort: Featuring a perfect 2:1 mix of chopped foam and polyester fiber filling, this couch strikes a balance between softness and support, ensuring your pet enjoys deep, restful naps. Cozy Warmth: Made with ultra-soft faux rabbit fur, this bed is warm and snug, perfect for autumn and winter. Its plush feel will make your pet feel like they’re wrapped in a luxurious blanket. Non-Slip Safety: Equipped with an anti-slip bottom, this pet couch stays in place, preventing unwanted movement and ensuring your pet's safety while resting. Versatile Sizes: Available in small, medium, and large to suit pets of all sizes. Size Options: Small: 61 x 45 x 25 cm | Weight: 1700g Medium: 76 x 51 x 25 cm | Weight: 2000g Large: 91 x 69 x 25 cm | Weight: 2300g Perfect for All Seasons: Whether it's chilly autumn or winter, your pet will love the warmth and comfort of this luxurious pet couch, ensuring they always have the perfect spot to rest.Give your pet the comfort they deserve with this stylish and cozy couch that provides both support and relaxation.
-  Updated: 2026-01-19T20:49:12Z
+  Updated: 2026-02-07T18:26:36Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -290,7 +290,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/qsh1xV8U4YV5pEd2.webp?v=1767644590
     Price: $202.69 USD
 - [CozyNest Large Winter Cat Sofa Bed](https://ellis-store-9903.myshopify.com/products/cozynest-large-winter-cat-sofa-bed): The CozyNest Large Winter Cat Sofa Bed is designed to offer your feline friend ultimate comfort and warmth during the colder months. This fully enclosed, insulated cat bed ensures your cat stays snug and secure, with its soft, plush interior that provides a cozy, safe haven. The bed is crafted with a warm and cold-proof fabric that helps maintain an ideal temperature, shielding your pet from chilly drafts while also allowing airflow to prevent overheating. The spacious large size is perfect for cats of all sizes, offering plenty of room to curl up and relax. Its stylish sofa-like design fits seamlessly into your home decor, offering both functionality and aesthetic appeal. Whether it’s winter or simply a cool day, the CozyNest Winter Cat Sofa Bed ensures your pet always has a warm and cozy retreat.
-  Updated: 2026-01-19T20:49:13Z
+  Updated: 2026-02-07T18:25:20Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -308,7 +308,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/3dZ6G4uyuzYrVK9g.webp?v=1767644552
     Price: $63.22 USD
 - [Warm And Cozy Cat Bed](https://ellis-store-9903.myshopify.com/products/warm-and-cozy-cat-bed): Detailed Product DescriptionGive your feline friend the ultimate lounging experience with the Warm and Cozy Cat Bed. Designed with your cat’s comfort in mind, this bed offers a soft and inviting space for your pet to rest, nap, and relax. Its plush, insulated design provides a warm retreat, making it perfect for cooler days or cats that love to snuggle. With a modern and stylish look, it seamlessly blends into any home decor.Key Features: Supreme Comfort: Made with ultra-soft, high-quality materials that provide a cozy and luxurious surface for your cat to rest. Thermal Insulation: Retains your cat's body heat, ensuring a warm and snug environment even during colder months. Supportive Design: Features a padded base and cushioned sides for added support and security, perfect for curling up. Durable & Scratch-Resistant: Crafted from long-lasting, pet-friendly fabric that stands up to everyday use and gentle kneading. Non-Slip Base: Equipped with a non-skid bottom to keep the bed securely in place, even on smooth surfaces. Why You’ll Love It: Provides a dedicated space for your cat to relax, keeping them off furniture. Lightweight and portable, so your pet can enjoy comfort anywhere in the house. Easy to clean and maintain, ensuring a hygienic space for your furry companion. Stylish design available in various colors to suit your home’s decor. Available Sizes: Small (for kittens and petite cats) Medium (for average-sized cats) Large (for bigger breeds or multi-cat households) Care Instructions: Machine washable on a gentle cycle for easy cleaning. Air dry or tumble dry on low heat to maintain the plush texture. Make your cat’s comfort a priority with the Warm and Cozy Cat Bed—a perfect blend of warmth, softness, and style that your feline friend will adore!
-  Updated: 2026-01-19T20:49:13Z
+  Updated: 2026-02-07T18:26:48Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -382,7 +382,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/AhCsuj463fhKSTR7.webp?v=1767644688
     Price: $46.66 USD
 - [Cat Water Fountain](https://ellis-store-9903.myshopify.com/products/cat-water-fountain): This automatic cat water dispenser features a circulating filtration system that keeps your cat's water fresh and clean. The constant flow of water encourages drinking, promoting better hydration for your feline friend.Color:, black plug-in standard edition [with Authentication Adapter], white plug-in standard edition [with Authentication Adapter]]Specifications: Chinese standard, American Standard, European standard, Australian standard, South Korea standard, Japanese standard, British StandardApplicable objects: dogs and catsCategory: pet water dispenserSize:
-  Updated: 2026-01-19T20:49:13Z
+  Updated: 2026-02-07T18:26:27Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -468,7 +468,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vQaNFPglrwLjG9gx.webp?v=1767644647
     Price: $73.67 USD
 - [Pet Molar Long Lasting Latex Sounding Toy](https://ellis-store-9903.myshopify.com/products/pet-molar-long-lasting-latex-sounding-toy): The Pet Molar Long Lasting Latex Sounding Toy is designed to keep your pet entertained and engaged for hours. Made from durable latex, this toy is perfect for chewing, teething, and interactive play. The built-in sound feature adds extra excitement, making it irresistible to dogs of all sizes. Its unique molar design helps promote healthy teeth and gums while satisfying your pet’s natural chewing instincts. Ideal for active pups, this toy is both fun and functional, providing a long-lasting solution for your pet's playtime.Key Features: Durable latex material for long-lasting use Built-in sound feature for extra excitement Molar design promotes healthy teeth and gums Perfect for chewing, teething, and interactive play Ideal for dogs of all sizes Non-toxic and safe for pets Easy to clean and maintain Helps prevent destructive chewing habits Great for active and playful dogs Available in multiple sizes and colors
-  Updated: 2026-01-19T20:49:13Z
+  Updated: 2026-02-07T18:18:21Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -482,7 +482,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/KezkzH6T92MH9xJH.webp?v=1767644573
     Price: $29.38 USD
 - [LED Waterproof Dog Paw Trimmer](https://ellis-store-9903.myshopify.com/products/led-waterproof-dog-paw-trimmer): Keep your furry friend looking their best with the LED Waterproof Dog Paw Trimmer. Designed for efficient and safe grooming, this innovative trimmer combines functionality with convenience, making pet care a breeze.Key Features:LED Light: The built-in LED light illuminates the grooming area, allowing for precise trimming even in low-light conditions, ensuring you don’t miss any spots.Fully Waterproof: This trimmer is fully waterproof, making it easy to clean and perfect for use in the bath or outdoors without worrying about damage.Wide Blade Design: Featuring an 18mm wide blade, it provides a faster and smoother cutting experience, efficiently tackling even the thickest fur.User-Friendly LED Display: The LED display shows battery life and speed settings, ensuring you have all the information you need at a glance.Ergonomic Design: The comfortable grip allows for extended use without strain, making grooming sessions more enjoyable for both you and your pet.Quiet Operation: Designed to operate quietly, this trimmer helps reduce stress for your pet during grooming, promoting a calm experience.Make grooming a stress-free and enjoyable process with the LED Waterproof Dog Paw Trimmer—the perfect tool for keeping your dog's paws neat and tidy!
-  Updated: 2026-01-19T20:49:13Z
+  Updated: 2026-02-07T18:26:15Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -496,7 +496,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/u67yYyBhgv7pUDtov2lX_1354d974-bb0c-4de1-b820-9045c386b7f5.webp?v=1767644616
     Price: $35.22 USD
 - [Semi-Closed Cat Bed Nest](https://ellis-store-9903.myshopify.com/products/semi-closed-cat-bed-nest): 使用这款半封闭式猫床，为您的宠物提供一个舒适的休息场所。其贝壳状结构专为全年舒适而设计，提供温暖舒适的环境，非常适合猫和小狗。半封闭式设计提供安全感，而透气材料确保四季舒适。这款多功能宠物床既时尚又实用，是冬季保暖或夏季放松的理想选择。其耐用、易于清洁的结构使其成为任何宠物主人的实用选择。
-  Updated: 2026-01-19T20:49:14Z
+  Updated: 2026-02-07T18:26:11Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -550,7 +550,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Ek0efGxk719wduhp.webp?v=1767644695
     Price: $70.42 USD
 - [CozyPaw All-Season Bed](https://ellis-store-9903.myshopify.com/products/cozypaw-all-season-bed): This versatile bed is designed with soft, cozy materials that keep pets warm in winter and cool in summer. Its round shape provides a snug, secure feel, perfect for curling up or lounging. Durable and easy to clean, it’s the ideal sleeping space for cats, dogs, or small animals, ensuring your furry friend stays happy and comfortable in any season.Material ClothProduct Attributes OrdinaryPackage Size 400*130*130(1mm); 400*150*150(1mm); 430*160*160(1mm); 430*170*170(1mm)
-  Updated: 2026-01-19T20:49:14Z
+  Updated: 2026-02-07T18:24:56Z
   Vendor: zendrop
   Product Type: pet's beds
   Availability: Available
@@ -780,7 +780,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/80ac652a-f25e-4a71-9bf2-8b587ccc7a34.jpg?v=1768015770
     Price: $25.50 USD
 - [LED Rechargeable Dog Collar](https://ellis-store-9903.myshopify.com/products/led-rechargeable-dog-collar): Keep your pet safe and stylish with this LED rechargeable dog collar. Featuring a glowing design, it provides visibility in low light and dark conditions. The collar is USB rechargeable, making it eco-friendly and convenient for everyday use. Perfect for walks at night, ensuring your dog is seen and safe.Material: Plastic, MetalProduct Attributes: Battery Contains, OrdinaryPackage Size: 400*100*20(1mm)About this item: LIGHTED SAFETY DOG COLLAR LIGHT - Flash seen led dog collar is made of TPU and ABS, and offers 360-degree high visibility to keep your pet safe during walking at night.8-10 HOURS OF GLOW - Our light up dog collars will glow in the dark all night long, 2 hours of charging time can be used 8-10 hrs for slow flashing, 6-8 hrs for fast flashing, or 3 hrs for stable glowing.
-  Updated: 2026-01-12T17:20:56Z
+  Updated: 2026-02-07T18:25:17Z
   Vendor: zendrop
   Product Type: pets collar
   Availability: Available
@@ -822,7 +822,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/e3dz3qyCqVXTGr9n.webp?v=1768016486
     Price: $24.99 USD
 - [Baby Sling Carrier](https://ellis-store-9903.myshopify.com/products/baby-sling-carrier): Designed for babies aged 6 months to 3 years, this cloth baby sling carrier offers hands-free convenience and close comfort for both parent and child. With a free-size fit and a 15kg weight limit, it’s available in a variety of colors and patterns, including blue plaid, bonsai black, and monochrome blue.Package Size: 220 x 120 x 60 mm | Max Load: 15kg
-  Updated: 2026-01-19T20:49:14Z
+  Updated: 2026-02-07T18:21:56Z
   Vendor: zendrop
   Product Type: baby product
   Availability: Available
@@ -848,7 +848,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/1v8yVkAzLA0ZUXZQ.webp?v=1768016441
     Price: $39.99 USD
 - [Double Stainless Steel Pet Bowl](https://ellis-store-9903.myshopify.com/products/double-stainless-steel-pet-bowl): This double stainless steel pet bowl features a cartoon-style ABS base and anti-overturn design. Ideal for cats and dogs, it includes a neck-guard tilt to support comfortable eating and drinking. Durable, easy to clean, and prevents spills—perfect for serving food and water at once with a stylish, pet-friendly look.
-  Updated: 2026-01-19T20:49:15Z
+  Updated: 2026-02-07T18:24:41Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -862,7 +862,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/f730c054464d947a301f43b0cfe8.png?v=1768016417
     Price: $22.99 USD
 - [Nylon Custom Dog Puppy Collar Leash Set Personalized Genuine Leather Pet Nameplate ID Tag Accessories Collars Pet Products Perro](https://ellis-store-9903.myshopify.com/products/nylon-custom-dog-puppy-collar-leash-set-personalized-genuine-leather-pet-nameplate-id-tag-accessories-collars-pet-products-perro): Pattern Type: Solidcolor: Brown/Blue/DeepBlue/Green/Black/GrayType: personalized dog collar leash set/pet collar/ Dog leashis_customize: YESApplicable breeds: small medium Large dogsFeatures: anti-lost, adjustableExtra service: Free engravingSize: S/M/LMaterial: Nylon and Genuine LeatherBrand Name: PET ARTISTType: DogsMaterial: NylonHigh-concerned chemical: NoneLifestage: All stagesCollar Type: Basic CollarsIs Smart Device: NoCN: ZhejiangFeature: PersonalizedSeason: all seasonsOrigin: Mainland Chinais_customized: YesType: CollarsChoice: yessemi_Choice: yes
-  Updated: 2026-01-30T18:29:01Z
+  Updated: 2026-02-03T20:56:46Z
   Vendor: modelyst
   Product Type: Pet Accessories
   Availability: Available
@@ -1446,7 +1446,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/S4735dc6936d64ef2a7022a278a98114aD.jpg?v=1768245245
     Price: $24.99 USD
 - [Padded Ski Vest For Pets](https://ellis-store-9903.myshopify.com/products/padded-ski-vest-for-pets): Material: Premium CottonProduct Details: Category: Padded Cotton Vest Style: Inspired by European and American fashion trends, this vest combines practicality with a modern aesthetic. Features: Designed for versatility and comfort, the lightweight construction provides excellent warmth without bulk. Perfect for layering during outdoor adventures, winter sports, or casual outings. The padded design ensures extra insulation, while maintaining a sleek and stylish silhouette. Package Size: 300 × 200 × 50 mm Whether you're hitting the slopes, taking a winter walk, or heading out for a casual day, this cotton vest is a reliable and fashionable choice.
-  Updated: 2026-01-19T20:49:16Z
+  Updated: 2026-02-07T18:25:46Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1564,7 +1564,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/8dMb6x8ktI6EHCAy.webp?v=1768534993
     Price: $41.99 USD
 - [Cooling Vest for Pets](https://ellis-store-9903.myshopify.com/products/cooling-vest-for-pets): Keep your furry friend cool and comfortable during hot summer days with this breathable cooling vest. The innovative cooling technology helps regulate your pet's body temperature, preventing overheating and ensuring a happy and healthy summer.Material ClothProduct Attributes OrdinaryPackage Size 300*200*30(1mm)
-  Updated: 2026-01-19T20:49:16Z
+  Updated: 2026-02-07T18:25:56Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1666,7 +1666,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/VMfffZNnGfaXhbRl.webp?v=1768534872
     Price: $53.99 USD
 - [Themed Dog Clothes for Pets](https://ellis-store-9903.myshopify.com/products/themed-dog-clothes-for-pets): Keep your furry friend stylish and cozy with these adorable coral fleece dinosaur-inspired pet clothes. Perfect for all seasons, these comfortable and soft four-legged outfits are sure to make your pet stand out.Product Features: Material: High-quality coral fleece for ultimate warmth and comfort Design: Fun and playful dinosaur transformation design Category: Four-legged clothing, ideal for pets who love to stand out Gender: Suitable for both male and female pets Application: Perfect for daily wear, indoor lounging, or outdoor adventures Note: Please measure your pet carefully before purchasing to ensure the perfect fit.Ideal for keeping your pet cozy while adding a fun, fashionable twist. A must-have for pet owners who want to give their pets a unique, charming look.
-  Updated: 2026-01-19T20:49:16Z
+  Updated: 2026-02-07T18:25:36Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1696,7 +1696,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/GosFCB0CFCcDuzt1_9df0fea7-65a0-4e2b-8e82-c255bbb1d1f9.webp?v=1768534859
     Price: $29.99 USD
 - [Printed Love Sweater for Pets](https://ellis-store-9903.myshopify.com/products/printed-love-sweater-for-pets): – Cozy & Stylish Outfit for Your Furry FriendKeep your pet warm and adorable with this Printed Love Sweater, designed for comfort, warmth, and style. Made from soft and breathable fabric, this sweater provides cozy protection against chilly weather while adding a cute and fashionable touch to your pet’s look. Perfect for small to medium-sized dogs and cats!Features:✔ Soft & Warm Fabric – Ensures comfort and insulation in cold weather✔ Adorable Love Print Design – Adds a cute and stylish flair✔ Lightweight & Breathable – Keeps pets cozy without overheating✔ Easy to Wear & Remove – Stretchable material for a snug, comfy fit✔ Perfect for Indoor & Outdoor Wear – Ideal for walks, photoshoots, and daily wearGive your pet a warm hug in the form of a sweater with this cute and cozy outfit!
-  Updated: 2026-01-19T20:49:16Z
+  Updated: 2026-02-07T18:24:31Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1718,7 +1718,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/Fg5W2tOWuoDMovat.webp?v=1768534900
     Price: $39.99 USD
 - [Sanded Student Skirt for Pets](https://ellis-store-9903.myshopify.com/products/sanded-student-skirt-for-pets): Introducing the perfect blend of style and comfort for your furry friend! Our pet clothes are crafted from premium coral velvet, ensuring a soft and cozy fit that your pet will love. Available in two vibrant colors, khaki and yellow, these stylish skirts are designed for pets who love to strut their stuff. Choose from a variety of sizes including S, M, L, XL, and XXL, to find the perfect fit for your pet. Whether they're lounging around the house or heading out for a walk, our two-legged clothing will keep them looking fabulous. Check out our lovely product images below for a closer look at this adorable outfit: Dress your pet in comfort and style with our fashionable skirts, and let them be the center of attention wherever they go!
-  Updated: 2026-01-19T20:49:16Z
+  Updated: 2026-02-07T18:25:51Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1762,14 +1762,14 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/9oMQJ9tTrvnoFPLN.webp?v=1768534952
     Price: $23.99 USD
 - [Pets Water Fountain](https://ellis-store-9903.myshopify.com/products/pets-water-fountain): Pets Water Fountain with Auto Filter – USB Electric Mute Cat Drinker Bowl (1200mL)Keep your cat hydrated and healthy with the Pets Water Fountain! This automatic water dispenser is designed to provide your cat with a continuous flow of fresh, clean water, ensuring they stay hydrated throughout the day. With a generous 1200mL capacity, the fountain is perfect for multiple cats or larger breeds, offering a steady supply of water that encourages drinking and reduces the risk of urinary tract infections and dehydration.Equipped with a multi-stage filtration system, this fountain uses a recirculating filtration mechanism to keep the water clean and free of impurities, ensuring your pet always has access to fresh, clean water. The ultra-quiet design (mute operation) means your cat won’t be disturbed by the sound of the pump, making it ideal for sensitive pets or peaceful environments.Powered via USB, the fountain is both energy-efficient and convenient to use, easily connecting to a USB adapter or power bank for hassle-free operation. The sleek, modern design fits seamlessly into any home decor while keeping your cat's hydration needs met in style.Key Features: 1200mL Capacity: Ideal for one or more cats, reducing the need for frequent refills. Auto Filter & Multi-Stage Filtration: The built-in filtration system removes impurities, odors, and contaminants, keeping the water fresh and clean. Recirculating Water Flow: Continuous water flow encourages pets to drink more, promoting better hydration and health. Quiet Operation (Mute): Ultra-quiet pump ensures a peaceful environment without disturbing your pet, even when they drink from the fountain. USB Powered: Powered by a USB cable (adapter or power bank), making it energy-efficient and easy to set up anywhere. Sleek, Modern Design: The contemporary design fits into any room décor, whether in the kitchen, living room, or bedroom. Encourages Healthy Hydration: The flowing water naturally attracts cats and helps reduce urinary and kidney issues caused by insufficient water intake. Easy to Clean: The fountain is easy to disassemble and clean, ensuring that it stays hygienic for your pet's health. Product Specifications: Material: High-quality BPA-free plastic (safe for pets) Capacity: 1200mL (approximately 1.2 liters) Water Flow System: Recirculating water flow with built-in filtration Filtration System: Multi-stage filtration (replaceable filters) Noise Level: Ultra-quiet (mute operation) Power Supply: USB (compatible with USB adapters, power banks, or USB ports) Dimensions: 18 x 18 x 15 cm (L x W x H) Weight: 500g (lightweight and portable) Color: Available in multiple colors (white, grey, etc.) Included in Package: 1 x Pet Water Fountain, 1 x USB Cable, 1 x Filter (pre-installed), 1 x User Manual Why Choose the Pets Water Fountain? Healthier Pets: Encourages your cat to drink more water, which is essential for their kidney and urinary health. Convenient & Low Maintenance: With a large 1200mL capacity and easy-to-clean design, you won’t need to constantly refill or worry about it becoming dirty. Peaceful Environment: The silent, mute operation ensures your cat is comfortable drinking without distractions from noise. Eco-Friendly & Cost-Effective: USB-powered design eliminates the need for batteries, making it both environmentally friendly and cost-effective. Stylish & Functional: The modern design looks great in any home while serving a functional purpose in keeping your pets hydrated.
-  Updated: 2026-01-19T20:49:17Z
+  Updated: 2026-02-07T18:23:31Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/MnfwOyVQcVBdTogc.webp?v=1768534926
   Price: $49.99 USD
 - [Cotton Stretch Apparel for Pets](https://ellis-store-9903.myshopify.com/products/cotton-stretch-apparel-for-pets): Treat your furry friend to the ultimate in comfort and style with our Cotton Stretch Pet Apparel. Designed with your pet's needs in mind, this casual sweater is crafted from high-quality cotton that provides a soft, breathable fit, ensuring your pet stays cozy during chilly days. Available in a beautiful pink color, this sweater is not only functional but also fashionable, making your pet the star of the park. With various sizes ranging from S to 2XL, you can find the perfect fit for pets of all shapes and sizes. Our pet apparel features: Choose from multiple sizes to ensure a comfortable fit: Don't miss out on the chance to pamper your pet with this stylish and comfortable sweater. Your adorable companion will not only feel great but will also turn heads wherever you go!
-  Updated: 2026-01-19T20:49:17Z
+  Updated: 2026-02-07T18:25:36Z
   Vendor: Zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1803,7 +1803,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/wsnSKQS9HizswvuP.webp?v=1768535039
     Price: $34.99 USD
 - [Dog Clothes for Pets](https://ellis-store-9903.myshopify.com/products/dog-clothes-for-pets): Dress your furry friend in style with our trendy casual hoodie, designed specifically for dogs. Made from high-quality cotton, this hoodie ensures your pet stays comfortable while looking fabulous. Available in two chic colors: Yellow and Grey, our hoodie comes in sizes ranging from XS to M, catering to dogs of all shapes and sizes. Whether you have a tiny pup or a medium-sized companion, we have the perfect fit for them! Upgrade your pet's wardrobe with our stylish hoodie, perfect for any occasion, and watch them strut their stuff with confidence!
-  Updated: 2026-01-19T20:49:17Z
+  Updated: 2026-02-07T18:25:20Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1833,7 +1833,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/y1oAtYH3fa7VECbV.webp?v=1768535004
     Price: $22.99 USD
 - [Thickened Tricolor Sweater for Pets](https://ellis-store-9903.myshopify.com/products/thickened-tricolor-sweater-for-pets): Keep your furry friends warm and stylish with our new line of Thickened Tricolor Sweaters. Made from luxurious coral velvet, these sweaters provide both comfort and warmth, ensuring your pet stays cozy during the colder months. Available in three vibrant colors: Purple, Gray, and Orange, these sweaters are designed to fit pets of all sizes with options ranging from S to XXL. Whether you have a small pup or a larger breed, there's a perfect fit for everyone. The stylish leisure design is perfect for casual outings or simply lounging at home. Treat your pet to the ultimate in comfort and style with our Thickened Tricolor Sweater. Browse through our various options to find the ideal color and size for your furry companion:
-  Updated: 2026-01-19T20:49:17Z
+  Updated: 2026-02-07T18:24:46Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1899,7 +1899,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/daiJUG07t6UNHVPO.webp?v=1768535132
     Price: $29.99 USD
 - [Thickened Warm Hoodie for Pets](https://ellis-store-9903.myshopify.com/products/thickened-warm-hoodie-for-pets): Keep your furry friend cozy and stylish with our Pet Fashion Thickened Warm Hoodie. Made from soft and luxurious velvet, this hoodie is perfect for those chilly days when your pet needs an extra layer of warmth. The casual style makes it easy for your pet to wear, whether they're lounging at home or out for a walk. Available in a variety of colors including Beige, Light Blue, and Grey, and sizes ranging from XS to XXL, there’s a perfect fit for every pet! Dress your pet in comfort with this chic hoodie that combines fashion and function. The thickened fabric ensures warmth without sacrificing style. Check out our stunning collection of images below to see how adorable your pet will look in their new hoodie! Treat your pet to the ultimate in comfort and style with our Pet Fashion Thickened Warm Hoodie—because they deserve to look good while staying warm!
-  Updated: 2026-01-19T20:49:17Z
+  Updated: 2026-02-07T18:23:31Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -1968,7 +1968,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/REgjXh27P9rvWkvD.webp?v=1768535133
     Price: $26.22 USD
 - [Thickened Winter Cotton Vest Warm Fur Collar For Pets](https://ellis-store-9903.myshopify.com/products/thickened-winter-cotton-vest-warm-fur-collar-for-pets): Thickened Winter Cotton Vest with Warm Fur Collar for Pets – Cozy Comfort for Your Furry FriendKeep your beloved pet warm and stylish during the colder months with the Thickened Winter Cotton Vest with Warm Fur Collar for Pets. Designed to provide maximum comfort and insulation, this vest is perfect for protecting your pet from chilly weather while ensuring they look adorable. With its premium materials and thoughtful design, it’s a must-have for your pet's winter wardrobe. Key Features: Thickened Cotton Fabric: Made with high-quality, thickened cotton to provide excellent insulation and keep your pet cozy in the coldest temperatures. Fur Collar Detail: The soft, fluffy fur collar adds an extra layer of warmth and a touch of luxury, making it both functional and fashionable. Snug Fit Design: Tailored to provide a comfortable and secure fit that allows your pet to move freely without feeling restricted. Easy-to-Wear: Features a simple and convenient closure system, making it easy to put on and take off your pet. Lightweight and Breathable: While thick and warm, the vest remains lightweight and breathable to ensure your pet’s comfort during extended wear. Durable and Long-Lasting: Crafted with strong stitching and quality materials that can withstand regular use and playful activities. Available in Various Sizes: Suitable for small, medium, and large pets, ensuring a perfect fit for your furry companion. Benefits: Protects your pet from cold and windy weather. Soft materials prevent irritation and ensure maximum comfort. Stylish fur collar design adds a trendy touch to your pet’s outfit. Easy-to-maintain fabric can be cleaned quickly for hassle-free care. Perfect For: Outdoor walks during winter. Pets who need extra warmth due to shorter fur or cold sensitivity. Owners looking to combine functionality with style for their pets. Why You’ll Love It:The Thickened Winter Cotton Vest with Warm Fur Collar for Pets is not just a winter essential but a thoughtful way to show your care and love for your pet. Its stylish design and cozy materials make it an ideal choice for both practicality and aesthetics. Whether you're taking your pet for a walk in the snow or just snuggling indoors, this vest ensures they stay warm and comfortable.Pamper your pet this winter with the Thickened Winter Cotton Vest with Warm Fur Collar—because your furry friend deserves the very best!
-  Updated: 2026-01-19T20:49:18Z
+  Updated: 2026-02-07T18:24:47Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2014,7 +2014,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/V4vmgzhgi4r9FAb1.webp?v=1768535216
     Price: $44.99 USD
 - [Winter Cotton Knit Vest for Pets - Academic Style](https://ellis-store-9903.myshopify.com/products/winter-cotton-knit-vest-for-pets-academic-style): Introducing our winter vest, expertly crafted from warm knitted cotton for your beloved pets. This stylish piece showcases a chic academic style, making it the perfect addition to their wardrobe. Ensure your furry friend stays both cozy and fashionable during the chilly months. Available in a variety of sizes from XS to 5XL, you can find the perfect fit for pets of all shapes and sizes: Choose from an array of vibrant colors including yellow, green, red, and gray. Each vest not only adds a pop of color but also ensures your pet stands out in style. With a lightweight design, the vest weighs between 62g to 169g, depending on the size, making it easy for your pet to wear throughout the day. Don't let the cold weather keep your pet indoors; let them strut their style in our fashionable winter vest!
-  Updated: 2026-01-23T12:09:16Z
+  Updated: 2026-02-07T18:25:13Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2164,7 +2164,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/XNmdNJ8pt95KtUyx.webp?v=1768535458
     Price: $21.99 USD
 - [Reflective Thickened Warm Pet Vest for Autumn Winter](https://ellis-store-9903.myshopify.com/products/reflective-thickened-warm-pet-vest-for-autumn-winter): Keep your furry friend warm and stylish this autumn and winter with our Warm Pet Vest. Designed for both comfort and functionality, this vest is perfect for chilly outdoor adventures or cozy indoor lounging. Crafted from high-quality polyester, the vest is not only thickened for warmth but also features a reflective design to ensure your pet is visible during evening walks. Its cotton padded construction provides an extra layer of insulation, making it ideal for those frosty days. Available in a classic Army Green color, this vest comes in multiple sizes, from S to 2XL, ensuring a perfect fit for every breed. Check out our product images to see the stylish design and premium quality you can expect: Don’t let your pet miss out on the warmth and style they deserve this season! Choose the perfect size for your furry companion and elevate their wardrobe with our Warm Pet Vest.
-  Updated: 2026-01-23T12:07:46Z
+  Updated: 2026-02-07T18:23:06Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2190,7 +2190,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/qFvbtr1sXFJOVQwI.webp?v=1768535143
     Price: $39.99 USD
 - [Winter Warmth Vest for Pets](https://ellis-store-9903.myshopify.com/products/winter-warmth-vest-for-pets): Keep your furry friends cozy and stylish with this leather winter vest, designed to provide warmth and comfort during chilly seasons. This casual yet fashionable vest is perfect for both dogs and cats, offering a snug fit and durable design. Available in elegant colors and a wide range of sizes, it ensures your pet stays protected while looking adorable. Key Features: Material: Premium leather for warmth and durability Style: Casual design suitable for everyday wear Colors: Grey, Purplish Red, Brown Sizes: S, M, L, XL, XXL, 3XL, 4XL, 5XL (Check the size chart for accurate fitting) Gender: Unisex – perfect for both dogs and cats Size & Fit Notes: Allow 2-3 cm variations due to manual measurement. Slight color differences may occur due to varying screen displays. Give your pet the gift of warmth and comfort with this stylish winter vest, combining practicality and charm for every outdoor adventure!
-  Updated: 2026-01-23T12:05:34Z
+  Updated: 2026-02-07T18:25:41Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2292,14 +2292,14 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/LZHUYiH170J8USXF.webp?v=1768535520
     Price: $43.99 USD
 - [CAISANG Dog Skirt Shirts Puppy Dresses for Small Dogs Girls Pet Clothes](https://ellis-store-9903.myshopify.com/products/caisang-dog-skirt-shirts-puppy-dresses-for-small-dogs-girls-pet-clothes-doggy-apparel-comfortable-summer-shirt-beach-wear-clothing-outfits-for-medium-dog-kitty-cats-cotton-tops-pink-xs): T-shirts is selected of premium quality cotton fabric will not hurt dog’s skin. Exquisite workmanship which is create a better quality of life for your puppy dog and cat. Suitable for small and medium pets.The dog clothes are no longer only for keep warm classic and casual style make dogs more attractive.■ Style: Shirts /T-shirtsItem 1：Shirts(Black*1）Item 2：Shirts(Grey *1）Item 3：T-Shirts(Red*1+Blue*1)■ Main Material: Cotton (Shirts) / Polyester (T-Shirts)■ Size: X-Small Small Medium Large X-Large.Note:1. Your baby pets usually wears size S doesnt mean all size S will fit her/him Each manufacturer will have its own different size chart. Pls measuring your dog for choose perfectly fitting clothes.2. If the measurement value of any part is between two sizes please choose larger size.3. Soft and resilient cotton clothes will be size certain error of 0.4~0.7inch after washed!So please kindly double check the size chart on the photo as above to make sure you choose the correct size for your dogs and cats. Thanks!
-  Updated: 2026-01-19T20:49:18Z
+  Updated: 2026-02-07T18:20:31Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/fNboA1zY0yjg95in.webp?v=1768607654
   Price: $39.99 USD
 - [EXPAWLORER Cat Sweater for Cold Weather - Stylish Knitted Cat Clothes Soft Cat](https://ellis-store-9903.myshopify.com/products/expawlorer-cat-sweater-for-cold-weather-stylish-knitted-cat-clothes-soft-cat-sweatshirt-with-sleeve-warm-clothing-fall-and-winter-pet-clothes-for-all-different-cats-or-puppies-medium-grey): [SIZE M: Neck 11.8" Chest 15.4" Back Length 16.9". Please carefully measure the size of the neck chest and back length of your pet before buying. "SOFT & WARM: Made of super soft fabric soft and breathable long-term wear will not harm the pets skin suitable for Sphynx Cat Devon Rex Cat Cornish Rex Cat Peterbald Cat and other cats. A suitable length should completely wrap your pets back but leave room for free movement of its legs to better achieve the effect of keeping warm." CLASSIC KNITWEAR: Instead of a normal sweater design we use a classic cardigan design with white rib knit binding your cat will stay elegant even in winter it will never go out of style. "EASY TO WEAR: The button closure type ensures the convenience of pulling on and taking off while retaining the classic button elements and will not hinder indoor or outdoor activities. It can also prevent your pets hair from falling onto the sofa or bed to a certain extent keeping your home clean." FASHIONABLE: In addition to being worn for indoor or outdoor activities in daily life it is also suitable for occasions such as holiday parties birthday parties photography etc. Wearing this cat sweater will definitely make your cat the most attractive presence.]
-  Updated: 2026-01-19T20:49:18Z
+  Updated: 2026-02-07T18:20:17Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2462,14 +2462,14 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Availability: Available
     Price: $50.49 USD
 - [Melatonin for Dogs - Dog Melatonin - Dog Melatonin for Small Dogs - Cat Melatonin - Anxiety & Stress Relief - Promote Relaxation & Deep Sleep for Cat & Dog](https://ellis-store-9903.myshopify.com/products/melatonin-for-dogs-dog-melatonin-dog-melatonin-for-small-dogs-cat-melatonin-anxiety-stress-relief-promote-relaxation-deep-sleep-for-cat-dog): Melatonin for Dogs - Dog Melatonin - Dog Melatonin for Small Dogs - Cat Melatonin -Cat Melatonin - Promote Relaxation & Deep Sleep for Cat & Dog
-  Updated: 2026-01-24T13:52:01Z
+  Updated: 2026-02-07T18:23:07Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/wbdsR3J6wVX7xZtu.webp?v=1769219372
   Price: $88.72 USD
 - [Universal Removable Pet Nest Mat in Animal Shape](https://ellis-store-9903.myshopify.com/products/universal-removable-pet-nest-mat-in-animal-shape): Transform your pet's resting experience with our Pet Nest Four Seasons Universal Removable Mat. Designed in an adorable animal shape, this cozy cat and teddy nest is perfect for pets who deserve a touch of luxury in their lives. Crafted from high-quality cloth, this versatile pet bed ensures maximum comfort for your furry friends. With dimensions of 39*15cm, it provides a snug fit for small pets, making it an ideal sanctuary for cats and small dogs alike. Choose between two elegant color options: Dark Gray and Milky White. Both colors are not only stylish but also blend seamlessly into any home decor, adding a sophisticated touch to your living space. The removable mat feature allows for easy cleaning, ensuring that your pet's nest remains fresh and hygienic throughout the seasons. The perfect combination of style, comfort, and practicality, this pet bed is a must-have for every pet owner. Explore the images below to see how this delightful pet bed can enhance your pet's comfort: Give your beloved pet the gift of comfort and style with the Pet Nest Four Seasons Universal Removable Mat. Order yours today and let your furry friend enjoy the ultimate relaxation experience!
-  Updated: 2026-01-25T02:08:00Z
+  Updated: 2026-02-07T18:25:28Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
@@ -2483,14 +2483,14 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/YeqaNTDEbWeU1Ggq.webp?v=1769219454
     Price: $62.35 USD
 - [MLB Philadelphia Phillies Two-Tone Lanyard with Detachable Buckle](https://ellis-store-9903.myshopify.com/products/mlb-philadelphia-phillies-two-tone-lanyard-with-detachable-buckle): DescriptionOfficially licensed Lanyards are available in variety of sizes and style but our most popular is has 1" width and a detachable buckle. These lanyards come in your favorite teams vibrant colors. Made in both China and the USA.
-  Updated: 2026-01-24T13:55:12Z
+  Updated: 2026-02-07T18:23:37Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/NxHbtCwYxqhSePrs.webp?v=1769219481
   Price: $55.85 USD
 - [Digital Tire Pressure Gauge](https://ellis-store-9903.myshopify.com/products/digital-tire-pressure-gauge): Introducing the ultimate Digital Tire Pressure Gauge for Cars and Motorcycles! This sleek and compact device not only enhances your vehicle's performance but also ensures your safety on the road. With precise measurements and digital display, checking your tire pressure has never been easier. Featuring a power output of 5W and a convenient size of 14*5.7*2.7 cm, this gauge is designed for both cars and motorcycles. Whether you're a car enthusiast or just someone who values safety, our tire pressure gauge is a must-have tool in your kit. Available in a variety of stunning colors including Silver, Red, Blue, Black, and Orange, you can choose the one that best suits your style. Each color option is crafted with high-quality materials, ensuring durability and reliability. Don't compromise on safety—monitor your tire pressure accurately and efficiently with our Digital Tire Pressure Gauge. It's lightweight at just 0.130 kg, making it easy to carry wherever you go. Upgrade your driving experience today and ensure that your tires are always in optimal condition!Note: The Bubble Shell Color Card variant is not boxed.
-  Updated: 2026-01-24T13:56:10Z
+  Updated: 2026-02-07T18:23:18Z
   Vendor: zendrop
   Product Type: auto tire pressure gauge
   Availability: Available
@@ -2552,14 +2552,14 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/vwep4reSI42YzCCN.webp?v=1769219746
     Price: $28.32 USD
 - [Grooming Cat Toy Arch](https://ellis-store-9903.myshopify.com/products/grooming-cat-toy-arch): Transform your feline's playtime into a pampering session with our innovative Cat Toy Arch Self Groomer. This all-in-one interactive toy doubles as a grooming tool, ensuring your cat stays entertained while getting the care they deserve.Designed with high-quality plastic and a luxurious high-end carpet, this grooming arch provides a delightful scratching experience that keeps your kitty engaged. Measuring approximately 35 x 28 x 35 cm, it's perfectly sized for cats of all ages and sizes. The robust chassis of 36 x 28.5 cm ensures stability during play.Let your cat indulge in their natural instincts with this multifunctional grooming toy. They can scratch, groom, and play all at once, reducing shedding and promoting a healthy coat. The Cat Toy Arch Self Groomer is the perfect addition to your pet's play area, offering endless fun and relaxation.Give your furry friend the ultimate pampering experience they deserve!
-  Updated: 2026-01-24T14:02:09Z
+  Updated: 2026-02-07T18:22:06Z
   Vendor: zendrop
   Product Type: Pet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/67e290b34b219e6bb04cadc888c4.png?v=1769220040
   Price: $33.29 USD
 - [Foldable Car Trash & Storage Box](https://ellis-store-9903.myshopify.com/products/foldable-car-trash-storage-box): Transform your vehicle's interior with our multi-functional car trash can and storage box. Designed specifically for convenience and organization, this stylish accessory hangs easily on your car door or the back of your seats, allowing you to keep your space clutter-free while adding a touch of elegance.Crafted from high-quality leather, this storage box measures approximately 20.5 * 14.5 * 4cm, making it the perfect size for all your essentials. Whether you're on a long road trip or just commuting to work, you can easily store snacks, drinks, and other items within reach.Choose from a variety of chic colors to match your car's interior: Black - sleek and versatile Mocha Brown - warm and inviting Saddle Brown - rustic charm Wine Red - bold and striking Beige - classic elegance Additionally, if you need a garbage bag to complement your storage box, simply contact customer service for assistance.Your vehicle deserves to look and feel its best. Upgrade your car decor and functionality with our car trash can and storage box today!
-  Updated: 2026-01-24T14:01:47Z
+  Updated: 2026-02-07T18:21:34Z
   Vendor: zendrop
   Product Type: garbage bag for auto
   Availability: Available
@@ -2585,7 +2585,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/tWu7pOASEVgPjpe4.webp?v=1769220123
     Price: $30.00 USD
 - [Mini Electronic Digital Food Scale](https://ellis-store-9903.myshopify.com/products/mini-electronic-digital-food-scale): Transform Your Cooking ExperienceIntroducing the perfect companion for every home chef: our Precision Kitchen Electronic Digital Mini Household Multifunctional Food Scales for Kitchen Use. Whether you're baking, cooking, or portioning, these scales are designed to make your culinary adventures effortless and precise.With a clear display that is easy to read, you can quickly and accurately measure your ingredients. Choose between two versatile options: Electronic Scales Without Pallets or Electronic Scales With Pallets, both capable of handling a measurement range from 1G to 5KG. No matter your choice, you'll appreciate the convenience these scales bring to your kitchen.Lightweight and compact, these scales are perfect for any kitchen size. Weighing only 0.24 kg for the version without pallets and 0.31 kg for the version with pallets, they are easy to store and transport.
-  Updated: 2026-01-24T14:02:35Z
+  Updated: 2026-02-07T18:21:11Z
   Vendor: zendrop
   Product Type: scale
   Availability: Available
@@ -2599,7 +2599,7 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
     Image: https://cdn.shopify.com/s/files/1/0710/2706/4992/files/YrmFNCmc0O5uLWTd.webp?v=1769220193
     Price: $29.99 USD
 - [Motorcycle Child Safety Belt](https://ellis-store-9903.myshopify.com/products/motorcycle-child-safety-belt): Ensure the safety of your little ones while enjoying the thrill of motorcycle rides with our Motorcycle Child Safety Belt Storage. This essential accessory is designed to keep your child secure and comfortable, allowing you to focus on the road ahead. Crafted from high-quality breathable cotton and linen, our safety belt offers a perfect blend of durability and comfort. Available in four vibrant colors—dark blue, dark red, light blue, and pink—you can choose the one that suits your child’s personality best. With a maximum load capacity of 50kg and an adjustable waist circumference ranging from 60cm to 110cm, this safety belt is designed to grow with your child, ensuring a snug fit every time. Each set includes one child safety belt, making it a simple yet effective solution for family outings.
-  Updated: 2026-01-25T00:59:59Z
+  Updated: 2026-02-07T18:25:14Z
   Vendor: zendrop
   Product Type: baby product
   Availability: Available
@@ -2630,8 +2630,8 @@ Ellis Store specializes in premium pet supplies for dogs and cats, including hig
   Updated: 2026-01-24T02:19:20Z
   Total Products: 31
 - [Animals & Pet Supplies](https://ellis-store-9903.myshopify.com/collections/animals-pet-supplies)
-  Updated: 2026-01-24T02:21:44Z
-  Total Products: 11
+  Updated: 2026-02-06T21:29:41Z
+  Total Products: 10
 - [Baby Safety](https://ellis-store-9903.myshopify.com/collections/baby-safety)
   Updated: 2026-01-19T20:49:12Z
   Total Products: 1
