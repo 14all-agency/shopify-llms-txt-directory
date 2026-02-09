@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-10-16T13:03:14Z
 - Contact Email: support@amorlune.de
-- Updated At: 2026-01-31T00:00:33.787Z
+- Updated At: 2026-02-09T00:00:37.050Z
 
 ## Products
 
@@ -54,7 +54,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/oraqle-bild-8-0.jpg?v=1769024006
   Price: 14,99 € EUR
 - [Amorlune | Schmuckbox mit ewiger Rose – Geschenk, Aufbewahrung, Deko](https://amorlune.com/products/eternal-bloom-rotierende-schmuckbox-ewige-rose): Eternal Bloom Schmuckbox – 360° drehbar mit ewiger Rose im Zentrum. Perfektes Geschenk für Jahrestage & Geburtstage. Wähle zwischen Preserved oder Soap Flower.
-  Updated: 2026-01-29T19:29:54Z
+  Updated: 2026-02-03T05:49:41Z
   Vendor: Amorlune
   Product Type: 
   Availability: Available
@@ -493,7 +493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/oraqle-bild-89-0_1_384ce957-32ab-497b-91ec-d58860adf0d2.jpg?v=1768919534
     Price: 49,99 € EUR
 - [Amorlune | Kuschelige Flanell-Decke für Frauen – Weiche Geschenkdecke](https://amorlune.com/products/flannel-blanket-for-wife-cozy-soft-gift-for-anniversaries): Schenke Geborgenheit – Die Flanell-Decke für deine Frau: Weich, warm & emotional. Das perfekte Geschenk für Ehefrau, Jubiläum oder Hochzeitstag!
-  Updated: 2026-01-29T19:29:57Z
+  Updated: 2026-02-08T14:33:39Z
   Vendor: Amorlune
   Product Type: 
   Availability: Available
@@ -1015,7 +1015,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Rosen-Geschenkbox-mit-Ich-liebe-Dich-Kette-Schmuckfach-Amorlune-Amorlune-66897335255377.jpg?v=1768840466
     Price: 34,99 € EUR
 - [Amorlune | Unikat Holzring mit Harz & Blumenmotiv – Natur Schmuck](https://amorlune.com/products/time-ring-resin-wood-ring): Entdecke den Timeless Ring: Einzigartiger Holzring mit Resin & floraler Eleganz. 96 Varianten, handgefertigt & individuell – jetzt bei Amorlune!
-  Updated: 2026-01-29T19:30:01Z
+  Updated: 2026-02-08T14:31:33Z
   Vendor: Amorlune
   Product Type: 
   Availability: Available
@@ -1023,205 +1023,205 @@
   - [Fire Blossom / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335656273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803192657.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Fire Blossom / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335918417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803192657.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Fire Blossom / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334280017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803192657.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Fire Blossom / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334247249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803192657.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Fire Blossom / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335820113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803192657.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Fire Blossom / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336672081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803192657.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Emerald Lake / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336541009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803225425.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Emerald Lake / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336246097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803225425.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Emerald Lake / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336442705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803225425.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Emerald Lake / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335459665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803225425.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Emerald Lake / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334148945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803225425.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Emerald Lake / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334607697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803225425.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Golden Dawn / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335263057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803258193.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Golden Dawn / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336934225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803258193.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Golden Dawn / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334673233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803258193.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Golden Dawn / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336016721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803258193.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Golden Dawn / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336147793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803258193.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Golden Dawn / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336803153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803258193.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Spring Meadow / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335787345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803290961.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Spring Meadow / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336377169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803290961.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Spring Meadow / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335328593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803290961.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Spring Meadow / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334542161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803290961.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Spring Meadow / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335852881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803290961.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Spring Meadow / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335557969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803290961.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Sunset Canyon / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334869841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803323729.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Sunset Canyon / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336770385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803323729.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Sunset Canyon / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334345553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803323729.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Sunset Canyon / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334738769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803323729.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Sunset Canyon / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336901457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803323729.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Sunset Canyon / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335033681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803323729.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Pink Blossom / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846333919569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803356497.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Pink Blossom / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335394129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803356497.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Pink Blossom / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846333854033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803356497.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Pink Blossom / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335099217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803356497.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Pink Blossom / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334050641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803356497.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Pink Blossom / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336704849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893803356497.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Skyline Gold / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336311633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802864977.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Skyline Gold / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336868689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802864977.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Skyline Gold / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334443857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802864977.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Skyline Gold / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334214481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802864977.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Skyline Gold / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336606545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802864977.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Skyline Gold / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335525201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802864977.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Mystic Forest / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334935377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802897745.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Mystic Forest / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334378321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802897745.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Mystic Forest / 54 (17.3 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334312785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802897745.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Mystic Forest / 57 (18.1 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335754577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802897745.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Mystic Forest / 59 (18.9 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334116177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802897745.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Mystic Forest / 62 (19.8 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846334476625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802897745.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Ivory Lotus / 49 (15.7 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846336475473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802930513.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
   - [Ivory Lotus / 52 (16.5 mm)](https://amorlune.com/products/time-ring-resin-wood-ring?variant=52846335164753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Timeless-Ring-Handgefertigter-Holzring-mit-Resin-floraler-Eleganz-96-Varianten-Unisex-Amorlune-Amorlune-66893802930513.jpg?v=1769186974
-    Price: 44,95 € EUR
+    Price: 29,99 € EUR
 - [Amorlune | Milk Flanell Kuscheldecke Uni, samtweich, 4 Jahreszeiten](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket): Samtweiche Milk Flanell Kuscheldecke im Uni-Design aus Polyester. In Pearl White, Mocha oder Silver Gray. Größen 70x95 bis 185x230 cm, ganzjährig nutzbar.
-  Updated: 2026-01-29T19:30:01Z
+  Updated: 2026-02-08T14:29:29Z
   Vendor: Amorlune
   Product Type: 
   Availability: Available
@@ -1229,7 +1229,7 @@
   - [Pearl White / 70 × 95 cm | 27.6 × 37.4 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255725393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Kdpvdn1mfUl8BoVN_96fe3b3c-9ddf-4cc2-b636-53a1ad582624.webp?v=1769036561
-    Price: 54,99 € EUR
+    Price: 44,99 € EUR
   - [Pearl White / 90 × 160 cm | 35.4 × 63.0 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255856465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Kdpvdn1mfUl8BoVN_96fe3b3c-9ddf-4cc2-b636-53a1ad582624.webp?v=1769036561
@@ -1237,11 +1237,11 @@
   - [Pearl White / 130 × 185 cm | 51.2 × 72.8 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255758161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Kdpvdn1mfUl8BoVN_96fe3b3c-9ddf-4cc2-b636-53a1ad582624.webp?v=1769036561
-    Price: 109,99 € EUR
+    Price: 99,99 € EUR
   - [Pearl White / 185 × 230 cm | 72.8 × 90.6 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255790929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Kdpvdn1mfUl8BoVN_96fe3b3c-9ddf-4cc2-b636-53a1ad582624.webp?v=1769036561
-    Price: 169,99 € EUR
+    Price: 139,99 € EUR
   - [Silver Gray / 90 × 160 cm | 35.4 × 63.0 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869256053073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Cg03gLwZGZ4Bfnvz.webp?v=1769036561
@@ -1249,15 +1249,15 @@
   - [Silver Gray / 130 × 185 cm | 51.2 × 72.8 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255823697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Cg03gLwZGZ4Bfnvz.webp?v=1769036561
-    Price: 109,99 € EUR
+    Price: 99,99 € EUR
   - [Silver Gray / 185 × 230 cm | 72.8 × 90.6 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255987537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Cg03gLwZGZ4Bfnvz.webp?v=1769036561
-    Price: 169,99 € EUR
+    Price: 139,99 € EUR
   - [Mocha / 70 × 95 cm | 27.6 × 37.4 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869256020305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/zHEUyk8PzmOAQCv2.webp?v=1769036561
-    Price: 54,99 € EUR
+    Price: 44,99 € EUR
   - [Mocha / 90 × 160 cm | 35.4 × 63.0 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255889233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/zHEUyk8PzmOAQCv2.webp?v=1769036561
@@ -1265,11 +1265,18 @@
   - [Mocha / 130 × 185 cm | 51.2 × 72.8 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255922001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/zHEUyk8PzmOAQCv2.webp?v=1769036561
-    Price: 109,99 € EUR
+    Price: 99,99 € EUR
   - [Mocha / 185 × 230 cm | 72.8 × 90.6 Zoll](https://amorlune.com/products/modern-simple-velvet-cover-blanket-milk-flannel-blanket?variant=52869255954769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/zHEUyk8PzmOAQCv2.webp?v=1769036561
-    Price: 169,99 € EUR
+    Price: 139,99 € EUR
+- [Amorlune | Valentine's Love Pendant Bottle, Romantischer Anhänger](https://amorlune.com/products/valentines-love-pendant-bottle): Überraschen Sie Ihre Liebste mit der Valentine's Love Pendant Bottle. Ein einzigartiger Charm, perfekt als romantisches Geschenk zum Valentinstag.
+  Updated: 2026-02-04T14:51:59Z
+  Vendor: Amorlune
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/oraqle-bild-21-0_1.jpg?v=1770126853
+  Price: 19,99 € EUR
 - [Luminous Love Box – Das leuchtende LED-Etui für den perfekten Moment](https://amorlune.com/products/luminous-love-box): Verschenke Magie! Diese elegante Schmuckbox beleuchtet Ringe & Ketten mit einem LED-Spotlight beim Öffnen. Der Wow-Effekt für Verlobungen & Geschenke.
   Updated: 2026-01-29T19:30:02Z
   Vendor: Amorlune
@@ -1324,108 +1331,152 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/ChatGPTImage28.Jan.2026_11_24_57.jpg?v=1769598901
     Price: 14,99 € EUR
+- [Amorlune | "Amors Pfeil" Rosen-Box, Romantisches Geschenk für Sie](https://amorlune.com/products/arrow-through-heart-rose-gift-box): Zeigen Sie Ihre Liebe mit der "Arrow through Heart" Geschenkbox. Elegantes Design mit Rose – ideal für Valentinstag & Jahrestage. Jetzt Freude schenken!
+  Updated: 2026-02-06T00:25:11Z
+  Vendor: Amorlune
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Eternal_Love_Beautifully_Preserved.jpg?v=1770295628
+  - [Pink](https://amorlune.com/products/arrow-through-heart-rose-gift-box?variant=52978346918225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Love_That_Lasts_Forever_Treasured.jpg?v=1770295628
+    Price: 34,99 € EUR
+  - [Rot](https://amorlune.com/products/arrow-through-heart-rose-gift-box?variant=52978346950993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Unveil_Eternal_Affection.jpg?v=1770295628
+    Price: 34,99 € EUR
+- [Edle Schmuckbox für Verlobungsringe & Geschenke](https://amorlune.com/products/proposal-necklace-gift-box): Hochwertige Geschenkbox für Schmuck (4,9x4,3x4,5 cm). Perfekt für Heiratsanträge und zur Aufbewahrung. Robustes Design.
+  Updated: 2026-02-07T01:45:12Z
+  Vendor: Amorlune
+  Product Type: Schmuckzubehör
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Eternal_Devotion_Beautifully_Boxed.jpg?v=1770387072
+  - [Rot](https://amorlune.com/products/proposal-necklace-gift-box?variant=52991524372817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Eternal_Devotion_Beautifully_Boxed_48ae234c-9bb9-45d3-a0e2-6a292307f178.jpg?v=1770387377
+    Price: 14,99 € EUR
+  - [Pink](https://amorlune.com/products/proposal-necklace-gift-box?variant=52991524405585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Your_Love_Eternally_Preserved.jpg?v=1770387377
+    Price: 14,99 € EUR
+  - [Dunkelblau](https://amorlune.com/products/proposal-necklace-gift-box?variant=52991524307281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Die_Ewige_Geste_der_Liebe.jpg?v=1770387377
+    Price: 14,99 € EUR
+  - [Hellblau](https://amorlune.com/products/proposal-necklace-gift-box?variant=52991524471121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Amorlune_Die_Liebe_Die_Ewig_Blueht.jpg?v=1770387377
+    Price: 14,99 € EUR
+  - [Grau](https://amorlune.com/products/proposal-necklace-gift-box?variant=52991524340049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Ein_Symbol_Ewiger_Liebe.jpg?v=1770387377
+    Price: 14,99 € EUR
+  - [Olivgrün](https://amorlune.com/products/proposal-necklace-gift-box?variant=52991524438353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/2875/0161/files/Luxus_der_ewig_blueht.jpg?v=1770387377
+    Price: 14,99 € EUR
 
 ## Collections
 
 - [Grußkarten – Stilvolle Karten für jeden Anlass | Amorlune](https://amorlune.com/collections/grusskarten): Entdecke liebevoll gestaltete Grußkarten: Persönliche Botschaften & stilvolle Designs für besondere Momente. Jetzt passende Karte bei Amorlune finden!
-  Updated: 2026-01-30T19:41:26Z
+  Updated: 2026-02-07T22:50:50Z
   Total Products: 2
 - [Rosenboxen – Exklusive Geschenkideen mit zeitloser Eleganz | Amorlune](https://amorlune.com/collections/rosenboxen-online-kaufen): Entdecke handverlesene Rosenboxen: Luxuriöse Designs, langlebige Rosen & stilvolle Geschenkideen. Jetzt inspirieren lassen und unvergessliche Momente schenken!
-  Updated: 2026-01-30T19:41:00Z
-  Total Products: 13
+  Updated: 2026-02-07T22:48:13Z
+  Total Products: 14
 - [Geschenk-Extras: Liebevolle Kleinigkeiten für unvergessliche Momente](https://amorlune.com/collections/geschenk-extras): Entdecke liebevolle Geschenk-Extras: Kleine Aufmerksamkeiten, Deko & romantische Details – perfekt als Ergänzung zu unseren Rosenboxen.
-  Updated: 2026-01-29T19:29:53Z
-  Total Products: 4
+  Updated: 2026-02-03T13:37:36Z
+  Total Products: 5
 - [Bestseller: Entdecken Sie Qualität & Innovation auf einen Blick!](https://amorlune.com/collections/bestseller): Entdecken Sie unsere Bestseller: Handverlesene Produkte vereinen Qualität & Innovation. Finden Sie Ihre Favoriten und vertrauen Sie auf bewährte
-  Updated: 2026-01-30T19:22:04Z
-  Total Products: 28
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 31
 - [Alle Produkte – Exklusive Geschenkideen & stilvolle Auswahl | Amorlune](https://amorlune.com/collections/alle-produkte): Alle Produkte: Schmuck, Rosenboxen & Geschenkideen für jeden Anlass. Jetzt entdecken und das perfekte Präsent bei Amorlune finden!
-  Updated: 2026-01-30T19:39:56Z
-  Total Products: 35
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 38
 - [Valentinstag Geschenke – Romantische Geschenkideen für Sie & Ihn](https://amorlune.com/collections/valentinstag-geschenke): Finde besondere Valentinstag Geschenke: Rosenboxen, Schmuck & kreative Ideen. Jetzt inspirieren lassen und Liebe schenken, die von Herzen kommt!
-  Updated: 2026-01-29T19:29:53Z
-  Total Products: 35
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 38
 - [Jahrestag Geschenke – Romantische Geschenkideen für Paare | Amorlune](https://amorlune.com/collections/jahrestag-geschenke): Finde besondere Jahrestag Geschenke: Rosenboxen, personalisierter Schmuck & kreative Ideen. Jetzt inspirieren lassen und Liebe stilvoll feiern!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 29
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 31
 - [Geschenke für Paare – Besondere Geschenkideen für gemeinsame Momente](https://amorlune.com/collections/geschenke-fuer-paare): Finde besondere Geschenke für Paare: Romantische Geschenksets, Rosenboxen & mehr. Jetzt inspirieren lassen und Liebe stilvoll feiern!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 26
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 27
 - [Geburtstag Geschenke | Romantische Rosenboxen | Amorlune](https://amorlune.com/collections/geburtstag-geschenke): Besondere Geburtstag Geschenke ❤️ Handgefertigte Rosenboxen & romantische Geschenkideen für Freundin, Freund & Liebsten. Unvergesslich. Versandkostenfrei!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 30
+  Updated: 2026-02-08T14:27:26Z
+  Total Products: 32
 - [Weihnachtsgeschenke – Besondere Geschenkideen für Weihnachten](https://amorlune.com/collections/weihnachtsgeschenke): Finde einzigartige Weihnachtsgeschenke: Rosenboxen, Schmuck & kreative Sets. Jetzt inspirieren lassen und festliche Freude verschenken!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 35
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 38
 - [Verlobungsgeschenke – Besondere Geschenkideen zur Verlobung | Amorlune](https://amorlune.com/collections/verlobungsgeschenke): Finde stilvolle Verlobungsgeschenke: Schmuck, exklusive Geschenksets & kreative Ideen. Jetzt inspirieren lassen und Liebe gebührend feiern!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 35
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 38
 - [Romantische Geschenksets | Rosenboxen & Mehr | Amorlune](https://amorlune.com/collections/romantische-geschenksets): Romantische Geschenksets ❤️ Handgefertigte Rosenboxen kombiniert mit Grußkarten & mehr. Perfekte Geschenkkombinationen für besondere Momente. Versandkostenfrei!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 25
+  Updated: 2026-02-05T12:48:12Z
+  Total Products: 26
 - [Geschenke unter 50€ | Romantische Rosenboxen | Amorlune](https://amorlune.com/collections/geschenke-unter-50-euro): Romantische Geschenke unter 50€ ❤️ Handgefertigte Rosenboxen & Geschenkideen zu erschwinglichen Preisen. Qualität muss nicht teuer sein. Versandkostenfrei!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 25
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 27
 - [Premium Geschenke | Luxus Rosenboxen | Amorlune](https://amorlune.com/collections/premium-geschenke): Exklusive Premium Geschenke ❤️ Luxuriöse handgefertigte Rosenboxen & edle Geschenkideen für höchste Ansprüche. Außergewöhnliche Qualität. Versandkostenfrei!
-  Updated: 2026-01-29T19:29:54Z
+  Updated: 2026-02-08T14:31:34Z
   Total Products: 25
 - [Halsketten – Stilvolle Schmuckstücke & elegante Geschenkideen](https://amorlune.com/collections/halsketten): Entdecke Halsketten aus hochwertigen Materialien: Zeitloses Design, perfekte Geschenkidee für besondere Anlässe. Jetzt inspirieren lassen und Freude schenken!
-  Updated: 2026-01-30T19:39:38Z
-  Total Products: 6
+  Updated: 2026-02-07T22:49:54Z
+  Total Products: 7
 - [Armbänder – Stilvolle Schmuckstücke & Geschenke online kaufen](https://amorlune.com/collections/armbander): Entdecke elegante Armbänder für jeden Anlass: Hochwertig, stilvoll & liebevoll verpackt. Jetzt besondere Schmuckstücke bei Amorlune finden!
-  Updated: 2026-01-30T19:39:15Z
-  Total Products: 5
+  Updated: 2026-02-07T22:49:28Z
+  Total Products: 6
 - [Kuscheldecken – Weiche & hochwertige Decken zum Wohlfühlen | Amorlune](https://amorlune.com/collections/blankets): Entdecke kuschelige Decken für jeden Anlass – stilvoll, weich & hochwertig. Perfekt zum Verschenken, Kuscheln & Wohlfühlen. Jetzt bei Amorlune!
-  Updated: 2026-01-30T19:40:39Z
+  Updated: 2026-02-08T14:27:26Z
   Total Products: 4
 - [Herrenringe Kollektion – Stilvolle Ringe für Männer online kaufen](https://amorlune.com/collections/herrenringe): Entdecke hochwertige Herrenringe: Wolfram, Schwarz, Bicolor & Statement-Ringe. Modernes Design, langlebig & als Geschenk ideal. Jetzt online bestellen!
-  Updated: 2026-01-29T19:29:54Z
+  Updated: 2026-02-08T14:31:34Z
   Total Products: 2
 - [Ringe für Damen & Herren – Große Auswahl online entdecken](https://amorlune.com/collections/ringe): Entdecke stilvolle Ringe für Frauen & Männer: Klassiker, Statement- & Partnerringe. Hochwertige Materialien & Designs. Jetzt online bestellen!
-  Updated: 2026-01-30T19:40:18Z
+  Updated: 2026-02-08T14:31:34Z
   Total Products: 3
 - [Geschenke & Schmuck für Männer – Stilvolle Auswahl online](https://amorlune.com/collections/for-men): Entdecke Ringe, Schmuck & Accessoires für Männer: Hochwertige Designs, perfekte Geschenkideen & trendige Highlights. Jetzt online für Männer shoppen!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 10
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 11
 - [Schmuck & Geschenke für Frauen – Elegante Auswahl online](https://amorlune.com/collections/for-woman): Entdecke Ringe, Schmuck & Geschenkideen für Frauen: Hochwertige Designs, feminine Highlights & besondere Accessoires. Jetzt online für Frauen shoppen!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 29
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 32
 - [Geschenke für Mama – Besondere Geschenkideen für Mütter | Amorlune](https://amorlune.com/collections/geschenke-fur-mama): Entdecke liebevolle Geschenke für Mama: Handgemachte Rosenboxen, Schmuck & mehr. Jetzt inspirieren lassen & das perfekte Präsent für deine Mutter finden!
-  Updated: 2026-01-29T19:29:54Z
-  Total Products: 30
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 32
 - [Geschenke für Papa – Ausgefallene Geschenkideen für Väter | Amorlune](https://amorlune.com/collections/geschenke-fuer-papa): Entdecke besondere Geschenke für Papa: Hochwertige Accessoires, Schmuck & mehr. Jetzt inspirieren lassen und das ideale Geschenk für deinen Vater finden!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 11
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 12
 - [Geschenke für Freundin – Romantische Geschenkideen für sie | Amorlune](https://amorlune.com/collections/geschenke-fur-freundin): Finde besondere Geschenke für deine Freundin: Romantische Rosenboxen, Schmuck & mehr. Jetzt inspirieren lassen und Liebe schenken, die bleibt!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 36
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 39
 - [Geschenke für Freund – Persönliche Geschenkideen für ihn | Amorlune](https://amorlune.com/collections/geschenke-fuer-freund): Entdecke besondere Geschenke für deinen Freund: Stilvolle Accessoires, Schmuck & mehr. Jetzt inspirieren lassen und einzigartige Überraschungen für ihn finden!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 11
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 12
 - [Geschenke für Tochter – Liebevolle Geschenkideen für sie | Amorlune](https://amorlune.com/collections/geschenke-fuer-tochter): Finde besondere Geschenke für deine Tochter: Schmuck, Geschenksets & mehr. Jetzt inspirieren lassen und unvergessliche Überraschungen für sie entdecken!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 34
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 35
 - [Geschenke für Sohn – Kreative Geschenkideen für ihn | Amorlune](https://amorlune.com/collections/geschenke-fuer-sohn): Entdecke besondere Geschenke für deinen Sohn: Coole Accessoires, Schmuck & mehr. Jetzt inspirieren lassen und persönliche Überraschungen für ihn finden!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 13
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 14
 - [Geschenke für Oma – Herzliche Geschenkideen für Großmütter | Amorlune](https://amorlune.com/collections/geschenke-fuer-oma): Finde liebevolle Geschenke für Oma: Schmuck, Rosenboxen & mehr. Jetzt inspirieren lassen und besondere Überraschungen für Großmütter entdecken!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 31
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 32
 - [Geschenke für Opa – Besondere Geschenkideen für Großväter | Amorlune](https://amorlune.com/collections/geschenke-fuer-opa): Entdecke besondere Geschenke für Opa: Stilvolle Accessoires, Schmuck & mehr. Jetzt inspirieren lassen und persönliche Überraschungen für Großväter finden!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 12
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 13
 - [Geschenke für Väter – Einzigartige Geschenkideen für ihn | Amorlune](https://amorlune.com/collections/geschenke-fuer-vaeter): Finde besondere Geschenke für Väter: Stilvolle Accessoires, Schmuck & mehr. Jetzt inspirieren lassen und persönliche Präsente für deinen Vater entdecken!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 12
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 13
 - [Geschenke für Eltern – Besondere Geschenkideen für Paare | Amorlune](https://amorlune.com/collections/geschenke-fuer-eltern): Entdecke liebevolle Geschenke für Eltern: Exklusive Geschenksets, Accessoires & mehr. Jetzt inspirieren lassen und gemeinsame Freude verschenken!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 40
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 41
 - [Neuheiten bei Amorlune | Neue Schmuck-Trends & Geschenkideen](https://amorlune.com/collections/neuheiten): Entdecke die neuesten Kollektionen bei Amorlune. Exklusiver Schmuck, ewige Rosen und einzigartige Geschenke für jeden Anlass. Jetzt als Erster die Neuheiten shoppen!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 11
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 12
 - [ % | Reduzierter Schmuck & Geschenke günstig kaufen | Amorlune](https://amorlune.com/collections/): Sichere dir exklusive Angebote im Amorlune . Wunderschöne Halsketten, Rosenboxen und Geschenksets zu stark reduzierten Preisen. Nur solange der Vorrat reicht!
-  Updated: 2026-01-29T19:29:55Z
-  Total Products: 49
+  Updated: 2026-02-08T14:31:34Z
+  Total Products: 53
 
 ## Blogs
 
@@ -1843,6 +1894,78 @@
     Updated: 2026-01-30T04:25:32Z
     Author: Dennis Schröder
     Tags: warum luxus beim schenken zählt
+  - [How to Package Sentimental Gifts for Memorable Occasions](https://amorlune.com/blogs/news/how-to-package-sentimental-gifts): Discover how to package sentimental gifts with a clear step-by-step process. Ensure elegant presentation and emotional impact for memorable celebrations.
+    Updated: 2026-01-31T06:27:41Z
+    Author: Dennis Schröder
+    Tags: how to package sentimental gifts
+  - [Warum Schmuck als Geschenk besondere Beziehungen stärkt](https://amorlune.com/blogs/news/warum-schmuck-als-geschenk-besondere-beziehungen): Warum Schmuck als Geschenk tiefe Emotionen, symbolische Bedeutung und persönliche Erinnerungen schafft. Tipps zu Auswahl, Anlässen &amp; Risiken.
+    Updated: 2026-01-31T06:28:18Z
+    Author: Dennis Schröder
+    Tags: warum schmuck als geschenk
+  - [Bedeutung personalisierter Geschenke für Paare](https://amorlune.com/blogs/news/bedeutung-personalisierte-geschenke-paare): Bedeutung personalisierter Geschenke: Erfahren Sie, warum individuelle Präsente für Paare emotionale Bindung stärken und wie Auswahl und Gestaltung wirken.
+    Updated: 2026-02-01T06:21:16Z
+    Author: Dennis Schröder
+    Tags: bedeutung personalisierte geschenke
+  - [How to Present Eternal Roses for a Romantic Surprise](https://amorlune.com/blogs/news/how-to-present-eternal-roses-romantic-surprise): Learn how to present eternal roses with step-by-step guidance, creating an elegant, memorable romantic gift experience for anniversaries and special occasions.
+    Updated: 2026-02-01T06:21:36Z
+    Author: Dennis Schröder
+    Tags: how to present eternal roses
+  - [Was ist Event-Geschenkbox? Emotionale Momente schenken](https://amorlune.com/blogs/news/was-ist-event-geschenkbox): Event-Geschenkbox erklärt: Definition, romantische Arten, individuelle Gestaltung und Vorteile. Entdecken Sie exklusive, persönliche Geschenkideen für besondere Anlässe.
+    Updated: 2026-02-02T07:54:06Z
+    Author: Dennis Schröder
+    Tags: was ist event-geschenkbox
+  - [7 Elegant Decorative Gift Packaging Tips for Romantic Gifts](https://amorlune.com/blogs/news/elegant-decorative-gift-packaging-tips-romantic-gifts): Discover 7 decorative gift packaging tips designed for romantic gifts like roses and jewelry. Learn how to elevate your gift with creative, elegant ideas.
+    Updated: 2026-02-02T07:54:14Z
+    Author: Dennis Schröder
+    Tags: decorative gift packaging tips
+  - [Bedeutung von Jubiläumsgeschenken für Paare](https://amorlune.com/blogs/news/bedeutung-jubilaeumsgeschenke-paare): Bedeutung von Jubiläumsgeschenken, emotionale Wirkung, traditionelle und moderne Varianten und häufige Fehler beim Schenken – alle Aspekte für Paare.
+    Updated: 2026-02-03T11:22:31Z
+    Author: Dennis Schröder
+    Tags: bedeutung von jubiläumsgeschenken
+  - [7 Types of Decorative Gifts for Romantic Couples](https://amorlune.com/blogs/news/types-of-decorative-gifts-for-romantic-couples): Discover 7 types of decorative gifts for romantic couples. Learn how each gift type enhances sentimental value and premium craftsmanship for special occasions.
+    Updated: 2026-02-03T11:24:16Z
+    Author: Dennis Schröder
+    Tags: types of decorative gifts
+  - [Geschenkideen für Valentinstag 2026: Unvergessliche Momente schenken](https://amorlune.com/blogs/news/geschenkideen-fuer-valentinstag-2026): Entdecken Sie Schritt für Schritt die besten geschenkideen für valentinstag 2026, wählen Sie persönliche Highlights und überraschen Sie Ihren Partner kreativ.
+    Updated: 2026-02-04T07:57:00Z
+    Author: Dennis Schröder
+    Tags: geschenkideen für valentinstag 2026
+  - [Top 7 Best Romantic Gift Ideas for Couples in 2026](https://amorlune.com/blogs/news/best-romantic-gift-ideas-for-couples-7): Discover the 7 best romantic gift ideas for couples, comparing unique options to enhance your special moments and deepen your emotional connection.
+    Updated: 2026-02-04T07:58:19Z
+    Author: Dennis Schröder
+    Tags: best romantic gift ideas for couples
+  - [How to Plan for Valentine’s Gifts: A Romantic Guide](https://amorlune.com/blogs/news/how-to-plan-for-valentines-gifts): Learn how to plan for Valentine’s gifts with this step-by-step guide. Discover the best techniques to select, personalize, and present meaningful romantic gifts.
+    Updated: 2026-02-05T08:23:53Z
+    Author: Dennis Schröder
+    Tags: how to plan for valentine’s gifts
+  - [Luxusgeschenke Trends 2026: Die neue Romantik](https://amorlune.com/blogs/news/luxusgeschenke-trends-2026-romantik): Luxusgeschenke Trends 2026: Entdecken Sie Design, Personalisierung und Erlebnisgeschenke. Erfahren Sie, was romantische Präsente besonders macht.
+    Updated: 2026-02-05T08:24:44Z
+    Author: Dennis Schröder
+    Tags: luxusgeschenke trends 2026
+  - [How to Curate Romantic Gift Selection for Memorable Occasions](https://amorlune.com/blogs/news/how-to-curate-romantic-gift-selection): Learn how to curate romantic gift selection step by step, ensuring every present is elegant, heartfelt, and perfectly matched for special celebrations.
+    Updated: 2026-02-06T03:52:50Z
+    Author: Dennis Schröder
+    Tags: en, how to curate romantic gift selection
+  - [Warum Seifenrosen als Geschenk Emotionen wecken](https://amorlune.com/blogs/news/warum-seifenrosen-als-geschenk): Seifenrosen als Geschenk verbinden Luxus, Symbolik und Nutzen. Definition, Arten, Vorteile und ideale Anlässe werden ausführlich beleuchtet.
+    Updated: 2026-02-06T03:56:55Z
+    Author: Dennis Schröder
+    Tags: de, warum seifenrosen als geschenk
+  - [Why Give Preserved Roses: Lasting Impact Matters](https://amorlune.com/blogs/news/why-give-preserved-roses-impact): Why give preserved roses? Explore their emotional value, unique types, enduring beauty, maintenance tips, eco benefits, and how they compare to fresh roses.
+    Updated: 2026-02-07T07:53:56Z
+    Author: Dennis Schröder
+    Tags: en, why give preserved roses
+  - [7 Schritte Checkliste romantische Geschenke mit Luxusfaktor](https://amorlune.com/blogs/news/7-schritte-checkliste-romantische-geschenke-mit-luxusfaktor): Entdecken Sie unsere 7-Schritte-Checkliste romantische Geschenke und finden Sie luxuriöse, emotionale Geschenkideen für unvergessliche Anlässe.
+    Updated: 2026-02-07T07:57:16Z
+    Author: Dennis Schröder
+    Tags: checkliste romantische geschenke, de
+  - [Luxus für Alltagsschenken – Das neue Zeichen echter Wertschätzung](https://amorlune.com/blogs/news/luxus-fuer-alltagsschenken-bedeutung): Luxus für Alltagsschenken bedeutet emotionale Wertschätzung, langlebige Qualität und bewusstes Schenken. Trends, Alternativen und Fallstricke erklärt.
+    Updated: 2026-02-08T07:35:30Z
+    Author: Dennis Schröder
+    Tags: de, warum luxus für alltagsschenken
+  - [7 Romantic Anniversary Gift Ideas for Couples](https://amorlune.com/blogs/news/7-romantic-anniversary-gift-ideas-for-couples): Discover 7 romantic anniversary gift ideas for couples to create lasting memories. Find practical tips on choosing meaningful, high-quality presents.
+    Updated: 2026-02-08T07:38:02Z
+    Author: Dennis Schröder
+    Tags: anniversary gift ideas, en
 
 ## Store Pages
 
@@ -1861,7 +1984,7 @@
 - [html sitemap](https://amorlune.com/pages/html-sitemap): Products Drehbare Rosen-Schmuckbox mit ... Handgemachte Trockenblumen-Gru... Handgemachte Trockenblumen-Gru... Handgemachte Trockenblumen-Gru... Ha...
   Updated: 2025-10-28T11:48:33Z
 - [Über uns - Lernen Sie unser Team kennen](https://amorlune.com/pages/uber-uns): Amorlune ist eine kleine Marke für handverlesene, romantische Geschenke, die echte Emotionen wecken und besondere Momente unvergesslich machen. Hin...
-  Updated: 2026-01-18T19:01:52Z
+  Updated: 2026-02-07T23:13:50Z
 - [FAQ zu Amorlune | Häufige Fragen zu unseren Rosenboxen](https://amorlune.com/pages/faq-1): FAQ-Seite – AmorluneUnsere FAQ-Seite bietet Ihnen einen umfassenden Überblick über die wichtigsten Fragen und Antworten rund um Amorlune, unsere Pr...
   Updated: 2025-12-06T13:31:52Z
 - [Unsere Geschichte | Wie Amorlune und die Rosenboxen entstanden sind](https://amorlune.com/pages/unsere-geschichte): 
@@ -1878,19 +2001,19 @@
   Updated: 2025-12-06T20:13:06Z
 - [Bundles](https://amorlune.com/pages/fastbundles)
   Updated: 2025-12-16T16:11:20Z
-- [Amorlune Rabattcode Januar 2026: Spare bis zu -10%](https://amorlune.com/pages/rabatt): Die besten Amorlune-Rabatte gibt’s nur hier!
-  Updated: 2026-01-15T20:01:35Z
+- [Amorlune Rabattcode Februar 2026: Spare bis zu -30%](https://amorlune.com/pages/rabatt): Die besten Amorlune-Rabatte gibt’s nur hier!
+  Updated: 2026-02-03T15:39:25Z
 
 ## Policies
 
 - [Privacy Policy](https://amorlune.com/policies/privacy-policy)
-  Updated: 2026-01-30T03:48:16+01:00
+  Updated: 2026-02-07T04:08:13+01:00
 - [Shipping Policy](https://amorlune.com/policies/shipping-policy)
   Updated: 2025-12-13T21:40:46+01:00
 - [Refund Policy](https://amorlune.com/policies/refund-policy)
-  Updated: 2026-01-27T00:14:09+01:00
+  Updated: 2026-02-03T06:01:46+01:00
 - [Terms of Service](https://amorlune.com/policies/terms-of-service)
-  Updated: 2026-01-27T00:03:02+01:00
+  Updated: 2026-02-07T04:07:35+01:00
 - [Contact Information](https://amorlune.com/policies/contact-information)
   Updated: 2025-11-27T15:13:39+01:00
 
