@@ -5,33 +5,33 @@
 - Currency: ZAR
 - Timezone: Africa/Johannesburg
 - Created At: 2026-01-26T15:44:08Z
-- Updated At: 2026-02-01T19:19:42.715Z
+- Updated At: 2026-02-09T00:00:26.612Z
 
 ## Products
 
 - [Store Design Blueprint - Shopify Store Design Guide PDF](https://storeprint-2.myshopify.com/products/store-design-blueprint-3): Professional Shopify store design blueprint with custom theme layout,  structure, product page guide, and branding recommendations. Perfect for DIY builders.
-  Updated: 2026-02-01T19:03:13Z
+  Updated: 2026-02-02T07:03:19Z
   Vendor: StorePrint
   Product Type: Digital Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0744/3650/9859/files/storeprint.jpg?v=1769530764
   Price: R 99.00 ZAR
 - [Launch-Ready Store](https://storeprint-2.myshopify.com/products/launch-ready-store): What you get:✔ Fully built Shopify store✔ Custom clean design✔ 5-6 hand-picked products✔ Collections created✔ Payment gateway setup✔ Mobile-optimized layout✔ Basic policies added Perfect for:Beginners who want to start immediately. ⏱ Delivery: 48–72 hours Badge: ⭐ Most Popular Launch faster.  sooner.
-  Updated: 2026-02-01T19:05:40Z
+  Updated: 2026-02-02T07:05:58Z
   Vendor: StorePrint
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0744/3650/9859/files/storeprint_0052fe67-60ee-4ba6-a5c6-31ed5c89daac.jpg?v=1769530845
   Price: R 199.00 ZAR
 - [PRO SELLER STORE](https://storeprint-2.myshopify.com/products/pro-seller-store): What you get:✔ Everything in Launch-Ready✔ Premium theme customization✔ 7-12 researched products✔ High-conversion  sections✔ Optimized product pages✔ Store speed optimization Perfect for:People planning to run ads or scale. ⏱ Delivery: 72 hours Badge: 💎 Best Value Designed to , not just look good.
-  Updated: 2026-02-01T19:06:13Z
+  Updated: 2026-02-02T07:05:21Z
   Vendor: StorePrint
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0744/3650/9859/files/storeprint_f0982e80-ff8d-458e-986b-3c1e3062e8a0.jpg?v=1769530905
   Price: R 349.00 ZAR
 - [ELITE BRAND STORE](https://storeprint-2.myshopify.com/products/elite-brand-store): 👑 Your online brand, fully built What you get:✔ Fully branded custom design✔ Logo & color integration✔ 20 hand-picked products✔ Advanced  layout✔ Upsell & cross- setup✔ Full store handover + support Perfect for:Entrepreneurs who want a serious online business. ⏱ Delivery: 3–5 days Badge: 👑 Premium A store that feels like a real brand.
-  Updated: 2026-02-01T19:06:42Z
+  Updated: 2026-02-02T06:59:56Z
   Vendor: StorePrint
   Product Type: 
   Availability: Available
