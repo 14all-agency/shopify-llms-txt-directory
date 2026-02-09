@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-30T20:41:57Z
 - Contact Email: emesonvintageonline@gmail.com
-- Updated At: 2026-02-01T00:00:36.980Z
+- Updated At: 2026-02-09T00:00:40.088Z
 
 ## Products
 
@@ -367,7 +367,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Mynd Belt](https://emesonvintageonline.com/products/mynd-belt): Leather belt Reversible metal buckle Engraved Mynd logo Waist size 28-30: 105cm Waist size 32-36: 115cm Waist size 36+: 125cm
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-07T13:42:45Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
@@ -382,7 +382,7 @@
     Availability: Available
     Price: $22.00 USD
 - [Mynd Lighter T-Shirt](https://emesonvintageonline.com/products/mynd-lighter-t-shirt): Oversized heavyweight cotton T-shirt. Embroidered front print. Large back Print. Custom neck tag. Size Chart (Centimeters) Size Length Shoulder Sleeve Height S 68 58 55 165 M 70 60 56 168 L 72 62 57 173 XL 74.5 64 58 177.5 Size Chart (Inches) Size Length Shoulder Sleeve Height S 26.8 22.8 21.7 65 M 27.6 23.6 22 66.1 L 28.3 24.4 22.4 68.1 XL 29.3 25.2 22.8 69.9
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-06T00:55:51Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
@@ -400,19 +400,19 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Mynd Rock Baggy Denim Pants](https://emesonvintageonline.com/products/mynd-rock-baggy-denim-pants): Baggy denim pants. Large front print, embroidered pocket design, custom tag. Heavyweight denim, with white stitching. Size Chart (Inches) Size 1/2 Waist Inseam 1/2 Leg opening 30 15.1 28.5 10.3 32 16.1 28.7 10.6 34 17.5 28.9 10.9 36 18.3 29.1 11.1 38 19.1 29.3 11.3 Size Chart (Centimeters) Size 1/2 Waist Inseam 1/2 Leg opening 30 38.4 72.4 26.2 32 41 73 27 34 44.5 73.5 27.6 36 46.5 74 28.2 38 48.5 74.5 28.8
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-06T00:53:21Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/187E4668774CB906D8518366D38C6D28-removebg-preview.png?v=1764308644
   - [30](https://emesonvintageonline.com/products/mynd-rock-baggy-denim-pants?variant=51324109422894)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [32](https://emesonvintageonline.com/products/mynd-rock-baggy-denim-pants?variant=51324109455662)
     Availability: Not Available
     Price: $70.00 USD
   - [34](https://emesonvintageonline.com/products/mynd-rock-baggy-denim-pants?variant=51324109488430)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [36](https://emesonvintageonline.com/products/mynd-rock-baggy-denim-pants?variant=51324109521198)
     Availability: Available
@@ -421,7 +421,7 @@
     Availability: Available
     Price: $70.00 USD
 - [Purple Mynd Bubble Beanie](https://emesonvintageonline.com/products/purple-mynd-bubble-beanie): One embroidery location. One size fits all. 100% cotton.
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-06T01:26:16Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
@@ -446,28 +446,28 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Open Your Eyes T-Shirt](https://emesonvintageonline.com/products/open-your-eyes-t-shirt): Oversized heavyweight cotton T-shirt. Embroidered front print. Large back Print. Custom neck tag. Size Chart (Centimeters) Size Length Shoulder Sleeve Height S 68 58 55 165 M 70 60 56 168 L 72 62 57 173 XL 74.5 64 58 177.5 Size Chart (Inches) Size Length Shoulder Sleeve Height S 26.8 22.8 21.7 65 M 27.6 23.6 22 66.1 L 28.3 24.4 22.4 68.1 XL 29.3 25.2 22.8 69.9
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-07T19:28:15Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/Remove-bg.ai_1703839372231.png?v=1764308645
   - [Small / Sand](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110176558)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [Small / Black](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110209326)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [Medium / Sand](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110242094)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [Medium / Black](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110274862)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [Large / Sand](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110307630)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [Large / Black](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110340398)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [XL / Sand](https://emesonvintageonline.com/products/open-your-eyes-t-shirt?variant=51324110373166)
     Availability: Available
@@ -482,7 +482,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mynd Flame Zipup Hoodie](https://emesonvintageonline.com/products/mynd-flame-zipup-hoodie): Materials: Front embroidery 425 gsm Size Chart (Inches) Size 1/2 Chest Sleeves Shoulder Body Length S 20.7 23.8 22.4 26.4 M 21.7 24.4 23.2 27.2 L 22.6 25 24 28 XL 23.6 25.6 24.8 28.7 Size Chart (Centimeters) Size 1/2 Chest Sleeves Shoulder Body Length S 52.5 60.5 57 67 M 55 62 59 69 L 57.5 63.5 61 71 XL 60 65 63 73
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-05T14:44:40Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
@@ -500,7 +500,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Myndskape Baggy Denim Shorts](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts): PREORDERS WILL SHIP THIS MONTH!! Materials 100% Cotton 435gsm 3 Embroideries Size Chart (Inches) Waist Length Leg Opening 28 22 22 30 24 23 32 26 24 34 28 25 36 30 26 38 32 27 40 34 28 Size Chart (Centimeters) Waist Length Leg Opening 71.12 55.88 55.88 76.2 60.96 58.42 81.28 66.04 60.96 86.36 71.12 63.5 91.44 76.2 66.04 96.52 81.28 68.58 101.6 86.36 71.12
-  Updated: 2026-01-31T03:41:14Z
+  Updated: 2026-02-08T03:28:31Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
@@ -524,16 +524,16 @@
     Availability: Available
     Price: $50.00 USD
   - [32 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324110930222)
-    Availability: Not Available
+    Availability: Available
     Price: $50.00 USD
   - [32 / Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324110962990)
-    Availability: Not Available
+    Availability: Available
     Price: $50.00 USD
   - [32 / Light Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324110995758)
     Availability: Available
     Price: $50.00 USD
   - [34 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324111028526)
-    Availability: Not Available
+    Availability: Available
     Price: $50.00 USD
   - [34 / Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324111061294)
     Availability: Available
@@ -542,7 +542,7 @@
     Availability: Available
     Price: $50.00 USD
   - [36 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324111126830)
-    Availability: Not Available
+    Availability: Available
     Price: $50.00 USD
   - [36 / Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324111159598)
     Availability: Available
@@ -551,7 +551,7 @@
     Availability: Available
     Price: $50.00 USD
   - [38 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324111225134)
-    Availability: Not Available
+    Availability: Available
     Price: $50.00 USD
   - [38 / Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-shorts?variant=51324111257902)
     Availability: Available
@@ -569,22 +569,22 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Myndskape Baggy Denim Pants](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants): Materials 100% Cotton 380gsm 3 Embroideries Size Chart (Inches) Waist Front Crotch Inner Leg Length 1/2 Leg Opening 28 12.2 27.6 29 9.2 30 12.6 28 29.6 9.4 32 13 28.7 31.2 9.6 34 13 29.1 31.6 9.8 36 13.6 30.3 32.9 10 38 13.7 31.1 33.8 10.2 40 13.8 31.9 34.7 10.4 Size Chart (Centimeters) Waist Front Crotch Inner Leg Length 1/2 Leg Opening 71.1 31 70.1 73.7 23.4 76.2 32 71.1 75.2 23.9 81.3 33 72.9 79.2 24.4 86.4 33 73.9 80.3 24.9 91.4 34.5 77 83.6 25.4 96.5 34.8 79 85.9 25.9 101.6 35.1 81 88.1 26.4
-  Updated: 2026-01-31T20:25:33Z
+  Updated: 2026-02-06T17:27:11Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/Remove-bg.ai_1703839408846.png?v=1764308644
   - [28 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324111814958)
-    Availability: Not Available
+    Availability: Available
     Price: $67.50 USD
   - [28 / Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324111847726)
-    Availability: Not Available
+    Availability: Available
     Price: $67.50 USD
   - [28 / Light Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324111880494)
-    Availability: Not Available
+    Availability: Available
     Price: $67.50 USD
   - [30 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324111913262)
-    Availability: Not Available
+    Availability: Available
     Price: $67.50 USD
   - [30 / Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324111946030)
     Availability: Not Available
@@ -617,7 +617,7 @@
     Availability: Not Available
     Price: $67.50 USD
   - [36 / Light Blue](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324112273710)
-    Availability: Not Available
+    Availability: Available
     Price: $67.50 USD
   - [38 / Black](https://emesonvintageonline.com/products/myndskape-baggy-denim-pants?variant=51324112306478)
     Availability: Not Available
@@ -638,7 +638,7 @@
     Availability: Not Available
     Price: $67.50 USD
 - [Mynd Eyes Baggy Denim Double Knee Pants](https://emesonvintageonline.com/products/mynd-eyes-baggy-denim-double-knee-pants): Materials 100% Cotton 435gsm Double Knees 2 embroideries Size Chart (Inches) Waist Front Crotch Inner Leg Length 1/2 Leg Opening 28 12.2 27.6 29 9.2 30 12.6 28 29.6 9.4 32 13 28.7 31.2 9.6 34 13 29.1 31.6 9.8 36 13.6 30.3 32.9 10 38 13.7 31.1 33.8 10.2 40 13.8 31.9 34.7 10.4 Size Chart (Centimeters) Waist Front Crotch Inner Leg Length 1/2 Leg Opening 71.1 31 70.1 73.7 23.4 76.2 32 71.1 75.2 23.9 81.3 33 72.9 79.2 24.4 86.4 33 73.9 80.3 24.9 91.4 34.5 77 83.6 25.4 96.5 34.8 79 85.9 25.9 101.6 35.1 81 88.1 26.4
-  Updated: 2026-01-31T11:46:32Z
+  Updated: 2026-02-08T06:08:06Z
   Vendor: Myndskape
   Product Type: Pants
   Availability: Available
@@ -650,22 +650,22 @@
     Availability: Available
     Price: $70.00 USD
   - [32](https://emesonvintageonline.com/products/mynd-eyes-baggy-denim-double-knee-pants?variant=51324110569774)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [34](https://emesonvintageonline.com/products/mynd-eyes-baggy-denim-double-knee-pants?variant=51324110602542)
     Availability: Available
     Price: $70.00 USD
   - [36](https://emesonvintageonline.com/products/mynd-eyes-baggy-denim-double-knee-pants?variant=51324110635310)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [38](https://emesonvintageonline.com/products/mynd-eyes-baggy-denim-double-knee-pants?variant=51324110668078)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [40](https://emesonvintageonline.com/products/mynd-eyes-baggy-denim-double-knee-pants?variant=51324110700846)
     Availability: Not Available
     Price: $70.00 USD
 - [Mynd Eyes T-Shirt](https://emesonvintageonline.com/products/mynd-eyes-t-shirt): Oversized heavyweight cotton T-shirt. Embroidered front print. Large back Print. Custom neck tag. Size Chart (Centimeters) Size Length Shoulder Sleeve Height S 68 58 55 165 M 70 60 56 168 L 72 62 57 173 XL 74.5 64 58 177.5 Size Chart (Inches) Size Length Shoulder Sleeve Height S 26.8 22.8 21.7 65 M 27.6 23.6 22 66.1 L 28.3 24.4 22.4 68.1 XL 29.3 25.2 22.8 69.9
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-06T00:56:51Z
   Vendor: Myndskape
   Product Type: 
   Availability: Available
@@ -686,7 +686,7 @@
     Availability: Not Available
     Price: $27.50 USD
   - [Medium / Sand](https://emesonvintageonline.com/products/mynd-eyes-t-shirt?variant=51324111585582)
-    Availability: Not Available
+    Availability: Available
     Price: $27.50 USD
   - [Large / Black](https://emesonvintageonline.com/products/mynd-eyes-t-shirt?variant=51324111618350)
     Availability: Available
@@ -725,7 +725,7 @@
     Availability: Available
     Price: $20.99 USD
 - [Polar Feet SUPER STRETCHY Fleece Socks - Black](https://emesonvintageonline.com/products/polar-feet-super-stretchy-fleece-socks-black): For those of you with extra-wide feet and calves, or circulation and/or pressure issues--theseare your new favourite socks! (But if that'snotyou, then please shop our regular or nonskid socks for the best fit.) We've added 5% Spandex to our cozy Black fleece to make socks that are SUPER STRETCHY. As in,REALLY REALLY stretchy. This fabric has 4-way stretch so you will finally have warm feet and enjoy fleecy softness with no discomfort. Choose regular (plain) soles or nonskid (grippy paws) sole if you want to wear them as slipper socks or for extra traction on smooth floors. Washer/dryer friendly. Availble in 6 sizes, from Women's 6 to Big and Tall Men--shoe size 14-15 and Mens's 16-17. Size Guide
-  Updated: 2026-01-31T22:41:38Z
+  Updated: 2026-02-08T16:17:35Z
   Vendor: Polar Feet® LLC
   Product Type: Stretchy Socks
   Availability: Available
@@ -779,7 +779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/BL-R-4_010debdc-003b-44a3-ad5d-7962a3a5fbe4.jpg?v=1764308916
     Price: $27.99 USD
 - [Polar Feet  Socks - Polar Bear](https://emesonvintageonline.com/products/polar-feet--socks-polar-bear): A fun print the whole family will love! Cute Polar Bears and bold bright color! In sizes from Women's 6 to Men's 17. (Kids' too!) Choose regular (plain) sole for wear in most footwear. Choose nonskid (grippy paws) sole if you want to wear them as slipper socks or for extra traction on smooth floors. Long-lasting and durable. You can't beat the quality of our fleece. Wicks moisture away from your skin, for dryer, more comfortable feet. And eliminates foot odor! Flat lock seams don't dig in--and no bulgy seam over your toes. Gentle stretch keeps socks up but doesn't restrict circulation. Won't shrink, mat, fade or pill. Colorfast. Wash warm, dry cool or warm. No bleach. Size Guide
-  Updated: 2026-01-31T22:42:16Z
+  Updated: 2026-02-08T21:42:40Z
   Vendor: Polar Feet® LLC
   Product Type: Fleece Socks
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/PB-R-4_9a69aab1-5d48-4cdf-aa20-78fba5b681b8.jpg?v=1764308921
     Price: $26.99 USD
 - [Polar Feet Camp Booties - Sky](https://emesonvintageonline.com/products/polar-feet-camp-booties-sky): You don't actually have to go winter camping to enjoy these super warm and comfy indoor/outdoor slippers! Wear them around the house and they will protect you from chilly floors or you can run out for the mail and laugh at the cold! Lots of puffy polyester fill for warmth, rip-stop nylon uppers and lining (for easy on and off) but with a microfleece footbed to wick moisture away from your skin and keep you dry and your toes toasty. A textured rubber mudguard and outsole provide nonslip traction on smooth surfaces (but use caution on ice, please!) and are water resistant and great in dry cold conditions. No treads so they won't track in snow. There are two shock cord/toggle cinch points so that you can keep your foot in place, and snow out (or cool air--brrrr). Cute, over-the-ankle height is very packable and practical. Washer/dryer friendly. Imported. Made in China.
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-05T03:42:29Z
   Vendor: Polar Feet® LLC
   Product Type: Slippers
   Availability: Available
@@ -851,7 +851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/campbootiesblue2.jpg?v=1764308921
     Price: $64.99 USD
   - [XL (M 10-11)](https://emesonvintageonline.com/products/polar-feet-camp-booties-sky?variant=51324167192878)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/campbootiesblue2.jpg?v=1764308921
     Price: $64.99 USD
   - [XXL (M 12-13)](https://emesonvintageonline.com/products/polar-feet-camp-booties-sky?variant=51324167225646)
@@ -881,7 +881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/snugssnow3.jpg?v=1764308921
     Price: $69.99 USD
 - [Polar Feet  Socks - Blue Argyle](https://emesonvintageonline.com/products/polar-feet--socks-blue-argyle): Rich blue argyle fleece with sunny yellow accent for men and women.Soft, warm and cozy. Choose regular (plain) sole for wear in most footwear. They will become your favorite everyday socks! Choose nonskid (grippy paws) sole if you want to wear them as slipper socks or for extra traction on smooth floors. Long-lasting and durable. You can't beat the quality of our fleece. Wicks moisture away from your skin, for dryer, more comfortable feet. And eliminates foot odor! Flat lock seams don't dig in--and no bulgy seam over your toes. Gentle stretch keeps socks up but doesn't restrict circulation. Won't shrink, mat, fade or pill. Colorfast. Wash warm, dry cool or warm. No bleach. Available in sizes from Women's 6-7.5 all the way up to Men's 16-17! Size Guide
-  Updated: 2026-01-31T20:07:52Z
+  Updated: 2026-02-08T22:51:42Z
   Vendor: Polar Feet® LLC
   Product Type: Fleece Socks
   Availability: Available
@@ -935,7 +935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/BA-R-4_b65b70cb-bcf6-4661-b104-9b07588ae792.jpg?v=1764308921
     Price: $26.99 USD
 - [Polar Feet Fleece Socks - Highlander](https://emesonvintageonline.com/products/polar-feet-fleece-socks-highlander): The most comfortable socks you will ever wear. Soft and cozy fleece socks in our Highlander print. Choose regular (plain) sole for wear in most footwear. They will become your favorite everyday socks! Choose nonskid (grippy paws) sole if you want to wear them as slipper socks or for extra traction on smooth floors. Flat-lock seams mean no ridges or rub spots on tender tootsies. Non-constricting, non-binding for the ultimate comfort and circulation health. Durable and long-lasting, you will enjoy these socks for years! Washer/dryer friendly. Will not shrink, fade, mat or pill. Imported. Size Guide
-  Updated: 2026-01-31T19:07:05Z
+  Updated: 2026-02-08T22:51:40Z
   Vendor: Polar Feet® LLC
   Product Type: Fleece Socks
   Availability: Available
@@ -989,7 +989,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/HL-R-4_6b1840a4-1a03-4ec2-a6a4-a9b53c694d8d.jpg?v=1764308921
     Price: $26.99 USD
 - [Over The Knee Fleece Socks - Snow](https://emesonvintageonline.com/products/over-the-knee-fleece-socks-snow): Long, tall, luxurious and warm! You will love the soft gentle way these cozy OTK socks hug your legs. Made to last, of the best quality fleece, so they're durable AND beautiful. Available in two widths: regular width calf (<13 3/4") and wide calf (>15 1/2"). Flat lock seams mean no seam allowance for a smooth and comfortable look and feel. Wear them tall--covering your knees--or wear them slouchy. Washer and dryer friendly. Machine wash, cold or warm. Tumble Dry, low or permanent press. Do not use Chlorine Bleach.Size Guide
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-05T02:45:21Z
   Vendor: Polar Feet® LLC
   Product Type: Socks
   Availability: Available
@@ -1055,7 +1055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/DC-R-4_c27a8778-bf86-44ae-bbd9-e527fc529332.jpg?v=1764308921
     Price: $14.99 USD
 - [Polar Feet  Socks - Art Deco](https://emesonvintageonline.com/products/polar-feet--socks-art-deco): Think Paris, Le Metro. New York's Chrysler Building. Geometric patterns, stylized florals, and intense color...and now...Polar Feet Art Deco fleece socks! Choose regular (plain) sole for wear in most footwear. They will become your favorite everyday socks! Choose nonskid (grippy paws) sole if you want to wear them as slipper socks or for extra traction on smooth floors. Long-lasting and durable. You can't beat the quality of our fleece. Wicks moisture away from your skin, for dryer, more comfortable feet. And eliminates foot odor! Flat lock seams don't dig in--and no bulgy seam over your toes. Gentle stretch keeps socks up but doesn't restrict circulation. Won't shrink, mat, fade or pill. These beautiful colors will never fade. Wash warm, dry cool or warm. No bleach. Size Guide
-  Updated: 2026-01-31T15:42:12Z
+  Updated: 2026-02-08T18:40:45Z
   Vendor: Polar Feet® LLC
   Product Type: Fleece Socks
   Availability: Available
@@ -1093,7 +1093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/DC-R-4_e404ddfe-1be7-4e78-8874-6efd233f0ac8.jpg?v=1764308921
     Price: $21.99 USD
 - [COMPLEXCON Exclusive Ruched Bomber](https://emesonvintageonline.com/products/complexcon-exclusive-ruched-bomber): -Complexcon exclusive airbrush art by Emily Bessette of Braneworld in Denver, Colorado. -Custom graphics on front and rear applied to our favorite bomber to date. All artwork is inspired by iconic iconography of Las Vegas -Made in homage to Spec No. J-8279A, the second model of the iconic MA-1 -Elegant 100% nylon shell with luxurious satin lining -Ruched sleeve detail runs from wrist to shoulder seam, presenting an elegant pulled look -Coccoon like shape, shows drape -Heavy gauge thick rib at neck, wrist and waist -Side entry pockets with concealed snap detail -Single inside pocket with snap detail -Classic, true to size fit Size Chart Part/Size (IN) S M L XL Chest 26.4 27.4 28.4 29.4 Shoulder Width 23.4 23.9 24.4 24.9 Front Length 25.2 26.0 26.8 27.6 Back Length 26.0 26.8 27.6 28.3 Sleeve Length 24.4 24.8 25.2 25.6 Cuff 7.5 7.9 8.3 8.7
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-04T17:34:58Z
   Vendor: Puppet-Theater
   Product Type: ROW-4
   Availability: Available
@@ -1111,7 +1111,7 @@
     Availability: Not Available
     Price: $252.00 USD
 - [Piped Lux Club Shorts (Black)](https://emesonvintageonline.com/products/piped-lux-club-shorts-black): The piped Lux Club shirt is our take on a luxurious gym short - Breathable mesh lining throughout - Custom contrast piping details and heavy duty drawstrings - Puppet Theater logos matching the NRG jersey. Mix and match kit top and bottom for home and away matches.
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-06T22:46:26Z
   Vendor: Puppet-Theater
   Product Type: ROW-2
   Availability: Available
@@ -1132,7 +1132,7 @@
     Availability: Available
     Price: $77.00 USD
 - [Piped Lux Club Shorts (White)](https://emesonvintageonline.com/products/piped-lux-club-shorts-white): The piped Lux Club shirt is our take on a luxurious gym short - Breathable mesh lining throughout - Custom contrast piping details and heavy duty drawstrings - Puppet Theater logos matching the NRG jersey. Mix and match kit top and bottom for home and away matches.
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-04T17:34:58Z
   Vendor: Puppet-Theater
   Product Type: ROW-2
   Availability: Available
@@ -1153,7 +1153,7 @@
     Availability: Available
     Price: $77.00 USD
 - [Octane Hat](https://emesonvintageonline.com/products/octane-hat): this hat took over a year in development all over embroidery on 6 panels + the top and bottom of the bill puppet theater logos all over heavy-duty with lining and metal closure at back
-  Updated: 2026-01-31T03:41:15Z
+  Updated: 2026-02-05T16:21:22Z
   Vendor: Puppet-Theater
   Product Type: ROW-4
   Availability: Available
@@ -1202,14 +1202,14 @@
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/81ONc6cUcsL._AC_SL1500.jpg?v=1764312386
   Price: $60.63 USD
 - [The Park Place Decanter](https://emesonvintageonline.com/products/the-park-place-decanter): This whiskey decanter features a sleek, cylindrical shape with a vertical ribbed texture that adds elegance and sophistication to its design. The clear glass construction showcases the contents beautifully, making it a stunning centerpiece on any bar or table. Topped with a perfectly rounded glass stopper, it provides an airtight seal to preserve the flavor and quality of the whiskey or other spirits stored inside. The decanter’s modern yet classic design complements a variety of settings, ideal for both functional use and display. Made of high-quality lead-free crystal and glossy glass. Dishwasher safe Holds 27oz of your favorite spirit
-  Updated: 2026-01-31T15:32:07Z
+  Updated: 2026-02-07T22:29:56Z
   Vendor: The Whiskey Ball
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/41bSWdiWE5L._AC.jpg?v=1764312386
   Price: $52.48 USD
 - [The Globe Decanter Set](https://emesonvintageonline.com/products/the-globe-decanter-set): Hand blown glass decanter Includes 1 x 850ml capacity decanter with mahogany stand Includes 2 x 300ml rock glasses
-  Updated: 2026-01-31T03:41:16Z
+  Updated: 2026-02-04T01:51:15Z
   Vendor: The Whiskey Ball
   Product Type: 
   Availability: Available
@@ -2464,7 +2464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/strappy-jumpsuit-856293.jpg?v=1764381516
     Price: $92.00 USD
 - [Lola Zip Romper](https://emesonvintageonline.com/products/lola-zip-romper): Short. Sculpted. Statement making.The Lola Zip Romper brings everything you love about the jumpsuit into a short, bold silhouette. Featuring a deep V open back, scrunch booty seam, and a front zipper that lets you choose how much to reveal, this one-piece was made to turn heads—in the gym or on the street. Crafted from supportive, sculpting fabric with removable padding, Lola keeps you snatched and confident with every move. Inseam: 4”🔥 Runs small—size up if you’re between sizes or tall Curves First. Limits Last.
-  Updated: 2026-01-31T03:41:17Z
+  Updated: 2026-02-05T14:49:40Z
   Vendor: Rockstar Peach
   Product Type: Jumpsuit
   Availability: Available
@@ -2482,7 +2482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/lola-zip-romper-394670.jpg?v=1764381517
     Price: $56.00 USD
 - [Alyssa Pocket Leggings](https://emesonvintageonline.com/products/alyssa-pocket-leggings): Sculpted, sleek, and endlessly wearable.The Alyssa Pocket Leggings feature a high waist, subtle V-back, and side pockets for everyday function. The soft, supportive fabric lifts and sculpts while keeping you comfortable through workouts or daily wear. Pair with the Alyssa Halter Top for a flawless finish. Curves First. Limits Last.
-  Updated: 2026-01-31T03:41:17Z
+  Updated: 2026-02-02T17:26:06Z
   Vendor: Rockstar Peach
   Product Type: Activewear
   Availability: Available
@@ -2764,7 +2764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/marni-leggings-638389.jpg?v=1764381517
     Price: $47.60 USD
 - [Scuba Zip Jumpsuit](https://emesonvintageonline.com/products/scuba-zip-jumpsuit): Breathable. Bold. Built to move.The Scuba Zip Jumpsuit hugs your body like a glove with compression fabric, a sleek front zipper, and a no front seam design for a smooth, sculpted silhouette. Whether you're powering through a workout or heading out after, it gives you support, stretch, and standout style. Includes removable padding and a zip front so you can adjust the coverage—from full focus to full slay. Made for gym days, errands, and throw-on and go nights out. Curves First. Limits Last.
-  Updated: 2026-01-31T03:41:18Z
+  Updated: 2026-02-03T01:29:36Z
   Vendor: Rockstar Peach
   Product Type: Activewear
   Availability: Available
@@ -2968,7 +2968,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/gym-babes-leggings-794657.jpg?v=1764381516
     Price: $20.00 USD
 - [Alyssa Backless Halter Top](https://emesonvintageonline.com/products/alyssa-backless-halter-top): Bold in the back. Built to support.The Alyssa Backless Halter Top delivers sculpting support with a sleek, open back design and contrast white straps. Crafted from medium weight, breathable fabric, it’s perfect for workouts, errands, and everything in between. Includes removable padding for comfort and customization. Pair with the Alyssa Pocket Leggings for the full fit. Curves first. Limits Last.
-  Updated: 2026-01-31T03:41:18Z
+  Updated: 2026-02-02T17:26:06Z
   Vendor: Rockstar Peach
   Product Type: Activewear
   Availability: Available
@@ -3028,7 +3028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/the-body-pocket-shorts-764409.jpg?v=1764381517
     Price: $28.00 USD
 - [Lola Zip Jumpsuit](https://emesonvintageonline.com/products/lola-zip-jumpsuit): Zip up. Show out.The Lola Zip Jumpsuit is your go to for all day slay and sculpted confidence. Designed as a one-piece activewear essential, Lola features a deep open V-back, scrunch booty detail, and a front zipper that lets you choose your vibe—covered or cleavage. Made with moisture wicking, breathable fabric, it hugs curves in all the right places for the perfect fit whether you're hitting the gym, running errands, or heading out. Includes removable padding for customizable support. 🔥 Inseam: 26"💡 Between sizes or tall? Size up for the best fit Curves First. Limits Last.
-  Updated: 2026-01-31T03:41:18Z
+  Updated: 2026-02-05T14:49:41Z
   Vendor: Rockstar Peach
   Product Type: Jumpsuit
   Availability: Available
@@ -3935,7 +3935,7 @@
     Availability: Available
     Price: $98.00 USD
 - [Mykonos Pareo - Aegean Blue Sun Pattern](https://emesonvintageonline.com/products/mykonos-pareo-aegean-blue-sun-pattern): A lightweight pareo crafted from airy cotton. 100% cotton voile pareo 40" x 70" dimensions Fringed hem at top and bottom Slightly Sheer Blue and white Grecian sun pattern Hand wash cold. Lay flat to dry.
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-07T16:03:30Z
   Vendor: Ruby Mint
   Product Type: Pareo
   Availability: Available
@@ -3949,7 +3949,7 @@
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/RubyMint_summer24-89.jpg?v=1764388050
   Price: $48.00 USD
 - [Summerfield](https://emesonvintageonline.com/products/summerfield): Sustainably Made with OEKO-Tex  100% Cotton Oversize 70"x40" Dimensions Luxurious 450 GSM Fringed Hem Coral Wave Limited Edition Print Run Machine Wash
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-08T10:00:41Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
@@ -3963,21 +3963,21 @@
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/hawt-1.png?v=1764388055
   Price: $68.00 USD
 - [Hydra](https://emesonvintageonline.com/products/hydra): Sustainably Made with OEKO-Tex  100% Cotton Oversize 70"x40" Dimensions Luxurious 450 GSM Fringed Hem Black & Gray Colors Limited Edition Print Run Machine Wash
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-04T23:16:27Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/HydraRMSP25TOU003_1.jpg?v=1764388055
   Price: $68.00 USD
 - [Thayer](https://emesonvintageonline.com/products/thayer): Sustainably Made with OEKO-Tex  100% Cotton Oversize 70"x40" Dimensions Luxurious 450 GSM Embroidered Hem Black & White Colors Limited Edition Print Run Machine Wash
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-08T10:00:46Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/thayer-1.png?v=1764388056
   Price: $68.00 USD
 - [Fairchild](https://emesonvintageonline.com/products/fairchild): Sustainably Made with OEKO-Tex  100% Cotton Oversize 70"x40" Dimensions Luxurious 450 GSM Embroidered Hem Coral & Blue Colors Limited Edition Print Run Machine Wash
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-08T10:00:46Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
@@ -3991,21 +3991,21 @@
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/RubyMint_summer24-87.jpg?v=1764388055
   Price: $48.00 USD
 - [Carlisle](https://emesonvintageonline.com/products/carlisle): Sustainably Made with OEKO-Tex  100% Cotton Oversize 70"x40" Dimensions Luxurious 450 GSM Embroidered Hem Black & White Colors Limited Edition Print Run Machine Wash
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-08T10:00:45Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/carl-1.png?v=1764388056
   Price: $68.00 USD
 - [Stanhope](https://emesonvintageonline.com/products/stanhope): Sustainably Made with OEKO-Tex  100% Cotton Oversize 70"x40" Dimensions Luxurious 450 GSM Embroidered Hem Blue, White, & Yellow Colors Limited Edition Print Run Machine Wash
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-08T10:00:46Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/stan-1.png?v=1764388055
   Price: $68.00 USD
 - [Corfu](https://emesonvintageonline.com/products/corfu): Corfu is your invitation to lean into the moment—bright, carefree, and beautifully bold. Sustainably Made with OEKO-Tex  100% Cotton 40" x 70" Luxurious 450 GSM Fringed Hem Blue and Pink Print Limited Edition Print Run Machine Wash Cold, Tumble Dry Low
-  Updated: 2026-01-31T03:41:19Z
+  Updated: 2026-02-08T01:14:51Z
   Vendor: Ruby Mint
   Product Type: Towel
   Availability: Available
@@ -4186,7 +4186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/Dark-Neon-Hawaiian-Cotton-Short-Sleeve-Shirt-Shirt-Gentleman_Clothing.jpg?v=1764389520
     Price: $32.95 USD
 - [The Hi-Waist Hug](https://emesonvintageonline.com/products/the-hi-waist-hug): The perfect high waist brief for every occasion. Tummy-smoothing coverage with lux-comfort, fit-flexible fabric that adapts to you. -Fits up to 3XL-No-roll waistband -Cotton gusset-Stay-put full bottom coverage -Moisture-wicking Please note The Hi-Waist Hug is not returnable.
-  Updated: 2026-01-31T03:41:20Z
+  Updated: 2026-02-05T18:06:11Z
   Vendor: The Only Bra
   Product Type: 
   Availability: Available
@@ -4222,7 +4222,7 @@
     Availability: Available
     Price: $21.00 USD
 - [The Scoop 2.0](https://emesonvintageonline.com/products/the-scoop-2-0): The Scoop 2.0 is the ultimate bra for support and comfort. Adjustable, wide comfort straps with hook & eye closure and a new soft-lift cup system to provide enhanced fit & more support. This bra looks new after every wash, is invisible under clothing, has no bulges and is made with moisture-wicking, 360-degree stretch fabric. The Scoop Camisole Bra has no straps or clasps and is made with Persbond™ No Stitch Edges, providing the ideal crop camisole bralette. Details Adjustable comfort straps with hook & eye closure New soft-lift cup system to provide enhanced fit & more support No Bulges! Removable pads Pull-over style No straps or clasps Moisture-wicking, 360 stretch fabric Nylon/Elastane Persbond™ No Stitch Edges Invisible under clothes High-temperature wash resistance
-  Updated: 2026-01-31T03:41:20Z
+  Updated: 2026-02-08T15:42:02Z
   Vendor: The Only Bra
   Product Type: 
   Availability: Available
@@ -4231,7 +4231,7 @@
     Availability: Available
     Price: $66.00 USD
   - [XS/S/M / Nude](https://emesonvintageonline.com/products/the-scoop-2-0?variant=51342961541422)
-    Availability: Available
+    Availability: Not Available
     Price: $66.00 USD
   - [L/XL / Black](https://emesonvintageonline.com/products/the-scoop-2-0?variant=51342961574190)
     Availability: Available
@@ -4246,7 +4246,7 @@
     Availability: Available
     Price: $66.00 USD
 - [The Shaping Cami](https://emesonvintageonline.com/products/the-shaping-cami): With a built-in bra, designed for all-day comfort! The Shaping Cami has targeted tummy control with our signature super-soft, fit-flexible fabric. An essential wardrobe piece with a V-Neck styling. -Targeted front & back smoothing -No visible lines under clothes -Supportive reinforced straps -Removable cups
-  Updated: 2026-01-31T19:19:22Z
+  Updated: 2026-02-03T17:27:57Z
   Vendor: The Only Bra
   Product Type: 
   Availability: Available
@@ -4300,7 +4300,7 @@
     Availability: Available
     Price: $82.00 USD
 - [The Only Hipster](https://emesonvintageonline.com/products/the-only-hipster): Breathable, super soft fabric that adapts to your body. The Only Brief has free-cut edges for a seamless waistband, never digging into your skin. -cotton gusset -no lines, no show -no dig, no bulge -super soft -super light -Moisture-wicking -washes at high temperatures Please note The Only Hipster is not returnable.
-  Updated: 2026-01-31T03:41:20Z
+  Updated: 2026-02-04T22:18:19Z
   Vendor: The Only Bra
   Product Type: 
   Availability: Available
@@ -4354,7 +4354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/mocha_brief.png?v=1764389659
     Price: $18.00 USD
 - [Scoop Camisole Bra](https://emesonvintageonline.com/products/scoop-camisole-bra): Equal parts comfort and coverage with a camisole design. The Scoop Camisole Bra provides luxurious comfort and support, with the benefit of a camisole design. Wear it under your favorite top for a layered look. With our signature fabric, the Camisole adapts to your unique shape with super-soft, moisture-wicking fabric. This bra looks new after every wash, is invisible under clothing, has no bulges and is made with moisture-wicking, 360-degree stretch fabric. The Scoop Camisole Bra has no straps or clasps and is made with Persbond™ No Stitch Edges, providing the ideal crop camisole bralette. Details No Bulges! Removable pads Pull-over style No straps or clasps Moisture-wicking, 360 stretch fabric Nylon/Elastane Persbond™ No Stitch Edges Invisible under clothes High-temperature wash resistance
-  Updated: 2026-01-31T14:07:18Z
+  Updated: 2026-02-07T12:56:36Z
   Vendor: The Only Bra
   Product Type: 
   Availability: Available
@@ -4402,7 +4402,7 @@
     Availability: Available
     Price: $55.00 USD
 - [The Only Adjustable Bra](https://emesonvintageonline.com/products/the-only-adjustable-bra): Now available! The Only Bra's signature, super-soft fabric with adjustable straps. Extra support, extra comfort, and always adapting to your body. Straps can be worn either standard or criss-cross style to provide the perfect fit. Details -adjustable, convertible straps -adapts to your unique shape -elastic, breathable fabric -no-dig, no-bulge -breathable, moisture-wicking fabric
-  Updated: 2026-01-31T14:07:14Z
+  Updated: 2026-02-08T01:58:50Z
   Vendor: The Only Bra
   Product Type: 
   Availability: Available
@@ -4436,7 +4436,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/nude.jpg?v=1764389659
     Price: $55.00 USD
   - [Nude / M](https://emesonvintageonline.com/products/the-only-adjustable-bra?variant=51342963343662)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/nude.jpg?v=1764389659
     Price: $55.00 USD
   - [Nude / Large/XL](https://emesonvintageonline.com/products/the-only-adjustable-bra?variant=51342963376430)
@@ -6703,7 +6703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/Mens-Military-Bomber-Jacket-2-Colors-Jacket-Gentleman_Clothing.jpg?v=1764390561
     Price: $104.95 USD
 - [Men's Black Striped Dress Shirt](https://emesonvintageonline.com/products/mens-black-striped-dress-shirt): Men's navy blue striped dress shirt with polyester fiber.Please check the size chart picture to find your right size. Each designer has their own measurements. Material: Polyester Fiber Material: Cotton Fabric Type: Broadcloth Pattern Type: Striped Closure Type: Single Breasted Gender: Men Collar: Turn-down Collar
-  Updated: 2026-01-31T03:41:23Z
+  Updated: 2026-02-08T19:36:56Z
   Vendor: Gentleman.Clothing
   Product Type: Shirt
   Availability: Available
@@ -8874,7 +8874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/Mens-GC-Collection-Watches-Multiple-Styles-Watches-Gentleman_Clothing-11.jpg?v=1764390863
     Price: $76.95 USD
 - [Attention-Seekers Skinny Tie](https://emesonvintageonline.com/products/attention-seekers-skinny-tie): Item Type: TiesPattern Type: PrintMaterial: PolyesterTies Type: Skinny Necktie
-  Updated: 2026-01-31T03:41:25Z
+  Updated: 2026-02-02T03:19:11Z
   Vendor: Gentleman.Clothing
   Product Type: Skinny Ties
   Availability: Available
@@ -8895,7 +8895,7 @@
   Image: https://cdn.shopify.com/s/files/1/0956/7430/2766/files/Attention-Seekers-Skinny-Tie-Skinny-Ties-Gentleman_Clothing_79ded8dd.jpg?v=1764390960
   Price: $10.95 USD
 - [Attention-Seekers Skinny Tie](https://emesonvintageonline.com/products/attention-seekers-skinny-tie-3): Item Type: TiesPattern Type: PrintMaterial: PolyesterTies Type: Skinny Necktie
-  Updated: 2026-01-31T03:41:25Z
+  Updated: 2026-02-02T03:19:11Z
   Vendor: Gentleman.Clothing
   Product Type: Skinny Ties
   Availability: Available
