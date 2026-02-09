@@ -6,12 +6,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-28T11:01:38Z
 - Contact Email: eroze2209@gmail.com
-- Updated At: 2026-02-01T00:00:36.643Z
+- Updated At: 2026-02-09T00:00:39.144Z
 
 ## Products
 
 - [Set Collar y Correa de Nylon para Perros - Resistente | Lynxshoop](https://lynxshoop.com/products/nylon-pup-set): Set completo collar + correa de nylon premium. Doble costura reforzada. Ajustable S-XL. Colores vibrantes. Envío rápido en España.
-  Updated: 2026-01-09T04:50:22Z
+  Updated: 2026-02-05T11:21:30Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -128,7 +128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/kyZQGAFxgkoDGcF3.webp?v=1767897277
     Price: 18,76 € EUR
 - [Guantes y Toallitas de Limpieza para Perros | Lynxshoop](https://lynxshoop.com/products/pet-cleaning-gloves-wipes): Toallitas especializadas para oídos, ojos, dientes y patas. Guantes desechables incluidos. Limpieza rápida sin baño. Envío rápido en España.
-  Updated: 2026-01-09T04:49:50Z
+  Updated: 2026-02-05T11:21:30Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -162,7 +162,7 @@
     Availability: Available
     Price: 30,67 € EUR
 - [Peine Desenredante para Perros - Sin Tirones | Lynxshoop](https://lynxshoop.com/products/pet-grooming-comb): Peine doble función que desenreda sin dolor. Elimina nudos y pelo suelto. Mango ergonómico. Para pelo largo y medio. Envío rápido en España.
-  Updated: 2026-01-09T04:49:22Z
+  Updated: 2026-02-05T11:21:30Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -175,7 +175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/xM1BvLzyZEIryJD8.webp?v=1767898038
     Price: 20,69 € EUR
 - [Cepillo Spray Quitapelos para Perros - Elimina Pelo Muerto | Lynxshoop](https://lynxshoop.com/products/pet-hair-spray-brush): Cepillo spray que elimina el 90% del pelo muerto. Sistema integrado que rocía mientras cepillas. Para todo tipo de pelo. Envío rápido en España.
-  Updated: 2026-01-09T04:48:41Z
+  Updated: 2026-02-05T11:21:30Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -187,8 +187,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/jH3Qq10wsJN4rpyW.webp?v=1767898133
     Price: 32,34 € EUR
-- [Correa Anti-Tirones para Perros - Paseos Sin Estrés | Lynxshoop](https://lynxshoop.com/products/auto-double-dog-leash): Correa anti-tirones que convierte los paseos estresantes en momentos de disfrute. Doble enganche, reflectante y resistente. Envío rápido en España.
-  Updated: 2026-01-09T04:07:14Z
+- [Correa Antitirones para Perros - Paseos Sin Estrés | Lynxshoop](https://lynxshoop.com/products/auto-double-dog-leash): Correa antitirones que convierte los paseos estresantes en momentos de disfrute. Doble enganche, reflectante y resistente. Envío rápido en España.
+  Updated: 2026-02-05T11:21:30Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -205,14 +205,14 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/9ssra2b6Sezrl7MQ.webp?v=1767897288
     Price: 40,64 € EUR
 - [Limpiador de Oídos para Perros 50ml - Previene Infecciones](https://lynxshoop.com/products/pet-ear-cleaner-50ml): Keep your furry friend’s ears clean, healthy, and comfortable with this gentle pet ear cleaning solution. Specially formulated for both dogs and cats, it effectively removes dirt, wax, and debris while helping to prevent mites and reduce the risk of ear infections.The mild, non-irritating formula makes it safe for regular use, ensuring long-term ear hygiene without discomfort. Easy to apply and quick to absorb, it provides a simple way to support your pet’s overall health and well-being.An essential hygiene product for every pet owner, this ear cleanser helps maintain your companion’s comfort and prevents the irritation and odor caused by unclean ears.
-  Updated: 2026-01-09T04:39:31Z
+  Updated: 2026-02-05T11:21:31Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/output_75de431f-69b8-4c07-bd7c-ce9f1b857ee0.png?v=1767897294
   Price: 27,98 € EUR
 - [Escoba Quitapelos Mascotas - Elimina Pelo de Perros y Gatos](https://lynxshoop.com/products/pet-hair-removal-broom-mop): Escoba especializada para eliminar pelo de perros y gatos. Funciona en alfombras, sofás y suelos. Reutilizable y más efectiva que aspiradoras.
-  Updated: 2026-01-09T06:35:17Z
+  Updated: 2026-02-05T11:21:31Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -245,7 +245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/WcLKgRsKObg5tn2d.webp?v=1767898354
     Price: 43,49 € EUR
 - [Comedero Automático para Perros - Alimentación Programada](https://lynxshoop.com/products/pet-feeder): Material: PlasticProduct Attributes: ElectronicPackage Dimensions: 220mm x 195mm x 265mmProduct Information:Package Includes: Automatic Feeder x 1 Feeding Dish x 1 User Manual x 1
-  Updated: 2026-01-09T04:38:50Z
+  Updated: 2026-02-05T11:21:31Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -278,7 +278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/pfeKh9TvbLny6Azs.webp?v=1767897858
     Price: 93,95 € EUR
 - [Cepillo Vapor 3 en 1 para Mascotas - Perros y Gatos | Lynxshoop](https://lynxshoop.com/products/pet-brush): Cepillo innovador con vapor para mascotas. Elimina pelo muerto, desenreda y masajea. Ideal para perros y gatos de pelo largo. Reduce la estática y relaja a tu mascota.
-  Updated: 2026-01-09T04:38:10Z
+  Updated: 2026-02-05T11:21:31Z
   Vendor: Lynxshoop
   Product Type: Accesorios para Mascotas
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: 25,66 € EUR
 - [Dispensador de Agua Automático para Mascotas - Perros y Gatos | Lynxshoop](https://lynxshoop.com/products/pet-water-dispenser): Dispensador automático de agua para mascotas. Mantén a tu perro o gato hidratado todo el día. Fácil de limpiar y rellenar. Capacidad ideal para uso diario.
-  Updated: 2026-01-09T04:07:55Z
+  Updated: 2026-02-05T11:21:31Z
   Vendor: Lynxshoop
   Product Type: Accesorios para Mascotas
   Availability: Available
@@ -436,28 +436,28 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/b6jO3CuT4addpKbk.webp?v=1767897699
     Price: 67,94 € EUR
 - [Detergente Enzimático para Mascotas 32oz - Elimina Manchas y Olores | Lynxshoop](https://lynxshoop.com/products/pet-parents®-pettergent®-enzymatic-pet-laundry-detergent-32-oz-32-loads-pet-stain-remover-pet-odor-eliminator-laundry-detergent-for-pets-calming-32-oz): Detergente enzimático especializado para ropa de mascotas. Elimina manchas y olores difíciles. Fórmula calmante con lavanda. 32 cargas. Ideal para perros y gatos.
-  Updated: 2026-01-09T04:39:48Z
+  Updated: 2026-02-05T11:21:31Z
   Vendor: Lynxshoop
   Product Type: Accesorios para Mascotas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/uVOycgWRTgrl2t3u.webp?v=1767623442
   Price: 55,12 € EUR
 - [Secador de Pelo para Mascotas 2 en 1 - Portátil con Cepillo | Lynxshoop](https://lynxshoop.com/products/pet-groomer): Secador portátil 2 en 1 para perros y gatos con cepillo integrado. Seca y desenreda el pelo de tu mascota rápidamente. Ajuste de temperatura y operación silenciosa.
-  Updated: 2026-01-09T04:03:56Z
+  Updated: 2026-02-05T11:21:32Z
   Vendor: Lynxshoop
   Product Type: Accesorios para Mascotas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/perro-feliz-siendo-secado.png?v=1767903523
   Price: 83,67 € EUR
 - [GPS Pet Tracker Collar for Lost Pet Location Tracking](https://lynxshoop.com/products/gps-pet-tracker-collar-for-lost-pet-location-tracking): Introducing the ultimate solution for keeping your beloved pet safe: the GPS Tracking Collar. This innovative collar combines cutting-edge technology with user-friendly features to ensure that you always know where your furry friend is. Crafted from durable ABS material, this collar is designed to withstand daily wear and tear while providing reliable performance. With a versatile GSM network supporting 850/900/1800/1900MHz and GPRS Class 12, you can rest assured that your pet's location is constantly monitored. Experience unparalleled positioning accuracy with multiple modes including GPS, AGPS, Wifi (optional), and LBS. The GPS location accuracy is within 10 meters outdoors, while Wifi can pinpoint locations within 50 meters for certain models, and LBS provides accuracy above 100 meters. The tracking system is seamlessly integrated with an intuitive APP, Web interface, and SMS notifications, making it easy for you to keep tabs on your pet from anywhere. The collar operates effectively in a wide temperature range of -20℃ to 45℃ and is suitable for a humidity level of 5% to 95%. Choose from a stylish Blue color that not only looks great but also ensures that your pet is easily identifiable. With dimensions of 170mm in length, 40mm in height, and a lightweight design of just 0.31kg, this collar is perfect for pets of all sizes. Don’t wait until it’s too late!  in the GPS Tracking Collar today and enjoy peace of mind knowing that your pet is safe and sound. Check out the images below to see this amazing product in action!
-  Updated: 2026-01-12T07:04:24Z
+  Updated: 2026-02-05T11:21:32Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/MMu4SqZ5beQpfxTr.webp?v=1768158245
   Price: 38,93 € EUR
 - [Pet Collar Camera](https://lynxshoop.com/products/pet-collar-camera): Get a glimpse into your pet’s world with this Wireless Pet Collar Camera — the perfect companion for curious cats and adventurous dogs! Whether indoors or out, this lightweight camera captures all the fun from your pet's point of view.Key Features: Real-time recording – Watch your pet’s daily adventures as they happen Perfect for cats and dogs – Designed to comfortably fit both small and large pets Indoor & outdoor use – Durable enough for walks, playtime, and exploring Unique pet perspective – See the world through your furry friend’s eyes Lightweight and easy to attach – Ensures comfort without slowing them down Whether you're monitoring their safety or just curious about what they’re up to, this collar camera lets you stay connected to your pet’s everyday life like never before!
-  Updated: 2026-01-12T07:07:34Z
+  Updated: 2026-02-05T11:21:32Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -498,14 +498,14 @@
     Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/rRic8ZYsP82xec5b.webp?v=1768158516
     Price: 56,76 € EUR
 - [Security Dog Hoodie Warm Cozy Brushed Fleece Interior Dog Clothes Dog Hoodie with Pocket Dog Sweatshirt Dog Sweaters for Medium Dogs(M)](https://lynxshoop.com/products/security-dog-hoodie-warm-cozy-brushed-fleece-interior-dog-clothes-dog-hoodie-with-pocket-dog-sweatshirt-dog-sweaters-for-medium-dogsm): [EXTRAORDINARY SOFTNESS & COMFORT : Pamper your dog with our high-quality dog hoodie designed to offer the ultimate in softness and warmth. The soft brushed fleece interior provides a gentle cozy touch ensuring that your furry friend stays comfortable and stylish no matter the occasion. Perfect for snuggling up or strutting out in style! "VERSATILE FIT FOR MOST DOGS : Our dog hoodie is available in 6 sizes from XS to XXL designed to fit most dogs. Since every dog has a unique body shape its important to select the right size based on our size chart rather than relying on previous shopping experiences or your dogs weight." STYLISH & PRACTICAL : Featuring a bold "SECURITY" print on the back this dog hoodie makes a fun statement. The high-quality screen printing ensures the design stays vibrant without peeling or fading. Plus the charming little pocket adds both style and function perfect for holding treats or small toys. "IDEAL FOR ALL SEASONS : Whether its a brisk fall morning or a chilly winter day this dog hoodie is designed to keep your dog comfortable without overheating. Lightweight yet warm its the perfect choice for year-round wear making it suitable for everyday activities outdoor adventures or as a thoughtful gift for any dog lover." DURABLE & EASY CARE : Built with premium craftsmanship and high-density stitching this dog hoodie is made to last through all of your dog’s playful antics and frequent washes. It’s machine washable for your convenience so you can keep your dog looking and feeling great with minimal effort.]
-  Updated: 2026-01-12T13:29:00Z
+  Updated: 2026-02-05T11:21:32Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0930/5237/1325/files/uFEIwJFxD0wHT9XH.webp?v=1768158645
   Price: 29,83 € EUR
 - [Light Up Dog Harness Rechargeable LED Dog Harness Reflective Dog Harness Adjustable Soft Lighted Dog Harness for Night Walking Glowing Dog Vest for Small Medium Large Dog](https://lynxshoop.com/products/light-up-dog-harness-rechargeable-led-dog-harness-reflective-dog-harness-adjustable-soft-lighted-dog-harness-for-night-walking-glowing-dog-vest-for-small-medium-large-dog): [【Comfortable & Safe】The light up dog harness features breathable nylon pads to reduce discomfort and stress. The handle on the back is padded with soft nylon for extra comfort. The LED lights make your dog highly visible during night walks greatly improving safety and protecting them from accidents. "【Long Lasting Shine & Adjustable】The led dog harness fully charges in 1.5 hours provides 9-15 hours of light depending on the lighting mode（about 9 H steady light 10-12 H fast flashing 13-15 H slow flashing）. Adjustable straps ensure a perfect fit for your dog please leaving about two fingers space for comfort" 【High Visibility & 3 Light Modes】The lighted safety best features three light modes: steady light fast flashing and slow flashing. These modes ensure your dog remains highly visible from a distance enhancing their safety during walks day or night. 【Easy to Use】Designed for easy on-and-off use with quick-release buckles No need wearing over through the dog head. Adjustable Illuminated harness makes getting ready for walks a breeze. The lightweight breathable design ensures comfort for year-round use. 【Enjoy a Walk with Your Pet】Made from high-quality nylon fabric and breathable mesh lining ensure dog welly heat dissipation adjustable glowing vest is built to last. If you have any questions about the led harness please contact us by amazon.]
-  Updated: 2026-01-12T07:11:03Z
+  Updated: 2026-02-05T11:21:32Z
   Vendor: Lynxshoop
   Product Type: 
   Availability: Available
@@ -515,10 +515,10 @@
 ## Collections
 
 - [Pet Supplies](https://lynxshoop.com/collections/pet-supplies)
-  Updated: 2026-01-11T19:07:23Z
+  Updated: 2026-02-05T11:21:30Z
   Total Products: 14
 - [Productos Destacados para Perros - Los Más Vendidos | Lynxshoop](https://lynxshoop.com/collections/productos-destacados): Descubre los productos favoritos de nuestros clientes. Secador 2 en 1, correa anti-tirones y bebedero automático. Envío rápido en España.
-  Updated: 2026-01-08T16:10:24Z
+  Updated: 2026-02-05T11:21:30Z
   Total Products: 3
 
 ## Store Pages
