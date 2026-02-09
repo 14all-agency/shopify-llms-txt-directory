@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-12-27T14:20:15Z
 - Contact Email: s.design7art@gmail.com
-- Updated At: 2026-02-02T00:00:36.249Z
+- Updated At: 2026-02-09T00:00:37.876Z
 
 ## Products
 
@@ -153,24 +153,27 @@
 
 ## Collections
 
-- [Story](https://goodspond.com/collections/story)
-  Updated: 2026-01-27T03:04:16Z
+- [Stories – Timeless Literature for All Ages](https://goodspond.com/collections/story): Enjoy classic stories and fables from around the world. Ideal for students and readers who love timeless tales and inspiring lessons.
+  Updated: 2026-02-04T18:23:53Z
   Total Products: 14
-- [Skill](https://goodspond.com/collections/skill)
-  Updated: 2026-01-27T01:38:04Z
+- [Skill – Build Confidence & Everyday Success](https://goodspond.com/collections/skill): Learn essential life skills like time management, decision-making, and self-awareness. Ideal for students and professionals aiming for personal growth.
+  Updated: 2026-02-04T18:31:15Z
   Total Products: 4
-- [Practice](https://goodspond.com/collections/practice)
-  Updated: 2026-01-27T03:04:16Z
+- [Practice – Improve Writing & Communication Skills](https://goodspond.com/collections/practice): Access grammar practice worksheets and ebooks to improve sentence structure, tenses, and punctuation. Ideal for students and English learners.
+  Updated: 2026-02-04T18:20:01Z
   Total Products: 13
-- [Ebooks](https://goodspond.com/collections/ebooks)
-  Updated: 2026-01-27T11:45:40Z
+- [Ebooks – Learn Smarter, Study Anywhere | Download Instantly](https://goodspond.com/collections/ebooks): Explore top-rated educational ebooks for students, teachers, and professionals. Download instantly and learn anytime
+  Updated: 2026-02-04T17:37:33Z
   Total Products: 20
 
 ## Blogs
 
 - [News](https://goodspond.com/blogs/news)
-  - [What's the Ebook?](https://goodspond.com/blogs/news/whats-the-ebook)
-    Updated: 2026-01-28T18:16:58Z
+  - [What’s the Ebook? | Discover the Digital Future of Reading](https://goodspond.com/blogs/news/whats-the-ebook): What’s the Ebook? | Discover the Digital Future of Reading
+    Updated: 2026-02-03T12:19:29Z
+    Author: Erdem Sıcak
+  - [Skills That Matter – Learn Practical Skills for Career & Life Growth](https://goodspond.com/blogs/news/skills-learn-grow-and-master-what-matters): Skills That Matter – Learn Practical Skills for Career & Life Growth
+    Updated: 2026-02-05T18:57:20Z
     Author: Erdem Sıcak
 
 ## Store Pages
@@ -181,13 +184,13 @@
 ## Policies
 
 - [Privacy Policy](https://goodspond.com/policies/privacy-policy)
-  Updated: 2026-01-08T12:50:00+03:00
+  Updated: 2026-02-04T23:44:20+03:00
 - [Shipping Policy](https://goodspond.com/policies/shipping-policy)
   Updated: 2026-01-08T14:12:11+03:00
 - [Refund Policy](https://goodspond.com/policies/refund-policy)
-  Updated: 2026-01-08T14:02:14+03:00
+  Updated: 2026-02-04T23:44:11+03:00
 - [Terms of Service](https://goodspond.com/policies/terms-of-service)
-  Updated: 2026-01-07T23:15:44+03:00
+  Updated: 2026-02-04T23:29:59+03:00
 - [Contact Information](https://goodspond.com/policies/contact-information)
   Updated: 2026-01-08T12:51:01+03:00
 
