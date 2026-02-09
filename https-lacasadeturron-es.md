@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2024-08-30T12:01:52Z
 - Contact Email: info@lacasadeturron.es
-- Updated At: 2026-02-01T00:00:40.331Z
+- Updated At: 2026-02-09T00:00:42.533Z
 
 ## Products
 
@@ -77,7 +77,7 @@
     Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/3_543c97ee-4bda-4b1f-93af-12af8666794b.png?v=1732054362
     Price: 24,90 € EUR
 - [Arnés Adventure Jungle](https://lacasadeturron.es/products/arnes-acolchado-verde-perro): Explora con seguridad y estilo: El arnés perfecto para tu compañero canino Tu perro merece lo mejor, y nuestro arnés ha sido diseñado para ofrecerle una experiencia de paseo excepcional. Fabricado con materiales de alta calidad (neopreno y poliéster), pensando en su comodidad y seguridad, combinando suavidad y resistencia. Este arnés de tipo H cuenta con 3 puntos de enganche para un mayor control, garantiza comodidad y protección gracias a su capa acolchada, que impide rozaduras provocadas por ramas y piedras durante sus persecuciones y búsquedas. Además, también te brinda la tranquilidad de saber que está siempre bajo control, sin afectar a su libertad y permitiéndole disfrutar de sus aventuras.
-  Updated: 2025-12-27T20:33:51Z
+  Updated: 2026-02-07T22:41:41Z
   Vendor: La Casa de Turrón
   Product Type: Arnés
   Availability: Available
@@ -182,7 +182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/Bolsas_de_caca_para_perro_La_Casa_de_Turron.png?v=1740433323
     Price: 23,99 € EUR
 - [Vuela Perrito - Frisbee](https://lacasadeturron.es/products/frisbee): ¡Disfruta del aire libre mientras haces ejercicio con Vuela Perrito, el frisbee que hará saltar de emoción a tu mejor amigo peludo! Fabricado con materiales de alta durabilidad, ofrece una combinación perfecta de flexibilidad y resistencia, lo que permite un agarre cómodo y seguro tanto para tu pequeño como para su humano. Gracias a su diseño aerodinámico, este frisbee se desliza de manera estable y precisa, ideal para largas sesiones de juego. Perfecto para perros de todos los tamaños (versión para perros pequeños coming soon). Características: Resistente y seguro para el juego continuo durante horas. Ideal para liberar energía y hacer ejercicio. Mejora el vínculo con tu amigo peludo. Estimula el bienestar físico y mental. Satisface sus instintos de juego y actividad. Muy fácil de lavar. Medidas: Grande: 23 x 23 cm Mediano: 18,5 x 18,5 cm Recomendaciones de uso: Busca espacios abiertos sin obstáculos. Valora el estado de forma de tu perro, ten especial cuidado con sus movimientos si padece sobrepeso o está en edad avanzada. No forcejees con él por el frisbee, se pondrá nervioso y te desobedecerá más. Prémiale cada vez que te lo traiga, sobre todo en las primeras veces. Presta atención al entorno, sobre todo si hay más perros, por si alguno de ellos fuera obsesivo y el juguete pudiera causar un problema.
-  Updated: 2025-12-10T19:02:44Z
+  Updated: 2026-02-03T10:15:38Z
   Vendor: La Casa de Turrón
   Product Type: Juguete
   Availability: Available
@@ -266,7 +266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/142_31b062a1-2e5c-4bae-8156-cd7dac735322.png?v=1740145274
     Price: 5,90 € EUR
 - [Collar Bariloche](https://lacasadeturron.es/products/collar-bariloche): ¡Por fin está aquí nuestro modelo Bariloche! Collar para perros fabricado en cuero e hilo encerado. Con el modelo Bariloche tu pequeño será el más elegante en el parque y la envidia de sus amidogs. Collar cómodo y ajustable. Disponible en diferentes tallas, para todos los tamaños. Elige entre dos diseños diferentes y sus correas a juego. Tallas: XS: 2,5 cm de ancho x 29 - 34 cm de largo S: 2,5 cm de ancho x 29 - 39 cm de largo M: 2,5 cm de ancho x 36,5 - 46,5 cm de largo L: 3 cm de ancho x 46,5 - 56,5 cm de largo XL: 3 cm de ancho x 53,5 - 63,5 cm de largo Consulta nuestra guía de tallas y recuerda dejar un espacio de dos dedos entre el collar y el cuello de tu perro. Si no tienes a mano un metro suave, utiliza un cordón o cable para que puedas rodear el cuello de tu perro.
-  Updated: 2025-12-10T19:02:45Z
+  Updated: 2026-02-03T10:15:51Z
   Vendor: La Casa de Turrón
   Product Type: Collar
   Availability: Available
@@ -314,7 +314,7 @@
     Availability: Available
     Price: 21,90 € EUR
 - [Collar Iguazú](https://lacasadeturron.es/products/collar-iguazu): ¡Por fin está aquí nuestro modelo Iguazú! Collar para perros fabricado en cuero e hilo encerado. Con el modelo Bariloche tu pequeño será el más elegante en el parque y la envidia de sus amidogs. Collar cómodo y ajustable. Disponible en diferentes tallas, para todos los tamaños. Elige entre dos diseños diferentes y sus correas a juego. Tallas: XS: 2,5 cm de ancho x 29 - 34 cm de largo S: 2,5 cm de ancho x 29 - 39 cm de largo M: 2,5 cm de ancho x 36,5 - 46,5 cm de largo L: 3 cm de ancho x 46,5 - 56,5 cm de largo XL: 3 cm de ancho x 53,5 - 63,5 cm de largo Consulta nuestra guía de tallas y recuerda dejar un espacio de dos dedos entre el collar y el cuello de tu perro. Si no tienes a mano un metro suave, utiliza un cordón o cable para que puedas rodear el cuello de tu perro.
-  Updated: 2025-12-10T19:02:46Z
+  Updated: 2026-02-02T19:42:36Z
   Vendor: La Casa de Turrón
   Product Type: 
   Availability: Available
@@ -455,7 +455,7 @@
     Availability: Not Available
     Price: 40,64 € EUR
 - [Kit de Paseo Adventure Desert](https://lacasadeturron.es/products/kit-de-paseo-adventure-desert): Convierte cada paseo en una experiencia inolvidable con nuestro Kit de Paseo Adventure Desert, compuesto por el arnés y la correa que combinan comodidad, resistencia y un diseño pensado para las aventuras más exigentes. Este conjunto ha sido creado para quienes buscan calidad y estilo sin comprometer la seguridad de su perro. Características del Kit de Paseo Adventure Desert Arnés Adventure Desert: Fabricado con materiales de alta calidad como el neopreno y el poliéster, es perfecto para explorar con total seguridad. Su diseño tipo H cuenta con tres puntos de enganche para un mayor control, mientras que su capa acolchada protege a tu perro de rozaduras provocadas por ramas o piedras. Es ideal para garantizar comodidad, libertad y protección en cada exploración. Correa Adventure: Diseñada para resistir cualquier clima, esta correa waterproof es fácil de limpiar y repele olores y suciedad, manteniéndose impecable en cada uso. Su mango de ante asegura un agarre cómodo, mientras que su resistencia y suavidad la convierten en el complemento perfecto para cualquier paseo. Especificaciones técnicas: Arnés: Diseño acolchado que evita rozaduras y garantiza comodidad; estructura de tipo H con 3 puntos de enganche. Correa: Ancho de 1,9 cm x 1,5 metros de largo. Resistente al agua y al olor, con mango de ante y mosquetones de aleación de zinc. Por qué elegir el Kit Adventure Desert Este kit es más que un accesorio: es tu aliado en las caminatas por la naturaleza, paseos urbanos o cualquier aventura que compartas con tu perro. Combina perfectamente funcionalidad, seguridad y estilo, destacándose por su resistencia y facilidad de mantenimiento. Prepárate para explorar con tu mejor amigo con el Kit de Paseo Adventure Desert, el compañero perfecto para cualquier escenario. Disponible en 4 colores, incluyendo la elegante y versátil tonalidad Desert. Mantenimiento recomendado: Lavar a mano con agua tibia y dejar secar al aire.
-  Updated: 2025-12-10T19:02:47Z
+  Updated: 2026-02-08T14:11:31Z
   Vendor: La Casa de Turrón
   Product Type: Kit de Paseo
   Availability: Available
@@ -467,7 +467,7 @@
     Availability: Available
     Price: 36,64 € EUR
   - [M](https://lacasadeturron.es/products/kit-de-paseo-adventure-desert?variant=51089528193364)
-    Availability: Available
+    Availability: Not Available
     Price: 37,04 € EUR
   - [L](https://lacasadeturron.es/products/kit-de-paseo-adventure-desert?variant=51089528226132)
     Availability: Available
@@ -764,7 +764,7 @@
   Image: https://cdn.shopify.com/s/files/1/0898/3638/8692/files/bebederoantisalpicadura.png?v=1763076193
   Price: 22,90 € EUR
 - [Guante PelOff (adiós pelos)](https://lacasadeturron.es/products/guante-peloff-adios-pelos): El Guante PelOff está diseñado para facilitar la limpieza de tu mascota sin el estrés que supone aquellas razas que sueltan tanto pelo. Gracias a su diseño práctico y ergonómico, podrás retirar pelos no solo de su cuerpo si no de toda la ropa o superficies. Este guante combina materiales de tacto suave, ajuste cómodo y un sistema que permite retirarlo de forma rápida, sin complicaciones gracias a la electricidad estática. Perfecto para el día a día. Características: Material flexible y lavable: permite un ajuste cómodo y reutilizable. Diseño ergonómico tipo guante: ajuste de mano fácil, buen agarre para cepillar, limpiar y manipular. Funcionamiento “Slip-Off”: fácil de quitar una vez terminada la tarea — rápido y sin enredos. Ideal para perros de todo tamaño y pelaje: desde razas de pelo corto a peludo, facilita la limpieza. Cuidados: Lava el guante después de cada uso con agua tibia y jabón neutro
-  Updated: 2026-01-12T10:36:10Z
+  Updated: 2026-02-08T14:11:30Z
   Vendor: La Casa de Turrón
   Product Type: Accesorio
   Availability: Available
@@ -811,7 +811,7 @@
 ## Collections
 
 - [Arneses](https://lacasadeturron.es/collections/arneses): Arneses para perros: comodidad, estilo y seguridad en cada paseo Descubre nuestra exclusiva colección de arneses para perros, diseñados para ofrecer la máxima comodidad y seguridad en cada aventura. Nuestros arneses están disponibles en diferentes tamaños y estilos, ideales para perros pequeños, medianos y grandes. ¿Por qué elegir nuestros arneses para perros? Comodidad excepcional: Materiales acolchados que cuidan la piel de tu perro. Ajuste personalizado: Diseños ajustables que se adaptan perfectamente a todas las razas. Estilo único: Variedad de colores y estampados modernos para destacar en cada paseo. Máxima seguridad: Cierres resistentes y puntos de anclaje seguros para evitar tirones o accidentes. Nuestros arneses son perfectos para paseos diarios, caminatas largas o incluso entrenamientos. Ya sea que busques un arnés anti-tirones, un arnés para cachorros o uno para perros grandes, aquí encontrarás la mejor opción. Compra arneses para perros online Explora nuestra tienda y encuentra el arnés ideal para tu compañero de cuatro patas. Ofrecemos envío rápido y garantía de calidad en todos nuestros productos. ¡Haz que cada paseo sea inolvidable con un arnés que combina funcionalidad y diseño!
-  Updated: 2026-01-29T12:21:30Z
+  Updated: 2026-02-08T12:19:36Z
   Total Products: 11
 - [Comederos Cerámicos](https://lacasadeturron.es/collections/comederos-ceramicos)
   Updated: 2026-01-29T12:21:30Z
@@ -820,34 +820,34 @@
   Updated: 2026-01-19T12:21:14Z
   Total Products: 15
 - [Juguetes](https://lacasadeturron.es/collections/juguetes): Juguetes para Perros - Diversión y Estimulación para tu Mascota Encuentra los mejores juguetes para perros en nuestra tienda online. Ofrecemos una amplia selección de juguetes interactivos, resistentes y seguros, diseñados para mantener a tu perro entretenido, activo y mentalmente estimulado. Desde mordedores duraderos hasta juguetes de peluche suaves, nuestros productos son ideales para todas las razas y tamaños. Los juguetes no solo proporcionan horas de diversión, sino que también ayudan a mejorar el bienestar de tu mascota, evitando el aburrimiento y fomentando hábitos saludables. ¡Explora nuestra categoría de juguetes y encuentra el compañero perfecto de juego para tu perro!
-  Updated: 2025-12-10T19:02:43Z
+  Updated: 2026-02-03T12:23:00Z
   Total Products: 12
 - [Paseos](https://lacasadeturron.es/collections/paseos): Descubre la colección Paseos de La Casa de Turrón, diseñada para que disfrutes al máximo cada salida con tu perro. Esta línea incluye una cuidada selección de arneses cómodos y seguros, collares resistentes y elegantes, y prácticos accesorios como bolsas para recoger cacas, pensados para hacer de cada paseo una experiencia única.
-  Updated: 2026-01-29T12:21:30Z
+  Updated: 2026-02-08T12:19:36Z
   Total Products: 16
 - [Best  Products](https://lacasadeturron.es/collections/best--products)
-  Updated: 2026-01-29T12:21:30Z
+  Updated: 2026-02-08T12:19:36Z
   Total Products: 68
 - [Newest Products](https://lacasadeturron.es/collections/newest-products)
-  Updated: 2026-01-29T12:21:30Z
+  Updated: 2026-02-08T12:19:36Z
   Total Products: 68
 - [Juguetes Mordedores](https://lacasadeturron.es/collections/juguetes-mordedores): Descubre nuestra selección de juguetes mordedores para perros, diseñados para satisfacer el instinto natural de masticar mientras cuidan su salud bucal. Fabricados con materiales resistentes y seguros, nuestros juguetes mordedores son ideales para aliviar el estrés, combatir el aburrimiento y fortalecer los dientes y encías de tu mascota. Desde anillos de goma hasta figuras interactivas, encontrarás opciones perfectas para perros de todas las razas y tamaños. Beneficios de los Juguetes Mordedores para Perros: Cuidado dental: Ayudan a reducir el sarro y la placa gracias a sus texturas únicas. Resistencia asegurada: Materiales duraderos para mordidas fuertes y prolongadas. Entretenimiento garantizado: Mantienen a tu perro activo, feliz y mentalmente estimulado. Variedad de diseños: Juguetes funcionales que combinan diversión y beneficios para la salud. Dale a tu perro la diversión que se merece con nuestros juguetes mordedores de alta calidad. Navega por nuestra categoría y elige el compañero de juego perfecto para mantener a tu amigo de cuatro patas entretenido y saludable. ¡Tu perro te lo agradecerá!
-  Updated: 2025-12-10T19:02:43Z
+  Updated: 2026-02-03T12:23:00Z
   Total Products: 8
 - [Juguetes Voladores](https://lacasadeturron.es/collections/juguetes-voladores): Explora nuestra colección de juguetes voladores para perros, diseñados para que tú y tu mascota disfruten juntos de emocionantes momentos al aire libre. Desde frisbees de alta resistencia hasta discos aerodinámicos, estos juguetes son perfectos para fomentar la actividad física y el vínculo entre tú y tu perro. Gracias a sus materiales seguros y ligeros, son fáciles de lanzar, recoger y transportar, adaptándose a perros de todos los tamaños y niveles de energía. Beneficios de los Juguetes Voladores para Perros: Ejercicio físico: Estimula a tu perro a correr y mantenerse activo, mejorando su salud y bienestar. Vínculo especial: Los juegos de lanzar y recoger fortalecen la conexión entre tú y tu mascota. Materiales seguros: Fabricados con goma y plásticos resistentes para mordidas moderadas. Fáciles de usar: Diseño ergonómico para lanzamientos precisos y vuelo estable. Convierte cada paseo en una aventura con nuestros juguetes voladores, ideales para perros activos y amantes de la diversión. Encuentra el frisbee o disco perfecto y disfruta de horas de juego lleno de energía con tu fiel compañero.
-  Updated: 2025-12-10T19:02:43Z
+  Updated: 2026-02-03T12:23:00Z
   Total Products: 1
 - [Juguetes Alimentación](https://lacasadeturron.es/collections/juguetes-alimentacion): Descubre nuestros juguetes de alimentación para perros, diseñados para combinar el juego con una experiencia interactiva que estimula su mente y los mantiene entretenidos por más tiempo. Estos juguetes permiten introducir premios, croquetas o snacks en su interior, desafiando a tu mascota a resolver cómo obtener su recompensa. Perfectos para reducir el aburrimiento, aliviar el estrés y fomentar hábitos saludables de alimentación. Beneficios de los Juguetes de Alimentación para Perros: Estimulación mental: Ayudan a desarrollar las habilidades cognitivas de tu perro mientras juega. Control del estrés: Proporcionan entretenimiento duradero y una salida positiva para liberar energía. Promoción de una alimentación más lenta: Evitan que tu perro coma demasiado rápido al convertir la comida en un desafío. Materiales seguros y duraderos: Diseñados para resistir mordidas y horas de juego. Variedad de diseños: Desde juguetes rellenos hasta rompecabezas interactivos, ideales para todo tipo de perros. Haz que cada bocado sea una aventura con nuestros juguetes de alimentación para perros. ¡Elige el favorito de tu mascota y dale horas de diversión, estimulación y recompensas!
   Updated: 2025-12-28T12:19:23Z
   Total Products: 4
 - [Collares](https://lacasadeturron.es/collections/collares): Collares para perros: estilo y comodidad en cada paseo En nuestra colección de collares para perros, encontrarás el equilibrio perfecto entre funcionalidad, seguridad y diseño. Nuestros collares están fabricados con materiales de alta calidad, diseñados para adaptarse a todas las razas y tamaños de perros, desde cachorros hasta adultos. ¿Por qué elegir nuestros collares para perros? Durabilidad garantizada: Materiales resistentes y seguros para un uso diario. Comodidad total: Diseñados para ajustarse sin causar molestias a tu perro. Variedad de estilos: Colores, estampados y diseños modernos para todos los gustos. Seguridad en cada paseo: Cierres resistentes y anillas fuertes para sujetar correas con total confianza. Nuestros collares son ideales tanto para paseos diarios como para momentos especiales. Disponemos de collares para perros pequeños, medianos y grandes, incluyendo opciones como collares ajustables, antitirones y el popular collar martingale para razas específicas. Compra collares para perros online Explora nuestra tienda y elige entre una amplia variedad de collares que destacan por su calidad y diseño único. Ofrecemos envío rápido y asesoramiento para que encuentres el modelo perfecto para tu peludo. ¡Haz que tu perro luzca increíble con un collar cómodo, seguro y lleno de estilo!
-  Updated: 2026-01-25T12:19:45Z
+  Updated: 2026-02-03T12:23:00Z
   Total Products: 5
 - [Correas](https://lacasadeturron.es/collections/correas): Descubre nuestras correas para perros diseñadas para ofrecer estilo, comodidad y durabilidad en cada paseo. Fabricadas con materiales de alta calidad como el cuero, nuestras correas combinan elegancia y funcionalidad, ideales tanto para paseos diarios como para ocasiones especiales. Correas de cuero hechas a mano, disponibles en diferentes largos y colores clásicos como beige, marrón, azul y verde oscuro. Tamaños adaptables para todo tipo de perros, asegurando un paseo seguro y cómodo. Diseños que se combinan perfectamente con nuestros collares para crear conjuntos únicos. Encuentra el equilibrio perfecto entre estética y practicidad con nuestras correas, creadas para acompañarte en cada aventura junto a tu mejor amigo. Explora nuestra colección y elige la correa ideal para tu perro.
   Updated: 2025-12-31T12:20:57Z
   Total Products: 12
 - [Colección Argentina](https://lacasadeturron.es/collections/coleccion-argentina): Descubre la colección "Argentina", una selección exclusiva de collares y correas de cuero, hechos a mano con maestría artesanal. Inspirados en la elegancia y el estilo tradicional, estos accesorios destacan por su diseño único en tonos sofisticados como beige, marrón, azul y verde oscuro. Cada pieza está elaborada con cuero de alta calidad, garantizando durabilidad, comodidad y un toque de distinción para tu perro. Perfectos para quienes buscan un equilibrio entre funcionalidad y estilo, los collares y correas de la colección "Argentina" son ideales para cualquier ocasión, desde paseos cotidianos hasta eventos especiales.
-  Updated: 2026-01-12T12:20:38Z
+  Updated: 2026-02-03T12:23:00Z
   Total Products: 6
 - [Peluches](https://lacasadeturron.es/collections/peluches): Descubre los peluches favoritos para tu pequeño
   Updated: 2025-12-10T19:02:44Z
@@ -871,7 +871,7 @@
   Updated: 2025-12-10T19:02:44Z
   Total Products: 7
 - [Pack Cachorro](https://lacasadeturron.es/collections/pack-cachorro)
-  Updated: 2026-01-29T12:21:30Z
+  Updated: 2026-02-08T12:19:36Z
   Total Products: 14
 - [Pack Premium](https://lacasadeturron.es/collections/pack-premium)
   Updated: 2026-01-19T12:21:14Z
@@ -1037,6 +1037,18 @@
     Tags: arnes acolchado para perro, arnes neopreno perro, arnes para perro, comedero acero inox, comedero alto perro, comedero ceramica mascotas, comedero elevado perro, comedero madera perro
   - [La historia de los arneses para perros: desde lo básico hasta el arnés de neopreno](https://lacasadeturron.es/blogs/guias-y-recomendaciones-para-perros/la-historia-de-los-arneses-para-perros-desde-lo-basico-hasta-el-arnes-de-neopreno): La historia de los arneses para perros: desde lo básico hasta el arnés de neopreno
     Updated: 2026-01-30T10:06:24Z
+    Author: Turrón
+    Tags: arnes acolchado para perro, arnes neopreno perro, arnes para perro, comedero acero inox, comedero alto perro, comedero ceramica mascotas, comedero elevado perro, comedero madera perro
+  - [Tendencias en comederos elevados y diseño: más salud para tu perro](https://lacasadeturron.es/blogs/guias-y-recomendaciones-para-perros/tendencias-en-comederos-elevados-y-diseno-mas-salud-para-tu-perro): Tendencias en comederos elevados y diseño: más salud para tu perro
+    Updated: 2026-02-02T10:06:12Z
+    Author: Turrón
+    Tags: arnes acolchado para perro, arnes neopreno perro, arnes para perro, comedero acero inox, comedero alto perro, comedero ceramica mascotas, comedero elevado perro, comedero madera perro
+  - [Preguntas frecuentes sobre arneses para perro y cómo elegir el adecuado](https://lacasadeturron.es/blogs/guias-y-recomendaciones-para-perros/preguntas-frecuentes-sobre-arneses-para-perro-y-como-elegir-el-adecuado): Preguntas frecuentes sobre arneses para perro y cómo elegir el adecuado
+    Updated: 2026-02-04T10:05:21Z
+    Author: Turrón
+    Tags: arnes acolchado para perro, arnes neopreno perro, arnes para perro, comedero acero inox, comedero alto perro, comedero ceramica mascotas, comedero elevado perro, comedero madera perro
+  - [Arneses y comederos: la guía esencial para el bienestar de tu perro](https://lacasadeturron.es/blogs/guias-y-recomendaciones-para-perros/arneses-y-comederos-la-guia-esencial-para-el-bienestar-de-tu-perro): Arneses y comederos: la guía esencial para el bienestar de tu perro
+    Updated: 2026-02-06T10:05:42Z
     Author: Turrón
     Tags: arnes acolchado para perro, arnes neopreno perro, arnes para perro, comedero acero inox, comedero alto perro, comedero ceramica mascotas, comedero elevado perro, comedero madera perro
 
