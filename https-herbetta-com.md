@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-27T03:01:22Z
 - Contact Email: naturalstulsi@gmail.com
-- Updated At: 2026-01-31T00:00:40.747Z
+- Updated At: 2026-02-09T00:00:42.860Z
 
 ## Products
 
@@ -23,7 +23,7 @@
     Availability: Available
     Price: ₹269.00 INR
 - [Pure Natural Henna Powder for Hair Colour & Conditioning | Herbetta](https://herbetta.com/products/natural-henna-powder): Helps achieve rich red to brown hair tones while conditioning the scalp. Supports stronger, smoother hair using plant-based colouring care.
-  Updated: 2026-01-23T04:04:09Z
+  Updated: 2026-02-05T15:57:02Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: ₹249.00 INR
 - [Beetroot Powder for Natural Skin Glow & Brightening | Herbetta](https://herbetta.com/products/herbal-beetroot-powder): Helps enhance natural skin glow and mild exfoliation. Supports acne control and healthier looking skin with plant-based nutrients.
-  Updated: 2026-01-29T04:41:48Z
+  Updated: 2026-02-06T07:18:16Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Available
     Price: ₹269.00 INR
 - [Organic Shikakai Powder for Hair Wash & Conditioning | Herbetta](https://herbetta.com/products/herbal-shikakai-powder): Acts as a natural hair cleanser and conditioner. Helps reduce hair fall, detangle strands, and improve softness with regular use.
-  Updated: 2026-01-23T04:03:06Z
+  Updated: 2026-02-08T06:21:26Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -138,7 +138,7 @@
     Availability: Available
     Price: ₹249.00 INR
 - [Mulethi Powder for Skin Brightening & Pigmentation Care | Herbetta](https://herbetta.com/products/mulethi-powder-licorice-root): Helps reduce dark spots and uneven skin tone naturally. Supports brighter looking skin and protection against sun-induced dullness.
-  Updated: 2026-01-26T14:21:17Z
+  Updated: 2026-02-03T08:24:12Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -162,7 +162,7 @@
     Availability: Available
     Price: ₹219.00 INR
 - [Neem Powder for Acne Control & Scalp Health | Herbetta](https://herbetta.com/products/neem-powder-for-hair-skin-care): Supports antibacterial skin and scalp care. Helps manage acne, dandruff, and irritation with regular herbal mask application.
-  Updated: 2026-01-24T07:43:38Z
+  Updated: 2026-02-02T02:38:28Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Available
     Price: ₹249.00 INR
 - [Rose Petal Powder for Gentle Skin Care & Glow | Herbal Face Pack](https://herbetta.com/products/pure-rose-petal-powder): Soothes skin and helps maintain natural freshness. Suitable for gentle face packs to support soft, hydrated, and radiant skin.
-  Updated: 2026-01-29T04:40:18Z
+  Updated: 2026-02-04T04:24:38Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -186,7 +186,7 @@
     Availability: Available
     Price: ₹269.00 INR
 - [Triphala Powder for Digestion & Gut Health | Herbetta](https://herbetta.com/products/triphala-powder-churna): Supports healthy digestion and bowel regularity. Helps improve gut balance using traditional herbal formulation. Buy Now!
-  Updated: 2026-01-20T01:05:11Z
+  Updated: 2026-02-08T17:29:11Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/0853/1482/files/haircarecombo.png?v=1768031828
   Price: ₹419.00 INR
 - [Bhringraj Hibiscus Amla Powder Combo for Hair Growth | Herbetta](https://herbetta.com/products/bhringraj-hibiscus-amla-powder-combo): Natural hair growth combo with Bhringraj, Hibiscus & Amla powders. Helps reduce hair fall, strengthen roots & improve hair health. 100% herbal.
-  Updated: 2026-01-29T01:18:14Z
+  Updated: 2026-02-06T21:20:42Z
   Vendor: Herbetta
   Product Type: 
   Availability: Available
@@ -225,20 +225,27 @@
   Updated: 2026-01-20T01:05:08Z
   Total Products: 0
 - [Herbal Hair Care Powders for Growth, Strength & Shine | Herbetta](https://herbetta.com/collections/hair-care): Supports stronger roots, hair growth, dandruff control, and natural shine using traditional herbal care without chemicals or synthetic additives.
-  Updated: 2026-01-29T12:19:42Z
+  Updated: 2026-02-08T12:24:37Z
   Total Products: 8
 - [Natural Herbal Skin Care Powders for Clear & Glowing Skin | Herbetta](https://herbetta.com/collections/skin-care): Helps cleanse pores, control excess oil, reduce acne, and improve skin glow using pure herbal skincare solutions without harsh chemicals.
-  Updated: 2026-01-29T12:19:42Z
+  Updated: 2026-02-06T12:23:06Z
   Total Products: 7
 - [Herbal Care Blends for Complete Hair & Skin Solutions | Herbetta](https://herbetta.com/collections/special-blends): Ready-to-use herbal combinations designed to deliver multiple benefits in one routine, making self-care simple, effective, and natural.
-  Updated: 2026-01-28T04:01:08Z
+  Updated: 2026-02-02T04:43:19Z
   Total Products: 4
 - [Natural Herbal Powders for Daily Health & Wellness | Herbetta](https://herbetta.com/collections/health-care): Supports digestion, immunity, energy, and overall wellness through traditional herbal care made from pure plant-based ingredients.
   Updated: 2026-01-29T03:39:39Z
   Total Products: 3
 - [AVADA - Best Sellers](https://herbetta.com/collections/avada-best-sellers)
-  Updated: 2026-01-29T12:19:42Z
+  Updated: 2026-02-08T12:24:37Z
   Total Products: 19
+
+## Blogs
+
+- [News](https://herbetta.com/blogs/news)
+  - [5 Reasons Rose Petal Powder is the Ultimate Skin Detox | Herbetta](https://herbetta.com/blogs/news/5-reasons-rose-petal-powder-is-the-ultimate-skin-detox): 5 Reasons Rose Petal Powder is the Ultimate Skin Detox | Herbetta
+    Updated: 2026-02-05T04:06:37Z
+    Author: Tulsi Naturals
 
 ## Store Pages
 
