@@ -6,40 +6,40 @@
 - Timezone: Europe/Oslo
 - Created At: 2025-12-23T19:24:36Z
 - Contact Email: freedom202616@outlook.com
-- Updated At: 2026-02-02T00:00:34.921Z
+- Updated At: 2026-02-10T00:00:36.370Z
 
 ## Products
 
 - [Smart Wi-Fi-plugg – Styr strømmen fra telefonen | Freedom.com](https://freedom-com-3645.myshopify.com/products/smart-wi): Styr strømmen hjemmefra med vår smarte Wi-Fi-plugg. Fungerer med Google Assistant og Alexa. Gratis frakt og 14 dagers returrett.
-  Updated: 2026-01-19T11:47:56Z
+  Updated: 2026-02-03T14:22:32Z
   Vendor: Freedom.com
   Product Type: Smart Home
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot2025-12-2323.11.28_15ddeaa6-dd63-46ab-98bb-c68a76182c64.png?v=1766528030
   Price: 349,00 kr NOK
 - [Bluetooth Etikettskriver 4x6 – Trådløs Termisk Skriver | Freedom.com](https://freedom-com-3645.myshopify.com/products/wireless-bluetooth-shipping-label-printer-4x6-thermal-printer-for-iphone-android): Trådløs Bluetooth-etikettskriver for fraktetiketter. Fungerer med iPhone og Android. Perfekt for nettbutikker og dropshipping. Gratis frakt!
-  Updated: 2026-01-19T11:47:40Z
+  Updated: 2026-02-03T14:22:33Z
   Vendor: Freedom.com
   Product Type: Shipping Label Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot2025-12-2712.39.06.png?v=1766835733
   Price: 849,00 kr NOK
 - [Restaureringssett for Billykter – Fjern Gulning og Oksidasjon | Freedom.com](https://freedom-com-3645.myshopify.com/products/car-headlight-restoration-kit-removes-yellowing-oxidation-scratches): Gjenopprett billyktene dine enkelt! Fjerner gulning, oksidasjon og riper. Forbedrer sikt og sikkerhet. Gratis frakt og 14 dagers returrett.
-  Updated: 2026-01-19T11:47:18Z
+  Updated: 2026-02-03T14:22:33Z
   Vendor: Freedom.com
   Product Type: Car Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot2025-12-2814.16.43.png?v=1766927882
   Price: 250,00 kr NOK
 - [Snø- og Isbeskyttelse for Frontrute – Vinterfrostbeskyttelse | Freedom.com](https://freedom-com-3645.myshopify.com/products/car-windshield-snow-ice-cover-winter-frost-protection-for-front-window): Beskytt frontruten mot snø og is! Slitesterkt vintertrekke som sparer deg for isskraping. Passer de fleste biler. Gratis frakt og 14 dagers returrett.
-  Updated: 2026-01-12T08:11:35Z
+  Updated: 2026-02-03T14:22:33Z
   Vendor: Freedom.com
   Product Type: Winter Car Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot2025-12-2911.52.02.png?v=1767005586
   Price: 449,00 kr NOK
 - [RGB LED-stripelys med Bluetooth – 1m/2m/3m/5m | Freedom.com](https://freedom-com-3645.myshopify.com/products/rgb-led-strip-light-bluetooth-control-1m-2m-3m-5m): RGB LED-stripe med Bluetooth-kontroll. Justerbar lysstyrke og farger via app. Perfekt for spillrom, soverom og TV-bakgrunnsbelysning. Gratis frakt!
-  Updated: 2026-01-19T11:56:51Z
+  Updated: 2026-02-03T14:22:33Z
   Vendor: Freedom.com
   Product Type: LED Light Strip
   Availability: Available
@@ -76,15 +76,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot_2025-12-29_20.02.37.png?v=1767035012
     Price: 429,00 kr NOK
-- [Smart Sunset Lamp – LED Projection Night Light for Room Decor](https://freedom-com-3645.myshopify.com/products/smart-sunset-lamp-led-projection-night-light-for-room-decor): Skap en vakker stemning med Smart Sunset Lamp – perfekt for soverom, stue eller som bakgrunn i TikTok/Instagram-videoer. LED-lampen projiserer solnedgangs- og fargeeffekter som gir cosy vibes i rommet. Funksjoner: Vakre sunset-effekter og RGB-farger USB-drevet, enkel tilkobling til PC, adapter eller powerbank App‑kontroll via Smart Life / Tuya Perfekt for hjemmedekor og video/bildebakgrunn Trendprodukt på sosiale medier
-  Updated: 2026-01-17T19:14:00Z
+- [Solnedgang Lampe - LED Projektor Nattlys | Freedom.com](https://freedom-com-3645.myshopify.com/products/smart-sunset-lamp-led-projection-night-light-for-room-decor): Skap en vakker stemning med Smart Sunset Lamp – perfekt for soverom, stue eller som bakgrunn i TikTok/Instagram-videoer. LED-lampen projiserer solnedgangs- og fargeeffekter som gir cosy vibes i rommet. Funksjoner: Vakre sunset-effekter og RGB-farger USB-drevet, enkel tilkobling til PC, adapter eller powerbank App‑kontroll via Smart Life / Tuya Perfekt for hjemmedekor og video/bildebakgrunn Trendprodukt på sosiale medier
+  Updated: 2026-02-04T04:39:33Z
   Vendor: Freedom.com
   Product Type: sunset lampe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_4e88f8c7-7780-4320-9947-d47c37730fe6.jpg?v=1768326705
   Price: 349,00 kr NOK
-- [ANC Bluetooth Ørepropper A8 Pro 2 – Trådløse In-Ear | Freedom.com](https://freedom-com-3645.myshopify.com/products/anc-bluetooth-orepropper-a8-pro-2-tradlose-in-ear-hodetelefoner-med-ladeetui): Trådløse Bluetooth ørepropper med aktiv støydemping (ANC) og gaming-modus. Berøringskontroll og handsfree. Kompatibel med Android og iOS. Gratis frakt!
-  Updated: 2026-01-15T17:37:01Z
+- [Trådløse Ørepropper med Støydemping ANC | Freedom.com](https://freedom-com-3645.myshopify.com/products/anc-bluetooth-orepropper-a8-pro-2-tradlose-in-ear-hodetelefoner-med-ladeetui): Trådløse Bluetooth ørepropper med aktiv støydemping (ANC) og gaming-modus. Berøringskontroll og handsfree. Kompatibel med Android og iOS. Gratis frakt!
+  Updated: 2026-02-04T03:30:25Z
   Vendor: Freedom.com
   Product Type: anc bluetooth ørepropper
   Availability: Available
@@ -101,60 +101,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot_2026-01-09_15.09.06.png?v=1767968049
     Price: 649,00 kr NOK
-- [Hydrating Vitamin C + Hyaluronic Acid Face Serum – Brightening & Anti‑Age Booster](https://freedom-com-3645.myshopify.com/products/untitled-jan13_19-13): Oppdag vårt Vitamin C + Hyaluronic Acid Face Serum – for en frisk, hydrert og strålende hud!Dette serumet kombinerer kraften fra vitamin C (for lysne hudtone og jevnere farge) med dypt fuktighetsgivende hyaluronsyre som binder fuktighet dypt i huden.Fordeler: ✨ Lysner huden og fremmer en jevn, frisk hudtone 💧 Dyp hydrering som gir fyldigere og mer plump hud 🌿 Anti-oksidant beskyttelse som kan hjelpe med redusert fine linjer og aldringstegn ✔ Lett, hurtigabsorberende formula som passer for alle hudtyper Bruk:Bruk morgen og kveld etter rens, før fuktighetskrem og solkrem for best resultat.
-  Updated: 2026-01-22T11:38:47Z
+- [Vitamin C Serum med Hyaluronsyre - Anti-Age | Freedom.com](https://freedom-com-3645.myshopify.com/products/untitled-jan13_19-13): Oppdag vårt Vitamin C + Hyaluronic Acid Face Serum – for en frisk, hydrert og strålende hud!Dette serumet kombinerer kraften fra vitamin C (for lysne hudtone og jevnere farge) med dypt fuktighetsgivende hyaluronsyre som binder fuktighet dypt i huden.Fordeler: ✨ Lysner huden og fremmer en jevn, frisk hudtone 💧 Dyp hydrering som gir fyldigere og mer plump hud 🌿 Anti-oksidant beskyttelse som kan hjelpe med redusert fine linjer og aldringstegn ✔ Lett, hurtigabsorberende formula som passer for alle hudtyper Bruk:Bruk morgen og kveld etter rens, før fuktighetskrem og solkrem for best resultat.
+  Updated: 2026-02-04T13:49:35Z
   Vendor: Freedom.com
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_23e33008-c259-4805-954a-69ac7bc99a4a.jpg?v=1768329038
   Price: 199,00 kr NOK
-- [Magnetisk Trådløs Powerbank 10000mAh - PD 20W Hurtiglading USB-C](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c): Magnetisk Trådløs Powerbank 10000mAh med PD 20W HurtigladingAldri gå tom for batteri igjen! Denne smarte powerbanken fester seg magnetisk til iPhone 12 og nyere modeller, og lader telefonen din trådløst mens du bruker den. Perfekt for folk på farten!Produktfordeler: 🧲 Magnetisk feste - Fester seg automatisk til iPhone 12/13/14/15 (MagSafe-kompatibel) ⚡ PD 20W Hurtiglading - Lader telefonen din superraskt 🔋 10000mAh kapasitet - Lader iPhone 2-3 ganger på én lading 📱 Trådløs + kablet lading - Bruk magnetisk trådløs eller USB-C kabel 🔌 USB-C port - Moderne og universell tilkobling 📊 Digital display - Viser nøyaktig batterinivå i prosent ✈️ Kompakt og lett - Perfekt for reiser og daglig bruk 🛡️ Sikker lading - Beskyttelse mot overoppheting, overladning og kortslutning 🎨 Elegant design - Slank og stilren i hvit farge Slik bruker du powerbanken: Lad powerbanken: Koble til USB-C-kabelen (medfølger) og lad til 100% Magnetisk lading: Plasser iPhone 12 eller nyere på baksiden - den fester seg automatisk Kablet lading: Koble USB-C-kabelen til telefonen for enda raskere lading (20W) Sjekk batterinivå: Se på det digitale displayet hvor mye strøm som er igjen Lad flere enheter: Bruk både trådløs og kablet lading samtidig Hva er inkludert i pakken: 1x Magnetisk Trådløs Powerbank 10000mAh 1x USB-C ladekabel 1x Brukermanual Spesifikasjoner: Kapasitet: 10000mAh Trådløs lading: 15W (maks) USB-C utgang: PD 20W hurtiglading USB-C inngang: 18W Magnetisk styrke: Sterk MagSafe-kompatibel magnet Display: Digital batteriprosent-indikator Vekt: Ca. 200g Farge: Hvit Kompatibilitet: iPhone 12, 13, 14, 15 (alle modeller) og andre Qi-kompatible enheter Perfekt for: ✅ iPhone 12/13/14/15-brukere ✅ Folk som alltid er på farten ✅ Reiser og lange dager ute ✅ Gaming og videostrømming ✅ Backup-strøm når du trenger det mest
-  Updated: 2026-01-21T06:29:29Z
-  Vendor: Freedom.com
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_ff9d5849-1197-4420-a7f1-60eee6f1c576.jpg?v=1768573889
-  - [White / 5000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991128424680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_ff9d5849-1197-4420-a7f1-60eee6f1c576.jpg?v=1768573889
-    Price: 549,00 kr NOK
-  - [Gray / 5000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991128457448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_67388173-d528-4715-a166-eb109eeaad0c.jpg?v=1768573923
-    Price: 549,00 kr NOK
-  - [Purple / 5000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991128490216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_6c600cf8-5f51-4894-9f49-f1563ff50a69.jpg?v=1768573956
-    Price: 549,00 kr NOK
-  - [Green / 5000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991128522984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_c4c1bd94-691e-4166-81e3-32d8c6d11117.jpg?v=1768573985
-    Price: 549,00 kr NOK
-  - [White / 10000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991130816744)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_ff9d5849-1197-4420-a7f1-60eee6f1c576.jpg?v=1768573889
-    Price: 649,00 kr NOK
-  - [Gray / 10000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991130849512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_67388173-d528-4715-a166-eb109eeaad0c.jpg?v=1768573923
-    Price: 649,00 kr NOK
-  - [Purple / 10000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991130882280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_6c600cf8-5f51-4894-9f49-f1563ff50a69.jpg?v=1768573956
-    Price: 649,00 kr NOK
-  - [Green / 10000mAh](https://freedom-com-3645.myshopify.com/products/magnetisk-tradlos-powerbank-10000mah-pd-20w-hurtiglading-usb-c?variant=47991130915048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_c4c1bd94-691e-4166-81e3-32d8c6d11117.jpg?v=1768573985
-    Price: 649,00 kr NOK
-- [ORDRO M5 Action Camera 4K - Pocket Gimbal Kamera med IR Nattsyn](https://freedom-com-3645.myshopify.com/products/ordro-m5-action-camera-4k-pocket-gimbal-kamera-med-ir-nattsyn): ORDRO M5 - Profesjonelt Pocket Gimbal Kamera med 4K og IR NattsynDette er ikke bare en stabilisator - det er et komplett action-kamera med innebygd 3-akset gimbal! Ta dine videoer til profesjonelt nivå med dette alt-i-ett vlogging-kameraet.Nøkkelfunksjoner: ✓ Komplett 4K action-kamera med innebygd gimbal-stabilisering ✓ IR nattsyn - film selv i mørket! ✓ Stor touchskjerm for enkel kontroll og forhåndsvisning ✓ 3-akset stabilisering for silkemyke, profesjonelle opptak ✓ 4K videokvalitet for krystallklare opptak ✓ Kompakt pocket-design - ta det med overalt ✓ Lang batteritid for hele dager med filming ✓ Enkel å bruke - perfekt for både nybegynnere og profesjonelle Perfekt for:Vloggere, innholdsskapere, reisebloggere, YouTube-produsenter, TikTok-skapere, nattfotografering og alle som ønsker å lage profesjonelle videoer uten tungt utstyr.Hva får du?Velg mellom standard pakke eller oppgrader til pakken med 64GB SD-kort inkludert - klar til bruk med en gang!Oppgrader ditt innhold i dag! Med ORDRO M5 pocket gimbal-kameraet får du kinokvalitet på videoene dine, dag som natt. Ingen mer rystende videoer - bare profesjonelle, silkemyke opptak hver gang.
-  Updated: 2026-01-18T06:59:27Z
+- [ORDRO M5 Action Camera 4K Gimbal - IR Nattsyn | Freedom.com](https://freedom-com-3645.myshopify.com/products/ordro-m5-action-camera-4k-pocket-gimbal-kamera-med-ir-nattsyn): ORDRO M5 - Profesjonelt Pocket Gimbal Kamera med 4K og IR NattsynDette er ikke bare en stabilisator - det er et komplett action-kamera med innebygd 3-akset gimbal! Ta dine videoer til profesjonelt nivå med dette alt-i-ett vlogging-kameraet.Nøkkelfunksjoner: ✓ Komplett 4K action-kamera med innebygd gimbal-stabilisering ✓ IR nattsyn - film selv i mørket! ✓ Stor touchskjerm for enkel kontroll og forhåndsvisning ✓ 3-akset stabilisering for silkemyke, profesjonelle opptak ✓ 4K videokvalitet for krystallklare opptak ✓ Kompakt pocket-design - ta det med overalt ✓ Lang batteritid for hele dager med filming ✓ Enkel å bruke - perfekt for både nybegynnere og profesjonelle Perfekt for:Vloggere, innholdsskapere, reisebloggere, YouTube-produsenter, TikTok-skapere, nattfotografering og alle som ønsker å lage profesjonelle videoer uten tungt utstyr.Hva får du?Velg mellom standard pakke eller oppgrader til pakken med 64GB SD-kort inkludert - klar til bruk med en gang!Oppgrader ditt innhold i dag! Med ORDRO M5 pocket gimbal-kameraet får du kinokvalitet på videoene dine, dag som natt. Ingen mer rystende videoer - bare profesjonelle, silkemyke opptak hver gang.
+  Updated: 2026-02-03T14:42:40Z
   Vendor: Freedom.com
   Product Type: anc bluetooth ørepropper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_2f60b477-4ffb-4743-97fe-92cce4b8b914.jpg?v=1768676234
   Price: 4 990,00 kr NOK
 - [Flamme Luftfukter med LED-effekt – Aroma Diffuser | Freedom.com](https://freedom-com-3645.myshopify.com/products/flamme-luftfukter-aroma-diffuser-med-led-flammeeffekt-og-fjernkontroll): Flamme luftfukter med realistisk LED-flammeeffekt, aromaterapi og fjernkontroll. Perfekt for soverom, stue og kontor. Gratis frakt! 🔥
-  Updated: 2026-01-19T04:55:26Z
+  Updated: 2026-02-03T14:22:35Z
   Vendor: Freedom.com
   Product Type: 
   Availability: Available
@@ -183,26 +145,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_7839dccc-1a82-4849-96fa-e97475a6b024.jpg?v=1768754552
     Price: 179,00 kr NOK
-- [Trådløs Billader Telefonholder 15W Hurtiglading - iPhone Samsung Xiaomi](https://freedom-com-3645.myshopify.com/products/tradlos-billader-telefonholder-15w-hurtiglading): Trådløs billader og telefonholder i ett. 15W hurtiglading, automatisk grep, luftventilmontering. Perfekt for iPhone, Samsung, Xiaomi. Trygg kjøring med handsfree.
-  Updated: 2026-01-21T06:47:07Z
-  Vendor: Freedom.com
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_8f0101d2-4b69-4bfb-b060-d8b7c27d796d.jpg?v=1768849016
-  - [A: wireless charger](https://freedom-com-3645.myshopify.com/products/tradlos-billader-telefonholder-15w-hurtiglading?variant=48003543466216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_8f0101d2-4b69-4bfb-b060-d8b7c27d796d.jpg?v=1768849016
-    Price: 299,00 kr NOK
-  - [B: only holder](https://freedom-com-3645.myshopify.com/products/tradlos-billader-telefonholder-15w-hurtiglading?variant=48003543498984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_27295329-ae02-4446-b0d8-44474d2b1530.jpg?v=1768849065
-    Price: 179,00 kr NOK
-  - [C: wireless charger](https://freedom-com-3645.myshopify.com/products/tradlos-billader-telefonholder-15w-hurtiglading?variant=48003543531752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_04212415-1fb5-4e0a-a1b1-b325982f27ae.jpg?v=1768849093
-    Price: 249,00 kr NOK
 - [Podofo 7'' Carplay Android Auto Dashcam GPS - Smart Bilskjerm](https://freedom-com-3645.myshopify.com/products/podofo-7-car-monitor-dashboard-carplay-android-auto-dash-cam-car-dvr-eq-sound-mirror-link-gps-navigation-smart-screen-player): Podofo 7'' bilskjerm med Carplay, Android Auto, dashcam og GPS. Alt-i-ett løsning for moderne biler. Enkel montering. Kjøp nå!
-  Updated: 2026-01-21T07:40:13Z
+  Updated: 2026-02-04T03:45:31Z
   Vendor: Freedom.com
   Product Type: 
   Availability: Available
@@ -216,7 +160,7 @@
     Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/FullSizeRender_7daf1bed-926f-4af2-8540-8b8272d8522e.jpg?v=1768854062
     Price: 629,00 kr NOK
 - [LED Ansiktsmaske med Nakke - 7 Farger Lysterapi | Freedom.com](https://freedom-com-3645.myshopify.com/products/led-ansiktsmaske-med-nakke-7-farger-lysterapi-for-hudpleie): Profesjonell LED ansiktsmaske med nakkebehandling. 7 lysfarger for anti-aging, akne og hudpleie. Spa-kvalitet hjemme. Gratis frakt Norge!
-  Updated: 2026-01-20T19:39:45Z
+  Updated: 2026-02-03T14:22:35Z
   Vendor: Generic
   Product Type: Health Care
   Availability: Available
@@ -229,34 +173,41 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot_2026-01-20_20.17.23.png?v=1768936669
     Price: 349,00 kr NOK
+- [Portable Blender 700ml USB Oppladbar - Smoothie Blender | Freedom.com](https://freedom-com-3645.myshopify.com/products/portable-blender-700ml-usb-oppladbar-smoothie-blender-multifunksjonell): Oppladbar portable blender 700ml med USB-C lading. Kraftig 11.1V motor, 6 blader. Perfekt for smoothies, proteinshaker, camping. BPA-fri. Gratis frakt Norge!
+  Updated: 2026-02-04T09:26:22Z
+  Vendor: Generic
+  Product Type: Electronics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0771/4376/9320/files/Screenshot2026-02-0316.48.06.png?v=1770133951
+  Price: 390,00 kr NOK
 
 ## Collections
 
 - [Startside](https://freedom-com-3645.myshopify.com/collections/frontpage)
-  Updated: 2026-01-19T11:47:57Z
+  Updated: 2026-02-03T14:22:32Z
   Total Products: 1
 - [Bilprodukter](https://freedom-com-3645.myshopify.com/collections/bilprodukter): Alt du trenger for bilen din oppvarming vedlikehold og beskyttelse Bilvarmer, frontrute beskyttelse, billykter restaueringsset
-  Updated: 2026-01-20T18:46:12Z
-  Total Products: 5
+  Updated: 2026-02-03T15:14:22Z
+  Total Products: 4
 - [Elektronikk](https://freedom-com-3645.myshopify.com/collections/elektronikk): Smarte elektroniske produktet for hjemmet.
-  Updated: 2026-01-20T18:29:03Z
+  Updated: 2026-02-04T09:26:23Z
   Total Products: 4
 - [Health care](https://freedom-com-3645.myshopify.com/collections/health-care)
-  Updated: 2026-01-22T12:24:37Z
+  Updated: 2026-02-03T14:38:50Z
   Total Products: 2
 
 ## Store Pages
 
 - [We are here to help](https://freedom-com-3645.myshopify.com/pages/contact): Have a question or need help? Send us a message and we will get back to you as soon as posible
   Updated: 2025-12-23T20:08:52Z
-- [Om oss](https://freedom-com-3645.myshopify.com/pages/om-oss): Velkommen til Freedom.com! Vi er din pålitelige kilde for innovative teknologiprodukter og smarte løsninger som gjør hverdagen enklere. Vår visjon ...
-  Updated: 2025-12-29T20:44:30Z
 - [FAQ Ofte stilte spørsmål](https://freedom-com-3645.myshopify.com/pages/faq-ofte-stilte-sporsmal): Ofte stilte spørsmål Her finner du svar på de vanligste spørsmålene om bestilling, levering og produkter. 📦 Levering og frakt Hvor lang er levering...
   Updated: 2025-12-29T21:33:24Z
 - [Frakt og Retur](https://freedom-com-3645.myshopify.com/pages/frakt-og-retur): Frakt og levering 📦 Gratis frakt Vi tilbyr gratis frakt på alle ordre til Norge. ⏱️ Leveringstid Normal leveringstid er 7-16 virkedager etter at be...
   Updated: 2025-12-29T21:33:00Z
 - [Dine personvernvalg](https://freedom-com-3645.myshopify.com/pages/data-sharing-opt-out): Som beskrevet i personvernerklæringen vår samler vi inn personlig informasjon fra din interaksjon med oss og nettstedet vårt, inkludert gjennom inf...
   Updated: 2026-01-28T17:56:47Z
+- [Om Freedom.com - Din pålitelige teknologipartner](https://freedom-com-3645.myshopify.com/pages/om-oss-1): Velkommen til Freedom.com Vi er din pålitelige kilde for premium teknologiprodukter som forbedrer hverdagen din. Siden oppstarten har vi vært dedik...
+  Updated: 2026-02-09T18:11:03Z
 
 ## Policies
 
