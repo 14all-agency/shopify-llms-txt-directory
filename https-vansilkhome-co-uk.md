@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-12-23T02:38:43Z
 - Contact Email: support@vansilkhome.co.uk
-- Updated At: 2026-02-02T00:00:38.083Z
+- Updated At: 2026-02-10T00:00:22.479Z
 
 ## Products
 
@@ -3133,7 +3133,7 @@ Perfect for winter, this duvet cover combines breathable comfort with a plush, w
     Availability: Not Available
     Price: £119.00 GBP
 - [Retro Blue Ditsy Floral Duvet Cover](https://vansilkhome.co.uk/products/retro-blue-ditsy-floral-duvet-cover): Add a touch of vintage charm to your bedroom with our Retro Blue Ditsy Floral Duvet Cover. Featuring delicate blue flowers on a warm background, this set brings a timeless, cozy feel to any space. Perfect for anyone who loves blending retro style with modern comfort, this duvet cover will transform your room into a charming, vintage-inspired retreat.
-  Updated: 2026-01-13T12:01:55Z
+  Updated: 2026-02-07T07:46:35Z
   Vendor: VANSILK
   Product Type: Duvet Covers
   Availability: Available
@@ -4116,7 +4116,7 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
   Updated: 2026-01-13T08:41:39Z
   Total Products: 53
 - [Duvet Covers](https://vansilkhome.co.uk/collections/bedding-sets-copy)
-  Updated: 2026-01-13T12:16:28Z
+  Updated: 2026-02-07T12:17:31Z
   Total Products: 97
 - [Pillowcases & Shams](https://vansilkhome.co.uk/collections/duvet-covers-copy)
   Updated: 2025-12-25T05:34:48Z
@@ -4190,6 +4190,9 @@ If you’re curling up with a book, binging your favorite shows, or enjoying a s
     Author: WenQing Wang
   - [Reclaiming the Bedtime Story: Creating a 'Tech-Free' Sanctuary for National Storytelling Week](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/reclaiming-the-bedtime-story-creating-a-tech-free-sanctuary-for-national-storytelling-week)
     Updated: 2026-01-28T02:38:35Z
+    Author: WenQing Wang
+  - [2026 Decor Trends: How to Nail the "Heritage Maximalism" Look with Gingham & Florals](https://vansilkhome.co.uk/blogs/vansilk-home-aesthetic/2026-decor-trends-how-to-nail-the-heritage-maximalism-look-with-gingham-florals)
+    Updated: 2026-02-09T09:07:33Z
     Author: WenQing Wang
 
 ## Store Pages
