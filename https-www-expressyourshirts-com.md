@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-11T03:52:50Z
 - Contact Email: expressyourshirts@gmail.com
-- Updated At: 2026-02-02T19:53:35.232Z
+- Updated At: 2026-02-10T00:00:42.143Z
 
 ## Products
 
@@ -1551,7 +1551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/unisex-staple-t-shirt-white-front-6323c347ab08e.jpg?v=1663288147
     Price: $31.55 USD
 - [TATTOO LIFE - Skull Art Sheet (Bella + Canvas 3001)](https://www.expressyourshirts.com/products/tattoo-life-skull-art-sheet-bella-canvas-3001): This Design along with others from the TATTOO LIFE Series are made to represent the Artwork as a drawing like when you enter a tattoo studio and choose a selection for your tattoo. They are made to have a rough look and authentic unique design. It is retro art with a trendy updated appeal. This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the USSize guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61 5XL 35 31 62-65
-  Updated: 2026-01-13T22:55:33Z
+  Updated: 2026-02-07T14:32:36Z
   Vendor: Express Your Shirts
   Product Type: 
   Availability: Available
@@ -2061,7 +2061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/20e187678558751f798254b2086e2f08_dogziphoody-front.jpg?v=1663617596
     Price: $54.99 USD
 - [Who Rescued Who & Dogs in a van Dog Hoodie](https://www.expressyourshirts.com/products/who-rescued-who-dogs-in-a-van-dog-hoodie): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 100%; ; } Let your dog be adventurous without compromising comfort and mobility with this all-over print zip-up hoodie. Made from a soft and durable fabric. The smooth fabric will make this your dog's most comfy zip-up hoodie ever! It also comes with a small opening on the upper back for dog harness users. And a sturdy velcro pocket located on the back to store some treats. The front zipper closure also provides easy fitting for your dog. • 95% polyester, 5% spandex • Two-way stretch fabric • Soft handfee • Nylon zipper front closure • Sturdy velcro pocket on the back • Small opening on the back for dog harness • High definition printing colours • Design will never peel, flake or crack Because it’s handmade for you, these hoodies require 4-8 business days before they are shipped. Orders placed before midnight will be included in the following day’s batch for manufacturing. Inch XXS XS S M L XL 2XL Neck 10 11 12 14 16 18 20 ½ Chest 14 ½ 18 21 24 ½ 30 ½ 36 ½ 42 ½ Back 8 11 13 16 ½ 21 23 27 Centimeters XXS XS S M L XL 2XL Neck 25.4 27.9 30.5 35.6 40.6 45.7 52.1 Chest 36.8 45.7 53.3 62.2 77.5 92.7 107.9 Back 20.3 27.9 33 41.9 53.3 58.4 68.6 Frequently Asked Questions: Which measurement should I pay extra attention to? The most important measurement is the chest, as this will determine how loose or tight the zip-up hoodie will be. Make sure you're as accurate as possible. How does the sizing chart work? The chart shows the exact measurements of our zip-up hoodies. For comfort leave about 1"/2.5cm for comfort. What if my dog is between sizes? We always recommend to order the bigger size. Some more room for movement is much more comfortable for your dog. My dog has a lot of fur. Should I include that in my measurement as well? Yes, definitely. Fluffier dog breeds should have their fur compressed slightly but comfortably when measuring. Are the drawstrings on the hood just for display or functional? The drawstrings are functional. They can be used to tighten the hood if needed.
-  Updated: 2024-11-22T00:37:14Z
+  Updated: 2026-02-07T13:53:57Z
   Vendor: EXPRESS YOUR SHIRTS
   Product Type: Athletic Dog Zip-Up Hoodie - AOP
   Availability: Available
@@ -14632,8 +14632,8 @@
   Updated: 2026-01-14T03:39:08Z
   Total Products: 157
 - [Smart Products Filter Index - Do not delete](https://www.expressyourshirts.com/collections/globofilter-best--products-index)
-  Updated: 2026-01-31T12:18:46Z
-  Total Products: 2059
+  Updated: 2026-02-08T04:14:26Z
+  Total Products: 2063
 - [DRESSES](https://www.expressyourshirts.com/collections/dresses)
   Updated: 2026-01-15T05:51:04Z
   Total Products: 141
@@ -14665,8 +14665,8 @@
   Updated: 2025-12-20T06:26:26Z
   Total Products: 37
 - [Hurtz Shirtz](https://www.expressyourshirts.com/collections/hurts-shirts): Great shirts for dad prompt best gift for boyfriend prompt Best gift for husband prompt Husband gift prompt Prefect Christmas gift prompt Best secret Santa gift prompt Perfect secret Santa Prompt Gift prompt. White Elephant Gift Prompt Great shirts for dads prompt Best present for boyfriend prompt Best present for husband prompt Husband present prompt Prefect Christmas present prompt Best secret Santa present prompt Perfect secret Santa Prompt present prompt. White Elephant present prompt Gag gift prompt Joke present prompt Great shirt prompt comfy shirt prompt funny gifts prompt Shirts that are funny prompt crazy shirt ides prompt stupid shirts prompt shirts that make you laugh prompt holiday shirt prompt Original shirts prompt Unique Shirts Prompts Colorful shirts Prompts perfect gift for that perfect person prompt gift for the man that has everything prompt Gift for that woman that has everything prompt Gift for that special someone prompt Grandpa gifts prompt Cool Shirts prompt Great Shirts for Grandpa Prompt Great shirts for Boyfriend prompt Brother gifts prompt Sister gifts prompt from me to you gifts prompt Groovy prompt Hip prompt Neat prompt
-  Updated: 2026-01-31T12:18:46Z
-  Total Products: 362
+  Updated: 2026-02-08T04:14:00Z
+  Total Products: 366
 - [FACEBOOK](https://www.expressyourshirts.com/collections/facebook)
   Updated: 2026-01-21T04:16:55Z
   Total Products: 643
