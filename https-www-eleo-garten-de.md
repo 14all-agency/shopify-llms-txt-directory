@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-07-06T10:58:58Z
 - Contact Email: kundenservice@eleo-garten.de
-- Updated At: 2026-02-04T00:00:45.154Z
+- Updated At: 2026-02-11T04:00:27.286Z
 
 ## Products
 
@@ -970,7 +970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_33629996-fc62-4a75-923c-6b7ff01a6122.png?v=1763043143
     Price: 206,40 € EUR
 - [Obelisk "Catania groß" für Rankpflanzen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-catania-gross): Hochwertiger Obelisk "Catania groß": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-03T06:36:02Z
+  Updated: 2026-02-10T16:05:39Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1072,7 +1072,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_689358f9-4068-4eef-b936-51c91d7362db.png?v=1762346988
     Price: 174,40 € EUR
 - [Obelisk aus Metall "Messina groß" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-gross): Hochwertiger Obelisk "Messina groß": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-03T06:35:59Z
+  Updated: 2026-02-10T16:04:27Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1140,7 +1140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Schokobraun_8e48d89a-af8f-46ca-921f-81f1d4a83c56.png?v=1761229197
     Price: 158,40 € EUR
 - [Metall Obeliskenset "Catania" online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obeliskenset-catania): Hochwertiges Obeliskenset "Catania": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-03T06:35:56Z
+  Updated: 2026-02-10T16:04:46Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1174,7 +1174,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Catania-Set_schokobraun.png?v=1761229177
     Price: 328,32 € EUR
 - [Obeliskenset "Messina" aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/products/obelisk-messina-set): Hochwertiges Obeliskenset "Messina": ✓ aus Schmiedeeisen ✓ stabil & langlebig ✓ pflegeleicht ✓ ein Blickfang in Ihrem Garten ➤ Jetzt bestellen!
-  Updated: 2026-02-03T06:35:55Z
+  Updated: 2026-02-10T16:05:12Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1208,7 +1208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Messina-Set_schokobraun.png?v=1763043335
     Price: 328,32 € EUR
 - [Bank für Rosenbogen „Calabria“ online kaufen | ELEO Garten](https://www.eleo-garten.de/products/bank-calabria): Sitzbank aus Schmiedeeisen: ✓ stabil ✓ pflegeleicht & langlebig ✓ für Rosenbogen „Calabria“ ► Jetzt bestellen!
-  Updated: 2026-02-03T06:35:54Z
+  Updated: 2026-02-10T16:09:15Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1480,7 +1480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/Matera_pulverbeschichtet-schokobraun_RAL8017.png?v=1763034534
     Price: 456,00 € EUR
 - [Rückwand "Calabria" einfach online kaufen | ELEO Garten](https://www.eleo-garten.de/products/rueckwand-calabria): Rückwand zum Rosenbogen "Calabria": ✓ verschiedene Designs ✓ pflegeleicht ✓ langlebig ✓ dekorativer Blickfang ➤ Jetzt hier bestellen!
-  Updated: 2026-02-03T06:35:45Z
+  Updated: 2026-02-10T16:10:50Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -1514,7 +1514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0589/5569/4173/products/RAL_8017_Frontal_Backwall.png?v=1761229130
     Price: 312,00 € EUR
 - [Gartentür "Calabria" einfach online kaufen | ELEO Garten](https://www.eleo-garten.de/products/tuer-calabria): Gartentür "Calabria" passend zu Ihrem Rosenbogen: ✓ stilvoll ✓ pflegeleicht ✓ langlebig ✓ dekorativ ➤ Direkt hier bestellen!
-  Updated: 2026-02-03T06:35:43Z
+  Updated: 2026-02-10T16:10:58Z
   Vendor: eleo-garten
   Product Type: 
   Availability: Available
@@ -3047,23 +3047,23 @@
 ## Collections
 
 - [Home page](https://www.eleo-garten.de/collections/frontpage)
-  Updated: 2026-01-02T06:50:34Z
+  Updated: 2026-02-10T12:09:59Z
   Total Products: 1
 - [Gartendeko aus Metall online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallgartendeko): Metallgartendeko in vielen Designs ✓ stabil & wetterfest ✓ dekorativ & edel ✓ Beschichtung frei wählbar ➤ Jetzt bestellen!
-  Updated: 2026-02-03T09:08:15Z
+  Updated: 2026-02-10T12:09:59Z
   Total Products: 36
 - [Hochwertige Rosenbögen aus Metall – stilvoll & langlebig | ELEO](https://www.eleo-garten.de/collections/rosenbogen): Stabiler Rosenbogen: ✓ romantisch oder modern ✓ wetterfest ✓ ideal für Kletterpflanzen ➤ Jetzt den passenden Rosenbogen für Ihren Garten bestellen!
-  Updated: 2026-01-26T12:07:44Z
-  Total Products: 19
+  Updated: 2026-02-10T12:09:59Z
+  Total Products: 20
 - [Rankobelisken aus Metall ➤ Jetzt online kaufen! | ELEO Garten](https://www.eleo-garten.de/collections/rankobelisken): Rankobelisken für Kletterpflanzen ✓ stabil ✓ dekorativ ✓ nützliches Gartenaccessoire ➤ jetzt Obelisk aus Metall bestellen!
-  Updated: 2026-02-02T12:09:31Z
+  Updated: 2026-02-09T12:09:58Z
   Total Products: 9
 - [Metall Rankgitter jetzt online kaufen | ELEO Garten](https://www.eleo-garten.de/collections/metallrankgitter): Rankgitter für Ihre Hauswand ✓ massives Metall ✓ langlebig ✓ dekorativ ✓ verschiedene Beschichtungen ✓ inkl. Wandhalterung ➤ Jetzt bestellen!
   Updated: 2026-02-03T06:36:10Z
   Total Products: 5
 - [Metallgartendeko direkt online bestellen | ELEO Garten](https://www.eleo-garten.de/collections/alle): Gartenaccessoires aus Metall bei ELEO Garten kaufen: ✓ aus hochwertigem Schmiedeeisen ✓ handgefertigt ✓ verschiedene Designs ➤ jetzt entdecken!
-  Updated: 2026-02-03T06:36:33Z
-  Total Products: 107
+  Updated: 2026-02-10T12:09:59Z
+  Total Products: 108
 - [Hochbeete aus Metall für Ihre Gartengestaltung | ELEO Garten](https://www.eleo-garten.de/collections/metallhochbeete): Hochbeete & Pflanzkübel: ✓ größenvariabel ✓ aus Metall oder Cortenstahl ✓ langlebig ✓ verschiedene Beschichtungen ➤ Hier bestellen!
   Updated: 2026-02-03T06:36:33Z
   Total Products: 12
@@ -3074,22 +3074,22 @@
   Updated: 2026-01-02T06:49:31Z
   Total Products: 3
 - [Geschenkideen für Gartenliebhaber | ELEO Garten](https://www.eleo-garten.de/collections/geschenke-garten): Besondere Geschenke für Hobbygärtner: viele Gartengeschenke zur Auswahl aus hochwertigem Metall  Beschichtung nach Wahl » Jetzt entdecken!
-  Updated: 2026-02-03T06:36:10Z
+  Updated: 2026-02-10T12:09:59Z
   Total Products: 29
 - [Hochbeete mit Sichtschutz | ELEO Garten](https://www.eleo-garten.de/collections/hochbeet-mit-sichtschutz): Entdecken Sie außergewöhnlich schöne Sichtschutz Hochbeete ✓ Metall oder Cortenstahl ✓ verschiedene Größen ✓ im Lasercut-Design » Jetzt bestellen!
   Updated: 2026-02-03T06:35:29Z
   Total Products: 6
 - [Steckzaun aus Metall für Ihren Garten » hier bestellen](https://www.eleo-garten.de/collections/steckzaun): Hochwertiger Steckzaun in Premium-Qualität ✓ formschöne Designs ✓ Beschichtung nach Wahl ✓ besonders stabil » Jetzt entdecken!
-  Updated: 2026-01-13T12:07:40Z
+  Updated: 2026-02-09T12:09:58Z
   Total Products: 18
 - [Test collection](https://www.eleo-garten.de/collections/test-collection)
   Updated: 2026-01-21T12:09:03Z
   Total Products: 4
 - [Gartensäule aus Metall » Windlichtsäulen & Dekosäulen online kaufen](https://www.eleo-garten.de/collections/metall-gartensaeulen): Hochwertige Gartensäulen aus Metall in Rostoptik oder matt-grauem Finish ✓ Windlichtsäulen und Metallsäulen in verschiedenen Größen » Jetzt entdecken!
-  Updated: 2026-02-02T12:09:31Z
+  Updated: 2026-02-09T12:09:58Z
   Total Products: 19
 - [Garten-Sets aus Metall | ELEO Garten](https://www.eleo-garten.de/collections/sets): Perfekt abgestimmte Garten-Sets aus hochwertigem Metall. Zeitloses Design, langlebige Materialien und durchdachte Kombinationen von ELEO Garten.
-  Updated: 2026-02-03T15:24:23Z
+  Updated: 2026-02-10T12:09:59Z
   Total Products: 27
 
 ## Blogs
@@ -3351,6 +3351,10 @@
     Updated: 2026-02-02T09:36:38Z
     Author: Jennifer Faatz
     Tags: Ratgeber
+  - [Hochbeet befüllen: Schichten, Aufbau & Materialien | ELEO Garten](https://www.eleo-garten.de/blogs/blog/hochbeet-befuellen): Hochbeet befüllen: Schichten, Aufbau & Materialien | ELEO Garten
+    Updated: 2026-02-06T08:21:13Z
+    Author: Annett Zahn
+    Tags: Hochbeet, Ratgeber
 
 ## Store Pages
 
