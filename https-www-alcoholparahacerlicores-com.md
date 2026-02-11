@@ -6,12 +6,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2024-09-22T21:03:11Z
 - Contact Email: nohaner@gmail.com
-- Updated At: 2026-02-01T00:00:38.867Z
+- Updated At: 2026-02-11T00:00:43.258Z
 
 ## Products
 
 - [18,73€/L- Alcohol Para Hacer Licores 96º| Alcohol Alimentario 96º](https://www.alcoholparahacerlicores.com/products/alcohol-alimentario-96): 18,73€/L. IVA e impuesto al Alcohol incluidos. Envío Gratis (3-5 días) ✔ Grado alcohólico: 96º ✔ Uso alimentario certificado ✔ Sabor neutro (no altera el licor) ✔ Apto para maceraciones ✔ Etilium Ideal para licores caseros: limoncello, mistela, orujo, hierbas, extractos, maceraciones...
-  Updated: 2026-01-31T16:08:44Z
+  Updated: 2026-02-09T14:06:11Z
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
@@ -72,16 +72,16 @@
 ## Collections
 
 - [Productos:](https://www.alcoholparahacerlicores.com/collections/frontpage)
-  Updated: 2026-01-31T12:18:42Z
+  Updated: 2026-02-10T12:24:49Z
   Total Products: 5
 - [Catálogo](https://www.alcoholparahacerlicores.com/collections/catalogo)
-  Updated: 2026-01-31T12:18:42Z
+  Updated: 2026-02-10T12:24:49Z
   Total Products: 11
 - [carrito](https://www.alcoholparahacerlicores.com/collections/carrito)
-  Updated: 2026-01-31T12:18:42Z
+  Updated: 2026-02-10T12:24:49Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.alcoholparahacerlicores.com/collections/avada-best-sellers)
-  Updated: 2026-01-31T12:18:42Z
+  Updated: 2026-02-10T12:24:49Z
   Total Products: 11
 
 ## Store Pages
