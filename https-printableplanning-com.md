@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-02-04T04:00:28.615Z
+- Updated At: 2026-02-11T08:00:28.587Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -57,7 +57,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Debt_Snowball_Sheet_-_4_Year_L_-_Printable_Planning_6b7cfac9-5a2f-42b9-970b-1c6a231d4ba7.jpg?v=1686174257
   Price: $5.95 USD
 - [Personalized Rainbow Star Bookmarks - Printable](https://printableplanning.com/products/personalized-rainbow-star-bookmarks-printable): Colorful DIY printable personalized rainbow star bookmarks for your children or students that can be personalized with their names, and when printed on card stock makes for a durable reading gift. Parents and teachers love these affordable bookmarks because you can print as many as you need, changing the names as needed. Parents can have their children choose the colors they want. Teachers can print these bookmarks for different occasions throughout the year and change the names to fit their classroom every year. Adobe Acrobat is recommended for printing these pages, as editing the names works best with this program. You will need to change the names every time you print, and you'll print one page at a time. Then, carefully cut these bookmarks from these printable pages. PLEASE NOTE: Font size, style, and color is available only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Bookmarks measure approximately 6.75" x 1.5" each. Edit the names (every time you print). Colorful for boys or girls. Print a new page of these printable personalized rainbow star bookmarks every time you need more.
-  Updated: 2025-07-21T19:21:41Z
+  Updated: 2026-02-07T05:03:44Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -715,7 +715,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/AdorableLittleGirlPenguinAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686234023
   Price: $5.95 USD
 - [Athletic Sports Baseball Address Labels - Printable](https://printableplanning.com/products/athletic-sports-baseball-address-labels-printable): Printable 8.5" x 11" page of athletic sports baseball address labels with an athletic sports design featuring a baseball, and personalized with your return address in black. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable athletic sports baseball address labels.
-  Updated: 2025-07-21T19:21:00Z
+  Updated: 2026-02-09T06:38:03Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
@@ -799,7 +799,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/WinterTurquoiseGraySnowflakeAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686234080
   Price: $5.95 USD
 - [Winter Purple Gray Snowflake Address Labels - Printable](https://printableplanning.com/products/winter-purple-gray-snowflake-address-labels-printable): Printable 8.5" x 11" page of winter purple gray snowflake address labels with a purple and gray snowflake design, and personalized with your return address in gray. This brings convenience to you by allowing you to update the address as you need (4 lines), and print as many as you want, whenever you need them. This page was programmed that when you update the address on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the address works best with this program. You will need to change the address every time you print, and you'll print one page at a time. Make sure you print on the correct label paper. ► You cannot change the size of the font for the address, so please use good judgement based on the examples shown to determine if your address will fit. Fonts and colors are only available as shown. Address format is 4 lines. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names and address (every time you print). 4 address lines. Edit one label and it updates every label. Print a new page every time you need more printable winter purple gray snowflake address labels.
-  Updated: 2025-07-21T19:20:58Z
+  Updated: 2026-02-07T09:27:48Z
   Vendor: Artistically Invited
   Product Type: Address Labels
   Availability: Available
@@ -1198,7 +1198,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Turquoise_Header_Full_Page_Weekly_Grocery_List_-_Printable_Planning_587e8c7c-5d9b-4301-9a9c-a9fa8d8f247d.jpg?v=1564501484
   Price: $5.95 USD
 - [Daily To-Do Lists - 2 Per Page - Task Checklists BUNDLE in 4 Bold Colors - Printable](https://printableplanning.com/products/daily-to-do-lists-2-per-page-task-checklists-bundle-in-4-bold-colors-printable): A bundle of printable half page size Daily To-Do Lists - 2 Per Page - Task Checklists for your daily personal or business tasks. Keep a running list of things you need to do or accomplish, and check the tasks off as you complete them. There is a column of circles on the left of your list that allows you to check off your daily tasks. You also have a Notes section at the bottom. This checklist bundle includes 4 bold colored PDF pages, with 2 to-do lists per page: red, orange, green, and navy blue. That's four pages for the price of one. SPECIFICATIONS: (4) 8.5" x 11" printable PDF pages. (2) 5.5" x 8.5" to-do lists per (1) 8.5" x 11" printable page. Either cut each page in half to have individual lists (DIY), or keep at full page size for 2 columns of to-do lists. Simple and clean. 15 Task Lines. Notes section below the task lines. Colors: Red, Orange, Green, and Navy Blue. Excellent for both personal and business to-do lists. Print new printable Daily To-Do Lists - 2 Per Page - Task Checklists every time you need more.
-  Updated: 2025-07-21T19:20:25Z
+  Updated: 2026-02-09T06:22:47Z
   Vendor: Artistically Invited
   Product Type: To-Do List
   Availability: Available
@@ -1359,7 +1359,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsBUNDLEforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497612
   Price: $7.95 USD
 - [Adorable Owl Name Labels for School Supplies - Printable](https://printableplanning.com/products/adorable-owl-name-labels-for-school-supplies-printable): Printable 8.5" x 11" page of Adorable Owl Name Labels for School Supplies designed with a cute pink and brown owl and personalized with your custom text in brown and your name in pink. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 lines: text and name. Edit one label and it updates every label. Print a new printable Adorable Owl Name Labels for School Supplies page every time you need more back-to-school (or other use) name labels.
-  Updated: 2025-07-21T19:20:20Z
+  Updated: 2026-02-11T06:18:33Z
   Vendor: Artistically Invited
   Product Type: Name Labels
   Availability: Available
@@ -1485,7 +1485,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/CutePinkBeeNameLabelsforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497635
   Price: $5.95 USD
 - [Cute Turquoise Bee Bookplate Labels for Name Labeling Books - Printable](https://printableplanning.com/products/cute-turquoise-bee-bookplate-labels-for-name-labeling-books-printable): Printable 8.5" x 11" page of cute turquoise bee bookplate labels for name labeling books designed with a cute bee on the left and personalized with your custom text in dark gray and your name in white to the right, over a turquoise background color. These name labels are perfect for putting your child's name or your name on the inside of your books, for name labeling books. This page was programmed that when you update the text and/or names on one label, the rest then all update. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 lines: text and name. Edit one label and it updates every label. Print a new page every time you need more printable cute turquoise bee bookplate labels for name labeling books.
-  Updated: 2025-07-21T19:20:16Z
+  Updated: 2026-02-09T05:35:35Z
   Vendor: Artistically Invited
   Product Type: Bookplates
   Availability: Available
@@ -2839,28 +2839,28 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-02-02T12:01:05Z
+  Updated: 2026-02-10T12:01:11Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-01-30T12:01:05Z
+  Updated: 2026-02-10T12:01:11Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2026-02-02T12:01:05Z
+  Updated: 2026-02-10T12:01:11Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website  lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
   Updated: 2026-01-23T12:01:06Z
   Total Products: 13
 - [Caregivers, Health, Housekeeping, and Pet forms at Printable Planning](https://printableplanning.com/collections/caregivers-health-housekeeping): A collection of printable forms designed for caregivers of both people and pets. Our comprehensive suite includes baby logs, nanny logs, health information sheets, and specialized forms for elderly and disability care. You'll also find a range of forms for housekeeping and cleaning tasks. Perfect for organizing and streamlining your caregiving responsibilities.
-  Updated: 2026-02-02T12:01:05Z
+  Updated: 2026-02-06T12:01:29Z
   Total Products: 41
 - [Printable Financial Sheets online at Printable Planning](https://printableplanning.com/collections/financial-sheets): Get your money organized with financial sheets. Printable Planning provides a collection of printable financial sheets and logs. Your money is one of your most important assets. It is important to keep track of your finances and follow your expenses. These financial sheets are designed to help you with various money-related areas of your life, from keep track of your finances, to help you keep track of your monthly bills, to help you with saving money, to help you with paying off debt. Find the printable financial sheets that will help you the most. • 8.5" x 11" printable PDF pages.• Print as many times as you need.
   Updated: 2026-02-02T12:01:05Z
   Total Products: 43
 - [Holiday and Occasion Printables: Gift Tags, RSVP Organizers & More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Discover DIY Christmas gift tags, holiday bookmarks, RSVP organizers, and more, perfect for your holiday events, special occasions, or other celebrations.
-  Updated: 2026-01-30T12:01:05Z
+  Updated: 2026-02-10T12:01:11Z
   Total Products: 65
 - [Printable Calendars and Planner Pages | Letter Size and Undated](https://printableplanning.com/collections/calendars-and-planner-pages): Get organized with blank and undated printable calendars and planner pages. Perfect for home, work, or on-the-go. Perfect for professional or personal use.
-  Updated: 2025-12-10T21:41:06Z
+  Updated: 2026-02-08T12:01:19Z
   Total Products: 27
 - [Printable Address Labels online at Printable Planning](https://printableplanning.com/collections/address-labels): Personalize your favorite printable address labels. Printable Planning provides a collection of printable address labels. These printable address labels are made in a variety of designs, in DIY editable PDF file downloads that you personalize yourself, for common address label templates that you find at your local store. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Editable PDF files for download that you personalize yourself (fonts, colors, and sizes as shown). • Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). • Label size: 2 5/8" x 1".• 30 Labels per page.
   Updated: 2025-12-21T12:02:10Z
@@ -2869,13 +2869,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-09-12T11:01:24Z
   Total Products: 27
 - [Printable Bookmarks and Bookplates online at Printable Planning](https://printableplanning.com/collections/bookmarks-and-bookplates): Personalized DIY printable bookmarks and bookplates. The printable bookmarks are a favorite for parents and teachers to give to their young readers as gifts. The printable bookplate labels and stickers are great for labeling your books, and excellent for young readers to get excited about their books and reading.
-  Updated: 2026-01-17T12:01:14Z
+  Updated: 2026-02-05T12:01:26Z
   Total Products: 53
 - [Printable goodies for School and Teachers online at Printable Planning](https://printableplanning.com/collections/school-and-teachers): Grading forms, homework assignments, name labels for school supplies, and more! Printable Planning brings you a collection of printable forms and labels for back to school, the school year, and teacher forms and labels. Popular listings include the name labels for school supplies. You'll also find organizational pages for your homework, for teachers to grade their students, school supplies shopping lists, and more. • 8.5" x 11" printable PDF pages and label sheets.• Print as many times as you need once you have your download.
-  Updated: 2026-01-23T12:01:06Z
+  Updated: 2026-02-08T12:01:19Z
   Total Products: 42
 - [Children's Printable Pages online at Printable Planning](https://printableplanning.com/collections/childrens-printable-pages): Printable pages, chore charts, and goodies for children. Printable Planning provides a collection of fun and useful printable chore charts, organizational pages, and goodies such as bowling sheets for children. Children need organization, and having kids means parents sometimes need organizational tools too. Shop this collection of highly affordable pages, charts, and goodies. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Some of the charts and goodies require DIY crafting to utilize their full use.
-  Updated: 2026-01-23T12:01:06Z
+  Updated: 2026-02-05T12:01:26Z
   Total Products: 29
 - [Printable Diet and Exercise Sheets online at Printable Planning](https://printableplanning.com/collections/diet-and-exercise-sheets): Stay on track with your health goals with Diet and Exercise Sheets. Printable Planning brings you a collection of printable diet tracking sheets and exercise logs. Whether you're making your New Years resolutions to get healthy and fit, or if you're looking for a better way to keep track of your diet and exercise goals, these printable tracking sheets and logs will help you stay organized. • 8.5" x 11" printable PDF pages.• Print as many times as you need. * Please consult a doctor or health professional before beginning any diet or exercise regimen. These printables are in no way an  by Printable Planning of any diet or exercise routine.
   Updated: 2025-11-23T12:01:17Z
