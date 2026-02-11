@@ -6,33 +6,118 @@
 - Timezone: America/New_York
 - Created At: 2022-11-10T03:37:41Z
 - Contact Email: heytredall@gmail.com
-- Updated At: 2026-01-30T01:06:25.678Z
+- Updated At: 2026-02-11T00:00:33.028Z
 
 ## Products
 
-- [NAD+ Patches](https://www.tredall.com/products/nad-patches-glp-1-patch-firming-skin-and-body-shaping-care-patch): Helps boost cellular energy and metabolic resilience. Contents: 30 Patches Rewind the clock with our age-defying NAD+ patches—the ultimate solution for enhancing youth, regenerating cells, and sustaining vitality. These patches boost NAD+ levels to support DNA restoration, enhance energy, and protect your cells from oxidative damage. They also promote collagen production, which helps maintain a smoother, firmer, and more youthful appearance by enhancing skin elasticity and resilience. Our NAD+ patches are formulated to combat the effects of aging, support cellular repair, and promote sustained vitality with a powerful blend of key ingredients:- Nicotinamide Mononucleotide (NMN): A potent anti-aging ingredient that promotes plumper, firmer, and more youthful skin. NMN boosts NAD+ levels, vital for energy production, DNA repair, and overall cellular health. Clinically proven with 99% purity, it revitalizes cells, supports mitochondrial function, and ensures a vibrant, resilient appearance with lasting youthfulness.- Resveratrol: A powerful antioxidant that boosts cellular longevity, reduces fine lines, and enhances skin plumpness by stimulating collagen production. It also offers robust protection against environmental damage, maintaining a radiant and youthful appearance.- N-Acetylcysteine (NAC): NAC delivers strong antioxidant protection, combating signs of aging by shielding cells from oxidative stress and free radicals. It supports glutathione production—your body’s primary antioxidant—helping reduce fine lines, improve skin resilience, and maintain a brighter, more youthful complexion. -Lion’s Mane Mushroom Extract: Known for cognitive support, Lion’s Mane enhances memory, focus, and concentration. Its neuroprotective properties promote mental clarity and emotional well-being, ensuring you stay sharp and resilient as you age.- Cordyceps Extract: This ingredient boosts energy, endurance, and overall physical performance. By enhancing oxygen utilization in cells and supporting cardiovascular and respiratory health, it aids muscle recovery, keeping your body strong, resilient, and active. Ingredients: Nicotinamide Mononucleotide (NMN) 6mg, Resveratrol 6mg, N-Acetylcysteine (NAC) 6mg, Lion's Mane Mushroom Extract 4mg, Cordyceps Extract 3mg Caution: For external use only. Do not reuse patches. Once opened, use as soon as possible. Keep out of reach of children under 18 years old. Ensure you are not allergic to any ingredients. Use one patch at a time for up to 8 hours. Rotate patch location on your body with each use. Do not apply to wounds, broken, or sensitive skin. Avoid eye contact and wash hands thoroughly after use. Discontinue use if irritation or allergic reactions occur and consult a  professional. Do not use if pregnant, nursing, or taking medication without consulting a  professional. Do not use in combination with other products applied directly on top, such as heating pads, as applying heat to the patch may alter its effectiveness. These statements about this product have not been evaluated by the Food and  Administration or other equivalent local authorities in the country of . This product is not intended to diagnose, treat, , or prevent any disease or health condition. How to use: Gently remove the patch from its backing and place it on a clean, hair-free area of your skin. To ensure effective absorption, avoid applying lotions or creams to the application area. For optimal results, wear the patch for approximately 8 hours and replace it with a new one. For maximum effect, wear every day.Avoid stretching the skin prior to application. This helps maintain natural tension and prevents tension blisters, ensuring a smoother application process.Wet removal method: Using a wet removal method can reduce the adhesiveness of the product, making it easier to remove. This involves moistening the area before attempting to remove the product.Using oil for enhanced removal: For optimal results, apply oil to the area before removal. Oil helps deactivate the adhesive, allowing for an even smoother removal.
-  Updated: 2026-01-26T04:39:19Z
+- [Neutral Forest Casual Canvas Backpack / Daypack](https://www.tredall.com/products/1387-classic-casual-canvas-backpack-daypack): • Materials: Durable Canvas• Size: 34cm * 37.5cm * 16cm• It features adjustable black shoulder straps and a convenient top handle, ensuring comfortable carrying and easy hanging storage.• The minimalist design includes a functional front vertical zipper pocket, providing quick access to essentials while maintaining a sleek look.• It's suitable for multiple occasions such as school, daily commuting, weekend trips, or the gym, serving as a versatile and reliable everyday bag.
+  Updated: 2026-02-10T07:08:07Z
+  Vendor: JetPrint Fulfillment
+  Product Type: Backpacks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/593aff766386474780b76cf13b5dd51c.jpg?v=1770659092
+  Price: $40.00 USD
+- [Vintage Engraved Bird Camping Mug](https://www.tredall.com/products/vintage-engraved-bird-camping-mug): Lightweight enamel with a hand-drawn bird illustration brings quiet mornings and woodland walks into daily rituals. This 12 oz camp cup has a glossy, chip-resistant surface stands up to the rigors of outdoor life. Sip coffee at the campsite, cradle tea by the window, or add it to a shelf of collected things — the simple illustration and clean white enamel tell a calm, timeless story.Product features- 12 oz enamel cup with glossy, wear-resistant surface- Vivid, crisp color printing using advanced techniques- Cold-rolled steel core with enamel glaze; anti-alkali and acid proof- Dishwasher-safe, BPA- and lead-free (do not microwave)- One-size, durable design built for travel and everyday useCare instructions- Wash by hand with warm water and dish soap or clean in dishwasher
+  Updated: 2026-02-10T07:22:40Z
+  Vendor: Printify
+  Product Type: Mug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/14352935273085280206_2048.jpg?v=1770671625
+  Price: $35.00 USD
+- [Stainless Steel Carabineer Mug](https://www.tredall.com/products/outdoor-mountaineering-button-water-cup-trip-camping-portable-button-201-stainless-steel-material): Material：304 Stainless Steel Capacity：220ml, 300ml Weight：86.4g (Small), 126.9g (Large)
+  Updated: 2026-02-10T16:39:39Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/FCFECAB45D9457A1AB922AEA8E76BF4E.jpg?v=1768735340
-  Price: $12.99 USD
-- [GLP-1 Weight Loss Patches](https://www.tredall.com/products/glp-1-patch-fat-patch-wellness-patches): Contents: 30 Patches Kind Berberine Patches are crafted to support healthy weight management and appetite control with a powerful blend of key ingredients:- Berberine Extract, Pomegranate Extract, & Cinnamon Extract: This synergistic blend of natural extracts is designed to optimize metabolic health by supporting balanced blood sugar levels and reducing sugar cravings. Berberine aids in regulating glucose, pomegranate extract adds antioxidant benefits to protect your cells, and cinnamon extract enhances insulin sensitivity for improved energy balance.- Vitamin B Complex (B1, B2, B3, B6, B9, B12): This essential mix plays a vital role in weight management by boosting metabolism, helping your body efficiently convert food into fuel, and reducing fatigue. By keeping energy levels steady, it supports an active lifestyle and promotes healthier weight loss.- L-Glutamine & Chromium: L-Glutamine supports muscle recovery and preservation, ensuring that your body burns fat while maintaining lean muscle mass. Chromium, a key mineral, helps regulate glucose metabolism and controls appetite, making it easier to resist cravings and maintain consistent energy levels. Ingredients: Berberine Extract 8.75mg, Pomegranate Extract 1.75mg, Cinnamon Extract 2.75mg, Vitamin B Complex: Thiamine (B1), Riboflavin (B2), Niacin (B3), Pyridoxine HCl (B6), Folate (B9), Methylcobalamin (B12) 8.25mg, L-Glutamine 3.5mg, Chromium 35mcg Caution: For external use only. Do not reuse patches. Once opened, use as soon as possible. Keep out of reach of children under 18 years old. Ensure you are not allergic to any ingredients. Use one patch at a time for up to 8 hours. Rotate patch location on your body with each use. Do not apply to wounds, broken, or sensitive skin. Avoid eye contact and wash hands thoroughly after use. Discontinue use if irritation or allergic reactions occur and consult a  professional. Do not use if pregnant, nursing, or taking medication without consulting a  professional. Do not use in combination with other products applied directly on top, such as heating pads, as applying heat to the patch may alter its effectiveness. These statements about this product have not been evaluated by the Food and  Administration or other equivalent local authorities in the country of . This product is not intended to diagnose, treat, , or prevent any disease or health condition. How to use: Gently remove the patch from its backing and place it on a clean, hair-free area of your skin. To ensure effective absorption, avoid applying lotions or creams to the application area. For optimal results, wear the patch for approximately 8 hours and replace it with a new one. For maximum effect, wear every day.Avoid stretching the skin prior to application. This helps maintain natural tension and prevents tension blisters, ensuring a smoother application process.Wet removal method: Using a wet removal method can reduce the adhesiveness of the product, making it easier to remove. This involves moistening the area before attempting to remove the product.Using oil for enhanced removal: For optimal results, apply oil to the area before removal. Oil helps deactivate the adhesive, allowing for an even smoother removal.
-  Updated: 2026-01-26T05:06:36Z
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/A29F0C243432A576CB2228955BB66DE3.jpg?v=1770672266
+  - [220ml](https://www.tredall.com/products/outdoor-mountaineering-button-water-cup-trip-camping-portable-button-201-stainless-steel-material?variant=51758147567928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/7EC460B8F4156F38534E75F34EEF57E7.jpg?v=1770741579
+    Price: $15.00 USD
+  - [300ml](https://www.tredall.com/products/outdoor-mountaineering-button-water-cup-trip-camping-portable-button-201-stainless-steel-material?variant=51758147600696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/A29F0C243432A576CB2228955BB66DE3.jpg?v=1770672266
+    Price: $16.00 USD
+- [Hand Braided Whale Tail Rope Bracelet](https://www.tredall.com/products/hand-braided-whale-tail-viking-bracelet-charms-handmade-red-rope-braslet-for-men-wristband-string-adjustband-jewelry-homme): Make a splash of a statement with this hand-braided whale tail rope bracelet—a bold accessory that captures the untamed spirit of the ocean. Each piece is meticulously crafted with intricate braiding, featuring the iconic whale tail design that symbolizes freedom and adventure. Perfect for those who embrace their wild side, this bracelet blends nautical charm with edgy sophistication. Wear it solo for understated impact or stack it with others to amplify your style. Material: Stainless Steel, Rope
+  Updated: 2026-02-10T15:36:40Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/8D5B3A865AED81AC73C6FCAAEF6E8941_500746ec-5dc7-48bb-af83-b660c7112769.jpg?v=1768692504
-  Price: $14.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/A7329ADB4C854995FB6912D62257FBFF.jpg?v=1770672279
+  - [Silver Blue](https://www.tredall.com/products/hand-braided-whale-tail-viking-bracelet-charms-handmade-red-rope-braslet-for-men-wristband-string-adjustband-jewelry-homme?variant=51758149206328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/A7329ADB4C854995FB6912D62257FBFF.jpg?v=1770672279
+    Price: $20.00 USD
+  - [Black](https://www.tredall.com/products/hand-braided-whale-tail-viking-bracelet-charms-handmade-red-rope-braslet-for-men-wristband-string-adjustband-jewelry-homme?variant=51758149271864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/CD08ED8634F0EE2FCD912985184CF509.jpg?v=1770672284
+    Price: $20.00 USD
+- [Diagonal Convertible Crossbody Backpack](https://www.tredall.com/products/simple-toast-bag-large-capacity-diagonal-cross-shoulder-small-square-bag-solid-color-sports-yoga-backpack-for-students): Transform your daily commute with this bold Diagonal Convertible Crossbody Backpack—a fearless fusion of style and versatility. Wear it slung across your chest for hands-free confidence, or convert it to a traditional backpack when adventure calls. The angled design cuts through the ordinary, while multiple compartments keep your essentials organized and within reach. Built for those who refuse to compromise between fashion and function, this pack powers your next move with attitude. Material: Nylon Closure Type: Zipper
+  Updated: 2026-02-10T16:37:39Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/D8D1BEC64FE28A479F93670F04FB54AC.jpg?v=1770679734
+  - [black / one size](https://www.tredall.com/products/simple-toast-bag-large-capacity-diagonal-cross-shoulder-small-square-bag-solid-color-sports-yoga-backpack-for-students?variant=51759738126648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/D49175CCFBF225917003374EC886A531.jpg?v=1770679745
+    Price: $38.00 USD
+  - [white / one size](https://www.tredall.com/products/simple-toast-bag-large-capacity-diagonal-cross-shoulder-small-square-bag-solid-color-sports-yoga-backpack-for-students?variant=51759738159416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/2C0762307DFDC697836A390B1A1F9FCC.jpg?v=1770679747
+    Price: $38.00 USD
+  - [green / one size](https://www.tredall.com/products/simple-toast-bag-large-capacity-diagonal-cross-shoulder-small-square-bag-solid-color-sports-yoga-backpack-for-students?variant=51759738257720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/E7F033B6A1A1D6DCD4D48FCC185944BF.jpg?v=1770679753
+    Price: $38.00 USD
+- [Modern Wooden Handled Portable Lantern](https://www.tredall.com/products/creative-wooden-handle-portable-lantern-lamp-telescopic-folding-led-table-lamp-charging-night-light-reading-lamp): Illuminate your space with modern elegance. This portable lantern combines contemporary design with the warmth of natural wood, featuring a sturdy handle for effortless transport. Perfect for outdoor gatherings, camping adventures, or creating ambient lighting on your patio, it merges functionality with refined aesthetics. Material: ABS+PC+ wood + iron plating; Battery: 1200 mAh lithium battery; Power: USB charging; Brightness: Three levels Package Includes: 1* Folding Led Lamp1* USB Cable
+  Updated: 2026-02-10T16:22:26Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/38CBFD549FFE44DD9564D121CF9A526D.jpg?v=1770739709
+  Price: $40.00 USD
+- [Framed Fox Art Print](https://www.tredall.com/products/framed-fox-art-print): A framed print that brings quiet woodland charm into your room. The print shows a minimalist fox silhouette in soft grayscale tones, surrounded by delicate reeds and a pale moon—subtle, calm, and a little wild. The semi-gloss paper and crisp Mimaki UV inks keep the contrasts clean while the clear Perspex cover protects the image and softens reflections. Hand-crafted wooden framing and the included hanging kit mean this piece arrives ready to settle above a mantel, beside a reading nook, or in a hallway where a gentle, nature-inspired statement is wanted. Made in the UK from globally sourced parts, available in multiple orientations and sizes to fit the space and mood you’re creating. Size: 16 x 16 inchesProduct features- Vibrant, long-lasting color using Mimaki UV inks- Ready to hang with enclosed back and wire hanging kit- 200 gsm semi-gloss coated paper with clear Perspex coverCare instructions- If the poster does gather any dust, you may wipe it off gently with a clean, dry cloth.
+  Updated: 2026-02-10T17:55:22Z
+  Vendor: Printify
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/12213542780892923136_2048.jpg?v=1770746122
+  Price: $125.00 USD
+- [Peaks Tote with Hemp Rope Handle](https://www.tredall.com/products/peaks-tote-with-hemp-rope-handle): This spacious canvas companion features authentic hemp rope handles that add a natural, eco-friendly vibe to your everyday adventures. Perfect for beach trips, farmers markets, or casual outings, it's the tote that proves functionality doesn't have to be boring. Durable, distinctive, and ready for whatever you throw at it—literally. • Material: Polyester• Convenient design: Zipper closure and rope handle.
+  Updated: 2026-02-10T20:57:25Z
+  Vendor: JetPrint Fulfillment
+  Product Type: Tote Bags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/2b1f17fdfcc74bf19a05888517399966.jpg?v=1770757045
+  Price: $26.00 USD
+- [Rustic Ceramic Vases](https://www.tredall.com/products/wabi-sabi-style-ceramic-vase-rustic-pottery-flower-vase-vintage-nostalgic-handmade-decoration-for-cottage-hotel-zen-display-new-chinese-style): Handcrafted ceramic vases that bring earthy elegance to any space. Each piece showcases natural textures and subtle glazing variations, reflecting traditional artisanal craftsmanship. Perfect for displaying fresh florals or standing alone as sculptural décor, these rustic vessels add warmth and character to modern and classic interiors alike. Durable and timeless, they're an  in understated beauty. Material: Monochrome Glazed Ceramic
+  Updated: 2026-02-10T23:23:30Z
+  Vendor: eprolo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/54138F298F5394CE54DA997BF2E5F8B8.jpg?v=1770757189
+  - [Mottled Style A](https://www.tredall.com/products/wabi-sabi-style-ceramic-vase-rustic-pottery-flower-vase-vintage-nostalgic-handmade-decoration-for-cottage-hotel-zen-display-new-chinese-style?variant=51773396779320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/6FB95299272029CF418BD6E9F541FE02.jpg?v=1770757195
+    Price: $85.00 USD
+  - [Mottled B](https://www.tredall.com/products/wabi-sabi-style-ceramic-vase-rustic-pottery-flower-vase-vintage-nostalgic-handmade-decoration-for-cottage-hotel-zen-display-new-chinese-style?variant=51773396812088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/CA438856DE08B69565FBA0BF96B019FE.jpg?v=1770757197
+    Price: $82.00 USD
+  - [Mottled Style C](https://www.tredall.com/products/wabi-sabi-style-ceramic-vase-rustic-pottery-flower-vase-vintage-nostalgic-handmade-decoration-for-cottage-hotel-zen-display-new-chinese-style?variant=51773396844856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0680/8554/7320/files/107BA246C7E4CE4C5CA0AD16E81A8771.jpg?v=1770757199
+    Price: $75.00 USD
 
 ## Collections
 
 - [All Products](https://www.tredall.com/collections/all-products)
-  Updated: 2026-01-25T16:46:07Z
-  Total Products: 16
+  Updated: 2026-02-10T21:02:58Z
+  Total Products: 7
 - [Featured](https://www.tredall.com/collections/featured)
-  Updated: 2026-01-25T16:46:07Z
-  Total Products: 8
+  Updated: 2026-02-09T21:16:33Z
+  Total Products: 0
 
 ## Blogs
 
