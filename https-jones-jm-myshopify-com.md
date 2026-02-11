@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-02-04T00:00:43.967Z
+- Updated At: 2026-02-11T04:00:25.255Z
 
 ## Products
 
@@ -845,6 +845,9 @@
     Author: User
   - [How to Start an Eco-Friendly Garden in Your Backyard](https://jones-jm.myshopify.com/blogs/news/how-to-start-an-eco-friendly-garden-in-your-backyard): How to Start an Eco-Friendly Garden in Your Backyard
     Updated: 2026-02-02T00:00:59Z
+    Author: User
+  - [Common Questions About Sustainable Living Answered](https://jones-jm.myshopify.com/blogs/news/common-questions-about-sustainable-living-answered): Common Questions About Sustainable Living Answered
+    Updated: 2026-02-09T00:01:00Z
     Author: User
 
 ## Store Pages
