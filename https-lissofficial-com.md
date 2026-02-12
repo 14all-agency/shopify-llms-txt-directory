@@ -6,7 +6,7 @@
 - Timezone: America/Jamaica
 - Created At: 2025-06-10T20:29:25Z
 - Contact Email: lizversh@gmail.com
-- Updated At: 2026-02-05T00:00:35.989Z
+- Updated At: 2026-02-12T00:00:38.809Z
 
 ## Products
 
@@ -32,12 +32,12 @@
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Silk_Dreams_Pillowcase_in_Creame.png?v=1768672373
   Price: €55.00 EUR
 - [Big Scrunchie — Light Green](https://lissofficial.com/products/big-silk-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
-  Updated: 2026-01-21T15:55:51Z
+  Updated: 2026-02-08T12:56:37Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-LightGreen_f6b93fd9-057a-46d0-8d00-ed0d69c1d2cb.png?v=1768685536
-  Price: €25.00 EUR
+  Price: €29.00 EUR
 - [Big Scrunchie — Olive](https://lissofficial.com/products/olive-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
   Updated: 2026-01-27T12:50:11Z
   Vendor: LISS OFFICIAL
@@ -46,41 +46,41 @@
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-Olive.png?v=1768692004
   Price: €25.00 EUR
 - [Big Scrunchie — Burgundy](https://lissofficial.com/products/burgundy-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
-  Updated: 2026-01-21T15:55:52Z
+  Updated: 2026-02-08T12:56:11Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/Big_Scrunchie_-_Burgundy_Shade.png?v=1768685755
-  Price: €25.00 EUR
+  Price: €29.00 EUR
 - [Big Scrunchie — Creme](https://lissofficial.com/products/creme-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
-  Updated: 2026-01-21T15:55:52Z
+  Updated: 2026-02-08T12:55:59Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-CremeShade.png?v=1768685850
-  Price: €25.00 EUR
+  Price: €29.00 EUR
 - [Big Scrunchie — Coffee](https://lissofficial.com/products/coffee-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
-  Updated: 2026-01-21T15:55:52Z
+  Updated: 2026-02-08T12:55:49Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-CoffeeShade.png?v=1768686028
-  Price: €25.00 EUR
+  Price: €29.00 EUR
 - [Big Scrunchie — Champagne](https://lissofficial.com/products/champagne-big-scrunchie): LISS Big Silk Scrunchie is made from 100% natural mulberry silk and designed to be worn every day. Silk is naturally smooth, so it doesn’t pull, crease, or stress the hair. The oversized shape holds comfortably without feeling tight, making it easy to wear from morning to night. A simple piece that protects your hair and feels good to keep on.
-  Updated: 2026-01-21T15:55:52Z
+  Updated: 2026-02-08T12:55:21Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0612/4601/3511/files/BigScrunchie-Champagne.png?v=1768686297
-  Price: €25.00 EUR
+  Price: €29.00 EUR
 
 ## Collections
 
 - [All Products](https://lissofficial.com/collections/all-products)
-  Updated: 2026-02-01T12:17:59Z
+  Updated: 2026-02-08T13:04:06Z
   Total Products: 11
 - [Silk Dreams Collection](https://lissofficial.com/collections/silk-dreams-collection): Silk Dreams is a collection created from our belief that self-care should feel personal, intentional, and effortless.
-  Updated: 2026-02-01T12:17:59Z
+  Updated: 2026-02-08T13:04:06Z
   Total Products: 10
 
 ## Store Pages
