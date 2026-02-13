@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-10-26T09:54:10Z
 - Contact Email: info@shoplabubu.net
-- Updated At: 2026-02-05T14:46:32.855Z
+- Updated At: 2026-02-13T00:00:23.433Z
 
 ## Products
 
