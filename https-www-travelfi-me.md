@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-01T17:38:27Z
-- Updated At: 2026-02-06T00:00:37.291Z
+- Updated At: 2026-02-13T00:00:40.013Z
 
 ## Products
 
@@ -8495,19 +8495,19 @@
   Updated: 2025-12-20T12:17:39Z
   Total Products: 9
 - [Unlimited Data](https://www.travelfi.me/collections/daypass): Unlimited data for the selected number of days.This eSIM plans are a non-reloadable day passes. After daily limit used speed will be throttled until next 24 period. No top-ups or extensions are available.Simply choose how many days you want your pass to be valid, and enjoy unlimited data during that period.
-  Updated: 2026-02-04T12:19:47Z
+  Updated: 2026-02-12T12:19:49Z
   Total Products: 293
 - [South America](https://www.travelfi.me/collections/south-america): South America travel destinations
   Updated: 2026-02-03T02:56:22Z
   Total Products: 22
 - [Europe Travel eSIMs](https://www.travelfi.me/collections/europe-destinations): Stay connected across Europe with ease. Our Europe Travel eSIM Collection is designed for modern explorers who want seamless data coverage
-  Updated: 2026-02-04T12:19:47Z
+  Updated: 2026-02-12T12:19:49Z
   Total Products: 129
 - [Balkan](https://www.travelfi.me/collections/balkan): Travel eSIM for Balkan destinations
-  Updated: 2026-02-02T04:11:19Z
+  Updated: 2026-02-08T12:23:45Z
   Total Products: 25
 - [Eastern Europe](https://www.travelfi.me/collections/eastern-europe): Travel eSIM for Eastern Europe countries
-  Updated: 2026-01-27T03:51:53Z
+  Updated: 2026-02-08T12:23:45Z
   Total Products: 19
 - [Asia](https://www.travelfi.me/collections/asia): Asia eSIM Travel Destinations
   Updated: 2026-02-03T04:20:57Z
@@ -8552,7 +8552,7 @@
   Updated: 2026-02-02T04:11:19Z
   Total Products: 34
 - [Browse All Travelfi eSIMs  Reliable Global Travel Data Plan](https://www.travelfi.me/collections/all-esim-plans-for-international-travel): Browse all Travelfi eSIM plans for global, regional, and country‑specific travel. Instant activation, fast data, and reliable coverage for every destination.
-  Updated: 2026-02-03T04:22:50Z
+  Updated: 2026-02-12T12:19:49Z
   Total Products: 319
 
 ## Blogs
@@ -8618,6 +8618,8 @@
   Updated: 2026-01-26T04:55:28Z
 - [Countries with 5G  network support](https://www.travelfi.me/pages/which-countries-support-5g): Here is a list of countries we support 5G at this moment, the following info might change, Aaland Islands 4G/5G Argentina 4G/5G Asia (20 areas) 4G/...
   Updated: 2026-01-19T04:47:18Z
+- [Travelfi Customer Benefits: Lifetime Discounts & Family Savings](https://www.travelfi.me/pages/travelfi-customer-benefits): At Travelfi, we’re committed to giving our customers meaningful, automatic savings that grow with your loyalty. Every benefit is designed to be sim...
+  Updated: 2026-02-12T03:20:14Z
 
 ## Policies
 
