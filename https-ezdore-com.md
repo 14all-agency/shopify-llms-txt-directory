@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-09-05T15:31:37Z
 - Contact Email: ezdorestore@gmail.com
-- Updated At: 2026-02-05T15:21:16.237Z
+- Updated At: 2026-02-13T00:00:30.271Z
 
 ## Products
 
@@ -400,6 +400,12 @@
     Author: User
   - [An Explainer on Gesture-Based Technology in Everyday Life](https://ezdore.com/blogs/news/an-explainer-on-gesture-based-technology-in-everyday-life): An Explainer on Gesture-Based Technology in Everyday Life
     Updated: 2026-02-04T00:21:17Z
+    Author: User
+  - [The Impact of Growing 5G Connectivity on Global Industries](https://ezdore.com/blogs/news/the-impact-of-growing-5g-connectivity-on-global-industries): The Impact of Growing 5G Connectivity on Global Industries
+    Updated: 2026-02-08T00:05:23Z
+    Author: User
+  - [How to Successfully Implement IoT within Your Organization](https://ezdore.com/blogs/news/how-to-successfully-implement-iot-within-your-organization): How to Successfully Implement IoT within Your Organization
+    Updated: 2026-02-11T00:23:45Z
     Author: User
 
 ## Store Pages
