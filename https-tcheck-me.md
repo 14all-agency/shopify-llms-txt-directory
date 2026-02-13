@@ -15,7 +15,7 @@ The company operates with full transparency, in-house manufacturing quality cont
 - Created At: 2022-12-16T22:27:14Z
 - Contact Email: support@tcheck.me
 - Address: 9081 Foothills Blvd, Suite 150, Roseville, California 95747, USA
-- Updated At: 2026-02-06T00:00:36.786Z
+- Updated At: 2026-02-13T00:00:40.731Z
 
 ## Mission & Core Value Proposition
 
@@ -38,14 +38,14 @@ We believe that understanding what you consume is essential to mindful dosing an
 ## Products
 
 - [Flower Potency Testing Expansion Kit for tCheck 3 | tCheck](https://tcheck.me/products/expansion-kit): Flower Potency Testing Expansion Kit for tCheck 3 allow you to accurately measure THC or CBD levels in raw  flower easily from the comfort of your home.
-  Updated: 2025-08-01T15:15:03Z
+  Updated: 2026-02-12T06:39:01Z
   Vendor: tCheck
   Product Type: Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Expansion-flower-kit.jpg?v=1715450266
   Price: $199.99 USD
 - [tCheck Shirt: Show Off Your Potency Testing to Friends](https://tcheck.me/products/tcheck-tshirt): Get the official tCheck shirt. Designed for fit, comfort and style, the tCheck crew neck shirt is made from 100% cotton.
-  Updated: 2026-02-02T15:34:50Z
+  Updated: 2026-02-12T06:39:01Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
@@ -69,91 +69,91 @@ We believe that understanding what you consume is essential to mindful dosing an
     Availability: Available
     Price: $15.99 USD
 - [Reagent Refill for tCheck THC or CBD Potency Tester | tCheck](https://tcheck.me/products/reagent-refill): Reagent Refill for THC or CBD Potency Testing Device helps you keep your tCheck device ready to measure  infusion strength with accurate & fast results.
-  Updated: 2026-02-03T23:46:36Z
+  Updated: 2026-02-12T21:40:47Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Reagent_2.jpg?v=1770046671
   Price: $69.99 USD
 - [Flower Testing Expansion Kit (Refill Set) | tCheck](https://tcheck.me/products/expansion-kit-refill-set): Flower Testing Refill Set for Expansion Kit Use includes everything you need to continue testing raw  flower accurately with your existing tCheck kit.
-  Updated: 2025-08-11T15:45:02Z
+  Updated: 2026-02-12T06:39:01Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Expansion-set_Refill-set3.jpg?v=1715450269
   Price: $39.99 USD
 - [tCheck device (Warranty Replacement)](https://tcheck.me/products/tcheck-device-warranty-replacement): Warranty replacement for tCheck device - when covered under the 1 year warranty replacement policy (from the date of delivery).
-  Updated: 2025-08-11T17:05:05Z
+  Updated: 2026-02-12T06:39:01Z
   Vendor: tCheck
   Product Type: Other
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/all-devices_aca800e1-8e8d-43ba-88e3-06410fc9335b.png?v=1718035906
   Price: $0.00 USD
 - [Replacement Tray for Accurate THC or CBD Testing | tCheck](https://tcheck.me/products/replacement-tray): Looking to replace your original tCheck tray? This genuine replacement tray ensures continued accurate readings, intended as a replacement, not an extra tray.
-  Updated: 2026-01-26T16:06:17Z
+  Updated: 2026-02-12T06:39:01Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/tCheck2-reusable-tray.webp?v=1769443577
   Price: $75.00 USD
 - [Syringe and Filter Refill Set for Potency Testing | tCheck](https://tcheck.me/products/syringe-and-filters-refill-set): Syringe and Filter Refill Set for Potency Testing ensures smooth and accurate  testing with your tCheck device using clean fresh components every time.
-  Updated: 2025-08-11T19:30:08Z
+  Updated: 2026-02-12T06:39:01Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Filters_Injections.jpg?v=1718035895
   Price: $19.99 USD
 - [Expansion Kit only - No Reagent | tCheck Potency Tester](https://tcheck.me/products/expansion-kit-only-wholesale): Know the potency of your flower and concentrate for total cannabinoids. Includes everything you need to perform 10 flower or concentrate tests.
-  Updated: 2025-10-02T19:13:00Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Kit - Wholesale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Expansion-flower-kit.jpg?v=1715450266
   Price: $199.99 USD
 - [tCheck Expansion Kit Refill Set (Wholesale)](https://tcheck.me/products/expansion-kit-refill-set-wholesale): Refill set for the Flower and Concentrate Expansion Kit Includes everything you need to perform 30 flower or concentrate tests
-  Updated: 2025-10-04T08:15:08Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Kit - Wholesale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/refill1_2.jpg?v=1671776545
   Price: $39.99 USD
 - [tCheck THC Potency Tester Reagent Refill (Wholesale)](https://tcheck.me/products/reagent-refill-wholesale): Reagent bottle refills for the Flower and Concentrate Expansion Kit.Bundle of 10 x 100 mL bottles.Orders are shipped in 1-2 weeks.
-  Updated: 2025-10-04T12:49:42Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Accessories - Wholesale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/ReagentBottles.jpg?v=1671776548
   Price: $69.99 USD
 - [Syringe and Filters Refill Set (Wholesale)](https://tcheck.me/products/syringe-and-filters-refill-set-wholesale): Syringe and filter refill for the tCheck 2 Expansion Kit. - 30 .22um filters - 30 1 mL syringes - 1 10 mL syringe Orders are shipped in 1-2 weeks.
-  Updated: 2025-10-02T20:00:42Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/refill3_2_5fcefabc-dbd5-4e12-bc6e-d66ca68b833e.jpg?v=1671776551
   Price: $19.99 USD
 - [Flower & Concentrates Expansion Kit tCheck Potency Yester](https://tcheck.me/products/expansion-kit-amazon): The expansion kit provides all the materials needed to properly test your flower and concentrates using your tCheck.
-  Updated: 2025-07-13T04:57:55Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/Layout_12-scaled_0132d435-45a5-4724-ae87-e6ae90927195.jpg?v=1721053866
   Price: $199.99 USD
 - [Nano Filters Refill for Infusion Potency Checks | tCheck](https://tcheck.me/products/syringe-filters-refill): Nano Filters Refill ensure potency readings stay precise when testing infused oils or butters. Compatible with tCheck device for reliable results every time.
-  Updated: 2026-02-03T23:46:36Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Filters.jpg?v=1721053858
   Price: $29.99 USD
 - [tCheck device (Warranty Replacement) - Special Price](https://tcheck.me/products/tcheck-device-warranty-replacement-special-price): Warranty replacement for tCheck devices with a special price - when out of warranty - offering a chance to get a new device at a special price
-  Updated: 2026-01-26T16:03:01Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Other
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/products/all-devices_e08b91ad-92bb-4d01-887d-5209f7e41301.png?v=1721053817
   Price: $100.00 USD
 - [Infusion Essentials | Infusion Testing | tCheck Potency Tester](https://tcheck.me/products/copy-of-tcheck-3-device-amazon): With the Infusion Essentials bundle, you have everything you need to test the potency of your infusions. Everything you need to test the potency of your edibles at home.
-  Updated: 2025-07-12T07:48:54Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Device Only
   Availability: Available
@@ -175,7 +175,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/V5-TCHECK3_51bff4d6-b7be-40ee-a374-b80490809cef.png?v=1715452203
     Price: $329.99 USD
 - [Potency Testing Plus | Test  Kit | tCheck Potency Tester](https://tcheck.me/products/t3-device-kit-bundle-amazon): With the Potency Testing Plus bundle, start testing the potency of your raw hemp & , concentrates, and infusions.
-  Updated: 2025-07-31T20:05:06Z
+  Updated: 2026-02-12T06:39:02Z
   Vendor: tCheck
   Product Type: Device + Kit
   Availability: Available
@@ -197,7 +197,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/V5-TCHECK3_54117c80-bfb3-4d02-82d6-1f2cbfeeea7e.png?v=1715452214
     Price: $420.00 USD
 - [Infusion Essentials | Infusion Testing | tCheck Potency Tester](https://tcheck.me/products/t3-wholesale): With the Infusion Essentials bundle, you have everything you need to test the potency of your infusions. Everything you need to test the potency of your edibles at home.
-  Updated: 2026-02-04T20:28:17Z
+  Updated: 2026-02-12T06:39:03Z
   Vendor: tCheck
   Product Type: Device Only - Wholesale
   Availability: Available
@@ -219,7 +219,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/V5-TCHECK3_465104d3-a1cb-442b-9b6a-b0789f448bb0.png?v=1718035879
     Price: $329.99 USD
 - [Potency Testing Plus | Test  Kit | tCheck Potency Tester](https://tcheck.me/products/copy-of-t3-with-kit-wholesale): With the Potency Testing Plus bundle, start testing the potency of your raw hemp & , concentrates, and infusions.
-  Updated: 2026-02-02T22:42:58Z
+  Updated: 2026-02-12T06:39:03Z
   Vendor: tCheck
   Product Type: Device + Kit - Wholesale
   Availability: Available
@@ -241,7 +241,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/V5-TCHECK3_7e8ba578-f92b-49ff-9a8c-745822f920f8.png?v=1718035877
     Price: $420.00 USD
 - [tCheck 3 Device for Home Potency Testing of Infusions | tCheck](https://tcheck.me/products/thc-and-cbd-potency-test-device3): tCheck 3 Device for Home Potency Testing of Infusions lets you quickly measure THC and CBD levels in  infused oils butter or tinctures with accuracy.
-  Updated: 2026-02-02T22:42:24Z
+  Updated: 2026-02-12T06:39:03Z
   Vendor: tCheck
   Product Type: Device Only
   Availability: Available
@@ -259,7 +259,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Availability: Available
     Price: $329.99 USD
 - [tCheck 3 Device with Flower Testing Expansion Kit | tCheck](https://tcheck.me/products/thc-and-cbd-potency-test-device3-and-kit): tCheck 3 Device with Flower Testing Expansion Kit lets you measure THC or CBD potency in infusions, concentrates, and raw flower quickly and accurately at home.
-  Updated: 2026-02-04T04:36:06Z
+  Updated: 2026-02-12T23:24:08Z
   Vendor: tCheck
   Product Type: Device + Kit
   Availability: Available
@@ -281,14 +281,14 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Green-Expansion-Kit-5_6846d78b-7617-40e2-bf29-85eee6c13c4f.jpg?v=1721662253
     Price: $420.00 USD
 - [tCheck 3 Upgrade Kit for Advanced Potency Testing | tCheck](https://tcheck.me/products/tcheck-3-upgrade): tCheck 3 Upgrade improves the accuracy and consistency of  potency testing at home, making it easier to measure THC or CBD levels in oils and infusions.
-  Updated: 2026-02-02T22:41:25Z
+  Updated: 2026-02-12T17:29:50Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/tCheck_device_upgrade.png?v=1732549574
   Price: $150.00 USD
 - [tCheck Potency Testing Plus | Test  Kit](https://tcheck.me/products/tcheck-3-flower-testing-expansion-kit-wholesale): With the Potency Testing Plus bundle, start testing the potency of your raw hemp & , concentrates, and infusions.
-  Updated: 2026-02-02T22:40:27Z
+  Updated: 2026-02-12T06:39:03Z
   Vendor: tCheck
   Product Type: Device + Kit - Wholesale
   Availability: Available
@@ -310,7 +310,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Green-Expansion-Kit-5_6846d78b-7617-40e2-bf29-85eee6c13c4f.jpg?v=1721662253
     Price: $420.00 USD
 - [tCheck 3 for Gummies Testing Potency at Home Easily | tCheck](https://tcheck.me/products/tcheck): tCheck 3 for Gummies lets you test the potency of homemade edibles at home with ease so you can enjoy accurate, consistent results every time you make gummies.
-  Updated: 2026-02-02T22:39:58Z
+  Updated: 2026-02-12T06:39:03Z
   Vendor: tCheck
   Product Type: Device Only
   Availability: Available
@@ -332,7 +332,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/green_tray_edit_2_04749496-5fa6-4a1d-8c94-182bfc064ac2.jpg?v=1721662268
     Price: $329.99 USD
 - [Uncalibrated additional tray for tCheck 3](https://tcheck.me/products/uncalibrated-additional-trays-for-tcheck-3): Uncalibrated tray for tCheck 3. tCheck trays are normally paired with an individual tCheck device, then a 60-point calibration process is performed to ensure the highest accuracy possible. We make no claims concerning the accuracy of uncalibrated trays; however, uncalibrated trays are very precise and consistent test after test.
-  Updated: 2026-02-02T22:39:16Z
+  Updated: 2026-02-12T06:39:03Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
@@ -342,46 +342,46 @@ We believe that understanding what you consume is essential to mindful dosing an
 ## Collections
 
 - [Uncategorized](https://tcheck.me/collections/uncategorized)
-  Updated: 2022-12-28T21:40:48Z
+  Updated: 2026-02-12T06:55:30Z
   Total Products: 0
 - [Accessories for tCheck for Accurate Potency Testing | tCheck](https://tcheck.me/collections/accessories): Accessories for tCheck support accurate potency testing by enhancing device performance and usability, making your  testing process simple & effective.
-  Updated: 2026-02-05T12:08:17Z
+  Updated: 2026-02-12T12:07:17Z
   Total Products: 10
 - [Warranty products tCheck THC Potency Tester](https://tcheck.me/collections/warranty-products): Warranty products for tCheck THC Potency Tester and Accessories.
-  Updated: 2026-01-20T12:06:13Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 3
 - [THC & CBD Potency Tester by tCheck for Infused Oils | tCheck](https://tcheck.me/collections/potency-tester): THC & CBD Potency Tester by tCheck provides accurate readings of your infused oils, helping improve dosing, consistency and confidence in your homemade product.
-  Updated: 2025-07-21T06:29:05Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Recalibration](https://tcheck.me/collections/recalibration)
-  Updated: 2026-01-24T12:06:52Z
+  Updated: 2026-02-12T12:07:17Z
   Total Products: 3
 - [Wholesale products](https://tcheck.me/collections/wholesale-products)
-  Updated: 2026-01-09T12:07:01Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 6
 - [Amazon products of tCheck THC Potency Tester](https://tcheck.me/collections/amazon-products): SKU's only on Amazon for tCheck THC Potency Tester
-  Updated: 2026-02-05T12:08:17Z
+  Updated: 2026-02-12T12:07:17Z
   Total Products: 8
 - [Collaboration with other great THC Products](https://tcheck.me/collections/collaboration): Check out bundled products from our partners with the tCheck THC & CBD potency tester.
-  Updated: 2024-08-09T22:41:54Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Display collection for  - device Get it now - tCheck](https://tcheck.me/collections/display-collection-for-): This is for a  component - tCheck
-  Updated: 2024-08-09T22:41:54Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Display collection for  - device & kit](https://tcheck.me/collections/display-collection-for--device-kit): Explore tCheck devices and testing kits designed for measuring the potency of infused products. Highlighted tools for consistent, accurate at-home testing.
-  Updated: 2025-06-24T07:41:56Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Tax Exempt (Amazon)](https://tcheck.me/collections/tax-exempt-amazon): Exempt for purposes of calculating sales taxes due only because Amazon already calculates and charges sales tax.
-  Updated: 2026-02-05T12:08:17Z
+  Updated: 2026-02-12T12:07:17Z
   Total Products: 8
 - [Tax Exempt (Wholesale)](https://tcheck.me/collections/tax-exempt-wholesale): Tax exempt products because items are being sold wholesale and are not subject to sales tax.
-  Updated: 2026-01-09T12:07:01Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 6
 - [tCheck 2](https://tcheck.me/collections/tcheck-2): All tCheck 2 product lines
-  Updated: 2024-08-09T22:41:54Z
+  Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Advanced Potency Testing Devices & Testing Kits | tCheck](https://tcheck.me/collections/potency-tester-1): tCheck Potency Testers help measure the strength of infused oils, tinctures, and more at home. Designed for accuracy, consistency, and easy-to-read results.
-  Updated: 2026-02-04T12:07:33Z
+  Updated: 2026-02-12T12:07:17Z
   Total Products: 5
 
 ## Blogs
@@ -544,7 +544,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: ,  cooking,  edibles, Food, oil infusion
   - [Decarb  Easily at Home with 4 Simple ways | tCheck](https://tcheck.me/blogs/-tips/four-easy-ways-to-decarboxylate--at-home): Decarb  Easily at Home with 4 Simple ways | tCheck
-    Updated: 2026-02-02T15:44:05Z
+    Updated: 2026-02-11T23:59:34Z
     Author: THC Taylor
     Tags: ,  education, decarb, decarboxylation
   - [Unlocking Hemp Seeds’ Superfood Power & Benefits | tCheck](https://tcheck.me/blogs/-tips/hemp-seed-superfood): Unlocking Hemp Seeds’ Superfood Power & Benefits | tCheck
@@ -624,7 +624,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Author: THC Taylor
     Tags: exercise, fitness, health and wellness, post workout recovery, working out
   - [What to Expect Before Trying  in First Session | tCheck](https://tcheck.me/blogs/-tips/getting-started-with--what-to-expect-before-your-first-session): What to Expect Before Trying  in First Session | tCheck
-    Updated: 2026-02-02T15:35:08Z
+    Updated: 2026-02-11T09:55:01Z
     Author: THC Taylor
     Tags: , first time smoker, health and wellness, trying  for the first time
   - [-Infused Pink Sauce Recipe by Stoney Mac | tCheck](https://tcheck.me/blogs/-tips/-infused-pink-sauce-recipe-by-stoney-macaroni): -Infused Pink Sauce Recipe by Stoney Mac | tCheck
