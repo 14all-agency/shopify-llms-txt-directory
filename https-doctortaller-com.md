@@ -10,12 +10,12 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-02-06T08:00:24.446Z
+- Updated At: 2026-02-13T12:00:24.711Z
 
 ## Products
 
 - [Doctor Taller, For Children (8+) and Teens, 60 Vegan Capsules](https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129): Doctor Taller height growth supplement for kids (8+) and teens. 60 vegan capsules with vitamins, minerals & herbs to support natural growth and development.
-  Updated: 2026-01-14T13:26:07Z
+  Updated: 2026-02-10T22:44:53Z
   Vendor: Doctor Taller™
   Product Type: Capsule
   Availability: Available
@@ -84,7 +84,7 @@
 ## Collections
 
 - [Shop all](https://doctortaller.com/collections/shop): Doctor Taller is a height growth supplement researched and formulated by the U.S.  Doctors. It contains vital nutrients and precious herbs to maximize height.
-  Updated: 2026-01-15T12:12:47Z
+  Updated: 2026-02-11T12:13:10Z
   Total Products: 3
 
 ## Blogs
@@ -103,7 +103,7 @@
   - [Does Milk Make You Taller?](https://doctortaller.com/blogs/nutritions/does-milk-make-you-taller): Does Milk Make You Taller?
     Updated: 2025-12-25T06:38:28Z
   - [Does Vitamin D Make You Taller?](https://doctortaller.com/blogs/nutritions/does-vitamin-d-make-you-taller): Does Vitamin D Make You Taller?
-    Updated: 2025-12-03T03:09:30Z
+    Updated: 2026-02-09T01:28:59Z
   - [Does Vitamin C Make You Taller?](https://doctortaller.com/blogs/nutritions/does-vitamin-c-make-you-taller): Does Vitamin C Make You Taller?
     Updated: 2025-10-30T08:06:13Z
   - [Best Healthy Drink To Grow Taller](https://doctortaller.com/blogs/nutritions/best-healthy-drink-to-grow-taller): Best Healthy Drink To Grow Taller
@@ -196,7 +196,7 @@
   - [Does Running Make You Taller?](https://doctortaller.com/blogs/exercises/does-running-make-you-taller): Does Running Make You Taller?
     Updated: 2025-10-30T08:20:00Z
   - [Do pilates make you taller?](https://doctortaller.com/blogs/exercises/do-pilates-make-you-taller): Do pilates make you taller?
-    Updated: 2025-10-30T08:19:02Z
+    Updated: 2026-02-09T04:44:09Z
 - [Science Insight](https://doctortaller.com/blogs/science-insight): Uncover height growth science: genetics, hormones, growth plates, puberty, global averages & myths busted for kids & teens – Doctor Taller insights.
   - [5 Signs That You Have Stopped Growing In Height](https://doctortaller.com/blogs/science-insight/5-signs-that-you-have-stopped-growing-in-height): 5 Signs That You Have Stopped Growing In Height
     Updated: 2025-11-05T08:42:50Z
