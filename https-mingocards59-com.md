@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-21T23:22:10Z
 - Contact Email: mingocards59@gmail.com
-- Updated At: 2026-02-06T00:00:33.594Z
+- Updated At: 2026-02-13T00:00:36.342Z
 
 ## Products
 
@@ -241,6 +241,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/25-26_Topps_Basketball_Base_Set_2.jpg?v=1761931774
   Price: $65.00 USD
+- [2023 Spectra Jaxon Smith-NJIGBA (JSN) Spectris 07/30 PSA 10](https://mingocards59.com/products/2023-spectra-jaxon-smith-njigba-jsn-spectris-07-30-psa-10): 🦅 Seahawks superstar wide receiver and Ohio State alum. 2025 OPOY with 119 receptions, 1,793 yards, and 10 TDs—only the second Seahawk to claim this prestigious honor. Own a piece of JSN's historic season with this stunning 2023 Spectra Spectris parallel, graded PSA 10. A must-have for collectors celebrating one of the NFL's most electrifying talents. 🔥⭐
+  Updated: 2026-02-07T20:38:10Z
+  Vendor: Mingo Cards 59
+  Product Type: Football Rookie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/95725972-front.jpg?v=1770492422
+  Price: $50.00 USD
+- [2021 Panini Flawless Coll. SSS-CK Cooper Kupp Star Swatch Sig. Gold 09/10 SGC 9/Auto 10](https://mingocards59.com/products/2021-panini-flawless-coll-sss-ck-cooper-kupp-star-swatch-sig-gold-09-10-sgc-9-auto-10): 🏈 2-time Super Bowl Champion Seahawks legend and Eastern Washington University alum Cooper Kupp shines in this premium 2021 Panini Flawless collectible. This Star Swatch Signature card features an authentic player-worn swatch and autograph, graded SGC 9 with a perfect Auto 10. Limited to just 10 copies worldwide, this Gold parallel is a must-have for serious 🏆 collectors. Kupp's explosive route-running and clutch performances make this a cornerstone piece for any NFL card portfolio. ⭐
+  Updated: 2026-02-09T15:40:17Z
+  Vendor: Mingo Cards 59
+  Product Type: Football RPA
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2021_Panini_Flawless_Coll_SSS-CK_Cooper_Kupp_Star_Swatch_Signatures_Gold_9-10__SGC-Grade-9-Auto-10_Auth-7133629_Front.jpg?v=1770495321
+  Price: $559.00 USD
 
 ## Collections
 
@@ -248,8 +262,8 @@
   Updated: 2026-01-25T21:06:51Z
   Total Products: 0
 - [Graded - NFL](https://mingocards59.com/collections/graded-nfl): Graded NFL cards
-  Updated: 2026-01-25T21:06:51Z
-  Total Products: 18
+  Updated: 2026-02-07T21:33:14Z
+  Total Products: 20
 - [Graded - NBA & WNBA](https://mingocards59.com/collections/graded-nba-wnba-1)
   Updated: 2026-01-25T21:06:51Z
   Total Products: 2
@@ -268,6 +282,9 @@
 - [Pop Culture](https://mingocards59.com/collections/pop-culture): Unique collector cards from movies etc.
   Updated: 2026-02-02T12:20:23Z
   Total Products: 1
+- [Featured Products](https://mingocards59.com/collections/featured-products): Top desirable cards
+  Updated: 2026-02-07T21:33:14Z
+  Total Products: 9
 
 ## Store Pages
 
