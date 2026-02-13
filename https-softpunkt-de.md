@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-09T10:48:21Z
 - Contact Email: support@softpunkt.de
-- Updated At: 2026-02-06T00:00:32.173Z
+- Updated At: 2026-02-13T00:00:35.252Z
 
 ## Products
 
