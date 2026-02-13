@@ -9,7 +9,7 @@
 - Created At: 2019-08-22T08:48:49Z
 - Contact Email: contact@delicatessen.ro
 - Contact Phone: +40742571473
-- Updated At: 2026-02-05T00:00:35.307Z
+- Updated At: 2026-02-13T00:00:40.370Z
 
 ## Products
 
@@ -21,7 +21,7 @@
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ulei-de-masline-extravirgin-cu-usturoi.jpg?v=1624199819
   Price: 32,00 lei RON
 - [Ulei de masline extravirgin cu aroma de paprika La Chinata 250ml](https://delicatessen.ro/products/ulei-de-masline-extravirgin-cu-aroma-de-paprika): Uleiul de masline extra aromat cu paprika La Chinata este realizat cu cel mai bun ulei de masline extravirgin, cu o selectie de chili și amestecul de paprika dulce și picant, obtinand o aroma intensa si unica si un gust usor picant.Este recomandat mai ales consumul la rece sau la temperatura scazuta, pentru a-și pastra proprietatile, dar este, de asemenea, un bun insotitor pentru mancarurile calde daca este utilizat la sfarșitul gatitului. Este perfect pentru mancarurile cu pește, in special pentru crustacee, cum ar fi crevetii. Mai mult, il puteti adauga la gazpacho și la tot felul de legume, pui, pizza, paste, salate sau incercati pur și simplu cu paine. Este recomandat ca nota finala intr-o reteta traditionala de tocana.Trebuie mentionat ca este important sa se agite bine inainte de servire. Ingrediente: Ulei de masline extravirgin (96.7%), Boia afumata dulce Ardei iute uscat (1.1%) Caracteristici: fara gluten, fara lactoza, 100% vegetal Informatii nutritionale/100 ml: Valoare energetica 3381.2kJ/808.1 kcal Grasimi 90g, din care grasimi saturate 13g, Carbohidrati 0.6g, Zahar 0.2g, Fibre alimentare 0g, Proteine 0.2g, Sare 0g. Greutate: 250ml Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-02T22:03:11Z
+  Updated: 2026-02-05T19:57:00Z
   Vendor: Delicatessenro
   Product Type: Ulei de Masline
   Availability: Available
@@ -42,7 +42,7 @@
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/dfgdfg.jpg?v=1623591724
   Price: 28,00 lei RON
 - [Crema de gogosari si vinete La Chinata 180g](https://delicatessen.ro/products/crema-de-gogosari-si-vinete): Crema de gogosari si vinete La Chinata este un acompaniament perfect pentru orice masa a zilei. Elaborat cu produse de prima calitate din gradina Extremadura și ulei de masline extravirgin La Chinata, este un produs gourmet care ofera o nota de personalitate tuturor retetelor tale. Crema de gogoșari și vinete poate fi utilizată într-o varietate de feluri de mâncare și preparate culinare. Iată câteva idei: Tartine sau bruschete: Unge crema de gogoșari și vinete pe felii de pâine prăjită și adaugă deasupra câteva felii subțiri de cașcaval, roșii cherry sau felii de măsline pentru un aperitiv rapid și delicios. Dip sau sos: Folosește crema de gogoșari și vinete ca dip sau sos pentru legume crude, chips-uri sau bastonașe de pâine. Este o opțiune excelentă pentru petreceri sau gustări rapide. Baze pentru pizza sau tartă: Folosește crema de gogoșari și vinete drept bază pentru pizza sau tartă. Unge-o pe aluatul pregătit și adaugă deasupra ingrediente preferate, cum ar fi brânza, legumele proaspete, șuncă sau măsline. În sandvișuri și wraps: Adaugă crema de gogoșari și vinete în sandvișuri sau wraps pentru a le oferi o aromă savuroasă. Poți combina crema cu alte ingrediente, cum ar fi carne de pui sau curcan, roșii, castraveți și frunze de salată pentru a obține un gust echilibrat. Pește și fructe de mare: Folosește crema de gogoșari și vinete ca sos pentru pește sau fructe de mare. Poți unge pestele sau fructele de mare cu cremă înainte de a le coace, a le prăji sau a le grătară. Paste și risotto: Adaugă crema de gogoșari și vinete în paste sau risotto pentru a le da o aromă intensă și savuroasă. Poți amesteca crema direct în sosul de paste sau în risotto înainte de a le servi. Asigură-te că utilizezi crema de gogoșari și vinete de calitate și că o adaptezi la preferințele tale. Aceste sugestii îți oferă câteva idei despre cum să folosești crema în bucătărie, dar poți să îți folosești creativitatea și să o explorezi în diverse preparate. Folosita in mancarurile cu carne și legume, precum și cu paste sau sosuri, este o crema cu o aroma intensa, care amintește de „escalibada” și permite o multime de combinatii culinare.De altfel, este un produs cu valori nutritive deosebite, deoarece gogosarii și vinetele ofera multe avantaje pentru sanatate.Pe de o parte, gogosarul este o sursa de provitamina A (betacaroten și criptoxantina) pe care organismul o transforma in vitamina A. De asemenea, contine vitamine din grupele B, C și E. Și, printre minerale, este remarcabila și prezenta potasiului și, in proportie mai mica, magneziul, fosforul si calciul. Este, de asemenea, un bun antioxidantVinetele sunt bogate in potasiu, cupru, acid folic, magneziu și fibre. De asemenea, contin acid cafeic și acid clorogenic, care au, de asemenea, proprietati deosebite pentru a combate cancerul, virusurile si bacteriile daunatoare. In plus, este și antioxidant, reduce colesterolul, imbunatatește circulatia sanguina și previne bolile cardiace și cardiovasculare. Ingrediente: Gogosari rosii si galbeni (30%) Pulpa de rosii, vinete (19%) Ulei de masline extravirgin (14.8%) Pasta de tomate concentrata, ceapa, fructoza, proteina din lapte, otet din vin alb (sulfiti), busuioc, patrunjel, amidon din porumb, sare, regulator de aciditate (E-270), aroma naturala. Informatii nutritionale/100 ml: Valoare energetica 726kJ/176kcal Grasimi 14.9g, din care grasimi saturate 1.7g, Carbohidrati 5.9g, Zahar 5g, Fibre alimentare 3.9g, Proteine 2.4g, Sare 0.6gAlergeni: Poate contine urme de lapte si nuci. Caracteristici: fara gluten, fara lactoza, 100% vegetal Termen de valabilitate: 2 ani Brand: La Chinata Tara de origine: Spania Greutate: 180g
-  Updated: 2026-02-02T22:03:12Z
+  Updated: 2026-02-08T06:27:35Z
   Vendor: Delicatessenro
   Product Type: Pateuri si Rillettes
   Availability: Available
@@ -63,7 +63,7 @@
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/hgjgh.jpg?v=1624463260
   Price: 28,00 lei RON
 - [Crema de hribi si trufe La Chinata 180g](https://delicatessen.ro/products/crema-de-hribi-si-trufe): Crema de hribi și trufe adaugă un gust intens și aromă bogată oricărui preparat. Iată câteva idei despre cum să o folosești: Paste cu cremă de hribi și trufe: Fierbe pastele preferate conform instrucțiunilor de pe ambalaj. Într-o tigaie, încălzește cremă de hribi și trufe la foc mediu. Adaugă pastele scurse și amestecă bine pentru a le îmbrăca în cremă. Pentru un plus de savoare, poți adăuga ciuperci proaspete sau ciuperci uscate rehidratate în timp ce gătești crema de hribi și trufe. Asezonează cu sare și piper după gust. Servește pastele cu cremă de hribi și trufe ca fel principal, garnisite cu frunze de pătrunjel proaspăt sau parmezan ras. Crostini cu cremă de hribi și trufe: Taie felii subțiri de pâine baguette sau de pâine rustică și prăjește-le ușor în cuptor sau pe grill. Întinde o strat generos de cremă de hribi și trufe pe fiecare felie de pâine prăjită. Pentru un contrast de textură, adaugă câțiva fulgi de parmezan sau brânză Gorgonzola. Coace crostinii în cuptor până când crema se încălzește ușor și brânza se topește. Servește crostinii cu cremă de hribi și trufe ca aperitiv sau gustare. Omletă cu cremă de hribi și trufe: Bate ouă într-un castron și asezonează-le cu sare și piper. Încălzește puțin unt sau ulei de măsline într-o tigaie și adaugă cremă de hribi și trufe. Când crema s-a încălzit, toarnă ouăle bătute în tigaie și lasă-le să se coaguleze pe o parte. Cu ajutorul unei spatule, răstoarnă ouăle și lasă-le să se coacă și pe cealaltă parte. Servește omleta cu cremă de hribi și trufe ca mic dejun sau prânz, alături de pâine prăjită sau salată verde. Crema de hribi si trufe La Chinata este elaborata cu doua ingrediente extrem de apreciate de marii experti gastronomici – hribii si trufele, doua delicatese cu aroma intensa, a caror combinatie este o experienta culinara excelenta.Trufele sunt perfecte pentru o multime de retete și sunt foarte utilizate in haute cuisine, cu o aroma delicata, dar patrunzatoare. Trufa este o ciuperca mica care crește sub pamant. Are o valoare nutritiva mare și continut ridicat de fibre, si in plus este o sursa de fier și potasiu.Hribii, la randul lor, au un gust foarte pregnant; sunt o sursa excelenta de fibre, antioxidanti și alte caracteristici care ajuta la prevenirea cancerului sau a colesterolului ridicat.Aceasta crema este perfecta pentru a fi savurata insotita de vin roșu și poate fi folosita in multe retete cu carne roșie, paste, sosuri, quiches, omlete, legume, cartofi, risottos și ficat. Ingrediente: Ciuperci (hribi si ciuperci din acelasi grup) (68.5%) Ulei de masline extravirgin Trufa neagra (Tuber aestivum Vitt.) (4%) Pesmet (faina de grau, apa, drojdie, sare) Sare Usturoi Regulator de aciditate (E-270) Piper. Caracteristici: fara lactoza, 100% vegetal Informatii nutritionale/100 g: Valoare energetica 947kJ/230kcal Grasimi 22.6g, din care grasimi saturate 3.7g, Carbohidrati 2.4g, Zahar 0.2g, Fibre alimentare 2g, Proteine 3.2g, Sare 1.5g.Alergeni: Poate contine urme de lapte si nuci. Termen de valabilitate: 2 ani. Brand: La Chinata Tara de origine: Spania Greutate: 180g
-  Updated: 2026-02-02T22:03:13Z
+  Updated: 2026-02-12T14:00:20Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/6786.jpg?v=1623827176
   Price: 28,00 lei RON
 - [Miere de rozmarin La Chinata 300g](https://delicatessen.ro/products/miere-de-rozmarin): Cumpara miere de rozmarin La Chinata de la Delicatessen.ro ✅ Acest tip de miere prezinta o culoare mai inchisa si ofera proprietati stimulante ale sistemelor nervos si circulator. In plus, actioneaza ca hipertensor, fiind un ajutor in lupta cu reumatismul, reducand sau chiar eliminand simptomele.
-  Updated: 2026-02-04T19:28:43Z
+  Updated: 2026-02-12T20:36:27Z
   Vendor: Delicatessen
   Product Type: Miere
   Availability: Available
@@ -91,28 +91,28 @@
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/1pateiberico_1.jpg?v=1624463482
   Price: 28,00 lei RON
 - [Pate din carne de porc secreto iberico La Chinata 120g](https://delicatessen.ro/products/pate-din-carne-de-porc): Pateul din carne de porc La Chinata este elaborat cu portii de „secreto” iberic de calitate superioara din zona Extremadura. „Secreto” este una dintre partile de porc cele mai apreciate de bucatarii de prestigiu datorita texturii si gustului sau. Acest pate este recomandat pentru a fi savurat simplu, cu paine proaspata, deoarece are o textura foarte moale si gustoasa, sau cu reganas, si ii putem adauga o nota diferita cu oricare dintre cremele noastre balsamice La Chinata, cum ar fi crema de cirese, smochine sau trufe. Combinati-l cu gemul nostru de pere si veti obtine un aperitiv delicios! Ingrediente: carne slaba de porc iberic (22%), supa de porc Iberic (carne slaba de porc iberic, apa, ficat de porc, vin, condimente), ficat de porc, grasime de porc, ceapa, ciuperci, ulei de masline extravirgin (1%), vin Sherry, sare, praf de ou, fibra de mazare, cazeina, lapte praf, faina de grau, amidon de porumb, condimente, zahar, emulsificatori (E-450i, E-451ii, E-452i), conservanti (E-200, E-262ii), antioxidanti (E-301, E-331i, E-325). Informatii nutritionale/100 g: Valoare energetica 603 kJ/145 kcal, Grasimi 10.5g, din care grasimi saturate 3.6g, Carbohidrati 4.2g, Zahar 1.3g, Fibre alimentare 2,6g, Proteine 8.4g, Sare 1,67g.Alergeni: lapte, ou, gluten. Greutate: 120g Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-01-30T12:45:18Z
+  Updated: 2026-02-10T16:57:51Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/patesecretoiberico.jpg?v=1623827830
   Price: 28,00 lei RON
 - [Pate din carne de cerb cu Pedro Ximénez La Chinata 120g](https://delicatessen.ro/products/pate-din-carne-de-cerb-cu-pedro-ximenez): Pateul din carne de cerb La Chinata cu Pedro Ximénez (vin alb andaluz) este un pate delicios si sanatos care combina aroma rafinata a carnii de cerb, un clasic in lumea gourmet, plus calitatile oferite de Pedro Ximénez, o delicatesa cu o aroma catifelată si onctuoasa. Acesta este un pate perfect pentru a imbogati cele mai variate feluri de mancare, pentru a se consuma direct pe paine, imbogatit cu cremele noastre de smochine aromate, visine, miere, ceapa caramelizata La Chinata sau gemul de ardei. Se recomanda sa se serveasca usor rece, direct pe paine. Se asorteaza perfect cu vin rosu sau bere. Ingrediente: carne slaba de cerb (20%), bulion de gatit de cerb concentrat (16%) (cerb, apa, ficat de porc, vin, mirodenii), ficat de porc, slanina de porc, ceapa, ciuperci, struguri muscat (3%) , vin Pedro Ximénez (2%), ulei de masline extravirgin (1%), sare, ou deshidratat, fibre de mazare, cazeina, lapte praf degresat, amidon de porumb, condimente, zahar, faina de grau (gluten), emulsificator (E-450i, E-451ii, E452i), conservant (E-200, E-262ii), antioxidant (E-301, E-331i, E-325). Informatii nutritionale/100 g: Valoare energetica 901.1 kJ/216.8 kcal Grasimi 15.6g, din care grasimi saturate 5.7g, Carbohidrati 8.0g, Zahar 6.6g, Fibre alimentare 1.6g, Proteine 10.3g, Sare 2.57g. Greutate: 120g Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-03T13:19:01Z
+  Updated: 2026-02-11T09:56:02Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/pateciervopedro.jpg?v=1623682174
   Price: 28,00 lei RON
 - [Pate de fazan cu trufe La Chinata 120g](https://delicatessen.ro/products/pate-de-fazan-cu-trufe): Cumpara pate de fazan cu trufe de la Delicatessen.ro ✅ Acest pate este recomandat pentru a fi savurat simplu, cu paine proaspata, deoarece are o textura foarte moale si gustoasa.
-  Updated: 2026-02-04T12:21:24Z
+  Updated: 2026-02-10T16:57:51Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/faisantrufas.jpg?v=1623592008
   Price: 28,00 lei RON
 - [Pate de porc cu paprika La Chinata 120g](https://delicatessen.ro/products/pate-de-porc-cu-paprika): Se recomanda a se consuma direct pe paine, cu Regañás sau ca acompaniament pentru carne rosie; de asemenea, se poate combina cu cartofi sau pentru a gati sosuri pentru paste si legume. De asemenea la servire pateul trebuie sa fie usor rece daca urmeaza sa fie intins pe paine, pentru a-i spori nuantele, si se asorteaza perfect cu vinurile rosii. Ingrediente: carne slaba de porc (25%), carne de porc (16%) (carne de porc slaba, apa, ficat de porc, vin, mirodenii), ficat de porc, grasime de porc, ceapa, ciuperci, reductie de Pedro Ximénez, ulei de masline extra virgin (1% ), sare, praf de oua, fibre de mazare, cazeina, lapte degresat, amidon de porumb, condimente, zaharuri, faina de grau, pudra de paprika afumata (Pimentón de la Vera) (0,5%), emulgator (E-450i, E -451i, E-452i), conservant (E-200, E-262ii), antioxidant (E-301, E-331i, E-325) . Informatii nutritionale/100 g: Valoare energetica 852 kJ/205 kcal, Grasimi 14g, din care grasimi saturate 4.8g, Carbohidrati 12g, Zahar 6.8g, Fibre alimentare 2.2g, Proteine 6.2g, Sare 2.57g. Alergeni: lapte, ou, gluten. Caracteristici: fara lactoza Termen de valabilitate: 2 ani. Greutate: 120g Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-02T22:03:15Z
+  Updated: 2026-02-08T06:27:35Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
@@ -161,21 +161,21 @@
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ulei-de-masline-extravirgin-250-ml.jpg?v=1582635479
   Price: 24,00 lei RON
 - [Ulei de masline extravirgin 100 ml sticla patrata La Chinata](https://delicatessen.ro/products/ulei-de-masline-extravirgin-100-ml-sticla-patrata): Maslinele trebuie sa fie la maturitatea lor optima: curate, sanatoase si fara defecte aparente. Uleiul nostru de masline este caracterizat de patru factori de egala importanta: culoare galbena intensa, cu nuante subtile de verde; aroma dulce si ferma, fara tenta picanta sau amara caracteristica uleiurilor din sudul Spaniei; aroma de fructe coapte; continut ridicat de acizi grasi, care il face sa fie unul dintre cele mai bune uleiuri virgine obtinute din diferitele zone de cultivare a maslinelor din Spania. Regiunea Sierra de Gata este cunoscuta pentru maslinele , orientate într-o masura mai mare spre consumul direct. Vorbim despre masline de masa, cunoscute în Spania ca „manzanilla cacereña”. Sunt foarte similare ca textura si gust, ceea ce lasa un gust placut. O parte din aceasta aroma poate fi apreciata în uleiurile noastre de masline extravirgine, deoarece le folosim pe cele mai mici, care nu pot fi folosite in consumul direct, astfel ca uleiul de masline extravirgin La Chinata mosteneste cele mai cunoscute virtuti si caracteristici ale acestora. Sticla pastreaza toate proprietatile uleiurilor de masline extravirgine si este important sa alegeti dimensiunea adecvata în functie de consum, pentru a nu se pastra pe o perioada lunga de timp deoarece, sticla odata deschisa, calitatea si gustul produsului se modifica. Uleiul de masline extravirgin este prezentat intr-o sticla originala, ideala pentru a fi oferita drept cadou, dar si pentru uz personal. Ingrediente: ulei de masline extravirgin Caracteristici: fara gluten, fara lactoza, 100% vegetal Informatii nutritionale/100 ml: Valoare energetica 3701,13 kJ/884 kcal Grasimi 100g, din care grasimi saturate 13,808g, Carbohidrati 0g, Zahar 0g, Fibre alimentare 0g, Proteine 0g, Sare 0g.Nu contine alergeni. Greutate: 100ml Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-04T10:00:32Z
+  Updated: 2026-02-06T22:22:04Z
   Vendor: Delicatessen
   Product Type: Ulei de Masline
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ulei-de-masline-extravirgin-100-ml-sticla-patrata.jpg?v=1627993301
   Price: 24,00 lei RON
 - [Gem de mango cu cava La Chinata 210g](https://delicatessen.ro/products/gem-de-mango-cu-cava): Cumpara gem de mango de la Delicatessen.ro!✅ Textura gemului este intensa, cu o aroma fructata si foarte moale si o atingere de cava foarte echilibrata. În plus, trebuie mentionat faptul ca nu contine alcool, deoarece acesta se evapora in timpul procesului de fabricatie.
-  Updated: 2026-02-04T10:00:34Z
+  Updated: 2026-02-10T19:31:02Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/mermelada-mango-y-cava_1.jpg?v=1623827175
   Price: 38,00 lei RON
 - [Gem de caise cu lime La Chinata 210g](https://delicatessen.ro/products/gem-de-caise-cu-lime): Cumpara gem de caise cu lime La Chinata de la Delicatessen.ro ✅ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe deserturi si produse sarate, precum si impreuna cu pateuri din carne sau paine taraneasca. Produs fara gluten.
-  Updated: 2026-02-02T22:03:18Z
+  Updated: 2026-02-11T09:55:51Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
@@ -190,7 +190,7 @@
   Price: 38,00 lei RON
 - [Gem de capsune cu piper roz La Chinata 210g](https://delicatessen.ro/products/gem-de-capsune-cu-piper-roz): Cumpara gem de capsune cu piper roz La Chinata de la Delicatessen.ro ✅ 
 Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe deserturi si produse sarate, precum si impreuna cu pateuri din carne sau paine taraneasca.
-  Updated: 2026-01-27T11:56:55Z
+  Updated: 2026-02-07T20:00:11Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
@@ -204,7 +204,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/mermeladamanzana.jpg?v=1624105060
   Price: 38,00 lei RON
 - [Gem de smochine cu vanilie si piper negru La Chinata 210g](https://delicatessen.ro/products/gem-de-smochine-cu-vanilie-si-piper-negru): Cumpara gem de smochine cu vanilie si piper negru La Chinata de la Delicatessen.ro! ✅ Acest gem este fabricat numai din produse de cea mai buna calitate, gatite la foc lent, folosind doar fructe naturale si proaspete, care îsi pastreaza intacte conditiile initiale.
-  Updated: 2026-02-02T22:03:18Z
+  Updated: 2026-02-10T19:31:02Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
@@ -217,27 +217,6 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/mermelada_cereza.jpg?v=1623963303
   Price: 38,00 lei RON
-- [Ulei de masline extravirgin in cutie de tabla La Chinata 3l](https://delicatessen.ro/products/ulei-de-masline-extravirgin-in-cutie-de-tabla): Maslinele trebuie sa fie la maturitatea lor optima: curate, sanatoase si fara defecte aparente. Uleiul nostru de masline este caracterizat de patru factori de egala importanta: culoare galbena intensa, cu nuante subtile de verde; aroma dulce si ferma, fara tenta picanta sau amara caracteristica uleiurilor din sudul Spaniei; aroma de fructe coapte; continut ridicat de acizi grasi, care il face sa fie unul dintre cele mai bune uleiuri virgine obtinute din diferitele zone de cultivare a maslinelor din Spania. Regiunea Sierra de Gata este cunoscuta pentru maslinele , orientate într-o masura mai mare spre consumul direct. Vorbim despre masline de masa, cunoscute în Spania ca „manzanilla cacereña”. Sunt foarte similare ca textura si gust, ceea ce lasa un gust placut. O parte din aceasta aroma poate fi apreciata în uleiurile noastre de masline extravirgine, deoarece le folosim pe cele mai mici, care nu pot fi folosite in consumul direct, astfel ca uleiul de masline extravirgin La Chinata mosteneste cele mai cunoscute virtuti si caracteristici ale acestora. Cutia de tabla pastreaza toate proprietatile uleiurilor de masline extravirgine si este important sa alegeti dimensiunea adecvata în functie de consum, pentru a nu se pastra pe o perioada lunga de timp deoarece, cutia odata deschisa, calitatea si gustul produsului se modifica. Uleiul de masline extravirgin este prezentat intr-o cutie originala, ideala pentru a fi oferita drept cadou, dar si pentru uz personal. Ingrediente: ulei de masline extravirgin Caracteristici: fara gluten, fara lactoza, 100% vegetal Informatii nutritionale/100 ml: Valoare energetica 3701.13 kJ/884 kcal Grasimi 100g, din care grasimi saturate 13.808g Carbohidrati 0g, Zahar 0g, Fibre alimentare 0g, Proteine 0g, Sare 0g. Brand: La Chinata Tara de origine: Spania Greutate: 3 l
-  Updated: 2026-02-02T22:03:19Z
-  Vendor: Delicatessen
-  Product Type: Ulei de Masline
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ulei-de-masline-in-cutie-de-tabla-3l.jpg?v=1623588374
-  Price: 200,00 lei RON
-- [Ulei de masline extravirgin spray 200ml](https://delicatessen.ro/products/ulei-de-masline-extravirgin-spray): Ulei de masline extravirgin din Spania, extrem de usor de folosit pentru salate si diverse mancaruri care necesita o cantitate mica de ulei! Brand: La Chinata Tara de origine: Spania Greutate: 200 ml
-  Updated: 2026-02-02T22:03:20Z
-  Vendor: Delicatessen
-  Product Type: Ulei de Masline
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ulei-de-masline-extravirgin-spray.jpg?v=1624613227
-  Price: 38,00 lei RON
-- [Pate de caracatita si paprika La Chinata 120g](https://delicatessen.ro/products/pate-de-caracatita-si-paprika): Pateul este recomandat sa fie servit usor la rece daca este menit sa fie mancat simplu, cu paine proaspata, este, de asemenea, o combinatie buna cu vinul alb demidulce pentru a-i spori aroma. Pate-ul de caracatita si paprika face parte din linia La Chinata de pateuri facute cu cel mai bun ulei de masline extravirgin. Acest pata are un proces delicat de elaborare si se remarca prin aroma sa unica.Este recomandat pentru o gustare pe paine, deoarece are o textura foarte fina si gustoasa, sau cu varietatea noastra de muraturi si Regañás. I se poate da o nota speciala cu marea noastra varietate de gemuri si dulceturi, in special Dulceata de ardei, sau cea cu Ceapa caramelizata. Poate fi, de asemenea, un bun acompaniament sau dressing pentru a oferi o nota distinctiva mancarurilor cu peste, orez sau paste. Ingrediente: bulion de caracatita (apa, caracatita, condimente) (48%), caracatita (32%), ulei de masline extravirgin (7%), piure de cartofi, sare, condimente, aroma de fructe de mare, stabilizator (E-407), potentatori de aroma (E -621, E-635). Informatii nutritionale/100 g: Valoare energetica 494 kJ/118.3 kcal Grasimi 6,9g, din care grasimi saturate 1,2g, Carbohidrati 5,3g, Zahar 0,1g, Fibre alimentare 0,3g, Proteine 8,9g, Sare 0,7g. Alergeni: moluste. Caracteristici: fara gluten, fara lactoza. ﻿Greutate: 120g Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-02T22:03:20Z
-  Vendor: Delicatessen
-  Product Type: Pateuri si Rillettes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/patedepulpoalagallega.jpg?v=1623591726
-  Price: 28,00 lei RON
 - [Pate de midii in saramura La Chinata 120g](https://delicatessen.ro/products/pate-de-midii-in-saramura): Acest pate este recomandat ca o gustare simpla, cu paine proaspata sau cu regañás si picos, deoarece are o textura moale si gustoasa. Poti adauga o nota speciala cu un gem de legume, sau cu ceapa caramelizata. Poate fi servit si cu peste si mancaruri de orez. Se recomanda a fi servit rece daca se consuma cu paine proaspata. Recomandare: se asorteaza perfect cu vinul alb demidulce. Ingrediente: midii (20%), ton, ulei de masline extravirgin (7%), lapte, piure de cartofi, ou, otet din vin, sare, condimente, sos de rosii (tomate, amidon modificat (cartof), zahar, antioxidant (E-331) ). Informatii nutritionale/100 ml: Valoare energetica 704 kJ/168 kcal, Grasimi 8,7g, din care grasimi saturate 1,6g, Carbohidrati 2,3g, Zahar 0g, Fibre alimentare 0g, Proteine 20,2g, Sare 1,5g. Caracteristici: fara gluten. Greutate: 120g Brand: La Chinata Tara de origine: Spania
   Updated: 2026-01-27T11:56:57Z
   Vendor: Delicatessen
@@ -246,21 +225,21 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/patemejillonesenescabeche.jpg?v=1623591717
   Price: 28,00 lei RON
 - [Pate de crab La Chinata 120g](https://delicatessen.ro/products/pate-de-crab): Acest pate este recomandat ca o gustare simpla, cu paine proaspata sau cu regañás si picos, deoarece are o textura moale si gustoasa. Poti adauga o nota speciala cu un gem de legume, sau cu ceapa caramelizata. Poate fi servit si cu peste si mancaruri de orez. Se recomanda a fi servit rece, cu putin unt, daca se consuma cu paine proaspata. Recomandare: se asorteaza perfect cu vinul alb sau cu bere. Ingrediente: bulion de crab (apa, crab, condimente), carne de crab (13%), cod, merluciu, ulei de masline extravirgin (4%), piure de cartofi, calmar, sare, amidon, amidon modificat, albumina (ou), protein vegetale, zahar, aroma de fructe de mare, stabilizator (E-407), potentiator de arome (E-621, E-635), antioxidant (E-330 (QS)), coloranti (E-120, E-160C). Informatii nutritionale/100g: Valoare energetica 408,2 kJ/97,2 kcal, Grasimi 3,4g, din care grasimi saturate 0,5g, Carbohidrati 10,4g, Zahar 1,4g, Fibre 1,3g, Proteine 6,9g, Sare1,4g. Greutate: 120g Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-01-30T12:15:18Z
+  Updated: 2026-02-08T20:41:18Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/patecangrejo.jpg?v=1623682172
   Price: 28,00 lei RON
 - [Pate de ton si ardei iute La Chinata 120g](https://delicatessen.ro/products/pate-de-ton-si-ardei-iute): Data de expirare: Octombrie 2026 Acest pate este recomandat ca o gustare simpla, cu paine proaspata sau cu regañás si picos, deoarece are o textura moale si gustoasa. Poti adauga o nota speciala cu un gem de legume sau cu ceapa caramelizata. Poate fi servit si cu peste si mancaruri de orez. Se recomanda a fi servit rece daca se consuma cu paine proaspata. Recomandare: se asorteaza perfect cu vinul alb sau cu bere. Ingrediente: ton alb (30%), ton, ulei de masline extravirgin (4%), lapte praf de vaca, piure de cartofi, ou, ardei (2,5%), otet din vin, sare, condimente. Informatii nutritionale/100 ml: Valoare energetica 921,55 kJ/219.42 kcal, Grasimi 13,27g, din care grasimi saturate 4,54g, Carbohidrati 11,31g, Zahar 2,37g, Fibre alimentare 2,7g, Proteine 13,29g, Sare 1,71g.Alergeni: peste, lapte, ou. Greutate: 120g Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-02T22:03:21Z
+  Updated: 2026-02-06T10:51:11Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/patebonitopiquillos.jpg?v=1623591733
   Price: 28,00 lei RON
 - [Ballotin cu praline belgiene "Coco", 225g](https://delicatessen.ro/products/ballotin-coco-125): De ce pralinele belgiene sunt cele mai bune? Probabil pentru ca belgienii au inventat acest produs minunat. Ce inseamna pralina? Teoretic, un miez de nuca/aluna invelit in ciocolata. Totusi, termenul s-a extins iar acum pralinele (nu numai belgiene) contin ganache, creme de fructe (mmm, banane...), creme cu smantana proaspata (acestea pot expira si in doua saptamani) si o sumedenie de alte umpluturi savuroase. Un asortiment de praline inseamna o potentiala surpriza: te poti indragosti de o bomboana sau sa fii chiar dezgustat de alta. De exemplu, nu toata lumea apreciaza martipanul. Sau umpluturile cu alcool. De aceea, de obicei ballotinurile se alcatuiesc din praline "comune", fara umpluturi sau invelisuri prea excentrice. Dar cred ca suntem cu totii de acord ca o cutie draguta cu praline poate fi un cadou foarte bine primit, de tine sau de catre cineva drag. Ingrediente: Zahar, masa de cacao, ALUNE 14%, unt de cacao, grasime anhidra din LAPTE, LAPTE praf integral, Caramel 5% (zahar, sirop de glucoza, smântâna (LAPTE), grasime anhidra din LAPTE), ulei si grasimi vegetale hidrogenate total (nuca de cocos, floarea soarelui), FISTIC 1%, sirop de zahar invertit, emulgator: SOIA, Feuilletine 0,4% (FAINA de GRAU, zahar, grasime vegetala (floarea-soarelui, rapita), grasime din LAPTE, LAPTE, zahar, proteina din LAPTE, sare, extract de malt de ORZ, emulgator: lecitina, agent de crestere: bicarbonat de sodiu), biscuiti de cacao 0,3% (zahar, FAINA de GRAU, FAINA de migdale, amidon de GRAU, ulei de floarea soarelui, pudra de cacao cu continut scazut de grasimi, albus de OU, agent de crestere: bicarbonat de sodiu, sare), aroma naturala de vanilie, pop-corn 0,1% (porumb (porumb, ulei de floarea soarelui, sare), zahar, sirop de glucoza, sare), cereale crocante 0,1% (FAINA de orez, FAINA de GRAU, malt de GRAU, zahar, gluten de GRAU, dextroza, sare), extract de cafea 0,1%, cafea instant 0.04%, Sirop de glucoza, apa, sare, aroma naturala de zmeura, colorant alimentar: mar, ridichi, coacaze negre, concentrate de sofran si lamaie, Colorant: curcumina, Aroma naturala (ALUNE, NUCI), aroma naturala de portocale. 23% ciocolata neagra (min 60% cacao), 18% ciocolata cu LAPTE (min 33% cacao), 9% ciocolata alba (min 25,5% cacao). Informatii nutritionale/100 g: Valoare energetica kJ/kcal 2410/579; Grasimi 42g din care saturate 21.3g; Carbohidrati 44.7g din care zaharuri 41.7g; Proteine 5.7g; Sare 0.09g. A se pastra in loc uscat si racoros la temperaturi cuprinse intre 12 si 18 grade Celsius. Greutate: 225g Tara de origine: Belgia Producator: Bruyerre Pozele sunt cu titlu de prezentare, asortimentul de praline variaza in functie de sortimentele disponibile.
-  Updated: 2026-01-30T16:20:53Z
+  Updated: 2026-02-09T19:25:30Z
   Vendor: Delicatessen
   Product Type: Praline Belgiene
   Availability: Available
@@ -280,13 +259,6 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/mayonesa-con-trufa-la-chinata.jpg?v=1623840328
   Price: 35,00 lei RON
-- [Otet cu pulpa de zmeura La Chinata 100ml](https://delicatessen.ro/products/otet-cu-zmeura): Otetul cu zmeura La Chinata este un dressing care ofera un gust cu note dulci si acide; este perfect pentru a imbunatati gustul salatelor, salatei de fructe, preparatelor din peste, carne, branza. Idei de utilizare: Dressing pentru salate: Oțetul cu pulpă de zmeură poate fi folosit ca ingredient principal în prepararea dressingurilor pentru salate. Amestecă oțetul cu ulei de măsline extravirgin, puțină miere și sare pentru a obține un dressing delicios și aromat. Poți folosi acest dressing pentru salate verzi, salate cu fructe sau salate de legume. Marinade pentru carne: Oțetul cu pulpă de zmeură poate fi un ingredient excelent în marinadele pentru carne. Amestecă oțetul cu ulei de măsline, usturoi, ierburi aromatice și condimente preferate și lasă carnea să se marineze în această compoziție. Oțetul cu pulpă de zmeură va adăuga un echilibru subtil de arome dulci-acrișoare la carnea ta. Sosuri pentru deserturi: Oțetul cu pulpă de zmeură poate fi utilizat în sosurile pentru deserturi, în special cele care conțin fructe de pădure. Poți amesteca oțetul cu zmeură cu puțin zahăr și apă, apoi fierbe amestecul pentru a obține un sos aromat pentru înghețată, clătite, checuri sau alte deserturi. Băuturi răcoritoare: Adaugă câteva picături de oțet cu pulpă de zmeură în apă plată sau minerală pentru a obține o băutură răcoritoare și aromată. Poți adăuga și câteva frunze de mentă sau felii de lămâie pentru a amplifica aromele. Glazuri și sosuri acrișoare: Oțetul cu pulpă de zmeură poate fi utilizat în glazuri sau sosuri acrișoare pentru a adăuga o notă de prospețime și aromă. Poți amesteca oțetul cu pulpă de zmeură cu zahăr și alte condimente pentru a crea un sos delicios care să însoțească carne de pui, pește sau legume la grătar. Ingrediente: otet din alcool (42%), piure de zmeura (39%) (pulpa de zmeura (90%), zahar), zahar, stabilizator (E-414) (sulfiti), conservant (metabisulfit de potasiu) (sulfiti). Informatii nutritionale/100 ml: Valoare energetica:555 kJ/131 kcal, Grasimi 0.2g, din care grasimi saturate 0.1g, Carbohidrati 27.2g, Zahar 23.2g, Fibre alimentare 1g, Proteine 0.4g, Sare 0.02. Cantitate: 100ml Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-01-27T11:56:59Z
-  Vendor: Delicatessen
-  Product Type: Otet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Otetcuzmeura.jpg?v=1624463452
-  Price: 38,00 lei RON
 - [Crema de branza de capra cu ceapa caramelizata La Chinata 120g](https://delicatessen.ro/products/crema-de-branza-de-capra-cu-ceapa-caramelizata): Cum sa transformi un aperitiv intr-o experienta delicioasa: alege crema de branza speciala La Chinata si savureaz-o pe paine prajita sau cu crackers, langa un pahar de vin rosu!
   Updated: 2026-02-02T22:03:22Z
   Vendor: Delicatessen
@@ -295,14 +267,14 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Cremadebranzacuceapa.jpg?v=1623595587
   Price: 28,00 lei RON
 - [Crema de branza albastra si trufe de padure La Chinata 120g](https://delicatessen.ro/products/crema-de-branza-albastra-si-trufe-de-padure): Savureaza un aperitiv special cu branza si trufe de padure!
-  Updated: 2026-02-02T22:03:22Z
+  Updated: 2026-02-11T09:56:27Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Cremadebranzaalbastra.jpg?v=1623592021
   Price: 28,00 lei RON
 - [Pesto rosu La Chinata 180g](https://delicatessen.ro/products/pesto-rosu): Cauti sos pesto pentru paste? Alege pesto cu ulei de masline extravirgin din Spania si branza Grana Padano! Cumpara acum ingrediente premium gourmet pentru preparate sanatoase si delicioase!
-  Updated: 2026-02-02T22:03:23Z
+  Updated: 2026-02-09T08:38:00Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
@@ -323,49 +295,49 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Alioli.jpg?v=1625815323
   Price: 28,00 lei RON
 - [Crackers pentru gustari Regañás 125g](https://delicatessen.ro/products/crackers-pentru-gustari-reganas): Cumpara reganas de la Delicatessen.ro ✅ Biscuitii pentru tapas Regañás cu ulei de masline extravirgin La Chinata este un produs gastronomic de panificatie, subtire si crocant. Este un produs tipic spaniol, savurat in diverse regiuni, dar in special in Andaluzia.
-  Updated: 2026-01-27T11:57:01Z
+  Updated: 2026-02-10T12:18:50Z
   Vendor: Delicatessen
   Product Type: De Rontait
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Reganas.jpg?v=1627896382
   Price: 18,00 lei RON
 - [Ardei copti in sirop La Chinata 220g](https://delicatessen.ro/products/ardei-copti-in-sirop): Cumpara ardei copti in sirop de la Delicatessen.ro ✅ Ardeii copti La Chinata sunt produse traditionale din Spania, cu ardei de cea mai buna calitate pentru a obtine un produs gourmet cu aroma si textura deosebita.
-  Updated: 2026-02-02T22:03:24Z
+  Updated: 2026-02-11T08:06:04Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ardei_copti_in_sirop.jpg?v=1624463041
   Price: 35,00 lei RON
 - [Hribi in ulei de masline extravirgin La Chinata 220g](https://delicatessen.ro/products/hribi-in-ulei-de-masline-extravirgin): Cumpara hribi in ulei de masline de la Delicatessen.ro ✅ Hribii sunt ciuperci foarte gustoase, cu o textura unica si o aroma inconfundabila. Conservat in ulei de masline extravirgin, acest produs special isi va pastra proprietatile si aroma pentru o perioada lunga de timp si astfel te vei bucura de el tot timpul anului.
-  Updated: 2026-02-02T22:03:24Z
+  Updated: 2026-02-11T09:56:04Z
   Vendor: Delicatessen
   Product Type: Pateuri si Rillettes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Hribi.jpg?v=1623769117
   Price: 52,00 lei RON
 - [Smochine in ciocolata alba 8U Rabitos Royale 142g](https://delicatessen.ro/products/smochine-in-ciocolata-alba-9u): Cumpara smochine in ciocolata alba de la Delicatessen.ro ✅
-  Updated: 2026-02-04T11:56:33Z
+  Updated: 2026-02-12T11:58:19Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/rrwhite142g_1.jpg?v=1623738315
   Price: 77,00 lei RON
 - [Smochine in ciocolata Royale Collection 3U Rabitos Royale 47g](https://delicatessen.ro/products/smochine-in-ciocolata-royale-collection-3u): Cumpara smochine in ciocolata de la Delicatessen.ro ✅ Daca ai gustat smochine in ciocolata La Higuera si iti doresti sa impartasesti cu altcineva aceasta descoperire, cutiuta cu trei smochine - cu ciocolata neagra, cu caramel sarat si alba - este cea mai potrivita si convenabila varianta! Brand: La Higuera
-  Updated: 2026-02-04T13:52:18Z
+  Updated: 2026-02-12T10:30:41Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Smochine-in-ciocolata-Collection-3U.jpg?v=1591719053
   Price: 35,00 lei RON
 - [Smochine in ciocolata Royale Collection 6U Rabitos Royale 95g](https://delicatessen.ro/products/smochine-in-ciocolata-royale-collection-6u): Cumpara colectia de smochine in ciocolata de la Delicatessen.ro ✅
-  Updated: 2026-02-04T13:52:07Z
+  Updated: 2026-02-12T20:32:17Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/SmochineinciocolataRC6U.jpg?v=1591720177
   Price: 48,00 lei RON
 - [Smochine in ciocolata Ruby Collection 3U Rabitos Royale 47g](https://delicatessen.ro/products/smochine-in-ciocolata-ruby-collection): Cumpara smochine in ciocolata Ruby de la Delicatessen.ro ✅ Probabil ca ai auzit despre ciocolata Ruby - al patrulea tip de ciocolata, dupa cea neagra, cu lapte si alba. Introdusa pe piata de Barry Callebaut in 2017, ciocolata Ruby a fost rapid adoptata de iubitorii de ciocolata din toata lumea. Brand: Rabitos Royale
-  Updated: 2026-02-04T13:52:07Z
+  Updated: 2026-02-09T14:15:22Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
@@ -379,7 +351,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RRRUBY142G.jpg?v=1623660075
   Price: 88,00 lei RON
 - [Smochine in ciocolata cu caramel sarat 15U Rabitos Royale 265g](https://delicatessen.ro/products/smochine-in-ciocolata-cu-caramel-sarat-15u): Cumpara un cadou original - smochine delicioase in caramel sarat de la Delicatessen.ro ✅ Smochinele dulci mediteraneene din vestul Spaniei sunt umplute pana la refuz cu un ganache de ciocolata cu lapte si trufa de caramel sarat, apoi scufundate si acoperite în cel mai perfect strat subtire de ciocolata fina.
-  Updated: 2026-01-27T11:57:04Z
+  Updated: 2026-02-09T13:45:17Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
@@ -393,7 +365,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/2015-moet.gif?v=1701942339
   Price: 542,00 lei RON
 - [Sampanie Taittinger Brut Reserve 750ml](https://delicatessen.ro/products/taittinger-brut-reserve-750ml): Taittinger Brut Réserve este realizat din 40% Chardonnay, 35% Pinot Noir si 25% Pinot Meunier, folosind struguri perfect maturati, recoltati din peste 35 de podgorii diferite. Acest amestec subtil are ca rezultat o sampanie usoara, eleganta si echilibrata. Aceasta sampanie se distinge prin parfumul delicat cu note dulci de briose, miere si piersici. Textura este moale si cremoasa, cu un perlaj fin, matasos. Gustul este usor astringent, cu arome de grapefruit, cirese si struguri, contopite intr-un finisaj vibrant si proaspat cu accente de lamai uscate si turta dulce. Sampanie. Tarie alcoolica: 13% Greutate: 750 ml Tara de origine: Franta
-  Updated: 2026-01-27T11:57:04Z
+  Updated: 2026-02-12T07:37:22Z
   Vendor: Delicatessen
   Product Type: alcool
   Availability: Available
@@ -449,21 +421,49 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/pbin389.jpg?v=1660898576
   Price: 418,00 lei RON
 - [Ceai rooibos cu mango si fructul pasiunii Terre d'Oc 100g](https://delicatessen.ro/products/ceai-rooibos-cu-mango-si-fructul-pasiunii): Un rooibos verde organic a carui aroma naturala de vanilie se combina minunat cu nuantele fructate de mango si fructul pasiunii. Un ceai bland si savuros. Ingrediente: Rooibos organic din Africa de Sud (87%), arome naturale organice. Mod de preparare: 1 lingurita/250ml apa la 90 de grade Celsius; timp de infuzare: 5 minute Greutate: 100g Brand: Terre d'Oc Tara de origine: Franta
-  Updated: 2026-02-02T22:03:10Z
+  Updated: 2026-02-12T13:31:16Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/20240422145927-e5d2127e-la.jpg?v=1726834789
   Price: 60,00 lei RON
 - [Ceai alb organic cu piersica si caisa Terre d'Oc 40g](https://delicatessen.ro/products/ceai-alb-organic-cu-piersica-si-caisa): Ceaiul alb Bai Mu Dan (bujor alb, in traducere) este un ceai delicat, care se recolteaza primavara. Parfumul sau floral se armonizeaza superb cu aromele fructate de piersica si caisa. Ingrediente: ceai alb Bai Mu Dan (China) 80%, arome naturale, arome naturale de piersica. Toate ingredientele sunt provin din culturi organice. Mod de preparare: 2 lingurite/250ml apa fierbinte (70 grade Celsius) Timp de infuzare: 4 - 5 minute Greutate: 40g Producator: Terre d'Oc Tara de origine: Franta
-  Updated: 2026-02-02T22:03:11Z
+  Updated: 2026-02-12T13:31:45Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/the-blanc-bio.jpg?v=1624463140
   Price: 60,00 lei RON
+- [Ceai alb organic cu flori de portocal 40g Terre d'Oc](https://delicatessen.ro/products/ceai-alb-organic-cu-flori-de-portocal): Ceai alb Bai Mu Dan organic, extrem de delicat, cu o aroma subtila de iarba proaspat taiata si flori albe care se intrepatrunde minunat cu dulceata florii de portocal. Ingrediente: ceai alb Bai Mu Dan (China) 76%, arome naturale, petale de flori. Toate ingredientele provin din culturi organice. Mod de preparare: 2 lingurite/250ml la 70 de grade Celsius. Timp de infuzare: 5 minute Greutate: 40g
+  Updated: 2026-02-12T13:39:51Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ceaialbcuflorideportocal.jpg?v=1624463138
+  Price: 60,00 lei RON
+- [Ceai verde bio cu yuzu Terre d'Oc 80g](https://delicatessen.ro/products/ceai-verde-bio-cu-yuzu): Cultivat in Coreea de Sud, pe insula Jeju, cunoscuta sub numele de "insula zeilor" pentru climatul placut, aerul pur, solul vulcanic fertil si biodiversitatea incredibila, acest ceai verde cu frunzele  lunguiete, pregatit in wok urmand traditia coreeana veche de mii de ani, are o aroma delicata si subtila. Se potriveste perfect cu aroma fructului de yuzu - un mic fruct citric foarte aromat, care seamana cu lime-ul, dar si cu mandarinele salbatice. Ceaiul de yuzu (Yuja tea 유자차) este foarte popular in Coreea si este obtinut direct din fructe. Ingrediente: ceai verde Daejak (Coreea de Sud) 75%, extract de yuzu 8%, bucati de lamaie, extract de lamaie. Toate ingredientele provin din culturi organice. Mod de preparare: 2 lingurite/250ml de apa la 85 de grade Celsius Timp de infuzare: 3 minute Brand: Terre d'Oc Greutate: 80g
+  Updated: 2026-02-12T13:37:05Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/yuzu.jpg?v=1624463188
+  Price: 60,00 lei RON
+- [Ceai verde organic cu menta Terre d'Oc 80g](https://delicatessen.ro/products/ceai-verde-organic-cu-menta): Ceai verde Gunpowder traditional cu frunze de menta proaspata pentru o aroma incredibila. Un ceai foarte proaspat, extrem de aromat. Trebuie baut foarte fierbinte pentru a profita de calitatile  digestive, dar si pentru savoare. Ingrediente: ceai verde Gunpowder (China) 60%, frunze de menta 40%. Toate ingredientele provin din culturi organice. Mod de preparare: 2 lingurite/250ml de apa la 85 de grade Celsius. Timp de infuzare: 3 minute Greutate: 80g Brand: Terre d'Oc Tara de origine: Franta
+  Updated: 2026-02-12T13:31:16Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/the-vert-bio-gunpowder.webp?v=1695717812
+  Price: 60,00 lei RON
+- [Ceai verde organic cu iasomie Terre d'Oc 100g](https://delicatessen.ro/products/ceai-verde-organic-cu-iasomie): Clasicul ceai verde cu iasomie chinezesc (Mo Li Hua Cha): aroma subtila si rafinata a florilor proaspete de iasomie pe frunzele de ceai verde. Ingrediente: ceai verde* (China) 100% parfumat cu iasomie. *Ingredient din agricultura ecologica. Mod de preparare: 1-2 lingurite/250ml de apa la 80 de grade Celsius. Timp de infuzare: 3 minute. Greutate: 50g Brand: Terre d`Oc Tara de origine: Franta
+  Updated: 2026-02-12T13:31:00Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Ceaiverdecuiasomie.jpg?v=1624463200
+  Price: 60,00 lei RON
 - [Ceai de plante organic - Sleep Terre d’Oc 30g](https://delicatessen.ro/products/ceai-de-plante-organic-sleep): Un amestec delicios de musetel linistitor si relaxant si flori de paducel salbatic, asociate cu aroma fructata si beneficiile uleiurilor esentiale de mandarina si portocala dulce pentru a adormi usor si a avea o noapte reparatoare. Ingrediente: paducel * 52%, flori de musetel* 27,25%, petale de flori *, frunze de roinita*, aromă naturala de mandarina *, ulei esential 0,75% (de mandarina*, portocala dulce*). * Ingredient from organic farming.  by ECOCERT. Caracteristici: Fara gluten, fara lactoza, 100% vegetal Brand: Terre d’Oc Tara de origine: Franta Greutate: 30 g
-  Updated: 2026-02-02T22:03:11Z
+  Updated: 2026-02-12T13:31:20Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
@@ -483,6 +483,13 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/rooibos-bio.jpg?v=1600439799
   Price: 60,00 lei RON
+- [Ceai alb cu flori de portocal Terre d'Oc 14g - penar metalic cu 10 infuzii](https://delicatessen.ro/products/ceai-alb-cu-flori-de-portocal-penar-metalic-cu-10-infuzii): Ceai alb Bai Mu Dan organic, extrem de delicat, cu o aroma subtila de iarba proaspat taiata si flori albe care se intrepatrunde minunat cu dulceata florii de portocal. Ingrediente: ceai alb Bai Mu Dan (China) 76%, arome naturale, petale de flori. Toate ingredientele provin din culturi organice. Greutate: 10 x 1.4g Dimensiuni Lxlxh: 15 x 7.5 x 2 cm Producator: Terre d'Oc Tara de origine: Franta Mod de preparare: un pliculet infuzat la 75 de grade Celsius Timp de infuzare: 4 - 5 minute
+  Updated: 2026-02-12T13:37:35Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/the-blanc-bio-saveur-fleur-doranger.jpg?v=1624463136
+  Price: 35,00 lei RON
 - [Ceai organic de plante - Meditation](https://delicatessen.ro/products/ceai-organic-de-plante-meditation): Un amestec delicios de roinita si paducel, pentru a reduce agitatia, tensiunea si iritabilitatea, sau pentru a te ajuta sa te concentrezi si sa te relaxezi in timpul meditatiei. Cei de la Terre d'Oc au adaugat imortele si ulei esential de Ylang Ylang, iar rezultatul este bland si savuros. Ingrediente: paducel 59.3%, frunze de roinita 16.5%, imortele 15%, aroma naturala de Ylang Ylang, aroma naturala de dafin, ulei esential Ylang 0.2%. Toate ingredientele provin din culturi organice. Mod de preparare: 1 lingurita/200ml de apa la 90 de grade Celsius. Timp de infuzare: 5 minute Greutate: 40g Brand: Terre d'Oc Tara de origine: Franta
   Updated: 2026-01-27T11:57:13Z
   Vendor: Delicatessen
@@ -498,14 +505,14 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/detox.jpg?v=1740125915
   Price: 50,00 lei RON
 - [Ceai verde organic pentru slabit - Slimming](https://delicatessen.ro/products/ceai-organic-de-plante-slimming): Ceaiul verde si negru Pu Erh, papadia si boabele de cacao actioneaza impreuna pentru a ajuta organismul sa arda grasimile. Ingrediente: ceai verde (China) 33.5%, ceai negru Pu Erh (China) 15%, frunze de coacaz, bucati de cacao prajite 10%, frunze de moringa, frunze de papadie 5%, cardamom, musetel, frunze de mesteacan, scortisoara, lemn dulce, extract de scortisoara, ulei esential de grapefruit 0.2%. Toate ingredientele provin din culturi organice, Mod de preparare: 2 lingurite/250ml de apa la 85 de grade Celsius. Timp de infuzare: 3- 5 minute.
-  Updated: 2026-02-04T11:36:19Z
+  Updated: 2026-02-08T22:25:21Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/the-vert-bio.webp?v=1752836826
   Price: 50,00 lei RON
 - [Selectie de 6 ceaiuri organice Terre d'Oc](https://delicatessen.ro/products/selectie-de-6-ceaiuri-organice): Cutia contine urmatoarele ceaiuri organice: - ceai negru rusesc 2g - ceai negru de Ceylon 2g - ceai verde chinezesc cu menta 2g - ceai alb cu flori de portocal 2g - ceai verde japonez Genmaicha 2g - ceai alb cu piersica si caisa 2g Dimensiuni Lxlxh: 13 x 11.5 x 2.5 cm Producator: Terre d'Oc Tara de provenienta: Franta.
-  Updated: 2026-02-02T22:03:13Z
+  Updated: 2026-02-09T07:22:25Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
@@ -519,19 +526,33 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RRMILK142G.jpg?v=1623785675
   Price: 80,00 lei RON
 - [Inimioare de turta dulce cu ciocolata si whisky Kopernik 128g](https://delicatessen.ro/products/inimioare-de-turta-dulce-cu-ciocolata-si-whisky): Turta dulce creata dupa retete vechi de sute de ani, imbogatita cu whisky? Yes, please! Un snack delicios sau un cadou original. Greutate: 128g Dimensiuni: 7.5 x 3.5 x 20.5cm Brand: Kopernik Tara de origine: Polonia
-  Updated: 2026-02-02T22:03:14Z
+  Updated: 2026-02-09T12:42:50Z
   Vendor: Delicatessen
   Product Type: Specialitati
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Turta_dulce_whisky.jpg?v=1603432300
   Price: 22,00 lei RON
 - [Trufe de ciocolata Fizzy Parisiennes in cutie metalica Mathez 200g](https://delicatessen.ro/products/trufe-de-ciocolata-fizzy-parisiennes): Daca iti place ciocolata (ce amuzant) si uneori simti ca ai 5 ani jumate, atunci trufele acestea sunt pentru tine. Nu numai ca sunt absolut fantastic de extraordinar de bune, dar se intampla sa iti si pocneasca pe cerul gurii...un fel de sampanie, dar de ciocolata. Mmmmiam. Dimensiuni Lxlxh: 10 x 6.5 x 16 cm Greutate: 200g Brand: Mathez Tara de origine: Franta
-  Updated: 2026-02-03T13:19:06Z
+  Updated: 2026-02-10T18:52:53Z
   Vendor: Delicatessen
   Product Type: Trufe de ciocolata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/3_279c59c2-8b46-4d1d-9527-fdfd9936843d.gif?v=1707991295
   Price: 52,00 lei RON
+- [Rooibos organic cu menta si verbina Terre d'Oc 100g](https://delicatessen.ro/products/rooibos-organic-cu-menta-si-verbina): Un rooibos organic, cu o aroma naturala de vanilie, inviorat cu un adaos de frunze de menta si verbina. Un ceai proaspat si delicat. Ingrediente: rooibos 68% (Africa de Sud), frunze de verbina, aroma naturala, anason, frunze de menta, aroma naturala de menta. Toate ingredientele provin din culturi certificate organic. Mod de preparare: 1 lingurita/250ml de apa la 90 de grade Celsius; timp de infuzare: 5 minute. Greutate: 100g Brand: Terre d'Oc Tara de origine: Franta
+  Updated: 2026-02-12T13:34:10Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/menta.jpg?v=1736844966
+  Price: 60,00 lei RON
+- [Ceai organic fructat: piersică, verbină și portocală roșie](https://delicatessen.ro/products/ceai-organic-fructat-cu-piersica-verbina-si-portocala-rosie): Un mix absolut delicios intre dulceata marului, prospetimea citrica a verbinei si aroma inconfundabila a piersicii. Extraordinar de aromat, perfect pentru orice ora a zilei, acest ceai parfumat este un rasfat "calorie-free"! Ingrediente: bucati de mar, frunze de mur, verbina 6.5%, aroma naturala de piersica 6% si de portocala rosie 2.5%, amarant. Mod de preparare: 2 lingurite/250ml de apa la 85 de grade Celsius; timp de infuzare: 5 minute. Greutate: 70g Brand: Terre d'Oc Tara de origine: Franta
+  Updated: 2026-02-12T13:35:40Z
+  Vendor: Delicatessen
+  Product Type: Ceai
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/20240129165126-1f38a1f6-la.gif?v=1726829723
+  Price: 60,00 lei RON
 - [Trufe de ciocolată cu Marc de Champagne - Delicatessen.ro](https://delicatessen.ro/products/trufe-de-ciocolata-cu-marc-de-champagne): Marc de Champagne este un lichior creat din pielitele si samburii strugurilor folositi in procesul de fabricatie al sampaniei. Se foloseste indeosebi ca umplutura pentru trufele de ciocolata iar, in cazul trufelor Mathez, ca parte dintr-un intreg savuros, in care ciocolata joaca rolul cel mai important. Dimensiuni Lxlxh: 10x6.5x16 cm Greutate: 200g Brand: Mathez Tara de origine: Franta
   Updated: 2026-02-04T09:22:31Z
   Vendor: Delicatessen
@@ -567,22 +588,15 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/delicatessen-pack06-up.jpg?v=1624463265
   Price: 25,00 lei RON
-- [Asortiment de trufe in cutie cadou 9U Pure Chocolate 74g](https://delicatessen.ro/products/asortiment-de-trufe-in-cutie-cadou-9u): Adauga acestei cutii elegante cu 9 trufe de ciocolata belgiana o cutie frumoasa de ceai de calitate sau/si niste biscuiti fragezi si obtii un cadou savuros si original. Ingrediente: zahar,lapte praf integral,unt de cacao,uleiuri vegetale (palmier, shea, cocos, floarea-soarelui), lapte condensat, masa de cacao, glucoza-fructoza sirop, nuca de cocosdeshidratata, lapte praf degresat, chipsuri de zmeura 1.5%, faina de grau, amidon, cafea pudra,emulgatori(lecitina de soia), arome, vin Marsala, alcool etilic, ou deshidratat, zaharcaramelizat, pasta de alune,aroma naturala de vanilie. Ciocolata cu lapte 50% - derivate solide din cacao min 34%, derivate solide din lapte 21%. Informatii nutritionale/100 g: Valoare energetica 2109kJ/505kcal kcal, Grasimi 29.8g, din care grasimi saturate 16.6g, Carbohidrati 53g, Zahar 45g, Fibre alimentare 0g, Proteine 5.1g, Sare 0.2g. Greutate neta: 74g Dimensiuni cutie: 17.5 x 17.5 x 3.3 cm Brand: Pure Chocolate Tara de origine: Letonia
-  Updated: 2026-02-04T13:52:16Z
-  Vendor: Delicatessen
-  Product Type: Trufe de ciocolata
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/atvera_kaste_9.jpg?v=1624463049
-  Price: 32,00 lei RON
 - [Ceai Organic Aromat cu Floare de Portocal, Passiflora, Mandarina](https://delicatessen.ro/products/ceai-organic-cu-floare-de-portocal-passiflora-si-mandarina): Un ceai delicat si aromat, o invitatie delicioasa la stare de bine, calm si relaxare, Ingrediente: bucati de mar, frunze de coacaz, coaja de mandarina 10%, coaja de portocala amara, aroma naturala de floare de portocal 6.5%, passiflora 5%, petale de flori. Toate ingredientele provin din culturi organice. Mod de preparare: 1 lingurita/250ml de apa la 90 de grade Celsius; timp de infuzare: 5 minute. Greutate: 70g Brand: Terre d'Oc Tara de origine: Franta
-  Updated: 2026-02-04T08:58:14Z
+  Updated: 2026-02-12T13:33:50Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/pass.jpg?v=1761746641
   Price: 60,00 lei RON
 - [Masline Gordal cu Jalapeño La Chinata 180g](https://delicatessen.ro/products/masline-gordal-cu-jalapeno): Maslinele Gordal sunt unele dintre cele mai cunoscute si apreciate soiuri de masline din Spania. Dimensiunile (gordal = the fat one) si consistenta lor carnoasa, precum si aroma intensa, le-au transformat intr-un produs gourmet, in special atunci cand sunt umplute cu ardei sau usturoi. Pentru iubitorii de gusturi picante, maslinele Gordal umplute cu ardei Jalapeño reprezinta un aperitiv delicios si sanatos. Ingrediente: masline Gordal, apa, ardei jalapeño (7%), sare, potentiator de aroma(E-621, E-628, E-632); regulator de aciditate(E-330), conservant(E-202, E-211),antioxidant(E-300). Poate contine urme de nuci. Informatii nutritionale/100 g: Valoare energetica 338kJ/82 kcal kcal, Grasimi 8g, din care grasimi saturate 1.7g, Carbohidrati 0.2g, Zahar 0g, Fibre alimentare 2.7g, Proteine 1g, Sare 1.1g. Greutate neta: 180g Termen de valabilitate: 2 ani. Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-02T22:03:15Z
+  Updated: 2026-02-08T18:01:37Z
   Vendor: Delicatessen
   Product Type: Masline
   Availability: Available
@@ -638,7 +652,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/80030.B-1.jpg?v=1623739639
   Price: 28,00 lei RON
 - [Caracatita cu sos de usturoi Don Gastronom 120g](https://delicatessen.ro/products/caracatita-cu-sos-de-usturoi): Caracatita reprezinta un ingredient de baza in delicioasele tapas spaniole. Prajita, la gratar, fiarta sau marinata, bucatile delicioase de caracatita pe paine prajita pot fi intalnite in majoritatea micilor restaurante sau baruri din Spania, fiind un acompaniament senzational pentru bere rece. Sau poate fi ingredientul principal intr-o salata racoroasa cu castraveti, ceapa, rosii si masline. Ingrediente: caracatita, ulei de floarea soarelui, usturoi, sare. Termen de valabilitate: 2 ani. Greutate: 120g Brand: Don Gastronom Tara de origine: Spania
-  Updated: 2026-02-02T22:03:16Z
+  Updated: 2026-02-07T20:09:45Z
   Vendor: Delicatessen
   Product Type: Peste si fructe de mare
   Availability: Available
@@ -652,7 +666,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Sepie.jpg?v=1623909125
   Price: 35,00 lei RON
 - [File de macrou mediteranean in ulei de masline Don Gastronom 110g](https://delicatessen.ro/products/file-de-macrou-in-ulei-de-masline): Macroul este unul dintre cele mai hranitoare si gustoase tipuri de peste iar uleiul de masline ii ofera un plus de savoare. Poate fi o alternativa sanatoasa al carnii de ton si este extrem de versatil. Se poate consuma ca atare sau in crochete de peste delicioase, langa un sos simplu de rosii, cu paste sau cu crostini. Conservele de peste din Spania și Portugalia reprezintă o tradiție culinară veche și apreciată în aceste două țări mediteraneene. Aceste conserve sunt cunoscute pentru calitatea lor superioară, gustul delicios și versatilitatea în bucătărie. Iată câteva informații cheie despre aceste produse: Diversitate de specii: Spania și Portugalia sunt binecunoscute pentru varietatea lor de specii de pește, precum ton, sardine, macrou, anșoa, calamari și multe altele. Această diversitate se reflectă în gama largă de conserve de pește disponibile, fiecare cu caracteristicile  de gust distincte. Metode de prelucrare tradiționale: Conservarea peștelui în conserve este o tehnică veche și rafinată în aceste țări. De obicei, peștele proaspăt este pregătit și așezat în cutii de conserve sau sticle de sticlă, însoțit de ulei de măsline, sare și alte ingrediente aromate. Această metodă de prelucrare menține prospețimea și gustul peștelui pentru o perioadă lungă de timp. Calitatea ingredientelor: Calitatea ingredientelor folosite în conservele de pește este deosebit de importantă. Uleiul de măsline folosit este adesea de înaltă calitate, iar peștele este selectat cu grijă pentru a asigura gustul său autentic și textura ireproșabilă. Popularitate în bucătărie: Conservarea de pește este o opțiune versatilă în bucătărie, putând fi folosită în diverse feluri de mâncare. De exemplu, sardinele sau tonul conservat sunt adesea folosite în salate, paste, sandvișuri sau tapas, oferind o notă delicioasă fiecărui preparat. Experiență culinară autentică: Consumul de conserve de pește din Spania și Portugalia oferă o experiență gustativă autentică a gustului mediteranean. Aceste produse reprezintă o parte importantă a culturii culinare și a tradiției gastronomice din aceste două țări. În concluzie, conservele de pește din Spania și Portugalia reprezintă o parte integrantă a bucătăriei mediteraneene, cu o istorie bogată și o tradiție de calitate. Aceste produse oferă o experiență gustativă unică și sunt apreciate în întreaga lume pentru gustul lor autentic și versatilitatea în bucătărie. Termen de valabilitate: 2 ani. Ingrediente: macrou, ulei de masline, sare Greutate neta: 110g Tara de origine: Spania
-  Updated: 2026-02-02T22:03:17Z
+  Updated: 2026-02-09T12:13:39Z
   Vendor: Delicatessen
   Product Type: Peste si fructe de mare
   Availability: Available
@@ -680,42 +694,63 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Tonculamaie.jpg?v=1623664311
   Price: 22,00 lei RON
 - [Chipsuri cu trufe negre El Valle 150g](https://delicatessen.ro/products/chipsuri-cu-trufe-negre): Serveste aceste chipsuri invitatilor si asteapta mormaituri de placere si exclamatii surprinse! Cu o nota subtila de trufe negre, aceste snackuri din cartofi sunt pur si simplu irezistible. Adauga bere rece de calitate si practic ai organizat o petrecere gourmet! Greutate neta: 150g Brand: El Valle / Don Gastronom Tara de origine: Spania
-  Updated: 2026-02-04T19:36:27Z
+  Updated: 2026-02-12T13:33:37Z
   Vendor: Delicatessen
   Product Type: De Rontait
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/chipstrufe.jpg?v=1665137556
   Price: 22,00 lei RON
 - [Ceai Organic pentru Digestie cu Uleiuri Esențiale](https://delicatessen.ro/products/ceai-organic-de-plante-cu-uleiuri-esentiale-digestion): Semintele de coriandru si frunzele de menta, impreuna cu uleiurile esentiale de portocale si lamaie, transforma aceasta licoare revigoranta intr-o compozitie care contribuie la o digestie sanatoasa si la eliminarea toxinelor. Un ceai delicios, de savurat dupa mesele zilei. Ingrediente: roinita, menta dulce 20%, menta, coriandru 15%, extract de portocale, extract de lamaie, albastrele, ulei esential de lamaie. Toate ingredientele provin din culturi organice. Mod de preparare: 1 lingurita/250 ml de apa la 90 de grade Celsius; timp de infuzare: 5 minute. Greutate: 30g Brand: Terre d'Oc Tara de origine: Franta
-  Updated: 2026-02-04T08:58:31Z
+  Updated: 2026-02-12T13:35:10Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/20240308094130-d525b713-la.gif?v=1726831949
   Price: 50,00 lei RON
 - [Smochine in ciocolata cu caramel sarat Rabitos Royale 100g](https://delicatessen.ro/products/smochine-in-ciocolata-cu-caramel-sarat-100g): Varianta mai ieftina, "pentru acasa", a smochinelor in ciocolata cu caramel sarat. La cererea publicului pasionat! Greutate: 100g Brand: Rabitos Royale / La Higuera Tara de origine: Spania
-  Updated: 2026-02-02T22:03:18Z
+  Updated: 2026-02-10T22:35:02Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/rabitos-royale-milk-feigen-pralinen-500g.jpg?v=1627928063
   Price: 33,00 lei RON
+- [Gem de cirese "Morello" Belberry 215g](https://delicatessen.ro/products/gem-de-cirese-morello): Gemul de cirese "Morello" este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat este obtinut folosind cel putin 55% fructe de inalta calitate si cele mai fine zaharuri. Visinele Morello se disting prin pielea, pulpa si sucul lor foarte inchise la culoare. Aroma bogata si complexa a gemului de cirese Morello completeaza foarte bine deserturile, in special cele cu ciocolata, sau poate fi servit simplu pe o felie de paine prajita cu unt. Ingrediente: cirese 55% Zahar Gelifiant (Pectina) Suc de lamaie Informatii nutritionale/100 g: valoare energetica: 888kJ/209kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 51g (zaharuri 49g), fibre alimentare 2.6g, proteine <0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:25Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP209-Morello-Cherry-Extra-Jam-215g_978bf133-2a17-43a3-bd1f-3d30ffe79538.jpg?v=1623682189
+  Price: 28,00 lei RON
 - [Gem de rubarba Belberry 215g](https://delicatessen.ro/products/gem-de-rubarba): Gemul de rubarbă poate fi folosit într-o varietate de feluri de mâncare și deserturi. Iată câteva idei: Tartină de gem de rubarbă: Folosește gemul de rubarbă pe o felie de pâine prăjită sau pe un croissant proaspăt. Poți adăuga și unt pentru a intensifica gustul și a crea o combinație delicioasă între acrișorul rubarbei și cremozitatea untului. Desert cu gem de rubarbă și fructe: Folosește gemul de rubarbă ca umplutură în prăjituri, clătite sau plăcinte. Poți combina gemul de rubarbă cu alte fructe, precum căpșuni sau mere, pentru a crea un contrast interesant de arome. Glazură pentru carne: Amestecă gemul de rubarbă cu puțină miere, oțet balsamic și condimente, cum ar fi scorțișoară sau ghimbir. Folosește această glazură pentru a da un gust dulce-acrișor și aromat cărnii, cum ar fi porcul sau puiul. Înghețată sau sorbet: Adaugă gemul de rubarbă în baza de înghețată sau sorbet pentru a obține un gust proaspăt și vibrant. Poți combina gemul de rubarbă cu fructe de pădure sau cu lămâie pentru a amplifica aromele. Salată cu gem de rubarbă: Adaugă gemul de rubarbă în salate verzi, în combinație cu alte ingrediente precum rucola, nuci și brânză. Aroma acrișoară a rubarbei se va combina perfect cu dressing-urile ușor dulci-acrișoare. Acestea sunt doar câteva idei de utilizare a gemului de rubarbă. Lasă-ți imaginația să lucreze și încearcă să îl adaugi în diverse alte preparate, experimentând cu arome și combinații delicioase. Gemul de rubarba este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat este obtinut folosind cel putin 55% fructe de inalta calitate si cele mai fine zaharuri. Procesul de conservare are loc in mod natural, prin asa zisa autopasteurizare. Ingrediente: Rubarba 55% Zahar Gelifiant: pectina Suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 799kJ/188kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 46g (zaharuri 46g), fibre alimentare 1.3g, proteine 0.5g, sare 0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-02T22:03:18Z
+  Updated: 2026-02-08T18:27:57Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP212-Rhubarb-Extra-Jam-215g.jpg?v=1623830464
   Price: 28,00 lei RON
+- [Gem de smochine si vin de Porto Belberry, 215g](https://delicatessen.ro/products/gem-de-smochine-si-porto): Gemul de smochine si Porto este fabricat in Belgia dupa o reteta veche de familie. Fructele si ingredientele atent selectionate fac ca acest gem dulce-sarat sa fie delicios cu pateuri, vanat si foie gras, sau ca desert cu paine prajita sau ca umplutura pentru clatite. Ingrediente: smochine 50% zahar vin Porto 5% gelifiant (Pectina) suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 927kJ/229kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 56.2g (zaharuri 53.8g), fibre alimentare 1.7g, proteine 0.3g, sare 0.03g. Dupa deschidere, pastrati la frigider. Contine alcool si sulfiti in mod natural. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:50Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP227-Fig-and-Port-Extra-Jam-215g.jpg?v=1623606044
+  Price: 28,00 lei RON
+- [Gem de kiwi, caise si ananas Belberry 215g](https://delicatessen.ro/products/gem-de-kiwi-caise-si-ananas): Gemul de kiwi, caise si ananas este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat este obtinut folosind cel putin 55% fructe de inalta calitate si cele mai fine zaharuri. Ingrediente: zahar, ananas (22%), caise (22%), kiwi (11%), gelifiant (pectina), suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 963kJ/227kcal, grasimi <0.5g, din care grasimi saturate <0.1g, carbohidrati 55g (zaharuri 53g), fibre alimentare 1.6g, proteine <0.5g, sare 0.02g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:20Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP234-Kiwi_-Apricot-_-Pinapple-Extra-Jam-215g.jpg?v=1623830507
+  Price: 29,00 lei RON
 - [Marmelada de portocale de Sevilla Belberry 215g](https://delicatessen.ro/products/marmelada-de-portocale-de-sevilla): Marmelada de portocale amare de Sevilla are un gust intens fructat, un parfum aromat si contine coaja fina de portocala. Aceasta poate fi folosita pentru aromatizarea sosurilor si deserturilor. Ingrediente: Zahar Portocale de Sevilla 43% Suc de mere Gelifiant (Pectina) Suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 981kJ/232kcal, grasimi 0.1g, din care grasimi saturate 0g, carbohidrati 56g (zaharuri 55g), fibre alimentare 1.3g, proteine 0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-04T12:21:25Z
+  Updated: 2026-02-10T08:30:53Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RM301-Seville-Orange-Marmalade-215g-HR.jpg?v=1623682191
   Price: 32,00 lei RON
 - [Marmelada de grapefruit roz Belberry 215g](https://delicatessen.ro/products/marmelada-de-grapefruit-roz): Marmelada de grapefruit roz detine un echilibru perfect al gustului datorita utilizarii celor mai bune citrice din intreaga lume. Combinatia de grapefruit aromat, cu vagi note amarui si gustul dulce al zaharului, conduce la un rezultat armonios si savuros. Ingrediente: Zahar Grapefruit roz (38%) Suc de mere Gelifiant (Pectina) Suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 1033kJ/244kcal, grasimi 0.1g, din care grasimi saturate 0g, carbohidrati 59g (zaharuri 58g), fibre alimentare 1.3g, proteine 0.6g, sare <0.02g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-04T12:21:25Z
+  Updated: 2026-02-10T08:30:53Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
@@ -735,6 +770,13 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RM308-Mandarin-Marmalade-215g-HR.jpg?v=1624223823
   Price: 28,00 lei RON
+- [Gem de caise fara zahar Belberry 215g](https://delicatessen.ro/products/light-jam-apricot): Gemul de caise fara zahar este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat se obtine folosind cel putin 55% caise la 100g de produs. Toate gemurile Belberry sunt preparate in vase cu capacul deschis pentru a-si rafina aroma intensa. Ingrediente: caise (62%), indulcitor (maltitol), gelifiant pectina, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 471kJ/113kcal, grasimi 0.2g, din care grasimi saturate 0g, carbohidrati 41g (zaharuri 3.5g, polioli 37g), fibre alimentare 1.5g, proteine 0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-11T10:23:03Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RF603-apricot-no-sugar-215-GR.jpg?v=1623830489
+  Price: 28,00 lei RON
 - [Marmelada de portocale de Sevilla fara zahar Belberry 215g](https://delicatessen.ro/products/light-jam-orange-marmalade): Marmelada de portocale de Sevilla fara zahar este fabricata in Belgia dupa o reteta veche de familie. Gustul rafinat se obtine folosind cel putin 55% portocale de Sevilla la 100g de produs. Toate dulceturile Belberry sunt preparate in vase cu capacul deschis pentru a-si rafina aroma intensa. Ingrediente: portocale de Sevilla (49.5%), indulcitor (maltitol, sorbitol, fructoza), gelifiant: pectina, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 494kJ/253kcal, grasimi 0.1g, din care grasimi saturate 0g, carbohidrati 42g (zaharuri 5.4g, polioli 37g), fibre alimentare 1.6g, proteine 0.4g, sare 0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
   Updated: 2026-02-02T22:03:20Z
   Vendor: Delicatessen
@@ -743,7 +785,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RF617-seville-orange-no-sugar-215GR.jpg?v=1623784345
   Price: 33,00 lei RON
 - [Sos de capsuni Belberry 250ml](https://delicatessen.ro/products/sos-de-capsuni-belberry): Data de expirare: Martie 2026 Sosul de capsuni este unul cremos si dulce, obtinut din fructe proaspete si amestecat cu putin zahar. Este delicios in combinatie cu iaurt, budinca, inghetata si multe alte deserturi. Ingrediente: Pulpa de capsuni 57% Suc de mere 8% Zahar pudra Gelifiant (Pectina) Informatii nutritionale/100 g: valoare energetica: 703kJ/167kcal, grasimi 0.4g, din care grasimi saturate 0.2g, carbohidrati 39g, din care zahar 36g, fibre alimentare 2.9g, proteine 0.3g, sare 0.07g. Dupa deschidere, pastrati la frigider. Greutate: 250 ml Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-02T22:03:20Z
+  Updated: 2026-02-11T09:56:27Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
@@ -756,33 +798,61 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS820-Mango-Sauce-250ml.jpg?v=1623830487
   Price: 34,00 lei RON
+- [Otet cu lime Belberry 200ml](https://delicatessen.ro/products/otet-fructat-de-lamaie-verde): Oțetul cu lime este un ingredient versatil și plin de arome, care poate fi utilizat în diferite feluri în bucătărie. Iată câteva modalități de a folosi oțetul cu lime: Dressing pentru salate: Combinați oțetul cu lime cu ulei de măsline, sare, piper și alte condimente preferate pentru a crea un dressing delicios pentru salate. Aroma proaspătă și citrică a limei va adăuga o notă răcoritoare și vibrantă salatelor cu legume verzi, fructe sau fructe de mare. Marinadă pentru carne și pește: Utilizați oțetul cu lime ca bază pentru marinadele pentru carne și pește. Amestecați-l cu ulei de măsline, usturoi, ierburi aromatice și alte condimente preferate. Lăsați carnea sau peștele să se marineze în acest amestec pentru a obține un gust minunat și o textură fragedă. Sos pentru fructe de mare: Adăugați oțetul cu lime în sosurile pentru fructe de mare, cum ar fi cele pentru creveți sau caracatiță. Gustul proaspăt și acru al limei va complementa perfect aromele fructelor de mare și va adăuga un strop de prospețime în preparate. Sos pentru tacos și fajitas: Folosiți oțetul cu lime în prepararea sosurilor pentru tacos sau fajitas. Combinați-l cu iaurt, coriandru, usturoi și alte condimente pentru a crea un sos cremos și gustos. Aroma limei va adăuga o notă proaspătă și vibrantă în preparatele de inspirație mexicană. Aromatizant pentru legume și orez: Stropiți oțetul cu lime peste legumele gătite sau orezul fiert pentru a le adăuga un strop de prospețime și arome citrice. Limele merg de minune cu legume precum sparanghel, broccoli, dovlecei sau fasole verde. Ingrediente: Otet 60% Suc de lime Zahar Gelifiant (Pectina) Greutate: 200 ml Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-11T08:06:05Z
+  Vendor: Delicatessen
+  Product Type: Otet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS863-vinegar-Fresh-Lime-200-ML.jpg?v=1624463447
+  Price: 42,00 lei RON
 - [Otet cu yuzu Belberry 200ml](https://delicatessen.ro/products/otet-fructat-cu-yuzu-japonez): Otetul fructat cu yuzu japonez, in combinatie cu putin ulei de masline de calitate, creeaza un dressing delicios pentru salate, carpaccio, carne de vita sau ton. Gustul fructului este un amestec de lamaie, mandarina si grapefruit iar aroma este puternica. Oțetul cu yuzu este un ingredient exotic și aromat, cu o notă distinctă de citrice. Poate fi utilizat în diverse moduri în bucătărie. Iată câteva idei despre cum poți folosi acest oțet delicios: Dressing pentru salate: Amestecă oțetul cu yuzu cu ulei de măsline, puțină miere și condimente, cum ar fi sarea și piperul, pentru a crea un dressing pentru salate. Poți folosi acest dressing pentru a stropi salate verzi, salate cu fructe de mare sau salate cu legume proaspete. Marinadă pentru carne sau pește: Utilizează oțetul cu yuzu ca bază pentru marinada de carne sau pește. Amestecă-l cu ulei de măsline, usturoi, ierburi aromatice și condimente pentru a obține o marinadă aromată și răcoritoare. Lasă carnea sau peștele să se marineze în această compoziție înainte de gătire. Sos pentru sushi: Oțetul cu yuzu este ideal pentru a crea un sos delicios pentru sushi. Amestecă-l cu sos de soia, puțină miere și usturoi mărunțit pentru a obține un sos de umplut sau un sos de turnat peste rulourile de sushi. Sos pentru deserturi: Poți folosi oțetul cu yuzu în sosurile pentru deserturi pentru a adăuga o notă exotică și citrică. Adaugă-l în sosurile de fructe, în sosurile pentru înghețată sau în glazurile pentru prăjituri și tartine. Dressing pentru legume gatite la abur: Dacă dorești să adaugi un plus de aromă și prospetime legumelor gatite la abur, poți folosi oțetul cu yuzu ca dressing. Stropește legumele cu acest oțet pentru a le da o notă acidulată și răcoritoare. Sos pentru wok sau stir-fry: Adaugă oțetul cu yuzu în preparatele tale de wok sau stir-fry pentru a adăuga o notă de prospețime și a evidenția aromele ingredientelor. Poți turna oțetul cu yuzu în timpul gătitului sau adăuga-l la final pentru a obține un gust vibrant. Adaos în băuturi și cocktailuri: Oțetul cu yuzu poate fi utilizat și în băuturi și cocktailuri pentru a adăuga o notă acidulată și citrică. Poți adăuga câteva picături în băuturi pe bază de gin, vodcă sau într-un pahar cu apă plată sau minerală pentru un plus de prospețime. Asigură-te să ajustezi proporțiile de oțet în funcție de preferințele tale personale și să experimentezi cu diferite combinații pentru a obține rezultatele dorite. Ingrediente: Otet 60% Suc de yuzu 24% Zahar pudra Agent de ingrosare: amidon modificat, xantan. Informatii nutritionale/100 g: valoare energetica: 252kJ/60kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 16g, din care zahar 13g, fibre alimentare 0g, proteine <0.5g, sare 0g. Dupa deschidere, pastrati la frigider. Greutate: 200 ml Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-27T11:57:27Z
+  Updated: 2026-02-10T08:34:50Z
   Vendor: Delicatessen
   Product Type: Otet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS868-vinegar-Japanese-Yuzu-200ML-HR.jpg?v=1624358551
-  Price: 44,00 lei RON
+  Price: 46,00 lei RON
+- [Otet fructat cu lamaie siciliana Belberry 200ml](https://delicatessen.ro/products/otet-fructat-cu-lamaie-siciliana): Oțetul cu lămâie siciliană este un ingredient versatil și aromat, care adaugă o notă proaspătă și citrică în preparatele culinare. Iată câteva idei pentru a utiliza oțetul cu lămâie siciliană: Dressing pentru salate: Combinați oțetul cu lămâie siciliană cu ulei de măsline, sare, piper și alte condimente preferate pentru a crea un dressing delicios pentru salate. Aroma intensă a lămâiei siciliene va adăuga o notă vibrantă și parfumată salatelor de legume verzi, salatelor cu fructe sau salatelor cu fructe de mare. Marinadă pentru carne și pește: Utilizați oțetul cu lămâie siciliană ca bază pentru marinadele pentru carne și pește. Amestecați-l cu ulei de măsline, usturoi, ierburi aromatice și condimente preferate. Lăsați carnea sau peștele să se marineze în acest amestec pentru a obține un gust minunat și o textură fragedă. Sos pentru paste și risotto: Adăugați oțetul cu lămâie siciliană în sosurile pentru paste și risotto pentru a le da o notă răcoritoare și citrică. Combinați-l cu unt, usturoi, parmezan și alte ingrediente preferate pentru a obține o aromă deosebită și revigorantă în preparatele de paste și risotto. Dressing pentru pește și fructe de mare: Folosiți oțetul cu lămâie siciliană ca dressing pentru pește și fructe de mare. Picurați-l peste fileurile de pește sau peste fructele de mare gătite la abur sau la grătar pentru a le adăuga un strop de prospețime și arome citrice. Aromatizant pentru legume și salate de fructe: Stropiți oțetul cu lămâie siciliană peste legumele gătite, cum ar fi sparanghelul, broccoli sau dovleceii, pentru a le adăuga o notă vibrantă și parfumată. De asemenea, puteți utiliza acest oțet pentru a adăuga o notă citrică în salatele de fructe proaspete. Ingrediente: Otet 60% Piure de lamaie 25% Piure Kalamansi 5% Zahar pudra Agent de ingrosare: amidon modificat, xantan. Informatii nutritionale/100 g: valoare energetica: 241kJ/57kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 14g, din care zahar 13g, fibre alimentare 0.7g, proteine <0.5g, sare 0.01g. Dupa deschidere, pastrati la frigider. Greutate: 200 ml Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-11T08:06:05Z
+  Vendor: Delicatessen
+  Product Type: Otet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS868-vinegar-Lemon-200ML-HR.jpg?v=1623830483
+  Price: 42,00 lei RON
+- [Otet fructat cu mandarina siciliana Belberry 200ml](https://delicatessen.ro/products/otet-fructat-cu-mandarina-siciliana): Oțetul fructat cu mandarină siciliană poate fi folosit într-o varietate de moduri în bucătărie. Iată câteva idei despre cum poți folosi acest oțet delicios: Dressing pentru salate: Amestecă oțetul fructat cu mandarină siciliană cu ulei de măsline extravirgin, puțină miere și condimente, cum ar fi sarea și piperul proaspăt măcinat. Folosește acest dressing pentru a stropi salate verzi, salate de fructe de mare sau salate cu legume proaspete. Marinadă pentru carne sau pește: Utilizează oțetul cu mandarină siciliană ca bază pentru marinada de carne sau pește. Amestecă-l cu ulei de măsline, usturoi, ierburi aromatice și condimente pentru a obține o marinadă delicioasă. Lasă carnea sau peștele să se marineze în această compoziție înainte de gătire. Sos pentru deserturi: Oțetul de mandarină siciliană poate adăuga o notă interesantă și exotică în sosuri pentru deserturi. Poți folosi acest oțet în sosurile pentru salate de fructe, sosurile de ciocolată sau ca adaos în glazurile pentru prăjituri și checuri. Marinată pentru legume: Folosește oțetul fructat cu mandarină siciliană ca marinadă pentru legume. Poți să le marinezi înainte de grătar sau să le amesteci cu acest oțet pentru a adăuga o aromă dulce și acidulată legumelor tale preferate. Deglazură pentru carnea gătită: După ce ai gătit carnea, cum ar fi pui sau porc, poți folosi oțetul cu mandarină siciliană pentru a deglaza tigaia. Adaugă puțin oțet în tigaie și amestecă cu sucul și resturile de pe fundul tigăii. Aceasta va crea un sos aromat și delicios care poate fi turnat peste carnea gătită. Adaos în cocktailuri și băuturi: Oțetul fructat cu mandarină siciliană poate adăuga o notă acidulată și proaspătă în cocktailuri și băuturi. Poți încerca să-l adaugi în cocktailuri pe bază de gin sau vodcă, în băuturi răcoritoare sau chiar într-un pahar cu apă plată sau minerală pentru un plus de aromă. Asigură-te să ajustezi proporțiile de oțet în funcție de preferințele tale personale și să experimentezi cu diferite combinații pentru a obține rezultatele dorite. Ingrediente: Otet 60% Piure de mandarina 30% Zahar pudra Agent de ingrosare: amidon modificat, xantan. Informatii nutritionale/100 g: valoare energetica: 250kJ/60kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 15g, din care zahar 12g, fibre alimentare <0.5g, proteine <0.5g, sare <0.10g. Dupa deschidere, pastrati la frigider. Greutate: 200 ml Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:35:35Z
+  Vendor: Delicatessen
+  Product Type: Otet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS882-vinegar-Mandarin-200ML-HR_b04e1018-ca0d-4a6b-903a-fc141cf28d5c.jpg?v=1623830454
+  Price: 42,00 lei RON
 - [Ketchup picant cu mango Belberry 250ml](https://delicatessen.ro/products/ketchup-picant-cu-mango): Ketchupul picant de mango este un sos delicios și aromat, care adaugă o notă exotică și picantă în preparatele culinare. Iată câteva idei pentru a folosi ketchupul picant de mango: Sos pentru finger food: Utilizați ketchupul picant de mango ca un sos delicios pentru a înmuia aripioare de pui, nuggets-uri, cartofi wedges sau bastonașe de mozzarella. Aroma fructată și condimentată a sosului va da o notă specială gustărilor. Glazură pentru carne: Folosiți ketchupul picant de mango ca o glazură pentru carne pe grătar sau la cuptor. Ungeți carnea cu acest sos în timpul gătitului pentru a-i adăuga un strat aromat și picant. Funcționează bine cu carne de porc, pui sau pește. Sos pentru sandwich-uri și burgeri: Adăugați ketchupul picant de mango în sandwich-urile și burgerii preferați. Merge de minune cu carnea de pui, curcan sau vită, dar poate fi folosit și în rețete vegetariene pentru a adăuga o notă de prospețime și iuțime. Dip pentru rulouri și sushi: Folosiți ketchupul picant de mango ca un sos delicios pentru a înmuia rulouri de primăvară, sushi sau alte preparate asiatice. Aroma dulce, picantă și exotică a sosului va completa perfect gustul ingredientelor din aceste preparate. Sos de salată: Combinați ketchupul picant de mango cu ulei de măsline, zeamă de lămâie sau lime și alte ierburi aromatice pentru a crea un sos delicios pentru salate. Acest sos va adăuga o notă exotică și picantă salatelor cu legume proaspete sau fructe de mare. Asigurați-vă că vă adaptați cantitatea de ketchup picant de mango la preferințele dumneavoastră privind nivelul de iuțime. Încercați să fiți creativ și să explorați diferite combinații pentru a vă bucura de acest sos gustos în diverse preparate culinare. Ingrediente: mango 52%, zahar, ceapa, otet, apa, agent de ingrosare (amidon modificat), ghimbir, pudra de chili, sare, pudra de curry (contine telina si mustar), Informatii nutritionale/100 g: valoare energetica: 617kJ/147kcal, grasimi 0.3g, din care grasimi saturate 0.1g, carbohidrati 36g, din care zahar 33g, fibre alimentare 1.1g, proteine 0.4g, sare 0.09g. Dupa deschidere, pastrati la frigider. Greutate: 250 ml Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-04T19:28:47Z
+  Updated: 2026-02-12T20:35:06Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/spicy.jpg?v=1664284221
   Price: 39,00 lei RON
-- [Portocale murate in stil andaluz 625g/325g Belberry](https://delicatessen.ro/products/portocale-conservate-in-stil-andaluzian): Aceasta specialitate delicioasa din sudul Spaniei este conservata cu scortisoara si apa de mare, iar rezultatul este surprinzator de bun. Sunt recomandate pentru preparatele cu carne alba si pentru experimente in bucatarie! Idei de utilizare: Preparate sărate: Tagine marocan – Se potrivesc excelent în tocănițe cu miel, pui sau pește, alături de măsline, chimen și coriandru. Sosuri pentru carne – Pot fi folosite într-un sos dulce-acrișor pentru rață, porc sau pui. Salate mediteraneene – Se combină bine cu fenicul, măsline, migdale și brânză de capră. Tapenade cu măsline – Adaugă o notă de prospețime și dulceață unui tapenade clasic. Pește la cuptor – Se potrivesc cu somon, cod sau doradă, alături de ierburi aromatice. Brânzeturi maturate – Merg bine cu Manchego, brânză albastră sau Parmigiano Reggiano. Preparate dulci: Tarte și prăjituri – Pot fi integrate în tarte cu migdale sau ciocolată. Înghețată sau sorbet – Aduc un plus de savoare unui sorbet de citrice. Checuri și brioșe – Pot fi adăugate în aluat pentru un gust complex. Ciocolată artizanală – Se combină bine cu ciocolata neagră. Cocktailuri și băuturi calde – Pot fi folosite în sangria, gin tonic sau ceaiuri aromate. Ingrediente: portocale zahar zahar invertit apa otet acid citric sortisoara conservant: sorbat de potasiu. Informatii nutritionale/100 g: valoare energetica: 630kJ/125kcal, grasimi <0.5g, din care grasimi saturate <0.1g, carbohidrati 28g, din care zahar 21g, fibre alimentare 1.1g, proteine <0.5g, sare 0g. Dupa deschidere, pastrati la frigider. Greutate: 625 ml/ 325 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-02T12:04:41Z
+- [Ketchup cu ardei Jalapeño Belberry 250 ml](https://delicatessen.ro/products/ketchup-jalapeno): Jalapeño este un chilli aromat, verde, cu o aroma usoara. Acest ketchup este perfect in combinatie cu carne, omlete si branzeturi. Ingrediente: rosii 46%, zahar, otet de mere, otet de brandy, piure de japaleño 2%, chili, usturoi, agent de ingrosare (amidon si xantan), sare, telina, conservanti (sorbat de potasiu, bisulfit de sodiu). Informatii nutritionale/100 g: valoare energetica: 613kJ/145kcal, grasimi 0.2g, din care grasimi saturate 0g, carbohidrati 31g, din care zahar 28g, fibre alimentare 1.9g, proteine 2.1g, sare 1.2g. Dupa deschidere, pastrati la frigider. Greutate: 250 ml Brand: Belberry Tara de origine: Belgia Ketchupul cu ardei Jalapeño este un condiment versatil și delicios care poate fi folosit intr-o varietate de preparate. Burgeri picanti: Adauga ketchupul cu ardei Jalapeño pe burgerii tai pentru a le oferi un plus de aroma si picanterie. Se potriveste perfect cu carnea de vita, pui sau chiar si pentru burgerii vegetarieni. Nachos si chipsuri: Ketchupul cu ardei Jalapeño poate fi folosit ca un sos delicios pentru a inmuia chipsurile sau nachos-urile. Poti sa-l pui pe un platou alaturi de alte sosuri si sa-l folosesti pentru a savura chipsurile. Hot-doguri picante: Inlocuieste ketchupul traditional cu ketchupul cu ardei Jalapeño pentru a adauga un gust picant si aromat hot-dogurilor tale. Va aduce o nota fierbinte si revigoranta in combinatie cu carnea si celelalte condimente. Marinata pentru carne: Ketchupul cu ardei Jalapeño poate fi folosit pentru a crea o marinata rapida si gustoasa pentru carne. Amesteca ketchupul cu ardei Jalapeño cu alte condimente, cum ar fi usturoiul, pudra de ceapa si foloseste-l pentru a marina carnea inainte de a o gati. Va adauga un gust delicios si usor picant. Gratar: Incerca sa ungi carnea la gratar cu ketchupul cu ardei Jalapeño inainte de a o gati. Acest lucru va adauga un strat gustos de condimentare si ii va da o nota picanta si caramelizata in timpul gatitului.
+  Updated: 2026-02-12T20:35:55Z
   Vendor: Delicatessen
-  Product Type: Sare si condimente
+  Product Type: Sosuri
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS551-Andalusian-Pickled-Oranges-625-GR-LR.jpg?v=1623921740
-  Price: 70,00 lei RON
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/RS910_Ketchup_Jalapeno_250ML_1.png?v=1686410373
+  Price: 32,00 lei RON
 - [Confit de ceapa Mulhouse Belberry 180g](https://delicatessen.ro/products/ceapa-mulhouse): Confitul de ceapa Mulhouse este perfect pentru a asezona preparatele din vanat si carne de vita si au proprietatea de a transforma o friptura decenta intr-una extraordinara. Confitul de ceapă Mulhouse este un preparat delicios și aromat, care poate fi folosit în diverse feluri. Iată câteva idei de folosire pentru confitul de ceapă Mulhouse: Tartină gourmet: Întinde confitul de ceapă Mulhouse pe o felie de pâine prăjită sau pe o bruschetă. Poți adăuga, de asemenea, o felie subțire de brânză Brie sau Camembert deasupra și să o dai la cuptor câteva minute până când brânza se topește. Savurează această tartină gourmet ca aperitiv sau gustare delicioasă. Adăugat în sandvișuri și burgeri: Folosește confitul de ceapă Mulhouse ca topping pentru sandvișuri și burgeri. Poți pune un strat generos de confit de ceapă pe pâinea sau chiflele folosite și să adaugi carnea, legumele și sosurile preferate. Aroma dulce și condimentată a confitului de ceapă va adăuga o notă specială preparatelor tale. Garnitură pentru carne și pește: Servește confitul de ceapă Mulhouse ca garnitură pentru carne sau pește. Poți adăuga o lingură sau două de confit de ceapă lângă friptură, pui la grătar, pește sau fructe de mare. Aroma bogată a cepei caramelizate va completa perfect gustul preparatelor și va aduce un plus de savoare. În preparate cu brânzeturi: Confitul de ceapă Mulhouse se potrivește de minune cu brânzeturile. Poți adăuga o lingură de confit de ceapă în sandvișuri cu brânză, în tartine cu brânză de capră sau în salate cu brânză. Combinarea aromelor dulci și condimentate ale confitului de ceapă cu textura cremoasă a brânzeturilor va crea o explozie de savoare. Ingrediente: zahar ceapa 34% otet gelifiant (Pectina) stafide fructe de padure suc de lamaie Informatii nutritionale/100 g: Valoare energetica: 942 kJ/222 kcal Grasimi 0g, din care grasimi saturate 0g Carbohidrati 52g din care zaharuri 52g Fibre alimentare 1.2gProteine <0.5g Sare 0g Dupa deschidere, pastrati la frigider. Greutate: 180 g Brand: Belberry Tara de origine: Belgia
   Updated: 2026-01-27T11:57:28Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS380-Mulhouse-Onion-EN-180GR.jpg?v=1632909124
+  Price: 25,00 lei RON
+- [Confit de smochine si vin de Porto Belberry 180g](https://delicatessen.ro/products/confit-din-smochine-si-porto): Vinul de Porto este o licoare cunoscuta pentru aroma sa puternica; in combinatie cu smochinele, ce poate rezulta altceva daca nu o delicatesa? Perfecta pentru fripturi si pentru preparatele din vanat. Confitul de smochine și vin de Porto este o combinație rafinată și aromată, care poate fi utilizată în diverse moduri în bucătărie. Iată câteva idei despre cum poți să-l folosești: Topping pentru brânzeturi: Adaugă confitul de smochine și vin de Porto ca topping pe un platou de brânzeturi. Gustul dulce și intens al smochinelor confiate în vin de Porto se va potrivi perfect cu brânzeturile bogate și aromate. Umplutură pentru prăjituri și tarte: Folosește confitul de smochine și vin de Porto ca umplutură pentru prăjituri și tarte. Poți să-l adaugi în tartele cu crustă fragedă sau să-l umpli între straturile de blat pentru a adăuga o notă dulce și sofisticată. Garnitură pentru carne: Confitele de smochine și vin de Porto pot fi folosite ca garnitură delicioasă pentru carne, cum ar fi friptura de porc sau de rață. Servește carnea cu o lingură de confit de smochine și vin de Porto pe deasupra pentru a adăuga un contrast de arome și arome bogate. Complement pentru deserturi: Poți să folosești confitul de smochine și vin de Porto ca un adaos gustos la diverse deserturi. Adaugă-l pe lângă înghețată de vanilie, cheesecake-uri, prăjituri sau clătite pentru a obține un plus de dulceață și complexitate. Ingrediente în sosuri și glazuri: Confitul de smochine și vin de Porto poate fi utilizat ca ingredient în sosuri și glazuri pentru a adăuga o notă distinctivă. Amestecă-l cu vin de Porto, unt și condimente pentru a crea o glazură bogată pentru carne sau utilizează-l în sosurile pentru carne roșie sau de pui. Topping pentru iaurt sau cereale: Adaugă confitul de smochine și vin de Porto pe iaurtul grecesc sau cerealele pentru a le oferi un plus de dulceață și savoare. Această combinație va transforma o porție obișnuită de iaurt sau cereale într-o experiență gourmet. Umplutură pentru produse de patiserie: Poți să umpli produse de patiserie, cum ar fi clătite sau croissante, cu confit de smochine și vin de Porto pentru a obține un deliciu decadent. Această umplutură aromată va adăuga o textură moale și o aromă distinctivă. Asigură-te să explorezi și să experimentezi cu diverse combinații și preparate culinare pentru a profita la maximum de confitul de smochine și vin de Porto în bucătărie. Ingrediente: zahar smochine 24% ceapa rosie vin de Porto 7% otet gelifiant: pectina suc de mere suc de lamaie Informatii nutritionale/100 g: Valoare energetica: 1010 kJ/238 kcal Grasimi 0g, din care grasimi saturate 0g Carbohidrati 55g Zahar 55g Fibre alimentare 1gProteine <0.5g Sare 0g Contine sulfiti prezenti in mod natural. Dupa deschidere, pastrati la frigider. Greutate: 180 g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:58Z
+  Vendor: Delicatessen
+  Product Type: Sosuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS384-Figs-_-Port-EN-180GR.jpg?v=1632909214
   Price: 25,00 lei RON
 - [Confit de mango condimentat Belberry 180g](https://delicatessen.ro/products/confit-picant-cu-mango): Pentru burgeri aromati si pentru fripturi sofisticate! De exemplu: Pui glazurat cu confit de mango: Ingrediente: 4 piepturi de pui Sare și piper după gust 1 cană de confit de mango condimentat 2 linguri de sos de soia 2 linguri de miere 2 căței de usturoi, tocați fin Sucul de la o lămâie Instrucțiuni: Preîncălziți cuptorul la 180 de grade Celsius. Condimentați piepturile de pui cu sare și piper și așezați-le într-o tavă de copt. Într-un castron, amestecați confitul de mango, sosul de soia, mierea, usturoiul și sucul de lămâie. Omogenizați bine ingredientele. Turnați amestecul de mango peste pui, asigurându-vă că fiecare bucată este acoperită în mod uniform. Puneți tava în cuptor și gătiți timp de aproximativ 25-30 de minute sau până când puiul este gătit complet și glazura s-a caramelizat. Serviți puiul glazurat cu garnitură de orez sau legume proaspete. Ingrediente: zahar mango 35% ceapa otet suc de mere ghimbir stafide gelifiant: pectina curcuma chili suc de mere Informatii nutritionale/100 g: Valoare energetica: 1010 kJ/238 kcal Grasimi 0.2g, din care grasimi saturate 0g Carbohidrati 57.6g din care zaharuri 54.9g Fibre alimentare 1.9g Proteine 0.6g Sare 0.01g Dupa deschidere, pastrati la frigider. Greutate: 180 g Brand: Belberry Tara de origine: Belgia
   Updated: 2026-01-27T11:57:28Z
@@ -798,22 +868,43 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS853-Apricots-_-cumin-130gr.jpg?v=1621509892
   Price: 25,00 lei RON
+- [Gem de capsuni si sampanie Belberry 130g](https://delicatessen.ro/products/dulceata-de-capsuni-si-sampanie): Sampanie cu paine proaspata la micul dejun? Sofisticat, delicat, savuros, din Belgia. Gemul de căpșuni și șampanie este o combinație rafinată și delicioasă. Acesta poate fi utilizat în diverse moduri pentru a adăuga un gust dulce și un strop de strălucire în diferite preparate. Iată câteva idei de folosire pentru gemul de căpșuni și șampanie: Tartină pentru prăjituri sau clătite: Folosește gemul de căpșuni și șampanie ca umplutură pentru prăjituri sau clătite. Poți întinde un strat generos de gem pe blatul de prăjitură sau pe clătite și apoi să le asamblezi. Aroma subtilă de șampanie și gustul dulce al căpșunilor vor adăuga o notă festivă și delicioasă desertului tău. Toping pentru înghețată sau iaurt: Adaugă gemul de căpșuni și șampanie ca un toping rafinat pe înghețată sau iaurt. Aceasta va adăuga un gust dulce și aromă de căpșuni proaspete, completată de o notă subtilă de șampanie. Este o modalitate simplă de a transforma un desert simplu într-unul elegant și savuros. Ingredient în cocktailuri: Folosește gemul de căpșuni și șampanie ca un ingredient în cocktailuri. Poți adăuga o linguriță sau două de gem în cocktailuri cu șampanie sau prosecco, împreună cu alte ingrediente precum lichior de căpșuni sau suc proaspăt de lămâie. Aceasta va adăuga o dulceață naturală și un buchet aromatic cocktailului tău. Umplutură pentru prăjituri sau brioșe: Umple prăjiturile sau brioșele cu gem de căpșuni și șampanie pentru a le conferi un gust rafinat și un interior delicios. Poți face mici decupaje în prăjituri sau brioșe și să le umpli cu gemul, apoi le poți glazura cu ciocolată sau cu o glazură de zahăr. Ingrediente: capsuni 42% suc de mere suc de lamaie zahar sampanie 12% vol (4%) gelifiant: pectina. Informatii nutritionale/100 g: valoare energetica: 986kJ/232kcal, grasimi 0.5g, din care grasimi saturate 0.1g, carbohidrati 58g, din care zahar 58g, fibre alimentare 0.6g, proteine 0.6g, sare 0.03g. Contine alcool. Dupa deschidere, pastrati la frigider. Greutate: 130 g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:31Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP150-Strawberry-_-Champagne-130gr.jpg?v=1624463298
+  Price: 25,00 lei RON
+- [Gem de caise si amaretto Belberry 130g](https://delicatessen.ro/products/dulceata-de-caise-si-amaretto): Gem de caise cu amaretto. Sofisticat, delicat, savuros, o asociere incantatoare. Belberry combina dulceata caiselor cu lichiorul italian de migdale, Amaretto, care ii confera o nota limpede, usor acidulata de martipan.Aceast gem se potriveste bine cu paine prajita si este o umplutura minunata pentru biscuiti sau prajituri. Ingrediente: caise 37% suc de mere suc de lamaie zahar amaretto vol 60% (2.5%) gelifiant: pectina extract de migdale. Informatii nutritionale/100 g: valoare energetica: 989kJ/233kcal, grasimi 0.5g, din care grasimi saturate 0.1g, carbohidrati 59g, din care zahar 59g, fibre alimentare 0.5g, proteine 0.6g, sare 0.03g. Contine alcool. Dupa deschidere, pastrati la frigider. Greutate: 130 g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:15Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP151-Apricot-_-Amaretto-130gr.jpg?v=1623606049
+  Price: 25,00 lei RON
 - [Gem de mere si calvados Belberry, 130g](https://delicatessen.ro/products/dulceata-de-mere-si-calvados): Calvados este un distilat din cidru, o bautura traditionala in Franta, in special in partea de vest. In combinatie cu mere, rezulta un desert gourmet cu un gust vag acidulat si sofisticat. Ingrediente: mere 48% suc de lamaie zahar calvados vol 60% (2.5%) gelifiant: pectina extract de migdale. Informatii nutritionale/100 g: valoare energetica: 1050kJ/247kcal, grasimi 0.5g, din care grasimi saturate 0.1g, carbohidrati 61g, din care zahar 57g, fibre alimentare 1g, proteine 0.6g, sare 0.03g. Contine alcool. Dupa deschidere, pastrati la frigider. Greutate: 130 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-27T11:57:29Z
+  Updated: 2026-02-10T08:31:22Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP152-Apple-_-Calvados-130gr.jpg?v=1623784347
   Price: 25,00 lei RON
 - [Gem de portocale si whisky Belberry, 130g](https://delicatessen.ro/products/dulceata-de-portocale-si-whisky): Aceasta specialitate seduce prin amestecul de portocale fructate si notele fine de malt din whisky. Aroma se potriveste de minune cu branzeturile maturate tari si moi. Desigur, dulceata are un gust minunat si pe o felie de paine prajita cu unt! Ingrediente: portocale 27% zahar suc de mere whisky 2.4% gelifiant: pectina. Informatii nutritionale/100 g: valoare energetica: 1040kJ/244kcal, grasimi 0.5g, din care grasimi saturate 0.1g, carbohidrati 61g, din care zahar 58g, fibre alimentare 1g, proteine 0.6g, sare 0.03g. Contine alcool. Dupa deschidere, pastrati la frigider. Greutate: 130 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-31T10:14:26Z
+  Updated: 2026-02-10T08:31:07Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP153-Orange-_-Whisky-130gr.jpg?v=1623644147
   Price: 25,00 lei RON
+- [Crema de ciocolata cu caramel si Fleur de Sel Belberry 135g](https://delicatessen.ro/products/crema-de-ciocolata-belgiana-cu-caramel-sarat): Amestecul de ciocolata belgiana si caramel cu note puternice de cacao si atingerea fina a „Fleur de Sel”, un desert ideal pentru iubitorii de ciocolata. Indiferent daca folositi aceasta crema pentru a o intinde pe paine prajita sau ca ganache pentru desert, papilele dvs. vor fi entuziasmate. Ingrediente: sirop de glucoza zahar lapte condensat unt (din lapte) smantana (din lapte) fleur de sel 1%. Informatii nutritionale/100 g: Valoare energetica: 1650kJ/395 kcal Grasimi 15g, din care grasimi saturate 10g Carbohidrati 64g Zahar 58g Fibre alimentare 4.8g Proteine 2g Sare 1g Dupa deschidere, pastrati la frigider. Greutate: 135g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:31:05Z
+  Vendor: Delicatessen
+  Product Type: Dulciuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS250FleurDeSelCaramelSpread.jpg?v=1638777097
+  Price: 30,00 lei RON
 - [Otet balsamic cu lamaie salbatica Belberry 250ml](https://delicatessen.ro/products/crema-balsamica-cu-lamaie-salbatica): Aceasta crema balsamica cu gust citric este perfecta ca dressing pentru salate, pentru preparatele cu carne de pui si peste, dar si pentru sosuri. Iată două rețete delicioase în care poți folosi oțetul balsamic de lămâie sălbatică: Salată de roșii și mozzarella cu dressing de lămâie sălbatică: Taie roșii coapte și mozzarella în felii. Așază-le pe un platou sau într-un bol. Într-un castron mic, amestecă oțetul balsamic de lămâie sălbatică, ulei de măsline extra virgin, sare și piper. Toarnă dressingul obținut peste salată și amestecă ușor. Poți adăuga și frunze proaspete de busuioc sau rucola pentru un plus de prospețime și arome. Căței de usturoi caramelizați cu glazură de lămâie sălbatică: Curăță câțiva căței de usturoi și taie-i în felii subțiri. Într-o tigaie, încinge puțin ulei de măsline și adaugă usturoiul. Gatiti usturoiul la foc mediu până când devine auriu și caramelizat. Într-un castron mic, amestecă oțetul balsamic de lămâie sălbatică, miere, sare și piper. Adaugă glazura obținută peste cățeii de usturoi caramelizați și amestecă ușor pentru a-i acoperi. Servește cățeii de usturoi caramelizați ca garnitură sau adaugă-i în sandvișuri și wraps. Acestea sunt doar două rețete pentru a te inspira în utilizarea oțetului balsamic de lămâie sălbatică. Poți adapta și experimenta cu această aromă delicioasă în diferite preparate, de la salate și sosuri până la marinade sau glazuri pentru carne sau legume. Ingrediente: suc concentrat de struguri; otet balsamic de Modena PGI 20 % (otet din vin, concentrat de struguri, caramel E 150d); amidon modificat; suc concentrat de lamaie 10%. Contine sulfiti in mod natural. Informatii nutritionale/100 g: Valoare energetica: 1131 kJ/266 kcal Grasimi 0g, din care grasimi saturate 0g Carbohidrati 64.9g Zahar 48.3g Fibre alimentare 0gProteine 2g Sare 0.08g Dupa deschidere, pastrati la frigider. Greutate: 250 ml Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-03T13:19:06Z
+  Updated: 2026-02-07T09:32:46Z
   Vendor: Delicatessen
   Product Type: Otet
   Availability: Available
@@ -875,13 +966,27 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/bolcu3colturisevilla.jpg?v=1629522254
   Price: 28,00 lei RON
-- [Crema balsamica cu smochine La Chinata 150ml](https://delicatessen.ro/products/crema-balsamica-cu-smochine-la-chinata): Crema balsamică cu smochine este un ingredient gustos și versatil, care poate fi utilizat în diferite moduri în bucătărie. Iată câteva idei despre cum poți să o folosești: Topping pentru brânzeturi: Adaugă crema balsamică cu smochine ca un topping pe un platou de brânzeturi. Gustul dulce și acrișor al smochinelor combinate cu aciditatea balsamicului va completa perfect aromele brânzeturilor. Adăugare în salate: Poți să adaugi crema balsamică cu smochine în salate pentru a le oferi un plus de dulceață și arome complexe. Stropește-o peste salate verzi, salate cu brânză sau salate cu nuci și fructe pentru a adăuga un strat suplimentar de gust și textură. Glazură pentru carne: Utilizează crema balsamică cu smochine ca glazură pentru carne, cum ar fi friptura de porc, de vită sau de pui. Poți să o aplici pe carne în timpul gătirii sau să o adaugi la sfârșit pentru a obține un strat lucios și acrișor. Umplutură pentru tartine și sandwich-uri: Folosește crema balsamică cu smochine ca umplutură pentru tartine sau sandwich-uri. Poți să o combini cu brânză, carne, legume proaspete sau rucola pentru a obține o gustare savuroasă și echilibrată. Adăugare în sosuri și marinade: Crema balsamică cu smochine poate fi utilizată ca ingredient în sosuri și marinade. Amestecă-o cu ulei de măsline, usturoi și condimente pentru a obține un sos delicios pentru carne sau un strat aromat pentru marinarea cărnii. Garnitură pentru deserturi: Poți să adaugi crema balsamică cu smochine ca o garnitură pe lângă diverse deserturi. Stropește-o peste înghețată, clătite, cheesecake-uri sau prăjituri pentru a adăuga un contrast interesant de arome și texturi. Arome pentru brânzeturi: Crema balsamică cu smochine poate fi utilizată pentru a aromatiza brânzeturi, cum ar fi brânza de capră sau brânza de vaci. Poți să o combini cu brânza și să o amesteci bine pentru a obține o textură cremoasă și un gust bogat. Asigură-te să experimentezi cu diferite combinații și să ajustezi cantitățile de crema balsamică cu smochine în funcție de preferințele tale personale, pentru a obține rezultatele dorite în preparatele tale culinare. Greutate: 150 ml Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-01-27T11:57:32Z
+- [Gem de capsuni fara zahar Belberry 215g](https://delicatessen.ro/products/gem-de-capsuni-fara-zahar-215g): Data de expirare: Iunie 2025 Gemul de capsuni fara zahar este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat se obtine folosind cel putin 55% capsuni la 100g de produs. Toate gemurile Belberry sunt preparate in vase cu capacul deschis pentru a-si rafina aroma intensa. Ingrediente: capsuni (62%), indulcitor (maltitol), pectina, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 439kJ/105kcal, grasimi 0.4g, din care grasimi saturate 0g, carbohidrati 42g (zaharuri 3.3g, polioli 37g), fibre alimentare 1.6g, proteine 0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-12T14:00:15Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RF601-strawberry-no-sugar-215-GR.jpg?v=1623769358
+  Price: 10,00 lei RON
+- [Otet fructat cu pulpa de mango 200ml](https://delicatessen.ro/products/otet-cu-pulpa-de-mango-200ml): Acest otet fructat si destul de putin acru merge de minune cu sparanghel, fructe de mare la gratar si peste la gratar, dar si salate de fructe, branzeturi sau inghetata. Impreuna cu un ulei de masline de calitate, poate compune un dressing fructat si aromat pentru orice tip de salata. Ingrediente: otet (60%), piure de mango (30%), zahar pudra, agent de ingrosare (amidon modificat, xantan). Informatii nutritionale/100 g: valoare energetica: 247kJ/58kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 15g, din care zahar 13g, fibre alimentare 0.5g, proteine <0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 200ml Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-11T13:16:25Z
   Vendor: Delicatessen
   Product Type: Otet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/crema-aromatizada-con-higo-elaborada-con-aceite-balsamico-de-modena-la-chinata_1_359cd565-abde-41a8-856c-797a11cb0301.jpg?v=1624463254
-  Price: 30,00 lei RON
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS861-vinegar-Cameroon-Mango-200-ML.jpg?v=1623830499
+  Price: 42,00 lei RON
+- [Crema balsamica aromatizata cu mango Belberry 250ml](https://delicatessen.ro/products/crema-balsamica-aromatizata-cu-mango-belberry): Crema balsamică aromatizată cu mango adaugă o notă exotică și dulce în preparatele tale. Iată câteva idei despre cum poți să o folosești: Topping pentru salate: Folosește crema balsamică aromatizată cu mango ca un topping delicios pentru salatele tale. Adaugă-o peste salatele verzi, salatele cu pui sau creveți, pentru a obține un echilibru între acrișorul balsamicului și dulceața mango-ului. Sos pentru marinade: Poți să utilizezi crema balsamică aromatizată cu mango în marinade pentru carne sau pește. Amestec-o cu ulei de măsline, usturoi, condimente și folosește-o pentru a adăuga o aromă exotică și dulce în carne înainte de a o găti. Glazură pentru grătar: Aplică crema balsamică aromatizată cu mango pe carne, pește sau legume în timpul gătirii la grătar. Aceasta va carameliza ușor și va adăuga un strat acrișor-dulce și lucios. Sos pentru brânzeturi: Crema balsamică aromatizată cu mango poate fi folosită ca un sos delicios pentru brânzeturi. Combinația de acrișor și dulceață va completa perfect aromele brânzeturilor moi sau brânzeturilor albastre. Garnitură pentru deserturi: Adaugă crema balsamică aromatizată cu mango ca o garnitură peste deserturi, cum ar fi înghețata, cheesecake-urile sau prăjiturile. Aceasta va oferi un contrast interesant de arome și texturi. Dressing pentru fructe proaspete: Poți să amesteci crema balsamică aromatizată cu mango cu fructe proaspete pentru a obține un dressing dulce-acrișor și aromat. Aceasta va completa gustul fructelor și va adăuga o notă rafinată în salatele de fructe. Adăugare în smoothie-uri: Experimentează adăugând crema balsamică aromatizată cu mango în smoothie-uri pentru a adăuga o notă dulce și exotică. Amestecă-o cu fructe, iaurt și îndulcitor natural pentru a obține un smoothie delicios și sănătos. Asigură-te să ajustezi cantitățile de crema balsamică aromatizată cu mango în funcție de preferințele tale și de intensitatea aromei pe care o dorești în preparatele tale. Ingrediente: suc concentrat de struguri; otet balsamic de Modena PGI 20 % (otet din vin, concentrat de struguri, caramel E 150d); amidon modificat; suc concentrat de mango 10%. Contine sulfiti in mod natural. Informatii nutritionale/100 g: Valoare energetica: 1131 kJ/266 kcal Grasimi 0g, din care grasimi saturate 0g Carbohidrati 64.9g Zahar 48.3g Fibre alimentare 0gProteine 2g Sare 0.08g Dupa deschidere, pastrati la frigider. Greutate: 250 ml Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:35Z
+  Vendor: Delicatessen
+  Product Type: Otet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RS-Balsamic-Glaze-Alphonso.jpg?v=1664282610
+  Price: 39,00 lei RON
 - [Smochine cu ciocolata neagra 425g](https://delicatessen.ro/products/smochine-cu-ciocolata-neagra-425g): 24 de smochine umplute cu crema de ciocolata si un pic de brandy, acoperite cu un strat fin de ciocolata neagra, create cu un singur scop: placere divina! Ingrediente: smochine uscate 45%, ciocolata 37% (cacao 52% minim) (zahar, unt de cacao, masa de cacao, lecitina din soia, aroma naturala de vanilie, unt (lapte)), smantana pasteurizata (lapte), sirop de glucoza, aroma de brandy <0.5%, humectant: sorbitol. Poate contine urme de nuci. Fara gluten. Informatii nutritionale/100 g: Valoare energetica 1618kJ/387kcal, Grasimi19g, din care grasimi saturate 14g, Carbohidrati 47g, Zahar 46g, Fibre alimentare 6.5g, Proteine 3.7g, Sare 0.55g Greutate: 425g Brand: Rabitos Royale Tara de origine: Spania
   Updated: 2026-02-04T08:35:04Z
   Vendor: Delicatessen
@@ -890,7 +995,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RRDARK425G.jpg?v=1617874956
   Price: 170,00 lei RON
 - [Smochine in ciocolata Royale Collection Rabitos Royale 425g](https://delicatessen.ro/products/smochine-in-ciocolata-royale-collection-425g): Atunci cand nu stii ce sa alegi sau pur si simplu vrei sa faci un cadou iesit din comun de yummy, aceasta cutie este raspunsul. Contine 24 smochine cu ciocolata neagra (si un pic de brandy), cu ciocolata cu lapte (si un hint de caramel sarat) si cu ciocolata alba (cu un strop de capsuni). Ingrediente: smochine uscate 45%, zahar, unt de cacao, masa de cacao, lapte praf, unt, emulgator: lecitina din soia, aroma de vanilie, smantana, sirop de glucoza, humectant: sorbitol, arome, sare, conservanti: acid sorbic, acid citric. Fara gluten. Poate contine urme de nuci si alune.Informatii nutritionale/100g: Valoare energetica 11750 Kj/418 kcal Grasimi 20g, din care grasimi saturate 14g, Carbohidrati 53g, Zahar 51g, Fibre alimentare 5.2g, Proteine 3.7g, Sare 0.47g Greutate: 425g Brand: Rabitos Royale Tara de origine: Spania
-  Updated: 2026-02-04T11:30:36Z
+  Updated: 2026-02-10T10:01:01Z
   Vendor: Delicatessen
   Product Type: Smochine in ciocolata
   Availability: Available
@@ -924,20 +1029,27 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/1390198.A.jpg?v=1629522449
   Price: 38,00 lei RON
+- [Gem de mure Belberry 215g](https://delicatessen.ro/products/gem-de-mure): Acest gem de mure a fost creat prin prelucrarea traditionala a fructelor proaspete coapte, fara procedee aditionale - pentru fanii deliciilor culinare simple. Ingrediente: mure (54%), zahar, gelifiant (pectina), suc de lamaie. Produsul a fost preparat folosind 55% fruct la 100g gem. Informatii nutritionale/100 g: valoare energetica: 1357kJ/321kcal, grasimi <0.5g, din care grasimi saturate 0.2g, carbohidrati 74g (zaharuri 66g), fibre alimentare <0.5g, proteine 1.1g, sare 0.04g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-11T04:29:26Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP205-Blackberry-Extra-Jam-215g.jpg?v=1623846543
+  Price: 29,00 lei RON
 - [Gem de fructe de padure Belberry 215g](https://delicatessen.ro/products/gem-de-fructe-de-padure): Gemul de fructe de padure este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat se obtine folosind cel putin 55% fructe la 100g de produs. Toate gemurile Belberry sunt preparate in vase cu capacul deschis pentru a-si rafina aroma intensa. Ingrediente: zahar, capsuni (16.50%), coacaze negre (16.50%), coacaze rosii (11%), zmeura (8.25%), afine 2.75%, gelifiant (pectina), suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 853kJ/201kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 48g (zaharuri 48g), fibre alimentare 1.6g, proteine 0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215 g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-27T11:57:36Z
+  Updated: 2026-02-10T08:30:59Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP206-Forest-Fruits-Extra-Jam-215g_low.jpg?v=1632918285
   Price: 29,00 lei RON
 - [Otet fructat cu zmeura Belberry  200ml](https://delicatessen.ro/products/otet-fructat-cu-zmeura): Otetul fructat de zmeura este potrivit pentru sosuri, marinade pentru pui, dar si pentru salate de vara, pentru un gust dulce-acrisor minunat. Iata o idee: Salată de verdeață cu zmeură și brânză de capră: Ingrediente: Frunze proaspete de salată (ex. rucola, spanac, măcriș) Zmeură proaspătă Brânză de capră (feta sau mozzarella) Nuci (ex. nuci pecan, nuci caju) Oțet fructat de zmeură Ulei de măsline extravirgin Sare și piper, după gust Instrucțiuni: Spălați și uscați frunzele de salată și așezați-le într-un bol mare. Adăugați zmeura proaspătă și bucăți de brânză de capră peste salată. Presărați nucile peste salată. Într-un castron mic, amestecați oțetul fructat de zmeură cu uleiul de măsline extravirgin, sarea și piperul, după gust. Omogenizați bine. Turnați dressingul de oțet de zmeură peste salată și amestecați ușor pentru a combina ingredientele. Serviți imediat și savurați această salată rafinată și plină de arome. Ingrediente: otet 60%, piure de zmeura 30%, zahar pudra (zahar, sirop de glucoza), agent de ingrosare: amidon modificat, xantan. Informatii nutritionale/100 g: valoare energetica: 270kJ/64kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 15g, din care zahar 13g, fibre alimentare 1.2g, proteine <0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 200ml Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-02T22:03:26Z
+  Updated: 2026-02-10T08:33:25Z
   Vendor: Delicatessen
   Product Type: Otet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Belberry-Sweet-Raspberry-Vinegar_600x600_f9d0385e-b0f1-48f5-8f5b-3d375b029d99.jpg?v=1623846969
-  Price: 40,00 lei RON
+  Price: 42,00 lei RON
 - [Sos de rosii cu masline Don Gastronom 300g](https://delicatessen.ro/products/sos-de-rosii-cu-masline-314ml): Sosul de rosii cu masline este ideal in combinatie cu paste, ca baza pentru mancaruri, cu pizza sau cu pui. Idei de retete: Penne cu sos de roșii și măsline: Se fierb 250g de penne în apă cu sare conform instrucțiunilor de pe ambalaj. Într-o tigaie, se călește 1 ceapă tocată și 2 căței de usturoi în 2 linguri de ulei de măsline până devin aurii. Se adaugă 400g de sos de roșii și se lasă să fiarbă la foc mic timp de 10 minute. Se adaugă 100g de măsline tăiate felii și se amestecă bine. Se scurge pasta și se adaugă în tigaie peste sosul de roșii și măsline. Se amestecă bine și se servește cald. Pizza cu sos de roșii și măsline: Se pregătește aluatul pentru pizza conform preferințelor. Se întinde aluatul într-o formă de pizza și se adaugă sos de roșii în strat uniform. Se presară 100g de măsline tăiate felii pe deasupra sosului de roșii. Se adaugă brânză mozzarella rasă și orice alte ingrediente preferate, cum ar fi șuncă, ciuperci sau ardei. Se coace pizza în cuptorul preîncălzit la 220°C timp de 12-15 minute sau până când aluatul este rumenit și crocant. Rulouri cu sos de roșii și măsline: Se pregătește un aluat de cozonac, dar se adaugă o lingură de ulei de măsline în loc de unt. Se întinde aluatul într-un dreptunghi și se adaugă sos de roșii și 100g de măsline tăiate felii pe deasupra. Se rulează aluatul strâns și se taie în rulouri de aproximativ 2 cm grosime. Se așază rulourile într-o tavă tapetată cu hârtie de copt și se coc în cuptorul preîncălzit la 180°C timp de 20-25 de minute sau până când devin aurii. Se pot servi calde sau reci, ca aperitiv sau gustare. Ingrediente: rosii pasate, masline negre si verzi, ulei de masline, zahar, sare, usturoi, ceapa, amidon de porumb modificat, acid citric. Informatii nutritionale/100 g: Valoare energetica 252.7kJ/60.4kcal, Grasimi 2.4g, din care grasimi saturate 0.51g, Carbohidrati 8.9g, Zahar 5.5g, Fibre alimentare 0g, Proteine1.7g, Sare 1.1g. Greutate: 300g Brand: Don Gastronom Tara de origine: Spania
   Updated: 2026-01-27T11:57:36Z
   Vendor: Delicatessen
@@ -946,7 +1058,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/80049.A.jpg?v=1626259263
   Price: 18,00 lei RON
 - [Ardei copt in cuptor cu lemne Don Gastronom 330g](https://delicatessen.ro/products/ardei-copt-330g): Ardeii copti în cuptor cu lemne au o aromă intensă și o textură moale și dulce. Aceștia pot fi folosiți într-o varietate de feluri de mâncare. Iată câteva idei despre cum să-i utilizezi: Antipasto: Servește ardeii copti ca parte a unui antipasto. Poți să-i așezi alături de brânzeturi, măsline, salamuri și alte legume marinare pentru a crea un platou atrăgător. Salată: Taie ardeii copti în bucăți și adaugă-i într-o salată proaspătă. Poți combina ardeii cu frunze de salată, roșii, castraveți, brânzeturi și alte ingrediente preferate. Stropește salata cu ulei de măsline extravirgin, oțet balsamic și condimente pentru a completa gustul. Tapenade: Mixează ardeii copti împreună cu măsline, usturoi, capere, ulei de măsline și suc de lămâie pentru a crea o tapenade savuroasă. Poți folosi tapenade-ul pentru a unge pâinea, pentru a condimenta pastele sau pentru a adăuga o notă specială în alte preparate. Tartină: Pune ardeii copti pe o felie de pâine prăjită și adaugă brânză, ierburi aromatice sau alte ingrediente preferate pentru a crea o tartină delicioasă și ușor de pregătit. Umpluturi: Folosește ardeii copti ca umplutură pentru sandvișuri, wraps sau burgeri. Poți adăuga ardeii alături de alte legume, carne sau brânză pentru a obține un gust bogat și o textură suculentă. Focaccia sau pizza: Adaugă ardeii copti ca topping pe o focaccia sau o pizza proaspătă. Aceștia vor aduce o aromă dulce și intensă preparatului. Asigură-te că ardeii copti sunt bine cojiți și că îi păstrezi într-un recipient etanș în frigider. Poți să-i utilizezi în diverse preparate culinare și să-i adaptezi în funcție de preferințele tale și de rețetele pe care le încerci. Ingrediente: ardei rosu, zahar, sare, acid citric. Informatii nutritionale/100 g: Valoare energetica 303.kJ/72.5kcal Grasimi 3.6g, din care grasimi saturate 1.1g, Carbohidrati 8.8g, Zahar 2.4g, Fibre alimentare 1.3g, Proteine 1.3g, Sare 0.9g. Greutate: 330g Brand: Don Gastronom Tara de origine: Spania
-  Updated: 2026-02-02T22:03:09Z
+  Updated: 2026-02-10T16:57:52Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
@@ -1058,14 +1170,14 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/6344696_product.jpg?v=1630500718
   Price: 919,00 lei RON
 - [Gem de piersici Belberry 215g](https://delicatessen.ro/products/gem-de-piersici-belberry): Acest gem este obtinut prin utilizarea a 55% fructe de inalta calitate si a celor mai fine zaharuri. Atunci cand este necesar, se mai adauga pectina naturala de mere. Procesul de conservare are loc intr-un mod natural- autopasteurizare. Este ideal a fi servit cu paine prajita si unt, langa un ceai de lamaie. Ingrediente: piersica (54%), zahar, gelifiant: pectina de mar, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 866kJ/204kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 50g (zaharuri 50g), fibre alimentare 1.3g, proteine <0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-02T22:03:10Z
+  Updated: 2026-02-10T08:31:09Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/R.jpg?v=1632904997
   Price: 26,00 lei RON
 - [Ketchup din rosii San Marzano Belberry 250ml](https://delicatessen.ro/products/san-marzano-ketchup): Cei mai buni cartofi prajiti sunt cei belgieni - este lucru stiut. Deci nu este de mirare ca tot acestia au creat si cel mai delicios ketchup, atat de gustos incat veti dori sa il mancati direct din sticla. Rosiile bogate, aromate San Marzano sunt ingredientul principal, si sunt asezonate cu piper rosu, sare de mare, putin otet, ceapa si telina. Ingrediente: 47% rosii San Marzano, zahar, apa, piure de ardei rosu, otet brandy, otet de mere, agent de ingrosare: amidon de porumb modificat, sare de mare, telina. Informatii nutritionale/100 g: valoare energetica: 660kJ/156kcal, grasimi 0.2g, din care grasimi saturate 0g, carbohidrati 34g, din care zahar 32g, fibre alimentare 1.6g, proteine 1.6g, sare 0.9g. Dupa deschidere, pastrati la frigider. Greutate: 250ml Termen de valabilitate: 2 ani. Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-02T22:03:11Z
+  Updated: 2026-02-12T20:36:35Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
@@ -1079,21 +1191,28 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/13021.A.jpg?v=1632298503
   Price: 32,00 lei RON
 - [Gem de capsuni Belberry 215g](https://delicatessen.ro/products/gem-de-capsuni): Gemul de capsuni este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat se obtine folosind cel putin 55% de capsuni la 100g de produs. Toate gemurile Belberry sunt preparate in vase cu capacul deschis pentru a-si rafina aroma intensa. Ingrediente: capsuni (55%), zahar, gelifiant: pectina, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 835kJ/197kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 49g din care zaharuri 48g, fibre alimentare 1.3g, proteine <0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-27T11:57:44Z
+  Updated: 2026-02-10T09:04:21Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP201-Strawberry-Extra-Jam-215g-low.jpg?v=1632905138
   Price: 26,00 lei RON
 - [Gem de 4 fructe 215g](https://delicatessen.ro/products/gem-de-4-fructe): Gemul de 4 fructe este produs in Belgia dupa o reteta veche, de familie. Cu o aroma rafinata, elaborat cu ingrediente de inalta calitate, perfect la gust datorita folosirii celor mai bune fructe din intreaga lume. Ingrediente: zahar, capsuni (16.5%), cirese morello (16.5%), coacaze rosii (11%), zmeura (11%), gelifiant: pectina, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 878kJ/207kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 50g, din care zahar 49g, fibre alimentare 2.1g, proteine 0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-27T11:57:44Z
+  Updated: 2026-02-10T08:30:55Z
   Vendor: Delicatessen
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP218-4-Fruits-Extra-Jam-215g-low.jpg?v=1632904981
   Price: 29,00 lei RON
+- [Gem de caise Belberry 215g](https://delicatessen.ro/products/gem-de-caise): Gemul de caise este fabricat in Belgia dupa o reteta veche de familie. Gustul rafinat se obtine folosind cel putin 55% de caise la 100g de produs. Toate gemurile Belberry sunt preparate in vase cu capacul deschis pentru a-si rafina aroma intensa. Ingrediente: caise (55%), zahar, gelifiant pectina, suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 860kJ/202kcal, grasimi 0g, din care grasimi saturate 0g, carbohidrati 48g, din care zaharuri 48g, fibre alimentare 1.2g, proteine <0.5g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:58Z
+  Vendor: Delicatessen
+  Product Type: Gemuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/RP203-Apricots-Extra-Jam-215g-low.jpg?v=1632907145
+  Price: 26,00 lei RON
 - [Panettone Artizanal cu Crema Limoncello - Ediție Crăciun](https://delicatessen.ro/products/panettone-artizanal-cu-crema-limoncello-editie-craciun): Data de expirare: 31.05.2026 Prajitura de Craciun cu umplutura de Limoncello, aluat moale, savoare proaspata. Unii dintre noi suntem obisnuiti cu panettonele cumparat de pe rafturile supermarket-urilor; din pacate, acesta stirbeste renumele panettone-lui original, pregatit in casa sau in pasticcerii de catre italieni. Un panettone bun trebuie sa fie moale, pufos, in nici un caz uscat, si sa contina ingrediente de calitate: oua, faina, fructe confiate gustoase, sa fie lasat la dospit atat cat trebuie. Secretul celor de la Fraccaro este acela ca folosesc maia si ca au rabdare cu coca, nu o grabesc prin metodele obisnuite. Rezultatul este o minune a gustului. Pentru ca nu se zgarcesc cu umpluturile de crema (limoncello, fistic, gianduja), produsul finit este de fapt o prajitura, nu un "cozonac". Am incercat sa-l taiem cu un cutit si sa-l mancam civilizat - nu am reusit, deoarece este atat de moale si de cremos incat se poate manca si cu lingurita. Si da, nu se recomanda in diete, in nici una! Ingrediente: faina de grau tip '0', crema de limoncello 20% (zahar, apa, sirop de glucoza, infuzie de limoncello 5%, lapte praf degresat, gelifiant: pectina, conservant: sorbat de potasiu, arome), zahar, unt, oua categoria A, galbenus de ou categoria A, sirop de zahar invertit, aluat din drojdie naturala 6% (grau), emulgatori: mono- si digliceride ale acizilor grasi, sare, faina de grau, proteine din lapte, arome naturale, conservanti: acid sorbic. Poate contine nuci si soia. Informatii nutritionale/100 g: Valoare energetica 1584 kJ/ 378 kcal Grasimi 18g, din care grasimi saturate 8.7g, Carbohidrati 47g, Zaharuri 24g, Fibre alimentare 1.5g, Proteine 6.3g, Sare 0,5g. Greutate: 750g Brand: Fraccaro Tara de origine: Italia
-  Updated: 2026-02-04T09:16:03Z
+  Updated: 2026-02-10T13:49:14Z
   Vendor: Delicatessen
   Product Type: Panettone
   Availability: Available
@@ -1107,14 +1226,14 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/coffret-de-jolies-tisanes-fruitees-bio_1.jpg?v=1633940028
   Price: 155,00 lei RON
 - [Colectie de 42 de ceaiuri "Healthy" Terre d`Oc  65.8g](https://delicatessen.ro/products/colectie-de-42-de-ceaiuri-healthy): Setul contine: 3 x 7 ceai verde : Detox, Slimming, Boost 3 x 7 ceai de plante: Digestion, Meditation, Sleep Mod de preparare: 1 pliculet/250ml de apa la 85-90 de grade Celsius. Timp de infuzare: 3-5 minute. Greutate: 65.8g (21 x 1.7g + 14 x 1.5g + 7 x 1.3g) Brand: Terre d`Oc Tara de origine: Franta
-  Updated: 2026-02-02T22:03:12Z
+  Updated: 2026-02-08T22:25:25Z
   Vendor: Delicatessen
   Product Type: Cadou
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/coffret-ma-journee-healthy.jpg?v=1633948071
   Price: 155,00 lei RON
 - [Selectie de trufe de ciocolata White 9U Pure](https://delicatessen.ro/products/selectie-de-trufe-de-ciocolata-red-16): Greutate: 76g Dimensiuni: 17 x 17cm Brand: Pure Chocolate Tara de origine: Letonia
-  Updated: 2026-02-02T22:03:13Z
+  Updated: 2026-02-11T10:21:27Z
   Vendor: Delicatessen
   Product Type: Trufe de ciocolata
   Availability: Available
@@ -1155,13 +1274,6 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/0_210527022624.jpg?v=1636113410
   Price: 28,00 lei RON
-- [Midii murate La Brujula](https://delicatessen.ro/products/midii-marinate-la-brujula): Midii murate in conserva, din estuarele Galitiei. Acestea sunt fierte la abur, dupa care se prajesc in ulei de masline, sunt puse in conserva una cate una si acoperite in sosul murat. Termen de valabilitate: 2 ani. Ingrediente: midii (moluște), ulei de măsline, ulei de floarea soarelui, oțet, condimente și sare. Greutate netă: 110g Greutate uscată: 76g Valoare energetică pentru 100g de produs: Valoare energetică: 1027 kJ/247 Kcal Grăsimi: 18 g Acizi grași saturați: 3 g Glucide: 3 g Zaharuri: 0 g Proteine: 18 g Sare: 1,8 g Brand: La Brujula Tara de origine: Spania
-  Updated: 2026-01-27T11:56:48Z
-  Vendor: Delicatessen
-  Product Type: Peste si fructe de mare
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/LB-130-mussels-in-scabeche.jpg?v=1635661960
-  Price: 28,00 lei RON
 - [Calamari umpluti in sos de cerneala de sepie La Brujula](https://delicatessen.ro/products/calamari-umpluti-in-sos-de-cerneala-de-sepie-la-brujula): 6 sau 8 mini calamari curatati, umpluti cu propriile tentacule si asezati in conserva. Ca sa fie extraordinari, sunt colorati cu putina cerneala din sepie. Termen de valabilitate: 2 ani. Ingrediente: calamari (moluște) ulei de măsline, ceapă, piper, roșii, vin, sare, cerneală de sepie și condimente. Greutate netă: 110g Greutate uscată: 80g Valoare energetică pentru 100g de produs: Valoare energetică: 773 kJ/186 Kcal Grăsimi: 12 g Acizi grași saturați: 2,1 g Glucide: 3 g Zaharuri: 0,9 g Proteine: 16 g Sare: 1,1 g Brand: La Brujula Tara de origine: Spania
   Updated: 2026-02-03T09:06:46Z
   Vendor: Delicatessen
@@ -1184,28 +1296,21 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/R6W_0168.jpg?v=1635598930
   Price: 185,00 lei RON
 - [Trufe de ciocolata cu zmeura in cutie metalica 200g Mathez](https://delicatessen.ro/products/trufe-de-ciocolata-raspberry-macaroon-in-cutie-metalica-200g): Ce le lipseste macarons-urilor, te-ai intrebat vreodata? Sigur, unele dintre ele sunt foarte aproape de perfectiune, atunci cand sunt proaspete, foarte putin crocante la exterior si delicios de moi la interior. Dar cum ar fi sa combini un macaron cu ciocolata intensa? Mathez a creat reteta de trufa de ciocolata cu zmeura, dar nu zmeura, ci macaron cu zmeura. Se consuma la temperatura camerei si cu ochii inchisi, pentru senzatii desavarsite. Dimensiuni Lxlxh: 10 x 6.5 x 16 cm Greutate: 200g Brand: Mathez Tara de origine: Franta
-  Updated: 2026-02-04T13:52:06Z
+  Updated: 2026-02-12T21:34:12Z
   Vendor: Delicatessen
   Product Type: Trufe de ciocolata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/1_0d580399-2ef2-4d7d-b4ab-feebaafd65e3.gif?v=1707991143
   Price: 52,00 lei RON
-- [Green Gift - cutie cu trufe de ciocolata Mathez 500g](https://delicatessen.ro/products/green-christmas-500g): Greutate: 500g Brand: Mathez Tara de origine: Franta
-  Updated: 2026-02-03T18:18:45Z
-  Vendor: Delicatessen
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/M06.jpg?v=1636110910
-  Price: 70,00 lei RON
 - [Crema balsamica cu cirese La Chinata 150ml](https://delicatessen.ro/products/crema-balsamica-cu-cirese-la-chinata): Crema balsamica cu cirese este dressingul perfect pentru a da o nota dulce si intensa salatelor, fructelor, inghetatei sau deserturilor. Crema balsamică de cireșe este o combinație delicioasă și aromată, perfectă pentru a adăuga un gust intens și fructat preparatelor culinare. Iată câteva idei de utilizare pentru această cremă balsamică: Salate: Folosiți crema balsamică de cireșe ca dressing sau glazură pentru salatele verzi. Adăugați-o peste o salată de rucola, spanac sau salată mixtă, împreună cu alte ingrediente precum brânza, nuci, fructe proaspete sau uscate. Aroma dulce și acidulată a cremei balsamice de cireșe va adăuga un contrast interesant și va îmbunătăți gustul salatei. Gătitul cărnii: Utilizați crema balsamică de cireșe ca glazură pentru carne. Puteți unge carnea (de exemplu, pui, porc, vită) cu crema balsamică înainte de a o găti la grătar sau la cuptor. Aroma intensă a cireșelor va se carameliza sub influența căldurii, adăugând un strat glazurat delicios și fructat. Deserturi: Folosiți crema balsamică de cireșe ca garnitură pentru deserturi. Poate fi adăugată peste înghețată de vanilie, panna cotta, cheesecake sau alte deserturi cu fructe. Va adăuga un gust distinct de cireșe și va completa aroma dulce a deserturilor. Cheeseboard: Adăugați crema balsamică de cireșe pe un cheeseboard, alături de brânzeturi și alte garnituri. Este o combinație delicioasă cu brânzele moi și cremoase, dar poate fi folosită și cu brânzeturi maturate sau albastre. Aroma fructată și dulce-acrișoară a cremei va adăuga un strat de complexitate gustului brânzei. Este un produs gastronomic cu un gust dulce, cu un ton foarte intunecat si o textura foarte densa, fiind acompaniamentul ideal pentru carne si peste, pentru salate sau legume la gratar si pentru carpaccio, sosuri si branzeturi maturate. Acest otet este realizat cu o selectie de cirese de cea mai buna calitate, printr-un proces artizanal, si este perfect pentru a imbogati mancarurile traditionale. Aroma sa este destul de intensa, asa ca cu o cantitate mica va fi suficienta pentru a imbogati mancarurile. Ingrediente: aceto balsamico di modena IGP (70%) (oțet de vin, must de struguri concentrat, colorant (E-150d) (sulfiți)), zahăr, sirop de glucoză-fructoză,agent de îngroșare (amidon modificat, gumă xantan), aromă. Informatii nutritionale/100 ml: Valoare energetica 811 kJ/191 kcal, Grasimi 0g, din care grasimi saturate 0g, Carbohidrati 45g, Zahar 41g, Proteine 0g, Sare 0,01g. Greutate: 150 ml Brand: La Chinata Tara de origine: Spania
-  Updated: 2026-02-02T22:03:15Z
+  Updated: 2026-02-05T13:50:12Z
   Vendor: Delicatessen
   Product Type: Otet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/crema-aromatizada-con-cereza-elaborada-con-aceite-balsamico-de-modena-la-chinata.jpg?v=1637164267
   Price: 30,00 lei RON
 - [Peltea de gutui Belberry 215g](https://delicatessen.ro/products/peltea-de-gutui-215g): Minunat pe toast sau in deserturi, jeleul de gutui de la Belberry este foarte aromat si are o culoare superba. Ingrediente: suc de gutui 53% zahar gelifiant: pectina suc de lamaie. Informatii nutritionale/100 g: valoare energetica: 1327kJ/314kcal, grasimi <0.5g, din care grasimi saturate 0.1g, carbohidrati 74g, din care zahar 70g, fibre alimentare 1.1g, proteine 1.1g, sare 0.03g. Dupa deschidere, pastrati la frigider. Greutate: 215g Dimensiuni: 8 x 6.5 cm Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-04T17:55:48Z
+  Updated: 2026-02-10T09:09:38Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
@@ -1226,7 +1331,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/Attaque-Or-100g-2_1.png?v=1768825411
   Price: 20,00 lei RON
 - [Sos de Roșii Coapte - Rețetă Tradițională 330g](https://delicatessen.ro/products/sos-de-rosii-coapte-reteta-traditionala-330g): Ingrediente: rosie, zahar, ulei de masline extravirgin, sare, bulion de legume (ceapa, ardei, dovlecei, usturoi), acidulant (acid citric).Informatii nutritionale/100 g: Valoare energetica 389.2kJ/93.4kcal Grasimi 5.8g, din care grasimi saturate 1.1g, Carbohidrati 8.4g, Zahar 6.8g, Proteine 1.6g, Sare 1.6g. Greutate: 330g Brand: Don Gastronom Tara de origine: Spania
-  Updated: 2026-02-04T11:43:47Z
+  Updated: 2026-02-09T08:38:02Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
@@ -1261,21 +1366,28 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/pere.gif?v=1705490382
   Price: 10,00 lei RON
 - [Marmelada de 4 citrice Belberry 215g](https://delicatessen.ro/products/copy-of-gem-de-4-fructe-215g): Marmelada de 4 citrice este produsa in Belgia dupa o veche reteta de familie, reteta ramanand aceeasi si astazi. Aceasta delicioasa marmelada prezinta un echilibru perfect datorita folosirii celor mai bune citrice din intreaga lume. Ingrediente: zahar, suc de mere, portocale (22%), grapefruit roz (5.5%), lime (5.5%), mandarine (5.5), gelifiant: pectina. Informatii nutritionale/100 g: valoare energetica: 1044kJ/247kcal, grasimi 0.1g, din care grasimi saturate 0g, carbohidrati 60g (zaharuri 59g), fibre alimentare 0.8g, proteine 0.7g, sare <0.01g. Dupa deschidere, pastrati la frigider. Greutate: 215g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-01-31T10:14:27Z
+  Updated: 2026-02-10T08:31:16Z
   Vendor: Delicatessen
   Product Type: Gemuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/4-citrice.jpg?v=1645702789
   Price: 30,00 lei RON
+- [Crema de ciocolata belgiana cu caramel Belberry 135g](https://delicatessen.ro/products/copy-of-crema-caramel-cu-fleur-de-sel-135g): Amestecul de ciocolata belgiana si caramel cu note puternice de cacao, un desert ideal pentru iubitorii de ciocolata. Indiferent daca folositi aceasta crema pentru a o intinde pe paine prajita sau ca ganache pentru desert, papilele dvs. vor fi entuziasmate. Ingrediente: sirop de glucoza ciocolata 20% (cacao, zahar, unt de cacao, emulsificator: lecitina din soia, aroma naturala de vanilie) zahar lapte condensat apa unt (din lapte) smantana (din lapte) fleur de sel 1%. Informatii nutritionale/100 g: Valoare energetica: 1650kJ/395 kcal Grasimi 15g, din care grasimi saturate 10g Carbohidrati 64g Zahar 58g Fibre alimentare 4.8g Proteine 2g Sare 1g Dupa deschidere, pastrati la frigider. Greutate: 135g Brand: Belberry Tara de origine: Belgia
+  Updated: 2026-02-10T08:30:21Z
+  Vendor: Delicatessen
+  Product Type: Dulciuri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/OrganicMadagascarVanilla-250g-2021-04-25T153813.417_2048x_8b2eb78d-c429-416c-a0a3-5b3f0aa8f830.webp?v=1646130112
+  Price: 30,00 lei RON
 - [Set Descoperire Bio My Day - Selecție Ceai și Rooibos](https://delicatessen.ro/products/discovery-set-my-day-bio-ceai-si-rooibos): O colectie de ceaiuri organice savuroase, un cadou desavarsit pentru iubitorii de ceai. Pachetul contine: Ceai alb cu piersica si caisa: Ceaiul alb Bai Mu Dan (bujor alb, in traducere) este un ceai delicat, care se recolteaza primavara. Parfumul sau floral se armonizeaza superb cu aromele fructate de piersica si caisa. Greutate: 15g Ceai negru rusesc: Ceai negru organic din China amestecat cu un cocktail de nu mai putin de 10 citrice (bergamota, mandarina, yuzu, limeta, portocala, pomelo etc), pentru o interpretare extraordinar de aromata a ceaiului negru clasic specific Rusiei. Greutate: 50g Rooibos bio cu vanilie: Un rooibos delicios, imbogatit cu vanilie pentru un gust mai dulce si aroma bogata. Minunat pentru beneficiile pentru sanatate si potrivit pentru intreaga familie! Greutate: 50g Ceai verde bio cu yuzu: Cultivat in Coreea de Sud, pe insula Jeju, cunoscuta sub numele de "insula zeilor" pentru climatul placut, aerul pur, solul vulcanic fertil si biodiversitatea incredibila, acest ceai verde cu frunzele  lunguiete, pregatit in wok urmand traditia coreeana veche de mii de ani, are o aroma delicata si subtila. Se potriveste perfect cu aroma fructului de yuzu - un mic fruct citric foarte aromat, care seamana cu lime-ul, dar si cu mandarinele salbatice. Ceaiul de yuzu (Yuja tea 유자차) este foarte popular in Coreea si este obtinut direct din fructe. Greutate: 30g Ceai verde cu menta: Ceai verde Gunpowder traditional cu frunze de menta proaspata pentru o aroma incredibila. Un ceai foarte proaspat, extrem de aromat. Trebuie baut foarte fierbinte pentru a profita de calitatile  digestive, dar si pentru savoare. Greutate: 35g Ceai organic Chai Masala: Un ceai traditional indian, Chai Masala este condimentat cu cardamom, scortisoara, piper roz si ghimbir. Merge foarte bine cu lapte. Greutate 50g Ingrediente: Ceai alb organic cu aroma de piersici si caise din Fujian: Ceai alb Bai Mu Dan* (China) 80%, aroma naturala* de piersici si alte arome naturale*. Rooibos organic cu aroma de vanilie din Africa de Sud: Rooibos*(1) 95% (Africa de Sud) aroma naturala de vanilie si alte arome naturale*. (1) Certificat Fair for Life Fair Trade. Ceai verde Gunpowder organic cu frunze de menta: ceai verde Gunpowder* (China) 60%, frunze de menta* 40%. Ceai verde coreean organic cu aroma de yuzu: ceai verde Daejak* (Coreea de Sud) 75%, extract de yuzu* 8%, bucati de lamaie*, extract de lamaie*, extract dulce de limetta*. Ceai negru rusesc bio: ceai negru* (China) 81%, citrice 7% (cuburi de portocale*, cuburi de grapefruit*, cuburi de lamaie*), aroma naturala de bergamota*, aroma naturala de mandarine*, aroma naturala de citrice*, aroma naturala de lime dulce*, aroma naturala de yuzu*, aroma naturala de floare de portocal*. Ceai negru organic Chai Masala si condimente: condimente* 41% (scortisoara*, cardamom*, ghimbir*, piper negru*, cuisoare*, boabe de piper roz*), ceai negru* 39% (India), portocale*, extract de condimente*, extract de scortisoara*. Greutate: 230g Brand: Terre d'Oc Tara de origine: Franta
-  Updated: 2026-02-04T09:09:49Z
+  Updated: 2026-02-10T13:32:26Z
   Vendor: Delicatessen
   Product Type: Ceai
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/image001.jpg?v=1739179043
   Price: 175,00 lei RON
 - [Set Cadou Belberry Miere Gem de Smochine & Vin de Porto](https://delicatessen.ro/products/set-cadou-belberry-miere-de-salcam-gem-de-smochine-si-vin-de-porto): Peltea de gutui si gem de fructe de padure , Belberry, intr-un saculet simpatic, din bumbac alb. Pachetul contine: 1 peltea de gutui, 215g 1 gem de fructe de padure, 215g un saculet alb de bumbac, marca Belberry. Greutate: 1 x 215g, 1 x 215g Brand: Belberry Tara de origine: Belgia
-  Updated: 2026-02-04T21:20:47Z
+  Updated: 2026-02-09T14:57:36Z
   Vendor: Delicatessen
   Product Type: Cadou
   Availability: Available
@@ -1289,7 +1401,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/bella-italia-pulcinella.jpg?v=1652965616
   Price: 42,00 lei RON
 - [Rigatoni "Pinocchio" 500g](https://delicatessen.ro/products/rigatoni-pinocchio): Culori si arome ale adevaratei traditii italienesti. Rigatoni cu sos cremos de pui și ciuperci: Ingrediente: 350 g de rigatoni 2 piepturi de pui, tăiate în cuburi 200 g ciuperci, feliate 1 ceapă mică, tocată 2 căței de usturoi, mărunțiți 200 ml smântână pentru gătit 50 g parmezan ras 1 lingură de unt Sare și piper, după gust Mărar proaspăt, tocat (opțional) Instrucțiuni: Fierbe rigatoni conform instrucțiunilor de pe ambalaj, până devin al dente. Scurge și păstrează la cald. Într-o tigaie mare, topește untul la foc mediu. Adaugă pieptul de pui și prăjește-l până devine aurii pe toate părțile. Scoate pieptul de pui din tigaie și pune-l deoparte. În aceeași tigaie, adaugă ceapa și usturoiul și călește-le până devin moi și aurii. Adaugă ciupercile feliate și gătește-le până se înmoaie și eliberează lichidul. Adaugă pieptul de pui prăjit înapoi în tigaie, împreună cu smântâna. Asezonează cu sare și piper după gust. Lasă să fiarbă la foc mic timp de aproximativ 5 minute, pentru a se combina aromele. Adaugă parmezanul ras și amestecă bine până se topește și se îngroașă sosul. Ajustează condimentele dacă este nevoie. Adaugă rigatoni în sosul de pui și ciuperci și amestecă bine până sunt acoperite cu sos. Servește rigatoni în farfurii și presară deasupra mărar proaspăt tocat, dacă dorești. Această rețetă simplă de rigatoni cu sos cremos de pui și ciuperci este savuroasă și satisfăcătoare. Poți adăuga și alte ingrediente preferate, precum legume proaspete sau ierburi aromatice, pentru a o personaliza în funcție de gusturile tale. Poftă bună! Pastele Bella Italia sunt realizate folosind tehnici artizanale, cu grau 100% italienesc, matrite din bronz si tavi de lemn, fiind atent selectionate si uscate la temperatura scazuta. Calitatea pastelor este combinata cu un ambalaj inovator si traditional in acelasi timp, inspirat din teatrul de papusi si Carnavalul de la Venetia. Pastele "taiate cu bronz" sunt obtinute folosind matrite din bronz pentru paste. In comparatie cu pastele obisnuite, au o culoare aurie intensa si o suprafata mai aspra, ceea ce permite sosului sa patrunda mai usor in textura poroasa a pastelor. Matrita pe care o folosesc producatorii pentru extrudarea pastelor influenteaza forma, culoarea si textura, deci calitatea finala a acestora. Astfel folosind matrite din bronz se obtin paste de calitate superioara. Pentru ca mesele dvs. cu paste gatite acasa sa arate, sa miroasa si sa aiba un gust mai bun, gatiti cu paste "taiate cu bronz". Ingrediente: Faina de grau dur. Poate contine urme de ou, soia, telina, mustar si cerneala de calmar (molusca). A se pastra intr-un loc uscat si racoros. Timp de preparare: 8/9 min. Informatii nutritionale/100 g: Valoare energetica kJ/kcal 1509/356; Grasimi 1,4g din care saturate 0,4g; Carbohidrati 72g din care zaharuri 2,9g; Fibre 3,4g; Proteine 12,5g; Sare 0,01g. Cutia poate fi folosita ulterior pentru depozitarea oricarui tip de paste. Dimensiuni Lxd: 31 x 9cm Greutate: 500g Brand: Antico Pastificio Umbro Tara de origine: Italia
-  Updated: 2026-01-27T11:56:57Z
+  Updated: 2026-02-09T14:57:36Z
   Vendor: Delicatessen
   Product Type: Paste Fainoase & Orez
   Availability: Available
@@ -1303,7 +1415,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/bella-italia-arlecchinobitubi04.jpg?v=1653029463
   Price: 42,00 lei RON
 - [Somon din Insulele Feroe Fangst 110g](https://delicatessen.ro/products/somon-din-insulele-feroe): Somon din Insulele Feroe, preparat la gratar si conservat in ulei de rapita presat la rece.Apele limpezi ale Atlanticului de Nord, temperaturile scazute constante, curentii puternici si fiordurile protejate fac din Insulele Feroe locul perfect pentru cresterea somonului. Aici oamenii traiesc in largul oceanului de secole, avand traditii puternice si respect pentru resursele naturii. Acest lucru se reflecta si in standardele inalte de durabilitate in piscicultura locala.Specia (latina): Salmo SalarApa: Atlanticul de Nord-Est (FAO 27). Cultivat in Insulele FeroeIngrediente: Somon (81%), ulei de rapita presat la rece, sare.Valori nutritionale la 100g: energie: 1059 kJ / 255 kcal, grasime: 20g, din care acizi saturati 1,6, carbohidrati: 0,6 g, din care zaharuri: 0g, proteine: 18 g,sare: 0,9 g.Pastrare: temperatura camerei (dupa deschidere 1-2 zile la frigider). Greutate neta: 110g Valabilitate: cel putin 2 ani. Brand: Fangst Tara de origine: Danemarca
-  Updated: 2026-02-04T11:36:06Z
+  Updated: 2026-02-07T20:09:41Z
   Vendor: Delicatessen
   Product Type: Peste si fructe de mare
   Availability: Available
@@ -1338,21 +1450,21 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/BIBU0008-TAGLIATELLE-AL-NERO-DI-SEPPIA-250g.jpg?v=1653299148
   Price: 24,00 lei RON
 - [Tagliatelle cu trufe Antico Pastificio Umbro 250g](https://delicatessen.ro/products/tagliatelle-cu-trufe-250g): Tagliatelle din faina de grau dur cu trufe. Culori si arome ale adevaratei traditii italienesti. Pastele Bella Italia sunt realizate folosind tehnici artizanale, cu grau 100% italienesc, matrite din bronz si tavi de lemn, fiind atent selectionate si uscate la temperatura scazuta. Calitatea pastelor este combinata cu un ambalaj inovator si traditional in acelasi timp. Pastele "taiate cu bronz" sunt obtinute folosind matrite din bronz pentru paste. In comparatie cu pastele obisnuite, au o culoare aurie intensa si o suprafata mai aspra, ceea ce permite sosului sa patrunda mai usor in textura poroasa a pastelor. Matrita pe care o folosesc producatorii pentru extrudarea pastelor influenteaza forma, culoarea si textura, deci calitatea finala a acestora. Astfel folosind matrite din bronz se obtin paste de calitate superioara. Pentru ca mesele dvs. cu paste gatite acasa sa arate, sa miroasa si sa aiba un gust mai bun, gatiti cu paste "taiate cu bronz. Ingrediente: Faina de grau dur, ciuperci porcini (Boletus edulis si soiuri relative), trufe de vara (Tuber aestivum Vitt.) 1%, aroma, sare. Poate contine ou, soia, mustar si cerneala de calmar (moluste). A se pastra intr-un loc uscat si racoros. Timp de preparare: 7 min. Informatii nutritionale/100 g: Valoare energetica kJ/kcal 1506/355; Grasimi 1,4g din care saturate 0,4g; Carbohidrati 71,5g din care zaharuri 2,9g; Proteine ​​12,4 g; sare 0,05 g. Dimensiuni Lxlxh: 15 x 7 x 30 cm Greutate: 250g Brand: Antico Pastificio Umbro Tara de origine: Italia Reteta: Ingrediente: 250 g tagliatelle cu trufe proaspete sau uscate 30 g unt 2 catei de usturoi, tocati fin 150 ml smantana lichida 50 g parmezan ras 1-2 trufe proaspete sau trufe conservate, rase sau taiate felii subtiri Sare si piper negru proaspat macinat Frunze de patrunjel proaspat, tocate pentru decor Instructiuni: Incepe prin a pregati tagliatellele cu trufe conform instructiunilor de pe ambalaj. Fierbe-le in apa cu sare, apoi scurge-le si lasa-le deoparte. Intr-o tigaie mare, topeste untul la foc mediu. Adauga usturoiul tocat si caleste-l pana devine usor auriu si aromat. Adauga smantana lichida in tigaie si las-o sa fiarba la foc mic timp de cateva minute, amestecand continuu. Acest lucru va ajuta la ingrosarea sosului. Dupa ce sosul s-a ingrosat usor, adauga parmezanul ras si amesteca bine pana se topeste si se incorporeaza in sos. Asezoneaza cu sare si piper dupa gust. Adauga tagliatellele cu trufe scurse in tigaie si amesteca-le cu sosul, asiguandu-te ca sunt bine acoperite. Acum este momentul sa adaugi trufele. Daca folosesti trufe proaspete, poti sa le razi deasupra pastelor sau sa le tai felii subtiri si sa le amesteci in compozitie. Daca folosesti trufe conservate, taie-le felii subtiri si amesteca-le in tigaie impreuna cu tagliatellele si sosul. Dupa ce ai amestecat bine, lasa tagliatellele cu trufe sa se incalzească la foc mic timp de aproximativ 2-3 minute. Serveste tagliatellele cu trufe imediat, presarate cu patrunjel proaspat tocat pentru decor. Aceasta reteta simpla si eleganta de tagliatelle cu trufe este perfecta pentru a te bucura de aromele trufelor intr-un fel de mancare clasic al bucatariei italiene. Bucura-te de aceasta delicatesa alaturi de cei dragi!
-  Updated: 2026-01-27T11:57:00Z
+  Updated: 2026-02-09T08:38:02Z
   Vendor: Delicatessen
   Product Type: Paste Fainoase & Orez
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/pasta_bella_italia_tartufo_antico_pastificio-250g-BIBU0013.jpg?v=1653300857
   Price: 28,00 lei RON
 - [Sos Arrabiata - sos de rosii si ardei iute 180g](https://delicatessen.ro/products/sos-arrabiata-sos-de-rosii-si-ardei-iute-180g): Retete echilibrate si savuroase, dezvoltate pentru a satisface toate gusturile, pastrand reteta originala. Perfecte cu orice tip de paste, sau intinse pe paine pentru un aperitiv sau un antipasto gustos. Utilizare: se adauga direct peste pastele scurse. Sosurile Bella Italia contin cele mai bune ingrediente : pulpa de rosii 83%, pasta de rosii dublu concentrata, ulei de masline extravirgin, zahar, sare, ardei iute 0,2% (origine non UE), busuioc, usturoi. Poate contine telina. Origine rosii: Italia. A se pastra intr-un loc uscat si racoros. Dupa deschidere se pastreaza la frigider si se consuma in decurs de 5 zile. Informatii nutritionale/100 g: Valoare energetica kJ/kcal 262/63; Grasimi 3,3g din care saturate 0,5g; Carbohidrati 5,8g din care zaharuri 5,0g; Proteine 1,6g; sare 1,1 g Greutate: 180g Brand: Antico Pastificio Umbro Tara de origine: Italia
-  Updated: 2026-01-27T11:57:00Z
+  Updated: 2026-02-06T21:53:56Z
   Vendor: Delicatessen
   Product Type: Sosuri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/sugo-arrabiata-BISU02.jpg?v=1653378368
   Price: 18,00 lei RON
 - [Pachet cadou Penne i Salsa Tartufata Antico Pastificio Umbro 780g](https://delicatessen.ro/products/pachet-cadou-penne-i-salsa-tartufata): Un cadou practic, delicios si neobisnuit. Componenta pachet: Penne 500g Salsa Tartufata 180g Condimente picant 100g Ingrediente: Penne: Faina de grau dur. Poate contine soia si mustar. Timp de preparare: 9/10 min. Condiment picant: Ardei iute 49% (origine: non UE), busuioc, usturoi, sare, patrunjel, in proportii variabile. Poate contine urme de gluten, ou, arahide, nuci caju si telina. Recomandare: pentru sosuri si preparate din carne sau pentru a adauga un plus de gust pastelor. Salsa Tartufata: Ciuperci Champignons (Agaricus bisporus) 63%, ulei de masline extravirgin, ciuperci porcini (Boletus edulis si alte soiuri) 7%, masline negre, trufe negre de vara (Tuber aestivum Vitt) 2%, patrunjel deshidratat, sare, aroma naturala, usturoi, regulator de aciditate: E270, aroma. Poate contine arahide, lapte si nuci. Originea ciupercilor: UE. A se pastra intr-un loc uscat si racoros. Dupa deschidere se pastreaza la frigider si se consuma in decurs de 5 zile. Informatii nutritionale: Penne: Valoare energetica kJ/kcal 1509/356; Grasimi 1,4g din care saturate 0,4g; Carbohidrati 72g din care zaharuri 2,9g; Proteine 12,5g; Sare 0,01g. Condiment picant: Valoare energetica kJ/kcal 1357/324; Grasimi 8,4g din care saturate 1,5g; Carbohidrati 40,9g din care zaharuri 7,6g; Proteine 11,1g; Sare 15,45g. Salsa tartufata: Valoare energetica kJ/kcal 757/184; Grasimi 18,7g din care saturate 3,3g; Carbohidrati 0,6g din care zaharuri 0,6g; Proteine 2,3g; Sare 1,4g. Dimensiuni Lxlxh: 30.5 x 20 x 7 cm Greutate: 780g Brand: Antico Pastificio Umbro Tara de origine: Italia
-  Updated: 2026-02-02T09:03:38Z
+  Updated: 2026-02-09T08:38:01Z
   Vendor: Delicatessen
   Product Type: Paste Fainoase & Orez
   Availability: Available
@@ -1380,7 +1492,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/fruits-de-mer.jpg?v=1654517901
   Price: 55,00 lei RON
 - [Amaranta Montepulciano d'Abruzzo Tenuta Ulisse - Vin Rosu](https://delicatessen.ro/products/amaranta-montepulciano-d-abruzzo-dop-750ml): Vinurile produse de Tenuta Ulisse sunt apreciate pentru expresivitatea lor, complexitatea aromelor si echilibrul perfect intre fructuozitate si structura. Indiferent daca este vorba despre un Montepulciano d'Abruzzo intens si bogat în arome de fructe de padure si mirodenii sau despre un Trebbiano d'Abruzzo proaspat si vibrant, fiecare pahar ofera o experienta gustativa deosebita. AMARANTA Montepulciano D’Abruzzo este un vin cru obtinut din cei mai buni struguri rosii din Abruzzo, Montepulciano, gratie terroir-urilor si microclimelor spectaculoase din aceasta regiune. AMARANTA Montepulciano D’Abruzzo este un vin rosu rubiniu cu reflexe granat, parfum intens si persistent. Buchetul este profund, fructat, persistent, cu note de flori uscate, condimente, lemn dulce si cirese marasca. Gustul este stilat, catifelat, aproape cremos, compact cu structura tanica care se imbina frumos cu componenta alcoolica. Grozav structurat, complex, elegant, bine echilibrat, cu un postgust lung. Ideal pentru fripturi, vanat, mancaruri puternic aromate si branzeturi mature. Vin rosu, sec Tarie alcoolica: 14% Greutate: 750ml Tara de origine: Italia
-  Updated: 2026-02-04T08:45:11Z
+  Updated: 2026-02-05T00:59:06Z
   Vendor: Delicatessen
   Product Type: alcool
   Availability: Available
@@ -1470,70 +1582,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/files/pecorino.gif?v=1704708233
   Price: 64,00 lei RON
-- [Vin rosu Podere Gelso Nero, Nero di Troia, 750ml](https://delicatessen.ro/products/podere-gelso-nero-nero-di-troia-750ml): Nero di Troia sau Uva di Troia, asa cum mai este numit, este in top 3 struguri albastri cel mai cultivati in Puglia, dupa Negroamaro si Primitivo. Crama Podere29 este situata in Puglia, unul dintre cele mai generoase districte viticole din Italia. Aici, terenul este cultivat de o familie pasionata care pune mare pret pe lucrul ecologic si în interactiune cu natura. Acest vin are o culoare rubinie intensa cu reflexe violet. Nasul este bogat in esente de fructe rosii, smochine, note de condimente precum piper negru si note de cuisoare. Gelso Nero di Troia este un insotitor ideal pentru preparatele din vita, miel sau paste. Vin rosu, sec Tarie alcoolica: 13% Greutate: 750ml Tara de origine: Italia
-  Updated: 2026-01-27T11:57:06Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/podere-gelso.jpg?v=1660896904
-  Price: 81,00 lei RON
-- [Vin rosu Podere Unio - Nero di Troia & Primitivo, 750ml](https://delicatessen.ro/products/podere-unio-nero-di-troia-primitivo-750ml): Un vin rosu corpolent, cu gust de prune coapte si marmelada de cirese. Caracterizat de taninuri moi, cu un final proaspat. Podere este o crama situata in Puglia, unul dintre cele mai generoase districte viticole din Italia. Aici, terenul este cultivat de o familie pasionata care pune mare pret pe lucrul ecologic si in interactiunea cu natura. Crama Podere29 produce vinuri, atat utilizand cei mai faimosi struguri din sudul Italiei, Primitivo - cunoscut sub numele de Zinfandel in SUA - cat si utilizand alte soiuri, precum Nero di Troia si Minutolo. Podere Unio este un insotitor ideal pentru preparatele din carne rosie sau pentru paste. Vin rosu, sec Tarie alcoolica: 13.5% Greutate: 750ml Tara de origine: Italia
-  Updated: 2026-01-27T11:57:06Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/podere-unio.jpg?v=1660897178
-  Price: 81,00 lei RON
-- [Vin alb Scaia Garganega Chardonnay, 750ml](https://delicatessen.ro/products/scaia-garganega-chardonnay-750ml): Din soluri albe, calcaroase si sfaramicioase. Scaia - atentie, imaginatie si struguri tipici teritoriului: "semnificatia contemporana a unei traditii stravechi". Scaia Garganega Chardonnay este un cuvée format din struguri Garganega si Chardonnay. Cu linia Scaia, fratii Castagnedi din domeniul Tenuta Sant’Antonio au creat vinuri inovatoare - o interpretare moderna a marii traditii a cramei Tenuta Sant’Antonio. Strugurii culesi manual sunt presati usor si maturati in rezervoare de otel inoxidabil la temperaturi scazute, controlate, rezultand astfel vinuri placute, proaspete si aromate. Un vin cu o aroma de flori albe de salcam si iasomie si un buchet de citrice precum ananas, grapefruit si portocala, mar, pere si mango si o nota usoara de banane. Datorita aciditatii  distincte, dar bine echilibrate, vinul este proaspat si moale la gust. Serveste acest vin alb unic cu aperitive cu peste, salate, risotto de legume, preparate din paste sau peste cu sosuri usoare. Vin alb, sec Tarie alcoolica: 12.5% Greutate: 750ml Tara de origine: Italia
-  Updated: 2026-01-27T11:57:06Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/scaiagarganega.webp?v=1654682547
-  Price: 83,00 lei RON
-- [Vin rosu Scaia Corvina, IGT, 750ml](https://delicatessen.ro/products/scaia-corvina-igt-750ml): In dialectul Veneto, cuvantul „scaia” inseamna o aschie de piatra, creta, calcar: este un tribut adus solului unde se produc aceste vinuri tinere, unice.Strugurii Corvina pentru Scaia Corvina sunt presati usor dupa recoltare si apoi fermentati in rezervoare de otel inoxidabil la temperaturi controlate. Rezultatul este un vin rosu-rubiniu care ofera note florale de trandafiri si violete si arome fructate de fructe de padure, cirese, prune, mure, coacaze rosii si negre si zmeura. Vinul este intens, bine echilibrat, acidulat si proaspat, cu un corp bun in ciuda lejeritatii tinere.Scaia Corvina Rossa se potrivește de minune cu preparate din paste si risotto, carne rosie, mamaliga si branzeturi maturate. Vin rosu, sec Tarie alcoolica: 13% Greutate: 750ml Tara de origine: Italia
-  Updated: 2026-01-27T11:57:06Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/scaia-corvina.jpg?v=1654683289
-  Price: 75,00 lei RON
-- [Vin rose Scaia Rosato, 750ml](https://delicatessen.ro/products/scaia-rosato-750ml): Crama Tenuta Sant’Antonio este condusa de fratii Castagnedi cu mare pasiune. Cu vinurile din linia Scaia si-au indeplinit visul de a reinventa vinul intr-o moda care sa raspunda mai bine cerintelor tinerilor producatori. Au creat ceva foarte inovator - o interpretare contemporana a traditiei magnifice a cramei Tenuta Sant’Antonio.Vinul este placut, proaspat si aromat. Strugurii Rondinella pentru Scaia Rosato sunt presati usor. Dupa un scurt contact cu pielea, mustul este fermentat in rezervoare de otel inoxidabil la temperaturi controlate. Un vin roz stralucitor. Buchetul sau ofera arome care amintesc de trandafiri si zmeura. Rosé-ul este fructat la palat, prezentand o prospetime bine echilibrata. Scaia Rosato este un acompaniament ideal pentru preparate cu paste, risotto, carne alba si carne de pasare. Se potriveste bine si cu mamaliga, branzeturi proaspete si peste. Vin rosé Tarie alcoolica: 12.5% Greutate: 750ml Tara de origine: Italia
-  Updated: 2026-01-27T11:57:06Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/scaia-rosato.jpg?v=1654683784
-  Price: 72,00 lei RON
-- [Vin alb Dulce Fanny Alb, Crama Stefanesti, 500ml](https://delicatessen.ro/products/dulce-fanny-alb-500ml): Dulce Fanny Alb este un vin obtinut din struguri Riesling de Rin. Un vin citric si aromat, lejer, potrivit pentru aperitiv sau un desert usor. Vin alb Tarie alcoolica: 10% Greutate: 500ml Tara de origine: Romania
-  Updated: 2026-01-27T11:57:07Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/dulce_fanny_alb.jpg?v=1654758686
-  Price: 50,00 lei RON
-- [Vin alb Feteasca Alba, Bauer, 750ml](https://delicatessen.ro/products/feteasca-alba-bauer-750ml): Filozofia Bauer: “Creativitate naturala!” Un vin crocant, o feteasca alba cu gust subtil, dar in acelasi timp expresiv, cu potential bun de invechire. Buchetul este proaspat, dezvaluind arome delicioase de fructe exotice si flori albe. Gustul are o aciditate perfect dozata si se pastreaza pana in postgust. Ideal cu preparate pe baza de peste (la cupor sau gratar), preparate cu pui sau curcan, branza maturata, cremoasa. Vin alb, sec Tarie alcoolica: 13% Greutate: 750ml Tara de origine: Romania
-  Updated: 2026-01-27T11:57:07Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/l-bauer-feteasca-alba.jpg?v=1654761757
-  Price: 60,00 lei RON
-- [Gin Z44, Roner, 700ml](https://delicatessen.ro/products/gin-z44-roner-30ml): Un Gin plin de gratie... ca o invitatie la o calatorie aromata. Acesta este un gin din Tirolul de Sud, produs de compania Roner cu mare atentie la detalii. Ginul distilat Z44 trezeste imediat curiozitatea. La urma urmei, nu in fiecare zi intalniti un brand de bauturi spirtoase al carui nume de marca este format dintr-o singura litera si doua cifre. Pentru a face Gin Z44 se folosesc boabe de ienupar, radacina de violeta, coriandru, radacina de gentiana, coaja de portocala, seminte de cardamom si alte ierburi si flori alpine si mediteraneene. Plantele pentru gin sunt macerate la rece timp de 12 ore si apoi distilate usor. La distilatul de gin se adauga o anumita proportie din esenta conurilor de pin (dupa o reteta speciala Roner), ceea ce ii confera atingerea sa unica. Ideal a fi servit ca aperitiv, cocktail, cu apa tonica. Tarie alcoolica: 44% Greutate: 700ml Tara de origine: Italia
-  Updated: 2026-01-27T11:57:07Z
-  Vendor: Delicatessen
-  Product Type: alcool
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/Gin-Z4430ml.jpg?v=1660722002
-  Price: 262,00 lei RON
-- [Turta dulce cu ciocolata alba si coacaze Kopernik 150g](https://delicatessen.ro/products/copy-of-turta-dulce-cu-ciocolata-alba-si-coacaze): Turta dulce umpluta cu dulceata de coacaze si acoperita cu ciocolata alba - delicios! Poate fi parte dintr-un cadou gourmet sau un "treat" langa o ceasca de ceai. Ingrediente: ciocolata alba 30% (zahar, unt de cacao, lapte praf integral, zer, emulsificator(lecitina din soia), arome), faina de grau, umplutura 19% (piure de mere, zahar, suc concentrat de coacaze 1%, agent gelifiant (pectina), regulator de aciditate (acid citric), conservant (sorbat de potasiu), arome, suc concentrat de aronia), colorant (caramel), agent de crestere (carbonat de amoniu), condimente, sare, regulator de aciditate (acid citric).Produsul contine faina de grau, faina de secara, lapte praf integral, faina de zer, lecitina din soia. Poate contine oua, arahide si alune. Informatii nutritionale/100 g: Valoare energetica 1652kJ/392kcal Grasimi 9.3g, din care grasimi saturate 5.5g, Carbohidrati 70g, Zahar 48g, Fibre alimentare 0g, Proteine 5.4g, Sare 0.16g Greutate: 150g Dimensiuni: 7.5 x 3.5 x 20.5cm Brand: Kopernik Tara de origine: Polonia
-  Updated: 2026-02-02T12:30:25Z
-  Vendor: Delicatessen
-  Product Type: Specialitati
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0101/2174/0343/products/turta_dulce_coacaze_4141636c-74bd-46c8-b506-d183b8f0abab.jpg?v=1655380822
-  Price: 22,00 lei RON
-[List Continued](https://delicatessen.ro/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NjY5MjE4OTA2MTY3LCJsYXN0X3ZhbHVlIjoiNjY2OTIxODkwNjE2NyJ9)
+[List Continued](https://delicatessen.ro/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NjY3NjYyNzUzODQ3LCJsYXN0X3ZhbHVlIjoiNjY2NzY2Mjc1Mzg0NyJ9)
 
 ## Collections
 
@@ -1541,41 +1590,41 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2023-08-17T10:08:08Z
   Total Products: 0
 - [Masline si ulei de masline](https://delicatessen.ro/collections/ulei-de-masline): Descoperă Masline si ulei de masline pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-11T12:03:44Z
   Total Products: 50
 - [Colectia Infuzii - Delicatessen](https://delicatessen.ro/collections/masline): Descoperă Masline pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:00:00Z
+  Updated: 2026-02-10T12:46:21Z
   Total Products: 13
 - [Colectia Dulciuri](https://delicatessen.ro/collections/dulciuri): Descoperă Dulciuri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 461
+  Updated: 2026-02-12T15:17:57Z
+  Total Products: 478
 - [Colectia Infuzii - Delicatessen](https://delicatessen.ro/collections/infuzii): Descoperă Infuzii pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:00:00Z
   Total Products: 0
 - [Colectia Gemuri - Delicatessen](https://delicatessen.ro/collections/gemuri): Descoperă Gemuri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 63
 - [Colectia Miere - Delicatessen](https://delicatessen.ro/collections/miere): Descoperă Miere pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:00:00Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 6
 - [Colectia Pateuri si creme - Delicatessen](https://delicatessen.ro/collections/pateuri-si-creme): Descoperă Pateuri si creme pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:36Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 49
 - [Colectia Conserve - Delicatessen](https://delicatessen.ro/collections/conserve): Descoperă Conserve pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T09:59:59Z
   Total Products: 0
 - [Sare si condimente](https://delicatessen.ro/collections/sare-si-condimente): Descoperă Sare si condimente pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-03T12:03:31Z
+  Updated: 2026-02-11T12:03:44Z
   Total Products: 11
 - [Colectia Sosuri - Delicatessen](https://delicatessen.ro/collections/sosuri): Descoperă Sosuri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 72
+  Updated: 2026-02-11T12:03:47Z
+  Total Products: 74
 - [Colectia Otet - Delicatessen](https://delicatessen.ro/collections/otet): Descoperă Otet pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:00:00Z
-  Total Products: 21
+  Updated: 2026-02-10T08:35:36Z
+  Total Products: 22
 - [Colectia Delicatese](https://delicatessen.ro/collections/delicatese): Descoperă Delicatese pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 454
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 458
 - [Colectia Cosmetice - Delicatessen](https://delicatessen.ro/collections/cosmetice): Descoperă Cosmetice pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T09:59:59Z
   Total Products: 3
@@ -1616,11 +1665,11 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-02-04T10:04:36Z
   Total Products: 0
 - [Cadouri pentru femei](https://delicatessen.ro/collections/cadouri-pentru-femei): Descoperă Cadouri pentru femei pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 116
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 117
 - [Cadouri pentru barbati](https://delicatessen.ro/collections/cadouri-pentru-barbati): Descoperă Cadouri pentru barbati pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-02T12:03:19Z
-  Total Products: 59
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 60
 - [Cadouri pentru copii](https://delicatessen.ro/collections/cadouri-pentru-copii): Descoperă Cadouri pentru copii pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:27Z
   Total Products: 0
@@ -1628,38 +1677,38 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-01-27T13:25:28Z
   Total Products: 0
 - [Cadouri gourmet](https://delicatessen.ro/collections/cadouri-gourmet): Descoperă Cadouri gourmet pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 52
 - [Cosmetice cadou](https://delicatessen.ro/collections/cosmetice-cadou): Descoperă Cosmetice cadou pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:29Z
   Total Products: 5
 - [Colectia Cadouri - Delicatessen](https://delicatessen.ro/collections/cadouri): Descoperă Cadouri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 315
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 322
 - [Colectia Cognac - Delicatessen](https://delicatessen.ro/collections/cognac): Descoperă Cognac pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T09:59:59Z
   Total Products: 28
 - [Colectia Armagnac - Delicatessen](https://delicatessen.ro/collections/armagnac): Descoperă Armagnac pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T09:59:58Z
+  Updated: 2026-02-05T12:02:55Z
   Total Products: 12
 - [Colectia Rom - Delicatessen](https://delicatessen.ro/collections/rom): Descoperă Rom pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:04:37Z
   Total Products: 0
 - [Colectia Vin - Delicatessen](https://delicatessen.ro/collections/vin): Descoperă Vin pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:38Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 163
 - [Sampanie & spumante](https://delicatessen.ro/collections/sampanie-spumante): Descoperă Sampanie & spumante pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-02T18:58:42Z
+  Updated: 2026-02-07T12:02:52Z
   Total Products: 83
 - [Colectia Whisky - Delicatessen](https://delicatessen.ro/collections/whisky): Descoperă Whisky pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:04:39Z
   Total Products: 74
 - [Colectia Bauturi - Delicatessen](https://delicatessen.ro/collections/bauturi): Descoperă Bauturi pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T09:59:58Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 450
 - [Colectia Pralinee - Delicatessen](https://delicatessen.ro/collections/praline-belgiene): Descoperă Praline pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 102
+  Updated: 2026-02-12T15:17:57Z
+  Total Products: 109
 - [Colectia Cutii cadou - Delicatessen](https://delicatessen.ro/collections/cutii-cadou): Descoperă Cutii cadou pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T09:59:59Z
   Total Products: 0
@@ -1667,46 +1716,46 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-02-04T09:47:00Z
   Total Products: 4
 - [Colectia Ciocolata](https://delicatessen.ro/collections/ciocolata): Descoperă Ciocolata pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 311
+  Updated: 2026-02-12T15:17:57Z
+  Total Products: 318
 - [Ulei de Masline Simplu](https://delicatessen.ro/collections/ulei-de-masline-simplu): Descoperă Ulei de Masline Simplu pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-01-31T12:03:13Z
+  Updated: 2026-02-11T12:03:44Z
   Total Products: 6
 - [Ulei de Masline Aromatizat](https://delicatessen.ro/collections/ulei-de-masline-aromatizat): Descoperă Ulei de Masline Aromatizat pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-01T12:02:56Z
+  Updated: 2026-02-06T12:03:02Z
   Total Products: 10
 - [Ulei de Masline Infuzat](https://delicatessen.ro/collections/ulei-de-masline-infuzat): Descoperă Ulei de Masline Infuzat pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-03T12:03:31Z
   Total Products: 4
 - [Ulei de Masline Ambalaje Speciale](https://delicatessen.ro/collections/ulei-de-masline-ambalaje-speciale): Descoperă Ulei de Masline Ambalaje Speciale pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-07T12:02:52Z
   Total Products: 5
 - [Ciocolata Tablete](https://delicatessen.ro/collections/ciocolata-tablete): Descoperă Ciocolata Tablete pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 62
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 64
 - [Crema de Ciocolata](https://delicatessen.ro/collections/crema-de-ciocolata): Descoperă Crema de Ciocolata pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:29Z
   Total Products: 0
 - [Colectia Ceaiuri - Delicatessen](https://delicatessen.ro/collections/ceaiuri): Descoperă Ceaiuri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 90
+  Updated: 2026-02-11T12:03:44Z
+  Total Products: 91
 - [Colectia Panettone - Delicatessen](https://delicatessen.ro/collections/panettone): Descoperă Panettone pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:36Z
-  Total Products: 30
-- [Colectia Biscuiti - Delicatessen](https://delicatessen.ro/collections/biscuiti): Descoperă Biscuiti pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-10T13:49:44Z
   Total Products: 40
+- [Colectia Biscuiti - Delicatessen](https://delicatessen.ro/collections/biscuiti): Descoperă Biscuiti pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 46
 - [Colectia Specialitati - Delicatessen](https://delicatessen.ro/collections/specialitati): Descoperă Specialitati pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 56
 - [Cele mai cumparate](https://delicatessen.ro/collections/cele-mai-cumparate): Descoperă Cele mai cumparate pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T20:57:59Z
-  Total Products: 1200
+  Updated: 2026-02-12T20:37:18Z
+  Total Products: 1274
 - [Smochine in ciocolata](https://delicatessen.ro/collections/smochine-in-ciocolata): Descoperă Smochine in ciocolata pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 34
+  Updated: 2026-02-11T12:03:47Z
+  Total Products: 38
 - [Colectia Trufe de padure - Delicatessen](https://delicatessen.ro/collections/trufe-de-padure): Descoperă Trufe de padure pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T15:25:25Z
   Total Products: 42
 - [Colectia Garnituri - Delicatessen](https://delicatessen.ro/collections/garnituri): Descoperă Garnituri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:00:00Z
@@ -1718,41 +1767,41 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-01-27T13:25:32Z
   Total Products: 0
 - [Trufe de ciocolata](https://delicatessen.ro/collections/trufe-de-ciocolata): Descoperă Trufe de ciocolata pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 70
+  Updated: 2026-02-12T10:08:09Z
+  Total Products: 71
 - [Paste artizanale](https://delicatessen.ro/collections/paste-artizanale): Descoperă Paste artizanale pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:41:35Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 56
 - [Ceramica artizanala din Spania](https://delicatessen.ro/collections/cele-mai-vandute): Descoperă Ceramica artizanala din Spania pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T12:03:44Z
   Total Products: 86
 - [Peste si fructe de mare](https://delicatessen.ro/collections/peste-si-fructe-de-mare): Descoperă Peste si fructe de mare pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 49
 - [Cosuri cadou](https://delicatessen.ro/collections/cosuri-cadou): Descoperă Cosuri cadou pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-02T12:03:19Z
+  Updated: 2026-02-09T12:03:31Z
   Total Products: 5
 - [Colectia De rontait - Delicatessen](https://delicatessen.ro/collections/de-rontait): Descoperă De rontait pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:00:00Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 24
 - [Seturi cani pentru cadou](https://delicatessen.ro/collections/seturi-cani-pentru-cadou): Descoperă Seturi cani pentru cadou pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:33Z
   Total Products: 0
 - [Colectia Ceramica - Delicatessen](https://delicatessen.ro/collections/ceramica): Descoperă Ceramica pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 111
 - [Colectia Pachete cadou - Delicatessen](https://delicatessen.ro/collections/pachete-cadou): Descoperă Pachete cadou pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:36Z
-  Total Products: 125
+  Updated: 2026-02-10T12:03:21Z
+  Total Products: 131
 - [Colectia Accesorii - Delicatessen](https://delicatessen.ro/collections/accesorii): Descoperă Accesorii] pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T09:59:58Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 26
 - [Cadouri de 1 - 8 Martie](https://delicatessen.ro/collections/cadouri-de-1-8-martie): Descoperă Cadouri de 1 - 8 Martie pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 44
+  Updated: 2026-02-12T15:17:57Z
+  Total Products: 103
 - [Colectia Reduceri - Delicatessen](https://delicatessen.ro/collections/reduceri): Descoperă Reduceri pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 61
+  Updated: 2026-02-12T15:25:25Z
+  Total Products: 66
 - [Colectia Paste 2022 - Delicatessen](https://delicatessen.ro/collections/paste-2022): Descoperă Paste 2022 pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:04:36Z
   Total Products: 15
@@ -1763,7 +1812,7 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-02-04T10:04:37Z
   Total Products: 58
 - [Colectia Lichior - Delicatessen](https://delicatessen.ro/collections/lichior): Descoperă Lichior pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:00:00Z
+  Updated: 2026-02-07T12:02:52Z
   Total Products: 20
 - [Colectia Brandy - Delicatessen](https://delicatessen.ro/collections/brandy): Descoperă Brandy pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T09:59:59Z
@@ -1775,91 +1824,91 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-02-04T10:04:39Z
   Total Products: 6
 - [Colectia Cadouri de Crăciun - Delicatessen](https://delicatessen.ro/collections/cadouri-de-craciun): Descoperă Cadouri de Crăciun pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 119
 - [Colectia Paste 2024 - Delicatessen](https://delicatessen.ro/collections/paste-2023): Descoperă Paste 2024 pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 46
+  Updated: 2026-02-11T12:03:44Z
+  Total Products: 45
 - [Ouă de ciocolată](https://delicatessen.ro/collections/oua-de-ciocolata): Descoperă Ouă de ciocolată pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-10T11:51:50Z
   Total Products: 52
 - [Asortiment de trufe in cutie cadou hexagonala Green 24](https://delicatessen.ro/collections/asortiment-de-trufe-in-cutie-cadou-hexagonala-green-24): Descoperă Asortiment de trufe in cutie cadou hexagonala Green 24 pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:27Z
   Total Products: 1
 - [Colectia Exit - Delicatessen](https://delicatessen.ro/collections/exit)
-  Updated: 2026-02-04T10:00:00Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 4
 - [Pentru cel mai bun gratar!](https://delicatessen.ro/collections/gratar): Descoperă Pentru cel mai bun gratar! pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 208
 - [Colectia Laurence - Delicatessen](https://delicatessen.ro/collections/laurence): Descoperă Laurence pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 78
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 82
 - [Accesorii bauturi](https://delicatessen.ro/collections/accesorii-bauturi): Descoperă Accesorii bauturi pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:27Z
   Total Products: 23
 - [Colectia Vin Alb - Delicatessen](https://delicatessen.ro/collections/vin-alb): Descoperă Vin Alb pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:38Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 31
 - [Colectia Sticla Vin alb - Delicatessen](https://delicatessen.ro/collections/vin-alb-1): Descoperă Sticle Vin alb pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:38Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 31
 - [Colectia Vin rosu - Delicatessen](https://delicatessen.ro/collections/vin-rosu): Descoperă Vin rosu pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:39Z
+  Updated: 2026-02-10T12:03:21Z
   Total Products: 89
 - [Colectia Vin rose - Delicatessen](https://delicatessen.ro/collections/vin-rose): Descoperă Vin rose pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:04:38Z
   Total Products: 12
 - [Colectia Cocktails - Delicatessen](https://delicatessen.ro/collections/cocktails): Descoperă Cocktails pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T09:59:59Z
+  Updated: 2026-02-08T12:02:38Z
   Total Products: 22
 - [Cutii pentru vin](https://delicatessen.ro/collections/cutii-pentru-vin): Descoperă Cutii pentru vin pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-01-27T13:25:29Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 16
 - [Crema de ciocolata](https://delicatessen.ro/collections/crema-de-ciocolata-1): Descoperă Crema cu ciocolata pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-10T08:29:57Z
   Total Products: 10
 - [Calendare de Advent](https://delicatessen.ro/collections/cataloage-de-advent): Descoperă Calendare de Advent pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-02T18:46:46Z
+  Updated: 2026-02-11T12:03:47Z
   Total Products: 9
 - [Cadouri cu ceai](https://delicatessen.ro/collections/cadouri-cu-ceai): Descoperă Cadouri cu ceai pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-03T12:03:31Z
+  Updated: 2026-02-09T12:03:31Z
   Total Products: 14
 - [TVA 21%](https://delicatessen.ro/collections/tva-19)
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 1464
+  Updated: 2026-02-12T15:17:57Z
+  Total Products: 1479
 - [Delicatese iberice](https://delicatessen.ro/collections/fuet): Descoperă Delicatese iberice pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-03T12:03:31Z
+  Updated: 2026-02-10T14:10:34Z
   Total Products: 13
 - [Colectia Ambalaje - Delicatessen](https://delicatessen.ro/collections/ambalaje): Descoperă Ambalaje pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T09:59:58Z
+  Updated: 2026-02-05T14:47:10Z
   Total Products: 23
 - [Colectia Paste 2025 - Delicatessen](https://delicatessen.ro/collections/paste-2025): Descoperă Paste 2025 pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 105
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 115
 - [Colectia Cafea - Delicatessen](https://delicatessen.ro/collections/cafea): Descoperă Cafea pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T09:59:59Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 5
 - [Colectia Prosecco - Delicatessen](https://delicatessen.ro/collections/prosecco): Descoperă Prosecco pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T10:04:37Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 15
 - [Siropuri organice](https://delicatessen.ro/collections/siropuri-organice): Descoperă Siropuri organice pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 23
+  Updated: 2026-02-12T12:03:31Z
+  Total Products: 25
 - [Colectia Best Sellers - Delicatessen](https://delicatessen.ro/collections/best-sellers): Descoperă Best Sellers pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 107
 - [Colectia High End - Delicatessen](https://delicatessen.ro/collections/high-end): Descoperă High End pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T15:25:25Z
   Total Products: 64
 - [Ciocolata de Craciun](https://delicatessen.ro/collections/ciocolata-de-craciun): Descoperă Ciocolata de Craciun pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T10:20:32Z
   Total Products: 95
 - [Biscuiti de Craciun](https://delicatessen.ro/collections/biscuiti-de-craciun): Descoperă Biscuiti de Craciun pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 37
 - [Ceai si cafea de Craciun](https://delicatessen.ro/collections/ceai-si-cafea-de-craciun): Descoperă Ceai si cafea de Craciun pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-12T12:03:31Z
   Total Products: 28
 - [Pachete Craciun](https://delicatessen.ro/collections/pachete-craciun): Descoperă Pachete Craciun pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-01-27T13:25:31Z
@@ -1871,20 +1920,20 @@ Excelent pentru micul dejun, acest gem se poate folosi insa si pentru multe dese
   Updated: 2026-01-27T13:25:28Z
   Total Products: 0
 - [Ciocolata calda](https://delicatessen.ro/collections/ciocolata-calda): Descoperă Ciocolata calda pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-03T12:03:31Z
+  Updated: 2026-02-09T12:03:31Z
   Total Products: 16
 - [Globulete cu ciocolata](https://delicatessen.ro/collections/globulete-cu-ciocolata): Descoperă Globulete cu ciocolata pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-01-27T13:25:30Z
+  Updated: 2026-02-06T14:21:56Z
   Total Products: 23
 - [Colectia Secret Santa - Delicatessen](https://delicatessen.ro/collections/secret-santa): Descoperă Secret Santa pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
   Updated: 2026-02-04T10:04:38Z
   Total Products: 16
 - [Colectia Panettone Craciun - Delicatessen](https://delicatessen.ro/collections/panettone-craciun): Descoperă Panettone Craciun pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
+  Updated: 2026-02-10T12:03:21Z
   Total Products: 32
 - [Colectia Craciun 2025 - Delicatessen](https://delicatessen.ro/collections/craciun-2025): Descoperă Craciun 2025 pe Delicatessen.ro. Produse gourmet autentice și cadouri rafinate. Comandă acum online
-  Updated: 2026-02-04T12:03:44Z
-  Total Products: 175
+  Updated: 2026-02-12T10:21:31Z
+  Total Products: 173
 
 ## Blogs
 
