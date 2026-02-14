@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-02-07T00:00:42.057Z
+- Updated At: 2026-02-14T00:00:43.882Z
 
 ## Products
 
@@ -373,7 +373,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Orijin bitters Spirit Herbal Extracts 75CL - Nexxtmart](https://nexxtmart.com/products/orijin-bitters-spirit-herbal-extracts-75cl): Buy Orijin Bitters – Premium Herbal Spirit with African Extracts. Experience the bold, bittersweet taste of Orijin Bitters, a blend of natural African herbs, roots, and fruits.
-  Updated: 2025-11-02T02:18:46Z
+  Updated: 2026-02-13T17:20:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -1699,10 +1699,10 @@
   Updated: 2026-02-06T19:09:43Z
   Total Products: 74
 - [New Arrivals - Nexxtmart](https://nexxtmart.com/collections/new-arrivals): Stay ahead with Nexxtmart’s New Arrivals! Discover the latest and freshest products, from pantry  - Nexxtmart
-  Updated: 2026-02-02T12:10:47Z
+  Updated: 2026-02-09T12:12:46Z
   Total Products: 30
 - [Featured Items - Nexxtmart](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2026-02-06T19:09:43Z
+  Updated: 2026-02-09T12:12:46Z
   Total Products: 150
 - [Best Sellers - Nexxtmart](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
   Updated: 2026-02-06T19:09:43Z
@@ -1723,7 +1723,7 @@
   Updated: 2026-02-06T19:09:43Z
   Total Products: 44
 - [Health and Beauty - Nexxtmart](https://nexxtmart.com/collections/health-and-beauty): Nourish Your Body Inside and Out Your health and beauty routine deserves the best. At Nexxtmart, our  - Nexxtmart
-  Updated: 2026-02-02T12:10:47Z
+  Updated: 2026-02-09T12:12:46Z
   Total Products: 4
 - [Fruits & Vegetables - Nexxtmart](https://nexxtmart.com/collections/fruits-vegetables): Fresh Fruits &amp; Vegetables for a Healthy Lifestyle At Nexxtmart, we bring you the finest  - Nexxtmart
   Updated: 2025-11-24T21:05:41Z
@@ -1732,7 +1732,7 @@
   Updated: 2026-01-05T19:51:41Z
   Total Products: 10
 - [Best  Products, Buy Quality and Tasty African food items.](https://nexxtmart.com/collections/best--products): Discover the best  products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
-  Updated: 2026-02-06T19:09:43Z
+  Updated: 2026-02-09T12:12:46Z
   Total Products: 152
 - [Digital Goods VAT Tax - Nexxtmart](https://nexxtmart.com/collections/digital-goods-vat-tax): - Nexxtmart
   Updated: 2025-09-26T22:02:18Z
