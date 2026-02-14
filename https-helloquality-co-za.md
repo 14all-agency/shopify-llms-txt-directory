@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2021-06-22T16:20:57Z
 - Contact Email: sales@helloquality.co.za
-- Updated At: 2026-02-07T00:00:38.947Z
+- Updated At: 2026-02-14T00:00:40.068Z
 
 ## Products
 
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/products/150-4D9A7629.jpg?v=1679092505
   Price: R 0.00 ZAR
 - [Tari Croc Curve Long Riding Boot](https://helloquality.co.za/products/tari-curve): Tari is an elegant slim, all-around riding boot with a zipper at the back for easy wearing and to achieve a close fit on the ankle. They are very comfortable and do not restrict you from bending your knees while riding. This model offers multiple design options to customize to suit your preference. As with all our custom boots, Tari Curve can be made in any colour of your choice. Properties Full-grain leather uppers Breathable Napa leather lining Top detail in croc print Comfortable footbed Comfortable rubber outsoles
-  Updated: 2026-01-25T19:12:32Z
+  Updated: 2026-02-09T00:37:05Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/products/Tsokatwo-tone_2_e86cd298-0021-407e-8f2a-c5a9ecbd0bdb.jpg?v=1682152546
   Price: R 0.00 ZAR
 - [Two Tone Riding Boots | Hello Quality Equestrian](https://helloquality.co.za/products/hqe-2): An eye-catching | Two Tone Riding Boots with patent leather accents and brogue detail. Tari is made for comfort and flexibility with elasticated laces on the front vamp.
-  Updated: 2026-01-25T19:12:33Z
+  Updated: 2026-02-12T14:30:45Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -1533,7 +1533,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/SelinaTwo-Tone_6.jpg?v=1721800690
   Price: R 2,239.00 ZAR
 - [Selina Midcalf Leather Boots](https://helloquality.co.za/products/selina): Introducing Selina, our luxury ladies boots crafted from premium leather. Offering a fashionable edge to your wardrobe, Selina is designed to last, and features a durable sole and comfortable inner lining. With their classic silhouette and timeless style, Selina is perfect for adding a touch of sophistication to any outfit. ﻿Product Details: Genuine leather uppers Waterproof (oil-treated) Comfortable padded footbed Rubber soles
-  Updated: 2026-01-25T19:12:41Z
+  Updated: 2026-02-11T02:45:06Z
   Vendor: Hello Quality Equestrian
   Product Type: Ladies Leather Boots
   Availability: Available
@@ -1903,7 +1903,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/689-4D9A8244.jpg?v=1706706560
   Price: R 7,499.00 ZAR
 - [Tororo Jodphur Boot](https://helloquality.co.za/products/tororo-3): Indulge in luxury with Tororo's blue leather Jodphur boots. Handcrafted with exquisite Tororo leather, these boots are the epitome of elegance and exclusivity. The perfect addition to any wardrobe, they provide both style and durability for the fashion-forward individual. Product Details: Genuine leather uppers Sturdy front YKK zipper Zip Guard Soft padded footbed Durable rubber soles
-  Updated: 2026-01-25T19:12:42Z
+  Updated: 2026-02-12T08:51:09Z
   Vendor: Hello Quality Equestrian
   Product Type: Short Boots
   Availability: Available
@@ -2070,7 +2070,7 @@
     Availability: Available
     Price: R 2,999.00 ZAR
 - [Dural Jodhpur Boots](https://helloquality.co.za/products/dural-men): Indulge in luxury with the 'Dural' jodhpur boots. Hand crafted in South Africa, these exquisite leather boots offer unparalleled elegance and quality. Perfect for any occasion, the Dural boots make a statement of sophistication and refinement. Elevate your wardrobe with these one-of-a-kind boots. Product Details: Unisex Bovine leather Leather lined Soft padded footbed Sturdy YKK zip Durable rubber soles
-  Updated: 2026-02-02T07:23:01Z
+  Updated: 2026-02-07T01:14:06Z
   Vendor: Hello Quality Equestrian
   Product Type: Jodhpur Boots
   Availability: Available
@@ -3277,7 +3277,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/rn-image_picker_lib_temp_7334cd07-ed88-4e32-8378-c952a56589a5.jpg?v=1766514602
   Price: R 6,499.00 ZAR
 - [Danai Patent](https://helloquality.co.za/products/danai-patent-1): Indulge in ultimate luxury with the Danai Patent long riding boots. Handmade in South Africa, these boots feature a sophisticated two-tone patent leather design that exudes exclusivity. Elevate any outfit and make a statement with these premium boots, crafted with the finest materials. Experience true elegance with Danai Patent. Product Details: Genuine patent leather uppers Leather-lined Stylish two-tone leather design﻿ Sturdy rear YKK zipper Soft padded footbed CAN BE MADE TO FIT
-  Updated: 2026-01-25T19:12:44Z
+  Updated: 2026-02-08T23:27:10Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -3449,7 +3449,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HelloQualityEquestria_shandcraftedleatherboots_leathershoes_cusualwear_Stylishleatherbootsforeverydayuse.ProudlyMadeinSouthAfrica_36.jpg?v=1723032734
   Price: R 1,609.00 ZAR
 - [Bonolo Ostrich Curve Long Riding Boot](https://helloquality.co.za/products/bonolo-curve-ostrich-print-1): Step into luxury with our Bonolo Curve Ostrich Print leather long riding boot. This elegant and exclusive design features a stunning ostrich print, adding a touch of sophistication to any outfit. Made with premium leather, these boots will elevate your style and provide lasting comfort. Product Details: Genuine leather uppers Sturdy rear YKK zipper Stylish Two-Tone design Soft padded foot bed Durable rubber soles
-  Updated: 2026-01-25T19:12:45Z
+  Updated: 2026-02-10T06:20:02Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -3474,21 +3474,21 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/20240211_165440.jpg?v=1710758083
   Price: R 7,699.00 ZAR
 - [Bonolo Contact Curve Long  Riding Boot](https://helloquality.co.za/products/bonolo-contact-curve): Bonolo contact curve leather long riding boots. Crafted with beautiful Havanna brown leather uppers, these boots effortlessly combine style and functionality. Step into the world of sophistication and elevate your horse-riding experience with the Bonolo contact curve. Product Details: Leather uppers Leather lined Patent trim on top curve Suede inner calf for enhanced grip
-  Updated: 2026-01-25T19:12:45Z
+  Updated: 2026-02-09T09:56:05Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/rn-image_picker_lib_temp_9d11d856-ee01-4619-9d91-92cda3760c9f.jpg?v=1766511647
-  Price: R 6,399.00 ZAR
+  Price: R 6,899.00 ZAR
 - [Bonolo Kids Long Riding Boot](https://helloquality.co.za/products/bonolo-gen-2-kids-black): Indulge your little equestrian with Bonolo Gen 2 Kids long-riding boots. They are handcrafted in South Africa with exquisite full-grain soft bovine leather uppers and rubber outsoles for unparalleled flexibility and comfort. Elevate their riding experience and style in these luxurious boots. Product Details: Full-grain bovine leather uppers Interior fabric lining Elastic gussets Sturdy rear YKK zippers Zip lock & guards Soft-padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-01-25T19:12:45Z
+  Updated: 2026-02-12T09:55:40Z
   Vendor: Hello Quality Equestrian
   Product Type: Kids Riding Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/KidsBonoloEconomy_72ae1e01-62ba-42e5-92e8-536b3e5b114d.jpg?v=1720860645
   - [12 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013599887543)
     Availability: Available
-    Price: R 2,799.00 ZAR
+    Price: R 2,999.00 ZAR
   - [12 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013599920311)
     Availability: Available
     Price: R 2,799.00 ZAR
@@ -4885,7 +4885,7 @@
     Availability: Available
     Price: R 8,799.00 ZAR
 - [Mambo Polo Riding Boots](https://helloquality.co.za/products/mambo-polo-boots-ladies): Elevate your polo game with Mambo Ladies Polo Riding Boots. Designed for discerning polo players, our boots offer comfort, durability, and style on and off the field. Take your performance to the next level and look good doing it. Our Polo boots can be bought with matching knee guards. Product Details: Full-grain bovine leather uppers Breathable Napa leather lining Sturdy front YKK zipper Zip lock & guards Soft padded memory foam footbed * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-01-25T19:12:45Z
+  Updated: 2026-02-13T04:41:13Z
   Vendor: Hello Quality Equestrian
   Product Type: Polo Boots
   Availability: Available
@@ -5820,162 +5820,6 @@
   - [10 / Regular / Extra Large](https://helloquality.co.za/products/stunner-men?variant=42435089072311)
     Availability: Available
     Price: R 8,799.00 ZAR
-- [Stunner Curve Kids Riding Boot](https://helloquality.co.za/products/stunner-curve-kids): Indulge in luxury with our Stunner equestrian riding boots, handcrafted in South Africa with premium full-grain bovine leather. These long boots exude elegance while providing unparalleled comfort for your ride. Elevate your style and performance with the sophisticated Stunner. Product Details: Full-grain bovine leather uppers﻿ Fabric lining Sturdy rear YKK zipper Soft padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-01-25T19:12:46Z
-  Vendor: Hello Quality Equestrian
-  Product Type: Kids Riding Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/KidsStunnercurve_bd263932-fa3c-4d11-ba9c-f3de9ff5db32.jpg?v=1710942659
-  - [12 / Short / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911171255)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Short / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911204023)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Short / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911236791)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Short / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911269559)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Short / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911302327)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Regular / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911335095)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Regular / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911367863)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Regular / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911433399)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Regular / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911466167)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Regular / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911498935)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Tall / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911531703)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Tall / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911564471)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Tall / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911597239)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Tall / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911630007)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [12 / Tall / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911662775)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Short / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911695543)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Short / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911728311)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Short / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911761079)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Short / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911793847)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Short / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911826615)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Regular / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911859383)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Regular / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911892151)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Regular / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911924919)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Regular / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911957687)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Regular / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133911990455)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Tall / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133912023223)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Tall / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=43133912055991)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Tall / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=43133912088759)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Tall / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133912121527)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [13 / Tall / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=43133912154295)
-    Availability: Available
-    Price: R 3,199.00 ZAR
-  - [1 / Short / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057282231)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Short / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057314999)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Short / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057347767)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Short / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057380535)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Short / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057413303)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Regular / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057446071)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Regular / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057478839)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Regular / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057511607)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Regular / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057544375)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Regular / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057577143)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Tall / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057642679)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Tall / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057675447)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Tall / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057708215)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Tall / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057740983)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [1 / Tall / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057773751)
-    Availability: Available
-    Price: R 3,999.00 ZAR
-  - [2 / Short / Extra Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057806519)
-    Availability: Available
-    Price: R 4,499.00 ZAR
-  - [2 / Short / Small](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057839287)
-    Availability: Available
-    Price: R 4,499.00 ZAR
-  - [2 / Short / Medium](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057872055)
-    Availability: Available
-    Price: R 4,499.00 ZAR
-  - [2 / Short / Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057904823)
-    Availability: Available
-    Price: R 4,499.00 ZAR
-  - [2 / Short / Extra Large](https://helloquality.co.za/products/stunner-curve-kids?variant=42437057937591)
-    Availability: Available
-    Price: R 4,499.00 ZAR
 - [Tari Economy Kids Riding Boot](https://helloquality.co.za/products/tari-economy-kids): Indulge your little one with Tari Economy (Kids). These long riding boots offer incomparable quality without breaking the bank, crafted with genuine leather uppers and a luxurious fabric lining. Handmade in South Africa, these boots are a perfect blend of affordability and sophistication. Product Details: Full-grain bovine leather uppers Fabric lining Sturdy rear YKK zipper Zip locks & guards Soft-padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
   Updated: 2026-01-25T19:12:46Z
   Vendor: Hello Quality Equestrian
@@ -6530,7 +6374,7 @@
     Availability: Available
     Price: R 1,899.00 ZAR
 - [Lowana soft black leather gaiters / half chaps](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps): The Lowana soft black leather gaiters provide superior protection and comfort for equestrian activities. Made with high-quality leather, these half chaps offer a secure fit and durability. Stay stylish and safe while riding with Lowana. Product Properties Soft supple black leather uppers Elasticated to achieve a snug fit Sturdy rear YKK Zippers Double zip snap keepers Unlined.
-  Updated: 2026-01-25T19:12:46Z
+  Updated: 2026-02-11T09:15:54Z
   Vendor: Hello Quality Equestrian
   Product Type: Leather Gaiters
   Availability: Available
@@ -6596,7 +6440,7 @@
     Availability: Available
     Price: R 1,699.00 ZAR
 - [Lowana soft brown leather gaiters / half chaps](https://helloquality.co.za/products/lowana-soft-brown-leather-gaiters-half-chaps): The Lowana soft brown leather gaiters provide superior protection and comfort for equestrian activities. Made with high-quality leather, these half chaps offer a secure fit and durability. Stay stylish and safe while riding with Lowana. Product Properties Soft supple brown leather uppers Elasticated to achieve a snug fit Sturdy rear YKK Zippers Double zip snap keepers Unlined.
-  Updated: 2026-01-25T19:12:46Z
+  Updated: 2026-02-10T20:53:26Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -7106,7 +6950,19 @@
   - [Black & Brown / 12](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757321399)
     Availability: Available
     Price: R 3,299.00 ZAR
-[List Continued](https://helloquality.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxOTYzMTExNjA3LCJsYXN0X3ZhbHVlIjoiNzc5MTk2MzExMTYwNyJ9)
+- [Kepler Hiker](https://helloquality.co.za/products/kepler-hiker-3): The Kepler Hiker is a versatile boot crafted with premium waterproof leather in South Africa. Whether you need a sturdy work boot, a reliable hiking companion, or a stylish everyday choice, this handmade boot has you covered. Embrace luxury and functionality with the Kepler Hiker. Product Details: Genuine leather uppers (waterproof) Leather-lined Front lace-up design Soft Padded footbed Durable, rugged rubber soles
+  Updated: 2026-01-25T19:12:47Z
+  Vendor: Hello Quality Equestrian
+  Product Type: Work Boots
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Hello_Quality_Equestrian_s_range_of_handcrafted_leather_boots_genuine_leather_boots_made_in_South_Africa_76_8f6e8b1f-1f57-4ae0-93d8-f93f70a082a5.jpg?v=1724764385
+  - [6 / Dakota Malva](https://helloquality.co.za/products/kepler-hiker-3?variant=43154037506231)
+    Availability: Available
+    Price: R 2,399.00 ZAR
+  - [7 / Dakota Malva](https://helloquality.co.za/products/kepler-hiker-3?variant=43154037538999)
+    Availability: Available
+    Price: R 2,399.00 ZAR
+[List Continued](https://helloquality.co.za/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkyMjk4MzI4MjQ3LCJsYXN0X3ZhbHVlIjoiNzc5MjI5ODMyODI0NyJ9)
 
 ## Collections
 
@@ -7120,13 +6976,13 @@
   Updated: 2026-01-20T13:41:03Z
   Total Products: 29
 - [Smart Products Filter Index - Do not delete](https://helloquality.co.za/collections/globofilter-best--products-index)
-  Updated: 2026-02-06T18:05:04Z
-  Total Products: 524
+  Updated: 2026-02-13T17:54:38Z
+  Total Products: 512
 - [Gift Ideas](https://helloquality.co.za/collections/gift-ideas)
   Updated: 2026-01-04T10:01:27Z
   Total Products: 2
 - [Country boots](https://helloquality.co.za/collections/work-boots-and-the-country-boots): Introducing our luxurious Country boots, crafted for the refined and sophisticated individual. Made with the highest quality materials, these boots provide comfort and style for any countryside excursion. Elevate your outdoor adventures with our exclusive Country boots.
-  Updated: 2026-02-06T18:05:04Z
+  Updated: 2026-02-07T12:14:34Z
   Total Products: 17
 - [Cowboy Boots](https://helloquality.co.za/collections/ready-to-wear-cowboy): Stride in Style: Cowboy Boot Collection Step into the Wild West with our Cowboy Boot Collection! Made with high-quality materials, these boots are perfect for any adventure. From rodeos to line dancing, these boots will keep you comfortable and stylish. Don't miss out on adding this must-have collection to your wardrobe! These are ready to ship and can be made to order if your size is not available. Please contact us!
   Updated: 2026-01-28T12:12:01Z
@@ -7137,11 +6993,8 @@
 - [Jodhpur Boots](https://helloquality.co.za/collections/jodhpur-boots): HQE Jodhpur boots will become an integral part of your daily activities. Whether you are seeking a pair for training or competition, you can always trust on HQE riding boots for comfort and durability.
   Updated: 2026-01-04T09:52:50Z
   Total Products: 31
-- [Casual kids](https://helloquality.co.za/collections/kids)
-  Updated: 2026-01-04T09:52:52Z
-  Total Products: 16
 - [Midcalf & Long Boots](https://helloquality.co.za/collections/midcalf-long-boots)
-  Updated: 2025-12-30T18:16:52Z
+  Updated: 2026-02-13T12:13:20Z
   Total Products: 18
 - [Pre-order HQE assorted luggage & accessories](https://helloquality.co.za/collections/accessories-updated): Welcome to Hello Quality Equestrian's Everyday Essentials Collection We understand that equestrian life is not just about riding, but about the little things that make a big difference. That's why we've curated a range of accessories designed to solve your everyday needs, from riding and grooming to horse care and travel. Our collection is built on the belief that great quality and style go hand in hand. Each piece is carefully crafted to provide functional solutions while elevating your equestrian style. Whether you're a seasoned pro or just starting, our Everyday Essentials Collection has everything you need to ride, care, and live confidently.
   Updated: 2026-01-04T09:52:56Z
@@ -7162,8 +7015,8 @@
   Updated: 2025-11-06T17:27:52Z
   Total Products: 18
 - [Pre-order kids Standard Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-kids): Introducing the FutureFit Collection. Give your child the gift of growing confidence in the saddle with our innovative FutureFit Kids' Long Riding Boots. Designed to adapt to their changing foot and leg size, these boots can be easily resized up to two to three sizes, extending their wearability and saving you money in the long run. With a focus on comfort, safety, and style, our FutureFit boots feature: - High-quality materials for durability and support - Adjustable lacing and elastic panels for a secure fit - Rear zipper for easy on-and-off - Resizable design to accommodate growing feet  in a pair that will keep up with your child's growth and passion for riding. Explore the FutureFit Collection today!
-  Updated: 2025-11-06T17:27:52Z
-  Total Products: 4
+  Updated: 2026-02-10T20:49:38Z
+  Total Products: 3
 - [Ladies Pre-order Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-ladies): Timeless Elegance for the Discerning Rider Introducing HQE's Standard Range of Long Riding Boots, expertly crafted for the classic equestrian look. This essential collection offers: - High-quality materials for durability and comfort- Traditional design with a sleek, sophisticated finish- Standard sizes for a comfortable, secure fit Available in a few versatile colours: To ensure you receive your preferred colour, please note your choice (Black, Brown / Navy) in the checkout notes. Our Standard Range Long Riding Boots are a wardrobe staple for any serious rider. Shop now and experience the perfect blend of style, comfort, and functionality.
   Updated: 2025-11-06T17:27:52Z
   Total Products: 13
@@ -7171,13 +7024,13 @@
   Updated: 2025-11-06T17:27:52Z
   Total Products: 7
 - [Demo Long Riding Boots Promo](https://helloquality.co.za/collections/may-): Browse our collection today and step up your style with our handcrafted leather boots on . Designed for comfort, durability, and timeless equestrian elegance, these boots offer exceptional value without compromising on quality.
-  Updated: 2026-02-05T19:16:14Z
-  Total Products: 88
+  Updated: 2026-02-13T16:07:17Z
+  Total Products: 90
 - [PRE-ORDER](https://helloquality.co.za/collections/pre-order): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
-  Updated: 2026-02-02T12:11:23Z
-  Total Products: 112
+  Updated: 2026-02-13T17:54:38Z
+  Total Products: 97
 - [Pre-order Leather gaiters / Half Chaps](https://helloquality.co.za/collections/pre-order-leather-gaiters): Hello Quality's range of gaiters available on pre-order. All our gaiters are made from supple leather and can be worn by both sexes in exception to those with shiny details or embellishments
-  Updated: 2026-01-03T15:29:17Z
+  Updated: 2026-02-11T12:11:37Z
   Total Products: 8
 - [Pre-order Kids Jodhpur Boots.](https://helloquality.co.za/collections/kids-jodhpur-boots): Safe Riding in the Saddle At HQE, we prioritize the safety and well-being of young riders. Our collection of kids' protective riding boots is designed to provide superior protection, support, and comfort in the stirrups. We understand that a proper fit is crucial for optimal safety and performance. That's why we offer a range of sizes and styles to ensure you find the perfect pair for your child. Our boots feature: - High-quality materials for durability and protection- Anatomical design for comfortable support- Slip-resistant soles for added stability Choose HQE for your child's riding boots and give them the confidence to ride with freedom. Select a pair that fits well, and let them take the reins with safety and style.
   Updated: 2026-02-02T12:11:23Z
@@ -7198,7 +7051,7 @@
   Updated: 2026-01-03T15:28:35Z
   Total Products: 21
 - [New arrival](https://helloquality.co.za/collections/new-arrival)
-  Updated: 2026-01-04T09:43:07Z
+  Updated: 2026-02-13T12:13:20Z
   Total Products: 21
 - [Polo Boots](https://helloquality.co.za/collections/polo-boots)
   Updated: 2026-01-02T16:22:53Z
@@ -7207,11 +7060,11 @@
   Updated: 2025-11-06T17:27:53Z
   Total Products: 0
 - [Hot New Favourites](https://helloquality.co.za/collections/hot-new-favourite): Shop our hot new favourite items online!
-  Updated: 2026-01-04T09:46:51Z
-  Total Products: 22
+  Updated: 2026-02-12T16:57:01Z
+  Total Products: 21
 - [Kids Riding Boots](https://helloquality.co.za/collections/kids-riding-boots): PRE-ORDER CHILDREN RIDING BOOTS - Typically ready between 7 - 14 working days.
-  Updated: 2025-12-30T14:08:32Z
-  Total Products: 7
+  Updated: 2026-02-10T20:49:38Z
+  Total Products: 6
 - [Kids Jodhpur Boots](https://helloquality.co.za/collections/kids-jodhpur-boots-1)
   Updated: 2026-02-02T12:11:23Z
   Total Products: 10
@@ -7219,7 +7072,7 @@
   Updated: 2026-02-02T12:11:23Z
   Total Products: 10
 - [Gaiter Combo Special](https://helloquality.co.za/collections/gaiter-combo-special): Enjoy 20% Off when you order a combination of gaiters and short riding boots.
-  Updated: 2026-01-03T15:29:17Z
+  Updated: 2026-02-11T12:11:37Z
   Total Products: 8
 - [Custom Add On](https://helloquality.co.za/collections/custom-add-on)
   Updated: 2026-01-20T08:06:52Z
@@ -7228,17 +7081,20 @@
   Updated: 2025-11-06T17:27:53Z
   Total Products: 14
 - [Best  Products](https://helloquality.co.za/collections/best--products)
-  Updated: 2026-02-06T18:05:04Z
-  Total Products: 524
+  Updated: 2026-02-13T17:54:38Z
+  Total Products: 512
 - [New Leather Riding Boots | Hello Quality Equestrian](https://helloquality.co.za/collections/new-leather-riding-boots-arrivals): Shop new leather riding boots by Hello Quality Equestrian. Handcrafted in South Africa from full grain leather. Explore latest arrivals, ready-to-wear.
-  Updated: 2026-02-06T18:05:04Z
-  Total Products: 524
+  Updated: 2026-02-13T17:54:38Z
+  Total Products: 512
 - [The Chapungu Range](https://helloquality.co.za/collections/the-chapungu-range): Our newest range Chapungu riding boots
   Updated: 2025-12-09T22:14:01Z
   Total Products: 0
 - [Foot Ad ons](https://helloquality.co.za/collections/foot-ad-ons)
   Updated: 2026-01-19T20:11:23Z
   Total Products: 15
+- [Pre-Order | Junior Riders Standard Long Riding Boots](https://helloquality.co.za/collections/junior-riders-standard-long-riding-boots): Built for young riders ready to ride with confidence, our Junior Riders Standard Long Riding Boots combine elegant design with everyday performance. Crafted from premium leather and produced using our trusted standard fit system, these boots provide the support, comfort, and durability developing riders need in the saddle. Available on pre-order, each pair is freshly made to ensure consistent quality and a refined riding silhouette — perfect for training, competition, and the growing rider’s journey. Designed to Grow With Your RiderAll HQE boots can be professionally resized, allowing adjustments as young riders grow while maintaining proper fit, comfort, and performance. It’s a long-term  built to last beyond a single season. Why Choose Pre-Order• Extended junior sizing availability• Newly crafted boots made for your order• HQE standard fit precision• Fully resizable construction for growing riders• Ideal for the upcoming riding season Confidence starts with the right fit — from the very first ride.
+  Updated: 2026-02-13T18:08:02Z
+  Total Products: 2
 
 ## Blogs
 
