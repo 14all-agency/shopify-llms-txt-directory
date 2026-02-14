@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-20T17:54:38Z
-- Updated At: 2026-02-07T00:00:39.988Z
+- Updated At: 2026-02-14T00:00:41.328Z
 
 ## Products
 
@@ -504,13 +504,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-3329.png?v=1762177271
   Price: £35.00 GBP
-- [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-2): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Black Cherry, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 520g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2026-02-01T12:14:50Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/FE74FC90-2932-4BFB-9389-D91CA22F1995.png?v=1762363300
-  Price: £35.00 GBP
 - [Reed Diffuser Sour Patches](https://siaroma.co.uk/products/reed-diffuser-sour-patches): Sour Patches Reed Diffuser (100ml) Bring a burst of playful sweetness into your home with Si Aroma’s Sour Patches Reed Diffuser. Inspired by the tangy-sweet aroma of your favorite candy, this diffuser fills your space with a lively, uplifting scent that’s both refreshing and comforting. Each 100ml diffuser comes with 8 natural reed sticks, designed to slowly absorb and release the fragrance, offering long-lasting freshness for 2–4 months — depending on your environment and how often you flip the reeds. Perfect for living rooms, bedrooms, offices, or bathrooms, it’s a stylish and effortless way to enjoy continuous fragrance all day long. Product Features Fragrance: Sour Patches – sweet, tangy & invigorating Volume: 100ml premium fragrance oil Includes: 8 natural reed sticks Longevity: Lasts approximately 2–4 months Flameless & low-maintenance home fragrance solution How to Use: Remove the cap and insert the reed sticks into the bottle. Allow the reeds to absorb the fragrance for a few hours. Flip the reeds to release the scent into the air. For a stronger scent, flip the reeds every few days; for a lighter scent, flip less often. Place the diffuser in a well-ventilated area, away from direct sunlight and heat sources to prolong its life. ⚠️ Safety & Care Keep out of reach of children and pets. Do not ingest or allow liquid to come into contact with skin or eyes. Avoid placing on polished, painted, or plastic surfaces — use a coaster or protective base. Keep away from open flames and heat sources. In case of spills, wipe immediately with a damp cloth. For external use and room fragrance purposes only.
   Updated: 2026-01-04T00:30:55Z
   Vendor: Si Aroma
@@ -820,15 +813,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5175.png?v=1770126237
   Price: £35.00 GBP
-- [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-9): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
-  Updated: 2026-02-04T01:48:05Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-5177.png?v=1770126449
-  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-10): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 525g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
-  Updated: 2026-02-04T02:05:26Z
+  Updated: 2026-02-11T19:10:50Z
   Vendor: Si Aroma
   Product Type: 
   Availability: Available
@@ -910,14 +896,14 @@
 ## Collections
 
 - [Home page](https://siaroma.co.uk/collections/frontpage)
-  Updated: 2025-11-10T21:45:04Z
-  Total Products: 0
+  Updated: 2026-02-12T08:29:17Z
+  Total Products: 1
 - [Candles](https://siaroma.co.uk/collections/candles)
   Updated: 2026-01-28T08:59:54Z
   Total Products: 16
 - [Wax Melts](https://siaroma.co.uk/collections/wax-melts)
-  Updated: 2026-02-04T13:21:19Z
-  Total Products: 5
+  Updated: 2026-02-12T08:29:17Z
+  Total Products: 6
 - [Car Fresheners](https://siaroma.co.uk/collections/reed-diffusers)
   Updated: 2026-02-06T09:32:13Z
   Total Products: 4
