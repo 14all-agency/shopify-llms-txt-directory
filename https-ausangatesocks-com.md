@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-06-01T17:25:06Z
 - Contact Email: hello@ausangatesocks.com
-- Updated At: 2026-02-06T19:47:02.411Z
+- Updated At: 2026-02-14T00:00:30.256Z
 
 ## Products
 
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Alpaca_mid_calf_socks_in_sand_brown.jpg?v=1768516227
     Price: $25.99 USD
 - [Ausangate Alpaca Quarter Crew Athletic Socks](https://ausangatesocks.com/products/ausangate-socks-alpaca-quarter-crew-socks): Premium alpaca quarter crew athletic socks. All-sport performance with smooth fit, superior comfort and breathability. Perfect for active lifestyles.
-  Updated: 2026-01-23T06:25:49Z
+  Updated: 2026-02-08T20:48:50Z
   Vendor: Ausangate Socks
   Product Type: Apparel & Accessories > Clothing > Socks
   Availability: Available
@@ -357,7 +357,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Geometric Style Alpaca Beanie Hat | Elegance & Comfort](https://ausangatesocks.com/products/alpaca-geometric-beanie-hat): Our alpaca Geometric Beanie Hat features artful & textural mix of colors and  accentuated by five distinct bands, creating a visually dynamic apparel accessory.
-  Updated: 2026-02-03T04:05:34Z
+  Updated: 2026-02-12T03:11:59Z
   Vendor: Ausangate Socks
   Product Type: Hats
   Availability: Available
@@ -367,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Beanie_-_Raspberry_Red_SV.png?v=1766447198
     Price: $22.99 USD
   - [Mauve Mist / Unisex](https://ausangatesocks.com/products/alpaca-geometric-beanie-hat?variant=51406826897721)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0943/4742/8153/files/Beanie_-_Mauve_Mist_SV.png?v=1766447198
     Price: $22.99 USD
   - [Mocha Swirl / Unisex](https://ausangatesocks.com/products/alpaca-geometric-beanie-hat?variant=51406826963257)
@@ -393,13 +393,13 @@
 ## Collections
 
 - [Alpaca Fiber Vintage Style Hats](https://ausangatesocks.com/collections/alpaca-hats): Discover stylish alpaca hats perfect for everyday wear and travel. Experience warmth and comfort while making a fashion statement wherever you go.
-  Updated: 2026-01-29T12:24:32Z
+  Updated: 2026-02-12T12:28:01Z
   Total Products: 3
 - [Alpaca Socks](https://ausangatesocks.com/collections/alpaca-socks): Upgrade your sock game with our soft, warm alpaca fiber socks. Perfect for athletes seeking comfort and style without compromise—step up your performance today.
-  Updated: 2026-01-21T13:07:13Z
+  Updated: 2026-02-09T12:26:45Z
   Total Products: 6
 - [Alpaca Shorty Socks](https://ausangatesocks.com/collections/shorty-socks): Our shorty alpaca fiber blend socks are perfect for trail running, walking, tennis,   golf and for the gym. Add our alpaca athletic socks to your sports gear.
-  Updated: 2026-01-20T12:26:03Z
+  Updated: 2026-02-09T12:26:45Z
   Total Products: 3
 - [Ausangate Mid - Calf Alpaca Hiking Socks](https://ausangatesocks.com/collections/mid-calf-alpaca-hiking-socks): Experience unparalleled comfort on your hikes with our premium alpaca mid-calf hiking socks, crafted to pair perfectly with your hiking boots and outdoor gear.
   Updated: 2026-01-21T13:07:13Z
@@ -439,6 +439,8 @@
   Updated: 2026-01-08T16:17:39Z
 - [Care Care Instructions for Alpaca Socks - Ausangate Socks for Alpaca Socks](https://ausangatesocks.com/pages/care-instructions-for-alpaca-socks): Care Instructions Keep your alpaca socks performing at their best with proper care: We suggest washing socks in a mesh laundry bag to protect the f...
   Updated: 2026-01-12T00:44:30Z
+- [Premium Alpaca Socks & Accessories | Ausangate Socks](https://ausangatesocks.com/pages/shop-premium-alpaca-socks): Alpaca Socks Built for Comfort & Performance Experience unmatched comfort and performance with our alpaca socks collection. Run, Hike, Cycle Why Ch...
+  Updated: 2026-02-06T23:17:50Z
 
 ## Policies
 
