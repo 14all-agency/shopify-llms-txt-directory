@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-09-29T07:56:22Z
 - Contact Email: ahmednoureldinewiss@gmail.com
-- Updated At: 2026-02-05T18:48:26.938Z
+- Updated At: 2026-02-14T00:00:31.399Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/architect_dbc.png?v=1764573252
   Price: AED 74.50 AED
 - [D.M. Contractor e - Book bundle for Dubai Municipality Exams G+1 G+4 G+12 and G+ Unlimited](https://dubai-engineer.shop/products/d-m-contractor-e-book-bundle): The ultimate bundle e-Books for the civil engineering contractors on Dubai to prepare their staff for passing the D.M qualifications exams for G+1, G+4, G+12, and G+ Unlimited
-  Updated: 2026-02-01T10:35:31Z
+  Updated: 2026-02-09T13:33:56Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/v2dm-maintenance.png?v=1745697442
   Price: AED 59.85 AED
 - [The Building Maintenance Bundle](https://dubai-engineer.shop/products/the-building-maintenance-bundle-1)
-  Updated: 2026-01-05T08:29:55Z
+  Updated: 2026-02-09T06:22:45Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/dm-HVAC-v2.png?v=1756371977
   Price: AED 64.95 AED
 - [Mechanical Engineering - HVAC _ Dubai Municipality Exam Q and A Bank](https://dubai-engineer.shop/products/mechanical-engineering-hvac-_-dubai-municipality-exam-q-and-a-bank): Now for all of the HVAC Mechanical Engineers professions, easily pass your Dubai Municipality and DEWA exam by studying the questions and answers and excel in the DM. / DEWA certification.
-  Updated: 2026-02-02T16:29:02Z
+  Updated: 2026-02-11T04:58:51Z
   Vendor: Dubai Engineer shop
   Product Type: E-Book Question and Answer bank DM DEWA
   Availability: Available
@@ -711,7 +711,7 @@
 ## Collections
 
 - [Home page](https://dubai-engineer.shop/collections/frontpage): An ultimate online shop of media and resources meant for👷Engineers in Dubai🌴to help them acquire the required qualifications from the Dubai Municipality by passing the D.E.Q Dubai Engineer Qualification exams. In addition to top  engineering supplies, blueprint storage products, drafting supplies, land surveying equipment, measuring tools, industrial equipment. متجر إلكتروني شامل للوسائط والموارد المخصصة للمهندسين في دبي لمساعدتهمفي الحصول على المؤهلات المطلوبة من بلدية دبي من خلال اجتياز امتحاناتتأهيل مهندسي دبي D.E.Q. بالإضافة إلى أفضل اللوازم الهندسية مبيعًا، ومنتجات تخزين المخططات، ولوازم الرسم، ومعدات مسح الأراضي،وأدوات القياس، والمعدات الصناعية.
-  Updated: 2026-02-05T12:26:27Z
+  Updated: 2026-02-10T12:25:13Z
   Total Products: 20
 - [Courses](https://dubai-engineer.shop/collections/courses)
   Updated: 2025-06-06T13:06:16Z
@@ -720,7 +720,7 @@
   Updated: 2026-01-05T12:21:09Z
   Total Products: 1
 - [Best  Engineering Products. Dubai-UAE, Turkey, Middle East and North Africa](https://dubai-engineer.shop/collections/best-): We  the best engineering supplies, blueprint storage products, drafting supplies, land surveying equipment, measuring tools, industrial equipment and engineering books in Dubai - UAE, GCC, Middle East, Turkey and North Africa
-  Updated: 2026-02-04T12:23:50Z
+  Updated: 2026-02-10T12:25:13Z
   Total Products: 26
 - [CV Writing, Job search,  and Career Growth in Dubai](https://dubai-engineer.shop/collections/cv-writing-job-search-and-career-growth-in-dubai): E-Books to help you on your career growth and job search in Dubai. Find your best job search solutions in Dubai and the Gulf states. How to excel in job search, how to succeed getting more job interviews, enhance your career in your company
   Updated: 2026-01-23T18:37:03Z
