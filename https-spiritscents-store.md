@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2022-07-25T06:11:29Z
-- Updated At: 2026-02-06T00:00:38.653Z
+- Updated At: 2026-02-14T00:00:41.656Z
 
 ## Products
 
@@ -38,7 +38,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/products/image_74a4d332-c221-4b70-9612-6fa55a33bc52.jpg?v=1670215561
   Price: $21.99 USD
 - [Rosemary & patchouli](https://spiritscents.store/products/rosemary-patchouli): 8 oz soy blend wax , rosemary and patchouli candle Fragrance : The Rosemary and patchouli candle is for lovers of all things green and herbal , This candle has a Very refreshing fragrance. CANDLE CARE: Always Trim Your Wick to 1/4" Before Candle is Lit Each Time to Avoid Any Soot Burn Candle so Wax Pool Reaches the Jar Edge Each Time to Prevent Wax Tunneling Burn Candle No More Than 4 Hours at a Time and Do Not Burn Candle with Less Than a 1/2" of Wax Remaining Keep Candle Away from Fans, Open Windows, Hot Surfaces, Children, Pets Never Leave a Burning Candle Unattended
-  Updated: 2024-11-20T14:09:42Z
+  Updated: 2026-02-07T05:30:15Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/products/image_f830d772-80e7-4e37-a9d8-9cb56dc4f292.heic?v=1669959774
   Price: $32.99 USD
 - [Coconut & Vanilla candle](https://spiritscents.store/products/coconut-vanilla-candle-1): 4 oz soy blend coconut and vanilla candle fragrance: creamy coconut blended with warm vanilla bean . CANDLE CARE: Always Trim Your Wick to 1/4" Before Candle is Lit Each Time to Avoid Any Soot Burn Candle so Wax Pool Reaches the Jar Edge Each Time to Prevent Wax Tunneling Burn Candle No More Than 4 Hours at a Time and Do Not Burn Candle with Less Than a 1/2" of Wax Remaining Keep Candle Away from Fans, Open Windows, Hot Surfaces, Children, Pets Never Leave a Burning Candle Unattended
-  Updated: 2024-11-20T00:34:19Z
+  Updated: 2026-02-08T23:47:56Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
@@ -101,7 +101,7 @@
   Image: https://cdn.shopify.com/s/files/1/0550/9926/0992/products/image_a8950973-603b-4c52-8c84-a9e0403f68dc.heic?v=1670214044
   Price: $10.99 USD
 - [Oud room spray](https://spiritscents.store/products/oud-room-spray): Oud perfume is one of the most luxurious and finest types of original Arabic perfumes, famous for its attractive scent. *You can use it as an air freshener. Or on sheets and curtains Fragrance type : woody
-  Updated: 2024-11-19T21:29:23Z
+  Updated: 2026-02-08T12:33:51Z
   Vendor: SpiritScents
   Product Type: 
   Availability: Available
