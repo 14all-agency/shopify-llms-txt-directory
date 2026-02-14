@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-02-06T00:00:43.412Z
+- Updated At: 2026-02-14T00:00:47.074Z
 
 ## Products
 
@@ -151,35 +151,35 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-couches-babybags-bleu-Bebe-Touriste.webp?v=1742083820
   Price: 23,00 € EUR
 - [Sac à Dos  à Langer -  BabyTravel™ - ABRICOT](https://bebetouriste.com/products/sac-a-dos-a-langer-abricot): Découvrez le sac à dos à langer ultime pour parents modernes: pratique, élégant et multifonctionnel, alliant confort et organisation optimale.
-  Updated: 2025-12-28T01:44:39Z
+  Updated: 2026-02-11T02:59:02Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-dos-a-langer-Bebe-Touriste-babytravel-abricot.jpg?v=1742079912
   Price: 64,50 € EUR
-- [Sac à Dos à Langer -  BabyTravel™ - BLEU MARINE](https://bebetouriste.com/products/sac-a-dos-a-langer-bleu-marine): Sac à dos à langer bleu marine: solution pratique et élégante pour parents actifs. Rangement optimisé, berceau portable. L'allié idéal pour vos sorties avec bébé.
-  Updated: 2025-12-27T13:42:51Z
+- [Sac à Dos à Langer -  BabyTravel™ - BLEU MARINE (LIT PORTABLE BEBE)](https://bebetouriste.com/products/sac-a-dos-a-langer-bleu-marine): Sac à dos à langer bleu marine: solution pratique et élégante pour parents actifs. Rangement optimisé, berceau portable. L'allié idéal pour vos sorties avec bébé.
+  Updated: 2026-02-11T17:20:34Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-dos-a-langer-babytravel-bleu-marin.webp?v=1742079688
   Price: 64,50 € EUR
-- [Sac à Dos à Langer -  BabyTravel™ - NOIR](https://bebetouriste.com/products/sac-a-dos-a-langer-noir): Découvrez le Sac à Dos à Langer Noir: compagnon idéal pour parents actifs. Multifonctionnel avec berceau portable intégré, pour simplifier vos sorties avec bébé.
-  Updated: 2025-12-27T13:41:38Z
+- [Sac à Dos à Langer -  BabyTravel™ - NOIR (LIT PORTABLE BEBE)](https://bebetouriste.com/products/sac-a-dos-a-langer-noir): Découvrez le Sac à Dos à Langer Noir: compagnon idéal pour parents actifs. Multifonctionnel avec berceau portable intégré, pour simplifier vos sorties avec bébé.
+  Updated: 2026-02-11T16:32:09Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-dos-a-langer-noir-Bebe-Touriste.webp?v=1742079225
   Price: 64,50 € EUR
-- [Sac à Dos à Langer -  BabyTravel™ - VERT](https://bebetouriste.com/products/sac-a-dos-a-langer-vert): Découvrez le sac à dos à langer vert; avec ses poches isolées, son berceau portable et sa grande capacité, vous simplifiez les sorties avec le bébé.
-  Updated: 2025-12-27T13:37:14Z
+- [Sac à Dos à Langer -  BabyTravel™ - VERT (LIT PORTABLE BEBE)](https://bebetouriste.com/products/sac-a-dos-a-langer-vert): Découvrez le sac à dos à langer vert; avec ses poches isolées, son berceau portable et sa grande capacité, vous simplifiez les sorties avec le bébé.
+  Updated: 2026-02-11T14:57:59Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-dos-a-langer-vert-avec-lit.webp?v=1742078901
   Price: 64,50 € EUR
 - [Sac à Dos à Langer -  BabyTravel™ - GRIS](https://bebetouriste.com/products/sac-a-dos-a-langer-gris): Découvrez notre sac à dos à langer gris, alliant style et praticité pour les parents modernes: poches isolées, espace optimisé, berceau portable.
-  Updated: 2025-12-27T13:36:25Z
+  Updated: 2026-02-11T14:53:47Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -227,8 +227,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/moustiquaire-poussette-gris.webp?v=1742091080
   Price: 18,90 € EUR
-- [POT BEBE - BabyPotty™](https://bebetouriste.com/products/pot-bebe): Découvrez le pot toilette bébé portable, la solution pratique pour des voyages sans stress. Léger, compact et hygiénique, il s'installe en 10 secondes.
-  Updated: 2025-12-20T00:29:16Z
+- [POT DE VOYAGE BEBE - BabyPotty™](https://bebetouriste.com/products/pot-bebe): Découvrez le pot toilette bébé portable, la solution pratique pour des voyages sans stress. Léger, compact et hygiénique, il s'installe en 10 secondes.
+  Updated: 2026-02-11T17:25:04Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-poussette-strollerfootmuff-verte-725968.webp?v=1734791828
     Price: 74,90 € EUR
 - [Bidet Portable - PortableBidet™](https://bebetouriste.com/products/bidet-portable): Découvrez le bidet portable, solution innovante pour l'hygiène des mamans post-partum et des bébés. Confort, praticité, propreté optimale à la maison et en voyage.
-  Updated: 2026-01-01T22:13:10Z
+  Updated: 2026-02-11T01:06:31Z
   Vendor: Bébé Touriste
   Product Type: mutual
   Availability: Available
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bidet-portable-portablebidet-pour-enfants.webp?v=1752336137
     Price: 15,00 € EUR
 - [CALE TÊTE POUR BÉBÉ - BabyCarSeatHeadSupport™](https://bebetouriste.com/products/cale-tete-bebe-voiture): 😊🎁La cale tête pour bébé: confort et sécurité optimaux pour votre enfant. La solution idéale pour un sommeil paisible, position idéale en voiture.❤️
-  Updated: 2025-12-20T00:29:17Z
+  Updated: 2026-02-11T00:16:03Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -409,14 +409,14 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-poussette-strollerfootmuff-bleue-clair-959526.webp?v=1736008856
   Price: 34,50 € EUR
 - [Couverture Bébé - BabyTriangles™ - Bleu Clair](https://bebetouriste.com/products/couverture-bebe-bleu-clair): ❄️🎁Notre couverture bébé bleu clair : douceur, confort, polyvalence pour votre petit trésor. Le cadeau parfait pour les nouveaux parents se trouve chez nous.😊
-  Updated: 2025-12-20T00:29:09Z
+  Updated: 2026-02-08T18:48:21Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-bleu-clair-913382.webp?v=1734791827
   Price: 23,90 € EUR
 - [Lapin Couverture Bébé - SommeilConfort™ -  Lapin Gris](https://bebetouriste.com/products/couverture-bebe-lapin-gris): ❄️➡️La couverture bébé Lapin gris: douceur, confort et polyvalence pour votre tout-petit. Design adorable, idéale en toute saison, cadeau parfait pour bébé ! 💕
-  Updated: 2025-12-20T00:29:10Z
+  Updated: 2026-02-08T18:54:25Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -437,7 +437,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-ourson-vert-detail.jpg?v=1742096523
   Price: 23,90 € EUR
 - [Couverture Bébé Ourson - ConfortDodo™ - Ourson Beige](https://bebetouriste.com/products/couverture-bebe-ourson-beige): ➡️🎁Couverture bébé ourson beige: douceur incomparable, polyvalence, confort optimal pour votre petit trésor. Accessoire indispensable pour sommeil et sorties.
-  Updated: 2025-12-20T00:29:10Z
+  Updated: 2026-02-08T17:42:26Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -451,35 +451,35 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-ourson-marron-149673.webp?v=1734791818
   Price: 23,90 € EUR
 - [Couverture Bébé Rose - BabyRoseBlanket™](https://bebetouriste.com/products/couverture-bebe-rose): ➡️🎁La couverture bébé rose en microfibre: douce, confortable, polyvalente. Elle offre chaleur et sécurité. Le cadeau parfait pour les nouveaux parents.😊
-  Updated: 2025-12-20T00:29:11Z
+  Updated: 2026-02-08T17:37:23Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-Bebe-Touriste-rose.webp?v=1742096137
   Price: 23,90 € EUR
 - [Couverture Bébé - DouxDoudou™ - Gris](https://bebetouriste.com/products/couverture-bebe-gris): ➡️🎁Couverture bébé grise en microfibre : douceur, confort, polyvalence pour votre bébé. Idéale pour les siestes, les sorties. Cadeau parfait pour les parents.
-  Updated: 2025-12-20T00:29:11Z
+  Updated: 2026-02-08T18:52:29Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-gris-459219.webp?v=1734791822
   Price: 23,90 € EUR
 - [Couverture Bébé - TwoColors™ - Bleu et Beige](https://bebetouriste.com/products/couverture-bebe-bleu-et-beige): 🎁La couverture bébé bleu et beige est l'accessoire indispensable pour le confort de votre enfant. Polyvalente, douce et élégante, pour des sorties en sérénité.
-  Updated: 2025-12-20T00:29:11Z
+  Updated: 2026-02-08T18:53:32Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-bleu-et-beige-890589.jpg?v=1734791827
   Price: 24,50 € EUR
 - [Couverture Rose Bébé - DeuxCouleurs™ - Gris et Rose](https://bebetouriste.com/products/couverture-bebe-gris-et-rose): La couverture bébé gris et rose : douceur, confort et polyvalence pour le bien-être de votre 🧸🎁enfant. Idéale pour les sorties et le sommeil, en toute saison.
-  Updated: 2025-12-20T00:29:11Z
+  Updated: 2026-02-08T18:51:34Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-gris-et-rose-982961.jpg?v=1734791821
   Price: 24,50 € EUR
 - [Couverture Bébé - BabyBlanket™- Bleu](https://bebetouriste.com/products/couverture-bebe-babyblanket-bleu): 😊🎁Couverture bébé bleue pour un sommeil paisible. Douce, polyvalente et adaptée à toutes saisons. Confort optimal et bien-être garanti pour votre petit ange.
-  Updated: 2025-12-20T00:29:12Z
+  Updated: 2026-02-08T18:49:38Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -546,7 +546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-blanc-BabyBag.webp?v=1742082677
   Price: 28,90 € EUR
 - [Couverture Rose Bébé - BabyBlanket™](https://bebetouriste.com/products/couverture-bebe-babyblanket-rose): 😍🎁La couverture bébé rose : douceur, confort et polyvalence pour le sommeil et le bien-être de votre enfant. Régulation thermique optimale en toutes saisons.
-  Updated: 2025-12-20T00:29:13Z
+  Updated: 2026-02-08T17:36:37Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -560,14 +560,14 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-kaki.webp?v=1742094859
   Price: 24,50 € EUR
 - [Couverture Bébé - BabyBlanket™- Bleue - Clair](https://bebetouriste.com/products/couverture-bebe-babyblanket-bleue-clair): 🧸Couverture bébé bleue clair, pour un sommeil paisible. Douce, polyvalente et adaptée à toutes saisons. Confort optimal et bien-être garanti pour votre petit.
-  Updated: 2025-12-20T00:29:14Z
+  Updated: 2026-02-08T18:49:03Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-bleue-clair.webp?v=1742094768
   Price: 24,50 € EUR
 - [Couverture Blanche Bébé - BabyBlanket™](https://bebetouriste.com/products/couverture-bebe-babyblanket-blanc): 😊🧸Offrez confort et bien-être à votre bébé avec la couverture bébé blanche, douce et polyvalente. Idéale pour le sommeil, le bain et les sorties.
-  Updated: 2025-12-20T00:29:14Z
+  Updated: 2026-02-08T17:40:52Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -581,7 +581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-babyblanket-blanche-Bebe-Touriste.webp?v=1742093412
     Price: 28,50 € EUR
 - [CALE TETE BEBE - PillowBaby™ - OREILLER CERVICAL BEBE](https://bebetouriste.com/products/oreiller-cervical-bebe-pillowbaby): 🎁L'oreiller cervical pour bébé est l'accessoire idéal pour le confort et la sécurité de votre petit. Soutien optimal, pour un développement sain de 0 à 1 an.
-  Updated: 2025-12-20T00:29:14Z
+  Updated: 2026-02-11T12:44:12Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1074,7 +1074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-nomade.jpg?v=1757781551
     Price: 42,50 € EUR
 - [Couverture Bébé Beige - BeigeBabyBlanket™ - Animaux](https://bebetouriste.com/products/couverture-bebe-beige-babyblanket-animaux): 👶 Découvrez notre couverture bébé beige aux bulles 3D apaisantes. Offrez à votre petit des nuits paisibles et un sommeil profond. Commandez maintenant !
-  Updated: 2025-12-20T00:29:14Z
+  Updated: 2026-02-08T16:06:39Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1170,7 +1170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chauffe-biberon-6-en-1-vert-clair.jpg?v=1752455152
     Price: 34,50 € EUR
 - [POT BEBE - BabyPotty™ - DINOSAURE](https://bebetouriste.com/products/pot-bebe-babypotty-dinosaure): 🦖 Transformez l'apprentissage de la propreté en jeu avec notre pot bébé - dinosaure. Confortable et ludique, il fait aimer le pot à votre enfant !
-  Updated: 2025-12-20T00:29:14Z
+  Updated: 2026-02-11T00:44:34Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1196,7 +1196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-bebe-dinosaure-rose.jpg?v=1753489022
     Price: 32,90 € EUR
 - [POT BEBE - BabyToilet™ - CANARD](https://bebetouriste.com/products/pot-bebe-babytoilet-canard): 🦆 Découvrez notre Pot Bébé Canard et transformez l'apprentissage de la propreté en jeu ! Design ergonomique et sécurisé pour les tout-petits. Commandez maintenant !
-  Updated: 2025-12-20T00:29:15Z
+  Updated: 2026-02-11T13:17:02Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1288,7 +1288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/reducteur-de-toilette-rose.jpg?v=1753560194
     Price: 20,00 € EUR
 - [LIT BEBE DE VOYAGE - BabyTravelBed™](https://bebetouriste.com/products/lit-de-voyage-bebe-babytravelbed): 🛌 Découvrez notre lit de voyage bébé pliable et protecteur. Voyagez sereinement avec un cocon qui reproduit l'environnement maternel rassurant !
-  Updated: 2025-12-20T00:29:16Z
+  Updated: 2026-02-11T16:44:31Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1336,7 +1336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/poussette-tricycle-pliable-rouge-enfant.jpg?v=1753655404
     Price: 139,00 € EUR
 - [Couverture Bébé - JolisAnimaux™](https://bebetouriste.com/products/couverture-bebe-babyblanket-animaux): 🧸 Découvrez notre couverture bébé avec animaux, alliant douceur exceptionnelle et motifs stimulants pour le développement. Offrez confort et éveil sensoriel !
-  Updated: 2025-12-20T00:29:16Z
+  Updated: 2026-02-08T18:47:24Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1713,7 +1713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/porte-bebe-violet.jpg?v=1754076349
     Price: 30,00 € EUR
 - [Couverture Bebe Beige - BabyVelvetBlanket™ - Velours Beige](https://bebetouriste.com/products/couverture-bebe-babyvelvetblanket-velours-beige): 🧸 Découvrez notre couverture bébé en velours beige avec oursons, alliant douceur exceptionnelle et polyvalence. Offrez chaleur et réconfort à votre petit trésor!
-  Updated: 2025-12-20T00:29:10Z
+  Updated: 2026-02-08T16:05:44Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1751,7 +1751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-beige-velours-ourson-marron.jpg?v=1755086666
     Price: 28,50 € EUR
 - [Lit de Voyage Bébé - BabyTravelBed™ - Avion et Train](https://bebetouriste.com/products/lit-de-voyage-bebe-babytravelbed-avion-et-train): 🛌 Transformez vos voyages en famille ! Notre lit de voyage bébé pour avion et train offre un confort optimal et un sommeil paisible. Voyagez enfin sans stress !
-  Updated: 2025-12-20T00:29:10Z
+  Updated: 2026-02-11T01:59:53Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1787,7 +1787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-blanc-en-cuir-details.jpg?v=1754875432
     Price: 84,50 € EUR
 - [CALE TETE BEBE VOITURE-  BabyNeckPillow™](https://bebetouriste.com/products/cale-tete-bebe-babyneckpillow): 👶 Protégez la tête de bébé pendant vos trajets ! Découvrez notre cale tête bébé confortable qui prévient les douleurs cervicales. Voyagez enfin sereinement !
-  Updated: 2025-12-20T00:29:11Z
+  Updated: 2026-02-11T00:12:34Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1817,7 +1817,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/cale-tete-bebe-blanc-avec-singe.jpg?v=1754997353
     Price: 22,50 € EUR
 - [Lit de Voyage Bébé - BabyTravelBed™ - Pliable](https://bebetouriste.com/products/lit-de-voyage-bebe-babytravelbed-pliable): 🛌 Découvrez notre lit de voyage pour bébé 3-en-1 : sommeil paisible partout, rangement astucieux et légèreté garantie. Simplifiez vos déplacements !
-  Updated: 2025-11-09T13:49:44Z
+  Updated: 2026-02-11T02:01:27Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1851,7 +1851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/lit-de-voyage-bebe-pliable-rose.png?v=1755034036
     Price: 49,00 € EUR
 - [SAC A LANGER - BabyCrib™ - BERCEAU PLIABLE](https://bebetouriste.com/products/sac-a-langer-babybag-berceau-pliable): 👜 Découvrez notre sac a langer avec berceau pliable 3-en-1. Simplifiez vos sorties avec bébé et profitez d'un rangement optimal, partout !
-  Updated: 2026-02-04T00:41:28Z
+  Updated: 2026-02-11T18:03:12Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -1888,7 +1888,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/babybag-sac-a-langer-vert.png?v=1756353954
   Price: 84,50 € EUR
 - [Lit de Voyage Bébé - TravelCrib™](https://bebetouriste.com/products/lit-de-voyage-bebe-travelcrib): 🛌 Découvrez notre lit de voyage bébé confortable et ultra-léger. Offrez à votre enfant un sommeil paisible partout, même loin de la maison !
-  Updated: 2025-12-20T00:29:11Z
+  Updated: 2026-02-11T02:06:28Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2389,7 +2389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/porte-bebe-physiologique-flanelle-noire.jpg?v=1757210485
     Price: 39,50 € EUR
 - [Couverture Bébé - WindproofBlanket™ - Coupe-Vent](https://bebetouriste.com/products/couverture-bebe-windproofblanket-coupe-vent): 👶 Protégez votre bébé du froid avec notre couverture coupe-vent en velours de coton. Adaptable sur poussette et siège auto pour des sorties hivernales sereines !
-  Updated: 2025-12-28T01:26:22Z
+  Updated: 2026-02-08T18:45:24Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2473,7 +2473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-babybag-pliable-rose.jpg?v=1757474705
     Price: 54,50 € EUR
 - [Couverture Bébé Blanche- BonDodo™ - Hibou](https://bebetouriste.com/products/couverture-bebe-babyblanket-hibou): 🦉 Découvrez notre couverture bébé hibou ultra-douce ! Offrez à votre petit un cocon apaisant pour des nuits paisibles. Commandez dès maintenant !
-  Updated: 2025-11-09T13:49:47Z
+  Updated: 2026-02-08T17:41:41Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2519,8 +2519,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/nid-dange-babybag-automne-hiver-gris-bouton.jpg?v=1757455795
     Price: 32,50 € EUR
-- [Couverture Bébé - VelvetBlanket™ - Velours](https://bebetouriste.com/products/couverture-bebe-babyvelvetblanket-velours): 👶 Découvrez notre couverture bébé en velours pour un sommeil paisible. Offrez douceur infinie et sécurité à votre tout-petit dès aujourd'hui !
-  Updated: 2025-12-20T00:29:15Z
+- [Couverture Bébé - VelvetBlanket™ - Velours Blancs](https://bebetouriste.com/products/couverture-bebe-babyvelvetblanket-velours): 👶 Découvrez notre couverture bébé en velours pour un sommeil paisible. Offrez douceur infinie et sécurité à votre tout-petit dès aujourd'hui !
+  Updated: 2026-02-09T03:06:45Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2594,7 +2594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-velours-lapin-rose.jpg?v=1757556302
     Price: 30,00 € EUR
 - [Couverture Bébé - CozyBabyBlanket™ - Éléphants](https://bebetouriste.com/products/couverture-bebe-babyblanket-elephants): 🐘 Découvrez notre couverture bébé - éléphants: douceur toutes saisons et motifs apaisants pour des nuits paisibles. Offrez ce cocon réconfortant dès aujourd'hui!
-  Updated: 2025-12-20T00:29:15Z
+  Updated: 2026-02-08T18:55:06Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2608,7 +2608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/couverture-bebe-elephants-bleu-dimensions.jpg?v=1757538541
     Price: 28,00 € EUR
 - [CALE TÊTE POUR SIÈGE AUTO BEBE  | DodoSé™](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-dodosecure): 🚗 Fini la tête qui bascule! Notre cale tête pour siège auto maintient bébé confortablement endormi. Voyagez sereinement avec ce support sécurisé et universel.
-  Updated: 2025-12-14T16:43:15Z
+  Updated: 2026-02-11T00:11:34Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2662,7 +2662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/poussette-pliable-a-un-bouton-marron-the-au-lait.jpg?v=1757775698
     Price: 185,00 € EUR
 - [Couverture Polaire Bébé - VelvetBaby™](https://bebetouriste.com/products/couverture-polaire-bebe-babyvelvetblanket): 👶 Découvrez notre couverture polaire bébé ultra-douce ! Enveloppez votre trésor dans un cocon de chaleur parfait pour des nuits paisibles. Commandez maintenant !
-  Updated: 2025-12-20T00:29:16Z
+  Updated: 2026-02-08T18:56:36Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -2764,7 +2764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/echarpe-de-portage-babybacktowel-rose.jpg?v=1757855216
     Price: 37,50 € EUR
 - [Pot d'Apprentissage Évolutif pour Bébé | BabyClean™](https://bebetouriste.com/products/pot-dapprentissage-evolutif-pour-bebe-babyclean): 🚽 Découvrez notre pot bébé évolutif et ergonomique, idéal pour un apprentissage en douceur de la propreté. Commandez-le maintenant !
-  Updated: 2025-12-20T00:29:08Z
+  Updated: 2026-02-11T16:31:42Z
   Vendor: Bébé Touriste
   Product Type: 
   Availability: Available
@@ -2778,9 +2778,9 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-bebe-apprentissage-bleu-vert.webp?v=1758390051
     Price: 29,99 € EUR
 - [Pot d'apprentissage ergonomique pour bébé | BabyStep](https://bebetouriste.com/products/pot-dapprentissage-ergonomique-pour-bebe-babystep): 🚽 Découvrez notre pot bébé ergonomique : apprentissage facile, hygiène garantie et transition en douceur vers l'autonomie. Commandez maintenant !
-  Updated: 2025-12-20T00:29:08Z
+  Updated: 2026-02-11T15:20:52Z
   Vendor: mutualdropshopping
-  Product Type: 
+  Product Type: mutual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/product-image-1_a99956ce-307f-4787-a487-74ed156f19a0.jpg?v=1758345060
   - [Vert](https://bebetouriste.com/products/pot-dapprentissage-ergonomique-pour-bebe-babystep?variant=44889145835577)
@@ -4056,7 +4056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison-bebe-vert-kaki.jpg?v=1764903219
     Price: 31,99 € EUR
 - [Lit de voyage pour bébé | Pliable Ultrarapide™](https://bebetouriste.com/products/lit-de-voyage-pour-bebe-pliable-ultrarapide): 🛏️ Lit de voyage pour bébé pliable : montage en 30s, sommeil serein partout ! Découvrez ce cocon transportable qui offre confort et sécurité à votre bébé.
-  Updated: 2025-12-07T03:57:32Z
+  Updated: 2026-02-11T02:08:14Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4109,7 +4109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/differents-plats.jpg?v=1765081218
   Price: 97,50 € EUR
 - [Lit de Voyage pour Bébé Pliable | CozyTravel™](https://bebetouriste.com/products/lit-de-voyage-pour-bebe-pliable-cozytravel): 🛌 Lit de voyage pour bébé pliable : montage éclair, sommeil serein partout ! Découvrez le cocon anti-pression qui transforme vos voyages en famille.
-  Updated: 2026-01-23T00:32:42Z
+  Updated: 2026-02-11T02:10:43Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4209,7 +4209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/spirale-dactivite-bb.jpg?v=1765146096
     Price: 26,99 € EUR
 - [POT VOITURE BEBE | Ergonomique™](https://bebetouriste.com/products/pot-voiture-bebe-ergonomique): 🚽 Découvrez notre pot bébé ergonomique et coloré pour un apprentissage de la propreté en douceur. Commandez maintenant et simplifiez cette étape !
-  Updated: 2025-12-20T00:29:12Z
+  Updated: 2026-02-11T14:15:42Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4227,7 +4227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/pot-voiture-bebe.jpg?v=1765234125
     Price: 38,99 € EUR
 - [Lit Moustiquaire Bebe | SécuriDodo™](https://bebetouriste.com/products/lit-moustiquaire-bebe-securidodo): 🛌 Protégez votre bébé des moustiques! Lit moustiquaire pliant, léger et sécurisé pour des nuits paisibles. Commandez maintenant pour des siestes sans piqûres!
-  Updated: 2025-12-20T00:29:13Z
+  Updated: 2026-02-11T01:58:29Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4289,7 +4289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/spirale-dactivite-renard-gris.jpg?v=1765248590
     Price: 32,99 € EUR
 - [Lit cododo | Sommeil Sécurisé™](https://bebetouriste.com/products/lit-cododo-sommeil-securise): 👶 Découvrez notre lit cododo réglable et sécurisé pour dormir près de bébé. Favorisez le lien parent-enfant tout en garantissant des nuits sereines !
-  Updated: 2025-12-20T00:29:13Z
+  Updated: 2026-02-11T02:14:25Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4449,7 +4449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/echarpe-portage.jpg?v=1765432286
     Price: 29,50 € EUR
 - [Meilleur cale tête bébé voiture | ComfortDrive™](https://bebetouriste.com/products/meilleur-cale-tete-bebe-voiture-comfortdrive): 🚗 Découvrez le cale tête bébé voiture qui assure confort et sécurité pendant les voyages. Fini les arrêts fréquents ! Conduisez sereinement dès maintenant.
-  Updated: 2025-12-12T04:12:04Z
+  Updated: 2026-02-11T00:10:12Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4475,7 +4475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/meilleur-cale-tete-bebe-voiture-bleu.jpg?v=1765473502
     Price: 29,50 € EUR
 - [Cale Tête Bébé Voiture Ergonomique | SleepSafe™](https://bebetouriste.com/products/cale-tete-bebe-voiture-ergonomique-sleepsafe): 🚗 Découvrez notre cale tête bébé voiture ergonomique! Protégez la nuque de votre enfant et voyagez sereinement sans stress. Sommeil paisible garanti!
-  Updated: 2025-12-12T04:26:30Z
+  Updated: 2026-02-11T00:10:56Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4570,7 +4570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oreiller-de-voyage-rouge.png?v=1765510429
     Price: 36,90 € EUR
 - [SAC A LANGER LIT| Spacieux & Pratique™](https://bebetouriste.com/products/sac-a-langer-lit-spacieux-pratique): 👜 Découvrez notre sac a langer lit spacieux et pratique ! Rangez tout le nécessaire pour bébé et profitez de sorties sereines. Commandez maintenant !
-  Updated: 2026-02-01T03:35:02Z
+  Updated: 2026-02-11T17:06:28Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -4747,7 +4747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/beige.jpg?v=1766206203
     Price: 32,50 € EUR
 - [LIT BEBE PORTATIF  | TravelNap™](https://bebetouriste.com/products/lit-bebe-portatif-travelnap): 🛌 Découvrez notre lit bébé portatif ultra-léger. Voyagez sereinement avec ce berceau compact, moustiquaire intégrée et montage en 2 min. Dormez partout !
-  Updated: 2025-12-22T05:19:59Z
+  Updated: 2026-02-11T16:52:05Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -5257,7 +5257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/combinaison_matelasse_bebe.png?v=1767484209
     Price: 32,90 € EUR
 - [POT BEBE VOITURE | Ergonomique™](https://bebetouriste.com/products/pot-bebe-voiture-ergonomique): 🚽 Découvrez notre pot bébé ergonomique et coloré pour un apprentissage ludique de la propreté. Commandez maintenant et simplifiez cette étape importante !
-  Updated: 2026-01-04T13:05:40Z
+  Updated: 2026-02-11T15:08:59Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -5384,7 +5384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/bonnet-bebe-riz-blanc.jpg?v=1767612038
     Price: 22,90 € EUR
 - [Chapeau bébé | Anti-UV Ajustable™](https://bebetouriste.com/products/chapeau-bebe-anti-uv-ajustable): 👒 Protégez votre bébé avec style ! Chapeau bébé confortable, ajustable et anti-UV. Découvrez nos modèles adorables pour toutes les saisons.
-  Updated: 2026-01-06T13:12:09Z
+  Updated: 2026-02-10T18:06:20Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -5450,7 +5450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/sac-a-langer-bebe-gris-image.jpg?v=1767666441
     Price: 39,50 € EUR
 - [CALE TETE POUR SIEGE AUTO BEBE | SleepSecure™](https://bebetouriste.com/products/cale-tete-pour-siege-auto-bebe-sleepsecure): 🚗 Cale tête pour siège auto bébé : évitez que sa tête ne bascule en voiture ! Sommeil paisible et sécurité garantie pour des trajets sans stress.
-  Updated: 2026-01-07T08:13:05Z
+  Updated: 2026-02-11T12:45:46Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -5685,7 +5685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/chanceliere-vert-cigale.jpg?v=1768172814
     Price: 64,50 € EUR
 - [CASQUETTE BEBE| Protection confortable toutes saisons™](https://bebetouriste.com/products/casquette-bebe-protection-confortable-toutes-saisons): 👶 Protégez votre bébé avec nos casquettes confortables et tendance. Commandez dès maintenant pour des promenades en toute sécurité, été comme hiver !
-  Updated: 2026-01-13T12:08:13Z
+  Updated: 2026-02-10T18:05:12Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -5777,7 +5777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/oiseaux-gris.jpg?v=1768267750
     Price: 28,90 € EUR
 - [Nid d'ange Douillet | Cosy Winter™ | Nid de lapins](https://bebetouriste.com/products/nid-dange-douillet-cosy-winter): 👶 Nid d'ange douillet : gardez bébé au chaud en hiver ! Protection imperméable, sommeil paisible et sorties simplifiées. Découvrez ce cocon indispensable !
-  Updated: 2026-01-17T06:55:30Z
+  Updated: 2026-02-09T22:54:50Z
   Vendor: mutualdropshopping
   Product Type: mutual
   Availability: Available
@@ -5867,41 +5867,41 @@
 ## Collections
 
 - [ALL - Tout pour votre bébé](https://bebetouriste.com/collections/all): 👶🧳 Découvrez notre collection complète d'accessoires de voyage pour votre bébé ! Produits de qualité pour le confort et le bien-être quotidien de votre enfant! 🎁
-  Updated: 2026-02-04T12:16:31Z
-  Total Products: 264
+  Updated: 2026-02-12T00:45:16Z
+  Total Products: 275
 - [NOS MEILLEURES VENTES](https://bebetouriste.com/collections/nos-meilleures-ventes): 👶 Découvrez nos meilleures ventes pour bébé ! Accessoires pratiques et essentiels pour simplifier votre quotidien de parent et voyager sereinement.
-  Updated: 2026-02-04T12:16:31Z
-  Total Products: 88
+  Updated: 2026-02-11T01:34:02Z
+  Total Products: 91
 - [SAC A LANGER](https://bebetouriste.com/collections/sac-a-langer-babybag): 👜🧸 Notre gamme de sacs à langer: pratiques et élégants, pour répondre aux besoins des parents modernes. Trouvez le modèle parfait pour vos sorties avec bébé !
   Updated: 2026-02-01T00:04:10Z
   Total Products: 22
 - [COUVERTURE BÉBÉ](https://bebetouriste.com/collections/couverture-bebe-babyblanket): Découvrez notre gamme de couvertures bébé alliant douceur et confort. Du tricot chaleureux à la polaire douce, trouvez la couverture parfaite pour votre petit.
-  Updated: 2026-02-03T22:08:53Z
-  Total Products: 24
+  Updated: 2026-02-08T14:42:42Z
+  Total Products: 28
 - [PORTE BEBE](https://bebetouriste.com/collections/porte-bebe): Découvrez tout sur le porte-bébé! Du modèle vélo à l'ergonomique, trouvez le porte-bébé idéal pour votre enfant. Guide expert pour choisir le meilleur produit.
-  Updated: 2026-01-07T02:08:36Z
-  Total Products: 16
+  Updated: 2026-02-09T01:55:24Z
+  Total Products: 17
 - [CHANCELIÈRE POUSSETTE](https://bebetouriste.com/collections/chanceliere-poussette): Notre sélection de chancelières poussette offre des modèles universels, pratiques et confortables, adaptés à toutes les poussettes pour le confort de votre petit.
   Updated: 2026-01-13T16:45:22Z
   Total Products: 24
 - [NID D'ANGE](https://bebetouriste.com/collections/nids-dange): 👶 Découvrez nos nids d'ange, cocons douillets pour garder bébé au chaud en balade. Pratiques pour poussettes et sièges auto. Commandez le vôtre !
-  Updated: 2026-01-16T04:12:31Z
-  Total Products: 14
+  Updated: 2026-02-09T22:37:52Z
+  Total Products: 15
 - [POUSSETTE](https://bebetouriste.com/collections/poussette): 👶 Découvrez nos poussettes confortables et légères pour vos sorties avec bébé. Profitez de modèles pratiques adaptés à tous vos besoins !
   Updated: 2026-01-04T17:34:40Z
   Total Products: 12
 - [ACCESSOIRES](https://bebetouriste.com/collections/accessoires): 👶 Découvrez nos accessoires pour bébé pratiques et durables. Simplifiez votre quotidien avec des solutions innovantes pour le confort de votre petit !
-  Updated: 2026-01-04T01:39:39Z
-  Total Products: 24
+  Updated: 2026-02-11T02:18:12Z
+  Total Products: 5
 - [ACTIVITÉS](https://bebetouriste.com/collections/activites): 📚📚📚🧳👶Offrez à votre enfant des activités enrichissantes, agréables et utiles, pendant vos voyages ou à la maison! Venez les découvrir!
   Updated: 2026-01-25T16:47:09Z
   Total Products: 25
 - [SAC À DOS À LANGER](https://bebetouriste.com/collections/sac-a-dos-a-langer): 🎒SAC À DOS À LANGER : L'allié idéal pour les parents actifs. Avec style et fonctionnalité, ils offrent une grande capacité de rangement et un confort optimal.
-  Updated: 2026-02-04T12:16:31Z
+  Updated: 2026-02-11T02:57:26Z
   Total Products: 22
 - [CHAUFFE BIBERON](https://bebetouriste.com/collections/chauffe-biberon): 🍼 Découvrez nos chauffe biberons premium et simplifiez les repas de bébé ! Chauffage rapide, multifonctions et pratique. Commandez maintenant !
-  Updated: 2026-01-31T00:49:46Z
-  Total Products: 15
+  Updated: 2026-02-12T00:45:16Z
+  Total Products: 17
 - [ECHARPE DE PORTAGE](https://bebetouriste.com/collections/echarpe-de-portage): 👶 Découvrez nos écharpes de portage confortables et libérez vos mains ! Créez un lien unique avec bébé tout en restant actif. Commandez dès maintenant !
   Updated: 2026-01-21T04:05:51Z
   Total Products: 17
@@ -5909,17 +5909,29 @@
   Updated: 2025-11-01T02:30:20Z
   Total Products: 10
 - [TOUT POUR VOITURE](https://bebetouriste.com/collections/tout-pour-voiture)
-  Updated: 2026-01-19T02:42:27Z
-  Total Products: 18
+  Updated: 2026-02-11T01:34:02Z
+  Total Products: 27
 - [BARBOTEUSE](https://bebetouriste.com/collections/barboteuse)
   Updated: 2026-01-25T00:12:18Z
   Total Products: 12
-- [BONNETS, CHAPEAUX, CASQUETTES](https://bebetouriste.com/collections/bonnets-chapeaux-casquettes)
-  Updated: 2026-01-18T02:29:07Z
-  Total Products: 11
+- [BONNET BEBE](https://bebetouriste.com/collections/bonnets-chapeaux-casquettes)
+  Updated: 2026-02-10T18:06:20Z
+  Total Products: 5
 - [GIGOTEUSE](https://bebetouriste.com/collections/gigoteuse)
   Updated: 2026-01-13T02:03:11Z
   Total Products: 1
+- [CHAPEAU BEBE](https://bebetouriste.com/collections/chapeaux)
+  Updated: 2026-02-10T18:06:20Z
+  Total Products: 2
+- [CASQUETTE BEBE](https://bebetouriste.com/collections/casquettes)
+  Updated: 2026-02-10T18:05:13Z
+  Total Products: 4
+- [POT BEBE](https://bebetouriste.com/collections/pot-bebe)
+  Updated: 2026-02-11T01:35:55Z
+  Total Products: 12
+- [LIT VOYAGE BEBE](https://bebetouriste.com/collections/lit-voyage-bebe)
+  Updated: 2026-02-11T03:15:30Z
+  Total Products: 17
 
 ## Blogs
 
