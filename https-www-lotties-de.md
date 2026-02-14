@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-02-05T00:00:34.651Z
+- Updated At: 2026-02-14T00:00:39.390Z
 
 ## Products
 
