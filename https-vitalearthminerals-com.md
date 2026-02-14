@@ -6,68 +6,68 @@
 - Timezone: America/New_York
 - Created At: 2025-04-22T17:59:05Z
 - Contact Email: info@vitalearthminerals.com
-- Updated At: 2026-02-07T00:00:37.483Z
+- Updated At: 2026-02-14T00:00:40.067Z
 
 ## Products
 
 - [Fulvic Minerals | Essential Trace Minerals for Energy & Wellness](https://vitalearthminerals.com/products/fm): Fulvic Minerals deliver essential trace minerals to support energy, hydration, and overall wellness naturally sourced for daily vitality
-  Updated: 2026-02-06T19:16:10Z
+  Updated: 2026-02-13T12:38:16Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/FM_R12__22842.jpg?v=1745590344
   Price: $34.49 USD
 - [Super Multi Liquid Vitamins by Vital Earth Minerals](https://vitalearthminerals.com/products/sm): Super Multi is a liquid multivitamin packed with essential vitamins, minerals, and antioxidants to support daily health and immune function.
-  Updated: 2026-02-06T21:09:39Z
+  Updated: 2026-02-13T22:03:35Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/SM_R16__33843.jpg?v=1745590768
   Price: $38.99 USD
 - [Cal-Mag Liquid with Fulvic by Vital Earth Minerals](https://vitalearthminerals.com/products/cml): Cal-Mag Liquid offers a balanced blend of calcium and magnesium to promote strong bones, muscle function, and overall wellness in a liquid form.
-  Updated: 2026-02-06T21:09:12Z
+  Updated: 2026-02-13T12:38:16Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/CML_R13__24502.jpg?v=1745591454
   Price: $31.29 USD
 - [Humic Minerals | Natural Support for Digestion, Detox & Immunity](https://vitalearthminerals.com/products/hm): Humic Minerals support digestion, detox, and immune health with naturally sourced trace minerals, promoting overall wellness and vitality.
-  Updated: 2026-02-06T19:15:46Z
+  Updated: 2026-02-13T12:38:16Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/HM_R11__12643.jpg?v=1745592056
   Price: $34.49 USD
 - [Mineral Blend - Fulvic and Humic by Vital Earth Minerals](https://vitalearthminerals.com/products/mb): Mineral Blend combines Fulvic and Humic minerals, offering a plant-based solution to support overall wellness and mineral balance in your diet.
-  Updated: 2026-02-06T21:37:06Z
+  Updated: 2026-02-13T21:58:43Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/MB_R12__33052.jpg?v=1756468894
   Price: $34.49 USD
 - [Super Strength Humic Minerals by Vital Earth Minerals](https://vitalearthminerals.com/products/ssh): Super Strength Humic supports gut health, nutrient absorption, and immune function with a concentrated humic formula for daily wellness.
-  Updated: 2026-02-05T06:40:45Z
+  Updated: 2026-02-13T01:03:25Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/SSH_R11__91621.jpg?v=1745592629
   Price: $38.99 USD
 - [Shellfish free-high absorption liquid joint support by Vital Earth Minerals](https://vitalearthminerals.com/products/vjs): Vital Joint Support offers essential nutrients to reduce inflammation, promote flexibility, and strengthen joint function for an active lifestyle.
-  Updated: 2026-02-06T21:10:19Z
+  Updated: 2026-02-13T15:11:32Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/VJS_R16__24728.jpg?v=1745816475
   Price: $43.49 USD
 - [Pet Fulvic | Natural Mineral Supplement for Pet Health & Vitality](https://vitalearthminerals.com/products/pet-fulvic): Pet Fulvic is a natural mineral supplement designed to support digestion, and overall health for pets of all sizes and breeds.
-  Updated: 2026-02-06T21:32:44Z
+  Updated: 2026-02-12T18:48:21Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/image.png?v=1757930188
   Price: $26.99 USD
 - [Vital Earth Shot Glass | Perfect for Measuring Liquid Supplements](https://vitalearthminerals.com/products/vital-earth-shot-glass): The Vital Earth Shot Glass makes measuring and enjoying your daily liquid mineral supplements easy, ensuring accurate servings every time.
-  Updated: 2026-01-27T13:29:11Z
+  Updated: 2026-02-13T12:38:16Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/Pump_and_fulvic__47025.png?v=1745824379
   Price: $4.99 USD
 - [Fulvic Mineral Mist 3.4oz | Hydrate & Nourish Your Skin with Essential Minerals](https://vitalearthminerals.com/products/fulvic-mineral-mist-3-4oz): Refresh and hydrate your skin with Fulvic Mineral Mist, packed with essential minerals to nourish, revitalize, and promote a natural glow. Travel Size.
-  Updated: 2026-02-06T23:25:26Z
+  Updated: 2026-02-12T19:18:30Z
   Vendor: VitalEarthMinerals
   Product Type: 
   Availability: Available
@@ -95,14 +95,14 @@
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/WhatsApp_Image_2025-05-13_at_16.18.34_048d0665__19110.jpg?v=1747395093
   Price: $29.99 USD
 - [Starter Pack - The Vital Reset](https://vitalearthminerals.com/products/the-vital-reset): Step 1: Detox & Reboot with Humic Minerals or Super Strength Humic Minerals Start strong by clearing the path.Our Humic Minerals act like a magnet for toxins — sweeping through your digestive tract and bloodstream to bind and eliminate harmful substances like preservatives, seed oils, glyphosate, and more.But that’s not all — they also prime your gut to absorb nutrients more efficiently, setting the stage for everything that follows.Use daily for 1–2 months for a deep, foundational detox. Step 2: Recharge & Revitalize with Fulvic Mineral Complex Now that your system is clear, it’s time to energize. Fulvic Minerals work at the cellular level, neutralizing free radicals, supporting healthy pH balance, and creating the ideal environment for your mitochondria — the energy factories of your cells — to thrive. The result? Natural, youthful energy and enhanced cellular function. Use indefinitely or transition to Mineral Blend after 1–2 months. Step 3: Maintain & Thrive with Mineral Blend You’ve detoxed. You’ve recharged. Now it’s time to maintain.Our Mineral Blend delivers a daily dose of essential trace minerals to support your immune system, gut health, and cellular vitality — all in one convenient formula.Perfect for long-term wellness and daily nourishment. * These minerals have a three-year shelf life past the manufacturing date (located on the bottle)
-  Updated: 2026-02-06T21:37:10Z
+  Updated: 2026-02-13T21:58:53Z
   Vendor: Vital Earth Minerals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/3177/2273/files/Vital_Reset_Bundle.png?v=1763403449
   Price: $82.99 USD
 - [Mineral Blend Home & Travel Bundle](https://vitalearthminerals.com/products/mineral-blend-bundle): Vital Earth Minerals Mineral Blend Bundle – 32oz Liquid + Convenient Pouches Experience the ultimate in plant-based mineral nutrition with our Mineral Blend Bundle, featuring a 32oz bottle of Mineral Blend and easy-to-use pouches. This powerful combination delivers a rich spectrum of Humic and Fulvic minerals, designed to support optimal health, energy, and nutrient absorption. Why Choose Our Mineral Blend Bundle? Comprehensive Mineral Support: Packed with essential trace minerals for overall wellness. Convenient Options: Enjoy the full-size 32oz bottle at home and take the pouches on the go. Naturally Processed: Made from premium humic substances for maximum bioavailability. Supports Gut Health & Detox: Helps improve digestion and gently detoxify the body. Perfect for those who want flexibility without compromising quality. Whether you’re at home or traveling, this bundle ensures you never miss your daily dose of vital minerals.
-  Updated: 2026-02-06T21:37:16Z
+  Updated: 2026-02-13T21:58:53Z
   Vendor: Vital Earth Minerals
   Product Type: Liquid Mineral Supplement
   Availability: Available
@@ -112,47 +112,47 @@
 ## Collections
 
 - [Shop All ProductsVital Earth Minerals | Shop All Products](https://vitalearthminerals.com/collections/shop-all-products): Vital Earth Minerals: Premium ionic Humic & Fulvic liquid supplements with multi-ingredient formulas for superior effectiveness.
-  Updated: 2026-02-06T12:52:20Z
+  Updated: 2026-02-13T12:19:02Z
   Total Products: 16
 - [Boost Natural Energy with Vital Earth Minerals](https://vitalearthminerals.com/collections/natural-energy): Vital Earth Minerals offers natural solutions for energy replenishment. Learn how ionic minerals boost your energy levels, metabolism, and overall wellness
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 6
+  Updated: 2026-02-13T19:41:44Z
+  Total Products: 9
 - [Improve Sleep Naturally with Vital Earth Minerals](https://vitalearthminerals.com/collections/sleep): Discover natural sleep support with Vital Earth Minerals' Sleep products. Promote restful nights and wake refreshed with our mineral-rich supplements
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 2
+  Updated: 2026-02-13T19:41:44Z
+  Total Products: 5
 - [Bone & Joint Health - Vital Earth Minerals](https://vitalearthminerals.com/collections/bone-joint-health): Support your bone and joint health naturally with Vital Earth Minerals. Explore our mineral-rich supplements for stronger bones and better mobility
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 2
+  Updated: 2026-02-13T19:41:44Z
+  Total Products: 4
 - [Hair, Skin & Nails - Vital Earth Minerals](https://vitalearthminerals.com/collections/hair-skin-nails): Enhance your beauty naturally with Vital Earth Minerals. Promote healthy hair, glowing skin, and strong nails with our premium mineral supplements
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 3
+  Updated: 2026-02-13T18:15:25Z
+  Total Products: 4
 - [Essential Minerals for Kids' Growth and Wellness](https://vitalearthminerals.com/collections/kids): Support your child's growth and development with Vital Earth Minerals. Safe, natural mineral supplements for healthy kids and their active lifestyles
-  Updated: 2026-02-06T12:52:20Z
+  Updated: 2026-02-13T12:19:02Z
   Total Products: 4
 - [Natural Mineral Support for Your Pet's Health](https://vitalearthminerals.com/collections/pets): Give your pets the best care with Vital Earth Minerals. Our natural mineral supplements support their health, vitality, and overall well-being
-  Updated: 2026-02-03T12:19:20Z
+  Updated: 2026-02-13T12:19:02Z
   Total Products: 1
 - [Vital Earth Minerals_Accessories](https://vitalearthminerals.com/collections/accessories)
-  Updated: 2026-01-28T12:17:03Z
+  Updated: 2026-02-10T12:18:46Z
   Total Products: 2
 - [New Products](https://vitalearthminerals.com/collections/new-products)
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 6
+  Updated: 2026-02-13T18:15:25Z
+  Total Products: 7
 - [Detox](https://vitalearthminerals.com/collections/detox): Support your digestive system with powerful detoxifiers that help cleanse, improve gut health, and boost nutrient absorption for a balanced and refreshed body.
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 8
+  Updated: 2026-02-13T19:41:44Z
+  Total Products: 11
 - [Home Page Carousel](https://vitalearthminerals.com/collections/home-page-carousel)
-  Updated: 2026-02-06T12:52:20Z
+  Updated: 2026-02-13T12:19:02Z
   Total Products: 4
 - [Bundles](https://vitalearthminerals.com/collections/bundles): Discover our curated collection of Vital Earth Minerals bundles, designed to give you the best value while supporting optimal health. Each bundle combines our most popular products. Enjoy exclusive discounts when you purchase these bundles, making it easier than ever to maintain your wellness routine for the whole family (including pets!). Why Choose Our Bundles? Big Savings: Get more for less with special bundle pricing Convenience: Everything you need in one package Premium Quality: Pure, plant-based minerals for maximum absorption Shop now and experience the benefits of Vital Earth Minerals at unbeatable prices!
-  Updated: 2025-12-12T18:29:39Z
-  Total Products: 2
+  Updated: 2026-02-13T19:40:40Z
+  Total Products: 6
 - [All Products](https://vitalearthminerals.com/collections/all)
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 17
+  Updated: 2026-02-13T22:19:11Z
+  Total Products: 22
 - [New! Shopify performance sharing is now turned on](https://vitalearthminerals.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-02-06T12:52:20Z
-  Total Products: 17
+  Updated: 2026-02-13T22:19:11Z
+  Total Products: 22
 
 ## Blogs
 
@@ -690,6 +690,19 @@ tr th {
     Updated: 2026-02-06T22:14:09Z
     Author: Kortney Leany
     Tags: 2026 wellness resolutions, alcohol free january, Anti-inflammatory skincare, beauty-from-within, behavior change science, Benefits of fulvic mineral mist for skin, busy lifestyle, cal-mag-liquid, cellular energy, circadian wellness, Clean Nutrition, Colorado Wellness Brands, Daily skincare must-haves, Earth-based ingredients, energy and immune support, evidence-based wellness
+  - [How Can You Tell If a Supplement Brand Is Truly Trustworthy?](https://vitalearthminerals.com/blogs/news/how-can-you-tell-if-a-supplement-brand-is-truly-trustworthy)
+    Updated: 2026-02-12T18:25:03Z
+    Author: Kortney Leany
+    Tags: 2026 wellness resolutions, alcohol free january, Anti-inflammatory skincare, B vitamin energy, beauty-from-within, behavior change science, Benefits of fulvic mineral mist for skin, Best hydrating mist for glowing skin, better sleep, Better-for-You Brands, blue light, busy lifestyle, Cal-Mag, cal-mag-liquid, calcium magnesium, cellular energy, circadian rhythm, circadian wellness, Clean beauty, Clean Nutrition, Clean wellness products, Colorado Wellness Brands, Daily skincare must-haves, dry january, Eco-conscious beauty, evening light, fall fatigue, FDA disclaimer, foundational nutrition, Fulvic acid benefits, Fulvic acid spray for healthier hair, fulvic mineral mist, fulvic minerals, Glow boosting mist, Hair shine spray, Holistic beauty, Holistic skincare, Immune boost, immune support, implementation intentions, liver health, menopause support, mineral blend, Natural Products Partnership, new-year-reset
+  - [The Rise of Personalized Wellness: Why “Body Literacy” Is 2026’s Most Important Health Trend](https://vitalearthminerals.com/blogs/news/the-rise-of-personalized-wellness-why-body-literacy-is-2026-s-most-important-health-trend)
+    Updated: 2026-02-13T22:29:50Z
+    Author: Kortney Leany
+    Tags: beauty-from-within, Benefits of fulvic mineral mist for skin, better sleep, busy lifestyle, cal mag liquid, cellular energy, circadian wellness, Clean Nutrition, Clean wellness products, Colorado Wellness Brands, Earth-based ingredients, Eco-conscious beauty, energy and immune support, evening unwind routine, evidence-based wellness, foundational nutrition, fulvic minerals, fulvic minerals topical, gentle-detox, habit stacking, Health & Wellness Industry, Holistic Wellness, humic minerals, humic minerals education, Immune boost, immune support, Immune support vitamins, implementation intentions, iron calcium timing, joint support, kidney health, liquid vitamins, liquid-multivitamin, magnesium calcium spacing, melatonin friendly routine, menopause support, metabolism support, mineral blend, Mineral hair care, mineral mist, Mineral skincare, mineral spacing, Mineral wellness, mineral-hydration, Mineral-rich skincare, minerals for dry january, mineral‑rich haircare, mom wellness, movement-for-health, natural energy, Natural Grocers, Natural Health Brands, Natural Products Partnership, oxidative stress, plant-based-minerals, progress tracking, vitmain D, wellness education, wellness routine, wellness trends, women’s health
+- [Press Release](https://vitalearthminerals.com/blogs/press-release)
+  - [Vital Earth Minerals Celebrates Longstanding Partnership with Natural Grocers](https://vitalearthminerals.com/blogs/press-release/vital-earth-minerals-celebrates-longstanding-partnership-with-natural-grocers-as-shoppers-embrace-transparent-earth-based-mineral-wellness)
+    Updated: 2026-02-12T15:57:33Z
+    Author: Kortney Leany
+    Tags: Better-for-You Brands, Clean Nutrition, Colorado Wellness Brands, Health & Wellness Industry, Holistic Wellness, Natural Grocers, Natural Health Brands, Natural Lifestyle Products, Natural Products Partnership, Natural Products Retail, Natural Supplements, Partnership Announcement, Retail Expansion, Retail Partnership, Sustainable Wellness, Vital Earth Minerals, Wellness Collaboration, Wellness Retail
 
 ## Store Pages
 
