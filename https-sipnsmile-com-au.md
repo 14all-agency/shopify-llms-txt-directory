@@ -9,42 +9,42 @@
 - Created At: 2025-04-22T19:47:51Z
 - Contact Email: sales@sipnsmile.com.au
 - Contact Phone: 0425708369
-- Updated At: 2026-02-07T00:00:42.771Z
+- Updated At: 2026-02-14T00:00:44.820Z
 
 "Sip N Smile is your go-to destination for premium coffee and professional coffee equipment. From artisan beans to barista-quality machines, we help you brew the perfect cup every time. Visit us at sipnsmile.com.au for all your coffee needs!"
 
 ## Products
 
-- [Bellezza Bellona Single Group Espresso Machine | Home Coffee Australia](https://sipnsmile.com.au/products/bellezza-bellona-coffee-machine): Bellezza Bellona single group espresso machine. 19kg Italian design with professional features. Premium home coffee maker for serious baristas in Australia.
-  Updated: 2026-02-02T11:41:31Z
+- [Bellezza Bellona Premium Espresso Maker - Perfect Espresso at Home](https://sipnsmile.com.au/products/bellezza-bellona-coffee-machine): Experience barista-quality coffee at home with the Bellezza Bellona Premium Espresso Maker. Elevate your brewing game and savor rich, flavorful espresso every time.
+  Updated: 2026-02-13T12:55:05Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Black-Bellona.webp?v=1751241839
   Price: $2,695.00 AUD
-- [Bellezza Giulia Premium Espresso Maker | Perfect for Coffee Lovers](https://sipnsmile.com.au/products/bellezza-giulia-coffee-machine): Discover the Bellezza Giulia Premium Espresso Maker, designed for coffee lovers. Brew rich, flavorful espresso effortlessly and elevate your coffee experience.
-  Updated: 2026-02-02T11:41:31Z
+- [Bellezza Giulia Espresso Machine - Semi Automatic Coffee Perfection](https://sipnsmile.com.au/products/bellezza-giulia-coffee-machine): Discover the Bellezza Giulia Espresso Machine, the semi-automatic perfection every coffee lover craves. Elevate your brewing experience and savor rich, barista-quality espresso at home.
+  Updated: 2026-02-13T12:57:37Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/bellezza-gulia.webp?v=1751241838
   Price: $3,499.00 AUD
 - [Bellezza Inizio R Entry Italian Espresso Machine | Budget Home Coffee](https://sipnsmile.com.au/products/bellezza-inizio-r-coffee-machine): Bellezza Inizio R entry-level Italian espresso machine. 23.6kg quality construction at accessible pricing. Perfect first Italian machine for home baristas.
-  Updated: 2025-12-12T18:57:11Z
+  Updated: 2026-02-13T14:34:50Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/s-l1600.webp?v=1751241840
   Price: $3,899.00 AUD
-- [Bellezza Francesca Single Group Espresso Machine | Home Coffee](https://sipnsmile.com.au/products/bellezza-francesca-coffee-machine): Bellezza Francesca single group espresso machine. 25kg Italian design with professional features. Premium home coffee maker for serious baristas in Australia.
-  Updated: 2026-02-02T11:41:32Z
+- [Bellezza Francesca Coffee Machine - Premium Espresso Maker](https://sipnsmile.com.au/products/bellezza-francesca-coffee-machine): Bellezza Francesca single group espresso machine. 25kg Italian design with professional features. Premium home coffee maker for serious baristas in Australia.
+  Updated: 2026-02-13T12:46:29Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/bellezza-francesca-all--904.jpg?v=1751241839
   Price: $3,499.00 AUD
 - [Bellezza Piccola 60 Titanio V2 Coffee Grinder | Home Coffee Australia](https://sipnsmile.com.au/products/bellezza-piccola-60-titanio-v2): Bellezza Piccola 60 Titanio V2 coffee grinder. 60mm titanium burrs for precision grinding. Premium Italian espresso grinder for home baristas in Australia.
-  Updated: 2026-02-02T11:41:33Z
+  Updated: 2026-02-12T08:40:09Z
   Vendor: Sip N Smile
   Product Type: Coffee Grinder
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $899.00 AUD
 - [Carimali X011 Coffee Grinder - Sip N Smile | Premium Grinder](https://sipnsmile.com.au/products/carimali-x011-coffee-grinder): Discover the Carimali X011 Coffee Grinder for perfect coffee grounds. This premium grinder enhances any coffee brewing for enthusiasts and professionals alike.
-  Updated: 2026-02-02T11:41:34Z
+  Updated: 2026-02-12T08:40:10Z
   Vendor: Sip N Smile
   Product Type: Coffee Grinder
   Availability: Available
@@ -71,21 +71,21 @@
     Availability: Available
     Price: $1,089.00 AUD
 - [Carimali X010-OD Grinder - Premium Coffee Grinding Experience](https://sipnsmile.com.au/products/carimali-x010-od-grinder): Discover the Carimali X010-OD Grinder, engineered for superior grinding performance and consistent quality. Elevate your coffee experience today!
-  Updated: 2026-02-02T11:41:35Z
+  Updated: 2026-02-12T08:40:11Z
   Vendor: Sip N Smile
   Product Type: Coffee Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Carimali_1.png?v=1751241839
   Price: $1,599.00 AUD
-- [Carimali CA1100 Automatic Office Coffee Machine | Sip N Smile](https://sipnsmile.com.au/products/carimali-ca1100-automatic-coffee-machine): Carimali CA1100 automatic office coffee machine. 16kg commercial-grade quality with customizable settings. Perfect for busy workplaces in Australia.
-  Updated: 2026-02-02T11:41:35Z
+- [Carimali CA1100 Coffee Machine - Automatic Espresso Perfection Daily](https://sipnsmile.com.au/products/carimali-ca1100-automatic-coffee-machine): Experience barista-quality espresso with the Carimali CA1100 Coffee Machine. Enjoy automatic perfection every time, elevating your coffee experience to new heights.
+  Updated: 2026-02-12T08:40:12Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/carimali-ca1100-automatic-coffee-machine-500.jpg?v=1750560901
   Price: $3,995.00 AUD
 - [Carimali Glow Coffee Machine - Sip N Smile Experience](https://sipnsmile.com.au/products/carimali-glow-coffee-machine): Discover the Carimali Glow Coffee Machine for exceptional flavors and quality brews. Elevate your coffee experience with every cup.
-  Updated: 2026-02-02T11:41:36Z
+  Updated: 2026-02-12T08:40:13Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
@@ -98,7 +98,7 @@
     Availability: Available
     Price: $7,599.00 AUD
 - [La Carimali Nimble 2 Group Coffee Machine - Premium Coffee Maker](https://sipnsmile.com.au/products/la-carimali-nimble-2-group-coffee-machine): Discover the La Carimali Nimble 2 Group Coffee Machine, designed for efficiency and quality. Perfect for cafes seeking to elevate their coffee game.
-  Updated: 2026-02-02T11:41:37Z
+  Updated: 2026-02-12T08:40:14Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
@@ -112,7 +112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Nimble-01_50c35860-857e-4df9-a33a-bd2d339bb106.jpg?v=1751241839
     Price: $5,295.00 AUD
 - [Carimali Bubble 2 Group - Premium Coffee Machine for Professionals](https://sipnsmile.com.au/products/carimali-bubble-2-group-coffee-machine): Discover the Carimali Bubble 2 Group, a top-tier coffee machine perfect for any coffee lover. Experience unparalleled performance and innovative features.
-  Updated: 2026-02-02T11:41:38Z
+  Updated: 2026-02-12T08:40:15Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
@@ -126,7 +126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/carimali-bubble-all--727_56644cd0-c941-4409-b0b1-3d388be5f9bc.jpg?v=1751241841
     Price: $4,995.00 AUD
 - [La Carimali Nimble 1 Group - Premium Coffee Machine Experience](https://sipnsmile.com.au/products/la-carimali-nimble-1-group-coffee-machine): Discover the La Carimali Nimble 1 Group, a premium coffee machine that ensures exceptional espresso and milk frothing, perfect for any coffee lover.
-  Updated: 2026-02-02T11:41:38Z
+  Updated: 2026-02-12T08:40:16Z
   Vendor: Sip N Smile
   Product Type: Coffee Machines
   Availability: Available
@@ -140,7 +140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/CarimaliNimbleWhite.png?v=1751241840
     Price: $4,295.00 AUD
 - [Precision GS0 V2 Single Dose Coffee Grinder - Quality Grinding](https://sipnsmile.com.au/products/precision-gs0-v2-single-dose-coffee-grinder): Discover the Precision GS0 V2 Single Dose coffee grinder, designed for the ultimate brewing experience with fresh, precision grinding for coffee lovers.
-  Updated: 2026-02-02T11:41:39Z
+  Updated: 2026-02-12T08:40:17Z
   Vendor: Sip N Smile
   Product Type: Coffee Grinder
   Availability: Available
@@ -154,98 +154,105 @@
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/W2.jpg?v=1751241841
     Price: $449.00 AUD
 - [Precision GS1 (Filter) Coffee Grinder - Ultimate Grinding Solution](https://sipnsmile.com.au/products/precision-gs1-filter-coffee-grinder): Discover the Precision GS1 (Filter) Coffee Grinder, the perfect tool for coffee lovers seeking optimal grind size and flavor. Elevate your coffee experience today!
-  Updated: 2026-02-02T11:41:40Z
+  Updated: 2026-02-12T08:40:18Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/s-l1600_5.webp?v=1751241839
   Price: $349.00 AUD
+- [Dr Coffee H10 Fully Automatic - Premium Office Coffee Machine for You](https://sipnsmile.com.au/products/dr-coffee-h10-fully-automatic): Transform your office coffee experience with the Dr Coffee H10 Fully Automatic machine. Enjoy barista-quality coffee at the push of a button – simplicity meets flavor!
+  Updated: 2026-02-13T02:43:57Z
+  Vendor: Sip N Smile
+  Product Type: Home Coffee Machines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/H10-Coffee-Machine-Main-1.jpg?v=1751241840
+  Price: $2,388.00 AUD
 - [Dr Coffee F10 - Fully Automatic Office Coffee Machine](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-f10): Discover the Dr Coffee F10, a fully automatic office coffee machine offering gourmet coffee at the push of a button. Perfect for busy workplaces.
-  Updated: 2026-02-02T11:41:41Z
+  Updated: 2026-02-12T08:40:19Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/F10-Coffee-Machine-Black.jpg?v=1751241838
   Price: $2,282.00 AUD
 - [Dr Coffee Break Big - Office Coffee Machine Automatic Solution](https://sipnsmile.com.au/products/dr-coffee-break-big-office): Experience the best of office coffee with Dr Coffee Break Big. Our automatic coffee machine offers quality, efficiency, and ease of use for all your coffee needs.
-  Updated: 2026-02-02T11:41:42Z
+  Updated: 2026-02-12T08:40:20Z
   Vendor: Sip N Smile
   Product Type: Office Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Coffee-Break-Big-4-BLACK.jpg?v=1751241839
   Price: $3,608.00 AUD
-- [Dr Coffee Break Plus - Automatic Office Coffee Machine](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee): Discover the Dr Coffee Break Plus, the ideal office coffee machine for perfect brews. Enjoy automatic features and customizable settings for an extraordinary coffee experience.
-  Updated: 2026-02-02T11:41:43Z
+- [Dr Coffee Break Plus - Automatic Office Coffee Machine](https://sipnsmile.com.au/products/dr-coffee-break-plus): Discover the Dr Coffee Break Plus, the ideal office coffee machine for perfect brews. Enjoy automatic features and customizable settings for an extraordinary coffee experience.
+  Updated: 2026-02-13T01:05:53Z
   Vendor: Sip N Smile
   Product Type: Office Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/coffeebreakplus.jpg?v=1751241840
   Price: $3,652.00 AUD
 - [Dr Coffee Bar Plus - Automatic Office Coffee Machine for Quality Brews](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-bar-plus): Discover the Dr Coffee Bar Plus Automatic coffee machine. Perfect for offices, it offers customizable brewing for a delightful coffee experience.
-  Updated: 2026-02-02T11:41:43Z
+  Updated: 2026-02-12T08:40:21Z
   Vendor: Sip N Smile
   Product Type: Office Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/DrCoffee-CoffeeBarPlus-1000x1000-1.jpg?v=1751241838
   Price: $6,589.00 AUD
-- [Office Coffee Machine - Coffee Centre Powdered Milk | Sip N Smile](https://sipnsmile.com.au/products/office-coffee-machine-coffee-centre-powdered-milk): Coffee Centre powdered milk automatic coffee machine. 37kg commercial-grade quality. Perfect for offices and businesses in Australia.
-  Updated: 2026-02-02T11:41:44Z
+- [COFFEE CENTRE POWDERED MILK Machine for Perfect Coffee Every Time](https://sipnsmile.com.au/products/office-coffee-machine-coffee-centre-powdered-milk): Coffee Centre powdered milk automatic coffee machine. 37kg commercial-grade quality. Perfect for offices and businesses in Australia.
+  Updated: 2026-02-13T15:46:51Z
   Vendor: Sip N Smile
   Product Type: Office Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Coffee-Center.jpg?v=1751241840
   Price: $6,974.00 AUD
-- [Dr Coffee Zone H - Premium Office Coffee Machine for All Needs](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-zone-h): Discover the Dr Coffee Zone H, the premium office coffee machine that offers exceptional brewing options perfect for all coffee lovers in the workplace.
-  Updated: 2026-02-02T11:41:44Z
+- [Dr Coffee Zone H Premium - Top Office Coffee Machine for Quality Brew](https://sipnsmile.com.au/products/dr-coffee-zone-h-premium): Revitalize your office with the Dr Coffee Zone H Premium coffee machine. Brew rich, flavorful coffee effortlessly. Perfect for any workspace! Shop now for a premium coffee experience.
+  Updated: 2026-02-12T23:47:13Z
   Vendor: Sip N Smile
   Product Type: Office Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/H-1000x1000-2.png?v=1751241840
   Price: $7,601.00 AUD
-- [ACM Homey - Perfect Brews with Matte Black Design Coffee Machine](https://sipnsmile.com.au/products/1gr-acm-homey-coffee-machine-matte-black-with-shot-timer): Discover the ACM Homey, a matte black coffee machine with a shot timer for perfect brews every time. Elevate your coffee experience with style and precision!
-  Updated: 2026-02-02T11:41:45Z
+- [ACM Homey Coffee Machine - Matte Black, Perfect Brews & Shot Timer](https://sipnsmile.com.au/products/1gr-acm-homey-coffee-machine-matte-black-with-shot-timer): Brew your perfect cup with the ACM Homey Coffee Machine. Featuring a sleek matte black design and a shot timer, it's your ultimate coffee companion. Enjoy barista-quality coffee at home!
+  Updated: 2026-02-13T16:01:49Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4835988119.jpg?v=1750561139
   Price: $2,506.35 AUD
 - [ACM Pratika Coffee Machine - Perfect Brews in Black](https://sipnsmile.com.au/products/1gr-acm-pratika-coffee-machine-black): Discover ACM Pratika Coffee Machine for Perfect Brews in Black. Elevate your coffee experience with this user-friendly, sleek design coffee maker.
-  Updated: 2026-02-02T11:41:46Z
+  Updated: 2026-02-13T20:35:20Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4835973326.jpg?v=1750561159
   Price: $2,352.90 AUD
 - [Torre Luigino TSP Inox Joystick Espresso Machine | Home Coffee](https://sipnsmile.com.au/products/espresso-machine-torre-luigino-tsp-inox-joystick): Torre Luigino TSP Inox espresso machine with joystick. 20.7kg stainless steel rotary pump system. Premium Italian home coffee maker with precision brewing.
-  Updated: 2026-02-02T11:41:46Z
+  Updated: 2026-02-13T12:35:24Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4836091544.jpg?v=1751241840
   Price: $3,171.30 AUD
 - [Torre Luigino TSP Matte Black Joystick Espresso Machine | Home Coffee](https://sipnsmile.com.au/products/espresso-machine-torre-luigino-tsp-matte-black-wood-joystick): Torre Luigino TSP matte black espresso machine with wood accents and joystick control. 20.7kg rotary pump system. Premium Italian home coffee maker.
-  Updated: 2026-02-02T11:41:47Z
+  Updated: 2026-02-13T15:15:53Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4836092044.jpg?v=1751241839
   Price: $3,478.20 AUD
-- [Torre Teresina Inox Compact Lever Espresso Machine | Home Coffee Australia](https://sipnsmile.com.au/products/1gr-torre-teresina-inox-coffee-machine): Torre Teresina Inox compact lever espresso machine. 24kg stainless steel home coffee maker with traditional manual control. Space-efficient Italian design.
-  Updated: 2025-12-12T18:39:23Z
+- [Torre Teresina Inox Coffee Machine - Premium Stainless Steel Maker](https://sipnsmile.com.au/products/1gr-torre-teresina-inox-coffee-machine): Torre Teresina Inox compact lever espresso machine. 24kg stainless steel home coffee maker with traditional manual control. Space-efficient Italian design.
+  Updated: 2026-02-13T12:37:07Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4837508786.jpg?v=1750561225
   Price: $3,530.00 AUD
 - [Torre Alfredo Black Single Group Espresso Machine | Home Coffee](https://sipnsmile.com.au/products/torre-alfredo-black-single-group-espresso-machine): Torre Alfredo Black single group espresso machine. 24kg Italian design with professional features. Premium home coffee maker for serious baristas in Australia.
-  Updated: 2026-02-02T11:41:48Z
+  Updated: 2026-02-13T13:35:45Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4769290446.jpg?v=1751241839
   Price: $4,296.60 AUD
 - [Torre Luigino TSP MT Inox Joystick Espresso Machine | Home Coffee](https://sipnsmile.com.au/products/espresso-machine-torre-luigino-tsp-mt-inox-joystick): Torre Luigino TSP MT Inox espresso machine with joystick control and rotary pump. 22kg stainless steel Italian design. Premium home coffee maker.
-  Updated: 2026-02-02T11:41:48Z
+  Updated: 2026-02-13T12:52:11Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
@@ -259,119 +266,119 @@
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4769353756.jpg?v=1751241841
   Price: $3,999.00 AUD
 - [Precision GS7 Coffee Grinder - Sip N Smile for Perfect Grind](https://sipnsmile.com.au/products/precision-gs7-coffee-grinder): Experience the ultimate brewing with the Precision GS7 Coffee Grinder. Unlock full flavor with precise grinds. Perfect for all coffee lovers!
-  Updated: 2026-02-02T11:41:49Z
+  Updated: 2026-02-12T08:40:28Z
   Vendor: Sip N Smile
   Product Type: Precision GS7 Coffee Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/precision-gs7-all-di-pacci-125.jpg?v=1751241839
   Price: $480.00 AUD
 - [Precision Coffee Grinder - Burr Mill for Fresh Coffee | Sip N Smile](https://sipnsmile.com.au/products/precision-coffee-grinder-burr): Precision coffee grinder with advanced burr grinding technology. 5.5kg quality construction for consistent grind. Perfect for home baristas in Australia.
-  Updated: 2026-02-02T11:41:50Z
+  Updated: 2026-02-12T08:40:28Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/GSP_Black.png?v=1751241839
   Price: $459.00 AUD
 - [Torre Teresina RS Espresso Machine - Elegant Matte Black Coffee Maker](https://sipnsmile.com.au/products/torre-teresina-rs-matte-black-with-wood-coffee-machine): Discover the Torre Teresina RS Espresso Machine in elegant matte black wood. Brew rich, flavorful coffee with style. Elevate your mornings with this luxurious coffee maker!"
-  Updated: 2026-02-02T11:41:50Z
+  Updated: 2026-02-13T15:02:42Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4634069694.jpg?v=1750561393
   Price: $4,398.90 AUD
 - [Torre Peppina Single Group Espresso Machine | Home Coffee Australia](https://sipnsmile.com.au/products/torre-peppina-evo-inox-coffee-machine): Torre Peppina single group espresso machine. Premium stainless steel construction. Professional Italian home coffee maker with commercial features.
-  Updated: 2025-12-12T18:43:12Z
+  Updated: 2026-02-13T13:34:19Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4411446971.jpg?v=1751241840
   Price: $5,319.60 AUD
 - [Torre Peppina EVO Espresso Machine Matte Black Wood | Home Coffee](https://sipnsmile.com.au/products/torre-peppina-evo-matte-black-with-wood-coffee-machine): Torre Peppina EVO espresso machine in matte black with wood accents. 27.7kg single group Italian design. Premium home coffee maker with modern aesthetics.
-  Updated: 2025-12-12T18:45:53Z
+  Updated: 2026-02-13T12:38:09Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4411497541.jpg?v=1750561425
   Price: $5,626.50 AUD
 - [Torre Adele Inox Single Group Espresso Machine | Home Coffee Australia](https://sipnsmile.com.au/products/torre-adele-inox-coffee-machine): Torre Adele Inox single group espresso machine. 25kg stainless steel construction with professional steam wand. Premium Italian home coffee maker.
-  Updated: 2025-12-12T18:48:09Z
+  Updated: 2026-02-13T13:54:05Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4836057231.jpg?v=1751241840
   Price: $6,444.90 AUD
 - [Torre Adele Matte Black Espresso Machine Wood Accents | Home Coffee](https://sipnsmile.com.au/products/espresso-machine-torre-adele-matte-black-wood): Torre Adele matte black espresso machine with wood accents. 29.5kg single group Italian design. Premium home coffee maker with professional features.
-  Updated: 2025-12-12T18:48:41Z
+  Updated: 2026-02-13T14:37:50Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/4836107736.jpg?v=1750561466
   Price: $6,752.00 AUD
 - [Precision Tamping Tower Auto Tamp - Reliable Tamping Solutions](https://sipnsmile.com.au/products/precision-tamping-tower-auto-tamp): Experience unparalleled efficiency with the Precision Tamping Tower Auto Tamp. Boost your productivity and accuracy in any tamping project. Perfect for professionals seeking quality.
-  Updated: 2026-02-02T11:41:51Z
+  Updated: 2026-02-12T08:40:30Z
   Vendor: Sip N Smile
   Product Type: Barista Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/precision-tamping-tower-auto-tamp-739.jpg?v=1751241840
   Price: $859.99 AUD
 - [Precision GS2 Espresso Coffee Grinder - Professional Grade](https://sipnsmile.com.au/products/precision-gs2-espresso-coffee-grinder): Buy Precision GS2 Espresso Coffee Grinder - Professional Grade Burr Grinder for Perfectly Ground Coffee for only A$276.99 at Sip N Smile!
-  Updated: 2026-02-02T11:41:52Z
+  Updated: 2026-02-12T08:40:31Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Precision-GS2-Coffee-Grinder-White_1024x_a73719c3-5234-415e-ab2a-c08ef300efdb.jpg?v=1751241840
   Price: $349.00 AUD
 - [Precision Coffee Grinder - GS3 | Filter Grinder for Perfect Brews](https://sipnsmile.com.au/products/precision-gs3-filter-coffee-grinder): Discover the Precision Coffee Grinder - GS3 for perfect brews. Enjoy unmatched grind consistency, adjustable settings, and low retention for the ultimate coffee experience.
-  Updated: 2026-02-02T11:41:52Z
+  Updated: 2026-02-12T08:40:31Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Precision-GS3-Automatic-Filter-Grinder.jpg?v=1751241840
   Price: $549.00 AUD
 - [Precision Coffee Grinder - GS30 - Perfectly Ground Espresso](https://sipnsmile.com.au/products/precision-gs30-espresso-coffee-grinder): Buy Precision Coffee Grinder - GS30 High-Performance Burr Mill for Perfectly Ground Espresso for only A$399.00 at Sip N Smile!
-  Updated: 2026-02-02T11:41:53Z
+  Updated: 2026-02-12T08:40:32Z
   Vendor: Sip N Smile
   Product Type: Home Coffee Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/WhatsAppImage2024-01-08at11.59.33AM_1.jpg?v=1750561580
   Price: $459.00 AUD
-- [Dr Coffee Zone T - Premium Office Coffee Machine](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-zone-t): Discover the Dr Coffee Zone T office coffee machine for delicious brews at work. This premium machine enhances productivity and coffee quality.
-  Updated: 2026-02-02T11:41:54Z
+- [Dr Coffee Zone T - Premium Office Coffee Machine for Fresh Brews](https://sipnsmile.com.au/products/dr-coffee-zone-t): Discover the Dr Coffee Zone T office coffee machine for delicious brews at work. This premium machine enhances productivity and coffee quality.
+  Updated: 2026-02-13T13:56:41Z
   Vendor: Sip N Smile
   Product Type: Office Coffee Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/CoffeeZone-PNG-2-1000x1000-1.png?v=1751241841
   Price: $7,918.00 AUD
 - [Milk Cooler SC08 - Efficient Milk Cooler-Optimal Freshness](https://sipnsmile.com.au/products/sc08-milk-cooler): Buy Milk Cooler SC08 - Efficient Milk Cooler for Optimal Freshness for only A$913.00 at Sip N Smile!
-  Updated: 2026-02-02T11:41:54Z
+  Updated: 2026-02-12T08:40:33Z
   Vendor: Sip N Smile
   Product Type: Milk Cooler SC08
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/SC08-Milk-Cooler.jpg?v=1751241841
   Price: $1,088.00 AUD
 - [Milk Cooler SC10-Efficient Fresh Milk Storage - Sip N Smile](https://sipnsmile.com.au/products/milk-cooler-sc10): Buy Milk Cooler SC10 - Efficient Cooling Solution for Fresh Milk Storage for only A$1,098.90 at Sip N Smile!
-  Updated: 2026-02-02T11:41:55Z
+  Updated: 2026-02-12T08:40:34Z
   Vendor: Sip N Smile
   Product Type: Milk Cooler SC10
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/SC10-Milk-Cooler.jpg?v=1751241841
   Price: $1,198.90 AUD
 - [Milk Cooler SC12-T: Efficient Cooling Solution - Sip N Smile](https://sipnsmile.com.au/products/milk-cooler-sc12-t): Buy Milk Cooler SC12-T: Efficient Cooling Solution for Freshness for only A$1,556.50 at Sip N Smile!
-  Updated: 2026-02-02T11:41:55Z
+  Updated: 2026-02-12T08:40:35Z
   Vendor: Sip N Smile
   Product Type: Milk Cooler SC12-T
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/1NEW.png?v=1751241841
   Price: $1,556.50 AUD
-- [Crem One - 1B VP PID Coffee Machine for Perfect Espresso Every Time](https://sipnsmile.com.au/products/crem-one-1b-vp-pid): Discover the Crem One - 1B VP PID Coffee Machine, designed for coffee enthusiasts. Experience precise brewing control and exceptional flavor in every cup. Perfect for home or café use!
-  Updated: 2026-02-02T11:41:56Z
+- [Crem One - 1B VP PID Coffee Machine for Perfect Espresso Every Time](https://sipnsmile.com.au/products/crem-one-1b-vp-pid): Discover the Crem One - 1B VP PID Coffee Machine, your ultimate brewing companion. Enjoy precise temperature control and exceptional coffee flavor in every cup. Upgrade your coffee experience today!
+  Updated: 2026-02-13T00:08:18Z
   Vendor: Sip N Smile
   Product Type: Crem One - 1B
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/crem-one-1b-vp-pid-coffee-machine-5804682.webp?v=1751336126
   Price: $3,995.00 AUD
 - [Gravity Espresso 6° Darker | Premium Coffee Blend Experience](https://sipnsmile.com.au/products/gravity-espresso-6-darker): Discover the bold taste of Gravity Espresso 6° Darker. Enjoy rich flavors and premium quality in every cup. Perfect for coffee lovers seeking a unique experience.
-  Updated: 2026-02-02T11:41:58Z
+  Updated: 2026-02-12T08:40:37Z
   Vendor: Sip N Smile
   Product Type: Coffee Beans
   Availability: Available
@@ -396,91 +403,91 @@
     Availability: Available
     Price: $492.00 AUD
 - [Daily Coffee Cleaner - Perfect Cleaning for Your Coffee Maker](https://sipnsmile.com.au/products/daily-coffee-cleaner): Discover the benefits of Daily Coffee Cleaner to enhance your coffee's flavor and keep your machine in top condition. Order now for a cleaner coffee experience!
-  Updated: 2026-02-02T11:41:58Z
+  Updated: 2026-02-12T08:40:38Z
   Vendor: Sip N Smile 
   Product Type: Daily Coffee Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Daily-Coffee-Cleaner.jpg?v=1754546975
   Price: $92.00 AUD
 - [Daily Milk Cleaner - Effective Cleaning for Dairy Products](https://sipnsmile.com.au/products/daily-milk-cleaner): Discover the power of Daily Milk Cleaner for a safe and effective cleaning solution. Achieve spotless cleanliness in milk storage and preparation areas.
-  Updated: 2026-02-02T11:41:59Z
+  Updated: 2026-02-12T08:40:39Z
   Vendor: Sip N Smile 
   Product Type: Daily Milk Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Daily-Milk-Cleaner.jpg?v=1754547348
   Price: $52.00 AUD
 - [Cafetto Spectre Descaler - Premium Coffee Machine Care](https://sipnsmile.com.au/products/cafetto-spectre-descaler): Cafetto Spectre Descaler effectively removes mineral build-up and enhances your coffee machine's performance. Keep your equipment running smoothly and coffee tasting great!
-  Updated: 2026-02-02T11:41:59Z
+  Updated: 2026-02-12T08:40:39Z
   Vendor: Sip N Smile 
   Product Type: Cafetto Spectre Descaler
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Cafetto-Spectre-Descaler.jpg?v=1754548088
   Price: $30.00 AUD
-- [Crem One - 2B VP | High-Performance Dual Coffee Machine](https://sipnsmile.com.au/products/crem-one-2b-vp-pid-coffee-machine): Discover the Crem One - 2B VP, a dual coffee machine that offers exceptional brewing precision and performance for coffee lovers and professionals alike.
-  Updated: 2026-02-02T11:42:00Z
+- [Crem One - 2B VP | High-Performance Dual Coffee Machine](https://sipnsmile.com.au/products/crem-one-2b): Discover the Crem One - 2B VP, a dual coffee machine that offers exceptional brewing precision and performance for coffee lovers and professionals alike.
+  Updated: 2026-02-13T00:09:21Z
   Vendor: Sip N Smile 
   Product Type: Crem One - 2B VP PID Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/expobar-crem-one-pid-dual-boiler-vp-all-di-pacci-135.webp?v=1754615352
   Price: $4,655.00 AUD
-- [Crem One - 2B RP-GSP Coffee Machine: Exceptional Brewing](https://sipnsmile.com.au/products/crem-one-2b-rp-gsp-coffee-machine): Experience superior coffee brewing with the Crem One - 2B RP-GSP. Enjoy unmatched flavor and precision in every cup. Perfect for any coffee enthusiast!
-  Updated: 2026-02-02T11:42:02Z
+- [Crem One - 2B RP-GSP Coffee Machine: Exceptional Brewing](https://sipnsmile.com.au/products/crem-one-2b-rp-gsp): Experience superior coffee brewing with the Crem One - 2B RP-GSP. Enjoy unmatched flavor and precision in every cup. Perfect for any coffee enthusiast!
+  Updated: 2026-02-13T00:10:43Z
   Vendor: Sip N Smile 
   Product Type: Crem One - 2B RP-GSP Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/ONE-2B-R-dual-LFPP02b-1020x1024_bae8ddf8-b22e-4348-b4a6-a10f2ee28f29.webp?v=1754618856
   Price: $5,590.00 AUD
 - [Expobar Barista Kit - Ultimate Espresso Tool Set for Coffee Lovers](https://sipnsmile.com.au/products/expobar-barista-kit): Elevate your coffee experience with the Expobar Barista Kit. This essential kit includes everything you need for brewing perfect espresso at home. Order yours today!
-  Updated: 2026-02-02T11:42:03Z
+  Updated: 2026-02-12T08:40:42Z
   Vendor: Sip N Smile 
   Product Type: Expobar Barista Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/expobar-barista-kit.webp?v=1754687465
   Price: $152.88 AUD
 - [Caffe Knockout Tube 900mm - Efficient Coffee Ground Disposal](https://sipnsmile.com.au/products/caffe-knockout-tube): Discover the Caffe Knockout Tube 900mm for quick and easy coffee ground disposal. Upgrade your coffee experience with this essential tool for baristas and enthusiasts.
-  Updated: 2026-02-02T11:42:03Z
+  Updated: 2026-02-12T08:40:42Z
   Vendor: Sip N Smile 
   Product Type: Caffe Knockout Tube 900mm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Large-Caffe-Knockout-Tube-scaled-1-931x2048.webp?v=1754687986
   Price: $79.89 AUD
 - [Caffe Knockout Tube Medium - Perfect Coffee Brewing Solution](https://sipnsmile.com.au/products/caffe-knockout-tube-medium): Discover the Caffe Knockout Tube Medium for a perfectly balanced coffee experience. Brew your favorite blends effortlessly with this innovative tool.
-  Updated: 2026-02-02T11:42:05Z
+  Updated: 2026-02-12T08:40:43Z
   Vendor: Sip N Smile 
   Product Type: Caffe Knockout Tube Medium
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Medium-Caffe-Knockout-Tube-scaled-1-1152x1536.webp?v=1754689441
   Price: $69.89 AUD
 - [Caffe Knockout Tube Small - Ultimate Coffee Brewing Experience](https://sipnsmile.com.au/products/caffe-knockout-tube-small): Discover the Caffe Knockout Tube Small for a superior coffee experience. Compact, durable, and user-friendly, it’s a must-have for coffee lovers!
-  Updated: 2026-02-02T11:42:06Z
+  Updated: 2026-02-12T08:40:44Z
   Vendor: Sip N Smile 
   Product Type: Caffe Knockout Tube Small
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/knock-tube.webp?v=1754690299
   Price: $63.89 AUD
 - [Caffe Knockout Bag - Premium Coffee Accessories](https://sipnsmile.com.au/products/caffe-knockout-bag): Elevate your coffee experience with the Caffe Knockout Bag, designed for enthusiasts who value quality and portability. Perfect for travel and daily use.
-  Updated: 2026-02-02T11:42:06Z
+  Updated: 2026-02-12T08:40:44Z
   Vendor: Sip N Smile 
   Product Type: Caffe Knockout Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Knockout-plastic-bag-scaled-1-300x300.webp?v=1754691896
   Price: $89.89 AUD
 - [Hand Tamper − Espressobits: Perfect for Brewing Coffee](https://sipnsmile.com.au/products/hand-tamper-espressobits): Discover the Hand Tamper − Espressobits for optimal coffee tamping. Elevate your brewing experience with this essential tool for baristas and coffee lovers.
-  Updated: 2026-02-02T11:42:08Z
+  Updated: 2026-02-12T08:40:45Z
   Vendor: Sip N Smile 
   Product Type: Hand Tamper − Espressobits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Espressobits-Tamper_b_fd2ff032-7c5e-4989-bcf8-2f1fb73aa9e2.webp?v=1754692355
   Price: $59.89 AUD
 - [Hand Tamper − Ruggero: Efficient Soil Compaction Tool](https://sipnsmile.com.au/products/hand-tamper-ruggero): Discover the Hand Tamper − Ruggero, a reliable tool for effective soil compaction. Perfect for landscaping and construction projects. Order yours today!
-  Updated: 2026-02-02T11:42:09Z
+  Updated: 2026-02-12T08:40:46Z
   Vendor: Sip N Smile 
   Product Type: Hand Tamper − Ruggero
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Ruggero-Tamper-1.webp?v=1754693078
   Price: $59.89 AUD
 - [Macap Pogo Dynametric Tamper - Precision Coffee Tamping](https://sipnsmile.com.au/products/macap-pogo-dynametric-tamper): Discover the Macap Pogo Dynametric Tamper, designed for perfect espresso extraction with precision and ease. Elevate your coffee-making experience today!
-  Updated: 2026-02-02T11:42:11Z
+  Updated: 2026-02-12T08:40:47Z
   Vendor: Sip N Smile 
   Product Type: Macap Pogo Dynametric Tamper
   Availability: Available
@@ -492,42 +499,42 @@
     Availability: Available
     Price: $305.89 AUD
 - [Expobar Mega Crem Compact - Premium Coffee Machine with Grinder](https://sipnsmile.com.au/products/expobar-mega-crem-compact-coffee-machine-with-built-in-grinder): Discover the Expobar Mega Crem Compact, the perfect coffee machine with a built-in grinder, designed for delicious coffee experiences in any space.
-  Updated: 2026-02-02T11:42:11Z
+  Updated: 2026-02-12T08:40:47Z
   Vendor: Sip N Smile 
   Product Type: Expobar Mega Crem Compact Coffee Machine With Built in Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/MEGACREM-1_GROUP_WITH_GRINDER_BLACK.webp?v=1754712904
   Price: $5,189.88 AUD
 - [Expobar Mega Crem Compact 1 Group Espresso Machine | Sip N Smile](https://sipnsmile.com.au/products/expobar-mega-crem-compact-1-high-group-coffee-machine): Expobar Mega Crem Compact 1 group espresso machine. 45kg commercial-grade quality. Professional coffee maker for cafes and businesses in Australia.
-  Updated: 2026-02-02T11:42:12Z
+  Updated: 2026-02-13T15:49:05Z
   Vendor: Sip N Smile 
   Product Type: Expobar Mega Crem 1 Group Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/expobar-mega-crem-1-group-high-cup-all-di-pacci-924.webp?v=1754725840
   Price: $4,215.00 AUD
 - [2 Group MegaCrem High Group Compact Coffee Machine - Ultimate Choice](https://sipnsmile.com.au/products/2-group-megacrem-high-group-compact-coffee-machine): Discover the 2 Group MegaCrem High Group Compact that combines performance and design in one coffee machine. Perfect for any café or coffee lover's setup.
-  Updated: 2026-02-02T11:42:13Z
+  Updated: 2026-02-12T08:40:49Z
   Vendor: Sip N Smile 
   Product Type: 2 Group MegaCrem High Group Compact
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_5cc3e49e-c11f-4b3a-a8af-d848a03bea20.webp?v=1754731551
   Price: $5,189.00 AUD
-- [2 Group Zircon High Group Compact Coffee Machine - Efficiency & Quality](https://sipnsmile.com.au/products/2-group-zircon-high-group-compact-coffee-machine): Discover the 2 Group Zircon High Group Compact Coffee Machine, designed for efficient espresso making. Experience quality like never before in a compact size.
-  Updated: 2026-02-02T11:42:14Z
+- [2 Group Zircon High Group Compact Coffee Machine for Perfect Brews](https://sipnsmile.com.au/products/2-group-zircon-high-group-compact-coffee-machine): Discover the 2 Group Zircon High Group Compact Coffee Machine, designed for efficient espresso making. Experience quality like never before in a compact size.
+  Updated: 2026-02-13T00:20:18Z
   Vendor: Sip N Smile
   Product Type: 2 Group Zircon High Group Compact Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Zircon-2Gr-HG-Compact-Front-scaled-1.webp?v=1754733790
   Price: $4,940.00 AUD
 - [2 GROUP HG RUGGERO CLASSIC COMPACT V2 Coffee Machine - Quality Brew](https://sipnsmile.com.au/products/2-group-hg-ruggero-classic-compact-v2): Discover the 2 GROUP HG RUGGERO CLASSIC COMPACT V2 coffee machine, a perfect blend of performance and style, ideal for any coffee lover.
-  Updated: 2026-02-02T11:42:15Z
+  Updated: 2026-02-12T08:40:52Z
   Vendor: Sip N Smile 
   Product Type: 2 Group Ruggero Classic Compact Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Ruggero-Classic-v2_2Gr-HG-Compact-Matte-Black_Front-2-scaled-1-300x300.webp?v=1754777591
   Price: $6,994.89 AUD
 - [Ruggero Classic Compact V2 1 Group - Commercial Espresso Machine](https://sipnsmile.com.au/products/1-group-hg-ruggero-classic-compact-v2): Discover Ruggero Classic Compact V2 1 Group. Perfect for any coffee venue, it delivers consistency and quality in every cup.
-  Updated: 2026-02-02T11:42:17Z
+  Updated: 2026-02-12T08:40:52Z
   Vendor: Sip N Smile 
   Product Type: 1 GROUP HG RUGGERO CLASSIC COMPACT V2
   Availability: Available
@@ -540,280 +547,280 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Ruggero-Classic-v2_2Gr-HG-Compact-Matte-Black_Back-scaled-1_1.webp?v=1754795653
     Price: $5,989.87 AUD
-- [Office Coffee Machine - Dr Coffee F20 Fully Automatic](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-f20): Dr Coffee F20 fully automatic office coffee machine. One-touch brewing, commercial-grade quality, multiple beverages for busy workplaces in Australia.
-  Updated: 2026-02-02T11:42:18Z
+- [Dr Coffee F20 Automatic Coffee Machine - Brew Perfect Coffee at Home](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-f20): Dr Coffee F20 fully automatic office coffee machine. One-touch brewing, commercial-grade quality, multiple beverages for busy workplaces in Australia.
+  Updated: 2026-02-13T15:10:24Z
   Vendor: Sip N Smile 
   Product Type: F20 Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/F20-DESKTOP-C2IHOA6-copy.jpg?v=1754800302
   Price: $11,374.00 AUD
 - [Dr Coffee F22 - Automatic Dual Grinder for Office Excellence](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-f22): Discover the Dr Coffee F22, the ultimate automatic dual grinder for office coffee solutions. Elevate your coffee experience today!
-  Updated: 2026-02-02T11:42:18Z
+  Updated: 2026-02-13T13:23:19Z
   Vendor: Sip N Smile 
   Product Type: DR COFFEE F22 Automatic Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/f22-2.png?v=1754804537
   Price: $12,815.00 AUD
-- [Dr Coffee Minibar S & S2 - Automatic Office Coffee Machine](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-minibar): Discover the Dr Coffee Minibar S & S2, the ultimate office coffee machine that brews your favorite coffee automatically. Perfect for any workspace!
-  Updated: 2026-02-02T11:42:20Z
+- [Dr Coffee Minibar S & S2 - Automatic Office Coffee Machine](https://sipnsmile.com.au/products/dr-coffee-minibar-s-s2): Discover the Dr Coffee Minibar S & S2, the ultimate office coffee machine that brews your favorite coffee automatically. Perfect for any workspace!
+  Updated: 2026-02-13T00:24:51Z
   Vendor: Sip N Smile 
   Product Type: Dr. Coffee Minibar Automatic Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/dr-coffee-minibar-automatic-coffee-machine-s2-510x510.webp?v=1754970409
-  - [Minibar S](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-minibar?variant=52552685519218)
+  - [Minibar S](https://sipnsmile.com.au/products/dr-coffee-minibar-s-s2?variant=52552685519218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/dr-coffee-minibar-automatic-coffee-machine-s-510x510_2bbca843-8eee-43b9-a18b-31a62c1eb520.jpg?v=1754970452
     Price: $5,285.00 AUD
-  - [Minibar S2](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-minibar?variant=52552691024242)
+  - [Minibar S2](https://sipnsmile.com.au/products/dr-coffee-minibar-s-s2?variant=52552691024242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/dr-coffee-minibar-automatic-coffee-machine-s2-510x510.webp?v=1754970409
     Price: $6,355.00 AUD
-- [Specialty Coffee - Happy Days Chocolate Pecan | Sip N Smile](https://sipnsmile.com.au/products/specialty-coffee-happy-days): Happy Days specialty coffee 1kg with chocolate and pecan notes. Brazilian beans perfect for milk-based drinks. Premium coffee beans in Australia.
-  Updated: 2026-02-02T11:42:35Z
+- [Happy Days Specialty Coffee 1kg | Sip N Smile - Premium Flavor Awaits](https://sipnsmile.com.au/products/happy-days-specialty-coffee): Happy Days specialty coffee 1kg with chocolate and pecan notes. Brazilian beans perfect for milk-based drinks. Premium coffee beans in Australia.
+  Updated: 2026-02-13T13:58:01Z
   Vendor: Sip N Smile 
   Product Type: Specialty Coffee Beans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
-  - [1KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507489138)
+  - [1KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507489138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $47.00 AUD
-  - [1KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505162610)
+  - [1KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505162610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $47.00 AUD
-  - [1KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389786482)
+  - [1KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389786482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $47.00 AUD
-  - [2KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507521906)
+  - [2KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507521906)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $90.00 AUD
-  - [2KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505195378)
+  - [2KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505195378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $90.00 AUD
-  - [2KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389819250)
+  - [2KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389819250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $90.00 AUD
-  - [3Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507554674)
+  - [3Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507554674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $132.00 AUD
-  - [3Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505228146)
+  - [3Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505228146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $132.00 AUD
-  - [3Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389852018)
+  - [3Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389852018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $132.00 AUD
-  - [4Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507587442)
+  - [4Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507587442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $176.00 AUD
-  - [4Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505260914)
+  - [4Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505260914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $176.00 AUD
-  - [4Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389884786)
+  - [4Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389884786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $176.00 AUD
-  - [5Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507620210)
+  - [5Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507620210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $215.00 AUD
-  - [5Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505293682)
+  - [5Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505293682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $215.00 AUD
-  - [5Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389917554)
+  - [5Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389917554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $215.00 AUD
-  - [6kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507652978)
+  - [6kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507652978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $252.00 AUD
-  - [6kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505326450)
+  - [6kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505326450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $252.00 AUD
-  - [6kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389950322)
+  - [6kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389950322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $252.00 AUD
-  - [7Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507685746)
+  - [7Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507685746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $287.00 AUD
-  - [7Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505359218)
+  - [7Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505359218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $287.00 AUD
-  - [7Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815389983090)
+  - [7Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815389983090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $287.00 AUD
-  - [8 Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507718514)
+  - [8 Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507718514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $320.00 AUD
-  - [8 Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815505391986)
+  - [8 Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815505391986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $320.00 AUD
-  - [8 Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815390015858)
+  - [8 Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815390015858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $320.00 AUD
-  - [10Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507751282)
+  - [10Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507751282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $390.00 AUD
-  - [12Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507784050)
+  - [12Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507784050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $456.00 AUD
-  - [15kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507816818)
+  - [15kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507816818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $555.00 AUD
-  - [20Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815390146930)
+  - [20Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815390146930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $720.00 AUD
-  - [30Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-happy-days?variant=60815507882354)
+  - [30Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/happy-days-specialty-coffee?variant=60815507882354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Happy_Days_Specialty_Coffee.png?v=1763856098
     Price: $1,050.00 AUD
-- [Specialty Coffee - Highland Premium Beans | Sip N Smile](https://sipnsmile.com.au/products/specialty-coffee-highland): Highland specialty coffee premium beans from high-altitude regions. Rich, complex flavors perfect for espresso and filter brewing in Australia.
-  Updated: 2026-02-02T11:42:51Z
+- [Highland Specialty Coffee - Fresh 1kg Coffee Beans | Sip N Smile](https://sipnsmile.com.au/products/highland-specialty-coffee): Highland specialty coffee premium beans from high-altitude regions. Rich, complex flavors perfect for espresso and filter brewing in Australia.
+  Updated: 2026-02-13T18:41:07Z
   Vendor: Sip N Smile 
   Product Type: Specialty Coffee Beans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
-  - [1Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821380890994)
+  - [1Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821380890994)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $42.00 AUD
-  - [1Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821380923762)
+  - [1Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821380923762)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $42.00 AUD
-  - [1Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821380956530)
+  - [1Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821380956530)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $42.00 AUD
-  - [2kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388067186)
+  - [2kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388067186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $84.00 AUD
-  - [2kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388231026)
+  - [2kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388231026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $84.00 AUD
-  - [2kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388394866)
+  - [2kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388394866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $84.00 AUD
-  - [3kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388099954)
+  - [3kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388099954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $120.00 AUD
-  - [3kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388263794)
+  - [3kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388263794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $120.00 AUD
-  - [3kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388427634)
+  - [3kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388427634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $120.00 AUD
-  - [4Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388132722)
+  - [4Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388132722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $160.00 AUD
-  - [4Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388296562)
+  - [4Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388296562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $160.00 AUD
-  - [4Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388460402)
+  - [4Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388460402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $160.00 AUD
-  - [5Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388165490)
+  - [5Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388165490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $197.50 AUD
-  - [5Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388329330)
+  - [5Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388329330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $197.50 AUD
-  - [5Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388493170)
+  - [5Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388493170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $197.50 AUD
-  - [6Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388198258)
+  - [6Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388198258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $234.00 AUD
-  - [6Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388362098)
+  - [6Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388362098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $234.00 AUD
-  - [6Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821388525938)
+  - [6Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821388525938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $234.00 AUD
-  - [7Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392327026)
+  - [7Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392327026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $269.50 AUD
-  - [7Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392359794)
+  - [7Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392359794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $269.50 AUD
-  - [7Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392392562)
+  - [7Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392392562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $269.50 AUD
-  - [8Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392425330)
+  - [8Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392425330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $304.00 AUD
-  - [8Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392458098)
+  - [8Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392458098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $304.00 AUD
-  - [8Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392490866)
+  - [8Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392490866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $304.00 AUD
-  - [10Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392523634)
+  - [10Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392523634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $360.00 AUD
-  - [10Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392556402)
+  - [10Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392556402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $360.00 AUD
-  - [10Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821392589170)
+  - [10Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821392589170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $360.00 AUD
-  - [15Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821492990322)
+  - [15Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821492990322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $525.00 AUD
-  - [20Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-highland?variant=60821504098674)
+  - [20Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/highland-specialty-coffee?variant=60821504098674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Sip_N_Smile_Highland_Coffee_Beans.png?v=1763861639
     Price: $700.00 AUD
 - [Golden Grin Specialty Coffee | Sip N Smile for Coffee Lovers](https://sipnsmile.com.au/products/golden-grin-specialty-coffee): Indulge in the rich flavor of Golden Grin Specialty Coffee from Sip N Smile. Perfect for coffee lovers seeking a premium taste experience. Brew happiness today!
-  Updated: 2026-02-02T11:43:03Z
+  Updated: 2026-02-13T14:56:33Z
   Vendor: Sip N Smile 
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -922,153 +929,153 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/Golden_Grin_Coffee_Beans.png?v=1763858626
     Price: $1,080.00 AUD
-- [Specialty Coffee - Morning Kick Dark Chocolate | Sip N Smile](https://sipnsmile.com.au/products/specialty-coffee-morning-kick): Morning Kick specialty coffee with dark chocolate, walnut, and raisin notes. Perfect for espresso and milk-based drinks in Australia.
-  Updated: 2026-02-02T11:43:17Z
+- [Morning Kick Specialty Coffee 1kg | Energize Your Day with Sip N Smile](https://sipnsmile.com.au/products/morning-kick-specialty-coffee): Morning Kick specialty coffee with dark chocolate, walnut, and raisin notes. Perfect for espresso and milk-based drinks in Australia.
+  Updated: 2026-02-13T15:46:18Z
   Vendor: Sip N Smile 
   Product Type: Specialty Coffee Beans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
-  - [Whole Beans / 1kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822725984626)
+  - [Whole Beans / 1kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822725984626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $48.00 AUD
-  - [Espresso Ground / 1kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822726017394)
+  - [Espresso Ground / 1kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822726017394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $48.00 AUD
-  - [Filter Ground / 1kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822726050162)
+  - [Filter Ground / 1kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822726050162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $48.00 AUD
-  - [Whole Beans / 2Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744007026)
+  - [Whole Beans / 2Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744007026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $94.00 AUD
-  - [Whole Beans / 3Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744039794)
+  - [Whole Beans / 3Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744039794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $132.00 AUD
-  - [Whole Beans / 4Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744072562)
+  - [Whole Beans / 4Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744072562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $172.00 AUD
-  - [Whole Beans / 5Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744105330)
+  - [Whole Beans / 5Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744105330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $210.00 AUD
-  - [Whole Beans / 6Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744138098)
+  - [Whole Beans / 6Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744138098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $240.00 AUD
-  - [Whole Beans / 8Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744170866)
+  - [Whole Beans / 8Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744170866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $312.00 AUD
-  - [Whole Beans / 10 Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744203634)
+  - [Whole Beans / 10 Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744203634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $390.00 AUD
-  - [Whole Beans / 12Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744236402)
+  - [Whole Beans / 12Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744236402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $502.00 AUD
-  - [Whole Beans / 15Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744269170)
+  - [Whole Beans / 15Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744269170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $615.00 AUD
-  - [Whole Beans / 20Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744301938)
+  - [Whole Beans / 20Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744301938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $780.00 AUD
-  - [Whole Beans / 30kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744334706)
+  - [Whole Beans / 30kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744334706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $1,160.00 AUD
-  - [Espresso Ground / 2Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744367474)
+  - [Espresso Ground / 2Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744367474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $97.00 AUD
-  - [Espresso Ground / 3Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744400242)
+  - [Espresso Ground / 3Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744400242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $138.00 AUD
-  - [Espresso Ground / 4Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744433010)
+  - [Espresso Ground / 4Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744433010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $179.00 AUD
-  - [Espresso Ground / 5Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744465778)
+  - [Espresso Ground / 5Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744465778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $223.00 AUD
-  - [Espresso Ground / 6Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744498546)
+  - [Espresso Ground / 6Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744498546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $264.00 AUD
-  - [Espresso Ground / 8Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744531314)
+  - [Espresso Ground / 8Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744531314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $344.00 AUD
-  - [Filter Ground / 2Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744727922)
+  - [Filter Ground / 2Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744727922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $97.00 AUD
-  - [Filter Ground / 3Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744760690)
+  - [Filter Ground / 3Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744760690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $138.00 AUD
-  - [Filter Ground / 4Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744793458)
+  - [Filter Ground / 4Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744793458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $179.00 AUD
-  - [Filter Ground / 5Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744826226)
+  - [Filter Ground / 5Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744826226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $223.00 AUD
-  - [Filter Ground / 6Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744858994)
+  - [Filter Ground / 6Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744858994)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $264.00 AUD
-  - [Filter Ground / 8Kg Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-morning-kick?variant=60822744891762)
+  - [Filter Ground / 8Kg Whole Beans](https://sipnsmile.com.au/products/morning-kick-specialty-coffee?variant=60822744891762)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_84d99b93-4b9a-439e-91aa-2de0e86ed323.jpg?v=1762837826
     Price: $344.00 AUD
 - [Dr Coffee F16 Big Plus - Fully Automatic Office Coffee Machine](https://sipnsmile.com.au/products/office-coffee-machine-dr-coffee-f16-big-plus): Discover the Dr Coffee F16 Big Plus, a fully automatic office coffee machine that offers exceptional coffee quality and customizable options for any workplace.
-  Updated: 2026-02-02T11:43:19Z
+  Updated: 2026-02-13T00:35:24Z
   Vendor: Sip N Smile 
   Product Type: Dr Coffee F16 Big Plus
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_ca75bb01-36fa-44cf-82a0-043e4f809c7b.jpg?v=1762838197
   Price: $4,830.00 AUD
 - [Glass Milk Jug - Elegant & Durable Kitchen Accessory](https://sipnsmile.com.au/products/glass-milk-jug): Discover the versatile Glass Milk Jug, perfect for serving and storing liquids. Enhance your kitchen with this elegant and durable jug today!
-  Updated: 2026-02-02T11:43:19Z
+  Updated: 2026-02-12T08:41:55Z
   Vendor: Sip N Smile 
   Product Type: Glass Milk Jug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_cedbda69-cda4-4cad-9217-6a539add74bd.png?v=1763073762
   Price: $115.00 AUD
-- [Drinking Chocolate - TEMPT Luxury 1kg Premium | Sip N Smile](https://sipnsmile.com.au/products/tempt-luxury-drinking-chocolate-1kg): TEMPT Luxury drinking chocolate 1kg. Velvety smooth, deep cocoa flavor. Premium quality hot chocolate for indulgent moments in Australia.
-  Updated: 2026-02-02T11:43:20Z
+- [TEMPT - Drinking Chocolate 1kg | Indulge in Sip N Smile Luxury](https://sipnsmile.com.au/products/tempt-drinking-chocolate): Indulge in TEMPT - Drinking Chocolate, a luxurious treat available in a 1kg pack from Sip N Smile. Perfect for cozy evenings, elevate your chocolate experience today!
+  Updated: 2026-02-13T15:06:57Z
   Vendor: Sip N Smile 
   Product Type: Drinking Chocolate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_81e19e28-2737-4916-b55e-503dff5a502a.jpg?v=1763193686
   Price: $25.00 AUD
-- [Drinking Chocolate - Bob Chocolart 40% Cocoa Premium | Sip N Smile](https://sipnsmile.com.au/products/drinking-chocolate-bob-chocolart-40-cocoa): Bob Chocolart 40% cocoa drinking chocolate. Rich, authentic chocolate flavor perfect for cafes and home use. Premium quality hot chocolate in Australia.
-  Updated: 2026-02-02T11:43:22Z
+- [Drinking Chocolate - Bob Chocolate 40% Cocoa | Sip N Smile Treat](https://sipnsmile.com.au/products/drinking-chocolate-bob-chocolate): Indulge in the rich taste of Drinking Chocolate - Bob Chocolate with 40% cocoa. Perfect for a cozy evening, Sip N Smile delivers premium indulgence in every cup.
+  Updated: 2026-02-13T15:42:33Z
   Vendor: Sip N Smile 
   Product Type: Drinking Chocolate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_de3c4888-d2f3-4501-981e-422b168e637f.jpg?v=1763204292
   Price: $37.00 AUD
 - [Drinking Chocolate - Organic | Tree Hugging BOB | Sip N Smile](https://sipnsmile.com.au/products/drinking-chocolate-organic-tree-hugging-bob): Indulge in Sip N Smile’s Drinking Chocolate - Organic with Tree Hugging BOB. Enjoy rich flavors made from premium organic ingredients. Perfect for cozy moments!
-  Updated: 2026-02-02T11:43:22Z
+  Updated: 2026-02-12T08:41:59Z
   Vendor: Sip N Smile 
   Product Type: Drinking Chocolate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_2a7317cf-0790-4fff-a54e-b7fba310df2a.jpg?v=1763208046
   Price: $45.00 AUD
-- [Organic Coffee | Morning Grin Organic Coffee Beans - Sip N Smile](https://sipnsmile.com.au/products/organic-coffee-beans-morning-grin-1kg): Morning Grin organic coffee beans 1kg. Smooth, rich flavor from  organic beans. Premium specialty coffee for home brewing in Australia.
-  Updated: 2026-02-02T11:43:34Z
+- [Morning Grin Organic Coffee | Sip N Smile - Pure Organic Flavor Awaits](https://sipnsmile.com.au/products/organic-coffee-beans-morning-grin-1kg): Morning Grin organic coffee beans 1kg. Smooth, rich flavor from  organic beans. Premium specialty coffee for home brewing in Australia.
+  Updated: 2026-02-13T13:55:23Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -1140,7 +1147,7 @@
     Availability: Available
     Price: $740.00 AUD
 - [Sunrise Specialty Coffee 1Kg | Wholesale Office Coffee | Sip N Smile](https://sipnsmile.com.au/products/sunrise-specialty-coffee): Experience the rich flavor of Sunrise Specialty Coffee 1Kg. Perfect for offices and wholesale, elevate your coffee moments with Sip N Smile. Order now for a brighter brew!
-  Updated: 2026-02-02T11:43:48Z
+  Updated: 2026-02-12T08:42:25Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -1233,7 +1240,7 @@
     Availability: Available
     Price: $700.00 AUD
 - [Moonlight Specialty Coffee 1kg | Premium Office Coffee Wholesale](https://sipnsmile.com.au/products/moonlight-specialty-coffee): Meta Description: Discover Moonlight Specialty Coffee 1kg bags—premium quality coffee beans perfect for your office. Order wholesale and elevate your coffee experience today!
-  Updated: 2026-02-02T11:44:04Z
+  Updated: 2026-02-12T08:42:40Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -1325,101 +1332,101 @@
   - [20Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/moonlight-specialty-coffee?variant=60863157043570)
     Availability: Available
     Price: $720.00 AUD
-- [Twilight Specialty Coffee | Premium Fresh Roasted Coffee](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy): Discover the rich flavors of Twilight Specialty Coffee, made from premium beans for a remarkable coffee experience. Perfect for every coffee lover.
-  Updated: 2026-02-02T11:44:18Z
+- [Twilight Specialty Coffee | Premium Fresh Roasted Coffee](https://sipnsmile.com.au/products/twilight-specialty-coffee): Discover the rich flavors of Twilight Specialty Coffee, made from premium beans for a remarkable coffee experience. Perfect for every coffee lover.
+  Updated: 2026-02-13T16:11:54Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/rn-image_picker_lib_temp_13810dc6-3525-451e-b432-ee9f4cf6abcf.png?v=1764326899
-  - [1KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298634098)
+  - [1KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298634098)
     Availability: Available
     Price: $47.00 AUD
-  - [1KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298666866)
+  - [1KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298666866)
     Availability: Available
     Price: $47.00 AUD
-  - [1KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298699634)
+  - [1KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298699634)
     Availability: Available
     Price: $47.00 AUD
-  - [2KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298732402)
+  - [2KG Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298732402)
     Availability: Available
     Price: $90.00 AUD
-  - [2KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298765170)
+  - [2KG Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298765170)
     Availability: Available
     Price: $90.00 AUD
-  - [2KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298797938)
+  - [2KG Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298797938)
     Availability: Available
     Price: $90.00 AUD
-  - [3Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298830706)
+  - [3Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298830706)
     Availability: Available
     Price: $132.00 AUD
-  - [3Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298863474)
+  - [3Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298863474)
     Availability: Available
     Price: $132.00 AUD
-  - [3Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298896242)
+  - [3Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298896242)
     Availability: Available
     Price: $132.00 AUD
-  - [4Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298929010)
+  - [4Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298929010)
     Availability: Available
     Price: $176.00 AUD
-  - [4Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298961778)
+  - [4Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298961778)
     Availability: Available
     Price: $176.00 AUD
-  - [4Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863298994546)
+  - [4Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863298994546)
     Availability: Available
     Price: $176.00 AUD
-  - [5Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299027314)
+  - [5Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299027314)
     Availability: Available
     Price: $210.00 AUD
-  - [5Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299060082)
+  - [5Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299060082)
     Availability: Available
     Price: $210.00 AUD
-  - [5Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299092850)
+  - [5Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299092850)
     Availability: Available
     Price: $210.00 AUD
-  - [6kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299125618)
+  - [6kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299125618)
     Availability: Available
     Price: $246.00 AUD
-  - [6kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299158386)
+  - [6kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299158386)
     Availability: Available
     Price: $246.00 AUD
-  - [6kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299191154)
+  - [6kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299191154)
     Availability: Available
     Price: $246.00 AUD
-  - [7Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299223922)
+  - [7Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299223922)
     Availability: Available
     Price: $287.00 AUD
-  - [7Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299256690)
+  - [7Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299256690)
     Availability: Available
     Price: $287.00 AUD
-  - [7Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299289458)
+  - [7Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299289458)
     Availability: Available
     Price: $287.00 AUD
-  - [8 Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299322226)
+  - [8 Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299322226)
     Availability: Available
     Price: $320.00 AUD
-  - [8 Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299354994)
+  - [8 Kg Whole Beans / Espresso Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299354994)
     Availability: Available
     Price: $320.00 AUD
-  - [8 Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299387762)
+  - [8 Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299387762)
     Availability: Available
     Price: $320.00 AUD
-  - [10Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299420530)
+  - [10Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299420530)
     Availability: Available
     Price: $390.00 AUD
-  - [12Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299453298)
+  - [12Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299453298)
     Availability: Available
     Price: $456.00 AUD
-  - [15kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299486066)
+  - [15kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299486066)
     Availability: Available
     Price: $555.00 AUD
-  - [20Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299518834)
+  - [20Kg Whole Beans / Filter Ground](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299518834)
     Availability: Available
     Price: $720.00 AUD
-  - [30Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/specialty-coffee-twilight-beans-sip-n-smile-copy?variant=60863299551602)
+  - [30Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/twilight-specialty-coffee?variant=60863299551602)
     Availability: Available
     Price: $1,080.00 AUD
-- [Drift Decaf: Specialty Coffee for the Discerning Palate | Sip N Smile](https://sipnsmile.com.au/products/drift-decaf-specialty-coffee): Discover Drift Decaf, a premium specialty coffee. Enjoy the rich flavor without the caffeine. Perfect for any time of the day. Order now!
-  Updated: 2026-02-02T11:44:33Z
+- [Drift Decaf Specialty Coffee 1kg - Premium Blend for Relaxing Moments](https://sipnsmile.com.au/products/drift-decaf-specialty-coffee): Indulge in Drift Decaf Specialty Coffee 1kg - Sip N Smile. Enjoy rich flavors without the caffeine, perfect for any time of day. Experience the joy of decaf coffee today!
+  Updated: 2026-02-13T16:47:42Z
   Vendor: Sip N Smile
   Product Type: Decaf Coffee
   Availability: Available
@@ -1512,7 +1519,7 @@
     Availability: Available
     Price: $1,320.00 AUD
 - [Sip N Smile Gift Cards](https://sipnsmile.com.au/products/sip-n-smile-gift-cards): Share the gift of exceptional coffee with a Sip N Smile gift card. Perfect for coffee enthusiasts and businesses looking to upgrade their coffee experience. Our gift cards can be redeemed on premium coffee machines, commercial espresso equipment, grinders, and all coffee accessories available in our store. Gift cards are delivered by email and contain instructions to redeem them at checkout. They never expire and can be used across multiple purchases.
-  Updated: 2026-02-02T11:44:41Z
+  Updated: 2026-02-12T08:43:18Z
   Vendor: Sip N Smile
   Product Type: Sip N Smile Gift Card
   Availability: Available
@@ -1573,8 +1580,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/3985/1122/files/sip-n-smile-gift-card-with-commercial-machine_9f8d7a0d-7208-4f58-a6fd-2f4ba3977ddb.png?v=1764546452
     Price: $1,000.00 AUD
-- [Qava Dawn Decaf Specialty Coffee 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-dawn-decaf-specialty-coffee-1kg): Qava Dawn Decaf specialty coffee, Glacier Water processed for full flavour without caffeine. Perfect for espresso & filter. 1kg bags. Shop at Sip N Smile Australia.
-  Updated: 2026-02-04T12:27:28Z
+- [Decaf Specialty Coffee - Qava Dawn Decaf 1kg Fresh Coffee Beans](https://sipnsmile.com.au/products/qava-dawn-decaf-specialty-coffee-1kg): Discover Qava Dawn Decaf Specialty Coffee 1kg, made from the finest fresh coffee beans. Enjoy rich flavors without the caffeine. Perfect for any time of day!
+  Updated: 2026-02-13T14:13:10Z
   Vendor: Sip N Smile
   Product Type: Decaf Coffee
   Availability: Available
@@ -1666,8 +1673,8 @@
   - [30Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/qava-dawn-decaf-specialty-coffee-1kg?variant=61566937760114)
     Availability: Available
     Price: $1,320.00 AUD
-- [Qava Early Bird Organic Specialty Coffee 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-early-bird-organic-specialty-coffee-1kg): Qava Early Bird  organic specialty coffee, 1kg. Smooth, rich flavour from premium organic farms. Perfect for espresso & filter. Shop at Sip N Smile Australia.
-  Updated: 2026-02-04T12:25:00Z
+- [Organic Specialty Coffee - Qava Early Bird 1kg | Premium Quality Brew](https://sipnsmile.com.au/products/qava-early-bird-organic-specialty-coffee-1kg): Qava Early Bird  organic specialty coffee, 1kg. Smooth, rich flavour from premium organic farms. Perfect for espresso & filter. Shop at Sip N Smile Australia.
+  Updated: 2026-02-12T23:07:58Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -1738,8 +1745,8 @@
   - [20Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/qava-early-bird-organic-specialty-coffee-1kg?variant=61567067586930)
     Availability: Available
     Price: $740.00 AUD
-- [Qava Pulse Specialty Coffee 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-pulse-specialty-coffee-1kg): Qava Pulse specialty coffee, 1kg. Consistent quality and balanced flavor perfect for offices and workplaces. Shop at Sip N Smile Australia.
-  Updated: 2026-02-04T17:28:13Z
+- [Qava Pulse Specialty Coffee - Premium 1kg Coffee for True Connoisseurs](https://sipnsmile.com.au/products/qava-pulse-specialty-coffee-1kg): Qava Pulse specialty coffee, 1kg. Consistent quality and balanced flavor perfect for offices and workplaces. Shop at Sip N Smile Australia.
+  Updated: 2026-02-13T12:17:03Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -1832,7 +1839,7 @@
     Availability: Available
     Price: $720.00 AUD
 - [Qava Element Specialty Coffee 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-element-specialty-coffee-1kg): Qava Element specialty coffee, 1kg. Smooth milk chocolate & praline notes. Medium body blend from Brazil, Tanzania & Mexico. Shop at Sip N Smile Australia
-  Updated: 2026-02-04T11:46:27Z
+  Updated: 2026-02-13T16:06:35Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -1924,8 +1931,8 @@
   - [20Kg Whole Beans / Whole Beans](https://sipnsmile.com.au/products/qava-element-specialty-coffee-1kg?variant=61567244042610)
     Availability: Available
     Price: $720.00 AUD
-- [Qava Milano Coffee Beans 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-milano-specialty-coffee-1kg): Qava Milano specialty coffee beans, 1kg. Smooth milk chocolate & praline notes. Italian-style espresso blend from Brazil, Tanzania & Mexico. Shop at Sip N Smile Australia.
-  Updated: 2026-02-04T13:07:03Z
+- [Milano Specialty Coffee - Qava Milano 1kg Gourmet Coffee Beans](https://sipnsmile.com.au/products/qava-milano-specialty-coffee-1kg): Qava Milano specialty coffee beans, 1kg. Smooth milk chocolate & praline notes. Italian-style espresso blend from Brazil, Tanzania & Mexico. Shop at Sip N Smile Australia.
+  Updated: 2026-02-13T12:53:24Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -2021,7 +2028,7 @@
     Availability: Available
     Price: $720.00 AUD
 - [Qava Bliss Coffee Beans 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-bliss-specialty-coffee-1kg): Qava Bliss specialty coffee beans, 1kg. Vanilla, honeydew & buttery notes. Colombia, Ethiopia & India origins. Medium roast. Shop at Sip N Smile.
-  Updated: 2026-02-04T14:55:13Z
+  Updated: 2026-02-12T08:44:43Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -2114,7 +2121,7 @@
     Availability: Available
     Price: $720.00 AUD
 - [Qava Ember Specialty Coffee 1kg | Available at Sip N Smile](https://sipnsmile.com.au/products/qava-ember-specialty-coffee-1kg): Qava Ember medium-dark espresso blend, 1kg. Dark chocolate, smokey & toffee notes. PNG, India & Ethiopia origins. Bold & full-bodied. Shop at Sip N Smile.
-  Updated: 2026-02-04T17:06:11Z
+  Updated: 2026-02-12T08:44:58Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -2207,7 +2214,7 @@
     Availability: Available
     Price: $700.00 AUD
 - [Qava Evolve Specialty Coffee 1kg | Premium Blend | Sip N Smile](https://sipnsmile.com.au/products/qava-evolve-specialty-coffee-1kg): Qava Evolve specialty coffee blend. Vanilla, honeydew & buttery notes. Colombia, Ethiopia & India origins. Medium roast. Premium coffee at Sip N Smile.
-  Updated: 2026-02-05T02:38:41Z
+  Updated: 2026-02-12T08:45:13Z
   Vendor: Sip N Smile
   Product Type: Specialty Coffee Beans
   Availability: Available
@@ -2303,10 +2310,10 @@
 ## Collections
 
 - [Coffee Blends - Explore Unique Flavor Profiles for Every Coffee Lover](https://sipnsmile.com.au/collections/coffee-blends): Discover our exquisite Coffee Blends collection, featuring unique flavors crafted to delight your senses. Elevate your coffee experience today with our premium blends!
-  Updated: 2026-02-04T05:52:38Z
+  Updated: 2026-02-13T00:56:42Z
   Total Products: 17
 - [Home Coffee Machines: Brew Perfect Coffee at Home with Our Selection](https://sipnsmile.com.au/collections/home-coffee-machines): Discover the best home coffee machines to brew your perfect cup. Explore our collection for innovative designs and unbeatable quality, ensuring a delightful coffee experience at home!
-  Updated: 2025-12-12T08:27:48Z
+  Updated: 2026-02-13T00:19:23Z
   Total Products: 31
 - [Home Coffee Grinders: Enhance Your Coffee Experience](https://sipnsmile.com.au/collections/coffee-grinders): Discover the benefits of Home Coffee Grinders, from freshness to customization. Elevate your brewing process with the perfect grind for every cup.
   Updated: 2025-12-12T08:06:36Z
@@ -2315,10 +2322,10 @@
   Updated: 2025-12-19T12:25:08Z
   Total Products: 14
 - [Commercial Coffee Machines: Quality Brewing Solutions](https://sipnsmile.com.au/collections/commercial-coffee-machines): Discover top quality Commercial Coffee Machines for your business. Enhance your coffee service with reliable, efficient machines that meet your customers' demands.
-  Updated: 2025-12-12T08:27:48Z
+  Updated: 2026-02-13T00:23:11Z
   Total Products: 13
 - [Automatic Coffee Machines for Perfect Brews at Home - Shop Now](https://sipnsmile.com.au/collections/automatic-coffee-machines): Discover our premium collection of Automatic Coffee Machines. Brew barista-quality coffee at home with ease. Perfect for coffee lovers seeking convenience and flavor!
-  Updated: 2026-01-13T03:07:42Z
+  Updated: 2026-02-13T01:12:50Z
   Total Products: 11
 - [Commercial Coffee Grinders: Top Quality for Your Business](https://sipnsmile.com.au/collections/commercial-coffee-grinders): Discover high-quality Commercial Coffee Grinders designed for efficiency. Elevate your coffee experience with our professional grinding solutions.
   Updated: 2025-11-30T07:58:14Z
@@ -2330,41 +2337,41 @@
   Updated: 2025-12-19T12:25:08Z
   Total Products: 3
 - [Office Coffee Machines - Quality Brews for Your Office Needs](https://sipnsmile.com.au/collections/office-coffee-machines): Discover the best Office Coffee Machines for your workplace. Enhance productivity and employee satisfaction with quality coffee solutions tailored for your office.
-  Updated: 2026-02-04T05:52:38Z
+  Updated: 2026-02-13T01:12:50Z
   Total Products: 26
 - [Drinking Chocolate: Indulge in Luxury and Flavor](https://sipnsmile.com.au/collections/drinking-chocolate): Discover the rich world of Drinking Chocolate! Perfect for any occasion, experience its luxurious taste and creativity in a cup.
-  Updated: 2025-12-12T09:07:01Z
+  Updated: 2026-02-13T00:49:38Z
   Total Products: 3
 - [Corporate Office Coffee: Boosting Workplace Productivity & Morale](https://sipnsmile.com.au/collections/corporate-office-coffee): Explore how Corporate Office Coffee can enhance productivity and workplace morale while creating a more inviting environment for your employees.
-  Updated: 2026-02-04T05:52:38Z
+  Updated: 2026-02-13T00:56:42Z
   Total Products: 18
 - [Hospitality & Venue Coffee: Elevate Your Coffee Experience](https://sipnsmile.com.au/collections/hospitality-venue-coffee): Discover the perfect blend of service and quality with Hospitality & Venue Coffee. Join us to savor the rich flavors and inviting atmosphere that we offer.
-  Updated: 2026-02-04T05:52:38Z
+  Updated: 2026-02-13T02:13:18Z
   Total Products: 18
 - [Wholesale Coffee Partners: Quality Coffee for Businesses & More](https://sipnsmile.com.au/collections/wholesale-coffee-partners): Wholesale Coffee Partners provides high-quality coffee for businesses and individuals. Explore our vast selection and join our community dedicated to sustainable coffee sourcing.
-  Updated: 2026-02-01T21:31:11Z
+  Updated: 2026-02-13T02:14:13Z
   Total Products: 0
-- [Gift Card Collection](https://sipnsmile.com.au/collections/gift-card-collection): Give the gift of exceptional coffee with a Sip N Smile gift card. Perfect for coffee lovers, home baristas, and businesses looking to upgrade their coffee experience. Our gift cards can be redeemed on premium coffee machines, commercial espresso equipment, grinders, and all coffee accessories. Delivered instantly by email with no expiration date, making it the ideal gift for any occasion. You can copy this into the description field on the collection page, then add your Sip N Smile Gift Card product to the collection. Would you like me to suggest any changes to the description?
-  Updated: 2026-01-05T12:20:41Z
+- [Gift Cards - Discover the Perfect Gifts for Every Occasion](https://sipnsmile.com.au/collections/gift-cards-collection): Explore our Gift Cards Collection - the perfect gifts for every occasion. Easy to give and a joy to receive, our gift cards are ideal for loved ones and special moments!
+  Updated: 2026-02-13T02:15:50Z
   Total Products: 1
-- [Subscribe & Save 5% on Coffee & Cleaning Supplies - Sip N Smile](https://sipnsmile.com.au/collections/subscribe-and-save): Subscribe to premium specialty coffee and machine cleaning products. Save 5% with flexible delivery options. Manage your subscription easily online.
-  Updated: 2026-02-04T05:52:38Z
+- [Subscribe & Save 5% on Coffee & Cleaning Supplies - Sip N Smile](https://sipnsmile.com.au/collections/subscribe-save): Discover our Subscribe & Save collection! Enjoy exclusive discounts and convenient delivery on your favorite products. Sign up today and start saving effortlessly.
+  Updated: 2026-02-13T02:18:25Z
   Total Products: 23
 
 ## Blogs
 
 - [News](https://sipnsmile.com.au/blogs/news)
   - [Torre Coffee Machines: Precision and Craftsmanship](https://sipnsmile.com.au/blogs/news/torre-coffee-machines-precision-and-craftsmanship-in-espresso-making): Torre Coffee Machines: Precision and Craftsmanship
-    Updated: 2025-07-30T06:26:48Z
+    Updated: 2026-02-13T02:19:39Z
     Author: Mark Spunner
     Tags: Torre Peppina EVO Matte Black With Wood Coffee Machine
 
 ## Store Pages
 
-- [Contact](https://sipnsmile.com.au/pages/contact)
-  Updated: 2025-04-22T19:47:54Z
-- [HTML Sitemap](https://sipnsmile.com.au/pages/html-sitemap): Products Single Origin Bellezza Bellona Single Group Espresso Machine | Home Coffee Australia Bellezza Giulia Premium Espresso Maker for Coffee Lov...
-  Updated: 2025-12-12T21:28:32Z
+- [Contact Us for Any Inquiries or Support - Get Prompt Assistance Now](https://sipnsmile.com.au/pages/contact-us): Contact Us - Get in Touch with Our Support TeamAt our company, we understand that customer communication is crucial. That’s why we encourage you to...
+  Updated: 2026-02-13T02:22:33Z
+- [HTML Sitemap for Enhanced Navigation and SEO Optimization Guide](https://sipnsmile.com.au/pages/html-sitemap): Products Bellezza Bellona Premium Espresso Maker Bellezza Giulia Espresso Machine - Semi Automatic Perfection for Coffee Lovers BELLEZZA INIZIO R: ...
+  Updated: 2026-02-13T02:27:29Z
 
 ## Policies
 
