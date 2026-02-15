@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2023-10-04T12:45:19Z
 - Contact Email: info@westspa.ca
-- Updated At: 2026-02-07T00:00:39.131Z
+- Updated At: 2026-02-15T00:00:42.795Z
 
 ## Blogs
 
@@ -23,8 +23,8 @@
   - [Hair Removal in Montreal | Laser, Waxing, Electrolysis – West Spa](https://westspa.ca/blogs/articles/advanced-hair-removal-options-tailored-to-you-only-at-west-spa-montreal): Hair Removal in Montreal | Laser, Waxing, Electrolysis – West Spa
     Updated: 2025-09-29T19:31:55Z
     Author: Onixx Media
-  - [PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy](https://westspa.ca/blogs/articles/plasma-vs-laser-resurfacing-which-advanced--is-right-for-your-skin-goals): PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy
-    Updated: 2025-10-23T19:21:50Z
+  - [Plasma Resurfacing vs Laser in Dollard-des-Ormeaux | Advanced Skin Rejuvenation](https://westspa.ca/blogs/articles/plasma-vs-laser-resurfacing-which-advanced--is-right-for-your-skin-goals): Plasma Resurfacing vs Laser in Dollard-des-Ormeaux | Advanced Skin Rejuvenation
+    Updated: 2026-02-09T14:34:48Z
     Author: Onixx Media
   - [PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy](https://westspa.ca/blogs/articles/prp-for-hair-loss-is-platelet-rich-plasma-right-for-you): PRP for Hair Loss DDO: Platelet-Rich Plasma Therapy
     Updated: 2025-10-23T19:22:32Z
@@ -46,6 +46,9 @@
     Author: Onixx Media
   - [Winter Skin Treatments | Repair & Hydration at West Spa](https://westspa.ca/blogs/articles/winter-skin-rescue-how-to-repair-hydrate-brighten-your-skin): Winter Skin Treatments | Repair & Hydration at West Spa
     Updated: 2026-01-26T15:03:56Z
+    Author: Onixx Media
+  - [Men’s  Spa Services: Skincare, Massage & Hair Restoration | West Spa](https://westspa.ca/blogs/articles/mens--spa-services): Men’s  Spa Services: Skincare, Massage & Hair Restoration | West Spa
+    Updated: 2026-02-10T23:17:49Z
     Author: Onixx Media
 
 ## Store Pages
