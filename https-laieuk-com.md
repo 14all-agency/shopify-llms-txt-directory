@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2026-01-25T07:40:49Z
-- Updated At: 2026-02-08T00:00:30.088Z
+- Updated At: 2026-02-15T00:00:34.350Z
 
 ## Products
 
@@ -80,7 +80,7 @@
   Image: https://cdn.shopify.com/s/files/1/0993/6417/6214/files/IMG_7424.jpg?v=1769470325
   Price: £23.00 GBP
 - [Liquid Jersey- RISAAS](https://laieuk.com/products/risaas): This fabric is refreshingly lightweight, perfect for daily wear. It’s thin yet opaque, with a gentle radiance. Composition: Polyester 94%, Spandex 6% Dimension: 180x72cm
-  Updated: 2026-02-06T17:21:33Z
+  Updated: 2026-02-09T08:42:29Z
   Vendor: LAIE
   Product Type: 
   Availability: Available
@@ -150,12 +150,12 @@
   Image: https://cdn.shopify.com/s/files/1/0993/6417/6214/files/IMG_7436.jpg?v=1769468307
   Price: £23.00 GBP
 - [Liquid Jersey- BURTOQALA](https://laieuk.com/products/burtoqala): This fabric is refreshingly lightweight, perfect for daily wear. It’s thin yet opaque, with a gentle radiance. Composition: Polyester 94%, Spandex 6% Dimension: 180x72cm
-  Updated: 2026-02-03T00:30:20Z
+  Updated: 2026-02-12T12:50:10Z
   Vendor: LAIE
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0993/6417/6214/files/IMG_7331.jpg?v=1769467628
-  Price: £20.00 GBP
+  Price: £23.00 GBP
 - [Liquid Jersey- FISTAK](https://laieuk.com/products/fistak): This fabric is refreshingly lightweight, perfect for daily wear. It’s thin yet opaque, with a gentle radiance. Composition: Polyester 94%, Spandex 6% Dimension: 180x72cm
   Updated: 2026-02-03T08:47:21Z
   Vendor: LAIE
@@ -171,7 +171,7 @@
   Image: https://cdn.shopify.com/s/files/1/0993/6417/6214/files/IMG_6819.jpg?v=1769538476
   Price: £23.00 GBP
 - [Liquid Jersey- AFNAN](https://laieuk.com/products/afnan): This fabric is refreshingly lightweight, perfect for daily wear. It’s thin yet opaque, with a gentle radiance. Composition: Polyester 94%, Spandex 6% Dimension: 180x72cm
-  Updated: 2026-02-03T17:29:51Z
+  Updated: 2026-02-09T08:42:30Z
   Vendor: LAIE
   Product Type: 
   Availability: Available
@@ -216,10 +216,10 @@
 ## Collections
 
 - [Home page](https://laieuk.com/collections/frontpage)
-  Updated: 2026-02-07T12:30:17Z
+  Updated: 2026-02-12T12:50:11Z
   Total Products: 29
 - [Liquid Jersey](https://laieuk.com/collections/liquid-jersey)
-  Updated: 2026-02-07T12:30:17Z
+  Updated: 2026-02-12T12:50:11Z
   Total Products: 29
 
 ## Store Pages
