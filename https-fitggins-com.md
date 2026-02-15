@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-01-13T18:29:23Z
 - Contact Email: support@fitggins.com
-- Updated At: 2026-02-07T00:00:42.145Z
+- Updated At: 2026-02-15T00:00:43.042Z
 
 ## Products
 
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e6bd5fe7-acde-452f-af55-03f69ce0e5f6-Max.webp?v=1768142711
     Price: $42.39 USD
 - [3 Piece Washed Square Neck Active Set](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set): Discover the 3 Piece Washed Square Neck Wide Strap Active Set, designed for maximum comfort and style. Perfect for your active lifestyle!
-  Updated: 2026-01-22T09:34:59Z
+  Updated: 2026-02-08T22:33:36Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -137,7 +137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/558647c7-92ec-4a02-9b14-6a6003520558-Max.webp?v=1768142722
     Price: $47.02 USD
 - [Scoop Neck Wide Strap Top and Pants Active Set](https://fitggins.com/products/scoop-neck-wide-strap-active-set): Discover the Scoop Neck Wide Strap Top and Pants Active Set, designed for comfort and style during your workouts. Made from stretchy materials, this set offers freedom of movement and a fashionable look.
-  Updated: 2026-02-06T13:36:25Z
+  Updated: 2026-02-10T02:04:13Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ab2debe-4c53-45c3-bc03-47a5540b28be-Max.webp?v=1768142812
     Price: $40.60 USD
 - [Scoop Neck Long Sleeve Active Jumpsuit](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit): Discover the perfect blend of style and comfort with the Scoop Neck Long Sleeve Active Jumpsuit. Ideal for active days and casual outings.
-  Updated: 2026-01-22T09:49:11Z
+  Updated: 2026-02-12T06:15:17Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1067,7 +1067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/acc52cb4-3240-498c-9c21-5d14a0e2ad24-Max.webp?v=1768142863
     Price: $40.60 USD
 - [Scoop Neck Wide Strap Active Romper](https://fitggins.com/products/scoop-neck-wide-strap-active-romper): Discover the perfect blend of style and comfort with our Scoop Neck Wide Strap Active Romper, ideal for workouts and relaxation.
-  Updated: 2026-01-22T07:19:36Z
+  Updated: 2026-02-10T02:04:12Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1359,7 +1359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e302b7ce-48f5-4831-b734-2275a34d6f28-Max.webp?v=1768142903
     Price: $38.14 USD
 - [Crisscross Wide Strap Active Romper for Comfort & Style](https://fitggins.com/products/crisscross-wide-strap-active-romper): Discover the Crisscross Wide Strap Active Romper, perfect for workouts or casual outings. Features a stylish design, stretchy fabric, and easy care instructions.
-  Updated: 2026-01-25T04:29:26Z
+  Updated: 2026-02-07T20:07:40Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1965,7 +1965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/138769f2921a430eae711b0edfe892e5-Max.jpg?v=1768149164
     Price: $31.63 USD
 - [Frill Trim Ruched Bikini Set](https://fitggins.com/products/frill-trim-ruched-bikini-set): Shop the Frill Trim Ruched Bikini Set, featuring no underwire top, tie-side bottoms, and a chic ruched design. Perfect for beach outings!
-  Updated: 2026-02-06T21:52:05Z
+  Updated: 2026-02-13T19:33:26Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2247,7 +2247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8da42c5a29d4b04bf6a110967f3ae2f-Max.jpg?v=1768149246
     Price: $30.49 USD
 - [Leopard Print Halter Neck Tie Side Bikini Set](https://fitggins.com/products/leopard-print-halter-neck-tie-side-bikini-set): Shop the Leopard Print Halter Neck Tie Side Bikini Set. This stylish two-piece offers comfort and a bold look, perfect for beach days!
-  Updated: 2026-02-05T14:11:00Z
+  Updated: 2026-02-14T03:03:41Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -3315,7 +3315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d9a32ec1-b8bb-403d-b504-8812a9661755-Max.webp?v=1768150209
     Price: $30.30 USD
 - [Full Size Cutout Cold Shoulder Blouse](https://fitggins.com/products/full-size-cutout-cold-shoulder-blouse): Discover the Full Size Cutout Cold Shoulder Blouse, combining trendy design with comfort. Perfect for any occasion!
-  Updated: 2026-02-06T17:01:11Z
+  Updated: 2026-02-12T19:59:37Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3829,7 +3829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b4da017ac844dea9331b77e62c2e3e3-Max.jpg?v=1768150280
     Price: $30.93 USD
 - [Striped Round Neck Drop Shoulder T-Shirt - Comfort and Style](https://fitggins.com/products/striped-round-neck-drop-shoulder-t-shirt): Discover the perfect blend of comfort and style with our Striped Round Neck Drop Shoulder T-Shirt. Soft cotton and trendy stripes make it a wardrobe essential.
-  Updated: 2026-02-06T08:01:10Z
+  Updated: 2026-02-10T08:30:45Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4155,7 +4155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/102a3b900f674195ad33168edcde1f2d-Max.jpg?v=1768150311
     Price: $27.63 USD
 - [Smocked Lantern Sleeve Round Neck Blouse](https://fitggins.com/products/smocked-lantern-sleeve-round-neck-blouse): Discover the Smocked Lantern Sleeve Round Neck Blouse, a perfect blend of style and comfort. Ideal for any occasion, this blouse elevates your wardrobe effortlessly.
-  Updated: 2026-01-22T18:36:52Z
+  Updated: 2026-02-09T08:03:04Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4871,7 +4871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c848b9faa089499696d539dec63222b0-Max.jpg?v=1768150371
     Price: $33.51 USD
 - [Feather Print Smocked Off-Shoulder Blouse](https://fitggins.com/products/feather-print-smocked-off-shoulder-blouse): Discover the stylish Feather Print Smocked Off-Shoulder Blouse, perfect for elevating your wardrobe for any occasion.
-  Updated: 2026-01-22T07:20:21Z
+  Updated: 2026-02-07T02:37:15Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -5045,7 +5045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d3f3c4cd1a84c3b8d14683c4cd7f129-Max.jpg?v=1768150402
     Price: $28.31 USD
 - [Full Size Scoop Neck Long Sleeve Bodysuit](https://fitggins.com/products/full-size-scoop-neck-long-sleeve-bodysuit): Discover the Full Size Scoop Neck Long Sleeve Bodysuit, perfect for any occasion with its stylish and comfortable design.
-  Updated: 2026-01-22T07:20:06Z
+  Updated: 2026-02-10T18:55:08Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5169,7 +5169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1768152261
     Price: $34.58 USD
 - [Perfee Lace Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit): Discover the Perfee Lace Long Sleeve Bodysuit, blending elegance and comfort with a delicate lace design. Perfect for layering or solo wear!
-  Updated: 2026-01-28T03:00:36Z
+  Updated: 2026-02-07T03:00:37Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5303,7 +5303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0c2b81f4ad9c4aae92ade2d391e32802-Max.jpg?v=1768152292
     Price: $28.49 USD
 - [Perfee Lace Detail Plunge Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-detail-plunge-long-sleeve-bodysuit): Discover the Perfee Lace Detail Plunge Long Sleeve Bodysuit, perfect for a night out or special occasions. Elegant lace detail and comfortable fit make it a must-have.
-  Updated: 2026-02-04T11:00:47Z
+  Updated: 2026-02-07T06:40:36Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5459,7 +5459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b0f84d05-9f3f-460b-bce2-7becda2d7fbc-Max.webp?v=1768152311
     Price: $35.97 USD
 - [Perfee V-Neck Lace Bodysuit](https://fitggins.com/products/perfee-v-neck-lace-bodysuit): Discover the elegance of the Perfee V-Neck Lace Bodysuit, designed for comfort and versatility. Perfect for any occasion!
-  Updated: 2026-01-22T09:22:19Z
+  Updated: 2026-02-07T02:40:36Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5481,7 +5481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4600efdf-0d1d-4f66-a13f-64324c80e1be-Max.webp?v=1768152322
     Price: $30.69 USD
 - [Perfee Lace Backless Round Neck Bodysuit](https://fitggins.com/products/perfee-lace-backless-round-neck-bodysuit): Discover the Perfee Lace Backless Round Neck Bodysuit, a blend of elegance and comfort, perfect for any occasion. Elevate your style with this chic and versatile piece.
-  Updated: 2026-02-06T04:00:55Z
+  Updated: 2026-02-10T04:05:12Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6137,7 +6137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ef34e37-c81d-4333-85a1-a13fff210f75-Max.webp?v=1768152422
     Price: $32.54 USD
 - [Zip Up Mock Neck Sleeveless Bodysuit](https://fitggins.com/products/zip-up-mock-neck-sleeveless-bodysuit): Discover the Zip Up Mock Neck Sleeveless Bodysuit, combining style and comfort for any occasion. Perfect for layering or wearing solo, experience effortless elegance.
-  Updated: 2026-02-02T00:02:10Z
+  Updated: 2026-02-12T19:10:36Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6467,7 +6467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/30dc60e0d062480da5a5ff42c3db189e-Max.webp?v=1768152494
     Price: $27.98 USD
 - [Perfee Sweetheart Neck Long Sleeve Lace Bodysuit](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-lace-bodysuit): Discover elegance and comfort with the Perfee Sweetheart Neck Long Sleeve Lace Bodysuit. Perfect for any occasion!
-  Updated: 2026-02-06T15:12:20Z
+  Updated: 2026-02-11T02:36:30Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6925,7 +6925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb2e05ad85e64aed9e44cafd83058c6a-Max.webp?v=1768153043
     Price: $39.29 USD
 - [Striped Open Front Knit Cardigan](https://fitggins.com/products/striped-open-front-knit-cardigan): Discover the Striped Open Front Knit Cardigan, a versatile layering piece for any occasion. Soft, stretchy, and stylish.
-  Updated: 2026-01-22T17:43:39Z
+  Updated: 2026-02-08T08:01:00Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7263,7 +7263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e4d7e8e-9bdc-4c84-9608-9bc673f257b3-Max.webp?v=1768153093
     Price: $43.47 USD
 - [Plus Size Ribbed Cocoon Cover Up](https://fitggins.com/products/plus-size-ribbed-cocoon-cover-up): Discover our Plus Size Ribbed Cocoon Cover Up, designed for style and comfort. Perfect for layering, made with durable materials. Shop now!
-  Updated: 2026-01-22T07:20:16Z
+  Updated: 2026-02-11T01:28:00Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7451,7 +7451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9558c63e-bcc7-46e5-a507-5f08094b365c-Max.webp?v=1768153113
     Price: $43.94 USD
 - [Button Up Collared Neck Cardigan - Stylish Comfort](https://fitggins.com/products/button-up-collared-neck-cardigan): Discover the Button Up Collared Neck Cardigan, designed for style and comfort. Perfect for any occasion with easy care and a soft, durable fabric.
-  Updated: 2026-02-06T17:31:17Z
+  Updated: 2026-02-08T00:10:36Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7845,7 +7845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea91d073f95b424aad25a8d2377ce015-Max.jpg?v=1768153184
     Price: $34.10 USD
 - [Slit Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/slit-open-front-dropped-shoulder-cardigan): Discover the Slit Open Front Dropped Shoulder Cardigan, perfect for layering and enhancing your style. Made with soft, breathable materials for ultimate comfort.
-  Updated: 2026-01-25T03:20:36Z
+  Updated: 2026-02-11T05:10:42Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8029,7 +8029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4eb9a402-e07d-4a36-8faa-aa821affd59a-Max.webp?v=1768153234
     Price: $46.02 USD
 - [Color Block Open Front Long Sleeve Cardigan](https://fitggins.com/products/color-block-open-front-long-sleeve-cardigan): Discover the Color Block Open Front Long Sleeve Cardigan. This stylish piece features a trendy design, soft materials, and comfort for your everyday adventures.
-  Updated: 2026-02-05T01:30:35Z
+  Updated: 2026-02-14T01:16:01Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8191,7 +8191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e433b2ea-f043-4a6d-931c-dbd4f1d3fcee-Max.webp?v=1768153265
     Price: $45.17 USD
 - [Round Neck Button Up Cardigan with Pockets](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102): Discover the Round Neck Button Up Cardigan with Pockets. Cozy, stylish, and perfect for casual wear!
-  Updated: 2026-01-22T09:38:13Z
+  Updated: 2026-02-09T08:02:28Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8341,7 +8341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1768153277
     Price: $42.38 USD
 - [Stylish Cable-Knit Button Up Long Sleeve Cardigan](https://fitggins.com/products/cable-knit-button-up-long-sleeve-cardigan): Discover the perfect combination of comfort and style with our Cable-Knit Button Up Long Sleeve Cardigan. Ideal for layering during the cooler months.
-  Updated: 2026-02-06T10:30:37Z
+  Updated: 2026-02-12T22:10:47Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8465,7 +8465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9988356b-73b8-4596-a984-6a25471ac244-Max.webp?v=1768153296
     Price: $38.44 USD
 - [Scoop Neck Wide Strap Active Tank - Stylish & Comfortable](https://fitggins.com/products/scoop-neck-wide-strap-active-tank): Elevate your workout with our Scoop Neck Wide Strap Active Tank. Designed for comfort and flexibility, it's perfect for any active lifestyle.
-  Updated: 2026-01-22T07:19:46Z
+  Updated: 2026-02-08T22:33:36Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -9559,7 +9559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/07d3b41a4e0a4c959c5cda22ed4a322f-Max.jpg?v=1768165421
     Price: $30.53 USD
 - [High Waist Active Shorts for Ultimate Comfort](https://fitggins.com/products/high-waist-active-shorts): Discover the High Waist Active Shorts, designed for comfort and flexibility. Perfect for workouts and casual wear. Available in various sizes.
-  Updated: 2026-01-22T07:21:39Z
+  Updated: 2026-02-13T22:24:33Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10151,7 +10151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9632339d748c4cd29b32acd385602a71-Max.jpg?v=1768165513
     Price: $30.77 USD
 - [High Waist Active Shorts - Comfort & Flexibility](https://fitggins.com/products/high-waist-active-shorts-51055): Explore our High Waist Active Shorts, designed for ultimate comfort and flexibility. Perfect for workouts and casual wear, made with durable materials.
-  Updated: 2026-01-22T09:20:09Z
+  Updated: 2026-02-13T22:24:31Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10403,7 +10403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e99f03f3-0296-4d0d-9fd5-ae2c010482b0-Max.webp?v=1768165533
     Price: $27.74 USD
 - [High Waist Active Shorts for Ultimate Comfort](https://fitggins.com/products/high-waist-active-shorts-50157): Explore the High Waist Active Shorts designed for comfort and style. Perfect for workouts or lounging, featuring soft fabric and easy care.
-  Updated: 2026-01-22T14:27:26Z
+  Updated: 2026-02-14T22:34:03Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10793,7 +10793,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8c203e8c42a40408ccb51ac42ca9719-Max.jpg?v=1768165581
     Price: $29.56 USD
 - [Washed High Waist Active Shorts](https://fitggins.com/products/washed-high-waist-active-shorts): Discover comfort and style with our Washed High Waist Active Shorts. Perfect for workouts or lounging, these stretchy shorts will elevate your active lifestyle.
-  Updated: 2026-01-22T07:20:55Z
+  Updated: 2026-02-08T22:33:37Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -11743,7 +11743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/386f0d060be8447db922ee3d84a398ac-Max.jpg?v=1768165679
     Price: $32.47 USD
 - [Judy Blue Tummy Control Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-garment-dyed-tummy-control-skinny-jeans): Discover Judy Blue's Garment Dyed Tummy Control Skinny Jeans, offering comfort and style with a flattering fit. Available in vibrant colors.
-  Updated: 2026-02-05T01:45:20Z
+  Updated: 2026-02-12T17:46:47Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11809,7 +11809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d68765bf-5829-4ffd-9c07-0101c235b88f-Max.webp?v=1768221030
     Price: $40.89 USD
 - [Judy Blue Full Size Tummy Control Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): Discover the perfect blend of style and comfort with Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans, designed to enhance your silhouette.
-  Updated: 2026-02-06T06:02:55Z
+  Updated: 2026-02-14T21:16:03Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11875,7 +11875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
 - [Judy Blue High Waist Rigid Magic Heavy Destroy Straight Jeans](https://fitggins.com/products/judy-blue-high-waist-rigid-magic-heavy-destroy-straight-jeans): Discover the stylish Judy Blue High Waist Rigid Magic Heavy Destroy Straight Jeans, crafted from premium denim for long-lasting wear and comfort.
-  Updated: 2026-02-05T00:49:06Z
+  Updated: 2026-02-13T17:09:59Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11941,7 +11941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9566d8e6-3db6-494b-839d-3dc7451685a6-Max.webp?v=1768221051
     Price: $50.78 USD
 - [bytos Full Size Distressed High Rise Straight Jeans](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans): Shop the bytos Full Size Distressed High Rise Straight Jeans for a perfect blend of comfort and style. Ideal for any occasion, these jeans are a must-have in your wardrobe.
-  Updated: 2026-01-22T09:33:08Z
+  Updated: 2026-02-13T19:21:28Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11991,7 +11991,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f238a4b9-b2ce-407e-8c3e-4742238c4921-Max.webp?v=1768221061
     Price: $47.76 USD
 - [Distressed Skinny Jeans for Ultimate Style and Comfort](https://fitggins.com/products/distressed-skinny-jeans): Discover our Distressed Skinny Jeans, perfect for elevating your style while ensuring comfort and flexibility. Durable and trendy, these jeans are a wardrobe essential.
-  Updated: 2026-01-22T09:34:58Z
+  Updated: 2026-02-08T08:02:41Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12057,7 +12057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/112f7b65-386c-464d-b29d-47de9d1e011c-Max-Origin.webp?v=1768221070
     Price: $35.31 USD
 - [bytos Full Size Distressed High Rise Jeans](https://fitggins.com/products/bytos-full-size-distressed-high-rise-jeans-with-pockets): Explore the bytos Full Size Distressed High Rise Jeans, blending style and comfort for any occasion.
-  Updated: 2026-01-28T15:27:51Z
+  Updated: 2026-02-13T19:21:36Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12209,7 +12209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
 - [High Waist Loose Fit Ankle Slit Jeans](https://fitggins.com/products/high-waist-loose-fit-ankle-slit-jeans): Shop our High Waist Loose Fit Ankle Slit Jeans, perfect for a casual yet stylish look. Made from breathable fabric, these jeans will elevate your wardrobe.
-  Updated: 2026-01-22T07:20:31Z
+  Updated: 2026-02-09T08:02:39Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12275,7 +12275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f24383caf6d4de9b3e94a029fae846e-Max.jpg?v=1768221102
     Price: $42.51 USD
 - [Judy Blue Full Size High Waist Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-skinny-jeans): Discover the Judy Blue Full Size High Waist Skinny Jeans, blending style and comfort for every occasion. Shop now for your new wardrobe staple.
-  Updated: 2026-02-06T17:40:46Z
+  Updated: 2026-02-14T16:42:52Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12341,7 +12341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf282a0f-1772-4ce1-91be-61d0b5ae0f91-Max.webp?v=1768221110
     Price: $48.54 USD
 - [bytos Full Size Raw Hem Distressed Mid Rise Straight Jeans](https://fitggins.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans): Discover the bytos Full Size Raw Hem Distressed Mid Rise Straight Jeans. Stylish, comfortable, and versatile, perfect for any occasion.
-  Updated: 2026-01-22T09:24:44Z
+  Updated: 2026-02-13T19:21:35Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12391,7 +12391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9414d719-0d4c-49c7-b9e8-4a8d724de9bf-Max.webp?v=1768221121
     Price: $44.40 USD
 - [bytos Full Size Raw Hem Distressed High Rise Bootcut Jeans](https://fitggins.com/products/bytos-full-size-raw-hem-distressed-high-rise-bootcut-jeans): Stylish bytos Full Size Raw Hem Distressed High Rise Bootcut Jeans with a flattering fit, perfect for casual and dressy occasions.
-  Updated: 2026-01-22T07:21:43Z
+  Updated: 2026-02-13T19:21:37Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12441,7 +12441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1768221132
     Price: $45.52 USD
 - [Judy Blue High Waist Cargo Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans): Discover the perfect blend of style and functionality with Judy Blue Full Size High Waist Straight Cargo Jeans, designed for comfort and practicality.
-  Updated: 2026-02-06T04:19:50Z
+  Updated: 2026-02-10T14:57:30Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12507,7 +12507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
 - [Judy Blue High Rise Straight Jeans](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans): Discover stylish comfort with Judy Blue Full Size High Rise Straight Jeans. Perfect for any occasion, these jeans offer a flattering fit and versatile design.
-  Updated: 2026-02-06T16:00:27Z
+  Updated: 2026-02-14T08:15:22Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12545,7 +12545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
   - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans?variant=52311667638600)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
   - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans?variant=52311667671368)
@@ -12765,7 +12765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58daab1a-b6a1-4b9f-a478-8601a34b4c03-Max.webp?v=1768221173
     Price: $47.63 USD
 - [Judy Blue High Waist Distressed Wide Leg Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans): Shop the Judy Blue Full Size High Waist Distressed Wide Leg Jeans for a stylish, versatile fit. Perfect for casual or dressy occasions.
-  Updated: 2026-02-06T22:15:21Z
+  Updated: 2026-02-14T22:45:22Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12831,7 +12831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
 - [Judy Blue High Waist Tummy Control Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): Discover comfort and style with Judy Blue Full Size High Waist Tummy Control Jeans, designed to enhance your silhouette and boost your confidence.
-  Updated: 2026-02-06T23:56:08Z
+  Updated: 2026-02-14T04:39:21Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12897,7 +12897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1768221192
     Price: $49.66 USD
 - [bytos Full Size Cat's Whiskers Mid Rise Ankle Jeans](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans): Discover the perfect blend of style and comfort with bytos Full Size Cat's Whiskers Mid Rise Ankle Jeans, featuring unique detailing and versatile design for any occasion.
-  Updated: 2026-02-04T21:35:33Z
+  Updated: 2026-02-13T19:21:27Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12947,7 +12947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $43.00 USD
 - [Judy Blue Mid Rise Rigid Magic Release Hem Jeans](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans): Shop Judy Blue Full Size Mid Rise Rigid Magic Release Hem Jeans. Enjoy stylish comfort and versatility for any occasion!
-  Updated: 2026-02-05T21:51:30Z
+  Updated: 2026-02-12T00:19:40Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12998,7 +12998,7 @@
     Availability: Not Available
     Price: $49.94 USD
 - [Judy Blue Full Size Tummy Control Straight Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-straight-jeans): Discover the Judy Blue Full Size Tummy Control Straight Jeans, designed for comfort and style. Enhance your silhouette with innovative tummy control technology, perfect for any occasion.
-  Updated: 2026-02-06T20:30:25Z
+  Updated: 2026-02-14T19:07:22Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13064,7 +13064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c80cd56d-b63e-4fdc-981c-4f22270f7f51-Max.webp?v=1768221221
     Price: $49.66 USD
 - [Judy Blue Tummy Control High Waist Slim Jeans](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans): Shop Judy Blue Full Size Tummy Control High Waist Slim Jeans for a flattering silhouette and ultimate comfort. Perfect for any occasion, these jeans enhance your style.
-  Updated: 2026-02-04T22:47:06Z
+  Updated: 2026-02-14T16:43:32Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13130,7 +13130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
 - [Judy Blue Tummy Control Bootcut Jeans Plus Size](https://fitggins.com/products/judy-blue-full-size-tummy-control-bootcut-jeans-plus-size): Discover stylish comfort with Judy Blue Full Size Tummy Control Bootcut Jeans, featuring embroidered pockets and versatile inseams for a flattering fit.
-  Updated: 2026-02-06T10:14:51Z
+  Updated: 2026-02-14T21:49:52Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13316,7 +13316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4f53c6b1-74f7-4def-9c29-eac71db19736-Max.webp?v=1768221243
     Price: $49.55 USD
 - [Distressed Buttoned Loose Fit Jeans](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans): Shop our Distressed Buttoned Loose Fit Jeans for a stylish and comfortable look. Perfect for casual outings, these jeans combine practicality with effortless style.
-  Updated: 2026-01-22T07:21:12Z
+  Updated: 2026-02-09T08:02:53Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13420,7 +13420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/46b98fc561464fc19b32f4958b3b626c-Max.jpg?v=1768221264
     Price: $48.17 USD
 - [Flare Jeans with Pockets](https://fitggins.com/products/flare-jeans-with-pockets): Discover our stylish Flare Jeans with Pockets, designed for comfort and functionality. Perfect for any occasion!
-  Updated: 2026-01-29T01:44:06Z
+  Updated: 2026-02-08T08:02:35Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13486,7 +13486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bd1f2203-1561-4677-8063-52cedfcb209c-Max-Origin.webp?v=1768221273
     Price: $34.55 USD
 - [Distressed Buttoned Loose Fit Jeans](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866): Discover comfort and style with our Distressed Buttoned Loose Fit Jeans. Perfect for casual outings, these jeans blend effortlessly into your lifestyle.
-  Updated: 2026-01-22T09:32:07Z
+  Updated: 2026-02-09T08:02:41Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13552,7 +13552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70ae00893c6a45e8880e1685270c9905-Max.jpg?v=1768221284
     Price: $40.87 USD
 - [Half Elastic Waist Straight Leg Jeans](https://fitggins.com/products/half-elastic-waist-straight-leg-jeans): Discover comfort and style with our Half Elastic Waist Straight Leg Jeans, perfect for any occasion.
-  Updated: 2026-01-22T10:04:59Z
+  Updated: 2026-02-09T08:02:44Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -15160,7 +15160,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/61880b53b3124c3481de036772cd66f7-Max.jpg?v=1768221656
     Price: $39.03 USD
 - [Shiny Leopard Hooded Coat with Pockets](https://fitggins.com/products/shiny-leopard-hooded-coat-with-pockets): Discover the Shiny Leopard Hooded Coat with Pockets, a stylish and warm addition to your wardrobe, perfect for chilly days and casual outings.
-  Updated: 2026-02-02T08:02:10Z
+  Updated: 2026-02-12T13:37:51Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15264,7 +15264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca71e8cff84245daaabecca24a9c6fd8-Max.jpg?v=1768221693
     Price: $68.10 USD
 - [Fuzzy Button Up Long Sleeve Longline Coat - Stylish Comfort](https://fitggins.com/products/fuzzy-button-up-long-sleeve-longline-coat): Discover the Fuzzy Button Up Long Sleeve Longline Coat. Perfect for layering, made from 100% polyester for comfort and durability. Easy care and a must-have for your wardrobe.
-  Updated: 2026-02-01T00:26:50Z
+  Updated: 2026-02-12T22:18:28Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15382,7 +15382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58ee0bc5-9124-4770-9ec0-f605e5ce28fb-Max.webp?v=1768221724
     Price: $72.30 USD
 - [Ivy Lane Full Size Lapel Collar Sherpa Coat](https://fitggins.com/products/ivy-lane-full-size-lapel-collar-sherpa-coat): Stay warm and stylish with the Ivy Lane Lapel Collar Sherpa Coat. Perfect for casual outings, this coat features a double-breasted design and cozy pockets.
-  Updated: 2026-02-01T19:07:25Z
+  Updated: 2026-02-12T13:49:40Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15774,7 +15774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
 - [Mock Neck Zip Up Jacket - Stylish & Versatile](https://fitggins.com/products/mock-neck-zip-up-jacket): Discover the Mock Neck Zip Up Jacket, perfect for layering and stylish outings. Made from a comfortable blend, it's easy to care for and designed for your lifestyle.
-  Updated: 2026-02-06T08:04:46Z
+  Updated: 2026-02-10T13:49:06Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15980,7 +15980,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6ae79197908f4274ba1191fb784c78b0-Max.webp?v=1768221779
     Price: $32.70 USD
 - [Snap Front Hooded Corduroy Shacket](https://fitggins.com/products/snap-front-hooded-corduroy-shacket): Discover the Snap Front Hooded Corduroy Shacket, a chic and cozy addition to your wardrobe, perfect for layering and enhancing your casual style.
-  Updated: 2026-02-06T11:50:38Z
+  Updated: 2026-02-12T01:32:46Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16200,7 +16200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6ef27da0-28e5-4197-b831-ca3d69751579-Max.webp?v=1768221795
     Price: $44.02 USD
 - [Double Take Checkered Long Sleeve Fuzzy Jacket](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket): Shop the Double Take Checkered Long Sleeve Fuzzy Jacket, perfect for autumn outings. Enjoy cozy warmth and stylish flair with this durable, 100% polyester jacket.
-  Updated: 2026-02-05T16:45:20Z
+  Updated: 2026-02-14T20:15:21Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16450,7 +16450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b5e18b15895b480c93585d614b695683-Max.jpg?v=1768221845
     Price: $39.70 USD
 - [Double Take Full Size Hooded Teddy Bear Jacket](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes): Discover the Double Take Full Size Hooded Teddy Bear Jacket with thumbholes. Perfect for cozy days, this jacket is made from durable polyester and offers a stylish, lightweight feel.
-  Updated: 2026-02-06T19:45:20Z
+  Updated: 2026-02-12T17:30:14Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16616,7 +16616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
   - [Red / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778853192)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
   - [Red / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778885960)
@@ -16624,7 +16624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
 - [Snap Down Collared Winter Coat for Stylish Warmth](https://fitggins.com/products/snap-down-collared-winter-coat): Discover the Snap Down Collared Winter Coat, blending style and functionality with pockets, 100% nylon comfort, and a lightweight feel. Perfect for winter adventures!
-  Updated: 2026-02-01T12:20:36Z
+  Updated: 2026-02-14T03:30:41Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -18043,6 +18043,15 @@
     Author: Roberto Bellbe
   - [The Essential Yoga Poses Everyone Should Know](https://fitggins.com/blogs/fitggins/the-essential-yoga-poses-everyone-should-know): The Essential Yoga Poses Everyone Should Know
     Updated: 2026-02-06T05:01:12Z
+    Author: Roberto Bellbe
+  - [Comparing Cardio vs Strength Training A Guide](https://fitggins.com/blogs/fitggins/comparing-cardio-vs-strength-training-a-guide): Comparing Cardio vs Strength Training A Guide
+    Updated: 2026-02-09T05:01:04Z
+    Author: Roberto Bellbe
+  - [An Introductory Tutorial on Meditation for Relaxation](https://fitggins.com/blogs/fitggins/an-introductory-tutorial-on-meditation-for-relaxation): An Introductory Tutorial on Meditation for Relaxation
+    Updated: 2026-02-11T05:01:10Z
+    Author: Roberto Bellbe
+  - [Innovative Fitness Trends You Need to Know Right Now](https://fitggins.com/blogs/fitggins/innovative-fitness-trends-you-need-to-know-right-now): Innovative Fitness Trends You Need to Know Right Now
+    Updated: 2026-02-13T05:01:31Z
     Author: Roberto Bellbe
 
 ## Store Pages
