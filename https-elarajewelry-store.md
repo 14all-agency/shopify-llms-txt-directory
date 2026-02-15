@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2026-01-01T19:49:51Z
 - Contact Email: info@elarajewlery.com
-- Updated At: 2026-02-08T00:00:39.625Z
+- Updated At: 2026-02-15T00:00:43.615Z
 
 ## Products
 
@@ -1397,21 +1397,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863080584212480.webp?v=1767299698
   Price: AED 179.95 AED
-- [Chain Link Statement Ring | 14K Gold Plated Jewelry](https://elarajewelry.store/products/chain-link-statement-ring-gold-crystal-157390000513249280-5286): Make a bold statement with this architectural chain link ring featuring brilliant crystals and warm 14K gold plating over durable stainless steel. Stackable design for endless styling. Shop now!
-  Updated: 2026-01-07T19:32:47Z
-  Vendor: Elara
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863189699031040.webp?v=1767299699
-  - [7](https://elarajewelry.store/products/chain-link-statement-ring-gold-crystal-157390000513249280-5286?variant=47240262418662)
-    Availability: Available
-    Price: AED 70.00 AED
-  - [8](https://elarajewelry.store/products/chain-link-statement-ring-gold-crystal-157390000513249280-5286?variant=47240262451430)
-    Availability: Available
-    Price: AED 70.00 AED
-  - [9](https://elarajewelry.store/products/chain-link-statement-ring-gold-crystal-157390000513249280-5286?variant=47240262484198)
-    Availability: Available
-    Price: AED 70.00 AED
 - [Architect Flex Ring | Adjustable Gold-Plated CZ Ring](https://elarajewelry.store/products/pave-crystal-statement-ring-adjustable-157389832149692416-6624): Elevate your style with this adjustable gold-plated ring featuring precision-set CZ stones and architectural design. Unisex, stackable, and built for confidence. Shop now!
   Updated: 2026-01-07T19:32:47Z
   Vendor: Elara
@@ -1529,18 +1514,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213861614050013184.webp?v=1767299715
   Price: AED 110.00 AED
-- [Infinite Flow Wave Ring | Gold Plated Statement Ring](https://elarajewelry.store/products/twisted-flow-ring-crystal-accents-157390074840510464-1577): Elevate your style with this architectural wave ring featuring 14K gold plating and sparkling rhinestones. Modern geometric design for the confident trendsetter. Shop now!
-  Updated: 2026-01-07T19:32:50Z
-  Vendor: Elara
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863090390495232.webp?v=1767299714
-  - [7](https://elarajewelry.store/products/twisted-flow-ring-crystal-accents-157390074840510464-1577?variant=47240263074022)
-    Availability: Available
-    Price: AED 79.00 AED
-  - [8](https://elarajewelry.store/products/twisted-flow-ring-crystal-accents-157390074840510464-1577?variant=47240263106790)
-    Availability: Available
-    Price: AED 79.00 AED
 - [Double Band Solitaire Ring | 14K Gold-Plated Jewelry](https://elarajewelry.store/products/dual-band-diamond-ring-daily-confidence-157390016149614592-2599): Giving engagement ring vibes at your budget. 14K gold-plated stainless steel double band with brilliant rhinestone solitaire. Affordable luxury meets architectural elegance. Shop now!
   Updated: 2026-01-07T19:32:50Z
   Vendor: Elara
@@ -1647,18 +1620,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863303712796672.webp?v=1767299727
   Price: AED 165.00 AED
-- [Dual Sparkle Ring | Gold-Plated Crystal Band](https://elarajewelry.store/products/double-row-crystal-band-ring-157390082633527296-4322): Elevate your ring stack with this double-row crystal band in warm gold plating. Dainty, confident, and absolutely perfect for layering. Shop sparkle that channels bold energy!
-  Updated: 2026-01-07T19:32:52Z
-  Vendor: Elara
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863238134853632.webp?v=1767299728
-  - [7](https://elarajewelry.store/products/double-row-crystal-band-ring-157390082633527296-4322?variant=47240263729382)
-    Availability: Available
-    Price: AED 70.00 AED
-  - [8](https://elarajewelry.store/products/double-row-crystal-band-ring-157390082633527296-4322?variant=47240263762150)
-    Availability: Not Available
-    Price: AED 70.00 AED
 - [Solar Beads Bracelet | Gold-Plated Chain Jewelry](https://elarajewelry.store/products/golden-orbit-bracelet-198540690899759104-3372): Triple-strand gold-plated bracelet with clustered sphere beads. Adjustable 18K gold over stainless steel for confidence and warmth. Minimalist stacking essential for everyday glow.
   Updated: 2026-01-07T19:32:52Z
   Vendor: Elara
@@ -1827,7 +1788,28 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863757268054016.webp?v=1767299750
   Price: AED 95.00 AED
-[List Continued](https://elarajewelry.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTk4MzE5NTU4ODg2LCJsYXN0X3ZhbHVlIjoiOTU5ODMxOTU1ODg4NiJ9)
+- [Chunky Gold Hoops | 14K Plated Stainless Steel](https://elarajewelry.store/products/golden-hour-earring-set-198540720058560512-3434): Elevate your confidence with chunky 14K gold-plated stainless steel hoops. Hypoallergenic, bold, and perfect for everyday luxury. Channel golden hour energy—shop now!
+  Updated: 2026-01-07T19:32:55Z
+  Vendor: Elara
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863712594522112.webp?v=1767299751
+  Price: AED 95.00 AED
+- [Golden Croissant Hoops | Sculptural Statement Earrings](https://elarajewelry.store/products/bubble-segment-hoops-198540732914102272-7591): Bold sculptural gold hoops with chunky segmented design. These trending croissant earrings bring confident energy to every outfit. Elevate your everyday luxury style!
+  Updated: 2026-01-07T19:32:55Z
+  Vendor: Elara
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863776599601152.webp?v=1767299752
+  Price: AED 95.00 AED
+- [Molten Aura Hoops | Textured Gold Plated Earrings](https://elarajewelry.store/products/olten-gold-hoops-19854071954685542-2016): Sculptural 14K gold-plated hoops with crushed-metal texture. These dimensional stainless steel earrings bring confident warmth and artsy edge to any look. Shop now!
+  Updated: 2026-01-07T19:32:55Z
+  Vendor: Elara
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0785/6308/2470/files/213863733553459200.webp?v=1767299753
+  Price: AED 95.00 AED
+[List Continued](https://elarajewelry.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTk4MzE5NjU3MTkwLCJsYXN0X3ZhbHVlIjoiOTU5ODMxOTY1NzE5MCJ9)
 
 ## Collections
 
@@ -1841,8 +1823,8 @@
   Updated: 2026-01-07T19:32:14Z
   Total Products: 25
 - [Rings](https://elarajewelry.store/collections/rings)
-  Updated: 2026-01-07T19:32:14Z
-  Total Products: 48
+  Updated: 2026-02-09T03:56:56Z
+  Total Products: 45
 - [Earrings](https://elarajewelry.store/collections/earrings)
   Updated: 2026-01-23T01:55:22Z
   Total Products: 127
