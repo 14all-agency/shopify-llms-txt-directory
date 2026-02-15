@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2015-08-11T13:10:55Z
 - Contact Email: endurancetreadmills@gmail.com
-- Updated At: 2026-02-07T00:00:34.939Z
+- Updated At: 2026-02-15T00:00:36.703Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/files/endurancewalkingpad.jpg?v=1687854705
   Price: $799.00 AUD
 - [Buy Athletes Fitness Treadmill Online - Endurance Treadmills](https://endurancetreadmills.com.au/products/endurance-athlete-treadmill): If you want to purchase athlete treadmills, you can get them from Endurance Treadmill - Australia’s leading online shop for fitness equipment. Over 2000 5 Star Reviews.
-  Updated: 2026-01-29T14:42:32Z
+  Updated: 2026-02-12T12:28:36Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/wo-SS410-0403-down.jpg?v=1506769378
   Price: $799.00 AUD
 - [Endurance Cardio Treadmill 40% OFF](https://endurancetreadmills.com.au/products/endurance-cardio-treadmill): The 2 in 1 Folding Treadmill That Can Be Set Up For Running or as an Under Desk Treadmill Have a Question ? Call us Now 0422 467630 Click here to See Our Customer Feedback and treadmill Reviews General Speed 0.8 to 12km/h Motor 2.0 HP Suspension 10 suspension points Bluetooth Yes Running surface Anti-slip commercial quality belt120cm x 42cm (L x W) Belt Width 42cm Max user weight 120kg Features Pulse sensors detected by handTouchscreen technologyBuilt-in mobility with two transportation wheelsBluetooth Technology + speakersSpace Saver - Folds Flat Like an ironing Board or under the bed Console Feedback Computer Bright backlit display panel Shows speed, time, distance, calories and pulse Allows Mode for time/distance/calorie Programs 12 preset programs Technical Motor Specifications PWM (Pulse Width Modulation system) with fuseless current limit Power Supply Professional Heavy Duty DC motor Safety Feature Overload and Short Circuit Protection (CE ) Safety Key Structural Information Frame Durable Steel Frame Occupancy size 132cm x 58cm x 116cm (L x W x H) Folded size 145cm x 58cm x 14cm (L x W x H) Packaging size 146cm x 72cm x 15cm (L x W x H) Gross weight 45kg Net weight 48 kg Warranty: Lifetime Motor and Frame warranty, 12 Months parts replacement warranty Have a Question ? Call us Now 0422 467630 Click here to See Our Customer Feedback and treadmill Reviews
-  Updated: 2026-01-29T14:50:38Z
+  Updated: 2026-02-11T04:04:21Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/endurancefitupdate11.jpg?v=1742526441
   Price: $799.00 AUD
 - [Buy Endurance Marathon Treadmill Online - Endurance Treadmills](https://endurancetreadmills.com.au/products/endurance-marathon-treadmill): Want to improve your endurance levels? Buy the Marathon Training Treadmill online now. 2 Year Motor Warranty. Have a Question? Call us Now 0422 467630.
-  Updated: 2026-01-29T14:42:33Z
+  Updated: 2026-02-12T12:28:37Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/ENDURANCEtriathlonmain.jpg?v=1677639847
   Price: $1,099.00 AUD
 - [Endurance Deepfit Treadmill - Endurance Treadmills](https://endurancetreadmills.com.au/products/endurance-deepfit-treadmill): General treadmill Speed 0.8 to 12km/h Motor 1.5 Continuous HP 4 Peak HP Suspension 8 suspension points Incline 3 levels manual incline Running surface Anti-static qualit
-  Updated: 2025-02-25T02:53:43Z
+  Updated: 2026-02-12T09:18:31Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -81,35 +81,35 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/endurancestrikernew5_76a47509-8056-4604-a8b0-a24c2f62edef.jpg?v=1678070621
   Price: $1,399.00 AUD
 - [Endurance SuperStar Treadmill Running Machine + Auto Incline](https://endurancetreadmills.com.au/products/endurance-superstar-treadmill): Buy now Endurance SuperStar Treadmill Running Machine. Australian Owned. 12 Months parts replacement warranty.
-  Updated: 2026-01-30T06:44:57Z
+  Updated: 2026-02-11T03:29:44Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/7896/files/Endurance_SuperStar_Treadmill.png?v=1769654525
   Price: $949.00 AUD
 - [Buy Predator Treadmill Online - Endurance Treadmills](https://endurancetreadmills.com.au/products/endurance-predator-treadmill): Achieve great fitness results with the Endurance Predator Treadmill. Order online and get free shipping around Australia. Lifetime Motor and Frame warranty.
-  Updated: 2026-01-29T14:42:19Z
+  Updated: 2026-02-12T12:28:37Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/7896/files/Predator_5_1_1.jpg?v=1769654531
   Price: $1,499.00 AUD
 - [Buy Recumbent Exercise Bike Online - Endurance Treadmills](https://endurancetreadmills.com.au/products/elite-fit-pro-recumbent-exercise-bike): Recumbent Exercise Bike for . Buy the Recumbent Exercise Bike online & enjoy free shipping around Australia. 12 Months parts replacement warranty!
-  Updated: 2025-07-05T23:48:29Z
+  Updated: 2026-02-12T12:28:36Z
   Vendor: endurancetreadmills
   Product Type: Exercise Bike
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/endurancerecumbentcommercial3_78bf7421-46c6-41a8-8ac8-8f8bc320cf37.jpg?v=1624336652
   Price: $1,249.00 AUD
 - [Buy Cardio Recumbent Exercise Bike Online - Order Your Bike Now](https://endurancetreadmills.com.au/products/recumbent-exercise-bike): An easy to use cardio recumbent bike with a comfortable seat and backrest, manual magnetic tension control and a LCD computer for workout feedback.
-  Updated: 2025-08-07T19:36:24Z
+  Updated: 2026-02-12T12:28:37Z
   Vendor: endurancetreadmills
   Product Type: Exercise Bike
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/31bNfS7ovML._AC_c3d829a6-b9b9-46d0-bec3-511ae0c7efe8.jpg?v=1631755978
   Price: $699.00 AUD
 - [Buy SPT Treadmill Online - Endurance Treadmills](https://endurancetreadmills.com.au/products/endurance-spt): Buy the high-performance SPT Treadmill online from Endurance Treadmills. Visit our website and get free shipping across Australia. Lifetime Motor Warranty.
-  Updated: 2026-01-29T14:49:41Z
+  Updated: 2026-02-12T12:28:37Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/2_3a8d7c81-3998-48ae-87ef-99eefdaa57b3.jpg?v=1742525646
   Price: $600.00 AUD
 - [Buy HPT Treadmill Online - Endurance Treadmills](https://endurancetreadmills.com.au/products/endurance-hpt-treadmill): Get your HPT Treadmill delivered to your door for free when you order online from Endurance Treadmills. Lifetime Motor and Frame warranty.
-  Updated: 2026-01-29T14:42:14Z
+  Updated: 2026-02-11T08:09:40Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/files/treadmat.webp?v=1727055386
   Price: $95.00 AUD
 - [Gym Quality Spin Bike Super Smooth To Pedal](https://endurancetreadmills.com.au/products/endurance-spin-bike-pro): This Gym Quality Spin Bike is Super smooth to pedal and whisper quiet to use at home. Adjustable magnetic. Have a Question ? Call us Now 0422 467630.
-  Updated: 2025-10-16T19:09:37Z
+  Updated: 2026-02-12T12:28:37Z
   Vendor: endurancetreadmills
   Product Type: Exercise Bike
   Availability: Not Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/enduranceexercisebike2019.jpg?v=1542109144
   Price: $299.00 AUD
 - [Buy Treadmill Silicone Lube Online - Silicone Lubricant For Treadmill](https://endurancetreadmills.com.au/products/treadmill-silicone-lube): If you’re looking for treadmill silicone lube, Endurance Treadmills is the place to go! Check why our lubricant is Superior. Order our 100% Silicone Oil now!
-  Updated: 2026-02-03T04:05:07Z
+  Updated: 2026-02-14T21:14:53Z
   Vendor: endurancetreadmills
   Product Type: accessories
   Availability: Available
@@ -198,7 +198,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/endurancebolt1_597941ef-40ef-4906-802d-7ee8d347df8b.jpg?v=1549583581
   Price: $799.00 AUD
 - [The Ultimate Treadmill Maintenance & Repair Kit - Order Online](https://endurancetreadmills.com.au/products/the-ultimate-treadmill-maintenance-kit): Keep your treadmill in great shape with our Maintenance (repair) Kit! The kit includes 1 x treadmill Mat, 6 x silicone belt lube, 1 x belt cleaner , 1 x treadmill cover.
-  Updated: 2026-01-23T02:15:11Z
+  Updated: 2026-02-10T09:30:52Z
   Vendor: endurancetreadmills
   Product Type: 
   Availability: Available
@@ -219,7 +219,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/enduranceexercisebike2017.jpg?v=1568355265
   Price: $349.00 AUD
 - [Buy Kona Commercial Treadmill Online - Heavy Duty Treadmill For ](https://endurancetreadmills.com.au/products/kona-commercial-treadmill): Get your commercial Endurance Kona Treadmill delivered to your door for free. Lifetime Motor and Frame warranty. Check the video how it works!
-  Updated: 2026-01-29T14:52:31Z
+  Updated: 2026-02-12T12:28:36Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -233,7 +233,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/EnduranceOliviaHomeTreadmill-White-SummerSale.png?v=1669864753
   Price: $749.00 AUD
 - [Treadmill Safety Key](https://endurancetreadmills.com.au/products/treadmill-safety-key): #omnisend-embedded-v2-69435ae53fbe959a80e35be8 { max-width: 520px; width: 100%; margin: 0 auto; } Treadmill Safety Key MagnetRound Shape for most Endurance Treadmill Models
-  Updated: 2026-01-07T01:38:57Z
+  Updated: 2026-02-12T12:28:36Z
   Vendor: endurancetreadmills
   Product Type: accessories
   Availability: Available
@@ -250,7 +250,7 @@
 ## Collections
 
 - [Endurance Treadmills For  | Treadmill Sydney and melbourne](https://endurancetreadmills.com.au/collections/frontpage): Endurance treadmills are sold Australia Wide and are known for their lifetime warranty on motor and frame and very good suspension systems for running and walking. Looking for a treadmill for  ? Buy Endurance treadmills that go the distance !
-  Updated: 2026-02-03T12:01:51Z
+  Updated: 2026-02-10T03:39:41Z
   Total Products: 3
 - [Exercise Bikes For  Online Australia](https://endurancetreadmills.com.au/collections/exercise-bikes): Buy an exercise bike, rowing machine or cross trainer from Endurance Treadmills and get it delivered free to your door. Visit our website today.
   Updated: 2025-02-24T11:35:25Z
@@ -262,7 +262,7 @@
   Updated: 2023-07-05T03:03:10Z
   Total Products: 0
 - [Buy Exercise Equipment & Machine Accessories](https://endurancetreadmills.com.au/collections/accessories): Looking for Machine & Exercise Equipment Accessories? Endurance Treadmills is the No.1 place to buy all your exercise equipment accessories.
-  Updated: 2026-02-03T12:01:51Z
+  Updated: 2026-02-10T12:01:48Z
   Total Products: 6
 - [Treadmills On  - Under $900 - Endurance Treadmills](https://endurancetreadmills.com.au/collections/under-900): If you want to buy treadmills and high quality exercise machines under $900, visit Endurance Treadmills. Order online and get free shipping in Australia.
   Updated: 2022-11-22T11:58:47Z
@@ -355,7 +355,7 @@
   Updated: 2025-12-06T12:01:50Z
   Total Products: 4
 - [All Products](https://endurancetreadmills.com.au/collections/all)
-  Updated: 2026-02-03T12:01:51Z
+  Updated: 2026-02-10T12:01:48Z
   Total Products: 42
 - [Compression Boots Australia](https://endurancetreadmills.com.au/collections/compression-boots-australia)
   Updated: 2025-12-30T04:53:29Z
