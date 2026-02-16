@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-09T08:18:27Z
 - Contact Email: care@nubokind.com
-- Updated At: 2026-02-08T00:00:39.822Z
+- Updated At: 2026-02-16T00:00:44.415Z
 
 ## About us
 nubokind (also known as nubo) creates premium silicone newborn teethers and teething toys.  
@@ -19,25 +19,25 @@ Free shipping is available across India.
 ## Products
 
 - [BIS safe silicone teether| nubokind (Pack of 2)](https://nubokind.com/products/ele-ring-teether-set-green-and-blue): The perfect first teething toy for your newborn. The ele ring teether is a 100% safe silicone teether, BPA-free and designed in India for gentle relief.
-  Updated: 2026-02-07T19:03:22Z
+  Updated: 2026-02-15T19:13:51Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-blue-icon.jpg?v=1770126607
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-blue-green-badge-1.jpg?v=1770960904
   - [sage green & aqua blue](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=43158621290611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-blue-icon.jpg?v=1770126607
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-blue-green-badge-1.jpg?v=1770960904
     Price: ₹649.00 INR
   - [baby pink & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44078049853555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-pink-beige-best-seller.jpg?v=1770126607
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-pink-beige-best-seller.jpg?v=1770874012
     Price: ₹649.00 INR
   - [sage green & slate grey](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=43755867897971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-grey-icon.jpg?v=1770126607
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/ele-teether-green-grey-icon.jpg?v=1770874012
     Price: ₹649.00 INR
 - [Kiko No-Drop Teether](https://nubokind.com/products/kiko-no-drop-newborn-teether): Discover the perfect solution for your little one's teething journey. Our kiko teether is more than just a newborn teething toy.
-  Updated: 2026-02-07T10:53:46Z
+  Updated: 2026-02-15T19:42:42Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -50,11 +50,18 @@ Free shipping is available across India.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko-teether-green-icon.jpg?v=1770126312
     Price: ₹699.00 INR
+- [My First Book Set (Pack of 3 Cloth Books)](https://nubokind.com/products/high-contrast-cloth-book-set): Give your newborn the perfect start to sensory learning with this set of soft black-and-white crinkle books. Designed to support early visual development.
+  Updated: 2026-02-15T19:14:26Z
+  Vendor: Nubokind
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/Updated_Listing_Bookset.png?v=1770795185
+  Price: ₹999.00 INR
 
 ## Collections
 
 - [Best Baby Teethers in India | Soft & Safe for Newborns](https://nubokind.com/collections/newborn-essentials): Discover the perfect solution for your little one's teething journey. Our newborn teether are more than just a newborn teething toy.
-  Updated: 2026-02-07T12:21:18Z
+  Updated: 2026-02-15T12:22:18Z
   Total Products: 4
 
 ## Blogs
@@ -209,6 +216,24 @@ Free shipping is available across India.
     Updated: 2026-02-04T06:46:18Z
     Author: Nubokind Experts
     Tags: Auditory Development, Cause and Effect Learning, Neuro-Development, Sensory Books
+  - [How to Stop Babies From Dropping Teethers?](https://nubokind.com/blogs/early-learning-sensory-development/how-to-stop-babies-from-dropping-teethers)
+    Updated: 2026-02-15T18:24:08Z
+    Author: Nubokind Experts
+  - [Is Your Teether Safe? A Choking-Proof Checklist for Indian Parents](https://nubokind.com/blogs/early-learning-sensory-development/is-your-teether-safe-a-choking-proof-checklist-for-indian-parents)
+    Updated: 2026-02-15T18:24:08Z
+    Author: Nubokind Experts
+  - [Why the “No-Drop” Teether Is a Game-Changer for Indian Parents](https://nubokind.com/blogs/early-learning-sensory-development/why-the-no-drop-teether-is-a-game-changer-for-indian-parents)
+    Updated: 2026-02-15T18:24:08Z
+    Author: Nubokind Experts
+  - [Teething Milestones: What to Expect Between 3 to 12 Months](https://nubokind.com/blogs/early-learning-sensory-development/teething-milestones-what-to-expect-between-3-to-12-months)
+    Updated: 2026-02-15T18:37:27Z
+    Author: Nubokind Experts
+  - [Top 5 Safety Checks Parent Should Do Before Buying a Baby Teether](https://nubokind.com/blogs/early-learning-sensory-development/top-5-safety-checks-parent-should-do-before-buying-a-baby-teether)
+    Updated: 2026-02-15T18:37:27Z
+    Author: Nubokind Experts
+  - [Top 5 Baby Teethers in India (2026 Edition)](https://nubokind.com/blogs/early-learning-sensory-development/top-5-baby-teethers-in-india-2026-edition)
+    Updated: 2026-02-15T18:53:29Z
+    Author: Nubokind Experts
 
 ## Store Pages
 
