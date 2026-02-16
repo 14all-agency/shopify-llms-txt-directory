@@ -6,602 +6,602 @@
 - Timezone: Europe/London
 - Created At: 2025-11-01T09:22:24Z
 - Contact Email: Info@montenegra-london.com
-- Updated At: 2026-02-04T00:00:46.894Z
+- Updated At: 2026-02-16T23:13:16.400Z
 
 ## Products
 
 - [Premium White 5-Panel Hat - First Edition Cap](https://montenegra-london.com/products/5-panel-cap-first-edition-premium-white): Premium White 5-Panel Hat - First Edition Cap
-  Updated: 2026-02-03T07:14:31Z
+  Updated: 2026-02-11T20:24:39Z
   Vendor: Montenegra
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-natural-front-69079d962ed1f.jpg?v=1767621466
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-natural-front-69079d962ed1f.jpg?v=1770841462
   Price: £42.99 GBP
-- [5 panel cap - First Edition Premium Black](https://montenegra-london.com/products/5-panel-cap-first-edition-premium-black): The Montenégra 5-Panel Cap —First Edition Premium Black reinterprets casual headwear with intentional design and modern simplicity. Crafted for urban lifestyles and refined streetwear outfits, this premium 5-panel cap balances structure with understated presence, offering a clean silhouette that complements minimalist wardrobes. Made from a durable 65% polyester / 35% cotton blend, this cap delivers both resilience and a refined finish — built to hold shape while remaining comfortable in everyday wear. The structured front panel and mid-profile fit provide a crisp canvas and a sleek silhouette that sits cleanly on the head, making it a versatile staple for city streets and everyday rotation. Designed in a tonal black and white palette, the cap merges quiet luxury with versatile styling — ideal for pairing with tailored outerwear, relaxed streetwear, or minimalist essentials. Six sewn eyelets ensure breathable comfort, while the adjustable snap closure delivers a personalised fit and secure wear all day long. Key Features Premium polyester-cotton blend for durability and refined texture Structured front panel & mid-profile fit for sleek presence Slightly curved visor with matching undervisor and sweatband for cohesive finish Adjustable snap closure for customised comfort Breathable design with six sewn eyelets for everyday wear Minimalist black & white palette — timeless, versatile, Montenégra signature Engineered for modern headwear essentials, the Montenégra 5-Panel Cap brings minimalist design and structured detail to everyday outfits — quiet confidence, refined presence, and purposeful style.
-  Updated: 2026-02-03T07:14:31Z
+- [5 panel cap - First Edition Premium Black](https://montenegra-london.com/products/5-panel-cap-first-edition-premium-black): The Montenégra 5-Panel Cap — First Edition Premium Black redefines casual headwear with intentional design and modern simplicity. Built for urban lifestyles, it blends understated presence with a crisp silhouette that complements minimalist wardrobes. Crafted from a durable 65% polyester / 35% cotton blend, this cap holds its shape while staying comfortable for daily wear. The structured front panel and mid-profile fit create a clean, versatile silhouette that sits neatly on any head. Structured front panel & mid-profile fit: a sleek, intentional shape that pairs with tailored outerwear or relaxed streetwear. Six breathable eyelets: steady airflow for all-day comfort. Adjustable snap closure: personalised fit without compromising style. Curved visor with matching undersider & sweatband: cohesive finish and practical sun protection. Minimalist black & white palette: timeless Montenégra signature that works with any outfit. Designed to be your go-to cap for city life, this First Edition stands out through quiet luxury and purposeful details. Use it to elevate minimalist outfits, anchor a refined streetwear look, or simply add a dependable, everyday hat to your rotation.
+  Updated: 2026-02-12T08:31:58Z
   Vendor: Montenegra
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-natural-front-69079d966739b.jpg?v=1767621483
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-natural-front-69079d966739b.jpg?v=1770841482
   Price: £42.99 GBP
-- [5 panel cap - Double Black](https://montenegra-london.com/products/5-panel-cap-double-black): The Montenégra 5-Panel Cap — Double Black reinterprets casual headwear with intentional design and modern simplicity. Crafted for urban lifestyles and refined streetwear outfits, this premium 5-panel cap balances structure with understated presence, offering a clean silhouette that complements minimalist wardrobes. Made from a durable 65% polyester / 35% cotton blend, this cap delivers both resilience and a refined finish — built to hold shape while remaining comfortable in everyday wear. The structured front panel and mid-profile fit provide a crisp canvas and a sleek silhouette that sits cleanly on the head, making it a versatile staple for city streets and everyday rotation. Designed in a tonal black and white palette, the cap merges quiet luxury with versatile styling — ideal for pairing with tailored outerwear, relaxed streetwear, or minimalist essentials. Six sewn eyelets ensure breathable comfort, while the adjustable snap closure delivers a personalised fit and secure wear all day long. Key Features Premium polyester-cotton blend for durability and refined texture Structured front panel & mid-profile fit for sleek presence Slightly curved visor with matching undervisor and sweatband for cohesive finish Adjustable snap closure for customised comfort Breathable design with six sewn eyelets for everyday wear Minimalist black & white palette — timeless, versatile, Montenégra signature Engineered for modern headwear essentials, the Montenégra 5-Panel Cap brings minimalist design and structured detail to everyday outfits — quiet confidence, refined presence, and purposeful style.
-  Updated: 2026-02-03T07:14:31Z
+- [5 panel cap - Double Black](https://montenegra-london.com/products/5-panel-cap-double-black): The Montenégra 5-Panel Cap — Double Black blends intentional design with modern simplicity for urban life and refined streetwear. Durable material: 65% polyester / 35% cotton blend that holds shape and resists daily wear. Structured silhouette: Front panel and mid-profile fit deliver a crisp, sleek presence. Cohesive finish: Slightly curved visor, matching undervisor and sweatband for a clean, unified look. Comfortable and breathable: Six sewn eyelets promote airflow for all-day wear. Customizable fit: Adjustable snap closure secures a personalized, secure fit. Timeless style: Minimalist black & white palette with the Montenégra signature—versatile with tailored outerwear, relaxed streetwear, or minimalist essentials. Ideal for building a quiet, refined capsule wardrobe. Pair it with a tailored jacket or pared-back streetwear and enjoy a dependable everyday staple for city living and travel.
+  Updated: 2026-02-12T11:50:08Z
   Vendor: Montenegra
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-front-69079d96aae57.jpg?v=1767621505
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-front-69079d96aae57.jpg?v=1770841503
   Price: £42.99 GBP
 - [5 panel cap - Silky White and Black](https://montenegra-london.com/products/5-panel-cap-silky-white-and-black): The Montenégra 5-Panel Cap — Silky White and Black reinterprets casual headwear with intentional design and modern simplicity. Crafted for urban lifestyles and refined streetwear outfits, this premium 5-panel cap balances structure with understated presence, offering a clean silhouette that complements minimalist wardrobes. Made from a durable 65% polyester / 35% cotton blend, this cap delivers both resilience and a refined finish — built to hold shape while remaining comfortable in everyday wear. The structured front panel and mid-profile fit provide a crisp canvas and a sleek silhouette that sits cleanly on the head, making it a versatile staple for city streets and everyday rotation. Designed in a tonal black and white palette, the cap merges quiet luxury with versatile styling — ideal for pairing with tailored outerwear, relaxed streetwear, or minimalist essentials. Six sewn eyelets ensure breathable comfort, while the adjustable snap closure delivers a personalised fit and secure wear all day long. Key Features Premium polyester-cotton blend for durability and refined texture Structured front panel & mid-profile fit for sleek presence Slightly curved visor with matching undervisor and sweatband for cohesive finish Adjustable snap closure for customised comfort Breathable design with six sewn eyelets for everyday wear Minimalist black & white palette — timeless, versatile, Montenégra signature Engineered for modern headwear essentials, the Montenégra 5-Panel Cap brings minimalist design and structured detail to everyday outfits — quiet confidence, refined presence, and purposeful style.
-  Updated: 2026-02-03T07:14:32Z
+  Updated: 2026-02-11T20:25:42Z
   Vendor: Montenegra
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-white-front-69079d960bc63.jpg?v=1767621522
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-white-front-69079d960bc63.jpg?v=1770841525
   Price: £42.99 GBP
-- [5 panel cap -  Premium Black and White](https://montenegra-london.com/products/5-panel-cap-sleek-black-and-white): The Montenégra 5-Panel Cap — Sleek Black and White reinterprets casual headwear with intentional design and modern simplicity. Crafted for urban lifestyles and refined streetwear outfits, this premium 5-panel cap balances structure with understated presence, offering a clean silhouette that complements minimalist wardrobes. Made from a durable 65% polyester / 35% cotton blend, this cap delivers both resilience and a refined finish — built to hold shape while remaining comfortable in everyday wear. The structured front panel and mid-profile fit provide a crisp canvas and a sleek silhouette that sits cleanly on the head, making it a versatile staple for city streets and everyday rotation. Designed in a tonal black and white palette, the cap merges quiet luxury with versatile styling — ideal for pairing with tailored outerwear, relaxed streetwear, or minimalist essentials. Six sewn eyelets ensure breathable comfort, while the adjustable snap closure delivers a personalised fit and secure wear all day long. Key Features Premium polyester-cotton blend for durability and refined texture Structured front panel & mid-profile fit for sleek presence Slightly curved visor with matching undervisor and sweatband for cohesive finish Adjustable snap closure for customised comfort Breathable design with six sewn eyelets for everyday wear Minimalist black & white palette — timeless, versatile, Montenégra signature Engineered for modern headwear essentials, the Montenégra 5-Panel Cap brings minimalist design and structured detail to everyday outfits — quiet confidence, refined presence, and purposeful style.
-  Updated: 2026-02-03T07:14:32Z
+- [5 panel cap -  Premium Black and White](https://montenegra-london.com/products/5-panel-cap-sleek-black-and-white): The Montenégra 5-Panel Cap — Premium Black and White redefines casual headwear with clean lines and modern restraint. Crafted from a durable 65% polyester / 35% cotton blend, it holds shape without sacrificing comfort, making it ideal for city living and refined streetwear. Designed for everyday versatility, the cap features: Structured front panel & mid-profile fit for a crisp silhouette that pairs with tailored outerwear or minimalist outfits. Slightly curved visor with matching undervisor and sweatband for a cohesive, premium finish. Six eyelets for breathable comfort during long days on the go. Adjustable snap closure for a personalized, secure fit all day. Timeless black & white palette—quiet luxury that coordinates effortlessly with any wardrobe. Why it matters: This cap delivers durability, structure, and a streamlined look that enhances every outfit. It’s ideal for urban explorers, minimalists, and anyone seeking a reliable everyday cap that stays put from morning to night.
+  Updated: 2026-02-12T08:31:58Z
   Vendor: Montenegra
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-front-69079d962ed2b.jpg?v=1767621572
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5-panel-mid-profile-baseball-cap-black-front-69079d962ed2b.jpg?v=1770841545
   Price: £42.99 GBP
 - [Montenegra Hoodie - Double Black](https://montenegra-london.com/products/unisex-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-  Updated: 2026-02-03T07:14:32Z
+  Updated: 2026-02-11T20:26:07Z
   Vendor: Montenegra
   Product Type: Hoodies
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
   - [S](https://montenegra-london.com/products/unisex-hoodie?variant=56106991386999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [M](https://montenegra-london.com/products/unisex-hoodie?variant=56106991419767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [L](https://montenegra-london.com/products/unisex-hoodie?variant=56106991452535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [XL](https://montenegra-london.com/products/unisex-hoodie?variant=56106991485303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [2XL](https://montenegra-london.com/products/unisex-hoodie?variant=56106991518071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [3XL](https://montenegra-london.com/products/unisex-hoodie?variant=56106991550839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [4XL](https://montenegra-london.com/products/unisex-hoodie?variant=56106991583607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
   - [5XL](https://montenegra-london.com/products/unisex-hoodie?variant=56106991616375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1767621595
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907f4d4626a5.jpg?v=1770841563
     Price: £70.00 GBP
 - [Montenegra Hoodie - Silky White and Black](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.
-  Updated: 2026-02-03T07:14:32Z
+  Updated: 2026-02-11T20:26:13Z
   Vendor: Montenegra
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
   - [S](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037426039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037458807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037491575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037524343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037557111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [3XL](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037589879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [4XL](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037622647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
   - [5XL](https://montenegra-london.com/products/montenegra-hoodie-silky-white-and-black?variant=56107037655415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1767621603
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-white-front-6907f98c856bd.jpg?v=1770841569
     Price: £70.00 GBP
 - [Montenegra Hoodie - Premium Black and White](https://montenegra-london.com/products/montenegra-hoodie-premium-black): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2 4XL 83.8 81.3 5XL 86.4 86.4
-  Updated: 2026-02-03T07:14:32Z
+  Updated: 2026-02-11T20:26:18Z
   Vendor: Montenegra
   Product Type: Hoodies
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
   - [S](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039490423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039523191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039555959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039588727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039621495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [3XL](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039654263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [4XL](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039687031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
   - [5XL](https://montenegra-london.com/products/montenegra-hoodie-premium-black?variant=56107039719799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1767621607
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-heavy-blend-hoodie-black-front-6907fa4b5f947.jpg?v=1770841574
     Price: £70.00 GBP
 - [Montenegra tee - Silky White and Black](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black): The Montenégra Men’s Premium Heavyweight Tee — Silky White & Black redefines a wardrobe staple with refined proportions, substantial fabric, and intentional design. Crafted for those who value quality materials and understated style, this premium heavyweight tee brings structure and comfort to everyday dressing — perfect for minimalist streetwear, elevated casual looks, and lasting foundational layers. Made from a premium, high-density cotton knit, this tee delivers a substantial hand feel and structured silhouette that holds shape throughout wear and washing. Its Silky White and Black contrast palette offers timeless versatility, grounding outfits with crisp simplicity that pairs effortlessly with tailored trousers, relaxed denim, or seasonal layering pieces. Designed with Montenégra’s signature minimalist aesthetic, this tee features clean lines, refined stitching, and a timeless cut that bridges casual and refined wardrobes. Whether worn solo or layered under outerwear, it brings quiet confidence and effortless presence to any ensemble. Key Features Premium heavyweight cotton knit — structure, durability, and comfort Silky White & Black palette — minimalist contrast and versatile styling Clean, refined silhouette — modern proportions with quiet presence Thoughtful stitching and finish — elevated everyday essential Engineered for longevity — holds shape and feels substantial over time Engineered for everyday versatility and refined comfort, the Montenégra Men’s Premium Heavyweight Tee is a modern wardrobe essential — simplicity with substance, presence without noise. Size guide WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
-  Updated: 2026-02-03T07:14:32Z
+  Updated: 2026-02-11T20:26:28Z
   Vendor: Montenegra
   Product Type: T Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
   - [S](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077206391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
   - [M](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077239159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
   - [L](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077271927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
   - [XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077304695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
   - [2XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077337463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
   - [3XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077370231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
   - [4XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-silky-white-and-black?variant=56107077402999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1767621613
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690800d5e03d3.jpg?v=1770841580
     Price: £55.00 GBP
 - [Montenegra tee - Premium Black and White](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white): The Montenégra Tee —Premium Black and White redefines the classic t-shirt with a minimalist approach and refined drape. Designed for those who value effortless staples and understated style, this premium everyday tee blends comfort with a subtle, structured presence — ideal for relaxed looks, layered wardrobes, and clean, casual dressing. Crafted from a soft, high-quality cotton blend, this tee offers breathable comfort and lasting wear that holds its shape through repeat use. The Premium Black and White palette provides versatile, tonal contrast that anchors minimalist outfits with subtle visual interest, pairing seamlessly with denim, trousers, or layered under outerwear. Featuring a relaxed but refined silhouette, this Montenégra tee embodies quiet luxe staples — essential, understated, and effortlessly versatile enough for everyday rotation. Key Features Premium cotton blend — soft, breathable comfort with lasting shape Premium Black and White palette — minimalist contrast for versatile styling Relaxed, refined silhouette — modern everyday fit Clean, minimal design — signature Montenégra understated aesthetic Everyday essential — foundational piece for curated wardrobes Engineered for effortless comfort with intentional design, the Montenégra Tee — Premium Black and White is a refined staple that elevates everyday dressing — quiet presence, enduring simplicity. Size guide WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
-  Updated: 2026-02-03T07:14:32Z
+  Updated: 2026-02-11T20:26:45Z
   Vendor: Montenegra
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
   - [S](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080647031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
   - [M](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080679799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
   - [L](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080712567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
   - [XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080745335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
   - [2XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080778103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
   - [3XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080810871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
   - [4XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-premium-black-and-white?variant=56107080843639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1767621626
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6908015053370.jpg?v=1770841590
     Price: £55.00 GBP
 - [Montenegra tee - Double Black](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black): The Montenégra Tee —Double Black redefines the classic t-shirt with a minimalist approach and refined drape. Designed for those who value effortless staples and understated style, this premium everyday tee blends comfort with a subtle, structured presence — ideal for relaxed looks, layered wardrobes, and clean, casual dressing. Crafted from a soft, high-quality cotton blend, this tee offers breathable comfort and lasting wear that holds its shape through repeat use. The Premium Black and White palette provides versatile, tonal contrast that anchors minimalist outfits with subtle visual interest, pairing seamlessly with denim, trousers, or layered under outerwear. Featuring a relaxed but refined silhouette, this Montenégra tee embodies quiet luxe staples — essential, understated, and effortlessly versatile enough for everyday rotation. Key Features Premium cotton blend — soft, breathable comfort with lasting shape Double Black palette — minimalist contrast for versatile styling Relaxed, refined silhouette — modern everyday fit Clean, minimal design — signature Montenégra understated aesthetic Everyday essential — foundational piece for curated wardrobes Engineered for effortless comfort with intentional design, the Montenégra Tee — Double Black is a refined staple that elevates everyday dressing — quiet presence, enduring simplicity. Size guide WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:26:45Z
   Vendor: Montenegra
   Product Type: T Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
   - [S](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107086807415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
   - [M](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107086840183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
   - [L](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107086872951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
   - [XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107086905719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
   - [2XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107086938487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
   - [3XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107086971255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
   - [4XL](https://montenegra-london.com/products/men-s-premium-heavyweight-tee-double-black?variant=56107087004023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1767621630
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-690801bdb9f2a.jpg?v=1770841595
     Price: £55.00 GBP
 - [Montenegra Tee - Silky White and Grey](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey): The Montenégra Tee — Silky White & Grey redefines the classic t-shirt with a minimalist approach and refined drape. Designed for those who value effortless staples and understated style, this premium everyday tee blends comfort with a subtle, structured presence — ideal for relaxed looks, layered wardrobes, and clean, casual dressing. Crafted from a soft, high-quality cotton blend, this tee offers breathable comfort and lasting wear that holds its shape through repeat use. The Silky White & Grey palette provides versatile, tonal contrast that anchors minimalist outfits with subtle visual interest, pairing seamlessly with denim, trousers, or layered under outerwear. Featuring a relaxed but refined silhouette, this Montenégra tee embodies quiet luxe staples — essential, understated, and effortlessly versatile enough for everyday rotation. Key Features Premium cotton blend — soft, breath Silky White & Grey palette — minimalist contrast for versatile styling Relaxed, refined silhouette — modern everyday fit Clean, minimal design — signature Montenégra understated aesthetic Everyday essential — foundational piece for curated wardrobes Engineered for effortless comfort with intentional design, the Montenégra Tee — Silky White & Grey is a refined staple that elevates everyday dressing — quiet presence, enduring simplicity. Size guide WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:27:00Z
   Vendor: Montenegra
   Product Type: T Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
   - [S](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257201015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257233783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257266551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257299319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257332087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
   - [3XL](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257364855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
   - [4XL](https://montenegra-london.com/products/montenegra-tee-silky-white-and-grey?variant=56107257397623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1762293957
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-690a78b85b9e0.jpg?v=1770841608
     Price: £55.00 GBP
 - [Mizzy - Single](https://montenegra-london.com/products/mizzy-single-1): A messenger’s tale.
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:26:57Z
   Vendor: Montenegra
   Product Type: Music
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9FC03172-8A65-4D6C-A2AE-A71EB70CE9D5.png?v=1767621651
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/9FC03172-8A65-4D6C-A2AE-A71EB70CE9D5.png?v=1770841616
   Price: £4.00 GBP
 - [ART. - Single](https://montenegra-london.com/products/art): A workers tale.
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:26:59Z
   Vendor: Montenegra
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/C67CF714-EC35-4439-8CDE-2909D4FDC49F.png?v=1767621651
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/C67CF714-EC35-4439-8CDE-2909D4FDC49F.png?v=1770841618
   Price: £4.00 GBP
 - [Love is Strange - Single](https://montenegra-london.com/products/love-is-strange): A tale about forgotten love.
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:27:03Z
   Vendor: Montenegra
   Product Type: Music
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6680CE05-0E30-46BE-9668-29966367AD26.jpg?v=1767621656
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6680CE05-0E30-46BE-9668-29966367AD26.jpg?v=1770841622
   Price: £4.00 GBP
 - [Devils in the house - Single](https://montenegra-london.com/products/devils-in-the-house): A crash out crusaders tale.
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:27:05Z
   Vendor: Montenegra
   Product Type: Music
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7D2E6BC0-B770-45A7-A3FF-1F9285FBBEDA.png?v=1767621659
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7D2E6BC0-B770-45A7-A3FF-1F9285FBBEDA.png?v=1770841624
   Price: £4.00 GBP
 - [Montenégra wide leg pants - Silky white and black](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Relaxed unisex fit - Practical side pockets - Elastic waistband with a white drawstring - Can be worn on the waist or on the hips - Premium knit mid-weight jersey fabric Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126
-  Updated: 2026-02-03T07:14:33Z
+  Updated: 2026-02-11T20:27:12Z
   Vendor: Montenegra
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
   - [2XS](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431158135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
   - [XS](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431190903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
   - [S](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431223671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431256439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431289207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431321975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-silky-white-and-black?variant=56123431354743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1762292528
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690a72ebe7a28.jpg?v=1770841628
     Price: £75.00 GBP
 - [Montenégra Indoor Slippers - Silky White and Black](https://montenegra-london.com/products/montenegra-indoor-slippers): US 7 - 8 EU size 40 - 41 Heel to toe (inside), in 10.39 Width, in 4.09 These luxurious slippers are a home staple that now becomes even more stylish thanks to Montenégras touch. Each slipper is made 100% with soft, comfy flannel fleece fabric while the outer sole is flexible, anti-skid, and delivers a higher durability along with a better grip on shiny floors..: Material: 100% polyester outer-layer and lining.: Black rubber sole.: Removable insole
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-11T20:27:22Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1767621662
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1770841633
   - [US 7 - 8 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers?variant=56125269311863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1767621662
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1770841633
     Price: £50.00 GBP
   - [US 9 - 10 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers?variant=56125337141623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1767621662
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1770841633
     Price: £50.00 GBP
   - [US 11 - 12 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers?variant=56125337174391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1767621662
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1770841633
     Price: £50.00 GBP
   - [US 13 - 14 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers?variant=56125337207159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1767621662
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/7336194568805368778_2048.jpg?v=1770841633
     Price: £50.00 GBP
 - [Montenégra Indoor Slippers - Premium Black and White](https://montenegra-london.com/products/montenegra-indoor-slippers-1): US size US 7 - 8 EU size 40 - 41 Heel to toe (inside), in 10.39 Width, in 4.09 These luxurious slippers are a home staple that now becomes even more stylish thanks to Montenégras touch. Each slipper is made 100% with soft, comfy flannel fleece fabric while the outer sole is flexible, anti-skid, and delivers a higher durability along with a better grip on shiny floors..: Material: 100% polyester outer-layer and lining.: Black rubber sole.: Removable insole
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-11T20:27:37Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1767621677
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1770841643
   - [US 7 - 8 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers-1?variant=56125336879479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1767621677
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1770841643
     Price: £50.00 GBP
   - [US 9 - 10 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers-1?variant=56125336912247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1767621677
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1770841643
     Price: £50.00 GBP
   - [US 11 - 12 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers-1?variant=56125336945015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1767621677
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1770841643
     Price: £50.00 GBP
   - [US 13 - 14 / Black sole](https://montenegra-london.com/products/montenegra-indoor-slippers-1?variant=56125336977783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1767621677
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/14483132877689094819_2048.jpg?v=1770841643
     Price: £50.00 GBP
 - [Montenégra wide leg pants - Premium Black and White](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Relaxed unisex fit - Practical side pockets - Elastic waistband with a white drawstring - Can be worn on the waist or on the hips - Premium knit mid-weight jersey fabric Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. • Traceability: - Knitting—Lithuania - Dyeing—Poland - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide WAIST (inches) HIPS (inches) 2XS 28 ⅜ 35 ⅜ XS 29 ⅞ 37 S 31 ½ 38 ⅝ M 33 ⅛ 40 ⅛ L 36 ¼ 43 ¼ XL 39 ⅜ 46 ½ 2XL 42 ½ 49 ⅝ 3XL 45 ⅝ 52 ¾ 4XL 48 ⅞ 55 ⅞ 5XL 52 59 6XL 55 ⅛ 62 ¼
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-11T20:27:39Z
   Vendor: Montenegra
   Product Type: Trousers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
   - [2XS](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125417980279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [XS](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418013047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [S](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418045815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418078583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418111351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418144119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418176887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [3XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418209655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [4XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418242423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [5XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418275191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
   - [6XL](https://montenegra-london.com/products/montenegra-unisex-wide-leg-pants-premium-white-and-black?variant=56125418307959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1762329805
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-wide-leg-pants-white-front-690b04c0a4acc.jpg?v=1770841655
     Price: £75.00 GBP
 - [Montenégra button shirt - Premium Black and White](https://montenegra-london.com/products/montenegra-button-shirt): Meet your new favorite summer shirt! It exudes coolness both in terms of style and material. Plus, its featherlight and moisture-wicking material ensures comfort even on the hottest days. • 65% recycled polyester, 35% polyester • Fabric weight: 2.95 oz/yd² (100 g/m²) • Breathable and moisture-wicking material • Oversized fit • UPF50+ protection Disclaimers: • In areas where the fabric is double-layered, details from the inner fabric layer may subtly show through, especially with lighter designs. • After washing, the fabric will become softer. • Traceability: - Weaving—China - Dyeing—China - Manufacturing—Latvia or Mexico • Contains 65% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus. Size guide CHEST (cm) WAIST (cm) HIPS (cm) 2XS 87.9 71.9 90 XS 92 76 94 S 96 80 98 M 100 84 102.1 L 108 92 110 XL 116 100 118.1 2XL 124 108 126 3XL 132 116 134.1 4XL 140 124 142 5XL 148 132 150.1 6XL 156 140 158
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-11T20:27:49Z
   Vendor: Montenegra
   Product Type: Short sleeve shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
   - [2XS](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423681911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [XS](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423714679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [S](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423747447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423780215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423812983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423845751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423878519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [3XL](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423911287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [4XL](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423944055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [5XL](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125423976823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
   - [6XL](https://montenegra-london.com/products/montenegra-button-shirt?variant=56125424009591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1762329498
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b038e420ac.jpg?v=1770841661
     Price: £65.00 GBP
 - [Montenégra button shirt - Silky White and Black](https://montenegra-london.com/products/montenegra-button-shirt-1): Meet your new favorite summer shirt! It exudes coolness both in terms of style and material. Plus, its featherlight and moisture-wicking material ensures comfort even on the hottest days. • 65% recycled polyester, 35% polyester • Fabric weight: 2.95 oz/yd² (100 g/m²) • Breathable and moisture-wicking material • Oversized fit • UPF50+ protection Disclaimers: • In areas where the fabric is double-layered, details from the inner fabric layer may subtly show through, especially with lighter designs. • After washing, the fabric will become softer. • Traceability: - Weaving—China - Dyeing—China - Manufacturing—Latvia or Mexico • Contains 65% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus. Size guide CHEST (cm) WAIST (cm) HIPS (cm) 2XS 87.9 71.9 90 XS 92 76 94 S 96 80 98 M 100 84 102.1 L 108 92 110 XL 116 100 118.1 2XL 124 108 126 3XL 132 116 134.1 4XL 140 124 142 5XL 148 132 150.1 6XL 156 140 158
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-11T20:28:00Z
   Vendor: Montenegra
   Product Type: Short sleeve shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
   - [2XS](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472538999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [XS](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472571767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [S](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472604535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472637303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472670071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [XL](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472702839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [2XL](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472735607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [3XL](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472768375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [4XL](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472801143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [5XL](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472833911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
   - [6XL](https://montenegra-london.com/products/montenegra-button-shirt-1?variant=56125472866679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1762332063
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-unisex-button-shirt-white-front-690b0d837c88a.jpg?v=1770841671
     Price: £65.00 GBP
 - [Montenégra Jogger Shorts - Silky White and Black](https://montenegra-london.com/products/montenegra-jogger-shorts): Spruce up your sports apparel with these personalized shorts for men. Made to be ultra-lightweight for total comfort, these graphic shorts are made with polyester - a water-resistant fabric that is perfect for exercise & activewear. Its loose fit along with the all-over-print capability delivers the ultimate combination of free movement and custom style..: 100% moisture wicking polyester.: Lightweight material (2.2 oz/yd² (74.6 g/m²)).: Loose fit.: Sewn-in care label.: Seam thread color automatically matched to design (black or white).: Possible to customize the interior of pockets
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-16T20:56:42Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1767621803
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1770841680
   - [S / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jogger-shorts?variant=56132669997431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1767621803
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1770841680
     Price: £50.00 GBP
   - [M / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jogger-shorts?variant=56132670030199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1767621803
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1770841680
     Price: £50.00 GBP
   - [L / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jogger-shorts?variant=56132670062967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1767621803
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1770841680
     Price: £50.00 GBP
   - [XL / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jogger-shorts?variant=56132670095735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1767621803
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1770841680
     Price: £50.00 GBP
   - [2XL / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jogger-shorts?variant=56132670128503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1767621803
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/11466540529536804097_2048.jpg?v=1770841680
     Price: £50.00 GBP
 - [Montenégra Jogger Shorts - Premium Black and White](https://montenegra-london.com/products/mens-jogger-shorts-aop): Spruce up your sports apparel with these personalized shorts for men. Made to be ultra-lightweight for total comfort, these graphic shorts are made with polyester - a water-resistant fabric that is perfect for exercise & activewear. Its loose fit along with the all-over-print capability delivers the ultimate combination of free movement and custom style..: 100% moisture wicking polyester.: Lightweight material (2.2 oz/yd² (74.6 g/m²)).: Loose fit.: Sewn-in care label.: Seam thread color automatically matched to design (black or white).: Possible to customize the interior of pockets
-  Updated: 2026-02-03T07:14:34Z
+  Updated: 2026-02-16T20:54:53Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1767621812
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1771275280
   - [S / Seam thread color automatically matched to design](https://montenegra-london.com/products/mens-jogger-shorts-aop?variant=56132670226807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1767621812
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1771275280
     Price: £50.00 GBP
   - [M / Seam thread color automatically matched to design](https://montenegra-london.com/products/mens-jogger-shorts-aop?variant=56132670259575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1767621812
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1771275280
     Price: £50.00 GBP
   - [L / Seam thread color automatically matched to design](https://montenegra-london.com/products/mens-jogger-shorts-aop?variant=56132670292343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1767621812
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1771275280
     Price: £50.00 GBP
   - [XL / Seam thread color automatically matched to design](https://montenegra-london.com/products/mens-jogger-shorts-aop?variant=56132670325111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1767621812
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1771275280
     Price: £50.00 GBP
   - [2XL / Seam thread color automatically matched to design](https://montenegra-london.com/products/mens-jogger-shorts-aop?variant=56132670357879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1767621812
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/15152231761542796566_2048.jpg?v=1771275280
     Price: £50.00 GBP
 - [Montenégra Champion tie-dye hoodie](https://montenegra-london.com/products/montenegra-champion-tie-dye-hoodie): We’ve partnered with Champion If you're looking for a trendy, one-of-a-kind clothing item, this Champion tie-dye hoodie is the one! It's almost impossible to create two similar items during the garment-dyeing process, so every piece has a unique touch to it. • 82% cotton, 18% poly fleece • Fabric weight: 12 oz/yd² (406.9 g/m²) • Unique scrunch-dye, tie-dye pattern • Reverse Weave® cross-grain cut resists shrinkage • Two-ply hood with matching drawcords • 1×1 rib knit side panels, sleeve cuffs, and bottom hem • Front pouch pocket • Woven label at the back of the neck • Embroidered "C" logo on left sleeve • Blank product sourced from El Salvador This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, bisphenols and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) M 27 22 35 ¼ L 28 24 36 XL 29 26 36 ¾
   Updated: 2026-02-03T07:14:35Z
@@ -700,32 +700,32 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-box-tee-white-front-690d98e13b2de.jpg?v=1762636687
     Price: £65.00 GBP
 - [Montenégra Tie - Premium Black](https://montenegra-london.com/products/montenegra-premium-black-tie): A striking and elegant accessory that will quite literally tie together any outfit. Look effortlessly stylish whilst remaining chic when you create a bespoke silk tie. Handmade to order and dual-sided printable with the same design onto our 100% real Silk Satin to create a tie unlike any other on the market Designer Ties Designer Ties Satin fabric with slight sheen 146 cm long Printed on both sides Self tipping, no keeper loop Handmade to order For best results dry clean only recommended. Small spot clean possible with warm water mild soap, and gentle sponging. Do not tumble dry, do not machine wash, do not handwash. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2026-02-03T07:14:35Z
+  Updated: 2026-02-16T20:54:44Z
   Vendor: Contrado
   Product Type: Tie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2850524_0_3d_7121059d-4fbe-45cf-aa2f-5a6d6c519aa4.jpg?v=1767621854
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2850524_0_3d_7121059d-4fbe-45cf-aa2f-5a6d6c519aa4.jpg?v=1771275283
   Price: £35.99 GBP
 - [Montenégra Cufflinks](https://montenegra-london.com/products/montenegra-cufflinks): Engraved cufflinks are old hat, so why not have a go at designing your own cufflinks from scratch? Choose from a round or square style and upload the design of your choice onto the glossy printed area. These chic personalised cufflinks come in a sleek gift box and feature a whaleback fastening to ensure they stay put and stay looking great. Designer Cufflinks Designer Cufflinks Supplied in gift box Silver cufflinks Whaleback cufflinks Exclusive cufflinks Hand printed to order Surface wipe only. Clean gently by hand with mild soapy damp cloth. .store-productpage__carelabel{font-size: 1em;} .store-productpage__carelabel ul {width:100%;float:left;position:relative;list-style:none;} .store-productpage__carelabel ul li {width:60px;float:left;margin-right:10px;list-style:none;} .store-productpage__carelabel ul li img {max-width:100%;height:auto;} .store-productpage-content-primary{background-color:#f5f5f5;float:left;padding:2%;text-align:left;} .store-productpage-content-primary h2{color:#494949;margin-top:0px;}.hidden-size {display: none;} .product-single__description .size-chart-table h2{font-size:18px;margin:30px 0 10px 0}.scrollable-wrapper{white-space:nowrap;overflow-x:auto;width:100%}.scrollable-wrapper::-webkit-scrollbar{width:5px;height:5px}.scrollable-wrapper::-webkit-scrollbar-track{background:#f1f1f1}.scrollable-wrapper::-webkit-scrollbar-thumb{background:#888}.scrollable-wrapper::-webkit-scrollbar-thumb:hover{background:#555}.scrollable-wrapper table{table-layout:auto!important;margin-bottom:15px;border:1px solid #1a1b18}.scrollable-wrapper table th{font-size:12px}.scrollable-wrapper table td{font-size:12px}.scrollable-wrapper table td .primary-unit{font-size:12px}.size-chart-table .category{text-align:center;font-weight:700;margin-bottom:10px}.size-chart-table .category h2{font-size:17px}.size-chart-table table{width:100%}.size-chart-table td{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-size:16px}.size-chart-table th{text-align:center;border:solid 1px #ccc;border-left:solid 1px #f5f5f5;border-right:solid 1px #f5f5f5;padding:6px;word-wrap:break-word;font-weight:700;color:#231f20;font-size:22px}.size-chart-table td{color:#231f20;font-weight:400}.size-chart-table tr:hover{background-color:#f9f9f9}.size-chart-table thead tr:hover{background-color:#fff}.size-chart-table th:first-child{font-weight:700;color:#231f20;text-align:center}.size-chart-table td:first-child{font-weight:700;color:#231f20;text-align:left;padding-left:20px}.size-chart-table td:first-child p{font-weight:400}.size-chart-table .primary-unit{font-size:16px;color:#231f20}.size-chart-table .secondary-unit{font-size:12px;color:#828282}
-  Updated: 2026-02-03T07:14:35Z
+  Updated: 2026-02-16T20:54:52Z
   Vendor: Contrado
   Product Type: Cufflinks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2851216_0_3d.jpg?v=1767621866
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/2851216_0_3d.jpg?v=1771275284
   Price: £29.95 GBP
 - [Montenégra Two-Tone Nylon Cap -Premium Black and White](https://montenegra-london.com/products/montenegra-two-tone-nylon-cap-premium-black-and-white): Discover versatility with the AS Colour Two-Tone Nylon Cap. This low-profile, five-panel cap features a lightweight, quick-dry 100% recycled nylon body with contrasting panels. Complete with an adjustable plastic fastener and elastic straps for a personalized fit..: 100% recycled nylon body.: Low profile.: Lightweight, quick-dry fabric.: Adjustable snap closure.: Tear-away labelEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: AS Colour 1105, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from the Honduras Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2026-02-03T07:14:36Z
+  Updated: 2026-02-16T20:54:58Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251108071448-1f0bc729-c21e-6130-afc0-aa064e2235a5.png?v=1767621873
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251108071448-1f0bc729-c21e-6130-afc0-aa064e2235a5.png?v=1771275287
   Price: £42.99 GBP
 - [Monténegra Santa Hat](https://montenegra-london.com/products/montenegra-santa-hat): One size Band width, in 3.25 Band length, in 11.25 Total length (with pom-pom), in 18.25 Celebrate the season in style with our custom-printed Santa Hat, made from 100% soft polyester fleece for warmth and comfort. Featuring an all-over custom print design and a classic fluffy puff ball, this festive hat is both cozy and eye-catching.Proudly made in North America, it’s durable, lightweight, and designed to fit most head sizes. Perfect for holiday parties, family photos, or gifting, this Santa Hat is a fun and reusable accessory you’ll enjoy year after year..: Material: 100% polyester.: All over print.: Durable and lightweightEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Merch Farm 90269, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC
-  Updated: 2026-02-03T07:14:36Z
+  Updated: 2026-02-16T20:54:53Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251108073729-1f0bc75c-7b48-6e44-ac3a-b6d380e18d87.png?v=1767621876
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251108073729-1f0bc75c-7b48-6e44-ac3a-b6d380e18d87.png?v=1771275290
   Price: £30.00 GBP
 - [Montrnégra organic oversized sweatshirt - Premium Black and White](https://montenegra-london.com/products/montrnegra-organic-oversized-sweatshirt): Get comfy in this organic oversized sweatshirt, an excellent companion for getting warm and cozy anywhere. It’s easily customizable and made from sustainable materials. • 80% organic cotton, 20% recycled polyester for production in the US • 100% organic combed ring-spun cotton for production in Europe • Fabric weight: 10.3 oz/yd.² (350 g/m²) • Soft brushed interior • Oversized fit • 2 × 2 ribbed cuffs and hem • The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard). Additionally, GRS (Global Recycled Standard) certifies the recycled content present in the product. • Blank product sourced from Bangladesh The sizes correspond to a bigger size in the European market, customers from that region should order a size down. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
   Updated: 2026-02-03T07:14:36Z
@@ -754,11 +754,11 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-sweatshirt-black-front-690efbf65c52e.jpg?v=1762636671
     Price: £75.00 GBP
 - [Montenegra Straight Pants](https://montenegra-london.com/products/montenegra-straight-pants): The Montenégra Straight Pant (5931) delivers timeless style with a modern, relaxed fit, perfect for brands looking to expand into everyday lifestyle or streetwear apparel. Made from an 8.2 oz midweight cotton-elastane blend, these chinos offer comfort, movement, and durability—ideal for custom collections that balance casual and premium aesthetics. Crafted for Style & Longevity Designed with a wide relaxed fit through the thigh and leg, these pants feature belt loops, side hand pockets, jet back pockets, and a button closure with a YKK zip fly. Preshrunk to minimize shrinkage, they maintain their silhouette and fit even after repeated wear, giving your customers a reliable staple piece. Benefits Relaxed fit for all-day comfort Durable cotton blend with stretch Versatile chino style suits many looks Customizable with embroidery or branding Preshrunk for consistent sizing Premium construction enhances retail value Classic silhouette with modern appeal Perfect foundation for lifestyle apparel lines Features 8.2 oz midweight fabric 98% cotton / 2% elastane Wide relaxed fit Chino-style construction Two side hand pockets Jet back pockets Belt loops with button closure YKK zip fly Preshrunk for minimal shrinkage For environmental and human friendly reason, this product is only made when you order it. Typically, this product will be made in about a week, we will send you tracking information as soon as it's in the mail.
-  Updated: 2026-02-03T07:14:36Z
+  Updated: 2026-02-16T20:54:53Z
   Vendor: Apliiq
   Product Type: pants
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/IMG-5306.webp?v=1767621889
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/IMG-5306.webp?v=1771275292
   - [black / 30](https://montenegra-london.com/products/montenegra-straight-pants?variant=56147634848119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5548965_7656.jpg?v=1762647885
@@ -838,30 +838,30 @@
     Availability: Available
     Price: £80.00 GBP
 - [Montenégra Jersey - Silky White and Black](https://montenegra-london.com/products/montenegra-jersey): The Montenégra Jersey — Silky White and Black brings intentional simplicity to everyday wear with a clean silhouette and refined detailing. Designed for those who value minimalist staples and versatile layering pieces, this premium jersey knit top blends relaxed comfort with thoughtful construction — ideal for elevated casual outfits, layered looks, or stand-alone style. Crafted in a soft yet structured premium blend jersey knit, this piece offers a comfortable drape that holds its shape through everyday wear. Its crisp white body is contrasted with refined black detailing, delivering a minimalist colourway with quiet visual presence that complements both streetwear and tailored ensembles alike. Designed with a unisex relaxed fit, the Montenégra Jersey is engineered for everyday movement — whether layered under outerwear or worn solo with trousers or denim. Its easy-care finish ensures longevity and enduring comfort in urban life. Key Features Premium blend jersey knit — soft, structured comfort with breathability Silky White & Black colour-way — minimalist contrast and versatile styling Unisex relaxed fit — effortless layering or standalone wear Engineered in London — refined streetwear with luxury DNA Easy-care finish — designed for everyday durability and wear Engineered for versatile everyday style with minimalist intent, the Montenégra Jersey is an essential knit top — quiet presence, refined comfort, and enduring design. S M L XL 2XL Width, in 22.01 22.99 23.98 25.00 25.98 Length, in 30.31 31.38 32.36 33.39 34.37 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Do not dryclean, Iron, steam or dry: low heat, Drip dry, Do not bleach, Machine wash: cold (max 30C or 90F), permanent press
-  Updated: 2026-02-03T07:14:37Z
+  Updated: 2026-02-16T20:55:05Z
   Vendor: Printify
   Product Type: T Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1767621977
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1771275294
   - [S / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jersey?variant=56148042252663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1767621977
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1771275294
     Price: £50.00 GBP
   - [M / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jersey?variant=56148042285431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1767621977
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1771275294
     Price: £50.00 GBP
   - [L / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jersey?variant=56148023509367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1767621977
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1771275294
     Price: £50.00 GBP
   - [XL / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jersey?variant=56148042318199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1767621977
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1771275294
     Price: £50.00 GBP
   - [2XL / Seam thread color automatically matched to design](https://montenegra-london.com/products/montenegra-jersey?variant=56148042350967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1767621977
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/18343327381972706054_2048.jpg?v=1771275294
     Price: £50.00 GBP
 - [Montenégra Large Print organic oversized sweatshirt - Premium Black and White](https://montenegra-london.com/products/montenegra-large-print-organic-oversized-sweatshirt-premium-black): The Montenégra Large Print Organic Oversized Sweatshirt — Premium Black & White redefines essential layering with purposeful materials and relaxed proportions. Designed for those who value intentional comfort, sustainable design, and minimalist style, this organic cotton oversized sweatshirt combines cozy warmth with a clean silhouette — perfect for elevated casual outfits, streetwear grounding pieces, or relaxed weekends. Crafted from a premium organic blend of 80% organic cotton and 20% recycled polyester, this sweatshirt feels soft against the skin while supporting sustainable production. Its 350 g/m² fabric weight and brushed interior deliver structured warmth and long-lasting comfort, making it a go-to for cooler days and transitional seasons. Designed with an oversized fit and finished with ribbed cuffs and hem for subtle structure, this piece offers both relaxed ease and refined presence. The Premium Black & White palette stays true to Montenégra’s signature minimalist aesthetic, allowing effortless pairing with tapered trousers, relaxed denim, or everyday joggers. Key Features Organic cotton & recycled polyester blend — breathable, soft, and eco-aware Oversized silhouette for contemporary relaxed styling Brushed fleece interior for warmth and all-day comfort Ribbed cuffs and hem for refined structure Premium Black & White palette — timeless, versatile, signature Montenégra Engineered for everyday wear with minimalist intent, the Montenégra Large Print Organic Oversized Sweatshirt is a refined essential — softness that feels purposeful, presence without excess. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus. Size guide A (inches) B (inches) C (inches) S 27 ½ 25.00 22 M 28 ⅜ 26 ⅝ 23 ¼ L 29 ⅛ 28 ⅛ 23 ¼ XL 30 ¼ 30 ⅛ 23 ¼ 2XL 31 ¼ 32 ⅛ 23 ¼
   Updated: 2026-02-03T07:14:37Z
@@ -916,7 +916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-oversized-heavyweight-sweatshirt-white-front-6912bc5f5fd2d.jpg?v=1762835562
     Price: £85.00 GBP
 - [Montenégra Quarter Zip Fleece pullover - Premium Black and White](https://montenegra-london.com/products/montenegra-fleece-pullover-premium-black-and-white): The Montenégra Fleece Pullover — Premium Black and White redefines cold-weather layering with refined simplicity and purposeful design. Crafted for those who value comfort, texture, and minimalist style, this premium fleece pulloverblends cozy warmth with a contemporary silhouette — perfect for elevated streetwear, crisp mornings, or relaxed seasonal looks. Made with a soft, brushed fleece interior, this quarter-zip layer delivers warmth and comfort on chilly days while maintaining a clean, structured profile. The relaxed fit and classic pullover shape make it versatile enough to wear solo or layered under outerwear, offering timeless appeal with subtle modern detailing. Designed with Montenégra’s signature minimalist aesthetic, the Premium Black and White colour palette ensures effortless pairing with tailored trousers, casual denim, or jogger-leaning ensembles. Whether your day calls for streetwear ease or refined everyday dressing, this pullover brings intentional comfort with understated presence. Key Features Soft brushed fleece interior for warmth and all-day comfort Quarter-zip design for easy layering and adjustable temperature control Relaxed silhouette with minimalist lines for effortless style Premium Black & White palette — versatile, modern, Montenégra signature Durable construction designed to hold shape over time Engineered for everyday warmth with minimalist presence, the Montenégra Fleece Pullover is your go-to layer for refined casual dressing — comfort and structure that feel purposeful, not overstated. Size chart SIZE LABEL (Inches) A B C S 27 20 33 M 28 22 34 L 29 24 35 XL 30 26 36 2XL 31 28 37 3XL 32 30 38 Product measurements may vary by up to 2" (5 cm). In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
-  Updated: 2026-02-03T07:14:37Z
+  Updated: 2026-02-05T23:33:40Z
   Vendor: Montenégra
   Product Type: Jumpers
   Availability: Available
@@ -926,7 +926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-fleece-pullover-black-front-6912c068a586d.jpg?v=1762836602
     Price: £100.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-fleece-pullover-premium-black-and-white?variant=56158061953399)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-fleece-pullover-black-front-6912c068a586d.jpg?v=1762836602
     Price: £100.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-fleece-pullover-premium-black-and-white?variant=56158061986167)
@@ -1010,42 +1010,42 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/all-over-print-boxy-football-jersey-white-front-6916b16617a0e.jpg?v=1763094916
     Price: £65.00 GBP
 - [Montenégra X Port Authority® Men's Long Sleeve Shirt - Silky White and Black](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black): The Montenégra x Port Authority® Men’s Long Sleeve Shirt — Silky White & Black merges Montenégra’s modern minimalism with functional ease from a trusted performance partner. Designed for those who value purposeful design and adaptable wear, this long sleeve shirt delivers breathability, lightweight comfort, and versatile styling — perfect for everyday layering, travel, and elevated casual looks. Crafted from an extra-lightweight, moisture-wicking fabric, this shirt keeps you cool and comfortable whether you’re navigating city streets or spending time outdoors. Its relaxed silhouette and breathable construction make it equally at home under a structured coat or worn solo with chinos or minimalist trousers. Thoughtful details — including a hidden button-down collar, dual chest pockets with secure closures, and vented back mesh panel for airflow — elevate both function and refinement. Finished in a clean Silky White & Black palette, this piece captures Montenégra’s quiet luxury aesthetic while offering practical performance you can rely on. Key Features Lightweight, moisture-wicking fabric — breathable comfort for all-day wear Hidden button-down collar — refined detail with minimalist presence Dual chest pockets with concealment flaps — functional storage with clean lines Vented back panel with mesh — enhanced airflow and cooling Adjustable cuffs and straight hem with side vents — tailored versatility Silky White & Black palette — versatile, minimalist, on-brand Engineered for everyday comfort with refined performance and minimalist intent, the Montenégra x Port Authority® Long Sleeve Shirt is a modern wardrobe essential — offering breathable layering, purposeful design, and quiet sophistication you can wear anytime. XS S M L XL 2XL 3XL 4XL Length, in 29.00 30.00 31.00 32.00 33.00 34.00 34.50 35.00 Width, in 20.00 21.50 23.00 24.50 26.00 27.50 29.50 31.50 Sleeve length (from center back), in 33.75 34.50 35.25 36.00 36.75 37.50 38.25 39.00 Pocket width, in 6.37 6.37 6.62 6.62 6.62 6.62 6.62 6.87 Pocket height, in 8.25 8.25 8.50 8.50 8.50 8.50 8.50 8.75 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Port Authority W960, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, team or dry: medium heat, Do not dryclean
-  Updated: 2026-02-03T07:14:38Z
+  Updated: 2026-02-16T20:55:11Z
   Vendor: Printify
   Product Type: Dress Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
   - [White / XS](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574178167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / S](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574210935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / M](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574243703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / L](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574276471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / XL](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574309239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / 2XL](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574342007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / 3XL](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574374775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
   - [White / 4XL](https://montenegra-london.com/products/montenegra-x-port-authority®-mens-long-sleeve-shirt-silky-white-and-black?variant=56179574407543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1767622039
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/20251114045950-1f0c116b-ffb9-62d8-b3c1-32b77fd5f188.png?v=1771275299
     Price: £65.00 GBP
 - [Montenégra Essential Heavyweight Hoodie - Premium Beige and White](https://montenegra-london.com/products/essential-heavyweight-hoodie-22): The Montenégra Essential Heavyweight Hoodie — Premium Beige and White redefines the classic hoodie with refined proportions, structural presence, and purposeful design. Crafted for everyday urban style, this premium heavyweight hoodie blends warmth, comfort, and minimalist luxury — ideal for elevated streetwear, layered seasonal looks, and intentional daily dressing. Constructed from a robust cotton-poly blend with a substantial 430g fabric weight, this hoodie offers durability and lasting wear that holds its shape, wash after wash. Its heavyweight construction ensures comfort and structure without bulk, creating a silhouette that feels both relaxed and thoughtfully composed. Montenégra Designed with Montenégra’s signature aesthetic in mind, this piece features a clean beige and white palette, a modern drop-shoulder fit, and a sleek, minimalist profile that works seamlessly with tailored pants, casual denim, or seasonal outerwear. A go-to for those seeking quality basics, minimalist hoodies, and streetwear essentials with quiet confidence. Key Features Premium heavyweight fabric (430g) for warmth, durability, and structure Minimalist beige & white palette — versatile and modern l Cotton-poly blend for lasting wear and comfort Drop-shoulder, relaxed silhouette for effortless layering Clean, refined design — aligns with Montenégra’s quiet luxury ethos Engineered for everyday durability and refined comfort, the Montenégra Essential Heavyweight Hoodie is your staple for minimalist streetwear, relaxed seasonal layers, and elevated casual style — comfort with intention, presence without statement. . Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 25.6 65 26.4 67 27.2 69 28.0 71 28.7 73 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 Sleeve length 20.9 53 21.3 54 21.7 55 22.0 56 22.4 57 gid://shopify/Product/15246264926583
   Updated: 2026-02-03T07:14:38Z
@@ -1099,66 +1099,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f09a618b25a84b059268640c3f399160.png?v=1763424801
     Price: £59.00 GBP
-- [Montenégra Worker Oversize Shirt Jacket’s](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket): Montenégra relaxed shirt combines timeless style with sustainable craftsmanship. Made from 100% organic ring-spun combed cotton twill, this garment-dyed t-shirt offers a soft, comfortable feel. Featuring a point collar, front placket with single-needle topstitching, and set-in sleeves with buttoned cuffs, it provides a versatile look suitable for both casual and formal occasions. The Worker shirt is perfect for those who appreciate quality, comfort, and eco-friendly fashion. PRODUCT DETAILS Fabric: 100% Cotton - Organic Ring Spun Combed Fabric Weight: 285gsm. Disclaimer: Any Natural Raw Stanley/Stella products are completely free from dyes, which means that each garment reflects the true colour of the cotton plant itself. The fabric is textured with specks of the original plant, including seed particles. Key Features: Point collar with single needle topstiches Collar stand Forwarded shoulder Cuff with two buttons Double pleats at cuff seam Garment dyed product, each garment may vary in appearance, colour may bleed. Back yoke Inside yoke in self fabric Set-in sleeves Sleeve placket with one button Rounded cuff corners Only for the G. Dyed black rock : Faded look on all seams due to garment washing DECORATION INFO Embroidered to a maximum of 10x10cm. Colour representation is only as accurate as the web design process allows. WASHING INSTRUCTIONS Follow these washing instructions to ensure your product looks and feels great for years to come. Wash at 30°c Don't tumble dry Do Not Iron
-  Updated: 2026-02-03T07:14:38Z
-  Vendor: Montenégra
-  Product Type: Dress Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-  - [G. Dyed Black Rock / Large](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket?variant=56212419379575)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-    Price: £70.00 GBP
-  - [G. Dyed Black Rock / X-Small](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket?variant=56212419412343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-    Price: £70.00 GBP
-  - [G. Dyed Black Rock / Small](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket?variant=56212419445111)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-    Price: £70.00 GBP
-  - [G. Dyed Black Rock / Medium](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket?variant=56212419477879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-    Price: £70.00 GBP
-  - [G. Dyed Black Rock / X-Large](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket?variant=56212419510647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-    Price: £70.00 GBP
-  - [G. Dyed Black Rock / 2X-Large](https://montenegra-london.com/products/montenegra-worker-oversize-shirt-jacket?variant=56212419543415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-1c6c2adda8e7ebd33efa03ffab60a137.png?v=1763619488
-    Price: £70.00 GBP
-- [Montenégra Worker Oversized Shirt Jacket](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket): Montenégra relaxed shirt combines timeless style with sustainable craftsmanship. Made from 100% organic ring-spun combed cotton twill, this garment-dyed t-shirt offers a soft, comfortable feel. Featuring a point collar, front placket with single-needle topstitching, and set-in sleeves with buttoned cuffs, it provides a versatile look suitable for both casual and formal occasions. The Worker shirt is perfect for those who appreciate quality, comfort, and eco-friendly fashion. PRODUCT DETAILS Fabric: 100% Cotton - Organic Ring Spun Combed Fabric Weight: 285gsm. Disclaimer: Any Natural Raw Stanley/Stella products are completely free from dyes, which means that each garment reflects the true colour of the cotton plant itself. The fabric is textured with specks of the original plant, including seed particles. Key Features: Point collar with single needle topstiches Collar stand Forwarded shoulder Cuff with two buttons Double pleats at cuff seam Garment dyed product, each garment may vary in appearance, colour may bleed. Back yoke Inside yoke in self fabric Set-in sleeves Sleeve placket with one button Rounded cuff corners Only for the G. Dyed black rock : Faded look on all seams due to garment washing DECORATION INFO Embroidered to a maximum of 10x10cm. Colour representation is only as accurate as the web design process allows. WASHING INSTRUCTIONS Follow these washing instructions to ensure your product looks and feels great for years to come. Wash at 30°c Don't tumble dry Do Not Iron
-  Updated: 2026-02-03T07:14:38Z
-  Vendor: Montenegra
-  Product Type: Product Type
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-  - [Natural Raw / Medium](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket?variant=56212553171319)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-    Price: £70.00 GBP
-  - [Natural Raw / X-Small](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket?variant=56212553400695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-    Price: £70.00 GBP
-  - [Natural Raw / Small](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket?variant=56212553433463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-    Price: £70.00 GBP
-  - [Natural Raw / Large](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket?variant=56212553466231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-    Price: £70.00 GBP
-  - [Natural Raw / X-Large](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket?variant=56212553498999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-    Price: £70.00 GBP
-  - [Natural Raw / 2X-Large](https://montenegra-london.com/products/montenegra-worker-oversized-shirt-jacket?variant=56212553531767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mockup-ceaef4a0fc4bf45eca30ab0bdc8763f4.png?v=1763620809
-    Price: £70.00 GBP
 - [Montenégra Lapel Collar Sweatshirt](https://montenegra-london.com/products/contrast-striped-lapel-collar-sweatshirt): Refined edge. Quiet impact. Key Features: 100% premium cotton knit — soft on the skin, firm in silhouette. 380 g/m² (11.2 oz/yd²) weight — elevated structure meets street sensibility. Unique lapel-style collar — unexpected detail, signature dimension. Unisex loose fit — designed for layering and effortless form. Machine wash cold; tumble dry low; iron inside out — built to wear, built to last. Engineered in London, this sweatshirt fuses elevated minimalism with utility-driven style. The lapel collar reshapes a classic silhouette into something quietly bold — the kind of piece that stands out without shouting. At 380 g/m², the heavy cotton drapes with purpose, offering the kind of structure that holds its form but still feels lived-in. Worn solo or layered under an overcoat, it transitions from street to skyline seamlessly. No unnecessary branding. No compromise on quality. Just refined form, designed for those who move between shadows and spotlight. Fit & Care Notes: Designed with a relaxed, unisex loose fit — choice of size down for slimmer profile. Cold machine wash, tumble dry low or air dry recommended to protect shape and texture. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 22.8 58 23.6 60 24.4 62 25.2 64 Length 27.2 69 28.0 71 28.7 73 29.5 75 Sleeve length 30.3 77 30.7 78 31.1 79 31.5 80 gid://shopify/Product/15250795987319
   Updated: 2026-02-03T07:14:39Z
   Vendor: ODMPOD
@@ -1960,8 +1900,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/C5DA8028-BF85-4450-B9EE-6BDCDD908601.png?v=1765478573
   Price: £4.00 GBP
-- [90s](https://montenegra-london.com/products/90s): A short tale on where the 90s led.
-  Updated: 2026-02-03T07:14:44Z
+- [90s Nostalgia Story: Journey Through a Decade of Culture](https://montenegra-london.com/products/90s): Relive the iconic 90s with "90s"—a short tale that captures the essence and direction of a defining era. Dive into nostalgia today!
+  Updated: 2026-02-12T15:58:28Z
   Vendor: Montenégra
   Product Type: Music
   Availability: Available
@@ -2487,74 +2427,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/foam-trucker-hat-black-one-size-front-6950b8faa9785.jpg?v=1766897930
   Price: £50.00 GBP
-- [Montenégra Panther Print Tee](https://montenegra-london.com/products/montenegra-panther-print-tee): Introducing the Montenégra Panther Print Tee, a perfect blend of luxury and simplicity. Crafted from premium heavyweight cotton, this tee offers a structured drape that enhances its timeless silhouette.The soft yet substantial feel ensures comfort, while the refined Montenégra print adds an understated yet intentional statement. Designed for versatile, year-round wear, this tee is ideal for those who appreciate quality that lasts.Elevate your everyday wardrobe with this tailored fit piece, made to be worn effortlessly and cherished for years to come. WIDTH (inches) LENGTH (inches) S 18 29 ½ M 20 30 ½ L 22 31 ½ XL 24 32 ½ 2XL 26 33 ½ 3XL 28 34 ½ 4XL 30 35 ½ WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
-  Updated: 2026-02-03T07:14:47Z
-  Vendor: Montenégra
-  Product Type: T Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-  - [S](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581506935)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.00 GBP
-  - [M](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581539703)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.00 GBP
-  - [L](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581572471)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.00 GBP
-  - [XL](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581605239)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.00 GBP
-  - [2XL](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581638007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.50 GBP
-  - [3XL](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581670775)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.50 GBP
-  - [4XL](https://montenegra-london.com/products/montenegra-panther-print-tee?variant=56465581703543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-black-front-6967f9e905d3b.jpg?v=1768421878
-    Price: £50.50 GBP
-- [Montenégra Panther Print Tee](https://montenegra-london.com/products/montenegra-panther-print-tee-1): A study in restraint. The Montenégra Panther Print Tee is crafted for those who appreciate quality that speaks quietly. Cut from premium heavyweight cotton, this tee offers a structured drape and a substantial handfeel that elevates a timeless silhouette. The refined Montenégra print adds a subtle statement — understated, intentional, and enduring. Designed to be worn effortlessly and kept for years, this is everyday luxury done properly. Details Premium heavyweight cotton for structure and longevity Soft yet substantial feel Tailored, elevated fit Refined Montenégra print Designed for versatile, year-round wear Size guide WIDTH (inches) LENGTH (inches) S 18 29 ½ M 20 30 ½ L 22 31 ½ XL 24 32 ½ 2XL 26 33 ½ 3XL 28 34 ½ 4XL 30 35 ½ WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
-  Updated: 2026-02-03T07:14:48Z
-  Vendor: Montenégra
-  Product Type: T Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-  - [S](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846370679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.00 GBP
-  - [M](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846403447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.00 GBP
-  - [L](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846436215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.00 GBP
-  - [XL](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846468983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.00 GBP
-  - [2XL](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846501751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.50 GBP
-  - [3XL](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846534519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.50 GBP
-  - [4XL](https://montenegra-london.com/products/montenegra-panther-print-tee-1?variant=56465846567287)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/mens-premium-heavyweight-tee-white-front-6967f70621226.jpg?v=1768421141
-    Price: £50.50 GBP
 - [Montenégra premium heavyweight print tee](https://montenegra-london.com/products/montenegra-premium-heavyweight-print-tee): Introducing the Montenégra Premium Heavyweight Print Tee, where sophistication meets comfort. Crafted from premium heavyweight cotton, this tee boasts a structured drape that enhances its timeless silhouette.Experience the soft yet substantial feel that elevates your everyday wardrobe. The refined Montenégra print serves as a subtle statement, embodying understated elegance and intentional design.Perfect for versatile, year-round wear, this tee is designed to be cherished for years to come. Embrace everyday luxury with a piece that truly stands the test of time. WIDTH (inches) LENGTH (inches) S 18 29 ½ M 20 30 ½ L 22 31 ½ XL 24 32 ½ 2XL 26 33 ½ 3XL 28 34 ½ 4XL 30 35 ½ WIDTH (cm) LENGTH (cm) S 45.7 75 M 50.8 77.5 L 55.9 80 XL 61 82.6 2XL 66 85 3XL 71.1 87.6 4XL 76.2 90.2
   Updated: 2026-02-03T07:14:48Z
   Vendor: Montenégra
@@ -2620,7 +2492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/f870084622eb406497f692342db2437c.png?v=1768019549
     Price: £50.00 GBP
 - [Montenégra Regal Quarter-Zip](https://montenegra-london.com/products/montenegra-regal-quarter-zip): Introducing the Montenégra Regal Quarter-Zip, your ultimate companion for chilly days. Crafted with a soft fleece interior, this stylish piece ensures you stay warm and cozy while exuding effortless elegance.Designed with a relaxed fit and classic silhouette, it seamlessly transitions from streetwear to lounging at home. The carbon grey color adds a touch of sophistication, while the ribbed cuffs and waistband provide a snug finish.Each quarter-zip is made on demand, promoting sustainability and thoughtful purchasing. Elevate your wardrobe with this versatile staple that combines comfort and style. A (inches) B (inches) C (inches) S 27 20 33 M 28 22 34 L 29 24 35 XL 30 26 36 2XL 31 28 37 3XL 32 30 38 A (cm) B (cm) C (cm) S 68.6 50.8 83.8 M 71.1 55.9 86.4 L 73.7 61 89 XL 76.2 66 91.4 2XL 78.7 71.1 94 3XL 81.3 76.2 96.5
-  Updated: 2026-02-03T07:14:48Z
+  Updated: 2026-02-05T23:33:46Z
   Vendor: Montenégra
   Product Type: 
   Availability: Available
@@ -2630,7 +2502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-fleece-pullover-black-front-6961c3d71c22a.jpg?v=1768014825
     Price: £75.00 GBP
   - [M](https://montenegra-london.com/products/montenegra-regal-quarter-zip?variant=56498779029879)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-fleece-pullover-black-front-6961c3d71c22a.jpg?v=1768014825
     Price: £75.00 GBP
   - [L](https://montenegra-london.com/products/montenegra-regal-quarter-zip?variant=56498779062647)
@@ -3052,7 +2924,167 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-6981d83b162c4.jpg?v=1770117219
     Price: £45.00 GBP
-[List Continued](https://montenegra-london.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MDM1MTg2MzE1OSwibGFzdF92YWx1ZSI6IjE1MzYwMzUxODYzMTU5In0=)
+- [Montenegra - Oversized One-Piece Boxy T-Shirt](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt): Item Number:RU0033Gender:UnisexModel:OversizedFabric:100% cottonFabric Weight:8.8 oz/yd² (300 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Street, Casual, Outdoor, Home, Daily Casual, School, Pure Cotton, Half Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, Summer, Autumn, WinterPrint Size:40*52cmNotes:Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 28.0 71 28.7 73 29.9 76 31.5 80 33.5 85 35.4 90 Sleeve Length 17.7 45 18.1 46 18.5 47 18.9 48 19.3 49 19.7 50 Length 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 29.1 74 gid://shopify/Product/15368050770295
+  Updated: 2026-02-06T23:34:40Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+  - [White / XS](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt?variant=56681550414199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+    Price: £45.00 GBP
+  - [White / S](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt?variant=56681550446967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+    Price: £45.00 GBP
+  - [White / M](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt?variant=56681550479735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+    Price: £45.00 GBP
+  - [White / L](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt?variant=56681550512503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+    Price: £45.00 GBP
+  - [White / XL](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt?variant=56681550545271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+    Price: £45.00 GBP
+  - [White / 2XL](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt?variant=56681550578039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6243609ab7fb458fa2977972c43d65c6.png?v=1770377618
+    Price: £45.00 GBP
+- [Montenegra - Oversized One-Piece Boxy T-Shirt](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1): Item Number:RU0033Gender:UnisexModel:OversizedFabric:100% cottonFabric Weight:8.8 oz/yd² (300 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Street, Casual, Outdoor, Home, Daily Casual, School, Pure Cotton, Half Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, Summer, Autumn, WinterPrint Size:40*52cmNotes:Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. Size Chart XS S M L XL 2XL inch cm inch cm inch cm inch cm inch cm inch cm Chest 28.0 71 28.7 73 29.9 76 31.5 80 33.5 85 35.4 90 Sleeve Length 17.7 45 18.1 46 18.5 47 18.9 48 19.3 49 19.7 50 Length 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 29.1 74 gid://shopify/Product/15368291615095
+  Updated: 2026-02-07T01:01:53Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+  - [Black / XS](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1?variant=56682381246839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+    Price: £45.00 GBP
+  - [Black / S](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1?variant=56682381279607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+    Price: £45.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1?variant=56682381312375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+    Price: £45.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1?variant=56682381345143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+    Price: £45.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1?variant=56682381377911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+    Price: £45.00 GBP
+  - [Black / 2XL](https://montenegra-london.com/products/montenegra-oversized-one-piece-boxy-t-shirt-1?variant=56682381410679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/6fa24f62b080477ba999c42b0e2a73a1.png?v=1770382733
+    Price: £45.00 GBP
+- [Essential Crewneck Long-Sleeve T-Shirt](https://montenegra-london.com/products/essential-crewneck-long-sleeve-t-shirt): Item Number:RT0061Gender:MenModel:LooseFabric:85% cotton, 15% polyesterFabric Weight:8.3 oz/yd² (280 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Daily Casual, Home, Outdoor, Running, Sport, Cotton Blend, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 21.7 55 22.4 57 23.2 59 24.0 61 24.8 63 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 20.1 51 20.9 53 21.7 55 22.4 57 23.2 59 Sleeve length 22.0 56 22.4 57 22.8 58 23.2 59 23.6 60 gid://shopify/Product/15368296661367
+  Updated: 2026-02-07T01:07:53Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8e24312b2a6d4046839603292bd0a8b8.png?v=1770383244
+  - [White / S](https://montenegra-london.com/products/essential-crewneck-long-sleeve-t-shirt?variant=56682420601207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8e24312b2a6d4046839603292bd0a8b8.png?v=1770383244
+    Price: £60.00 GBP
+  - [White / M](https://montenegra-london.com/products/essential-crewneck-long-sleeve-t-shirt?variant=56682420633975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8e24312b2a6d4046839603292bd0a8b8.png?v=1770383244
+    Price: £60.00 GBP
+  - [White / L](https://montenegra-london.com/products/essential-crewneck-long-sleeve-t-shirt?variant=56682420666743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8e24312b2a6d4046839603292bd0a8b8.png?v=1770383244
+    Price: £60.00 GBP
+  - [White / XL](https://montenegra-london.com/products/essential-crewneck-long-sleeve-t-shirt?variant=56682420699511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8e24312b2a6d4046839603292bd0a8b8.png?v=1770383244
+    Price: £60.00 GBP
+  - [White / 2XL](https://montenegra-london.com/products/essential-crewneck-long-sleeve-t-shirt?variant=56682420732279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/8e24312b2a6d4046839603292bd0a8b8.png?v=1770383244
+    Price: £60.00 GBP
+- [Montenegra - Boxy Gather-Hem Hoodie](https://montenegra-london.com/products/montenegra-boxy-gather-hem-hoodie): Item Number:RW0064Gender:UnisexModel:OversizedFabric:61% cotton, 39% polyesterFabric Weight:5.0 oz/yd² (170 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Cotton Blend, Pocket, Long Sleeve, Drop Shoulder, Hooded, Crop, Oversized, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 27.2 69 28.0 71 28.7 73 29.5 75 Length 24.4 62 25.2 64 26.0 66 26.8 68 Shoulder 24.8 63 25.6 65 26.4 67 27.2 69 Sleeve length 22.0 56 22.6 57.5 23.2 59 23.8 60.5 gid://shopify/Product/15368369701239
+  Updated: 2026-02-07T01:48:52Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5e5a573e19f9425ab615a6c9ef79b3bd.png?v=1770385328
+  - [Black / S](https://montenegra-london.com/products/montenegra-boxy-gather-hem-hoodie?variant=56683492639095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5e5a573e19f9425ab615a6c9ef79b3bd.png?v=1770385328
+    Price: £60.00 GBP
+  - [Black / M](https://montenegra-london.com/products/montenegra-boxy-gather-hem-hoodie?variant=56683492671863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5e5a573e19f9425ab615a6c9ef79b3bd.png?v=1770385328
+    Price: £60.00 GBP
+  - [Black / L](https://montenegra-london.com/products/montenegra-boxy-gather-hem-hoodie?variant=56683492704631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5e5a573e19f9425ab615a6c9ef79b3bd.png?v=1770385328
+    Price: £60.00 GBP
+  - [Black / XL](https://montenegra-london.com/products/montenegra-boxy-gather-hem-hoodie?variant=56683492737399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/5e5a573e19f9425ab615a6c9ef79b3bd.png?v=1770385328
+    Price: £60.00 GBP
+- [Montenégra Japa Samasara Unisex organic oversized high neck t-shirt](https://montenegra-london.com/products/unisex-organic-oversized-high-neck-t-shirt): Upgrade your wardrobe with this oversized t-shirt made from 100% organic combed ring-spun cotton. It’s designed with dropped shoulders and a wide collar, making it perfect for everyday streetwear outfits. • 100% organic combed ring-spun cotton • Fabric weight: 5.9 oz./yd.² (200 g/m²) • Oversized fit • Set-in sleeves • Dropped shoulders • 1 × 1 rib at collar • Self-fabric neck tape on the inside of the back • The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard) • Blank product sourced from Bangladesh The sizes correspond to a bigger size in the European market, customers from that region should order a size down. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) SLEEVE LENGTH (cm) CHEST (inches) S 73 24 39 M 75 24.5 43 L 77 25 47 XL 80 25.5 51 2XL 82.5 26 55 BODY LENGTH (cm) SLEEVE LENGTH (cm) CHEST (inches) S 73 24 39 M 75 24.5 43 L 77 25 47 XL 80 25.5 51 2XL 82.5 26 55
+  Updated: 2026-02-11T20:51:30Z
+  Vendor: Montenégra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-698c35114a99a.jpg?v=1770796317
+  - [S](https://montenegra-london.com/products/unisex-organic-oversized-high-neck-t-shirt?variant=56711493812599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-698c35114a99a.jpg?v=1770796317
+    Price: £45.00 GBP
+  - [M](https://montenegra-london.com/products/unisex-organic-oversized-high-neck-t-shirt?variant=56711493845367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-698c35114a99a.jpg?v=1770796317
+    Price: £45.00 GBP
+  - [L](https://montenegra-london.com/products/unisex-organic-oversized-high-neck-t-shirt?variant=56711493878135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-698c35114a99a.jpg?v=1770796317
+    Price: £45.00 GBP
+  - [XL](https://montenegra-london.com/products/unisex-organic-oversized-high-neck-t-shirt?variant=56711493910903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-698c35114a99a.jpg?v=1770796317
+    Price: £45.00 GBP
+  - [2XL](https://montenegra-london.com/products/unisex-organic-oversized-high-neck-t-shirt?variant=56711493943671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-black-front-698c35114a99a.jpg?v=1770796317
+    Price: £45.00 GBP
+- [Montenégra Japa Samara Unisex organic oversized high neck t-shirt](https://montenegra-london.com/products/montenegra-japa-samara-unisex-organic-oversized-high-neck-t-shirt): Upgrade your wardrobe with this oversized t-shirt made from 100% organic combed ring-spun cotton. It’s designed with dropped shoulders and a wide collar, making it perfect for everyday streetwear outfits. • 100% organic combed ring-spun cotton • Fabric weight: 5.9 oz./yd.² (200 g/m²) • Oversized fit • Set-in sleeves • Dropped shoulders • 1 × 1 rib at collar • Self-fabric neck tape on the inside of the back • The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard) • Blank product sourced from Bangladesh The sizes correspond to a bigger size in the European market, customers from that region should order a size down. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) SLEEVE LENGTH (cm) CHEST (inches) S 73 24 39 M 75 24.5 43 L 77 25 47 XL 80 25.5 51 2XL 82.5 26 55 BODY LENGTH (cm) SLEEVE LENGTH (cm) CHEST (inches) S 73 24 39 M 75 24.5 43 L 77 25 47 XL 80 25.5 51 2XL 82.5 26 55
+  Updated: 2026-02-12T00:29:47Z
+  Vendor: Montenégra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-white-front-698c344fa0b82.jpg?v=1770796151
+  - [S](https://montenegra-london.com/products/montenegra-japa-samara-unisex-organic-oversized-high-neck-t-shirt?variant=56711522713975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-white-front-698c344fa0b82.jpg?v=1770796151
+    Price: £45.00 GBP
+  - [M](https://montenegra-london.com/products/montenegra-japa-samara-unisex-organic-oversized-high-neck-t-shirt?variant=56711522746743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-white-front-698c344fa0b82.jpg?v=1770796151
+    Price: £45.00 GBP
+  - [L](https://montenegra-london.com/products/montenegra-japa-samara-unisex-organic-oversized-high-neck-t-shirt?variant=56711522779511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-white-front-698c344fa0b82.jpg?v=1770796151
+    Price: £45.00 GBP
+  - [XL](https://montenegra-london.com/products/montenegra-japa-samara-unisex-organic-oversized-high-neck-t-shirt?variant=56711522812279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-white-front-698c344fa0b82.jpg?v=1770796151
+    Price: £45.00 GBP
+  - [2XL](https://montenegra-london.com/products/montenegra-japa-samara-unisex-organic-oversized-high-neck-t-shirt?variant=56711522845047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/3352/2551/files/unisex-organic-oversized-high-neck-t-shirt-white-front-698c344fa0b82.jpg?v=1770796151
+    Price: £45.00 GBP
+[List Continued](https://montenegra-london.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM3NTk1MjU3Njg4NywibGFzdF92YWx1ZSI6IjE1Mzc1OTUyNTc2ODg3In0=)
 
 ## Collections
 
@@ -3060,20 +3092,29 @@
   Updated: 2026-02-03T07:14:31Z
   Total Products: 11
 - [Home page](https://montenegra-london.com/collections/media-and-entertainment-example-products)
-  Updated: 2026-02-03T07:14:31Z
+  Updated: 2026-02-16T20:51:44Z
   Total Products: 0
 - [Garments](https://montenegra-london.com/collections/general-clothes-example-products)
-  Updated: 2026-02-03T11:13:41Z
-  Total Products: 116
+  Updated: 2026-02-13T08:55:51Z
+  Total Products: 122
 - [Music.](https://montenegra-london.com/collections/music)
-  Updated: 2026-02-03T07:14:31Z
+  Updated: 2026-02-16T20:51:44Z
   Total Products: 8
 - [Recommended products (Seguno)](https://montenegra-london.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-02-03T11:14:04Z
-  Total Products: 135
-- [Act I](https://montenegra-london.com/collections/act-i): The first chapter of Elegant Rebellion.
-  Updated: 2026-02-03T11:13:41Z
-  Total Products: 118
+  Updated: 2026-02-13T08:55:51Z
+  Total Products: 141
+- [Act I Elegant Rebellion Collection for Women](https://montenegra-london.com/collections/act-i): Act I launches the first chapter of Elegant Rebellion, inviting you to explore bold, timeless styles, premium fabrics, and exclusive pieces that elevate looks.
+  Updated: 2026-02-16T20:51:46Z
+  Total Products: 124
+- [AVADA - Best Sellers](https://montenegra-london.com/collections/avada-best-sellers)
+  Updated: 2026-02-13T08:55:51Z
+  Total Products: 141
+- [All Products (ChatGPT-AI Product Description)](https://montenegra-london.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
+  Updated: 2026-02-13T08:55:51Z
+  Total Products: 142
+- [APPPlaza - Best Sellers](https://montenegra-london.com/collections/appplaza-best-sellers)
+  Updated: 2026-02-16T21:00:39Z
+  Total Products: 141
 
 ## Blogs
 
@@ -3169,7 +3210,22 @@
     Updated: 2026-01-30T17:00:24Z
     Author: Montenégra
   - [The Ultimate Guide to Styling the Montenégra Boxy Button Placket Hoodie in Black and White](https://montenegra-london.com/blogs/news/the-ultimate-guide-to-styling-the-montenegra-boxy-button-placket-hoodie-in-black-and-white): The Ultimate Guide to Styling the Montenégra Boxy Button Placket Hoodie in Black and White
-    Updated: 2026-02-03T23:00:27Z
+    Updated: 2026-02-09T06:04:17Z
+    Author: Montenégra
+  - [Understanding the Essentials of Minimalism in Montenégra](https://montenegra-london.com/blogs/news/understanding-the-essentials-of-minimalism-in-montenegra): Understanding the Essentials of Minimalism in Montenégra
+    Updated: 2026-02-05T04:04:14Z
+    Author: Montenégra
+  - [The Montenégra Essential Hoodie Perfect Black and White Pairing for Modern Wardrobes](https://montenegra-london.com/blogs/news/the-montenegra-essential-hoodie-perfect-black-and-white-pairing-for-modern-wardrobes): The Montenégra Essential Hoodie Perfect Black and White Pairing for Modern Wardrobes
+    Updated: 2026-02-07T05:03:07Z
+    Author: Montenégra
+  - [Elevate Your Style: How to Pair the Montenégra Ringer T-shirt with Everyday Outfits](https://montenegra-london.com/blogs/news/elevate-your-style-how-to-pair-the-montenegra-ringer-t-shirt-with-everyday-outfits): Elevate Your Style: How to Pair the Montenégra Ringer T-shirt with Everyday Outfits
+    Updated: 2026-02-10T23:00:20Z
+    Author: Montenégra
+  - [A Comparative Look at Minimalism in Montenegra and Beyond](https://montenegra-london.com/blogs/news/a-comparative-look-at-minimalism-in-montenegra-and-beyond): A Comparative Look at Minimalism in Montenegra and Beyond
+    Updated: 2026-02-12T07:03:07Z
+    Author: Montenégra
+  - [Montenégra Boxy Darted Sleeve Hoodie Styling Tips for Modern Minimalists](https://montenegra-london.com/blogs/news/montenegra-boxy-darted-sleeve-hoodie-styling-tips-for-modern-minimalists): Montenégra Boxy Darted Sleeve Hoodie Styling Tips for Modern Minimalists
+    Updated: 2026-02-15T08:15:06Z
     Author: Montenégra
 - [SEO News](https://montenegra-london.com/blogs/seo-news)
   - [Cropped Hoodie Style Guide: How to Wear Trendy Hoodies for Any Look](https://montenegra-london.com/blogs/seo-news/cropped-hoodie-style-guide-how-to-wear-trendy-hoodies-for-any-look-1591-28): Cropped Hoodie Style Guide: How to Wear Trendy Hoodies for Any Look
