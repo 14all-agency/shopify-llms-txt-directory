@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-10-10T04:21:25Z
-- Updated At: 2026-02-09T00:00:34.929Z
+- Updated At: 2026-02-16T00:00:37.264Z
 
 ## Products
 
@@ -273,13 +273,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/3Royaam2Aon4mtUPlsm7-As_3_gps_generated.png?v=1764891473
   Price: $5.99 USD
-- ["Island Breeze "Fruity Scented Dessert Candle with Grapefruit Garnish](https://glowingdesserts.shop/products/fruity-scented-dessert-candle-with-grapefruit-garnish): Indulge in the sophisticated allure of our Fruity Scented Dessert Candle, expertly crafted to deliver a vibrant grapefruit fragrance that elevates any space. The authentic grapefruit garnish adds a refined visual element, while the premium wax blend ensures a clean, long-lasting burn. Perfect for those who appreciate the intersection of culinary inspiration and ambient luxury, this candle transforms your environment into a sensory escape. Why You’ll Love It Looks like a real dessert Makes your whole space smell like a bakery Long, clean burn Beautiful handmade toppings Always a conversation starter Unique gift you won’t find in stores Candle Details Wax: 100% soy wax Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches Style: Fruity cocktail-inspired dessert candle
-  Updated: 2026-02-04T04:35:42Z
-  Vendor: Glowing Desserts
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9817.png?v=1770131461
-  Price: $20.00 USD
 - ["Mamas House "Sugar Cookie Scented Dessert Candle in Christmas  Wine Glass](https://glowingdesserts.shop/products/sugar-cookie-scented-dessert-candle-in-christmas-wine-glass): Indulge in the warm, inviting aroma of freshly baked sugar cookies with this artisanal dessert candle, elegantly presented in a festive Christmas wine glass. Hand-poured with premium wax and fragrance oils, this candle delivers a long-lasting scent that transforms any room into a cozy holiday retreat. The decorative glassware doubles as a keepsake vessel once the candle burns down, making it an ideal gift for dessert enthusiasts and seasonal décor collectors alike. Why You’ll Love It Looks like a real dessert Makes your whole space smell like a bakery Long, clean burn Beautiful handmade toppings Always a conversation starter Unique gift you won’t find in stores Candle Details Wax: 100% soy wax Burn Time: 40–50 hours Wick: Cotton (lead-free) Handmade: Yes — poured in small batches
   Updated: 2026-01-26T18:41:36Z
   Vendor: Glowing Desserts
@@ -323,7 +316,7 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/NdxEafnNA_W4yrMP-6CvsAU_2_gps_generated.png?v=1766120637
   Price: $15.00 USD
 - [“Glow Bears “ Candle (Fruity Candy scented](https://glowingdesserts.shop/products/glow-bears-candle-fruity-candy-scented): Experience the delightful scent and ambiance of our "Glow Bears" candle. Made with soy wax, this fruity scented candle features cute glow in the dark bears on top. Let the delicious fragrance fill your space while the gentle glow of the bears adds a touch of whimsy. Perfect for creating a warm and inviting atmosphere.
-  Updated: 2026-01-31T03:05:00Z
+  Updated: 2026-02-15T16:52:40Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
@@ -527,11 +520,11 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9057.png?v=1768521706
   Price: $12.95 USD
 - [Strawberry Cheesecake Scented Snap Bars](https://glowingdesserts.shop/products/strawberry-cheesecake-scented-snap-bars): Indulge your senses with these Strawberry Cheesecake Wax Melts, a sweet treat that looks good enough to eat and smells even better. Each melt releases the rich, creamy aroma of classic cheesecake blended with juicy, ripe strawberries and a touch of sugary sweetness. The scent is smooth, comforting, and delightfully decadent—perfect for creating a cozy, love-filled atmosphere. Handcrafted in a soft blush pink and topped with colorful sprinkles, these wax melts are as charming as they are fragrant. Ideal for Valentine’s Day, gifting, or simply treating yourself, they fill your space with a warm bakery-style fragrance that lingers beautifully. Fragrance Notes: Top: Fresh strawberries, sweet sugar Middle: Creamy cheesecake, whipped cream Base: Vanilla, graham cracker crust Perfect for wax warmers, these melts are sure to add a little romance and a lot of sweetness to any room. 🍓💗
-  Updated: 2026-01-17T19:20:35Z
+  Updated: 2026-02-13T21:24:15Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/23C96341-DE6D-4DE5-A95F-FB95A118C32B.jpg?v=1768677164
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/23C96341-DE6D-4DE5-A95F-FB95A118C32B.jpg?v=1771017847
   Price: $8.00 USD
 - [Chocolate Fudge Brownie Bliss Dessert Candle](https://glowingdesserts.shop/products/chocolate-fudge-brownie-bliss-dessert-candle): Chocolate Fudge Brownie Bliss is a rich, mouthwatering dessert candle that smells just like a freshly baked pan of gooey chocolate brownies. This decadent scent blends deep cocoa, melted fudge, and sweet brownie batter for a cozy, bakery-fresh aroma that fills the room and satisfies every chocolate lover’s craving. Hand-poured with soy wax, this candle is beautifully topped with realistic dessert-inspired wax details, making it just as stunning to display as it is to burn. Perfect for chocolate lovers, self-care nights, or gifting, this candle creates a warm, comforting atmosphere that feels like home.
   Updated: 2026-01-26T18:41:30Z
@@ -562,53 +555,53 @@
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9096.png?v=1768703215
   Price: $7.99 USD
 - [Horrible Idea Cotton Candy Scented Candle](https://glowingdesserts.shop/products/horrible-idea-cotton-candy-scented-candle): This cotton candy–scented candle is pure fun in a jar 🍭✨ It looks just like a fluffy scoop of blue cotton candy piled high, topped with colorful sprinkles and a tiny lit candle for an extra playful touch. The bright, festive background and whimsical details give it a cheerful, party-ready vibe that instantly makes you smile. The jar adds to the charm with a bold, quirky label, making it feel trendy, lighthearted, and perfect for anyone who loves sweet, nostalgic treats. Scent-wise, it captures that classic cotton candy aroma—sweet, airy, and sugary, with soft notes that feel like a trip to the fair or carnival. It’s the kind of candle that fills a room with happiness, making it ideal for birthdays, gifts, or just adding a pop of fun to your space.
-  Updated: 2026-02-01T20:19:59Z
+  Updated: 2026-02-13T21:24:12Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9095.png?v=1768706059
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9095.png?v=1771017850
   Price: $7.99 USD
 - [Valentines Heart Candles (Wedding Cake Scented)](https://glowingdesserts.shop/products/valentines-heart-candles-wedding-cake-scented): Our Heart Candles are a celebration of love, handcrafted to warm both the space and the soul. Infused with a luxurious wedding cake scent, this candle blends soft vanilla, sweet buttercream, and delicate sugar notes—just like the first slice of a perfect wedding cake. Designed in a timeless heart shape, it’s the perfect keepsake for weddings, anniversaries, or heartfelt gifts.
-  Updated: 2026-01-18T21:57:59Z
+  Updated: 2026-02-13T21:24:17Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/482CE560-C1D6-48DC-AE2C-09910DC8B74E.jpg?v=1768773134
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/482CE560-C1D6-48DC-AE2C-09910DC8B74E.jpg?v=1771017850
   Price: $6.99 USD
 - [Wedding Bliss Candles (Wedding Cake Scented)](https://glowingdesserts.shop/products/wedding-bliss-candles-wedding-cake-scented): Celebrate love with our Wedding Cake–scented Dessert Candles, designed to look as beautiful as they smell. Hand-poured with creamy soy wax, these candles capture the irresistible aroma of freshly baked wedding cake—soft vanilla layers, sweet buttercream frosting, and a touch of sugar for a warm, comforting finish. Each candle is elegantly presented in a clear glass jar adorned with heart details and topped with delicate dried rose petals, making it a perfect keepsake for weddings, bridal showers, anniversaries, or romantic home décor. Whether lit for a special moment or displayed as a charming accent, this candle brings the sweetness of “I do” into any space. Details: Wedding cake fragrance (vanilla, buttercream, sugar) 11.8 oz soy wax candle Hand-poured with love Romantic heart-themed design Ideal for gifts, weddings & special occasions If you’d like, I can also create: An Etsy-optimized listing description A shorter version for labels or social media A luxury or minimalist rewrite Just tell me 💕
-  Updated: 2026-01-18T22:07:04Z
+  Updated: 2026-02-13T21:24:09Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/2A43AF19-0316-4E8D-A770-97459319527C.jpg?v=1768773544
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/2A43AF19-0316-4E8D-A770-97459319527C.jpg?v=1771017848
   Price: $7.99 USD
 - [Chocolate &Strawberry Sundae Joy](https://glowingdesserts.shop/products/chocolate-strawberry-sundae-joy): Chocolate Dessert Candle Deep, rich, and irresistibly indulgent, our Chocolate Dessert Candle is a true treat for the senses. Hand-poured with creamy soy wax, this candle captures the mouthwatering aroma of decadent chocolate—smooth cocoa, velvety sweetness, and a warm, comforting finish that fills the room like a freshly made dessert. Presented in an elegant dessert glass and topped with realistic wax chocolate pieces, colorful sprinkles, and dessert-inspired accents, this candle is designed to look just like a gourmet chocolate creation. Perfect for chocolate lovers, cozy evenings, or as a standout gift, it adds a luxurious and playful touch to any space. Fragrance Notes: Rich cocoa Creamy chocolate Soft vanilla undertones Details: Hand-poured soy wax Dessert-style design Long-lasting, warm scent throw Ideal for gifts, home décor, and self-care moments
-  Updated: 2026-01-26T18:41:29Z
+  Updated: 2026-02-13T21:24:14Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/Yl9taaeyL7bjmtUPqYusQQ_3_gps_generated.png?v=1768775578
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/Yl9taaeyL7bjmtUPqYusQQ_3_gps_generated.png?v=1771017847
   Price: $10.95 USD
 - [Glow In The Dark Pet Candle (Sandlewood Scented)](https://glowingdesserts.shop/products/glow-in-the-dark-pet-candle-sandlewood-scented): Glow-in-the-Dark Sandalwood Candle Mysterious, calming, and beautifully unique, our Glow-in-the-Dark Sandalwood Candle is designed to soothe the senses day and night. Hand-poured with premium soy wax, this candle fills your space with the rich, earthy aroma of sandalwood—soft woody notes blended with warm amber undertones for a grounding, luxurious experience. When the lights go out, the candle reveals its magic, gently glowing in the dark to create a calming, ambient atmosphere. Perfect for evening relaxation, meditation, or cozy nights in, this candle is both a sensory indulgence and a stunning décor piece. Fragrance Notes: Warm sandalwood Soft woods Subtle amber warmth Details: Glow-in-the-dark wax Hand-poured soy candle Long-lasting, calming scent Perfect for relaxation, gifts, and nighttime ambiance
-  Updated: 2026-02-01T20:19:05Z
+  Updated: 2026-02-13T21:24:20Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/23F20C31-1E57-45B2-8308-8201956C602F.jpg?v=1768776873
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/23F20C31-1E57-45B2-8308-8201956C602F.jpg?v=1771017846
   Price: $8.50 USD
 - [Cupids Bow (Fruity Candy scented)](https://glowingdesserts.shop/products/cupids-bow-fruity-candy-scented): Treat your senses to a sweet burst of nostalgia with this Fruity Candy Scented Dessert Candle. Hand-poured with creamy soy wax, this candle looks just like a colorful candy treat—topped with playful candy-inspired details and a bold bow accent that makes it almost too cute to burn. The scent is a mouthwatering blend of juicy fruity candies, bursting with notes that feel bright, fun, and sugary-sweet, just like opening your favorite candy bag. As it burns, it fills your space with a cheerful, cozy aroma that instantly lifts the mood. Perfect for candy lovers, gift-giving, or adding a pop of fun to your décor, this candle is designed to be both eye-catching and indulgent. ✨ Details: Fruity candy-inspired fragrance Hand-poured soy wax Long-lasting, clean burn Dessert-style decorative design Perfect as a gift or statement piece
-  Updated: 2026-01-26T18:41:25Z
+  Updated: 2026-02-13T21:24:18Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/FullSizeRender_cc9b7d59-1ccd-4a83-9d27-1879b25d0ac9.jpg?v=1768878907
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/FullSizeRender_cc9b7d59-1ccd-4a83-9d27-1879b25d0ac9.jpg?v=1771017846
   Price: $30.00 USD
 - [Snap Bars ( Variety of Fragrances)](https://glowingdesserts.shop/products/snap-bars-variety-of-fragrances): Treat your senses to a colorful assortment of handcrafted wax melts, each bursting with its own unique scent and personality. From sweet and fruity to cozy and comforting, every snap delivers a strong, long-lasting aroma that fills your space beautifully. These melts are perfect for switching up your vibe anytime—just pop one in and enjoy a new scent adventure. Cute, fun, and made to smell amazing!
-  Updated: 2026-02-03T02:18:47Z
+  Updated: 2026-02-13T21:24:16Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9180.png?v=1768965492
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9180.png?v=1771017848
   - [Floral / Pink](https://glowingdesserts.shop/products/snap-bars-variety-of-fragrances?variant=50533606031646)
     Availability: Available
     Price: $5.99 USD
@@ -616,18 +609,18 @@
     Availability: Not Available
     Price: $5.99 USD
 - [Rose Garden Glow ( Oatmeal &Honey Scented](https://glowingdesserts.shop/products/rose-garden-glow-oatmeal-honey-scented): Soft, radiant, and beautifully refined, the Rose Garden Glow is designed to elevate any space. Poured into a stunning rose-gold glass vessel adorned with delicate floral details, this candle casts a warm, enchanting glow when lit—perfect for creating a cozy yet luxurious atmosphere. Whether styled on a coffee table, vanity, or nightstand, its shimmering floral design adds a touch of elegance and romance to your décor. Ideal for self-care moments, intimate evenings, or gifting someone special, this candle blends beauty and warmth into one timeless piece. ✨ Why You’ll Love It: Elegant rose-gold floral glass vessel Soft, ambient glow that enhances any room Perfect for home décor or gifting Reusable decorative jar once the candle is finished
-  Updated: 2026-01-23T04:54:46Z
+  Updated: 2026-02-13T21:24:20Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9196.png?v=1769100384
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9196.png?v=1771017847
   Price: $7.99 USD
-- [Glow Drops Car Diffusers ( Many Fragrance's to choose from)!!](https://glowingdesserts.shop/products/glow-drops-car-diffusers): Cinnamon Swirl Dessert Candle Indulge your senses with our Cinnamon Swirl Dessert Candle — a cozy, bakery-inspired treat that looks good enough to eat. Hand-crafted to resemble a freshly baked cinnamon swirl topped with creamy icing, this candle features rich layers of warm cinnamon tones and a whipped wax topping drizzled with a realistic swirl design. Infused with a comforting cinnamon fragrance, it fills your space with the nostalgic aroma of sweet spice, sugar, and freshly baked goodness. Perfect for kitchens, living rooms, or gifting to any dessert or candle lover, this candle adds a touch of warmth and charm to any space. ✨ Hand-poured ✨ Dessert-inspired design ✨ Cozy cinnamon aroma ✨ Decorative & functional Please note: This candle is for decorative use only and is not edible. Always burn with care and follow candle safety guidelines. If you’d like, I can also: Make a short version Create a luxury or casual tone Add scent notes Customize it to match your Glowin Desserts brand 💕 Glow Drops Car Fresheners ✨ Turn every drive into a sweet, glowing experience with our Glow Drops Car Fresheners from Glowing Desserts. Inspired by dessert-like charm, these adorable hanging diffusers add a cozy glow and long-lasting fragrance to your car. Each Glow Drop is hand-filled and designed to slowly release scent while creating a soft, aesthetic look that elevates your space. Perfect for rearview mirrors, small spaces, or gifting to someone who loves cute, cozy vibes. You can choose from many fragrances, however if there is one that you are looking for that isn't on here, feel free to chat with us and we can accommodate!! 🍬 Why You’ll Love Them: Dessert-inspired, aesthetic design Soft glow for a cozy car vibe Long-lasting fragrance Hanging diffuser — easy to use Perfect for cars, lockers, or small spaces Makes a cute gift 🌸 How to Use: Unscrew the wooden cap, remove the inner stopper, and screw the cap back on tightly. Gently tilt the bottle for a few seconds to allow the fragrance to absorb into the wooden lid. Hang and enjoy! ⚠️ Safety Note: Keep upright. Avoid contact with skin, eyes, and surfaces. Do not over-saturate the wooden lid. ✨ Handmade with love by Glowing Desserts.
-  Updated: 2026-01-26T18:41:35Z
+- [Glow Drops Car Diffusers ( Many Fragrance's to choose from)!!](https://glowingdesserts.shop/products/glow-drops-car-diffusers): Glow Drops Car Fresheners ✨ Turn every drive into a sweet, glowing experience with our Glow Drops Car Fresheners from Glowing Desserts. Inspired by dessert-like charm, these adorable hanging diffusers add a cozy glow and long-lasting fragrance to your car. Each Glow Drop is hand-filled and designed to slowly release scent while creating a soft, aesthetic look that elevates your space. Perfect for rearview mirrors, small spaces, or gifting to someone who loves cute, cozy vibes. You can choose from many fragrances, however if there is one that you are looking for that isn't on here, feel free to chat with us and we can accommodate!! 🍬 Why You’ll Love Them: Dessert-inspired, aesthetic design Soft glow for a cozy car vibe Long-lasting fragrance Hanging diffuser — easy to use Perfect for cars, lockers, or small spaces Makes a cute gift 🌸 How to Use: Unscrew the wooden cap, remove the inner stopper, and screw the cap back on tightly. Gently tilt the bottle for a few seconds to allow the fragrance to absorb into the wooden lid. Hang and enjoy! ⚠️ Safety Note: Keep upright. Avoid contact with skin, eyes, and surfaces. Do not over-saturate the wooden lid. ✨ Handmade with love by Glowing Desserts.
+  Updated: 2026-02-13T21:24:19Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9203.png?v=1769125927
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9203.png?v=1771017851
   - [Multicolor / Honey / Apple](https://glowingdesserts.shop/products/glow-drops-car-diffusers?variant=50542429077790)
     Availability: Available
     Price: $6.99 USD
@@ -779,46 +772,46 @@
     Availability: Not Available
     Price: $6.99 USD
 - [Orange Sherbert Delight](https://glowingdesserts.shop/products/orange-sherbert-delight): Orange Sherbet Dessert Candle Sweet, creamy, and bursting with citrus sunshine, our Orange Sherbet Dessert Candle looks good enough to eat and smells even better. This handcrafted candle is inspired by a classic scoop of orange sherbet, layered to resemble a delicious dessert sundae and topped with colorful sprinkle details for a playful finish. The fragrance opens with bright, juicy orange notes, blended with a smooth, creamy vanilla base that creates a refreshing yet comforting aroma. It fills your space with a nostalgic, summertime scent that’s both uplifting and cozy. Perfect for kitchens, living rooms, or gift giving, this candle is a fun statement piece that doubles as home décor. Details: Scent: Orange Sherbet (sweet citrus + creamy vanilla) Hand-poured dessert-style candle Decorative toppings for a realistic dessert look Long-lasting, clean burn Perfect as a gift or treat for yourself ⚠️ Decorative elements are for visual purposes only. Please remove any non-wick items before burning.
-  Updated: 2026-01-25T16:34:00Z
+  Updated: 2026-02-13T21:24:17Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9219.png?v=1769138149
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9219.png?v=1771017850
   Price: $8.95 USD
 - [Cinnamon Swirl Dessert Candle](https://glowingdesserts.shop/products/cinnamon-swirl-dessert-candle): Cinnamon Swirl Dessert Candle Indulge your senses with our Cinnamon Swirl Dessert Candle — a cozy, bakery-inspired treat that looks good enough to eat. Hand-crafted to resemble a freshly baked cinnamon swirl topped with creamy icing, this candle features rich layers of warm cinnamon tones and a whipped wax topping drizzled with a realistic swirl design. Infused with a comforting cinnamon fragrance, it fills your space with the nostalgic aroma of sweet spice, sugar, and freshly baked goodness. Perfect for kitchens, living rooms, or gifting to any dessert or candle lover, this candle adds a touch of warmth and charm to any space. ✨ Hand-poured ✨ Dessert-inspired design ✨ Cozy cinnamon aroma ✨ Decorative & functional Please note: This candle is for decorative use only and is not edible. Always burn with care and follow candle safety guidelines. If you’d like, I can also: Make a short version Create a luxury or casual tone Add scent notes Customize it to match your Glowin Desserts brand 💕
-  Updated: 2026-01-26T18:41:15Z
+  Updated: 2026-02-13T21:24:18Z
   Vendor: Glowing Desserts
   Product Type: Cinnamon roll
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9275.png?v=1769292209
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9275.png?v=1771017849
   Price: $14.95 USD
 - [“Pink Flamingo Dessert Candle](https://glowingdesserts.shop/products/pink-flamingo-dessert-candle): 🦩 Flamingo Dessert Candle – Fruity Scented Add a pop of fun and sweetness to your space with our Flamingo Dessert Candle, inspired by the playful charm of the flamingo bird and the irresistible aroma of fruity treats. This candle features a decorative flamingo design nestled into a dessert-style candle, making it both eye-catching and deliciously scented. The fruity fragrance fills the room with bright, juicy notes and a touch of sweetness, creating a cheerful and uplifting atmosphere. Perfect as décor or a statement candle, it brings summer vibes and cozy warmth together in one adorable piece. ✨ Details: Sweet, fruity dessert-inspired scent Flamingo bird design Hand-poured with care Clean, long-lasting burn Fun decorative candle & home fragrance Perfect for flamingo lovers, fruity scent fans, and anyone who loves unique, dessert-style candles that look just as good as they smell.
-  Updated: 2026-01-25T13:39:33Z
+  Updated: 2026-02-13T21:24:19Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9281.png?v=1769303967
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9281.png?v=1771017847
   Price: $15.95 USD
 - [Butterfly Wishes and Highland Kisses ( Orange Blossom Scented)](https://glowingdesserts.shop/products/butterfly-wishes-and-highland-kisses-orange-blossom-scented): Highland Cow with Butterflies Candle Bring a touch of countryside charm and gentle magic into your space with our Highland Cow with Butterflies Candle. Featuring an adorable highland cow surrounded by delicate butterflies, this candle is as enchanting as it is cozy—perfect for adding warmth and personality to any room. Hand-poured with care, this candle is made from high-quality wax for a clean, even burn. Whether styled on a shelf, coffee table, or bedside, it doubles as a charming décor piece and a soothing source of ambiance. Light it to unwind, gift it to an animal lover, or keep it as a sweet accent that sparks joy. Why you’ll love it: 🐮 Whimsical highland cow design with butterfly details 🕯️ Clean, long-lasting burn 🦋 Perfect for farmhouse, cottagecore, or rustic décor 🎁 A thoughtful gift for birthdays, holidays, or self-care moments Ideal for cozy nights, peaceful mornings, or anyone who loves unique, nature-inspired home décor.
-  Updated: 2026-01-28T00:59:06Z
+  Updated: 2026-02-13T21:24:18Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IUl5afuCHbS8yrMP6tzA6Q0_0_gps_generated.png?v=1769556281
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IUl5afuCHbS8yrMP6tzA6Q0_0_gps_generated.png?v=1771017850
   Price: $14.99 USD
 - [Orange Blossom Whisper Snap Bars](https://glowingdesserts.shop/products/orange-blossom-whisper-snap-bars): Orange Blossom Scented Snap Bars Bring a touch of effortless elegance to your home with our Orange Blossom scented snap bars. This beautifully balanced fragrance opens with soft, fresh citrus notes and settles into delicate white florals, creating a clean, calming, and subtly sweet aroma. Light yet uplifting, Orange Blossom is perfect for creating a relaxed, welcoming atmosphere in any space. Each snap bar is designed for convenience—simply snap off a segment and melt to enjoy long-lasting fragrance. Ideal for everyday use, this scent works beautifully in living areas, bedrooms, and bathrooms, offering a gentle fragrance that’s never overpowering. Why you’ll love it: Fresh floral fragrance with soft citrus undertones Clean, calming, and uplifting scent Easy-to-use snap bar design Long-lasting fragrance throw Perfect for any room in the home Whether you’re unwinding after a long day or freshening up your space, our Orange Blossom snap bars add a light, elegant scent that feels both comforting and luxurious.
-  Updated: 2026-01-28T14:07:22Z
+  Updated: 2026-02-13T21:24:09Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/DC84F818-DB0F-4E41-8302-09FFFB2F8AB5_1.jpg?v=1769565762
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/DC84F818-DB0F-4E41-8302-09FFFB2F8AB5_1.jpg?v=1771017848
   Price: $6.99 USD
 - [Butterfly Bloom Wax Melts ( Different Variants of your choice)](https://glowingdesserts.shop/products/butterfly-bloom-wax-melts-different-variants-of-your-choice): Rose & Butterfly Wax Melts – Assorted Scents Add a touch of beauty and fragrance to your home with our Rose & Butterfly wax melts. Carefully designed in elegant floral and butterfly shapes, these melts are as decorative as they are fragrant, making them perfect for both everyday use and gifting. Each melt is infused with a high-quality fragrance oil, releasing a rich, long-lasting scent when warmed. From soft florals and fresh citrus to sweet, cosy, or calming aromas, our range of scents allows you to choose the perfect fragrance to suit your mood or space. Simply place one melt into your wax burner and enjoy as it gently fills the room with fragrance. Ideal for living rooms, bedrooms, bathrooms, or as a thoughtful gift for any occasion, these wax melts bring a sense of warmth, relaxation, and elegance to your home. Why you’ll love them: Beautiful rose and butterfly designs Available in a variety of different scents Strong, long-lasting fragrance throw Easy to use with any standard wax burner Ideal for gifting or treating yourself Whether you’re looking to create a calming atmosphere, freshen up your space, or enjoy a comforting scent at home, our Rose & Butterfly wax melts offer a perfect balance of style and fragrance. Choose your favorite scent and let your space bloom with fragrance.
-  Updated: 2026-01-28T03:48:01Z
+  Updated: 2026-02-13T21:24:17Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/4F19A596-5EAD-4811-B78E-C69AA284FAAB.jpg?v=1769566290
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/4F19A596-5EAD-4811-B78E-C69AA284FAAB.jpg?v=1771017849
   - [Orange Blossom](https://glowingdesserts.shop/products/butterfly-bloom-wax-melts-different-variants-of-your-choice?variant=50557517005086)
     Availability: Available
     Price: $6.99 USD
@@ -883,35 +876,35 @@
     Availability: Not Available
     Price: $6.99 USD
 - [Hugs &Kisses Valentines Candles](https://glowingdesserts.shop/products/hugs-kisses-valentines-candles): Fall in love at first light. Our Valentine Dessert Candles are hand-poured with love and designed to look just as sweet as they smell. Each candle is inspired by decadent desserts and fruity treats, featuring beautiful pink tones, heart details, and dessert-style toppings that make them the perfect Valentine’s gift. Choose from: 🍓 Strawberry Cheesecake – A creamy blend of sweet strawberries and rich cheesecake that smells just like your favorite dessert. 🍬 Fruity Scented – A playful mix of bright, sugary fruit notes that feel fun, cheerful, and nostalgic. ✨ Details: • Hand-poured in small batches • Dessert-inspired design with heart embeds • Fruity & bakery-style fragrance blends • Perfect for Valentine’s Day, gifts, or self-care • Decorative + cozy home fragrance These candles are made to look good, smell amazing, and set the mood—whether you’re gifting someone special or treating yourself. 🎁 Perfect for: Valentine’s Day gifts • Sweethearts • Galentines • Candy lovers • Dessert lovers • Cozy nights in ⚠️ Candle Care: Due to decorative toppings, always place your candle on a heat-safe surface and never leave it unattended while burning. 💖 Light it. Love it. Fall head over heels.
-  Updated: 2026-02-03T02:18:07Z
+  Updated: 2026-02-13T21:24:16Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9550.png?v=1769652440
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9550.png?v=1771017849
   Price: $7.99 USD
 - [Strawberry Snuggle](https://glowingdesserts.shop/products/strawberry-snuggle): Strawberry Vanilla Dessert Candle Indulge your senses with our Strawberry Vanilla Dessert Candle — a sweet, cozy blend that smells just like a creamy strawberry treat fresh from the bakery. Juicy ripe strawberries are perfectly balanced with smooth, comforting vanilla for a scent that’s warm, inviting, and irresistible. Hand-poured with love, this candle is designed to look like a decadent dessert, topped with realistic wax details that make it almost too cute to burn. Whether you’re gifting it or keeping it for yourself, it adds a charming touch to any space while filling the room with a deliciously comforting aroma. ✨ Scent Notes: • Top: Fresh Strawberry • Base: Creamy Vanilla 🕯️ Details: • Hand-poured • Dessert-inspired design • Long-lasting, clean burn • Perfect for gifts, décor, or self-care Looks good enough to eat — smells even better. 💕🍓
-  Updated: 2026-01-31T12:06:07Z
+  Updated: 2026-02-13T21:24:20Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9614.png?v=1769817709
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9614.png?v=1771017847
   Price: $13.95 USD
 - [Strawberry Kiss Cheesecake](https://glowingdesserts.shop/products/strawberry-kiss-cheesecake): Strawberry Cheesecake Dessert Candle 🍓🍰 Rich, creamy, and downright irresistible — our Strawberry Cheesecake Dessert Candle captures the mouthwatering aroma of a classic strawberry cheesecake fresh from the bakery. Sweet, juicy strawberries blend beautifully with smooth vanilla cream and a hint of buttery cheesecake for a warm, indulgent scent that fills the room. Hand-poured with care, this candle is designed to look like a decadent dessert, complete with realistic whipped wax details and strawberry-inspired toppings. It’s the perfect statement piece for your home, a thoughtful gift, or a cozy treat for yourself. ✨ Scent Notes: • Top: Sweet strawberry • Middle: Creamy cheesecake • Base: Vanilla sugar & bakery warmth 🕯️ Details: • Hand-poured dessert-style candle • Highly detailed, bakery-inspired design • Long-lasting, clean burn • Perfect for gifting, décor, or self-care All the sweetness of cheesecake — no calories required. 💗🍓
-  Updated: 2026-01-31T12:41:32Z
+  Updated: 2026-02-13T21:24:20Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9613.png?v=1769818539
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9613.png?v=1771017847
   Price: $14.95 USD
 - [Cotton Candy Cuties Set](https://glowingdesserts.shop/products/cotton-candy-cuties-set): Cotton Candy Dream Candle Strawberry Cheesecake Dessert Candle 🍓🍰 Rich, creamy, and downright irresistible — our Strawberry Cheesecake Dessert Candle captures the mouthwatering aroma of a classic strawberry cheesecake fresh from the bakery. Sweet, juicy strawberries blend beautifully with smooth vanilla cream and a hint of buttery cheesecake for a warm, indulgent scent that fills the room. Hand-poured with care, this candle is designed to look like a decadent dessert, complete with realistic whipped wax details and strawberry-inspired toppings. It’s the perfect statement piece for your home, a thoughtful gift, or a cozy treat for yourself. ✨ Details: Hand-poured with love Dessert-inspired design Long-lasting, sweet fragrance For decorative use or light burning ⚠️ This is a candle, not food. Please do not eat.
-  Updated: 2026-02-03T17:56:22Z
+  Updated: 2026-02-13T21:24:09Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/ZFB9abedNZvByrMPl5C56QE_3_gps_generated.png?v=1770095784
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/ZFB9abedNZvByrMPl5C56QE_3_gps_generated.png?v=1771017848
   Price: $12.95 USD
 - [Glowing Soap Garden Treats](https://glowingdesserts.shop/products/glowing-soap-garden-treats): These soaps are Shea Butter 🌿 Oatmeal Honey & Cucumber Melon Glow Soaps Treat your skin to a fresh, glowing cleanse with our handcrafted Oatmeal Honey & Cucumber Melon soaps — the perfect blend of cozy comfort and crisp spa freshness. These adorable succulent-shaped bars look like sweet little desserts but are packed with skin-loving goodness. Creamy oatmeal and golden honey soothe and nourish dry, sensitive skin, while the light cucumber melon scent adds a clean, refreshing finish that feels like a day at the spa. Each bar is hand-poured in small batches to create a rich, bubbly lather that leaves your skin feeling soft, smooth, and glowing — never stripped. ✨ Why you’ll love them: • Gentle + moisturizing • Calming oatmeal & honey comfort • Fresh cucumber melon scent • Handmade with care • Cute dessert-inspired design — perfect for gifts! Whether you’re upgrading your self-care routine or gifting someone special, these little glow treats make every wash feel extra sweet. Smell good. Feel good. Glow daily. If you’d like, I can also create: ✅ shorter Etsy-style version ✅ luxury version ✅ fun/cute TikTok version ✅ or bullet-point benefits only
-  Updated: 2026-02-01T06:29:25Z
+  Updated: 2026-02-13T21:24:15Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
@@ -1013,109 +1006,144 @@
     Availability: Not Available
     Price: $6.99 USD
 - [Glowberry Cheesecake Cup Dessert Candle](https://glowingdesserts.shop/products/glowberry-cheesecake-cup-dessert-candle): Indulge your sweet tooth — without the calories! 🍓✨ Our Strawberry Glow Parfait Candle looks just like a delicious strawberry cheesecake sundae layered with juicy berries, creamy cheesecake filling, and whipped topping. Hand-poured with love, this dessert-inspired candle fills your space with a warm, fruity strawberry cheesecake aroma that’s sweet, cozy, and bakery-fresh. Each candle is crafted to look like a real treat, making it the perfect gift or eye-catching décor piece. Light it up and let your home smell like a glowing dessert dream 💕 • Hand-poured soy blend wax • Realistic dessert design • Sweet strawberry cheesecake scent • Perfect for gifts & treat lovers • Made with love by Glowing Desserts
-  Updated: 2026-02-03T02:17:34Z
+  Updated: 2026-02-13T21:24:20Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/16833812-6F66-4C6B-89D0-EB37FC592508.png?v=1769907111
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/16833812-6F66-4C6B-89D0-EB37FC592508.png?v=1771017847
   Price: $11.99 USD
 - [Sweetheart Serenade Candle (Fruity Candy Scented)](https://glowingdesserts.shop/products/sweetheart-serenade-candle-fruity-candy-scented): 💕 Sweetheart Serenade – Fruity Candy Scented Candle 30 oz | Soy Wax Fall head over heels with Sweetheart Serenade, a playful yet romantic fruity candy–scented candle that looks just as dreamy as it smells. Hand-poured with smooth soy wax, this oversized beauty features a shimmering heart embed and delicate dried rose petals for a truly eye-catching, dessert-inspired design. The fragrance is a sweet explosion of juicy fruits and sugary candy notes—bright, fun, and irresistibly nostalgic. Think candy shop sweetness blended with a soft, romantic warmth that fills the room and lingers long after lighting. Perfect for gifting, date nights, Valentine’s décor, or anytime you want to add a little love (and sweetness) to your space. Scent Profile: 🍓 Juicy mixed fruits 🍬 Sweet candy sugar 🌸 Soft romantic undertones Details: 30 oz soy wax candle Long-lasting, clean burn Decorative heart embed & dried rose petals Hand-poured with care ✨ Ideal for: Romantic gifts & self-care moments Sweet scent lovers Statement candles & cozy décor Sweet, romantic, and made to glow—Sweetheart Serenade is love at first light.
-  Updated: 2026-02-02T13:11:39Z
+  Updated: 2026-02-13T21:24:21Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/hbF_aaDMDI6DmtUP3qC52Aw_0_gps_generated.png?v=1769976257
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/hbF_aaDMDI6DmtUP3qC52Aw_0_gps_generated.png?v=1771017850
   Price: $25.00 USD
 - [Dessert Sampler Box (2 Small Candles and 2 Snap Bars)](https://glowingdesserts.shop/products/dessert-sampler-box-2-small-candles-and-2-snap-bars): Cotton Candy Cutie Sampler Box 🍬✨ Sweet, sugary, and irresistibly cute—our Cotton Candy Cutie Sampler Box is the perfect way to indulge in a little sugar-spun magic. This sampler includes two small Cotton Candy Cutie candles and two snap bars! each bursting with the nostalgic aroma of fluffy pink cotton candy. With notes of spun sugar and soft vanilla, these mini candles fill your space with a fun, cheerful scent that feels like a day at the fair. Perfect for trying the scent, gifting to someone special, or adding a touch of sweetness to any room. ✨ What’s inside: 2 small Cotton Candy Cutie candles Sweet cotton candy fragrance with creamy vanilla undertones Hand-poured with high-quality fragrance oils Ideal for sampling, gifting, or on-the-go sweetness Cute, cozy, and oh-so sweet—this sampler box is a must-have for cotton candy lovers.
-  Updated: 2026-02-05T18:41:37Z
+  Updated: 2026-02-13T21:23:15Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/XnpmaYfkK-yAmtUPxYHu0Ao_1_gps_generated_527aabf5-5721-4d3a-98ef-aff682dfb2f8.png?v=1770085572
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/XnpmaYfkK-yAmtUPxYHu0Ao_1_gps_generated_527aabf5-5721-4d3a-98ef-aff682dfb2f8.png?v=1771017787
   Price: $29.95 USD
 - [Treat Yourself Kit ( 2 Cucumber Melon Soap of your choice, & 1 Medium size Candle)](https://glowingdesserts.shop/products/treat-yourself-kit-2-cucumber-melon-soap-of-your-choice-1-medium-size-candle): Treat Yourself Kit ✨🕯️🧼 Because you deserve it. Our Treat Yourself Kit is the ultimate self-care bundle, thoughtfully curated to help you unwind, relax, and indulge in a little everyday luxury. This feel-good set includes two handcrafted soaps and one medium-sized candle, making it perfect for slow evenings, cozy weekends, or gifting someone special (including yourself). The rich, creamy soaps gently cleanse and nourish your skin, while the medium candle fills your space with a comforting, mood-lifting fragrance that turns any moment into a spa-like experience. ✨ What’s included: 2 handcrafted soaps - Shea Butter 1 medium-sized candle High-quality ingredients and fragrance oils Perfect for self-care days, gifting, or pampering moments Light the candle, lather up, and let the stress melt away—this kit is your reminder to slow down and truly treat yourself.
-  Updated: 2026-02-05T18:40:56Z
+  Updated: 2026-02-13T21:23:21Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG_9775.jpg?v=1770086344
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG_9775.jpg?v=1771017786
   Price: $30.00 USD
 - [Cozy Candy Combo Of Hearts(4  Fruity Candy Scented)Plus 2 Snap BaRS](https://glowingdesserts.shop/products/cozy-candy-combo-of-hearts4-fruity-candy-scentedplus-2-snap-bars): Heart Candle Bundle ❤️✨ Spread the love with our Heart Candle Bundle, a beautiful collection of heart-shaped candles designed to add warmth, charm, and a little romance to any space. Whether you’re celebrating love, friendship, or self-care, this bundle is perfect for creating cozy, feel-good moments. Each heart candle is hand-poured with high-quality fragrance oils and crafted with care, making them just as lovely to display as they are to burn. Ideal for gifting or treating yourself, this bundle brings together sweet scents and heartfelt vibes in one perfect set. ✨ Why you’ll love it: A curated set of heart-shaped candles Hand-poured with premium fragrance oils Perfect for gifting, décor, or self-love moments Adds a cozy, romantic touch to any room Light one, share one, or enjoy them all—this bundle is made to be loved.
-  Updated: 2026-02-05T18:40:18Z
+  Updated: 2026-02-13T21:23:08Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG_8964_3c190566-f8ff-420e-8c3c-6d6fa8761951.jpg?v=1770086814
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG_8964_3c190566-f8ff-420e-8c3c-6d6fa8761951.jpg?v=1771017787
   Price: $20.00 USD
 - [Pink Lemonade Freeze Gel Wax Candle (Fruity Candy Scented)](https://glowingdesserts.shop/products/pink-lemonade-freeze-gel-wax-candle-fruity-candy-scented): Bring a burst of juicy sweetness into your space with our Fruity Scented Gel Wax Candle—a vibrant treat for your senses and your décor. Made with crystal-clear gel wax, this candle beautifully showcases its colorful design while releasing a mouth-watering blend of fresh, fruity aromas that instantly brighten any room. Each candle is carefully hand-poured to deliver a clean, long-lasting burn and a fragrance that’s playful, uplifting, and irresistible. Whether you’re setting the mood, freshening up your space, or gifting something fun and unique, this fruity gel candle adds the perfect pop of scent and style. ✨ Why you’ll love it: Clear gel wax for a stunning, eye-catching look Sweet and refreshing fruity fragrance Long-lasting, clean burn Hand-poured with care Perfect for gifting or everyday enjoyment Light it up and let the juicy aroma fill the air—because your space deserves a little fruity happiness. 💖
-  Updated: 2026-02-03T22:14:50Z
+  Updated: 2026-02-13T21:24:14Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/9C729A74-868E-40E1-91F7-9CA7AF92F9FB.jpg?v=1770155082
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/9C729A74-868E-40E1-91F7-9CA7AF92F9FB.jpg?v=1771017846
   Price: $13.95 USD
 - [Strawberry Cream Dream](https://glowingdesserts.shop/products/strawberry-cream-dream): Strawberry Sundae Dessert Candle – Sweet & Romantic Treat Indulge your senses with this deliciously detailed strawberry sundae dessert candle, designed to look just like a freshly served treat. Hand-poured into a clear glass jar, this candle features a creamy vanilla base topped with rich strawberry drizzle, realistic strawberry pieces, and a scoop-style topping finished with a touch of shimmer for an extra special glow. Perfect for Valentine’s Day, gifts, or adding a cozy, romantic touch to any space, this candle brings the charm of a dessert shop right into your home — without the calories. As it burns, it fills the room with a sweet, comforting fragrance that feels warm, inviting, and nostalgic. Details: Handcrafted dessert-style candle Strawberry-inspired design with realistic topping Poured in a reusable glass jar Great for gifts, décor, or self-care moments Made with care for a beautiful, one-of-a-kind look
-  Updated: 2026-02-06T13:31:23Z
+  Updated: 2026-02-13T21:24:21Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9903.png?v=1770338622
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9903.png?v=1771017848
   Price: $8.99 USD
 - [Cupids Strawberry Delight](https://glowingdesserts.shop/products/cupids-strawberry-delight): Sweetheart Cream Sundae Candle – Valentine’s Edition Fall in love at first sight with this adorable, dessert-inspired candle that looks just like a whipped cream sundae covered in sweet heart toppings. Handcrafted with a creamy base and topped with fluffy, scoop-style wax, this candle is decorated with bright red hearts and sprinkles for the perfect romantic touch. Designed to capture the cozy feeling of Valentine’s Day, it brings warmth, charm, and a sweet bakery-style vibe to any space. Whether displayed as décor or lit to fill the room with a soft, comforting fragrance, this candle makes a beautiful gift for someone special — or a treat for yourself. Details: Hand-poured dessert-style candle Topped with realistic whipped cream texture and heart accents Set in a reusable glass dessert bowl Perfect for Valentine’s Day gifts, anniversaries, or romantic décor Each piece is unique and made with care This charming candle adds a playful, love-filled touch to your collection and is almost too cute to burn.
-  Updated: 2026-02-06T13:32:10Z
+  Updated: 2026-02-13T21:24:19Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9901.png?v=1770338622
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9901.png?v=1771017847
   Price: $13.99 USD
 - [Luck OF The Irish ( St Patrick’s Day Candles( fruity Candy Scented )](https://glowingdesserts.shop/products/luck-of-the-irish-st-patrick-s-day-candles-fruity-candy-scented): St. Patrick’s Day Dessert Candles – Lucky & Sweet Collection Bring a little luck and sweetness into your home with these festive St. Patrick’s Day dessert candles! Handcrafted to look like delicious treats, each candle features playful green tones, creamy textures, and charming details inspired by the spirit of the holiday. They make the perfect seasonal décor piece while filling your space with a warm, inviting fragrance. Designed to feel fun, cozy, and cheerful, these candles are great for celebrating St. Patrick’s Day, gifting to friends, or adding a pop of festive color to your home. Their dessert-style design makes them a standout piece on any table, shelf, or gift basket.
-  Updated: 2026-02-06T15:42:32Z
+  Updated: 2026-02-13T21:23:20Z
   Vendor: Glowing Desserts
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9911.png?v=1770347243
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-9911.png?v=1771017787
   Price: $10.00 USD
-- [Sweet Pink Paradise ( Fruity Scented) Glow In The Dark with light](https://glowingdesserts.shop/products/sweet-pink-paradise-fruity-scented-glow-in-the-dark-with-light): Bright, sweet, and full of fruity charm, this margarita-inspired dessert candle is a show-stopping statement piece. Designed in a classic cocktail glass with a sparkling pink sugared rim and a dried citrus garnish, it looks just like a fresh, fruity drink sitting on your kitchen counter. Also glows in the dark under a black light and has an added light to it you can switch on and off. This candle brings a fun, summery vibe to any space while filling the room with a juicy, candy-like citrus fragrance. Perfect for gift giving, party decor, or adding a playful touch to your home. Details: Fruity citrus fragrance with sweet berry notes Hand-poured dessert candle design Decorative pink sugar-style rim Margarita glass presentation for a realistic look Great for birthdays, summer decor, and gifts A beautiful centerpiece candle that smells as sweet as it looks and instantly brightens any room.
-  Updated: 2026-02-08T21:21:11Z
-  Vendor: Glowing Desserts
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0001.png?v=1770585643
-  Price: $24.95 USD
 - [Fruity Fiesta Glow Candle](https://glowingdesserts.shop/products/fruity-fiesta-glow-candle): Pink Fruity Carnival Glow Candle Bring the fun of a sweet carnival night right into your home with this eye-catching fruity dessert candle. Designed to look like a colorful ice cream sundae topped with sprinkles and candy details, this candle is both playful and unique. This candle glows in the dark under a black light. Under dim lighting, the vibrant colors pop, and the fun dessert design becomes a true statement piece. The sweet fruity scent fills the room with a cheerful, candy-like aroma that feels like summer and funfair treats. Features: Strong fruity candy fragrance Glow-inspired design that pops in low light Hand-poured dessert style candle Topped with colorful sprinkles and sweet details Perfect for gifts, party decor, and fun room accents This candle is a conversation starter and a must-have for anyone who loves bright, sweet, and nostalgic carnival vibes.
-  Updated: 2026-02-08T21:41:32Z
+  Updated: 2026-02-13T21:24:20Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0002.png?v=1770586014
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0002.png?v=1771017847
   Price: $16.95 USD
 - [Candy Carnival Glow Candle](https://glowingdesserts.shop/products/candy-carnival-glow-candle): Fresh, vibrant, and full of personality, this green fruity dessert candle is designed to stand out. Styled like a delicious sundae treat, it features bright green tones, colorful sprinkles, and a playful dessert look that brings a fun pop of color to any space. With its sweet fruity scent and glow-inspired appearance, this candle creates a magical, cozy atmosphere — especially in dim lighting where the colors really come alive. Features: Fresh fruity fragrance with a sweet candy twist Unique green dessert-inspired design Handcrafted and one-of-a-kind Colorful sprinkle topping for a realistic sundae look Perfect for bedrooms, gifts, and fun decor displays A bold, fun candle that adds a splash of color, sweetness, and charm wherever it’s placed.
-  Updated: 2026-02-08T21:41:45Z
+  Updated: 2026-02-13T21:23:08Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0003.png?v=1770586568
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0003.png?v=1771017787
   Price: $16.95 USD
 - [Neon Pink Dream](https://glowingdesserts.shop/products/neon-pink-drink): Bring the magic of a nighttime carnival into your home with this vibrant pink glow-inspired dessert candle. Designed to look like a sweet treat topped with colorful sprinkles and candy-shaped details, this candle is both playful and eye-catching In dim lighting, the soft pink tones and glittery finish create a glowing effect that makes it feel extra fun and whimsical. The fruity scent fills the room with a sweet, candy-like aroma that’s bright, cheerful, and comforting. Perfect for display, gifting, or adding a pop of color to your space, this candle feels like a little piece of a carnival dessert stand right on your shelf. Features: Sweet fruity carnival-inspired fragrance Glow-inspired look in low lighting Hand-poured dessert candle design Topped with colorful sprinkles and candy details Cute glass jar that doubles as decor A fun, nostalgic candle that brings color, sweetness, and a cozy glow to any room.
-  Updated: 2026-02-08T22:00:08Z
+  Updated: 2026-02-13T21:23:08Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0006.png?v=1770587968
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0006.png?v=1771017787
   Price: $13.50 USD
 - [Glow In The Dark Snap Bars](https://glowingdesserts.shop/products/glow-in-the-dark-snap-bars): 🛍️ Shopify Description – Fruity & Watermelon Snap Bar Wax Melts Turn your space into a sweet, fruity paradise with these colorful snap bar wax melts. Each bar is hand-poured and topped with playful sprinkle details, giving them a fun, dessert-inspired look that’s almost too cute to melt. Bursting with juicy fruity and watermelon scents, these melts fill your home with a bright, refreshing aroma that feels like summer candy, fresh fruit, and sweet treats all in one. Just snap off a square, place it in your warmer, and enjoy hours of delicious fragrance. These glow in the dark under black light Perfect for gifting, decorating, or treating yourself, these snap bars add a pop of color and sweetness to any room. Features: Fruity & watermelon-inspired scents Hand-poured snap bar design for easy use Strong, long-lasting fragrance Topped with colorful sprinkle accents Great for gifts, wax melt lovers, and home fragrance A fun, cheerful scent experience that makes your home smell like a candy shop and fruit stand combined.
-  Updated: 2026-02-08T22:21:38Z
+  Updated: 2026-02-09T10:21:47Z
   Vendor: Glowing Desserts
   Product Type: Soy wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0007.png?v=1770588339
   Price: $6.99 USD
-[List Continued](https://glowingdesserts.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAwMTkzMTkyNzgzOCwibGFzdF92YWx1ZSI6IjEwMDAxOTMxOTI3ODM4In0=)
+- [Mango & Orange Mamba](https://glowingdesserts.shop/products/mango-orange-mamba): Mango & Orange Glow Candle 🍊🥭 Bring a burst of tropical sunshine into your home with this mango and orange scented glow candle. Handcrafted to look as beautiful as it smells, this candle fills your space with a sweet, juicy blend of ripe mango and fresh citrus that feels like a warm summer day. As it burns, the soft glow adds a cozy, calming ambiance, making it perfect for relaxing evenings, self-care moments, or adding a cheerful touch to any room. The fruity scent is vibrant but smooth — not overpowering — creating a welcoming atmosphere guests will love. ✨ Scent notes: Sweet mango, bright orange, and soft citrus zest ✨ Warm glowing effect when lit for extra ambiance ✨ Hand-poured with care and attention to detail ✨ Perfect for gifts, décor, or everyday relaxation Whether you’re treating yourself or gifting someone special, this tropical-inspired candle brings warmth, sweetness, and a little escape to your space.
+  Updated: 2026-02-13T21:23:09Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0012.png?v=1771017788
+  Price: $8.99 USD
+- [Strawberry Milkshake Dessert Candle](https://glowingdesserts.shop/products/strawberry-milkshake-dessert-candle): Strawberry Milkshake Dessert Candle Indulge your senses with our Strawberry Milkshake Dessert Candle, a treat that looks good enough to eat (but please don’t 😉). This creamy, dreamy candle is inspired by classic diner milkshakes, topped with playful sprinkles and a sundae-style finish for the ultimate dessert vibe. The scent opens with juicy, ripe strawberries blended with smooth vanilla cream and a hint of sugary sweetness, creating a rich and comforting aroma that fills your space with cozy, feel-good vibes. Whether you’re decorating, gifting, or setting the mood, this candle is a total showstopper. ✨ Why you’ll love it: Delicious strawberry milkshake fragrance Dessert-style design with sprinkles & sundae topping Hand-poured with care for a clean, long-lasting burn Perfect for gifts, self-care days, or cute home décor Light it up and enjoy a sweet escape—no calories, just cozy vibes. 💕🍓 If you want it shorter, more playful, or luxury-style, I can tweak it to match your bran
+  Updated: 2026-02-15T16:46:51Z
+  Vendor: Glowing Desserts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/D54480C1-1786-403E-A859-8C94940CEA88.jpg?v=1771017849
+  Price: $16.95 USD
+- [The Wonka Dessert Candle](https://glowingdesserts.shop/products/the-wonka-dessert-candle): Wonka-Inspired Fruity Fantasy Candle Step into a world of pure imagination with our Wonka-Inspired Fruity Fantasy Candle—a vibrant, candy-sweet creation bursting with playful fruity notes. This candle fills your space with a mouthwatering blend of juicy fruits, sugary treats, and a hint of nostalgic candy shop magic. Bright, cheerful, and irresistibly sweet, this fruity scent creates an uplifting atmosphere that feels fun, cozy, and a little bit magical. Perfect for candy lovers, colorful décor fans, and anyone who loves sweet, whimsical fragrances. ✨ Why you’ll love it: Bold, fruity candy-inspired fragrance Sweet, cheerful aroma that energizes any space Hand-poured for a clean, even burn Perfect for gifts, fun décor, or adding a pop of magic to your home Light this candle and let your senses wander into a fruity dreamland where sweetness and imagination come to life. 🍬🌈
+  Updated: 2026-02-13T21:23:17Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/C5409CCF-71F9-4559-9C9D-7492A3DC2A6A.jpg?v=1771017787
+  Price: $40.00 USD
+- [Japanese Cherry Blossom Soap](https://glowingdesserts.shop/products/japanese-cherry-blossom-soap): Japanese Cherry Blossom Shea Butter Soap – Description ( two per pack ) Treat your skin to a gentle, luxurious cleanse with our Japanese Cherry Blossom Shea Butter Soap. Infused with the soft, elegant scent of blooming cherry blossoms, this soap creates a calming, spa-like experience with every use. Enriched with nourishing shea butter, it helps moisturize and soften the skin while producing a creamy, soothing lather. Perfect for daily use, it leaves your skin feeling clean, silky smooth, and lightly scented with a delicate floral fragrance inspired by springtime in Japan.
+  Updated: 2026-02-13T21:23:17Z
+  Vendor: Glowing Desserts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0047.png?v=1771017788
+  Price: $6.99 USD
+- [S’mores Campfire Wax Melts( 5 in a pack)](https://glowingdesserts.shop/products/s-mores-campfire-wax-melts-5-in-a-pack)
+  Updated: 2026-02-13T21:23:17Z
+  Vendor: Glowing Desserts
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0043.png?v=1771017787
+  Price: $6.95 USD
+- [Chocolate Chip Delight Snap Bars(2 per pack)](https://glowingdesserts.shop/products/chocolate-chip-delight-snap-bars2-per-pack): Chocolate Chip Snap Bars – Description Indulge your senses with the warm, comforting scent of fresh-baked chocolate chip cookies straight from the oven. These Chocolate Chip Snap Bars are rich, buttery, and sweet with notes of melted chocolate and vanilla that fill your space with cozy bakery goodness. Simply snap off a piece, place it in your wax warmer, and enjoy a long-lasting fragrance that makes your home feel warm and inviting.
+  Updated: 2026-02-13T21:23:21Z
+  Vendor: Glowing Desserts
+  Product Type: Soy wax
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/3407/9518/files/IMG-0040.png?v=1771017787
+  Price: $7.99 USD
+[List Continued](https://glowingdesserts.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAwNDUzMjY1ODQ2MiwibGFzdF92YWx1ZSI6IjEwMDA0NTMyNjU4NDYyIn0=)
 
 ## Collections
 
 - [Home page](https://glowingdesserts.shop/collections/frontpage): Welcome to Glowing Desserts Candles. Handmade soy wax dessert candles for any occasion.
-  Updated: 2026-01-30T02:34:45Z
+  Updated: 2026-02-13T21:22:22Z
   Total Products: 0
 - [Wax tarts](https://glowingdesserts.shop/collections/wax-tarts): Shop these wonderfully scented wax tarts
   Updated: 2026-02-03T05:11:42Z
@@ -1124,22 +1152,22 @@
   Updated: 2026-01-30T02:34:45Z
   Total Products: 7
 - [All Products (ChatGPT-AI Product Description)](https://glowingdesserts.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-02-08T22:16:59Z
-  Total Products: 117
+  Updated: 2026-02-12T04:30:16Z
+  Total Products: 125
 - [Candles example products](https://glowingdesserts.shop/collections/candles-example-products)
   Updated: 2026-01-30T02:34:45Z
   Total Products: 0
 - [Orderly Emails - Recommended Products](https://glowingdesserts.shop/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-02-08T22:16:59Z
-  Total Products: 110
+  Updated: 2026-02-15T20:52:01Z
+  Total Products: 116
 - [New! Shopify performance sharing is now turned on](https://glowingdesserts.shop/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-02-08T22:16:59Z
-  Total Products: 117
+  Updated: 2026-02-12T04:30:16Z
+  Total Products: 125
 - [Featured Candles](https://glowingdesserts.shop/collections/featured-candles): collection of featured candles
-  Updated: 2026-02-03T04:59:35Z
+  Updated: 2026-02-13T21:22:27Z
   Total Products: 8
 - [✨Bundles & Gifts Sets✨](https://glowingdesserts.shop/collections/✨bundles-gifts-sets✨): Bundles – More to Love, Better Value 💖 Why choose just one when you can enjoy more for less? Our carefully curated Bundles are the perfect way to experience a variety of our best- candles and wax melts at a special value. Each bundle is thoughtfully put together to complement different moods, seasons, and scent preferences—whether you’re treating yourself, stocking up on favorites, or looking for a ready-to-gift option. From sweet and fruity to soft florals and cozy comforts, there’s a bundle for every vibe. ✨ Why you’ll love our bundles: Better value compared to purchasing individually A mix of customer favorites and seasonal scents Perfect for gifting or discovering new fragrances Hand-poured with care using high-quality fragrance oils Light up your space, mix and match your scents, and enjoy more of what you love—all in one bundle.
-  Updated: 2026-02-08T22:16:59Z
+  Updated: 2026-02-13T21:22:29Z
   Total Products: 8
 
 ## Blogs
@@ -1179,10 +1207,14 @@
 
 - [Privacy Policy](https://glowingdesserts.shop/policies/privacy-policy)
   Updated: 2025-10-10T00:21:37-04:00
+- [Shipping Policy](https://glowingdesserts.shop/policies/shipping-policy)
+  Updated: 2026-02-15T15:16:14-05:00
 - [Refund Policy](https://glowingdesserts.shop/policies/refund-policy)
-  Updated: 2025-11-28T19:12:09-05:00
+  Updated: 2026-02-15T15:27:06-05:00
 - [Terms of Service](https://glowingdesserts.shop/policies/terms-of-service)
   Updated: 2025-12-15T11:13:55-05:00
+- [Contact Information](https://glowingdesserts.shop/policies/contact-information)
+  Updated: 2026-02-15T15:27:26-05:00
 
 Www.glowingdesserts.shop
 
