@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-24T14:05:53Z
 - Contact Email: support@thelawnmarket.com
-- Updated At: 2026-02-05T15:06:06.871Z
+- Updated At: 2026-02-16T00:00:34.362Z
 
 ## Products
 
@@ -136,12 +136,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/A015e31ad8365e6.jpg?v=1770123394
   Price: $2,100.00 USD
-- [TitanGarage™ – Maximum Space. Minimal Effort](https://www.thelawnmarket.com/products/titangarage™-maximum-space-minimal-effort): TitanGarage™ – Maximize your space with smart, durable, and easy-to-use garage solutions. Strength, style, and simplicity—minimal effort required.
-  Updated: 2026-02-03T12:57:05Z
+- [Garage Storage Solutions | TitanGarage™ Maximize Your Space](https://www.thelawnmarket.com/products/garage-storage-solutions-titangar): Discover TitanGarage™ for premium garage storage solutions that maximize space with durable, easy-to-assemble designs. Perfect for any weather.
+  Updated: 2026-02-14T03:17:05Z
   Vendor: The LawnMarket.com
   Product Type: Double Garage Metal Shed
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/Ae31616077c2443a6b7e.jpg?v=1770123406
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/Ae31616077c2443a6b7e.jpg?v=1770995881
   Price: $3,200.00 USD
 - [StorMaxx™ – Durable Solutions for Every Outdoor Space](https://www.thelawnmarket.com/products/stormaxx™-durable-solutions-for-every-outdoor-space): StorMaxx™ – Tough, weatherproof storage built to last. Discover durable solutions for every outdoor space—organized, secure, and stylish.
   Updated: 2026-02-03T12:57:07Z
@@ -325,13 +325,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/H7d0145e2ffa140b2a0a5e7c26d.avif?v=1762541717
   Price: $209.00 USD
-- [PowerTrack™ — Strong Performance. Smart .](https://www.thelawnmarket.com/products/powertrack™-strong-performance-smart-): PowerTrack™-Strong Performance.Smart .Reliable energy solutions and smart power management tools delivering efficiency,durability,and long-term value.
-  Updated: 2026-01-15T13:38:03Z
+- [PowerTrack™ Cat Excavator - Strong Performance & Durability](https://www.thelawnmarket.com/products/cat-excavator-powertrack): Discover the PowerTrack™ Cat Excavator, engineered for strong performance and durability. Smart  for reliable energy solutions equipment.
+  Updated: 2026-02-13T17:54:24Z
   Vendor: TheLawnMarket.com
   Product Type: Excavator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/H0fc5c9c526d542.avif?v=1762542602
-  Price: $3,999.00 USD
+  Price: $4,389.00 USD
 - [JuicePro™ — Professional Power. Pure Flavor.](https://www.thelawnmarket.com/products/juicepro™-professional-power-pure-flavor): JuicePro™ — Professional Power. Pure Flavor. Extract fresh, nutrient-rich juice effortlessly with our high-performance juicers for vibrant taste every time.
   Updated: 2026-02-03T12:58:18Z
   Vendor: TheLawnMarket.com
@@ -746,12 +746,12 @@
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/H7fb9f7ac8d6e4.avif?v=1766522649
   Price: $189.00 USD
 - [Keurig Programmable Coffee Maker](https://www.thelawnmarket.com/products/keurig-k-elite-coffee-maker): Discover the Keurig K-Elite Single Serve Coffee Maker with customizable brew sizes, strong brew option, iced coffee setting, and a large 75oz water reservoir
-  Updated: 2026-01-15T13:38:16Z
+  Updated: 2026-02-13T13:32:50Z
   Vendor: The LawnMarket.com
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/keurigcoffemaker1.jpg?v=1768389576
-  Price: $105.00 USD
+  Price: $119.99 USD
 - [Bisel little Green Mini Portable Carpet and Upholstery Deep Cleaner](https://www.thelawnmarket.com/products/bissell-little-green-mini-portable-carpet-and-upholstery-deep-cleaner): Deep clean carpets, upholstery, and car interiors with the BISSELL Little Green Mini. Portable design, HydroRinse self-cleaning & 4” tough stain tool.
   Updated: 2026-02-03T13:05:52Z
   Vendor: The LawnMarket.com
@@ -773,20 +773,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/lawnmarketrecliner.jpg?v=1770123968
   Price: $399.00 USD
-- [60V 42” Electric CrossoverZ Zero Turn Mower](https://www.thelawnmarket.com/products/60v-42-electric-crossoverz-zero-turn-mower): 60V 42” Electric CrossoverZ Zero Turn Mower with four 8Ah batteries and dual port turbo chargers. Powerful, quiet, and cordless performance.
-  Updated: 2026-02-03T13:07:11Z
+- [Electric Zero Turn Mower - Greenworks 60V 42-inch CrossoverZ](https://www.thelawnmarket.com/products/greenworks-60v-zero-turn-mower): Discover the Greenworks 60v 42-inch CrossoverZ Zero Turn Mower, featuring powerful batteries, quick recharge, and eco-friendly cordless performance.
+  Updated: 2026-02-13T13:04:55Z
   Vendor: The LawnMarket.com
   Product Type: Lawn Mower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/ATFWM.webp?v=1770123975
-  Price: $3,989.00 USD
-- [60V 54" MaximusZ Zero Turn Riding Mower](https://www.thelawnmarket.com/products/60v-54-maximusz-zero-turn-riding-mower): 60V 54” MaximusZ Zero Turn Riding Mower with six batteries and 1.5kW charger. Powerful electric performance with extended runtime.
-  Updated: 2026-02-03T13:07:46Z
+  Price: $4,200.00 USD
+- [Greenworks 60V Maximus Z Zero Turn Riding Mower – Eco-Friendly Power](https://www.thelawnmarket.com/products/greenworks-60v-maximus-z): Greenworks 60V 54-inch Maximus Z Zero Turn Riding Mower, offering eco-friendly power, extended runtime, and superior performance for your lawn care needs.
+  Updated: 2026-02-13T14:40:06Z
   Vendor: The LawnMarket.com
   Product Type: Lawn Mower
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/7422302-60V54_Maximus.webp?v=1770124034
-  Price: $5,200.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/7422302-60V54_Maximus.webp?v=1770943778
+  Price: $5,183.00 USD
 - [21" 140cc Gas Self-Propelled Lawn Mower](https://www.thelawnmarket.com/products/21-140cc-gas-self-propelled-lawn-mower): 21” 140cc Gas Self-Propelled Lawn Mower with Briggs & Stratton engine. Powerful, reliable performance for easy yard maintenance.
   Updated: 2026-02-03T13:07:58Z
   Vendor: The LawnMarket.com
@@ -795,131 +795,132 @@
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/2_2b104857-de3.webp?v=1770124067
   Price: $310.00 USD
 - [Buy PlayStation 5 Renewed -  & Tested PS5 Console](https://www.thelawnmarket.com/products/playstation-5-disc-renewed): Shop the best  on PlayStation 5 Renewed - , tested, and immersive 4K gaming experience with accessories included. Perfect for gamers seeking value.
-  Updated: 2026-02-03T13:08:06Z
+  Updated: 2026-02-13T16:08:12Z
   Vendor: The LawnMarket.com
   Product Type: Sony PlayStation
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/51Njs.jpg?v=1770124077
-  Price: $550.00 USD
-- [Sony PlayStation 5 Pro 3TB Digital Edition](https://www.thelawnmarket.com/products/sony-playstation-5-pro-3tb-digital-edition): Sony PS5 Pro Digital Edition with massive 3TB SSD,Call of Duty Modern Warfare II bundle,controller charger,ultra-fast performance, and stunning next-gen gaming.
-  Updated: 2026-02-03T13:08:14Z
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/51Njs.jpg?v=1770944728
+  Price: $569.99 USD
+- [Sony PlayStation 5 Pro 3TB Digital Edition
+ – The LawnMarket.com](https://www.thelawnmarket.com/products/playstation-5-pro-3tb): Discover the PlayStation 5 Pro 3TB with ultra-fast SSD, exclusive bundles, and sleek design. Elevate your gaming with this next-gen console today.
+  Updated: 2026-02-13T21:04:06Z
   Vendor: The LawnMarket.com
   Product Type: Sony PlayStation
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61J9q9N7.jpg?v=1770124083
-  Price: $649.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61J9q9N7.jpg?v=1770948530
+  Price: $959.00 USD
 - [Austin Air Healthmate Plus](https://www.thelawnmarket.com/products/austin-air-healthmate-plus): Austin Air Healthmate Plus Sandstone air purifier with -grade filtration. Removes harmful airborne contaminants for cleaner, healthier indoor air.
-  Updated: 2026-02-03T13:08:30Z
+  Updated: 2026-02-13T15:14:00Z
   Vendor: The LawnMarket.com
   Product Type: Air Purifier
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/815gAaWZTKL._AC_SL1500.jpg?v=1770124095
-  Price: $689.45 USD
-- [Honeywell Allergen Plus 3-in-1 HEPA Air Purifier](https://www.thelawnmarket.com/products/honeywell-allergen-plus-3-in-1-hepa-air-purifier): Honeywell Allergen Plus 3-in-1 HEPA air purifier cleans up to 1928 sq ft in 1 hour. Reduces allergens, pet dander, odors, with sleep mode.
-  Updated: 2026-02-03T13:08:50Z
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/815gAaWZTKL._AC_SL1500.jpg?v=1770942812
+  Price: $729.00 USD
+- [Honeywell Allergen Plus 3-in-1 HEPA Air Purifier](https://www.thelawnmarket.com/products/honeywell-allergen-plus-hepa-air-p): Honeywell Allergen Plus 3-in-1 HEPA air purifier cleans up to 1928 sq ft in 1 hour. Reduces allergens, pet dander, odors, with sleep mode.
+  Updated: 2026-02-14T02:56:29Z
   Vendor: The LawnMarket.com
   Product Type: Air Purifier
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71JpxglfgVL._AC_SL1500.jpg?v=1770124110
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71JpxglfgVL._AC_SL1500.jpg?v=1770994487
   Price: $189.00 USD
-- [WINIX T810 Air Purifier](https://www.thelawnmarket.com/products/winix-t810-air-purifier): WINIX T810 air purifier for large rooms up to 1968 sq ft. True HEPA captures pet allergies, smoke & dust with smart Wi-Fi and auto mode.
-  Updated: 2026-02-03T13:09:20Z
+- [Air Purifier for Large Rooms - WINIX T810 with Smart Wi-Fi](https://www.thelawnmarket.com/products/air-purifier-large-room-winix): WINIX T810 air purifier for large rooms up to 1968 sq ft. True HEPA captures pet allergies, smoke & dust with smart Wi-Fi and auto mode.
+  Updated: 2026-02-14T02:53:22Z
   Vendor: The LawnMarket.com
   Product Type: Air Purifier
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71avDuV3mPL._A.jpg?v=1770124130
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71avDuV3mPL._A.jpg?v=1770994370
   Price: $149.99 USD
-- [Dyson Ball Animal 3 Extra Upright Vacuum](https://www.thelawnmarket.com/products/dyson-ball-animal-3-extra-upright-vacuum): Power through pet hair with the Dyson Ball Animal 3 Extra. 290AW suction, de-tangling Motorbar, 3 modes, corded power & pet tools for all floors.
-  Updated: 2026-02-03T13:09:18Z
+- [Shop the Best Pet Hair Vacuum - Dyson Ball Animal 3 Extra](https://www.thelawnmarket.com/products/dyson-ball-animal-3-extra): Power through pet hair with the Dyson Ball Animal 3 Extra. This pet hair vacuum offers 290AW suction, specialized tools, and corded power for all floors.
+  Updated: 2026-02-13T14:37:26Z
   Vendor: The LawnMarket.com
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61nGJxNHEjL._AC_SL.jpg?v=1770124144
-  Price: $279.99 USD
-- [Typhur Dome 2 AI Upgraded Air Fryer](https://www.thelawnmarket.com/products/typhur-dome-2-ai-air-fryer): Cook faster with the Typhur Dome 2 AI Air Fryer. Extra-large capacity, superior airflow, self-cleaning, PFAS-free basket—fits a 12″ pizza or 4-slice toast.
-  Updated: 2026-02-03T13:09:33Z
+  Price: $289.99 USD
+- [Best AI Air Fryer with Smart Control | Typhur Dome 2](https://www.thelawnmarket.com/products/air-fryer-with-smart-control): Discover the best AI Air fryer with large capacity, smart control, and easy cleaning. Cook healthier meals faster with advanced technology. Shop now!
+  Updated: 2026-02-13T17:37:14Z
   Vendor: The LawnMarket.com
   Product Type: Air Fryer
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71-NbL1cZyL._AC_SL1500.jpg?v=1770124158
-  Price: $278.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71-NbL1cZyL._AC_SL1500.jpg?v=1770948721
+  Price: $308.95 USD
 - [WORX Cordless Leaf Blower](https://www.thelawnmarket.com/products/worx-cordless-leaf-blower): WORX WG583.9 3-in-1 cordless leaf blower with vacuum & mulcher, brushless motor, 2-speed control. Batteries & charger sold separately.
-  Updated: 2026-02-03T13:09:50Z
+  Updated: 2026-02-13T14:58:56Z
   Vendor: The LawnMarket.com
   Product Type: Leaf Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/ES64677DFSSDYBD.jpg?v=1770124174
-  Price: $149.99 USD
-- [Agri-Fab 45-0546 52" Tow-Behind Lawn Sweeper](https://www.thelawnmarket.com/products/agri-fab-45-0546-52-tow-behind-lawn-sweeper): Agri-Fab 45-0546 52" tow-behind lawn sweeper with 26 cu. ft. hopper, adjustable brush height, and easy dump-from-seat handle.
-  Updated: 2026-02-03T13:10:19Z
+  Price: $179.99 USD
+- [Best Lawn Sweeper for Tractors | Agri-Fab 52" Tow-Behind](https://www.thelawnmarket.com/products/lawn-sweeper-for-tractors): Discover the best lawn sweeper for tractors with the Agri-Fab 52" Tow-Behind, featuring a large hopper and adjustable brush for efficient yard cleanup.
+  Updated: 2026-02-13T15:52:16Z
   Vendor: The LawnMarket.com
   Product Type: Lawn Sweeper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/WhatsAppImage2026-01-22at9.58.02AM_10.jpg?v=1770124187
   Price: $219.99 USD
 - [AMERLIFE 13x21x8.4 FT Outdoor Metal Garage Shed](https://www.thelawnmarket.com/products/amerlife-garage-shed): AMERLIFE 13x21x8.4 ft outdoor metal garage shed with double hinged doors and 4 windows—extra-large carport canopy for car, boat, truck & equipment storage.
-  Updated: 2026-02-04T12:56:07Z
+  Updated: 2026-02-10T12:21:35Z
   Vendor: The LawnMarket.com
   Product Type: Metal Garage Shed
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/91xumJLJcgL._AC_SL1500.jpg?v=1770131653
-  Price: $989.99 USD
-- [Honda 649680 25cc 9 in. Front Tine Tiller](https://www.thelawnmarket.com/products/honda-649680-25cc-9-in-front-tine-tiller): Honda 649680 25cc front tine tiller with 9-inch tilling width—compact, powerful, and ideal for garden bed prep and soil cultivation.
-  Updated: 2026-02-03T13:10:57Z
+  Price: $1,049.99 USD
+- [Honda 649680 25cc 9 in. Front Tine Tiller](https://www.thelawnmarket.com/products/honda-tiller-649680-25cc): Honda 649680 25cc front tine tiller with 9-inch tilling width—compact, powerful, and ideal for garden bed prep and soil cultivation.
+  Updated: 2026-02-13T15:56:39Z
   Vendor: The LawnMarket.com
   Product Type: Honda Front Tine Tiller
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61iRdQJg6DL._AC_SL1000.jpg?v=1770124242
-  Price: $291.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61iRdQJg6DL._AC_SL1000.jpg?v=1770947633
+  Price: $305.00 USD
 - [Kenmore 30" Top Mount Refrigerator](https://www.thelawnmarket.com/products/kenmore-30-top-mount-refrigerator): Kenmore 30″ top-mount refrigerator with 18.1 cu. ft. capacity, adjustable shelves, humidity crispers, LED lighting, ENERGY STAR , garage ready.
-  Updated: 2026-02-03T13:11:11Z
+  Updated: 2026-02-13T17:45:26Z
   Vendor: The LawnMarket.com
   Product Type: Top Mount Refrigerator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/51VhDbR6tjL._AC_SL1500.jpg?v=1770124255
-  Price: $428.00 USD
-- [Craftsman 36" Gas Riding Lawn Mower  Gas Lawn Tractor](https://www.thelawnmarket.com/products/craftsman-36-gas-riding-lawn-mower-gas-lawn-tractor): Craftsman 36” riding lawn mower with 11.5 HP Briggs & Stratton engine and 7-speed transmission for smooth, reliable cutting.
-  Updated: 2026-02-03T13:11:32Z
+  Price: $589.00 USD
+- [Craftsman 36" Gas Lawn Mower with 11.5 HP Briggs Engine](https://www.thelawnmarket.com/products/gas-lawn-mower-craftsman-36): Discover the powerful Craftsman 36" Gas Lawn Mower with an 11.5 HP engine and 7-speed transmission for reliable, efficient lawn care. Perfect for larger yards.
+  Updated: 2026-02-13T15:12:34Z
   Vendor: The LawnMarket.com
   Product Type: Lawn Tractor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71S4wt6X3jL._AC_SL1500.jpg?v=1770124273
-  Price: $1,306.00 USD
-- [Brinly STS-42BHDK-A 42" Tow-Behind Lawn Sweeper](https://www.thelawnmarket.com/products/brinly-sts-42bhdk-a-42-tow-behind-lawn-sweeper): Brinly 42” tow-behind lawn sweeper with built-in dethatcher and hamper windscreen for easy leaf, grass, and debris cleanup.
-  Updated: 2026-02-03T13:11:49Z
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71S4wt6X3jL._AC_SL1500.jpg?v=1770944915
+  Price: $1,699.00 USD
+- [Brinly STS-42BHDK-A 42" Tow-Behind Lawn Sweeper](https://www.thelawnmarket.com/products/brinly-lawn-sweeper-42-inch): Brinly 42” tow-behind lawn sweeper with built-in dethatcher and hamper windscreen for easy leaf, grass, and debris cleanup.
+  Updated: 2026-02-14T02:21:55Z
   Vendor: The LawnMarket.com
   Product Type: Tow-Behind Lawn Sweeper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61IYMPFkccL._AC_SL1500_9b6adf35-c703-49c1-b1ab-09bf8c94866d.jpg?v=1770124291
   Price: $339.00 USD
-- [Westinghouse WSnow22 48V Cordless Snow Blower](https://www.thelawnmarket.com/products/westinghouse-wsnow22-48v-cordless-snow-blower): Westinghouse WSnow22 48V cordless snow blower with 1600W motor, 22" clearing width, steel auger, LED lights, and 25 ft throw.
-  Updated: 2026-02-03T13:12:13Z
+- [Westinghouse WSnow22 48V Cordless Snow Blower](https://www.thelawnmarket.com/products/cordless-snow-blower-westinghouse): Westinghouse WSnow22 48V cordless snow blower with 1600W motor, 22" clearing width, steel auger, LED lights, and 25 ft throw.
+  Updated: 2026-02-13T15:47:30Z
   Vendor: The LawnMarket.com
   Product Type: Cordless Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/81x9kGynYIL._AC_SL1500.jpg?v=1770124308
-  Price: $269.00 USD
-- [EGO POWER+ 21" Electric Snow Blower, Cordless SNT 2114](https://www.thelawnmarket.com/products/electric-snow-blower-cordless): EGO POWER+ 21" cordless snow blower with two 56V 5.0Ah batteries, rapid charger, and powerful electric performance for fast snow clearing.
-  Updated: 2026-02-05T10:49:11Z
+  Price: $319.00 USD
+- [EGO POWER+ 21" Electric Snow Blower, SNT 2100](https://www.thelawnmarket.com/products/electric-snow-blower-cordless): EGO POWER+ 21" cordless snow blower with two 56V 5.0Ah batteries, rapid charger, and powerful electric performance for fast snow clearing.
+  Updated: 2026-02-10T23:33:09Z
   Vendor: The LawnMarket.com
   Product Type: Electric Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61B1i7swdZL._AC_SL1000.jpg?v=1770124332
-  Price: $479.00 USD
+  Price: $405.00 USD
 - [Honda Power Equipment HSS724AAWD 24" Snow Blower - Powerful Snow Removal](https://www.thelawnmarket.com/products/honda-power-equipment-snow-blower): Honda HSS724AAWD 24" two-stage snow blower with 196cc engine, AWD traction, and 12V electric start for powerful snow removal.
-  Updated: 2026-02-04T23:52:43Z
+  Updated: 2026-02-10T10:52:36Z
   Vendor: The LawnMarket.com
   Product Type: Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/51Dv4NkInTL._AHonda.jpg?v=1770124345
-  Price: $1,475.00 USD
+  Price: $1,889.00 USD
 - [Buy Snow Plower – Heavy Duty Aluminum Blade for Efficient Snow Removal](https://www.thelawnmarket.com/products/snow-plow-for-atv): Buy the top-rated Snow Plower with a durable aluminum blade. Perfect for efficient snow removal. Shop now for great deals and fast shipping.
-  Updated: 2026-01-28T01:07:12Z
+  Updated: 2026-02-09T21:49:04Z
   Vendor: The LawnMarket.com
   Product Type: Snow plow
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/YUHFDT_1.webp?v=1769465694
-  Price: $1,079.00 USD
+  Price: $1,279.00 USD
 - [Duraflame Freestanding Electric Fireplace Stove Heater](https://www.thelawnmarket.com/products/electric-fireplace-stove): Shop the stylish and efficient electric fireplace stove that heats up to 1,000 sq. ft. with realistic 3D flames. Perfect for cozy living spaces.
   Updated: 2026-02-03T13:59:16Z
   Vendor: The LawnMarket.com
@@ -928,78 +929,85 @@
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/WH0AAF_1.jpg?v=1770124354
   Price: $199.99 USD
 - [Buy the Best Snow Blower - EGO POWER+ 24" Electric Snow Blower](https://www.thelawnmarket.com/products/battery-snow-blower-24-inch): EGO POWER+ 24” self-propelled 2-stage electric snow blower delivers gas-like power with battery efficiency. Battery and charger sold separately.
-  Updated: 2026-02-04T12:56:09Z
+  Updated: 2026-02-11T12:43:21Z
   Vendor: The LawnMarket.com
   Product Type: Electric Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/71MzgwyAjzL._AC_SL1500.jpg?v=1770124374
-  Price: $559.00 USD
+  Price: $959.00 USD
 - [Husqvarna ST224 Snow Blower - Powerful 24-Inch Two-Stage Snow Thrower](https://www.thelawnmarket.com/products/snow-blower-husqvarna): Husqvarna ST224 24” two-stage snow blower with 212cc 5.9HP engine, electric start, power steering, and friction disc transmission.
-  Updated: 2026-02-01T08:12:52Z
+  Updated: 2026-02-09T20:20:30Z
   Vendor: The LawnMarket.com
   Product Type: Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/81S0c2ZsCPL._AC_SL1500.jpg?v=1769889803
-  Price: $449.00 USD
-- [18" 15 Amp Electric Snow Thrower](https://www.thelawnmarket.com/products/18-15-amp-electric-snow-thrower): 18” electric snow thrower with powerful 15-amp motor clears up to 720 lbs of snow per minute. Perfect for quick driveway cleanup.
-  Updated: 2026-02-03T13:13:20Z
+  Price: $889.00 USD
+- [Buy 18" 15 Amp Electric Snow Blower | Powerful Snow Removal](https://www.thelawnmarket.com/products/electric-snow-blower-18-inch): Discover the powerful 18" 15 Amp electric snow blower, ideal for quick driveway cleanup. Efficient, eco-friendly, and easy to use for snow removal.
+  Updated: 2026-02-13T15:02:08Z
   Vendor: The LawnMarket.com
   Product Type: Electric Snow Thrower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/618H7YXhreL._AC_SL1200.jpg?v=1770124388
-  Price: $699.00 USD
+  Price: $249.00 USD
 - [Buy the Best Snow Blower Attachment | Heavy-Duty Snow Removal](https://www.thelawnmarket.com/products/massimo-snow-blower-attachment): Massimo Motor 60” wide 2-stage snow blower attachment with 420cc gas engine, electric start, and self-propelled design. UTV/ATV not included.
-  Updated: 2026-02-04T06:04:08Z
+  Updated: 2026-02-13T15:50:22Z
   Vendor: The LawnMarket.com
   Product Type: Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/61WLxmiNI_L._AC_SL1200.jpg?v=1770124401
-  Price: $1,499.00 USD
+  Price: $2,299.00 USD
 - [Best Snow Blower for Winter | Murray 24 in. Gas Snow Blower](https://www.thelawnmarket.com/products/snow-blower-for-winter-murray): Find the best snow blower for winter with Murray's 24-inch gas snow blower, featuring powerful performance, electric start, and easy maneuverability.
-  Updated: 2026-02-04T07:31:22Z
+  Updated: 2026-02-09T20:02:59Z
   Vendor: The LawnMarket.com
   Product Type: Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/hhbduyvghb_jpeg.png?v=1770124417
-  Price: $549.00 USD
+  Price: $705.00 USD
 - [Top Snow Blower Reviews - Cub Cadet 2X 26 in. IntelliPower](https://www.thelawnmarket.com/products/snow-blower-cub-cadet-26): Cub Cadet 2X 26" snow blower with 243cc IntelliPower engine, electric start, power steering, and durable steel chute for fast, easy snow removal.
-  Updated: 2026-02-03T15:01:43Z
+  Updated: 2026-02-10T10:04:45Z
   Vendor: The LawnMarket.com
   Product Type: Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/gtejudggdj_jpeg.png?v=1769890825
-  Price: $869.00 USD
-- [EGO POWER+ 21" Electric Snow Blower with Dual Batteries & Charger](https://www.thelawnmarket.com/products/electric-snow-blower-ego-21): EGO POWER+ 21" cordless snow blower with two 56V 5.0Ah batteries, rapid charger, and powerful electric performance for fast snow clearing.
-  Updated: 2026-02-05T14:43:23Z
+  Price: $1,149.00 USD
+- [EGO POWER+ 21" Electric Snow Blower with Dual Batteries & Charger](https://www.thelawnmarket.com/products/electric-snow-blower): EGO POWER+ 21" cordless snow blower with two 56V 5.0Ah batteries, rapid charger, and powerful electric performance for fast snow clearing.
+  Updated: 2026-02-14T10:04:43Z
   Vendor: The LawnMarket.com
   Product Type: Electric Snow Blower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/egosnow1.jpg?v=1770251317
-  Price: $995.00 USD
-[List Continued](https://www.thelawnmarket.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTQ5NzQwNDgyNzk4LCJsYXN0X3ZhbHVlIjoiOTE0OTc0MDQ4Mjc5OCJ9)
+  Price: $805.00 USD
+- [Ariens Platinum RapidTrak 28 SHO (28") 369cc Two-Stage Snow Blower](https://www.thelawnmarket.com/products/ariens-platinum-rapidtrak): Shop Ariens Platinum 28 SHO RapidTrak 921073 snow blower with 369cc engine, 28" clearing width, heated grips & superior traction control.
+  Updated: 2026-02-14T22:58:35Z
+  Vendor: The LawnMarket.com
+  Product Type: Snow Blower
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0778/1272/8046/files/Untitleddesign_1.jpg?v=1771109151
+  Price: $2,629.00 USD
+[List Continued](https://www.thelawnmarket.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTU5NzA1NjI0ODE0LCJsYXN0X3ZhbHVlIjoiOTE1OTcwNTYyNDgxNCJ9)
 
 ## Collections
 
 - [Affordable Cheap Lawn Mowers | Best Models for Your Lawn](https://www.thelawnmarket.com/collections/cheap-lawn-mowers-best-models): Shop top-quality Cheap Lawn Mowers to maintain a lush, healthy lawn. Find reliable, affordable options with easy operation. Free shipping on select models.
-  Updated: 2026-02-05T13:19:42Z
+  Updated: 2026-02-09T19:55:58Z
   Total Products: 3
 - [High-Performance Lawn Mowers & Grass Trimmers for Every Yard](https://www.thelawnmarket.com/collections/high-performance-lawn-mowers): Discover top-quality high-performance lawn mowers designed for every yard. Achieve professional results with eco-friendly, durable, and efficient equipment.
-  Updated: 2026-02-05T13:19:42Z
-  Total Products: 23
+  Updated: 2026-02-14T22:58:02Z
+  Total Products: 24
 - [Top-Rated Swimming Vaccum & Pool Products for Ultimate Comfort](https://www.thelawnmarket.com/collections/swimming-vacuum-top-products): Discover top-rated pool products, including the essential Swimming Vaccum, for ultimate comfort, cleanliness, and relaxation. Shop now for a pristine oasis.
   Updated: 2026-02-03T12:55:39Z
   Total Products: 2
 - [Expertly Curated Lawn Mowers for Professional Results – The LawnMarket](https://www.thelawnmarket.com/collections/expertly-curated-lawn-mowers): Discover premium lawn mowers designed for professional results. Durable, efficient, and easy to use for effortless lawn care and maintenance.
-  Updated: 2026-02-05T13:19:42Z
-  Total Products: 51
+  Updated: 2026-02-14T22:58:02Z
+  Total Products: 52
 - [Best-Rated Electronics for Top Performance & Innovation | LawnMarket](https://www.thelawnmarket.com/collections/best-rated-electronics-top-gear): Explore our collection of best-rated electronics, featuring top-performing, cutting-edge devices designed for reliability, innovation .
-  Updated: 2026-02-05T13:19:42Z
+  Updated: 2026-02-09T22:20:27Z
   Total Products: 36
 - [Shop Premium Kitchen Equipment & Cleaning Solutions Online](https://www.thelawnmarket.com/collections/premium-kitchen-appliances-spot): Shop premium kitchen equipment and cleaning solutions online to create a modern, efficient home. Discover innovative gadgets for a spotless, organized kitchen.
-  Updated: 2026-02-03T12:55:43Z
+  Updated: 2026-02-09T22:22:55Z
   Total Products: 22
 - [Office Hardware Essentials | Boost Productivity & Organization](https://www.thelawnmarket.com/collections/essential-hardware-office-tools): Discover top-quality office hardware essentials to boost productivity, stay organized, and enhance your workspace efficiency with reliable tools.
-  Updated: 2026-02-05T00:33:56Z
+  Updated: 2026-02-09T22:28:03Z
   Total Products: 17
 - [Luxury Bathroom Light Fixtures - Elegant & Durable Designs](https://www.thelawnmarket.com/collections/luxury-bathroom-fixtures): Discover premium bathroom light fixtures that blend style and functionality. Elevate your space with durable, luxury lighting solutions.
   Updated: 2026-02-03T12:55:45Z
@@ -1008,8 +1016,8 @@
   Updated: 2026-02-03T12:55:47Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.thelawnmarket.com/collections/avada-best-sellers)
-  Updated: 2026-02-05T13:19:42Z
-  Total Products: 139
+  Updated: 2026-02-14T22:58:02Z
+  Total Products: 140
 
 ## Blogs
 
@@ -1031,8 +1039,8 @@
 
 - [Contact Customer Service - The LawnMarket](https://www.thelawnmarket.com/pages/contact-customer-support): Welcome to Our Contact Customer Service Page – The Lawn Market Support Welcome to the official Contact Customer Service page for The Lawn Market — ...
   Updated: 2026-01-15T16:24:40Z
-- [Your Privacy Choices](https://www.thelawnmarket.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-20T23:37:10Z
+- [Your Privacy Choices - How to Privacy Opt Out | The LawnMarket](https://www.thelawnmarket.com/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-02-12T13:09:18Z
 - [Contact Policy - The LawnMarket](https://www.thelawnmarket.com/pages/contact-policy): Contact Information We're here to help! If you have questions about our lawn care and outdoor living products, your order, or anything else, please...
   Updated: 2025-12-02T17:45:25Z
 - [Return Request - Premium Lawn Equipment Returns | The LawnMarket.com](https://www.thelawnmarket.com/pages/returns-request): .returns-hero { background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); color: #fff; padding: 60px 20px; text-align: center; margin: -20px -...
