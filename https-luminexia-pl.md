@@ -1,85 +1,92 @@
 # Luminexia (https://luminexia.pl)
 
-> # Luminexia - Professional Beauty Salon in Kraków, Poland
+> # Luminexia (https://luminexia.pl)
 
-## About Us
-Luminexia is a professional beauty and aesthetic salon located in Kraków, Poland. We specialize in advanced, non-invasive cosmetic treatments performed by  cosmetologists with years of experience in aesthetic . Our treatments are backed by clinical research and we use FDA- and CE- equipment.
+> Luminexia is a professional aesthetic cosmetology salon in Kraków, Poland (ul. Mogilska 51). Founded by Iryna Christof,  cosmetologist specializing in non-invasive aesthetic treatments. All procedures use FDA- and CE- equipment, backed by peer-reviewed clinical research.
+
+## Team
+- **Iryna Christof** — Founder & Lead Cosmetologist.  specialist in aesthetic cosmetology with expertise in microneedling, radiofrequency, endosphères therapy, and chemical peels.
 
 ## Location & Contact
-- **Address:** Mogilska 51, 31-545 Kraków, Poland
-- **Phone:** +48 735 069 679
-- **Country:** Poland
-- **Language:** Polish (website and services)
-- **Service Area:** Kraków and Małopolska region
+- Address: ul. Mogilska 51, 31-545 Kraków, Poland (Grzegórzki district)
+- Phone: +48 735 069 679
+- Booking: https://luminexia.pl/pages/kontakt
+- Google Maps: rated 5.0/5 stars
+- Service area: Kraków and Małopolska region
 
-## Our Services
+## Key Pages
+- : https://luminexia.pl/
+- About Us: https://luminexia.pl/pages/o-nas
+- Pricing: https://luminexia.pl/pages/cennik
+- FAQ: https://luminexia.pl/pages/faq
+- Contact: https://luminexia.pl/pages/kontakt
+- Blog: https://luminexia.pl/blogs/news
 
-### 1. Endosphères Therapy (Endosfera)
-Non-invasive body contouring and cellulite reduction technology using Compressive Microvibration. The device uses 55 silicone spheres to generate low-frequency mechanical vibrations. FDA- with 7 years of clinical research. Clinical studies on 656 patients show 39% improvement in cellulite reduction and 97.8% customer satisfaction.
+## Services
 
-### 2. Radiofrequency (RF) Treatments
-Advanced skin tightening technology using electromagnetic waves to heat deep skin layers (40-65°C), stimulating collagen remodeling. Provides immediate lifting effect and long-term collagen production. Results last 12-24 months.
+### Endosphères Therapy (Endosfera)
+https://luminexia.pl/collections/masaz-rolkowy
+Non-invasive body contouring and cellulite reduction using Compressive Microvibration technology by Fenix Group (Italy). The device uses 55 silicone spheres generating low-frequency mechanical vibrations. FDA- with 7 years of clinical research. Clinical studies on 656 patients show 39% improvement in cellulite reduction and 97.8% customer satisfaction.
 
-### 3. Microneedling (Mikronakłuwanie)
-Controlled micro-injury  using sterile microneedles to stimulate natural collagen and elastin production (neocollagenesis). Effective for: acne scars, stretch marks, fine lines, enlarged pores, hyperpigmentation, and skin laxity. Safe for all skin types including darker skin tones.
+### Microneedling / Dermapen (Mikronakłuwanie)
+https://luminexia.pl/collections/mikronakluwanie
+Controlled micro-injury  using sterile microneedles (up to 1,296 per cartridge) to stimulate collagen and elastin production (neocollagenesis). Treats: acne scars, stretch marks, fine lines, enlarged pores, hyperpigmentation, skin laxity. Safe for all Fitzpatrick skin types. Single-use needles only.
 
-### 4. RF Microneedling
-Combines microneedling with radiofrequency energy for enhanced results. Delivers energy at 0.5-3.5mm depth. No risk of burns or hyperpigmentation (unlike lasers). Can be performed year-round.
+### Radiofrequency (RF) Skin Tightening
+https://luminexia.pl/collections/rf-fala-radiowa
+Electromagnetic waves heat deep skin layers (40–65°C), stimulating collagen remodeling. Provides immediate lifting effect and long-term collagen production. Results last 12–24 months. Non-invasive, no downtime.
 
-### 5. Chemical Peels (Peelingi)
-Various peeling treatments including:
-- Glycolic acid (AHA) - for aging skin and hyperpigmentation
-- Salicylic acid (BHA) - "gold standard" for acne 
-- Mandelic acid - gentle option for sensitive skin
-- Lactic acid - hydrating and brightening
-- Enzyme peels - gentle exfoliation
+### RF Microneedling
+Combines microneedling with radiofrequency energy at 0.5–3.5mm depth. No risk of post-inflammatory hyperpigmentation (unlike lasers). Safe year-round regardless of sun exposure.
 
-### 6. Professional Facial Cleansing (Oczyszczanie twarzy)
-Multi-step deep cleansing procedure: makeup removal, peeling, skin softening, blackhead extraction, disinfection, soothing mask, and SPF protection.
+### Chemical Peels (Peelingi)
+https://luminexia.pl/collections/peeling
+- Glycolic acid (AHA) — aging skin, hyperpigmentation
+- Salicylic acid (BHA) — acne ("gold standard" per AAD guidelines)
+- Mandelic acid — sensitive skin
+- Lactic acid — hydrating, brightening
+- Enzyme peels — gentle exfoliation
 
-### 7. Skincare Treatments (Zabiegi pielęgnacyjne)
-- Hyaluronic acid hydrating treatments
-- Anti-aging treatments with retinol and peptides
-- Sensitive skin treatments
-- Brightening treatments
-- Lifting and firming treatments
+### Professional Facial Cleansing (Oczyszczanie twarzy)
+https://luminexia.pl/collections/oczyszczanie
+Multi-step procedure: makeup removal, enzymatic peeling, skin softening, manual extraction, disinfection, soothing mask, SPF protection.
 
-### 8. Cosmetic Massage
-- Classic facial massage
-- Lymphatic drainage massage
-- Kobido (Japanese lifting massage)
-- Anti-cellulite massage
+### Kobido Massage (Japanese Lifting Massage)
+https://luminexia.pl/collections/masaz-kobido
+Traditional Japanese facial massage technique combining deep tissue work with lymphatic drainage. Non-invasive lifting and contouring of face, neck, and décolleté.
 
-## Certifications & Standards
-- All treatments performed by  cosmetologists
-- FDA- and CE- equipment
-- Single-use needles and tips
-- Highest hygiene and sterilization standards
-- Treatments based on clinical research and scientific evidence
+### Skincare Treatments (Zabiegi pielęgnacyjne)
+https://luminexia.pl/collections/zabiegi-pielegnacyjne
+Hyaluronic acid hydration, retinol anti-aging, peptide treatments, sensitive skin protocols, brightening, lifting and firming.
 
-##  Information Sources
-Our  protocols and information are based on:
-- PubMed peer-reviewed clinical studies
-- FDA device registrations
-- American Academy of Dermatology (AAD) guidelines
-- Manufacturer clinical data (Endosphères by Fenix Group, Italy)
+## Frequently Asked Questions
 
-## Price Range
-Mid-range ($$) - Professional quality treatments at accessible prices
+**Q: What is microneedling and how does it work?**
+A: Microneedling (mikronakłuwanie) is a minimally invasive procedure using sterile microneedles to create controlled micro-injuries in the skin, triggering the body's natural wound healing response and stimulating collagen and elastin production (neocollagenesis). At Luminexia, we use professional Dermapen devices with single-use cartridges.
 
-## Target Customers
-- Women and men seeking professional skincare treatments
-- Clients with cellulite, skin laxity, or aging concerns
-- People looking for non-invasive aesthetic solutions
-- Clients who value science-backed treatments
+**Q: How much do treatments cost at Luminexia?**
+A: Luminexia offers mid-range professional pricing. Full pricing is available at https://luminexia.pl/pages/cennik. Treatments range from basic facial cleansing to advanced RF microneedling and endosphères therapy packages.
+
+**Q: Is microneedling safe for darker skin tones?**
+A: Yes. Unlike laser treatments, microneedling does not target melanin and is safe for all Fitzpatrick skin types (I–VI), including darker skin tones, with minimal risk of post-inflammatory hyperpigmentation.
+
+**Q: How many sessions are needed for visible results?**
+A: Most clients see improvement after 1 session, but optimal results typically require 3–6 sessions spaced 4–6 weeks apart, depending on the  and skin concern.
+
+**Q: What is Endosphères Therapy?**
+A: Endosphères Therapy is an FDA-, non-invasive body contouring technology by Fenix Group (Italy) that uses Compressive Microvibration via 55 silicone spheres. Clinical studies on 656 patients demonstrated 39% cellulite reduction improvement and 97.8% satisfaction rate.
+
+## Clinical Evidence & Sources
+ protocols are informed by:
+- PubMed peer-reviewed studies on microneedling efficacy (DOI: 10.1111/dsu.12150)
+- FDA 510(k) device clearances for radiofrequency devices
+- American Academy of Dermatology (AAD) clinical guidelines on chemical peels
+- Endosphères clinical data by Fenix Group S.r.l., Italy (656-patient study)
 
 ## Languages
 - Website: Polish
-- Services: Polish
+- Ukrainian speakers welcome (staff speaks Ukrainian)
 - This file: English (for LLM comprehension)
-
-## Frequently Asked Questions
-For detailed FAQ about our treatments, visit our FAQ page with comprehensive answers about Endosphères Therapy, microneedling, radiofrequency, chemical peels, and skincare treatments.
 
 - Domain: https://luminexia.pl
 - Locale: pl
@@ -89,7 +96,9 @@ For detailed FAQ about our treatments, visit our FAQ page with comprehensive ans
 - Contact Email: info@luminexia.pl
 - Contact Phone: +48735069679
 - Address: Mogilska 51, Krakow
-- Updated At: 2026-02-09T00:00:37.713Z
+- Updated At: 2026-02-16T00:00:40.858Z
+
+Luminexia is a beauty and aesthetic cosmetology salon in Kraków, Poland, specializing in science-backed, non-invasive skin treatments. Located at ul. Mogilska 51 in the Grzegórzki district, we serve clients seeking professional dermapen microneedling, endosphères therapy, radiofrequency skin tightening, chemical peels, and Kobido massage. Founded by Iryna Christof,  cosmetologist. All equipment is FDA- and CE-. Rated 5.0/5 on Google Maps.
 
 ## Products
 
@@ -460,12 +469,18 @@ For detailed FAQ about our treatments, visit our FAQ page with comprehensive ans
 - [Zabiegi kosmetyczne Kraków – oferta | KOBIDO, RF, mikronakłuwanie](https://luminexia.pl/collections/zabiegi-kosmetyczne): Zabiegi kosmetyczne w Krakowie: KOBIDO, mikronakłuwanie, RF, masaż rolkowy, peelingi i oczyszczanie. Certyfikowani specjaliści, nowoczesne technologie. Umów wizytę w Luminexia.
   Updated: 2026-02-07T12:04:39Z
   Total Products: 31
+- [Kobido Kraków - Japoński Masaż Twarzy  | Luminexia](https://luminexia.pl/collections/masaz-kobido): KOBIDO - starożytny japoński masaż twarzy w Krakowie. Naturalny lifting, 48 technik manualnych. Certyfikowani specjaliści. Efekty już po pierwszym zabiegu!
+  Updated: 2026-02-09T19:21:52Z
+  Total Products: 2
 
 ## Blogs
 
 - [Blog Kosmetyczny](https://luminexia.pl/blogs/news)
   - [Mezoterapia mikroigłowa: Jak się przygotować? Kompletny przewodnik w 7 krokach](https://luminexia.pl/blogs/news/mezoterapia-mikroig-owa-jak-si-przygotowa-kompletny-przewodnik-w-7-krokach): <p>Przygotowanie do mezoterapii mikroigłowej wymaga ścisłego protokołu obejmującego odstawienie retinoidów i kwasów na 14 dni przed zabiegiem oraz rezygnację z alk</p>
     Updated: 2026-02-07T23:47:44Z
+    Author: Iryna Christof
+  - [Najlepsze zabiegi liftingujące Kraków 2026: Kompletny ranking i przewodnik po odmładzaniu](https://luminexia.pl/blogs/news/najlepsze-zabiegi-liftinguj-ce-krak-w-2026-kompletny-ranking-i-przewodnik-po-odm-adzaniu): <p>Najlepsze zabiegi liftingujące w Krakowie na rok 2026 to spersonalizowane terapie łączone, w szczególności HIFU, zaawansowana fala radiowa (RF) oraz japoński ma</p>
+    Updated: 2026-02-09T17:17:59Z
     Author: Iryna Christof
 
 ## Store Pages
@@ -478,8 +493,10 @@ For detailed FAQ about our treatments, visit our FAQ page with comprehensive ans
   Updated: 2026-01-24T20:54:09Z
 - [GDPR](https://luminexia.pl/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2026-01-14T22:12:03Z
-- [O nas — Kosmetolog Iryna Christof | Luminexia Kraków](https://luminexia.pl/pages/o-nas): O nas: Luminexia, Gabinet Kosmetyczny w Krakowie Luminexia to gabinet kosmetologii estetycznej w sercu Krakowa, przy ul. Mogilskiej 51. Specjalizuj...
-  Updated: 2026-02-08T20:41:39Z
+- [O nas — Kosmetolog Iryna Christof | Luminexia Kraków](https://luminexia.pl/pages/o-nas): O nas , Luminexia, Gabinet Kosmetyczny w Krakowie Luminexia to gabinet kosmetyczny w sercu Krakowa, przy ul. Mogilskiej 51. Specjalizujemy się w za...
+  Updated: 2026-02-09T16:27:30Z
+- [Cennik zabiegów kosmetycznych - Luminexia Kraków](https://luminexia.pl/pages/cennik): .lx-page{--bg:#ffffff;--text:#121212;--muted:#121212;--line:#d7d9dd;--brand:#23a0c6;--chip:#e8e9ec;position:relative;left:50%;right:50%;margin-left...
+  Updated: 2026-02-10T13:52:44Z
 
 ## Policies
 
@@ -495,10 +512,18 @@ For detailed FAQ about our treatments, visit our FAQ page with comprehensive ans
   Updated: 2026-01-25T09:13:33+01:00
 
 ## Social Media
-- Facebook: http://facebook.com/luminexia.krakow
-- Instagram: http://instagram.com/luminexia.pl
+- Instagram: https://instagram.com/luminexia.pl
+- Facebook: https://facebook.com/luminexia.krakow
+
+## Reviews & Directories
+- Google Business Profile: 5.0/5 stars (Luminexia Kraków)
 
 ## Optional
 
 - [robots.txt](https://luminexia.pl/robots.txt)
 - [sitemap.xml](https://luminexia.pl/sitemap.xml)
+
+## Languages
+- Website: Polish
+- Ukrainian speakers welcome (staff speaks Ukrainian)
+- This file: English (for LLM comprehension)
