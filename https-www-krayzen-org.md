@@ -5,24 +5,31 @@
 - Currency: SEK
 - Timezone: Europe/Stockholm
 - Created At: 2026-01-12T15:34:12Z
-- Updated At: 2026-02-06T00:00:35.741Z
+- Updated At: 2026-02-16T00:00:40.325Z
 
 ## Products
 
 - [Stainless Steel Necklace](https://www.krayzen.org/products/stainless-steel-necklace): A sleek silver Cuban link chain with a clean, polished finish. It has a solid, classic weight that sits flat on the neck, giving a minimal but confident look that works well on its own or layered. The length is 55cm.
-  Updated: 2026-01-31T10:43:41Z
+  Updated: 2026-02-15T09:56:34Z
   Vendor: Krayzen 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9739/3270/files/IMG_4166_eb85f7a4-0789-49d3-8c9f-391c34065167.jpg?v=1768240645
-  Price: kr 150.00 SEK
+  Price: kr 175.00 SEK
 - [Stainless Steel Bracelet](https://www.krayzen.org/products/stainless-steel-bracelet): This sleek stainless steel bracelet combines durability with modern style. Measuring 18 cm in length, it comes with an additional 5 cm extension, allowing you to easily adjust the size for a comfortable fit. Its polished finish gives it a sophisticated look, making it perfect for both everyday wear and special occasions.
-  Updated: 2026-01-31T10:43:31Z
+  Updated: 2026-02-10T08:04:45Z
   Vendor: Krayzen 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9739/3270/files/IMG-4153.heic?v=1768244922
   Price: kr 150.00 SEK
+- [Stainless Steel 6 Set Clear Stone Stud Earrings](https://www.krayzen.org/products/stainless-steel-6-set-clear-stone-stud-earrings): Set of six pairs of stud earrings made from durable stainless steel, each featuring a clear, faceted stone. The set includes different sizes, making it easy to mix and match for everyday wear or special occasions. Tarnish-resistant, easy to maintain, and comfortable to wear. A versatile jewelry set suitable for both men and women.
+  Updated: 2026-02-11T07:13:27Z
+  Vendor: Krayzen 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/9739/3270/files/2FB119B7-2785-4E6C-A28E-8C927B5EBA2C.png?v=1770739265
+  Price: kr 129.00 SEK
 
 ## Collections
 
@@ -33,8 +40,8 @@
   Updated: 2026-01-27T07:14:38Z
   Total Products: 0
 - [Our jewellery’s](https://www.krayzen.org/collections/our-jewellery-s)
-  Updated: 2026-01-27T07:14:38Z
-  Total Products: 2
+  Updated: 2026-02-15T09:56:35Z
+  Total Products: 3
 
 ## Store Pages
 
