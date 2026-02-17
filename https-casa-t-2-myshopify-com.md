@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-01-01T19:35:07Z
 - Contact Email: casatekitty98@gmail.com
-- Updated At: 2026-02-10T00:00:38.690Z
+- Updated At: 2026-02-17T00:00:41.261Z
 
 ## Products
 
@@ -38,12 +38,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Gemini_Generated_Image_xbzlicxbzlicxbzl_png.jpg?v=1769894409
   Price: 10.200,00 $ COP
+- [Blush Gelatina Llavero - Rubor con Destellos y Aroma Frutal | CASA.T](https://casa-t-2.myshopify.com/products/blush-gelatina-rubor-de-llavero-con-destellos-y-aroma-frutal): Blush en formato llavero con textura gelatinosa, destellos brillantes y aroma frutal. Portátil, fácil de difuminar, color natural. Perfecto para llevar contigo. CASA.T Colombia.
+  Updated: 2026-02-16T22:29:52Z
+  Vendor: CASA.T
+  Product Type: Maquillaje - Rostro
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Blush_1.png?v=1771280905
+  Price: 3000,00 $ COP
+- [Lip Gloss Cápsula - Efecto Water Gloss Aplicador Grueso | CASA.T](https://casa-t-2.myshopify.com/products/lip-gloss-capsula-efecto-water-gloss-con-aplicador-grueso): Brillo labial en formato cápsula con efecto water gloss ultra brillante. Aplicador grueso, textura no pegajosa, hidratación profunda. Acabado jugoso y voluminizador. CASA.T Colombia.
+  Updated: 2026-02-16T23:04:36Z
+  Vendor: CASA.T
+  Product Type: Maquillaje - Labios
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/LipGloss1.png?v=1771281634
+  Price: 5200,00 $ COP
+- [Lip Glaze Oso - Labial Tinta Hidratante 6 Tonos Larga Duración | CASA.T](https://casa-t-2.myshopify.com/products/lip-glaze-oso-labial-tinta-de-larga-duracion-6-tonos): Labial tinta Lip Glaze Oso con textura suave, hidratación profunda y color de larga duración. 6 tonos diferentes, diseño adorable. No reseca los labios. CASA.T Colombia.
+  Updated: 2026-02-16T23:17:45Z
+  Vendor: CASA.T
+  Product Type: Maquillaje - Labios
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Lip_Glaze_2.png?v=1771283661
+  Price: 6000,00 $ COP
+- [Gloss con Llavero - Lip Gloss Portátil Incorporado | CASA.T](https://casa-t-2.myshopify.com/products/gloss-con-llavero-lip-gloss-portatil-incorporado): Brillo labial con llavero incorporado, diseño lindo y compacto. Llévalo siempre contigo en tus llaves. Hidratación y brillo en formato portátil. CASA.T Colombia.
+  Updated: 2026-02-16T23:55:28Z
+  Vendor: CASA.T
+  Product Type: Maquillaje - Labios
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Gloss1.png?v=1771285642
+  Price: 11.500,00 $ COP
 
 ## Collections
 
 - [Página de inicio](https://casa-t-2.myshopify.com/collections/frontpage)
-  Updated: 2026-01-31T17:32:57Z
-  Total Products: 3
+  Updated: 2026-02-16T22:29:45Z
+  Total Products: 4
 - [Productos de ejemplo de Belleza](https://casa-t-2.myshopify.com/collections/beauty-example-products)
   Updated: 2026-01-04T03:52:56Z
   Total Products: 0
