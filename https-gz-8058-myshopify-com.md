@@ -6,7 +6,7 @@
 - Timezone: Europe/Belgrade
 - Created At: 2026-01-26T22:02:57Z
 - Contact Email: landritxhelili17@gmail.com
-- Updated At: 2026-02-10T00:00:28.428Z
+- Updated At: 2026-02-17T00:00:35.318Z
 
 ## Products
 
@@ -2663,7 +2663,7 @@
     Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/6590f6ea98ca41809b0e0666d69a7a73.webp?v=1770594890
     Price: €24.99 EUR
 - [Portable Rechargeable LED Camping Light with Hook Dimmable Tent Lantern USB Charging Outdoor Emergency Multifunctional LED Lamp](https://gz-8058.myshopify.com/products/portable-rechargeable-led-camping-light-with-hook-dimmable-tent-lantern-usb-charging-outdoor-emergency-multifunctional-led-lamp): Widely used white light, bright light for outdoor activities, with adjustable decorative LED chandelier! Make it a light for your terrace/garden/terrace/porch/garden/barbecue or birthday party, and update your outdoor environment. Easy to carry The flashlight with dimmable led light will follow you without having to carry batteries everywhere, which is a great comfort. USB charging charging within 2-5 hours via USB can provide incredible 3-8 hours of light. It can be charged at any time as needed and enjoy its enlightening lighting for a long time. Specification Material: ABSCharging: USB charging (USB cable included)Light color: White light
-  Updated: 2026-02-09T17:29:12Z
+  Updated: 2026-02-10T09:06:49Z
   Vendor: GZ
   Product Type: 
   Availability: Available
@@ -2737,11 +2737,11 @@
     Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/7f95dc4d3f544363aa5dce64393e4b6c.webp?v=1770594900
     Price: €28.99 EUR
 - [LED Motion Sensor Light Wireless LED Night Light Type C Rechargeable Light Cabinet Wardrobe Lamp Staircase Backlight For Kitchen](https://gz-8058.myshopify.com/products/led-motion-sensor-light-wireless-led-night-light-type-c-rechargeable-light-cabinet-wardrobe-lamp-staircase-backlight-for-kitchen): Please note: Do not use high wattage mobile phone fast charging heads. This product is limited to input voltage: 5V, input current: 1-2A，Please strictly follow the safe input voltage and current when using. Avoid causing damage to the circuit board, battery, or even combustion ※※※Precautions before use: 1. There is protective film on the lampshade, not scratches. Remember to remove it before use. 2. Please use the original charging cable when charging. 3. The induction mode has a light sensing function. If it works in too bright an environment, it won't work very well. 4、Please check the model you purchased before making a purchase.（The functions of monochrome and tricolor versions are different. Please refer to the operating instructions for details） Regarding the button description for the 3-colorModel: 1、Click: Switch color temperature，And activate the sensing mode (please use in low light environments) 2、Long press: Flashing open constant light mode Cold White/Warm White button operation guide: Click once: Turn on the lighting fixture Click twice: Turn on the night sensor function (for use in low light environments) Third click: Turn on all day sensing mode (available day and night) Fourth click: Turn off the light fixture Long press: Adjust brightness (3color does not have this function)
-  Updated: 2026-02-09T00:04:14Z
+  Updated: 2026-02-16T20:43:20Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/d5609b5b52d14bb8b380a4e3deed6226.webp?v=1770594902
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/0cc7ea13a5e249a5a1064999b11adf7e_5f316fdf-8a37-4f12-8bfd-703e94038b4e.webp?v=1771231397
   - [Warm White Light / 50CM](https://gz-8058.myshopify.com/products/led-motion-sensor-light-wireless-led-night-light-type-c-rechargeable-light-cabinet-wardrobe-lamp-staircase-backlight-for-kitchen?variant=48382695047397)
     Availability: Available
     Price: €15.99 EUR
@@ -2882,22 +2882,19 @@
     Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/cf0e5d741a794d2bb1124da9fcea8fb4.webp?v=1770594911
     Price: €29.99 EUR
 - [Total 120W 4-Port USB  Type C Fast  Wall Adapter for  Quick Charge Mobile Phone](https://gz-8058.myshopify.com/products/total-120w-4-port-usb-type-c-fast-wall-adapter-for-quick-charge-mobile-phone): 4 Port USB Charger Total 120W Type C Fast Charge Mobile Phone Adapter For iPhone Samsung Xiaomi Huawei Quick Charge Wall Charger Description: 1.Fully charging with safety usage, protection against over charging, over currents and over heating. 2.Fireproof materials, offering the superior safety for you and your device. 3.Safe and durable: this USB charger is designed with rugged outer shell, not easy to break. 4.Travel friendly: with global voltage compatibility, compact portable design, you can charge wherever you want. Specification: Type: Phone charger Power: 120W(2USB+2PD) Color: Yellow,White,Black Charger Plug: EU plug,US Plug,UK Plug Package included: 1* USB PD charger.
-  Updated: 2026-02-09T11:55:19Z
+  Updated: 2026-02-16T20:28:17Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/31f252b718d14efd95700f7472bed6a9.webp?v=1770594913
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/19fd0c5391f641c3b9248761c54e92cd.webp?v=1771273647
   - [US Plug Yellow](https://gz-8058.myshopify.com/products/total-120w-4-port-usb-type-c-fast-wall-adapter-for-quick-charge-mobile-phone?variant=48382696784101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/68e623fc92dd41b9991086ac0be14134.webp?v=1770594914
     Price: €15.99 EUR
   - [EU Plug Yellow](https://gz-8058.myshopify.com/products/total-120w-4-port-usb-type-c-fast-wall-adapter-for-quick-charge-mobile-phone?variant=48382696816869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/ec820da5a48a4d16a91150247c7dd400.webp?v=1770594914
     Price: €15.99 EUR
   - [1M 6A Cable](https://gz-8058.myshopify.com/products/total-120w-4-port-usb-type-c-fast-wall-adapter-for-quick-charge-mobile-phone?variant=48382696849637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/de7847d28a3d4e2fb660a611dab6bc74.webp?v=1770594914
     Price: €12.99 EUR
 - [120W Total Fast Charging PD USB Type-C Wall Adapter Quick Charger for iPhone 16/15/14 Xiaomi Huawei Redmi Oneplus Phone Charger](https://gz-8058.myshopify.com/products/120w-total-fast-charging-pd-usb-type-c-wall-adapter-quick-charger-for-iphone-16-15-14-xiaomi-huawei-redmi-oneplus-phone-charger): Introducing our Total 120W Fast Charger Muti 4 Ports USB Type C Quick Charge 3.0 Mobile Phone Wall Adapter, the perfect solution for all your phone charging needs. With 2 USB A Ports and 2 USB C Ports, you can charge multiple devices at once, making it the ultimate charging station for your home or office.With Fast Charging technology, our charger delivers quick and efficient charging, ensuring that your devices are fully charged in no time. With a total power output of 120W, this charger is compatible with a wide range of devices, including iPhone 15, Samsung, Xiaomi, and more.Our charger comes with both EU and US plugs, making it perfect for travel and international use. The sleek and compact design makes it easy to carry with you wherever you go.In summary, our Total 120W Fast Charger Muti 4 Ports USB Type C Quick Charge 3.0 Mobile Phone Wall Adapter is a high-quality and reliable solution for all your charging needs. With Fast Charging technology, a total power output of 120W, and compatibility with a wide range of devices, this charger is the ultimate accessory for your phone. Order now and enjoy the convenience of fast and efficient charging!
   Updated: 2026-02-09T11:55:20Z
@@ -2926,7 +2923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/55505113124f4ddab844b87b91565a58.webp?v=1770594919
   Price: €19.99 EUR
 - [Fashion Soft Knitted Neck Warmer Sport Scarf Women Men Face Cover Winter Skating Running Warm Scarves Thick Cold-proof Collar](https://gz-8058.myshopify.com/products/fashion-soft-knitted-neck-warmer-sport-scarf-women-men-face-cover-winter-skating-running-warm-scarves-thick-cold-proof-collar): Gender: Women MenType: ScarfMaterial: Polyester fibreSize: as picture showsStyle: Fashion, TrendPackage Included: 1 * ScarfNote: 1.There is 2-3% difference according to manual measurement. Please check the size carefully before you buy the item. 2.Please note that slight color difference should be acceptable due to the light and screen. 3.( Unit Conversion:1 inch = 2.54 cm,1 cm = 0.39 inch ).
-  Updated: 2026-02-09T15:48:44Z
+  Updated: 2026-02-10T03:08:57Z
   Vendor: GZ
   Product Type: 
   Availability: Available
@@ -3029,49 +3026,39 @@
   Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/101599e72305453896a7ae7f9be09f15.webp?v=1770594925
   Price: €16.99 EUR
 - [ZAKOL 15cm Fluffy Rabbit Fur Pompon Bunny Keychain Soft Cute Rabbit Toy Key Chain Bag Decoration Accessories Gift for Girls](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls)
-  Updated: 2026-02-09T11:55:38Z
+  Updated: 2026-02-16T19:01:22Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/d992443e7ef64b488954c63cf5572b90.webp?v=1770594928
   - [Khaki](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698488037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/4a023cb247034b0caa1655425cdc6df4.webp?v=1770594929
     Price: €14.99 EUR
   - [Pink A](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698520805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/a7beecba9a414dd18bc73c5c240b2d4e.webp?v=1770594929
     Price: €15.99 EUR
   - [Pink small version](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698553573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/c6c338e2ee794f1a88c98b5d90c1c5d2.webp?v=1770594929
     Price: €15.99 EUR
   - [Grey small version](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698586341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/2b0725d2d16b46b8b3be90225695cd18.webp?v=1770594929
     Price: €15.99 EUR
   - [White small version](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698619109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/2efc376c28cc488bbfaf9580a81462ff.webp?v=1770594929
     Price: €15.99 EUR
   - [Dark gray](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698651877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/42d7cb611a76438d9586dc6dbe523788.webp?v=1770594929
     Price: €15.99 EUR
   - [Green](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698684645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/7681231a741c4ddf8acedd9cad84097d.webp?v=1770594929
     Price: €15.99 EUR
   - [Off-white](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698717413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/cecb818fd8cf4c6a83ebf92f5b39a455.webp?v=1770594929
     Price: €14.99 EUR
   - [Pink B](https://gz-8058.myshopify.com/products/zakol-15cm-fluffy-rabbit-fur-pompon-bunny-keychain-soft-cute-rabbit-toy-key-chain-bag-decoration-accessories-gift-for-girls?variant=48382698750181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/19ec26b7e7394abab67da372e6788851.webp?v=1770594929
     Price: €15.99 EUR
 - [Transparent Storage Container Jewelry Box Clear Plastic Organizer Box Empty Earring Storage Organizer Display Case for Beads](https://gz-8058.myshopify.com/products/transparent-storage-container-jewelry-box-clear-plastic-organizer-box-empty-earring-storage-organizer-display-case-for-beads): HIGH-QUALITY MATERIAL Made of transparent and environmentally friendly pp plastic, high quality, strong, and durable. Our products have been strictly inspected. In order for you to enjoy a high-quality shopping experience DIFFERENT SIZES There are more than 7 styles storage boxes for you to choose,different sizes can meet your different needs. EASY TO USE Easy to store and manage Small accessories, earrings, rings, necklaces, string, beads; hooks, lures; alphabet board alphabet DIY crafts, nails, nuts and bolts, etc. VARIOUS USES Very suitable for storing diamonds, seeds, beads, nail rhinestones, pills, earrings studs, rings and other small items. Packaging step
-  Updated: 2026-02-08T23:58:09Z
+  Updated: 2026-02-10T00:43:19Z
   Vendor: GZ
   Product Type: 
   Availability: Available
@@ -3193,7 +3180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/d65a0538311c4d10bf7689420e56afc8.webp?v=1770594937
     Price: €12.99 EUR
 - [Transparent Storage Container Jewelry Box Clear Plastic Organizer Box Empty Earring Storage Organizer Display Case for Beads](https://gz-8058.myshopify.com/products/transparent-storage-container-jewelry-box-clear-plastic-organizer-box-empty-earring-storage-organizer-display-case-for-beads-1): HIGH-QUALITY MATERIAL Made of transparent and environmentally friendly pp plastic, high quality, strong, and durable. Our products have been strictly inspected. In order for you to enjoy a high-quality shopping experience DIFFERENT SIZES There are more than 7 styles storage boxes for you to choose,different sizes can meet your different needs. EASY TO USE Easy to store and manage Small accessories, earrings, rings, necklaces, string, beads; hooks, lures; alphabet board alphabet DIY crafts, nails, nuts and bolts, etc. VARIOUS USES Very suitable for storing diamonds, seeds, beads, nail rhinestones, pills, earrings studs, rings and other small items. Packaging step
-  Updated: 2026-02-09T00:04:01Z
+  Updated: 2026-02-10T05:16:02Z
   Vendor: GZ
   Product Type: 
   Availability: Available
@@ -3226,22 +3213,19 @@
     Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/9cd2fcdcb4534b83ab24562fc8553fdc.webp?v=1770594941
     Price: €55.99 EUR
 - [1pcs Single Layer Storage Box Ladies Travel Leather Jewelry Box Classic Black Pure White Fashion Pink Storage Box](https://gz-8058.myshopify.com/products/1pcs-single-layer-storage-box-ladies-travel-leather-jewelry-box-classic-black-pure-white-fashion-pink-storage-box): • Single Layer Design :The single layer design of this storage box makes it easy to organize and access your jewelry. • Leather Material :Made from high-quality leather, this storage box is durable and adds a touch of elegance to your jewelry collection. • Travel-Friendly :This storage box is compact and lightweight, making it perfect for traveling and keeping your jewelry safe and secure. • Classic Black and Pure White Options :Choose between classic black or pure white options to match your personal style and preferences. Product Description: Name: Single layer zipper box Color: black, pink, white Size: 10cm * 10cm * 5cm Material: PU leather, hardware zipper Weight： 105g (error about 5 gram) Package: OPP Bag Cautions： Waterproof Do not wear in the shower
-  Updated: 2026-02-09T12:04:14Z
+  Updated: 2026-02-10T15:47:38Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/15e210c005c44a269bba7f601dcb0885.webp?v=1770595420
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/e060cc4876bf47a5beeb03ae0449f6fe.webp?v=1770685232
   - [Pink](https://gz-8058.myshopify.com/products/1pcs-single-layer-storage-box-ladies-travel-leather-jewelry-box-classic-black-pure-white-fashion-pink-storage-box?variant=48382709825765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/9d9809710c244f48a5a403158da589d2.webp?v=1770595421
     Price: €14.99 EUR
   - [Black](https://gz-8058.myshopify.com/products/1pcs-single-layer-storage-box-ladies-travel-leather-jewelry-box-classic-black-pure-white-fashion-pink-storage-box?variant=48382709858533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/aae3221cfe0f43e594480bbb1250c8d4.webp?v=1770595421
     Price: €14.99 EUR
   - [White](https://gz-8058.myshopify.com/products/1pcs-single-layer-storage-box-ladies-travel-leather-jewelry-box-classic-black-pure-white-fashion-pink-storage-box?variant=48382709891301)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/76796c355eef4f45a272e35279e91662.webp?v=1770595421
     Price: €15.99 EUR
 - [100pcs PVD Never Fade Stainless Steel Open Jump Rings 4/5/6/8/10mm Split Rings Connectors Necklace Bracelet Jewelry Accessories](https://gz-8058.myshopify.com/products/100pcs-pvd-never-fade-stainless-steel-open-jump-rings-4-5-6-8-10mm-split-rings-connectors-necklace-bracelet-jewelry-accessories)
   Updated: 2026-02-09T12:04:31Z
