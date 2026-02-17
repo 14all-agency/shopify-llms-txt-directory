@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T18:22:08Z
 - Contact Email: support@maisonoudco.ca
-- Updated At: 2026-02-10T00:00:34.015Z
+- Updated At: 2026-02-17T00:00:36.149Z
 
 ## Products
 
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG_2272.png?v=1767473961
   Price: $125.00 CAD
 - [Arabiyat Sugar Toffee Ganache EDP 100ml | Vanilla Coffee](https://maisonoudco.ca/products/arabiyat-sugar-toffee-ganache-edp-100-ml-unisex-gourmand-vanilla-butter-coffee-note): Arabiyat Sugar Toffee Ganache EDP 100ml. Unisex gourmand fragrance with vanilla, butter & coffee notes. Authentic luxury perfume.
-  Updated: 2026-01-20T21:56:57Z
+  Updated: 2026-02-15T22:22:20Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -120,7 +120,7 @@
   Updated: 2026-01-20T21:56:55Z
   Total Products: 0
 - [Arabiyat Sugar Perfume | Sweet Gourmand Long-Lasting Fragrance!! Shop.](https://maisonoudco.ca/collections/arabiyat-sugar): Discover Arabiyat Sugar perfume, a sweet gourmand fragrance with warm, creamy notes. Long-lasting and elegant scent ideal for daily wear or special occasions.
-  Updated: 2026-01-27T04:39:58Z
+  Updated: 2026-02-16T12:20:44Z
   Total Products: 4
 
 ## Blogs
