@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-02-05T21:06:54Z
 - Contact Email: hossambanlbaradwya@gmail.com
-- Updated At: 2026-02-09T16:38:58.369Z
+- Updated At: 2026-02-17T00:00:29.164Z
 
 Amazon 
 
@@ -1397,7 +1397,7 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/s6v4dYyQdRDKg5Ad_5a010f7b-78be-4da3-bf0c-b3a8782ff9c9.webp?v=1770406805
     Price: €0.00 EUR
 - [Dell Inspiron 15.6-inch Full HD Touch-Screen Intel i5-1035G1 12GB 256GB SSD Win 10 Laptop](https://amazon-global-store-2.myshopify.com/products/dell-inspiron-15-6-inch-full-hd-touch-screen-intel-i5-1035g1-12gb-256gb-ssd-win-10-laptop): ?Achieve more on the go with the slim and powerful laptop from Dell. The Dell Inspiron laptop is equipped with a powerful 10th Gen Intel Core i5-1035G1 Quad-Core Processor 12GB RAM and 256GB SSD. Fast and efficient this portable device sports a 15.6-inch Full HD LED touch screen display.
-  Updated: 2026-02-08T00:56:47Z
+  Updated: 2026-02-09T17:27:55Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -1894,7 +1894,7 @@ Amazon
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/yGYfdkbtnj6mo8uT.webp?v=1770590363
   Price: €128.00 EUR
 - [HP Series 5 524sh Monitor (Replaces M24h) 24" FHD IPS 300 Nits Display w/Docztorm USB Port Expander 1x HDMI 1x VGA Flicker-Free -5 to +25 Degrees Adjustable Tilt Black/Silver (2024 Latest Model)](https://amazon-global-store-2.myshopify.com/products/hp-series-5-524sh-monitor-replaces-m24h-24-fhd-ips-300-nits-display-w-docztorm-usb-port-expander-1x-hdmi-1x-vga-flicker-free-5-to-25-degrees-adjustable-tilt-black-silver-2024-latest-model): HP Series 5 524sh Monitor 94C19AA#ABA Bundle with Docztorm Dock IPS Technology View every angle of every visual with IPS Technology amazing depth and clarity through the stunning 1500:1 contrast ratio and ultra-wide viewing angles. 100Hz Refresh Rate With a 100 Hz refresh rate this monitor is capable of clearer details smoothly moving from frame to frame allowing for faster split-second reaction time. Specifications Table Display size: (24") Aspect ratio: 16:9 Response time: 5ms GtG (with overdrive) Contrast ratio: 1500:1 Pixel Pitch: 0.28x0.28mm Pixel Per Inch: 93 Color Support: 16.7M Product color: Black Webcam: No Height Adjustment: 100 mm Bezel: 3-sided micro-edge Resolution (maximum): FHD IPS (1920x1080 @ 100Hz) Resolutions supported: 640 x 480; 720 x 400; 800 x 600; 1024 x 768; 1280 x 720; 1280 x 800; 1280 x 1024; 1440 x 900; 1600 x 900; 1680 x 1050; 1920 x 1080 Backlight type: Edge-lit Vertical and Horizontal viewing angle: 178 degree Display features: On-screen controls; Anti-glare; Height adjustable; HP Eye Ease Onscreen controls: Management; Information; Exit; Input; Color; Image; Power; Menu; Brightness+ Port and Connectors: 1x HDMI 1.4 1x VGA HDCP: Yes Management software: HP Display Center Whats in the box: Monitor; HDMI cable; Power adapter; AC power cord; Document kit Dimensions (WxDxH): 21.09 x 7.96 x 18.1 in Weight: 7.61 lb Docztorm: Includes Docztorm USB HUB (Special Edition Portable Docztorm Data Hub; Super Speedy Data Sync Rate upto 5Gbps)
-  Updated: 2026-02-09T10:49:19Z
+  Updated: 2026-02-09T17:27:04Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -1955,14 +1955,14 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/yNlfIYu6pQNjx3RS.webp?v=1770591087
     Price: €251.92 EUR
 - [Nike Mens Gymnastics Shoes Sneaker White Black White 6](https://amazon-global-store-2.myshopify.com/products/nike-mens-gymnastics-shoes-sneaker-white-black-white-6): DescriptionThe shoe features a white leather atom and green overlays with matching sole while swoosh tongue and heel are in black.
-  Updated: 2026-02-09T10:53:06Z
+  Updated: 2026-02-09T17:26:38Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/6khv9wgaeeKjKSC7.webp?v=1770591182
   Price: €390.24 EUR
 - [Men’s Don’t mess with the tide hoodies: Wild Tides: Eco-Adventure Sweatshirt](https://amazon-global-store-2.myshopify.com/products/men-s-don-t-mess-with-the-tide-hoodies-wild-tides-eco-adventure-sweatshirt): Meet the premium eco hoodie made of organic and recycled materials. With its comfortable fit, front pouch pocket, and double-layered hood, the hoodie is a classic streetwear piece that can be styled with multiple different looks. • 85% organic cotton, 15% recycled polyester • Ribbing: 97% organic cotton, 3% elastane • Brushed fleece fabric inside • Comfortable unisex fit • Double-layered hood • Flat drawcords with metal eyelets for a premium feel • Kangaroo pocket • Inside/outside label patch for branding • Tear-away care label Size guide
-  Updated: 2026-02-09T10:56:04Z
+  Updated: 2026-02-09T17:26:19Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2000,7 +2000,7 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/AbmNnmu4veiAcnh.webp?v=1770591508
     Price: €286.84 EUR
 - [HP Z240 Workstation SFF Desktop PC Intel Core i5-6500 Upto 3.60GHz 16GB RAM 1TB SSD AMD Radeon HD 8570 1GB 4K DisplayPort HDMI DVI AC Wi-Fi Bluetooth - Windows 10 Pro (Renewed)](https://amazon-global-store-2.myshopify.com/products/hp-z240-workstation-sff-desktop-pc-intel-core-i5-6500-upto-3-60ghz-16gb-ram-1tb-ssd-amd-radeon-hd-8570-1gb-4k-displayport-hdmi-dvi-ac-wi-fi-bluetooth-windows-10-pro-renewed): The manufacturer seal has been opened to meet the advertised specs. Professional service installation included.The HP Z240 Series Workstation delivers powerful performance in a small form factor design and is geared towards professionals who require high reliability as well as scalability to match your business needs. With the capabilities to operate in immersive work environments and handle total workloads. This system is powered by an Intel Core i5-6500 Quad-Core processor which will allow you to run multiple applications simultaneously. If you need more power the system can be overclocked to 3.60 GHz using Intels Turbo Boost technology. The 2666 MHz DDR4 helps to ensure smooth multitasking and also allows the computer to quickly access frequently-used files and programs.Brand / Model: HP Z240 WorkstationPC Form Factor: Small Form Factor DesktopOperating System: Windows 10 Pro 64-bitProcessor Type: Intel Core i5-6500Base CPU Frequency: 3.2 GHzMax Turbo CPU frequency: 3.60 GHzCache: 6 MBRAM Slots: 4 SlotsRAM: 16GB DDR4 2666 MHzMax Supported RAM: 32GBStorage: 1TB SSDStorage Slots: 2x 3.5Graphics: AMD Radeon HD 8570 1GB DDR3Video Ports: 1x DisplayPort (4K) 1x DVI 1x HDMI (DisplayPort to HDMI adapter included)Front USB Ports: 2x USB 3.1 - 2x USB 2.0Expansion Slots: 2x PCIe x16 2x PCIe x1 slotBack USB Ports: 6x USB 3.1Ethernet: Gigabyte 10/100/1000 RJ-45Wi-Fi: 802.11acBluetooth: 4.1Audio: Built-in SpeakerAudio Ports: Microphone x1 Headphone Jack x1Power Supply: 240WBox Contents: Computer USB Keyboard / Mouse Power Cable
-  Updated: 2026-02-09T10:57:29Z
+  Updated: 2026-02-09T17:26:05Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2014,14 +2014,14 @@ Amazon
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/loSEHLD99YzjhFhA.webp?v=1770591717
   Price: €130.99 EUR
 - [Lenovo 15 Inch Laptop Ideapad 1 Computer PC FHD 15.6 Laptop College Students Business Intel Notebook Laptop Microsoft Office 365 1Y 20GB RAM 1TB SSD Windows 11 Pro Numeric Keyboard Webcam HDMI](https://amazon-global-store-2.myshopify.com/products/lenovo-15-inch-laptop-ideapad-1-computer-pc-fhd-15-6-laptop-college-students-business-intel-notebook-laptop-microsoft-office-365-1y-20gb-ram-1tb-ssd-windows-11-pro-numeric-keyboard-webcam-hdmi): Engineered with an Intel Pentium quad-core processor the Lenovo IdeaPad 1 laptop pc delivers dependable performance as you multitask effortlessly while boosting energy efficiency with long battery life. Enjoy the premium 15.6 laptops Lenovo with latest DDR4 memory fast storage FHD screen high speed Wi-Fi. With 1Y Microsoft Office 365 included best laptop for college students home use and business within budget.OSWindows 11 Pro 64-bit for business work and school - elevate your workstyle and productivity with AI-powered breakthroughs and immersive workflowsProcessorIntel Pentium Silver N6000(4C/4T up to 3.30GHz 4M Cache) fast computing for basic tasks and everyday useMemory & Storage20 GB DDR4 RAM - smooth multitasking1 TB PCle SSD +128 GB eMMC - fast data access ample storageDisplay15.6" LCD with LED-Backlit Anti-Glare FHD (1920 x 1080) screen resolution showcases movies games and photos with impressive clarity. Intel UHD Graphics enhances overall visual experiencePorts & Slots1x USB-C 3.0(data transfer) 1x USB-A 3.0 1x USB-A 2.0 HDMI SD Card Reader Audio JackConnectivityExperience Gigabit Wi-Fi 6 (3X faster vs. Wi-Fi 5) with greater reliability and improved responsiveness for even more devices. Bluetooth 5.2 brings a greater range higher speeds and more broadcasting capacityCameraHD 720p with Privacy Shutter HD audio and dual Dolby-tuned stereo speakers - live for business professionals school students and friendsEffortless PortabilitySleek slim and stylish Abyss Blue design. Only 3.52 lbs 0.70 in thick 10-key numeric keyboard and up to 11 hours of battery life you can take the ultra-thin and lightweight Lenovo 15 inch laptops anywhere and work all day long
-  Updated: 2026-02-09T11:11:20Z
+  Updated: 2026-02-09T17:25:45Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/2AMYxFtBGOmCHp3E.webp?v=1770591770
   Price: €1,423.96 EUR
 - [Black Laundry Hamper Laundry Hamper with Lid 22.5 Gallon (85L) Bamboo Wood Clothes Laundry Basket with Lid and Handles Removable Liner](https://amazon-global-store-2.myshopify.com/products/black-laundry-hamper-laundry-hamper-with-lid-22-5-gallon-85l-bamboo-wood-clothes-laundry-basket-with-lid-and-handles-removable-liner): [【Natural Bamboo Construction】Made from natural bamboo material this laundry hamper offers a sturdy and stylish solution for organizing your laundry. 【Removable Liner with Dividers】Equipped with a removable liner and a center divider it is convenient for the transportation of clothes and the efficient classification of different types of clothes. 【Large Capacity 】This spacious hamper accommodates a large amount of laundry suitable for families dorms or apartments. It effectively organizes your laundry keeping your home neat and tidy. 【Excellent Ventilation】Designed with good ventilation to prevent odor build-up in stored laundry. Keeps clothes fresh and dry and maintains a clean home environment. 【Stylish and Minimalist Design】Boasts a modern minimalist look with natural bamboo texture blending seamlessly with various home décor styles. Serves as both a practical storage solution and an elegant home accessory enhancing the aesthetic of your space.]
-  Updated: 2026-02-08T23:06:36Z
+  Updated: 2026-02-10T03:00:07Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2035,21 +2035,21 @@ Amazon
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/1kw5o5TPBnMmqwrT.webp?v=1770593593
   Price: €128.00 EUR
 - [Lenovo Ideapad 3i 15.6" Full HD (1920 x 1080) Touch Laptop Intel Core i5-1135G7 Processor 4-core 8GB RAM 512GB SSD Storage Intel Iris X Graphics Bluetooth Wi-Fi Win11 Arctic Grey W/GaLiMu](https://amazon-global-store-2.myshopify.com/products/lenovo-ideapad-3i-15-6-full-hd-1920-x-1080-touch-laptop-intel-core-i5-1135g7-processor-4-core-8gb-ram-512gb-ssd-storage-intel-iris-x-graphics-bluetooth-wi-fi-win11-arctic-grey-w-galimu): TGC Distributors sells computers with upgraded configurations. If the computer has modifications (listed above) then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.one month GaLiMu support included Ideapad 3i 15.6" FHD Touch Laptop The ultimate Smart Learning notebook the Lenovo IdeaPad 3i pairs 11th Generation Intel Core i5 processors with tailored work and learn from home solutions that address eye strain posture problems and at-home distractions while deploying intelligent thermals for a cool and whisper-quiet system. The new privacy shutter on the camera also lets you reserve complete control over your privacy in the home and beyond. Operating System: Windows 11 Processor: 11th Gen Intel Core i5-1135G7 processor 4-core (quad-core)Processor Speed up to 4.2GHz Graphics: Intel Iris Xe Graphics RAM: System Memory 8GB DDR4 System Memory RAM Speed 3200 megahertz Storage: 512 GB NVMe SSD Display: 15.6" Full HD (1920 x 1080 ) touch screen for hands-on control Optical Drive: None / No DVDRW Wireless: Bluetooth Wi-Fi Wireless-AX Backlit Keyboard: No Webcam: Built-in webcam with Privacy Shutter and dual array microphone Ports: 1x USB 2.0 Type A; 1x USB 3.2 Type A 1x USB 3.2 Type C 1 x HDMI Wireless-AX Bluetooth Wi-Fi Headphone Jack Audio Technology: Dolby Audio Power: Battery Type with Lithium-ion polymer Battery Cells 3-cell Battery Life up to 12 hours Power Supply Maximum Wattage 65 watts Dimensions (WxDxH): 0.78 x 14.26 x 9.98 inches Weight: 3.74 pounds
-  Updated: 2026-02-09T11:42:53Z
+  Updated: 2026-02-09T17:25:14Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/Y8BH65UAUuhPhFtG.webp?v=1770593759
   Price: €1,269.43 EUR
 - [JewelryPalace Princess Diana Kate Middleton Class Gemstone Birthstone Cleated Sapphire Simulated Emerald Stud Earrings for Women 14k Gold Plated 925 Sterling Silver Earrings for Women Earings Set](https://amazon-global-store-2.myshopify.com/products/jewelrypalace-princess-diana-kate-middleton-class-gemstone-birthstone-cleated-sapphire-simulated-emerald-stud-earrings-for-women-14k-gold-plated-925-sterling-silver-earrings-for-women-earings-set): Find a special gift for someone you love or a beautiful piece that complements your personal style. Our sterling silver is high-quality 925 solid sterling silver it is electroplated with triple Phodinum of which the thicknes is up to 3microns effectively preventing the silver from getting oxided and tarnished after long time wearing.It will be a good accessory to wear elegantly and beautifully.If youre not satisfied for any reason you will receive a full refund and free return shipping within the U.S. if you return your purchase within 30 days.Find a special gift for a loved one or a beautiful piece that complements your personal style with jewelry from JewelryPalace.
-  Updated: 2026-02-08T23:39:06Z
+  Updated: 2026-02-10T01:01:25Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/fbRvyqCjxAihzCLr.webp?v=1770593876
   Price: €68.60 EUR
 - [Lenovo IdeaPad Slim 3 Chromebook Laptop 14" FHD Touchscreen Laptop MediaTek Kompanio 520 4GB RAM 320GB Storage(64GB eMMC+256GB Micro SD) Wi-Fi 6 Chrome OS Abyss Blue](https://amazon-global-store-2.myshopify.com/products/lenovo-ideapad-slim-3-chromebook-laptop-14-fhd-touchscreen-laptop-mediatek-kompanio-520-4gb-ram-320gb-storage64gb-emmc-256gb-micro-sd-wi-fi-6-chrome-os-abyss-blue): Live animated live lively live balanced. When you’re packing the thin and light IdeaPad Slim 3 Chromebook featuring Wi-Fi 6 and 13.5 hours of battery life balancing work and play all day becomes effortless. The 14" FHD IPS touchscreen display and MediaTek Kompanio 500 Series processors are a significant upgrade to your work and entertainment with front-facing Waves-tuned speakers.Brand: LenovoOperating System: Google Chrome OSProcessor model: MediaTek Kompanio 520Number of cores: 8 coreProcessor Speed: 2.05 GHZProcessor Type: ARM Cortex SeriesGraphics card model: MediaTek Integrated GraphicsTouchScreen: Touchscreen DisplayScreen Size: 14 inchesScreen Resolution: 1920 x 1080 (FHD) IPS 300 nits Anti-Glare 100% sRGBAspect Ratio: 16:9 Aspect RatioMemory: 4 GB RAMMemory RAM Type: LPDDR4xData Storage Capacity: Up to 320GB StorageData storage type: EMMC+ Micro SDDisplay Type: TN PanelWireless Technology: Wi-Fi 6 (IEEE 802.11ax)Maximum Battery Charge Life: 13.5 hoursMicrophone: Built-In MicrophoneUltrathin and ultralight for maximum portability featuring a 14" screen size. Lithium-polymer battery.Arm Mali-G52 MC1:The integrated graphics chipset with shared video memory provides solid image quality for Internet use movies basic photo editing and casual gaming.Starts fast wont slow you down:Chromebooks boot up in under 10 seconds and update automatically behind the scenes to deliver performance that’s full speed ahead. And with up to 13.5 hours of battery life Chromebooks pack enough stamina for a long flight a full workday or a streaming session.Dimensions (L x W x H): 12.83 inches x 8.73 inches x 0.73 inchesWeight: 2.87 poundsColor: Abyss Blue
-  Updated: 2026-02-09T11:38:36Z
+  Updated: 2026-02-09T17:24:51Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2122,7 +2122,7 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/PY8ittaDlXSMmc6H.webp?v=1770594616
     Price: €38.78 EUR
 - [Amazon Ski Goggles for Outdoor Sports and Climbing](https://amazon-global-store-2.myshopify.com/products/amazon-ski-goggles-for-outdoor-sports-and-climbing): Get ready to conquer the slopes with our premium outdoor skiing goggles, specially designed for skiing and mountaineering enthusiasts. These anti-glare ski goggles are perfect for enhancing your vision and ensuring maximum protection against the elements, allowing you to focus on what you love most – skiing! Crafted with precision, our goggles feature a variety of lenses designed to cater to your specific needs. Choose from stunning color options like: Our goggles not only provide excellent UV protection but also come with a comfortable fit, ensuring that you can wear them for hours without discomfort. Plus, they’re lightweight at just 0.380 kg, making them easy to carry wherever your adventures take you. With Sunda Optical, you can trust that you are receiving a product that meets high standards of quality and performance. We take pride in our ability to fulfill large orders while ensuring customer satisfaction. Our commitment to win-win cooperation makes us the ideal partner for all your outdoor gear needs. Don’t miss out on the chance to elevate your skiing experience! Order now and embrace the thrill of the slopes like never before!
-  Updated: 2026-02-09T11:49:50Z
+  Updated: 2026-02-09T17:24:11Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2202,7 +2202,7 @@ Amazon
     Availability: Available
     Price: €387.01 EUR
 - ["Large Capacity Odor-Proof Travel Pipe Bag with Lock"](https://amazon-global-store-2.myshopify.com/products/large-capacity-odor-proof-travel-pipe-bag-with-lock): Elevate your travel experience with the Firedog Odor-Proof Travel Pouch, designed to securely store your smoking accessories while keeping odors at bay. This spacious travel pouch features a  lock for added security, allowing you to travel with peace of mind. Crafted with functionality in mind, the pouch also boasts a windproof function, ensuring that your smoking experience remains uninterrupted even in breezy conditions. Ideal for those who appreciate organization, this pouch offers ample storage for your essential smoking tools, making it a perfect companion for any adventure. Whether you're heading out for a weekend getaway or attending a festival, this pouch is designed to meet all your needs. Gift giving made easy! This stylish and practical pouch is a wonderful choice for birthdays or holidays, making it a thoughtful present for friends and family who enjoy smoking. The Firedog Odor-Proof Travel Pouch is available in a variety of colors, including Black, Grey, Khaki, and many more, allowing you to choose the one that best fits your style. Each pouch measures 20*10*7.2cm and weighs just 0.23kg, making it lightweight and easy to carry. Enhance your smoking experience today with the Firedog Odor-Proof Travel Pouch - the ultimate blend of style, security, and functionality!
-  Updated: 2026-02-09T11:55:42Z
+  Updated: 2026-02-11T11:31:25Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2268,14 +2268,14 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/AnEcOyCWvpixaCZC.webp?v=1770595130
     Price: €46.07 EUR
 - [Electric Car Air Pump Inflator Tool](https://amazon-global-store-2.myshopify.com/products/electric-car-air-pump-inflator-tool): Introducing the ultimate solution for all your inflation needs - our Electric Car Air Pump. Designed with convenience and efficiency in mind, this powerful device is a must-have for every car owner, traveler, and outdoor enthusiast. Crafted from durable ABS and metal, this air pump not only offers longevity but also ensures reliable performance. With a robust 120W power output and a 12V voltage, it can tackle all your inflation tasks with ease. Plus, the generous 2.8m power cable allows you to reach every corner of your vehicle without hassle. Imagine having the ability to inflate your tires, sports equipment, and more in no time! The electric pump boasts a high 10A current, making it efficient and quick, so you can get back on the road or enjoy your activities without delay. With its eye-catching yellow color, this pump isn't just functional; it makes a statement too. Whether you’re at home, on a road trip, or at the park, you'll always be prepared. Take a look at the sleek design and user-friendly features of our Electric Car Air Pump: Don't wait until you're in a pinch;  in our Electric Car Air Pump today and ensure you're always ready to roll!
-  Updated: 2026-02-09T11:58:46Z
+  Updated: 2026-02-09T17:22:53Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/0PxaDxqsOzVySxry.webp?v=1770595121
   Price: €126.70 EUR
 - [Autumn New Trendy Colorful Dad Sneakers for Men](https://amazon-global-store-2.myshopify.com/products/autumn-new-trendy-colorful-dad-sneakers-for-men): Discover the perfect blend of style and comfort with our new Autumn Collection of trendy dad shoes. Designed for the modern man who seeks both functionality and flair, these breathable and lightweight sneakers are a must-have in any wardrobe. Product Highlights: - **Versatile Style**: Crafted to suit any season—whether it’s summer, winter, spring, or autumn, these shoes will elevate your casual outfit effortlessly. - **Quality Materials**: Made from a combination of top layer cowhide, artificial leather, and fabric, ensuring durability while providing a stylish look. - **Comfort Fit**: The rounded toe shape and low heel (1-3CM) offer optimal comfort, making them perfect for extended wear during daily activities or casual outings. - **Unique Design**: Featuring a vibrant totem pop element, these shoes make a statement and will surely turn heads wherever you go. - **Youthful Appeal**: Designed for young adults (ages 18-40), these shoes are ideal for those who embrace a contemporary lifestyle. Available in an array of colors and sizes, including eye-catching yellow and refreshing green, you can find the perfect pair that suits your personal style. Whether you’re hitting the streets or hanging out with friends, these shoes are designed to keep you looking sharp and feeling great. Don't miss out on adding this stylish yet practical footwear to your collection. Get ready to step out in confidence and comfort with our trendy dad shoes!
-  Updated: 2026-02-09T12:07:46Z
+  Updated: 2026-02-09T17:22:09Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2335,7 +2335,7 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/AL1A7STnnQzZlac3.webp?v=1770595782
     Price: €146.82 EUR
 - [ThermaHands Heated Rechargeable Gloves (One Pair)](https://amazon-global-store-2.myshopify.com/products/thermahands-heated-rechargeable-gloves-one-pair): Experience the ultimate warmth and comfort with our ThermaHands Heated Rechargeable Gloves. Designed for those who refuse to let the cold weather hold them back, these gloves are perfect for outdoor activities, commuting, or simply enjoying a stroll in the chilly air. Made with a durable waterproof nylon fabric and soft cotton lining, these gloves not only keep your hands dry but also provide excellent insulation. With a heat preservation time of 3 to 8 hours, you can stay warm during long periods of outdoor exploration. Plus, the gloves automatically power off after a certain period of inactivity, ensuring safety and energy efficiency. Featuring a generous heating area that covers five fingers and the back of your hand, you can enjoy the soothing warmth exactly where you need it most. The three gear temperature control allows you to adjust the heat to your preference, ensuring maximum comfort. Charging the gloves is a breeze! With a charging time of 6 to 8 hours, just plug them in and wait for the indicator light to turn green, signifying that they're ready for your next adventure. Available in two stylish variations, including a Battery Case (3 AA) and a Battery Box Type (A1), you can choose the option that best suits your needs. Both variations come in a single size that fits most hands comfortably. Don’t let the cold stop you from enjoying your favorite activities! Grab your pair of ThermaHands Heated Rechargeable Gloves today and embrace the warmth!
-  Updated: 2026-02-09T12:16:57Z
+  Updated: 2026-02-09T17:21:58Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2349,42 +2349,42 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/nXljphXUG8wAnsNg.webp?v=1770596132
     Price: €81.59 EUR
 - [SOLY HUX Mens Parachute Pants Y2k Baggy Sweatpants Wide Leg Drawstring Waist Casual Pants Streetwear Dark Grey X-Large](https://amazon-global-store-2.myshopify.com/products/soly-hux-mens-parachute-pants-y2k-baggy-sweatpants-wide-leg-drawstring-waist-casual-pants-streetwear-dark-grey-x-large): DescriptionSize Chart:（Product Measurement）S:Hip Size:43.3INThigh:26.7INWaist Size:28.3-39.8INM:Hip Size:44.9INThigh:27.6INWaist Size:29.9-41.3INL:Hip Size:46.9INThigh:28.6INWaist Size:31.9-43.3INXL:Hip Size:48.8INThigh:29.7INWaist Size:33.9-45.3INXXL:Hip Size:50.8INThigh:30.7INWaist Size:35.8-47.2INThis data was obtained from manually measuring the product it may be off by 1-2 CM
-  Updated: 2026-02-09T12:18:21Z
+  Updated: 2026-02-09T17:21:41Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/OZ1mDPOpliknrd67.webp?v=1770596252
   Price: €121.68 EUR
 - [Xiaomi Vertical HDMI Computer Monitor 27 inch 165Hz IPS FHD 1ms 1080P 99% sRGB LCD Desktop PC Gaming Computer Screen Monitors Ultra Thin FreeSync Premium with DisplayPort](https://amazon-global-store-2.myshopify.com/products/xiaomi-vertical-hdmi-computer-monitor-27-inch-165hz-ips-fhd-1ms-1080p-99-srgb-lcd-desktop-pc-gaming-computer-screen-monitors-ultra-thin-freesync-premium-with-displayport): ["【27 inch 1080P Computer Monitor】 Featured with a 27-inch e-sports display and a resolution in a 16:9 Aspect Ratio as high as 1920 x 1080. The 27 inch gaming monitor adopts a fast IPS LCD panel for game provides wide viewing angles of 178 ̊ brings you 1080P vibrant color reproduction and crystal-clear picture quality delivering a high-definition viewing experience without color shift. With lightning-fast speed youll be king of the hill in no time" 【165Hz High Refresh Rate & 1ms GTG Response Time】 High Refresh Rate up to 165Hz gives a silky-smooth picture and minimizes ghosting even in high-speed and dynamic competitive environments. 1ms GTG quick response time say goodbye to lag and delays helps gamers move quickly to win in competitive games where every second counts 【FreeSync Premium Technology】 Thanks to FreeSync Premium technology and narrow bezels on three sides the computer graphics card and the display panel maintain real-time synchronization effectively reducing shaking stuttering and tearing provides the smoothest and immersive gaming experience 【99% sRGB Color Gamut & 8-bit Color Depth & TÜV Low Blue Light 】 With 16.7 million colors and a 99% sRGB color gamut this computer minotor screen faithfully restores true colors providing 8-bit deeper colors and defining features brings more vivid color layers and smooth and natural transitions. Besides the low blue light mode can filter short-wave blue light ensuring comfort even after working long hours. DC dimming can effectively reduce display flicker. Dual protection for your eyes 【Why Choose Xiaomi Computer Monitor】 Add Xiaomi computer gaming monitor 27 inch to your shopping cart now! If there is any questions or suggestions about our products before during or after uses please do not hesitate and feel free to contact us! We will reply you within 24 hours and try our best to help you. We stand behind our products with a comprehensive warranty and customer support ensuring that any issues you encounter are promptly addressed]
-  Updated: 2026-02-09T12:19:09Z
+  Updated: 2026-02-09T17:21:28Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/GlaP57p1Opb7KJmI.webp?v=1770596333
   Price: €409.05 EUR
 - [Votive Candle Holder Tea Lights - Glass Candle Holders Mosaic Tealight Candle Holder Candle Jar Cup for Wedding Centerpiece Party Table Decorations Valentines Day Decor](https://amazon-global-store-2.myshopify.com/products/votive-candle-holder-tea-lights-glass-candle-holders-mosaic-tealight-candle-holder-candle-jar-cup-for-wedding-centerpiece-party-table-decorations-valentines-day-decor): [VOTIVE TEALIGHT CANDLE HOLDER - Size: 3.9"x 3.1"/8 x 10cm. This candle holder features a beautiful mosaic design with vibrant blue green and yellow glass pieces creating a mesmerizing light display when a candle is lit ROMANTIC AMBIENCE MAKER - The beautifully woven patterns and vibrant color blocks form a stunning mosaic art candle holder that brings an elegant touch to your home decor. The tealight candle holder serves as a chic decorative accent enhancing the visual appeal of any room HANDMADE OF HIGH QUALITY MOSAIC GLASS - This stunning tealight candle holder is crafted from hundreds of colorful glass fragments carefully placed on a thick glass bowl. Each votive candle holder is handmade providing long durability and strong water & dust resistance VERSATILE TABLE CENTERPIECES DECOR - Use this creative glass votive candle holders as eye-catching candle centerpieces for your table displays at weddings parties Christmas birthdays celebrations banquets and more. They add warmth and charm to your space making any occasion more enjoyable for family and friends NOT ONLY A CANDLE HOLDER - With its unique mosaic design and Gothic floral patterns this votive candle jar is not just a candle holder it can also be used as a potted plants bowl makeup brush holder or office pen holder adding a touch of vibrant color to your desk vanity or windowsill]
-  Updated: 2026-02-09T12:22:05Z
+  Updated: 2026-02-09T17:21:16Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/0b0JZpQS37gFz1Bs.webp?v=1770596470
   Price: €124.81 EUR
 - [IOGEAR USB-C Dual 4K Docking Station with 60W Power Delivery - GUD3C01](https://amazon-global-store-2.myshopify.com/products/iogear-usb-c-dual-4k-docking-station-with-60w-power-delivery-gud3c01): Usb-c docking station with Power Delivery GEARs USB-C docking station with Power Delivery is the perfect complement to your USB Type-C laptop. This all-in-one dock delivers a total of 10 ports in a unit designed to instantly connect and disconnect from your USB-C laptop through a single high speed Cable. Featuring DisplayPort multi-stream transport USB 3. 0 connectivity HDMI audio and Ethernet connections This full-featured USB Type-C dock allows your laptop to perform like a desktop. While connected the IOGEAR USB-C docking station will charge your laptop through the USB-C Power Delivery functionality. An AC power adapter is included. Modern day laptops like the 2015 MacBook and Chromebook Pixel 2 have minimized the number of ports in the quest to be as thin and lightweight as possible. With IOGEAR USB-C dock you can combine the portability of a laptop with all the functionalities of a full-featured workstation. Now you can easily add a full-sized keyboard and mouse external hard drives printers webcams etc. To turn your laptop into a complete workstation. A single USB-C connection replaces the need to set up your peripherals cable-by-cable which makes setup completely hassle-free and multitasking almost effortless. Expand up to 10 ports and connections ten ports have been strategically placed for easy cable management. A USB 3. 0 fast-charging port is conveniently positioned on the front of the dock so that you can get work done while simultaneously fast-charging your smartphone or tablet. Multitask with ease by connecting additional displays with HDMI and DisplayPort multi-stream transport with single mirror or extend mode. The Three USB 3. 0 ports microphone/speaker connections Gigabit Ethernet port and additional USB-C data port with power support all give you the connectivity of a desktop at your fingertips. What is DisplayPort multi-stream transport (MST)? DisplayPort multi-stream transport (MST) technology allows you to connect multiple displays together using a single DisplayPort connection. This technology grants portable devices multi-display capabilities without all the bulk of a desktop. Link multiple displays for a completely immersive gaming experience or create a multi-monitor setup for increased productivity at work. Increase your productivity with MST: browse the web on one screen edit a document on a second and write an email on a third. Sleek design with premium durability The dock is versatile enough to accommodate nearly any task making it ideal for business professionals students and gamers alike. Crafted from specially Machined stainless steel The USB-C docking station brings together a clean sleek design with premium durability to withstand day-to-day use. The bodys solid construction is well-balanced and includes anti-slip grips to ensure that the dock remains safe and in place. Its multi-functional design is compact enough to seamlessly integrate into any desk space and minimize visual clutter. Innovate create and optimize your productivity with a workstation tailored to meet your every need.
-  Updated: 2026-02-09T12:24:47Z
+  Updated: 2026-02-09T17:21:04Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/tjSrU7R0adwRVZxj.webp?v=1770596500
   Price: €83.46 EUR
 - [Jax 2020 Breastmilk Cooler Bag | Insulated Formula Container for 6 Bottles or Breast Milk Storing Bags | Baby Bag for Breast Milk or Formula| Breastmilk Storage Bag Pocket for Ice Pack (Burnt Orange)](https://amazon-global-store-2.myshopify.com/products/jax-2020-breastmilk-cooler-bag-insulated-formula-container-for-6-bottles-or-breast-milk-storing-bags-baby-bag-for-breast-milk-or-formula-breastmilk-storage-bag-pocket-for-ice-pack-burnt-orange): [Keeps Milk Fresh- When left in room temperature for hours breastmilk or formula easily turns and spoils. This insulated cooler bag keeps your bottles for breastfeeding babies fresh for a longer time. Impressive Capacity - Our 9 x 7.2 x 7.2-inch baby bottle tote bag can carry up to 6 tall bottles and has an elastic strap that snaps to the lid for hanging up to 6 breastmilk storage bags (Patent Pending). Plus this cooler bag is equipped with an inner mesh pocket for an ice pack. [Ice Pack NOT Included] Fashionably Mess-Free - This breastmilk cooler features a thick insulated aluminum foil lining and an internal strap that hangs breast milk storage bags securing them upright and preventing liquid gold spills! Works great as a formula container too! Also the wipeable bottom protects your tote from dust and dirt. Multi-Functional Tote Baby Bag - With its well-insulated design you may also use this spacious small cooler cooler for holding your favorite bottled or canned beverages packed lunches and cold snacks. Call it a breastmilk storage bag cooler baby bottle bag for daycare pumping bag or lunch cooler. 100% Customer Satisfaction – If you encounter any manufacturing defects with this breastmilk bag within 2 years of purchase let us know right away. Register for the warranty and we will repair or replace the baby bottle cooler for you. TIP: Care by spot cleaning with non-bleach upholstery cleaner or detergent to keep this bag looking new. Simply wipe the inside with a soapy cloth to maintain the internal lining.]
-  Updated: 2026-02-09T12:22:23Z
+  Updated: 2026-02-09T17:20:53Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/bauVVyrP9LcQYmpk.webp?v=1770596536
   Price: €115.44 EUR
 - [Off-Road Pirate Motorcycle Helmet](https://amazon-global-store-2.myshopify.com/products/off-road-pirate-motorcycle-helmet): Experience the thrill of adventure with our four seasons Motorcycle helmet designed for the fearless rider! This helmet not only exudes a bold, pirate-inspired aesthetic but also ensures your safety and comfort on every ride. Crafted from high-quality ABS engineering plastics, this helmet is built to withstand the elements while providing superior protection. With its lightweight design of just 1.43 kg, you can ride for hours without discomfort. Choose from a variety of styles and sizes to find your perfect fit! Whether you prefer a classic black or a sleek light black, we have options for every taste in sizes ranging from S to XL. Not only does this helmet look great, but it also features: Elevate your riding experience and showcase your adventurous spirit with this exceptional motorcycle helmet! Don’t miss out on this hot- item!
-  Updated: 2026-02-09T12:23:12Z
+  Updated: 2026-02-09T17:20:40Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2422,49 +2422,49 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/26u5KOrnbG0aLSBC.webp?v=1770596671
     Price: €139.14 EUR
 - [STOGEDEST 13x4 Body Wave Lace Front Wigs Human Hair 180 Density Hd Lace Front Wigs Human Hair Body Wave Wigs Brazilian Human Hair Pre Plucked with Baby Hair for Women 18 Inch](https://amazon-global-store-2.myshopify.com/products/stogedest-13x4-body-wave-lace-front-wigs-human-hair-180-density-hd-lace-front-wigs-human-hair-body-wave-wigs-brazilian-human-hair-pre-plucked-with-baby-hair-for-women-18-inch): Lace Front Wigs Human Hair Type: 13x4 body wave lace front wig like the picture shown. Can be restyled as you wish.Human Hair Wigs Quality: Unprocessed Brazilian human hair wig no mixed synthetic and animal hair. The wig will last more than one year normally under your good maintain.Lace Front Wigs Material: No tangling no shedding no dry no chemical smell. (If there is a smell it may be local shampoo smell can be removed by co-washing with shampoo and conditioner).Wig Color: Natural black it wont be too shiny can be dyed straightened bleached restyled.What you will get: Lace front wigs ×1 wig cap ×1 exquisite packaging.Wig Uses: Can be used for party marriage birthday work daily life celebration etc.How to measure the length: The wavy hair wig needs to be straighten and then measure from the top of the head to the longest hair at the bottom.Why choose us:We have advanced production technology skilled workers. All hair is real human hair without artificial and animal hair mixed together which is very suitable for long-term use. We are always pursuing the good quality hair and putting the customer at the first place. Its your better choice to get more charming & gorgeous.Hair Care：1. Dont brush or comb curly weaves. Use your fingers or a wide-tooth comb to style wavy wigs.2. After washing your hair it is best to allow the human hair wig to air dry on a wig stand.3. When the hair is not completely dry apply elastin on both hands and grab it from the end of the wig. Elastin can keep the wave longer.4. We dont recommend excessive bleaching of hair Its easier to darken it than to lighten. Please always consult your stylist before attempting any styling you are unsure.
-  Updated: 2026-02-09T12:24:13Z
+  Updated: 2026-02-09T17:20:27Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/TCVVmKVnVLymQXlN.webp?v=1770596634
   Price: €173.56 EUR
 - [Small 3 Quart Dutch Oven HaSteeL Round Cast Iron Cooking Pot with Lid Nonstick Enameled Cookware for Sourdough Bread Baking Roasting Stewing Braising Frying Heavy Duty & Oven Safe 500℉ Blue](https://amazon-global-store-2.myshopify.com/products/small-3-quart-dutch-oven-hasteel-round-cast-iron-cooking-pot-with-lid-nonstick-enameled-cookware-for-sourdough-bread-baking-roasting-stewing-braising-frying-heavy-duty-oven-safe-500-blue): HaSteeL Round 3 qt Cast Iron Enamel Dutch Oven is great for searing simmering poaching frying marinating roasting baking stewing.
-  Updated: 2026-02-09T00:27:29Z
+  Updated: 2026-02-10T00:13:08Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/YEW56wVuK2e7uzLY.webp?v=1770596737
   Price: €134.25 EUR
 - [Dell OptiPlex 7010 Desktop Computer Tower | Quad Core Intel i7 (3.9GHz Turbo) | 16GB DDR3 RAM | 500GB SSD Solid State + 1TB | WiFi-5G + Bluetooth | Win 10 Pro | Home or Office PC (Renewed)](https://amazon-global-store-2.myshopify.com/products/dell-optiplex-7010-desktop-computer-tower-quad-core-intel-i7-3-9ghz-turbo-16gb-ddr3-ram-500gb-ssd-solid-state-1tb-wifi-5g-bluetooth-win-10-pro-home-or-office-pc-renewed): Dell OptiPlex 7010 Small Desktop Computer : Designed for High-Quality Multitasking Home or office PC: Built for professional grade multitasking high-speed web browsing and multimedia applications like streaming or even lightweight editing. Compatible with Todays Most Popular Productivity Tools! This professional grade multitasking computer is compatible with all of todays most popular productivity software like Office 365 Adobe Docs Sheets Intuit QuickBooks NetSuite Audacity Basecamp Zoom Cisco Teams and much more! This Home / Office Computer Hardware Includes: CPU: Intel Quad-Core i7-3770+iGPU: Intel HD 4000 (1GB)RAM: 16GB DDR3 Fast RAMPrimary Storage: 500GB Solid StateSecondary Storage: 1TB Hard DriveNetwork: Standard RJ-45 LAN PortWireless: 5G-WiFi + Bluetooth BUY and OWN WITH CONFIDENCE Renewed and modernized by the #1 Microsoft Authorized Refurbisher this Dell Desktop Computer Tower PC is  to perform like-new and comes standard with a 1 Year Warranty and money-back guarantee! MICROSOFT AUTHORIZED REFURBISHED Your Dell Desktop Computer Tower comes with a digitally rendered Window 10 Pro installed on the PC for a secure and convenient setup process. Every computer from us is professionally renewed through a set of globally recognized and top-tier production processes including a full-system test a fresh install of Windows 10 Pro and robust stress testing.
-  Updated: 2026-02-09T12:28:27Z
+  Updated: 2026-02-09T17:19:56Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/X8P5inPTH4g37rat.webp?v=1770596894
   Price: €815.78 EUR
 - [Wooden Money Saving Box Cash Savings Box for $10000 $5000 $3000 Target Money Saving Challenge Reusable Money Box with Counter Cash Vault Bank with Dry Erase Pen/Savings Trackers/Rubber Band-White](https://amazon-global-store-2.myshopify.com/products/wooden-money-saving-box-cash-savings-box-for-10000-5000-3000-target-money-saving-challenge-reusable-money-box-with-counter-cash-vault-bank-with-dry-erase-pen-savings-trackers-rubber-band-white): [Unique Customized Personalized Gift - The cash vault wooden money saving Box is ideal for people of all ages and purposes - for the emergency fund travel fund or a particular destination. This money box makes achieving goals easy and enjoyable. It is a good choice for toy gifts for kids on Easter Christmas Halloween Thanksgiving Day New Year etc. Meet Different Savings Goals: Unlike conventional savings boxes our money savings box with crossable targets allows you to set several saving goals flexibly. The included savings target stickers of $10000/$5000/$3000 kids can easily monitor the growth of savings making tangible progress towards goals! The sticker resists tears and is erasable; you can repeat the same challenge or try something new. No assembly required: The wooden money box is a complete money saving box made of high-quality wood ready to use and no assembly effort. It provides convenient and safe handling with two slots for coins and notes on the top and an output slot with a soft closure on the back. After reaching the savings goal you can easily remove the money. High-quality material: The cash savings box with a counter is made of thickened wood which is durable and shatterproof. Compared to conventional money boxes that need to be assembled this economy box is characterized by its stability safety and smooth surface. The Large money bank measures 9.05 x 6.7 x 3.15IN. It can store about 2000 coins or 350 paper money at total capacity.  of saving habits: The savings challenge box creates a fun savings plan helps you mark the amount and monitors progress. Our wooden savings box money bank is printed with sticker numbers allowing you to mark off the amount you save each time and Save money equal to the number of the savings box. When you mark all the numbers you have completed the challenge and achieved the goal. WHAT YOU WILL GET - Package Included: 1PCS cash savings box 1PCS tweezer 3PCS PVC stickers 1PCS rubber stopper 1PCS liquid chalk pen 1pack rubber band(500PCS). A rich combination of accessories allows you to complete records anytime anywhere. Use this vital budget planning tool to help you take control of your finances. The savings challenge box involves the whole family with a fun saving challenge.]
-  Updated: 2026-02-09T13:12:31Z
+  Updated: 2026-02-09T17:19:41Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/ohxu7jLZbC7iaohR.webp?v=1770599218
   Price: €77.96 EUR
 - [adidas Mens Worldwide Hoops Logo Graphic Basketball T-Shirt Black](https://amazon-global-store-2.myshopify.com/products/adidas-mens-worldwide-hoops-logo-graphic-basketball-t-shirt-black): DescriptionThis mens loose-fitting short sleeve t-shirt from adidas pays homage to the global game of basketball with a Worldwide Hoops badge on the hem. Its cut in a loose fit and made from soft cotton single jersey fabric to keep you comfortable and free to move up and down the court without distraction. Whether youre driving the lane or just hanging out let your basketball passion shine in this graphic sport tee.
-  Updated: 2026-02-09T13:10:50Z
+  Updated: 2026-02-09T17:19:27Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/dowVbW44uTgnDiek.webp?v=1770599420
   Price: €93.23 EUR
 - [7AM Tote Bag for Women - Waterproof Capri Crossbody & Zippered Diaper Bags Included Changing Diaper Pad & 2 Stroller Straps](https://amazon-global-store-2.myshopify.com/products/7am-tote-bag-for-women-waterproof-capri-crossbody-zippered-diaper-bags-included-changing-diaper-pad-2-stroller-straps): DescriptionCapri Diaper Bag
-  Updated: 2026-02-09T13:33:02Z
+  Updated: 2026-02-09T17:19:13Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/42E0ct6WuuSRQG68.webp?v=1770599545
   Price: €237.33 EUR
 - [Polka Wide Leg Pants](https://amazon-global-store-2.myshopify.com/products/polka-wide-leg-pants): Get ready to conquer the world one step at a time with our dazzling Polka Pants! These wide-leg wonders effortlessly take you from boardroom boss to cocktail bar queen, all while oozing confidence. Why You'll Love Them: Strut your stuff and let the Polka Pants do the talking. The world is your runway!
-  Updated: 2026-02-09T13:14:24Z
+  Updated: 2026-02-09T17:19:00Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2482,14 +2482,14 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/k1B7DilrzvJgDKQ.webp?v=1770599672
     Price: €123.39 EUR
 - [BLACK+DECKER spillbuster Cordless Spill + Spot Cleaner (BHSB320JP)](https://amazon-global-store-2.myshopify.com/products/black-decker-spillbuster-cordless-spill-spot-cleaner-bhsb320jp): When it comes to the BLACK+DECKER spillbuster cordless spill + spot cleaner no elbow grease is required. This portable handheld vacuum cleaner is optimized for quick pickups of wet chunky messes including cereal and pet food spills mud and more. Use the spillbuster on carpet rugs upholstery and other surfaces throughout your home. The 3-step cleaning process is simple to follow and yields results in seconds. First vacuum solid and soggy debris—the wide nozzle really comes in handy during this step. Next spray any stains using the built-in formula dispenser then use the powered scrub brush to lift stubborn stains out of the material. When the mess is all gone you can empty the easy-collection bowl in the trash and wash it in the sink or dishwasher. The spillbuster is even designed with a battery indicator light so you’ll always know when it’s fully charged and ready to go.
-  Updated: 2026-02-09T13:16:13Z
+  Updated: 2026-02-09T17:18:35Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/0rhCQbS1dlew3YCU.webp?v=1770599718
   Price: €600.42 EUR
 - [Mercedes Kids Go-Kart Pedal Bike for Children](https://amazon-global-store-2.myshopify.com/products/mercedes-kids-go-kart-pedal-bike-for-children): Introducing the ultimate riding experience for your little ones! The Mercedes-Benz Kids Go-Kart is designed for both boys and girls, making it the perfect pedal-powered bicycle for your child. This four-wheeled beauty not only provides hours of fun but also promotes intellectual development and fitness. Available in four vibrant colors—Black, White, Red, and Blue—this go-kart is perfect for every little racer’s taste. Each color option is crafted with attention to detail, ensuring that your child not only rides in style but also enjoys a safe and comfortable experience. With dimensions of 112cm in length, 58cm in width, and 29cm in height, this lightweight vehicle (weighing only 0.08kg) is easy for kids to maneuver. Perfectly sized for toddlers, this go-kart encourages outdoor play and healthy exercise. Enhance your child's playtime with the Mercedes-Benz Kids Go-Kart—a toy that combines fun, fitness, and style. Watch as they embark on countless adventures, all while developing their motor skills and confidence! Don't miss out on this must-have ride-on toy! Order now and let your little one experience the joy of riding their very own go-kart!
-  Updated: 2026-02-09T11:36:57Z
+  Updated: 2026-02-09T23:59:04Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2503,21 +2503,21 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/jKc72zOCf6CbTgHk.webp?v=1770636188
     Price: €265.89 EUR
 - [Cocomii - Rectangle Case Compatible with iPhone 13 - Compatible with MagSafe, Real Mother of Pearl, Opalescent Seashell, Glossy, Magnetic Phone Case for iPhone 13 6.1 inch, Iridescent](https://amazon-global-store-2.myshopify.com/products/cocomii-rectangle-case-compatible-with-iphone-13-compatible-with-magsafe-real-mother-of-pearl-opalescent-seashell-glossy-magnetic-phone-case-for-iphone-13-6-1-inch-iridescent)
-  Updated: 2026-02-09T11:29:56Z
+  Updated: 2026-02-10T00:07:21Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/r2GhcUIACBgOm5hd.webp?v=1770636158
   Price: €157.36 EUR
 - [Velvet Prom Dress for Women Formal Evening Gowns with Sleeves Fall Wedding Guest Dresses Royal Blue Size 10](https://amazon-global-store-2.myshopify.com/products/velvet-prom-dress-for-women-formal-evening-gowns-with-sleeves-fall-wedding-guest-dresses-royal-blue-size-10): DescriptionWelcome to SZJMS.We can offer high quality Velvet Prom dresses for our customers.Materail:VlevetDresses Length: Floor LengthDesign:Square Neck&Mermaid&Court Train&Long SleeveWedding party is the most important moment for every brides. To have the chance of giving you the most beautiful Velvet Prom dress is our great honour.We carefully select high-quality beads pearls fabrics and threads to make every wedding dress perfect.If you are not sure about your right size according to our size chart you can send us your detailed measurement as the following list.1.Full Bust _____ inch or ___ cm2.Waist _____ inch or ___ cm3.Hips _____ inch or ___ cm4.Hollow to floor(Shoulder to Feet without in shoes) ___ inch or ___ cm5.Height: _____inch or ___ cm6.The height of your high heel shoes: _____inch or ___ cm7.The date you need the dress_____Accessories: This Velvet Prom dress doesnt include any accessory such as wedding veilgloves shawl crownetc.
-  Updated: 2026-02-09T11:25:35Z
+  Updated: 2026-02-09T23:57:29Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/DnUjpQh912BFBBgC.webp?v=1770636232
   Price: €206.73 EUR
 - [Pocket Elastic Waist Cotton Linen Casual Wide-leg Trousers](https://amazon-global-store-2.myshopify.com/products/pocket-elastic-waist-cotton-linen-casual-wide-leg-trousers): Step into effortless style and comfort with our Pocket Elastic Waist Cotton and Linen Casual Wide-leg Trousers. Designed for the modern woman who values both fashion and functionality, these trousers are the perfect addition to your wardrobe. Crafted from a premium blend of 81%-90% cotton and linen, these trousers offer a breathable and lightweight feel, ideal for all-day wear. The wide-leg design not only provides a relaxed fit but also adds a chic touch that complements any outfit, whether you're dressing up for a night out or keeping it casual for a day at the park. With an elastic waistband, these trousers promise a comfortable fit that adapts to your body, allowing you to move freely without compromising style. Available in a sophisticated khaki color, they are versatile enough to pair with anything from a simple tee to a dressy blouse. Choose from a range of sizes including S, M, L, XL, and XXL to find your perfect fit. Check out the stunning images below to see how these trousers can elevate your look!
-  Updated: 2026-02-09T11:25:38Z
+  Updated: 2026-02-09T23:58:18Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2543,14 +2543,14 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/zORbf0tZS46DES9l.webp?v=1770636300
     Price: €38.20 EUR
 - [DELTA 41624-RB Traditional Decorative Grab Bar 24-Inch Venetian Bronze](https://amazon-global-store-2.myshopify.com/products/delta-41624-rb-traditional-decorative-grab-bar-24-inch-venetian-bronze): Product DescriptionBathroom grab bars are an uncomplicated way to maintain independence gain confidence and more importantly implement safety in high-risk areas like the bathroom. These decorative grab bar handles can help maintain balance while standing moving around or getting in and out of the shower or tub area. Grab bars are a smart choice around the rest of the bathroom too. Placed near the toilet a grab bar gives you confidence when tending to lifes everyday routines. Delta’s decorative grab bars keep style at the forefront so you can keep your beautiful bathroom decor intact.From the ManufacturerThis Delta grab bar is 24 inches and comes in the color Venetian Bronze. The outside diameter is 1-1/4 inches. It features concealed mounting and hardware is included. The high quality finish will resist rust and corrosion through everyday use. Coordinates with Delta collections: Victorian Cassidy Leland and Windemere. ADA compliant and ANSI .
-  Updated: 2026-02-09T11:26:49Z
+  Updated: 2026-02-09T23:53:58Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/wH8XDd1LilolXnJr.webp?v=1770636325
   Price: €265.10 EUR
 - [Versatile Sling Bag](https://amazon-global-store-2.myshopify.com/products/versatile-sling-bag): Versatile Sling Bag – Effortless Style, Everyday Convenience! 🎒✨Meet your new go-to accessory—the Versatile Sling Bag! Designed for those who love a blend of fashion and function, this sleek, medium-sized bag keeps your essentials organized while adding a touch of sophistication to your outfit.Featuring a trendy woven, adjustable strap, it offers a custom fit for all-day comfort. With multiple pockets and a compact yet spacious design, it’s the perfect companion for daily errands, city strolls, or weekend getaways.Made from premium vegan leather, this bag delivers luxury, durability, and sustainability in one stylish package. Choose your favorite shade and sling on effortless elegance! Measurement: 7*3*14 InchesStrap Length: 21-40 InchesMaterial: Vegan Leather
-  Updated: 2026-02-09T11:28:50Z
+  Updated: 2026-02-10T00:03:49Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2580,63 +2580,63 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/bnSeZpB2qPExw0J.webp?v=1770636370
     Price: €181.99 EUR
 - [Seeutek Bed Rails for Elderly Adults Safety Foldable Extended Bed Guard Rails for Adults Height Adjustable Bed Cane Bed Assist Rails for Seniors with Safety Strap Storage Pocket LED Light](https://amazon-global-store-2.myshopify.com/products/seeutek-bed-rails-for-elderly-adults-safety-foldable-extended-bed-guard-rails-for-adults-height-adjustable-bed-cane-bed-assist-rails-for-seniors-with-safety-strap-storage-pocket-led-light): [Foldable Bed Rails for Elderly Adults Safety - Bed cane for seniors designed with folding structure. Folding down 180° by simply pulling out the handle section. Compared to standard elderly bed side rails bed rail for elderly make it easier for those with limited mobility to get in and out of bed. To ensure safety when getting up at midnight the bed guard rails for adults are equipped with LED lights. Magnetically attached to anywhere of bed railings for seniors. Extended Bed Assist Rails for Seniors - 3 Level width adjustment: 30" 36" 42". Adjusting bed rails for elderly to the appropriate width can serve not only as a support handle for the elderly but also as a safety rail to prevent accidental falls. The tube wall of  bed rails for seniors is 1.2mm thick with a max weight capacity of 300 lbs ensuring bed guard rail don\t bend during use. Foam-wrapped hand bar is non-slip and durable providing a comfortable grip. Keep Stable for Uneven Surfaces - Bed guard leg features a stepless adjustable design allowing for flexible height adjustment based on your needs. It eliminates small gaps between bed assist rail and uneven ground helping to prevent shaking and enhance stability. Compatible with various bed types this elderly bed rails can accommodate single beds double beds and more. Double Protection Larger Flat Base & Safety Strap - The base of side rails for beds for seniors features a flat design - Only 0.4" which conforms better to the mattress with no uncomfortable sensation while sleeping. It measures 28.4" in length and 16.7" in width providing a larger contact area to prevent movement during use. Bed assist rail also comes with safety straps that securely fasten it to the bed. Easy to Install & Practical Storage Pocket - 80% pre-installed elderly bed rails easy to assemble no need to drill.  bed rail are equipped with a practical storage pocket this bed bars for seniors allow elderly users to conveniently store frequently used items such as glasses books and remote controls making them easily accessible.]
-  Updated: 2026-02-09T11:27:25Z
+  Updated: 2026-02-10T00:15:28Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/ZcZqv2k9E8PxpsJe.webp?v=1770636364
   Price: €188.22 EUR
 - [ASUS ROG Strix XG27AQ-W 27” 1440P HDR Gaming Monitor - White QHD (2560 x 1440) Fast IPS 170Hz 1ms Extreme Low Motion Blur Sync G-SYNC Compatible Eye Care HDMI DisplayPort USB DisplayHDR400](https://amazon-global-store-2.myshopify.com/products/asus-rog-strix-xg27aq-w-27-1440p-hdr-gaming-monitor-white-qhd-2560-x-1440-fast-ips-170hz-1ms-extreme-low-motion-blur-sync-g-sync-compatible-eye-care-hdmi-displayport-usb-displayhdr400): Perfect for gaming and streaming the ROG Strix XG27AQ-W HDR gaming monitor features Fast IPS which improves response time without compromising image quality. The ASUS Exclusive ELMB Sync Technology gives you a super-smooth gameplay and a cinema-standard DCI-P3 95% color gamut ensures color accuracy for a more immersive experience.
-  Updated: 2026-02-09T11:30:45Z
+  Updated: 2026-02-09T23:58:33Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/BxLKJToWqb8JR9a4.webp?v=1770636579
   Price: €925.80 EUR
 - [4 Way VU Meter 3 Gain DC 12V 1A Power Off Data Storage Analog Sound Level Meter for Audio Equipment US Plug](https://amazon-global-store-2.myshopify.com/products/4-way-vu-meter-3-gain-dc-12v-1a-power-off-data-storage-analog-sound-level-meter-for-audio-equipment-us-plug): Specification:Item Type: 4 Way Analog VU MeterModel: VU4Material: Aluminum AlloyInput Voltage: 100-240VInput and Output Port: XLR (2 sets of XLR stereo)Large Audio Input Voltage: 2.5Vrms (Over this voltage it may damage the level meter)Maximum Effective Audio Input Voltage: 1.1Vrms (the maximum voltage that can be measured only full scale is displayed if it exceeds)Monitoring Frequency Range: 20-20Khz (VU mode) 100-10Khz (EQ mode)Input Impedance: 50KΩ high impedance has less effect on input audio and can be ignoredSupport Audio Source: Computer mobile phone decoder CD DVD player etc.Display Brightness Adjustment: Support 4 level adjustmentWorking Mode: VU standard mode EQ spectrum mode.Remote Control Function: SupportHand Swing Range Gain: 3 levels of gain adjustable -3dB 0dB +3dB (only adjust the hand swing range does not affect the source audio )Power Off Setting Data Saving: SupportSource: 1 set 2 set of LINE IN or built-in microphone pickupWorking Voltage: 12VDC 1ARemote Control Battery: 1.5V AAA x 2 (battery not included)Package List:1 x VU Meter1 x Charger1 x Remote Control1 x User ManualNote:1. Do not connect the speaker output of the power amplifier to the VU4. This will burn the level meter.2. If other power supply is used it must be 12VDC direct current with a current of at least 1A.3. In EQ mode if the needle swing is too large. It is recommended to lower the volume of the player appropriately.4. When the machine is out of the factory it has been debugged in VU mode by default. GAIN=0dB when the pointer of the meter points to the 0dB scale on the dial the input audio level is 0.775RMS 1KHz. If you want other voltage standards you can recalibrate yourself.
-  Updated: 2026-02-09T11:44:06Z
+  Updated: 2026-02-10T00:02:05Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/4vUwPGIr0sAV4f8m.webp?v=1770636638
   Price: €924.55 EUR
 - [RunCam 5 4K Action Camera: Small Cube HD Cam for FPV Drone Airsoft Motorcycle Bike Helmet Compatible with Gopro Session Caddx Orca Mount Support EIS](https://amazon-global-store-2.myshopify.com/products/runcam-5-4k-action-camera-small-cube-hd-cam-for-fpv-drone-airsoft-motorcycle-bike-helmet-compatible-with-gopro-session-caddx-orca-mount-support-eis): [Weighs only 56g 38mmx38mmx36mm. Compatible with the mount base of Hero Session 5. Ultra-light 4K HD camera can now shoot 2.7K 60fps videos. Equipped with electronic image stabilization(EIS) chip and the built-in Sony IMX377 12MP high-performance image sensor the RunCam 5 Orange offers smoother and higher quality videos. The upgraded CPU offers ultra-low power consumption. 4K recording time up to 105 minutes! 1080p/60fps up to 120minutes. Improves over 30% than Black. Special Design for FPV: The only bandwidth dynamic motion camera on the market. Sturdy lens protection design small size 145° wide angle view. Of course also a versatile small action camera. High Quality Image: 4K/30fps 2.7K/50fps 1080P/120fps 60fps video output. Excellent WDR effect ensuring high definition image even facing directly to the sunlight.]
-  Updated: 2026-02-09T11:44:19Z
+  Updated: 2026-02-09T23:59:44Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/maycarQlPFW6PW2M.webp?v=1770636660
   Price: €361.03 EUR
 - [FOREO LUNA 4 Face Cleansing Brush - Firming Face Massager - Anti Aging Face Care - Enhances Absorption of Facial Skin Care Products - Simple Skin Care Tools - Combination Skin](https://amazon-global-store-2.myshopify.com/products/foreo-luna-4-face-cleansing-brush-firming-face-massager-anti-aging-face-care-enhances-absorption-of-facial-skin-care-products-simple-skin-care-tools-combination-skin): LUNA 4 is the advanced 2-in-1 deep facial cleansing & firming brush the iconic & essential start of every proper daily skincare routine. The plush ultra-hygienic skin type-adjusted silicone combines with 16 adjustable intensities of T-Sonic™ pulsations offering the choice of Gentle Regular & Deep cleansing modes. Lift away dirt oil & excess sebum in just 1 minute and follow with a choice range of sophisticated lower-frequency firming massage routines for fresh smooth and younger-looking skin.
-  Updated: 2026-02-09T11:32:47Z
+  Updated: 2026-02-10T00:17:35Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/n2JZrzv6z8HXQmmG.webp?v=1770636700
   Price: €494.37 EUR
 - [Tablet 10 inch Android 12 Tablets with Keyboard 128GB ROM 16(8+8)GB RAM 1TB Expand 2.4G/5G WiFi Tablet Octa-Core 1920 * 1200 IPS Display 13MP Camera 7000mAh GPS ZONKO Tablet with Case Mouse Silver](https://amazon-global-store-2.myshopify.com/products/tablet-10-inch-android-12-tablets-with-keyboard-128gb-rom-168-8gb-ram-1tb-expand-2-4g-5g-wifi-tablet-octa-core-1920-1200-ips-display-13mp-camera-7000mah-gps-zonko-tablet-with-case-mouse-silver): [【Designed to be Bigger】ZONKO Newest Tablet comes with 8GB RAM the tablets already haswhich can add another 8GB of virtual memory in the settings to achieve a total of 16GB of running memory. Up to 128GB of ROM and 1TB of external storage give ample room for streaming or downloading your favorite shows and movies from Prime Video Netflix Disney+ and HBO. Enjoy your favorite content from Facebook Hulu Instagram TikTok and more through Google Play Store. 【Designed to be Responsive】Built with a powerful octa-core processor 16GB memory and 5G Wi-Fi this high-performance tablet is perfect for a variety of uses from gaming and entertainment to remote work and education that can meet all your needs 【Designed to Protect Your Privacy】Newest android 12 tablet offers more privacy control options so that users can have better control over their data. All fun no ads no distractions. Designed to Stay in Touch from Anywhere】 A large 10.1 inch 1920 x 1200 resolution display with 13MP Camera mean faster clearer and smoother connections on calls whether for work with family and friends on Zoom or on social media apps.brings your content to life in brilliant color whether indoors or outdoors making this android tablet a great tablet for study time or for a quick entertainment break. 【Designed for All-day Entertainment】 With 7000 mAh 14-hour battery life maximize your downtime for reading browsing the web watching videos and listening to music at home and on-the-go. 【A Great Gift Designed for the Whole Family】This tablet comes with Case keyboard mouse touch pen OTG SD card slot ejector Screen protector Charging Cord Charging cable User Manual. Thinking all for you! This android tablet is a perfect gift for her gift for mom gift for dad gift for son gift for daughter. 【1-Year Warranty】ZONKO tablet provide 12 months warranty service if you need any technical support please contact ZONKO customer service.]
-  Updated: 2026-02-09T11:33:56Z
+  Updated: 2026-02-10T00:02:37Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/h1MLtLlff1AjRNVD.webp?v=1770636767
   Price: €496.82 EUR
 - [HP 14" Chromebook Laptop 4GB 16GB | 14-ak040wm](https://amazon-global-store-2.myshopify.com/products/hp-14-chromebook-laptop-4gb-16gb-14-ak040wm): The HP Chromebook combines beautiful design and super-fast performance for a truly superb Chrome experience.
-  Updated: 2026-02-09T11:34:23Z
+  Updated: 2026-02-10T00:32:39Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/bri9SmD2paRiqMc8.webp?v=1770636797
   Price: €586.34 EUR
 - [BAGAIL Pickleball Paddles USAPA  Fiberglass Surface Pickleball Set Lightweight Pickle Ball Rackets with 4 Balls 1 Bag Designed in California for Traction and Stability - 4 Pack Green](https://amazon-global-store-2.myshopify.com/products/bagail-pickleball-paddles-usapa--fiberglass-surface-pickleball-set-lightweight-pickle-ball-rackets-with-4-balls-1-bag-designed-in-california-for-traction-and-stability-4-pack-green): [USA Pickleball : BAGAIL pickleball paddles have been  by the USA Pickleball Association (USAPA) for tournament play ensuring high safety and professionalism. Each paddle is manufactured strictly according to USAPA standards and carries a USAPA approval label Superior Construction: The paddles feature a unique fiberglass and polypropylene honeycomb core technology providing exceptional power and control. The fiberglass surface offers excellent rotational performance and reduced vibration for optimal ball strike feel. Protective edge guards reinforce the frame to prevent wear from ground contact or ball impacts extending the lifespan of the paddles Comfortable Ergonomic Grip: Designed with a perforated sweat-absorbent and cushioned grip these paddles offer superior comfort and grip for users. The 4.25" grip circumference allows for maximum wrist snap and range of motion Lightweight & Wide Design: The 7.5” widened surface significantly increases the ball contact area racket area providing more sweet spots for the perfect shot. These paddles are suitable for players of all levels. The medium weight range of 7.78 - 7.8 oz ensures a balance of power and control Complete Set: Each set includes 4 pickleball paddles 2 outdoor pickle balls 2 indoor pickle balls and 1 carry bag providing everything needed for a fun and competitive pickleball experience. Ideal for beginners intermediates and professional players this set offers excellent playability and durability]
-  Updated: 2026-02-09T11:38:32Z
+  Updated: 2026-02-10T00:10:07Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/0BAhMiVThCA670fU.webp?v=1770637043
   Price: €126.50 EUR
 - [Leather Folding Trunk Organizer (One)](https://amazon-global-store-2.myshopify.com/products/leather-folding-trunk-organizer-one): Keep your car organized and stylish with our premium Leather Car Trunk Organizer. This versatile storage solution is designed specifically for your trunk, ensuring everything you need is easy to access and neatly stored away. With a generous 40L capacity, you can effortlessly stow away groceries, sports gear, or emergency supplies. Crafted from high-quality leather, this double-layered storage box not only offers functionality but also adds a touch of elegance to your vehicle. Choose from an array of customizable colors and patterns to match your car's interior. Available in various styles including single layer, double layer, and even uncovered options, you can select the perfect fit for your needs. The foldable design makes it easy to store when not in use, ensuring your trunk space is maximized. Whether you're heading out for a family road trip or just running errands, this organizer is your go-to companion for a clutter-free ride. Check out the stunning images below to see how this stylish organizer can transform your car's trunk:
-  Updated: 2026-02-09T11:39:34Z
+  Updated: 2026-02-10T00:06:47Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2650,28 +2650,28 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/ryhZivEmqjm6ZBL8.webp?v=1770637125
     Price: €131.56 EUR
 - [Eyoyo Portable Monitor for Laptop 10 Inch Small Monitor 1920x1280 USB C Computer Display Travel Monitor with HDMI External Monitor for PC Phone Xbox Switch PS4 178° IPS Screen Plug & Play](https://amazon-global-store-2.myshopify.com/products/eyoyo-portable-monitor-for-laptop-10-inch-small-monitor-1920x1280-usb-c-computer-display-travel-monitor-with-hdmi-external-monitor-for-pc-phone-xbox-switch-ps4-178-ips-screen-plug-play): [FHD 1280P HDR Portable Monitor: 10.5 inch portable monitor adopts 1920*1280 FHD IPS screen delivering high definition vivid image that is more exquisite and realistic than 1080P. 100%sRGB and HDR mode enables a wider color range and built-in FreeSync features which makes this small portable monitor will deliver incredibly smooth life-like visuals when playing games watching videos or working. Super Realistic Fabulous Color Effects: 2023 upgraded external monitor designed with HDR technology and 100% sRGB 420cd/㎡ brightness and 1500:1 contrast ratio which makes the color transition will be more delicate and richer presenting clear and bright images and restoring the truest natural color accurately bringing a stunning fabulous visual enjoyment just like real. 3:2 Aspect Ratio: Eyoyo small portable monitor offered 3:2 aspect ratio tall monitor providing expansive content viewing ideal for utilising spreadsheets documents or coding. Offering extra vertical monitor area and diverse more line views this diminished document page scrolling for enhanced efficiency. Wide Compatibility & Plug and Play: This USB C Portable monitor with dual Type-C ports and Mini-HDMI port can compatible with most laptops smartphones PC PS/4 XBOX Nintendo Switch etc. You can easily connect your devices to this monitor for working extending phone display playing games watching videos etc. No driver or software is needed! "Slim & Portable: Travel portable monitor with a slim 0.3 inch profile and 0.8lb weight easy to carry. Comes with a scratch-proof leather bag that provides full protection for the portable monitor. The small portable monitor easily slips into a backpack or rests on a table. Would be a nice choice for business trips or travel and helps you get things done efficiently when youre on the go."]
-  Updated: 2026-02-09T11:40:24Z
+  Updated: 2026-02-10T00:17:02Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/0RDavdKUvcL7y0zk.webp?v=1770637149
   Price: €373.38 EUR
 - [Kirkland Signature Hair Regrowth Minoxidil for Men 2.11oz (6 Ct) (Pack of 3)](https://amazon-global-store-2.myshopify.com/products/kirkland-signature-hair-regrowth-minoxidil-for-men-2-11oz-6-ct-pack-of-3): Kirkland Signature Hair Regrowth  Minoxidil Foam for Men 2.11 Ounce (6 Count).
-  Updated: 2026-02-09T11:41:33Z
+  Updated: 2026-02-10T18:38:06Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/xGudDCLj4SWR9egj.webp?v=1770637221
   Price: €570.91 EUR
 - [Portable Printer Heat Transfer Printer P831 Supports 8.5 x 11 A4 Regular Copy Paper Wireless Bluetooth for Phone Tablet Portable Printers Wireless for Travel Home Use](https://amazon-global-store-2.myshopify.com/products/portable-printer-heat-transfer-printer-p831-supports-8-5-x-11-a4-regular-copy-paper-wireless-bluetooth-for-phone-tablet-portable-printers-wireless-for-travel-home-use): ["【Compatibility & Portability】 Our portable printer is compatible with smartphones iPad and laptops whether youre using an iOS or Android device. Thanks to its small and compact design noly weighs 1.75lb it fits easily in your briefcase or computer bag making it ideal for traveling the office the car or on the go. You can print wirelessly anytime anywhere without the hassle of set-up or waiting" 【Innovative Inkless Printing】 This wireless portable printer with advanced thermal transfer technology no ink cartridges or toner required. 1 Ribbon will prints up to 45 sheets. This inkless printer supports regular plain paper delivers high-resolution (300 DPI) printout for contracts invoices boarding passes and documentary proof 【Versatile Multisize Printing】 P831 inkless printer compatible with regular copy paper (US Letter A4 A5 B5) supports double-sided prints meeting all your printing needs with clarity and speed. P831 portable printer with state-of-the-art thermal transfer technology also can print on plain paper. Compared with thermal paper it saves cost to some extent and longer document retention time frames 【Rechargeable & Large Battery Capacity for on the go】 Equipped with a powerful 2000mAh battery our wireless portable printer can print up to 160 sheets paper on a full charge. Ideal for business trips in the car at home or as a learning companion for children this inkless portable printer gives you the freedom to print anywhere without worrying about battery life "【Easy to Set up & Use】 Our printer is particularly user-friendly. Simply install the app on your smartphone or tablet to print documents or images with one click. You can also connect to your computer via a USB-C cable that supports Windows Mac OS Chrome OS and Linux. With technical support were here to help with any questions or issues to ensure you get the most out of your printer" "【Low Noise High Performance】 The portable thermal printer with a noise level below 60db during printing its the ideal choice for business professionals needing to print in various settings like vehicle trucker cafes libraries and meeting rooms"]
-  Updated: 2026-02-09T11:43:44Z
+  Updated: 2026-02-10T00:20:59Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/TWodPm3AHRzx5GDk.webp?v=1770637350
   Price: €227.86 EUR
 - [Louise Crossbody](https://amazon-global-store-2.myshopify.com/products/louise-crossbody): This trendy, quilted crossbody bag, in a range of fashionable colors, offers versatility and style. It features a secure flap closure with a metallic clasp and has a well-organized interior. A highlight is the inclusion of two straps: an adjustable crossbody strap for comfortable, casual wear and an elegant chain strap for a more sophisticated look. Additionally, a matching quilted coin bag adds to its practical appeal. This bag is a perfect blend of function, style, and versatility. Height: 5" Length: 8" Width: 2.3"Adjustable Strap
-  Updated: 2026-02-09T15:11:13Z
+  Updated: 2026-02-10T03:43:19Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2693,7 +2693,7 @@ Amazon
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/9dyo7RL48bNu3L3_0ae8fb3f-7da0-450e-a9ce-e812a3867715.webp?v=1770649205
     Price: €254.79 EUR
 - [Sammy Wide Strap Crossbody](https://amazon-global-store-2.myshopify.com/products/sammy-wide-strap-crossbody): This wide-strap crossbody bag is the epitome of chic and functional. The wide strap provides comfort and support, while the spacious interior allows for easy organization of all your essentials. Whether running errands or going out for a night on the town, this bag is a must-have accessory.
-  Updated: 2026-02-09T15:06:10Z
+  Updated: 2026-02-10T03:57:02Z
   Vendor: Amazon global store
   Product Type: 
   Availability: Available
@@ -2706,6 +2706,95 @@ Amazon
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/FxhGdxXHK2voAKZ.webp?v=1770649212
     Price: €206.26 EUR
+- [Heated USB Jacket](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket): Stay warm and cozy all winter long with this innovative USB heated jacket. Equipped with advanced heating technology, it provides targeted warmth to your core and back. The adjustable heat settings allow you to customize your comfort level, making it perfect for outdoor activities like hiking, camping, or simply commuting.Material ClothProduct Attributes Ordinary, OversizePackage Size 480*310*200(1mm)
+  Updated: 2026-02-10T07:11:46Z
+  Vendor: Amazon global store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/m0APUYb11lMT6eWD.webp?v=1770655905
+  - [Black / 2XL](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670110574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/m0APUYb11lMT6eWD.webp?v=1770655905
+    Price: €94.84 EUR
+  - [Grey / S](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670143342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/OiJ7fug95rkAu8V7.webp?v=1770655915
+    Price: €96.25 EUR
+  - [Black / S](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670176110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/9d4k48xYP8sZmvhN.webp?v=1770655946
+    Price: €96.25 EUR
+  - [Grey / 2XL](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670208878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/D6qB7SzQFypJs7Mm.webp?v=1770655976
+    Price: €98.17 EUR
+  - [Grey / XL](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670241646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/MEb9fmqqo4A9Fqd9.webp?v=1770656007
+    Price: €97.52 EUR
+  - [Black / XL](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670274414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/xCQ1CGaaeepSBl2J.webp?v=1770655997
+    Price: €97.52 EUR
+  - [Black / 3XL](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670307182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/zb2m0lc8UODh1t8C.webp?v=1770656028
+    Price: €98.80 EUR
+  - [Grey / 3XL](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670339950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/JJVMtBCoCxmiP7XY.webp?v=1770656038
+    Price: €98.80 EUR
+  - [Black / L](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670372718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/qQeoyrmPAeO1NMJN.webp?v=1770655935
+    Price: €96.88 EUR
+  - [Grey / L](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670405486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/lmhsd1dME829PLSu.webp?v=1770656069
+    Price: €96.88 EUR
+  - [Grey / M](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670438254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/DHWlK0AVIc4uQwd7.webp?v=1770656059
+    Price: €96.25 EUR
+  - [Black / M](https://amazon-global-store-2.myshopify.com/products/heated-usb-jacket?variant=53291670471022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/8rjnSJtWVvt4Y0Jn.webp?v=1770656079
+    Price: €96.25 EUR
+- [Hand & Wrist Massager](https://amazon-global-store-2.myshopify.com/products/hand-wrist-massager): Experience soothing hand and wrist relief with this intelligent massager. Features multiple massage modes, wireless portability, air pressure, and heated compress options. Suitable for office, home, travel, and all ages.
+  Updated: 2026-02-10T05:41:43Z
+  Vendor: Amazon global store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/xpwCeMjJ5dMB7vvG.webp?v=1770656046
+  Price: €141.35 EUR
+- [AR Glasses 4K HD 3D IMAX Wearable VR Headset Smart Glasses for Video Display Myopia Friendly Portable Augmented Reality Glasses for Watch Stream & Game on PC/Tablet/Console](https://amazon-global-store-2.myshopify.com/products/ar-glasses-4k-hd-3d-imax-wearable-vr-headset-smart-glasses-for-video-display-myopia-friendly-portable-augmented-reality-glasses-for-watch-stream-game-on-pc-tablet-console): [【INCREDIBLE AR EXPERIENCE】This HD 3D AR smart glasses allows you experience 4K 60Hz resolution and refresh rate support over 1000 PPI and a field of view of up to 70° offering vivid clarity and a lifelike view experience in every video and game. Access your own wearable cinematic experience from anywhere no more neck pains. Watch a movie or play a game while lying in bed or on a pool chair. 【COMFORT & CONVENIENCE】This augmented reality goggles is lightweight and carefully calibrated for front to back balance our glasses provide a comfortable fit for almost any types of face providing you with a pleasant wearing experience. Share the same clear and worry experience with friends and family with different needs thanks to the built in 0 to 700° myopia correction. "【IDEAL FOR TRAVELING】This smart glasses with display is small and portable made for entertainment on the . You can have the biggest monitor with the smallest smart phone whether youre indoors outdoors commuting or on a flight. It is designed to your you can jump into your own private virtual theater such as movies games and so on. The fun is yours to choose." 【INNOVATIVE AR SPACE】This wearable display glasses uses the glasses with the wired screen sharing device by connecting your phone via USB. It is compatible with all smart phones and cannot be used with computers through an adapter. With 4000mAh large capacity battery immerse yourself in cinema grade entertainment at home on the or anywhere you desire. Create your mobile theater. 【100% QUALITY ASSURANCE】This augmented AR glasses have passed low blue light flicker and eye comfort (AR) tests ensuring prolonged use without dizziness and protecting your eyes. We are very confident in the quality of this augmented reality smart glasses and provide 24 months or refund for it. Please feel to reach us if you have any questions about your purchase.]
+  Updated: 2026-02-10T14:15:59Z
+  Vendor: Amazon global store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/AsoOamqnisPnIcKM.webp?v=1770656747
+  Price: €1,232.78 EUR
+- [Australian Silky Terrier #2 Happy Holidays Kitchen Towel Set of 2](https://amazon-global-store-2.myshopify.com/products/australian-silky-terrier-2-happy-holidays-kitchen-towel-set-of-2): Kitchen Towel Set of 2 featuring breed specific Silky Terrier artwork. Celebrate Christmas with this Christmas Kitchen Cotton Towels. This Kitchen Towel Set of 2 is from Caroline's Treasures collection Happy Holidays. Spruce up your kitchen decor with Caroline's Treasures Decorative White Kitchen Towel Set. This set of two dish towels showcases beautiful artwork from one of our talented artists, making them both practical and visually appealing. These towels are crafted from 100% cotton, offering excellent absorbency and durability, making them ideal for any kitchen task. Each white towel measures 19 inches by 28 inches, providing ample coverage for drying dishes or wiping up spills. The standout feature of these towels is the full-color artwork design printed on each one. They can serve as a vibrant accent in your kitchen, turning a functional item into a delightful piece of decor. When it comes to care, these towels are machine washable in cold water and can be dried on low heat. Remember to always use a pressing cloth when pressing the design, and avoid using bleach on the decorated towel. The Decorative White Kitchen Towel Set makes a great gift or a stylish addition to your own kitchen. This Kitchen Cotton Towels is from Caroline's Treasures Dogs category of products.
+  Updated: 2026-02-11T13:13:32Z
+  Vendor: Amazon global store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/sCFoF1qX8YywOLT.webp?v=1770762499
+  Price: €106.13 EUR
+- ["Large Capacity Odor-Proof Travel Pipe Bag with Lock"](https://amazon-global-store-2.myshopify.com/products/large-capacity-odor-proof-travel-pipe-bag-with-lock-1): Elevate your travel experience with the Firedog Odor-Proof Travel Pouch, designed to securely store your smoking accessories while keeping odors at bay. This spacious travel pouch features a  lock for added security, allowing you to travel with peace of mind. Crafted with functionality in mind, the pouch also boasts a windproof function, ensuring that your smoking experience remains uninterrupted even in breezy conditions. Ideal for those who appreciate organization, this pouch offers ample storage for your essential smoking tools, making it a perfect companion for any adventure. Whether you're heading out for a weekend getaway or attending a festival, this pouch is designed to meet all your needs. Gift giving made easy! This stylish and practical pouch is a wonderful choice for birthdays or holidays, making it a thoughtful present for friends and family who enjoy smoking. The Firedog Odor-Proof Travel Pouch is available in a variety of colors, including Black, Grey, Khaki, and many more, allowing you to choose the one that best fits your style. Each pouch measures 20*10*7.2cm and weighs just 0.23kg, making it lightweight and easy to carry. Enhance your smoking experience today with the Firedog Odor-Proof Travel Pouch - the ultimate blend of style, security, and functionality!
+  Updated: 2026-02-13T06:12:22Z
+  Vendor: Amazon global store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/C0LP1DlWVIeIeD3T.jpg?v=1770937571
+  Price: €50.00 EUR
+- [Realistic ATM Coin Bank - Creative European Decor](https://amazon-global-store-2.myshopify.com/products/realistic-atm-coin-bank-creative-european-decor): Introducing the Creative ATM Coin Bank, a unique decorative piece for your home that combines function and style. This European-style coin bank is designed to look like a real ATM, bringing a fun twist to saving your coins. Made from high-quality ABS material and electronic components, it ensures durability while adding a modern touch to any room. Available in a sleek Silver + Black color scheme, this coin bank is not just a practical storage solution but also a stunning decorative item that complements various interior designs. With dimensions of approximately 18.8x15x23.8cm, it fits perfectly on shelves, desks, or tables without taking up too much space. Enhance your home decor and encourage saving with this delightful ATM coin bank. It’s perfect for both adults and children, making it an ideal gift for birthdays, holidays, or any special occasion. Get yours today and start saving in style!
+  Updated: 2026-02-14T03:21:33Z
+  Vendor: Amazon global store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/5614/4238/files/Cqmv3nyOodeiMrbR.webp?v=1770996087
+  Price: €143.51 EUR
 
 ## Collections
 
@@ -2713,11 +2802,11 @@ Amazon
   Updated: 2026-02-07T09:34:35Z
   Total Products: 1
 - [Clothing](https://amazon-global-store-2.myshopify.com/collections/clothing)
-  Updated: 2026-02-09T15:01:06Z
-  Total Products: 13
+  Updated: 2026-02-13T21:39:42Z
+  Total Products: 16
 - [Clothing Accessories](https://amazon-global-store-2.myshopify.com/collections/clothing-accessories)
-  Updated: 2026-02-09T01:13:42Z
-  Total Products: 6
+  Updated: 2026-02-13T20:55:36Z
+  Total Products: 5
 - [Office Furniture](https://amazon-global-store-2.myshopify.com/collections/office-furniture)
   Updated: 2026-02-09T00:49:55Z
   Total Products: 0
@@ -2758,14 +2847,14 @@ Amazon
   Updated: 2026-02-09T00:45:28Z
   Total Products: 1
 - [Jewelry](https://amazon-global-store-2.myshopify.com/collections/jewelry)
-  Updated: 2026-02-09T00:45:24Z
-  Total Products: 4
+  Updated: 2026-02-13T20:56:37Z
+  Total Products: 3
 - [Games](https://amazon-global-store-2.myshopify.com/collections/games)
   Updated: 2026-02-09T00:45:26Z
   Total Products: 0
 - [Toys](https://amazon-global-store-2.myshopify.com/collections/toys)
-  Updated: 2026-02-09T00:45:27Z
-  Total Products: 0
+  Updated: 2026-02-13T15:21:29Z
+  Total Products: 1
 - [Baby & Toddler](https://amazon-global-store-2.myshopify.com/collections/baby-toddler)
   Updated: 2026-02-09T00:45:40Z
   Total Products: 0
@@ -2794,23 +2883,23 @@ Amazon
   Updated: 2026-02-07T09:34:36Z
   Total Products: 1
 - [Shoes](https://amazon-global-store-2.myshopify.com/collections/shoes)
-  Updated: 2026-02-09T00:42:38Z
-  Total Products: 1
+  Updated: 2026-02-13T21:32:22Z
+  Total Products: 7
 - [Luggage & Bags](https://amazon-global-store-2.myshopify.com/collections/luggage-bags)
   Updated: 2026-02-09T00:42:30Z
   Total Products: 1
 - [Household Supplies](https://amazon-global-store-2.myshopify.com/collections/household-supplies)
-  Updated: 2026-02-09T00:42:42Z
-  Total Products: 1
+  Updated: 2026-02-10T22:28:25Z
+  Total Products: 2
 - [Tables](https://amazon-global-store-2.myshopify.com/collections/tables)
   Updated: 2026-02-09T00:42:30Z
   Total Products: 0
 - [Outerwear example products](https://amazon-global-store-2.myshopify.com/collections/outerwear-example-products)
-  Updated: 2026-02-09T00:53:56Z
-  Total Products: 4
-- [Other example products](https://amazon-global-store-2.myshopify.com/collections/other-example-products)
-  Updated: 2026-02-09T00:42:46Z
+  Updated: 2026-02-13T22:00:09Z
   Total Products: 0
+- [Other example products](https://amazon-global-store-2.myshopify.com/collections/other-example-products)
+  Updated: 2026-02-13T21:48:31Z
+  Total Products: 6
 - [Kitchen & Dining](https://amazon-global-store-2.myshopify.com/collections/kitchen-dining)
   Updated: 2026-02-09T00:42:47Z
   Total Products: 0
@@ -2821,8 +2910,11 @@ Amazon
   Updated: 2026-02-08T23:55:46Z
   Total Products: 1
 - [Handbags, Wallets & Cases](https://amazon-global-store-2.myshopify.com/collections/handbags-wallets-cases)
-  Updated: 2026-02-09T15:10:28Z
+  Updated: 2026-02-09T16:57:55Z
   Total Products: 3
+- [Electronics](https://amazon-global-store-2.myshopify.com/collections/electronics)
+  Updated: 2026-02-09T16:54:11Z
+  Total Products: 1
 
 ## Store Pages
 
