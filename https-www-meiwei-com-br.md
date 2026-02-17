@@ -6,12 +6,12 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2017-07-10T14:22:56Z
 - Contact Email: vendas@meiwei.com.br
-- Updated At: 2026-02-10T16:01:17.905Z
+- Updated At: 2026-02-17T20:01:11.609Z
 
 ## Products
 
 - [Molho de pimenta tradicional (老干妈风味豆豉) - Lao Gan Ma 280g](https://www.meiwei.com.br/products/molho-de-pimenta-lao-gan-ma-tradicional-280g): O molho de pimenta Lao Gan Ma Tradicional (老干妈风味豆豉) é a pimenta chinesa mais famosa do mundo, pois ele é extremamente aromática e saborosa, sem contar que tem um toque de picância na medida certa. Isso torna o Lao Gan Ma super versátil para realçar em praticamente qualquer tipo de prato. INGREDIENTES: Óleo de soja [40%], Soja fermentada [ 30%] [ Soja , Água, Sal], Pimenta [25%], Açúcar, Intensificador de sabor: [E621] NÃO CONTÉM GLÚTEN Alérgicos: Soja. Marca: Lao Gan Ma País de Origem: China. Informação NutricionalPorção de 15g ( 1 UNIDADE )Quantidade Porção: %VDValor energético 84 kcal = 353KJ 8%Carboidratos 2g 1%Proteínas 1g 1%Gorduras Totais 8g 13%Gorduras Saturadas 1g 4%Gorduras Trans 0g 0%Fibra Alimentar 1g 4%Sódio 0,3mg 3%Valores diários com base em uma dieta de 2000 kal 8400 kj. Seu valor diário pode ser maior ou menor dependendo de sua necessidade % VD não estabelecida Contém 280g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
-  Updated: 2026-02-07T16:45:50Z
+  Updated: 2026-02-17T00:55:41Z
   Vendor: Lao Gan Ma (老干妈)
   Product Type: Molho de Pimenta（辣椒酱）
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-molho-lao-gan-ma-pimenta-carne-bovina-beef-chili-210g.png?v=1768922706
   Price: R$ 45,00 BRL
 - [Molho de pimenta (Chilli in Oil 老干妈油辣椒) - Lao Gan Ma 210g](https://www.meiwei.com.br/products/molho-de-pimenta-lao-gan-ma-chilli-in-oil): Após o sucesso do molho de pimenta chinesa Lao Gan Ma tradicional (老干妈风味豆豉), a marca resolveu criar uma linha de molhos completas com sabores diversos que agradam até os que tem o paladar mais exigente. E o molho de pimenta Lao Gan Ma Chilli in Oil (老干妈油辣椒) faz parte dessa família, este molho tem sabor único, perfeito para realçar o sabor dos mais diversos pratos. Este molho de pimenta é suave. INGREDIENTES: Óleo, pimenta, amendoim, glutamato monossódico (INS621), sal, açúcar branco, pimenta. NÃO CONTÉM GLÚTEN ALÉRGICOS: CONTÉM AMENDOIM E DERIVADOS DE SOJA. Mantenha em local fresco e seco, evite luz solar direta. INFORMAÇÃO NUTRICIONAL Porção 5g (1 colher chá) Quantidade por porção %VD (*) Valor Energético 33 Kcal - 137 Kj 2% Carboidratos 0g 0% Proteínas 0,3g 0% Gorduras Totais 3,4g 6% Gorduras Saturadas 0g 0% Gorduras Trans 0g ** Fibra Alimentar 0g 0% Sódio 1296mg 5% *Valores Diários com base em uma dieta de 2000kcal ou 8400kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.**VD não estabelecido. Manter em local fresco e seco, após aberto conservar sob refrigeração Origem: China Contém 210g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
-  Updated: 2026-02-05T20:57:59Z
+  Updated: 2026-02-17T00:55:41Z
   Vendor: Lao Gan Ma (老干妈)
   Product Type: Molho de Pimenta（辣椒酱）
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-molho-lao-gan-ma-pimenta-picada-pickled-chili-750g.jpg?v=1768925811
   Price: R$ 94,99 BRL
 - [Molho de pimenta aromática (老干妈香辣酱) - Lao Gan Ma 200g](https://www.meiwei.com.br/products/molho-de-pimenta-aromatica-lao-gan-ma-200g): Desperte seus sentidos com o Molho de Pimenta Aromática Lao Gan Ma （老干妈香辣酱）. Uma sinfonia de sabores que transformará suas refeições com sua combinação única de especiarias e picância irresistível. Deixe-se envolver pelo aroma tentador e intensidade marcante deste molho excepcional. Descubra o segredo culinário que está conquistando paladares ao redor do mundo. Adquira agora o Molho de Pimenta Aromática Lao Gan Ma （老干妈香辣酱） e eleve suas experiências gastronômicas a um novo patamar. Surpreenda-se a cada gota e faça da sua cozinha um verdadeiro festival de sabores memoráveis. Não perca mais tempo, experimente hoje mesmo! INGREDIENTES: Pimenta vermelha, fava, sal, farinha de trigo, óleo vegetal, aditivo alimentar - benzoato de sódio (INS211). CONTÉM GLÚTEN Atenção Alérgicos: Todos os ingredientes citados acima. Zero Lactose. Origem: ChinaManter em ambiente fresco e seco, após aberto conservar sob refrigeração. Contém 200g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
-  Updated: 2026-02-05T14:10:55Z
+  Updated: 2026-02-12T02:59:41Z
   Vendor: Lao Gan Ma (老干妈)
   Product Type: Molho de Pimenta（辣椒酱）
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/jinroameixa.jpg?v=1663169466
   Price: R$ 55,00 BRL
 - [Soju sabor Maçã verde (Green Apple) - Chum Churum 360ml](https://www.meiwei.com.br/products/soju-sabor-green-apple-maca-verde-chum-churum-360ml): O soju é uma bebida destilada transparente de origem coreana. Geralmente é bebida pura, mas também pode ser usada para a realização de drinks. É um destilado similar ao saquê, mas apresenta um teor alcoólico mas elevado e um sabor suave com notas doces. Esta irresistível fusão de tradição coreana e frescor frutado oferece uma experiência única em cada gole. O Soju Chum Churum Sabor Maçã Verde é a escolha perfeita para quem busca uma bebida refrescante e sofisticada. Adquira agora essa delícia em garrafa e transforme seus momentos em celebrações memoráveis. Deixe-se envolver pela autenticidade e qualidade que só a Chum Churum proporciona, elevando seus brindes a um novo patamar de prazer. Surpreenda-se e desfrute do Soju Sabor Maçã Verde, uma verdadeira joia da Chum Churum. INGREDIENTES: Água, álcool etilico, xarope de glicose, regulador de acidez, ácido tartárico, aroma de maçã, suco de maçã, adoçante stevia. TEOR ALCOÓLICO: 12% NÃO CONTÉM GLÚTEN Manter em ambiente seco e fresco. Origem: Coreia Contém 360ml Clique aqui e navegue por todos nossos sabores de Soju!
-  Updated: 2026-02-10T12:03:12Z
+  Updated: 2026-02-12T11:43:12Z
   Vendor: Lotte
   Product Type: Bebida Alcóolica
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/chinese-bbq.jpg?v=1767408170
   Price: R$ 299,99 BRL
 - [Gergelim Preto Torrado 100g - Kenko](https://www.meiwei.com.br/products/gergelim-preto-torrado-100g-kenko): Gergelim Preto Torrado 100g - Kenko Pode ser utilizado em saladas, lanches, pães, salgados e em diversas receitas. INGREDIENTES: Gergelim tostado preto. INFORMAÇÃO NUTRICIONAL Porção de 15g (1 colher de sopa) Quantidade por porção % VD (*) Valor Energético 90 kcal=378 kj 5% Carboidratos 3,9 g 1% Proteínas 2,5 g 3% Gorduras Totais 7,2 g 13% Gorduras Saturadas 1,0 g 5% Fibra Alimentar 2,1 g 8% Cálcio 148 mg 15% Ferro 2,2 mg 16% Fósforo 96 mg 14% Magnésio 53 mg 20% Zinco 1,0 mg 14% Não contém quantidade significativa de Gorduras trans e Sódio. (*) % Valores Diários com base em uma dieta de 2.000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Manter em local seco e fresco. Após aberto, consumir em até 30 dias. Origem: Brasil
-  Updated: 2026-02-05T21:02:35Z
+  Updated: 2026-02-16T20:35:22Z
   Vendor: Sakura
   Product Type: Condimento
   Availability: Available
@@ -179,14 +179,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/2.jpg?v=1663349180
   Price: R$ 159,99 BRL
 - [Pasta De Tom Kha (泰国椰子鸡汤-汤姆卡汤) - Aroy-D 400g](https://www.meiwei.com.br/products/pasta-de-tom-kha-aroy-d-400g): Ideal para fazer Tom Kha Kai, ou também conhecido como Tom Kha Gai. Prato da culinária tailandesa, muito conhecida feita com frango, leite de coco, molho de peixe com ervas e suco de limão. É uma sopa cremosa e leve que não é apenas deliciosa, mas também cheia de ervas e saudável. Com a Pasta De Tom Kha Aroy-D, a preparação da sua sopa ficará muito mais prática. Basta adicionar leite de coco e o frango, se desejar, cogumelos frescos. Produto embalado em um recipiente selado a vácuo. INGREDIENTES: Sal, açúcar, galanga, capim-limão, óleo de soja refinado, casca de limão kaffir, glutamato monossódico, ácido cítrico. INFORMAÇÃO NUTRICIONAL Porção de 100g Valor Energético 207kcal=865kj Gorduras 12g Gorduras Saturadas 1,8g Hidratos de Carbono 21g Açúcar 2,2g Fibra Alimentar ? Proteínas 2,7g Sal 20,9g ALÉRGICOS: CONTÉM SOJA Origem: Tailândia
-  Updated: 2025-12-06T23:32:50Z
+  Updated: 2026-02-14T12:26:54Z
   Vendor: Aroy-D
   Product Type: Condimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Capturadetela2022-09-16153304.jpg?v=1663595364
   Price: R$ 71,90 BRL
 - [Pasta de Tom Yum (泰国冬阴功）- Aroy-D 400g](https://www.meiwei.com.br/products/pasta-de-tom-yum-aroy-d-400g): Tom Yum é uma popular sopa azeda e picante com sabores ousados, tipicamente conhecida pelo uso de camarão grande no prato. Mas as combinações podem ser variadas, usando frutos do mar como peixes, camarões menores, vieiras, lulas, mexilhões. Fazer versões com frango ou vegetariana. Basta adicionar a Pasta Tom Yum Aroy-D em sua receita para deixá-la cheia de sabores. Produto embalado em um recipiente selado a vácuo. INGREDIENTES: Sal, açúcar, galanga, citronela, óleo de soja, pimenta, casca de limão kaffir, glutamato monossódico, ácido cítrico. ALÉRGICOS: CONTÉM SOJA INFORMAÇÃO NUTRICIONAL Porção de 100g Valor Energético 207kcal=865kj Gorduras 12g Gorduras Saturadas 1,8g Hidratos de Carbono 21g Açúcar 21g Fibra Alimentar ? Proteínas 2,7g Sal 20,9g Origem: Tailândia Contém 400g
-  Updated: 2026-01-22T16:43:17Z
+  Updated: 2026-02-14T12:26:55Z
   Vendor: Aroy-D
   Product Type: Condimento
   Availability: Available
@@ -221,19 +221,19 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Capturadetela2022-09-21114031_58fb7f10-9be4-4794-b53f-d4b2d4ef9772.png?v=1763645588
   Price: R$ 179,99 BRL
 - [Molho de ostra（海天上等蚝油）- Haday 520g](https://www.meiwei.com.br/products/molho-de-ostra-chines-haday-520g): Molho de ostra preparado com base de extrato de ostra natural. Tem sabor agradável e aroma de ostra, cor caramelo e consistência espessa, dá ao alimento um sabor salgado. Pode ser utilizado combinado com pratos de carnes e legumes. Excelente aditivo para arroz, macarrão, sopas, dim-sans (bolinhos) e tofu. O molho de ostra, assim como o molho de soja, muitas vezes é utilizado como um substituto para o sal no preparo de receitas. INGREDIENTES: Água, extrato de ostras, açúcar, sal, glutamato monossódico, caramelo, trigo, nucleotideo dissódico, goma xantana, ácido cítrico, sorbato de potássio. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM TRIGO E DERIVADOS DE OSTRA NÃO CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 15g (1 Colher de chá) Quantidade por porção %VD Valor Energético 11 Kcal 46KJ 1% Carboidratos 2,2g 1% Carboidratos 0,5g 1% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g 0% Fibras 0mg 0% Sódio 655mg 27% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.%VD não estabelecido. Manter em local seco e fresco. Origem: China Contém 520g
-  Updated: 2026-02-10T04:39:55Z
+  Updated: 2026-02-15T04:33:59Z
   Vendor: Haday
   Product Type: Molho de Ostra
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Capturadetela2022-09-22110201_f4e54ab0-f18a-4397-b9d2-a1d07be6c1bf.png?v=1763647377
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-molho-ostra-haday-520g-garrafa-fundo-branco.png?v=1771127705
   Price: R$ 25,00 BRL
 - [Molho de Ostra Kum Chun（李锦记锦珍蚝油）- Lee Kum Kee 480g](https://www.meiwei.com.br/products/copia-de-molho-de-ostra-chines-haday-520g): O molho de ostra Lee Kum Kee, é refinado feito a partir de extrato de ostras de qualidade. Possui um frescor único da ostra, a cor caramelada e brilhante, e a textura uniforme e suave. É considerado um tempero multiuso, pois pode ser utilizado em diversos pratos e receitas, como carnes, frangos, peixes, frutos do mar, vegetais, massas (famoso Yakisoba), sopas, arroz e até mesmo cogumelos como shimeji e shitake. Pode-se marinar, temperar, refogar e ser utilizado como base de molhos. Produto já vem pronto para o consumo. INGREDIENTES: Água, açúcar, sal, amido modificado, extrato de ostra (ostra, água, sal), realçador de sabor (glutamato monossódico), farinha de trigo, corante (caramelo III - Processo amoniacal), conservantes (benzoato de sódio). CONTÉM GLÚTEN ALÉRGICOS: CONTÉM TRIGO E PODE CONTER CEVADA INFORMAÇÃO NUTRICIONAL Porção 12g (1 colher de sopa) Quantidade por porção %VD (*) Valor Energético 11 Kcal = 48 Kj 1% Carboidratos 2,8g 1% Proteínas 0g 0% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g Fibra Alimentar 0g 0% Sódio 425mg 18% **%Valores Diários de referência com base em uma dieta de 2000 Kcal ou 8400Kj. Seus valores diários podem ser maiores ou menores dependendo das suas necessidades energéticas. Manter em ambiente seco e fresco. Após aberto, manter sob refrigeração. Origem: China Contém 480g
-  Updated: 2026-02-09T19:59:07Z
+  Updated: 2026-02-14T12:26:51Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Ostra
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/CapturadeTela2022-11-17as10.53.21.png?v=1668693329
-  Price: R$ 49,99 BRL
+  Price: R$ 53,45 BRL
 - [Molho de ostra Kum Chun（李锦记锦珍蚝油）- Lee Kum Kee 2.2kg](https://www.meiwei.com.br/products/copia-de-molho-de-ostra-kum-chun-lee-kum-kee-480g): O molho de ostra Lee Kum Kee, é refinado feito a partir de extrato de ostras de qualidade. Possui um frescor único da ostra, a cor caramelada e brilhante, e a textura uniforme e suave. É considerado um tempero multiuso, pois pode ser utilizado em diversos pratos e receitas, como carnes, frangos, peixes, frutos do mar, vegetais, massas (famoso Yakisoba), sopas, arroz e até mesmo cogumelos como shimeji e shitake. Pode-se marinar, temperar, refogar e ser utilizado como base de molhos. Produto já vem pronto para o consumo. INGREDIENTES: Água, açúcar, sal, amido modificado, extrato de ostra (ostra, água, sal), realçador de sabor (glutamato monossódico), farinha de trigo, corante (caramelo III - Processo amoniacal), conservantes (benzoato de sódio). CONTÉM GLÚTEN ALÉRGICOS: CONTÉM TRIGO E PODE CONTER CEVADA Manter em ambiente seco e fresco. Após aberto, manter sob refrigeração. Origem: China Contém 2,2kg
   Updated: 2026-02-03T13:19:35Z
   Vendor: Lee Kum Kee
@@ -256,12 +256,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/molho-ostra-680g-lkk.png?v=1664212175
   Price: R$ 43,90 BRL
 - [Vinho de Arroz Lao Cai Chen（老才臣料酒）-500ml](https://www.meiwei.com.br/products/vinho-de-arroz-culinario-chines-lao-cai-chen-500ml): Vinho de Arroz Culinário Chinês Lao Cai Chen - 500ml O vinho de arroz culinário chinês Lao Cai Chen é feito com especiarias selecionadas que torna seu sabor puro e um condimento ideal para cozinhar, temperar, refogar, estufar frango, pato, preparo de peixes, etc. Teor alcoólico: 10% INGREDIENTES: Água, álcool comestível, vinho de arroz, sal, especiarias (anis estrelado, canela, pimenta sichuan, cominho, amomum), ácido glutâmico, sódio, cor caramelo. Manter em ambiente seco e arejado.
-  Updated: 2026-02-05T16:04:59Z
+  Updated: 2026-02-16T15:09:37Z
   Vendor: Lao Cai Chen
   Product Type: Bebida Alcóolica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/sake-culinario-chines-500.png?v=1664213852
-  Price: R$ 39,99 BRL
+  Price: R$ 49,99 BRL
 - [Óleo De Amendoim（鲁花5S压榨一级花生油）- Luhua 1L](https://www.meiwei.com.br/products/oleo-de-amendoim-chines-luhua-1l): Luhua é a marca número um de óleo de cozinha na China, ela escolhe seus ingredientes de alta qualidade para seus produtos, afim de garantir a qualidade, e todos os ingredientes são garantidos sem OGM. Possui um processo de prensagem para reter o rico aroma do amendoim. INGREDIENTES: Óleo de Amendoim. Processamento de primeira classe. Manter o produto em local fresco e seco.
   Updated: 2026-02-06T19:11:28Z
   Vendor: Luhua
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-molho-soja-escuro-cogumelo-haday-500ml.jpg?v=1766501918
   Price: R$ 39,90 BRL
 - [Shoyu Molho de Soja Escuro Chinês Haitian Classic 海天酱油 老抽王 500mL dark soy sauce](https://www.meiwei.com.br/products/shoyu-molho-de-soja-escuro-haitian-classic-500ml): O Shoyu Molho de Soja Escuro Chinês Haitian Classic 海天酱油 老抽王 é o tradicional dark soy sauce da marca Haitian, uma das mais famosas da China. Diferente do shoyu claro, o shoyu escuro é mais espesso, com cor bem intensa e sabor levemente adocicado, perfeito para: dar cor brilhante a pratos salteados e ensopados temperar e finalizar carnes, frango, porco e tofu usar em cozidos, marinadas e molhos da culinária chinesa Produzido na China com processo de fermentação tradicional, este Haitian Classic é ideal para quem quer reproduzir o sabor autêntico de receitas chinesas em casa, como frango xadrez, carne com brócolis, porco caramelizado e muito mais. Lista de ingredientes do produto água, soja, trigo, sal, açúcar, corante caramelo, regulador de acidez INS 260 (ácido acético), conservador INS 202 (sorbato de potássio). Contém glúten e derivados de soja. Tabela nutricional Porção de 15 mL (1 colher de sopa) – valores aproximados para shoyu escuro: Informação Nutricional Porção 15 mL %VD(*) Valor energético 10 kcal = 42 kJ 1% Carboidratos 1,5 g 1% Proteínas 1,0 g 1% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g - Fibra alimentar 0 g 0% Sódio 900 mg 38% (*) % Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de receita usando o produto Frango salteado com shoyu escuro Haitian Ingredientes: 500 g de peito ou sobrecoxa de frango em tiras 2 colheres (sopa) de Shoyu Molho de Soja Escuro Haitian Classic 1 colher (sopa) de shoyu claro (opcional, se quiser equilibrar) 1 colher (sopa) de óleo (girassol, soja ou amendoim) 1 colher (chá) de açúcar 2 dentes de alho picados 1 pedaço pequeno de gengibre picado 1/2 cebola em pétalas 1/2 pimentão em tiras Cebolinha picada a gosto Modo de preparo: Tempere o frango com 1 colher (sopa) de shoyu escuro Haitian e reserve por 10–15 minutos. Aqueça o óleo em fogo alto, doure o alho e o gengibre. Junte o frango e salteie até ficar bem cozido e levemente dourado. Acrescente a cebola e o pimentão, mexendo rapidamente. Adicione 1 colher (sopa) de shoyu escuro Haitian, o açúcar e, se quiser, um pouco de shoyu claro para ajustar o sal. Misture até o molho reduzir e envolver bem o frango, ficando brilhante e com cor intensa. Finalize com cebolinha picada e sirva com arroz branco ou macarrão oriental. Como armazenar Antes de abrir: conservar em local seco, fresco e ao abrigo da luz solar direta. Depois de aberto: manter bem fechado, de preferência refrigerado, e consumir em até 30–60 dias para melhor qualidade de sabor. Não congelar. Agite levemente antes de usar, se houver depósito natural.
-  Updated: 2026-02-09T22:53:41Z
+  Updated: 2026-02-16T17:39:32Z
   Vendor: Haday（海天）
   Product Type: Molho de Soja
   Availability: Available
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/chaderosas.jpg?v=1664806269
   Price: R$ 59,99 BRL
 - [Chá de Rosas Secas - Kakoo 30gr](https://www.meiwei.com.br/products/cha-de-rosas-secas-kakoo-30gr): Rosas Secas - kakoo 30g Chá de rosas secas é ótimo para tratar dores de garganta, tosse e ajuda a amenizar outros focos de inflamação no organismo. Ela também possui propriedades antioxidantes e depurativas que auxiliam a eliminar toxinas e realizar a limpeza do organismo. Pode-se também utilizar a rosa seca para fazer banhos, skincare, decorar bolos, entre outros fins alimentícios. Contém os botões das rosas secas. INGREDIENTES: Rosas secas NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por porção %VD(*) Valor Energético 748 Kj 9% Proteínas 6g 10% Gorduras 0g 0% Carboidratos 38g 13% Sódio 30mg 2% *Valores diários com base em uma dieta de 2000 kal 8400 kj. Seu valor diário pode ser maior ou menor dependendo de sua necessidade. Origem: China
-  Updated: 2026-02-10T15:37:17Z
+  Updated: 2026-02-16T07:53:03Z
   Vendor: Kakoo
   Product Type: Chá
   Availability: Available
@@ -396,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/balalimaoetangerina.jpg?v=1665083795
   Price: R$ 59,99 BRL
 - [Galangal desidratado (Gengibre Tailandês) - Cock Brand 100g](https://www.meiwei.com.br/products/galangal-tailandes-desidratado-100g-gengibre-tailandes): Galangal também conhecido como gengibre tailandês, é utilizado em diversas receitas com peixe, frango, carne bovina e nas mais diversas receitas de comida tailandesa. Possui um aroma acentuado encantador para base de caldo e molhos. Hidratar em água por cerca de 30 minutos ou até adquirir consistência macia. INGREDIENTES: Galangal MANTER EM LOCAL SECO E AREJADO NÃO CONTÉN GLÚTEN Origem: Tailândia
-  Updated: 2026-02-03T13:19:36Z
+  Updated: 2026-02-10T20:57:33Z
   Vendor: Cock Brand
   Product Type: Tempero
   Availability: Available
@@ -473,12 +473,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/biscoito92g.jpg?v=1666210234
   Price: R$ 45,90 BRL
 - [Biscoito de arroz doce Senbei - Want Want 122g](https://www.meiwei.com.br/products/biscoito-de-arroz-doce-senbei-want-want-122g): Biscoito à base de arroz com cobertura de glacê fino de açúcar. Tem consistência aerada, muito leve. Ótimo acompanhamento para chás e cafés. A embalagem contém 10 pacotes com 2 biscoitos em cada. Contém um sachê "dessecante" dentro do saco não comestível. INGREDIENTES: Arroz, açúcar, óleo de palma, sal, gelatina, glutamato monossódico (E621), inosinato dissódico (E631) e guanilato dissódico (E627). NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 12g (1 pacote com 2 unidades) Quantidade por Porção %VD(*) Valor Energético 60 Kcal 3% Carboidratos 10g 3% Proteínas 1g 1% Gorduras Totais 2,5g 4% Gorduras Saturadas 1g 5% Gorduras Trans 0g 0% Fibra Alimentar 0g 0% Sódio 55mg 2% *Valores Diários de referência, com base em uma dieta de 2000 Kcal ou 8400Kj. Manter em ambiente seco e arejado. Origem: China
-  Updated: 2026-02-03T13:19:36Z
+  Updated: 2026-02-16T10:07:55Z
   Vendor: Want Want
   Product Type: Doce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/biscoitodoce122g.jpg?v=1666210298
-  Price: R$ 33,12 BRL
+  Price: R$ 35,00 BRL
 - [Marshmallow Recheado Blueberry Mirtilo - Royal Family 90g](https://www.meiwei.com.br/products/marshmallow-recheado-blueberry-mirtilo-royal-family-90g): Marshmallow Recheado Blueberry Mirtilo - Royal Family 90g Marshmallow branco recheado com geleia sabor mirtilo (mirtilo), embalados individualmente. Podem ser levados como lanche ou petisco na bolsa. INGREDIENTES: Açúcar, maltose, dextrose, trealose, suco de mirtilo, amido de batata, sorbitol, espessante pectina e gelatina, aromatizante. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E LEITE. Pronto para consumo. Armazenar em local seco e arejado.
   Updated: 2026-02-05T21:44:11Z
   Vendor: Royal Family
@@ -487,12 +487,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeimagens2_14.png?v=1681324115
   Price: R$ 38,90 BRL
 - [Shoyu Molho De Soja Premium - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/molho-de-soja-premium-lee-kum-kee-500ml): Molho de soja utilizado na culinária chinesa, é mais denso e salgado que o shoyu japonês. O molho de Soja Premium Lee Kum Kee é feito de grãos de soja e farinha de trigo. Utilizando métodos tradicionais e naturais de fermentação. O molho de soja premium tem um sabor, cor e aroma ricos que irão realçar a sua receita. INGREDIENTES: Água, sal, soja, açúcar, farinha de trigo, benzoato de sódio, dissódico 5-inosinato, dissódico 5-guanilato. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM SOJA, TRIGO, PODE CONTER CEVADA, CRUSTÁCEOS(CAMARÃO), PEIXES, AMENDOIM, LEITE. Conservar em local seco e arejado. Após aberto, manter bem fechado e sob refrigeração. Origem: China Contém 500ml
-  Updated: 2026-02-08T10:19:03Z
+  Updated: 2026-02-16T17:39:32Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/shoyu.jpg?v=1666295973
-  Price: R$ 43,29 BRL
+  Price: R$ 47,50 BRL
 - [Marshmallow Recheado Sabor Chocolate - Royal Family - 90g](https://www.meiwei.com.br/products/marshmallow-recheado-sabor-chocolate-royal-family-90g): Marshmallow Recheado Blueberry Mirtilo - Royal Family - 90g Marshmallow branco recheado com recheio sabor chocolate, embalados individualmente. Podem ser levados como lanche ou petisco na bolsa. INGREDIENTES: Açúcar, maltose, dextrose, trealose, creme sabor chocolate (açúcar, óleo de palma e soja, chocolate em pó, massa de cacau, baunilha em pó, amido de batata, aromatizante, emulsificante[lecitinas, mono e diglicerídeos de ácidos graxos]), sorbitol, espessante pectina e gelatina. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM DERIVADOS DE SOJA E LEITE. Pronto para consumo. Armazenar em local seco e arejado. Origem: Taiwan
   Updated: 2026-02-05T21:44:41Z
   Vendor: Royal Family
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/CapturadeTela2022-10-21as16.39.10.png?v=1666381246
   Price: R$ 33,90 BRL
 - [Macarrão de arroz 10mm (Ho Fun) - KuiShuPai 250g](https://www.meiwei.com.br/products/macarrao-de-arroz-sha-ho-fun-hofen-250g-espessura-larga): O Macarrão de arroz 10mm, também conhecido como Ho Fun (ou Hor Fun), é um tipo tradicional de massa larga e achatada, muito usado na culinária cantonesa e em pratos asiáticos como stir fry, sopas e o clássico Chow Fun. Feito com arroz, é naturalmente sem glúten e possui textura macia e leve, absorvendo bem os sabores dos molhos e temperos. Ideal para receitas rápidas na wok ou para preparar pratos como o famoso "Beef Ho Fun", com tiras de carne e legumes salteados. INGREDIENTES: Arroz, amido e água. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 80g (1 Prato Raso) Quantidade por Porção %VD(*) Valor Energético 283 Kcal/ 1187 Kj 10 Carboidratos 34g 15 Proteína 3,2g 8 Gorduras Totais 0g 0 Gorduras Saturadas 0g 0 Gorduras Trans 0g (**) Fibra Alimentar 2g 8 Sódio 0mg 0 (*) Valores Diários de referência com base em uma dieta de 2000 Kcal. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. (**) Valor Diário não estabelecido Após aberto manter a embalagem fechada em local seco e fresco. Origem: China Contém 250g
-  Updated: 2026-02-07T16:45:52Z
+  Updated: 2026-02-14T02:44:34Z
   Vendor: Kui Shu Pai
   Product Type: Massa
   Availability: Available
@@ -543,7 +543,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/MOLHODESOJA1.6LMASTER.jpg?v=1666872770
   Price: R$ 110,99 BRL
 - [100 Espetinhos de Bambu com Nó - Escolha o tamanho](https://www.meiwei.com.br/products/100-palitinhos-de-bambu-com-no-9-cm): Espetos de bambu com nó ideal para decorar alimentos em buffet, lanches, salgados, doces, drinks e petiscos. Sendo também muito útil para pegar alimentos, como frios em cubos, salames, azeitonas. Podendo ser utilizados também para servir tábuas de frios e frutas, mini hamburgueres, entre outras coisas. Os palitos de bambu deixará os pratos mais belos e sofisticados, além de proporcionar maior facilidade no manuseio para comer o alimento. MATERIAL: Bambu Origem: China Confira aqui outros modelos de espetinhos disponíveis em nosso site!
-  Updated: 2026-02-05T21:48:56Z
+  Updated: 2026-02-14T14:48:50Z
   Vendor: Mei Wei
   Product Type: Descartável
   Availability: Available
@@ -617,11 +617,11 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/0ca8c73d539668dc5af3573def040a2a.png?v=1668458181
   Price: R$ 120,00 BRL
 - [Chá de Oolong Tea 20 sachês - Fujian 40g](https://www.meiwei.com.br/products/cha-de-oolong-tea-20-saches-fujian-40g): Originário da cultura chinesa, o chá Oolong é semi-oxidado e semi-fermentado. Possui um delicioso gosto amargo e levemente adocicado, um pouco parecido com o chá verde. Ele é feito a partir das folhas da mesma planta (Camellia Sinensis) que dá também origem ao chá verde e ao chá preto, a diferença entre eles é o teor de oxidação. O Oolong encontra-se bem no meio, entre o chá verde e o chá preto, e por isso é chamado de semi-oxidade. INGREDIENTES: Folha de Caméllia Sinensis NÃO CONTÉM GLÚTEN Manter em ambiente fresco e arejado.
-  Updated: 2026-01-30T22:02:14Z
+  Updated: 2026-02-16T18:53:11Z
   Vendor: Fujian
   Product Type: Chá
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/155827b6f3a172650b07b06c6881e6e7.jpg?v=1668458559
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-cha-oolong-fujian-40g-20-saches-caixa-fundo-branco.png?v=1771037336
   Price: R$ 16,99 BRL
 - [Chá Chinês Vermelho Pu'Er Envelhecido Premium 340g](https://www.meiwei.com.br/products/cha-chines-vermelho-puer-envelhecido-premium-340g): Produto premium e selecionado a partir de espécies de folhas grandes de árvores em montanhas chinesas, super tradicional. Como preparar: Separe as folhas – retire com cuidado um pedaço do disco, em média 3 a 5 g (aprox. 1 colher de chá) para cada xícara de 250 ml. Faça a lavagem das folhas – coloque as folhas em um bule, infusor ou gaiwan e adicione água quente (90–95 °C) apenas para cobri-las. Aguarde 5 a 10 segundos e descarte essa água. Esse processo “acorda” o chá e prepara as folhas. Primeira infusão – adicione novamente água quente (90–95 °C) e deixe por 20 a 30 segundos, depois coe. Infusões seguintes – reutilize as mesmas folhas até 6 a 8 vezes, aumentando um pouco o tempo de infusão a cada preparo. Ajuste conforme o seu gosto – se prefere o chá mais suave, deixe menos tempo; para um sabor mais intenso, aumente a infusão. 👉 Dica: tradicionalmente, o Pu-erh é preparado em infusões curtas e sucessivas (método gongfu), o que realça os diferentes aromas e sabores a cada preparo. INGREDIENTES: Chá vermelho da China NÃO CONTÉM GLÚTEN. Manter em local seco e arejado. Evite exposição à luz solar.
   Updated: 2026-02-05T21:51:11Z
@@ -638,7 +638,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Designsemnome.jpg?v=1668601169
   Price: R$ 39,90 BRL
 - [Chá De Crisântemo - Zhongshan 100g](https://www.meiwei.com.br/products/cha-de-crisantemo-importado-zhongshan-100g): O crisântemo é uma erva tradicional chinesa, maravilhosa que é comumente utilizada na culinária asiática. É normalmente utilizada para fazer chás, mas também pode ser consumido cru ou cozido em sopas. 100% natural, preservado em sua forma seca e pode ser armazenado por um longo tempo. INGREDIENTES: Crisântemo seco Manter em local seco e fresco, longe da luz solar direta. Origem: China Contém 100g
-  Updated: 2026-01-06T12:03:13Z
+  Updated: 2026-02-13T01:29:28Z
   Vendor: Zheng Feng Brand
   Product Type: Chá
   Availability: Available
@@ -750,12 +750,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/1313dd21d6d179122f17c45e46c23e2c.jpg?v=1668607840
   Price: R$ 77,99 BRL
 - [Folhas De Limão Kaffir Desidratadas - Cock Brand 100g](https://www.meiwei.com.br/products/folha-de-limao-kaffir-desidratadas-100g): O limão kaffir é nativo do Sudeste Asiático, suas folhas possuem uma cor verde esmeralda e lóbulos grandes que parecem duas folhas grudadas. Seu aroma floral limonado soma notas cítricas em sopas, saladas, molhos e frituras. Podem ser adicionadas em maridas para pratos com frango, carne de porco e cordeiro. Muitas receitas tailandesas apresentam folhas de limão como ingrediente chave. INGREDIENTES: Folhas de limão kaffir seco Conservar a embalagem bem fechada e longe da umidade. Origem: Tailândia Contém 100g Clique aqui e veja nosso blog post sobre o limão kaffir!
-  Updated: 2026-02-06T14:26:41Z
+  Updated: 2026-02-13T11:37:47Z
   Vendor: Cock Brand
   Product Type: Condimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/a788990d0b800918ea79a4f3dee5b42b.png?v=1668608001
-  Price: R$ 41,00 BRL
+  Price: R$ 41,02 BRL
 - [Folhas de Limão Kaffir Desidratadas - Hand Nguan Soon 30g](https://www.meiwei.com.br/products/folha-de-limao-kaffir-desidratadas-30g): O limão kaffir é nativo do Sudeste Asiático, suas folhas possuem uma cor verde esmeralda e lóbulos grandes que parecem duas folhas grudadas. Seu aroma floral limonado soma notas cítricas em sopas, saladas, molhos e frituras. Podem ser adicionadas em maridas para pratos com frango, carne de porco e cordeiro. Muitas receitas tailandesas apresentam folhas de limão como ingrediente chave. INGREDIENTES: Folhas de limão kaffir seco Conservar a embalagem bem fechada e longe da umidade. Origem: Tailândia Contém 30g Clique aqui e veja nosso blog post sobre o limão kaffir!
   Updated: 2026-02-05T21:57:29Z
   Vendor: Hand Nguan Soon
@@ -862,7 +862,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/ba079ffd98202bad5d53901cbc274f0b.jpg?v=1668617287
   Price: R$ 77,99 BRL
 - [Molho de pimenta e alho (Chilli Garlic Sauce) - Lee Kum Kee 368g](https://www.meiwei.com.br/products/molho-chili-garlic-sauce-lee-kum-kee-368g): Esta pasta de ingredientes é uma mistura bem equilibrada de chili e alho, proporcionando um molho quente saboroso para todas as batatas fritas. Use com todas as carnes e frutos do mar e desfrutar do grande aroma que transmite aos ingredientes enquanto você cozinhar em sua cozinha! INGREDIENTES: Pimenta Salgada, Alho, Água, Açúcar, Vinagre de Arroz, Amido de Milho, Ácido de Molho Modificado, Ácido Acético. NÃO CONTÉM GLÚTEN Origem: China Contém 368g
-  Updated: 2026-01-19T01:02:19Z
+  Updated: 2026-02-14T11:51:01Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Pimenta（辣椒酱）
   Availability: Available
@@ -876,7 +876,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/208a2d342a7b2a59a06e9cfe87c39fe7.png?v=1668618814
   Price: R$ 62,00 BRL
 - [Molho para grelhado e churrasco (Char Siu Sauce) - Lee Kum Kee 397g](https://www.meiwei.com.br/products/molho-p-grelhado-ou-churrasco-char-siu-sauce-397g): Molho Char Siu Sauce é um molho chinês para churrasco. Indicado para temperar carnes, frango, frutos do mar e legumes. Muito indicado para preparo de churrasco. INGREDIENTES: Açúcar, água, sal, pasta de soja fermentada, (água, soja, farinha de trigo, mel, molho de soja (água, sal, soja, trigo, corante, caramelo I, simples, alta frutose, xarope de milho, xarope de malte (arroz, malte de cevada, amido de milho modificado, alho desidratado especiarias, regulador de acidez, (ácido acético) corante (vermelho allura AC) COLORIDO ARTIFICIALMENTE CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA, TRIGO, CEVADA, PODE CONTER CRUSTÁCEOS, (CAMARÃO) PEIXES, AMENDOIM, LEITE INFORMAÇÃO NUTRICIONAL Porção de 18g (1 Colher de sopa) Quantidade por Porção %VD(*) Valor Energético 60 Kcal = 251 Kj 3% Carboidratos 14 g 5% Proteínas 1 g 1% Gorduras Totais 0,5 g 1% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 970 mg 40% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local fresco e arejado. Após aberto manter sob refrigeração. Origem: China Contém 397g
-  Updated: 2026-02-06T14:01:04Z
+  Updated: 2026-02-11T18:02:51Z
   Vendor: Lee Kum Kee
   Product Type: Molhos Diversos
   Availability: Available
@@ -904,12 +904,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-molho-chines-para-grelhados-master-xianwei-shaokaozhi-250ml.jpg?v=1766327071
   Price: R$ 25,00 BRL
 - [Molho de feijão preto e alho (Black Bean Garlic Sauce) - Lee Kum Kee 368g](https://www.meiwei.com.br/products/molho-de-feijao-preto-e-alho-lee-kum-kee-368g): O Molho de Feijão Preto e Alho é um condimento robusto e saboroso, amplamente utilizado na culinária asiática. Ideal para temperar carnes, frutos do mar e vegetais, ele traz um equilíbrio perfeito entre o sabor fermentado do feijão preto e o toque marcante do alho. O molho de feijão preto e alho é uma mistura robusta e saborosa, muito utilizada na culinária asiática, especialmente em pratos chineses. Feito com feijão preto fermentado e alho, ele oferece um sabor profundo, levemente salgado e umami, com um toque picante e aromático do alho. Ideal para refogar vegetais, carnes e frutos do mar, esse molho também é excelente para dar um toque especial em marinadas, ensopados e até em noodles. É perfeito para quem busca um tempero intenso e autêntico para enriquecer seus pratos. INGREDIENTES: Molho de soja (água, sal, soja, farinha de trigo), feijão preto fermentado (feijão preto, sal, água), água, açúcar, alho desidratado, sal, óleo de soja, vinho de arroz ( água, arroz), amido de milho modificado. CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA, TRIGO, PODE CONTER CEVADA CRUSTÁCEOS (CAMARÃO), PEIXE, AMENDOIM, LEITE. INFORMAÇÃO NUTRICIONAL Porção de 12g (1 colher de sopa) Quantidade por Porção %VD(*) Valor Energético 18 Kcal = 77 Kj 1% Carboidratos 1,6 g 1% Proteínas 1,1 g 1% Gorduras Totais 0,8 g 1% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 707 mg 29% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Origem: China Contém 368g
-  Updated: 2026-02-07T11:47:26Z
+  Updated: 2026-02-13T11:14:18Z
   Vendor: Lee Kum Kee
   Product Type: Molhos Diversos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/e11a9aad19f7f4cb3dc2e0beabe2a7ba.jpg?v=1668622330
-  Price: R$ 66,90 BRL
+  Price: R$ 66,79 BRL
 - [Molho De Laranja (orange Sauce) Pantai - 200ml](https://www.meiwei.com.br/products/molho-de-laranja-orange-sauce-pantai-200ml): Molho De Laranja (orange Sauce) Pantai - 200ml Molho ideal para o preparo de frango ao molho de laranja, frango empanado com molho de laranja e gergelim. Para marinar frituras e frutos do mar. Possui um delicioso sabor agridoce. INGREDIENTES: Água, açúcar (12,33%), laranja, suco de laranja, alho, amido de milho modificado (E1422), sal, pimenta chilli amarelo, ácido acético e aromatizante. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia
   Updated: 2026-02-04T12:48:47Z
   Vendor: Pantai
@@ -974,12 +974,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/MolhoDePimentaDoce_sweetChilliSauce_Gw5Litros.jpg?v=1668705196
   Price: R$ 299,99 BRL
 - [Molho de Pimenta doce (Sweet Chilli Sauce) - Pantai  4,5kg](https://www.meiwei.com.br/products/molho-de-pimenta-sweet-chili-sauce-pantai-4-5kg): O molho de pimenta Sweet Chili Pantai é ideal para o acompanhamento de empanados e outras frituras. Ele trás em seu sabor uma mistura do doce e apimentado, conquistando todos os paladares. Podendo ser utilizado como acompanhamentos em petiscos diversos, guioza, harumaki, frango crispy e qualquer outro prato. INGREDIENTES: Açúcar, água, pimenta vermelha, alho, sal, amido de milho, ácido acético. NÃO CONTÉM GLÚTEN Manter em local seco e arejado, após aberto manter sob refrigeração. Origem: Tailândia
-  Updated: 2026-02-05T22:19:06Z
+  Updated: 2026-02-17T13:12:30Z
   Vendor: Pantai
   Product Type: Molho de Pimenta
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeimagens2_1_f370ab21-a98c-41c1-8505-16f4fe073a63.png?v=1681310412
-  Price: R$ 359,99 BRL
+  Price: R$ 365,90 BRL
 - [Molho De Pimenta Toban Djan (Chili Bean Sauce) - Lee Kum Kee 368g](https://www.meiwei.com.br/products/molho-de-pimenta-toban-djan-368g-lee-kum-kee-chili-bean-sauce): O molho de pimenta Toban Djan (Chilli Bean Sauce) é um condimento essencial da culinária chinesa, especialmente na região de Sichuan. Feito a partir de pimenta fermentada, pasta de soja e especiarias, possui um sabor intenso, picante e levemente salgado, com um toque umami profundo. Muito utilizado em pratos como Mapo Tofu e stir-fries, esse molho adiciona calor e complexidade a qualquer receita, tornando-se indispensável para quem aprecia a autêntica gastronomia chinesa. INGREDIENTES: Pimenta chilli salgada (pimenta e sal), água, pasta de soja fermentada (água, sal, soja, farinha de trigo), pasta de fava fermentada (favas, água, sal, farinha de trigo), açúcar, amido de milho modificado, pimenta em pó, alho desidratado, óleo de soja, regulador de acidez (ácido láctico), realçadores de sabor (dissódico 5'-inosinato, dissódico 5'- guanilato). CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA, TRIGO. PODE CONTER CEVADA, CRUSTÁCEOS (CAMARÃO), PEIXES, AMENDOIM, LEITE. Manter em local seco e arejado. Após aberto, manter refrigerado. Origem: China
   Updated: 2026-02-04T15:33:06Z
   Vendor: Lee Kum Kee
@@ -1016,7 +1016,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/MolhodeSojaEscuroParaRedCooking-500ml.jpg?v=1668707750
   Price: R$ 49,99 BRL
 - [Shoyu Molho de soja para frutos do mar - Lee Kum Kee 410ml](https://www.meiwei.com.br/products/molho-de-soja-p-frutos-do-mar-lee-kum-kee-410ml): O Molho de Soja para Frutos do Mar é o acompanhamento perfeito para realçar o frescor e o sabor de peixes, camarões, lulas e outros frutos do mar. Com uma fórmula equilibrada, combina um toque salgado suave com o sabor umami, complementando marinadas, grelhados, frituras e até mesmo pratos crus, como sashimis e ceviches. Sua textura delicada e aroma marcante garantem um tempero que respeita e intensifica o sabor dos ingredientes, trazendo um toque autêntico e sofisticado para suas receitas. INGREDIENTES: Água, açúcar, sal, soja, farinha de trigo, extrato de levedura, cor caramelo, inosinato dissódico. ALÉRGICOS CONTÉM SOJA E TRIGO
-  Updated: 2025-12-23T17:34:18Z
+  Updated: 2026-02-13T11:14:05Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
@@ -1037,12 +1037,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/9bead8c312f78ce03ff600639fd2d6f1.jpg?v=1668778072
   Price: R$ 36,90 BRL
 - [Molho Pad Thai - Pantai 730ml](https://www.meiwei.com.br/products/molho-pad-thai-pantai-730ml): O molho Pad Thai é um componente essencial da culinária tailandesa, conhecido por sua combinação única de doce, salgado, azedo e picante. Feito com uma mistura de ingredientes tradicionais, como tamarindo, molho de peixe, açúcar de palma e pimenta, este molho confere um sabor característico aos pratos de macarrão Pad Thai. Transforme suas refeições em autênticas experiências tailandesas. Compre agora e deixe-se levar pelos sabores vibrantes da Tailândia! INGREDIENTES: Açúcar, água, tamarindo (12,5%), açúcar palmeira (8%), molho de peixe (extrato de anchova, sal, açúcar), ácido acético (E260), corante oleoresina, páprica (E160C). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM TAMARINDO, PALMEIRA (COCO), PEIXE E PAPRICA. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia Contém 730ml
-  Updated: 2026-02-07T11:46:50Z
+  Updated: 2026-02-14T11:15:50Z
   Vendor: Pantai
   Product Type: Molhos Diversos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/e869a04adc328a4919f89f026f689f25.jpg?v=1668778270
-  Price: R$ 68,90 BRL
+  Price: R$ 76,99 BRL
 - [Molho Pad Thai - Pantai 390g](https://www.meiwei.com.br/products/molho-pad-thai-pantai-390g): O molho Pad Thai é um componente essencial da culinária tailandesa, conhecido por sua combinação única de doce, salgado, azedo e picante. Feito com uma mistura de ingredientes tradicionais, como tamarindo, molho de peixe, açúcar de palma e pimenta, este molho confere um sabor característico aos pratos de macarrão Pad Thai. Transforme suas refeições em autênticas experiências tailandesas. Compre agora e deixe-se levar pelos sabores vibrantes da Tailândia! INGREDIENTES: Açúcar, água, tamarindo (12,5%), açúcar palmeira (8%), molho de peixe (extrato de anchova, sal, açúcar), ácido acético (E260), corante oleoresina, páprica (E160C). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM TAMARINDO, PALMEIRA (COCO), PEIXE E PAPRICA. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia Contém 390g
   Updated: 2026-01-30T11:41:31Z
   Vendor: Pantai
@@ -1093,14 +1093,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/ea76dd00d2c3389d72a8c2df48fe4237.jpg?v=1668780544
   Price: R$ 78,90 BRL
 - [Shoyu Molho de soja escuro com cogumelo (Mushroom Dark Soy Sauce) - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/molho-shoyu-soja-dark-c-cogumelo-lee-kum-kee-500ml): Este molho combina o sabor rico e umami da soja fermentada com a complexidade terrosa dos cogumelos, criando um condimento versátil e saboroso. Ideal para stir-fries, marinadas, sopas e molhos. INGREDIENTES: Molho de soja (água, soja em grão, sal e farinha de trigo), corante caramelo I, glutamato monossódico, inosinato dissódico, guanilato dissódico, sorbato de potássio, extrato de cogumelo. CONTÉM GLUTÉN ALÉRGICOS CONTÉM SOJA E FARINHA DE TRIGO INFORMAÇÃO NUTRICIONAL Porção de 100g (1 Colher de sopa rasa) Quantidade por Porção Valor Energético 235 Kcal = 988 Kj Gorduras Saturadas < 0,5 g Açúcares 57 g Proteínas 1,7 g *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto manter sob refrigeração. Origem: China Contém 500ml
-  Updated: 2026-02-10T02:08:37Z
+  Updated: 2026-02-17T03:23:32Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/0f28b62bfe147a07dd1a193e1fa3cdb6.jpg?v=1668780733
   Price: R$ 39,00 BRL
 - [Molho de Soja Premium (Shoyu Dark) - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/molho-soja-premium-shoyu-dark-lee-kum-kee-500ml): O molho de soja, é um ingrediente culinário milenar chinês feito a partir da fermentação da soja e do trigo. É um dos produtos mais conhecidos em todo o mundo, mas principalmente em países asiáticos. Muito utilizado como substituto do sal em receitas. O molho de soja Premium Dark Lee Kum Kee é feito de soja premium e farinha de trigo. isso realçará delicadamente o sabor de qualquer prato. INGREDIENTES: Água, sal, soja desengordurada não transgênica, trigo, farinha de trigo, corante caramelo, glutamato de sódio, sorbato de potássio, sucralose, cogumelo palha. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO SOJA E COGUMELO. INFORMAÇÃO NUTRICIONAL Porção de 15ml Quantidade por Porção %VD(*) Valor Energético 63 Kcal 1% Proteínas 1,2g 2% Gorduras Totais 0g 0% Caboidratos 2,5g 1% Sódio 1101mg 55% *%Valores Diários com base em uma dieta de 2000 Kcal ou 8400 Kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidade energéticas. **VD não estabelecido. Manter armazenado em temperatura ambiente. Origem: China Contém 500ml
-  Updated: 2026-02-06T16:28:16Z
+  Updated: 2026-02-15T16:59:52Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
@@ -1191,7 +1191,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mini-milho.jpg?v=1744734458
   Price: R$ 39,01 BRL
 - [Vinho de Arroz Fermentado Chinês - Zhenjiang Hengshun 500ml](https://www.meiwei.com.br/products/vinho-de-arroz-fermentado-chines-zhenjiang-hengshun-500-ml): Vinho de arroz fermentado de 3 anos forte poder desodorizante e é adequado para temperar, desodorisar, refrescar e abrilhantar diversos alimentos como frango, pato, peixe, carne bovina e de carneiro e frutos do mar. INGREDIENTES: Água, arroz, trigo, cor caramelo. Teor alcoólico de ≥ 10% Açúcar total: ≤15g/L Manter em ambiente seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China
-  Updated: 2026-02-05T16:04:37Z
+  Updated: 2026-02-12T02:59:41Z
   Vendor: Zhenjiang Hengshun
   Product Type: Vinho de arroz
   Availability: Available
@@ -1205,7 +1205,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/ecc02339c0ae0b97d389523a6e681c28.jpg?v=1669228460
   Price: R$ 59,99 BRL
 - [Caldo de Galinha Chinês em Pó - Totole 1kg](https://www.meiwei.com.br/products/caldo-de-galinha-chines-em-po-totole-1kg): Desvende o segredo por trás do sabor autêntico do caldo de galinha chinês em pó Totole e transforme suas refeições em verdadeiras obras-primas culinárias! Com sua fórmula tradicional e aroma irresistível, este tempero é indispensável na sua cozinha. Descubra como realçar o sabor dos seus pratos favoritos com apenas uma pitada deste ingrediente versátil e prático. De sopas reconfortantes a stir-fries cheios de sabor, o caldo de galinha chinês em pó Totole eleva o nível da sua culinária. Não perca mais tempo, adquira agora mesmo e experimente a diferença que um toque autêntico pode fazer! INGREDIENTES: Glutamato monossódico (INS621), sal, arroz, açúcar, carne de frango, aditivos alimentares (nucleotidio dissódico 5, riboflavina (INS101i), ovo líquido, curry em pó, cebola, alho. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE OVO INFORMAÇÃO NUTRICIONAL Porção de 5g (1 colher de chá) Quantidade por Porção %VD(*) Valor Energético 47 Kj 1% Proteínas 1,1 g 2% Gorduras Totais 0,2 g 0% Carboidratos 1,2 g 0% Sódio 1000 mg 50% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China Contém 1kg
-  Updated: 2026-02-05T16:07:07Z
+  Updated: 2026-02-16T17:40:44Z
   Vendor: Totole
   Product Type: Tempero
   Availability: Available
@@ -1279,7 +1279,7 @@
     Image: https://cdn.shopify.com/s/files/1/2171/5991/products/599fce10e7f9c39bb6342100f09a2644.jpg?v=1675772412
     Price: R$ 36,99 BRL
 - [Molho de Pimenta Sriracha Original - Huy Fong Foods 481g](https://www.meiwei.com.br/products/molho-de-pimenta-sriracha-481g-original): O Molho de Pimenta Sriracha Original é um molho picante e versátil, famoso pelo sabor equilibrado entre o ardor da pimenta e um leve toque de doçura. Com consistência cremosa e o frescor do alho, ele é perfeito para dar um toque especial em pratos asiáticos, como noodles e arroz, além de ser ideal para hambúrgueres, sanduíches, pizzas e até sopas. Esse molho é indispensável para quem gosta de adicionar uma dose extra de sabor e intensidade às refeições. INGREDIENTES: Pimenta vermelha, açúcar, sal, alho, ácido acético, sorbato de potássio e bissulfito de sódio como conservantes, goma xantana. NÃO CONTÉM GLÚTEN ALÉRGICOS PODE CONTER LEITE, OVOS, PEIXE, CRUSTÁCEOS, MOLUSCOS, NOZES, AMENDOIM, GERGELIM. INFORMAÇÃO NUTRICIONAL Porção de 10g (1 colher de chá) Quantidade por Porção %VD(*) Valor Energético 52 Kcal = 217,4 Kj 3% Carboidratos 2 g 1% Proteínas 0 g 0% Gorduras Totais 4 g 7% Gorduras Saturadas 0,5 g 2% Gorduras Trans 0g ** Fibras 1 g 3% Sódio 282 mg 12% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local fresco e arejado. Após aberto, manter sob refrigeração. Origem: Estados Unidos
-  Updated: 2025-12-23T17:34:27Z
+  Updated: 2026-02-11T18:31:57Z
   Vendor: Huy Fong Foods
   Product Type: Molho de Pimenta
   Availability: Available
@@ -1384,19 +1384,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/CatalogodeProdutos-ORecomeco-2.jpg?v=1672238329
   Price: R$ 41,00 BRL
 - [Molho de soja Taiwan - KimLan 590ml](https://www.meiwei.com.br/products/molho-de-soja-taiwan-kimlan-foods-590ml): O molho de soja Kim Lan é perfumado e doce. Pode ser utilizado para molhos, refogados, marinadas, etc. É um molho muito versátil para cozinhar em casa. INGREDIENTES: Água, soja não transgênica, molho de soja fermentado, trigo, sal, açúcar líquido invertido, agente espessante, arroz glutinoso, conservante (ácido hexadienóico potássio), edulcorante (glicirrizinato de sódio), levedura, extrato de levedura, aromatizante (DL- ácido málico). CONTÉM SOJA E DERIVADOS. CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 15ml (1 colher de sopa) Quantidade por Porção %VD(*) Valor Energético 11 Kcal = 46 Kj 1% Carboidratos 1 g 0% Proteínas 1,7 g 3% Gorduras Totais 0 g 2% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 1167 mg 49% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado, após aberto conservar sob refrigeração. Origem: Taiwan
-  Updated: 2026-02-05T16:09:12Z
+  Updated: 2026-02-17T18:34:07Z
   Vendor: Kimlan
   Product Type: Molho de Soja
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/35.jpg?v=1672337269
   Price: R$ 38,90 BRL
-- [Mochi recheado sabor amendoim - Royal Family 120g](https://www.meiwei.com.br/products/mochi-amendoim-royal-family-120g): O Mochi sabor Amendoim é um doce tradicional japonês feito com massa de arroz glutinoso macia e elástica, recheado com um creme suave de amendoim levemente adocicado. Sua textura única e o sabor rico do amendoim tornam esse mochi uma combinação perfeita de delicadeza e intensidade, ideal para quem aprecia sobremesas orientais com um toque de sabor caseiro e reconfortante. INGREDIENTES: Maltose, açúcar, arroz glutinoso, espessante (E1442), trealose, manteiga de amendoim (amendoim, açúcar, óleo vegetal (óleo de palma, colza) óleo), sal, sabor de amendoim, gelatina (carne bovina), óleo de palma, emulsificante (E471), conservante (E202). NÃO CONTÉM GLUTEN CONTÉM AMENDOIM INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção Valor Energético 357 Kcal = 1509 Kj Carboidratos 72,9 g Proteínas 3,0 g Gorduras Totais 5,9 g Gorduras Saturadas 2,1 g Gorduras Trans 0 g Fibras 0 g Sódio 0,06 g *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Evitar luz solar e altas temperaturas. Origem: Taiwan Contém 120g
-  Updated: 2026-02-08T16:50:38Z
-  Vendor: Royal Family
-  Product Type: Doce
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/amendoim.jpg?v=1672343259
-  Price: R$ 24,00 BRL
 - [Mochi sabor taro - Royal Family - 120g](https://www.meiwei.com.br/products/mochi-sabor-inhame-royal-family-120g): O Mochi Sabor Taro é um doce tradicional japonês feito com massa de arroz macia e elástica, recheado com creme de taro, raiz oriental de sabor suave e levemente adocicado. Com textura delicada e sabor exótico, é perfeito para quem busca novas experiências gastronômicas ou deseja saborear um clássico da confeitaria asiática. Ideal para acompanhar chás, servir como sobremesa ou presentear, o mochi de taro conquista pela combinação entre tradição e autenticidade. INGREDIENTES: Maltose, açúcar, arroz glútinoso, óleo de palma, pasta de inhame, fosfsto de amido dissubstituido (E1442), extrato de casca de uva, beterraba vermelha, aromatizante, ácido sórbico (conservante) (E200). NÃO CONTÉM GLUTEN CONTÉM LEITE E CORANTE ARTIFICIAL INFORMAÇÃO NUTRICIONAL Porção de 35g (1 unidade) Quantidade por Porção %VD(*) Valor Energético 114 Kcal = 476,9 Kj 6% Carboidratos 28 g 9% Proteínas 0,35 g 0,5% Gorduras Totais 0,035 g 1% Gorduras Saturadas 0 g 1% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 32 mg 1% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Evitar luz solar e altas temperaturas. Origem: Taiwan
   Updated: 2025-12-06T15:36:08Z
   Vendor: Royal Family
@@ -1461,7 +1454,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/c841c09ea0cb84f94ccc23f863ddad90_57f036c1-eae9-4459-b3f0-005c090d928b.jpg?v=1672855657
   Price: R$ 229,90 BRL
 - [Panela De Bambu Cozimento a Vapor - 30cm](https://www.meiwei.com.br/products/panela-de-bambu-cozimento-a-vapor-30cm): Panela de bambu para Dim Sum cozimento ao vapor de 30cm. Este utensílio para cozimento à vapor segue os modelos usados há séculos na culinária oriental. Perfeito para bolinhos e legumes em geral, resultando em pratos leves e saudáveis, muito utilizado na gastronomia oriental, evitando uso de óleos. Recomendações: Ao utilizar, use uma panela comum sendo um pouco menor que 30cm para ferver a água e produzir vapor. Coloque a base de vapor sobre a panela e deixe cozinhar. Ideal para comidas a vapor tradicionais orientais. Dimensões: Altura de cada vasilha:5,5cm (são 2 vasilhas) Diâmetro: 30cm Total: 35x25x30 Altura da tampa: 4cm (1 tampa)
-  Updated: 2026-02-03T13:19:37Z
+  Updated: 2026-02-11T18:16:17Z
   Vendor: Mei Wei
   Product Type: Utensílio
   Availability: Available
@@ -1517,46 +1510,46 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeimagens2_8.png?v=1681319683
   Price: R$ 49,90 BRL
 - [Pasta de Curry verde (Green Curry Paste) - Pantai 400g](https://www.meiwei.com.br/products/pasta-de-curry-verde-green-curry-paste-pantai-400g): A Pasta de Curry Verde (Green Curry Paste) da Pantai 400g é um ingrediente essencial para criar pratos tailandeses autênticos, com um sabor marcante e aromático. Feita com pimenta verde, ervas frescas, capim-limão, alho e especiarias selecionadas, proporciona uma combinação equilibrada de picância e frescor. Ideal para preparar sopas, ensopados e receitas com frango, carne, frutos do mar ou vegetais, garantindo um toque exótico e sofisticado. Prática e versátil, esta pasta transforma suas refeições em experiências gastronômicas únicas e cheias de sabor. INGREDIENTES: Capim limão, pimenta verde fresca (30%), alho, sal, galangal, cebola, casca de limão kaffir, semente de coentro, cominho, ácido cítrico (E330), cúrcuma. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM PIMENTA, COMINHO E CÚRCUMA. INFORMAÇÃO NUTRICIONAL Porção de 15g (1 colher de sobremesa) Quantidade por Porção %VD(*) Valor Energético 10 Kcal = 42 Kj 0,5 % Carboidratos 2 g 1% Proteínas 0 g 0% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g 0% Fibras 1 g 4% Sódio 600 mg 25% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia Contém 400g
-  Updated: 2026-02-03T13:17:12Z
+  Updated: 2026-02-13T00:48:06Z
   Vendor: Pantai
   Product Type: Condimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeprodutos2.0-4_1fe2ce7d-2d85-4baa-a255-1f86dee3ddc4.jpg?v=1672940731
   Price: R$ 66,00 BRL
 - [Pasta de Curry Massaman (Massamun Curry Paste) - Pantai 400g](https://www.meiwei.com.br/products/pasta-de-curry-massaman-massaman-curry-paste-pantai-400g): A Pasta de Curry Massaman é essencial para recriar o famoso curry tailandês de mesmo nome, proporcionando um sabor rico e equilibrado que combina perfeitamente com arroz jasmin e leite de coco. INGREDIENTES: Capim-limão, cebola, pimenta vermelha seca, sal, alho, galangal, semente de coentro, cominho, casca de limão kaffir, ácido acético (E330) e canela. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 20g (1 Colher de sopa) Quantidade por Porção %VD(*) Valor Energético 27 Kcal 1% Carboidratos 4 g 2% Proteínas 1 g 2% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g 0% Fibras 5 g 10 % Sódio 973 mg 41% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto manter sob refrigeração. Origem: Tailândia Contém 400g
-  Updated: 2026-02-03T13:19:36Z
+  Updated: 2026-02-16T13:17:57Z
   Vendor: Pantai
   Product Type: Condimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeprodutos2.0_c7c637b0-766b-4635-bd3a-c255e7894a5d.jpg?v=1673273438
-  Price: R$ 71,71 BRL
+  Price: R$ 71,84 BRL
 - [Pasta Tailandesa de camarão -  Pantai 370g](https://www.meiwei.com.br/products/pasta-tailandesa-de-camarao-370g-pantai): Esta pasta é típica da culinária do sudeste asiático, é feita de camarão e temperos. O camarão é fermentado, depois desidratrado transformando-o em pasta. Explore os sabores vibrantes da culinária tailandesa com nossa Pasta Tailandesa de Camarão! Feita com ingredientes frescos e autênticos, esta pasta oferece um equilíbrio perfeito de doce, picante e salgado, típico da cozinha tailandesa. Perfeita para adicionar um toque exótico aos seus pratos, seja para fazer um curry de camarão cremoso, um refrescante molho de salada ou até mesmo como um mergulho delicioso. Desfrute da autenticidade da Tailândia em cada colherada! INGREDIENTES: Camarão 65%, sal, açúcar, realçador de sabor glutamato monossódico (E621), inossinato dissódico (E631), guanilato dissódico (E627). INFORMAÇÃO NUTRICIONAL Porção de 17g Quantidade por Porção %VD(*) Valor Energético 20 Kcal Carboidratos 1 g 0% Proteínas 4 g 2% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Colesterol 50 mg 17% Sódio 1490 mg 62% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto manter sob refrigeração. Origem: Tailândia Contém 370g
-  Updated: 2025-12-20T10:32:35Z
+  Updated: 2026-02-13T00:48:06Z
   Vendor: Pantai
   Product Type: Condimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeprodutos2.0-copia4.jpg?v=1673439349
   Price: R$ 74,00 BRL
 - [Pedra De Afiar Amolar Dupla Face #120 E #240](https://www.meiwei.com.br/products/pedra-de-afiar-amolar-dupla-face-120-e-240): Pedra para amolar, afiar Dimensões e características: 15 cm comprimento 5,0 cm largura 2,5 cm altura Material: Pedra dupla face granulação #120 / #240. Fabricante: Echo Origem: China
-  Updated: 2026-02-06T11:13:10Z
+  Updated: 2026-02-13T11:30:19Z
   Vendor: Mei Wei
   Product Type: Utensílio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/b6ac871f336b6490a18ed4e7f12de1e6.jpg?v=1673441396
-  Price: R$ 29,99 BRL
+  Price: R$ 30,00 BRL
 - [Pegador longo de aço inox para alimentos  40cm](https://www.meiwei.com.br/products/pegador-de-alimentos-longo-jumbo-aco-inox-culinaria-40cm): Pegador para alimentos em aço inox, com argola limitadora de abertura. Por ser longo e fácil de usar, é indicado para o uso em grelhados e churrascos. MATERIAL: Aço inoxidável Origem: China
-  Updated: 2026-02-10T12:02:05Z
+  Updated: 2026-02-16T18:41:08Z
   Vendor: Mei Wei
   Product Type: Utensílio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pegador-salada.jpg?v=1695748659
-  Price: R$ 30,97 BRL
+  Price: R$ 29,99 BRL
 - [Pimenta Chilli Crispy - Lao Gan Ma 210g](https://www.meiwei.com.br/products/pimenta-lao-gan-ma-chilli-crispy-210g): Transforme suas refeições em um espetáculo de sabores com a Pimenta Lao Gan Ma Chilli Crispy. Uma explosão crocante de picância que vai conquistar seu paladar. Torne seus pratos extraordinários, adicionando a magia do crocante e o calor irresistível desta pimenta única. Adquira a Pimenta Lao Gan Ma Chilli Crispy agora e descubra como elevar sua culinária a um novo patamar. Seja ousado e faça da sua cozinha um palco para experiências memoráveis. Não perca tempo, garanta o seu toque de ousadia e crocância hoje mesmo! Pimenta Chilli Crispy, é utilizado como molho para bolinhos, ou como base de molho para macarrão, arroz ou verduras fritas. Utilizado também para mergulhar petiscos e frituras. INGREDIENTES: Óleo de soja, pimenta, cebola, amendoim, glutamato monossódico, pó de cinza espinhosa, açúcar, sal, dióxido de enxofre, sulfito de sódio. NÃO CONTÉM GLÚTEN CONTÉM DERIVADOS DE TRIGO, SOJA E AMENDOIM NÃO CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 60g Quantidade por Porção %VD(*) Valor Energético 422 Kcal Carboidratos 6 g 2% Proteínas 4 g 1% Gorduras Totais 41 g 63% Gorduras Saturadas 4 g 20% Gorduras Trans 0 g ** Fibras 5 g 20% Sódio 550 mg 23% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local fresco e seco, após aberto conservar sob refrigeração Origem: China Contém 210g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
-  Updated: 2026-02-10T04:39:54Z
+  Updated: 2026-02-16T14:35:22Z
   Vendor: Lao Gan Ma
   Product Type: Molho de Pimenta
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/bd8a9181ace3e1ea918e3b17e2b51ed1.png?v=1673444049
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-pimenta-chilli-crispy-lao-gan-ma-210g-pote-fundo-branco.png?v=1771117398
   Price: R$ 50,00 BRL
 - [Pimenta com carne de porco - Lao Gan Ma 210g](https://www.meiwei.com.br/products/pimenta-lao-gan-ma-com-carne-de-porco-210g): Explore novas dimensões de sabor com a Pimenta Lao Gan Ma com Carne de Porco. A fusão picante e deliciosa que transformará suas refeições em uma experiência única. Adquira agora e mergulhe no mundo irresistível de sabores dessa combinação perfeita. Deixe sua culinária se destacar com a autenticidade e qualidade que só a Lao Gan Ma proporciona. Não perca a chance de elevar suas receitas a um novo patamar. Experimente hoje mesmo! INGREDIENTES : Óleo de Canola, soja, extrato de carne suína, pimentão pimenta, glutamato monossódico, sal, açúcar. CONTÉM GLÚTEN CONTÉM DERIVADOS DE SOJA INFORMAÇÃO NUTRICIONAL Porção de 15g Quantidade por Porção %VD(*) Valor Energético 89 Kcal = 374 Kj 4% Carboidratos 1 g 0% Proteínas 1 g 1% Gorduras Totais 9 g 14% Gorduras Saturadas 2 g 10% Gorduras Trans 0 g 0% Fibras 1 g 4% Sódio 260 mg 11% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, conservar sob refrigeração Origem: China Contém 210g Clique aqui e veja nossa linha completa de produtos Lao Gan Ma!
   Updated: 2026-02-03T13:19:37Z
@@ -1608,14 +1601,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/aa13aaf8524e466169e56f7e28db4ade.jpg?v=1673458229
   Price: R$ 70,99 BRL
 - [Tauci feijão fermentado conserva com gengibre - Zhongshan 454g](https://www.meiwei.com.br/products/tauci-feijao-fermentado-conserva-com-gengibre-500gr): O Tauci Feijão Fermentado em Conserva com Gengibre combina o sabor salgado e terroso do feijão fermentado com o toque aromático e picante do gengibre. É ideal para enriquecer pratos asiáticos, como refogados, marinadas e sopas, conferindo um sabor complexo e profundo. INGREDIENTES: Feijão preto, sal e gengibre. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 420 Kcal = 1762 Kj 20% Carboidratos 95 g 32% Proteínas 27 g 80% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 1000 mg 49% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: China
-  Updated: 2026-02-06T11:24:00Z
+  Updated: 2026-02-10T22:34:23Z
   Vendor: Zhongshan
   Product Type: Conserva
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/2b62d1709c40fa1a672b3b94afd61ffa.png?v=1673527960
   Price: R$ 39,99 BRL
 - [Molho à base de soja (Hoisin Sauce) - Lee Kum Kee 397g](https://www.meiwei.com.br/products/tempero-chines-a-base-de-soja-hoisin-sauce-397g): O molho chinês à base de soja, também conhecido como molho hoisin, é um condimento adocicado e espesso amplamente utilizado na culinária asiática. Com um sabor rico e complexo, que combina notas doces, salgadas e picantes, esse molho é ideal para marinadas, molhos para mergulhar e como acompanhamento para pratos como carnes grelhadas, rolinhos primavera e pato à Pequim. INGREDIENTES: Açúcar, água, pasta de soja fermentada, condimentos, batata doce desidratada, corantes, amido de milho, pasta de gergelim, alho desidratado, sal, pimenta. CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto conservar em geladeira. Origem: China
-  Updated: 2026-02-03T13:19:37Z
+  Updated: 2026-02-16T20:35:22Z
   Vendor: Lee Kum Kee
   Product Type: Condimento
   Availability: Available
@@ -1629,7 +1622,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/e164b26d88c26a6fd21ca5c89a434f9e.jpg?v=1673556801
   Price: R$ 27,28 BRL
 - [Missoshiro Intântaneo com Wakame Japonês - Marukome 216g](https://www.meiwei.com.br/products/missoshiro-intantaneo-com-wakame-japones-marukome-216g): O Missoshiro é uma sopa tradicional japonesa feita a base de missô (pasta de soja fermentada). Essa é uma opção instantânea com alga marinha wakame, muito fácil de preparar e muito saboroso. Contém 12 porções. Basta adicionar 160ml de água fervente em uma tigela, colocar o sachê e misturar bem. Acrescente tofu em cubos e cebolinha. INGREDIENTES: Pasta de soja (água, soja, arroz e sal), água, álcool comestível, glutamato monossódico, alga wakame seco, sal, proteína hidrolisada, extrato de peixe, inosinata de disodium e guanilatodissodium. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA, FRUTOS DO MAR E PEIXE. Origem: Japão Contém 216g
-  Updated: 2026-02-10T14:26:27Z
+  Updated: 2026-02-12T13:12:17Z
   Vendor: Marukome
   Product Type: Condimento
   Availability: Available
@@ -1678,7 +1671,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/76a539c87cb17fa04b06e8851d9f4153.png?v=1674830069
   Price: R$ 48,00 BRL
 - [Baijiu Chinês Red Star Erguotou 500ml - 红星二锅头 纯粮清香型白酒](https://www.meiwei.com.br/products/vinho-chines-er-wo-tou-estrela-vermelha-hong-xing-500ml): O Red Star Erguotou 52% 红星二锅头 纯粮清香型白酒 é um dos baijius mais tradicionais da China e um ícone de Pequim. Produzido com grãos selecionados e destilação em pot still, ele pertence ao estilo “qīngxiāng” (清香型) – aroma leve e limpo. Origem: Pequim, China Marca: 红星 (Red Star), uma das destilarias mais famosas e antigas da capital Teor alcoólico: 52% vol Tipo: Baijiu (destilado chinês de grãos) Perfil sensorial: aroma nítido de grãos e leve toque floral sabor seco, intenso e quente, com final longo ideal para ser apreciado em shots, em temperatura ambiente ou levemente resfriado Perfeito para: harmonizar com churrascos, comida chinesa gordurosa ou bem temperada usar em drinks de autor com inspiração asiática colecionadores e curiosos do mundo dos destilados tradicionais. Lista de ingredientes Água Sorgo Trigo e/ou cevada* Ervilha* Leveduras e culturas microbianas para fermentação Tabela nutricional Informação nutricional Por porção 50 ml % VD* Valor energético 345 kcal (1445 kJ) 17% Carboidratos 0 g 0% Proteínas 0 g 0% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 0 mg 0% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Sugestão de receita usando o produto Drink “Baijiu Citrus Highball” Ingredientes (1 drink): 50 ml de Red Star Erguotou 52% 120–150 ml de água com gás bem gelada 20 ml de suco de limão‑siciliano ou tahiti 10–15 ml de xarope de açúcar (a gosto) Gelo em cubos 1 fatia de limão para decorar Modo de preparo: Encha um copo alto com gelo. Adicione o baijiu, o suco de limão e o xarope. Complete com água com gás e mexa suavemente. Decore com a fatia de limão e sirva imediatamente. Drink refrescante que suaviza a potência do baijiu, ótimo para introduzir o destilado a quem não conhece. Como armazenar Conservar em local fresco, seco e ao abrigo da luz solar direta. Manter a garrafa bem fechada quando não estiver em uso. Após aberto, não necessita refrigeração, mas conservar em posição vertical e consumir preferencialmente em até 12 meses para melhor qualidade aromática. Mantenha fora do alcance de crianças.
-  Updated: 2026-02-09T23:36:52Z
+  Updated: 2026-02-16T19:33:18Z
   Vendor: Estrela Vermelha
   Product Type: Bebida Alcóolica
   Availability: Available
@@ -1727,7 +1720,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Catalogodeprodutos2.0-4_38597d72-fb5d-43a9-91b1-ecb794a6a63d.jpg?v=1675280419
   Price: R$ 43,99 BRL
 - [Cogumelo Shiitake inteiro desidratado - Fuzhou 500g](https://www.meiwei.com.br/products/cogumelo-shitake-inteiro-seco-500g): O cogumelo shitake seco é utilizado como substituto do shitake fresco nas receitas. Pode ser utilizado em refogados (nishime), ensopados, tempura, macarrão (udon, soba, somen lamen), etc. Antes de utiliza-lo é necessário realizar a hidratação do mesmo. Basta deixar de molho em água morna até que fique hidratado. INGREDIENTES: Cogumelos shiitake desidratado NÃO CONTÉM GLÚTEN Manter a embalagem bem fechada, em local fresco, seco e longe da luz solar. Origem: China
-  Updated: 2025-12-06T15:36:17Z
+  Updated: 2026-02-13T08:06:51Z
   Vendor: Fuzhou
   Product Type: Cogumelo
   Availability: Available
@@ -1755,7 +1748,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Montagemdefotos3.0-2-copia.jpg?v=1677010462
   Price: R$ 93,99 BRL
 - [Goma de mascar (chiclete) sabor morango - Marukawa 259g](https://www.meiwei.com.br/products/goma-de-mascar-chiclete-morango-marukawa-259g): Fabricada pela renomada marca japonesa Marukawa, esta goma de mascar é conhecida por sua qualidade e sabor autêntico. Embalada em pequenos pedaços individuais, é perfeita para levar consigo para onde quer que vá, seja para o trabalho, escola ou apenas para desfrutar em momentos de lazer. Além de proporcionar uma explosão de sabor, também ajuda a refrescar o hálito e satisfazer aquela vontade de mastigar. Experimente e deixe-se encantar pelo seu sabor irresistível. Possui 4 unidades dentro de cada caixinha. A embalagem de 259g contém 48 caixinhas. INGREDIENTES: Goma de mascar, açúcar, glicose, aromatizante, corante e acidulante. NÃO CONTÉM GLÚTEN Manter a embalagem em local seco e arejado. Evite exposição solar. Origem: Japão
-  Updated: 2026-02-03T13:19:37Z
+  Updated: 2026-02-12T12:48:02Z
   Vendor: Marukawa
   Product Type: Doce
   Availability: Available
@@ -1796,6 +1789,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempura-showa-320g.jpg?v=1725304083
   Price: R$ 32,99 BRL
+- [Pasta de Curry Massaman (Massamun Curry Paste) - Pantai 50g](https://www.meiwei.com.br/products/pasta-de-curry-massamum-massamun-curry-paste-pantai-50g): Versátil e fácil de usar, a Pasta de Curry Massaman é ideal para preparar pratos autênticos como o famoso Curry Massaman, bem como sopas, marinadas e refogados. Deixe-se levar pela magia da cozinha tailandesa e transforme suas refeições em experiências gastronômicas inesquecíveis com esta pasta de sabor extraordinário. Experimente agora e descubra um mundo de sabores! INGREDIENTES: Capim-limão, cebola, pimenta vermelha seca, sal, alho, galangal, semente de coentro, cominho, casca de limão kaffir, ácido acético (E330) e canela. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 20g (1 Colher de sopa) Quantidade por Porção %VD(*) Valor Energético 27 Kcal 1% Carboidratos 4 g 2% Proteínas 1 g 2% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g 0% Fibras 5 g 10 % Sódio 973 mg 41% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto manter sob refrigeração. Origem: Tailândia Contém 50g
+  Updated: 2026-02-15T13:40:41Z
+  Vendor: Pantai
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Montagemdefotos3.0-5_9559957c-45ea-409a-be2f-b66d8cc6dc74.jpg?v=1677064602
+  Price: R$ 32,29 BRL
 - [Tempero concentrado para frango - Wei Yuan 1L](https://www.meiwei.com.br/products/tempero-concentrado-chines-para-frango-wei-yuan-1-litro): Tempero para frango é adequado apra temperar pratos, sopas e molhos, acrescentando um sabor mais rico. É fácil de usar para engrossar, despejar e preparar molhos. Pode ser utilizado diretamente em caldos prontos. INGREDIENTES: Extrato de frango, gordura de frango, água purificada, sal refinado, açúcar branco, extrato de levedura em pó, amido modificado, sal ácido, glutamato monossódico. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Origem: China Contém 1L
   Updated: 2025-12-06T15:36:19Z
   Vendor: Wei Yuan
@@ -1859,6 +1859,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/BalaMelaoKasugai.jpg?v=1677073591
   Price: R$ 36,99 BRL
+- [Bala Hokkaido sabor leite com matcha - Kasugai 81g](https://www.meiwei.com.br/products/bala-hokkaido-sabor-leite-com-matcha-kasugai-81g): Produzidas com leite da gelada região de Hokkaido, norte do Japão e matcha, feito das melhores folhas de chá verde, essas balas possuem um sabor autêntico suave e relaxante. Elas são perfeitas para os amantes de chá com leite. INGREDIENTES: Xarope de glicose, açúcar, leite, leite condensado, creme de leite, óleo vegetal, chá verde em pó, sal, aromatizante, emulsificante (ésteres de ácidos graxos com poliglicerol, lecitinas). CONTÉM GLÚTEN ALÉRGICOS CONTÉM LACTOSE, DERIVADOS DE SOJA, LEITE E DERIVADOS DE LEITE. PODE CONTER TRIGO AMENDOIM, AMÊNDOA, PEIXE E LÁTEX. Balas embalados individualmente. Manter em local seco e arejado. Evite exposição solar. Origem: Japão Contém 81g
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Kasugai
+  Product Type: Bala
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Baladeleitecommatcha.jpg?v=1677087703
+  Price: R$ 32,99 BRL
 - [Bala sabor leite com ervas - Kasugai 61g](https://www.meiwei.com.br/products/bala-sabor-leite-com-ervas-kasugai-61g): Balas refrescantes, com sabor de ervas e um toque de leite que proporcionam um sabor único e inesquecível. Perfeitas para os amantes de chá com leite. INGREDIENTES: Xarope de glicose, açúcar, leite condensado, gordura vegetal, sal, extrato de ervas, aromatizante, corante (caramelo IV), emulsificante (ésteres de ácidos graxos com poliglicerol). CONTÉM GLÚTEN ALÉRGICOS CONTÉM LACTOSE, DERIVADOS DE SOJA E LEITE. PODE CONTER TRAÇOS DE TRIGO E AMENDOIM. Balas embalados individualmente. Manter em local seco e arejado. Evite exposição solar. Origem: Japão
   Updated: 2025-12-06T15:36:21Z
   Vendor: Kasugai
@@ -1894,6 +1901,48 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/GengibreempastaS_B.jpg?v=1677173473
   Price: R$ 30,80 BRL
+- [Maionese Japonesa - Kewpie - 130g](https://www.meiwei.com.br/products/maionese-japonesa-kewpie-130g): Maionese Japonesa - Kewpie - 130g A tradicional e famosa maionese japonesa da Kewpie de alto valor nutritivo, com mais gemas na composição. De sabor único e característico, feito com uma técnica própria da Kewpie. INGREDIENTES: Óleo vegetal, gema de ovo, vinagre de maçã, sal, realçador de sabor (glutamato monossódico INS621). CONTÉM GLÚTEN ALÉRGICOS CONTÉM OVO, SOJA E GLUTAMATO MONOSSÓDICO. INFORMAÇÃO NUTRICIONAL Porção de 15g (1 Colher de sopa) Quantidade por Porção %VD(*) Valor Energético 103 Kcal = 432 Kj 5% Carboidratos 0,1 g 0% Proteínas 0,4 g 1% Gorduras Totais 11 g 20% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 105 mg 4% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Produto pronto para consumo! Manter em local seco e arejado. Evite a exposição solar. Após aberto, manter sob refrigeração. Origem: Japão
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Kewpie
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/0bc2588e0848d9ac2fd312ee7f2ff218.jpg?v=1677175366
+  Price: R$ 32,99 BRL
+- [Molho de Limão e Sal para Vegetais - Ikari 200ml](https://www.meiwei.com.br/products/molho-de-limao-e-sal-para-vegetais-ikari-200ml): Este é um molho versátil que pode ser utilizado como molho sozinho ou ingrediente para um molho composto. O molho dará aos pratos um sabor característico de sal e limão. Acompanha bem arroz cozido ou salada de vegetais folhosos frescos. INGREDIENTES: Xarope de glucose com frutose, sal, vinagre, cebola, suco concentrado de limão, condimentos, gergelim, extrato de frango, extrato de porco, cebola seca, pimentão vermelho seco, água, amido modificado, espessante (goma xantana), realçador de sabor (glutamato monossóico, 5'-ribonucleotídeo dissódico), aromatizante. CONTÉM GLÚTEN ALÉRGICOS GERGELIM E GLUTAMATO MONOSSÓDICO INFORMAÇÃO NUTRICIONAL Porção de 13g Quantidade por Porção %VD(*) Valor Energético 7,8 Kcal = 32,9 Kj 0% Carboidratos 1,9 g 1% Proteínas 0,1 g 1% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g 0% Fibras 0 g 0% Sódio 347,1 mg 14% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Evite exposição solar. Após aberto, manter sob refrigeração. Origem: Japão Contém 200ml
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Ikari
+  Product Type: Molhos Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/MolhodeLimaoeSalikari.jpg?v=1677510666
+  Price: R$ 32,99 BRL
+- [Molho de Cebola Japonês para Vegetais - Ikari 200ml](https://www.meiwei.com.br/products/molho-de-cebola-japones-para-vegetais-ikari-200ml): Este é um molho para se utilizar com qualquer salada ou mistura quente, ele confere um aroma e um brilho que torna o prato visivelmente mais saboroso. Com a ajuda deste molho você pode adicionar um pouco de variedade à sua via sem aumentar o teor calórico de seus pratos favoritos. INGREDIENTES: Xarope de glucose com frutose, molho de soja (trigo e soja), vinagre fermentado, sal, cebola, cebola desidratada, especiarias, extrato de frango, extrato de levedura, pimentão vermelho seco, flocos/espessante de cogumelo shitake, amido modificado, espessante polissacarídeo, temperos, aminoácidos. CONTÉM GLÚTEN ALÉRGICOS SOJA E COGUMELO INFORMAÇÃO NUTRICIONAL Porção de 15g Quantidade por Porção Valor Energético 11 Kcal Carboidratos 2,6 g Proteínas 0,2 g Gorduras Totais 0 g Gorduras Saturadas 0 g Gorduras Trans 0 g Fibras 0 g Sódio 0,7 g *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Evite exposição solar. Após aberto, manter sob refrigeração. Origem: Japão Contém 200ml
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Ikari
+  Product Type: Molhos Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/MOLHODECEBOLAIKARI.jpg?v=1677518204
+  Price: R$ 27,99 BRL
+- [Massa Fermentada De Arroz E Soja missô Azuma 500g](https://www.meiwei.com.br/products/massa-fermentada-de-arroz-e-soja-misso-azuma-500g): Massa Fermentada De Arroz E Soja missô Azuma 500g O missô é a tradicional pasta japonesa, de soja fermentada, arroz e sal. Muito utilizada pelos japoneses no tempero do missoshiro, molhos, conservas, frituras e grelhados. INGREDIENTES: Arroz, soja, sal e álcool etílico. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA INFORMAÇÃO NUTRICIONAL Porção de 20g (1 Colher de sopa) Quantidade por Porção %VD(*) Valor Energético 41 Kcal = 173 Kj 2% Carboidratos 4,5 g 2% Proteínas 1,9 g 3% Gorduras Totais 1,1 g 2% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 1,0 g 4% Sódio 779 mg 32% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Brasil
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Azuma
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/9042324806dbc8eae30095c33758dcc3.jpg?v=1677522806
+  Price: R$ 26,35 BRL
+- [Mistura para Panqueca Japonesas Fofinhas - Koyodai - 150g](https://www.meiwei.com.br/products/mistura-para-panqueca-japonesas-fofinhas-koyodai-150g): Mistura para Panqueca Japonesas Fofinhas - Koyodai - 150g Mistura pronta para o preparo da melhor panqueca japonesa instantânea. Não precisa adicionar leite nem ovos! Basta adicionar água à mistura e fritar. Sua embalagem é firme, para que possa ser utilizada como tigela, assim não precisando sujar outros utensilios ao preparar sua panqueca. INGREDIENTES: Farinha de trigo, açúcar, proteina de soro de leite, ovo em pó, glucose branca, soja desengordurada em pó, polpa de soja, glucose branca em pó, gordura vegetal, sal, xarope de milho, fermento químico (500ii, 575, 450i, 341i), espessante (412, 415), emulsificante (477,322), aromatizante, corante (101i). CONTÉM GLÚTEN CONTÉM LACTOSE ALÉRGICOS CONTÉM TRIGO, OVO, LEITE E SOJA. INFORMAÇÃO NUTRICIONAL Porção de 20g Quantidade por Porção %VD(*) Valor Energético 557 Kcal = 2326 Kj 28% Carboidratos 116,7 g 39% Proteínas 12,8 g 17% Gorduras Totais 4,4 g 8% Gorduras Saturadas 1,2 g 5% Gorduras Trans 0 g 0% Fibras 4,8 g 19 % Sódio 750 mg 31% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco, arejado e longe da umidade. Após aberto, utilizar todo o produto. Origem: Japão
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Koyodai
+  Product Type: Farinha
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/MISTURAPARAPANQUECA.jpg?v=1677527767
+  Price: R$ 21,90 BRL
+- [Raiz Forte Neri Wasabi Tubo - S&B - 43g](https://www.meiwei.com.br/products/raiz-forte-neri-wasabi-tubo-s-b-43g): Raiz Forte Neri Wasabi Tubo - S&B - 43g O wasabi cria uma sensação curta e acentuada de calor em seu nariz com o seu aroma pungente. O wasabi em pasta é fácil de utilizar e com seu tubo facilita mais ainda a utilização e a higiene. Você pode apreciar o sabor e aroma original apenas adicionando-o a muitos tipos de alimento, tal como o molho de soja para sashimi e sushi, soba e udon como a maneira tradicional usada no Japão. INGREDIENTES: Sorbitol, wasabi (raíz forte), água, óleo de milho, açúcar, celulose, sal, amido, aromatizante, acidulante, goma xantana (estabilizante). NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 20g Quantidade por Porção %VD(*) Valor Energético 58 Kcal = 241,6 Kj 3% Carboidratos 9,8 g 3% Proteínas 0,3 g 0% Gorduras Totais 1,9 g 4% Gorduras Saturadas 0,3 g 1% Gorduras Trans 0 g ** Fibras 1,1 g 4% Sódio 0,7 mg 29% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Japão
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: S&B
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/WasabiS_B.png?v=1677595806
+  Price: R$ 28,00 BRL
 - [Molho Chinês a base de mel - Chuzhou 160g](https://www.meiwei.com.br/products/molho-a-base-de-mel-chuzhou-160g): O molho para marinar a base de mel Chuzhou é uma mistura doce e salgada que combina perfeitamente com carnes e legumes. INGREDIENTES: Açúcar, glutamato de sódio, sal, cebola em pó, amido, pimenta em pó, alho em pó, especiarias, caldo de frango em pó, pimenta, chili, tripolifosfato de sódio e espessante. NÃO CONTÉM GLÚTEN. ALÉRGICOS CONTÉM PIMENTA Após aberto manter a embalagem fechada e refrigerado. Origem: China Contém 160g
   Updated: 2025-12-23T17:34:20Z
   Vendor: Chuzhou
@@ -1908,6 +1957,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/temperopicante.jpg?v=1678206977
   Price: R$ 26,99 BRL
+- [Molho de soja Sang Chau (claro) Taiwan - KimLan 590ml](https://www.meiwei.com.br/products/molho-de-soja-sang-chau-claro-taiwan-kimlan-foods-590ml): O molho de soja taiwanês, também conhecido como "shoyu taiwanês", é um tipo de molho de soja fermentado usado na culinária taiwanesa. É semelhante ao molho de soja chinês, mas tem algumas diferenças distintas em sabor e cor. Este molho de soja é feito a partir de soja, trigo, sal e água. É geralmente fermentado por um período mais curto do que o molho de soja chinês, o que resulta em um sabor mais suave e menos salgado. Além disso, o molho de soja taiwanês é muitas vezes ligeiramente mais doce do que o molho de soja chinês, graças ao uso de açúcar em sua produção. O molho de soja taiwanês é usado como um condimento em muitos pratos taiwaneses, incluindo macarrão, arroz frito, sopas e ensopados. Também é frequentemente usado como um molho de mergulho para carnes e legumes. Este molho também pode ser encontrado em diferentes variedades, como o molho de soja escuro, que tem uma cor mais escura e um sabor mais forte, e o claro, que é mais leve em cor e sabor. INGREDIENTES: Água, sal, soja (6,5%), trigo, açúcar. CONTÉM SOJA E TRIGO. CONTÉM GLÚTEN Manter em local seco e arejado, após aberto conservar sob refrigeração. Origem: Taiwan
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Kimlan
+  Product Type: Molho de Soja
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/molhodesojakimlan.png?v=1678280214
+  Price: R$ 55,90 BRL
+- [Molho De Soja Sang Chau (Dark) Taiwan - KimLan 590ml](https://www.meiwei.com.br/products/molho-de-soja-sang-chau-dark-taiwan-kimlan-foods-590ml): O molho de soja taiwanês, também conhecido como "shoyu taiwanês", é um tipo de molho de soja fermentado usado na culinária taiwanesa. É semelhante ao molho de soja chinês, mas tem algumas diferenças distintas em sabor e cor. Este molho de soja é feito a partir de soja, trigo, sal e água. É geralmente fermentado por um período mais curto do que o molho de soja chinês, o que resulta em um sabor mais suave e menos salgado. Além disso, o molho de soja taiwanês é muitas vezes ligeiramente mais doce do que o molho de soja chinês, graças ao uso de açúcar em sua produção. O molho de soja taiwanês é usado como um condimento em muitos pratos taiwaneses, incluindo macarrão, arroz frito, sopas e ensopados. Também é frequentemente usado como um molho de mergulho para carnes e legumes. Este molho também pode ser encontrado em diferentes variedades, como o molho de soja escuro, que tem uma cor mais escura e um sabor mais forte, e o claro, que é mais leve em cor e sabor. INGREDIENTES: Água, sal, soja (10%), trigo, açúcar, caramelo. CONTÉM SOJA E TRIGO. CONTÉM GLÚTEN Manter em local seco e arejado, após aberto conservar sob refrigeração. Origem: Taiwan
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Kimlan
+  Product Type: Molho de Soja
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/molhodesojakimlandark.png?v=1678281678
+  Price: R$ 55,90 BRL
 - [Molho de ostra vegetariano com cogumelo - KimLan 1L](https://www.meiwei.com.br/products/molho-de-ostra-vegetariano-c-cogumelo-kimlan-1litro): O molho de ostra de cogumelos vegetarianos da Kimlan é preparado a partir de uma mistura de molho de soja e essência de cogumelos. Um molho muito útil para qualquer cozinha, este produto é ideal para usar com carnes ou vegetais para melhorar o sabor. Um intensificador de sabor, este é um aditivo primário na cocção, imersão e grelha, pois pode contribuir com um sabor rico e salgado para os pratos. INGREDIENTES: Molho de soja (água, soja não-ogm, trigo, sal), água, açúcar líquido, espessante (E1 122, E415), açúcar, extrato de levedura, conservante (E200), cogumelo em pó, líquido de cogumelo, adoçante (E958), sal, regulador de acidez (E296). CONTÉM GLÚTEN ALÉRGICOS CONTÉM COGUMELO, TRIGO E SOJA. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Taiwan
   Updated: 2026-01-20T06:53:28Z
   Vendor: Kimlan
@@ -1930,12 +1993,19 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/47e300be36d0818e2bb3507d32156ad8.png?v=1678964826
   Price: R$ 16,90 BRL
 - [Suco Chinês de Aloe Vera - Jianqiao 500ml](https://www.meiwei.com.br/products/suco-chines-de-aloe-vera-jianqiao-500ml): Deliciosa bebida a base de suco de aloe vera pronto para consumo. Pode ser consumida em temperatura ambiente ou gelada. INGREDIENTES: Água, gelatina de aloe vera, xarope de frutose, açúcar branco, lactato de cálcio, aditivo alimentar, goma de gelana, carboximetilcelulose de sódio, malto dextrina, citrato de sódio, vitamina C, sorbato de potássio, D-Eritorbato de Sódio, sabor alimentar. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO E DERIVADOS INFORMAÇÃO NUTRICIONAL Porção de 100 ml Quantidade por Porção %VD(*) Valor Energético 155 Kj 2% Proteínas 0 g 0% Gorduras Totais 0 g 0% Carboidratos 9,1 g 3% Sódio 13 mg 1% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Conservar em local seco e arejado. Origem: China
-  Updated: 2026-02-10T13:52:23Z
+  Updated: 2026-02-16T19:12:51Z
   Vendor: Jianqiao
   Product Type: Bebida
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/44daedba6aa5ae38e6bd3f89be38b318.png?v=1678974354
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/mei-wei-suco-aloe-vera-jianqiao-500ml-garrafa-fundo-branco.png?v=1771033316
   Price: R$ 20,00 BRL
+- [Suco de aloe vera sabor morango - Jianqiao 500ml](https://www.meiwei.com.br/products/suco-chines-de-aloe-vera-sabor-morango-jianqiao-500ml): Deliciosa bebida a base de suco de aloe vera sabor morango pronto para consumo. Pode ser consumida em temperatura ambiente ou gelada. INGREDIENTES: Água, gelatina de aloe vera, xarope de frutose, açúcar branco, lactato de cálcio, aditivo alimentar, goma de gelana, carboximeticelulose de sódio, malto dextrina, citrado de sódio, vitamina C, sorbato de potássio, D-Eritorbato de Sódio, sabor alimentar. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO E DERIVADOS INFORMAÇÃO NUTRICIONAL Porção de 100 ml Quantidade por Porção %VD(*) Valor Energético 155 Kj 2% Proteínas 0 g 0% Gorduras Totais 0 g 0% Carboidratos 9,1 g 3% Sódio 13 mg 1% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Conservar em local seco e arejado. Origem: China
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Jianqiao
+  Product Type: Bebida
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/suco-aloe-vera-morango.jpg?v=1721152552
+  Price: R$ 22,99 BRL
 - [Suco de Aloe Vera sabor limão - Jianqiao 500ml](https://www.meiwei.com.br/products/suco-chines-de-aloe-vera-sabor-limao-jianqiao-500ml): Deliciosa bebida a base de suco de aloe vera sabor limão pronto para consumo. Pode ser consumida em temperatura ambiente ou gelada. INGREDIENTES: Água, gelatina de aloe vera, xarope de frutose, açúcar branco, lactato de cálcio, aditivo alimentar, goma de gelana, carboximetilcelulose de sódio, malto dextrina, citrato de sódio, vitamina C, sorbato de potássio, D-Eritorbato de Sódio, sabor alimentar. CONTÉM GLÚTEN ALÉRGICOS CONTÉM TRIGO E DERIVADOS INFORMAÇÃO NUTRICIONAL Porção de 100 ml Quantidade por Porção %VD(*) Valor Energético 155 Kj 2% Proteínas 0 g 0% Gorduras Totais 0 g 0% Carboidratos 9,1 g 3% Sódio 13 mg 1% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Conservar em local seco e arejado. Origem: China Contém 500ml
   Updated: 2026-02-03T13:17:10Z
   Vendor: Jianqiao
@@ -2014,12 +2084,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/b99a2fbc80255819fb9978596134420d.png?v=1678984624
   Price: R$ 36,90 BRL
 - [Xarope Chinês - Nin Jiom Pei Pa Koa 300ml](https://www.meiwei.com.br/products/xarope-chines-nin-jiom-pei-pa-koa-300ml): Composto Xarope Chinês Herbal, fórmula natural com extrato de plantas juntamente com mel e xaropes de açúcar, com o sabor agradável, que auxilia com as dores de garganta, tosse e catarro. Tome com uma colher de sopa ou dilua em uma xícara de água quente e tome como chá. INGREDIENTES: Bulbo fritillaria trendrilleaf, folha de nêspera, raiz de joaninha de quatro folhas, pão indiano, casca de pummel, raiz de platycodon, tubérculo de pinellia preparado, magoliavina chinesa, semente de cobra, flor coltsfoot comum, raiz de mikwort fina, semente de damasco amargo, gengibre fresco, extrato de amêndoa, raiz de alcaçuz, mentol, mel, maltose, xarope. Armazenar em local seco e arejado, após aberto manter bem vedado. Origem: China
-  Updated: 2026-02-03T13:19:36Z
+  Updated: 2026-02-16T17:15:39Z
   Vendor: Nin Jiom Pei Pa Koa
   Product Type: Chá
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/30.png?v=1680288646
-  Price: R$ 158,62 BRL
+  Price: R$ 159,00 BRL
 - [Molho de Soja Temperado - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/molho-de-soja-temperado-lee-kum-kee-500ml): Molho de Soja Temperado - Lee Kum Kee 500ml Molho de soja premium temperado feito de grão de soja e farinha de trigo. Utilizando métodos tradicionais e naturais de fermentação. Especialmente indicado para saladas frias. INGREDIENTES: Àgua, soja não transgênica, sal comestível, farinha de trigo, açúcar branco, glutamato de sódio, corante caramelo, nucleotideo dissódico com sabor 5'. INFORMAÇÃO NUTRICIONAL Porção de 15 ml Quantidade por Porção %VD(*) Valor Energético 86 Kj 1% Proteínas 1,8 g 3% Gorduras Totais 0 g 0% Carboidratos 2,9 g 1% Sódio 1085 mg 54% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Armazenar em local fresco e seco, cobrir e refrigerar imediatamente após o uso. Origem: China.
   Updated: 2026-02-06T18:59:56Z
   Vendor: Lee Kum Kee
@@ -2041,6 +2111,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/81079970c3bc969f52620f4a8bbded35.png?v=1678992800
   Price: R$ 45,99 BRL
+- [Panela Wok De Ferro Torki Com Cabo 33cm](https://www.meiwei.com.br/products/panela-wok-de-ferro-torki-com-cabo-33cm): Panela Wok De Ferro Torki Com Cabo 33cm Frigideira tipo chinesa, tacho, corpo e cabo totalmente em ferro, oval alta qualidade como a wok tradicional chinesa. Pode ser usada para o preparo de diversos tipos de comida como paejas, yakisoba, carne e legumes, etc. Recomendações para o Primeiro Uso: Para o primeiro uso é indicado colocar no fogo alto sem lava-la e queimar a panela toda durante 45 minutos a 1 hora. Após o procedimento acima, lava-la com sabão e esponja suave (não usar palha de aço ou materiais abrasivo). Recomendamos sempre secar no fogo assim evitando ferrugem. Dimensões: Altura:7 cm Diâmetro: 33 cm Profundidade: 9 cm Cabo: 17,5 cm Comprimento total com o cabo: 49 cm Capacidade: 3,5 L Origem: Brasil
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Mei Wei
+  Product Type: Utensílio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/bff4e705b9013cce53eeac3e82824cfb.png?v=1678993277
+  Price: R$ 494,90 BRL
+- [Panela Wok De Ferro Torki Tacho 41cm Duas Alças](https://www.meiwei.com.br/products/panela-wok-de-ferro-torki-tacho-41cm-duas-alcas): Panela Wok De Ferro Torki Tacho 41 cm Corpo e cabo totalmente em ferro, oval alta qualidade como a wok tradicional chinesa. A frigideira wok é muito utilizada no preparo dos pratos orientais como o tradicional yakissoba. Possui design especial que distribui a temperatura de forma ideal por toda a panela. Dimensões: Diâmetro: 41 cm Comprimento com Alças: 48 cm Profundidade: 10,5 cm Capacidade: 6,0 L Recomendações para o Primeiro Uso: Para o primeiro uso é indicado colocar no fogo alto sem lava-la e queimar a panela toda durante 45 minutos a 1 hora. Após o procedimento acima, lava-la com sabão e esponja suave (não usar palha de aço ou materiais aprazível ). Recomendamos sempre secar no fogo assim evitando ferrugem. Origem: Brasil.
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Torki
+  Product Type: Utensílio
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/86db3942c31349fe60d81e6c378272b0.jpg?v=1678993683
+  Price: R$ 199,99 BRL
 - [Hashi Descartável Waribashi De Bambu 100 Pares](https://www.meiwei.com.br/products/hashi-descartavel-waribashi-de-bambu-100-pares): Hashi que também é conhecido como waribashi, muito utilizado em vários países asiáticos é o famoso palitinho de madeira para comer comida japonesa ou oriental. Embalagem contendo 100 pares de hashis de bambu com excelente qualidade de fabricação Características: Comprimento: 20 cm Diâmetro: 0,6 mm Origem: China Contém 100 pares
   Updated: 2026-02-03T13:20:21Z
   Vendor: Mei Wei
@@ -2216,6 +2300,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/products/ChaDeErvasChinesaMista-ZhengFengBrand100g.png?v=1680209765
   Price: R$ 53,00 BRL
+- [Chá De Alga Kombu Granulado - Gyokuroen 45g](https://www.meiwei.com.br/products/cha-de-alga-kombu-granulado-lata-45g-gyokuroen): O sabor do kombu é suave e muito aromático, sendo agradável para se degustar sozinho ou acompanhando refeições. INGREDIENTES: Sal refinado, açúcar, algas marinhas (Kombu), dextrina, condimento (aminoácido), cálcio, vitamina C. NÃO CONTÉM GLÚTEN. CONTÉM CÁLCIO E VITAMINA C. Manter em local seco e arejado. Após aberto, manter longe da umidade. Origem: Japão
+  Updated: 2026-02-15T13:39:11Z
+  Vendor: Gyokuroen
+  Product Type: Chá
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/products/Chadealgakombu.jpg?v=1680523901
+  Price: R$ 39,99 BRL
 - [Chá Angélica Desidratada em Lascas - Zheng Feng Brand 100g](https://www.meiwei.com.br/products/cha-angelica-desidratada-em-lascas-zheng-feng-brand-100g): Chá Angélica Desidratada em Lascas - Zheng Feng Brand 100g Angélica é uma planta muito utilizada pelelos chineses, contém propriedades anti-inflamatórias e digestivas que normalmente são utilizadas para problemas intestinais, como dispepsia, excesso de gases e má digestão, por exemplo. INGREDIENTES: Raiz de Angélica Fatiada NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China
   Updated: 2025-12-26T08:51:41Z
   Vendor: Zheng Feng Brand
@@ -2398,6 +2489,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/2882960895803735b626b901d400e005.png?v=1682435495
   Price: R$ 399,99 BRL
+- [Molho de soja grosso - Wan Ja Shan 600ml](https://www.meiwei.com.br/products/molho-de-soja-grosso-wanjashan-600ml): O Molho de Soja Grosso é uma versão mais encorpada do tradicional molho de soja, com um sabor robusto e levemente adocicado, ideal para pratos que pedem textura e cor intensas. Muito utilizado na culinária asiática, especialmente em receitas de refogados, marinadas e molhos para carnes e vegetais, ele também é excelente para finalizar pratos, proporcionando brilho e um sabor profundo. Experimente em pratos como arroz frito, noodles, ou como um toque especial em molhos caseiros para churrascos e assados. INGREDIENTES: Água, soja, farinha de trigo, açúcar e sal CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA Armazenar em local seco e arejado. Após aberto, armazenar sob refrigeração. Origem: Taiwan Contém 600ml
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Wan Ja Shan
+  Product Type: Molho de Soja
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Catalogodeimagens2_48.png?v=1682436655
+  Price: R$ 39,99 BRL
 - [Bala sabor frutas sortidas - Kasugai 113g](https://www.meiwei.com.br/products/bala-sabor-frutas-sortidas-kasugai-113g): Balinhas japonesas refrescantes em formato de conchas de frutas sortidas, sendo elas: uva, pêssego, laranja, maçã. INGREDIENTES: Xarope de milho, açúcar, leite condensado, óleo vegetal, suco concentrado (pêssego, uva, laranja, maçã), extrato de ervas, regulador de acidez (ácido cítrico INS330, ácido málico INS296), corantes (extrato de casca de uva INS163ii, repolho roxo), emulsificantes (INS475 e INS322). CONTÉM GLÚTEN ALERGÉNICOS CONTÉM SOJA E LEITE, PODE CONTER TRAÇOS DE TRIGO, AMENDOIMM AMÊNDOA E LÁTEX NATURAL. Conservar em local arejado e seco. Após aberto manter bem fechado. Origem: Japão.
   Updated: 2025-12-06T15:36:42Z
   Vendor: Kasugai
@@ -2440,6 +2538,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/super-lemon-chinesa.png?v=1683148937
   Price: R$ 17,17 BRL
+- [Chá verde com arroz integral (Genmaicha Yellow) - Ujinotsuyu 200g](https://www.meiwei.com.br/products/cha-verde-c-arroz-integral-genmaicha-yellow-ujinotsuyu-200g): O chá verde com arroz integral ou grenmaicha é um tipo de chá composto por chá verde e arroz, ele é muito apreciado pelo seu aroma e sabor suave, principalmente por quem não se identifica tanto com o sabor do tradicional chá verde. O guen mai cha é rico em substâncias antioxidantes, que evitam a ação destrutiva das moléculas de radicais livres que degeneram as células, tendo efeito antienvelhecimento.INGREDIENTES: Folhas de chá verde, arroz integral torrado. NÃO CONTÉM GLÚTEN. Armazenar em locais secos e arejados. Após aberto manter bem vedado.Origem: Japão Contém 200g
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Ujinotsuyu
+  Product Type: Chá
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-verde-japones-Ujinotsuyu.png?v=1683158401
+  Price: R$ 40,03 BRL
 - [Feijão em conserva sabor cebola (Taucy) - Zhongshan 210g](https://www.meiwei.com.br/products/feijao-em-conserva-sabor-cebola-taucy-importado-210g): Feijão em conserva sabor cebola: ideal para dar um toque agridoce e cheio de umami a pratos orientais ou até ao arroz do dia a dia. Já vem pronto para servir e pode ser usado como acompanhamento, petisco ou ingrediente em refogados e sopas. INGREDIENTES: Feijão preto, sal e cebola. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 420 Kcal = 1762 Kj 20% Carboidratos 95 g 32% Proteínas 27 g 80% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 1000 mg 49% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: China Contém 210g
   Updated: 2025-12-06T15:36:44Z
   Vendor: Zhongshan
@@ -2447,6 +2552,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tauci-cebola-pequeno.png?v=1683159848
   Price: R$ 35,99 BRL
+- [Feijão Em Conserva Sabor Alho Taucy Importado 210g](https://www.meiwei.com.br/products/feijao-em-conserva-sabor-alho-taucy-importado-210g): Tauci Feijão Em Conserva Sabor Alho Taucy Importado 210g INGREDIENTES: Feijão preto, sal e alho. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 420 Kcal = 1762 Kj 20% Carboidratos 95 g 32% Proteínas 27 g 80% Gorduras Totais 0 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 0 g 0% Sódio 1000 mg 49% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: China
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Zhongshan
+  Product Type: Conserva
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tauci-alho-pequeno.png?v=1683160508
+  Price: R$ 39,99 BRL
 - [Faca Japonesa para Sushi e Sashimi](https://www.meiwei.com.br/products/1-faca-sushi-sashimi-origem-japao): Os japoneses consideram o ato de cortar os alimentos uma arte e por isso têm o cuidado de preparar seus pratos culinários com facas de altíssima qualidade. Reconhecida no mercado internacional pelo alto padrão de qualidade dos cortes de suas facas e diferenciado acabamento, ela foi desenhada especiamente com um fio em apenas um de seus lados para proporcionar um corte delicado e preciso de sashimis e sushis. Sua lamina, quase reta, fina e pontiaguda, é indicada para fatiar o peixe sem espinhas, cortar os makis e fazer guarnições., tais como leque de pepinos entre muitas outras coisas. CARACTERISTICAS: Lâmina com corte unilateral orientada para destros. DIMENSÕES: 34,5cm (comprimento: lâmina + cabo) x 3,1cm (largura: lâmina). Lâmina com comprimento 21 cm. MATERIAL: Lâmina de aço inox com alto teor de carbono High carbon steel (0,6 a 0,99% de carbono em sua composição) e cabo de madeira. Esta faca não pe recomendada para corte duros, como ossos e espinhas, apenas para cortes leves e delicados. Manter a faca sempre seca após o uso. Recomendação que use pedra para amolar #650. Origem: Japão
   Updated: 2026-02-01T21:41:56Z
   Vendor: Japão
@@ -2455,12 +2567,26 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/faca-japonesa.png?v=1683161704
   Price: R$ 233,30 BRL
 - [Bala gelatinosa sabor Lichia (Lychee Gummy) - Kasugai 102g](https://www.meiwei.com.br/products/bala-gelatinosa-sabor-lichia-kasugai-gummy-102g): Bala gelatinosa sabor lichia, com textura super macia e consistente e produzida a partir de suco de uva. Cada uma vem embalada individualmente para selar seu sabor e aroma. INGREDIENTES: Xarope de glicose, açúcar, sorbitol, suco de maçã e lichia, ácido cítrico, pectina, aromatizante, amido, cera de carnaúba, emulsificante (lectina de soja). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA E GOMA CARNAÚBA. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: Japão Contém 102g
-  Updated: 2026-02-03T13:17:11Z
+  Updated: 2026-02-12T11:24:42Z
   Vendor: Kasugai
   Product Type: Bala
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/9873b286e4e102a4508474f18ce44561.jpg?v=1691075924
-  Price: R$ 35,28 BRL
+  Price: R$ 33,96 BRL
+- [Soroban Ábaco  13 Dígitos](https://www.meiwei.com.br/products/soroban-abaco-13-digitos): Soroban Ábaco 13 Dígitos Soroban é o nome dado para o ábaco japonês, cuja origem é chinesa. O ábaco é um antigo instrumento de calcular. Ele é composto por contas e barras, que são dispostas em uma moldura retangular. Seu uso vai de contar, adicionar, subtrair e até mesmo multiplicar. A aprendizagem com o Soroban auxilia a desenvolver as habilidades motoras e coordenação, ao mesmo tempo em que ensina os conceitos básicos de matemática, também incentiva a pensar logicamente e a resolver problemas. É ótimo para ensinar à sua criança sobre padrões e formas, bem como desenvolver suas habilidades de memória e concentração. MODELO: 13 Digitos MATERIAL: Plástico MENORES DE 5 ANOS UTILIZAR SOB SUPERVISÃO DE UM ADULTO
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Mei Wei
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/abaco.jpg?v=1683243223
+  Price: R$ 35,99 BRL
+- [Jujuba Chinesa De Ameixa Vermelha Umeboshi Ume - 400g](https://www.meiwei.com.br/products/jujuba-chinesa-de-ameixa-vermelha-umeboshi-ume-400g): A Jujuba chinesa, também conhecida como Ziziphus jujuba, é uma fruta originária da Ásia, muito utilizada na medicina tradicional chinesa. Alguns dos benefícios associados ao consumo dessa fruta incluem: Melhora da digestão: A jujuba chinesa é rica em fibras, o que pode ajudar a melhorar a digestão e prevenir problemas como constipação. Propriedades antioxidantes: A fruta é rica em compostos antioxidantes, como flavonoides e polissacarídeos, que podem ajudar a prevenir danos celulares causados por radicais livres. Regulação do sono: A jujuba chinesa contém compostos como flavonoides e saponinas, que têm propriedades sedativas e podem ajudar a melhorar a qualidade do sono. Fortalecimento do sistema imunológico: A fruta é rica em vitamina C, que pode ajudar a fortalecer o sistema imunológico e prevenir doenças. Controle da ansiedade: A jujuba chinesa contém compostos que podem ajudar a reduzir os níveis de ansiedade e melhorar o humor. Melhora da saúde da pele: A fruta é rica em antioxidantes, que podem ajudar a prevenir o envelhecimento precoce da pele e melhorar a saúde da mesma. No entanto, é importante lembrar que esses benefícios são baseados em evidências limitadas e que é sempre importante consultar um profissional de saúde antes de utilizar qualquer tipo de suplemento ou alimento com fins terapêuticos. INGREDIENTES: Jujuba chinesa NÃO CONTÉM GLÚTEN Pronta para o consumo INFORMAÇÃO NUTRICIONAL Porção de 20g Quantidade por Porção %VD(*) Valor Energético 52 Kcal = 218 Kj 11% Carboidratos 12 g 4% Proteínas 0 g 0% Gorduras Totais 1 g 0% Gorduras Saturadas 0 g 0% Gorduras Trans 0 g ** Fibras 2 g 8% Sódio 250 mg 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em local seco e arejado. Após aberto conservar sob refrigeração Origem: China Contém 400g
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Mei Wei
+  Product Type: Doce
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/ameixa-500g.jpg?v=1683419186
+  Price: R$ 59,99 BRL
 - [Molho de Ostra Vegetariano com cogumelo - Wan Ja Shan 1L](https://www.meiwei.com.br/products/molho-ostra-vegetariano-feito-com-cogumelo-1l-whan-ja-shan): O Molho de Ostra Vegetariano feito com cogumelo é uma alternativa deliciosa e saudável ao tradicional molho ostra, adequado para aqueles que seguem uma dieta vegetariana ou vegana. Feito com cogumelos frescos e outros ingredientes naturais, este molho oferece um sabor rico e umami, sem a necessidade de produtos de origem animal. Além de adicionar profundidade e complexidade aos pratos, o molho ostra vegetariano realça o sabor dos vegetais, tofu, seitan e outros ingredientes vegetarianos, tornando-os mais saborosos e apetitosos. Versátil e fácil de usar, é perfeito para marinadas, refogados, stir-fries e mergulhos. Experimente este molho ostra vegetariano feito com cogumelo para uma experiência culinária que é ao mesmo tempo saudável e saborosa. INGREDIENTES: Água, açúcar líquido, soja não-geneticamente modificada (flocos de proteinas), trigo, sal, agente de viscosidade (goma de açúcar de milho, amido acetilado adípico), extrato de levedura, benzoato de sódio (conservantes), pó de cogumelo. CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA E TRIGO INFORMAÇÃO NUTRICIONAL Porção: 20ml (1 colher de sopa) Quantidade por porção %VD(*) Valor Energético 25Kcal/83,6Kj 1 Carboidratos 5g 2 Proteínas 1g 1 Gorduras Totais 0g 0 Gorduras Saturadas 0g 0 Gorduras Trans 0g (**) Fibra Alimentar 0g 0 Sódio 1000mg 42 (*) Valores diários com base em uma dieta de 2000kcal. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. (**) Valor Diário não estabelecida Após aberto, conservar a embalagem bem fechada e refrigerado Origem: Taiwan Contém 1 litro Clique aqui e veja outros molhos vegetarianos!
   Updated: 2026-01-22T20:43:31Z
   Vendor: Whan Ja Shan
@@ -2574,14 +2700,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/ZHENG-FENG-SHIH-LIAO-MISTURA-DE-SOPA.jpg?v=1690570279
   Price: R$ 37,99 BRL
 - [Tofu em conserva - Wang zhi he 340g](https://www.meiwei.com.br/products/tofu-em-conserva-wang-zhi-he-340g): O tofu em conserva tem um sabor especial, um pouco semelhante aos produtos lácteos, em parte devido às proteínas que aparecem durante a fermentação seca ao ar. Não possui odor intenso e sua textura é úmida. Se for colocado na geladeira, pode ser guardado por vários anos. Existe uma crença popular de que seu sabor melhora com o passar dos anos. INGREDIENTES: água, soja, álcool comestível, sal, açúcar, farinha de trigo, aditivo alimentar (fermento, estabilizador (cloreto de magnésio E511), especiaria. ALÉRGICOS CONTÉM SOJA E TRIGO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 10g Valor Calórico 73kJ 1% Carboidratos 0,7g 0% Proteínas 1,0g 2% Gorduras Totais 1,2g 2% Sódio 350mg 18% Origem: China Contém 340g
-  Updated: 2025-12-23T17:34:27Z
+  Updated: 2026-02-15T18:13:21Z
   Vendor: Wang zhi he
   Product Type: Conserva
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Leite-fermentado-tofu-fermentado_1.jpg?v=1690570511
   Price: R$ 39,90 BRL
 - [Tofu Soja fermentada branca - Wang zhi he 240g](https://www.meiwei.com.br/products/tofu-soja-fermentada-branca-wang-zhi-he-240g): Tofu fermentado é uma conserva à base de soja usada como condimento na culinária asiática. A coalhada é cortada em cubos grosseiros e conservada em salmoura, o que lhe confere um longo prazo de validade. A técnica de fermentação, baseada em antigos métodos rurais, consiste em envelhecer o tofu em palha seca de arroz durante algumas semanas e depois engarrafar em álcool forte com especiarias. O aroma pungente, de fazenda, de queijo e a textura cremosa trazem sabores autênticos aos pratos quando usados (com moderação) como guarnição ou como forma de realçar molhos. INGREDIENTES: Água, Soja, Vinho de Cozinha, Sal, Especiarias (Sulfitos). ALÉRGICOS CONTÉM SOJA INFORMAÇÕES NUTRICIONAISPorção de 10g Valor Calórico 70kJ 1% Carboidratos 0g 0% Proteínas 1,0g 2% Gorduras Totais 1,2g 2% Sódio 350mg 18% Armazenar em local fresco e seco e longe da luz solar direta. Leve à geladeira uma vez aberto. Origem: China Contém 240g
-  Updated: 2026-02-06T17:44:08Z
+  Updated: 2026-02-10T22:34:24Z
   Vendor: Wang zhi he
   Product Type: Conserva
   Availability: Available
@@ -2609,7 +2735,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Pasta-Handay-Chu-hou.jpg?v=1690571492
   Price: R$ 39,99 BRL
 - [Molho de Soja Chinês Premium Master Shoyu 味事达 酱香鲜 特级酿造酱油 380ml](https://www.meiwei.com.br/products/molho-de-soja-premium-380ml): O Molho de Soja Chinês Master 味事达 酱香鲜 特级酿造酱油 380ml é um shoyu de alta qualidade, fermentado especialmente para uso em salteados na wok, refogados e marinadas. Produzido na China pela marca 味事达 Master, ele é um molho de soja “especialmente fermentado” (特级酿造酱油), com: cor marrom escura e brilhante aroma intenso de soja fermentada, bem característico sabor umami pronunciado, equilibrando salgado e notas levemente adocicadas textura fluida, ideal para temperar durante o cozimento ou finalizar pratos Indicado para: yakissoba, chow mein e outros macarrões fritos stir‑fry de carnes, frango, legumes e tofu marinadas para churrasco oriental, grelhados e assados temperar arroz frito, legumes salteados e pratos do dia a dia Lista de ingredientes Ingredientes: água, soja, trigo, sal, açúcar, regulador de acidez (ácido lático), realçador de sabor (glutamato monossódico), conservador (benzoato de sódio) e corante caramelo. Alérgenos: contém soja e trigo (glúten). Tabela nutricional (estimativa porção 15 ml – 1 colher de sopa) Informação nutricional Porção de 15 ml (1 col. sopa) %VD* Valor energético 10 kcal (42 kJ) 1% Carboidratos 1,5 g 1% Proteínas 1,5 g 2% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g 0% Fibra alimentar 0 g 0% Sódio 900–1000 mg 38–42% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Sugestão de receita Frango Salteado com Legumes ao Molho de Soja Master Ingredientes (2–3 porções) 300 g de peito de frango em tiras 2 colheres (sopa) de Molho de Soja Master 味事达 1 colher (sopa) de molho de ostras (opcional) 1 colher (chá) de açúcar 1 colher (chá) de amido de milho 1 cenoura em rodelas finas ½ pimentão vermelho em tiras ½ cebola fatiada 1 xícara de brócolis em floretes 2 dentes de alho picados 1 colher (sopa) de óleo (soja, milho ou gergelim misturado) pimenta‑do‑reino a gosto cebolinha picada para finalizar Modo de preparo Marinada: misture o frango com 1 colher (sopa) de Molho de Soja Master, o açúcar e o amido de milho. Deixe marinar 10–15 minutos. Aqueça bem uma frigideira ou wok, adicione o óleo e refogue o alho até perfumar. Junte o frango e frite em fogo alto até dourar levemente. Acrescente os legumes (cenoura, pimentão, cebola, brócolis) e salteie por 3–4 minutos, mantendo os legumes ainda crocantes. Adicione mais 1 colher (sopa) de Molho de Soja Master e, se quiser, o molho de ostras. Misture bem até envolver tudo e o molho reduzir ligeiramente. Ajuste o sal (lembrando que o molho já é salgado), finalize com pimenta‑do‑reino e cebolinha picada. Sirva imediatamente com arroz branco ou arroz frito. Como armazenar Antes de aberto: conservar em local seco, fresco e ao abrigo da luz, longe de fontes de calor. Depois de aberto: manter bem fechado, em lugar fresco; o ideal é refrigerar e consumir em até alguns meses, seguindo a recomendação do rótulo. Evitar contaminação: não colocar colher suja dentro da garrafa.
-  Updated: 2026-02-03T13:17:41Z
+  Updated: 2026-02-17T03:23:31Z
   Vendor: Master
   Product Type: Molho de Soja
   Availability: Available
@@ -2727,6 +2853,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-carne-de-porco.jpg?v=1691075247
   Price: R$ 59,99 BRL
+- [Tempero 5 especiarias (Five Spice) em pó - Guihuasao 35g](https://www.meiwei.com.br/products/tempero-em-po-5-especiarias-guihuasao-35g): É especialmente popular para pratos salteados e como acompanhamento de carne. Excelente complemento para legumes, ensopados e frutos do mar. INGREDIENTES: Anis estrelado, canela, cravo, erva-doce, pimenta Sichuan. INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1504kJ 18 Proteínas 9,9g 17 Gorduras Totais 2,1g 4 Carboidratos 74g 25 Sódio 0mg 0 Validade: 24 meses Origem: China Contém 35g
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Guihuasao
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a53ecafdcf93a39df25c78db4963cc88.jpg?v=1691426834
+  Price: R$ 29,99 BRL
 - [Anis estrelado em pó - Guihuasao 35g](https://www.meiwei.com.br/products/tempero-anis-estrelado-em-po-guihuasao-35g): O anis estrelado em pó é comumente utilizado em sobremesas, como bolos, biscoitos, doces e pudins. Ele também é um ingrediente importante em misturas de especiarias, como o "cinco especiarias", que é amplamente usado na culinária chinesa. Além disso, é frequentemente usado em pratos de carne, peixe e vegetais para dar um toque de sabor e aroma exóticos. INGREDIENTES: Anis estrelado (72%), Amido (28%). INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1504kJ 18 Proteínas 9,9g 17 Gorduras Totais 2,1g 4 Carboidratos 74g 25 Sódio 0mg 0 Validade: 24 meses Origem: China Contém 35g
   Updated: 2025-12-06T15:36:53Z
   Vendor: Guihuasao
@@ -2755,6 +2888,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/9b44e9228f3046b31472c86912de584e.jpg?v=1691427433
   Price: R$ 33,90 BRL
+- [Pimenta Hua Jiao de Sichuan em pó - Guihuasao 35g](https://www.meiwei.com.br/products/tempero-pimenta-de-sichuan-em-po-guihuasao-35g): As características distintivas da pimenta de Sichuan são suas notas cítricas, levemente picantes e entorpecentes. Ela tem um sabor único e aromático, que é apreciado em muitos pratos da culinária chinesa de Sichuan. A pimenta de Sichuan é frequentemente utilizada em pratos salteados, ensopados, sopas e marinadas. INGREDIENTES: Pimenta de Sichuan, farinha de arroz INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1504kJ 18 Proteínas 9,9g 17 Gorduras Totais 2,1g 4 Carboidratos 74g 25 Sódio 0mg 0 Validade: 24 meses Origem: China Contém 35g
+  Updated: 2026-02-15T13:31:16Z
+  Vendor: Guihuasao
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/708503c89b128fe468dff4ca2952e70d.jpg?v=1691427545
+  Price: R$ 35,99 BRL
 - [Shoyu Molho de soja doce (Sweet soy sauce) - Lee Kum Kee 207ml](https://www.meiwei.com.br/products/molho-doce-de-soja-lee-kum-kee-207ml): O Molho de Soja Doce Lee Kum Kee é especialmente fabricado a partir de soja premium e farinha de trigo. Com seu sabor encorpado e cor rica, é ótimo para temperar arroz de caçarola e macarrão frito. Também é bom para mergulhar rolos de arroz, bolinhos de arroz, Dim Sum. INGREDIENTES: Água, açúcar, sal, corante (150a), soja (7%), farinha de trigo, intensificadores de sabor (621, 631, 627), xarope de milho com alto teor de frutose. ALÉRGICOS CONTÉM SOJA E TRIGO INFORMAÇÕES NUTRICIONAISPorção de 15ml - 1 colher de sopa Valor Calórico 133kJ 2% Carboidratos 7g 2% Proteínas 0,8g 1% Gorduras Totais 0g 0% Sódio 813mg 41% Origem: China Contém 207ml
   Updated: 2026-02-05T15:55:24Z
   Vendor: Lee Kum Kee
@@ -2811,6 +2951,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/3e6d4c2c6f166c2251db42fb32e9df34.jpg?v=1691518645
   Price: R$ 119,99 BRL
+- [Tempero pimenta em pó Jinjiang 30g](https://www.meiwei.com.br/products/tempero-pimenta-em-po-jinjiang-30g): Tempero pimenta em pó Jinjiang 30g INGREDIENTES: malegueta, farinha de arroz INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1504kJ 18 Proteínas 9,9g 17 Gorduras Totais 2,1g 4 Carboidratos 74g 25 Sódio 0mg 0 Validade: 24 meses Origem: China Contém 30g
+  Updated: 2026-02-15T13:25:16Z
+  Vendor: Jinjiang
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a61d0e570cbbd43884133da3447e6033.jpg?v=1691519607
+  Price: R$ 20,80 BRL
+- [Tempero de peixe com chucrute - Pang Zi 310g](https://www.meiwei.com.br/products/tempero-de-peixe-com-chucrute-310g): Tempero de Peixe com Chucrute é um ingrediente tradicional que combina o sabor rico e umami do peixe com a acidez equilibrada do chucrute, criando uma base aromática perfeita para diversas receitas. Ideal para sopas, ensopados e pratos asiáticos, como o famoso peixe ao estilo Sichuan. Também pode ser usado como marinada ou para enriquecer caldos e molhos, conferindo um toque autêntico e intenso. Experimente e transforme pratos simples em refeições cheias de sabor. INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1504kJ 18 Proteínas 9,9g 17 Gorduras Totais 2,1g 4 Carboidratos 74g 25 Sódio 0mg 0 Validade: 24 meses Origem: China Contém 30g
+  Updated: 2026-02-15T13:25:16Z
+  Vendor: Pang Zi
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/92b592a8542a13ac25d181ce8a337deb.jpg?v=1691520173
+  Price: R$ 64,99 BRL
 - [Tempero carne suína no vapor - QiaoTou 310g](https://www.meiwei.com.br/products/tempero-carne-de-porco-no-vapor-qiaotou-310g): Feito com especiarias e ingredientes exclusivos, como pimenta Szechuan, gengibre, soja em conserva e muito mais para recriar o sabor autêntico de ChongQing a qualquer hora e em qualquer lugar que você quiser. Use isso para temperar sua carne enquanto a cozinha, ajuste os sabores adicionando ou reduzindo o tempero em pó conforme desejar. INFORMAÇÃO NUTRICIONAL Porção de 100g Quantidade por Porção %VD(*) Valor Energético 1018kJ 12 Proteínas 4,9g 8 Gorduras Totais 10,8g 18 Carboidratos 31,5g 11 Sódio 5156mg 258 Origem: China Contém 310g
   Updated: 2025-12-17T08:18:23Z
   Vendor: QiaoTou
@@ -2825,6 +2979,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/dea5d34de34222c649ff3658380c6d47.jpg?v=1691520676
   Price: R$ 59,99 BRL
+- [Base de Hot Pot Picante - Pan Zi 150g](https://www.meiwei.com.br/products/base-sopa-hot-pot-pan-zi-picante-150g): INGREDIENTES: Manteiga, óleo vegetal, gordura vegetal, molho de fava (pimentão, fava, sal, água, farinha de trigo), pimenta, pimenta de Shauan, sal, gengibre, alho, açúcar granulado branco, especiarias, MSG, I+G, oleoresina de páprica, aromatizante de alimentos. Origem: China Contém 150g
+  Updated: 2026-02-15T13:25:16Z
+  Vendor: Pan Zi
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/310d2250c96736e21dd2de32169d8a57.jpg?v=1691520816
+  Price: R$ 29,99 BRL
 - [Molho refogado da vovó (Hong Shao Kou Ruo) - Maipolu 100g](https://www.meiwei.com.br/products/molho-refogado-da-vovo-maipolu-hong-shao-kou-ruo-100g): Molho Refogado da Vovó (Hong Shao Kou Ruo 红烧扣肉调料) é um tempero tradicional chinês usado para preparar carnes ao estilo “hong shao” – um método de cozimento lento com molho à base de soja. Com sabor profundo, levemente adocicado e cheio de umami, esse molho é ideal para pratos como barriga de porco, costelas ou carnes vegetais. Prático e cheio de sabor caseiro, traz o autêntico gostinho de comida feita com carinho, como a da vovó. INGREDIENTES: Molho de soja fermentado, xarope de glicose, sorbato de potássio ALÉRGICOS CONTÉM SOJA INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 699kJ 8% Carboidratos 36,3g 12% Proteínas 4,8g 8% Gorduras Totais 0g 0% Sódio 4176mg 209% Origem: China Contém 100g
   Updated: 2025-12-06T15:36:56Z
   Vendor: Maipolu
@@ -2832,6 +2993,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/b72f42daa900ac1268d56c28d856e8ce.jpg?v=1691521012
   Price: R$ 26,90 BRL
+- [Base picante de Hot Pot - Huo Guo Sanwu 150g](https://www.meiwei.com.br/products/base-para-sopa-hot-pot-huo-guo-sanwu-150g): A Base Picante de Hot Pot é uma mistura aromática e intensa que transforma sua refeição em uma experiência única. Feita com uma combinação de pimenta, especiarias selecionadas e ervas tradicionais, proporciona um sabor rico, picante e levemente defumado. Ideal para preparar caldos que aquecem e despertam o paladar, essa base é perfeita para quem aprecia pratos marcantes. Experimente com carnes, vegetais e macarrão para criar um Hot Pot autêntico e irresistível. INGREDIENTES: Manteiga, Óleo Vegetal, Gordura Vegetal, Pimenta (8%), Doubanjiang, Pimenta em Pó, Soja , Sal, Água, Farinha de Trigo ), Pimenta de Sichuan, Sal, Alho, Gengibre, Açúcar, Gergelim , Pimenta em Pó de Funcho, Anis Estrelado, Pimenta de Sichuan, Raiz de Galanga, Intensificadores de Sabor (E621, E627), Especiarias. ALÉRGICOS CONTÉM TRIGO, SOJA E OVO. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2310kJ 28% Carboidratos totais 2,8g 1% Proteínas 2,5g 4% Gorduras totais 60g 100% Gorduras trans 1,2g Sódio 3600mg 180% Origem: China Contém 150g
+  Updated: 2026-02-15T13:25:11Z
+  Vendor: Sanwu
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/f26e07a4e5f43d22047225da293ea98c.jpg?v=1691522322
+  Price: R$ 22,99 BRL
+- [Tempero 5 especiarias para marinada (Five Spices) - Sichuan Teway 120g](https://www.meiwei.com.br/products/tempero-para-marinada-5-especiarias-120g): Cinco especiarias chinesas adicionam um calor e complexidade que só podem ser alcançados por uma mistura de ingredientes. Dá um toque saboroso e interessante a algo que normalmente é doce. INGREDIENTES: sal comestível, molho de soja fermentado (incluindo corante caramelo), óleo de colza, pasta de soja (contendo sorbato de potássio, sucralose), xarope de açúcar mascavo (caldo de cana concentrado, açúcar mascavo), açúcar branco, água, tempero de frango, sabores alimentares e fragrâncias, glutamato monossódico, Angelica dahurica, molho de ostra (contendo corante caramelo, sorbato de potássio, glicosídeo de esteviol), especiarias, vinho de arroz, gengibre, anis estrelado, pimenta em grão, cominho, gramíneas, louro, kaempferia. ALÉRGICOS CONTÉM TRIGO, SOJA E OVO. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1089kJ 13% Carboidratos 27,4g 9% Proteínas 5,1g 9% Gorduras Totais 14,5g 24% Sódio 9510mg 476% Origem: China Contém 120g
+  Updated: 2026-02-15T13:25:11Z
+  Vendor: Sichuan Teway
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/e44276763a682d370e9df0a72cd0495d.jpg?v=1692302481
+  Price: R$ 37,99 BRL
 - [Tempero picante para peixe - HaiDiLao 120g](https://www.meiwei.com.br/products/tempero-picante-para-peixe-120g): Tempero Picante para Peixe é a escolha ideal para quem busca dar um toque ardente e aromático aos pratos de frutos do mar. Com uma mistura equilibrada de especiarias e pimenta, ele realça o sabor natural do peixe, seja grelhado, assado, ensopado ou frito. Perfeito para receitas asiáticas, como peixe apimentado ao estilo Sichuan, ou para criar marinadas vibrantes e picantes. Adicione em sopas, caldos ou molhos para intensificar os sabores e trazer um toque quente e irresistível à sua cozinha. INGREDIENTES: Temperos(Soja, Azeite, Molho de Fava(Pimenta malagueta, Fava, Água, Sal, Farinha de Trigo) Pimenta Malagueta, Água, Conserva de Rabanete(Rabanete, Sal, Especiarias)Pele de Gengibre(Gengibre, Água, Sal, Regulador de Acidez(Cítrico Ácido)), Conservante (Metabissulfito de Sódio), Sal, Açúcar, Pimenta de Sichuan, Extrato de Levedura, Especiarias, Óleo de Pimenta de Sichuan (Óleo de Colza, Pimenta de Sichuan), Intensificador de Sabor (Glutamato Monossódico, 5-ribonucleotídeos Dissódicos), Conservante (Sorbato de Potássio) ), Tempero Em Conserva De Filé De Peixe (Amido De Milho, Sal, Pimenta Branca Em Pó). ALÉRGICOS CONTÉM TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2725kJ 32% Carboidratos 3,3g 1% Proteínas 1,8g 3% Gorduras Totais 71,3g 119% Sódio 5055mg 253% Origem: China Contém 120g
   Updated: 2025-12-25T06:52:28Z
   Vendor: HaiDiLao
@@ -2839,6 +3014,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/72cc1052e2f33d8da82cc81f184d35b8.jpg?v=1692302585
   Price: R$ 37,99 BRL
+- [Tempero para peixe cozido com couve em conserva 360g](https://www.meiwei.com.br/products/tempero-para-peixe-cozido-c-couve-em-conserva-360g): Instruções de cozimento: 1. Marinar os Filetes de Peixe: Lave 1-1,5 kg de filés de peixe e misture no Pacote de Marinada de Peixe com 100 ml de vinho de arroz. 2. Fazendo o Caldo de Couve: Aqueça 100ml de óleo em uma panela, acrescente o Pacote de Couve em Conserva e mexa bem. Adicione 1L de água a ferver e o pacotinho de temperos e deixe levantar fervura. 3. Cozimento dos filés de peixe: Adicione os filés de peixe marinados à panela, pedaço por pedaço, e ferva por 3-5 minutos. Sirva e aproveite! INGREDIENTES: Conserva de Couve (Couve, Sal, Malagueta, Pimenta, Gengibre, Vinagre de Arroz, Grain Spirit, Especiarias, Regulador de Acidez (Ácido Cítrico, Ácido Láctico)) (61,9%), Tempero (Óleo de Soja, Conserva de Rabanete (Rabanete, Sal, Especiarias) , Cebola, Sal, Alho, Conserva de Gengibre (Gengibre, Água, Sal, Regulador de Acidez (Ácido Cítrico), Conservante (Metabissulfito de Sódio)), Açúcar, Extrato de Levedura, Realçador de Sabor (Glutamato Monossódico, 5-Ribonucleotídeos Dissódicos), Regulador de Acidez ( Ácido Cítrico), Pimenta Branca em Pó, Conservante (Sorbato de Potássio), Açafrão em Pó), Pimenta em Conserva (Pimenta Malagueta, Sal), Filé de Peixe Tempero em Conserva (Amido de Milho, Sal, Pimenta Branca em Pó). ALÉRGICOS CONTÉM SOJA E GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 588kJ 7% Carboidratos 5,1g 2% Proteínas 1,2g 2% Gorduras Totais 13g 22% Sódio 426mg 213% Origem: China Contém 360g
+  Updated: 2026-02-15T13:25:11Z
+  Vendor: Mei Wei
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/8f4b5bdb50bb1c9b9996ddd67d474570.jpg?v=1692302707
+  Price: R$ 49,99 BRL
 - [Base de Hot Pot - Hong Jiujiu 400g](https://www.meiwei.com.br/products/base-para-sopa-hot-pot-hong-jiujiu-400g): A Base para Sopa Hot Pot traz praticidade e sabor ao preparo desse prato icônico da culinária asiática. Feita com uma mistura especial de especiarias e condimentos, garante um caldo aromático e cheio de personalidade. Perfeita para acompanhar carnes, frutos do mar, vegetais ou tofu, é a escolha ideal para criar uma refeição compartilhada, repleta de sabores autênticos e inesquecíveis. INGREDIENTES: Pasta de Soja, Pimenta, Sal, Açúcar, Gengibre, Pimenta, Realçador de Sabor (E621), Vinho de Culinária, Óleo Vegetal, Pimenta ALÉRGICOS CONTÉM SOJA INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2017kJ 24% Carboidratos 5,2g 2% Proteínas 4g 8% Gorduras Totais 50g 83% Sódio 7200mg 300% Origem: China Contém 400g
   Updated: 2025-12-11T10:30:59Z
   Vendor: Hong Jiujiu
@@ -2853,6 +3035,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/78a2d6928320bb9ed767d8924903e03d.jpg?v=1692303044
   Price: R$ 49,99 BRL
+- [Base de Hot Pot sabor tomate - QiaoTou 240g](https://www.meiwei.com.br/products/base-para-sopa-hot-pot-de-tomate-qiaotou-240g): A Base de Hot Pot sabor Tomate é um concentrado aromático e levemente adocicado, feito com tomates maduros cozidos lentamente com especiarias, alho e cebola, criando um caldo encorpado e suave. Ideal para quem prefere uma versão menos picante do tradicional hot pot, ela oferece um sabor equilibrado e reconfortante, perfeito para cozinhar carnes, legumes, tofu e macarrão diretamente à mesa, realçando os ingredientes com um toque agridoce e fresco do tomate. INGREDIENTES: Molho de tomate (58.34), óleo vegetal (12.12%), açúcar, óleo artificial de frango, sal, cebola, cenoura, extrato de levedura, glicose, aroma artificial de frango, intensificador de sabor (E635, E621), conservante (E202), regulador de acidez ( E330), aroma alimentar, aromatizante. ALÉRGICOS CONTÉM LEVEDURA INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1355kJ 16% Carboidratos 23,8g 8% Proteínas 4,3g 7% Gorduras Totais 23,7g 40% Sódio 3335mg 167% Origem: China Contém 240g
+  Updated: 2026-02-15T13:25:11Z
+  Vendor: QiaoTou
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/c07e2904f5237a570ff8844928f37d86.jpg?v=1692303138
+  Price: R$ 45,90 BRL
 - [Tempero picante de tofu QiaoTou 80g](https://www.meiwei.com.br/products/tempero-picante-de-tofu-qiaotou-80g): Instruções de cozimento: 1. Coloque o tofu em cubos pequenos de 2 cm, em água fervente com um pouco de sal, cozinhe por 1 minuto e retire para uso posterior. 20 gramas de rebentos de alho ou chalotas, cortados em pedaços pequenos. 2. Adicione 200 gramas de água na frigideira, depois de fervida, coloque 80 gramas deste tempero e 50 gramas de óleo vegetal na panela ao mesmo tempo e misture bem, em seguida adicione o tofu e cozinhe. Chalotas fatiadas, refogue uniformemente , retire da panela e coloque em um prato, polvilhe com quantidade adequada de macarrão pimenta de acordo com sua preferência e sirva imediatamente. Este produto também é adequado para cozinhar cordeiro refogado, peixe picante e camarão picante. INGREDIENTES: Óleo vegetal, agrião Pixian, gengibre, sal comestível, glutamato monossódico, pimenta picante, óleo comestível de frango, pimenta, tempeh, glicose comestível, cebola, extrato de fermento, especiarias, tempero de caldo de galinha, aditivos alimentares (aromas para alimentos, 5'-flavored nucleotide de Sódio), especiarias alimentares. ALÉRGICOS CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1437kJ 17% Carboidratos 1,5g 1% Proteínas 2,7g 5% Gorduras Totais 36,9g 62% Sódio 5866mg 296% Origem: China Contém 80g
   Updated: 2025-12-06T15:36:57Z
   Vendor: QiaoTou
@@ -2860,6 +3049,41 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/573662ed9bed782f21698d393f1b654f.jpg?v=1692303240
   Price: R$ 22,99 BRL
+- [Vinho branco Jilin Yimandi Wine 500ml](https://www.meiwei.com.br/products/vinho-branco-jilin-yimandi-wine-500ml): INGREDIENTES: Água, sorgo, trigo Origem: China Contém 500ml
+  Updated: 2026-02-15T13:23:41Z
+  Vendor: Jilin Yimandi Wine
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a73065e1fdcd72f7424953b6fadbef77.jpg?v=1692303748
+  Price: R$ 149,00 BRL
+- [Vinho branco Jilin Yimandi Wine 500ml](https://www.meiwei.com.br/products/vinho-branco-jilin-yimandi-wine-500ml-1): INGREDIENTES: Água, sorgo, trigo Origem: China Contém 500ml
+  Updated: 2026-02-15T13:23:41Z
+  Vendor: Jilin Yimandi Wine
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/5bd8062b32b71ce5dbc0e3b40eb6f916.jpg?v=1692303811
+  Price: R$ 149,00 BRL
+- [Vinho rosé Weimi 500ml](https://www.meiwei.com.br/products/vinho-rose-weimi-500ml): INGREDIENTES: Água potável, extrato duplo de rosas, suco de maçã concentrado, açúcar branco, xarope de frutose, conhaque Aditivos alimentares: (ácido cítrico, sacarose, carmim, amaranto, metabissulfito de potássio) aroma alimentar citrato de sódio alazão Fosfato de potássio, benzoato de sódio, ciclamato, tricloro. Álcool: 8% vol Teor de suco: ≥3% Origem: China Contém 500ml
+  Updated: 2026-02-15T13:23:41Z
+  Vendor: Mei Wei
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a60465d102a22e14122f04ba65c547f9.jpg?v=1692303892
+  Price: R$ 149,00 BRL
+- [Vinho branco Jilin Yimandi Wine 500ml](https://www.meiwei.com.br/products/vinho-branco-jilin-yimandi-wine-500ml-2): INGREDIENTES: Água, sorgo, trigo Origem: China Contém 500ml
+  Updated: 2026-02-15T13:23:41Z
+  Vendor: Jilin Yimandi Wine
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bd632e94f09035286d0e978b591ff0cc.jpg?v=1692303995
+  Price: R$ 149,00 BRL
+- [Caldo de galinha em pó 1kg](https://www.meiwei.com.br/products/caldo-de-galinha-em-po-1kg): INGREDIENTES: Sal comestível, açúcar branco, glutamato de sódio, sabor alimentar e especiarias em pó de frango, amido, gordura de frango, especiarias, nucleotídeo dissódico de sabor 5', dióxido de silício, ácido DL-málico, cor de caramelo, amarelo limão. Origem: China Contém 1kg
+  Updated: 2026-02-16T20:35:16Z
+  Vendor: Chubang
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/b478d4977706ded339ce86aba167f2e9.jpg?v=1692378001
+  Price: R$ 139,99 BRL
 - [Amaciante de carne - Knorr 453,6g - 家乐安多夫 脂粉调味料)](https://www.meiwei.com.br/products/amaciante-de-carne-knorr-453-6g): Transforme suas receitas com o Amaciante de Carne Knorr Adolph’s (家乐安多夫 脂粉调味料)! Especialmente desenvolvido para amaciar carnes de maneira prática e eficiente, este produto é ideal para quem busca suculência, maciez e sabor em carnes bovinas, suínas, aves e até frutos do mar. Sua fórmula exclusiva penetra nas fibras, tornando qualquer corte mais macio e saboroso, perfeito para grelhados, assados, churrascos e receitas orientais. Principais características e diferenciais: Amaciante de carne em pó, prático e fácil de usar. Garante carnes mais macias, suculentas e saborosas. Ideal para todos os tipos de carne e frutos do mar. Dissolve rapidamente e não altera o sabor natural dos alimentos. Embalagem econômica de 453,6g, perfeita para famílias e restaurantes. INGREDIENTES: sal, açúcar, amido de milho, papaína, MSG , óleo vegetal. INSTRUÇÕES DE USO: Perfure a carne profundamente em toda a superfície para garantir a maciez profunda e, em seguida, agite Knorr Adolph's e coloque generosa e uniformemente, cobrindo todas as superfícies da carne. Receita utilizando o produto Bife Macio com Amaciante de Carne Knorr Adolph’s Ingredientes: 500g de bife de sua preferência 1 colher (sopa) de Amaciante de Carne Knorr Adolph’s (家乐安多夫) Sal e pimenta a gosto 1 colher (sopa) de óleo Modo de preparo: Polvilhe o amaciante de carne sobre os bifes, massageando bem. Deixe agir por 20 minutos. Tempere com sal e pimenta e grelhe em fogo alto até o ponto desejado. Sirva com acompanhamentos orientais ou tradicionais. Origem: China Contém 453,6g Válido por 36 meses Clique aqui e veja outras opções de amaciante de carnes!
   Updated: 2026-01-21T04:48:47Z
   Vendor: Knorr 家乐
@@ -2945,7 +3169,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/519dbc4b5f0b50bcfc11999d8eba5878.jpg?v=1692381261
   Price: R$ 24,99 BRL
 - [Marinada de especiarias - Wang ShouYi 24g](https://www.meiwei.com.br/products/marinada-de-especiarias-wang-shouyi-24g): A marinada de especiarias é uma mistura aromática tradicionalmente usada na culinária chinesa para realçar o sabor de carnes e proteínas. Feita com uma combinação de especiarias como anis-estrelado, canela, cravo, gengibre e outros ingredientes, ela é perfeita para preparar ensopados, carnes cozidas ou pratos estufados, conferindo um sabor profundo, levemente adocicado e muito perfumado. Ideal para dar um toque autêntico e marcante a receitas orientais. INGREDIENTES: Anis estrelado, gengibre seco, erva-doce, pimenta Sichuan, pimenta-do-reino, galanga, casca de laranja, alcaçuz, canela, amomum, cravo. Origem: China Contém 24g
-  Updated: 2025-12-06T15:37:00Z
+  Updated: 2026-02-12T12:37:30Z
   Vendor: Wang Shouyi
   Product Type: Tempero
   Availability: Available
@@ -2993,6 +3217,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/fb79a3d196bc961eafc61155b4218b87.jpg?v=1692382536
   Price: R$ 29,90 BRL
+- [Tempero pimenta picante em pó - QiaoTou 100g](https://www.meiwei.com.br/products/tempero-pimenta-picante-em-po-qiaotou-100g): O Tempero Pimenta Picante em Pó é uma mistura aromática e intensa, feita com pimentas secas moídas e especiarias orientais, oferecendo sabor marcante e calor persistente. Muito usado na culinária chinesa e coreana, é ideal para finalizar pratos como noodles, sopas, carnes grelhadas ou vegetais salteados, adicionando um toque picante e estimulante que realça os sabores com praticidade e intensidade. INGREDIENTES: Pimentão, ervilha, sal comestível, glutamato monossódico, açúcar branco, óleo vegetal, gergelim, pimenta chinesa, extrato de levedura, especiarias, aditivos alimentares (sabor alimentar, dióxido de silício, páprica, polifenóis do chá), especiarias alimentares. ALÉRGICOS CONTÉM LEVEDURA E GLÚTEN Origem: China Contém 100g
+  Updated: 2026-02-15T13:26:35Z
+  Vendor: QiaoTou
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/98e787448055cacd4dabb938c85989d8.jpg?v=1692382777
+  Price: R$ 39,99 BRL
+- [Base para sopa vermelha Hot Pot Yuanfenglong 200g](https://www.meiwei.com.br/products/base-para-sopa-vermelha-hot-pot-yuanfenglong-200g): Instruções: Despeje este produto em uma panela, adicione 1000ml de água ou caldo (caldo é melhor), este tempero também pode ser usado em vários métodos de cozimento, como cozinha de Sichuan, refogado, cozimento, macarrão e molho molho. Depois de ferver, pode cozinhar todos os tipos de ingredientes. INGREDIENTES: Óleo vegetal comestível, manteiga, agrião (pimenta vermelha, fava, sal comestível, farinha de trigo), pimenta, pimenta, pimenta, gengibre, alho, sal comestível, vinho branco, açúcar branco, tempeh, anis estrelado, canela, especiarias, sabor alimentar, extrato de levedura, tempero em pó de frango, aditivo alimentar 22 (glutamato de sódio, nucleotídeo dissódico 5' com sabor, capsantina, etil maltol, ácido sórbico Potássio). ALÉRGICOS CONTÉM TRIGO INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1588kJ 19% Carboidratos 12,3g 4% Proteínas 5,8g 10% Gorduras Totais 34,6g 58% Sódio 6353mg 318% Origem: China Contém 200g
+  Updated: 2026-02-15T13:26:35Z
+  Vendor: Yuanfenglong
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/acc39a56f027d59d6ffc2dd3769b82c0.jpg?v=1692382922
+  Price: R$ 45,90 BRL
 - [Tempero de frango (óleo vermelho picante) - Yuan Long 280g](https://www.meiwei.com.br/products/tempero-de-frango-oleo-vermelho-picante-280g): Tempero de Frango (Óleo Vermelho Picante) é a escolha perfeita para quem ama um toque ardente e saboroso em pratos de frango. Feito com óleo vermelho temperado e especiarias cuidadosamente combinadas, este tempero realça o sabor do frango em preparações grelhadas, fritas, ensopados ou marinadas. Ideal para pratos como frango ao estilo Sichuan, hot pot ou asas de frango picantes. Experimente também em sopas e caldos para uma explosão de sabor que aquece o paladar. Um complemento versátil e indispensável na culinária asiática. INGREDIENTES: Óleo vegetal, óleo de colza, pimenta, gergelim, amendoim, sal comestível, gengibre, alho, açúcar branco, tempero de molho de frango grosso (água, glutamato de sódio, sal comestível, açúcar branco, hidroximenil fósforo diamido, éster, pó de galinha, álcool comestível, goma xantana, ácido cítrico, D-isoascorbato de sódio, sorbato de sódio, ácido diaminotetracético dissódico) aromas e fragrâncias comestíveis, especiarias, aditivos alimentares: glutamato de sódio, 5'-"Juner", sorbato de potássio. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2188kJ 26% Carboidratos 7g 2% Proteínas 2g 3% Gorduras Totais 55g 92% Sódio 3960mg 198% Origem: China Contém 280g
   Updated: 2025-12-06T15:37:02Z
   Vendor: Yuan Long
@@ -3000,6 +3238,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/e4ee13575dca9cc56498fb790bc9557b.jpg?v=1692383078
   Price: R$ 43,90 BRL
+- [Base para sopa branca Hot Pot Yuanfenglong 200g](https://www.meiwei.com.br/products/base-para-sopa-branca-hot-pot-yuanfenglong-200g): Instruções: Despeje este produto em uma panela, adicione 1000ml de água ou caldo (caldo é melhor), este tempero também pode ser usado em vários métodos de cozimento, como cozinha de Sichuan, refogado, cozimento, macarrão e molho molho. Depois de ferver, pode cozinhar todos os tipos de ingredientes. INGREDIENTES: Óleo vegetal comestível, tomate, picles de mostarda, sal comestível, gengibre, pimenta, anzol dourado, mexilhões, cogumelos shiitake, alho, cebolinha, aditivos alimentares (glutamato de sódio, 5'-taste nucleotide disodium, Barberrie sorbato de potássio). ALÉRGICOS CONTÉM FRUTOS DO MAR INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1205kJ 14% Carboidratos 5g 2% Proteínas 6g 10% Gorduras Totais 27,5g 46% Sódio 4400mg 220% Origem: China Contém 200g
+  Updated: 2026-02-15T13:26:35Z
+  Vendor: Yuanfenglong
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/2ada056df98e96a1a4b4f4d3af1a6d92.jpg?v=1692383204
+  Price: R$ 45,90 BRL
 - [Licor Moutai 52% Luzhou Laojiao Te Chu Chiew 500ml](https://www.meiwei.com.br/products/licor-moutai-52-luzhou-laojiao-te-chu-chiew-500ml): INGREDIENTES: Água, sorgo, trigo ALÉRGICOS CONTÉM TRIGO Condições de armazenamento: local seco, ventilado, fresco Álcool 52% vol Origem: China Contém 500ml
   Updated: 2026-02-03T18:16:29Z
   Vendor: Luzhou Laojiao
@@ -3063,6 +3308,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/9b12a12f24600e3e09eb93912cfb35cf.jpg?v=1692642022
   Price: R$ 279,00 BRL
+- [Licor Moutai 53% FenJiu Shanxi Xinghuacun 475ml](https://www.meiwei.com.br/products/licor-moutai-53-fenjiu-shanxi-xinghuacun-475ml): INGREDIENTES: Água, Sorgo, Cevada, Ervilhas ALÉRGICOS CONTÉM CEVADA Condições de armazenamento: local seco, ventilado, fresco Álcool 53% vol Origem: China Contém 475ml
+  Updated: 2026-02-13T14:04:37Z
+  Vendor: Shanxi Xinghuacun
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/ce0d40ca68cf15699cc3c5a58c49cbdb.jpg?v=1692642383
+  Price: R$ 299,99 BRL
 - [Vinho de arroz duplamente destilado - Kiu Kiang 610ml](https://www.meiwei.com.br/products/vinho-de-arroz-duplamente-destilado-kiu-kiang-610ml): Tradicional da culinária chinesa, o vinho de arroz duplamente destilado possui aroma mais intenso e sabor refinado, resultado de um processo que concentra ainda mais suas notas alcoólicas e características fermentadas. Ideal para realçar carnes, caldos e marinadas, é um ingrediente essencial em pratos como frango xadrez, lamen e molhos encorpados. INGREDIENTES: Água, Soja, Arroz ALÉRGICOS CONTÉM SOJA Álcool 29,5% vol Condições de armazenamento: local seco, ventilado, fresco Origem: China Contém 610ml
   Updated: 2025-12-06T15:37:04Z
   Vendor: Kiu Kiang
@@ -3168,6 +3420,48 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/espessante-fecula-mandioca.jpg?v=1721828113
   Price: R$ 19,99 BRL
+- [Tempero para Sukiyaki apimentado - Sichuan Teway 500g](https://www.meiwei.com.br/products/base-hot-pot-de-manteiga-artesanal-picante-sichuan-teway-500g): O Tempero para Sukiyaki Apimentado é a escolha perfeita para quem deseja adicionar um toque picante ao tradicional prato japonês. Traz a harmonia de sabores doces, salgados e picantes. Ideal para realçar carnes, vegetais e tofu, proporciona um caldo rico e encorpado que eleva a experiência do sukiyaki. Prático e versátil, é perfeito para quem busca um prato reconfortante com um leve toque de ardência, sem abrir mão da autenticidade japonesa. INGREDIENTES: Pimenta, manteiga, óleo vegetal, pimentão, feijão preto, alho, fermentado de arroz glutinoso, sal, açúcar, leite em pó, gengibre, vinho de cozinha, glutamato monossódico (INS621), erva-doce, óleo de fígado de bacalhau ALÉRGICOS CONTÉM LEITE E PEIXE Não contém glúten INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2652Kj 32% Carboidratos 6,8g 2% Proteínas 7,4g 12% Gorduras totais 65,1g 109% Sódio 3850mg 193% Origem: China Contém 500g
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: Sichuan Teway
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-Sukiyaki.jpg?v=1696271373
+  Price: R$ 110,20 BRL
+- [Base de Hot Pot picante QiaoTou 400g](https://www.meiwei.com.br/products/base-para-sopa-hot-pot-picante-qiaotou-400g): INGREDIENTES: óleo vegetal, pasta de soja, pimenta, sal, alho, gengibre, pimenta sichuan, extrato de levedura, cebola, soja preta fermentada, açúcar ranco, glicose, molho de soja, especiarias, aditivo alimentar (glutamato monossódico (INS621), essência alimentar, 5'-Ribonucleotídeo dissódico (INS 635)), sabor alimentar. Não contém glúten INFORMAÇÕES NUTRICIONAISPorção de 20g Valor Calórico 95kcal 5% Carboidratos 0g 0% Açúcares totais 0g 0% Açúcares adicionados 0g 0% Proteínas 1g 1% Gorduras totais 10,1g 18% Gorduras saturadas 0g 0% Gorduras trans 0g ** Fibra alimentar 0g 0% Sódio 1122mg 47% Origem: China Contém 400g
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: QiaoTou
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a34365b30efb52162bbf04812cef4462.jpg?v=1693337417
+  Price: R$ 49,99 BRL
+- [Base de Hot Pot estilo chongqing Qian Jiao Hong 400g](https://www.meiwei.com.br/products/base-de-hot-pot-estilo-chongqing-qian-jiao-hong-400g): INGREDIENTES: Manteiga, óleo vegetal, pasta de fava apimentado (pimenta, fava, sal), pimenta, pimenta sichuan, gengibre, alho, pasta de soja, sal, açúcar branco, glutamato monossódico (INS621), pasta de arroz (água, arroz glutinoso, açúcar branco, ágar, sucralose (INS 955)), cebola, especiarias ALÉRGICOS CONTÉM SOJA Não contem glúten INFORMAÇÕES NUTRICIONAISPorção de 400g Valor Calórico 2190kcal 110% Carboidratos 18g 6% Açúcares totais 0g 0% Açúcares adicionados 0g 0% Proteínas 11,2g 15% Gorduras totais 235,2g 428% Gorduras saturadas 0g 0% Gorduras trans 0g ** Fibra alimentar 0g 0% Sódio 10244mg 427% Origem: China Contém 400g
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: Qian Jiao Hong
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/69c58e16820757ff19a8cdcc82b144f4.jpg?v=1693337525
+  Price: R$ 49,99 BRL
+- [Base Hot Pot de manteiga artesanal picante Sichuan Teway 228g](https://www.meiwei.com.br/products/base-hot-pot-de-manteiga-artesanal-picante-sichuan-teway-228g): INGREDIENTES: Manteiga, óleo vegetal, pimenta, glutamato monossódico (INS621), tempero de frango, pasta de fava (pimenta, sal, fava, água, farinha de trigo), essência alimentar, alho, água, gengibre, soja preta fermentada, pimena sichuan, sal, especiarias, casca de laranja, angélica dahurica, açúcar cristal, aguardente baiju, tempero composto de peito bovino, louro, óleo de canola, extrato de levedura, 5'-Ribonucleotídeo dissódico (INS 635), capsatina (INS 106c) ALÉRGICOS CONTÉM TRIGO E SOJA Contém glúten INFORMAÇÕES NUTRICIONAISPorção de 228g Valor Calórico 1440kcal 72% Carboidratos 15g 5% Açúcares totais 0g 0% Açúcares adicionados 0g 0% Proteínas 16,9g 22% Gorduras totais 148g 270% Gorduras saturadas 0g 0% Gorduras trans 0g ** Fibra alimentar 0g 0% Sódio 8778mg 366% Origem: China Contém 228g
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: Sichuan Teway
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/dbdca2017f04f287c5653e12a60d9bdd.jpg?v=1693337653
+  Price: R$ 73,99 BRL
+- [Base Hot Pot de manteiga artesanal picante Sichuan Teway 200g](https://www.meiwei.com.br/products/base-hot-pot-de-manteiga-artesanal-picante-sichuan-teway-200g): INGREDIENTES: Manteiga, óleo vegetal, pimenta, glutamato monossódico (INS621), tempero de frango, pasta de fava (pimenta, sal, fava, água, farinha de trigo), essência alimentar, alho, água, gengibre, soja preta fermentada, pimena sichuan, sal, especiarias, casca de laranja, angélica dahurica, açúcar cristal, aguardente baiju, tempero composto de peito bovino, louro, óleo de canola, extrato de levedura, 5'-Ribonucleotídeo dissódico (INS 635), capsatina (INS 106c) ALÉRGICOS CONTÉM TRIGO E SOJA Contém glúten INFORMAÇÕES NUTRICIONAISPorção de 228g Valor Calórico 1440kcal 72% Carboidratos 15g 5% Açúcares totais 0g 0% Açúcares adicionados 0g 0% Proteínas 16,9g 22% Gorduras totais 148g 270% Gorduras saturadas 0g 0% Gorduras trans 0g ** Fibra alimentar 0g 0% Sódio 8778mg 366% Origem: China Contém 228g
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: Sichuan Teway
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/2209de298fcdd2a761ea037300b008cc.jpg?v=1693337729
+  Price: R$ 73,99 BRL
+- [Base Hot Pot de manteiga picante Baishuyuan 300g](https://www.meiwei.com.br/products/base-hot-pot-de-manteiga-picante-baishuyuan-300g): INGREDIENTES: manteiga, óleo vegetal (óleo vegetal refinado, butil hidroxianisol, dibutil hidroxitolueno), pasta de feijão (pimentão, fava, sal comestível, farinha de trigo, água), pimenta, sal comestível, glutamato monossódico, gengibre, cebola, alho, açúcar branco, especiarias, vegetais salgados, tempeh, pasta de fava, arroz glutinoso fermentado, comestível sabores e especiarias, 5'-Nucleotídeo Dissódico, Oleorresina de Capsicum, Capsantina, Ácido Sórbico, potássio. ALÉRGICOS CONTÉM TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1855kJ 22% Carboidratos 4,3g 1% Proteínas 3,6g 6% Gorduras totais 46,5g 78% Sódio 6608mg 330% Origem: China Contém 108g
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: Baishuyuan
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/c634dfaa442a7171cb043dfbcb6104f0_1.jpg?v=1693337822
+  Price: R$ 49,99 BRL
 - [Molho de Pimenta Vermelha (Fresh Red Chilli Pepper Taiwan) - Mai Jiun 360g](https://www.meiwei.com.br/products/molho-de-pimenta-vermelha-fresh-red-chili-pepper-taiwan-360g): Pimenta com óleo, cortados que possuem um sabor único. Feito com ingredientes naturais, sem conservantes e corantes artificiais. Pimenta picante e com alto grau de ardência. INGREDIENTES: Pimenta vermelha, óleo de soja, ácido cítrico, monossódico L-glutamato. ALÉRGICOS: COMTÉM SOJA E SEUS DERIVADOS. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 1 unidade (10 g) Quantidade por porção %VD (*) Valor Energético 44,7 Kcal = 187 Kj Gordura Total 4,3g 7 Gordtura Saturada 0,7g 4 Gordura Trans 0,1g ** Colesterol 0mg 0 Sódio 249mg 10 Total Carboidrato 1,2g 0 Fibra Dietética 0g 0 Açúcar 0g Proteina 0,3g *Valores Diários de referência com base em uma dieta de 2000 Kcal ou 8400 Kj. Seus valores podem ser maiores ou menores dependendo de suas necessidades energéticas. **Valor Diário não estabelecido. Manter em ambiente seco e arejado. Após aberto, conservar sob refrigeração. Origem: Taiwan
   Updated: 2025-12-06T15:37:08Z
   Vendor: Mai Jiun
@@ -3196,6 +3490,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/e8f1ac0ff97d379254b78d70291372db.jpg?v=1693425323
   Price: R$ 32,90 BRL
+- [Vinagre envelhecido - Haday 450ml](https://www.meiwei.com.br/products/vinagre-chines-envelhecido-haday-450ml): Vinagre envelhecido com sabor profundo e encorpado, resultado de um processo de maturação que realça sua acidez suave e notas levemente adocicadas. Ideal para marinadas, molhos e pratos que pedem um toque agridoce mais complexo, como saladas asiáticas, carnes grelhadas ou vegetais salteados. Um ingrediente versátil que leva sofisticação ao seu tempero do dia a dia. INGREDIENTES: Água, sorgo, cevada, trigo, farelo, ervilha, sal, conservante (E211). Ácido total ≥4,50g/100ml CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E CEVADA Manter em ambiente seco e fresco. Origem: China
+  Updated: 2026-02-15T01:40:46Z
+  Vendor: Haday
+  Product Type: Vinagre (醋)
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/5589b4c6c37023b5edba993ee7e4e306.jpg?v=1693425477
+  Price: R$ 35,99 BRL
 - [Shoyu Molho de soja Kum Chun (Dark Soy Sauce) - Lee Kum Kee - 1.75L](https://www.meiwei.com.br/products/molho-soja-kum-chun-dark-sou-sauce-lee-kum-kee-1-75l): O molho Kum Chun Dark Soy Sauce, é feito de soja desengordurada não transgênica, cuidadosamente fabricada com tecnologia avançada, e o molho de soja é natural. A essência do cogumelo palha trás mais sabor, uma cor vermelha brilhante, atraente e uma deliciosa fragrância. Ideal para vários pratos refogados, cozidos. INGREDIENTES: Água, sal, soja desengordurada não transgênica, trigo, farinha de trigo, corante caramelo, glutamato de sódio, sorbato de potássio, sucralose, cogumelo palha. CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA, TRIGO E COGUMELO INFORMAÇÃO NUTRICIONAL Porção de 15ml Quantidade por Porção %VD(*) Valor Energético 63 Kcal 1% Proteínas 1,2g 2% Gorduras Totais 0g 0% Caboidratos 2,5g 1% Sódio 1101mg 55% *%Valores Diários com base em uma dieta de 2000 Kcal ou 8400 Kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidade energéticas. **VD não estabelecido. Manter armazenado em temperatura ambiente. Origem: China
   Updated: 2026-01-10T23:52:56Z
   Vendor: Lee Kum Kee
@@ -3224,6 +3525,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/1cafec626bbb8cc962ad35ae97e90991.jpg?v=1693426428
   Price: R$ 73,90 BRL
+- [Vinagre de arroz de Taiwan (Rice Vinegar) - Kong Yen 600ml](https://www.meiwei.com.br/products/vinagre-de-arroz-rice-vinegar-taiwan-600ml): Vinagre de arroz, produzido em Taiwan, é um ingrediente essencial para dar um toque autêntico à culinária asiática. Com sabor suave e levemente adocicado, é ideal para preparar pratos como sushi, marinadas, molhos e saladas. Sua qualidade premium e fermentação natural garantem um tempero equilibrado, perfeito para realçar o sabor dos alimentos. Versátil e saudável, é uma escolha indispensável para trazer tradição e sabor às suas receitas. INGREDIENTES: Água, arroz. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Taiwan
+  Updated: 2026-02-16T20:25:57Z
+  Vendor: Kong Yen
+  Product Type: Vinagre
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-vinagre-arroz-kong-yen-600ml-garrafa-fundo-branco.png?v=1771273528
+  Price: R$ 49,99 BRL
 - [Bala gelatinosa melancia (Watermelon Gummy) - Kasugai - 107g](https://www.meiwei.com.br/products/bala-gelatinosa-gummy-melancia-kasugai-107g): Deliciosas balas gelatinosas importadas do Japão. As balas são embaladas individualmente para manter o aroma e o sabor. INGREDIENTES: Xarope de amido, açúcar, espessante gelatina, edulcorante sorbitol, antioxidante ácido cítrico, emulsificante citrato de sódio, acidulante ácido málico, aroma artificial de melancia, emulsificante pectina, amido, glaceante cera de carnaúba, emulsificante ésteres de ácido graxos com poliglicerol, emulsificante lecitina de soja, corante vermelho 40. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE SOJA, GOMA CARNAÚBA E CORANTE. Manter em local seco e arejado. evite exposição solar. Após aberto, manter a embalagem bem fechada. Origem: Japão
   Updated: 2025-12-14T10:45:20Z
   Vendor: Kasugai
@@ -3245,6 +3553,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/805f99ca741ed8030bfa218b35f144d7.png?v=1693428002
   Price: R$ 199,99 BRL
+- [Molho de pimenta (Sweet Chilli Sauce) para frango - Pantai 730ml](https://www.meiwei.com.br/products/molho-pimenta-sweet-chili-sauce-para-frango-730ml-pantai): Esse molho possui um sabor doce, azedo e picante. Ideal para mergulhar, marinar ou usar enquanto cozinha receitas com frango, mas também é ótimo com rolinhos primavera, bolos de peixe, e outras receitas tailandesas. INGREDIENTES: Açúcar, água, pimenta vermelha 18%, sal de alho, espessador (amido de milho modificado: E1422), regulador de acidez (ácido acético: E260). Armazene em local seco e fresco. Após aberto, manter sob refrigeração. Origem: Tailândia Contém 730ml
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: Pantai
+  Product Type: Molho de Pimenta
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/48fafc56a3a050f2661e93236f7f70c3_73ec1d3d-89d0-4401-946c-0dd73bb2c42a.jpg?v=1693429083
+  Price: R$ 74,90 BRL
 - [Molho de pimenta Toban Djan - Honored Brand 4Kg](https://www.meiwei.com.br/products/molho-pimenta-toban-djan-honored-brand-4kg): O molho de pimenta Toban Djan Honored Brand é uma pasta picante e salgada feita de feijão fermentado, soja, sal e especiarias. Esta pasta possui um sabor único e é utilizada em diversos pratos, saladas, ensopados. INGREDIENTES: Pimenta, feijão, sal, farinha de trigo, óleo de colza (canola sem OGM), especiarias, sorbato de potássio. Manter em local seco e arejado. Origem: China Contém 4kg
   Updated: 2026-01-19T23:59:16Z
   Vendor: Honored Brand
@@ -3343,6 +3658,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/b6ef05153a6f9b268743c4e9293f82d3.jpg?v=1693506637
   Price: R$ 54,93 BRL
+- [Tempero de salsicha Sichuan Teway 220g](https://www.meiwei.com.br/products/tempero-de-salsicha-sichuan-teway-220g): INGREDIENTES: Açúcar branco, sal comestível, xarope rico em frutose (contendo metabissulfito de sódio), licor com sabor Luzhou, arroz glutinoso fermentado, glutamato monossódico, pimenta branca, maltodextrina, amido comestível, D-isoascorbato de sódio, vermelho monascus, extrato de levedura, aromatizante, Inulina sucralose , acessulfame de potássio. ALÉRGICOS CONTÉM DERIVADOS DE SOJA INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 928kJ 11% Carboidratos 48,9g ** Proteínas 2,2g 4% Gorduras totais 1,6g 3% Sódio 12300mg 615% Origem: China Contém 220g
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: Sichuan Teway
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/17ceef69a0e9c2f44c9def5f49b80e6b.jpg?v=1693508699
+  Price: R$ 54,99 BRL
 - [Tempero de peixe bonito (Katsuobushi) - Yixuewu 500g](https://www.meiwei.com.br/products/katsuobushi-flor-de-peixe-de-madeira-500g): Katsuobushi é um ingrediente usado na culinária japonesa e é muitas vezes chamado de "flor de peixe de madeira" devido à sua aparência. Katsuobushi é uma forma seca e defumada de bonito (um tipo de peixe), e é um elemento fundamental na preparação do famoso caldo dashi japonês, que é a base de muitos pratos japoneses, incluindo sopas, molhos e ensopados. INGREDIENTES: Bonito (peixe) ALÉRGICOS CONTÉM FRUTOS DO MAR INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1490kJ 18% Carboidratos 0,8g 0% Proteínas 77,1g 129% Gorduras totais 3,5g 3% Sódio 130mg 7% Origem: China Contém 500g
   Updated: 2025-12-06T15:37:14Z
   Vendor: Yixuewu
@@ -3350,6 +3672,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a8dcd24acf92f1878a9168a916e10b3d.jpg?v=1693508878
   Price: R$ 480,00 BRL
+- [Base de Hot Pot sabor tomate - HaiDiLao 200g](https://www.meiwei.com.br/products/base-para-sopa-de-hot-pot-sabor-tomate-haidilao-200g): A Base de Hot Pot sabor Tomate é a escolha perfeita para quem busca um caldo rico e saboroso com um toque de frescor. Feita com tomates selecionados, oferece um equilíbrio entre o doce natural e a acidez característica do fruto, criando uma base suculenta que combina perfeitamente com carnes, vegetais, macarrões e frutos do mar. Além de saborosa, é rica em nutrientes e antioxidantes, como o licopeno. Ideal para quem aprecia um Hot Pot acolhedor e com um perfil de sabor mais leve e refrescante. INGREDIENTES: Molho de tomate, água, óleo vegetal, açúcar branco, sal, cebola, glutamato monossódico (INS621), gengibre, tempero de pasta de frango (pó de frango, óleo de frango, sal, açúcar branco, especiarias, hidroxipropil diamido fosfato, glutamato de sódio (INS 621), 5'-Ribonucleotídeo dissódico (INS 635), aromatizante, sorbato de potássio (INS 202), tempero de frango em pó (frango, óleo de frango, sal, especiarias, ácido cítrico (INS 330)), extrato de levedura, tempero de frango em pó (frango, sal, maldodextrina, açúcar branco, 5'-Ribonucleotídeo dissódico (INS 635), glutamato de sódio (INS 621)) ALÉRGICOS CONTÉM TRIGO E SOJA CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 200g Valor Calórico 53kcal 25% Carboidratos 24g 8% Proteínas 6,2g 8% Gorduras totais 43,2g 79% Sódio 4872mg 203% Origem: China Contém 200g
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: HaiDiLao
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/990e52e0aaa8db551034e26ce4a2f6fa.jpg?v=1693509326
+  Price: R$ 54,99 BRL
 - [Base de Hot Pot sabor mix de cogumelos - HaiDiLao 110g](https://www.meiwei.com.br/products/base-para-sopa-de-hot-pot-sabor-mix-de-cogumelos-haidilao-110g): A Base de Hot Pot sabor Mix de Cogumelos é uma opção sofisticada e nutritiva para os amantes de um caldo aromático e reconfortante. Elaborada com uma mistura de cogumelos selecionados, esta base proporciona um sabor umami profundo e uma textura rica. Perfeita para acompanhar vegetais, carnes e macarrões, ela também é uma excelente escolha para quem busca uma refeição saudável e cheia de sabor natural. Fácil de preparar, transforma qualquer momento em uma experiência gastronômica especial. INGREDIENTES: Sachê da sopa: maltodextrina, tempero de frango, cogumelo porcino em pó, sal, tempero de sopa de cogumelos em pó (tempero de frango, glutamato monossódico (INS 621), sal, molho de soja, tempero de cogumelos, cebola em pó, essência alimentar), extrato de levedura, tempero de frango em pó (frango, gordura de frango, sal, maltoxtrina, açúcar, nudeotídeo dissódico, glutamato de sódio (INS 621), hidroxianisol butilado, galato de propila), óleo vegetal. Sachê de óleo de frango: óleo de frango, sal, vitamina E, aromatizante. Sachê de cogumelo em pó: porcino em pó, pioppino em pó, shimeki em pó. Sachê seco: cogumelo e gojiberry. ALÉRGICOS CONTÉM TRIGO E SOJA CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 110g Valor Calórico 392kcal 20% Carboidratos 59g 20% Proteínas 7,4g 10% Gorduras totais 13,9g 25% Sódio 8525mg 355% Origem: China Contém 110g
   Updated: 2026-02-03T13:17:11Z
   Vendor: HaiDiLao
@@ -3364,6 +3693,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/68f4568bc24a0f078f38373a3ecc0ab8.jpg?v=1693509752
   Price: R$ 49,99 BRL
+- [Base de Hot Pot com redução de sal Sichuan Teway 130g](https://www.meiwei.com.br/products/base-para-sopa-de-hot-pot-c-reducao-de-sal-sichuan-teway-130g): A Base de Hot Pot com Redução de Sal é uma opção saudável e saborosa para quem adora esse prato tradicional asiático, mas deseja uma versão com menos sódio. Feita com ingredientes frescos e de alta qualidade, ela mantém o sabor autêntico e marcante do Hot Pot, mas com um equilíbrio de sal reduzido para uma experiência mais leve. Ideal para aqueles que buscam uma alimentação mais saudável sem abrir mão do prazer de um fondue de caldos quentes repleto de temperos. Além disso, essa base é perfeita para ser combinada com carnes, vegetais e outros ingredientes, proporcionando um prato completo e nutritivo, que atende tanto aos paladares tradicionais quanto às necessidades dietéticas. INGREDIENTES: Sachê de tempero: óleo de colza, tempero de frango, glutamato monossódico (INS621), óleo vegetal, óleo de frango, nabo em conserva, broto de bambu em conserva, mostarda em conserva, gengibre, cebola, essência alimentar, tomate, sal, água, vinho amarelo culinário, camarão, tempero composto de sopa de frango, extrato de osso de frango (osso de frango, água, sal, essência alimentar), alho, açúcar branco, pimenta branca, 5'-Ribonucleotídeo dissódico (INS 635), extrato de levedura, curcuma (INS 100), capsantina (INS 160c). Sache de secos: jujube vermelho e gojiberry ALÉRGICOS CONTÉM SOJA, OVO, LEITE E CAMARÃO Não contém glúten INFORMAÇÕES NUTRICIONAISPorção de 130g Valor Calórico 431kcal 22% Carboidratos 17g 6% Proteínas 13,3g 18% Gorduras totais 35g 64% Sódio 7553mg 315% Origem: China Contém 130g
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: Sichuan Teway
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/84a43157a71a0dc144301f0de67369fd.jpg?v=1693509917
+  Price: R$ 54,99 BRL
 - [Tempero sabor marisco - Totole 500g](https://www.meiwei.com.br/products/tempero-sabor-marisco-totole-500g): Tempero ideal para salada, sopa e churrasco. INGREDIENTES: glutamato monossódico, sal comestível, açúcar branco, aditivosalimentares (nucleotídeo dissódico de sabor 5'). Origem: China Contém 500g
   Updated: 2025-12-06T15:37:15Z
   Vendor: Totole
@@ -3449,7 +3785,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/7a8e94c143e743be646254229c1cc024.jpg?v=1694450458
   Price: R$ 59,99 BRL
 - [Macarrão de trigo sabor cogumelo - Mailaoda 780g](https://www.meiwei.com.br/products/macarrao-sabor-cogumelo-zhong-shan-780g): O Macarrão sabor Cogumelo combina praticidade e sabor em uma refeição rápida e deliciosa. Com um caldo aromático que destaca o sabor rico e terroso dos cogumelos, é ideal para quem busca uma opção reconfortante e cheia de umami. Seu preparo é simples, bastando adicionar água quente e esperar alguns minutos para desfrutar de uma refeição completa. Perfeito para dias corridos, mas sem abrir mão de um toque gourmet. INGREDIENTES: farinha de trigo, água, sal, cogumelo em pó, ovo em pó, aditivos alimentares (carboxmetílcelulose de sódio (INS 466), poliacrilato de sódio, carbonato de sódio (INS5001)) ALÉRGICOS CONTÉM DERIVADOS DE OVO E TRIGO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 80g %VD* Valor Calórico 284kcal 14% Carboidratos 61g 20% Proteínas 7,4g 10% Gorduras Totais 0,6g 1% Gorduras Saturadas 0g 0% Gorduras Trans 0g 0% Fibra Alimentar 0g 0% Sódio 556mg 23% Origem: China Contém 780g
-  Updated: 2025-12-07T15:35:32Z
+  Updated: 2026-02-14T21:14:53Z
   Vendor: Mailaoda
   Product Type: Massa
   Availability: Available
@@ -3547,19 +3883,19 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/235f89997346660f23d23e9a8c6710bc.jpg?v=1694536159
   Price: R$ 249,99 BRL
 - [Vinho de arroz (Shaoxing) - Gu Yue Long Shan 600ml](https://www.meiwei.com.br/products/vinho-chines-de-arroz-shao-hsing-shaoxing-600ml): O vinho Shao Hsing ou Shao Xing, é feito de arroz e seu sabor é similar ao saquê japonês, embora mais adocicado. Indicado para temperar carnes e enriquecer marinados. INGREDIENTES: Água, arroz glutinoso, trigo, corante caramelo. CONTÉM GLÚTEN ALÉRGICOS CONTÉM CORANTE ARTIFICIAL Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: China Contém 600ml
-  Updated: 2026-02-05T23:41:40Z
+  Updated: 2026-02-12T19:28:05Z
   Vendor: Gu Yue Long Shan
   Product Type: Vinho de arroz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/f1a991737c983f3add3abd83be4325ef.jpg?v=1694801211
   Price: R$ 49,90 BRL
 - [Vinho Baijiu Er Wo Tou Estrela Vermelha - Hong Xing - 100ml](https://www.meiwei.com.br/products/vinho-chines-er-wo-tou-estrela-vermelha-hong-xing-100ml): Erguotou, também conhecido como licor branco chinês, é um tipo de bebida alcoólica chinesa feita a partir de sorgo. É ideal para temperar carnes. INGREDIENTES: Sorgo, água, milho, cevada. ALÉRGICOS CONTÉM CEVADA. TEOR ALCOÓLICO: 56% Manter em local seco e arejado, em temperatura ambiente. Origem: China
-  Updated: 2026-01-25T00:17:41Z
+  Updated: 2026-02-11T20:09:42Z
   Vendor: Estrela Vermelha
   Product Type: Bebida Alcóolica
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/2ce610daaae66d919b7ca1870eb84253.jpg?v=1694802429
-  Price: R$ 38,90 BRL
+  Price: R$ 50,00 BRL
 - [Suco de lichia com nata de coco - Chin Chin 315ml](https://www.meiwei.com.br/products/suco-lichia-c-nata-de-coco-chin-chin-315ml): Refrescante e tropical, combina o sabor adocicado da lichia com pedacinhos macios de nata de coco, oferecendo uma bebida leve, aromática e com uma textura surpreendente. Ideal para consumir bem gelado. INGREDIENTES: Água, açúcar, suco de lichia, ácido citrico, nata de coco, polifosfáto de sódio, carboximeticelulose. NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 315 ml (1 Lata) Quantidade por Porção %VD(*) Valor Energético 120 Kcal / 503 Kj 6% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Colesterol 0mg 0% Sódio 29mg 1% Carboidratos 29g 10% Fibras 0g 0% Açúcar 28g 3% Proteínas 0g 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Manter em ambiente fresco e arejado.
   Updated: 2026-01-05T17:33:43Z
   Vendor: Chin Chin
@@ -3589,12 +3925,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/6b14bdf489bf91a9a5d7b866a473f10a.png?v=1695056858
   Price: R$ 59,99 BRL
 - [Molho suave Amakuchi para Yakiniku (Churrasco Japonês) - Ebara 300g](https://www.meiwei.com.br/products/molho-para-yakiniku-churrasco-ebara-amakuchi-suave-300g): Molho pronto, muito saboroso, para Yakiniku tradicional churrasco japonês. O yakiniku é um estilo de churrasco japonês em que se grelha cortes finos e pequenos de pedaços de carne, como filé, costela, língua, fígado e peito de frango, em pequenas porções. Além da carne, muitos tipos de vegetais também são grelhados, como cogumelos, pimentões, berinjelas e cebolas. O molho suave levemente adocicado. Apresenta suave sabor de maçã e mel. INGREDIENTES: Molho de soja (soja, trigo), açúcar, água, frutas (maçã, limão), pasta de soja, tempero fermentado (arroz, sal, glicose, álcool, cebola, gengibre, alho), xarope de frutose-glucose, molho de pimenta picante, mel, óleo de gergelim, semente de gergelim branco. CONTÉM GLÚTENALÉRGICOS CONTÉM SOJA E TRIGO Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Japão
-  Updated: 2026-02-03T13:19:38Z
+  Updated: 2026-02-17T12:58:37Z
   Vendor: Ebara
   Product Type: Molhos Diversos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/d3e66dc8357e5e7857f4b4d0d7037b14.jpg?v=1695058133
-  Price: R$ 39,51 BRL
+  Price: R$ 41,90 BRL
 - [Tofu em conserva natural - Hwang Ryh Shiang 300g](https://www.meiwei.com.br/products/tofu-em-conserva-natural-hwang-ryh-shiang-300g): Tofu (queijo de soja) em conserva fermentada, de sabor e aroma únicos. INGREDIENTES: Soja, sulfato de cálcio, água, sal, vinho. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA E VINHO Manter em local seco e arejado. Após aberto, manter sob refrigeração. Origem: Taiwan Contém 300g
   Updated: 2025-12-23T17:34:27Z
   Vendor: Huang Ryh Shiang
@@ -3680,7 +4016,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/fruta-monges.jpg?v=1721410861
   Price: R$ 39,90 BRL
 - [Pasta de Curry amarelo (Yellow Curry Paste) - Aroy D 1kg](https://www.meiwei.com.br/products/pasta-de-curry-amarelo-aroy-d-1-kg): Ideal para quem busca praticidade e sabor, a Pasta de Curry Amarelo é perfeita para criar pratos tailandeses autênticos em minutos, adicionando um toque quente e aromático a suas receitas, seja em preparos com arroz, legumes ou carnes. Possui um sabor levemente apimentado, indicado para pratos a base de frango, cozidos ou diretamente no arroz. INGREDIENTES: Cebola, alho, chilli vermelha seca (15%), sal, erva-cidreira, casca de limão kaffir, galangal, canela, maçã, cominho em pó, sementes de coentro e açafrão. SEM ADIÇÃO DE CONSERVANTES E CORANTES NÃO CONTÉM GLÚTEN INFORMAÇÃO NUTRICIONAL Porção de 15g (1 colher de sopa) Quantidade por Porção %VD (*) Valor Energético 25 kcal = 105 kj 1% Carboidratos 3g 1% Proteínas 1g 1% Gorduras Totais 1g 2% Gorduras Saturadas 0g 0% Gorduras Trans 0g ** Fibra Alimentar 1g 4% Sódio 820mg 34% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seu valor diário pode ser maior ou menor dependendo de sua necessidade energética. **% VD não estabelecido. Manter em local seco e arejado. após aberto manter sob refrigeração. Origem: Tailândia Contém 1kg
-  Updated: 2026-02-03T13:17:11Z
+  Updated: 2026-02-13T00:48:06Z
   Vendor: Aroy-D
   Product Type: Condimento
   Availability: Available
@@ -3841,7 +4177,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/shitake-desidratado.jpg?v=1696961909
   Price: R$ 219,99 BRL
 - [Cogumelo Juba de leão (Hericium Erinaceus) - Huaseed 108g](https://www.meiwei.com.br/products/cogumelo-hericium-erinaceus-huassed-108g): Hericium erinaceus, conhecido como cogumelo-dos-neurônios ou lions mane, é um cogumelo comestível encontrado em várias partes do mundo. Além de seu sabor distinto, este cogumelo é valorizado por seus potenciais benefícios à saúde. Ele é reconhecido por estimular o crescimento neural, promovendo a regeneração de células nervosas, o que pode ser benéfico para a saúde cerebral e a função cognitiva. Além disso, Hericium erinaceus é associado a melhorias na saúde mental, com propriedades antidepressivas e ansiolíticas, auxiliando na redução dos sintomas de depressão e ansiedade. Também é conhecido por fortalecer o sistema digestivo, ajudando na digestão e possivelmente reduzindo a inflamação no intestino, e por reforçar o sistema imunológico. INGREDIENTES: Hericium Erinaceus Não contém glúten INFORMAÇÕES NUTRICIONAISPorção de 18g Valor Calórico 0g 0% Carboidratos totais 0g 0% Proteínas 0g 0% Gorduras totais 0g 0% Fibras alimentares 0g 0% Sódio 0mg 0% Origem: China Contém 108g
-  Updated: 2025-12-06T15:37:31Z
+  Updated: 2026-02-16T16:59:02Z
   Vendor: Huaseed
   Product Type: Cogumelo
   Availability: Available
@@ -3967,7 +4303,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/afe00340e41b4929188c5e965bde4da0.jpg?v=1698859379
   Price: R$ 24,99 BRL
 - [Pokebola Surpresa Edição Limitada 20g](https://www.meiwei.com.br/products/pokebola-surpresa-edicao-limitada-20g): Pokebola Surpresa Edição Limitada 20g Com brinquedo e gomas coloridas Quantidade: 1 pokebola Origem: China
-  Updated: 2025-12-31T16:32:22Z
+  Updated: 2026-02-10T16:31:44Z
   Vendor: Leda Food
   Product Type: brinquedo
   Availability: Available
@@ -4022,6 +4358,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/6494707da5b4712305b6074e03cba7f2.jpg?v=1706022190
   Price: R$ 58,99 BRL
+- [Molho de cogumelo Matsutake (Fungi) com soja - Songxianxian 500ml](https://www.meiwei.com.br/products/molho-de-cogumelo-matsutake-fungi-c-soja-songxianxian-500ml): Eleve suas criações culinárias com o Molho de Cogumelo Matsutake, uma sinfonia de sabores umami com a autenticidade da soja. Esta experiência gastronômica única oferece o refinamento do distinto cogumelo Matsutake combinado com a riqueza e complexidade da soja. Transforme cada prato em uma obra-prima culinária, elevando seus sabores a novas alturas. Adquira agora o Molho de Cogumelo Matsutake com Soja e descubra o segredo por trás de um toque gourmet que surpreenderá seus sentidos. Uma experiência única e irresistível para paladares exigentes. Torne-se o mestre da culinária sofisticada hoje mesmo! INGREDIENTES: água, soja não trangênico, trigo, sal, matsutake, matsutake vermelho. CONTÉM GLÚTEN Frescor natural - 0 adoçante - 0 conservantes Validade: 12 meses Origem: China Contém 500ml Clique aqui e veja nossa variedade de molhos!
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: Songxianxian
+  Product Type: Molho de Soja
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-soja-matsutake.jpg?v=1706103650
+  Price: R$ 49,99 BRL
 - [Vinagre de Gengibre e Alho - Haday 450ml](https://www.meiwei.com.br/products/vinagre-haday-450ml): INGREDIENTES: água, arroz, farelo de trigo, açúcar, gengibre, alho, sal comestível, extrato de fermento, sabor alimentar, corante caramelo, benzoato de sódio. Ácido total≥4,00g/100mL Conservar em local fresco e seco. Fechar a tampa após o uso. Validade: 24 meses Origem: China Contém 450ml
   Updated: 2026-02-05T16:06:37Z
   Vendor: Haday
@@ -4030,12 +4373,19 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinagre-haday.jpg?v=1706103892
   Price: R$ 39,99 BRL
 - [Wasabi Neri (Raiz Forte) em pasta - Yamachu 45g](https://www.meiwei.com.br/products/raiz-forte-em-pasta-wasabi-neri-yamachu-45g): O Wasabi é um tempero feito a base de Raiz Forte que já vem pronto em pasta. Ideal para acompanhar Sashimi, Sushi, Soba, Udon, Carnes e outros. INGREDIENTES: Raiz forte, sorbitol, amido de milho, óleo de colza, sal, água, aromatizante, ácido cítrico, goma xantana, corante amarelo tartrazine e azul brilhante. Informação Nutricional: Porção de 15g (1 col. (sopa) cheias). Valor energético 52 kcal (3% VD*), carboidratos 10g (3% VD*), proteínas 2g (3% VD*), gorduras totais 0,5g (1% VD*), sódio 77mg (3% VD*). Não contém quantidades significativas de gorduras totais, gorduras saturadas, gorduras trans, colesterol e fibras alimentares. Não Contém Glúten Manter em local seco, arejado e longe de calor. Após aberto, manter refrigerado. Origem: Japão Contém 45g
-  Updated: 2026-02-03T13:19:36Z
+  Updated: 2026-02-13T00:48:06Z
   Vendor: Yamachu
   Product Type: Tempero
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/wasabi-tubo-mei-wei_1.jpg?v=1706191970
   Price: R$ 32,67 BRL
+- [Macarrão de arroz (Tteok) para Hot Pot Topokki - Fujian Kangwang 400g](https://www.meiwei.com.br/products/macarrao-de-arroz-para-hotpot-fujian-kangwang-400g): Explore uma explosão de sabores autênticos com nosso Macarrão de Arroz para HotPot e Topokki. Feito com maestria a partir do mais puro arroz, este macarrão é a escolha definitiva para elevar sua experiência culinária. Com textura delicada e capacidade única de absorver os temperos, transforma seu HotPot e Topokki em uma festa de aromas e sabores exóticos. Basta mergulhar no caldo borbulhante e aguardar a mágica acontecer. Adquira agora a chave para um prato irresistível e descubra por si mesmo por que este é o macarrão favorito dos amantes da boa comida. INGREDIENTES: Arroz, água NÃO CONTÉM GLÚTEN Para preparar, basta ferver água em uma panela e cozinhar os bolinhos por 4 minutos, e em seguida misturar ao molho e ingredientes de sua preferência. INFORMAÇÕES NUTRICIONAIS Porção de 30g Valor Calórico 65kcal 3% Carboidratos 15g 5% Açúcares totais 0 0 Açúcares adicionados 0 0 Proteínas 1g 2% Gorduras Totais 0 0 Gorduras saturadas 0 0 Gorduras trans 0 0 Fibras alimentares 0 0 Sódio 0mg 0 Origem: China Contém 400g
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: Fujian Kangwang
+  Product Type: Massa
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-hotpot.jpg?v=1706722668
+  Price: R$ 39,99 BRL
 - [Leguminosa temperada apimentada - CaiHuaXiang 210g](https://www.meiwei.com.br/products/molho-de-pimenta-caihuaxiang-210g): A leguminosa temperada apimentada é uma opção saborosa e picante, ideal para quem busca um lanche crocante e cheio de personalidade. Essa leguminosa é temperada com especiarias e pimenta, trazendo uma explosão de sabores em cada mordida. Pode ser consumida sozinha ou acompanhada de refeições leves. INGREDIENTES: Óleo vegetal comestível, grãos de amendoim, soja, ervilha, açúcar, gengibre, aditivos alimentares (glutamato de sódio, nucleotídeo dissódico), especiarias. Origem: China Contém 210g
   Updated: 2026-02-05T14:20:01Z
   Vendor: CaiHuaXiang
@@ -4100,12 +4450,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-culinario.jpg?v=1706811513
   Price: R$ 53,90 BRL
 - [Shoyu Molho de soja light com redução de sal - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/molho-de-soja-light-c-reducao-de-sal-lee-kum-kee-500ml): O molho de soja com sal reduzido Lee Kum Kee tem 25% menos sódio em comparação com os molhos de soja light comuns. Feita a partir de grãos de soja selecionados, é preparada de acordo com o método tradicional e natural para manter o sabor e o aroma da soja. INGREDIENTES: Água, açúcar branco, sal comestível, soja não transgênica, glutamato de sódio, farinha de trigo, extrato de levedura, ácido lático, corante caramelo, sorbato de potássio, 5'-inosinato dissódico, 5-guanilato dissódico. ALÉRGICOS CONTÉM TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 15ml - 1 colher de sopa Valor Calórico 73kJ 1% Carboidratos 3,3g 1% Proteínas 1g 2% Gorduras Totais 0g 0% Sódio 722mg 36% Origem: China Contém 500ml
-  Updated: 2026-01-21T14:40:52Z
+  Updated: 2026-02-16T10:13:37Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Soja
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-soja-reducao-sal.jpg?v=1707929568
-  Price: R$ 62,70 BRL
+  Price: R$ 62,90 BRL
 - [Molho de ostra - Chubang 700ml](https://www.meiwei.com.br/products/molho-de-ostra-chubang-700ml): INGREDIENTES: Água, extrato de ostra (ostra, água, sal), sal, xarope de frutose, glutamato monossódico (INS621), fosfato de amido de hidroxipropil, corante caramelo (150c), goma xantana (INS 415), ácido cítrico (INS 330), 5'-Ribonucleotídeo dissódico (INS 635), sorbato de potássio (INS 202), sucralose (INS 955) ALÉRGICOS CONTÉM DERIVADOS DE OSTRA INFORMAÇÕES NUTRICIONAISPorção de 20ml - 1 colher de sopa Valor Calórico 11kcal 1% Carboidratos 2g 1% Proteínas 0,7g 1% Gorduras Totais 0g 0% Sódio 857mg 36% Origem: China Contém 700ml
   Updated: 2026-02-05T14:12:49Z
   Vendor: Chubang
@@ -4253,6 +4603,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinagre-branco-shuita.jpg?v=1708537743
   Price: R$ 29,99 BRL
+- [Molho de soja para frutos do mar - Lee Kum Kee 750ml](https://www.meiwei.com.br/products/molho-de-soja-p-frutos-do-mar-lee-kum-kee-750ml): O Molho de Soja para Frutos do Mar é especialmente formulado para realçar o sabor natural de peixes, camarões, lulas e outros frutos do mar. Com um equilíbrio perfeito entre salgado e umami, ele complementa pratos cozidos, grelhados ou fritos, sem mascarar o frescor dos ingredientes. Sua textura leve e aroma refinado tornam este molho indispensável para marinadas, molhos de acompanhamento ou até como tempero direto na mesa. Ideal para quem busca sofisticação e autenticidade nos preparos culinários. INGREDIENTES: Água, açúcar, sal, soja, farinha de trigo, extrato de levedura, cor caramelo, inosinato dissódico. ALÉRGICOS CONTÉM SOJA E TRIGO Origem: China Contém 750ml
+  Updated: 2026-02-15T01:40:41Z
+  Vendor: Lee Kum Kee
+  Product Type: Molho de Soja
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/f12b4ec7ca20fc2c8b2885a3eb6eb91b.png?v=1708707009
+  Price: R$ 73,99 BRL
 - [Cogumelo Cordyceps desidratado - Huaseed 75g](https://www.meiwei.com.br/products/flor-de-cordyceps-huaseed-75g): Amplamente utilizado em infusões e receitas saudáveis, o cordyceps auxilia na recuperação após esforço físico, no suporte imunológico e no equilíbrio do corpo. É perfeito para adicionar ao seu chá ou caldo reconfortante. Possui propriedades antioxidantes, combatendo o envelhecimento celular. Ele regula os níveis de açúcar no sangue, apoia a saúde cardiovascular ao controlar o colesterol e promove a saúde renal. Adicione Cordyceps à sua rotina e transforme sua saúde e bem-estar com este poderoso aliado natural! INGREDIENTES: Flor de cordyceps Origem: China Contém 75g Clique aqui e veja outras opções de Cordyceps!
   Updated: 2026-02-03T13:17:13Z
   Vendor: Huaseed
@@ -4282,7 +4639,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-batatadoce.jpg?v=1710870513
   Price: R$ 32,99 BRL
 - [Cogumelo Cordyceps desidratado - Jin Chong Cao 500g](https://www.meiwei.com.br/products/flor-cha-de-cordyceps-jin-chong-cao-500g): Um fungo medicinal altamente valorizado na medicina tradicional chinesa, conhecido por suas propriedades adaptogênicas que ajudam a melhorar a energia, a resistência e o sistema imunológico. Ideal para ser consumido em sopas, chás ou suplementos, é famoso por sua capacidade de apoiar a saúde respiratória e a vitalidade geral. Possui propriedades antioxidantes, combatendo o envelhecimento celular. Ele regula os níveis de açúcar no sangue, apoia a saúde cardiovascular ao controlar o colesterol e promove a saúde renal. Adicione Cordyceps à sua rotina e transforme sua saúde e bem-estar com este poderoso aliado natural! INGREDIENTES: Flor de cordyceps INFORMAÇÕES NUTRICIONAISPorção de 250g Valor Calórico 500kJ 5% Carboidratos 2,1g 1% Proteínas 14,9g 25% Gorduras totais 3,4g 7% Sódio 214mg 11% Origem: China Contém 500g Clique aqui e veja outras opções de Cordyceps!
-  Updated: 2026-02-09T13:41:31Z
+  Updated: 2026-02-11T12:36:36Z
   Vendor: Jin Chong Cao
   Product Type: Cogumelo
   Availability: Available
@@ -4316,13 +4673,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-togarashi-450g.jpg?v=1713274501
   Price: R$ 69,99 BRL
-- [Bala sabor uva verde Alien Toy Story 105g](https://www.meiwei.com.br/products/bala-sabor-uva-verde-disney-105g): A bala sabor uva verde Alien Toy Story traz o frescor levemente ácido da uva verde em uma embalagem divertida com os adoráveis alienígenas de Toy Story. Com textura macia e sabor marcante, é perfeita para crianças e fãs da animação que querem um docinho diferente e colecionável. Conservar em local seco e arejado Origem: China Contém 105g Clique aqui e confira outros sabores!
-  Updated: 2026-02-09T21:41:41Z
-  Vendor: Binqi Foods
-  Product Type: Bala
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-disney-uva-verde.jpg?v=1713452347
-  Price: R$ 39,99 BRL
 - [Bala sabor morango Lotso Toy Story 105g](https://www.meiwei.com.br/products/bala-sabor-morango-disney-105g): A bala sabor morango Lotso combina o sabor intenso e adocicado do morango com a fofura do ursinho Lotso de Toy Story, trazendo uma explosão de sabor e nostalgia em cada mordida — ideal para crianças e fãs da animação! Conservar em local seco e arejado Origem: China Contém 105g Clique aqui e experimente outros sabores!
   Updated: 2026-01-22T00:45:02Z
   Vendor: Binqi Foods
@@ -4331,12 +4681,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/0a89a168af67208aa43551710eec2f02.jpg?v=1713452662
   Price: R$ 39,99 BRL
 - [Longan seco - D.M.D Bridge 140g](https://www.meiwei.com.br/products/longan-seco-d-m-d-bridge-140g): O longan é parente do lichia e tem uma textura semelhante, com uma polpa suculenta e doce. Quando seco, o longan mantém parte dessa doçura e concentração de sabor, tornando-se uma opção popular de lanche ou ingrediente em pratos diversos, especialmente em receitas asiáticas. O longan seco é frequentemente consumido sozinho como um petisco ou adicionado a pratos como saladas, sopas, sobremesas e chás. INGREDIENTES: Longan seco INFORMAÇÕES NUTRICIONAISPorção de 20g (1 un) Valor Calórico 56kcal 3% Carboidratos 14g 5% Proteínas 0g 0% Gorduras totais 0g 0% Fibra alimentar 1g 4% Sódio 0mg 0% Origem: China Contém 140g
-  Updated: 2025-12-06T15:37:46Z
+  Updated: 2026-02-12T18:04:34Z
   Vendor: D.M.D. Bridge Brand
   Product Type: Desidratado
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/longan-seco.jpg?v=1713550657
-  Price: R$ 45,99 BRL
+  Price: R$ 78,99 BRL
 - [Shoyu Molho de soja espesso - Wan Ja Shan 360ml](https://www.meiwei.com.br/products/molho-de-soja-espesso-wan-ja-shan-360ml): Com textura mais densa e sabor profundo, o molho de soja espesso é ideal para engrossar molhos, realçar marinadas e dar cor intensa a pratos orientais. Tradicional na culinária chinesa, ele combina umami concentrado com leve dulçor, sendo perfeito para yakisoba, frango xadrez, refogados e pratos cozidos lentamente. INGREDIENTES: Água, açúcar, soja, trigo, sal, levedura em pó, cogumelo em pó. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE SOJA E TRIGO INFORMAÇÃO NUTRICIONAL Porção de 15g Quantidade por porção %VD Valor Energético 21kcal 1% Carboidratos 5g 2% Gorduras Totais 0,7g 0% Açucares Totais 3,7g * Proteínas 0g 0% Sódio 480mg 24% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.%VD não estabelecido. Armazenar em local fresco e seco, cobrir e refrigerar imediatamente após a abertura. Origem: Taiwan Contém 360g
   Updated: 2025-12-22T08:04:34Z
   Vendor: Wan Ja Shan
@@ -4533,6 +4883,41 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/presunto-especial.jpg?v=1715784524
   Price: R$ 28,99 BRL
+- [Bebida de iogurte sabor original - Chu Yin 230ml](https://www.meiwei.com.br/products/bebida-de-iogurte-sabor-original-chu-yin-230ml): A Bebida de Iogurte Sabor Original na mamadeira é a escolha ideal para quem busca praticidade e sabor. Com seu gosto suave e cremoso, é perfeita para lanches rápidos e momentos de descontração, proporcionando nutrição e prazer em cada gole. INGREDIENTES: Água, Leite em Pó Integral Acidificado, Leite em Pó Desnatado, Lactobacilus Bulgarias, Streptococcus Thermophilus, açúcar branco, aditivos alimentares (Ácido Círico, Sorbato de Potássio, Essência Comestível). ALÉRGICOS CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 230ml (1 copo) Quantidade por porção %VD Valor Energético 502kJ 6% Carboidratos 20,7g 7% Gorduras Totais 3g 5% Proteínas 23g 4% Sódio 276mg 14% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.%VD não estabelecido. Agite bem antes de beber. Armazenar em local fresco e seco, em temperatura ambiente, evitando a luz solar direta. Origem: China Contem 230ml Data de produção na embalagem: ano-mês-dia
+  Updated: 2026-02-13T13:48:37Z
+  Vendor: Chu Yin
+  Product Type: Bebida
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bebida-iogurte-original.jpg?v=1716215863
+  Price: R$ 34,99 BRL
+- [Bebida de iogurte sabor morango - Chu Yin 230ml](https://www.meiwei.com.br/products/bebida-de-iogurte-sabor-morango-chu-yin-230ml): A Bebida de Iogurte Sabor Morango na mamadeira oferece praticidade e diversão para crianças e adultos. Com o delicioso sabor de morango, essa bebida é perfeita para levar na lancheira ou consumir em qualquer momento do dia, garantindo um lanche saboroso e nutritivo. INGREDIENTES: Água, Leite em Pó Integral Acidificado, Leite em Pó Desnatado, Lactobacilus Bulgarias, Streptococcus Thermophilus, açúcar branco, aditivos alimentares (Ácido Círico, Sorbato de Potássio, Essência Comestível). ALÉRGICOS CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 230ml (1 copo) Quantidade por porção %VD Valor Energético 502kJ 6% Carboidratos 20,7g 7% Gorduras Totais 3g 5% Proteínas 23g 4% Sódio 276mg 14% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.%VD não estabelecido. Agite bem antes de beber. Armazenar em local fresco e seco, em temperatura ambiente, evitando a luz solar direta. Origem: China Contem 230ml Data de produção na embalagem: ano-mês-dia
+  Updated: 2026-02-13T13:48:37Z
+  Vendor: Chu Yin
+  Product Type: Bebida
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bebida-iogurte-morango.jpg?v=1716216030
+  Price: R$ 42,99 BRL
+- [Bebida de leite sabor original - Chu Yin 280ml](https://www.meiwei.com.br/products/bebida-de-leite-sabor-original-chu-yin-280ml): A Bebida de Leite Sabor Original, em uma prática embalagem de mamadeira, oferece o sabor puro e clássico do leite fresco. Ideal para um lanche rápido ou uma dose de energia ao longo do dia, essa bebida é perfeita para todas as idades, garantindo praticidade e sabor a qualquer momento. INGREDIENTES: Água, leite integral em pó, xarope de frutose, açúcar, leite desnatado em pó, aditivo alimentar (carboximetilcelulose de sódio, pectina, citrato de sódio, tripolifosfato de sódio, sorbato de potássio), vitamina E, acessulfame de potássio, ácido lático, carmin, amarelo crepúsculo, tartrazina. ALÉRGICOS CONTÉM LACTOSE Agite bem antes de beber. Armazenar em local fresco e seco, em temperatura ambiente, evitando a luz solar direta. Origem: China Contem 280ml Data de produção na embalagem: ano-mês-dia
+  Updated: 2026-02-13T13:48:37Z
+  Vendor: Chu Yin
+  Product Type: Bebida
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bebida-iogurte-original-280ml.jpg?v=1716216167
+  Price: R$ 39,99 BRL
+- [Bebida de leite sabor manga - Chu Yin 280ml](https://www.meiwei.com.br/products/bebida-de-leite-sabor-manga-chu-yin-280ml): A Bebida de Leite Sabor Manga, em uma prática embalagem de mamadeira, combina a cremosidade do leite com o sabor tropical e refrescante da manga. Perfeita para um lanche rápido ou um toque doce ao longo do dia, essa bebida é uma opção deliciosa e conveniente para todas as idades. INGREDIENTES: Água, leite integral em pó, xarope de frutose, açúcar, leite desnatado em pó, aditivo alimentar (carboximetilcelulose de sódio, pectina, citrato de sódio, tripolifosfato de sódio, sorbato de potássio), vitamina E, acessulfame de potássio, ácido lático, carmin, amarelo crepúsculo, tartrazina. ALÉRGICOS CONTÉM LACTOSE Agite bem antes de beber. Armazenar em local fresco e seco, em temperatura ambiente, evitando a luz solar direta. Origem: China Contem 280ml Data de produção na embalagem: ano-mês-dia
+  Updated: 2026-02-13T13:48:49Z
+  Vendor: Chu Yin
+  Product Type: Bebida
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bebida-iogurte-manga-280ml.jpg?v=1716216239
+  Price: R$ 67,99 BRL
+- [Macarrão Udon (fresh udon) - Dalian Shouhe 600g](https://www.meiwei.com.br/products/macarrao-udon-fresh-udon-dalian-shouhe-600g): Desfrute da textura macia e do sabor autêntico do Macarrão Udon Fresco. Este macarrão espesso e delicioso é perfeito para uma variedade de pratos japoneses, incluindo sopas reconfortantes, stir-fries saborosos e ramen nutritivo. Feito com ingredientes de alta qualidade, o Fresh Udon oferece uma experiência culinária verdadeiramente tradicional. Sua textura suave e sua capacidade de absorver sabores tornam-no ideal para pratos como Udon Noodle Soup, Yaki Udon (udon frito), ramen ou até mesmo em saladas frias. INGREDIENTES: Água, farinha de trigo, amido de mandioca modificado, sal e ácido láctico. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE TRIGO Após aberto, manter a embalagem fechada em lugar seco e arejado. Origem: China Contém 600g (3x 200g)
+  Updated: 2026-02-13T13:48:33Z
+  Vendor: Dalian Shouhe
+  Product Type: Massa
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-udon-600g.jpg?v=1716218425
+  Price: R$ 49,99 BRL
 - [Chá gelado sabor pessêgo (Bubble Tea) - Madam Hong 320ml](https://www.meiwei.com.br/products/cha-gelado-bubble-tea-sabor-pessego-madam-hong-320ml): O chá gelado Bubble Tea sabor pêssego é uma combinação refrescante do chá suave com o doce e frutado sabor de pêssego. As bolinhas de tapioca adicionam uma textura mastigável e divertida, tornando a bebida ainda mais interessante. Ideal para quem busca uma opção doce e refrescante, o sabor de pêssego traz um toque leve e equilibrado, perfeito para ser apreciado em dias quentes ou como um lanche diferente ao longo do dia. INGREDIENTES: Água, 10% suco de pêssego do concentrado, 10% suco de maçã do concentrado, 6% bolha de explosão (água, frutose, 6% suco de pêssego do concentrado, regulador de acidez: lactato de cálcio; espessantes: goma xantana, acetilado amido, alginato de sódio; conservante: ácido málico; antioxidante: ácido ascórbico; cor: carotenos), açúcar, 0,4% extrato de chá preto, regulador de acidez: ácido cítrico; aroma, cor: carotenos; antioxidante: ácido ascórbico; adoçante: sucralose. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Após aberto, conservar refrigerado. Origem: Taiwan Contem 320ml
   Updated: 2026-02-07T15:55:31Z
   Vendor: Madam Hong
@@ -4548,7 +4933,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bubble-tea-apple-maca.jpg?v=1716310305
   Price: R$ 18,90 BRL
 - [Água alcalina de Chencun (Kansui) Xie Jian Shui - Zhong Shan 330ml](https://www.meiwei.com.br/products/agua-alcalina-zhong-shan-330ml-kansui): Kansui é uma solução alcalina composta por carbonato de sódio e carbonato de potássio, usada principalmente na preparação de macarrão ramen japonês. Sua adição à massa aumenta o pH, tornando-a mais alcalina, o que altera a estrutura das proteínas do trigo, resultando em uma textura mais firme e elástica, além de conferir uma coloração amarelada característica. Essencial na culinária japonesa, o kansui pode ser encontrado em lojas de produtos asiáticos. Para quem busca fazer ramen autêntico em casa ou aprimorar suas receitas, adquirir kansui é fundamental, garantindo a textura e o sabor tradicionais deste prato icônico. Experimente kansui e leve a autenticidade do ramen japonês para a sua cozinha! Solução de carbonato de potássio e carbonato de sódio (Kansui) - Zhong Shan 330ml INGREDIENTES: Água potável, carbonato de sódio, carbonato de potássio. NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Origem: China Contém 330ml Clique aqui e veja outros modelos de Kansui em nosso site!
-  Updated: 2026-01-10T14:55:46Z
+  Updated: 2026-02-15T14:23:51Z
   Vendor: Zhong Shan
   Product Type: Condimento
   Availability: Available
@@ -4638,6 +5023,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/corvina-amarela-molho-soja.jpg?v=1718382460
   Price: R$ 32,99 BRL
+- [Corvina amarela com soja fermentada - Huamashi 150g](https://www.meiwei.com.br/products/corvina-amarela-c-soja-fermentada-huamashi-150g): A Corvina Amarela com Soja Fermentada é uma deliciosa combinação que une o sabor delicado do peixe corvina com o toque robusto e umami da soja fermentada. Este prato tradicional é perfeito para quem aprecia uma culinária rica em sabores autênticos e equilibrados. Ideal para ser servido como prato principal em refeições especiais, ele destaca a textura macia do peixe e a complexidade do molho de soja fermentada, proporcionando uma experiência gastronômica única e memorável. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2232kJ 27% Carboidratos 4,9g 2% Proteínas 20,6g 34% Gorduras Totais 48,6g 81% Gorduras Saturadas 0g 0% Fibra Alimentar 0g 0% Sódio 1380mg 68% Manter em local seco e arejado Origem: China Contém 150g
+  Updated: 2026-02-13T12:52:47Z
+  Vendor: Huamashi
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/corvina-amarela-soja-fermentada.jpg?v=1718382512
+  Price: R$ 32,99 BRL
+- [Xarope Concentrado de Limão para Bebida Gaseificada 2L - 柠檬果炭饮料](https://www.meiwei.com.br/products/bebida-polpa-de-limao-1-2l): Refresque-se com o autêntico sabor cítrico do Xarope Concentrado de Limão para Bebida Gaseificada (柠檬果炭饮料), diretamente da China! Ideal para preparar drinks, chás gelados, bubble tea e sobremesas, este xarope traz o verdadeiro aroma e sabor do limão, perfeito para quem busca qualidade e praticidade em receitas orientais e modernas. Principais características e diferenciais: Sabor intenso e natural de limão Ideal para bubble tea, coquetéis, mocktails, chás gelados e sobremesas Alto rendimento: rende diversas porções Pronto para diluir em água, água com gás ou bebidas de sua preferência Embalagem econômica de 2L, com tampa prática Lista de ingredientes Água Açúcar Polpa de limão Acidulante (ácido cítrico) Aromatizante artificial de limão Conservantes (benzoato de sódio, sorbato de potássio) Tabela nutricional (porção de 100ml) Informação Nutricional Porção de 100ml %VD* Valor energético 180 kJ (43 kcal) 2% Carboidratos 10,6 g 4% Proteínas 0 g 0% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 15 mg 1% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Drink Refrescante de Limão com Gás Ingredientes: 50ml de xarope concentrado de limão 200ml de água com gás gelada Gelo a gosto Rodelas de limão para decorar Modo de preparo: Em um copo alto, adicione o gelo e o xarope. Complete com água com gás. Misture suavemente e decore com rodelas de limão. Sirva imediatamente! Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir preferencialmente em até 30 dias.
+  Updated: 2026-02-14T02:40:31Z
+  Vendor: Mei Wei
+  Product Type: Bebida
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-xarope-limao-gaseificado-chines-2l.jpg?v=1770988280
+  Price: R$ 189,99 BRL
 - [Pimenta em pó fina para kimchi - YingChao 1kg](https://www.meiwei.com.br/products/pimenta-em-po-fina-yingchao-1kg): Adicione um toque de fogo e sabor aos seus pratos! Feita a partir das melhores pimentas vermelhas, essa especiaria oferece uma picância intensa e uniforme, perfeita para realçar o sabor de carnes, sopas, molhos e marinadas e pratos típicos coreanos, como kimchi. Com sua textura fina, ela se mistura facilmente, garantindo uma distribuição homogênea de calor e sabor. INGREDIENTES: Pimenta vermelha seca Evite a luz solar direta e guarde em local fresco e seco. Origem: China Contém 1kg
   Updated: 2025-12-06T15:37:54Z
   Vendor: YingChao
@@ -4883,8 +5282,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/barriga-porco-bacon_1.jpg?v=1720712117
   Price: R$ 199,99 BRL
+- [Salsicha chinesa - Honored Brand 400g](https://www.meiwei.com.br/products/salsicha-chinesa-honored-brand-400g): Experimente a autêntica Salsicha Chinesa da marca Honored Brand, conhecida por seu sabor distinto e qualidade premium. Feita a partir de cortes selecionados de carne de porco e temperada com uma mistura única de especiarias e ingredientes tradicionais. Ideal para ser utilizada em pratos clássicos chineses como arroz frito, cozidos, e stir-fries, ou simplesmente grelhada e servida como aperitivo. INGREDIENTES: Salsichas chinesas INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2243kJ 27% Carboidratos totais 17,8g 6% Proteínas 16,2g 27% Gorduras totais 45g 75% Sódio 2211mg 111% Armazenar em local fresco e ventilado, evitar luz solar direta, de preferência refrigerado. Consumir o mais rápido possível após a abertura. Origem: China Contém 400g
+  Updated: 2026-02-15T01:22:51Z
+  Vendor: Honored Brand
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/salsicha-chinesa.jpg?v=1720712819
+  Price: R$ 159,99 BRL
 - [Amido de trigo - Baihe 450g](https://www.meiwei.com.br/products/amido-de-trigo-baihe-450g): Descubra a versatilidade e qualidade do Amido de Trigo da marca Baihe. Este ingrediente essencial é perfeito para espessar molhos, sopas e caldos, além de ser utilizado em sobremesas como pudins e cremes, proporcionando uma textura suave e consistente. O Amido de Trigo da Baihe também é ideal para preparar massas, como noodles e bolinhos, conferindo leveza e elasticidade à massa. INGREDIENTES: Farinha de trigo CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 50g Valor Calórico 173kcal 9% Carboidratos totais 42,7g 14% Proteínas 0g 0% Gorduras totais 0g 0% Sódio 5mg 1% Manter em local seco e fresco Validade: 13 meses Origem: China Contém 450g
-  Updated: 2026-02-05T16:38:40Z
+  Updated: 2026-02-13T16:05:18Z
   Vendor: Baihe
   Product Type: Farinha
   Availability: Available
@@ -4898,7 +5304,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/salsichas-chinesas-400g.jpg?v=1720720600
   Price: R$ 178,99 BRL
 - [Shoyu Molho de soja escuro Haitian - Haday 1,9L](https://www.meiwei.com.br/products/molho-de-soja-escuro-haitian-haday-1-9l): Adicione profundidade e sabor aos seus pratos com o Molho de Soja Escuro da marca Haday. Este molho de soja premium é fermentado a partir de grãos de soja selecionados, resultando em um líquido rico e espesso, com um sabor intenso e ligeiramente adocicado. Perfeito para dar cor e sabor a pratos asiáticos, como stir-fries, marinadas, molhos e ensopados, o Molho de Soja Escuro Haday é essencial para criar refeições autênticas e deliciosas. Experimente a qualidade e o sabor superior deste molho e eleve suas receitas a um novo nível de sofisticação e prazer culinário. INGREDIENTES: água, soja não transgênica, sal comestível, corante caramelo, trigo, farinha de trigo, glutamato monossódico, 5-inosinato dissódico, 5-inosinato dissódico, sucralose, sorbato “ Ácido potássico. INFORMAÇÕES NUTRICIONAIS Porção de 15ml Valor Calórico 58kJ 1% Carboidratos totais 2,6g 1% Proteínas 0,8g 1% Gorduras totais 0g 0% Sódio 1050mg 53% Manter a embalagem fechada em local seco e fresco, após aberta, manter sob refrigeração. Origem: China Contém 1,9L
-  Updated: 2026-02-08T17:04:18Z
+  Updated: 2026-02-15T00:17:11Z
   Vendor: Haday（海天）
   Product Type: Molho de Soja
   Availability: Available
@@ -4995,6 +5401,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Conhaque-Zhangge-Gold.jpg?v=1721146694
   Price: R$ 149,99 BRL
+- [Licor Chinês Moutai - Jinsha 500ml](https://www.meiwei.com.br/products/licor-chines-sabor-moutai-jinsha-500ml): Descubra a sofisticação e a herança cultural do Licor Chinês sabor Moutai. Este licor premium é conhecido por seu sabor complexo e profundo, proporcionando uma experiência única e memorável a cada gole, ideal para ser apreciado em ocasiões especiais. INGREDIENTES: Sorgo, trigo, água. Armazenar em local ventilado, fresco e seco (evitar luz, à prova de umidade, temperatura normal). Teor de álcool: 53% vol Origem: China Contém 500ml
+  Updated: 2026-02-13T14:05:19Z
+  Vendor: Jinsha
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-chines.jpg?v=1721149107
+  Price: R$ 429,99 BRL
 - [Shoyu Molho de soja de peixe cozido no vapor - Lee Kum Kee 410ml](https://www.meiwei.com.br/products/molho-de-soja-de-peixe-cozido-no-vapor-lee-kum-kee-410ml): O Molho de Soja de Peixe Cozido no Vapor Lee Kum Kee é fabricado com a melhor soja. Possui um rico aroma de soja e um sabor fresco e doce. ser usado para cozinhar frutos do mar e cozinhar no vapor. O sabor é comparável ao produzido em restaurantes. INGREDIENTES: Água, açúcar branco, sal comestível, soja, farinha de trigo, extrato de levedura, aditivos comestíveis (cor de caramelo, inosinato dissódico 5', guanilato dissódico 5') Conservar em ambiente seco e fresco. Origem: China Contém 410ml
   Updated: 2026-02-06T17:34:30Z
   Vendor: Lee Kum Kee
@@ -5016,6 +5429,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/9ab982bccdc396f41c6487c38b864de7.jpg?v=1721152781
   Price: R$ 21,53 BRL
+- [Tempero para Yuxiang - Sichuan Teway 100g](https://www.meiwei.com.br/products/tempero-p-yuxiang-sichuan-teway-100g): O tempero para Yuxiang é essencial para preparar o famoso prato da culinária chinesa conhecido como "Yuxiang" ou "Peixe com Aroma de Peixe". Apesar do nome, este prato não contém peixe, mas é caracterizado por seu sabor intenso e picante, que lembra o aroma de peixe. O tempero combina ingredientes que criam um equilíbrio perfeito entre o doce, o azedo, o salgado e o picante. Ideal para marinar carnes, aves ou legumes, o tempero para Yuxiang é indispensável para quem deseja trazer a autêntica experiência dos sabores chineses para a sua cozinha. INGREDIENTES: Pimenta apimentada (pimenta, sal), óleo de colza, açúcar branco, sal, alho, vinagre, molho de soja, gengibre salgado, glutamato monossódico (INS621), vinho culinário amarelo, ácido cítrico (INS 330), 5'-Ribonucleotídeo dissódico (INS 635), extrato de levedura capsantina (INS160c). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA E CEREAIS INFORMAÇÕES NUTRICIONAISPorção de 50g Valor Calórico 170kcal 9% Carboidratos totais 18g 6% Proteínas 1,5g 2% Gorduras totais 10,5g 19% Sódio 2780mg 116% Manter em local seco e arejado. Origem: China Contém 100g
+  Updated: 2026-02-15T01:22:51Z
+  Vendor: Sichuan Teway
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-yuxiang.jpg?v=1721154814
+  Price: R$ 49,99 BRL
+- [Tempero de óleo picante e gergelim - Cuihong 323g](https://www.meiwei.com.br/products/tempero-de-oleo-picante-e-gergelim-cuihong-323g): Adicione um toque de intensidade e aroma aos seus pratos com o Tempero de Óleo Picante e Gergelim. Este tempero versátil combina o calor do óleo picante com o sabor profundo e levemente tostado do gergelim, criando uma explosão de sabor em qualquer receita. Ideal para ser utilizado em marinadas, molhos, stir-fries ou como condimento final, este tempero é perfeito para elevar carnes, vegetais, noodles e muito mais. INGREDIENTES: Saco de tempero Boboji: óleo de colza, pimenta em pó, gergelim branco, especiarias; Saco de especiarias em pó: sal, glutamato monossódico, açúcar, pimenta de Sichuan em pó, carne em pó, extrato de fermento, aromas comestíveis; Saco de molhos picantes: pimenta seca (47,08%), óleo de colza (5,33%), gergelim branco (7,99%), soja (5,33%), amendoim (4,09%), glutamato monossódico (11,57%), sal (3,28%), Pimenta Sichuan (irradiada) (3,43%), Açúcar (1,35%), Sabor Frango em Pó (1,93%), Especiarias (2,84%), Aromas Comestíveis (5,79%). ALÉRGICOS CONTÉM AMENDOIM, GERGELIM E SOJA Manter em local seco e arejado. Origem: China Contém 323g
+  Updated: 2026-02-15T01:22:51Z
+  Vendor: Cuihong
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/hot-pot-oleo-picante-gergelim.jpg?v=1721155054
+  Price: R$ 49,99 BRL
 - [Tempero de churrasco - Cuihong 259g](https://www.meiwei.com.br/products/tempero-de-churrasco-cuihong-259g): Transforme seu churrasco com o Tempero de Churrasco da marca Cuihong. Especialmente formulado para realçar o sabor das carnes, este tempero combina uma seleção de especiarias que proporcionam um sabor rico e irresistível, perfeito para grelhados. Ideal para temperar bifes, frango, porco, e até legumes. INGREDIENTES: Pimentão, especiarias, glutamato monossódico, soja 8,57%, gergelim 5,06%, amendoim 3,55%, sal, óleo de colza, pimenta Sichuan, aditivos alimentares. ALÉRGICOS CONTÉM AMENDOIM E GERGELIM Manter em local seco e arejado. Origem: China Contém 259g
   Updated: 2025-12-06T15:38:06Z
   Vendor: Cuihong
@@ -5030,6 +5457,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bebida-proteica-leite-nozes.jpg?v=1721238417
   Price: R$ 19,99 BRL
+- [Molho de ostra - Lee Kum Kee 480ml](https://www.meiwei.com.br/products/molho-de-ostra-lee-kum-kee-410ml): Descubra o sabor autêntico e a qualidade excepcional do Molho de Ostra da marca Lee Kum Kee, reconhecida mundialmente por seus produtos premium. Feito a partir de ostras frescas e ingredientes cuidadosamente selecionados, este molho oferece um sabor umami profundo e complexo, com um toque levemente adocicado. Ideal para realçar o sabor de uma ampla variedade de pratos, desde stir-fries e marinadas até sopas e molhos, o Molho de Ostra Lee Kum Kee é indispensável na culinária asiática, proporcionando uma experiência gastronômica rica e autêntica em cada gota. INGREDIENTES: Água, molho de soja fermentado, suco de ostra (ostra, água, sal comestível), sal comestível, açúcar, fosfato de hidroxipropilamido, glutamato de sódio, corante caramelo, farinha de trigo, sorbato de potássio, ácido cítrico, glicosídeos de esteviol. Manter a embalagem fechada em local seco e fresco, após aberta, manter sob refrigeração. Origem: China Contém 480ml
+  Updated: 2026-02-15T01:22:51Z
+  Vendor: Lee Kum Kee
+  Product Type: Molho de Ostra
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-ostra-410ml-lkk.jpg?v=1721239463
+  Price: R$ 36,99 BRL
 - [Molho de ostra (Choy Sun) - Lee Kum Kee 907ml](https://www.meiwei.com.br/products/molho-de-ostra-choy-sun-lee-kum-kee-907ml): Descubra o sabor autêntico e rico do Molho de Ostra (Choy Sun) da marca Lee Kum Kee. Este molho versátil é conhecido por seu perfil de sabor equilibrado, combinando a riqueza das ostras com um toque suave e levemente adocicado. Perfeito para realçar uma variedade de pratos, desde stir-fries e marinadas até molhos para mergulho, o Molho de Ostra Choy Sun é um ingrediente indispensável na cozinha. INGREDIENTES: suco de ostra (ostra, água, sal comestível), água, açúcar, sal comestível, fosfato de hidroxipropil diamido, glutamato de sódio, farinha de trigo, cor caramelo. Manter a embalagem fechada em local seco e fresco, após aberta, manter sob refrigeração. Origem: China Contém 907ml
   Updated: 2026-02-05T14:14:20Z
   Vendor: Lee Kum Kee
@@ -5233,6 +5667,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-Jiang-xiao.jpg?v=1721680380
   Price: R$ 149,99 BRL
+- [Licor Moutai Yixiang - Hutu Liquor 125ml](https://www.meiwei.com.br/products/licor-moutai-yixiang-hutujiuye-125ml): O Licor Moutai Yixiang é uma bebida destilada chinesa tradicional, conhecida por seu aroma característico e sabor distinto. Feito a partir de grãos, como sorgo, trigo ou arroz, o licor passa por um processo de fermentação e destilação que realça suas notas aromáticas complexas. "Yixiang" significa "aroma duradouro", refletindo a qualidade e a intensidade do licor. Este tipo de bebida é frequentemente apreciado puro, mas também pode ser usado em coquetéis, oferecendo uma experiência de degustação rica e autêntica que destaca a herança cultural chinesa. INGREDIENTES: água, sorgo, trigo, arroz, arroz glutinoso, milho, trigo sarraceno tartário, cevada Armazenar em local ventilado, fresco e seco (evitar luz, à prova de umidade, temperatura normal). Teor de álcool: 52% vol Origem: China Contém 125ml
+  Updated: 2026-02-13T14:04:37Z
+  Vendor: Hutu Liquor
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-Yixiang-125ml.jpg?v=1721681397
+  Price: R$ 290,90 BRL
 - [Licor Baijiu puro - Jiang Xiao Bai 100ml](https://www.meiwei.com.br/products/licor-baiju-puro-jiang-xiao-bai-100ml): Descubra a essência da destilação tradicional chinesa com o Licor Puro da marca Jiang Xiao Bai. Feito a partir de sorgo cuidadosamente selecionado, este licor oferece um sabor limpo e suave, caracterizado por notas sutis e um aroma delicado. Perfeito para ser apreciado puro ou como base para coquetéis sofisticados. INGREDIENTES: água, sorgo Armazenar em local ventilado, fresco e seco (evitar luz, à prova de umidade, temperatura normal). Teor de álcool: 40% vol Origem: China Contém 100ml
   Updated: 2025-12-06T15:38:12Z
   Vendor: Jiang Xiao Bai
@@ -5247,6 +5688,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-Yu-Bing-Shao.jpg?v=1721743709
   Price: R$ 78,99 BRL
+- [Tempero de cogumelo granulado - Totole 200g](https://www.meiwei.com.br/products/tempero-de-cogumelo-granulado-totole-200g): Adicione uma explosão de umami às suas receitas com o Tempero de Cogumelo Granulado, também conhecido como Glutamato de Cogumelo. Este realçador de sabor, derivado de cogumelos, é ideal para intensificar o sabor de uma ampla variedade de pratos. Seja em sopas, molhos, marinadas, ou pratos de carne e vegetais, o tempero de cogumelo granulado traz uma profundidade de sabor rica e saborosa que transforma suas criações culinárias. INGREDIENTES: Glutamato monossódico (INS621), sal, arroz, açúcar branco, tempero proteico vegetal hidrolisado ácido (soja desengordurada), essência alimentar, cogumelo desidratado, aditivo alimentar (5'-Ribonucleotídeo dissódico (INS 635)). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE SOJA INFORMAÇÕES NUTRICIONAISPorção de 5g Valor Calórico 11kcal 1% Carboidratos totais 1,6g 1% Proteínas 1,2g 2% Gorduras totais 0g 0% Sódio 1000mg 833% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 200g
+  Updated: 2026-02-15T01:22:46Z
+  Vendor: Totole
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/glutamato-cogumelo.jpg?v=1721746033
+  Price: R$ 45,99 BRL
+- [Tempero essência para sopa - Totole 250g](https://www.meiwei.com.br/products/tempero-essencia-p-sopa-totole-250g): Transforme suas sopas com a Essência para Sopa da Marca Totole. Este tempero premium é especialmente formulado para realçar o sabor e a profundidade dos caldos e sopas, proporcionando um perfil de sabor rico e equilibrado. Com uma mistura cuidadosamente selecionada de ingredientes, é ideal para criar pratos irresistíveis e saborosos com facilidade, seja para sopas caseiras, caldos ou receitas de longo cozimento. INGREDIENTES: Glutamato monossódico (INS621), sal, arroz, açúcar branco, carne de porco, essência alimentar, cebolinha, especiarias, óleo de gergelim, tempero de proteína vegetal hidrolisado, levedura hidrolisado, aditivo alimentar (5'-Ribonucleotídeo dissódico (INS 635), corante caramelo (160c), riboflavina). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE GERGELIM E SOJA, PODE CONTER DERIVADO DE OVO, LEITE E TRIGO INFORMAÇÕES NUTRICIONAISPorção de 20g Valor Calórico 45kcal 2% Carboidratos totais 4g 2% Proteínas 4,4g 6% Gorduras totais 0,8g 1% Sódio 4600mg 192% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 250g
+  Updated: 2026-02-15T01:22:46Z
+  Vendor: Totole
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/essencia-sopa-tempero.jpg?v=1721747909
+  Price: R$ 45,99 BRL
 - [Glutamato monossódico sabor frango - Totole 200g](https://www.meiwei.com.br/products/glutamato-monossodico-sabor-frango-totole-200g): Eleve o sabor de suas receitas com o Glutamato Monossódico Granulado Sabor Frango da Marca Totole. Este realçador de sabor é projetado para intensificar o perfil de sabor de pratos com um delicioso toque de frango. Ideal para ser usado em sopas, molhos, stir-fries e marinadas, o glutamato monossódico da Totole proporciona um sabor umami rico e apetitoso que transforma suas preparações culinárias. INGREDIENTES: Glutamato monossódico (INS621), sal, arroz, açúcar branco, carne de frango, aditivos alimentares (glutamato monossódico (INS621), riboflavina), líquido de ovo, essência alimentar, pó de curry, cebolinha, alho. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE OVO INFORMAÇÕES NUTRICIONAISPorção de 5g Valor Calórico 11kcal 1% Carboidratos totais 1g 0% Proteínas 0g 0% Gorduras totais 1,2g 2% Sódio 1050mg 53% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 200g
   Updated: 2025-12-23T17:34:02Z
   Vendor: Totole
@@ -5254,6 +5709,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/glutamato-frango-granulado.jpg?v=1721751290
   Price: R$ 49,99 BRL
+- [Tempero essência de frango - Haday 1kg](https://www.meiwei.com.br/products/tempero-essencia-de-frango-haday-1kg): O Tempero Essência de Frango Haday 1kg é um condimento concentrado desenvolvido para realçar o sabor de diversos pratos, trazendo a essência rica e autêntica do frango. Este tempero é ideal para preparar sopas, caldos, ensopados, macarrões e arroz, adicionando um toque delicioso e reconfortante de carne branca. Graças à sua formulação prática e versátil, ele pode ser usado tanto na culinária oriental quanto em receitas ocidentais. Com uma embalagem de 1kg, é perfeito para cozinhas profissionais ou para uso doméstico frequente, garantindo qualidade e sabor em cada preparo. INGREDIENTES: Glutamato monossódico (INS621), sal, açúcar branco, arroz, amido, xarope de frutose, carne de frango, ovo, molho de soja (água, soja, farinha de trigo, sal), curry em pó, especiarias, 5'-Ribonucleotídeo dissódico (INS 635), glicose, extrato de levedura, essência alimentar, succinato dissódico, cúrcuma (INS 100). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO, OVO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 20g Valor Calórico 42kcal 2% Carboidratos totais 5g 2% Proteínas 40g 53% Gorduras totais 0,4g 1% Sódio 4180mg 174% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 1kg
+  Updated: 2026-02-15T01:22:51Z
+  Vendor: Haday（海天）
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-essencia-frango.jpg?v=1721752398
+  Price: R$ 99,99 BRL
 - [Tempero de frango granulado - Feng Qiu Mai 1kg](https://www.meiwei.com.br/products/tempero-de-frango-granulado-feng-qiu-mai-1kg): Dê um toque especial aos seus pratos com o Tempero de Frango da Marca Feng Qiu Mai. Este tempero é formulado para realçar o sabor do frango, oferecendo uma mistura equilibrada de especiarias e ingredientes que transformam suas receitas em experiências deliciosas. Ideal para marinadas, assados, grelhados e stir-fries. INGREDIENTES: Sal, açúcar branco, glutamato monossódico (INS621), amido de milho, carne de frango em pó, 5'-Ribonucleotídeo dissódico (INS 635)M óleo de frango, essência alimentar, especiarias, extrato de levedura, tartrazina (INS 102). NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 20g Valor Calórico 49kcal 2% Carboidratos totais 9g 3% Proteínas 2g 3% Gorduras totais 0,4g 1% Sódio 3476mg 145% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 1kg
   Updated: 2026-02-05T16:08:47Z
   Vendor: Feng Qiu Mai
@@ -5261,6 +5723,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-frango-1kg.jpg?v=1721753500
   Price: R$ 130,00 BRL
+- [Glutamato monossódico sem sal - Yiwu 400g](https://www.meiwei.com.br/products/glutamato-monossodico-sem-sal-yiwu-400g): Realce o sabor dos seus pratos sem adicionar sódio extra com o Glutamato Monossódico Sem Sal. Este realçador de sabor é ideal para quem busca um toque umami profundo e delicioso, mas com uma opção de baixo teor de sódio. Perfeito para sopas, molhos, marinadas e uma variedade de receitas, o glutamato monossódico sem sal melhora o perfil de sabor dos alimentos sem comprometer sua ingestão de sódio. INGREDIENTES: Glutamato de sódio (INS 621), cloreto de sódio (INS 508) NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 5g Valor Calórico 0kcal 0% Carboidratos totais 0g 0% Proteínas 0g 0% Gorduras totais 0g 0% Sódio 0mg 0% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 400g
+  Updated: 2026-02-15T01:22:51Z
+  Vendor: Yiwu
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/glutamato-sem-sal.jpg?v=1721755583
+  Price: R$ 34,99 BRL
+- [Glutamato monossódico - Lianhua 200g](https://www.meiwei.com.br/products/glutamato-monossodico-lianhua-200g): Descubra o poder do Glutamato Monossódico da Marca Lianhua para realçar o sabor dos seus pratos. Este realçador de sabor é conhecido por intensificar o umami, proporcionando um perfil de sabor rico e profundo sem adicionar sabores artificiais. Ideal para sopas, molhos, stir-fries e uma ampla gama de receitas. INGREDIENTES: Glutamato monossódico NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 5g Valor Calórico 0kcal 0% Carboidratos totais 0g 0% Proteínas 0g 0% Gorduras totais 0g 0% Sódio 0mg 0% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 400g
+  Updated: 2026-02-15T01:22:46Z
+  Vendor: Lianhua
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/glutamato-puro.jpg?v=1721756818
+  Price: R$ 34,99 BRL
 - [Farinha de glúten - Foshan Nanhai 500g](https://www.meiwei.com.br/products/farinha-de-gluten-foshan-nanhai-500g): A Farinha de Glúten da Marca Foshan Nanhai é um ingrediente essencial para quem busca melhorar a textura e a elasticidade de suas receitas de panificação e massas. Esta farinha é rica em glúten, o que a torna ideal para criar pães com uma estrutura robusta e macia, bem como para preparar massas e produtos de panificação que exigem uma textura mais firme e elástica. INGREDIENTES: Farinha de trigo CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 30g Valor Calórico 112kcal 6% Carboidratos totais 1g 1% Proteínas 25,5g 34% Gorduras totais 0,3g 0% Sódio 4mg 0% Manter em local seco e fresco Validade: 18 meses Origem: China Contém 500g
   Updated: 2025-12-06T15:38:13Z
   Vendor: Foshan Nanhai
@@ -5282,6 +5758,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-pimenta-lata.jpg?v=1721829509
   Price: R$ 85,00 BRL
+- [Base de hot pot sabor frutos do mar e caldo vermelho - Red Lantern 228g](https://www.meiwei.com.br/products/base-de-hot-pot-sabor-frutos-do-mar-e-caldo-vermelho-red-lantern-228g): Eleve a sua experiência de hot pot com a Base de Hot Pot Sabor Frutos do Mar e Caldo Vermelho. Esta base oferece uma combinação deliciosa de sabores do mar, enriquecida com um caldo vermelho picante e aromático. Ideal para quem deseja um caldo rico e saboroso, perfeito para cozinhar carnes, frutos do mar, vegetais e noodles diretamente na mesa. Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 228g
+  Updated: 2026-02-15T01:22:46Z
+  Vendor: Red Lantern
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/hotpot-frutos-mar-caldo-vermelho.jpg?v=1721833036
+  Price: R$ 39,99 BRL
+- [Base de hot pot sabor caldo de osso - Red Lantern 220g](https://www.meiwei.com.br/products/base-de-hot-pot-sabor-caldo-de-osso-red-lantern-220g): Experimente a profundidade e a riqueza de sabores com a Base de Hot Pot Sabor Caldo de Osso. Esta base é perfeita para criar um caldo robusto e nutritivo, ideal para cozinhar uma variedade de carnes, vegetais e noodles diretamente na mesa. O caldo de osso é conhecido por seu sabor reconfortante e suas propriedades nutritivas, proporcionando uma experiência de hot pot autêntica e deliciosa. INGREDIENTES: Pacote de tempero para sopa: água potável, óleo vegetal comestível, pasta de fava comestível (pimentões, favas, água potável, farinha de trigo comestível), cominho, MSG, pimentões, açúcar branco granulado, composto em pó com sabor Didien (tempero composto), alho , gordura de frango forte, extrato de levedura, sementes de gergelim, sabores e legâncias comestíveis, diacetato de sódio, 5'-ribonucleotídeo dissódico, Succinato dissódico. Pacote de secos: tâmaras vermelhas, fatias de alho, longan seco, amoras chinesas. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DE SOJA, GERGELIM E GRÃOS Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 220g
+  Updated: 2026-02-15T01:22:46Z
+  Vendor: Red Lantern
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/hotpot-caldo-osso.jpg?v=1721834287
+  Price: R$ 39,99 BRL
+- [Base de hot pot picante sabor caldo de osso - Red Lantern 220g](https://www.meiwei.com.br/products/base-de-hot-pot-picante-sabor-caldo-de-osso-red-lantern-220g): Eleve sua experiência de hot pot com a Base de Hot Pot Picante Sabor Caldo de Osso. Combinando a profundidade e riqueza do caldo de osso com um toque picante irresistível, esta base é ideal para quem aprecia um sabor robusto e uma pitada de calor. Perfeita para cozinhar uma variedade de carnes, vegetais e noodles diretamente na mesa, esta base proporciona uma refeição nutritiva e cheia de sabor. INGREDIENTES: Sachê de tempero de sopa: água, óleo vegetal, sal, pasta de fava (pimenta, fava, água, sal, farinha de trigo), cominho, açúcar branco, glutamato monossódico (INS621), tempero de frango, alho, óleo de frango, pimenta, extrato de levedura, gergelim, caldo de frango concentrado (frango, óleo de frango, sal, açúcar branco, glutamato monossódico (INS621), gengibre, cebolinha), essência alimentar, diacetato de sódio, 5'-Ribonucleotídeo dissódico (INS 635), succinato dissódico. Sachê de secos: jujuba vermelha, alho fatiado, olho de dragão, gojiberry. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO, SOJA E GERGELIM INFORMAÇÕES NUTRICIONAISPorção de 220g Valor Calórico 684kcal 34% Carboidratos totais 25g 9% Proteínas 9,2g 12% Gorduras totais 61,6g 112% Sódio 14916mg 622% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 220g
+  Updated: 2026-02-15T01:22:46Z
+  Vendor: Red Lantern
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/hotpot-caldo-osso-picante_1.jpg?v=1721836625
+  Price: R$ 39,99 BRL
 - [Folhas de Limão Kaffir desidratadas a vácuo 10g](https://www.meiwei.com.br/products/folhas-de-limao-kaffir-desidratadas-a-vacuo-10g): O limão kaffir é nativo do Sudeste Asiático, suas folhas possuem uma cor verde esmeralda e lóbulos grandes que parecem duas folhas grudadas. Seu aroma floral limonado soma notas cítricas em sopas, saladas, molhos e frituras. Podem ser adicionadas em maridas para pratos com frango, carne de porco e cordeiro. Muitas receitas tailandesas apresentam folhas de limão como ingrediente chave. Embalagem a vácuo, preservando o aroma e qualidade das folhas. INGREDIENTES: Folhas de limão kaffir seco Conservar a embalagem bem fechada e longe da umidade. Origem: Tailândia Contém 10g Clique aqui e veja nosso blog post sobre o limão kaffir!
   Updated: 2026-02-03T13:20:21Z
   Vendor: Mei Wei
@@ -5584,12 +6081,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-verde-tokuyo.jpg?v=1722604509
   Price: R$ 57,64 BRL
 - [Chá verde Bancha - Ujinotsuyu 200g](https://www.meiwei.com.br/products/cha-verde-bancha-ujinotsuyu-200g): O Chá Japonês Bancha é um chá verde tradicional colhido no final da temporada, conhecido por seu sabor suave e baixo teor de cafeína. Feito a partir de folhas maduras, o Bancha oferece uma bebida levemente adstringente com notas herbais e terrosas, sendo ideal para o consumo diário. Além do seu sabor agradável, o Bancha é rico em antioxidantes, ajudando a combater os radicais livres, e possui propriedades digestivas, tornando-o uma ótima escolha para ser consumido após as refeições. Modo de preparo: Coloque no bule 3g (1 colher de chá) de folhas para 130ml de água quente (previamente fervida), espere 30 segundos, coe e sirva! INGREDIENTES: Folhas e brotos do chá verde (camellia Sinensis). NÃO CONTÉM GLÚTEN Manter em local seco e arejado. Origem: Japão Contém 200g
-  Updated: 2026-02-08T13:54:23Z
+  Updated: 2026-02-14T11:09:39Z
   Vendor: Ujinotsuyu
   Product Type: Chá
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-verde-bancha.jpg?v=1722605458
-  Price: R$ 47,40 BRL
+  Price: R$ 48,90 BRL
 - [Bala de leite recheada sabor uva - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-uva-haoliyuan-320g): A Bala de Leite Recheada Sabor Uva oferece uma deliciosa fusão entre o sabor cremoso do leite e o frescor da uva. Com um exterior macio que envolve um centro frutado e suculento, essa bala proporciona uma experiência de sabor irresistível e única. Ideal para quem busca um doce diferenciado, essa bala combina a suavidade do leite com o toque doce e refrescante da uva, criando uma combinação que agrada a todos os paladares. INGREDIENTES: Maltose líquido, açúcar, leite em pó integral, aditivos alimentares (aroma, vanila), papel de arroz glutinoso, amido comestível, água, emulsionante (monoesterato de glicerina) xarope de uva. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
   Updated: 2025-12-23T17:34:33Z
   Vendor: Haoliyuan
@@ -5597,6 +6094,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-uva.jpg?v=1722615491
   Price: R$ 39,99 BRL
+- [Bala de leite recheada sabor taro (raiz asiática) - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-taro-raiz-asiatica-haoliyuan-320g): A Bala de Leite Recheada Sabor Taro traz uma combinação única entre a cremosidade do leite e o sabor suave e levemente adocicado do taro, uma raiz amplamente utilizada na culinária asiática. O taro, conhecido por sua textura macia e sabor delicado, é um ingrediente versátil que, quando transformado em doce, oferece uma experiência gustativa rica e reconfortante. Essas balas proporcionam um equilíbrio perfeito entre o sabor do leite e o toque exótico do taro, ideal para quem deseja experimentar algo novo e diferente. INGREDIENTES: Xarope de glicose, creme não lácteo [xarope de glicose, óleo vegetal refinado (parcialmente hidrogenado), leite em pó, caseinato de sódio, monoestearato de glicerila, estearoil lactilato de sódio, hidrogenofosfato dipotássico, urucum, dióxido de silício, sabores alimentares], açúcar branco, soro de leite em pó, carragenina, goma arábica, sabores alimentares, corantes (vermelho allure, azul brilhante, amarelo limão, amarelo pôr do sol). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
+  Updated: 2026-02-14T15:37:06Z
+  Vendor: Haoliyuan
+  Product Type: Bala
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-taro.jpg?v=1722616675
+  Price: R$ 48,99 BRL
 - [Bala de leite recheada sabor pêssego - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-pessego-haoliyuan-320g): A Bala de Leite Recheada Sabor Pêssego combina a cremosidade do leite com o doce e frutado sabor do pêssego. Com um exterior suave e leitoso que se dissolve facilmente, cada bala revela um recheio vibrante e refrescante de pêssego, proporcionando uma experiência deliciosa e aromática. INGREDIENTES: Maltose líquido, açúcar, leite em pó integral, aditivos alimentares (aroma, vanila), papel de arroz glutinoso, amido comestível, água, emulsionante (monoesterato de glicerina) xarope de pêssego. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
   Updated: 2025-12-23T17:34:33Z
   Vendor: Haoliyuan
@@ -5604,13 +6108,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-pessego.jpg?v=1722617209
   Price: R$ 39,99 BRL
+- [Bala de leite recheada sabor feijão Azuki - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-feijao-azuki-haoliyuan-320g): A Bala de Leite Recheada Sabor Feijão Azuki oferece uma combinação intrigante e sofisticada entre a cremosidade do leite e o sabor distinto do feijão azuki, um ingrediente tradicional na culinária asiática. O feijão azuki, conhecido por seu sabor levemente adocicado e terroso, é um clássico em doces orientais. INGREDIENTES: Xarope, óleo vegetal refinado (parcialmente hidrogenado), leite em pó, caseinato de sódio, monoestearato de glicerila, estearil lactilato de sódio, hidrogenofosfato dipotássico, urucum, dióxido de silício, aromatizante 1, açúcar branco, leite em pó transparente, carragenina, goma arábica, sabores alimentares, corantes (vermelho allure, azul brilhante, amarelo limão, amarelo pôr do sol brilhante, amarelo limão, amarelo pôr do sol) CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE, TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
+  Updated: 2026-02-13T13:42:47Z
+  Vendor: Haoliyuan
+  Product Type: Bala
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-feijao-azuki.jpg?v=1722617951
+  Price: R$ 39,99 BRL
 - [Bala de leite recheada sabor maçã verde - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-maca-verde-haoliyuan-320g): A Bala de Leite Recheada Sabor Maçã Verde oferece uma deliciosa combinação entre a cremosidade do leite e o sabor refrescante e levemente ácido da maçã verde. Com um exterior macio e leitoso, que se dissolve na boca, cada bala revela um recheio vibrante e frutado, capturando a essência suculenta da maçã verde. INGREDIENTES: maltose líquido, açúcar, leite em pó integral, aditivos alimentares (aroma, vanila), papel de arroz glutinoso, amido comestível, água, emulsionante (monoesterato de glicerina) xarope de maçã verde. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
-  Updated: 2026-02-10T15:04:58Z
+  Updated: 2026-02-11T11:55:49Z
   Vendor: Haoliyuan
   Product Type: Bala
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-maca-verde.jpg?v=1722618292
-  Price: R$ 45,00 BRL
+  Price: R$ 42,90 BRL
 - [Bala de leite recheada sabor blueberry - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-blueberry-haoliyuan-320g): A Bala de Leite Recheada Sabor Blueberry combina a suavidade do leite com o sabor intenso e frutado da blueberry. Com um exterior macio e cremoso, que se derrete na boca, cada bala revela um recheio vibrante e doce, capturando a essência rica e levemente ácida da blueberry. Ideal para quem busca um doce sofisticado e refrescante, essas balas oferecem uma experiência de sabor única, perfeita para qualquer momento do dia. INGREDIENTES: maltose líquido, açúcar, leite em pó integral, aditivos alimentares (aroma, vanila), papel de arroz glutinoso, amido comestível, água, emulsionante (monoesterato de glicerina) xarope de mirtilo (blueberry). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
   Updated: 2026-01-28T03:40:21Z
   Vendor: Haoliyuan
@@ -5618,12 +6129,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-blueberry.jpg?v=1722618774
   Price: R$ 39,99 BRL
+- [Bala de leite recheada sabor milho - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-milho-haoliyuan-320g): A Bala de Leite Recheada Sabor Milho oferece uma experiência de sabor única ao combinar a cremosidade do leite com o sabor doce e suave do milho. Com um exterior macio e leitoso, que se dissolve facilmente na boca, cada bala revela um recheio que captura a essência natural e levemente adocicada do milho. INGREDIENTES: maltose líquido, açúcar, leite em pó integral, aditivos alimentares (aroma, vanila), papel de arroz glutinoso, amido comestível, água, emulsionante (monoesterato de glicerina). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
+  Updated: 2026-02-13T13:42:46Z
+  Vendor: Haoliyuan
+  Product Type: Bala
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-milho.jpg?v=1722619807
+  Price: R$ 39,99 BRL
+- [Bala de leite recheada sabor morango - Haoliyuan 320g](https://www.meiwei.com.br/products/bala-de-leite-recheada-sabor-morango-haoliyuan-320g): A Bala de Leite Recheada Sabor Morango combina a cremosidade do leite com o sabor doce e suculento do morango. Cada bala possui um exterior macio e leitoso que se derrete suavemente na boca, revelando um recheio vibrante e frutado que captura a essência refrescante e adocicada do morango. INGREDIENTES: Maltose líquido, açúcar, leite em pó integral, aditivos alimentares (aroma, vanila), papel de arroz glutinoso, amido comestível, água, emulsionante (monoesterato de glicerina). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADOS DO LEITE INFORMAÇÕES NUTRICIONAISPorção de 20g (6 unidades) Valor Calórico 76kJ 4% Carboidratos totais 16g 5% Proteínas 0% 0% Gorduras totais 1,2g 2% Sódio 30mg 1% Validade: 12 meses Origem: China Contém 320g Clique aqui e confira todos os sabores!
+  Updated: 2026-02-13T13:42:47Z
+  Vendor: Haoliyuan
+  Product Type: Bala
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-leite-recheada-morango.jpg?v=1722621308
+  Price: R$ 39,99 BRL
 - [Tempero para sopa de peixe com mostarda azeda - QiaoTou 280g](https://www.meiwei.com.br/products/tempero-p-sopa-hot-pot-de-peixe-c-mostarda-azeda-qiaotou-280g): O Tempero para Sopa de Peixe com Mostarda Azeda é a escolha perfeita para quem deseja preparar uma sopa tradicional e saborosa. Esse tempero combina especiarias cuidadosamente selecionadas com o sabor distinto da mostarda azeda, criando uma base rica e levemente picante que realça o sabor do peixe. INGREDIENTES: Pacote de temperos: folha de mostarda, rabanete, sal comestível, glutamato monossódico, aditivos alimentares (nucleosídeo dissódico com sabor 5', metabissulfito de sódio, ácido cítrico, ácido acético glacial, ácido láctico). Pacote de óleo: óleo vegetal, pimenta, gordura de frango comestível, sal comestível, molho composto de sopa de osso de porco (ingredientes picantes, sorbato de potássio), molho de pimenta amarela, gengibre, glutamato monossódico, rabanete, tempero de carne de abóbora em pó, especiarias, aditivos alimentares (Sabor alimentar, ácido láctico, ácido glacial de potássio, D-eritorbato de sódio, ácido DL-málico, polifenóis do chá). Pacote de marinada: amido de milho comestível, sal comestível, glutamato monossódico, tempero composto. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA E TRIGO INFORMAÇÕES NUTRICIONAISPorção de 280g Valor Calórico 369kcal 18% Carboidratos totais 19g 6% Açúcares totais 0g 0% Proteínas 7,8g 10% Gorduras totais 29,4g 53% Sódio 16302mg 679% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 280g
   Updated: 2025-12-23T17:34:29Z
   Vendor: QiaoTou
   Product Type: Condimento
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-sopa-peixe-mostarda-azeda.jpg?v=1722951211
+  Price: R$ 39,99 BRL
+- [Tempero picante azedo para peixe - Wang Gordo 360g](https://www.meiwei.com.br/products/tempero-picante-azedo-p-peixe-wang-gordo-360g): O Tempero Picante Azedo para Peixe é uma mistura vibrante e intensa, ideal para quem gosta de sabores ousados. Combinando o calor das especiarias com o frescor ácido, esse tempero realça o sabor natural do peixe, criando um prato que é ao mesmo tempo picante e refrescante. INGREDIENTES: Óleo vegetal, mostarda em conserva, pimenta, pimenta Sichuan, pimenta preta, gengibre, alho, açúcar branco, sal, glutamato monossódico (INS621), especiarias. NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 360g Valor Calórico 338kcal 17% Carboidratos totais 39g 13% Açúcares totais 0g 0% Proteínas 9g 12% Gorduras totais 16,2g 29% Sódio 15408mg 642% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 360g
+  Updated: 2026-02-14T15:37:06Z
+  Vendor: Wang Gordo
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-picante-azedo-peixe.jpg?v=1722954325
+  Price: R$ 39,99 BRL
+- [Tempero para hot pot sabor picante - QiaoTou 240g](https://www.meiwei.com.br/products/tempero-picante-hot-pot-qiao-tou): O Tempero para Hot Pot Sabor Picante é essencial para quem busca uma experiência de hot pot intensa e saborosa. Essa mistura de especiarias cuidadosamente selecionadas oferece o equilíbrio perfeito entre o calor ardente e o sabor rico, criando uma base picante que eleva o sabor dos ingredientes frescos. INGREDIENTES: Óleo vegetal, pasta de fava, pimenta, gengibre, sal, pimenta Sichuan, alho, soja preta fermentada, óleo de frango, cebola, molho de soja, vinho culinário amarelo, açúcar branco, gergelim, extrato de levedura, especiarias, aditivo alimentar (glutamato monossódico (INS621), essência alimentar, 5'-Ribonucleotídeo dissódico (INS 635)), sabor alimentar. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 120g Valor Calórico 144kcal 21% Carboidratos totais 2g 1% Açúcares totais 0g 0% Proteínas 3,2g 4% Gorduras totais 44,3g 81% Sódio 7039mg 293% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 240g
+  Updated: 2026-02-14T15:37:06Z
+  Vendor: QiaoTou
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-picante-hotpot-qiaotou.jpg?v=1722956117
   Price: R$ 39,99 BRL
 - [Tempero para Maoxuewnag picante - QiaoTou 160g](https://www.meiwei.com.br/products/tempero-p-maoxuewnag-picante-qiaotou-160g): O Tempero para Maoxuewang Picante é a escolha ideal para recriar o autêntico prato Maoxuewang, uma especialidade de Sichuan famosa por seu sabor intensamente picante e rico. Maoxuewang é tradicionalmente preparado com uma mistura de carnes, tofu, sangue coagulado e vegetais, todos cozidos em um caldo profundamente aromático, infundido com pimenta Sichuan e outras especiarias que proporcionam uma sensação de calor e dormência na boca. Esse tempero captura a essência do prato, oferecendo uma base picante e robusta que eleva cada ingrediente, tornando sua refeição uma experiência verdadeiramente autêntica e vibrante. INGREDIENTES: Óleo vegetal, pasta de fava, pimenta, sal, alho, gengibre, pimenta Sichuan, extrato de levedura, cebola, soja preta fermentada, glicose, molho de soja, especiarias, aditivo alimentar (glutamato monossódico (INS621), essência alimentar, 5'-Ribonucleotídeo dissódico (INS 635)), sabor alimentar. Sachê de seco: pimenta, pimenta Sichuan, gergelim. CONTÉM GLUTÉN ALÉRGICOS CONTÉM DERIVADO DE TRIGO, SOJA E GERGELIM INFORMAÇÕES NUTRICIONAISPorção de 160g Valor Calórico 547kcal 27% Carboidratos totais 2g 1% Açúcares totais 0g 0% Proteínas 4,3g 6% Gorduras totais 59g 107% Sódio 9385mg 391% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 160g
   Updated: 2025-12-06T15:38:26Z
@@ -5639,6 +6178,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-pato-apimentado-qiaotou.jpg?v=1722964695
   Price: R$ 29,99 BRL
+- [Tempero 5 especiarias (Five Spices) para airfryer - WuXiang 100g](https://www.meiwei.com.br/products/tempero-5-especiarias-five-spice-p-airfryer-wuxiang-100g): O Tempero 5 Especiarias (Five Spice) para Airfryer traz o autêntico sabor da culinária asiática para suas receitas, especialmente adaptado para o uso na airfryer. Com uma combinação de especiarias harmoniosamente equilibradas, este tempero transforma carnes, vegetais e outras preparações em pratos cheios de aroma e sabor intensos, perfeitos para quem busca praticidade sem abrir mão da autenticidade gastronômica. INGREDIENTES: Amendoim, gergelim, cominho, perilla, glutamato monossódico (INS621), sal, açúcar branco, especiarias. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE AMENDOIM INFORMAÇÕES NUTRICIONAISPorção de 20g (1 pacote) Valor Calórico 74kcal 4% Carboidratos totais 9g 3% Proteínas 4,3g 6% Gorduras totais 2,7g 6% Sódio 1364mg 57% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 100g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: WuXiang
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-5-especiarias-airfryer.jpg?v=1722970510
+  Price: R$ 35,99 BRL
+- [Tempero apimentado para airfryer - WuXiang 100g](https://www.meiwei.com.br/products/tempero-apimentado-p-airfryer-wuxiang-100g): O Tempero Apimentado para Airfryer é ideal para quem adora um toque de picância em suas receitas. Especialmente formulado para uso na airfryer, ele adiciona um sabor intenso e apimentado a carnes, vegetais e outros pratos, realçando o sabor e proporcionando uma crocância irresistível. INGREDIENTES: Amendoim, gergelim, cominho, pimenta, perilla, glutamato monossódico, sal, açúcar, especiarias. NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE AMENDOIM INFORMAÇÕES NUTRICIONAISPorção de 20g (1 pacote) Valor Calórico 74kcal 4% Carboidratos totais 9g 3% Proteínas 4,3g 6% Gorduras totais 2,7g 6% Sódio 1364mg 57% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 100g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: WuXiang
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-WuXiang_1.jpg?v=1722974475
+  Price: R$ 35,99 BRL
+- [Molho de tempero para carne marinada - WuXiang 120g](https://www.meiwei.com.br/products/molho-de-tempero-p-carne-marinada-wuxiang-120g): O Molho de Tempero para Carne Marinada é a escolha perfeita para dar mais sabor às suas carnes antes de cozinhar. Este molho especial penetra profundamente, realçando os sabores naturais e deixando suas receitas ainda mais suculentas e saborosas. Ideal para marinadas de carne bovina, suína, aves e até mesmo vegetais, ele proporciona uma experiência gastronômica cheia de sabor e aroma, garantindo pratos deliciosos em qualquer ocasião. INGREDIENTES: Molho de soja, pasta doce de feijão, molho de ostra, açúcar cristal, sal, tempero de frango, especiarias, aditivo alimentar (sorbato de potássio (INS 202)). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA E PEIXE INFORMAÇÕES NUTRICIONAISPorção de 120g Valor Calórico 140kcal 7% Carboidratos totais 31g 10% Proteínas 3,5g 5% Gorduras totais 0g 0% Sódio 7759mg 323% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 120g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: WuXiang
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-tempero-carne-marinada.jpg?v=1722975265
+  Price: R$ 35,99 BRL
 - [Rosas em botão desidratadas (pacote a vácuo) 50g](https://www.meiwei.com.br/products/cha-de-rosas-em-botao-a-vacuo-50g): O chá de botões de rosa pode melhorar sua saúde e bem-estar, além de trazer um toque especial à decoração. Esta infusão, rica em antioxidantes e propriedades calmantes, alivia o estresse e promove uma pele saudável. E mais: os botões de rosa são perfeitos para decorar pratos e ambientes. INGREDIENTES: Rosas em botão Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 50g
   Updated: 2026-01-29T22:12:38Z
   Vendor: Mei Wei
@@ -5646,6 +6206,83 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/rosas-botao.jpg?v=1723129247
   Price: R$ 49,99 BRL
+- [Tempero para peixe sabor picante - Sanwu 150g](https://www.meiwei.com.br/products/tempero-p-peixe-sabor-picante-sanwu-150g): O Tempero para Peixe Sabor Picante é perfeito para realçar o sabor dos seus pratos de frutos do mar com um toque de ardência. Esse tempero combina a intensidade das especiarias com a picância na medida certa, tornando-o ideal para quem deseja adicionar um sabor vibrante e marcante às receitas de peixe. Seja grelhado, assado ou frito, esse tempero transforma suas preparações em uma explosão de sabor que vai agradar aos paladares mais exigentes. INGREDIENTES: Óleo vegetal, pasta de fava (pimenta, fava, sal, água, farinha de trigo), pimenta, pimenta Sichuan, gengibre, alho, sal, açúcar branco, especiarias, glutamato monossódico (INS621), 5'-Ribonucleotídeo dissódico (INS 635). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 150g Valor Calórico 680kcal 34% Carboidratos totais 3g 1% Proteínas 7,9g 11% Gorduras totais 72g 131% Sódio 9210mg 384% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 150g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Sanwu
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-peixe-picante.jpg?v=1723140829
+  Price: R$ 39,99 BRL
+- [Molho para hot hot - Little Sheep 125g](https://www.meiwei.com.br/products/molho-p-hot-hot-little-sheep-125g): O Molho para Hot Pot combina as delícias do molho de amendoim, a suavidade do molho de gergelim e o toque aromático da cebolinha chinesa, criando uma mistura equilibrada e cheia de sabor. Perfeito para mergulhar carnes, legumes e noodles no tradicional hot pot, esse molho traz uma riqueza de sabores que complementa qualquer combinação, elevando a experiência gastronômica do hot pot a um novo nível de sabor. INGREDIENTES: Água, molho de gergelim, molho de amendoim, molho de cebolinha chinesa (cebolinha chinesa, água, sal, glutamato monossódico (INS621), aditivo alimentar (glutamato monossódico (INS621)), tofu fermentado, açúcar branco, essência alimentar, aditivo alimentar (fosfato de sódio, disamido acetilado, nisina), sal, óleo de semente de girassol, glutamato monossódico (INS621). NÃO CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE AMENDOIM, SOJA, OVO E GERGELIM INFORMAÇÕES NUTRICIONAISPorção de 20g (1 colher de sopa) Valor Calórico 39kcal 2% Carboidratos totais 1g 0% Proteínas 1,7g 2% Gorduras totais 2,8g 5% Sódio 358mg 15% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 125g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Little Sheep
+  Product Type: Condimento
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-hotpot-amendoim-gergelim_2.jpg?v=1723142062
+  Price: R$ 28,99 BRL
+- [Tempero para peixe com pimenta verde - Sichuan LaYuan 240g](https://www.meiwei.com.br/products/tempero-p-peixe-c-pimenta-verde-sichuan-layuan-240g): O Tempero para Peixe com Pimenta Verde oferece uma combinação única de frescor e picância suave, perfeita para realçar o sabor natural dos peixes. Ideal para grelhados, assados ou fritos, esse tempero confere uma profundidade de sabor que equilibra a leveza do peixe com o toque vibrante da pimenta verde, proporcionando uma experiência culinária rica e saborosa. INGREDIENTES: Sachê de tempero: pasta de fava (pimenta, sal, farinha de trigo, água), óleo vegetal, sal, água, pimenta, gengibre, alho, soja preta fermentada (soja, água, sal), açúcar branco, glutamato monossódico (INS621), baiju, especiarias, essência alimentar, capsantina (INS 160c), 5'-Ribonucleotídeo dissódico (INS 635), sorbato de potássio (INS 202). Sachê de tempero para peixe: amido, sal, pimenta preta em pó. Sachê de tempero seco: pimenta, pimenta Sichuan, gergelim. Sachê de óleo de pimenta verde: óleo vegetal, pimenta verde, essência alimentar. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 240g Valor Calórico 545kcal 27% Carboidratos totais 19g 6% Proteínas 10,1g 13% Gorduras totais 48,2g 88% Sódio 16545mg 689% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 240g
+  Updated: 2026-02-14T15:37:02Z
+  Vendor: Sichuan LaYuan
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-peixe-pimenta-verde.jpg?v=1723143807
+  Price: R$ 39,99 BRL
+- [Tempero para peixe com pimenta verde e mostarda azeda - Sichuan LaYuan 350g](https://www.meiwei.com.br/products/tempero-p-peixe-c-pimenta-verde-e-mostarda-azeda-sichuan-layuan-350g): O Tempero para Peixe com Pimenta Verde e Mostarda Azeda oferece uma combinação única de sabores que transforma qualquer prato de peixe em uma experiência gastronômica vibrante. A pimenta verde traz uma picância suave, enquanto a mostarda azeda adiciona um toque ácido e refrescante, criando um equilíbrio perfeito que realça o sabor natural do peixe. Ideal para grelhados, ensopados ou frituras, esse tempero eleva suas receitas a outro nível de sabor. INGREDIENTES: Sachê de mostarda azeda: mostarda salgada (mostarda, sal), gengibre salgado, pimenta salgada, sal, vinho culinário amarelo, especiarias, glutamato monossódico (INS621), ácido cítrico, 5'-Rinucleotídeo dissódico, bentanzina. Sachê de molho: pimenta salgada (pimenta, água, sal, ácido cítrico, citrato de sódio, gengibre, alho, sal, água, óleo vegetal, glutamato monossódico, açúcar branco, vinho culinário amarelo, pimenta preta, essência alimentar, 5'-Ribonucleotídeo dissódico, sorbato de potássio. Sachê de tempero para peixe: amido, sal, pimenta preta em pó. Sachê de pimenta verde: pimenta verde e gergelim. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 350g Valor Calórico 359kcal 18% Carboidratos totais 50g 17% Proteínas 6,3g 8% Gorduras totais 15,1g 27% Sódio 14829mg 618% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 350g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Sichuan LaYuan
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-peixe-pimenta-verde-mostarda-azeda.jpg?v=1723145395
+  Price: R$ 39,99 BRL
+- [Tempero de peixe picante com mostarda azeda - XinHao 430g](https://www.meiwei.com.br/products/tempero-peixe-picante-c-mostarda-azeda-xinhao-430g): O Tempero para Peixe Picante com Mostarda Azeda combina a intensidade da picância com o sabor ácido e levemente amargo da mostarda azeda, criando um perfil de sabor complexo e irresistível. Ideal para pratos de peixe grelhados, fritos ou cozidos, esse tempero transforma suas receitas em verdadeiras explosões de sabor, realçando o frescor do peixe com um toque ousado e surpreendente. INGREDIENTES: Sachê de mostarda azeda: mostarda azeda (mostarda, água, sal, especiarias, ácido sórbico, cúrcuma (INS 100), água, pimenta em conserva, pimenta vermelha com conserva, sal, gengibre em conserva, alho, açúcar branco, tempero de frango, essência alimentar, 5'-Ribonucleotídeo dissódico (INS 635), ácido cítrico, tartrazina (INS 102), sorbato de potássio. Sachê de óleo: Óleo vegetal, especiarias, essência alimentar, pimenta, pasta de fava (pimenta, fava, água, sal, gengibre em pó, alho, pimenta Sichuan, especiarias, essência alimentar). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 430g Valor Calórico 577kcal 29% Carboidratos totais 42g 14% Proteínas 12,5g 17% Gorduras totais 40,4g 73% Sódio 14994mg 625% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 430g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: XinHao
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-peixe-picante-mostarda-azeda.jpg?v=1723147334
+  Price: R$ 39,99 BRL
+- [Tempero de sopa dourada para peixe com mostarda azeda - XinHao 408g](https://www.meiwei.com.br/products/tempero-de-sopa-dourada-p-peixe-c-mostarda-azeda-xinhao-408g): O Tempero de Sopa Dourada para Peixe com Mostarda Azeda é uma mistura especialmente formulada para dar um toque sofisticado e saboroso às sopas de peixe. A combinação da mostarda azeda com a base dourada cria um caldo rico e aromático, que realça os sabores naturais do peixe enquanto adiciona uma nota ácida e única, perfeita para quem busca uma refeição saborosa e reconfortante. INFORMAÇÕES NUTRICIONAISPorção de 408g Valor Calórico 84kcal 4% Carboidratos totais 39g 13% Proteínas 13,5g 18% Gorduras totais 29,4g 53% Sódio 17564mg 732% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 408g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: XinHao
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-sopa-dourada-peixe-mostarda-azeda.jpg?v=1723149805
+  Price: R$ 39,99 BRL
+- [Tempero de sopa de pato com rabanete azedo - XinHao 420g](https://www.meiwei.com.br/products/tempero-de-sopa-de-pato-c-rabanete-azedo-xinhao-420g): O Tempero de Sopa de Pato com Rabanete Azedo é uma mistura especial que traz um equilíbrio perfeito, toque refrescante e ligeiramente ácido do rabanete azedo. Ideal para preparar uma sopa reconfortante e cheia de sabor, esse tempero transforma uma simples refeição em uma experiência culinária rica e complexa, destacando as nuances do pato e elevando o prato com um contraste de texturas e sabores. INGREDIENTES: Pacote de temperos: rabanete em conserva (rabanete, água, sal comestível, sorbato de potássio, metabissulfito de sódio, cloreto de cálcio), água, gengibre em conserva, pimenta em conserva, óleo vegetal, sal comestível, glutamato monossódico, ácido láctico, 5'- Nucleotídeo dissódico, eritorbato de D-sódio, ácido cítrico. Pacote de óleo: óleo vegetal, gordura de frango comestível, especiarias, sabores e especiarias comestíveis, páprica. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 381kJ 5% Carboidratos totais 2,1g 1% Proteínas 1,2g 2% Gorduras totais 8,6g 14% Sódio 4188mg 209% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 420g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: XinHao
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-sopa-pato-rabanete-azedo.jpg?v=1723151039
+  Price: R$ 49,99 BRL
+- [Tempero para Hui Guo - Sichuan Teway 100g](https://www.meiwei.com.br/products/tempero-p-hui-guo-sichuan-teway-100g): O tempero para o prato chinês HuiGuo é uma mistura de especiarias e condimentos especialmente formulada para realçar o sabor do HuiGuo Rou, um prato tradicional da culinária de Sichuan. HuiGuo Rou, ou "Carne de Porco Refogada Duas Vezes", é feito refogando fatias de barriga de porco previamente cozidas em uma wok com ingredientes aromáticos. Este tempero ajuda a capturar a essência picante e saborosa do prato, proporcionando o equilíbrio perfeito entre o salgado, o umami e o leve toque de calor que caracteriza essa especialidade de Sichuan. INGREDIENTES: Pasta de fava (pimenta, sal, fava, água, farinha de trigo), óleo vegetal, soja preta fermentada, pasta doce, açúcar branco, água, alho, glutamato monossódico (INS 621), vinho culinário amarelo, molho de soja (contém corante amarelo (150c)), 5'-Ribonucleotídeo dissódico (INS 635), essência alimentar, capsantina (INS 160c). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA E CEREAIS INFORMAÇÕES NUTRICIONAISPorção de 50g Valor Calórico 168kcal 8% Carboidratos totais 10g 3% Proteínas 3,8g 5% Gorduras totais 12,9g 23% Sódio 2280mg 95% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 100g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Sichuan Teway
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Tempero-chines-HuiGuo.jpg?v=1723152475
+  Price: R$ 29,99 BRL
+- [Tempero para frango assado - Wang Gordo 150g](https://www.meiwei.com.br/products/tempero-p-frango-assado-wang-gordo-150g): O tempero chinês para frango assado é uma mistura aromática projetada para dar um sabor autêntico e irresistível ao prato. Essa combinação de especiarias oferece um equilíbrio entre notas doces, salgadas e picantes, além de um aroma característico que eleva o sabor do frango. Ideal para marinar ou temperar antes de assar, ele cria uma crosta dourada e saborosa, realçando a suculência da carne e proporcionando uma experiência culinária que combina tradição e sabor oriental. INGREDIENTES: Óleo de soja, pasta de fava (pimenta, fava, sal, água, farinha de trigo), pimenta, pimenta Sichuan, pimenta preta, gengibre, alho, açúcar branco, sal, glutamato monossódico (INS 521), especiarias. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 150g Valor Calórico 368kcal 18% Carboidratos totais 5g 2% Proteínas 9,9g 13% Gorduras totais 35,1g 64% Sódio 10108mg 421% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 150g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Wang Gordo
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Tempero-frango-assado.jpg?v=1723154420
+  Price: R$ 24,99 BRL
+- [Tempero para frango assado - Wang Gordo 150g](https://www.meiwei.com.br/products/tempero-de-frango-assado-wang-gordo-150g): O tempero chinês para frango assado é uma mistura aromática projetada para dar um sabor autêntico e irresistível ao prato. Essa combinação de especiarias oferece um equilíbrio entre notas doces, salgadas e picantes, além de um aroma característico que eleva o sabor do frango. Ideal para marinar ou temperar antes de assar, ele cria uma crosta dourada e saborosa, realçando a suculência da carne e proporcionando uma experiência culinária que combina tradição e sabor oriental. INGREDIENTES: Óleo de soja, pasta de fava (pimenta, fava, sal, água, farinha de trigo), pimenta, pimenta Sichuan, pimenta preta, gengibre, alho, açúcar branco, sal, glutamato monossódico (INS 521), especiarias. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 150g Valor Calórico 368kcal 18% Carboidratos totais 5g 2% Proteínas 9,9g 13% Gorduras totais 35,1g 64% Sódio 10108mg 421% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 150g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Wang Gordo
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Tempero-frango-assado-wang.jpg?v=1723205502
+  Price: R$ 24,99 BRL
+- [Tempero para peixe com mostarda azeda - Honored Brand 300g](https://www.meiwei.com.br/products/tempero-p-peixe-c-mostarda-azeda-honored-brand-300g): O tempero para peixe com mostarda azeda é uma mistura específica que dá ao prato um sabor distinto, combinando o frescor do peixe com a acidez marcante da mostarda azeda. Essa combinação de sabores cria uma harmonia única, realçando o sabor natural do peixe e adicionando uma nota picante e agridoce que é popular em várias receitas asiáticas. Ideal para pratos cozidos ou grelhados, esse tempero transforma o peixe em uma experiência gastronômica saborosa e memorável. INGREDIENTES: Sachê de mostarda azeda: mostarda temperada (mostarda, água, sal, especiarias), água, gengibre, pimenta em conserva, ácido acético, ácido lótico, sorbato de potássio (INS 202), D-Eritorbato de sódio (INS 315), dexidrocetato de sódio, EDTA dissódico, metabissulfito de sódio (INS 223), cúrcuma (INS 100), tartrazina (INS 102). Sachê de tempero: óleo vegetal, pimenta, gengibre, sal, glutamato monossódico (INS 621), óleo de frango, açúcar branco, alho poró, pimenta Sichuan, extrato de levedura, essência alimentar, ácido lático, ácido cítrico (INS 330), sorbato de potássio (INS 202), 5'-Ribonucleotídeo dissódico (INS 635), D-Eritorbato de sódio (INS 316). Sachê para marinar: Amido, sal, pimenta branca. Sachê de Umami: glutamato monossódico (INS 621), sal, açúcar branco, pimenta branca, 5'-Ribonucleotídeo dissódico (INS 635). CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE TRIGO E SOJA INFORMAÇÕES NUTRICIONAISPorção de 300g Valor Calórico 368kcal 18% Carboidratos totais 26g 9% Proteínas 8,7g 12% Gorduras totais 25,8g 47% Sódio 14754mg 615% Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 300g
+  Updated: 2026-02-17T03:15:44Z
+  Vendor: Honored Brand
+  Product Type: Tempero
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/a15afbacc438c5da6095b14a9449c26a.jpg?v=1723206164
+  Price: R$ 45,99 BRL
 - [Biscoito recheado sabor chocolate Lotso - Disney 50g](https://www.meiwei.com.br/products/biscoito-recheado-sabor-chocolate-lotso-disney-50g): O biscoito recheado sabor chocolate do Lotso da Disney é uma deliciosa guloseima inspirada no personagem Lotso, o ursinho rosa da franquia Toy Story. Ele combina uma casquinha crocante com um recheio cremoso de chocolate, proporcionando uma experiência doce e irresistível. Ideal para fãs do personagem e para quem adora um biscoito recheado com sabor intenso de chocolate, esse produto une o encantamento da Disney com um toque de indulgência. INGREDIENTES: farinha de trigo, açúcar branco, óleos comestíveis e produtos gordurosos, leite em pó integral, cacau em pó, soro de leite em pó, frutooligossacarídeos, sal comestível, aditivos alimentares (bicarbonato de amônio, fosfolipídios, bicarbonato de sódio, corante caramelo, metabissulfito de sódio), sabor comestível. ALÉRGICOS CONTÉM LATICÍNIO, TRIGO E SOJA Armazenar em local seco e arejado. Origem: China Contém 50g
   Updated: 2025-12-06T15:38:27Z
   Vendor: Disney
@@ -5681,6 +6318,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-milho_2.jpg?v=1723493144
   Price: R$ 39,90 BRL
+- [Arroz Jasmim Tailandes (Thai Jasmine Rice) - Royal Dancer 1kg](https://www.meiwei.com.br/products/arroz-jasmin-tailandes-thai-jasmine-rice-royal-dancer-1kg): O arroz jasmim é originário da Tailândia e é frequentemente usado na culinária do sudoeste asiático. É uma variedade de arroz de grão longo que tem um aroma sútil de flor e uma textura macia e pegajosa quando preparado. Antes de cozinhar, é fundamental lavar o arroz, para retirar o pó e o excesso de amido. Ele é tipicamente preparado a vapor ou por absorção, que simplesmente é o preparo comum, no qual se coloca uma determinada quantidade de água para que seja totalmente absorvida pelo arroz. Além das proteínas, esse arroz contém também fibras. Em resumo, as fibras são carboidratos complexos que auxiliam na digestão e facilitam o trânsito intestinal. Por isso, consumir esse arroz, pode prevenir a constipação (prisão de ventre). Manter em local seco e arejado. INGREDIENTES: Arroz jasmim 100% NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 50g - 1/2 xicara de chá Valor Calórico 200kcal 9% Carboidratos 46g 12% Proteínas 3g 4% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g 0% Fibra Alimentar 0g 0% Sódio 0mg 0% * Valores diários de referência, com base em uma dieta de 2000 calorias ou 8400 Kj Origem: Tailândia Contém 1kg
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Royal Dancer
+  Product Type: Arroz
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/71310edde1a6c82db760776183e8cb10.jpg?v=1723819894
+  Price: R$ 49,99 BRL
 - [Molho de feijão preto picante (black bean spicy) - Lee Kum Kee 360g](https://www.meiwei.com.br/products/molho-de-feijao-preto-picante-black-bean-spicy-lee-kum-kee-360g): O Molho de Feijão Preto Picante da Lee Kum Kee combina o sabor robusto dos feijões pretos fermentados com um toque de picância. Este molho é ideal para dar um sabor intenso e autêntico a pratos asiáticos, como stir-fry, marinadas e ensopados, adicionando uma camada rica e picante que realça os sabores dos ingredientes. INGREDIENTES: Pimenta salgada (pimenta, sal comestível), pasta de soja fermentada (água, sal comestível, soja, farinha de trigo), água, pasta de soja fermentada (feijão preto, sal comestível, água), açúcar branco, sal comestível, gengibre, óleo de gergelim, alho desidratado, óleo de soja, pimenta seca, glutamato de sódio, 5'-inosinato dissódico, 5'-guanilato dissódico. INFORMAÇÕES NUTRICIONAIS: por 5g: Energia:16kcal, gordura:1,4g, gordura saturada:0,2g, Carboidratos: 0g, dos quais açúcar:0g, Proteína: 0,3g, Sal: 167g Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 360g
   Updated: 2025-12-06T15:38:30Z
   Vendor: Lee Kum Kee
@@ -5730,6 +6374,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tempero-peixe-pimenta-verde_1.jpg?v=1724081458
   Price: R$ 39,99 BRL
+- [Base de pimenta para Hot Pot - QiaoTou 300g](https://www.meiwei.com.br/products/base-de-pimenta-p-hot-pot-qiaotou-300g): A base de pimenta para hot pot é um ingrediente essencial para preparar o tradicional prato chinês. Este tempero é rico em sabor e traz uma combinação de especiarias que proporcionam uma experiência picante e aromática, ideal para quem gosta de um toque apimentado em suas refeições. Perfeita para dar vida ao seu hot pot, ela oferece uma explosão de sabores que tornam o caldo mais intenso e saboroso. INGREDIENTES: óleo de soja para salada, pasta de feijão (pimenta, fava, sal, farinha de trigo), pimenta, sal, alho, gengibre, pimenta de Sichuan, extrato de levedura, cebola, soja fermentada, açúcar branco, glicose comestível, vinagre (sorgo, cevada, ervilha), molho de soja (soja, trigo, sal), anis estrelado, erva-doce, glutamato monossódico, 5'-ribonucleotídeos dissódicos, polifenóis do chá, sorbato de potássio. ALÉRGICOS CONTÉM CEVADA, LEVEDURA E SOJA INFORMAÇÕES NUTRICIONAIS: por 15g: Energia:6kcal, gordura:7,5g, gordura saturada:0g, Carboidratos: 0g, dos quais açúcar:0g, Proteína: 0,7g, Sal: 880mg Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 300g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: QiaoTou
+  Product Type: Molhos Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-hotpot.jpg?v=1724082711
+  Price: R$ 39,99 BRL
+- [Base de manteiga picante para Hot Pot - HaiDiLao 150g](https://www.meiwei.com.br/products/base-de-manteiga-picante-p-hot-pot-haidilao-150g): A base de manteiga picante para hot pot é uma escolha deliciosa para quem aprecia sabores intensos e picantes. Este tempero combina a riqueza da manteiga com uma mistura de especiarias e pimentas, criando um caldo robusto e saboroso. Ideal para adicionar ao seu hot pot, ele transforma o prato em uma experiência ainda mais quente e saborosa, realçando os ingredientes e proporcionando um toque irresistível de picância. INGREDIENTES: manteiga comestível (> 50%), tempero composto com sabor de frango em pó, pimenta, pasta de feijão (pimenta, fava, água, sal comestível, farinha de trigo), cebolinha, sabores e especiarias comestíveis, sal comestível, gengibre, alho, Pimenta Sichuan, especiarias, açúcar branco, tempeh, vinho branco, açúcar cristal, extrato de fermento, páprica e grãos. ALÉRGICOS CONTÉM TRIGO E SOJA INFORMAÇÕES NUTRICIONAIS: por 100g: Energia:2887kJ, gordura:75g, gordura saturada:0g, Carboidratos: 3,1g, dos quais açúcar:0g, Proteína: 3,5g, Sal: 4248mg Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 150g
+  Updated: 2026-02-14T15:36:56Z
+  Vendor: HaiDiLao
+  Product Type: Molhos Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/manteiga-picante-hotpot.jpg?v=1724083995
+  Price: R$ 63,99 BRL
+- [Base de sopa clara para Hot Pot - Little Sheep 160g](https://www.meiwei.com.br/products/base-de-sopa-clara-p-hot-pot-little-sheep-160g): A base de sopa clara para hot pot é um ingrediente essencial que cria um caldo leve e delicado, ideal para quem prefere uma base mais neutra e suave. Feita para realçar o sabor dos ingredientes adicionados, essa base proporciona um fundo limpo e leve que permite que os sabores naturais de carnes, vegetais e outros acompanhamentos brilhem. INGREDIENTES: água, óleo vegetal, aroma de frango, sopa concentrada de osso de porco, sal comestível, canja concentrada de frango, sopa concentrada de cordeiro, glutamato monossódico, tempero em pó para frutos do mar, goma xantana, sorbato de potássio, oligonucleotídeo dissódico. INFORMAÇÕES NUTRICIONAIS: por 100g: Energia:897kJ, gordura:18,1g, gordura saturada:0g, Carboidratos: 6,8g, dos quais açúcar:0g, Proteína: 6,6g, Sal: 5790mg Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 160g
+  Updated: 2026-02-14T15:37:01Z
+  Vendor: Little Sheep
+  Product Type: Molhos Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/base-sopa-clara-little-sheep.jpg?v=1724087677
+  Price: R$ 39,99 BRL
 - [Tempero 5 especiarias (Five Spices) - Wu Xiang Fen 454g](https://www.meiwei.com.br/products/tempero-5-especiarias-five-spice-wu-xiang-fen-454g): Descubra o autêntico sabor da culinária chinesa com nosso tempero de cinco especiarias! Esta mistura perfeita de folha de louro, cominho, anis estrelado, canela, casca de tangerina e pimenta de Sichuan vai transformar suas receitas com um perfil de sabor complexo e irresistível. Ideal para carnes, sopas e pratos de arroz, nosso tempero traz uma explosão de sabores aromáticos que vão encantar seu paladar e elevar seus pratos a um novo nível. INGREDIENTES: Folha de louro, cominho, anis estrelado, canela, casca de tangerina ou laranja seca, pimenta de Sichuan. NÃO CONTÉM GLÚTEN Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 454g
   Updated: 2025-12-27T23:42:14Z
   Vendor: Wu Xiang Fen
@@ -5759,7 +6424,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-cuihong.jpg?v=1724094345
   Price: R$ 34,99 BRL
 - [Kansui em Pó Fermento de amônia alimentar - FuSanHeSiPin 1,2kg](https://www.meiwei.com.br/products/fermento-em-po-amonia-fusanhesipin-1-2kg): Tradicional na confeitaria chinesa, o fermento de amônia (ou fermento chinês) é um agente de crescimento usado especialmente em biscoitos, bolinhos fritos e massas crocantes. Ao ser aquecido, ele libera gás rapidamente, criando leveza e textura areada nos preparos — ideal para receitas como Hup Toh Soh e Sachima. Produto da marca Fu San He Pin, com 1,2kg de conteúdo, indicado exclusivamente para uso culinário. Deve ser usado em ambientes bem ventilados, pois exala odor forte durante o cozimento, que desaparece após o preparo. INGREDIENTES: 98% de bicarbonato de amônio, 1% de bicarbonato de sódio, 1% de amido de milho comestível Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 1,2kg
-  Updated: 2026-02-04T20:05:09Z
+  Updated: 2026-02-11T15:10:41Z
   Vendor: FuSanHeSiPin
   Product Type: Condimento
   Availability: Available
@@ -5800,6 +6465,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mingau-lirio-lotus_1.jpg?v=1724179930
   Price: R$ 19,99 BRL
+- [Kombuchá de ameixa e alga kombu - Gyokuroen 40g](https://www.meiwei.com.br/products/kombucha-de-ameixa-e-alga-kombu-gyokuroen-40g): A kombuchá de ameixa e alga kombu em pó é uma maneira prática de desfrutar dos benefícios dessa bebida fermentada. Rica em probióticos, ela auxilia na digestão e fortalece o sistema imunológico. A ameixa contribui com antioxidantes, ajudando na desintoxicação do corpo, enquanto a alga kombu adiciona minerais essenciais que promovem a saúde óssea e cardiovascular. Fácil de preparar, essa combinação oferece uma bebida refrescante e nutritiva, perfeita para quem busca equilíbrio e bem-estar no dia a dia. INGREDIENTES: sal, açúcar, umeboshi (ameixa japonesa), temperos (aminoácidos, etc.), algas marinhas, dextrina, cálcio coral, aromatizante, acidificante Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 40g
+  Updated: 2026-02-14T15:36:56Z
+  Vendor: Gyokuroen
+  Product Type: Chá
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/kombucha-ameixa-kombu.jpg?v=1724248554
+  Price: R$ 78,99 BRL
 - [Curry Vermont Hot - House Foods 230g](https://www.meiwei.com.br/products/curry-vermont-hot-house-foods-230g): O Curry Vermont Hot da marca House Foods é uma mistura de especiarias com sabor marcante e um toque de calor que proporciona uma experiência culinária rica e intensa. Com seu perfil de sabor equilibrado, é ideal para preparar pratos tradicionais de curry japonês, oferecendo um toque picante que harmoniza perfeitamente com carnes, vegetais, arroz e macarrão Udon. Perfeito para aqueles que buscam um curry com um pouco mais de intensidade, mas que ainda mantém a suavidade característica do Vermont Curry. INGREDIENTES: gordura, banha, farinha de trigo, açúcar, sal, amido, curry, lactose, tomate, lecitina de soja, gergelim, queijo, extrato suino, maça, pimenta, shoyu, glicose, paprica, alho, corante caramelo, acidulante, aromatizante. CONTÉM GLÚTEN ALÉRGICOS CONTÉM SOJA TRIGO, LEITE E GERGELIM Informação Nutricional: Porção de 19g ( 1colher de sopa ) Quantidade Porção: %VD Valor energético 100 5% Carboidratos 8g 3% Proteinas 1g 1% Gorduras Totais 7g 13% Gorduras Saturadas 4g 18% Sódio 870mg 36% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seu valor diário pode ser maior ou menor dependendo de sua necessidade % VD não estabelecida Manter em local fresco e arejado. Origem: Japão Contém 230g
   Updated: 2025-12-06T15:38:34Z
   Vendor: House Foods
@@ -5835,13 +6507,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Mutenka-Dashi-Yaki-Ago.jpg?v=1724267056
   Price: R$ 29,99 BRL
-- [Tempero Katso Dashi (caldo de peixe) - Shimaya 42g](https://www.meiwei.com.br/products/tempero-katso-dashi-caldo-de-peixe-shimaya-42g): O Tempero Katsuo Dashi é um caldo de peixe em pó que proporciona um sabor umami autêntico e profundo aos pratos. Feito a partir de katsuo (bonito seco), um peixe amplamente utilizado na culinária japonesa, esse tempero é ideal para enriquecer sopas, caldos, molhos e diversos pratos. Sua fórmula concentrada oferece um sabor de peixe delicado e bem equilibrado, facilitando a preparação de pratos com um toque de autenticidade japonesa e profundidade de sabor. INGREDIENTES: Glicose, extrato de peixe, realçador de sabor (glutamato monossódico, 5'-Ribocleotídeo dissódico) CONTÉM GLÚTEN ALÉRGICOS CONTÉM PEIXE. PODE CONTER OVO, LEITE, TRIGO, SOJA, CASTANHA DE CAJU, AMÊNDOA, CAMARÃO, CARANGUEJO E LÁTEX Manter em local seco e arejado. Após aberto, manter a embalagem bem vedada. Origem: Japão Contém 42g (7 sachês de 6g)
-  Updated: 2026-02-03T13:17:16Z
-  Vendor: Shimaya
-  Product Type: Tempero
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/Katso-Dashi.jpg?v=1724268379
-  Price: R$ 20,90 BRL
 - [Tempero Kombu Dashi No Moto (caldo de alga) - Shimaya 42g](https://www.meiwei.com.br/products/tempero-kombu-dashi-no-moto-caldo-de-alga-shimaya-42g): Ideal para adicionar profundidade e complexidade aos seus pratos, este tempero em pó é perfeito para preparar caldos, sopas, molhos e risotos. Sua formulação prática permite uma fácil dissolução e dosagem, oferecendo uma maneira rápida e conveniente de intensificar o sabor dos alimentos com um toque autêntico da culinária japonesa. Além de melhorar o sabor, o kombu é conhecido por suas propriedades nutritivas e benefícios à saúde. INGREDIENTES: Glicose, açúcar, extrato de alga kombu, dextrina, realçador de sabor (glutamato monossódico, 5'-Ribocleotídeo dissódico) CONTÉM GLÚTEN ALÉRGICOS CONTÉM PEIXE. PODE CONTER OVO, LEITE, TRIGO, SOJA, CASTANHA DE CAJU, AMÊNDOA, CAMARÃO, CARANGUEJO E LÁTEX Manter em local seco e arejado. Após aberto, manter a embalagem bem vedada. Origem: Japão Contém 42g (7 sachês de 6g)
   Updated: 2026-02-03T13:20:21Z
   Vendor: Shimaya
@@ -5850,18 +6515,25 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/kombu-dashi-no-moto.jpg?v=1724269724
   Price: R$ 24,25 BRL
 - [Tempero Shiitake Dashi No Moto (caldo de cogumelo) - Shimaya 42g](https://www.meiwei.com.br/products/shiitake-dashi-no-moto-caldo-de-cogumelo-shimaya-42g): Ideal para preparar caldos, sopas, molhos e pratos à base de cogumelos, este tempero em pó oferece uma maneira prática de adicionar um sabor rico e autêntico aos seus pratos. Com sua formulação em pó, é fácil de dissolver e dosar, proporcionando um sabor de cogumelo intenso e nutritivo, perfeito para enriquecer uma variedade de receitas e conferir um toque especial à sua culinária. INGREDIENTES: Sal, lactose, açúcar, extrato de cogumelo shiitake, dextrina, amido, realçador de sabor (glutamato monossódico, 5'-Ribocleotídeo dissódico) CONTÉM GLÚTEN ALÉRGICOS CONTÉM PEIXE. PODE CONTER OVO, LEITE, TRIGO, SOJA, CASTANHA DE CAJU, AMÊNDOA, CAMARÃO, CARANGUEJO E LÁTEX Manter em local seco e arejado. Após aberto, manter a embalagem bem vedada. Origem: Japão Contém 42g (7 sachês de 6g)
-  Updated: 2026-01-14T10:52:29Z
+  Updated: 2026-02-14T11:13:47Z
   Vendor: Shimaya
   Product Type: Tempero
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/shiitake-dashi-no-moto.jpg?v=1724270972
-  Price: R$ 27,93 BRL
+  Price: R$ 26,61 BRL
 - [Vinagre de arroz envelhecido - Lee Kum Kee 500ml](https://www.meiwei.com.br/products/vinagre-de-arroz-baoning-lee-kum-kee-500ml): O Vinagre de Arroz da marca Lee Kum Kee é um ingrediente essencial para adicionar um toque autêntico à sua culinária asiática. Com seu sabor suave e levemente ácido, é perfeito para temperar saladas, fazer marinadas, e preparar pratos como sushi e dumplings. Este vinagre é cuidadosamente elaborado para manter o equilíbrio ideal de sabor, proporcionando um resultado delicioso em qualquer receita. INGREDIENTES: Água, farelo de trigo, arroz, açúcar, arroz fermentado (arroz frito), fermentado de vinagre, sódio 5,00-5,49g de acidez total. NÃO CONTÉM GLÚTEN Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 500ml
   Updated: 2026-02-06T17:36:52Z
   Vendor: Lee Kum Kee
   Product Type: Vinho de arroz
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinagre-baoning-lkk.jpg?v=1724273503
+  Price: R$ 99,99 BRL
+- [Óleo de gergelim torrado - GW 1L](https://www.meiwei.com.br/products/oleo-de-gergelim-torrado-gw-1l): O Óleo de Gergelim Torrado da marca GW é um ingrediente indispensável na cozinha, trazendo um sabor intenso e aroma irresistível aos seus pratos. Ideal para finalizar saladas, marinadas e pratos orientais, este óleo adiciona um toque autêntico e sofisticado à sua culinária, realçando os sabores com sua rica essência de gergelim torrado. INGREDIENTES: Óleo de gergelim torrado INFORMAÇÃO NUTRICIONAL Porção de 13ml (1 colher de sopa) Quantidade por Porção %VD(*) Valor Energético 125kcal 6% Carboidratos 0g 0% Gorduras Totais 14g 22% Sódio 0mg 0% *Valores diários com base em uma dieta de 2000 kcal ou 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **% VD não estabelecido. Armazenar em local seco e fresco Origem: Brasil Contém 1L
+  Updated: 2026-02-16T20:35:16Z
+  Vendor: GW
+  Product Type: Óleo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/oleo-gergelim-gw.jpg?v=1724340742
   Price: R$ 99,99 BRL
 - [Mingau de tâmaras vermelhas e wolfberry - Xiduoduo 280g](https://www.meiwei.com.br/products/mingau-de-tamaras-vermelhas-e-wolfberry-xidoduo-280g): O Mingau de Tâmaras Vermelhas e Wolfberry é uma combinação nutritiva e deliciosa, tradicionalmente apreciada na culinária chinesa. Feito com tâmaras vermelhas doces e suculentas, conhecidas por suas propriedades energéticas, e wolfberries (goji berries), ricas em antioxidantes e nutrientes, esse mingau é perfeito para começar o dia com energia ou como uma refeição leve e saudável. Além de ser saboroso, oferece benefícios como o fortalecimento do sistema imunológico, melhora da circulação sanguínea e promoção da saúde da pele. INGREDIENTES: água, coco, açúcar branco, arroz glutinoso, arroz preto, feijão vermelho, aveia, grãos de cevada, açúcar mascavo, feijão mungo, tâmaras vermelhas, wolfberry. Quantidade de adição por lata: açúcar mascavo > 3g, tâmaras vermelhas > 0,5g, wolfberry > 0,5g INFORMAÇÕES NUTRICIONAIS: por 100g: Energia: 290kJ, Gordura: 0g, das quais saturadas: 0g, Carboidratos: 15,2g, Fibra: 1,2g, Proteína: 1,3g, Sal: 0g. Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 280g
   Updated: 2025-12-06T15:38:35Z
@@ -6263,7 +6935,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-picada-temperada_1.jpg?v=1725997884
   Price: R$ 114,99 BRL
 - [Vinho culinário - Qianhe 500ml](https://www.meiwei.com.br/products/vinho-culinario-qianhe-500ml): O vinho culinário é um ingrediente versátil utilizado para marinar carnes, realçar o sabor de molhos e dar um toque especial a diversos pratos. Sua acidez suave e complexidade de sabores ajudam a intensificar e equilibrar os temperos, tornando-se essencial na culinária tradicional. INGREDIENTES: água, arroz glutinoso, sal, especiarias. Teor alcóolico: 10% INFORMAÇÕES NUTRICIONAISPorção de 100ml Valor Calórico 2,4kcal Carboidratos 0,34g Proteínas 0,26g Gorduras Totais 0g Sódio 44mg Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 500ml
-  Updated: 2026-02-05T22:11:46Z
+  Updated: 2026-02-12T13:43:48Z
   Vendor: Qianhe
   Product Type: Vinho culinário
   Availability: Available
@@ -6382,7 +7054,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-pimenta-suina.jpg?v=1726242697
   Price: R$ 47,92 BRL
 - [Óleo de pimenta de videira - Wu Feng Li 1.8L](https://www.meiwei.com.br/products/oleo-de-pimenta-de-videira-wu-feng-li-1-8l): O Óleo de Pimenta de Videira Wu Feng Li é um condimento aromático e picante, feito com pimentas de videira selecionadas. Ideal para temperar pratos como salteados, ensopados e marinadas, ele acrescenta um sabor único e marcante, típico da culinária asiática. INGREDIENTES: Óleo de colza, pimenta de cana INFORMAÇÕES NUTRICIONAISPorção de 100ml Valor Calórico 3363kJ 40% Carboidratos 0g 0% Proteínas 0g 0% Gorduras Totais 90,9g 152% Sódio 0mg 0% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 1,8L
-  Updated: 2025-12-06T15:38:49Z
+  Updated: 2026-02-17T08:07:04Z
   Vendor: Wu Feng Li
   Product Type: Óleo de pimenta
   Availability: Available
@@ -6451,6 +7123,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/amendoim-cremoso.jpg?v=1726589615
   Price: R$ 24,99 BRL
+- [Semente de girassol - Da Hao Da 90g](https://www.meiwei.com.br/products/semente-de-girassol-da-hao-da-90g): As sementes de girassol são um snack nutritivo e versátil, ricas em vitaminas, minerais e ácidos graxos essenciais. Perfeitas para consumo puro, como ingrediente em saladas ou para complementar receitas diversas. INGREDIENTES: sementes de girassol, sal comestível, especiarias, aditivos alimentares (ciclamato, acessulfame de potássio, sacarina sódica, sucralose, terc-butil hidroquinona, ácido cítrico), MSG, sabores e fragrâncias alimentares. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2553kJ 30% Carboidratos 15,1g 5% Açúcares totais 0g 0% Proteínas 26,5g 45% Gorduras totais 49,8g 83% Gorduras saturadas 0g 0% Sódio 1140mg 57% Mantenha em local fresco e seco, evite a luz solar direta. Origem: China Contém 90g
+  Updated: 2026-02-13T13:39:40Z
+  Vendor: Da Hao Da
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/semente-girassol.jpg?v=1726596235
+  Price: R$ 39,99 BRL
+- [Semente de girassol sabor noz pecã - Da Hao Da 90g](https://www.meiwei.com.br/products/semente-de-girassol-sabor-noz-peca-da-hao-da-90g): As sementes de girassol sabor noz pecã combinam a crocância natural das sementes com o toque adocicado e amanteigado da noz pecã. São ideais para lanches rápidos, além de serem uma ótima opção para adicionar a saladas ou sobremesas. INGREDIENTES: sementes de girassol, açúcar branco, sal comestível, açúcar mascavo, noz-pecã, especiarias, aditivos alimentares (ciclamato, acessulfame de potássio, sacarina sódica, sucralose, vanilina, terc-butilhidroquinona, ácido cítrico), MSG, sabores e fragrâncias para alimentos. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2701kJ 32% Carboidratos 17,2g 6% Açúcares totais 0g 0% Proteínas 27g 45% Gorduras totais 52,7g 88% Gorduras saturadas 0g 0% Sódio 1200mg 60% Mantenha em local fresco e seco, evite a luz solar direta. Origem: China Contém 90g
+  Updated: 2026-02-13T13:39:37Z
+  Vendor: Da Hao Da
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/semente-girassol-noz.jpg?v=1726598448
+  Price: R$ 39,99 BRL
+- [Semente de girassol original - Da Hao Da 90g](https://www.meiwei.com.br/products/semente-de-girassol-original-da-hao-da-90g): As sementes de girassol sabor original são uma opção clássica e saudável, com sabor natural e levemente torrado. Perfeitas para petiscar a qualquer hora do dia ou para complementar receitas como saladas e iogurtes. INGREDIENTES: sementes de girassol, sal comestível. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2520kJ 30% Carboidratos 13,7g 5% Açúcares totais 0g 0% Proteínas 24,4g 41% Gorduras totais 50,6g 84% Gorduras saturadas 0g 0% Sódio 100mg 5% Mantenha em local fresco e seco, evite a luz solar direta. Origem: China Contém 90g
+  Updated: 2026-02-13T13:39:39Z
+  Vendor: Da Hao Da
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/semente-girassol-original.jpg?v=1726600381
+  Price: R$ 39,99 BRL
 - [Semente de girassol assada - Bailian 800g](https://www.meiwei.com.br/products/semente-de-girassol-assada-bailian-800g): As sementes de girassol assadas são crocantes e saborosas, perfeitas para um lanche saudável ou como complemento em saladas, granolas e pratos variados. Além do sabor agradável, são uma excelente fonte de nutrientes, como fibras e vitaminas. INGREDIENTES: Sementes de girassol, óleo, erva-doce, canela, casca de tangerina, aditivos alimentares (ciclamato, sacarina sódica, terc-butilhidroquinona). Mantenha em local fresco e seco, evite a luz solar direta. Origem: China Contém 800g
   Updated: 2025-12-06T15:38:51Z
   Vendor: Bailian
@@ -6459,7 +7152,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/semente-girassol-assada.jpg?v=1726665338
   Price: R$ 189,99 BRL
 - [Shoyu Molho de Soja Master Wei Ji Xian 5L Food Service - 味事达味极鲜特级酿造酱油](https://www.meiwei.com.br/products/shoyu-molho-de-soja-master-wei-ji-xian-5litros): O Shoyu Molho de Soja Master Wei Ji Xian 味事达味极鲜特级酿造酱油 é um shoyu chinês de alta qualidade, muito usado em cozinhas profissionais e restaurantes asiáticos. Produzido pela marca Master 味事达, é um molho de soja fermentado e especialmente formulado para realçar o umami dos pratos, deixando carnes, legumes, sopas e marinadas muito mais saborosos. Elaborado a partir de grãos de soja cuidadosamente selecionados, este shoyu tem sabor intenso, cor âmbar escura e aroma rico, ideal tanto para temperar durante o cozimento quanto para finalizar pratos. Origem País de origem: China Marca: Master 味事达 Tipo: Shoyu (molho de soja) fermentado – uso culinário geral Principais características e diferenciais Formato profissional de 5 litros, ideal para restaurantes, lanchonetes e quem cozinha em grande volume. Shoyu chinês de perfil bem umami, ideal para comida oriental e fusão. Indicado para refogados, molhos, marinadas, caldos, yakissoba, stir-fry, carnes, frango e frutos do mar. Textura fluida, fácil de dosar e misturar em receitas. Embalagem econômica de 5L, pensada para restaurantes, delivery, buffets e cozinhas que usam shoyu com frequência. Pode substituir o shoyu comum em receitas brasileiras para dar um toque mais autêntico de culinária chinesa. Lista de ingredientes INGREDIENTES: Água, sal, soja desengordurada não transgênica, glutamato monossódico, trigo, 5-ribonucleotídeo dissódico, sorbato de potássio, extrato de levedura, sucralose. Tabela nutricional INFORMAÇÕES NUTRICIONAIS Porção de 15ml Valor Calórico 43kJ 1% Proteína 1,7g 3% Gorduras Totais 0g 0% Carboidratos 0,8g 0% Sódio 1070mg 54% Receita utilizando o produto Frango salteado ao estilo chinês com Shoyu Master Wei Ji Xian Ingredientes (2–3 porções) 400 g de peito de frango em tiras finas 2 colheres (sopa) de Shoyu Master Wei Ji Xian 1 colher (sopa) de óleo (soja, milho ou amendoim) 1 colher (chá) de amido de milho 1 dente de alho picado 1 pedaço pequeno de gengibre picado (opcional) 1/2 cebola em pétalas 1/2 pimentão vermelho em tiras 1/2 pimentão verde em tiras Cebolinha picada a gosto Pimenta-do-reino a gosto Modo de preparo Em uma tigela, tempere o frango com 1 colher (sopa) de shoyu, o amido de milho e a pimenta-do-reino. Misture bem e deixe marinar por 10–15 minutos. Aqueça uma frigideira ou wok em fogo alto, adicione o óleo e refogue o alho e o gengibre rapidamente. Acrescente o frango e salteie até mudar de cor e começar a dourar. Junte a cebola e os pimentões, mexendo sempre, até ficarem levemente macios, mas ainda crocantes. Adicione a outra colher (sopa) de Shoyu Master Wei Ji Xian, ajuste o sal se necessário e misture bem. Finalize com cebolinha picada e sirva imediatamente com arroz branco ou yakimeshi. Instruções de armazenamento Antes de abrir: conservar em local seco, fresco e ao abrigo da luz solar direta. Após aberto: manter a embalagem bem fechada e armazenar em geladeira ou em local fresco e arejado, consumir preferencialmente em até 3 meses. Não consumir se a embalagem estiver violada, estufada ou com alterações de cor, odor ou sabor.
-  Updated: 2025-12-23T17:34:08Z
+  Updated: 2026-02-15T11:24:21Z
   Vendor: Master
   Product Type: Molho de Soja
   Availability: Available
@@ -6648,7 +7341,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/agente-composto-bicarbonato.jpg?v=1727125424
   Price: R$ 29,99 BRL
 - [Casca de laranja desidratada - Hein 100g](https://www.meiwei.com.br/products/casca-de-laranja-desidratada-hein-100g): A Casca de Laranja Desidratada é um ingrediente versátil utilizado em diversas preparações culinárias e fitoterápicas. Rica em fibras, vitamina C e antioxidantes, ela traz um sabor cítrico intenso e levemente amargo. Pode ser utilizada para aromatizar chás, temperos, doces e até marinadas, conferindo um toque fresco e perfumado aos pratos. Além de suas aplicações culinárias, a casca de laranja desidratada é conhecida por seus benefícios digestivos, ajudando a aliviar desconfortos gastrointestinais e promovendo a saúde geral do sistema digestivo. INGREDIENTES: Casca de laranja desidratada Armazenar em local fresco, ventilado e seco. Origem: China Contém 100g
-  Updated: 2026-01-11T22:23:36Z
+  Updated: 2026-02-12T00:56:16Z
   Vendor: Hein
   Product Type: Chá
   Availability: Available
@@ -6787,6 +7480,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-arroz-preto-glutinoso.jpg?v=1727457156
   Price: R$ 110,99 BRL
+- [Pimenta vermelha desidratada (Tianjin chilli) - Guangdong 500g](https://www.meiwei.com.br/products/pimenta-vermelha-desidratada-tianjin-chilli-guangdong-500g): A pimenta vermelha desidratada Tianjin é uma variedade tradicionalmente usada na culinária chinesa, conhecida por seu sabor picante e aroma marcante. Comumente usada em pratos como stir-fry, sopas e marinadas, ela também é ideal para fazer óleos de pimenta e temperos. Além de adicionar calor aos pratos, essa pimenta também proporciona um toque de autenticidade às receitas asiáticas. INGREDIENTES: Pimenta vermelha desidratada Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 500g
+  Updated: 2026-02-13T13:36:17Z
+  Vendor: Guangdong
+  Product Type: Pimenta
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-chili-vermelha.jpg?v=1727702797
+  Price: R$ 119,99 BRL
 - [Tempero de pimenta - Lin Zhai Ji 400g](https://www.meiwei.com.br/products/tempero-de-pimenta-lin-zhai-ji-400g): O tempero de pimenta é uma solução concentrada que traz o calor picante da pimenta de forma prática para adicionar sabor a pratos variados. Ideal para marinadas, molhos, sopas ou para finalizar receitas, ele proporciona um toque de ardência equilibrada e versátil. INGREDIENTES: água potável, molho de soja fermentado (água potável, soja, sal comestível, trigo), sal comestível, açúcar branco, cor caramelo, goma xantana, ácido graxo sacarose, oleorresina de capsicum, nucleotídeo com sabor 5' Sabores dissódicos para alimentos, ácido acético glacial, sorbato de potássio, pimenta. Manter em local seco e arejado, após aberto, manter sob refrigeração. Origem: China Contém 180ml
   Updated: 2025-12-21T03:07:28Z
   Vendor: Lin Zhai Ji
@@ -6921,12 +7621,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-soja-macarrao.jpg?v=1727806788
   Price: R$ 45,90 BRL
 - [Raiz Fo-Ti (Fallopia Multiflora) - D.M.D 227g](https://www.meiwei.com.br/products/raiz-de-fo-ti-fleece-flower-root-d-m-d-227g): A Falopia Multiflora (Polygonum multiflorum desidratada), também conhecida como raiz de Fo-Ti ou He Shou Wu (何首乌), é uma planta tradicionalmente usada na medicina chinesa. Sua raiz é valorizada por suas supostas propriedades rejuvenescedoras e é amplamente utilizada para promover a longevidade, fortalecer o cabelo, melhorar a vitalidade e tratar diversos problemas de saúde. Na medicina tradicional, ela é usada para apoiar a saúde do fígado e dos rins, além de ajudar a equilibrar os níveis de energia. A fleeceflower root pode ser encontrada em forma de pó, cápsulas ou extrato e é comumente usada em chás e tônicos. INSTRUÇÕES: Lave bem a raiz para remover qualquer resíduo. Coloque a raiz em uma panela com o litro de água. Leve a água para ferver e, em seguida, reduza o fogo para deixar cozinhar em fogo baixo. Deixe a raiz ferver lentamente por 30 minutos a 1 hora, permitindo que seus componentes se infundam na água. Após o tempo de fervura, coe o chá para remover a raiz. COMO CONSUMIR: Beba o chá quente ou morno, dividindo em porções ao longo do dia. O sabor pode ser ligeiramente terroso e amargo, então é comum adoçar com mel ou adicionar outras ervas para suavizar o sabor. INGREDIENTES: Fleeceflower root INFORMAÇÕES NUTRICIONAISPorção de 20g Valor Calórico 2kcal 0% Carboidratos totais 0g 0% Proteínas 0,2g 0% Gorduras totais 0g 0% Sódio 13mg 1% Armazenar em local fresco, ventilado e seco. Origem: China Contém 227g
-  Updated: 2026-02-10T15:37:24Z
+  Updated: 2026-02-11T16:01:49Z
   Vendor: D.M.D Bridge Brand
   Product Type: Chá
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/fleeceflower-root_2.jpg?v=1727812204
-  Price: R$ 39,99 BRL
+  Price: R$ 79,80 BRL
 - [Casca de tangerina desidratada - D.M.D 60g](https://www.meiwei.com.br/products/casca-de-tangerina-desidratada-d-m-d-60g): A casca de tangerina desidratada é um ingrediente aromático e nutritivo amplamente utilizado na culinária e na medicina tradicional, especialmente na China. Rica em antioxidantes, fibras e vitamina C, ela oferece benefícios digestivos, melhora a saúde respiratória e auxilia no fortalecimento do sistema imunológico. Com seu sabor cítrico e levemente amargo, a casca de tangerina desidratada pode ser utilizada em chás, marinadas, sobremesas e até em pratos salgados, como caldos e ensopados, adicionando um toque especial de sabor e aroma às receitas. INGREDIENTES: Casca de tangerina desidratada NÃO CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 5g Valor Calórico 0kcal 0% Carboidratos totais 0g 0% Proteínas 0g 0% Gorduras totais 0g 0% Fibra Alimentar 2g 8% Sódio 0mg 0% Armazenar em local fresco, ventilado e seco. Recomenda-se mantê-lo fresco sob refrigeração. Origem: China Contém 60g
   Updated: 2026-02-01T19:56:46Z
   Vendor: D.M.D Bridge Brand
@@ -7159,7 +7859,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-morango_1.jpg?v=1729087818
   Price: R$ 17,08 BRL
 - [Biscoito ao leite recheado sabor chocolate Pokémon 52g](https://www.meiwei.com.br/products/biscoito-ao-leite-recheado-sabor-chocolate-pokemon-52g): O biscoito ao leite recheado sabor chocolate Pokémon é um lanche delicioso que une a leveza do biscoito ao leite com um recheio cremoso de chocolate. Com a temática divertida dos personagens Pokémon, esse biscoito é perfeito para fãs de todas as idades, oferecendo um equilíbrio irresistível entre a crocância do biscoito e a intensidade do chocolate. Ideal para lanches rápidos ou sobremesas, proporciona uma experiência doce e indulgente a qualquer momento. INGREDIENTES: Farinha de trigo, açúcar, óleo vegetal, leite em pó, soro de leite, cacau em pó, sal, sabor alimentar, aditivos alimentares. CONTÉM GLÚTEN INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2076kJ 25% Carboidratos totais 68,1g 23% Proteínas 5,7g 10% Gorduras totais 22,2g 37% Sódio 120mg 6% Conservar em local seco e arejado. Origem: China Contém 52g
-  Updated: 2026-01-30T11:29:26Z
+  Updated: 2026-02-15T02:09:02Z
   Vendor: Lotte
   Product Type: Doce
   Availability: Available
@@ -7341,7 +8041,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/massaman-curry-cock.jpg?v=1730134475
   Price: R$ 64,90 BRL
 - [Pasta de Curry verde (Green Curry Paste) - Cock Brand 400g](https://www.meiwei.com.br/products/pasta-de-curry-verde-green-curry-cock-brand-400g): A pasta de curry verde é uma mistura aromática e picante, típica da culinária tailandesa, feita com ingredientes frescos como pimentas verdes, ervas, alho, gengibre e, muitas vezes, folhas de limão kaffir. Conhecida por seu sabor vibrante e intensidade, essa pasta é ideal para preparar curries, sopas e marinadas, proporcionando um calor refrescante e uma profundidade de sabor. O curry verde combina perfeitamente com carnes, frutos do mar e vegetais, sendo uma escolha popular para quem busca um prato tailandês autêntico e cheio de vida. INGREDIENTES: Pimenta verde fresca 33%, capim-limao, alho, cebolinha, sal, galangal, cominho, sementes de coentro. Manter em local fresco e arejado. Após aberto, manter sob refrigeração. Origem: Tailândia Contém 400g
-  Updated: 2026-02-04T06:53:21Z
+  Updated: 2026-02-12T22:11:36Z
   Vendor: Cock Brand
   Product Type: Condimento
   Availability: Available
@@ -7537,11 +8237,11 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-carne-picante.jpg?v=1730986257
   Price: R$ 29,99 BRL
 - [Castanha d'água enlatada - Tianhuole 425g](https://www.meiwei.com.br/products/castanha-dagua-enlatada-tianhuole-400g): A castanha d'água enlatada é um ingrediente versátil e crocante, popular na culinária asiática, especialmente em pratos como stir-frys, saladas e recheios. Com um sabor suave e textura crocante que se mantém mesmo após o cozimento, ela adiciona um contraste interessante a diversas receitas. As castanhas d'água enlatadas são práticas e prontas para uso, ideais para incrementar receitas com um toque fresco e delicado. INGREDIENTES: Castanha d'água, água com açúcar, aditivos alimentares. Conteúdo líquido: 425g Conteúdo sólido: _>35% Sólidos solúveis: 8%-18% Armazenar em local fresco e seco, longe da luz solar direta, após aberta, manter refrigerada. Origem: China Contém 425g
-  Updated: 2026-02-09T17:18:26Z
+  Updated: 2026-02-16T18:47:39Z
   Vendor: QiaoTou
   Product Type: Conserva
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/castanha-dagua-enlatada.jpg?v=1730999563
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-castanha-dagua-enlatada-tianhuole-425g-conserva-oriental.png?v=1770993206
   Price: R$ 45,99 BRL
 - [Mostarda em conserva de pimenta Hua Jiao de Sichuan - Hetang 370g](https://www.meiwei.com.br/products/mostarda-em-conserva-hetang-370g): O tubérculo de mostarda em conserva de Sichuan é um ingrediente fermentado e picante, típico da culinária chinesa, especialmente da província de Sichuan. Conhecido por seu sabor salgado, levemente ácido e com um toque de umami, ele é usado para adicionar profundidade e um sabor intenso a pratos como stir-frys, sopas, arroz frito e noodles. Esse ingrediente é ideal para quem busca um toque autêntico e complexo, elevando o sabor dos pratos com uma nota picante e aromática que caracteriza a culinária de Sichuan. INGREDIENTES: Tubérculo de mostarda em conserva de Sichuan 59%, pimenta, sal, óleo de gergelim Armazenar em local fresco e seco, longe da luz solar direta, após aberta, manter refrigerada. Origem: China Contém 370g
   Updated: 2026-02-09T22:03:51Z
@@ -7676,13 +8376,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mostarda-em-conserva-330g-apimentada.jpg?v=1731432132
   Price: R$ 39,99 BRL
-- [Cogumelo agulha (Enoki) com broto de bambu - Jiancmen 210g](https://www.meiwei.com.br/products/cogumelo-enoki-c-broto-de-bambu-jiancmen-210g): O cogumelo Enoki com broto de bambu combina a textura delicada e suave dos finos cogumelos Enoki com o frescor e a crocância dos brotos de bambu, resultando em um prato leve e saboroso. Esse mix é popular em várias cozinhas asiáticas, onde é apreciado em salteados, sopas e cozidos, trazendo um sabor levemente terroso e um toque vegetal ao prato. Ideal para acompanhar arroz, noodles ou carnes, essa combinação é uma opção nutritiva e saborosa que agrega textura e um toque sofisticado a diversas receitas. INGREDIENTES: Tiras de bambu, cogumelo agulha (enoki), mostarda, beterraba, repolho, sal, óleo vegetal, óleo de gergelim, glutamato monossódico (INS621), inosinato dissódico (INS626), citrato dissódico. CONTÉM GLÚTEN ALÉRGICOS CONTÉM DERIVADO DE SOJA, TRIGO, CRUSTÁCEO E GERGELIM Armazenar em local fresco e seco, longe da luz solar direta, após aberta, manter refrigerada. Origem: China Contém 210g
-  Updated: 2026-02-09T22:03:51Z
-  Vendor: Jiancmen
-  Product Type: Conserva
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bambu-enoki.jpg?v=1731436906
-  Price: R$ 55,99 BRL
 - [Molho Hoisin Chinês Food Service Haitian 7kg – 海天 海鲜酱（酿造酱)](https://www.meiwei.com.br/products/molho-hoisin-haday-7kg): O Molho Hoisin Chinês Haitan 7kg 海天 海鲜酱（酿造酱） é um clássico da culinária chinesa em embalagem profissional, ideal para restaurantes, deliveries, buffets e cozinhas que usam hoisin com frequência. Produzido na China pela tradicional marca 海天 (Haitan/Haitian), líder em molhos fermentados, este hoisin é um molho: de cor marrom escura, espesso e brilhante sabor doce, salgado e levemente defumado, com forte presença de soja fermentada notas de alho, gergelim, especiarias e umami intenso Indicado para: yakissoba, chow mein e outros stir‑fry na wok pincelar em frango, pato, porco ou costela antes de assar ou grelhar base de molhos para rolinho primavera, guioza, frango frito pratos cantoneses como pato ou frango com hoisin, e sanduíches ao estilo asiático Em balde de 7kg, com tampa rosqueável, é econômico e prático para uso constante em cozinhas profissionais. INGREDIENTES: Áaçúcar branco, água, soja não transgênica, farinha de trigo, sal comestível, alho desidratado, óleo de amendoim, arroz com fermento vermelho, goma xantana. Receita sugerida usando o Molho Hoisin Haitan Frango Salteado com Legumes ao Molho Hoisin Ingredientes (2–3 porções) 300 g de peito de frango em tiras 3 colheres (sopa) de Molho Hoisin Haitan 海天 海鲜酱 1 colher (sopa) de shoyu 1 colher (chá) de óleo de gergelim (opcional) 1 dente de alho picado 1/2 cebola em pétalas 1/2 pimentão vermelho em tiras 1 cenoura em tiras finas 2 colheres (sopa) de óleo vegetal 2–3 colheres (sopa) de água Cebolinha picada para finalizar Modo de preparo Misture o frango com 1 colher (sopa) de hoisin e o shoyu. Deixe marinar por 15–20 minutos. Aqueça o óleo em fogo alto na wok ou frigideira. Doure o frango rapidamente e reserve. Na mesma panela, adicione um fio de óleo se necessário e refogue alho, cebola, cenoura e pimentão por 2–3 minutos. Volte o frango à panela, junte o restante do molho hoisin, a água e o óleo de gergelim. Mexa até envolver bem e o molho encorpar. Finalize com cebolinha picada e sirva com arroz branco ou macarrão oriental. Como armazenar Antes de aberto: Manter o balde bem fechado, em local fresco, seco, ao abrigo da luz solar direta e longe de fontes de calor. Não congelar. Depois de aberto: Conservar bem tampado, de preferência em geladeira (entre 2°C e 8°C). Usar utensílios sempre limpos e secos ao retirar o produto. Consumir preferencialmente em até 3 meses após a abertura ou conforme instrução do fabricante.
   Updated: 2025-12-21T00:58:10Z
   Vendor: Haday（海天）
@@ -7733,7 +8426,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/furikake-peixe.jpg?v=1731522502
   Price: R$ 24,99 BRL
 - [Furikake Yukari tempero para arroz folhas de gergelim - Daiso 22g](https://www.meiwei.com.br/products/furikake-yukari-tempero-p-arroz-folhas-de-gergelim-daiso-22g): O Furikake Yukari é um tempero japonês especial para arroz, feito com folhas de shiso (perilla) e gergelim, conhecido por seu sabor aromático e ligeiramente ácido. Ele é ideal para adicionar um toque refrescante e levemente cítrico ao arroz quente, além de ser versátil para temperar saladas, sopas e macarrão. O Yukari furikake é uma opção prática e saborosa para realçar pratos simples, trazendo o sabor autêntico e vibrante da culinária japonesa. INGREDIENTES: Folhas de gergelim salgadas (folhas de gergelim, sal, vinagre de ameixa japonesa), sal, açúcar, realçadores de sabor (glutamato monossódico, 5'-ribonucleotideo dissódico), acidulante (ácido málico). NÃO CONTÉM GLÚTEN NÃO CONTÉM LACTOSE INFORMAÇÕES NUTRICIONAIS Porção de 1g Valor Calórico 2kcal 0% Carboidratos 0,4g 0% Açúcares Totais 0,2g 0% Açúcares Adicionados 0,2g 0% Proteínas 0,1g 0% Gorduras Totais 0g 0% Fibra Alimentar 0,1g 0% Sódio 190mg 10% Manter em local seco e arejado. Após aberto, manter a embalagem bem vedada. Origem: Japão Contém 22g
-  Updated: 2026-01-30T13:32:00Z
+  Updated: 2026-02-12T22:11:36Z
   Vendor: Daiso
   Product Type: Tempero
   Availability: Available
@@ -7774,8 +8467,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-carne-macarrao.jpg?v=1731938272
   Price: R$ 59,99 BRL
+- [Rosas em botão desidratadas - Guangdong 100g](https://www.meiwei.com.br/products/cha-de-rosas-em-botao-guangdong-100g): O chá de botões de rosa pode melhorar sua saúde e bem-estar, além de trazer um toque especial à decoração. Esta infusão, rica em antioxidantes e propriedades calmantes, alivia o estresse e promove uma pele saudável. E mais: os botões de rosa são perfeitos para decorar pratos e ambientes. INGREDIENTES: Rosas em botão Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 100g
+  Updated: 2026-02-14T20:49:21Z
+  Vendor: Guangdong
+  Product Type: Chá
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-rosas-botao.jpg?v=1731940437
+  Price: R$ 75,99 BRL
 - [Pasta de pimenta Coreana Gochujang - CJ Bibigo 500g](https://www.meiwei.com.br/products/pasta-de-pimenta-gochujang-cj-bibigo-500g): A Pasta de Pimenta Gochujang é um ingrediente tradicional coreano, feito à base de pimenta fermentada, arroz glutinoso e soja. Possui um sabor marcante que equilibra o picante, o doce e o umami, sendo indispensável em pratos como bibimbap, tteokbokki e marinadas. Além de temperar, é ideal para dar profundidade e riqueza a sopas, ensopados e molhos, proporcionando um toque autêntico da culinária coreana. INGREDIENTES: Xarope de milho, pasta de pimenta vermelha 25% (pimenta vermelha em pó, água, sal, cebola, alho, amido de milho), água, farinha de trigo, pó de arroz, trigo, sal, álcool destilado (contém trigo, cevada), soja, pó de soja, arroz glutinoso, koji. Armazenar em local fresco e seco, longe da luz solar direta, após aberta, manter refrigerada. Origem: Coréia do Sul Contém 500g
-  Updated: 2026-02-06T17:35:41Z
+  Updated: 2026-02-13T19:52:07Z
   Vendor: CJ Bibigo
   Product Type: Molho de Pimenta（辣椒酱）
   Availability: Available
@@ -7830,13 +8530,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-want-want-crocante.jpg?v=1732197219
   Price: R$ 25,90 BRL
-- [Biscoito de arroz doce Shelly Senbei - Want Want 84g](https://www.meiwei.com.br/products/biscoito-de-arroz-doce-shelly-senbei-want-want-84g): O Biscoito de Arroz Shelly Senbei Want Want é um clássico snack asiático com uma camada leve de açúcar doce que equilibra perfeitamente o sabor crocante e delicado do arroz. Ideal para acompanhar um chá da tarde, como sobremesa leve ou para compartilhar em momentos descontraídos, é uma escolha irresistível para quem busca um doce sabor oriental com uma textura única. INGREDIENTES: Arroz, Amido de Milho, Amido de Batata, Açúcar, Óleo de Palma, Gelatina, Sal, Intensificador de Sabor (Glutamato Monossódico/E621, 5'-Inosinato Dissódico/E631, 5'-Guanilato Dissódico/E627), Regulador de Acidez (Citrato de Sódio/ E331). Conservar em local seco e arejado. Origem: China Contém 84g
-  Updated: 2025-12-17T00:07:01Z
-  Vendor: Want Want
-  Product Type: Doce
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-want-want-redonda.jpg?v=1732198465
-  Price: R$ 23,99 BRL
 - [Mochi recheado sabor uva verde - Yuanqi Wanzi 180g](https://www.meiwei.com.br/products/mochi-recheado-sabor-uva-verde-yuanqi-wanzi-180g): O Mochi sabor Uva Verde combina a suavidade e elasticidade do tradicional bolinho de arroz japonês com o sabor refrescante e adocicado da uva verde. Perfeito como sobremesa, lanche ou acompanhamento para chás e cafés, oferece uma experiência única que mistura tradição e um toque frutado contemporâneo. INGREDIENTES: xarope de trigo, água, açúcar, cloridrato, farinha de arroz, amido, corante alimentar, aditivos alimentares (glutamato monossódico, ácido de pêra), aromatizante idêntico ao natural Conservar em local seco e arejado. Origem: China Contém 180g
   Updated: 2026-02-08T16:50:32Z
   Vendor: Yuanqi Wanzi
@@ -7845,7 +8538,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mochi-recheado-uva-verde.jpg?v=1732199959
   Price: R$ 32,99 BRL
 - [Mochi recheado sabor morango - Yuanqi Wanzi 180g](https://www.meiwei.com.br/products/mochi-recheado-sabor-morango-yuanqi-wanzi-180g): O Mochi sabor Morango combina a textura suave e elástica do tradicional bolinho de arroz japonês com o frescor e a doçura marcante do morango. Perfeito como sobremesa, acompanhamento para chás ou como um lanche doce e delicado, é uma experiência única que une tradição e o sabor irresistível da fruta. INGREDIENTES: Xarope de maltose, amido, geléia de morango (10%), água potável, pó glutinoso, açúcar branco, óleo de gergelim hidrogenado (contendo sorbato de potássio), aditivos alimentares (sorbitol líquido, seamato de sódio, sorbato monossódico) Estearato de glicerila, ácido de frutas DL Desidroacetato de sódio, beterraba), sabores alimentares. Conservar em local seco e arejado. Origem: China Contém 180g
-  Updated: 2025-12-23T17:34:29Z
+  Updated: 2026-02-13T11:37:29Z
   Vendor: Yuanqi Wanzi
   Product Type: Doce
   Availability: Available
@@ -8096,12 +8789,33 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-Tan-Tan-Xiang.jpg?v=1733861981
   Price: R$ 39,99 BRL
+- [Vinho culinário cebolinha e gengibre - Haday 800ml](https://www.meiwei.com.br/products/vinho-culinario-cebolinha-e-gengibre-haday-800ml): Vinho Culinário Cebolinha e Gengibre é um ingrediente essencial na gastronomia asiática, especialmente em receitas chinesas, onde realça o sabor das carnes, frutos do mar e legumes. Combinando vinho de arroz com os aromas frescos da cebolinha e o toque picante do gengibre, é ideal para marinadas, cozidos e refogados, proporcionando um sabor profundo e aromático aos pratos. Perfeito para preparar peixes, frangos e carnes com um toque autêntico e sofisticado, este vinho culinário transforma receitas simples em experiências gastronômicas memoráveis. INGREDIENTES: água, vinho de arroz, álcool comestível, sal, glutamato de sódio, corante caramelo. Teor de álcool: _>10,0%vol Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 800ml
+  Updated: 2026-02-13T13:29:07Z
+  Vendor: Haday（海天）
+  Product Type: Vinho culinário
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-haday-800ml.jpg?v=1734454815
+  Price: R$ 49,99 BRL
 - [Vinho culinário de especiarias para peixe 500ml](https://www.meiwei.com.br/products/vinho-culinario-p-peixe-500ml): Vinho Culinário para Peixe é um ingrediente tradicional na culinária asiática, especialmente desenvolvido para realçar o sabor de pratos à base de peixe e frutos do mar. Com um toque suave e aromático, ajuda a neutralizar odores fortes de peixes frescos e realça a textura delicada das carnes. Ideal para marinadas, cozimentos a vapor, refogados e preparos grelhados, este vinho traz profundidade de sabor e leveza ao prato. Perfeito para receitas como peixe no vapor com gengibre e cebolinha, ensopados e frutos do mar ao estilo oriental. O Vinho Culinário de Especiarias para Peixe é um ingrediente essencial para realçar o sabor de pratos à base de frutos do mar. Feito com uma cuidadosa seleção de especiarias aromáticas, ele ajuda a eliminar odores indesejados e intensifica o sabor natural do peixe, trazendo notas complexas e um aroma irresistível. Ideal para marinadas, cozidos, grelhados ou assados, esse vinho culinário é um aliado perfeito para criar receitas sofisticadas e cheias de sabor. Transforme suas preparações com um toque especial e eleve sua experiência gastronômica. INGREDIENTES: Água Jianhu, arroz glutinoso, trigo, gengibre, louro, pimenta e outras especiarias, padrão de implementação de cor caramelo: Q/SST0003S (tipo sem sal). Teor de álcool _>15,5% vol Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 500ml
   Updated: 2025-12-06T15:39:49Z
   Vendor: Mei Wei
   Product Type: Vinho culinário
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-peixe-especiarias.jpg?v=1734456111
+  Price: R$ 49,99 BRL
+- [Vinho de arroz (Shaoxing) - Lao Heng He 500ml](https://www.meiwei.com.br/products/vinho-culinario-shaoxing-lao-heng-he-500ml): Vinho Culinário Shaoxing é um dos ingredientes mais tradicionais da culinária chinesa, originário da região de Shaoxing, na China. Este vinho de arroz possui um sabor encorpado e aroma único, ideal para marinadas, cozidos, refogados e sopas, conferindo uma profundidade de sabor incomparável aos pratos. Amplamente usado em receitas clássicas, como frango ao molho de Shaoxing, peixe no vapor e carne de porco estufada, ele também é essencial para preparar pratos sofisticados da culinária oriental, equilibrando sabores salgados e doces. Um ingrediente indispensável na cozinha para realçar a autenticidade das suas criações! INGREDIENTES: Água, arroz, trigo, sal comestível, especiarias, aditivos alimentares. Teor de álcool: ≥10,0% vol Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 500ml
+  Updated: 2026-02-13T13:29:07Z
+  Vendor: Lao Heng He
+  Product Type: Vinho culinário
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-shao.jpg?v=1734456884
+  Price: R$ 49,99 BRL
+- [Vinho de arroz envelhecido 5 anos - Zhejiang 500ml](https://www.meiwei.com.br/products/vinho-de-arroz-envelhecido-5-anos-zhejiang-500ml): Vinho de Arroz Envelhecido 5 Anos é uma versão premium do tradicional vinho de arroz chinês, com sabor mais complexo e aroma profundo devido ao seu longo processo de envelhecimento. Este ingrediente é perfeito para aprimorar marinadas, guisados e refogados, além de ser um excelente complemento para pratos como frango ao molho Shaoxing, peixe no vapor e carne de porco caramelizada. Sua riqueza de sabor torna-o essencial para receitas sofisticadas, trazendo um toque autêntico e refinado à culinária oriental. Ideal para chefs e entusiastas que buscam elevar suas preparações com um ingrediente de alta qualidade! INGREDIENTES: Vinho de arroz envelhecido, água, anis estrelado, canela, pimenta, casca de tangerina, especiarias, sal e aditivos alimentares. Informações Alérgicas: Contém glúten, soja e ingredientes lácteos. Informação Nutricional Porção: 100ml Componente Quantidade por 100ml %VD* Energia 47 kJ 1% Proteína 0,5 g 1% Gordura 0,5 g 1% Carboidrato 2,0 g 2% Sódio 42 mg 2% *% Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 500ml
+  Updated: 2026-02-13T13:29:07Z
+  Vendor: Zhejiang
+  Product Type: Vinho de arroz
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinho-5anos.jpg?v=1734457314
   Price: R$ 49,99 BRL
 - [Shoyu Molho de soja escuro - Kwong Cheong Thye 640ml](https://www.meiwei.com.br/products/molho-de-soja-escuro-kwong-cheong-thye-640ml): Molho de Soja Escuro é um condimento tradicional da culinária asiática, conhecido por sua cor intensa, sabor profundo e leve doçura. Com uma textura mais encorpada do que o molho de soja comum, ele é ideal para realçar a aparência e o sabor de pratos cozidos ou ensopados, como porco caramelizado, arroz frito, frango assado e refogados de vegetais. Além de proporcionar uma coloração rica aos alimentos, ele adiciona um toque umami irresistível, tornando suas receitas mais atraentes e saborosas. INGREDIENTES: Água potável, sal comestível, açúcar branco, xarope de milho rico em frutose, molho de soja fermentado, álcool comestível, aditivos alimentares (ribonucleotídeos dissódicos, corante caramelo, ácido cítrico, pigmento vermelho-alaranjado, acessulfame de potássio, goma xantana, glutamato de sódio, sorbato de potássio, benzoato de sódio) e aromas alimentares. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1003kJ 12% Proteína 4,9g 8% Gorduras Totais 1,1g 2% Carboidratos 51,7g 17% Sódio 5728mg 286% Armazenar em local fresco e seco, longe da luz solar direta. Origem: China Contém 640ml
   Updated: 2026-02-04T15:45:34Z
@@ -8124,8 +8838,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-soja-golden-light-500.jpg?v=1734552276
   Price: R$ 44,99 BRL
+- [Licor Moutai de trigo sarraceno dourado MaoPu 42% - Jing 500ml](https://www.meiwei.com.br/products/licor-moutai-de-trigo-sarraceno-dourado-maopu-42-jing-500ml): O licor Moutai de trigo sarraceno Maopu é uma mistura de três tipos de aroma de baijiu — licor aromático suave, forte e de molho de soja. O sabor é perfumado e suave, ao mesmo tempo em que é doce e persistente, o que supera as deficiências do licor de sabor único tanto em seu gosto quanto em seu sabor. Comparado ao tradicional baijiu chinês, que tem um gosto pungente e ardente, os destilados de trigo sarraceno têm um sabor harmonioso. Tem um gosto mais suave e encorpado, com um cheiro transbordante. Também inclui extratos de ervas ricas, como raiz de Kudzu, goji berry, espinheiro e Siraitia grosvenorii, todos contendo uma variedade de ingredientes ativos. Esses ingredientes podem reduzir os danos do álcool no fígado e também ajudar a reduzir os lipídios do sangue. O trigo sarraceno Maopu demonstrou fazer as pessoas se sentirem mais confortáveis ​​e relaxadas. Tipo de fragrância: fragrância forte INGREDIENTES: Água, trigo sarraceno tartário, raiz de kudzu, wolfberry, baga de goji berry e Siraitia grosvenorii. Condições de armazenamento: local seco, ventilado, fresco Álcool 42% vol Origem: China Contém 500ml
+  Updated: 2026-02-13T14:04:37Z
+  Vendor: Jing
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-42.jpg?v=1734615399
+  Price: R$ 399,99 BRL
+- [Licor Moutai sabor LuzHou 52% - Wuliangye Yibin 500ml](https://www.meiwei.com.br/products/licor-moutai-sabor-luzhou-52-wuliangye-yibin-500ml): Licor Moutai Sabor Luzhou 52% é uma bebida alcoólica tradicional chinesa, conhecida por seu aroma rico e sabor encorpado. Este licor é produzido com técnicas de fermentação e destilação clássicas da região de Luzhou, utilizando grãos selecionados para criar uma bebida de alta intensidade e complexidade. Com um teor alcoólico de 52%, é ideal para celebrações, brindes e ocasiões especiais. Pode ser apreciado puro para saborear suas notas profundas e levemente adocicadas ou utilizado como base para coquetéis inovadores. É uma escolha que reflete a rica herança das bebidas espirituosas chinesas. Tipo de fragrância: fragrância forte INGREDIENTES: Água, sorgo, arroz, arroz glutinoso, trigo, milho. Condições de armazenamento: local seco, ventilado, fresco Álcool 52% vol Origem: China Contém 500ml
+  Updated: 2026-02-13T14:04:37Z
+  Vendor: Wuliangye Yibin
+  Product Type: Bebida Alcóolica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/licor-52-caixa.jpg?v=1734616852
+  Price: R$ 399,99 BRL
 - [Feijão Douchi Tauci - Yangjiang 400g](https://www.meiwei.com.br/products/tempeh-de-feijao-douchi-yangjiang-400g): Com sabor intenso, salgado e umami, é perfeito para enriquecer pratos como peixes no vapor, carnes salteadas e vegetais. Amplamente utilizado em molhos e marinadas, o Douchi Yangjiang é ideal para criar receitas autênticas, como o clássico molho de feijão preto chinês. É um ingrediente indispensável para adicionar profundidade e complexidade às preparações, proporcionando um toque autêntico às criações culinárias. INGREDIENTES: Feijão preto, água, sal comestível. Lave com água antes de usar para cozinhar e temperar. Armazenar em local seco e arejado. Não precisa de refrigeração após aberto. Origem: China Contém 400g
-  Updated: 2026-02-10T13:52:23Z
+  Updated: 2026-02-15T18:13:21Z
   Vendor: Guangdong Yangjiang
   Product Type: Condimento
   Availability: Available
@@ -8243,6 +8971,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarino-portatil-dourado.jpg?v=1735937464
   Price: R$ 99,99 BRL
+- [Óleo de gergelim nativo 100% puro - Haday 250ml](https://www.meiwei.com.br/products/oleo-de-gergelim-nativo-100-puro-haday-250ml): Este óleo de gergelim 100% puro da marca Haday é um ingrediente essencial para realçar o sabor e o aroma de pratos orientais e internacionais. Ideal para finalização de receitas como saladas, sopas, macarrões e refogados, ele adiciona um toque distinto de nozes torradas. Além do sabor marcante, o óleo de gergelim é rico em antioxidantes, vitaminas E e K, contribuindo para uma alimentação mais saudável. INGREDIENTES: Óleo de gergelim Manter em local seco e arejado, após aberto, manter sob refrigeração. Origem: China Contém 250ml
+  Updated: 2026-02-13T13:29:08Z
+  Vendor: Haday（海天）
+  Product Type: Óleo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/100-puro-gergelim.jpg?v=1736258903
+  Price: R$ 78,90 BRL
 - [Molho para Char Siu - Haday 280g](https://www.meiwei.com.br/products/molho-p-char-siu-haday-280g): Especialmente formulado para preparar o famoso prato chinês Char Siu, este molho oferece um equilíbrio perfeito entre doçura e salgado, com um toque caramelizado irresistível. Ideal para marinar e assar carnes de porco, frango ou costelas, proporciona cor vibrante e sabor autêntico às suas receitas. Versátil, também pode ser usado como base para molhos ou para realçar o sabor em pratos grelhados e salteados. Transforme suas criações culinárias com a tradição e qualidade da marca Haday. INGREDIENTES: Água potável 35%, molho de soja 48%, alho 14%, vinagre, glicose, sal, adoçante, espessante, intensificador de sabor, conservante, corante, sabor alimentar. Manter em local seco e arejado, após aberto, manter sob refrigeração. Origem: China Contém 280g
   Updated: 2026-02-05T14:38:28Z
   Vendor: Haday（海天）
@@ -8314,7 +9049,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-ameixa-acucar.jpg?v=1736369957
   Price: R$ 21,99 BRL
 - [Chá misto de Kumquat e maracujá - Jiliangmu 60g](https://www.meiwei.com.br/products/cha-misto-de-kumquat-e-maracuja-jiliangmu-60g): O chá misto de kumquat e maracujá combina a doçura cítrica do kumquat, uma pequena fruta cítrica rica em vitamina C com casca comestível, e o sabor tropical e levemente ácido do maracujá, criando uma bebida refrescante e aromática. Repleto de antioxidantes e propriedades calmantes, este chá auxilia no fortalecimento da imunidade, promove a digestão e ajuda a aliviar o estresse. Perfeito para ser apreciado quente ou gelado em qualquer momento do dia. INGREDIENTES: Açúcar cristal único, kumquats secos, limões secos, maracujá seco. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1592kJ 19% Carboidratos 88,9g 30% Proteínas 2,8g 5% Gorduras Totais 0,9g 2% Sódio 6mg 0% Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém: 60g
-  Updated: 2025-12-06T15:40:00Z
+  Updated: 2026-02-17T18:50:17Z
   Vendor: Jiliangmu
   Product Type: Chá
   Availability: Available
@@ -8405,7 +9140,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/tofu-fermantado-apimentado.jpg?v=1736796873
   Price: R$ 32,99 BRL
 - [Feijão preto fermentado (Douchi Tauci) - Yangjiang 400g](https://www.meiwei.com.br/products/feijao-preto-em-fermentado-yangjiang-400g): O Feijão Preto Fermentado (Yang Jiang Dou Chi) é um ingrediente tradicional da culinária chinesa, conhecido pelo seu sabor rico, salgado e levemente adocicado. Produzido por meio de um processo de fermentação natural, esse feijão é amplamente utilizado como tempero em pratos como peixes, carnes, vegetais refogados e molhos, adicionando uma profundidade única de umami às receitas. Essencial na preparação de pratos clássicos como o peixe ao molho de feijão preto e frango com pimenta preta, é um item indispensável para quem deseja explorar a autêntica gastronomia asiática com praticidade e sabor. Lave com água antes de usar para cozinhar e temperar. INGREDIENTES: Feijão preto, água, sal comestível Armazenar em local seco e arejado. Não precisa de refrigeração após aberto. Origem: China Contém 400g
-  Updated: 2025-12-06T15:40:04Z
+  Updated: 2026-02-16T17:35:43Z
   Vendor: Guangdong Yangjiang
   Product Type: Condimento
   Availability: Available
@@ -8488,6 +9223,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-leite-jasmim.jpg?v=1736953263
   Price: R$ 19,99 BRL
+- [Chá com leite solúvel com Feijão Azuki - Xiang Piao Piao 64g](https://www.meiwei.com.br/products/cha-de-leite-c-feijao-azuki-xiang-piao-piao-64g): O chá de leite com feijão azuki combina a cremosidade do leite com o sabor doce e característico do feijão azuki, criando uma bebida única e reconfortante. Popular na culinária asiática, este chá apreciado por proporcionar um equilíbrio harmonioso entre doçura natural e textura suave. Ideal para momentos de relaxamento ou como acompanhamento para sobremesas, é uma opção deliciosa para quem busca algo diferente e cheio de sabor. INGREDIENTES: Saquinho de chá em pó com leite: não leite em pó (xarope de glicose, óleo de palma, leite em pó, emulsificante (caseína de sódio E471), antioxidante E340ii, agente separador E551, E341), açúcar, glicose, chá preto instantâneo em pó (5%), leite em pó desnatado (4%), feijão vermelho (4%) - Aroma; Saquinhos de leite: leite concentrado (20%); Saquinhos de feijão vermelho doce: feijão azuki vermelho (15%), açúcar, água. INFORMAÇÕES NUTRICIONAISPorção de 64g Valor Calórico 1082kJ 13% Carboidratos totais 44g 15% Proteínas 1,2g 2% Gorduras totais 8,5g 14% Sódio 95mg 5% Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 64g
+  Updated: 2026-02-13T13:29:08Z
+  Vendor: Xiang Piao Piao
+  Product Type: Chá
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-leite-feijao-azuki.jpg?v=1736954456
+  Price: R$ 21,99 BRL
 - [Chá com leite solúvel sabor Morango - Xiang Piao Piao 80g](https://www.meiwei.com.br/products/cha-de-leite-sabor-morango-xiang-piao-piao-80g): O Chá de Leite Sabor Morango é uma deliciosa combinação que une o sabor suave e cremoso do leite com o toque doce e frutado do morango. Oferece uma experiência reconfortante e saborosa, perfeita para qualquer momento do dia. Com um equilíbrio entre doçura e frescor, é uma escolha irresistível para amantes de bebidas especiais. INGREDIENTES: Sachês de chá em pó com leite: Jarra de leite sem laticínios, açúcar, glicose, chá em pó instantâneo 5%, leite em pó desnatado 4%, soro de leite em pó, sabor morango. Sachê de açúcar: açúcar; Sachês de frutas: água, nata de coco, xarope de frutose, açúcar, glicose, regulador de acidez E330, E331iii, E327, espessante E466, E412, conservante E202. INFORMAÇÕES NUTRICIONAISPorção de 80g Valor Calórico 901kJ 11% Carboidratos totais 35,5g 12% Proteínas 1,2g 2% Gorduras totais 7,5g 13% Sódio 67mg 3% Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 80g
   Updated: 2026-02-06T20:16:48Z
   Vendor: Xiang Piao Piao
@@ -8495,6 +9237,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-leite-morango.jpg?v=1736955463
   Price: R$ 19,00 BRL
+- [Chá Bubble de leite sabor Taro - U.loveit 70g](https://www.meiwei.com.br/products/cha-bubble-de-leite-sabor-taro-u-loveit-70g): O Chá Bubble de Leite Sabor Taro combina a cremosidade do leite com o sabor levemente adocicado e terroso do taro, uma raiz muito apreciada na culinária asiática. Enriquecido com pérolas de tapioca que adicionam uma textura única e divertida, essa bebida é perfeita para quem busca uma experiência diferente e deliciosa. Seja quente ou gelado, o chá bubble de taro é uma opção irresistível para momentos de indulgência. INGREDIENTES: Saco de chá com leite em pó: Açúcar (sulfito), creme não lácteo (dextrose - xarope (de milho), óleo de coco hidrogenado, emulsificante (caseinato de sódio) (leite), umectante (E340ii), agente antiaglomerante (E551)), maltodextrina (de milho), leite em pó integral 2,6%, chá preto instantâneo em pó 2%, sabor taro 0,5%, agente antiaglomerante (E551); Saco de bubbles 28,6%: água, xarope de maltose (de milho), amido de tapioca, óleo de girassol, geleia de erva queimada, espessante (E412, E1442), antiaglomerante (E552). INFORMAÇÕES NUTRICIONAISPorção de 70g Valor Calórico 1140kJ Carboidratos totais 43,8g Proteínas 1g Gorduras totais 7,9g Sódio 300mg Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 70g
+  Updated: 2026-02-13T13:29:08Z
+  Vendor: U.loveit
+  Product Type: Chá
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-leite-bubble-taro.jpg?v=1736956275
+  Price: R$ 21,99 BRL
 - [Chá de leite com pedaços de coco sabor Trigo - U.loveit 80g](https://www.meiwei.com.br/products/cha-de-leite-c-pedacos-de-coco-sabor-trigo-u-loveit-80g): O Chá de Leite com Pedaços de Coco Sabor Trigo oferece uma combinação exótica e saborosa, que mistura a suavidade do chá de leite com a leveza do trigo e a textura tropical do coco. Com pedaços de coco que proporcionam crocância e um toque doce, essa bebida é uma experiência única, perfeita para quem busca uma opção refrescante e nutritiva. O sabor do trigo adiciona um toque de suavidade, equilibrando o doce do coco e a cremosidade do leite. Ideal para saborear a qualquer hora do dia. INGREDIENTES: Chá de leite em pó: creme não lácteo (xarope de glicose, óleo de coco transparente, soro de leite em pó, proteína complexa de sódio, ésteres de ácidos graxos mono e diglicerídeos, estearoil lactilato de sódio, hidrogenofosfato dipotássico, tripolifosfato de sódio, dióxido de silício), açúcar branco, extrato de malte, leite em pó (leite em pó desnatado, leite em pó integral), chá preto instantâneo em pó, aditivos alimentares (dióxido de silício), sabores alimentares. Nozes de coco: coco, água, açúcar branco, xarope de frutose, farinha de konjac, aditivos alimentares (goma lacar, cloreto de potássio, ácido cítrico, sorbato de potássio, citrato de sódio), drenado (coco) Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 80g
   Updated: 2026-02-06T20:17:41Z
   Vendor: U.loveit
@@ -8572,6 +9321,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-alfa-ramen.jpg?v=1737121595
   Price: R$ 13,35 BRL
+- [Macarrão de batata doce para Hot Pot - Huoguofen 248g](https://www.meiwei.com.br/products/macarrao-de-batata-doce-p-hot-pot-huoguofen-248g): O Macarrão de Batata Doce para Hot Pot é um macarrão translúcido e macio, feito a partir do amido da batata-doce. Muito usado em pratos tradicionais asiáticos, especialmente em hot pots, é conhecido por sua capacidade de absorver os sabores dos caldos e temperos, enquanto mantém sua textura elástica e firme. Excelente opção para refeições leves e versáteis, combinando perfeitamente com carnes, legumes e molhos variados. INGREDIENTES: Batata doce, amido, água. Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China Contém 248g
+  Updated: 2026-02-13T13:29:08Z
+  Vendor: Huoguofen
+  Product Type: Massa
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-hotpot-batata-doce.jpg?v=1737123777
+  Price: R$ 39,99 BRL
+- [Macarrão de batata doce para Hot Pot - Xinfa 288g](https://www.meiwei.com.br/products/macarrao-de-batata-doce-p-hot-pot-xinfa-288g): O Macarrão de Batata Doce para Hot Pot é uma opção deliciosa e versátil, feita com amido de batata-doce, que se destaca por sua textura elástica e capacidade de absorver os sabores do caldo. Ideal para compor receitas de hot pots, sopas e pratos salteados, uma escolha saudável e adaptável. Sua aparência translúcida e sabor suave complementam perfeitamente carnes, vegetais e molhos. INGREDIENTES: Amido de batata-doce refinado, amido de ervilha, água. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1469kJ 17% Carboidratos 85,3g 28% Proteínas 0g 0% Gorduras Totais 0g 0% Sódio 9,8mg 0% Manter em local seco e arejado. Após aberto, manter a embalagem bem fechada. Origem: China Contém 288g
+  Updated: 2026-02-13T13:29:07Z
+  Vendor: Xinfa
+  Product Type: Massa
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/macarrao-hotpot-batata-doce-288g.jpg?v=1737126140
+  Price: R$ 39,99 BRL
 - [Peixe cravo com fragrância de óleo (Lilac Fish) - HMS 150g](https://www.meiwei.com.br/products/peixe-cravo-c-fragrancia-de-oleo-lilac-fish-hms-150g): O Peixe Cravo com Fragrância de Óleo é uma iguaria aromática que combina a textura delicada do peixe cravo com um toque sutil e marcante de óleo perfumado, resultando em um prato de sabores equilibrados e irresistíveis. Ideal para quem aprecia uma experiência gastronômica rica e sofisticada. INGREDIENTES: Peixe cravo, óleo de soja, pasta de feijão preto, açúcar branco, aditivo alimentar, sal comestível, glutamato de sódio. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2287kJ 27% Carboidratos 6,4g 2% Proteínas 20,8g 35% Gorduras Totais 49,3g 82% Sódio 1360mg 68% Armazenar em local fresco e seco, longe da luz solar direta, após aberta, manter refrigerada. Origem: China Contém 150g
   Updated: 2026-02-06T13:41:05Z
   Vendor: HMS
@@ -8656,12 +9419,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lula-sabor-churrasco_1.jpg?v=1737467712
   Price: R$ 34,99 BRL
-- [Jujuba (tâmara vermelha) com noz - SiHong 252g](https://www.meiwei.com.br/products/jujuba-com-noz-sihong-252g): A Jujuba Xinjiang com Noz é uma combinação sofisticada e nutritiva que une a doçura suave da jujuba, um fruto típico da região de Xinjiang, com a crocância e riqueza da noz. Este aperitivo delicioso é perfeito para quem busca um lanche saudável e energético, repleto de sabor e tradição. Ideal para consumir puro, como complemento em sobremesas ou em combinações criativas na culinária. INGREDIENTES: Jujuba Xinjiang, miolo de nozes. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1851kJ 22% Carboidratos 55,1g 18% Proteínas 9,2g 15% Gorduras totais 20,5g 34% Sódio 13mg 1% Armazenar em local fresco e arejado. Origem: China Contém 252g
-  Updated: 2026-02-07T06:25:42Z
+- [Jujuba (tâmara vermelha) com noz SiHong 252g - 思宏夹夹核桃枣](https://www.meiwei.com.br/products/jujuba-com-noz-sihong-252g): Experimente a combinação perfeita de sabor e nutrição com a Tâmara Chinesa Recheada com Nozes (思宏夹夹核桃枣). Direto da China, este snack une a doçura natural da tâmara vermelha com a crocância e os benefícios das nozes, proporcionando uma experiência única e saudável. Ideal para lanches rápidos, sobremesas ou para acompanhar chás orientais. Marca: Sihong (思宏) Origem: China Principais características e diferenciais: Tâmaras vermelhas selecionadas, sem caroço, recheadas com nozes frescas Snack 100% natural, sem adição de conservantes ou corantes artificiais Fonte de fibras, vitaminas e gorduras boas Pronto para consumo, prático para levar na bolsa ou lancheira Embalagem de 252g, ideal para compartilhar ou consumir aos poucos Lista de ingredientes Tâmara vermelha chinesa (jujuba) Nozes Tabela nutricional (porção de 25g) Informação Nutricional Porção de 25g %VD* Valor energético 90 kcal 5% Carboidratos 18 g 6% Proteínas 1,5 g 2% Gorduras totais 2,0 g 4% Gorduras saturadas 0,2 g 1% Gorduras trans 0 g -- Fibra alimentar 2,5 g 10% Sódio 0 mg 0% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Tâmara Chinesa Recheada com Nozes no Chá Oriental Ingredientes: 3 tâmaras chinesas recheadas com nozes 1 xícara de chá verde ou chá preto quente Modo de preparo: Sirva as tâmaras recheadas em um pratinho ao lado do chá. Deguste alternando entre o chá e o snack para uma experiência oriental autêntica. Dica: Também pode ser picada e adicionada a saladas, iogurtes ou sobremesas. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter a embalagem bem fechada e consumir preferencialmente em até 7 dias.
+  Updated: 2026-02-16T02:34:30Z
   Vendor: SiHong
   Product Type: Doce
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/jujuba-noz.jpg?v=1737472663
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-tamara-chinesa-recheada-nozes-sihong-252g.jpg?v=1771165935
   Price: R$ 78,90 BRL
 - [Ameixa de sal marinho - Loo Food 98g](https://www.meiwei.com.br/products/ameixa-de-sal-marinho-loo-food-98g): A Ameixa de Sal Marinho oferece uma experiência única de sabor, combinando o doce natural da fruta com o toque salgado e marcante do sal marinho. Este contraste realça o sabor da ameixa, tornando-a um snack irresistível para quem aprecia combinações equilibradas. Ideal para saborear sozinho, acompanhar chás ou enriquecer sobremesas. INGREDIENTES: Ameixa de limão (juntada), açúcar branco, sal comestível, glicose comestível, alcaçuz, aditivos alimentares (ácido cítrico, ciclamato, sacarina sódica, glicosídeos de esteviol, sucralose, amarelo pôr do sol, carmim, amaranto, sorbato de potássio, metabissulfito de sódio), comestíveis especiarias. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 1452kJ 17% Carboidratos 81,9g 27% Proteínas 0,9g 2% Gorduras totais 1,2g 2% Sódio 509mg 25% Armazenar em local fresco e arejado. Origem: China Contém 98g
   Updated: 2025-12-06T15:40:16Z
@@ -8930,7 +9693,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/incenso-arvore-dinheiro.jpg?v=1738604055
   Price: R$ 49,99 BRL
 - [Velas vermelhas para adoração 18un](https://www.meiwei.com.br/products/velas-vermelhas-para-adoracao-18un): As Velas Vermelhas para Adoração são ideais para rituais, oferendas e cerimônias espirituais, simbolizando sorte, proteção e energia positiva. Produzidas com cera de alta qualidade, oferecem uma queima uniforme e duradoura, criando um ambiente de devoção e respeito. Muito utilizadas em práticas tradicionais, são perfeitas para honrar divindades, ancestrais e intenções especiais. ESPECIFICAÇÕES: 18 peças por caixa Tamanho: Diâmetro 3,5 cm x Altura 6,5 ​​cm (8cm incluindo celofane) / peça Peso: Aproximadamente 54g / peça Tamanho da caixa: Largura 21 cm x Profundidade 10,5 cm x Altura 8,7 cm Peso da caixa Aproximadamente 990g Origem: China
-  Updated: 2025-12-06T15:40:38Z
+  Updated: 2026-02-12T19:28:05Z
   Vendor: Mei Wei
   Product Type: Diversos
   Availability: Available
@@ -8972,7 +9735,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pele-tofu.jpg?v=1738696153
   Price: R$ 38,99 BRL
 - [Glutamato monossódico - Lianhua 2kg](https://www.meiwei.com.br/products/glutamato-monossodico-lianhua-2kg): O glutamato monossódico é um realçador de sabor amplamente utilizado na culinária para intensificar o sabor natural dos alimentos, conferindo um gosto umami, característico de pratos orientais e industrializados. Fácil de usar, basta adicionar pequenas quantidades durante o preparo de sopas, molhos, carnes e vegetais para potencializar o sabor e proporcionar uma experiência mais rica e agradável ao paladar. Ideal para quem busca aprimorar suas receitas de forma prática e eficaz, elevando a qualidade dos pratos sem esforço. INGREDIENTES: Glutamato monossódico NÃO CONTÉM GLÚTEN Mantenha em local seco e fresco, longe da luz solar direta. Origem: China Contém 2kg
-  Updated: 2025-12-06T15:40:39Z
+  Updated: 2026-02-17T06:56:16Z
   Vendor: Lianhua
   Product Type: Tempero
   Availability: Available
@@ -9076,6 +9839,34 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/fatias-broto-bambu-980g.jpg?v=1738942554
   Price: R$ 78,90 BRL
+- [Pingente Chinês de pimenta para decoração](https://www.meiwei.com.br/products/pingente-chines-de-pimenta-para-decoracao): O pingente chinês de pimenta para decoração é um amuleto tradicional que simboliza sorte, proteção e prosperidade. Feito com réplicas vibrantes de pimentas vermelhas, é frequentemente usado para afastar energias negativas e atrair boas vibrações. Pode ser pendurado na entrada de casa ou em ambientes comerciais como um toque de tradição e significado. Além de seu simbolismo, também adiciona um elemento decorativo marcante e cultural ao espaço. Origem: China
+  Updated: 2026-02-13T13:24:57Z
+  Vendor: Mei Wei
+  Product Type: Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pingente-pimenta.jpg?v=1738943937
+  Price: R$ 69,99 BRL
+- [Pingente Chinês Ano Novo Lunar para decoração](https://www.meiwei.com.br/products/pingente-chines-ano-novo-lunar-para-decoracao): O pingente chinês de Ano Novo Lunar para decoração é um símbolo tradicional de boa sorte, prosperidade e felicidade para o novo ciclo. Geralmente em tons de vermelho e dourado, com detalhes como caracteres auspiciosos, nós chineses e figuras simbólicas, ele é usado para atrair energias positivas e afastar o azar. Ideal para decorar portas, paredes ou ambientes durante as celebrações, trazendo um toque cultural e festivo ao espaço. Origem: China
+  Updated: 2026-02-13T13:24:57Z
+  Vendor: Mei Wei
+  Product Type: Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pingente-ano-novo-lunar.jpg?v=1738952871
+  Price: R$ 69,99 BRL
+- [Pingente Chinês Lanterna Vermelha Ano Novo Lunar para decoração](https://www.meiwei.com.br/products/pingente-chines-lanterna-vermelha-ano-novo-lunar-para-decoracao): O pingente chinês lanterna vermelha de Ano Novo Lunar para decoração é um símbolo tradicional de prosperidade, sorte e iluminação para o novo ciclo. Feito em tons vibrantes de vermelho e dourado, representa alegria e boas energias, sendo amplamente utilizado para decorar casas, comércios e eventos festivos. Perfeito para pendurar em portas, janelas ou paredes, ele traz um toque cultural marcante e cria um ambiente acolhedor e auspicioso para as celebrações. Origem: China
+  Updated: 2026-02-13T13:24:57Z
+  Vendor: Mei Wei
+  Product Type: Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pingente-ano-novo-lunar-lanterna-vermelha.jpg?v=1738953726
+  Price: R$ 69,99 BRL
+- [Pingente Chinês Cinco Bençãos para decoração](https://www.meiwei.com.br/products/pingente-chines-cinco-bencaos-para-decoracao): O pingente chinês Cinco Bênçãos para decoração simboliza felicidade, longevidade, saúde, virtude e paz, representando um desejo de prosperidade e harmonia. Tradicionalmente confeccionado em vermelho e dourado, cores associadas à sorte e fortuna, ele é ideal para pendurar em portas, janelas ou ambientes, atraindo boas energias e proteção. Perfeito para quem busca um toque cultural e auspicioso na decoração. Origem: China
+  Updated: 2026-02-13T13:24:57Z
+  Vendor: Mei Wei
+  Product Type: Diversos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pingente-cinco-bencaos.jpg?v=1738954290
+  Price: R$ 69,99 BRL
 - [Broto de bambu Alpino cozido - ZhuXin 250g](https://www.meiwei.com.br/products/broto-de-bambu-alpino-cozido-zhuxin-250g): O broto de bambu Alpino cozido em fatias é um ingrediente versátil e pronto para uso, ideal para diversas receitas da culinária asiática. Com uma textura levemente crocante e um sabor suave, absorve bem temperos e molhos, tornando-se perfeito para stir-fries, sopas, ensopados e saladas. Prático e saboroso, ele adiciona um toque autêntico e nutritivo aos pratos. Como comer: Abra o saco e filtre a água, enxágue com água limpa e coma. É adequado para refogar, ensopar, panela quente, panela seca, etc., e pode ser usado com carne e vegetais. INGREDIENTES: brotos de bambu, água potável, sal comestível, aditivos alimentares (ácido cítrico, D-isoascorbato de sódio, metabissulfito de sódio. Origem: China Contém 250g
   Updated: 2026-02-01T21:41:57Z
   Vendor: FuChunLong
@@ -9196,7 +9987,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/aditivo-retencao-agua.jpg?v=1740150232
   Price: R$ 189,99 BRL
 - [Bala macia de suco de fruta sabor espinheiro - Dobby 100g](https://www.meiwei.com.br/products/bala-macia-de-suco-de-fruta-sabor-espinheiro-dobby-100g): A bala macia de suco de fruta sabor espinheiro combina a doçura natural da fruta com uma textura macia e agradável. Feita com extrato de espinheiro, conhecido por seu sabor levemente ácido e refrescante, essa bala é uma opção deliciosa para quem aprecia um toque frutado equilibrado. Popular na culinária asiática, o espinheiro também é valorizado por seus benefícios digestivos. Perfeita para um lanche leve e saboroso a qualquer momento do dia. INGREDIENTES: Xarope de maltose (60%), açúcar, suco concentrado de espinheiro (30%), pó de espinheiro, aditivos alimentares (agente espessante (E407), regulador de acidez (E331, E330, ácido DL-málico)), aromatizante. Armazenar em local fresco e arejado. Origem: China Contém 100g
-  Updated: 2025-12-06T15:40:51Z
+  Updated: 2026-02-13T07:27:44Z
   Vendor: Dobby
   Product Type: Doce
   Availability: Available
@@ -9231,7 +10022,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-macia-manga-abacaxi.jpg?v=1740768606
   Price: R$ 19,99 BRL
 - [Licor Sabor Clássico 45%-  Little Lang Baijiu 100ml](https://www.meiwei.com.br/products/licor-sabor-classico-45-little-lang-baijiu-100ml): O Licor Sabor Clássico 45% Little Lang Baijiu é um destilado chinês autêntico, produzido a partir da fermentação de grãos, com destaque para o sorgo. Com 45% de teor alcoólico, possui um sabor intenso e um aroma marcante, característicos do baijiu, a bebida mais tradicional da China. Seu perfil equilibrado combina notas levemente adocicadas e um toque defumado, tornando-o ideal para ser apreciado puro, em brindes especiais ou como base para coquetéis. A embalagem de 100ml é perfeita para degustação ou para presentear apreciadores de destilados exóticos e sofisticados. INGREDIENTES: água, sorgo, trigo, arroz, arroz glutinoso, milho. Condições de armazenamento: local seco, ventilado, fresco Álcool 45% vol Origem: China Contém 100ml
-  Updated: 2026-02-08T15:05:57Z
+  Updated: 2026-02-11T20:01:51Z
   Vendor: Little Lang Baijiu
   Product Type: Bebida Alcóolica
   Availability: Available
@@ -9448,7 +10239,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-super-azeda-morango.jpg?v=1742418105
   Price: R$ 5,99 BRL
 - [Crisântemo em botão - Mei Wei 10g](https://www.meiwei.com.br/products/crisantemo-em-botao-mei-wei-10g): O crisântemo em botão 10g, embalado a vácuo, mantém seu frescor e aroma por mais tempo, garantindo a melhor qualidade para a degustação. Embalado de forma segura, o produto preserva suas propriedades benéficas, como suas ações calmantes, auxilia na redução de estresse, melhora a visão e ajuda a fortalecer o sistema imunológico. Ideal para fazer um chá refrescante, que também pode aliviar dores de cabeça e reduzir a pressão arterial. O método de embalagem a vácuo assegura que cada flor conserve sua fragrância e sabor delicado. INGREDIENTES: Crisântemo em botão Armazenar em local seco e fresco. Origem: China Contém 10g
-  Updated: 2026-02-09T23:36:52Z
+  Updated: 2026-02-17T18:50:17Z
   Vendor: Mei Wei
   Product Type: Chá
   Availability: Available
@@ -9567,7 +10358,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/marshmallow-pessego.jpg?v=1743019899
   Price: R$ 22,99 BRL
 - [Marshmallow formato Fast Food - MianHuaTang 72g](https://www.meiwei.com.br/products/marshmallow-fast-food-sabores-sortidos-mianhuatang-72g): O marshmallow em formatos divertidos traz ainda mais alegria para o seu lanche! Inspirado em fast food, ele vem nos formatos de batata frita, hambúrguer e cachorro-quente (hot dog), unindo a textura macia do marshmallow com uma apresentação criativa e colorida. Perfeito para festas, presentes ou simplesmente para se deliciar de um jeito diferente. INGREDIENTES: Açúcar branco, xarope de glicose, glicose comestível, amido de milho comestível, aditivos alimentares (gelatina, sorbitol líquido, fosfato de hidroxipropilamido, tartrazina, amarelo crepúsculo, vermelho allura, eritrosina, azul brilhante), aromas comestíveis. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1459kJ 17% Carboidratos 78,5g 26% Proteínas 6g 10% Gorduras Totais 0,6g 1% Sódio 11mg 1% Armazenar em local fresco e arejado. Origem: China Contém 72g
-  Updated: 2025-12-06T15:41:10Z
+  Updated: 2026-02-14T12:01:41Z
   Vendor: MianHuaTang
   Product Type: Doce
   Availability: Available
@@ -9602,7 +10393,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-chu-hou-380g.jpg?v=1743102666
   Price: R$ 39,99 BRL
 - [Molho Hoisin Chinês Haitan 400g - 海天 海鲜酱（酿造酱）](https://www.meiwei.com.br/products/molho-hoisin-haday-400g): O Molho Hoisin Chinês Haitan 海天 海鲜酱（酿造酱）400g é um clássico condimento da culinária chinesa, conhecido pelo sabor doce, salgado e levemente defumado, com um toque de especiarias. É um molho espesso à base de pasta de soja fermentada, muito usado em: refogados na wok (stir‑fry) yakissoba e chow mein marinadas para frango, porco e pato molhos para churrasco, rolinho primavera e guioza A textura é densa e brilhante, ideal para envolver a carne e os legumes e dar aquele molho “grudinho” típico de restaurante chinês. Destaques: Molho hoisin autêntico, pronto para uso Sabor doce‑salgado intenso, com soja fermentada e especiarias Versátil: vai bem em pratos chineses, churrascos, sanduíches e hambúrguer Embalagem em frasco de 400g, prática para uso doméstico e food service pequeno INGREDIENTES: Açúcar branco, água, soja não transgênica, farinha de trigo, sal comestível, vinagre, óleo de amendoim, pimenta salgada, fermento de arroz vermelho, goma xantana. INFORMAÇÕES NUTRICIONAISPorção de 15g Valor Calórico 143kJ 2% Proteína 0,8g 1% Gorduras Totais 0,6g 1% Carboidratos 6,3g 2% Sódio 590mg 30% Sugestão de receita usando o Molho Hoisin Frango Salteado com Legumes ao Molho Hoisin Ingredientes (2–3 porções): 300 g de peito de frango em tiras 2 colheres (sopa) de molho hoisin Haitan 1 colher (sopa) de molho de soja (shoyu) 1 colher (sopa) de óleo (soja, girassol ou amendoim) 1 dente de alho picado 1/2 cebola em pétalas 1/2 pimentão vermelho em tiras 1/2 cenoura em rodelas finas 1/2 xícara de brócolis em floretes (pré‑cozidos rapidamente) 2–3 colheres (sopa) de água Gergelim torrado e cebolinha para finalizar (opcional) Modo de preparo: Marinar o frango: misture o frango com 1 colher (sopa) de molho hoisin e metade do shoyu. Deixe descansar 10–15 minutos. Selar o frango: aqueça o óleo na wok ou frigideira grande em fogo alto. Doure o frango até ficar cozido por fora (3–4 min). Reserve. Refogar legumes: na mesma panela, refogue alho e cebola rapidamente. Acrescente pimentão, cenoura e brócolis e salteie por 2–3 minutos. Molho: devolva o frango à panela, adicione o restante do molho hoisin, o shoyu e a água. Mexa até tudo ficar bem envolvido e o molho levemente espesso. Servir: finalize com gergelim e cebolinha. Sirva com arroz branco ou macarrão tipo yakissoba. Você pode usar essa receita como bloco de texto na página, ou resumir para caber melhor. Como armazenar Antes de abrir: conservar em local seco, fresco e ao abrigo da luz, longe de fontes de calor. Depois de aberto: manter bem fechado e refrigerado (entre 4 °C e 8 °C). Consumir de preferência em até 30 dias após a abertura ou conforme indicação do fabricante. Use sempre colher limpa e seca para evitar contaminação.
-  Updated: 2026-01-29T19:35:13Z
+  Updated: 2026-02-14T02:44:34Z
   Vendor: Haday（海天）
   Product Type: Molhos Diversos
   Availability: Available
@@ -9651,7 +10442,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pasta-gengibre-210g.jpg?v=1743433132
   Price: R$ 39,99 BRL
 - [Pasta de fava apimentada Toban Djan (Doubanjiang) - Chuan Lao Hui 500g](https://www.meiwei.com.br/products/pasta-de-fava-apimentada-toban-djan-doubanjiang-chuan-lao-hui-500g): A Pasta de Fava Apimentada Toban Djan (Doubanjiang) é um condimento fermentado tradicional da culinária chinesa, especialmente usado em pratos de Sichuan. Feita com favas de soja, pimenta e especiarias, tem um sabor picante, salgado e rico em umami. Perfeita para Mapo Tofu, refogados, ensopados e hot pot, adicionando profundidade e intensidade aos pratos. INGREDIENTES: Pimenta, favas, sal, farinha de trigo, óleo vegetal, especiarias. INFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 476kJ 6% Proteína 5g 8% Gorduras Totais 5,2g 9% Carboidratos 11,5g 4% Sódio 7863mg 393% Armazenar em local fresco e seco, longe da luz solar direta, após aberto, manter refrigerado. Validade: 18 meses Origem: China Contém 500g
-  Updated: 2026-02-01T16:42:41Z
+  Updated: 2026-02-16T00:08:31Z
   Vendor: Chuan Lao Hui
   Product Type: Molho de Pimenta（辣椒酱）
   Availability: Available
@@ -9714,12 +10505,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-shoyu-gold-label-750ml.jpg?v=1743536119
   Price: R$ 50,00 BRL
 - [Salgadinho de lula temperada desfiada - Jane-Jane 50g](https://www.meiwei.com.br/products/salgadinho-de-lula-temperada-desfiada-jane-jane-50g): O Salgadinho de Lula Temperada Desfiada é um snack delicioso e levemente picante, com tiras macias de lula marinadas em temperos selecionados e depois desidratadas para um equilíbrio perfeito entre sabor intenso e textura mastigável. Ideal para petiscar puro ou acompanhado de bebidas. INGREDIENTES: Lula, açúcar, sal, lactose, glutamato monossódico, pimenta vermelha, vinagre, ácido sórbico. INFORMAÇÕES NUTRICIONAIS: por 100g: Energia: 1262,4kJ/305kcal, Gordura: 1,3g, dos quais saturados: 0,7g, Carboidratos: 44,8g, dos quais açúcar: 41,2g, Fibra: 0g, Proteína: 28,6g, Sal: 4,5g. Mantenha em local fresco e seco, evite a luz solar direta. Origem: China Contém 50g
-  Updated: 2026-02-10T12:01:05Z
+  Updated: 2026-02-14T11:08:25Z
   Vendor: Farmer's Grange
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/lula-temperada.jpg?v=1743599733
-  Price: R$ 37,71 BRL
+  Price: R$ 41,00 BRL
 - [Licor Beijing Erguotou 42% - China Time-honored 500ml](https://www.meiwei.com.br/products/licor-beijing-erguotou-42-china-time-honored-500ml): O Licor Beijing Erguotou é uma tradicional bebida chinesa destilada, conhecida por seu sabor forte e aroma marcante. Feito a partir de grãos fermentados, possui um teor alcoólico elevado e é muito apreciado puro ou como base para coquetéis. INGREDIENTES: Água, sorgo, trigo. Condições de armazenamento: local seco, ventilado, fresco Álcool 42% vol Origem: China Contém 500ml
   Updated: 2025-12-23T17:34:16Z
   Vendor: China Time-honored
@@ -9903,7 +10694,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/jujuba-noz-208g.jpg?v=1744128347
   Price: R$ 65,00 BRL
 - [Marshmallow de frutas formato de animais zoológico - Guoliqi 110g](https://www.meiwei.com.br/products/marshmallow-de-frutas-formato-de-animais-guoliqi-110g): Este marshmallow combina a suavidade clássica com sabores delicados de frutas e formatos encantadores de animais, tornando-o irresistível para crianças e adultos. Ideal para compor mesas de festa, presentear ou saborear como um mimo doce no dia a dia, ele conquista tanto pelo sabor quanto pelo visual lúdico e divertido. INGREDIENTES: Suco de maçã concentrado, açúcar, clara de ovo, gelatina, ácido cítrico, aromatizantes, aditivos alimentares, amido de milho, xarope de maltose, corantes alimentícios. Armazenar em local fresco e arejado. Evite luz solar direta e altas temperaturas. AVISO: As crianças devem comer supervisionadas por um adulto. Validade: 12 meses Origem: China Contém 110g
-  Updated: 2025-12-06T15:41:26Z
+  Updated: 2026-02-14T12:01:41Z
   Vendor: Guoliqi
   Product Type: Doce
   Availability: Available
@@ -10281,12 +11072,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/suco-uva-mel.jpg?v=1747070719
   Price: R$ 19,02 BRL
 - [Suco composto sabor pêssego e mel com cubos de nata de coco - Jiaozuo 450ml](https://www.meiwei.com.br/products/suco-composto-sabor-pessego-e-mel-com-cubos-de-nata-de-coco-jiaozuo-450ml): Refrescante e aromático, esse suco combina o sabor suave do pêssego com a doçura do mel e pedacinhos macios de nata de coco, trazendo uma experiência tropical leve e deliciosa. INGREDIENTES: Água, fibra de coco, xarope de frutose, suco concentrado de pêssego, mel, goma gelana, sal, aditivos alimentares carbonato de cálcio, citrato de sódio, carboximetilcelulose sódica, tripolisfosfato de sódio, ácido cítrico, sorbato de potássio, ciclamato de sódio, acesulfame de potássio, hexametafosfato de sódio, ácido etilenodiamino tetra-acético e corante vermelho allura. INFORMAÇÃO NUTRICIONAL Porção de 200g Quantidade por Porção %VD(*) Valor Energético 22kJ 1 Proteínas 0g 0 Gorduras Totais 0g 0 Carboidratos 5,2g 2 Açúcares Totais 5,2g Açúcares Adicionados 5,2g 10 Sódio 64mg 3 Armazenar em ambiente limpo, ventilado, à prova de luz. Validade: 12 meses Origem: China Contém 450ml
-  Updated: 2026-01-19T11:48:22Z
+  Updated: 2026-02-17T10:39:46Z
   Vendor: Jiaozuo
   Product Type: Bebida
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/suco-pessego-mel.jpg?v=1747072591
-  Price: R$ 19,89 BRL
+  Price: R$ 19,00 BRL
 - [Chá verde (sem açúcar) - Nongfu Spring 500ml](https://www.meiwei.com.br/products/cha-verde-sem-acucar-nongfu-spring-500ml): Refrescante e leve, esse chá verde é ideal para quem busca uma bebida natural, sem adição de açúcares. Perfeito para hidratar e revigorar ao longo do dia, com o sabor puro das folhas de chá. INGREDIENTES: Água, Chá Verde (16%), Vitamina C, Fermento em Pó (E500(ii). Armazenar em ambiente limpo, ventilado, à prova de luz. Origem: China Contém 500ml
   Updated: 2025-12-06T15:41:42Z
   Vendor: Nongfu Spring
@@ -10638,7 +11429,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mostarda-yuquan-fish.jpg?v=1748896192
   Price: R$ 14,90 BRL
 - [Carne bovina com feijão preto fermentado - Fish Well 60g](https://www.meiwei.com.br/products/carne-bovina-com-feijao-preto-fermentado-fish-well-60g): A Carne Bovina com Feijão Preto Fermentado é um prato típico da culinária chinesa, pronto para consumo, que combina pedaços de carne macia com o sabor profundo e salgado do feijão preto fermentado. Essa combinação resulta em um molho encorpado e aromático, ideal para acompanhar arroz branco ou macarrão oriental. É uma opção prática, saborosa e cheia de umami para quem busca uma refeição rápida com o autêntico sabor caseiro da China. INGREDIENTES: Feijão preto fermentado, óleo de colza, carne bovina, pimenta, açúcar, glutamato monossódico, pimenta vermelha, alho, tubérculo de mostarda, sal e aditivos alimentares. Evite altas temperaturas e luz solar, armazene em local fresco e seco. Validade: 18 meses Origem: China Contém 60g
-  Updated: 2025-12-06T15:41:55Z
+  Updated: 2026-02-16T23:42:25Z
   Vendor: Fish Well
   Product Type: Conserva
   Availability: Available
@@ -10659,7 +11450,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/wa-wa-cai.jpg?v=1748959313
   Price: R$ 54,90 BRL
 - [Gelatina de konjac probiótica sabor morango Lotso - Disney 160g](https://www.meiwei.com.br/products/gelatina-de-konjac-probiotica-sabor-morango-lotso-disney-160g): Divertida, saudável e deliciosa! A gelatina de konjac probiótica com tema Toy Story combina o sabor irresistível de morango com os benefícios do konjac, uma fibra natural conhecida por auxiliar na digestão e promover saciedade. Enriquecida com probióticos, contribui para o equilíbrio da flora intestinal, tornando-se uma opção leve e nutritiva para crianças e adultos. Com personagens queridos da Disney Pixar na embalagem, essa gelatina é perfeita para lanches mais saudáveis sem abrir mão do sabor e da diversão. INGREDIENTES: Água, xarope de milho rico em frutose, suco de maçã concentrado (≥30% com base no suco original), açúcar branco, pó de konjac (≥0,4%), pó de bactérias probióticas azuis compostas (tipo inativado) (Lactobacillus salivarius, Lactobacillus acidophilus, Lactobacillus paracasei) (quantidade adicionada ≥1 bilhão de UFC/100g), maltodextrina, aditivos alimentares (goma guar, carragenina, goma xantana, goma taro, cloreto de potássio, citrato de sódio, citrato de potássio, ácido DL-málico, ácido cítrico, lactato de cálcio, sorbato de potássio, sucralose), aromas comestíveis. Armazenar em local fresco e arejado. Evite luz solar direta e altas temperaturas. AVISO: As crianças devem comer supervisionadas por um adulto. Validade: 12 meses Origem: China Contém 160g
-  Updated: 2025-12-06T15:41:56Z
+  Updated: 2026-02-15T02:09:42Z
   Vendor: Disney
   Product Type: Doce
   Availability: Available
@@ -10743,7 +11534,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-seca-vermelha.jpg?v=1748980576
   Price: R$ 139,99 BRL
 - [Shoyu Molho de soja escuro exclusivo - Haday 500ml](https://www.meiwei.com.br/products/molho-de-soja-escuro-exclusivo-haday-500ml): Com cor intensa, textura levemente mais espessa e sabor profundo, este molho de soja escuro é ideal para realçar pratos tradicionais como carnes assadas, marinadas, refogados e ensopados. Diferente do shoyu comum, ele adiciona não apenas salinidade, mas também uma riqueza de cor e umami inconfundível. Seu perfil exclusivo transforma preparos simples em receitas dignas da culinária chinesa clássica. Um ingrediente indispensável para quem busca autenticidade no sabor. INGREDIENTES: Água, soja (23%), sal, açúcar, trigo (11%). Manter em local seco e arejado. Origem: China Contém 500ml
-  Updated: 2026-02-08T16:50:36Z
+  Updated: 2026-02-12T02:59:40Z
   Vendor: Haday（海天）
   Product Type: Molho de Soja
   Availability: Available
@@ -10869,7 +11660,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/pimenta-vermelha-especiarias.jpg?v=1750431810
   Price: R$ 110,99 BRL
 - [Durião liofilizado (Chunks of Durian) - Xue Hua Duo 21g](https://www.meiwei.com.br/products/duriao-liofilizado-chunks-of-durian-xue-hua-duo-21g): Pedaços de durian liofilizado, fruta exótica conhecida como o "rei das frutas" no sudeste asiático. Passa por um processo de liofilização, que remove a água a frio, preservando sabor, aroma e nutrientes. Textura crocante e leve, ideal para consumo direto como snack ou para uso em sobremesas. INGREDIENTES: Durian, açúcar branco, leite em pó integral, açúcar de leite, maltodextrina. (Contém leite e seus derivados) NFORMAÇÕES NUTRICIONAISPorção de 100g Valor Calórico 2293kJ 27% Proteínas 2,6g 4% Gorduras totais 32,5g 54% Carboidratos 61,3g 20% Sódio 100mg 5% Armazenar em local fresco, seco e longe da luz solar direta. Abrir a embalagem e consumir diretamente. Validade: 12 meses Origem: China Contém 21g
-  Updated: 2026-01-10T03:14:33Z
+  Updated: 2026-02-12T09:50:35Z
   Vendor: Xue Hua Duo
   Product Type: Doce
   Availability: Available
@@ -10925,7 +11716,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molhos-soja-reducao-sal-30.jpg?v=1751291387
   Price: R$ 39,99 BRL
 - [Shoyu Light Molho de Soja Claro Haitian 500ml - 海天生抽酱油](https://www.meiwei.com.br/products/shoyu-molho-de-soja-light-haday-500ml): O Molho de Soja Claro Haitan – Light Soy Sauce 海天生抽酱油 é um clássico da culinária chinesa, produzido pela tradicional marca Haitian (海天), uma das maiores fabricantes de molhos de soja da China. O termo “sheng chou” (生抽) se refere ao molho de soja claro, mais fluido, aromático e salgado, ideal para: temperar salteados (stir fry) de legumes, carnes e frutos do mar finalizar pratos diretamente no prato ou na mesa preparar marinadas, molhos frios e molhos para dumpling realçar o sabor de sopas, caldos e noodles Diferente do molho de soja escuro (dark soy sauce), o light soy sauce é menos espesso e tem cor mais clara, pensado mais para dar sabor e um leve toque de cor, sem escurecer tanto os alimentos. Produto importado da China, muito usado em receitas típicas como chow mein, arroz frito, frango xadrez, vegetais salteados e hot pot. Lista de ingredientes do produto água soja trigo sal açúcar regulador de acidez (ácido acético ou láctico) realçador de sabor (glutamato monossódico) conservador (benzoato de sódio ou sorbato de potássio) ALÉRGICOS: contém soja e trigo (glúten). Tabela nutricional (modelo por porção de 15mL – 1 colher de sopa) Porção de 15 mL (1 colher de sopa) Informação Nutricional Por porção (15 mL) %VD* Valor energético 10 kcal (42 kJ) 1% Carboidratos 1,0 g 0% Proteínas 1,5 g 2% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g – Fibra alimentar 0 g 0% Sódio 900 mg 38% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita usando o produto – Frango salteado chinês com molho de soja claro Frango salteado com legumes e Molho de Soja Claro Haitan Ingredientes (2–3 porções) 300 g de peito de frango em tiras finas 2 colheres (sopa) de Molho de Soja Claro Haitan 海天生抽酱油 1 colher (chá) de molho de ostra (opcional) 1 colher (chá) de açúcar 1 dente de alho picado 1 pedaço pequeno de gengibre picado 1 colher (sopa) de óleo (de soja, milho ou amendoim) 1/2 pimentão em tiras 1 cenoura pequena em tiras finas 1/2 cebola em pétalas Cebolinha picada a gosto Pimenta-do-reino ou pimenta vermelha a gosto Modo de preparo Marinar o frango Em uma tigela, misture o frango com 1 colher (sopa) de molho de soja claro, o açúcar e um pouco de pimenta. Deixe descansar por 10–15 minutos. Preparar o salteado Aqueça bem uma frigideira ou wok com o óleo. Refogue o alho e o gengibre rapidamente até perfumar. Acrescente o frango e salteie em fogo alto até dourar. Adicionar os legumes Junte cenoura, pimentão e cebola. Mexa sempre, em fogo alto, por 2–3 minutos, deixando os legumes ainda levemente crocantes. Finalizar o molho Adicione a outra colher (sopa) de Molho de Soja Claro Haitan e, se quiser, o molho de ostra. Misture bem para envolver todo o frango e os legumes. Ajuste o sal (lembrando que o molho já é salgado) e finalize com cebolinha. Servir Sirva imediatamente, acompanhado de arroz branco ou arroz frito. Como armazenar Antes de abrir: Conservar em local seco, fresco e ao abrigo da luz solar direta. Não expor a fontes de calor. Depois de aberto: Manter o frasco bem fechado. Guardar de preferência em geladeira para preservar o sabor e o aroma por mais tempo. Consumir em até 3–6 meses após aberto, ou conforme indicação do rótulo.
-  Updated: 2026-01-21T18:46:51Z
+  Updated: 2026-02-12T18:15:25Z
   Vendor: Haday（海天）
   Product Type: Molho de Soja
   Availability: Available
@@ -11660,12 +12451,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vinagre-aromatico-630ml.jpg?v=1753296653
   Price: R$ 33,99 BRL
 - [Molho de ostra Panda - Lee Kum Kee 255g](https://www.meiwei.com.br/products/molho-de-ostra-panda-lee-kum-kee-255g): Molho de ostra clássico da renomada marca Lee Kum Kee, conhecido pelo sabor encorpado, levemente adocicado e rico em umami. Essencial na culinária asiática, é ideal para refogados, vegetais, marinadas, noodles e carnes grelhadas. Sua fórmula concentrada realça qualquer prato com um toque autêntico oriental. INGREDIENTES: Água, açúcar, sal, amido de milho modificado, extrato de ostra (ostra, água, sal), realçador de sabor (glutamato monossódico), farinha de trigo, corante (caramelo III - Processo amoniacal), conservantes (benzoato de sódio). INFORMAÇÕES NUTRICIONAIS Porção de 15g (1 colher de sopa) Valor Calórico 16kJ 1% Proteína 0g 0% Gorduras Totais 0g 0% Carboidratos 4g 1% Açúcares Totais 3,1g * Açúcares Adicionados 3,1g 6% Sódio 687mg 34% Armazene em temperatura ambiente. Após aberto, mantenha refrigerado. Origem: China Validade: 24 meses Contém: 255g
-  Updated: 2026-02-08T13:44:08Z
+  Updated: 2026-02-12T11:07:48Z
   Vendor: Lee Kum Kee
   Product Type: Molho de Ostra
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-ostra-panda-255g.jpg?v=1753297628
-  Price: R$ 53,72 BRL
+  Price: R$ 53,71 BRL
 - [Shoyu Molho de soja delicado - DongGu 1.6L](https://www.meiwei.com.br/products/molho-de-soja-delicado-donggu-1-6l): Com sabor leve e fermentação natural, o Molho de Soja Delicado da marca Donggu é ideal para realçar alimentos sem escurecer ou dominar o prato. Perfeito para pratos delicados da culinária chinesa e japonesa, como peixes, frutos do mar, caldos, legumes e ovos. Reconhecido com o selo China Time-honored Brand, une tradição e qualidade para uso doméstico ou profissional. INGREDIENTES: Água, soja não transgênica, sal comestível, farinha de trigo, glutamato monossódico, xarope, 5'-ribonucleotídeo dissódico, sucralose, sorbato de potássio. INFORMAÇÕES NUTRICIONAIS Porção de 15ml (1 colher de sopa) Valor Calórico 55kJ 1% Proteína 2g 3% Gorduras Totais 0g 0% Carboidratos 1,2g 0% Sódio 1147mg 57% Armazene em temperatura ambiente. Após aberto, mantenha refrigerado. Origem: China Validade: 18 meses Contém: 1.6L
   Updated: 2025-12-22T08:13:08Z
   Vendor: DongGu
@@ -11694,13 +12485,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-goma-kuromi-groselha.jpg?v=1753373769
   Price: R$ 13,50 BRL
-- [Bala de goma gaseificada sabor cola Hello Kitty - Sanrio 36g](https://www.meiwei.com.br/products/bala-de-goma-gaseificada-sabor-cola-hello-kitty-sanrio-36g): Com 15% de suco concentrado e muito charme, essa bala de goma da Hello Kitty traz o sabor clássico de refrigerante cola com um toque gaseificado que explode na boca! Perfeita para quem ama doces divertidos e colecionáveis com personagens icônicos. INGREDIENTES: Xarope de maltose, açúcar branco, suco de maçã concentrado (quantidade adicionada ≥15% com base no suco original), aditivos alimentares (goma, amido tratado com ácido, solução de sorbitol, ácido cítrico, citrato de sódio, ácido lático, DL, ácido fórmico, cera de palma brasileira, corante caramelo) e aromas comestíveis. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1387kJ 17% Proteína 6,2g 10% Gorduras Totais 0g 0% Carboidratos 75,4g 25% Sódio 19mg 1% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 36g
-  Updated: 2025-12-06T15:42:27Z
-  Vendor: Sanrio
-  Product Type: Bala
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-goma-hello-cola.jpg?v=1753374131
-  Price: R$ 12,90 BRL
 - [Bala de goma sabor pêssego My Melody - Sanrio 40g](https://www.meiwei.com.br/products/bala-de-goma-sabor-pessego-my-melody-sanrio-40g): Uma explosão de fofura e sabor! Essa bala de goma My Melody tem formato de coração, contém 25% de suco de pêssego e é perfeita para quem ama doces frutados com um toque delicado e divertido. Ideal para presentear ou se deliciar no dia a dia. INGREDIENTES: Xarope de maltose, açúcar branco, suco de pêssego concentrado (quantidade adicionada ≥50% com base no suco original), aditivos alimentares: goma, carragenina, ácido cítrico, citrato de sódio, pectina, ácido DL-málico, sorbato de potássio, vermelho allura, tartrazina, cera de carnaúba), aromas alimentares. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1603kJ 19% Proteína 4g 7% Gorduras Totais 0g 0% Carboidratos 90,3g 30% Sódio 98mg 5% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 40g
   Updated: 2025-12-06T15:42:28Z
   Vendor: Sanrio
@@ -12122,12 +12906,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-descascavel-uva.jpg?v=1754665592
   Price: R$ 23,22 BRL
 - [Bala de goma descascável 3D sabor lichia - XinQiTian 75g](https://www.meiwei.com.br/products/bala-de-goma-descascavel-3d-sabor-lichia-xinqitian-75g): Bala de Goma 3D sabor Lichia Peelable Fudge traz o sabor exótico e delicado da lichia, com sua doçura suave e aroma floral, combinado à textura cremosa do fudge. Com formato 3D e a característica peelable, essa bala oferece uma experiência divertida ao destacar camadas macias e saborosas, ideal para quem busca um doce frutado, refrescante e com um toque diferenciado. INGREDIENTES: Xarope, açúcar, suco de maçã concentrado, suco de lichia concentrado, sorbato de sódio, gordura esférica, ácido DL-málico, dióxido de titânio, vermelho allura. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1438kJ 17% Proteína 2,7g 5% Gorduras Totais 0g 0% Carboidratos 81,9g 27% Sódio 100mg 5% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 75g
-  Updated: 2025-12-06T15:42:40Z
+  Updated: 2026-02-16T16:19:07Z
   Vendor: XinQiTian
   Product Type: Bala
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-descascavel-lichia.jpg?v=1754666129
-  Price: R$ 21,95 BRL
+  Price: R$ 24,00 BRL
 - [Marshmallow recheado sabor morango Kuromi - Sanrio 80g](https://www.meiwei.com.br/products/marshmallow-recheado-sabor-morango-kuromi-sanrio-80g): O marshmallow recheado sabor morango é macio, leve e extremamente fofinho, com um recheio cremoso e doce que traz o sabor marcante do morango a cada mordida. Essa combinação faz dele um doce irresistível, perfeito para quem adora guloseimas suaves e saborosas. A embalagem especial traz a personagem Kuromi, adicionando um toque divertido e único para os fãs. INGREDIENTES: Xarope de maltose, açúcar branco, aditivos alimentares (gelatina, amido tratado com ácido, fosfato de hidroxipropildiamido, sorbitol líquido (INS 420), citrato de sódio (INS 331iii), ácido cítrico (INS 330), ácido DL-málico (INS 296), pectina (INS 440), vermelh allura (INS 129)), sabores alimentares. INFORMAÇÕES NUTRICIONAIS Porção de 20g (6 unidades) Valor Calórico 67kcal 3% Proteína 0,6g 1% Gorduras Totais 0g 0% Carboidratos 16g 5% Sódio 14mg 1% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 80g
   Updated: 2026-01-09T10:44:56Z
   Vendor: Sanrio
@@ -12619,7 +13403,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-misto-65g.jpg?v=1756838172
   Price: R$ 25,90 BRL
 - [Biscoitos amanteigados Pokémon 40g](https://www.meiwei.com.br/products/biscoitos-amanteigados-pokemon-40g): Aproveite o sabor delicioso do Biscoito Amanteigado Pokémon, leve e saboroso, ideal para qualquer momento do dia. Além da embalagem temática com os personagens mais queridos do universo Pokémon, o produto acompanha uma cartela exclusiva de adesivos colecionáveis, tornando a experiência ainda mais divertida para crianças e fãs. Um lanche que une gostinho especial e entretenimento em cada pacote! INGREDIENTES: Farinha de trigo, açúcar branco, ovos frescos (quantidade adicionada > 23%), margarina, leite em pó integral (quantidade adicionada > 2%), sal de cozinha, bicarbonato de sódio, bicarbonato de amônio. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1785kJ 21% Proteína 9g 15% Gorduras Totais 7,2g 12% Carboidratos 80,3g 27% Sódio 153mg 8% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 40g
-  Updated: 2025-12-11T13:52:16Z
+  Updated: 2026-02-15T02:08:51Z
   Vendor: LedaXuetang
   Product Type: Doce
   Availability: Available
@@ -13067,26 +13851,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-tomate-little-pony.jpg?v=1757701451
   Price: R$ 21,90 BRL
 - [Biscoitos sabor leite Little Pony - Tian Le 50g](https://www.meiwei.com.br/products/biscoitos-sabor-leite-little-pony-tian-le-50g): Transforme a hora do lanche em um momento mágico com mini biscoitos sabor leite em uma embalagem temática de My Little Pony. Cada kit vem com 1 cartão de assinatura My Little Pony, enviado aleatoriamente, trazendo uma surpresa colecionável a cada compra. Crocantes, deliciosos e encantadores, esses biscoitos são perfeitos para festas, para presentear ou simplesmente para se deliciar enquanto se diverte com seus personagens favoritos. INGREDIENTES: Farinha de trigo, amido de milho, açúcar, óleo vegetal comestível, margarina, leite em pó integral, leite condensado, sal, fermento, carbonato de cálcio (quantidade adicionada: 0,7%), gluconato de zinco (quantidade adicionada: 0,04%), aditivos alimentares (bicarbonato de amônio, bicarbonato de sódio, metabissulfito de sódio, corante caramelo (produzido com amônia)), aromatizante alimentício. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 2000kJ 24% Proteína 7,6g 13% Gorduras Totais 17,2g 29% Carboidratos 72,6g 24% Sódio 270mg 14% Cálcio 293mg 37% Zinco 7,82mg 52% Armazenar em local fresco e arejado. Evite luz solar direta e altas temperaturas. Levar a geladeira após aberto. AVISO: As crianças devem comer supervisionadas por um adulto. Validade: 12 meses Origem: China Contém 50g
-  Updated: 2025-12-31T12:51:31Z
+  Updated: 2026-02-15T02:09:33Z
   Vendor: Tian Le
   Product Type: Doce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/biscoito-leite-little-pony.jpg?v=1757701788
   Price: R$ 21,90 BRL
-- [Macarrão de Arroz tipo vermicelli com Marisco ao Molho de Gergelim tahine 88g - 麻酱花甲粉](https://www.meiwei.com.br/products/molho-de-ameijoas-com-tahine-e-gergelim-para-macarrao-vermicelli-xiyege-88g): O Macarrão de Arroz com Marisco ao Molho de Gergelim 麻酱花甲粉 (Tahini Clam Vermicelli) é um prato rápido típico de lanchonetes chinesas, que combina: Macarrão fino tipo vermicelli Mariscos (花甲, tipo vôngole) Molho cremoso à base de tahine/gergelim (麻酱) Vem em embalagem tipo “soft pouch”, já com molho e temperos. Basta aquecer para ter um bowl de macarrão de arroz com marisco, bem aromático, com: Sabor intenso de gergelim tostado Caldo encorpado com notas de frutos do mar Toque leve de picância e especiarias chinesas Produto fabricado na China, ideal para quem quer um ramen/lamen de inspiração chinesa, pronto em poucos minutos, perfeito para refeições rápidas ou lanche da noite. Lista de ingredientes Ingredientes: Macarrão vermicelli de arroz, marisco (花甲), água potável, cogumelo‑rei (杏鲍菇), proteína de soja, amido, óleo vegetal comestível, pasta de gergelim, sal, açúcar, pimenta, pasta de feijão com pimenta (contém pimenta, fava/broad bean, sal, farinha de trigo), especiarias, aromatizantes, realçadores de sabor. Alergênicos: contém soja, trigo, gergelim e frutos do mar (marisco). Tabela nutricional (por 100 g) (porção de referência: 100 g – o pacote tem 88 g.) Componente Quantidade / 100 g % VD* Energia 975 kJ 12% Proteínas 6,6 g 11% Gorduras totais 21,3 g 36% Carboidratos 30,5 g 10% Sódio 664 mg 33% Modo de preparo / receita sugerida Macarrão de Arroz com Marisco ao Molho de Gergelim (1 porção) Coloque o conteúdo do pacote em uma tigela funda ou panela pequena. Adicione cerca de 300–400 ml de água fervente (ou quantidade suficiente para cobrir bem o macarrão e o molho). Cozinhe em fogo médio por 3–5 minutos, mexendo de vez em quando, até o vermicelli ficar macio e o caldo bem cremoso. Ajuste o sal, se necessário. Finalize com cebolinha picada, óleo de pimenta ou gergelim tostado por cima (opcional). Sugestão de acompanhamento: Sirva com legumes salteados, folhas verdes ou ovo cozido/mollet para transformar em uma refeição completa. Como armazenar Antes de aberto: conservar em local seco, fresco e ao abrigo da luz solar direta. Depois de aberto: se não utilizar todo o conteúdo, transferir para um recipiente bem fechado, manter refrigerado e consumir em poucos dias. Não consumir se a embalagem estiver estufada, rasgada ou com cheiro estranho.
-  Updated: 2025-12-06T15:43:10Z
-  Vendor: XiYeGe
-  Product Type: Massa
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/molho-macarrao-tahine-gergelim.jpg?v=1757704460
-  Price: R$ 21,99 BRL
-- [Macarrão vermicelli com molho de alho e vieiras - XiYeGe 88g - 蒜蓉粉丝扇贝](https://www.meiwei.com.br/products/molho-de-alho-e-vieiras-para-macarrao-vermicelli-xiyege-88g): Experimente a combinação irresistível de macarrão vermicelli com vieiras e alho, em um prato prático e cheio de sabor. As vieiras, conhecidas pela textura macia e delicada, se unem ao aroma marcante do alho para criar uma refeição rápida, sofisticada e deliciosa. Ideal para quem busca um toque gourmet no dia a dia sem complicação. A Vieira com Macarrão de Arroz ao Alho 蒜蓉粉丝扇贝 é um prato pronto inspirado em uma receita clássica de frutos do mar muito popular na China: vieiras servidas com vermicelli (macarrão de arroz fino), muito alho e molho saboroso. Ideal para quem ama o sabor do mar e quer ter uma refeição prática, com toque oriental, em poucos minutos. Produzido na China e embalado em pouch, o produto traz a combinação de vieiras selecionadas, macarrão de arroz que absorve o molho e tempero intenso de alho, criando um prato aromático e cheio de umami. Pronto para consumo De acordo com a embalagem (开袋即食), o produto é pronto para comer: basta abrir o pacote e consumir diretamente; se preferir, pode ser levemente aquecido em água quente ou no micro-ondas (em recipiente apropriado), para realçar ainda mais o aroma do alho e a textura do macarrão. Principais características e diferenciais Receita clássica chinesa: vieiras com vermicelli ao alho, inspirada em pratos servidos em restaurantes de frutos do mar na China. Pronto para consumo: perfeito para lanches rápidos, marmitas e refeições práticas. Combinação de texturas: macarrão de arroz fininho e macio + vieiras suculentas. Sabor intenso de alho: molho encorpado, levemente salgado e aromático, ideal para quem gosta de sabores marcantes. Versátil: pode ser consumido puro, como petisco, ou servido como cobertura para arroz branco, noodles ou acompanhando legumes salteados. Receita utilizando o produto Arroz oriental com vieira e macarrão de arroz ao alho Ingredientes: 1 pacote de Vieira com Macarrão de Arroz ao Alho 蒜蓉粉丝扇贝 (88g) 1 xícara de arroz branco já cozido 1 colher (sopa) de cebolinha verde picada 1/2 colher (sopa) de óleo de gergelim (opcional) Gergelim torrado a gosto Pimenta dedo‑de‑moça ou chili flakes a gosto (opcional) Modo de preparo: Se desejar consumir quente, aqueça o conteúdo do pacote em uma panelinha ou no micro‑ondas (em recipiente adequado) por 1–2 minutos. Em um prato fundo ou bowl, coloque o arroz branco quente. Distribua por cima a vieira com macarrão de arroz ao alho, espalhando bem o molho para envolver o arroz. Finalize com cebolinha picada, um fio de óleo de gergelim e gergelim torrado. Se gostar de mais picância, acrescente pimenta a gosto e sirva imediatamente. Sugestão perfeita como refeição rápida com cara de prato de restaurante chinês. INGREDIENTES: Farinha de konjac, vieiras, água potável, cogumelos ostra, proteína de soja, amido comestível, óleo vegetal comestível, alho, sal comestível, tempero para frango, açúcar branco, vinho de cozinha, aromatizantes comestíveis, especiarias. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 551kJ 7% Proteína 4g 7% Gorduras Totais 10,2g 17% Carboidratos 6,2g 2% Sódio 590mg 30% Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz solar direta. Não perfurar ou danificar a embalagem. Após aberto, consumir imediatamente ou manter em geladeira, em recipiente bem fechado, e consumir em até 24 horas. Não consumir o produto se a embalagem estiver violada, estufada ou com odor alterado.
-  Updated: 2026-01-09T06:16:29Z
-  Vendor: XiYeGe
-  Product Type: Massa
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vieira-macarrao-arroz-alho-garlic-vermicelli-scallops-88g-mei-wei.jpg?v=1767896221
-  Price: R$ 26,90 BRL
 - [Snack de Massa de Trigo Picante em Tiras 106g - 佳龙 调味面制品 Latiao](https://www.meiwei.com.br/products/pedacos-de-gluten-picantes-j-loong-106g): O Snack de Massa de Trigo Picante em Tiras 佳龙 调味面制品 é um dos petiscos mais populares da China, muito consumido por jovens em escolas, escritórios e lojas de conveniência. Produzido a partir de massa de trigo temperada, é cortado em tiras, cozido e marinado em um molho rico em especiarias e pimenta, resultando em um lanche de sabor intenso e textura mastigável. Deliciosos quadradinhos de glúten temperados com especiarias e pimenta, prontos para comer e ideais como snack oriental ou acompanhamento de refeições. Crocantes, levemente mastigáveis e cheios de sabor, são perfeitos para quem ama petiscos diferentes e picantes. Embalagem prática de 106g, ótima para levar na bolsa ou compartilhar. Pronto para consumo O produto é pronto para comer: basta abrir a embalagem e consumir diretamente como snack; também pode ser servido como acompanhamento de bebidas, adicionado a miojos, arrozes fritos ou saladas para dar um toque picante extra. Não é necessário cozinhar ou aquecer, mas pode ser levemente aquecido se desejar uma textura ainda mais macia. Principais características e diferenciais Sabor típico de “latiao” chinês: combinação de pimenta, óleo aromático e especiarias. Textura mastigável: tiras de massa de trigo firmes, que lembram lámen mais denso. Praticidade total: pacote pronto para consumo, ideal para levar na bolsa, trabalho ou viagens. Perfil de sabor marcante: picante, levemente adocicado e com toque de umami. Perfeito para fãs de snacks asiáticos: ótimo para quem gosta de experimentar petiscos de rua tradicionais da China. INGREDIENTES: Farinha de trigo, óleo vegetal, água, glicerol, sal comestível, pimenta, glutamato monossódico, açúcar, aromas comestíveis, especiarias mono e di, fosfato de ciclohexila de sódio, nucleotídeos dissódicos, arroz vermelho fermentado, pimentão vermelho, sucralose, terc-butil. INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1754kJ 21% Proteína 7,5g 13% Gorduras Totais 21,9g 37% Carboidratos 48g 16% Sódio 2411mg 121% Receita utilizando o produto Lámen instantâneo turbinado com Snack de Massa de Trigo Picante Ingredientes (1 porção) 1 pacote de lámen instantâneo sabor neutro ou frango 1/3 do pacote de Snack de Massa de Trigo Picante em Tiras 佳龙 (cortado em pedaços menores) 2 xícaras (480 ml) de água 1 ovo (opcional) 1 cebola-verde fatiada 1 colher (chá) de óleo de gergelim (opcional) Gergelim torrado a gosto Modo de preparo Em uma panela, ferva a água e cozinhe o lámen seguindo o tempo indicado na embalagem (sem usar todo o sachê de tempero, se quiser menos sal). Nos últimos 2 minutos de cozimento, adicione os pedaços do snack de massa de trigo picante para que aqueçam e absorvam um pouco do caldo. Se desejar, quebre um ovo diretamente na panela e cozinhe até atingir o ponto desejado. Transfira tudo para uma tigela, finalize com cebola‑verde, gergelim e o óleo de gergelim. Sirva imediatamente. Resultado: um lámen com textura extra e sabor picante típico dos snacks chineses. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz solar direta. Manter a embalagem sempre bem fechada. Após aberto, consumir de preferência em até 3 dias, mantendo o produto em recipiente bem vedado. Não consumir se a embalagem estiver violada, estufada ou com odor/aparência estranhos.
   Updated: 2026-01-09T06:07:01Z
   Vendor: J-Loong
@@ -13256,7 +14026,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-raiz-de-astragalo-fatiada-huang-qi-pian-embalagem.jpg?v=1766976069
   Price: R$ 75,99 BRL
 - [Goma de pêssego (Peach Gum) TaoJiao 500g - 桃胶](https://www.meiwei.com.br/products/goma-de-pessego-peach-gum-taojiao-500g): Descubra a Goma de Pêssego (Peach Gum), um ingrediente natural e tradicional da culinária e medicina chinesa, conhecida por seus benefícios para a saúde da pele, digestão e equilíbrio corporal. Rica em colágeno vegetal, ela auxilia na hidratação da pele, fortalece unhas e cabelos e contribui para o bem-estar geral. Como comer: 1. Deixe cerca de 20 gramas de goma de pêssego de molho por pelo menos 24 horas até que amoleça. 2. Remova as impurezas e as partes pretas dos pessegueiros. 3. Lave novamente e remova os resíduos. 4. Cozinhe em água fervente por 15 minutos. Adicione outros ingredientes como açúcar, leite, mel, tâmara chinesa, Longan, Goji, se necessário. Armazenar em local fresco, arejado e em temperatura ambiente. Evite luz solar direta e altas temperaturas. Origem: China Contém 500g
-  Updated: 2026-02-10T13:52:26Z
+  Updated: 2026-02-12T00:56:16Z
   Vendor: TaoJiao
   Product Type: Doce
   Availability: Available
@@ -13312,7 +14082,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/bala-descascavel-manga-flash.jpg?v=1758204297
   Price: R$ 22,99 BRL
 - [Bala de Gelatina em Formato de Animais  Lata Redonda - 春游小分队 造型糖果](https://www.meiwei.com.br/products/bala-gelatina-formato-animais-chun-you-xiao-fen-dui): O Marshmallow de Frutas é fofinho, colorido e cheio de sabor, trazendo aquela combinação irresistível de doçura e diversão. Em formatos criativos como animais, nuvens e patinhas, ele conquista crianças e adultos, sendo perfeito para festas, lembrancinhas ou simplesmente para adoçar o dia. Sua textura macia e o gostinho frutado fazem dele um snack delicioso e alegre em qualquer ocasião. INGREDIENTES: Açúcar branco, xarope de maltose, água, suco de maçã concentrado, aditivos alimentares (carragenina, gelatina, citrato de sódio, ácido cítrico, tartrazina, amarelo crepúsculo, azul brilhante, vermelho allura, eritrosina, dióxido de titânio), aromas comestíveis. Teor de suco: ≥2,5% INFORMAÇÕES NUTRICIONAIS SABOR FRUTAS Porção de 100g Valor Calórico 1518kJ 18% Proteína 0,7g 1% Gorduras Totais 3,9g 6% Carboidratos 80,1g 27% Sódio 205mg 10% INFORMAÇÕES NUTRICIONAIS SABOR FRUTAS Porção de 100g Valor Calórico 1468kJ 17% Proteína 3,5g 6% Gorduras Totais 2,1g 4% Carboidratos 78,3g 26% Sódio 12mg 1% ATENÇÃO: Não engula de uma vez só. As crianças precisam de supervisão de adultos! Armazene em local fresco e seco, longe da luz solar direta e de altas temperaturas. Origem: China Validade: 12 meses Contém 110g
-  Updated: 2025-12-29T14:21:04Z
+  Updated: 2026-02-14T12:01:41Z
   Vendor: Guoliqi
   Product Type: Doce
   Availability: Available
@@ -13347,14 +14117,14 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-salgadinho-feijao-fava-crocante-lanhua-dou-wu-xiang-150g-embalagem.jpg?v=1766973832
   Price: R$ 24,99 BRL
 - [Salgadinho de Semente de girassol sabor caramelo Da Hao Da 150g - 焦糖味瓜子](https://www.meiwei.com.br/products/salgadinho-de-semente-de-girassol-sabor-caramelo-da-hao-da-150g): Um snack crocante e irresistível que combina o sabor marcante das sementes de girassol com o toque adocicado e envolvente do caramelo. Perfeito para quem busca um petisco diferente, é ideal para matar a vontade de doce de forma prática e saborosa. Uma opção oriental deliciosa para saborear a qualquer hora do dia. INGREDIENTES: Sementes de girassol, açúcar branco, sal de cozinha, açúcar mascavo, especiarias, aditivos alimentares (sacarina, acessulfame de potássio, sucralose, etil maltol, butilhidroquinona terciária, ácido cítrico), glutamato monossódico, aditivos alimentares, aromatizantes e especiarias. INFORMAÇÕES NUTRICIONAIS Porção de 15g (1 colher de sopa) Valor Calórico 93kcal 5% Proteína 4,1g 8% Gorduras Totais 7,3g 11% Carboidratos 3g 1% Sódio 174mg 9% Mantenha em local fresco e seco, evite a luz solar direta. Validade: 9 meses Origem: China Contém 150g
-  Updated: 2026-01-05T12:38:31Z
+  Updated: 2026-02-11T18:31:56Z
   Vendor: Da Hao Da
   Product Type: Aperitivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-semente-de-girassol-sabor-caramelo-dhd-jiaotang-weiguazi-158g-embalagem.jpg?v=1766973297
   Price: R$ 36,90 BRL
 - [Salgadinho de Semente de girassol sabor creme Da Hao Da 150g - 奶油味瓜子](https://www.meiwei.com.br/products/salgadinho-de-semente-de-girassol-sabor-creme-da-hao-da-150g): Um snack crocante e cheio de sabor, que une a intensidade das sementes de girassol com a suavidade de um delicioso creme. Perfeito para quem busca um petisco diferente e irresistível, é ideal para consumir a qualquer hora do dia ou compartilhar em momentos especiais. Uma opção prática e saborosa para quem gosta de experimentar novos sabores orientais. INGREDIENTES: Sementes de girassol, sal, especiarias, aditivos alimentares (sacarina sódica, anis, sucralose, terc-butildimeticona, ácido cítrico), ferro, aromatizantes. INFORMAÇÕES NUTRICIONAIS Porção de 15g (1 colher de sopa) Valor Calórico 93kcal 5% Proteína 4,1g 8% Gorduras Totais 7,3g 11% Carboidratos 3g 1% Sódio 174mg 9% Mantenha em local fresco e seco, evite a luz solar direta. Validade: 9 meses Origem: China Contém 150g
-  Updated: 2026-01-05T12:38:31Z
+  Updated: 2026-02-11T18:31:56Z
   Vendor: Da Hao Da
   Product Type: Aperitivo
   Availability: Available
@@ -13480,7 +14250,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-macarrao-udon-fresco-estilo-coreano-qq-mian-250g-chu-shen.jpg?v=1766939452
   Price: R$ 14,99 BRL
 - [Jujuba (tâmara vermelha) SiHong 500g - 新疆灰枣](https://www.meiwei.com.br/products/jujuba-tamara-vermelha-sihong-500g): A Jujuba Vermelha, também conhecida como Tâmara Chinesa, é um fruto tradicional da culinária oriental, apreciado pelo sabor adocicado e suave. Rica em nutrientes, pode ser consumida pura como snack natural, adicionada a chás, sopas, sobremesas e receitas típicas asiáticas. Versátil e nutritiva, é uma escolha saudável para adoçar o dia a dia de forma natural, com o autêntico sabor da tradição chinesa. INGREDIENTES: Tâmaras vermelhas INFORMAÇÕES NUTRICIONAIS Porção de 100g Valor Calórico 1417kJ 17% Proteína 4,1g 7% Gorduras Totais 3,2g 5% Carboidratos 72,3g 24% Sódio 35mg 2% Vitamina C 30mg 30% Mantenha em local fresco e seco, evite a luz solar direta. Validade: 12 meses Origem: China Contém 500g
-  Updated: 2026-02-08T13:35:41Z
+  Updated: 2026-02-13T01:29:26Z
   Vendor: SiHong
   Product Type: Doce
   Availability: Available
@@ -13606,12 +14376,12 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-cha-puerh-jasmim-mo-li-pu-er-200g-pastilhas-embalagem-redonda.jpg?v=1766933983
   Price: R$ 125,90 BRL
 - [Fungo branco seco tremella Zheng Feng 40g - 原色雪耳](https://www.meiwei.com.br/products/fungo-branco-seco-tremella-zheng-feng-40g): Base de Sopa Erva Chinesa Fungo Branco 原色雪耳 40g é feita com o famoso fungo branco chinês (Tremella fuciformis), também conhecido como “orelha de neve” (雪耳). Ele é muito usado na culinária chinesa em sopas doces e salgadas, trazendo textura gelatinosa e macia, além de absorver muito bem o sabor dos caldos. O produto vem desidratado, em flocos inteiros, pronto para ser hidratado e utilizado em: sopas doces chinesas com goji berry e tâmaras vermelhas sopas salgadas leves, com frango ou costelinha caldos nutritivos e tônicos mingaus e sobremesas orientais Perfeito para quem busca ingredientes típicos da culinária chinesa, naturais e versáteis. Destaques: Fungo branco chinês desidratado (雪耳 / 银耳) Textura macia e levemente crocante após hidratar Ideal para base de sopas, sobremesas e caldos funcionais Produto seco, longa vida útil, ótimo para despensa Lista de ingredientes Fungo branco desidratado (雪耳 / cogumelo branco) Tabela nutricional (porção de 10g de produto seco – valores médios aproximados) Informação nutricional Porção 10g (aprox.) %VD* Valor energético 15 kcal (63 kJ) 1% Carboidratos 3,5 g 1% Proteínas 0,3 g 0% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g 0% Fibra alimentar 1,5 g 6% Sódio 5 mg 0% *% Valores Diários de referência com base em uma dieta de 2.000 kcal. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Modo de preparo básico (uso geral) Separe cerca de 5–10g de fungo branco seco. Lave rapidamente em água corrente para tirar possíveis impurezas. Coloque de molho em água fria por 20–30 minutos, até ficar macio e expandir. Retire o talinho mais duro (se houver) e rasgue em pedaços menores. Use direto em sopas, caldos, mingaus ou sobremesas. Receita sugerida (ocidentalizada): Sopa Doce de Fungo Branco com Maçã e Canela Ingredientes (4 porções) 10g de fungo branco 原色雪耳, hidratado 1 maçã grande em cubos (fuji ou gala) 2 colheres (sopa) de goji berry (opcional, combina bem) 2–3 colheres (sopa) de açúcar ou mel (ajuste a gosto) 1 pau de canela 800 ml de água 1 fatia fina de gengibre (opcional) Modo de preparo Hidrate o fungo branco em água fria por 20–30 min, lave e corte em pedaços menores. Em uma panela, coloque a água, fungo branco, maçã, canela e gengibre. Leve ao fogo baixo e deixe cozinhar 30–40 minutos, até o fungo ficar bem macio e a sopa levemente espessa. Acrescente o açúcar ou mel e, se quiser, a goji berry. Cozinhe por mais 5 minutos. Sirva quente ou gelada, como uma sobremesa leve de colher. Como armazenar Conservar em local fresco, seco e ao abrigo da luz. Manter a embalagem bem fechada após abrir. Depois de aberto, consumir preferencialmente em até 6 meses. Evitar umidade, pois pode amolecer ou embolorar.
-  Updated: 2026-01-26T14:33:28Z
+  Updated: 2026-02-12T17:58:12Z
   Vendor: Zheng Feng Brand
   Product Type: Cogumelo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-fungo-branco-chines-base-de-sopa-yuanse-xueer-40g.jpg?v=1766325891
-  Price: R$ 29,99 BRL
+  Price: R$ 35,00 BRL
 - [Fungo Jade branco DS&H 200g - 白玉耳](https://www.meiwei.com.br/products/fungo-jade-branco-ds-h-200g): O Fungo Jade Branco é um tipo de cogumelo seco usado na culinária oriental, parecido com a tremella, mas com textura ainda mais delicada e aparência de pétalas finas; depois de hidratado, fica translúcido, levemente crocante e muito versátil, podendo ser usado em sopas, sobremesas, saladas e até chás, trazendo não só um visual sofisticado ao prato como também benefícios nutricionais, já que é rico em fibras e polissacarídeos. INGREDIENTES: Fungo branco Armazene em ambiente limpo, ventilado e seco. Origem: China Contém 200g
   Updated: 2025-12-29T02:56:28Z
   Vendor: DS&H
@@ -13746,7 +14516,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-semente-malva-cha-natural-chines-frasco.png?v=1766679400
   Price: R$ 139,99 BRL
 - [Sementes de Lótus-da-Neve 250g – 雪莲子 Snow Lotus Seeds](https://www.meiwei.com.br/products/sementes-de-lotus-da-neve-250g-snow-lotus-seeds): O que é: 雪莲子, conhecido como “semente de lótus-da-neve”, é um ingrediente tradicional asiático, selecionado e desidratado, ideal para preparo de chás, sopas doces, mingaus e sobremesas.Benefícios e características: Natural, baixo teor de gordura e sódio Rico em amido e textura macia após hidratação Versátil: combina com frutas secas, goji, tâmaras vermelhas, leite ou caldasModo de preparo: Lave e deixe de molho por 6–8 horas (ou durante a noite) até inchar.Cozinhe por 20–30 minutos até ficar translúcido e macio.Adoce a gosto ou use em receitas. Ingrediente: 100% 雪莲子 (sementes de lótus-da-neve) desidratadas.Peso líquido: 250 gValidade: 24 meses a partir da fabricação.Armazenar em local fresco e seco.Origem: China
-  Updated: 2025-12-25T16:41:46Z
+  Updated: 2026-02-12T00:56:20Z
   Vendor: 养颜记
   Product Type: Chá
   Availability: Available
@@ -13914,7 +14684,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/cha-ervas-baiyunshan-fufang-banlangen-keli-20x15g-frente_4f39f09b-9b10-4938-8d6e-c695b2c7fb67.png?v=1762097240
   Price: R$ 110,99 BRL
 - [Chá Pu’er de Yunnan com Rosa Vermelha 200g - 熟茶](https://www.meiwei.com.br/products/cha-pu-er-de-yunnan-com-rosa-vermelha-200g): Descubra a tradição de Yunnan com um toque aromático.Este Pu’er shu (熟茶) é produzido com folhas selecionadas de Yunnan e prensado com rosa vermelha, resultando em um chá encorpado, de coloração âmbar-escura, com o clássico perfil terroso do Pu’er equilibrado por fragrância delicada de rosas.As tuochas individuais garantem praticidade: cada unidade é ideal para uma caneca ou bule pequeno, preservando frescor e padronizando a infusão. Perfeito para quem aprecia chás escuros suaves e aromáticos, excelente após as refeições.Benefícios e destaques: Chá Pu’er fermentado (shu) com pétalas de rosa Formato mini tuocha: prático e sem desperdício Aroma floral, corpo redondo, baixa adstringência Ideal para relaxar e para rituais de chá no dia a dia Produto de Yunnan, berço do Pu’erEspecificações: Tipo: Chá escuro (Pu’er shu) aromatizado com rosa Apresentação: tuochas individuais em potePeso líquido: 200 g ±10 g Ingredientes: chá Pu’er de Yunnan, rosa vermelha de YunnanArmazenamento: Manter em local limpo, ventilado, seco, longe de odores e luz direta.Temperatura controlada até 25 °C, umidade relativa abaixo de 70%.Origem: Yunnan, China
-  Updated: 2026-02-07T19:24:25Z
+  Updated: 2026-02-17T18:50:17Z
   Vendor: Puer Classic Tea Industry Co., Ltd. (普洱经典茶业有限
   Product Type: Chá
   Availability: Available
@@ -14040,7 +14810,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-pele-de-tofu-seca-chinesa-jiangnan.png?v=1766686745
   Price: R$ 29,99 BRL
 - [Molho Doce de Feijão Fermentado Xiangda Textura Crocante 300g - 原酿甜面酱](https://www.meiwei.com.br/products/molho-doce-de-feijao-fermentado-xiangda-textura-crocante-300g): Descubra o Autêntico Sabor da Culinária Chinesa com o Molho Doce de Feijão Fermentado Xiangda! Diretamente da China, este Molho Doce de Feijão Fermentado Original (原酿甜面酱) da marca Xiangda é um condimento essencial para quem aprecia os sabores profundos e ricos da culinária chinesa. Produzido com ingredientes de alta qualidade, este molho oferece uma textura única e um sabor adocicado e levemente salgado que o torna incrivelmente versátil. Lista de Ingredientes: Água, Açúcar, Feijão Preto, Farinha de Trigo, Sal, Cogumelo Shiitake, Realçador de Sabor (E621), Xing Fom, Conservante (E202), Agente de Fermentação. Tabela Nutricional: (Valores aproximados por porção de 50g - 1/6 da embalagem) Nutriente Quantidade % VD* Valor Energético 90 kcal 5% Carboidratos 15g 5% Açúcares Totais 9g Açúcares Adicionados 9g 18% Proteínas 5g 10% Gorduras Totais 0.5g 1% Gorduras Saturadas 0g 0% Gorduras Trans 0g Fibras Alimentares 3g 12% Sódio 440mg 22% %VD: Porcentagem de Valores Diários de referência para um adulto. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita Sugerida: Frango Agridoce com Molho de Feijão Fermentado Ingredientes: 300g de peito de frango cortado em cubos 2 colheres de sopa de Molho Doce de Feijão Fermentado Xiangda 1 colher de sopa de molho de soja 1 colher de sopa de vinagre de arroz (ou vinagre branco) 1 colher de sopa de açúcar 1 colher de chá de óleo de gergelim 1 dente de alho picado 1 pedaço pequeno de gengibre picado 1/4 pimentão verde em cubos (opcional) 1/4 pimentão vermelho em cubos (opcional) Óleo vegetal para refogar Cebolinha picada para decorar Modo de Preparo: Em uma tigela, misture o frango com o molho de soja, o vinagre de arroz, o açúcar, o óleo de gergelim e o Molho Doce de Feijão Fermentado Xiangda. Deixe marinar por pelo menos 15 minutos. Aqueça um pouco de óleo vegetal em uma frigideira ou wok em fogo médio-alto. Adicione o alho e o gengibre e refogue por cerca de 30 segundos até ficarem aromáticos. Adicione os cubos de frango marinados (junto com a marinada) e os pimentões (se estiver usando). Cozinhe, mexendo ocasionalmente, até que o frango esteja dourado e cozido por completo, e o molho tenha engrossado levemente. Sirva quente sobre arroz branco cozido. Decore com cebolinha picada. Origem: China Como Armazenar: Após aberto, o produto deve ser armazenado em geladeira (entre 0°C e 4°C) para preservar seu frescor e sabor. Mantenha a embalagem bem fechada. A data de validade está indicada na embalagem, sendo 18 meses a partir da data de fabricação.
-  Updated: 2026-02-06T19:15:23Z
+  Updated: 2026-02-14T12:26:54Z
   Vendor: Xiangda food
   Product Type: Condimento
   Availability: Available
@@ -14102,20 +14872,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/ovo-cozido-cinco-especiarias-xingli-wuxiangdan-snack-wenzhou.png?v=1762629659
   Price: R$ 15,99 BRL
-- [Bubble Tea Pérolas de Sabor Maçã Verde 1,2kg  - 青苹果味爆爆珠](https://www.meiwei.com.br/products/bubble-tea-perolas-de-sabor-maca-verde-1-2kg): As Pérolas de Sabor Maçã Verde (青苹果味爆爆珠) são esferas gelatinosas recheadas com xarope de maçã verde, muito utilizadas como topping em bubble tea, iogurtes, sorvetes, sobremesas e drinks. Ao morder, liberam um sabor intenso e refrescante de maçã verde, tornando qualquer bebida ou sobremesa mais divertida e saborosa. Produto pronto para uso, basta adicionar ao seu preparo favorito. Lista de ingredientes: Água, xarope de frutose, suco concentrado de maçã verde, regulador de acidez (ácido cítrico), espessante (algina de sódio), cálcio, aromatizante, corante alimentício, conservante (sorbato de potássio), edulcorante, antioxidante, DL-maçã ácido, vitamina C. Tabela nutricional (porção de 100g): Componente Quantidade VD%* Energia 350 kJ 4% Proteínas 0 g 0% Gorduras totais 0 g 0% Carboidratos 20 g 7% Sódio 10 mg <1% *Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Como armazenar: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 7 dias. Receita sugerida: Bubble Tea de Maçã Verde com Pérolas Ingredientes: 200 ml de chá verde gelado 50 ml de xarope de maçã verde 2 colheres de sopa de Pérolas de Sabor Maçã Verde (青苹果味爆爆珠) Gelo a gosto Modo de preparo: Em um copo, coloque o gelo, o chá verde e o xarope de maçã verde. Misture bem. Adicione as pérolas de maçã verde por cima. Sirva com canudo largo e aproveite! Origem: China
-  Updated: 2026-02-08T16:50:31Z
-  Vendor: Mei Wei
-  Product Type: Doce
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/perolas-maca-verde-bubble-tea-qingpingguo-baobaozhu-1-2kg.png?v=1762738833
-  Price: R$ 89,99 BRL
-- [Bubble Tea Pérolas de Sabor Morango 1,2kg - 草莓味爆爆珠](https://www.meiwei.com.br/products/bubble-tea-perolas-de-sabor-morango-1-2kg): As Pérolas de Sabor Morango (草莓味爆爆珠) são esferas gelatinosas recheadas com xarope de morango, ideais para incrementar bubble tea, iogurtes, sorvetes, sobremesas e drinks. Ao morder, liberam um sabor intenso e refrescante de morango, tornando qualquer bebida ou sobremesa mais divertida e saborosa. Produto pronto para uso, basta adicionar ao seu preparo favorito. Lista de ingredientes: Água, xarope de frutose, suco concentrado de morango, regulador de acidez (ácido cítrico), espessante (algina de sódio), cálcio, aromatizante, corante alimentício, conservante (sorbato de potássio), edulcorante, antioxidante, DL-ácido málico, vitamina C. Tabela nutricional (porção de 100g): Componente Quantidade VD%* Energia 427 kJ 5% Proteínas 0 g 0% Gorduras totais 0 g 0% Carboidratos 25,1 g 8% Sódio 22 mg 1% *Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Bubble Tea de Morango com Pérolas Ingredientes: 200 ml de chá preto ou chá verde gelado 50 ml de xarope de morango 2 colheres de sopa de Pérolas de Sabor Morango (草莓味爆爆珠) Gelo a gosto Modo de preparo: Em um copo, coloque o gelo, o chá e o xarope de morango. Misture bem. Adicione as pérolas de morango por cima. Sirva com canudo largo e aproveite! Como armazenar: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 7 dias. Origem: China
-  Updated: 2026-02-09T18:54:51Z
-  Vendor: Mei Wei
-  Product Type: Doce
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/perolas-morango-bubble-tea-caomei-baobaozhu-1-2kg.png?v=1762814147
-  Price: R$ 89,99 BRL
 - [Bubble Tea Pérola de Tapioca 900g - 珍珠粉圆](https://www.meiwei.com.br/products/bubble-tea-perola-de-tapioca-900g): As Pérolas de Tapioca para Bubble Tea (珍珠粉圆) da Xiangda Food são o ingrediente essencial para preparar o autêntico bubble tea (chá com bolhas). Feitas a partir de amido de mandioca, essas bolinhas ficam macias e elásticas após o cozimento, trazendo textura e diversão para bebidas, sobremesas e receitas orientais. Prontas para serem cozidas e utilizadas em chás, milkshakes, doces e até mesmo em receitas criativas. Lista de ingredientes: Amido de mandioca, água, açúcar, corante caramelo, conservante (benzoato de sódio). Tabela nutricional (porção de 100g): Componente Quantidade VD%* Energia 1051 kJ 13% Proteínas 0 g 0% Gorduras totais 0 g 0% Carboidratos 61,8 g 21% Sódio 98 mg 5% *Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita sugerida: Bubble Tea Tradicional com Pérolas de Tapioca Ingredientes: 50g de Pérola de Tapioca Xiangda (珍珠粉圆) 200ml de chá preto ou chá verde 50ml de leite ou bebida vegetal Açúcar ou xarope a gosto Gelo Modo de preparo: Cozinhe as pérolas de tapioca em água fervente por cerca de 5 minutos ou até ficarem macias. Escorra e enxágue em água fria. Em um copo, coloque as pérolas, adicione gelo, chá, leite e açúcar a gosto. Misture bem e sirva com canudo largo. Como armazenar: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter bem fechado e consumir em até 7 dias. Origem: China
   Updated: 2026-02-08T16:50:31Z
   Vendor: Xiangda food
@@ -14222,7 +14978,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-vodka-xmeiknows-laranja-futejia-ganjuwei-175ml-40porcento.png?v=1764024811
   Price: R$ 149,99 BRL
 - [Baijiu Chinês Tradicional 100ml - 白酒](https://www.meiwei.com.br/products/baijiu-chines-tradicional-100ml): O Baijiu (白酒) é a bebida alcoólica destilada mais tradicional da China, famosa por seu aroma intenso e sabor marcante. Produzido a partir da fermentação de grãos como sorgo, arroz, milho, trigo e arroz glutinoso, o baijiu é presença garantida em celebrações, brindes e ocasiões especiais na cultura chinesa. Esta versão apresenta graduação alcoólica de 52% e embalagem prática de 100ml, ideal para degustação ou presente. Origem: China Lista de Ingredientes: Água Sorgo Arroz Milho Trigo Arroz glutinoso Tabela Nutricional (porção de 100ml – valores aproximados): Valor energético: 295 kcal Carboidratos: 0g Proteínas: 0g Gorduras totais: 0g Álcool: 52% vol Receita Sugerida: Sirva puro em temperatura ambiente, em pequenas doses (copinhos de shot). Ideal para acompanhar pratos típicos chineses, carnes grelhadas ou para brindar em festas e reuniões. Como Armazenar: Conservar em local fresco, seco e ao abrigo da luz. Após aberto, manter a garrafa bem fechada e consumir preferencialmente em até 6 meses.
-  Updated: 2026-02-09T22:29:31Z
+  Updated: 2026-02-10T18:04:14Z
   Vendor: MeiweiYuan
   Product Type: Bebida Alcóolica
   Availability: Available
@@ -14348,7 +15104,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-petisco-konjac-broto-bambu-molho-gergelim-jialong-80g.png?v=1764726319
   Price: R$ 19,99 BRL
 - [Chá Verde Matcha em Pó 100g - 抹茶绿茶粉](https://www.meiwei.com.br/products/matcha-em-po-fujian-100g): O Chá Matcha em Pó Premium 抹茶绿茶粉 é um chá verde finamente moído, feito a partir de folhas jovens de chá, secas e trituradas até virar um pó ultrafino, de cor verde intensa e aroma vegetal marcante. Produzido na China, na região de Fuzhou, província de Fujian, é ideal para quem busca o sabor e o visual característicos do matcha para: preparar chá tradicional fazer matcha latte (com leite ou bebidas vegetais) usar em sobremesas, bolos, sorvetes, smoothies, cookies e brigadeiro de matcha Características: 100% chá verde em pó (green tea) Cor verde vibrante e textura bem fina Sabor vegetal, levemente adstringente, com um toque adocicado natural Excelente para uso em cafeterias, docerias e confeitaria caseira Lista de ingredientes 100% chá verde (green tea) NÃO contém açúcar adicionado. Tabela nutricional (porção sugerida: 2 g – cerca de 1 colher de chá rasa) Informação nutricional Porção 2 g (1 col. chá) %VD* Valor energético 6 kcal (25 kJ) 0% Carboidratos 1,0 g 0% Proteínas 0,5 g 1% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g – Fibra alimentar 0,4 g 2% Sódio 0 mg 0% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita usando o matcha Matcha Latte Cremoso (Quente ou Gelado) Ingredientes (1 xícara): 1 colher de chá rasa (2 g) de Chá Matcha em Pó 抹茶绿茶粉 30–50 ml de água quente (70–80 ºC, sem ferver) 150–200 ml de leite ou bebida vegetal (aveia, soja, amêndoas etc.) 1–2 colheres de chá de açúcar, mel ou adoçante (opcional) Gelo a gosto (para versão gelada) Modo de preparo: Em uma tigelinha, coloque o matcha em pó. Adicione um pouco de água quente (apenas o suficiente para cobrir o pó) e misture vigorosamente com um batedor de bambu (chasen) ou mini fouet até formar um creme liso, sem grumos. Aqueça o leite ou bebida vegetal (sem ferver) e adoce a gosto. Despeje o leite sobre o matcha dissolvido, misture e sirva imediatamente. Para matcha latte gelado, use leite frio, adoce, coloque gelo no copo e adicione o matcha já dissolvido por cima. Sugestões de uso extra: Misture em vitaminas e smoothies Acrescente em massas de bolo, panquecas, cookies, brownies Use para fazer mousses, cheesecakes e brigadeiro gourmet de matcha Como armazenar Conservar em local seco, fresco e ao abrigo da luz. Manter sempre a embalagem bem fechada após abrir, retirando o máximo de ar possível. Recomenda‑se guardar em pote hermético e, se possível, na geladeira, para preservar cor e aroma por mais tempo. Consumir de preferência em até 30–60 dias após aberto, ou seguir a recomendação do fabricante impressa na embalagem.
-  Updated: 2026-01-19T16:48:13Z
+  Updated: 2026-02-16T14:35:22Z
   Vendor: Fujian
   Product Type: Chá
   Availability: Available
@@ -14523,7 +15279,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-biscoito-macaron-recheado-manga-gangfu-62g-macarons-chineses.png?v=1765505409
   Price: R$ 19,99 BRL
 - [Biscoito Tipo Macaron Recheado de Pêssego Gangfu 62g - 港福 马卡龙夹心饼干 白桃味](https://www.meiwei.com.br/products/biscoito-tipo-macaron-recheado-de-pessego-gangfu-62g): O Biscoito Tipo Macaron Recheado de Pêssego Gangfu 港福 马卡龙夹心饼干 白桃味 62g traz o visual delicado do macaron francês em versão biscoito crocante recheado. Produzido na China pela marca 港福 (Gangfu), combina: duas conchinhas tipo macaron cor‑de‑rosa recheio cremoso sabor pêssego branco (白桃味) pedacinhos de fruta desidratada, que deixam o sabor de pêssego mais intenso Ideal para: acompanhar chá, café ou bebidas geladas presentear ou montar caixas de doces orientais decorar mesas de festa e sobremesas Textura crocante por fora e cremosa por dentro, com perfume frutado e adocicado típico de pêssego. Marca Marca: 港福 (Gangfu) Segmento: biscoitos e snacks doces de inspiração ocidental produzidos na China. Lista de ingredientes Farinha de trigo Açúcar Óleo vegetal (ex.: palma, soja ou mistura) Xarope de glicose Ovos e/ou pó de ovo Leite em pó ou soro de leite em pó Pedaços de pêssego branco desidratado / liofilizado Amido de milho Fermentos químicos (bicarbonato de sódio, pirofosfato ácido de sódio etc.) Emulsificantes (ex.: lecitina de soja) Aromatizante de pêssego Corantes alimentícios Sal Alérgenos: contém trigo (glúten), ovo, leite e soja. Pode conter traços de outros cereais, nozes e sementes de gergelim. Tabela nutricional (porção de 31g – ~1/2 da caixa) Componente Por porção (~31g) %VD* Valor energético 150 kcal (630 kJ) 8% Carboidratos totais 18 g 6% Açúcares 10 g – Proteínas 2 g 3% Gorduras totais 8 g 15% Gorduras saturadas 4 g 18% Gorduras trans 0 g – Fibra alimentar 0,5 g 2% Sódio 55 mg 2% *% Valores Diários de referência com base em uma dieta de 2.000 kcal. Sugestão de receita usando o produto Taça rápida de creme de iogurte com macaron de pêssego Ingredientes (2 taças) 1 caixa de Biscoito Tipo Macaron Recheado de Pêssego Gangfu 62g 1 pote (170 g) de iogurte grego natural ou de baunilha 2 colheres (sopa) de geleia de pêssego ou outra fruta clara 1 pêssego fresco em cubinhos (opcional) Hortelã para decorar Modo de preparo Quebre alguns biscoitos em pedaços e forre o fundo das taças. Misture o iogurte com a geleia de pêssego. Coloque uma camada de iogurte sobre os biscoitos. Acrescente cubinhos de pêssego fresco. Finalize com 1 ou 2 macarons inteiros por cima e decore com hortelã. Sirva imediatamente ou leve à geladeira por 30 minutos para firmar. Sugestão de uso na descrição: “Perfeito para servir puro ou como topping de sobremesas, iogurtes e taças de frutas.” Como armazenar Conservar em local seco, fresco e ao abrigo da luz solar direta. Manter a embalagem sempre bem fechada após aberta. Consumir preferencialmente em até 3–5 dias depois de aberto para manter a crocância. Não armazenar próximo a produtos com cheiro forte.
-  Updated: 2026-01-16T10:51:52Z
+  Updated: 2026-02-15T02:08:51Z
   Vendor: Gangfu (港福)
   Product Type: Doce
   Availability: Available
@@ -14551,7 +15307,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-ovo-codorna-tofu-cinco-especiarias-qiaofuwa-88g-snack-chines.png?v=1765933118
   Price: R$ 23,99 BRL
 - [Pimenta de Sichuan em Grão 50g Hua Jiao  - 华海顺达 四川花椒](https://www.meiwei.com.br/products/hua-jiao-pimenta-de-sichuan-em-grao-50g): A Pimenta de Sichuan em Grão 50g 华海顺达 四川花椒 é o tempero essencial da cozinha de Sichuan, famosa pelos pratos “má là” (picante + anestesiante). Produzida na região de Sichuan, China, esta pimenta não é uma pimenta tradicional (como a do reino ou a chili), mas sim a casca seca de uma baga da família dos cítricos, com: aroma cítrico e levemente floral sabor único que provoca leve dormência/ formigamento na boca combinação perfeita com pimentas vermelhas, alho, gengibre e molho de soja Ideal para: pratos clássicos como mapo tofu, frango gong bao (kung pao), lámen picante, hot pot, refogados e marinadas finalizar carnes grelhadas, legumes salteados e até drinks e coquetéis com toque oriental Produto embalado em sachê com fecho zip, que ajuda a manter o aroma intenso por mais tempo. Marca, origem e destaque Marca: 华海顺达 (Huahaishunda) Origem: Província de Sichuan, China Tipo: Pimenta de Sichuan em grão inteira (Sichuan Pepper / 花椒) Uso: tempero para culinária chinesa, asiática e criações autorais Lista de ingredientes Ingredientes: Pimenta de Sichuan em grão (花椒) 100%. Não contém glúten. Tabela nutricional (valores médios aproximados) Porção de 2g (cerca de 1 colher de chá) Informação nutricional Por porção 2g %VD* Valor energético 6 kcal (25 kJ) 0% Carboidratos 1,2 g 0% Proteínas 0,2 g 0% Gorduras totais 0,1 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g – Fibra alimentar 0,7 g 3% Sódio 0 mg 0% *% Valores Diários de referência com base em uma dieta de 2.000 kcal. Sugestão de receita usando a Pimenta de Sichuan Frango Salteado com Pimenta de Sichuan e Legumes Ingredientes (2–3 porções) 300g de peito de frango em tiras 1 colher de sopa de pimenta de Sichuan 华海顺达 四川花椒 1 colher de sopa de óleo vegetal 1 colher de chá de óleo de gergelim (opcional) 2 dentes de alho picados 1 pedaço pequeno de gengibre picado 1 pimentão vermelho em tiras 1/2 cebola em pétalas 2 colheres de sopa de molho de soja (shoyu) 1 colher de sopa de vinho de arroz ou saquê culinário (opcional) 1 colher de chá de açúcar Sal a gosto Cebolinha picada para finalizar Modo de preparo Tostar a pimenta de Sichuan: Em uma frigideira seca, aqueça a pimenta de Sichuan em fogo baixo por 1–2 minutos, até começar a soltar aroma. Retire, deixe esfriar e triture levemente em um pilão ou moedor (não precisa virar pó fino). Selar o frango: Aqueça o óleo vegetal na frigideira. Junte o frango e doure em fogo alto até ficar quase cozido. Reserve. Refogar aromáticos: Na mesma frigideira, acrescente um fio de óleo se necessário. Refogue alho e gengibre rapidamente. Adicione o pimentão e a cebola, salteando por 2–3 minutos. Temperar: Volte o frango para a frigideira. Acrescente o molho de soja, o vinho de arroz e o açúcar. Junte a pimenta de Sichuan triturada e misture bem. Ajuste o sal. Finalize com o óleo de gergelim (se usar) e a cebolinha. Servir: Sirva imediatamente com arroz branco ou macarrão oriental. Como armazenar Manter em local seco, fresco e ao abrigo da luz. Após abrir, fechar bem o zip ou transferir para pote hermético. Evitar calor e umidade para não perder aroma e crocância. Consumir de preferência em até 6–12 meses após aberto, ou conforme validade indicada na embalagem.
-  Updated: 2026-02-09T21:41:41Z
+  Updated: 2026-02-16T00:08:31Z
   Vendor: Hua hai shun da 华海顺达
   Product Type: Pimenta
   Availability: Available
@@ -14572,7 +15328,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-pasta-curry-vermelho-tailandes-cock-brand-vegan-50g.png?v=1766103243
   Price: R$ 21,99 BRL
 - [Pasta Tailandesa para Pad Thai Cock Brand 227g - 泰国鸡牌 泰式炒河粉酱](https://www.meiwei.com.br/products/pasta-tailandesa-para-pad-thai-cock-brand-227g): A Pasta Tailandesa para Pad Thai Cock Brand 227g é uma base pronta clássica para preparar o famoso Pad Thai, o macarrão frito tailandês mais conhecido do mundo. Produzida na Tailândia pela tradicional Cock Brand, essa pasta já combina açúcar, chalotas, amendoim torrado, alho, rabanete doce e temperos, criando o equilíbrio perfeito entre doce, salgado e levemente ácido, típico do Pad Thai de rua de Bangkok. Origem: Tailândia Marca: Cock Brand Produto: pasta concentrada para molho de Pad Thai Textura: cremosa, levemente espessa Sabor: adocicado, com notas de amendoim, alho e chalota, pronto para receber limão, molho de peixe, etc. Ideal para: preparar Pad Thai com frango, camarão ou tofu usar como base para molhos agridoces asiáticos temperar refogados de legumes e noodles salteados Lista de ingredientes Ingredientes: Açúcar (34%), água, chalotas (12%), amendoim torrado, óleo de soja, açúcar total refinado (8%), alho, rabanete doce (rabanete, açúcar, sal), sal, realçador de sabor: glutamato monossódico (E621), regulador de acidez: ácido tartárico (E334), corante: caramelo (E150a), conservadores: benzoato de sódio (E211) e sorbato de potássio (E202). ALÉRGICOS: CONTÉM AMENDOIM. Pode conter traços de soja (por causa do óleo de soja). Tabela nutricional (porção de 20 g – 1 colher de sopa) Informação nutricional Por 100 g Porção 20 g %VD* (20 g) Valor energético 265 kcal 52 kcal 3% Carboidratos 40 g 8,0 g 3% Proteínas 5 g 1,0 g 1% Gorduras totais 2,0 g 0,4 g 1% Gorduras saturadas 0,8 g 0,2 g 1% Gorduras trans 0 g 0 g 0% Fibra alimentar 1 g 0 g 0% Sódio 1458 mg 294 mg 15% *%VD com base em uma dieta de 2.000 kcal/dia. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Como armazenar Antes de abrir: conservar em local fresco, seco e ao abrigo da luz solar direta. Depois de aberto: manter refrigerado (temperatura de geladeira), bem fechado, e consumir preferencialmente em até 30 dias. Receita sugerida – Pad Thai Clássico com a Pasta Cock Brand Rende: 2 porções Ingredientes: 120–150 g de macarrão de arroz (talharim largo) 3–4 colheres de sopa de Pasta Pad Thai Cock Brand 150 g de peito de frango em tiras ou camarão limpo (ou tofu firme em cubos para versão vegetariana) 1 ovo 1 xícara de broto de feijão 2 colheres de sopa de óleo vegetal 2 colheres de sopa de água (ou caldo) para dissolver a pasta, se necessário 1–2 colheres de sopa de amendoim torrado picado 1 talo de cebolinha fatiada 1/2 limão em quartos para servir Opcional: algumas tirinhas de cenoura e folhas de coentro Modo de preparo: Hidrate o macarrão de arroz em água morna por 20–30 minutos até ficar macio, escorra. Aqueça o óleo em uma frigideira grande ou wok e salteie o frango/camarão/tofu até dourar. Empurre a proteína para o lado da frigideira, coloque o ovo e mexa até cozinhar. Acrescente o macarrão hidratado e de 3 a 4 colheres de sopa da Pasta Pad Thai Cock Brand. Se estiver muito espesso, adicione 2 colheres de sopa de água e misture bem para envolver todo o macarrão. Junte o broto de feijão e a cebolinha, salteie por mais 1–2 minutos. Sirva imediatamente, finalize com amendoim picado, limão espremido e coentro, se desejar.
-  Updated: 2026-01-12T03:53:26Z
+  Updated: 2026-02-14T12:26:55Z
   Vendor: Cock Brand
   Product Type: Condimento
   Availability: Available
@@ -14831,7 +15587,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-oleo-pimenta-sichuan-yaomazi-500ml.png?v=1768928918
   Price: R$ 119,99 BRL
 - [Kit Essencial Cozinha Asiática - 4 Molhos Premium | Mei Wei](https://www.meiwei.com.br/products/kit-essencial-cozinha-asiatica-edicao-limitada): Kit com molho de ostra, shoyu premium, pimenta crispy e vinagre de arroz. Economize R$ 10 nesta edição limitada.
-  Updated: 2026-02-10T04:40:06Z
+  Updated: 2026-02-17T03:23:41Z
   Vendor: Mei Wei
   Product Type: Kit
   Availability: Available
@@ -14852,7 +15608,7 @@
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-farinha-arroz-cheong-fun-baijia-454g.png?v=1769275905
   Price: R$ 49,99 BRL
 - [Kit Macarrão Asiático Premium - Noodles + Molhos | Mei Wei](https://www.meiwei.com.br/products/kit-macarrao-asiatico-premium-edicao-limitada): Kit completo com macarrão vermicelli, ho fun, molhos e temperos. Economize R$ 9 nesta edição limitada!
-  Updated: 2026-02-10T04:40:07Z
+  Updated: 2026-02-17T03:23:41Z
   Vendor: Mei Wei
   Product Type: Kit
   Availability: Available
@@ -15005,12 +15761,222 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2171/5991/files/vegetal-conserva-picante-shuang-dt-80g-weijuqing.png?v=1770165563
   Price: R$ 19,99 BRL
+- [Repolho Chinês em Conserva Picante 80g - 国宴洋白菜](https://www.meiwei.com.br/products/repolho-chines-em-conserva-picante-80g): Descubra o sabor autêntico da culinária chinesa com o Vegetal em Conserva Picante Shuang DT (爽DT饭菜), da marca Weijuqing (味聚情). Direto da China para sua mesa, este acompanhamento é perfeito para quem busca praticidade e um toque oriental nas refeições. Preparado com vegetais frescos e temperos tradicionais, é ideal para servir com arroz, macarrão ou como petisco. Principais características e diferenciais: Vegetais crocantes e saborosos, prontos para consumo. Sabor levemente picante, típico da culinária chinesa. Prático: embalagem individual de 80g, fácil de transportar e armazenar. Sem conservantes artificiais. Ideal para acompanhar refeições, lanches ou incrementar receitas orientais. Lista de ingredientes Vegetais frescos (principalmente mostarda chinesa) Óleo vegetal Sal Açúcar Pimenta Alho Aromatizantes naturais Tabela nutricional (porção de 100g) Informação Nutricional Porção de 100g %VD* Valor energético 130 kJ (31 kcal) 2% Carboidratos 5,0 g 2% Proteínas 1,0 g 1% Gorduras totais 0,5 g 1% Gorduras saturadas 0 g 0% Gorduras trans 0 g - Fibra alimentar 2,0 g 8% Sódio 900 mg 38% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Arroz Frito Oriental com Vegetais Shuang DT Ingredientes: 1 pacote de Vegetal em Conserva Picante Shuang DT (80g) 2 xícaras de arroz cozido 1 ovo 1 colher de sopa de óleo vegetal Cebolinha picada a gosto Molho de soja a gosto Modo de preparo: Em uma frigideira, aqueça o óleo e frite o ovo mexendo bem. Adicione o arroz cozido e misture. Acrescente o Vegetal em Conserva Picante Shuang DT e refogue por 2 minutos. Finalize com cebolinha e molho de soja a gosto. Sirva quente! Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-02-16T05:59:23Z
+  Vendor: Tao Wei Yuan Food Technology Co., Ltd
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-repolho-chines-conserva-picante-guoyan-80g.png?v=1771178256
+  Price: R$ 19,99 BRL
+- [Bucho Vegetariano Apimentado 90g - 素金钱肚 / SU JIN QIAN DU](https://www.meiwei.com.br/products/bucho-vegetariano-apimentado-90g-su-jin-qian-du): Descubra o sabor surpreendente do Bucho Vegetariano Apimentado (素金钱肚), uma alternativa inovadora inspirada na culinária oriental! Este prato pronto combina textura semelhante ao bucho tradicional com um delicioso molho picante, ideal para quem busca praticidade, sabor e uma experiência diferente, sem ingredientes de origem animal. Principais características e diferenciais: Produto vegetariano, sem ingredientes de origem animal Textura e aparência semelhantes ao bucho tradicional Sabor marcante e apimentado, típico da culinária chinesa Pronto para consumo: basta abrir e servir Embalagem prática de 90g, ideal para lanches, refeições rápidas ou para incrementar receitas orientais Lista de ingredientes Proteína vegetal (soja) Água Óleo vegetal Molho de soja Pimenta vermelha Sal Açúcar Aromatizantes naturais Temperos orientais Tabela nutricional (porção de 30g) Informação Nutricional Porção de 30g %VD* Valor energético 45 kcal 2% Carboidratos 4,5 g 2% Proteínas 3,0 g 4% Gorduras totais 1,5 g 3% Gorduras saturadas 0,2 g 1% Gorduras trans 0 g -- Fibra alimentar 1,0 g 4% Sódio 400 mg 17% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental com Bucho Vegetariano Apimentado Ingredientes: 1 pacote de Bucho Vegetariano Apimentado (90g) 1 pepino japonês em tiras finas 1 cenoura ralada Cebolinha picada a gosto Gergelim torrado Modo de preparo: Misture o bucho vegetariano com o pepino e a cenoura. Salpique cebolinha e gergelim por cima. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-02-16T06:25:02Z
+  Vendor: Chao You Wei 超友味
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-bucho-vegetariano-apimentado-chao-you-wei-90g.png?v=1771180116
+  Price: R$ 24,99 BRL
+- [Tofu Desidratado com Castanha e Pimenta 100g - 板栗豆干](https://www.meiwei.com.br/products/tofu-desidratado-com-castanha-e-pimenta-100g): Descubra um snack inovador e cheio de sabor: o Tofu Desidratado com Castanha e Pimenta (板栗豆干). Inspirado na culinária oriental, este produto combina a textura macia do tofu com o sabor marcante da castanha e um toque picante irresistível. Ideal para quem busca praticidade, proteína vegetal e uma experiência diferente no lanche ou nas receitas do dia a dia. Principais características e diferenciais: Snack à base de tofu, fonte de proteína vegetal Sabor de castanha com toque apimentado Pronto para consumo, ideal para lanches rápidos ou para incrementar saladas e pratos orientais Embalagem prática de 100g, fácil de transportar e armazenar Produto vegano, sem ingredientes de origem animal Lista de ingredientes Tofu (soja, água, coagulante) Castanha Óleo vegetal Pimenta vermelha Sal Açúcar Molho de soja Aromatizantes naturais Temperos orientais Tabela nutricional (porção de 25g) Informação Nutricional Porção de 25g %VD* Valor energético 60 kcal 3% Carboidratos 4,0 g 1% Proteínas 5,0 g 7% Gorduras totais 2,5 g 5% Gorduras saturadas 0,3 g 1% Gorduras trans 0 g -- Fibra alimentar 1,0 g 4% Sódio 350 mg 15% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental de Tofu Desidratado com Castanha Ingredientes: 1 pacote de Tofu Desidratado com Castanha e Pimenta (100g) 1 pepino japonês em tiras finas 1 cenoura ralada Cebolinha picada a gosto Gergelim torrado Modo de preparo: Corte o tofu desidratado em tiras. Misture com o pepino, a cenoura e a cebolinha. Salpique gergelim por cima e sirva gelado como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-02-16T06:39:02Z
+  Vendor: Chao You Wei 超友味
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-tofu-desidratado-castanha-pimenta-chao-you-wei-100g.png?v=1771180782
+  Price: R$ 24,99 BRL
+- [Tofu Desidratado com Castanha Sabor Grelhado 100g - 板栗豆干](https://www.meiwei.com.br/products/tofu-desidratado-com-castanha-sabor-grelhado-100g): Experimente o sabor diferenciado do Tofu Desidratado com Castanha Sabor Grelhado (板栗豆干), um snack inspirado na culinária oriental que une a maciez do tofu, o aroma da castanha e um irresistível toque grelhado. Ideal para quem busca praticidade, proteína vegetal e uma experiência inovadora no lanche ou nas receitas do dia a dia. Principais características e diferenciais: Snack à base de tofu, fonte de proteína vegetal Sabor de castanha com toque grelhado, sem pimenta Pronto para consumo, ideal para lanches rápidos ou para incrementar saladas e pratos orientais Embalagem prática de 100g, fácil de transportar e armazenar Produto vegano, sem ingredientes de origem animal Lista de ingredientes Tofu (soja, água, coagulante) Castanha Óleo vegetal Sal Açúcar Molho de soja Aromatizantes naturais Temperos orientais Tabela nutricional (porção de 25g) Informação Nutricional Porção de 25g %VD* Valor energético 60 kcal 3% Carboidratos 4,0 g 1% Proteínas 5,0 g 7% Gorduras totais 2,5 g 5% Gorduras saturadas 0,3 g 1% Gorduras trans 0 g -- Fibra alimentar 1,0 g 4% Sódio 350 mg 15% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental de Tofu Desidratado com Castanha Ingredientes: 1 pacote de Tofu Desidratado com Castanha Sabor Grelhado (100g) 1 pepino japonês em tiras finas 1 cenoura ralada Cebolinha picada a gosto Gergelim torrado Modo de preparo: Corte o tofu desidratado em tiras. Misture com o pepino, a cenoura e a cebolinha. Salpique gergelim por cima e sirva gelado como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-02-16T06:46:04Z
+  Vendor: Chao You Wei 超友味
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/SALCH184.png?v=1771181167
+  Price: R$ 29,99 BRL
+- [Pé de Frango em Conserva Lao Ji  50g - 老吉鸡爪](https://www.meiwei.com.br/products/pe-de-frango-em-conserva-lao-ji-50g): Experimente o autêntico Pé de Frango em Conserva Lao Ji (老吉鸡爪), um clássico irresistível da culinária chinesa! Produzido pela tradicional marca Lao Ji, este petisco é perfeito para quem aprecia sabores exóticos, textura macia e tempero marcante. Ideal para consumir puro, como acompanhamento de bebidas ou para surpreender em receitas orientais. Principais características e diferenciais: Pé de frango cozido e temperado, pronto para consumo Sabor marcante, textura macia e suculenta Snack típico da China, muito apreciado em reuniões e festas Embalagem prática de 50g, fácil de transportar e armazenar Rico em colágeno, baixo teor de gordura Lista de ingredientes Pé de frango Água Sal Molho de soja Açúcar Vinagre Especiarias (alho, gengibre, pimenta, anis-estrelado) Aromatizantes naturais Tabela nutricional (porção de 25g) Informação Nutricional Porção de 25g %VD* Valor energético 40 kcal 2% Carboidratos 1,0 g 0% Proteínas 6,0 g 8% Gorduras totais 1,5 g 3% Gorduras saturadas 0,4 g 2% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 300 mg 13% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental com Pé de Frango em Conserva Ingredientes: 1 pacote de Pé de Frango em Conserva Lao Ji (50g) 1 pepino japonês em tiras finas 1 cenoura ralada Coentro picado a gosto Molho de soja e limão Modo de preparo: Corte o pé de frango em pedaços menores. Misture com o pepino, a cenoura e o coentro. Tempere com molho de soja e limão a gosto. Sirva gelado como entrada ou petisco. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-16T07:03:34Z
+  Vendor: Lao Ji (老吉)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-pe-frango-conserva-lao-ji-50g.png?v=1771182274
+  Price: R$ 14,99 BRL
+- [Mix de Carnes Orientais Palitos, Linguiça Crocante e Jerky de Porco 65g - 厳選3种の肉](https://www.meiwei.com.br/products/mix-de-carnes-orientais-palitos-linguica-crocante-e-jerky-de-porco-65g-3): Descubra o Mix de Carnes Orientais (厳選3种の肉), uma seleção especial com três tipos de petiscos de carne suína: palitos de porco, linguiça crocante e jerky (carne seca) de porco. Ideal para quem busca praticidade, sabor e variedade em um só pacote, perfeito para lanches, viagens ou para acompanhar bebidas. Principais características e diferenciais: Três tipos de carnes suínas em um só pacote: palitos, linguiça crocante e jerky Sabor original, textura macia e crocante Pronto para consumo, ideal para petiscar a qualquer hora Embalagem prática de 65g, fácil de transportar e armazenar Excelente opção para quem aprecia snacks orientais autênticos Lista de ingredientes Carne suína Sal Açúcar Molho de soja Temperos naturais Aromatizantes Conservantes (consultar embalagem para detalhes) Tabela nutricional (porção de 13g) Informação Nutricional Porção de 13g %VD* Valor energético 55 kcal 3% Carboidratos 2,0 g 1% Proteínas 4,0 g 5% Gorduras totais 3,0 g 5% Gorduras saturadas 1,0 g 5% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 250 mg 10% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Tábua Oriental de Petiscos Ingredientes: 1 pacote de Mix de Carnes Orientais (65g) Queijo em cubos Amendoim torrado Pepino em rodelas Molho agridoce para acompanhar Modo de preparo: Disponha o mix de carnes, queijo, amendoim e pepino em uma tábua. Sirva com molho agridoce para mergulhar. Aproveite como petisco em reuniões ou happy hour. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-16T07:26:06Z
+  Vendor: Nasida
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/meiwei-mix-carnes-orientais-palito-linguica-jerky-nasida-65g.png?v=1771183894
+  Price: R$ 44,99 BRL
+- [Mini Linguiça Suína com Molho Gravy Xinda 90g - 一口爆汁肉肠](https://www.meiwei.com.br/products/mini-linguica-suina-com-molho-gravy-xinda-90g): Descubra o sabor irresistível da Mini Linguiça Suína com Molho Gravy Xinda (一口爆汁肉肠), um petisco oriental feito com mais de 80% de carne suína selecionada. Com textura suculenta, tempero equilibrado e um toque de pimenta-do-reino, é perfeito para lanches rápidos, festas ou para acompanhar bebidas. Pronto para consumo, basta abrir e saborear! Principais características e diferenciais: Feita com mais de 80% de carne suína nobre Sabor marcante de molho gravy e pimenta-do-reino Textura suculenta e macia, com explosão de sabor a cada mordida Pronto para consumo, ideal para petiscos, festas ou viagens Embalagem prática de 90g, fácil de transportar e armazenar Lista de ingredientes Carne suína (pernil) Água Sal Açúcar Molho gravy Pimenta-do-reino Aromatizantes naturais Conservantes Tripa natural Tabela nutricional (porção de 18g) Informação Nutricional Porção de 18g %VD* Valor energético 60 kcal 3% Carboidratos 1,0 g 0% Proteínas 4,0 g 5% Gorduras totais 4,0 g 7% Gorduras saturadas 1,5 g 7% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 220 mg 9% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Tábua de Petiscos Oriental Ingredientes: 1 pacote de Mini Linguiça Suína com Molho Gravy Xinda (90g) Queijo em cubos Tomate-cereja Azeitonas Molho agridoce para acompanhar Modo de preparo: Disponha as mini linguiças, queijo, tomate e azeitonas em uma tábua. Sirva com molho agridoce para mergulhar. Aproveite como petisco em reuniões ou happy hour. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-16T07:47:25Z
+  Vendor: Xinda 信达
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-mini-linguica-suina-gravy-xinda-90g.png?v=1771184900
+  Price: R$ 44,99 BRL
+- [Mini Linguiça Suína com Molho Gravy Xinda Sabor Original 90g 一口爆汁肉肠](https://www.meiwei.com.br/products/mini-linguica-suina-com-molho-gravy-xinda-sabor-original-90g): Descubra o sabor autêntico da Mini Linguiça Suína com Molho Gravy Xinda Sabor Original (一口爆汁肉肠), um petisco oriental feito com mais de 80% de carne suína selecionada. Com textura suculenta, tempero equilibrado e explosão de sabor a cada mordida, é perfeito para lanches rápidos, festas ou para acompanhar bebidas. Pronto para consumo, basta abrir e saborear! Principais características e diferenciais: Feita com mais de 80% de carne suína nobre Sabor original, suculento e marcante Textura macia, com molho gravy no interior Pronto para consumo, ideal para petiscos, festas ou viagens Embalagem prática de 90g, fácil de transportar e armazenar Lista de ingredientes Carne suína (pernil) Água Sal Açúcar Molho gravy Aromatizantes naturais Conservantes (consultar embalagem para detalhes) Tripa natural Tabela nutricional (porção de 18g) Informação Nutricional Porção de 18g %VD* Valor energético 60 kcal 3% Carboidratos 1,0 g 0% Proteínas 4,0 g 5% Gorduras totais 4,0 g 7% Gorduras saturadas 1,5 g 7% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 220 mg 9% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Tábua de Petiscos Oriental Ingredientes: 1 pacote de Mini Linguiça Suína com Molho Gravy Xinda Sabor Original (90g) Queijo em cubos Tomate-cereja Azeitonas Molho agridoce para acompanhar Modo de preparo: Disponha as mini linguiças, queijo, tomate e azeitonas em uma tábua. Sirva com molho agridoce para mergulhar. Aproveite como petisco em reuniões ou happy hour. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, consumir imediatamente ou manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-16T07:56:44Z
+  Vendor: Xinda 信达
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/SALCH188.png?v=1771185347
+  Price: R$ 44,99 BRL
+- [Pé de Porco em Conserva Manlu 1 unidade 香酥猪蹄 / Xiang Su Zhu Ti](https://www.meiwei.com.br/products/pe-de-porco-em-conserva-manlu-1-unidade-xiang-su-zhu-ti): Descubra o autêntico Pé de Porco em Conserva Manlu (香酥猪蹄), um clássico da culinária chinesa! Cozido lentamente em temperos especiais, este petisco é perfeito para quem aprecia sabores intensos, textura macia e aroma marcante. Ideal para consumir puro, como acompanhamento de refeições ou para surpreender em receitas orientais. Principais características e diferenciais: Pé de porco cozido e temperado, pronto para consumo Sabor marcante, textura macia e suculenta Snack típico da China, muito apreciado em reuniões e festas Rico em colágeno, baixo teor de gordura Embalagem individual, prática para transporte e consumo Lista de ingredientes Pé de porco Água Sal Molho de soja Açúcar Vinagre Especiarias (alho, gengibre, pimenta, anis-estrelado) Aromatizantes naturais Tabela nutricional (porção de 50g) Informação Nutricional Porção de 50g %VD* Valor energético 90 kcal 5% Carboidratos 1,0 g 0% Proteínas 8,0 g 11% Gorduras totais 6,0 g 11% Gorduras saturadas 2,0 g 9% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 400 mg 17% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental com Pé de Porco em Conserva Ingredientes: 1 pé de porco em conserva Manlu 1 pepino japonês em tiras finas 1 cenoura ralada Coentro picado a gosto Molho de soja e limão Modo de preparo: Corte o pé de porco em pedaços menores. Misture com o pepino, a cenoura e o coentro. Tempere com molho de soja e limão a gosto. Sirva gelado como entrada ou petisco. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-16T08:04:03Z
+  Vendor: Manlu (慢卤)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-pe-porco-conserva-manlu-1unidade.png?v=1771186144
+  Price: R$ 59,99 BRL
+- [Asa de Frango em Conserva Drowei Chicken 90g - 多味翅尖](https://www.meiwei.com.br/products/asa-de-frango-em-conserva-drowei-chicken-90g): Descubra o sabor autêntico da Asa de Frango em Conserva Drowei Chicken (多味翅尖), um petisco tradicional chinês perfeito para quem aprecia carnes macias, tempero marcante e praticidade. Cozidas e temperadas com especiarias orientais, as asas são ideais para consumir puras, como acompanhamento de refeições ou para surpreender em receitas criativas. Principais características e diferenciais: Asas de frango cozidas e temperadas, prontas para consumo Sabor marcante, textura macia e suculenta Snack típico da China, muito apreciado em reuniões e festas Embalagem prática de 90g, fácil de transportar e armazenar Rico em proteínas e baixo teor de gordura Lista de ingredientes Asa de frango Água Sal Molho de soja Açúcar Vinagre Especiarias (alho, gengibre, pimenta, anis-estrelado) Aromatizantes naturais Tabela nutricional (porção de 30g) Informação Nutricional Porção de 30g %VD* Valor energético 60 kcal 3% Carboidratos 1,0 g 0% Proteínas 6,0 g 8% Gorduras totais 3,0 g 5% Gorduras saturadas 1,0 g 5% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 300 mg 13% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental com Asa de Frango em Conserva Ingredientes: 1 pacote de Asa de Frango em Conserva Drowei Chicken (90g) 1 pepino japonês em tiras finas 1 cenoura ralada Coentro picado a gosto Molho de soja e limão Modo de preparo: Corte as asas de frango em pedaços menores. Misture com o pepino, a cenoura e o coentro. Tempere com molho de soja e limão a gosto. Sirva gelado como entrada ou petisco. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T03:40:35Z
+  Vendor: Hong Xia (红下君)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-asa-frango-conserva-drowei-chicken-90g.png?v=1771256655
+  Price: R$ 24,99 BRL
+- [Coxa de Pato Apimentada em Conserva Jiuxiy – 100g 香辣鸭腿 / Xiang La Ya Tui](https://www.meiwei.com.br/products/coxa-de-pato-apimentada-em-conserva-jiuxiy-100g-xiang-la-ya-tui): Descubra o sabor marcante da Coxa de Pato Apimentada em Conserva Jiuxiy (香辣鸭腿), um petisco tradicional chinês perfeito para quem aprecia carnes macias, tempero picante e praticidade. Cozida lentamente com especiarias orientais, a coxa de pato é ideal para consumir pura, como acompanhamento de refeições ou para surpreender em receitas criativas. Principais características e diferenciais: Coxa de pato cozida e temperada, pronta para consumo Sabor apimentado, textura macia e suculenta Snack típico da China, muito apreciado em reuniões e festas Embalagem prática de 100g, fácil de transportar e armazenar Rico em proteínas e baixo teor de gordura Lista de ingredientes Coxa de pato Água Sal Molho de soja Açúcar Pimenta vermelha Especiarias (alho, gengibre, anis-estrelado) Aromatizantes naturais Tabela nutricional (porção de 50g) Informação Nutricional Porção de 50g %VD* Valor energético 110 kcal 6% Carboidratos 1,0 g 0% Proteínas 10,0 g 13% Gorduras totais 7,0 g 13% Gorduras saturadas 2,0 g 9% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 450 mg 19% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental com Coxa de Pato Apimentada Ingredientes: 1 coxa de pato apimentada em conserva Jiuxiy (100g) 1 pepino japonês em tiras finas 1 cenoura ralada Coentro picado a gosto Molho de soja e limão Modo de preparo: Desfie a coxa de pato em pedaços menores. Misture com o pepino, a cenoura e o coentro. Tempere com molho de soja e limão a gosto. Sirva gelado como entrada ou petisco. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T03:58:50Z
+  Vendor: Jiuxiy (久久Y)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-coxa-pato-apimentada-conserva-jiuxiy-100g.png?v=1771257577
+  Price: R$ 34,99 BRL
+- [Coxinha de Frango Assada Salami – 90g 烤小鸡腿](https://www.meiwei.com.br/products/coxinha-de-frango-assada-salami-90g): Experimente a Coxinha de Frango Assada Salami (烤小鸡腿), um petisco prático e saboroso, inspirado na culinária oriental! Preparada com carne de frango selecionada e assada a 360°, essa coxinha é perfeita para lanches rápidos, festas ou para acompanhar bebidas. Pronta para consumo, com textura macia e sabor marcante. Principais características e diferenciais: Coxinha de frango assada, pronta para consumo Sabor marcante, textura macia e suculenta Snack típico da China, ideal para lanches, festas e viagens Embalagem prática de 90g, fácil de transportar e armazenar Rico em proteínas e baixo teor de gordura Lista de ingredientes Coxinha de frango Água Sal Molho de soja Açúcar Especiarias (alho, gengibre, pimenta) Aromatizantes naturais Tabela nutricional (porção de 30g) Informação Nutricional Porção de 30g %VD* Valor energético 60 kcal 3% Carboidratos 1,0 g 0% Proteínas 6,0 g 8% Gorduras totais 3,0 g 5% Gorduras saturadas 1,0 g 5% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 300 mg 13% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Tábua de Petiscos Oriental Ingredientes: 1 pacote de Coxinha de Frango Assada Salami (90g) Queijo em cubos Tomate-cereja Azeitonas Molho agridoce para acompanhar Modo de preparo: Disponha as coxinhas de frango, queijo, tomate e azeitonas em uma tábua. Sirva com molho agridoce para mergulhar. Aproveite como petisco em reuniões ou happy hour. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T04:21:54Z
+  Vendor: Jiuxiy (久久Y)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-coxinha-frango-assada-salami-90g.png?v=1771258829
+  Price: R$ 34,99 BRL
+- [Coxinha de Frango Assada Salami 1 unidade - 烤小鸡腿](https://www.meiwei.com.br/products/coxinha-de-frango-assada-salami-1-unidade): Aproveite a praticidade e o sabor da Coxinha de Frango Assada Salami (烤小鸡腿), um petisco típico da culinária oriental! Preparada com carne de frango selecionada e assada, essa coxinha é perfeita para lanches rápidos, festas ou para acompanhar bebidas. Pronta para consumo, com textura macia e sabor marcante, agrada adultos e crianças. Principais características e diferenciais: Coxinha de frango assada, pronta para consumo Sabor marcante, textura macia e suculenta Snack típico da China, ideal para lanches, festas e viagens Embalagem individual, fácil de transportar e armazenar Rico em proteínas e baixo teor de gordura Lista de ingredientes Coxinha de frango Água Sal Molho de soja Açúcar Especiarias (alho, gengibre, pimenta) Aromatizantes naturais Tabela nutricional (porção de 30g) Informação Nutricional Porção de 30g %VD* Valor energético 60 kcal 3% Carboidratos 1,0 g 0% Proteínas 6,0 g 8% Gorduras totais 3,0 g 5% Gorduras saturadas 1,0 g 5% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 300 mg 13% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Tábua de Petiscos Oriental Ingredientes: 1 coxinha de frango assada Salami Queijo em cubos Tomate-cereja Azeitonas Molho agridoce para acompanhar Modo de preparo: Disponha a coxinha de frango, queijo, tomate e azeitonas em uma tábua. Sirva com molho agridoce para mergulhar. Aproveite como petisco em reuniões ou happy hour. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T04:59:04Z
+  Vendor: Jiuxiy (久久Y)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-coxinha-frango-assada-salami-1unidade.png?v=1771261663
+  Price: R$ 29,00 BRL
+- [Tofu de Ovo Clássico Shen Shifu 150g - 鸡蛋干](https://www.meiwei.com.br/products/tofu-de-ovo-classico-shen-shifu-150g): Descubra o sabor e a tradição do Tofu de Ovo Clássico Shen Shifu (鸡蛋干), um produto típico da culinária chinesa, elaborado com ovos frescos e soja selecionada. Com textura firme, sabor suave e levemente adocicado, é perfeito para lanches, saladas, pratos frios ou receitas orientais. Pronto para consumo, saudável e prático! Principais características e diferenciais: Tofu de ovo tradicional, feito com ovos frescos e soja de alta qualidade Textura firme, sabor suave e levemente adocicado Pronto para consumo, ideal para lanches, saladas, pratos frios e receitas orientais Embalagem prática de 150g, fácil de transportar e armazenar Fonte de proteína, baixo teor de gordura e sem conservantes artificiais Lista de ingredientes Soja Ovo de galinha Água Sal Açúcar Aromatizantes naturais Tabela nutricional (porção de 50g) Informação Nutricional Porção de 50g %VD* Valor energético 65 kcal 3% Carboidratos 2,0 g 1% Proteínas 7,0 g 9% Gorduras totais 3,0 g 5% Gorduras saturadas 0,5 g 2% Gorduras trans 0 g -- Fibra alimentar 1,0 g 4% Sódio 250 mg 10% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental de Tofu de Ovo Ingredientes: 1 bloco de Tofu de Ovo Clássico Shen Shifu (150g) 1 pepino japonês em tiras finas 1 cenoura ralada Cebolinha picada a gosto Molho de soja e gergelim torrado Modo de preparo: Corte o tofu de ovo em fatias finas. Misture com o pepino, a cenoura e a cebolinha. Tempere com molho de soja e salpique gergelim por cima. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T05:56:48Z
+  Vendor: Shen Shifu (沈师傅)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-tofu-ovo-classico-shen-shifu-150g.png?v=1771264587
+  Price: R$ 29,00 BRL
+- [Snack de Konjac Picante em Rodelas 魔芋宝圈 - 60g](https://www.meiwei.com.br/products/snack-de-konjac-picante-em-rodelas-60g): Experimente o Snack de Konjac Picante em Rodelas (魔芋宝圈), uma opção saudável, leve e cheia de sabor para o seu dia a dia! Feito à base de konjac, um tubérculo tradicional da culinária asiática, este snack é rico em fibras, tem baixas calorias e traz um toque apimentado irresistível. Ideal para lanches rápidos, dietas com restrição calórica ou para quem busca novidades orientais Principais características e diferenciais: Snack à base de konjac, rico em fibras e com baixas calorias Sabor picante, perfeito para quem gosta de um toque apimentado Pronto para consumo, ideal para lanches, viagens ou para acompanhar bebidas Embalagem prática de 60g, fácil de transportar e armazenar Produto vegano, sem ingredientes de origem animal Lista de ingredientes Konjac (Amorphophallus konjac) Água Pimenta vermelha Óleo vegetal Sal Aromatizantes naturais Temperos orientais Tabela nutricional (porção de 20g) Informação Nutricional Porção de 20g %VD* Valor energético 12 kcal 1% Carboidratos 3,0 g 1% Proteínas 0 g 0% Gorduras totais 0 g 0% Gorduras saturadas 0 g 0% Gorduras trans 0 g -- Fibra alimentar 2,0 g 8% Sódio 120 mg 5% *% Valores Diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Salada Oriental de Konjac Picante Ingredientes: 1 pacote de Snack de Konjac Picante em Rodelas (60g) 1 pepino japonês em tiras finas 1 cenoura ralada Cebolinha picada a gosto Gergelim torrado Modo de preparo: Misture o konjac picante com o pepino, a cenoura e a cebolinha. Salpique gergelim por cima. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T06:12:07Z
+  Vendor: 魔芋宝圈
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/meiwei-snack-konjac-picante-rodelas-60g.png?v=1771265749
+  Price: R$ 49,99 BRL
+- [Carne Seca de Frango com Pêssego Chao You Wei 80g - 白桃+肉干 / White Peach Jerky](https://www.meiwei.com.br/products/snack-de-pessego-branco-desidratado-chao-you-wei-80g-white-peach): Descubra a combinação surpreendente da Carne Seca de Frango com Pêssego Chao You Wei (白桃+肉干)! Um snack inovador que une carne de frango desidratada e pêssego branco, resultando em uma experiência agridoce, macia e cheia de personalidade. Ideal para quem busca um lanche diferente, prático e com toque oriental, perfeito para qualquer momento do dia. Principais características e diferenciais: Combinação única de carne de frango e pêssego branco Sabor agridoce, textura macia e suculenta Pronto para consumo, ideal para lanches, viagens ou para surpreender em receitas Embalagem prática de 80g, fácil de transportar e armazenar Não contém glúten Lista de ingredientes Carne de frango (62%) Pêssego branco (23%) Açúcar branco Trehalose Óleo vegetal Sal Glutamato monossódico (INS621) Molho de peixe Especiarias compostas Molho de soja (contém corante caramelo 150c) Adoçante alimentar (sucralose) Realçador de sabor (inosinato dissódico, guanilato dissódico) Corante caramelo (INS 150c) Eritorbato de sódio Maltol (INS 637) Saborizante Alergênicos: Contém derivado de peixe e soja. Não contém glúten. Tabela nutricional (porção de 30g) Informação Nutricional Porção de 30g %VD* Valor energético 343 kJ (82 kcal) 4% Carboidratos 10 g 3% Açúcares totais 6,5 g -- Proteínas 6,0 g 8% Gorduras totais 1,0 g 2% Gorduras saturadas 0,5 g 2% Gorduras trans 0 g -- Sódio 160 mg 7% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Mix Oriental Agridoce Ingredientes: 1 pacote de Carne Seca de Frango com Pêssego Chao You Wei (80g) Castanhas de caju Amendoim torrado Chips de banana Modo de preparo: Misture a carne seca de frango com pêssego, castanhas, amendoim e chips de banana. Sirva como lanche saudável ou para acompanhar chás. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter a embalagem bem fechada e consumir em até 7 dias.
+  Updated: 2026-02-17T06:39:30Z
+  Vendor: Chao You Wei (超友味)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-carne-seca-frango-pessego-chao-you-wei-80g.png?v=1771267222
+  Price: R$ 39,99 BRL
+- [Carne Seca de Frango com Limão Chao You Wei 80g - (柠檬+肉干 / Lemon Jerky)](https://www.meiwei.com.br/products/carne-seca-de-frango-com-limao-chao-you-wei-80g-lemon-jerky): Descubra a combinação refrescante e inovadora da Carne Seca de Frango com Limão Chao You Wei (柠檬+肉干)! Um snack oriental que une carne de frango desidratada e limão, resultando em uma experiência agridoce, macia e cheia de personalidade. Ideal para quem busca um lanche diferente, prático e com toque cítrico, perfeito para qualquer momento do dia. Principais características e diferenciais: Combinação única de carne de frango e limão Sabor agridoce e cítrico, textura macia e suculenta Pronto para consumo, ideal para lanches, viagens ou para surpreender em receitas Embalagem prática de 80g, fácil de transportar e armazenar Não contém glúten Lista de ingredientes Carne de frango (62%) Limão (22%) Açúcar branco Trehalose Óleo vegetal Sal Glutamato monossódico (INS621) Molho de peixe Especiarias compostas Molho de soja (contém corante caramelo 150c) Adoçante alimentar (sucralose) Realçador de sabor (inosinato dissódico, guanilato dissódico) Corante caramelo (INS 150c) Eritorbato de sódio Maltol (INS 637) Saborizante Alergênicos: Contém derivado de peixe e soja. Não contém glúten. Tabela nutricional (porção de 30g) Informação Nutricional Porção de 30g %VD* Valor energético 343 kJ (82 kcal) 4% Carboidratos 10 g 3% Açúcares totais 6,5 g -- Proteínas 6,0 g 8% Gorduras totais 1,0 g 2% Gorduras saturadas 0,5 g 2% Gorduras trans 0 g -- Sódio 160 mg 7% *% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto Mix Oriental Agridoce e Cítrico Ingredientes: 1 pacote de Carne Seca de Frango com Limão Chao You Wei (80g) Castanhas de caju Amendoim torrado Chips de banana Modo de preparo: Misture a carne seca de frango com limão, castanhas, amendoim e chips de banana. Sirva como lanche saudável ou para acompanhar chás. Instruções de armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter a embalagem bem fechada e consumir em até 7 dias.
+  Updated: 2026-02-17T06:57:28Z
+  Vendor: Chao You Wei (超友味)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-carne-seca-frango-limao-chao-you-wei-80g.png?v=1771268401
+  Price: R$ 39,99 BRL
+- [Pé de Frango Cozido Wang Jia Fu 108g - 旺家福 卤味鸡脚筋](https://www.meiwei.com.br/products/pe-de-frango-cozido-wang-jia-fu-108g): Descubra o autêntico sabor oriental com o Pé de Frango Cozido Wang Jia Fu (旺家福 卤味鸡脚筋)! Delicie-se com um petisco tradicional chinês, preparado com pés de frango selecionados, cozidos lentamente em um molho especial de especiarias. O Pé de Frango Cozido Wang Jia Fu é conhecido por sua textura macia, sabor marcante e aroma irresistível. Ideal para quem busca uma experiência gastronômica diferente, seja como aperitivo, acompanhamento ou ingrediente em receitas criativas. Diferenciais: Textura macia e elástica, com ossos suaves Sabor levemente picante e aromático Pronto para consumo, prático para o dia a dia Embalagem moderna e segura, preservando o frescor Lista de Ingredientes Pé de frango, água, molho de soja, açúcar, sal, pimenta, alho, gengibre, especiarias, glutamato monossódico, conservantes (E211, E202). Tabela Nutricional (porção de 25g – 1/4 do pacote) Informação Nutricional Porção 25g %VD* Valor energético 45 kcal 2% Carboidratos 1,2 g 0% Proteínas 6,5 g 9% Gorduras totais 1,5 g 3% Gorduras saturadas 0,4 g 2% Gorduras trans 0 g -- Fibra alimentar 0 g 0% Sódio 320 mg 13% *% Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita Utilizando o Produto Salada Oriental de Pé de Frango Wang Jia Fu Ingredientes: 1 pacote de Pé de Frango Cozido Wang Jia Fu 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher (sopa) de óleo de gergelim 1 colher (sopa) de vinagre de arroz Cebolinha picada a gosto Gergelim torrado a gosto Modo de preparo: Corte o pé de frango em pedaços menores. Misture com o pepino, cenoura, óleo de gergelim e vinagre de arroz. Finalize com cebolinha e gergelim. Sirva gelado como entrada ou acompanhamento. Instruções de Armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-02-17T07:23:03Z
+  Vendor: Wang Jia Fu (旺家福)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-pe-de-frango-cozido-wang-jia-fu-108g.png?v=1771270069
+  Price: R$ 59,99 BRL
+- [Molho de ostra（海天上等蚝油）- Haday 700g](https://www.meiwei.com.br/products/molho-de-ostra-haday-700g): Molho de ostra preparado com base de extrato de ostra natural. Tem sabor agradável e aroma de ostra, cor caramelo e consistência espessa, dá ao alimento um sabor salgado. Pode ser utilizado combinado com pratos de carnes e legumes. Excelente aditivo para arroz, macarrão, sopas, dim-sans (bolinhos) e tofu. O molho de ostra, assim como o molho de soja, muitas vezes é utilizado como um substituto para o sal no preparo de receitas. INGREDIENTES: Água, extrato de ostras, açúcar, sal, glutamato monossódico, caramelo, trigo, nucleotideo dissódico, goma xantana, ácido cítrico, sorbato de potássio. CONTÉM GLÚTEN ALÉRGICOS: CONTÉM TRIGO E DERIVADOS DE OSTRA NÃO CONTÉM LACTOSE INFORMAÇÃO NUTRICIONAL Porção de 15g (1 Colher de chá) Quantidade por porção %VD Valor Energético 11 Kcal 46KJ 1% Carboidratos 2,2g 1% Carboidratos 0,5g 1% Gorduras Totais 0g 0% Gorduras Saturadas 0g 0% Gorduras Trans 0g 0% Fibras 0mg 0% Sódio 655mg 27% Valores diários com base em uma dieta de 2000 kal 8400 kj. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.%VD não estabelecido. Manter em local seco e fresco. Origem: China Contém 700g
+  Updated: 2026-02-17T07:53:13Z
+  Vendor: Haday
+  Product Type: Molho de Ostra
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-molho-ostra-haday-700g-garrafa-fundo-branco.png?v=1771272084
+  Price: R$ 30,00 BRL
+- [Petisco Tofu Macio Grelhado Sabor Churrasco 158g - (石磨嫩豆腐)](https://www.meiwei.com.br/products/tofu-macio-grelhado-sabor-churrasco-158g): Experimente o autêntico sabor oriental com o Tofu Macio Grelhado Sabor Churrasco (石磨嫩豆腐)! Este tofu é produzido com grãos de soja selecionados e moídos em pedra, seguindo métodos tradicionais para garantir uma textura macia e sabor marcante. O tempero de churrasco traz um toque defumado e levemente picante, tornando este tofu perfeito para petiscos, lanches rápidos ou como acompanhamento em pratos orientais. Pronto para consumo, é uma opção saudável, prática e deliciosa para o seu dia a dia. Diferenciais: Textura macia e saborosa, resultado da moagem em pedra Sabor churrasco, levemente picante e defumado Pronto para consumo, ideal para lanches e receitas rápidas Embalagem moderna que preserva o frescor e a qualidade Lista de Ingredientes Tofu (soja, água, coagulante), molho de soja, óleo vegetal, açúcar, sal, pimenta, especiarias, alho, realçador de sabor (glutamato monossódico), conservantes (E211, E202). Tabela Nutricional (porção de 40g – cerca de 1/4 do pacote) Informação Nutricional Porção 40g %VD* Valor energético 60 kcal 3% Carboidratos 2,5 g 1% Proteínas 5,0 g 7% Gorduras totais 3,0 g 5% Gorduras saturadas 0,5 g 2% Gorduras trans 0 g -- Fibra alimentar 0,8 g 3% Sódio 350 mg 15% *% Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita Utilizando o Produto Salada Oriental de Tofu Grelhado Ingredientes: 1 pacote de Tofu Macio Grelhado Sabor Churrasco 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher (sopa) de óleo de gergelim 1 colher (sopa) de vinagre de arroz Cebolinha picada a gosto Gergelim torrado a gosto Modo de preparo: Corte o tofu em cubos ou tiras. Misture com o pepino, cenoura, óleo de gergelim e vinagre de arroz. Finalize com cebolinha e gergelim. Sirva gelado como entrada ou acompanhamento. Instruções de Armazenamento Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 24 horas.
+  Updated: 2026-02-17T08:09:11Z
+  Vendor: Chao Wei (超味)
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-petisco-tofu-macio-grelhado-churrasco-158g.png?v=1771272741
+  Price: R$ 29,99 BRL
+- [Pés de Frango em Conserva com Pimenta Verde YouYou 80g - 有友 泡凤爪 山椒味](https://www.meiwei.com.br/products/pes-de-frango-em-conserva-com-pimenta-verde-youyou-80g): Descubra o autêntico sabor oriental com os Pés de Frango em Conserva com Pimenta Verde YouYou 有友 泡凤爪 山椒味 80g. Um petisco tradicional chinês, preparado com pés de frango selecionados, marinados em conserva e temperados com pimenta verde, trazendo uma experiência única e picante para o seu paladar. Origem do produto: Fabricado na China pela marca 有友 (YouYou), referência em conservas tradicionais chinesas. Principais características e diferenciais: Produto típico da culinária chinesa Sabor picante de pimenta verde (山椒味) Pronto para consumo Sem adição de conservantes ou corantes artificiais Embalagem prática de 80g Lista de ingredientes: Pés de frango, água, sal, pimenta verde, açúcar, vinagre, óleo vegetal, especiarias naturais. Tabela nutricional (porção de 20g): Informação Nutricional Porção de 20g (aprox. 1 colher de sopa) Valor energético 28 kcal = 117 kJ Carboidratos 0,5 g Proteínas 3,2 g Gorduras totais 1,5 g Gorduras saturadas 0,4 g Gorduras trans 0 g Fibra alimentar 0 g Sódio 180 mg Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto: Petisco Chinês de Pés de Frango Picantes Ingredientes: 1 embalagem de Pés de Frango em Conserva com Pimenta Verde YouYou 有友 泡凤爪 山椒味 80g Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Abra a embalagem e escorra o excesso de líquido. Disponha os pés de frango em um prato. Salpique cebolinha e gergelim torrado por cima. Sirva como petisco ou acompanhamento em refeições orientais. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T12:22:17Z
+  Vendor: YouYou - 有友
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-pes-de-frango-conserva-pimenta-verde-youyou-80g.png?v=1771330835
+  Price: R$ 29,99 BRL
+- [Broto de Bambu em Conserva com Pimenta Verde Xiange  70g - 贤哥食品](https://www.meiwei.com.br/products/broto-de-bambu-em-conserva-com-pimenta-verde-xiange-70g): Experimente o sabor autêntico do Broto de Bambu em Conserva com Pimenta Verde Xiange 贤哥食品 70g. Um produto típico da culinária chinesa, pronto para consumo, ideal para saladas, refogados ou como acompanhamento em pratos orientais. O toque de pimenta verde traz frescor e leve picância, tornando o produto ainda mais especial. Origem do produto: Fabricado na China pela marca 贤哥 (Xiange), referência em alimentos tradicionais orientais. Principais características e diferenciais: Broto de bambu selecionado e conservado Sabor suave com leve picância de pimenta verde Pronto para consumo Sem adição de conservantes artificiais Embalagem prática de 70g Lista de ingredientes: Broto de bambu, água, sal, pimenta verde, vinagre, açúcar. Tabela nutricional (porção de 20g ): Informação Nutricional Porção de 20g (aprox. 1 colher de sopa) Valor energético 6 kcal = 25 kJ Carboidratos 1,2 g Proteínas 0,4 g Gorduras totais 0 g Gorduras saturadas 0 g Gorduras trans 0 g Fibra alimentar 0,6 g Sódio 110 mg Valores diários com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. Receita utilizando o produto: Salada Oriental de Broto de Bambu Picante Ingredientes: 1 embalagem de Broto de Bambu em Conserva com Pimenta Verde Xiange 70g 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher de sopa de molho de soja 1 colher de chá de óleo de gergelim Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Escorra o broto de bambu em conserva e corte em pedaços menores, se desejar. Misture com o pepino, cenoura, molho de soja e óleo de gergelim. Finalize com cebolinha e gergelim torrado. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T12:39:08Z
+  Vendor: Xiange - 贤哥
+  Product Type: Conserva
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-broto-de-bambu-conserva-pimenta-verde-xiange-70g.png?v=1771331802
+  Price: R$ 23,99 BRL
+- [Dobradinha vegana de soja picante Wuxian embalagem 100g - 五贤斋](https://www.meiwei.com.br/products/dobradinha-vegana-de-soja-picante-wuxian-embalagem-100g): Experimente a Dobradinha Vegana de Soja Picante Wuxian 五贤斋 辣椒素牛肚 100g, um snack inovador feito à base de soja, com textura e formato que lembram a tradicional dobradinha (bucho bovino), mas totalmente vegano. Ideal para quem busca petiscos sem ingredientes de origem animal, com sabor levemente picante e perfeito para lanches ou receitas criativas. Origem do produto: Fabricado na China pela marca 五贤斋 (Wuxian), referência em produtos vegetarianos orientais. Principais características e diferenciais: Snack vegano à base de soja Textura e formato que lembram dobradinha/bucho bovino Sabor levemente picante Pronto para consumo Embalagem prática de 100g Lista de ingredientes: Soja, água, óleo vegetal, sal, pimenta, especiarias, corante natural. Tabela nutricional (porção de 20g | padrão brasileiro): Informação Nutricional Porção de 20g Valor energético 35 kcal Carboidratos 2,5 g Proteínas 3,2 g Gorduras totais 1,2 g Gorduras saturadas 0,2 g Gorduras trans 0 g Fibra alimentar 1,0 g Sódio 180 mg Receita utilizando o produto: Salada Fria de Dobradinha Vegana Picante Ingredientes: 1 embalagem de Dobradinha Vegana de Soja Picante Wuxian 100g 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher de sopa de molho de soja 1 colher de chá de óleo de gergelim Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Corte a dobradinha vegana em tiras menores, se desejar. Misture com o pepino, cenoura, molho de soja e óleo de gergelim. Finalize com cebolinha e gergelim torrado. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T13:12:23Z
+  Vendor: Wuxian 五贤斋
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/SALCH201.png?v=1771332619
+  Price: R$ 29,99 BRL
+- [Dobradinha Vegana de Soja Wuxian 100g - 五贤斋 孜香素牛肚](https://www.meiwei.com.br/products/dobradinha-vegana-de-soja-wuxian-100g): Experimente a Dobradinha Vegana de Soja Wuxian 五贤斋 孜香素牛肚 100g, um snack inovador feito à base de soja, com textura e formato que lembram a tradicional dobradinha (bucho bovino), mas totalmente vegano. Ideal para quem busca petiscos sem ingredientes de origem animal, com sabor marcante e pronto para consumo. Origem do produto: Fabricado na China pela marca 五贤斋 (Wuxian), referência em produtos vegetarianos orientais. Principais características e diferenciais: Snack vegano à base de soja Textura e formato que lembram dobradinha/bucho bovino Sabor marcante e levemente condimentado Pronto para consumo Embalagem prática de 100g Lista de ingredientes: Soja, água, óleo vegetal, sal, especiarias, corante natural. Tabela nutricional (porção de 20g): Informação Nutricional Porção de 20g Valor energético 35 kcal Carboidratos 2,5 g Proteínas 3,2 g Gorduras totais 1,2 g Gorduras saturadas 0,2 g Gorduras trans 0 g Fibra alimentar 1,0 g Sódio 180 mg Receita utilizando o produto: Salada Fria de Dobradinha Vegana Ingredientes: 1 embalagem de Dobradinha Vegana de Soja Wuxian 100g 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher de sopa de molho de soja 1 colher de chá de óleo de gergelim Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Corte a dobradinha vegana em tiras menores, se desejar. Misture com o pepino, cenoura, molho de soja e óleo de gergelim. Finalize com cebolinha e gergelim torrado. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T13:30:26Z
+  Vendor: Wuxian 五贤斋
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-dobradinha-vegana-soja-wuxian-100g.png?v=1771334891
+  Price: R$ 29,99 BRL
+- [Dobradinha Vegana de Soja Sabor Picante Aromático Wuxian 100g - 五贤斋 香辣素牛肚](https://www.meiwei.com.br/products/dobradinha-vegana-de-soja-sabor-picante-aromatico-wuxian-100g): Experimente a Dobradinha Vegana de Soja Aromático Wuxian 五贤斋 孜香素牛肚 100g, um snack inovador feito à base de soja, com textura e formato que lembram a tradicional dobradinha (bucho bovino), mas totalmente vegano. Ideal para quem busca petiscos sem ingredientes de origem animal, com sabor marcante e pronto para consumo. Origem do produto: Fabricado na China pela marca 五贤斋 (Wuxian), referência em produtos vegetarianos orientais. Principais características e diferenciais: Snack vegano à base de soja Textura e formato que lembram dobradinha/bucho bovino Sabor marcante e levemente condimentado Pronto para consumo Embalagem prática de 100g Lista de ingredientes: Soja, água, óleo vegetal, sal, especiarias, corante natural. Tabela nutricional (porção de 20g): Informação Nutricional Porção de 20g Valor energético 35 kcal Carboidratos 2,5 g Proteínas 3,2 g Gorduras totais 1,2 g Gorduras saturadas 0,2 g Gorduras trans 0 g Fibra alimentar 1,0 g Sódio 180 mg Receita utilizando o produto: Salada Fria de Dobradinha Vegana Ingredientes: 1 embalagem de Dobradinha Vegana de Soja Wuxian 100g 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher de sopa de molho de soja 1 colher de chá de óleo de gergelim Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Corte a dobradinha vegana em tiras menores, se desejar. Misture com o pepino, cenoura, molho de soja e óleo de gergelim. Finalize com cebolinha e gergelim torrado. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T13:57:34Z
+  Vendor: Wuxian 五贤斋
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-dobradinha-vegana-soja-sabor-picante-wuxian-100g.png?v=1771336603
+  Price: R$ 29,99 BRL
+- [Dobradinha vegana de soja sabor molho especial chinês Wuxian 100g - 五贤斋](https://www.meiwei.com.br/products/dobradinha-vegana-de-soja-sabor-molho-especial-chines-wuxian-100g): Experimente a Dobradinha Vegana de Soja Sabor Molho Especial Chinês Wuxian 五贤斋 酱爆素牛肚 100g, um snack inovador feito à base de soja, com textura e formato que lembram a tradicional dobradinha (bucho bovino), mas totalmente vegano. O diferencial deste produto é o sabor de molho especial chinês (酱爆), típico dos pratos orientais, com um toque levemente adocicado e salgado, perfeito para quem busca um petisco diferente e saboroso. Origem do produto: Fabricado na China pela marca 五贤斋 (Wuxian), referência em produtos vegetarianos orientais. Principais características e diferenciais: Snack vegano à base de soja Textura e formato que lembram dobradinha/bucho bovino Sabor de molho especial chinês (酱爆): levemente adocicado e salgado Pronto para consumo Embalagem prática de 100g Lista de ingredientes: Soja, água, óleo vegetal, molho especial chinês, sal, especiarias, corante natural. Tabela nutricional (porção de 20g): Informação Nutricional Porção de 20g Valor energético 35 kcal Carboidratos 2,5 g Proteínas 3,2 g Gorduras totais 1,2 g Gorduras saturadas 0,2 g Gorduras trans 0 g Fibra alimentar 1,0 g Sódio 180 mg Receita utilizando o produto: Salada Fria de Dobradinha Vegana ao Molho Especial Chinês Ingredientes: 1 embalagem de Dobradinha Vegana de Soja Sabor Molho Especial Chinês Wuxian 100g 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher de sopa de molho de soja 1 colher de chá de óleo de gergelim Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Corte a dobradinha vegana em tiras menores, se desejar. Misture com o pepino, cenoura, molho de soja e óleo de gergelim. Finalize com cebolinha e gergelim torrado. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T14:17:03Z
+  Vendor: Wuxian 五贤斋
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-dobradinha-vegana-soja-sabor-molho-especial-chines-wuxian-100g.png?v=1771337680
+  Price: R$ 29,99 BRL
+- [Snack de Konjac Picante com Legumes Qiaofuhua 60g - 巧福娃 魔芋](https://www.meiwei.com.br/products/snack-de-konjac-picante-com-legumes-qiaofuhua-60g): Experimente o Snack de Konjac Picante com Legumes Qiaofuhua 巧福娃 魔芋 60g, uma opção leve, refrescante e com toque apimentado, feita à base de konjac (batata japonesa conhecida por ser rica em fibras e baixíssima em calorias) e vegetais selecionados. Ideal para quem busca um petisco saudável, diferente e com sabor marcante da culinária oriental. Origem do produto: Fabricado na China pela marca 巧福娃 (Qiaofuhua), referência em snacks orientais inovadores. Principais características e diferenciais: Snack à base de konjac (batata konjac) Sabor picante (香辣味) Com vegetais/legumes Baixo teor calórico e rico em fibras Pronto para consumo Embalagem prática de 60g Lista de ingredientes: Konjac, vegetais, água, sal, pimenta, especiarias, óleo vegetal. Tabela nutricional (porção de 20g): Informação Nutricional Porção de 20g Valor energético 8 kcal Carboidratos 1,5 g Proteínas 0,2 g Gorduras totais 0,1 g Gorduras saturadas 0 g Gorduras trans 0 g Fibra alimentar 1,2 g Sódio 120 mg Receita utilizando o produto: Salada Oriental de Konjac Picante Ingredientes: 1 embalagem de Snack de Konjac Picante com Legumes Qiaofuhua 60g 1 pepino japonês em tiras finas 1 colher de sopa de molho de soja 1 colher de chá de óleo de gergelim Cebolinha picada a gosto Modo de preparo: Misture o snack de konjac com o pepino, molho de soja e óleo de gergelim. Finalize com cebolinha picada. Sirva gelado como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T17:30:09Z
+  Vendor: Qiaofuhua 巧福娃
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-konjac-picante-legumes-qiaofuhua-60g.png?v=1771349041
+  Price: R$ 21,99 BRL
+- [Rolinho de Tofu com Ovo de Codorna Picante Qiaofuhua 88g - 巧福娃 豆卷鹌鹑蛋](https://www.meiwei.com.br/products/rolinho-de-tofu-com-ovo-de-codorna-picante-qiaofuhua-88g): Descubra o Rolinho de Tofu com Ovo de Codorna Picante Qiaofuhua 巧福娃 豆卷鹌鹑蛋 88g, um snack típico da culinária chinesa, feito com uma camada de tofu enrolada em torno de um ovo de codorna inteiro e temperado com especiarias picantes. Uma combinação única de textura macia e sabor marcante, ideal para quem busca experimentar sabores autênticos do oriente. Origem do produto: Fabricado na China pela marca 巧福娃 (Qiaofuhua), referência em snacks inovadores e tradicionais. Principais características e diferenciais: Rolinho de tofu recheado com ovo de codorna inteiro Sabor picante (香辣味) Pronto para consumo Embalagem prática de 88g Snack típico oriental, diferente e saboroso Lista de ingredientes: Tofu (soja, água, coagulante), ovo de codorna, água, sal, pimenta, especiarias, óleo vegetal. Tabela nutricional (porção de 22g | padrão brasileiro): Informação Nutricional Porção de 22g Valor energético 32 kcal Carboidratos 1,2 g Proteínas 2,8 g Gorduras totais 1,7 g Gorduras saturadas 0,4 g Gorduras trans 0 g Fibra alimentar 0,3 g Sódio 160 mg Receita utilizando o produto: Petisco Oriental de Rolinho de Tofu com Ovo de Codorna Picante Ingredientes: 1 embalagem de Rolinho de Tofu com Ovo de Codorna Picante Qiaofuhua 88g Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Retire os rolinhos da embalagem e corte em fatias, se desejar. Disponha em um prato, finalize com cebolinha e gergelim. Sirva como petisco, entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias. Observação importante: Contém ovo e soja. Não indicado para veganos. Adequado para ovo-lacto vegetarianos
+  Updated: 2026-02-17T18:14:17Z
+  Vendor: Qiaofuhua 巧福娃
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-rolinho-tofu-ovo-codorna-picante-qiaofuhua-88g.png?v=1771352042
+  Price: R$ 21,99 BRL
+- [Língua de Pato Temperada 100g - 萨啦咪](https://www.meiwei.com.br/products/lingua-de-pato-temperada-100g): Descubra a Língua de Pato Temperada 萨啦咪 100g, um petisco típico da culinária chinesa, feito com línguas de pato selecionadas e temperadas com especiarias especiais. Ideal para quem busca experimentar sabores autênticos e exóticos do oriente, com textura marcante e sabor levemente defumado. Origem do produto: Fabricado na China pela marca 萨啦咪 (Salami), referência em snacks tradicionais de carne. Principais características e diferenciais: Língua de pato selecionada e temperada Sabor marcante e levemente defumado Pronto para consumo Embalagem prática de 100g Snack típico oriental, diferente e saboroso Lista de ingredientes: Língua de pato, água, sal, especiarias, açúcar, molho de soja, óleo vegetal. Tabela nutricional (porção de 20g): Informação Nutricional Porção de 20g Valor energético 42 kcal Carboidratos 0,8 g Proteínas 3,6 g Gorduras totais 2,7 g Gorduras saturadas 0,7 g Gorduras trans 0 g Fibra alimentar 0 g Sódio 210 mg Receita utilizando o produto: Petisco Oriental de Língua de Pato Temperada Ingredientes: 1 embalagem de Língua de Pato Temperada Salami 100g Cebolinha picada a gosto Gergelim torrado para finalizar Modo de preparo: Retire as línguas de pato da embalagem. Disponha em um prato, finalize com cebolinha e gergelim. Sirva como petisco, entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T18:44:00Z
+  Vendor: Qiaofuhua 巧福娃
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-lingua-de-pato-temperada-salami-100g.png?v=1771352822
+  Price: R$ 59,99 BRL
+- [Petisco Peixinho Apimentado Shisanmei 50g - 十三妹 小鱼辣椒酥](https://www.meiwei.com.br/products/peixinho-apimentado-shisanmei-50g): Experimente o Peixinho Apimentado Shisanmei 十三妹 小鱼辣椒酥 50g, um snack típico da culinária chinesa feito com pequenos peixes inteiros temperados com pimenta e especiarias. Crocante, saboroso e com um toque picante, é perfeito para petiscar, acompanhar refeições ou incrementar saladas e pratos orientais. Origem do produto: Fabricado na China pela marca 十三妹 (Shisanmei), referência em snacks tradicionais e autênticos. Principais características e diferenciais: Snack de pequenos peixes inteiros Sabor apimentado (辣椒酥) Crocante e pronto para consumo Embalagem prática de 50g Ideal para petiscar ou acompanhar pratos orientais Lista de ingredientes: Peixinhos inteiros, óleo vegetal, pimenta, sal, especiarias, açúcar. Tabela nutricional (porção de 10g): Informação Nutricional Porção de 10g Valor energético 38 kcal Carboidratos 0,7 g Proteínas 2,9 g Gorduras totais 2,7 g Gorduras saturadas 0,6 g Gorduras trans 0 g Fibra alimentar 0 g Sódio 120 mg Receita utilizando o produto: Salada Oriental com Peixinho Apimentado Ingredientes: 1 embalagem de Peixinho Apimentado Shisanmei 50g 1 pepino japonês em tiras finas 1 cenoura ralada 1 colher de sopa de molho de soja Cebolinha picada a gosto Modo de preparo: Misture o peixinho apimentado com o pepino, cenoura e molho de soja. Finalize com cebolinha picada. Sirva como entrada ou acompanhamento. Instruções de armazenamento: Conservar em local seco, fresco e ao abrigo da luz. Após aberto, manter refrigerado e consumir em até 3 dias.
+  Updated: 2026-02-17T19:08:44Z
+  Vendor: Shisanmei - 十三妹
+  Product Type: Aperitivo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2171/5991/files/mei-wei-peixinho-apimentado-shisanmei-50g.png?v=1771354635
+  Price: R$ 18,99 BRL
 
 ## Collections
 
 - [Molho de Pimenta](https://www.meiwei.com.br/collections/molho-de-pimenta)
-  Updated: 2026-02-10T12:03:06Z
-  Total Products: 115
+  Updated: 2026-02-17T13:12:31Z
+  Total Products: 114
 - [Produtos Vegetarianos](https://www.meiwei.com.br/collections/produtos-vegetarianos)
   Updated: 2025-12-23T17:56:31Z
   Total Products: 6
@@ -15018,43 +15984,43 @@
   Updated: 2026-02-03T11:08:24Z
   Total Products: 34
 - [Soju](https://www.meiwei.com.br/collections/soju)
-  Updated: 2026-02-10T12:03:13Z
+  Updated: 2026-02-12T11:43:14Z
   Total Products: 21
 - [Bebida Alcóolica](https://www.meiwei.com.br/collections/bebida-alcoolica)
-  Updated: 2026-02-10T14:57:06Z
+  Updated: 2026-02-16T15:09:38Z
   Total Products: 230
 - [Chá Funcional](https://www.meiwei.com.br/collections/cha-funcional)
   Updated: 2025-12-28T15:09:18Z
   Total Products: 11
 - [Chá](https://www.meiwei.com.br/collections/cha)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-16T17:15:40Z
   Total Products: 297
 - [Conserva](https://www.meiwei.com.br/collections/conserva)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 241
+  Updated: 2026-02-17T12:37:53Z
+  Total Products: 242
 - [Ameixa em Conserva - Umeboshi](https://www.meiwei.com.br/collections/ameixa-em-conserva)
   Updated: 2025-12-23T17:58:50Z
   Total Products: 9
 - [Curry Estilo Tailandês](https://www.meiwei.com.br/collections/curry-tailandes)
-  Updated: 2026-02-09T12:02:28Z
+  Updated: 2026-02-16T13:17:58Z
   Total Products: 32
 - [Condimento & Tempero](https://www.meiwei.com.br/collections/condimento-tempero)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 1537
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 1563
 - [Molho](https://www.meiwei.com.br/collections/molho)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T13:12:31Z
   Total Products: 544
 - [Molho de Ostra](https://www.meiwei.com.br/collections/molho-de-ostra)
-  Updated: 2026-02-10T12:03:06Z
-  Total Products: 63
+  Updated: 2026-02-16T20:04:20Z
+  Total Products: 64
 - [Outro Molho](https://www.meiwei.com.br/collections/outro-molho)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:58:39Z
   Total Products: 243
 - [Massa](https://www.meiwei.com.br/collections/massa)
-  Updated: 2026-02-08T12:04:59Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 193
 - [Massa de Arroz](https://www.meiwei.com.br/collections/massa-de-arroz)
-  Updated: 2026-02-08T12:04:59Z
+  Updated: 2026-02-14T12:02:37Z
   Total Products: 32
 - [Tamarindo](https://www.meiwei.com.br/collections/tamarindo)
   Updated: 2026-02-10T12:03:06Z
@@ -15063,14 +16029,14 @@
   Updated: 2025-03-13T16:49:21Z
   Total Products: 0
 - [Óleo de Gergelim](https://www.meiwei.com.br/collections/oleo-de-gergelim)
-  Updated: 2026-02-07T12:03:00Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 20
 - [Doce](https://www.meiwei.com.br/collections/doce)
-  Updated: 2026-02-10T15:05:12Z
+  Updated: 2026-02-16T16:19:08Z
   Total Products: 704
 - [Bala](https://www.meiwei.com.br/collections/bala)
-  Updated: 2026-02-10T15:05:12Z
-  Total Products: 305
+  Updated: 2026-02-17T13:12:23Z
+  Total Products: 306
 - [Molho Vegetariano](https://www.meiwei.com.br/collections/molho-de-pimenta-vegetariano)
   Updated: 2026-02-06T14:12:42Z
   Total Products: 12
@@ -15078,61 +16044,61 @@
   Updated: 2026-02-05T21:22:44Z
   Total Products: 11
 - [Utensílio](https://www.meiwei.com.br/collections/utensilio)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:13:16Z
   Total Products: 76
 - [Curry Estilo Japonês](https://www.meiwei.com.br/collections/curry-japones)
   Updated: 2026-02-06T14:06:48Z
   Total Products: 9
 - [Tempero para Aves](https://www.meiwei.com.br/collections/tempero-para-frango)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 159
 - [Farinha & Grão](https://www.meiwei.com.br/collections/farinha-grao)
-  Updated: 2026-02-08T15:42:23Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 132
 - [Farinha](https://www.meiwei.com.br/collections/farinha)
-  Updated: 2026-02-06T14:20:25Z
+  Updated: 2026-02-14T12:02:37Z
   Total Products: 99
 - [Arroz](https://www.meiwei.com.br/collections/arroz)
-  Updated: 2026-02-08T15:42:23Z
+  Updated: 2026-02-14T15:36:57Z
   Total Products: 22
 - [Shoyu - Molho de Soja](https://www.meiwei.com.br/collections/shoyu-molho-de-soja)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 162
 - [Alga](https://www.meiwei.com.br/collections/alga)
   Updated: 2026-02-10T12:19:51Z
   Total Products: 43
 - [Desidratado](https://www.meiwei.com.br/collections/desidratado)
-  Updated: 2026-02-10T12:19:51Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 306
 - [Óleo de Cozinha](https://www.meiwei.com.br/collections/oleo-de-cozinha)
   Updated: 2025-12-06T16:08:11Z
   Total Products: 0
 - [Vinho de Arroz](https://www.meiwei.com.br/collections/vinho-de-arroz)
-  Updated: 2026-02-10T14:57:06Z
+  Updated: 2026-02-16T15:09:38Z
   Total Products: 60
 - [Pimenta Seca](https://www.meiwei.com.br/collections/pimenta-seca)
   Updated: 2025-12-06T16:08:11Z
   Total Products: 0
 - [Utensílio de Cozinha](https://www.meiwei.com.br/collections/utensilio-de-cozinha)
-  Updated: 2026-02-10T12:03:01Z
+  Updated: 2026-02-16T18:41:09Z
   Total Products: 55
 - [Cogumelo](https://www.meiwei.com.br/collections/cogumelo)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 76
 - [Gergelim](https://www.meiwei.com.br/collections/gergelim)
-  Updated: 2026-02-05T21:02:36Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 4
 - [Vinagre](https://www.meiwei.com.br/collections/vinagre)
-  Updated: 2026-02-09T12:02:28Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 47
 - [Bebida Alcóolica Vegetariano](https://www.meiwei.com.br/collections/bebida-alcoolica-vegetariano)
   Updated: 2025-12-06T16:08:12Z
   Total Products: 0
 - [Suco](https://www.meiwei.com.br/collections/suco)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T10:39:47Z
   Total Products: 63
 - [Bebida Não Alcóolica](https://www.meiwei.com.br/collections/bebida-nao-alcoolica)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 384
 - [Bebida Não Alcóolica Vegetariana](https://www.meiwei.com.br/collections/bebida-nao-alcoolica-vegetariana)
   Updated: 2025-12-06T16:08:12Z
@@ -15153,8 +16119,8 @@
   Updated: 2025-12-23T17:54:23Z
   Total Products: 2
 - [Produtos Sem Glúten](https://www.meiwei.com.br/collections/produtos-sem-gluten)
-  Updated: 2026-02-10T12:03:06Z
-  Total Products: 240
+  Updated: 2026-02-17T13:12:31Z
+  Total Products: 239
 - [Conserva Sem Glúten](https://www.meiwei.com.br/collections/conserva-sem-gluten)
   Updated: 2026-02-08T12:04:59Z
   Total Products: 11
@@ -15168,28 +16134,28 @@
   Updated: 2026-01-31T12:03:10Z
   Total Products: 11
 - [Desidratado Sem Glúten](https://www.meiwei.com.br/collections/desidratado-sem-gluten)
-  Updated: 2026-02-08T12:04:59Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 41
 - [Condimento & Tempero Sem Glúten](https://www.meiwei.com.br/collections/condimento-tempero-sem-gluten)
   Updated: 2025-12-06T16:08:13Z
   Total Products: 0
 - [Massa Sem Glúten](https://www.meiwei.com.br/collections/massa-sem-gluten)
-  Updated: 2026-02-10T12:03:06Z
-  Total Products: 240
+  Updated: 2026-02-17T13:12:31Z
+  Total Products: 239
 - [Molho Sem Glúten](https://www.meiwei.com.br/collections/molho-1)
-  Updated: 2026-02-07T12:06:03Z
-  Total Products: 40
+  Updated: 2026-02-17T13:12:31Z
+  Total Products: 39
 - [Yakissoba](https://www.meiwei.com.br/collections/yakissoba)
-  Updated: 2026-02-08T12:04:59Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 201
 - [Lamen](https://www.meiwei.com.br/collections/lamen)
   Updated: 2026-02-06T12:03:30Z
   Total Products: 35
 - [Dangmyeon](https://www.meiwei.com.br/collections/dangmyeon)
-  Updated: 2026-02-07T13:48:31Z
+  Updated: 2026-02-13T13:29:04Z
   Total Products: 17
 - [Hofen](https://www.meiwei.com.br/collections/hofen)
-  Updated: 2026-02-08T12:04:59Z
+  Updated: 2026-02-14T12:02:37Z
   Total Products: 4
 - [Molho de Peixe](https://www.meiwei.com.br/collections/molho-de-peixe)
   Updated: 2026-01-23T15:50:01Z
@@ -15204,46 +16170,46 @@
   Updated: 2025-12-23T17:55:46Z
   Total Products: 3
 - [Base de Hot Pot](https://www.meiwei.com.br/collections/base-de-hot-pot)
-  Updated: 2026-02-05T22:34:46Z
+  Updated: 2026-02-15T01:58:34Z
   Total Products: 81
 - [Tempero Estilo Tailandês](https://www.meiwei.com.br/collections/tempero-estilo-tailandes)
   Updated: 2025-12-06T16:08:13Z
   Total Products: 0
 - [Tempero Apimentado](https://www.meiwei.com.br/collections/tempero-apimentado)
-  Updated: 2026-02-10T12:03:06Z
-  Total Products: 178
+  Updated: 2026-02-16T12:02:50Z
+  Total Products: 177
 - [Curry](https://www.meiwei.com.br/collections/curry)
-  Updated: 2026-02-09T12:02:28Z
+  Updated: 2026-02-16T13:17:58Z
   Total Products: 51
 - [Outro Condimento e Tempero](https://www.meiwei.com.br/collections/outro-condimento-tempero)
-  Updated: 2026-02-05T16:08:48Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 98
 - [Tempero para Carne](https://www.meiwei.com.br/collections/tempero-para-carne)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-17T12:58:39Z
   Total Products: 148
 - [Tempero para Porco](https://www.meiwei.com.br/collections/tempero-para-porco)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-16T12:02:50Z
   Total Products: 140
 - [Especiaria](https://www.meiwei.com.br/collections/especiaria)
   Updated: 2026-02-09T12:02:28Z
   Total Products: 17
 - [Aditivo Alimentar](https://www.meiwei.com.br/collections/aditivo-alimentar)
-  Updated: 2026-02-09T12:02:27Z
-  Total Products: 15
+  Updated: 2026-02-16T12:02:50Z
+  Total Products: 12
 - [Tempero para Arroz](https://www.meiwei.com.br/collections/tempero-para-arroz)
-  Updated: 2026-02-09T12:02:27Z
+  Updated: 2026-02-11T12:02:48Z
   Total Products: 45
 - [Missô](https://www.meiwei.com.br/collections/misso)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-11T12:02:48Z
   Total Products: 9
 - [Tempero para Peixe e Fruto do Mar](https://www.meiwei.com.br/collections/tempero-para-peixe-e-fruto-do-mar)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-16T12:02:50Z
   Total Products: 139
 - [Wasabi](https://www.meiwei.com.br/collections/wasabi)
   Updated: 2026-02-07T12:03:00Z
   Total Products: 5
 - [Óleo](https://www.meiwei.com.br/collections/oleo)
-  Updated: 2026-02-09T12:02:28Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 52
 - [Açúcar & Produto para Adoçar](https://www.meiwei.com.br/collections/acucar-produto-para-adocar)
   Updated: 2026-02-10T12:03:06Z
@@ -15261,13 +16227,13 @@
   Updated: 2026-02-08T12:04:59Z
   Total Products: 5
 - [Macarrão de Batata Doce](https://www.meiwei.com.br/collections/macarrao-de-batata-doce)
-  Updated: 2026-02-07T13:48:31Z
+  Updated: 2026-02-13T13:29:04Z
   Total Products: 17
 - [Macarrão de Trigo](https://www.meiwei.com.br/collections/macarrao-de-trigo)
-  Updated: 2026-01-28T12:02:17Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 64
 - [Macarrão Yakisoba](https://www.meiwei.com.br/collections/macarrao-yakisoba)
-  Updated: 2026-01-23T12:02:55Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 8
 - [Food Service](https://www.meiwei.com.br/collections/food-service)
   Updated: 2026-01-20T16:52:41Z
@@ -15279,59 +16245,59 @@
   Updated: 2026-01-20T16:52:41Z
   Total Products: 3
 - [Hortaliça & Legume Desidratado](https://www.meiwei.com.br/collections/hortalica-legume-desitradato)
-  Updated: 2026-02-06T14:26:42Z
+  Updated: 2026-02-13T11:37:48Z
   Total Products: 28
 - [Alimento](https://www.meiwei.com.br/collections/alimento)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 2260
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 2286
 - [Palito](https://www.meiwei.com.br/collections/palito)
   Updated: 2025-12-06T16:08:15Z
   Total Products: 3
 - [Conserva de Vegetais](https://www.meiwei.com.br/collections/conserva-de-vegetais)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 125
+  Updated: 2026-02-17T12:37:53Z
+  Total Products: 126
 - [Congelado](https://www.meiwei.com.br/collections/congelado)
   Updated: 2025-12-06T16:08:15Z
   Total Products: 0
 - [Guloseima](https://www.meiwei.com.br/collections/guloseima)
-  Updated: 2026-02-10T15:05:12Z
-  Total Products: 828
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 856
 - [Marshmallow](https://www.meiwei.com.br/collections/marshmallow)
-  Updated: 2025-12-31T12:02:57Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 37
 - [Biscoito](https://www.meiwei.com.br/collections/biscoito)
-  Updated: 2026-02-05T17:20:34Z
+  Updated: 2026-02-16T10:07:57Z
   Total Products: 11
 - [Salgadinho](https://www.meiwei.com.br/collections/salgadinho)
   Updated: 2026-01-14T10:49:49Z
   Total Products: 17
 - [Bebida](https://www.meiwei.com.br/collections/bebida)
-  Updated: 2026-02-10T12:03:13Z
+  Updated: 2026-02-17T12:03:09Z
   Total Products: 468
 - [Licor](https://www.meiwei.com.br/collections/licor)
-  Updated: 2026-02-10T12:03:06Z
+  Updated: 2026-02-13T14:05:21Z
   Total Products: 75
 - [Intelis](https://www.meiwei.com.br/collections/intelis)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 3730
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 3755
 - [Produtos Ativos com Fretes Grátis no Mercado Livre](https://www.meiwei.com.br/collections/produtos-com-fretes-gratis)
-  Updated: 2026-02-10T14:57:06Z
-  Total Products: 654
+  Updated: 2026-02-17T13:12:31Z
+  Total Products: 658
 - [Produtos Ativos com Fretes no Mercado Livre](https://www.meiwei.com.br/collections/produtos-ativos-com-fretes-no-mercado-livre)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 3081
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 3102
 - [Todos Produtos (所有产品)](https://www.meiwei.com.br/collections/todos-produtos)
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 3730
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 3755
 - [Lançamento (产品发布)](https://www.meiwei.com.br/collections/lancamento): Descubra os novos produtos orientais na Mei Wei Produtos Orientais! Produtos autênticos dos países da Ásia como China, Japão, Coreia e Tailândia. Curadoria especializada para entusiastas da gastronomia e iniciantes. Encontre seus favoritos agora!
-  Updated: 2026-02-10T15:41:03Z
-  Total Products: 2137
+  Updated: 2026-02-17T19:08:08Z
+  Total Products: 2275
 - [Macarrão Chinês (中式面条)](https://www.meiwei.com.br/collections/macarrao-chines): Compre macarrão chinês autêntico no Brasil! Encontre noodles de arroz (bifum), macarrão de feijão, lámen e ingredientes para yakisoba e chow mein. Qualidade e variedade na Mei Wei Produtos Orientais.
-  Updated: 2026-02-08T12:04:59Z
+  Updated: 2026-02-15T12:03:39Z
   Total Products: 103
 - [Promoção (特惠促销）](https://www.meiwei.com.br/collections/promocao): Mei Wei: ofertas especiais em molhos, temperos e snacks asiáticos autênticos. Promoções exclusivas com entrega para todo o Brasil. Confira!
-  Updated: 2026-02-10T12:03:06Z
-  Total Products: 12
+  Updated: 2026-02-17T12:03:09Z
+  Total Products: 13
 - [Kits e Presentes Exclusivos Produtos Asiáticos - Mei Wei](https://www.meiwei.com.br/collections/kit-presente): Kits e presentes premium com produtos asiáticos autênticos. Economia real + frete grátis garantido. Edição limitada válida enquanto dura o estoque. Aproveite!
   Updated: 2026-02-04T00:09:29Z
   Total Products: 3
