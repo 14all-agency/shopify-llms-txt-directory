@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-01-31T19:49:18Z
 - Contact Email: rriim.92@gmail.com
-- Updated At: 2026-02-10T00:00:31.440Z
+- Updated At: 2026-02-17T00:00:33.974Z
 
 This Shopify store sells sensory toys and tools designed for children, including kids with sensory processing needs. Products support focus, calming, fine motor skills, and play-based learning. Items may be suitable for home, school, or therapeutic use.
 
@@ -684,6 +684,15 @@ This Shopify store sells sensory toys and tools designed for children, including
     Author: Sensory Toolkit
   - [Understanding the Importance of Sensory Toys in Early Childhood Development](https://4kgua4-v0.myshopify.com/blogs/news/understanding-the-importance-of-sensory-toys-in-early-childhood-development): Understanding the Importance of Sensory Toys in Early Childhood Development
     Updated: 2026-02-09T01:45:44Z
+    Author: Sensory Toolkit
+  - [How to Craft DIY Sensory Toys Using Everyday Items](https://4kgua4-v0.myshopify.com/blogs/news/how-to-craft-diy-sensory-toys-using-everyday-items): How to Craft DIY Sensory Toys Using Everyday Items
+    Updated: 2026-02-11T01:49:00Z
+    Author: Sensory Toolkit
+  - [A Parent's Guide to Safe and Engaging Sensory Play](https://4kgua4-v0.myshopify.com/blogs/news/a-parents-guide-to-safe-and-engaging-sensory-play): A Parent's Guide to Safe and Engaging Sensory Play
+    Updated: 2026-02-14T00:40:37Z
+    Author: Sensory Toolkit
+  - [Exploring the Benefits of Sensory Toys for Kids with Autism](https://4kgua4-v0.myshopify.com/blogs/news/exploring-the-benefits-of-sensory-toys-for-kids-with-autism): Exploring the Benefits of Sensory Toys for Kids with Autism
+    Updated: 2026-02-16T02:07:45Z
     Author: Sensory Toolkit
 
 ## Store Pages
