@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-21T17:12:23Z
 - Contact Email: granoorganicopvtltd@gmail.com
-- Updated At: 2026-02-08T00:00:34.627Z
+- Updated At: 2026-02-17T00:00:37.133Z
 
 ## Products
 
@@ -121,102 +121,102 @@
     Availability: Available
     Price: ₹157.50 INR
 - [Buy Rajasthan Special Jeera(Cumin Seeds) | High Aroma | Grano Organico](https://granoorganicoindia.com/products/organic-jeera-cumin-seeds): Shop premium Rajasthani Jeera (Cumin Seeds) online. Sourced from Rajasthan for bold aroma and high oil content. Chemical-free, cleaned, and unpolished.
-  Updated: 2026-02-01T19:50:44Z
+  Updated: 2026-02-10T09:46:12Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_dda128a6-d84c-4556-b923-bc389d8808f9.webp?v=1769205450
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/jeera-main-white_bg.jpg?v=1770673842
   Price: ₹294.00 INR
 - [Lakadong Haldi Powder (Turmeric) | Immunity Booster | Grano Organico](https://granoorganicoindia.com/products/organic-lakadong-haldi-powder): Shop premium Lakadong Haldi Powder online. High Curcumin content, deep golden color, and 100% chemical-free. No artificial colors or fillers.
-  Updated: 2026-02-01T19:51:10Z
+  Updated: 2026-02-10T10:49:55Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_a8053bec-e71b-4b56-a464-227faed434ba.webp?v=1769206356
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/haldi-main-white_bg.jpg?v=1770673819
   Price: ₹138.60 INR
 - [Rajasthani Dhaniya Powder (Coriander) | Cold Ground | Grano Organico](https://granoorganicoindia.com/products/rajasthani-dhaniya-powder): Farm-fresh Rajasthani Coriander Powder. Cold-ground to retain natural oils and aroma. 100% Organic, no fillers, no artificial colors.
-  Updated: 2026-02-01T19:51:21Z
+  Updated: 2026-02-10T10:08:26Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_38ad1c2e-2168-4a05-bcb2-0348749d8797.webp?v=1769206886
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/dp-500-main-white_bg.jpg?v=1770673898
   - [250g](https://granoorganicoindia.com/products/rajasthani-dhaniya-powder?variant=42368454164551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/10_cf03b0f9-2b9c-441b-86da-ee612220dbab.webp?v=1769207412
+    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/dp-250-main-white_bg.jpg?v=1770673566
     Price: ₹210.00 INR
   - [500g](https://granoorganicoindia.com/products/rajasthani-dhaniya-powder?variant=42368454197319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_38ad1c2e-2168-4a05-bcb2-0348749d8797.webp?v=1769206886
+    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/dp-500-main-white_bg.jpg?v=1770673898
     Price: ₹420.00 INR
 - [Mathania Lal Mirch Powder | Authentic Rajasthani Red Chili | Grano Organico](https://granoorganicoindia.com/products/mathania-lal-mirchi-red-chili-powder): Legendary Mathania Red Chili Powder. Vibrant red color with medium heat. Sourced directly from Jodhpur farms. 100% Stemless & Pure.
-  Updated: 2026-02-01T19:50:33Z
+  Updated: 2026-02-10T11:17:16Z
   Vendor: Grano Organico Private Limited
   Product Type: Spices
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/10_55df534e-6cc9-48e0-9d3c-e7bd3699e923.webp?v=1769204011
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/lm-500-main-white_bg.jpg?v=1770673970
   - [500g](https://granoorganicoindia.com/products/mathania-lal-mirchi-red-chili-powder?variant=42368458063943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/10_55df534e-6cc9-48e0-9d3c-e7bd3699e923.webp?v=1769204011
+    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/lm-500-main-white_bg.jpg?v=1770673970
     Price: ₹420.00 INR
   - [250g](https://granoorganicoindia.com/products/mathania-lal-mirchi-red-chili-powder?variant=42368458096711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/2_95c25a0e-d83b-45f9-a9ea-7a919a359d6e.webp?v=1769205670
+    Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/lm-250-main-white_bg.jpg?v=1770673566
     Price: ₹210.00 INR
 - [Organic Red Rajma (Kidney Beans) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-red-rajma): Premium Organic Red Rajma. Unpolished and chemical-free. Cooks soft and creamy. High protein content straight from the farm to your packet.
-  Updated: 2026-02-01T19:51:49Z
+  Updated: 2026-02-10T11:16:33Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_00503680-70b9-4d20-8d95-0654039eab25.webp?v=1769203464
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/rr-main-white_bg.jpg?v=1770673789
   Price: ₹163.80 INR
 - [Organic Kabuli Chana (White Chickpeas) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-kabuli-chana): Extra-bold Organic Kabuli Chana. Unpolished and strictly non-GMO. Rich in fiber and plant protein. Perfect for hummus and curries.
-  Updated: 2026-02-01T19:53:52Z
+  Updated: 2026-02-10T23:35:12Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/2_b2995be7-39d5-41cc-9e5f-228738ca26ab.webp?v=1769203045
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/kc-main-white_bg.jpg?v=1770673765
   Price: ₹142.80 INR
 - [Organic Toor Dal (Arhar) | Unpolished & Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-toor-dal-arhar): 100% Unpolished Toor Dal (Arhar). Free from oil polish, water polish & artificial colors. Natural farm taste and high digestibility.
-  Updated: 2026-02-01T19:14:38Z
+  Updated: 2026-02-10T09:52:05Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/8_97fbccc3-484a-49e0-b144-876dee0da935.webp?v=1769202415
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/td-main-white_bg.jpg?v=1770673732
   Price: ₹151.20 INR
 - [Organic Chana Dal (Split Chickpeas) | Unpolished | Grano Organico](https://granoorganicoindia.com/products/organic-chana-dal): Pure Organic Chana Dal. Sourced from chemical-free farms. Unpolished to retain vital nutrients and authentic flavor. Best for daily protein.
-  Updated: 2026-02-01T19:14:34Z
+  Updated: 2026-02-10T10:03:03Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/5_d26198b3-5923-43a0-a8b6-5e1616ed78a0.webp?v=1769201859
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/cd-main-white_bg.jpg?v=1770673704
   Price: ₹96.60 INR
 - [Organic Urad Dal Chilka | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-urad-dal): Traditional Split Urad Dal Chilka. 100% Organic and unpolished. Essential for a balanced diet, rich in iron and protein.
-  Updated: 2026-02-01T19:14:27Z
+  Updated: 2026-02-10T10:02:57Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/9_a549cff6-993c-40d8-9dea-991e6cf61a23.webp?v=1769201265
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/ud-main-white_bg.jpg?v=1770673674
   Price: ₹134.40 INR
 - [Organic Moong Mogar Dal | Chemical Free | Grano Organico](https://granoorganicoindia.com/products/organic-moong-mogar-dal): Light and healthy Moong Mogar Dal. 100% Organic, unpolished & skinless. The most easily digestible protein for kids and elders.
-  Updated: 2026-02-01T19:14:22Z
+  Updated: 2026-02-10T11:06:19Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/4_cbf84f08-cc3f-4ed6-a724-fa21f4d968f2.webp?v=1769200566
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/mmd-main-white_bg.jpg?v=1770673645
   Price: ₹126.00 INR
 - [Organic Green Moong Dal | High Fiber Pulse | Grano Organico](https://granoorganicoindia.com/products/organic-green-moong-dal): Split Green Moong with Chilka. High fiber, unpolished & cooling for the body. Grown without synthetic pesticides or fertilizers.
-  Updated: 2026-02-01T19:39:02Z
+  Updated: 2026-02-10T10:48:54Z
   Vendor: Grano Organico Private Limited
   Product Type: Pulses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/4_f9e0d99e-90bb-45f1-aad0-b32cb3ba4211.webp?v=1769107791
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/md-main-white_bg.jpg?v=1770673621
   Price: ₹121.80 INR
 - [A2 Gir Cow Ghee | Vedic Bilona Method | Organic | Grano Organico](https://granoorganicoindia.com/products/a2-gir-cow-ghee): Shop premium A2 Gir Cow Ghee online. Made in Gujarat using the traditional Vedic Bilona (Curd-churned) method. 100% Pure, Organic, and Danedar.
-  Updated: 2026-02-02T06:58:18Z
+  Updated: 2026-02-10T09:58:11Z
   Vendor: Grano Organico Private Limited
   Product Type: A2 Gir Cow Ghee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/Ghee_61b36b8f-7ee1-465b-b9a1-250e0d02faf2.webp?v=1769021949
+  Image: https://cdn.shopify.com/s/files/1/0650/7049/7863/files/1.webp?v=1770671316
   Price: ₹1,995.00 INR
 - [Organic Masoor Dal | Unpolished and Protein-Rich | Grano Organico](https://granoorganicoindia.com/products/organic-masoor-dal): 100% organic Masoor Dal (Red Lentils). Unpolished, high in protein, and grown without synthetic pesticides. Pure, nutritious, and easy to digest for daily meals.
   Updated: 2026-02-02T06:34:39Z
