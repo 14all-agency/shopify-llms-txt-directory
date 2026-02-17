@@ -5,7 +5,7 @@
 - Currency: SEK
 - Timezone: Europe/Stockholm
 - Created At: 2026-01-09T01:11:27Z
-- Updated At: 2026-02-10T00:00:31.719Z
+- Updated At: 2026-02-17T00:00:36.018Z
 
 ## Products
 
@@ -79,7 +79,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/3248/7808/files/5b550ffa-4584-428c-ae89-d0dae28a0644.jpg?v=1768687214
   Price: 399,00 kr SEK
 - [Fashion Jewelry Box Red Apple Christmas Gift Necklace Eternal Rose For Girl Mother's Day Valentine's Day Gifts With Artificial Flower Rose Flower Jewelry Box](https://x01uds-u6.myshopify.com/products/fashion-jewelry-box-red-apple-christmas-gift-necklace-eternal-rose-for-girl-mothers-day-valentines-day-gifts-with-artificial-flower-rose-flower-jewelry-box): Overview: 1. Handmade Roses: Our roses are handmade, each rose looks like it has just been carefully selected from the rose bushes, and preserved roses in a box can keep the beautiful appearance of roses forever. 2. Represents Everlasting Love: The flowers inside the rose jewelry box will never wither, representing everlasting love. This is exactly what every girl dreams of and no one will say no to it. 3. Unique Gift Box Idea: Preserved flower roses are presented in an elegant gift box, when you open the eternal rose gift box, it has a small sturdy drawer, which can also be used as a jewelry box or ring box. 4. Clever Design: The designer designed a rose jewelry box into a cute fruit shape, which makes people like it very much. When you open it, you will find a beautiful eternal flower inside the fruit. 5. Perfect Gift: This preserved rose gift box will be the perfect gift for birthdays, Mother's Day, Valentine's Day, anniversaries, weddings, Christmas, Graduation, or any other occasion. Product information:  Process: Electroplating Color: necklace (silver) card Apple box, necklace (gold) card Apple box, necklace (silver) Apple box, necklace (gold) Apple box Applicable people: women Pendant material: Copper White gold plated Chain style: clavicle chain Material: Copper Eternal flower material: soap flower Shape: heart shape Popular elements: Love/heart Style: Natural Circumference: 81cm and above Size: Packing list: Clover clavicle chain+apple box set*1pc Product Image:
-  Updated: 2026-02-09T17:26:57Z
+  Updated: 2026-02-15T14:28:34Z
   Vendor: D, J&G Accesorios 
   Product Type: Opcios & regalos
   Availability: Available
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0968/3248/7808/files/78a5ec23-9c2a-4fd5-84e0-f8f06e2ecd1a.jpg?v=1768788381
     Price: 169,00 kr SEK
 - [Cordless Vacuum Cleaner, Lightweight Stick Vacuum Household Anti-tangling And LED Light, Powerful Rechargeable Wireless Vacuum Cleaner](https://x01uds-u6.myshopify.com/products/cordless-vacuum-cleaner-lightweight-stick-vacuum-household-anti-tangling-and-led-light-powerful-rechargeable-wireless-vacuum-cleaner): Product Details Specifications Item Black and Blue Length × Width × Height 9.84 × 8.27 × 41.34 inch Length × Width × Height (Package) 23.15 × 12.40 × 5.19 inch Weight 5.71 lb Package Weight 8.20 lb Item No. ZHUMI-AS-XCQ23SB-BKBU-HJ Color Black and Blue 【Versatile with 3 Brushes】The vacuum cleaner comes with 3 interchangeable brushes, each thoughtfully designed to tackle multiple surfaces. It effortlessly transforms from a stick model into a handheld or stair cleaner, making it easy for you to take on every cleaning task with confidence. From car seats and pet hair to stairs, carpets, hardwood floors, and sofas—this vacuum is always ready to help and carefully crafted to support your everyday cleaning needs 【Flexible LED Motorized Floor Brush Head】The rechargeable stick vacuum cleaner features a flexible floor brush that rotates 180° side to side and 90° up and down, making it easy to reach under and around furniture—no need to move heavy pieces. The built-in LED headlight gently illuminates dark corners and hidden spaces, helping you effortlessly capture dust and crumbs where they hide. Clean with confidence and care, even in the trickiest spots. 【Rechargeable Battery】Equipped with a high-capacity 2200mAh×6 rechargeable battery, this vacuum delivers extended run time and faster recharging. You can power through cleaning sessions with confidence, knowing it’s ready when you are—keeping your home fresh without the worry of running out of charge. 【8-Layer Cyclone Filtration System】The cordless vacuum cleaners feature advanced cyclone technology and a high-density upgraded filter that work together to capture 100% of fine particles (above 0.1μm) and 95% of ultra-fine particles (below 0.1μm), helping to release cleaner, fresher air into your home. The washable and reusable upgraded filter not only supports a more sustainable routine but also lasts twice as long as traditional filters—making it easier on both your home and the environment. 【Lightweight & Convenient Handling】Weighing just 5.7 lbs, this wireless vacuum glides smoothly across floors, furniture, and carpets for effortless cleaning. Its lightweight design lets you carry it easily between rooms, moving around your home with comfort. The retractable feature reduces arm and back strain, offering a more comfortable experience for everyone—especially seniors. Carefully crafted, it’s a practical, user-friendly choice for everyday cleaning, no matter your age or lifestyle.
-  Updated: 2026-02-04T19:49:23Z
+  Updated: 2026-02-13T11:25:51Z
   Vendor: D, J&G Accesorios 
   Product Type: Electronico
   Availability: Available
@@ -547,7 +547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0968/3248/7808/files/a1989372-0154-41dd-8f7c-69f232e0175e.jpg?v=1768869086
     Price: 1,00 kr SEK
 - [PHOFAY Jelly Lip Oil](https://x01uds-u6.myshopify.com/products/phofay-jelly-lip-oil): Net Weight: 4.8 ML Functions: Ultra-moisturizing, Non-sticky SUGGESTED USAGE: -Apply directly to clean, dry lips using the doe-foot applicator. -Lay the doe-foot applicator flat against your lips to evenly distribute the gloss with a back-and-forth motion.
-  Updated: 2026-02-09T08:26:46Z
+  Updated: 2026-02-14T04:25:45Z
   Vendor: D, J&G Accesorios 
   Product Type: 
   Availability: Available
@@ -785,7 +785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0968/3248/7808/files/ce1e8544-5638-430e-b26c-7d8f2a214db7_trans.jpg?v=1768957936
     Price: 1,00 kr SEK
 - [High-pressure Steam Cleaner For Air Conditioners And Kitchens](https://x01uds-u6.myshopify.com/products/high-pressure-steam-cleaner-for-air-conditioners-and-kitchens): Product information: Power supply: AC power Color: Black and white Rated power: 1050 Operation mode: Mechanical Rated voltage: 220 Capacity: 301 ml–500 ml Temperature control setting: Single switch setting Packing list: Cleaning machine*1set Product Image:
-  Updated: 2026-02-04T19:49:27Z
+  Updated: 2026-02-16T17:21:23Z
   Vendor: D, J&G Accesorios 
   Product Type: 
   Availability: Available
@@ -793,11 +793,11 @@
   - [Black And White / EU](https://x01uds-u6.myshopify.com/products/high-pressure-steam-cleaner-for-air-conditioners-and-kitchens?variant=57273610731904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0968/3248/7808/files/0d4a3638-6f00-4c32-aef2-01fb11cf7611.jpg?v=1768957996
-    Price: 1,00 kr SEK
+    Price: 850,00 kr SEK
   - [Black And White / UK](https://x01uds-u6.myshopify.com/products/high-pressure-steam-cleaner-for-air-conditioners-and-kitchens?variant=57273610764672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0968/3248/7808/files/0d4a3638-6f00-4c32-aef2-01fb11cf7611.jpg?v=1768957996
-    Price: 1,00 kr SEK
+    Price: 850,00 kr SEK
 - [Dust Collector](https://x01uds-u6.myshopify.com/products/dust-collector): Specifications: Material: Plastic Packing list: Vacuum cleaner
   Updated: 2026-02-04T19:49:27Z
   Vendor: D, J&G Accesorios 
