@@ -8,7 +8,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-27T21:04:19Z
 - Contact Email: aipacyourbags@icloud.com
-- Updated At: 2026-02-07T00:00:27.157Z
+- Updated At: 2026-02-17T00:00:34.496Z
 
 ## Products
 
@@ -142,7 +142,7 @@
 ## Collections
 
 - [Home page](https://aipacyourbags.myshopify.com/collections/frontpage)
-  Updated: 2026-01-30T17:29:59Z
+  Updated: 2026-02-15T12:20:19Z
   Total Products: 1
 
 ## Store Pages
