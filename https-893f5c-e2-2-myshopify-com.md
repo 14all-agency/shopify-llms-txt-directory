@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2024-08-30T00:05:15Z
 - Contact Email: info@protec2000.com
-- Updated At: 2026-02-11T00:00:40.566Z
+- Updated At: 2026-02-18T00:00:43.303Z
 
 ## Products
 
@@ -30,7 +30,7 @@
   Image: https://cdn.shopify.com/s/files/1/0708/5293/5934/files/20220816-1850563_en_photo_947628_140445_0.jpg?v=1725015944
   Price: 1 295,00 $ CAD
 - [Caméra réseau à dôme fixe 4MP](https://893f5c-e2-2.myshopify.com/products/4mp-fixed-dome-network-camera): IPC3614LB-ADF28(40)K-HCaméra réseau à dôme fixe 4MP• Image de haute qualité avec capteur CMOS 4MP, 1/2,9"• 4MP (2560*1440) à 25/20 ips ; 3MP (2304*1296) à 30/25 ips ; 2MP (1920*1080) à 30/25 ips ; 720P (1280*720) à 30/25 ips• Ultra 265, H.265, H.264, MJPEG• IR intelligent, jusqu'à 30 m (98 pieds) de distance IR• Prend en charge la carte Micro SD 128 G• Prise en charge de l'alimentation PoE• 3 axes
-  Updated: 2024-11-10T14:19:32Z
+  Updated: 2026-02-13T03:32:07Z
   Vendor: Uniview
   Product Type: Camera
   Availability: Available
