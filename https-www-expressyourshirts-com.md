@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-11T03:52:50Z
 - Contact Email: expressyourshirts@gmail.com
-- Updated At: 2026-02-10T00:00:42.143Z
+- Updated At: 2026-02-18T00:00:42.970Z
 
 ## Products
 
@@ -3363,7 +3363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/3dc29780a1a225cdeecc2c7c6422365d.jpg?v=1664373647
     Price: $20.66 USD
 - [TATTOO LIFE - Aztec Eagle](https://www.expressyourshirts.com/products/tattoo-life-aztec-eagle): S M L XL 2XL 3XL Width, in 17.99 20.00 22.01 24.02 25.98 27.99 Length, in 27.99 29.02 30.00 31.02 32.01 32.99 Sleeve length, in 8.90 9.17 9.45 9.72 10.00 10.39 This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders have taping for better fit over time. Dual side seams hold the garment's shape for longer. .: 100% Airlume combed and ringspun cotton (fiber content may vary for different colors).: Light fabric (4.2 oz/yd² (142 g/m²)).: Retail fit.: Tear away label.: Runs true to size
-  Updated: 2024-11-20T18:47:18Z
+  Updated: 2026-02-10T04:13:07Z
   Vendor: Express Your Shirts
   Product Type: T-Shirt
   Availability: Available
@@ -5293,7 +5293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/3253b55b7f09bdc95caeef609693b577.jpg?v=1665249333
     Price: $28.77 USD
 - [NIKE Scream Knife](https://www.expressyourshirts.com/products/nike-scream-knife): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that's made with air-jet spun yarn for a soft feel and reduced pilling. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel and reduced pilling • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30 4XL 33 32 5XL 34 34
-  Updated: 2026-01-13T22:57:28Z
+  Updated: 2026-02-17T01:11:17Z
   Vendor: Express Your Shirts
   Product Type: 
   Availability: Available
@@ -7657,7 +7657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01486_2FFSZM01486_WHE_M_NUB_2Fb3243be4bca7b93488e7f19b3dc1b503.jpg?v=1676854980
     Price: $26.09 USD
 - [Men's Camouflage Print Panel Multi Cargo Shorts](https://www.expressyourshirts.com/products/mens-camouflage-print-panel-multi-cargo-shorts): Sizing: True to size Material composition: 100% Cotton Material: Cotton Waistline: Mid waist Pattern: Camouflage case Season: Spring-Summer Style: Leisure Weight: 500 g Men's camouflage print paneled multi-cargo shorts featuring a stylish fit and soft, comfortable fabric. It can be worn daily, going out, dating, vacation, etc. Washing method can be machine wash or hand wash. Fabric is wrinkle and pill resistant. The size is measured by hand, and it is normal for there to be an error of 1-3cm.Size Chart(inch) Size US UK Waist Hip Pants length M 36 36 27 40 21 L 38 38 28 42 21 XL 40 40 30 43 22 2XL 42 42 31 45 22 3XL 44 44 32 46 22 4XL 46 46 33 48 22 5XL 48 48 34 50 23
-  Updated: 2026-01-13T22:45:23Z
+  Updated: 2026-02-16T11:51:47Z
   Vendor: kakaclo
   Product Type: Shorts
   Availability: Available
@@ -9537,7 +9537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01742_2FFSZM01742_WHE_S_NUB_2F7349a96f495a8692c956faed13c8280e.jpg?v=1676877494
     Price: $25.07 USD
 - [Men's New Striped Casual Lapel Short Sleeve Shirt](https://www.expressyourshirts.com/products/mens-new-striped-casual-lapel-short-sleeve-shirt): Sizing: True to size Material composition: 95% Polyester, 5% Elastane/Spandex Material: Polyester Pattern: Stripe Season: Spring-Summer Sleeve_type: Regular sleeve Style: Leisure Sleeve_length: Short sleeve Weight: 200 g Men's new striped casual lapel short-sleeved shirt with fashionable style and soft and comfortable fabric. It can be worn daily, going out, dating, vacation, etc. Washing method can be machine wash or hand wash. Fabric is wrinkle and pill resistant. The size is measured by hand, and it is normal for there to be an error of 1-3cm.Size Chart(inch) Size US UK Length Bust Shoulder Sleeve Length S 36 36 28 41 19 8 M 38 38 28 42 19 9 L 40 40 28 44 20 9 XL 42 42 29 45 20 9 2XL 44 44 29 47 20 10 3XL 46 46 30 48 21 10
-  Updated: 2026-01-13T22:47:38Z
+  Updated: 2026-02-17T02:16:27Z
   Vendor: kakaclo
   Product Type: Men's Shirt
   Availability: Available
@@ -11293,7 +11293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01648_2FFSZM01648_LGR_M_NUB_2F8fe4587950d5fb0a14e2e749946a7ba4.jpg?v=1676880821
     Price: $46.09 USD
 - [Men's Slim-fit Straight-leg Jeans](https://www.expressyourshirts.com/products/mens-slim-fit-straight-leg-jeans): Sizing: True to size Material composition: 95% Polyester, 5% Elastane/Spandex Material: Polyester Waistline: Mid waist Pattern: Solid Season: Four Seasons Style: Leisure Weight: 500 g A marbled wash and signature stitchwork authenticate jeans made from premium stretch-kissed cotton denim.Size Chart(inch) Size Pants length Waist Hip 28 38 28 37 30 39 30 39 32 40 32 41 34 41 34 43 36 43 36 44
-  Updated: 2026-01-13T22:50:09Z
+  Updated: 2026-02-12T09:59:36Z
   Vendor: kakaclo
   Product Type: Men's Jeans
   Availability: Available
@@ -11833,7 +11833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01625_2FFSZM01625_SB_S_NUB_2F1234cd6fc92a0a49dabe8651e5509d5b.jpg?v=1676883898
     Price: $32.35 USD
 - [Men's Fashion Casual Half Zipper Loose Pullover Sweatshirt](https://www.expressyourshirts.com/products/mens-fashion-casual-half-zipper-loose-pullover-sweatshirt): Sizing: True to size Material composition: 95% Polyester5%spandex Material: Polyester Pattern: Self design Season: Spring-Summer Sleeve_type: Regular sleeve Style: Leisure Sleeve_length: Long sleeves Weight: 500 g Men's Fashion Casual Half Zipper Loose Pullover Sweatshirt ● Material: soft and comfortable, easy to care ● Features: color matching, half zipper ● Occasion: leisure, going out, business, dating, etc. ● Washing method: wash and dry / separate dark / light colors. ● The size is measured by hand, and it is normal for there to be an error of 1-3cm Size Chart(inch) Size Length Bust Sleeve Length Shoulder S 27 41 26 16 M 28 43 27 17 L 28 44 28 17 XL 29 46 28 17 XXL 30 47 29 18 3XL 31 49 30 18
-  Updated: 2026-01-13T22:50:57Z
+  Updated: 2026-02-13T11:33:21Z
   Vendor: kakaclo
   Product Type: Men's Shirt
   Availability: Available
@@ -13660,7 +13660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/7FQCZ2qosgEDtPfuW81b9pRxx8y9ngxoSoo6CIjA.jpg?v=1680009977
     Price: $27.43 USD
 - [Women's OL temperament solid color asymmetric suspender top high waist shorts two-piece set](https://www.expressyourshirts.com/products/womens-ol-temperament-solid-color-asymmetric-suspender-top-high-waist-shorts-two-piece-set): Sizing: True to size Material composition: 100% Polyeste Material: Polyester Pattern: Solid Season: Spring-Summer Sleeve_type: Dropped shoulder sleeves Style: Grace Sleeve_length: Sleeveless Weight: 300 g nullSize Chart(inch) Size US UK Length Bust Pants length Waist Hip S 4 6 13 39 15 27 39 M 6 8 14 40 15 28 40 L 8 10 14 42 15 30 42 XL 10 12 15 43 16 31 43 XXL 12 14 15 45 16 33 45 3XL 14 16 15 46 17 35 46
-  Updated: 2026-01-13T22:53:19Z
+  Updated: 2026-02-12T07:57:26Z
   Vendor: kakaclo
   Product Type: top & Short Set
   Availability: Available
@@ -14518,7 +14518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/17VfHl117V1rHAfOhrdRMdRgTMvsleOS21MrlzaX.jpg?v=1680135056
     Price: $28.26 USD
 - [Men's Cotton V Neck Zipper Short Sleeve T-Shirt](https://www.expressyourshirts.com/products/mens-cotton-v-neck-zipper-short-sleeve-t-shirt): Sizing: True to size Material composition: 100% Cotton Material: Cotton Pattern: Solid Season: Spring-Summer Sleeve_type: Dropped shoulder sleeves Style: Leisure Sleeve_length: Sleeveless Weight: 300 g Men's cotton V-neck zip-up short-sleeved T-shirt with a stylish style and soft and comfortable fabric. It can be worn for daily, dating, going out, vacation and so on. Washing method can be machine wash or hand wash. Fabric resists wrinkling and pilling. The size is measured by hand, and it is normal for there to be an error of 1-3cm.Size Chart(inch) Size US UK Length Bust Sleeve Length S 36 36 28 41 9 M 38 38 28 43 9 L 40 40 29 44 9 XL 42 42 30 46 9 2XL 44 44 31 48 9
-  Updated: 2026-01-13T22:54:22Z
+  Updated: 2026-02-10T02:25:01Z
   Vendor: kakaclo
   Product Type: Men's Shirt
   Availability: Available
@@ -14632,8 +14632,8 @@
   Updated: 2026-01-14T03:39:08Z
   Total Products: 157
 - [Smart Products Filter Index - Do not delete](https://www.expressyourshirts.com/collections/globofilter-best--products-index)
-  Updated: 2026-02-08T04:14:26Z
-  Total Products: 2063
+  Updated: 2026-02-17T19:07:18Z
+  Total Products: 2073
 - [DRESSES](https://www.expressyourshirts.com/collections/dresses)
   Updated: 2026-01-15T05:51:04Z
   Total Products: 141
@@ -14665,8 +14665,8 @@
   Updated: 2025-12-20T06:26:26Z
   Total Products: 37
 - [Hurtz Shirtz](https://www.expressyourshirts.com/collections/hurts-shirts): Great shirts for dad prompt best gift for boyfriend prompt Best gift for husband prompt Husband gift prompt Prefect Christmas gift prompt Best secret Santa gift prompt Perfect secret Santa Prompt Gift prompt. White Elephant Gift Prompt Great shirts for dads prompt Best present for boyfriend prompt Best present for husband prompt Husband present prompt Prefect Christmas present prompt Best secret Santa present prompt Perfect secret Santa Prompt present prompt. White Elephant present prompt Gag gift prompt Joke present prompt Great shirt prompt comfy shirt prompt funny gifts prompt Shirts that are funny prompt crazy shirt ides prompt stupid shirts prompt shirts that make you laugh prompt holiday shirt prompt Original shirts prompt Unique Shirts Prompts Colorful shirts Prompts perfect gift for that perfect person prompt gift for the man that has everything prompt Gift for that woman that has everything prompt Gift for that special someone prompt Grandpa gifts prompt Cool Shirts prompt Great Shirts for Grandpa Prompt Great shirts for Boyfriend prompt Brother gifts prompt Sister gifts prompt from me to you gifts prompt Groovy prompt Hip prompt Neat prompt
-  Updated: 2026-02-08T04:14:00Z
-  Total Products: 366
+  Updated: 2026-02-17T19:07:18Z
+  Total Products: 376
 - [FACEBOOK](https://www.expressyourshirts.com/collections/facebook)
   Updated: 2026-01-21T04:16:55Z
   Total Products: 643
