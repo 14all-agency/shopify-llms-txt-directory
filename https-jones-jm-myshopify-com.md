@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-02-11T04:00:25.255Z
+- Updated At: 2026-02-18T04:00:25.425Z
 
 ## Products
 
@@ -848,6 +848,9 @@
     Author: User
   - [Common Questions About Sustainable Living Answered](https://jones-jm.myshopify.com/blogs/news/common-questions-about-sustainable-living-answered): Common Questions About Sustainable Living Answered
     Updated: 2026-02-09T00:01:00Z
+    Author: User
+  - [A Checklist for Building an Environmentally Friendly Home](https://jones-jm.myshopify.com/blogs/news/a-checklist-for-building-an-environmentally-friendly-home): A Checklist for Building an Environmentally Friendly Home
+    Updated: 2026-02-16T00:00:59Z
     Author: User
 
 ## Store Pages
