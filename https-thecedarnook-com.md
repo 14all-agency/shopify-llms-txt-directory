@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2020-11-19T18:20:56Z
 - Contact Email: info@thecedarnook.com
-- Updated At: 2026-02-11T00:00:34.566Z
+- Updated At: 2026-02-18T00:00:36.408Z
 
 ## Products
 
 - [Rose Hip + Calendula Face Serum – Deep Hydration Canadian Skincare | The Cedar Nook](https://thecedarnook.com/products/rose-hip-and-calendula-face-serum): Hydrate and brighten winter-dry skin with our Rose Hip + Calendula Face Serum. Canadian-grown botanicals nourish for radiant health and calm.
-  Updated: 2026-02-05T14:13:30Z
+  Updated: 2026-02-13T00:21:29Z
   Vendor: thecedarnook
   Product Type: 
   Availability: Available
@@ -39,14 +39,14 @@
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-lip-balm-3_2048x2048-award.jpg?v=1680537136
   Price: $20.00 CAD
 - [Balsam Fir Healing Salve – Canadian Skincare for Eczema & Cuts | The Cedar Nook](https://thecedarnook.com/products/balsam-fir-healing-salve): Soothe eczema, cuts or dry patches with our Canadian-made Balsam Fir Healing Salve—infused with raw sap, beeswax & hand-foraged calendula from Ontario forests.
-  Updated: 2026-01-18T15:55:21Z
+  Updated: 2026-02-13T00:21:28Z
   Vendor: thecedarnook
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/7293/2793/products/cedar-nook-balsam-salve-3_2048x2048-award.jpg?v=1680537088
   Price: $26.00 CAD
 - [Tree to be Planted](https://thecedarnook.com/products/tree-to-be-planted): Tree by One Tree Planted
-  Updated: 2026-02-10T09:18:55Z
+  Updated: 2026-02-12T09:18:02Z
   Vendor: One Tree Planted
   Product Type: 
   Availability: Available
@@ -88,13 +88,13 @@
 ## Collections
 
 - [Canadian Botanical Skincare Collection – The Cedar Nook](https://thecedarnook.com/collections/frontpage): Wildcrafted in Canada’s forests, our botanical skincare blends healing herbs like balsam fir & rose hip into nourishing face oils and balms
-  Updated: 2026-02-06T12:08:35Z
+  Updated: 2026-02-13T12:09:49Z
   Total Products: 9
 - [Best Sellers - Canadian Natural Skincare Products](https://thecedarnook.com/collections/avada-best-sellers): Indulge in nature's finest with our award-winning skincare collection. From our top- Rosehip + Calendula Face Serum to the luxurious Patchouli Wild Mint Lip Butter, each product is meticulously crafted to nurture your skin. Experience the healing power of our Balsam Fir Healing Salve and the nourishing properties of our Moisturizing Meadow Oil. Discover the gentle cleansing of our Goldenrod Oil Cleanser and the soothing relief of our Yarrow Face Serum for Dry + Sensitive Skin. Complete your skincare ritual with our invigorating Wintergreen Face Toner. Elevate your beauty routine with our carefully curated selection of botanical wonders. Plant-based, locally hand harvested, wildcrafted botanicals and products.
-  Updated: 2026-02-10T09:18:56Z
+  Updated: 2026-02-12T09:18:03Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://thecedarnook.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-02-10T09:18:56Z
+  Updated: 2026-02-13T12:09:49Z
   Total Products: 11
 
 ## Blogs
