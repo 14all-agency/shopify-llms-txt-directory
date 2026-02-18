@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-11-26T22:38:54Z
 - Contact Email: ordinigieffeshop@gmail.com
-- Updated At: 2026-02-10T00:00:29.628Z
+- Updated At: 2026-02-18T00:00:38.688Z
 
 ## Products
 
@@ -550,7 +550,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/01476.jpg?v=1746690826
   Price: 99,00 € EUR
 - [VIMAR    01477   MODULO DOMOTICO 2 INGRESSI 3USCITE BY_ME](https://gieffeshop.it/products/vimar-01477-modulo-domotico-2ingressi-3uscite-by_me): DESCRIZIONE PRODOTTO Modulo domotico 2in 3out (1 relè+2 LED) Modulo 2 ingressi digitali programmabili per contatti privi di potenziale, 1 uscita comando luci a relè NO 10 A 120-230 V~ 50/60 Hz, 2 uscite per pilotaggio LED, domotica By-me, installazione da incasso (retrofrutto)
-  Updated: 2025-05-08T07:53:56Z
+  Updated: 2026-02-13T11:28:19Z
   Vendor: My Store
   Product Type: accessori domotica
   Availability: Available
@@ -1117,7 +1117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/441096F.jpg?v=1746691239
   Price: 10,90 € EUR
 - [AVE   441096IM   PRESA TV SAT DIRETTA  BIANCO](https://gieffeshop.it/products/ave-441096im-serie_domus_touch-presa_tv_sat-diretta-connettore-masschio-1modulo-colore_bianco): DESCRIZIONE PRODOTTO Questa presa TV diretta della serie DOMUS TOUCH AVE 441096IM è un comodo e pratico connettore maschio che si adatta a ogni tipo di televisore. Dispone di un design moderno e discreto, perfetto per arricchire ogni ambiente domestico. Il modo semplice e veloce per godere della migliore qualità video e audio.
-  Updated: 2025-05-08T08:00:43Z
+  Updated: 2026-02-17T09:56:50Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -1816,10 +1816,10 @@
   Updated: 2025-10-06T10:13:00Z
   Total Products: 29
 - [PRODOTTI ILLUMINAZIONE MODERNA E FUNZIONALE](https://gieffeshop.it/collections/prodotti-illuminazione): Scopri soluzioni per l'illuminazione di interni ed esterni : lampade LED, faretti, plafoniere e accessori per ogni ambiente.
-  Updated: 2026-02-07T15:05:02Z
+  Updated: 2026-02-14T12:26:38Z
   Total Products: 484
 - [BEGHELLI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/beghelli-illuminazione): Beghelli realizza prodotti per l'illuminazione, di emergenza e a risparmio energetico, sistemi elettronici per la sicurezza domestica e industriale.
-  Updated: 2026-02-01T12:31:03Z
+  Updated: 2026-02-12T12:54:38Z
   Total Products: 189
 - [DISANO ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/disano-illuminazione): Disano offre soluzioni di illuminazione professionale per interni ed esterni, con efficienza, tecnologia LED e design italiano.
   Updated: 2026-02-07T08:53:09Z
@@ -1876,7 +1876,7 @@
   Updated: 2025-09-24T09:54:19Z
   Total Products: 27
 - [PERFORMANCE IN LIGHTING PROFESSIONALE](https://gieffeshop.it/collections/performance-in-lighting): Performance in Lighting offre illuminazione professionale per interni ed esterni: efficienza, design e tecnologia per ogni progetto.
-  Updated: 2025-09-24T07:40:06Z
+  Updated: 2026-02-14T12:26:38Z
   Total Products: 18
 - [ELCART ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/elcart-illuminazione): ELCART ILLUMINAZIONE PROFESSIONALE articoli per illuminazione a led. Vendita strisce, lampade, faretti e alimentatori driver per led. Prezzo più basso del web
   Updated: 2025-09-22T09:11:15Z
@@ -1915,7 +1915,7 @@
   Updated: 2025-09-16T13:17:00Z
   Total Products: 6
 - [BATTERIE ONLINE PER OGNI ESIGENZA](https://gieffeshop.it/collections/batterie): Ampia scelta di batterie affidabili per antifurti, auto, moto e dispositivi elettronici.
-  Updated: 2026-02-09T14:21:09Z
+  Updated: 2026-02-14T12:26:38Z
   Total Products: 73
 - [DURACELL BATTERIE PROFESSIONALI](https://gieffeshop.it/collections/duracell): Scegli la Differenza Duracell: Potenza e Innovazione Sostenibile a Prezzi Imbattibili!
   Updated: 2025-08-27T07:57:55Z
@@ -2011,7 +2011,7 @@
   Updated: 2026-02-09T14:56:55Z
   Total Products: 12
 - [ARITECH ANTIFURTI E SISTEMI SICURI](https://gieffeshop.it/collections/aritech): Tecnologia Aritech per antifurti e sicurezza professionale. Sistemi affidabili per proteggere casa e azienda con soluzioni all’avanguardia.
-  Updated: 2026-02-09T14:21:09Z
+  Updated: 2026-02-14T12:26:38Z
   Total Products: 5
 - [MOEL](https://gieffeshop.it/collections/moel): Scopri la nostra collezione di lampade riscaldamento elettroinsetticidi per un ambiente confortevole e sicuro. Da MOEL.
   Updated: 2026-02-07T14:07:09Z
