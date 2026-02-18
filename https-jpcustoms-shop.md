@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-07-23T20:15:53Z
 - Contact Email: jpcustoms.store@gmail.com
-- Updated At: 2026-02-11T00:00:35.124Z
+- Updated At: 2026-02-18T00:00:37.544Z
 
 JP Customs offers premium automotive parts, exterior upgrades, interior accessories, and lighting solutions for car enthusiasts in the UK and internationally at a lower price point than most automotive online stores. Specializing in show-quality finishes and durable engineering, we provide professional-grade automotive upgrades with fast UK delivery and worldwide shipping.
 
@@ -40,34 +40,12 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S5cf480db0a574bdbad9eb93a5e6d94a4w_73274319-9711-4b36-b5bd-b64b9a055fed.webp?v=1769022468
     Price: £8.00 GBP
 - [BMW LED Side Indicators E36 E46 E60 E90 X1 X3 Amber](https://jpcustoms.shop/products/x-autohaux-full-led-side-turn-signals-for-bmw-1-3-5-series-e36-e46-e60-e87-e90-e92-x1-x3-63133418447-63133418448-fender-side-marker-amber-light-assemblies-front-flowing-led-lamps-lights-2pcs-110327267653-xhle0): BMW LED side indicators for E36 E46 E60 E87 E90 E92 X1 X3. Flowing amber fender markers with sequential flashing. Direct replacement for OEM turn signals.
-  Updated: 2026-02-01T10:20:23Z
+  Updated: 2026-02-15T16:56:06Z
   Vendor: JP Customs
   Product Type: LED lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/61X60hOx_bL_d64cf700-c194-4540-b637-06b45e2666ab.jpg?v=1769027981
-  Price: £20.00 GBP
-- [Universal Air Intake Filter 76mm 89mm 102mm Cone Washable](https://jpcustoms.shop/products/universal-clamp-on-air-intake-filter-high-flow-closed-top-cool-air-filter-cleaner-76mm-89-mm-102mm-performance-round-tapered-cone-air-filters-premium-washable-replacement-filter-for-car-truck-110327267653-8kppg): Universal air intake filter in 76mm, 89mm, 102mm. High-flow washable cone design for improved performance. Clamp-on fit, reusable and easy to clean.
-  Updated: 2026-01-31T23:15:06Z
-  Vendor: JP Customs
-  Product Type: cold air intake
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/516BQYPDkIL_5ad7eaa7-e569-45a6-9162-5eb20b4962c4.jpg?v=1769028805
-  - [Black](https://jpcustoms.shop/products/universal-clamp-on-air-intake-filter-high-flow-closed-top-cool-air-filter-cleaner-76mm-89-mm-102mm-performance-round-tapered-cone-air-filters-premium-washable-replacement-filter-for-car-truck-110327267653-8kppg?variant=55406849392965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/61QB10RPtWL_47a8cffc-b0d4-4b16-ac17-c46b9890b207.jpg?v=1769028805
-    Price: £22.00 GBP
-  - [Red](https://jpcustoms.shop/products/universal-clamp-on-air-intake-filter-high-flow-closed-top-cool-air-filter-cleaner-76mm-89-mm-102mm-performance-round-tapered-cone-air-filters-premium-washable-replacement-filter-for-car-truck-110327267653-8kppg?variant=55406849425733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/71TxjIVeubL_8522df49-2dae-4d10-ab56-bc50c99ce8c3.jpg?v=1769028805
-    Price: £22.00 GBP
-  - [Carbon Fiber](https://jpcustoms.shop/products/universal-clamp-on-air-intake-filter-high-flow-closed-top-cool-air-filter-cleaner-76mm-89-mm-102mm-performance-round-tapered-cone-air-filters-premium-washable-replacement-filter-for-car-truck-110327267653-8kppg?variant=55406849458501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/71SRUve0BNL_013a8e07-d8d3-47cd-9ab5-fa62be6027e7.jpg?v=1769028805
-    Price: £22.00 GBP
-  - [Silver&Blue](https://jpcustoms.shop/products/universal-clamp-on-air-intake-filter-high-flow-closed-top-cool-air-filter-cleaner-76mm-89-mm-102mm-performance-round-tapered-cone-air-filters-premium-washable-replacement-filter-for-car-truck-110327267653-8kppg?variant=55406849491269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/71_8o_5xe8L_40098e7f-66fd-4e4c-82c1-b135215b3b6f.jpg?v=1769028805
-    Price: £22.00 GBP
+  Price: £25.00 GBP
 - [Philips LED H1 H3 H4 H7 H11 Ultinon Pro3101 6000K 12V/24V](https://jpcustoms.shop/products/philips-led-h1-h3-h4-h7-h11-ultinon-pro3101-12v-24v-6000k-bright-white-hb3-9005-hb4-9006-hir2-9012-auto-headlight-led-lamps-2x-110327267653-x8xpo): Philips LED H1 H3 H4 H7 H11 Ultinon Pro3101 auto headlight LED lamps. 6000K bright white, 12V/24V. HB3/HB4/HIR2 fitments. Premium 2-pack. UK stock.
   Updated: 2026-02-10T10:28:21Z
   Vendor: JP Customs
@@ -103,7 +81,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Sf5d70d17d26140ebb14aae8606636a92u_76bf2bbd-f521-474d-baf1-48fc3ab4d90f.webp?v=1769020706
     Price: £32.00 GBP
 - [Scorpion Ascari Carbon Fibre Tips](https://jpcustoms.shop/products/scorpion-ascari-carbon-fibre-tips): Hand-crafted carbon fibre exhaust tips with matt finish and 304 stainless steel internals. Premium Scorpion Ascari quality for performance enthusiasts.
-  Updated: 2026-01-31T23:11:59Z
+  Updated: 2026-02-15T16:58:37Z
   Vendor: Diversion Automotive
   Product Type: Exhausts
   Availability: Available
@@ -133,7 +111,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/lrgscale17546-90ASC4-Scorpion-Car-Exhaus-Upgrade-Kit-90mm-Carbon-Ascari-All-Makes-and-Models-1498-0.jpg?v=1757275185
     Price: £480.00 GBP
 - [Magnetic Numberplate Kit SWIFTMAG Removable License](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit): SWIFTMAG magnetic numberplate kit - install or remove in seconds. No screws, no tape, no damage. Strong magnets ensure secure, reliable fitting.
-  Updated: 2026-02-10T14:40:27Z
+  Updated: 2026-02-17T17:07:16Z
   Vendor: Diversion Automotive
   Product Type: Numberplate Holder
   Availability: Available
@@ -148,7 +126,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £7.50 GBP
 - [Lady Billion Carfume Car Air Freshener](https://jpcustoms.shop/products/lady-billion-carfume-car-air-freshener): Lady Billion Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Elegant scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-01T16:23:25Z
+  Updated: 2026-02-15T16:48:47Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: Air freshener
   Availability: Available
@@ -441,35 +419,35 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/sparco_7f3233b2-082d-4489-b65a-e7bc13afaa28.png?v=1762979624
     Price: £30.00 GBP
 - [VW Crafter Headlight Guards – Gloss Black (2018+) | Van-X](https://jpcustoms.shop/products/for-vw-crafter-new-shape-headlight-guards-gloss-black-premium-protection-van-x): VW Crafter headlight guards gloss black 2018+ Van-X. Premium protection, sleek finish. Perfect fit, durable construction. UK stock.
-  Updated: 2026-02-01T16:40:19Z
+  Updated: 2026-02-15T16:50:55Z
   Vendor: Van-X
   Product Type: Exterior Styling
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/655-GB-2.jpg?v=1767027431
   Price: £82.00 GBP
 - [VW Crafter Rear Light Guards Gloss Black 2018+ | Van-X](https://jpcustoms.shop/products/for-volkswagen-crafter-rear-light-guards-gloss-black-2018-onwards): VW Crafter rear light guards gloss black 2018+. Premium Van-X protection, sleek finish. Perfect fit, durable construction. UK stock.
-  Updated: 2026-02-08T18:38:45Z
+  Updated: 2026-02-16T14:06:39Z
   Vendor: Van-X
   Product Type: Rear taillight guard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/654-GB-4.png?v=1767027432
   Price: £82.00 GBP
 - [Auto Finesse Aqua Deluxe Drying Towel 1200GSM XL](https://jpcustoms.shop/products/auto-finesse-aqua-deluxe-drying-towel-xl): Auto Finesse Aqua Deluxe drying towel 1200GSM XL. Professional microfiber, ultra-absorbent. Scratch-free finish, premium quality. UK stock.
-  Updated: 2026-02-01T16:46:05Z
+  Updated: 2026-02-15T16:50:55Z
   Vendor: Diversion Automotive
   Product Type: Detailing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Aqua-Deluxe-Microfibre-Drying-Towel_2048x2048_96b9f849-924f-45bb-bd08-ee74d2fb6cd3.jpg?v=1767109943
   Price: £22.00 GBP
 - [Auto Finesse Tripple 3-in-1 Polish Glaze Wax 500ml](https://jpcustoms.shop/products/auto-finesse-tripple-all-in-one-500ml): Auto Finesse Tripple 3-in-1 polish glaze wax 500ml. Professional detailing, all-in-one formula. Show-ready shine, long-lasting protection. UK stock.
-  Updated: 2026-02-01T16:47:50Z
+  Updated: 2026-02-15T16:52:45Z
   Vendor: Diversion Automotive
   Product Type: Detailing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Tripple500ml1200x1200Grey_720x_da608bda-f6ab-4712-b0bf-8d35d501c325.webp?v=1767109943
   Price: £15.00 GBP
 - [Faraday Pouch for Car Keys - BOGO](https://jpcustoms.shop/products/faraday-pouch-for-car-keys-buy-one-get-one-free): Faraday pouch for car keys BOGO. Signal-blocking protection, prevents relay theft. Premium quality, compact design. Buy one get one free. UK stock.
-  Updated: 2026-02-08T23:12:01Z
+  Updated: 2026-02-11T10:43:53Z
   Vendor: P1 Autocare
   Product Type: 
   Availability: Available
@@ -484,7 +462,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £12.00 GBP
 - [600g Car Fire Extinguisher | BSI  | 5 Year Warranty](https://jpcustoms.shop/products/600g-car-fire-extinguisher): BSI  600g dry powder car fire extinguisher. Safe for electrical fires, 21B rating, 5-year warranty. Essential safety equipment for every vehicle.
-  Updated: 2026-02-04T16:05:58Z
+  Updated: 2026-02-16T15:21:23Z
   Vendor: P1 Autocare
   Product Type: Fire Extinguishers
   Availability: Available
@@ -553,7 +531,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Seat Leon Cupra / FR Mk3 5F Strut Brace](https://jpcustoms.shop/products/k-brace®-seat-leon-cupra-fr-mk3-5f-strut-brace): K-Brace Seat Leon Cupra FR Mk3 5F strut brace improves stability and handling. Fits 2012-2021 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:35:00Z
+  Updated: 2026-02-13T00:13:35Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -925,7 +903,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [BMW Real Carbon Fibre Steering Wheel Airbag Trim F Series](https://jpcustoms.shop/products/bmw-carbon-fibre-steering-wheel-centre-airbag-surround-trim-various-models): BMW real carbon fibre steering wheel airbag trim F Series. Genuine carbon upgrade for premium interiors. Perfect fit, show-ready finish. UK stock.
-  Updated: 2026-02-06T16:35:51Z
+  Updated: 2026-02-15T16:52:45Z
   Vendor: Diversion Automotive
   Product Type: Steering Wheel Trim
   Availability: Available
@@ -1007,42 +985,42 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/v-Style_19_forge__2092074127.webp?v=1768138087
     Price: £140.00 GBP
 - [Auto Finesse Avalanche Snow Foam 5L | Pre-Wash Car Shampoo](https://jpcustoms.shop/products/auto-finesse-avalanche-snow-foam-5-litre): Auto Finesse Avalanche snow foam 5L pre-wash car shampoo. Professional-grade cleaning, thick foam coverage. Safe on all finishes. UK stock.
-  Updated: 2026-02-06T16:43:32Z
+  Updated: 2026-02-15T16:52:44Z
   Vendor: Diversion Automotive
   Product Type: Detailing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Avalance-Snow-Foam-5L-packshot-white__78601.jpg?v=1768138189
   Price: £56.20 GBP
 - [Creedy Carfume Car Air Freshener](https://jpcustoms.shop/products/creedy-carfume-car-air-freshener): Creedy Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Bold scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-01T16:20:37Z
+  Updated: 2026-02-15T16:48:47Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_a97dd32e-1ef8-4176-9a30-1e57d93be938.webp?v=1768138236
   Price: £6.30 GBP
 - [Bossy Carfume Car Air Freshener](https://jpcustoms.shop/products/bossy-carfume-car-air-freshener): Bossy Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Bold scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-01T16:21:12Z
+  Updated: 2026-02-15T16:48:47Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: Air freshener
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/bossy.webp?v=1768138236
   Price: £6.30 GBP
 - [Black Orchid Carfume Car Air Freshener](https://jpcustoms.shop/products/black-orchid-carfume-car-air-freshener): Black Orchid Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Exotic scent, refillable design. Lasts 8 weeks. UK stock..
-  Updated: 2026-02-06T16:43:04Z
+  Updated: 2026-02-15T16:48:47Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: Air freshener
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_df366222-98c8-4fb3-8bf2-00a2a9f5cf47.webp?v=1768138235
   Price: £6.30 GBP
 - [Victory Carfume Car Air Freshener](https://jpcustoms.shop/products/victory-carfume-car-air-freshener): Victory Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Bold scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-01T16:17:14Z
+  Updated: 2026-02-15T16:48:46Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: Air freshener
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_a44954c3-57b7-41fb-b750-5a62b1151da3.webp?v=1768138235
   Price: £6.30 GBP
 - [Madame Carfume Car Air Freshener](https://jpcustoms.shop/products/madame-carfume-car-air-freshener): Madame Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Elegant scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-01T17:13:23Z
+  Updated: 2026-02-15T16:48:46Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: Air freshener
   Availability: Available
@@ -1063,7 +1041,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_8a8a8f12-adf9-474d-87bd-47d9407c398c.webp?v=1768138240
   Price: £6.30 GBP
 - [Alien Spirit Carfume Car Air Freshener](https://jpcustoms.shop/products/alien-spirit-carfume-car-air-freshener): Alien Spirit Carfume car air freshener. Premium fragrance, long-lasting scent. Refillable design, 8-week duration. Bold, unique aroma. UK stock.
-  Updated: 2026-02-06T16:42:37Z
+  Updated: 2026-02-15T16:48:46Z
   Vendor: MotorMist - Ride With Beauty
   Product Type: Air freshener
   Availability: Available
@@ -1345,21 +1323,21 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Scorpion Exhaust Valve Delete Module - Twin Pack](https://jpcustoms.shop/products/scorpion-exhaust-valve-delete-module-twin-pack-scexvdm2): Scorpion exhaust valve delete module twin pack. Unlock full exhaust sound, eliminate valve restrictions. Premium performance upgrade. UK stock.
-  Updated: 2026-02-01T16:09:08Z
+  Updated: 2026-02-15T16:52:43Z
   Vendor: Diversion Automotive
   Product Type: Exhausts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SCEXVDM2_BAG-900x900.jpg?v=1769013668
   Price: £45.00 GBP
 - [Draper Storm Force Pressure Washer - High Power Cleaning](https://jpcustoms.shop/products/draper-storm-force-pressure-washer-105bar-1400w-jet-power-washer-snow-foam-gun-1522psi-patio-and-car-cleaner-98674-blue): Draper Storm Force pressure washer high power cleaning. Professional-grade performance for vehicles and exteriors. Durable build, UK stock.
-  Updated: 2026-02-06T09:08:47Z
+  Updated: 2026-02-16T04:27:05Z
   Vendor: Jolof Store
   Product Type: Pressure Washers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/71Os6HhrR9L_194b7e1e-a1ef-4061-a884-46ff87b536e3.jpg?v=1769023430
   Price: £95.00 GBP
 - [P21W BA15S Red LED Brake Light - Tail Light Bulb 16.5W💡](https://jpcustoms.shop/products/2pcs-1156-ba15s-16-5w-1155lm-630-660nm-33-led-smd-5630-red-light-car-brake-light-lamp-bulb-for-vehicles-dc12v): P21W BA15S red LED brake light tail light bulb 16.5W. Bright, energy-efficient upgrade for enhanced visibility and safety. Easy fit. UK stock.
-  Updated: 2026-02-02T06:34:38Z
+  Updated: 2026-02-16T05:00:31Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1367,13 +1345,13 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [1156 Red Light / Red Light](https://jpcustoms.shop/products/2pcs-1156-ba15s-16-5w-1155lm-630-660nm-33-led-smd-5630-red-light-car-brake-light-lamp-bulb-for-vehicles-dc12v?variant=56969631334725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S-CMS-1011R.jpg?v=1769270932
-    Price: £0.99 GBP
+    Price: £6.00 GBP
   - [1156 Yellow Light / Yellow Light](https://jpcustoms.shop/products/2pcs-1156-ba15s-16-5w-1155lm-630-660nm-33-led-smd-5630-red-light-car-brake-light-lamp-bulb-for-vehicles-dc12v?variant=56969631367493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S-CMS-1011Y.jpg?v=1769270932
-    Price: £0.99 GBP
+    Price: £6.00 GBP
 - [T10 LED Bulb W5W SMD-3030 Side Light Interior Marker](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v): T10 LED bulb W5W SMD-3030 for side lights, interior markers. Bright, energy-efficient upgrade. 12V DC. Direct replacement for halogen bulbs.
-  Updated: 2026-01-31T23:41:16Z
+  Updated: 2026-02-15T16:49:39Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1409,7 +1387,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5682.jpg?v=1769267097
   Price: £10.00 GBP
 - [LED Interior Lighting Kit App Control RGB Ambient Car](https://jpcustoms.shop/products/led-interior-ambient-mood-lighting-kit-multi-colour-usb-powered-app-controlled-all-cars): LED interior lighting kit with app control, RGB ambient car lighting. Multi-colour wireless control via smartphone. USB-powered, universal fit for all vehicles.
-  Updated: 2026-01-31T23:44:34Z
+  Updated: 2026-02-15T16:52:42Z
   Vendor: Diversion Automotive
   Product Type: Interior Styling
   Availability: Available
@@ -1421,14 +1399,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £57.00 GBP
 - [LED Cup Holders Universal RGB Car Interior Lighting](https://jpcustoms.shop/products/led-light-up-universal-cup-holders): LED cup holders universal RGB car interior lighting. Multi-colour ambient illumination with button control. USB-C rechargeable. Fits most vehicles.
-  Updated: 2026-01-31T23:45:45Z
+  Updated: 2026-02-15T16:52:42Z
   Vendor: Diversion Automotive
   Product Type: Cup Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Screenshot2025-07-03131439.png?v=1769366075
   Price: £8.30 GBP
 - [Mercedes CLA Air Vent Trim Rings C118 W118 2020+](https://jpcustoms.shop/products/mercedes-benz-cla-air-conditioning-vent-trims-c118-w118-2020-models): Mercedes CLA air vent trim rings C118 W118 2020+. Premium billet aluminium upgrade for show-ready interiors. Perfect fit, easy install. UK stock.
-  Updated: 2026-02-01T16:07:37Z
+  Updated: 2026-02-15T16:52:42Z
   Vendor: Diversion Automotive
   Product Type: Interior Styling
   Availability: Available
@@ -1441,7 +1419,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £29.00 GBP
 - [BMW F Series Grille Strut Brace Covers Billet Aluminium](https://jpcustoms.shop/products/bmw-grille-strut-brace-crash-bar-covers-multiple-models): BMW F Series grille strut brace covers billet aluminium. Premium caps go over existing crash bars for appearance enhancement. UK stock.
-  Updated: 2026-02-01T16:06:35Z
+  Updated: 2026-02-15T16:52:42Z
   Vendor: Diversion Automotive
   Product Type: Exterior Styling
   Availability: Available
@@ -1492,77 +1470,77 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/tribalred.png?v=1769638807
   Price: £44.00 GBP
 - [4D Gel Number Plates–Premium EV Acrylic Pair | UK Road Legal](https://jpcustoms.shop/products/4d-gel-number-plates-ev-style-pair): Premium 4D gel number plates for EVs. Raised resin characters, acrylic construction, UK road legal. Show-ready finish. Sold as pair. BS AU 145e .
-  Updated: 2026-02-06T19:47:40Z
+  Updated: 2026-02-15T16:49:38Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/black_friday_sale_starts_now._78.jpg?v=1769969614
   Price: £52.00 GBP
 - [4D Acrylic Number Plates – Premium EV Pair | UK Road Legal](https://jpcustoms.shop/products/4d-ev-acrylic-number-plates-pair): Premium 4D acrylic number plates for electric vehicles. Raised multi-layer construction, crystal-clear finish. UK road legal pair. BS AU 145e .
-  Updated: 2026-02-03T05:58:03Z
+  Updated: 2026-02-15T16:49:38Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/4D-EV-Acrylic-Number-Plates-pair-5.webp?v=1769969614
   Price: £36.00 GBP
 - [4D Crystal Gel Number Plates | Premium UK Legal Pair](https://jpcustoms.shop/products/4d-acrylic-crystal-gel-style-plates-pair): 4D crystal gel number plates with advanced resin clarity. Premium acrylic EV pair, superior depth and refraction. UK road legal. BS AU 145e .
-  Updated: 2026-02-06T12:24:12Z
+  Updated: 2026-02-15T16:49:38Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/2.jpg?v=1769969615
   Price: £50.00 GBP
 - [Short Number Plates – Premium 4D Acrylic Pair | UK Legal](https://jpcustoms.shop/products/4d-acrylic-number-plates-pair-short-5-digit): Short number plates in premium 4D acrylic. 5-digit pair with raised characters, crystal-clear finish. UK road legal to BS AU 145e. Order now.
-  Updated: 2026-02-03T06:05:50Z
+  Updated: 2026-02-15T16:49:38Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQ_LOGO_transparent_white_6.jpg?v=1769969614
   Price: £42.00 GBP
 - [3D Gel Number Plates – Premium EV Pair | UK Road Legal](https://jpcustoms.shop/products/ev-3d-gel-number-plates-pair): Premium 3D gel number plates for electric vehicles. Raised gel characters, acrylic base, UK road legal pair. BS AU 145e . Order now.
-  Updated: 2026-02-08T20:21:25Z
+  Updated: 2026-02-15T16:49:37Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ev_gel_plates.jpg?v=1769969615
   Price: £39.00 GBP
 - [Motorbike Number Plate – Premium 4D Acrylic Rear | UK](https://jpcustoms.shop/products/4d-acrylic-motorbike-rear-plate): Premium motorbike number plate in 4D acrylic. Rear plate with raised characters, crystal-clear finish. UK road legal to BS AU 145d. Order now.
-  Updated: 2026-02-03T16:44:13Z
+  Updated: 2026-02-15T16:49:37Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_10.jpg?v=1769969614
   Price: £27.00 GBP
 - [Hex Number Plates – 4D Crystal Gel Lambo Style Pair | UK](https://jpcustoms.shop/products/4d-crystal-gel-number-plates-lambo-hex-style-pair): Premium hex number plates in 4D crystal gel. Lamborghini-style hexagonal pair with superior clarity. UK road legal to BS AU 145e. Order now.
-  Updated: 2026-02-03T06:16:53Z
+  Updated: 2026-02-15T16:49:37Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/IMG_5471.jpg?v=1769969615
   Price: £51.00 GBP
 - [Short Number Plates – 3D Gel 6 Digit Pair | UK Road Legal](https://jpcustoms.shop/products/3d-gel-plates-short-6-digit-pair): Short number plates in premium 3D gel. 6-digit pair with raised characters, show-ready finish. UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-03T06:22:15Z
+  Updated: 2026-02-17T20:58:17Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/thumbnail_Photoroom_20250918_121702_pm.jpg?v=1769969614
   Price: £42.99 GBP
 - [Motorbike Number Plate – 4D Gel Acrylic Rear | UK Legal](https://jpcustoms.shop/products/4d-gel-lettering-on-premium-acrylic-premium-bike-plate): Premium motorbike number plate in 4D gel acrylic. Rear plate with raised gel characters, show-ready depth. UK road legal to BS AU 145d.
-  Updated: 2026-02-03T06:25:09Z
+  Updated: 2026-02-15T16:49:37Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_17.jpg?v=1769969615
   Price: £33.00 GBP
 - [3D Gel Number Plates – Premium Acrylic Pair | UK Legal](https://jpcustoms.shop/products/3d-gel-number-plates-pair): Premium 3D gel number plates with raised gel characters. Acrylic pair, show-ready depth, UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-10T20:23:12Z
+  Updated: 2026-02-17T19:49:56Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/UNIONJACKBLACK3D_GEL.jpg?v=1769969615
   Price: £42.00 GBP
 - [Hex Number Plates – 4D Gel 16" Lambo Style | UK Road Legal](https://jpcustoms.shop/products/4d-gel-short-16-inch-number-plates-lambo-hex-style-pair): Premium hex number plates in 4D gel. 16" Lamborghini-style hexagonal with raised characters. UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-06T17:47:05Z
+  Updated: 2026-02-15T16:39:04Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1590,14 +1568,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Screenshot2025-11-08055558.png?v=1770146141
   Price: £22.00 GBP
 - [Number Plate Velcro Mounting Pads - 50cm x 10cm UK Pair](https://jpcustoms.shop/products/fixings-velcro-number-plate-fixing): Number plate velcro mounting pads, 50cm x 10cm pair. Strong adhesive, no drilling required. Damage-free installation for UK plates. Fast UK delivery.
-  Updated: 2026-02-04T13:42:00Z
+  Updated: 2026-02-11T14:15:52Z
   Vendor: Creata Plate
   Product Type: Numberplate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_61_f9a81efd-95e7-4bf2-9d71-6d3b60c797bd.jpg?v=1770146147
   Price: £10.00 GBP
 - [BMW E36 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-3-series-coupe-e36-rear-strut-brace): BMW E36 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-06T16:31:22Z
+  Updated: 2026-02-16T19:13:42Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1906,15 +1884,77 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Steel - Un-Painted / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-2-series-m235i-m240i-f22-rear-strut-brace?variant=57053092020549)
     Availability: Available
     Price: £160.00 GBP
+- [BMW M2 F87 Rear Strut Brace | K-Brace® Billet Aluminium](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace): BMW M2 F87 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
+  Updated: 2026-02-15T03:25:43Z
+  Vendor: BAF Motorsport
+  Product Type: K-Brace®
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/BAFMotorsportK-BraceforBMWM240iF22_2.webp?v=1770151386
+  - [Titanium - Burnt / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092053317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/GetAttachmentThumbnail_e7b64643-7bf9-48f8-9aa3-8efebe1c3814.png?v=1770151386
+    Price: £680.00 GBP
+  - [Titanium - Burnt / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092086085)
+    Availability: Available
+    Price: £430.00 GBP
+  - [Titanium - Raw / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092118853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/GetAttachmentThumbnail_de957459-d8c7-4147-897d-1130f23a4579.jpg?v=1770151385
+    Price: £580.00 GBP
+  - [Titanium - Raw / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092151621)
+    Availability: Available
+    Price: £430.00 GBP
+  - [Steel - Black / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092184389)
+    Availability: Available
+    Price: £230.00 GBP
+  - [Steel - Black / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092217157)
+    Availability: Available
+    Price: £175.00 GBP
+  - [Steel - White / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092249925)
+    Availability: Available
+    Price: £230.00 GBP
+  - [Steel - White / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092282693)
+    Availability: Available
+    Price: £175.00 GBP
+  - [Steel - Grey / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092315461)
+    Availability: Available
+    Price: £230.00 GBP
+  - [Steel - Grey / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092348229)
+    Availability: Available
+    Price: £175.00 GBP
+  - [Steel - Red / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092380997)
+    Availability: Available
+    Price: £230.00 GBP
+  - [Steel - Red / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092413765)
+    Availability: Available
+    Price: £175.00 GBP
+  - [Steel - Blue / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092446533)
+    Availability: Available
+    Price: £230.00 GBP
+  - [Steel - Blue / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092479301)
+    Availability: Available
+    Price: £175.00 GBP
+  - [Steel - Yellow / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092512069)
+    Availability: Available
+    Price: £230.00 GBP
+  - [Steel - Yellow / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092544837)
+    Availability: Available
+    Price: £175.00 GBP
+  - [Steel - Un-Painted / K-Brace®](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092577605)
+    Availability: Available
+    Price: £220.00 GBP
+  - [Steel - Un-Painted / Top Bar Only](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace?variant=57053092610373)
+    Availability: Available
+    Price: £160.00 GBP
 - [Invisible Number Plate Holder | PlexiClick Frameless Clip UK](https://jpcustoms.shop/products/plexiclick®-invisible-number-plate-holder-clip): Invisible number plate holder with frameless PlexiClick clips. No drilling, quick install, easy removal for shows. UK plates only. Weather-resistant design.
-  Updated: 2026-02-09T01:32:37Z
+  Updated: 2026-02-15T16:49:36Z
   Vendor: Car Enhancements UK
   Product Type: Number Plate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/3_2755384e-fe2f-4f92-bf7b-2e1e9967b65f.webp?v=1770556172
   Price: £10.00 GBP
 - [Universal Footwell Light Kit | Plug & Play LED Ambient Set](https://jpcustoms.shop/products/universal-permanent-footwell-light-kit-ceuk-plug-play-ambient-upgrade): Universal footwell light kit with plug & play installation. Ultra-bright 12SMD LEDs, 6 colours, auto on/off with ignition. Fits any vehicle in 10 minutes.
-  Updated: 2026-02-09T01:36:12Z
+  Updated: 2026-02-15T16:52:39Z
   Vendor: Car Enhancements UK
   Product Type: Ambient Lighting Kit
   Availability: Available
@@ -1992,7 +2032,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £31.00 GBP
 - [Ford Focus RS Mk2 Silicone Hose Kit | 4-Piece Ancillary](https://jpcustoms.shop/products/ford-focus-rs-mk2-ancillary-silicone-hose-kit-enhanced-performance): Upgrade your Ford Focus RS Mk2 silicone hose kit with our 4-piece ancillary set. Premium heat resistance, precision fit & 12 colour options available.
-  Updated: 2026-02-09T01:23:31Z
+  Updated: 2026-02-16T19:13:42Z
   Vendor: Car Enhancements UK
   Product Type: CEUK Silicone Hose
   Availability: Available
@@ -2034,7 +2074,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £60.00 GBP
 - [BMW E82 Strut Bar & Cargo Net | 1 Series Coupe Interior Kit](https://jpcustoms.shop/products/bmw-1-series-e82-coupe-strut-bar-and-cargo-net): BMW E82 strut bar & cargo net kit for 1 Series Coupe. Carbon fibre or black bar, tailored net, easy install. Lifetime bracket guarantee. Free UK delivery.
-  Updated: 2026-02-09T06:02:18Z
+  Updated: 2026-02-15T16:48:09Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2190,7 +2230,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Abarth Punto Strut Bar & Cargo Net Kit | Interior Upgrade](https://jpcustoms.shop/products/abarth-punto-strut-bar-and-cargo-net): Abarth Punto strut bar & cargo net for 2007-2015 models. Carbon fibre bar, tailored net, easy install. Fits Grande Punto, Evo & Supersport. Free UK delivery.
-  Updated: 2026-02-09T03:54:21Z
+  Updated: 2026-02-15T16:48:06Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2346,7 +2386,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Golf Mk4 Strut Bar & Cargo Net | GTI R32 Interior Upgrade](https://jpcustoms.shop/products/vw-golf-mk4-gti-r32-strut-bar-and-cargo-net): Golf Mk4 strut bar & cargo net kit for GTI, R32 & TDI (1997-2004). Custom-fit bar, tailored net, easy install. Fits 3-door & 5-door. Free UK delivery included.
-  Updated: 2026-02-09T03:54:26Z
+  Updated: 2026-02-15T16:48:06Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2502,7 +2542,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Audi A1 Strut Bar & Cargo Net | S1 Interior Upgrade Kit 8X](https://jpcustoms.shop/products/audi-a1-s1-strut-bar-and-cargo-net): Audi A1 strut bar & cargo net kit for S1 & A1 (2010-2018). Custom-fit bar, tailored net, easy install. Fits 3-door & Sportback. Free UK delivery included.
-  Updated: 2026-02-09T04:06:17Z
+  Updated: 2026-02-15T16:48:06Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2658,7 +2698,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Fiesta Mk6 Strut Bar & Cargo Net | ST150 Interior Upgrade](https://jpcustoms.shop/products/ford-fiesta-mk6-st150-strut-bar-and-cargo-net): Fiesta Mk6 strut bar & cargo net kit for ST150, Zetec & Titanium (2004-2008). Custom-fit bar, tailored net, easy install. Fits 3-door & 5-door.
-  Updated: 2026-02-09T06:01:13Z
+  Updated: 2026-02-15T16:48:06Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2813,6 +2853,89 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-fiesta-mk6-st150-strut-bar-and-cargo-net?variant=57088409502021)
     Availability: Available
     Price: £125.00 GBP
+- [Ford Fiesta ST Front Splitter | Maxton Design V.5 Mk7](https://jpcustoms.shop/products/maxton-design-front-splitter-v-5-ford-fiesta-st-mk7-facelift): Ford Fiesta ST front splitter by Maxton Design V.5. Gloss black ABS for Mk7 facelift models. Aggressive styling. UK stock.
+  Updated: 2026-02-15T16:52:38Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20240326204140_6603330419d32-1000x750.jpg?v=1771083610
+  Price: £165.00 GBP
+- [Mercedes Sprinter Front Splitter | Maxton Design Mk3](https://jpcustoms.shop/products/maxton-design-front-splitter-mercedes-benz-sprinter-mk3): Mercedes Sprinter front splitter by Maxton Design. Gloss black ABS for Mk3 models. Aggressive styling upgrade. UK stock.
+  Updated: 2026-02-15T16:52:38Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20250224211000_67bce0288b904-1000x750.jpg?v=1771083729
+  Price: £165.00 GBP
+- [Mazda MX5 NB Front Splitter | Maxton Design Gloss Black](https://jpcustoms.shop/products/maxton-design-front-splitter-mazda-mx5-nb-facelift-model): Mazda MX5 NB front splitter by Maxton Design. Gloss black ABS plastic for 2001-2005 facelift models. Aggressive styling. UK stock.
+  Updated: 2026-02-15T16:52:38Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/647-mx-5-splitter-1280x720.jpg?v=1771083793
+  Price: £165.00 GBP
+- [M6 Dress Up Washers – Anodised Aluminium & Stainless Steel](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment): Premium M6 dress up washers in anodised aluminium and stainless steel. Precision-engineered washer kit for show-quality engine bay detailing. Shop JP Customs.
+  Updated: 2026-02-17T04:45:21Z
+  Vendor: Car Enhancements UK
+  Product Type: dress up kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/IMG-1510.jpg?v=1771260308
+  - [Green](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421655877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersgreen.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Red](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421688645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersred.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Blue](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421721413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersblue.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Orange](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421754181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersorange.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Gold](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421786949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersgold.jpg?v=1771260309
+    Price: £12.00 GBP
+  - [Black](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421819717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersblack.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Chrome](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421852485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwasherssilver.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Grey](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421885253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersgunmetal.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Purple](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421918021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwasherspurple.jpg?v=1771260308
+    Price: £12.00 GBP
+  - [Pink](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421950789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dress_up_kit_washers_pink_b4a5b257-f0b1-4a75-99f7-f7f188ff6dc2.jpg?v=1771260307
+    Price: £12.00 GBP
+  - [Multi-Colour](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment?variant=57166421983557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/dressupkitwashersmulti.jpg?v=1771260309
+    Price: £12.00 GBP
+- [RGB Angel Eyes – Bluetooth Halo Kit with IP65 Waterproofing](https://jpcustoms.shop/products/v2-chaser-halo-bluetooth-rgb-halo-kit): Premium RGB angel eyes halo kit with Bluetooth control and IP65 waterproofing. CEUK V2 Chaser lighting for show-quality headlight upgrades. Shop JP Customs now.
+  Updated: 2026-02-17T04:45:44Z
+  Vendor: Car Enhancements UK
+  Product Type: halos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/fitted-chasing-uploadable.jpg?v=1771260322
+  - [60mm](https://jpcustoms.shop/products/v2-chaser-halo-bluetooth-rgb-halo-kit?variant=57166422311237)
+    Availability: Available
+    Price: £70.00 GBP
+  - [70mm](https://jpcustoms.shop/products/v2-chaser-halo-bluetooth-rgb-halo-kit?variant=57166422344005)
+    Availability: Available
+    Price: £70.00 GBP
 
 ## Collections
 
@@ -2820,20 +2943,20 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-02-01T16:51:00Z
   Total Products: 0
 - [Vehicle Upgrades - Premium Automotive Parts | JP Customs](https://jpcustoms.shop/collections/🔧vehicle-upgrades🔧): Vehicle upgrades. Premium automotive parts, exterior styling, lighting, and accessories. Show-ready finishes, precise engineering. UK stock.
-  Updated: 2026-02-08T16:48:32Z
-  Total Products: 24
+  Updated: 2026-02-16T16:46:02Z
+  Total Products: 26
 - [Car Air Fresheners Premium - Luxury Fragrances | JP Customs](https://jpcustoms.shop/collections/air-fresheners): Car air fresheners premium. Luxury vehicle fragrances, long-lasting scents. Refillable designs, 8-week duration. Bold, elegant options. UK stock.
   Updated: 2026-02-01T17:16:08Z
   Total Products: 8
 - [Exterior Car Accessories -Premium Styling Parts | JP Customs](https://jpcustoms.shop/collections/⭐exterior-asthetics⭐): Exterior car accessories. Premium styling parts, light guards, sunstrips, and upgrades. Show-ready finishes, precise fit. UK stock.
-  Updated: 2026-02-10T12:36:40Z
-  Total Products: 20
+  Updated: 2026-02-16T17:14:57Z
+  Total Products: 25
 - [Car LED Lighting-Premium Upgrades & Accessories | JP Customs](https://jpcustoms.shop/collections/lighting-upgrades): Car LED lighting. Premium upgrades for headlights, interior, and exterior. Bright, energy-efficient, precise fit. Show-ready quality. UK stock.
-  Updated: 2026-02-10T12:36:40Z
-  Total Products: 15
+  Updated: 2026-02-16T17:14:57Z
+  Total Products: 16
 - [Premium Car Interior Parts - Luxury Upgrades | JP Customs](https://jpcustoms.shop/collections/interior-upgrades): Premium car interior parts. Luxury upgrades, billet aluminium trim, lighting, and accessories. Show-ready finishes, precise fit. UK stock.
-  Updated: 2026-02-08T16:48:32Z
-  Total Products: 18
+  Updated: 2026-02-16T17:07:41Z
+  Total Products: 19
 - [Car Detailing Products - Premium Care & Polish | JP Customs](https://jpcustoms.shop/collections/car-care): Car detailing products. Premium snow foam, polish, ceramic spray, and wax. Professional-grade formulas, show-ready results. UK stock.
   Updated: 2026-02-01T17:02:52Z
   Total Products: 5
@@ -2844,7 +2967,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-02-01T17:07:02Z
   Total Products: 4
 - [Premium Number Plates – 3D & 4D Gel, Acrylic, EV Styles – JP Customs](https://jpcustoms.shop/collections/🔢number-plates🔠): Shop premium 3D & 4D gel number plates, acrylic plates, EV styles, and motorbike plates. Show-grade construction with road-legal UK compliance. Pairs and short formats available.
-  Updated: 2026-02-10T12:36:40Z
+  Updated: 2026-02-16T12:34:04Z
   Total Products: 19
 
 ## Blogs
@@ -2879,15 +3002,27 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Author: Jamie, JP Customs
     Tags: automotive lifestyle, automotive products, car accessories, car care, car detailing, car enthusiast, car mods, premium car care, vehicle maintenance
   - [Trending Car Accessories That Every Driver Needs Right Now](https://jpcustoms.shop/blogs/product-insights/trending-car-accessories-that-every-driver-needs-right-now): Trending Car Accessories That Every Driver Needs Right Now
-    Updated: 2026-02-04T18:01:56Z
+    Updated: 2026-02-15T21:22:53Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
-  - [How to Choose the Best Car Accessories for Your Needs](https://jpcustoms.shop/blogs/product-insights/how-to-choose-the-best-car-accessories-for-your-needs): How to Choose the Best Car Accessories for Your Needs
-    Updated: 2026-02-05T18:02:21Z
+  - [Best Car Accessories: How to Choose the Right Ones](https://jpcustoms.shop/blogs/product-insights/how-to-choose-the-best-car-accessories-for-your-needs): Best Car Accessories: How to Choose the Right Ones
+    Updated: 2026-02-15T21:12:40Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
-  - [Simple Car Mods for Beginners: Transform Your Vehicle Today](https://jpcustoms.shop/blogs/product-insights/simple-car-mods-for-beginners-transform-your-vehicle-today): Simple Car Mods for Beginners: Transform Your Vehicle Today
-    Updated: 2026-02-06T18:01:56Z
+  - [Car Mods for Beginners: Transform Your Vehicle Today](https://jpcustoms.shop/blogs/product-insights/simple-car-mods-for-beginners-transform-your-vehicle-today): Car Mods for Beginners: Transform Your Vehicle Today
+    Updated: 2026-02-15T21:13:36Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Car Care Tips: Essential FAQs and Tricks for Daily Driving](https://jpcustoms.shop/blogs/product-insights/faqs-on-everyday-car-care-essential-tips-and-tricks): Car Care Tips: Essential FAQs and Tricks for Daily Driving
+    Updated: 2026-02-15T21:14:46Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Automotive Accessories Trends: Newest Products for 2026](https://jpcustoms.shop/blogs/product-insights/the-newest-trends-in-automotive-products-and-accessories): Automotive Accessories Trends: Newest Products for 2026
+    Updated: 2026-02-15T21:15:45Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Car Care Problems: Common Issues and Simple Solutions](https://jpcustoms.shop/blogs/product-insights/common-car-care-problems-and-their-solutions): Car Care Problems: Common Issues and Simple Solutions
+    Updated: 2026-02-15T21:24:57Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
 
@@ -2901,15 +3036,15 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
 ## Policies
 
 - [Privacy Policy](https://jpcustoms.shop/policies/privacy-policy)
-  Updated: 2025-08-30T22:04:41+01:00
+  Updated: 2026-02-15T16:13:48+00:00
 - [Shipping Policy](https://jpcustoms.shop/policies/shipping-policy)
-  Updated: 2025-09-06T13:56:09+01:00
+  Updated: 2026-02-15T15:56:07+00:00
 - [Refund Policy](https://jpcustoms.shop/policies/refund-policy)
-  Updated: 2025-09-07T16:30:22+01:00
+  Updated: 2026-02-15T15:47:14+00:00
 - [Terms of Service](https://jpcustoms.shop/policies/terms-of-service)
-  Updated: 2026-02-04T20:40:30+00:00
+  Updated: 2026-02-15T16:09:29+00:00
 - [Contact Information](https://jpcustoms.shop/policies/contact-information)
-  Updated: 2025-09-06T13:52:52+01:00
+  Updated: 2026-02-15T15:17:38+00:00
 
 # Connect With JP Customs
 
