@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-06-30T14:48:59Z
 - Contact Email: info@amrneighbors.com
-- Updated At: 2026-02-08T15:00:28.336Z
+- Updated At: 2026-02-18T00:00:34.167Z
 
 ## Products
 
@@ -670,7 +670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/2f64fe01-e3f6-4ff2-bec7-569ec38a65a7_size940x1410.jpg?v=1664276329
   Price: $34.95 USD
 - [Yellow Nina Kilim Rug | Handmade Flat-Weave Statement Piece](https://www.amrneighbors.com/products/copy-of-yellow-nina-kilim): Discover the Yellow Nina Kilim Rug by American Neighbors. Flat-weave, vibrant yellow tones and artisan craftsmanship—perfect for adding style & warmth to any space.
-  Updated: 2025-10-19T11:59:04Z
+  Updated: 2026-02-09T08:35:55Z
   Vendor: Bella Maison
   Product Type: Flooring & Carpet
   Availability: Available
@@ -838,7 +838,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/TLS215.jpg?v=1664789266
   Price: $27.00 USD
 - [Stoneware Textured Vase Handmade](https://www.amrneighbors.com/products/stoneware-textured-vase-handmade-8): Shop our exquisite collection of handmade stoneware textured vases. These unique pieces add a touch of artistry and style to your home decor. Discover the perfect vase to elevate your space today.
-  Updated: 2025-07-01T21:37:58Z
+  Updated: 2026-02-13T04:30:28Z
   Vendor: ipek
   Product Type: Sculptures & Statues
   Availability: Available
@@ -990,7 +990,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/25a7a9e3-ddb7-4961-909b-74001cf8bd95_size1856x1856.jpg?v=1665066133
   Price: $19.60 USD
 - [Decorative Throw Pillow | American Neighbors](https://www.amrneighbors.com/products/throw-pillow-4): Add texture and color to your living space with this decorative throw pillow by American Neighbors. Embroidered with tassels and zippered for easy care.
-  Updated: 2025-10-25T12:49:14Z
+  Updated: 2026-02-17T03:36:51Z
   Vendor: Bella Maison
   Product Type: Cushion
   Availability: Available
@@ -1051,7 +1051,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/8680214291351-1.webp?v=1667501038
   Price: $11.99 USD
 - [Red Throw Blanket | American Neighbors](https://www.amrneighbors.com/products/red-throw-blanket-1): Add warmth and style to your space with this red throw blanket by American Neighbors. Crafted from a 50/50 cotton-polyester blend for comfort and durability.
-  Updated: 2025-10-19T19:39:42Z
+  Updated: 2026-02-11T08:02:49Z
   Vendor: Karaca Home
   Product Type: Blankets
   Availability: Available
@@ -1294,7 +1294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Oregano.jpg?v=1674307169
   Price: $11.99 USD
 - [Organic Turmeric Powder | 0.19 lb](https://www.amrneighbors.com/products/organic-turmeric-powder-0-19-lb): Indulge in the health benefits and vibrant flavor of our Organic Turmeric Powder, available in a convenient 0.19 lb package. Enhance your dishes with this natural and aromatic spice.
-  Updated: 2025-09-16T18:03:40Z
+  Updated: 2026-02-11T13:18:37Z
   Vendor: Holistic Corner
   Product Type: Spices
   Availability: Available
@@ -1392,7 +1392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Chaste-Tree-berries.jpg?v=1674320427
   Price: $6.99 USD
 - [Organic Grounded Sumac | 0.19 lb](https://www.amrneighbors.com/products/organic-grounded-sumac-0-19-lb): Discover the exquisite taste of organic grounded sumac with our premium quality product. Add a tangy and flavorful twist to your dishes with this versatile spice. Shop now and elevate your culinary creations to new heights.
-  Updated: 2026-01-12T20:00:40Z
+  Updated: 2026-02-11T17:50:51Z
   Vendor: Holistic Corner
   Product Type: spices
   Availability: Available
@@ -1434,7 +1434,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/Organic-Fennel-Powder01.jpg?v=1674321659
   Price: $5.99 USD
 - [Organic Ceylon Cinnamon Sticks from Sri Lanka](https://www.amrneighbors.com/products/organic-ceylon-cinnamon-sticks-0-085-lb): Experience the rich aroma and subtle spiciness of our Organic Ceylon Cinnamon Sticks handcrafted in Sri Lanka. Sourced from the inner bark of cinnamon trees, these Grade C5 cinnamon sticks offer maximum flavor and numerous health benefits. Elevate your meals and well-being with our genuine and sustainable cinnamon sticks today.
-  Updated: 2025-11-13T12:09:36Z
+  Updated: 2026-02-11T23:35:35Z
   Vendor: Holistic Corner
   Product Type: spices
   Availability: Available
@@ -2141,7 +2141,7 @@
   Updated: 2025-10-25T13:29:59Z
   Total Products: 6
 - [New Arrivals](https://www.amrneighbors.com/collections/new-arrivals): Discover the latest trends and must-have products in our New Arrivals collection. Stay stylish and up-to-date with our newest additions.
-  Updated: 2026-02-08T12:22:02Z
+  Updated: 2026-02-12T12:20:45Z
   Total Products: 267
 - [Living Room](https://www.amrneighbors.com/collections/living-room): Enhance your living room with our collection of rugs, vases, paintings, candles, TV blankets, and cushions. Elevate comfort and style.
   Updated: 2025-11-23T12:17:00Z
@@ -2198,13 +2198,13 @@
   Updated: 2025-07-01T21:37:02Z
   Total Products: 6
 - [Recommended products (Seguno)](https://www.amrneighbors.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-02-08T12:22:02Z
+  Updated: 2026-02-12T12:20:45Z
   Total Products: 230
 - [Holistic Corner](https://www.amrneighbors.com/collections/holistic-corner): Nourish your body and elevate your well-being with our Holistic Corner collection. Discover wholesome grains, herbs, snacks, and spices for a healthy lifestyle.
-  Updated: 2026-02-08T12:22:02Z
+  Updated: 2026-02-12T12:20:45Z
   Total Products: 33
 - [Spices](https://www.amrneighbors.com/collections/spices): Discover a world of flavor with our exquisite collection of spices. Elevate your culinary creations and delight your taste buds.
-  Updated: 2026-01-29T12:16:12Z
+  Updated: 2026-02-12T12:20:45Z
   Total Products: 18
 - [Herbs](https://www.amrneighbors.com/collections/herbs): Enhance your culinary creations with our aromatic and flavorful herb collection. Explore a world of fresh flavors and elevate your dishes.
   Updated: 2026-02-08T12:22:02Z
