@@ -6,54 +6,61 @@
 - Timezone: America/Denver
 - Created At: 2026-01-14T02:21:57Z
 - Contact Email: s82407200@gmail.com
-- Updated At: 2026-02-11T00:00:28.882Z
+- Updated At: 2026-02-18T00:00:33.007Z
 
 ## Products
 
-- [LED Teddy Bear Night Light - Colorful Kids Room Lamp Gift](https://toptierly.com/products/30cm-teddy-bear-doll-gift-lamp-colorful-sparkling-romantic-surprise-led-gift-light-girls-birthday-valentines-day-bedroom-decor): Adorable LED teddy bear lamp with color-changing lights. Perfect night light gift for kids rooms, nurseries & bedrooms. Soft glow, cute bear design.
-  Updated: 2026-02-06T22:11:47Z
+- [13Pcs Makeup Brush Set Make Up Concealer Brush Blush Powder Brush Eye Shadow Highlighter Foundation Brush Cosmetic Beauty Tools - TopTierly](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools): Overview: -- Set of 13pcs of makeup brushes, including foundation brush, powder brush, shadow brush, blush brush, highlighter brush, eyeshadow brush, lip brush, eyebrow brush, concealer brush, blending brush etc. -- Soft and fine artificial fibers reduce damage to the skin. -- Plastic handle and aluminum tube, durable cosmetic brush. -- Easy to clean, not easy to shed hair. Product information: Number of brush sets: 13 The bristles are made of man-made fiber Brush bag type linen Brush handle material plastic Brush handle specification long rod Wool length specification 4.5 cm Total length specification 17CM Applicable to people Appearance colors 13 green "opp bags", 13 green "cloth bags", 13 pink "cloth bags", 13 yellow "cloth bags", 13 green "boxes", 13 pink "boxes", 13 green "cloth bags" and 13 pink "cloth bags" Packing list: Makeup brushes * 13 Product Image: - TopTierly
+  Updated: 2026-02-17T17:02:11Z
   Vendor: TopTier
-  Product Type: 
+  Product Type: 0
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/3be4ed2d1574b85017f5caf7793c5fed.jpg?v=1770273567
-  Price: $41.99 USD
-- [Phone Sun Shade - Anti-Glare Screen Protector Umbrella for Outdoor Use](https://toptierly.com/products/mini-umbrella-for-smart-phone-with-suction-cup-holder-outdoor-anti-glare-sunshade-cover-anti-reflective-screen-protector): Mini phone umbrella with suction cup holder. Perfect outdoor anti-glare sunshade cover for smartphones. Blocks sun reflection for clear screen visibility.
-  Updated: 2026-02-05T07:04:39Z
-  Vendor: TopTier
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/d9d58dc4c0159e33fa4197b8618702f2.jpg?v=1770273576
-  Price: $14.99 USD
-- [Wireless Hair Straightener - Portable 2 in 1 Hot Comb USB Rechargeable](https://toptierly.com/products/straight-hair-comb-electric-hot-comb-2-in-1-upgrade-version-wireless-hair-straightener-and-curler-usb-charging): Cordless 2-in-1 hair straightener and curler. USB rechargeable portable hot comb for on-the-go styling. Electric straightening brush for smooth, sleek hair.
-  Updated: 2026-02-06T09:57:21Z
-  Vendor: TopTier
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/a85eca8366b015644557b345e362d726.jpg?v=1770273585
-  Price: $22.99 USD
-- [LED Light Therapy Face Mask - 7 Color At Home Facial  Device](https://toptierly.com/products/blue-red-light-therapy-mask-for-face-7-colors-led-face-mask-light-therapy-led-face-mask-light-therapy-at-home): Professional 7-color LED light therapy face mask for at-home skincare. Red, blue & more light therapy for anti-aging, acne & glowing skin. Spa results at home.
-  Updated: 2026-02-06T20:02:29Z
-  Vendor: TopTier
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/af139ad665a0a5291419636febd34abe.jpg?v=1770273592
-  Price: $59.99 USD
-- [Cute Rabbit Night Light - USB Rechargeable LED Lamp for Kids & Nursery](https://toptierly.com/products/led-night-lights-cute-sheep-panda-rabbit-silicone-lamp-usb-rechargeable-timing-bedside-decor-kids-baby-nightlight-birthday-gift): Adorable USB rechargeable rabbit night light perfect for kids rooms and nurseries. Soft LED glow, portable design. Safe, cute bunny lamp for bedtime comfort.
-  Updated: 2026-02-10T20:35:13Z
-  Vendor: TopTierly
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/a2cbe39b0147a66a21bad572512a1c56.jpg?v=1770273604
-  Price: $21.60 USD
+  Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/01d1977c-8708-45be-bcff-bb24e8ca32f8.jpg?v=1771304211
+  - [13 Green Boxed](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050327781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/ae077b4f-217b-4e05-ab52-22b15874c8c6.jpg?v=1771304222
+    Price: $20.00 USD
+  - [13 Green Cloth Bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050360549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/433cb4f1-bc85-4dc6-91a9-eb23d44d06ce.jpg?v=1771304222
+    Price: $15.00 USD
+  - [13 Green Opp Bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050393317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/3b897eee-06d9-4573-9d30-ae09067a2dda.jpg?v=1771304223
+    Price: $15.00 USD
+  - [13 Pink Cloth Bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050426085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/144e4283-f33b-4c8e-9729-19229710d961.jpg?v=1771304226
+    Price: $15.00 USD
+  - [13 Yellow Cloth Bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050458853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/20be4a18-bd0c-45ce-98f0-367bf4b77380.jpg?v=1771304227
+    Price: $15.00 USD
+  - [13 Royal blue flannel bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050491621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/352a4ac3-bb82-49f6-a72c-216f5df87667.jpg?v=1771304229
+    Price: $15.00 USD
+  - [13 Yellow Opp Bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050524389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/ae916fe8-f068-4a91-afe0-e9bc08c8762f.jpg?v=1771304229
+    Price: $15.00 USD
+  - [13 Coffee OPP Bags](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050557157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/af9f5205-5b79-4803-9219-343848f96df8.jpg?v=1771304230
+    Price: $15.00 USD
+  - [13 Pink](https://toptierly.com/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools?variant=48424050589925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/5416/6501/files/39041221-8598-46cf-a7eb-6afacdf3be60.jpg?v=1771304232
+    Price: $15.00 USD
 
 ## Collections
 
-- [Love Edition Beauty - Valentine's & Romance Gifts | TopTier](https://toptierly.com/collections/valentine-special): Shop the Love Edition collection for romantic beauty gifts perfect for Valentine's Day. Premium beauty products to show love and self-care. Limited time offers!
-  Updated: 2026-02-10T12:25:02Z
-  Total Products: 3
+- [Valentine Gifts & Stress Relief Lamp for Relaxation | TopTierly](https://toptierly.com/collections/valentine-gifts-stress-relief-l): Discover thoughtful Valentine gifts and stress relief lamps at TopTierly. Perfect for romantic occasions, wellness, and relaxation all year round.
+  Updated: 2026-02-17T04:56:05Z
+  Total Products: 0
 - [Glow & Go - Portable Beauty & Travel Essentials | TopTierly](https://toptierly.com/collections/glow-go): On-the-go beauty essentials for busy lifestyles. Portable skincare, wireless styling tools & travel-friendly products. Look your best anywhere.
-  Updated: 2026-02-09T15:44:42Z
-  Total Products: 2
+  Updated: 2026-02-14T07:30:14Z
+  Total Products: 0
 - [Skincare Essentials](https://toptierly.com/collections/skincare-essentials)
   Updated: 2026-02-04T03:14:58Z
   Total Products: 0
@@ -69,6 +76,9 @@
 - [Bath & Body Care](https://toptierly.com/collections/bath-body-care)
   Updated: 2026-01-26T19:31:35Z
   Total Products: 0
+- [AVADA - Best Sellers - TopTierly](https://toptierly.com/collections/avada-best-sellers): - TopTierly
+  Updated: 2026-02-17T05:42:27Z
+  Total Products: 1
 
 ## Store Pages
 
@@ -80,8 +90,8 @@
   Updated: 2026-02-01T22:57:17Z
 - [FAQs](https://toptierly.com/pages/faqs)
   Updated: 2026-01-14T03:03:44Z
-- [Return Policy](https://toptierly.com/pages/return-policy)
-  Updated: 2026-01-14T03:03:44Z
+- [Return Policy](https://toptierly.com/pages/return-policy): At TopTierly, we want you to be completely satisfied with your purchase. We accept returns within 14 days of delivery under the following condition...
+  Updated: 2026-02-13T05:06:41Z
 - [Shipping Policy](https://toptierly.com/pages/shipping-policy)
   Updated: 2026-01-14T03:03:44Z
 - [Terms and Conditions](https://toptierly.com/pages/terms-and-conditions)
@@ -92,8 +102,6 @@
   Updated: 2026-02-05T00:48:24Z
 - [Sitemap](https://toptierly.com/pages/sitemap): Product Cute Rabbit Night Light - USB Rechargeable LED Lamp for Kids Room LED Light Therapy Face Mask - 7 Color At Home Facial  Wireless H...
   Updated: 2026-02-05T00:48:24Z
-- [HTML Sitemap](https://toptierly.com/pages/html-sitemap): Products LED Teddy Bear Night Light - Colorful Lamp Gift for Kids Room & Nursery Phone Sun Shade - Mini Umbrella Suction Cup Holder for Outdoor Ant...
-  Updated: 2026-02-05T03:09:15Z
 
 ## Policies
 
