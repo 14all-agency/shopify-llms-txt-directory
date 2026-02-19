@@ -6,12 +6,12 @@
 - Timezone: America/Jamaica
 - Created At: 2025-06-10T20:29:25Z
 - Contact Email: lizversh@gmail.com
-- Updated At: 2026-02-12T00:00:38.809Z
+- Updated At: 2026-02-19T00:00:41.755Z
 
 ## Products
 
 - [Silk Dreams Pillowcase — Burgundy](https://lissofficial.com/products/silk-dreams-pillowcase): A must-have for those who value their beauty sleep. Silk Dreams Pillowcase in Burgundy is crafted from 100% mulberry silk and designed to stay perfectly in place throughout the night. The secure closure prevents slipping and shifting, so your pillowcase stays smooth and comfortable while you sleep. Finished with optional custom embroidery, each pillowcase can be made uniquely yours. Size: 50 x 70
-  Updated: 2026-01-22T21:19:38Z
+  Updated: 2026-02-17T12:35:21Z
   Vendor: LISS OFFICIAL
   Product Type: 
   Availability: Available
