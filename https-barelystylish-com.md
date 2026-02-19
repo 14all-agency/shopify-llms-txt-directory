@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-02-12T13:57:24Z
 - Contact Email: info@barelystylish.com
-- Updated At: 2026-02-12T00:00:43.964Z
+- Updated At: 2026-02-19T00:00:46.581Z
 
 BarelyStylish® — Minimal Style. Maximum Impact.
 
@@ -1701,7 +1701,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/ImageofwomenpalazzosinLightPurplecolorinastudiosetup.Straightfitsolidcolor_nofrills.lengthonlytillankles.Withhandpockets.Imagecapturingdetailsofpalazzo..jpg?v=1742311535
     Price: ₹799.00 INR
 - [BarelyStylish Simply Chic Palazzo Pants – Dark Orange Your Daily Comfort](https://barelystylish.com/products/barelystylish-simply-chic-palazzo-pants-dark-orange-your-daily-comfort): BarelyStylish Palazzo Pants - Effortless Elegance & Everyday Comfort Step into chic minimalism with our BarelyStylish Palazzo Pants, where simplicity meets sophistication. Crafted for women who value both comfort and subtle style, these pants effortlessly blend into any wardrobe, becoming your go-to attire for multiple occasions. Key Features: Premium Soft Fabric: Breathable, lightweight material ensuring maximum comfort throughout the day. Flattering Wide-Leg Design: Flowing palazzo cut offering freedom of movement and graceful elegance. High Waist Fit: Accentuates your natural waistline for a flattering and contemporary silhouette. Versatile Styling: Perfectly pairs with tops, blouses, crop-tops, and jackets for casual, formal, or business-casual looks. All-Day Comfort: Ideal for travel, office, casual outings, or lounging, ensuring style and ease wherever you go.
-  Updated: 2025-12-10T11:49:52Z
+  Updated: 2026-02-12T10:25:00Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -4808,7 +4808,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/Anultrarealisticimage_shotfromleftside_ofyoungmanwearingrelaxedfittrackpantscolorcode_0B1D51_madeupofRayonandSpandexmix.SuitableforAthleisure_1.jpg?v=1745773844
     Price: ₹999.00 INR
 - [Premium Comfort Fit Men's Sage Green Track Pants – Lightweight, Breathable, All-Day Wear](https://barelystylish.com/products/premium-comfort-fit-mens-track-pants-lightweight-breathable-all-day-wear-1): Step into effortless comfort with our Premium Comfort Fit Men's Track Pants — designed for those who value both performance and style. Crafted from a superior blend of cotton and polyester, these lightweight, breathable track pants ensure maximum comfort whether you're hitting the gym, traveling, or just lounging. The minimalistic, tapered silhouette offers a modern look without ankle ribbing, giving you freedom of movement and a clean, versatile style. Featuring an elastic waistband with adjustable drawstrings, deep functional pockets, and reinforced stitching for durability. Perfect for daily wear, workouts, or casual outings. Key Features: Fabric: 60% Cotton, 40% Polyester Fit: Relaxed Comfort Fit (No ankle ribs) Breathable, quick-dry, and moisture-wicking Elastic waist with adjustable drawcord Deep side pockets for essentials Ideal for travel, workouts, and casual wear Easy to style with tees, polos, or hoodies Elevate your basics — because comfort should never compromise on style.
-  Updated: 2026-01-15T13:37:50Z
+  Updated: 2026-02-17T06:12:59Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -5146,7 +5146,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/echo_13.png?v=1746420725
     Price: ₹569.00 INR
 - [Women’s Premium Crew Neck T-Shirt – Minimalist Fit, All-Day Comfort](https://barelystylish.com/products/women-s-premium-crew-neck-t-shirt-minimalist-fit-all-day-comfort-1): Effortlessly chic. Unapologetically comfortable.The BarelyStylish Women’s Crew Neck T-Shirt blends elevated basics with a tailored feminine fit. Made from a breathable cotton-rich fabric with a touch of stretch, it’s your go-to for workdays, weekends, or anywhere in between. ✅ Ultra-soft cotton blend for all-day comfort ✅ Flattering crew neckline & minimalist silhouette ✅ Designed to pair seamlessly with denims, joggers, or skirts ✅ Wrinkle-resistant and easy to care for ✅ Perfect for layering or wearing solo Why You'll Love It:This isn’t just another tee. It’s a statement in simplicity. Crafted for the modern Indian woman who values style without noise, this T-shirt is part of our Minimal Style. Maximum Impact. collection. 🧺 Care: Machine wash cold. Tumble dry low.📦 Shipping: Free delivery on orders with COD
-  Updated: 2026-01-15T13:37:57Z
+  Updated: 2026-02-12T12:15:34Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -5530,7 +5530,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/Ultra-realistic_high-resolutionimageofawoman_fromwaisttotipoftheleg_wearingelegantcolorcodeClayRust__B7410Eleggings.Thebottomendoftheleggings_ishavingdelicatesamecolorlacetrimthatw.jpg?v=1746700611
     Price: ₹799.00 INR
 - [Premium High-Waist Stretchable Leggings for Women – All-Day Comfort & Flattering Fit](https://barelystylish.com/products/premium-high-waist-stretchable-leggings-for-women-all-day-comfort-flattering-fit-3): Step into effortless style and unmatched comfort with our Premium High-Waist Leggings for Women. Crafted with a perfect blend of cotton and spandex, these leggings offer a buttery-soft touch, excellent breathability, and a 4-way stretch that adapts to your body for a flawless fit. ✅ Ultra-Soft Fabric: Made of breathable cotton-spandex blend for a skin feel ✅ High-Waist Support: Tummy-control waistband enhances your natural silhouette ✅ 4-Way Stretch: Perfect for yoga, workouts, lounging, or casual wear ✅ No Transparency: Squat-proof & confidence-boosting in every move ✅ Multiple Color Options: Available in versatile shades to match every outfit
-  Updated: 2026-01-15T13:37:53Z
+  Updated: 2026-02-16T23:39:29Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
@@ -5603,7 +5603,7 @@ Classic fundamentals—executed with modern precision.
     Image: https://cdn.shopify.com/s/files/1/0742/4229/4013/files/Ultra-realistic_high-resolutionimageofawoman_fromwaisttotipoftheleg_wearingelegantcolorcodeForestGreen__228B22leggings.Thebottomendoftheleggings_ishavingdelicatesamecolorlacetrimtha.jpg?v=1746701397
     Price: ₹799.00 INR
 - [Premium High-Waist Stretchable Leggings for Women – All-Day Comfort & Flattering Fit](https://barelystylish.com/products/premium-high-waist-stretchable-leggings-for-women-all-day-comfort-flattering-fit-copy-2): Step into effortless style and unmatched comfort with our Premium High-Waist Leggings for Women. Crafted with a perfect blend of cotton and spandex, these leggings offer a buttery-soft touch, excellent breathability, and a 4-way stretch that adapts to your body for a flawless fit. ✅ Ultra-Soft Fabric: Made of breathable cotton-spandex blend for a skin feel ✅ High-Waist Support: Tummy-control waistband enhances your natural silhouette ✅ 4-Way Stretch: Perfect for yoga, workouts, lounging, or casual wear ✅ No Transparency: Squat-proof & confidence-boosting in every move ✅ Multiple Color Options: Available in versatile shades to match every outfit
-  Updated: 2026-01-15T13:37:48Z
+  Updated: 2026-02-13T10:03:39Z
   Vendor: BarelyStylish
   Product Type: 
   Availability: Available
