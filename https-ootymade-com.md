@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2020-02-12T06:27:26Z
 - Contact Email: support@ootymade.com
-- Updated At: 2026-02-12T00:00:41.258Z
+- Updated At: 2026-02-19T00:00:45.314Z
 
 ## Products
 
 - [Nilgiris Regular Tea - Premium Ooty Tea Powder from High-Elevation Estates | Finest Chai Blend](https://ootymade.com/products/nilgiris-regular-tea-finest-blend-ooty-tea-powder-for-the-best-chai-experience): Premium Nilgiris Regular Tea from traditional Ooty tea estates at high elevation. Finest blend black tea powder for authentic chai. Full-bodied, brisk, aromatic. Traditional factory processing. Best chai experience from OotyMade.com.
-  Updated: 2026-02-11T07:40:42Z
+  Updated: 2026-02-17T01:12:52Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: ₹155.00 INR
 - [Nilgiris Lime Tea - Premium Lemon Tea Powder with Health Benefits | OotyMade](https://ootymade.com/products/nilgiris-lime-tea-premium-citrus-bliss-tea-and-health-benefits-in-every-sip): Indulge in the goodness of our Lemon Tea Powder—the perfect blend of zesty flavors and health benefits. Discover the best lemon tea powder online, crafted for those who appreciate quality and well-being. Elevate your tea experience with our lemon tea, promoting radiant skin, boosting immunity, and soothing cold symptoms.
-  Updated: 2026-01-31T08:46:57Z
+  Updated: 2026-02-12T13:29:50Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -62,7 +62,7 @@
     Availability: Available
     Price: ₹160.00 INR
 - [Buy Pure Citronella Oil - Effective Mosquito Repellent | Citronella Oil Uses](https://ootymade.com/products/pure-citronella-oil-natures-guardian-aromatic-mosquito-repellent): Experience the power of pure citronella oil, your natural shield against mosquitoes. Discover citronella oil uses, benefits, and the joy of a bug-free space. Buy now for a refreshing, citronella-infused atmosphere.
-  Updated: 2026-01-28T19:16:07Z
+  Updated: 2026-02-17T05:37:52Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -80,7 +80,7 @@
     Availability: Available
     Price: ₹2,250.00 INR
 - [Nilgiris Masala Tea - Traditional Indian Masala Chai Powder from Ooty | OotyMade](https://ootymade.com/products/nilgiris-masala-tea-traditional-indian-masala-tea-from-ooty-tea-factory): Indulge in the unparalleled goodness of Ooty Tea Bliss, a premium masala tea powder from the renowned Ooty Tea Factory. Immerse yourself in the authentic flavors of Indian chai, crafted with the finest ingredients for a truly invigorating experience. Explore the benefits of masala tea and elevate your tea time with the perfect blend of Ooty tea and aromatic spices. Order online for a delightful journey into the heart of Indian chai tradition.
-  Updated: 2026-02-10T13:34:02Z
+  Updated: 2026-02-18T12:24:27Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: ₹610.00 INR
 - [Nilgiris Cardamom Tea - Premium Elaichi Chai Powder from Ooty | OotyMade](https://ootymade.com/products/nilgiris-cardamom-tea-elaichi-tea-powder-from-ooty-tea-estate-buy-online): Indulge in the rich taste and numerous benefits of Ooty Cardamom Tea. Our premium blend combines the finest Nilgiri tea leaves with the exotic essence of cardamom, creating a unique tea experience. Explore the online store for Ooty tea, sourced from the pristine Ooty tea estate and factory. Elevate your tea ritual with the perfect harmony of aroma and flavor. Buy now for an authentic taste of Ooty tea at the best prices.
-  Updated: 2026-02-07T17:25:51Z
+  Updated: 2026-02-17T05:37:52Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -113,7 +113,7 @@
     Availability: Available
     Price: ₹810.00 INR
 - [Pure Nilgiris Eucalyptus Oil (Nilagiri Thailam) - Steam-Distilled at 2000m | Ooty Estates](https://ootymade.com/products/ootymade-com-pure-nilgiri-eucalyptus-oil-steam-distilled-nilagiri-thailam-for-cold-cough-hair-diffuser-room-freshener-spa-use-60-ml-100-ml-200-ml-500-ml-1-l): 100% Pure Nilgiris Eucalyptus Oil (Nilagiri Thailam) steam-distilled from leaves grown at 2000m+ elevation in Ooty. Therapeutic-grade for cold, cough, hair care, diffuser & spa. Direct from traditional estates.
-  Updated: 2026-02-11T16:14:36Z
+  Updated: 2026-02-15T13:09:43Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Available
     Price: ₹2,250.00 INR
 - [Pure Nilgiris Gaultheria Oil (Wintergreen) - Steam-Distilled at 200 ml | Ooty Estates | OotyMade](https://ootymade.com/products/ootymade-pure-nilgiris-gaultheria-oil-wintergreen-oil-natural-joint-muscle-massage-oil-100-pure-external-use-only): 100% Pure Nilgiris Gaultheria (Wintergreen) Oil steam-distilled from plants grown at 2000m+ elevation in Ooty. Therapeutic-grade, natural joint & muscle pain relief. Direct from traditional estates.
-  Updated: 2026-02-11T16:36:16Z
+  Updated: 2026-02-18T04:24:50Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: ₹1,550.00 INR
 - [Unlock Sensual Delight with Our Best Olive Oil for Massage and Skin – Pure Bliss Elixir](https://ootymade.com/products/pure-bliss-olive-elixir-the-ultimate-love-oil-for-massage-and-skin-nourishment): Indulge in the luxury of Pure Bliss Olive Elixir, the finest love oil for massage and skincare. Discover the numerous benefits of olive oil for hair and skin, carefully crafted to enhance your well-being. It's not just a beauty secret; it's an aromatic journey to rejuvenation. Explore now!
-  Updated: 2026-01-19T10:59:16Z
+  Updated: 2026-02-16T03:36:05Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Available
     Price: ₹1,350.00 INR
 - [Nilgiris Chocolate Tea - Premium Chocolate-Flavored Tea Powder from Ooty | OotyMade](https://ootymade.com/products/nilgiris-chocolate-tea-ootys-premium-chocolate-tea-powder-blend-of-richness-and-flavor): Discover the exquisite world of chocolate-infused bliss with our premium chocolate tea powder from the renowned Ooty Tea Factory. Immerse yourself in the perfect harmony of rich cocoa and the finest tea leaves, carefully curated to deliver a unique and indulgent experience. Explore the unmatched benefits of chocolate tea as you sip your way to pure delight.
-  Updated: 2026-02-11T08:51:42Z
+  Updated: 2026-02-16T06:47:33Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -242,7 +242,7 @@
     Availability: Available
     Price: ₹1,185.00 INR
 - [Ooty Plain Assorted Chocolates - Handmade Mixed Chocolate Box: Milk, White, Dark Varieties](https://ootymade.com/products/ooty-plain-assorted-chocolates-handmade-mixed-chocolate-box-with-milk-white-dark-varieties): Indulge in our Ooty Plain Assorted Chocolates. This handmade assortment features milk, white, and dark chocolate bars. Perfect for gifting or personal treats.
-  Updated: 2026-02-07T17:25:54Z
+  Updated: 2026-02-18T11:07:57Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -257,7 +257,7 @@
     Availability: Available
     Price: ₹895.00 INR
 - [Dark Roasted Almond Chocolates - Healthy Sugarless Homemade Bars | Ooty Chocolate Factory](https://ootymade.com/products/dark-roasted-almond-chocolates-healthy-homemade-dark-chocolate-bars-sugarless-nutty-treats): Handcrafted Dark Roasted Almond Chocolates from Ooty. Healthy, sugarless dark chocolate bars with premium roasted almonds. Homemade, no preservatives. Perfect guilt-free treat from OotyMade.com chocolate shop.
-  Updated: 2026-02-11T06:38:42Z
+  Updated: 2026-02-18T09:57:37Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -332,7 +332,7 @@
     Availability: Available
     Price: ₹1,185.00 INR
 - [Milk Fruit and Nut Chocolates - Ooty Homemade Chocolate with Fruits and Nuts](https://ootymade.com/products/milk-fruit-and-nut-chocolates-delicious-homemade-treats-from-ooty-chocolate-factory): Indulge in our homemade milk chocolate bar with fruits and nuts, crafted at the Ooty Chocolate Factory. Perfect for chocolate lovers, crafted for a luxurious and flavourful experience.
-  Updated: 2026-02-11T06:38:43Z
+  Updated: 2026-02-12T17:05:05Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -362,7 +362,7 @@
     Availability: Available
     Price: ₹895.00 INR
 - [Milk Roasted Almond Chocolates - Handmade Nut Chocolate Bars & Boxes from Ooty Chocolates](https://ootymade.com/products/milk-roasted-almond-chocolates-delightful-homemade-almond-chocolate-box-from-ooty-chocolates-online): Indulge in our delicious Milk Roasted Almond Chocolates. Discover the finest homemade almond chocolate bars and boxes from Ooty Chocolate Factory Online.
-  Updated: 2026-01-23T10:37:03Z
+  Updated: 2026-02-12T17:05:04Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -377,7 +377,7 @@
     Availability: Available
     Price: ₹1,285.00 INR
 - [Ooty Homemade Dark Chocolates - Best Healthy Sugarless Bars | Handmade Dark Chocolate Online](https://ootymade.com/products/ooty-homemade-dark-chocolates-best-healthy-sugarless-plain-chocolate-bars-online): Ooty Homemade Dark Chocolates - Best healthy, sugarless plain dark chocolate bars handmade at Ooty Chocolate Factory. Rich, intense flavor, numerous health benefits. Guilt-free indulgence. Best dark chocolate online from OotyMade.com.
-  Updated: 2026-02-11T06:38:43Z
+  Updated: 2026-02-18T09:57:28Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -503,7 +503,7 @@
     Availability: Available
     Price: ₹1,180.00 INR
 - [Dark Fruit and Nut Chocolates - Healthy Sugarless Handmade Bars | Ooty Chocolate Factory](https://ootymade.com/products/dark-fruit-and-nut-chocolates-sugarless-dark-chocolate-bar-with-fruit-and-nut-handmade-in-ooty): Dark Fruit and Nut Chocolates - Healthy sugarless dark chocolate bars handmade at Ooty Chocolate Factory. Premium fruits & nuts, no added sugar. Guilt-free indulgence. Best dark chocolate from OotyMade.com.
-  Updated: 2026-01-31T08:46:56Z
+  Updated: 2026-02-12T13:29:51Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -518,7 +518,7 @@
     Availability: Available
     Price: ₹1,085.00 INR
 - [Ooty Varkey Small 500g - GI-Tagged Traditional Firewood-Baked Biscuits | 200-Year Heritage](https://ootymade.com/products/ooty-varkey-small-500-g-authentic-varkey-biscuits-from-ooty-varkey-shop-perfect-tea-time-snacks): Authentic GI-tagged Ooty Varkey biscuits handmade using 200-year-old recipe, baked in traditional firewood ovens by master bakers. Crisp, flaky layers with cardamom. Perfect tea-time snack from Nilgiris.
-  Updated: 2026-02-11T08:51:41Z
+  Updated: 2026-02-18T11:07:47Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -533,7 +533,7 @@
     Availability: Available
     Price: ₹495.00 INR
 - [Ooty Varkey Big 500g - GI-Tagged Traditional Firewood-Baked Biscuits | 200-Year Heritage](https://ootymade.com/products/ooty-varkey-big-500-g-original-ooty-varkey-from-ooty-varkey-bakery-perfect-tea-time-snacks-online): Authentic GI-tagged Ooty Varkey Big size (500g) handmade using 200-year-old recipe, baked in traditional firewood ovens. Crisp, flaky layers with cardamom. Perfect tea-time snack from Nilgiris heritage bakery.
-  Updated: 2026-02-11T14:21:26Z
+  Updated: 2026-02-15T17:12:08Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -548,7 +548,7 @@
     Availability: Available
     Price: ₹495.00 INR
 - [Discover the Magic of Heena Oil: Benefits for Hair, Cold Relief, and Pain Management](https://ootymade.com/products/pure-bliss-heena-elixir-an-aromatic-symphony-of-nilgiri-and-essential-oils): Unlock the potential of Heena Oil with our Pure Bliss Heena Elixir, a harmonious blend enriched with Nilgiri oil and essential oils. Experience the multifaceted benefits for hair, cold relief, and pain management. Buy the best Heena oil online for a holistic wellness journey.
-  Updated: 2026-02-02T04:19:33Z
+  Updated: 2026-02-15T13:09:43Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -624,7 +624,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/38_75a9d2a8-1a28-45cb-bd46-8447b3360d45.png?v=1702714743
   Price: ₹95.00 INR
 - [Premium Rosemary Essential Oil - 100% Pure Organic from Nilgiris | Skin, Hair & Aromatherapy](https://ootymade.com/products/premium-rosemary-essential-oil-100-pure-and-organic-for-skin-and-hair): 100% Pure Organic Rosemary Essential Oil steam-distilled from Nilgiris region. Premium therapeutic-grade for skin, hair growth, aromatherapy. Natural, chemical-free. Best rosemary oil at unbeatable price from OotyMade.com.
-  Updated: 2026-01-29T23:41:04Z
+  Updated: 2026-02-16T07:37:22Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -642,7 +642,7 @@
     Availability: Available
     Price: ₹13,550.00 INR
 - [Buy Cypress Oil Online - Natural Essential Oil for Varicose Veins | Pure Cypress Essential Oil](https://ootymade.com/products/premium-cypress-essential-oil-pure-aromatherapy-elixir-for-varicose-veins-and-beyond): Discover the power of pure Cypress Essential Oil for varicose veins and more. Our premium-grade essential oil is sourced from Nilgiris, offering unparalleled benefits. Explore the uses and benefits of Cypress oil in Tamil, and experience the essence of nature at an unbeatable price.
-  Updated: 2026-02-04T02:57:49Z
+  Updated: 2026-02-16T03:36:04Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -657,7 +657,7 @@
     Availability: Available
     Price: ₹1,650.00 INR
 - [Pure Organic Jojoba Oil - 100% Natural for Hair, Skin, Beard & Body | OotyMade](https://ootymade.com/products/pure-bliss-organic-jojoba-oil-the-best-choice-for-hair-body-and-beard-care): Buy authentic Pure Organic Jojoba Oil from Nilgiris. 100% natural for hair growth, skin care, beard grooming, body moisturizer. Cold-pressed, therapeutic grade. Best jojoba oil for face, acne & anti-aging.
-  Updated: 2026-02-06T16:52:05Z
+  Updated: 2026-02-17T05:37:53Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -728,14 +728,14 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/products/th-3.jpg?v=1627304148
   Price: ₹0.00 INR
 - [Nilgiris Silver Oak Cardamom Tea 500g - Premium Elaichi Chai | Ooty Tea Factory | OotyMade](https://ootymade.com/products/nilgiris-silver-oak-cardamom-tea-aromatic-ooty-tea-powder-from-the-famous-ooty-tea-factory): Buy authentic Nilgiris Silver Oak Cardamom Tea 500g from famous Ooty tea factory. Premium elaichi chai with aromatic cardamom. Freshly roasted, rich aroma. Best Nilgiri tea for digestion & wellness benefits.
-  Updated: 2026-01-29T23:09:42Z
+  Updated: 2026-02-12T17:05:04Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/4_fa0e20f4-af70-4d30-9c8c-573cda16abf3.png?v=1733211873
   Price: ₹320.00 INR
 - [Nilgiris Silver Oak Chocolate Tea - Authentic Ooty Chocolate Tea Powder, 500g](https://ootymade.com/products/nilgiris-silver-oak-chocolate-tea-rich-chocolate-flavoured-tea-powder-from-ooty-500g): Discover the rich and aromatic Nilgiris Silver Oak Chocolate Tea. This unique blend combines the finest Ooty tea with luscious chocolate flavor, creating a delightful experience. Perfect for tea lovers, our 500g pack is sourced from Ooty’s famous tea factories. Order online for a taste of Nilgiris!
-  Updated: 2025-12-28T12:56:46Z
+  Updated: 2026-02-17T01:44:20Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -901,7 +901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/products/k-removebg-preview.png?v=1627304268
   Price: ₹500.00 INR
 - [Discover the True Essence of Wellness with Organic Ginger Tea | Ooty Tea Factory](https://ootymade.com/products/organic-ginger-bliss-ooty-tea-factorys-finest-ginger-chai-elixir): Indulge in the goodness of organic ginger tea from Ooty Tea Factory. Uncover the myriad benefits of ginger tea, including weight loss, cold relief, and digestive wellness. Elevate your tea experience with the finest Ooty tea leaves, handcrafted for perfection.
-  Updated: 2026-01-30T03:30:28Z
+  Updated: 2026-02-15T17:39:52Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -952,7 +952,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/products/51R9SmIHG7L.jpg?v=1627302031
   Price: ₹480.00 INR
 - [Pure Lavender Essential Oil - 100% Natural for Hair, Skin & Aromatherapy | OotyMade](https://ootymade.com/products/luxelavender-pure-lavender-essential-oil-for-hair-and-skin-care-100-natural-aromatherapy-elixir): Buy authentic Pure Lavender Essential Oil from Nilgiris. 100% natural for hair growth, skin care, aromatherapy, sleep. Steam-distilled, therapeutic grade. Best lavender oil for relaxation & wellness benefits.
-  Updated: 2026-02-06T16:52:01Z
+  Updated: 2026-02-17T05:37:53Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -1393,7 +1393,7 @@
     Availability: Available
     Price: ₹895.00 INR
 - [Ooty White Molding Chocolates - Premium Homemade White Chocolate Bars, Plain Chocolates](https://ootymade.com/products/ooty-white-molding-chocolates-exquisite-homemade-white-chocolate-bars-perfect-plain-molding-chocolates): Discover the delightful taste of Ooty White Molding Chocolates. Our homemade white chocolate bars are perfect for all occasions, offering a rich and creamy experience with every bite.
-  Updated: 2025-12-31T07:27:27Z
+  Updated: 2026-02-12T17:05:04Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1466,7 +1466,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/1_c4fc1fcc-4fe4-41e5-933e-0dd775b166a1.png?v=1701333783
   Price: ₹225.00 INR
 - [Indulge in Luxury: Best Mix Chocolate Pack for Anniversaries | Handmade Bliss from Ooty](https://ootymade.com/products/ultimate-bliss-mix-chocolate-pack-perfect-anniversary-gift-100-g): Discover the exquisite joy of our Mix Chocolate Pack, a divine collection of Ooty's finest homemade chocolates. The perfect anniversary gift for couples seeking a delightful surprise Explore the best chocolate brands in one curated pack, a true celebration of love and sweetness.
-  Updated: 2025-09-12T19:44:20Z
+  Updated: 2026-02-17T12:34:23Z
   Vendor: OotyMade.com
   Product Type: 
   Availability: Available
@@ -1480,28 +1480,28 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/1_e69e3a09-7479-418e-9ac6-ff8eaa79a2ff.png?v=1701343324
   Price: ₹220.00 INR
 - [Charcoal Handmade Soap - Traditional Cold-Process | Natural Detox & Purifying Organic Soap](https://ootymade.com/products/charcoal-handmade-soap-elevate-your-skincare-routine-with-natural-organic-cleansing-perfection): Handmade Charcoal Soap using traditional cold-process method. Activated charcoal for deep detox, purification. 100% natural, organic, chemical-free. Eco-friendly, small-batch artisanal soap from OotyMade.com.
-  Updated: 2026-01-31T05:41:33Z
+  Updated: 2026-02-15T05:49:03Z
   Vendor: OotyMade.com
   Product Type: Handmade Organic Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/9_7399e7f6-6ae0-4237-984e-442e97b23bbb.png?v=1732538441
   Price: ₹140.00 INR
 - [Rose Natural Handmade Soap - Organic Elegance | Traditional Cold-Process | Blissful Blossom](https://ootymade.com/products/blissful-blossom-rose-natural-handmade-soap-luxuriate-in-organic-elegance): Rose Natural Handmade Soap - Traditional cold-process, 100% organic, chemical-free. Luxuriate in organic elegance with rose petals & essential oil. Radiant skin, divine fragrance. Eco-friendly artisanal soap from OotyMade.com.
-  Updated: 2026-01-31T08:46:56Z
+  Updated: 2026-02-15T05:49:03Z
   Vendor: OotyMade.com
   Product Type: Handmade Organic Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/17_6b1946a3-52fd-4b97-8b8a-06f6c3fd1143.png?v=1732538692
   Price: ₹140.00 INR
 - [Kuppaimeni Natural Handmade Soap - Ayurvedic Healing | Pure Organic Bliss for Your Skin](https://ootymade.com/products/kuppaimeni-natural-handmade-soap-pure-organic-bliss-for-your-skin): Kuppaimeni Natural Handmade Soap - Traditional cold-process, 100% organic, Ayurvedic healing herb. Pure organic bliss for acne, eczema, skin infections. Ancient Indian , eco-friendly artisanal soap from OotyMade.com.
-  Updated: 2026-01-31T05:41:33Z
+  Updated: 2026-02-15T05:49:03Z
   Vendor: OotyMade.com
   Product Type: Handmade Organic Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Handmade_Soaps_Main_2024.png?v=1732540486
   Price: ₹120.00 INR
 - [Neem Organic Handmade Soap - Traditional Cold-Process | Chemical-Free Ayurvedic Skincare](https://ootymade.com/products/neem-organic-homemade-soap-chemical-free-luxury-for-radiant-skin-and-eco-friendly-living): Handmade Neem Organic Soap using traditional cold-process method. 100% chemical-free, pure neem from India. Ayurvedic heritage for radiant skin, acne care. Eco-friendly, small-batch artisanal soap from OotyMade.com.
-  Updated: 2026-02-04T12:40:29Z
+  Updated: 2026-02-15T05:49:04Z
   Vendor: OotyMade.com
   Product Type: Handmade Organic Soap
   Availability: Available
@@ -1550,7 +1550,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/71ZyhVSCVbL._SL1500.jpg?v=1714644967
   Price: ₹699.00 INR
 - [Golden Breeze Attar Perfume Roll-On - Traditional Alcohol-Free Luxury Fragrance | Unisex](https://ootymade.com/products/golden-breeze-attar-perfume-roll-on-luxurious-fragrance-for-men-and-women): Luxurious Golden Breeze Attar Perfume Roll-On for men and women. 100% alcohol-free, natural oil-based fragrance using traditional distillation methods. Long-lasting, skin-friendly, sophisticated scent from OotyMade.com.
-  Updated: 2026-01-29T06:55:39Z
+  Updated: 2026-02-15T05:49:03Z
   Vendor: OotyMade.com
   Product Type: Attar- Perfume-Scent
   Availability: Available
@@ -1591,26 +1591,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Waves.png?v=1717843320
   Price: ₹165.00 INR
-- [Ooty Everlasting Paper Daisy Straw Flower - Bright Yellow Dried Blooms | OotyMade](https://ootymade.com/products/ooty-everlasting-paper-daisy-straw-flower-bunch-bright-yellow-blooms-for-long-lasting-beauty): Buy authentic Ooty Everlasting Paper Daisy Straw Flower bunch. Bright yellow dried blooms from Western Ghats. Long-lasting beauty for home decor, crafts, arrangements. Xerochrysum bracteatum from Nilgiris.
-  Updated: 2026-02-10T13:16:16Z
-  Vendor: OotyMade.com
-  Product Type: Flower
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/6.webp?v=1733396511
-  - [one Bunch](https://ootymade.com/products/ooty-everlasting-paper-daisy-straw-flower-bunch-bright-yellow-blooms-for-long-lasting-beauty?variant=46176890159330)
-    Availability: Not Available
-    Price: ₹95.00 INR
-  - [Two Bunches](https://ootymade.com/products/ooty-everlasting-paper-daisy-straw-flower-bunch-bright-yellow-blooms-for-long-lasting-beauty?variant=46176890192098)
-    Availability: Not Available
-    Price: ₹180.00 INR
-  - [Three Bunches](https://ootymade.com/products/ooty-everlasting-paper-daisy-straw-flower-bunch-bright-yellow-blooms-for-long-lasting-beauty?variant=46176890224866)
-    Availability: Not Available
-    Price: ₹275.00 INR
-  - [Four Bunches](https://ootymade.com/products/ooty-everlasting-paper-daisy-straw-flower-bunch-bright-yellow-blooms-for-long-lasting-beauty?variant=46176890257634)
-    Availability: Available
-    Price: ₹340.00 INR
 - [Ooty Kannavarai Tea Estate Black Tea - Premium Organic Nilgiri Tea | OotyMade](https://ootymade.com/products/ooty-kannavarai-tea-estate-black-tea-powder-finest-ooty-tea-for-a-perfect-brew-from-nilgiri-hills): Buy authentic Ooty Kannavarai Tea Estate Black Tea. Premium organic Nilgiri tea powder from Kannavarai Estate. Perfect brew, full-bodied flavor. High-elevation grown. Finest Ooty tea from Nilgiri hills.
-  Updated: 2026-02-02T06:09:34Z
+  Updated: 2026-02-18T12:24:27Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1625,7 +1607,7 @@
     Availability: Available
     Price: ₹480.00 INR
 - [Ooty Kannavarai Gold Dust CTC Tea - Premium Organic Nilgiri Tea | OotyMade](https://ootymade.com/products/ooty-kannavarai-gold-dust-ctc-tea-powder-authentic-nilgiri-tea-from-ooty-tea-factory): Buy authentic Ooty Kannavarai Gold Dust CTC Tea from Kannavarai Estate. Premium organic CTC tea powder from Nilgiri tea factory. Strong, brisk, quick brewing. Finest quality black tea. High-elevation grown.
-  Updated: 2026-02-11T07:28:52Z
+  Updated: 2026-02-15T07:47:03Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1643,7 +1625,7 @@
     Availability: Available
     Price: ₹850.00 INR
 - [Ooty Homedale Dust Tea - Premium Organic Gold Dust CTC Tea | Nilgiri Factory | OotyMade](https://ootymade.com/products/ooty-homedale-dust-tea-powder-finest-gold-dust-ctc-tea-from-nilgiri-tea-factory): Buy authentic Ooty Homedale Dust Tea from Homedale Estate. Premium organic gold dust CTC tea from Nilgiri tea factory. Strong, brisk, quick brewing. Finest quality black tea. High-elevation grown.
-  Updated: 2026-02-05T22:04:41Z
+  Updated: 2026-02-17T16:22:43Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1703,7 +1685,7 @@
     Availability: Available
     Price: ₹820.00 INR
 - [Ooty Homewood Cardamom Tea - Premium Elaichi Chai | Homewood Estate | OotyMade](https://ootymade.com/products/ooty-homewood-cardamom-tea-buy-premium-organic-elachi-chai-powder-from-ooty-tea-factory): Buy authentic Ooty Homewood Cardamom Tea from Homewood Estate. Premium Nilgiris black tea with aromatic cardamom. 250g finest quality elaichi chai. Traditional spiced tea from 150-year heritage estate.
-  Updated: 2026-02-09T14:24:36Z
+  Updated: 2026-02-18T07:42:48Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1718,7 +1700,7 @@
     Availability: Available
     Price: ₹960.00 INR
 - [Ooty Homewood Masala Tea - Premium Spiced Nilgiri Chai | Homewood Estate | OotyMade](https://ootymade.com/products/ooty-homewood-masala-tea-authentic-nilgiri-blend-for-the-perfect-spiced-chai-experience): Buy authentic Ooty Homewood Masala Tea from Homewood Estate. Premium Nilgiris black tea with traditional spice blend. Aromatic masala chai with cardamom, ginger, cinnamon. 150-year heritage estate tea.
-  Updated: 2026-02-09T12:11:41Z
+  Updated: 2026-02-18T07:42:51Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1799,7 +1781,7 @@
     Availability: Available
     Price: ₹950.00 INR
 - [Ooty Varkey Big & Small 2KG Combo - GI-Tagged Traditional Biscuits | OotyMade](https://ootymade.com/products/ooty-varkey-big-and-small-2-kgs-original-ooty-varkey-online-shopping-best-evening-tea-time-snacks): Buy authentic Ooty Varkey Big & Small 2KG combo. GI-tagged traditional biscuits baked in firewood ovens. 200-year heritage, crispy flaky layers. Perfect tea-time snacks. Original from best Ooty Varkey shop.
-  Updated: 2026-02-11T15:13:36Z
+  Updated: 2026-02-13T07:31:06Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -1869,7 +1851,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/2_converted_d80fc21d-a078-4307-92e8-e5da3f5f0af8.png?v=1738145387
   Price: ₹150.00 INR
 - [GLENDALE Masala Chai 250g - Premium Spiced Nilgiri Tea | 150 Years | OotyMade](https://ootymade.com/products/glendale-masala-chai-250-g-pack-of-1-total-250-g-high-grown-nilgiri-tea-150-years-of-heritage): Buy authentic GLENDALE Masala Chai from 150-year heritage estate. Premium high-grown Nilgiri tea with traditional spice blend. 250g aromatic masala tea. Perfect authentic chai from Glendale Estate.
-  Updated: 2026-02-09T06:08:15Z
+  Updated: 2026-02-17T06:04:41Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -2071,25 +2053,25 @@
 ## Collections
 
 - [Explore OotyMade.com for Nilgiri Oil, Ooty Varkey, homemade chocolate,tea powder](https://ootymade.com/collections/ootymade-com-your-ultimate-online-store-for-authentic-nilgiris-products): Welcome to OotyMade.com, your go-to online store for authentic Nilgiris products. Indulge in the finest Nilgiri oil, Ooty Varkey, and exquisite chocolates from the renowned Ooty Chocolate Factory. Discover a delectable range, including homemade chocolates, green tea, cardamom tea, and more. Enjoy factory-fresh goodness with nationwide delivery to all pincodes in India.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 86
 - [Ooty Varkey Online: Authentic Factory Fresh Biscuits Wholesale - OotyMade](https://ootymade.com/collections/shop-ooty-varkey-online-authentic-varkey-biscuits-factory-fresh): Buy authentic Ooty Varkey biscuits online from traditional factories. Crispy, flaky, buttery traditional biscuits made fresh daily. Wholesale prices available. Experience the legendary taste of Nilgiris Varkey delivered across India. Perfect for gifting & snacking.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 4
 - [Best Ooty Chocolates Collection: Factory Fresh & Handmade Delights Online](https://ootymade.com/collections/shop-the-finest-ooty-chocolates-factory-fresh-homemade-goodness): Shop the finest Ooty chocolates online - factory fresh dark, white & milk chocolate handmade in Nilgiri Hills. Premium quality, authentic taste, delivered fresh across India.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 36
 - [Ooty Essential Oils: Nilgiri Eucalyptus, Gaultheria & Pain Relief - OotyMade](https://ootymade.com/collections/ooty-essential-oils-online-store-eucalyptus-nilgiri-joint-pain-relief-n-more): Buy pure Ooty essential oils online - Nilgiri eucalyptus, Gaultheria, citronella, rose, sandalwood oils. Organic, therapeutic grade for joint pain relief, aromatherapy & wellness. Authentic Nilgiri oils delivered fresh across India.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 21
 - [Ooty Tea Factory Online: Authentic Nilgiris Tea Powder Best Price - OotyMade](https://ootymade.com/collections/ooty-tea-factory-online-shopping-authentic-ooty-tea-powder-best-price): Shop authentic Ooty tea powder online from premium Nilgiri tea estates. Fresh black tea, green tea, orthodox & masala chai from Ooty tea factory. Best prices, delivered fresh across India. Experience genuine Nilgiris tea taste.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 53
 - [Recommended products (Seguno)](https://ootymade.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-02-11T12:07:31Z
-  Total Products: 160
+  Updated: 2026-02-18T12:07:12Z
+  Total Products: 159
 - [Our Gift Boxes are the Perfect Gift for your family, friends,customers](https://ootymade.com/collections/special-gift-combo-packs): Our Delicious Chocolate Combo Packs,Tea Special Assorted Packs, Ooty Special Varkey, Essential Oils Combo Packs are the perfect gift for your family, friends, customers and employees at any time, especially during Birthday,Anniversary,Diwali,New Year,Pongal.... and all the holiday season. We can personalize your gifts too, to add a warm touch to it. Remember to order for your friends, kith, kins and to treat yourself, too. You can contact us if you require any Special Customized Gift Packs as per your requirements and Expectations
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-16T12:06:15Z
   Total Products: 16
 - [Buy Premium Quality Dried Fruits and Nut at Lower price on Online](https://ootymade.com/collections/dried-fruits-and-nuts): Buy Premium Quality Dry Fruits at lowest prices on Online , Dry fruits, Especially nuts such as Almond,Cashew Nut, Raisin,Dates etc.
 Dry fruits and Nuts are traditionally known to be a powerhouse of nutrients.
@@ -2097,19 +2079,19 @@ Give yourself and your loved once with the gift of health.
   Updated: 2026-02-04T12:07:18Z
   Total Products: 4
 - [AVADA Email Marketing - Best Sellers](https://ootymade.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 176
 - [AVADA Email Marketing - Newest Products](https://ootymade.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 176
 - [Ooty Chocolates: Dark, White & Milk Chocolate Factory Fresh - OotyMade](https://ootymade.com/collections/ooty-chocolates-dark-white-milk-factory-fresh): Shop premium Ooty chocolates handcrafted in Nilgiri Hills. Dark chocolate, white chocolate & milk chocolate made fresh at our factory. Authentic taste, delivered across India.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-18T12:07:12Z
   Total Products: 76
 - [Premium Attar Perfumes: Natural Scents for Men & Women Online - OotyMade](https://ootymade.com/collections/premium-attar-perfumes-best-for-men-women-buy-attar-scents-online): Buy premium attar perfumes online - natural, alcohol-free scents for men & women. Rose, sandalwood, musk, jasmine, oud attar. Traditional fragrance oils, long-lasting luxury. Best prices on authentic attar perfumes delivered across India. Perfect for gifting.
-  Updated: 2026-02-11T12:07:31Z
+  Updated: 2026-02-16T12:06:15Z
   Total Products: 15
 - [Buy Handmade Soap Online: Ooty Organic & Natural Varieties - OotyMade](https://ootymade.com/collections/buy-handmade-soap-online-premium-ooty-organic-and-natural-varieties): Buy premium handmade soap online - 100% organic & natural varieties from Ooty. Herbal, essential oil, charcoal, turmeric, neem soaps for all skin types. Chemical-free, eco-friendly, cruelty-free. Shop authentic handmade soaps delivered fresh across India. Perfect for sensitive skin & gifting.
-  Updated: 2026-02-05T12:06:34Z
+  Updated: 2026-02-15T12:07:06Z
   Total Products: 9
 
 ## Blogs
