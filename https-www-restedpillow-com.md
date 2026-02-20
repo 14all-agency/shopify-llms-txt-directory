@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-12T18:58:45Z
 - Contact Email: hello@restedpillow.com
-- Updated At: 2026-02-13T00:00:37.493Z
+- Updated At: 2026-02-20T00:00:40.537Z
 
 ## Products
 
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/bedder-days-184779.jpg?v=1741094664
     Price: $1,599.00 USD
 - [Mattress Protector](https://www.restedpillow.com/products/mattress-protector): Our mattress protector keeps your mattress clean with a waterproof barrier, protecting from accidents and stains, yet is breathable and can be dried on low heat.
-  Updated: 2025-10-27T00:09:34Z
+  Updated: 2026-02-13T17:13:37Z
   Vendor: Rested Pillow Mattress
   Product Type: Mattress Protector
   Availability: Available
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/mattress-protector-200053.jpg?v=1737816891
     Price: $109.00 USD
 - [Sleeping Bear Hybrid Mattress - Rested Pillow Mattress](https://www.restedpillow.com/products/sleeping-bear): Sleeping Bear is one of our most popular hybrid mattresses with its commercial-grade foam found in luxury hotels across America and hundreds of pocket springs.
-  Updated: 2026-02-04T18:34:09Z
+  Updated: 2026-02-16T16:58:15Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -213,7 +213,7 @@
     Availability: Available
     Price: $3,198.00 USD
 - [Sunny Side Up | Rested Pillow Mattress](https://www.restedpillow.com/products/sunny-side-up): Our Sunny Side Up hybrid mattress offers ultimate customization- unzip the top and change the comfort layer of natural latex to your desired feel.
-  Updated: 2026-01-12T18:43:06Z
+  Updated: 2026-02-18T17:24:55Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/sunny-side-up-504958.jpg?v=1739555010
     Price: $4,199.00 USD
 - [Adjustable Natural Latex Pillow - Rested Pillow Mattress](https://www.restedpillow.com/products/pillow): Our Adjustable Natural Latex Pillow's unique shape helps to provide relief from neck pain and is customizable to suit your comfort preference.
-  Updated: 2026-02-04T18:51:57Z
+  Updated: 2026-02-18T15:40:37Z
   Vendor: Rested Pillow Mattress
   Product Type: Pillow
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: $199.00 USD
 - [Wood Foundation](https://www.restedpillow.com/products/wood-foundation): Like the joist on the foundation of a house, our box spring frames have been built for over 40 years with slates placed vertically for extra strength. You'll be hard-pressed to find others who make vertical cross-slat frames! They take too long to make for most, but we know they will last immeasurably longer than traditional box spring frames.
-  Updated: 2026-02-04T20:13:37Z
+  Updated: 2026-02-17T19:43:07Z
   Vendor: Rested Pillow Mattress
   Product Type: Foundations
   Availability: Available
@@ -379,7 +379,7 @@
     Availability: Available
     Price: $399.00 USD
 - [Gel Microfiber Pillow](https://www.restedpillow.com/products/gel-microfiber-pillow)
-  Updated: 2025-07-18T14:19:10Z
+  Updated: 2026-02-19T19:38:38Z
   Vendor: Rested Pillow Mattress
   Product Type: Pillow
   Availability: Available
@@ -393,7 +393,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/GelledMicrofiberWhite_2-WB1412353277_original.jpg?v=1679536422
     Price: $79.00 USD
 - [Pretty Green | Rested Pillow Mattress](https://www.restedpillow.com/products/pretty-green): Our Pretty Green natural mattress is crafted with the highest-quality materials like Joma Wool®, GOTS  organic cotton, and 100% pure latex.
-  Updated: 2026-01-12T18:43:06Z
+  Updated: 2026-02-18T17:24:55Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -431,134 +431,134 @@
   - [Cal King - $4799 / Firm](https://www.restedpillow.com/products/pretty-green?variant=42375028867263)
     Availability: Available
     Price: $4,799.00 USD
-- [DreamFit® Pima Sheet Set](https://www.restedpillow.com/products/bamboo-sheets): Experience the pinnacle of comfort with DreamFit's DreamCool™ 100% Pima Cotton Sheet Set—a luxurious blend of premium quality and unparalleled softness. Crafted with care and attention to detail in the USA, these sheets feature their signature 1.5 inch no-slip patent color-coded FirstFit™ corner bands, ensuring a secure fit that stays in place on your mattress without slipping off. The long fibers of Pima cotton create a silky and smooth texture that is gentle on the skin. They drape nicely over the bed, creating an elegant and refined aesthetic. Material: 100% Cotton The Feel: The long fibers of Pima cotton create a silky and smooth texture that is gentle on the skin. The Look: They drape nicely over the bed, creating an elegant and refined aesthetic. The Weave: Sateen
-  Updated: 2025-09-03T01:45:31Z
+- [DreamFit® Pima Cotton Sheet Set](https://www.restedpillow.com/products/pima-sheets): Experience the pinnacle of comfort with DreamFit's DreamCool™ 100% Pima Cotton Sheet Set—a luxurious blend of premium quality and unparalleled softness. Crafted with care and attention to detail in the USA, these sheets feature their signature 1.5 inch no-slip patent color-coded FirstFit™ corner bands, ensuring a secure fit that stays in place on your mattress without slipping off. The long fibers of Pima cotton create a silky and smooth texture that is gentle on the skin. They drape nicely over the bed, creating an elegant and refined aesthetic. Material: 100% Cotton The Feel: The long fibers of Pima cotton create a silky and smooth texture that is gentle on the skin. The Look: They drape nicely over the bed, creating an elegant and refined aesthetic. The Weave: Sateen
+  Updated: 2026-02-19T05:07:10Z
   Vendor: Rested Pillow Mattress
   Product Type: Sheets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
-  - [Twin / White](https://www.restedpillow.com/products/bamboo-sheets?variant=44510558421183)
+  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
+  - [Twin - $129 / White](https://www.restedpillow.com/products/pima-sheets?variant=44510558421183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
+    Price: $129.00 USD
+  - [Twin - $129 / Gray](https://www.restedpillow.com/products/pima-sheets?variant=44510558453951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-9990619.webp?v=1771477629
+    Price: $129.00 USD
+  - [Twin - $129 / Blue](https://www.restedpillow.com/products/pima-sheets?variant=44510558486719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-6823507.webp?v=1771477629
+    Price: $129.00 USD
+  - [Twin - $129 / Sage](https://www.restedpillow.com/products/pima-sheets?variant=44510558519487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-8019510.webp?v=1771477629
+    Price: $129.00 USD
+  - [Twin - $129 / Ivory](https://www.restedpillow.com/products/pima-sheets?variant=44510558552255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
+    Price: $129.00 USD
+  - [TXL - $139 / White](https://www.restedpillow.com/products/pima-sheets?variant=44510559338687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
+    Price: $139.00 USD
+  - [TXL - $139 / Gray](https://www.restedpillow.com/products/pima-sheets?variant=44510559371455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-9990619.webp?v=1771477629
+    Price: $139.00 USD
+  - [TXL - $139 / Blue](https://www.restedpillow.com/products/pima-sheets?variant=44510559404223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-6823507.webp?v=1771477629
+    Price: $139.00 USD
+  - [TXL - $139 / Sage](https://www.restedpillow.com/products/pima-sheets?variant=44510559436991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-8019510.webp?v=1771477629
+    Price: $139.00 USD
+  - [TXL - $139 / Ivory](https://www.restedpillow.com/products/pima-sheets?variant=44510559469759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
+    Price: $139.00 USD
+  - [Full - $159 / White](https://www.restedpillow.com/products/pima-sheets?variant=44323323347135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
     Price: $159.00 USD
-  - [Twin / Gray](https://www.restedpillow.com/products/bamboo-sheets?variant=44510558453951)
+  - [Full - $159 / Gray](https://www.restedpillow.com/products/pima-sheets?variant=44323329343679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Grey_1729bce9-873f-43c1-8d26-6f82751e1fae.webp?v=1756825907
-    Price: $169.00 USD
-  - [Twin / Blue](https://www.restedpillow.com/products/bamboo-sheets?variant=44510558486719)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Blue_9498da8e-101d-4b08-b26f-d8d6bb5038fd.webp?v=1756825907
-    Price: $169.00 USD
-  - [Twin / Sage](https://www.restedpillow.com/products/bamboo-sheets?variant=44510558519487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Sage_5f73fc7c-d488-44d5-a704-2e434980a181.webp?v=1756825907
-    Price: $169.00 USD
-  - [Twin / Ivory](https://www.restedpillow.com/products/bamboo-sheets?variant=44510558552255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Ivory_a1a84da8-f0ab-45eb-9cbe-5683e90cb9d0.webp?v=1756825907
-    Price: $169.00 USD
-  - [TXL / White](https://www.restedpillow.com/products/bamboo-sheets?variant=44510559338687)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-9990619.webp?v=1771477629
     Price: $159.00 USD
-  - [TXL / Gray](https://www.restedpillow.com/products/bamboo-sheets?variant=44510559371455)
+  - [Full - $159 / Blue](https://www.restedpillow.com/products/pima-sheets?variant=44323329376447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Grey_1729bce9-873f-43c1-8d26-6f82751e1fae.webp?v=1756825907
-    Price: $169.00 USD
-  - [TXL / Blue](https://www.restedpillow.com/products/bamboo-sheets?variant=44510559404223)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-6823507.webp?v=1771477629
+    Price: $159.00 USD
+  - [Full - $159 / Sage](https://www.restedpillow.com/products/pima-sheets?variant=44323330621631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Blue_9498da8e-101d-4b08-b26f-d8d6bb5038fd.webp?v=1756825907
-    Price: $169.00 USD
-  - [TXL / Sage](https://www.restedpillow.com/products/bamboo-sheets?variant=44510559436991)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-8019510.webp?v=1771477629
+    Price: $159.00 USD
+  - [Full - $159 / Ivory](https://www.restedpillow.com/products/pima-sheets?variant=44323331113151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Sage_5f73fc7c-d488-44d5-a704-2e434980a181.webp?v=1756825907
-    Price: $169.00 USD
-  - [TXL / Ivory](https://www.restedpillow.com/products/bamboo-sheets?variant=44510559469759)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
+    Price: $159.00 USD
+  - [Queen - $179 / White](https://www.restedpillow.com/products/pima-sheets?variant=44323323379903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Ivory_a1a84da8-f0ab-45eb-9cbe-5683e90cb9d0.webp?v=1756825907
-    Price: $169.00 USD
-  - [Full / White](https://www.restedpillow.com/products/bamboo-sheets?variant=44323323347135)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
     Price: $179.00 USD
-  - [Full / Gray](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329343679)
+  - [Queen - $179 / Gray](https://www.restedpillow.com/products/pima-sheets?variant=44323329409215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Grey_1729bce9-873f-43c1-8d26-6f82751e1fae.webp?v=1756825907
-    Price: $189.00 USD
-  - [Full / Blue](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329376447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Blue_9498da8e-101d-4b08-b26f-d8d6bb5038fd.webp?v=1756825907
-    Price: $189.00 USD
-  - [Full / Sage](https://www.restedpillow.com/products/bamboo-sheets?variant=44323330621631)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Sage_5f73fc7c-d488-44d5-a704-2e434980a181.webp?v=1756825907
-    Price: $189.00 USD
-  - [Full / Ivory](https://www.restedpillow.com/products/bamboo-sheets?variant=44323331113151)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Ivory_a1a84da8-f0ab-45eb-9cbe-5683e90cb9d0.webp?v=1756825907
-    Price: $189.00 USD
-  - [Queen / White](https://www.restedpillow.com/products/bamboo-sheets?variant=44323323379903)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-9990619.webp?v=1771477629
     Price: $179.00 USD
-  - [Queen / Gray](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329409215)
+  - [Queen - $179 / Blue](https://www.restedpillow.com/products/pima-sheets?variant=44323329441983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Grey_1729bce9-873f-43c1-8d26-6f82751e1fae.webp?v=1756825907
-    Price: $189.00 USD
-  - [Queen / Blue](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329441983)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-6823507.webp?v=1771477629
+    Price: $179.00 USD
+  - [Queen - $179 / Sage](https://www.restedpillow.com/products/pima-sheets?variant=44323330654399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Blue_9498da8e-101d-4b08-b26f-d8d6bb5038fd.webp?v=1756825907
-    Price: $189.00 USD
-  - [Queen / Sage](https://www.restedpillow.com/products/bamboo-sheets?variant=44323330654399)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-8019510.webp?v=1771477629
+    Price: $179.00 USD
+  - [Queen - $179 / Ivory](https://www.restedpillow.com/products/pima-sheets?variant=44323331145919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Sage_5f73fc7c-d488-44d5-a704-2e434980a181.webp?v=1756825907
-    Price: $189.00 USD
-  - [Queen / Ivory](https://www.restedpillow.com/products/bamboo-sheets?variant=44323331145919)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
+    Price: $179.00 USD
+  - [King - $199 / White](https://www.restedpillow.com/products/pima-sheets?variant=44323323412671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Ivory_a1a84da8-f0ab-45eb-9cbe-5683e90cb9d0.webp?v=1756825907
-    Price: $189.00 USD
-  - [King / White](https://www.restedpillow.com/products/bamboo-sheets?variant=44323323412671)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
     Price: $199.00 USD
-  - [King / Gray](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329474751)
+  - [King - $199 / Gray](https://www.restedpillow.com/products/pima-sheets?variant=44323329474751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Grey_1729bce9-873f-43c1-8d26-6f82751e1fae.webp?v=1756825907
-    Price: $209.00 USD
-  - [King / Blue](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329507519)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-9990619.webp?v=1771477629
+    Price: $199.00 USD
+  - [King - $199 / Blue](https://www.restedpillow.com/products/pima-sheets?variant=44323329507519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Blue_9498da8e-101d-4b08-b26f-d8d6bb5038fd.webp?v=1756825907
-    Price: $209.00 USD
-  - [King / Sage](https://www.restedpillow.com/products/bamboo-sheets?variant=44323330687167)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-6823507.webp?v=1771477629
+    Price: $199.00 USD
+  - [King - $199 / Sage](https://www.restedpillow.com/products/pima-sheets?variant=44323330687167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Sage_5f73fc7c-d488-44d5-a704-2e434980a181.webp?v=1756825907
-    Price: $209.00 USD
-  - [King / Ivory](https://www.restedpillow.com/products/bamboo-sheets?variant=44323331178687)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-8019510.webp?v=1771477629
+    Price: $199.00 USD
+  - [King - $199 / Ivory](https://www.restedpillow.com/products/pima-sheets?variant=44323331178687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Ivory_a1a84da8-f0ab-45eb-9cbe-5683e90cb9d0.webp?v=1756825907
-    Price: $209.00 USD
-  - [Split King / White](https://www.restedpillow.com/products/bamboo-sheets?variant=44323323445439)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
+    Price: $199.00 USD
+  - [Split King - $249 / White](https://www.restedpillow.com/products/pima-sheets?variant=44323323445439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-White_0504c401-193c-4044-a1f3-7d4dd2f9a373.webp?v=1756825907
-    Price: $209.00 USD
-  - [Split King / Gray](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329540287)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7476321.webp?v=1771477629
+    Price: $249.00 USD
+  - [Split King - $249 / Gray](https://www.restedpillow.com/products/pima-sheets?variant=44323329540287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Grey_1729bce9-873f-43c1-8d26-6f82751e1fae.webp?v=1756825907
-    Price: $219.00 USD
-  - [Split King / Blue](https://www.restedpillow.com/products/bamboo-sheets?variant=44323329573055)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-9990619.webp?v=1771477629
+    Price: $249.00 USD
+  - [Split King - $249 / Blue](https://www.restedpillow.com/products/pima-sheets?variant=44323329573055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Blue_9498da8e-101d-4b08-b26f-d8d6bb5038fd.webp?v=1756825907
-    Price: $219.00 USD
-  - [Split King / Sage](https://www.restedpillow.com/products/bamboo-sheets?variant=44323330719935)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-6823507.webp?v=1771477629
+    Price: $249.00 USD
+  - [Split King - $249 / Sage](https://www.restedpillow.com/products/pima-sheets?variant=44323330719935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Sage_5f73fc7c-d488-44d5-a704-2e434980a181.webp?v=1756825907
-    Price: $219.00 USD
-  - [Split King / Ivory](https://www.restedpillow.com/products/bamboo-sheets?variant=44323331211455)
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-8019510.webp?v=1771477629
+    Price: $249.00 USD
+  - [Split King - $249 / Ivory](https://www.restedpillow.com/products/pima-sheets?variant=44323331211455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/PimaCotton-Sheets-Stack-Ivory_a1a84da8-f0ab-45eb-9cbe-5683e90cb9d0.webp?v=1756825907
-    Price: $219.00 USD
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-pima-cotton-sheet-set-7435307.webp?v=1771477629
+    Price: $249.00 USD
 - [Way We Were | Rested Pillow Mattress](https://www.restedpillow.com/products/way-we-were): Our Way We Were mattress is a 2-sided, flippable hybrid mattress and is hand-tufted for years of lasting comfort.
-  Updated: 2025-10-17T15:57:50Z
+  Updated: 2026-02-18T20:41:15Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -584,7 +584,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/products/way-we-were-857617.jpg?v=1741047282
     Price: $1,899.00 USD
 - [Nightcap | Rested Pillow Mattress](https://www.restedpillow.com/products/nightcap): The Nightcap hybrid mattress features 3" of luxurious Serene® foam and offers the ultimate in customization, allowing you to unzip the top of the mattress.
-  Updated: 2026-02-04T20:13:37Z
+  Updated: 2026-02-18T17:24:55Z
   Vendor: Rested Pillow Mattress
   Product Type: Hybrid
   Availability: Available
@@ -925,7 +925,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1_d85d7309-2289-41eb-90b8-bbf30894de87.png?v=1745935076
   Price: $0.00 USD
 - [Delivery & Install: Mattress + Base](https://www.restedpillow.com/products/delivery-install-mattress-base)
-  Updated: 2025-07-25T16:30:28Z
+  Updated: 2026-02-13T21:05:30Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -981,7 +981,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Truck_Icon_Blue_3_1.png?v=1745935016
   Price: $299.00 USD
 - [Freight](https://www.restedpillow.com/products/freight)
-  Updated: 2025-08-04T01:25:53Z
+  Updated: 2026-02-18T20:41:14Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
@@ -1082,7 +1082,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/mlfzzkk3l90dd_kingz_triple_layer_down_pillow.jpg?v=1738426019
   Price: $139.00 USD
 - [Mattress Topper](https://www.restedpillow.com/products/mattress-topper)
-  Updated: 2026-02-11T16:22:16Z
+  Updated: 2026-02-18T21:44:13Z
   Vendor: Rested Pillow Mattress 
   Product Type: Foam
   Availability: Available
@@ -1303,14 +1303,14 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Spoon_Til_Noon_Side_1.jpg?v=1750915232
     Price: $3,899.00 USD
 - [Disposal](https://www.restedpillow.com/products/uninstall)
-  Updated: 2026-02-04T18:34:09Z
+  Updated: 2026-02-13T21:05:30Z
   Vendor: Rested Pillow Mattress 
   Product Type: Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2025-06-26112419.png?v=1750951468
   Price: $10.00 USD
 - [Adjustable Base](https://www.restedpillow.com/products/adjustable-base)
-  Updated: 2025-07-17T22:03:40Z
+  Updated: 2026-02-13T21:05:25Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1377,7 +1377,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Untitled_1200x1200px.png?v=1750915058
     Price: $59.00 USD
 - [Hanover](https://www.restedpillow.com/products/hanover)
-  Updated: 2025-07-29T09:25:27Z
+  Updated: 2026-02-13T17:13:39Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1461,12 +1461,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Brooklin-Mattress-CB_2933.png?v=1750913003
     Price: $2,199.00 USD
-- [DreamCool™ Mattress Protector](https://www.restedpillow.com/products/df-cooling-protector): DreamFit® brand's Best  Mattress Protector, the eucalyptus fibers in their DreamCool™ Mattress Protector are silky soft, comfortable, and quiet. The eucalyptus creates a dual climate sleep zone for partners with different temperature preferences. It's also 100% waterproof, and moisture-wicking. StaDry® in the cover captures, moves, and releases moisture for healthy sleep. Breathable for enhanced airflow and comfort. Bacteria and allergen resistant. Luxury sizing to fit today's thicker mattresses.
-  Updated: 2026-02-04T18:34:10Z
+- [DreamCool™ Mattress Protector](https://www.restedpillow.com/products/df-cooling-protector): Our Best  Mattress Protector, the eucalyptus fibers in their DreamCool™ Mattress Protector are silky soft, comfortable, and quiet. The eucalyptus creates a dual climate sleep zone for partners with different temperature preferences. It's also 100% waterproof, and moisture-wicking. StaDry® in the cover captures, moves, and releases moisture for healthy sleep. Breathable for enhanced airflow and comfort. Bacteria and allergen resistant. Luxury sizing to fit today's thicker mattresses.
+  Updated: 2026-02-19T22:36:28Z
   Vendor: Rested Pillow Mattress 
   Product Type: Mattress Protector
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamcool-mattress-protector-7944296.webp?v=1756996963
+  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamcool-mattress-protector-9339617.jpg?v=1771477566
   - [Twin -$99](https://www.restedpillow.com/products/df-cooling-protector?variant=44197906088127)
     Availability: Available
     Price: $99.00 USD
@@ -1476,20 +1476,20 @@
   - [Full - $109](https://www.restedpillow.com/products/df-cooling-protector?variant=44197906120895)
     Availability: Available
     Price: $109.00 USD
-  - [Queen - $129](https://www.restedpillow.com/products/df-cooling-protector?variant=44197905957055)
-    Availability: Available
-    Price: $129.00 USD
-  - [King - $149](https://www.restedpillow.com/products/df-cooling-protector?variant=44197905989823)
+  - [Queen - $149](https://www.restedpillow.com/products/df-cooling-protector?variant=44197905957055)
     Availability: Available
     Price: $149.00 USD
-  - [California King - $159](https://www.restedpillow.com/products/df-cooling-protector?variant=44197906022591)
+  - [King - $179](https://www.restedpillow.com/products/df-cooling-protector?variant=44197905989823)
     Availability: Available
-    Price: $159.00 USD
-  - [Split King - $159](https://www.restedpillow.com/products/df-cooling-protector?variant=44197906153663)
+    Price: $179.00 USD
+  - [California King - $199](https://www.restedpillow.com/products/df-cooling-protector?variant=44197906022591)
     Availability: Available
-    Price: $159.00 USD
+    Price: $199.00 USD
+  - [Split King - $199](https://www.restedpillow.com/products/df-cooling-protector?variant=44197906153663)
+    Availability: Available
+    Price: $199.00 USD
 - [DreamFit Pillow Protector](https://www.restedpillow.com/products/dreamfit-pillow-protector)
-  Updated: 2025-07-25T19:55:35Z
+  Updated: 2026-02-17T21:15:12Z
   Vendor: Rested Pillow Mattress 
   Product Type: Pillow Protector
   Availability: Available
@@ -1510,7 +1510,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2025-06-26003544.png?v=1750912557
   Price: $10.00 USD
 - [Synchrony HOME Financing](https://www.restedpillow.com/products/synchrony-home-financing)
-  Updated: 2025-07-22T15:35:10Z
+  Updated: 2026-02-13T17:13:38Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1577,7 +1577,7 @@
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/Screenshot2025-06-16124229.png?v=1750092160
   Price: $299.00 USD
 - [DreamFit Enhanced Bamboo Sheet Set](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo)
-  Updated: 2025-12-04T18:53:37Z
+  Updated: 2026-02-18T17:28:48Z
   Vendor: Rested Pillow Mattress 
   Product Type: 
   Availability: Available
@@ -1700,6 +1700,132 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1433/2910/files/thumbnail_IMG_7346_2c3da020-a56c-4e0a-ad2e-bef619606019.jpg?v=1756566417
   Price: $999.00 USD
+- [DreamFit® Enhanced Bamboo Sheet Set](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set): DreamFit's Best  Sheet Set. Bask in the luxury of DreamFit's Enhanced Bamboo Sheet Set—a true testament to comfort, quality, and American craftsmanship. Recognized as one of the Top 25 Best Bedsheets of 2023 by Cosmopolitan, these sheets are designed to elevate your Rest experience to new heights. Crafted with care and precision in the USA, the DreamFit® Enhanced Bamboo Sheet Set features their signature 1.5-inch no-slip patent color-coded FirstFit™ corner bands, ensuring a secure fit that stays in place on your mattress without slipping off. Material: 70% Viscose from Bamboo / 30% Cotton The Feel: Crisp and cool, exceptionally breathable, and grows even softer with each wash. The Look: Lightweight with a subtle, soft drape. The Weave: Sateen
+  Updated: 2026-02-19T05:06:21Z
+  Vendor: Rested Pillow Mattress
+  Product Type: Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+  - [Twin - $169 / White](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568513727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+    Price: $169.00 USD
+  - [Twin - $169 / Gray](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568546495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6525262.webp?v=1771477569
+    Price: $169.00 USD
+  - [Twin - $169 / Blue](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568579263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-9812756.webp?v=1771477569
+    Price: $169.00 USD
+  - [Twin - $169 / Sage](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568612031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-7131378.webp?v=1771477569
+    Price: $169.00 USD
+  - [Twin - $169 / Ivory](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568644799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
+    Price: $169.00 USD
+  - [TXL - $179 / White](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568677567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+    Price: $179.00 USD
+  - [TXL - $179 / Gray](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568710335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6525262.webp?v=1771477569
+    Price: $179.00 USD
+  - [TXL - $179 / Blue](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568743103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-9812756.webp?v=1771477569
+    Price: $179.00 USD
+  - [TXL - $179 / Sage](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568775871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-7131378.webp?v=1771477569
+    Price: $179.00 USD
+  - [TXL - $179 / Ivory](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568808639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
+    Price: $179.00 USD
+  - [Full - $209 / White](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568841407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+    Price: $209.00 USD
+  - [Full - $209 / Gray](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568874175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6525262.webp?v=1771477569
+    Price: $209.00 USD
+  - [Full - $209 / Blue](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568906943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-9812756.webp?v=1771477569
+    Price: $209.00 USD
+  - [Full - $209 / Sage](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568939711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-7131378.webp?v=1771477569
+    Price: $209.00 USD
+  - [Full - $209 / Ivory](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510568972479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
+    Price: $209.00 USD
+  - [Queen - $249 / White](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569005247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+    Price: $249.00 USD
+  - [Queen - $249 / Gray](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569038015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6525262.webp?v=1771477569
+    Price: $249.00 USD
+  - [Queen - $249 / Blue](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569070783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-9812756.webp?v=1771477569
+    Price: $249.00 USD
+  - [Queen - $249 / Sage](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569103551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-7131378.webp?v=1771477569
+    Price: $249.00 USD
+  - [Queen - $249 / Ivory](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569136319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
+    Price: $249.00 USD
+  - [King - $269 / White](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569169087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+    Price: $269.00 USD
+  - [King - $269 / Gray](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569201855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6525262.webp?v=1771477569
+    Price: $269.00 USD
+  - [King - $269 / Blue](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569234623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-9812756.webp?v=1771477569
+    Price: $269.00 USD
+  - [King - $269 / Sage](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569267391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-7131378.webp?v=1771477569
+    Price: $269.00 USD
+  - [King - $269 / Ivory](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569300159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
+    Price: $269.00 USD
+  - [Split King - $299 / White](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569332927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6118853.webp?v=1771477569
+    Price: $299.00 USD
+  - [Split King - $299 / Gray](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569365695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-6525262.webp?v=1771477569
+    Price: $299.00 USD
+  - [Split King - $299 / Blue](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569398463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-9812756.webp?v=1771477569
+    Price: $299.00 USD
+  - [Split King - $299 / Sage](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569431231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-7131378.webp?v=1771477569
+    Price: $299.00 USD
+  - [Split King - $299 / Ivory](https://www.restedpillow.com/products/dreamfit-enhanced-bamboo-sheet-set?variant=44510569463999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1433/2910/files/dreamfit-enhanced-bamboo-sheet-set-1525924.webp?v=1771477569
+    Price: $299.00 USD
 - [Bedder Days Plush](https://www.restedpillow.com/products/bedder-days-plush)
   Updated: 2025-09-25T20:21:59Z
   Vendor: Rested Pillow Mattress 
@@ -1727,7 +1853,7 @@
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/IMG_9300.jpg?v=1758814019
     Price: $1,899.00 USD
 - [DreamFit DreamComfort Protector](https://www.restedpillow.com/products/dreamfit-stadry-protector)
-  Updated: 2026-01-28T16:12:50Z
+  Updated: 2026-02-19T22:49:28Z
   Vendor: DreamFit
   Product Type: Mattress Protector
   Availability: Available
@@ -1743,21 +1869,21 @@
   - [Full](https://www.restedpillow.com/products/dreamfit-stadry-protector?variant=44779954340031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/DFSDM00-_.01.avif?v=1763144310
-    Price: $79.00 USD
+    Price: $89.00 USD
   - [Queen](https://www.restedpillow.com/products/dreamfit-stadry-protector?variant=44779954569407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/DFSDM00-_.01.avif?v=1763144310
-    Price: $79.00 USD
+    Price: $99.00 USD
   - [King](https://www.restedpillow.com/products/dreamfit-stadry-protector?variant=44779954929855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/DFSDM00-_.01.avif?v=1763144310
-    Price: $99.00 USD
+    Price: $109.00 USD
   - [Split King](https://www.restedpillow.com/products/dreamfit-stadry-protector?variant=44779957387455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1433/2910/files/DFSDM00-_.01.avif?v=1763144310
-    Price: $109.00 USD
+    Price: $169.00 USD
 - [Q Head Up Only Adjustable Base](https://www.restedpillow.com/products/q-head-up-only-adjustable-base)
-  Updated: 2026-01-28T07:47:30Z
+  Updated: 2026-02-13T17:13:28Z
   Vendor: Malouf
   Product Type: Foundations
   Availability: Available
@@ -1774,88 +1900,88 @@
 ## Collections
 
 - [Pillows](https://www.restedpillow.com/collections/pillows)
-  Updated: 2026-02-06T12:04:53Z
+  Updated: 2026-02-18T12:03:47Z
   Total Products: 4
 - [Handmade Mattresses in Michigan | Find Your Perfect Fit – Rested Pillow](https://www.restedpillow.com/collections/mattresses): Discover handcrafted mattresses made in Michigan with the highest quality materials. Enjoy customized comfort and expert, zero-pressure guidance.
-  Updated: 2026-02-12T12:03:23Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 24
 - [Foundations | Rested Pillow Mattress](https://www.restedpillow.com/collections/foundations): Sleep in comfort and extend the durability of your Rested Pillow Mattress with our collection of high quality mattress foundations and bed bases.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-18T12:03:47Z
   Total Products: 12
 - [Best  Mattresses | Rested Pillow Mattress](https://www.restedpillow.com/collections/best-sellers): Shop our best  mattresses, in a variety of sizes, handcrafted in Michigan and available to ship all over the United States or deliver to Southwest MI.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 9
 - [Bedding](https://www.restedpillow.com/collections/bedding)
-  Updated: 2026-02-12T12:03:23Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 11
 - [Standard 11”-14”](https://www.restedpillow.com/collections/standard-11-14)
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 7
 - [Deep 15"-16"](https://www.restedpillow.com/collections/deep-15-16)
-  Updated: 2026-02-08T12:04:22Z
+  Updated: 2026-02-15T12:04:41Z
   Total Products: 3
 - [Handcrafted Flippable Mattresses Made in Michigan](https://www.restedpillow.com/collections/flippable-mattresses): Experience the lasting comfort of two-sided mattresses, handcrafted with integrity right here in Michigan. Built to last, made the right way.
-  Updated: 2026-01-17T12:03:42Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 2
 - [Extra Firm Mattresses for Back Support | Made in Michigan](https://www.restedpillow.com/collections/extra-firm-mattresses): Experience the difference of Michigan-made extra firm mattresses designed for back pain relief and spinal support. No corners cut. Made the right way.
-  Updated: 2026-02-08T12:04:22Z
+  Updated: 2026-02-14T12:03:53Z
   Total Products: 2
 - [Premium Firm Mattresses | Outstanding Support | Handcrafted in USA](https://www.restedpillow.com/collections/firm-mattresses): Improve your sleep with handcrafted firm mattresses, Made in the USA using natural materials and artisan craftsmanship for luxury comfort and support.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 9
 - [Medium Mattresses](https://www.restedpillow.com/collections/medium-mattresses): Striking the perfect balance between comfort and support, a medium mattress is ideal for combination and side sleepers. For those exploring options, our complete guide to hybrids explains how these mattresses deliver both pressure relief and lasting support, making them a smart choice for a wide range of sleepers. Lovingly handcrafted in Michigan, all Rested Pillow Mattresses are made to order. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-02-08T12:04:22Z
+  Updated: 2026-02-15T12:04:41Z
   Total Products: 5
 - [Plush Mattresses | Luxury Softness For Restorative Sleep](https://www.restedpillow.com/collections/plush-mattresses): Experience ultimate comfort and support with our Michigan-made plush mattresses. Enjoy luxurious softness that’s made to order.
-  Updated: 2026-02-08T12:04:22Z
+  Updated: 2026-02-17T12:03:47Z
   Total Products: 8
 - [Traditional Mattresses](https://www.restedpillow.com/collections/traditional-mattresses)
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 7
 - [Customizable Zipper Mattresses | 100 Night Comfort Guarantee](https://www.restedpillow.com/collections/customizable): Discover our range of luxurious zipper mattresses made right here in Michigan, designed to give you truly great sleep with customizable comfort made to last.
-  Updated: 2026-02-08T12:04:22Z
+  Updated: 2026-02-15T12:04:41Z
   Total Products: 3
 - [Best Mattress in a Box | Handcrafted Comfort and Support](https://www.restedpillow.com/collections/mattress-in-a-box-mattresses): Discover the best mattress in a box—handcrafted with premium materials for lasting comfort and support. Shop bespoke, Michigan-made mattresses today.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 10
 - [Hybrid Mattresses](https://www.restedpillow.com/collections/hybrid-mattresses): A Hybrid mattress consists of individually pocketed coils for support, with layers of comfort materials on top. Learn more about hybrid construction. Thanks to the perfect balance between comfort and support, the hybrid mattress is very popular with back and side sleepers and those who feel too hot when sleeping. All of our Rested Pillow hybrid mattresses have pocket coil units that run edge-to-edge, offering breathability and superior support with reduced motion transfer between partners. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 8
 - [Luxury California King Mattresses | Bespoke, Handcrafted Comfort](https://www.restedpillow.com/collections/california-king-mattresses): Indulge in artisan-crafted California King mattresses made in the USA. Made for ultimate luxury, our bespoke, natural mattresses offer premium comfort and support.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 12
 - [Handcrafted King Mattresses | Made in Michigan | Bespoke Comfort](https://www.restedpillow.com/collections/king-mattresses): Discover handcrafted king mattresses, made in Michigan with premium quality  materials. Experience bespoke luxury, superior comfort, and lasting quality.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 12
 - [Queen Mattresses | Handcrafted in Michigan | Rested Pillow](https://www.restedpillow.com/collections/queen-mattresses): Experience the Rested Pillow difference with our handcrafted queen mattresses made to order in Michigan, and enjoy unmatched comfort and quality.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 12
 - [Full Mattresses](https://www.restedpillow.com/collections/full-mattresses): A Full mattress, also known as a double, is a popular choice for single adults or growing kids and even a guest bedroom. A full may feel snug for couples who sleep with pets or prefer extra space, but is a good option for guest rooms or for couples who enjoy close quarters and who don’t need or want a larger mattress. At Rested Pillow, we take the time to fully understand what your individual needs are when buying a mattress and we put your sleep quality above all else. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 12
 - [Luxury Twin Mattresses | Handcrafted Quality Made in the USA](https://www.restedpillow.com/collections/twin-mattresses): Discover bespoke twin mattresses made in the USA. Experience artisan-quality comfort using the finest materials tailored for a perfect night's sleep.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 11
 - [Twin XL Mattresses](https://www.restedpillow.com/collections/twin-xl-mattresses): The Twin XL mattress is the perfect size for growing teens or those with smaller bedrooms. Handmade to order in Michigan and using only the very best materials, our mattresses are made with comfort, sleep quality, and longevity in mind. Take our personalized Sleep Quiz and find your perfect mattress.
-  Updated: 2026-02-11T12:04:38Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 12
 - [Comfort Layer](https://www.restedpillow.com/collections/comfort-layer)
-  Updated: 2026-01-31T12:03:31Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 5
 - [Handcrafted Pillowtop Mattresses - Made in Michigan, USA](https://www.restedpillow.com/collections/pillowtop-mattresses): Discover handcrafted, made-to-order pillowtop mattresses from Rested Pillow. Artisan quality, made in Michigan. Shop bespoke luxury comfort today.
-  Updated: 2026-02-08T12:04:22Z
+  Updated: 2026-02-15T12:04:41Z
   Total Products: 4
 - [Luxurious Natural Mattresses – Handcrafted in Michigan, USA](https://www.restedpillow.com/collections/natural-mattresses): Experience the luxury of a handcrafted natural mattress from our family-run Michigan workshop. Bespoke, eco-friendly, and made in the USA for ultimate comfort.
-  Updated: 2026-02-01T12:04:06Z
+  Updated: 2026-02-15T12:04:41Z
   Total Products: 2
 - [Delivery Services](https://www.restedpillow.com/collections/delivery-services)
-  Updated: 2026-02-12T12:03:23Z
+  Updated: 2026-02-19T12:03:17Z
   Total Products: 12
 - [Customer Care](https://www.restedpillow.com/collections/customer-care)
   Updated: 2026-01-17T12:03:43Z
   Total Products: 6
 - [Financing](https://www.restedpillow.com/collections/financing)
-  Updated: 2026-02-01T12:04:06Z
+  Updated: 2026-02-14T12:03:53Z
   Total Products: 1
 
 ## Blogs
@@ -1910,8 +2036,8 @@
   Updated: 2025-11-06T13:17:07Z
 - [Rested Pillow Showroom | St. Joseph, MI Mattress Store](https://www.restedpillow.com/pages/showroom): 
   Updated: 2025-11-07T17:00:30Z
-- [Financing](https://www.restedpillow.com/pages/financing): Rested Pillow Mattress offers Synchrony Financing plans with minimum monthly payments and zero interest if paid in full during the  peri...
-  Updated: 2025-10-10T15:08:38Z
+- [Financing Available | 0% Interest for 18 Months | Rested Pillow](https://www.restedpillow.com/pages/financing): Rested Pillow Mattress offers Synchrony financing with no money down, low monthly payments, and 0% interest. Choose 6, 12, or 24-month plans. Apply...
+  Updated: 2026-02-13T11:01:58Z
 - [Compare products](https://www.restedpillow.com/pages/compare): @keyframes cmp-spin {0% { transform: rotate(0deg) } 50% { transform: rotate(180deg) } 100% { transform: rotate(360deg) }} .cmp-spin div { display: ...
   Updated: 2024-11-02T14:45:46Z
 - [Book An Appointment](https://www.restedpillow.com/pages/book-an-appointment)
@@ -1928,7 +2054,7 @@
 - [Shipping Policy](https://www.restedpillow.com/policies/shipping-policy)
   Updated: 2023-01-16T14:55:37-05:00
 - [Refund Policy](https://www.restedpillow.com/policies/refund-policy)
-  Updated: 2023-01-16T14:55:37-05:00
+  Updated: 2026-02-18T12:50:08-05:00
 - [Terms of Service](https://www.restedpillow.com/policies/terms-of-service)
   Updated: 2023-01-16T14:55:37-05:00
 - [Contact Information](https://www.restedpillow.com/policies/contact-information)
