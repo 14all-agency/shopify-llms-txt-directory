@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-06-11T13:43:53Z
 - Contact Email: esthera@esthera.com
-- Updated At: 2026-02-12T17:56:12.973Z
+- Updated At: 2026-02-20T00:00:28.591Z
 
 ## Products
 
@@ -94,6 +94,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/7pm_areia_fur_frente_b5acd0f8-4217-4bd8-89b8-2e20252e2fad.png?v=1755189213
   Price: $586.00 USD
+- [4PM mini handbag Caramel](https://esthera.com/products/4pm-mini-handbag-caramel): The 4PM mini handbag Caramel blends a structured architectural design with the timeless appeal of premium leather. Its distinctive cubic shape is enhanced by organic details inspired by the hourglass, providing a sophisticated identity and an elegant finish. The tubular handles are engineered for comfort, giving you the flexibility to carry the bag by hand or style it over the shoulder. This eye-catching piece is an ideal companion for those seeking a versatile accessory with a bold, modern silhouette.
+  Updated: 2026-02-19T20:01:57Z
+  Vendor: Esthera US
+  Product Type: Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0682/5836/5500/files/4PM_mini_handbag_castanho_frente.png?v=1755189212
+  Price: $589.00 USD
 - [4PM maxi handbag Caramel](https://esthera.com/products/4pm-maxi-handbag-caramel): The 4PM maxi handbag Caramel redefines the classic tote with its striking architectural design and richly textured suede finish. At the heart of its construction are the fixed tubular handles, centered by a beautifully crafted hourglass element that serves as both a brand signature and a functional pivot. This allows the bag to be worn in two distinct ways, providing unmatched versatility and comfort for any occasion. Designed for those who appreciate innovative craftsmanship and a bold silhouette, it is a masterclass in contemporary luxury.
   Updated: 2026-02-09T03:00:05Z
   Vendor: Esthera US
@@ -338,11 +345,11 @@
 ## Collections
 
 - [Bags](https://esthera.com/collections/bag): Discover the perfect Esthera bag for every moment. Explore sophisticated designs, functional features, and premium quality crafted for modern life.
-  Updated: 2026-02-10T01:33:31Z
-  Total Products: 64
+  Updated: 2026-02-13T22:29:45Z
+  Total Products: 73
 - [Shoulder Bags](https://esthera.com/collections/shoulder-bags): The Esthera Shoulder Bags Collection offers spacious yet structured styles. Discover the perfect blend of daily practicality and timeless elegance.
-  Updated: 2026-02-10T01:33:31Z
-  Total Products: 54
+  Updated: 2026-02-13T22:29:45Z
+  Total Products: 63
 - [Crossbody Bags](https://esthera.com/collections/crossbody-bags): Shop the Esthera Crossbody Bags Collection. Discover versatile, hands-free designs that blend modern style with ultimate comfort for everyday use.
   Updated: 2026-02-09T02:59:05Z
   Total Products: 17
@@ -350,23 +357,23 @@
   Updated: 2026-02-09T02:59:05Z
   Total Products: 1
 - [Accessories](https://esthera.com/collections/accessories): Complete your look with the Esthera Accessories Collection. Discover unique belts, straps, and high-quality pieces designed to enhance your signature style.
-  Updated: 2026-02-10T01:24:00Z
-  Total Products: 9
+  Updated: 2026-02-13T22:58:11Z
+  Total Products: 16
 - [Home | Esthera](https://esthera.com/collections/home)
   Updated: 2025-12-05T17:38:52Z
   Total Products: 0
 - [AM | PM Collection](https://esthera.com/collections/am-pm-collection): AM|PM Esthera Collection reflects our belief in sophisticated design. Find versatile bags built for contemporary life and perfect day-to-night use.
-  Updated: 2026-02-10T01:26:37Z
-  Total Products: 52
+  Updated: 2026-02-13T23:27:18Z
+  Total Products: 77
 - [Crab Limited Collection](https://esthera.com/collections/crab-limited-collection): The Crab Limited Collection: Embrace unique, distinctive designs in this exclusive capsule. Sophisticated accessories available by Esthera.
   Updated: 2026-01-28T00:29:23Z
   Total Products: 5
 - [New arrivals](https://esthera.com/collections/new-in): The Esthera New Arrivals are here! Discover the newest bags, belts, and accessories, crafted with our signature sophistication and modern functionality.
-  Updated: 2026-02-10T01:33:02Z
-  Total Products: 49
+  Updated: 2026-02-13T22:29:45Z
+  Total Products: 58
 - [Belts](https://esthera.com/collections/belt): Complete your look with the Esthera Belts Collection. Discover premium leather and sophisticated designs that blend function and elevated style.
-  Updated: 2026-02-10T01:24:00Z
-  Total Products: 5
+  Updated: 2026-02-13T22:58:11Z
+  Total Products: 12
 - [Hand Bags](https://esthera.com/collections/hand-bag): Discover the Esthera Hand Bags Collection. Find polished designs crafted for ultimate elegance, meant to be carried by hand or gracefully on the forearm.
   Updated: 2026-02-09T03:00:08Z
   Total Products: 17
@@ -374,8 +381,8 @@
   Updated: 2025-12-16T17:55:37Z
   Total Products: 4
 - [All](https://esthera.com/collections/all): Explore the entire Esthera range. Find every functional and elegant piece, from handbags to belts, crafted with distinctive identity and lasting quality.
-  Updated: 2026-02-10T01:33:02Z
-  Total Products: 81
+  Updated: 2026-02-13T23:27:18Z
+  Total Products: 115
 - [10 AM](https://esthera.com/collections/10-am): The AM|PM Esthera Collection reflects our belief in sophisticated design. Find versatile bags built for contemporary life and perfect day-to-night use.
   Updated: 2026-02-09T03:00:08Z
   Total Products: 12
@@ -416,14 +423,14 @@
   Updated: 2026-02-09T03:00:07Z
   Total Products: 12
 - [ Esthera](https://esthera.com/collections/-esthera)
-  Updated: 2026-02-12T07:18:53Z
-  Total Products: 6
+  Updated: 2026-02-19T07:18:45Z
+  Total Products: 31
 - [Collection Esthera](https://esthera.com/collections/collection-esthera)
-  Updated: 2026-02-12T07:18:53Z
+  Updated: 2026-02-19T07:18:44Z
   Total Products: 8
 - [NEW COLLECTION AM | PM 2](https://esthera.com/collections/new-collection-am-pm-2): Esthera is for those who seek the extraordinary in every moment,transforming routine into a memorable experience.A fusion of style and functionality.Everyday objects, reimagined with Brazilian design.For those who don’t live an ordinary life.Esthera. No ordinary life, no ordinary bags.
-  Updated: 2026-02-12T07:18:54Z
-  Total Products: 25
+  Updated: 2026-02-19T07:18:46Z
+  Total Products: 59
 
 ## Store Pages
 
