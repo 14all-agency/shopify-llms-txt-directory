@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2023-11-16T18:56:01Z
 - Contact Email: contato@tovcare.com.br
-- Updated At: 2026-02-12T17:56:39.343Z
+- Updated At: 2026-02-20T00:00:26.953Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/protetor-impermeavel-para-mao-1130163.webp?v=1769257335
   Price: R$ 171,00 BRL
 - [TRAVESSEIRO DE PESCOÇO EM GEL](https://tovcare.com.br/products/travesseiro-pescoco-gel): Experimente o travesseiro de pescoço em gel TOVCARE para máximo conforto e suporte. Ideal para viagens ou uso diário, aliviando tensões e proporcionando um descanso mais relaxante.
-  Updated: 2026-01-31T02:34:57Z
+  Updated: 2026-02-15T23:54:31Z
   Vendor: TovCare
   Product Type: CONFORT
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/assento-para-bicicleta-em-gel-4005652.webp?v=1769257332
   Price: R$ 111,00 BRL
 - [LAVATÓRIO INFLÁVEL](https://tovcare.com.br/products/lavatorio-inflavel-cabeca-acamados): O Lavatório Inflável para Cabeça Tovcare foi desenvolvido para proporcionar conforto e mais praticidade na higienização dos cabelos de pessoas acamadas ou com mobilidade reduzida. Seu design ergonômico e inflável permite um uso seguro e confortável, facilitando a rotina de cuidados sem a necessidade de deslocamento. Compatível com o Reservatório de Água com Chuveiro Portátil Tovcare (vendido separadamente) ✅ Facilita a higiene de pessoas acamadas e com mobilidade reduzida✅ Fácil de inflar com bomba manual inclusa✅ Material resistente para evitar vazamentos✅ Drenagem prática da água após o uso✅ Leve, portátil e fácil de armazenar Prático e seguro, facilita a higienização de pessoas acamadas com conforto e eficiência.
-  Updated: 2026-02-05T02:36:02Z
+  Updated: 2026-02-14T02:36:23Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
   Product Type: HOME CARE
   Availability: Available
@@ -74,19 +74,19 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/bacia-para-banho-de-assento-retratil-8943195.webp?v=1769257329
   Price: R$ 92,00 BRL
 - [MINI MASSAGEADOR PORTÁTIL](https://tovcare.com.br/products/mini-massageador-portatil): Pode ser usado para massagear os músculos do corpo e aliviar a tensão muscular, dores e amenizar a fadiga, acelerar circulação sanguínea para auxiliar os tecidos macios do corpo a ficarem mais saudáveis.
-  Updated: 2026-02-12T12:11:08Z
+  Updated: 2026-02-15T03:01:03Z
   Vendor: TOVCARE
   Product Type: CONFORT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/mini-massageador-portatil-3781178.webp?v=1769257329
-  Price: R$ 780,00 BRL
+  Price: R$ 702,00 BRL
 - [MASSAGEADOR OMBRO E PERNA](https://tovcare.com.br/products/massageador-ombro-e-perna): O Massageador Ombro e Perna Tovcare combina conforto, tecnologia e praticidade para proporcionar alívio de tensões musculares e relaxamento diário. Com controle de velocidade e temperatura ajustável, ele auxilia no alívio da fadiga, melhora a circulação e ajuda no aquecimento muscular pré-treino.Versátil, pode ser utilizado nos ombros, joelhos, coxas e panturrilhas, oferecendo massagem e eficaz para diferentes áreas do corpo. Seu design dobrável, portátil e sem fio permite transporte fácil e uso onde quiser – em casa, no trabalho ou após atividades físicas. ✅ 3 níveis de vibração e temperatura para massagem personalizada✅ Uso versátil: ombros, joelhos, coxas e panturrilhas✅ Ajuda no alívio da tensão e no aquecimento muscular✅ Design dobrável e portátil para uso em qualquer lugar✅ Indicado para atletas e pessoas que buscam relaxamento e recuperação muscular Proporcione alívio e bem-estar para diferentes áreas do corpo com mais conforto e praticidade!
-  Updated: 2026-02-04T17:19:01Z
+  Updated: 2026-02-15T03:01:04Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
   Product Type: CONFORT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/massageador-ombro-e-perna-6227342.webp?v=1769257329
-  Price: R$ 550,00 BRL
+  Price: R$ 495,00 BRL
 - [CINTA RÍGIDA DE SUPORTE LOMBAR](https://tovcare.com.br/products/cinta-rigida-suporte-lombar-tovcare): A Cinta Rígida de Suporte Lombar Tovcare foi projetada para oferecer suporte firme e estabilização eficaz da região lombar, auxiliando no alívio da dor, restrição de movimentos e recuperação pós-operatória. Seu design anatômico conta com um sistema de ajuste personalizado, garantindo encaixe preciso e segurança durante o uso. Além disso, seu material resistente e respirável proporciona conforto mesmo em períodos prolongados. ✅ Estabilização e suporte para a região lombar✅ Indicado para pós-operatório, restrição de movimentos e dores crônicas✅ Ajuste ergonômico para maior conforto e estabilidade✅ Tecido respirável para uso seguro e confortável✅ Auxilia na recuperação e na proteção da coluna Recupere-se com mais segurança e suporte para a sua coluna!
   Updated: 2026-01-24T14:59:33Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
@@ -149,7 +149,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/estabilizador-articulado-de-joanete-5079658.jpg?v=1759277315
   Price: R$ 200,00 BRL
 - [ESTABILIZADOR POLEGAR BILATERAL](https://tovcare.com.br/products/estabilizador-polegar-bilateral): O Estabilizador de Polegar Bilateral Tovcare é ideal para quem busca alívio da dor, estabilização e proteção da articulação do polegar. Indicado para o tratamento de rizartrose, tendinite, torções e instabilidades na articulação trapeziometacarpiana, ele auxilia na recuperação e prevenção de lesões causadas por esforços repetitivos, como a tenossinovite e a síndrome da mão do mouse. Seu design é bilateral, adaptando-se a diferentes necessidades. Conta com hastes flexíveis e rígidas removíveis, garantindo suporte ajustável e facilitando a lavagem da estrutura de tecido. ✅ Indicado para tratamento e prevenção de lesões✅ Alívio para dores e suporte na reabilitação✅ Ideal para a prevenção da síndrome da mão do mouse✅ Design bilateral com tecido respirável✅ Hastes removíveis para ajuste e fácil higienização Proporciona suporte e alívio com conforto e segurança para sua recuperação.
-  Updated: 2026-02-07T02:34:50Z
+  Updated: 2026-02-13T18:13:57Z
   Vendor: TovCare
   Product Type: RECOVER
   Availability: Available
@@ -163,25 +163,25 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/tala-estabilizadora-punho-bilateral-6996629.png?v=1759277315
   Price: R$ 221,00 BRL
 - [COTOVELEIRA ELÁSTICA PAD SILICONE](https://tovcare.com.br/products/cotoveleira-elastica-pad-silicone): A Cotoveteira Elástica Pad Silicone Tovcare proporciona suporte e compressão na articulação do cotovelo, ajudando a reduzir dores, tensão muscular e inchaço.Seu design anatômico e compressão graduada 3D garantem ajuste confortável, enquanto a almofada de silicone na articulação mantém o alinhamento adequado. O tecido sem costura e respirável melhora a experiência de uso. A cotoveleira oferece mais segurança e estabilidade nos movimentos. ✅ Ajuste anatômico 3D para suporte preciso✅ Compressão graduada para alívio da dor e estabilidade articular✅ Tecido sem costura e respirável para mais conforto✅ Design bilateral para versatilidade no uso Proteção e conforto para seus cotovelos em qualquer atividade!
-  Updated: 2026-02-07T02:34:50Z
+  Updated: 2026-02-15T03:01:05Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/cotoveleira-elastica-pad-silicone-9975076.png?v=1759277314
   - [P](https://tovcare.com.br/products/cotoveleira-elastica-pad-silicone?variant=43832101437637)
     Availability: Available
-    Price: R$ 132,00 BRL
+    Price: R$ 118,80 BRL
   - [M](https://tovcare.com.br/products/cotoveleira-elastica-pad-silicone?variant=43832101470405)
     Availability: Available
-    Price: R$ 132,00 BRL
+    Price: R$ 118,80 BRL
   - [G](https://tovcare.com.br/products/cotoveleira-elastica-pad-silicone?variant=43832101503173)
     Availability: Available
-    Price: R$ 132,00 BRL
+    Price: R$ 118,80 BRL
   - [GG](https://tovcare.com.br/products/cotoveleira-elastica-pad-silicone?variant=43832101535941)
     Availability: Available
-    Price: R$ 132,00 BRL
+    Price: R$ 118,80 BRL
 - [ESTABILIZADOR DE TORNOZELO BILATERAL](https://tovcare.com.br/products/estabilizador-de-tornozelo-bilateral-tovcare): O Estabilizador de Tornozelo Bilateral Tovcare foi desenvolvido para proporcionar suporte, estabilização e conforto, sendo ideal para a recuperação de lesões ligamentares, entorses, tendinites, artrite e instabilidades no tornozelo. Além disso, auxilia na prevenção de traumas e torções, sendo uma excelente opção tanto para praticantes de atividades físicas quanto para o uso pós-treino ou em tratamentos ortopédicos. ✅ Indicado para tratamento e prevenção de lesões✅ Estabilização do tornozelo com máximo conforto e eficácia✅ Ideal para esportes e recuperação pós-trauma✅ Design bilateral com tecido respirável ✅ Alívio para dores e suporte na reabilitação Movimente-se com mais segurança e conforto, com o suporte ideal para seu tornozelo!
-  Updated: 2026-02-04T18:50:22Z
+  Updated: 2026-02-17T20:29:17Z
   Vendor: TovCare
   Product Type: RECOVER
   Availability: Available
@@ -196,76 +196,76 @@
     Availability: Available
     Price: R$ 158,00 BRL
 - [JOELHEIRA ELÁSTICA PAD SILICONE](https://tovcare.com.br/products/joelheira-elastica-pad-silicone): A Joelheira Elástica Pad Silicone Tovcare foi desenvolvida para proteger e estabilizar a articulação do joelho, ajudando na redução da tensão muscular e do inchaço.Sua compressão graduada 3D promove melhor suporte, enquanto o tecido sem costura e respirável oferece conforto mesmo em uso prolongado. A almofada de silicone ao redor da patela mantém a articulação no posicionamento correto, e as hastes bilaterais garantem estabilidade adicional. Além disso, o design bilateral e o silicone antiderrapante interno evitam deslocamentos durante os movimentos. ✅ Ajuste anatômico 3D para melhor encaixe✅ Tecido sem costura e respirável para mais conforto✅ Compressão graduada para suporte e alívio da tensão muscular✅ Design bilateral para uso versátil✅ Hastes bilaterais para maior firmeza Proteja seus joelhos com suporte e conforto em qualquer atividade!
-  Updated: 2026-02-11T14:55:46Z
+  Updated: 2026-02-19T02:35:10Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/joelheira-elastica-pad-silicone-9619771.png?v=1759277313
   - [P](https://tovcare.com.br/products/joelheira-elastica-pad-silicone?variant=43854255390917)
     Availability: Available
-    Price: R$ 145,00 BRL
+    Price: R$ 130,50 BRL
   - [M](https://tovcare.com.br/products/joelheira-elastica-pad-silicone?variant=43854255423685)
     Availability: Available
-    Price: R$ 145,00 BRL
+    Price: R$ 130,50 BRL
   - [G](https://tovcare.com.br/products/joelheira-elastica-pad-silicone?variant=43854255456453)
     Availability: Available
-    Price: R$ 145,00 BRL
+    Price: R$ 130,50 BRL
   - [GG](https://tovcare.com.br/products/joelheira-elastica-pad-silicone?variant=43854255489221)
     Availability: Available
-    Price: R$ 145,00 BRL
+    Price: R$ 130,50 BRL
 - [SUPORTE ELÁSTICO PARA PUNHO](https://tovcare.com.br/products/suporte-elastico-para-punho): O Suporte Elástico para Punho Tovcare foi desenvolvido para proporcionar compressão, estabilidade e alívio da tensão muscular, ajudando na recuperação e prevenção de lesões.Fabricado com tecido sem costura e respirável, o suporte oferece ajuste anatômico 3D e compressão graduada, garantindo firmeza sem restringir os movimentos. ✅ Ajuste anatômico 3D para conforto e adaptação ao punho✅ Compressão graduada para alívio de dores e suporte muscular✅ Tecido sem costura e respirável para uso prolongado✅ Design bilateral para maior versatilidade Mais estabilidade e proteção para seus punhos em qualquer momento!
-  Updated: 2026-02-11T11:46:36Z
+  Updated: 2026-02-15T03:01:06Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/suporte-elastico-para-punho-3311302.png?v=1759277312
   - [P](https://tovcare.com.br/products/suporte-elastico-para-punho?variant=43853933248709)
     Availability: Available
-    Price: R$ 109,00 BRL
+    Price: R$ 98,10 BRL
   - [M](https://tovcare.com.br/products/suporte-elastico-para-punho?variant=43853933281477)
     Availability: Available
-    Price: R$ 101,00 BRL
+    Price: R$ 90,90 BRL
   - [G](https://tovcare.com.br/products/suporte-elastico-para-punho?variant=43853933314245)
     Availability: Available
-    Price: R$ 101,00 BRL
+    Price: R$ 90,90 BRL
 - [PROTETOR ELÁSTICO PARA PERNA](https://tovcare.com.br/products/protetor-elastico-para-perna): O Protetor Elástico para Perna Tovcare auxilia na recuperação muscular, estabilização dos movimentos e melhora da circulação, reduzindo o risco de lesões.Com compressão graduada 3D e tecido sem costura e respirável, ele proporciona conforto e suporte sem comprometer a mobilidade. O design bilateral permite um ajuste preciso, e o silicone interno antiderrapante mantém a fixação segura, garantindo mais estabilidade durante atividades físicas e no dia a dia. ✅ Ajuste anatômico 3D para melhor suporte muscular✅ Compressão graduada para melhorar a circulação e reduzir fadiga✅ Tecido sem costura e respirável para maior conforto✅ Design bilateral para ajuste versátil✅ Silicone interno antiderrapante para fixação segura Movimente-se com mais segurança e proteção para suas pernas!
-  Updated: 2026-02-06T04:20:25Z
+  Updated: 2026-02-15T03:01:07Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/protetor-elastico-para-perna-6773410.png?v=1759277314
   - [P](https://tovcare.com.br/products/protetor-elastico-para-perna?variant=43854024540357)
     Availability: Available
-    Price: R$ 158,00 BRL
+    Price: R$ 142,20 BRL
   - [M](https://tovcare.com.br/products/protetor-elastico-para-perna?variant=43854024573125)
     Availability: Available
-    Price: R$ 158,00 BRL
+    Price: R$ 142,20 BRL
   - [G](https://tovcare.com.br/products/protetor-elastico-para-perna?variant=43854024605893)
     Availability: Available
-    Price: R$ 158,00 BRL
+    Price: R$ 142,20 BRL
   - [GG](https://tovcare.com.br/products/protetor-elastico-para-perna?variant=43854024638661)
     Availability: Available
-    Price: R$ 158,00 BRL
+    Price: R$ 142,20 BRL
 - [TORNOZELEIRA ELÁSTICA PAD SILICONE](https://tovcare.com.br/products/tornozeleira-elastica-pad-silicone): A Tornozeleira Elástica Pad Silicone Tovcare proporciona compressão eficaz e estabilização da articulação, ajudando a reduzir o inchaço e melhorar o desempenho funcional.Seu ajuste anatômico 3D favorece a circulação e a recuperação muscular, enquanto o tecido sem costura e respirável proporciona ajuste confortável. A almofada de silicone na articulação mantém o tornozelo alinhado. A tornozeleira oferece mais segurança nos movimentos. ✅ Ajuste anatômico 3D para melhor adaptação ao tornozelo✅ Compressão graduada para redução de edemas e suporte muscular✅ Tecido sem costura e respirável para conforto prolongado✅ Design bilateral para uso versátil Ideal para quem busca segurança e suporte sem comprometer a mobilidade!
-  Updated: 2026-02-11T11:46:36Z
+  Updated: 2026-02-19T02:18:07Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/tornozeleira-elastica-pad-silicone-6087262.png?v=1759277313
   - [P](https://tovcare.com.br/products/tornozeleira-elastica-pad-silicone?variant=43857689051333)
     Availability: Available
-    Price: R$ 122,00 BRL
+    Price: R$ 109,80 BRL
   - [M](https://tovcare.com.br/products/tornozeleira-elastica-pad-silicone?variant=43857689084101)
     Availability: Available
-    Price: R$ 122,00 BRL
+    Price: R$ 109,80 BRL
   - [G](https://tovcare.com.br/products/tornozeleira-elastica-pad-silicone?variant=43857689116869)
     Availability: Available
-    Price: R$ 122,00 BRL
+    Price: R$ 109,80 BRL
   - [GG](https://tovcare.com.br/products/tornozeleira-elastica-pad-silicone?variant=43857689149637)
     Availability: Available
-    Price: R$ 122,00 BRL
+    Price: R$ 109,80 BRL
 - [ÓRTESE CERVICAL TORÁCICA](https://tovcare.com.br/products/ortese-cervical-toracica): A Órtese Cervical Torácica Tovcare foi desenvolvida para oferecer suporte e firmeza à parte superior do tronco, ajudando a manter a postura correta em diferentes situações do dia a dia. Seu design conta com ajuste de altura nas placas frontal e traseira, permitindo adaptação personalizada ao corpo. As faixas reguláveis proporcionam fixação confortável e segura, enquanto a estrutura reforçada garante estabilidade durante o uso. O tecido respirável contribui para maior comodidade mesmo em períodos prolongados. Uma escolha prática para quem busca estabilidade, conforto e confiança em sua rotina. Proporcione mais segurança e estabilidade para uma recuperação eficaz!
-  Updated: 2026-02-03T19:58:41Z
+  Updated: 2026-02-19T02:35:11Z
   Vendor: TovCare
   Product Type: RECOVER
   Availability: Available
@@ -277,65 +277,65 @@
     Availability: Available
     Price: R$ 1.258,00 BRL
 - [PALMILHA PLANTAR FASCIA ¾ SPONGE](https://tovcare.com.br/products/palmilha-plantar-fascia-sponge): A Palmilha Plantar Fáscia ¾ Sponge Tovcare foi projetada para proporcionar suporte ao arco plantar e calcanhar, garantindo estabilidade e conforto ao longo do dia.Seu design com placa rígida na região do calcanhar auxilia na melhoria da postura e distribuição do peso, reduzindo o impacto durante o caminhar. Leve e macia, ela é uma excelente opção para quem busca suporte e bem-estar para os pés. ✅ Suporte para arco plantar e calcanhar✅ Placa rígida para estabilização e conforto✅ Ajuda na absorção de impacto✅ Ideal para uso prolongado ao longo do dia Estabilidade e bem-estar para seus pés em qualquer momento!
-  Updated: 2026-02-02T21:30:42Z
+  Updated: 2026-02-15T03:01:10Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/palmilha-plantar-fascia-sponge-1384154.png?v=1759277287
   - [P](https://tovcare.com.br/products/palmilha-plantar-fascia-sponge?variant=43859742294213)
     Availability: Available
-    Price: R$ 122,00 BRL
+    Price: R$ 109,80 BRL
   - [G](https://tovcare.com.br/products/palmilha-plantar-fascia-sponge?variant=43859742326981)
     Availability: Available
-    Price: R$ 122,00 BRL
+    Price: R$ 109,80 BRL
 - [PALMILHA PLANTAR FASCIA ¾  GEL](https://tovcare.com.br/products/palmilha-plantar-fascia-gel): A Palmilha Plantar Fáscia ¾ Gel Tovcare foi desenvolvida para proporcionar suporte à fáscia plantar, auxiliando no alívio de dores e desconfortos causados pela fascite plantar.Seu sistema de gel absorve impactos, reduzindo a pressão nos pés e promovendo maior estabilidade e alinhamento ao caminhar. Além disso, o suporte em três pontos estratégicos – antepé, arco e calcanhar – contribui para o equilíbrio da pisada e proteção das articulações. ✅ Auxilia na estabilização da fáscia plantar✅ Tecnologia em gel para absorção de impacto✅ Suporte em três áreas-chave do pé✅ Distribuição uniforme da pressão nos pés✅ Revestimento respirável para maior durabilidade Mais alívio, conforto e estabilização para o dia a dia!
-  Updated: 2026-02-08T17:48:18Z
+  Updated: 2026-02-15T03:01:11Z
   Vendor: TOVCARE
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/palmilha-plantar-fascia-gel-2344010.png?v=1759277287
   - [P](https://tovcare.com.br/products/palmilha-plantar-fascia-gel?variant=43859963314373)
     Availability: Available
-    Price: R$ 170,00 BRL
+    Price: R$ 153,00 BRL
   - [G](https://tovcare.com.br/products/palmilha-plantar-fascia-gel?variant=43859963379909)
     Availability: Available
-    Price: R$ 170,00 BRL
+    Price: R$ 153,00 BRL
 - [PALMILHA ARCO](https://tovcare.com.br/products/palmilhas-arco): A Palmilha Arco Tovcare foi desenvolvida para proporcionar redução da pressão plantar, estabilidade e alívio da dor, auxiliando na prevenção de lesões e desconfortos ao caminhar, sendo especialmente indicada para pessoas com pés sensíveis e diabéticos.Seu design com arco firme proporciona suporte e ajuste anatômico, enquanto a camada de gel oferece amortecimento adicional, auxiliando na redistribuição da sobrecarga. Essa tecnologia contribui para prevenir e proteger contra úlceras plantares, garantindo mais conforto e segurança no dia a dia. ✅ Absorção de impacto para aliviar a pressão nos pés✅ Suporte firme para arco plantar✅ Amortecimento em gel para mais conforto✅ Ajuda na prevenção de úlceras plantares✅ Ajustável ao tamanho do pé com marcações para corte personalizado Proteção e estabilidade para um caminhar mais seguro e confortável!
-  Updated: 2026-01-29T19:38:28Z
+  Updated: 2026-02-15T03:01:11Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/palmilha-arco-9592954.png?v=1759277314
   - [35-39](https://tovcare.com.br/products/palmilhas-arco?variant=43877528109253)
     Availability: Available
-    Price: R$ 252,00 BRL
+    Price: R$ 226,80 BRL
   - [42-46](https://tovcare.com.br/products/palmilhas-arco?variant=43877528142021)
     Availability: Available
-    Price: R$ 252,00 BRL
+    Price: R$ 226,80 BRL
 - [PALMILHA ATHLETIC](https://tovcare.com.br/products/palmilha-athletic-tovcare): A Palmilha Athletic Gel Tovcare foi desenvolvida para proporcionar suporte e alívio da pressão nos pés, garantindo amortecimento e absorção de impacto durante atividades físicasSeu design com arco firme protege o calcanhar e oferece suporte para o arco do pé, enquanto as zonas de gel na parte dianteira e traseira absorvem o impacto dos movimentos e reduzem o risco de fadiga e desconforto. Além disso, sua tecnologia de absorção de umidade mantém os pés secos, proporcionando bem-estar durante todo o uso. ✅ Suporte e proteção para arco e calcanhar✅ Zonas de gel para absorção de impacto✅ Ajuda a reduzir a pressão nos pés durante atividades físicas✅ Tecnologia que absorve a umidade e mantém os pés secos Mais conforto e estabilidade para sua rotina esportiva!
-  Updated: 2026-02-08T01:34:11Z
+  Updated: 2026-02-19T15:19:48Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/palmilha-athletic-1944716.png?v=1759277315
   - [35-43](https://tovcare.com.br/products/palmilha-athletic-tovcare?variant=43877761024197)
     Availability: Available
-    Price: R$ 176,00 BRL
+    Price: R$ 158,40 BRL
   - [41-48](https://tovcare.com.br/products/palmilha-athletic-tovcare?variant=43877761056965)
     Availability: Available
-    Price: R$ 176,00 BRL
+    Price: R$ 158,40 BRL
 - [PALMILHA SPORTS](https://tovcare.com.br/products/palmilha-sports): A Palmilha Sports Tovcare foi projetada para proporcionar suporte, absorção de impacto e mais conforto para os pés, reduzindo a pressão durante a prática esportiva.Seu design acolchoado com camada de espuma aumenta a durabilidade e melhora a performance, enquanto a absorção de umidade mantém os pés secos por mais tempo. Com suporte ao arco do pé e estabilidade extra, ela ajuda a tornar cada passo mais firme e confortável. ✅ Absorção de impacto para reduzir a fadiga dos pés✅ Suporte ao arco do pé para mais estabilidade✅ Espuma acolchoada para conforto prolongado✅ Tecnologia de absorção de umidade para manter os pés secos Ideal para quem busca conforto e desempenho em cada movimento!
-  Updated: 2026-01-07T20:22:16Z
+  Updated: 2026-02-15T03:01:13Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/palmilha-sports-8320077.png?v=1759277287
   - [34-42](https://tovcare.com.br/products/palmilha-sports?variant=43877877907653)
     Availability: Available
-    Price: R$ 147,00 BRL
+    Price: R$ 132,30 BRL
   - [42-47](https://tovcare.com.br/products/palmilha-sports?variant=43877877940421)
     Availability: Available
-    Price: R$ 147,00 BRL
+    Price: R$ 132,30 BRL
 - [BOTA ORTOPÉDICA IMOBILIZADORA TOVBOOT](https://tovcare.com.br/products/bota-ortopedica-imobilizadora-tovboot): A Bota Ortopédica Imobilizadora Tovboot Tovcare foi desenvolvida para proporcionar imobilização eficiente, conforto e segurança no tratamento de fraturas da tíbia, fíbula e tornozelo, além de lesões ligamentares, entorses e distensões musculares. Indicada também para o período pós-operatório, a Tovboot auxilia na estabilização dos membros inferiores, promovendo uma recuperação mais segura e eficaz. Seu design anatômico conta com tiras ajustáveis, estrutura reforçada e materiais de alta qualidade que garantem firmeza sem comprometer o conforto do paciente no uso diário. ✅ Ideal para fraturas, entorses, distensões e lesões ligamentares✅ Suporte eficiente no pós-operatório e reabilitação✅ Estrutura leve, resistente e confortável✅ Fácil de ajustar com tiras de fixação reforçadas✅ Promove imobilização eficaz com conforto prolongado A Bota Tovboot é prática de usar, fácil de ajustar e simples de higienizar, oferecendo imobilização segura e o suporte ideal para uma recuperação confortável, estável e eficaz.
   Updated: 2026-02-09T17:47:08Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
@@ -344,12 +344,12 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/bota-ortopedica-imobilizadora-tovboot-9865988.png?v=1759277313
   Price: R$ 166,00 BRL
 - [Bota Terapia TovCare de Compressão Pneumática sem Fio](https://tovcare.com.br/products/bota-terapia-compressao-pneum-sem-fio): Bota de Compressão Tovcare com tecnologia sem fio, cinco câmaras de ar e massagem 360° para conforto e praticidade no uso diário.
-  Updated: 2026-02-12T17:31:31Z
+  Updated: 2026-02-18T16:43:08Z
   Vendor: Tovcare
   Product Type: CONFORT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/bota-terapia-compressao-pneumatica-sem-fio-2417521.png?v=1759277286
-  Price: R$ 3.535,00 BRL
+  Price: R$ 3.181,50 BRL
 - [ESTABILIZADOR UNIVERSAL PARA DEDOS](https://tovcare.com.br/products/estabilizador-universal-para-dedos): O Estabilizador Universal para Dedos Tovcare foi desenvolvido para oferecer suporte e imobilização eficaz em casos de fraturas, entorses, lesões ligamentares, distensões musculares e outras condições nos dedos. Indicado para tratamento de deformidades leves como dedo em gatilho, tenossinovite, artrite e processos inflamatórios, o estabilizador promove a recuperação segura e confortável, reduzindo o risco de agravamento da lesão. Seu design ajustável com tiras de velcro e estrutura anatômica proporciona firmeza, estabilidade e conforto, facilitando o uso contínuo durante a reabilitação. ✅ Imobilização e suporte para lesões nos dedos✅ Indicado para fraturas, entorses, artrite e dedo em gatilho✅ Ideal para uso pós-operatório e recuperação de lesões✅ Tamanho único com tiras ajustáveis de velcro✅ Confortável, leve e fácil de usar no dia a dia Oferece proteção, conforto e estabilidade para a recuperação eficaz das lesões nos dedos.
   Updated: 2026-02-04T18:41:47Z
   Vendor: Tovcare
@@ -413,58 +413,58 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/protetor-impermeavel-para-joelho-5846648.jpg?v=1759277284
   Price: R$ 214,00 BRL
 - [PROTETOR IMPERMEÁVEL PARA COTOVELO](https://tovcare.com.br/products/protetor-impermeavel-para-cotovelo): Protetor Impermeável para Cotovelo Tovcare desenvolvido para proteger curativos, gessos, cateteres, queimaduras e bandagens. Impede totalmente a entrada de água durante o banho, oferecendo segurança, conforto e praticidade no cuidado diário. O produto conta com vedação em silicone, proporcionando um encaixe confortável e permitindo que a circulação sanguínea seja mantida livre. Seu material resistente e reutilizável garante durabilidade, além de ser fácil de limpar e armazenar. ✅ Isolamento completo da água para proteção de curativos, gessos e lesões✅ Vedação em silicone confortável e segura✅ Reutilizável e resistente para maior durabilidade✅ Fácil de colocar, limpar e armazenar Mantenha seu cotovelo protegido e sua recuperação segura!
-  Updated: 2026-02-04T17:39:38Z
+  Updated: 2026-02-17T12:54:37Z
   Vendor: Tovcare
   Product Type: HOME CARE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/protetor-impermeavel-para-cotovelo-4050242.jpg?v=1759277284
   Price: R$ 129,00 BRL
 - [SUPORTE ESPORTIVO PARA TORNOZELO](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo): O Suporte Esportivo para Tornozelo Tovcare foi desenvolvido para proporcionar proteção e firmeza à articulação do tornozelo durante atividades físicas, recuperação de lesões e tratamentos ortopédicos. Ideal para casos de instabilidade, lesões ligamentares e uso preventivo, oferece ajuste anatômico, conforto e suporte eficaz. ✅ Indicado para instabilidades e lesões nos ligamentos✅ Excelente suporte durante atividades físicas leves✅ Design anatômico com ajuste (esquerdo/direito)✅ Fechamento ajustável com velcro para maior firmeza✅ Confortável, respirável e fácil de usarMovimente-se com mais segurança e conforto, com o suporte ideal para seu tornozelo!
-  Updated: 2026-02-10T22:25:53Z
+  Updated: 2026-02-17T20:29:17Z
   Vendor: Tovcare
   Product Type: RECOVER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/suporte-esportivo-para-tornozelo-9532632.png?v=1759277285
   - [Direito / P](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286496965)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Direito / M](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286529733)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Direito / G](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286562501)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Direito / GG](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286595269)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Esquerdo / P](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286628037)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Esquerdo / M](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286660805)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Esquerdo / G](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286693573)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
   - [Esquerdo / GG](https://tovcare.com.br/products/suporte-esportivo-para-tornozelo?variant=44580286726341)
     Availability: Available
-    Price: R$ 139,00 BRL
+    Price: R$ 125,10 BRL
 - [Kit Liberação Miofascial | Massagem e Recuperação | Tovcare](https://tovcare.com.br/products/kit-liberacao-miofacial): O Kit Liberação Miofascial Tovcare alivia tensões musculares e melhora a flexibilidade. Ideal para relaxamento, massagem e recuperação pós-treino.
-  Updated: 2026-02-09T02:36:07Z
+  Updated: 2026-02-15T03:01:16Z
   Vendor: Tovcare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/kit-liberacao-miofascial-6157657.jpg?v=1759277284
-  Price: R$ 235,00 BRL
+  Price: R$ 211,50 BRL
 - [KIT FAIXA ELÁSTICA](https://tovcare.com.br/products/kit-faixa-elastica): A Faixa Elástica Tovcare é ideal para quem busca fortalecer a musculatura, melhorar o equilíbrio e auxiliar na recuperação muscular. Com cinco níveis de resistência — extraleve, leve, média, forte e extraforte — ela é perfeita para diferentes objetivos e níveis de preparo físico. Ideal para uma variedade de exercícios que trabalham pernas, glúteos, braços, quadris e core, a faixa também melhora a coordenação e a estabilidade, sendo excelente tanto para treinos funcionais quanto para fisioterapia e reabilitação. ✅ Cinco níveis de resistência para intensidades variadas✅ Ideal para fortalecimento muscular e reabilitação✅ Trabalha diferentes grupos musculares e melhora o equilíbrio✅ Compacta, leve e fácil de transportar A faixa elástica Tovcare é a escolha ideal para treinos eficazes e seguros, ajudando a alcançar resultados consistentes em qualquer fase do treino ou recuperação.
-  Updated: 2026-02-11T01:35:59Z
+  Updated: 2026-02-16T14:07:41Z
   Vendor: Tovcare
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/kit-faixa-elastica-9429640.jpg?v=1761706255
-  Price: R$ 95,00 BRL
+  Price: R$ 85,50 BRL
 - [KIT FAIXA DE RESISTÊNCIA](https://tovcare.com.br/products/kit-faixa-dee-resistencia): A Faixa de Resistência Elástica Tovcare é a escolha perfeita para quem busca fortalecer a musculatura, melhorar a flexibilidade e auxiliar na recuperação de lesões. Com quatro níveis de resistência — extraleve, leve, forte e extraforte. Atende diferentes objetivos e níveis de preparo físico. Ideal para treinos, reabilitação e fisioterapia, fortalece pernas, braços, glúteos, quadris e core, melhorando equilíbrio, coordenação e estabilidade. Versátil, atende tanto atletas quanto em recuperação muscular. ✅ Quatro níveis de resistência para diferentes intensidades✅ Auxilia no fortalecimento muscular e na recuperação de lesões✅ Ideal para treino funcional, fisioterapia e exercícios de reabilitação✅ Compacta, prática e fácil de transportar A faixa de resistência Tovcare oferece uma solução completa para quem busca resultados no fortalecimento muscular, equilíbrio e recuperação.
-  Updated: 2026-02-11T18:51:41Z
+  Updated: 2026-02-17T16:00:57Z
   Vendor: TovCare
   Product Type: MOV
   Availability: Available
@@ -478,41 +478,41 @@
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/tala-estabilizadora-punho-articulada-bilateral-7333954.png?v=1759277284
   Price: R$ 277,00 BRL
 - [TORNOZELEIRA GELCARE](https://tovcare.com.br/products/tornozeleira-gelcare): A Tornozeleira GelCare Bilateral Tovcare é ideal para o rompimento e tratamento de entorses, distensões musculares, hematomas, inchaços e inflamações na região do tornozelo. Sua estrutura anatômica se adapta ao corpo, proporcionando conforto tanto no uso quente quanto no frio. Perfeita para quem busca alívio de dores ou desconfortos musculares nos tornozelos com praticidade e segurança. ✅ Alívio de dores, inchaços e distensões musculares ✅ Pode ser usado quente ou frio, conforme a necessidade ✅ Material flexível para ajuste confortável ✅ Design bilateral para uso em ambos os tornozelos Tratamento térmico eficaz com conforto e segurança para seus tornozelos.
-  Updated: 2026-02-11T11:46:41Z
+  Updated: 2026-02-19T22:45:11Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/tornozeleira-gelcare-7411620.png?v=1759277285
-  Price: R$ 166,00 BRL
+  Price: R$ 149,40 BRL
 - [OMBREIRA GELCARE](https://tovcare.com.br/products/ombreira-gelcare): A Ombreira GelCare Bilateral Tovcare é ideal para o rompimento e tratamento de dores nos ombros, entorses, distensões musculares, hematomas, surtos e inflamações. Sua estrutura anatômica se adapta ao corpo, proporcionando conforto tanto no uso quente quanto no frio. Perfeita para quem busca ruptura de contusões ou desconfortos musculares na região dos ombros e tórax. Com ajuste para diferentes tamanhos, a ombreira pode ser usada quente ou fria, oferecendo praticidade sem problemas. ✅ Alívio de dores, inchaços e distensões musculares no ombro ✅ Pode ser usado quente ou frio, conforto confortável no tratamento ✅ Design bilateral para uso em ambos os ombros ✅ Faixa ajustável para melhor adaptação ao corpo Conforto e ruptura para os ombros com praticidade e segurança.
-  Updated: 2026-02-10T02:35:27Z
+  Updated: 2026-02-19T23:54:38Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/ombreira-gelcare-3846078.png?v=1759277284
-  Price: R$ 242,00 BRL
+  Price: R$ 217,80 BRL
 - [MUNHEQUEIRA GELCARE](https://tovcare.com.br/products/munhequeira-gelcare): A Munhequeira GelCare Bilateral Tovcare foi desenvolvida para proporcionar alívio térmico eficaz em dores no punho, lesões musculares, inchaços, contusões e inflamações. Seu design anatômico se adapta ao corpo, oferecendo conforto e eficiência tanto em aplicações quentes quanto frias. Ideal para quem sofre com entorses, tendinites, pancadas ou desconfortos na região do punho e posicionamento. ✅ Alívio para dores, inchaços, entorses e inflamações no punho ✅ Pode ser usado quente ou frio, de forma prática e segura ✅ Design anatômico que se adapta ao corpo ✅ Ideal para uso doméstico, esportivo ou fisioterapêutico Conforto e ruptura para o punho com praticidade e segurança.
-  Updated: 2026-02-12T17:15:36Z
+  Updated: 2026-02-15T03:01:19Z
   Vendor: TOVCARE
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/munhequeira-gelcare-8861479.png?v=1759277285
-  Price: R$ 107,00 BRL
+  Price: R$ 96,30 BRL
 - [FAIXA MULTIUSO GELCARE](https://tovcare.com.br/products/faixa-multiuso): A Faixa Multiuso GelCare Bilateral Tovcare foi desenvolvida para oferecer um alívio eficaz em casos de dores musculares, contusões, surtos e inflamações, promovendo conforto e bem-estar através da terapia térmica — quente ou fria. Seu design anatômico e flexível permite a aplicação prática em diferentes partes do corpo, adaptando-se com facilidade a cada usuário. ✅ Alívio para dores musculares, contusões, hematomas e inchaços ✅ Pode ser usado quente ou frio, com preparo simples e seguro ✅ Material flexível que se adapta ao corpo, disponível nos tamanhos P, M e G ✅ Ideal para uso doméstico, esportivo ou em fisioterapia Conforto e intervalo imediato com uma faixa prática e versátil para aplicação térmica.
-  Updated: 2026-02-12T17:07:26Z
+  Updated: 2026-02-19T23:54:37Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
   Product Type: MOV
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/7504/0965/files/faixa-multiuso-gelcare-3999053.png?v=1765921445
   - [P](https://tovcare.com.br/products/faixa-multiuso?variant=44593924210885)
     Availability: Available
-    Price: R$ 147,00 BRL
+    Price: R$ 132,30 BRL
   - [M](https://tovcare.com.br/products/faixa-multiuso?variant=44593924243653)
     Availability: Available
-    Price: R$ 147,00 BRL
+    Price: R$ 132,30 BRL
   - [G](https://tovcare.com.br/products/faixa-multiuso?variant=44593924276421)
     Availability: Available
-    Price: R$ 147,00 BRL
+    Price: R$ 132,30 BRL
 - [LIXADEIRA GRAVITY EVO GRINDER](https://tovcare.com.br/products/lixadeira-gravity-evo-grinder): • Lixamento preciso e silencioso• Controle total de poeira• Troca rápida de acessórios• Ideal para palmilhas e capacetes ortopédicos Equipamento profissional de alto valor agregado, desenvolvido especialmente para o lixamento e acabamento de palmilhas personalizadas. Garante ajustes precisos, conforto, durabilidade e alta precisão no resultado final. Além de atender a confecção de palmilhas, é versátil, podendo ser utilizada também no lixamento de capacetes ortopédicos e outros itens. Kit de Acessórios (vendidos separadamente): Inclui 15 peças, como:escova, correias abrasivas, pontas de moagem, rodas, borracha, óculos, máscaras e avental. Benefícios que fazem a diferença: ✅ Sem sujeira: gabinete totalmente fechado para manter o ambiente limpo✅ Controle de poeira: gaveta ou saco plástico✅ Silenciosa: menos de 65 dB, ideal para ambientes profissionais✅ Troca rápida de correias abrasivas, sem necessidade de ferramentas✅ Botão de parada de emergência✅ Iluminação LED para uma estação de trabalho clara✅ Tampa de acrílico com tratamento antiestático✅ Espaço interno amplo e com prateleiras organizadoras Especificações Técnicas: Potência do motor: 600W Fonte de alimentação: 230V monofásico 50 Hz
   Updated: 2026-02-02T21:30:42Z
   Vendor: Tovcare
@@ -592,7 +592,7 @@
     Availability: Available
     Price: R$ 628,00 BRL
 - [Bota Ortopédica TovCare Pneumática Tovboot Air Cano Curtof](https://tovcare.com.br/products/bota-ortopedica-tovcare-cano-curto): Bota ortopédica TovCare Air Cano Curto: suporte ajustável e confortável para tornozelo, calcanhar e pé.
-  Updated: 2026-02-03T19:18:35Z
+  Updated: 2026-02-13T02:37:06Z
   Vendor: TOVCARE - SITE EM CONSTRUÇÃO
   Product Type: RECOVER
   Availability: Available
@@ -671,49 +671,49 @@
 ## Collections
 
 - [Linha Confort](https://tovcare.com.br/collections/confort-tovcare): Conheça a linha Confort TOVCARE, com produtos projetados para garantir conforto e bem-estar no seu dia a dia. Soluções que combinam ergonomia, qualidade e alívio para uma rotina mais leve.
-  Updated: 2026-02-05T12:20:29Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 7
 - [Linha Home Care](https://tovcare.com.br/collections/homecare-tovcare): Descubra a linha Home Care TOVCARE com produtos pensados para facilitar os cuidados diários em casa. Soluções práticas e eficientes para conforto, segurança e bem-estar.
-  Updated: 2026-02-02T21:30:41Z
+  Updated: 2026-02-18T12:20:56Z
   Total Products: 9
 - [Linha Recover](https://tovcare.com.br/collections/recover-tovcare): Conheça a linha Recover, desenvolvida para reabilitação e alívio de dores com produtos inovadores e confortáveis. A escolha ideal para sua recuperação e bem-estar.
-  Updated: 2026-02-11T12:21:42Z
+  Updated: 2026-02-18T12:20:56Z
   Total Products: 22
 - [Linha Mov](https://tovcare.com.br/collections/mov-tovcare): Descubra a linha Mov TOVCARE, desenvolvida para promover liberdade de movimento com suporte e segurança. Ideal para quem busca prevenção, proteção e alto desempenho em suas atividades.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 17
 - [NOVIDADES](https://tovcare.com.br/collections/novidades-tovcare): Confira as últimas novidades! Produtos exclusivos com tecnologia avançada e design inovador para atender às suas necessidades.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 15
 - [Favoritos](https://tovcare.com.br/collections/favoritos-tovcare): Descubra os Favoritos, uma seleção especial com os produtos mais amados por nossos clientes. Itens que combinam qualidade, funcionalidade e excelente desempenho, perfeitos para atender às suas necessidades diárias. Escolha entre os mais desejados e tenha a garantia de satisfação e praticidade em cada uso!
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-17T12:20:00Z
   Total Products: 5
 - [Linha em Gel](https://tovcare.com.br/collections/linha-gel): Conheça a Linha em Gel Tovcare: assentos ergonômicos com conforto térmico e alta densidade. Ideal para escritório e viagens. Cuide da sua coluna.
-  Updated: 2026-02-11T14:29:13Z
+  Updated: 2026-02-16T12:19:03Z
   Total Products: 4
 - [Palmilhas](https://tovcare.com.br/collections/palmilhas): Baseada na anatomia dos pés, as Palmilhas Tovcare garante redistribuição de pressão e suporte postural. Tecnologia de gel e silicone para um caminhar leve.
-  Updated: 2026-02-11T14:31:33Z
+  Updated: 2026-02-15T03:01:14Z
   Total Products: 5
 - [Cabeça / Pescoço](https://tovcare.com.br/collections/cabeca-pescoco): Explore nossa coleção de produtos para cabeça e pescoço, com soluções como colares cervicais e suportes para alívio de dores, estabilidade e recuperação com máximo conforto e segurança.
   Updated: 2026-02-02T21:30:41Z
   Total Products: 2
 - [Membros Inferiores](https://tovcare.com.br/collections/membros-inferiores): Encontre os melhores produtos para membros inferiores, incluindo estabilizador articulado de joanete e estabilizador de tornozelo bilateral. Soluções que promovem suporte, proteção e recuperação eficiente.
-  Updated: 2026-02-11T12:21:42Z
+  Updated: 2026-02-18T12:20:56Z
   Total Products: 7
 - [Membros Superiores](https://tovcare.com.br/collections/membros-superiores): Confira nossa seleção de produtos para membros superiores, com estabilizadores de polegar e talas de punho de alta qualidade. Ideal para suporte, alívio de dores e recuperação com segurança.
-  Updated: 2026-02-02T21:30:41Z
+  Updated: 2026-02-14T12:21:17Z
   Total Products: 5
 - [Tronco](https://tovcare.com.br/collections/tronco): Descubra nossa linha completa de produtos para suporte e reabilitação do tronco! Cintas, coletes e acessórios que ajudam na postura, aliviam dores e promovem conforto no seu dia a dia.
   Updated: 2026-02-06T12:22:49Z
   Total Products: 10
 - [Massageadores](https://tovcare.com.br/collections/massageadores): Descubra nossa linha de massageadores para alívio de tensões musculares e relaxamento. Produtos modernos e eficientes para cuidar do seu bem-estar no dia a dia.
-  Updated: 2026-02-05T12:20:29Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 3
 - [Linha Elástica](https://tovcare.com.br/collections/linha-elastica): Confira nossa linha elástica com produtos de alta flexibilidade para suporte, compressão e recuperação. Ideal para quem busca conforto, proteção e desempenho em atividades do dia a dia.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 7
 - [AVADA - Best Sellers](https://tovcare.com.br/collections/avada-best-sellers)
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 55
 - [Produtos para Coluna e Dor Lombar, Corretor Postural Tovcare](https://tovcare.com.br/collections/para-a-coluna): Alívio imediato para dores nas costas. Encontre corretores posturais, faixas abdominais e cintas de suporte lombar de alta qualidade para sua reabilitação.
   Updated: 2026-02-02T21:30:42Z
@@ -722,58 +722,58 @@
   Updated: 2026-02-02T21:30:42Z
   Total Products: 8
 - [Catálogo Tovcare - Produtos Essenciais para Conforto, Ortopedia e Home Care](https://tovcare.com.br/collections/catalogo-ads): Descubra a linha completa de itens Tovcare: soluções em gel, produtos ortopédicos e massageadores. O que há de melhor para seu conforto e recuperação diária.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 22
 - [Produtos com valor zerado](https://tovcare.com.br/collections/produtos-com-valor-zerado)
   Updated: 2026-02-02T21:30:42Z
   Total Products: 8
 - [Lançamentos](https://tovcare.com.br/collections/lancamento): Descubra os lançamentos da Tovcare: novidades em órteses, acessórios terapêuticos e equipamentos de conforto para sua saúde. Confira agora!
-  Updated: 2026-02-05T12:20:29Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 7
 - [Mais Vendidos](https://tovcare.com.br/collections/mais-vendidos): Descubra os produtos mais vendidos da Tovcare em saúde, bem-estar e cuidados pessoais. Itens com alta demanda, qualidade comprovada e envio rápido.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 62
 - [combo](https://tovcare.com.br/collections/combo)
   Updated: 2025-12-03T14:34:58Z
   Total Products: 0
 - [Acessórios](https://tovcare.com.br/collections/acessorios): Coleção de acessórios MOV com faixas elásticas e mini bands. Ideal para treino funcional, força muscular, mobilidade e reabilitação física.
-  Updated: 2026-02-11T12:21:42Z
+  Updated: 2026-02-18T12:20:56Z
   Total Products: 3
 - [Linha Gelcare](https://tovcare.com.br/collections/linha-gelcare): Linha Gelcare Tovcare: compressas em gel com uso quente ou frio para alívio de dores, inchaços e relaxamento. Práticas, seguras e reutilizáveis.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 4
 - [Entrega Flash](https://tovcare.com.br/collections/entrega-flash): Conheça os produtos da Tovcare disponíveis para entrega flash no mesmo dia em São Paulo. Agilidade, qualidade e conforto ao seu alcance.
-  Updated: 2026-02-02T21:30:42Z
+  Updated: 2026-02-16T12:19:03Z
   Total Products: 11
 - [Todos os Produtos Tovcare Ortopedia, Home Care ,Fisioterapia](https://tovcare.com.br/collections/todos-os-produtos): Navegue pelo catálogo completo Tovcare: as melhores soluções para sua saúde, recuperação e bem-estar. Produtos ortopédicos, Gelcare, Home Care e mais!
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 62
 - [Todos os Produtos Tovcare - Bem-estar, catálogo Completo.](https://tovcare.com.br/collections/produtos): Navegue pelo catálogo completo Tovcare: as melhores soluções para sua saúde, recuperação e bem-estar. Produtos ortopédicos, Gelcare, Home Care e mais!
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 63
 - [combo10](https://tovcare.com.br/collections/combo10): combo 10 - Tovcare, cuidando bem de você
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 31
 - [combo15](https://tovcare.com.br/collections/combo15): combo 15 - Tovcare
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 6
 - [COMBO TESTE](https://tovcare.com.br/collections/comboteste)
   Updated: 2026-02-02T21:30:42Z
   Total Products: 2
 - [Black Friday TovCare](https://tovcare.com.br/collections/black-friday-tovcare): A Black Friday TovCare começou! 🏃‍♀️ Ofertas EXCLUSIVAS e imperdíveis em todo o site. Última chance para garantir os seus favoritos.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 52
 - [Cyber Monday Tovcare](https://tovcare.com.br/collections/cyber-monday-tovcare): Cyber Monday Tovcare: massageadores com tecnologia para alívio muscular e bem-estar com oferta especial com 25% Off . Aproveite e transforme sua rotina hoje.
-  Updated: 2026-02-02T21:30:43Z
+  Updated: 2026-02-15T03:01:05Z
   Total Products: 2
 - [Mais Avaliados](https://tovcare.com.br/collections/mais-avaliados): Descubra os produtos que são referência em Fisioterapia, Ortopedia e Home Care. Nesta seleção, reunimos os itens mais escolhidos pelos nossos clientes para promover a recuperação muscular, alívio de dores e melhora da mobilidade. De protetores em gel da linha Gelcare a acessórios de suporte da linha Recover, aqui você encontra soluções com qualidade comprovada e alta durabilidade. Se você busca o que há de melhor para o seu bem-estar diário ou para acelerar seu tratamento, confira os favoritos da comunidade Tovcare.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 10
 - [Combo](https://tovcare.com.br/collections/combo-1): Combos Tovcare
-  Updated: 2026-02-10T12:20:45Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 3
 - [Semana do Esportista Tovcare](https://tovcare.com.br/collections/semana-do-esportista-tovcare): A Semana do Esportista Tovcare chegou com ofertas especiais e descontos exclusivos para quem busca mais performance, prevenção de lesões e recuperação muscular no dia a dia. São soluções desenvolvidas para acompanhar atletas, praticantes de atividades físicas e todos que valorizam o cuidado com o corpo, antes e depois dos treinos.
-  Updated: 2026-02-12T12:20:16Z
+  Updated: 2026-02-19T12:20:16Z
   Total Products: 20
 
 ## Blogs
@@ -1094,6 +1094,14 @@
     Updated: 2026-02-10T18:37:10Z
     Author: E-commerce Promex
     Tags: Bem-Estar, Saúde
+  - [Carnaval: Como Cuidar do Corpo Após a Folia](https://tovcare.com.br/blogs/blogtovcare/carnaval-como-cuidar-do-corpo-apos-a-folia): <p data-start="16" data-end="742">Aproveitar o Carnaval exige muito do corpo, com longos períodos em pé, caminhadas, dança e pouco descanso. Por isso, o pós-folia pede cuidados para recuperar o equilíbrio físico e mental. Dores musculares, inchaços e cansaço são respostas naturais e podem ser amenizados com estratégias simples. Alongamentos diários ajudam a melhorar a circulação e aliviar tensões, enquanto o Kit de Liberação Miofascial e o Mini Massageador Portátil Tovcare auxiliam no relaxamento muscular. A terapia quente e fria também é eficaz: o frio reduz inflamações e inchaços, e o calor relaxa a musculatura e alivia dores. Além disso, a retomada da rotina deve ser gradual, com caminhadas leves, hidratação e descanso para uma recuperação segura.</p>
+    Updated: 2026-02-17T11:44:09Z
+    Author: E-commerce Promex
+    Tags: Bem-Estar, Evento, Saúde
+  - [Recovery para Esportistas Amadores: Como Cuidar do Corpo Para Evoluir com Segurança](https://tovcare.com.br/blogs/blogtovcare/recovery-para-esportistas-amadores-como-cuidar-do-corpo-para-evoluir-com-seguranca): <p data-start="16" data-end="758">O recovery é uma etapa essencial para quem pratica esportes, inclusive de forma amadora, pois ajuda a evitar dores persistentes, queda de rendimento e lesões. Durante o treino, os músculos sofrem microlesões que precisam de tempo e estímulos adequados para se recuperar. Além de alimentação, hidratação, alongamento e sono de qualidade, produtos de autocuidado podem acelerar esse processo. A Bota de Compressão Tovcare auxilia na circulação e no relaxamento muscular, a Linha GelCare oferece terapia quente ou fria para alívio de dores e inflamações, e os Suportes Elásticos promovem compressão e estabilidade no dia a dia. O mais importante é manter uma rotina de recovery simples e consistente para evoluir com segurança e continuar ativo.</p>
+    Updated: 2026-02-19T17:00:06Z
+    Author: E-commerce Promex
+    Tags: Esportes, Saúde
 
 ## Store Pages
 
