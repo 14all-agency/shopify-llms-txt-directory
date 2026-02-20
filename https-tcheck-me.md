@@ -15,7 +15,7 @@ The company operates with full transparency, in-house manufacturing quality cont
 - Created At: 2022-12-16T22:27:14Z
 - Contact Email: support@tcheck.me
 - Address: 9081 Foothills Blvd, Suite 150, Roseville, California 95747, USA
-- Updated At: 2026-02-13T00:00:40.731Z
+- Updated At: 2026-02-20T00:00:42.381Z
 
 ## Mission & Core Value Proposition
 
@@ -241,7 +241,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/V5-TCHECK3_7e8ba578-f92b-49ff-9a8c-745822f920f8.png?v=1718035877
     Price: $420.00 USD
 - [tCheck 3 Device for Home Potency Testing of Infusions | tCheck](https://tcheck.me/products/thc-and-cbd-potency-test-device3): tCheck 3 Device for Home Potency Testing of Infusions lets you quickly measure THC and CBD levels in  infused oils butter or tinctures with accuracy.
-  Updated: 2026-02-12T06:39:03Z
+  Updated: 2026-02-19T15:33:28Z
   Vendor: tCheck
   Product Type: Device Only
   Availability: Available
@@ -259,7 +259,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Availability: Available
     Price: $329.99 USD
 - [tCheck 3 Device with Flower Testing Expansion Kit | tCheck](https://tcheck.me/products/thc-and-cbd-potency-test-device3-and-kit): tCheck 3 Device with Flower Testing Expansion Kit lets you measure THC or CBD potency in infusions, concentrates, and raw flower quickly and accurately at home.
-  Updated: 2026-02-12T23:24:08Z
+  Updated: 2026-02-20T00:00:33Z
   Vendor: tCheck
   Product Type: Device + Kit
   Availability: Available
@@ -281,7 +281,7 @@ We believe that understanding what you consume is essential to mindful dosing an
     Image: https://cdn.shopify.com/s/files/1/0693/2883/0775/files/Green-Expansion-Kit-5_6846d78b-7617-40e2-bf29-85eee6c13c4f.jpg?v=1721662253
     Price: $420.00 USD
 - [tCheck 3 Upgrade Kit for Advanced Potency Testing | tCheck](https://tcheck.me/products/tcheck-3-upgrade): tCheck 3 Upgrade improves the accuracy and consistency of  potency testing at home, making it easier to measure THC or CBD levels in oils and infusions.
-  Updated: 2026-02-12T17:29:50Z
+  Updated: 2026-02-19T18:06:46Z
   Vendor: tCheck
   Product Type: Accessories
   Availability: Available
@@ -345,7 +345,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2026-02-12T06:55:30Z
   Total Products: 0
 - [Accessories for tCheck for Accurate Potency Testing | tCheck](https://tcheck.me/collections/accessories): Accessories for tCheck support accurate potency testing by enhancing device performance and usability, making your  testing process simple & effective.
-  Updated: 2026-02-12T12:07:17Z
+  Updated: 2026-02-19T12:07:04Z
   Total Products: 10
 - [Warranty products tCheck THC Potency Tester](https://tcheck.me/collections/warranty-products): Warranty products for tCheck THC Potency Tester and Accessories.
   Updated: 2026-02-12T06:55:31Z
@@ -360,7 +360,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2026-02-12T06:55:31Z
   Total Products: 6
 - [Amazon products of tCheck THC Potency Tester](https://tcheck.me/collections/amazon-products): SKU's only on Amazon for tCheck THC Potency Tester
-  Updated: 2026-02-12T12:07:17Z
+  Updated: 2026-02-19T12:07:04Z
   Total Products: 8
 - [Collaboration with other great THC Products](https://tcheck.me/collections/collaboration): Check out bundled products from our partners with the tCheck THC & CBD potency tester.
   Updated: 2026-02-12T06:55:31Z
@@ -372,7 +372,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Tax Exempt (Amazon)](https://tcheck.me/collections/tax-exempt-amazon): Exempt for purposes of calculating sales taxes due only because Amazon already calculates and charges sales tax.
-  Updated: 2026-02-12T12:07:17Z
+  Updated: 2026-02-19T12:07:04Z
   Total Products: 8
 - [Tax Exempt (Wholesale)](https://tcheck.me/collections/tax-exempt-wholesale): Tax exempt products because items are being sold wholesale and are not subject to sales tax.
   Updated: 2026-02-12T06:55:31Z
@@ -381,7 +381,7 @@ We believe that understanding what you consume is essential to mindful dosing an
   Updated: 2026-02-12T06:55:31Z
   Total Products: 0
 - [Advanced Potency Testing Devices & Testing Kits | tCheck](https://tcheck.me/collections/potency-tester-1): tCheck Potency Testers help measure the strength of infused oils, tinctures, and more at home. Designed for accuracy, consistency, and easy-to-read results.
-  Updated: 2026-02-12T12:07:17Z
+  Updated: 2026-02-19T12:07:04Z
   Total Products: 5
 
 ## Blogs
