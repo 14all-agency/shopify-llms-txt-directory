@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-09-05T15:31:37Z
 - Contact Email: ezdorestore@gmail.com
-- Updated At: 2026-02-13T00:00:30.271Z
+- Updated At: 2026-02-20T00:00:34.479Z
 
 ## Products
 
@@ -406,6 +406,12 @@
     Author: User
   - [How to Successfully Implement IoT within Your Organization](https://ezdore.com/blogs/news/how-to-successfully-implement-iot-within-your-organization): How to Successfully Implement IoT within Your Organization
     Updated: 2026-02-11T00:23:45Z
+    Author: User
+  - [New Era of Artificial Intelligence: Opportunities and Challenges](https://ezdore.com/blogs/news/new-era-of-artificial-intelligence-opportunities-and-challenges): New Era of Artificial Intelligence: Opportunities and Challenges
+    Updated: 2026-02-15T00:06:37Z
+    Author: User
+  - [Key Differences Between Virtual and Augmented Reality Applications](https://ezdore.com/blogs/news/key-differences-between-virtual-and-augmented-reality-applications): Key Differences Between Virtual and Augmented Reality Applications
+    Updated: 2026-02-18T00:22:04Z
     Author: User
 
 ## Store Pages
