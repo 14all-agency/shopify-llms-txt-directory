@@ -8,7 +8,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-10-13T20:53:59Z
 - Contact Email: Info@woofpurr.org
-- Updated At: 2026-02-13T09:44:18.298Z
+- Updated At: 2026-02-21T00:00:28.908Z
 
 ## Products
 
@@ -537,21 +537,21 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/3559/2034/files/QXazElWTccndyCUUvwcm.webp?v=1760476484
     Price: $39.99 AUD
-- [Pet Grooming Brush - Gentle Grooming Tool for Effortless Pet Care](https://www.woofpurr.org/products/pet-gentle-groomer-brush): Meta description: Discover the ultimate pet grooming brush for effortless pet care. This gentle grooming tool promotes a healthy coat, reduces shedding, and keeps your furry friend happy!
-  Updated: 2026-02-12T01:48:00Z
+- [Pet Grooming Brush - Gentle Grooming Tool for Effortless Pet Care](https://www.woofpurr.org/products/pet-groomer-brush): Meta description: Discover the ultimate pet grooming brush for effortless pet care. This gentle grooming tool promotes a healthy coat, reduces shedding, and keeps your furry friend happy!
+  Updated: 2026-02-13T14:08:23Z
   Vendor: WoofPurr
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/3559/2034/files/xd2IfacBaYYXGc6xJjWn.webp?v=1760476484
-  - [Red and Black / Set of 2](https://www.woofpurr.org/products/pet-gentle-groomer-brush?variant=42234684932194)
+  - [Red and Black / Set of 2](https://www.woofpurr.org/products/pet-groomer-brush?variant=42234684932194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/3559/2034/files/fuxX8Wt5dUdwEZc.webp?v=1760476485
     Price: $19.99 AUD
-  - [Red All Pet's Brush / Set of 1](https://www.woofpurr.org/products/pet-gentle-groomer-brush?variant=42234684964962)
+  - [Red All Pet's Brush / Set of 1](https://www.woofpurr.org/products/pet-groomer-brush?variant=42234684964962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/3559/2034/files/MvtBgKwVbKPw1pm.webp?v=1760476484
     Price: $12.99 AUD
-  - [Black Horse Brush / Set of 1](https://www.woofpurr.org/products/pet-gentle-groomer-brush?variant=42234684997730)
+  - [Black Horse Brush / Set of 1](https://www.woofpurr.org/products/pet-groomer-brush?variant=42234684997730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0649/3559/2034/files/EtYAW5Qltd5yRoo.webp?v=1760476485
     Price: $12.99 AUD
@@ -1041,8 +1041,8 @@
   Updated: 2026-02-08T11:16:52Z
 - [Brand Story - Discover Our Unique Journey and Values Behind the Brand](https://www.woofpurr.org/pages/brand-story): Your Brand Story: The Heart of Our JourneyEvery great product has a brand story that captures the essence of its origin, values, and mission. Our b...
   Updated: 2026-02-07T10:12:45Z
-- [HTML Sitemap Guide: Enhance Website Navigation with SEO Best Practices](https://www.woofpurr.org/pages/html-sitemap): HTML Sitemap Guide for Your Website NavigationIn today's digital landscape, a well-structured website is crucial for user experience and search eng...
-  Updated: 2026-02-07T10:14:33Z
+- [HTML Sitemap Guide: Enhance Website Navigation with SEO Best Practices](https://www.woofpurr.org/pages/html-sitemap): Products Premium Leather Dog Collar with ID Tag - Anti-Lost Safety Collar GPS Dog Tracker Collar - Real-Time GPS Dog Tracker Australia for Pets Adj...
+  Updated: 2026-02-13T10:12:58Z
 
 ## Policies
 
