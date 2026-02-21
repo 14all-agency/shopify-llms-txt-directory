@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Madrid
 - Created At: 2026-01-12T10:25:27Z
-- Updated At: 2026-02-13T00:00:34.643Z
+- Updated At: 2026-02-21T00:00:38.729Z
 
 ## Products
 
@@ -1212,6 +1212,639 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9f6f15ab90664f31b0e57e7c4d7fb037z.webp?v=1770641830
     Price: 48,34 € EUR
+- [Nordic Wall Sconces Light Fixture Led Marble Moon Bedside Lamp Interior Indoor Lighting Home Bedroom Decor Modern Hotel Simple](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr): Power:AC 110V-260VLight source:LEDSize:15cm,20cm,25cm Material: iron+glassApplication: living room,bedroom, stair, dining room, hotel room, exhibition hall,corridor and so on
+  Updated: 2026-02-18T09:00:49Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S2e62efcea7ac43a4a9670d4bdd5470dbc.webp?v=1771362035
+  - [15cm / black / cold light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426047835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfbffb4997dde403ba2628ee194246dc23.webp?v=1771362035
+    Price: 75,99 € EUR
+  - [15cm / Gold / cold light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426080603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S4645ba4b3c94489ba248223e3594b33fD.webp?v=1771362035
+    Price: 75,99 € EUR
+  - [15cm / black / warm light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426113371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfbffb4997dde403ba2628ee194246dc23.webp?v=1771362035
+    Price: 75,99 € EUR
+  - [15cm / Gold / warm light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426146139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S4645ba4b3c94489ba248223e3594b33fD.webp?v=1771362035
+    Price: 75,99 € EUR
+  - [25cm / black / cold light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426178907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfbffb4997dde403ba2628ee194246dc23.webp?v=1771362035
+    Price: 126,99 € EUR
+  - [25cm / Gold / cold light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426211675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S4645ba4b3c94489ba248223e3594b33fD.webp?v=1771362035
+    Price: 126,99 € EUR
+  - [25cm / black / warm light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426244443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfbffb4997dde403ba2628ee194246dc23.webp?v=1771362035
+    Price: 126,99 € EUR
+  - [25cm / Gold / warm light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426277211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S4645ba4b3c94489ba248223e3594b33fD.webp?v=1771362035
+    Price: 126,99 € EUR
+  - [20cm / black / cold light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426309979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfbffb4997dde403ba2628ee194246dc23.webp?v=1771362035
+    Price: 94,99 € EUR
+  - [20cm / Gold / cold light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426342747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S4645ba4b3c94489ba248223e3594b33fD.webp?v=1771362035
+    Price: 94,99 € EUR
+  - [20cm / black / warm light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426375515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfbffb4997dde403ba2628ee194246dc23.webp?v=1771362035
+    Price: 94,99 € EUR
+  - [20cm / Gold / warm light](https://mywashshop.myshopify.com/products/nordic-wall-sconces-light-fixture-led-marble-moon-bedside-lamp-interior-indoor-lighting-home-bedroom-decor-modern-hotel-simple-113561043291-vyzjr?variant=52404426408283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S4645ba4b3c94489ba248223e3594b33fD.webp?v=1771362035
+    Price: 94,99 € EUR
+- [Modern Indoor Wall Light Lamp Suitable For Bedroom Bedside Living Room Home Decor Light Fixture](https://mywashshop.myshopify.com/products/modern-indoor-wall-light-lamp-suitable-for-bedroom-bedside-living-room-home-decor-light-fixture-113561043291-woe8o): Modern Indoor Wall Light Lamp Suitable For Bedroom Bedside Living Room Home Decor Light Fixture
+  Updated: 2026-02-18T09:00:44Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sb2c5e5655fe34195a67a076ec39b2ae4u.webp?v=1771362035
+  - [Black](https://mywashshop.myshopify.com/products/modern-indoor-wall-light-lamp-suitable-for-bedroom-bedside-living-room-home-decor-light-fixture-113561043291-woe8o?variant=52404425982299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9d0d252394674ee298acbc5177a90997a.webp?v=1771362035
+    Price: 26,99 € EUR
+  - [Gold](https://mywashshop.myshopify.com/products/modern-indoor-wall-light-lamp-suitable-for-bedroom-bedside-living-room-home-decor-light-fixture-113561043291-woe8o?variant=52404426015067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S71bdd9afb5b349d4aa805be32904bbd7n.webp?v=1771362036
+    Price: 26,99 € EUR
+- [LED Table Lamp Interior Lighting Wabi-Sabi Fixture Dining Table Bedside Bedroom Living Nordic Home Decoration Desk Light](https://mywashshop.myshopify.com/products/led-table-lamp-interior-lighting-wabi-sabi-fixture-dining-table-bedside-bedroom-living-nordic-home-decoration-desk-light-113561043291-31tly): Name: Table LampLampshade color: whiteMaterial: rice paperLamp Size: A style:33.5 X 22 cm;B style:24 X 24 cmPower Type: Plug-inPower Plug: EU,USInput voltage: 90V-260VBulb: E14Use area: 1-3 square metersPackage Includes:1 X Table Lamp
+  Updated: 2026-02-18T09:00:43Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9112213c9e7948118c04c32ca49455f9o.webp?v=1771362035
+  - [US Plug / B style](https://mywashshop.myshopify.com/products/led-table-lamp-interior-lighting-wabi-sabi-fixture-dining-table-bedside-bedroom-living-nordic-home-decoration-desk-light-113561043291-31tly?variant=52404426441051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S1c9509e123014d8191f410233333e704r.webp?v=1771362035
+    Price: 30,99 € EUR
+  - [US Plug / A style](https://mywashshop.myshopify.com/products/led-table-lamp-interior-lighting-wabi-sabi-fixture-dining-table-bedside-bedroom-living-nordic-home-decoration-desk-light-113561043291-31tly?variant=52404426473819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Saf9e7a3eb22f4fd695677b2dc648b4b8i.webp?v=1771362035
+    Price: 31,99 € EUR
+  - [EU Plug / B style](https://mywashshop.myshopify.com/products/led-table-lamp-interior-lighting-wabi-sabi-fixture-dining-table-bedside-bedroom-living-nordic-home-decoration-desk-light-113561043291-31tly?variant=52404426506587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S1c9509e123014d8191f410233333e704r.webp?v=1771362035
+    Price: 31,99 € EUR
+  - [EU Plug / A style](https://mywashshop.myshopify.com/products/led-table-lamp-interior-lighting-wabi-sabi-fixture-dining-table-bedside-bedroom-living-nordic-home-decoration-desk-light-113561043291-31tly?variant=52404426539355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Saf9e7a3eb22f4fd695677b2dc648b4b8i.webp?v=1771362035
+    Price: 32,99 € EUR
+- [Indoor LED Wall Lamp Living Room Decoration Wall Light Home Lighting Fixture Loft Stair Light Round/Square Aluminum AC90-260V](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt): Size:  Round Diameter 15cm / Diameter 20cm / Diameter 24cmMaterial: Aluminum + AcrylicPower: 8W/12W/18WColor Temperature: Warm White (2700-3500K) / Nature White(3500-5500K)Note: This light needs to be connected with electric wires, the input voltage is AC90-260V. This light without switch.
+  Updated: 2026-02-18T09:20:28Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+  - [Diameter 15cm / black / Nature White(3500-5500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426572123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 32,99 € EUR
+  - [Diameter 15cm / WHITE / Nature White(3500-5500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426604891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 32,99 € EUR
+  - [Diameter 15cm / black / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426637659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 31,99 € EUR
+  - [Diameter 15cm / WHITE / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426670427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 36,99 € EUR
+  - [Diameter 24cm / black / Nature White(3500-5500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426703195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 57,99 € EUR
+  - [Diameter 24cm / WHITE / Nature White(3500-5500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426735963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 57,99 € EUR
+  - [Diameter 24cm / black / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426768731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 55,99 € EUR
+  - [Diameter 24cm / WHITE / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426801499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 56,99 € EUR
+  - [Diameter 20cm / black / Nature White(3500-5500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426834267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 42,99 € EUR
+  - [Diameter 20cm / WHITE / Nature White(3500-5500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426867035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 43,99 € EUR
+  - [Diameter 20cm / black / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426899803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 41,99 € EUR
+  - [Diameter 20cm / WHITE / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt?variant=52404426932571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/HLB1SHZHaizxK1RkSnaVq6xn9VXah.webp?v=1771362036
+    Price: 41,99 € EUR
+- [Bamboo Pendant Lamp Lustre Chandelier Hanging Lamp Handmade Rattan Pendant Light Fixture Restaurant Dining Room Indoor Lighting](https://mywashshop.myshopify.com/products/bamboo-pendant-lamp-lustre-chandelier-hanging-lamp-handmade-rattan-pendant-light-fixture-restaurant-dining-room-indoor-lighting-113561043291-uscr4): Bamboo Pendant Lamp Lustre Chandelier Hanging Lamp Handmade Rattan Pendant Light Fixture Restaurant Dining Room Indoor LightingProduct parametersProduct name: bamboo chandelier, bamboo ceiling lampLampshade size: Style Q (Style W): 20*20*15cmStyle E: 30*30*16cmStyle: ceiling style, hanging wire styleLamp holder: E27 (excluding bulb)Color: bamboo colorVoltage: Ac220VNote: No bulb1. There are 3 styles in total, please refer to the SKU sold.2. Details and main picture are for reference only.3. Please wire by yourself. If you don’t know how to install it, please ask a professional electrician to install it.4. Manual measurement of size may result in an error of 1-3cm, which is normal.
+  Updated: 2026-02-18T09:04:47Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S67029291f938479baf860b4bcc8cb4cep.webp?v=1771362036
+  - [Style W / Without Bulb](https://mywashshop.myshopify.com/products/bamboo-pendant-lamp-lustre-chandelier-hanging-lamp-handmade-rattan-pendant-light-fixture-restaurant-dining-room-indoor-lighting-113561043291-uscr4?variant=52404426965339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8ed99a5784c14e7f832ea5ee9d9511dbm.webp?v=1771362036
+    Price: 21,99 € EUR
+  - [Style Q / Without Bulb](https://mywashshop.myshopify.com/products/bamboo-pendant-lamp-lustre-chandelier-hanging-lamp-handmade-rattan-pendant-light-fixture-restaurant-dining-room-indoor-lighting-113561043291-uscr4?variant=52404426998107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sabd0d26978884645b04108f7feba7d10r.webp?v=1771362036
+    Price: 22,99 € EUR
+  - [Style E / Without Bulb](https://mywashshop.myshopify.com/products/bamboo-pendant-lamp-lustre-chandelier-hanging-lamp-handmade-rattan-pendant-light-fixture-restaurant-dining-room-indoor-lighting-113561043291-uscr4?variant=52404427030875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sb030e6def09e43f1a611f1bbe88eb35by.webp?v=1771362036
+    Price: 43,99 € EUR
+- [Indoor LED Wall Lamp Living Room Decor Wall Light Gold/Silver Home Lighting Fixture Loft Stair Light Round Aluminum AC90-260V](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decor-wall-light-gold-silver-home-lighting-fixture-loft-stair-light-round-aluminum-ac90-260v-113561043291-nl9y9): ITEM DETAIL SIZETURN ON DISPLAYREAL SCENE DISPLAYSHOPPING TERMS
+  Updated: 2026-02-18T09:00:42Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc0c24a5e14eb4adc8be0a51bba5719c9F.webp?v=1771362036
+  - [Brushed Gold / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decor-wall-light-gold-silver-home-lighting-fixture-loft-stair-light-round-aluminum-ac90-260v-113561043291-nl9y9?variant=52404427063643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S18206f765f0041f38fc2a1f8194b20f8U.webp?v=1771362036
+    Price: 71,99 € EUR
+  - [Brushed silver / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decor-wall-light-gold-silver-home-lighting-fixture-loft-stair-light-round-aluminum-ac90-260v-113561043291-nl9y9?variant=52404427096411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S67c42d8266814c2f91ac2458291b48c5u.webp?v=1771362035
+    Price: 73,99 € EUR
+- [Pendant Light Rattan Hanging Lights Cord Bamboo Hanging Lamp Dimmable Basket Lamp Shade,Hemp Rope Plug in Ceiling Light Fixture](https://mywashshop.myshopify.com/products/pendant-light-rattan-hanging-lights-cord-bamboo-hanging-lamp-dimmable-basket-lamp-shade-hemp-rope-plug-in-ceiling-light-fixture-113561043291-uhkf2): Pendant Light Rattan Hanging Lights Cord Bamboo Hanging Lamp Dimmable Basket Lamp Shade,Hemp Rope Plug in Ceiling Light Fixture
+  Updated: 2026-02-18T09:00:43Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sd69de78083144711ab833dcac4d0fdfaY.webp?v=1771362037
+  - [NO Bulb / 30CM](https://mywashshop.myshopify.com/products/pendant-light-rattan-hanging-lights-cord-bamboo-hanging-lamp-dimmable-basket-lamp-shade-hemp-rope-plug-in-ceiling-light-fixture-113561043291-uhkf2?variant=52404427325787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S0ff3114a36384ce5b02dde2cf3ecabdb0.webp?v=1771362037
+    Price: 49,99 € EUR
+  - [3000K / 30CM](https://mywashshop.myshopify.com/products/pendant-light-rattan-hanging-lights-cord-bamboo-hanging-lamp-dimmable-basket-lamp-shade-hemp-rope-plug-in-ceiling-light-fixture-113561043291-uhkf2?variant=52404427358555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S0ff3114a36384ce5b02dde2cf3ecabdb0.webp?v=1771362037
+    Price: 55,99 € EUR
+  - [6000K / 30CM](https://mywashshop.myshopify.com/products/pendant-light-rattan-hanging-lights-cord-bamboo-hanging-lamp-dimmable-basket-lamp-shade-hemp-rope-plug-in-ceiling-light-fixture-113561043291-uhkf2?variant=52404427391323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S0ff3114a36384ce5b02dde2cf3ecabdb0.webp?v=1771362037
+    Price: 55,99 € EUR
+- [LED Interior Decor Wall Light for Living Room Aisel Corridor Bedroom Lamp Bathroom Nordic Creative Home Fixture Decorative Lamp](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v): Tip：Due to different displays, the lighting of the images and the actual objects may vary！！
+  Updated: 2026-02-18T09:06:36Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S632fae2a39e5420c8e92792f5c4dc525V.webp?v=1771362037
+  - [D15-H13cm / Red / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v?variant=52404427129179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S666e8f87047947c1973020d3c31c958c7.webp?v=1771362036
+    Price: 57,99 € EUR
+  - [D15-H13cm / Chrome / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v?variant=52404427161947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S6a99d3148b4945b3ad60a334e2a0f532B.webp?v=1771362037
+    Price: 58,99 € EUR
+  - [D15-H13cm / black / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v?variant=52404427194715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sda040265406f4f9e829791006f833190N.webp?v=1771362037
+    Price: 58,99 € EUR
+  - [D15-H13cm / WHITE / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v?variant=52404427227483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfd746f9e766f47b4b30d886148ea9fe5O.webp?v=1771362036
+    Price: 60,99 € EUR
+  - [D15-H13cm / Gold / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v?variant=52404427260251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8cbbe1a937924dc08b1edc2213108a20S.webp?v=1771362037
+    Price: 56,99 € EUR
+  - [D15-H13cm / Yellow / Warm White (2700-3500K)](https://mywashshop.myshopify.com/products/led-interior-decor-wall-light-for-living-room-aisel-corridor-bedroom-lamp-bathroom-nordic-creative-home-fixture-decorative-lamp-113561043291-z2m8v?variant=52404427293019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S090d473a06d745eabcfa26dcd945ba2bx.webp?v=1771362036
+    Price: 58,99 € EUR
+- [Modern LED Wall Lamp Crystal Lampshade Light for Bathroom Bedroom Living Room Indoor Fixture Wall Sconces for Home Decoration](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy): is_customized : no Is Smart Device : no Usage : Daily Lighting Switch Type : Touch On/Off Switch Features : daily light Model Number : E14 led bedroom lamp Lighting Area : 5-10square meters Application : Kitchen,Dining Room,Bed Room,Foyer,Study,BATHROOM Technics : Plated Number of light sources : &gt; 20 Material : Metal Warranty : 3 years Shade Type : CRYSTAL Shade Direction : Up &amp; Down Is Dimmable : Yes Base Type : Wedge Style : Modern Style Body Material : iron Certification : CCC,ce Voltage : 90-260V Power Source : AC Installation Type : Wall Mounted Light Source : LED Is Bulbs Included : Yes  Origin : Mainland China Item Type : Wall Lamps LED wall lamp : E14 led wall lamp led bedroom wall lamp : crystal wall lamp Bedside LED Wall Lamp : Bedroom Living Room Light wall lights for living room : crystal wall light crystal wall sconce : wall lamp applique murale intérieur : arandela interna parede arandelas internas luminaria : luminaria quarto arandela parede interna dourada : luminaria de parede sconce Glass : Glass wall lamp internal wall sconce : bedroom wall lighting wall light : interior wall lights wall sconce : wall sconce lamp wall sconces in the bedroom : wall sconces,wall sconce lamp Wall lamps : wall light sconcesBedside LED Wall Lamp Crystal Shade Modern Indoor Lighting Fixtures Bedroom Living Room Light Home Decor 9WSpecificationInstallation Type: Wall mountedSize :35*13 cmColor: Gold baseMaterial:Metal +CrystalSquare:5-8㎡Watt:9wProcess:PlatedLight color:Warm light /Natural light/Cold lightInput Voltage:AC96-220V(96-220V)Lifespan: More than 70,000 hrsApplication :bathroom, living room, bedroom, staircase, balcony, office, restaurant, hotel, shop, cafe, etc.
+  Updated: 2026-02-18T12:18:12Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8a2290500db74031bf60bd0df5e6b295b.webp?v=1771362038
+  - [9w / 506 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404427981147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbcaf649c80f2468b97b365c845d76f042.webp?v=1771362038
+    Price: 73,99 € EUR
+  - [9w / 182-1 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404428013915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S380cfd2b319e4df69c6f0738923fdaa8d.webp?v=1771362039
+    Price: 78,99 € EUR
+  - [9w / 509 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404428046683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S28e3a250c5c24ac99e83fc3a25be2c67D.webp?v=1771362039
+    Price: 78,99 € EUR
+  - [9w / 507 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404428079451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sdd542925259b40fea12151ff84b9e909P.webp?v=1771362039
+    Price: 73,99 € EUR
+  - [9w / 505 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404428112219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sf02372165c2e494bb333ba8207c63296G.webp?v=1771362039
+    Price: 73,99 € EUR
+  - [9w / 109-1 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404428144987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S284c5bffa0c54d1b93a3bb5c0f5b4891K.webp?v=1771362039
+    Price: 75,99 € EUR
+  - [9w / 510 / LED 3 dimming color](https://mywashshop.myshopify.com/products/modern-led-wall-lamp-crystal-lampshade-light-for-bathroom-bedroom-living-room-indoor-fixture-wall-sconces-for-home-decoration-113561043291-rdhdy?variant=52404428177755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S71d857e6b2e644279263766b142f4b3bv.webp?v=1771362039
+    Price: 73,99 € EUR
+- [Retro Wood Wall Light E27 Vintage Sconce Wall Lights Fixture Indoor Home Decor Dining Room Bedside Lamp Bedroom Lighting](https://mywashshop.myshopify.com/products/retro-wood-wall-light-e27-vintage-sconce-wall-lights-fixture-indoor-home-decor-dining-room-bedside-lamp-bedroom-lighting-113561043291-jqg3n): Retro Wood Wall Light E27 Vintage Sconce Wall Lights Fixture Indoor Home Decor Dining Room Bedside Lamp Bedroom Lighting
+  Updated: 2026-02-18T09:06:08Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8807e06bf0e4416c8ff9fe17577d2b5fW.webp?v=1771362104
+  - [With 220V led bulb](https://mywashshop.myshopify.com/products/retro-wood-wall-light-e27-vintage-sconce-wall-lights-fixture-indoor-home-decor-dining-room-bedside-lamp-bedroom-lighting-113561043291-jqg3n?variant=52404430635355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S6538fcf819a64f5a89f79afbd828e048P.webp?v=1771362104
+    Price: 27,99 € EUR
+  - [Wthout bulb](https://mywashshop.myshopify.com/products/retro-wood-wall-light-e27-vintage-sconce-wall-lights-fixture-indoor-home-decor-dining-room-bedside-lamp-bedroom-lighting-113561043291-jqg3n?variant=52404430668123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sd0e70bf9de0743c39828f0f5e8d105d6A.webp?v=1771362104
+    Price: 26,99 € EUR
+- [LED Wall Lamp Indoor Up and Down Interior Wall Light Bedroom Living Room Corridor Outdoor Lighting Home Decor](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc): LED Wall Lamp Indoor Up and Down Interior Wall Light Bedroom Living Room Corridor Outdoor Lighting Home Decor
+  Updated: 2026-02-18T09:08:41Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S48ab41d360bb4df1965981a2bb31c4f6i.webp?v=1771362070
+  - [Black-8W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428374363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc73023521bdf488e8c7b2c59a0c75502K.webp?v=1771362070
+    Price: 13,99 € EUR
+  - [White-8W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428407131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sf77d337ab57b4973b380c715de87bd2aA.webp?v=1771362070
+    Price: 14,99 € EUR
+  - [Black-4W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428439899)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S49ab4f3a158347938da7f704a87636b8d.webp?v=1771362070
+    Price: 10,99 € EUR
+  - [Black-10W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428472667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa9bc3f9b2e2e488787725e9bebf05e94o.webp?v=1771362071
+    Price: 15,99 € EUR
+  - [White-4W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428505435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Se077177ce5c048fa9b48662e57241608z.webp?v=1771362070
+    Price: 10,99 € EUR
+  - [White-6W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428538203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S894328cf2c7a47d28f1f044e669684b6v.webp?v=1771362069
+    Price: 12,99 € EUR
+  - [White-10W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428570971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9564e27a9199445b870b60bc9aa7411eh.webp?v=1771362070
+    Price: 15,99 € EUR
+  - [Black-6W / 3000K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428603739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9774d576647341df9c8f0b6edd7863ccE.webp?v=1771362069
+    Price: 12,99 € EUR
+  - [Black-8W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428636507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc73023521bdf488e8c7b2c59a0c75502K.webp?v=1771362070
+    Price: 14,99 € EUR
+  - [White-8W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428669275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sf77d337ab57b4973b380c715de87bd2aA.webp?v=1771362070
+    Price: 14,99 € EUR
+  - [Black-4W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428702043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S49ab4f3a158347938da7f704a87636b8d.webp?v=1771362070
+    Price: 10,99 € EUR
+  - [Black-10W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428734811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa9bc3f9b2e2e488787725e9bebf05e94o.webp?v=1771362071
+    Price: 15,99 € EUR
+  - [White-4W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428767579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Se077177ce5c048fa9b48662e57241608z.webp?v=1771362070
+    Price: 10,99 € EUR
+  - [White-6W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428800347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S894328cf2c7a47d28f1f044e669684b6v.webp?v=1771362069
+    Price: 12,99 € EUR
+  - [White-10W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428833115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9564e27a9199445b870b60bc9aa7411eh.webp?v=1771362070
+    Price: 14,99 € EUR
+  - [Black-6W / 6500K](https://mywashshop.myshopify.com/products/led-wall-lamp-indoor-up-and-down-interior-wall-light-bedroom-living-room-corridor-outdoor-lighting-home-decor-113561043291-meeyc?variant=52404428865883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S9774d576647341df9c8f0b6edd7863ccE.webp?v=1771362069
+    Price: 12,99 € EUR
+- [Wabi-sabi LED Wall Lamp Garden Light Stone IP65 Outdoor Waterproof Bedside Retro Sconces Lighting Fixture Home Decoration Indoor](https://mywashshop.myshopify.com/products/wabi-sabi-led-wall-lamp-garden-light-stone-ip65-outdoor-waterproof-bedside-retro-sconces-lighting-fixture-home-decoration-indoor-113561043291-hldkl): Wabi-sabi LED Wall Lamp Garden Light Stone IP65 Outdoor Waterproof Bedside Retro Sconces Lighting Fixture Home Decoration Indoor
+  Updated: 2026-02-18T09:16:38Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc952a8a500ed4e2b9fab3906efe64b78T.webp?v=1771362098
+  - [indoor / warm light](https://mywashshop.myshopify.com/products/wabi-sabi-led-wall-lamp-garden-light-stone-ip65-outdoor-waterproof-bedside-retro-sconces-lighting-fixture-home-decoration-indoor-113561043291-hldkl?variant=52404430504283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sca51d25205904677a893e5e4a9700a91H.webp?v=1771362098
+    Price: 78,99 € EUR
+  - [22cm-outdoor / warm light](https://mywashshop.myshopify.com/products/wabi-sabi-led-wall-lamp-garden-light-stone-ip65-outdoor-waterproof-bedside-retro-sconces-lighting-fixture-home-decoration-indoor-113561043291-hldkl?variant=52404430537051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sb9445d7dd1c44b78ba58da916569ef0cl.webp?v=1771362098
+    Price: 81,99 € EUR
+  - [32cm-indoor / warm light](https://mywashshop.myshopify.com/products/wabi-sabi-led-wall-lamp-garden-light-stone-ip65-outdoor-waterproof-bedside-retro-sconces-lighting-fixture-home-decoration-indoor-113561043291-hldkl?variant=52404430569819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S616c3807f2924b5bbda7e446f5e1abd9g.webp?v=1771362099
+    Price: 109,99 € EUR
+  - [32cm-outdoor / warm light](https://mywashshop.myshopify.com/products/wabi-sabi-led-wall-lamp-garden-light-stone-ip65-outdoor-waterproof-bedside-retro-sconces-lighting-fixture-home-decoration-indoor-113561043291-hldkl?variant=52404430602587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S616c3807f2924b5bbda7e446f5e1abd9g.webp?v=1771362099
+    Price: 108,99 € EUR
+- [Rattan Bamboo Wall Sconce Light Fixture Vintage Wall Lamp Lighting Bedside Retro Lamp Industrial Decor Dining Room Bedroom](https://mywashshop.myshopify.com/products/rattan-bamboo-wall-sconce-light-fixture-vintage-wall-lamp-lighting-bedside-retro-lamp-industrial-decor-dining-room-bedroom-113561043291-iwre0): Description: Material: High quality bamboo rattan wall sconce, hand woven, rustic vintage style, not easy to deform, durable and strong. Decoration: Every detail is carefully crafted, and environmentally friendly, turning your home into a peaceful area, and underlining your taste.Widely Decorating: This exquisite wall sconce light is very suitable for decorating your room, a beautiful decoration to the dining area, kitchen, bedroom, bedside, living room, hallway, porch, etc.Housewarming Gift: Using this wall lamp can make the room softer. A great housewarming gift for a friend or anyone you loveNote: Bulb is NOT included. Specification: Product Dimensions: (Optional) Height x WidthS: 28cmx25cm/11.02inchx9.84inchL: 36cmx29.5cm/14.17inchx11.61inchMaterial: Bamboo Package Includes: 1 Wall Sconce (Not Included Bulb) Note: Please allow slightly errors due to manual measurement and different monitors.
+  Updated: 2026-02-18T09:00:49Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S769835c7f8844e4086fe863ad35612d86.webp?v=1771362040
+  - [L](https://mywashshop.myshopify.com/products/rattan-bamboo-wall-sconce-light-fixture-vintage-wall-lamp-lighting-bedside-retro-lamp-industrial-decor-dining-room-bedroom-113561043291-iwre0?variant=52404428243291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S769835c7f8844e4086fe863ad35612d86.webp?v=1771362040
+    Price: 69,99 € EUR
+  - [S](https://mywashshop.myshopify.com/products/rattan-bamboo-wall-sconce-light-fixture-vintage-wall-lamp-lighting-bedside-retro-lamp-industrial-decor-dining-room-bedroom-113561043291-iwre0?variant=52404428276059)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S769835c7f8844e4086fe863ad35612d86.webp?v=1771362040
+    Price: 75,99 € EUR
+- [AC85-265V E27 LED Wall Light Modern Glass Decorative Lighting Sconce Fixture Lamp](https://mywashshop.myshopify.com/products/ac85-265v-e27-led-wall-light-modern-glass-decorative-lighting-sconce-fixture-lamp-113561043291-opb3g): brand new and high quality     Features:   Creative modern style glass pendant wall lamp, energy saving, durable, stable and safe, bring you into a healthy lighting experience.   Features a cylinder glass shade sits atop a stainless steel base finished in chrome to add shimmering sophistication to your home decoration.    When illuminated, this wall sconce will throw gentle and soft light with LED bulb.    To focus light where you need it in bathrooms, living rooms and more, and it will be a beautiful addition to your home.    Suitable for bedroom, dining room, living room, study room, bathroom, hallway, etc. It also can be used in restaurant and hotel.     Specification:          Light head: Single         Input voltage: AC85-265V         Light base: E27 (without bulb)         Types: Light without switch, Light with pull switch         Material: Glass &amp; metal         Dimensions: 20x9x15cm/7.87x3.54x5.91inch         Product color: White         Quantity: 1 Set          Note: 1.Please allow 0-1cm error due to manual measurement. pls make sure you do not mind before you bid.             2.Due to the difference between different monitors, the picture may not reflect the actual color of the item. Thank you!     Package includes:   1 Set LED Wall Light (without bulb)
+  Updated: 2026-02-18T09:01:20Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/H15969a2b949f4d35bd7ef885e380ca11C.webp?v=1771362071
+  - [Light with pull swit](https://mywashshop.myshopify.com/products/ac85-265v-e27-led-wall-light-modern-glass-decorative-lighting-sconce-fixture-lamp-113561043291-opb3g?variant=52404428308827)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Hfa7fee26a59440fc8d1747a3f34339a2J.webp?v=1771362070
+    Price: 43,99 € EUR
+  - [Light without switch](https://mywashshop.myshopify.com/products/ac85-265v-e27-led-wall-light-modern-glass-decorative-lighting-sconce-fixture-lamp-113561043291-opb3g?variant=52404428341595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Hf0a9be85ef5e4c83bf9b62209f0f00ecn.webp?v=1771362070
+    Price: 41,99 € EUR
+- [Nordic LED Butterfly Wall Lamp Indoor Lighting Fixture Living Bedside Bedroom Hotel TV Modern Home Decoration Wall Light Sconces](https://mywashshop.myshopify.com/products/nordic-led-butterfly-wall-lamp-indoor-lighting-fixture-living-bedside-bedroom-hotel-tv-modern-home-decoration-wall-light-sconces-113561043291-itaoi): Name: Butterfly Wall LampLight color: 3 light colors (white light, warm light, natural light and other three light colors can be switched)Lampshade/Shell color: glass lampshadeMaterial: AcrylicSize: 20 x14cmInput voltage: 90V-260VPackage Included:-&gt; 1 pcs wall lamp （No switch）
+  Updated: 2026-02-18T09:01:47Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S53fa5e127f5f461f825646a3ddc9ce8bd.webp?v=1771362102
+  Price: 57,99 € EUR
+- [Nordic Retro Resin Wall Lamp Left Hand Right Hand Fist Sconces Wall Fixture Home Decor Light Indoor Restaurant Bar Decoration](https://mywashshop.myshopify.com/products/nordic-retro-resin-wall-lamp-left-hand-right-hand-fist-sconces-wall-fixture-home-decor-light-indoor-restaurant-bar-decoration-113561043291-vrhy1): Nordic Retro Resin Wall Lamp Left Hand Right Hand Fist Sconces Wall Fixture Home Decor Light Indoor Restaurant Bar Decoration
+  Updated: 2026-02-18T09:05:55Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S999e7bf9060f4dbe91d603101a6be4cdh.webp?v=1771362110
+  - [No bulb / Left hand](https://mywashshop.myshopify.com/products/nordic-retro-resin-wall-lamp-left-hand-right-hand-fist-sconces-wall-fixture-home-decor-light-indoor-restaurant-bar-decoration-113561043291-vrhy1?variant=52404430733659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sddeb99738858458d9ec90810d64bf448a.webp?v=1771362110
+    Price: 26,99 € EUR
+  - [No bulb / Right hand](https://mywashshop.myshopify.com/products/nordic-retro-resin-wall-lamp-left-hand-right-hand-fist-sconces-wall-fixture-home-decor-light-indoor-restaurant-bar-decoration-113561043291-vrhy1?variant=52404430766427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S538b85bc729646d58303d6d05638fea2H.webp?v=1771362109
+    Price: 27,99 € EUR
+- [Butterfly LED Wall Lamp Indoor Lighting  Home Bedroom Bedside Table Living Room Decoration Nordic Interior Wall Light Sconces](https://mywashshop.myshopify.com/products/butterfly-led-wall-lamp-indoor-lighting-home-bedroom-bedside-table-living-room-decoration-nordic-interior-wall-light-sconces-113561043291-1wvsz): Name: Butterfly Wall LampLight color: white light, natural light, warm light，2 light colors (you can switch between warm light and white light).Shell color: golden, transparent wingsMaterial: AcrylicSize: 18 * 20 cmInput voltage: 90V-220VWorking power: 5WPackage Included:-&gt; 1 wall lamp
+  Updated: 2026-02-18T13:05:40Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S3b7f11657d2a447fb95bbac35e623c89v.webp?v=1771362085
+  - [B Style 2 Head / 3 light colors](https://mywashshop.myshopify.com/products/butterfly-led-wall-lamp-indoor-lighting-home-bedroom-bedside-table-living-room-decoration-nordic-interior-wall-light-sconces-113561043291-1wvsz?variant=52404429848923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S1ddf63a34de54acabdad96a23e58be75e.webp?v=1771362086
+    Price: 74,99 € EUR
+  - [B Style 1 Heads / 3 light colors](https://mywashshop.myshopify.com/products/butterfly-led-wall-lamp-indoor-lighting-home-bedroom-bedside-table-living-room-decoration-nordic-interior-wall-light-sconces-113561043291-1wvsz?variant=52404429881691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7f16c078df044ecb48741e11976bc6cv.webp?v=1771362085
+    Price: 44,99 € EUR
+  - [A With Switch / 3 light colors](https://mywashshop.myshopify.com/products/butterfly-led-wall-lamp-indoor-lighting-home-bedroom-bedside-table-living-room-decoration-nordic-interior-wall-light-sconces-113561043291-1wvsz?variant=52404429914459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S47648d7e15b1407bbd83449fa4ecaf5ah.webp?v=1771362085
+    Price: 44,99 € EUR
+  - [A No Switches / 3 light colors](https://mywashshop.myshopify.com/products/butterfly-led-wall-lamp-indoor-lighting-home-bedroom-bedside-table-living-room-decoration-nordic-interior-wall-light-sconces-113561043291-1wvsz?variant=52404429947227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S7a9b75158ddd47339e6f468ca3d828caW.webp?v=1771362085
+    Price: 44,99 € EUR
+- [Modern Crystal Ceiling Light for Dining Room Chandelier Led Pendant Lamp Plafonnier Nordic Indoor Home Appliance Decor Fixture](https://mywashshop.myshopify.com/products/modern-crystal-ceiling-light-for-dining-room-chandelier-led-pendant-lamp-plafonnier-nordic-indoor-home-appliance-decor-fixture-113561043291-a6zxz): Modern Crystal Ceiling Light for Dining Room Chandelier Led Pendant Lamp Plafonnier Nordic Indoor Home Appliance Decor FixtureSpecification :Light Source:LED stripsVoltage：90-260VLamp color：warm light/ cold light/Material：crystal + stainless steelLight Socket：WedgeLighting area：10-15 sqaure metersSize：as pictures showApplication：Dining room，Lving room, bedroom Hotel，Foyer，Study，Small meeting room, indoor,etc.Warranty：2years
+  Updated: 2026-02-18T09:01:41Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sfa481374bc914a45b5a8715f52ddb6bcD.webp?v=1771362092
+  - [SCFX / China Mainland / changeable](https://mywashshop.myshopify.com/products/modern-crystal-ceiling-light-for-dining-room-chandelier-led-pendant-lamp-plafonnier-nordic-indoor-home-appliance-decor-fixture-113561043291-a6zxz?variant=52404430340443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S2fc2351fc2fe452881f01345459d99e6k.webp?v=1771362092
+    Price: 93,99 € EUR
+  - [SCFX / Russian Federation / changeable](https://mywashshop.myshopify.com/products/modern-crystal-ceiling-light-for-dining-room-chandelier-led-pendant-lamp-plafonnier-nordic-indoor-home-appliance-decor-fixture-113561043291-a6zxz?variant=52404430373211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S2fc2351fc2fe452881f01345459d99e6k.webp?v=1771362092
+    Price: 64,99 € EUR
+  - [SCFX / UNITED KINGDOM / changeable](https://mywashshop.myshopify.com/products/modern-crystal-ceiling-light-for-dining-room-chandelier-led-pendant-lamp-plafonnier-nordic-indoor-home-appliance-decor-fixture-113561043291-a6zxz?variant=52404430405979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S2fc2351fc2fe452881f01345459d99e6k.webp?v=1771362092
+    Price: 64,99 € EUR
+  - [SCFX / United States / changeable](https://mywashshop.myshopify.com/products/modern-crystal-ceiling-light-for-dining-room-chandelier-led-pendant-lamp-plafonnier-nordic-indoor-home-appliance-decor-fixture-113561043291-a6zxz?variant=52404430438747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S2fc2351fc2fe452881f01345459d99e6k.webp?v=1771362092
+    Price: 64,99 € EUR
+  - [SCFX / CZECH REPUBLIC / changeable](https://mywashshop.myshopify.com/products/modern-crystal-ceiling-light-for-dining-room-chandelier-led-pendant-lamp-plafonnier-nordic-indoor-home-appliance-decor-fixture-113561043291-a6zxz?variant=52404430471515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S2fc2351fc2fe452881f01345459d99e6k.webp?v=1771362092
+    Price: 64,99 € EUR
+- [Asian Rustic Bamboo Flush Mount Ceiling Light 3-Lamp Antique Rattan Ceiling Light Weaving Lantern Lighting Fixture](https://mywashshop.myshopify.com/products/asian-rustic-bamboo-flush-mount-ceiling-light-3-lamp-antique-rattan-ceiling-light-weaving-lantern-lighting-fixture-113561043291-ggihs): Product DescriptionCategory: Ceiling LightsColors: YellowMaterial: BambooStyle:Rustic/LodgeLight Direction: Down LightingNumber Of Bulbs:3 LightsSpecialty Shape: DrumBulb Base:E26（110V-220V），E27（110V-220VCraft: hand-wovenBulb Included Or Not: Bulb Not IncludedBulb Type: LED/Incandescent/FluorescentSize: 40x14cm/50x16cmWeight: 0.7kg / 0.85kgFeature:-- The product is made of high quality bamboo, the lines are even and soft, the quality is good, and it is not easy to damage.-- E27 screw light source for Edison bulbs, energy-saving bulbs (without light source)Applicable rooms: living room, dining room, bedroom, balcony, office, villa, bar, cafe, club, etc.Note:1. This product is in danger of electric shock. Do not connect wires until the lights are fully assembled2. Before installing the lamp, please check if the structure is firm and the whole bulb is coordinated.3. During the cleaning and maintenance proce
+  Updated: 2026-02-18T09:08:50Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sdbd5d7e5413f44ce8404e8a3b1f022c83.webp?v=1771362073
+  - [40CM / Yellow / GERMANY](https://mywashshop.myshopify.com/products/asian-rustic-bamboo-flush-mount-ceiling-light-3-lamp-antique-rattan-ceiling-light-weaving-lantern-lighting-fixture-113561043291-ggihs?variant=52404428898651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8adcaec3c4ed46ae84120bf676ca641ed.webp?v=1771362073
+    Price: 83,99 € EUR
+  - [40CM / Yellow / United States](https://mywashshop.myshopify.com/products/asian-rustic-bamboo-flush-mount-ceiling-light-3-lamp-antique-rattan-ceiling-light-weaving-lantern-lighting-fixture-113561043291-ggihs?variant=52404428931419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8adcaec3c4ed46ae84120bf676ca641ed.webp?v=1771362073
+    Price: 97,99 € EUR
+  - [50CM / Yellow / GERMANY](https://mywashshop.myshopify.com/products/asian-rustic-bamboo-flush-mount-ceiling-light-3-lamp-antique-rattan-ceiling-light-weaving-lantern-lighting-fixture-113561043291-ggihs?variant=52404428964187)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8adcaec3c4ed46ae84120bf676ca641ed.webp?v=1771362073
+    Price: 109,99 € EUR
+  - [50CM / Yellow / United States](https://mywashshop.myshopify.com/products/asian-rustic-bamboo-flush-mount-ceiling-light-3-lamp-antique-rattan-ceiling-light-weaving-lantern-lighting-fixture-113561043291-ggihs?variant=52404428996955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8adcaec3c4ed46ae84120bf676ca641ed.webp?v=1771362073
+    Price: 116,99 € EUR
+- [Smart Sensor LED Light Ceiling Lamp Modern Home Indoor Aisle LED Hanging Fixture Induction Lighting Living Room Luminaire Lamps](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm): Working Tips1. The motion sensor lamp must be installed vertically, it can work well.2. When you start the motion sensor bulb, it will turn on 5 minutes first time， it is normal.3. When you in sensor range, it works about 25-30 seconds.4. After 30 seconds, if you not move,the lamp not work.5.Too bright or in the day,the lamp not work.6.Only works in dark environment or at night,Sensor range:3-5M (with sensor type)Delay time :20-30S (with sensor type)Working Tips1.The induction lamp can be installed on the ceiling or wall.2. When you start the motion sensor bulb, it will turn on 5 minutes， it is normal.3. When you in sensor range, it works about 25-30 seconds.4. After 30 seconds, if you not move,the lamp not work.5. Too bright or in the day,the lamp not work.6. It only work in dark environment or at night.Q&amp;AQ:When does the sensor light work?A: It will be bright at night or in a very dark environment.Q:Can the lamp set the induction time?A: It cannot be set. It works through the sensor and does not use the switch to operate. When people come, the lights are on, and after people leave, it will automatically turn off within 30-40 seconds.Q:Is it the battery style?A: Not battery style, AC household voltage styleQ:Where can the sensor lamp be installed?A: Can be installed on the ceiling, wall.Q:Which scenarios are used?A: Living room, room, corridor, stairwell, bathroom, porch
+  Updated: 2026-02-18T09:01:26Z
+  Vendor: 7kShop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S5464bd776aa244ee96f20ed10e162cb6J.webp?v=1771362073
+  - [18W 300MM 85V-265V / China Mainland / Warm White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429029723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc77e2432cef8483f97701525654b24e7m.webp?v=1771362072
+    Price: 36,99 € EUR
+  - [15W 118MM 85V-265V / China Mainland / Warm White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429062491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbae58b38510f494c866c2a8b6370cc80r.webp?v=1771362073
+    Price: 23,99 € EUR
+  - [40W 220MM 85V-265V / China Mainland / Warm White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429095259)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S54b405a9d5d54710993996b24cbe9479r.webp?v=1771362073
+    Price: 31,99 € EUR
+  - [12W 220MM 85V-265V / China Mainland / Warm White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429128027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7e21be941574ad6affb25591ad87b2fP.webp?v=1771362072
+    Price: 36,99 € EUR
+  - [20W 150MM 85V-265V / China Mainland / Warm White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429160795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8c514cc05c754daa9bfbf058008d348a3.webp?v=1771362073
+    Price: 26,99 € EUR
+  - [30W 185MM 85V-265V / China Mainland / Warm White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429193563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S07f1067d0506474c9afc3dcfc3b6aae5M.webp?v=1771362073
+    Price: 30,99 € EUR
+  - [18W 300MM 85V-265V / China Mainland / Warm White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429226331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc77e2432cef8483f97701525654b24e7m.webp?v=1771362072
+    Price: 71,99 € EUR
+  - [15W 118MM 85V-265V / China Mainland / Warm White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429259099)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbae58b38510f494c866c2a8b6370cc80r.webp?v=1771362073
+    Price: 48,99 € EUR
+  - [40W 220MM 85V-265V / China Mainland / Warm White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429291867)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S54b405a9d5d54710993996b24cbe9479r.webp?v=1771362073
+    Price: 61,99 € EUR
+  - [12W 220MM 85V-265V / China Mainland / Warm White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429324635)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7e21be941574ad6affb25591ad87b2fP.webp?v=1771362072
+    Price: 68,99 € EUR
+  - [20W 150MM 85V-265V / China Mainland / Warm White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429357403)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8c514cc05c754daa9bfbf058008d348a3.webp?v=1771362073
+    Price: 51,99 € EUR
+  - [30W 185MM 85V-265V / China Mainland / Warm White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429390171)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S07f1067d0506474c9afc3dcfc3b6aae5M.webp?v=1771362073
+    Price: 58,99 € EUR
+  - [18W 300MM 85V-265V / China Mainland / Warm White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429422939)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc77e2432cef8483f97701525654b24e7m.webp?v=1771362072
+    Price: 132,99 € EUR
+  - [15W 118MM 85V-265V / China Mainland / Warm White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429455707)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbae58b38510f494c866c2a8b6370cc80r.webp?v=1771362073
+    Price: 89,99 € EUR
+  - [40W 220MM 85V-265V / China Mainland / Warm White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429488475)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S54b405a9d5d54710993996b24cbe9479r.webp?v=1771362073
+    Price: 116,99 € EUR
+  - [12W 220MM 85V-265V / China Mainland / Warm White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429521243)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7e21be941574ad6affb25591ad87b2fP.webp?v=1771362072
+    Price: 122,99 € EUR
+  - [20W 150MM 85V-265V / China Mainland / Warm White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429554011)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8c514cc05c754daa9bfbf058008d348a3.webp?v=1771362073
+    Price: 96,99 € EUR
+  - [30W 185MM 85V-265V / China Mainland / Warm White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429586779)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S07f1067d0506474c9afc3dcfc3b6aae5M.webp?v=1771362073
+    Price: 109,99 € EUR
+  - [18W 300MM 85V-265V / China Mainland / Cold White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429619547)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc77e2432cef8483f97701525654b24e7m.webp?v=1771362072
+    Price: 40,99 € EUR
+  - [15W 118MM 85V-265V / China Mainland / Cold White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429652315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbae58b38510f494c866c2a8b6370cc80r.webp?v=1771362073
+    Price: 23,99 € EUR
+  - [40W 220MM 85V-265V / China Mainland / Cold White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429685083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S54b405a9d5d54710993996b24cbe9479r.webp?v=1771362073
+    Price: 31,99 € EUR
+  - [12W 220MM 85V-265V / China Mainland / Cold White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429717851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7e21be941574ad6affb25591ad87b2fP.webp?v=1771362072
+    Price: 36,99 € EUR
+  - [20W 150MM 85V-265V / China Mainland / Cold White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429750619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8c514cc05c754daa9bfbf058008d348a3.webp?v=1771362073
+    Price: 26,99 € EUR
+  - [30W 185MM 85V-265V / China Mainland / Cold White|WHITE|1 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429783387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S07f1067d0506474c9afc3dcfc3b6aae5M.webp?v=1771362073
+    Price: 30,99 € EUR
+  - [18W 300MM 85V-265V / China Mainland / Cold White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429816155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc77e2432cef8483f97701525654b24e7m.webp?v=1771362072
+    Price: 76,99 € EUR
+  - [15W 118MM 85V-265V / China Mainland / Cold White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404429979995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbae58b38510f494c866c2a8b6370cc80r.webp?v=1771362073
+    Price: 48,99 € EUR
+  - [40W 220MM 85V-265V / China Mainland / Cold White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430012763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S54b405a9d5d54710993996b24cbe9479r.webp?v=1771362073
+    Price: 61,99 € EUR
+  - [12W 220MM 85V-265V / China Mainland / Cold White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430045531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7e21be941574ad6affb25591ad87b2fP.webp?v=1771362072
+    Price: 68,99 € EUR
+  - [20W 150MM 85V-265V / China Mainland / Cold White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430078299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8c514cc05c754daa9bfbf058008d348a3.webp?v=1771362073
+    Price: 51,99 € EUR
+  - [30W 185MM 85V-265V / China Mainland / Cold White|WHITE|2 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430111067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S07f1067d0506474c9afc3dcfc3b6aae5M.webp?v=1771362073
+    Price: 58,99 € EUR
+  - [18W 300MM 85V-265V / China Mainland / Cold White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430143835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sc77e2432cef8483f97701525654b24e7m.webp?v=1771362072
+    Price: 139,99 € EUR
+  - [15W 118MM 85V-265V / China Mainland / Cold White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430176603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sbae58b38510f494c866c2a8b6370cc80r.webp?v=1771362073
+    Price: 89,99 € EUR
+  - [40W 220MM 85V-265V / China Mainland / Cold White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430209371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S54b405a9d5d54710993996b24cbe9479r.webp?v=1771362073
+    Price: 116,99 € EUR
+  - [12W 220MM 85V-265V / China Mainland / Cold White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430242139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sa7e21be941574ad6affb25591ad87b2fP.webp?v=1771362072
+    Price: 129,99 € EUR
+  - [20W 150MM 85V-265V / China Mainland / Cold White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430274907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S8c514cc05c754daa9bfbf058008d348a3.webp?v=1771362073
+    Price: 96,99 € EUR
+  - [30W 185MM 85V-265V / China Mainland / Cold White|WHITE|4 PCS](https://mywashshop.myshopify.com/products/smart-sensor-led-light-ceiling-lamp-modern-home-indoor-aisle-led-hanging-fixture-induction-lighting-living-room-luminaire-lamps-113561043291-ov1sm?variant=52404430307675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S07f1067d0506474c9afc3dcfc3b6aae5M.webp?v=1771362073
+    Price: 109,99 € EUR
 
 ## Collections
 
@@ -1219,8 +1852,8 @@
   Updated: 2026-02-10T09:34:10Z
   Total Products: 0
 - [AVADA - Best Sellers](https://mywashshop.myshopify.com/collections/avada-best-sellers)
-  Updated: 2026-02-10T12:32:29Z
-  Total Products: 28
+  Updated: 2026-02-17T21:05:54Z
+  Total Products: 48
 
 ## Store Pages
 
