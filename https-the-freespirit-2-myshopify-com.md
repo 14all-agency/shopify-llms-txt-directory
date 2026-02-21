@@ -5,7 +5,7 @@
 - Currency: ZAR
 - Timezone: Africa/Johannesburg
 - Created At: 2026-02-11T08:58:12Z
-- Updated At: 2026-02-12T19:00:23.501Z
+- Updated At: 2026-02-21T00:00:29.911Z
 
 ## Products
 
@@ -444,7 +444,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/2047/3683/files/BLNK-JE-01-04-ES-GLT-GLT03-e1749269610587.jpg?v=1770820856
   Price: R 475.15 ZAR
 - [Luxury Cream Lipstick – Next to Nude – HB2 | Hydrating Nude Lipstick | Vegan, Paraben-Free & Cruelty-Free](https://the-freespirit-2.myshopify.com/products/luxury-cream-lipstick-next-to-nude-hb2-hydrating-nude-lipstick-vegan-paraben-free-cruelty-free): Enhance your natural beauty with our Luxury Cream Lipstick – Next to Nude (HB2) — a hydrating nude lipstick designed for effortless elegance and all-day comfort. Infused with argan oil, vitamin E, and a nourishing blend of olive, grape seed, and macadamia seed oils, this rich cream formula keeps your lips soft, smooth, and perfectly moisturized. The Next to Nude shade delivers a sophisticated, natural tone ideal for everyday wear, blending seamlessly with any makeup look. Vegan, paraben-free, and cruelty-free, this luxurious lipstick combines hydration, color, and conscience in one indulgent swipe. Description Discover the ultimate balance of comfort, color, and care with Luxury Cream Lipstick – Next to Nude (HB2), a soft neutral nude lipstick that complements every skin tone. Formulated to deliver creamy, long-lasting hydration, this lipstick glides on effortlessly for a smooth satin finish that enhances your lips’ natural beauty. Infused with argan oil, olive oil, and vitamin E, it nourishes and restores lip moisture, while grape seed and macadamia seed oils ensure all-day suppleness and shine. The addition of murumuru butter, mango butter, and shea butter deeply conditions and protects your lips, keeping them hydrated and rejuvenated even through extended wear. Perfect for minimalist makeup lovers or anyone seeking a timeless nude look, this lipstick flatters every occasion—from brunch dates to business meetings. Its lightweight texture provides full pigment coverage without heaviness, making it your go-to daily lipstick for effortless sophistication. Crafted with clean, vegan, paraben-free, and cruelty-free ingredients, Next to Nude is your must-have for healthy, hydrated, and beautiful lips—all wrapped in eco-friendly recyclable packaging. Key Benefits Hydrating nude lipstick ideal for all skin tones Rich creamy formula with full pigment coverage Long-lasting moisture from argan, olive, and grape seed oils Squalane, mango, and shea butter plump and condition lips Lightweight satin finish for everyday elegance Vegan, paraben-free, and cruelty-free Eco-friendly recyclable packaging Application (How To Apply) Prep: Exfoliate and moisturize lips before applying for best results. Apply: Glide the lipstick directly onto lips, starting from the center and working outward. Layer: Reapply for a deeper nude tone or glossy effect. Perfect: Pair with a nude lip liner for enhanced definition and longevity.
-  Updated: 2026-02-11T20:39:20Z
+  Updated: 2026-02-12T23:26:27Z
   Vendor: Cad b
   Product Type: Cruelty Free
   Availability: Available
