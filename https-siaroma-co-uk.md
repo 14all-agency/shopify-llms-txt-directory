@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-20T17:54:38Z
-- Updated At: 2026-02-14T00:00:41.328Z
+- Updated At: 2026-02-21T00:00:44.533Z
 
 ## Products
 
@@ -764,13 +764,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4460.png?v=1766052373
   Price: £40.00 GBP
-- [Wax Melt Flower Bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-3): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Peony blush suede, Shea, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 580g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven.
-  Updated: 2026-02-01T12:12:28Z
-  Vendor: Si Aroma
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0989/5726/3180/files/IMG-4476.png?v=1766062403
-  Price: £35.00 GBP
 - [Wax melt flower bouquet](https://siaroma.co.uk/products/wax-melt-flower-bouquet-4): Wax Melt Flower Bouquet Transform your space with the timeless beauty and captivating aroma of our Wax Melt Flower Bouquet — a luxurious blend of art, fragrance, and sustainability. Each bouquet is expertly handcrafted with natural soy wax and premium fragrance oils, creating a stunning floral display that doubles as an aromatic experience. The delicate, life-like petals make it a perfect gift or decorative centerpiece for any occasion — from birthdays and weddings to simple self-care moments. Infused with long-lasting scents such as Shea, Pear Drops, Pomegranate Noir, and more, each flower releases a soothing aroma that fills your home with warmth and serenity. 🌿 Ethically made and eco-friendly, this bouquet offers a sustainable way to indulge in luxury while caring for the planet. Product Weight: Approx. 545g 💫 How to Use: Gently remove a flower (or part of one) from the bouquet and remove the stick. Place it in your wax burner to release its fragrance. For smaller burners, simply snap the flower into smaller pieces to prevent wax overflow. Sit back, relax, and enjoy the long-lasting aroma that transforms any room into a tranquil haven
   Updated: 2026-02-01T12:13:12Z
   Vendor: Si Aroma
@@ -896,20 +889,20 @@
 ## Collections
 
 - [Home page](https://siaroma.co.uk/collections/frontpage)
-  Updated: 2026-02-12T08:29:17Z
-  Total Products: 1
+  Updated: 2026-02-15T15:35:31Z
+  Total Products: 0
 - [Candles](https://siaroma.co.uk/collections/candles)
   Updated: 2026-01-28T08:59:54Z
   Total Products: 16
 - [Wax Melts](https://siaroma.co.uk/collections/wax-melts)
-  Updated: 2026-02-12T08:29:17Z
-  Total Products: 6
+  Updated: 2026-02-15T15:35:31Z
+  Total Products: 5
 - [Car Fresheners](https://siaroma.co.uk/collections/reed-diffusers)
   Updated: 2026-02-06T09:32:13Z
   Total Products: 4
 - [Gift sets & Bundles](https://siaroma.co.uk/collections/gift-sets)
-  Updated: 2026-02-06T09:32:51Z
-  Total Products: 18
+  Updated: 2026-02-15T15:35:41Z
+  Total Products: 17
 - [Accessories & Decor](https://siaroma.co.uk/collections/accessories-decor)
   Updated: 2025-12-12T12:31:32Z
   Total Products: 14
@@ -932,8 +925,8 @@
   Updated: 2025-11-17T20:57:51Z
   Total Products: 0
 - [Valentine’s Day collection](https://siaroma.co.uk/collections/valentine-s-day-collection): Say ,,I love you’’ with aroma they enjoy ❤️🎁
-  Updated: 2026-02-06T09:32:51Z
-  Total Products: 16
+  Updated: 2026-02-15T15:35:41Z
+  Total Products: 15
 
 ## Store Pages
 
