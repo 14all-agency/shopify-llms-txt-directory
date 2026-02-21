@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-09T10:48:21Z
 - Contact Email: support@softpunkt.de
-- Updated At: 2026-02-13T00:00:35.252Z
+- Updated At: 2026-02-21T00:00:38.271Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0950/5085/8827/files/Office-2024-Standard-softpunkt.de.webp?v=1765190852
   Price: 28,99 € EUR
 - [Access 2021](https://softpunkt.de/products/microsoft-access-2021)
-  Updated: 2025-12-24T14:02:50Z
+  Updated: 2026-02-19T12:41:57Z
   Vendor: Microsoft
   Product Type: Product Key
   Availability: Available
@@ -608,10 +608,10 @@
   Updated: 2026-01-30T10:06:35Z
   Total Products: 2
 - [Publisher](https://softpunkt.de/collections/microsoft-publisher)
-  Updated: 2025-12-24T13:01:04Z
+  Updated: 2026-02-20T12:33:59Z
   Total Products: 5
 - [Office Einzelanwendungen](https://softpunkt.de/collections/office-einzelanwendungen)
-  Updated: 2025-12-24T13:25:20Z
+  Updated: 2026-02-20T12:33:59Z
   Total Products: 52
 - [Excel](https://softpunkt.de/collections/microsoft-excel)
   Updated: 2025-11-20T11:14:55Z
