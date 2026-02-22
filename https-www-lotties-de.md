@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-02-14T00:00:39.390Z
+- Updated At: 2026-02-22T00:00:42.825Z
 
 ## Products
 
@@ -681,7 +681,7 @@
 ## Store Pages
 
 - [Lotties Kontakt](https://www.lotties.de/pages/contact): 
-- [Lotties Messetermine - jetzt informieren !](https://www.lotties.de/pages/lotties-messetermine-2024): 21.09. - 22.09.2024 Rapunzel Festival Legau 08.11. - 10.11.2024 BabyExpo Wiener Neustadt 15.11. - 17.11.2024 Babini München Für das Jahr 2025 werde...
+- [Lotties Messetermine - jetzt informieren !](https://www.lotties.de/pages/lotties-messetermine): Für das Jahr 2026 werden wir leider auf keiner Messe vertreten sein.
 - [Schlafsack TOG System | bei Lotties informieren !](https://www.lotties.de/pages/schlafsack-tog-system): TOG-System @media screen and (max-width: 600px) { table { width: 100% !important; display: block; overflow-x: auto; } table tbody { display: block;...
 - [Lotties Fabrikverkauf](https://www.lotties.de/pages/lagerverkauf): Besuchen Sie uns direkt in unserem Lotties Fabrikverkauf in Siegenburg [Bayern]. Hier genießen Sie einen Preisvorteil von bis zu 25% auf den Online...
 - [Baby Bekleidung Qualitätsrichtlinien - jetzt bei Lotties informieren](https://www.lotties.de/pages/qualitatsrichtlinien): Bei Babykleidung von verantwortungsvollen Herstellern gibt es feste Begrifflichkeiten, mit denen die Qualität sowie die Haut- und Umweltverträglich...
