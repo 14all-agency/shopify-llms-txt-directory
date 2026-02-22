@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-02-14T00:00:45.153Z
+- Updated At: 2026-02-22T00:00:25.440Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1911,6 +1911,22 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-02-13T03:49:56Z
     Author: Callie Hitchcock
     Tags: Connection, Dark magic, Family ties, Fantasy Adventure, Kidnapping story, Pirates, Rescue mission, Wedding
+  - [Silver Tide: The Truth Within (Book 7)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-7): <p><em><strong>Silver Tide thought he had to give up who he was to protect those he loved. But denying his true self would lead him down a dark path that threatens everything.</strong></em></p>
+    Updated: 2026-02-15T02:55:06Z
+    Author: Callie Hitchcock
+    Tags: Being yourself, Choices, Finding meaning, Free to read, Inner struggle, Mafia, Pirates and magic, Redemption, Restlessness, Truth
+  - [Errant](https://crystalarborist.com/blogs/short-stories-self-help/errant): <p><em><strong>A man without memory. A powerful relic. A hunter who won't stop. In the old West, Errant must choose- run, or stand up for those he loves. Light &amp; Dark clash </strong></em></p>
+    Updated: 2026-02-21T14:55:33Z
+    Author: Callie Hitchcock
+    Tags: Chase, Choices, Chosen one, Dark fantasy, Light and darkness, Mysterious artifact, Suspense, Western frontier
+  - [Errant: Shadows of the Council (Book 2)](https://crystalarborist.com/blogs/short-stories-self-help/errant-shadows-of-the-council-book-2): <p><em><strong>Errant found home, but his forgotten memories won't stay buried. Nightmares reveal the Council's dark fortress and a truth that will change everything.</strong></em></p>
+    Updated: 2026-02-18T23:58:44Z
+    Author: Callie Hitchcock
+    Tags: Character driven, Dark fantasy, Drama, Dream sequences, Elemental powers, Horses, Light vs darkness, Memory and identity, Mystery, Old west, Trauma and healing
+  - [Errant: Illumination (Book 3)](https://crystalarborist.com/blogs/short-stories-self-help/errant-illumination-book-3): <p><em><strong><span> Light and Dark were forged as weapons by the Council. Now they must choose: remain tools of oppression or become brothers in freedom. The final battle will decide everything.</span></strong></em></p>
+    Updated: 2026-02-21T21:46:10Z
+    Author: Callie Hitchcock
+    Tags: action-packed, brotherhood, Dark fantasy, emotional, epic, final battle, Found family, Freedom, Light and darkness, Redemption, series finale, western fantasy
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
