@@ -5,12 +5,12 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2023-07-13T02:22:41Z
-- Updated At: 2026-02-13T00:00:32.382Z
+- Updated At: 2026-02-22T00:00:35.927Z
 
 ## Products
 
 - [LUQI Ultimate Overgrip | Peak Performance Tennis Grip](https://www.luqigrips.com/products/luqi-ultimate-overgrip): LUQI Ultimate Overgrip: Tacky, absorbent, great feel & touch! Perfect for peak performance. Length 1150mm, Thickness 0.6mm. Packs of 4, 12 & 30.
-  Updated: 2026-02-12T18:26:11Z
+  Updated: 2026-02-21T19:45:45Z
   Vendor: LUQI Grips
   Product Type: 
   Availability: Available
@@ -96,11 +96,11 @@
     Image: https://cdn.shopify.com/s/files/1/0791/5234/9479/files/IMG_5265.png?v=1714220142
     Price: $20.00 USD
   - [12 Pack / Black](https://www.luqigrips.com/products/luqi-ultimate-overgrip?variant=48258739339559)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0791/5234/9479/files/IMG_5263.png?v=1714220092
     Price: $20.00 USD
   - [12 Pack / Dark Blue](https://www.luqigrips.com/products/luqi-ultimate-overgrip?variant=47599534899495)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0791/5234/9479/files/IMG_4574.png?v=1712033650
     Price: $20.00 USD
   - [12 Pack / Pink](https://www.luqigrips.com/products/luqi-ultimate-overgrip?variant=47599534965031)
@@ -193,7 +193,7 @@
     Availability: Available
     Price: $35.00 USD
 - [LUQI Super Dry Overgrip | Sweat Absorbent Tennis Grip](https://www.luqigrips.com/products/luqi-super-dry-overgtip): LUQI Super Dry Overgrip: Absorbs sweat for ultimate grip! Ideal for heavy sweaters. Length 1100mm, Thickness 0.6mm. Packs of 4 & 12.
-  Updated: 2026-02-12T22:50:28Z
+  Updated: 2026-02-20T18:39:33Z
   Vendor: LUQI Grips
   Product Type: 
   Availability: Available
@@ -266,7 +266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/5234/9479/files/image.png?v=1689658650
   Price: $12.00 USD
 - [LUQI Supreme Overgrip | Plush Feel, Superior Grip](https://www.luqigrips.com/products/luqi-supreme-overgrip): LUQI Supreme Overgrip: Plush feel, exceptional sweat absorption, & tackiness! Length 1200mm, Thickness 0.75mm. Packs of 4 & 12.
-  Updated: 2026-02-12T22:37:22Z
+  Updated: 2026-02-21T02:52:28Z
   Vendor: LUQI Grips
   Product Type: 
   Availability: Available
@@ -404,7 +404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0791/5234/9479/files/IMG-0961.png?v=1753986953
     Price: $34.00 USD
 - [LUQI Tactician Overgrip](https://www.luqigrips.com/products/luqi-tactician-overgrip): The LUQI Tactician Overgrip is one of the tackiest overgrips on the market. This is perfect for the player looking for the most amount of grip and tack on their handle with little to no slip. Tactician is ideal for players who don't sweat profusely. Compatible for Tennis, Pickleball, Padel, Badminton, Racquetball, etc. Length: 1150 mm Thickness: 0.65 mm
-  Updated: 2026-02-12T22:36:27Z
+  Updated: 2026-02-20T20:04:59Z
   Vendor: LUQI Grips
   Product Type: 
   Availability: Available
@@ -418,7 +418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0791/5234/9479/files/IMG-8093.jpg?v=1734680539
     Price: $9.50 USD
 - [LUQI Super Dry Beta V1.0](https://www.luqigrips.com/products/luqi-super-dry-beta-v1-0): The BETA overgrip is an experimental version of the popular LUQI Super Dry, which many love. We strive for excellence and always take steps towards THE FUTURE. Compatible for Tennis, Pickleball, Padel, Badminton, Racquetball, etc. Length: 1150 mm Thickness: 0.55mm
-  Updated: 2026-02-08T13:42:12Z
+  Updated: 2026-02-16T02:41:17Z
   Vendor: LUQI Grips
   Product Type: 
   Availability: Available
@@ -455,7 +455,7 @@
 ## Collections
 
 - [Tennis & Pickleball Overgrips | LUQI Sport Grips](https://www.luqigrips.com/collections/featured): Elevate your game with LUQI's premium overgrips for tennis and pickleball. Shop our collection of high-quality, stylish overgrips
-  Updated: 2026-02-12T18:01:18Z
+  Updated: 2026-02-21T12:18:19Z
   Total Products: 7
 
 ## Store Pages
