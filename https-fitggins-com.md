@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-01-13T18:29:23Z
 - Contact Email: support@fitggins.com
-- Updated At: 2026-02-15T00:00:43.042Z
+- Updated At: 2026-02-22T00:00:45.676Z
 
 ## Products
 
-- [Seamless Active Workout Jumpsuit - Comfort & Style](https://fitggins.com/products/seamless-active-workout-jumpsuit): Discover the Seamless Active Workout Jumpsuit for modern women who prioritize style and comfort. Ideal for workouts and casual outings.
-  Updated: 2026-01-22T07:20:35Z
+- [Seamless Active Workout Jumpsuit — Comfortable & Stylish](https://fitggins.com/products/seamless-active-workout-jumpsuit): Seamless Active Workout Jumpsuit with moderate stretch. 70% polyester, 25% rayon, 5% spandex. Machine wash cold; tumble dry low. Imported. Measurements provided for sizes S–XL.
+  Updated: 2026-02-17T07:22:24Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -32,8 +32,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/617a9a4f-a037-4abf-b3b2-882f2c70d5d0-Max-Origin.webp?v=1768142692
     Price: $28.90 USD
-- [Single Shoulder Active Romper for Effortless Style](https://fitggins.com/products/single-shoulder-active-romper): Discover comfort and style with the Single Shoulder Active Romper, perfect for any occasion. Shop now for versatile wear and modern design.
-  Updated: 2026-02-04T17:33:47Z
+- [Single Shoulder Active Romper — Versatile One-Shoulder Romper](https://fitggins.com/products/single-shoulder-active-romper): Modern one-shoulder romper made from 75% nylon and 25% elastane. Moderate stretch, machine wash cold, tumble dry low. Sizes S (2/4), M (6), L (8) with detailed measurements in inches.
+  Updated: 2026-02-17T07:22:24Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -50,27 +50,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e6bd5fe7-acde-452f-af55-03f69ce0e5f6-Max.webp?v=1768142711
     Price: $42.39 USD
-- [3 Piece Washed Square Neck Active Set](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set): Discover the 3 Piece Washed Square Neck Wide Strap Active Set, designed for maximum comfort and style. Perfect for your active lifestyle!
-  Updated: 2026-02-08T22:33:36Z
+- [3 Piece Washed Square Neck Active Set | Comfortable Activewear](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set): Versatile 3-piece active set with square neck and wide straps. Made from 92% polyamide, 8% elastane for stretch, breathability and durability. Machine wash cold, tumble dry low.
+  Updated: 2026-02-21T00:23:32Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1768142722
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2132c356-857e-4761-9378-fd323543767a-Max.webp?v=1771276519
   - [Light Blue / S](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set?variant=52305586094408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1768142722
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1771276519
     Price: $47.02 USD
   - [Light Blue / M](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set?variant=52305586127176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1768142722
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1771276519
     Price: $47.02 USD
   - [Light Blue / L](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set?variant=52305586159944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1768142722
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1771276519
     Price: $47.02 USD
   - [Light Blue / XL](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set?variant=52305586192712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1768142722
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e556f1e-a9ea-4fa5-9e5f-a60f963661a4-Max.webp?v=1771276519
     Price: $47.02 USD
   - [Deep Rose / S](https://fitggins.com/products/3-piece-washed-square-neck-wide-strap-active-set?variant=52305586225480)
     Availability: Available
@@ -136,94 +136,94 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/558647c7-92ec-4a02-9b14-6a6003520558-Max.webp?v=1768142722
     Price: $47.02 USD
-- [Scoop Neck Wide Strap Top and Pants Active Set](https://fitggins.com/products/scoop-neck-wide-strap-active-set): Discover the Scoop Neck Wide Strap Top and Pants Active Set, designed for comfort and style during your workouts. Made from stretchy materials, this set offers freedom of movement and a fashionable look.
-  Updated: 2026-02-10T02:04:13Z
+- [Scoop Neck Wide Strap Top & Pants Active Set](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set): Comfortable two-piece active set with scoop neck and wide straps. Made of 92% polyamide, 8% elastane. Highly stretchy, machine wash cold, tumble dry low. Measurements in inches included.
+  Updated: 2026-02-17T15:43:03Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/13a4a270-3d0e-40b8-85fb-790cfa2f1180-Max.webp?v=1768142732
-  - [Light Blue / S](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587339592)
+  - [Light Blue / S](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587339592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/13a4a270-3d0e-40b8-85fb-790cfa2f1180-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Light Blue / M](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587372360)
+  - [Light Blue / M](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587372360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/13a4a270-3d0e-40b8-85fb-790cfa2f1180-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Light Blue / L](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587405128)
+  - [Light Blue / L](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587405128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/13a4a270-3d0e-40b8-85fb-790cfa2f1180-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Light Blue / XL](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587437896)
+  - [Light Blue / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587437896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/13a4a270-3d0e-40b8-85fb-790cfa2f1180-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Dark Gray / S](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587470664)
+  - [Dark Gray / S](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587470664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/169e6fd7-3e67-4e54-bc2d-16f53ef76ed5-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Dark Gray / M](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587503432)
+  - [Dark Gray / M](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587503432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/169e6fd7-3e67-4e54-bc2d-16f53ef76ed5-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Dark Gray / L](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587536200)
+  - [Dark Gray / L](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587536200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/169e6fd7-3e67-4e54-bc2d-16f53ef76ed5-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Dark Gray / XL](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587568968)
+  - [Dark Gray / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587568968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/169e6fd7-3e67-4e54-bc2d-16f53ef76ed5-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Matcha Green / S](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587601736)
+  - [Matcha Green / S](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587601736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01d07ac1-7609-4838-96e4-3dc9cf039a5b-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Matcha Green / M](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587634504)
+  - [Matcha Green / M](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587634504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01d07ac1-7609-4838-96e4-3dc9cf039a5b-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Matcha Green / L](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587667272)
+  - [Matcha Green / L](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587667272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01d07ac1-7609-4838-96e4-3dc9cf039a5b-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Matcha Green / XL](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587700040)
+  - [Matcha Green / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587700040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01d07ac1-7609-4838-96e4-3dc9cf039a5b-Max.webp?v=1768142732
     Price: $38.43 USD
-  - [Dark Brown / S](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587732808)
+  - [Dark Brown / S](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587732808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/693e1db0-d4f7-400c-8aae-872b7567cfe8-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Dark Brown / M](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587765576)
+  - [Dark Brown / M](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587765576)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/693e1db0-d4f7-400c-8aae-872b7567cfe8-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Dark Brown / L](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587798344)
+  - [Dark Brown / L](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587798344)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/693e1db0-d4f7-400c-8aae-872b7567cfe8-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Dark Brown / XL](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587831112)
+  - [Dark Brown / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587831112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/693e1db0-d4f7-400c-8aae-872b7567cfe8-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Deep Rose / S](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587863880)
+  - [Deep Rose / S](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587863880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/14d0536f-e421-477a-85f6-19d74ec23273-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Deep Rose / M](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587896648)
+  - [Deep Rose / M](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587896648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/14d0536f-e421-477a-85f6-19d74ec23273-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Deep Rose / L](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587929416)
+  - [Deep Rose / L](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587929416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/14d0536f-e421-477a-85f6-19d74ec23273-Max.webp?v=1768142731
     Price: $38.43 USD
-  - [Deep Rose / XL](https://fitggins.com/products/scoop-neck-wide-strap-active-set?variant=52305587962184)
+  - [Deep Rose / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-pants-active-set?variant=52305587962184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/14d0536f-e421-477a-85f6-19d74ec23273-Max.webp?v=1768142731
     Price: $38.43 USD
-- [Halter Neck Ribbed Athletic Romper - Stylish and Comfortable](https://fitggins.com/products/halter-neck-ribbed-athletic-romper): Discover the ultimate blend of style and comfort with our Halter Neck Ribbed Athletic Romper, perfect for workouts and casual outings.
-  Updated: 2026-01-22T07:20:22Z
+- [Halter Neck Ribbed Athletic Romper — Stylish Activewear](https://fitggins.com/products/halter-neck-ribbed-athletic-romper): Versatile Halter Neck Ribbed Athletic Romper with moderate stretch. 75% polyamide, 25% elastane. Machine wash cold, tumble dry low. Measurements included for S–XL.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -244,94 +244,94 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2460f296329a4eb7af9e799f25d060eb-Max-Origin.webp?v=1768142752
     Price: $30.44 USD
-- [Scoop Neck Wide Strap Top and Shorts Active Set](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set): Discover the Scoop Neck Wide Strap Top and Shorts Active Set, perfect for workouts or lounging. Crafted for comfort with a stylish look.
-  Updated: 2026-01-27T16:43:26Z
+- [Scoop Neck Wide Strap Top & Shorts Active Set](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set): Two-piece active set with scoop neck wide strap top and matching shorts. 92% polyamide, 8% elastane. Machine wash cold, tumble dry low. Sizes S–XL with measurements in inches.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5255f03f-05e7-4538-bc24-f70c432cdb99-Max.webp?v=1768142762
-  - [Light Blue / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588617544)
+  - [Light Blue / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588617544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5255f03f-05e7-4538-bc24-f70c432cdb99-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Light Blue / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588650312)
+  - [Light Blue / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588650312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5255f03f-05e7-4538-bc24-f70c432cdb99-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Light Blue / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588683080)
+  - [Light Blue / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588683080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5255f03f-05e7-4538-bc24-f70c432cdb99-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Light Blue / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588715848)
+  - [Light Blue / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588715848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5255f03f-05e7-4538-bc24-f70c432cdb99-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Dark Gray / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588748616)
+  - [Dark Gray / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588748616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c60d8da-437a-4bc1-b63e-9ecfa1922bec-Max.webp?v=1768142761
     Price: $33.67 USD
-  - [Dark Gray / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588781384)
+  - [Dark Gray / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588781384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c60d8da-437a-4bc1-b63e-9ecfa1922bec-Max.webp?v=1768142761
     Price: $33.67 USD
-  - [Dark Gray / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588814152)
+  - [Dark Gray / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588814152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c60d8da-437a-4bc1-b63e-9ecfa1922bec-Max.webp?v=1768142761
     Price: $33.67 USD
-  - [Dark Gray / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588846920)
+  - [Dark Gray / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588846920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c60d8da-437a-4bc1-b63e-9ecfa1922bec-Max.webp?v=1768142761
     Price: $33.67 USD
-  - [Dark Brown / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588879688)
+  - [Dark Brown / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588879688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3532f506-6458-430d-a1ad-6021c3c55084-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Dark Brown / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588912456)
+  - [Dark Brown / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588912456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3532f506-6458-430d-a1ad-6021c3c55084-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Dark Brown / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588945224)
+  - [Dark Brown / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588945224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3532f506-6458-430d-a1ad-6021c3c55084-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Dark Brown / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305588977992)
+  - [Dark Brown / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305588977992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3532f506-6458-430d-a1ad-6021c3c55084-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Deep Rose / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589010760)
+  - [Deep Rose / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589010760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2bcb3dca-0add-4ae7-9dd6-f86b70317ea9-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Deep Rose / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589043528)
+  - [Deep Rose / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589043528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2bcb3dca-0add-4ae7-9dd6-f86b70317ea9-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Deep Rose / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589076296)
+  - [Deep Rose / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589076296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2bcb3dca-0add-4ae7-9dd6-f86b70317ea9-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Deep Rose / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589109064)
+  - [Deep Rose / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589109064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2bcb3dca-0add-4ae7-9dd6-f86b70317ea9-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Matcha Green / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589141832)
+  - [Matcha Green / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589141832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d70fb82-a773-4ff6-93e3-8d2f2287ec15-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Matcha Green / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589174600)
+  - [Matcha Green / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589174600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d70fb82-a773-4ff6-93e3-8d2f2287ec15-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Matcha Green / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589207368)
+  - [Matcha Green / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589207368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d70fb82-a773-4ff6-93e3-8d2f2287ec15-Max.webp?v=1768142762
     Price: $33.67 USD
-  - [Matcha Green / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set?variant=52305589240136)
+  - [Matcha Green / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set?variant=52305589240136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d70fb82-a773-4ff6-93e3-8d2f2287ec15-Max.webp?v=1768142762
     Price: $33.67 USD
-- [Twisted Backless Long Sleeve Jumpsuit](https://fitggins.com/products/twisted-backless-long-sleeve-jumpsuit): Elevate your style with the Twisted Backless Long Sleeve Jumpsuit. Perfect for any occasion, it offers comfort, flexibility, and a chic design.
-  Updated: 2026-01-22T09:29:21Z
+- [Twisted Backless Long Sleeve Jumpsuit](https://fitggins.com/products/twisted-backless-long-sleeve-jumpsuit): Make a statement in this Twisted Backless Long Sleeve Jumpsuit. Crafted from 75% nylon and 25% elastane with moderate stretch, featuring a twisted back, easy care, and detailed size measurements for S–XL.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -400,8 +400,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/57226021-5374-4c7c-a18a-a8493c86962a-Max.webp?v=1768142772
     Price: $42.89 USD
-- [Square Neck Long Sleeve Active Romper](https://fitggins.com/products/square-neck-long-sleeve-active-romper): Discover the Square Neck Long Sleeve Active Romper, designed for comfort and style in your active lifestyle. Perfect for workouts or casual outings.
-  Updated: 2026-01-22T09:22:33Z
+- [Square Neck Long Sleeve Active Romper — Comfortable & Stretchy](https://fitggins.com/products/square-neck-long-sleeve-active-romper): Versatile Square Neck Long Sleeve Active Romper in 75% nylon/25% elastane. High stretch for workouts or casual wear. Machine wash cold, tumble dry low. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -454,27 +454,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d5ac1266-79df-48e2-9657-dc4bc56098db-Max.webp?v=1768142782
     Price: $36.12 USD
-- [Tie-Dye Wide Strap Active Romper](https://fitggins.com/products/tie-dye-wide-strap-active-romper): Discover the Tie-Dye Wide Strap Active Romper, perfect for casual outings and active wear. Enjoy maximum comfort and flexibility with this stylish design.
-  Updated: 2026-01-22T07:19:49Z
+- [Tie-Dye Wide Strap Active Romper — Comfortable Everyday Romper](https://fitggins.com/products/tie-dye-wide-strap-active-romper): A versatile tie-dye active romper with wide straps for support, soft stretch for all-day comfort, and a flattering cut. Check measurements and size up if between sizes.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1768142792
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1771259966
   - [Black / S](https://fitggins.com/products/tie-dye-wide-strap-active-romper?variant=52305590944072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1768142792
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1771259966
     Price: $31.06 USD
   - [Black / M](https://fitggins.com/products/tie-dye-wide-strap-active-romper?variant=52305590976840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1768142792
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1771259966
     Price: $31.06 USD
   - [Black / L](https://fitggins.com/products/tie-dye-wide-strap-active-romper?variant=52305591009608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1768142792
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1771259966
     Price: $31.06 USD
   - [Black / XL](https://fitggins.com/products/tie-dye-wide-strap-active-romper?variant=52305591042376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1768142792
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/19920d9a-9483-47d9-9ceb-b45630d5b87d-Max.webp?v=1771259966
     Price: $31.06 USD
   - [Teal / S](https://fitggins.com/products/tie-dye-wide-strap-active-romper?variant=52305591075144)
     Availability: Available
@@ -572,8 +572,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d486e82-5181-4cf7-8059-aedbf423a2dc-Max.webp?v=1768142793
     Price: $31.06 USD
-- [Half Zip Long Sleeve Active Romper](https://fitggins.com/products/half-zip-long-sleeve-active-romper): Discover the comfort and style of the Half Zip Long Sleeve Active Romper. Perfect for workouts or casual outings, featuring stretchy fabric and easy care instructions.
-  Updated: 2026-01-22T07:20:34Z
+- [Half Zip Long Sleeve Active Romper — Stretch Nylon/Elastane](https://fitggins.com/products/half-zip-long-sleeve-active-romper): Versatile Half Zip Long Sleeve Active Romper in 75% nylon / 25% elastane. Stretchy, durable and easy-care. Measurements: S–XL. Perfect for workouts, errands, or casual outings.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -658,8 +658,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/43956dbf-2eda-45ac-9f2c-5d34b3be507d-Max.webp?v=1768142802
     Price: $38.15 USD
-- [Sleeveless Straight Active Jumpsuit | Stylish & Comfortable](https://fitggins.com/products/sleeveless-straight-active-jumpsuit): Discover the perfect blend of style and comfort with our Sleeveless Straight Active Jumpsuit. Ideal for workouts and casual outings.
-  Updated: 2026-02-04T20:36:27Z
+- [Sleeveless Straight Active Jumpsuit — Comfort & Stretch](https://fitggins.com/products/sleeveless-straight-active-jumpsuit): A minimalist sleeveless straight active jumpsuit in 75% nylon/25% elastane with high stretch. Easy care, imported, and designed for all-day comfort. Available in S, M, L, XL with detailed measurements.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -712,8 +712,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ab2debe-4c53-45c3-bc03-47a5540b28be-Max.webp?v=1768142812
     Price: $40.60 USD
-- [Scoop Neck Long Sleeve Active Jumpsuit](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit): Discover the perfect blend of style and comfort with the Scoop Neck Long Sleeve Active Jumpsuit. Ideal for active days and casual outings.
-  Updated: 2026-02-12T06:15:17Z
+- [Scoop Neck Long Sleeve Active Jumpsuit](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit): Active jumpsuit with scoop neck and long sleeves. High-stretch 54% polyamide, 34% polyester, 12% elastane. Machine wash cold; tumble dry low. Versatile for workouts and everyday wear.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -778,8 +778,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/32f39931-4d53-4a98-ab77-3ea82ce64829-Max.webp?v=1768142823
     Price: $33.70 USD
-- [Drawstring Sleeveless Crop Sports Top & Biker Shorts Set](https://fitggins.com/products/drawstring-sleeveless-crop-sports-top-biker-shorts-set): Explore the comfort and style of our Drawstring Sleeveless Crop Sports Top and Biker Shorts Set, perfect for yoga and active lifestyles.
-  Updated: 2026-01-22T09:49:11Z
+- [Drawstring Sleeveless Crop Sports Top & Biker Shorts Set](https://fitggins.com/products/drawstring-sleeveless-crop-sports-top-biker-shorts-set): Comfortable, high-stretch yoga set with a drawstring crop top and biker shorts. Soft 50% cotton blend, sleeveless, breathable, unlined, machine washable. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -800,94 +800,94 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/57a638243c5b45abb345ea401708eec6-Max.jpg?v=1768142833
     Price: $33.61 USD
-- [Scoop Neck Wide Strap Top and Shorts Active Set](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337): Discover the perfect blend of style and comfort with our Scoop Neck Wide Strap Top and Shorts Active Set, ideal for workouts and everyday wear.
-  Updated: 2026-01-22T17:36:27Z
+- [Scoop Neck Wide Strap Top & Shorts Active Set](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889): Two-piece active set with scoop neck top and wide straps. Made of 92% polyamide, 8% elastane for stretch and durability. Machine wash cold; tumble dry low. Available S-XL with detailed measurements (inches). Imported.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d05d623-fd9a-4982-a9f0-c0efd839bbf5-Max.webp?v=1768142843
-  - [Neon Green / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594712392)
+  - [Neon Green / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594712392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d05d623-fd9a-4982-a9f0-c0efd839bbf5-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Neon Green / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594745160)
+  - [Neon Green / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594745160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d05d623-fd9a-4982-a9f0-c0efd839bbf5-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Neon Green / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594777928)
+  - [Neon Green / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594777928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d05d623-fd9a-4982-a9f0-c0efd839bbf5-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Neon Green / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594810696)
+  - [Neon Green / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594810696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8d05d623-fd9a-4982-a9f0-c0efd839bbf5-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Canary Yellow / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594843464)
+  - [Canary Yellow / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594843464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c7b15bc-c7f8-410d-970b-5ca399fab216-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Canary Yellow / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594876232)
+  - [Canary Yellow / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594876232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c7b15bc-c7f8-410d-970b-5ca399fab216-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Canary Yellow / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594909000)
+  - [Canary Yellow / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594909000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c7b15bc-c7f8-410d-970b-5ca399fab216-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Canary Yellow / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594941768)
+  - [Canary Yellow / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594941768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c7b15bc-c7f8-410d-970b-5ca399fab216-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Black / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305594974536)
+  - [Black / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305594974536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c873685a-4cf1-4583-94b6-e428383b4ad0-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Black / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595007304)
+  - [Black / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595007304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c873685a-4cf1-4583-94b6-e428383b4ad0-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Black / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595040072)
+  - [Black / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595040072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c873685a-4cf1-4583-94b6-e428383b4ad0-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Black / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595072840)
+  - [Black / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595072840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c873685a-4cf1-4583-94b6-e428383b4ad0-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Hot Pink / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595105608)
+  - [Hot Pink / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595105608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca127783-7c34-473a-801d-d022b175bdc9-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Hot Pink / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595138376)
+  - [Hot Pink / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595138376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca127783-7c34-473a-801d-d022b175bdc9-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Hot Pink / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595171144)
+  - [Hot Pink / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595171144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca127783-7c34-473a-801d-d022b175bdc9-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Hot Pink / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595203912)
+  - [Hot Pink / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595203912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca127783-7c34-473a-801d-d022b175bdc9-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Deep Purple / S](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595236680)
+  - [Deep Purple / S](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595236680)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/04579540-9583-402c-8ef4-b79a7ae93232-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Deep Purple / M](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595269448)
+  - [Deep Purple / M](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595269448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/04579540-9583-402c-8ef4-b79a7ae93232-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Deep Purple / L](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595302216)
+  - [Deep Purple / L](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595302216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/04579540-9583-402c-8ef4-b79a7ae93232-Max.webp?v=1768142843
     Price: $30.82 USD
-  - [Deep Purple / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-and-shorts-active-set-85337?variant=52305595334984)
+  - [Deep Purple / XL](https://fitggins.com/products/scoop-neck-wide-strap-top-shorts-active-set-36889?variant=52305595334984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/04579540-9583-402c-8ef4-b79a7ae93232-Max.webp?v=1768142843
     Price: $30.82 USD
-- [Half Zip Short Sleeve Active Romper](https://fitggins.com/products/half-zip-short-sleeve-active-romper): Discover the perfect blend of style and comfort with the Half Zip Short Sleeve Active Romper, designed for your active lifestyle.
-  Updated: 2026-01-22T07:19:17Z
+- [Half Zip Short Sleeve Active Romper](https://fitggins.com/products/half-zip-short-sleeve-active-romper): Versatile active romper with a half-zip, moderate stretch, and breathable 78% nylon/22% elastane fabric. Easy care and imported quality. Available XS–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -964,8 +964,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3217065e-a9d9-4b3e-b00c-fff6ac63301d-Max.webp?v=1768142853
     Price: $36.92 USD
-- [Half Zip Mock Neck Active Jumpsuit](https://fitggins.com/products/half-zip-mock-neck-active-jumpsuit): Discover the perfect blend of style and comfort with the Half Zip Mock Neck Active Jumpsuit, ideal for both casual and active wear.
-  Updated: 2026-02-02T20:42:20Z
+- [Half Zip Mock Neck Active Jumpsuit](https://fitggins.com/products/half-zip-mock-neck-active-jumpsuit): Move through your day with confidence in the Half Zip Mock Neck Active Jumpsuit. Made from 75% nylon/25% elastane for stretch and durability. Machine wash cold; tumble dry low. Imported. Available in S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1066,8 +1066,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/acc52cb4-3240-498c-9c21-5d14a0e2ad24-Max.webp?v=1768142863
     Price: $40.60 USD
-- [Scoop Neck Wide Strap Active Romper](https://fitggins.com/products/scoop-neck-wide-strap-active-romper): Discover the perfect blend of style and comfort with our Scoop Neck Wide Strap Active Romper, ideal for workouts and relaxation.
-  Updated: 2026-02-10T02:04:12Z
+- [Scoop Neck Wide Strap Active Romper - Comfortable Stretch](https://fitggins.com/products/scoop-neck-wide-strap-active-romper): Versatile Scoop Neck Wide Strap Active Romper with supportive wide straps, high-stretch fabric (54% polyamide, 34% polyester, 12% elastane), easy care, and detailed size measurements. Perfect for yoga, errands, and lounging.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1152,74 +1152,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a1baf6e-50c2-4706-9a62-a43a97e365a5-Max.webp?v=1768142874
     Price: $30.69 USD
-- [Scoop Neck Long Sleeve Active Jumpsuit](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826): Discover the perfect blend of comfort and style with our Scoop Neck Long Sleeve Active Jumpsuit, ideal for your active lifestyle.
-  Updated: 2026-01-22T09:24:44Z
+- [Scoop Neck Long Sleeve Active Jumpsuit](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280): Versatile scoop neck long sleeve active jumpsuit with 54% polyamide, 34% polyester, 12% elastane. Highly stretchy for full mobility. Machine wash cold, tumble dry low. Imported.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e91fc915-3fdc-41ff-813e-2e48ea90ff6c-Max.webp?v=1768142883
-  - [Taupe / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598316872)
+  - [Taupe / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598316872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e91fc915-3fdc-41ff-813e-2e48ea90ff6c-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Taupe / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598349640)
+  - [Taupe / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598349640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e91fc915-3fdc-41ff-813e-2e48ea90ff6c-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Taupe / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598382408)
+  - [Taupe / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598382408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e91fc915-3fdc-41ff-813e-2e48ea90ff6c-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Dark Green / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598415176)
+  - [Dark Green / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598415176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/84667626-7b89-45a8-adbe-0e45913a32ce-Max.webp?v=1768142884
     Price: $35.16 USD
-  - [Dark Green / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598447944)
+  - [Dark Green / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598447944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/84667626-7b89-45a8-adbe-0e45913a32ce-Max.webp?v=1768142884
     Price: $35.16 USD
-  - [Dark Green / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598480712)
+  - [Dark Green / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598480712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/84667626-7b89-45a8-adbe-0e45913a32ce-Max.webp?v=1768142884
     Price: $35.16 USD
-  - [Gray / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598513480)
+  - [Gray / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598513480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/354644fe-0100-42f9-b2cf-cde5cc142fb2-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Gray / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598546248)
+  - [Gray / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598546248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/354644fe-0100-42f9-b2cf-cde5cc142fb2-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Gray / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598579016)
+  - [Gray / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598579016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/354644fe-0100-42f9-b2cf-cde5cc142fb2-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Light Blue / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598611784)
+  - [Light Blue / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598611784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62750a2c-d36e-44ff-a3bc-53562f8bb5f0-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Light Blue / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598644552)
+  - [Light Blue / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598644552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62750a2c-d36e-44ff-a3bc-53562f8bb5f0-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Light Blue / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598677320)
+  - [Light Blue / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598677320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62750a2c-d36e-44ff-a3bc-53562f8bb5f0-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Deep Red / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598710088)
+  - [Deep Red / S](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598710088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91d6a8f2-50f7-4b48-97b5-5a28b5331900-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Deep Red / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598742856)
+  - [Deep Red / M](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598742856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91d6a8f2-50f7-4b48-97b5-5a28b5331900-Max.webp?v=1768142883
     Price: $35.16 USD
-  - [Deep Red / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-87826?variant=52305598775624)
+  - [Deep Red / L](https://fitggins.com/products/scoop-neck-long-sleeve-active-jumpsuit-83280?variant=52305598775624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91d6a8f2-50f7-4b48-97b5-5a28b5331900-Max.webp?v=1768142883
     Price: $35.16 USD
-- [Crisscross Wide Strap Sleeveless Jumpsuit](https://fitggins.com/products/crisscross-wide-strap-sleeveless-jumpsuit): Discover the Crisscross Wide Strap Sleeveless Jumpsuit. Perfect for any occasion with a trendy design and comfortable fit.
-  Updated: 2026-01-22T09:46:28Z
+- [Crisscross Wide Strap Sleeveless Jumpsuit — Versatile Women's Jumpsuit](https://fitggins.com/products/crisscross-wide-strap-sleeveless-jumpsuit): A versatile sleeveless jumpsuit with a stylish crisscross front, moderate stretch, and an 80% nylon/20% elastane blend. Easy care and imported for reliable quality—ideal for day-to-night dressing.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1304,8 +1304,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8661af1f-32b9-4e33-b7d3-07e7d86e2908-Max.webp?v=1768142893
     Price: $40.60 USD
-- [Spaghetti Strap Round Neck Romper - Stylish & Comfortable](https://fitggins.com/products/spaghetti-strap-round-neck-romper): Discover the Spaghetti Strap Round Neck Romper, perfect for casual outings with a blend of style and comfort.
-  Updated: 2026-01-22T07:19:51Z
+- [Spaghetti Strap Round Neck Romper — Comfortable Nylon-Elastane Romper](https://fitggins.com/products/spaghetti-strap-round-neck-romper): Lightweight Spaghetti Strap Round Neck Romper made of 75% nylon and 25% elastane. Moderate stretch for a comfortable fit. Machine wash cold, tumble dry low. Measurements available for S, M, L, XL.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1358,8 +1358,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e302b7ce-48f5-4831-b734-2275a34d6f28-Max.webp?v=1768142903
     Price: $38.14 USD
-- [Crisscross Wide Strap Active Romper for Comfort & Style](https://fitggins.com/products/crisscross-wide-strap-active-romper): Discover the Crisscross Wide Strap Active Romper, perfect for workouts or casual outings. Features a stylish design, stretchy fabric, and easy care instructions.
-  Updated: 2026-02-07T20:07:40Z
+- [Crisscross Wide Strap Active Romper — Stylish & Stretchy](https://fitggins.com/products/crisscross-wide-strap-active-romper): A versatile active romper with a flattering crisscross detail. Made of 90% polyester and 10% elastane for breathability and stretch. Machine wash cold, tumble dry low. Imported.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1436,8 +1436,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/de99adf5-e9ea-41d7-97c2-d5797a1d2785-Max.webp?v=1768142914
     Price: $36.01 USD
-- [Millennia Wide Strap Active Romper - Stylish & Comfortable](https://fitggins.com/products/millennia-wide-strap-active-romper): Shop the Millennia Wide Strap Active Romper for a stylish and functional addition to your active wardrobe. Perfect for workouts or casual outings.
-  Updated: 2026-01-22T09:37:56Z
+- [Millennia Wide Strap Active Romper - Stretch Nylon Spandex](https://fitggins.com/products/millennia-wide-strap-active-romper): Versatile Millennia Wide Strap Active Romper in 80% nylon / 20% spandex. Wide straps, stretchy performance fabric, easy care. Detailed garment measurements for sizes 4–12. Machine wash cold; tumble dry low. Imported.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1522,8 +1522,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0817d12d-e7ae-4b0d-a577-db1711ab0467-Max.webp?v=1768142924
     Price: $35.40 USD
-- [Square Neck Cap Sleeve Active Romper](https://fitggins.com/products/square-neck-cap-sleeve-active-romper): Discover the Square Neck Cap Sleeve Active Romper, designed for ultimate comfort and style. Perfect for workouts or casual outings!
-  Updated: 2026-01-22T07:19:28Z
+- [Square Neck Cap Sleeve Active Romper](https://fitggins.com/products/square-neck-cap-sleeve-active-romper): Chic, stretchy active romper with a square neckline and cap sleeves. Made of 75% nylon, 25% elastane. Machine wash cold. Available in S, M, L, XL with detailed measurements.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1608,8 +1608,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9a69865d-3d19-4aad-947d-59a13b5860f0-Max.webp?v=1768142934
     Price: $36.12 USD
-- [Two-Tone Ring Detail Tied Bikini Set](https://fitggins.com/products/two-tone-ring-detail-tied-bikini-set): Discover the Two-Tone Ring Detail Tied Bikini Set, designed for comfort and style. Featuring removable padding, a unique design, and high-quality materials for your perfect beach day.
-  Updated: 2026-01-22T10:06:55Z
+- [Two-Tone Ring Detail Tied Bikini Set - Stylish Wireless Two-Piece](https://fitggins.com/products/two-tone-ring-detail-tied-bikini-set): Elevate beach days with the Two-Tone Ring Detail Tied Bikini Set. Wireless, removable padding, grommet ring accents. 82% polyester/18% elastane. Machine wash cold. Sizes S–L.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1638,8 +1638,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f6026e4d0c444508a6dd4d31422c9278-Max.jpg?v=1768149044
     Price: $30.05 USD
-- [Halter Neck Drawstring Detail Bikini Set](https://fitggins.com/products/halter-neck-drawstring-detail-bikini-set): Discover the Halter Neck Drawstring Detail Bikini Set, perfect for beach days and pool parties. Enjoy comfort, style, and a flattering fit.
-  Updated: 2026-01-22T13:34:41Z
+- [Halter Neck Drawstring Bikini Set - Solid Swimwear](https://fitggins.com/products/halter-neck-drawstring-detail-bikini-set): Halter Neck Drawstring Detail Bikini Set. Wire-free halter top, removable pads, solid design. 80% polyamide, 20% elastane. Machine wash cold, tumble dry low. Sizes S–L with detailed measurements for top and bottoms.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1656,8 +1656,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cc2b0bf2b9124f1eac6849a06ae4c35d-Max.jpg?v=1768149054
     Price: $30.35 USD
-- [Applique Tie Back Two-Piece Bikini Set](https://fitggins.com/products/applique-tie-back-two-piece-bikini-set): Discover the stylish Applique Tie Back Two-Piece Bikini Set, perfect for beach days and poolside lounging. Enjoy comfort and chic design all summer long.
-  Updated: 2026-01-22T09:28:58Z
+- [Applique Tie Back Two-Piece Bikini Set](https://fitggins.com/products/applique-tie-back-two-piece-bikini-set): Chic applique tie-back two-piece bikini set with removable pads, low-waist bottoms, and stretchy 82% polyester/18% elastane fabric. Machine wash cold. Sizes S–L.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1674,8 +1674,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d1a29b61b9014701bd20594f3863b2b6-Max.jpg?v=1768149064
     Price: $30.26 USD
-- [Two-Tone Tied Two-Piece Swimsuit](https://fitggins.com/products/two-tone-tied-two-piece-swimsuit): Discover the perfect blend of comfort and style with our Two-Tone Tied Two-Piece Swimsuit, featuring removable padding and trendy floral designs.
-  Updated: 2026-01-23T16:20:45Z
+- [Two-Tone Tied Two-Piece Swimsuit — Floral & Leopard High-Waist](https://fitggins.com/products/two-tone-tied-two-piece-swimsuit): Chic Two-Tone Tied Two-Piece Swimsuit with removable pads, high-waist bottoms, and stylish tie detail. Made of 82% nylon, 18% spandex. Available in Floral and Leopard patterns. Machine wash cold; tumble dry low.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1728,8 +1728,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/063ea37219774e0eb63161e6fb9d05e4-Max.jpg?v=1768149074
     Price: $35.76 USD
-- [Frill Trill Halter Neck Bikini Set](https://fitggins.com/products/frill-trill-halter-neck-bikini-set): Shop the Frill Trill Halter Neck Bikini Set for a stylish beach look. Choose between leopard print and solid designs, featuring removable padding and adjustable tie sides.
-  Updated: 2026-01-22T07:19:42Z
+- [Frill Trill Halter Neck Bikini Set — Tie Side, Removable Padding](https://fitggins.com/products/frill-trill-halter-neck-bikini-set): Enjoy sun-soaked days in the Frill Trill Halter Neck Bikini Set. This two-piece beach style features no underwire, tie-side bottoms, removable padding, frill details, and high-stretch fabric. Available in leopard or solid. Machine wash cold. Imported.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1794,8 +1794,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecb1b0efc56e4aa5907165741613d8d1-Max.jpg?v=1768149086
     Price: $30.08 USD
-- [Stylish Printed Tie Back Low Waist Two-Piece Bikini Set](https://fitggins.com/products/printed-tie-back-low-waist-two-piece-bikini-set): Discover the perfect blend of comfort and style with our Printed Tie Back Low Waist Two-Piece Bikini Set, ideal for beach days.
-  Updated: 2026-01-22T07:16:43Z
+- [Printed Tie-Back Low-Waist Two-Piece Bikini Set](https://fitggins.com/products/printed-tie-back-low-waist-two-piece-bikini-set): Beach-ready printed two-piece bikini with tie-back and crisscross details. Low-waist bottoms, no underwire or padding. 90% polyester, 10% spandex. Machine wash cold, tumble dry low. Available S–XL with detailed bust and waist measurements.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1832,8 +1832,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ee6c17244d8e4416b0d7dbf08e7bdd60-Max.jpg?v=1768149095
     Price: $32.12 USD
-- [Ribbed Tie Back Bikini Set - Stylish Beachwear](https://fitggins.com/products/ribbed-tie-back-bikini-set): Shop the Ribbed Tie Back Bikini Set for stylish beach outings and poolside lounging. Comfortable, flattering, and adjustable fit for all-day wear.
-  Updated: 2026-02-04T19:52:58Z
+- [Ribbed Tie Back Bikini Set - Ribbed Two-Piece Swimwear](https://fitggins.com/products/ribbed-tie-back-bikini-set): Comfortable ribbed two-piece bikini with tie back and removable padding. Made of 80% polyamide, 20% elastane. High cut bottoms. Machine wash cold, tumble dry low. Sizes S, M, L with measurements.
+  Updated: 2026-02-20T04:03:06Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1874,8 +1874,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a36f2df0-2992-461d-8828-c0f3a536d794-Max.webp?v=1768149113
     Price: $29.65 USD
-- [Multicolored Drawstring Ruched Three-Piece Swim Set](https://fitggins.com/products/multicolored-drawstring-ruched-three-piece-swim-set): Shop the Multicolored Drawstring Ruched Three-Piece Swim Set for a stylish beach day. Enjoy comfort, flexibility, and a vibrant design.
-  Updated: 2026-02-05T01:55:35Z
+- [Multicolored Drawstring Ruched Three-Piece Swim Set](https://fitggins.com/products/multicolored-drawstring-ruched-three-piece-swim-set): Vibrant three-piece swim set with a no-underwire ruched top, thong bottoms, and matching skirt. Made of 82% polyester/18% elastane with removable pads and adjustable drawstring. Available in S, M, L.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1892,8 +1892,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f5e7430b528b4604a7aec1e889a5ad2a-Max.jpg?v=1768149125
     Price: $31.06 USD
-- [Halter Neck Crisscross Ribbed Bikini Set](https://fitggins.com/products/halter-neck-crisscross-ribbed-bikini-set): Discover the stylish Halter Neck Crisscross Ribbed Bikini Set, perfect for chic beach days. Enjoy comfort and a flattering fit with high cut bottoms and adjustable tie closures.
-  Updated: 2026-01-22T07:21:48Z
+- [Halter Neck Crisscross Ribbed Bikini Set — Stretchy Two-Piece](https://fitggins.com/products/halter-neck-crisscross-ribbed-bikini-set): Chic halter neck crisscross ribbed bikini set with removable pads, tie closure, and high-cut bottoms. Made from 82% polyester, 18% elastane. Machine wash cold, tumble dry low. Sizes S–L.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1947,7 +1947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/08eeea5e99d7478e993f1c6be7eff0c9-Max.jpg?v=1768149155
     Price: $29.97 USD
 - [Rhinestone Decor Halter Neck Bikini Set - Comfortable & Stylish](https://fitggins.com/products/rhinestone-decor-halter-neck-bikini-set): Elevate your beach style with the Rhinestone Decor Halter Neck Bikini Set. Crafted for comfort and elegance, perfect for sun-soaked days.
-  Updated: 2026-01-22T07:21:50Z
+  Updated: 2026-02-20T13:02:27Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -1964,122 +1964,119 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/138769f2921a430eae711b0edfe892e5-Max.jpg?v=1768149164
     Price: $31.63 USD
-- [Frill Trim Ruched Bikini Set](https://fitggins.com/products/frill-trim-ruched-bikini-set): Shop the Frill Trim Ruched Bikini Set, featuring no underwire top, tie-side bottoms, and a chic ruched design. Perfect for beach outings!
-  Updated: 2026-02-13T19:33:26Z
+- [Frill Trim Ruched Bikini Set — Stylish Comfortable Swimwear](https://fitggins.com/products/frill-trim-ruched-bikini-set): Playful and flattering Frill Trim Ruched Bikini Set with comfortable ruching and frill detail. Check measurements before ordering; size up if between sizes. Ideal for beach days, pool lounging, and summer getaways.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cfc079b135f0472f951a4efd6f69a458-Max.jpg?v=1768149194
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cfc079b135f0472f951a4efd6f69a458-Max_1.jpg?v=1771261461
   - [Lavender / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795350856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cfc079b135f0472f951a4efd6f69a458-Max.jpg?v=1768149194
     Price: $29.99 USD
   - [Lavender / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795383624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cfc079b135f0472f951a4efd6f69a458-Max.jpg?v=1768149194
     Price: $29.99 USD
   - [Lavender / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795416392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cfc079b135f0472f951a4efd6f69a458-Max.jpg?v=1768149194
     Price: $29.99 USD
   - [Orange / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795449160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a36e0ac09dd473eb4d8701e06688640-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a36e0ac09dd473eb4d8701e06688640-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Orange / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795481928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a36e0ac09dd473eb4d8701e06688640-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a36e0ac09dd473eb4d8701e06688640-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Orange / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795514696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a36e0ac09dd473eb4d8701e06688640-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a36e0ac09dd473eb4d8701e06688640-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Leopard / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795547464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3948e9233da408f988f95c84f97b0ca-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3948e9233da408f988f95c84f97b0ca-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Leopard / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795580232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3948e9233da408f988f95c84f97b0ca-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3948e9233da408f988f95c84f97b0ca-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Leopard / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795613000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3948e9233da408f988f95c84f97b0ca-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3948e9233da408f988f95c84f97b0ca-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [White / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795645768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f4bbaaf167541a2a9e1dfd9c161c43b-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f4bbaaf167541a2a9e1dfd9c161c43b-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [White / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795678536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f4bbaaf167541a2a9e1dfd9c161c43b-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f4bbaaf167541a2a9e1dfd9c161c43b-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [White / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795711304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f4bbaaf167541a2a9e1dfd9c161c43b-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f4bbaaf167541a2a9e1dfd9c161c43b-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Black / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795744072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76d7ae55a14f40cd9babc4789e72e72b-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76d7ae55a14f40cd9babc4789e72e72b-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Black / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795776840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76d7ae55a14f40cd9babc4789e72e72b-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76d7ae55a14f40cd9babc4789e72e72b-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Black / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795809608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76d7ae55a14f40cd9babc4789e72e72b-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76d7ae55a14f40cd9babc4789e72e72b-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Pink / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795842376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0edb3fd82dd943cc857a411d89e3e693-Max.jpg?v=1768149196
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0edb3fd82dd943cc857a411d89e3e693-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Pink / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795875144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0edb3fd82dd943cc857a411d89e3e693-Max.jpg?v=1768149196
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0edb3fd82dd943cc857a411d89e3e693-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Pink / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795907912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0edb3fd82dd943cc857a411d89e3e693-Max.jpg?v=1768149196
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0edb3fd82dd943cc857a411d89e3e693-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Red / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795940680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7a72b6ddc17940d4a335ecc8a0426e51-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7a72b6ddc17940d4a335ecc8a0426e51-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Red / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305795973448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7a72b6ddc17940d4a335ecc8a0426e51-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7a72b6ddc17940d4a335ecc8a0426e51-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Red / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796006216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7a72b6ddc17940d4a335ecc8a0426e51-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7a72b6ddc17940d4a335ecc8a0426e51-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Yellow / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796038984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4aea81e4bed04fc7a7425939fb4ec9f5-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4aea81e4bed04fc7a7425939fb4ec9f5-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Yellow / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796071752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4aea81e4bed04fc7a7425939fb4ec9f5-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4aea81e4bed04fc7a7425939fb4ec9f5-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Yellow / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796104520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4aea81e4bed04fc7a7425939fb4ec9f5-Max.jpg?v=1768149194
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4aea81e4bed04fc7a7425939fb4ec9f5-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Neon Green / S](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796137288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Neon Green / M](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796170056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1771261461
     Price: $29.99 USD
   - [Neon Green / L](https://fitggins.com/products/frill-trim-ruched-bikini-set?variant=52305796202824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1768149195
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1771261461
     Price: $29.99 USD
-- [Glitter Halter Neck Strappy Two-Piece Bikini Set](https://fitggins.com/products/glitter-halter-neck-strappy-two-piece-bikini-set): Shop the Glitter Halter Neck Strappy Two-Piece Bikini Set for a stunning beach look. Features removable padding, adjustable tie, and stylish design.
-  Updated: 2026-01-22T09:31:36Z
+- [Glitter Halter Neck Strappy Two-Piece Bikini Set](https://fitggins.com/products/glitter-halter-neck-strappy-two-piece-bikini-set): Sparkling halter bikini set with removable pads and adjustable tie. 82% polyester, 18% elastane. No underwire top, thong bottoms. Sizes S–L with detailed measurements for a confident beach look.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2096,8 +2093,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fce2191874594490aefd770782afdbd5-Max.jpg?v=1768149203
     Price: $29.69 USD
-- [Textured Halter Neck Tie Side Bikini Set](https://fitggins.com/products/textured-halter-neck-tie-side-bikini-set): Shop the stylish Textured Halter Neck Tie Side Bikini Set for ultimate comfort and support. Perfect for beach outings and poolside lounging!
-  Updated: 2026-01-22T09:17:40Z
+- [Textured Halter Neck Tie Side Bikini Set](https://fitggins.com/products/textured-halter-neck-tie-side-bikini-set): Upgrade your summer wardrobe with this textured halter bikini set. Tie-side bottoms, removable pads, and stretchy 82% polyester/18% elastane fabric for comfort and style.
+  Updated: 2026-02-18T21:58:16Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2162,8 +2159,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1628122d1a0c4e1997ffa1eb8b64d971-Max.jpg?v=1768149226
     Price: $30.24 USD
-- [Spaghetti Strap Ribbed Bikini Set](https://fitggins.com/products/spaghetti-strap-ribbed-bikini-set): Shop the Spaghetti Strap Ribbed Bikini Set for a stylish and comfortable beach experience. Made from durable materials with a flattering fit.
-  Updated: 2026-01-22T07:20:00Z
+- [Spaghetti Strap Ribbed Bikini Set — Ribbed Two-Piece Swimwear](https://fitggins.com/products/spaghetti-strap-ribbed-bikini-set): A ribbed two-piece with no underwire, mid waist bottoms, and removable padding. Made from 82% polyester and 18% elastane—comfortable, stretchy, and perfect for beach days and poolside lounging.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2228,8 +2225,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b3e42ea6055741138dbf3e33fe8fe0be-Max.jpg?v=1768149235
     Price: $30.01 USD
-- [Halter Neck Fishnet Bikini Set - Perfect for Beach Days](https://fitggins.com/products/halter-neck-fishnet-bikini-set): Shop the Halter Neck Fishnet Bikini Set for a stylish and comfortable swimwear experience. Ideal for tropical vacations and beach outings.
-  Updated: 2026-01-22T07:20:20Z
+- [Halter Neck Fishnet Bikini Set - Wireless, Removable Pads, Crisscross](https://fitggins.com/products/halter-neck-fishnet-bikini-set): Embrace sun-soaked days with the Halter Neck Fishnet Bikini Set. Wireless halter top, removable chest pads, crisscross detail, and 82% polyester/18% elastane for stretch and durability. Hand wash cold; imported. Available S, M, L.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2246,8 +2243,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8da42c5a29d4b04bf6a110967f3ae2f-Max.jpg?v=1768149246
     Price: $30.49 USD
-- [Leopard Print Halter Neck Tie Side Bikini Set](https://fitggins.com/products/leopard-print-halter-neck-tie-side-bikini-set): Shop the Leopard Print Halter Neck Tie Side Bikini Set. This stylish two-piece offers comfort and a bold look, perfect for beach days!
-  Updated: 2026-02-14T03:03:41Z
+- [Leopard Print Halter Neck Tie-Side Bikini Set](https://fitggins.com/products/leopard-print-halter-neck-tie-side-bikini-set): Bold leopard print two-piece with halter neck and adjustable tie sides. Removable padding, 82% polyester/18% elastane, machine wash cold. Available in S, M, L with detailed bust, waist, and hip measurements.
+  Updated: 2026-02-17T09:58:21Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2324,8 +2321,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/944e202524e545879af37620585fb658-Max.jpg?v=1768149260
     Price: $29.65 USD
-- [Mandy V-Neck Cuffed Blouse](https://fitggins.com/products/mandy-v-neck-cuffed-blouse): Discover the Mandy V-Neck Cuffed Blouse, your new go-to for casual outings. Stylish, comfortable, and versatile.
-  Updated: 2026-02-05T08:01:44Z
+- [Mandy V-Neck Cuffed Blouse — Casual V-Neck Top](https://fitggins.com/products/mandy-v-neck-cuffed-blouse): A versatile, slightly stretchy V-neck blouse made from 97% polyester and 3% spandex. Short sleeves, regular length, machine wash cold. Available S–2XL with detailed measurements for a flattering everyday fit.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2490,8 +2487,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e113cf7a25a4193a682ad39b0cfff8d-Max.jpg?v=1768150108
     Price: $30.87 USD
-- [Smocked Round Neck Lantern Sleeve Blouse](https://fitggins.com/products/smocked-round-neck-lantern-sleeve-blouse): Discover the Smocked Round Neck Lantern Sleeve Blouse, perfect for casual and semi-formal occasions. Enjoy style and comfort with easy maintenance.
-  Updated: 2026-02-05T08:03:13Z
+- [Smocked Round Neck Lantern Sleeve Blouse — Elegant Everyday Top](https://fitggins.com/products/smocked-round-neck-lantern-sleeve-blouse): Effortless, versatile blouse with a smocked round neck and lantern sleeves. Opaque, non-stretch 65% rayon / 35% polyester construction. Easy care: machine wash cold, tumble dry low. Available S–2XL; see measurements for fit.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2616,8 +2613,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62639a0fbbdf4c218bd89274a87a6fee-Max.jpg?v=1768150128
     Price: $30.86 USD
-- [Ivy Lane Leopard Peplum Round Neck Blouse](https://fitggins.com/products/ivy-lane-leopard-peplum-round-neck-blouse): Discover the Ivy Lane Leopard Peplum Round Neck Blouse, a stylish addition to your wardrobe. Perfect for any occasion, enjoy comfort and elegance all day long.
-  Updated: 2026-01-22T07:20:16Z
+- [Ivy Lane Leopard Peplum Blouse — Round Neck](https://fitggins.com/products/ivy-lane-leopard-peplum-round-neck-blouse): Flattering Ivy Lane Leopard Peplum Round Neck Blouse in 95% polyester/5% elastane. Opaque fabric, slight stretch, machine wash cold. Available S–XL with detailed measurements for a confident, polished everyday look.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2670,8 +2667,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3b7c24aa-b8e2-422c-8c28-e852a4bc4db3-Max.webp?v=1768150137
     Price: $30.33 USD
-- [Ivy Lane Lace Trim Short Sleeve Top - Casual & Stylish](https://fitggins.com/products/ivy-lane-lace-trim-short-sleeve-top): Discover the Ivy Lane Lace Trim Short Sleeve Top, perfect for casual outings with its feminine lace detail and comfortable fit.
-  Updated: 2026-01-22T07:21:14Z
+- [Ivy Lane Lace Trim Short Sleeve Top – Comfortable, Feminine Everyday](https://fitggins.com/products/ivy-lane-lace-trim-short-sleeve-top): Elevate everyday looks with the Ivy Lane Lace Trim Short Sleeve Top. Solid, long-length design with lace trim, round neck, and 95% polyester/5% spandex stretch. Hand wash cold. Measurements included.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2740,134 +2737,129 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1676f7a5c4e4353ac7a235889c0ea62-Max.jpg?v=1768150157
     Price: $29.81 USD
-- [Stylish Contrast V-Neck Blouse for Casual Elegance](https://fitggins.com/products/contrast-v-neck-blouse): Discover the Contrast V-Neck Blouse, perfect for elevating your casual wardrobe with lace detailing and a flattering fit.
-  Updated: 2026-02-03T16:20:35Z
+- [Contrast V-Neck Blouse — Lightweight, Versatile Women's Top](https://fitggins.com/products/contrast-v-neck-blouse): A lightweight Contrast V-Neck Blouse with soft contrast detailing and a flattering fit. Versatile for day-to-night styling. Check measurements and size up if between sizes.
+  Updated: 2026-02-20T03:50:46Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max.jpg?v=1768150169
+  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max_2_e7106b32-07f2-4de9-ad47-39f80be54703.jpg?v=1771262319
   - [Black / S](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915117896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1768150168
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Black / M](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915150664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1768150168
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Black / L](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915183432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1768150168
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Black / XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915216200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1768150168
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Black / 2XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915248968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1768150168
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7db0e158c71c401f8b28a448ee6e1a64-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Deep Red / S](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915281736)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Deep Red / M](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915314504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Deep Red / L](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915347272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Deep Red / XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915380040)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Deep Red / 2XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915412808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/74375c1d64f9475b871b4bb1b326bf96-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Royal  Blue / S](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915445576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1771262162
     Price: $30.84 USD
   - [Royal  Blue / M](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915478344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1771262162
     Price: $30.84 USD
   - [Royal  Blue / L](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915511112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1771262162
     Price: $30.84 USD
   - [Royal  Blue / XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915543880)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1771262162
     Price: $30.84 USD
   - [Royal  Blue / 2XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915576648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/60e70aed2c9d4fc09ece7f23529e974d-Max.jpg?v=1771262162
     Price: $30.84 USD
   - [White / S](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915609416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max.jpg?v=1768150169
     Price: $30.84 USD
   - [White / M](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915642184)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max.jpg?v=1768150169
     Price: $30.84 USD
   - [White / L](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915674952)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max.jpg?v=1768150169
     Price: $30.84 USD
   - [White / XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915707720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max.jpg?v=1768150169
     Price: $30.84 USD
   - [White / 2XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915740488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b79fdb6d20a490ba19693b76b78db0c-Max.jpg?v=1768150169
     Price: $30.84 USD
   - [Green / S](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915773256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Green / M](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915806024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Green / L](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915838792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Green / XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915871560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Green / 2XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915904328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bf3b2d55231c4009abba3e4604282872-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Tan / S](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915937096)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Tan / M](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305915969864)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Tan / L](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305916002632)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Tan / XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305916035400)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1771262081
     Price: $30.84 USD
   - [Tan / 2XL](https://fitggins.com/products/contrast-v-neck-blouse?variant=52305916068168)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1768150169
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dd1b97e87a544a09948a089b2c52f567-Max.jpg?v=1771262081
     Price: $30.84 USD
-- [Ivy Lane Half-Zip Short Sleeve Hooded Top - Casual Comfort](https://fitggins.com/products/ivy-lane-half-zip-short-sleeve-hooded-top): Discover the Ivy Lane Half-Zip Short Sleeve Hooded Top, perfect for casual outings and cozy evenings. Made from a stretchy material blend for ultimate comfort.
-  Updated: 2026-01-22T09:31:36Z
+- [Ivy Lane Half-Zip Short Sleeve Hooded Top — Casual Comfort](https://fitggins.com/products/ivy-lane-half-zip-short-sleeve-hooded-top): Versatile Ivy Lane half-zip short sleeve hooded top. Solid pattern, 95% polyester/5% spandex, highly stretchy. Regular hip length, hooded neckline, half-zip, hand wash cold. Measurements: S 24"L/34"B/14"Sh/32"W; M 24"L/36"B/14"Sh/34"W; L 25"L/38"B/15"Sh/36"W; XL 25"L/41"B/16"Sh/38"W.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -2936,8 +2928,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1ad09e0e7164e98b6e1b39a4b89f4fc-Max.jpg?v=1768150178
     Price: $30.65 USD
-- [Pleated Flutter Sleeve Round Neck Blouse](https://fitggins.com/products/pleated-flutter-sleeve-round-neck-blouse): Elevate your style with our Pleated Flutter Sleeve Round Neck Blouse. Perfect for casual outings with its lightweight, breathable fabric and chic flutter sleeves.
-  Updated: 2026-01-22T18:30:14Z
+- [Pleated Flutter Sleeve Round Neck Blouse — Casual Women's Top](https://fitggins.com/products/pleated-flutter-sleeve-round-neck-blouse): A versatile solid blouse with pleated flutter sleeves and a round neck. 100% polyester, slightly stretchy, machine wash cold. Available sizes S–2XL with detailed measurements for a comfortable, flattering fit.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3148,8 +3140,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8ee4ecb6897b47709ea1f416c088550d-Max.jpg?v=1768150200
     Price: $29.80 USD
-- [Ruched Johnny Collar Short Sleeve Blouse](https://fitggins.com/products/ruched-johnny-collar-short-sleeve-blouse): Shop the Ruched Johnny Collar Short Sleeve Blouse, designed for elegance and comfort. Perfect for any occasion, made from high-quality materials.
-  Updated: 2026-01-22T09:24:44Z
+- [Ruched Johnny-Collar Short-Sleeve Blouse — Elegant Everyday Top](https://fitggins.com/products/ruched-johnny-collar-short-sleeve-blouse): Elevate your everyday wardrobe with this Ruched Johnny-Collar Short-Sleeve Blouse. Opaque yet lightweight, made from 65% rayon, 30% polyester, 5% spandex. Easy care and available in sizes S–2XL.
+  Updated: 2026-02-17T07:22:35Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3314,8 +3306,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d9a32ec1-b8bb-403d-b504-8812a9661755-Max.webp?v=1768150209
     Price: $30.30 USD
-- [Full Size Cutout Cold Shoulder Blouse](https://fitggins.com/products/full-size-cutout-cold-shoulder-blouse): Discover the Full Size Cutout Cold Shoulder Blouse, combining trendy design with comfort. Perfect for any occasion!
-  Updated: 2026-02-12T19:59:37Z
+- [Full Size Cutout Cold Shoulder Blouse - Stylish Women's Top](https://fitggins.com/products/full-size-cutout-cold-shoulder-blouse): Discover the Full Size Cutout Cold Shoulder Blouse: opaque, tailored fit with modern shoulder cutouts, made from 100% polyester. Easy care and imported quality. See full measurements for sizes S–3XL.
+  Updated: 2026-02-21T15:59:07Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3460,8 +3452,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea51ba0037d94dd9ab90b69720d45981-Max.jpg?v=1768150218
     Price: $30.40 USD
-- [Floral Flounce Sleeve Round Neck Blouse | Elegant Floral Top](https://fitggins.com/products/floral-flounce-sleeve-round-neck-blouse): Explore the Floral Flounce Sleeve Round Neck Blouse, a perfect blend of comfort and elegance. Ideal for any occasion, this blouse will enhance your wardrobe.
-  Updated: 2026-01-22T07:20:33Z
+- [Floral Flounce Sleeve Round Neck Blouse – Feminine Everyday Style](https://fitggins.com/products/floral-flounce-sleeve-round-neck-blouse): Bring garden-fresh elegance to your wardrobe with this Floral Flounce Sleeve Round Neck Blouse. 100% polyester, no stretch, machine wash cold, tumble dry low. Versatile for casual and dressy looks.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3486,8 +3478,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cc2cf9fe72c04395b5ff2daac287c642-Max.webp?v=1768150227
     Price: $33.02 USD
-- [V-Neck Balloon Sleeve Peplum Blouse - Elegant & Trendy](https://fitggins.com/products/v-neck-balloon-sleeve-peplum-blouse): Shop the V-Neck Balloon Sleeve Peplum Blouse, a chic addition to your wardrobe. Made from durable 100% polyester with a classic design. Perfect for any occasion!
-  Updated: 2026-01-22T07:20:35Z
+- [V-Neck Balloon Sleeve Peplum Blouse](https://fitggins.com/products/v-neck-balloon-sleeve-peplum-blouse): A versatile V-neck peplum blouse with dramatic balloon sleeves, opaque 100% polyester construction, and a structured fit. Machine wash cold; tumble dry low. Measurements available for S–XL.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3572,8 +3564,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3f659504bc9741348f8447e928791d52-Max.webp?v=1768150239
     Price: $28.37 USD
-- [Notched Neck Cuffed Sleeve Shirt](https://fitggins.com/products/notched-neck-cuffed-sleeve-shirt): Discover style and comfort with our Notched Neck Cuffed Sleeve Shirt, perfect for casual wear and easy to pair with any outfit.
-  Updated: 2026-01-22T09:33:24Z
+- [Notched Neck Cuffed Sleeve Shirt - Casual Solid Short Sleeve](https://fitggins.com/products/notched-neck-cuffed-sleeve-shirt): Versatile Notched Neck Cuffed Sleeve Shirt in solid pattern. 100% polyester, slightly stretchy, machine wash cold. Measurements: S bust 37 in, M 39 in, L 41 in, XL 44 in, 2XL 47 in.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3658,8 +3650,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/62deecd3e33342b88a1d53b913eb7036-Max.jpg?v=1768150248
     Price: $31.20 USD
-- [Floral Smocked Ruffled Balloon Sleeve Blouse](https://fitggins.com/products/floral-smocked-ruffled-balloon-sleeve-blouse): Discover the Floral Smocked Ruffled Balloon Sleeve Blouse, perfect for any casual outing. With its trendy design and comfortable fit, it enhances your everyday style.
-  Updated: 2026-01-22T09:20:30Z
+- [Floral Smocked Ruffled Balloon Sleeve Blouse](https://fitggins.com/products/floral-smocked-ruffled-balloon-sleeve-blouse): A romantic floral blouse with smocked bodice and ruffled balloon sleeves. Opaque 100% polyester, no stretch. Machine wash cold, tumble dry low. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3680,8 +3672,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/370a47cdff034bb8b10242e3c72fb4a6-Max.webp?v=1768150258
     Price: $39.82 USD
-- [Layered Flutter Sleeve Round Neck Top](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top): Discover the perfect blend of comfort and style with our Layered Flutter Sleeve Round Neck Top, ideal for casual outings and chic gatherings.
-  Updated: 2026-01-28T02:20:46Z
+- [Layered Flutter Sleeve Round Neck Top](https://fitggins.com/products/layered-flutter-sleeve-round-neck-top): A casual-chic layered flutter sleeve top with a round neckline. Breathable, slightly stretchy fabric (60% Polyester, 35% Viscose, 5% Spandex). Machine wash cold; tumble dry low. Available S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3726,8 +3718,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae224fc5c1a44b94903edb1233f666fd-Max.jpg?v=1768150269
     Price: $30.54 USD
-- [Lace Detail V-Neck Ribbed Blouse for Modern Elegance](https://fitggins.com/products/lace-detail-v-neck-ribbed-blouse): Discover the Lace Detail V-Neck Ribbed Blouse, where elegance meets comfort. Perfect for brunch or evenings out, this blouse offers a sophisticated style.
-  Updated: 2026-02-05T08:03:14Z
+- [Lace Detail V-Neck Ribbed Blouse — Elegant Everyday Top](https://fitggins.com/products/lace-detail-v-neck-ribbed-blouse): A soft ribbed blouse with a delicate lace V-neck, slight stretch, and opaque fabric. Made from 65% rayon and 35% polyester. Easy care: machine wash cold, tumble dry low. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3828,8 +3820,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b4da017ac844dea9331b77e62c2e3e3-Max.jpg?v=1768150280
     Price: $30.93 USD
-- [Striped Round Neck Drop Shoulder T-Shirt - Comfort and Style](https://fitggins.com/products/striped-round-neck-drop-shoulder-t-shirt): Discover the perfect blend of comfort and style with our Striped Round Neck Drop Shoulder T-Shirt. Soft cotton and trendy stripes make it a wardrobe essential.
-  Updated: 2026-02-10T08:30:45Z
+- [Striped Round Neck Drop Shoulder T-Shirt – Casual Cotton Tee](https://fitggins.com/products/striped-round-neck-drop-shoulder-t-shirt): Relaxed striped cotton tee with a round neck and drop shoulder for effortless style. 100% cotton, opaque, slight stretch. Machine wash cold, tumble dry low. Available XS–2XL with full measurements.
+  Updated: 2026-02-21T03:26:06Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3902,8 +3894,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/427f1675f04b4870915ba24895373b71-Max.webp?v=1768150289
     Price: $35.18 USD
-- [Ivy Lane Notched Neck Butterfly Sleeve Blouse](https://fitggins.com/products/ivy-lane-notched-neck-butterfly-sleeve-blouse): Discover the Ivy Lane Notched Neck Butterfly Sleeve Blouse, a stylish addition to any casual outfit. Perfect for brunch or outings, it offers comfort and elegance.
-  Updated: 2026-01-22T07:22:44Z
+- [Ivy Lane Notched Neck Butterfly Sleeve Blouse](https://fitggins.com/products/ivy-lane-notched-neck-butterfly-sleeve-blouse): Elevate everyday outings with the Ivy Lane Notched Neck Butterfly Sleeve Blouse. Solid, ruffle detail, notched neckline, flutter sleeves, 100% polyester, hand wash cold. Available S-XL with detailed measurements.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3956,8 +3948,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd236ca4b1a340629c8a31e8affec9a7-Max.jpg?v=1768150299
     Price: $31.44 USD
-- [Drawstring Sweetheart Neck Cropped Top](https://fitggins.com/products/drawstring-sweetheart-neck-cropped-top): Shop the Drawstring Sweetheart Neck Cropped Top for a chic look that combines style and comfort. Adjustable fit with semi-sheer fabric, perfect for any occasion.
-  Updated: 2026-02-06T08:05:29Z
+- [Drawstring Sweetheart Neck Cropped Top](https://fitggins.com/products/drawstring-sweetheart-neck-cropped-top): A versatile cropped top with an adjustable drawstring sweetheart neckline, semi-sheer fabric, and a fitted silhouette. Made of 95% polyester and 5% spandex. Machine wash cold, tumble dry low. Imported.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4154,8 +4146,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/102a3b900f674195ad33168edcde1f2d-Max.jpg?v=1768150311
     Price: $27.63 USD
-- [Smocked Lantern Sleeve Round Neck Blouse](https://fitggins.com/products/smocked-lantern-sleeve-round-neck-blouse): Discover the Smocked Lantern Sleeve Round Neck Blouse, a perfect blend of style and comfort. Ideal for any occasion, this blouse elevates your wardrobe effortlessly.
-  Updated: 2026-02-09T08:03:04Z
+- [Smocked Lantern Sleeve Round Neck Blouse — Elegant Everyday Top](https://fitggins.com/products/smocked-lantern-sleeve-round-neck-blouse): Elevate everyday moments with the Smocked Lantern Sleeve Round Neck Blouse. Opaque, structured fit in 95% polyester with smocked detail and lantern sleeves. Machine wash cold, tumble dry low. Available S–1XL.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4260,8 +4252,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a71eb40a2fdd4cfd97948074c1b5260a-Max.webp?v=1768150319
     Price: $30.83 USD
-- [Spliced Lace Flutter Sleeve Top](https://fitggins.com/products/spliced-lace-flutter-sleeve-top): Discover the Spliced Lace Flutter Sleeve Top, perfect for casual outings with its elegant lace detail and comfortable fit.
-  Updated: 2026-02-04T08:00:24Z
+- [Spliced Lace Flutter Sleeve Top — Casual Lace Detail](https://fitggins.com/products/spliced-lace-flutter-sleeve-top): Soft, breathable Spliced Lace Flutter Sleeve Top with delicate lace detail, round neck, and flutter sleeves. Made of 95% rayon and 5% spandex. Machine wash cold, tumble dry low. Available S–2XL; see bust and length measurements.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4386,8 +4378,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/02d2cc79a38042c98ceabdefc7bce42e-Max.jpg?v=1768150330
     Price: $29.59 USD
-- [V-Neck Long Raglan Sleeve Top - Casual Style](https://fitggins.com/products/v-neck-long-raglan-sleeve-top): Discover the V-Neck Long Raglan Sleeve Top, a versatile and stylish addition to your wardrobe. Perfect for casual outings or cozy evenings, crafted for comfort.
-  Updated: 2026-02-04T08:00:26Z
+- [V-Neck Long Raglan Sleeve Top - Soft Rayon Blend](https://fitggins.com/products/v-neck-long-raglan-sleeve-top): Casual V-neck top with long raglan sleeves in 95% rayon/5% spandex. Solid, non-sheer design with a regular length and highly stretchy fabric. Machine wash cold; tumble dry low. Measurements included for S–2XL.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4572,8 +4564,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec12f79da76c4e448bd1373c7f048fd5-Max.jpg?v=1768150342
     Price: $28.59 USD
-- [Asymmetrical Neck Buttoned Top for Stylish Comfort](https://fitggins.com/products/asymmetrical-neck-buttoned-top): Discover the Asymmetrical Neck Buttoned Top, featuring a unique design and comfortable fit, perfect for all occasions.
-  Updated: 2026-02-05T23:52:51Z
+- [Asymmetrical Neck Buttoned Top — Modern Neckline, Comfortable Fit](https://fitggins.com/products/asymmetrical-neck-buttoned-top): Elevate everyday style with this Asymmetrical Neck Buttoned Top. 100% polyester, opaque with slight stretch for comfort. Machine wash cold, tumble dry low. Available S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4638,114 +4630,114 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3321d627d793420a8463ddd3ba26738a-Max.jpg?v=1768150350
     Price: $30.91 USD
-- [Mandy Ruche V-Neck Petal Sleeve Top - Casual Elegance](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top): Discover the Mandy Ruche V-Neck Petal Sleeve Top. Perfect for any occasion, it combines style and comfort effortlessly.
-  Updated: 2026-02-05T08:01:47Z
+- [Mandy Ruched V-Neck Petal Sleeve Top](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top): Feminine and versatile Mandy Ruched V-Neck Petal Sleeve Top in 100% polyester. Features ruched detailing, V-neck, petal short sleeves, regular length, and easy care. Available S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:39Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f419939-e152-45d9-8d3f-7c2c841831da-Max.webp?v=1768150360
-  - [Blush Pink / S](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969414472)
+  - [Blush Pink / S](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969414472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f419939-e152-45d9-8d3f-7c2c841831da-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Blush Pink / M](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969447240)
+  - [Blush Pink / M](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969447240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f419939-e152-45d9-8d3f-7c2c841831da-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Blush Pink / L](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969480008)
+  - [Blush Pink / L](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969480008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f419939-e152-45d9-8d3f-7c2c841831da-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Blush Pink / XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969512776)
+  - [Blush Pink / XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969512776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f419939-e152-45d9-8d3f-7c2c841831da-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Blush Pink / 2XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969545544)
+  - [Blush Pink / 2XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969545544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f419939-e152-45d9-8d3f-7c2c841831da-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [White / S](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969578312)
+  - [White / S](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969578312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c31588c-1b50-4d62-bb94-fc7623948d2d-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [White / M](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969611080)
+  - [White / M](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969611080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c31588c-1b50-4d62-bb94-fc7623948d2d-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [White / L](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969643848)
+  - [White / L](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969643848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c31588c-1b50-4d62-bb94-fc7623948d2d-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [White / XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969676616)
+  - [White / XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969676616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c31588c-1b50-4d62-bb94-fc7623948d2d-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [White / 2XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969709384)
+  - [White / 2XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969709384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c31588c-1b50-4d62-bb94-fc7623948d2d-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Black / S](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969742152)
+  - [Black / S](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969742152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dad90808-8c86-404a-8f8a-cec6634d7dbe-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Black / M](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969774920)
+  - [Black / M](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969774920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dad90808-8c86-404a-8f8a-cec6634d7dbe-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Black / L](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969807688)
+  - [Black / L](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969807688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dad90808-8c86-404a-8f8a-cec6634d7dbe-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Black / XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969840456)
+  - [Black / XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969840456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dad90808-8c86-404a-8f8a-cec6634d7dbe-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Black / 2XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969873224)
+  - [Black / 2XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969873224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dad90808-8c86-404a-8f8a-cec6634d7dbe-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Beige / S](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969905992)
+  - [Beige / S](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969905992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c043a132-e6d7-4bc4-b641-051231fee4dd-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Beige / M](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969938760)
+  - [Beige / M](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969938760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c043a132-e6d7-4bc4-b641-051231fee4dd-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Beige / L](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305969971528)
+  - [Beige / L](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305969971528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c043a132-e6d7-4bc4-b641-051231fee4dd-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Beige / XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970004296)
+  - [Beige / XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970004296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c043a132-e6d7-4bc4-b641-051231fee4dd-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Beige / 2XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970037064)
+  - [Beige / 2XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970037064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c043a132-e6d7-4bc4-b641-051231fee4dd-Max.webp?v=1768150360
     Price: $30.28 USD
-  - [Pastel  Blue / S](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970069832)
+  - [Pastel  Blue / S](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970069832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53816d0c-2716-4702-8ee0-14d2672e3263-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Pastel  Blue / M](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970102600)
+  - [Pastel  Blue / M](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970102600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53816d0c-2716-4702-8ee0-14d2672e3263-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Pastel  Blue / L](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970135368)
+  - [Pastel  Blue / L](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970135368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53816d0c-2716-4702-8ee0-14d2672e3263-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Pastel  Blue / XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970168136)
+  - [Pastel  Blue / XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970168136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53816d0c-2716-4702-8ee0-14d2672e3263-Max.webp?v=1768150359
     Price: $30.28 USD
-  - [Pastel  Blue / 2XL](https://fitggins.com/products/mandy-ruche-v-neck-petal-sleeve-top?variant=52305970200904)
+  - [Pastel  Blue / 2XL](https://fitggins.com/products/mandy-ruched-v-neck-petal-sleeve-top?variant=52305970200904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53816d0c-2716-4702-8ee0-14d2672e3263-Max.webp?v=1768150359
     Price: $30.28 USD
-- [V-Neck Tie Hem Flutter Sleeve Blouse](https://fitggins.com/products/v-neck-tie-hem-flutter-sleeve-blouse): Elevate your style with the V-Neck Tie Hem Flutter Sleeve Blouse, perfect for any occasion. Comfortable and chic, it’s the ideal addition to your wardrobe.
-  Updated: 2026-01-22T07:20:19Z
+- [V-Neck Tie Hem Flutter Sleeve Blouse](https://fitggins.com/products/v-neck-tie-hem-flutter-sleeve-blouse): A versatile V-neck blouse with a stylish tie hem and flutter sleeves. Made of 95% polyester and 5% spandex for slight stretch, easy care, and all-day comfort. Perfect for casual or office looks.
+  Updated: 2026-02-17T07:22:39Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4870,8 +4862,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c848b9faa089499696d539dec63222b0-Max.jpg?v=1768150371
     Price: $33.51 USD
-- [Feather Print Smocked Off-Shoulder Blouse](https://fitggins.com/products/feather-print-smocked-off-shoulder-blouse): Discover the stylish Feather Print Smocked Off-Shoulder Blouse, perfect for elevating your wardrobe for any occasion.
-  Updated: 2026-02-07T02:37:15Z
+- [Feather Print Smocked Off-Shoulder Blouse](https://fitggins.com/products/feather-print-smocked-off-shoulder-blouse): A feminine off-shoulder blouse with smocked detailing and feather print. Made from 95% polyester, 5% elastane. Opaque fabric, machine wash cold. Available S–XL with detailed measurements for a perfect fit.
+  Updated: 2026-02-17T07:22:39Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4892,8 +4884,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/72451d019fff4ce8a37bb59da53a65e1-Max.webp?v=1768150379
     Price: $30.55 USD
-- [Smocked Round Neck Eyelet Top - Casual Elegance](https://fitggins.com/products/smocked-round-neck-eyelet-top): Discover the perfect blend of style and comfort with our Smocked Round Neck Eyelet Top. Ideal for casual outings and easy to care for!
-  Updated: 2026-02-04T08:00:24Z
+- [Smocked Round Neck Eyelet Top](https://fitggins.com/products/smocked-round-neck-eyelet-top): A casual yet elegant 100% polyester top with eyelet details and smocked bodice. Round neckline, flutter cap sleeves, and highly stretchy fabric. Machine wash cold, tumble dry low. Available S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:39Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -5044,8 +5036,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3d3f3c4cd1a84c3b8d14683c4cd7f129-Max.jpg?v=1768150402
     Price: $28.31 USD
-- [Full Size Scoop Neck Long Sleeve Bodysuit](https://fitggins.com/products/full-size-scoop-neck-long-sleeve-bodysuit): Discover the Full Size Scoop Neck Long Sleeve Bodysuit, perfect for any occasion with its stylish and comfortable design.
-  Updated: 2026-02-10T18:55:08Z
+- [Full Size Scoop Neck Long Sleeve Bodysuit](https://fitggins.com/products/full-size-scoop-neck-long-sleeve-bodysuit): Versatile scoop neck long sleeve bodysuit in 65% polyester/35% elastane. Opaque, slightly stretchy, and easy-care. Size chart included (measurements in inches).
+  Updated: 2026-02-19T08:08:13Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5146,30 +5138,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/702b261d-eeb7-4120-8873-aba143454f37-Max.webp?v=1768152251
     Price: $28.62 USD
-- [Perfee Decorative Button Bodysuit](https://fitggins.com/products/perfee-decorative-button-bodysuit): Discover the Perfee Decorative Button Round Neck Long Sleeve Bodysuit, blending style and comfort for any occasion.
-  Updated: 2026-02-05T09:20:36Z
+- [Perfee Decorative Button Long Sleeve Bodysuit](https://fitggins.com/products/perfee-decorative-button-round-neck-long-sleeve-bodysuit): Elevate your wardrobe with the Perfee Decorative Button Round Neck Long Sleeve Bodysuit. Stretchy, opaque viscose-elastane blend with decorative buttons—versatile for day-to-night wear. Machine wash cold.
+  Updated: 2026-02-17T07:22:40Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1768152261
-  - [Pastel Yellow / S](https://fitggins.com/products/perfee-decorative-button-bodysuit?variant=52306588008776)
+  - [Pastel Yellow / S](https://fitggins.com/products/perfee-decorative-button-round-neck-long-sleeve-bodysuit?variant=52306588008776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1768152261
     Price: $34.58 USD
-  - [Pastel Yellow / M](https://fitggins.com/products/perfee-decorative-button-bodysuit?variant=52306588041544)
+  - [Pastel Yellow / M](https://fitggins.com/products/perfee-decorative-button-round-neck-long-sleeve-bodysuit?variant=52306588041544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1768152261
     Price: $34.58 USD
-  - [Pastel Yellow / L](https://fitggins.com/products/perfee-decorative-button-bodysuit?variant=52306588074312)
+  - [Pastel Yellow / L](https://fitggins.com/products/perfee-decorative-button-round-neck-long-sleeve-bodysuit?variant=52306588074312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1768152261
     Price: $34.58 USD
-  - [Pastel Yellow / XL](https://fitggins.com/products/perfee-decorative-button-bodysuit?variant=52306588107080)
+  - [Pastel Yellow / XL](https://fitggins.com/products/perfee-decorative-button-round-neck-long-sleeve-bodysuit?variant=52306588107080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4a2bbfdb-7b62-4480-a0ab-80e5ff410d7d-Max.webp?v=1768152261
     Price: $34.58 USD
-- [Perfee Lace Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit): Discover the Perfee Lace Long Sleeve Bodysuit, blending elegance and comfort with a delicate lace design. Perfect for layering or solo wear!
-  Updated: 2026-02-07T03:00:37Z
+- [Perfee Lace Long Sleeve Bodysuit — Elegant Semi-Sheer Lace](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit): Perfee Lace Long Sleeve Bodysuit: semi-sheer lace, 95% polyester 5% elastane, slightly stretchy. Versatile for day-to-night styling. Machine wash cold; tumble dry low. Measurements available for S, M, L, XL.
+  Updated: 2026-02-17T07:22:40Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5254,8 +5246,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7574abc1-cc91-4124-b167-16fe7ff6f5de-Max.webp?v=1768152272
     Price: $30.93 USD
-- [Perfee Lace Backless V-Neck Cap Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-backless-v-neck-cap-sleeve-bodysuit): Shop the Perfee Lace Backless V-Neck Cap Sleeve Bodysuit for a chic and elegant look. Perfect for any occasion, this bodysuit is designed to flatter and enhance your figure.
-  Updated: 2026-02-04T05:40:45Z
+- [Perfee Lace Backless V-Neck Cap Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-backless-v-neck-cap-sleeve-bodysuit): Elevate your look with the Perfee Lace Backless V-Neck Cap Sleeve Bodysuit. Stretchy, semi-sheer fabric with elegant lace and a daring backless design—perfect for brunch, dinner, or nights out. Available S–XL.
+  Updated: 2026-02-17T07:22:40Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5276,8 +5268,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea7eb01b-349f-4b5e-9ce1-4d9a51e72612-Max.webp?v=1768152283
     Price: $29.14 USD
-- [Plus Size Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/plus-size-round-neck-long-sleeve-bodysuit): Discover the Plus Size Round Neck Long Sleeve Bodysuit, designed for comfort and style. Perfect for any occasion with a flattering fit!
-  Updated: 2026-01-22T09:29:21Z
+- [Plus Size Round Neck Long Sleeve Bodysuit - Comfortable Stretch](https://fitggins.com/products/plus-size-round-neck-long-sleeve-bodysuit): Versatile plus size long sleeve bodysuit with opaque fabric and moderate stretch. Made of 95% polyester, 5% elastane. Machine wash cold, tumble dry low. Available L–4XL with detailed measurements.
+  Updated: 2026-02-17T07:22:40Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5302,8 +5294,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0c2b81f4ad9c4aae92ade2d391e32802-Max.jpg?v=1768152292
     Price: $28.49 USD
-- [Perfee Lace Detail Plunge Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-detail-plunge-long-sleeve-bodysuit): Discover the Perfee Lace Detail Plunge Long Sleeve Bodysuit, perfect for a night out or special occasions. Elegant lace detail and comfortable fit make it a must-have.
-  Updated: 2026-02-07T06:40:36Z
+- [Perfee Lace Detail Plunge Long Sleeve Bodysuit - Elegant Evening Wear](https://fitggins.com/products/perfee-lace-detail-plunge-long-sleeve-bodysuit): Discover the Perfee Lace Detail Plunge Long Sleeve Bodysuit — a versatile, elegant piece with a lace-trimmed plunge neckline and long sleeves. Comfortable for everyday wear and stylish for special occasions. Check measurements and consider sizing up if between sizes.
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5436,8 +5428,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f204906f-f796-4969-82f0-dd1d3bf62133-Max.webp?v=1768152303
     Price: $30.83 USD
-- [Rhinestone Trim Mock Neck Long Sleeve Bodysuit](https://fitggins.com/products/rhinestone-trim-mock-neck-long-sleeve-bodysuit): Discover elegance with our Rhinestone Trim Mock Neck Long Sleeve Bodysuit, a perfect blend of style and comfort for any occasion.
-  Updated: 2026-01-24T08:00:50Z
+- [Rhinestone Trim Mock Neck Long Sleeve Bodysuit](https://fitggins.com/products/rhinestone-trim-mock-neck-long-sleeve-bodysuit): Elegant mock-neck long sleeve bodysuit with rhinestone trim. Semi-sheer, slightly stretchy 95% polyamide/5% elastane. Hand wash cold. Measurements provided for sizes S–XL.
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5458,8 +5450,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b0f84d05-9f3f-460b-bce2-7becda2d7fbc-Max.webp?v=1768152311
     Price: $35.97 USD
-- [Perfee V-Neck Lace Bodysuit](https://fitggins.com/products/perfee-v-neck-lace-bodysuit): Discover the elegance of the Perfee V-Neck Lace Bodysuit, designed for comfort and versatility. Perfect for any occasion!
-  Updated: 2026-02-07T02:40:36Z
+- [Perfee V-Neck Lace Bodysuit – Elegant Stretch Lace Bodysuit](https://fitggins.com/products/perfee-v-neck-lace-bodysuit): Romantic and versatile Perfee V-Neck Lace Bodysuit in 95% polyester, 5% elastane. Semi-sheer, highly stretchy, easy-care. See size chart for measurements and conversions.
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5480,8 +5472,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4600efdf-0d1d-4f66-a13f-64324c80e1be-Max.webp?v=1768152322
     Price: $30.69 USD
-- [Perfee Lace Backless Round Neck Bodysuit](https://fitggins.com/products/perfee-lace-backless-round-neck-bodysuit): Discover the Perfee Lace Backless Round Neck Bodysuit, a blend of elegance and comfort, perfect for any occasion. Elevate your style with this chic and versatile piece.
-  Updated: 2026-02-10T04:05:12Z
+- [Perfee Lace Backless Round Neck Bodysuit](https://fitggins.com/products/perfee-lace-backless-round-neck-bodysuit): Elevate your wardrobe with the Perfee Lace Backless Round Neck Bodysuit. Semi-sheer with lace tie and slight stretch (95% polyester, 5% elastane). Hand wash or dry clean. Available S–XL.
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5502,8 +5494,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb25d737-c3b1-400e-a3db-0ddb6fdc633d-Max.webp?v=1768152332
     Price: $30.08 USD
-- [Square Neck Long Sleeve Bodysuit](https://fitggins.com/products/square-neck-long-sleeve-bodysuit): Discover the versatile Square Neck Long Sleeve Bodysuit, perfect for any occasion. Soft fabric, stretchy fit, and stylish design make it a wardrobe essential.
-  Updated: 2026-02-02T08:00:48Z
+- [Square Neck Long Sleeve Bodysuit — Versatile Layering Staple](https://fitggins.com/products/square-neck-long-sleeve-bodysuit): A timeless square-neck long sleeve bodysuit made of 95% polyester and 5% spandex. Slight stretch for comfort and a flattering fit. Machine wash cold, tumble dry low. Imported. Available in S (US 4), M (US 6/8), L (US 10/12).
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5592,8 +5584,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ee93c9d5-1f78-497d-979d-cddc534fc782-Max.webp?v=1768152343
     Price: $31.50 USD
-- [Rhinestone Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/rhinestone-round-neck-long-sleeve-bodysuit): Discover the Rhinestone Round Neck Long Sleeve Bodysuit, a stylish piece that enhances your outfit with elegance. Made from a comfortable stretch fabric, ideal for any occasion.
-  Updated: 2026-01-23T03:33:50Z
+- [Rhinestone Round Neck Long Sleeve Bodysuit — Sparkling Women's Bodysu](https://fitggins.com/products/rhinestone-round-neck-long-sleeve-bodysuit): Make a statement with this Rhinestone Round Neck Long Sleeve Bodysuit. Features elegant rhinestones, slight stretch (90% polyester, 10% spandex), easy care (machine wash cold, tumble dry low), and imported quality—perfect for day or night.
+  Updated: 2026-02-17T07:22:42Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5638,8 +5630,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/90872b08191b4bd193dd98319d9050bf-Max.jpg?v=1768152353
     Price: $34.51 USD
-- [Perfee Spaghetti Strap Lace Bodysuit](https://fitggins.com/products/perfee-spaghetti-strap-lace-bodysuit): Elevate your style with the Perfee Spaghetti Strap Lace Bodysuit, featuring elegant lace detailing and a flattering V-neck. Perfect for any occasion!
-  Updated: 2026-02-04T08:40:46Z
+- [Perfee Spaghetti Strap Lace Bodysuit - Elegant V-Neck Lace](https://fitggins.com/products/perfee-spaghetti-strap-lace-bodysuit): Perfee Spaghetti Strap Lace Bodysuit—solid, sleeveless V-neck with delicate lace. 95% polyester, 5% elastane. Machine wash cold. Available S-XL with detailed measurements.
+  Updated: 2026-02-17T07:22:42Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5660,8 +5652,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b1f62eb2e1794c08924c0ed18badb10e-Max.jpg?v=1768152363
     Price: $29.87 USD
-- [Round Neck Short Sleeve Bodysuit - Versatile Women's Fashion](https://fitggins.com/products/round-neck-short-sleeve-bodysuit): Explore the Round Neck Short Sleeve Bodysuit, a stylish and versatile addition to your wardrobe, perfect for any occasion.
-  Updated: 2026-01-22T07:20:03Z
+- [Round Neck Short Sleeve Bodysuit - Versatile Women's Basic](https://fitggins.com/products/round-neck-short-sleeve-bodysuit): Versatile Round Neck Short Sleeve Bodysuit in 80% polyester, 20% spandex. Opaque, highly stretchy, easy-care (machine wash cold, tumble dry low). Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:42Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5698,8 +5690,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1569ea0-3bb3-4a47-822f-3b794260ebd3-Max.webp?v=1768152373
     Price: $27.94 USD
-- [Plus Size Halter Neck Spaghetti Strap Bodysuit](https://fitggins.com/products/plus-size-halter-neck-spaghetti-strap-bodysuit): Discover the comfort and style of our Plus Size Halter Neck Spaghetti Strap Bodysuit. Perfect for any occasion, it offers a flattering fit and easy care.
-  Updated: 2026-01-22T07:19:57Z
+- [Plus Size Halter Neck Spaghetti Strap Bodysuit – Comfortable & Flawsc](https://fitggins.com/products/plus-size-halter-neck-spaghetti-strap-bodysuit): A versatile plus-size halter neck spaghetti strap bodysuit made from 95% polyester and 5% spandex. Flattering, slightly stretchy, easy-care piece with measurements for L–4XL. Perfect for layering or wearing on its own.
+  Updated: 2026-02-17T07:22:42Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -5784,98 +5776,98 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/41fc3cf032a64191a7c7390fee992236-Max.jpg?v=1768152383
     Price: $27.57 USD
-- [Basic Bae Scoop Neck Butt Lifting Bodysuit](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit): Discover the Basic Bae Scoop Neck Butt Lifting Bodysuit for a stylish and comfortable fit. Perfect for any occasion, this versatile bodysuit combines fashion and practicality.
-  Updated: 2026-01-22T09:20:21Z
+- [Basic Bae Scoop Neck Butt Lifting Bodysuit](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit): A versatile, opaque scoop neck bodysuit (95% polyester, 5% spandex) with slight stretch and butt-lifting contour. Machine wash cold, tumble dry low. Size chart included.
+  Updated: 2026-02-17T07:22:42Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e3f421c3-9fca-4e05-9396-0d34082ed658-Max.webp?v=1768152393
-  - [Black / XS](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594267464)
+  - [Black / XS](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594267464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Black / S](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594300232)
+  - [Black / S](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594300232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Black / M](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594333000)
+  - [Black / M](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594333000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Black / L](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594365768)
+  - [Black / L](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594365768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Black / XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594398536)
+  - [Black / XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594398536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Black / 2XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594431304)
+  - [Black / 2XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594431304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Black / 3XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594464072)
+  - [Black / 3XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594464072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ecc1e42-65fc-440a-a549-f4ba70213f1c-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / XS](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594496840)
+  - [Brown / XS](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594496840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / S](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594529608)
+  - [Brown / S](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594529608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / M](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594562376)
+  - [Brown / M](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594562376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / L](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594595144)
+  - [Brown / L](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594595144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594627912)
+  - [Brown / XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594627912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / 2XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594660680)
+  - [Brown / 2XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594660680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Brown / 3XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594693448)
+  - [Brown / 3XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594693448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/22c98a29-9b10-4554-b036-6e7c484fd90a-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / XS](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594726216)
+  - [Dust Storm / XS](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594726216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / S](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594758984)
+  - [Dust Storm / S](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594758984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / M](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594791752)
+  - [Dust Storm / M](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594791752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / L](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594824520)
+  - [Dust Storm / L](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594824520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594857288)
+  - [Dust Storm / XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594857288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / 2XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594890056)
+  - [Dust Storm / 2XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594890056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
-  - [Dust Storm / 3XL](https://fitggins.com/products/basic-bae-scoop-neck-bodysuit?variant=52306594922824)
+  - [Dust Storm / 3XL](https://fitggins.com/products/basic-bae-full-size-scoop-neck-butt-lifting-bodysuit?variant=52306594922824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2298db96-d7a9-4145-a24c-347af4a98cfe-Max.webp?v=1768152393
     Price: $28.31 USD
 - [Full Size Round Neck Short Sleeve Bodysuit](https://fitggins.com/products/full-size-round-neck-short-sleeve-bodysuit): Discover our Full Size Round Neck Short Sleeve Bodysuit, designed for comfort and style. Perfect for layering or wearing alone, it's a versatile addition to your wardrobe.
-  Updated: 2026-01-22T07:20:20Z
+  Updated: 2026-02-19T08:08:04Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6000,122 +5992,122 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/38e0e577-5203-4b97-9e48-d761464a2d85-Max.webp?v=1768152403
     Price: $27.28 USD
-- [Round Neck Short Sleeve Bodysuit - Comfortable & Stylish](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036): Discover the Round Neck Short Sleeve Bodysuit, a perfect blend of style and comfort. Ideal for any occasion, this bodysuit features a classic design and stretchy material for a perfect fit.
-  Updated: 2026-01-22T09:46:27Z
+- [Round Neck Short Sleeve Bodysuit – Comfortable Stretch Fit](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657): Versatile Round Neck Short Sleeve Bodysuit in 80% polyester / 20% spandex. Opaque, stretchy, and easy-care — perfect for layering or wearing on its own. See size measurements for S, M, L.
+  Updated: 2026-02-17T05:38:52Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6fd060f400b54db4b2504e12e44b0486-Max.webp?v=1768152413
-  - [Black / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306595971400)
+  - [Black / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306595971400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6fd060f400b54db4b2504e12e44b0486-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Black / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596004168)
+  - [Black / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596004168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6fd060f400b54db4b2504e12e44b0486-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Black / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596036936)
+  - [Black / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596036936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6fd060f400b54db4b2504e12e44b0486-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Dark Green / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596069704)
+  - [Dark Green / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596069704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/88892d8bdd4f4c31a9c3376f18736f8a-Max.webp?v=1768152412
     Price: $27.74 USD
-  - [Dark Green / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596102472)
+  - [Dark Green / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596102472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/88892d8bdd4f4c31a9c3376f18736f8a-Max.webp?v=1768152412
     Price: $27.74 USD
-  - [Dark Green / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596135240)
+  - [Dark Green / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596135240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/88892d8bdd4f4c31a9c3376f18736f8a-Max.webp?v=1768152412
     Price: $27.74 USD
-  - [Scarlet / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596168008)
+  - [Scarlet / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596168008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/060592f8ca7e4f1480f15986708bcf9d-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Scarlet / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596200776)
+  - [Scarlet / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596200776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/060592f8ca7e4f1480f15986708bcf9d-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Scarlet / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596233544)
+  - [Scarlet / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596233544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/060592f8ca7e4f1480f15986708bcf9d-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Blush Pink / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596266312)
+  - [Blush Pink / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596266312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/840172b61a4b494ab4d54b69c1e9a3a3-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Blush Pink / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596299080)
+  - [Blush Pink / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596299080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/840172b61a4b494ab4d54b69c1e9a3a3-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Blush Pink / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596331848)
+  - [Blush Pink / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596331848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/840172b61a4b494ab4d54b69c1e9a3a3-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Ivory / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596364616)
+  - [Ivory / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596364616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0ef110e75bd64970b360ae3634212515-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Ivory / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596397384)
+  - [Ivory / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596397384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0ef110e75bd64970b360ae3634212515-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Ivory / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596430152)
+  - [Ivory / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596430152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0ef110e75bd64970b360ae3634212515-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [White / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596462920)
+  - [White / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596462920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/762550de2cf248b9b918509272706bca-Max.webp?v=1768152414
     Price: $27.74 USD
-  - [White / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596495688)
+  - [White / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596495688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/762550de2cf248b9b918509272706bca-Max.webp?v=1768152414
     Price: $27.74 USD
-  - [White / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596528456)
+  - [White / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596528456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/762550de2cf248b9b918509272706bca-Max.webp?v=1768152414
     Price: $27.74 USD
-  - [Burgundy / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596561224)
+  - [Burgundy / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596561224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fe72dd1e9c24e77bd8fd87c1cbdfe5c-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Burgundy / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596593992)
+  - [Burgundy / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596593992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fe72dd1e9c24e77bd8fd87c1cbdfe5c-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Burgundy / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596626760)
+  - [Burgundy / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596626760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fe72dd1e9c24e77bd8fd87c1cbdfe5c-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Royal Blue / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596659528)
+  - [Royal Blue / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596659528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ef3e6231d3c4ea18338fabaeaecf89f-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Royal Blue / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596692296)
+  - [Royal Blue / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596692296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ef3e6231d3c4ea18338fabaeaecf89f-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Royal Blue / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596725064)
+  - [Royal Blue / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596725064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ef3e6231d3c4ea18338fabaeaecf89f-Max.webp?v=1768152413
     Price: $27.74 USD
-  - [Hot Pink / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596757832)
+  - [Hot Pink / S](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596757832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c2e089492b584187b49fba30a49f9784-Max.webp?v=1768152412
     Price: $27.74 USD
-  - [Hot Pink / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596790600)
+  - [Hot Pink / M](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596790600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c2e089492b584187b49fba30a49f9784-Max.webp?v=1768152412
     Price: $27.74 USD
-  - [Hot Pink / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-15036?variant=52306596823368)
+  - [Hot Pink / L](https://fitggins.com/products/round-neck-short-sleeve-bodysuit-14657?variant=52306596823368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c2e089492b584187b49fba30a49f9784-Max.webp?v=1768152412
     Price: $27.74 USD
-- [Perfee Sweetheart Neck Long Sleeve Bodysuit](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-bodysuit): Discover the Perfee Sweetheart Neck Long Sleeve Bodysuit, blending style and comfort. Perfect for any occasion with its flattering design and easy care.
-  Updated: 2026-02-03T05:17:00Z
+- [Perfee Sweetheart Neck Long Sleeve Bodysuit - Semi-Sheer Stretch](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-bodysuit): Flattering Perfee bodysuit with a romantic sweetheart neckline, semi-sheer fabric, and high stretch. Made of 90% polyester, 10% elastane. Machine wash cold; tumble dry low. Imported. Available S–XL; see measurements.
+  Updated: 2026-02-17T07:22:43Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6136,8 +6128,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9ef34e37-c81d-4333-85a1-a13fff210f75-Max.webp?v=1768152422
     Price: $32.54 USD
-- [Zip Up Mock Neck Sleeveless Bodysuit](https://fitggins.com/products/zip-up-mock-neck-sleeveless-bodysuit): Discover the Zip Up Mock Neck Sleeveless Bodysuit, combining style and comfort for any occasion. Perfect for layering or wearing solo, experience effortless elegance.
-  Updated: 2026-02-12T19:10:36Z
+- [Zip-Up Mock Neck Sleeveless Bodysuit](https://fitggins.com/products/zip-up-mock-neck-sleeveless-bodysuit): Elevate your wardrobe with this versatile zip-up mock neck sleeveless bodysuit. Opaque, slightly stretchy 95% polyester/5% elastane fabric for a flattering, comfortable fit. Machine wash cold; tumble dry low. Measurements included for S–XL.
+  Updated: 2026-02-17T07:22:43Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6174,30 +6166,30 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3229978d-5453-4961-ab1e-e8d9fa6c6dd1-Max.webp?v=1768152433
     Price: $28.96 USD
-- [Square Neck Long Sleeve Bodysuit](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-14714): Discover the perfect blend of comfort and style with our Square Neck Long Sleeve Bodysuit, designed for versatile wear and effortless chic.
-  Updated: 2026-01-24T10:20:36Z
+- [Square Neck Long Sleeve Bodysuit — Opaque, Slight Stretch](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-90400): Versatile square neck long sleeve bodysuit made of 62% polyester, 32% cotton, 6% elastane. Opaque, slightly stretchy for all-day comfort. Machine wash cold, tumble dry low. Size chart included.
+  Updated: 2026-02-17T07:22:43Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73790bad-1744-4dd1-af36-8c63621fbe1f-Max.webp?v=1768152444
-  - [Dark Green / S](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-14714?variant=52306601443656)
+  - [Dark Green / S](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-90400?variant=52306601443656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73790bad-1744-4dd1-af36-8c63621fbe1f-Max.webp?v=1768152444
     Price: $32.26 USD
-  - [Dark Green / M](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-14714?variant=52306601476424)
+  - [Dark Green / M](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-90400?variant=52306601476424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73790bad-1744-4dd1-af36-8c63621fbe1f-Max.webp?v=1768152444
     Price: $32.26 USD
-  - [Dark Green / L](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-14714?variant=52306601509192)
+  - [Dark Green / L](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-90400?variant=52306601509192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73790bad-1744-4dd1-af36-8c63621fbe1f-Max.webp?v=1768152444
     Price: $32.26 USD
-  - [Dark Green / XL](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-14714?variant=52306601541960)
+  - [Dark Green / XL](https://fitggins.com/products/square-neck-long-sleeve-bodysuit-90400?variant=52306601541960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73790bad-1744-4dd1-af36-8c63621fbe1f-Max.webp?v=1768152444
     Price: $32.26 USD
-- [Perfee Leopard Half Zip Sleeveless Bodysuit](https://fitggins.com/products/perfee-leopard-half-zip-sleeveless-bodysuit): Shop the Perfee Leopard Half Zip Sleeveless Bodysuit for stylish comfort. Perfect for any occasion, made from breathable fabric.
-  Updated: 2026-01-22T09:32:54Z
+- [Perfee Leopard Half Zip Sleeveless Bodysuit](https://fitggins.com/products/perfee-leopard-half-zip-sleeveless-bodysuit): Elevate casual and evening outfits with the Perfee Leopard Half Zip Sleeveless Bodysuit. Opaque, moderately stretchy 95% cotton/5% polyester; machine wash cold. Size chart included.
+  Updated: 2026-02-20T14:36:45Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6218,8 +6210,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/759a69a1-4b12-4fd0-a0e9-206ea2722b93-Max.webp?v=1768152453
     Price: $26.37 USD
-- [Full Size Square Neck Short Sleeve Bodysuit](https://fitggins.com/products/full-size-square-neck-short-sleeve-bodysuit): Discover the Full Size Square Neck Short Sleeve Bodysuit - a blend of style and comfort! Perfect for any occasion with a modern twist.
-  Updated: 2026-01-22T16:18:56Z
+- [Square Neck Short Sleeve Bodysuit - Stretchy Everyday Bodysuit](https://fitggins.com/products/full-size-square-neck-short-sleeve-bodysuit): A versatile square neck short sleeve bodysuit in 65% polyester/35% elastane. Opaque, slightly stretchy, machine wash cold. Measurements provided for sizes S–3XL.
+  Updated: 2026-02-19T08:08:26Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6344,8 +6336,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5951f5a2-8c8b-4a42-afa6-53cfc8cd95bc-Max.webp?v=1768152464
     Price: $28.14 USD
-- [Animal Print Scoop Neck Long Sleeve Bodysuit](https://fitggins.com/products/animal-print-scoop-neck-long-sleeve-bodysuit): Elevate your style with our Animal Print Scoop Neck Long Sleeve Bodysuit, perfect for any occasion. Soft, breathable fabric for all-day comfort.
-  Updated: 2026-01-22T09:31:36Z
+- [Animal Print Scoop Neck Long Sleeve Bodysuit — Stylish Comfortable Fit](https://fitggins.com/products/animal-print-scoop-neck-long-sleeve-bodysuit): Versatile animal print scoop neck bodysuit with opaque coverage, slight stretch, and soft 95% polyester/5% elastane fabric. Easy care and imported; available in S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:24Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6366,8 +6358,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e310775-bf6b-4853-8727-dfc8a6633dab-Max.webp?v=1768152474
     Price: $29.43 USD
-- [Perfee Lace Detail V-Neck Short Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-detail-v-neck-short-sleeve-bodysuit): Discover the Perfee Lace Detail V-Neck Short Sleeve Bodysuit, combining style and comfort for any occasion. Perfect fit and elegant design await!
-  Updated: 2026-02-06T07:00:50Z
+- [Perfee Lace V-Neck Short Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-detail-v-neck-short-sleeve-bodysuit): Versatile Perfee lace-detail V-neck bodysuit with opaque, high-stretch fabric (95% polyester, 5% elastane). Machine wash cold, tumble dry low. Detailed size guide included.
+  Updated: 2026-02-17T05:38:50Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6388,8 +6380,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ac192e3c-2391-4cad-84b3-d11177b4bd80-Max.webp?v=1768152483
     Price: $29.07 USD
-- [Round Neck Long Sleeve Bodysuit](https://fitggins.com/products/round-neck-long-sleeve-bodysuit): Discover comfort and style with the Round Neck Long Sleeve Bodysuit, perfect for any occasion.
-  Updated: 2026-01-22T14:05:03Z
+- [Round Neck Long Sleeve Bodysuit — Stretchy 80% Polyester 20% Spandex](https://fitggins.com/products/round-neck-long-sleeve-bodysuit): Classic round neck long sleeve bodysuit offering opaque coverage and high stretch. Made of 80% Polyester, 20% Spandex for a soft feel and easy care (machine wash cold, tumble dry low). Available in S, M, L with detailed measurements.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6466,8 +6458,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/30dc60e0d062480da5a5ff42c3db189e-Max.webp?v=1768152494
     Price: $27.98 USD
-- [Perfee Sweetheart Neck Long Sleeve Lace Bodysuit](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-lace-bodysuit): Discover elegance and comfort with the Perfee Sweetheart Neck Long Sleeve Lace Bodysuit. Perfect for any occasion!
-  Updated: 2026-02-11T02:36:30Z
+- [Perfee Sweetheart Neck Lace Bodysuit - Long Sleeve](https://fitggins.com/products/perfee-sweetheart-neck-long-sleeve-lace-bodysuit): Elevate your wardrobe with the Perfee Sweetheart Neck Long Sleeve Lace Bodysuit—semi-sheer, stretchy, and made from 85% polyamide/15% elastane. See size chart for measurements.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6488,8 +6480,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40d19ab8-bd2f-403a-8995-81443fd99a93-Max.webp?v=1768152504
     Price: $30.28 USD
-- [Stylish Turtleneck Leopard Long Sleeve Bodysuit](https://fitggins.com/products/turtleneck-leopard-long-sleeve-bodysuit): Discover the Turtleneck Leopard Long Sleeve Bodysuit, blending style and comfort. Perfect for any occasion, this bodysuit features a trendy print and a cozy fit.
-  Updated: 2026-01-22T09:35:16Z
+- [Turtleneck Leopard Long Sleeve Bodysuit](https://fitggins.com/products/turtleneck-leopard-long-sleeve-bodysuit): Chic turtleneck leopard bodysuit in 95% polyester/5% elastane. Slight stretch, easy care (machine wash cold, tumble dry low). Size chart included for S–XL.
+  Updated: 2026-02-17T05:38:45Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6510,8 +6502,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4736e684-d677-4ff8-9431-c2cf5cc5e10d-Max.webp?v=1768152514
     Price: $25.89 USD
-- [Perfee Pom-Pom Detail Puff Sleeve Lace Bodysuit](https://fitggins.com/products/perfee-pom-pom-detail-puff-sleeve-lace-bodysuit): Discover the Perfee Pom-Pom Detail Puff Sleeve Lace Bodysuit, a sexy and elegant addition to your wardrobe. Perfect for any occasion, it features a plunge neckline and playful puff sleeves.
-  Updated: 2026-01-22T07:20:41Z
+- [Perfee Pom-Pom Puff Sleeve Lace Bodysuit](https://fitggins.com/products/perfee-pom-pom-detail-puff-sleeve-lace-bodysuit): Elevate your wardrobe with the Perfee Pom-Pom Detail Puff Sleeve Lace Bodysuit—plunge neckline, puff sleeves, delicate lace, 95% polyester/5% elastane. Machine wash cold; tumble dry low. Available S–XL.
+  Updated: 2026-02-17T05:38:52Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -6554,30 +6546,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0ec30560-23d3-41aa-94bd-ffedd4e101f8-Max.webp?v=1768152534
     Price: $33.08 USD
-- [Perfee Lace Long Sleeve Bodysuit](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-32035): Shop the Perfee Lace Long Sleeve Bodysuit, featuring elegant lace detailing and a chic design. Perfect for any occasion!
-  Updated: 2026-02-06T08:40:46Z
+- [Perfee Lace Long Sleeve Bodysuit - Chic Sheer V-Neck](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-73139): Elevate your wardrobe with the Perfee Lace Long Sleeve Bodysuit. Features sheer lace, V-neck, balloon sleeves, and a structured fit. Available in S–XL with detailed measurements. Machine wash cold, tumble dry low.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a3553f0a4d14236b993e6e6879bb0d0-Max.jpg?v=1768152550
-  - [Black / S](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-32035?variant=52306634473800)
+  - [Black / S](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-73139?variant=52306634473800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a3553f0a4d14236b993e6e6879bb0d0-Max.jpg?v=1768152550
     Price: $33.66 USD
-  - [Black / M](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-32035?variant=52306634506568)
+  - [Black / M](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-73139?variant=52306634506568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a3553f0a4d14236b993e6e6879bb0d0-Max.jpg?v=1768152550
     Price: $33.66 USD
-  - [Black / L](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-32035?variant=52306634539336)
+  - [Black / L](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-73139?variant=52306634539336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a3553f0a4d14236b993e6e6879bb0d0-Max.jpg?v=1768152550
     Price: $33.66 USD
-  - [Black / XL](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-32035?variant=52306634572104)
+  - [Black / XL](https://fitggins.com/products/perfee-lace-long-sleeve-bodysuit-73139?variant=52306634572104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5a3553f0a4d14236b993e6e6879bb0d0-Max.jpg?v=1768152550
     Price: $33.66 USD
-- [Stylish Round Neck Button Up Cardigan with Pockets](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets): Discover the perfect blend of style and comfort with our Round Neck Button Up Cardigan with Pockets. Ideal for casual and semi-formal occasions.
-  Updated: 2026-01-22T14:09:23Z
+- [Round Neck Button Up Cardigan with Pockets — 100% Acrylic](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets): Classic round neck button-up cardigan with pockets. Slight stretch, 100% acrylic, machine wash cold. Versatile layering piece for casual and polished looks. Available S–XL.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6662,8 +6654,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/713aeea0-3bb3-49ca-b408-865931c8db1a-Max.webp?v=1768153003
     Price: $38.52 USD
-- [Open Front Lantern Sleeve Cardigan](https://fitggins.com/products/open-front-lantern-sleeve-cardigan): Discover the elegance of the Open Front Lantern Sleeve Cardigan, crafted from 100% acrylic for warmth and durability. Perfect for any occasion!
-  Updated: 2026-02-02T19:11:56Z
+- [Open Front Lantern Sleeve Cardigan - 100% Acrylic Lightweight Layer](https://fitggins.com/products/open-front-lantern-sleeve-cardigan): Elevate everyday moments with the Open Front Lantern Sleeve Cardigan. 100% acrylic, moderate stretch, easy care. Available in S–XL with detailed measurements for a flattering fit.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6748,8 +6740,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3e1c7b38-94c7-4014-8824-91c75c475e96-Max.webp?v=1768153013
     Price: $38.30 USD
-- [Open Front Long Sleeve Cardigan](https://fitggins.com/products/open-front-long-sleeve-cardigan): Discover the Open Front Long Sleeve Cardigan, perfect for layering and everyday wear. Made from a soft blend, it's stylish and comfortable.
-  Updated: 2026-01-22T07:20:37Z
+- [Open Front Long Sleeve Cardigan - Versatile Layering](https://fitggins.com/products/open-front-long-sleeve-cardigan): A soft, breathable open-front cardigan (65% rayon, 30% polyester, 5% spandex) that layers effortlessly. Machine wash cold, tumble dry low. Available in sizes S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -6924,8 +6916,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fb2e05ad85e64aed9e44cafd83058c6a-Max.webp?v=1768153043
     Price: $39.29 USD
-- [Striped Open Front Knit Cardigan](https://fitggins.com/products/striped-open-front-knit-cardigan): Discover the Striped Open Front Knit Cardigan, a versatile layering piece for any occasion. Soft, stretchy, and stylish.
-  Updated: 2026-02-08T08:01:00Z
+- [Striped Open Front Knit Cardigan — Cozy Layering Cardigan](https://fitggins.com/products/striped-open-front-knit-cardigan): Soft 100% acrylic striped open-front knit cardigan with slight stretch for a comfortable fit. Machine wash cold, tumble dry low. Available S–2XL with detailed measurements. Perfect for casual or polished layering.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7030,8 +7022,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9b44e1cc-2407-40b8-8407-efa9a00949d2-Max.webp?v=1768153053
     Price: $36.81 USD
-- [Open Front Raglan Sleeve Pocketed Cardigan](https://fitggins.com/products/open-front-raglan-sleeve-pocketed-cardigan): Discover the Open Front Raglan Sleeve Pocketed Cardigan, designed for style and comfort with convenient pockets, crafted from warm acrylic.
-  Updated: 2026-01-22T09:29:53Z
+- [Open Front Raglan Sleeve Pocketed Cardigan — Cozy Acrylic Cardigan](https://fitggins.com/products/open-front-raglan-sleeve-pocketed-cardigan): Versatile open-front raglan cardigan with front pockets and slight stretch. Made from 100% acrylic for warmth and durability. Machine wash cold, tumble dry low. Available S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7116,8 +7108,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/312f977c-e934-4d9d-86c1-32d901fb51fc-Max.webp?v=1768153064
     Price: $43.97 USD
-- [Button Down Long Sleeve Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan): Discover the perfect blend of comfort and style with our Button Down Long Sleeve Cardigan, designed for versatile wear and easy maintenance.
-  Updated: 2026-01-22T07:20:18Z
+- [Button Down Long Sleeve Cardigan – Versatile Layering Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan): A versatile button down long sleeve cardigan made from 100% polyester. Slight stretch for comfort, easy machine wash care, imported. Available in sizes S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7154,8 +7146,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/355ad162-bf5a-4df2-a95c-d36b90a603ec-Max.webp?v=1768153073
     Price: $38.27 USD
-- [Dropped Shoulder Button Up Cardigan - Stylish Comfort](https://fitggins.com/products/dropped-shoulder-button-up-cardigan): Discover the Dropped Shoulder Button Up Cardigan, a cozy layering piece made from 100% acrylic for durability. Perfect for any occasion!
-  Updated: 2026-01-22T07:20:29Z
+- [Dropped-Shoulder Button-Up Cardigan — Cozy, Stretch Knit](https://fitggins.com/products/dropped-shoulder-button-up-cardigan): A versatile dropped-shoulder button-up cardigan in 100% acrylic with stretch for comfort. Machine wash cold, tumble dry low. Measurements listed for S–XL.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7192,8 +7184,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/240d88c0fba343da9d1a9d4e3af93341-Max.webp?v=1768153083
     Price: $35.46 USD
-- [Openwork Open Front Long Sleeve Cardigan](https://fitggins.com/products/openwork-open-front-long-sleeve-cardigan): Discover elegance and comfort with our Openwork Open Front Long Sleeve Cardigan. Perfect for any occasion, featuring moderate stretch and made from 100% acrylic.
-  Updated: 2026-01-22T07:21:18Z
+- [Openwork Open Front Long Sleeve Cardigan](https://fitggins.com/products/openwork-open-front-long-sleeve-cardigan): Lightweight openwork cardigan with an open front and long sleeves. 100% acrylic, moderate stretch, machine wash cold. Measurements in inches provided for S–XL.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7262,8 +7254,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e4d7e8e-9bdc-4c84-9608-9bc673f257b3-Max.webp?v=1768153093
     Price: $43.47 USD
-- [Plus Size Ribbed Cocoon Cover Up](https://fitggins.com/products/plus-size-ribbed-cocoon-cover-up): Discover our Plus Size Ribbed Cocoon Cover Up, designed for style and comfort. Perfect for layering, made with durable materials. Shop now!
-  Updated: 2026-02-11T01:28:00Z
+- [Plus Size Ribbed Cocoon Cover Up — Comfortable Chic Layering](https://fitggins.com/products/plus-size-ribbed-cocoon-cover-up): A flattering plus-size ribbed cocoon cover up in 95% Polyester / 5% Elastane. Opaque, slightly stretchy, machine washable. Measurements provided for 1XL–4XL. Perfect for layering over dresses or with jeans.
+  Updated: 2026-02-17T12:30:43Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7348,8 +7340,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e1a27bfa-55b9-4b9e-8bf1-37ca83e33b88-Max.webp?v=1768153104
     Price: $32.89 USD
-- [Button Up Long Sleeve Cardigan](https://fitggins.com/products/button-up-long-sleeve-cardigan): Discover the Button Up Long Sleeve Cardigan, designed for warmth and style. Perfect for any occasion!
-  Updated: 2026-01-22T13:23:47Z
+- [Button Up Long Sleeve Cardigan - 100% Acrylic](https://fitggins.com/products/button-up-long-sleeve-cardigan): Cozy button-up long sleeve cardigan made from 100% acrylic with pockets, moderate stretch, and easy machine wash care. Available in sizes S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7450,8 +7442,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9558c63e-bcc7-46e5-a507-5f08094b365c-Max.webp?v=1768153113
     Price: $43.94 USD
-- [Button Up Collared Neck Cardigan - Stylish Comfort](https://fitggins.com/products/button-up-collared-neck-cardigan): Discover the Button Up Collared Neck Cardigan, designed for style and comfort. Perfect for any occasion with easy care and a soft, durable fabric.
-  Updated: 2026-02-08T00:10:36Z
+- [Button Up Collared Neck Cardigan - Versatile Women's Cardigan](https://fitggins.com/products/button-up-collared-neck-cardigan): A classic button-up collared cardigan in a soft viscose/polyester/polyamide blend. Slight stretch, easy care (machine wash cold, tumble dry low), imported. Available S, M, L, XL with full measurements in inches.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7472,74 +7464,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e40b1e4c-93a6-47d3-a135-59f75f66eb47-Max.webp?v=1768153123
     Price: $36.53 USD
-- [Button Down Long Sleeve Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994): Discover the Button Down Long Sleeve Cardigan, a timeless layering piece crafted from warm acrylic, designed for effortless style and comfort.
-  Updated: 2026-02-05T08:00:46Z
+- [Button Down Long Sleeve Cardigan — Cozy Acrylic Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334): A classic Button Down Long Sleeve Cardigan in 100% acrylic. Slight stretch, easy care, and imported quality. See size chart for measurements in inches: S–2/4 to 2XL–14.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ef24de2e-3a6e-41e2-9dc6-17f706f3c6f7-Max.webp?v=1768153134
-  - [Dust Storm / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729730376)
+  - [Dust Storm / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729730376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ef24de2e-3a6e-41e2-9dc6-17f706f3c6f7-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Dust Storm / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729763144)
+  - [Dust Storm / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729763144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ef24de2e-3a6e-41e2-9dc6-17f706f3c6f7-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Dust Storm / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729795912)
+  - [Dust Storm / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729795912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ef24de2e-3a6e-41e2-9dc6-17f706f3c6f7-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Dust Storm / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729828680)
+  - [Dust Storm / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729828680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ef24de2e-3a6e-41e2-9dc6-17f706f3c6f7-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Dust Storm / 2XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729861448)
+  - [Dust Storm / 2XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729861448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ef24de2e-3a6e-41e2-9dc6-17f706f3c6f7-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Coffee Brown / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729894216)
+  - [Coffee Brown / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729894216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/270937f0-2ee5-432e-ad21-c2923dca05d2-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Coffee Brown / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729926984)
+  - [Coffee Brown / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729926984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/270937f0-2ee5-432e-ad21-c2923dca05d2-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Coffee Brown / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729959752)
+  - [Coffee Brown / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729959752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/270937f0-2ee5-432e-ad21-c2923dca05d2-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Coffee Brown / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306729992520)
+  - [Coffee Brown / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306729992520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/270937f0-2ee5-432e-ad21-c2923dca05d2-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Coffee Brown / 2XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306730025288)
+  - [Coffee Brown / 2XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306730025288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/270937f0-2ee5-432e-ad21-c2923dca05d2-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Caramel / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306730058056)
+  - [Caramel / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306730058056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1295e1a-1708-49f9-9858-d41c70e4545c-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Caramel / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306730090824)
+  - [Caramel / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306730090824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1295e1a-1708-49f9-9858-d41c70e4545c-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Caramel / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306730123592)
+  - [Caramel / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306730123592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1295e1a-1708-49f9-9858-d41c70e4545c-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Caramel / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306730156360)
+  - [Caramel / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306730156360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1295e1a-1708-49f9-9858-d41c70e4545c-Max.webp?v=1768153134
     Price: $44.82 USD
-  - [Caramel / 2XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-95994?variant=52306730189128)
+  - [Caramel / 2XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-40334?variant=52306730189128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1295e1a-1708-49f9-9858-d41c70e4545c-Max.webp?v=1768153134
     Price: $44.82 USD
-- [Striped Button Up Long Sleeve Sweater](https://fitggins.com/products/striped-button-up-long-sleeve-sweater): Discover comfort and style with our Striped Button Up Long Sleeve Sweater, crafted for warmth and elegance. Perfect for autumn outings.
-  Updated: 2026-01-22T14:06:51Z
+- [Striped Button Up Long Sleeve Sweater — Comfortable Acrylic Knit](https://fitggins.com/products/striped-button-up-long-sleeve-sweater): Versatile Striped Button Up Long Sleeve Sweater in 100% acrylic. Classic button-front design, moderate stretch for comfort, easy machine care. Available sizes S–XL with detailed measurements for fit.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7608,62 +7600,62 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3a1b9d0b-fae8-4b4c-ae8c-0c759646457c-Max.webp?v=1768153145
     Price: $34.54 USD
-- [Stylish Button Up Long Sleeve Cardigan](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606): Discover the versatility of the Button Up Long Sleeve Cardigan, perfect for layering and enhancing your style.
-  Updated: 2026-01-27T21:43:11Z
+- [Button Up Long Sleeve Cardigan – Stylish Everyday Layer](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705): Versatile Button Up Long Sleeve Cardigan in 100% polyester with slight stretch. Classic buttoned front, easy care (machine wash cold; tumble dry low). Size chart included. Perfect for casual, office, and travel.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71da14db-96c6-4e70-85b2-0852d79d6fb8-Max.webp?v=1768153154
-  - [Camel / S](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731336008)
+  - [Camel / S](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731336008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71da14db-96c6-4e70-85b2-0852d79d6fb8-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Camel / M](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731368776)
+  - [Camel / M](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731368776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71da14db-96c6-4e70-85b2-0852d79d6fb8-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Camel / L](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731401544)
+  - [Camel / L](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731401544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71da14db-96c6-4e70-85b2-0852d79d6fb8-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Camel / XL](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731434312)
+  - [Camel / XL](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731434312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71da14db-96c6-4e70-85b2-0852d79d6fb8-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Dust Storm / S](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731467080)
+  - [Dust Storm / S](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731467080)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01cc08ea-58aa-4ea3-86bf-a85a6a8fccb3-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Dust Storm / M](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731499848)
+  - [Dust Storm / M](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731499848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01cc08ea-58aa-4ea3-86bf-a85a6a8fccb3-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Dust Storm / L](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731532616)
+  - [Dust Storm / L](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731532616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01cc08ea-58aa-4ea3-86bf-a85a6a8fccb3-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Dust Storm / XL](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731565384)
+  - [Dust Storm / XL](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731565384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/01cc08ea-58aa-4ea3-86bf-a85a6a8fccb3-Max.webp?v=1768153154
     Price: $35.08 USD
-  - [Dark Gray / S](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731598152)
+  - [Dark Gray / S](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731598152)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8fbd1cb-9c0a-49c2-8c0c-fcfe8099de93-Max.webp?v=1768153155
     Price: $35.08 USD
-  - [Dark Gray / M](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731630920)
+  - [Dark Gray / M](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731630920)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8fbd1cb-9c0a-49c2-8c0c-fcfe8099de93-Max.webp?v=1768153155
     Price: $35.08 USD
-  - [Dark Gray / L](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731663688)
+  - [Dark Gray / L](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731663688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8fbd1cb-9c0a-49c2-8c0c-fcfe8099de93-Max.webp?v=1768153155
     Price: $35.08 USD
-  - [Dark Gray / XL](https://fitggins.com/products/button-up-long-sleeve-cardigan-58606?variant=52306731696456)
+  - [Dark Gray / XL](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705?variant=52306731696456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8fbd1cb-9c0a-49c2-8c0c-fcfe8099de93-Max.webp?v=1768153155
     Price: $35.08 USD
-- [Bowknot Front V Neck Long Sleeve Sweater](https://fitggins.com/products/bowknot-front-v-neck-long-sleeve-sweater): Discover elegance and comfort with our Bowknot Front V Neck Long Sleeve Sweater. Soft, stylish, and perfect for any occasion.
-  Updated: 2026-01-24T03:21:16Z
+- [Bowknot Front V-Neck Long Sleeve Sweater – Elegant Cozy Knit](https://fitggins.com/products/bowknot-front-v-neck-long-sleeve-sweater): Refined comfort for everyday style: a soft, slightly stretchy V-neck sweater with a feminine bowknot front. Made of 42% acrylic, 30% polyester, 28% polyamide. Machine wash cold; tumble dry low.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7680,8 +7672,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/80dedb06-703b-418b-ae80-613296cd68f0-Max.webp?v=1768153164
     Price: $46.19 USD
-- [Button Down V-Neck Long Sleeve Cardigan](https://fitggins.com/products/button-down-v-neck-long-sleeve-cardigan): Discover the classic charm of our Button Down V-Neck Long Sleeve Cardigan, crafted from soft acrylic for comfort and style.
-  Updated: 2026-01-22T07:20:37Z
+- [Button Down V-Neck Long Sleeve Cardigan - 100% Acrylic](https://fitggins.com/products/button-down-v-neck-long-sleeve-cardigan): Versatile Button Down V-Neck Long Sleeve Cardigan in 100% acrylic. Moderate stretch, machine wash cold, tumble dry low. Measurements in inches for S–2XL. A classic layering piece for everyday comfort and style.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7806,8 +7798,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5b0427d5-afae-498a-aa13-6818d7ba19ed-Max.webp?v=1768153174
     Price: $38.44 USD
-- [Raglan Sleeve Button Front Cardigan](https://fitggins.com/products/raglan-sleeve-button-front-cardigan): Discover the Raglan Sleeve Button Front Cardigan, designed for comfort and style. Perfect for casual outings or cozy nights in.
-  Updated: 2026-01-22T18:20:00Z
+- [Raglan Sleeve Button Front Cardigan — Cropped V-Neck](https://fitggins.com/products/raglan-sleeve-button-front-cardigan): Versatile cropped V-neck cardigan with raglan sleeves, button front, and extra-long sleeves. Made of 60% acrylic/40% nylon. Machine wash cold, tumble dry low. Regular sizing; S–XL measurements provided.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7844,8 +7836,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ea91d073f95b424aad25a8d2377ce015-Max.jpg?v=1768153184
     Price: $34.10 USD
-- [Slit Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/slit-open-front-dropped-shoulder-cardigan): Discover the Slit Open Front Dropped Shoulder Cardigan, perfect for layering and enhancing your style. Made with soft, breathable materials for ultimate comfort.
-  Updated: 2026-02-11T05:10:42Z
+- [Slit Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/slit-open-front-dropped-shoulder-cardigan): A relaxed, open-front cardigan with side slits and dropped shoulders. Soft blend (33% acrylic, 27% polyester, 25% cotton, 15% polyamide), slight stretch, machine wash cold. Sizes S–XL.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7866,8 +7858,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bd196c92-33ea-4e32-9acb-e04048ed7692-Max.webp?v=1768153194
     Price: $46.91 USD
-- [Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/open-front-dropped-shoulder-cardigan): Discover the Open Front Dropped Shoulder Cardigan, perfect for layering and crafted from 100% acrylic for warmth and comfort.
-  Updated: 2026-01-22T07:21:27Z
+- [Open Front Dropped Shoulder Cardigan](https://fitggins.com/products/open-front-dropped-shoulder-cardigan): A cozy open-front dropped shoulder cardigan made from 100% acrylic. Slightly stretchy for comfortable movement, ideal for layering. Machine wash cold; tumble dry low. Sizes S–XL with detailed measurements in inches.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7920,46 +7912,46 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b1688679-0597-4be6-bf33-ea2848e4295f-Max.webp?v=1768153204
     Price: $33.56 USD
-- [Striped Button Up Long Sleeve Hooded Cardigan](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan): Discover the Striped Button Up Long Sleeve Hooded Cardigan, a perfect blend of style and comfort. Ideal for any occasion, it features pockets, a slight stretch, and is easy to care for.
-  Updated: 2026-01-22T09:37:32Z
+- [Striped Button-Up Hooded Cardigan - Lightweight Casual Layer](https://fitggins.com/products/striped-button-up-hooded-cardigan): Cozy striped hooded cardigan with button-up front, pockets, slight stretch, and 100% polyester for easy care. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1768153224
-  - [White / S](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735399240)
+  - [White / S](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735399240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1768153224
     Price: $40.58 USD
-  - [White / M](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735432008)
+  - [White / M](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735432008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1768153224
     Price: $40.58 USD
-  - [White / L](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735464776)
+  - [White / L](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735464776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1768153224
     Price: $40.58 USD
-  - [White / XL](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735497544)
+  - [White / XL](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735497544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9aef30ca-b71a-4625-8e06-d79605a17195-Max.webp?v=1768153224
     Price: $40.58 USD
-  - [Chocolate / S](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735530312)
+  - [Chocolate / S](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735530312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1768153225
     Price: $40.58 USD
-  - [Chocolate / M](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735563080)
+  - [Chocolate / M](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735563080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1768153225
     Price: $40.58 USD
-  - [Chocolate / L](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735595848)
+  - [Chocolate / L](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735595848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1768153225
     Price: $40.58 USD
-  - [Chocolate / XL](https://fitggins.com/products/striped-button-up-long-sleeve-hooded-cardigan?variant=52306735628616)
+  - [Chocolate / XL](https://fitggins.com/products/striped-button-up-hooded-cardigan?variant=52306735628616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/852731f9-ce15-402e-9a3f-53b60e5bbdd5-Max.webp?v=1768153225
     Price: $40.58 USD
-- [Contrast Button Up Long Sleeve Cardigan - Stylish & Comfortable](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan): Discover the perfect blend of style and comfort with our Contrast Button Up Long Sleeve Cardigan. Ideal for any occasion.
-  Updated: 2026-01-22T09:24:44Z
+- [Contrast Button Up Long Sleeve Cardigan](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan): A versatile, button-up long sleeve cardigan crafted from 50% viscose, 28% polyester, 22% nylon. Moderate stretch, easy care (machine wash cold, tumble dry low). Size chart included.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8028,8 +8020,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4eb9a402-e07d-4a36-8faa-aa821affd59a-Max.webp?v=1768153234
     Price: $46.02 USD
-- [Color Block Open Front Long Sleeve Cardigan](https://fitggins.com/products/color-block-open-front-long-sleeve-cardigan): Discover the Color Block Open Front Long Sleeve Cardigan. This stylish piece features a trendy design, soft materials, and comfort for your everyday adventures.
-  Updated: 2026-02-14T01:16:01Z
+- [Color Block Open Front Long Sleeve Cardigan](https://fitggins.com/products/color-block-open-front-long-sleeve-cardigan): Chic color block open-front cardigan with slight stretch. Soft 50% viscose, 28% polyester, 22% polyamide blend. Machine wash cold, tumble dry low. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8050,298 +8042,298 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/77c29a2a-2ca6-451e-83e0-4c1eb5c18b72-Max.webp?v=1768153244
     Price: $52.47 USD
-- [Open Front Long Sleeve Cardigan - Comfortable & Stylish](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951): Discover the Open Front Long Sleeve Cardigan, made from 100% polyester for comfort and durability. Perfect for any occasion, easy care instructions included.
-  Updated: 2026-01-22T14:10:29Z
+- [Open Front Long Sleeve Cardigan — 100% Polyester, Versatile Layer](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966): A versatile open-front long sleeve cardigan made from 100% polyester. Moderate stretch for comfort, machine wash cold and tumble dry low. Available in S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a622974e-165f-4abe-80d7-4ffb6f47f593-Max.webp?v=1768153256
-  - [Dusty Pink / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737070408)
+  - [Dusty Pink / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737070408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/16614d0c-d9de-4cb3-82fb-09589a38385b-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Dusty Pink / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737103176)
+  - [Dusty Pink / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737103176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/16614d0c-d9de-4cb3-82fb-09589a38385b-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Dusty Pink / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737135944)
+  - [Dusty Pink / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737135944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/16614d0c-d9de-4cb3-82fb-09589a38385b-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Dusty Pink / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737168712)
+  - [Dusty Pink / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737168712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/16614d0c-d9de-4cb3-82fb-09589a38385b-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Black / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737201480)
+  - [Black / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737201480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d4bc8d1-0456-418d-9e90-79014b9095ca-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Black / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737234248)
+  - [Black / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737234248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d4bc8d1-0456-418d-9e90-79014b9095ca-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Black / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737267016)
+  - [Black / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737267016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d4bc8d1-0456-418d-9e90-79014b9095ca-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Black / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737299784)
+  - [Black / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737299784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d4bc8d1-0456-418d-9e90-79014b9095ca-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Strawberry / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737332552)
+  - [Strawberry / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737332552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5c9b059c-cb35-400a-8420-4c1fe10c048c-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Strawberry / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737365320)
+  - [Strawberry / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737365320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5c9b059c-cb35-400a-8420-4c1fe10c048c-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Strawberry / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737398088)
+  - [Strawberry / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737398088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5c9b059c-cb35-400a-8420-4c1fe10c048c-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Strawberry / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737430856)
+  - [Strawberry / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737430856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5c9b059c-cb35-400a-8420-4c1fe10c048c-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Tan / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737463624)
+  - [Tan / S](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737463624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712e614b-87bb-4592-8688-2a301691df71-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Tan / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737496392)
+  - [Tan / M](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737496392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712e614b-87bb-4592-8688-2a301691df71-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Tan / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737529160)
+  - [Tan / L](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737529160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712e614b-87bb-4592-8688-2a301691df71-Max.webp?v=1768153256
     Price: $33.02 USD
-  - [Tan / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-17951?variant=52306737561928)
+  - [Tan / XL](https://fitggins.com/products/open-front-long-sleeve-cardigan-82966?variant=52306737561928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712e614b-87bb-4592-8688-2a301691df71-Max.webp?v=1768153256
     Price: $33.02 USD
-- [Stylish Contrast Button Up Long Sleeve Cardigan for All Occasions](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577): Discover the Contrast Button Up Long Sleeve Cardigan, designed for comfort and style. Perfect for layering, featuring pockets and cozy acrylic material.
-  Updated: 2026-01-22T09:24:55Z
+- [Contrast Button-Up Long Sleeve Cardigan - 100% Acrylic, Cozy Layering](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256): Soft 100% acrylic contrast cardigan with button-up front and pockets. Moderate stretch for everyday comfort. Machine wash cold, tumble dry low. Imported. Available in S, M, L, XL.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c7131ad-068a-457f-8674-98fd6f1f3389-Max.webp?v=1768153265
-  - [Burgundy / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737627464)
+  - [Burgundy / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737627464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c7131ad-068a-457f-8674-98fd6f1f3389-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Burgundy / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737660232)
+  - [Burgundy / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737660232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c7131ad-068a-457f-8674-98fd6f1f3389-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Burgundy / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737693000)
+  - [Burgundy / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737693000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c7131ad-068a-457f-8674-98fd6f1f3389-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Burgundy / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737725768)
+  - [Burgundy / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737725768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c7131ad-068a-457f-8674-98fd6f1f3389-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Black / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737758536)
+  - [Black / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737758536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/755f6881-0a71-4227-bb83-e817437aedc9-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Black / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737791304)
+  - [Black / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737791304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/755f6881-0a71-4227-bb83-e817437aedc9-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Black / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737824072)
+  - [Black / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737824072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/755f6881-0a71-4227-bb83-e817437aedc9-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Black / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737856840)
+  - [Black / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737856840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/755f6881-0a71-4227-bb83-e817437aedc9-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Dark Gray / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737889608)
+  - [Dark Gray / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737889608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3aece723-6611-4d6a-8f02-864443cd8d31-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Dark Gray / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737922376)
+  - [Dark Gray / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737922376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3aece723-6611-4d6a-8f02-864443cd8d31-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Dark Gray / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737955144)
+  - [Dark Gray / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737955144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3aece723-6611-4d6a-8f02-864443cd8d31-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Dark Gray / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306737987912)
+  - [Dark Gray / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306737987912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3aece723-6611-4d6a-8f02-864443cd8d31-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Khaki / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306738020680)
+  - [Khaki / S](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306738020680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e433b2ea-f043-4a6d-931c-dbd4f1d3fcee-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Khaki / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306738053448)
+  - [Khaki / M](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306738053448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e433b2ea-f043-4a6d-931c-dbd4f1d3fcee-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Khaki / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306738086216)
+  - [Khaki / L](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306738086216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e433b2ea-f043-4a6d-931c-dbd4f1d3fcee-Max.webp?v=1768153265
     Price: $45.17 USD
-  - [Khaki / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-52577?variant=52306738118984)
+  - [Khaki / XL](https://fitggins.com/products/contrast-button-up-long-sleeve-cardigan-91256?variant=52306738118984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e433b2ea-f043-4a6d-931c-dbd4f1d3fcee-Max.webp?v=1768153265
     Price: $45.17 USD
-- [Round Neck Button Up Cardigan with Pockets](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102): Discover the Round Neck Button Up Cardigan with Pockets. Cozy, stylish, and perfect for casual wear!
-  Updated: 2026-02-09T08:02:28Z
+- [Round Neck Button Up Cardigan with Pockets](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002): Soft 100% acrylic button-up cardigan with pockets. Slight stretch, machine wash cold, tumble dry low. Versatile layering piece for casual everyday wear.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/03087072-ac8d-49eb-86fb-b8b4f6baba33-Max.webp?v=1768153277
-  - [Sky Blue / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738217288)
+  - [Sky Blue / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738217288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/03087072-ac8d-49eb-86fb-b8b4f6baba33-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Sky Blue / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738250056)
+  - [Sky Blue / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738250056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/03087072-ac8d-49eb-86fb-b8b4f6baba33-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Sky Blue / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738282824)
+  - [Sky Blue / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738282824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/03087072-ac8d-49eb-86fb-b8b4f6baba33-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Sky Blue / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738315592)
+  - [Sky Blue / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738315592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/03087072-ac8d-49eb-86fb-b8b4f6baba33-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Burgundy / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738348360)
+  - [Burgundy / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738348360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53dd4be7-2903-40b5-a378-fb2324e37d78-Max.webp?v=1768153276
     Price: $42.38 USD
-  - [Burgundy / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738381128)
+  - [Burgundy / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738381128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53dd4be7-2903-40b5-a378-fb2324e37d78-Max.webp?v=1768153276
     Price: $42.38 USD
-  - [Burgundy / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738413896)
+  - [Burgundy / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738413896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53dd4be7-2903-40b5-a378-fb2324e37d78-Max.webp?v=1768153276
     Price: $42.38 USD
-  - [Burgundy / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738446664)
+  - [Burgundy / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738446664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/53dd4be7-2903-40b5-a378-fb2324e37d78-Max.webp?v=1768153276
     Price: $42.38 USD
-  - [White / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738479432)
+  - [White / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738479432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/96d7c964-3d13-4bc6-adb3-5e7860fa3f8d-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [White / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738512200)
+  - [White / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738512200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/96d7c964-3d13-4bc6-adb3-5e7860fa3f8d-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [White / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738544968)
+  - [White / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738544968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/96d7c964-3d13-4bc6-adb3-5e7860fa3f8d-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [White / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738577736)
+  - [White / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738577736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/96d7c964-3d13-4bc6-adb3-5e7860fa3f8d-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Black / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738610504)
+  - [Black / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738610504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c4e67736-40cd-4283-8881-72a04e27c84a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Black / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738643272)
+  - [Black / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738643272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c4e67736-40cd-4283-8881-72a04e27c84a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Black / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738676040)
+  - [Black / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738676040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c4e67736-40cd-4283-8881-72a04e27c84a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Black / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738708808)
+  - [Black / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738708808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c4e67736-40cd-4283-8881-72a04e27c84a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange-Red / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738741576)
+  - [Orange-Red / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738741576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54291527-01f0-4bf9-afca-9dabdb28ca47-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange-Red / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738774344)
+  - [Orange-Red / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738774344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54291527-01f0-4bf9-afca-9dabdb28ca47-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange-Red / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738807112)
+  - [Orange-Red / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738807112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54291527-01f0-4bf9-afca-9dabdb28ca47-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange-Red / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738839880)
+  - [Orange-Red / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738839880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54291527-01f0-4bf9-afca-9dabdb28ca47-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Gray / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738872648)
+  - [Gray / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738872648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e775698a-1f40-48f4-9eb0-9a8666d7566a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Gray / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738905416)
+  - [Gray / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738905416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e775698a-1f40-48f4-9eb0-9a8666d7566a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Gray / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738938184)
+  - [Gray / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738938184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e775698a-1f40-48f4-9eb0-9a8666d7566a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Gray / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306738970952)
+  - [Gray / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306738970952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e775698a-1f40-48f4-9eb0-9a8666d7566a-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Beige / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739003720)
+  - [Beige / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739003720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8b2e9c1-e893-43d7-96a8-1ae4992c92ab-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Beige / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739036488)
+  - [Beige / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739036488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8b2e9c1-e893-43d7-96a8-1ae4992c92ab-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Beige / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739069256)
+  - [Beige / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739069256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8b2e9c1-e893-43d7-96a8-1ae4992c92ab-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Beige / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739102024)
+  - [Beige / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739102024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8b2e9c1-e893-43d7-96a8-1ae4992c92ab-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Dark Blue / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739134792)
+  - [Dark Blue / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739134792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f3b6eed-7a5c-4e31-9cd9-45eb46c8ae4c-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Dark Blue / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739167560)
+  - [Dark Blue / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739167560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f3b6eed-7a5c-4e31-9cd9-45eb46c8ae4c-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Dark Blue / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739200328)
+  - [Dark Blue / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739200328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f3b6eed-7a5c-4e31-9cd9-45eb46c8ae4c-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Dark Blue / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739233096)
+  - [Dark Blue / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739233096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f3b6eed-7a5c-4e31-9cd9-45eb46c8ae4c-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739265864)
+  - [Orange / S](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739265864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739298632)
+  - [Orange / M](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739298632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739331400)
+  - [Orange / L](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739331400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1768153277
     Price: $42.38 USD
-  - [Orange / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-52102?variant=52306739364168)
+  - [Orange / XL](https://fitggins.com/products/round-neck-button-up-cardigan-with-pockets-70002?variant=52306739364168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1768153277
     Price: $42.38 USD
-- [Stylish Cable-Knit Button Up Long Sleeve Cardigan](https://fitggins.com/products/cable-knit-button-up-long-sleeve-cardigan): Discover the perfect combination of comfort and style with our Cable-Knit Button Up Long Sleeve Cardigan. Ideal for layering during the cooler months.
-  Updated: 2026-02-12T22:10:47Z
+- [Cable-Knit Button Up Long Sleeve Cardigan](https://fitggins.com/products/cable-knit-button-up-long-sleeve-cardigan): Classic cable-knit cardigan with button-up front, pockets, and slight stretch. Made of 65% Acrylic, 35% Polyamide. Machine wash cold, tumble dry low. Imported.
+  Updated: 2026-02-19T13:30:47Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8362,110 +8354,110 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cc4dd898-c901-4beb-b941-434b6be7f9d5-Max.webp?v=1768153286
     Price: $54.30 USD
-- [Button Down Long Sleeve Cardigan](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285): Discover the perfect blend of style and comfort with our Button Down Long Sleeve Cardigan, designed for modern women.
-  Updated: 2026-01-22T10:05:00Z
+- [Button Down Long Sleeve Cardigan - 100% Acrylic](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156): Classic button-down long sleeve cardigan in 100% acrylic. Moderate stretch for comfort, machine wash cold and tumble dry low. Imported. Available in sizes S, M, L, XL.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98ad9f6e-1bba-4bc3-adbd-0e795325c818-Max.webp?v=1768153296
-  - [Watermelon pink / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739626312)
+  - [Watermelon pink / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739626312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98ad9f6e-1bba-4bc3-adbd-0e795325c818-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Watermelon pink / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739659080)
+  - [Watermelon pink / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739659080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98ad9f6e-1bba-4bc3-adbd-0e795325c818-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Watermelon pink / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739691848)
+  - [Watermelon pink / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739691848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98ad9f6e-1bba-4bc3-adbd-0e795325c818-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Watermelon pink / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739724616)
+  - [Watermelon pink / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739724616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98ad9f6e-1bba-4bc3-adbd-0e795325c818-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Deep Red / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739757384)
+  - [Deep Red / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739757384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd0005cd-de69-4a99-9966-3517ddd03f61-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Deep Red / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739790152)
+  - [Deep Red / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739790152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd0005cd-de69-4a99-9966-3517ddd03f61-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Deep Red / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739822920)
+  - [Deep Red / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739822920)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd0005cd-de69-4a99-9966-3517ddd03f61-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Deep Red / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739855688)
+  - [Deep Red / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739855688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cd0005cd-de69-4a99-9966-3517ddd03f61-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Pastel Yellow / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739888456)
+  - [Pastel Yellow / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739888456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da84845a-c947-48c4-bc4c-05da33b71c72-Max.webp?v=1768153295
     Price: $38.44 USD
-  - [Pastel Yellow / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739921224)
+  - [Pastel Yellow / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739921224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da84845a-c947-48c4-bc4c-05da33b71c72-Max.webp?v=1768153295
     Price: $38.44 USD
-  - [Pastel Yellow / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739953992)
+  - [Pastel Yellow / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739953992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da84845a-c947-48c4-bc4c-05da33b71c72-Max.webp?v=1768153295
     Price: $38.44 USD
-  - [Pastel Yellow / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306739986760)
+  - [Pastel Yellow / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306739986760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da84845a-c947-48c4-bc4c-05da33b71c72-Max.webp?v=1768153295
     Price: $38.44 USD
-  - [Light Green / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740019528)
+  - [Light Green / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740019528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Light Green / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740052296)
+  - [Light Green / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740052296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Light Green / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740085064)
+  - [Light Green / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740085064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Light Green / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740117832)
+  - [Light Green / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740117832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6cc822f6-5063-42f4-9661-2db446a31365-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Dark Gray / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740150600)
+  - [Dark Gray / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740150600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/470deb2b-f9b1-4546-aa0d-ef3ac049a9b1-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Dark Gray / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740183368)
+  - [Dark Gray / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740183368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/470deb2b-f9b1-4546-aa0d-ef3ac049a9b1-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Dark Gray / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740216136)
+  - [Dark Gray / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740216136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/470deb2b-f9b1-4546-aa0d-ef3ac049a9b1-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Dark Gray / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740248904)
+  - [Dark Gray / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740248904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/470deb2b-f9b1-4546-aa0d-ef3ac049a9b1-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Gray / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740281672)
+  - [Gray / S](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740281672)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9988356b-73b8-4596-a984-6a25471ac244-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Gray / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740314440)
+  - [Gray / M](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740314440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9988356b-73b8-4596-a984-6a25471ac244-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Gray / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740347208)
+  - [Gray / L](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740347208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9988356b-73b8-4596-a984-6a25471ac244-Max.webp?v=1768153296
     Price: $38.44 USD
-  - [Gray / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-35285?variant=52306740379976)
+  - [Gray / XL](https://fitggins.com/products/button-down-long-sleeve-cardigan-85156?variant=52306740379976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9988356b-73b8-4596-a984-6a25471ac244-Max.webp?v=1768153296
     Price: $38.44 USD
-- [Scoop Neck Wide Strap Active Tank - Stylish & Comfortable](https://fitggins.com/products/scoop-neck-wide-strap-active-tank): Elevate your workout with our Scoop Neck Wide Strap Active Tank. Designed for comfort and flexibility, it's perfect for any active lifestyle.
-  Updated: 2026-02-08T22:33:36Z
+- [Scoop Neck Wide Strap Active Tank — Comfortable Stretch Activewear](https://fitggins.com/products/scoop-neck-wide-strap-active-tank): Versatile Scoop Neck Wide Strap Active Tank with opaque, highly stretchy 80% nylon / 20% elastane fabric. Full coverage, wide straps, machine washable. Measurements: S–XL. Ideal for yoga, running, and everyday activewear.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -8716,8 +8708,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9f7166f946314d5589f834e19be7a02b-Max.jpg?v=1768164361
     Price: $34.24 USD
-- [MONO B Venice Cloud Light Crisscross Sports Bra](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra): Discover the MONO B Venice Cloud Light Crisscross Sports Bra, designed for comfort and style during your workouts.
-  Updated: 2026-01-31T20:18:20Z
+- [MONO B Venice Cloud Light Crisscross Sports Bra — Lightweight Support](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra): Experience buttery-soft support with the MONO B Venice Cloud Light Crisscross Sports Bra. Breathable, moisture-wicking, seamless design with removable pads and no underwire. Ideal for low to medium-impact activities. Available S (34–36" bust), M (37–38"), L (39–40").
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -8734,8 +8726,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/59b01921d1a94815a6815dae4caef5ed-Max-Origin.webp?v=1768164369
     Price: $29.52 USD
-- [Scoop Neck Long Sports Bra - Comfort & Style](https://fitggins.com/products/scoop-neck-long-sports-bra): Discover the Scoop Neck Long Sports Bra designed for yoga and fitness, combining comfort and style for your active lifestyle.
-  Updated: 2026-01-22T07:19:12Z
+- [Scoop Neck Long Sports Bra — Supportive Longline Active Bra](https://fitggins.com/products/scoop-neck-long-sports-bra): Comfortable scoop-neck long sports bra with non-removable padding, wire-free design, and 77% nylon/23% spandex. Slim, longline fit ideal for yoga and everyday workouts.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -8800,8 +8792,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/06f0d032e3d7418e85c56faa81d41878-Max.jpg?v=1768164391
     Price: $31.68 USD
-- [Crisscross Spaghetti Strap Active Cami](https://fitggins.com/products/crisscross-spaghetti-strap-active-cami): Discover the Crisscross Spaghetti Strap Active Cami, a versatile staple for your active wardrobe offering comfort, style, and durability.
-  Updated: 2026-02-06T12:02:11Z
+- [Crisscross Spaghetti Strap Active Cami — Versatile Activewear Top](https://fitggins.com/products/crisscross-spaghetti-strap-active-cami): A versatile active cami with crisscross straps, opaque coverage, and moderate stretch. Made from 75% nylon and 25% elastane. Easy care and imported. Available in S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -8886,26 +8878,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aebde257-d672-4ca5-8748-f2219718b4b8-Max.webp?v=1768164401
     Price: $32.01 USD
-- [MONO B Venice Cloud Light Crisscross Sports Bra](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-25206): Discover the MONO B Venice Cloud Light Crisscross Sports Bra, designed for ultimate comfort and style. Perfect for yoga, pilates, and more.
-  Updated: 2026-01-22T07:22:03Z
+- [MONO B Venice Cloud Light Crisscross Sports Bra — Lightweight Support](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-43772): A buttery-soft, breathable sports bra with removable pads and a crisscross back for enhanced ventilation. 76% polyester, 24% spandex; no underwire. Ideal for low- to medium-impact activities. Machine wash cold; tumble dry low.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8138f44f3cb4a50932dba95f53926c7-Max-Origin.webp?v=1768164411
-  - [NEW PEWTER / S](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-25206?variant=52307674988872)
+  - [NEW PEWTER / S](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-43772?variant=52307674988872)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8138f44f3cb4a50932dba95f53926c7-Max-Origin.webp?v=1768164411
     Price: $29.52 USD
-  - [NEW PEWTER / M](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-25206?variant=52307675021640)
+  - [NEW PEWTER / M](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-43772?variant=52307675021640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8138f44f3cb4a50932dba95f53926c7-Max-Origin.webp?v=1768164411
     Price: $29.52 USD
-  - [NEW PEWTER / L](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-25206?variant=52307675054408)
+  - [NEW PEWTER / L](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-43772?variant=52307675054408)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d8138f44f3cb4a50932dba95f53926c7-Max-Origin.webp?v=1768164411
     Price: $29.52 USD
-- [Millennia Breathable Halter Neck Sports Bra](https://fitggins.com/products/millennia-breathable-halter-neck-sports-bra): Discover the Millennia Breathable Halter Neck Sports Bra, designed for ultimate comfort and style in yoga and low-impact activities.
-  Updated: 2026-01-22T18:40:52Z
+- [Millennia Breathable Halter Neck Sports Bra](https://fitggins.com/products/millennia-breathable-halter-neck-sports-bra): Move confidently in the Millennia Breathable Halter Neck Sports Bra. No underwire, 80% nylon/20% spandex, unlined and non-sheer—ideal for yoga and low-impact workouts. Hand wash cold; do not tumble dry.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -8990,8 +8982,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2da85cb605b84788a5824811d262fd64-Max.jpg?v=1768164421
     Price: $34.40 USD
-- [Round Neck Wide Strap Active Bra](https://fitggins.com/products/round-neck-wide-strap-active-bra): Discover the Round Neck Wide Strap Active Bra, combining style and functionality for an active lifestyle. Perfect support, comfort, and flexibility.
-  Updated: 2026-01-22T07:20:42Z
+- [Round Neck Wide Strap Active Bra - Supportive Activewear](https://fitggins.com/products/round-neck-wide-strap-active-bra): Supportive, wire-free active bra with non-removable padding, high-stretch fabric (78% nylon, 22% elastane), machine wash cold. Available XS–XL with precise measurements for a confident fit.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -9056,94 +9048,94 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c848371c-ee0b-4c7d-b34f-18aa4d5e80db-Max.webp?v=1768164431
     Price: $34.15 USD
-- [Scoop Neck Long Sports Bra - Comfortable and Stylish](https://fitggins.com/products/scoop-neck-long-sports-bra-51317): Discover the Scoop Neck Long Sports Bra, perfect for yoga and active wear. With no underwire and a stylish scoop neckline, enjoy comfort and support.
-  Updated: 2026-01-22T09:56:03Z
+- [Scoop Neck Long Sports Bra — Comfortable Support for Yoga](https://fitggins.com/products/scoop-neck-long-sports-bra-66484): Scoop Neck Long Sports Bra with non-removable padding, no underwire, and a scoop neckline. Made of 75% nylon and 25% spandex for high stretch. Ideal for yoga and low-impact workouts. Hand wash cold; do not tumble dry.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/691797aca65146ccadd1b9842033e2a7-Max.jpg?v=1768164441
-  - [Black / S](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676430664)
+  - [Black / S](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676430664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bb5cdbe19d6f460b8f4c1bc816eaa990-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Black / M](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676463432)
+  - [Black / M](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676463432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bb5cdbe19d6f460b8f4c1bc816eaa990-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Black / L](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676496200)
+  - [Black / L](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676496200)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bb5cdbe19d6f460b8f4c1bc816eaa990-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Black / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676528968)
+  - [Black / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676528968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bb5cdbe19d6f460b8f4c1bc816eaa990-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Black / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676561736)
+  - [Black / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676561736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bb5cdbe19d6f460b8f4c1bc816eaa990-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Deep Teal / S](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676594504)
+  - [Deep Teal / S](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676594504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bc2c1cd3ce9f455292d94b42f3ce82cc-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Deep Teal / M](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676627272)
+  - [Deep Teal / M](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676627272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bc2c1cd3ce9f455292d94b42f3ce82cc-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Deep Teal / L](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676660040)
+  - [Deep Teal / L](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676660040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bc2c1cd3ce9f455292d94b42f3ce82cc-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Deep Teal / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676692808)
+  - [Deep Teal / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676692808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bc2c1cd3ce9f455292d94b42f3ce82cc-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Deep Teal / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676725576)
+  - [Deep Teal / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676725576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bc2c1cd3ce9f455292d94b42f3ce82cc-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Light Gray / S](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676758344)
+  - [Light Gray / S](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676758344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/691797aca65146ccadd1b9842033e2a7-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Light Gray / M](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676791112)
+  - [Light Gray / M](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676791112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/691797aca65146ccadd1b9842033e2a7-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Light Gray / L](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676823880)
+  - [Light Gray / L](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676823880)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/691797aca65146ccadd1b9842033e2a7-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Light Gray / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676856648)
+  - [Light Gray / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676856648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/691797aca65146ccadd1b9842033e2a7-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Light Gray / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676889416)
+  - [Light Gray / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676889416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/691797aca65146ccadd1b9842033e2a7-Max.jpg?v=1768164441
     Price: $35.60 USD
-  - [Mauve / S](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676922184)
+  - [Mauve / S](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676922184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca5db114b10c4c4aaad9998ea7513dd3-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Mauve / M](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676954952)
+  - [Mauve / M](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676954952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca5db114b10c4c4aaad9998ea7513dd3-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Mauve / L](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307676987720)
+  - [Mauve / L](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307676987720)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca5db114b10c4c4aaad9998ea7513dd3-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Mauve / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307677020488)
+  - [Mauve / XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307677020488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca5db114b10c4c4aaad9998ea7513dd3-Max.jpg?v=1768164442
     Price: $35.60 USD
-  - [Mauve / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-51317?variant=52307677053256)
+  - [Mauve / 2XL](https://fitggins.com/products/scoop-neck-long-sports-bra-66484?variant=52307677053256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca5db114b10c4c4aaad9998ea7513dd3-Max.jpg?v=1768164442
     Price: $35.60 USD
-- [Spaghetti Strap Active Bra for Comfort and Style](https://fitggins.com/products/spaghetti-strap-active-bra): Discover the Spaghetti Strap Active Bra, designed for ultimate comfort and style. Perfect for workouts or casual wear, it features a natural fit and durable materials.
-  Updated: 2026-01-22T09:23:10Z
+- [Spaghetti Strap Active Bra — Comfortable Wire-Free Sports Bra](https://fitggins.com/products/spaghetti-strap-active-bra): Lightweight, wire-free Spaghetti Strap Active Bra with no padding, made from 75% nylon and 25% elastane. Moderate stretch for a snug, flexible fit. Measurements: S bust 25.20 in, M 26.77 in, L 28.35 in, XL 29.92 in.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -9228,8 +9220,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/274c3984-d830-494c-b997-888969bf57be-Max.webp?v=1768164452
     Price: $32.63 USD
-- [Millennia Scoop Back Sports Bra](https://fitggins.com/products/millennia-scoop-back-sports-bra): Discover the Millennia Scoop Back Sports Bra, designed for comfort and style. Perfect for all body types, it's your go-to for any workout.
-  Updated: 2026-01-22T09:24:44Z
+- [Millennia Scoop Back Sports Bra — Medium Support Activewear](https://fitggins.com/products/millennia-scoop-back-sports-bra): Support your active lifestyle with the Millennia Scoop Back Sports Bra. Medium support, removable padding, scoop neck, 80% nylon/20% spandex. Hand wash cold; do not tumble dry. Available in sizes 4–12.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
@@ -9294,26 +9286,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c83a1570288748e5959b63ac0c3e7429-Max.jpg?v=1768164462
     Price: $31.42 USD
-- [MONO B Venice Cloud Light Crisscross Sports Bra](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-62127): Discover comfort and style with the MONO B Venice Cloud Light Crisscross Sports Bra, perfect for low to medium-impact workouts.
-  Updated: 2026-01-22T07:20:13Z
+- [MONO B Venice Cloud Light Crisscross Sports Bra](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-59209): Experience cloudlike comfort in the MONO B Venice Cloud Light Crisscross Sports Bra. Buttery-soft 76% polyester/24% spandex, moisture-wicking, removable pads, no underwire. Ideal for low–medium impact activities.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Sports Bras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71bd53a824f040f78d635690ccffd05f-Max-Origin.webp?v=1768164471
-  - [MERLOT / S](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-62127?variant=52307690684744)
+  - [MERLOT / S](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-59209?variant=52307690684744)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71bd53a824f040f78d635690ccffd05f-Max-Origin.webp?v=1768164471
     Price: $29.52 USD
-  - [MERLOT / M](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-62127?variant=52307690717512)
+  - [MERLOT / M](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-59209?variant=52307690717512)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71bd53a824f040f78d635690ccffd05f-Max-Origin.webp?v=1768164471
     Price: $29.52 USD
-  - [MERLOT / L](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-62127?variant=52307690750280)
+  - [MERLOT / L](https://fitggins.com/products/mono-b-venice-cloud-light-crisscross-sports-bra-59209?variant=52307690750280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/71bd53a824f040f78d635690ccffd05f-Max-Origin.webp?v=1768164471
     Price: $29.52 USD
-- [Zenana High Waist Active Shorts](https://fitggins.com/products/zenana-high-waist-active-shorts): Elevate your workout with Zenana High Waist Active Shorts. Enjoy comfort, support, and style for all your active routines.
-  Updated: 2026-01-22T07:20:45Z
+- [Zenana High Waist Active Shorts — Supportive, Stretchy Workout Shorts](https://fitggins.com/products/zenana-high-waist-active-shorts): Zenana High Waist Active Shorts: high-rise support, highly stretchy 90% polyester/10% spandex fabric, machine wash cold. Made in Vietnam. Measurements: S 26-28" waist, M 29-31", L 32-33", XL 34-35".
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -9334,8 +9326,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e938785d-9a9f-416b-9f33-9119b2a7302f-Max.webp?v=1768165380
     Price: $26.34 USD
-- [Love Tree High Waist Active Shorts](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts): Discover the Love Tree High Waist Seam Detail Active Shorts for a stylish and comfortable workout. Perfect for any fitness activity, these shorts offer a flattering fit and modern design.
-  Updated: 2026-01-22T13:38:41Z
+- [Love Tree High Waist Seam Detail Active Shorts — Stretchy Workout &Ath](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts): High-rise Love Tree active shorts with seam detailing, 78% polyester/22% spandex for stretch and support. Machine wash cold; tumble dry low. Measurements: S waist 25 in, M waist 27 in, L waist 29 in.
+  Updated: 2026-02-17T21:28:20Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -9345,15 +9337,15 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/df7f756c-fb42-48d9-a141-00dd85673211-Max.webp?v=1768165389
     Price: $28.76 USD
   - [Taupe / M](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts?variant=52307922190664)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/df7f756c-fb42-48d9-a141-00dd85673211-Max.webp?v=1768165389
     Price: $28.76 USD
   - [Taupe / L](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts?variant=52307922223432)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/df7f756c-fb42-48d9-a141-00dd85673211-Max.webp?v=1768165389
     Price: $28.76 USD
-- [Leggings Depot Full Size High Waist Active Shorts - Stylish Comfort](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts): Explore the Leggings Depot Full Size High Waist Active Shorts for ultimate comfort and support. Perfect for workouts or casual wear!
-  Updated: 2026-01-23T15:00:17Z
+- [Leggings Depot Full Size High Waist Active Shorts](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts): High-waist active shorts by Leggings Depot made from 84% polyester/16% spandex. Breathable, moisture-wicking, and highly stretchy. Available in full sizes with measurements from S to 3XL. Machine wash cold; tumble dry low. Made in Vietnam.
+  Updated: 2026-02-18T19:04:51Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -9375,7 +9367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/24f31e8c-d0d4-410c-ba00-a780a1201ba1-Max.webp?v=1768165399
     Price: $28.31 USD
   - [Navy / 1XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts?variant=52307926516040)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/24f31e8c-d0d4-410c-ba00-a780a1201ba1-Max.webp?v=1768165399
     Price: $28.31 USD
   - [Navy / 2XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts?variant=52307926548808)
@@ -9386,8 +9378,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/24f31e8c-d0d4-410c-ba00-a780a1201ba1-Max.webp?v=1768165399
     Price: $28.31 USD
-- [Wide Waistband Sports Shorts - Comfort Meets Style](https://fitggins.com/products/wide-waistband-sports-shorts): Discover the perfect blend of comfort and style with our Wide Waistband Sports Shorts, designed for an active lifestyle.
-  Updated: 2026-01-22T07:20:11Z
+- [Wide Waistband Sports Shorts — Comfortable Athletic Shorts](https://fitggins.com/products/wide-waistband-sports-shorts): Wide Waistband Sports Shorts made of 77% nylon and 23% spandex. Solid, sporty design with a wide supportive waistband. Hand wash cold; do not tumble dry. Available sizes 4/S–12/XXL with precise measurements.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -9432,8 +9424,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ee1a0e1a4c1a406f8ebce220e376b648-Max.jpg?v=1768165410
     Price: $30.77 USD
-- [Slim Fit Wide Waistband Sports Shorts](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts): Experience comfort and style with our Slim Fit Wide Waistband Sports Shorts, designed for maximum breathability and flexibility.
-  Updated: 2026-01-22T07:16:46Z
+- [Slim Fit Wide Waistband Sports Shorts — Breathable, High-Stretch](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts): Slim Fit Wide Waistband Sports Shorts made of 80% nylon, 20% spandex. Breathable, highly stretchy, and supportive wide waistband. Machine wash cold; tumble dry low. Imported. Detailed size measurements included.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -9558,8 +9550,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/07d3b41a4e0a4c959c5cda22ed4a322f-Max.jpg?v=1768165421
     Price: $30.53 USD
-- [High Waist Active Shorts for Ultimate Comfort](https://fitggins.com/products/high-waist-active-shorts): Discover the High Waist Active Shorts, designed for comfort and flexibility. Perfect for workouts and casual wear. Available in various sizes.
-  Updated: 2026-02-13T22:24:33Z
+- [High Waist Active Shorts - Flexible, Supportive Workout Shorts](https://fitggins.com/products/high-waist-active-shorts): High Waist Active Shorts in 54% polyamide, 34% polyester, 12% elastane. Stretchy, durable shorts for yoga, running, and everyday wear. Machine wash cold, tumble dry low.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -9612,334 +9604,334 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9e445cce-f772-47e8-bb98-a87f44495a14-Max.webp?v=1768165431
     Price: $25.70 USD
-- [High Waist Active Shorts for Ultimate Comfort](https://fitggins.com/products/high-waist-active-shorts-42357): Shop high waist active shorts designed for comfort and style. Perfect for workouts and casual outings, featuring pockets and stretchy material.
-  Updated: 2026-01-22T07:20:13Z
+- [High Waist Active Shorts - Comfortable Stretch Workout Shorts](https://fitggins.com/products/high-waist-active-shorts-62910): High Waist Active Shorts with pockets and high-rise support. Made of 78% nylon, 22% spandex for stretch and durability. Machine wash cold, tumble dry low. Available S–XL with full measurements.
+  Updated: 2026-02-19T11:31:22Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae9bdb7d-380f-458b-a46c-244febdb4c23-Max.webp?v=1768165451
-  - [White / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932709192)
+  - [White / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932709192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae9bdb7d-380f-458b-a46c-244febdb4c23-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [White / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932741960)
+  - [White / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932741960)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae9bdb7d-380f-458b-a46c-244febdb4c23-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [White / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932774728)
+  - [White / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932774728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae9bdb7d-380f-458b-a46c-244febdb4c23-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [White / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932807496)
+  - [White / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932807496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ae9bdb7d-380f-458b-a46c-244febdb4c23-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Charcoal / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932840264)
+  - [Charcoal / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932840264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fc412aa-944c-4936-86a3-b405c2bf8195-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Charcoal / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932873032)
+  - [Charcoal / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932873032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fc412aa-944c-4936-86a3-b405c2bf8195-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Charcoal / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932905800)
+  - [Charcoal / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932905800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fc412aa-944c-4936-86a3-b405c2bf8195-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Charcoal / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932938568)
+  - [Charcoal / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932938568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4fc412aa-944c-4936-86a3-b405c2bf8195-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Navy / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307932971336)
+  - [Navy / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307932971336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bac90c39-6fc0-49f5-a54f-ad11dc304a78-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Navy / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933004104)
+  - [Navy / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933004104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bac90c39-6fc0-49f5-a54f-ad11dc304a78-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Navy / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933036872)
+  - [Navy / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933036872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bac90c39-6fc0-49f5-a54f-ad11dc304a78-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Navy / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933069640)
+  - [Navy / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933069640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bac90c39-6fc0-49f5-a54f-ad11dc304a78-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Chestnut / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933102408)
+  - [Chestnut / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933102408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5839f2ea-873a-442d-9e11-2df81af27905-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Chestnut / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933135176)
+  - [Chestnut / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933135176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5839f2ea-873a-442d-9e11-2df81af27905-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Chestnut / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933167944)
+  - [Chestnut / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933167944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5839f2ea-873a-442d-9e11-2df81af27905-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Chestnut / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933200712)
+  - [Chestnut / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933200712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5839f2ea-873a-442d-9e11-2df81af27905-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933233480)
+  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933233480)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c08ed07-e542-4881-9c48-6a9ab24b138e-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933266248)
+  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933266248)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c08ed07-e542-4881-9c48-6a9ab24b138e-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933299016)
+  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933299016)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c08ed07-e542-4881-9c48-6a9ab24b138e-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Black / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933331784)
+  - [Black / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933331784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c08ed07-e542-4881-9c48-6a9ab24b138e-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Light Green / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933364552)
+  - [Light Green / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933364552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2da76c50-50da-4a29-ac5c-ce4e8b249396-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Light Green / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933397320)
+  - [Light Green / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933397320)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2da76c50-50da-4a29-ac5c-ce4e8b249396-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Light Green / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933430088)
+  - [Light Green / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933430088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2da76c50-50da-4a29-ac5c-ce4e8b249396-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Light Green / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933462856)
+  - [Light Green / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933462856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2da76c50-50da-4a29-ac5c-ce4e8b249396-Max.webp?v=1768165451
     Price: $34.30 USD
-  - [Deep Pink / S](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933495624)
+  - [Deep Pink / S](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933495624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da6ee1de-b202-4753-9022-1ff7c5985781-Max.webp?v=1768165452
     Price: $34.30 USD
-  - [Deep Pink / M](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933528392)
+  - [Deep Pink / M](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933528392)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da6ee1de-b202-4753-9022-1ff7c5985781-Max.webp?v=1768165452
     Price: $34.30 USD
-  - [Deep Pink / L](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933561160)
+  - [Deep Pink / L](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933561160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da6ee1de-b202-4753-9022-1ff7c5985781-Max.webp?v=1768165452
     Price: $34.30 USD
-  - [Deep Pink / XL](https://fitggins.com/products/high-waist-active-shorts-42357?variant=52307933593928)
+  - [Deep Pink / XL](https://fitggins.com/products/high-waist-active-shorts-62910?variant=52307933593928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/da6ee1de-b202-4753-9022-1ff7c5985781-Max.webp?v=1768165452
     Price: $34.30 USD
-- [High Waist Active Shorts](https://fitggins.com/products/high-waist-active-shorts-32760): Discover our High Waist Active Shorts designed for comfort and style. Perfect for workouts and casual wear, featuring exceptional stretch and durability.
-  Updated: 2026-01-22T07:21:35Z
+- [High Waist Active Shorts - Supportive & Stretchy](https://fitggins.com/products/high-waist-active-shorts-72963): High Waist Active Shorts with a supportive high-rise, 54% polyamide/34% polyester/12% elastane fabric, exceptional stretch, and easy-care machine wash. Measurements in inches for S, M, L.
+  Updated: 2026-02-17T07:22:35Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/544d759d-de74-49af-af7f-c471e72e2dcc-Max.webp?v=1768165460
-  - [Teal / S](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934347592)
+  - [Teal / S](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934347592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/544d759d-de74-49af-af7f-c471e72e2dcc-Max.webp?v=1768165460
     Price: $27.74 USD
-  - [Teal / M](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934380360)
+  - [Teal / M](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934380360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/544d759d-de74-49af-af7f-c471e72e2dcc-Max.webp?v=1768165460
     Price: $27.74 USD
-  - [Teal / L](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934413128)
+  - [Teal / L](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934413128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/544d759d-de74-49af-af7f-c471e72e2dcc-Max.webp?v=1768165460
     Price: $27.74 USD
-  - [Gray / S](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934445896)
+  - [Gray / S](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934445896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9b555344-3d60-4380-ab3b-ffa71f7caba2-Max.webp?v=1768165461
     Price: $27.74 USD
-  - [Gray / M](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934478664)
+  - [Gray / M](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934478664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9b555344-3d60-4380-ab3b-ffa71f7caba2-Max.webp?v=1768165461
     Price: $27.74 USD
-  - [Gray / L](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934511432)
+  - [Gray / L](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934511432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9b555344-3d60-4380-ab3b-ffa71f7caba2-Max.webp?v=1768165461
     Price: $27.74 USD
-  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934544200)
+  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934544200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91dd054b-b951-4811-bf49-bf9e607e6628-Max.webp?v=1768165460
     Price: $27.74 USD
-  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934576968)
+  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934576968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91dd054b-b951-4811-bf49-bf9e607e6628-Max.webp?v=1768165460
     Price: $27.74 USD
-  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934609736)
+  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934609736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91dd054b-b951-4811-bf49-bf9e607e6628-Max.webp?v=1768165460
     Price: $27.74 USD
-  - [Hot Pink / S](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934642504)
+  - [Hot Pink / S](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934642504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e95fe0f-6522-4994-9241-b457996ecb0b-Max.webp?v=1768165461
     Price: $27.74 USD
-  - [Hot Pink / M](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934675272)
+  - [Hot Pink / M](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934675272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e95fe0f-6522-4994-9241-b457996ecb0b-Max.webp?v=1768165461
     Price: $27.74 USD
-  - [Hot Pink / L](https://fitggins.com/products/high-waist-active-shorts-32760?variant=52307934708040)
+  - [Hot Pink / L](https://fitggins.com/products/high-waist-active-shorts-72963?variant=52307934708040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e95fe0f-6522-4994-9241-b457996ecb0b-Max.webp?v=1768165461
     Price: $27.74 USD
-- [Leggings Depot Full Size High Waist Active Shorts](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016): Discover ultimate comfort and style with Leggings Depot High Waist Active Shorts, perfect for workouts or relaxing at home.
-  Updated: 2026-02-01T17:53:06Z
+- [Leggings Depot High Waist Active Shorts — Full Size](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417): Leggings Depot Full Size High Waist Active Shorts: breathable, moisture-wicking 84% polyester / 16% spandex with supportive high-rise waistband. Available S–3XL. Machine wash cold. Made in Vietnam.
+  Updated: 2026-02-18T19:04:55Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
-  - [charcoal / S](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307938902344)
+  - [charcoal / S](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307938902344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
     Price: $28.31 USD
-  - [charcoal / M](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307938935112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
-    Price: $28.31 USD
-  - [charcoal / L](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307938967880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
-    Price: $28.31 USD
-  - [charcoal / XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307939000648)
+  - [charcoal / M](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307938935112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
     Price: $28.31 USD
-  - [charcoal / 1XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307939033416)
+  - [charcoal / L](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307938967880)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
     Price: $28.31 USD
-  - [charcoal / 2XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307939066184)
+  - [charcoal / XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307939000648)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
     Price: $28.31 USD
-  - [charcoal / 3XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-46016?variant=52307939098952)
+  - [charcoal / 1XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307939033416)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
+    Price: $28.31 USD
+  - [charcoal / 2XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307939066184)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
+    Price: $28.31 USD
+  - [charcoal / 3XL](https://fitggins.com/products/leggings-depot-full-size-high-waist-active-shorts-99417?variant=52307939098952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d21aa7a6-2c60-404d-9d38-743238e997d5-Max.webp?v=1768165470
     Price: $28.31 USD
-- [High Waist Active Shorts for Ultimate Comfort](https://fitggins.com/products/high-waist-active-shorts-66810): Discover the perfect blend of style and comfort with our High Waist Active Shorts, made for your active lifestyle. Shop now!
-  Updated: 2026-01-22T07:20:22Z
+- [High Waist Active Shorts — Comfortable Stretch Workout Shorts](https://fitggins.com/products/high-waist-active-shorts-16308): High Waist Active Shorts with superior stretch and a soft blend of 54% polyamide, 34% polyester, 12% elastane. Machine wash cold; tumble dry low. Size chart included (measurements in inches). Imported and travel-ready.
+  Updated: 2026-02-17T07:22:35Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c5327c1-80df-4dc2-8c14-ede2647b56d8-Max.webp?v=1768165482
-  - [Dusty Pink / S](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307940933960)
+  - [Dusty Pink / S](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307940933960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c5327c1-80df-4dc2-8c14-ede2647b56d8-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Pink / M](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307940966728)
+  - [Dusty Pink / M](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307940966728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c5327c1-80df-4dc2-8c14-ede2647b56d8-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Pink / L](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307940999496)
+  - [Dusty Pink / L](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307940999496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c5327c1-80df-4dc2-8c14-ede2647b56d8-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Pink / XL](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941032264)
+  - [Dusty Pink / XL](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941032264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c5327c1-80df-4dc2-8c14-ede2647b56d8-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Blue / S](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941065032)
+  - [Dusty Blue / S](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941065032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/81ba35af-b11f-4ce1-aeed-8ad7ed26476f-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Blue / M](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941097800)
+  - [Dusty Blue / M](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941097800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/81ba35af-b11f-4ce1-aeed-8ad7ed26476f-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Blue / L](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941130568)
+  - [Dusty Blue / L](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941130568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/81ba35af-b11f-4ce1-aeed-8ad7ed26476f-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Dusty Blue / XL](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941163336)
+  - [Dusty Blue / XL](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941163336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/81ba35af-b11f-4ce1-aeed-8ad7ed26476f-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Sage / S](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941196104)
+  - [Sage / S](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941196104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fccbc813-80d9-4a06-9e0b-8d4eb99ea469-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Sage / M](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941228872)
+  - [Sage / M](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941228872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fccbc813-80d9-4a06-9e0b-8d4eb99ea469-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Sage / L](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941261640)
+  - [Sage / L](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941261640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fccbc813-80d9-4a06-9e0b-8d4eb99ea469-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Sage / XL](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941294408)
+  - [Sage / XL](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941294408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fccbc813-80d9-4a06-9e0b-8d4eb99ea469-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Dark Gray / S](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941327176)
+  - [Dark Gray / S](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941327176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c7f3c421-8254-4ec1-b583-8bdff3d697c9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Dark Gray / M](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941359944)
+  - [Dark Gray / M](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941359944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c7f3c421-8254-4ec1-b583-8bdff3d697c9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Dark Gray / L](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941392712)
+  - [Dark Gray / L](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941392712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c7f3c421-8254-4ec1-b583-8bdff3d697c9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Dark Gray / XL](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941425480)
+  - [Dark Gray / XL](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941425480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c7f3c421-8254-4ec1-b583-8bdff3d697c9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Gray / S](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941458248)
+  - [Gray / S](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941458248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7d173a7-034d-4e8e-a087-a8b0e9c1a68b-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Gray / M](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941491016)
+  - [Gray / M](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941491016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7d173a7-034d-4e8e-a087-a8b0e9c1a68b-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Gray / L](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941523784)
+  - [Gray / L](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941523784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7d173a7-034d-4e8e-a087-a8b0e9c1a68b-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Gray / XL](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941556552)
+  - [Gray / XL](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941556552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7d173a7-034d-4e8e-a087-a8b0e9c1a68b-Max.webp?v=1768165482
     Price: $27.33 USD
-  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941589320)
+  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941589320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/83b140c4-10b3-42fe-9018-0e9ad24fabf9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941622088)
+  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941622088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/83b140c4-10b3-42fe-9018-0e9ad24fabf9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941654856)
+  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941654856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/83b140c4-10b3-42fe-9018-0e9ad24fabf9-Max.webp?v=1768165481
     Price: $27.33 USD
-  - [Black / XL](https://fitggins.com/products/high-waist-active-shorts-66810?variant=52307941687624)
+  - [Black / XL](https://fitggins.com/products/high-waist-active-shorts-16308?variant=52307941687624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/83b140c4-10b3-42fe-9018-0e9ad24fabf9-Max.webp?v=1768165481
     Price: $27.33 USD
-- [Love Tree High Waist Seam Detail Active Shorts](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-57096): Shop the Love Tree High Waist Seam Detail Active Shorts for a stylish and comfortable workout experience. Perfect for any fitness routine!
-  Updated: 2026-01-22T09:31:36Z
+- [Love Tree High Waist Seam Detail Active Shorts](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-22733): Stylish and supportive Love Tree high waist active shorts with modern seam detail. Stretchy 78% polyester/22% spandex fabric, machine wash cold. Sizes S–L with precise hip and waist measurements.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e17f0c6f-2474-460c-ab06-1b0dbc45b872-Max.webp?v=1768165490
-  - [Black / S](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-57096?variant=52307943260488)
+  - [Black / S](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-22733?variant=52307943260488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e17f0c6f-2474-460c-ab06-1b0dbc45b872-Max.webp?v=1768165490
     Price: $28.76 USD
-  - [Black / M](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-57096?variant=52307943293256)
+  - [Black / M](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-22733?variant=52307943293256)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e17f0c6f-2474-460c-ab06-1b0dbc45b872-Max.webp?v=1768165490
     Price: $28.76 USD
-  - [Black / L](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-57096?variant=52307943326024)
+  - [Black / L](https://fitggins.com/products/love-tree-high-waist-seam-detail-active-shorts-22733?variant=52307943326024)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e17f0c6f-2474-460c-ab06-1b0dbc45b872-Max.webp?v=1768165490
     Price: $28.76 USD
-- [Millennia Stitch Active Shorts](https://fitggins.com/products/millennia-stitch-active-shorts): Discover comfort and style with Millennia Stitch Active Shorts, perfect for workouts and everyday wear.
-  Updated: 2026-01-22T07:20:24Z
+- [Millennia Stitch Active Shorts — Comfort & Performance](https://fitggins.com/products/millennia-stitch-active-shorts): Millennia Stitch Active Shorts made of 80% nylon/20% spandex. Stretchy, durable, hand wash cold. Sizes 4–12 with detailed measurements—perfect for workouts, errands, and casual days.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10024,236 +10016,236 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/07e9177b6245497c83bea5db79d851c3.jpg?v=1768165502
     Price: $30.98 USD
-- [Wide Waistband Sports Shorts - Comfort Meets Style](https://fitggins.com/products/wide-waistband-sports-shorts-75792): Shop our Wide Waistband Sports Shorts for ultimate comfort and style. Perfect for workouts and casual outings. Available in multiple sizes and colors.
-  Updated: 2026-01-22T09:26:14Z
+- [Wide Waistband Sports Shorts — Slim Fit, 77% Nylon 23% Spandex](https://fitggins.com/products/wide-waistband-sports-shorts-63720): Wide Waistband Sports Shorts in tie-dye or solid. Slim, sporty-chic fit with a high supportive waistband. 77% nylon, 23% spandex; machine wash cold, tumble dry low. Sizes 4/S–12/XXL with detailed measurements.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98fe28166d5644f6aedeff88e9d45774-Max.jpg?v=1768165513
-  - [Matcha Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950207304)
+  - [Matcha Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950207304)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98fe28166d5644f6aedeff88e9d45774-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Matcha Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950240072)
+  - [Matcha Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950240072)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98fe28166d5644f6aedeff88e9d45774-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Matcha Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950272840)
+  - [Matcha Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950272840)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98fe28166d5644f6aedeff88e9d45774-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Matcha Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950305608)
+  - [Matcha Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950305608)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98fe28166d5644f6aedeff88e9d45774-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Matcha Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950338376)
+  - [Matcha Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950338376)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/98fe28166d5644f6aedeff88e9d45774-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Dusty Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950371144)
+  - [Dusty Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950371144)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb8ddb321e644c33ba720b905ff03e91-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950403912)
+  - [Dusty Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950403912)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb8ddb321e644c33ba720b905ff03e91-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950436680)
+  - [Dusty Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950436680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb8ddb321e644c33ba720b905ff03e91-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950469448)
+  - [Dusty Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950469448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb8ddb321e644c33ba720b905ff03e91-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950502216)
+  - [Dusty Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950502216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb8ddb321e644c33ba720b905ff03e91-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Mauve / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950534984)
+  - [Mauve / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950534984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d166e99456f547afbd468c21eafe97b2-Max.jpg?v=1768165511
     Price: $30.77 USD
-  - [Mauve / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950567752)
+  - [Mauve / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950567752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d166e99456f547afbd468c21eafe97b2-Max.jpg?v=1768165511
     Price: $30.77 USD
-  - [Mauve / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950600520)
+  - [Mauve / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950600520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d166e99456f547afbd468c21eafe97b2-Max.jpg?v=1768165511
     Price: $30.77 USD
-  - [Mauve / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950633288)
+  - [Mauve / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950633288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d166e99456f547afbd468c21eafe97b2-Max.jpg?v=1768165511
     Price: $30.77 USD
-  - [Mauve / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950666056)
+  - [Mauve / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950666056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d166e99456f547afbd468c21eafe97b2-Max.jpg?v=1768165511
     Price: $30.77 USD
-  - [Dusty Pink / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950698824)
+  - [Dusty Pink / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950698824)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d0af30c5481469b985e96e34e1708f0-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Pink / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950731592)
+  - [Dusty Pink / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950731592)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d0af30c5481469b985e96e34e1708f0-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Pink / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950764360)
+  - [Dusty Pink / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950764360)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d0af30c5481469b985e96e34e1708f0-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Pink / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950797128)
+  - [Dusty Pink / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950797128)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d0af30c5481469b985e96e34e1708f0-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dusty Pink / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950829896)
+  - [Dusty Pink / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950829896)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d0af30c5481469b985e96e34e1708f0-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dark Gray / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950862664)
+  - [Dark Gray / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950862664)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/23c563002cf44b5db91e0ef7c13fab63-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dark Gray / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950895432)
+  - [Dark Gray / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950895432)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/23c563002cf44b5db91e0ef7c13fab63-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dark Gray / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950928200)
+  - [Dark Gray / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950928200)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/23c563002cf44b5db91e0ef7c13fab63-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dark Gray / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950960968)
+  - [Dark Gray / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950960968)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/23c563002cf44b5db91e0ef7c13fab63-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Dark Gray / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307950993736)
+  - [Dark Gray / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307950993736)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/23c563002cf44b5db91e0ef7c13fab63-Max.jpg?v=1768165512
     Price: $30.77 USD
-  - [Light Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307951026504)
+  - [Light Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307951026504)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9632339d748c4cd29b32acd385602a71-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Light Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307951059272)
+  - [Light Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307951059272)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9632339d748c4cd29b32acd385602a71-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Light Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307951092040)
+  - [Light Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307951092040)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9632339d748c4cd29b32acd385602a71-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Light Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307951124808)
+  - [Light Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307951124808)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9632339d748c4cd29b32acd385602a71-Max.jpg?v=1768165513
     Price: $30.77 USD
-  - [Light Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-75792?variant=52307951157576)
+  - [Light Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-63720?variant=52307951157576)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9632339d748c4cd29b32acd385602a71-Max.jpg?v=1768165513
     Price: $30.77 USD
-- [High Waist Active Shorts - Comfort & Flexibility](https://fitggins.com/products/high-waist-active-shorts-51055): Explore our High Waist Active Shorts, designed for ultimate comfort and flexibility. Perfect for workouts and casual wear, made with durable materials.
-  Updated: 2026-02-13T22:24:31Z
+- [High Waist Active Shorts — Comfortable High-Rise Workout & Casual](https://fitggins.com/products/high-waist-active-shorts-38380): High Waist Active Shorts crafted from 60% nylon, 32% polyester, 8% spandex. Highly stretchy, easy-care, and imported for quality. Measurements (inches): S 2/4 bottom 13.4 waist 22 hip 26.8; M 6/8 bottom 13.8 waist 23.6 hip 28.3; L 10 bottom 14.2 waist 25.2 hip 29.9; XL 12 bottom 14.6 waist 26.8 hip 31.5.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b62cb9d2-ba50-40d8-bbc9-829b93d042c6-Max.webp?v=1768165522
-  - [Dark Gray / S](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953746248)
+  - [Dark Gray / S](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953746248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b62cb9d2-ba50-40d8-bbc9-829b93d042c6-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Dark Gray / M](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953779016)
+  - [Dark Gray / M](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953779016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b62cb9d2-ba50-40d8-bbc9-829b93d042c6-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Dark Gray / L](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953811784)
+  - [Dark Gray / L](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953811784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b62cb9d2-ba50-40d8-bbc9-829b93d042c6-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Dark Gray / XL](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953844552)
+  - [Dark Gray / XL](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953844552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b62cb9d2-ba50-40d8-bbc9-829b93d042c6-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953877320)
+  - [Black / S](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953877320)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e09ed017-e15f-49e8-883b-b977d5f4a535-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953910088)
+  - [Black / M](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953910088)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e09ed017-e15f-49e8-883b-b977d5f4a535-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953942856)
+  - [Black / L](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953942856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e09ed017-e15f-49e8-883b-b977d5f4a535-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Black / XL](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307953975624)
+  - [Black / XL](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307953975624)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e09ed017-e15f-49e8-883b-b977d5f4a535-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Lime / S](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954008392)
+  - [Lime / S](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954008392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a96937cb-142c-49ae-9494-0e0868f200a2-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Lime / M](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954041160)
+  - [Lime / M](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954041160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a96937cb-142c-49ae-9494-0e0868f200a2-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Lime / L](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954073928)
+  - [Lime / L](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954073928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a96937cb-142c-49ae-9494-0e0868f200a2-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Lime / XL](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954106696)
+  - [Lime / XL](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954106696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a96937cb-142c-49ae-9494-0e0868f200a2-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Chartreuse / S](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954139464)
+  - [Chartreuse / S](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954139464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf7b7c3b-691d-4e22-b485-45c39ac329df-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Chartreuse / M](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954172232)
+  - [Chartreuse / M](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954172232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf7b7c3b-691d-4e22-b485-45c39ac329df-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Chartreuse / L](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954205000)
+  - [Chartreuse / L](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954205000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf7b7c3b-691d-4e22-b485-45c39ac329df-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Chartreuse / XL](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954237768)
+  - [Chartreuse / XL](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954237768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf7b7c3b-691d-4e22-b485-45c39ac329df-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Gray / S](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954270536)
+  - [Gray / S](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954270536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/edd1eea1-a069-4a24-b110-3c4c44e21816-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Gray / M](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954303304)
+  - [Gray / M](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954303304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/edd1eea1-a069-4a24-b110-3c4c44e21816-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Gray / L](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954336072)
+  - [Gray / L](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954336072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/edd1eea1-a069-4a24-b110-3c4c44e21816-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Gray / XL](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954368840)
+  - [Gray / XL](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954368840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/edd1eea1-a069-4a24-b110-3c4c44e21816-Max.webp?v=1768165521
     Price: $25.10 USD
-  - [Strawberry / S](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954401608)
+  - [Strawberry / S](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954401608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c0b88ee-19f6-4373-9ac9-9407e18a0c67-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Strawberry / M](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954434376)
+  - [Strawberry / M](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954434376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c0b88ee-19f6-4373-9ac9-9407e18a0c67-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Strawberry / L](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954467144)
+  - [Strawberry / L](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954467144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c0b88ee-19f6-4373-9ac9-9407e18a0c67-Max.webp?v=1768165522
     Price: $25.10 USD
-  - [Strawberry / XL](https://fitggins.com/products/high-waist-active-shorts-51055?variant=52307954499912)
+  - [Strawberry / XL](https://fitggins.com/products/high-waist-active-shorts-38380?variant=52307954499912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3c0b88ee-19f6-4373-9ac9-9407e18a0c67-Max.webp?v=1768165522
     Price: $25.10 USD
-- [Tie-Dye High Waist Active Shorts](https://fitggins.com/products/tie-dye-high-waist-active-shorts): Discover our Tie-Dye High Waist Active Shorts, designed for comfort and style. Perfect for workouts or casual outings, made from a durable blend of materials.
-  Updated: 2026-01-22T07:20:41Z
+- [Tie-Dye High Waist Active Shorts](https://fitggins.com/products/tie-dye-high-waist-active-shorts): Vibrant Tie-Dye High Waist Active Shorts with a stretchy 54% polyamide / 34% polyester / 12% elastane blend. Machine wash cold, tumble dry low. Sizes S–XL with detailed measurements in inches.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10508,8 +10500,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1a53f57b-b288-41d7-9d67-72548c276320-Max.webp?v=1768165542
     Price: $31.44 USD
-- [Drawstring Wide Waistband Side Tie Sports Shorts](https://fitggins.com/products/drawstring-wide-waistband-side-tie-sports-shorts): Discover the perfect blend of comfort and style with our Drawstring Wide Waistband Side Tie Sports Shorts, designed for all your active pursuits.
-  Updated: 2026-01-22T07:21:20Z
+- [Drawstring Wide Waistband Side Tie Sports Shorts](https://fitggins.com/products/drawstring-wide-waistband-side-tie-sports-shorts): Comfortable, breathable sports shorts with a wide drawstring waistband and side tie. Made of 77% nylon and 23% spandex. Highly stretchy for workouts. Imported. Available S–2XL with precise hip, waist, and length measurements.
+  Updated: 2026-02-17T07:22:36Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10554,246 +10546,246 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58fa5c0e6b524503a06f79741db996e1-Max.jpg?v=1768165552
     Price: $31.76 USD
-- [Slim Fit Wide Waistband Sports Shorts](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015): Discover comfort and style with our Slim Fit Wide Waistband Sports Shorts, perfect for workouts and casual outings.
-  Updated: 2026-01-22T09:22:51Z
+- [Slim Fit Wide Waistband Sports Shorts — Comfortable Athletic Shorts](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792): Slim Fit Wide Waistband Sports Shorts in solid sporty style. 75% Polyester, 25% Spandex for stretch and durability. Wide supportive waistband, breathable fabric. Machine wash cold; tumble dry low. Detailed sizing from 4/S to 12/XXL.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c4637a6e16401ba642778a9dc8cf9b-Max.jpg?v=1768165562
-  - [Light Blue / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967279432)
+  - [Light Blue / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967279432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c4637a6e16401ba642778a9dc8cf9b-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Light Blue / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967312200)
+  - [Light Blue / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967312200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c4637a6e16401ba642778a9dc8cf9b-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Light Blue / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967344968)
+  - [Light Blue / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967344968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c4637a6e16401ba642778a9dc8cf9b-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Light Blue / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967377736)
+  - [Light Blue / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967377736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c4637a6e16401ba642778a9dc8cf9b-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Light Blue / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967410504)
+  - [Light Blue / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967410504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a6c4637a6e16401ba642778a9dc8cf9b-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Burgundy / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967443272)
+  - [Burgundy / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967443272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/344e73e5dc6447268e35d27bf5ac92aa-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Burgundy / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967476040)
+  - [Burgundy / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967476040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/344e73e5dc6447268e35d27bf5ac92aa-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Burgundy / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967508808)
+  - [Burgundy / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967508808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/344e73e5dc6447268e35d27bf5ac92aa-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Burgundy / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967541576)
+  - [Burgundy / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967541576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/344e73e5dc6447268e35d27bf5ac92aa-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Burgundy / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967574344)
+  - [Burgundy / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967574344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/344e73e5dc6447268e35d27bf5ac92aa-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [Black / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967607112)
+  - [Black / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967607112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/27e3dee82a4841afaef1890732382648-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Black / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967639880)
+  - [Black / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967639880)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/27e3dee82a4841afaef1890732382648-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Black / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967672648)
+  - [Black / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967672648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/27e3dee82a4841afaef1890732382648-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Black / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967705416)
+  - [Black / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967705416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/27e3dee82a4841afaef1890732382648-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Black / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967738184)
+  - [Black / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967738184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/27e3dee82a4841afaef1890732382648-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dusty Pink / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967770952)
+  - [Dusty Pink / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967770952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2363c476ab914e7494998623e1eced29-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dusty Pink / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967803720)
+  - [Dusty Pink / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967803720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2363c476ab914e7494998623e1eced29-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dusty Pink / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967836488)
+  - [Dusty Pink / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967836488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2363c476ab914e7494998623e1eced29-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dusty Pink / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967869256)
+  - [Dusty Pink / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967869256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2363c476ab914e7494998623e1eced29-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dusty Pink / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967902024)
+  - [Dusty Pink / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967902024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2363c476ab914e7494998623e1eced29-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Matcha Green / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967934792)
+  - [Matcha Green / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967934792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a84884427deb4bac845c839a738b3f63-Max.jpg?v=1768165563
     Price: $30.74 USD
-  - [Matcha Green / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307967967560)
+  - [Matcha Green / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307967967560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a84884427deb4bac845c839a738b3f63-Max.jpg?v=1768165563
     Price: $30.74 USD
-  - [Matcha Green / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968000328)
+  - [Matcha Green / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968000328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a84884427deb4bac845c839a738b3f63-Max.jpg?v=1768165563
     Price: $30.74 USD
-  - [Matcha Green / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968033096)
+  - [Matcha Green / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968033096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a84884427deb4bac845c839a738b3f63-Max.jpg?v=1768165563
     Price: $30.74 USD
-  - [Matcha Green / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968065864)
+  - [Matcha Green / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968065864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a84884427deb4bac845c839a738b3f63-Max.jpg?v=1768165563
     Price: $30.74 USD
-  - [Dark Gray / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968098632)
+  - [Dark Gray / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968098632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b966cd5e94e24129a4a0fa5b54d9ee0f-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dark Gray / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968131400)
+  - [Dark Gray / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968131400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b966cd5e94e24129a4a0fa5b54d9ee0f-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dark Gray / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968164168)
+  - [Dark Gray / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968164168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b966cd5e94e24129a4a0fa5b54d9ee0f-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dark Gray / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968196936)
+  - [Dark Gray / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968196936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b966cd5e94e24129a4a0fa5b54d9ee0f-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [Dark Gray / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968229704)
+  - [Dark Gray / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968229704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b966cd5e94e24129a4a0fa5b54d9ee0f-Max.jpg?v=1768165561
     Price: $30.74 USD
-  - [White / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968262472)
+  - [White / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968262472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2c7e7c86300d4f9c97d97f0bf689d13d-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [White / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968295240)
+  - [White / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968295240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2c7e7c86300d4f9c97d97f0bf689d13d-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [White / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968328008)
+  - [White / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968328008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2c7e7c86300d4f9c97d97f0bf689d13d-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [White / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968360776)
+  - [White / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968360776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2c7e7c86300d4f9c97d97f0bf689d13d-Max.jpg?v=1768165562
     Price: $30.74 USD
-  - [White / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-15015?variant=52307968393544)
+  - [White / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-99792?variant=52307968393544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2c7e7c86300d4f9c97d97f0bf689d13d-Max.jpg?v=1768165562
     Price: $30.74 USD
-- [Wide Waistband Sports Shorts with Pockets](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets): Discover the perfect blend of comfort and style with our Wide Waistband Sports Shorts featuring pockets for storage. Ideal for workouts and casual wear.
-  Updated: 2026-01-22T09:46:35Z
+- [Wide Waistband Sports Shorts with Pockets](https://fitggins.com/products/wide-waistband-sports-shorts-pockets): Comfortable, high-stretch sports shorts with a supportive wide waistband and convenient pockets. Made of 77% nylon and 23% spandex. Machine wash cold, tumble dry low. Available in sizes S–XXL with detailed measurements.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b09a0996d3e74f9e90f763c797df58da-Max.jpg?v=1768165572
-  - [Light Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973767496)
+  - [Light Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973767496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b09a0996d3e74f9e90f763c797df58da-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Light Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973800264)
+  - [Light Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973800264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b09a0996d3e74f9e90f763c797df58da-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Light Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973833032)
+  - [Light Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973833032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b09a0996d3e74f9e90f763c797df58da-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Light Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973865800)
+  - [Light Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973865800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b09a0996d3e74f9e90f763c797df58da-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Light Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973898568)
+  - [Light Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973898568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b09a0996d3e74f9e90f763c797df58da-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Lavender / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973931336)
+  - [Lavender / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973931336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76435707928a40da8192d6d485e09f19-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Lavender / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973964104)
+  - [Lavender / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973964104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76435707928a40da8192d6d485e09f19-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Lavender / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307973996872)
+  - [Lavender / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307973996872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76435707928a40da8192d6d485e09f19-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Lavender / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307974029640)
+  - [Lavender / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307974029640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76435707928a40da8192d6d485e09f19-Max.jpg?v=1768165572
     Price: $31.23 USD
-  - [Lavender / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307974062408)
+  - [Lavender / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-pockets?variant=52307974062408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/76435707928a40da8192d6d485e09f19-Max.jpg?v=1768165572
     Price: $31.23 USD
-- [Wide Waistband Sports Shorts for Comfort & Style](https://fitggins.com/products/wide-waistband-sports-shorts-15038): Discover our Wide Waistband Sports Shorts, perfect for workouts or casual outings. Made from comfortable materials, they offer a slim fit and style.
-  Updated: 2026-01-22T07:20:13Z
+- [Wide Waistband Sports Shorts - Slim Fit, 77% Nylon 23% Spandex](https://fitggins.com/products/wide-waistband-sports-shorts-56239): Comfortable, slim-fit Wide Waistband Sports Shorts in solid pattern. Made from 77% nylon and 23% spandex with moderate stretch. Machine wash cold; tumble dry low. Available sizes S–XXL with detailed measurements.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b579d71297407b984cf95dd43b2f59-Max.jpg?v=1768165581
-  - [Lilac / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975569736)
+  - [Lilac / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975569736)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b579d71297407b984cf95dd43b2f59-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Lilac / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975602504)
+  - [Lilac / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975602504)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b579d71297407b984cf95dd43b2f59-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Lilac / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975635272)
+  - [Lilac / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975635272)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b579d71297407b984cf95dd43b2f59-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Lilac / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975668040)
+  - [Lilac / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975668040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b579d71297407b984cf95dd43b2f59-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Lilac / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975700808)
+  - [Lilac / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975700808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b579d71297407b984cf95dd43b2f59-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Deep Teal / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975733576)
+  - [Deep Teal / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975733576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8c203e8c42a40408ccb51ac42ca9719-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Deep Teal / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975766344)
+  - [Deep Teal / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975766344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8c203e8c42a40408ccb51ac42ca9719-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Deep Teal / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975799112)
+  - [Deep Teal / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975799112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8c203e8c42a40408ccb51ac42ca9719-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Deep Teal / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975831880)
+  - [Deep Teal / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975831880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8c203e8c42a40408ccb51ac42ca9719-Max.jpg?v=1768165581
     Price: $29.56 USD
-  - [Deep Teal / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-15038?variant=52307975864648)
+  - [Deep Teal / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-56239?variant=52307975864648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a8c203e8c42a40408ccb51ac42ca9719-Max.jpg?v=1768165581
     Price: $29.56 USD
-- [Washed High Waist Active Shorts](https://fitggins.com/products/washed-high-waist-active-shorts): Discover comfort and style with our Washed High Waist Active Shorts. Perfect for workouts or lounging, these stretchy shorts will elevate your active lifestyle.
-  Updated: 2026-02-08T22:33:37Z
+- [Washed High Waist Active Shorts – Comfortable High-Stretch Workout](https://fitggins.com/products/washed-high-waist-active-shorts): Versatile Washed High Waist Active Shorts with high-waist support, 92% polyamide/8% elastane stretch fabric, and easy care. Ideal for workouts, running, yoga, and everyday wear.
+  Updated: 2026-02-18T18:36:58Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -10878,129 +10870,129 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f3c48ac4-640d-434b-aa4c-29be2aade9df-Max.webp?v=1768165592
     Price: $27.99 USD
-- [Wide Waistband Sports Shorts for Comfort and Style](https://fitggins.com/products/wide-waistband-sports-shorts-28868): Discover the Wide Waistband Sports Shorts, designed for flexibility and style. Perfect for workouts or casual outings, these shorts offer comfort and durability.
-  Updated: 2026-01-22T13:02:35Z
+- [Wide Waistband Sports Shorts — Comfortable Stretch Activewear](https://fitggins.com/products/wide-waistband-sports-shorts-75126): Wide Waistband Sports Shorts made from 79% nylon and 21% spandex. Supportive wide waistband, highly stretchy fabric, easy machine care. Measurements provided for sizes S–2XL.
+  Updated: 2026-02-17T07:22:37Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/11cd5445efc54619b45c3578ea7396c9-Max.jpg?v=1768165603
-  - [Lavender / S](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976651080)
+  - [Lavender / S](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976651080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/11cd5445efc54619b45c3578ea7396c9-Max.jpg?v=1768165603
     Price: $32.70 USD
-  - [Lavender / M](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976683848)
+  - [Lavender / M](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976683848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/11cd5445efc54619b45c3578ea7396c9-Max.jpg?v=1768165603
     Price: $32.70 USD
-  - [Lavender / L](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976716616)
+  - [Lavender / L](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976716616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/11cd5445efc54619b45c3578ea7396c9-Max.jpg?v=1768165603
     Price: $32.70 USD
-  - [Lavender / XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976749384)
+  - [Lavender / XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976749384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/11cd5445efc54619b45c3578ea7396c9-Max.jpg?v=1768165603
     Price: $32.70 USD
-  - [Lavender / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976782152)
+  - [Lavender / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976782152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/11cd5445efc54619b45c3578ea7396c9-Max.jpg?v=1768165603
     Price: $32.70 USD
-  - [Black / S](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976814920)
+  - [Black / S](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976814920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b90aca4e75240c085877bc8f38b2d1d-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Black / M](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976847688)
+  - [Black / M](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976847688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b90aca4e75240c085877bc8f38b2d1d-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Black / L](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976880456)
+  - [Black / L](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976880456)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b90aca4e75240c085877bc8f38b2d1d-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Black / XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976913224)
+  - [Black / XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976913224)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b90aca4e75240c085877bc8f38b2d1d-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Black / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976945992)
+  - [Black / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976945992)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b90aca4e75240c085877bc8f38b2d1d-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Air Force Blue / S](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307976978760)
+  - [Air Force Blue / S](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307976978760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2019d1dbf8ee4a37a34e4397a93a9b98-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Air Force Blue / M](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977011528)
+  - [Air Force Blue / M](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977011528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2019d1dbf8ee4a37a34e4397a93a9b98-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Air Force Blue / L](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977044296)
+  - [Air Force Blue / L](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977044296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2019d1dbf8ee4a37a34e4397a93a9b98-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Air Force Blue / XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977077064)
+  - [Air Force Blue / XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977077064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2019d1dbf8ee4a37a34e4397a93a9b98-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Air Force Blue / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977109832)
+  - [Air Force Blue / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977109832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2019d1dbf8ee4a37a34e4397a93a9b98-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Lilac / S](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977142600)
+  - [Lilac / S](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977142600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3de38becd18d4ba4bfbd0fed4ea37434-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Lilac / M](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977175368)
+  - [Lilac / M](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977175368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3de38becd18d4ba4bfbd0fed4ea37434-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Lilac / L](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977208136)
+  - [Lilac / L](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977208136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3de38becd18d4ba4bfbd0fed4ea37434-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Lilac / XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977240904)
+  - [Lilac / XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977240904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3de38becd18d4ba4bfbd0fed4ea37434-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Lilac / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977273672)
+  - [Lilac / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977273672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3de38becd18d4ba4bfbd0fed4ea37434-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Dusty Pink / S](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977306440)
+  - [Dusty Pink / S](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977306440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e5c61c34811c49dc848de3498cc12b23-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Dusty Pink / M](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977339208)
+  - [Dusty Pink / M](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977339208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e5c61c34811c49dc848de3498cc12b23-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Dusty Pink / L](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977371976)
+  - [Dusty Pink / L](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977371976)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e5c61c34811c49dc848de3498cc12b23-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Dusty Pink / XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977404744)
+  - [Dusty Pink / XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977404744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e5c61c34811c49dc848de3498cc12b23-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Dusty Pink / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977437512)
+  - [Dusty Pink / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977437512)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e5c61c34811c49dc848de3498cc12b23-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Charcoal / S](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977470280)
+  - [Charcoal / S](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977470280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712cd6fdfb784e849ac0d3a95b8bec76-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Charcoal / M](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977503048)
+  - [Charcoal / M](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977503048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712cd6fdfb784e849ac0d3a95b8bec76-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Charcoal / L](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977535816)
+  - [Charcoal / L](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977535816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712cd6fdfb784e849ac0d3a95b8bec76-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Charcoal / XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977568584)
+  - [Charcoal / XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977568584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712cd6fdfb784e849ac0d3a95b8bec76-Max.jpg?v=1768165602
     Price: $32.70 USD
-  - [Charcoal / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-28868?variant=52307977601352)
+  - [Charcoal / 2XL](https://fitggins.com/products/wide-waistband-sports-shorts-75126?variant=52307977601352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/712cd6fdfb784e849ac0d3a95b8bec76-Max.jpg?v=1768165602
     Price: $32.70 USD
@@ -11090,54 +11082,54 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/224d3499-58ad-44ff-b75c-24ead241aeb8-Max.webp?v=1768165611
     Price: $32.01 USD
-- [Slim Fit Wide Waistband Sports Shorts](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790): Discover comfort and style with our Slim Fit Wide Waistband Sports Shorts, perfect for workouts and casual wear.
-  Updated: 2026-01-22T09:39:08Z
+- [Slim Fit Wide Waistband Sports Shorts](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275): Slim Fit Wide Waistband Sports Shorts in 77% nylon / 23% spandex. Solid, sporty design with a supportive wide waistband and moderate stretch. Machine wash cold. Measurements listed for sizes 4/S–12/XXL.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47adaab534824b41b97e83eb249ac4e6-Max.jpg?v=1768165622
-  - [Mauve / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979632968)
+  - [Mauve / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979632968)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47adaab534824b41b97e83eb249ac4e6-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Mauve / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979665736)
+  - [Mauve / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979665736)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47adaab534824b41b97e83eb249ac4e6-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Mauve / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979698504)
+  - [Mauve / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979698504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47adaab534824b41b97e83eb249ac4e6-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Mauve / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979731272)
+  - [Mauve / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979731272)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47adaab534824b41b97e83eb249ac4e6-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Mauve / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979764040)
+  - [Mauve / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979764040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47adaab534824b41b97e83eb249ac4e6-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Army Green / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979796808)
+  - [Army Green / 4/S](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979796808)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/350084ecce5749a3825adea08d8368f8-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Army Green / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979829576)
+  - [Army Green / 6/M](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979829576)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/350084ecce5749a3825adea08d8368f8-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Army Green / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979862344)
+  - [Army Green / 8/L](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979862344)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/350084ecce5749a3825adea08d8368f8-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Army Green / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979895112)
+  - [Army Green / 10/XL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979895112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/350084ecce5749a3825adea08d8368f8-Max.jpg?v=1768165622
     Price: $30.74 USD
-  - [Army Green / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-88790?variant=52307979927880)
+  - [Army Green / 12/XXL](https://fitggins.com/products/slim-fit-wide-waistband-sports-shorts-76275?variant=52307979927880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/350084ecce5749a3825adea08d8368f8-Max.jpg?v=1768165622
     Price: $30.74 USD
-- [Wide Waistband Slim Fit Sports Shorts](https://fitggins.com/products/wide-waistband-slim-fit-sports-shorts): Discover the perfect blend of style and comfort with our Wide Waistband Slim Fit Sports Shorts, designed for active lifestyles.
-  Updated: 2026-01-22T12:30:04Z
+- [Wide Waistband Slim Fit Sports Shorts](https://fitggins.com/products/wide-waistband-slim-fit-sports-shorts): Slim, sporty shorts with a wide waistband for secure support. Made of 80% nylon and 20% spandex with moderate stretch. Machine wash cold; tumble dry low. Available S–XL with precise measurements.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -11206,235 +11198,235 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c913c7c3d764093b8db198913f4f895-Max.jpg?v=1768165632
     Price: $30.69 USD
-- [Wide Waistband Sports Shorts with Pockets](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359): Discover comfort and style with our Wide Waistband Sports Shorts. Perfect for workouts and casual outings, designed for a flattering fit.
-  Updated: 2026-01-22T07:20:00Z
+- [Wide Waistband Sports Shorts with Pockets – Nylon Spandex Activewear](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668): Wide Waistband Sports Shorts with Pockets made from 77% nylon and 23% spandex. Slim fit, moderate stretch, deep pockets, machine wash cold. Sizes 4/S to 12/XXL with precise waist, length, and hip measurements.
+  Updated: 2026-02-17T05:38:45Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3273005ceef249c8b5e2c4199afe8788-Max.jpg?v=1768165642
-  - [Army Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988382024)
+  - [Army Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988382024)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3273005ceef249c8b5e2c4199afe8788-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Army Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988414792)
+  - [Army Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988414792)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3273005ceef249c8b5e2c4199afe8788-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Army Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988447560)
+  - [Army Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988447560)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3273005ceef249c8b5e2c4199afe8788-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Army Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988480328)
+  - [Army Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988480328)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3273005ceef249c8b5e2c4199afe8788-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Army Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988513096)
+  - [Army Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988513096)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3273005ceef249c8b5e2c4199afe8788-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Mauve / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988545864)
+  - [Mauve / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988545864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f68d97f75aa441be96cbe8de71ee2cc6-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Mauve / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988578632)
+  - [Mauve / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988578632)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f68d97f75aa441be96cbe8de71ee2cc6-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Mauve / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988611400)
+  - [Mauve / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988611400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f68d97f75aa441be96cbe8de71ee2cc6-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Mauve / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988644168)
+  - [Mauve / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988644168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f68d97f75aa441be96cbe8de71ee2cc6-Max.jpg?v=1768165642
     Price: $31.25 USD
-  - [Mauve / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-36359?variant=52307988676936)
+  - [Mauve / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-25668?variant=52307988676936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f68d97f75aa441be96cbe8de71ee2cc6-Max.jpg?v=1768165642
     Price: $31.25 USD
-- [Wide Waistband Sports Shorts with Pockets](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194): Enhance your active lifestyle with our Wide Waistband Sports Shorts featuring pockets for convenience and comfortable movement.
-  Updated: 2026-01-22T15:45:39Z
+- [Wide Waistband Sports Shorts with Pockets](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets): Comfortable, sporty shorts with a wide waistband and practical pockets. Made from 74% nylon and 26% spandex with moderate stretch. Machine wash cold; imported. Available in sizes 4/S through 12/XXL.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9fa7c3d23a944230b6e387265c9fdc2c-Max.jpg?v=1768165653
-  - [Deep Teal / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994083656)
+  - [Deep Teal / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994083656)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9fa7c3d23a944230b6e387265c9fdc2c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Deep Teal / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994116424)
+  - [Deep Teal / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994116424)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9fa7c3d23a944230b6e387265c9fdc2c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Deep Teal / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994149192)
+  - [Deep Teal / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994149192)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9fa7c3d23a944230b6e387265c9fdc2c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Deep Teal / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994181960)
+  - [Deep Teal / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994181960)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9fa7c3d23a944230b6e387265c9fdc2c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Deep Teal / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994214728)
+  - [Deep Teal / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994214728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9fa7c3d23a944230b6e387265c9fdc2c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Dark Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994247496)
+  - [Dark Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994247496)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d172fc57cfa4521b6a51c43c39c467e-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dark Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994280264)
+  - [Dark Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994280264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d172fc57cfa4521b6a51c43c39c467e-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dark Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994313032)
+  - [Dark Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994313032)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d172fc57cfa4521b6a51c43c39c467e-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dark Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994345800)
+  - [Dark Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994345800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d172fc57cfa4521b6a51c43c39c467e-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dark Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994378568)
+  - [Dark Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994378568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d172fc57cfa4521b6a51c43c39c467e-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Deep Red / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994411336)
+  - [Deep Red / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994411336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e71a1fa4b264070b4dd3f977b08c435-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Deep Red / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994444104)
+  - [Deep Red / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994444104)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e71a1fa4b264070b4dd3f977b08c435-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Deep Red / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994476872)
+  - [Deep Red / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994476872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e71a1fa4b264070b4dd3f977b08c435-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Deep Red / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994509640)
+  - [Deep Red / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994509640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e71a1fa4b264070b4dd3f977b08c435-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Deep Red / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994542408)
+  - [Deep Red / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994542408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4e71a1fa4b264070b4dd3f977b08c435-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dusty Pink / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994575176)
+  - [Dusty Pink / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994575176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1357b4ed03341999f4841303701c5e8-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dusty Pink / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994607944)
+  - [Dusty Pink / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994607944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1357b4ed03341999f4841303701c5e8-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dusty Pink / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994640712)
+  - [Dusty Pink / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994640712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1357b4ed03341999f4841303701c5e8-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dusty Pink / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994673480)
+  - [Dusty Pink / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994673480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1357b4ed03341999f4841303701c5e8-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Dusty Pink / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994706248)
+  - [Dusty Pink / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994706248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c1357b4ed03341999f4841303701c5e8-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Teal / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994739016)
+  - [Teal / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994739016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d05a88d285fb438a896a0077ed760672-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Teal / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994771784)
+  - [Teal / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994771784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d05a88d285fb438a896a0077ed760672-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Teal / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994804552)
+  - [Teal / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994804552)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d05a88d285fb438a896a0077ed760672-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Teal / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994837320)
+  - [Teal / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994837320)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d05a88d285fb438a896a0077ed760672-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Teal / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994870088)
+  - [Teal / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994870088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d05a88d285fb438a896a0077ed760672-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Light Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994902856)
+  - [Light Blue / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994902856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c6e0faa382b46cbbee94099ac715bd9-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Light Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994935624)
+  - [Light Blue / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994935624)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c6e0faa382b46cbbee94099ac715bd9-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Light Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307994968392)
+  - [Light Blue / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307994968392)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c6e0faa382b46cbbee94099ac715bd9-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Light Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995001160)
+  - [Light Blue / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995001160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c6e0faa382b46cbbee94099ac715bd9-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Light Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995033928)
+  - [Light Blue / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995033928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4c6e0faa382b46cbbee94099ac715bd9-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Light Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995066696)
+  - [Light Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995066696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47965fdf7adb4dbbaf131f81134550d2-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Light Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995099464)
+  - [Light Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995099464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47965fdf7adb4dbbaf131f81134550d2-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Light Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995132232)
+  - [Light Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995132232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47965fdf7adb4dbbaf131f81134550d2-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Light Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995165000)
+  - [Light Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995165000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47965fdf7adb4dbbaf131f81134550d2-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Light Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995197768)
+  - [Light Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995197768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/47965fdf7adb4dbbaf131f81134550d2-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Army Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995230536)
+  - [Army Green / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995230536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7b46d53e483438ba3ab9e7b9bd81bb3-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Army Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995263304)
+  - [Army Green / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995263304)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7b46d53e483438ba3ab9e7b9bd81bb3-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Army Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995296072)
+  - [Army Green / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995296072)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7b46d53e483438ba3ab9e7b9bd81bb3-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Army Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995328840)
+  - [Army Green / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995328840)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7b46d53e483438ba3ab9e7b9bd81bb3-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Army Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995361608)
+  - [Army Green / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995361608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d7b46d53e483438ba3ab9e7b9bd81bb3-Max.jpg?v=1768165652
     Price: $33.18 USD
-  - [Black / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995394376)
+  - [Black / 4/S](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995394376)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b0f02cb38384a068b44c6b879bb8f0c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Black / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995427144)
+  - [Black / 6/M](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995427144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b0f02cb38384a068b44c6b879bb8f0c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Black / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995459912)
+  - [Black / 8/L](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995459912)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b0f02cb38384a068b44c6b879bb8f0c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Black / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995492680)
+  - [Black / 10/XL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995492680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b0f02cb38384a068b44c6b879bb8f0c-Max.jpg?v=1768165653
     Price: $33.18 USD
-  - [Black / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets-14194?variant=52307995525448)
+  - [Black / 12/XXL](https://fitggins.com/products/wide-waistband-sports-shorts-with-pockets?variant=52307995525448)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b0f02cb38384a068b44c6b879bb8f0c-Max.jpg?v=1768165653
     Price: $33.18 USD
@@ -11544,8 +11536,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6f19296db92d48e4b4bad99a486f6266-Max.jpg?v=1768165663
     Price: $33.58 USD
-- [Buy Slim Fit V-Waistband Sports Shorts Online](https://fitggins.com/products/slim-fit-v-waistband-sports-shorts): Discover the comfort and style of Slim Fit V-Waistband Sports Shorts, perfect for any active lifestyle. Shop now!
-  Updated: 2026-01-22T09:40:13Z
+- [Slim Fit V-Waistband Sports Shorts](https://fitggins.com/products/slim-fit-v-waistband-sports-shorts): Slim Fit V-Waistband Sports Shorts — breathable 75% nylon/25% spandex construction, high stretch, solid sporty design. Machine wash cold; imported. Multiple sizes with precise measurements.
+  Updated: 2026-02-17T07:22:38Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -11742,8 +11734,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/386f0d060be8447db922ee3d84a398ac-Max.jpg?v=1768165679
     Price: $32.47 USD
-- [Judy Blue Tummy Control Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-garment-dyed-tummy-control-skinny-jeans): Discover Judy Blue's Garment Dyed Tummy Control Skinny Jeans, offering comfort and style with a flattering fit. Available in vibrant colors.
-  Updated: 2026-02-12T17:46:47Z
+- [Judy Blue Tummy Control Garment Dyed Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-garment-dyed-tummy-control-skinny-jeans): High-rise Judy Blue skinny jeans with tummy control panel, garment-dyed color, slight stretch, and machine-wash care. Detailed measurements for full-size fit.
+  Updated: 2026-02-21T15:35:46Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11808,74 +11800,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d68765bf-5829-4ffd-9c07-0101c235b88f-Max.webp?v=1768221030
     Price: $40.89 USD
-- [Judy Blue Full Size Tummy Control Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): Discover the perfect blend of style and comfort with Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans, designed to enhance your silhouette.
-  Updated: 2026-02-14T21:16:03Z
+- [Judy Blue Tummy Control Raw Hem Straight Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans): High-rise Judy Blue straight jeans with tummy control, raw hem, moderate stretch. 95% cotton, 5% spandex. Style #88848. Machine wash cold; tumble dry low. See full size chart for waist, hip, inseam, and rise measurements.
+  Updated: 2026-02-21T20:15:57Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
-  - [Medium / 0/24](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660790088)
+  - [Medium / 0/24](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660790088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 1/25](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660822856)
+  - [Medium / 1/25](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660822856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 3/26](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660855624)
+  - [Medium / 3/26](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660855624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 5/27](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660888392)
+  - [Medium / 5/27](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660888392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 7/28](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660921160)
+  - [Medium / 7/28](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660921160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 9/29](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660953928)
+  - [Medium / 9/29](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660953928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 11/30](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311660986696)
+  - [Medium / 11/30](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311660986696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 13/31](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661019464)
+  - [Medium / 13/31](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661019464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661052232)
+  - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661052232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661085000)
+  - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661085000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 16W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661117768)
+  - [Medium / 16W](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661117768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 18W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661150536)
+  - [Medium / 18W](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661150536)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 20W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661183304)
+  - [Medium / 20W](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661183304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 22W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661216072)
+  - [Medium / 22W](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661216072)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-  - [Medium / 24W](https://fitggins.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans?variant=52311661248840)
+  - [Medium / 24W](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans?variant=52311661248840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
-- [Judy Blue High Waist Rigid Magic Heavy Destroy Straight Jeans](https://fitggins.com/products/judy-blue-high-waist-rigid-magic-heavy-destroy-straight-jeans): Discover the stylish Judy Blue High Waist Rigid Magic Heavy Destroy Straight Jeans, crafted from premium denim for long-lasting wear and comfort.
-  Updated: 2026-02-13T17:09:59Z
+- [Judy Blue High Waist Rigid Magic Heavy Destroy Straight Jeans](https://fitggins.com/products/judy-blue-high-waist-rigid-magic-heavy-destroy-straight-jeans): Discover Judy Blue high waist rigid magic heavy destroy straight jeans—durable heavy denim with moderate stretch, raw hem, pocketed design, and flattering straight-leg silhouette. Style for day or night. Style #88819.
+  Updated: 2026-02-20T17:07:17Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11940,8 +11932,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9566d8e6-3db6-494b-839d-3dc7451685a6-Max.webp?v=1768221051
     Price: $50.78 USD
-- [bytos Full Size Distressed High Rise Straight Jeans](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans): Shop the bytos Full Size Distressed High Rise Straight Jeans for a perfect blend of comfort and style. Ideal for any occasion, these jeans are a must-have in your wardrobe.
-  Updated: 2026-02-13T19:21:28Z
+- [bytos Distressed High Rise Straight Jeans — Full Size](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans): bytos Full Size Distressed High Rise Straight Jeans: soft premium denim with slight stretch, classic straight leg and edgy distressed detail. Material 78% cotton/20% polyester/2% spandex. Machine wash cold; tumble dry low.
+  Updated: 2026-02-17T07:22:39Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12056,8 +12048,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/112f7b65-386c-464d-b29d-47de9d1e011c-Max-Origin.webp?v=1768221070
     Price: $35.31 USD
-- [bytos Full Size Distressed High Rise Jeans](https://fitggins.com/products/bytos-full-size-distressed-high-rise-jeans-with-pockets): Explore the bytos Full Size Distressed High Rise Jeans, blending style and comfort for any occasion.
-  Updated: 2026-02-13T19:21:36Z
+- [bytos Distressed High-Rise Jeans with Pockets](https://fitggins.com/products/bytos-full-size-distressed-high-rise-jeans-with-pockets): bytos Full Size Distressed High-Rise Jeans with Pockets—high-rise, bootcut, moderate stretch denim blend (71% cotton, 19% polyester, 9% viscose, 1% spandex). Functional pockets, machine wash cold. Size chart included.
+  Updated: 2026-02-17T07:22:39Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12106,110 +12098,110 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1c5a5d1-4c26-416e-abd8-28fcf0521f65-Max.webp?v=1768221081
     Price: $45.52 USD
-- [Full Size Flare Jeans with Pockets Plus Size](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size): Discover stylish and comfortable Full Size Flare Jeans with pockets, perfect for various occasions. Made from durable materials, these jeans offer a structured fit.
-  Updated: 2026-01-22T09:29:52Z
+- [Full-Size Flare Jeans with Pockets — Plus Size](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size): Flattering full-size flare jeans with button closure and pockets. 65% cotton / 35% polyester, no stretch. Machine wash cold, tumble dry low. Detailed measurements included for XS–4XL.
+  Updated: 2026-02-17T07:22:40Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
-  - [Medium / XS](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664001352)
+  - [Medium / XS](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664001352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / S](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664034120)
+  - [Medium / S](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664034120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / M](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664066888)
+  - [Medium / M](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664066888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / L](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664099656)
+  - [Medium / L](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664099656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664132424)
+  - [Medium / XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664132424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / 2XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664165192)
+  - [Medium / 2XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664165192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / 3XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664197960)
+  - [Medium / 3XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664197960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Medium / 4XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664230728)
+  - [Medium / 4XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664230728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca9a1fd5-fa77-4da3-9fa6-b68531afd4ae-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / XS](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664263496)
+  - [Black / XS](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664263496)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / S](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664296264)
+  - [Black / S](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664296264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / M](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664329032)
+  - [Black / M](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664329032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / L](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664361800)
+  - [Black / L](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664361800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664394568)
+  - [Black / XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664394568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / 2XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664427336)
+  - [Black / 2XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664427336)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / 3XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664460104)
+  - [Black / 3XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664460104)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Black / 4XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664492872)
+  - [Black / 4XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664492872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/40147b10-1e5a-4ec6-8b08-bd16ba342b61-Max.webp?v=1768221091
     Price: $35.86 USD
-  - [Light / XS](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664525640)
+  - [Light / XS](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664525640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / S](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664558408)
+  - [Light / S](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664558408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / M](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664591176)
+  - [Light / M](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664591176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / L](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664623944)
+  - [Light / L](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664623944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664656712)
+  - [Light / XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664656712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / 2XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664689480)
+  - [Light / 2XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664689480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / 3XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664722248)
+  - [Light / 3XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664722248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-  - [Light / 4XL](https://fitggins.com/products/full-size-flare-jeans-pockets-plus-size?variant=52311664755016)
+  - [Light / 4XL](https://fitggins.com/products/full-size-flare-jeans-with-pockets-plus-size?variant=52311664755016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aba05af7-6f85-42de-a9a3-50bbe1caccdb-Max.webp?v=1768221092
     Price: $35.86 USD
-- [High Waist Loose Fit Ankle Slit Jeans](https://fitggins.com/products/high-waist-loose-fit-ankle-slit-jeans): Shop our High Waist Loose Fit Ankle Slit Jeans, perfect for a casual yet stylish look. Made from breathable fabric, these jeans will elevate your wardrobe.
-  Updated: 2026-02-09T08:02:39Z
+- [High Waist Loose Fit Ankle Slit Jeans - Casual Chic](https://fitggins.com/products/high-waist-loose-fit-ankle-slit-jeans): High waist, loose fit jeans with a cropped length and ankle slit. Made of 95% rayon and 5% polyester. Non-stretch, easy-care design. Available S–2XL with detailed waist, hip, and length measurements.
+  Updated: 2026-02-17T07:22:40Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12274,8 +12266,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f24383caf6d4de9b3e94a029fae846e-Max.jpg?v=1768221102
     Price: $42.51 USD
-- [Judy Blue Full Size High Waist Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-skinny-jeans): Discover the Judy Blue Full Size High Waist Skinny Jeans, blending style and comfort for every occasion. Shop now for your new wardrobe staple.
-  Updated: 2026-02-14T16:42:52Z
+- [Judy Blue Full Size High Waist Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-skinny-jeans): High waist Judy Blue skinny jeans with moderate stretch. Washed finish, pocketed, 76.2% cotton, 22.5% polyester, 1.3% spandex. Machine wash cold; tumble dry low. Style #88687. Sizes 0/24–18W with detailed measurements.
+  Updated: 2026-02-21T23:25:03Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12440,74 +12432,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1768221132
     Price: $45.52 USD
-- [Judy Blue High Waist Cargo Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans): Discover the perfect blend of style and functionality with Judy Blue Full Size High Waist Straight Cargo Jeans, designed for comfort and practicality.
-  Updated: 2026-02-10T14:57:30Z
+- [Judy Blue High Waist Straight Cargo Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924): Judy Blue Full Size High Waist Straight Cargo Jeans — high-rise, straight leg cargo with moderate stretch. 94% cotton, 5% polyester, 1% spandex. Machine wash cold. Style #: 88924.
+  Updated: 2026-02-19T16:36:09Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
-  - [Light / 0](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666590024)
+  - [Light / 0](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666590024)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 1](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666622792)
+  - [Light / 1](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666622792)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 3](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666655560)
+  - [Light / 3](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666655560)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 5](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666688328)
+  - [Light / 5](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666688328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 7](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666721096)
+  - [Light / 7](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666721096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 9](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666753864)
+  - [Light / 9](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666753864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 11](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666786632)
+  - [Light / 11](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666786632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 13](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666819400)
+  - [Light / 13](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666819400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 15](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666852168)
+  - [Light / 15](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666852168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 14W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666884936)
+  - [Light / 14W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666884936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 16W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666917704)
+  - [Light / 16W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666917704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 18W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666950472)
+  - [Light / 18W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666950472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 20W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311666983240)
+  - [Light / 20W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311666983240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 22W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311667016008)
+  - [Light / 22W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311667016008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-  - [Light / 24W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans?variant=52311667048776)
+  - [Light / 24W](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924?variant=52311667048776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
-- [Judy Blue High Rise Straight Jeans](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans): Discover stylish comfort with Judy Blue Full Size High Rise Straight Jeans. Perfect for any occasion, these jeans offer a flattering fit and versatile design.
-  Updated: 2026-02-14T08:15:22Z
+- [Judy Blue High Rise Straight Jeans - Full Size](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans): Flattering Judy Blue high rise straight jeans in full sizes. Moderate stretch, 93% cotton blend, pocketed and washed. Machine wash cold. Style #82553.
+  Updated: 2026-02-21T21:00:17Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12545,7 +12537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
   - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans?variant=52311667638600)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
   - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans?variant=52311667671368)
@@ -12572,8 +12564,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
-- [Stylish Wide Leg Jeans with Pockets](https://fitggins.com/products/wide-leg-jeans-with-pockets): Discover the perfect blend of style and comfort with our wide leg jeans featuring pockets, ideal for any occasion.
-  Updated: 2026-01-22T09:18:58Z
+- [Wide Leg Jeans with Pockets — 65% Cotton Blend](https://fitggins.com/products/wide-leg-jeans-with-pockets): Wide leg jeans with roomy pockets and buttoned closure. Made of 65% cotton, 35% polyester for durability. No stretch. Machine wash cold; tumble dry low. Measurements in inches provided for S–XL.
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12658,8 +12650,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2c2029bc-f8a5-420f-a2eb-5930b1a8295b-Max.webp?v=1768221163
     Price: $36.90 USD
-- [High Waist Straight Leg Cargo Jeans](https://fitggins.com/products/high-waist-straight-leg-cargo-jeans): Discover comfort and style with our High Waist Straight Leg Cargo Jeans, featuring pockets for functionality and a soft, durable fabric.
-  Updated: 2026-01-22T07:21:01Z
+- [High Waist Straight Leg Cargo Jeans](https://fitggins.com/products/high-waist-straight-leg-cargo-jeans): Versatile high-waist straight-leg cargo jeans with functional pockets and slight stretch. Made from 50% polyester, 39% cotton, 11% elastane. Machine wash cold, tumble dry low. Available XS–XL with detailed measurements in inches.
+  Updated: 2026-02-17T07:22:41Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12764,74 +12756,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58daab1a-b6a1-4b9f-a478-8601a34b4c03-Max.webp?v=1768221173
     Price: $47.63 USD
-- [Judy Blue High Waist Distressed Wide Leg Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans): Shop the Judy Blue Full Size High Waist Distressed Wide Leg Jeans for a stylish, versatile fit. Perfect for casual or dressy occasions.
-  Updated: 2026-02-14T22:45:22Z
+- [Judy Blue High Waist Distressed Wide Leg Jeans](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans): Judy Blue Full Size high waist distressed wide leg jeans with slight stretch (93% cotton, 6% polyester, 1% spandex). Pocketed, machine wash cold, tumble dry low. Style #88823. See size chart for waist, hip, inseam, and rise measurements.
+  Updated: 2026-02-20T19:18:26Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
-  - [BONE / 0(24)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671013704)
+  - [BONE / 0(24)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671013704)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 1(25)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671046472)
+  - [BONE / 1(25)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671046472)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 3(26)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671079240)
+  - [BONE / 3(26)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671079240)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 5(27)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671112008)
+  - [BONE / 5(27)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671112008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 7(28)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671144776)
+  - [BONE / 7(28)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671144776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 9(29)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671177544)
+  - [BONE / 9(29)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671177544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 11(30)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671210312)
+  - [BONE / 11(30)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671210312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 13(31)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671243080)
+  - [BONE / 13(31)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671243080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 15(32)](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671275848)
+  - [BONE / 15(32)](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671275848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 14W](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671308616)
+  - [BONE / 14W](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671308616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 16W](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671341384)
+  - [BONE / 16W](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671341384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 18W](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671374152)
+  - [BONE / 18W](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671374152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 20W](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671406920)
+  - [BONE / 20W](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671406920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 22W](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671439688)
+  - [BONE / 22W](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671439688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-  - [BONE / 24W](https://fitggins.com/products/judy-blue-full-size-high-waist-distressed-wide-leg-jeans?variant=52311671472456)
+  - [BONE / 24W](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans?variant=52311671472456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
-- [Judy Blue High Waist Tummy Control Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): Discover comfort and style with Judy Blue Full Size High Waist Tummy Control Jeans, designed to enhance your silhouette and boost your confidence.
-  Updated: 2026-02-14T04:39:21Z
+- [Judy Blue High Waist Tummy Control Jeans — Full Size](https://fitggins.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): Flattering high-waist jeans with tummy control and moderate stretch. Judy Blue style #88869. Premium cotton blend; machine wash cold. Sizes 0/24–20W with detailed measurements for waist, hip, inseam and rise.
+  Updated: 2026-02-22T00:00:26Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12896,58 +12888,58 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1768221192
     Price: $49.66 USD
-- [bytos Full Size Cat's Whiskers Mid Rise Ankle Jeans](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans): Discover the perfect blend of style and comfort with bytos Full Size Cat's Whiskers Mid Rise Ankle Jeans, featuring unique detailing and versatile design for any occasion.
-  Updated: 2026-02-13T19:21:27Z
+- [bytos Cat's Whiskers Mid-Rise Ankle Jeans - Full Size](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans): Stylish and comfortable bytos Full Size Cat's Whiskers Mid-Rise Ankle Jeans. Durable denim with moderate stretch (92% cotton, 6% polyester, 2% spandex). Machine wash cold, tumble dry low. Multiple sizes with detailed measurements.
+  Updated: 2026-02-19T15:33:19Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
-  - [Medium / 1(25)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673176392)
+  - [Medium / 1(25)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673176392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 3(26)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673209160)
+  - [Medium / 3(26)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673209160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 5(27)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673241928)
+  - [Medium / 5(27)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673241928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 7(28)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673274696)
+  - [Medium / 7(28)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673274696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 9(29)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673307464)
+  - [Medium / 9(29)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673307464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 11(30)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673340232)
+  - [Medium / 11(30)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673340232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 13(31)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673373000)
+  - [Medium / 13(31)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673373000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 15(32)](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673405768)
+  - [Medium / 15(32)](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673405768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $40.76 USD
-  - [Medium / 1XL](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673438536)
+  - [Medium / 1XL](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673438536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $43.00 USD
-  - [Medium / 2XL](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673471304)
+  - [Medium / 2XL](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673471304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $43.00 USD
-  - [Medium / 3XL](https://fitggins.com/products/bytos-full-size-cats-whiskers-mid-rise-ankle-jeans?variant=52311673504072)
+  - [Medium / 3XL](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans?variant=52311673504072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $43.00 USD
-- [Judy Blue Mid Rise Rigid Magic Release Hem Jeans](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans): Shop Judy Blue Full Size Mid Rise Rigid Magic Release Hem Jeans. Enjoy stylish comfort and versatility for any occasion!
-  Updated: 2026-02-12T00:19:40Z
+- [Judy Blue Mid Rise Rigid Magic Release Hem Jeans](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans): Judy Blue Full Size Mid Rise Rigid Jeans with magic release hem. Structured rigid denim with moderate stretch, lyocell front panel and a cotton/poly/spandex back panel. Style #88818. Machine wash cold; tumble dry low.
+  Updated: 2026-02-21T02:16:36Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12998,7 +12990,7 @@
     Availability: Not Available
     Price: $49.94 USD
 - [Judy Blue Full Size Tummy Control Straight Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-straight-jeans): Discover the Judy Blue Full Size Tummy Control Straight Jeans, designed for comfort and style. Enhance your silhouette with innovative tummy control technology, perfect for any occasion.
-  Updated: 2026-02-14T19:07:22Z
+  Updated: 2026-02-21T16:08:35Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13055,82 +13047,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c80cd56d-b63e-4fdc-981c-4f22270f7f51-Max.webp?v=1768221221
     Price: $49.66 USD
-  - [Medium / 22W](https://fitggins.com/products/judy-blue-full-size-tummy-control-straight-jeans?variant=52311675535688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c80cd56d-b63e-4fdc-981c-4f22270f7f51-Max.webp?v=1768221221
-    Price: $49.66 USD
-  - [Medium / 24W](https://fitggins.com/products/judy-blue-full-size-tummy-control-straight-jeans?variant=52311675568456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c80cd56d-b63e-4fdc-981c-4f22270f7f51-Max.webp?v=1768221221
-    Price: $49.66 USD
-- [Judy Blue Tummy Control High Waist Slim Jeans](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans): Shop Judy Blue Full Size Tummy Control High Waist Slim Jeans for a flattering silhouette and ultimate comfort. Perfect for any occasion, these jeans enhance your style.
-  Updated: 2026-02-14T16:43:32Z
+- [Judy Blue Tummy Control High Waist Slim Jeans — Full Size](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans): High-waist Judy Blue slim jeans with tummy control for a smooth silhouette. Stretchy cotton blend, full-size range, machine washable. Style #88776.
+  Updated: 2026-02-17T07:22:42Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/36746e01-395d-4d63-bfbf-6e70a62c8db1-Max.webp?v=1768221234
-  - [Dark / 0](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676223816)
+  - [Dark / 0](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676223816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 1](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676256584)
+  - [Dark / 1](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676256584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 3](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676289352)
+  - [Dark / 3](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676289352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 5](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676322120)
+  - [Dark / 5](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676322120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 7](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676354888)
+  - [Dark / 7](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676354888)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 9](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676387656)
+  - [Dark / 9](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676387656)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 11](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676420424)
+  - [Dark / 11](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676420424)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 13](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676453192)
+  - [Dark / 13](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676453192)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 15](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676485960)
+  - [Dark / 15](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676485960)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 14W](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676518728)
+  - [Dark / 14W](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676518728)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 16W](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676551496)
+  - [Dark / 16W](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676551496)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 18W](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676584264)
+  - [Dark / 18W](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676584264)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 20W](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676617032)
+  - [Dark / 20W](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676617032)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 22W](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676649800)
+  - [Dark / 22W](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676649800)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
-  - [Dark / 24W](https://fitggins.com/products/judy-blue-tummy-control-high-waist-slim-jeans?variant=52311676682568)
+  - [Dark / 24W](https://fitggins.com/products/judy-blue-full-size-tummy-control-high-waist-slim-jeans?variant=52311676682568)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
 - [Judy Blue Tummy Control Bootcut Jeans Plus Size](https://fitggins.com/products/judy-blue-full-size-tummy-control-bootcut-jeans-plus-size): Discover stylish comfort with Judy Blue Full Size Tummy Control Bootcut Jeans, featuring embroidered pockets and versatile inseams for a flattering fit.
-  Updated: 2026-02-14T21:49:52Z
+  Updated: 2026-02-21T23:40:26Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13204,7 +13188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70b3a146-8f1b-425b-8904-702628674b44-Max.webp?v=1768221243
     Price: $47.26 USD
   - [REG INSEAM / 3/26](https://fitggins.com/products/judy-blue-full-size-tummy-control-bootcut-jeans-plus-size?variant=52311677829448)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70b3a146-8f1b-425b-8904-702628674b44-Max.webp?v=1768221243
     Price: $47.26 USD
   - [REG INSEAM / 5/27](https://fitggins.com/products/judy-blue-full-size-tummy-control-bootcut-jeans-plus-size?variant=52311677862216)
@@ -13315,8 +13299,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4f53c6b1-74f7-4def-9c29-eac71db19736-Max.webp?v=1768221243
     Price: $49.55 USD
-- [Distressed Buttoned Loose Fit Jeans](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans): Shop our Distressed Buttoned Loose Fit Jeans for a stylish and comfortable look. Perfect for casual outings, these jeans combine practicality with effortless style.
-  Updated: 2026-02-09T08:02:53Z
+- [Distressed Buttoned Loose Fit Jeans — Casual Comfortable Denim](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans): Versatile distressed buttoned loose fit jeans in a soft 95% rayon, 5% polyester blend. Solid pattern, long length, multiple pockets, no stretch. Available S–2XL. Machine wash cold.
+  Updated: 2026-02-17T07:22:43Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13381,8 +13365,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/624da621dc814f9fb6044c1acd2069e4-Max.jpg?v=1768221254
     Price: $43.36 USD
-- [Stylish Ripped Frayed Hem Jeans](https://fitggins.com/products/ripped-frayed-hem-jeans): Discover our chic Ripped Frayed Hem Jeans, perfect for a casual yet stylish look. Crafted with a blend of cotton and polyester for comfort and a trendy distressed finish.
-  Updated: 2026-01-22T07:16:54Z
+- [Ripped Frayed Hem Jeans - Chic Casual Distressed Denim](https://fitggins.com/products/ripped-frayed-hem-jeans): Chic, casual ripped jeans with a raw frayed hem. Made of 72% cotton, 26% polyester, 2% spandex. Slight stretch, long length, machine wash cold. Measurements listed for sizes 4–18.
+  Updated: 2026-02-17T07:22:43Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13419,8 +13403,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/46b98fc561464fc19b32f4958b3b626c-Max.jpg?v=1768221264
     Price: $48.17 USD
-- [Flare Jeans with Pockets](https://fitggins.com/products/flare-jeans-with-pockets): Discover our stylish Flare Jeans with Pockets, designed for comfort and functionality. Perfect for any occasion!
-  Updated: 2026-02-08T08:02:35Z
+- [Flare Jeans with Pockets – Stretch Cotton-Poly Blend](https://fitggins.com/products/flare-jeans-with-pockets): Flare Jeans with Pockets: buttoned, highly stretchy 65% cotton/35% polyester for comfort and durability. Machine wash cold, tumble dry low. Imported. See size chart for measurements.
+  Updated: 2026-02-17T07:22:24Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13485,74 +13469,74 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bd1f2203-1561-4677-8063-52cedfcb209c-Max-Origin.webp?v=1768221273
     Price: $34.55 USD
-- [Distressed Buttoned Loose Fit Jeans](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866): Discover comfort and style with our Distressed Buttoned Loose Fit Jeans. Perfect for casual outings, these jeans blend effortlessly into your lifestyle.
-  Updated: 2026-02-09T08:02:41Z
+- [Distressed Buttoned Loose-Fit Jeans — Casual Comfortable Style](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786): Distressed Buttoned Loose-Fit Jeans with pockets, long length, and a soft 95% rayon/5% polyester fabric. Machine wash cold. Available S–2XL with detailed waist, hip, and length measurements for each size.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/247237d64be54352bab088479e1fd8e1-Max.jpg?v=1768221285
-  - [Medium / S](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683498312)
+  - [Medium / S](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683498312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/247237d64be54352bab088479e1fd8e1-Max.jpg?v=1768221285
     Price: $40.87 USD
-  - [Medium / M](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683531080)
+  - [Medium / M](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683531080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/247237d64be54352bab088479e1fd8e1-Max.jpg?v=1768221285
     Price: $40.87 USD
-  - [Medium / L](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683563848)
+  - [Medium / L](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683563848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/247237d64be54352bab088479e1fd8e1-Max.jpg?v=1768221285
     Price: $40.87 USD
-  - [Medium / XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683596616)
+  - [Medium / XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683596616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/247237d64be54352bab088479e1fd8e1-Max.jpg?v=1768221285
     Price: $40.87 USD
-  - [Medium / 2XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683629384)
+  - [Medium / 2XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683629384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/247237d64be54352bab088479e1fd8e1-Max.jpg?v=1768221285
     Price: $40.87 USD
-  - [Light / S](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683662152)
+  - [Light / S](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683662152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/55cae3af561448f9a4fd5db115761fab-Max.jpg?v=1768221286
     Price: $40.87 USD
-  - [Light / M](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683694920)
+  - [Light / M](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683694920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/55cae3af561448f9a4fd5db115761fab-Max.jpg?v=1768221286
     Price: $40.87 USD
-  - [Light / L](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683727688)
+  - [Light / L](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683727688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/55cae3af561448f9a4fd5db115761fab-Max.jpg?v=1768221286
     Price: $40.87 USD
-  - [Light / XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683760456)
+  - [Light / XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683760456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/55cae3af561448f9a4fd5db115761fab-Max.jpg?v=1768221286
     Price: $40.87 USD
-  - [Light / 2XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683793224)
+  - [Light / 2XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683793224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/55cae3af561448f9a4fd5db115761fab-Max.jpg?v=1768221286
     Price: $40.87 USD
-  - [Dark / S](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683825992)
+  - [Dark / S](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683825992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70ae00893c6a45e8880e1685270c9905-Max.jpg?v=1768221284
     Price: $40.87 USD
-  - [Dark / M](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683858760)
+  - [Dark / M](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683858760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70ae00893c6a45e8880e1685270c9905-Max.jpg?v=1768221284
     Price: $40.87 USD
-  - [Dark / L](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683891528)
+  - [Dark / L](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683891528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70ae00893c6a45e8880e1685270c9905-Max.jpg?v=1768221284
     Price: $40.87 USD
-  - [Dark / XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683924296)
+  - [Dark / XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683924296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70ae00893c6a45e8880e1685270c9905-Max.jpg?v=1768221284
     Price: $40.87 USD
-  - [Dark / 2XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-51866?variant=52311683957064)
+  - [Dark / 2XL](https://fitggins.com/products/distressed-buttoned-loose-fit-jeans-13786?variant=52311683957064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/70ae00893c6a45e8880e1685270c9905-Max.jpg?v=1768221284
     Price: $40.87 USD
-- [Half Elastic Waist Straight Leg Jeans](https://fitggins.com/products/half-elastic-waist-straight-leg-jeans): Discover comfort and style with our Half Elastic Waist Straight Leg Jeans, perfect for any occasion.
-  Updated: 2026-02-09T08:02:44Z
+- [Half Elastic Waist Straight Leg Jeans — Comfortable Rayon Blend](https://fitggins.com/products/half-elastic-waist-straight-leg-jeans): Classic straight-leg jeans with a half elastic waist for all-day comfort. Made from 95% Rayon and 5% Polyester. Machine wash cold, tumble dry low. Size chart included.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13617,8 +13601,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/aadbbc38-bca7-4609-912d-db8d3910d8d3-Max.webp?v=1768221295
     Price: $39.90 USD
-- [Button Fly Cropped Jeans with Pockets](https://fitggins.com/products/button-fly-cropped-jeans-with-pockets): Discover comfort and style with our Button Fly Cropped Jeans with Pockets, perfect for casual outings and designed for a flattering fit.
-  Updated: 2026-01-22T09:35:16Z
+- [Button Fly Cropped Jeans with Pockets](https://fitggins.com/products/button-fly-cropped-jeans-with-pockets): Cropped button fly jeans with functional pockets. 65% cotton, 35% polyester; no stretch. Machine wash cold, tumble dry low. Measurements in inches included for sizes S–2XL.
+  Updated: 2026-02-17T05:38:47Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13683,154 +13667,154 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/539bb829-c529-4538-92a3-a3a168a9b1bf-Max.webp?v=1768221304
     Price: $34.66 USD
-- [Wide Leg Jeans with Pockets](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631): Shop stylish Wide Leg Jeans with Pockets for comfort and functionality. Perfect for any occasion, these jeans are your go-to choice for everyday wear.
-  Updated: 2026-01-26T15:50:26Z
+- [Wide Leg Jeans with Pockets — Buttoned, 95% Cotton](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918): Comfortable wide leg jeans with buttoned closure and practical pockets. 95% cotton, 5% polyester. No stretch. Machine wash cold, tumble dry low. Imported. Available S–2XL.
+  Updated: 2026-02-18T16:49:57Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/20521fb2-8b42-4e0a-8b96-fd667b343704-Max.webp?v=1768221315
-  - [Dusty Blue / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686676808)
+  - [Dusty Blue / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686676808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/20521fb2-8b42-4e0a-8b96-fd667b343704-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Dusty Blue / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686709576)
+  - [Dusty Blue / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686709576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/20521fb2-8b42-4e0a-8b96-fd667b343704-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Dusty Blue / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686742344)
+  - [Dusty Blue / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686742344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/20521fb2-8b42-4e0a-8b96-fd667b343704-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Dusty Blue / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686775112)
+  - [Dusty Blue / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686775112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/20521fb2-8b42-4e0a-8b96-fd667b343704-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Dusty Blue / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686807880)
+  - [Dusty Blue / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686807880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/20521fb2-8b42-4e0a-8b96-fd667b343704-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Taupe / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686840648)
+  - [Taupe / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686840648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d12b8649-0678-42c1-82a4-60f9b0d73858-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Taupe / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686873416)
+  - [Taupe / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686873416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d12b8649-0678-42c1-82a4-60f9b0d73858-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Taupe / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686906184)
+  - [Taupe / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686906184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d12b8649-0678-42c1-82a4-60f9b0d73858-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Taupe / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686938952)
+  - [Taupe / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686938952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d12b8649-0678-42c1-82a4-60f9b0d73858-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Taupe / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311686971720)
+  - [Taupe / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311686971720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d12b8649-0678-42c1-82a4-60f9b0d73858-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Black / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687004488)
+  - [Black / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687004488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d272490-e758-4de6-8bf2-7a76068cd78c-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Black / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687037256)
+  - [Black / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687037256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d272490-e758-4de6-8bf2-7a76068cd78c-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Black / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687070024)
+  - [Black / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687070024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d272490-e758-4de6-8bf2-7a76068cd78c-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Black / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687102792)
+  - [Black / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687102792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d272490-e758-4de6-8bf2-7a76068cd78c-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Black / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687135560)
+  - [Black / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687135560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7d272490-e758-4de6-8bf2-7a76068cd78c-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Light Blue / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687168328)
+  - [Light Blue / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687168328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bff56733-3a4b-494c-9049-c1d46a5688cb-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Light Blue / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687201096)
+  - [Light Blue / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687201096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bff56733-3a4b-494c-9049-c1d46a5688cb-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Light Blue / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687233864)
+  - [Light Blue / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687233864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bff56733-3a4b-494c-9049-c1d46a5688cb-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Light Blue / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687266632)
+  - [Light Blue / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687266632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bff56733-3a4b-494c-9049-c1d46a5688cb-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Light Blue / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687299400)
+  - [Light Blue / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687299400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/bff56733-3a4b-494c-9049-c1d46a5688cb-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Olive Brown / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687332168)
+  - [Olive Brown / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687332168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/64d0c6df-5e5f-41df-b715-c5bbbb5b7072-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Olive Brown / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687364936)
+  - [Olive Brown / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687364936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/64d0c6df-5e5f-41df-b715-c5bbbb5b7072-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Olive Brown / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687397704)
+  - [Olive Brown / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687397704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/64d0c6df-5e5f-41df-b715-c5bbbb5b7072-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Olive Brown / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687430472)
+  - [Olive Brown / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687430472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/64d0c6df-5e5f-41df-b715-c5bbbb5b7072-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Olive Brown / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687463240)
+  - [Olive Brown / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687463240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/64d0c6df-5e5f-41df-b715-c5bbbb5b7072-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Cream / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687496008)
+  - [Cream / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687496008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cca9f78b-72e3-41eb-a85e-51451f292b64-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Cream / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687528776)
+  - [Cream / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687528776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cca9f78b-72e3-41eb-a85e-51451f292b64-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Cream / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687561544)
+  - [Cream / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687561544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cca9f78b-72e3-41eb-a85e-51451f292b64-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Cream / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687594312)
+  - [Cream / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687594312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cca9f78b-72e3-41eb-a85e-51451f292b64-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Cream / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687627080)
+  - [Cream / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687627080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cca9f78b-72e3-41eb-a85e-51451f292b64-Max.webp?v=1768221315
     Price: $42.20 USD
-  - [Leopard / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687659848)
+  - [Leopard / S](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687659848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ce66c74-37d6-436f-b55d-81ddf03170bc-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Leopard / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687692616)
+  - [Leopard / M](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687692616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ce66c74-37d6-436f-b55d-81ddf03170bc-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Leopard / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687725384)
+  - [Leopard / L](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687725384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ce66c74-37d6-436f-b55d-81ddf03170bc-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Leopard / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687758152)
+  - [Leopard / XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687758152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ce66c74-37d6-436f-b55d-81ddf03170bc-Max.webp?v=1768221316
     Price: $42.20 USD
-  - [Leopard / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-31631?variant=52311687790920)
+  - [Leopard / 2XL](https://fitggins.com/products/wide-leg-jeans-with-pockets-28918?variant=52311687790920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3ce66c74-37d6-436f-b55d-81ddf03170bc-Max.webp?v=1768221316
     Price: $42.20 USD
-- [High Waist Jeans with Pockets | Stylish & Comfortable](https://fitggins.com/products/high-waist-jeans-with-pockets): Discover the perfect blend of style and comfort with our High Waist Jeans with Pockets. Ideal for any occasion, these jeans flatter your figure while providing practicality.
-  Updated: 2026-01-22T17:55:45Z
+- [High Waist Jeans with Pockets — Buttoned, Pocketed](https://fitggins.com/products/high-waist-jeans-with-pockets): High Waist Jeans with Pockets: buttoned front, functional pockets, no stretch. Made from 65% cotton / 35% polyester. Machine wash cold; tumble dry low. See size chart for measurements.
+  Updated: 2026-02-17T05:38:59Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -14035,8 +14019,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4b39593f-6683-4a33-8696-4000bf5d61d4-Max.webp?v=1768221328
     Price: $36.01 USD
-- [One-Shoulder Split Maxi Dress for Effortless Elegance](https://fitggins.com/products/one-shoulder-split-maxi-dress): Discover the One-Shoulder Split Maxi Dress, designed for comfort and style. Perfect for any occasion, this dress enhances your lifestyle effortlessly.
-  Updated: 2026-01-22T07:21:21Z
+- [One-Shoulder Split Maxi Dress - Elegant, Stretchy, Opaque](https://fitggins.com/products/one-shoulder-split-maxi-dress): Embrace effortless elegance with the One-Shoulder Split Maxi Dress. Slightly stretchy, opaque, unlined, and made from 86% polyester/14% elastane. Easy care and imported quality.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14057,8 +14041,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/af5353e7be9843deb066f6d831ab01b6-Max.jpg?v=1768221364
     Price: $40.19 USD
-- [Devine Ruched Ruffled Balloon Sleeve Mini Dress](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Discover the Devine Ruched Ruffled Balloon Sleeve Mini Dress, perfect for enhancing your style and confidence at any event.
-  Updated: 2026-02-06T22:44:10Z
+- [Devine Ruched Ruffled Balloon Sleeve Mini Dress - Flirty Day-to-Night](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): A playful mini dress with ruched bodice, ruffled layers and balloon sleeves. Opaque, slightly stretchy, unlined construction in 95% polyester, 5% elastane. Machine wash cold. Available in S–XL with detailed measurements.
+  Updated: 2026-02-17T05:38:50Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14127,8 +14111,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1768221375
     Price: $32.84 USD
-- [Spaghetti Strap Slit Mesh Dress for Effortless Elegance](https://fitggins.com/products/spaghetti-strap-slit-mesh-dress): Discover the Spaghetti Strap Slit Mesh Dress, perfect for any occasion. Featuring a split design and slightly stretchy fabric for a comfortable fit.
-  Updated: 2026-01-22T09:34:59Z
+- [Spaghetti Strap Slit Mesh Dress — Lightweight Summer Dress](https://fitggins.com/products/spaghetti-strap-slit-mesh-dress): Lightweight Spaghetti Strap Slit Mesh Dress in 100% Polyamide. Slight stretch, unlined, opaque finish. Machine wash cold. Measurements for XS–L provided. Perfect for evenings or warm days.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14165,8 +14149,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/676a43be0d53436494d66a9ddf0d6339-Max.jpg?v=1768221384
     Price: $42.06 USD
-- [Off-Shoulder Split Maxi Dress](https://fitggins.com/products/off-shoulder-split-maxi-dress): Shop the Off-Shoulder Split Maxi Dress for a stylish and comfortable look perfect for any occasion. Available in various sizes.
-  Updated: 2026-02-02T14:04:41Z
+- [Off-Shoulder Split Maxi Dress - Beach & Garden Party Maxi](https://fitggins.com/products/off-shoulder-split-maxi-dress): A lightweight, opaque Off-Shoulder Split Maxi Dress with slight stretch (95% polyester, 5% elastane). Breathable unlined body, easy-care machine wash. Measurements for XS–L included.
+  Updated: 2026-02-17T07:22:25Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14203,8 +14187,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5022663867124b67925f3c10a7d4afbd-Max.jpg?v=1768221394
     Price: $41.91 USD
-- [Twisted Slit Plunge Maxi Dress](https://fitggins.com/products/twisted-slit-plunge-maxi-dress): Discover the Twisted Slit Plunge Maxi Dress, featuring a trendy slit design and comfortable fit. Perfect for any occasion!
-  Updated: 2026-01-22T07:20:01Z
+- [Twisted Slit Plunge Maxi Dress — Elegant Evening & Warm-Weather Staple](https://fitggins.com/products/twisted-slit-plunge-maxi-dress): A sultry, lightweight maxi with a twisted front, plunging neckline, and slit detail. Opaque, slightly stretchy 95% polyester/5% elastane construction; unlined for a cool, airy feel. Machine wash cold, tumble dry low. Measurements provided for XS–L.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14225,8 +14209,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1fb909e64eaf4156b89a25841a3ec232-Max.webp?v=1768221403
     Price: $38.86 USD
-- [Ruched Mock Neck Long Sleeve Dress - Chic & Comfortable](https://fitggins.com/products/ruched-mock-neck-long-sleeve-dress): Discover the Ruched Mock Neck Long Sleeve Dress, perfect for any occasion. Made with stretchy, breathable fabric for ultimate comfort.
-  Updated: 2026-01-22T09:18:30Z
+- [Ruched Mock Neck Long Sleeve Dress](https://fitggins.com/products/ruched-mock-neck-long-sleeve-dress): A versatile ruched mock neck dress with long sleeves, opaque stretch fabric (80% Polyester, 20% Spandex), unlined for breathability. Machine wash cold; tumble dry low. Sizes S–L.
+  Updated: 2026-02-18T01:15:16Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14255,8 +14239,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/61195e5b631f448688e81abc766051e6-Max.webp?v=1768221414
     Price: $32.72 USD
-- [Square Neck Long Sleeve Dress for Every Occasion](https://fitggins.com/products/square-neck-long-sleeve-dress): Discover the perfect blend of elegance and comfort with the Square Neck Long Sleeve Dress. Ideal for any occasion, this dress enhances your silhouette effortlessly.
-  Updated: 2026-01-22T07:20:08Z
+- [Square Neck Long Sleeve Dress — Elegant Everyday Style](https://fitggins.com/products/square-neck-long-sleeve-dress): Discover the Square Neck Long Sleeve Dress: an opaque, slightly stretchy 95% polyester / 5% elastane dress with a timeless square neckline. Lightweight (not lined), easy-care, and perfect for casual or dressy occasions. Available in XS–L with detailed measurements.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14309,8 +14293,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/958a84fd313046c899a05f8fb9645611-Max.jpg?v=1768221426
     Price: $48.35 USD
-- [Slit Ruched Mock Neck Sleeveless Dress](https://fitggins.com/products/slit-ruched-mock-neck-sleeveless-dress): Discover the Slit Ruched Mock Neck Sleeveless Dress, perfect for elevating your style for any occasion. Versatile and chic!
-  Updated: 2026-01-22T09:24:55Z
+- [Slit Ruched Mock Neck Sleeveless Dress](https://fitggins.com/products/slit-ruched-mock-neck-sleeveless-dress): Chic sleeveless dress with mock neck, side slit and ruched detail. Opaque, unlined 100% polyester; fitted silhouette with no stretch. Machine wash cold; tumble dry low. Imported.
+  Updated: 2026-02-18T10:57:26Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14395,8 +14379,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3dc54e45-be72-42e6-982a-edfff476e7b2-Max.webp?v=1768221435
     Price: $38.89 USD
-- [Stylish Halter Neck Split Dress](https://fitggins.com/products/halter-neck-split-dress): Discover the chic Halter Neck Split Dress, combining elegance with comfort. Perfect for any occasion, this dress is your new go-to for stylish outings.
-  Updated: 2026-02-03T04:20:06Z
+- [Halter Neck Split Dress — Elegant Summer Halter Dress](https://fitggins.com/products/halter-neck-split-dress): Make a graceful statement with the Halter Neck Split Dress: a lightweight, slightly stretchy halter silhouette with a tasteful side split. Made of 95% polyester, 5% elastane; machine wash cold. Imported.
+  Updated: 2026-02-17T07:22:26Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14443,8 +14427,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e07284c3-d420-437c-abba-d0d87f536434-Max.webp?v=1768221454
     Price: $52.52 USD
-- [Stylish One-Shoulder Ruched Maxi Dress](https://fitggins.com/products/one-shoulder-ruched-maxi-dress): Discover the elegance of our One-Shoulder Ruched Maxi Dress, perfect for any occasion with its stylish design and comfortable fit.
-  Updated: 2026-01-22T09:39:07Z
+- [One-Shoulder Ruched Maxi Dress | Elegant Summer Maxi](https://fitggins.com/products/one-shoulder-ruched-maxi-dress): Make every warm-weather event memorable with this One-Shoulder Ruched Maxi Dress. Opaque, slightly stretchy, unlined for lightweight comfort. 95% polyester, 5% elastane. Machine wash cold.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14469,8 +14453,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/54c4df854c314d3293a880b24dff07d6-Max.jpg?v=1768221464
     Price: $48.83 USD
-- [Ruffled Plunge Long Sleeve Dress](https://fitggins.com/products/ruffled-plunge-long-sleeve-dress): Discover the elegance of the Ruffled Plunge Long Sleeve Dress, perfect for any occasion.
-  Updated: 2026-01-22T09:23:11Z
+- [Ruffled Plunge Long Sleeve Dress](https://fitggins.com/products/ruffled-plunge-long-sleeve-dress): Elegant ruffled plunge long sleeve dress with opaque finish, slight stretch, unlined body. 95% polyester, 5% elastane. Dry clean only. Measurements provided for XS-L. Imported.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14491,8 +14475,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dcd9468d-cc71-4a3d-8c2e-5660cd0d1de7-Max.webp?v=1768221474
     Price: $54.75 USD
-- [Semi-Sheer Slit Round Neck Dress for Effortless Style](https://fitggins.com/products/semi-sheer-slit-round-neck-dress): Discover the Semi-Sheer Slit Round Neck Dress, perfect for stylish outings. Enjoy its comfort, allure, and effortless elegance.
-  Updated: 2026-01-22T09:23:11Z
+- [Semi-Sheer Slit Round Neck Dress — Elegant Evening Dress](https://fitggins.com/products/semi-sheer-slit-round-neck-dress): A lightweight, semi-sheer slit dress with stretch and an unlined body for breathable comfort. Made of 95% polyester and 5% elastane. Machine wash cold, tumble dry low. Measurements available for XS–L.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14513,30 +14497,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/81cc0ffa6a2d44ec926ed7a31243e361-Max.webp?v=1768221484
     Price: $42.66 USD
-- [Elegant Off-Shoulder Split Maxi Dress](https://fitggins.com/products/off-shoulder-split-maxi-dress-15992): Discover the elegance of our Off-Shoulder Split Maxi Dress, perfect for summer outings and special occasions.
-  Updated: 2026-01-22T07:20:37Z
+- [Off-Shoulder Split Maxi Dress - Elegant Summer Maxi](https://fitggins.com/products/off-shoulder-split-maxi-dress-12223): Elevate summer occasions with the Off-Shoulder Split Maxi Dress. Opaque, slightly stretchy, unlined design in a durable blend (57.2% polyester, 33.8% metallized fibers, 9% elastane). Machine wash cold, tumble dry low. Measurements provided for XS–L.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/690e9660b18c4464a9e9f8ba9852caeb-Max.jpg?v=1768221495
-  - [Black / XS](https://fitggins.com/products/off-shoulder-split-maxi-dress-15992?variant=52311736713544)
+  - [Black / XS](https://fitggins.com/products/off-shoulder-split-maxi-dress-12223?variant=52311736713544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/690e9660b18c4464a9e9f8ba9852caeb-Max.jpg?v=1768221495
     Price: $46.09 USD
-  - [Black / S](https://fitggins.com/products/off-shoulder-split-maxi-dress-15992?variant=52311736746312)
+  - [Black / S](https://fitggins.com/products/off-shoulder-split-maxi-dress-12223?variant=52311736746312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/690e9660b18c4464a9e9f8ba9852caeb-Max.jpg?v=1768221495
     Price: $46.09 USD
-  - [Black / M](https://fitggins.com/products/off-shoulder-split-maxi-dress-15992?variant=52311736779080)
+  - [Black / M](https://fitggins.com/products/off-shoulder-split-maxi-dress-12223?variant=52311736779080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/690e9660b18c4464a9e9f8ba9852caeb-Max.jpg?v=1768221495
     Price: $46.09 USD
-  - [Black / L](https://fitggins.com/products/off-shoulder-split-maxi-dress-15992?variant=52311736811848)
+  - [Black / L](https://fitggins.com/products/off-shoulder-split-maxi-dress-12223?variant=52311736811848)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/690e9660b18c4464a9e9f8ba9852caeb-Max.jpg?v=1768221495
     Price: $46.09 USD
-- [Ruched Cutout Single Shoulder Dress](https://fitggins.com/products/ruched-cutout-single-shoulder-dress): Shop the stylish Ruched Cutout Single Shoulder Dress, designed to enhance your silhouette with a unique cutout design. Perfect for any occasion!
-  Updated: 2026-02-01T03:21:01Z
+- [Ruched Cutout Single Shoulder Dress - Chic Evening Wear](https://fitggins.com/products/ruched-cutout-single-shoulder-dress): Make a statement in the Ruched Cutout Single Shoulder Dress. Ruched detailing, a shoulder cutout, and a comfortable 95% polyester/5% elastane blend create a lightweight, flattering choice for parties and evenings out.
+  Updated: 2026-02-20T01:36:05Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14589,8 +14573,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1c97d913-4373-4e76-80b2-9a133dbe2f6d-Max.webp?v=1768221505
     Price: $36.04 USD
-- [Elegant Tie Front Maxi Dress](https://fitggins.com/products/tie-front-round-neck-long-sleeve-maxi-dress): Shop our Tie Front Round Neck Long Sleeve Maxi Dress for an elegant and fashionable look. Made from 100% polyester, this dress offers comfort, stretch, and easy maintenance.
-  Updated: 2026-02-06T08:08:39Z
+- [Tie Front Round Neck Long Sleeve Maxi Dress](https://fitggins.com/products/tie-front-round-neck-long-sleeve-maxi-dress): A versatile, opaque maxi dress with a tie front, round neckline, long sleeves, and slight stretch. Unlined 100% polyester for a lightweight, durable feel. Machine wash cold, tumble dry low. Measurements provided for S–XL.
+  Updated: 2026-02-17T07:22:27Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14691,8 +14675,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/91ae2f1a3e28464793531bff585b92f6-Max.webp?v=1768221516
     Price: $44.73 USD
-- [Twist Front Cutout Long Sleeve Dress](https://fitggins.com/products/twist-front-cutout-long-sleeve-dress): Shop the Twist Front Cutout Long Sleeve Dress for a stylish look. Trendy cutout design, comfortable fit, and easy care make it perfect for any occasion.
-  Updated: 2026-01-22T09:29:09Z
+- [Twist Front Cutout Long Sleeve Dress - Stylish & Comfortable](https://fitggins.com/products/twist-front-cutout-long-sleeve-dress): Make a modern statement with the Twist Front Cutout Long Sleeve Dress. Opaque yet lightweight, slightly stretchy 100% polyester, easy care. Measurements available for XS–L.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14713,8 +14697,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d40ceb290a54f4a8a6d9a0771934da8-Max.jpg?v=1768221525
     Price: $50.81 USD
-- [Cowl Neck Split Maxi Dress - Elegant and Comfortable](https://fitggins.com/products/cowl-neck-split-maxi-dress): Discover the perfect blend of style and comfort with our Cowl Neck Split Maxi Dress, featuring a flattering fit and chic design.
-  Updated: 2026-01-22T09:29:21Z
+- [Cowl Neck Split Maxi Dress — Elegant Maxi for Evenings & Events](https://fitggins.com/products/cowl-neck-split-maxi-dress): Make an entrance in the Cowl Neck Split Maxi Dress. Draped cowl neckline, tasteful front split, opaque 100% polyester with slight stretch, unlined for lightweight comfort. Machine wash cold; tumble dry low. Available XS–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14739,8 +14723,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/eb53785c07fd40d5b3ed139a77f1ded1-Max.jpg?v=1768221534
     Price: $44.99 USD
-- [Strappy Backless Maxi Dress - Chic and Comfortable](https://fitggins.com/products/strappy-backless-maxi-dress): Explore our Strappy Backless Maxi Dress, featuring a stylish backless design and comfortable fit. Perfect for summer outings and casual events.
-  Updated: 2026-01-22T13:07:59Z
+- [Strappy Backless Maxi Dress - Elegant Summer Maxi](https://fitggins.com/products/strappy-backless-maxi-dress): Feel effortlessly glamorous in our Strappy Backless Maxi Dress. Lightweight, slightly stretchy 95% polyester / 5% elastane fabric, opaque sheerness, and unlined body. Machine wash cold. Imported. Available XS–L.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14761,8 +14745,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8c792fd9a2b54f57b425197ff11be903-Max.jpg?v=1768221545
     Price: $43.52 USD
-- [Lace Cutout V-Neck Short Sleeve Dress | Elegant Fashion](https://fitggins.com/products/lace-cutout-v-neck-short-sleeve-dress): Discover the stylish Lace Cutout V-Neck Short Sleeve Dress with elegant lace detailing and a flattering high-low hem. Perfect for any occasion!
-  Updated: 2026-01-22T09:33:02Z
+- [Lace Cutout V-Neck Short Sleeve Dress — Elegant Summer Evening Dress](https://fitggins.com/products/lace-cutout-v-neck-short-sleeve-dress): Elegant Lace Cutout V-Neck Short Sleeve Dress with high-low hem and semi-sheer details. Unlined, tailored fit; 95% polyester, 5% elastane. Machine wash cold, tumble dry low. Measurements available for XS–XL.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14807,8 +14791,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/339de703-9b57-4818-aa01-60c0931234c9-Max.webp?v=1768221555
     Price: $43.91 USD
-- [Asymmetrical Ruched Slit Dress - Trendy & Comfortable](https://fitggins.com/products/asymmetrical-ruched-slit-dress): Discover the Asymmetrical Ruched Slit Dress, combining style and comfort for any occasion. Shop now for a perfect fit!
-  Updated: 2026-01-22T07:19:02Z
+- [Asymmetrical Ruched Slit Dress - Elegant Evening Dress](https://fitggins.com/products/asymmetrical-ruched-slit-dress): A modern, lightweight asymmetrical dress with ruching and slight stretch. Opaque 100% polyester, unlined, machine washable. Available XS–XL with detailed measurements for a tailored fit.
+  Updated: 2026-02-17T07:22:28Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14833,8 +14817,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf713ebfdcaf4e6aac061d4b75a49f53-Max.jpg?v=1768221566
     Price: $44.18 USD
-- [One Shoulder Ruched Slit Maxi Dress](https://fitggins.com/products/one-shoulder-ruched-slit-maxi-dress): Elevate your style with the One Shoulder Ruched Slit Maxi Dress, featuring elegant ruched detailing and a comfortable fit.
-  Updated: 2026-01-22T07:19:22Z
+- [One Shoulder Ruched Slit Maxi Dress - Elegant Evening Gown](https://fitggins.com/products/one-shoulder-ruched-slit-maxi-dress): Make a memorable entrance in this One Shoulder Ruched Slit Maxi Dress. Opaque, slightly stretchy 95% polyester/5% elastane fabric, unlined and lightweight. Machine wash cold; tumble dry low. Imported. Available XS–L with detailed measurements.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14855,8 +14839,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e6d7a5b7a7134fcfba03e36af6493df9-Max.webp?v=1768221575
     Price: $36.64 USD
-- [Tie Back Long Sleeve Slit Dress - Elegant Fashion](https://fitggins.com/products/tie-back-long-sleeve-slit-dress): Discover elegance with our Tie Back Long Sleeve Slit Dress, featuring a trendy slit design and comfortable fit. Perfect for any occasion.
-  Updated: 2026-01-22T07:20:11Z
+- [Tie Back Long Sleeve Slit Dress - Elegant Evening Dress](https://fitggins.com/products/tie-back-long-sleeve-slit-dress): A versatile evening dress with a flattering tie-back, elegant slit, and slightly stretchy opaque fabric. Made of 95% polyester and 5% elastane. Machine wash cold, tumble dry low. Measurements listed for XS–L.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14877,8 +14861,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25805aa4eacb435bbc008bffa605f79f-Max.webp?v=1768221585
     Price: $42.96 USD
-- [Cutout Sequin Mesh Mini Dress](https://fitggins.com/products/cutout-sequin-mesh-mini-dress): Discover the Cutout Sequin Mesh Mini Dress, featuring sequin details and a semi-sheer design for a stunning look. Perfect for parties and events!
-  Updated: 2026-01-29T12:27:00Z
+- [Cutout Sequin Mesh Mini Dress — Sparkling Party Mini](https://fitggins.com/products/cutout-sequin-mesh-mini-dress): Shine at every occasion in this Cutout Sequin Mesh Mini Dress. Semi-sheer, slightly stretchy, and unlined for breathability. 95% polyester, 5% elastane. Machine wash cold; tumble dry low. Imported.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14899,8 +14883,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2b59cb768e9d40e6929366d06d43e32d-Max.webp?v=1768221595
     Price: $46.45 USD
-- [Lace-Up Backless Mesh Dress](https://fitggins.com/products/lace-up-backless-mesh-dress): Shop the Lace-Up Backless Mesh Dress for an elegant and confident look. Perfect for any occasion, made from durable polyamide, and featuring a flattering fit.
-  Updated: 2026-01-22T10:01:27Z
+- [Lace-Up Backless Mesh Dress - Smocked, Sheer, 100% Polyamide](https://fitggins.com/products/lace-up-backless-mesh-dress): Make an entrance in the Lace-Up Backless Mesh Dress: smocked detail, subtle sheer overlay, slight stretch, and partial lining. Made from 100% polyamide. Available XS–XL.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14925,8 +14909,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c5d15a0063bb4d1da282e3226b864b9b-Max.jpg?v=1768221607
     Price: $42.67 USD
-- [One-Shoulder Long Sleeve Dress](https://fitggins.com/products/one-shoulder-long-sleeve-dress): Shop the One-Shoulder Long Sleeve Dress. Perfect for any occasion, this elegant dress features a daring slit and a slightly stretchy fit.
-  Updated: 2026-01-22T19:31:41Z
+- [One-Shoulder Long Sleeve Dress – Elegant Evening Wear](https://fitggins.com/products/one-shoulder-long-sleeve-dress): Make an entrance in this one-shoulder long sleeve dress. Opaque, slightly stretchy 95% polyester/5% elastane fabric with a daring slit. Machine wash cold, tumble dry low. Measurements listed for XS–XL.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14991,8 +14975,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/a1a27fc2a2794decb837984a85a22c55-Max.webp?v=1768221617
     Price: $43.71 USD
-- [Sequin Backless Split Maxi Dress - Glamorous Style](https://fitggins.com/products/sequin-backless-split-maxi-dress): Discover the elegance of the Sequin Backless Split Maxi Dress, perfect for any evening event. Experience comfort and style with every wear.
-  Updated: 2026-01-22T07:21:04Z
+- [Sequin Backless Split Maxi Dress – Elegant Evening Gown](https://fitggins.com/products/sequin-backless-split-maxi-dress): Turn heads in the Sequin Backless Split Maxi Dress: sequin detail, lace-up back, opaque lined body, 95% polyester/5% elastane. Machine wash cold; tumble dry low. Available XS–L with precise measurements for a tailored fit.
+  Updated: 2026-02-17T07:22:29Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -15061,8 +15045,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/34a0ae2c9b03465b875c12ac2a196e09-Max.jpg?v=1768221629
     Price: $51.66 USD
-- [Surplice Neck Sleeveless Maxi Dress | Chic & Comfortable](https://fitggins.com/products/surplice-neck-sleeveless-maxi-dress): Discover the elegance of the Surplice Neck Sleeveless Maxi Dress. Crafted for comfort and style, it's perfect for any occasion.
-  Updated: 2026-01-22T07:20:42Z
+- [Surplice Neck Sleeveless Maxi Dress - Elegant Lightweight Maxi](https://fitggins.com/products/surplice-neck-sleeveless-maxi-dress): Elevate warm-weather looks with the Surplice Neck Sleeveless Maxi Dress. Opaque, slightly stretchy, unlined 100% polyester for comfortable, low-maintenance wear. Machine wash cold.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -15083,8 +15067,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/047b979c12874ff1a29a92a4ab427ee3-Max.jpg?v=1768221637
     Price: $44.54 USD
-- [Ruched Surplice Long Sleeve Midi Dress](https://fitggins.com/products/ruched-surplice-long-sleeve-midi-dress): Discover the perfect blend of style and comfort with our Ruched Surplice Long Sleeve Midi Dress. Ideal for any occasion.
-  Updated: 2026-01-29T02:20:51Z
+- [Ruched Surplice Long Sleeve Midi Dress - Flattering, Lightweight](https://fitggins.com/products/ruched-surplice-long-sleeve-midi-dress): A versatile ruched surplice midi dress with long sleeves, opaque coverage, slight stretch, and a lightweight unlined body. Made of 90% polyester and 10% elastane. Machine wash cold. Measurements available for S–XL.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -15137,8 +15121,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9d8268936d8f464c89d977dee5b9ce47-Max.webp?v=1768221647
     Price: $34.31 USD
-- [Contrast Off-Shoulder Slit Dress - Elegant and Stylish](https://fitggins.com/products/contrast-off-shoulder-slit-dress): Discover the elegance of our Contrast Off-Shoulder Slit Dress, designed for comfort and style. Perfect for any occasion!
-  Updated: 2026-01-22T09:32:07Z
+- [Contrast Off-Shoulder Slit Dress - Elegant Evening Wear](https://fitggins.com/products/contrast-off-shoulder-slit-dress): Make a statement in the Contrast Off-Shoulder Slit Dress. Off-shoulder design, tasteful slit, lightweight unlined body, 95% polyester/5% elastane. Available in XS–L with detailed measurements. Machine wash cold, tumble dry low.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -15159,8 +15143,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/61880b53b3124c3481de036772cd66f7-Max.jpg?v=1768221656
     Price: $39.03 USD
-- [Shiny Leopard Hooded Coat with Pockets](https://fitggins.com/products/shiny-leopard-hooded-coat-with-pockets): Discover the Shiny Leopard Hooded Coat with Pockets, a stylish and warm addition to your wardrobe, perfect for chilly days and casual outings.
-  Updated: 2026-02-12T13:37:51Z
+- [Shiny Leopard Hooded Coat with Pockets](https://fitggins.com/products/shiny-leopard-hooded-coat-with-pockets): Cozy and stylish Shiny Leopard Hooded Coat with Pockets. Thick 100% polyester construction, machine washable, imported. Available in S, M, L with detailed measurements for a comfortable fit.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15177,8 +15161,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f5e5ff2770d84be6b8ef59bf9f5fbc54-Max.jpg?v=1768221663
     Price: $68.41 USD
-- [Plaid Open Front Hooded Coat](https://fitggins.com/products/plaid-open-front-hooded-coat): Explore comfort and style with the Plaid Open Front Hooded Coat, perfect for layering in any season.
-  Updated: 2026-01-22T09:18:58Z
+- [Plaid Open Front Hooded Coat — Cozy Layering Coat](https://fitggins.com/products/plaid-open-front-hooded-coat): A versatile plaid open-front coat with a cozy hood and regular thickness. Made from 100% polyester, machine wash cold and tumble dry low. Available in sizes S to 2XL with detailed measurements for a comfortable, stylish fit.
+  Updated: 2026-02-17T07:22:30Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15203,8 +15187,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/97750b72cb824251b64e8f1e91173eab-Max.jpg?v=1768221672
     Price: $40.88 USD
-- [Lapel Collar Exposed Seam Buttoned Coat](https://fitggins.com/products/lapel-collar-exposed-seam-buttoned-coat): Shop the stylish Lapel Collar Exposed Seam Buttoned Coat, designed for warmth and comfort. Perfect for any occasion, easy to maintain, and made from durable materials.
-  Updated: 2026-01-22T07:22:33Z
+- [Lapel Collar Exposed Seam Buttoned Coat - Versatile Polyester Coat](https://fitggins.com/products/lapel-collar-exposed-seam-buttoned-coat): A versatile lapel-collar coat with exposed seam details, thick warmth and a lightweight unlined body. Made from 100% polyester; machine wash cold, tumble dry low. Available in S, M, L with detailed measurements.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15245,8 +15229,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dd8fc32940f44f1b58171166410c076-Max.webp?v=1768221683
     Price: $50.00 USD
-- [Shiny Leopard Print Hooded Teddy Coat](https://fitggins.com/products/shiny-leopard-print-hooded-teddy-coat): Elevate your style with the Shiny Leopard Print Hooded Teddy Coat. Perfect for any occasion, this lightweight coat combines comfort with a trendy design.
-  Updated: 2026-02-02T08:01:49Z
+- [Shiny Leopard Print Hooded Teddy Coat - Cozy, Stylish Outerwear](https://fitggins.com/products/shiny-leopard-print-hooded-teddy-coat): Stand out in the Shiny Leopard Print Hooded Teddy Coat. Lightweight unlined 100% polyester with a hood, normal thickness, easy machine care, and detailed size measurements. Perfect for stylish warmth on city outings and casual days.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15263,8 +15247,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ca71e8cff84245daaabecca24a9c6fd8-Max.jpg?v=1768221693
     Price: $68.10 USD
-- [Fuzzy Button Up Long Sleeve Longline Coat - Stylish Comfort](https://fitggins.com/products/fuzzy-button-up-long-sleeve-longline-coat): Discover the Fuzzy Button Up Long Sleeve Longline Coat. Perfect for layering, made from 100% polyester for comfort and durability. Easy care and a must-have for your wardrobe.
-  Updated: 2026-02-12T22:18:28Z
+- [Fuzzy Button Up Longline Coat - Cozy Long Sleeve Outerwear](https://fitggins.com/products/fuzzy-button-up-long-sleeve-longline-coat): Soft 100% polyester longline coat with button front, unlined body, normal weight for layering. Machine wash cold, tumble dry low. Sizes S–2XL with measurements in inches.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15289,8 +15273,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e03967ca-c628-4350-9415-2533dee2fc74-Max.webp?v=1768221703
     Price: $40.73 USD
-- [Ivy Lane Zip-Up Collared Teddy Jacket](https://fitggins.com/products/ivy-lane-zip-up-collared-teddy-jacket): Embrace cozy chic with the Ivy Lane Zip-Up Collared Teddy Jacket. Perfect for layering, this stylish piece features a zipper, pockets, and a soft teddy finish.
-  Updated: 2026-01-22T07:16:45Z
+- [Ivy Lane Zip-Up Collared Teddy Jacket — Cozy Long Teddy Jacket](https://fitggins.com/products/ivy-lane-zip-up-collared-teddy-jacket): Stay cozy in the Ivy Lane Zip-Up Collared Teddy Jacket. 100% polyester, long length, collared neckline, dropped shoulders, zipper and pockets. Machine wash cold. Imported. Available S–XL with detailed measurements.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15343,8 +15327,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/51c3c905e9ad4efbbe517f7f21bc588d-Max.jpg?v=1768221716
     Price: $44.80 USD
-- [Plaid Double-Breasted Long Sleeve Coat for Stylish Comfort](https://fitggins.com/products/plaid-double-breasted-long-sleeve-coat): Discover the Plaid Double-Breasted Long Sleeve Coat, blending elegance and comfort. Made with durable materials, this coat is perfect for any occasion.
-  Updated: 2026-01-22T07:21:05Z
+- [Plaid Double-Breasted Long Sleeve Coat](https://fitggins.com/products/plaid-double-breasted-long-sleeve-coat): Classic plaid double-breasted long sleeve coat with full lining, buttoned closure, and 100% polyester construction. Standard thickness for versatile warmth. Machine wash cold, tumble dry low. Imported. Measurements listed in inches for sizes S–XL.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15381,8 +15365,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58ee0bc5-9124-4770-9ec0-f605e5ce28fb-Max.webp?v=1768221724
     Price: $72.30 USD
-- [Ivy Lane Full Size Lapel Collar Sherpa Coat](https://fitggins.com/products/ivy-lane-full-size-lapel-collar-sherpa-coat): Stay warm and stylish with the Ivy Lane Lapel Collar Sherpa Coat. Perfect for casual outings, this coat features a double-breasted design and cozy pockets.
-  Updated: 2026-02-12T13:49:40Z
+- [Ivy Lane Lapel Collar Sherpa Coat - Full Sizes](https://fitggins.com/products/ivy-lane-full-size-lapel-collar-sherpa-coat): Cozy, longline Ivy Lane sherpa coat with lapel collar and double-breasted front. 100% polyester, machine washable. Available S–5XL with full measurements for each size.
+  Updated: 2026-02-17T07:22:31Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15587,8 +15571,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3de490e3c5ca4691bada9f34ee99259b-Max_4edbdb8d-6857-4228-b6a4-50453638027f.jpg?v=1768221740
     Price: $38.02 USD
-- [Stylish Plaid Collared Cropped Jacket](https://fitggins.com/products/plaid-collared-neck-cropped-jacket): Discover the Plaid Collared Neck Cropped Jacket for a chic addition to your wardrobe. Perfect for layering, lightweight, and easy to care for.
-  Updated: 2026-01-22T09:25:11Z
+- [Plaid Collared Neck Cropped Jacket — Casual Chic Layer](https://fitggins.com/products/plaid-collared-neck-cropped-jacket): Add instant casual-chic to your wardrobe with this plaid collared cropped jacket. Lightweight, unlined, 100% polyester—easy care and perfect for layering on breezy days.
+  Updated: 2026-02-17T07:22:32Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15609,172 +15593,172 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e375f42f-676f-4b5d-89b9-4fc42930e479-Max.webp?v=1768221744
     Price: $37.67 USD
-- [Cow Print Collared Neck Button Up Fuzzy Jacket](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket): Shop the Cow Print Collared Neck Button Up Fuzzy Jacket, perfect for blending comfort with style. Ideal for layering or wearing alone, this jacket is a must-have for your wardrobe.
-  Updated: 2026-01-22T09:21:55Z
+- [Cow Print Collared Fuzzy Jacket — Button-Up Cozy Layer](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket): Cozy cow print button-up jacket with collared neck, fuzzy 100% polyester exterior, unlined lightweight body. Machine wash cold, tumble dry low. Available S-XL; measurements in inches.
+  Updated: 2026-02-17T16:50:51Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6bc88fc9-61e1-42d3-92e7-6c89394b5852-Max.webp?v=1768221755
-  - [White / S](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764468040)
+  - [White / S](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764468040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6bc88fc9-61e1-42d3-92e7-6c89394b5852-Max.webp?v=1768221755
     Price: $39.44 USD
-  - [White / M](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764500808)
+  - [White / M](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764500808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6bc88fc9-61e1-42d3-92e7-6c89394b5852-Max.webp?v=1768221755
     Price: $39.44 USD
-  - [White / L](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764533576)
+  - [White / L](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764533576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6bc88fc9-61e1-42d3-92e7-6c89394b5852-Max.webp?v=1768221755
     Price: $39.44 USD
-  - [White / XL](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764566344)
+  - [White / XL](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764566344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6bc88fc9-61e1-42d3-92e7-6c89394b5852-Max.webp?v=1768221755
     Price: $39.44 USD
-  - [Ivory / S](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764599112)
+  - [Ivory / S](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764599112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1bdae1cd-8c31-48eb-bdab-5bbaf8077456-Max.webp?v=1768221754
     Price: $39.44 USD
-  - [Ivory / M](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764631880)
+  - [Ivory / M](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764631880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1bdae1cd-8c31-48eb-bdab-5bbaf8077456-Max.webp?v=1768221754
     Price: $39.44 USD
-  - [Ivory / L](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764664648)
+  - [Ivory / L](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764664648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1bdae1cd-8c31-48eb-bdab-5bbaf8077456-Max.webp?v=1768221754
     Price: $39.44 USD
-  - [Ivory / XL](https://fitggins.com/products/cow-print-collared-neck-button-up-fuzzy-jacket?variant=52311764697416)
+  - [Ivory / XL](https://fitggins.com/products/cow-print-collared-button-up-fuzzy-jacket?variant=52311764697416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1bdae1cd-8c31-48eb-bdab-5bbaf8077456-Max.webp?v=1768221754
     Price: $39.44 USD
-- [Stylish Leopard Furry Collared Coat](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat): Discover the Full Size Leopard Furry Collared Neck Long Sleeve Coat. Perfect for casual outings and layering with a lightweight feel.
-  Updated: 2026-01-22T09:30:04Z
+- [Leopard Furry Collared Long-Sleeve Coat – Full Size](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat): Full-size leopard furry collared long-sleeve coat in 100% polyester. Normal thickness, unlined body, machine wash cold and tumble dry low. Size chart with measurements in inches included.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
-  - [Camel / S](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765713224)
+  - [Camel / S](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765713224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Camel / M](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765745992)
+  - [Camel / M](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765745992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Camel / L](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765778760)
+  - [Camel / L](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765778760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Camel / XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765811528)
+  - [Camel / XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765811528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Camel / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765844296)
+  - [Camel / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765844296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Camel / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765877064)
+  - [Camel / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765877064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be0d3c64-5488-49fd-83eb-62ae17ae5352-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Gray / S](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765909832)
+  - [Gray / S](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765909832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dc40d3b-52f1-4ec3-8f87-1a2a85190971-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Gray / M](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765942600)
+  - [Gray / M](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765942600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dc40d3b-52f1-4ec3-8f87-1a2a85190971-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Gray / L](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311765975368)
+  - [Gray / L](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311765975368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dc40d3b-52f1-4ec3-8f87-1a2a85190971-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Gray / XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766008136)
+  - [Gray / XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766008136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dc40d3b-52f1-4ec3-8f87-1a2a85190971-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Gray / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766040904)
+  - [Gray / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766040904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dc40d3b-52f1-4ec3-8f87-1a2a85190971-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Gray / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766073672)
+  - [Gray / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766073672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2dc40d3b-52f1-4ec3-8f87-1a2a85190971-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Royal Blue / S](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766106440)
+  - [Royal Blue / S](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766106440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be2730bc-d55d-4c29-a4a7-fabb519647d8-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Royal Blue / M](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766139208)
+  - [Royal Blue / M](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766139208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be2730bc-d55d-4c29-a4a7-fabb519647d8-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Royal Blue / L](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766171976)
+  - [Royal Blue / L](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766171976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be2730bc-d55d-4c29-a4a7-fabb519647d8-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Royal Blue / XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766204744)
+  - [Royal Blue / XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766204744)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be2730bc-d55d-4c29-a4a7-fabb519647d8-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Royal Blue / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766237512)
+  - [Royal Blue / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766237512)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be2730bc-d55d-4c29-a4a7-fabb519647d8-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Royal Blue / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766270280)
+  - [Royal Blue / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766270280)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/be2730bc-d55d-4c29-a4a7-fabb519647d8-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Cerise / S](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766303048)
+  - [Cerise / S](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766303048)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb87209a-8482-4a3f-b619-13da20043705-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Cerise / M](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766335816)
+  - [Cerise / M](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766335816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb87209a-8482-4a3f-b619-13da20043705-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Cerise / L](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766368584)
+  - [Cerise / L](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766368584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb87209a-8482-4a3f-b619-13da20043705-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Cerise / XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766401352)
+  - [Cerise / XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766401352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb87209a-8482-4a3f-b619-13da20043705-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Cerise / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766434120)
+  - [Cerise / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766434120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb87209a-8482-4a3f-b619-13da20043705-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Cerise / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766466888)
+  - [Cerise / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766466888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cb87209a-8482-4a3f-b619-13da20043705-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Brown / S](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766499656)
+  - [Brown / S](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766499656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Brown / M](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766532424)
+  - [Brown / M](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766532424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Brown / L](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766565192)
+  - [Brown / L](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766565192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Brown / XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766597960)
+  - [Brown / XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766597960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Brown / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766630728)
+  - [Brown / 2XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766630728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
-  - [Brown / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-neck-long-sleeve-coat?variant=52311766663496)
+  - [Brown / 3XL](https://fitggins.com/products/full-size-leopard-furry-collared-long-sleeve-coat?variant=52311766663496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f7616f35-5673-4849-a07e-65eeed46b40f-Max.webp?v=1768221765
     Price: $40.05 USD
-- [Mock Neck Zip Up Jacket - Stylish & Versatile](https://fitggins.com/products/mock-neck-zip-up-jacket): Discover the Mock Neck Zip Up Jacket, perfect for layering and stylish outings. Made from a comfortable blend, it's easy to care for and designed for your lifestyle.
-  Updated: 2026-02-10T13:49:06Z
+- [Mock Neck Zip Up Jacket - Versatile Layering Jacket](https://fitggins.com/products/mock-neck-zip-up-jacket): A versatile Mock Neck Zip Up Jacket with buttoned detail, normal thickness for layering, and a 95% polyester / 5% spandex blend. Easy care and imported for lasting wear. Available S–2XL with detailed measurements.
+  Updated: 2026-02-17T07:22:33Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15979,8 +15963,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6ae79197908f4274ba1191fb784c78b0-Max.webp?v=1768221779
     Price: $32.70 USD
-- [Snap Front Hooded Corduroy Shacket](https://fitggins.com/products/snap-front-hooded-corduroy-shacket): Discover the Snap Front Hooded Corduroy Shacket, a chic and cozy addition to your wardrobe, perfect for layering and enhancing your casual style.
-  Updated: 2026-02-12T01:32:46Z
+- [Snap Front Hooded Corduroy Shacket - Casual Corduroy Jacket](https://fitggins.com/products/snap-front-hooded-corduroy-shacket): Cozy and casual Snap Front Hooded Corduroy Shacket with drawstring hood, pockets, dropped shoulders and raw hem. 100% polyester, machine wash cold. Available S–2XL.
+  Updated: 2026-02-20T04:00:46Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16145,8 +16129,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8f5356dffb33496c88383e7f1aa1b5c2-Max.jpg?v=1768221790
     Price: $62.49 USD
-- [Collared Button Down Coat - Elevate Your Style](https://fitggins.com/products/collared-button-down-coat): Discover the Collared Button Down Coat, a classic piece designed for all-season wear. Crafted from durable polyester, this coat enhances any outfit with elegance.
-  Updated: 2026-02-06T08:00:25Z
+- [Collared Button-Down Coat - Lightweight Polyester Outerwear](https://fitggins.com/products/collared-button-down-coat): A timeless Collared Button-Down Coat made from 100% polyester. Unlined and lightweight for all-season wear. Machine wash cold; tumble dry low. See size chart for bust, sleeve, and length measurements.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16199,74 +16183,74 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6ef27da0-28e5-4197-b831-ca3d69751579-Max.webp?v=1768221795
     Price: $44.02 USD
-- [Double Take Checkered Long Sleeve Fuzzy Jacket](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket): Shop the Double Take Checkered Long Sleeve Fuzzy Jacket, perfect for autumn outings. Enjoy cozy warmth and stylish flair with this durable, 100% polyester jacket.
-  Updated: 2026-02-14T20:15:21Z
+- [Double Take Checkered Fuzzy Jacket - Cozy Long Sleeve](https://fitggins.com/products/double-take-checkered-fuzzy-jacket): Cozy and stylish Double Take Checkered Long Sleeve Fuzzy Jacket in 100% polyester. Pocketed design, normal thickness for transitional weather. Machine wash cold, tumble dry low. See size chart for S–2XL measurements in inches.
+  Updated: 2026-02-20T17:12:37Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1768221805
-  - [Strawberry / S](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772758344)
+  - [Strawberry / S](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772758344)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1768221805
     Price: $49.81 USD
-  - [Strawberry / M](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772791112)
+  - [Strawberry / M](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772791112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1768221805
     Price: $49.81 USD
-  - [Strawberry / L](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772823880)
+  - [Strawberry / L](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772823880)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1768221805
     Price: $49.81 USD
-  - [Strawberry / XL](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772856648)
+  - [Strawberry / XL](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772856648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1768221805
     Price: $49.81 USD
-  - [Strawberry / 2XL](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772889416)
+  - [Strawberry / 2XL](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772889416)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1768221805
     Price: $49.81 USD
-  - [Camel / S](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772922184)
+  - [Camel / S](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772922184)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Camel / M](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772954952)
+  - [Camel / M](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772954952)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Camel / L](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311772987720)
+  - [Camel / L](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311772987720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Camel / XL](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773020488)
+  - [Camel / XL](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773020488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Camel / 2XL](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773053256)
+  - [Camel / 2XL](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773053256)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Dust Storm / S](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773086024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1768221804
-    Price: $49.81 USD
-  - [Dust Storm / M](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773118792)
+  - [Dust Storm / S](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773086024)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Dust Storm / L](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773151560)
+  - [Dust Storm / M](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773118792)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1768221804
+    Price: $49.81 USD
+  - [Dust Storm / L](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773151560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Dust Storm / XL](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773184328)
+  - [Dust Storm / XL](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773184328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1768221804
     Price: $49.81 USD
-  - [Dust Storm / 2XL](https://fitggins.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52311773217096)
+  - [Dust Storm / 2XL](https://fitggins.com/products/double-take-checkered-fuzzy-jacket?variant=52311773217096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1768221804
     Price: $49.81 USD
-- [Button Down Collared Coat](https://fitggins.com/products/button-down-collared-coat): Discover the Button Down Collared Coat, perfect for any occasion. Made from 100% polyester, it combines style and comfort effortlessly.
-  Updated: 2026-01-27T01:35:25Z
+- [Button Down Collared Coat – Versatile Polyester Coat](https://fitggins.com/products/button-down-collared-coat): Classic button-front collared coat in 100% polyester. Midweight, machine washable, imported. Detailed measurements provided for S, M, L, XL. A versatile everyday layer that pairs with work or weekend looks.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16335,8 +16319,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/793103a91c8a4fb7835d348950b7007a-Max.jpg?v=1768221816
     Price: $34.70 USD
-- [Zip Up Collared Neck Long Sleeve Winter Coat](https://fitggins.com/products/zip-up-collared-neck-long-sleeve-winter-coat): Stay warm and stylish this winter with our zip-up collared neck long sleeve coat, featuring pockets and crafted from durable 100% polyester.
-  Updated: 2026-01-22T07:21:23Z
+- [Zip Up Collared Neck Long Sleeve Winter Coat](https://fitggins.com/products/zip-up-collared-neck-long-sleeve-winter-coat): Stay warm and stylish with this zip-up collared neck long sleeve winter coat. Made from 100% polyester, pocketed, normal thickness, unlined body. Machine wash cold; tumble dry low. Imported. See size chart for measurements.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16401,8 +16385,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/8b0c70afe14c45e292655dbbd20d52ea-Max.webp?v=1768221826
     Price: $47.42 USD
-- [Checkered Texture Zip Up Drawstring Fuzzy Jacket](https://fitggins.com/products/checkered-texture-zip-up-drawstring-fuzzy-jacket): Discover the stylish Checkered Texture Zip Up Drawstring Fuzzy Jacket, perfect for casual wear with a soft feel and lightweight layering.
-  Updated: 2026-01-22T14:28:57Z
+- [Checkered Texture Zip-Up Drawstring Fuzzy Jacket](https://fitggins.com/products/checkered-texture-zip-up-drawstring-fuzzy-jacket): Cozy checkered fuzzy jacket with zip-up front and drawstring hem. Lightweight unlined design, 100% polyester, easy care. Ideal for layering and everyday style.
+  Updated: 2026-02-17T07:22:34Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16423,8 +16407,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6d70e77d-2c81-4bbd-bd0a-2a47cf5c6e14-Max.webp?v=1768221835
     Price: $39.68 USD
-- [Plaid Button Down Coat with Pockets](https://fitggins.com/products/plaid-button-down-coat-with-pockets): Discover the stylish Plaid Button Down Coat with Pockets, perfect for layering and daily adventures. Crafted for comfort and functionality.
-  Updated: 2026-02-01T15:58:21Z
+- [Plaid Button Down Coat with Pockets](https://fitggins.com/products/plaid-button-down-coat-with-pockets): A versatile plaid button-down coat with pockets, 100% polyester, standard thickness for layering. Machine wash cold, tumble dry low. Available S–2XL with detailed measurements for the perfect fit.
+  Updated: 2026-02-17T07:22:35Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16449,182 +16433,182 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b5e18b15895b480c93585d614b695683-Max.jpg?v=1768221845
     Price: $39.70 USD
-- [Double Take Full Size Hooded Teddy Bear Jacket](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes): Discover the Double Take Full Size Hooded Teddy Bear Jacket with thumbholes. Perfect for cozy days, this jacket is made from durable polyester and offers a stylish, lightweight feel.
-  Updated: 2026-02-12T17:30:14Z
+- [Double Take Hooded Teddy Bear Jacket with Thumbholes](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes): Cozy and stylish Double Take hooded teddy bear jacket with thumbholes. 100% polyester, normal thickness, unlined for breathability. Machine wash cold; tumble dry low. Sizes S–3XL with detailed measurements.
+  Updated: 2026-02-18T04:15:26Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
-  - [Deep Red / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777542472)
+  - [Deep Red / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777542472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Deep Red / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777575240)
+  - [Deep Red / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777575240)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Deep Red / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777608008)
+  - [Deep Red / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777608008)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Deep Red / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777640776)
+  - [Deep Red / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777640776)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Deep Red / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777673544)
+  - [Deep Red / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777673544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Deep Red / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777706312)
+  - [Deep Red / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777706312)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ecac6bf4a9d1414e95a7c9161055dc83-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Black / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777739080)
+  - [Black / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777739080)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ff321da3c4454bbab3142e4b157d4e23-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Black / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777771848)
+  - [Black / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777771848)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ff321da3c4454bbab3142e4b157d4e23-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Black / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777804616)
+  - [Black / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777804616)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ff321da3c4454bbab3142e4b157d4e23-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Black / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777837384)
+  - [Black / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777837384)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ff321da3c4454bbab3142e4b157d4e23-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Black / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777870152)
+  - [Black / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777870152)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ff321da3c4454bbab3142e4b157d4e23-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Black / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777902920)
+  - [Black / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777902920)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ff321da3c4454bbab3142e4b157d4e23-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Cream / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777935688)
+  - [Cream / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777935688)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Cream / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311777968456)
+  - [Cream / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311777968456)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Cream / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778001224)
+  - [Cream / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778001224)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Cream / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778033992)
+  - [Cream / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778033992)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Cream / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778066760)
+  - [Cream / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778066760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Cream / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778099528)
+  - [Cream / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778099528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Dark Gray / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778132296)
+  - [Dark Gray / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778132296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Dark Gray / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778165064)
+  - [Dark Gray / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778165064)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Dark Gray / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778197832)
+  - [Dark Gray / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778197832)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Dark Gray / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778230600)
+  - [Dark Gray / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778230600)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Dark Gray / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778263368)
+  - [Dark Gray / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778263368)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Dark Gray / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778296136)
+  - [Dark Gray / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778296136)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Lavender / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778328904)
+  - [Lavender / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778328904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Lavender / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778361672)
+  - [Lavender / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778361672)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Lavender / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778394440)
+  - [Lavender / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778394440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Lavender / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778427208)
+  - [Lavender / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778427208)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Lavender / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778459976)
+  - [Lavender / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778459976)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Lavender / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778492744)
+  - [Lavender / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778492744)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Coral / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778525512)
+  - [Coral / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778525512)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34fa4d8a88c4947959e3e92b11cb7a9-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Coral / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778558280)
+  - [Coral / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778558280)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34fa4d8a88c4947959e3e92b11cb7a9-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Coral / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778591048)
+  - [Coral / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778591048)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34fa4d8a88c4947959e3e92b11cb7a9-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Coral / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778623816)
+  - [Coral / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778623816)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34fa4d8a88c4947959e3e92b11cb7a9-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Coral / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778656584)
+  - [Coral / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778656584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34fa4d8a88c4947959e3e92b11cb7a9-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Coral / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778689352)
+  - [Coral / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778689352)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d34fa4d8a88c4947959e3e92b11cb7a9-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Red / S](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778722120)
+  - [Red / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778722120)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Red / M](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778754888)
+  - [Red / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778754888)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Red / L](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778787656)
+  - [Red / L](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778787656)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Red / XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778820424)
+  - [Red / XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778820424)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Red / 2XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778853192)
+  - [Red / 2XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778853192)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
-  - [Red / 3XL](https://fitggins.com/products/double-take-full-size-hooded-teddy-bear-jacket-with-thumbholes?variant=52311778885960)
+  - [Red / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778885960)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0f24a4860f434745bf0299de4a72e37a-Max.webp?v=1768221860
     Price: $32.65 USD
-- [Snap Down Collared Winter Coat for Stylish Warmth](https://fitggins.com/products/snap-down-collared-winter-coat): Discover the Snap Down Collared Winter Coat, blending style and functionality with pockets, 100% nylon comfort, and a lightweight feel. Perfect for winter adventures!
-  Updated: 2026-02-14T03:30:41Z
+- [Snap Down Collared Winter Coat - 100% Nylon, Pocketed](https://fitggins.com/products/snap-down-collared-winter-coat): Stylish, pocketed Snap Down Collared Winter Coat in 100% nylon. Normal thickness, unlined body, dry clean only. Size conversions and measurements included for S–2XL.
+  Updated: 2026-02-18T17:53:39Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16769,8 +16753,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/18fa1cde-a074-4ffb-8c7e-d1a272382c67-Max.webp?v=1768221868
     Price: $45.01 USD
-- [Zip Up Long Sleeve Sherpa Hooded Coat](https://fitggins.com/products/zip-up-long-sleeve-sherpa-hooded-coat): Discover the Zip Up Long Sleeve Sherpa Hooded Coat, a stylish and comfortable addition to your wardrobe. Perfect for chilly days, this coat offers warmth and versatility for any occasion.
-  Updated: 2026-01-22T12:27:58Z
+- [Zip Up Long Sleeve Sherpa Hooded Coat - Women's Cozy Outerwear](https://fitggins.com/products/zip-up-long-sleeve-sherpa-hooded-coat): Cozy women's sherpa hooded coat with zip closure, normal thickness, lightweight unlined body, and 95% polyester/5% elastane. Machine wash cold; tumble dry low. Versatile, comfortable layer for everyday wear.
+  Updated: 2026-02-17T07:22:35Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16856,13 +16840,13 @@
   Updated: 2026-01-11T17:12:22Z
   Total Products: 23
 - [Stay Stylish & Comfy: Latest Women's Sports Leggings Trends](https://fitggins.com/collections/leggings-1): Discover the latest trends in women's sports leggings for staying stylish and comfortable during workouts. Find your perfect pair today!
-  Updated: 2026-01-12T13:34:12Z
+  Updated: 2026-02-16T17:39:25Z
   Total Products: 30
 - [Shop Stylish & Warm Jackets | Variety of Styles](https://fitggins.com/collections/jackets): Discover our high-quality jackets for all your outdoor activities. Stylish, durable & available in many colors. Perfect for any wardrobe!
-  Updated: 2026-01-12T12:44:59Z
+  Updated: 2026-02-16T17:39:23Z
   Total Products: 24
 - [Stylish Jeans Collection - Perfect Fit & Quality](https://fitggins.com/collections/jeans): Discover our Jeans Collection with perfect fit & styles for every occasion. Upgrade to high-quality, durable jeans and boost your confidence.
-  Updated: 2026-01-12T12:35:28Z
+  Updated: 2026-02-16T17:38:37Z
   Total Products: 30
 - [Discover Chic Crop Tops & Tank Tops Online](https://fitggins.com/collections/crop-tops-tank-tops): Explore trendy crop tops & tank tops online. Find your perfect style & elevate your look today!
   Updated: 2026-01-14T11:04:56Z
@@ -16871,58 +16855,58 @@
   Updated: 2026-01-14T11:22:40Z
   Total Products: 10
 - [Stylish T-Shirts Collection for Every Occasion](https://fitggins.com/collections/t-shirts): Explore our diverse T-Shirts collection! Find stylish, comfy options in various colors and styles to match any look. Perfect fit .
-  Updated: 2026-01-12T13:39:23Z
+  Updated: 2026-02-16T17:39:25Z
   Total Products: 29
 - [Women Active Shorts for Every Workout](https://fitggins.com/collections/short-leggings): Discover our collection of Women Active Shorts designed for style, comfort, and support. Find your perfect fit in various colors and sizes.
   Updated: 2026-01-11T21:07:59Z
   Total Products: 29
 - [Best One-Piece Swimsuits Online](https://fitggins.com/collections/swimwear-one-pieces): Discover the best one-piece swimsuits online! Shop trendy designs for all body types. Find your perfect fit today.
-  Updated: 2026-02-03T12:05:09Z
+  Updated: 2026-02-16T17:39:58Z
   Total Products: 20
 - [Stylish Bikinis & Tankinis for Beach Fun](https://fitggins.com/collections/bikinis-tankinis): Dive into our Bikinis & Tankinis collection! Find your perfect beachwear match and hit the shore in style. Feel confident and look fabulous.
-  Updated: 2026-02-06T08:02:30Z
+  Updated: 2026-02-16T17:38:13Z
   Total Products: 18
 - [Premium Denim Shorts for Summer | Shop Now](https://fitggins.com/collections/denim-shorts): Elevate your summer with our high-quality denim shorts! Perfect for any occasion, these are the wardrobe must-haves you don't want to miss.
-  Updated: 2026-01-14T11:10:06Z
+  Updated: 2026-02-16T17:39:52Z
   Total Products: 24
 - [Summer Swimwear Collection: Dive in Style](https://fitggins.com/collections/swimwear): Elevate your beach look with our Swimwear Collection. Enjoy superior comfort, fitting & durability for lasting wear. Shop now!
-  Updated: 2026-02-06T08:02:30Z
+  Updated: 2026-02-16T17:39:58Z
   Total Products: 38
 - [All Products Collection | Shop Our Full Range](https://fitggins.com/collections/all-products-1): Explore our comprehensive All Products Collection. Find your favorites across categories in one place.
-  Updated: 2026-02-06T08:02:30Z
+  Updated: 2026-02-16T17:39:58Z
   Total Products: 500
 - [Stylish Casual & Maxi Dresses Collection](https://fitggins.com/collections/casual-maxi-dresses): Elevate your style with our Casual & Maxi Dresses! Perfect for any occasion, feel confident and chic with our versatile designs.
-  Updated: 2026-01-12T14:06:49Z
+  Updated: 2026-02-16T17:39:48Z
   Total Products: 30
 - [Elegant Cocktail Dresses for Every Occasion](https://fitggins.com/collections/cocktail-dresses): Discover stunning cocktail dresses that enhance your curves. Perfect for parties and special events. Stand out and feel amazing.
   Updated: 2026-01-14T10:59:54Z
   Total Products: 30
 - [Stylish Cardigans Collection - Premium & Cozy](https://fitggins.com/collections/cardigans): Discover our stylish cardigans for unmatched comfort & versatility. Perfect for any occasion, wrapped in premium warmth and style.
-  Updated: 2026-02-02T08:01:34Z
+  Updated: 2026-02-16T17:38:38Z
   Total Products: 29
 - [Trendy Pullover Sweaters - Elevate Your Style](https://fitggins.com/collections/pullover-sweaters): Discover our new pullover sweaters collection. Perfect for any occasion with top comfort & style. Upgrade your wardrobe today.
   Updated: 2026-01-14T11:13:35Z
   Total Products: 20
 - [Ship from USA](https://fitggins.com/collections/ship-from-usa)
-  Updated: 2026-01-14T11:07:22Z
+  Updated: 2026-02-16T17:39:44Z
   Total Products: 37
 - [Fitggins](https://fitggins.com/collections/fitggins)
-  Updated: 2026-02-06T08:02:30Z
+  Updated: 2026-02-16T17:39:58Z
   Total Products: 500
 - [Premium Shapewear for Every Body Type](https://fitggins.com/collections/shapewear): Boost confidence with quality shapewear! Perfect fit for all, ensuring comfort & support. Embrace your curves and feel fabulous!
-  Updated: 2026-02-06T08:02:30Z
+  Updated: 2026-02-16T17:39:28Z
   Total Products: 30
 - [Chic Blouses for Every Occasion](https://fitggins.com/collections/blouses): Elevate your style with our collection of high-quality blouses. Perfect for any occasion, feel confident and effortlessly chic.
-  Updated: 2026-01-11T16:53:18Z
+  Updated: 2026-02-16T17:38:11Z
   Total Products: 29
 - [Premium Shirts Collection - Elevate Your Style](https://fitggins.com/collections/shirts): Discover our exclusive shirts collection. Quality materials, various styles & sizes for ultimate comfort and durability. Upgrade now!
   Updated: 2026-01-21T17:44:01Z
   Total Products: 0
 - [Premium Bodysuits Collection - Elevate Your Style](https://fitggins.com/collections/bodysuits): Explore our Bodysuits for unmatched comfort & fashion. Find your perfect fit and boost your confidence with our premium pieces.
-  Updated: 2026-01-11T17:29:07Z
+  Updated: 2026-02-16T17:38:12Z
   Total Products: 30
 - [Shop Latest Denim Collection | Top Styles & Fits](https://fitggins.com/collections/denim): Explore our exclusive Denim Collection. Find your perfect style with our wide range of high-quality denim. Shop now for best deals!
-  Updated: 2026-01-14T11:10:35Z
+  Updated: 2026-02-16T17:39:52Z
   Total Products: 54
 - [Stylish Denim Jackets - Upgrade Your Wardrobe Now](https://fitggins.com/collections/denim-jackets): Discover our premium denim jackets - durable, comfortable, and perfect for any look. Elevate your style with our classic and versatile designs!
   Updated: 2026-01-21T17:43:35Z
@@ -16930,6 +16914,18 @@
 - [Formal & Evening Dresses](https://fitggins.com/collections/formal-evening-dresses): For stunning formal and eveningwear, look no further than our collection of Formal & Evening Dresses. With a variety of styles and sizes, our dresses will help you make a statement at any event. Visit our website for more options and to find your perfect dress.
   Updated: 2026-01-12T12:40:54Z
   Total Products: 30
+- [Everyday Outfits](https://fitggins.com/collections/everyday-outfits): Discover everyday outfits designed for real life. Our Everyday Outfits collection features comfortable, stylish women’s fashion that’s easy to wear from morning to night. These pieces are perfect for daily routines, casual plans, and relaxed moments without sacrificing style. From casual dresses and versatile tops to effortless rompers, this collection focuses on trendy yet practical outfits you can rely on every day. Easy to mix, easy to style, and designed for comfort. Whether you’re heading out for errands, meeting friends, or enjoying a casual day, these everyday outfits help you look put together with minimal effort.
+  Updated: 2026-02-16T19:29:30Z
+  Total Products: 28
+- [Casual Dresses](https://fitggins.com/collections/casual-dresses): Explore our Casual Dresses collection, featuring stylish and comfortable dresses designed for everyday wear. These dresses combine effortless style with easy fits, making them perfect for casual outings, daytime plans, and relaxed occasions. Our casual dresses are designed to be versatile and flattering, offering simple silhouettes you can dress up or down depending on your day. Pair them with sneakers, sandals, or casual accessories for an effortless look. If you’re looking for women’s dresses that feel comfortable and look great without overthinking your outfit, this collection is made for you.
+  Updated: 2026-02-16T19:35:21Z
+  Total Products: 30
+- [Active & Comfy](https://fitggins.com/collections/active-comfy): The Active & Comfy collection is all about comfort, movement, and everyday ease. This selection features women’s clothing designed for relaxed days, light activities, and moments when comfort matters most. Perfect for active lifestyles or casual wear, these pieces offer flexible fits and easy-to-wear designs that move with you. Ideal for staying comfortable at home, running errands, or enjoying laid-back days. If you love clothing that feels good, looks modern, and fits naturally into your daily routine, the Active & Comfy collection is the perfect choice.
+  Updated: 2026-02-16T19:35:32Z
+  Total Products: 38
+- [SHOP ALL](https://fitggins.com/collections/shop-all)
+  Updated: 2026-02-16T19:34:50Z
+  Total Products: 500
 
 ## Blogs
 
@@ -18053,13 +18049,22 @@
   - [Innovative Fitness Trends You Need to Know Right Now](https://fitggins.com/blogs/fitggins/innovative-fitness-trends-you-need-to-know-right-now): Innovative Fitness Trends You Need to Know Right Now
     Updated: 2026-02-13T05:01:31Z
     Author: Roberto Bellbe
+  - [The Ultimate Checklist for Starting a Home Gym](https://fitggins.com/blogs/fitggins/the-ultimate-checklist-for-starting-a-home-gym): The Ultimate Checklist for Starting a Home Gym
+    Updated: 2026-02-16T05:01:06Z
+    Author: Roberto Bellbe
+  - [Debunking the Most Common Diet Myths](https://fitggins.com/blogs/fitggins/debunking-the-most-common-diet-myths): Debunking the Most Common Diet Myths
+    Updated: 2026-02-18T05:01:04Z
+    Author: Roberto Bellbe
+  - [The Benefits of Strength Training for All Ages An Educational Guide](https://fitggins.com/blogs/fitggins/the-benefits-of-strength-training-for-all-ages-an-educational-guide): The Benefits of Strength Training for All Ages An Educational Guide
+    Updated: 2026-02-20T05:01:08Z
+    Author: Roberto Bellbe
 
 ## Store Pages
 
 - [Your Privacy Choices](https://fitggins.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T15:25:05Z
-- [Shipping & Returns](https://fitggins.com/pages/shipping-returns): Shipping No matter where you live, our goal is to offer you the best shipping service.US: Average delivery time is 5 to 15 business days.Receiving ...
-  Updated: 2024-08-21T10:37:27Z
+- [Shipping & Returns](https://fitggins.com/pages/shipping-returns): Shipping No matter where you live, our goal is to offer you the best shipping service.US: Average delivery time: 7–15 business days (USA) • Process...
+  Updated: 2026-02-16T16:14:37Z
 - [Contact us](https://fitggins.com/pages/contact-us)
   Updated: 2024-04-07T08:04:41Z
 - [ Terms and Conditions](https://fitggins.com/pages/-terms-and-conditions): 1 ) The  codes are applicable to all products in the store and not cumulative, you can only use one code at a time, unless it applies to a ...
