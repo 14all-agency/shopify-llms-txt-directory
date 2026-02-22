@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2015-08-11T13:10:55Z
 - Contact Email: endurancetreadmills@gmail.com
-- Updated At: 2026-02-15T00:00:36.703Z
+- Updated At: 2026-02-22T00:00:40.297Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/wo-SS610-0423-down.jpg?v=1501413121
   Price: $1,279.00 AUD
 - [Endurance Treadmill SS410](https://endurancetreadmills.com.au/products/endurance-treadmill-ss410): Have a Question ? Call us Now 0422 467630 Click here to See Our Customer Feedback and treadmill Reviews The Endurance SS410 is an affordable and economic treadmill with 3 levels of Incline. This treadmill is lightweight and compact making it suitable for anyone with a small room or tight spaces. It has been designed to suit jogging/walking/running and those looking to stay in shape. Click here to See Our Customer Feedback and treadmill Reviews General Speed 0.8 to 12km/h Motor 1.5 Continuous HP4 Peak HP Suspension 6 suspension points Incline 3 levels of manual incline Running surface Anti-static quality belt100cm x 35cm (L x W) Belt Width 35cm Max user weight 100kg Features Pulse sensors detected by handIpad HolderBuilt-in mobility with hydraulic assisted folding and two transportation wheels Console Feedback Computer Racing Car style display panelShows speed, incline, time, distance, calories and pulse Programs weight loss - fat burn - interval - hill training - cardio + More Technical Motor Specifications PWM (Pulse Width Modulation system) with fuseless current limit Power Supply Professional Heavy Duty DC motor Safety Feature Overload and Short Circuit Protection (CE )Safety Key Structural Information Frame Durable Steel Frame Occupancy size 140cm x 68cm x 127cm (L x W x H) Folded size 81cm x 68cm x 148cm (L x W x H) Packaging size 150.5cm x 70cm x 33cm (L x W x H) Gross weight 51kg Net weight 45kg Warranty: Lifetime Motor and Frame warranty, 12 Months parts replacement warranty Have a Question ? Call us Now 0422 467630 0% Interest Plans - get what you want NOW, pay nothing upfront! Click here to See Our Customer Feedback and treadmill Reviews
-  Updated: 2025-02-25T01:26:05Z
+  Updated: 2026-02-19T23:47:42Z
   Vendor: endurancetreadmills
   Product Type: Treadmill
   Availability: Not Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/enduranceexercisebike2019.jpg?v=1542109144
   Price: $299.00 AUD
 - [Buy Treadmill Silicone Lube Online - Silicone Lubricant For Treadmill](https://endurancetreadmills.com.au/products/treadmill-silicone-lube): If you’re looking for treadmill silicone lube, Endurance Treadmills is the place to go! Check why our lubricant is Superior. Order our 100% Silicone Oil now!
-  Updated: 2026-02-14T21:14:53Z
+  Updated: 2026-02-18T20:07:52Z
   Vendor: endurancetreadmills
   Product Type: accessories
   Availability: Available
@@ -233,7 +233,7 @@
   Image: https://cdn.shopify.com/s/files/1/0954/7896/products/EnduranceOliviaHomeTreadmill-White-SummerSale.png?v=1669864753
   Price: $749.00 AUD
 - [Treadmill Safety Key](https://endurancetreadmills.com.au/products/treadmill-safety-key): #omnisend-embedded-v2-69435ae53fbe959a80e35be8 { max-width: 520px; width: 100%; margin: 0 auto; } Treadmill Safety Key MagnetRound Shape for most Endurance Treadmill Models
-  Updated: 2026-02-12T12:28:36Z
+  Updated: 2026-02-17T09:43:34Z
   Vendor: endurancetreadmills
   Product Type: accessories
   Availability: Available
@@ -262,7 +262,7 @@
   Updated: 2023-07-05T03:03:10Z
   Total Products: 0
 - [Buy Exercise Equipment & Machine Accessories](https://endurancetreadmills.com.au/collections/accessories): Looking for Machine & Exercise Equipment Accessories? Endurance Treadmills is the No.1 place to buy all your exercise equipment accessories.
-  Updated: 2026-02-10T12:01:48Z
+  Updated: 2026-02-19T12:02:17Z
   Total Products: 6
 - [Treadmills On  - Under $900 - Endurance Treadmills](https://endurancetreadmills.com.au/collections/under-900): If you want to buy treadmills and high quality exercise machines under $900, visit Endurance Treadmills. Order online and get free shipping in Australia.
   Updated: 2022-11-22T11:58:47Z
@@ -355,7 +355,7 @@
   Updated: 2025-12-06T12:01:50Z
   Total Products: 4
 - [All Products](https://endurancetreadmills.com.au/collections/all)
-  Updated: 2026-02-10T12:01:48Z
+  Updated: 2026-02-19T12:02:17Z
   Total Products: 42
 - [Compression Boots Australia](https://endurancetreadmills.com.au/collections/compression-boots-australia)
   Updated: 2025-12-30T04:53:29Z
