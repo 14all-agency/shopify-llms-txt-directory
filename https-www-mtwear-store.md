@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2025-08-17T09:29:30Z
 - Contact Email: support@mtwear.store
-- Updated At: 2026-02-13T11:34:22.237Z
+- Updated At: 2026-02-22T00:00:38.111Z
 
 ## Products
 
@@ -21090,7 +21090,7 @@
   Updated: 2026-01-24T17:30:34Z
   Total Products: 4
 - [Women Lingerie](https://www.mtwear.store/collections/women-lingerie)
-  Updated: 2026-01-24T19:51:28Z
+  Updated: 2026-02-19T17:18:24Z
   Total Products: 13
 - [Women Under Wears](https://www.mtwear.store/collections/women-under-wears)
   Updated: 2026-01-24T19:54:33Z
@@ -21102,7 +21102,7 @@
   Updated: 2026-01-12T16:39:35Z
   Total Products: 12
 - [Men Winter Jackets & Coats](https://www.mtwear.store/collections/women-winter-jackets)
-  Updated: 2026-01-24T19:42:21Z
+  Updated: 2026-02-19T16:05:01Z
   Total Products: 10
 - [Women Jackets and Coats](https://www.mtwear.store/collections/women-jackets)
   Updated: 2026-01-24T19:51:10Z
@@ -21132,7 +21132,7 @@
   Updated: 2026-01-21T15:35:46Z
   Total Products: 14
 - [Warm & Stylish Coats](https://www.mtwear.store/collections/men-warm-stylish-coats)
-  Updated: 2026-01-25T10:15:08Z
+  Updated: 2026-02-19T16:06:40Z
   Total Products: 10
 - [Eastern Wear](https://www.mtwear.store/collections/pakistani-traditional-wear)
   Updated: 2026-01-12T16:39:36Z
@@ -21285,7 +21285,7 @@
   Updated: 2026-01-24T18:19:54Z
   Total Products: 7
 - [Denim Jeans & Pants](https://www.mtwear.store/collections/denim-jeans)
-  Updated: 2026-01-24T18:24:24Z
+  Updated: 2026-02-19T14:58:45Z
   Total Products: 10
 - [Swimwear & Beachwear](https://www.mtwear.store/collections/swimwear-beachwear)
   Updated: 2026-01-24T18:24:12Z
@@ -21373,13 +21373,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.mtwear.store/policies/privacy-policy)
-  Updated: 2026-01-07T10:50:06+05:00
+  Updated: 2026-02-13T23:33:23+05:00
 - [Shipping Policy](https://www.mtwear.store/policies/shipping-policy)
-  Updated: 2026-02-07T21:50:10+05:00
+  Updated: 2026-02-13T23:38:59+05:00
 - [Refund Policy](https://www.mtwear.store/policies/refund-policy)
-  Updated: 2026-01-08T16:49:50+05:00
+  Updated: 2026-02-13T23:32:59+05:00
 - [Terms of Service](https://www.mtwear.store/policies/terms-of-service)
-  Updated: 2026-01-08T16:47:50+05:00
+  Updated: 2026-02-13T23:36:48+05:00
 - [Contact Information](https://www.mtwear.store/policies/contact-information)
   Updated: 2026-01-09T22:02:32+05:00
 
