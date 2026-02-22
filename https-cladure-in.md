@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-09T06:10:03Z
 - Contact Email: updates@cladure.in
-- Updated At: 2026-02-14T07:31:04.448Z
+- Updated At: 2026-02-22T00:00:36.288Z
 
 ## Products
 
@@ -3503,7 +3503,7 @@
     Availability: Available
     Price: ₹399.00 INR
 - [Kedarnath Temple Mobile Back Skin – Devotional Phone Wrap | Cladure](https://cladure.in/products/kedarnath-temple-mobile-back-skin): Buy Kedarnath Temple mobile back skin with devotional design. Matte, scratch-resistant phone wrap for iPhone & Android. Slim fit, peaceful aesthetic.
-  Updated: 2026-02-07T13:32:22Z
+  Updated: 2026-02-21T08:09:27Z
   Vendor: CLADURE
   Product Type: 
   Availability: Available
@@ -3714,13 +3714,13 @@
 ## Collections
 
 - [Premium Mobile Back Skins to Protect Your Phone](https://cladure.in/collections/mobile-back-skins-3d-textured-phone-wraps-premium-matte): Explore our premium mobile back skins for a stylish and protective upgrade. Perfect for any phone!
-  Updated: 2026-02-03T12:15:47Z
+  Updated: 2026-02-21T12:20:04Z
   Total Products: 24
 - [Top Laptop Skins in India | Laptop Skin Shop Near Me](https://cladure.in/collections/laptop-skin): Find premium laptop skins for Dell, HP, Lenovo & MacBook models at a laptop skin shop near you. Upgrade your device with style and protection!
   Updated: 2026-02-02T16:00:10Z
   Total Products: 13
 - [Diverse Posters: Anime, Cars, Marvel & More](https://cladure.in/collections/poster): Discover unique posters featuring anime, cars, Marvel characters, and more. Perfect for decoration and fandom!
-  Updated: 2026-02-02T16:27:40Z
+  Updated: 2026-02-16T12:15:06Z
   Total Products: 291
 
 ## Blogs
@@ -3758,6 +3758,8 @@
   Updated: 2026-02-02T09:12:18Z
 - [html sitemap](https://cladure.in/pages/html-sitemap): Products Manga Ambition Poster Bloody Knife Poster AK-47 Poster "The Grime" Poster "Assault Rifle" Poster "Bullet Pile," "Ammunition," P... "The Sn...
   Updated: 2026-02-02T09:12:19Z
+- [Collabs](https://cladure.in/pages/collab)
+  Updated: 2026-02-17T06:13:50Z
 
 ## Policies
 
