@@ -5,84 +5,86 @@
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-11-30T21:29:35Z
-- Contact Email: contact@misterbarbe.fr
-- Updated At: 2026-02-14T23:35:01.163Z
+- Contact Email: contact@hadonys.com
+- Contact Phone: +33952673549
+- Address: 60 Rue François 1er
+- Updated At: 2026-02-22T00:00:27.991Z
 
 ## Products
 
 - [Huile nourrissante pour barbe - MisterBarbe](https://hadonys.com/products/nourishing-facial-oil): Amazing blend with 11 organic  oils and extracts gives the nutrient and vitamin boost your  - MisterBarbe
-  Updated: 2026-02-14T20:26:48Z
+  Updated: 2026-02-20T16:23:15Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/hadonys-huile_nourrissante.jpg?v=1771100804
   Price: 49,90 € EUR
 - [Shampoing visage et barbe](https://hadonys.com/products/shampoing-visage-et-barbe): Le rituel essentiel pour visage et barbe. Nettoyage précis, hydratation maîtrisée, toucher soyeux. L’exigence du soin haut de gamme.
-  Updated: 2026-02-14T20:26:48Z
+  Updated: 2026-02-20T16:23:15Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/Hadonys-shampoing_visage_et_barbe.jpg?v=1771100807
   Price: 31,90 € EUR
 - [Shampoing anti-chute des cheveux - MisterBarbe](https://hadonys.com/products/shampoing-anti-chute-des-cheveux): Offer your skincare brand fans a new hair care option, which will provide a gentle and soothing  - MisterBarbe
-  Updated: 2026-02-14T20:26:50Z
+  Updated: 2026-02-20T16:23:14Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/BrV9n6Pm-SgPVf8H4Ny01Fqxwd5UYvq8.jpg?v=1771100808
   Price: 19,90 € EUR
 - [Crème visage à l'acide hyaluronique pour hommes - MisterBarbe](https://hadonys.com/products/creme-visage-a-lacide-hyaluronique-pour-hommes): Simple, easy to use moisturiser, targeted at men's audience. Perfect addition to any skincare  - MisterBarbe
-  Updated: 2026-02-14T20:27:05Z
+  Updated: 2026-02-20T16:23:14Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/J218kPOk7oRZGwnjJFtIpJZJ95XzE5hG.jpg?v=1771100812
   Price: 39,90 € EUR
 - [Gel visage au zinc sans huile pour hommes - MisterBarbe](https://hadonys.com/products/gel-visage-au-zinc-sans-huile-pour-hommes): Simple, easy to use moisturiser, targeted at men's audience. Perfect addition to any skincare  - MisterBarbe
-  Updated: 2026-02-14T20:27:20Z
+  Updated: 2026-02-20T16:23:14Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/rn-image_picker_lib_temp_aabbde05-5cfa-4b8c-826f-d742fc7cb759.jpg?v=1771100828
+  Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/Gel_visage_au_zinc_sans_huile.jpg?v=1771173305
   Price: 38,90 € EUR
 - [Pack entretien et soin de la barbe - MisterBarbe](https://hadonys.com/products/pack-entretien-et-soin-de-la-barbe): - MisterBarbe
-  Updated: 2026-02-14T20:27:09Z
+  Updated: 2026-02-20T16:23:14Z
   Vendor: MisterBarbe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/Packentretienetsoinbarbe.jpg?v=1771100828
   Price: 124,90 € EUR
 - [Après Shampoing Hydratant - Hadonys](https://hadonys.com/products/apres-shampoing-hydratant): Custom conditioner nourishes the hair, leaving it smooth  easy to style. Infused with Argan Oil  - Hadonys
-  Updated: 2026-02-14T20:27:13Z
+  Updated: 2026-02-20T16:23:14Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/Ud2yPxze1FvknlT1-S2PlXErZOrze1Fp.jpg?v=1771100830
   Price: 22,90 € EUR
-- [Serum de densité pour barbe - Hadonys](https://hadonys.com/products/serum-de-densite-pour-barbe): - Hadonys
-  Updated: 2026-02-14T20:27:22Z
+- [serum de densite pour Barbe, formulé pour favoriser la croissance](https://hadonys.com/products/serum-de-densite-pour-barbe): Ce serum de densite pour Barbe est spécialement formulé pour favoriser la croissance et l'épaississement de votre pilosité faciale. Enrichi en ingrédients naturels, il pénètre en profondeur
+  Updated: 2026-02-21T09:13:36Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/rn-image_picker_lib_temp_1645f5ab-1ef5-4cf6-befa-4e57f9d6da21.jpg?v=1771100833
+  Image: https://cdn.shopify.com/s/files/1/0959/8523/8400/files/serum-de-densite-pour-barbe.avif?v=1771619408
   Price: 41,90 € EUR
 
 ## Collections
 
 - [Page d'accueil - MisterBarbe](https://hadonys.com/collections/frontpage): - MisterBarbe
-  Updated: 2026-02-12T13:11:53Z
+  Updated: 2026-02-16T20:48:14Z
   Total Products: 0
-- [Entretien barbe - MisterBarbe](https://hadonys.com/collections/entretien-barbe): - MisterBarbe
-  Updated: 2026-02-13T23:00:20Z
+- [soins barbe Homme & Entretien Naturel | Maison Hadonys](https://hadonys.com/collections/soins-barbe): Redéfinissez votre rituel avec nos soins barbe de haute précision. Formules naturelles, fabrication française et actifs puissants pour une barbe dense et soyeuse.
+  Updated: 2026-02-16T20:48:14Z
   Total Products: 4
 - [Pousse cheveux - MisterBarbe](https://hadonys.com/collections/pousse-cheveux): - MisterBarbe
-  Updated: 2026-02-13T19:58:55Z
+  Updated: 2026-02-16T20:48:14Z
   Total Products: 3
 - [Pousse barbe - MisterBarbe](https://hadonys.com/collections/pousse-barbe): - MisterBarbe
-  Updated: 2026-02-14T16:42:42Z
+  Updated: 2026-02-16T20:48:14Z
   Total Products: 4
 - [Packs - MisterBarbe](https://hadonys.com/collections/packs): - MisterBarbe
-  Updated: 2026-02-14T10:30:04Z
+  Updated: 2026-02-16T20:48:14Z
   Total Products: 1
 
 ## Blogs
@@ -134,7 +136,7 @@
     Updated: 2026-02-02T18:29:39Z
     Author: MisterBarbe - Hugues
   - [Fréquentes Questions sur l'Entretien de la Barbe - Trouvez Votre Réponse](https://hadonys.com/blogs/infos/frequentes-questions-sur-lentretien-de-la-barbe-trouvez-votre-reponse): Fréquentes Questions sur l'Entretien de la Barbe - Trouvez Votre Réponse
-    Updated: 2026-02-14T20:26:46Z
+    Updated: 2026-02-15T22:37:29Z
     Author: MisterBarbe - Hugues
     Tags: Rasage
   - [Tout Ce Que Vous Devez Savoir sur l'Entretien de la Barbe](https://hadonys.com/blogs/infos/tout-ce-que-vous-devez-savoir-sur-lentretien-de-la-barbe): Tout Ce Que Vous Devez Savoir sur l'Entretien de la Barbe
@@ -148,9 +150,25 @@
     Updated: 2026-02-14T20:34:45Z
     Author: Hadonys - Marc
     Tags: grooming, grooming homme, grooming premium
-  - [Les tendances actuelles en soins visage homme avec l'huile nourrissante pour barbe](https://hadonys.com/blogs/infos/les-tendances-actuelles-en-soins-visage-homme-avec-lhuile-nourrissante-pour-barbe): Les tendances actuelles en soins visage homme avec l'huile nourrissante pour barbe
-    Updated: 2026-02-14T20:26:48Z
+  - [soin visage - routines de soins du visage plus complètes et efficaces](https://hadonys.com/blogs/infos/les-tendances-actuelles-en-soin-visage-homme-avec-lhuile-nourrissante-pour-barbe): soin visage - routines de soins du visage plus complètes et efficaces
+    Updated: 2026-02-15T17:50:14Z
     Author: Hadonys - Julia
+  - [serum barbe de densité barbe les étapes pour une routine efficace](https://hadonys.com/blogs/infos/serum-barbe-de-densite): serum barbe de densité barbe les étapes pour une routine efficace
+    Updated: 2026-02-16T18:07:56Z
+    Author: Hadonys - Julia
+  - [L'histoire fascinante de la moustache à travers les âges](https://hadonys.com/blogs/infos/lhistoire-fascinante-de-la-moustache-a-travers-les-ages): L'histoire fascinante de la moustache à travers les âges
+    Updated: 2026-02-17T18:24:09Z
+    Author: Hugues
+  - [moustache évolution de symbole à style au fil des années](https://hadonys.com/blogs/infos/levolution-de-la-moustache-de-symbole-a-style): moustache évolution de symbole à style au fil des années
+    Updated: 2026-02-18T18:45:50Z
+    Author: Hugues
+  - [Les secrets du grooming premium pour hommes dévoilés](https://hadonys.com/blogs/infos/les-secrets-du-grooming-premium-pour-hommes-devoiles): Les secrets du grooming premium pour hommes dévoilés
+    Updated: 2026-02-19T18:20:24Z
+    Author: Hadonys - Marc
+    Tags: grooming, grooming homme, grooming premium
+  - [Soins de la peau chez les hommes : guide complet 2026](https://hadonys.com/blogs/infos/soins-de-la-peau-chez-les-hommes): Soins de la peau chez les hommes : guide complet 2026
+    Updated: 2026-02-20T18:23:05Z
+    Author: hugues dauphant
 
 ## Store Pages
 
