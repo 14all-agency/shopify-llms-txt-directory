@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-01-20T04:00:01Z
 - Contact Email: vistar.wang@gmail.com
-- Updated At: 2026-02-12T01:50:14.272Z
+- Updated At: 2026-02-23T00:00:32.404Z
 
 ## Products
 
-- [[加大码印花T恤] 黑色棉质男士加大码休闲T恤 - "我最爱的人叫我爷爷"星星图案，宽松版型，短袖设计，适合日常穿着，个性印花，舒适时尚，适用于各种场合](https://theboringstore.xyz/products/加大码印花t恤-黑色棉质男士加大码休闲t恤-我最爱的人叫我爷爷星星图案-宽松版型-短袖设计-适合日常穿着-个性印花-舒适时尚-适用于各种场合-78667808845-cfoli): 成分: 50% 棉, 5% 氨纶, 45% 涤纶（聚酯纤维）材质: 棉面料: 微弹领型: 圆领季节: ALL/全球/所有护理说明: 可机洗，不可干洗适用人群: 成人, 男士是否透明: 否版型: 常规品牌名: MAGIC BLACKPINK印花类型: 定位印花面料克重: 180袖长: 短袖商品编号: 13M553229Q5产地: Shanghai,ChinaDetails 触感柔软透气，这款T恤亲肤舒适，适合全天穿着。经典圆领与短袖设计，中性款式，宽松版型适合多种体型。T恤采用鲜艳高品质印花（可选：节日图案/趣味标语/独特设计），多次洗涤后仍保持色彩鲜艳（不褪色，不开裂）。轻便耐用，适合日常穿着、休闲聚会、节日活动或居家放松——可搭配牛仔裤、短裤或叠穿，打造多样造型。T恤提供从L到5XL的多种尺码，满足不同体型需求，兼具实用性与时尚感。无论是犒赏自己还是馈赠亲友，都是适合多种场合的百搭单品。柔软、舒适、时尚且耐用——立即将其收入衣橱！
-  Updated: 2026-02-10T19:53:07Z
+- [Plus Size Grandpa T-Shirt - Black Cotton Casual Tee , L-5XL | YOKIA](https://theboringstore.xyz/products/加大码印花t恤-黑色棉质男士加大码休闲t恤-我最爱的人叫我爷爷星星图案-宽松版型-短袖设计-适合日常穿着-个性印花-舒适时尚-适用于各种场合-78667808845-cfoli): Soft, comfortable plus size t-shirt for men with 'My Favorite Person Calls Me Grandpa' design. 50% cotton blend, sizes 1XL-5XL. Perfect for daily wear, gifts for grandpas. Machine washable, fade-resistant print. Shop now!
+  Updated: 2026-02-12T14:08:44Z
   Vendor: YOKIA
   Product Type: Apparel & Accessories > Clothing > Shirts & Tops
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/4b82d46d_a4ce5e10-ea9e-435b-b122-1786acec12cd.jpg?v=1770191106
     Price: ¥117.15 CNY
 - [Black Casual Plus Size Tee with Teal Gem-Like Christmas Tree Graphic](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-casual-plus-size-tee-with-teal-gem-like-christmas-tree-graphic-unique-silhouette-design-featuring-radiating-star-at-the-top-perfect-for-holiday-cheer-loose-fit-round-neck-comfortable-fabric-ideal-for-festive-gather): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
-  Updated: 2026-02-10T22:38:12Z
+  Updated: 2026-02-13T01:56:22Z
   Vendor: YOKIA
   Product Type: Apparel & Accessories > Clothing > Shirts & Tops
   Availability: Available
@@ -310,6 +310,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/eca463d7_5a0a2993-36e1-4248-a0fa-91c52a1c42c9.jpg?v=1770191159
     Price: ¥117.42 CNY
+- [Black Cotton Plus Size Casual Graphic Tee -  "FREE SPEECH" Emblem](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear): Comfortable plus size graphic t-shirt featuring bold 'LEGALIZE' and 'FREE SPEECH' design with stars. Made from soft black cotton, perfect for everyday casual wear. Available in sizes L to 5XL.
+  Updated: 2026-02-12T07:59:56Z
+  Vendor: YOKIA
+  Product Type: T-Shirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+  - [L](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear?variant=42649090916429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+    Price: ¥118.40 CNY
+  - [XL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear?variant=42649090949197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+    Price: ¥118.40 CNY
+  - [XXL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear?variant=42649090981965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+    Price: ¥118.40 CNY
+  - [XXXL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear?variant=42649091014733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+    Price: ¥118.40 CNY
+  - [XXXXL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear?variant=42649091047501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+    Price: ¥118.40 CNY
+  - [XXXXXL](https://theboringstore.xyz/products/plus-size-graphic-t-shirt-black-cotton-plus-size-casual-graphic-tee-legalize-with-stars-and-free-speech-emblem-bold-design-comfortable-fit-round-neck-machine-washable-perfect-for-everyday-wear?variant=42649091080269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/3e4c9a49_9b05faea-adf9-456a-9f64-9ebef806d70d.jpg?v=1770191162
+    Price: ¥118.40 CNY
 - [[Plus Size Graphic Tee] White Casual Women's Plus Size Graphic T-Shirt](https://theboringstore.xyz/products/plus-size-graphic-tee-white-casual-womens-plus-size-graphic-t-shirt-i-don-t-have-an-attitude-i-have-a-personality-you-can-t-handle-design-in-bold-black-pink-features-decorative-stars-hearts-relaxed-fit-soft-cotton-blend-perfect-for-everyday): Soft and breathable to the touch, this T-shirt is gentle and comfortable against the skin, perfect for all-day wear. The classic crew neck and short sleeves are unisex, and the relaxed fit flatters various body types. The T-shirt features vibrant, high-quality prints (optional: holiday patterns/funny slogans/unique designs) that retain their color even after multiple washes (no fading, no cracking). Lightweight and durable, it's ideal for everyday wear, casual parties, holiday events, or relaxing at home—pair it with jeans, shorts, or layer for versatile styling. This T-shirt is available in multiple sizes (from L to 5XL) to meet different body types, combining practicality and style. Whether treating yourself or gifting a friend or family member, it's a versatile piece suitable for various occasions. Soft, comfortable, stylish, and durable—add it to your wardrobe today!
   Updated: 2026-02-11T02:49:02Z
   Vendor: YOKIA
@@ -350,8 +380,8 @@
   Updated: 2026-02-10T07:50:40Z
   Total Products: 4
 - [T-shirts](https://theboringstore.xyz/collections/t-shirts): T-shirts
-  Updated: 2026-02-10T07:55:56Z
-  Total Products: 11
+  Updated: 2026-02-13T05:56:41Z
+  Total Products: 14
 
 ## Store Pages
 
@@ -363,9 +393,9 @@
 ## Policies
 
 - [Privacy Policy](https://theboringstore.xyz/policies/privacy-policy)
-  Updated: 2026-01-20T12:00:08+08:00
+  Updated: 2026-02-12T15:01:59+08:00
 - [Refund Policy](https://theboringstore.xyz/policies/refund-policy)
-  Updated: 2026-02-10T18:01:33+08:00
+  Updated: 2026-02-12T16:08:31+08:00
 - [Contact Information](https://theboringstore.xyz/policies/contact-information)
   Updated: 2026-02-10T18:05:29+08:00
 
