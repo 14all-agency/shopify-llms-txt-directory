@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-29T12:17:18Z
 - Contact Email: info@damastklingen-shop.de
-- Updated At: 2026-02-14T00:00:38.009Z
+- Updated At: 2026-02-23T00:00:42.567Z
 
 ## Products
 
@@ -17,7 +17,7 @@
   Updated: 2025-12-23T00:11:16Z
   Price: 99,95 € EUR
 - [Damast Klappmesser – 76 Lagen Stahl und edler Griff](https://damastklingen-shop.de/products/damast-taschenmesser-mit-holzgriff-aus-palisander): Handgefertigtes Damast Klappmesser mit 76 Lagen Stahl & Palisandergriff. Extrem scharf, langlebig & perfekt für Outdoor, Alltag & Sammler.
-  Updated: 2026-01-08T20:00:26Z
+  Updated: 2026-02-20T22:03:07Z
   Price: 69,95 € EUR
 - [Damast Bunkamesser 5,5 Zoll Ebenholzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-bunka-mit-griff-aus-ebenholz): Edles Bunka Damastmesser aus 67 Lagen Stahl & Ebenholzgriff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Jetzt im Damastklingen-Shop kaufen!
   Updated: 2025-12-24T14:35:11Z
@@ -53,7 +53,7 @@
   Updated: 2025-12-23T00:07:16Z
   Price: 64,95 € EUR
 - [Kiritsuke Damastmesser 8 Zoll mit Ebenholzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-kiritsuke-8-zoll-mit-ebenholzgriff): Edles Kiritsuke Damastmesser aus 67 Lagen Stahl & Ebenholzgriff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Im Damastklingen-Shop kaufen!
-  Updated: 2025-12-23T00:06:58Z
+  Updated: 2026-02-20T09:46:26Z
   Price: 129,95 € EUR
 - [Damast Allzweckmesser Pakkaholz 5 Zoll](https://damastklingen-shop.de/products/damast-allzweckmesser-5-zoll-mit-pakka-holzgriff): Allzweckmesser aus 67-lagigen Damaststahl & Pakkaholzgriff. Scharf, langlebig & vielseitig – ideal für Profiköche & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-24T14:35:26Z
@@ -137,7 +137,7 @@
 ## Collections
 
 - [Hochwertige Damastmesser](https://damastklingen-shop.de/collections/damastmesser): Entdecken exklusive Damastmesser aus echtem Damaststahl. Scharf, langlebig und elegant – ideal für Profis, Hobbyköche oder als besonderes Geschenk.
-  Updated: 2026-01-09T12:27:25Z
+  Updated: 2026-02-21T12:29:17Z
   Total Products: 27
 - [Messersets aus Damaststahl](https://damastklingen-shop.de/collections/damastmesser-sets): Entdecken Sie unsere exklusiven Damastmesser Sets aus echtem Damaststahl. Perfekt für Ihre Küche oder als Geschenk – stilvoll, langlebig und präzise.
   Updated: 2025-12-28T12:25:15Z
@@ -152,13 +152,13 @@
   Updated: 2025-11-25T16:15:48Z
   Total Products: 1
 - [Edles Damast Taschenmesser](https://damastklingen-shop.de/collections/taschenmesser): Exklusive Damast Taschenmesser aus echtem Damaststahl. Robust, scharf und einzigartig – ideal für Outdoor, Alltag oder als besonderes Geschenk.
-  Updated: 2026-01-09T12:27:25Z
+  Updated: 2026-02-21T12:29:17Z
   Total Products: 1
 - [Scharfe Damast Fleischmesser](https://damastklingen-shop.de/collections/damastmesser-fleischmesser): Exklusive Damast Fleischmesser aus echtem Damaststahl. Scharf, robust und langlebig – ideal für Fleischzubereitung, präzises Schneiden oder als Geschenk
-  Updated: 2025-12-11T12:49:16Z
+  Updated: 2026-02-20T12:34:13Z
   Total Products: 12
 - [Präzise & hochwertige Kochmesser](https://damastklingen-shop.de/collections/damastmesser-kuchenmesser): Exklusive Damast Küchenmesser aus echtem Damaststahl. Scharf, langlebig und präzise – perfekt für Hobbyköche, Profis oder als besonderes Geschenk.
-  Updated: 2025-12-11T12:45:25Z
+  Updated: 2026-02-20T12:34:13Z
   Total Products: 12
 - [Edles Damast Gemüsemesser](https://damastklingen-shop.de/collections/nakiri): Exklusive Damast Nakiri Gemüsemesser aus echtem Damaststahl. Kraftvoll, scharf und langlebig – ideal für präzise Schnitte in jedes Gemüse oder Obst.
   Updated: 2026-01-09T12:27:25Z
@@ -237,11 +237,13 @@
   Updated: 2025-12-22T11:38:43Z
 - [FAQ – Damastmesser kaufen | Damastklingen-Shop](https://damastklingen-shop.de/pages/faq): FAQ – Häufig gestellte Fragen zu Damastmessern .faq-section { font-size: 1.25rem; line-height: 1.9; } .faq-title { text-align: center; font-size: 2...
   Updated: 2025-12-11T13:24:51Z
+- [Rabattcode Damastklingen-Shop](https://damastklingen-shop.de/pages/rabattcodes-damastklingen-shop): body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.6; color: #222; margin: 0; padding: 0 1rem; background-color: #f...
+  Updated: 2026-02-17T13:02:29Z
 
 ## Policies
 
 - [Privacy Policy](https://damastklingen-shop.de/policies/privacy-policy)
-  Updated: 2026-02-13T04:10:12+01:00
+  Updated: 2026-02-21T04:21:14+01:00
 - [Shipping Policy](https://damastklingen-shop.de/policies/shipping-policy)
   Updated: 2025-10-22T14:48:54+02:00
 - [Refund Policy](https://damastklingen-shop.de/policies/refund-policy)
