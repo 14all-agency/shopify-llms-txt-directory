@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2026-02-07T00:00:45.740Z
+- Updated At: 2026-02-23T00:00:48.511Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -1517,7 +1517,21 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_bf43faab-57c4-4a3d-a0db-be22dd8dc2a1.jpg?v=1768963152
   Price: $23.45 USD
-[List Continued](https://grammyshellsshed.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzQ4OTY1ODIyNjE4LCJsYXN0X3ZhbHVlIjoiODc0ODk2NTgyMjYxOCJ9)
+- [Vintage Life Metal 4x6 Picture Frame By Thompson- Sisters Theme](https://grammyshellsshed.com/products/vintage-life-metal-4x6-picture-frame-by-thompson-sisters-theme): This "Vintage Life" 4x6 Metal Picture Frame by Thompson offers a durable construction with a classic design, ideal for preserving cherished memories. It accommodates standard 4x6 photos, ensuring a perfect fit for your favorite images. The metal frame enhances durability while adding an elegant touch to any space, making it a practical choice for display or gifting.
+  Updated: 2026-02-10T09:36:28Z
+  Vendor: Grammy Shell's Shed 
+  Product Type: Picture Frame
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_243c4778-d02e-430b-acbe-d97e30d9f4f3.jpg?v=1770505815
+  Price: $14.99 USD
+- [Themed 4x6 Ceramic Picture Frame Nautical North & South Distressed Look](https://grammyshellsshed.com/products/themed-4x6-ceramic-picture-frame-nautical-north-south-distressed-loo): This themed 4x6 ceramic picture frame features a nautical North and South design with a distressed finish. Ideal for displaying memories from coastal adventures, its robust ceramic construction offers durability, while the vintage aesthetic enhances any interior decor. Perfect for preserving cherished moments in a stylish manner.
+  Updated: 2026-02-10T09:34:16Z
+  Vendor: Grammy Shell's Shed 
+  Product Type: Theme picture Frame
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_2996186a-1c7b-4b95-960a-2111fdf56303.jpg?v=1770507580
+  Price: $14.99 USD
+[List Continued](https://grammyshellsshed.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzcyNDQ1MjA4NzMwLCJsYXN0X3ZhbHVlIjoiODc3MjQ0NTIwODczMCJ9)
 
 ## Collections
 
@@ -1534,8 +1548,8 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Updated: 2026-01-14T01:07:21Z
   Total Products: 10
 - [Special Finds](https://grammyshellsshed.com/collections/special-finds): Special Items that I think should be in thier own category .
-  Updated: 2026-02-01T16:33:10Z
-  Total Products: 23
+  Updated: 2026-02-12T01:35:17Z
+  Total Products: 24
 
 ## Blogs
 
