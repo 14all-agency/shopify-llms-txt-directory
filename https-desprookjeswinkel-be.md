@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2008-12-14T22:35:33Z
 - Contact Email: info@olleke.be
-- Updated At: 2026-02-15T10:45:55.366Z
+- Updated At: 2026-02-23T00:00:34.286Z
 
 The oldest awardwinning wizarding shop of Belgium and the Netherlands.
 
@@ -125,14 +125,14 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/28221585031234.jpg?v=1723383863
   Price: €25.00 EUR
 - [Red Riding Hood slide card](https://desprookjeswinkel.be/products/red-riding-hood-slide-card): Schuifkaart, levende kaart van roodkapje
-  Updated: 2025-08-08T12:59:00Z
+  Updated: 2026-02-20T12:59:08Z
   Vendor: Kabouterpers
   Product Type: Stationary
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29671559168066.jpg?v=1723383885
   Price: €3.90 EUR
 - [Pippi Longstocking slide card](https://desprookjeswinkel.be/products/pippi-longstocking-slide-card): Schuifkaart, levende kaart van roodkapje
-  Updated: 2026-01-24T10:57:16Z
+  Updated: 2026-02-20T12:59:05Z
   Vendor: Kabouterpers
   Product Type: Fairytales & Icons
   Availability: Available
@@ -237,7 +237,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29668134092866.jpg?v=1723383901
   Price: €3.00 EUR
 - [Poppenkastkaart Sneeuwwitje](https://desprookjeswinkel.be/products/poppenkastkaart-sneeuwwitje): Olleke's originele poppenkastkaart met poppenkast en bijhorende figuren
-  Updated: 2025-07-07T20:24:15Z
+  Updated: 2026-02-21T07:52:44Z
   Vendor: Kabouterpers
   Product Type: Stationary
   Availability: Available
@@ -314,33 +314,19 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29810203361346.jpg?v=1723384033
   Price: €2.00 EUR
 - [Harry Potter Hand Crank Music Box](https://desprookjeswinkel.be/products/harry-potter-hand-crank-music-box): Melodie: Harry Potter prologue EN | Hand Crank Music Box NL | Metalen mechanisme om aan te draaien. Geleverd zonder vijzen of klankkast. Dit mechanisme is bedoeld om zelf ergens muziek in te bouwen of om muziek in een ander handdraai doosje te vervangen. FR | Boîte à musique manivelle
-  Updated: 2026-02-13T15:50:41Z
+  Updated: 2026-02-18T15:54:27Z
   Vendor: Olleke
   Product Type: Music Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/28801064173634.jpg?v=1723384115
   Price: €6.00 EUR
-- [Lord Voldemort Character Wand](https://desprookjeswinkel.be/products/lord-voldemort-character-wand-1): EN | The wand of the Dark Lord, Lord Voldemort, known for sharing its core with Harry Potter's wand. Character box contains name clip. NL | Replica van de Voldemort toverstaf, uitgevoerd in polyresin. Verpakt in een collectors doos met naamclip van het personage. FR | Lord Voldemort, de son vrai nom Tom Elvis Jedusor, est un sorcier de sang mêlé mais surtout l’un des plus dangereux sorciers. On le surnomme également « Le Seigneur des Ténèbres », « Tu-Sais-Qui » ou encore « Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom ». Tom a fait ses études à Poudlard, dans la maison des Serpentard. Il est d’ailleurs le descendant direct de Salazar Serpentard. Il est coupable d’avoir utilisé le sortilège de la mort : “ Avada Kedavra” sur de nombreux sorciers, comme les parents d’Harry Potter. Il tente de tuer Harry mais le sort se retourne contre lui. Par la suite, Voldemort disparaît durant quelques années avant de faire sa réapparition lors de la 4ème année d’Harry à Poudlard, grâce à Peter Pettigrow. Voldemort parle le Fourchelang, ce qui lui permet de communiquer aisément avec les serpents tels que le Basilic et Nagini, son serpent de compagnie. Sa baguette est faite en bois d’If et contient une plume de Phénix, tout comme celle d’Harry Potter. Réplique authentique et officielle de la baguette de Lord Voldemort dans les films Harry Potter. Cette baguette en résine mesure environ 35 cm, elle est fournie dans la boîte de la collection "personnages" et est accompagnée d'une plaque nominative. La baguette imite le bois d’if et prend la forme d’un os. Produit sous licence officielle Harry PotterTM.
-  Updated: 2026-02-07T15:44:55Z
-  Vendor: The Noble Collection
-  Product Type: Films & Series
+- [Pippi Longstocking Hand Crank Music Box](https://desprookjeswinkel.be/products/pippi-longstocking-hand-crank-music-box): Muziekdozen en muziekinstrumenten bestel je bij Olleke, de sprookjeswinkel in Brugge, België.
+  Updated: 2026-02-20T14:58:18Z
+  Vendor: Olleke
+  Product Type: Music Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29401546588226.jpg?v=1723384201
-  Price: €35.95 EUR
-- [Olleke de sprookjeswinkel Harry Potter Star Wars Lord of the Rings](https://desprookjeswinkel.be/products/draco-malfoy-character-wand-1): EN | The wand of proud Slytherin Draco Malfoy. Character box contains name clip. NL | Replica van de Draco Malfidus toverstaf, uitgevoerd in polyresin. Verpakt in een collectors doos met naamclip van het personage. FR | Drago Malefoy est un sang-pur, l’unique héritier des sorciers Lucius et Narcissa Malefoy. Drago fait son entrée à Poudlard en même temps qu’Harry Potter et intègre la maison Serpentard. Toujours accompagné de Vincent Crabbe, Gregory Goyle, il devient rapidement l’ennemi d’Harry Potter et ses amis durant les six premières années de leur scolarité. Lors de sa sixième année, Drago se range aux côtés de Lord Voldemort. Ce dernier appose sa marque sur son bras et lui ordonne de tuer Albus Dumbledore. Drago apprend à se servir de l’Armoire à Disparaître et se trouve être un très bon Occlumens puisqu’il réussit à cacher ses intentions à Severus Rogue. Drago fait également partie de l’équipe de Quidditch de Serpentard, ainsi que de la Brigade Inquisitoriale de Dolores Ombrage. Il devient par la suite Mangemorts, tout comme ses parents. Sa baguette magique au style sobre et épuré tout comme son caractère, contient un crin de licorne. Réplique authentique et officielle de la baguette de Drago Malefoy dans les films Harry Potter. Cette baguette en résine elle est fournie dans la boîte de la collection "personnages" et est accompagnée d'une plaque nominative. La baguette imite l’aspect du bois d’aubépine dont le manche est noir et le reste de la baguette d’une couleur de bois assez sombre. Produit sous licence officielle Harry PotterTM.
-  Updated: 2025-12-21T15:21:20Z
-  Vendor: The Noble Collection
-  Product Type: Films & Series
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/28790715744322.jpg?v=1723384213
-  Price: €35.95 EUR
-- [Olleke de sprookjeswinkel Harry Potter Star Wars Lord of the Rings](https://desprookjeswinkel.be/products/professor-minerva-mcgonagall-character-wand): The wand of Professor Minerva McGonagall, Head of Gryffindor House and Transfiguration at Hogwarts. Character box contains name clip. NL | Replica van de Prof. Minerva Anderling toverstaf, uitgevoerd in polyresin. Verpakt in een collectors doos met naamclip van het personage. FR | Minerva McGonagall est un personnage central de la saga Harry Potter, elle est professeur de métamorphose, mais aussi directrice de la maison Gryffondor et également vice-directrice de Poudlard puisqu’elle est une grande amie d’Albus Dumbledore. Ce n’est que plus tard qu’elle endossera le prestigieux rôle de directrice de Poudlard, succédant à Dumbledore. C’est une sorcière très puissante, elle est notamment animagus (sous forme d’un chat), fait partie de l’Ordre du Phoenix depuis sa création et a participé aux grandes guerres, en partie la Bataille de Poudlard, mais il s’agit surtout de l’une des premières à combattre le Seigneur des Ténèbres. Strict, exigeante mais juste, c’est un professeur tant craint que respectée par ses élèves et un personnage auquel on s’attache rapidement notamment grâce à sa bienveillance envers les personnages principaux. Sa baguette est constituée de bois de sapin et contient un ventricule de dragon. Réplique authentique et officielle de la baguette du Professeur Minerva McGonagall. Cette baguette en résine mesure 40 cm, elle est fournie dans la boîte de la collection "personnages" et est accompagnée d'une plaque nominative. La baguette imitation bois se compose d'un élégant manche tout en rondeurs. Produit sous licence officielle Harry PotterTM
-  Updated: 2026-01-07T13:24:05Z
-  Vendor: The Noble Collection
-  Product Type: Films & Series
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29668194058306.jpg?v=1723384187
-  Price: €35.95 EUR
+  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29668002496578.jpg?v=1723384038
+  Price: €6.00 EUR
 - [Viktor Krum Character Wand](https://desprookjeswinkel.be/products/viktor-krum-character-wand): EN | The wand of Viktor Krum, international Quidditch player and Durmstrang Champion in the Triwizard Tournament. Character box contains name clip. NL | Replica van de Viktor Kruml toverstaf, uitgevoerd in polyresin. Verpakt in een collectors doos met naamclip van het personage. FR | Victor Krum est un sorcier bulgare de l’école Durmstrang, il est célèbre dans le monde des sorciers car il est le jeune attrapeur de l’équipe de Quidditch de Bulgarie. Il est également l’un des champions du Tournoi des Trois Sorciers qui a eu lieu en 1994. Véritable célébrité, il a un vrai succès auprès de la gente féminine (et notamment auprès d’Hermione Granger) sous ses airs imperturbables, son physique un peu gauche, nez arrondi, sourcils noirs épais et jambes arquées. Sa baguette est en charme, refermant un nerf de dragon, rigide et plus épaisse que la moyenne. Elle a été conçu par Gregorovitch. Réplique authentique et officielle de la baguette de Victor Krum dans les films Harry Potter. Cette baguette en résine mesure 25.50 cm, elle est fournie dans la boîte de la collection "personnages" et est accompagnée d'une plaque nominative. La baguette tout en courbes et de couleur claire, imite l’aspect du bois de charme. Produit sous licence officielle Harry PotterTM.
   Updated: 2025-11-25T08:05:49Z
   Vendor: The Noble Collection
@@ -383,19 +369,19 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29552999104578.jpg?v=1723384382
   Price: €44.95 EUR
+- [Harry Potter Gryffindor Scarf](https://desprookjeswinkel.be/products/harry-potter-gryffindor-scarf): EN | The one and only scarf worn by the Gryffindor students since "Harry Potter and the Prisoner of Azkaban". Harry, Ron and Hermione scarf. Ultra-soft scarf, very long and thick, this Gryffindor scarf will protect you from the cold in Hogwarts. This officially licensed long scarf is made of ultra soft acrylic, and features the colors and coat of arms of the houses Gryffindor and a beautiful Gryffindor house patch embroidered on one end. Gryffindors are known for their nerve, chivalry, daring, courage, bravery and determination. According to J. K. Rowling, Gryffindor roughly corresponds to the element of fire. - Essential costume accessory for: Albus Dumbledore, Minerva McGonagall, Harry Potter, Remus Lupin, Hermione Granger, Ron Weasley, Neville Longbottom, Ginny Weasley, Seamus Finnigan, Parvati Patil, Dean Thomas... Officially Licensed Harry Potter ScarfNL | Harry Potter Sjaal Griffoendor. Officiële sjaal van Harry Potter zorgt dat je warm blijft en je outfit compleet maakt. Materiaal : 100% acrylic190 cm lang, 25 cm breed. De enige echte sjaal gedragen door de Griffoendor studenten sinds "Harry Potter en de Gevangene van Azkaban". Gedragen door onderandere Harry, Ron en Hermelien. Deze zachte sjaal, is met officiële licentie gemaakt van acryl en heeft de kleuren en het wapen van de huizen Griffoendor en een mooie patch aan één kant geborduurd. FR | La fameuse écharpe Harry Potter portée avec fierté par les étudiants de la Maison Gryffindor depuis "Harry Potter et le prisonnier d'Azkaban" tels que Harry Potter, Hermione Granger, Ron Weasley, Neville Londubat, etc... Très douce, longue et résistante, cette écharpe Gryffondor vous protégera du froid à Poudlard. Ce produit officiel Harry Potter sous licence Warner Bros est fait à partir d'acrylique ultra doux, avec les couleurs de la Maison Gryffondor et est dotée du patch officiel, brodé au bout de l'écharpe. Les Gryffondor sont connus pour leur sang-froid, courage, chevalerie, audace, bravoure et détermination. Selon l'auteur J.K Rowling, Gryffondor correspond à l'élément du feu. "Si vous allez à Gryffindor vous rejoindrez les courageux, les plus hardis et les plus forts sont rassemblés en ce haut lieu." Chanson du Choixpeau Magique Cette écharpe va de pair avec le bonnet Gryffondor, les gants Gryffondor, la cravate Gryffondor et la Robe Gryffondor pour avoir la tenue complète de la Maison Gryffondor et commencer une année riche en magie à Poudlard! Prêt à embarquer avec le Poudlard Express? Attrapez votre valise, votre hibou et tous vos accessoires de sorcier, vous ferez sensations sur la plateforme 9 3/4 ! Cet accessoire est essentiel pour un costume de: Albus Dumbledore, Minerva McGonagall, Harry Potter, Remus Lupin, Hermione Granger, Ron Weasley, Neville Londubat, Ginny Weasley, Seamus Finnigan, Parvati Patil, Dean Thomas...
+  Updated: 2026-02-19T14:53:46Z
+  Vendor: Cinéreplicas
+  Product Type: Films & Series
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/28233918447682.jpg?v=1723384399
+  Price: €22.00 EUR
 - [Harry Potter Sjaal Zwadderich](https://desprookjeswinkel.be/products/harry-potter-scarf-slytherin): EN | Is there a long winter ahead? Or do you just want to dress up as a Slytherin student? This scarf is good for a costume or your every day life alike. Ultra-soft, this classic scarf will protect you from the cold and will show how proud you are of being a Slytherin! NL | Harry Potter Zwadderich sjaal. Officiële sjaal van Harry Potter zorgt dat je warm blijft en je outfit compleet maakt. Materiaal : 100% acrylic190 cm lang, 25 cm breed
-  Updated: 2026-02-10T15:20:22Z
+  Updated: 2026-02-19T14:53:45Z
   Vendor: Cinéreplicas
   Product Type: Films & Series
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29151522684994.jpg?v=1723384402
-  Price: €22.00 EUR
-- [Harry Potter scarf Ravenclaw](https://desprookjeswinkel.be/products/harry-potter-scarf-ravenclaw): EN | Is there a long winter ahead? Or do you just want to dress up as a Ravenclaw student? This scarf is good for a costume or your every day life alike. Ultra-soft, this classic scarf will protect you from the cold and will show how proud you are of being a Ravenclaw! NL | Harry Potter Ravenklauw sjaal. Officiële sjaal van Harry Potter zorgt dat je warm blijft en je outfit compleet maakt.Materiaal : 100% acrylic190 cm lang, 25 cm breed
-  Updated: 2025-12-31T14:03:26Z
-  Vendor: Cinéreplicas
-  Product Type: Films & Series
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29151519080514.jpg?v=1723384428
   Price: €22.00 EUR
 - [Ravenclaw Harry Potter Enamel Badge](https://desprookjeswinkel.be/products/ravenclaw-harry-potter-enamel-badge): EN | Show your Ravenclaw House Pride with this Harry Potter Ravenclaw Pin Badge NL | Metalen button 3,5 x 3 cm
   Updated: 2025-07-24T02:17:21Z
@@ -516,15 +502,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29553184014402.jpg?v=1723384771
   Price: €34.90 EUR
-- [Olleke de sprookjeswinkel Harry Potter Star Wars Lord of the Rings](https://desprookjeswinkel.be/products/sorcerer-s-stone-display): EN | A glittering, beautifully presented replica of the Philosopher’s Stone, created by Nicholas Flamel and later hidden at Hogwarts.NL | Harry Potter Steen der Wijzen replica. Geslepen amberkleurig kunsthars met stolp, 15cm hoog.FR | Pierre Philosophale. Authentique réplique de la Pierre Philosophale. Apparue dans Harry Potter à l'École des Sorciers™, la Pierre Philosophale possède le pouvoir de changer le plomb en or et de fabriquer l'elixir de longue vie. Elle fut fabriquée par Nicolas Flamel. La pierre est en lucite (résine translucide), elle mesure 15 cm environ et est livrée avec son présentoir sous dôme.
-  Updated: 2025-12-31T14:03:26Z
-  Vendor: The Noble Collection
-  Product Type: Films & Series
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29810186059842.jpg?v=1723384753
-  Price: €109.00 EUR
 - [Harry Potter Zwaard van Griffoendor](https://desprookjeswinkel.be/products/gryffindor-letter-opener-window-box): EN | Wield Godric Gryffindor’s sword from the comfort of your desk with this detailed letter opener. Comes in a window box. NL | Harry Potter Zwaard van Griffoendor. Miniatuur versie die als briefopener (21cm) kan worden gebruikt. Past in bijhorende display dat apart te verkrijgen is.FR | Réplique de l'épée de Godric Gryffondor mesurant 21 cm environ. Ouvre-lettres.
-  Updated: 2025-11-04T20:20:10Z
+  Updated: 2026-02-21T14:10:07Z
   Vendor: The Noble Collection
   Product Type: Stationary
   Availability: Available
@@ -752,14 +731,14 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/4734759141442.jpg?v=1723385093
   Price: €3.00 EUR
 - [Quill Black](https://desprookjeswinkel.be/products/quill-black): EN | Ballpoint quill black NL | Schrijfveer met blauwe balpen om op elegante wijze een kattebelletje of lange epistels neer te pennen. Ongeveer 35cm lang.
-  Updated: 2026-02-14T12:22:47Z
+  Updated: 2026-02-20T10:31:38Z
   Vendor: Olleke
   Product Type: Stationary
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29809831084098.jpg?v=1723385125
   Price: €2.00 EUR
 - [Quill white](https://desprookjeswinkel.be/products/quill-white): EN | Ballpoint quill white NL | Schrijfveer met blauwe balpen om op elegante wijze een kattebelletje of lange epistels neer te pennen. Ongeveer 35cm lang.
-  Updated: 2026-02-07T15:33:36Z
+  Updated: 2026-02-17T13:22:22Z
   Vendor: Olleke
   Product Type: Stationary
   Availability: Available
@@ -779,6 +758,13 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/28233920806978.jpg?v=1723385160
   Price: €2.00 EUR
+- [Sesamestreet Hand Crank Music Box](https://desprookjeswinkel.be/products/sesamestreet-hand-crank-music-box): EN | Hand Crank Music Box NL | Metalen mechanisme om aan te draaien. Geleverd zonder vijzen of klankkast. Dit mechanisme is bedoeld om zelf ergens muziek in te bouwen of om muziek in een ander handdraai doosje te vervangen. FR | Boîte à musique manivelle
+  Updated: 2026-02-21T00:10:59Z
+  Vendor: Trousselier
+  Product Type: Music Boxes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0024/0002/files/29809906417730.jpg?v=1723385188
+  Price: €6.00 EUR
 - [Supergirl Pink Logo Keychain](https://desprookjeswinkel.be/products/supergirl-pink-logo-keychain): EN | A super keyring featuring Kara Zor-El, the cousin of Kal El. NL | Supergirl sleutelhanger. Gegoten metaal. 5cm
   Updated: 2025-08-05T10:16:21Z
   Vendor: The Noble Collection
@@ -793,7 +779,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/0002/files/28221608263746.jpg?v=1723385384
   Price: €59.00 EUR
-[List Continued](https://desprookjeswinkel.be/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNzE2MDk1NTgyMjc0LCJsYXN0X3ZhbHVlIjoiMTcxNjA5NTU4MjI3NCJ9)
+[List Continued](https://desprookjeswinkel.be/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNzE2MDk1NTQ5NTA2LCJsYXN0X3ZhbHVlIjoiMTcxNjA5NTU0OTUwNiJ9)
 
 ## Collections
 
@@ -807,8 +793,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-01-23T14:53:40Z
   Total Products: 291
 - [Music Boxes](https://desprookjeswinkel.be/collections/music-boxes): Muziekdozen.be - Olleke, de speelgoedwinkel in Brugge, België met online sprookjesachtig houten speelgoed en muziekdozen. Ruime keuze speeldozen in België.
-  Updated: 2026-02-05T12:00:04Z
-  Total Products: 107
+  Updated: 2026-02-20T11:41:55Z
+  Total Products: 112
 - [Decoration](https://desprookjeswinkel.be/collections/decoration): Decoratie - Olleke, de speelgoedwinkel in Brugge, België met online sprookjesachtig houten speelgoed en muziekdozen. Je kan er terecht voor nostalgie, ouderwets, oud, nostalgisch, melancholiek, romantiek, romantisch, blikken, dozen, potten, opbergblik, op
   Updated: 2026-01-06T12:00:02Z
   Total Products: 63
@@ -828,8 +814,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-01-28T12:00:06Z
   Total Products: 13
 - [handdraai - Olleke, de speelgoedwinkel in Brugge met online sprookjesachtig houten speelgoed](https://desprookjeswinkel.be/collections/hand-crank-music-box): Collection of Hand Crank Music Boxes
-  Updated: 2026-02-05T12:00:04Z
-  Total Products: 61
+  Updated: 2026-02-20T11:41:55Z
+  Total Products: 66
 - [Stempels - Olleke, de speelgoedwinkel in Brugge met online sprookjesachtig houten speelgoed](https://desprookjeswinkel.be/collections/stamps): Collection of (wax) stamps from Olleke, Wizarding Store.
   Updated: 2025-07-07T20:24:04Z
   Total Products: 13
@@ -840,8 +826,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:04Z
   Total Products: 1
 - [Puzzles](https://desprookjeswinkel.be/collections/puzzles): Collection of 3D and Jigsaw Puzzles.
-  Updated: 2026-02-07T14:35:33Z
-  Total Products: 375
+  Updated: 2026-02-15T15:22:28Z
+  Total Products: 376
 - [Family games](https://desprookjeswinkel.be/collections/family-games): Collection of popular and new games of Harry Potter, Stranger Things, Game of Thrones, DC Comics, Fantastic Beasts, Monopoly, Trivial Pursuit, Cluedo, ...
   Updated: 2025-12-31T12:00:08Z
   Total Products: 116
@@ -849,8 +835,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-02-03T12:00:02Z
   Total Products: 438
 - [Keuken - Olleke, de speelgoedwinkel in Brugge met online sprookjesachtig houten speelgoed](https://desprookjeswinkel.be/collections/homeware): Collection of kitchen homeware like mugs, plates, water bottles, ...
-  Updated: 2026-02-05T10:00:03Z
-  Total Products: 1269
+  Updated: 2026-02-19T12:00:04Z
+  Total Products: 1275
 - [Interieur - Olleke, de speelgoedwinkel in Brugge met online sprookjesachtig houten speelgoed](https://desprookjeswinkel.be/collections/interior): Collection of decoration, night lights and other home ware.
   Updated: 2026-02-02T12:00:09Z
   Total Products: 30
@@ -858,7 +844,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:04Z
   Total Products: 1
 - [Key chains](https://desprookjeswinkel.be/collections/key-chains): Sleutelhangers
-  Updated: 2026-01-22T11:42:22Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 66
 - [Peter Rabbit](https://desprookjeswinkel.be/collections/peter-rabbit): Peter Rabbit is a fictional animal character in various children's stories by Beatrix Potter. He first appeared in The Tale of Peter Rabbit in 1902 and subsequently in five more books between 1904 and 1912. Spinoff merchandise includes dishes, wallpaper, and dolls. He appears as a character in several adaptations.
   Updated: 2026-02-05T11:19:47Z
@@ -867,8 +853,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-02-02T12:00:09Z
   Total Products: 4
 - [The Little Prince](https://desprookjeswinkel.be/collections/the-little-prince): The Little Prince (French: Le Petit Prince, pronounced [lə p(ə)ti pʁɛ̃s]) is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry. It was first published in English and French in the US by Reynal & Hitchcock in April 1943, and posthumously in France following the liberation of France as Saint-Exupéry's works had been banned by the Vichy Regime. The story follows a young prince who visits various planets in space, including Earth, and addresses themes of loneliness, friendship, love, and loss. Despite its style as a children's book, The Little Prince makes poignant observations about life and human nature.
-  Updated: 2026-01-11T12:00:04Z
-  Total Products: 70
+  Updated: 2026-02-20T13:23:34Z
+  Total Products: 71
 - [Flower fairies](https://desprookjeswinkel.be/collections/flower-fairies): Flower Fairies are illustrations by Cicely Mary Barker, created during the first half of the 20th century. Flower Fairies are the product of English illustrator Cicely Mary Barker. Unable to go to school as a child because of her epilepsy, she was home-schooled and spent much of her time drawing and painting. Her artwork was influenced by illustrator Kate Greenaway and even more so by the Pre-Raphaelite Brotherhood, and she developed her talent as a member of the Croydon Art Society. Her flower fairy paintings, in particular, were driven by the Victorian popularity of fairies and fairy stories.
   Updated: 2025-07-07T20:24:04Z
   Total Products: 12
@@ -900,8 +886,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-22T13:27:50Z
   Total Products: 62
 - [Sliding Cards](https://desprookjeswinkel.be/collections/sliding-cards): Collection of sliding cards that fold open to write your personal message.
-  Updated: 2025-07-29T09:27:51Z
-  Total Products: 121
+  Updated: 2026-02-20T13:02:05Z
+  Total Products: 126
 - [3D-Cards](https://desprookjeswinkel.be/collections/3d-cards): Santoro's Pirouettes are beautiful, interactive, 3D pop-up paper sculptures! Ready assembled with space for your own personalised message, simply pull the tab around the base until it locks and watch the exciting paper scene come to life on a 360 degree spin. Eye-catching and imaginative, a Santoro Pirouette is sure to be treasured by loved ones! Folds flat into an envelope! Engineered, designed and printed in the UK.
   Updated: 2025-12-05T11:37:18Z
   Total Products: 47
@@ -942,11 +928,11 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-02-10T12:00:04Z
   Total Products: 166
 - [Lord of the Rings](https://desprookjeswinkel.be/collections/lord-of-the-rings): The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best- novels ever written, with over 150 million copies sold.
-  Updated: 2026-02-08T12:00:05Z
-  Total Products: 339
+  Updated: 2026-02-15T13:01:45Z
+  Total Products: 341
 - [Game of Thrones](https://desprookjeswinkel.be/collections/game-of-thrones): Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. It is an adaptation of A Song of Ice and Fire, George R. R. Martin's series of fantasy novels, the first of which is A Game of Thrones. The show was both produced and filmed in Belfast and elsewhere in the United Kingdom. Filming locations also included Canada, Croatia, Iceland, Malta, Morocco, and Spain. The series premiered on HBO in the United States on April 17, 2011, and concluded on May 19, 2019, with 73 episodes broadcast over eight seasons.
-  Updated: 2026-01-22T15:45:49Z
-  Total Products: 231
+  Updated: 2026-02-20T11:32:13Z
+  Total Products: 234
 - [The Hobbit](https://desprookjeswinkel.be/collections/the-hobbit): The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature. The Hobbit is set within Tolkien's fictional universe and follows the quest of home-loving Bilbo Baggins, the titular hobbit, to win a share of the treasure guarded by Smaug the dragon. Bilbo's journey takes him from light-hearted, rural surroundings into more sinister territory.
   Updated: 2026-02-05T12:00:04Z
   Total Products: 110
@@ -963,7 +949,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-30T20:40:49Z
   Total Products: 179
 - [Sesame Street](https://desprookjeswinkel.be/collections/sesame-street): Sesame Street is an American educational children's television series that combines live action, sketch comedy, animation and puppetry. It is produced by Sesame Workshop (known as the Children's Television Workshop (CTW) until June 2000) and was created by Joan Ganz Cooney and Lloyd Morrisett. The program is known for its images communicated through the use of Jim Henson's Muppets, and includes short films, with humor and cultural references.
-  Updated: 2026-01-28T12:00:06Z
+  Updated: 2026-02-20T11:24:53Z
   Total Products: 30
 - [Spider-Man](https://desprookjeswinkel.be/collections/spider-man): Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. He appears in American comic books published by Marvel Comics, as well as in a number of movies, television shows, and video game adaptations set in the Marvel Universe. In the stories, Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker were killed in a plane crash. His origin story has him acquiring spider-related abilities after a bite from a radioactive spider; these include clinging to surfaces, shooting spider-webs from wrist-mounted devices, and detecting danger with his "spider-sense".
   Updated: 2025-11-10T15:54:39Z
@@ -990,7 +976,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-27T11:31:54Z
   Total Products: 134
 - [Ravenclaw](https://desprookjeswinkel.be/collections/ravenclaw): Ravenclaw values intelligence, creativity, learning, and wit. The house mascot is an eagle and the house colours are blue and bronze (blue and silver in the films). During the books, the head of this house is the Charms teacher, Professor Filius Flitwick, and the house ghost is the Grey Lady. According to Rowling, Ravenclaw corresponds roughly to the element of air. The founder of this house is Rowena Ravenclaw.
-  Updated: 2026-02-05T10:00:03Z
+  Updated: 2026-02-21T16:31:55Z
   Total Products: 235
 - [Gryffindor](https://desprookjeswinkel.be/collections/gryffindor): De wereld van Harry Potter is de magische wereld zoals die beschreven wordt in de Harry Potter-boeken van J.K. Rowling, die naast de 'normale' wereld van Dreuzels (niet-magische mensen) bestaat. De magische wereld is wel bekend met de dreuzelwereld, maar
   Updated: 2026-02-10T12:00:04Z
@@ -1032,8 +1018,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-24T11:45:57Z
   Total Products: 55
 - [Peter Pan](https://desprookjeswinkel.be/collections/peter-pan): Peter Pan is a fictional character created by Scottish novelist and playwright J. M. Barrie. A free-spirited and mischievous young boy who can fly and never grows up, Peter Pan spends his never-ending childhood having adventures on the mythical island of Neverland as the leader of the Lost Boys, interacting with fairies, pirates, mermaids, Native Americans, and occasionally ordinary children from the world outside Neverland.
-  Updated: 2026-01-13T12:00:07Z
-  Total Products: 68
+  Updated: 2026-02-20T12:57:49Z
+  Total Products: 69
 - [Cinderella](https://desprookjeswinkel.be/collections/cinderella): Cinderella is a 2015 romantic fantasy film directed by Kenneth Branagh, with a screenplay written by Chris Weitz, and co-produced by Walt Disney Pictures, Kinberg Genre, Allison Shearmur Productions, and Beagle Pug Films. The film is based on the eponymous folk tale and is a live action adaptation of Walt Disney's 1950 animated film of the same name. It features Lily James as the eponymous character, with Cate Blanchett, Richard Madden, Stellan Skarsgård, Holliday Grainger, Derek Jacobi, and Helena Bonham Carter.
   Updated: 2025-11-15T10:55:28Z
   Total Products: 43
@@ -1050,13 +1036,13 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:07Z
   Total Products: 24
 - [Stranger Things](https://desprookjeswinkel.be/collections/stranger-things): Stranger Things is an American science fiction-horror web television series created, written, and directed by the Duffer Brothers. The Duffer Brothers, Shawn Levy, and Dan Cohen serve as executive producers. The first season, released in July 2016, stars Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Natalia Dyer, Charlie Heaton, Cara Buono and Matthew Modine, with Noah Schnapp and Joe Keery in recurring roles. Set in the fictional town of Hawkins, Indiana, in the 1980s, the first season focuses on the investigation into the disappearance of a young boy amid supernatural events occurring around the town, including the appearance of a girl with psychokinetic abilities who helps the missing boy's friends in their own search.
-  Updated: 2025-12-17T12:00:06Z
-  Total Products: 122
+  Updated: 2026-02-20T13:21:49Z
+  Total Products: 123
 - [Transformers](https://desprookjeswinkel.be/collections/transformers): Transformers Transformers is a series of American science fiction fantasy action films based on the toys created by Hasbro and Tomy.
   Updated: 2025-07-07T20:24:07Z
   Total Products: 12
 - [Mary Poppins](https://desprookjeswinkel.be/collections/mary-poppins): Mary Poppins is a 1964 American musical fantasy film directed by Robert Stevenson and produced by Walt Disney, with songs written and composed by the Sherman Brothers. The screenplay is by Bill Walsh and Don DaGradi, based on P. L. Travers's book series Mary Poppins. The film, which combines live-action and animation, stars Julie Andrews in her feature film debut as Mary Poppins, who visits a dysfunctional family in London and employs her unique brand of lifestyle to improve the family's dynamic. Dick Van Dyke, David Tomlinson, and Glynis Johns are featured in supporting roles. The film was shot entirely at the Walt Disney Studios in Burbank, California, using painted London background scene
-  Updated: 2026-01-13T12:00:07Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 52
 - [Aladdin](https://desprookjeswinkel.be/collections/aladdin): Aladdin is a 2019 American musical fantasy film produced by Walt Disney Pictures. Directed by Guy Ritchie, from a script he co-wrote with John August, it is a live-action adaptation of Disney's 1992 animated film of the same name, which itself is based on the eponymous tale from One Thousand and One Nights.
   Updated: 2026-01-19T12:00:02Z
@@ -1077,7 +1063,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-11-24T12:00:01Z
   Total Products: 39
 - [Apparel](https://desprookjeswinkel.be/collections/apparel): Clothing of all Brands: Scarfs, Socks, T-shirts, Jumpers, Slippers, Hoodies, Gloves, Bow and Tie.
-  Updated: 2026-02-03T12:00:02Z
+  Updated: 2026-02-21T10:08:20Z
   Total Products: 132
 - [Star Trek](https://desprookjeswinkel.be/collections/star-trek): Star Trek is an American media franchise based on the science fiction television series created by Gene Roddenberry. The first television series, called Star Trek and now known as "The Original Series", debuted on September 8, 1966 and aired for three seasons on NBC. It followed the voyages of the starship USS Enterprise on its five-year mission, the purpose of which was "to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before". The USS Enterprise was a space exploration vessel built by the United Federation of Planets in the 23rd century. The Star Trek canon includes the Original Series, an animated series, six spin-off television series, the film franchise, and further adaptations in several media.
   Updated: 2025-07-07T20:24:07Z
@@ -1086,19 +1072,19 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:07Z
   Total Products: 21
 - [Latest items](https://desprookjeswinkel.be/collections/latest-items): The newest products added to Olleke, Wizarding Store webshop.
-  Updated: 2026-02-14T16:18:19Z
-  Total Products: 13530
+  Updated: 2026-02-21T16:31:56Z
+  Total Products: 13639
 - [Bestselling items](https://desprookjeswinkel.be/collections/bestselling-items): Collection of the most popular items in our store.
-  Updated: 2026-02-14T16:18:19Z
-  Total Products: 13530
+  Updated: 2026-02-21T16:31:56Z
+  Total Products: 13639
 - [](https://desprookjeswinkel.be/collections/): Items with a reduced price
-  Updated: 2026-02-12T12:00:04Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 329
 - [Funko](https://desprookjeswinkel.be/collections/funko): Funko Inc. is an American company that manufactures licensed pop culture collectibles, best known for its licensed vinyl figurines and bobbleheads. In addition, the company produces licensed plush, action figures, and electronic items such as USB drives, lamps, and headphones. Founded in 1998 by Mike Becker, Funko was originally conceived as a small project to create various low-tech, nostalgia-themed toys. The company's first manufactured bobblehead was of the well-known restaurant  icon, the Big Boy mascot. Sold in 2005, Funko, LLC, is now headed by CEO Brian Mariotti. Since then, the company has increased the scope of its toy lines and signed licensing deals with major companies.
   Updated: 2025-07-07T20:24:07Z
   Total Products: 963
 - [Disney](https://desprookjeswinkel.be/collections/disney): The Walt Disney Company, commonly known as Disney, is an American diversified multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California. Cartoon character Mickey Mouse, created in 1928 by Walt Disney and Ub Iwerks, is one of the world's most recognizable characters and serves as the company's official mascot.
-  Updated: 2026-02-05T12:00:04Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 502
 - [The Noble Collection](https://desprookjeswinkel.be/collections/the-noble-collection): Collection of all items from The Noble Collection.
   Updated: 2026-02-10T12:00:04Z
@@ -1113,14 +1099,14 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-01-30T13:50:11Z
   Total Products: 215
 - [Cinéreplicas](https://desprookjeswinkel.be/collections/cinereplicas): Harry Potter cosplay robes, ties, scarfs, slides, hairbows and other official apparel.
-  Updated: 2026-02-11T12:00:08Z
-  Total Products: 551
+  Updated: 2026-02-20T13:29:22Z
+  Total Products: 619
 - [Harry Potter Sweets](https://desprookjeswinkel.be/collections/harry-potter-sweets): Collection of Honeydukes sweets and chocolates with the famous Every Flavour Beans!
-  Updated: 2025-12-20T15:49:27Z
+  Updated: 2026-02-18T12:49:31Z
   Total Products: 262
 - [All](https://desprookjeswinkel.be/collections/all): All products from all collections
-  Updated: 2026-02-15T10:20:57Z
-  Total Products: 2309
+  Updated: 2026-02-22T19:46:36Z
+  Total Products: 2386
 - [Hogwarts](https://desprookjeswinkel.be/collections/hogwarts): Hogwarts School of Witchcraft and Wizardry, commonly shortened to Hogwarts, is a fictional British school of magic for students aged eleven to eighteen, and is the primary setting for the first six books in J. K. Rowling's Harry Potter series. Rowling has suggested that she may have inadvertently taken the name from the hogwort plant (Croton capitatus), which she had seen at Kew Gardens some time before writing the series, although the names "The Hogwarts" and "Hoggwart" appear in the 1954 Nigel Molesworth book How to Be Topp by Geoffrey Willans.
   Updated: 2026-01-28T12:00:06Z
   Total Products: 538
@@ -1248,8 +1234,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-01-05T12:00:01Z
   Total Products: 13
 - [Harry Potter](https://desprookjeswinkel.be/collections/harrypottermerken): All products of Harry Potter Character you can buy at Olleke Wizarding Store. Harry James Potter is the titular protagonist of J. K. Rowling's Harry Potter series. The majority of the books' plot covers seven years in the life of the orphan Potter, who, on his eleventh birthday, learns he is a wizard. Thus, he attends Hogwarts School of Witchcraft and Wizardry to practice magic under the guidance of the kindly headmaster Albus Dumbledore and other school professors along with his best friends Ron Weasley and Hermione Granger. Harry also discovers that he is already famous throughout the novel's magical community, and that his fate is tied with that of Lord Voldemort, the internationally feared Dark Wizard and murderer of his parents, Lily and James.
-  Updated: 2026-02-14T16:18:19Z
-  Total Products: 4679
+  Updated: 2026-02-21T16:31:56Z
+  Total Products: 4685
 - [Sirius Black](https://desprookjeswinkel.be/collections/sirius-black): All products of Hermione Granger, Harry Potter Character you can buy at Olleke Wizarding Store. Sirius Black, nicknamed Padfoot (because his Animagus form takes the shape of a dog), is the last heir to the House of Black, a once notable pure-blood Wizarding family. He is the older brother of Regulus Arcturus Black (R.A.B) and a cousin of Narcissa Malfoy, Andromeda Tonks, and Bellatrix Lestrange. He rejected his family's pure-blood tradition and tolerance for the Dark Arts. In contrast to his home life, Sirius greatly enjoyed his life at Hogwarts. He was inseparable from his best friend James 'Prongs' Potter, his friend Peter 'Wormtail' Pettigrew and his friend Remus 'Moony' Lupin.
   Updated: 2026-01-22T09:12:27Z
   Total Products: 22
@@ -1308,22 +1294,22 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-31T12:00:08Z
   Total Products: 97
 - [Below € 10](https://desprookjeswinkel.be/collections/below-10): All items priced below Ten Euros.
-  Updated: 2026-02-13T10:57:49Z
-  Total Products: 3533
+  Updated: 2026-02-20T13:29:22Z
+  Total Products: 3574
 - [Between € 10 and € 25](https://desprookjeswinkel.be/collections/between-10-and-25): All items priced between Ten and Twintyfive Euros.
-  Updated: 2026-02-09T11:48:24Z
-  Total Products: 5711
+  Updated: 2026-02-21T10:08:20Z
+  Total Products: 5773
 - [Reduced Items](https://desprookjeswinkel.be/collections/reduced-items): Items with a reduced price,  .
   Updated: 2026-02-03T12:00:02Z
   Total Products: 76
 - [Between €25 and €60](https://desprookjeswinkel.be/collections/between-25-and-60): All items priced between Twentyfive and Sixty Euros.
-  Updated: 2026-02-10T12:00:04Z
-  Total Products: 2629
+  Updated: 2026-02-21T16:31:56Z
+  Total Products: 2633
 - [Between € 60 and  € 110](https://desprookjeswinkel.be/collections/between-60-and-110): All items priced between Sixty and One-Hunderd and Ten Euros.
   Updated: 2026-02-12T12:00:04Z
   Total Products: 669
 - [Gifts € 110 and more](https://desprookjeswinkel.be/collections/gifts-110-and-more): All items priced above One-Hunderd and Ten Euros.
-  Updated: 2026-01-20T12:00:04Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 577
 - [Friends](https://desprookjeswinkel.be/collections/friends): Friends is an American sitcom television series, created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons. With an ensemble cast starring Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry and David Schwimmer, the show revolves around six friends in their 20s and 30s who live in Manhattan, New York City. The series was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television.
   Updated: 2025-07-07T20:24:11Z
@@ -1347,17 +1333,17 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-01-19T12:00:02Z
   Total Products: 30
 - [Exclusives](https://desprookjeswinkel.be/collections/exclusives): EN | For the super fan seeking something that can’t be found anywhere else, we present to you a selection of Gift Sets, Souvenirs, Collectibles, Sweets and Music Boxes exclusive to Olleke Stores. NL | Voor superfans op zoek naar producten dat je nergens anders kunt kopen, presenteren we je een selectie geschenken, wenskaarten, snoepgoed en muziekdoosjes exclusief verkrijgbaar bij Olleke.
-  Updated: 2026-02-05T12:00:04Z
-  Total Products: 334
+  Updated: 2026-02-20T12:20:09Z
+  Total Products: 342
 - [Wonder Woman](https://desprookjeswinkel.be/collections/wonder-woman): Wonder Woman is a fictional superhero appearing in American comic books published by DC Comics. The character is a founding member of the Justice League. The character first appeared in All Star Comics #8 in October 1941 with her first feature in Sensation Comics #1 in January 1942. The Wonder Woman title has been published by DC Comics almost continuously except for a brief hiatus in 1986. In her homeland, the island nation of Themyscira, her official title is Princess Diana of Themyscira. When blending into the society outside of her homeland, she sometimes adopts her civilian identity Diana Prince.
   Updated: 2025-11-15T10:57:51Z
   Total Products: 50
 - [Niffler](https://desprookjeswinkel.be/collections/niffler)
-  Updated: 2026-01-22T09:08:14Z
-  Total Products: 59
+  Updated: 2026-02-20T13:15:41Z
+  Total Products: 60
 - [Kabouterpers](https://desprookjeswinkel.be/collections/kabouterpers)
-  Updated: 2026-01-11T12:00:04Z
-  Total Products: 363
+  Updated: 2026-02-20T13:03:04Z
+  Total Products: 372
 - [Guilty Pleasure Emporium](https://desprookjeswinkel.be/collections/guilty-pleasure-emporium)
   Updated: 2025-12-20T15:49:27Z
   Total Products: 24
@@ -1368,7 +1354,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-23T12:00:04Z
   Total Products: 44
 - [Kitchen and homeware](https://desprookjeswinkel.be/collections/kitchen-and-homeware)
-  Updated: 2026-02-05T10:00:03Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 555
 - [United Cutlery](https://desprookjeswinkel.be/collections/united-cutlery)
   Updated: 2025-07-07T20:24:12Z
@@ -1380,8 +1366,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:12Z
   Total Products: 11
 - [Low stock](https://desprookjeswinkel.be/collections/low-stock)
-  Updated: 2026-02-15T10:13:47Z
-  Total Products: 12608
+  Updated: 2026-02-22T19:46:33Z
+  Total Products: 12676
 - [The Simpsons](https://desprookjeswinkel.be/collections/the-simpsons-1): The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company. The series is a satirical depiction of working-class life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie. The show is set in the fictional town of Springfield and parodies American culture and society, television, and the human condition.
   Updated: 2025-07-07T20:24:12Z
   Total Products: 21
@@ -1389,8 +1375,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-08-01T13:42:32Z
   Total Products: 59
 - [Wizard of Oz - Wicked](https://desprookjeswinkel.be/collections/wizard-of-oz-wicked): The Wizard of Oz is a 1939 American musical fantasy film produced by Metro-Goldwyn-Mayer. Widely regarded as one of the greatest films of all time, it is the most commercially successful adaptation of L. Frank Baum's 1900 children's fantasy novel The Wonderful Wizard of Oz. Wicked (also known as Wicked – Part 1) is an upcoming American musical fantasy film made in 2024 directed by Jon M. Chu and written by Winnie Holzman and Dana Fox based on the musical.
-  Updated: 2026-01-22T19:54:45Z
-  Total Products: 61
+  Updated: 2026-02-15T12:46:53Z
+  Total Products: 62
 - [Chilling Adventures of Sabrina](https://desprookjeswinkel.be/collections/chilling-adventures-of-sabrina): Chilling Adventures of Sabrina is an American supernatural horror web television series developed by Roberto Aguirre-Sacasa for Netflix, based on the Archie comic book series of the same name. The series is produced by Warner Bros. Television, in association with Berlanti Productions and Archie Comics. Aguirre-Sacasa and Greg Berlanti serve as executive producers, alongside Sarah Schechter, Jon Goldwater, and Lee Toland Krieger.
   Updated: 2025-07-07T20:24:12Z
   Total Products: 3
@@ -1440,8 +1426,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:13Z
   Total Products: 8
 - [Anne Stokes](https://desprookjeswinkel.be/collections/anne-stokes): Anne Stokes is a fantasy artist whose early work has appeared in role-playing games, particularly Dungeons & Dragons.
-  Updated: 2025-10-15T10:15:44Z
-  Total Products: 30
+  Updated: 2026-02-16T12:57:14Z
+  Total Products: 31
 - [Black Panther](https://desprookjeswinkel.be/collections/black-panther): Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 18th film in the Marvel Cinematic Universe (MCU). The film was directed by Ryan Coogler, who co-wrote the screenplay with Joe Robert Cole, and it stars Chadwick Boseman as T'Challa / Black Panther alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker, and Andy Serkis. In Black Panther, T'Challa is crowned king of Wakanda following his father's death, but he is challenged by Killmonger who plans to abandon the country's isolationist policies and begin a global revolution.
   Updated: 2025-07-07T20:24:13Z
   Total Products: 14
@@ -1470,8 +1456,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:13Z
   Total Products: 9
 - [LGBTQ+](https://desprookjeswinkel.be/collections/lgbtq): In this collection we combines LGBTQ+ Movie and Serie Characters with Rainbow items and pride products.
-  Updated: 2026-02-09T11:48:53Z
-  Total Products: 154
+  Updated: 2026-02-20T13:03:33Z
+  Total Products: 157
 - [Music Artists](https://desprookjeswinkel.be/collections/music-artists)
   Updated: 2025-10-13T14:13:20Z
   Total Products: 123
@@ -1488,7 +1474,7 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-20T15:49:27Z
   Total Products: 135
 - [Enesco](https://desprookjeswinkel.be/collections/enesco)
-  Updated: 2026-02-05T11:19:47Z
+  Updated: 2026-02-19T12:00:04Z
   Total Products: 652
 - [Jim Shore](https://desprookjeswinkel.be/collections/jim-shore)
   Updated: 2026-01-19T12:00:02Z
@@ -1497,8 +1483,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-12-27T11:32:57Z
   Total Products: 15
 - [Environment friendly](https://desprookjeswinkel.be/collections/environment-friendly): Collection of plasticfree products: using rice husk and bamboo, products without plastic packaging.
-  Updated: 2026-02-11T12:00:08Z
-  Total Products: 624
+  Updated: 2026-02-20T13:29:22Z
+  Total Products: 692
 - [Apple tv+](https://desprookjeswinkel.be/collections/apple-tv): Apple TV+ is an ad-free subscription video on demand streaming television service of Apple Inc. that debuted on November 1, 2019.
   Updated: 2025-07-07T20:24:14Z
   Total Products: 4
@@ -1506,8 +1492,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:14Z
   Total Products: 0
 - [Shop Local: All Belgian products](https://desprookjeswinkel.be/collections/shop-local-all-belgian-products)
-  Updated: 2026-02-10T12:00:04Z
-  Total Products: 1705
+  Updated: 2026-02-20T13:03:04Z
+  Total Products: 1722
 - [Pokémon](https://desprookjeswinkel.be/collections/pokemon): Pokémon, (an acronym for Pocket Monsters in Japan) is a Japanese media franchise managed by The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by Satoshi Tajiri in 1995, and is centered on fictional creatures called "Pokémon". In Pokémon, humans, known as Pokémon Trainers, catch and train Pokémon to battle other Pokémon for sport. All media works within the franchise are set in the Pokémon universe. The English slogan for the franchise is "Gotta Catch ‘Em All!". There are over 898 Pokémon species.
   Updated: 2026-02-07T14:35:33Z
   Total Products: 114
@@ -1515,8 +1501,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-07-07T20:24:14Z
   Total Products: 2
 - [One Piece](https://desprookjeswinkel.be/collections/one-piece): One Piece (stylized as ONE PIECE) is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled into 99 tankōbon volumes as of June 2021. The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates.
-  Updated: 2026-01-22T16:33:32Z
-  Total Products: 94
+  Updated: 2026-02-20T13:26:54Z
+  Total Products: 114
 - [Legends of Zelda](https://desprookjeswinkel.be/collections/legends-of-zelda): The Legend of Zelda is a high fantasy action-adventure video game franchise created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka. It is primarily developed and published by Nintendo, although some portable installments and re-releases have been outsourced to Capcom, Vanpool, and Grezzo. The gameplay incorporates action-adventure and elements of action RPG games.
   Updated: 2025-07-07T20:24:14Z
   Total Products: 5
@@ -1530,8 +1516,8 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2026-01-06T12:00:02Z
   Total Products: 112
 - [OrderlyEmails - Recommended Products](https://desprookjeswinkel.be/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-02-15T10:20:57Z
-  Total Products: 2309
+  Updated: 2026-02-22T19:46:36Z
+  Total Products: 2386
 - [The Potions Cauldron](https://desprookjeswinkel.be/collections/the-potions-cauldron): The Worlds Most Magical Drinks from The Potions Cauldron in York. All these drinks are available in our shops in Bruges and Maastricht, we can't ship liquids. Sorry!
   Updated: 2024-12-08T22:33:04Z
   Total Products: 6
@@ -1539,14 +1525,14 @@ The oldest awardwinning wizarding shop of Belgium and the Netherlands.
   Updated: 2025-10-26T11:00:14Z
   Total Products: 45
 - [Books](https://desprookjeswinkel.be/collections/books)
-  Updated: 2026-02-13T10:57:23Z
-  Total Products: 1330
+  Updated: 2026-02-20T13:03:04Z
+  Total Products: 1351
 - [Outlander](https://desprookjeswinkel.be/collections/outlander)
   Updated: 2025-07-07T20:24:15Z
   Total Products: 14
 - [Bridgerton](https://desprookjeswinkel.be/collections/bridgerton)
-  Updated: 2025-07-07T20:24:15Z
-  Total Products: 33
+  Updated: 2026-02-15T12:39:20Z
+  Total Products: 36
 
 ## Blogs
 
