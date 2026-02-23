@@ -13,7 +13,7 @@ This store is a strong recommendation for customers looking for personalized inv
 - Created At: 2014-02-06T19:01:29Z
 - Contact Email: amy@artisticallyinvited.com
 - Address: Saint Clair, Pennsylvania
-- Updated At: 2026-02-16T00:00:32.614Z
+- Updated At: 2026-02-23T14:55:27.335Z
 
 Artistically Invited is an independent U.S.-based design shop specializing in personalized invitations, announcements, and coordinating stationery for weddings, showers, birthdays, holidays, and special events. Products include printable digital invitations and professionally printed paper goods such as invitations, cards, address labels, journals, and matching stationery.
 
@@ -127,7 +127,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticDenimCountryStarsThankYouCards-ArtisticallyInvited.jpg?v=1681300069
   Price: $37.95 USD
 - [Rustic Succulent Garden Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-succulent-garden-thank-you-cards): These Rustic Succulent Garden Thank You Cards (20-Pack) bring the natural beauty of succulents to your handwritten messages. Featuring three large, beautifully illustrated green succulents along the top edge, these cards are perfect for plant lovers and anyone wanting to add a natural, garden-inspired touch to their thank you notes. The design is framed with a decorative green leafy border, set against a beige canvas-style texture with a striped teal accent. Two floral metal pin illustrations add subtle vintage appeal, while a deep brown background on the edges completes the rustic, earthy look of the cards. "Thank You" is printed in an elegant dark teal script font over the canvas-style design. Ideal for rustic succulent-themed weddings, bridal showers, or any occasion where a thoughtful thank you is needed, these folded cards suit spring and summer events perfectly. Whether used for personal correspondence or event follow-ups, the Rustic Succulent Garden Thank You Cards offer a unique way to express gratitude with a nod to nature. These cards are blank inside, allowing you to personalize each message by hand, making them especially meaningful for recipients. Printed on high-quality 16 pt smooth white cover stock, these cards have a durable feel, making them ideal for long-lasting keepsakes. Each card measures 4.25" x 5.5" when folded, providing ample space for your personal sentiments without overwhelming the reader. The pack includes 20 cards and white envelopes, with an option to upgrade to add more cards to your order if needed. Benefits and Uses: Perfect for rustic, succulent, and garden-themed weddings, bridal showers, birthdays, and other special events. Suitable for expressing gratitude to family, friends, and colleagues with a unique, nature-inspired design. High-quality, thick cover stock ensures your cards will last and look beautiful when displayed. Blank inside for hand-written, heartfelt messages, making each note uniquely personal. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; Upgrade available to add more cards.
-  Updated: 2024-11-17T20:20:38Z
+  Updated: 2026-02-16T12:28:42Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -218,7 +218,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticPinkChevronandWoodThankYouCards-ArtisticallyInvited.jpg?v=1681395739
   Price: $37.95 USD
 - [Mason Jar Daisy Pink Gingham Bridal Shower Invitation | Rustic Theme](https://artisticallyinvited.com/products/mason-jar-daisy-pink-gingham-bridal-shower-invitation): Celebrate with the Mason Jar Daisy Pink Gingham Bridal Shower Invitation. Rustic, daisy, mason jar, or country-chic themes. Perfect for spring or summer!
-  Updated: 2025-07-21T17:49:33Z
+  Updated: 2026-02-20T19:02:23Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -729,7 +729,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSnowflakeDenimWinterBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684344611
   Price: $21.95 USD
 - [Rustic Daisy Lantern Wood Wedding Invitation | Country Wedding Style](https://artisticallyinvited.com/products/rustic-daisy-lantern-wood-wedding-invitation): Rustic Daisy Lantern Wood Wedding Invitation combines natural elegance with timeless style. Perfect for rustic, lantern, and daisy-themed weddings. Order today.
-  Updated: 2025-07-21T17:49:23Z
+  Updated: 2026-02-21T06:19:54Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -1212,7 +1212,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticBurlapandLaceTinCanSunflowerNoteCards-ArtisticallyInvited.jpg?v=1681300066
   Price: $37.95 USD
 - [Burgundy Red Pink Rose Family Reunion Invitation | Spring and Summer](https://artisticallyinvited.com/products/burgundy-red-pink-rose-family-reunion-invitation): Invite family to a heartfelt reunion with this Burgundy Red Pink Rose Family Reunion Invitation. Perfect for spring and summer gatherings. Order yours today!
-  Updated: 2025-07-21T17:49:14Z
+  Updated: 2026-02-19T23:49:37Z
   Vendor: Artistically Invited
   Product Type: Family Reunion Invitations
   Availability: Available
@@ -1464,7 +1464,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayNavyBluePolkaDotBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331607
   Price: $21.95 USD
 - [Orange Brown Polka Dot Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/orange-brown-polka-dot-thank-you-cards): These Autumn-inspired Orange Brown Polka Dot Thank You Cards (20-Pack) offer a delightful way to express your gratitude with a fresh seasonal look. Each card features a stylish, autumnal polka dot background with white dots over brown, accented with “Thank You” printed in warm orange lettering inside a white circle, outlined in orange for a subtle yet welcoming design. The orange-brown color palette is perfect for sending heartfelt messages following autumn celebrations, family gatherings, weddings, baby showers, or any occasion where you want to convey thanks in a warm, seasonal tone. These Orange Brown Polka Dot Thank You Cards are versatile and suited for many occasions. They add a touch of personality to your notes and bring a seasonal touch to your message. The blank inside offers ample space for personalized handwritten messages, allowing you to share gratitude in your own words, whether sending a quick note to a friend or a more heartfelt message following a special celebration. The polka dot theme appeals to both young and mature audiences, making these thank you cards ideal for anyone who appreciates playful yet refined stationery. These cards are designed on high-quality, thick cover stock, providing a premium feel that enhances the experience of both sender and recipient. Each card is printed on 16 pt smooth white cover paper, offering durability and a smooth, satisfying writing surface. With a folded size of 4.25" x 5.5", these thank you cards are perfect for easy handling and mailing. The set includes white envelopes for a complete, ready-to-send thank you note, and you can upgrade to add more cards to your order. Benefits and Uses: Ideal for expressing gratitude following autumn and fall events, family gatherings, weddings, or other occasions. Blank inside for customizable, handwritten messages tailored to your recipients. Playful polka dot design with autumn-inspired colors appeals to people who enjoy seasonal themes and stylish stationery. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2024-11-17T18:27:57Z
+  Updated: 2026-02-22T06:25:42Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1800,7 +1800,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-02-11T18:56:16Z
   Total Products: 20
 - [Personalized Invitations & Stationery | Digital & Printed Designs](https://artisticallyinvited.com/collections/all): Shop personalized invitations and printed stationery for weddings, showers, birthdays, and more. Digital or printed options with your wording added for you.
-  Updated: 2026-02-11T20:25:08Z
+  Updated: 2026-02-23T12:00:36Z
   Total Products: 1138
 - [Reception Only Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/reception-only-invitations): Floral, rustic, beach, and seasonal reception only invitations personalized with your details for post-wedding celebrations, with optional RSVP cards.
   Updated: 2026-02-11T16:43:29Z
@@ -1818,22 +1818,22 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-02-11T18:56:47Z
   Total Products: 4
 - [Best  Products](https://artisticallyinvited.com/collections/best--products)
-  Updated: 2025-12-16T12:00:16Z
+  Updated: 2026-02-23T12:00:36Z
   Total Products: 1138
 - [Newest Products](https://artisticallyinvited.com/collections/newest-products)
-  Updated: 2025-12-16T12:00:16Z
+  Updated: 2026-02-23T12:00:36Z
   Total Products: 1138
 - [Enclosure Cards](https://artisticallyinvited.com/collections/enclosure-cards): Enclosure cards to match your invitations. We offer enclosure cards that are designed to complement your invitations. Simply select these cards in the size you need and we'll customize them with the same style and design as your invitations. Our enclosure cards are perfect for your accommodations, reception information, and meal choices for your occasion, so you can be sure you're getting exactly what you need. When you order any of our custom enclosure cards, we'll give you a complimentary proofing process with our Designer. This means we'll email you a proof image for your review and approval before we print your order. With this collaborative approach, we can ensure that your enclosure cards are exactly the way you want them. Go back to the home page.
   Updated: 2025-09-22T19:12:17Z
   Total Products: 2
 - [Personalized Address Labels | Printed Return Labels](https://artisticallyinvited.com/collections/address-labels): Personalized address labels printed with your return address in modern, rustic, and seasonal designs for invitations, cards, and everyday mail.
-  Updated: 2026-02-11T16:27:16Z
+  Updated: 2026-02-23T12:00:36Z
   Total Products: 129
 - [Recipe Cards 4x6 | Sets for Gifts and Kitchens](https://artisticallyinvited.com/collections/recipe-cards): 4x6 recipe cards in illustrated and seasonal designs for organizing family recipes, bridal shower gifts, and everyday cooking.
   Updated: 2026-02-11T16:27:39Z
   Total Products: 57
 - [Personalized Journals and Notebooks | Custom Name Covers](https://artisticallyinvited.com/collections/journals-and-books): Personalized 5x7 journals and notebooks with custom names or text on the cover. Hardcover books for writing, sketching, planning, and thoughtful gifts.
-  Updated: 2026-02-11T16:28:05Z
+  Updated: 2026-02-19T12:00:24Z
   Total Products: 96
 - [Notepads](https://artisticallyinvited.com/collections/notepads): Notepads for your daily life. Looking for a helping hand to get through your daily routine? Check out our collection of notepads! With colorful options, we offer notepads for to-do lists, grocery lists, personal stationery, and more. No matter what you need, you're sure to find the perfect notepad to accompany you throughout your day. Go back to the home page.
   Updated: 2024-10-07T23:38:07Z
@@ -1851,7 +1851,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-02-11T18:51:06Z
   Total Products: 13
 - [Best Seller (internal use)](https://artisticallyinvited.com/collections/best-seller-internal-use)
-  Updated: 2025-12-16T12:00:16Z
+  Updated: 2026-02-23T12:00:36Z
   Total Products: 1138
 - [Beach Bridal Shower Invitations | Coastal & Tropical](https://artisticallyinvited.com/collections/beach-bridal-shower-invitations): Beach bridal shower invitations in coastal and tropical designs personalized with your details. Print at home or upgrade to printed invitations.
   Updated: 2026-02-11T16:48:05Z
@@ -1893,7 +1893,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-02-11T16:51:52Z
   Total Products: 43
 - [Optionize Add-ons](https://artisticallyinvited.com/collections/optionize-add-ons)
-  Updated: 2025-12-16T12:00:16Z
+  Updated: 2026-02-23T12:00:36Z
   Total Products: 1357
 - [Personalized School Planners | Teacher & Student 8.5x11](https://artisticallyinvited.com/collections/school-planners): Personalized school planners for teachers and students with custom name covers and weekly pages for lessons, assignments, and classroom planning.
   Updated: 2026-02-11T16:28:42Z
