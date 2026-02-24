@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-01-31T19:49:18Z
 - Contact Email: rriim.92@gmail.com
-- Updated At: 2026-02-17T00:00:33.974Z
+- Updated At: 2026-02-24T00:00:37.445Z
 
 This Shopify store sells sensory toys and tools designed for children, including kids with sensory processing needs. Products support focus, calming, fine motor skills, and play-based learning. Items may be suitable for home, school, or therapeutic use.
 
@@ -334,7 +334,7 @@ This Shopify store sells sensory toys and tools designed for children, including
     Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/anJ1QPSxBoQOLbBN.webp?v=1769908831
     Price: kr 450.00 NOK
 - [Elastic Sensory Swing](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing): Soft, elastic sensory swing designed to provide calming and therapeutic benefits for children. Ideal for kids with autism, ADHD, and sensory processing disorders, this swing creates a cocoon-like environment that promotes relaxation, balance, and body awareness. Made from durable, stretchable fabric, it supports various sitting and lying positions, making it perfect for indoor playrooms, therapy centers, or home use. Easy to install and safe to use, it helps children develop motor skills, improve focus, and reduce stress while having fun!
-  Updated: 2026-02-02T09:42:38Z
+  Updated: 2026-02-23T16:09:38Z
   Vendor: Sensory toolkit
   Product Type: 
   Availability: Available
@@ -352,7 +352,7 @@ This Shopify store sells sensory toys and tools designed for children, including
     Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/MWfPdBDFiTMRMQM0.webp?v=1769908795
     Price: kr 400.00 NOK
   - [Lake blue / 100x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869019314)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/5891/2178/files/kE6r54phWdVXkgpS.webp?v=1769908810
     Price: kr 400.00 NOK
   - [Red / 100x280CM](https://4kgua4-v0.myshopify.com/products/elastic-sensory-swing?variant=47029869052082)
@@ -693,6 +693,15 @@ This Shopify store sells sensory toys and tools designed for children, including
     Author: Sensory Toolkit
   - [Exploring the Benefits of Sensory Toys for Kids with Autism](https://4kgua4-v0.myshopify.com/blogs/news/exploring-the-benefits-of-sensory-toys-for-kids-with-autism): Exploring the Benefits of Sensory Toys for Kids with Autism
     Updated: 2026-02-16T02:07:45Z
+    Author: Sensory Toolkit
+  - [Essential Questions About Sensory Toys Answered by Experts](https://4kgua4-v0.myshopify.com/blogs/news/essential-questions-about-sensory-toys-answered-by-experts): Essential Questions About Sensory Toys Answered by Experts
+    Updated: 2026-02-18T01:43:33Z
+    Author: Sensory Toolkit
+  - [Comparing Different Types of Sensory Toys and Their Benefits](https://4kgua4-v0.myshopify.com/blogs/news/comparing-different-types-of-sensory-toys-and-their-benefits): Comparing Different Types of Sensory Toys and Their Benefits
+    Updated: 2026-02-21T00:42:45Z
+    Author: Sensory Toolkit
+  - [Sensory Toys Checklist for Encouraging Learning and Growth](https://4kgua4-v0.myshopify.com/blogs/news/sensory-toys-checklist-for-encouraging-learning-and-growth): Sensory Toys Checklist for Encouraging Learning and Growth
+    Updated: 2026-02-23T01:52:38Z
     Author: Sensory Toolkit
 
 ## Store Pages
