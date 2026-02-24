@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-01-01T19:35:07Z
 - Contact Email: casatekitty98@gmail.com
-- Updated At: 2026-02-17T00:00:41.261Z
+- Updated At: 2026-02-24T00:00:42.729Z
 
 ## Products
 
@@ -66,6 +66,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Gloss1.png?v=1771285642
   Price: 11.500,00 $ COP
+- [Lip Glaze Mariposa - Doble Aplicador Silicona y Doe Foot 5 Tonos | CASA.T](https://casa-t-2.myshopify.com/products/lip-glaze-mariposa-doble-aplicador-silicona-y-doe-foot-5-tonos): Labial tinta Lip Glaze Mariposa con doble aplicador innovador: silicona y doe foot. 5 tonos diferentes, color intenso, acabado duradero. Versatilidad profesional. CASA.T Colombia.
+  Updated: 2026-02-18T01:33:46Z
+  Vendor: CASA.T
+  Product Type: Maquillaje - Labios
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Lip_Glaze_Mariposa.png?v=1771378212
+  Price: 5500,00 $ COP
 
 ## Collections
 
