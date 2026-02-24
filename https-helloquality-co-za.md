@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2021-06-22T16:20:57Z
 - Contact Email: sales@helloquality.co.za
-- Updated At: 2026-02-14T00:00:40.068Z
+- Updated At: 2026-02-24T00:00:44.183Z
 
 ## Products
 
@@ -779,7 +779,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_wafer_hotmelt.jpg?v=1686131031
   Price: R 1,325.00 ZAR
 - [Lace Option - Closed vamp](https://helloquality.co.za/products/closed-vamp): Closed vamp neat look
-  Updated: 2026-01-25T19:12:34Z
+  Updated: 2026-02-17T12:14:05Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -807,7 +807,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_full_brogue.png?v=1686143032
   Price: R 395.00 ZAR
 - [Lace Option - Speed Lacing](https://helloquality.co.za/products/speed-lacing): Speed lacing with hook eyeletes
-  Updated: 2026-01-25T19:12:35Z
+  Updated: 2026-02-16T23:54:00Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -870,7 +870,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HQE_Products_Custom_wing_plain.jpg?v=1686144118
   Price: R 345.00 ZAR
 - [Leather Spur Straps](https://helloquality.co.za/products/spur-straps): Upgrade your equestrian gear with our Spur Straps. Made with high-quality leather, these assorted straps allow you to choose the perfect color to match your style. Experience superior comfort and control while riding with these durable and customizable straps. Elevate your performance today. Comes in a set of 2 straps | One size fits all. Average 40 - 50cm long
-  Updated: 2026-01-25T19:12:35Z
+  Updated: 2026-02-16T20:01:42Z
   Vendor: Hello Quality Equestrian
   Product Type: Leather Riding Boots
   Availability: Available
@@ -1262,71 +1262,71 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/JerryDetailed_4.jpg?v=1701873572
   Price: R 3,495.00 ZAR
 - [Salento Kids Boots](https://helloquality.co.za/products/salento-kids-1): Step into the world of exquisite comfort and sophisticated style with Salento Kids jodhpur boots. Crafted from the highest grade of leather, these children's jodhpur boots are designed with attention to detail, perfect for riding and outdoor activities. Product Details: Genuine Leather Uppers Durable elasticated sides for slip-on comfort Comfortable padded footbed Rubber outsoles
-  Updated: 2026-01-25T19:12:39Z
+  Updated: 2026-02-16T20:17:07Z
   Vendor: Hello Quality Equestrian
   Product Type: Kids Jodhpur Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/SalentoKids_5.jpg?v=1718572647
   - [8 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43135413878967)
     Availability: Available
-    Price: R 699.00 ZAR
+    Price: R 799.00 ZAR
   - [9 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43135413911735)
     Availability: Available
-    Price: R 699.00 ZAR
+    Price: R 799.00 ZAR
   - [10 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43013981241527)
     Availability: Available
-    Price: R 799.00 ZAR
+    Price: R 899.00 ZAR
   - [11 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43013981274295)
     Availability: Available
-    Price: R 799.00 ZAR
+    Price: R 899.00 ZAR
   - [12 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43013981307063)
     Availability: Available
     Price: R 899.00 ZAR
   - [13 (kids) / Tan](https://helloquality.co.za/products/salento-kids-1?variant=42087466631351)
     Availability: Available
-    Price: R 899.00 ZAR
+    Price: R 999.00 ZAR
   - [1 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43013981339831)
     Availability: Available
     Price: R 1,099.00 ZAR
   - [2 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43013981372599)
     Availability: Available
-    Price: R 1,099.00 ZAR
+    Price: R 1,299.00 ZAR
   - [3 / Tan](https://helloquality.co.za/products/salento-kids-1?variant=43135411585207)
     Availability: Available
-    Price: R 1,299.00 ZAR
+    Price: R 1,499.00 ZAR
 - [Salento Kids Jodhpur Boots](https://helloquality.co.za/products/salento-kids-2): Discover the perfect blend of style and comfort with Salento's children showing boots. Made with high-quality materials, these boots are durable and long-lasting. Their classic design and secure fit provide the necessary support for your child's outdoor activities. These boots are made in rich oxblood leather which makes them suitable for showing. Order now and see the difference! Product Details: Genuine Leather Uppers Durable elasticated sides for slip-on comfort Comfortable padded footbed Rubber soles Distinct heel so that foot doesn't slide off the stirrups.
-  Updated: 2026-01-25T19:12:39Z
+  Updated: 2026-02-16T20:19:18Z
   Vendor: Hello Quality Equestrian
   Product Type: Kids Jodhpur Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/SalentoKids_2_566f992e-06ee-440e-a3ac-bd96fb3d5058.jpg?v=1718572154
   - [8 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43135379701943)
     Availability: Available
-    Price: R 699.00 ZAR
+    Price: R 799.00 ZAR
   - [9 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43135379734711)
     Availability: Available
-    Price: R 699.00 ZAR
+    Price: R 799.00 ZAR
   - [10 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=42087475380407)
     Availability: Available
     Price: R 799.00 ZAR
   - [11 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43013958271159)
     Availability: Available
-    Price: R 799.00 ZAR
+    Price: R 899.00 ZAR
   - [12 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43013958303927)
     Availability: Available
     Price: R 899.00 ZAR
   - [13 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43013958336695)
     Availability: Available
-    Price: R 899.00 ZAR
+    Price: R 999.00 ZAR
   - [1 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43013958369463)
     Availability: Available
     Price: R 1,099.00 ZAR
   - [2 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43013958402231)
     Availability: Available
-    Price: R 1,099.00 ZAR
+    Price: R 1,299.00 ZAR
   - [3 / Chestnut](https://helloquality.co.za/products/salento-kids-2?variant=43135379767479)
     Availability: Available
-    Price: R 1,299.00 ZAR
+    Price: R 1,499.00 ZAR
 - [Erina Vellies](https://helloquality.co.za/products/erina-vellies): Experience exclusive comfort in the Erina Vellies. Crafted with the finest Erina leather, these stylish shoes give the perfect modern touch to any ensemble while their cushioned insole keeps your feet supported and feeling luxurious. Perfect for any stylish occasion. Product Details: Genuine leather uppers 2-way lace design Soft padded footbed Durable rubber soles
   Updated: 2026-01-25T19:12:39Z
   Vendor: Hello Quality Equestrian
@@ -1354,7 +1354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/4D9A0420.jpg?v=1738069307
   Price: R 2,134.00 ZAR
 - [Parker](https://helloquality.co.za/products/parker): Experience a luxurious style like no other. The Parker boot crafted with premium leather and a sophisticated silhouette is the perfect way to elevate your fashion look. Step out in style with these timeless, one-of-a-kind luxury boots.
-  Updated: 2026-01-25T19:12:39Z
+  Updated: 2026-02-23T01:49:00Z
   Vendor: Hello Quality Equestrian
   Product Type: Men's Leather Boot
   Availability: Available
@@ -1910,7 +1910,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/366-4D9A7856.jpg?v=1718198536
   Price: R 1,749.00 ZAR
 - [Tororo Jodhpur Boots](https://helloquality.co.za/products/tororo-4): Add an unique touch of luxury to your wardrobe with our Tororo leather jodphur boots in stunning pink. Crafted from premium materials, these boots exude elegance and sophistication. Step into style and comfort with the perfect blend of art and fashion. Product Details: Genuine leather uppers Sturdy front YKK zipper Leather lined Soft padded footbed Durable rubber soles
-  Updated: 2026-01-25T19:12:42Z
+  Updated: 2026-02-21T07:39:24Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -2709,71 +2709,71 @@
     Availability: Available
     Price: R 2,649.00 ZAR
 - [Marino Men's Work Boots](https://helloquality.co.za/products/marino-boots-men): Stay dry and stylish with our Marino slip on waterproof boots. With their easy slip on design, these unisex boots are perfect for any weather. Leave the hassle of laces behind and enjoy the benefits of dry, comfortable feet all day long. Perfect for any outdoor adventure or daily commute. Product Properties Waterproof leather uppers Napa leather lining Elasticated for comfort Padded footbed Rubber outsoles
-  Updated: 2026-01-25T19:12:43Z
+  Updated: 2026-02-17T05:03:45Z
   Vendor: Hello Quality Equestrian
   Product Type: Work Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/20230310_061843.jpg?v=1718573416
   - [3 / Black](https://helloquality.co.za/products/marino-boots-men?variant=43014024691895)
     Availability: Available
-    Price: R 1,999.00 ZAR
+    Price: R 2,499.00 ZAR
   - [3 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=43014024724663)
     Availability: Available
-    Price: R 1,999.00 ZAR
+    Price: R 2,499.00 ZAR
   - [4 / Black](https://helloquality.co.za/products/marino-boots-men?variant=43014024757431)
     Availability: Available
-    Price: R 1,999.00 ZAR
+    Price: R 2,499.00 ZAR
   - [4 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=43014024790199)
     Availability: Available
-    Price: R 1,999.00 ZAR
+    Price: R 2,499.00 ZAR
   - [5 / Black](https://helloquality.co.za/products/marino-boots-men?variant=43014024822967)
     Availability: Available
-    Price: R 2,099.00 ZAR
+    Price: R 2,499.00 ZAR
   - [5 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=43014024855735)
     Availability: Available
-    Price: R 2,099.00 ZAR
+    Price: R 2,499.00 ZAR
   - [6 / Black](https://helloquality.co.za/products/marino-boots-men?variant=43014024888503)
     Availability: Available
-    Price: R 2,099.00 ZAR
+    Price: R 2,499.00 ZAR
   - [6 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=43014024921271)
     Availability: Available
-    Price: R 2,099.00 ZAR
+    Price: R 2,499.00 ZAR
   - [7 / Black](https://helloquality.co.za/products/marino-boots-men?variant=43014024954039)
     Availability: Available
-    Price: R 2,199.00 ZAR
+    Price: R 2,499.00 ZAR
   - [7 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=43014024986807)
     Availability: Available
-    Price: R 2,199.00 ZAR
+    Price: R 2,499.00 ZAR
   - [8 / Black](https://helloquality.co.za/products/marino-boots-men?variant=42202769555639)
     Availability: Available
-    Price: R 2,199.00 ZAR
+    Price: R 2,499.00 ZAR
   - [8 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=42202769588407)
     Availability: Available
-    Price: R 2,199.00 ZAR
+    Price: R 2,499.00 ZAR
   - [9 / Black](https://helloquality.co.za/products/marino-boots-men?variant=42202775060663)
     Availability: Available
-    Price: R 2,299.00 ZAR
+    Price: R 2,499.00 ZAR
   - [9 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=42202775093431)
     Availability: Available
-    Price: R 2,299.00 ZAR
+    Price: R 2,499.00 ZAR
   - [10 / Black](https://helloquality.co.za/products/marino-boots-men?variant=42202775126199)
     Availability: Available
-    Price: R 2,399.00 ZAR
+    Price: R 2,499.00 ZAR
   - [10 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=42202775158967)
     Availability: Available
-    Price: R 2,399.00 ZAR
+    Price: R 2,499.00 ZAR
   - [11 / Black](https://helloquality.co.za/products/marino-boots-men?variant=42202775191735)
     Availability: Available
-    Price: R 2,599.00 ZAR
+    Price: R 2,499.00 ZAR
   - [11 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=42202775224503)
     Availability: Available
-    Price: R 2,599.00 ZAR
+    Price: R 2,499.00 ZAR
   - [12 / Black](https://helloquality.co.za/products/marino-boots-men?variant=42202775257271)
     Availability: Available
-    Price: R 2,799.00 ZAR
+    Price: R 2,499.00 ZAR
   - [12 / Brown](https://helloquality.co.za/products/marino-boots-men?variant=42202775290039)
     Availability: Available
-    Price: R 2,799.00 ZAR
+    Price: R 2,499.00 ZAR
 - [Desire Work Boot (Ladies)](https://helloquality.co.za/products/desire-work-boot-ladies): Indulge in the ultimate work boot experience with the Desire Work Boot. Crafted from premium leather, these boots offer unrivaled durability and style. Whether you're on the job or on the town, the Desire Work Boot will elevate your wardrobe and provide all-day comfort. Treat yourself to luxury.
   Updated: 2026-01-25T19:12:43Z
   Vendor: Hello Quality Equestrian
@@ -3341,7 +3341,7 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/KidsStunnercurve.jpg?v=1707585472
   Price: R 0.00 ZAR
 - [Nguni Cowboy boots](https://helloquality.co.za/products/nguni-cowboy-boots): Step into luxury with our Nguni Cowboy boots. Handcrafted with exquisite Nguni leather uppers, these boots exude elegance and refinement. Experience a unique blend of comfort and style while making a fashion statement that stands out from the crowd. Nguni Cowboy boots - an icon of quality and sophistication. Nguni Leather uppers Leather Lined Square toe Brogue detailed Padded footbed Rubber outsoles
-  Updated: 2026-01-25T19:12:44Z
+  Updated: 2026-02-18T02:00:18Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -3374,7 +3374,7 @@
     Availability: Available
     Price: R 1,249.00 ZAR
 - [Tari Snake Print Long Riding Boot](https://helloquality.co.za/products/tari-snakeprint-1): Indulge in luxury with our Tari snake print leather horse riding boots. Crafted with the finest materials, these boots offer both style and functionality. Elevate your equestrian look with the unique snake print design and experience ultimate comfort and durability with each ride. Product Details: Soft leather uppers Napa leather lining Sturdy inside front YKK zips Full rubber outsoles Padded insoles Height: 45.5 cm Calf: 34 cm
-  Updated: 2026-01-25T19:12:44Z
+  Updated: 2026-02-17T06:40:49Z
   Vendor: Hello Quality Equestrian
   Product Type: Long Riding Boots
   Availability: Available
@@ -3442,7 +3442,7 @@
     Availability: Available
     Price: R 4,396.00 ZAR
 - [Corne Chelsea Boots](https://helloquality.co.za/products/salento-chelsea-boots-4): Capturing the luxury of a timeless style, the Corne Chelsea is a fashion staple. This mens leather boot will bring sophistication to any outfit, crafted with quality leather in a classic design. Step into timeless style with the Corne Chelsea. Product Details: Genuine treated leather uppers Waterproof (oil-treated) Soft padded inner footbed Rubber soles
-  Updated: 2026-01-25T19:12:45Z
+  Updated: 2026-02-21T06:20:29Z
   Vendor: Hello Quality Equestrian
   Product Type: Casual Boots
   Availability: Available
@@ -3481,161 +3481,161 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/rn-image_picker_lib_temp_9d11d856-ee01-4619-9d91-92cda3760c9f.jpg?v=1766511647
   Price: R 6,899.00 ZAR
 - [Bonolo Kids Long Riding Boot](https://helloquality.co.za/products/bonolo-gen-2-kids-black): Indulge your little equestrian with Bonolo Gen 2 Kids long-riding boots. They are handcrafted in South Africa with exquisite full-grain soft bovine leather uppers and rubber outsoles for unparalleled flexibility and comfort. Elevate their riding experience and style in these luxurious boots. Product Details: Full-grain bovine leather uppers Interior fabric lining Elastic gussets Sturdy rear YKK zippers Zip lock & guards Soft-padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-02-12T09:55:40Z
+  Updated: 2026-02-15T16:48:58Z
   Vendor: Hello Quality Equestrian
   Product Type: Kids Riding Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/KidsBonoloEconomy_72ae1e01-62ba-42e5-92e8-536b3e5b114d.jpg?v=1720860645
-  - [12 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013599887543)
+  - [8 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730413751)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730446519)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730479287)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730512055)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730544823)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Regular / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730577591)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Regular / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730610359)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Regular / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730643127)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Regular / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730675895)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Regular / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730708663)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Tall / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730741431)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Tall / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730774199)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Tall / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730806967)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Tall / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730839735)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [8 / Tall / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730872503)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730905271)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730938039)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823730970807)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731003575)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731036343)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Regular / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731069111)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Regular / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731101879)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Regular / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731134647)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Regular / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731167415)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Regular / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731200183)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Tall / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731232951)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Tall / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731265719)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Tall / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731298487)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Tall / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731331255)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [9 / Tall / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731364023)
+    Availability: Available
+    Price: R 2,799.00 ZAR
+  - [10 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731396791)
     Availability: Available
     Price: R 2,999.00 ZAR
-  - [12 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013599920311)
+  - [10 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731429559)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013599953079)
+    Price: R 2,999.00 ZAR
+  - [10 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731462327)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013599985847)
+    Price: R 2,999.00 ZAR
+  - [10 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731495095)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600018615)
+    Price: R 2,999.00 ZAR
+  - [10 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731527863)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Regular / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600051383)
+    Price: R 2,999.00 ZAR
+  - [10 / Regular / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731560631)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Regular / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600084151)
+    Price: R 2,999.00 ZAR
+  - [10 / Regular / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731593399)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Regular / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600116919)
+    Price: R 2,999.00 ZAR
+  - [10 / Regular / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731626167)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Regular / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600149687)
+    Price: R 2,999.00 ZAR
+  - [10 / Regular / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731658935)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Regular / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600182455)
+    Price: R 2,999.00 ZAR
+  - [10 / Regular / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731691703)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Tall / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600215223)
+    Price: R 2,999.00 ZAR
+  - [10 / Tall / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731724471)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Tall / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600247991)
+    Price: R 2,999.00 ZAR
+  - [10 / Tall / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731757239)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Tall / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600280759)
+    Price: R 2,999.00 ZAR
+  - [10 / Tall / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731790007)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Tall / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600313527)
+    Price: R 2,999.00 ZAR
+  - [10 / Tall / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731822775)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [12 / Tall / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600346295)
+    Price: R 2,999.00 ZAR
+  - [10 / Tall / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731855543)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600379063)
+    Price: R 2,999.00 ZAR
+  - [11 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731888311)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600411831)
+    Price: R 2,999.00 ZAR
+  - [11 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731921079)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600444599)
+    Price: R 2,999.00 ZAR
+  - [11 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731953847)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600477367)
+    Price: R 2,999.00 ZAR
+  - [11 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823731986615)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600510135)
+    Price: R 2,999.00 ZAR
+  - [11 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=46823732019383)
     Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Regular / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600542903)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Regular / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600575671)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Regular / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600608439)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Regular / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600641207)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Regular / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600673975)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Tall / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600706743)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Tall / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600739511)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Tall / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600772279)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Tall / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600805047)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [13 / Tall / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=43013600837815)
-    Availability: Available
-    Price: R 2,799.00 ZAR
-  - [1 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238458039)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238490807)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238523575)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238556343)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238589111)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Regular / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238621879)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Regular / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238654647)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Regular / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238687415)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Regular / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238720183)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Regular / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238785719)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Tall / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238818487)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Tall / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238851255)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Tall / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238884023)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Tall / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238916791)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [1 / Tall / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238949559)
-    Availability: Available
-    Price: R 3,399.00 ZAR
-  - [2 / Short / Extra Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430238982327)
-    Availability: Available
-    Price: R 3,599.00 ZAR
-  - [2 / Short / Small](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430239015095)
-    Availability: Available
-    Price: R 3,599.00 ZAR
-  - [2 / Short / Medium](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430239047863)
-    Availability: Available
-    Price: R 3,599.00 ZAR
-  - [2 / Short / Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430239080631)
-    Availability: Available
-    Price: R 3,599.00 ZAR
-  - [2 / Short / Extra Large](https://helloquality.co.za/products/bonolo-gen-2-kids-black?variant=42430239113399)
-    Availability: Available
-    Price: R 3,599.00 ZAR
+    Price: R 2,999.00 ZAR
 - [Bonolo Gen 2 Ladies Long Riding Boots](https://helloquality.co.za/products/bonolo-gen-2-ladies-black): Take on any riding challenge in style with the Bonolo Gen 2 Ladies Long Riding Boots. These flagship boots are handcrafted with soft leather uppers and are perfect for multiple riding disciplines. Stride confidently with their versatile design and conquer any terrain with ease. Upgrade your riding game today! Product Details: Full-grain bovine leather uppers Interior Napa leather lining Elastic gussets Sturdy rear YKK zippers Zip lock & guards Soft-padded memory foam footbed Durable rubber outsoles * Available in Brown or Black * Please leave a note upon checkout!
   Updated: 2026-01-25T19:12:45Z
   Vendor: Hello Quality Equestrian
@@ -5820,162 +5820,162 @@
   - [10 / Regular / Extra Large](https://helloquality.co.za/products/stunner-men?variant=42435089072311)
     Availability: Available
     Price: R 8,799.00 ZAR
-- [Tari Economy Kids Riding Boot](https://helloquality.co.za/products/tari-economy-kids): Indulge your little one with Tari Economy (Kids). These long riding boots offer incomparable quality without breaking the bank, crafted with genuine leather uppers and a luxurious fabric lining. Handmade in South Africa, these boots are a perfect blend of affordability and sophistication. Product Details: Full-grain bovine leather uppers Fabric lining Sturdy rear YKK zipper Zip locks & guards Soft-padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
-  Updated: 2026-01-25T19:12:46Z
+- [Tari Kids Riding Boot](https://helloquality.co.za/products/tari-economy-kids): Indulge your little one with Tari (Kids). These long riding boots offer incomparable quality without breaking the bank, crafted with genuine leather uppers and a luxurious fabric lining. Handmade in South Africa, these boots are a perfect blend of affordability and sophistication. Product Details: Full-grain bovine leather uppers Fabric lining Sturdy rear YKK zipper Zip locks & guards Soft-padded memory foam footbed Durable rubber soles * Available in Brown or Black * please leave a note upon checkout!!
+  Updated: 2026-02-16T05:00:39Z
   Vendor: Hello Quality Equestrian
   Product Type: Kids Riding Boots
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/4D9A9794.jpg?v=1721992848
-  - [12 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133903634615)
+  Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Tari_kids.jpg?v=1771174830
+  - [8 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919354039)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133903667383)
+  - [8 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919386807)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=43133903700151)
+  - [8 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823919419575)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133903732919)
+  - [8 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919452343)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133903765687)
+  - [8 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919485111)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Regular / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133903798455)
+  - [8 / Regular / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919517879)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Regular / Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133903831223)
+  - [8 / Regular / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919550647)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Regular / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=43133903863991)
+  - [8 / Regular / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823919583415)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Regular / Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133903896759)
+  - [8 / Regular / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919616183)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Regular / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133903929527)
+  - [8 / Regular / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919648951)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Tall / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133903962295)
+  - [8 / Tall / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919681719)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Tall / Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133903995063)
+  - [8 / Tall / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919714487)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Tall / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=43133904027831)
+  - [8 / Tall / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823919747255)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Tall / Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904060599)
+  - [8 / Tall / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919780023)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [12 / Tall / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904093367)
+  - [8 / Tall / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919812791)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133904126135)
+  - [9 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919845559)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133904158903)
+  - [9 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823919878327)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=43133904191671)
+  - [9 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823919911095)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904224439)
+  - [9 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919943863)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904257207)
+  - [9 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823919976631)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Regular / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133904289975)
+  - [9 / Regular / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920009399)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Regular / Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133904322743)
+  - [9 / Regular / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920042167)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Regular / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=43133904355511)
+  - [9 / Regular / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823920074935)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Regular / Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904388279)
+  - [9 / Regular / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920107703)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Regular / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904421047)
+  - [9 / Regular / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920140471)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Tall / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133904453815)
+  - [9 / Tall / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920173239)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Tall / Small](https://helloquality.co.za/products/tari-economy-kids?variant=43133904486583)
+  - [9 / Tall / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920206007)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Tall / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=43133904519351)
+  - [9 / Tall / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823920238775)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Tall / Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904552119)
+  - [9 / Tall / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920271543)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [13 / Tall / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=43133904584887)
+  - [9 / Tall / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920304311)
     Availability: Available
     Price: R 2,699.00 ZAR
-  - [1 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109055671)
+  - [10 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920337079)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109088439)
+    Price: R 2,699.00 ZAR
+  - [10 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920369847)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=42437109121207)
+    Price: R 2,699.00 ZAR
+  - [10 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823920402615)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109153975)
+    Price: R 2,699.00 ZAR
+  - [10 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920435383)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109186743)
+    Price: R 2,699.00 ZAR
+  - [10 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920468151)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Regular / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109219511)
+    Price: R 2,699.00 ZAR
+  - [10 / Regular / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920500919)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Regular / Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109252279)
+    Price: R 2,699.00 ZAR
+  - [10 / Regular / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920533687)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Regular / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=42437109285047)
+    Price: R 2,699.00 ZAR
+  - [10 / Regular / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823920566455)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Regular / Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109317815)
+    Price: R 2,699.00 ZAR
+  - [10 / Regular / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920599223)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Regular / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109350583)
+    Price: R 2,699.00 ZAR
+  - [10 / Regular / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920631991)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Tall / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109383351)
+    Price: R 2,699.00 ZAR
+  - [10 / Tall / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920664759)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Tall / Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109416119)
+    Price: R 2,699.00 ZAR
+  - [10 / Tall / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920697527)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Tall / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=42437109448887)
+    Price: R 2,699.00 ZAR
+  - [10 / Tall / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823920730295)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Tall / Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109481655)
+    Price: R 2,699.00 ZAR
+  - [10 / Tall / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920763063)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [1 / Tall / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109514423)
+    Price: R 2,699.00 ZAR
+  - [10 / Tall / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920795831)
     Availability: Available
-    Price: R 3,299.00 ZAR
-  - [2 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109547191)
+    Price: R 2,699.00 ZAR
+  - [11 / Short / Extra Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920828599)
     Availability: Available
-    Price: R 3,499.00 ZAR
-  - [2 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=42437109579959)
+    Price: R 2,899.00 ZAR
+  - [11 / Short / Small](https://helloquality.co.za/products/tari-economy-kids?variant=46823920861367)
     Availability: Available
-    Price: R 3,499.00 ZAR
-  - [2 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=42437109612727)
+    Price: R 2,899.00 ZAR
+  - [11 / Short / Medium](https://helloquality.co.za/products/tari-economy-kids?variant=46823920894135)
     Availability: Available
-    Price: R 3,499.00 ZAR
-  - [2 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109645495)
+    Price: R 2,899.00 ZAR
+  - [11 / Short / Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920926903)
     Availability: Available
-    Price: R 3,499.00 ZAR
-  - [2 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=42437109678263)
+    Price: R 2,899.00 ZAR
+  - [11 / Short / Extra Large](https://helloquality.co.za/products/tari-economy-kids?variant=46823920959671)
     Availability: Available
-    Price: R 3,499.00 ZAR
+    Price: R 2,899.00 ZAR
 - [Meryl Unisex slippers](https://helloquality.co.za/products/meryl-unisex-slippers-copy): The Meryl Unisex slippers are a perfect addition to any luxurious wardrobe, with their soft Italian fleece and handcrafted leather sole. Representing a combination of sophisticated craftsmanship and plush comfort, these slippers add a touch of luxury to any day. Made to order within 5 working days Product Details: Handcrafted in cow suede leather uppers. Fully lined with sheep wool lining. Lightweight grip outsole. Unisex Proudly South African made
   Updated: 2026-01-25T19:12:46Z
   Vendor: Hello Quality Equestrian
@@ -6374,73 +6374,73 @@
     Availability: Available
     Price: R 1,899.00 ZAR
 - [Lowana soft black leather gaiters / half chaps](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps): The Lowana soft black leather gaiters provide superior protection and comfort for equestrian activities. Made with high-quality leather, these half chaps offer a secure fit and durability. Stay stylish and safe while riding with Lowana. Product Properties Soft supple black leather uppers Elasticated to achieve a snug fit Sturdy rear YKK Zippers Double zip snap keepers Unlined.
-  Updated: 2026-02-11T09:15:54Z
+  Updated: 2026-02-16T20:07:14Z
   Vendor: Hello Quality Equestrian
   Product Type: Leather Gaiters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/Lowanablacksoftleathergaiters_2.jpg?v=1720814232
   - [Short / Extra Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682461367)
     Availability: Available
-    Price: R 1,399.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Short / Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682494135)
     Availability: Available
-    Price: R 1,399.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Short / Medium](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682526903)
     Availability: Available
-    Price: R 1,399.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Short / Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682559671)
     Availability: Available
-    Price: R 1,399.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Short / Extra Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682592439)
     Availability: Available
-    Price: R 1,399.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Regular / Extra Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682625207)
     Availability: Available
-    Price: R 1,499.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Regular / Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682657975)
     Availability: Available
-    Price: R 1,499.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Regular / Medium](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682690743)
     Availability: Available
-    Price: R 1,499.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Regular / Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682723511)
     Availability: Available
-    Price: R 1,499.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Regular / Extra Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682756279)
     Availability: Available
-    Price: R 1,499.00 ZAR
+    Price: R 1,795.00 ZAR
   - [Tall / Extra Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682789047)
     Availability: Available
-    Price: R 1,599.00 ZAR
+    Price: R 1,895.00 ZAR
   - [Tall / Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682821815)
     Availability: Available
-    Price: R 1,599.00 ZAR
+    Price: R 1,895.00 ZAR
   - [Tall / Medium](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682854583)
     Availability: Available
-    Price: R 1,599.00 ZAR
+    Price: R 1,895.00 ZAR
   - [Tall / Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682887351)
     Availability: Available
-    Price: R 1,599.00 ZAR
+    Price: R 1,895.00 ZAR
   - [Tall / Extra Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682920119)
     Availability: Available
-    Price: R 1,599.00 ZAR
+    Price: R 1,895.00 ZAR
   - [Extra Tall / Extra Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682952887)
     Availability: Available
-    Price: R 1,699.00 ZAR
+    Price: R 1,995.00 ZAR
   - [Extra Tall / Small](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468682985655)
     Availability: Available
-    Price: R 1,699.00 ZAR
+    Price: R 1,995.00 ZAR
   - [Extra Tall / Medium](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468683018423)
     Availability: Available
-    Price: R 1,699.00 ZAR
+    Price: R 1,995.00 ZAR
   - [Extra Tall / Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468683051191)
     Availability: Available
-    Price: R 1,699.00 ZAR
+    Price: R 1,995.00 ZAR
   - [Extra Tall / Extra Large](https://helloquality.co.za/products/lowana-soft-black-leather-gaiters-half-chaps?variant=43468683083959)
     Availability: Available
-    Price: R 1,699.00 ZAR
+    Price: R 1,995.00 ZAR
 - [Lowana soft brown leather gaiters / half chaps](https://helloquality.co.za/products/lowana-soft-brown-leather-gaiters-half-chaps): The Lowana soft brown leather gaiters provide superior protection and comfort for equestrian activities. Made with high-quality leather, these half chaps offer a secure fit and durability. Stay stylish and safe while riding with Lowana. Product Properties Soft supple brown leather uppers Elasticated to achieve a snug fit Sturdy rear YKK Zippers Double zip snap keepers Unlined.
-  Updated: 2026-02-10T20:53:26Z
+  Updated: 2026-02-20T06:13:36Z
   Vendor: Hello Quality Equestrian
   Product Type: 
   Availability: Available
@@ -6915,41 +6915,41 @@
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/4D9A0054.jpg?v=1734693343
   Price: R 3,499.00 ZAR
 - [Mera Ankle Cowboy / Western Boots](https://helloquality.co.za/products/mera-ankle-cowboy-boots): Experience the ultimate blend of style and functionality with our Mera Ankle Cowboy Boots. These boots not only add a touch of western charm to your look, but also provide unparalleled comfort and durability. With their sturdy design and high-quality materials, you can confidently take on any terrain. Product Details Leather uppers Leather lining Cushioned for comfort Rubber outsoles Low heel
-  Updated: 2026-01-25T19:12:47Z
+  Updated: 2026-02-16T20:03:12Z
   Vendor: Hello Quality Equestrian
   Product Type: Cowboy Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0579/9195/4615/files/HelloQualityEquestria_shandcraftedleatherboots_cowboyboots_cusualwear_Stylishleatherbootsforeverydayuseandsport.MadeinCapeTownSouthAfrica_26.jpg?v=1723111787
   - [Black & Brown / 3](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757059255)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 4](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757092023)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 5](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757124791)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 6](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757157559)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 7](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43151725035703)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 8](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757190327)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 9](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757223095)
     Availability: Available
-    Price: R 2,999.00 ZAR
+    Price: R 3,299.00 ZAR
   - [Black & Brown / 10](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757255863)
     Availability: Available
-    Price: R 3,199.00 ZAR
+    Price: R 3,499.00 ZAR
   - [Black & Brown / 11](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757288631)
     Availability: Available
-    Price: R 3,299.00 ZAR
+    Price: R 3,699.00 ZAR
   - [Black & Brown / 12](https://helloquality.co.za/products/mera-ankle-cowboy-boots?variant=43173757321399)
     Availability: Available
-    Price: R 3,299.00 ZAR
+    Price: R 3,999.00 ZAR
 - [Kepler Hiker](https://helloquality.co.za/products/kepler-hiker-3): The Kepler Hiker is a versatile boot crafted with premium waterproof leather in South Africa. Whether you need a sturdy work boot, a reliable hiking companion, or a stylish everyday choice, this handmade boot has you covered. Embrace luxury and functionality with the Kepler Hiker. Product Details: Genuine leather uppers (waterproof) Leather-lined Front lace-up design Soft Padded footbed Durable, rugged rubber soles
   Updated: 2026-01-25T19:12:47Z
   Vendor: Hello Quality Equestrian
@@ -6967,7 +6967,7 @@
 ## Collections
 
 - [Home page](https://helloquality.co.za/collections/horse-riding-boots-riding-boots-near-me-riding-boots-cape-town-hello-quality): Indulge in the sophisticated world of equestrianism with Hello Quality's premium brand. Crafted with exquisite attention to detail, our products provide the ultimate luxury for horse riders alike. Elevate your equestrian experience with Hello Quality Equestrian.
-  Updated: 2026-01-04T09:52:54Z
+  Updated: 2026-02-15T16:47:08Z
   Total Products: 7
 - [Custom Gaiters](https://helloquality.co.za/collections/custom-gaiters-chaps-tack-shop): Gaiters are similar to half chaps in appearance as well as purpose. They are however made from smooth leather, as opposed to the suede or other materials used for half chaps. The smooth leather gives the gaiters a smart finish and disguises your short boots even more so. Due to the smart appearance, as well as the difference in price, gaiters are now frequently used for showing purposes.
   Updated: 2025-11-06T17:27:50Z
@@ -6976,8 +6976,8 @@
   Updated: 2026-01-20T13:41:03Z
   Total Products: 29
 - [Smart Products Filter Index - Do not delete](https://helloquality.co.za/collections/globofilter-best--products-index)
-  Updated: 2026-02-13T17:54:38Z
-  Total Products: 512
+  Updated: 2026-02-21T12:15:41Z
+  Total Products: 516
 - [Gift Ideas](https://helloquality.co.za/collections/gift-ideas)
   Updated: 2026-01-04T10:01:27Z
   Total Products: 2
@@ -7012,10 +7012,10 @@
   Updated: 2025-11-06T17:27:51Z
   Total Products: 17
 - [Pre order Men work boots](https://helloquality.co.za/collections/mens-work-pre-order): Uncompromising Protection for the Modern Worker Our collection of men's work boots is designed for the hardworking individual who demands durability, comfort, and protection on the job site. Engineered to withstand the toughest conditions, our boots feature: - Reinforced toe caps - Padded ankle for comfort, stability and security. - Waterproof membranes to keep you dry in harsh environments. - High-quality materials for exceptional durability- Slip-resistant outsoles for traction on any terrain Whether you're on a construction site, in a warehouse, or tackling outdoor projects, our work boots have got you covered. With a focus on comfort, support, and protection, you can trust our boots to work as hard as you do. Browse our collection today and find the perfect pair to keep you safe and performing at your best.
-  Updated: 2025-11-06T17:27:52Z
+  Updated: 2026-02-17T05:03:46Z
   Total Products: 18
 - [Pre-order kids Standard Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-kids): Introducing the FutureFit Collection. Give your child the gift of growing confidence in the saddle with our innovative FutureFit Kids' Long Riding Boots. Designed to adapt to their changing foot and leg size, these boots can be easily resized up to two to three sizes, extending their wearability and saving you money in the long run. With a focus on comfort, safety, and style, our FutureFit boots feature: - High-quality materials for durability and support - Adjustable lacing and elastic panels for a secure fit - Rear zipper for easy on-and-off - Resizable design to accommodate growing feet  in a pair that will keep up with your child's growth and passion for riding. Explore the FutureFit Collection today!
-  Updated: 2026-02-10T20:49:38Z
+  Updated: 2026-02-15T17:51:56Z
   Total Products: 3
 - [Ladies Pre-order Long Riding Boots](https://helloquality.co.za/collections/standard-long-boots-ladies): Timeless Elegance for the Discerning Rider Introducing HQE's Standard Range of Long Riding Boots, expertly crafted for the classic equestrian look. This essential collection offers: - High-quality materials for durability and comfort- Traditional design with a sleek, sophisticated finish- Standard sizes for a comfortable, secure fit Available in a few versatile colours: To ensure you receive your preferred colour, please note your choice (Black, Brown / Navy) in the checkout notes. Our Standard Range Long Riding Boots are a wardrobe staple for any serious rider. Shop now and experience the perfect blend of style, comfort, and functionality.
   Updated: 2025-11-06T17:27:52Z
@@ -7027,13 +7027,13 @@
   Updated: 2026-02-13T16:07:17Z
   Total Products: 90
 - [PRE-ORDER](https://helloquality.co.za/collections/pre-order): A premium-selected collection of the most loved models in our product range. All items available on pre-order are made within 5 - 14 working days.
-  Updated: 2026-02-13T17:54:38Z
+  Updated: 2026-02-17T05:03:46Z
   Total Products: 97
 - [Pre-order Leather gaiters / Half Chaps](https://helloquality.co.za/collections/pre-order-leather-gaiters): Hello Quality's range of gaiters available on pre-order. All our gaiters are made from supple leather and can be worn by both sexes in exception to those with shiny details or embellishments
-  Updated: 2026-02-11T12:11:37Z
+  Updated: 2026-02-20T12:13:27Z
   Total Products: 8
 - [Pre-order Kids Jodhpur Boots.](https://helloquality.co.za/collections/kids-jodhpur-boots): Safe Riding in the Saddle At HQE, we prioritize the safety and well-being of young riders. Our collection of kids' protective riding boots is designed to provide superior protection, support, and comfort in the stirrups. We understand that a proper fit is crucial for optimal safety and performance. That's why we offer a range of sizes and styles to ensure you find the perfect pair for your child. Our boots feature: - High-quality materials for durability and protection- Anatomical design for comfortable support- Slip-resistant soles for added stability Choose HQE for your child's riding boots and give them the confidence to ride with freedom. Select a pair that fits well, and let them take the reins with safety and style.
-  Updated: 2026-02-02T12:11:23Z
+  Updated: 2026-02-16T20:19:19Z
   Total Products: 7
 - [Dressage Boots](https://helloquality.co.za/collections/dressage-boots): PRE-ORDER READY TO WEAR
   Updated: 2025-11-06T17:27:52Z
@@ -7063,16 +7063,16 @@
   Updated: 2026-02-12T16:57:01Z
   Total Products: 21
 - [Kids Riding Boots](https://helloquality.co.za/collections/kids-riding-boots): PRE-ORDER CHILDREN RIDING BOOTS - Typically ready between 7 - 14 working days.
-  Updated: 2026-02-10T20:49:38Z
+  Updated: 2026-02-16T20:07:51Z
   Total Products: 6
 - [Kids Jodhpur Boots](https://helloquality.co.za/collections/kids-jodhpur-boots-1)
-  Updated: 2026-02-02T12:11:23Z
+  Updated: 2026-02-16T20:19:19Z
   Total Products: 10
 - [Kids Riding boots](https://helloquality.co.za/collections/kids-riding-boots-1): Kids Riding boots collection with paddock boots, showing boots and long riding boots for children up to size 3
-  Updated: 2026-02-02T12:11:23Z
-  Total Products: 10
+  Updated: 2026-02-16T20:19:19Z
+  Total Products: 9
 - [Gaiter Combo Special](https://helloquality.co.za/collections/gaiter-combo-special): Enjoy 20% Off when you order a combination of gaiters and short riding boots.
-  Updated: 2026-02-11T12:11:37Z
+  Updated: 2026-02-16T20:07:06Z
   Total Products: 8
 - [Custom Add On](https://helloquality.co.za/collections/custom-add-on)
   Updated: 2026-01-20T08:06:52Z
@@ -7081,11 +7081,11 @@
   Updated: 2025-11-06T17:27:53Z
   Total Products: 14
 - [Best  Products](https://helloquality.co.za/collections/best--products)
-  Updated: 2026-02-13T17:54:38Z
-  Total Products: 512
+  Updated: 2026-02-21T12:15:41Z
+  Total Products: 516
 - [New Leather Riding Boots | Hello Quality Equestrian](https://helloquality.co.za/collections/new-leather-riding-boots-arrivals): Shop new leather riding boots by Hello Quality Equestrian. Handcrafted in South Africa from full grain leather. Explore latest arrivals, ready-to-wear.
-  Updated: 2026-02-13T17:54:38Z
-  Total Products: 512
+  Updated: 2026-02-21T12:15:41Z
+  Total Products: 516
 - [The Chapungu Range](https://helloquality.co.za/collections/the-chapungu-range): Our newest range Chapungu riding boots
   Updated: 2025-12-09T22:14:01Z
   Total Products: 0
@@ -7094,6 +7094,12 @@
   Total Products: 15
 - [Pre-Order | Junior Riders Standard Long Riding Boots](https://helloquality.co.za/collections/junior-riders-standard-long-riding-boots): Built for young riders ready to ride with confidence, our Junior Riders Standard Long Riding Boots combine elegant design with everyday performance. Crafted from premium leather and produced using our trusted standard fit system, these boots provide the support, comfort, and durability developing riders need in the saddle. Available on pre-order, each pair is freshly made to ensure consistent quality and a refined riding silhouette — perfect for training, competition, and the growing rider’s journey. Designed to Grow With Your RiderAll HQE boots can be professionally resized, allowing adjustments as young riders grow while maintaining proper fit, comfort, and performance. It’s a long-term  built to last beyond a single season. Why Choose Pre-Order• Extended junior sizing availability• Newly crafted boots made for your order• HQE standard fit precision• Fully resizable construction for growing riders• Ideal for the upcoming riding season Confidence starts with the right fit — from the very first ride.
   Updated: 2026-02-13T18:08:02Z
+  Total Products: 2
+- [Kids Gaiters / Half chaps](https://helloquality.co.za/collections/kids-gaiters-half-chaps): Smart, practical, and rider- — our Kids Leather Gaiters give young riders the look and feel of tall boots with added flexibility and comfort. A perfect stepping stone before custom or full riding boots.
+  Updated: 2026-02-16T20:07:51Z
+  Total Products: 2
+- [Standard Youth Gaiters](https://helloquality.co.za/collections/standard-youth-gaiters): Our Standard Youth Gaiters are designed for young riders seeking comfort, support, and a smart competition-ready look. Made from quality leather and shaped for developing leg proportions, they provide the appearance and stability of tall boots while offering greater flexibility for everyday riding. Perfect for schooling, training, and competition, youth gaiters pair easily with paddock boots and follow the HQE standard sizing system for a secure and reliable fit. Key Features: Youth-specific ergonomic fit Durable leather construction Comfortable, supportive leg contact Easy zip closure for everyday use Designed to grow with transitioning riders If your measurements fall outside the standard range, our Custom Fit option offers a precision alternative.
+  Updated: 2026-02-15T19:08:34Z
   Total Products: 2
 
 ## Blogs
