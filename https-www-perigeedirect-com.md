@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2016-03-17T04:05:04Z
 - Contact Email: Sales@PerigeeDirect.com
-- Updated At: 2026-02-17T00:01:19.484Z
+- Updated At: 2026-02-24T00:01:25.916Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/atlas_20mounts_20checks_20_26_20exes_3836d5b5-ac85-4976-bf8c-4158e8733a3e.jpg?v=1719874142
   Price: $83.99 USD
 - [Loctite EA E-20HP 20-Min Tough Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-e-20hp-toughened-high-strength-20-min-set-off-white-epoxy): Find Loctite EA E-20HP at Perigee Direct for toughened 20-minute set epoxy delivering strong structural bonding on metals and composites.
-  Updated: 2026-02-13T18:01:18Z
+  Updated: 2026-02-23T17:36:27Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -40,7 +40,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Loctite-E-20HP_Gun_30a6d821-2867-4e4e-89fc-ae19a0ee939d.jpg?v=1764004761
     Price: $59.99 USD
 - [Hardwood Repair Kit 50ml – Perigee Direct](https://www.perigeedirect.com/products/hardwood-repair-kit-50ml-size-with-3m-scotch-weld-dp100-3-5-min-fast-set-hardwood-epoxy-adhesive): Shop hardwood repair kit with Scotch Weld DP100 at Perigee Direct for fast set hardwood bonding offering strong durable repairs in a compact 50ml format.
-  Updated: 2026-02-16T02:50:43Z
+  Updated: 2026-02-20T16:55:57Z
   Vendor: Maven Adhesives
   Product Type: Hardwood Epoxy Repair Kits
   Availability: Available
@@ -66,7 +66,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/HardwoodRepairDrillBit3-32Inch_4238c53d-2b81-4439-b354-707d5be138d3.webp?v=1756319696
     Price: $2.99 USD
 - [Plexus MA300 MMA 5-Minute Adhesive 30500 – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma300-all-purpose-high-strength-5-minute-mma-adhesive-30500-30000): Shop Plexus MA300 at Perigee Direct. Five-minute MMA adhesive for high-strength bonds on metals, plastics and composites. Order cartridges today.
-  Updated: 2026-02-14T03:50:33Z
+  Updated: 2026-02-23T17:40:34Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -124,7 +124,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Plexus-MA300-400ml-Cartridge_Nozzle-NT.jpg?v=1768853221
     Price: $55.00 USD
 - [Maven Hand Plunger for 50ml 2:1 Cartridges – Perigee Direct](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-for-50ml-2-1-ratio-cartridges): Discover Maven manual plunger for 50ml 2:1 cartridges designed for direct accurate dispensing in small batch adhesive and sample applications.
-  Updated: 2026-02-13T18:01:17Z
+  Updated: 2026-02-23T14:41:47Z
   Vendor: Maven Dispensers
   Product Type: Dispensing Plungers
   Availability: Available
@@ -138,14 +138,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-1-1-_-2-1-ratio_76ccd3d6-4644-4b18-8c3f-5a57615cf0be.jpg?v=1752863821
     Price: $6.99 USD
 - [Dispenser Kit 2:1 Ratio 50ml – Perigee Direct](https://www.perigeedirect.com/products/caulking-dispenser-conversion-kit-for-2-1-ratio-50ml-cartridges-sleeve-2-1-ratio-plunger): Order 2:1 conversion kit for 50ml cartridges at Perigee Direct enabling caulking dispenser use for controlled two-part adhesive output on-site.
-  Updated: 2026-02-12T20:55:42Z
+  Updated: 2026-02-23T17:35:57Z
   Vendor: Maven Dispensers
   Product Type: Dispensing Caulking Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Caulking-Gun-Adapter-Kit-Assembled-View_d93ed319-a254-473c-91e6-b28b62678422.jpg?v=1758995908
   Price: $10.00 USD
 - [Hardman Green Beige Urethane 04022 – Perigee Direct](https://www.perigeedirect.com/products/hardman-double-bubble-d50-green-beige-label-04022-high-shear-strength-beige-urethane-adhesive): Get Hardman Double Bubble D50 at Perigee Direct for beige high-shear urethane adhesive offering strong durable bonding for demanding repairs.
-  Updated: 2026-02-16T20:05:54Z
+  Updated: 2026-02-20T21:00:48Z
   Vendor: Hardman Double Bubble
   Product Type: Urethane
   Availability: Available
@@ -171,7 +171,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Green-Urethane-04022-No-Text.jpg?v=1719845684
     Price: $169.99 USD
 - [Huntsman Araldite 2014 High-Temp Chemical-Proof Epoxy Gel](https://www.perigeedirect.com/products/huntsman-araldite-2014-high-temp-chemical-proof-epoxy-gel): Order Huntsman Araldite 2014 at Perigee Direct for high temperature epoxy gel with chemical proof durability in harsh industrial bonding.
-  Updated: 2026-02-13T17:51:08Z
+  Updated: 2026-02-23T16:06:03Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -213,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-2014-Quart-Kit-4lbs-2kg-NT.jpg?v=1764868788
     Price: $7,099.99 USD
 - [Loctite EA E-30CL 30-Min Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-e-30cl-30-minute-low-viscosity-crystal-clear-epoxy): Get Loctite EA E 30CL at Perigee Direct for 30-minute crystal-clear epoxy with low-viscosity flow used for durable transparent bonding.
-  Updated: 2026-02-13T18:01:17Z
+  Updated: 2026-02-23T17:36:27Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgun_2c62a4f7-94a4-4847-a61f-485aa4cb3a2d.jpg?v=1752862187
     Price: $64.99 USD
 - [Permabond 910 Thin Viscosity Metal Instant Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-910-instant-ca-adhesive-fast-set-low-viscosity-thin-metal-optimized-general-purpose): Shop Permabond 910 instant adhesive at Perigee Direct for fast-set, low-viscosity bonding on metals and general assemblies requiring precise capillary action.
-  Updated: 2026-02-16T20:35:45Z
+  Updated: 2026-02-23T08:05:37Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -253,7 +253,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/910withshaddow.png?v=1770311276
     Price: $25.99 USD
   - [1 oz / Recently Expired](https://www.perigeedirect.com/products/permabond-910-instant-ca-adhesive-fast-set-low-viscosity-thin-metal-optimized-general-purpose?variant=45865020391678)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/910withshaddow.png?v=1770311276
     Price: $13.00 USD
   - [1 oz / 1 oz Bottle + Tips](https://www.perigeedirect.com/products/permabond-910-instant-ca-adhesive-fast-set-low-viscosity-thin-metal-optimized-general-purpose?variant=43737882591486)
@@ -273,7 +273,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1lb-Photoroom.png?v=1770311276
     Price: $168.00 USD
   - [16 oz Bottle / 16 oz Bottle + Accelerator](https://www.perigeedirect.com/products/permabond-910-instant-ca-adhesive-fast-set-low-viscosity-thin-metal-optimized-general-purpose?variant=43737882689790)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1lbacceleratoronly.jpg?v=1770311276
     Price: $289.99 USD
   - [4.4 lb Bottle / 4.4 lb Bottle](https://www.perigeedirect.com/products/permabond-910-instant-ca-adhesive-fast-set-low-viscosity-thin-metal-optimized-general-purpose?variant=43737882755326)
@@ -285,7 +285,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1lb-Photoroom.png?v=1770311276
     Price: $544.00 USD
   - [1 oz / Short Shelf Life (1-3 Mths remaining)](https://www.perigeedirect.com/products/permabond-910-instant-ca-adhesive-fast-set-low-viscosity-thin-metal-optimized-general-purpose?variant=47772667085054)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/910withshaddow.png?v=1770311276
     Price: $19.99 USD
 - [Hardman Epoxy & Urethane Packs – Perigee Direct](https://www.perigeedirect.com/products/hardman-double-bubble-epoxy-urethane-variety-packs-multi-packs): Shop Hardman Double Bubble variety packs at Perigee Direct for epoxy and urethane repairs delivering convenient multi-use bonding options.
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Epoxy-Sampler-Variety-Packs-v3-NT.jpg?v=1756317756
     Price: $209.00 USD
 - [Huntsman Araldite 2013-1 Epoxy Gel – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-2013-1-metal-bonding-chemical-proof-epoxy-gel): Shop Huntsman Araldite 2013 1 at Perigee Direct for metal bonding epoxy gel that provides chemical-resistant durable strength in service.
-  Updated: 2026-02-13T18:01:00Z
+  Updated: 2026-02-23T17:36:16Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -345,7 +345,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-2013-1-200ml-Kit-Cartridge_Nozzle_Gun-NT.jpg?v=1752863313
     Price: $109.99 USD
 - [Re-Usable Mixing Sheets (3x5-inch size)](https://www.perigeedirect.com/products/re-usable-mixing-sheets-3x5-inch-size): Simplify adhesive work using 3x5 reusable mixing sheets at Perigee Direct to mix epoxies and gels cleanly without waste or residue.
-  Updated: 2026-02-16T18:25:37Z
+  Updated: 2026-02-23T19:45:57Z
   Vendor: Maven Adhesives
   Product Type: Mixing Sheets
   Availability: Available
@@ -443,7 +443,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/16oz.jpg?v=1761499234
     Price: $367.00 USD
 - [Permabond 101 Instant Thin Adhesive for Rubber – Perigee Direct](https://www.perigeedirect.com/products/permabond-101-instant-ca-adhesive-general-purpose-thin-wicking-great-for-plastic-rubber): Discover Permabond 101 at Perigee Direct. Thin wicking instant adhesive for fast, reliable bonds on plastics, rubber and tasks. Buy today.
-  Updated: 2026-02-16T20:35:33Z
+  Updated: 2026-02-17T17:45:39Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -497,7 +497,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/101-1b_1_1_1_37128887-63e7-4d1d-8aec-bb899b1e52ca.jpg?v=1756319609
     Price: $540.00 USD
 - [Devcon 2-Ton Epoxy - Water & Chemical Resistant Epoxy](https://www.perigeedirect.com/products/devcon-2-ton-epoxy-water-chemical-resistant-epoxy-product-family): Shop Devcon 2 Ton epoxy adhesives at Perigee Direct for water and chemical-resistant bonding across metal plastic and composite repairs.
-  Updated: 2026-02-13T18:01:07Z
+  Updated: 2026-02-19T22:30:47Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -531,7 +531,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/devcon_202-ton_20epoxy_202_20gallon_20kit_20_14360.jpg?v=1770829197
     Price: $649.99 USD
 - [Huntsman Araldite 2012 Fast Epoxy – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-2012-fast-setting-all-purpose-epoxy): Discover Araldite 2012 at Perigee Direct. Fast-setting epoxy for all-purpose bonding with strong, durable adhesion. Order online today.
-  Updated: 2026-02-16T14:30:54Z
+  Updated: 2026-02-23T17:36:17Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/200ML_gun.jpg?v=1756318734
     Price: $129.99 USD
 - [Permabond 2010 Shock-Resistant No-Sag Gel Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-2010-instant-ca-adhesive-fast-set-thixotropic-no-sag-no-drip-vertical-gel-for-metals-plastics-rubbers): Shop Permabond 2010 instant CA adhesive at Perigee Direct for fast-set vertical bonding delivering no-sag, no-drip gel performance.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-23T19:30:33Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -603,7 +603,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-2010-1-pound-bottle-fast-set-thixotropic-non-sag-no-drip-gel-instant-adhesive-super-glue-cyanoacrylate_14286f28-8104-49ae-84d0-f1106fb7ba01.jpg?v=1758994870
     Price: $467.00 USD
 - [Mixing & Applicator Wooden Sticks](https://www.perigeedirect.com/products/mixing-applicator-wooden-sticks-specialized-for-epoxy-adhesives-1-to-100-packs): Mixing/Applicator Sticks - 1 to 100-Pack Features: Rounded wooden ends for mixing and to apply adhesives 4.5 inches long x 3/8 inch wide
-  Updated: 2026-02-16T22:30:44Z
+  Updated: 2026-02-23T22:50:48Z
   Vendor: Maven Mixing
   Product Type: Mixing Sticks
   Availability: Available
@@ -651,7 +651,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/ASC101GallonJug.png?v=1758997494
     Price: $143.00 USD
 - [Permabond 108 Fast-Set Gap Filler for Plastics – Perigee Direct](https://www.perigeedirect.com/products/permabond-108-instant-ca-adhesive-fast-set-general-purpose-medium-gap-filling-great-for-plastic-rubber): Find Permabond 108 at Perigee Direct. Gap-filling instant adhesive for fast bonds on plastics, rubber and general tasks. Add to cart today.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-17T17:45:38Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -725,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Purple-Wet-Surfaces-5-Pack_0def4877-5400-40af-844d-025663a5c5a6.jpg?v=1720048302
     Price: $190.99 USD
 - [3M DP190 Gray 90 Min Epoxy](https://www.perigeedirect.com/products/3m-scotch-weld-dp190-gray-90-minute-flame-resistant-epoxy-adhesive): Shop 3M Scotch-Weld DP190 gray at Perigee Direct for 90-minute flame-resistant epoxy bonds where heat safety and structural strength both matter.
-  Updated: 2026-02-13T23:46:17Z
+  Updated: 2026-02-19T22:30:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -747,7 +747,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M_ScotchWeld_DP190_Gray_50ml-cartridge-Kit-Cartridge_Nozzle_Gun-NT.jpg?v=1756320021
     Price: $84.99 USD
 - [Double Bubble Red Epoxy Gel 04008 – Perigee Direct](https://www.perigeedirect.com/products/double-bubble-red-non-sag-no-drip-04008-extra-fast-setting-epoxy-gel): Shop Double Bubble red at Perigee Direct for non-sag, no-drip, extra-fast-set epoxy gel that gives strong bonding on tight shop repairs.
-  Updated: 2026-02-10T14:40:32Z
+  Updated: 2026-02-21T16:40:38Z
   Vendor: Hardman Double Bubble
   Product Type: Epoxy
   Availability: Available
@@ -773,7 +773,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Red-Non-Sag-No-Words.jpg?v=1752867353
     Price: $190.99 USD
 - [Loctite EA E-00CL Clear Low-Viscosity Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-e-00cl-clear-3-minute-set-medium-low-viscosity-chemical-resistant-machinable-epoxy): Order Loctite E 00CL at Perigee Direct for a clear three-minute epoxy that is machinable and chemical resistant for fast precise bond repairs.
-  Updated: 2026-02-13T18:01:17Z
+  Updated: 2026-02-23T17:36:28Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -803,7 +803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Loctite-E-00CL-200ml-Gun-Kit.jpg?v=1763918500
     Price: $29.99 USD
 - [50ml 2:1 Cartridge with Pistons – Perigee Direct](https://www.perigeedirect.com/products/50ml-empty-2-1-ratio-2-part-cartridge-with-sealing-cap-pistons-2-1-mix-ratio): Shop 50ml empty 2:1 ratio cartridges at Perigee Direct for clean adhesive filling, secure sealing caps, and reliable piston performance in production.
-  Updated: 2026-02-13T18:00:43Z
+  Updated: 2026-02-23T17:36:07Z
   Vendor: Maven Cartridges
   Product Type: Cartridges
   Availability: Available
@@ -873,7 +873,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Maven-50ml-Hand-Plunger-1-1-_-2-1-ratio.jpg?v=1758996124
     Price: $4.99 USD
 - [Permabond 731 Toughened Flexible Slow-Set CA Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-731-instant-ca-adhesive-toughened-flexible-slow-set-general-purpose): Get Permabond 731 at Perigee Direct for toughened, flexible, slow-set instant adhesive that bonds mixed materials and handles vibration well.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-17T17:45:38Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -927,7 +927,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-731-16oz-Toughened-Flexible-Slow-Set-General-Purpose-Instant-Adhesive-Super-Glue-Cyanoacrylate-NT.jpg?v=1753723848
     Price: $302.00 USD
 - [Hardman Green Crystal Epoxy 04004 – Perigee Direct](https://www.perigeedirect.com/products/hardman-double-bubble-green-label-crystal-clear-epoxy-04004): Get Hardman Double Bubble green label at Perigee Direct for crystal-clear epoxy bonding providing strong transparent joins on small repairs.
-  Updated: 2026-02-16T22:30:43Z
+  Updated: 2026-02-19T18:10:49Z
   Vendor: Hardman Double Bubble
   Product Type: Epoxy
   Availability: Available
@@ -957,7 +957,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Green-Water-Clear-Transparent-NT.jpg?v=1752864464
     Price: $1,700.00 USD
 - [Loctite Hysol E-60HP 60-Min Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-hysol-e-60hp-toughened-60-min-set-epoxy): Find Loctite E 60HP at Perigee Direct. Toughened epoxy with 60-minute set time for strong, shock-resistant structural bonds. Order online today.
-  Updated: 2026-02-06T20:50:49Z
+  Updated: 2026-02-20T13:45:39Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -983,7 +983,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite-Hysol-E-60HP-400ml-Cartridge-_-Nozzle-NT.jpg?v=1756319869
     Price: $129.99 USD
 - [Devcon 10-Minute Black Epoxy 14255 – Perigee Direct](https://www.perigeedirect.com/products/devcon-10-minute-black-epoxy-14255-chemical-resistant-adhesive): Shop Devcon 10 Minute Black Epoxy 14255 at Perigee Direct for chemical-resistant bonding with fast set time and durable industrial strength.
-  Updated: 2026-02-13T23:46:18Z
+  Updated: 2026-02-19T22:30:47Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -1005,7 +1005,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgunkit_6eb179a1-a88c-4609-b9cb-ac812864feee.jpg?v=1761500091
     Price: $59.99 USD
 - [3M DP110 Flexible 20-Min Epoxy Kit – Perigee Direct](https://www.perigeedirect.com/products/3m-scotch-weld-dp110-flexible-temp-resistant-20-minute-set-plastic-metal-epoxy): Shop 3M Scotch-Weld DP110 epoxy at Perigee Direct offering flexible, temperature-resistant bonding for plastics metals and mixed substrates.
-  Updated: 2026-02-13T23:46:20Z
+  Updated: 2026-02-23T17:36:18Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -1111,7 +1111,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/200ml-Helix-view-with-tip_end-details.jpg?v=1753726173
     Price: $1,009.99 USD
 - [Permabond 920 Thin 2-Step High Temp Instant Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-920-instant-ca-adhesive-fast-set-high-viscosity-gap-filling-2-step-high-temp-resistant): Get Permabond 920 at Perigee Direct for a fast-set, high-viscosity, gap-filling adhesive offering two-step, high-temperature resistance on tough repairs.
-  Updated: 2026-02-16T20:35:45Z
+  Updated: 2026-02-17T17:45:49Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -1153,7 +1153,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/16oz_d83760b3-1121-45eb-a3d8-fc877b56b0b7.jpg?v=1762363127
     Price: $404.00 USD
 - [Permabond 102 Medium Viscosity Super Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-102-instant-adhesive-medium-viscosity-ca-super-glue-great-for-plastic-rubber): Shop Permabond 102 at Perigee Direct for medium viscosity instant adhesive that bonds plastic and rubber with strong, fast-curing action.
-  Updated: 2026-02-16T20:35:33Z
+  Updated: 2026-02-23T21:00:37Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -1218,7 +1218,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/dripless_20dc200l_20image1.jpg?v=1752866069
   Price: $69.99 USD
 - [Permabond 801 Temp-Resistant Thin CA Glue Fast-Set – Perigee Direct](https://www.perigeedirect.com/products/permabond-801-instant-ca-adhesive-fast-set-temperature-resistant-low-viscosity-thin-general-purpose): Get Permabond 801 at Perigee Direct for fast-set, low-viscosity instant adhesive that wicks into tight gaps and resists temperature changes.
-  Updated: 2026-02-16T20:35:44Z
+  Updated: 2026-02-17T17:45:48Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -1252,7 +1252,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-801-1-Pound-Bottle-_-Activator-Fast-Set-Temp-Resistant-Thin-Instant-Adhesive-Super-Glue-CyanoacrylateNT.jpg?v=1752867648
     Price: $279.99 USD
 - [Huntsman Araldite Epoxy – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-2011-slow-setting-all-purpose-epoxy): Shop Huntsman Araldite epoxy, a slow-setting structural epoxy adhesive from Perigee Direct. Industrial 2-part epoxy glue for bonding metal, plastic, and more.
-  Updated: 2026-02-16T14:30:54Z
+  Updated: 2026-02-23T18:20:38Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-AW106-HV953U-2011-10-gallon_Kit-110lbs-50kg.jpg?v=1753728416
     Price: $1,199.99 USD
 - [Dispenser Kit 1:1 Ratio 50ml – Perigee Direct](https://www.perigeedirect.com/products/caulking-dispenser-conversion-kit-for-1-1-ratio-50ml-cartridges-sleeve-1-1-ratio-plunger): Shop caulking dispenser conversion kits at Perigee Direct for 1-to-1 ratio 50ml cartridges delivering proper plunger alignment and clean output.
-  Updated: 2026-02-12T20:55:47Z
+  Updated: 2026-02-23T17:35:57Z
   Vendor: Maven Dispensers
   Product Type: Dispensing Caulking Adapter
   Availability: Available
@@ -1355,7 +1355,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-240-Slow-Set-Thick-Gel-Gap-Filling-Instant-Adhesive-Super-Glue-Cyanoacrylate-500ml-Bottle.jpg?v=1752863796
     Price: $515.00 USD
 - [Hardman Purple Urethane A85 04024 – Perigee Direct](https://www.perigeedirect.com/products/hardman-double-bubble-purple-beige-label-a85-04024-crystal-clear-flexible-water-resistant-urethane-adhesive): Shop Hardman Double Bubble Purple urethane adhesive at Perigee Direct for crystal clear, flexible, water-resistant bonding ideal for repairs and assemblies.
-  Updated: 2026-02-06T17:50:37Z
+  Updated: 2026-02-18T21:10:48Z
   Vendor: Hardman Double Bubble
   Product Type: Urethane
   Availability: Available
@@ -1381,7 +1381,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Purple-Urethane-04024---100-Pack.no.text.jpg?v=1752862610
     Price: $169.99 USD
 - [Devcon 1-Minute Epoxy 14277 – Perigee Direct](https://www.perigeedirect.com/products/devcon-1-minute-epoxy-14277-fast-setting-general-purpose-adhesive-50ml-cartridge): Shop Devcon 1 Minute Epoxy at Perigee Direct for fast-set bonding in a 50ml cartridge delivering general-purpose repairs in one minute.
-  Updated: 2026-02-13T18:01:07Z
+  Updated: 2026-02-23T17:36:26Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -1403,7 +1403,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon_1-Minute_50ml_cartridge_14277_Kit-_Cartridge_Nozzle_Gun-NT.jpg?v=1752861074
     Price: $74.99 USD
 - [50ml Empty 1:1 Cartridges with Cap – Perigee Direct](https://www.perigeedirect.com/products/50ml-empty-1-1-ratio-2-part-cartridges-with-sealing-cap-pistons): Shop empty 50ml 1:1 cartridges at Perigee Direct for reliable storage and dispensing of two-part adhesives with pistons and sealing caps included.
-  Updated: 2026-02-13T23:46:25Z
+  Updated: 2026-02-23T14:41:33Z
   Vendor: Maven Cartridges
   Product Type: Cartridges
   Availability: Available
@@ -1469,11 +1469,11 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Professional-50ml-Cartridge-Blow-Out-Adapter-IntroPic_66a8190d-f26f-497b-b613-f9856f59547c.jpg?v=1758995038
     Price: $29.99 USD
   - [Accessories / Extra Hand Plunger](https://www.perigeedirect.com/products/50ml-empty-1-1-ratio-2-part-cartridges-with-sealing-cap-pistons?variant=37781957902514)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Maven-50ml-Hand-Plunger-1-1-_-2-1-ratio_5c217eb9-d646-4df5-baea-82e3510ca0a7.jpg?v=1758995039
     Price: $6.99 USD
 - [Devcon Plastic Welder White DA291 – Perigee Direct](https://www.perigeedirect.com/products/devcon-plastic-welder-white-da291-50ml-da160-400ml-high-strength-toughened-mma-adhesive): Discover Devcon Plastic Welder at Perigee Direct. Toughened MMA for durable bonds on plastics, composites and metals. Get specs and buy today.
-  Updated: 2026-02-03T16:50:46Z
+  Updated: 2026-02-18T13:55:44Z
   Vendor: Devcon
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -1511,7 +1511,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_cartridge.jpg?v=1752864583
     Price: $52.50 USD
 - [Loctite EA E-05CL Fast-Set Crystal Clear Epoxy Gel – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-e-05cl-crystal-clear-epoxy-3-minute-fast-setting-very-low-viscosity): Shop Loctite EA E-05CL crystal clear epoxy for fast 3-minute set, low viscosity flow, and clean transparent bonding results.
-  Updated: 2026-02-13T18:01:17Z
+  Updated: 2026-02-19T22:30:48Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -1541,7 +1541,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Loctite-E-05CL-400ml-Gun-Kit.jpg?v=1763918305
     Price: $229.99 USD
 - [MixPac DMA50 Dispenser for 50ml Epoxy Ratios | Perigee Direct](https://www.perigeedirect.com/products/mixpac-dma50-dispenser-for-50ml-epoxy-adhesives-configurable-for-all-ratios-1-1-2-1-3-2-4-1-and-10-1-ratios): Shop Mixpac DMA50 dispenser at Perigee Direct for 50ml epoxies delivering flexible multi-ratio support and reliable controlled dispensing.
-  Updated: 2026-02-16T19:45:44Z
+  Updated: 2026-02-23T22:30:47Z
   Vendor: MixPac
   Product Type: Dispensers Manual
   Availability: Available
@@ -1563,7 +1563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPac-DMA50-Dispenser-All-Full-Ratio-Kit.jpg?v=1756318002
     Price: $59.59 USD
 - [3M DP100 Plus Fast-Set Epoxy – Perigee Direct](https://www.perigeedirect.com/products/3m-scotch-weld-dp100-plus-clear-4-minute-flexible-fast-set-epoxy): Shop 3M DP100 Plus clear epoxy at Perigee Direct for a flexible four minute set adhesive offering strong bonds and high reliability across applications.
-  Updated: 2026-02-13T23:46:26Z
+  Updated: 2026-02-19T22:30:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -1585,7 +1585,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgun_25bf216a-8ba3-4186-beef-38b3ddb7a25c.jpg?v=1752862347
     Price: $72.99 USD
 - [Devcon 10-Minute Epoxy 14251 – Perigee Direct](https://www.perigeedirect.com/products/devcon-10-minute-epoxy-14251-chemical-resistant-epoxy-adhesive): Shop Devcon 10 Minute Epoxy 14251 at Perigee Direct for fast-curing, chemical-resistant bonding across metal plastic and composite repairs.
-  Updated: 2026-02-13T23:46:28Z
+  Updated: 2026-02-23T17:36:27Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -1607,7 +1607,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Devcon-10-Minute-50ml_nozzle_CGA-NT.jpg?v=1758995299
     Price: $39.99 USD
 - [MixPac MAQ-05-24L Quadro 4.5in Nozzle 50ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-maq-05-24l-quadro-square-4-5-inch-24-element-maq-05-24l-high-efficiency-mixing-nozzles-for-50ml-cartridges): Order Mixpac MAQ 05 24L nozzles at Perigee Direct for high efficiency 24 element mixing on 50ml cartridges for precise adhesive results.
-  Updated: 2026-02-15T23:40:44Z
+  Updated: 2026-02-23T20:30:58Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -1637,7 +1637,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Quadro-24-Elements-4.5-inch-A-System.jpg?v=1752865160
     Price: $2,199.99 USD
 - [Atlas 6in 20-Element Stepped Tip Nozzles – Perigee Direct](https://www.perigeedirect.com/products/atlas-professional-6-inch-20-element-stepped-tip-mixing-nozzles-static-mixers-for-50ml-cartridges): Shop Atlas Professional 6-inch mixing nozzles at Perigee Direct for low-waste static mixing on 50ml two part adhesive cartridges.
-  Updated: 2026-02-10T10:15:43Z
+  Updated: 2026-02-22T19:15:38Z
   Vendor: Maven Mixing
   Product Type: Mixing Nozzles
   Availability: Available
@@ -1674,7 +1674,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/EODKit-Devcon1-Minute_14277_5-PackGunKit_with5cartridges_10mixingnozzles_and1MixPacGun_copy.jpg?v=1753726941
   Price: $219.99 USD
 - [Gray Inlet Mixing Nozzle for 50ml – Perigee Direct](https://www.perigeedirect.com/products/gray-inlet-mixing-nozzle-green-4-5-inch-24-element-square-quad-for-50ml-gray-cap-cartridges-1-1-2-1-ratio): Shop gray inlet square quad mixing nozzles at Perigee Direct for precise 50ml cartridge mixing across 1:1 and 2:1 adhesive ratios.
-  Updated: 2026-02-16T22:20:47Z
+  Updated: 2026-02-23T22:40:49Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -1742,7 +1742,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Loctite-Hysol-D609-50mlCartridge_Nozzle.jpg?v=1764004742
     Price: $15.00 USD
 - [Permabond 105 Adhesive for Hard-to-Bond Plastics – Perigee Direct](https://www.perigeedirect.com/products/permabond-105-instant-ca-adhesive-medium-set-optimized-for-difficult-plastics-rubbers-like-epdm): Shop Permabond 105 instant adhesive at Perigee Direct optimized for difficult plastics and rubbers like EPDM, delivering reliable medium-set bonding.
-  Updated: 2026-02-16T20:35:34Z
+  Updated: 2026-02-23T16:15:37Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -1802,14 +1802,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/devcon_20epoxy_20plus_2025_20horizontal_20view_202.jpg?v=1753728359
     Price: $23.00 USD
 - [Loctite EA (Hysol) 1C Epoxy - 4oz Two-Tube Kit](https://www.perigeedirect.com/products/loctite-ea-hysol-1c-epoxy-4oz-two-tube-kit): Shop Loctite EA Hysol 1C at Perigee Direct for a two-tube epoxy kit that bonds mixed materials and delivers reliable cured strength in use.
-  Updated: 2026-02-13T19:15:37Z
+  Updated: 2026-02-19T23:05:37Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LoctiteEA1CEpoxyKit_box_tubesview.jpg?v=1752866906
   Price: $23.99 USD
 - [Permabond 940 Low Odor Clear Non-Frosting Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-940-instant-ca-adhesive-low-odor-non-frosting-non-fogging-clear-low-viscosity-thin-wicking): Shop Permabond 940 CA adhesive at Perigee Direct for low-odor clear bonding, delivering fast wicking action without frosting or fogging.
-  Updated: 2026-02-16T20:35:44Z
+  Updated: 2026-02-23T03:15:49Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -1851,7 +1851,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/ca009400002k0101_preview.jpg?v=1719844806
     Price: $437.00 USD
 - [3M DP190 Translucent 90 Min Epoxy](https://www.perigeedirect.com/products/3m-scotch-weld-dp190-translucent-80-90-minute-epoxy-adhesive): Get 3M Scotch-Weld DP190 translucent at Perigee Direct for 80 to 90 minute epoxy working time to place and clamp mixed material assemblies.
-  Updated: 2026-02-13T23:46:30Z
+  Updated: 2026-02-17T21:23:24Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -1881,7 +1881,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ML_cartridge_only_20f549a9-ab02-4161-9376-89d49f5f998e.jpg?v=1753727890
     Price: $29.99 USD
 - [Permabond 820 Temp-Resistant Thin Fast-Set Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-820-instant-ca-adhesive-fast-set-temperature-resistant-low-viscosity-thin-general-purpose): Shop Permabond 820 at Perigee Direct for fast set low viscosity instant adhesive that resists temperature and bonds plastic, rubber and mixed parts.
-  Updated: 2026-02-16T20:35:44Z
+  Updated: 2026-02-17T17:45:48Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -1929,7 +1929,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/loctite_207360_20adhesive_20cleaner_3120a91c-f37e-45ff-8dfc-96031f86187a.jpg?v=1753723953
     Price: $489.99 USD
 - [Hardman Red Epoxy 04001 – Perigee Direct](https://www.perigeedirect.com/products/hardman-double-bubble-red-04001-extra-fast-setting-epoxy-aka-epoweld-8173): Shop Hardman Double Bubble Red epoxy at Perigee Direct. Fast-set formula delivers strong bonds for repair and assembly work. Stock up today.
-  Updated: 2026-02-16T14:35:35Z
+  Updated: 2026-02-23T22:50:47Z
   Vendor: Hardman Double Bubble
   Product Type: Epoxy
   Availability: Available
@@ -1989,7 +1989,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/HardmanDoubleBubbleBlack04006.png?v=1758995896
     Price: $190.99 USD
 - [Double Bubble Orange Epoxy 04007 – Perigee Direct](https://www.perigeedirect.com/products/double-bubble-orange-toughened-epoxy-very-high-peel-strength-04007): Shop Double Bubble Orange toughened epoxy at Perigee Direct for very high peel strength delivering durable repairs and structural bonding.
-  Updated: 2026-02-13T01:45:26Z
+  Updated: 2026-02-18T21:15:57Z
   Vendor: Hardman Double Bubble
   Product Type: Epoxy
   Availability: Available
@@ -2022,7 +2022,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/DriplessDC600Image1_f0e39928-934e-4c74-a33c-e8606fb1087c.jpg?v=1756318439
   Price: $74.99 USD
 - [Devcon 5-Minute Epoxy Gel – Perigee Direct](https://www.perigeedirect.com/products/devcon-5-minute-epoxy-gel-fast-setting-thixotropic-no-drip-epoxy-product-family): Shop Devcon five-minute epoxy gel at Perigee Direct for fast-set, thixotropic, no-drip epoxy products suited for quick, controlled repairs.
-  Updated: 2026-02-13T23:46:32Z
+  Updated: 2026-02-23T17:36:26Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -2074,7 +2074,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/hardman_20double-bubble-blue-straight_f5f72748-834b-4dce-993f-40e02f54d51d.jpg?v=1719847440
     Price: $190.99 USD
 - [Araldite 2015-1 Tough Epoxy Gel – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-2015-1-toughened-epoxy-gel-for-smc-grp-fiberglass-and-bonding-2-different-surfaces): Discover Huntsman Araldite 2015 at Perigee Direct. Toughened epoxy gel bonds SMC, fiberglass and mixed materials. Request pricing today.
-  Updated: 2026-02-13T18:00:58Z
+  Updated: 2026-02-23T17:36:17Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -2120,7 +2120,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-2015-Quart-Kit-4lbs-2kg-NT.jpg?v=1758994477
     Price: $100.00 USD
 - [Loctite EA E-05MR Moisture-Resistant Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-hysol-e-05mr-moisture-resistant-fast-setting-crystal-clear-epoxy): Shop Loctite EA Hysol E-05MR at Perigee Direct for moisture-resistant, fast-setting crystal-clear epoxy bonding across mixed substrates.
-  Updated: 2026-02-02T18:15:42Z
+  Updated: 2026-02-17T19:17:55Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -2146,11 +2146,11 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite-Hysol-E-05MR-50ml-Cartridge_Nozzle-NoWords.jpg?v=1756316120
     Price: $18.00 USD
   - [Recently Expired / 50ml (1.7 oz)](https://www.perigeedirect.com/products/loctite-ea-hysol-e-05mr-moisture-resistant-fast-setting-crystal-clear-epoxy?variant=32816154116199)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite-Hysol-E-05MR-50ml-Cartridge_Nozzle-NoWords.jpg?v=1756316120
     Price: $18.00 USD
 - [Devcon 5-Minute Epoxy – Perigee Direct](https://www.perigeedirect.com/products/devcon-5-minute-epoxy-fast-setting-general-purpose-adhesive-p-ns-14200-14210-14250-14270): Shop Devcon 5 Minute Epoxy at Perigee Direct for fast general-purpose repairs, delivering strong bonds with quick handling strength.
-  Updated: 2026-02-13T18:01:07Z
+  Updated: 2026-02-19T22:30:47Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -2192,21 +2192,24 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Devcon-DA051-5-Minute-Epoxy-400-ml-Cartridge_nozzle.jpg?v=1752864725
     Price: $109.99 USD
 - [Maven Plunger Accessories 50ml 1:1 Ratio – Perigee Direct](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-50ml-1-1-ratio-cartridges): Shop Maven manual hand plunger accessories for 50 ml 1:1 cartridges at Perigee Direct for controlled dispensing and consistent adhesive mixing in small repairs.
-  Updated: 2026-02-14T18:15:12Z
+  Updated: 2026-02-23T17:36:08Z
   Vendor: Maven Dispensers
   Product Type: Dispensing Plungers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-1-1-_-2-1-ratio_06ba710b-32dd-40c2-bd5a-402befaa9195.jpg?v=1756321002
-  - [Hand Plunger Accessory Pack](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-50ml-1-1-ratio-cartridges?variant=32142314045543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-A-System-Accessory-Kit-1-1-_-2-1-ratio_87fb8ac6-8097-4f6c-a2c6-43414679354a.jpg?v=1756321003
-    Price: $8.99 USD
   - [Just the Hand Plunger](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-50ml-1-1-ratio-cartridges?variant=32142314012775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-1-1-_-2-1-ratio_06ba710b-32dd-40c2-bd5a-402befaa9195.jpg?v=1756321002
     Price: $6.99 USD
+  - [Hand Plunger Accessory Pack (for A-System Cartridges)](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-50ml-1-1-ratio-cartridges?variant=32142314045543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-A-System-Accessory-Kit-1-1-_-2-1-ratio_87fb8ac6-8097-4f6c-a2c6-43414679354a.jpg?v=1756321003
+    Price: $8.99 USD
+  - [Hand Plunger Accessory Pack (for B-System Cartridges)](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-50ml-1-1-ratio-cartridges?variant=47816166703358)
+    Availability: Available
+    Price: $6.99 USD
 - [3M DP460 Off-White 60 Min Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp460-off-white-60-minute-toughened-epoxy-adhesive): Shop 3M Scotch-Weld DP460 epoxy at Perigee Direct for toughened 60-minute bonding delivering high strength for structural applications.
-  Updated: 2026-02-15T00:40:43Z
+  Updated: 2026-02-17T21:23:28Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -2270,14 +2273,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Heilx-200ml-18-ElementsNT.jpg?v=1758994834
     Price: $1,999.99 USD
 - [Dripless DC1500 2-Part Dispenser – Perigee Direct](https://www.perigeedirect.com/products/dripless-dc1500-2-part-universal-dispenser-for-1500ml-50oz-1-1-ratio-cartridges): Shop Dripless DC1500 universal dispensers at Perigee Direct for smooth two-part dispensing from 1500ml 1:1 cartridges with ergonomic control.
-  Updated: 2026-01-26T14:34:45Z
+  Updated: 2026-02-18T17:29:48Z
   Vendor: Dripless
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/dripless-dc1500-applicator-gun.jpg?v=1756319929
   Price: $109.99 USD
 - [Loctite EA 608 5-Min Crystal Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-hysol-608-fast-setting-5-minute-crystal-clear-general-purpose-epoxy): Discover Loctite EA Hysol 608 epoxy at Perigee Direct, a fast-setting, crystal-clear adhesive delivering strong general-purpose bonding in minutes.
-  Updated: 2026-02-13T18:01:13Z
+  Updated: 2026-02-19T22:30:48Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -2353,7 +2356,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-200-Fast-Set-Thick-Gel-Gap-Filling-Instant-Adhesive-Super-Glue-Cyanoacrylate-500ml-Bottle.jpg?v=1752864483
     Price: $178.00 USD
 - [Permabond 947 Thick Low Odor Clear CA Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-947-instant-ca-adhesive-low-odor-non-frosting-non-fogging-clear-thick-viscosity-gap-filling): Shop Permabond 947 at Perigee Direct for low-odor, gap-filling instant adhesive that stays clear with non-frosting and non-fogging thick viscosity flow.
-  Updated: 2026-02-16T20:35:45Z
+  Updated: 2026-02-17T17:45:49Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -2395,7 +2398,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/ca009470002k0101_preview.jpg?v=1757524205
     Price: $437.00 USD
 - [Permabond 268 Adhesive for Difficult Plastics – Perigee Direct](https://www.perigeedirect.com/products/permabond-268-instant-ca-adhesive-fast-set-medium-gap-filling-optimized-for-difficult-plastics-rubbers): Shop Permabond 268 instant adhesive at Perigee Direct for fast-set, medium-gap-filling bonds on difficult plastics, rubbers, and mixed materials.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-17T17:45:43Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -2449,7 +2452,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-268-1-Pound-Bottle-Fast-Set-Medium-Gap-Filling-for-Difficult-Plastics-Instant-Adhesive-Super-Glue-CyanoacrylateNT.jpg?v=1752860393
     Price: $728.00 USD
 - [Permabond 737 Black Flexible Temp-Resistant Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-737-instant-ca-adhesive-black-magic-toughened-flexible-temp-resistant-gel-max-gap-filling): Shop Permabond 737 Black Magic at Perigee Direct for toughened, flexible CA bonding with maximum gap filling and temperature resistance for demanding repairs.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-17T17:45:38Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -2503,7 +2506,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-737-Black-Magic-Toughened-Flexible-Temp-Resistant-Thick-Gel-Instant-Adhesive-Super-Glue-Cyanoacrylate-500ml-Bottle.jpg?v=1752861899
     Price: $368.00 USD
 - [Plungers for DMA50 & DMA51 PLA PLB Dispensers – Perigee Direct](https://www.perigeedirect.com/products/mixpac-plungers-for-dma50-dma51-dispensers-pla-plb-series-all-ratios-1-1-2-1-4-1-10-1): Shop Mixpac plungers at Perigee Direct for DMA50 and DMA51 dispensers ensuring accurate material flow across all adhesive mix ratios.
-  Updated: 2026-02-16T19:45:37Z
+  Updated: 2026-02-23T22:30:47Z
   Vendor: MixPac
   Product Type: Dispensing Plungers
   Availability: Available
@@ -2524,6 +2527,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MixPac-PLA-4-1-Plunger---PLA_050_04_10PK.jpg?v=1756318093
     Price: $69.99 USD
+  - [4:1 Ratio Long Format (PLB 050-04) / Single Plunger](https://www.perigeedirect.com/products/mixpac-plungers-for-dma50-dma51-dispensers-pla-plb-series-all-ratios-1-1-2-1-4-1-10-1?variant=47809578500350)
+    Availability: Available
+    Price: $9.99 USD
+  - [4:1 Ratio Long Format (PLB 050-04) / Bulk 10-Pack](https://www.perigeedirect.com/products/mixpac-plungers-for-dma50-dma51-dispensers-pla-plb-series-all-ratios-1-1-2-1-4-1-10-1?variant=47809578533118)
+    Availability: Available
+    Price: $69.99 USD
   - [10:1 Ratio (PLA 050-10) / Single Plunger](https://www.perigeedirect.com/products/mixpac-plungers-for-dma50-dma51-dispensers-pla-plb-series-all-ratios-1-1-2-1-4-1-10-1?variant=41152920453298)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MixPac_10-1_ratio_plunger_PLA-050-10.png?v=1759001050
@@ -2540,12 +2549,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MixPac_45ml_PLB_050-10.webp?v=1756318099
     Price: $69.99 USD
-  - [Variety 4-Pack (All 4 Plungers) / Variety 4-Pack (All 4 Plungers)](https://www.perigeedirect.com/products/mixpac-plungers-for-dma50-dma51-dispensers-pla-plb-series-all-ratios-1-1-2-1-4-1-10-1?variant=32106054844519)
+  - [Variety 5-Pack (All 5 Plungers) / Variety 4-Pack (All 4 Plungers)](https://www.perigeedirect.com/products/mixpac-plungers-for-dma50-dma51-dispensers-pla-plb-series-all-ratios-1-1-2-1-4-1-10-1?variant=32106054844519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPac-PLA-_-PLB-Plunger-Variety-Pack.jpg?v=1756318087
-    Price: $25.99 USD
+    Price: $29.99 USD
 - [Hardman D85 Blue Urethane 04023 – Perigee Direct](https://www.perigeedirect.com/products/hardman-double-bubble-d85-blue-beige-label-04023-fast-setting-5-min-toughened-impact-resistant-urethane-adhesive): Shop Hardman Double Bubble D85 urethane adhesive at Perigee Direct for fast 5-minute set bonding delivering impact-resistant strength.
-  Updated: 2026-02-02T20:45:24Z
+  Updated: 2026-02-18T08:50:48Z
   Vendor: Hardman Double Bubble
   Product Type: Urethane
   Availability: Available
@@ -2571,7 +2580,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Blue-Urethane-04023-No-Text.jpg?v=1720047699
     Price: $169.99 USD
 - [Loctite EA E-120HP 120-Min Tough Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-e-120hp-toughened-non-sag-120-min-set-epoxy-2-hour): Shop Loctite EA E-120HP epoxy at Perigee Direct for toughened, non-sag bonding delivering extended 120-minute work time and strength.
-  Updated: 2026-01-26T14:35:03Z
+  Updated: 2026-02-18T17:27:47Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -2649,7 +2658,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Double-Bubble-Yellow-04002-Machineable-No-Text.jpg?v=1752859991
     Price: $190.99 USD
 - [3M DP105 Extra Flexible Epoxy](https://www.perigeedirect.com/products/3m-scotch-weld-dp105-clear-4-minute-extra-flexible-fast-set-epoxy): Shop 3M Scotch-Weld DP105 at Perigee Direct for clear, four-minute, extra-flexible epoxy bonding that handles vibration on industrial builds.
-  Updated: 2026-02-13T23:46:36Z
+  Updated: 2026-02-19T22:30:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -2670,8 +2679,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M_ScotchWeld-DP105-Clear-50ml-cartridge-Kit-Cartridge_Nozzle_Gun.jpg?v=1758993980
     Price: $89.99 USD
+  - [50ml (1.7 oz) / Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/3m-scotch-weld-dp105-clear-4-minute-extra-flexible-fast-set-epoxy?variant=47807436521726)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-ScotchWeld-DP105-Clear-50ml-Cartridge_no-text.jpg?v=1758993964
+    Price: $34.99 USD
+  - [50ml (1.7 oz) / Recently Expired](https://www.perigeedirect.com/products/3m-scotch-weld-dp105-clear-4-minute-extra-flexible-fast-set-epoxy?variant=47807461622014)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-ScotchWeld-DP105-Clear-50ml-Cartridge_no-text.jpg?v=1758993964
+    Price: $29.99 USD
 - [Plexus MA310 MMA Adhesive 31500/31000 – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma310-all-purpose-high-strength-mma-adhesive-31500-31000): Discover Plexus MA310 at Perigee Direct. High-strength MMA adhesive for bonds on plastics, metals and composites. Request a quote today.
-  Updated: 2026-02-12T20:30:49Z
+  Updated: 2026-02-20T14:30:27Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -2717,7 +2734,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Plexus-MA310-Familyv2.jpg?v=1770062483
     Price: $46.99 USD
 - [MixPac 1500ml 1:1 Cartridge + Starter Kit AJ – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-1500ml-empty-2-part-1-1-ratio-cartridges-and-starter-kits-aj-1500-01-10-02-153744): Shop Sulzer Mixpac 1500ml empty 1:1 cartridges at Perigee Direct for large-volume two-part dispensing with starter kits built for industrial use.
-  Updated: 2026-02-16T17:25:34Z
+  Updated: 2026-02-20T22:20:35Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -2767,7 +2784,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool---1500ml-Size-in-Hand-with-Piston_33f5ec72-0a2b-4f18-95f1-cf732f3190cf.jpg?v=1753379860
     Price: $24.99 USD
 - [3M DP270 Clear Thermal Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp270-clear-60-minute-electric-thermal-resistant-epoxy): Buy 3M DP270 clear epoxy at Perigee Direct for a 60 minute set formula that provides thermal resistance and dependable electrical insulation performance.
-  Updated: 2026-02-13T23:46:37Z
+  Updated: 2026-02-17T21:23:32Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -2789,7 +2806,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M_ScotchWeld-DP270_Clear-50ml-cartridge-Kit-Cartridge_Nozzle_Gun_fe4acdf2-4998-4a31-90b2-e91342e93d36.jpg?v=1758994414
     Price: $79.99 USD
 - [3M DP405 Black 5 Min Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp405-black-5-minute-toughened-epoxy-adhesive): Get 3M Scotch Weld DP405 at Perigee Direct for five-minute black toughened epoxy bonds with high impact strength on fast industrial repairs.
-  Updated: 2026-02-13T23:46:39Z
+  Updated: 2026-02-17T21:23:34Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -2811,7 +2828,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M_ScotchWeld-DP405_Black-50ml-cartridge-Kit-Cartridge_Nozzle_Gun-NT.jpg?v=1756318686
     Price: $94.99 USD
 - [3M DP420 Off-White Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp420-off-white-20-minute-toughened-epoxy-adhesive): Shop 3M Scotch-Weld DP420 at Perigee Direct for 20-minute off white toughened epoxy bonds that deliver high strength on mixed industrial parts.
-  Updated: 2026-02-13T23:46:41Z
+  Updated: 2026-02-17T21:23:36Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -2841,7 +2858,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-ScotchWeld-DP420-Off-White-50ml-vertical-NT.jpg?v=1753727489
     Price: $40.00 USD
 - [3M DP420 Black 20 Min Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp420-black-20-minute-toughened-epoxy-adhesive): Shop 3M Scotch-Weld DP420 epoxy at Perigee Direct for toughened black bonding delivering 20-minute set strength for structural applications.
-  Updated: 2026-02-13T23:46:43Z
+  Updated: 2026-02-17T21:23:38Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -2871,7 +2888,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-ScotchWeld-DP420-Black-50ml-Cartridge-Nozzle-No-Gunnotext.jpg?v=1758996184
     Price: $40.00 USD
 - [MixPac MBQ-05-24L Long Quad Nozzle 50ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mbq-05-24l-mixing-nozzles-for-3m-epx-50ml-duo-pak-adhesive-cartridges-longer-24-element-4-5in-1-1-2-1-ratios): Shop Mixpac MBQ 05 24L at Perigee Direct for long 24-element mixing nozzles compatible with 3M EPX 50ml cartridges in 1-to-1 and 2-to-1 ratios.
-  Updated: 2026-02-16T22:20:48Z
+  Updated: 2026-02-23T22:40:49Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -2905,7 +2922,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-EPX-Green-18-ele-mix-noz-100pk-NT.jpg?v=1758995164
     Price: $119.99 USD
 - [Permabond 922 Thick Gap Filler 2-Step CA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-922-instant-ca-adhesive-fast-set-high-viscosity-gap-filling-2-step-high-temp-resistant): Get Permabond 922 at Perigee Direct for a fast-set, high-viscosity, gap-filling adhesive offering strong two-step high-temperature resistance on repairs.
-  Updated: 2026-02-16T20:35:44Z
+  Updated: 2026-02-17T21:23:40Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -2939,7 +2956,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Permabond-922-1-Pound-Bottle-_-Activator-Fast-Set-Thick-Gel-High-Temp-Resistant-to-250c-Instant-Adhesive-Super-Glue-Cyanoacrylate.jpg?v=1758995364
     Price: $559.99 USD
 - [3M 50ml Cartridge Conversion Kit – Perigee Direct](https://www.perigeedirect.com/products/3m-scotch-weld-50ml-cartridge-transition-conversion-kit-for-structural-adhesives-epoxy-urethane-mma): Shop 3M Scotch-Weld cartridge transition kits at Perigee Direct for converting 50ml structural adhesive cartridges delivering clean reliable dispensing.
-  Updated: 2026-02-13T23:46:46Z
+  Updated: 2026-02-19T13:35:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Mixing Nozzles
   Availability: Available
@@ -2967,7 +2984,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/sulzer-mixpac-ds53-_1-1-2-1_-s-system-applicator-gun.jpg?v=1752863556
   Price: $40.99 USD
 - [Jensen 20G 1" Steel Tip Yellow – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-inch-yellow-20-gauge): Get Jensen yellow 20-gauge dispensing tips at Perigee Direct for accurate flow control in industrial adhesive applications using steel luer lock.
-  Updated: 2026-02-02T20:45:33Z
+  Updated: 2026-02-20T17:00:46Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -2997,7 +3014,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20yellow_20jg20-1.0_2020ga_201.0-inch_20steel_20straight_20blunt_20tip.jpg?v=1756321231
     Price: $149.99 USD
 - [Jensen 1" Steel Tip Variety Pack – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-variety-pk-family-steel-1-inch-14-16-18-20-22-gauge): Buy Jensen dispensing tips at Perigee Direct for push-on luer lock use in mixed steel gauges supporting precise resin application.
-  Updated: 2026-02-16T02:50:42Z
+  Updated: 2026-02-20T17:01:08Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3027,7 +3044,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Jensen-Global-Multi-Pack-Sampler-Dispensing-Tips---14-22-Gauge-0_5ab4686a-ce36-450d-be45-2c70f13c1c52.jpg?v=1753728556
     Price: $229.99 USD
 - [Jensen 1/2" Steel Tip Variety Pack – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-variety-pk-family-steel-1-2-inch-14-16-18-20-22-gauge): Choose Jensen 1.2-inch tips at Perigee Direct for push-on luer lock dispensing supporting steel sizes from 14 to 22 gauge.
-  Updated: 2026-02-16T09:40:44Z
+  Updated: 2026-02-23T22:30:38Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3057,7 +3074,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Jensen-Global-Multi-Pack-Sampler-Dispensing-Tips---14-22-Gauge-0.jpg?v=1752863242
     Price: $229.99 USD
 - [Jensen 22G Black 1in Steel Tip Luer Lock – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-inch-black-22-gauge): Choose Jensen black 22-gauge dispensing tips at Perigee Direct for controlled adhesive placement with a steel luer lock one-inch design.
-  Updated: 2026-02-02T20:45:35Z
+  Updated: 2026-02-20T17:00:48Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3087,7 +3104,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20black_20jg22-1.0_2022ga_201.0-inch_20steel_20straight_20blunt_20tip.jpg?v=1752860301
     Price: $229.99 USD
 - [Jensen 22G 1" Steel Tip Black – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-2-inch-black-22-gauge): Shop Jensen industrial dispensing tips at Perigee Direct for precise adhesive placement delivering durable steel construction and controlled flow.
-  Updated: 2026-02-14T19:45:43Z
+  Updated: 2026-02-23T22:30:47Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3117,7 +3134,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20black_20jg22-0.5_2022ga_200.5_20steel_20straight_20blunt_20tip.jpg?v=1756319230
     Price: $149.99 USD
 - [Jensen 18G 1" Steel Tip Pink – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-inch-pink-18-gauge): Get Jensen steel dispensing tips at Perigee Direct for one-inch push-on luer lock use in adhesive jobs needing precise eighteen-gauge flow.
-  Updated: 2026-02-02T20:45:33Z
+  Updated: 2026-02-20T17:00:45Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3147,7 +3164,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20pink_20jg18-1.0_2018ga_201.0-inch_20steel_20straight_20blunt_20tip.jpg?v=1758996416
     Price: $129.99 USD
 - [Jensen 20G 1/2" Steel Tip Yellow – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-2-inch-yellow-20-gauge): Shop Jensen steel dispensing tips at Perigee Direct for accurate adhesive placement delivering durable yellow 20-gauge luer lock control.
-  Updated: 2026-02-14T19:45:33Z
+  Updated: 2026-02-23T03:15:36Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3177,7 +3194,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal20GaugeYellow0.5InchDispensingTip.jpg?v=1752865454
     Price: $229.99 USD
 - [Jensen 18G 1/2" Steel Tip Pink – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-2-inch-pink-18-gauge): Shop Jensen 18-gauge steel dispensing tips at Perigee Direct for precise adhesive control delivering consistent flow with push-on luer lock fit.
-  Updated: 2026-02-16T09:40:43Z
+  Updated: 2026-02-23T22:30:48Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3207,7 +3224,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal18GaugePink0.5InchDispensingTip.jpg?v=1752862366
     Price: $129.99 USD
 - [Jensen 24G 1" Steel Tip Red – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-inch-red-24-gauge): Choose Jensen red 24-gauge dispensing tips at Perigee Direct for one-inch push-on luer lock accuracy when placing adhesives in tight areas.
-  Updated: 2026-02-16T02:50:34Z
+  Updated: 2026-02-20T17:00:55Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3237,7 +3254,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20red_20jg24-1.0_2024ga_201.0-inch_20steel_20straight_20blunt_20tip.jpg?v=1758993783
     Price: $139.99 USD
 - [Jensen 16G 1/2" Steel Tip Purple – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-2-inch-purple-16-gauge): Shop Jensen steel dispensing tips at Perigee Direct for precise flow control delivering durable purple 16-gauge luer lock performance.
-  Updated: 2026-02-16T09:40:43Z
+  Updated: 2026-02-23T22:30:49Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3267,7 +3284,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20purple_20jg16-0.5_2016ga_200.5-inch_20steel_20straight_20blunt_20tip.jpg?v=1756317352
     Price: $229.99 USD
 - [Jensen 16G 1" Steel Tip Purple – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-inch-purple-16-gauge): Order Jensen steel dispensing tips at Perigee Direct for purple 16-gauge luer lock built for high-precision adhesive application control.
-  Updated: 2026-02-04T16:20:42Z
+  Updated: 2026-02-20T17:00:47Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3297,7 +3314,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20purple_20jg16-1.0_2016ga_201.0-inch_20steel_20straight_20blunt_20tip.jpg?v=1752866776
     Price: $229.99 USD
 - [Jensen 24G 1/2" Steel Tip Red – Perigee Direct](https://www.perigeedirect.com/products/jensen-industrial-dispensing-tips-push-on-luer-lock-family-steel-1-2-inch-red-24-gauge): Shop Jensen steel dispensing tips at Perigee Direct for precise adhesive flow delivering durable red 24-gauge push-on luer lock control.
-  Updated: 2026-02-10T00:00:42Z
+  Updated: 2026-02-20T17:00:59Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -3327,7 +3344,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/jensen_20global_20nt_20series_20red_20jg24-0.5_2024ga_200.5-inch_20steel_20straight_20blunt_20tip.jpg?v=1753726895
     Price: $139.99 USD
 - [EPX Mixing Nozzles for 3M Duo-Pak – Perigee Direct](https://www.perigeedirect.com/products/epx-mixing-nozzle-multi-packs-fits-3m-50ml-duo-pak-adhesive-cartridges-shorter-18-element-3-5in-1-1-2-1-ratios): Shop EPX mixing nozzle multipacks at Perigee Direct for clean, consistent mixing with 3M 50ml Duo-Pak cartridges in common ratios.
-  Updated: 2026-02-16T16:05:45Z
+  Updated: 2026-02-20T17:30:55Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -3365,7 +3382,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-Static-Mixer-B-System-Quadro-18-Elements-1-to-100-Pack-Familynotext.jpg?v=1752866496
     Price: $99.99 USD
 - [Plexus MA300 Black 5-Minute MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma300-black-all-purpose-high-strength-5-minute-mma-adhesive-it410-it412): Shop Plexus MA300 black MMA adhesive at Perigee Direct for high-strength five-minute bonding on plastics, metals, and composites in repairs.
-  Updated: 2026-02-16T21:40:44Z
+  Updated: 2026-02-21T16:25:58Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -3411,7 +3428,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml-MA300Bcartridge.jpg?v=1760203834
     Price: $17.00 USD
 - [MixPac MBQ-05-16L Gray Quad Nozzle 50ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mbq-05-16l-gray-inlet-mixing-nozzle-green-3-5-inch-16-element-square-quad-for-50ml-gray-cap-cartridge-1-1-2-1-ratio): Shop Mixpac MBQ square quad mixing nozzles at Perigee Direct designed for smooth consistent mixing of 1:1 and 2:1 ratio adhesives.
-  Updated: 2026-02-16T16:05:44Z
+  Updated: 2026-02-20T17:30:48Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -3445,7 +3462,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3m-epx-green-18-element-mixing-nozzle-diagnol-62-9154-9148-4_43c61346-e6d7-4898-b087-493cb567aa37.jpg?v=1752863433
     Price: $2,399.99 USD
 - [MixPac MBQX-05-16L Orange Quad Nozzle 50ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mbqx-05-16l-mixing-nozzles-orange-3-5-inch-16-element-square-for-50ml-gray-cap-cartridges-10-1-4-1-ratio): Shop Mixpac MBQX square mixing nozzles at Perigee Direct engineered for 10:1 and 4:1 ratio adhesives with efficient short-length design.
-  Updated: 2026-02-12T00:55:31Z
+  Updated: 2026-02-21T14:10:38Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -3517,7 +3534,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Plexus-MA330-_33000_-400ml-Cartridge_Nozzle.jpg?v=1752865810
     Price: $50.00 USD
 - [Natural Plastic Welding Rod Variety Pack – Perigee Direct](https://www.perigeedirect.com/products/plastic-welding-rods-repair-rods-variety-pack-product-family-all-natural-color-pvc-hdpe-pp-abs): Shop plastic welding rod variety packs at Perigee Direct covering PVC HDPE PP and ABS for versatile repair and fabrication needs.
-  Updated: 2026-01-19T19:00:47Z
+  Updated: 2026-02-18T17:55:48Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -3589,7 +3606,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Quadro-200ml-25-Elements-100-Pack.jpg?v=1756319279
     Price: $179.99 USD
 - [OptiMixer 33-Element Nozzle for 200ml & 400ml – Perigee Direct](https://www.perigeedirect.com/products/optimixer-low-waste-screw-on-33-element-mixing-nozzle-for-200ml-400ml-600ml-1500ml-2-part-cartridges): Order Optimixer mixing nozzles at Perigee Direct for a low-waste screw-on design with 33-element mixing for multiple two-part cartridge sizes.
-  Updated: 2026-02-16T14:10:38Z
+  Updated: 2026-02-20T22:20:48Z
   Vendor: Nordson EFD
   Product Type: Mixing Nozzles
   Availability: Available
@@ -3618,22 +3635,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Quadro-200ml-33-Elements-100-Pack.jpg?v=1753723798
     Price: $259.99 USD
-- [Dispenser Kit 4:1 Ratio 50ml – Perigee Direct](https://www.perigeedirect.com/products/caulking-dispenser-conversion-kit-for-4-1-ratio-50ml-cartridges-sleeve-4-1-ratio-plunger): Find a 4:1 conversion kit for 50ml cartridges to enable controlled use with caulking dispensers, improving output consistency for two-part materials.
-  Updated: 2026-02-12T20:55:59Z
+- [Dispenser Kit 10:1 and 4:1 Ratio A-System 50ml – Perigee Direct](https://www.perigeedirect.com/products/caulking-gun-conversion-kit-for-both-4-1-10-1-ratio-a-system-50ml-cartridges-sleeve-plunger): Find a 10:1 or 4:1 conversion kit for 50ml cartridges to enable controlled use with caulking dispensers, improving output consistency for two-part materials.
+  Updated: 2026-02-23T14:14:11Z
   Vendor: Maven Dispensers
   Product Type: Dispensing Caulking Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Caulking-Gun-Adapter-Kit-Assembled-View_c2bdf7e1-1604-4928-9543-8dfd7a444bb2.jpg?v=1752866022
   Price: $10.00 USD
-- [Dispenser Kit 10:1 Ratio 50ml – Perigee Direct](https://www.perigeedirect.com/products/caulking-dispenser-conversion-kit-for-10-1-ratio-50ml-cartridges-sleeve-10-1-ratio-plunger): Order 10:1 conversion kit for 50ml cartridges at Perigee Direct enabling caulking gun use for controlled output of two part adhesives in field applications.
-  Updated: 2026-02-12T20:55:59Z
-  Vendor: Maven Dispensers
-  Product Type: Dispensing Caulking Adapter
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Caulking-Gun-Adapter-Kit-Assembled-View.jpg?v=1752863741
-  Price: $10.00 USD
 - [Shipping Cost Displayed in Cart Section – Perigee Direct](https://www.perigeedirect.com/products/shipping-quote): This is a shipping quote estimate for Parcel shipping services, like FedEx, UPS, DHL, USPS, etc. It's purpose is to presentg shipping costs on a quote or order.
-  Updated: 2026-02-13T23:46:47Z
+  Updated: 2026-02-17T21:23:42Z
   Vendor: Perigee Direct
   Product Type: Shipping
   Availability: Available
@@ -3647,7 +3657,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/DG-Dangerous-Goods-Image.jpg?v=1720109311
   Price: $240.00 USD
 - [3M DP270 Black Thermal Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp270-black-60-minute-electric-thermal-resistant-epoxy): Get 3M Scotch Weld DP270 at Perigee Direct for 60-minute black epoxy bonds that provide electrical and thermal resistance in sensitive builds.
-  Updated: 2026-02-13T23:46:49Z
+  Updated: 2026-02-19T22:30:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -3684,7 +3694,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Tax-Image.jpg?v=1756321613
   Price: $0.00 USD
 - [3M DP420NS Non-Sag Epoxy Black](https://www.perigeedirect.com/products/3m-scotchweld-dp420-ns-nonsag-black-20-minute-toughened-epoxy-adhesive): Shop 3M Scotch-Weld DP420NS nonsag epoxy at Perigee Direct for high strength repairs and gap-filling adhesion on assemblies across materials.
-  Updated: 2026-02-16T21:10:38Z
+  Updated: 2026-02-19T22:30:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -3714,7 +3724,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-ScotchWeld-DP420-NS-Black-50ml-Nozzle-NT.jpg?v=1753726662
     Price: $37.99 USD
 - [3M DP460NS Non-Sag 60 Min Epoxy](https://www.perigeedirect.com/products/3m-scotchweld-dp460ns-nonsag-off-white-60-minute-toughened-epoxy-adhesive): Shop 3M Scotch-Weld DP460NS epoxy at Perigee Direct for nonsag bonding, delivering 60 minute work time and structural durability.
-  Updated: 2026-02-13T23:46:53Z
+  Updated: 2026-02-19T22:30:39Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -3744,7 +3754,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M-ScotchWeld-DP460-NS-Off-White-50ml-Cartridge.jpg?v=1763918328
     Price: $37.00 USD
 - [MixPac 25ml 1:1 Ratio 2-Part Syringe & Plunger | Perigee Direct](https://www.perigeedirect.com/products/mixpac-25ml-empty-2-part-1-1-ratio-cartridge-aka-syringe-plunger-kits-with-and-without-mixing-nozzles): Order Mixpac 25ml cartridge kits at Perigee Direct for 1-to-1 two-part dispensing with optional mixing nozzles for precise adhesive work.
-  Updated: 2026-02-16T19:25:46Z
+  Updated: 2026-02-23T22:40:37Z
   Vendor: MixPac
   Product Type: Syringe Barrel and Piston
   Availability: Available
@@ -3850,7 +3860,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite_Prism_401_1-Pound_454gm_-_Surface_Insensitive_Low-Viscosity_100cP_Instant_Adhesive_CA.jpg?v=1753727133
     Price: $309.99 USD
 - [Plexus MA550 White UV Stable 45-Minute MMA Glue – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma550-35000x-non-sag-gel-uv-stable-white-45-minute-mma-adhesive-for-marine-and-underwater-bonding-of-plastics-metals-composites): Shop Plexus MA550 at Perigee Direct for UV-stable, non-sag MMA that bonds plastics, metals and composites for marine and underwater applications.
-  Updated: 2026-02-13T23:46:58Z
+  Updated: 2026-02-17T21:23:53Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -3890,7 +3900,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite_Prism_406_1-Pound_454gm_Bottle_-_Ultra-Low-Viscosity_Wicking_20cP_Instant_Adhesive_CA.jpg?v=1752860770
     Price: $299.99 USD
 - [Loctite Prism 420 Ultra-Low Viscosity CA – Perigee Direct](https://www.perigeedirect.com/products/loctite-prism-420-clear-ultra-low-viscosity-wicking-2cp-water-like-instant-ca-adhesive-general-purpose-40640): Shop Loctite Prism 420 at Perigee Direct. Low-viscosity adhesive wicks into tight gaps for fast bonding on multiple substrates. Order today.
-  Updated: 2026-02-11T16:25:31Z
+  Updated: 2026-02-17T19:33:10Z
   Vendor: Loctite
   Product Type: Instant Adhesives
   Availability: Available
@@ -3902,7 +3912,15 @@
   - [1-Pound Bottle](https://www.perigeedirect.com/products/loctite-prism-420-clear-ultra-low-viscosity-wicking-2cp-water-like-instant-ca-adhesive-general-purpose-40640?variant=29152585941095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite_Prism_420_1-Pound_454gm_Bottle_-_Ultra-Low-Viscosity_Wicking_2cP_Plastic_Bonder_Instant_Adhesive_CA.jpg?v=1753729210
-    Price: $199.99 USD
+    Price: $329.99 USD
+  - [1-Pound Bottle (Short Shelf Life) 1-3 Mths Remaining](https://www.perigeedirect.com/products/loctite-prism-420-clear-ultra-low-viscosity-wicking-2cp-water-like-instant-ca-adhesive-general-purpose-40640?variant=47807991546110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite_Prism_420_1-Pound_454gm_Bottle_-_Ultra-Low-Viscosity_Wicking_2cP_Plastic_Bonder_Instant_Adhesive_CA.jpg?v=1753729210
+    Price: $279.99 USD
+  - [1-Pound Bottle ( Recently Expired )](https://www.perigeedirect.com/products/loctite-prism-420-clear-ultra-low-viscosity-wicking-2cp-water-like-instant-ca-adhesive-general-purpose-40640?variant=47808020021502)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite_Prism_420_1-Pound_454gm_Bottle_-_Ultra-Low-Viscosity_Wicking_2cP_Plastic_Bonder_Instant_Adhesive_CA.jpg?v=1753729210
+    Price: $199.00 USD
 - [Loctite SF 7452 Accelerator 20gm Spray – Perigee Direct](https://www.perigeedirect.com/products/loctite-sf-7452-accelerator-for-instant-ca-adhesives-20gm-0-7oz-spray-bottle-or-1-quart-can): Get Loctite SF 7452 at Perigee Direct for a fast-set accelerator supporting instant adhesives with easy spray application or larger can option.
   Updated: 2026-02-02T20:45:17Z
   Vendor: Loctite
@@ -3918,7 +3936,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/7452_947ml.jpg?v=1763876604
     Price: $109.39 USD
 - [Permabond POP Primer for CA Adhesives – Perigee Direct](https://www.perigeedirect.com/products/permabond-pop-plastics-primer-for-superglue-instant-ca-adhesives-for-bonding-with-polyolefins-ptfe-polyethylene-polypropylene-and-difficult-plastics): Get Permabond POP primer at Perigee Direct for treating polyolefins and PTFE so instant adhesives can bond polyethylene, polypropylene and plastics.
-  Updated: 2026-02-16T20:05:53Z
+  Updated: 2026-02-23T23:35:37Z
   Vendor: Permabond
   Product Type: Primers
   Availability: Available
@@ -3936,7 +3954,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PermabondPOP1GallonPrimer.jpg?v=1753724398
     Price: $429.99 USD
   - [Short Shelf Life (1-3 Months) / 1 oz Bottle (Express / Air Shippable)](https://www.perigeedirect.com/products/permabond-pop-plastics-primer-for-superglue-instant-ca-adhesives-for-bonding-with-polyolefins-ptfe-polyethylene-polypropylene-and-difficult-plastics?variant=47454269047038)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/BottlewithDropper_e18f6b26-2899-48f1-8e10-4ef72493df2d.jpg?v=1761499764
     Price: $10.00 USD
   - [Short Shelf Life (1-3 Months) / 4 oz Bottle](https://www.perigeedirect.com/products/permabond-pop-plastics-primer-for-superglue-instant-ca-adhesives-for-bonding-with-polyolefins-ptfe-polyethylene-polypropylene-and-difficult-plastics?variant=47454266720510)
@@ -3960,7 +3978,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PermabondPOP1GallonPrimer.jpg?v=1753724398
     Price: $270.00 USD
 - [3M DP100NS Flexible Epoxy 5 Min](https://www.perigeedirect.com/products/3m-scotch-weld-dp100ns-translucent-5-minute-flexible-non-sag-fast-set-epoxy): Shop 3M Scotch-Weld DP100NS at Perigee Direct for translucent five-minute flexible non-sag epoxy that delivers fast set strength on assemblies.
-  Updated: 2026-02-13T23:46:59Z
+  Updated: 2026-02-19T22:30:37Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -4003,7 +4021,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Cox_400ml_200ml_Multi-Ratio_1-1_2-1_4-1_10-1_Manual_Dispenser_-_M400XMR.jpg?v=1752861871
   Price: $91.99 USD
 - [MixPac MFHX 08-18T Nozzle 10:1 & 4:1 Ratios – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-mfhx-08-18t-f-system-mixing-nozzle-for-10-1-4-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-400ml-490ml): Shop Sulzer MixPac MFHX 08-18T F-System nozzles for precise mixing of 2-part adhesives in cartridges from 200ml to 490ml.
-  Updated: 2026-02-12T00:10:31Z
+  Updated: 2026-02-21T05:50:48Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -4037,7 +4055,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer_Mixpac_10-1_4-1_Helix_18-Element_8mm_ID_F-System_Mixing_Nozzle.jpg?v=1753728375
     Price: $2,069.99 USD
 - [MixPac 400ml C-System 1:1 Ratio Empty Cartridges | Perigee Direct](https://www.perigeedirect.com/products/mixpac-400ml-c-system-1-1-ratio-13-2oz-empty-cartridges-with-included-pistons-sealing-caps-ac-400-01-10-0-103721): Shop Mixpac 400ml C-System cartridges at Perigee Direct for 1:1 ratio dispensing delivering clean filling with pistons and sealing caps.
-  Updated: 2026-02-13T18:20:43Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -4091,7 +4109,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges-Install-Example-2_68f46201-fb68-4f96-a03b-c6e3bd9ac311.jpg?v=1753724945
     Price: $14.99 USD
 - [MixPac 50ml 10:1 B-System Cartridge w/ Cap | Perigee Direct](https://www.perigeedirect.com/products/mixpac-50ml-empty-10-1-ratio-2-part-b-system-cartridges-with-sealing-cap-pistons): Order MixPac 50ml empty 10:1 cartridges with pistons at Perigee Direct for two-part adhesive storage delivering clean dispensing and reduced material waste.
-  Updated: 2026-02-13T23:47:02Z
+  Updated: 2026-02-19T18:06:17Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -4140,7 +4158,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/item-customizations-product-image.png?v=1719843011
   Price: $0.01 USD
 - [Permabond QFS16 CA Adhesive Activator – Perigee Direct](https://www.perigeedirect.com/products/permabond-qfs16-accelerator-surface-conditioner-for-cyanoacrylates-ca-instant-adhesives-and-super-glues): Shop Permabond QFS16 accelerator at Perigee Direct to speed cyanoacrylate curing, improving bond strength, consistency, and production efficiency.
-  Updated: 2026-02-16T20:35:55Z
+  Updated: 2026-02-17T17:45:57Z
   Vendor: Permabond
   Product Type: Primers
   Availability: Available
@@ -4369,7 +4387,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/VBM_200X_MR-M200XMR.jpg?v=1758994233
   Price: $65.99 USD
 - [Flow Restrictor Insert for Cartridges – Perigee Direct](https://www.perigeedirect.com/products/flow-restrictor-insert-adapter-for-larger-cartridges-200ml-400ml-600ml-1500ml): Buy flow restrictor insert adapters for large cartridges to improve dispensing control, reduce waste, and ensure smooth adhesive application.
-  Updated: 2026-02-09T23:10:42Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Flow Restrictors
   Availability: Available
@@ -4399,7 +4417,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Flow_Restrictors_for_C-System_J-System_Cartridges_301631.jpg?v=1752866373
     Price: $249.99 USD
 - [Luer Lok Adapter Tips for Bayonet Nozzles – Perigee Direct](https://www.perigeedirect.com/products/luer-lok-adapter-tips-for-nordson-bayonet-style-mixing-nozzles-pn-7700943): Shop Luer Lok adapter tips for Nordson bayonet mixing nozzles at Perigee Direct for secure fit controlled flow and cleaner dispensing every time.
-  Updated: 2026-02-16T21:40:35Z
+  Updated: 2026-02-19T15:00:38Z
   Vendor: Nordson EFD
   Product Type: Mixing Nozzles
   Availability: Available
@@ -4425,7 +4443,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nordson-Luer-Lok-Adapters-for-Dispensing-Needles-Tips_75db435a-4072-4d1a-8350-cf08e549a041.jpg?v=1756316087
     Price: $549.99 USD
 - [3M DP100 Fast Set Clear Epoxy](https://www.perigeedirect.com/products/3m-scotch-weld-dp100-clear-3-5-minute-fast-set-epoxy-medium-viscosity): Shop 3M Scotch-Weld DP100 at Perigee Direct for clear, three-point-five-minute, medium-viscosity, fast-set epoxy used on mixed-material builds.
-  Updated: 2026-02-13T23:47:04Z
+  Updated: 2026-02-19T22:30:38Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -4455,7 +4473,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M-ScotchWeld-DP100-Clear-200ml-Cartridge-Gun-Kit.jpg?v=1752864013
     Price: $179.99 USD
 - [MixPac DM2X 200 Manual Dispenser | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-dm2x-200-200ml-manual-cartridge-dispenser-configurable-for-1-1-2-1-4-1-10-1-ratios): Discover the Medmix MixPac DM2X 200 at Perigee Direct. Manual dispenser with configurable ratios for precise adhesive output. Order online today.
-  Updated: 2026-02-12T14:55:31Z
+  Updated: 2026-02-19T17:05:37Z
   Vendor: MixPac
   Product Type: Dispensers Manual
   Availability: Available
@@ -4599,7 +4617,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/SDS-Image.jpg?v=1758995990
   Price: $1.00 USD
 - [Piston Tool for 1500 1:1 Cartridges MixPac J – Perigee Direct](https://www.perigeedirect.com/products/piston-insertion-tool-for-1500-1-1-ratio-2-part-cartridges-atlas-professional-and-sulzer-j-system): Shop piston insertion tools at Perigee Direct for 1500ml cartridges ensuring accurate piston seating for Atlas Professional and Sulzer J systems.
-  Updated: 2026-02-05T19:25:31Z
+  Updated: 2026-02-19T13:40:37Z
   Vendor: Maven Cartridges
   Product Type: Piston Insertion Tool
   Availability: Available
@@ -4654,7 +4672,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Helix-18-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1753724357
     Price: $1,599.99 USD
 - [3M EPX Plungers for All Ratios – Perigee Direct](https://www.perigeedirect.com/products/3m-epx-plungers-for-3m-epx-plus-ii-dispensers-pla-series-all-ratios-1-1-2-1-4-1-10-1): Shop 3M EPX plunger sets at Perigee Direct for EPX Plus II dispensers delivering consistent pressure across all standard mix ratios.
-  Updated: 2026-02-16T19:45:38Z
+  Updated: 2026-02-23T22:30:36Z
   Vendor: MixPac
   Product Type: Dispensing Plungers
   Availability: Available
@@ -4672,7 +4690,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3MEPX2-1ratioPlungerfor3MApplicatorGuns62-9170-9921-0v2.jpg?v=1753728000
     Price: $16.99 USD
 - [Plungers for DS51 & DS53 PLS Series Dispensers – Perigee Direct](https://www.perigeedirect.com/products/mixpac-plungers-for-ds51-ds5-dispensers-pls-series-all-ratios-1-1-2-1-4-1-10-1): Shop Mixpac plunger sets at Perigee Direct for DS-series dispensers delivering smooth dispensing across all common mix ratios.
-  Updated: 2026-02-02T20:45:28Z
+  Updated: 2026-02-19T13:20:38Z
   Vendor: MixPac
   Product Type: Dispensing Plungers
   Availability: Available
@@ -4694,7 +4712,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MixPac-PLA-10-1-Plunger---PLA_050_10_10PK_379385d7-d66d-4715-874a-249da2534d5c.jpg?v=1752865491
     Price: $69.99 USD
 - [MixPac MFQ 08-24T Quadro Nozzle 1:1 & 2:1 – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml): Shop Sulzer Mixpac MFQ 08-24T quadro nozzles at Perigee Direct for larger cartridges, delivering uniform mixing and reduced waste.
-  Updated: 2026-02-09T19:10:34Z
+  Updated: 2026-02-18T19:45:50Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -4728,7 +4746,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
     Price: $999.99 USD
 - [Hair Color Touch-Up Syringe Dispenser Kit- 25ml 2-part syringe with included mixing nozzle](https://www.perigeedirect.com/products/hair-color-touch-up-dispenser-kit-25ml-2-part-syringe-with-included-mixing-nozzle): This small dispensing syringe kit is perfect for hair stylists and customers alike, to fill with the hair touch-up lotion, and then properly mix and dispense for treating hair with the needed touch-up coloring. Each multi-pack contains either 1, 5, 10, 25, 50 or 100 dispenser kits, including a 25ml (0.85oz) 2-part syringe, a resealable cap, a hand plunger, and a mixing nozzle. Each barrel holds 12ml of lotion, or 0.42oz. This kit takes the guess-work away from getting the right ratio of materials, and thoroughly mixes it every time. The syringe can also be used without the mixing nozzle if needed, simply push the hand plunger down, and the correct ratio of material is pushed out, and can then be mixed by hand with a small Popsicle stick or similar.
-  Updated: 2026-02-13T23:47:07Z
+  Updated: 2026-02-17T21:24:02Z
   Vendor: Maven Cartridges
   Product Type: Syringe Barrel and Piston
   Availability: Available
@@ -4806,7 +4824,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2022-1380mlF-SystemCartridge.jpg?v=1756316374
     Price: $45.00 USD
 - [Maven Little Big Filler Liquid Dispenser – Perigee Direct](https://www.perigeedirect.com/products/maven-little-big-filler-versatile-liquid-adhesive-filling-machine-for-small-batches-1-and-2-part-materials): Find Maven Little Big Filler at Perigee Direct. Adhesive machine for precise dispensing of one- and two-part materials. Talk to sales today.
-  Updated: 2026-02-16T15:31:18Z
+  Updated: 2026-02-19T21:06:21Z
   Vendor: Maven Little Big Filler
   Product Type: Filling & Dispensing Machines
   Availability: Available
@@ -4896,7 +4914,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/VerticalDispenserMountingPost12-Inch_affixestoPotLid.jpg?v=1752866999
     Price: $49.99 USD
 - [Araldite 2023 Foaming MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/araldite-2023-10-30-60-flexible-toughened-foaming-gap-filling-mma-10-30-60-minute-set): Shop Araldite 2023 at Perigee Direct for flexible, toughened, foaming MMA bonding that fills gaps and delivers durable strength with multiple set times.
-  Updated: 2026-02-13T23:47:09Z
+  Updated: 2026-02-17T21:24:05Z
   Vendor: Araldite
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -4952,14 +4970,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PPM750XSIDE.jpg?v=1756316392
     Price: $155.99 USD
 - [Albion 18v Battery for Cordless Dispensers- 982-2](https://www.perigeedirect.com/products/albion-18v-battery-for-cordless-dispensers-982-2): Shop  Albion 18V replacement battery for cordless dispensers, delivering dependable power, long runtime, and reliable jobsite performance.
-  Updated: 2026-02-13T23:47:10Z
+  Updated: 2026-02-17T21:24:06Z
   Vendor: Albion
   Product Type: Battery & Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-18V-LI-battery-large-982-2_c04a9e21-5559-497c-ad29-5e4d3cc1e607.jpg?v=1752862413
   Price: $159.99 USD
 - [Albion 18V Battery Charger 982-21 – Perigee Direct](https://www.perigeedirect.com/products/albion-battery-charger-for-18v-12v-cordless-dispenser-982-21-usa-version): Shop Albion battery chargers at Perigee Direct to keep 18V and 12V cordless dispensers powered and job ready.
-  Updated: 2026-02-13T23:47:11Z
+  Updated: 2026-02-17T21:24:07Z
   Vendor: Albion
   Product Type: Battery & Charger
   Availability: Available
@@ -5022,7 +5040,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-2050-050ml-cartridge_nozzle_06070cf7-b8fc-4d73-bffb-69824b7ae50b.jpg?v=1752864265
     Price: $13.00 USD
 - [Araldite 2051 Saltwater MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-2051-saltwater-underwater-acrylate-mma-2-minute-set-formula): Find Araldite 2051 at Perigee Direct. Fast-setting adhesive for underwater and saltwater bonding on metals and plastics. Order your supply today.
-  Updated: 2026-02-13T18:00:59Z
+  Updated: 2026-02-23T17:36:17Z
   Vendor: Araldite
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -5132,7 +5150,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-AY-557-050ml-cartridge_nozzle-layer.jpg?v=1758993861
     Price: $16.00 USD
 - [Fastweld 10 3 Min Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/huntsman-fastweld-10-3-minute-thick-viscosity-clear-gen-purpose-epoxy): Shop Huntsman Fastweld 10 at Perigee Direct for three-minute thick clear epoxy bonds that reach handling strength quickly on many materials.
-  Updated: 2026-02-06T17:55:31Z
+  Updated: 2026-02-20T16:44:40Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -5140,19 +5158,19 @@
   - [50ml (1.7 oz) / 50ml Cartridge + Nozzle](https://www.perigeedirect.com/products/huntsman-fastweld-10-3-minute-thick-viscosity-clear-gen-purpose-epoxy?variant=32659892568167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Fastweld-10AB-050ml-cartridge_nozzle.jpg?v=1752862860
-    Price: $19.99 USD
+    Price: $27.99 USD
   - [50ml (1.7 oz) / 50ml Hand Plunger Kit](https://www.perigeedirect.com/products/huntsman-fastweld-10-3-minute-thick-viscosity-clear-gen-purpose-epoxy?variant=32659892600935)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Fastweld-10AB-050ml_hand-plunger_mix-sheet_stick_nozzle.jpg?v=1752862861
-    Price: $29.99 USD
+    Price: $37.99 USD
   - [50ml (1.7 oz) / 50ml Caulk-Gun Adapter Kit](https://www.perigeedirect.com/products/huntsman-fastweld-10-3-minute-thick-viscosity-clear-gen-purpose-epoxy?variant=32659892633703)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Fastweld-10AB-50ml_caulking-gun-adapter.jpg?v=1752862862
-    Price: $29.99 USD
+    Price: $37.99 USD
   - [50ml (1.7 oz) / 50ml Dispenser Kit](https://www.perigeedirect.com/products/huntsman-fastweld-10-3-minute-thick-viscosity-clear-gen-purpose-epoxy?variant=37773127155890)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Fastweld-10AB_050ml-cartridge_nozzle_gun_copy.jpg?v=1752862868
-    Price: $49.99 USD
+    Price: $59.99 USD
   - [Short Shelf Life (1-3 Months) / 50ml (1.7 oz)](https://www.perigeedirect.com/products/huntsman-fastweld-10-3-minute-thick-viscosity-clear-gen-purpose-epoxy?variant=47454159110398)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Fastweld-10AB-050ml-cartridge_nozzle.jpg?v=1752862860
@@ -5176,7 +5194,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Luer-lock-adapter-white-50-pack.jpg?v=1719847615
     Price: $20.99 USD
 - [Luer Lok Tip Adapter Gray, Fits 6–8mm Nozzles – Perigee Direct](https://www.perigeedirect.com/products/universal-luer-lok-adapter-tips-for-mixing-nozzles-gray-fits-6-8-mm-od-nozzle-tips): Shop Universal Gray Luer-Lok Adapter Tips at Perigee Direct for secure connections with mixing nozzles sized 6 to 8mm outer diameter.
-  Updated: 2026-02-16T02:50:34Z
+  Updated: 2026-02-19T22:15:37Z
   Vendor: MixPac
   Product Type: Dispensing Tips
   Availability: Available
@@ -5204,7 +5222,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Luer-lock-adapter-black-50-pack_1b829722-5895-4ee1-8096-f31d63f8d5f8.jpg?v=1719843953
     Price: $20.99 USD
 - [MixPac DP200 Pneumatic 200ml Dispenser 1:1–10:1 – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-dp200-200ml-pneumatic-cartridge-dispenser-configurable-for-1-1-2-1-4-1-10-1-ratios): Shop Sulzer Mixpac DP200 at Perigee Direct for pneumatic cartridge dispensing delivering multi-ratio control for 200ml adhesives.
-  Updated: 2026-01-27T14:50:37Z
+  Updated: 2026-02-17T16:03:54Z
   Vendor: MixPac
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -5226,7 +5244,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/sulzer-mixpac-dp200-pneumatic-cartridge-gun.jpg?v=1752863256
     Price: $249.99 USD
 - [MixPac DP400 - 400mL Pneumatic Cartridge Dispenser (Configurable for 1:1, 2:1, 4:1, 10:1 ratios)](https://www.perigeedirect.com/products/sulzer-mixpac-dp400-400ml-pneumatic-cartridge-dispenser-configurable-for-1-1-2-1-4-1-10-1-ratios): This dispenser has been replaced by the newer DP2X series. If you order this, it will be fulfilled with the DP2X substitute. Simply do a site search on MixPac DP2X to see the current MixPac Dispensers. The Sulzer Mixpac DP 400 series pneumatic cartridge dispenser was an industry-standard go-to dispenser for industrial and professional two-part adhesive dispensing from 400ml cartridges. It offered a durable, lightweight design perfect for mid-to-high volume applications. And also enabled precise metered/pre-set volumes that are dispensed per 'squeeze' of the trigger. The Sulzer Mixpac DP400 400ml pneumatic (air pressure force) cartridge dispenser was available in 1:1, 2:1, 4:1 and 10:1 ratio configurations depending on the material you are dispensing. This pneumatic dispenser worked with most standard 400ml cartridges including the Sulzer C and F series. Part Number Item ID Max PSI Mix Ratio DP 400-85-01 114781 85 PSI (For Light & Medium Viscosity) 1:1 & 2:1 cartridges DP 400-85-04 114782 85 PSI (For Light & Medium Viscosity) 4:1 cartridges DP 400-85-10 114783 85 PSI (For Light & Medium Viscosity) 10:1 cartridges DP 400-100-01 114466 100 PSI (For Thick & High Viscosity) 1:1 & 2:1 cartridges DP 400-100-04 114559 100 PSI (For Thick & High Viscosity) 4:1 cartridges DP 400-100-10 114465 100 PSI (For Thick & High Viscosity) 10:1 cartridges Sulzer MixPac DP400 Pneumatic Cartridge Dispenser Works With: Sulzer Mixpac C System Cartridges Sulzer Mixpac F System Cartridges Atlas Professional 200ml Cartridges Features of the Sulzer Mixpac DP400 Cartridge Dispenser Safe and easy handling Easy fatigue-free operation No cross-mixing Rigid construction Precise dosing – accurate application Suitable for high-viscosity compounds High long-term stability Compatible with all standard mix ratios Optimal dispenser for each standard 2-component ratio (1:1, 2:1, 4:1, 10:1)
-  Updated: 2026-02-10T20:00:38Z
+  Updated: 2026-02-19T17:20:48Z
   Vendor: MixPac
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -5297,7 +5315,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nordson-Retaining-Nut-for-Ratio-Pak-14-thread-count-7660818.jpg?v=1756320266
   Price: $0.35 USD
 - [Araldite 2019 Epoxy Bonder 120 Min Set – Perigee Direct](https://www.perigeedirect.com/products/araldite-2019-aw4859-hw4859-composites-carbon-fiber-bonder-2-1-ratio-120-min-set-time-high-strength-toughened-epoxy-gel): Discover Araldite 2019 at Perigee Direct. High-strength epoxy gel for composites with long workable time for advanced repairs. Learn more today.
-  Updated: 2026-02-16T16:30:39Z
+  Updated: 2026-02-23T17:36:18Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -5335,7 +5353,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite-2019-_AW-4859-HW-4859_-200ml-cartridge_6521bd6a-e61f-4b7e-84f8-9950ecffa011.jpg?v=1756316222
     Price: $50.00 USD
 - [Araldite 2031 Black Epoxy Gel 60 Min – Perigee Direct](https://www.perigeedirect.com/products/araldite-2031-1-60-min-set-chemical-resistant-black-thixotropic-toughened-epoxy-gel): Shop Araldite 2031-1 at Perigee Direct for 60-minute black toughened epoxy gel that resists chemicals and supports strong industrial bonding.
-  Updated: 2026-02-13T23:47:17Z
+  Updated: 2026-02-23T17:36:16Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -5388,7 +5406,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Chemical-Specification-Analysis-Statement_2eac0e47-daa7-4eda-b3eb-dfbde05ec4e1.jpg?v=1752866688
   Price: $200.00 USD
 - [3M EC2216 B/A Aerospace Epoxy](https://www.perigeedirect.com/products/3m-ec2216-b-a-aerospace-high-performance-flexible-cold-resistant-shock-resistant-90-minute-set-epoxy): Shop 3M EC2216 B/A at Perigee Direct for flexible cold resistant aerospace grade epoxy with 90 minute set time and shock resistant bonds.
-  Updated: 2026-02-13T23:47:20Z
+  Updated: 2026-02-17T21:24:15Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -5438,7 +5456,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M_EC2216_gray_1_Quart_Kit.jpg?v=1763918687
     Price: $300.00 USD
 - [3M DP2216 Gray Flexible Epoxy](https://www.perigeedirect.com/products/3m-scotch-weld-dp2216-2216-b-a-gray-high-performance-flexible-cold-resistant-shock-resistant-90-minute-set-epoxy): Shop 3M DP2216 at Perigee Direct. Flexible cold-resistant epoxy for strong, shock-resistant bonds with 90-minute set time. Order online today.
-  Updated: 2026-02-13T23:47:23Z
+  Updated: 2026-02-23T17:36:18Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -5492,7 +5510,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M_Scotch-Weld_2216_BA_Pails_64eff431-b1c5-4e3c-ae45-6f0b3c03d3b9.jpg?v=1753727306
     Price: $294.00 USD
 - [Loctite EA 9359.3 AERO Glass-Bead Epoxy – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-9359-3-aero-glass-bead-embedded-epoxy-paste-with-excellent-water-and-salt-spray-resistance): Order Loctite EA 9359 at Perigee Direct, a glass bead reinforced epoxy paste with water and salt resistance for marine and industrial use.
-  Updated: 2026-02-13T18:01:17Z
+  Updated: 2026-02-23T17:36:26Z
   Vendor: Loctite
   Product Type: Epoxy
   Availability: Available
@@ -5526,7 +5544,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/henkel-loctite-hysol-ea9359-3aero-Quart-Kit_v2.jpg?v=1763878071
     Price: $489.99 USD
 - [MixPac 250ml 10:1 F-System Cartridge + Cap – Perigee Direct](https://www.perigeedirect.com/products/sulzer-10-1-f-system-250ml-with-pistons-and-sealing-cap-pbt-plastic-great-for-reactive-materials): Shop Sulzer 10:1 F system 250ml cartridge at Perigee Direct with pistons for reactive adhesive storage delivering clean mixing and minimal waste.
-  Updated: 2026-02-16T02:45:28Z
+  Updated: 2026-02-18T21:10:07Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -5568,7 +5586,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges-Install-Example-2_a54dd4b0-9ae8-4100-9453-6b84d06b221f.jpg?v=1753728066
     Price: $14.99 USD
 - [MixPac 490ml F-System 10:1 PBT Cartridges Set | Perigee Direct](https://www.perigeedirect.com/products/mixpac-490ml-f-system-10-1-ratio-empty-pbt-cartridges-pistons-and-sealing-caps-made-with-pbt-plastic-great-for-reactive-materials): Shop Mixpac 490ml F system PBT cartridges at Perigee Direct for empty 10 to 1 units with pistons and caps ideal for reactive materials.
-  Updated: 2026-02-10T15:40:34Z
+  Updated: 2026-02-18T21:15:46Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -5610,7 +5628,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/AP_200ml_1-1-Ratio_Cartridge_C-System-Kit-with-Nozzles_-_-Dripless-Dispensing-Gun---No-Text_6a3555ce-0e30-4d4f-9836-1e6b4cfa2e33.jpg?v=1756321792
     Price: $1,099.99 USD
 - [MixPac 825ml 10:1 Cartridge Kit J-System | Perigee Direct](https://www.perigeedirect.com/products/mixpac-825ml-10-1-empty-cartridge-with-included-pistons-and-sealing-caps-aj-825-10-30-05-301809-j-system-construction-series): Shop Mixpac 825ml 10 to 1 cartridges at Perigee Direct for empty two part filling with pistons and sealing caps for construction mixing.
-  Updated: 2026-02-09T23:10:34Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -5660,7 +5678,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool---1500ml-Size-in-Hand-with-Piston_9acc88d2-152f-44ee-b977-45f35740034f.jpg?v=1753723686
     Price: $24.99 USD
 - [SynthoGlass Pipe Repair Kits](https://www.perigeedirect.com/products/cs-nri-syntho-glass-pipe-repair-kits): Durable CS-NRI SynthoGlass pipe repair wrap for emergency leaks. Fiberglass repair composite patch ideal for quick, lasting fixes.
-  Updated: 2026-02-16T21:10:34Z
+  Updated: 2026-02-20T14:00:38Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -5834,7 +5852,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Plexus-MA530-Gray-_53000_-400ml-Cartridge_f76a5885-f6dd-4e42-b22b-83b3d96bd2f6.jpg?v=1753724158
     Price: $60.00 USD
 - [Araldite 2028‑1 UV Stable PUR Adhesive – Perigee Direct](https://www.perigeedirect.com/products/araldite-2028-1-uv-stable-fast-setting-transparent-polyurethane-pur-adhesive-variety-of-packaging-sizes): Shop Araldite 2028-1 at Perigee Direct Canada for UV-stable, fast-setting transparent PUR bonding designed for durable outdoor and industrial use.
-  Updated: 2026-02-13T23:47:32Z
+  Updated: 2026-02-23T17:36:17Z
   Vendor: Araldite
   Product Type: Polyurethane
   Availability: Available
@@ -5867,7 +5885,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LoctiteEA9394Aero50mlcartridge4-1ratio.jpg?v=1752861864
   Price: $69.99 USD
 - [Atlas Pro 50 ml Hardwood Repair Kit – Perigee Direct](https://www.perigeedirect.com/products/atlas-pro-hardwood-repair-50ml-kits-for-hollow-squeaky-floors-staircases-50ml-1-7oz-cartridges-great-for-hardwoods-pvc-lvp-ceramic-and-stone-floorings): Shop Atlas Pro hardwood repair kits at Perigee Direct for fixing squeaky hollow floors across wood vinyl tile and stone.
-  Updated: 2026-02-16T02:50:42Z
+  Updated: 2026-02-23T14:15:36Z
   Vendor: Maven Adhesives
   Product Type: Hardwood Epoxy Repair Kits
   Availability: Available
@@ -5942,14 +5960,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Dupont_Molykote_High_Vacuum_Grease_3.6_kg.jpg?v=1758993606
     Price: $649.99 USD
 - [Hardwood Flooring Repair A-System Accessory Kit](https://www.perigeedirect.com/products/hardwood-flooring-repair-a-system-accessory-kit): Shop the Hardwood Flooring Repair Kit for fast fixes using high-strength adhesive tools and precision application components.
-  Updated: 2026-02-16T20:31:06Z
+  Updated: 2026-02-20T16:55:57Z
   Vendor: Maven Adhesives
   Product Type: Hardwood Epoxy Repair Kits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/HARDWOOD_A-SYSTEM_ACCY_KIT_eab9c5fa-38d0-4500-a405-9a7474ca2b11.jpg?v=1752862319
   Price: $5.24 USD
 - [Hardman Epoweld 8173 Fast Set Epoxy – Perigee Direct](https://www.perigeedirect.com/products/hardman-epoweld-8173-extra-fast-setting-thin-flowable-epoxy-aka-double-bubble-red-04001): Shop Hardman Epoweld 8173 at Perigee Direct for extra-fast-setting, thin-flow epoxy delivering strong, reliable bonds in precision repair work.
-  Updated: 2026-02-13T18:01:08Z
+  Updated: 2026-02-23T17:36:31Z
   Vendor: Hardman Epoweld
   Product Type: Epoxy
   Availability: Available
@@ -6069,7 +6087,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/epoweld-8200-8oz-Bottle-Kits.jpg?v=1756320444
     Price: $61.99 USD
 - [Hardman Epoweld 3243 for Tools – Perigee Direct](https://www.perigeedirect.com/products/hardman-epoweld-3243-aka-epoweld-43243-53243-slow-setting-high-impact-and-strength-great-for-golf-club-and-striking-tool-repairs): Shop Hardman Epoweld 3243 slow-setting epoxy for high-impact strength, ideal for golf clubs, striking tools, and repair applications.
-  Updated: 2026-02-13T18:01:07Z
+  Updated: 2026-02-23T17:36:27Z
   Vendor: Hardman Epoweld
   Product Type: Epoxy
   Availability: Available
@@ -6225,7 +6243,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Dripless-DC400-Applicator-Gun.jpg?v=1752867594
   Price: $59.99 USD
 - [DP2 50-16 Pneumatic Glue Dispenser TS408 Alt – Perigee Direct](https://www.perigeedirect.com/products/mixpac-pneumatic-50ml-glue-dispensers-dp2-50-16-series-aka-ts408-series-configurable-for-all-ratios-1-1-2-1-3-1-3-2-4-1-10-1): Find MixPac DP2-50 pneumatic dispensers at Perigee Direct, configurable for all ratios to deliver smooth, precise adhesive application. Shop now.
-  Updated: 2026-02-05T13:20:31Z
+  Updated: 2026-02-17T19:22:27Z
   Vendor: MixPac
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -6247,7 +6265,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/TS408BM_4-1_10-1_A-series_B-series_S-series.jpg?v=1753727539
     Price: $199.99 USD
 - [MixPac DM2X 400 Manual Dispenser | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-dm2x-400-400ml-manual-cartridge-dispenser-configurable-for-1-1-2-1-4-1-10-1-ratios): Shop the Medmix MixPac DM2X 400 at Perigee Direct. Manual dispenser with multiple mix ratios for controlled adhesive application. Buy today.
-  Updated: 2026-02-03T22:20:30Z
+  Updated: 2026-02-23T23:55:39Z
   Vendor: MixPac
   Product Type: Dispensers Manual
   Availability: Available
@@ -6277,7 +6295,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/sulzer-mixpac-CKX_400-01-01-system-400-conversion-kit.jpg?v=1753726027
     Price: $51.99 USD
 - [MixPac DP2X 400 Pneumatic Dispenser | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-dp2x-400-400ml-pneumatic-cartridge-dispenser-configurable-for-1-1-2-1-4-1-10-1-ratios): Shop Medmix DP2X 400 pneumatic dispenser at Perigee Direct for 400ml cartridges enabling controlled output across 1:1 to 10:1 mix ratios.
-  Updated: 2026-02-10T19:54:56Z
+  Updated: 2026-02-23T23:55:40Z
   Vendor: MixPac
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -6311,7 +6329,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/sulzer-mixpac-dp2x-400-01-50-01-2k.jpg?v=1758995322
     Price: $300.00 USD
 - [MixPac DP2X 200 Pneumatic Dispenser | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-dp2x-200-200ml-250ml-pneumatic-cartridge-dispenser-configurable-for-1-1-2-1-4-1-10-1-rati): Shop the Medmix MixPac DP2X dispenser at Perigee Direct. Adjustable mix ratios give accurate two-part adhesive application. Order online today.
-  Updated: 2026-02-10T11:50:33Z
+  Updated: 2026-02-17T15:52:43Z
   Vendor: MixPac
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -6363,7 +6381,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/sulzer-mixpac-CKX_200-01-01-system-200-conversion-kit_65f9d4f2-3af5-4d71-a0e4-eabb56fe94d8.jpg?v=1758994818
     Price: $42.99 USD
 - [MixPac DM2X-400 Conversion Kit Set | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-dm2x-400-multi-ratio-400ml-conversion-kits-1-1-2-1-4-1-10-1-for-manual-dm2x-400-pneumatic-dp2x-400-dispensers): Shop Medmix Mixpac DM2X 400 conversion kits at Perigee Direct to adapt manual and pneumatic dispensers for precise multi-ratio 2-part cartridge use.
-  Updated: 2026-02-03T22:07:21Z
+  Updated: 2026-02-23T23:44:47Z
   Vendor: MixPac
   Product Type: Dispensers Manual
   Availability: Available
@@ -6381,7 +6399,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/sulzer-mixpac-CKX_200-01-01-system-200-conversion-kit_72fd95e3-4dc1-4cdc-aab1-b17e726d3212.jpg?v=1753725988
     Price: $56.50 USD
 - [SynthoGlass Industrial Grade - Pipe Repair Kits](https://www.perigeedirect.com/products/cs-nri-syntho-glass-industrial-grade-pipe-repair-kits): Explore Syntho Glass kits at Perigee Direct. Pipe repair system for fast, durable reinforcement on damaged lines. Order your repair kit today.
-  Updated: 2026-02-16T21:10:34Z
+  Updated: 2026-02-20T15:32:27Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -6431,13 +6449,13 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Siliconetape.webp?v=1753726341
     Price: $34.99 USD
 - [MixPac DM200 200ml Manual Dispenser 1:1–10:1 – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-dm200-200ml-manual-cartridge-dispenser-configurable-for-1-1-2-2-4-1-10-1-ratios): Shop Sulzer MixPac DM200 dispenser at Perigee Direct for 200ml cartridges supporting multiple ratios for precise two-part adhesive application.
-  Updated: 2026-02-12T14:55:33Z
+  Updated: 2026-02-19T17:05:37Z
   Vendor: MixPac
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/DM2X200Manual.jpg?v=1767201892
   - [1:1 or 2:1 Ratios](https://www.perigeedirect.com/products/sulzer-mixpac-dm200-200ml-manual-cartridge-dispenser-configurable-for-1-1-2-2-4-1-10-1-ratios?variant=37525042856114)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/DM2X200Manual.jpg?v=1767201892
     Price: $199.99 USD
   - [4:1 Ratio](https://www.perigeedirect.com/products/sulzer-mixpac-dm200-200ml-manual-cartridge-dispenser-configurable-for-1-1-2-2-4-1-10-1-ratios?variant=37525042888882)
@@ -6475,7 +6493,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Binks_PT-78-K60_2.5_to_2.8_gallon_pink_liner.jpg?v=1753728634
     Price: $899.99 USD
 - [Piston Adapter for Large 2-Part Cartridges – Perigee Direct](https://www.perigeedirect.com/products/piston-blowout-adapter-for-larger-cartridges-200ml-400ml-600ml-1500ml-etc): Shop piston blowout adapters at Perigee Direct to prevent cartridge failure and support clean, controlled dispensing for large-volume systems.
-  Updated: 2026-02-13T18:35:37Z
+  Updated: 2026-02-18T22:10:43Z
   Vendor: Maven Cartridges
   Product Type: Piston Blowout Adapters
   Availability: Available
@@ -6487,7 +6505,7 @@
   - [Bulk 10-Pack](https://www.perigeedirect.com/products/piston-blowout-adapter-for-larger-cartridges-200ml-400ml-600ml-1500ml-etc?variant=37576425308338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Blow-Out-Adapter-Highlight-Image.jpg?v=1752860206
-    Price: $289.99 USD
+    Price: $285.99 USD
 - [Piston Tool for Ritter-Style Pistons Albion – Perigee Direct](https://www.perigeedirect.com/products/piston-insertion-tool-for-ritters-superior-style-pistons-used-with-acf-and-zkk-2-part-adhesive-cartridges-200ml-400ml-1-1-ratio-2-1-ratio-sizes-1): Shop piston insertion tools at Perigee Direct for Ritter Superior pistons, ensuring accurate seating and smooth dispensing in ACF and ZKK cartridges.
   Updated: 2026-01-19T16:11:42Z
   Vendor: Maven Cartridges
@@ -6569,7 +6587,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PLEXUS_MA560-1_400ml.jpg?v=1753727585
     Price: $60.00 USD
 - [Adhesive Mixing Kit, 3x5 in Sheets – Perigee Direct](https://www.perigeedirect.com/products/adhesive-mixing-kit-mixing-sticks-and-re-usable-mixing-sheets-3x5-inch-size): Order the adhesive mixing kit at Perigee Direct including sticks and reusable sheets supporting controlled mixing for two part adhesives.
-  Updated: 2026-02-16T18:25:54Z
+  Updated: 2026-02-23T19:45:57Z
   Vendor: Maven Mixing
   Product Type: Mixing Sheets
   Availability: Available
@@ -6599,7 +6617,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Adhesive-Mixing-Sheets-and-Sticks-Kit.jpg?v=1753728298
     Price: $49.99 USD
 - [Nitrile Gloves for Adhesive and Resin Protection – Perigee Direct](https://www.perigeedirect.com/products/nitrile-gloves-hand-protection-while-applying-adhesives-resins-chemicals): Shop nitrile gloves at Perigee Direct for dependable hand protection when applying adhesives resins chemicals and coatings in industrial environments.
-  Updated: 2026-02-14T10:20:32Z
+  Updated: 2026-02-23T18:10:41Z
   Vendor: Maven Chemicals
   Product Type: Gloves
   Availability: Available
@@ -6665,7 +6683,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Cox_1500ml_Pneumatic_A750HP-10S1.jpg?v=1752864293
     Price: $461.99 USD
 - [Hardman Striking Tool Epoxy – Perigee Direct](https://www.perigeedirect.com/products/hardman-striking-tool-epoxy-epoweld-47020-53655-slow-setting-high-impact-and-strength-great-for-golf-club-and-striking-tool-repairs): Repair tools with Hardman Epoweld 47020 from Perigee Direct, a slow-set epoxy used by shops to fix striking tools and golf club heads.
-  Updated: 2026-02-13T18:01:08Z
+  Updated: 2026-02-23T17:36:26Z
   Vendor: Hardman Epoweld
   Product Type: Epoxy
   Availability: Available
@@ -6699,7 +6717,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Epoweld-3243--50ml-cartridge_nozzle_7b300c68-f0b2-48ee-b4b1-5e4e27057a5e.jpg?v=1752862479
     Price: $6.00 USD
 - [Devcon Dev-Thane 5 Urethane 14503 – Perigee Direct](https://www.perigeedirect.com/products/devcon-dev-thane-5-14503-gray-5-minute-urethane-adhesive): Order Devcon Dev-Thane 5 at Perigee Direct for fast five-minute urethane bonding delivering durable gray adhesive strength on mixed materials.
-  Updated: 2026-02-16T18:25:55Z
+  Updated: 2026-02-23T20:30:48Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
@@ -6793,7 +6811,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nitrile_Gloves_on_Hands.jpg?v=1753726112
     Price: $19.99 USD
 - [Albion Dispensers 200ml to 250ml Range – Perigee Direct](https://www.perigeedirect.com/products/albion-maual-dispenser-for-200ml-210ml-215ml-225ml-250ml-2-part-cartridges-1-1-2-1-4-1-or-10-1-mix-ratios): Shop Albion manual dispensers at Perigee Direct for precise two-part adhesive control across multiple cartridge sizes and mix ratios.
-  Updated: 2026-02-13T23:47:36Z
+  Updated: 2026-02-17T21:24:32Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
@@ -6818,7 +6836,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/CoA-Certificate-of-Analysis.jpg?v=1753728139
   Price: $1.00 USD
 - [MixPac MAQ-05-16L Quadro 3.25in Nozzle 50ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-maq-05-16l-quadro-square-3-25-inch-16-element-high-efficiency-mixing-nozzles-for-50ml-cartridges): Shop MixPac MAQ 05 16L nozzles at Perigee Direct for 50ml cartridges with high-efficiency 16-element mixing, delivering consistent adhesive blending.
-  Updated: 2026-02-16T19:25:44Z
+  Updated: 2026-02-18T20:15:47Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -6870,7 +6888,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/CoxPPM750X_M750X-10_57581df8-1f91-4a48-a40c-28f582b92069.jpg?v=1753725256
     Price: $105.99 USD
 - [MG Chemicals Alcohol Wipes - Larger 5x6-inch size](https://www.perigeedirect.com/products/mg-chemicals-alcohol-wipes-larger-5x6-inch-size): Shop MG Chemicals alcohol wipes 5 x 6 inches for clean surface preparation before adhesive bonding, soldering, and maintenance tasks.
-  Updated: 2026-02-13T23:47:39Z
+  Updated: 2026-02-17T21:24:34Z
   Vendor: MG Chemicals
   Product Type: Epoxy
   Availability: Available
@@ -6926,7 +6944,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LoctiteEA0501Ultra-ClearThixotropic50-minutesetEpoxyQuartKit.jpg?v=1764004732
     Price: $139.99 USD
 - [Jensen 14G Steel Tip Straight Set – Perigee Direct](https://www.perigeedirect.com/products/jensen-steel-straight-14-gauge-dispensing-tips-olive-push-on-luer-lock-1-2-inch-1-inch-2-inch-3-inch-4-inch-5-inch): Shop Jensen steel dispensing tips at Perigee Direct for straight 14 gauge push on luer lock tips in sizes from half inch to five inch lengths.
-  Updated: 2026-02-15T23:40:34Z
+  Updated: 2026-02-23T22:30:48Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -6976,7 +6994,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal14GaugeOlive1InchDispensingTip_448dab4b-ad95-4312-9844-a666ca60eea0.jpg?v=1753729449
     Price: $36.21 USD
   - [1.0 Inch / 1000-Pack](https://www.perigeedirect.com/products/jensen-steel-straight-14-gauge-dispensing-tips-olive-push-on-luer-lock-1-2-inch-1-inch-2-inch-3-inch-4-inch-5-inch?variant=40686105329842)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal14GaugeOlive1InchDispensingTip_448dab4b-ad95-4312-9844-a666ca60eea0.jpg?v=1753729449
     Price: $189.99 USD
   - [1.5 Inch / 5-Pack](https://www.perigeedirect.com/products/jensen-steel-straight-14-gauge-dispensing-tips-olive-push-on-luer-lock-1-2-inch-1-inch-2-inch-3-inch-4-inch-5-inch?variant=40686105362610)
@@ -7000,7 +7018,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal14GaugeOlive1.5InchDispensingTip_d4ca8e17-f558-4b11-94f9-0726674b4af8.jpg?v=1753729450
     Price: $36.21 USD
   - [1.5 Inch / 1000-Pack](https://www.perigeedirect.com/products/jensen-steel-straight-14-gauge-dispensing-tips-olive-push-on-luer-lock-1-2-inch-1-inch-2-inch-3-inch-4-inch-5-inch?variant=40686105526450)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal14GaugeOlive1.5InchDispensingTip_d4ca8e17-f558-4b11-94f9-0726674b4af8.jpg?v=1753729450
     Price: $179.99 USD
   - [2.0 Inch / 5-Pack](https://www.perigeedirect.com/products/jensen-steel-straight-14-gauge-dispensing-tips-olive-push-on-luer-lock-1-2-inch-1-inch-2-inch-3-inch-4-inch-5-inch?variant=40686105559218)
@@ -7100,7 +7118,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal14GaugeOlive5InchDispensingTip_d6d5818b-327f-41f6-abfd-ddeb41fda66b.jpg?v=1753729454
     Price: $1,299.99 USD
 - [Jensen Tapered Dispensing Tips Variety – Perigee Direct](https://www.perigeedirect.com/products/jensen-tapered-tip-dispensing-tips-variety-of-sizes-push-on-luer-lock-1-25-inch): Order Jensen tapered tips at Perigee Direct for accurate dispensing with push-on luer lock in multiple sizes for clean adhesive placement.
-  Updated: 2026-02-06T20:41:36Z
+  Updated: 2026-02-19T17:51:01Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -7250,7 +7268,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal24GaugeRed1.25InchTaperedDispensingTip.jpg?v=1752860119
     Price: $209.99 USD
 - [Shipping Protection by Route](https://www.perigeedirect.com/products/routeins): Discover the Routin adhesive system at Perigee Direct. Designed for consistent, reliable application across bonding projects. Order today.
-  Updated: 2026-02-13T23:47:56Z
+  Updated: 2026-02-23T14:45:29Z
   Vendor: Route
   Product Type: Insurance
   Availability: Available
@@ -7456,14 +7474,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/route-package-protection-logo-v3.png?v=1753723940
     Price: $14.58 USD
 - [Albion Softshell Tool Bag Dispensers – Perigee Direct](https://www.perigeedirect.com/products/albion-softshell-large-tool-bag-for-pneumatic-air-dispensers): Shop Albion softshell large tool bags at Perigee Direct to safely store protect and transport pneumatic air dispensers and accessories.
-  Updated: 2026-02-13T23:47:58Z
+  Updated: 2026-02-17T21:24:53Z
   Vendor: Albion
   Product Type: Cases & Totes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/AlbionSoftLongToolBag_30x10x11.5_forBattery_Manual968-3.jpg?v=1752865640
   Price: $69.99 USD
 - [Albion Small Tool Bag 20×10×11.5 in – Perigee Direct](https://www.perigeedirect.com/products/albion-softshell-small-tool-bag-for-pneumatic-air-dispensers-968-3-20x10x11-5-in): Shop Albion softshell tool bag 968-3 at Perigee Direct to protect pneumatic air dispensers with organized storage and rugged carry comfort.
-  Updated: 2026-02-13T23:47:59Z
+  Updated: 2026-02-17T21:24:54Z
   Vendor: Albion
   Product Type: Cases & Totes
   Availability: Available
@@ -7504,7 +7522,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/nordson-260-series-static-mix-nozzle-_261-218BL.jpg?v=1753728219
     Price: $1,099.99 USD
 - [Jensen Tapered Tip Variety 1.25" – Perigee Direct](https://www.perigeedirect.com/products/jensen-tapered-tip-14-gauge-dispensing-tips-push-on-luer-lock-1-25-inch): Shop Jensen 14-gauge tapered dispensing tips at Perigee Direct for accurate adhesive placement with push-on and luer-lock compatibility.
-  Updated: 2026-02-02T20:46:05Z
+  Updated: 2026-02-19T17:51:01Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -7564,7 +7582,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal16GaugeCharcoal1.25InchTaperedDispensingTip_e4bf5018-a48b-400a-9e83-f4cc09ab1588.jpg?v=1752865831
     Price: $209.99 USD
 - [Jensen 20G Tapered Tip 1.25" – Perigee Direct](https://www.perigeedirect.com/products/jensen-tapered-tip-20-gauge-dispensing-tips-push-on-luer-lock-1-25-inch): Shop Jensen 20-gauge tapered dispensing tips at Perigee Direct for precise adhesive placement delivering clean controlled material flow.
-  Updated: 2026-02-02T20:45:59Z
+  Updated: 2026-02-19T17:50:48Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -7594,7 +7612,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal20GaugePink1.25InchTaperedDispensingTip_98bcd478-ee36-40fb-a129-0f562409e7a9.jpg?v=1756317558
     Price: $209.99 USD
 - [Jensen 18G Tapered Tip 1.25" – Perigee Direct](https://www.perigeedirect.com/products/jensen-tapered-tip-18-gauge-dispensing-tips-variety-of-sizes-push-on-luer-lock-1-25-inch): Use Jensen tapered tips from Perigee Direct for accurate dispensing of adhesives with push-on luer lock and multiple size options.
-  Updated: 2026-02-02T20:46:03Z
+  Updated: 2026-02-19T17:50:45Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -7624,7 +7642,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal18GaugeGreen1.25InchTaperedDispensingTip_deff4861-582f-467e-b5a3-c742e0d9ae67.jpg?v=1752865087
     Price: $209.99 USD
 - [Jensen 22G Tapered Tip 1.25" – Perigee Direct](https://www.perigeedirect.com/products/jensen-tapered-tip-22-gauge-dispensing-tips-push-on-luer-lock-1-25-inch): Shop Jensen 22-gauge tapered dispensing tips with push-on luer lock for precise adhesive placement and controlled material flow.
-  Updated: 2026-02-02T20:46:01Z
+  Updated: 2026-02-19T17:50:49Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -7654,7 +7672,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal22GaugeBlue1.25InchTaperedDispensingTip_f8da72e4-7b23-4124-81fd-a380f986eb23.jpg?v=1756318936
     Price: $209.99 USD
 - [Jensen 24G Tapered Tip Variety – Perigee Direct](https://www.perigeedirect.com/products/jensen-tapered-tip-24-gauge-dispensing-tips-variety-of-sizes-push-on-luer-lock-1-25-inch): Order Jensen twenty-four-gauge tips at Perigee Direct for push-on luer lock dispensing with clean controlled adhesive placement in small areas.
-  Updated: 2026-02-02T20:45:58Z
+  Updated: 2026-02-19T17:50:57Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -7852,7 +7870,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/JenseGlobal12GaugeBlue2InchDispensingTip.jpg?v=1756319393
     Price: $299.99 USD
 - [Atlas Pro 400 ml Hardwood Repair Kit – Perigee Direct](https://www.perigeedirect.com/products/atlas-pro-hardwood-repair-kits-for-hollow-squeaky-floors-staircases-400ml-13-5oz-cartridges-great-for-hardwoods-pvc-lvp-ceramic-and-stone-floorings): Shop Atlas Pro hardwood repair kits at Perigee Direct for fixing hollow squeaky floors and staircases across hardwood PVC LVP ceramic and stone surfaces.
-  Updated: 2026-02-16T20:30:54Z
+  Updated: 2026-02-23T19:46:06Z
   Vendor: Maven Adhesives
   Product Type: Hardwood Epoxy Repair Kits
   Availability: Available
@@ -7895,20 +7913,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/HardwoodRepairDrillBit3-32Inch_d8de09d4-107c-4475-a6a4-0cc143dce99e.webp?v=1756319664
     Price: $2.99 USD
-- [FiberFix Heat Wrap 38501 - Permanent High-Heat Repair Tape - Wrap like Duct Tape but Strong like Steel](https://www.perigeedirect.com/products/fiberfix-heat-wrap-38501-permanent-high-heat-repair-tape-wrap-like-duct-tape-but-strong-like-steel): FiberFix Heat Wrap 38501 - Permanent High-Heat Repair Tape - Wrap like Duct Tape but Strong like Steel No one likes repairing pipes and hoses. If you break things and want to unbreak them, FiberFix is a great choice, for repairing hoses, hand tools, water pipes, chairs, tables, stands, rods, etc. Slip on your gloves, soak FiberFix in water, apply to any surface needing repair, and wait for 10 minutes. Repair projects can be fast and low-cost. 100X STRONGER THAN DUCT TAPE: Fiber Fix Heat Wrap is the solution to all your breaks, tears and cracks. 100 times stronger than duct tape and as strong as steel for a durable and dependable repair. BRING ON THE HEAT: The FiberFix Heat Wrap hardens like steel and can withstand temperatures up to 850 degrees Fahrenheit. A great solution for automotive repairs and cracked pipes. FIX IT YOURSELF: Simply slip on your gloves, soak FiberFix in water, apply to any surface needing repair, in as little as an hour your repair is as strong as ever. "Do it yourself" has never been easier or more cost effective. REPAIR ANYTHING ANYTIME ANYWHERE: If things like to break and you want to unbreak them, the Heat Wrap is just the thing to fix all your household repairs such as cracked pipes and furnace leaks. SATURDAY SAVED: Includes: 1 Roll 2" heat wrap. No one wants to spend their Saturday all day in a store, especially when it involves spending hours looking for replacement parts. Use the FiberFix Heat Wrap and save your Saturday!
-  Updated: 2026-02-13T23:48:01Z
-  Vendor: FiberFix
-  Product Type: Pipe Repair Wraps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/products/FiberFixHeatWrap38501.jpg?v=1758996983
-  Price: $12.99 USD
-- [FiberFix 10X Tape - 39501 - Repair Tape 100x Stronger than Duct Tape - 2" (1 Roll)](https://www.perigeedirect.com/products/fiberfix-10x-tape-39501-repair-tape-100x-stronger-than-duct-tape-2-1-roll): FiberFix 10X Tape is the solution to all your breaks, tears, and cracks. Use your pocket knife for to cut this heavy duty tape that WON’T TEAR, WON’T BREAK, AND WON’T GIVE. Repair in just one roll, the FiberFix 10X Tape can be stored just about anywhere; your glove box, garage, tool box, purse, or trunk. A compact all-in-one repair kit within arm’s reach! This residue-free adhesive tape makes for quick repairs and easy fixes. 10X STRONGER THAN DUCT TAPE: FiberFix 10X Tape is the solution to all your breaks, tears, and cracks. Use your pocket knife to cut this heavy duty tape that WON’T TEAR, WON’T BREAK, AND WON’T GIVE. 1.88 in. x 20 yds. REPAIR ANYTHING ANYTIME ANYWHERE: If you like to break things and want to unbreak them, FiberFix 10X Tape is just the thing to fix all of your garden tools, farm equipment, tarps and tents. CONVENIENT: Repair in just one roll, the FiberFix 10X Tape can be stored just about anywhere; your glove box, garage, tool box, purse, or trunk. A compact all-in-one repair kit within arm’s reach! FIX IT YOURSELF: This residue-free adhesive tape makes for quick repairs and easy fixes. Why pay a professional to fix something when you can do it yourself and have a durable and dependable repair? SPECIFICATIONS: There is no better way to prepare yourself than the FiberFix 10X Tape. Comes in a 2 inch x 20 yards of industrial strong tape and a durable pocket sized box knife.
-  Updated: 2026-02-13T23:48:02Z
-  Vendor: FiberFix
-  Product Type: Duct Tape
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/products/FiberFix10XTape20yrd39501.jpg?v=1756316412
-  Price: $12.99 USD
 - [Loctite EA 445 Fast  Epoxy Mixing Cups 10-Pack – Perigee Direct](https://www.perigeedirect.com/products/loctite-ea-445-fast--epoxy-mixing-cups-209717-0-12oz-3-5ml-per-cup-10-pack-of-cups): Shop Loctite EA 445 epoxy mixing cups at Perigee Direct for clean, accurate adhesive mixing with disposable cups designed for consistent batch results.
   Updated: 2026-02-02T20:45:36Z
   Vendor: Loctite
@@ -8061,7 +8065,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite_2053-15-490ml-Cartridge_Nozzle_840c66d5-9008-4cfc-b637-e9e3b858b34b.jpg?v=1752865578
     Price: $35.00 USD
 - [Araldite 2080 Low‑Odor MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/araldite-2080-05-2080-15-low-odor-non-flamable-toughened-weathering-aging-resistant-flexible-5-15-minute-acrylic-mma-adhesive): Discover Araldite 2080 at Perigee Direct. Low-odor toughened adhesive with flexible 5 to 15 minute bonds for many materials. Order online today.
-  Updated: 2026-02-13T23:48:05Z
+  Updated: 2026-02-17T21:25:00Z
   Vendor: Araldite
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -8123,7 +8127,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Araldite_2080-15-490ml-Cartridge_Nozzle_550a0685-32e5-4140-8953-59940841bce5.jpg?v=1719874531
     Price: $63.00 USD
 - [MixPac 600ml 1:1 Dual Cartridge - Empty Epoxy Cartridges](https://www.perigeedirect.com/products/sulzer-mixpac-600ml-empty-1-1-ratio-2-part-empty-cartridges-starter-kits-aj-600-01-10-01-us-153741): Shop MixPac 600ml adhesive cartridges for 1:1 ratio materials at Perigee Direct. Ideal empty epoxy cartridges and industrial mixing cartridges for two-part adhesives and sealants.
-  Updated: 2026-02-13T18:20:47Z
+  Updated: 2026-02-23T21:51:09Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -8382,7 +8386,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Perigee-Premier-Tier-Vertical-Offset.png?v=1752863055
   Price: $49.99 USD
 - [SynthoPlug Hull & Hole Damage Repair Kits](https://www.perigeedirect.com/products/cs-nri-syntho-plug-hull-hole-damage-repair-kits): Shop CS NRI Syntho Plug hull hole repair kits at Perigee Direct for rapid underwater damage control sealing holes with reliable plug systems.
-  Updated: 2026-02-13T23:48:07Z
+  Updated: 2026-02-17T21:25:02Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -8410,7 +8414,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/UMG10-01-01.SINGLE.jpg?v=1758996784
   Price: $0.69 USD
 - [Premera T2 Liquid Glass Clear Coat Sealant – Perigee Direct](https://www.perigeedirect.com/products/premera-t2-impervious-protective-clear-coat-sealant-liquid-glass-silicon-dioxide-sio2): Shop Premera T2 clear coat at Perigee Direct for impervious SiO2 protection creating a durable liquid glass barrier on treated surfaces.
-  Updated: 2026-02-15T12:20:14Z
+  Updated: 2026-02-23T23:05:37Z
   Vendor: Premera Coatings
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -8432,7 +8436,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/premera-t2-mcm.jpg?v=1752864905
     Price: $799.99 USD
 - [Premera T3 Graffiti Defense (Now M3 Substitute) – Perigee Direct](https://www.perigeedirect.com/products/nukote-premera-t3-graffiti-defense-transparent-lightweight-non-sacrificial-silocone-dioxide-sio2-sealant-aka-ionyx-t3): Shop Nukote Premera T3 at Perigee Direct for transparent lightweight graffiti defense coating using silicone dioxide sealant for protection.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-23T23:05:37Z
   Vendor: Premera Coatings
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -8454,7 +8458,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PremeraT3GrafittiDefenseLabel_SQUAREprint.jpg?v=1752861542
     Price: $799.99 USD
 - [Premera AT1 Quick Seal & Enhance Transparent Coat – Perigee Direct](https://www.perigeedirect.com/products/premera-quick-seal-transparent-lightweight-impervious-silicon-dioxide-sio2-barrier): Shop Premera Quick Seal transparent SiO2 barrier at Perigee Direct for lightweight surface protection delivering impervious moisture and vapor resistance.
-  Updated: 2026-02-15T12:30:33Z
+  Updated: 2026-02-23T23:05:37Z
   Vendor: Premera Coatings
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -8476,7 +8480,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/pAT1Image1.jpg?v=1758994675
     Price: $799.99 USD
 - [Premera T9 Vinyl Floor Coat with SiO₂ Protection – Perigee Direct](https://www.perigeedirect.com/products/nukote-premera-t9-vinyl-floor-coat-vct-lvt-lvp-impervious-barrier-aka-ionyx-t9): Shop Nukote Premera T9 at Perigee Direct for vinyl floor coating that forms an impervious barrier on VCT, LVT and LVP to protect busy surfaces.
-  Updated: 2026-02-02T20:45:51Z
+  Updated: 2026-02-19T19:15:37Z
   Vendor: Premera Coatings
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -8498,7 +8502,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/premera-t9-vfc.jpg?v=1756320646
     Price: $799.99 USD
 - [Leister 141.228 & 141.227 TRIAC ST Heat Gun – Perigee Direct](https://www.perigeedirect.com/products/leister-triac-st-professional-heat-gun-and-plastic-welder-with-adjustable-temperature-and-speed-control-ideal-for-vinyl-flooring-roofing-banners-more-available-in-120v-or-230v-141-228-141-227): Order Leister Triac ST at Perigee Direct for professional heat welding with adjustable control for vinyl flooring, banners and roofing.
-  Updated: 2026-02-15T19:35:34Z
+  Updated: 2026-02-23T00:15:37Z
   Vendor: Leister
   Product Type: Heat 
   Availability: Available
@@ -8629,12 +8633,17 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/106.996_a9b058f9-849a-4ff6-a658-5d4ef5d3c5b9.jpg?v=1753724105
   Price: $69.00 USD
 - [Leister 107.123 Wide Slot Nozzle 20mm Straight](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-20mm-straight-107-123): Shop Leister wide slot nozzles 20mm straight at Perigee Direct for uniform heating controlled airflow and efficient welding and shrinking.
-  Updated: 2026-02-14T13:10:33Z
+  Updated: 2026-02-23T19:15:36Z
   Vendor: Leister
   Product Type: Wide Slot Nozzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/107.123_ba6e8fe2-aa73-4ae5-8d80-5d55661d0930.jpg?v=1752860034
-  Price: $75.00 USD
+  - [Official Leister](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-20mm-straight-107-123?variant=47819389698302)
+    Availability: Available
+    Price: $75.00 USD
+  - [Maven (Backup)](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-20mm-straight-107-123?variant=47819389731070)
+    Availability: Available
+    Price: $49.99 USD
 - [Leister 199.302 TRIAC AT Fabrication Kit – Perigee Direct](https://www.perigeedirect.com/products/leister-triac-at-plastic-fabrication-kit-precice-digital-temp-speed-control-hot-air-blower-and-plastic-welding-heat-gun-199-302): Shop Leister Triac AT plastic fabrication kits at Perigee Direct combining digital control heat  and accessories for professional welding.
   Updated: 2026-01-26T14:35:10Z
   Vendor: Leister
@@ -8650,12 +8659,19 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/7.1.jpg?v=1753724871
   Price: $1,625.00 USD
 - [Leister 107.132 Wide Slot Nozzle 40mm 15-deg Angle](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-40mm-15-deg-angle-107-132): Shop Leister 40mm wide slot nozzle 107.132 at Perigee Direct for even airflow and stable overlap welding with a 15-degree angle tip.
-  Updated: 2026-02-15T19:35:34Z
+  Updated: 2026-02-23T17:25:53Z
   Vendor: Leister
   Product Type: Wide Slot Nozzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/107.132_74bd02fc-5612-40ce-bed0-05d11574c919.jpg?v=1752867793
-  Price: $75.00 USD
+  - [Official Leister](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-40mm-15-deg-angle-107-132?variant=47819171037438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/107.132_74bd02fc-5612-40ce-bed0-05d11574c919.jpg?v=1752867793
+    Price: $75.00 USD
+  - [Maven (Backup)](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-40mm-15-deg-angle-107-132?variant=47819171070206)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/107.132_e5b1a85b-ec95-492c-917e-6dfe951d0c15.jpg?v=1771867295
+    Price: $49.99 USD
 - [Leister 107.130 Wide Slot Nozzle 40mm 60° – Perigee Direct](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-40mm-with-60-degree-angle-bend-107-130): 107.130 40mm wide slot nozzle w/60 degree angle can be used on the Triac ST, Triac AT and Diode PID/S. Made of 304 stainless steel, compatible with Triac ST, Triac AT and Diode.
   Updated: 2026-01-26T14:35:09Z
   Vendor: Leister
@@ -8707,7 +8723,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/9.1.jpg?v=1752865020
     Price: $676.00 USD
 - [Leister 105.494 Wide Slot Nozzle 30x2mm – Perigee Direct](https://www.perigeedirect.com/products/leister-wide-slot-nozzle-30mm-x-2-mm-with-15-degree-angle-bend-105-494): 105.494 Wide slot nozzle 30 x 2mm, 15° angled is made for the Triac ST, Triac AT and Diode PID/S. Made of 304 stainless steel, compatible with Triac ST, Triac AT and Diode.
-  Updated: 2026-01-26T14:35:13Z
+  Updated: 2026-02-20T04:25:37Z
   Vendor: Leister
   Product Type: Wide Slot Nozzle
   Availability: Available
@@ -8721,7 +8737,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/10.1.jpg?v=1752860561
   Price: $1,725.00 USD
 - [Leister 100.303 Tubular Nozzle 5mm Round – Perigee Direct](https://www.perigeedirect.com/products/leister-tublar-nozzle-5mm-round-100-303): 5mm tubular nozzle, push-fit is made for the Triac ST, Triac AT and Diode PID/S. To be used with all speed welding nozzles for the Triac ST, Triac AT and Diode.
-  Updated: 2026-02-16T16:00:38Z
+  Updated: 2026-02-18T17:55:46Z
   Vendor: Leister
   Product Type: Speed Welding Nozzle
   Availability: Available
@@ -8952,7 +8968,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/119345-Welding-Nozzle_1024x1024_305924be-e858-463f-958e-cb02dee98af5.jpg?v=1756316422
     Price: $15.00 USD
 - [Leister 5mm Round Welding Nozzle – Perigee Direct](https://www.perigeedirect.com/products/leister-narrow-preheat-0-2-5mm-round-speed-welding-nozzle-105-433): Shop Leister narrow preheat round speed welding nozzles at Perigee Direct for precise controlled heat delivery in detailed plastic welding work.
-  Updated: 2026-02-04T14:40:38Z
+  Updated: 2026-02-18T17:55:37Z
   Vendor: Leister
   Product Type: Speed Welding Nozzle
   Availability: Available
@@ -9043,7 +9059,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/WY_Heating_element_type_a_16_123_895.jpg_master_1.jpg?v=1756316639
   Price: $61.00 USD
 - [Weldy 120.885 Energy HT1600 Overlap Welding Kit](https://www.perigeedirect.com/products/weldy-energy-ht1600-overlap-welding-kit): Get the Weldy Energy HT1600 Overlap Welding Kit for durable plastic welding in roofing, flooring, and industrial repair work.
-  Updated: 2025-12-12T02:27:19Z
+  Updated: 2026-02-17T20:10:38Z
   Vendor: Weldy
   Product Type: Heat 
   Availability: Available
@@ -9113,7 +9129,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/22.jpg?v=1752864129
     Price: $21.00 USD
 - [Weldy 130.611 40mm SILICONE ROLLER](https://www.perigeedirect.com/products/weldy-40mm-silicone-roller): Shop the Weldy 40mm silicone roller at Perigee Direct. Smooth pressure application delivers efficient and uniform plastic welding results. Order now.
-  Updated: 2025-12-12T02:27:24Z
+  Updated: 2026-02-17T06:21:12Z
   Vendor: Weldy
   Product Type: Tools Rollers
   Availability: Available
@@ -9190,7 +9206,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/14.1_6ae27c6e-02dc-403b-8db0-1b1532a3afdb.jpg?v=1756316645
   Price: $415.00 USD
 - [Maven PP-CO Natural Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pp-plastic-welding-rods-coils-reels-natural-polypropylene-copolymer): Shop natural polypropylene copolymer welding rods at Perigee Direct for clean durable plastic fabrication and repair projects.
-  Updated: 2026-02-13T23:48:13Z
+  Updated: 2026-02-18T19:04:37Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9296,7 +9312,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Plastics-3mm-Round-Natural-Polypropylene-PP-Plastic-Welding-Rods.jpg?v=1719840567
     Price: $169.99 USD
 - [Maven PP-CO Black Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pp-plastic-welding-rods-coils-reels-black-polypropylene): Shop Maven polypropylene welding rods at Perigee Direct for PP repairs, delivering consistent black weld material in coils and reels.
-  Updated: 2026-02-16T15:25:44Z
+  Updated: 2026-02-17T21:25:16Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9422,7 +9438,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3mmRoundBlackPlasticWeldingRods_c72f5c14-2e75-4466-a9d4-d4bdf9a2cda0.jpg?v=1752861308
     Price: $169.99 USD
 - [Maven PVC Black Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pvc-black-plastic-welding-rods-coils-reels): Shop black PVC plastic welding rods at Perigee Direct for durable repairs and fabrication of flexible and rigid PVC components.
-  Updated: 2026-02-13T23:48:25Z
+  Updated: 2026-02-17T21:25:21Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9500,7 +9516,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/atlas-plastics-3mm-round-black-plastic-welding-rods_2ff9082e-4114-4dc0-a1b3-2e842b5a7c51.jpg?v=1758996775
     Price: $169.99 USD
 - [Maven HDPE Black Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-hdpe-black-plastic-welding-rods-coils-reels): Shop Maven HDPE black plastic welding rods at Perigee Direct in coils and reels, delivering strong welds for polyethylene repairs.
-  Updated: 2026-02-16T19:45:32Z
+  Updated: 2026-02-17T21:25:27Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9602,7 +9618,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Atlas-Plastics-Reel-3mm-Round-BlackNT.jpg?v=1753728683
     Price: $219.99 USD
 - [Maven ABS Natural Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-abs-natural-off-white-plastic-welding-rods-coils-reels): Shop Maven ABS plastic welding rods at Perigee Direct in coils and reels, delivering consistent weld strength for fabrication and repair work.
-  Updated: 2026-02-13T23:48:39Z
+  Updated: 2026-02-18T17:55:40Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9728,7 +9744,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-3mm-Round-Clear-Translucent-PVC-Plastic-Welding-Rods.NTjpg_e597d565-344c-460f-84b0-435633e0948a.jpg?v=1753727366
     Price: $169.99 USD
 - [Maven HDPE Off-White Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-hdpe-natural-off-white-plastic-welding-rods-coils-reels): Shop Maven HDPE natural plastic welding rods at Perigee Direct for durable repairs with reliable melt behavior and clean off-white finish.
-  Updated: 2026-02-13T23:48:47Z
+  Updated: 2026-02-23T23:55:40Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9878,7 +9894,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Plastics-Beige-Polypropylene-PP-Plastic-Welding-Reels-30lb_90cdaa24-2717-44c2-af78-598c223d759b.jpg?v=1758995395
     Price: $219.99 USD
 - [Maven PVC Clear Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pvc-translucent-clear-plastic-welding-rods-coils-reels): Shop translucent clear PVC plastic welding rods at Perigee Direct for strong clean welds where visibility and finish quality matter.
-  Updated: 2026-02-13T23:48:54Z
+  Updated: 2026-02-17T21:25:50Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -9984,7 +10000,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-Clear-CoilNT_80d952cc-0ef2-44c1-89f4-99f90428fdb8.jpg?v=1756316309
     Price: $15.99 USD
 - [Maven PVC Natural Beige Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pvc-natural-cream-or-beige-plastic-welding-rods-coils-reels): Shop natural cream and beige PVC plastic welding rods at Perigee Direct for clean consistent welds in fabrication repair and restoration projects.
-  Updated: 2026-02-13T23:48:58Z
+  Updated: 2026-02-20T21:30:49Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10062,7 +10078,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3mm-Round-White-PVC-Plastic-Welding-Rods_2b189704-b4fc-4200-a156-6b9b6c79c4b2.jpg?v=1719876495
     Price: $169.99 USD
 - [Maven PVC Gray Semi-Rigid Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pvc-gray-flexible-semi-rigid-plastic-welding-rods-coils-reels): Shop gray flexible PVC plastic welding rods at Perigee Direct for semi-rigid applications requiring strong welds and controlled flexibility.
-  Updated: 2026-02-13T23:49:06Z
+  Updated: 2026-02-17T21:26:02Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10188,7 +10204,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/5x2mmGrayPlasticWeldingRods_3347efe3-4330-442a-8ea3-c2fc41ffdb83.jpg?v=1719875771
     Price: $169.99 USD
 - [Maven LDPE Black Welding Rod Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-ldpe-black-plastic-welding-rods-coils-reels): Shop Maven LDPE black plastic welding rods at Perigee Direct for consistent low-density polyethylene repairs with dependable melt flow.
-  Updated: 2026-02-13T23:49:13Z
+  Updated: 2026-02-18T15:20:40Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10314,7 +10330,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3mmRoundBlackPlasticWeldingRods_ad298d72-5733-476d-af73-20246dd1e4d3.jpg?v=1752859958
     Price: $169.99 USD
 - [Maven LDPE Natural White Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-ldpe-natural-mildly-translucent-white-plastic-welding-rods-coils-reels): Shop Maven LDPE natural plastic welding rods at Perigee Direct for clean flexible welds using mildly translucent white material.
-  Updated: 2026-02-13T23:49:20Z
+  Updated: 2026-02-23T16:45:38Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10344,15 +10360,15 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-3mm-Round-Clear-Translucent-PVC-Plastic-Welding-Rods.NTjpg_f0f64b04-f44e-4f0b-9fed-1d62d1d51864.jpg?v=1756320937
     Price: $169.99 USD
   - [Round 4mm (5/32 in) / Bulk Reels (Spools) / 30 lb Reels (Spools)](https://www.perigeedirect.com/products/maven-plastics-ldpe-natural-mildly-translucent-white-plastic-welding-rods-coils-reels?variant=43877578735870)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/hdpe-natural-round-plastic-welding-rod-reel_844299ff-d27d-4c9b-9b1a-9bb9d35d762d.jpg?v=1756320939
     Price: $219.99 USD
   - [Round 4mm (5/32 in) / Bulk Reels (Spools) / 10 lb Reels (Spools)](https://www.perigeedirect.com/products/maven-plastics-ldpe-natural-mildly-translucent-white-plastic-welding-rods-coils-reels?variant=43877578703102)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/hdpe-natural-round-plastic-welding-rod-reel_844299ff-d27d-4c9b-9b1a-9bb9d35d762d.jpg?v=1756320939
     Price: $89.99 USD
   - [Round 4mm (5/32 in) / 100 ft Coils (~ 0.75 lb) / 100 ft Coils (~ 0.75 lb)](https://www.perigeedirect.com/products/maven-plastics-ldpe-natural-mildly-translucent-white-plastic-welding-rods-coils-reels?variant=43877578670334)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-Clear-CoilNT_7ff0ea10-d276-4fdf-bdbc-dd7cdf458ba8.jpg?v=1756320940
     Price: $15.99 USD
   - [Round 4mm (5/32 in) / 12 Inch Rods / 20-Pack Bag](https://www.perigeedirect.com/products/maven-plastics-ldpe-natural-mildly-translucent-white-plastic-welding-rods-coils-reels?variant=44211084689662)
@@ -10440,7 +10456,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-3mm-Round-Clear-Translucent-PVC-Plastic-Welding-Rods.NTjpg_f0f64b04-f44e-4f0b-9fed-1d62d1d51864.jpg?v=1756320937
     Price: $169.99 USD
 - [Maven HDPE Red Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-hdpe-red-plastic-welding-rods-coils-reels): Shop Maven HDPE red plastic welding rods at Perigee Direct for strong color-matched repairs with consistent melt flow and durability.
-  Updated: 2026-02-16T19:37:14Z
+  Updated: 2026-02-17T23:00:40Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10566,7 +10582,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Plastic-Welding-Rods-12-Inch_9d81ff42-d703-4592-833e-9991ae304aae.jpg?v=1752861700
     Price: $169.99 USD
 - [Maven PVC Gray Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pvc-gray-plastic-welding-rods-coils-reels-gray-color-is-consistent-with-schedule-80-gray-piping): Shop gray PVC plastic welding rods at Perigee Direct matched to Schedule 80 piping for consistent repairs and industrial plastic fabrication.
-  Updated: 2026-02-13T23:49:33Z
+  Updated: 2026-02-22T04:00:46Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10668,7 +10684,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-Gray-PVC-Welding-Coils_c2f30b03-1271-4970-aee0-d5ac00282c7f.jpg?v=1752865664
     Price: $15.99 USD
 - [Maven PVC LVP Flooring Rods Gray – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pvc-lvp-flooring-repair-rods-gray-flexible-semi-rigid-plastic-welding-rods-coils-reels): Shop PVC LVP flooring repair rods gray at Perigee Direct for discreet color-matched repairs on vinyl plank floors.
-  Updated: 2026-02-13T23:49:41Z
+  Updated: 2026-02-17T21:26:39Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10794,7 +10810,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/5x2mmGrayPlasticWeldingRods_e16dda07-5219-4cdd-a6d0-fcded7e22363.jpg?v=1720047075
     Price: $169.99 USD
 - [Maven HDPE Green Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-hdpe-green-plastic-welding-rods-coils-reels): Shop Maven HDPE green plastic welding rods at Perigee Direct for color-matched repairs delivering strength durability and smooth welds.
-  Updated: 2026-02-13T23:49:47Z
+  Updated: 2026-02-17T21:26:45Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -10895,28 +10911,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics---Plastic-Welding-Rods-Castrol-Green--1ft-Rods-v2_8efce214-7d2b-4450-ab6f-efb3d2c62a43.jpg?v=1758995053
     Price: $169.99 USD
-- [Leister 162.274 & 162.273 Solano AT Kit – Perigee Direct](https://www.perigeedirect.com/products/leister-solano-at-120v-1800w-us-plug-plastic-case-162-274-162-273): Shop the Leister Solano AT at Perigee Direct. Lightweight heat tool with precise airflow and heat control for plastic welding. Order today.
-  Updated: 2026-02-12T14:50:38Z
-  Vendor: LEISTER
-  Product Type: Heat 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Solano-AT-with-case.jpg?v=1758994852
-  - [Solano Gun + Case](https://www.perigeedirect.com/products/leister-solano-at-120v-1800w-us-plug-plastic-case-162-274-162-273?variant=44106742006014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Solano-AT-with-case.jpg?v=1758994852
-    Price: $442.00 USD
-  - [PreOwned Solano Gun + Case](https://www.perigeedirect.com/products/leister-solano-at-120v-1800w-us-plug-plastic-case-162-274-162-273?variant=44839757250814)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Solano-AT-with-case.jpg?v=1758994852
-    Price: $350.00 USD
-  - [Car Wrapping Kit](https://www.perigeedirect.com/products/leister-solano-at-120v-1800w-us-plug-plastic-case-162-274-162-273?variant=44106742038782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Leister-Solano-AT-Car-Wrapping-Kit.jpg?v=1758994856
-    Price: $529.99 USD
-  - [Plastic Welding Starter Kit](https://www.perigeedirect.com/products/leister-solano-at-120v-1800w-us-plug-plastic-case-162-274-162-273?variant=44495085732094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Solano-AT-Plastic-Welding-Starter-Kit-with-Rods_96a30dc2-92cd-4928-ad95-393358e9e738.jpg?v=1758994857
-    Price: $877.18 USD
 - [Meritool 9026-50S-KIT 12V 50ml Battery Dispenser | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9026-50s-kit-12v-battery-powered-dispenser-for-50ml-s-type-round-back-dual-component-cartridges-all-ratios-1-1-2-1-3-2-4-1-10-1): Order Meritool PowerPush 9026 kit at Perigee Direct for controlled dispensing of 50ml cartridges supporting all mix ratios for field adhesive work.
   Updated: 2026-01-26T14:35:19Z
   Vendor: Meritool PowerPush
@@ -11003,14 +10997,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Meritool7000-825-101.jpg?v=1753724799
   Price: $599.99 USD
 - [1P1060S Quiet 1.0 Gal Steel Air Tank – Perigee Direct](https://www.perigeedirect.com/products/1p1060s-light-quiet-6-hp-1-0-gal-steel-tank): Shop light quiet steel tank air compressors at Perigee Direct delivering compact 6 HP performance ideal for workshops and professional job sites.
-  Updated: 2026-02-13T23:49:48Z
+  Updated: 2026-02-17T21:26:45Z
   Vendor: California Air Tools
   Product Type: Air Compressor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1P1060S-Front-11-1-16.jpg?v=1752865199
   Price: $199.99 USD
 - [CS-NRI ESN-202 Epoxy Putty – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-esn-202-7in-previously-known-as-syntho-steel-steel-reinforced-epoxy-putty-nsf61-bs6920-compliant-for-drinking-water-contact): Shop CS NRI ESN 202 steel-reinforced epoxy putty at Perigee Direct, NSF61 compliant for drinking water repairs with strong, durable bonding.
-  Updated: 2026-02-16T16:35:27Z
+  Updated: 2026-02-20T06:55:37Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -11028,7 +11022,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/syntho-steel-epoxy-putty-in-tube.png?v=1719841899
     Price: $13.00 USD
 - [MixPac 490ml F-System 10:1 PP Cartridge System | Perigee Direct](https://www.perigeedirect.com/products/mixpac-490ml-f-system-10-1-ratio-empty-pp-cartridges-made-with-pp-plastic-includes-pistons-and-sealing-cap-pp-plastic-version-for-epoxies-urethanes-etc): Shop Mixpac 490ml F system cartridges at Perigee Direct for empty 10 to 1 PP cartridges with pistons and caps ready for epoxy and urethane work.
-  Updated: 2026-02-05T22:30:36Z
+  Updated: 2026-02-18T21:15:47Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -11391,14 +11385,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/29.jpg?v=1756316593
   Price: $178.49 USD
 - [Leister 106.969 Quarter Moon Knife – Perigee Direct](https://www.perigeedirect.com/products/leister-spatula-scraper-tool-ala-quarter-moon-knife-106-969): Shop Leister spatula scraper tools at Perigee Direct for trimming smoothing and finishing plastic welds with professional precision.
-  Updated: 2026-01-26T14:35:23Z
+  Updated: 2026-02-18T17:55:36Z
   Vendor: Leister
   Product Type: Tool Scraper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/QUARTER_MOON_spatula_leister_cutter_holster_01_106_969.jpg?v=1753726731
   Price: $71.00 USD
 - [Leister 106.966 Hand Grooving Tool](https://www.perigeedirect.com/products/leister-hand-grooving-tool-106-966): Shop Leister 106.966 hand grooving tool at Perigee Direct for precise seam preparation on roofing liners and durable weld-ready channels.
-  Updated: 2026-02-07T17:13:39Z
+  Updated: 2026-02-18T17:55:37Z
   Vendor: Leister
   Product Type: Trimming Grooving Tool
   Availability: Available
@@ -11552,7 +11546,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/44_a0224b21-776b-4d0d-8193-afd1f9b0a705.jpg?v=1752865207
   Price: $185.00 USD
 - [107.308 Sieve Reflector 1.33 x 1.96in – Perigee Direct](https://www.perigeedirect.com/products/107-308-sieve-reflector-o-1-45-inch-1-33-x-1-96-inch-reflector): 107.308 | Sieve reflector (ø 1.45 inch) 1.33 x 1.96 inch | Reflector used on the Ghibli and Ghibli AW
-  Updated: 2026-01-26T14:35:35Z
+  Updated: 2026-02-19T19:50:39Z
   Vendor: Leister
   Product Type: Heat Reflectors
   Availability: Available
@@ -11562,7 +11556,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/45.jpg?v=1719847359
     Price: $144.00 USD
   - [Open Box Return](https://www.perigeedirect.com/products/107-308-sieve-reflector-o-1-45-inch-1-33-x-1-96-inch-reflector?variant=45809266295038)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/45.jpg?v=1719847359
     Price: $144.00 USD
 - [107.314 Spoon Reflector Push Fit – Perigee Direct](https://www.perigeedirect.com/products/107-314-spoon-reflector-push-fit-o-1-45-inch-1-x-1-2-inch-reflector): Find the 107.314 spoon reflector designed for focused heat shaping and precise thermal control during detailed welding tasks. Order now.
@@ -11692,7 +11686,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/58.jpg?v=1753725748
   Price: $1,127.00 USD
 - [142.281 Wide Slot Nozzle Ø0.74 x 3mm – Perigee Direct](https://www.perigeedirect.com/products/142-281-wide-slot-nozzle-o-50-0-74-x-3-mm): Shop wide slot welding nozzles at Perigee Direct to spread heat evenly for seam welding overlap work and uniform plastic surface finishing.
-  Updated: 2026-02-13T23:49:50Z
+  Updated: 2026-02-17T21:26:48Z
   Vendor: Leister
   Product Type: Wide Slot Nozzle
   Availability: Available
@@ -11754,7 +11748,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nordson-TAH-190-620H_7701510-6-inch-20-element-H-Taper-_Luer-Lok-compatable.jpg?v=1752864535
     Price: $1,499.99 USD
 - [Mixing Nozzle MAH 06-21T for Devcon 14285 – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixing-nozzle-mah-06-21t-102380-for-50ml-cartridges-6-inch-21-element-stepped-tip-mixing-nozzles-static-mixers): Shop Mixpac MAH 06 21T at Perigee Direct for 6 inch 21 element stepped static mixing on 50ml cartridges supporting clean adhesive blending.
-  Updated: 2026-02-10T10:15:43Z
+  Updated: 2026-02-22T19:15:43Z
   Vendor: Devcon
   Product Type: Mixing Nozzles
   Availability: Available
@@ -11809,7 +11803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/131_867_tubular_nozzle.jpg?v=1758995651
     Price: $130.00 USD
 - [50ml 1:1 2-Part Cartridge Green – Perigee Direct](https://www.perigeedirect.com/products/50ml-empty-1-1-ratio-2-part-cartridges-with-sealing-cap-pistons-green): Shop 50ml empty 1:1 ratio cartridges at Perigee Direct with pistons and caps, supporting clean filling and consistent two-part dispensing.
-  Updated: 2026-02-13T18:00:48Z
+  Updated: 2026-02-23T17:35:59Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -12013,7 +12007,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Various-Dispenser-Piston-Disk-Full-Kit_a0e2fe92-1c0b-469c-919b-df6c76768b4c.png?v=1758999026
     Price: $99.99 USD
 - [Maven EA 270 Amber 60-80 Min Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-270-slow-set-60-80-min-epoxy-medium-viscosity-amber-clear-1-1-ratio): Shop Maven EA 270 slow-set epoxy with 60–80 minute work time, medium viscosity, and reliable 1:1 ratio bonding performance.
-  Updated: 2026-02-15T23:40:48Z
+  Updated: 2026-02-17T21:26:52Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -12087,7 +12081,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-EA270-50mlCartridges_Nozzles.jpg?v=1752865264
     Price: $8.00 USD
 - [Maven EA 501LV 1-Min Thin Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-501-very-fast-set-1-min-low-thin-viscosity-translucent-clear-1-1-ratio): Shop Maven EA 501 at Perigee Direct for very fast one-minute epoxy with thin clear flow that creates strong transparent bonds on small repairs.
-  Updated: 2026-02-13T23:49:56Z
+  Updated: 2026-02-17T21:26:55Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -12117,7 +12111,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-EA501-LV-50mlCartridges_Nozzles_780d7933-2fbf-47a1-9e1b-518c434c4212.jpg?v=1752859736
     Price: $7.00 USD
 - [Maven MMA 4085 Medium Set Acrylic – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-4085-acrylic-medium-set-10-min-mma-adhesive-medium-viscosity-translucent-clear-10-1-ratio-50ml-cartridge): Discover Maven MMA4085 at Perigee Direct. Ten-minute medium-set formula bonds plastics, composites and assemblies. Get technical support today.
-  Updated: 2026-02-12T13:50:36Z
+  Updated: 2026-02-18T02:15:58Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12171,7 +12165,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400MLCartridge.jpg?v=1758995769
     Price: $25.00 USD
 - [Maven MMA 4000 Clear Medium Set Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-4000-acrylic-medium-set-18-min-mma-adhesive-low-viscosity-crystal-clear-10-1-ratio): Discover Maven MMA4000 at Perigee Direct. Medium-set, low-viscosity MMA for clear bonding on diverse materials. Check stock and buy today.
-  Updated: 2026-02-13T23:50:00Z
+  Updated: 2026-02-19T21:30:48Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12233,7 +12227,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Maven_formula_-10-1Ratio-490ml-Cartridge_Nozzlecopy_d9ad3390-4518-45d0-a7a7-fab509bef76f.png?v=1759000071
     Price: $23.00 USD
 - [Maven MMA 3005 Fast Set Natural Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-3005-acrylic-natural-straw-color-fast-set-3-6-min-mma-adhesive-thick-high-viscosity-1-1-ratio): Order Maven MMA 3005 fast set adhesive at Perigee Direct for strong natural straw colored bonds in three to six minutes with high viscosity control.
-  Updated: 2026-02-13T23:50:03Z
+  Updated: 2026-02-23T17:36:33Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12279,7 +12273,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Maven EA 505 5-Min Thin-Medium Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-505-fast-set-5-min-epoxy-medium-viscosity-translucent-clear-1-1-ratio): Order Maven EA 505 epoxy at Perigee Direct for fast five-minute clear bonding with medium viscosity and reliable strength in repair uses.
-  Updated: 2026-02-13T23:50:07Z
+  Updated: 2026-02-23T17:36:38Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -12337,7 +12331,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ML_dbc0adef-c031-41f3-bede-849eaf9e3d69.jpg?v=1768929900
     Price: $17.99 USD
 - [Maven EA 515 15-20 Min Medium-Thin Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-515-medium-set-15-20-min-epoxy-medium-thin-viscosity-translucent-clear-1-1-ratio): Shop Maven EA 515 epoxy at Perigee Direct for medium-set bonding, delivering clear finish and reliable 1:1 ratio performance.
-  Updated: 2026-02-13T23:50:10Z
+  Updated: 2026-02-17T21:27:08Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -12379,7 +12373,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenAdhesivesLogo-WithCatchphrase_c3aaef2a-32ae-4695-9026-3b0bb2c3b851.jpg?v=1752864346
     Price: $249.99 USD
 - [Maven MMA 3010 Medium Set Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-3010-acrylic-medium-set-15-min-mma-adhesive-thick-high-viscosity-beige-1-1-ratio): Shop Maven MMA 3010 at Perigee Direct for medium set 15-minute MMA adhesive with thick beige flow providing strong structural composite bonds.
-  Updated: 2026-02-13T23:50:13Z
+  Updated: 2026-02-19T22:30:58Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12425,7 +12419,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ML_Cartridge_0700be1c-2088-41ba-8c2e-0f9f145a84f9.jpg?v=1758996444
     Price: $9.99 USD
 - [Maven MMA 4005 Fast Set Toughened MMA – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-4005-acrylic-medium-set-15-min-toughened-impact-resistant-mma-adhesive-thick-high-viscosity-blue-10-1-ratio): Shop Maven MMA 4005 acrylic adhesive with medium set time, high viscosity, and toughened impact resistance for demanding assemblies.
-  Updated: 2026-02-13T23:50:15Z
+  Updated: 2026-02-17T21:27:14Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12505,7 +12499,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-MMA422-490ml-Cartridge_Nozzle.jpg?v=1758568498
     Price: $33.00 USD
 - [Maven EA 530 30-Min Medium Clear Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-530-medium-set-30-min-epoxy-medium-viscosity-clear-1-1-ratio): Shop Maven EA 530 medium set epoxy at Perigee Direct for clear 30-minute bonding, offering medium viscosity strength for metal plastic and composite assembly.
-  Updated: 2026-02-15T03:40:38Z
+  Updated: 2026-02-23T17:36:39Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -12547,7 +12541,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenAdhesivesLogo-WithCatchphrase_50046045-8498-4629-9472-ab54a407c12b.jpg?v=1753191208
     Price: $239.99 USD
 - [Maven MMA 530 Marine Grade Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-530-medium-set-35-minutes-mma-marine-optimized-adhesive-thick-high-viscosity-gray-1-1-ratio): Shop Maven MMA 530 at Perigee Direct for 35-minute marine-optimized MMA adhesive with thick gray flow that bonds composites and boat parts.
-  Updated: 2026-02-13T23:50:21Z
+  Updated: 2026-02-19T22:46:27Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12593,7 +12587,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_aaac4dd7-2e76-40ef-b465-9f8bdf03c218.jpg?v=1753724820
     Price: $20.00 USD
 - [Maven MMA 425 Medium Set Impact MMA – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-425-acrylic-medium-set-30-40-min-toughened-impact-resistant-mma-adhesive-high-viscosity-blue-10-1-ratio): Choose Maven MMA 425 at Perigee Direct for a blue high-viscosity MMA adhesive with thirty to forty-minute set and tough impact resistance.
-  Updated: 2026-02-02T20:46:18Z
+  Updated: 2026-02-19T22:46:28Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12631,14 +12625,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Mavensheet_cb81b0ca-aa3f-4042-8794-864a5cb3a0ec.png?v=1753727555
     Price: $2,099.99 USD
 - [Maven 1-Minute Epoxy EOD Kit EA501HV – Perigee Direct](https://www.perigeedirect.com/products/eod-adhesive-kit-maven-1-minute-medium-viscosity-epoxy-5-pack-dispensing-kit-ea501hv): Shop EOD adhesive kits at Perigee Direct featuring Maven 1-minute epoxy for fast, medium-viscosity repairs with a complete dispensing kit.
-  Updated: 2026-02-13T23:50:22Z
+  Updated: 2026-02-23T14:15:37Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MavenEODKit_39a2af44-93e4-4801-a2a4-d36a8c8f563e.jpg?v=1760203757
   Price: $149.99 USD
 - [Maven EAF110 Medium Set Flexible Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-eaf110-flexible-epoxy-medium-set-20-minute-flexible-temp-resistant-20-minute-set-plastic-metal-epoxy): Shop Maven EAF110 flexible epoxy at Perigee Direct for medium-set bonding offering temperature resistance and flexibility on plastic and metal.
-  Updated: 2026-02-13T23:50:26Z
+  Updated: 2026-02-18T20:15:57Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -12711,7 +12705,7 @@
     Availability: Not Available
     Price: $12.99 USD
 - [Maven MMA 3005-B Fast Set Black Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-3005-b-acrylic-black-color-fast-set-3-6-min-mma-adhesive-thick-high-viscosity-1-1-ratio): Find Maven MMA3005B at Perigee Direct, a fast-set, thick-viscosity MMA adhesive offering strong 3–6 minute bonding in black color. Shop now.
-  Updated: 2026-02-13T23:50:29Z
+  Updated: 2026-02-22T16:31:17Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12759,7 +12753,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Maven MMA 560 Marine-Optimized MMA – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-560-slow-set-60-minutes-mma-marine-optimized-adhesive-thick-high-gray-viscosity-1-1-ratio): Discover Maven MMA560 at Perigee Direct. Slow-set marine adhesive with viscosity for bonds on composites and metals. Secure stock today.
-  Updated: 2026-02-13T23:50:34Z
+  Updated: 2026-02-19T22:30:58Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12845,7 +12839,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlBKCartridge.jpg?v=1756317778
     Price: $20.00 USD
 - [Maven MMA 590 Marine Adhesive Gray/White – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-590-slow-set-90-110-minutes-mma-marine-optimized-adhesive-thick-high-viscosity-gray-or-white-1-1-ratio): Shop Maven MMA590 at Perigee Direct. Marine slow-set MMA for high-viscosity bonds on plastics, metals and composites. Secure your supply today.
-  Updated: 2026-02-13T23:50:39Z
+  Updated: 2026-02-19T22:31:00Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12931,7 +12925,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MMA590W400MLNOZZLE.png?v=1753196884
     Price: $20.00 USD
 - [Maven MMA 3005-W White Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-3005-w-white-acrylic-fast-set-4-6-min-mma-adhesive-thick-high-viscosity-white-color-1-1-ratio): Get Maven MMA 3005 W at Perigee Direct for 4- to 6-minute-thick white acrylic bonding that delivers strong, impact-resistant industrial joins.
-  Updated: 2026-02-13T23:50:42Z
+  Updated: 2026-02-23T16:15:49Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -12981,7 +12975,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-MMA3005-400ml-Cartridge_Gun_Nozzle_copy.jpg?v=1752865188
     Price: $25.00 USD
 - [Maven MMA 550 UV-Stable Marine Gel – Perigee Direct](https://www.perigeedirect.com/products/maven-mma550-non-sag-gel-uv-stable-white-45-60-minute-mma-adhesive-for-marine-and-underwater-bonding-of-plastics-metals-composites): Shop Maven MMA550 at Perigee Direct. Non-sag UV-stable formula bonds plastics, metals and composites in marine use. Secure your supply today.
-  Updated: 2026-02-13T23:50:45Z
+  Updated: 2026-02-18T15:46:22Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -13023,7 +13017,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Maven-MMA550-50mlCartridges_Nozzles.jpg?v=1752861923
     Price: $8.00 USD
 - [Maven EA 501MV 1-Min Medium Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-501mv-very-fast-set-1-min-medium-viscosity-translucent-clear-1-1-ratio): Shop Maven EA 501MV at Perigee Direct for one-minute fast-set, medium-viscosity epoxy that creates clear joins on small repairs with reliable strength.
-  Updated: 2026-02-13T23:50:49Z
+  Updated: 2026-02-23T17:36:37Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -13081,7 +13075,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/mavenEA501MV400mlnozzle.jpg?v=1758994624
     Price: $22.00 USD
 - [Solid Surface Countertop Bonder 10–15 Min – Perigee Direct](https://www.perigeedirect.com/products/maven-solid-surface-countertop-bonder-epoxy-acrylic-hybrid-adhesive-multiple-colors-medium-set-10-15-minutes): Shop Maven solid surface countertop bonder at Perigee Direct for acrylic epoxy hybrid bonding delivering strong seams in multiple color options.
-  Updated: 2026-02-13T23:50:54Z
+  Updated: 2026-02-17T21:27:54Z
   Vendor: Maven Adhesives
   Product Type: Solid Surface Adhesive
   Availability: Available
@@ -13167,7 +13161,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Dai-Surface-Adhesive-50mlCartridges_Nozzles_d078d32b-b07f-446a-aaad-dd91e076e94f.jpg?v=1758996310
     Price: $7.00 USD
 - [MixPac 450ml J-System 2:1 Ratio Cartridge Kit | Perigee Direct](https://www.perigeedirect.com/products/mixpac-450ml-j-system-2-1-ratio-empty-cartridges-starter-kits-aj-450-02-10-04-128535): Shop Mixpac 450ml J system empty cartridges at Perigee Direct for reliable 2:1 dispensing with starter kit components included.
-  Updated: 2026-02-09T23:10:42Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -13217,7 +13211,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool_6970845e-e4ea-4433-90b8-7874817b124e.jpg?v=1758997099
     Price: $24.99 USD
 - [MixPac Mixcoat 2-part Spray System Piston Insertion Device](https://www.perigeedirect.com/products/sulzer-mixpac-piston-insertion-device): Get the Sulzer Mixpac piston insertion device at Perigee Direct for fast reliable piston placement in empty cartridges to support clean adhesive filling.
-  Updated: 2026-02-13T23:50:55Z
+  Updated: 2026-02-19T13:40:37Z
   Vendor: MixPac MixCoat
   Product Type: Piston Insertion Tool
   Availability: Available
@@ -13239,28 +13233,28 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/mixpacpiston.png?v=1752862661
     Price: $24.99 USD
 - [Mixcoat DM 2-Part Manual Dispenser DM1500-01 – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixcoat-2-part-spray-system-dm-manual-dispenser-dm-1500-01-128966): Shop Mixpac MixCoat spray systems at Perigee Direct for 2-part coating application delivering controlled mixing and consistent spray output.
-  Updated: 2026-02-13T23:50:56Z
+  Updated: 2026-02-17T21:27:56Z
   Vendor: MixPac MixCoat
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPacMixCoatManualSprayGunStrapAssembly_d7a86b24-78c0-4420-aa55-7cb7d438fd31.jpg?v=1753725418
   Price: $339.99 USD
 - [Mixcoat DPD Pneumatic Dispenser Non-Spray Use – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixcoat-2-part-spray-system-dpd-pneumatic-with-separate-hoses-dpd-1500-01-128962sulzer-mixpac-dpd-dispenser-pneumatic): Shop Mixpac Mixcoat DPD system at Perigee Direct for two part pneumatic spray with separate hoses to support coating and repair projects.
-  Updated: 2026-02-13T23:50:57Z
+  Updated: 2026-02-17T21:27:57Z
   Vendor: MixPac MixCoat
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/sulzer-mixpac-mixcoat-eadpd-1500-01_431x431_96969550-54cc-425a-ae67-c0b3bb125c17.jpg?v=1753728435
   Price: $1,249.99 USD
 - [MixPac MixCoat Pneumatic 2-Part Spray System – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-dps-dispenser-pneumatic-spray): Shop Sulzer Mixpac DPS spray dispenser at Perigee Direct for controlled pneumatic application, delivering consistent spray output and coverage.
-  Updated: 2026-02-13T23:50:58Z
+  Updated: 2026-02-17T21:27:58Z
   Vendor: MixPac MixCoat
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPacMixCoatPneumaticSprayGunAssembly.jpg?v=1756316587
   Price: $1,409.99 USD
 - [Mixcoat DPF Pneumatic Spray System with Hose – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixcoat-2-part-spray-system-dpf-pneumatic-with-included-flex-hoses-dpf-1500-15-or-dpf-1500-30-128965-or-128989mixpac-mixcoat-2-part-spray-system-dpf-pneumatic-with-included-flex-hoses-dpf-1500-15-or-dpf-1500-30-128965-or-128989): Shop the Mixpac Mixcoat pneumatic spray system at Perigee Direct for fast accurate two part coating applications using included flex hoses and DPF units.
-  Updated: 2026-02-13T23:50:59Z
+  Updated: 2026-02-17T21:27:59Z
   Vendor: MixPac MixCoat
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -13274,7 +13268,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/dpf.png?v=1759001357
     Price: $3,370.99 USD
 - [MixCoat 1500ml 1:1 Spray Cartridges Coating Kit – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixcoat-1500ml-1-1-cartridges-for-mixcoat-2-part-spray-coating-system-af-1500-01-14-01-or-af-1500-01-30-01-153493-or-128218): Shop MixPac MixCoat 1500 ml cartridges at Perigee Direct. For two-part spray coating systems with clean, efficient delivery. Order online today.
-  Updated: 2026-02-13T23:51:01Z
+  Updated: 2026-02-17T21:28:01Z
   Vendor: MixPac MixCoat
   Product Type: Cartridges
   Availability: Available
@@ -13311,7 +13305,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite-EA-9340-2.68oz-Epoxy-Tube-Kit.jpg?v=1756316318
   Price: $29.99 USD
 - [Maven EA510-B 10-Min Black Epoxy Adhesive – Perigee Direct](https://www.perigeedirect.com/products/maven-10-minute-black-epoxy-ea510-b-chemical-resistant-medium-viscosity-adhesive-direct-substiture-for-devcon-10-minute-black-14251): Shop Maven 10 Minute Black Epoxy EA510 B at Perigee Direct for chemical-resistant bonding with medium viscosity performance ideal for fast industrial repairs.
-  Updated: 2026-02-13T23:51:03Z
+  Updated: 2026-02-19T22:30:58Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -13357,7 +13351,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/510B400ML.png?v=1756321474
     Price: $17.00 USD
 - [Ritter ACF Mixer for 200ml & 400ml Cartridges – Perigee Direct](https://www.perigeedirect.com/products/ritter-acf-helix-mixing-nozzle-for-200ml-or-400ml-acf-cartridge-ratios-1-1-or-2-1): Shop Ritter ACF Helix mixing nozzles at Perigee Direct for 200ml and 400ml cartridges, delivering consistent 1:1 or 2:1 mixing performance.
-  Updated: 2026-01-28T19:45:36Z
+  Updated: 2026-02-18T20:35:37Z
   Vendor: Ritter
   Product Type: Mixing Nozzles
   Availability: Available
@@ -13504,7 +13498,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/163.793WeldingshoeCL14IA_o30x45mm_Fusion.jpg?v=1756318743
     Price: $225.00 USD
 - [Weldy 120.885 Tarp Repair Kit with HT1600 – Perigee Direct](https://www.perigeedirect.com/products/weldy-tarp-repair-kit-120-885-with-the-weldy-energy-ht1600-heat-gun): Find the Weldy Tarp Repair Kit with HT1600 heat gun, ideal for repairing tarps, banners, and PVC-coated fabrics on-site.
-  Updated: 2025-12-12T02:27:28Z
+  Updated: 2026-02-17T20:10:41Z
   Vendor: Weldy
   Product Type: Tarp Welding Machines
   Availability: Available
@@ -13525,14 +13519,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/leister_welding-shoe-163.778_k5_6_ia_cymk_1.jpg?v=1752864146
     Price: $79.99 USD
 - [Piston Vent Strip for Sealing Non-Vented Caps – Perigee Direct](https://www.perigeedirect.com/products/piston-vent-strip-used-to-seal-traditional-non-vented-pistons): Order piston vent strips at Perigee Direct for sealing traditional nonvented pistons, delivering controlled dispensing in cartridges.
-  Updated: 2026-02-13T23:51:04Z
+  Updated: 2026-02-17T21:28:05Z
   Vendor: Nordson EFD
   Product Type: Piston Vent Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/IMG_5605_1.jpg?v=1719845497
   Price: $1.00 USD
 - [Piston Adapter for Nordson & RatioPak Carts – Perigee Direct](https://www.perigeedirect.com/products/piston-blowout-adapter-for-nordson-ratiopak-and-2k-cartridges-for-all-100ml-and-larger-sizes): Shop piston blowout adapters at Perigee Direct for Nordson RatioPak and 2K cartridges delivering safer dispensing on 100ml and larger sizes.
-  Updated: 2026-01-26T14:35:38Z
+  Updated: 2026-02-18T16:41:24Z
   Vendor: Maven Cartridges
   Product Type: Piston Blowout Adapters
   Availability: Available
@@ -13546,7 +13540,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Blow-Out-Adapter-Highlight-Image_334050e3-7902-4072-b0f9-7bbdc121b765.jpg?v=1753728645
     Price: $289.99 USD
 - [MixPac 200ml 2:1 C-System Cartridge & Piston | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-sulzer-200ml-6-7oz-empty-2-1-ratio-2-part-c-system-cartridge-pistons-ac-200-02-10-01-112699): Get Medmix Mixpac 200ml 2:1 cartridges at Perigee Direct with pistons included for clean filling and accurate two-part adhesive dispensing.
-  Updated: 2026-02-16T19:00:38Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -13596,7 +13590,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges-Install-Example-2_ebd61638-4037-4abe-a713-39857e2e7217.jpg?v=1752865932
     Price: $14.99 USD
 - [MixPac Gun Compatible 200ml C-System 1:1 Cartridge & Piston | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-sulzer-200ml-6-7oz-empty-1-1-ratio-2-part-c-system-cartridge-pistons-ac-200-01-10-01-112158): Shop MixPac gun 200ml C-System epoxy cartridges at Perigee Direct. Empty 1:1 dual-component cartridges for filling, storing, and dispensing two-part materials.
-  Updated: 2026-02-16T03:30:36Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -13646,7 +13640,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges-Install-Example-2_c6e943a6-7f83-449a-bc3c-a324675258df.jpg?v=1756319140
     Price: $14.99 USD
 - [MixPac 400ml C-System 2:1 Ratio Starter Kit | Perigee Direct](https://www.perigeedirect.com/products/mixpac-400ml-c-system-2-1-ratio-2-part-empty-cartridges-starter-kits-ac-400-02-10-01-108663): Shop Mixpac 400ml C system starter kits at Perigee Direct for empty 2-to-1 cartridges and pistons that support clean two-part dispensing jobs.
-  Updated: 2026-02-11T01:15:34Z
+  Updated: 2026-02-20T22:20:34Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -13742,7 +13736,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Fusion3cpic3-144.826.jpg?v=1753725001
     Price: $2,699.99 USD
 - [Leister 145.488 FWP Corner Welding Shoe – Perigee Direct](https://www.perigeedirect.com/products/leister-145-488-complete-fwp-int-air-corner-long-d-0-8-welding-shoe-for-fusion-welders): Leister 145.488 - Complete (FWP-Int.Air) corner long, D=08" | Welding Shoe for Fusion 1 welders For the Fusion 1, Fusion 2, Fusion 3, and more.
-  Updated: 2026-01-26T14:35:38Z
+  Updated: 2026-02-20T06:19:52Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
@@ -13763,7 +13757,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Leister145.897WeldingShoeCompleteoverlap35mm.webp?v=1756321110
   Price: $189.00 USD
 - [Mixpac K System Small Syringes 1:1–2:5 – Perigee Direct](https://www.perigeedirect.com/products/mixpac-k-system-small-syringes-two-part-ratio-1-1-2-5ml-3ml-5ml-10ml-2-5cc-3cc-5ccl-10cc): Shop Mixpac K system small syringes at Perigee Direct for precise two-part dispensing in 1:1 and 2:1 ratios across small volumes.
-  Updated: 2026-02-13T23:51:20Z
+  Updated: 2026-02-20T23:40:39Z
   Vendor: MixPac
   Product Type: Syringe Barrel and Piston
   Availability: Available
@@ -13969,7 +13963,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPac-K-System-1-1-ratio-5ml-Syringe-_-Pistons---KK-005-01-10-01--_116438.jpg?v=1758996666
     Price: $469.99 USD
 - [MixPac K-System 10ml 10:1 Syringe Kit | Perigee Direct](https://www.perigeedirect.com/products/mixpac-k-system-10-1-ratio-small-syringe-10ml-10cc-116442-or-116571): Shop Mixpac K-System 10:1 ratio syringes at Perigee Direct for precise small-volume dispensing delivering low waste control for detailed adhesive work.
-  Updated: 2026-02-13T23:51:23Z
+  Updated: 2026-02-17T21:28:25Z
   Vendor: MixPac
   Product Type: Syringe Barrel and Piston
   Availability: Available
@@ -14015,7 +14009,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPac-K-System-10-1-ratio-10ml-Hand-Plunger---KK-010-10-10-01--_116442.jpg?v=1756316966
     Price: $249.99 USD
 - [MKH Nozzles 1:1 2:1 for MixPac K-System Syringe – Perigee Direct](https://www.perigeedirect.com/products/mkh-mixing-nozzles-for-mixpac-k-system-small-syringes-1-1-or-2-1-ratio-mkh-03-12d-mkh-03-12s-mkh-03-16s-mkh-02-12s-mkh-02-16s): Discover MKH static nozzles at Perigee Direct. For syringes, they provide controlled mixing and reliable adhesive performance. Add to cart today.
-  Updated: 2026-02-16T22:45:38Z
+  Updated: 2026-02-20T23:40:47Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -14181,7 +14175,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/nozzel.png?v=1719847723
     Price: $3,599.99 USD
 - [Nordson Spray Nozzle Kit for Dual Cartridge Use – Perigee Direct](https://www.perigeedirect.com/products/nordson-spray-nozzle-for-two-part-cartridges-24-element-6-3mm-and-9-3mm-diameters): Order Nordson spray nozzle at Perigee Direct for two-part cartridges ensuring even 24-element mixing in 6.3mm and 9.3mm diameters for spray coatings.
-  Updated: 2026-02-13T23:51:34Z
+  Updated: 2026-02-17T21:28:36Z
   Vendor: Nordson EFD
   Product Type: Spray Nozzles
   Availability: Available
@@ -14195,7 +14189,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/IMG_7001_872718ab-868c-44e3-9c80-9f7717eef071.jpg?v=1753728848
     Price: $5.99 USD
 - [Loctite 5039 Nuva-Sil Adhesive 300mL – Perigee Direct](https://www.perigeedirect.com/products/loctite-5039-nuva-sil-silicone-adhesive-300ml-part-number-742348): Shop Loctite 5039 Nuva Sil silicone adhesive at Perigee Direct for flexible sealing delivering moisture resistance and durable adhesion.
-  Updated: 2026-02-13T23:51:35Z
+  Updated: 2026-02-17T21:28:37Z
   Vendor: Loctite
   Product Type: Silicone
   Availability: Available
@@ -14209,21 +14203,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite-5039-Gun-Kit.jpg?v=1752864559
     Price: $229.99 USD
 - [Albion Viper R6B (6:1 Drive) 1/10 Gallon Caulk Gun](https://www.perigeedirect.com/products/albion-viper-r6b-6-1-drive-1-10-gallon-caulk-gun): Buy Albion Viper R6B at Perigee Direct for a durable 6-to-1 drive caulking gun built for construction use and steady bead control on thick materials.
-  Updated: 2026-02-13T23:51:36Z
+  Updated: 2026-02-17T21:28:37Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/R6B.1.jpg?v=1720048139
   Price: $11.99 USD
 - [Albion B12 1/10 Gal Manual Cartridge Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-b12-1-10-gallon-b-line-manual-cartridge-gun-w-12-1-drive): Shop the Albion B12 at Perigee Direct for manual 110-gallon cartridge  offering smooth dispensing with a strong 12-to-1 drive ratio.
-  Updated: 2026-02-13T23:51:37Z
+  Updated: 2026-02-17T21:28:38Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/B12.1.jpg?v=1753727251
   Price: $39.99 USD
 - [Araldite AW9102 Honeycomb Panel Kit – Perigee Direct](https://www.perigeedirect.com/products/araldite-aw-9102-aradur-hw-9102-honeycomb-panel-bonding-adhesive-kit-parts-a-b-aw-9102-hw-9102): Shop Araldite AW 9102 HW 9102 at Perigee Direct for honeycomb panel bonding with toughened performance designed for structural composite applications.
-  Updated: 2026-02-13T23:51:39Z
+  Updated: 2026-02-17T21:28:40Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -14296,7 +14290,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Leister_UNIPLAN_500_Automatic_Welder_Front__71285.jpg?v=1758996615
     Price: $3,000.00 USD
 - [Maven EAF110 GEL Medium Set Thick Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-eaf110nx-flexible-thick-gel-epoxy-thixotropic-medium-set-20-minute-flexible-temp-resistant-20-minute-set-plastic-metal-epoxy): Shop Maven EAF110NX epoxy at Perigee Direct for flexible, thick gel bonding that resists temperature and delivers reliable adhesion on plastics and metals.
-  Updated: 2026-02-13T23:51:42Z
+  Updated: 2026-02-17T21:28:44Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -14562,7 +14556,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-Reel-3mm-Round-BlackNT_ad5dadaa-0c9d-4199-9be1-9a55571582f8.webp?v=1752866005
     Price: $89.99 USD
 - [10-Minute Epoxy EA 5410 Adhesive – Perigee Direct](https://www.perigeedirect.com/products/10-minute-epoxy-ea-5410-chemical-resistant-medium-viscosity-adhesive-direct-substiture-for-devcon-10-minute-14251): Shop EA 5410 10-minute epoxy at Perigee Direct for chemical-resistant bonding with medium viscosity and reliable industrial performance.
-  Updated: 2026-02-13T23:51:45Z
+  Updated: 2026-02-19T22:30:54Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -14595,7 +14589,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/mavenEA510400mlnozzle.jpg?v=1752866285
     Price: $30.00 USD
 - [Maven EA 501 Gel Fast Set 1 Min Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-501-gel-very-fast-set-1-min-thick-gel-translucent-clear-1-1-ratio): Shop Maven EA 501 gel at Perigee Direct for fast, one-minute-set, thick gel epoxy that creates strong translucent repairs when time is tight.
-  Updated: 2026-02-13T23:51:48Z
+  Updated: 2026-02-17T21:28:50Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -14671,7 +14665,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Maven-CA268-1-Pound-Bottle-Fast-Set-Medium-Gap-Filling-for-Difficult-Plastics-Instant-Adhesive-Super-Glue-Cyanoacrylate.jpg?v=1758996684
     Price: $49.99 USD
 - [Ritter ACF-ORBIS 50ml 10:1 & 4:1 Mix Nozzles – Perigee Direct](https://www.perigeedirect.com/products/ritter-acf-orbis-50ml-high-effiency-mixing-nozzles-10-1-and-4-1-ratio-16336-0242-for-ritter-50ml-acf-10-1-and-4-1-ratio-cartridges): Shop Ritter ACF Orbis 50ml mixing nozzles at Perigee Direct for high-efficiency mixing on 10:1 and 4:1 ratio ACF cartridges.
-  Updated: 2026-02-13T23:51:49Z
+  Updated: 2026-02-17T21:28:52Z
   Vendor: Ritter
   Product Type: Mixing Nozzles
   Availability: Available
@@ -14689,7 +14683,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RitterOrbis50mlMixingNozzles.png?v=1752864597
     Price: $169.99 USD
 - [Ritter Round 50ml 17-Element Helix Nozzle – Perigee Direct](https://www.perigeedirect.com/products/ritter-50ml-mixing-nozzle-round-helix-17-element-4-4-inch-for-b-system-cartridges-18001-0041): Shop Ritter 50ml round helix mixing nozzles at Perigee Direct featuring 17-element design for smooth uniform mixing in B system cartridges.
-  Updated: 2026-02-13T23:51:51Z
+  Updated: 2026-02-17T21:28:53Z
   Vendor: Ritter
   Product Type: Mixing Nozzles
   Availability: Available
@@ -14711,7 +14705,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RITTER7.png?v=1719843857
     Price: $2,979.99 USD
 - [Leister Hemtek Pressure Rollers – Perigee Direct](https://www.perigeedirect.com/products/leister-hemtek-pressure-rollers-for-top-bottom-157-047-157-071): Shop Leister Hemtek pressure rollers at Perigee Direct for top and bottom seam welding that delivers consistent pressure and smooth welded finishes.
-  Updated: 2026-02-13T23:51:52Z
+  Updated: 2026-02-17T21:28:55Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -14768,7 +14762,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/7075_0e5576ce-5e82-45e0-a863-d9a7fa9dc0bd.jpg?v=1752862009
   Price: $649.99 USD
 - [Meritool 7000-1200 Series 20V Battery Unit | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-7000-1200-series-7000-1200-1-1-2-1-4-1-20v-battery-powered-cordless-dispenser-for-2-part-cartridges-600x600ml-1-1-600x300ml-2-1-600x150ml-4-1): Order Meritool PowerPush 7000 at Perigee Direct for cordless power dispensing of two part cartridges with flexible mixing ratios for work sites.
-  Updated: 2026-01-26T14:35:50Z
+  Updated: 2026-02-19T13:49:42Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
@@ -14786,7 +14780,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/7075_2_5cab5362-2f04-47ce-b469-12117fc4ef51.jpg?v=1753723903
     Price: $599.99 USD
 - [Meritool 7000-Series Battery #1010-018 20V | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-spare-battery-1010-018-for-all-7000-series-20v-cordless-dispensers): Shop Meritool PowerPush spare batteries at Perigee Direct for 7000 series dispensers delivering extended runtime and cordless productivity.
-  Updated: 2026-01-29T15:59:31Z
+  Updated: 2026-02-17T15:49:18Z
   Vendor: Meritool PowerPush
   Product Type: Battery & Charger
   Availability: Available
@@ -14836,7 +14830,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LeisterAirfilterFUSION2_3C135.082.jpg?v=1753725866
     Price: $104.00 USD
 - [Xemex Bayonet 50ml Ultra-Low Waste Nozzles – Perigee Direct](https://www.perigeedirect.com/products/remixers-xemex-ultra-low-waste-50ml-mixing-nozzles-bayonet-style-for-50ml-cartridges-1-1-2-1-4-1-10-1): Order Remixers Xemex mixing nozzles at Perigee Direct for 50ml cartridges offering low-waste bayonet-style mixing across multiple ratios.
-  Updated: 2026-02-13T23:51:56Z
+  Updated: 2026-02-23T15:10:51Z
   Vendor: ReMixers Xemex
   Product Type: Mixing Nozzles
   Availability: Available
@@ -14897,154 +14891,154 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister_Wide_Slot_Nozzle_19.8_in_107.267.jpg?v=1753729470
   Price: $747.00 USD
 - [Leister 145.943 Fillet Weld Shoe 5/6mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-fillet-weld-5-6mm-145-943): Welding Shoe ARTICLE 145.943 ITEM NAME Welding shoe K5/6 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:51:56Z
+  Updated: 2026-02-17T21:28:59Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1_0c8b684d-e0d1-4f60-a90e-85e549738591.webp?v=1756321243
   Price: $218.00 USD
 - [Leister 145.944 Weld Shoe, FWP Int Air 8/10mm – Perigee Direct](https://www.perigeedirect.com/products/welding-shoe-complete-fwp-int-air-fillet-weld-8-10mm-145-944): Welding Shoe ARTICLE 145.944 ITEM NAME Welding shoe K8/K10 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:51:57Z
+  Updated: 2026-02-17T21:29:00Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_f2b239b2-656c-45b1-86b6-f8999d5ac824.webp?v=1752862842
   Price: $218.00 USD
 - [Leister 145.909 V-Seam Welding Shoe 20mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-20-and-x-seam-35-40mm-145-909): ARTICLE 145.909 ITEM NAME Welding shoe V20 IA BRAND Leister WELDING SEAM GEOMETRY V-seam / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:51:58Z
+  Updated: 2026-02-17T21:29:01Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Welding_shoe_145_909.jpg_master__95454.jpg?v=1758993926
   Price: $254.00 USD
 - [Leister 145.916 V-Seam Welding Shoe 25mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-25mm-145-916): ARTICLE 145.916 ITEM NAME Welding shoe V25 IA BRAND Leister WELDING SEAM GEOMETRY V-seam / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:51:59Z
+  Updated: 2026-02-17T21:29:02Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Welding_shoe_v_25mm_145_916.jpg_master__55453.jpg?v=1753726444
   Price: $254.00 USD
 - [Leister 145.815 Weld Shoe, FWP Int Air 12mm – Perigee Direct](https://www.perigeedirect.com/products/welding-shoe-complete-fwp-int-air-fillet-weld-12mm-145-815): ARTICLE 145.815 ITEM NAME Welding shoe K12 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:00Z
+  Updated: 2026-02-17T21:29:03Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3_7c44c74a-78b5-4c51-a18e-be7b56f07e4c.webp?v=1753725295
   Price: $260.00 USD
 - [Leister 145.905 V-Seam Welding Shoe 30mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-30mm-145-905): ARTICLE 145.905 ITEM NAME Welding shoe V30 IA BRAND Leister WELDING SEAM GEOMETRY V-seam / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:01Z
+  Updated: 2026-02-17T21:29:04Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Welding_shoe_V30_145_905.jpg_master__55617.jpg?v=1756316627
   Price: $271.00 USD
 - [Leister 145.812 Fillet Weld Shoe 15mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-fillet-weld-15mm-145-812): ARTICLE 145.812 ITEM NAME Welding shoe K15 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:02Z
+  Updated: 2026-02-17T21:29:05Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/4.webp?v=1752864135
   Price: $249.00 USD
 - [Leister 146.643 Outside Corner Shoe 8mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-corner-outsite-8mm-146-643): ARTICLE 146.643 ITEM NAME Welding shoe CO8 IA BRAND Leister WELDING SEAM GEOMETRY Corner outside seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:02Z
+  Updated: 2026-02-17T21:29:06Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Welding_shoe_146_643.jpg_master__20273.jpg?v=1752860538
   Price: $222.00 USD
 - [Leister 146.645 Outside Corner Shoe 10mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-corner-outsite-10mm-146-645): ARTICLE 146.645 ITEM NAME Welding shoe CO10 IA BRAND Leister WELDING SEAM GEOMETRY Corner outside seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:03Z
+  Updated: 2026-02-17T21:29:07Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Welding_shoe_CO10_146_645.jpg_master__34230.jpg?v=1752866626
   Price: $222.00 USD
 - [Leister 145.940 Fillet Weld Shoe 20mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-fillet-weld-20mm-145-940): ARTICLE 145.940 ITEM NAME Welding shoe K20 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:04Z
+  Updated: 2026-02-17T21:29:08Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/5_22be008b-a418-46c4-826b-ef1bd7e4a1f1.webp?v=1758994379
   Price: $271.00 USD
 - [Leister 146.649 Outside Corner Shoe 12mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-corner-outsite-12mm-146-649): ARTICLE 146.649 ITEM NAME Welding shoe CO12 IA BRAND Leister WELDING SEAM GEOMETRY Corner outside seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:05Z
+  Updated: 2026-02-17T21:29:08Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Welding_shoe_CO12_146_649.jpg_master__83242_1.jpg?v=1753728918
   Price: $225.00 USD
 - [Leister 145.816 Fillet Weld Shoe 25mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-fillet-weld-25mm-145-816): ARTICLE 145.816 ITEM NAME Welding shoe K25 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:06Z
+  Updated: 2026-02-17T21:29:09Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/6_c66309fd-fb2a-4c83-9c08-4d8e3797766d.webp?v=1756317725
   Price: $287.00 USD
 - [Leister 145.912 V-Seam Welding Shoe 5/6mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-5-6-and-x-seam-10-12mm-145-912): ARTICLE 145.912 ITEM NAME Welding shoe V5/6 IA BRAND Leister WELDING SEAM GEOMETRY m / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:07Z
+  Updated: 2026-02-17T21:29:10Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/8.webp?v=1756317315
   Price: $218.00 USD
 - [Leister 146.651 Outside Corner Shoe 15mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-corner-outside-15mm-146-651): ARTICLE 146.651 ITEM NAME Welding shoe CO15 IA BRAND Leister WELDING SEAM GEOMETRY Corner outside seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:08Z
+  Updated: 2026-02-17T21:29:11Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/34280.webp?v=1753724770
   Price: $229.00 USD
 - [Leister 145.915 V-Seam Welding Shoe 8/10mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-8-10-and-x-seam-15-20mm-145-915): ARTICLE 145.915 ITEM NAME Welding shoe V8/10 IA BRAND Leister WELDING SEAM GEOMETRY V-seam / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:09Z
+  Updated: 2026-02-17T21:29:12Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/9_2ab4d436-427a-4963-b7dc-2552c3f52ff5.webp?v=1752861138
   Price: $218.00 USD
 - [Leister 145.907 V-Seam Shoe 12mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-12-and-x-seam-25mm-145-907): ARTICLE 145.907 ITEM NAME Welding shoe V12 IA BRAND Leister WELDING SEAM GEOMETRY V-seam / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:09Z
+  Updated: 2026-02-17T21:29:13Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/10.webp?v=1756317512
   Price: $249.00 USD
 - [Leister 139.460 Angled adapter 45° for Weldplast S2](https://www.perigeedirect.com/products/leister-angled-adapter-45-for-weldplast-s2-139-460): Discover the Leister 45 degree adapter 139.460 at Perigee Direct, crafted for precise positioning and efficient Weldplast S2 welding. Improve access and buy today.
-  Updated: 2026-02-13T23:52:10Z
+  Updated: 2026-02-17T21:29:14Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/28476.webp?v=1758995863
   Price: $790.00 USD
 - [Leister 145.903 V-Seam Shoe 15mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-v-seam-15-and-x-seam-30mm-145-903): ARTICLE 145.903 ITEM NAME Welding shoe V15 IA BRAND Leister WELDING SEAM GEOMETRY V-seam / X-seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:11Z
+  Updated: 2026-02-17T21:29:15Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/11.webp?v=1756321431
   Price: $254.00 USD
 - [Leister 139.461 Angled adapter 90° for Weldplast S2](https://www.perigeedirect.com/products/leister-angled-adapter-90-for-weldplast-s2-139-461): Discover the Leister 90 degree adapter 139.461 at Perigee Direct, made for improved welding access with Weldplast S2 equipment. Upgrade your welding setup today.
-  Updated: 2026-02-13T23:52:12Z
+  Updated: 2026-02-17T21:29:16Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/28483.webp?v=1758996369
   Price: $790.00 USD
 - [Leister 147.602 Angled adapter 45° for Fusion 2](https://www.perigeedirect.com/products/leister-angled-adapter-45-for-fusion-2-147-602): Find the Leister 45 degree angled adapter 147.602 at Perigee Direct, designed for improved positioning and efficient Fusion 2 welding. Order now.
-  Updated: 2026-02-13T23:52:13Z
+  Updated: 2026-02-17T21:29:16Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/28470.webp?v=1756318372
   Price: $859.00 USD
 - [Leister 147.601 Angled adapter 90° for Fusion 2](https://www.perigeedirect.com/products/leister-angled-adapter-90-for-fusion-2-147-601): Find the Leister 90 degree angled adapter 147.601 at Perigee Direct, crafted for improved access and precise welding with Fusion 2 tools. Order now.
-  Updated: 2026-02-13T23:52:14Z
+  Updated: 2026-02-17T21:29:17Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/28479.webp?v=1752865741
   Price: $799.00 USD
 - [Leister 145.817 Fillet Weld Shoe 30mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-int-air-fillet-weld-30mm-145-818): ARTICLE 145.817 ITEM NAME Welding shoe K30 IA BRAND Leister WELDING SEAM GEOMETRY Fillet weld seam AIR GUIDE Internal
-  Updated: 2026-02-13T23:52:14Z
+  Updated: 2026-02-17T21:29:18Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
@@ -15058,7 +15052,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1500ml-Empty-Cartridge-Single-Piston-1-1-ratio-v3_Sulzer-J-System_dde9b02c-ac7f-416c-9f54-1f7534d82d45.jpg?v=1762276704
   Price: $0.99 USD
 - [Leister 153.009 Corner Press Tool for extrusion welding](https://www.perigeedirect.com/products/153-009-corner-press-tool-for-extrusion-welding): Find the 153.009 corner press tool at Perigee Direct, designed for precise corner shaping in extrusion welding applications. Order now.
-  Updated: 2026-02-13T23:52:15Z
+  Updated: 2026-02-17T21:29:19Z
   Vendor: Leister
   Product Type: Tools
   Availability: Available
@@ -15121,7 +15115,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/leister_163.785_av10_30_cymk_1.jpg?v=1753726413
   Price: $225.00 USD
 - [Leister Hemtek ST Stationary Welder – Perigee Direct](https://www.perigeedirect.com/products/leister-hemtek-st-stationary-welder-157-870): Shop Leister Hemtek ST stationary welders at Perigee Direct for efficient automated welding in industrial fabric and roofing work.
-  Updated: 2026-02-13T23:52:17Z
+  Updated: 2026-02-17T21:29:20Z
   Vendor: Leister
   Product Type: Stationary Welder
   Availability: Available
@@ -15139,7 +15133,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/leister-hemtek-st-157.870_stationary-welder_1000x777_8439e98b-07f0-41cc-ac87-95f3683cbdeb.jpg?v=1753728187
     Price: $4,499.00 USD
 - [Leister Hemtek K-ST Stationary Welder – Perigee Direct](https://www.perigeedirect.com/products/leister-hemtek-k-st-stationary-welder-includes-tooling-to-enable-keder-welding-162-605-162-499): Shop Leister Hemtek K ST stationary welders at Perigee Direct for professional keder welding with integrated tooling for efficient fabrication.
-  Updated: 2026-02-13T23:52:18Z
+  Updated: 2026-02-17T21:29:21Z
   Vendor: Leister
   Product Type: Stationary Welder
   Availability: Available
@@ -15153,7 +15147,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/leister-db-a1-hemtek-k-st_162.605_17_von_21_1.jpg?v=1752861837
     Price: $5,095.00 USD
 - [Leister Air Filter Black Pair 149.214 – Perigee Direct](https://www.perigeedirect.com/products/leister-air-filter-shielded-black-1-pair-complete-149-214): Durable black air filters safeguard components, stabilize airflow and help keep welding tools performing in tough jobs. Order online today.
-  Updated: 2026-02-13T23:52:19Z
+  Updated: 2026-02-17T21:29:22Z
   Vendor: Leister
   Product Type: Air Filters
   Availability: Available
@@ -15167,7 +15161,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/13.webp?v=1752864519
   Price: $39.50 USD
 - [Leister 142.717 Heating element 230V/1550W](https://www.perigeedirect.com/products/leister-heating-element-230v-1550w-142-717): High quality 1550W heating element delivers consistent heat, strong durability and stable performance to support efficient welding work. Order online today.
-  Updated: 2026-02-13T23:52:20Z
+  Updated: 2026-02-17T21:29:23Z
   Vendor: Leister
   Product Type: Heating element
   Availability: Available
@@ -15181,21 +15175,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/14.webp?v=1756320461
     Price: $82.20 USD
 - [Leister Heater Tube with Protection – Perigee Direct](https://www.perigeedirect.com/products/leister-heater-tube-o-31-5-with-protection-tube-for-push-fit-nozzle-sym-vent-156-040): This replacement heater tube with protection is suitable for the Triac ST system manufatured from May 2017. First generation sku: 143.332 and 149.931.
-  Updated: 2026-02-16T06:28:05Z
+  Updated: 2026-02-17T21:29:24Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/15_d7ec5606-1025-4891-8626-aa77943ba705.jpg?v=1753728328
   Price: $61.84 USD
 - [Leister Power Cord T-120V 3m USA POL – Perigee Direct](https://www.perigeedirect.com/products/leister-power-supply-cord-t-120v2-x-14awg-x-3m-usa-pol-143-782): Get the Leister power cord at Perigee Direct for 120V tools with a durable 3-meter cable and USA plug supporting welding equipment.
-  Updated: 2026-02-13T23:52:21Z
+  Updated: 2026-02-17T21:29:25Z
   Vendor: Leister
   Product Type: power supply cord
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/16_497812e0-0e5d-4969-b1d2-1df70a8a8909.jpg?v=1753726829
   Price: $30.00 USD
 - [Leister Potentiometer 20K Ohm – Perigee Direct](https://www.perigeedirect.com/products/leister-potentiometer-20kohm-with-connecting-wires-146-769): This Potentiometer 20kOhm is suitable for Leister Triac ST heat . ALL SALES ARE FINAL ON PARTS. NO RETURNS OR EXCHANGES.
-  Updated: 2026-02-13T23:52:22Z
+  Updated: 2026-02-17T21:29:26Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -15331,7 +15325,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MedMix-Sulzer-MixPac-17-ELEMENT-HELIX-MIXING-NOZZLE-MAH-05-17T.jpg?v=1758996212
     Price: $3,199.99 USD
 - [Fluorolube CTFE Oil Lubricant](https://www.perigeedirect.com/products/fluorolube-oils-ctfe-fluoropolymer-oil-flame-resistant-corrosion-resistant-long-lasting-lubricants): Shop Fluorolube CTFE oil at Perigee Direct. Flame and corrosion-resistant lubrication delivering equipment protection. Order online today.
-  Updated: 2026-02-16T18:10:25Z
+  Updated: 2026-02-23T16:20:42Z
   Vendor: FLUOROLUBE
   Product Type: Oils
   Availability: Available
@@ -15425,7 +15419,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/FluorolubeOil_GreaseSmallSample.png?v=1756318634
     Price: $112.99 USD
 - [FluoroLube CTFE Grease Flame Resistant – Perigee Direct](https://www.perigeedirect.com/products/fluorolube-greases-pctfe-fluoropolymer-grease-flame-resistant-corrosion-resistant-long-lasting-lubricants): Find Fluorolube grease at Perigee Direct. Long-lasting PCTFE lubricant with flame resistance and corrosion protection. Stock up online today.
-  Updated: 2026-02-16T21:15:34Z
+  Updated: 2026-02-23T22:20:47Z
   Vendor: FLUOROLUBE
   Product Type: Greases
   Availability: Available
@@ -15511,7 +15505,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Fluorolube_Oil_Grease_Small_Sample.png?v=1753726405
     Price: $112.99 USD
 - [Permabond ET500 3-Min Fast Set Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-et500-fast--two-component-epoxy-clear): Pick Permabond ET500 at Perigee Direct for fast- epoxy with clear finish used in bonding metals, ceramics and plastics.
-  Updated: 2026-02-13T23:52:25Z
+  Updated: 2026-02-20T20:00:40Z
   Vendor: PERMABOND
   Product Type: Epoxy
   Availability: Available
@@ -15557,7 +15551,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.2.png?v=1760203634
     Price: $58.00 USD
 - [Permabond ET5429 Slow Set Charcoal Gel – Perigee Direct](https://www.perigeedirect.com/products/permabond-et5429-slow-set-120-240-min-thick-gel-epoxy-charcoal-color-cartridges-accessories): Get Permabond ET5429 at Perigee Direct for a slow-set, tough gel epoxy in charcoal color that gives long work time and thick gap-filling bonds.
-  Updated: 2026-02-13T23:52:28Z
+  Updated: 2026-02-23T17:36:38Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15595,7 +15589,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlgun_be02e639-558d-43d8-9b48-6f179c72e49b.jpg?v=1752864963
     Price: $169.99 USD
 - [Permabond ET505 Slow-Set Epoxy Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-et505-slow-set-60-120-minute-toughened-flexible-epoxy-adhesive): Choose the Leister Diode S at Perigee Direct for a slim hot air hand tool designed for use with a blower or compressor in plastic work.
-  Updated: 2026-02-13T23:52:30Z
+  Updated: 2026-02-17T21:29:34Z
   Vendor: PERMABOND
   Product Type: Epoxy
   Availability: Available
@@ -15633,7 +15627,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-ET505-400ml--Cartridge-Kit-With-Gun_fcf2423c-6bae-4295-9bef-101254eb065f.jpg?v=1764695923
     Price: $159.99 USD
 - [Permabond ET5428 Medium Set Cream Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-et5428-two-component-epoxy-cream-colored-cartridges-accessories): Shop Permabond ET5428 at Perigee Direct for cream two-component epoxy cartridges and accessories designed for clean controlled dispensing.
-  Updated: 2026-02-13T23:52:33Z
+  Updated: 2026-02-19T22:30:58Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15679,7 +15673,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_496fe9a1-ba94-4599-aa69-3185dfa4abca.jpg?v=1770053087
     Price: $62.00 USD
 - [Permabond ET5401 Medium Set Clear Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-et5401-toughened-epoxy): Shop Permabond ET5401 at Perigee Direct for toughened epoxy that delivers durable bonds where impact strength and structural performance matter.
-  Updated: 2026-02-13T23:52:34Z
+  Updated: 2026-02-17T21:29:38Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15697,7 +15691,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-ET5401-400ml-Cartridge_Gun_Nozzle.jpg?v=1753723947
     Price: $159.99 USD
 - [Permabond ET5147 Food Grade Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-et5147-food-grade-epoxy-50-80-minute-set-thixotropic-thick-gel-off-white): Discover Permabond ET5147 food-grade epoxy with thick gel consistency, 50–80 minute set time, and reliable bonding for  uses.
-  Updated: 2026-02-16T22:40:33Z
+  Updated: 2026-02-22T21:55:37Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15743,7 +15737,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlcartridge_e517d706-cd0b-484a-8dff-ac327c127e60.jpg?v=1752860589
     Price: $57.00 USD
 - [Permabond ET5145 Food Grade 50-Min Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-et5145-food-grade-epoxy-gray-thick-gel-20-60-minute-set): Shop Permabond ET5145 food-grade epoxy at Perigee Direct for gray, thick, two-part gel bonding that resists chemicals and meets food safety use.
-  Updated: 2026-02-16T01:00:35Z
+  Updated: 2026-02-23T20:55:39Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15789,7 +15783,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_cartridge_nozzle.jpg?v=1756321307
     Price: $56.00 USD
 - [Permabond ET510 Medium Set 10-Min Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-et510-semi-flexible-toughened-two-part-epoxy-adhesive-cartridges-accessories): Shop Permabond ET510 epoxy at Perigee Direct for semi-flexible toughened bonding delivering durability with compatible cartridges and accessories.
-  Updated: 2026-02-13T23:52:42Z
+  Updated: 2026-02-23T17:36:38Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15819,7 +15813,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlCartridge_Nozzle.jpg?v=1761499812
     Price: $11.00 USD
 - [Permabond ET514 Slow Set 30-Min Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-et514-1-1-mixable-two-part-epoxy-adhesive-grey): Buy Permabond ET514 at Perigee Direct for two-part epoxy adhesive in grey providing durable bonds on metals and composite structures in production.
-  Updated: 2026-02-13T23:52:45Z
+  Updated: 2026-02-17T21:29:49Z
   Vendor: PERMABOND
   Product Type: Epoxy
   Availability: Available
@@ -15865,7 +15859,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1631382115394_3862e625-aa5b-4d08-b137-180c7b3fb9a1.jpg?v=1752867039
     Price: $64.00 USD
 - [Permabond ET515 Medium Set 10-Min Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-et515-1-1-ratio-semi-flexible-toughened-two-part-epoxy-adhesive-clear): Shop Permabond ET515 at Perigee Direct for semi-flexible, clear, two-part epoxy that handles vibration with strong, balanced bonding strength.
-  Updated: 2026-02-13T23:52:47Z
+  Updated: 2026-02-19T22:31:03Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15903,7 +15897,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlgunkit-Photoroom.jpg?v=1759771118
     Price: $189.99 USD
 - [Permabond ET536 Slow Set 50-Min Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-et515-1-1-ratio-semi-flexible-toughened-two-part-epoxy-adhesive-clear-1): Discover Permabond ET515 at Perigee Direct, a semi-flexible, toughened epoxy providing clear, durable 1:1 bonding for industrial applications. Order today.
-  Updated: 2026-02-13T23:52:50Z
+  Updated: 2026-02-23T17:36:34Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15953,7 +15947,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlgunkit_295dc796-f412-4718-97da-9a56bac6c80c.jpg?v=1763573101
     Price: $149.99 USD
 - [Permabond ET538 Slow Set 150-Min Epoxy 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-et538-1-1-ratio-slow-set-120-150-min-gray-color-two-part-epoxy-adhesive): Shop Permabond ET538 two-part epoxy with slow set time, 1:1 ratio, and gray finish for durable industrial bonding applications.
-  Updated: 2026-02-15T21:45:37Z
+  Updated: 2026-02-22T05:00:46Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -15991,7 +15985,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlgunkit_0533eead-e556-493e-abf9-d79a1e99a730.jpg?v=1763659485
     Price: $149.99 USD
 - [MedMix MCH 08-24T Bell Helix Mixing Nozzle | Perigee Direct](https://www.perigeedirect.com/products/medmix-sulzer-mch-08-24t-mixing-nozzle-round-helix-bell-style-for-1-1-2-1-ratio-200ml-400ml-600ml-1500ml-2-part-cartridges): Shop Medmix Sulzer MCH 08-24T mixing nozzles at Perigee Direct for efficient round helix mixing across 200ml to 1500ml cartridges.
-  Updated: 2026-02-13T16:00:48Z
+  Updated: 2026-02-19T16:30:38Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16025,7 +16019,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Heilx-200ml-18-ElementsNT_32c8a00b-1c22-431a-8809-ddf9fc1ac690.jpg?v=1752860629
     Price: $1,800.00 USD
 - [MedMix MCQ-08-24T Square Bell Mixing Nozzle | Perigee Direct](https://www.perigeedirect.com/products/medmix-sulzer-mcq-08-24t-quadro-square-24-element-low-waste-bell-style-for-200ml-400ml-600ml-1500ml-2-part-cartridges): Discover Medmix MCQ 08 24T low waste Quadro nozzle for clean square mixing on 200ml to 1500ml cartridges delivering precise two part adhesive blending.
-  Updated: 2026-02-16T20:30:48Z
+  Updated: 2026-02-23T19:45:56Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16059,7 +16053,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/200ml-Helix-view-with-tip_end-details_83b07126-ee22-45b9-b498-c342c77dc18d.jpg?v=1756321288
     Price: $1,599.99 USD
 - [MixPac MGQ 08-24T Quadro Square Nozzle | Perigee Direct](https://www.perigeedirect.com/products/medmix-sulzer-mgq-08-24t-quadro-square-24-element-integrated-nut-low-waste-mixing-nozzle-for-200ml-400ml-600ml-1500ml-2-part-cartridges): Get Sulzer MGQ 08 24T at Perigee Direct for quadro square mixing nozzles with 24 elements that reduce waste on large cartridge blending jobs.
-  Updated: 2026-02-12T04:45:40Z
+  Updated: 2026-02-20T21:45:39Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16093,7 +16087,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MGQ-08-20T_d7660d55-c27f-4b4b-896a-64098a3cdf7c.jpg?v=1758994923
     Price: $1,199.00 USD
 - [MixPac MFHX 08-24T F-System Nozzle 10:1 4:1 | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-sulzer-mfhx-08-24t-f-system-mixing-nozzle-for-10-1-4-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-400ml-490ml): Shop Medmix MFHX 08-24T mixing nozzles for F-System cartridges, compatible with 10:1 and 4:1 ratios in 200ml to 490ml sizes.
-  Updated: 2026-02-16T17:25:35Z
+  Updated: 2026-02-17T20:35:42Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16141,7 +16135,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LT_Heat_blanket_154_002.jpg_master__21107.jpg?v=1753724830
     Price: $293.53 USD
 - [MixPac MFQ 08-32D Quadro Nozzle 1:1 & 2:1 – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-mfq-08-32d-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml): Shop Sulzer Mixpac MFQ 08 32D mixing nozzles at Perigee Direct for large cartridges delivering efficient square quadro static mixing.
-  Updated: 2026-01-19T15:55:02Z
+  Updated: 2026-02-23T17:35:32Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16175,7 +16169,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle_92f6941f-5829-48fa-bb0a-5f489409b24c.jpg?v=1752860414
     Price: $1,199.99 USD
 - [MixPac MFH 08-24T F-System Nozzle 1:1 & 2:1 – Perigee Direct](https://www.perigeedirect.com/products/sulzer-mixpac-mfh-08-24t-f-system-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml): Shop Sulzer Mixpac MFH 08-24T nozzles at Perigee Direct for larger cartridges, delivering efficient static mixing with consistent flow.
-  Updated: 2026-01-26T14:36:17Z
+  Updated: 2026-02-19T19:55:37Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16311,7 +16305,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/200ml-Helix-view-with-tip_end-details_6adc20b0-2c10-4b93-b2e0-96e7054d4896.jpg?v=1756321329
     Price: $1,299.99 USD
 - [MedMix MCH 08-32T Bell Helix Mixing Nozzle | Perigee Direct](https://www.perigeedirect.com/products/medmix-sulzer-mch-08-32t-mixing-nozzle-round-helix-bell-style-for-1-1-2-1-ratio-200ml-400ml-600ml-1500ml-2-part-cartridges): Shop Medmix Sulzer MCH 08-32T mixing nozzles at Perigee Direct for round helix static mixing across 200ml to 1500ml cartridges.
-  Updated: 2026-02-04T17:15:39Z
+  Updated: 2026-02-19T19:05:49Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -16380,7 +16374,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Training-Services-Fee.jpg?v=1756318200
     Price: $25.00 USD
 - [Leister 159.000 UNIPLAN Long Handle – Perigee Direct](https://www.perigeedirect.com/products/long-handle-for-leister-uniplan-300-and-uniplan-500-welders-159-000): Shop long handles for Leister Uniplan welders at Perigee Direct, delivering improved reach, comfort, and control during welding operations.
-  Updated: 2026-02-13T23:52:53Z
+  Updated: 2026-02-17T21:29:58Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -16466,7 +16460,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Leister_Weldplast_Stand_support_131.451.webp?v=1756319319
     Price: $169.80 USD
 - [Permabond LM012 Anaerobic Medium Viscosity – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-adhesive-lm012): Use Permabond LM012 at Perigee Direct for anaerobic adhesive supporting locking metal threaded parts with secure sealing strength.
-  Updated: 2026-02-13T23:52:57Z
+  Updated: 2026-02-17T21:30:02Z
   Vendor: Permabond
   Product Type: Anaerobics
   Availability: Available
@@ -16520,7 +16514,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/img_proxy_6bdff3b3-b61d-41bd-8482-850390616165.webp?v=1719874593
     Price: $175.00 USD
 - [Permabond HH040 Anaerobic Retaining Compound](https://www.perigeedirect.com/products/permabond-anaerobic-hh040): Shop Permabond HH040 at Perigee Direct. Anaerobic sealant for durable sealing and locking of threaded metal components. Order your supply today.
-  Updated: 2026-02-13T23:52:59Z
+  Updated: 2026-02-17T21:30:04Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -16550,7 +16544,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/hh040_500px.jpg?v=1758995334
     Price: $159.00 USD
 - [Permabond LH050 Anaerobic Thread Sealant](https://www.perigeedirect.com/products/permabond-anaerobic-lh050): Shop Permabond LH050 anaerobic adhesive at Perigee Direct for thread sealing delivering vibration resistance and dependable metal retention.
-  Updated: 2026-02-16T17:42:23Z
+  Updated: 2026-02-17T21:30:08Z
   Vendor: Permabond
   Product Type: Sealants
   Availability: Available
@@ -16616,7 +16610,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lh501littler.png?v=1752861286
     Price: $150.00 USD
 - [Permabond LH050 PURE Thread Sealant – Perigee Direct](https://www.perigeedirect.com/products/permabond-lh050-pure-anaerobic-thread-sealant-potable-water-safe): Get Permabond ES569 at Perigee Direct for a heat- thick epoxy optimized for metal in cartridge and kit form for industrial bonding.
-  Updated: 2026-02-13T23:53:05Z
+  Updated: 2026-02-17T21:30:10Z
   Vendor: Permabond
   Product Type: Sealants
   Availability: Available
@@ -16646,7 +16640,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Capture.png?v=1758999593
     Price: $190.00 USD
 - [Permabond LH051 Anaerobic Thread & Pipe Sealant with PTFE](https://www.perigeedirect.com/products/permabond-anaerobic-pipe-sealant-with-ptfe-lh051): Shop Permabond LH051 pipe sealant at Perigee Direct featuring PTFE-enhanced anaerobic sealing for threaded fittings in fluid systems.
-  Updated: 2026-02-13T23:53:06Z
+  Updated: 2026-02-17T21:30:11Z
   Vendor: Permabond
   Product Type: Sealants
   Availability: Available
@@ -16668,7 +16662,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lh051-1lilter_1.jpg?v=1758994928
     Price: $147.00 USD
 - [Permabond MH052 Anaerobic durable seal sealing of threaded](https://www.perigeedirect.com/products/permabond-anaerobic-durable-seal-mh052-1): Discover Permabond MH052 anaerobic durable sealant for reliable thread sealing, vibration resistance, and long-term performance on metal parts.
-  Updated: 2026-02-13T23:53:08Z
+  Updated: 2026-02-19T14:35:37Z
   Vendor: Permabond
   Product Type: Sealants
   Availability: Available
@@ -16690,7 +16684,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/mh052_500px_ab8bd769-f343-4b51-b405-6df36c580a28.jpg?v=1752863061
     Price: $63.00 USD
 - [Permabond LM113 Anaerobic Threadlocker medium viscosity](https://www.perigeedirect.com/products/permabond-anaerobic-threadlocker-medium-viscosity-lm113): Order Permabond LM113 at Perigee Direct for medium viscosity anaerobic threadlocking with reliable sealing performance on metal components.
-  Updated: 2026-02-13T23:53:11Z
+  Updated: 2026-02-17T21:30:16Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -16744,7 +16738,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/aa001130001l0101_preview.jpg?v=1719846920
     Price: $158.00 USD
 - [Permabond MM115 Anaerobic Threadlocker and sealant](https://www.perigeedirect.com/products/permabond-anaerobic-threadlocker-and-sealant-mm115): Find Permabond MM115 threadlocker for fast curing sealing of metal threaded parts with reliable strength in demanding industrial assembly work.
-  Updated: 2026-02-13T23:53:14Z
+  Updated: 2026-02-17T21:30:19Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -16796,7 +16790,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Ghibli120v-1500wUSAPlug101.891.jpg?v=1752862026
     Price: $669.00 USD
 - [Permabond MM115 PURE Threadlocker – Perigee Direct](https://www.perigeedirect.com/products/permabond-mm115-pure-anaerobic-threadlocker-and-sealant-potable-water-safe-nsf-ansi-61-): Order Permabond MM115 threadlocker at Perigee Direct for sealing metal threads potable water safe NSF  for plumbing and industrial systems.
-  Updated: 2026-02-13T23:53:15Z
+  Updated: 2026-02-17T21:30:20Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -16814,7 +16808,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/img_proxy_28c3b0d4-5683-4964-9dca-3a8d2e659cd6.webp?v=1719873796
     Price: $249.99 USD
 - [Permabond Anaerobic Threadlocker Adhesive HM118](https://www.perigeedirect.com/products/permabond-anaerobic-threadlocker-adhesive-hm118): Shop Permabond HM118 threadlocker for reliable sealing of threaded metal components with chemical resistance and medium-strength holding power.
-  Updated: 2026-02-13T23:53:17Z
+  Updated: 2026-02-20T19:20:38Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -16844,7 +16838,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/img_proxy_d8a61a9b-035d-4f70-8cfe-b73c80982919.webp?v=1719877278
     Price: $130.00 USD
 - [Permabond HH120 Anaerobic Threadlocker – Perigee Direct](https://www.perigeedirect.com/products/permabond-threadlocker-and-sealant-anaerobic-adhesive-hh120): Order Permabond HH120 at Perigee Direct for threadlocking and sealing providing anaerobic strength for metal assemblies and threaded parts.
-  Updated: 2026-02-13T23:53:19Z
+  Updated: 2026-02-17T21:30:25Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -16962,7 +16956,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/150.450.jpg?v=1752864754
     Price: $65.00 USD
 - [Permabond HL126 Thin Water-Like Threadlocker – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-hl126-threadlocker-reliably-and-fast-water-thin-product): Order Permabond HL126 at Perigee Direct for thin anaerobic threadlocking delivering reliable hold and fast curing on metal threaded parts.
-  Updated: 2026-02-13T23:53:21Z
+  Updated: 2026-02-17T21:30:27Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -16992,7 +16986,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/pbhl126-liter-hl126-1l.png?v=1758999013
     Price: $221.00 USD
 - [Permabond HM128 High Strength Threadlocker – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-hm128): Shop Permabond HM128 threadlocker for medium-strength sealing of threaded assemblies providing chemical resistance in mechanical components.
-  Updated: 2026-02-13T23:53:24Z
+  Updated: 2026-02-17T21:30:29Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -17030,7 +17024,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-hm128-red-1l_431x431_40ae6818-a18e-452f-8250-f10eb893c60f.jpg?v=1752863371
     Price: $194.00 USD
 - [Permabond HM129 Threadlocker and Sealant – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-hm129-threadlocker-and-sealant-with-high-strength-medium-viscosity): Order Permabond HM129 threadlocker at Perigee Direct for high-strength, medium-viscosity sealing designed for reliable metal fastener retention.
-  Updated: 2026-02-13T23:53:25Z
+  Updated: 2026-02-23T03:41:11Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -17052,7 +17046,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-hm129-250ml.png?v=1753724475
     Price: $83.00 USD
 - [Permabond HH131 High Temp Anaerobic Sealant – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-hh131): Shop Permabond HH131 at Perigee Direct for anaerobic thread sealing delivering high-strength bonding and secure locking in industrial systems.
-  Updated: 2026-02-13T23:53:27Z
+  Updated: 2026-02-17T21:30:33Z
   Vendor: Permabond
   Product Type: Threadlockers
   Availability: Available
@@ -17074,7 +17068,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/P0180120_50ml_1.webp?v=1753727775
     Price: $118.00 USD
 - [Permabond HL138 Low Viscosity High Strength – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-hl138-with-high-strength-low-viscosity-general-purpose-anaerobic-retaining-compound): Get Permabond HL138 at Perigee Direct for a general-purpose anaerobic compound with high strength thin viscosity for retaining applications.
-  Updated: 2026-02-13T23:53:29Z
+  Updated: 2026-02-17T21:30:35Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -17110,7 +17104,7 @@
     Availability: Not Available
     Price: $97.00 USD
 - [Permabond 738 Gap Filler for Hard-to-Bond Plastics – Perigee Direct](https://www.perigeedirect.com/products/permabond-738-cyanoacrylate-instant-adhesive-fast-set-gap-filling-for-difficult-plastics-rubbers): Shop Permabond 738 at Perigee Direct for fast-set gap-filling cyanoacrylate on difficult plastics and rubber needing tough instant bonds.
-  Updated: 2026-02-13T23:53:30Z
+  Updated: 2026-02-17T21:30:36Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -17128,7 +17122,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/738accc.png?v=1759000784
     Price: $339.99 USD
 - [Permabond ES550 Heat  Epoxy Kit 320ml – Perigee Direct](https://www.perigeedirect.com/products/permabond-es550-heat--epoxy-adhesive-320ml-cartridge): Shop Permabond ES550 at Perigee Direct for heat- epoxy in 320ml cartridges designed for structural bonding with high-temperature performance.
-  Updated: 2026-02-13T23:53:32Z
+  Updated: 2026-02-17T21:30:39Z
   Vendor: Permabond
   Product Type: Heat  Epoxy
   Availability: Available
@@ -17162,7 +17156,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_1fa371f2-0932-4b70-9f3c-b9a9d2526cc4.png?v=1759001316
     Price: $420.00 USD
 - [Permabond ES558 1-Part Epoxy Starter Kit – Perigee Direct](https://www.perigeedirect.com/products/permabond-es558-1-part-epoxy-cartridge-and-starter-kit): Discover Permabond ES558 at Perigee Direct, a one-part epoxy designed for reliable cartridge dispensing and high-strength structural adhesion. Order today.
-  Updated: 2026-02-13T23:53:35Z
+  Updated: 2026-02-21T21:00:42Z
   Vendor: Permabond
   Product Type: Heat  Epoxy
   Availability: Available
@@ -17196,7 +17190,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-es05580320c0101.jpg?v=1753723982
     Price: $100.00 USD
 - [Permabond 790 Fast-Set Wicking Type CA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-790-cyanoacrylate-instant-adhesive-very-fast-set-wicking-type): Shop Permabond 790 at Perigee Direct for very fast-setting wicking-type cyanoacrylate that pulls into hairline gaps and delivers strong holds.
-  Updated: 2026-02-13T23:53:37Z
+  Updated: 2026-02-17T21:30:44Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -17238,7 +17232,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/790-big_1_1.jpg?v=1753726509
     Price: $131.00 USD
 - [Permabond ES562 1-Part Heat  Epoxy, 200mL Bottle](https://www.perigeedirect.com/products/permabond-es562-1-part-heat--epoxy-200ml-bottle): Choose Permabond ES562 at Perigee Direct for a one-part heat- epoxy supplied in a two hundred milliliter bottle for metal and component bonding.
-  Updated: 2026-02-13T23:53:39Z
+  Updated: 2026-02-17T21:30:45Z
   Vendor: Permabond
   Product Type: Heat  Epoxy
   Availability: Available
@@ -17256,7 +17250,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/200ML-Photoroom.jpg?v=1761500017
     Price: $60.00 USD
 - [Permabond ES569 Heat  Thick Metal Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-es569-high-strength-1-part-heat--thick-metal-optimized-epoxy-cartridge-and-starter-kit): Explore Permabond ES569 high-strength 1-part heat- epoxy cartridge kit for metal bonding, thick gap fill, and long-lasting assemblies.
-  Updated: 2026-02-13T23:53:41Z
+  Updated: 2026-02-17T21:30:48Z
   Vendor: Permabond
   Product Type: Heat  Epoxy
   Availability: Available
@@ -17290,7 +17284,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-ES558_15LB-PAIL.png?v=1719849097
     Price: $600.00 USD
 - [Permabond UV610 UV translucent glue for Glass and Metals](https://www.perigeedirect.com/products/permabond-uv610-fast-setting-uv-glue-for-glass-and-metals): Shop Permabond UV610 adhesive at Perigee Direct for fast UV curing, delivering clear bonds on glass and metal assemblies.
-  Updated: 2026-02-14T20:08:47Z
+  Updated: 2026-02-17T21:30:50Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17328,7 +17322,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006100002l0101.jpg?v=1755106022
     Price: $280.00 USD
 - [Permabond ES578 1-Part Epoxy Starter Kit – Perigee Direct](https://www.perigeedirect.com/products/permabond-es578-single-part-heat--epoxy-cartridge-and-starter-kit): Shop Permabond ES578 single-part heat- epoxy cartridge kit for strong bonds, thick sections, and consistent industrial assembly results.
-  Updated: 2026-02-13T23:53:45Z
+  Updated: 2026-02-17T21:30:52Z
   Vendor: Permabond
   Product Type: Heat  Epoxy
   Availability: Available
@@ -17362,7 +17356,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-ES558_15LB-PAIL_8a3e745b-b546-482e-bfe9-b963c67c92a3.png?v=1720047770
     Price: $416.00 USD
 - [Permabond UV620  Grade Clear UV Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv620--grade-uv-glue-with-high-optical-clarity-very-clear-transparent-thicker-slow-flow): Shop Permabond UV620 at Perigee Direct for -grade UV glue offering high clarity, thicker, slow-flow bonding on lenses and clear plastics.
-  Updated: 2026-02-16T19:28:34Z
+  Updated: 2026-02-23T23:01:27Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17416,7 +17410,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006200002l0101.jpg?v=1755107446
     Price: $320.00 USD
 - [Permabond UV625 Thick UV Gel for Gap Filling – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv625-uv-non-drip-thick-uv-gel-glue-for-gap-filling-and-vertical-wall-bonding): Get Permabond UV625 at Perigee Direct for thick, nondrip UV gel glue that fills gaps and bonds vertical wall surfaces with a clear cured finish.
-  Updated: 2026-02-13T23:53:50Z
+  Updated: 2026-02-17T21:30:57Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17438,7 +17432,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv625.png?v=1719873808
     Price: $65.00 USD
 - [Permabond UV630 Thin UV Glue for Glass/Metal – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv630-thin-low-viscosity--grade-uv-glue-great-for-clear-plastics-and-clear-glass): Shop Permabond UV630 at Perigee Direct for -grade UV bonding delivering thin, low-viscosity clarity on glass and clear plastics.
-  Updated: 2026-02-16T19:28:33Z
+  Updated: 2026-02-23T18:38:56Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17468,7 +17462,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006300002l0101_1.jpg?v=1755097761
     Price: $331.00 USD
 - [Permabond UV632 UV Glue for Acrylic Plastic – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv632-low-viscosity-thin-uv-glue-optimized-for-acrylic-plastics-also-great-for-glass-and-other-plastics): Shop Permabond UV632 at Perigee Direct for low-viscosity, thin UV glue optimized for acrylic plastics and useful on glass and mixed substrates.
-  Updated: 2026-02-16T13:30:34Z
+  Updated: 2026-02-17T21:31:03Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17522,7 +17516,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006320002l0101_adc82ccf-f030-418f-b959-b58194e0999b.jpg?v=1755102432
     Price: $331.00 USD
 - [Permabond UV639 Flexible UV Glue for Gaps – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv639-thicker-gap-filling-soft-flexibile-uv-glue-excellent-for-most-plastics-including-acrylic-pet-polycarbonate-pc): Shop Permabond UV639 at Perigee Direct for flexible gap-filling UV bonding delivering clarity and strength on acrylic PET and polycarbonate.
-  Updated: 2026-02-13T23:53:57Z
+  Updated: 2026-02-23T13:35:36Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17544,7 +17538,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50MLUV639_47760d60-51b2-4b21-9f56-91e806aa800f.jpg?v=1761500076
     Price: $49.00 USD
 - [Permabond UV640 Impact-Resistant UV Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv640-thicker-viscosity-general-purpose-impact-resistant-clear-uv-glue): Shop Permabond UV640 adhesive at Perigee Direct for impact-resistant UV bonding delivering clear durable results on varied materials.
-  Updated: 2026-02-13T23:54:00Z
+  Updated: 2026-02-17T21:31:07Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17582,7 +17576,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006400002l0101.jpg?v=1719847418
     Price: $331.00 USD
 - [Permabond UV645 High Viscosity UV Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv645-uv-glue-high-viscosity-gap-filling-slow-flow-plastic-bonding-clear-transparent): Shop Permabond UV645 at Perigee Direct for high-viscosity, clear UV-curing adhesive designed for gap-filling plastic bonding with controlled flow.
-  Updated: 2026-02-13T23:54:01Z
+  Updated: 2026-02-17T21:31:08Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17604,7 +17598,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006450001l0101.jpg?v=1758995178
     Price: $174.00 USD
 - [Permabond UV648 Thick Slow-Flow UV Gel Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv648-uv-single-part-fast-curing-high-viscosity-uv-curable-adhesive): Find Permabond UV648 at Perigee Direct. UV-curing adhesive offering clear, strong bonding for glass, plastics and metals. Request pricing today.
-  Updated: 2026-02-13T23:54:03Z
+  Updated: 2026-02-17T21:31:10Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17626,7 +17620,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006480001l0101.jpg?v=1752867371
     Price: $190.00 USD
 - [Permabond UV649 Clear Gel UV Glue Non-Sag – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv649-clear-transparent-uv-glue-thick-gel-non-sag-non-drip-vertical-and-wall-glue): Get Permabond UV649 at Perigee Direct for clear thick gel UV glue that does not drip and bonds vertical or wall surfaces with transparent joins.
-  Updated: 2026-02-16T15:15:48Z
+  Updated: 2026-02-17T21:31:12Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17648,7 +17642,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006490001l0101.jpg?v=1752861822
     Price: $174.00 USD
 - [Permabond UV670 UV Glue for Metal & Plastic – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv670-uv-glue-optimized-for-metals-and-metallized-plastics): Shop Permabond UV670 UV glue at Perigee Direct for strong bonds on metals and metallized plastics with fast curing and durable clarity.
-  Updated: 2026-02-13T23:54:07Z
+  Updated: 2026-02-17T21:31:14Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17690,7 +17684,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PermabondUV6702literbottle.jpg?v=1719841498
     Price: $331.00 USD
 - [Permabond UV681 Thin UV Coating Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv681-uv-curable-clear-coating-thin-flowable-viscosity-to-smooth-over-surfaces-transparant-crystal-clear-coating): Shop Permabond UV681 at Perigee Direct for thin flow UV coating delivering clear transparent surfaces that smooth over material finishes.
-  Updated: 2026-02-13T23:54:09Z
+  Updated: 2026-02-17T21:31:16Z
   Vendor: Permabond
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -17720,7 +17714,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv006810001l0101.jpg?v=1753729613
     Price: $174.00 USD
 - [Permabond UV683 Fast- UV Adhesive for Glass – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv683-uv-single-part-fast-curing-uv-curable-adhesive-for-coating): Shop Permabond UV683 at Perigee Direct for fast-curing, single-part UV adhesive coatings that deliver clear durable finishes on many plastics.
-  Updated: 2026-02-13T23:54:12Z
+  Updated: 2026-02-17T21:31:19Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17758,7 +17752,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/download_5.jpg?v=1758997146
     Price: $174.00 USD
 - [Permabond UV6160 Fast-Setting Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv6160-single-part-fast-setting-adhesive): Shop Permabond UV6160 single-part adhesive at Perigee Direct for fast UV-curing bonds delivering clarity, strength, and production efficiency.
-  Updated: 2026-02-13T23:54:14Z
+  Updated: 2026-02-17T21:31:20Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17776,7 +17770,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PERMABOND_UV6160_th8.jpg?v=1752859921
     Price: $35.00 USD
 - [Permabond UV6231 Moisture-Resistant UV Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv6231-uv-glue-with-high-clarity-and-excellent-moisture-and-humidity-resistance-thicker-gel-ultra-slow-flow): Shop Permabond UV6231 at Perigee Direct for high-clarity UV glue with thick gel slow flow that resists moisture and humidity on demanding joints.
-  Updated: 2026-02-13T23:54:15Z
+  Updated: 2026-02-17T21:31:22Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17798,7 +17792,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PERMABOND_UV6231_th5.jpg?v=1756317164
     Price: $48.00 USD
 - [Permabond UV7141 Dual  UV/Anaerobic Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-uv7141-dual-curable-glue-uv-or-anaerobic-curable-glue-for-bonding-ceramics-glass-mirrors-and-metals): Shop Permabond UV7141 at Perigee Direct for dual-curing glue that sets with UV or anaerobic on mirrors, glass, ceramics and metal surfaces.
-  Updated: 2026-02-13T23:54:17Z
+  Updated: 2026-02-17T21:31:23Z
   Vendor: Permabond
   Product Type: UV Adhesive
   Availability: Available
@@ -17820,7 +17814,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uv71410001l0101.jpg?v=1756320519
     Price: $200.00 USD
 - [Maven EAF420 Medium-Set Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-eaf420-off-white-medium-set-20-minute-epoxy-off-white-toughened-temp-resistant-20-minute-set-carbon-fiber-plastic-metal): Discover Maven EAF420 at Perigee Direct. Medium-set epoxy for tough, temperature-resistant bonds on carbon fiber, plastics and metals. Buy today.
-  Updated: 2026-02-13T23:54:20Z
+  Updated: 2026-02-23T18:19:02Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -17862,11 +17856,11 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/420FAMILY.png?v=1761845081
     Price: $10.00 USD
   - [Recently Expired / 400ml (13.5 oz)](https://www.perigeedirect.com/products/maven-eaf420-off-white-medium-set-20-minute-epoxy-off-white-toughened-temp-resistant-20-minute-set-carbon-fiber-plastic-metal?variant=46652724510974)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/420_WH__400ml-Cartridge_Nozzle-removebg-preview.png?v=1761845086
     Price: $20.00 USD
 - [Maven EAF460 60-Min Black or White Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-eaf460-slow-set-60-minute-black-or-off-white-epoxy-toughened-60-minute-set-epoxy-adhesive): Get Maven EAF460 at Perigee Direct for slow-set 60-minute toughened epoxy in black or off-white used on structural repair bonding.
-  Updated: 2026-02-13T23:54:27Z
+  Updated: 2026-02-17T21:31:33Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -17984,7 +17978,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/mavenEAF460bk400mlnozle.jpg?v=1753726538
     Price: $25.00 USD
 - [Maven EAF405 5-Min Toughened Black Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-eaf-405-medium-set-5-minute-toughened-5-minute-set-epoxy-adhesive): Shop Maven EAF 405 epoxy at Perigee Direct for medium-set toughened bonding delivering fast 5-minute  strength for repairs and assemblies.
-  Updated: 2026-02-13T23:54:30Z
+  Updated: 2026-02-17T21:31:36Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -18030,7 +18024,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenEAF405-5GALPAIL.jpg?v=1752867675
     Price: $2,999.97 USD
 - [Maven EAF490 90-Min Toughened Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-eaf-490-medium-set-90-minute-toughened-90-minute-set-epoxy-adhesive): Order Maven EAF 490 at Perigee Direct for medium set ninety-minute toughened epoxy that gives reliable bond strength on metals and composites.
-  Updated: 2026-02-13T23:54:33Z
+  Updated: 2026-02-17T21:31:40Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -18092,7 +18086,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/mavenEAF490400mlnozzle.jpg?v=1752866338
     Price: $25.00 USD
 - [Permabond HM160 Retaining Green Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-hm160-anaerobic-retaining-compound-adhesive-green-bottle): Shop Permabond HM160 anaerobic retaining compound for strong metal assembly bonding, vibration resistance, and reliable retention strength.
-  Updated: 2026-02-13T23:54:35Z
+  Updated: 2026-02-17T21:31:42Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -18122,7 +18116,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/img_proxy_cb8d8e72-e73f-4f8e-876e-44e5ba180cea.webp?v=1719873826
     Price: $171.00 USD
 - [Permabond HM161 Anaerobic Retainer Green – Perigee Direct](https://www.perigeedirect.com/products/permabond-hm161-anaerobic-retaining-compound-adhesive-green-bottle): Shop Permabond HM161 anaerobic retaining compound for high-strength bonding of cylindrical metal parts with durable long-term retention.
-  Updated: 2026-02-13T23:54:37Z
+  Updated: 2026-02-17T21:31:44Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -18142,7 +18136,7 @@
     Availability: Not Available
     Price: $256.00 USD
 - [Permabond HM162 Retaining Compound Green Bottle](https://www.perigeedirect.com/products/permabond-hm162-retaining-compound-green-bottle): Shop Permabond HM162 at Perigee Direct for a green bottle retaining compound that locks bearings and sleeves with strong thermal resistance.
-  Updated: 2026-02-13T23:54:39Z
+  Updated: 2026-02-17T21:31:46Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -18172,7 +18166,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-aa001620010b0101.jpg?v=1756317608
     Price: $28.00 USD
 - [Permabond HM165 High Strength Retainer – Perigee Direct](https://www.perigeedirect.com/products/permabond-hm165-retaining-compound-anaerobic-adhesive-green-bottle): Shop Permabond HM165 retaining compound at Perigee Direct for anaerobic bonding delivering strong retention on cylindrical metal assemblies.
-  Updated: 2026-02-13T23:54:40Z
+  Updated: 2026-02-17T21:31:47Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -18201,7 +18195,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LeisterInsulationSleeveforFusion2Welder-166.524.jpg?v=1758994882
   Price: $335.00 USD
 - [Permabond HH167 1 x 75ml accordion](https://www.perigeedirect.com/products/permabond-hh167-1-x-75ml-accordion): Shop Permabond HH167 anaerobic adhesive at Perigee Direct in accordion bottles for reliable metal bonding, sealing, and vibration resistance.
-  Updated: 2026-02-13T23:54:42Z
+  Updated: 2026-02-17T21:31:49Z
   Vendor: Permabond
   Product Type: Gasket Maker
   Availability: Available
@@ -18213,7 +18207,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [PERMABOND HH190 ANAEROBIC ADHESIVE GASKETMAKER PURPLE TUBE](https://www.perigeedirect.com/products/permabond-hh190-anaerobic-adhesive-gasketmaker-purple-tube): Select Permabond HH190 at Perigee Direct for anaerobic gasket maker in a purple tube for sealing flanges and mechanical joints.
-  Updated: 2026-02-13T23:54:43Z
+  Updated: 2026-02-17T21:31:50Z
   Vendor: Permabond
   Product Type: Gasket Maker
   Availability: Available
@@ -18235,7 +18229,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/9_989edf42-884d-433d-9889-ed293326a58d.png?v=1759000629
     Price: $66.00 USD
 - [Permabond Anaerobic MH196 Accordion Bottle](https://www.perigeedirect.com/products/permabond-anaerobic-mh196-accordion-bottle): Shop Permabond MH196 anaerobic adhesive at Perigee Direct for reliable sealing and retention delivering controlled application from accordion bottles.
-  Updated: 2026-02-13T23:54:45Z
+  Updated: 2026-02-17T21:31:52Z
   Vendor: Permabond
   Product Type: Gasket Maker
   Availability: Available
@@ -18257,7 +18251,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/mh196-tube.jpg?v=1758996644
     Price: $66.00 USD
 - [Permabond Anaerobic LH197 Gasketmaker Accordion Bottle](https://www.perigeedirect.com/products/permabond-anaerobic-lh197-gasketmaker-accordion-bottle): Order Permabond LH197 anaerobic gasketmaker for reliable sealing of metal flanges, resisting vibration, pressure, and fluid leaks.
-  Updated: 2026-02-13T23:54:46Z
+  Updated: 2026-02-17T21:31:53Z
   Vendor: Permabond
   Product Type: Gasket Maker
   Availability: Available
@@ -18279,7 +18273,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/11_89c85722-e60d-46ea-a77e-a6702c6a8f0c.jpg?v=1752867516
     Price: $69.00 USD
 - [Permabond MH199 Gasketmaker Accordion](https://www.perigeedirect.com/products/permabond-mh199-gasketmaker-accordion): Shop Permabond MH199 gasketmaker at Perigee Direct for anaerobic sealing delivering reliable flange gasketing with accordion bottle control.
-  Updated: 2026-02-13T23:54:48Z
+  Updated: 2026-02-17T21:31:55Z
   Vendor: Permabond
   Product Type: Gasket Maker
   Availability: Available
@@ -18299,7 +18293,7 @@
     Availability: Not Available
     Price: $69.00 USD
 - [Permabond MS359 Clear/Gray MS Polymer – Perigee Direct](https://www.perigeedirect.com/products/permabond-ms359-grey-clear-ms-polymer-290ml-cartridge-non-sag-and-starter-kits): Access Permabond MS359 at Perigee Direct for a grey clear MS polymer cartridge applied non-sag with starter accessories for strong flexible seals.
-  Updated: 2026-02-13T23:54:50Z
+  Updated: 2026-02-17T21:31:57Z
   Vendor: Permabond
   Product Type: MS Polymer (Modified Silicone)
   Availability: Available
@@ -18329,7 +18323,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-MS359_GREY_290ML_STARTER_KIT.jpg?v=1752863153
     Price: $74.99 USD
 - [Permabond MS359A Gray MS Polymer Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-ms359a-grey-ms-polymer-medium-set-10-20-min-thin-viscosity-self-leveling): Shop Permabond MS359A at Perigee Direct for grey MS polymer with thin self-leveling flow and 10 to 20 minute set for flexible sealing jobs.
-  Updated: 2026-02-13T23:54:52Z
+  Updated: 2026-02-17T21:31:58Z
   Vendor: Permabond
   Product Type: MS Polymer (Modified Silicone)
   Availability: Available
@@ -18347,7 +18341,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-MS359A_GREY_290ML_STARTER_KIT.jpg?v=1758994708
     Price: $74.99 USD
 - [Permabond MT382 Medium Set Black Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-mt382-modified-two-component-epoxy-black-cartridge-and-accessories): Shop Permabond MT382 at Perigee Direct for modified black epoxy delivering two-part bonding on tough engineering substrates.
-  Updated: 2026-02-13T23:54:54Z
+  Updated: 2026-02-19T22:31:09Z
   Vendor: Permabond
   Product Type: Modified Epoxy
   Availability: Available
@@ -18384,7 +18378,7 @@
     Availability: Available
     Price: $159.99 USD
 - [Permabond MT3821 Medium Set Black Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-mt3821-modified-two-component-epoxy-black-cartridge-and-accessories): Shop Permabond MT3821 at Perigee Direct for modified two-part epoxy bonding with black finish and strong structural performance.
-  Updated: 2026-02-13T23:54:56Z
+  Updated: 2026-02-23T17:36:38Z
   Vendor: Permabond
   Product Type: Modified Epoxy
   Availability: Available
@@ -18421,7 +18415,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Permabond MT3809 Epoxy Gray Medium Set – Perigee Direct](https://www.perigeedirect.com/products/permabond-modified-epoxy-mt3809-gray-490ml-cartridge-and-starter-kit): Start your order for Permabond MT3809 at Perigee Direct to get modified epoxy in a 490ml cartridge with starter kit delivering tough bonds on metals.
-  Updated: 2026-02-13T23:54:58Z
+  Updated: 2026-02-17T21:32:04Z
   Vendor: Permabond
   Product Type: Modified Epoxy
   Availability: Available
@@ -18439,7 +18433,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/35_fd83ebd1-557a-4c32-b19d-1ce0bdd4fc9e.png?v=1759001326
     Price: $149.99 USD
 - [Permabond PT321 Urethane 1-Min Fast Set – Perigee Direct](https://www.perigeedirect.com/products/permabond-urethane-pt321-50ml-cartridge-and-starter-kit): Shop Permabond PT321 urethane starter kits at Perigee Direct for reliable bonding with 50ml cartridges designed for controlled dispensing.
-  Updated: 2026-02-13T23:55:00Z
+  Updated: 2026-02-19T22:31:04Z
   Vendor: Permabond
   Product Type: Urethane
   Availability: Available
@@ -18481,7 +18475,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PT321-400ml.jpg?v=1761585943
     Price: $42.00 USD
 - [Permabond PT326 Urethane Fast Set 4–7 Min – Perigee Direct](https://www.perigeedirect.com/products/permabond-urethane-pt326-50ml-and-400ml-cartridge-and-starter-kit): Shop Permabond PT326 urethane kits at Perigee Direct for flexible tough bonding with 50ml and 400ml cartridges ready for plastic and metal jobs.
-  Updated: 2026-02-16T20:05:40Z
+  Updated: 2026-02-22T05:10:37Z
   Vendor: Permabond
   Product Type: Urethane
   Availability: Available
@@ -18527,7 +18521,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/4.5.jpg?v=1759169064
     Price: $55.00 USD
 - [Permabond PT328 Urethane Medium Set 15 Min – Perigee Direct](https://www.perigeedirect.com/products/permabond-urethane-pt328-50ml-and-400ml-cartridge-and-starter-kit): Shop Permabond PT328 urethane kits at Perigee Direct for flexible bonding, delivering durable adhesion with cartridges and starter tools.
-  Updated: 2026-02-13T23:55:06Z
+  Updated: 2026-02-18T03:50:47Z
   Vendor: Permabond
   Product Type: Urethane
   Availability: Available
@@ -18723,7 +18717,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/uuuuuu.png?v=1759000189
     Price: $349.99 USD
 - [Permabond 798 High Viscosity Fast-Set CA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-798-cyanoacrylate-high-viscosity-fast-curing-surface-insensitive-adhesive): Shop Permabond 798 cyanoacrylate adhesive featuring high viscosity, fast  speed, and surface-insensitive bonding performance.
-  Updated: 2026-02-13T23:55:08Z
+  Updated: 2026-02-17T21:32:16Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -18799,7 +18793,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/vvvvvvvv.png?v=1759001181
     Price: $549.99 USD
 - [Permabond 825 High Viscosity Fast-Set CA Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-825-cyanoacrylate-high-viscosity-fast-curing-surface-insensitive-adhesive): Shop Permabond 825 at Perigee Direct for a high-viscosity, fast-curing, surface-insensitive adhesive that fills gaps on varied plastics and parts.
-  Updated: 2026-02-16T21:50:34Z
+  Updated: 2026-02-23T22:30:47Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -18833,7 +18827,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1ozaccelerator_2892c0c7-8be7-4b58-8aa7-dcf86f9629e3.jpg?v=1762967935
     Price: $279.99 USD
 - [Permabond 910FS Ultra-Low Viscosity Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-cyanoacrylate-910fs-instant-adhesive-for-difficult-plastics-rubbers): Get Permabond 910FS at Perigee Direct for instant adhesive optimized for bonding difficult plastics and rubber where strong joins are needed.
-  Updated: 2026-02-16T20:35:44Z
+  Updated: 2026-02-17T17:45:48Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -18959,7 +18953,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/zzzzzz.png?v=1758998902
     Price: $649.99 USD
 - [Permabond 943 Low Odor Non-Fogging Instant Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-943-cyanoacrylate-instant-adhesive-low-odor-non-frosting-non-fogging-clear-thin-wicking): Discover Permabond 943 instant adhesive with low odor and non-frosting properties, perfect for wicking and precision bonding.
-  Updated: 2026-02-16T20:35:45Z
+  Updated: 2026-02-17T17:45:48Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -19005,7 +18999,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/aaaaaaaaaaaaaaaaaaaa.png?v=1758998739
     Price: $559.99 USD
 - [Maven LLDPE Natural Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-lldpe-natural-linear-low-density-polyethylene-mildly-translucent-white-plastic-welding-rods-coils-reels): Shop Maven LLDPE natural plastic welding rods at Perigee Direct for mildly translucent white linear low-density polyethylene repairs with smooth melt flow.
-  Updated: 2026-02-13T23:55:16Z
+  Updated: 2026-02-23T16:32:56Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -19107,7 +19101,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Atlas-Plastics-3mm-Round-Clear-Translucent-PVC-Plastic-Welding-Rods.NTjpg_b92526cd-0cb9-4133-a15d-e1b113149a51.jpg?v=1758993700
     Price: $169.99 USD
 - [Maven LLDPE Black Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-lldpe-black-plastic-welding-rods-coils-reels): Shop Maven LLDPE black plastic welding rods at Perigee Direct for flexible, durable welds supporting reliable repairs in low-density polyethylene plastics.
-  Updated: 2026-02-16T19:45:44Z
+  Updated: 2026-02-20T18:15:37Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -19209,7 +19203,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3mmRoundBlackPlasticWeldingRods_6bb01112-2155-4241-99cd-9a12dbdc3f22.jpg?v=1756317230
     Price: $169.99 USD
 - [Permabond 2050 Thick Gel Cyanoacrylate Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-2050-cyanoacrylate-adhesives-instant-adhesive-with-high-viscosity): Shop Permabond 2050 at Perigee Direct. High-viscosity instant adhesive for strong, fast bonds on plastics, rubber and metals. Order online today.
-  Updated: 2026-02-16T20:30:48Z
+  Updated: 2026-02-18T16:15:39Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -19331,7 +19325,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/ffff.png?v=1759000229
     Price: $719.99 USD
 - [Permabond 4C10  Grade Thin CA Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-4c10-cyanoacrylate-low-viscosity-high-purity--device-grade-cyanoacrylate-adhesive): Shop Permabond 4C10 at Perigee Direct for low-viscosity, high-purity, -grade cyanoacrylate adhesive suitable for device manufacturing work.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-20T00:15:37Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -19361,7 +19355,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/16ozaccelerator.jpg?v=1761845101
     Price: $319.99 USD
 - [Permabond 4C20 High Purity Low Viscosity Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-4c20-cyanoacrylate-low-viscosity-high-purity--device-grade-cyanoacrylate-adhesive): Buy Permabond 4C20 at Perigee Direct for low-viscosity cyanoacrylate adhesive -grade purity suited for small plastic and metal bonds.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-17T21:32:34Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -19391,7 +19385,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/4c50.png?v=1758999450
     Price: $319.99 USD
 - [Permabond TA430 Acrylic Kit + Init 41 – Perigee Direct](https://www.perigeedirect.com/products/permabond-acrylic-ta430-130ml-kit-2x65ml-syringes-1x20ml-bottle-initiator-41): Shop Permabond TA430 kits at Perigee Direct with dual syringes and Initiator 41, creating acrylic bonds on metals, plastics and composite parts.
-  Updated: 2026-02-13T23:55:27Z
+  Updated: 2026-02-17T21:32:35Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19403,7 +19397,7 @@
     Availability: Not Available
     Price: $92.00 USD
 - [Permabond TA435 Slow Set Acrylic Kit – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta435-acrylic-slow-set-30-60-min-130ml-kit-300ml-cartridges): Order Permabond TA435 at Perigee Direct for a slow-set acrylic system with thirty to sixty-minute  in a one hundred thirty ml kit or cartridge.
-  Updated: 2026-02-13T23:55:29Z
+  Updated: 2026-02-17T21:32:37Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19433,7 +19427,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/TA435300ml.jpg?v=1753728659
     Price: $61.00 USD
 - [Permabond 4C30 Intermediate Viscosity  CA – Perigee Direct](https://www.perigeedirect.com/products/permabond-4c30-cyanoacrylate-intermediate-viscosity-high-purity--device-grade-cyanoacrylate-adhesive): Choose Permabond 4C30 at Perigee Direct for high purity cyanoacrylate  for  device bonding where clean strength is needed.
-  Updated: 2026-02-13T23:55:31Z
+  Updated: 2026-02-17T21:32:39Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -19463,7 +19457,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/430.png?v=1758998694
     Price: $389.99 USD
 - [Permabond TA436 Acrylic Kit 300ml – Perigee Direct](https://www.perigeedirect.com/products/permabond-acrylic-ta436-300ml-cartridge-and-starter-kit): Shop Permabond TA436 acrylic adhesive kits at Perigee Direct for structural bonding delivering reliable performance in 300ml cartridges.
-  Updated: 2026-02-13T23:55:33Z
+  Updated: 2026-02-17T21:32:41Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19481,7 +19475,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_c926128e-ef05-4dab-8f35-872310bfeac4.jpg?v=1752861380
     Price: $102.00 USD
 - [Permabond TA437 Acrylic Kit 300ml – Perigee Direct](https://www.perigeedirect.com/products/permabond-acrylic-ta437-300ml-cartridge-and-starter-kit): Explore Permabond TA437 acrylic adhesive cartridge kit for fast strength, structural bonding, and dependable performance across metals and plastics.
-  Updated: 2026-02-13T23:55:34Z
+  Updated: 2026-02-17T21:32:42Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19499,7 +19493,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3.1_795d6e25-ed90-4d73-a9c0-6647cfee42a0.png?v=1758998689
     Price: $211.99 USD
 - [Permabond TA439 two-component Toughened Acrylic Adhesive](https://www.perigeedirect.com/products/permabond-ta439-two-component-toughened-acrylic-adhesive): Buy Permabond TA439 at Perigee Direct for two-part acrylic adhesive delivering tough structural bonds to metals, plastics, and composites.
-  Updated: 2026-02-13T23:55:36Z
+  Updated: 2026-02-17T21:32:44Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19525,7 +19519,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml_d27d1602-0b6b-4950-8055-26dc912899b8.jpg?v=1761499869
     Price: $160.00 USD
 - [Permabond 4C40 High Viscosity  Grade Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-4c40-cyanoacrylate-intermediate-viscosity-high-purity--device-grade-cyanoacrylate-adhesive): Shop Permabond 4C40 cyanoacrylate at Perigee Direct for -grade bonding delivering high purity strength with controlled viscosity.
-  Updated: 2026-02-16T20:35:38Z
+  Updated: 2026-02-17T21:32:46Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -19555,7 +19549,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/4c400.png?v=1758998528
     Price: $359.99 USD
 - [Permabond Acrylic TA440 100ml Kit A&B 50ml Bottles](https://www.perigeedirect.com/products/permabond-acrylic-ta440-100ml-kit-a-b-50ml-bottles): Shop Permabond TA440 acrylic adhesive kit with A and B bottles, delivering fast structural strength and reliable multi-material bonding.
-  Updated: 2026-02-13T23:55:40Z
+  Updated: 2026-02-17T21:32:48Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19585,7 +19579,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/5_bdab11e9-348b-4316-acfc-4429322cd71b.jpg?v=1756320961
     Price: $116.00 USD
 - [Permabond TA452 1:1 Low Odor Toughened Acrylic Glue – Perigee Direct](https://www.perigeedirect.com/products/permabond-acrylic-ta452-50ml-low-odour-2-part-1-1-toughened-acrylic-adhesive-cartridge-and-accessories): Shop Permabond TA452 at Perigee Direct for low-odor, two-part acrylic adhesives in 1 to 1 ratio cartridges and accessory kits.
-  Updated: 2026-02-13T23:55:42Z
+  Updated: 2026-02-17T21:32:51Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19623,7 +19617,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1631382115394.jpg?v=1756320531
     Price: $149.99 USD
 - [Permabond Super Glue Accessories – Perigee Direct](https://www.perigeedirect.com/products/permabond-super-glue-accessories-popular-cyanoarylate-instant-adhesive-accessories): This page shows several popular options for Super Glue uses: 1) Blue Dye: General Industrial dye for cyanoacrylates. 2) Quit Set Activator QFS10 3) Super Glue Solvent and Clean-Up Solution
-  Updated: 2026-02-13T23:55:44Z
+  Updated: 2026-02-17T21:32:52Z
   Vendor: Permabond
   Product Type: Accessories
   Availability: Available
@@ -19645,14 +19639,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/pbcasolventgl-ca-solvent-1gal.jpg?v=1752864359
     Price: $489.99 USD
 - [Permabond Blue Dye 1 Ounce](https://www.perigeedirect.com/products/permabond-blue-dye-1-ounce): Blue tint additive for Permabond adhesives that improves visibility and precision during bonding applications. Shop now today.
-  Updated: 2026-02-13T23:55:45Z
+  Updated: 2026-02-17T21:32:53Z
   Vendor: Permabond
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/cabluedye001z010_0b49cae0-60c7-485e-964c-7352d82d1c54.jpg?v=1758996346
   Price: $69.99 USD
 - [Permabond TA4207 Fast Set Acrylic 50ml – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4207-multi-purpose-50ml-fast-set-8-10-min-acrylic-adhesive-cartridge-and-accessories): Get Permabond TA4207 at Perigee Direct for an eight to ten-minute set acrylic adhesive cartridge with accessories for strong multipurpose bonding.
-  Updated: 2026-02-13T23:55:47Z
+  Updated: 2026-02-19T22:31:07Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19690,7 +19684,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1631382115394_2c7217d6-b4ad-41b6-bfcc-ba4d28f12d3d.jpg?v=1757434788
     Price: $119.99 USD
 - [Permabond TA4522 Multi-Purpose Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-acrylic-ta4522-multi-purpose-acrylic-adhesive-cartridge-and-accessories): Shop Permabond TA4522 at Perigee Direct for multipurpose acrylic adhesive cartridges and accessories designed for tough industrial joins.
-  Updated: 2026-02-13T23:55:50Z
+  Updated: 2026-02-17T21:32:58Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19728,14 +19722,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1631382115394_a25ab757-679d-467c-be4a-371633194928.jpg?v=1752866389
     Price: $159.99 USD
 - [Permabond TA4246 Acrylic Adhesive Kit 65ml – Perigee Direct](https://www.perigeedirect.com/products/permabond-acrylic-ta4246-65ml-kit-initiator-46-10ml-included): Shop Permabond TA4246 acrylic adhesive kit with initiator included, delivering fast structural strength and reliable bonding performance.
-  Updated: 2026-02-13T23:55:50Z
+  Updated: 2026-02-17T21:32:59Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/10_11599e9c-f65e-43f0-ad47-4ea4e9398ed5.jpg?v=1756316920
   Price: $39.99 USD
 - [Permabond TA4246 Medium-Set Acrylic, 65ml – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4246-toughened-acrylic-adhesive-amber-65ml-310ml): Get Permabond TA4246 at Perigee Direct for amber toughened acrylic adhesive available in 65ml and 310ml sizes for strong structural joining.
-  Updated: 2026-02-13T23:55:52Z
+  Updated: 2026-02-17T21:33:01Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19761,7 +19755,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PermabondTA4246_65mlKit_wInitiator4610mlIncluded.jpg?v=1760122529
     Price: $25.00 USD
 - [Permabond TA4605 Thick Gel Rubber Bonder – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4605-polyolefin-pe-pp-rubber-bonder-thick-gel-fast-set-5-10-min-acrylic-mma-adhesive-off-white): Find Permabond TA4605 at Perigee Direct. Thick gel acrylic bonds polyolefins and rubber with fast adhesion. Request pricing and buy today.
-  Updated: 2026-02-13T23:55:55Z
+  Updated: 2026-02-20T14:56:09Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19807,7 +19801,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/13_c0716d69-5276-4bee-9f07-c11cb2c1fb7f.jpg?v=1756318820
     Price: $100.00 USD
 - [Permabond TA4610 Gel Bonder for Rubber – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4610-polyolefin-pe-pp-teflon-ptfe-rubber-bonder-thick-gel-12-15-min-acrylic-mma-adhesive-off-white): Order Permabond TA4610 at Perigee Direct for bonding polyolefins including PE PP PTFE and rubber offering thick gel strength in 12 to 15 minutes.
-  Updated: 2026-02-13T23:55:58Z
+  Updated: 2026-02-23T14:06:07Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19853,7 +19847,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/15_9d64ad87-0a32-4430-8b0e-bdaf30a32057.jpg?v=1761840240
     Price: $95.00 USD
 - [Permabond TA4611 Thin Rubber Bonder 10m – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4611-polyolefin-pe-pp-nylon-rubber-bonder-clear-color-thin-viscosity-10-16-min-acrylic-mma-adhesive): Order Permabond TA4611 at Perigee Direct for clear polyolefin bonding on PE, PP, nylon and rubber with fast  and thin viscosity control.
-  Updated: 2026-02-13T23:56:01Z
+  Updated: 2026-02-22T23:35:47Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19911,7 +19905,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/18_e7dc2ab2-5628-4b5c-83af-ae43039b08dc.jpg?v=1763585841
     Price: $118.00 USD
 - [Permabond TA4631 Low-Odor Thin Bonder – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4631-polyolefin-pe-pp-nylon-rubber-bonder-clear-color-thin-viscosity-12-18-min-acrylic-mma-adhesive-white): Order Permabond TA4631 at Perigee Direct for white polyolefin bonding on PE, PP, nylon and rubber with thin viscosity and controlled .
-  Updated: 2026-02-16T16:30:37Z
+  Updated: 2026-02-23T23:10:37Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -19965,7 +19959,7 @@
     Availability: Not Available
     Price: $111.00 USD
 - [Permabond TA4810 Fast-Set Acrylic for Metals – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4810-fast-set-4-6-min-no-primer-metals-plastics-acrylic-adhesive-50ml-and-400ml): Get Permabond TA4810 at Perigee Direct for a fast-set four- to six-minute acrylic adhesive that bonds metals and plastics without a primer.
-  Updated: 2026-02-16T18:26:06Z
+  Updated: 2026-02-19T22:31:07Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20011,7 +20005,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/ta04810k400c1607_1.jpg?v=1757436852
     Price: $45.00 USD
 - [Permabond TA4820 Medium-Set Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4820-medium-set-15-18-min-no-primer-metals-plastics-acrylic-adhesive-50ml-and-400ml): Shop Permabond TA4820 at Perigee Direct for medium-set acrylic bonding on metals and plastics with no primer needed and strong, reliable adhesion.
-  Updated: 2026-02-13T23:56:10Z
+  Updated: 2026-02-23T17:36:37Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20057,7 +20051,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_e64a767b-5201-472e-b55f-c6e320a62da0.jpg?v=1752861372
     Price: $43.00 USD
 - [Permabond TA4590 Super Fast Set 2 - 3 min Acrylic Adhesive Kit](https://www.perigeedirect.com/products/permabond-ta4590-toughened-acrylic-adhesive-kit): Buy Permabond TA4590 at Perigee Direct for toughened acrylic adhesive kit optimized for structural joints with impact and vibration resistance.
-  Updated: 2026-02-13T23:56:12Z
+  Updated: 2026-02-17T21:33:22Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20079,7 +20073,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/25_b68d2756-1531-4476-9799-97ec2fe3cf99.jpg?v=1753724882
     Price: $170.00 USD
 - [Permabond Epoxy Primer 2K Indicator 20 Gram – Perigee Direct](https://www.perigeedirect.com/products/permabond-primer-2k-surface-preparation-for-metals-glass-plastics-20-gram-2-part-kit): Shop Permabond Primer 2K at Perigee Direct for surface preparation of metals glass and plastics improving two-part adhesive bonding and durability.
-  Updated: 2026-02-14T17:54:13Z
+  Updated: 2026-02-18T22:52:18Z
   Vendor: Permabond
   Product Type: Primers
   Availability: Available
@@ -20093,7 +20087,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/44ed41_1a61667a02714b56bedcd29c6ef1c95e_mv2_d_1680_2848_s_2.webp?v=1759759478
     Price: $14.00 USD
 - [Permabond Initiator 46 for TA4246 Kit – Perigee Direct](https://www.perigeedirect.com/products/permabond-initiator-46-for-use-with-permabond-ta4246-toughened-structural-acrylic-adhesive): Choose Permabond Initiator 46 at Perigee Direct to support TA4246 and other toughened acrylics by improving  on passive surfaces.
-  Updated: 2026-02-13T23:56:14Z
+  Updated: 2026-02-17T21:33:25Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20115,7 +20109,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/intiator_46_liter_1.jpg?v=1753724428
     Price: $302.00 USD
 - [Nordson 260 Wide Mixing Nozzle Super Thick Flow – Perigee Direct](https://www.perigeedirect.com/products/nordson-series-260-wide-mixing-nozzle-for-thinck-material-2-sizes-24-element-11-7-in-7701770-and-18-element-9-1in-7701758-x-13mm-inner-diameter-id): Shop Nordson Series 260 mixing nozzles at Perigee Direct for wide flow handling of thick two-part materials with 18- or 24-element designs.
-  Updated: 2026-02-10T18:05:44Z
+  Updated: 2026-02-20T22:09:29Z
   Vendor: Nordson EFD
   Product Type: Mixing Nozzles
   Availability: Available
@@ -20177,7 +20171,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nordson-Series-260-13mm-ID-x-24-element.jpg?v=1756320258
     Price: $1,633.99 USD
 - [Permabond 802 High Viscosity Surface Insensitive CA – Perigee Direct](https://www.perigeedirect.com/products/permabond-802-cyanoacrylate-high-viscosity-fast-curing-surface-insensitive-adhesive): Buy Permabond 802 at Perigee Direct for surface-insensitive cyanoacrylate that cures fast with high-viscosity gap-filling performance.
-  Updated: 2026-02-13T23:56:16Z
+  Updated: 2026-02-17T21:33:26Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -20199,7 +20193,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/802_2_ef60a13f-13d3-4922-950e-f7d3691d7a47.jpg?v=1756319162
     Price: $184.00 USD
 - [Permabond Anaerobic LH150 Pipe Sealant Anaerobic Adhesive](https://www.perigeedirect.com/products/permabond-anaerobic-lh150-anaerobic-retaining-compound-adhesive): Shop Permabond LH150 at Perigee Direct for anaerobic retaining compound bonding that secures cylindrical parts with high strength and durability.
-  Updated: 2026-02-13T23:56:18Z
+  Updated: 2026-02-17T21:33:29Z
   Vendor: Permabond
   Product Type: Anaerobics
   Availability: Available
@@ -20235,7 +20229,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/0619315.jpg?v=1719877015
     Price: $179.00 USD
 - [Permabond 2011 Thixotropic CA Fast Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-2011-is-a-thixotropic-fast-setting-cyanoacrylate-adhesive): Shop Permabond 2011 cyanoacrylate at Perigee Direct for fast-setting bonding delivering thixotropic control on vertical applications.
-  Updated: 2026-02-13T23:56:20Z
+  Updated: 2026-02-17T21:33:30Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -20257,7 +20251,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/permabond-2011-300g_431x431_bede95eb-d357-43bf-8e14-136d019ee1d6.webp?v=1753729025
     Price: $143.00 USD
 - [Permabond Initiator 44 for TA Series – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta-initiator-44-toughened-structural-acrylic-adhesive): Choose Permabond TA Initiator 44 at Perigee Direct to activate structural acrylic adhesives for reliable bonding of metals and composite parts.
-  Updated: 2026-02-13T23:56:22Z
+  Updated: 2026-02-17T21:33:32Z
   Vendor: Permabond
   Product Type: Activators
   Availability: Available
@@ -20287,7 +20281,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/44_1588cc44-8782-4d6f-a122-ae4a41a845b5.jpg?v=1758995794
     Price: $170.00 USD
 - [Permabond Initiator 41 for TA Series – Perigee Direct](https://www.perigeedirect.com/products/permabond-initiator-41-for-use-with-the-ta-series-of-toughened-structural-acrylic-adhesive): Shop Permabond Initiator 41 at Perigee Direct to accelerate  speed for TA series toughened structural acrylic adhesives.
-  Updated: 2026-02-13T23:56:24Z
+  Updated: 2026-02-17T21:33:34Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20317,7 +20311,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/41.1_6f597315-ebcd-4369-a264-ebe016ec87f8.jpg?v=1757954597
     Price: $214.00 USD
 - [Permabond Initiator 43 for TA Series – Perigee Direct](https://www.perigeedirect.com/products/permabond-initiator-43-for-use-with-the-ta-series-of-toughened-structural-acrylic-adhesive): Shop Permabond Initiator 43 at Perigee Direct to support TA series acrylic adhesives and speed  for tough structural bonding applications.
-  Updated: 2026-02-13T23:56:26Z
+  Updated: 2026-02-17T21:33:37Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20385,14 +20379,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Trivantage7-8InBlackFlameRetardantFabricTape500594.jpg?v=1753725979
     Price: $59.99 USD
 - [Maven DS53 Kit for 50ml S-Type Epoxies 1:1 & 2:1 – Perigee Direct](https://www.perigeedirect.com/products/maven-ds53-dispenser-kit-for-50ml-s-type-adhesives-1-1-2-1-ratios): Shop Maven DS53 dispenser kits at Perigee Direct for accurate 50ml S type adhesive dispensing across 1:1 and 2:1 ratios.
-  Updated: 2026-02-13T23:56:27Z
+  Updated: 2026-02-17T21:33:37Z
   Vendor: MixPac
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/DentalImpressionGun_1-1_2-1.jpg?v=1753724451
   Price: $19.99 USD
 - [CS-NRI EPN-101 Epoxy Paste Filler – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-epn-101-two-part-epoxy-paste-filler-aka-epn-101-1pt): Shop CS NRI EPN 101 epoxy paste filler at Perigee Direct for strong gap-filling repairs delivering durable two-part bonding performance.
-  Updated: 2026-02-13T23:56:28Z
+  Updated: 2026-02-17T21:33:39Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -20436,7 +20430,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/viper-skin-1.jpg?v=1756316536
     Price: $1,313.62 USD
 - [SynthoGlass PPR-220 two-part epoxy Primer (aka SUBLV)](https://www.perigeedirect.com/products/cs-nri-ppr-220-two-part-epoxy-primer-aka-ppr-220-1qt): Get CS NRI PPR 220 at Perigee Direct for two-part epoxy primer sold as PPR 220 quart units for preparing repair sites on coated materials.
-  Updated: 2026-02-13T23:56:30Z
+  Updated: 2026-02-17T21:33:41Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -20454,7 +20448,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot_2024-10-16_155338.jpg?v=1729204979
     Price: $397.66 USD
 - [LORD Maxlok T3 MX 3-5 Min Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents): Shop LORD Maxlok T3 MX at Perigee Direct for a non-sag acrylic adhesive offering strength and resistance to temperature and moisture.
-  Updated: 2026-02-13T23:56:32Z
+  Updated: 2026-02-17T21:33:43Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20492,53 +20486,53 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_44dbca2a-e5f6-42aa-94e5-7377f8f5c2ec.jpg?v=1756321040
     Price: $189.99 USD
 - [LORD Maxlok T18 Medium Set Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents): Get LORD MaxLok T3 at Perigee Direct for one-to-one acrylic adhesive that applies non-sag with resistance to moisture, solvents and heat.
-  Updated: 2026-02-13T23:56:35Z
+  Updated: 2026-02-19T12:35:23Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_5a2e8a76-cb94-4c48-8806-a543bf5683b1.jpg?v=1719877239
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/T18Fix.jpg?v=1771435131
   - [T18 (50ml) - 3021934 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=43669000945918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_5a2e8a76-cb94-4c48-8806-a543bf5683b1.jpg?v=1719877239
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/T18Fix.jpg?v=1771435131
     Price: $29.99 USD
   - [415ml - 3032005 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=44098347565310)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_MXT18_415ml_4-scaled.webp?v=1761499913
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_MXT18_415ml_4-scaled.webp?v=1771433295
     Price: $99.99 USD
   - [T18 (50ml) - 3021934 / Starter Kit with Caulk Gun Adapter](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=44160224723198)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord-_formula_-50ml_Nozzle.jpg?v=1760761615
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcaulking_14bd89a4-d7d9-4cf2-a54e-7661fd4f4dea.jpg?v=1771435134
     Price: $39.99 USD
   - [T18 (50ml) - 3021934 / Starter Kit with Dispenser](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=44160224755966)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_T18_50ml_Gun_Kit_copy.jpg?v=1760761615
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgunkit_0ce3a876-967a-4738-a807-943d377b96ae.jpg?v=1771435496
     Price: $74.99 USD
   - [T18 (50ml) - 3021934 / Starter Kit with Small Hand Plunger](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=44160224788734)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord-_formula_-50ml-Vertica.jpg?v=1760761615
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlplunger_a4afba45-612e-4718-b3b4-1abeb9102d10.jpg?v=1771435495
     Price: $35.99 USD
   - [415ml - 3032005 / Starter Kit with Dispenser](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=44160224821502)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_eac2ded2-a7b1-48b5-b4d8-232cf51af1d8.jpg?v=1760761615
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_eac2ded2-a7b1-48b5-b4d8-232cf51af1d8.jpg?v=1771433295
     Price: $199.99 USD
   - [Short Shelf Life (1-3 mths remain) / T18 (50ml) - 3021934](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=47435502584062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_5a2e8a76-cb94-4c48-8806-a543bf5683b1.jpg?v=1719877239
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/T18Fix.jpg?v=1771435131
     Price: $22.99 USD
   - [Recently Expired / T18 (50ml) - 3021934](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=47435502682366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2_5a2e8a76-cb94-4c48-8806-a543bf5683b1.jpg?v=1719877239
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/T18Fix.jpg?v=1771435131
     Price: $15.00 USD
   - [Short Shelf Life (1-3 mths remain) / 415ml - 3032005](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=47435702829310)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_MXT18_415ml_4-scaled.webp?v=1761499913
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_MXT18_415ml_4-scaled.webp?v=1771433295
     Price: $74.00 USD
   - [Recently Expired / 415ml - 3032005](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents?variant=47435718295806)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_MXT18_415ml_4-scaled.webp?v=1761499913
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord_MXT18_415ml_4-scaled.webp?v=1771433295
     Price: $57.00 USD
 - [LORD Maxlok T6 Fast Set Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-maxlok-t3-mx-3022875-1-1-ratio-acrylic-adhesive-non-sagging-and-resistance-to-temperature-moisture-solvents-1): Find Lord MaxLok T3 at Perigee Direct. Non-sag acrylic adhesive resisting temperature, moisture and solvents for durable bonding. Order today.
-  Updated: 2026-02-13T23:56:38Z
+  Updated: 2026-02-19T22:30:52Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20584,7 +20578,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50MLOnly_e8d00c0b-5955-46ae-b764-b93cb8c9943f.jpg?v=1761499965
     Price: $15.00 USD
 - [LORD 201/19 Temp-Resistant Epoxy 5–8 min – Perigee Direct](https://www.perigeedirect.com/products/lord-201-19-temperature-resistant-2-1-ratio-two-component-acrylic-adhesive3020987-or-3020500): Buy LORD 201 acrylic adhesive with 2:1 mix ratio, offering temperature resistance, strong bonds, and durability across demanding materials.
-  Updated: 2026-02-13T23:56:40Z
+  Updated: 2026-02-17T21:33:51Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20618,115 +20612,115 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lordcorporation-30914_3020987_dv_webxl.jpg?v=1753725893
     Price: $15.00 USD
 - [LORD 403/19 Super Fast Low Temp Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives): Shop Lord 403/19 at Perigee Direct for versatile, nonsag acrylic bonding that maintains strength across temperature changes and demanding assemblies.
-  Updated: 2026-02-13T23:56:43Z
+  Updated: 2026-02-19T17:18:39Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lor403-19-50ml-img.jpg?v=1756316348
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml_493503e4-04b8-43bf-a37a-1a0f0d962f24.jpg?v=1771521518
   - [50ml - 3021003 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=43678033314046)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lordcorporation-30914_3020502_dv_webxl.jpg?v=1756316350
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml_493503e4-04b8-43bf-a37a-1a0f0d962f24.jpg?v=1771521518
     Price: $29.99 USD
   - [375ml CX - 3021004 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44688560324862)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/download_15.jpg?v=1720111850
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/download_15.jpg?v=1771435127
     Price: $69.99 USD
   - [375ml Black - 3021005 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44688560357630)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_488c5924-2c08-422b-abe1-cc0d935eb41f.png?v=1759000839
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_488c5924-2c08-422b-abe1-cc0d935eb41f.png?v=1771435127
     Price: $94.99 USD
   - [375ml - GB-Glass Beads - 3020502 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44688560390398)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_2.png?v=1759000838
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_2.png?v=1771435127
     Price: $79.99 USD
   - [375ml- GB-Glass Beads - Red - 3021064 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44688560423166)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_1.png?v=1759000837
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_1.png?v=1771435127
     Price: $96.99 USD
   - [375ml - GB-Glass Beads - 3020497 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44688560455934)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_1.png?v=1759000837
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_403_19_gb_300ml_75ml_1.png?v=1771435127
     Price: $96.99 USD
   - [50ml - 3021003 / Starter Kits](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44688560292094)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/403-19_50ml_Gun_Kit_copy.jpg?v=1756316356
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgunkit_142824d3-e630-4244-8abf-639a9bb186f6.jpg?v=1771521518
     Price: $69.99 USD
   - [375ml CX - 3021004 / Starter Kits](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=43678033346814)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-Large-Cartridge-Di.jpg?v=1756316355
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-Large-Cartridge-Di.jpg?v=1771435127
     Price: $144.99 USD
   - [375ml Black - 3021005 / Starter Kits](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=43678033412350)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_3cdd970a-329e-4e6d-8d61-1069369ebad6.jpg?v=1756316354
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_3cdd970a-329e-4e6d-8d61-1069369ebad6.jpg?v=1771435127
     Price: $188.99 USD
   - [375ml - GB-Glass Beads - 3020502 / Starter Kits](https://www.perigeedirect.com/products/lord-403-19-ratio-4-1-3021003-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=43678033379582)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_3cdd970a-329e-4e6d-8d61-1069369ebad6.jpg?v=1756316354
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_3cdd970a-329e-4e6d-8d61-1069369ebad6.jpg?v=1771435127
     Price: $179.99 USD
 - [LORD 406/19 Fast Set Temp-Resistant Gel – Perigee Direct](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives): Find Lord 406/19 at Perigee Direct, a versatile non-sag acrylic adhesive offering strong, temperature-resistant structural bonding. Shop now.
-  Updated: 2026-02-13T23:56:47Z
+  Updated: 2026-02-23T19:46:07Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml.png?v=1758998447
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcartridge_e7a72a01-cb7b-4361-8d91-ce8cd7241610.jpg?v=1771435479
   - [50ml - 3021024 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=43678413553918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml.png?v=1758998447
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcartridge_e7a72a01-cb7b-4361-8d91-ce8cd7241610.jpg?v=1771435479
     Price: $32.99 USD
   - [50ml - 3021024 / Starter Kit with Caulk Gun Adapter](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44160225476862)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml_master_copy.jpg?v=1752866705
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlmastercopy.jpg?v=1771435481
     Price: $42.99 USD
   - [50ml - 3021024 / Starter Kit with Dispenser](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44160225509630)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml_gun.jpg?v=1752866706
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgun_31715ace-09d3-42ae-9d0b-844f800b922a.jpg?v=1771435482
     Price: $78.99 USD
   - [50ml - 3021024 / Starter Kit with Small Hand Plunger](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44160225542398)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlplunger_de2bde04-1508-48e6-98c7-e14c82fd2240.jpg?v=1760203749
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlplunger_64d622c4-d584-49f5-8ae1-e944dfab0387.jpg?v=1771435480
     Price: $42.99 USD
   - [405ml Coax - 3021011 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=43678413586686)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_406_19_404ml.png?v=1758998448
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_406_19_404ml.png?v=1771434047
     Price: $89.99 USD
   - [405ml Coax - 3021011 / Starter Kit with Dispenser](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=44160225771774)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/375ml_gun.jpg?v=1752866709
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/375ml_gun.jpg?v=1771434047
     Price: $169.99 USD
   - [415ml - 3032029 / Cartridges & Nozzles](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=45371416281342)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_415_3.png?v=1758998449
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_415_3.png?v=1771434047
     Price: $99.99 USD
   - [415ml - 3032029 / Starter Kit with Dispenser](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=45371416346878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_gun_7a4a21c4-320d-42ab-afa0-c7b6cb45dbf7.jpg?v=1752866707
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_gun_7a4a21c4-320d-42ab-afa0-c7b6cb45dbf7.jpg?v=1771434047
     Price: $189.99 USD
   - [Short Shelf Life (1-3 Months) / 50ml - 3021024](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=46360521736446)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml.png?v=1758998447
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcartridge_e7a72a01-cb7b-4361-8d91-ce8cd7241610.jpg?v=1771435479
     Price: $22.00 USD
   - [Recently Expired / 50ml - 3021024](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=47438777188606)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50ml.png?v=1758998447
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcartridge_e7a72a01-cb7b-4361-8d91-ce8cd7241610.jpg?v=1771435479
     Price: $15.00 USD
   - [Short Shelf Life (1-3 Months) / 404ml Coax - 3021011](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=47438779941118)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_406_19_404ml.png?v=1758998448
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_406_19_404ml.png?v=1771434047
     Price: $65.00 USD
   - [Recently Expired / 404ml Coax - 3021011](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=47438779973886)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_406_19_404ml.png?v=1758998448
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord_406_19_404ml.png?v=1771434047
     Price: $48.00 USD
   - [Short Shelf Life (1-3 Months) / 415ml - 3032029](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=47438780006654)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_415_3.png?v=1758998449
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_415_3.png?v=1771434047
     Price: $75.00 USD
   - [Recently Expired / 415ml - 3032029](https://www.perigeedirect.com/products/lord-406-19-ratio-4-1-versatile-temperature-resistant-non-sag-acrylic-adhesives?variant=47438780694782)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_415_3.png?v=1758998449
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_415_3.png?v=1771434047
     Price: $53.00 USD
 - [LORD 406/17 Fast Setting (4-6 Minute) Acrylic Adhesive](https://www.perigeedirect.com/products/lord-406-17-3021009-10-1-ratio-cartridge-acrylic-adhesive): Buy Lord 406 at Perigee Direct for acrylic cartridge adhesive giving durable bonds on composites, metals, and structural applications.
-  Updated: 2026-02-13T23:56:49Z
+  Updated: 2026-02-17T21:34:00Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20764,7 +20758,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord-406-17-adhesive-off-white-200ml_431x431_01dc3773-034e-4cd4-b52d-859b09c26222.jpg?v=1770054657
     Price: $36.99 USD
 - [Lord 410/19GB Medium-Set Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-410-19gb-medium-set-20-30-minute-low-temperature-resistant-non-sag-acrylic-adhesives): Buy LORD 410 19GB at Perigee Direct for 20 to 30 minute acrylic adhesive, non sag and low-temperature resistant for demanding bonding projects.
-  Updated: 2026-02-13T23:56:50Z
+  Updated: 2026-02-17T21:34:01Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20778,7 +20772,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-410-19GB-415ml-Gun-Kit.jpg?v=1764004773
     Price: $169.99 USD
 - [LORD 606/6GB Medium Set Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-606-17-3023348-cx-10-1-ratio-two-component-acrylic-adhesive): Get LORD 606 17 at Perigee Direct for a ten-to-one acrylic adhesive that bonds composite parts with reliable strength in two-component designs.
-  Updated: 2026-02-13T23:56:52Z
+  Updated: 2026-02-17T21:34:04Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -20812,7 +20806,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/606gb-lor2.png?v=1756319746
     Price: $66.00 USD
 - [Lord 7100AB Urethane Adhesive](https://www.perigeedirect.com/products/lord-7100a-b-black-urethane-adhesive-for-most-plastics-painted-metals-rubbers-foam-powder-coated-metals-paper-cloth-etc): Get LORD 7100 at Perigee Direct for black urethane adhesive bonding plastics, painted metals, rubber, foam and coated metals with strong durable hold.
-  Updated: 2026-02-13T23:56:55Z
+  Updated: 2026-02-17T21:34:06Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -20850,7 +20844,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord-_formula_-50ml-Cartrid_08a9725a-5aca-45d4-b627-dd10e1715cae.jpg?v=1758995984
     Price: $149.99 USD
 - [Lord 7150AB High Strength Adhesive](https://www.perigeedirect.com/products/lord-7150-a-b-3012639-ratio-1-2-two-component-room-temperature-curing-high-strength-urethane-adhesive): Get LORD 7150 A/B at Perigee Direct for two-component room-temperature urethane adhesive with high-strength bonding on composites and primed metals.
-  Updated: 2026-02-13T23:56:57Z
+  Updated: 2026-02-17T21:34:09Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -20892,7 +20886,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord-30914_3012639-cartridge_dv_webxl_1.jpg?v=1752866192
     Price: $39.00 USD
 - [LORD 7542 Flowable Urethane Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-7542-urethane-adhesive-system-thin-viscosity-flowable-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Shop LORD 7542 at Perigee Direct for thin flow urethane bonding with configurable set times and high strength on FRP, SMC, plastics and metals.
-  Updated: 2026-02-14T10:20:42Z
+  Updated: 2026-02-19T22:30:52Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -21034,7 +21028,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/7542A-B200ml.jpg?v=1756320383
     Price: $38.00 USD
 - [LORD 7545 A/F Slow Set Urethane Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-f-slow-set-45-65-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Shop LORD 7545 A/F urethane adhesive at Perigee Direct for non-sag structural bonding delivering high strength on plastics and metals.
-  Updated: 2026-02-13T23:57:10Z
+  Updated: 2026-02-17T21:34:21Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -21096,7 +21090,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.3_c3818ed8-cf9c-40f3-886c-922623f2cae8.webp?v=1761586105
     Price: $48.00 USD
 - [LORD 7550 A/C Fast Set Self-Leveling Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-7550-a-c-3003953-ratio-1-1-fast-set-3-5-min-thin-flowable-self-leveling-urethane-adhesives): Find Lord 7550 at Perigee Direct. Fast-setting urethane adhesive with self-leveling flow for strong, reliable bonds. Add to your cart today.
-  Updated: 2026-02-16T19:25:43Z
+  Updated: 2026-02-19T22:30:47Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -21142,7 +21136,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord-7550-adhesive-clear-50ml_431x431_5d99a088-795e-4a5b-aaee-3cd2fe246c6c.jpg?v=1756318340
     Price: $43.00 USD
 - [LORD 7555 A/C & A/E White Gel Urethane Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-7555-a-c-7555-a-e-ratio-1-1-white-non-sag-gel-urethane-adhesives): Get LORD 7555 at Perigee Direct for a one-to-one ratio white non-sag gel urethane that delivers high-strength adhesive performance on plastics.
-  Updated: 2026-02-13T23:57:16Z
+  Updated: 2026-02-17T21:34:27Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -21184,7 +21178,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/10_bc03b69f-b3ba-4a49-8361-e06b659bd017.webp?v=1756317267
     Price: $75.00 USD
 - [LORD 305-1/305-2 1:1 General Purpose Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-305-1-305-2-3003559-or-3003558-ratio-1-1-general-purpose-epoxy-adhesive): Stock LORD 305 at Perigee Direct for one-to-one epoxy adhesive that gives balanced  strength for repairs, assemblies and bonding.
-  Updated: 2026-02-13T23:57:19Z
+  Updated: 2026-02-17T21:34:30Z
   Vendor: Lord
   Product Type: Epoxy
   Availability: Available
@@ -21234,7 +21228,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord-305-5gal_170x170_50c62a36-b449-4f27-b2a1-ef6306478e62.jpg?v=1758995685
     Price: $1,114.99 USD
 - [LORD 310-A/310-B Slow Set Epoxy Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-305-1-305-2-3003559-ratio-1-1-general-purpose-epoxy-adhesive): Shop LORD 305 epoxy adhesive at Perigee Direct for 1:1 general-purpose bonding, delivering consistent strength across metals plastics and composites.
-  Updated: 2026-02-13T23:57:22Z
+  Updated: 2026-02-19T22:30:53Z
   Vendor: Lord
   Product Type: Epoxy
   Availability: Available
@@ -21280,7 +21274,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_2feb6feb-e2b1-43ac-8715-8c9f82cd103c.jpg?v=1752862587
     Price: $145.99 USD
 - [LORD 320/310-B Rubber Bonder Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-320-310-b-grey-or-black-rubber-bonder-epoxy-adhesive): Shop LORD 320/310 rubber bonder epoxy at Perigee Direct for flexible bonding delivering strong adhesion to rubber metals and plastics.
-  Updated: 2026-02-13T23:57:26Z
+  Updated: 2026-02-17T21:34:37Z
   Vendor: Lord
   Product Type: Epoxy
   Availability: Available
@@ -21342,7 +21336,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcartridge_f172bae5-6049-4171-b9b9-308dc14ee4cb.jpg?v=1752867470
     Price: $40.00 USD
 - [LORD 320/322 Medium Set General Purpose Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-320-322-3003632-ratio-1-1-general-purpose-epoxy-adhesive): Shop LORD 320/322 epoxy adhesive at Perigee Direct for general-purpose 1:1 bonding delivering dependable strength and consistent performance.
-  Updated: 2026-02-13T23:57:30Z
+  Updated: 2026-02-23T17:36:26Z
   Vendor: Lord
   Product Type: Epoxy
   Availability: Available
@@ -21412,7 +21406,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/lord320-322200ML.png?v=1759001569
     Price: $35.00 USD
 - [LORD 363-A/B Extra Fast Thin Flowable Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-363-a-363-b-3003647-extra-fast-setting-thin-flowable-general-purpose-epoxy-adhesive): Shop LORD 363 A B at Perigee Direct for extra-fast-set, thin-flow epoxy that bonds mixed materials on quick repair and shop assembly tasks.
-  Updated: 2026-02-13T23:57:31Z
+  Updated: 2026-02-17T21:34:42Z
   Vendor: Lord
   Product Type: Epoxy
   Availability: Available
@@ -21476,7 +21470,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord5-GallonPail_fde98f87-e208-4ae5-ad33-0997ede64234.png?v=1759000656
     Price: $3,814.99 USD
 - [Maven EA 505 GEL 5-Min Thick Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-505-gel-fast-set-5-min-epoxy-thick-gel-thixotropic-viscosity-clear-1-1-ratio): Shop Maven EA 505 gel at Perigee Direct for five minute fast set thick gel epoxy with thixotropic flow for controlled clear industrial bonds.
-  Updated: 2026-02-13T23:57:35Z
+  Updated: 2026-02-19T22:30:57Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -21526,7 +21520,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenAdhesivesLogo-WithCatchphrase_f8c7397e-8a16-4941-a533-f82b8308d716.jpg?v=1753728502
     Price: $129.99 USD
 - [Permabond HH040 PURE Retaining Compound – Perigee Direct](https://www.perigeedirect.com/products/permabond-anaerobic-retaining-compound-hh040-pure-colorless-potable-water-safe): Buy Permabond HH040 at Perigee Direct for clear anaerobic retaining safe for potable water, securing bearings, shafts and cylindrical parts.
-  Updated: 2026-02-13T23:57:37Z
+  Updated: 2026-02-17T21:34:48Z
   Vendor: Permabond
   Product Type: Retaining Compound
   Availability: Available
@@ -21635,7 +21629,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/HAZMAT-GROUND.jpg?v=1758996582
   Price: $50.00 USD
 - [Lord 459T (Toulene solvent) One Coat Adhesion Enhancer/Surface Modifier to enhance bonding to HDPE, MDPE, LDPE, UHMW, LLDPE, Rubber, polypropylene, PP, EDPM](https://www.perigeedirect.com/products/lord-459t-one-coat-adhesion-enhancer-surface-modifier): LORD 459T (Toulene solvent) adhesion enhancer/surface modifier is designed for promoting adhesion to thermoplastic elastomers (TPE), thermoplastic polyolefins (TPO) and EPDM. LORD 459T adhesion enhancer/surface modifier is in toluene solvent, diluted for direct application. Recommended for polyolefins (TPO) and thermoplastic elastomers (TPE) such as HDPE, MDPE, LDPE, PP plastics, as well as natural rubber and EPDM. LORD 459T adhesion enhancer/surface modifier can be used in conjunction with LORD acrylic adhesives, urethane adhesives and epoxy structural adhesives, as well as with a variety of double-sided tapes. Shelf LifeShelf life is six months from date of shipment when stored at 70-80°F (21-27°C) in original, unopened container. Features and Benefits• Versatile – enhances adhesion to difficult-to-bond elastomers, increasing the adhesion of coatings, double-sided tape and adhesives.• Easy to Apply – low viscosity allows for easy application; no mixing required.• Convenient – requires very low dry film weights to enhance adhesion to coatings and double-sided tapes. Part Numbers: 4-ounce bottle 3003726 1-gallon bottle 3003729 Description LORD® 459T adhesion enhancer/surface modifier is designed for promoting adhesion to thermoplastic elastomers (TPE), thermoplastic polyolefins (TPO) and EPDM. LORD 459T adhesion enhancer/surface modifier is in toluene solvent, diluted for direct application. LORD 459T adhesion enhancer/surface modifier can be used in conjunction with LORD acrylic adhesives, urethane adhesives and epoxy structural adhesives, as well as with a variety of double-sided tapes. Features and Benefits Versatile – enhances adhesion to difficult-to-bond elastomers, increasing the adhesion of coatings, double-sided tape and adhesives.Easy to Apply – low viscosity allows for easy application; no mixing required.Convenient – requires very low dry film weights to enhance adhesion to coatings and double-sided tapes Appearance Straw Yellow Liquid Viscosity, cP @ 77°F (25°C) 1-15 Density lb/gal (kg/m3) 7.2-7.35 (863-881) Solids Content by Weight, % 4.0-5.25 Flash Point (Seta), °F (°C) 48 (9) Solvents Toluene
-  Updated: 2026-02-13T23:57:38Z
+  Updated: 2026-02-17T21:34:49Z
   Vendor: Lord
   Product Type: Primers
   Availability: Available
@@ -21649,7 +21643,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3_c2bf558a-e05e-44d5-a734-46c9266f77c1.jpg?v=1756317828
     Price: $152.99 USD
 - [Lord 7701 Adhesion Enhancer for Rubber – Perigee Direct](https://www.perigeedirect.com/products/lord-chemlok-7701-adhesion-enhancer-surface-modifier-for-vulcanized-rubbers-natural-rubbers-synthetic-rubbers-like-epdm-nitrile): Discover Chemlok 7701 at Perigee Direct. Surface  to enhance adhesion on vulcanized natural and synthetic rubber. Request details today.
-  Updated: 2026-02-13T23:57:40Z
+  Updated: 2026-02-19T22:45:38Z
   Vendor: Lord
   Product Type: Primers
   Availability: Available
@@ -21679,7 +21673,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/5_d8763902-c406-4e7b-b58a-c6ee26734023.jpg?v=1770829453
     Price: $125.00 USD
 - [LORD Signlok 403 Extra Fast Temp-Resistant Gel – Perigee Direct](https://www.perigeedirect.com/products/lord-signlok-403-extra-fast-setting-2-4-minute-non-sag-temperature-resistant-mma-adhesive): Shop LORD Signlok 403 at Perigee Direct for extra-fast 2- to 4-minute non-sag MMA adhesive that handles heat and vibration well.
-  Updated: 2026-02-13T23:57:41Z
+  Updated: 2026-02-17T21:34:52Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -21693,7 +21687,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-305-1-2-Large-Cartridg_2d60f5b2-47b1-42e7-ab4e-ee2037d14423.jpg?v=1758997022
     Price: $134.99 USD
 - [LORD Signlok 406 Fast Setting Temp-Resistant Gel – Perigee Direct](https://www.perigeedirect.com/products/lord-signlok-406-225ml-cartridge-non-sag-versatile-and-temperature-resistant-two-component-adhesive): Shop LORD Signlok 406 adhesive at Perigee Direct for non-sag structural bonding, delivering temperature resistance and versatile two-part performance.
-  Updated: 2026-02-13T23:57:42Z
+  Updated: 2026-02-17T21:34:53Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -21711,7 +21705,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Lord-Signlok-406-Cartridge-New-122022-copy.jpg?v=1753729185
     Price: $30.00 USD
 - [LORD Signlok 810 Medium Set MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-signlok-810-225ml-cartridge-non-sag-versatile-and-temperature-resistant-two-component-adhesive): Order LORD Signlok 810 at Perigee Direct for a non-sag two-part adhesive in a 225ml cartridge built for versatile temperature-resistant bonding.
-  Updated: 2026-02-13T23:57:43Z
+  Updated: 2026-02-17T21:34:54Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -21725,14 +21719,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Lord-Signlok-810-Cartridge-210ml-3031523.jpg?v=1758996396
     Price: $149.99 USD
 - [LORD Signlok 204 Non-Sag Temp-Resistant Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-signlok-204-225ml-cartridge-non-sag-versatile-and-temperature-resistant-two-component-adhesive): Shop Lord Signlok 204 at Perigee Direct for a non-sag, versatile adhesive that cures strong and resists temperature for professional bonding.
-  Updated: 2026-02-13T23:57:44Z
+  Updated: 2026-02-17T21:34:55Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.5_5bf07514-3c5e-4a38-96ff-06967faaee70.jpg?v=1756317730
   Price: $45.99 USD
 - [LORD 201 Adhesive User-Controlled Set – Perigee Direct](https://www.perigeedirect.com/products/lord-201-acrylic-adhesive-user-controled-set-time-low-viscosity-flowable-brush-on-versatile-and-temperature-resistant-225ml-40lb): Get LORD 201 acrylic adhesive at Perigee Direct for low-viscosity brush-on bonding with user-controlled set time and temperature resistance.
-  Updated: 2026-02-13T23:57:45Z
+  Updated: 2026-02-17T21:34:56Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -21778,7 +21772,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Maven-CA-Solvent-100.jpg?v=1758993732
     Price: $19.99 USD
 - [Permabond LH056 Chemical-Resistant Sealant – Perigee Direct](https://www.perigeedirect.com/products/permabond-lh056-non-aggressive-excellent-chemical-and-temperature-resistance-anaerobic-adhesive): Order Permabond LH056 at Perigee Direct for anaerobic adhesive with chemical and temperature resistance for thread sealing in harsh conditions.
-  Updated: 2026-02-16T15:15:44Z
+  Updated: 2026-02-17T21:34:58Z
   Vendor: Permabond
   Product Type: Anaerobics
   Availability: Available
@@ -21800,7 +21794,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/aa000560750b0101_1.jpg?v=1753724972
     Price: $64.00 USD
 - [Permabond 170 Methyl Cyanoacrylate Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-170-high-viscosity-liquid-methyl-cyanoacrylate-adhesive): Buy Permabond 170 at Perigee Direct for high-viscosity liquid cyanoacrylate adhesive designed for tough bonding tasks on plastics and metals.
-  Updated: 2026-02-13T23:57:48Z
+  Updated: 2026-02-17T21:34:59Z
   Vendor: Permabond
   Product Type: Instant Adhesives
   Availability: Available
@@ -21812,7 +21806,7 @@
     Availability: Not Available
     Price: $180.00 USD
 - [Permabond ET5422 Shock Resistant Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/permabond-et5422-cartridge-1-1-thixotropic-two-part-adhesive-with-excellent-resistance): Shop Permabond ET5422 at Perigee Direct for thixotropic two-part adhesive in a 1-to-1 cartridge with long-term resistance to harsh conditions.
-  Updated: 2026-02-13T23:57:50Z
+  Updated: 2026-02-22T21:10:48Z
   Vendor: Permabond
   Product Type: Epoxy
   Availability: Available
@@ -21854,7 +21848,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlcartridge_6e30905b-ebff-4363-b0f4-0514ab1fb5ee.jpg?v=1761499797
     Price: $17.00 USD
 - [Permabond TA4204 Toughened Acrylic 1:1 – Perigee Direct](https://www.perigeedirect.com/products/permabond-ta4204-cartridge-1-1-toughened-acrylic-adhesive): Shop Permabond TA4204 at Perigee Direct for toughened acrylic adhesive delivering reliable 1:1 structural bonding performance.
-  Updated: 2026-02-13T23:57:52Z
+  Updated: 2026-02-23T00:10:37Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -21884,7 +21878,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400MLGUN_53735a8e-f6db-4e79-a22e-5eb44af1aa45.jpg?v=1761499580
     Price: $59.99 USD
 - [MixPac 400ml C-System 4:1 Ratio Bell Outlet Kit | Perigee Direct](https://www.perigeedirect.com/products/mixpac-400ml-c-system-4-1-ratio-standard-bell-outlet-empty-2-part-cartridge-pistons-ac-400-04-10-01-112530): Order Mixpac 400ml C system cartridges at Perigee Direct for reliable 4 to 1 two part dispensing with standard bell outlet and pistons.
-  Updated: 2026-02-13T23:57:55Z
+  Updated: 2026-02-23T17:35:49Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -21948,7 +21942,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Weldiplast170.461.jpg?v=1752864856
     Price: $7,200.00 USD
 - [Leister 173.307 Weldplast 600/605 Guide Handle](https://www.perigeedirect.com/products/weldplast-600-605-guide-handle-173-307): The 173.307 is the guide handle that works with both the Weldplast 600/605 welders. ARTICLE 173.307 ITEM NAME GUIDE HANDLE BRAND LEISTER
-  Updated: 2026-02-13T23:57:56Z
+  Updated: 2026-02-17T21:35:08Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -22046,7 +22040,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges.jpg?v=1756317434
     Price: $24.99 USD
 - [Maven AC Electrical Plug for Heat  – Perigee Direct](https://www.perigeedirect.com/products/maven-ac-electrical-plug-for-re-wiring-heat--and-electrical-equipment): Shop Maven AC electrical plugs at Perigee Direct for rewiring heat  and equipment delivering safe, reliable electrical connections.
-  Updated: 2026-02-13T23:57:58Z
+  Updated: 2026-02-17T21:35:10Z
   Vendor: Maven Electrical
   Product Type: Electrical
   Availability: Available
@@ -22068,7 +22062,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LevitonNEMA06-20_220V20A.webp?v=1756319816
     Price: $29.99 USD
 - [LORD Accelerator 17 Hardener for Lord MMA Acrylic Resins](https://www.perigeedirect.com/products/lord-accelerator-17-hardener-for-lord-mma-acrylic-resins): Shop Lord Accelerator 17 at Perigee Direct for hardener that pairs with Lord MMA adhesives to speed  time on advanced bonding tasks.
-  Updated: 2026-02-13T23:57:59Z
+  Updated: 2026-02-17T21:35:11Z
   Vendor: Lord
   Product Type: Accelerators
   Availability: Available
@@ -22100,7 +22094,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/7.1.webp?v=1753727848
     Price: $646.00 USD
 - [MKHX Nozzles for MixPac K-System 10:1 or 4:1 – Perigee Direct](https://www.perigeedirect.com/products/mkhx-mixing-nozzles-for-mixpac-k-system-small-syringes-10-1-or-4-1-ratio-mkhx-03-12d-mkhx-03-12s-mkhx-03-16s-mkhx-02-12s-mkhx-02-16s): Find MKHX mixing nozzles at Perigee Direct. For high-ratio syringes, they support accurate blending and consistent application. Order today.
-  Updated: 2026-02-13T23:58:08Z
+  Updated: 2026-02-17T21:35:20Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -22266,7 +22260,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPac_K-System_10-1_ratio_Mixing_Nozzle.webp?v=1756321168
     Price: $1,999.99 USD
 - [MixPac 1125ml 2:1 Spray Cartridges MixCoat | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixcoat-1125ml-2-1-spray-cartridges-for-mixcoat-2-part-spray-coating-system-af-1125-02-14-04-or-af-1125-02-30-04-153160-or-128140): Shop Mixpac MixCoat 1125ml spray cartridges at Perigee Direct for 2-to-1 coatings delivering efficient coverage and consistent results.
-  Updated: 2026-02-13T23:58:10Z
+  Updated: 2026-02-20T16:40:04Z
   Vendor: MixPac MixCoat
   Product Type: Cartridges
   Availability: Available
@@ -22296,7 +22290,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/mixpacmixcoat2.1cartridge.png?v=1759000354
     Price: $3,499.99 USD
 - [MixCoat 1000ml 3:1 Spray Cartridges for 2-Part | Perigee Direct](https://www.perigeedirect.com/products/mixcoat-1000ml-3-1-spray-cartridges-for-mixcoat-2-part-spray-coating-system-af-1000-03-14-04-or-af-1000-03-30-04-153477-or-128215): Shop MixCoat 1000ml spray cartridges at Perigee Direct for 3:1 coatings delivering efficient coverage with MixCoat spray systems.
-  Updated: 2026-02-13T23:58:12Z
+  Updated: 2026-02-17T21:35:24Z
   Vendor: MixPac MixCoat
   Product Type: Cartridges
   Availability: Available
@@ -22326,7 +22320,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/mixpacmixcoat3.1cartridge.png?v=1758999185
     Price: $4,012.80 USD
 - [Mixcoat 940ml 4:1 Spray Cartridges](https://www.perigeedirect.com/products/mixpac-mixcoat-940ml-4-1-spray-cartridges-for-mixcoat-2-part-spray-coating-system-af-940-04-14-04-or-af-940-04-30-04-153468-or-128138): Find MixCoat 940ml 4:1 spray cartridges for consistent dual-component spray coating systems delivering even material coverage in large projects.
-  Updated: 2026-02-13T23:58:14Z
+  Updated: 2026-02-17T21:35:26Z
   Vendor: MixPac MixCoat
   Product Type: Cartridges
   Availability: Available
@@ -22356,7 +22350,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/mixpacmixcoat4.1cartridge.png?v=1759000023
     Price: $4,377.99 USD
 - [FHB Mixing Nozzles for MixCoat System – Perigee Direct](https://www.perigeedirect.com/products/fhb-mixing-nozzles-for-mixpac-mixcoat-system): Shop FHB mixing nozzles at Perigee Direct for Mixpac MixCoat systems delivering consistent spray mixing and reliable coating performance.
-  Updated: 2026-02-13T23:58:15Z
+  Updated: 2026-02-17T21:35:28Z
   Vendor: MixPac MixCoat
   Product Type: Spray Nozzles
   Availability: Available
@@ -22374,7 +22368,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixCoat-Brush-Mixing-Nozzle-Assembly-Long-Handle-FHB-01-15-06-_161982.jpg?v=1758997155
     Price: $21.99 USD
 - [FHS MIXING NOZZLES FOR MIXPAC MIXCOAT-SYSTEM](https://www.perigeedirect.com/products/fhs-mixing-nozzles-for-mixpac-mixcoat-system): Shop FHS mixing nozzles for Mixpac MixCoat at Perigee Direct for consistent mixing clean dispensing and reliable coating and sealant results.
-  Updated: 2026-02-13T23:58:17Z
+  Updated: 2026-02-17T21:35:29Z
   Vendor: MixPac MixCoat
   Product Type: Spray Nozzles
   Availability: Available
@@ -22410,7 +22404,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.3.png?v=1753724780
     Price: $59.99 USD
 - [MixCoat MFH & MFHA Mixing & Spray Nozzles](https://www.perigeedirect.com/products/mfh-mixing-nozzles-for-mixpac-mixcoat-system): Shop MFH mixing nozzles at Perigee Direct for precise two-part mixing with Mixpac Mixcoat systems on coating and repair applications every time.
-  Updated: 2026-02-13T23:58:18Z
+  Updated: 2026-02-20T16:40:07Z
   Vendor: MixPac MixCoat
   Product Type: Spray Nozzles
   Availability: Available
@@ -22424,7 +22418,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.4-removebg-preview.png?v=1758994499
     Price: $5.09 USD
 - [MixCoat MFQ Straight Mixing Nozzles for Spray | Perigee Direct](https://www.perigeedirect.com/products/mixcoat-mfq-straignt-mixing-nozzles-for-mixpac-spray-coating-system): Discover MixCoat MFQ straight mixing nozzles for clean controlled spray mixing in two-part coating systems with minimal waste performance.
-  Updated: 2026-02-16T19:26:54Z
+  Updated: 2026-02-20T16:40:07Z
   Vendor: MixPac MixCoat
   Product Type: Spray Nozzles
   Availability: Available
@@ -22458,7 +22452,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MFQ-Medium-Flow-Spray-Mixer.jpg?v=1752860283
     Price: $5.19 USD
 - [MixCoat MFQA 90° Nozzles for Spray Coating System | Perigee Direct](https://www.perigeedirect.com/products/mfqa-mixing-nozzles-for-mixpac-mixcoat-system): Shop MFQA mixing nozzles at Perigee Direct for Mixpac MixCoat systems delivering consistent spray mixing and controlled material flow.
-  Updated: 2026-02-13T23:58:22Z
+  Updated: 2026-02-17T21:35:34Z
   Vendor: MixPac MixCoat
   Product Type: Spray Nozzles
   Availability: Available
@@ -22597,14 +22591,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LeisterHemtekHeatNozzleAdjustmentGauge157.098.webp?v=1753727204
   Price: $106.00 USD
 - [Leister 169.615 Unifloor 500 Welder – Perigee Direct](https://www.perigeedirect.com/products/leister-unifloor-500-vinyl-linoleum-floor-welding-machine-169-615): Choose the Leister Unifloor 500 at Perigee Direct for automatic vinyl and linoleum welding that delivers clean seams in commercial flooring work.
-  Updated: 2026-02-13T23:58:23Z
+  Updated: 2026-02-17T21:35:35Z
   Vendor: Leister
   Product Type: Floor Welding Machines
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Leister_UNIFLOOR_500_169.615.jpg?v=1756318959
   Price: $5,800.00 USD
 - [Maven Powder Coat Popular Black Shades – Perigee Direct](https://www.perigeedirect.com/products/maven-powder-coat-popular-blacks-graphite-black-signal-black-traffic-black-jet-black-variety-of-sizes-over-6-500-custom-powder-coat-colors): Explore Maven black powder coats in multiple finishes including jet black and signal black with over 6,500 color-matched options.
-  Updated: 2026-02-13T23:58:26Z
+  Updated: 2026-02-17T21:35:38Z
   Vendor: Maven Powder Coat
   Product Type: Powder Coat
   Availability: Available
@@ -22658,7 +22652,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Black-RAL9005-JetBlack.jpg?v=1752863486
     Price: $499.99 USD
 - [Maven Powder Coat Popular White Shades – Perigee Direct](https://www.perigeedirect.com/products/maven-powder-coat-popular-whites-cream-gray-white-papyrus-white-pure-white-signal-white-traffic-white-variety-of-sizes): Browse popular white powder coats from Maven including papyrus and signal white, with custom sizes and thousands of color matches.
-  Updated: 2026-02-13T23:58:31Z
+  Updated: 2026-02-20T02:17:10Z
   Vendor: Maven Powder Coat
   Product Type: Powder Coat
   Availability: Available
@@ -22736,7 +22730,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/White-RAL9016-TrafficWhite.jpg?v=1756318276
     Price: $14.99 USD
 - [Spray Nozzle Kit for 2-Part Cartridges | Perigee Direct](https://www.perigeedirect.com/products/maven-spray-nozzle-kit-nozzle-sprayyer-for-two-part-cartridges-24-element-6-3mm-and-9-3mm-diameters): Choose Maven spray nozzle kits at Perigee Direct for 24 element nozzles that fit two-part cartridges and deliver clean controlled spray patterns.
-  Updated: 2026-02-13T23:58:32Z
+  Updated: 2026-02-17T21:35:44Z
   Vendor: Maven Mixing
   Product Type: Spray Nozzles
   Availability: Available
@@ -22750,7 +22744,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/IMG_7001.jpg?v=1752862743
     Price: $1.99 USD
 - [Loctite SF 7649 Primer & Accelerator – Perigee Direct](https://www.perigeedirect.com/products/loctite-7649-primer-accelerator-spray-brush-on-bottles-for-threadlockers-variety-of-sizes): Buy Loctite 7649 primer accelerator at Perigee Direct in spray or brush bottles for faster threadlocker  time and stronger thread bonding.
-  Updated: 2026-02-13T23:58:33Z
+  Updated: 2026-02-17T21:35:46Z
   Vendor: Loctite
   Product Type: Primers
   Availability: Available
@@ -22772,14 +22766,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Loctite7649Primer_Accelerator1gallon.jpg?v=1753728310
     Price: $339.99 USD
 - [3M 1300L Neoprene Gasket Adhesive – Perigee Direct](https://www.perigeedirect.com/products/3m-1300l-neoprene-yellow-high-performance-rubber-gasket-adhesive): Shop 3M 1300L neoprene adhesive at Perigee Direct for high-performance rubber and gasket bonding delivering flexible durable adhesion.
-  Updated: 2026-02-13T23:58:34Z
+  Updated: 2026-02-20T16:25:37Z
   Vendor: 3M
   Product Type: Gasket Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/3M1300L1GallonPail.jpg?v=1719845978
   Price: $87.99 USD
 - [Leister 139.438 Additional Weights for Variant T1](https://www.perigeedirect.com/products/leister-additional-weights-for-variant-t1-139-438): Shop Leister additional weights for Variant T1 at Perigee Direct to improve stability pressure control and consistent tape welding results.
-  Updated: 2026-02-13T23:58:35Z
+  Updated: 2026-02-17T21:35:48Z
   Vendor: Leister
   Product Type: WEIGHTS
   Availability: Available
@@ -22793,7 +22787,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LeisterVariantT1AdditionalWeight139.438.webp?v=1756321724
     Price: $160.80 USD
 - [Leister SEAMTEK Banner Welding Machine – Perigee Direct](https://www.perigeedirect.com/products/seamtek-w-2000-at-with-variable-speed-easier-and-safe-welding-machine): Shop Seamtek W 2000 AT welding machines at Perigee Direct featuring variable speed control for safer easier automated welding.
-  Updated: 2026-02-13T23:58:37Z
+  Updated: 2026-02-17T21:35:49Z
   Vendor: Leister
   Product Type: Welding Machines
   Availability: Available
@@ -22815,35 +22809,35 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/38014.webp?v=1753726764
     Price: $44,356.96 USD
 - [Albion B26 1/10 Gal Manual Cartridge Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-b26-1-10-gallon-b-line-manual-cartridge-gun-w-26-1-drive): Shop Albion B26-1 B-Line manual cartridge gun with 26:1 drive, built for high-thrust dispensing of thick adhesives and sealants.
-  Updated: 2026-02-13T23:58:37Z
+  Updated: 2026-02-17T21:35:50Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-b26-caulk-gun.jpg?v=1758995022
   Price: $51.99 USD
 - [Albion B26Q 1 Quart Caulk Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-b26q-1-quart-b-line-manual-cartridge-caulk-gun-w-26-1-drive): Shop Albion B26Q quart manual caulk  at Perigee Direct for high-thrust dispensing, delivering smooth control for thick materials.
-  Updated: 2026-02-13T23:58:38Z
+  Updated: 2026-02-17T21:35:51Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/e4850c4c-5386-427e-a7eb-6ae6ddff7533albionb26q-337.jpg?v=1758996000
   Price: $59.99 USD
 - [Albion 20 Oz. Sausage Caulking Gun Kit, 12:1 Drive](https://www.perigeedirect.com/products/albion-20-oz-sausage-caulking-gun-kit-12-1-drive): Shop the Albion 20oz sausage gun kit at Perigee Direct for 12-to-1 drive that delivers smooth caulking flow on thicker materials.
-  Updated: 2026-02-13T23:58:39Z
+  Updated: 2026-02-17T21:35:52Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-b12s20-20oz-sausage-gun.jpg?v=1753726498
   Price: $79.99 USD
 - [MARGIN TROWEL 5 INCH LONG WITH WOODED HANDLE](https://www.perigeedirect.com/products/margin-trowel-5-inch-long-with-wooded-handle): This margin trowel is 5″ long and 2″ wide with a wooden handle. The hardened steel blade is also tempered, ground and poished. TECH SPECS Blade length- 5″ Blade width- 2″ Wood handle
-  Updated: 2026-02-13T23:58:40Z
+  Updated: 2026-02-17T21:35:53Z
   Vendor: Albion
   Product Type: Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Margin-trowel.jpg?v=1756320734
   Price: $69.99 USD
 - [Pointed Trowel Steel Blade With Wooded Handle](https://www.perigeedirect.com/products/pointed-trowel-steel-blade-with-wooded-handle): Shop pointed steel trowel with wood handle at Perigee Direct for smooth mortar epoxy and patching work with grip control for clean edges.
-  Updated: 2026-02-13T23:58:41Z
+  Updated: 2026-02-17T21:35:54Z
   Vendor: Albion
   Product Type: Tools
   Availability: Available
@@ -22878,7 +22872,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/leisterWeldingShoeBlank74x50x58mmforWeldplast600_146.240.jpg?v=1753725274
   Price: $205.00 USD
 - [Leister Heating Element for Unidrive – Perigee Direct](https://www.perigeedirect.com/products/leister-heating-element-for-unidrive-tarp-welding145-582-230v-1550w): Used for the UniDrive series tarp welding machines. ARTICLE: 145.582 ITEM NAME: Heating element, 230V/2200W VOLTAGE: 230 V PHASES: 1x POWER: 2200 W HEATING ELEMENT DIAMETER 31.5 mm
-  Updated: 2026-02-13T23:58:42Z
+  Updated: 2026-02-17T21:35:54Z
   Vendor: Leister
   Product Type: Heating element
   Availability: Available
@@ -22913,7 +22907,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LeisterCarryingStrap_156.531_forUnidrive500.jpg?v=1753725302
   Price: $60.00 USD
 - [Premera FP1 Fusion Primer Quick-Drying Sealer – Perigee Direct](https://www.perigeedirect.com/products/nukote-premera-fp1-fusion-primer-for-concrete-surfaces-fp1-is-the-prep-step-for-a-t2-application): Shop Nukote Premera FP1 at Perigee Direct for concrete fusion primer applied before T2 coating systems for strong bonded surface preparation.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-23T14:45:47Z
   Vendor: Premera Coatings
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -22935,168 +22929,168 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/premera-fp1-fusion-primer.jpg?v=1756319238
     Price: $799.99 USD
 - [Ratio-Pak 100ml PP Cartridge 14-Thread 7660569 – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-empty-cartridge-14-thread-outlet-pp-100ml-7660569): Choose Nordson 100ml empty cartridges with polypropylene body and 1/4 thread outlet, designed for precise industrial filling.
-  Updated: 2026-02-13T23:58:43Z
+  Updated: 2026-02-17T21:35:55Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Cartridges
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-100ml-Barrel_694b0c81-ee25-4b21-af2c-d0cf9fda6f0a.jpg?v=1753725557
   Price: $1.69 USD
 - [Ratio-Pak 150ml PP Cartridge 14-Thread 7660598 – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-empty-cartridge-14-thread-outlet-pp-150ml-7660598): Explore 150ml Nordson empty cartridges made of polypropylene with threaded outlets for controlled use in dual-component systems.
-  Updated: 2026-02-13T23:58:44Z
+  Updated: 2026-02-17T21:35:56Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Cartridges
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-150ml-Barrel_3fb824df-f770-45f1-97c2-f5cffec53f3c.jpg?v=1756319756
   Price: $1.89 USD
 - [Ratio-Pak 250ml PP Cartridge 14-Thread 7661409 – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-empty-cartridge-14-thread-outlet-pp-250ml-7661409): Shop Nordson 250ml empty cartridges made from polypropylene with 1/4 thread outlet for customized industrial adhesive applications.
-  Updated: 2026-02-13T23:58:44Z
+  Updated: 2026-02-17T21:35:57Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Cartridges
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-250ml-Barrel_dc1ea734-7b1a-4918-83f4-58117f13d48e.jpg?v=1756316063
   Price: $2.29 USD
 - [Ratio-Pak 75ml Nylon Cartridge 14-Thread 7661440 – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-empty-cartridge-14-thread-outlet-nylon-75ml-7661440): Browse Nordson 75ml empty cartridges with 1/4 thread nylon outlets, ideal for custom adhesive or sealant filling operations.
-  Updated: 2026-02-13T23:58:46Z
+  Updated: 2026-02-17T21:35:59Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Cartridges
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-75ml-Barrel_dff7649e-185e-4dac-9723-eca397304373.jpg?v=1758996070
   Price: $1.36 USD
 - [Ratio-Pak Piston (Non-Vented) / MDPE / 75ml - 7660545](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-75ml-7660545): Shop 75ml MDPE non-vented pistons designed to maintain product integrity and prevent leaks in small cartridge applications.
-  Updated: 2026-02-13T23:58:47Z
+  Updated: 2026-02-17T21:36:00Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-75ml-Piston_d4ff2914-3a61-494b-8020-7593ad5e1fc6.jpg?v=1756321618
   Price: $0.34 USD
 - [Ratio-Pak Piston (Non-Vented) / MDPE / 100ml - 7660589](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-100ml-7660589): Get Nordson 100ml MDPE non-vented pistons for tight sealing and accurate push performance in professional cartridge systems.
-  Updated: 2026-02-13T23:58:48Z
+  Updated: 2026-02-17T21:36:01Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-150ml-Piston_e7b83720-6e99-4564-aad8-8d2e386c2f44.jpg?v=1756318583
   Price: $0.58 USD
 - [Ratio-Pak Piston (Non-Vented) / MDPE / 150ml - 7660609](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-150ml-7660609): Discover Nordson 150ml MDPE non-vented pistons for high-precision adhesive systems requiring consistent pressure and flow.
-  Updated: 2026-02-13T23:58:49Z
+  Updated: 2026-02-17T21:36:02Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-150ml-Piston_2641ca2d-927d-4022-8352-5afcb5e6a5f0.jpg?v=1753727819
   Price: $0.35 USD
 - [Ratio-Pak Piston (Non-Vented) / HDPE / 150ml - 7660610](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-hdpe-150ml-7660610): Choose Nordson 150ml HDPE non-vented pistons engineered for clean and secure dispensing in dual cartridge configurations.
-  Updated: 2026-02-13T23:58:50Z
+  Updated: 2026-02-17T21:36:03Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-150ml-Piston_524d5581-565f-4ff0-abda-486999c2107f.jpg?v=1752860571
   Price: $1.18 USD
 - [Ratio-Pak Piston (Non-Vented) / MDPE / 200ml - 7661403](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-200ml-7661403): Shop Nordson 200ml MDPE non-vented pistons designed for smooth movement and leak-proof performance in two-part cartridges.
-  Updated: 2026-02-13T23:58:51Z
+  Updated: 2026-02-17T21:36:04Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-250ml-Piston_e7d0e41a-e99d-461d-a92c-c4fabc5ab3a3.jpg?v=1753726154
   Price: $0.68 USD
 - [Ratio-Pak Piston (Non-Vented) / MDPE / 250ml - 7661406](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-250ml-7661406): Find Nordson 250ml MDPE non-vented pistons used in industrial adhesive cartridges for accurate mixing and application control.
-  Updated: 2026-02-13T23:58:52Z
+  Updated: 2026-02-17T21:36:05Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-250ml-Piston_4baafbcb-41c0-4e98-beed-76e6b2cb5db3.jpg?v=1753724632
   Price: $0.68 USD
 - [Ratio-Pak Piston (Non-Vented) / MDPE / 300ml - 7660653](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-300ml-7660653): Choose 300ml MDPE non-vented pistons by Nordson Ratio-Pak for consistent seal integrity and effective adhesive dispensing.
-  Updated: 2026-02-13T23:58:53Z
+  Updated: 2026-02-17T21:36:05Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-300ml-Piston_e0f95887-6951-4d94-a56f-a2caa582a903.jpg?v=1753728938
   Price: $0.44 USD
 - [Ratio-Pak Piston (Non-Vented) /MDPE / 750ml - 7660683](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-piston-non-vented-mdpe-750ml-7660683): Explore 750ml MDPE non-vented pistons from Nordson built for large capacity cartridge systems requiring high-volume flow.
-  Updated: 2026-02-13T23:58:53Z
+  Updated: 2026-02-17T21:36:06Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-750ml-Piston_792b4cbe-0e77-47e6-8a9e-a72086a2a690.jpg?v=1752863158
   Price: $0.50 USD
 - [Ratio-Pak 600ml+ Piston Insertion Tool Accessory – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurableaccessories-piston-insertion-tool-piston-insertion-tool-600ml-larger-barrels): Use Nordson piston insertion tools for 600ml and larger barrels, making setup fast and safe for industrial cartridge systems.
-  Updated: 2026-02-13T23:58:54Z
+  Updated: 2026-02-17T21:36:07Z
   Vendor: Nordson Ratio-Pak
   Product Type: Piston Insertion Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges-Install-Example-2_1024x1024_2x_fff5de6b-2ad9-4ed2-81fc-af8bd6afaf31.jpg?v=1753725041
   Price: $14.99 USD
 - [Ratio-Pak 200–400ml Piston Insertion Tool Kit – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-accessories-piston-insertion-tool-piston-insertion-tool-200ml-400ml-barrels): Get piston insertion tools for 200ml and 400ml Ratio-Pak barrels, designed for reliable piston placement and reduced air gaps.
-  Updated: 2026-02-13T23:58:55Z
+  Updated: 2026-02-18T21:15:48Z
   Vendor: Nordson Ratio-Pak
   Product Type: Piston Insertion Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-for-Push-Pin-Style-200ml_-400ml_-600ml-cartridges-Install-Example-2_1024x1024_2x_8ebca3c6-6189-4d94-806a-d271c35e97d1.jpg?v=1758993938
   Price: $14.99 USD
 - [Ratio-Pak 50ml Piston Insertion Tool Accessory – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-accessories-piston-insertion-tool-piston-insertion-tool-150ml-smaller-barrels): Find piston insertion tools for 150ml and smaller Ratio-Pak barrels, ensuring clean setup and proper fit in dual cartridges.
-  Updated: 2026-02-13T23:58:56Z
+  Updated: 2026-02-17T21:36:09Z
   Vendor: Nordson Ratio-Pak
   Product Type: Piston Insertion Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Piston-Insertion-Tool-50ml-2-1-Size-Example-Small_Side_1024x1024_2x_a1df8651-3cae-4c84-b16c-e4bbe7b1247f.jpg?v=1719842316
   Price: $14.99 USD
 - [Ratio-Pak Piston Venting Tool for Non-Vented – Perigee Direct](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-accessories-piston-venting-tool-venting-tool-for-non-vented-pistons-76609457660945): Use the Nordson piston venting tool to allow air release in non-vented pistons, ensuring even dispensing in critical projects.
-  Updated: 2026-02-13T23:58:57Z
+  Updated: 2026-02-17T21:36:10Z
   Vendor: Nordson Ratio-Pak
   Product Type: Piston Vent Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/VentStripToolNon-VentedPistons-7660945_1.jpg?v=1719846616
   Price: $0.35 USD
 - [Ratio-Pak Accessories - Barrel Inner Gasket - 7660794](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-accessories-barrel-gasket-barrel-gasket-7660794): Shop Nordson Ratio-Pak barrel gaskets designed for a secure cartridge seal and dependable use in industrial mixing systems.
-  Updated: 2026-02-13T23:58:58Z
+  Updated: 2026-02-17T21:36:11Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Gasket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nordson-RatioPak-Barrel-Gasket-7660794_e75dae69-90c3-45fa-98d3-05dbffb039b0.jpg?v=1752867208
   Price: $0.07 USD
 - [Ratio-Pak Accessories / Retaining Nut 7/8-9 - 7660731](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-accessories-retaining-nut-retaining-nut-7-8-9-7660731): Shop Nordson retaining nuts sized 7, 8, and 9, used to hold mixing nozzles and secure fittings to two-part cartridge outlets.
-  Updated: 2026-02-13T23:58:58Z
+  Updated: 2026-02-17T21:36:12Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Cartridge Retaining Nuts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Nordson-Retaining-Nut-for-Ratio-Pak-9-thread-count-7660731_737fce5d-01a9-438c-9b36-a705fe284497.jpg?v=1752861041
   Price: $0.35 USD
 - [Ratio-Pak Accessories / White Dual-Side Plug - 7661196](https://www.perigeedirect.com/products/nordson-ratio-pak-configurable-accessories-plug-white-dual-side-plug-7661196): Find dual-side white plugs from Nordson Ratio-Pak, designed to securely close and seal cartridges during storage and transit.
-  Updated: 2026-02-13T23:58:59Z
+  Updated: 2026-02-17T21:36:13Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Plugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-Cartridge-Cap-2-Sided-w-Tab_40ffb8ae-b6cd-4d51-8819-bb170b698c87.jpg?v=1753724960
   Price: $0.18 USD
 - [Ratio-Pak Piston (Self-Vented) / MDPE / 750ml - 7660887](https://www.perigeedirect.com/products/nordson-ratio-pak-piston-self-vented-mdpe-750ml-7660887): Get 750ml self-vented pistons from Nordson designed for large volume cartridges needing consistent pressure and ventilation.
-  Updated: 2026-02-13T23:59:00Z
+  Updated: 2026-02-17T21:36:13Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-750ml-Piston_6f71bb27-62d4-4d05-af74-d813436a1d69.jpg?v=1758996990
   Price: $1.21 USD
 - [Ratio-Pak Piston (Self-Vented) / MDPE / 600ml - 7661708](https://www.perigeedirect.com/products/nordson-ratio-pak-piston-self-vented-mdpe-600ml-7661708): Explore Nordson 600ml MDPE self-vented pistons engineered to maintain smooth flow and air-free operation in high-capacity use.
-  Updated: 2026-02-13T23:59:01Z
+  Updated: 2026-02-17T21:36:14Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-600ml-Piston_42f25312-4e6b-4c74-a57b-bbb568879689.jpg?v=1752862015
   Price: $1.28 USD
 - [Ratio-Pak Piston (Self-Vented) / MDPE / 300ml - 7660884](https://www.perigeedirect.com/products/nordson-ratio-pak-piston-self-vented-mdpe-300ml-7660884): Choose 300ml MDPE self-vented pistons from Nordson for efficient dual-component adhesive dispensing without trapped air.
-  Updated: 2026-02-13T23:59:02Z
+  Updated: 2026-02-17T21:36:15Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-300ml-Piston_6eebe483-65f7-4003-a360-77ad4da384b4.jpg?v=1758995833
   Price: $0.64 USD
 - [Ratio-Pak Piston (Self-Vented) / MDPE / 200ml - 7661404](https://www.perigeedirect.com/products/nordson-ratio-pak-piston-self-vented-mdpe-200ml-7661404): Find 200ml self-vented MDPE pistons from Nordson designed for air release and accurate material flow in cartridge systems.
-  Updated: 2026-02-13T23:59:03Z
+  Updated: 2026-02-17T21:36:16Z
   Vendor: Nordson Ratio-Pak
   Product Type: Ratiopak Piston
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/RatioPak-200ml-Piston_f0c3e2f4-3d61-45e3-9589-f874863a5032.jpg?v=1753724321
   Price: $3.10 USD
 - [Maven EA 605 5-Min Steel-Filled Medium Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-605-fast-set-5-min-steel-filled-medium-viscosity-metallic-gray-epoxy-1-1-ratio): Order Maven EA 605 at Perigee Direct for fast-set, steel-filled epoxy delivering strong metallic gray repair strength in industrial bonding.
-  Updated: 2026-02-13T23:59:06Z
+  Updated: 2026-02-17T21:36:19Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -23138,7 +23132,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenAdhesivesLogo-WithCatchphrase_8b22ac80-8429-48dd-a483-fdca00ec99af.jpg?v=1753725742
     Price: $89.99 USD
 - [Maven EA 630 30-Min Steel-Filled Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-630-medium-set-30-min-steel-filled-medium-viscosity-metallic-gray-epoxy-1-1-ratio): Shop Maven EA 630 steel-filled epoxy at Perigee Direct for 30-minute medium-set bonding, delivering metallic strength for metal repairs and assemblies.
-  Updated: 2026-02-13T23:59:08Z
+  Updated: 2026-02-17T21:36:22Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -23184,7 +23178,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/4_b5c0aefd-cb86-4cf3-8149-a4c11f15cb3b.png?v=1759000569
     Price: $25.00 USD
 - [Maven EA 615 15-Min Steel-Filled Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-615-fast-set-15-min-steel-filled-medium-viscosity-metallic-gray-epoxy-1-1-ratio): Shop Maven EA 615 at Perigee Direct for 15-minute steel-filled medium-viscosity metallic gray epoxy that delivers strong structural repairs.
-  Updated: 2026-02-13T23:59:11Z
+  Updated: 2026-02-17T21:36:25Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -23226,7 +23220,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenAdhesivesLogo-WithCatchphrase_d3589d10-5876-4b4d-ac31-5955cae71410.jpg?v=1752866857
     Price: $89.99 USD
 - [Maven EA 660 60-Min Steel-Filled Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-660-fast-set-60-min-steel-filled-medium-viscosity-metallic-gray-epoxy-1-1-ratio): Shop Maven EA 660 at Perigee Direct for 60-minute steel-filled medium-viscosity metallic epoxy that repairs metal components with durable bonds.
-  Updated: 2026-02-13T23:59:14Z
+  Updated: 2026-02-17T21:36:27Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -23268,7 +23262,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/MavenAdhesivesLogo-WithCatchphrase_3a0cce3c-8d43-4391-b935-2fce5765fa09.jpg?v=1758995090
     Price: $89.99 USD
 - [Maven EA 6120 120-Min Steel-Filled Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-epoxy-ea-6120-fast-set-120-min-steel-filled-medium-viscosity-metallic-gray-epoxy-1-1-ratio): Get Maven EA 6120 at Perigee Direct for 120 minute steel filled medium viscosity epoxy delivering metallic gray strength for heavy repairs.
-  Updated: 2026-02-13T23:59:16Z
+  Updated: 2026-02-17T21:36:30Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -23317,7 +23311,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/50ml-10-1-S-System-PushPin-Tool.jpg?v=1753724339
   Price: $14.99 USD
 - [Piston Tool for Push-Pin Pistons MedMix – Perigee Direct](https://www.perigeedirect.com/products/piston-insertion-tool-for-push-pin-pistons-used-with-medmix-and-maven-2-part-adhesive-cartridges-200ml-400ml-1-1-ratio-2-1-ratio-sizes): Shop piston insertion tools at Perigee Direct for Medmix and Maven cartridges, delivering accurate piston seating and cleaner adhesive dispensing.
-  Updated: 2026-02-05T22:30:36Z
+  Updated: 2026-02-18T21:15:47Z
   Vendor: Maven Cartridges
   Product Type: Piston Insertion Tool
   Availability: Available
@@ -23345,7 +23339,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/FAST-CON-CENTER-MARKER-FC-01-CE.50.png?v=1758998025
   Price: $6.99 USD
 - [Fast-Con Stainless Steel Fastener Sets – Perigee Direct](https://www.perigeedirect.com/products/fast-con-removable-fastener-sets-male-female-parts-stainless-steel): Shop removable Fast Con fastener sets at Perigee Direct. Stainless steel parts for secure, reusable fastening solutions. Add to your cart today.
-  Updated: 2026-02-13T23:59:18Z
+  Updated: 2026-02-18T01:03:02Z
   Vendor: Special Insert
   Product Type: Fasteners Snap-On
   Availability: Available
@@ -23367,7 +23361,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Fast-ConScrewsvtb4-8x9-5-51-1.png?v=1756320707
     Price: $0.12 USD
 - [Albion B26T600 Manual 2-Part Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-b26t600-2-part-manual-dispenser-for-600ml-1-1-450ml-2-1-cartridges): Shop Albion B26T600 manual dispensers at Perigee Direct for 600ml and 450ml cartridges, delivering accurate two-part adhesive control.
-  Updated: 2026-02-13T23:59:19Z
+  Updated: 2026-02-17T21:36:33Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
@@ -23381,7 +23375,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Albionb26t600x2_69bb40c9-b123-481d-ab62-e438b88eb7e7.jpg?v=1758994941
     Price: $139.99 USD
 - [Albion Battery Dispenser 600ml/450ml – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-18v-battery-dispensers-for-600ml-1-1-300x300-450ml-2-1-300x450): Shop Albion 18V battery dispensers at Perigee Direct for large cartridges, delivering cordless power and precise two-part dispensing.
-  Updated: 2026-02-13T23:59:20Z
+  Updated: 2026-02-17T21:36:35Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
@@ -23533,7 +23527,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/146.230.png?v=1758999645
     Price: $244.40 USD
 - [Nordson Series 160 Narrow Mixing Nozzles – Perigee Direct](https://www.perigeedirect.com/products/nordson-series-160-narrow-mixing-nozzle-for-thin-material-variety-of-sizes-and-lengths): Shop Nordson Series 160 mixing nozzles at Perigee Direct for thin materials, delivering consistent mixes across sizes, lengths, and jobsites.
-  Updated: 2026-02-16T14:10:40Z
+  Updated: 2026-02-23T22:15:47Z
   Vendor: Nordson EFD
   Product Type: Mixing Nozzles
   Availability: Available
@@ -23753,14 +23747,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterHotjetS105-566-new_3_orig.jpg?v=1753726373
   Price: $241.00 USD
 - [Leister Solano AT Wrapping Kit 120V – Perigee Direct](https://www.perigeedirect.com/products/leister-solano-at-car-wrapping-kit-120v-1800w-us-plug-with-plastic-case): Shop the Leister Solano AT car wrapping kit with 1800W heat gun, US plug, and protective case for professional wrap applications.
-  Updated: 2026-02-12T14:50:37Z
+  Updated: 2026-02-19T19:50:37Z
   Vendor: LEISTER
   Product Type: Heat 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Solano-AT-Car-Wrapping-Kit.jpg?v=1756318452
   Price: $529.99 USD
 - [Araldite 8579 Resin & Hardener Kit – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-8579-resin-8579-hardener-structural-adhesive): Shop Huntsman Araldite 8579 at Perigee Direct for structural adhesive systems delivering high strength bonding with resin and hardener kits.
-  Updated: 2026-02-13T23:59:38Z
+  Updated: 2026-02-17T21:36:53Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -23778,21 +23772,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Araldite-AW-9102-Resin_3f009373-9396-4b0e-952b-85062e6b2ed6.jpg?v=1753725349
     Price: $2,857.00 USD
 - [Leister 147.222 Heat Shield for Solano Gun – Perigee Direct](https://www.perigeedirect.com/products/tubular-heat-protection-shield-147-222-for-leister-solano-heat-gun): Discover tubular heat protection shield for Leister Solano heat , designed to improve safety and precision during hot air applications.
-  Updated: 2026-02-13T23:59:39Z
+  Updated: 2026-02-17T21:36:54Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterSolanoHeatShield147.222.jpg?v=1758994438
   Price: $54.00 USD
 - [Car Wrap Heat Shield 165-036 – Perigee Direct](https://www.perigeedirect.com/products/car-wrap-heat-protection-shield-165-036-for-weldy-hg-330-hg-530-heat-): Shop car wrap heat protection shields at Perigee Direct for Weldy heat , improving safety and precision during wrapping applications.
-  Updated: 2026-02-13T23:59:40Z
+  Updated: 2026-02-17T21:36:54Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/WeldyHeatShield165.036.jpg?v=1756316525
   Price: $28.00 USD
 - [MixPac 50ml 1:1 Cartridge w/ Cap & Piston Seal | Perigee Direct](https://www.perigeedirect.com/products/mixpac-50ml-empty-1-1-ratio-2-part-cartridges-with-sealing-cap-pistons-aa-050-01-10-33-154840): Shop MixPac 50ml empty 1:1 cartridges at Perigee Direct with pistons for clean storage and accurate dispensing of epoxy and acrylic formulations.
-  Updated: 2026-02-13T23:59:44Z
+  Updated: 2026-02-23T17:35:59Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -23862,7 +23856,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/50mlgunkit5.jpg?v=1761499750
     Price: $44.99 USD
 - [Leister (138.938 &140.429) Variant T1 - Pressure Rollers](https://www.perigeedirect.com/products/leister-variant-t1-pressure-rollers-157-047-157-071): Leister Variant T1 - Pressure Rollers - (138.938 & 140.429) Will also need to swap out the heating element too. 138.938 for 40mm Seam Widths 140.429for 20mm Seam Widths
-  Updated: 2026-02-13T23:59:45Z
+  Updated: 2026-02-17T21:37:00Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -23876,7 +23870,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterVariantT1PressureRoller20mm140.429.jpg?v=1756319593
     Price: $179.00 USD
 - [Leister Variant T1 Overlap & Hem Nozzles – Perigee Direct](https://www.perigeedirect.com/products/leister-variant-t1-overlap-hem-heat-nozzles-20mm-140-771-40mm-141-558): Leister Variant T1 - Overlap & Hem Heat Nozzles - (20mm 140.771 & 40mm 141.558) Will also need to swap out the heating element too. 141.558 for 40mm Seam Widths 140.771 20mm Seam Widths
-  Updated: 2026-02-13T23:59:46Z
+  Updated: 2026-02-17T21:37:01Z
   Vendor: Leister
   Product Type: Nozzles
   Availability: Available
@@ -23890,7 +23884,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister_Overlap_Hem_Nozzle_20mm_140.771.jpg?v=1758994010
     Price: $515.00 USD
 - [MixPac 50ml 2:1 Cartridge w/ Sealing Cap & Piston | Perigee Direct](https://www.perigeedirect.com/products/mixpac-50ml-2-1-ratio-2-part-empty-cartridge-with-sealing-cap-pistons-2-1-mix-ratio-aa-050-02-10-01-111201): Order Mixpac 50ml 2:1 cartridges at Perigee Direct for sealed two-part dispensing with pistons and cap included for adhesive filling.
-  Updated: 2026-02-16T20:05:37Z
+  Updated: 2026-02-23T20:30:56Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -23956,35 +23950,35 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Plunger_Kit.jpg?v=1761499905
     Price: $289.99 USD
 - [Plexus PU2105 Polyurethane 400ml Cartridge – Perigee Direct](https://www.perigeedirect.com/products/plexus-2105-400ml-cartridge-1-1-polyurethane-adhesive-21050): Shop Plexus PU2105 polyurethane adhesive at Perigee Direct for 1:1 cartridge bonding delivering toughness and structural reliability.
-  Updated: 2026-02-13T23:59:47Z
+  Updated: 2026-02-17T21:37:02Z
   Vendor: Plexus
   Product Type: Polyurethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/pu2105_edit_1_1.png?v=1758997528
   Price: $37.99 USD
 - [PLEXUS 21052 - PU2105 Adhesive 40 Gal](https://www.perigeedirect.com/products/plexus-21052-pu2105-adhesive-40-gal): Buy Plexus PU2105 adhesive in 40-gallon drums for high-strength structural bonding in composite, plastic, and metal assemblies.
-  Updated: 2026-02-13T23:59:48Z
+  Updated: 2026-02-17T21:37:03Z
   Vendor: Plexus
   Product Type: Polyurethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_1.jpg?v=1753726362
   Price: $5,433.99 USD
 - [PLEXUS 21054 - PU2105 Activator 40 Gal](https://www.perigeedirect.com/products/plexus-21054-pu2105-activator-40-gal): Shop Plexus PU2105 activator in 40-gallon drums to pair with PU2105 adhesive for fast, durable two-part bonding applications.
-  Updated: 2026-02-13T23:59:49Z
+  Updated: 2026-02-17T21:37:04Z
   Vendor: Plexus
   Product Type: Polyurethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1.jpg?v=1758994449
   Price: $5,129.99 USD
 - [PLEXUS 41100 - H4110 400ml](https://www.perigeedirect.com/products/plexus-41100-h4110-400ml): Get Plexus H4110 adhesive in a 400ml cartridge, engineered for strong, long-lasting bonds in plastic and metal materials.
-  Updated: 2026-02-13T23:59:50Z
+  Updated: 2026-02-17T21:37:04Z
   Vendor: Plexus
   Product Type: Hybrid Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/h4110_edit_1.png?v=1758997732
   Price: $38.99 USD
 - [Araldite 2013-1 Metal Bonding Gel – Perigee Direct](https://www.perigeedirect.com/products/maven-ea2014-high-temp-chemical-proof-epoxy-gel): Shop Maven EA2014 epoxy gel at Perigee Direct for high-temperature chemical-proof bonding delivering strong structural repairs across metals and composites.
-  Updated: 2026-02-13T18:01:18Z
+  Updated: 2026-02-19T22:30:58Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -24052,14 +24046,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Weldy-HG-530-A-Heat-Gun-Starter-Kit.jpg?v=1756319514
     Price: $177.00 USD
 - [PLEXUS 41103 - H4110 Activator 5 Gal](https://www.perigeedirect.com/products/plexus-41103-h4110-activator-5-gal): Find Plexus H4110 activator in a 5-gallon container for industrial-scale use with matching two-part structural adhesives.
-  Updated: 2026-02-13T23:59:51Z
+  Updated: 2026-02-17T21:37:05Z
   Vendor: Plexus
   Product Type: Activators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_1_3.jpg?v=1752860028
   Price: $1,146.99 USD
 - [Maven Graffiti Defense Clear Coating – Perigee Direct](https://www.perigeedirect.com/products/maven-exocoat-graffiti-defense-transparent-protection-from-paints-animal-waste-uv-damage-impervious-protective-clear-coat-sealant-liquid-glass-silicon-dioxide-sio2): Shop Maven ExoCoat Graffiti Defense at Perigee Direct for clear surface protection delivering resistance to paint stains UV damage and wear.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-23T23:05:38Z
   Vendor: Maven Invisible Armor
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -24081,7 +24075,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven_Invisible_Armor_Graffiti_Defense.jpg?v=1762790683
     Price: $799.99 USD
 - [Maven Fabric & Leather Water Sealant – Perigee Direct](https://www.perigeedirect.com/products/maven-invisible-armor-fabric-leather-sealant-invisible-armor-water-repellent-protection-against-stains-damage-liquids): Shop Maven Invisible Armor fabric and leather sealant at Perigee Direct for water-repellent stain protection without altering feel.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-19T19:15:38Z
   Vendor: Maven Invisible Armor
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -24103,7 +24097,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Online-Image-Maven-ExoCoat-Invisible-Armor-Fabric-_-Leather-_Square.png?v=1719876037
     Price: $799.99 USD
 - [Devcon 10760 Titanium Putty – Perigee Direct](https://www.perigeedirect.com/products/devcon-10760-titanium-putty-titanium-reinforced-epoxy): Order Devcon Titanium Putty at Perigee Direct for steel-strength epoxy that rebuilds worn parts and supports industrial wear resistance.
-  Updated: 2026-02-13T23:59:52Z
+  Updated: 2026-02-17T21:37:06Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -24117,7 +24111,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/10770_500px.jpg?v=1752861772
     Price: $464.41 USD
 - [Devcon DFense Blok Quick Patch – Perigee Direct](https://www.perigeedirect.com/products/devcon-11320-dfense-blok-quick-patch-ceramic-bead-filled-wear-abrasion-epoxy): Shop Devcon 11320 Dfense Blok at Perigee Direct for rapid abrasion repair, delivering ceramic-filled epoxy strength against wear damage.
-  Updated: 2026-02-13T23:59:53Z
+  Updated: 2026-02-17T21:37:08Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -24131,7 +24125,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11330.jpg?v=1758995072
     Price: $1,406.70 USD
 - [DEVCON 11340 DFense Blok Surface Wetting Agent](https://www.perigeedirect.com/products/devcon-dfense-blok-surface-wetting-agent): Shop Devcon Dfense Blok agent at Perigee Direct for surface wetting that improves adhesion and helps epoxy coatings bond to metal parts.
-  Updated: 2026-02-13T23:59:54Z
+  Updated: 2026-02-17T21:37:09Z
   Vendor: Devcon
   Product Type: Epoxy Coating
   Availability: Available
@@ -24145,7 +24139,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11340.jpg?v=1758993753
     Price: $747.57 USD
 - [Devcon 11410 Wear Resistant Putty – Perigee Direct](https://www.perigeedirect.com/products/devcon-11410-wear-resistant-putty-smooth-non-rusting-all-purpose-epoxy): Order Devcon 11410 wear-resistant epoxy putty for smooth repairs, corrosion resistance, and durable bonding on metal, concrete, and equipment.
-  Updated: 2026-02-13T23:59:55Z
+  Updated: 2026-02-17T21:37:10Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -24157,126 +24151,126 @@
     Availability: Available
     Price: $400.69 USD
 - [Devcon Wear Guard High Impact – Perigee Direct](https://www.perigeedirect.com/products/devcon-wear-guard-high-impact-30lb): Pick Devcon Wear Guard high impact at Perigee Direct for thirty pound abrasion repair material built to withstand heavy wear and shock loading.
-  Updated: 2026-02-13T23:59:56Z
+  Updated: 2026-02-17T21:37:11Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11460_500px_1.jpg?v=1752859975
   Price: $1,072.13 USD
 - [Devcon Wear Guard Gray 30 lb – Perigee Direct](https://www.perigeedirect.com/products/devcon-wear-guard-gray-ceramic-epoxy-liquid-30-lb-pail-2-1-mix-ratio-11470): Use Devcon Wear Guard at Perigee Direct for ceramic epoxy protection in liquid form repairing pumps, elbows and high-wear equipment.
-  Updated: 2026-02-13T23:59:57Z
+  Updated: 2026-02-17T21:37:12Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11470_500px_1.jpg?v=1752860596
   Price: $1,407.97 USD
 - [Devcon Wear Guard Ultra 30 lb – Perigee Direct](https://www.perigeedirect.com/products/devcon-wear-guard-ultra-30-lb): Shop Devcon Wear Guard Ultra at Perigee Direct for heavy-duty surface protection delivering abrasion resistance for industrial repair needs.
-  Updated: 2026-02-13T23:59:57Z
+  Updated: 2026-02-17T21:37:12Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11475.jpg?v=1752860012
   Price: $2,746.72 USD
 - [Dripless ETS3000 18:1 Caulking Gun – Perigee Direct](https://www.perigeedirect.com/products/dripless-ets3000-pro-series-1-10-gallon-caulking-gun-with-strong-18-1-force-leverage-thrust-ratio): Upgrade tooling with the Dripless ETS3000 at Perigee Direct for a pro caulking gun that adds 18 to 1 force to push thick sealants smoothly.
-  Updated: 2026-02-13T23:59:58Z
+  Updated: 2026-02-17T21:37:13Z
   Vendor: Dripless
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/driplessETS3000mainview.jpg?v=1752864084
   Price: $29.99 USD
 - [Dripless ETS2000 12:1 Caulking Gun – Perigee Direct](https://www.perigeedirect.com/products/dripless-ets2000-pro-series-1-10-gallon-caulking-gun-with-standard-12-1-force-leverage-thrust-ratio): Order Dripless ETS2000 caulking gun at Perigee Direct for manual 12-to-1 leverage dispensing giving smooth control for sealants and adhesives.
-  Updated: 2026-02-13T23:59:59Z
+  Updated: 2026-02-17T21:37:14Z
   Vendor: Dripless
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/driplessETS2000mainview.jpg?v=1756316432
   Price: $24.99 USD
 - [Plexus MA205HV 10:1 MMA Cartridge, Non-Conductive – Perigee Direct](https://www.perigeedirect.com/products/plexus-pc120-1-quart-bottle-primer-conditioner): Shop Plexus PC120 primer at Perigee Direct to improve surface preparation and enhance adhesion performance on plastics and composite materials.
-  Updated: 2026-02-14T00:00:00Z
+  Updated: 2026-02-17T21:37:15Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-490ml.jpg?v=1719846790
   Price: $133.32 USD
 - [Plexus MA420 Cream MMA 490ml Cartridge – Perigee Direct](https://www.perigeedirect.com/products/plexus-ao420-490ml-10-1-ratio-cartridge-cream): Shop Plexus AO420 cartridge at Perigee Direct for 10:1 ratio MMA bonding delivering reliable strength in a cream-colored formulation.
-  Updated: 2026-02-14T00:00:01Z
+  Updated: 2026-02-19T21:55:27Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/ma420_400ml.jpg?v=1756318016
   Price: $131.33 USD
 - [Plexus MA422 Adhesive IT132, 5 Gal Pail – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma422-5-gallon-pail-adhesive): Shop Plexus MA422 adhesive at Perigee Direct in 5-gallon pails delivering structural bonding strength for high-volume manufacturing needs.
-  Updated: 2026-02-14T00:00:02Z
+  Updated: 2026-02-17T21:37:17Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_1_7.jpg?v=1753723707
   Price: $1,435.90 USD
 - [PLEXUS MA422 490ml 10:1 Ratio Cartridge- Blue IT133](https://www.perigeedirect.com/products/plexus-ma422-490ml-10-1-ratio-cartridge-blue): Shop Plexus MA422 cartridges at Perigee Direct for 10:1 structural bonding delivering high-strength performance for demanding assemblies.
-  Updated: 2026-02-14T00:00:03Z
+  Updated: 2026-02-17T21:37:18Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/ma422_edit_1.png?v=1759001642
   Price: $132.57 USD
 - [Plexus MA425 MMA Adhesive IT150, 50 Gal – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma425-50-gallon-drum-adhesive): Shop Plexus MA425 adhesive in 50-gallon drums for high-volume structural bonding requiring strength, durability, and production efficiency.
-  Updated: 2026-02-14T00:00:04Z
+  Updated: 2026-02-17T21:37:19Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Plexus-MA425-5-Gal-Pail.jpg?v=1756320993
   Price: $11,763.08 USD
 - [Plexus MA425 MMA Adhesive 490ml Cartridge – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma425-490ml-10-1-ratio-cartridge-blue): Shop Plexus MA425 cartridges at Perigee Direct for 10 to 1 ratio structural bonding delivering toughness and dependable assembly strength.
-  Updated: 2026-02-16T15:15:48Z
+  Updated: 2026-02-20T20:32:29Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus_ma425_adhesive_front.jpg?v=1753729462
   Price: $136.99 USD
 - [Plexus MA425 Adhesive IT152, 5 Gal Pail – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma425-5-gallon-pail-adhesive): Get Plexus MA425 in a 5-gallon pail for medium work time structural bonding of metals, plastics, and dissimilar materials.
-  Updated: 2026-02-14T00:00:06Z
+  Updated: 2026-02-17T21:37:21Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Plexus-MA425-5-Gal-Pail_1.jpg?v=1756318463
   Price: $1,371.79 USD
 - [Plexus MA422 Activator 5 Gal Methacrylate – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma422-5-gallon-pail-activator-blue): Get Plexus MA422 activator at Perigee Direct in a five-gallon pail for reliable MMA adhesive activation with a known blue color indicator.
-  Updated: 2026-02-14T00:00:07Z
+  Updated: 2026-02-17T21:37:22Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_1_10.jpg?v=1753726180
   Price: $1,701.36 USD
 - [Plexus MA590 IT170 50 Gal Methacrylate Adhesive – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma590-50-gallon-drum-adhesive): Choose Plexus MA590 adhesive in a 50-gallon drum for high-volume structural bonding with long-lasting strength and durability.
-  Updated: 2026-02-14T00:00:08Z
+  Updated: 2026-02-17T21:37:23Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail.jpg?v=1752863879
   Price: $12,459.05 USD
 - [Plexus MA590 Activator 50 Gal Drum Adhesive – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma590-50-gallon-drum-activator): Find Plexus MA590 activator in a 50-gallon drum for large bonding operations requiring flexible and high-impact resistant joints.
-  Updated: 2026-02-14T00:00:09Z
+  Updated: 2026-02-17T21:37:24Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_1.jpg?v=1756319579
   Price: $12,459.05 USD
 - [PLEXUS MA590 - 5 Gallon Pail Adhesive IT177](https://www.perigeedirect.com/products/plexus-ma590-5-gallon-pail-adhesive-it177): Shop Plexus MA590 adhesive (IT177) in a 5-gallon pail designed for fast, durable bonding of tough plastics and composite surfaces.
-  Updated: 2026-02-14T00:00:10Z
+  Updated: 2026-02-22T06:45:18Z
   Vendor: Plexus
   Product Type: Methacrylate Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PLEXUS_MA590_copy.jpg?v=1752859748
   Price: $1,459.64 USD
 - [Plexus MA590 Activator 5 Gal Pail Methacrylate – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma590-5-gallon-pail-activator-it178): Buy Plexus MA590 activator (IT178) in a 5-gallon pail to pair with MA590 adhesive for flexible, high-strength structural bonds.
-  Updated: 2026-02-14T00:00:11Z
+  Updated: 2026-02-17T21:37:25Z
   Vendor: Plexus
   Product Type: Methacrylate Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_2.jpg?v=1752863381
   Price: $1,459.64 USD
 - [Plexus MA830 490ml 10:1 MMA Adhesive Cartridge – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma830-490ml-10-1-ratio-cartridge-gray): Select Plexus MA830 at Perigee Direct for a gray 10 to 1 ratio cartridge that bonds plastics and composites with high-strength joins.
-  Updated: 2026-02-14T00:00:12Z
+  Updated: 2026-02-17T21:37:26Z
   Vendor: Plexus
   Product Type: Methacrylate Adhesive
   Availability: Available
@@ -24290,7 +24284,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/ma830-490ml.jpg?v=1752861807
     Price: $149.47 USD
 - [Plexus MA1025 Low Shrink Methacrylate Glue – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma1025-low--shrinkage-two-part-methacrylate-adhesive-it232x-it235): Shop Plexus MA1025 at Perigee Direct for low-shrink, two-part MMA adhesive ideal for engineered plastics, panels and assemblies with high load.
-  Updated: 2026-02-14T00:00:14Z
+  Updated: 2026-02-17T21:37:28Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24312,21 +24306,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_2_822fc1f9-8275-4adb-b975-c4d0ce33a79f.jpg?v=1753723897
     Price: $1,894.50 USD
 - [PLEXUS MA1023 - 50 Gallon Drum Adhesive](https://www.perigeedirect.com/products/plexus-ma1023-50-gallon-drum-adhesive): Purchase Plexus MA1023 at Perigee Direct for a large volume drum adhesive supplying reliable bonding strength for production environments.
-  Updated: 2026-02-14T00:00:14Z
+  Updated: 2026-02-17T21:37:29Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_0df4eaf3-6ff4-428b-93cd-e9bab387b0a1.jpg?v=1756319458
   Price: $13,230.18 USD
 - [PLEXUS MA830 - 5 Gallon Pail Activator- Gray](https://www.perigeedirect.com/products/plexus-ma830-5-gallon-pail-activator-gray): Shop Plexus MA830 gray activator in 5-gallon pails, designed to support strong, reliable MMA adhesive bonding in production environments.
-  Updated: 2026-02-14T00:00:15Z
+  Updated: 2026-02-17T21:37:30Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_1_4_dbb53063-0e97-4813-ae8c-b1e0abf8de73.jpg?v=1753727340
   Price: $1,690.99 USD
 - [Plexus MA1020 Two-Part Methacrylate Glue – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma1020-two-part-methacrylate-adhesive-it222x-it225-it225): Explore Plexus MA1020 at Perigee Direct for two-part methacrylate adhesive that delivers tough structural bonding for plastics, metals and composites.
-  Updated: 2026-02-14T00:00:17Z
+  Updated: 2026-02-17T21:37:31Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24344,7 +24338,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_d04c023a-6800-4006-b27a-bc0fa680361b.jpg?v=1752865842
     Price: $13,231.43 USD
 - [MixCoat SP-DPF Atomizing Air Tube Assembly | Perigee Direct](https://www.perigeedirect.com/products/mixcoat-sp-dpf-atomizing-air-tubes-with-quick-lock-coupling-pre-assembled-and-individual-tubes-sp-dpf-series-151689-151690-129302-129303): Shop MixCoat SP DPF atomizing air tubes at Perigee Direct for spray systems, delivering consistent airflow with secure quick-lock coupling.
-  Updated: 2026-02-14T00:00:18Z
+  Updated: 2026-02-17T21:37:32Z
   Vendor: MixPac MixCoat
   Product Type: Accessories
   Availability: Available
@@ -24358,7 +24352,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPacMixCoatSP-DPFAtomizingAirTubes.png?v=1759080282
     Price: $44.99 USD
 - [Plexus MA300 Part A Resin 5 & 50 Gal Drums – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma300-5-gallon-pail-adhesive): Get Plexus MA300 in 5-gallon pails at Perigee Direct for large-scale MMA bonding applications where strong structural performance is needed.
-  Updated: 2026-02-14T00:00:19Z
+  Updated: 2026-02-17T21:37:33Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24372,7 +24366,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/generic_drum_edit_8.png?v=1759000366
     Price: $10,337.84 USD
 - [Plexus MA310 Part A Resin 5 & 50 Gal Pails – Perigee Direct](https://www.perigeedirect.com/products/plexus-bulk-ma310-part-a-adheive-resin-5-gallon-pails-50-gallon-drums): Shop Plexus MA310 Part A adhesive resin in bulk pails or drums, ideal for large-scale structural bonding and high-volume manufacturing use.
-  Updated: 2026-02-14T00:00:20Z
+  Updated: 2026-02-17T21:37:34Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24386,42 +24380,42 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6.jpg?v=1753727321
     Price: $14,681.99 USD
 - [PLEXUS MA2230/2245/2290 – 5 Gallon Pail Activator – Black](https://www.perigeedirect.com/products/plexus-ma2230-2245-2290-5-gallon-pail-activator-black): Shop Plexus MA2230 2245 2290 activator black 5 gallon pails at Perigee Direct to prep surfaces and ensure reliable structural adhesive bonds.
-  Updated: 2026-02-14T00:00:21Z
+  Updated: 2026-02-17T21:37:35Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_1_ee1a129d-b085-4b3c-b4b3-d9d6a23edd7e.jpg?v=1752861035
   Price: $1,876.99 USD
 - [Devcon HV Tile Adhesive 20 lb – Perigee Direct](https://www.perigeedirect.com/products/devcon-hv-tile-adhesive-20-lb): Source Devcon HV tile adhesive at Perigee Direct for heavy-duty tile bonding projects using a strong, high-volume industrial mix in a twenty-pound pack.
-  Updated: 2026-02-14T00:00:22Z
+  Updated: 2026-02-17T21:37:36Z
   Vendor: Devcon
   Product Type: Floor Patch Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-Pail-copy_1.jpg?v=1753725381
   Price: $679.48 USD
 - [Devcon Wear Guard High Load – Perigee Direct](https://www.perigeedirect.com/products/devcon-wear-guard-high-load-30-lb-container): Get Devcon Wear Guard at Perigee Direct in 30-pound containers for high-load abrasion resistance used on machinery parts and industrial surfaces.
-  Updated: 2026-02-14T00:00:23Z
+  Updated: 2026-02-17T21:37:37Z
   Vendor: Devcon
   Product Type: Protective Coatings & Sealants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11490_500px_1.jpg?v=1756321441
   Price: $764.99 USD
 - [Devcon Ceramic Repair Compound – Perigee Direct](https://www.perigeedirect.com/products/devcon-ceramic-repair-compound-32lb-can): Repair ceramic surfaces using Devcon compound from Perigee Direct with a 32 pound can providing durable rebuild of worn equipment.
-  Updated: 2026-02-14T00:00:24Z
+  Updated: 2026-02-17T21:37:38Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/11730.jpg?v=1758995661
   Price: $2,222.39 USD
 - [PLEXUS MA2030 - 490ml 10:1 Ratio Cartridge - White](https://www.perigeedirect.com/products/plexus-ma2030-490ml-10-1-ratio-cartridge-white): Shop Plexus MA2030 cartridges at Perigee Direct for 10:1 structural bonding delivering reliable strength with white MMA adhesive formulation.
-  Updated: 2026-02-14T00:00:25Z
+  Updated: 2026-02-17T21:37:39Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-490ml_3.jpg?v=1720047970
   Price: $138.99 USD
 - [PLEXUS MA2045 - 490ml 10:1 Ratio Cartridge - White](https://www.perigeedirect.com/products/plexus-ma2045-490ml-10-1-ratio-cartridge-white): Shop Plexus MA2045 cartridges at Perigee Direct for 10:1 ratio bonding delivering dependable structural strength for demanding assemblies.
-  Updated: 2026-02-14T00:00:26Z
+  Updated: 2026-02-17T21:37:41Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24439,42 +24433,42 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml.jpg?v=1758996320
     Price: $90.00 USD
 - [PLEXUS MA2230 - 50 Gallon Pail Adhesive](https://www.perigeedirect.com/products/plexus-ma2230-50-gallon-pail-adhesive): Shop Plexus MA2230 adhesive in 50-gallon pails for large-scale structural bonding requiring toughness, impact resistance, and consistency.
-  Updated: 2026-02-14T00:00:27Z
+  Updated: 2026-02-17T21:37:41Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_2.jpg?v=1753727801
   Price: $12,585.99 USD
 - [PLEXUS MA2245 - 490ml 10:1 Ratio Cartridge - Blue](https://www.perigeedirect.com/products/plexus-ma2245-490ml-10-1-ratio-cartridge-blue): Shop Plexus MA2245 blue adhesive in a 490ml 10:1 cartridge, ideal for strong, flexible bonding of plastics, metals, and composites.
-  Updated: 2026-02-14T00:00:28Z
+  Updated: 2026-02-17T21:37:42Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Plexus-MA2245-490ml-Blue.jpg?v=1753725765
   Price: $135.26 USD
 - [PLEXUS MA2245 - 490ml 10:1 Ratio Cartridge - Black](https://www.perigeedirect.com/products/plexus-ma2245-490ml-10-1-ratio-cartridge-black): Shop Plexus MA2245 black adhesive in a 490ml 10:1 ratio cartridge designed for high-performance bonding of engineered plastics.
-  Updated: 2026-02-14T00:00:29Z
+  Updated: 2026-02-17T21:37:43Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-combo_1_6_1.jpg?v=1753728887
   Price: $133.95 USD
 - [PLEXUS MA2290 - 5 Gallon Pail Adhesive](https://www.perigeedirect.com/products/plexus-ma2290-5-gallon-pail-adhesive): Shop Plexus MA2290 adhesive in 5-gallon pails for tough structural bonding, impact resistance, and reliable performance in production settings.
-  Updated: 2026-02-14T00:00:30Z
+  Updated: 2026-02-17T21:37:44Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AEE1054E-486E-464B-AE8A-A278B107BAB3.png?v=1759001483
   Price: $1,453.99 USD
 - [PLEXUS MA2290 - 50 Gallon Pail Adhesive](https://www.perigeedirect.com/products/plexus-ma2290-50-gallon-pail-adhesive): Choose Plexus MA2290 50-gallon drum for bulk bonding operations requiring excellent impact resistance and high joint strength.
-  Updated: 2026-02-14T00:00:31Z
+  Updated: 2026-02-17T21:37:45Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_2_30e9f533-bbae-4474-8af6-5d47b4f75549.jpg?v=1758996075
   Price: $12,249.99 USD
 - [Plexus MA320 MMA 490ml Cartridges, Colors – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma320-490ml-10-1-ratio-cartridge-black): Shop Plexus MA320 490ml cartridges at Perigee Direct for 10 to 1 black MMA adhesive delivering strong structural bonds on composites.
-  Updated: 2026-02-14T00:00:33Z
+  Updated: 2026-02-17T21:37:47Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24500,28 +24494,28 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_0e5b6a55-e2db-4558-abbc-0471829a6318.jpg?v=1756316865
     Price: $71.99 USD
 - [PLEXUS MA320 - 5 Gallon Pail Adhesive](https://www.perigeedirect.com/products/plexus-ma320-5-gallon-pail-adhesive): Shop Plexus MA320 adhesive in a 5-gallon pail for fast-setting, high-strength bonding of thermoplastics and composites.
-  Updated: 2026-02-14T00:00:34Z
+  Updated: 2026-02-17T21:37:48Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_3.jpg?v=1752864282
   Price: $1,736.99 USD
 - [DEVCON 13090 Heavy Duty Floor Grip - 2 gal](https://www.perigeedirect.com/products/devcon-13090-heavy-duty-floor-grip-2-gal): Choose Devcon Heavy Duty Floor Grip at Perigee Direct for a two-gallon non-slip floor coating that increases safety in industrial spaces.
-  Updated: 2026-02-14T00:00:35Z
+  Updated: 2026-02-17T21:37:48Z
   Vendor: Devcon
   Product Type: Floor Patch Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-Floor-Grip-2-Gal-kit-13090-scaled.jpg?v=1753726946
   Price: $816.33 USD
 - [Devcon Floor Patch 10 lb – Perigee Direct](https://www.perigeedirect.com/products/devcon-floor-patch-10-lb): Shop Devcon floor patch in 10-lb format for durable concrete repairs, smooth finishes, and long-lasting industrial floor performance.
-  Updated: 2026-02-14T00:00:36Z
+  Updated: 2026-02-17T21:37:49Z
   Vendor: Devcon
   Product Type: Floor Patch Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/0026092-11.webp?v=1758994897
   Price: $217.26 USD
 - [Devcon 13110 FC Floor Patch 10lb Kit](https://www.perigeedirect.com/products/devcon-fc-floor-patch-10lb-kit): Shop Devcon FC floor patch kit for fast-setting concrete repairs, smooth finishes, and long-lasting results in industrial floor applications.
-  Updated: 2026-02-14T00:00:37Z
+  Updated: 2026-02-17T21:37:50Z
   Vendor: Devcon
   Product Type: Floor Patch Adhesive
   Availability: Available
@@ -24542,28 +24536,28 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/GEOSTAR_G5156.135.png?v=1759000934
     Price: $7,698.00 USD
 - [Devcon 13120 All Purpose Concrete Floor Patch 40lb Kit Lot](https://www.perigeedirect.com/products/devcon-floor-patch-40lb-kit-lot): Buy Devcon Floor Patch 40 lb kit at Perigee Direct for durable concrete repair that levels damaged areas and supports heavy industrial traffic reliably.
-  Updated: 2026-02-14T00:00:37Z
+  Updated: 2026-02-17T21:37:51Z
   Vendor: Devcon
   Product Type: Floor Patch Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-Floor-Patch-40lb-13120.jpg?v=1753727462
   Price: $592.22 USD
 - [Devcon Floor Patch Resurfacer Kit – Perigee Direct](https://www.perigeedirect.com/products/devcon-floor-patch-resurfacer-41lb-kit): Shop Devcon floor patch resurfacer kits at Perigee Direct for heavy-duty concrete repair delivering fast-curing, durable results.
-  Updated: 2026-02-14T00:00:38Z
+  Updated: 2026-02-17T21:37:52Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/13130.jpg?v=1752866745
   Price: $591.61 USD
 - [Devcon Ultra Quartz 35 lb – Perigee Direct](https://www.perigeedirect.com/products/devcon-ultra-quartz-35-lb): Shop Devcon Ultra Quartz at Perigee Direct for 35-pound, high-strength, wear-resistant product supporting heavy service applications.
-  Updated: 2026-02-14T00:00:39Z
+  Updated: 2026-02-17T21:37:53Z
   Vendor: Devcon
   Product Type: Floor Patch Adhesive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-Ultra-Quartz-35-lb-copyi.jpg?v=1752859927
   Price: $790.71 USD
 - [DEVCON 14279 90 Degree Spray Nozzle Ceramic-filled Epoxy](https://www.perigeedirect.com/products/devcon-14279-90-degree-spray-nozzle-ceramic-filled-epoxy): ITW Devcon EZ-Spray 90 degree spray mixing nozzle (Part Number 14279). Works in a mix ratio of 3:1. For use with Devcon EZ-Spray Ceramic-filled epoxy,
-  Updated: 2026-02-14T00:00:40Z
+  Updated: 2026-02-17T21:37:54Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -24577,42 +24571,42 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-14280-Mark-V-Gun.jpg?v=1752865625
   Price: $94.99 USD
 - [DEVCON 14285 Mark V 1-1 Mix Nozzle for 50ml - Mix Nozzle](https://www.perigeedirect.com/products/devcon-mark-v-1-1-mix-nozzle-for-50ml-mix-nozzle): DEVCON Mark V 1-1 Mix Nozzle for 50ml – Mix Nozzle Used for two-part adhesives and sealants. Ensures proper blending of the two parts.
-  Updated: 2026-02-14T00:00:41Z
+  Updated: 2026-02-22T19:15:43Z
   Vendor: Devcon
   Product Type: Mixing Nozzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-14285-Static-Mixer-copy.jpg?v=1753727859
   Price: $3.80 USD
 - [DEVCON 14289 Straight Ceramic Spray Nozzle](https://www.perigeedirect.com/products/devcon-14289-straight-spray-nozzle): Shop Devcon 14289 straight spray nozzles at Perigee Direct for clean targeted aerosol application and consistent coating coverage every time.
-  Updated: 2026-02-16T19:40:34Z
+  Updated: 2026-02-20T16:50:39Z
   Vendor: Devcon
   Product Type: Spray Nozzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/14289-Devcon-Straight-Spray-Nozzle-copy.jpg?v=1753726976
   Price: $4.99 USD
 - [PLEXUS MA2245 - 50 Gallon Drum Adhesive](https://www.perigeedirect.com/products/plexus-ma2245-50-gallon-drum-adhesive): Buy Plexus MA2245 in a 50-gallon drum for industrial-scale bonding of metals and engineered plastics with consistent performance.
-  Updated: 2026-02-14T00:00:43Z
+  Updated: 2026-02-17T21:37:56Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_3.jpg?v=1756321814
   Price: $12,705.99 USD
 - [PLEXUS MA320 - 50 Gallon Drum Adhesive](https://www.perigeedirect.com/products/plexus-ma320-50-gallon-drum-adhesive): Find Plexus MA320 adhesive in a 50-gallon drum, built for large-scale applications needing strong bonds on engineered materials.
-  Updated: 2026-02-14T00:00:44Z
+  Updated: 2026-02-17T21:37:57Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_4_8734f268-b1fb-4764-96b9-73c2d1bea006.jpg?v=1756318282
   Price: $11,746.99 USD
 - [PLEXUS MA550 - 5 Gallon Pail Adhesive](https://www.perigeedirect.com/products/plexus-ma550-5-gallon-pail-adhesive): Shop Plexus MA550 five-gallon pails at Perigee Direct for two-part MMA adhesive trusted for composite boats, trailers and panel bonding.
-  Updated: 2026-02-14T00:00:45Z
+  Updated: 2026-02-17T21:37:58Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-pail_4.jpg?v=1753726550
   Price: $1,438.99 USD
 - [Plexus AO420 MMA 10:1 Cartridge Adhesive – Perigee Direct](https://www.perigeedirect.com/products/plexus-ao420-490ml-10-1-ratio-cartridge-black): Choose Plexus AO420 in a 490ml cartridge with 10:1 ratio, black color, built for structural bonding of composite and metal parts.
-  Updated: 2026-02-14T00:00:48Z
+  Updated: 2026-02-19T22:10:38Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24660,21 +24654,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-combo_1_1_45b752dd-e3dc-486c-adc9-27c183ebf567.jpg?v=1756317817
     Price: $11,732.34 USD
 - [PLEXUS MA550 - 50 Gallon Drum Adhesive](https://www.perigeedirect.com/products/plexus-ma550-50-gallon-drum-adhesive): Buy Plexus MA550 50-gallon drum at Perigee Direct for a large volume of MMA adhesive that gives high-strength bonds in marine or industrial structures.
-  Updated: 2026-02-14T00:00:49Z
+  Updated: 2026-02-17T21:38:02Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_5.jpg?v=1752863691
   Price: $12,425.99 USD
 - [PLEXUS MA920 - 50 Gallon Drum Adhesive](https://www.perigeedirect.com/products/plexus-ma920-50-gallon-drum-adhesive): Order Plexus MA920 fifty-gallon drums at Perigee Direct for large-volume MMA adhesive supply supporting composite builds and structural assembly.
-  Updated: 2026-02-14T00:00:50Z
+  Updated: 2026-02-17T21:38:03Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_6.jpg?v=1756317077
   Price: $12,265.99 USD
 - [PLEXUS MA590 - 400ml 1:1 Ratio Twin Cartridge-Black](https://www.perigeedirect.com/products/plexus-ma590-400ml-1-1-ratio-twin-cartridge-black): Shop Plexus MA590 at Perigee Direct. High-strength MMA in a twin cartridge system for reliable metal and composite bonding. Enquire today.
-  Updated: 2026-02-14T00:00:52Z
+  Updated: 2026-02-23T19:45:57Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24696,7 +24690,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/ma590_400ml.jpg?v=1756319305
     Price: $60.00 USD
 - [Plexus MA8110 GB MMA for Metals & Galvanized Parts – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma8110-gb-metals-galvanized-metals-hot-dipped-metals-nylons-and-plastics-mma-glue-medium-10-min-set-toughened-low-odor-marine-optimized): Shop Plexus MA8110 GB adhesive at Perigee Direct for bonding metals nylons and plastics, delivering toughened low-odor MMA strength.
-  Updated: 2026-02-15T18:11:06Z
+  Updated: 2026-02-23T17:36:38Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -24758,7 +24752,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/itw_ma8110_856f2805-ced7-4ebb-a821-2905cc50d3f2.jpg?v=1756316279
     Price: $50.00 USD
 - [Devcon HP250 High Performance Epoxy – Perigee Direct](https://www.perigeedirect.com/products/devcon-hp250-14315-14415-60-65-minute-slow-setting-toughened-chemical-resistant-high-performance-epoxy-adhesive-straw-color-50ml-400ml): Choose Devcon HP250 at Perigee Direct for a slow-setting, toughened epoxy with strong chemical resistance in a straw color for demanding bonds.
-  Updated: 2026-02-14T00:00:57Z
+  Updated: 2026-02-17T21:38:09Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
@@ -24779,7 +24773,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bank-Surcharges-Dispute-Charge-Reimbursement_83bc1755-bb3d-41a3-a0e8-ba752021890d.jpg?v=1759859922
   Price: $100.00 USD
 - [CS-NRI Blue Compression Film – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-compression-film-blue-for-standard-temp-and-standard-performance-repair-jobs-12700-04500-12-inch-x-700-feet-4-inch-x-500-feet): Get CS NRI blue compression film at Perigee Direct for standard temperature repair jobs using 12-inch and 4-inch rolls for wrap support.
-  Updated: 2026-02-14T00:00:58Z
+  Updated: 2026-02-17T21:38:11Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -24797,21 +24791,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/silicone-tape-1x10-feetST500_f593d6e9-01fb-4712-bd11-209cc65a9a90.webp?v=1753727441
     Price: $34.99 USD
 - [CS-NRI Porcupine Perforating Roller – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-porcupine-roller-for-perforating-compression-wraps-perf2x2): Find the CS NRI porcupine roller at Perigee Direct, designed for perforating compression wraps and improving bonding during repair work. Order now.
-  Updated: 2026-02-14T00:00:59Z
+  Updated: 2026-02-17T21:38:12Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PorcupineRollerPERF2X2.jpg?v=1756321179
   Price: $179.99 USD
 - [SynthoGlass Large Applicator Stick](https://www.perigeedirect.com/products/cs-nri-large-applicator-stick): Large applicator stick ensures smooth application and even compression for repair wraps, helping achieve strong and consistent pipe repairs. Buy now.
-  Updated: 2026-02-14T00:01:00Z
+  Updated: 2026-02-17T21:38:13Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CS-NRI-ONLY-LOGO_0a7ec464-4d91-498c-b922-86c110a50513.jpg?v=1753724216
   Price: $17.99 USD
 - [CS-NRI PPR-290 Epoxy Primer – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-ppr-290-two-part-epoxy-primer-aka-ppr-290-1qt-pr-ppr-290-2gl): Get CS NRI PPR 290 at Perigee Direct for two-part epoxy primer used as PPR 290 coatings in quart and two-gallon sizes for repair preparation.
-  Updated: 2026-02-14T00:01:01Z
+  Updated: 2026-02-17T21:38:14Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -24825,21 +24819,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CS-NRI-ONLY-LOGO_8165f583-5390-422d-93c0-142d40551adf.jpg?v=1752865632
     Price: $888.78 USD
 - [DEVCON Flexane High Performance Putty - 1 lb](https://www.perigeedirect.com/products/devcon-flexane-high-performance-putty-1-lb): Shop Devcon Flexane high-performance putty at Perigee Direct for durable flexible repairs bonding rubber to metal offering strong industrial patching.
-  Updated: 2026-02-14T00:01:02Z
+  Updated: 2026-02-17T21:38:15Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15330_500px.jpg?v=1758996478
   Price: $187.88 USD
 - [Devcon Dev-Thane 5 400ML Grey Urethane Adhesive](https://www.perigeedirect.com/products/devcon-dev-thane-5-400ml-grey-urethane-adhesive): Shop Devcon Dev-Thane 5 400ml urethane adhesive for flexible, high-strength bonding in industrial repair and construction applications.
-  Updated: 2026-02-14T00:01:03Z
+  Updated: 2026-02-22T02:39:31Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-Devthane-5-400ml-copy-2.jpg?v=1756321225
   Price: $126.31 USD
 - [DEVCON Flexane Fast  Putty [4-1] - 400ml](https://www.perigeedirect.com/products/devcon-flexane-fast--putty-4-1-400ml): Order Devcon Flexane fast  putty at Perigee Direct for flexible urethane repairs offering fast curing and durable industrial patching performance.
-  Updated: 2026-02-14T00:01:04Z
+  Updated: 2026-02-17T21:38:16Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
@@ -24892,7 +24886,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MavenAdhesivesLogo-WithCatchphrase_43e244f5-1906-4704-bfc6-b1b78b82ec13.jpg?v=1756316499
     Price: $2,199.98 USD
 - [CS-NRI Syntho Coat SCHT Topcoat – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-syntho-coat-scht-topcoat-sealant-aka-schtpt-pint-schtqt-quart): CS-NRI Syntho-Coat SCHT TopCoat Sealant (aka SCHTPT pint, SCHTQT quart) is a solvent free, chemically resistant, bulk epoxy Top Coat sealant used for corrosion protection.
-  Updated: 2026-02-14T00:01:05Z
+  Updated: 2026-02-17T21:38:17Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -24906,7 +24900,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CS-NRI-ONLY-LOGO_291a90f0-44d1-444a-add6-674dc59ca9f4.jpg?v=1756319915
     Price: $566.64 USD
 - [Devcon Flexane 94 Liquid – Perigee Direct](https://www.perigeedirect.com/products/devcon-flexane-94-liquid-castable-non-shrinking-low-viscosity-urethane-compound): Shop Devcon Flexane 94 liquid urethane for high-durability, flexible casting with non-shrinking, low-viscosity performance in industrial repairs.
-  Updated: 2026-02-14T00:01:06Z
+  Updated: 2026-02-17T21:38:19Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
@@ -24920,21 +24914,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15260_500px.jpg?v=1758994255
     Price: $811.56 USD
 - [Devcon Fast  Flexane 15050 – Perigee Direct](https://www.perigeedirect.com/products/devcon-flexane-fast--urethane-liquid-400ml-cartridge-4-1-15050): Shop Devcon Flexane fast  400ml urethane for quick-set flexible casting with strong durability in field repairs and industrial applications.
-  Updated: 2026-02-14T00:01:07Z
+  Updated: 2026-02-17T21:38:20Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-Flexane-Fast--Liquid-400ml_1.jpg?v=1756320544
   Price: $128.70 USD
 - [Devcon Brushable Flexane – Perigee Direct](https://www.perigeedirect.com/products/devcon-flexane-high-performance-brushable-urethane-coating-1-lb): Order Devcon Flexane brushable coating at Perigee Direct for flexible urethane protection delivering durable surface coverage in industrial use.
-  Updated: 2026-02-14T00:01:08Z
+  Updated: 2026-02-17T21:38:20Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15330_500px_83c832ec-96b0-4de3-bc54-6300a6cef7b6.jpg?v=1756317848
   Price: $155.62 USD
 - [DEVCON R-Flex Belt Repair Kit](https://www.perigeedirect.com/products/devcon-r-flex-belt-repair-kit): Shop Devcon R Flex belt repair kit at Perigee Direct for durable rubber belt patching delivering fast-curing wear resistance for industrial machinery maintenance.
-  Updated: 2026-02-14T00:01:09Z
+  Updated: 2026-02-17T21:38:22Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
@@ -24948,7 +24942,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Devcon-R-Flex-Belt-Repair-Kit-4lb15550-Hardener-and-Resin-scaled.jpg?v=1752863126
     Price: $767.95 USD
 - [Devcon Flexane 80 Liquid Tough castable, non-shrinking, medium viscosity, urethane compound](https://www.perigeedirect.com/products/devcon-flexane-80-liquid-tough-castable-non-shrinking-medium-viscosity-urethane-compound): Description Tough castable, non-shrinking, medium viscosity, urethane compound for part encapsulation, rugged, flexible molds and patterns, holding fixtures and forming die pads can be used to form equipment linings that are abrasive-resistant and noise reducing. KEY FEATURES• Two-component compound easy to mix and pour • Cures at room temperature to a semi-rigid rubber material • Makes precision molds that faithfully reproduce detail • Returns to its original shape after 350% elongation • Ten-hour demolding time Listed under NSN#8030-00-144-9756 Intended uses Reproduce low- to medium-volume or discontinued rubber parts; form flexible molds and nonscratching holding fixtures/linings; encapsulate wire and electronics subject to impact, vibration, expansion, and contraction Applications: Pads for press brake forming Lines process equipment to dampen noise Protect equipment surfaces from wear and corrosion Pouring concrete expansion joints Casting flexible parts and molds Physical Properties: Cured 7 days @ 75° F Color: Black Coverage/lb. : 106 Sq. in./lb. @ 1/4″ Cured Hardness: 87A Dielectric Strength: 350 Volts/mils Functional : 16 Hrs. Maximum Elongation: 650% Mix Ratio: 77 Resin; 23 Curing Agent/WT Mixed Viscosity: 10,000 cps Tensile Strength: 2,100 psi
-  Updated: 2026-02-14T00:01:11Z
+  Updated: 2026-02-17T21:38:23Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
@@ -24962,7 +24956,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15810_500px.jpg?v=1752865436
     Price: $799.27 USD
 - [DEVCON Flexane 80 Putty Trowelable, 100% solids, tear-resistant urethane compound](https://www.perigeedirect.com/products/devcon-flexane-80-putty-trowelable-100-solids-tear-resistant-urethane-compound): Description Trowelable, 100% solids, tear-resistant urethane compound used to line and repair process equipment exposed to impact abrasion, vibration, expansion, and contraction. KEY FEATURES• Cures to a tough, medium-hard rubber (Hardness 87 Shore A)• Easy-to-mix; smoothly trowels • Service temperatures to 180°F in dry environments and 120°F in wet environments• Bonds to metal, concrete, rubber, wood, and fiberglass surfaces• Used with Flexane® primers for maximum adhesion to metal, rubber, and concrete surfaces Intended usesReproduce low- to medium-volume or discontinued rubber parts; form flexible molds and nonscratching holding fixtures/linings; encapsulate wire and electronics subject to impact, vibration, expansion, and contraction Physical Properties: Cured 7 days @75° F Color: Black Coverage/lb. : 94 Sq. in./lb. @ 1/4″ Cured Hardness: 87A Dielectric Strength: 350 Volts/mils Functional : 12 Hrs. Maximum Elongation: 300% Mixed Viscosity: Putty Pot Life: 20 min. @78 ̊F Tensile Strength: 1,700 psi
-  Updated: 2026-02-14T00:01:12Z
+  Updated: 2026-02-17T21:38:24Z
   Vendor: Devcon
   Product Type: Urethane
   Availability: Available
@@ -24976,7 +24970,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15850.jpg?v=1756321652
     Price: $399.99 USD
 - [CS-NRI Red Compression Film – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-compression-film-red-for-high-temp-and-high-performance-repair-jobs-r04500-r12500-12-inch-x-500-feet-4-inch-x-500-feet): Get CS NRI compression film at Perigee Direct for red high temperature repair film in 12 inch and 4 inch widths for wrap support on jobs.
-  Updated: 2026-02-14T00:01:13Z
+  Updated: 2026-02-17T21:38:25Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -24994,33 +24988,33 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/silicone-tape-1x10-feetST500.webp?v=1753727275
     Price: $34.99 USD
 - [CS-NRI Silicone Tape Red ST500 – Perigee Direct](https://www.perigeedirect.com/products/cs-nri-silicone-tape-for-adhering-compression-film-and-otther-wrapping-material-red-st500-1-inch-x-10-feet): Shop CS NRI silicone tape at Perigee Direct for secure adhesion of compression films and wrapping materials in repair and sealing applications.
-  Updated: 2026-02-14T00:01:14Z
+  Updated: 2026-02-17T21:38:26Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/silicone-tape-1x10-feetST500_af971a3c-d104-44ad-aff6-d7758941a197.webp?v=1753723823
   Price: $34.99 USD
 - [Leister 161.136 - Electronic Housing for Unid](https://www.perigeedirect.com/products/leister-161-136-electronic-housing-for-unidrive-500): Find the Leister 161.136 electronic housing for Unidrive 500 units, providing secure and durable casing for key components.
-  Updated: 2026-02-14T00:01:15Z
+  Updated: 2026-02-17T21:38:27Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Price: $94.50 USD
 - [Leister 160.848 - Communication Module Display](https://www.perigeedirect.com/products/leister-160-848-communication-module-display-small): Get the Leister 160.848 communication module with small display for fast integration and diagnostics in automation tools.
-  Updated: 2026-02-14T00:01:16Z
+  Updated: 2026-02-17T21:38:28Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts.jpg?v=1752861111
   Price: $377.74 USD
 - [Leister 161.128 - Electronics Cover](https://www.perigeedirect.com/products/leister-161-128-electronic-cover): Find the Leister electronic cover 161.128 at Perigee Direct, designed to protect internal components and support tool durability. Replace yours and order online today.
-  Updated: 2026-02-14T00:01:17Z
+  Updated: 2026-02-17T21:38:29Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Price: $85.00 USD
 - [DEVCON FL-10 15980 Flexane Primer – 4 oz](https://www.perigeedirect.com/products/devcon-fl-10-15980-flexane-primer-4-oz): Shop Devcon FL 10 primer at Perigee Direct for Flexane applications where 4oz of primer increases adhesion to metal before coating.
-  Updated: 2026-02-14T00:01:18Z
+  Updated: 2026-02-17T21:38:30Z
   Vendor: Devcon
   Product Type: Flexane Primer
   Availability: Available
@@ -25038,14 +25032,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15980_500px.jpg?v=1756318852
     Price: $27.00 USD
 - [Devcon FL-20 Flexane Primer 4 oz Can 15985](https://www.perigeedirect.com/products/devcon-fl-20-flexane-primer-4-oz-can-15985): Get Devcon FL 20 Flexane Primer at Perigee Direct for improved adhesion on urethane coatings ensuring long-lasting wear on repaired surfaces.
-  Updated: 2026-02-14T00:01:19Z
+  Updated: 2026-02-17T21:38:31Z
   Vendor: Devcon
   Product Type: Flexane Primer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/15980_500px_10381f6d-4bec-46de-9b25-59b6a7f5e7d1.jpg?v=1752865380
   Price: $45.55 USD
 - [Devcon Silite RTV Silicone (Multi-Color) – Perigee Direct](https://www.perigeedirect.com/products/devcon-silite-rtv-silicone-in-white-clear-or-red-17140-17150-17100-17130): Get Devcon Silite RTV at Perigee Direct for clear, red or white silicone that cures at room temperature for sealing and gasketing uses.
-  Updated: 2026-02-14T00:01:22Z
+  Updated: 2026-02-17T21:38:33Z
   Vendor: Devcon
   Product Type: Silicone
   Availability: Available
@@ -25067,42 +25061,42 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/17140_500px.jpg?v=1752865076
     Price: $23.65 USD
 - [Devcon Cleaner Blend 300 1 Pint Metal Degreaser 19510](https://www.perigeedirect.com/products/devcon-cleaner-blend-300-1-pint-metal-degreaser-19510): Shop Devcon Cleaner Blend 300 at Perigee Direct for metal degreasing that prepares surfaces for bonding and removes oil from part areas.
-  Updated: 2026-02-14T00:01:22Z
+  Updated: 2026-02-17T21:38:34Z
   Vendor: Devcon
   Product Type: Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/19510_500px.jpg?v=1758993804
   Price: $73.66 USD
 - [Devcon Liquid Release Agent 1 Pint 19600](https://www.perigeedirect.com/products/devcon-liquid-release-agent-1-pint-19600): Use Devcon Liquid Release Agent from Perigee Direct to prevent adhesion during molding work and ensure clean release of cured parts.
-  Updated: 2026-02-14T00:01:23Z
+  Updated: 2026-02-17T21:38:35Z
   Vendor: Devcon
   Product Type: Release Agent
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/19600_500px_2.jpg?v=1753729012
   Price: $115.50 USD
 - [Devcon Fasmetal 10 HVAC Repair – Perigee Direct](https://www.perigeedirect.com/products/devcon-fasmetal-10-hvac-repair-special-f-6-5-oz-tube-19770): Choose Permabond LH050 at Perigee Direct for an anaerobic thread sealant safe for potable water use that seals metal threaded joints.
-  Updated: 2026-02-14T00:01:24Z
+  Updated: 2026-02-17T21:38:36Z
   Vendor: Devcon
   Product Type: Epoxy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/DEV19770.jpg?v=1756318334
   Price: $63.39 USD
 - [Leister 106.968 Spare Blade for Hand Groover Tool](https://www.perigeedirect.com/products/leister-spare-blade-106-968-for-hand-groover-tool): 106.968 Leister Spare Blade (#106.968), used with #106.966 Hand Groover Tool. Popular for for vinyl and linoleum flooring installs. To remove bumps and welding grooves.
-  Updated: 2026-02-04T14:45:49Z
+  Updated: 2026-02-18T17:55:37Z
   Vendor: Leister
   Product Type: Trimming Grooving Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterSpareBlade106.968forHandGrooverTool.jpg?v=1758996691
   Price: $7.99 USD
 - [Leister 122.541 Trimming Guide Tool – Perigee Direct](https://www.perigeedirect.com/products/leister-trimming-guide-122-541-for-the-half-moon-trimming-knife): Trimming guide designed for half moon knives ensures clean, controlled edge trimming, helping maintain accuracy and finish quality in welding work. Shop now.
-  Updated: 2026-02-04T15:15:39Z
+  Updated: 2026-02-18T17:55:36Z
   Vendor: Leister
   Product Type: Tool Scraper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterTrimmingGuide_122.541_fortheHalf-MoonTrimmingKnife.jpg?v=1753728761
   Price: $25.00 USD
 - [Leister TRIAC 8-Piece Flooring Kit – Perigee Direct](https://www.perigeedirect.com/products/leister-triac-st-8-piece-flooring-install-repair-kit): Get the Leister Triac ST flooring kit at Perigee Direct with eight-piece setup for welding, install and repair work across PVC, roofing and vinyl.
-  Updated: 2026-01-26T14:36:49Z
+  Updated: 2026-02-18T17:55:46Z
   Vendor: Leister
   Product Type: Heat 
   Availability: Available
@@ -25114,7 +25108,7 @@
     Availability: Available
     Price: $749.99 USD
 - [Maven MMA 8110-GB 10-Min Microbead MMA – Perigee Direct](https://www.perigeedirect.com/products/maven-mma8110-gb-metals-galvanized-metals-hot-dipped-metals-nylons-and-plastics-mma-with-embededed-glass-microbeads-gray-10-minute-set-exceptional-strength-elongation): Discover Maven MMA8110-GB adhesive for metals, nylons, and plastics, with embedded glass microbeads for superior bonding strength.
-  Updated: 2026-02-14T00:01:27Z
+  Updated: 2026-02-17T21:38:39Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -25160,7 +25154,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlcartridge_0967ec4b-7bd0-42a8-8207-65f722dcb035.jpg?v=1752867448
     Price: $20.00 USD
 - [Meritool 9000-50S-KIT 12V Battery Dispensing Tool | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9000-50s-kit-and-9000-50s-12v-battery-powered-dispenser-for-50ml-s-type-round-back-dual-component-cartridges-all-ratios-1-1-2-1-3-2-4-1-10-1): Shop Meritool PowerPush 9000 50S kit at Perigee Direct for precise dispensing of 50ml cartridges supporting all mix ratios for professional use.
-  Updated: 2026-01-26T14:36:47Z
+  Updated: 2026-02-20T20:18:10Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
@@ -25174,7 +25168,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/9000-50_500pix-2_53f0e8e7-2286-46a4-864c-ab834ef7ae08.jpg?v=1756320676
     Price: $399.99 USD
 - [Maven HDPE Safety Orange Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-hdpe-safety-orange-plastic-welding-rods-coils-reels-for-assembling-or-repairing-safety-orange-equipment): Shop HDPE safety orange plastic welding rods at Perigee Direct for visible durable repairs and fabrication of safety equipment.
-  Updated: 2026-02-14T00:01:36Z
+  Updated: 2026-02-17T21:38:47Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -25314,7 +25308,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/LeisterDiamondTippedCuttingBlade167.024.jpg?v=1752860644
     Price: $797.00 USD
 - [Leister 160.520 Uniplan Overlap Guide for 500 & 300 models](https://www.perigeedirect.com/products/leister-uniplan-overlap-guide-for-500-300-models-160-520): Find the Leister Uniplan overlap guide 160.520 at Perigee Direct, designed to help align welds for smooth, consistent results on roofing, tarps, and membranes. Order now.
-  Updated: 2026-02-14T00:01:37Z
+  Updated: 2026-02-17T21:38:48Z
   Vendor: Leister
   Product Type: Accessories
   Availability: Available
@@ -25328,7 +25322,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/meritool-7000-675-81_675ml600x75ml.jpg?v=1752862237
   Price: $549.99 USD
 - [MixPac 50ml 4:1 Cartridge w/ EPDM Sealing Cap | Perigee Direct](https://www.perigeedirect.com/products/mixpac-50ml-4-1-ratio-2-part-empty-cartridges-with-sealing-cap-pistons-aa-050-04-10-03-116676): Shop Mixpac 50ml empty cartridges at Perigee Direct for 4 to 1 ratio dispensing delivering clean filling with pistons and sealing caps.
-  Updated: 2026-02-14T00:01:40Z
+  Updated: 2026-02-23T19:46:06Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -25378,7 +25372,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Hand-Plunger-4-1-_-10-1-Horizontal.jpg?v=1753728170
     Price: $5.99 USD
 - [Maven ABS Pellets Natural Off-White – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-pellets-abs-natural-off-white-opaque-140-f-max-temp-85-f-min-temp): Shop Maven ABS plastic pellets at Perigee Direct for molding and fabrication, delivering stable processing and consistent material quality.
-  Updated: 2026-02-14T00:01:42Z
+  Updated: 2026-02-17T21:38:53Z
   Vendor: Maven Plastics
   Product Type: Plastic Pellet
   Availability: Available
@@ -25408,14 +25402,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MAVEN_ABS_plastic_resin_natural_cy.jpg?v=1753725601
     Price: $3,599.99 USD
 - [Maven Plastic Colorant Beige – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-beige-2pct-let-down-or-50-1-ratio): Shop Maven plastic colorant beige for uniform coloration, formulated for 2 percent let-down or 50:1 ratio processing requirements.
-  Updated: 2026-02-14T00:01:43Z
+  Updated: 2026-02-17T21:38:54Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Beige-20-1-Mix-Ratio-_Drop-Ratio_-v3.jpg?v=1752866875
   Price: $6.49 USD
 - [PLEXUS PC120 - 1 quart Bottle Primer/Conditioner IP120](https://www.perigeedirect.com/products/plexus-pc120-1-quart-bottle-primer-conditioner-ip120): Shop Plexus PC120 primer at Perigee Direct for one quart conditioning applied before MMA adhesives to improve surface readiness.
-  Updated: 2026-02-14T00:01:44Z
+  Updated: 2026-02-23T13:50:36Z
   Vendor: PLEXUS
   Product Type: Primers
   Availability: Available
@@ -25433,77 +25427,77 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1quartbottle.jpg?v=1760203487
     Price: $36.00 USD
 - [Maven Plastic Colorant Black UV – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-carbon-black-uv-resistant-2pct-let-down-or-50-1-ratio): Shop Maven carbon black plastic colorant at Perigee Direct for UV-resistant PVC coloring delivering consistent results at 2 percent or 50:1 ratios.
-  Updated: 2026-02-14T00:01:45Z
+  Updated: 2026-02-17T21:38:57Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Carbon-Black-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1752864497
   Price: $6.49 USD
 - [Maven Plastic Colorant Blue – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-blue-2pct-let-down-or-50-1-ratio): Shop Maven plastic colorant blue at Perigee Direct for consistent coloration delivering reliable 2 percent letdown or 50 to 1 ratio results.
-  Updated: 2026-02-14T00:01:46Z
+  Updated: 2026-02-17T21:38:57Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Blue-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1753728034
   Price: $6.49 USD
 - [Maven Plastic Colorant Light Gray – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-light-gray-2pct-let-down-or-50-1-ratio): Shop Maven plastic colorant light gray at Perigee Direct for consistent PVC coloring delivering reliable 2 percent or 50:1 ratios.
-  Updated: 2026-02-14T00:01:47Z
+  Updated: 2026-02-17T21:38:58Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Gray-Light-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1752865010
   Price: $6.49 USD
 - [Maven Plastic Colorant Green – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-green-2pct-let-down-or-50-1-ratio): Shop Maven green plastic colorant at Perigee Direct for resin tinting with 2 percent let down or 50 to 1 ratio for consistent controlled color.
-  Updated: 2026-02-14T00:01:47Z
+  Updated: 2026-02-17T21:38:59Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Green-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1752860983
   Price: $6.49 USD
 - [Maven Plastic Colorant Orange Safety – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-orange-2pct-let-down-or-50-1-ratio-safety-orange-highway-bumper-orange): Order Maven orange colorant at Perigee Direct for two percent letdown or fifty-to-one ratio tinting used to create safety orange in resins.
-  Updated: 2026-02-14T00:01:48Z
+  Updated: 2026-02-17T21:39:00Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Orange-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1753723881
   Price: $6.49 USD
 - [Maven Plastic Colorant Medium Gray – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-medium-gray-2pct-let-down-or-50-1-ratio): Find Maven medium gray plastic colorant designed for 2% let-down ratio, perfect for color control in plastic part manufacturing.
-  Updated: 2026-02-14T00:01:49Z
+  Updated: 2026-02-17T21:39:01Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Gray-Medium-Schedule-80-Style-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1758996997
   Price: $6.49 USD
 - [Maven Plastic Colorant White – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-white-2pct-let-down-or-50-1-ratio): Match color with white plastic colorant at Perigee Direct in 2 percent let-down ratio used to tint resins, coatings and molded components.
-  Updated: 2026-02-14T00:01:50Z
+  Updated: 2026-02-17T21:39:02Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-White-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1758995404
   Price: $6.99 USD
 - [Maven Plastic Colorant Yellow – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-yellow-2pct-let-down-or-50-1-ratio): Shop Maven yellow plastic colorant at Perigee Direct for 2 percent let down or 50 to 1 ratio used to tint resin and plastic materials.
-  Updated: 2026-02-14T00:01:51Z
+  Updated: 2026-02-17T21:39:03Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Yellow-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1756316150
   Price: $6.49 USD
 - [Maven Plastic Colorant Red – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-dark-red-2pct-let-down-or-50-1-ratio): Shop Maven dark red plastic colorant at Perigee Direct for consistent PVC coloring delivering reliable 2 percent or 50:1 ratio results.
-  Updated: 2026-02-14T00:01:52Z
+  Updated: 2026-02-17T21:39:04Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Red-Dark-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1752860317
   Price: $6.49 USD
 - [Maven Red Plastic Colorant 2%](https://www.perigeedirect.com/products/maven-plastic-colorant-medium-red-2pct-let-down-or-50-1-ratio): Buy Maven plastic colorant medium red for consistent coloration, formulated for 2 percent let down or 50:1 ratio processing needs.
-  Updated: 2026-02-14T00:01:53Z
+  Updated: 2026-02-17T21:39:04Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Red-Medium-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1758993776
   Price: $6.49 USD
 - [MixPac MBQX-05-24L Long Orange Nozzle 50ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mbqx-05-24l-mixing-nozzles-orange-4-75-inch-24-element-square-for-50ml-gray-cap-cartridges-10-1-4-1-ratio): Shop Mixpac MBQX orange 24-element nozzles at Perigee Direct for 50ml cartridges that mix two-part adhesives cleanly with low waste flow control.
-  Updated: 2026-02-16T20:16:07Z
+  Updated: 2026-02-23T21:10:53Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -25544,7 +25538,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/154.054.jpg?v=1758994027
   Price: $519.00 USD
 - [Plexus MA832 GB Advanced MMA Adhesive, 2-Part – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma832-ma832-gb-advanced-two-part-methacrylate-adhesive): Order Plexus MA832 at Perigee Direct for advanced two-part methacrylate adhesive that delivers structural strength with quick  time.
-  Updated: 2026-02-14T00:01:55Z
+  Updated: 2026-02-17T21:39:07Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -25574,14 +25568,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/plexus-drum_1_6_1_772ea2a7-3898-4563-8532-856b59b6d092.jpg?v=1756321607
     Price: $13,034.99 USD
 - [Leister Power Cord for Uniplan – Perigee Direct](https://www.perigeedirect.com/products/leister-power-supply-cord-for-uniplan-300-uniplan-500-3-wire-x-14awg-x-3m-usa-3-pole-155-142): Shop the Leister power supply cord for Uniplan 300 and 500, built with durable 3-wire construction for reliable power and safe operation.
-  Updated: 2026-02-14T00:01:56Z
+  Updated: 2026-02-17T21:39:07Z
   Vendor: Leister
   Product Type: power supply cord
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterPowerCord3-wire155.142.png?v=1759000729
   Price: $85.00 USD
 - [Maven PP-CO Beige Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-beige-pp-plastic-welding-rods-coils-reels-polypropylene-copolymer): Shop beige polypropylene copolymer welding rods at Perigee Direct for flexible durable plastic welding with consistent color matching.
-  Updated: 2026-02-14T00:02:02Z
+  Updated: 2026-02-17T21:39:14Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -25683,7 +25677,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Plastics-Beige-Polypropylene-PP-Plastic-Welding-Reels-30lb.jpg?v=1753729432
     Price: $219.99 USD
 - [Plexus MA300/310 Part B Activator in Bulk – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma300-310-5-50-gallon-pail-drum-for-trim-grip-adhesive): Get Plexus MA300 pail formats at Perigee Direct for trim bonding adhesive in 5 to 50 gallon sizes used in manufacturing lines.
-  Updated: 2026-02-14T00:02:03Z
+  Updated: 2026-02-17T21:39:15Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -25697,7 +25691,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/generic_drum_edit_8_ae57e0ab-36db-486e-a5fc-99d2e8a9f807.png?v=1759001187
     Price: $10,846.11 USD
 - [Miralon Multiwall CNT Pulp High Strength/Conductivity | Perigee Direct](https://www.perigeedirect.com/products/miralon-carbon-nanotube-pulp-multiwalled-hi-conductivity-high-strength): Shop Miralon carbon nanotube pulp at Perigee Direct for high conductivity reinforcement solutions in advanced composites and electronics.
-  Updated: 2026-02-14T10:20:32Z
+  Updated: 2026-02-17T21:39:17Z
   Vendor: Huntsman Miralon
   Product Type: Carbon Nanotubes
   Availability: Available
@@ -25723,7 +25717,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Miralon-Pulp-Main-Image.jpg?v=1753724743
     Price: $3,299.99 USD
 - [Miralon Carbon Nanotube Sheets (Graphene) | Perigee Direct](https://www.perigeedirect.com/products/miralon-sheets-carbon-graphene-nanotubes-s-t01avb-12-100812-100816): Explore Miralon carbon-graphene nanotube sheets, lightweight and strong, ideal for advanced composite and energy applications.
-  Updated: 2026-02-14T00:02:07Z
+  Updated: 2026-02-17T21:39:18Z
   Vendor: Huntsman Miralon
   Product Type: Carbon Nanotubes
   Availability: Available
@@ -25749,7 +25743,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Miralon-Sheet-Main-Image.jpg?v=1758996247
     Price: $1,499.99 USD
 - [Miralon Carbon Nanotube Yarn - 2ply & 4ply | Perigee Direct](https://www.perigeedirect.com/products/miralon-yarn-thread-string-2ply-4ply-carbon-graphene-nanotubes-y-t02c-10-4-y-t02c-10-2-100079-100549): Discover Miralon yarn and thread at Perigee Direct with carbon graphene nanotube reinforcement for advanced strength, conductivity, and industrial use.
-  Updated: 2026-02-14T00:02:10Z
+  Updated: 2026-02-17T21:39:21Z
   Vendor: Huntsman Miralon
   Product Type: Carbon Nanotubes
   Availability: Available
@@ -25787,7 +25781,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Miralon-Yarn-Main-Image.jpg?v=1752861999
     Price: $2,299.99 USD
 - [Miralon Carbon Nanotube Tape 5/16in](https://www.perigeedirect.com/products/miralon-tape-strip-5-16-in-wide-0-3125-in-or-8mm-carbon-graphene-nanotubes-100113-t-r02a-12-0-3125): Shop Miralon 5/16 inch wide nanotube tape strips designed for lightweight reinforcement and thermal conductivity in composites.
-  Updated: 2026-02-14T00:02:12Z
+  Updated: 2026-02-17T21:39:23Z
   Vendor: Huntsman Miralon
   Product Type: Carbon Nanotubes
   Availability: Available
@@ -25809,7 +25803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MiralonTapeReel.png?v=1719873847
     Price: $799.99 USD
 - [MixPac K-System Piston Insertion Filament | Perigee Direct](https://www.perigeedirect.com/products/piston-insertion-thread-string-filament-used-to-insert-small-pistons-into-small-cartridges-and-syringes): Shop piston insertion thread filament designed to insert small pistons into cartridges and syringes, supporting clean assembly and consistent filling.
-  Updated: 2026-02-14T00:02:12Z
+  Updated: 2026-02-17T21:39:23Z
   Vendor: MixPac
   Product Type: Piston Vent Tool
   Availability: Available
@@ -25866,7 +25860,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Araldite-2035-GAL-QT.jpg?v=1753726619
     Price: $133.99 USD
 - [Leister 161.156 Unidrive 500 - Pressure Roller](https://www.perigeedirect.com/products/unidrive-500-pressure-roller-161-156): Shop Unidrive 500 pressure roller 161.156 at Perigee Direct to improve traction and seam quality during controlled overlap welding work.
-  Updated: 2026-02-14T00:02:13Z
+  Updated: 2026-02-17T21:39:24Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -25880,7 +25874,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Piston-Insertion-Tool_450mlcartridgdes.webp?v=1756318944
   Price: $24.99 USD
 - [Maven F-System Mixing Nozzle 10:1 & 4:1 – Perigee Direct](https://www.perigeedirect.com/products/maven-f-system-mixing-nozzle-for-10-1-4-1-ratio-lcartridges-200ml-225ml-250ml-400ml-490ml-backup-substitute-for-mfhx-08-24t): Shop Maven F system mixing nozzles at Perigee Direct for 10 to 1 or 4 to 1 ratio cartridges delivering clean two-part mix for production use.
-  Updated: 2026-02-16T17:25:35Z
+  Updated: 2026-02-17T20:35:45Z
   Vendor: Maven Mixing
   Product Type: Mixing Nozzles
   Availability: Available
@@ -25914,7 +25908,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Sulzer_Mixpac_10-1_4-1_Helix_18-Element_8mm_ID_F-System_Mixing_Nozzle_2b1f6502-2b10-4aa9-8ce1-2cfcf2e9c3a1.jpg?v=1753727595
     Price: $1,799.99 USD
 - [Maven PP-CO Euro Beige Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-euro-beige-pp-plastic-welding-rods-coils-reels-polypropylene-copolymer): Shop euro beige polypropylene copolymer welding rods at Perigee Direct for flexible durable plastic welding applications across industrial projects.
-  Updated: 2026-02-14T00:02:18Z
+  Updated: 2026-02-17T21:39:29Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -25999,63 +25993,63 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Triac-ST-Plastic-Welding-Starter-Kit-with-Rods.jpg?v=1756316512
   Price: $771.02 USD
 - [Leister Solano AT Plastic Welder Kit 162274 – Perigee Direct](https://www.perigeedirect.com/products/solano-at-plastic-welding-starter-kit-variable-temp-variable-speed-digital-hot-air-plastic-welding-heat-gun-kit): Order the Solano AT welding kit at Perigee Direct for variable speed temperature control on plastic repairs and fabrication seams in the field.
-  Updated: 2026-02-12T14:50:36Z
+  Updated: 2026-02-19T19:50:37Z
   Vendor: Leister
   Product Type: Heat 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Solano-AT-Plastic-Welding-Starter-Kit-with-Rods.jpg?v=1753724247
   Price: $869.99 USD
 - [COX Manual 2 Component Dispenser CBM-25 159260](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-cbm-25-159260): Choose the Cox CBM 25 at Perigee Direct for manual two-component dispensing with measured force for accurate cartridge mixing.
-  Updated: 2026-02-14T00:02:19Z
+  Updated: 2026-02-17T21:39:30Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CBM25-94SIDE.jpg?v=1756318970
   Price: $29.99 USD
 - [COX Manual 2 Component Dispenser MPD 159306](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-mpd-159306): Shop the Cox MPD manual dispenser at Perigee Direct for two-component dispensing with smooth controlled output in adhesive applications.
-  Updated: 2026-02-14T00:02:20Z
+  Updated: 2026-02-17T21:39:31Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MPD-MP25_0.jpg?v=1752864100
   Price: $29.99 USD
 - [COX Manual 2 Component Dispenser PPM 75 159262](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-ppm-75-159262): Shop Cox PPM 75 manual 2-component dispenser at Perigee Direct for accurate low-volume mixing, delivering smooth control for precision bonding.
-  Updated: 2026-02-14T00:02:21Z
+  Updated: 2026-02-17T21:39:32Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PPM75SIDE.jpg?v=1752863085
   Price: $49.99 USD
 - [VBM-100 200ml 1:1 Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-vbm-100-159265-manual-1-1-ratio-200ml-dispenser-dm2c-200-01-r18-111): Shop Cox VBM 100 manual dispenser at Perigee Direct for 200ml 1:1 cartridges delivering accurate control for two-part adhesives.
-  Updated: 2026-02-14T00:02:22Z
+  Updated: 2026-02-17T21:39:33Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/TBM100-M100.jpg?v=1752865403
   Price: $59.99 USD
 - [COX Manual 2 Component Dispenser PPM 150 159267](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-ppm-150-159267): Choose the Cox PPM 150 at Perigee Direct for two-component manual dispensing with dependable delivery of mixes across shop applications.
-  Updated: 2026-02-14T00:02:23Z
+  Updated: 2026-02-17T21:39:33Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PPM150-M150.jpg?v=1752864490
   Price: $69.99 USD
 - [COX Manual 2 Component Dispenser VBM 200 159272](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-vbm-200-159272): Get the Cox VBM 200 at Perigee Direct for manual two-component dispensing that handles industrial adhesive use with a solid control handle.
-  Updated: 2026-02-14T00:02:24Z
+  Updated: 2026-02-17T21:39:35Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/VBM200-M200.jpg?v=1753727266
   Price: $69.99 USD
 - [COX Manual 2 Component Dispenser VBM 200MR 159274](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-vbm-200mr-159274): Shop Cox VBM 200MR manual dispensers at Perigee Direct for precise 2-part control, delivering consistent ratios and smooth application.
-  Updated: 2026-02-14T00:02:25Z
+  Updated: 2026-02-17T21:39:36Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/VBM200MRSIDE.jpg?v=1758996206
   Price: $62.99 USD
 - [COX Manual 2 Component Dispenser PPM 300 LV Ratio 2:1](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-ppm-300-lv): Shop Cox PPM 300 LV manual dispenser at Perigee Direct for accurate 2-component dispensing delivering smooth operation for low-viscosity materials.
-  Updated: 2026-02-14T00:02:26Z
+  Updated: 2026-02-17T21:39:37Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26069,14 +26063,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow3Cartridge-63001_0.jpg?v=1756317034
   Price: $126.99 USD
 - [COX Manual 2 Component Dispenser PPM 300 XL 159288](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-ppm-300-xl): Select the Cox PPM 300 XL at Perigee Direct for manual two-component dispensing that supports large dual cartridge output with controlled force.
-  Updated: 2026-02-14T00:02:27Z
+  Updated: 2026-02-17T21:39:38Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PPM300XL-M300XL.jpg?v=1752867486
   Price: $89.99 USD
 - [COX Manual 2 Component Dispenser PPM 300X 159287](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-ppm-300x-159287): Shop Cox PPM 300X manual dispenser at Perigee Direct for precise 2-component adhesive control delivering smooth mixing accuracy for industrial bonding tasks.
-  Updated: 2026-02-14T00:02:28Z
+  Updated: 2026-02-17T21:39:38Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26090,7 +26084,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/T1_SIDE.png?v=1753725412
   Price: $79.99 USD
 - [MK Manual 2 Component Dispenser H293 151767](https://www.perigeedirect.com/products/mk-manual-2-component-dispenser-h293-151767): Shop MK H293 manual 2-component dispenser at Perigee Direct for accurate adhesive control delivering smooth mixing for shop applications.
-  Updated: 2026-02-14T00:02:28Z
+  Updated: 2026-02-17T21:39:39Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
@@ -26104,28 +26098,28 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/T16XSIDE.jpg?v=1752865712
   Price: $119.99 USD
 - [CCM-380 Manual 2-Component Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser-ccm-380-159293-1-1-159295-10-1): Shop Cox CCM 380 manual 2-component dispensers at Perigee Direct for smooth controlled dispensing of 1:1 and 10:1 coaxial cartridges.
-  Updated: 2026-02-14T00:02:29Z
+  Updated: 2026-02-17T21:39:40Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CCM380-M380.jpg?v=1752861412
   Price: $69.99 USD
 - [COX Manual 2 Component Dispenser PPM 1500X 159304](https://www.perigeedirect.com/products/cox-manual-2-component-dispenser): Buy the Cox manual 2-component dispenser for accurate 2K dispensing with smooth control, consistent flow, and rugged jobsite durability.
-  Updated: 2026-02-14T00:02:30Z
+  Updated: 2026-02-17T21:39:41Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PPM1500X-M750X-1.jpg?v=1758996064
   Price: $141.13 USD
 - [COX Battery 1-Component Dispenser EasiPower Plus 161878](https://www.perigeedirect.com/products/cox-battery-1-component-dispenser-easipower-plus-161878): Shop Cox EasiPower Plus battery dispensers at Perigee Direct for reliable one-component dispensing with cordless convenience and steady output.
-  Updated: 2026-02-14T00:02:31Z
+  Updated: 2026-02-17T21:39:42Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/83029-L.jpg?v=1756318205
   Price: $246.99 USD
 - [COX ElectraFlow Plus DB1C-310 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-battery-caulking-dispenser-electraflow-plus-db1c-310-ca-350-2us-167062): Shop Cox Electraflow Plus battery caulking dispensers at Perigee Direct for smooth cordless application of sealants from standard cartridges.
-  Updated: 2026-02-14T00:02:32Z
+  Updated: 2026-02-17T21:39:43Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Battery
   Availability: Available
@@ -26143,14 +26137,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Cox-ElectraFlow-Battery-Charger-7E1629_faa39cf7-c616-4f77-adc1-eb113e0abece.jpg?v=1752866755
     Price: $86.99 USD
 - [COX Easipower Plus Quart Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-battery-1-component-dispenser-easipower-plus-quart-161879): Shop Cox Easipower Plus battery dispensers at Perigee Direct for quart tubes, delivering cordless convenience and smooth one-component flow.
-  Updated: 2026-02-14T00:02:33Z
+  Updated: 2026-02-17T21:39:44Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/83029-L_1.jpg?v=1752863022
   Price: $249.99 USD
 - [COX ElectraFlow Plus Quart Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-electraflow-plus-1-part-battery-dispenser-for-larger-quart-sized-tubes-167073-167072): Shop Cox Electraflow Plus battery dispensers at Perigee Direct for larger quart-sized tubes, delivering cordless control, smooth flow, and consistent output.
-  Updated: 2026-02-14T00:02:35Z
+  Updated: 2026-02-17T21:39:46Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Battery
   Availability: Available
@@ -26172,7 +26166,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Cox-ElectraFlow-Battery-Charger-7E1629_11c86871-9a6f-4def-994c-067d533780fb.jpg?v=1752863958
     Price: $86.99 USD
 - [ElectraFlow Plus Battery Dispenser 167071 – Perigee Direct](https://www.perigeedirect.com/products/cox-electraflow-plus-1-part-battery-dispenser-for-standard-310ml-caulking-tubes-and-600ml-tubes-167071-167068): Shop Cox Electraflow Plus at Perigee Direct for battery-powered 1-part dispensing delivering smooth control for 310ml and 600ml tubes.
-  Updated: 2026-02-14T00:02:36Z
+  Updated: 2026-02-17T21:39:47Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Battery
   Availability: Available
@@ -26194,14 +26188,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Cox-ElectraFlow-Battery-Charger-7E1629_26bbc463-2ced-4281-9920-a16e156ddaf2.jpg?v=1758994636
     Price: $86.99 USD
 - [COX Easipower Plus 159181 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-battery-1-component-dispenser-easipower-plus-combi-159181): Shop COX Easipower Plus Combi dispensers at Perigee Direct for versatile battery-powered one-component adhesive and sealant dispensing.
-  Updated: 2026-02-14T00:02:37Z
+  Updated: 2026-02-17T21:39:48Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/EasiP_owerPlusCombi-83600-L.jpg?v=1753729356
   Price: $254.99 USD
 - [Maven PP-HO Black Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-pp-plastic-homopolymer-welding-rods-coils-reels-black-polypropylene-homopolymer-or-ppho): Shop Maven PP homopolymer welding rods at Perigee Direct for strong polypropylene repairs offering consistent melt flow and durable black color matching.
-  Updated: 2026-02-14T00:02:45Z
+  Updated: 2026-02-17T21:39:56Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -26327,7 +26321,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3mmRoundBlackPlasticWeldingRods_ea1a254c-ee02-4822-9a39-c4feb91c2068.jpg?v=1752862945
     Price: $169.99 USD
 - [Maven PP-HO Natural Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-natural-white-pp-plastic-homopolymer-welding-rods-coils-reels-natural-polypropylene-homopolymer): Shop natural white polypropylene homopolymer welding rods at Perigee Direct for precise plastic repairs with strong weld integrity and a clean finish.
-  Updated: 2026-02-14T00:02:51Z
+  Updated: 2026-02-17T21:40:02Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -26429,63 +26423,63 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Natural-Polypropylene-PP-Plastic-Welding-Coils_f0a085c4-bf64-4d3b-ac32-3686b1d71c5f.jpg?v=1756321203
     Price: $15.99 USD
 - [COX EasiFlow HD Lite Manual 1-component Dispenser 159197](https://www.perigeedirect.com/products/cox-easiflow-hd-lite-manual-1-component-dispenser-159197): Get Cox EasiFlow HD Lite at Perigee Direct for a manual one-component dispenser designed for smooth controlled adhesive application.
-  Updated: 2026-02-14T00:02:52Z
+  Updated: 2026-02-17T21:40:03Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_27.jpg?v=1753724367
   Price: $7.99 USD
 - [COX EasiFlow HD Manual 1-component Dispenser 159200](https://www.perigeedirect.com/products/cox-easiflow-hd-manual-1-component-dispenser-159200): Shop the Cox Easiflow HD manual 1-component dispenser for heavy-duty use, smooth operation, and dependable adhesive flow control.
-  Updated: 2026-02-14T00:02:53Z
+  Updated: 2026-02-17T21:40:03Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_28.jpg?v=1756319443
   Price: $9.99 USD
 - [PowerFlow Manual Cartridge Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-powerflow-cartridge-manual-1-component-dispenser-159207): Buy the Cox PowerFlow dispenser at Perigee Direct for manual one-component cartridge control with smooth push for sealants and adhesives.
-  Updated: 2026-02-14T00:02:54Z
+  Updated: 2026-02-17T21:40:04Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_30.jpg?v=1753728575
   Price: $26.99 USD
 - [MK H1X Manual 1-component Dispenser 183818](https://www.perigeedirect.com/products/cox-h1x-manual-1-component-dispenser-183818): Shop Cox H1X manual 1-component dispenser at Perigee Direct for durable construction delivering smooth caulking and adhesive application control.
-  Updated: 2026-02-14T00:02:55Z
+  Updated: 2026-02-17T21:40:05Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MKKK.png?v=1756320627
   Price: $20.73 USD
 - [MK H14RS Manual 1-component Dispenser 180788](https://www.perigeedirect.com/products/mk-h14rs-manual-1-component-dispenser-180788): Shop the MK H14RS manual dispenser at Perigee Direct for controlled one-component adhesive dispensing in maintenance and assembly work.
-  Updated: 2026-02-14T00:02:56Z
+  Updated: 2026-02-17T21:40:06Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/H14RSSIDE.jpg?v=1756320244
   Price: $26.33 USD
 - [MK H40PS Manual 1-component Dispenser 180891](https://www.perigeedirect.com/products/mk-h40ps-manual-1-component-dispenser-180891): Shop the MK H40PS manual 1-component dispenser for smooth adhesive flow, durable construction, and reliable control across daily industrial tasks.
-  Updated: 2026-02-14T00:02:57Z
+  Updated: 2026-02-17T21:40:07Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/h40_ps_side_spike_out.jpg?v=1753725387
   Price: $27.93 USD
 - [MK H40+ Manual 1-component Dispenser 183818](https://www.perigeedirect.com/products/mk-h40-manual-1-component-dispenser-183818): Shop MK H40 manual dispenser at Perigee Direct for smooth one-component flow, delivering ergonomic control for everyday shop applications.
-  Updated: 2026-02-14T00:02:57Z
+  Updated: 2026-02-17T21:40:08Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/medmix-manual-dispenser.jpg?v=1756320043
   Price: $20.73 USD
 - [MK H245 Manual 1-component Dispenser 151727](https://www.perigeedirect.com/products/mk-h245-manual-1-component-dispenser-151727): Shop the MK H245 manual 1-component dispenser built for higher thrust applications with dependable performance and ergonomic handling.
-  Updated: 2026-02-14T00:02:58Z
+  Updated: 2026-02-17T21:40:09Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MK_Kroger_one-component_manual_dispenser_DM1_310_50_400_H245.jpg?v=1753724681
   Price: $39.91 USD
 - [PowerFlow HP Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-powerflow-hp-cartridge-manual-1-component-dispenser-159211): Shop the Cox Powerflow HP cartridge manual dispenser for controlled 1-component dispensing, durability, and smooth trigger operation.
-  Updated: 2026-02-14T00:02:59Z
+  Updated: 2026-02-17T21:40:10Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26510,7 +26504,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/SuperglueAccelerantandStrengtheningPowder.webp?v=1753723754
     Price: $14.99 USD
 - [MK H2 Manual 1-component Dispenser 151726](https://www.perigeedirect.com/products/mk-h2-manual-1-component-dispenser-151726): Get the MK H2 dispenser at Perigee Direct for a manual one-component gun designed for smooth adhesive flow and controlled material application.
-  Updated: 2026-02-14T00:03:03Z
+  Updated: 2026-02-17T21:40:13Z
   Vendor: MK Applicators
   Product Type: Dispensers Manual
   Availability: Available
@@ -26559,7 +26553,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow3Sachet-63006-300_0_0.jpg?v=1758994713
   Price: $149.99 USD
 - [UltraFlow Cartridge Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-ultraflow-cartridge-manual-1-component-dispenser-159208): Shop Cox UltraFlow at Perigee Direct for manual one-component dispensing that gives even flow for sealants and one-part adhesives.
-  Updated: 2026-02-14T00:03:04Z
+  Updated: 2026-02-17T21:40:14Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26573,7 +26567,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow3CompactCombi-63003_0.jpg?v=1756320249
   Price: $169.99 USD
 - [COX PowerFlow Quart Manual 1-component Dispenser 159203](https://www.perigeedirect.com/products/cox-powerflow-quart-manual-1-component-dispenser-159203): Order the Cox PowerFlow quart gun at Perigee Direct for manual dispensing of one-component materials with clean controlled push force and grip.
-  Updated: 2026-02-14T00:03:05Z
+  Updated: 2026-02-17T21:40:15Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26587,35 +26581,35 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow1Bulk-61009_0.jpg?v=1756318121
   Price: $196.99 USD
 - [COX PowerFlow HP Quart Manual 1-component Dispenser 159206](https://www.perigeedirect.com/products/cox-powerflow-hp-quart-manual-1-component-dispenser-159206): Choose the Cox PowerFlow HP at Perigee Direct for manual quart dispensing of one-component materials with strong push leverage and control.
-  Updated: 2026-02-14T00:03:06Z
+  Updated: 2026-02-17T21:40:16Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PowerFlowQuart-41002-XT.jpg?v=1758994725
   Price: $32.99 USD
 - [COX MidiFlow Combi Manual 1-component Dispenser 159199](https://www.perigeedirect.com/products/cox-midiflow-combi-manual-1-component-dispenser-159199): Shop the Cox Midiflow Combi manual 1-component dispenser for controlled dispensing, smooth trigger action, and reliable daily jobsite use.
-  Updated: 2026-02-14T00:03:07Z
+  Updated: 2026-02-17T21:40:17Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/sulzer-cox-manual-dispenser-MidiFlow_Combi-31001-600.jpg?v=1756316983
   Price: $35.99 USD
 - [COX UltraFlow Combi Manual 1-component Dispenser 159234](https://www.perigeedirect.com/products/cox-ultraflow-combi-manual-1-component-dispenser-159234): Shop COX Ultraflow Combi manual dispensers at Perigee Direct for reliable one-component dispensing with ergonomic control and durability.
-  Updated: 2026-02-14T00:03:08Z
+  Updated: 2026-02-17T21:40:18Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/UltraFlow-Combi.jpg?v=1756316650
   Price: $69.99 USD
 - [COX UltraPoint Manual 1-component Dispenser 159215](https://www.perigeedirect.com/products/cox-ultrapoint-manual-1-component-dispenser-159215): Shop the Cox Ultrapoint at Perigee Direct for a manual one-component dispenser offering accurate controlled beads for sealing and bonding.
-  Updated: 2026-02-14T00:03:09Z
+  Updated: 2026-02-17T21:40:19Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_34.jpg?v=1752860757
   Price: $69.99 USD
 - [PowerFlow Combi Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-powerflow-combi-manual-1-component-dispenser-159219-159231): Discover the COX PowerFlow Combi manual dispenser for 1-component adhesives, offering strong push force and ergonomic handling.
-  Updated: 2026-02-14T00:03:10Z
+  Updated: 2026-02-17T21:40:20Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26629,7 +26623,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PowerFlowHPCombi-51001-XT_0.jpg?v=1752862678
     Price: $54.99 USD
 - [PowerFlow HP Combi Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-powerflow-hp-combi-manual-1-component-dispenser-159277-159244): Choose the COX PowerFlow HP Combi manual dispenser for high-pressure 1-part adhesives, built for precision and user comfort.
-  Updated: 2026-02-14T00:03:11Z
+  Updated: 2026-02-17T21:40:21Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26643,7 +26637,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PowerFlow-HP-Combi.jpg?v=1758994086
     Price: $56.99 USD
 - [UltraFlow Bulk Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-ultraflow-bulk-manual-1-component-dispenser-159255-159257-159248): Explore the Cox Ultraflow manual dispenser at Perigee Direct for bulk one-component materials with smooth controlled output for shop or site use.
-  Updated: 2026-02-14T00:03:12Z
+  Updated: 2026-02-17T21:40:22Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -26661,21 +26655,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/US_UltraFlowBulk.jpg?v=1756319920
     Price: $62.99 USD
 - [COX Airflow 100 HP 159367 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-airflow-1-vba-100-hp-pneumatic-2-component-dispenser-159367): Shop the Cox Airflow 1 VBA 100 HP pneumatic 2-component dispenser for accurate metering, smooth flow control, and consistent professional adhesive output.
-  Updated: 2026-02-14T00:03:13Z
+  Updated: 2026-02-17T21:40:23Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/TBA100HP-A100LP.jpg?v=1753726351
   Price: $265.99 USD
 - [COX Airflow 150B 159369-1-1 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-airflow-1-ppa-150b-pneumatic-2-component-dispenser-159369-1-1): Shop Cox Airflow 1 PPA 150B at Perigee Direct for pneumatic 2-component dispensing delivering accurate ratio control and consistent bead flow.
-  Updated: 2026-02-14T00:03:14Z
+  Updated: 2026-02-17T21:40:24Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow1PPA150B-A150LPMR.jpg?v=1758996325
   Price: $249.99 USD
 - [COX Airflow 200B 159376 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-airflow-1-vba-200b-pneumatic-2-component-dispenser-159376): Equip your shop with the Cox AirFlow 1 VBA 200B at Perigee Direct for pneumatic two-component dispensing that delivers reliable mixed output.
-  Updated: 2026-02-14T00:03:15Z
+  Updated: 2026-02-17T21:40:25Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -26696,7 +26690,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow3PPA300B-A300LP-1.S3_0.jpg?v=1753723958
     Price: $239.99 USD
 - [COX Airflow 380A Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-airflow-1-3-cca-380a-pneumatic-2-component-dispenser-159399-159401-159402): Shop Cox Airflow 1 3 CCA 380A at Perigee Direct for pneumatic two-component dispensing delivering consistent ratios and smooth flow.
-  Updated: 2026-02-14T00:03:17Z
+  Updated: 2026-02-17T21:40:26Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -26721,7 +26715,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow1CBA600S-A600HPS_a.jpg?v=1753729314
   Price: $679.99 USD
 - [COX Airflow 600A Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-airflow-1-3-ppa-600a-pneumatic-2-component-dispenser-159422-159425): Shop Cox Airflow 1 3 PPA 600A at Perigee Direct for pneumatic 2-component dispensing delivering precise ratio control and consistent flow.
-  Updated: 2026-02-14T00:03:18Z
+  Updated: 2026-02-17T21:40:27Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -26749,7 +26743,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow3PPA1500A-A750HP-1.S3.jpg?v=1753728710
   Price: $549.99 USD
 - [Maven PP-CO Light Gray Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-light-gray-pp-plastic-copolymer-welding-rods-coils-reels-polypropylene-copolymer): Shop Maven polypropylene copolymer welding rods at Perigee Direct for color-matched repairs, delivering strong, consistent PP welds.
-  Updated: 2026-02-14T00:03:20Z
+  Updated: 2026-02-17T21:40:30Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -26791,7 +26785,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Light-Gray-Plastic-Welding-Coils.jpg?v=1752862724
     Price: $15.99 USD
 - [LORD 406/19GB Glass Bead Fast Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/lord-406-19gb-4-6-minute-glass-bead-formula-temperature-resistant-non-sag-acrylic-adhesive): Discover Lord 406 19GB at Perigee Direct. Non-sag acrylic adhesive offering temperature-resistant structural bonding. Request a quote today.
-  Updated: 2026-02-14T00:03:26Z
+  Updated: 2026-02-22T19:03:51Z
   Vendor: Lord
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -26877,7 +26871,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord_406_19_375ml_1_b1863672-ce5f-4bd6-bfad-cf3673250489.png?v=1769715843
     Price: $60.00 USD
 - [Maven Bell-Style Round Mixing Nozzle 24 Elem – Perigee Direct](https://www.perigeedirect.com/products/maven-bell-style-mixing-nozzle-round-helix-thinner-two-part-adhesives-24-element-6-3mm-id): Shop Maven bell-style mixing nozzles at Perigee Direct for smooth flow and reliable blending of thinner two-part adhesives.
-  Updated: 2026-02-14T00:03:27Z
+  Updated: 2026-02-17T21:40:37Z
   Vendor: Maven Mixing
   Product Type: Spray Nozzles
   Availability: Available
@@ -26916,7 +26910,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/HardwoodRepairDrillBit3-32Inch_f6511ecd-8f46-4c82-807c-510e9a1fcb9d.webp?v=1753729217
   Price: $2.99 USD
 - [Maven Hard Surface Chemical Defense – Perigee Direct](https://www.perigeedirect.com/products/maven-invisible-armor-hard-surface-defense-hardened-water-repellant-clear-coat-for-all-hard-surfaces): Shop Maven Invisible Armor hard surface defense at Perigee Direct for a hardened, water-repellent clear coat protecting stone tile metal and more.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-23T23:05:38Z
   Vendor: Maven Invisible Armor
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -26945,42 +26939,42 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister100.985-40mmSiliconeReplacementPressureRollersforLeisterUniplan500.jpg?v=1761499181
   Price: $34.00 USD
 - [Leister 158.624 Print Adapter Front 100 / 230V, (Type A)](https://www.perigeedirect.com/products/leister-print-adapter-front-100-230v-type-a-158-624): Shop Leister print adapter front type A 158 624 at Perigee Direct for controlled Sym Vent setups ensuring correct fit and clean prints.
-  Updated: 2026-02-14T00:03:28Z
+  Updated: 2026-02-17T21:40:38Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image.jpg?v=1756318194
   Price: $357.81 USD
 - [Leister 157.855 Communication Module Assembled](https://www.perigeedirect.com/products/leister-communication-module-assembled-157-855): Find the Leister communication module 157.855 at Perigee Direct, built for stable connectivity and reliable tool operation. Keep controls online, order today.
-  Updated: 2026-02-14T00:03:29Z
+  Updated: 2026-02-17T21:40:38Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_7dbb217a-1b60-495f-9244-bd9577486666.jpg?v=1753727712
   Price: $595.29 USD
 - [Leister 156.695 Drive Linear CPL.](https://www.perigeedirect.com/products/leister-drive-linear-cpl-156-695): Find the Leister drive linear CPL 156.695 at Perigee Direct, designed for precise motion control and reliable performance in welding systems. Order now.
-  Updated: 2026-02-14T00:03:29Z
+  Updated: 2026-02-17T21:40:39Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_a5feeb0b-77d9-4ce3-8f08-0a804e6056d3.jpg?v=1758994189
   Price: $479.57 USD
 - [Leister 142.222 Gasket, ø 70/48 x 4 (type C)](https://www.perigeedirect.com/products/leister-gasket-o-70-48-x-4-type-c-142-222): Find the Leister type C gasket 142.222 at Perigee Direct, designed to maintain secure seals and support heat tool performance. Keep your tools running, order today.
-  Updated: 2026-02-14T00:03:30Z
+  Updated: 2026-02-17T21:40:40Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_7bed78bf-a85c-4769-943c-8ff0fe27a8f7.jpg?v=1765127913
   Price: $10.03 USD
 - [Leister 142.287 Mica Tube Type C](https://www.perigeedirect.com/products/leister-mica-tube-type-c-142-287): Find the Leister 142.287 electronic circuit board STV 05 120V at Perigee Direct, built for stable tool operation and electrical reliability. Shop now.
-  Updated: 2026-02-14T00:03:31Z
+  Updated: 2026-02-17T21:40:41Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_9f14f048-d147-4e27-9eaa-0b30615d6c81.jpg?v=1758996260
   Price: $35.87 USD
 - [Leister 145.919 Housing Front](https://www.perigeedirect.com/products/leister-housing-front-145-919): Find the Leister housing front 145.919 at Perigee Direct, engineered for durable protection and precise tool assembly. Shop today.
-  Updated: 2026-02-14T00:03:32Z
+  Updated: 2026-02-17T21:40:42Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -26994,28 +26988,28 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/113.720_brushholder.jpg?v=1756318997
   Price: $19.00 USD
 - [Leister 153.796 Rocker Switch with Collar](https://www.perigeedirect.com/products/leister-rocker-switch-with-collar-153-796): Discover the Leister rocker switch 153.796 at Perigee Direct, made for dependable switching performance in various Leister welding tools. Shop now.
-  Updated: 2026-02-14T00:03:33Z
+  Updated: 2026-02-17T21:40:43Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_6c15d6c2-40db-4936-a882-b70d5a3e1fc3.jpg?v=1756318348
   Price: $14.27 USD
 - [Leister 155.473 Heating Element 230V/ 3300W](https://www.perigeedirect.com/products/leister-heating-element-230v-3300w-155-473): Find the Leister 230V 3300W heating element 155.473 at Perigee Direct, offering strong, steady performance for industrial heat tools. Order online today.
-  Updated: 2026-02-14T00:03:34Z
+  Updated: 2026-02-17T21:40:44Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_4f0bc42f-9b96-42ad-a15e-f7b8a5d96831.jpg?v=1756317256
   Price: $210.00 USD
 - [Leister 153.947 Heating Element 120V/ 1800W](https://www.perigeedirect.com/products/leister-heating-element-120v-1800w-153-947): Discover the Leister 120V 1800W heating element 153.947 at Perigee Direct, built for consistent high heat output and durable operation. Shop now.
-  Updated: 2026-02-14T00:03:35Z
+  Updated: 2026-02-17T21:40:45Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_95099e9c-b634-448b-ab87-b33b959498ec.jpg?v=1756317748
   Price: $189.99 USD
 - [Steel Tip Dispensing Kit for UV Adhesives – Perigee Direct](https://www.perigeedirect.com/products/steel-dispensing-tip-kit-for-uv-adhesive-bottles-steel-tips-luer-lock-adapter-variety-packs-steel-1-inch-14-16-18-20-22-gauge): Shop steel dispensing tip kits at Perigee Direct for precise UV adhesive application using luer lock adapters and gauge options.
-  Updated: 2026-02-16T02:39:36Z
+  Updated: 2026-02-20T17:01:09Z
   Vendor: Jensen Global
   Product Type: UV Adhesive
   Availability: Available
@@ -27045,7 +27039,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/UV-Bottle-Dispensing-Tip-Kit-_TIps-_-Adapter_fa98e9f6-0e45-41d4-bdbe-333f8367db94.jpg?v=1756319313
     Price: $699.99 USD
 - [Plastic Taper Tip Kit for UV Adhesives – Perigee Direct](https://www.perigeedirect.com/products/plastic-dispensing-tip-kit-for-uv-adhesive-bottles-plastic-taper-tips-luer-lock-adapter-variety-packs-plastic-1-25-inch-14-16-18-20-22-gauge): Shop plastic dispensing tip kits at Perigee Direct for precise UV adhesive application using tapered tips luer lock adapters and multiple gauge options.
-  Updated: 2026-01-30T18:47:31Z
+  Updated: 2026-02-19T17:51:00Z
   Vendor: Jensen Global
   Product Type: UV Adhesive
   Availability: Available
@@ -27075,7 +27069,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/UV-Bottle-Dispensing-Plastic-Taper-Tip-Kit-_TIps-_-Adapter.jpg?v=1756319642
     Price: $699.99 USD
 - [Jensen Plastic Tip Variety Pack 1.25" – Perigee Direct](https://www.perigeedirect.com/products/jensen-plastic-taper-dispensing-tips-push-on-luer-lock-variety-packs-plastic-1-25-inch-14-16-18-20-22-24-gauge): Order Jensen plastic taper tips at Perigee Direct with push-on luer lock variety packs covering sizes from 14 to 24 gauge for precise flow.
-  Updated: 2026-01-30T18:55:31Z
+  Updated: 2026-02-19T17:51:01Z
   Vendor: Jensen Global
   Product Type: Dispensing Tips
   Availability: Available
@@ -27105,14 +27099,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Jensen-Global-Multi-Pack-Sampler-Dispensing-Tips---14-22-Gauge-Plastic-Taper-Tip_f719dd4f-df0a-4929-8d36-bef1cad32d35.jpg?v=1758995421
     Price: $399.99 USD
 - [UV Pen Light for Adhesives & Resins | Perigee Direct](https://www.perigeedirect.com/products/maven-uv-pen-light-for-uv-adhesives-resins-ultraviolet-light-rechargeable-usb-port-for-on-the-job-curing-of-uv-adhesives-resins): Order the Maven UV pen light at Perigee Direct for portable ultraviolet curing with rechargeable USB design for UV adhesives and resins.
-  Updated: 2026-02-14T00:03:36Z
+  Updated: 2026-02-17T21:40:45Z
   Vendor: Maven Adhesives
   Product Type: UV Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-UV-Pen-Light.jpg?v=1758996702
   Price: $22.99 USD
 - [MixPac K-System Syringe Plunger Kit All Ratios | Perigee Direct](https://www.perigeedirect.com/products/mixpac-k-system-small-syringe-plunger-kit-syrings-plungers-pistons-together-two-part-1-1-10-1-ratios-2-5ml-3ml-5ml-10ml-2-5cc-3cc-5ccl-10cc): Shop Mixpac K-System syringe plunger kits at Perigee Direct for small-volume dispensing delivering accurate control across multiple ratios.
-  Updated: 2026-02-14T00:03:48Z
+  Updated: 2026-02-20T23:40:40Z
   Vendor: MixPac
   Product Type: Syringe Barrel and Piston
   Availability: Available
@@ -27318,7 +27312,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/syringe2_9e1e7367-5563-41ba-b830-68e8f42b3b6e.png?v=1753725400
     Price: $659.99 USD
 - [Albion 490ml 2-Part Battery Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-battery-dispenser-for-490ml-10-1-mix-ratio-18v-battery): Shop Albion 2-part battery dispensers at Perigee Direct for 490ml cartridges delivering cordless control with 10:1 mix ratio accuracy.
-  Updated: 2026-02-14T00:03:49Z
+  Updated: 2026-02-17T21:40:59Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
@@ -27428,7 +27422,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterHotJetSScrew-Onadapter143.831.jpg?v=1753725131
     Price: $59.00 USD
 - [MixPeel 280ml 1:1 Empty Coaxial Cartridge Kit – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mixpeel-280ml-1-1-ratio-empty-coaxial-cartridges-9-46oz-with-included-pistons-sealing-caps-kq-280-01-10-02): Shop MixPeel coaxial cartridges at Perigee Direct. Pistons and caps allow clean, accurate dispensing of two-part adhesives. Order online today.
-  Updated: 2026-02-13T18:13:39Z
+  Updated: 2026-02-20T22:20:48Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -27450,7 +27444,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Flow_Restrictors_for_C-System_J-System_Cartridges_301631_43656323-3a8f-44c5-a680-7d02a9d82546.jpg?v=1758996742
     Price: $3.99 USD
 - [Replacement Cap Kit 1:1 & 2:1 with Nut 162689 – Perigee Direct](https://www.perigeedirect.com/products/replacement-cap-assembly-1-1-2-1-ratios-retaining-nut-red-plug-for-mixpac-c-j-system-cartridges-200ml-400ml-600ml-1150ml-1500ml-umq-10-s1-162689): Shop Mixpac cartridge replacement cap assemblies at Perigee Direct for secure sealing delivering compatibility across multiple ratios and sizes.
-  Updated: 2026-02-13T18:20:47Z
+  Updated: 2026-02-20T22:09:27Z
   Vendor: MixPac
   Product Type: Cartridge Retaining Nuts
   Availability: Available
@@ -27483,7 +27477,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/molykote_111_compound_199.5kg_440_lb_drum.png?v=1759001070
     Price: $24,999.99 USD
 - [Maven EA 560CL Slow Set Clear Potting Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-ea-560cl-crystal-clear-epoxy-adhesive-potting-compound-slow-set-60-80-min-epoxy-medium-viscosity-crystal-clear-2-1-ratio): Find Maven EA560CL at Perigee Direct. Crystal clear slow-set epoxy potting compound for strong bonding of sensitive components. Buy online today.
-  Updated: 2026-02-14T00:03:53Z
+  Updated: 2026-02-19T22:30:57Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -27541,7 +27535,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-EA560CL-400ml-Cartridge_Nozzle.jpg?v=1756317900
     Price: $25.00 USD
 - [Maven EA 530CL Clear Medium Set Potting Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-ea-530cl-crystal-clear-epoxy-adhesive-potting-compound-medium-set-30-40-min-epoxy-medium-viscosity-crystal-clear-2-1-ratio): Get Maven EA 530CL at Perigee Direct for a crystal-clear epoxy potting compound with medium set time ideal for encapsulating parts and assemblies.
-  Updated: 2026-02-14T00:03:57Z
+  Updated: 2026-02-17T21:41:07Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -27599,7 +27593,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-EA530CL-400ml-Cartridge_Nozzle.jpg?v=1752863722
     Price: $25.00 USD
 - [Maven MEK-P Catalyst for Polyester & Vinyl – Perigee Direct](https://www.perigeedirect.com/products/maven-composites-mek-p-hardener-liquid-catalyst-for-polyster-vinyl-ester-resins-methyl-ethyl-keytone-peroxide): Shop Maven MEKP hardener at Perigee Direct, liquid catalyst for polyester and vinyl ester resins ensuring consistent curing and composite strength.
-  Updated: 2026-02-16T15:05:38Z
+  Updated: 2026-02-23T14:30:48Z
   Vendor: Cadox by Nouryon
   Product Type: Activators
   Availability: Available
@@ -27621,7 +27615,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-MEKP-1-Gallon-_128lz_-Jug-Listing-Image.jpg?v=1719875308
     Price: $69.99 USD
 - [Plexus MA8120 GB MMA Glue for Zinc & Hot-Dipped Steel – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma8120-gb-metals-zinc-treated-galvanized-metals-hot-dipped-metals-nylons-and-plastics-mma-glue-slow-20-min-set-toughened-low-odor-marine-optimized): Discover Plexus MA8120 GB at Perigee Direct. Marine-grade adhesive bonds metals, nylon and plastics. Check stock and place your order today.
-  Updated: 2026-02-14T00:04:02Z
+  Updated: 2026-02-17T21:41:12Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -27682,7 +27676,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/144.615.jpg?v=1753727330
   Price: $4,279.00 USD
 - [Maven MMA 8105-GB 5-Min Microbead MMA – Perigee Direct](https://www.perigeedirect.com/products/maven-mma8105-gb-metal-nylon-and-plastics-mma-with-embededed-glass-microbeads-gray-5-minute-set-exceptional-strength-elongation): Shop Maven MMA8105 GB adhesive at Perigee Direct for metal, nylon, and plastic bonding, delivering fast strength with glass microbeads.
-  Updated: 2026-02-14T00:04:04Z
+  Updated: 2026-02-17T21:41:15Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -27728,7 +27722,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MMA8105--400ml-Cartridge_Nozzle.jpg?v=1752862528
     Price: $20.00 USD
 - [Maven MMA 8120-GB 20-Min Microbead MMA – Perigee Direct](https://www.perigeedirect.com/products/maven-mma8120-gb-metals-galvanized-metals-with-embededed-glass-microbeads-gray-20-minute-set-exceptional-strength-elongation): Discover Maven MMA8120-GB adhesive with glass microbeads, designed for metal bonding and 20-minute set time with high strength and elongation.
-  Updated: 2026-02-14T00:04:07Z
+  Updated: 2026-02-23T14:10:47Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -27774,63 +27768,63 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MMA8120--50mlCartridges_Nozzles.jpg?v=1758994745
     Price: $20.00 USD
 - [Maven Plastic Colorant Euro Beige – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-euro-beige-2pct-let-down-or-50-1-ratio): Order euro beige plastic colorant at Perigee Direct for 2 percent let-down tinting resin batches in molded parts and casting applications.
-  Updated: 2026-02-14T00:04:08Z
+  Updated: 2026-02-17T21:41:19Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Beige-20-1-Mix-Ratio-_Drop-Ratio_-v3_82c226d8-7d54-4231-9a5f-14d0315fcabe.jpg?v=1752866557
   Price: $6.49 USD
 - [Maven Plastic Colorant Euro Gray – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-euro-gray-2pct-let-down-or-50-1-ratio): Shop Maven Euro Gray plastic colorant at Perigee Direct for consistent coloration using let-down or ratio-based plastic coloring systems.
-  Updated: 2026-02-14T00:04:09Z
+  Updated: 2026-02-17T21:41:19Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Gray-Light-20-1-Mix-Ratio-_Drop-Ratio_24d6c70c-8cf5-43ae-968c-6231ec911278.jpg?v=1756316547
   Price: $6.49 USD
 - [Maven Plastic Colorant Gray – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-dark-gray-2pct-let-down-or-50-1-ratio): Shop Maven dark gray plastic colorant with a 2% let-down ratio, ideal for precise tinting in molded or extruded plastic applications.
-  Updated: 2026-02-14T00:04:10Z
+  Updated: 2026-02-17T21:41:20Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-ColorantGray-Dark-Style-20-1-Mix-Ratio-_Drop-Ratio.jpg?v=1756318990
   Price: $6.49 USD
 - [Maven Colorant FPVC Gray for Flexible PVC – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-fpvc-gray-flexible-pvc-2pct-let-down-or-50-1-ratio): Shop Maven FPVC gray plastic colorant at Perigee Direct for flexible PVC coloring delivering consistent 2 percent let-down or 50 to 1 ratios.
-  Updated: 2026-02-14T00:04:11Z
+  Updated: 2026-02-17T21:41:21Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Gray-Medium-Schedule-80-Style-20-1-Mix-Ratio-_Drop-Ratio_991c35e6-251e-4373-80bc-15e87701276f.jpg?v=1758995801
   Price: $7.99 USD
 - [Maven Colorant FPVC Black UV for Plastic – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-fpvc-black-uv-resistant-2pct-let-down-or-50-1-ratio): Shop Maven FPVC black plastic colorant at Perigee Direct for UV-resistant PVC coloring, delivering consistent results at 2 percent or 50:1 ratios.
-  Updated: 2026-02-14T00:04:12Z
+  Updated: 2026-02-17T21:41:22Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Carbon-Black-20-1-Mix-Ratio-_Drop-Ratio_20e2b4be-d004-4020-bad5-93aa3ce6a24b.jpg?v=1756318880
   Price: $6.99 USD
 - [Maven Colorant FPVC White Plastic Tint – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-fpvc-white-2pct-let-down-or-50-1-ratio): Shop Maven FPVC white plastic colorant at Perigee Direct for flexible PVC coloring delivering consistent 2 percent or 50:1 results.
-  Updated: 2026-02-14T00:04:13Z
+  Updated: 2026-02-17T21:41:23Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-White-20-1-Mix-Ratio-_Drop-Ratio_cf996b31-eca7-45a1-9cad-bc4935c0fc5d.jpg?v=1756316287
   Price: $6.99 USD
 - [Maven Colorant Light Beige Cream Tone – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-light-beige-aka-cream-2pct-let-down-or-50-1-ratio): Order light beige plastic colorant at Perigee Direct for 2 percent let-down use, providing consistent tint across composite resin batches.
-  Updated: 2026-02-14T00:04:13Z
+  Updated: 2026-02-17T21:41:24Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Adtech-Colorant-Light-Beige-20-1-Mix-Ratio-_Drop-Ratio_-v3.jpg?v=1756319369
   Price: $6.49 USD
 - [Maven Plastic Colorant Brown – Perigee Direct](https://www.perigeedirect.com/products/maven-plastic-colorant-dark-chocolate-brown-2pct-let-down-or-50-1-ratio): Order dark chocolate plastic colorant from Perigee Direct for 2 percent letdown or 50 to 1 ratio tinting, matching brown tones in molded parts.
-  Updated: 2026-02-14T00:04:14Z
+  Updated: 2026-02-17T21:41:25Z
   Vendor: Maven Plastics
   Product Type: Plastic Colorant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Dark-Chocolate-Brown.jpg?v=1753727835
   Price: $6.99 USD
 - [Plexus MA8105 GB Fast 5-Min MMA for Plastics & Metal – Perigee Direct](https://www.perigeedirect.com/products/plexus-ma8105-gb-metal-nylon-and-plastics-mma-glue-fast-5-min-set-toughened-low-odor-marine-optimized): Shop Plexus MA8105 GB adhesive at Perigee Direct for fast 5-minute bonding, delivering toughened low-odor MMA strength for marine use.
-  Updated: 2026-02-14T00:04:17Z
+  Updated: 2026-02-23T13:50:40Z
   Vendor: Plexus
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -27876,7 +27870,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ml_cartridge_603eaa70-513e-46e4-aa39-fb3e4e9b7f14.jpg?v=1756319361
     Price: $57.00 USD
 - [Leister 141.429 Cord Guard](https://www.perigeedirect.com/products/leister-cord-guard-141-429): Shop Leister cord guard 141.429 at Perigee Direct to protect power cords from kinks and abrasion helping extend tool life on busy jobs.
-  Updated: 2026-02-14T00:04:18Z
+  Updated: 2026-02-22T16:27:14Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -27890,14 +27884,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/118.944.jpg?v=1720111530
   Price: $1.67 USD
 - [Leister Print Adapter Type A 120V – Perigee Direct](https://www.perigeedirect.com/products/leister-print-adapter-front-type-a-120v-controlled-sym-vent-158-886): Shop Leister print adapter front Type A 158.886 at Perigee Direct for controlled Sym Vent 120V systems enabling clean reliable prints today.
-  Updated: 2026-02-14T00:04:19Z
+  Updated: 2026-02-17T21:41:29Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/158.886.jpg?v=1756320031
   Price: $150.30 USD
 - [Leister 152.425 Print Adapter (lower)](https://www.perigeedirect.com/products/leister-print-adapter-lower-152-425): Find the Leister print adapter lower 152.425 at Perigee Direct, crafted for secure alignment and reliable printer accessory connection. Shop now.
-  Updated: 2026-02-14T00:04:20Z
+  Updated: 2026-02-17T21:41:30Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -27932,7 +27926,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LT_Carbon_brushes_PS_100_646.jpg_master__83947.jpg?v=1756319069
   Price: $11.03 USD
 - [Leister 156.086 Triac ST Gasket](https://www.perigeedirect.com/products/leister-triac-st-gasket-156-086): Leister Triac ST Gasket 156.086. Installs between heater tube and turbine housing Compatible Tools: Triac ST
-  Updated: 2026-02-14T00:04:21Z
+  Updated: 2026-02-22T16:27:16Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -27953,56 +27947,56 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_fdd18629-01d4-403f-bd5b-ec30cc2a7845.jpg?v=1753724955
   Price: $4.90 USD
 - [Leister 156.089 Triac ST Turbine Housing](https://www.perigeedirect.com/products/leister-triac-st-turbine-housing-156-089): Discover the Leister Triac ST turbine housing 156.089 at Perigee Direct, engineered for stable airflow and long lasting heat tool performance. Shop now.
-  Updated: 2026-02-14T00:04:22Z
+  Updated: 2026-02-17T21:41:32Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/156.089.jpg?v=1719848465
   Price: $25.20 USD
 - [Leister 140.818 Triac ST Impeller Separator](https://www.perigeedirect.com/products/leister-triac-st-impeller-separator-140-818): Discover the Leister Triac ST impeller separator 140.818 at Perigee Direct, crafted for balanced airflow and efficient heat performance. Maintain airflow, buy today.
-  Updated: 2026-02-14T00:04:23Z
+  Updated: 2026-02-17T21:41:33Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/140.818.jpg?v=1753725026
   Price: $5.91 USD
 - [Leister 150.020 Triac ST Impeller](https://www.perigeedirect.com/products/leister-triac-st-impeller-150-020): Find the Leister Triac ST impeller 150.020 at Perigee Direct, built for steady airflow and consistent tool performance during prolonged welding sessions. Order now.
-  Updated: 2026-02-14T00:04:24Z
+  Updated: 2026-02-17T21:41:34Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/150.020.jpg?v=1756316262
   Price: $22.11 USD
 - [Leister 148.659 Triac ST Replacement Handle](https://www.perigeedirect.com/products/leister-triac-st-replacement-handle-148-659): Ergonomic Triac ST replacement handle designed for a secure grip, improved comfort, and dependable control during operation. Order now today.
-  Updated: 2026-02-14T00:04:25Z
+  Updated: 2026-02-17T21:41:34Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/148.659.jpg?v=1719875243
   Price: $55.00 USD
 - [Leister 141.373 Triac ST Motor Connecting Wire](https://www.perigeedirect.com/products/leister-triac-st-motor-connecting-wire-141-373): Discover the Leister motor connecting wire 141.373 made for secure electrical connection and stable operation in heat welding tools. Shop now.
-  Updated: 2026-02-14T00:04:26Z
+  Updated: 2026-02-17T21:41:35Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/141.373.jpg?v=1719846098
   Price: $3.73 USD
 - [Leister 145.741 Triac ST Replacement 120V Blower](https://www.perigeedirect.com/products/leister-triac-st-replacement-120v-blower-145-741): Find the 120V replacement blower for Triac ST designed to maintain airflow strength and ensure consistent welding tool output. Order now.
-  Updated: 2026-02-14T00:04:27Z
+  Updated: 2026-02-17T21:41:36Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/145.741.jpg?v=1752859999
   Price: $295.71 USD
 - [Leister 145.743 Triac ST Replacement 230V Blower](https://www.perigeedirect.com/products/leister-triac-st-replacement-230v-blower-145-743): Discover the Leister 230V blower 145.743 built for strong airflow delivery and dependable performance in Triac ST welders. Shop now.
-  Updated: 2026-02-14T00:04:27Z
+  Updated: 2026-02-17T21:41:37Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/145.743.jpg?v=1753727672
   Price: $295.71 USD
 - [Maven EA 270BK Slow Set Epoxy Potting Compound – Perigee Direct](https://www.perigeedirect.com/products/maven-ea-270bk-black-epoxy-adhesive-potting-compound-slow-set-60-80-min-epoxy-medium-viscosity-black-1-1-ratio): Shop Maven EA270BK at Perigee Direct. Slow-set black epoxy potting compound for strong bonding of electronics and components. Order online today.
-  Updated: 2026-02-14T00:04:31Z
+  Updated: 2026-02-19T22:30:54Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -28060,7 +28054,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-EA270BK-400ml-Cartridge_Nozzle.jpg?v=1756316048
     Price: $20.00 USD
 - [SciGrip SG400-LSE 50ml Plastic Bonder MMA – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg400-lse-50ml-polyolefin-soft-plastics-bonder-for-low-surface-energy-materials-mma-methacrylate-adhesive-35967): Discover Scigrip SG400 LSE at Perigee Direct. Built for low surface energy plastics, providing bonding on soft substrates. Buy online today.
-  Updated: 2026-02-14T00:04:34Z
+  Updated: 2026-02-20T13:45:57Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28106,7 +28100,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/SG400_50ml.png?v=1758999675
     Price: $90.00 USD
 - [SciGrip SG100 490ml White 15/40 Min MMA Glue – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg100-uv-resistant-toughened-15-min-40-min-white-490ml-10-1-mma-methacrylate-adhesive-30191): Choose SCIGRIP SG100 at Perigee Direct for UV-resistant toughened MMA adhesive with a 15- to 40-minute set time for repair and composite bonding.
-  Updated: 2026-02-14T00:04:35Z
+  Updated: 2026-02-17T21:41:45Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28128,7 +28122,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/sg10040gun.png?v=1758999471
     Price: $189.99 USD
 - [SciGrip SG200 490ml White 10–40 Min Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg200-high-strength-toughened-10-20-40-min-off-white-white-490ml-10-1-mma-methacrylate-adhesive): Shop SciGrip SG200 toughened MMA adhesive offering high strength, flexible working times, and dependable bonding for demanding assemblies.
-  Updated: 2026-02-14T00:04:37Z
+  Updated: 2026-02-17T21:41:47Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28158,7 +28152,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/sg20020gun.png?v=1759000613
     Price: $189.99 USD
 - [SciGrip SG230HV Gray 60 Min Non-Sag MMA Glue – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg230hv-non-sag-toughened-60-min-gray-490ml-10-1-mma-adhesive-for-large-gap-filling-and-large-structures): Shop SciGrip SG230HVA at Perigee Direct for large structure bonding with non sag toughened MMA strength and extended working times.
-  Updated: 2026-02-14T00:04:39Z
+  Updated: 2026-02-17T21:41:49Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28180,7 +28174,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/SG23060NOZZLE.png?v=1753728088
     Price: $40.00 USD
 - [SG300-OW-15 Off-White 15 Min MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg300-ow-15-off-white-15-minute-high-strength-toughened-490ml-10-1-mma-methacrylate-adhesive): Bond metals, plastics and composites using SG300-OW-15. A 10:1 mix methacrylate with 15-minute working time and superior toughness.
-  Updated: 2026-02-14T00:04:40Z
+  Updated: 2026-02-17T21:41:50Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28202,7 +28196,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/sg30015nozzle.png?v=1761586345
     Price: $45.00 USD
 - [SciGrip SG300-B 40 Black MMA Adhesive 490ml – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg300-b-40-black-slow-set-40-minute-high-strength-toughened-490ml-10-1-mma-methacrylate-adhesive): Discover SCIGRIP SG300 B-40 at Perigee Direct, a slow-set 40-minute MMA adhesive engineered for high-strength, durable structural bonding. Order today.
-  Updated: 2026-02-16T17:35:35Z
+  Updated: 2026-02-23T19:46:17Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28224,7 +28218,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/SciGrip-SG300-Black-490ml-Cartridge_Nozzle_081c66ce-108d-469c-927d-8b31d87ddbee.jpg?v=1758994650
     Price: $45.00 USD
 - [SciGrip SG800 490ml Primerless Gel Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg800-black-temp-resistant-primerless-nonsag-gel-05-15-min-490ml-10-1-mma-methacrylate-adhesive): Select SCIGRIP SG800 at Perigee Direct for a nonsag gel adhesive that delivers temperature resistance and strong primerless bonding.
-  Updated: 2026-02-14T00:04:44Z
+  Updated: 2026-02-17T21:41:55Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28262,7 +28256,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/490ml15minblackcartridge.jpg?v=1760203766
     Price: $55.00 USD
 - [SciGrip SG5000 Black Mold Repair 400ml MMA – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg5000-black-mold-repair-compound-rapid--400ml-1-1-mma-methacrylate-adhesive): Shop SciGrip SG5000 mold repair compound at Perigee Direct for rapid  repairs delivering strong black MMA bonding performance.
-  Updated: 2026-02-14T00:04:47Z
+  Updated: 2026-02-17T21:41:57Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -28308,7 +28302,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400mlblack_46efe2af-65a0-460d-ac33-60eff795e1d7.jpg?v=1761499265
     Price: $25.00 USD
 - [Arjay 2011 Polyester Bonding Compound – Perigee Direct](https://www.perigeedirect.com/products/arjay-2011-polyester-medium-weight-bonding-compound-for-manufacturing-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-recreationa-boats): Choose Arjay 2011 at Perigee Direct for polyester bonding used in shipbuilding and repair on tanks, hull sections and marine composite parts.
-  Updated: 2026-02-14T00:04:49Z
+  Updated: 2026-02-17T21:41:59Z
   Vendor: Arjay Composites
   Product Type: Bonding Compound
   Availability: Available
@@ -28330,7 +28324,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Arjay-6011-5-Gallon-Pail-Kit-A_B_bc2ca396-6d5a-4fec-ae2d-b0912a770d83.jpg?v=1756317581
     Price: $2,999.99 USD
 - [Arjay 4501J Core Bonding Standard – Perigee Direct](https://www.perigeedirect.com/products/arjay-4501-j-core-standard-viscosity-ultra-light-hardtop-and-small-part-sandwich-style-bonding-compound-for-manufacturing-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-recreationa-boats): Shop Arjay 4501 J Core compound at Perigee Direct for marine manufacturing delivering lightweight bonding for hardtops and sandwich structures.
-  Updated: 2026-02-14T00:04:52Z
+  Updated: 2026-02-17T21:42:02Z
   Vendor: Arjay Composites
   Product Type: Bonding Compound
   Availability: Available
@@ -28368,7 +28362,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Arjay60115-GallonPailPartA_46481a05-2565-45a5-8129-f6cde6d73093.jpg?v=1752864832
     Price: $1,799.99 USD
 - [Arjay 4501J HV Core Bonding Compound – Perigee Direct](https://www.perigeedirect.com/products/arjay-4501-j-core-hv-hvx-high-viscosity-ultra-light-hardtop-and-small-part-sandwich-style-bonding-compound-for-manufacturing-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-recreationa-boats): Shop Arjay 4501 J Core HV bonding compound at Perigee Direct for lightweight, high-viscosity structural bonding in marine and industrial builds.
-  Updated: 2026-02-14T00:04:56Z
+  Updated: 2026-02-17T21:42:06Z
   Vendor: Arjay Composites
   Product Type: Bonding Compound
   Availability: Available
@@ -28438,7 +28432,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Arjay60115-GallonPailPartA_52721f80-92a2-4eec-bed4-0c4ee4abe13d.jpg?v=1752866793
     Price: $1,799.99 USD
 - [Arjay 7121 Vinyl Ester Bonding Compound – Perigee Direct](https://www.perigeedirect.com/products/arjay-7121-vinyl-ester-versatil-multi-purpose-bonding-compound-for-manufacturing-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-recreationa-boats): Shop Arjay 7121 vinyl ester bonding compound for marine and industrial manufacturing, offering strong versatile bonds in demanding builds.
-  Updated: 2026-02-14T00:04:57Z
+  Updated: 2026-02-17T21:42:07Z
   Vendor: Arjay Composites
   Product Type: Bonding Compound
   Availability: Available
@@ -28456,7 +28450,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Arjay-6011-5-Gallon-Pail-Kit-A_B_8a69ddac-a599-4082-8105-6d9ae86250c3.jpg?v=1752867702
     Price: $629.99 USD
 - [Arjay 4001 Core Bonding Compound – Perigee Direct](https://www.perigeedirect.com/products/arjay-4001-core-bonding-compound-for-manufacturing-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-recreationa-boats): Order Arjay 4001 at Perigee Direct for core bonding on marine boats providing strong structural support for fiberglass and composite builds.
-  Updated: 2026-02-14T00:04:59Z
+  Updated: 2026-02-17T21:42:09Z
   Vendor: Arjay Composites
   Product Type: Bonding Compound
   Availability: Available
@@ -28474,7 +28468,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Arjay-Product-Family_da9e0eed-a40d-4054-8ea9-e523f929fbed.jpg?v=1753728907
     Price: $349.99 USD
 - [Arjay 2121/5121 Radius Polyester Compound – Perigee Direct](https://www.perigeedirect.com/products/arjay-2121-radius-and-5121-radius-premium-polyester-radius-weight-bonding-compound-for-manufacturing-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-recreationa-boats): Shop Arjay 2121 and 5121 Radius compounds at Perigee Direct for marine manufacturing delivering premium polyester bonding performance.
-  Updated: 2026-02-14T00:05:01Z
+  Updated: 2026-02-17T21:42:11Z
   Vendor: Arjay Composites
   Product Type: Bonding Compound
   Availability: Available
@@ -28526,7 +28520,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1500ml-full-kit-Various-Dispenser-Piston-Disk-Full-Kit.jpg?v=1756321749
     Price: $44.99 USD
 - [Cadox D-50 VR MEKP Catalyst – Perigee Direct](https://www.perigeedirect.com/products/cadox-d-50-vr-vanishing-red-mekp-hardener-liquid-catalyst-for-polyster-vinyl-ester-resins-methyl-ethyl-keytone-peroxide): Shop Cadox D-50 VR hardener at Perigee Direct for polyester and vinyl ester resins delivering reliable curing with vanishing red indicator.
-  Updated: 2026-02-14T00:05:02Z
+  Updated: 2026-02-23T15:45:36Z
   Vendor: Cadox by Nouryon
   Product Type: Activators
   Availability: Available
@@ -28589,7 +28583,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2024-03-27104731.jpg?v=1719847751
   Price: $139.00 USD
 - [Ritter 7.3in ACF Helix Mixer Nozzle, 18 Element – Perigee Direct](https://www.perigeedirect.com/products/ritter-acf-helix-mixing-nozzle-18-element-8mm-for-200ml-or-400ml-acf-cartridge-ratios-1-1-or-2-1-13300-2001): Shop Ritter ACF Helix mixing nozzles at Perigee Direct for 200ml and 400ml cartridges delivering consistent 18-element adhesive mixing.
-  Updated: 2026-02-14T00:05:04Z
+  Updated: 2026-02-18T20:27:14Z
   Vendor: Ritter
   Product Type: Mixing Nozzles
   Availability: Available
@@ -28622,7 +28616,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/122.401.png?v=1765041884
   Price: $87.00 USD
 - [Maven EA 120HP Non-Sag 120-Min Set Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-ea-120hp-toughened-non-sag-120-min-set-epoxy-2-hour): Order Maven EA 120HP at Perigee Direct for a toughened, nonsag epoxy with a two-hour set time that supports structural bonds in controlled assembly.
-  Updated: 2026-02-14T00:05:06Z
+  Updated: 2026-02-17T21:42:16Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -28652,7 +28646,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven_EA_120HP-_2-1_Ratio-400ml-Cartridge_Gun_Nozzle_NEW.jpg?v=1758997045
     Price: $159.99 USD
 - [Cadox L-50 A Clear MEKP Catalyst – Perigee Direct](https://www.perigeedirect.com/products/cadox-l-50-a-clear-mekp-hardener-liquid-catalyst-for-polyster-vinyl-ester-resins-methyl-ethyl-keytone-peroxide): Shop Cadox L-50 A MEKP hardener at Perigee Direct for polyester and vinyl ester resins delivering reliable curing performance and clarity.
-  Updated: 2026-02-16T15:05:43Z
+  Updated: 2026-02-23T14:30:49Z
   Vendor: Cadox by Nouryon
   Product Type: Activators
   Availability: Available
@@ -28691,7 +28685,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/101.311.jpg?v=1752860064
   Price: $1,199.00 USD
 - [MixPac Ecopacc 600ml 1:1 Low-Waste Cartridges | Perigee Direct](https://www.perigeedirect.com/products/mixpac-ecopacc-600ml-1-1-ratio-collapsible-low-waste-empty-cartridges-182743-163117): Shop Mixpac EcoPacc 600ml cartridges at Perigee Direct for low-waste 1:1 dispensing delivering collapsible efficiency and cleaner use.
-  Updated: 2026-02-14T00:05:09Z
+  Updated: 2026-02-17T21:42:19Z
   Vendor: MixPac EcopaCC
   Product Type: Cartridges
   Availability: Available
@@ -28721,7 +28715,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Sulzer-MixPAC-ecopaCC-2-Component-Packaging_600x_bbd8d6d1-c8db-463b-841d-9ad3d21fecb3.webp?v=1752866814
     Price: $15,920.00 USD
 - [MixPac Ecopacc 600ml 3:1 Low-Waste Cartridges | Perigee Direct](https://www.perigeedirect.com/products/mixpac-ecopacc-600ml-3-1-ratio-collapsible-low-waste-empty-cartridges-182744-163130): Shop Mixpac EcoPacc 600ml cartridges at Perigee Direct for 3:1 low-waste dispensing delivering collapsible efficiency and cleaner jobs.
-  Updated: 2026-02-14T00:05:11Z
+  Updated: 2026-02-17T21:42:21Z
   Vendor: MixPac EcopaCC
   Product Type: Cartridges
   Availability: Available
@@ -28751,7 +28745,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/EcopaCC-600ml-3-1-ratio.png?v=1756318911
     Price: $15,920.00 USD
 - [MixPac Ecopacc 1500ml 1:1 Low-Waste Cartridge | Perigee Direct](https://www.perigeedirect.com/products/mixpac-ecopacc-1500ml-1-1-ratio-collapsible-low-waste-empty-cartridges-182745-163194): Shop Mixpac EcoPacc 1500ml cartridges at Perigee Direct for 1:1 low-waste dispensing delivering collapsible efficiency and cleaner workflows.
-  Updated: 2026-02-14T00:05:13Z
+  Updated: 2026-02-17T21:42:23Z
   Vendor: MixPac EcopaCC
   Product Type: Cartridges
   Availability: Available
@@ -28824,7 +28818,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/DG-Dangerous-Goods-Image_733ede83-3620-4cca-9766-ca1c74b522e7.jpg?v=1720109311
   Price: $25.00 USD
 - [Leister 146.247 V-Seam Shoe 30mm – Perigee Direct](https://www.perigeedirect.com/products/leister-welding-shoe-complete-fwp-ext-air-v-seam-30mm-146-247): ARTICLE 146.247 ITEM NAME Welding shoe complete (FWP-Ext. Air) V-Seam 30mm (1.2in) BRAND Leister WELDING SEAM GEOMETRY Corner outside seam AIR GUIDE Internal
-  Updated: 2026-02-14T00:05:14Z
+  Updated: 2026-02-17T21:42:24Z
   Vendor: Leister
   Product Type: Welding Shoe
   Availability: Available
@@ -28838,7 +28832,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CoxVBM400X10-1ratiodedicatedkit.jpg?v=1752866641
   Price: $84.99 USD
 - [SciGrip Seakeeper Install Adhesive Kit – Perigee Direct](https://www.perigeedirect.com/products/seakeeper-scigrip-sg300-40-black-adhesive-kits-490ml-10-1-ratio): Shop Scigrip SG300 at Perigee Direct for strong black adhesive bonding in marine builds using a 10 to 1 ratio cartridge kit designed for composite parts.
-  Updated: 2026-02-16T23:52:04Z
+  Updated: 2026-02-23T19:46:17Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -29135,7 +29129,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.839_temperature_resistant_wire_brown.jpg?v=1719876800
   Price: $4.00 USD
 - [Leister 100.258 - TRIAC S AIR FILTER](https://www.perigeedirect.com/products/leister-100-258-triac-s-air-filter): Shop the Leister Triac ST impeller 150.020 at Perigee Direct, built for strong airflow and reliable welding tool performance. Order online today.
-  Updated: 2026-02-14T00:05:18Z
+  Updated: 2026-02-17T21:42:27Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -29149,7 +29143,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/106.191_green_handle_without_display.jpg?v=1719847754
   Price: $110.57 USD
 - [Leister 100.261 -RAISED COUNTERSUNK SCREW](https://www.perigeedirect.com/products/leister-raised-countersunk-screw-100-261): Shop the Leister raised countersunk screw 100.261 at Perigee Direct, designed for stability and accurate alignment in tool assembly. Order your screws today.
-  Updated: 2026-02-14T00:05:18Z
+  Updated: 2026-02-17T21:42:28Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -29170,7 +29164,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.263_potentiometer_red_knob.jpg?v=1756317551
   Price: $11.00 USD
 - [Leister 100.046 POTENTIOMETER 20KOHM](https://www.perigeedirect.com/products/leister-potentiometer-20kohm-100-046): Discover the Leister 20k ohm potentiometer 100.046 at Perigee Direct, designed for accurate control and stable adjustment settings. Buy today.
-  Updated: 2026-02-14T00:05:19Z
+  Updated: 2026-02-17T21:42:29Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -29247,7 +29241,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.278_cord_guide.jpg?v=1752863886
   Price: $4.50 USD
 - [Leister 100.279 BRASS BRUSH HOLDER](https://www.perigeedirect.com/products/leister-brass-brush-holder): Discover the Leister brass brush holder in Canada at Perigee Direct, engineered for stability and dependable welding tool performance. Buy today.
-  Updated: 2026-02-14T00:05:20Z
+  Updated: 2026-02-17T21:42:30Z
   Vendor: LEISTER
   Product Type: Replacement Parts
   Availability: Available
@@ -29279,7 +29273,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Cox-Applicator-Gun-MR25-In-The-Box_b820e560-fb5b-44b5-8bc9-6e89c4e8c706.jpg?v=1753727725
     Price: $34.99 USD
 - [LEISTER_SQUARE_NUT_M4_100.283](https://www.perigeedirect.com/products/leister-square-nut-m4-100-283): Find the Leister square nut M4 100 283 at Perigee Direct. Secure fastening and reliable fit for your welding equipment. Order online today.
-  Updated: 2026-02-14T00:05:21Z
+  Updated: 2026-02-17T21:42:31Z
   Vendor: LEISTER
   Product Type: Replacement Parts
   Availability: Available
@@ -29293,7 +29287,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.284_thread_forming_fillister_countersunk_screw.jpg?v=1758994976
   Price: $4.50 USD
 - [Leister 140.492 TURBINE IMPELLER BALANCED TRIAC S](https://www.perigeedirect.com/products/leister-turbine-impeller-balanced-triac-s-140-492): Shop the Leister turbine impeller Triac S 140.492 in Canada at Perigee Direct, crafted for balanced airflow and long-lasting performance. Order now.
-  Updated: 2026-02-14T00:05:22Z
+  Updated: 2026-02-17T21:42:32Z
   Vendor: LEISTER
   Product Type: Replacement Parts
   Availability: Available
@@ -29307,7 +29301,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.629_stripper_complete.jpg?v=1756321437
   Price: $29.57 USD
 - [Heating Element Type 33 – Perigee Direct](https://www.perigeedirect.com/products/heating-element-type-33-120v-1600w-triac-s-and-diode-s): Type 33 heating element 1600W provides steady heat output for Triac S and Diode S tools, supporting reliable welding work. Order now.
-  Updated: 2026-02-14T00:05:23Z
+  Updated: 2026-02-17T21:42:33Z
   Vendor: LEISTER
   Product Type: Heating element
   Availability: Available
@@ -29328,14 +29322,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.299_fillister_head_screw.jpg?v=1752860666
   Price: $4.50 USD
 - [Leister 100.300 HEATER TUBE FOR PUSH-FIT NOZZLE](https://www.perigeedirect.com/products/leister-heater-tube-for-push-fit-nozzle-100-300): Find the Leister heater tube push fit 100.300 at Perigee Direct, designed for smooth heat transfer and secure nozzle attachment. Shop now.
-  Updated: 2026-02-14T00:05:24Z
+  Updated: 2026-02-17T21:42:34Z
   Vendor: LEISTER
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.300_push_fit_nozzle_1.jpg?v=1719847614
   Price: $231.43 USD
 - [Leister 100.304 HEATER TUBE FOR SCREW-ON NOZZLE](https://www.perigeedirect.com/products/leister-heater-tube-for-screw-on-nozzle-100-304): Discover the Leister heater tube screw-on 100.304 in Canada at Perigee Direct, built for consistent heat distribution in welding. Shop now.
-  Updated: 2026-02-14T00:05:25Z
+  Updated: 2026-02-17T21:42:34Z
   Vendor: LEISTER
   Product Type: Replacement Parts
   Availability: Available
@@ -29384,14 +29378,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/146.243Photo.jpg?v=1752860309
   Price: $215.00 USD
 - [Leister 141.544 Motor for Variant T1 S cComplete 230V](https://www.perigeedirect.com/products/leister-motor-for-variant-t1-s-ccomplete-230v-141-544): Find the Leister Variant T1 motor 141.544 at Perigee Direct, designed for dependable power and smooth tool performance. Secure your replacement motor today.
-  Updated: 2026-02-14T00:05:26Z
+  Updated: 2026-02-17T21:42:35Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_cd3a2893-8a81-4a75-8140-f8c8aebc91a5.jpg?v=1758994046
   Price: $1,300.00 USD
 - [MixPac MCH-06-32T 9.2in Bell Nozzle for PUR | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mch-06-32t-9-2-in-32-element-mixing-nozzle-for-thin-and-polyurethane-pur-adhesives-round-helix-bell-style-1-1-2-1-ratio-200ml-400ml-600ml-1500ml-2-part-cartridges): Shop Mixpac MCH 06-32T mixing nozzles at Perigee Direct for thin adhesives, delivering long helix mixing and uniform material flow.
-  Updated: 2026-01-26T14:37:34Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -29425,7 +29419,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPac-MCH-06-32T.jpg?v=1752862878
     Price: $2,299.99 USD
 - [MixPac MCH-05-32T 7.4in Bell Nozzle for PUR | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mch-05-32t-102416-7-4-in-32-element-mixing-nozzle-for-thin-and-polyurethane-pur-adhesives-round-helix-bell-style-1-1-2-1-ratio-200ml-400ml-600ml-1500ml): Shop Mixpac MCH 05-32T long helix nozzles at Perigee Direct for thin adhesives, delivering thorough mixing across large cartridges.
-  Updated: 2026-02-10T14:25:42Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -29466,14 +29460,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/WideSlotNozzle90-degreeSideOutlets105.500.jpg?v=1758996228
   Price: $300.00 USD
 - [Maven MV490-36X Manual 490ml Gun – Perigee Direct](https://www.perigeedirect.com/products/maven-mv490-36x-manual-high-power-36x-thrust-2-part-adhesive-dispenser-for-all-490ml-10-1-ratio-cartridges): Shop Maven MV490 36x thrust dispensers at Perigee Direct for high-power manual control delivering accuracy for 490ml 10:1 cartridges.
-  Updated: 2026-02-16T13:50:43Z
+  Updated: 2026-02-23T19:46:17Z
   Vendor: Maven Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-MV490-10-36X-10-1-36x-Dispenser_749e6d19-f555-4c8b-be79-28599e34699f.jpg?v=1752864205
   Price: $64.99 USD
 - [Manufacturer COA Spec Certificate Online – Perigee Direct](https://www.perigeedirect.com/products/manufacturers-certificate-of-analysis-coa-to-material-specification): Order a manufacturer Certificate of Analysis at Perigee Direct for  material specifications, lot traceability, and QA documentation.
-  Updated: 2026-02-13T06:08:06Z
+  Updated: 2026-02-18T19:04:37Z
   Vendor: Perigee Direct
   Product Type: Services
   Availability: Available
@@ -29507,7 +29501,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CoC-or-CoA-Certificate-of-Analysis-or-Certificate-of-Conformance.jpg?v=1758995065
     Price: $75.00 USD
 - [Leister 137.934 Data Cable MCU 03](https://www.perigeedirect.com/products/leister-data-cable-mcu-03): Discover the Leister data cable MCU 03 at Perigee Direct, built for stable connectivity and reliable communication with welding tools. Order now.
-  Updated: 2026-02-14T00:05:27Z
+  Updated: 2026-02-17T21:42:37Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -29521,7 +29515,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_d99cf718-499b-4d06-98f3-19003fae31ef.jpg?v=1752860808
   Price: $2.96 USD
 - [Maven Plastics LDPE Sheet - 1/32" x 24" x 48"](https://www.perigeedirect.com/products/maven-plastics-ldpe-single-sheet-1-32-x-24-x-48): Shop Maven LDPE plastic sheets at Perigee Direct for fabrication and protection delivering lightweight flexibility and clean cutting results.
-  Updated: 2026-02-14T00:05:28Z
+  Updated: 2026-02-17T21:42:38Z
   Vendor: Maven Plastics
   Product Type: Sheet
   Availability: Available
@@ -29539,7 +29533,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/31CxOqx2doL.jpg?v=1756320885
     Price: $282.15 USD
 - [Maven 2 oz White HDPE Cosmo Bottle – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-2-oz-white-hdpe-cosmo-single-bottle-with-20-410-white-ribbed-crc-cap-with-f217-liner): Shop Maven Plastics 2 oz white HDPE Cosmo bottles at Perigee Direct with CRC cap and F217 liner for secure storage and clean dispensing.
-  Updated: 2026-02-16T15:05:43Z
+  Updated: 2026-02-23T15:45:45Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -29569,7 +29563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Capture1.png?v=1756319260
     Price: $52.99 USD
 - [Maven 12 oz HDPE Cosmo Bottle Natural – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-12-oz-natural-hdpe-cosmo-bottle-with-24-410-white-ribbed-crc-cap-with-f217-liner): 12 oz natural HDPE Cosmo bottle with 24/410 child resistant cap and F217 liner. Chemical resistant packaging for adhesives and regulated liquids.
-  Updated: 2026-02-14T00:05:32Z
+  Updated: 2026-02-17T21:42:42Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -29606,28 +29600,28 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/triac-st-the-new-standard_141.227_141.228_44b36437-4215-4727-9674-c45ff8e0ac8c.png?v=1758999891
   Price: $150.00 USD
 - [Meritool 9000-600 400ml 12V Battery Dispenser | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9000-600-12v-battery-powered-dispenser-for-400ml-sausage-packs-clear-barrel-and-up-to-60-packs-per-charge): Shop Meritool PowerPush 9000 600 at Perigee Direct for cordless sausage pack dispensing delivering reliable thrust and extended battery performance.
-  Updated: 2026-02-14T00:05:34Z
+  Updated: 2026-02-20T20:17:46Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/9000-600_500pixa-2.jpg?v=1753727829
   Price: $399.99 USD
 - [Meritool 9000-400 400ml Sausage Dispenser | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9000-400-12v-battery-powered-dispenser-for-400ml-sausage-packs-clear-barrel-and-up-to-60-packs-per-charge): Shop Meritool PowerPush 9000 400 at Perigee Direct for battery-powered sausage pack dispensing delivering high output and long runtime per charge.
-  Updated: 2026-02-14T00:05:35Z
+  Updated: 2026-02-20T20:17:22Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/9000-600_500pixa-2_626a208a-f9a8-4b25-b122-104a20fc520f.jpg?v=1752864151
   Price: $399.99 USD
 - [Meritool 9000-380C_101 12V 380ml Battery Tool | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9000-380c-101-12v-battery-powered-dispenser-for-380ml-coax-style-10-1-ratio-bell-style-industry-standard-2-part-cartridges): Shop Meritool PowerPush 9000 380C at Perigee Direct for cordless coax dispensing delivering precise 10:1 ratio control for 2-part cartridges.
-  Updated: 2026-02-14T00:05:36Z
+  Updated: 2026-02-20T20:17:00Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/9000-380C-101_500pix-1.jpg?v=1758996551
   Price: $399.99 USD
 - [Meritool 9000-200M-101 250ml 10:1 Battery Tool | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9000-200m-101-battery-dispenser-for-250ml-10-1-ratio-2-part-cartridges): Equip worksites with Meritool PowerPush 9000 at Perigee Direct for battery-powered dispensing of 250ml ten-to-one cartridges in adhesive jobs.
-  Updated: 2026-02-14T00:05:37Z
+  Updated: 2026-02-20T20:14:55Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
@@ -29655,7 +29649,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Amazon_1.png?v=1759001153
   Price: $19.99 USD
 - [Maven 1 Gallon Pail Mixer (Wooden Stir Stick)](https://www.perigeedirect.com/products/maven-1-gallon-pail-mixer-wooden-stir-stick): Shop Maven 1-gallon pail mixer wooden stir sticks at Perigee Direct for reliable mixing of coatings adhesives resins and repair compounds.
-  Updated: 2026-02-16T15:05:35Z
+  Updated: 2026-02-17T21:42:50Z
   Vendor: Maven Mixing
   Product Type: Accessories
   Availability: Available
@@ -29685,112 +29679,112 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1GallonWoodenMixer.jpg?v=1756319122
     Price: $89.99 USD
 - [Meritool EU Replacement Charger Cord Type G | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-charger-cord-for-europe-eu-type-g-plug): Replacement Power Cord for all Meritool PowerPush battery chargers.THIS UNIT IS ONLY THE TYPE G POWER CORD, used in Europe. The charger is sold separately. Charger Part Number: 1020-017
-  Updated: 2026-02-14T00:05:41Z
+  Updated: 2026-02-17T21:42:51Z
   Vendor: Meritool PowerPush
   Product Type: Battery & Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2024-06-21TYPEG100359.jpg?v=1753728974
   Price: $17.99 USD
 - [Meritool UK Replacement Charger Cord Type C | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-charger-cord-for-uk-type-c-plug): Replacement Power Cord for all Meritool PowerPush battery chargers. THIS UNIT IS ONLY THE TYPE C POWER CORD, used in the UK. The charger is sold separately. Charger Part Number: 1020-1019
-  Updated: 2026-02-14T00:05:41Z
+  Updated: 2026-02-17T21:42:51Z
   Vendor: Meritool PowerPush
   Product Type: Battery & Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2024-06-21095026.jpgTYPECCHARGER.jpg?v=1758994681
   Price: $17.99 USD
 - [Meritool AU Replacement Charger Cord Type I | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-charger-cord-for-australia-au-type-i-plug): Replacement Power Cord for all Meritool PowerPush battery chargers.THIS UNIT IS ONLY THE TYPE I POWER CORD, used in Australia. The charger is sold separately. Charger Part Number: 1020-018
-  Updated: 2026-02-14T00:05:42Z
+  Updated: 2026-02-17T21:42:52Z
   Vendor: Meritool PowerPush
   Product Type: Battery & Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2024-06-21TYPEICORD101025.jpg?v=1752864624
   Price: $17.99 USD
 - [Albion 1500ml 1:1 ratio 18V Battery Dispensers E18T1500](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-18v-battery-dispensers-e18t1500): Get the Albion E18T1500 battery-powered dispenser offering 1500ml capacity and consistent output for industrial adhesive needs.
-  Updated: 2026-02-14T00:05:43Z
+  Updated: 2026-02-17T21:42:53Z
   Vendor: Albion
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Albion-e18t1500_1_03c1c1af-7e6e-471c-98e4-85e8c45cbb76.jpg?v=1758995060
   Price: $749.99 USD
 - [Albion 1500ml 1:1 ratio 18V Battery Dispensers E18T1500X](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-18v-battery-dispensers-e18t1500x): Choose the Albion E18T1500X for reliable 1500ml dispensing with battery power and ergonomic design for reduced user fatigue.
-  Updated: 2026-02-14T00:05:44Z
+  Updated: 2026-02-17T21:42:54Z
   Vendor: Albion
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Albion-e18t1500x_2_a6440008-59b9-4ffc-ab0e-0b3207ac35d6.jpg?v=1758995611
   Price: $889.99 USD
 - [Albion 1500ml 1:1 ratio 18V Battery Dispensers E18T1500XL](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-18v-battery-dispensers-e18t1500xl): Discover the Albion E18T1500XL battery dispenser engineered for high-volume work with enhanced runtime and smooth application.
-  Updated: 2026-02-14T00:05:45Z
+  Updated: 2026-02-17T21:42:55Z
   Vendor: Albion
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Albion_e18t1500XL_04a775a9-7f50-49d1-b0fe-089bc1a0a8e8.jpg?v=1756321625
   Price: $949.99 USD
 - [Albion Battery Charger 982-21](https://www.perigeedirect.com/products/albion-battery-charger-for-18v-12v-cordless-dispenser-982-21-usa-version-1): Charge your Albion 1500ml 18V dispenser system quickly and efficiently with this reliable power accessory for professionals.
-  Updated: 2026-02-14T00:05:46Z
+  Updated: 2026-02-17T21:42:56Z
   Vendor: Albion
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/albion-18V-12V-LI-battery-charger-982-21_8b8da366-615a-46b6-bd64-5f31523d5a07.jpg?v=1758995377
   Price: $149.99 USD
 - [Albion 1500ml 1:1 ratio Manual Dispensers B26T1500X](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-manual-dispensers-b26t1500x): Choose the Albion B26T1500X for compact manual dispensing of 1500ml adhesives with excellent grip and flow consistency.
-  Updated: 2026-02-14T00:05:47Z
+  Updated: 2026-02-17T21:42:57Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_BT26T1500X_1098b81a-6673-4dce-ba5b-3bcfcfe51f1a.jpg?v=1753726783
   Price: $199.99 USD
 - [Albion 1500ml 1:1 ratio Manual Dispensers B26T1500XL](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-manual-dispensers-b26t1500xl): Find the Albion B26T1500XL manual dispenser for large jobs needing powerful grip and smooth adhesive delivery every time.
-  Updated: 2026-02-14T00:05:48Z
+  Updated: 2026-02-17T21:42:58Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_B26T1500XL_74a8f458-ecf8-47d2-8eb8-114836fcb3bf.png?v=1752862159
   Price: $349.99 USD
 - [Albion 1500ml 1:1 ratio Manual Dispensers B26T1500](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-manual-dispensers-b26t1500): Shop the Albion B26T1500 manual dispenser for heavy-duty 1500ml adhesive jobs requiring manual control and solid performance.
-  Updated: 2026-02-14T00:05:48Z
+  Updated: 2026-02-17T21:42:58Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_BT26T1500_dda97f52-4204-4892-8807-6ed314a23f07.jpg?v=1752859719
   Price: $249.99 USD
 - [Albion 1500ml 1:1 ratio Manual Dispensers B26T1500L](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-manual-dispensers-b26t1500l): Select the Albion B26T1500L manual dispenser designed for lighter workloads while maintaining precision and material flow.
-  Updated: 2026-02-14T00:05:49Z
+  Updated: 2026-02-17T21:42:59Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_B26T1500L_538c4bbb-f10e-4635-ba7a-1b7b6e5c8b0c.jpg?v=1756319635
   Price: $349.99 USD
 - [Albion 1500ml 1:1 ratio Pneumatic Dispensers AT1500X](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-pneumatic-dispensers-at1500x): Get the Albion AT1500X pneumatic dispenser for precision control and 1500ml capacity ideal for industrial adhesive processes.
-  Updated: 2026-02-14T00:05:50Z
+  Updated: 2026-02-17T21:43:00Z
   Vendor: Albion
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-at1500x.jpg?v=1758995172
   Price: $549.99 USD
 - [Albion 1500ml 1:1 ratio Pneumatic Dispensers AT1500](https://www.perigeedirect.com/products/albion-1500ml-1-1-ratio-pneumatic-dispensers-at1500): Explore the Albion AT1500 pneumatic dispenser for fast, even 1500ml adhesive application using consistent air-powered pressure.
-  Updated: 2026-02-14T00:05:51Z
+  Updated: 2026-02-17T21:43:01Z
   Vendor: Albion
   Product Type: Dispensers Pneumatic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion_at1500_96a09e1b-f5cc-4c61-b1b5-07fd0f620517.jpg?v=1753729040
   Price: $575.99 USD
 - [Albion AT825 Pneumatic 2-Part Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-pneumatic-air-pressure-825ml-or-900ml-10-1-or-2-1-ratio-2-part-dispensers-1): Explore Albion air-powered dispensers for 825ml and 900ml two-part adhesives with strong mix control and operator comfort.
-  Updated: 2026-02-14T00:05:52Z
+  Updated: 2026-02-17T21:43:02Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albionat825_fce7fc3f-b067-491c-8530-03e158246a48.jpg?v=1719877530
   Price: $549.99 USD
 - [Albion AT900 Pneumatic 2-Part Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-pneumatic-air-pressure-825ml-or-900ml-10-1-or-2-1-ratio-2-part-dispensers-at900): Shop the Albion AT900 pneumatic dispenser for high-capacity two-part adhesives with 10:1 or 2:1 mix ratio and smooth flow.
-  Updated: 2026-02-14T00:05:53Z
+  Updated: 2026-02-17T21:43:03Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion-at900_1_81f32942-017c-4154-bba3-8de98bad203d.jpg?v=1752860888
   Price: $549.99 USD
 - [Albion Pre-Owned 490ml Battery Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-pre-owned-e18t400x10-2-part-battery-dispenser-for-490ml-10-1-mix-ratio-18v-battery): Shop Albion pre-owned E18T400X10 battery dispenser for 490ml cartridges, offering 10:1 mix ratio performance and cordless efficiency.
-  Updated: 2026-02-14T00:05:54Z
+  Updated: 2026-02-17T21:43:04Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
@@ -29802,56 +29796,56 @@
     Availability: Not Available
     Price: $499.99 USD
 - [Albion Manual 375ml/330ml Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-manual-dispenser-for-375ml-4-1-330ml-10-1-cartridges-1): Shop Albion manual dispensers at Perigee Direct for precise two part cartridge dispensing supporting 375ml 4:1 and 330ml 10:1 ratios.
-  Updated: 2026-02-14T00:05:55Z
+  Updated: 2026-02-17T21:43:05Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AlbionB26T3754-1ratio_ec6cf5c6-ec1b-4629-a6f1-217a8d8a9205.jpg?v=1752864923
   Price: $149.99 USD
 - [Albion 375ml/330ml Dispenser Model 2 – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-manual-dispenser-for-375ml-4-1-330ml-10-1-cartridges-2): Shop Albion two-part manual dispensers at Perigee Direct supporting 375ml and 330ml cartridges for accurate, high-strength adhesive use.
-  Updated: 2026-02-14T00:05:56Z
+  Updated: 2026-02-20T03:26:55Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AlbionB18T330i_5cad267c-bf9d-47bc-8ef6-bd88b3525271.jpg?v=1719875322
   Price: $83.99 USD
 - [Albion Manual 825ml/900ml B26T900 – Perigee Direct](https://www.perigeedirect.com/products/albion-825ml-or-900ml-manual-2-part-dispensers-10-1-or-2-1-ratio-b26t900): Get the Albion B26T900 manual dispenser for 900ml cartridges with high durability and consistent two-part adhesive flow.
-  Updated: 2026-02-14T00:05:57Z
+  Updated: 2026-02-17T21:43:07Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albionb26t900_c1ffee52-829d-487c-abf1-2752f6c31ee2.jpg?v=1752863685
   Price: $159.99 USD
 - [Albion 825ml Manual 2-Part Dispensers (10:1 ratio) B26T825](https://www.perigeedirect.com/products/albion-825ml-or-900ml-manual-2-part-dispensers-10-1-or-2-1-ratio-b26t825): Browse Albion B26T825 manual dispensers for 825ml two-part adhesives with 10:1 and 2:1 ratios, ideal for jobsite efficiency.
-  Updated: 2026-02-14T00:05:58Z
+  Updated: 2026-02-17T21:43:07Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albionb26t825_4de4dc0c-a16f-440f-bf76-2e57486ab163.jpg?v=1752863095
   Price: $139.99 USD
 - [Albion Dispensers 490ml Manual Use – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-dispensers-for-400ml-490ml-385ml-415ml-cartridges-1-1-2-1-4-1-or-10-1-mix-ratios-manual): Shop manual Albion dispensers for 400ml to 490ml two-part cartridges with adjustable mix ratios from 1:1 to 10:1 for professionals.
-  Updated: 2026-02-14T00:05:58Z
+  Updated: 2026-02-17T21:43:08Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_b26t400.jpg?v=1752866234
   Price: $99.99 USD
 - [Albion 490ml Manual Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-dispensers-for-400ml-490ml-385ml-415ml-cartridges-1-1-2-1-4-1-or-10-1-mix-ratios-manual-1): Choose Albion manual dispensers designed for 385ml to 490ml cartridges, offering balanced output across various mix ratios.
-  Updated: 2026-02-14T00:05:59Z
+  Updated: 2026-02-17T21:43:09Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_b26t400x4.jpg?v=1753726711
   Price: $109.99 USD
 - [Albion Manual B26T400X10 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-dispensers-for-400ml-490ml-385ml-415ml-cartridges-1-1-2-1-4-1-or-10-1-mix-ratios-manual-b26t400x10): Get the Albion B26T400X10 manual dispenser for 400ml and 490ml two-part adhesives with smooth delivery and durable construction.
-  Updated: 2026-02-14T00:06:00Z
+  Updated: 2026-02-17T21:43:10Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion_b26t400x10.jpg?v=1753726714
   Price: $109.99 USD
 - [MixPac MFQX 10-24T Square Nozzle 10:1 4:1 | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-sulzer-mfqx-10-24t-116044f-system-square-quadro-mixing-nozzle-for-10-1-4-1-ratio-larger-2-part-cartridges-490ml): Shop Medmix Mixpac MFQX 10-24T mixing nozzles at Perigee Direct for 490ml cartridges, delivering high-ratio quadro mixing efficiency.
-  Updated: 2026-02-12T22:00:47Z
+  Updated: 2026-02-23T16:55:37Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -29885,63 +29879,63 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/F-SeriesQuadroMixerTipv2.jpg?v=1758994316
     Price: $903.99 USD
 - [Albion Pneumatic AT400X4 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-dispensers-for-400ml-490ml-385ml-415ml-cartridges-1-1-2-1-4-1-or-10-1-mix-ratios-pneumatic-at400x4): Shop the Albion AT400X4 pneumatic dispenser designed for dual-component adhesive cartridges with 1:1 to 10:1 mix flexibility.
-  Updated: 2026-02-14T00:06:01Z
+  Updated: 2026-02-17T21:43:11Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-at400.jpg?v=1724280176
   Price: $549.99 USD
 - [Albion Pneumatic 490ml Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-dispensers-for-400ml-490ml-385ml-415ml-cartridges-1-1-2-1-4-1-or-10-1-mix-ratios-pneumatic-2): Discover Albion pneumatic dispensers for 400ml to 490ml two-part adhesives, offering consistent flow across multiple mix ratios.
-  Updated: 2026-02-14T00:06:02Z
+  Updated: 2026-02-17T21:43:12Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-at400.jpg?v=1724280176
   Price: $549.99 USD
 - [Albion 18V Battery Dispenser 825ml – Perigee Direct](https://www.perigeedirect.com/products/albion-18v-battery-dispensers-for-825ml-10-1-2-part-cartridges-e18t825): Discover Albion 18V battery dispensers for 825ml or 900ml cartridges with 10:1 or 2:1 mix ratios built for speed and control.
-  Updated: 2026-02-14T00:06:03Z
+  Updated: 2026-02-17T21:43:13Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/AlbionE18T825.jpg?v=1752862035
   Price: $704.62 USD
 - [Albion 18V Dispenser for 900ml Cartridges – Perigee Direct](https://www.perigeedirect.com/products/albion-18v-battery-dispensers-for-900ml-2-1-ratio-2-part-cartridges-e18t900): Browse Albion battery-powered 825ml and 900ml dispensers delivering precise mix ratio application with ergonomic trigger design.
-  Updated: 2026-02-14T00:06:04Z
+  Updated: 2026-02-17T21:43:14Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion-E18T900.jpg?v=1752866167
   Price: $779.75 USD
 - [Albion B26C380X4 Manual Coaxial Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-coaxial-dispenser-for-4-1-5-1-ratio-coax-coaxial-cartridges-404ml-manual-b26c380x4): Shop Albion coaxial manual dispensers at Perigee Direct for reliable dispensing of 4:1 and 5:1 ratio coaxial cartridges in demanding workflows.
-  Updated: 2026-02-14T00:06:05Z
+  Updated: 2026-02-17T21:43:15Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion-Coaxial-Gun-4-1_5-1-Ratio-B26C380X4_e1beb28c-4200-42c5-8c77-8534e9becb4f.jpg?v=1756321049
   Price: $79.99 USD
 - [Albion B26C380X10 Manual Coaxial Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-coaxial-dispenser-for-10-1-ratio-coax-coaxial-cartridges-380ml-manual-b26c380x10): Shop the Albion coaxial dispenser at Perigee Direct for accurate manual dispensing of 10:1 ratio coaxial adhesive cartridges.
-  Updated: 2026-02-14T00:06:06Z
+  Updated: 2026-02-17T21:43:15Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion-Coaxial-Gun-4-1_5-1-Ratio-B26C380X4_e1beb28c-4200-42c5-8c77-8534e9becb4f.jpg?v=1756321049
   Price: $79.99 USD
 - [Albion E18C380X10 Battery Coaxial Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-coaxial-battery-dispenser-for-380ml-coaxial-cartridges-10-1-mix-ratios-e18c380x10): Shop Albion coaxial battery dispensers at Perigee Direct for 380ml cartridges, delivering cordless power and precise 10:1 ratio control.
-  Updated: 2026-02-14T00:06:07Z
+  Updated: 2026-02-17T21:43:16Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion-Coaxial-Cordless-Battery-Gun-10-1-Ratio-E18C380X10.jpg?v=1753727155
   Price: $699.99 USD
 - [Albion E18C380X4 Cordless Coaxial Gun – Perigee Direct](https://www.perigeedirect.com/products/albion-coaxial-cordless-dispenser-for-404ml-coaxial-cartridges-4-1-5-1-ratios-e18c380x4): Shop Albion cordless coaxial dispensers at Perigee Direct for 4:1 and 5:1 ratio cartridges delivering mobile power and precision.
-  Updated: 2026-02-14T00:06:07Z
+  Updated: 2026-02-17T21:43:17Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Albion-Coaxial-Cordless-Battery-Gun-10-1-Ratio-E18C380X10.jpg?v=1753727155
   Price: $699.99 USD
 - [MixCoat SP-DPS Individual Air Tubes w/ Coupling | Perigee Direct](https://www.perigeedirect.com/products/mixcoat-sp-dps-atomizing-air-tubes-with-quick-lock-coupling-pre-assembled-and-individual-tubes-sp-dps-series-129300-160112-and-129301): Shop MixCoat SP DPS atomizing air tubes at Perigee Direct for spray systems delivering consistent airflow with a quick-lock coupling design.
-  Updated: 2026-02-14T00:06:09Z
+  Updated: 2026-02-19T18:02:54Z
   Vendor: MixPac MixCoat
   Product Type: Accessories
   Availability: Available
@@ -29973,28 +29967,28 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PIQD-0600-01-01_128783_-600ml-Cartridge-Piston-Insertion-Tool-v1.jpg?v=1720651397
   Price: $26.99 USD
 - [Piston Tool for 400ml 1:1 Cartridges MixPac – Perigee Direct](https://www.perigeedirect.com/products/piston-insertion-tool-for-400-ml-1-1-ratio-2-part-cartridges-atlas-professional-and-sulzer-c-and-j-system): Shop piston insertion tools at Perigee Direct for 400ml cartridges delivering proper alignment and smooth filling for Sulzer C and J systems.
-  Updated: 2026-01-26T14:37:09Z
+  Updated: 2026-02-19T13:30:37Z
   Vendor: MixPac
   Product Type: Piston Insertion Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/PIQD-0600-01-01_128783_-600ml-Cartridge-Piston-Insertion-Tool-v1.jpg?v=1720651397
   Price: $26.99 USD
 - [LTL Freight Shipping Quote](https://www.perigeedirect.com/products/freight-shipping-quote): Shop freight shipping quotes at Perigee Direct to plan large or bulk orders delivering accurate delivery options and cost transparency.
-  Updated: 2026-02-14T00:06:10Z
+  Updated: 2026-02-17T21:43:19Z
   Vendor: Perigee Direct
   Product Type: Shipping
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Freight-Shipping-Quote_a0999224-e43a-4cb4-91a6-b71ca079ef01.jpg?v=1753724509
   Price: $1.00 USD
 - [Maven MS-50 Dispenser Gun Kit – Perigee Direct](https://www.perigeedirect.com/products/maven-ms-50-dispensing-gun-kit-with-case-for-50ml-epoxy-and-adhesives-all-ratios-1-1-2-1-3-2-4-1-10-1-ratios): Shop Maven MS-50 dispensing gun kits at Perigee Direct for precise 50ml epoxy and adhesive dispensing across all common mix ratios.
-  Updated: 2026-02-15T17:59:24Z
+  Updated: 2026-02-22T19:03:56Z
   Vendor: Maven Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MS50_Gun_Kit_1.png?v=1759001458
   Price: $44.99 USD
 - [MixPac MFHX 10-18T F-System Nozzle 10:1 4:1 | Perigee Direct](https://www.perigeedirect.com/products/medmix-mixpac-sulzer-mfhx-10-18t-f-system-mixing-nozzle-for-10-1-4-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-400ml-490ml): Shop Medmix Mixpac Sulzer MFHX 10 18T mixing nozzles at Perigee Direct for large 2-part cartridges delivering consistent flow and low-waste mixing.
-  Updated: 2026-02-16T20:15:44Z
+  Updated: 2026-02-23T17:10:38Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -30028,14 +30022,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer_Mixpac_10-1_4-1_Helix_18-Element_8mm_ID_F-System_Mixing_Nozzle.jpg?v=1753728375
     Price: $1,839.00 USD
 - [Maven Porcupine Roller for Perforating Compression Wraps](https://www.perigeedirect.com/products/maven-porcupine-roller): Discover the Maven porcupine roller at Perigee Direct, a robust tool for textured finishes and improved bonding on composite surfaces. Shop now.
-  Updated: 2026-02-14T00:06:11Z
+  Updated: 2026-02-17T21:43:20Z
   Vendor: Maven Hardware
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PorcupineRoller.jpg?v=1753724965
   Price: $19.99 USD
 - [3M DP8005 Black Glue for PE & PP](https://www.perigeedirect.com/products/3m-scotch-weld-dp8005-black-glue-for-polyethylene-pe-polypropylene-pp-and-tpo-soft-rubbery-plastics-pe-hdpe-ldpe-pp-ppco-ppho): Source 3M Scotch-Weld DP8005 at Perigee Direct for bonding soft plastics including polyethylene and polypropylene with strong flexible joins.
-  Updated: 2026-02-14T00:06:12Z
+  Updated: 2026-02-22T01:00:39Z
   Vendor: 3M Scotch-Weld
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -30061,7 +30055,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/DP_8005_490ML_GUN.png?v=1763134326
     Price: $489.99 USD
 - [3M DP8005 Off-White Bonder PE/PP](https://www.perigeedirect.com/products/3m-scotch-weld-dp8005-off-white-polyethylene-polypropylene-bonder-pe-hdpe-ldpe-pp-ppco-ppho): Bond polyethylene with 3M DP8005 at Perigee Direct for strong adhesion on PE, PP and TPO plastics where standard glues do not stick.
-  Updated: 2026-02-14T00:06:14Z
+  Updated: 2026-02-17T21:43:24Z
   Vendor: 3M Scotch-Weld
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -30087,7 +30081,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/dp8005_490ml_dispenser_0c0a371b-0442-4b8c-b370-eb377ac4375b.png?v=1758999762
     Price: $449.99 USD
 - [3M DP8010 Blue Nylon Bonder – Perigee Direct](https://www.perigeedirect.com/products/3m-scotch-weld-dp8010-blue-cartridge-10-01-mix-ratio-nylon-bonder-acrylics-adhesive): Choose 3M DP8010 Blue at Perigee Direct for nylon bonding with a 10 to 1 mix ratio that delivers strong acrylic adhesion on challenging plastics.
-  Updated: 2026-02-14T00:06:17Z
+  Updated: 2026-02-17T21:43:26Z
   Vendor: 3M Scotch-Weld
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -30125,7 +30119,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/images.jpg?v=1762366342
     Price: $3,499.99 USD
 - [3M DP8910NS Nylon Bonder Black](https://www.perigeedirect.com/products/3m-scotch-weld-dp8910ns-black-cartridge-10-01-mix-ratio-nylon-bonder-acrylics-adhesive): Buy 3M DP8910NS at Perigee Direct for nylon bonding acrylic adhesive with 10 to 1 mix ratio designed for strong industrial joints and composite parts.
-  Updated: 2026-02-16T21:15:34Z
+  Updated: 2026-02-17T21:43:29Z
   Vendor: 3M Scotch-Weld
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -30181,14 +30175,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LT_Adjustable_guide_large_157_879.jpg?v=1756316166
     Price: $468.00 USD
 - [Octogun 208D Lightweight Drip-Free Caulking Gun – Perigee Direct](https://www.perigeedirect.com/products/octogun-208d-caulking-gun-by-newborn-drip-free-lightweight-with-integrated-finishing-tool-and-removal-tool): Shop Octogun 208D caulking  at Perigee Direct for drip-free application delivering lightweight control with built-in finishing tools.
-  Updated: 2026-02-14T00:06:20Z
+  Updated: 2026-02-17T21:43:30Z
   Vendor: Newborn Dispensers
   Product Type: Caulk Gun
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Octogun_208D.jpg?v=1753723813
   Price: $19.99 USD
 - [Piston Tool for 50ml 2:1 Cartridges AirFree – Perigee Direct](https://www.perigeedirect.com/products/piston-insertion-tool-for-50-2-1-ratio-2-part-cartridges-medmix-mixpac-airfree-diaphragm-style-pistons): Piston insertion tool for 50 ml 2:1 Mixpac AirFree cartridges. Faster setup, consistent seals, safer handling, and fewer assembly errors on line.
-  Updated: 2026-02-16T19:54:21Z
+  Updated: 2026-02-19T13:30:37Z
   Vendor: Maven Cartridges
   Product Type: Piston Insertion Tool
   Availability: Available
@@ -30229,7 +30223,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MAH_06-21L_f50be028-3a6e-43fd-87ec-668cf81e17d8.jpg?v=1733674509
     Price: $1,899.99 USD
 - [Maven Phenolic-Lined Adhesive Can – Perigee Direct](https://www.perigeedirect.com/products/maven-metal-phenolic-lined-paint-adhesive-can-w-ears-gold-phenolic-lined-various-sizes-1-qt-1-gal): Shop Maven phenolic-lined metal cans at Perigee Direct for paint and adhesive storage delivering chemical resistance in multiple sizes.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-23T23:05:37Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -30243,7 +30237,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1-Quart-Phenolic-Lined-Metal-Can-_-Lid.jpg?v=1758846944
     Price: $3.99 USD
 - [MixPac Nose Plug 300839 1:1 and 2:1 Ratio](https://www.perigeedirect.com/products/mixpac-nose-plug-300839-1-1-and-2-1-ratio-5-pack-1): Mixpac nose plugs are designed to seal 1-to-1 and 2-to-1 adhesive cartridges, keeping dispensing controlled and clean. Order now today.
-  Updated: 2026-02-14T00:06:24Z
+  Updated: 2026-02-20T22:20:47Z
   Vendor: MixPac
   Product Type: Accessories
   Availability: Available
@@ -30273,7 +30267,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPacNosePlug4.jpg?v=1722761993
     Price: $499.99 USD
 - [3M EPX Pneumatic 50ml Dispenser – Perigee Direct](https://www.perigeedirect.com/products/3m-epx-pneumatic-dispenser-for-50ml-48-5ml-duo-pak-cartridges-backup-substitute-mixpac-pneumatic-2-part-cartridge-dispenser-dp2-50-16-series-configurable-for-all-ratios-1-1-2-1-3-1-3-2-4-1-10-1): Shop 3M EPX pneumatic dispensers at Perigee Direct compatible with 50ml Duo Pak cartridges and configurable for multiple mix ratios.
-  Updated: 2026-02-05T13:20:31Z
+  Updated: 2026-02-19T18:40:37Z
   Vendor: MixPac
   Product Type: Dispensers Pneumatic
   Availability: Available
@@ -30302,14 +30296,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/107.132.jpg?v=1756317107
   Price: $163.00 USD
 - [Meritool 7000 Clutch / Locking Lever Replacement | Perigee Direct](https://www.perigeedirect.com/products/meritool-replacement-clutch-lever-locking-lever-for-7000-series-dispenser-plunger-rods): Shop Meritool replacement clutch and locking levers at Perigee Direct to restore reliable operation of 7000 series cordless dispensers.
-  Updated: 2026-02-14T00:06:25Z
+  Updated: 2026-02-17T21:43:34Z
   Vendor: Meritool PowerPush
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Replacement-Latch-for-Meritool-7000-Series-Dispensers-1.jpg?v=1753728210
   Price: $6.99 USD
 - [MixPac MAH-06-21T 6in 21-Element Mixing Nozzle | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mah-06-21t-mixing-nozzle-102380-for-50ml-cartridges-6-inch-21-element-stepped-tip): Shop Mixpac MAH 06 21T mixing nozzles at Perigee Direct for 50ml cartridges delivering stepped tip control and consistent 21-element mixing.
-  Updated: 2026-02-10T10:15:43Z
+  Updated: 2026-02-22T19:15:47Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -30343,7 +30337,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Large-24-Elements-100-Pack-NT_ada916b7-c7ce-44b5-a42a-9b4cc7926f30.jpg?v=1752867579
     Price: $1,899.99 USD
 - [QA Binks 2100 Spray Gun With Regulator](https://www.perigeedirect.com/products/qa-binks-2100-spray-gun-with-regulator): Shop QA Binks 2100 spray gun at Perigee Direct for controlled coating application delivering consistent spray patterns with integrated regulator support.
-  Updated: 2026-02-14T00:06:26Z
+  Updated: 2026-02-17T21:43:35Z
   Vendor: Binks
   Product Type: SPRAY 
   Availability: Available
@@ -30378,7 +30372,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/images_1_665e11b5-c724-447a-831b-34bb743723a9.jpg?v=1724884972
   Price: $14.00 USD
 - [Maven 1 Gallon Jug with Child-Proof Cap – Perigee Direct](https://www.perigeedirect.com/products/maven-1-gallon-natural-hdpe-plastic-square-jug-child-proof-cap-38mm-38-400-130-grams): Get the Maven 1 gallon square jug at Perigee Direct for natural HDPE storage with a childproof cap in 38 400 format suited for chemical use.
-  Updated: 2026-02-14T00:06:28Z
+  Updated: 2026-02-17T21:43:37Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -30445,27 +30439,27 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterWeldingShoeCompleteFWP-ExtAir-Blank54x40x52mm146.239.jpg?v=1753727145
   Price: $165.00 USD
 - [Q8200 Citrus Remover 14 oz Aerosol QUA01156 – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-qua01156-citrus-adhesive-remover-14-oz-q8200): Use Quality Aerosols remover at Perigee Direct for citrus-based adhesive removal that cleans residue from tools, flooring and machinery.
-  Updated: 2026-02-14T00:06:28Z
+  Updated: 2026-02-17T21:43:38Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Citrus-remover_534e3db2-814b-4f98-9623-b25e8bfd2c6e.png?v=1759000360
   Price: $9.80 USD
 - [Q8200 Citrus Remover 9 LB Pail QUA01037 – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-qua01037-citrus-adhesive-remover-q8200-q8200-9-lb): Choose QUA01037 Citrus Adhesive Remover Q8200 in a 9 lb container, offering natural, effective cleaning with a citrus scent.
-  Updated: 2026-02-14T00:06:29Z
+  Updated: 2026-02-17T21:43:39Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/20008023-QUALITY-AEROSOLS-QUA01037.jpg?v=1752861682
   Price: $158.33 USD
 - [Q8250 Citrus Adhesive Remover, 55 Gal Drum – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-q8250-q8250-55-gal-clear): Shop Quality Aerosols Q8250 clear in 55-gallon format, formulated for large-volume coating needs with consistent coverage and protection.
-  Updated: 2026-02-14T00:06:30Z
+  Updated: 2026-02-17T21:43:39Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Price: $2,351.67 USD
 - [Maven 7.75" Spool 3" Core, 2.25" Width – Perigee Direct](https://www.perigeedirect.com/products/maven-empty-spool-7-75-inch-total-height-x-3in-core-2-25-inch-width-hard-plastic): Shop the Maven empty hard plastic spool designed for smooth material handling, storage, and dispensing across industrial workflows.
-  Updated: 2026-02-14T00:06:31Z
+  Updated: 2026-02-17T21:43:40Z
   Vendor: Maven Spools
   Product Type: Empty Spools
   Availability: Available
@@ -30479,7 +30473,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Forte102.030v1.jpg?v=1752865419
   Price: $2,001.00 USD
 - [Albion Pneumatic AT400 Dispenser – Perigee Direct](https://www.perigeedirect.com/products/albion-2-part-dispensers-for-400ml-490ml-385ml-415ml-cartridges-1-1-and-2-1-mix-ratios-pneumatic-at400): Explore the Albion AT400 pneumatic dispenser built for 400ml adhesives with strong air-powered delivery and easy-to-use control.
-  Updated: 2026-02-14T00:06:32Z
+  Updated: 2026-02-17T21:43:42Z
   Vendor: Albion
   Product Type: Dispensers Manual
   Availability: Available
@@ -30493,7 +30487,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/albion-at400.jpg?v=1724280176
     Price: $349.99 USD
 - [Atlas MAH-06-21L 6in LuerLok Mixing Nozzle – Perigee Direct](https://www.perigeedirect.com/products/atlas-professional-mah-06-21l-style-102379-mixing-nozzle-for-50ml-cartridges-6-inch-21-element-luerlok-tip): Shop the Atlas Professional MAH-06 mixing nozzle for 50ml cartridges with 21 elements and luer lock tip for thorough, consistent mixing.
-  Updated: 2026-02-11T16:25:32Z
+  Updated: 2026-02-22T19:15:37Z
   Vendor: Maven Mixing
   Product Type: Mixing Nozzles
   Availability: Available
@@ -30527,7 +30521,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MAH_06-21L.jpg?v=1733674706
     Price: $2,799.99 USD
 - [Permabond TA4550 Nylon Bonding MMA Acrylic Adhesive](https://www.perigeedirect.com/products/permabond-ta4550-nylon-bonding-mma-acrylic-adhesive): Shop Permabond TA4550 at Perigee Direct for nylon bonding MMA adhesive delivering strong structural bonds on difficult engineered plastics.
-  Updated: 2026-02-14T18:25:43Z
+  Updated: 2026-02-23T20:50:54Z
   Vendor: Permabond
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -30573,88 +30567,88 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PBND_TA4550_400ML.jpg?v=1764102972
     Price: $75.00 USD
 - [Q8300 VOC Citrus Adhesive Remover, 13 oz – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-q8300-voc-compliant-citrus-adh-remover-aa-13-oz): Order Quality Aerosols Q8300 VOC-compliant citrus adhesive remover to safely dissolve residue, tape, labels, and glue from multiple surfaces.
-  Updated: 2026-02-14T00:06:36Z
+  Updated: 2026-02-17T21:43:46Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_9.jpg?v=1752863832
   Price: $7.84 USD
 - [Q8350 Citrus Adhesive Remover, No-Oily, 5 Gal – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-q8350-q8350-5-gal-no-oily-citrus-adhesive-remover-1): Buy Quality Aerosols Q8350 citrus adhesive remover in 5-gallon size, no oily residue, designed to dissolve glue, tape, and labels from surfaces.
-  Updated: 2026-02-14T00:06:37Z
+  Updated: 2026-02-17T21:43:47Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Q8350-5gal.png?v=1758997708
   Price: $161.67 USD
 - [Q8400-AA Aggressive Citrus Spray Adhesive – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-q8400-q8400-aa-clear-14-oz): Shop Quality Aerosols Q8400 at Perigee Direct for clear 14oz coating used for protective finishing on shop parts and industrial surfaces.
-  Updated: 2026-02-14T00:06:38Z
+  Updated: 2026-02-17T21:43:47Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/8400__10815.jpg?v=1756320621
   Price: $11.76 USD
 - [Q8400 VOC Compliant Adhesive Remover Spray – Perigee Direct](https://www.perigeedirect.com/products/quality-aerosols-q8400-q8400-9-adh-remover-voc-compliant): Discover Quality Aerosols Q8400 adhesive remover at Perigee Direct, a VOC-compliant cleaning solution ideal for removing old adhesives and prepping surfaces. Shop now.
-  Updated: 2026-02-14T00:06:39Z
+  Updated: 2026-02-17T21:43:48Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Price: $158.33 USD
 - [Quality Aerosols Q8450 / Q8450-5 Gal](https://www.perigeedirect.com/products/quality-aerosols-q8450-q8450-5-gal): Find Quality Aerosols Q8450 at Perigee Direct, a high-performance industrial coating solution offering consistent protective coverage. Buy today.
-  Updated: 2026-02-14T00:06:40Z
+  Updated: 2026-02-17T21:43:49Z
   Vendor: Quality Aerosols
   Product Type: Adhesive Remover Cleaner
   Availability: Available
   Price: $268.33 USD
 - [Quality Aerosols Acetone QUA01507 - 5 Gal](https://www.perigeedirect.com/products/quality-aerosols-acetone-5-gal): Shop Quality Aerosols acetone at Perigee Direct in 5-gallon size for heavy-duty cleaning degreasing and surface prep.
-  Updated: 2026-02-14T00:06:40Z
+  Updated: 2026-02-17T21:43:50Z
   Vendor: Quality Aerosols
   Product Type: Chemicals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_10.jpg?v=1758995722
   Price: $145.00 USD
 - [Quality Aerosols Acetone QUA01390 - 55 Gal](https://www.perigeedirect.com/products/quality-aerosols-acetone-55-gal): Shop Quality Aerosols acetone 55 gal at Perigee Direct for bulk solvent that cleans, degreases and prepares materials for bonding in plants.
-  Updated: 2026-02-14T00:06:41Z
+  Updated: 2026-02-17T21:43:51Z
   Vendor: Quality Aerosols
   Product Type: Chemicals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_11.jpg?v=1758993765
   Price: $1,021.67 USD
 - [Quality Aerosols Lacquer QUA01477 Thinner - 5 Gal](https://www.perigeedirect.com/products/quality-aerosols-lacquer-thinner-5-gal): Discover Quality Aerosols lacquer thinner 5 gal at Perigee Direct, formulated for heavy-duty thinning and cleaning in industrial applications. Order now.
-  Updated: 2026-02-14T00:06:42Z
+  Updated: 2026-02-17T21:43:52Z
   Vendor: Quality Aerosols
   Product Type: Chemicals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/cyqua01477.jpg?v=1756318532
   Price: $143.33 USD
 - [Quality Aerosols Lacquer QUA01520 Thinner - 55 Gal](https://www.perigeedirect.com/products/quality-aerosols-lacquer-thinner-55-gal): Discover Quality Aerosols lacquer thinner 55 gal at Perigee Direct, crafted for powerful industrial cleaning and coating preparation. Buy now.
-  Updated: 2026-02-14T00:06:43Z
+  Updated: 2026-02-17T21:43:53Z
   Vendor: Quality Aerosols
   Product Type: Chemicals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_12.jpg?v=1756316069
   Price: $1,141.67 USD
 - [Quality Aerosols Mineral Spirits QUA01000 - 5 Gal](https://www.perigeedirect.com/products/quality-aerosols-mineral-spirits-qua01000-5-gal): Shop Quality Aerosols Mineral Spirits QUA01000 in 5-gallon pails for degreasing, thinning, and surface prep in industrial settings.
-  Updated: 2026-02-14T00:06:44Z
+  Updated: 2026-02-17T21:43:54Z
   Vendor: Quality Aerosols
   Product Type: Chemicals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/71cCH_--PfL._AC_SX569.jpg?v=1752865706
   Price: $0.00 USD
 - [Quality Aerosols Minieral Spirits QUA01683 - 55 Gal](https://www.perigeedirect.com/products/quality-aerosols-minieral-spirits-55-gal): Get Quality Aerosols Mineral Spirits in a 55-gallon drum, ideal for large-scale cleaning, prep, and solvent operations.
-  Updated: 2026-02-14T00:06:45Z
+  Updated: 2026-02-17T21:43:55Z
   Vendor: Quality Aerosols
   Product Type: Chemicals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/71cCH_--PfL._AC_SX569_d0aeac87-307c-4ae8-8683-8e278ab4b6c4.jpg?v=1752863103
   Price: $0.00 USD
 - [Quality Aerosols QUA01654 Glass Cleaner 19 oz Pallet Only](https://www.perigeedirect.com/products/quality-aerosols-glass-cleaner-19-oz-pallet-only): Find Quality Aerosols glass cleaner 19 oz at Perigee Direct, a high-performance cleaner ideal for maintenance and surface prep work. Shop now.
-  Updated: 2026-02-14T00:06:46Z
+  Updated: 2026-02-17T21:43:55Z
   Vendor: Quality Aerosols
   Product Type: Cleaner
   Availability: Available
   Price: $3.92 USD
 - [Quality Aerosols QUA01674 Q10 / Q10-33 lb/365 lb-Clear](https://www.perigeedirect.com/products/quality-aerosols-qua01674-q10-q10-33-lb-clear): Discover Quality Aerosols Q10 33 lb at Perigee Direct, formulated for clear industrial coating and reliable surface protection. Buy now.
-  Updated: 2026-02-14T00:06:47Z
+  Updated: 2026-02-17T21:43:56Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30665,7 +30659,7 @@
     Availability: Available
     Price: $1,428.33 USD
 - [Quality Aerosols Q15 / Q15- 33 lb/ 362.2 lb-Clear](https://www.perigeedirect.com/products/quality-aerosols-q15-q15-33-lb-clear): Find Quality Aerosols Q15 33 lb clear adhesive at Perigee Direct, designed for strong bonding and dependable multi-surface adhesion. Shop now.
-  Updated: 2026-02-14T00:06:48Z
+  Updated: 2026-02-17T21:43:58Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30676,21 +30670,21 @@
     Availability: Available
     Price: $0.00 USD
 - [Quality Aerosols QUA01633 Q70 / Q70 - 20 oz - Clear](https://www.perigeedirect.com/products/quality-aerosols-qua01633-q70-q70-20-oz-clear): Buy Quality Aerosols Q70 clear coating in 20 oz size, delivering protective coverage, fast drying performance, and durable surface finish.
-  Updated: 2026-02-14T00:06:49Z
+  Updated: 2026-02-17T21:43:58Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Q70__25244.jpg?v=1752862403
   Price: $9.80 USD
 - [Quality Aerosols Q300 / Q300-AA-Clear 20 oz](https://www.perigeedirect.com/products/quality-aerosols-q300-q300-aa-clear-12-oz): Shop Quality Aerosols Q300 clear spray at Perigee Direct for protective coating applications delivering even coverage, fast drying, and durable results.
-  Updated: 2026-02-14T00:06:50Z
+  Updated: 2026-02-17T21:43:59Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/145277463-600.jpg?v=1758994132
   Price: $7.84 USD
 - [Quality Aerosols Q320 / Q320-AA](https://www.perigeedirect.com/products/quality-aerosols-q320-q320-aa): Get Quality Aerosols Q320 at Perigee Direct for clear coating used to finish surfaces and protect shop parts during production and repair work.
-  Updated: 2026-02-14T00:06:51Z
+  Updated: 2026-02-17T21:44:01Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30712,13 +30706,13 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/images_53354a35-b294-4c68-b95e-4064580b0ba3.jpg?v=1756319211
     Price: $2,063.33 USD
 - [Quality Aerosols Q4000 / Q4000-28-Clear 38LB](https://www.perigeedirect.com/products/quality-aerosols-q4000-q4000-28-clear-38lb): Shop Quality Aerosols Q4000 at Perigee Direct, a dependable clear coating formula designed for smooth, protective industrial finishes. Order now.
-  Updated: 2026-02-14T00:06:52Z
+  Updated: 2026-02-17T21:44:02Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
   Price: $316.67 USD
 - [Quality Aerosols Q5021 / Q5021](https://www.perigeedirect.com/products/quality-aerosols-q5021-q5021): Shop Quality Aerosols Q5021 at Perigee Direct. Industrial coating designed for clean application and consistent results. Buy online today.
-  Updated: 2026-02-14T00:06:54Z
+  Updated: 2026-02-17T21:44:04Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30755,7 +30749,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/ECCN-Export-License-Processing-Fee.jpg?v=1753725841
   Price: $50.00 USD
 - [Quality Aerosols Q5200 Clear/Red](https://www.perigeedirect.com/products/quality-aerosols-q5200-q5200-clear-red): Find Quality Aerosols Q5200 at Perigee Direct, a professional clear red coating designed for consistent application and protection. Buy online today.
-  Updated: 2026-02-14T00:06:56Z
+  Updated: 2026-02-17T21:44:06Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30782,7 +30776,7 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Quality Aerosols Q5250 -Clear/Red](https://www.perigeedirect.com/products/quality-aerosols-q5250-q5250-55-gal-clear): Shop Quality Aerosols Q5250 clear coating at Perigee Direct, a reliable industrial formula for smooth, protective finishes. Buy online today.
-  Updated: 2026-02-14T00:06:58Z
+  Updated: 2026-02-17T21:44:08Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30799,19 +30793,19 @@
     Availability: Available
     Price: $2,253.33 USD
 - [Quality Aerosols Q7400 / Q7400-AA-Clear 20 oz](https://www.perigeedirect.com/products/quality-aerosols-q7400-q7400-aa-clear-20-oz): Discover Quality Aerosols Q7400 clear at Perigee Direct, delivering protective coating for industrial applications. Request pricing today.
-  Updated: 2026-02-16T11:35:30Z
+  Updated: 2026-02-17T21:44:09Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
   Price: $9.80 USD
 - [Quality Aerosols Q7500 / Q7500-AA-Blue 20 oz](https://www.perigeedirect.com/products/quality-aerosols-q7500-q7500-aa-blue-13-oz): Discover Quality Aerosols Q7500 blue at Perigee Direct, a smooth finishing formula ideal for protective industrial coatings. Order online today.
-  Updated: 2026-02-14T00:07:00Z
+  Updated: 2026-02-17T21:44:10Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
   Price: $10.29 USD
 - [Quality Aerosols 7600-Clear QUA01373](https://www.perigeedirect.com/products/quality-aerosols-7600-clear): Order Quality Aerosols 7600 clear at Perigee Direct for a clean protective finish applied easily in shop or production environments.
-  Updated: 2026-02-14T00:07:01Z
+  Updated: 2026-02-17T21:44:11Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30830,7 +30824,7 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Quality Aerosols Q7621 Clear](https://www.perigeedirect.com/products/quality-aerosols-q7621-clear): Shop Quality Aerosols Q7621 clear at Perigee Direct for a fast-drying protective coating that delivers clean finishes and dependable industrial protection.
-  Updated: 2026-02-14T00:07:02Z
+  Updated: 2026-02-17T21:44:13Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30844,7 +30838,7 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Quality Aerosols Q7721 Clear](https://www.perigeedirect.com/products/quality-aerosols-q7721-clear): Shop Quality Aerosols Q7721 clear coating at Perigee Direct. Clean protective finish for industrial applications. Request pricing today.
-  Updated: 2026-02-14T00:07:04Z
+  Updated: 2026-02-17T21:44:14Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30858,14 +30852,14 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Loctite 262 Med-High-Strength Threadlocker - 50ml Bottle](https://www.perigeedirect.com/products/loctite-262-med-high-strength-threadlocker-50ml-bottle): Get Loctite 262 at Perigee Direct for a medium-high-strength threadlocker in a 50ml bottle that secures threaded metal parts against vibration.
-  Updated: 2026-02-14T00:07:07Z
+  Updated: 2026-02-17T21:44:18Z
   Vendor: Loctite
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Loctite262.jpg?v=1756319704
   Price: $56.40 USD
 - [Quality Aerosols Q80 Clear/ Red](https://www.perigeedirect.com/products/quality-aerosols-q80-clear-red): Get Quality Aerosols Q80 from Perigee Direct for clear marking coats that help identify parts, repair areas and inspection points cleanly.
-  Updated: 2026-02-14T00:07:10Z
+  Updated: 2026-02-17T21:44:20Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30897,28 +30891,28 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/145219580-600.jpg?v=1752862313
     Price: $2,063.33 USD
 - [COX CCM 380 4:1/5:1 Coaxial Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-coaxial-dispenser-ccm-380-for-4-1-and-5-1-ratio-380ml-coaxial-cartridges-159294): Shop Cox CCM 380 coaxial dispensers at Perigee Direct for smooth manual control of 4:1 and 5:1 ratio 380ml adhesive cartridges.
-  Updated: 2026-02-14T00:07:11Z
+  Updated: 2026-02-17T21:44:21Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CCM380-M380.jpg?v=1752861412
   Price: $69.99 USD
 - [COX CCM 380 10:1 Coaxial Dispenser – Perigee Direct](https://www.perigeedirect.com/products/cox-coaxial-dispenser-ccm-380-for-10-1-ratio-380ml-coaxial-cartridges-159295): Shop Cox CCM 380 coaxial dispensers at Perigee Direct for smooth controlled dispensing of 10:1 ratio 380ml coaxial cartridges.
-  Updated: 2026-02-14T00:07:11Z
+  Updated: 2026-02-17T21:44:22Z
   Vendor: Cox Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CCM380-M380.jpg?v=1752861412
   Price: $69.99 USD
 - [Newborn 380 Coaxial Cartridge Gun](https://www.perigeedirect.com/products/newborn-380-coaxial-dispenser-for-4-1-and-10-1-ratio-coax-coaxial-cartridges-380ml-404ml): Shop Newborn coaxial dispensers at Perigee Direct for 4:1 and 10:1 ratio cartridges with dependable manual control.
-  Updated: 2026-02-14T00:07:12Z
+  Updated: 2026-02-17T21:44:23Z
   Vendor: Newborn Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/2020_NewbornBros_Duracore_385-1024x1024.webp?v=1758998439
   Price: $59.99 USD
 - [Quality Aerosols Q8005 Red / Clear](https://www.perigeedirect.com/products/quality-aerosols-q8005-red-clear): Shop Perigee Direct Quality Aerosols Q8005 Red Clear for durable clear red coating, great for touchups, protection, and consistent results.
-  Updated: 2026-02-14T00:07:14Z
+  Updated: 2026-02-17T21:44:24Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30940,7 +30934,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/cyq8005-55_1_1052f7a0-fed9-4d1e-b93a-ca0bf7df8620.jpg?v=1756317285
     Price: $1,983.33 USD
 - [Quality Aerosols Q81 Extended Open Time Multi-Surface](https://www.perigeedirect.com/products/quality-aerosols-q81-extended-open-time-multi-surface): Discover Quality Aerosols Q81 extended open time adhesive at Perigee Direct, ideal for versatile bonding across multiple surfaces. Order now.
-  Updated: 2026-02-14T00:07:16Z
+  Updated: 2026-02-17T21:44:26Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30963,7 +30957,7 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Quality Aerosols Q9005 Red /Clear](https://www.perigeedirect.com/products/quality-aerosols-q9005-red-clear): Buy Quality Aerosols Q9005 at Perigee Direct for red clear coating that marks, seals and protects equipment surfaces in shops and facilities.
-  Updated: 2026-02-14T00:07:18Z
+  Updated: 2026-02-17T21:44:28Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -30980,7 +30974,7 @@
     Availability: Available
     Price: $1,966.67 USD
 - [Quality Aerosols Q90 Clear / Red](https://www.perigeedirect.com/products/quality-aerosols-q90-clear-red): Pick Quality Aerosols Q90 at Perigee Direct for a clear red product applied cleanly in shop and production tasks needing a fast finish coating.
-  Updated: 2026-02-14T00:07:20Z
+  Updated: 2026-02-17T21:44:30Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -31009,7 +31003,7 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Quality Aerosols Q85 Clear](https://www.perigeedirect.com/products/quality-aerosols-qua01671-q85-clear): Shop Quality Aerosols QUA01671 clear coating at Perigee Direct. Fast-drying protective finish for industrial use. Add to your cart today.
-  Updated: 2026-02-14T00:07:21Z
+  Updated: 2026-02-17T21:44:31Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -31023,7 +31017,7 @@
     Availability: Available
     Price: $2,063.33 USD
 - [Quality Aerosols Q8105 Clear / Red](https://www.perigeedirect.com/products/quality-aerosols-q8105-clear-red): Shop Quality Aerosols Q8105 clear red at Perigee Direct for protective coatings delivering consistent coverage and durable industrial finishes.
-  Updated: 2026-02-14T00:07:23Z
+  Updated: 2026-02-17T21:44:33Z
   Vendor: Quality Aerosols
   Product Type: Contact Adhesives
   Availability: Available
@@ -31040,35 +31034,35 @@
     Availability: Available
     Price: $0.00 USD
 - [Quality Aerosols Edgekote - Bladecote 11 oz QUA01391](https://www.perigeedirect.com/products/quality-aerosols-edgekote-bladecote-11-oz-qua01391): Shop Quality Aerosols EdgeKote BladeCote at Perigee Direct for protective coating delivering rust prevention and extended blade life.
-  Updated: 2026-02-14T00:07:24Z
+  Updated: 2026-02-17T21:44:34Z
   Vendor: Quality Aerosols
   Product Type: Anti-Seize Lubricant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/EDGEKOT11OZ.png?v=1759000376
   Price: $7.84 USD
 - [Quality Aerosols Laminate Lubricant 10.5 oz QUA01237](https://www.perigeedirect.com/products/quality-aerosols-laminate-lubricant-10-5-oz-qua01237): Shop Quality Aerosols laminate lubricant at Perigee Direct for smooth cutting operations delivering reduced friction and cleaner finishes.
-  Updated: 2026-02-14T00:07:25Z
+  Updated: 2026-02-17T21:44:35Z
   Vendor: Quality Aerosols
   Product Type: Anti-Seize Lubricant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LAMINATE10.5OZ.png?v=1758998703
   Price: $5.88 USD
 - [Quality Aerosols Bearing Lube 6 oz QUA01392](https://www.perigeedirect.com/products/quality-aerosols-bearing-lube-6-oz-qua01392): Shop Quality Aerosols bearing lube at Perigee Direct for smooth lubrication delivering reduced friction, corrosion protection, and reliable performance.
-  Updated: 2026-02-14T00:07:26Z
+  Updated: 2026-02-17T21:44:36Z
   Vendor: Quality Aerosols
   Product Type: Anti-Seize Lubricant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/BEARINGLUBE6OZ.png?v=1759001362
   Price: $5.88 USD
 - [Quality Aerosols Silicone Lubricant Spray 10 oz QUA01049](https://www.perigeedirect.com/products/quality-aerosols-silicone-lubricant-spray-10-oz-qua01049): Find Quality Aerosols silicone lubricant spray 10 oz QUA01049 at Perigee Direct, offering smooth operation and long lasting protection against corrosion.
-  Updated: 2026-02-14T00:07:27Z
+  Updated: 2026-02-17T21:44:37Z
   Vendor: Quality Aerosols
   Product Type: Anti-Seize Lubricant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/QUA01049_00.jpg?v=1726094578
   Price: $7.84 USD
 - [Quality Aerosols QA-40 Undercoating / Lube & Penetrant](https://www.perigeedirect.com/products/quality-aerosols-qa-40-undercoating-lube-penetrant): Shop Quality Aerosols QA-40 at Perigee Direct for undercoating and lubrication, delivering penetration, corrosion protection, and wear control.
-  Updated: 2026-02-14T00:07:29Z
+  Updated: 2026-02-17T21:44:39Z
   Vendor: Quality Aerosols
   Product Type: Anti-Seize Lubricant
   Availability: Available
@@ -31087,7 +31081,7 @@
     Availability: Available
     Price: $1,813.33 USD
 - [Quality Adhesive Fluid Hose ADH / AFH Hose](https://www.perigeedirect.com/products/quality-adhesive-fluid-hose-adh-afh-hose): Quality Adhesive Fluid Hose ADH / AFH Hose 6 ft. ADH Hose 12 ft. ADH Hose 18 ft. ADH Hose 25 ft. ADH Hose 50 ft. ADH Hose 75 ft. AFH Hose
-  Updated: 2026-02-14T00:07:31Z
+  Updated: 2026-02-17T21:44:41Z
   Vendor: Quality Aerosols
   Product Type: Accessories
   Availability: Available
@@ -31124,14 +31118,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CoxVBM400X10-1ratiodedicatedkit.jpg?v=1752866641
   Price: $84.99 USD
 - [Maven Key for Coaxial Cartridges – Perigee Direct](https://www.perigeedirect.com/products/maven-key-for-coaxial-cartridges): Shop Maven coaxial cartridge keys at Perigee Direct for proper cartridge alignment delivering safer handling and correct dispensing setup.
-  Updated: 2026-02-14T00:07:32Z
+  Updated: 2026-02-17T21:44:42Z
   Vendor: Nordson EFD
   Product Type: Piston Vent Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MavenCoaxialCartridgeKeywithCartridge_5c79d430-aa46-429d-9902-528c210149c7.jpg?v=1753724307
   Price: $5.00 USD
 - [Maven 1 Gallon Jug Clear HDPE Bottle – Perigee Direct](https://www.perigeedirect.com/products/1-gallon-jug-translucent-clear-hdpe-with-38-400-white-ribbed-crc-cap-with-f217-liner): Shop 1-gallon HDPE jugs at Perigee Direct for safe liquid storage delivering durable clear containers with secure ribbed caps.
-  Updated: 2026-02-14T00:07:34Z
+  Updated: 2026-02-17T21:44:44Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -31161,7 +31155,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven1gallonHDPEJugwithChildResistantCapandF217ChemicalResistantCapLiner.jpg?v=1753729179
     Price: $289.99 USD
 - [Leister 141.844 Round Belt for Variant T1](https://www.perigeedirect.com/products/leister-141-844-round-belt-for-variant-t1): Discover the Leister round belt 141.844 for Variant T1 at Perigee Direct, built for reliable drive and consistent performance under heavy use. Order now.
-  Updated: 2026-02-14T00:07:35Z
+  Updated: 2026-02-17T21:44:45Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
@@ -31185,17 +31179,17 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Document-Prepareation-Services-Fee.jpg?v=1752863217
     Price: $100.00 USD
-- [Maven Plunger Accessories 4:1 and 10:1 – Perigee Direct](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-10-1-ratio-50ml-45ml-35ml-cartridges): Shop Maven manual hand plungers at Perigee Direct for 10:1 ratio cartridges delivering dependable dispensing for small-volume adhesives.
-  Updated: 2026-02-16T18:26:05Z
+- [Maven Plunger Accessories 4:1 and 10:1 for A-System Cartridges – Perigee Direct](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-4-1-and-10-1-ratio-a-system-50ml-45ml-35ml-cartridges): Shop Maven manual hand plungers at Perigee Direct for 10:1 ratio cartridges delivering dependable dispensing for small-volume adhesives.
+  Updated: 2026-02-23T19:46:17Z
   Vendor: Maven Dispensers
   Product Type: Dispensing Plungers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Hand-Plunger-4-1-_-10-1-Horizontal.jpg?v=1753728170
-  - [Hand Plunger Accessory Pack](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-10-1-ratio-50ml-45ml-35ml-cartridges?variant=45851090026750)
+  - [Hand Plunger Accessory Pack](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-4-1-and-10-1-ratio-a-system-50ml-45ml-35ml-cartridges?variant=45851090026750)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-Accessory-Kit-4-1-_-10-1-ratio-_and-A-System-and-B-System.jpg?v=1756321188
     Price: $8.99 USD
-  - [Just the Hand Plunger](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-10-1-ratio-50ml-45ml-35ml-cartridges?variant=45851090059518)
+  - [Just the Hand Plunger](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-4-1-and-10-1-ratio-a-system-50ml-45ml-35ml-cartridges?variant=45851090059518)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Hand-Plunger-4-1-_-10-1-Horizontal.jpg?v=1753728170
     Price: $6.99 USD
@@ -31207,14 +31201,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/176.860_2.jpg?v=1752865031
   Price: $10,700.00 USD
 - [12in x 5in Cardboard Spool Kit – Perigee Direct](https://www.perigeedirect.com/products/12-inch-x-5-inch-economy-cardboard-spool-kit-12in-by-5in): Shop 12-inch by 5-inch economy cardboard spool kits at Perigee Direct for winding and storage, delivering lightweight and practical handling.
-  Updated: 2026-02-16T15:25:43Z
+  Updated: 2026-02-20T21:30:47Z
   Vendor: Maven Spools
   Product Type: Empty Spools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/EmptyReel.jpg?v=1756318889
   Price: $7.99 USD
 - [Weld-On 46C Translucent Acrylic Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-weld-on-46c-translucent-acrylic-adhesive-for-primer-less-bonding-of-aluminum-metals-and-acrylics-15-minute-fixture-time-50ml-and-490ml-10-1-mix-ratio): Buy SCIGRIP Weld-On 46C at Perigee Direct for primerless bonding of metals and acrylics with 15 minute fixture time for fast assembly work.
-  Updated: 2026-02-14T00:07:38Z
+  Updated: 2026-02-17T21:44:48Z
   Vendor: Weld-On
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -31259,7 +31253,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MeritoolPowerPush7000Battery1010-003ForOlder7000Guns.jpg?v=1756319247
   Price: $99.99 USD
 - [Glass Boston Round Bottles 2oz Brown Translucent with Cap](https://www.perigeedirect.com/products/maven-glass-spray-bottle-2-oz-brown-translucent-with-cap): Shop Maven 2 oz glass spray bottles at Perigee Direct for chemical handling delivering durable brown translucent protection with secure caps.
-  Updated: 2026-02-16T20:30:54Z
+  Updated: 2026-02-23T23:35:38Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -31300,7 +31294,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MixPacMCH13-24T_102437.jpg?v=1752865364
     Price: $1,506.67 USD
 - [Maven MMA 3002 Ultra-Fast Set Acrylic – Perigee Direct](https://www.perigeedirect.com/products/maven-mma-3002-acrylic-natural-straw-color-ultra-fast-set-2-3-min-mma-adhesive-1-1-ratio): Choose Maven MMA 3002 at Perigee Direct for an ultra-fast two- to three-minute set adhesive in natural straw color for strong one-to-one bonding.
-  Updated: 2026-02-14T00:07:49Z
+  Updated: 2026-02-23T14:15:40Z
   Vendor: Maven Adhesives
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -31445,7 +31439,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Plexus-MA530-Family.jpg?v=1753726188
   Price: $46,999.99 USD
 - [Maven HDPE Chocolate Brown Welding Rods – Perigee Direct](https://www.perigeedirect.com/products/maven-plastics-hdpe-natural-chocolate-brown-plastic-welding-rods-coils-reels): Shop Maven HDPE brown plastic welding rods at Perigee Direct for color-matched repairs, delivering reliable weld consistency and strength.
-  Updated: 2026-02-14T00:07:53Z
+  Updated: 2026-02-17T21:45:03Z
   Vendor: Maven Plastics
   Product Type: Plastic Welding Rods
   Availability: Available
@@ -31523,7 +31517,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Plastics-Chocolate-Dark-Brown-HDPE-Plastic-Welding-Rods.jpg?v=1756316604
     Price: $19.99 USD
 - [Keep-Nut Product Line Overview – Perigee Direct](https://www.perigeedirect.com/products/keep-nut-product-line): Shop Keep Nut product line at Perigee Direct for undermount sink hardware delivering secure fastening without cabinet or countertop drilling.
-  Updated: 2026-02-14T00:07:56Z
+  Updated: 2026-02-17T21:45:07Z
   Vendor: Keep-Nut
   Product Type: 
   Availability: Available
@@ -31683,7 +31677,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2024-11-06074944.jpg?v=1753725074
   Price: $105.00 USD
 - [Ethyl Alcohol 190 Proof 95% Denatured – Perigee Direct](https://www.perigeedirect.com/products/ethyl-alcohol-ethanol-190-proof-95-denatured-non-food-grade): Shop ethyl alcohol ethanol at Perigee Direct for industrial cleaning and processing delivering high-purity 190-proof non-food-grade solvent.
-  Updated: 2026-02-16T15:05:43Z
+  Updated: 2026-02-23T15:45:42Z
   Vendor: Maven Chemicals
   Product Type: Chemicals
   Availability: Available
@@ -31717,7 +31711,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Ethanol-95-pct-275-Gallon.jpg?v=1756321768
     Price: $2,999.99 USD
 - [Miralon D125-NMP Carbon Nanotube Dispersion | Perigee Direct](https://www.perigeedirect.com/products/miralon-125-nmp-carbon-nanotube-dispersion-in-nmp-solvent-for-high-performance-cathode-slurries-for-battery-cathodes): Shop Miralon 125 carbon nanotube dispersion at Perigee Direct for battery cathode slurries, delivering high-performance conductivity solutions.
-  Updated: 2026-02-14T00:07:58Z
+  Updated: 2026-02-17T21:45:08Z
   Vendor: Huntsman Miralon
   Product Type: Carbon Nanotubes
   Availability: Available
@@ -31776,7 +31770,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LoctiteH8100490ml.jpg?v=1756319778
     Price: $129.99 USD
 - [3M DP6310NS Urethane Adhesive](https://www.perigeedirect.com/products/3m-dp6310ns-multi-material-composite-urethane-adhesive-green-1-1-mix-ratio): Discover 3M DP6310NS urethane adhesive, green, 1:1 mix, built for multi-material bonding with durable strength, flexibility, and reliability.
-  Updated: 2026-02-14T00:08:01Z
+  Updated: 2026-02-17T21:45:11Z
   Vendor: 3M Scotch-Weld
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -31830,7 +31824,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/DP6310NS-48.5MLCartridge.jpg?v=1752862769
     Price: $15.00 USD
 - [Maven MV400-36X Manual 400ml Gun – Perigee Direct](https://www.perigeedirect.com/products/maven-mv400-36x-manual-high-power-36x-thrust-2-part-adhesive-dispenser-for-all-400ml-415ml-1-1-2-1-3-1-and-4-1-ratio-cartridges): Shop Maven MV400-36X dispenser at Perigee Direct for high-power 36x thrust, delivering precise multi-ratio control and smoother dispensing.
-  Updated: 2026-02-16T11:40:43Z
+  Updated: 2026-02-18T17:40:46Z
   Vendor: Maven Dispensers
   Product Type: Dispensers Manual
   Availability: Available
@@ -31879,21 +31873,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/16oz_4f8f8387-043b-464f-b45d-af83d69de145.jpg?v=1762967919
     Price: $189.99 USD
 - [Maven MV600-36X High-Power Adhesive Dispenser – Perigee Direct](https://www.perigeedirect.com/products/maven-600ml-450ml-high-power-36x-thrust-2-part-adhesive-dispenser): Shop Maven high power 600ml and 450ml dispensers at Perigee Direct for 36x thrust control, delivering smooth two-part adhesive application.
-  Updated: 2026-02-14T00:08:02Z
+  Updated: 2026-02-17T21:45:12Z
   Vendor: Maven Dispensers
   Product Type: Dispensers Manual
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Photoroom-20241202_095547_1.png?v=1759000824
   Price: $69.99 USD
 - [Maven MV200-36X 200ml Adhesive Gun – Perigee Direct](https://www.perigeedirect.com/products/maven-mv200-36x-200ml-high-power-36x-thrust-2-part-adhesive-dispenser-for-1-1-2-1-ratios): Shop Maven MV200 36x thrust dispenser at Perigee Direct for 200ml cartridges delivering high power control for 1:1 and 2:1 adhesives.
-  Updated: 2026-02-16T19:00:38Z
+  Updated: 2026-02-18T20:35:47Z
   Vendor: Maven Dispensers
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Photoroom-20241206_085414.png?v=1759000800
   Price: $54.99 USD
 - [MixPac MFQX-08-24T Square Mixer for 490ml | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mfqx-08-24t-116039-f-system-square-quadro-mixing-nozzle-24-element-8mm-id-for-10-1-4-1-ratio-larger-2-part-cartridges-490ml): Shop Mixpac MFQX 08-24T quadro nozzles at Perigee Direct for 490ml cartridges, delivering high-ratio mixing accuracy and consistency.
-  Updated: 2026-02-16T21:40:44Z
+  Updated: 2026-02-20T20:45:38Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -31988,7 +31982,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Various-Dispenser-Piston-Disk-Full-Kit_54c4937d-541c-48f9-87ef-528175497793.png?v=1759080302
     Price: $99.99 USD
 - [MixPac 50ml 1:1 B-System Cartridge w/ Sealing Cap | Perigee Direct](https://www.perigeedirect.com/products/mixpac-50ml-1-1-ratio-b-system-gray-cap-empty-cartridges-with-sealing-cap-pistons-pp-nylon-and-pbt-styles): Shop Mixpac 50ml 1:1 B System empty cartridges at Perigee Direct with sealing caps and pistons for clean reliable adhesive dispensing.
-  Updated: 2026-02-13T18:00:48Z
+  Updated: 2026-02-23T14:41:38Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -32050,14 +32044,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-1-1-_-2-1-ratio_086dbac0-36d3-4879-bdb8-5d826b9c2cab.jpg?v=1758995855
     Price: $6.99 USD
 - [Leister 153.610  O-Ring 0.75x1.78 – Perigee Direct](https://www.perigeedirect.com/products/leister-153-610-set-start-up-assembly-with-micro-switch-variant-t1): Precision O ring provides a dependable seal that maintains airflow, prevents leaks and helps ensure consistent welding tool performance. Order online today.
-  Updated: 2026-02-14T00:08:05Z
+  Updated: 2026-02-17T21:45:15Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_d99cf718-499b-4d06-98f3-19003fae31ef.jpg?v=1752860808
   Price: $340.00 USD
 - [Bron BT-416 Economy Packaging Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-416-economy-packaging-tape-1-6-mil-up-to-36-pounds-carton-seal-tape-box-tape): Shop Bron BT 416 economy packaging tape at Perigee Direct for light carton sealing delivering reliable 1.6 mil adhesion up to 36 pounds.
-  Updated: 2026-02-14T00:08:07Z
+  Updated: 2026-02-17T21:45:18Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32087,7 +32081,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron_3-in_Tape_Gun_BT-587_A_1e7eb1c1-32c4-4400-9d7e-39c5dfce0883.jpg?v=1736721887
     Price: $14.99 USD
 - [Bron BT-416A Cold Temp Packaging Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-416a-economy-packaging-tape-for-cold-temperatures-1-6-mil-up-to-36-pounds-carton-seal-tape-box-tape): Shop Bron BT-416A packaging tape at Perigee Direct for cold temperature sealing delivering dependable adhesion up to 36-pound cartons.
-  Updated: 2026-02-14T00:08:09Z
+  Updated: 2026-02-17T21:45:20Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32117,7 +32111,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron_3-in_Tape_Gun_BT-587_A_1e7eb1c1-32c4-4400-9d7e-39c5dfce0883.jpg?v=1736721887
     Price: $14.99 USD
 - [Bron BT-420 2mil Packaging Tape 50 lb Rated – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-420-packaging-grade-tape-2-mil-up-to-50-pounds-carton-seal-tape-box-tape-case-pack): Shop Bron BT-420 packaging tape at Perigee Direct for carton sealing delivering strong 2-mil hold for boxes up to 50 pounds.
-  Updated: 2026-02-14T00:08:11Z
+  Updated: 2026-02-17T21:45:22Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32147,7 +32141,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron3-inTapeGunBT-587_A.jpg?v=1736721868
     Price: $14.99 USD
 - [Bron BT-420A Cold Temp 2mil Carton Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-420a-packaging-grade-tape-for-cold-temperature-2-mil-up-to-50-pounds-carton-seal-tape-box-tape): Get BRON BT-420A tape at Perigee Direct for cold temperature carton sealing with 2 mil strength rated up to 50 pounds for reliable packaging work.
-  Updated: 2026-02-14T00:08:13Z
+  Updated: 2026-02-17T21:45:24Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32177,7 +32171,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-430 2.8mil Heavy Duty Carton Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-430-heavy-duty-packaging-tape-2-8-mil-up-to-75-pounds-carton-seal-tape-box-tape): Shop Bron BT 430 heavy-duty packaging tape at Perigee Direct for carton sealing delivering strong 2.8 mil hold up to 75 pounds.
-  Updated: 2026-02-14T00:08:15Z
+  Updated: 2026-02-17T21:45:26Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32207,7 +32201,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron_3-in_Tape_Gun_BT-587_A_1e7eb1c1-32c4-4400-9d7e-39c5dfce0883.jpg?v=1736721887
     Price: $14.99 USD
 - [Bron BT-435 3.5mil Heavy Duty Carton Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-435-heavy-duty-packaging-tape-3-5-mil-up-to-75-pounds-carton-seal-tape-box-tape): Shop Bron BT-435 heavy-duty packaging tape at Perigee Direct for carton sealing delivering strong 3.5 mil hold up to 75 pounds.
-  Updated: 2026-02-14T00:08:17Z
+  Updated: 2026-02-17T21:45:28Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32237,7 +32231,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron_3-in_Tape_Gun_BT-587_A_1e7eb1c1-32c4-4400-9d7e-39c5dfce0883.jpg?v=1736721887
     Price: $14.99 USD
 - [Bron BT-898 Kraft Utility Box Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-898-kraft-stick-on-thick-utility-paper-flatback-tape-5-5-mil-up-to-70-pounds-carton-seal-tape-box-tape): Shop Bron BT 898 kraft flatback tape at Perigee Direct for heavy carton sealing delivering strong adhesion up to 70-pound packaging loads.
-  Updated: 2026-02-14T00:08:19Z
+  Updated: 2026-02-17T21:45:30Z
   Vendor: Bron Tapes
   Product Type: Flatback Tape
   Availability: Available
@@ -32267,7 +32261,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron_3-in_Tape_Gun_BT-587_A_1e7eb1c1-32c4-4400-9d7e-39c5dfce0883.jpg?v=1736721887
     Price: $14.99 USD
 - [Bron BT-582/587 Handheld Tape Dispenser – Perigee Direct](https://www.perigeedirect.com/products/bron-hand-held-tape-dispenser-bt-582-2-inch-bt-587-3-inch): Shop Bron handheld tape dispensers at Perigee Direct for 2-inch and 3-inch rolls delivering faster, cleaner, and controlled tape application.
-  Updated: 2026-02-14T00:08:20Z
+  Updated: 2026-02-17T21:45:31Z
   Vendor: Bron Tapes
   Product Type: Packaging Tape
   Availability: Available
@@ -32281,7 +32275,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron_3-in_Tape_Gun_BT-587_A_1e7eb1c1-32c4-4400-9d7e-39c5dfce0883.jpg?v=1736721887
     Price: $14.99 USD
 - [Bron BT-105 Double Sided Carpet Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-105-general-purpose-double-sided-easy-release-carpet-restoration-tape): Shop Bron BT 105 double-sided carpet tape at Perigee Direct for easy release bonding delivering clean removal during restoration projects.
-  Updated: 2026-02-14T00:08:22Z
+  Updated: 2026-02-17T21:45:33Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32299,7 +32293,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-437 Premium Clean Removal Double Sided Carpet Tape](https://www.perigeedirect.com/products/bron-bt-437-premium-clean-removal-double-sided-carpet-tape): Shop Bron BT-437 carpet tape at Perigee Direct for premium double-sided bonding delivering clean removal without residue on surfaces.
-  Updated: 2026-02-14T00:08:24Z
+  Updated: 2026-02-17T21:45:35Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32329,7 +32323,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron3-inTapeGunBT-587_A.jpg?v=1736721868
     Price: $14.99 USD
 - [Bron BT-123 Double Sided Polyester Splicing](https://www.perigeedirect.com/products/bron-bt-123-double-sided-polyester-splicing): Shop Bron BT 123 double-sided polyester splicing tape at Perigee Direct for clean joins, delivering strong bonding for splicing tasks.
-  Updated: 2026-02-14T00:08:25Z
+  Updated: 2026-02-17T21:45:37Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32347,7 +32341,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-1869 Double Sided Clear Film Bonding Tape](https://www.perigeedirect.com/products/bron-bt-1869-double-sided-clear-film-bonding-tape): Shop Bron BT 1869 double-sided clear film tape at Perigee Direct for invisible bonding delivering clean adhesion on smooth surfaces.
-  Updated: 2026-02-14T00:08:26Z
+  Updated: 2026-02-17T21:45:38Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32365,7 +32359,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_1121f43e-d809-44fc-a42a-c2d6a3a5b2d1.jpg?v=1736721885
     Price: $14.99 USD
 - [Bron BT-246 Thin Bonding Tape for HDPE – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-246-performance-grade-thin-bonding-tape): Shop Bron BT-246 performance thin bonding tape at Perigee Direct for clean adhesion, delivering reliable bonding strength for technical builds.
-  Updated: 2026-02-14T00:08:28Z
+  Updated: 2026-02-17T21:45:39Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32383,7 +32377,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/BT_246.png?v=1759000005
     Price: $14.99 USD
 - [Bron BT-3869 Golden Bond Trophy Banner Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-3869-golden-bond-premium-white-trophy-banner-tape-solvent-resistant-humidity-resistant-uv-resistant): Shop Bron BT 3869 Golden Bond tape at Perigee Direct for banners and trophies, delivering UV solvent and humidity-resistant performance.
-  Updated: 2026-02-16T17:28:23Z
+  Updated: 2026-02-17T21:45:43Z
   Vendor: Bron Tapes
   Product Type: Banner & Trophy Tape
   Availability: Available
@@ -32437,7 +32431,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2.jpg?v=1737153806
     Price: $14.99 USD
 - [SynthoGlass DLA EWARP Repair Kit Multi-Pack – Perigee Direct](https://www.perigeedirect.com/products/syntho-glass-dla-multi-pack-kits-industrial-grade-ewarp-repair-kits-emergency-water-activated-repair-patch): Shop Syntho Glass DLA repair kits at Perigee Direct for emergency pipe repairs delivering water-activated, industrial-grade sealing strength.
-  Updated: 2026-02-16T21:10:35Z
+  Updated: 2026-02-20T15:45:37Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -32495,7 +32489,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Siliconetape.webp?v=1753726341
     Price: $34.99 USD
 - [Bron BT-3854 Killer Red Double-Sided Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-3854-killer-red-the-world-s-greatest-double-sided-tape): Shop Bron BT-3854 Killer Red tape at Perigee Direct for extreme double-sided bonding delivering aggressive hold for demanding applications.
-  Updated: 2026-02-16T15:55:38Z
+  Updated: 2026-02-23T13:05:38Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32561,7 +32555,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-48896 Scrim Bond Reinforced Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-48896-scrim-bond-clear-double-sided-permanent-reinforced-scrim-tape-9-mil-popular-for-foam-fabrication-flooring-baseboards-cover-bases): Shop Bron BT-48896 scrim bond tape at Perigee Direct for permanent reinforced bonding, delivering strength for foam fabrication and flooring.
-  Updated: 2026-02-14T00:08:40Z
+  Updated: 2026-02-17T21:45:52Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32579,7 +32573,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_f72597c8-cbff-4203-8871-49147b09c34f.jpg?v=1736894645
     Price: $14.99 USD
 - [Bron BT-7670 Double-Sided Tissue Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-7670-double-sided-clear-tissue-splicing-tape-uv-resistant-popular-for-laminating-mounting-sealing-and-splicing): Shop Bron BT-7670 clear tissue tape at Perigee Direct for UV-resistant bonding, delivering clean laminating, sealing, mounting, and splicing.
-  Updated: 2026-02-14T00:08:42Z
+  Updated: 2026-02-17T21:45:54Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32609,7 +32603,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-480 Double-Sided Golf Grip Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-480-premium-clean-removal-double-sided-paper-tape-popular-for-golf-club-regripping): Shop Bron BT-480 double-sided paper tape at Perigee Direct for clean removal bonding delivering reliable grip for golf club regripping.
-  Updated: 2026-02-14T00:08:45Z
+  Updated: 2026-02-17T21:45:57Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32651,7 +32645,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-3579 2mil UV-Resistant ATG Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-3579-adhesive-transfer-tape-2-mil-atg-tape-uv-resistant-solvent-resistant-general-purpose-indoor-outdoor-popular-for-securing-paper-films-foils-foams): Shop Bron BT 3579 adhesive transfer tape at Perigee Direct for UV and solvent-resistant bonding, delivering clean hold indoors and outdoors.
-  Updated: 2026-02-14T00:08:46Z
+  Updated: 2026-02-17T21:45:58Z
   Vendor: Bron Tapes
   Product Type: Double-Sided Tape
   Availability: Available
@@ -32669,7 +32663,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2.jpg?v=1737153806
     Price: $14.99 USD
 - [Bron BT-3595 5mil Gloss-Coated ATG Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-3595-adhesive-transfer-tape-5-mil-atg-tape-uv-resistant-solvent-resistant-popular-for-gloss-coated-materials-folders-boxes-swatches-samples-displays): Shop Bron BT 3595 adhesive transfer tape at Perigee Direct for UV and solvent-resistant bonding on coated materials boxes and displays.
-  Updated: 2026-02-14T00:08:47Z
+  Updated: 2026-02-17T21:45:59Z
   Vendor: Bron Tapes
   Product Type: High Bond Tape
   Availability: Available
@@ -32687,7 +32681,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-9771 40mil High Bond Strength Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-9771-high-bond-strength-tape-40-mil-popular-for-powder-coat-plastics-joint-sealing-construction-and-automotive): Shop Bron BT 9771 tape at Perigee Direct for high bond strength sealing on powder coat, plastics, and joints used in construction and automotive work.
-  Updated: 2026-02-14T00:08:49Z
+  Updated: 2026-02-17T21:46:01Z
   Vendor: Bron Tapes
   Product Type: High Bond Strength Tape (VHB)
   Availability: Available
@@ -32717,7 +32711,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2.jpg?v=1737153806
     Price: $14.99 USD
 - [Bron BT-140RC Clear High Bond Tape 40mil – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-140rc-clear-high-bond-strength-tape-40-mil-uv-resistant-temperature-resistant-weather-resistant): Shop Bron BT-140RC clear tape at Perigee Direct for high bond strength delivering UV, temperature, and weather resistance in demanding uses.
-  Updated: 2026-02-14T00:08:51Z
+  Updated: 2026-02-17T21:46:04Z
   Vendor: Bron Tapes
   Product Type: High Bond Strength Tape (VHB)
   Availability: Available
@@ -32747,7 +32741,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-120RC Clear High Bond Tape 20mil – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-120rc-clear-high-bond-strength-tape-20-mil-uv-resistant-temperature-resistant-weather-resistant): Shop Bron BT 120RC clear bonding tape at Perigee Direct for high-strength adhesion delivering UV temperature and weather resistance performance.
-  Updated: 2026-02-14T00:08:53Z
+  Updated: 2026-02-17T21:46:06Z
   Vendor: Bron Tapes
   Product Type: High Bond Strength Tape (VHB)
   Availability: Available
@@ -32849,21 +32843,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2025-01-21071357.jpg?v=1752866081
     Price: $700.99 USD
 - [Leister Triac S - rubber stand replacement parts 100.295](https://www.perigeedirect.com/products/triac-s-rubber-stand-replacement-100-295): Discover the Triac S rubber stand 100.295 designed to support heat tools securely during use or cooldown, ensuring safe and stable handling. Add this stand to your bench today.
-  Updated: 2026-02-14T00:08:54Z
+  Updated: 2026-02-17T21:46:07Z
   Vendor: Leister
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.295_29b02f33-7160-4abf-a46a-c71a59e057f7.jpg?v=1758994887
   Price: $13.95 USD
 - [Leister 100.032 Triac S Label 75cm – Perigee Direct](https://www.perigeedirect.com/products/leister-triac-s-replacement-part-company-label-75cm-x-22cm-100-032): ARTICLE 100.032 ITEM NAME Company Label 75cm x 22cm ADDITIONAL DESCRIPTION for Triac S. Shown as item 2 in picture
-  Updated: 2026-02-14T00:08:55Z
+  Updated: 2026-02-17T21:46:08Z
   Vendor: Leister
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/100.032_a6c8f2f4-c8ea-46af-9cd4-769bfbe94fcd.jpg?v=1756320904
   Price: $0.53 USD
 - [MixPac MCH-10-24T Bell Nozzle for 2-Part Systems | Perigee Direct](https://www.perigeedirect.com/products/mixpac-mch-10-24t-300496-mixing-nozzle-round-helix-bell-style-for-1-1-2-1-ratio-200ml-400ml-600ml-1500ml-2-part-cartridges): Shop Mixpac MCH 10-24T mixing nozzles at Perigee Direct for consistent round helix mixing across multiple cartridge sizes and ratios.
-  Updated: 2026-02-14T10:20:42Z
+  Updated: 2026-02-23T21:51:08Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -32897,7 +32891,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Static-Mixer-Heilx-200ml-18-ElementsNT_32c8a00b-1c22-431a-8809-ddf9fc1ac690.jpg?v=1752860629
     Price: $1,890.00 USD
 - [Underwater Pool & Spa Repair Kit | Perigee Direct](https://www.perigeedirect.com/products/maven-underwater-pool-spa-repair-kit-for-filling-cracks-sealing-pipes): Get the Maven Underwater Repair Kit at Perigee Direct for leak sealing and crack filling in pools and spas without draining the water.
-  Updated: 2026-02-14T00:08:57Z
+  Updated: 2026-02-23T16:15:50Z
   Vendor: Maven Adhesives
   Product Type: Underwater Pool Repair Kit
   Availability: Available
@@ -32927,7 +32921,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-MMA3005-50mlCartridges_Pool-Nozzles.jpg?v=1756922525
     Price: $17.99 USD
 - [BT-257 9mil Contractor Duct Tape – Perigee Direct](https://www.perigeedirect.com/products/bt-257-industrial-contractor-grade-duct-tape-9-mil): Shop BT 257 industrial contractor-grade duct tape at Perigee Direct for heavy-duty sealing, delivering strong 9 mil adhesion and durability.
-  Updated: 2026-02-14T00:08:58Z
+  Updated: 2026-02-17T21:46:11Z
   Vendor: Bron Tapes
   Product Type: Duct Tape
   Availability: Available
@@ -32945,7 +32939,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-258 Performance Grade Duct Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-258-performance-grade-duct-tape-with-strong-ashesive-stick-11-mil): Shop Bron BT 258 performance duct tape at Perigee Direct for heavy-duty repairs, delivering strong adhesive grip and 11 mil durability.
-  Updated: 2026-02-14T00:09:00Z
+  Updated: 2026-02-17T21:46:12Z
   Vendor: Bron Tapes
   Product Type: Duct Tape
   Availability: Available
@@ -32963,7 +32957,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [BluOx Heavyweight 17mil Duct Tape – Perigee Direct](https://www.perigeedirect.com/products/bluox-heavyweight-17-mil-duct-tape-high-performance-high-durability-temperature-resistant-extra-strong): Get BluOx heavyweight duct tape at Perigee Direct for 17 mil high durability strength rated tape that resists temperature and heavy use.
-  Updated: 2026-02-14T00:09:01Z
+  Updated: 2026-02-17T21:46:14Z
   Vendor: Bron Tapes
   Product Type: Duct Tape
   Availability: Available
@@ -32981,7 +32975,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-4736 Clean Green Resistant Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-4736-clean-green-chemical-resistant-solvent-resistant-high-stick-easy-remove-multi-purpose-masking-protection-and-repair-tape): Shop Bron BT 4736 Clean Green tape at Perigee Direct for chemical-resistant masking protection and clean removal across industrial tasks.
-  Updated: 2026-02-14T00:09:03Z
+  Updated: 2026-02-18T20:35:37Z
   Vendor: Bron Tapes
   Product Type: Masking Tape
   Availability: Available
@@ -33037,7 +33031,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/CSNRIPipeWrapFront4inx12ftPW-0412.jpg?v=1760203643
     Price: $363.88 USD
 - [MixPac 50ml 3:2 Cartridge w/ Cap and Piston Seal | Perigee Direct](https://www.perigeedirect.com/products/mixpac-50ml-3-2-ratio-2-part-empty-cartridge-with-sealing-cap-pistons-3-2-mix-ratio-ab-050-32-10-04-182161): Shop Mixpac 50ml 3 to 2 ratio cartridges at Perigee Direct for accurate two part dispensing with included sealing cap and pistons for clean adhesive use.
-  Updated: 2026-02-16T20:05:37Z
+  Updated: 2026-02-23T23:20:37Z
   Vendor: MixPac
   Product Type: Cartridges
   Availability: Available
@@ -33133,14 +33127,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Insertion_Tool.png?v=1740091387
     Price: $28.99 USD
 - [Permabond F201HV Anaerobic Adhesive Hydrogen-Ready Sealant](https://www.perigeedirect.com/products/permabond-f201hv-anaerobic-adhesive-hydrogen-ready-sealant): Find Permabond F201HV at Perigee Direct. Hydrogen-ready anaerobic sealant for strong sealing on threaded metal components. Request pricing today.
-  Updated: 2026-02-14T00:09:04Z
+  Updated: 2026-02-17T21:46:16Z
   Vendor: Permabond
   Product Type: Anaerobics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/F201HV-Photoroom.jpg?v=1761499678
   Price: $39.99 USD
 - [Bron BT-021 Multi Purpose Filament Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-021-multi-purpose-crepe-paper-natural-white-filament-tape): Shop BRON BT 021 at Perigee Direct for multipurpose crepe paper filament tape in natural white for bundling, holding and masking applications.
-  Updated: 2026-02-14T00:09:07Z
+  Updated: 2026-02-17T21:46:20Z
   Vendor: Bron Tapes
   Product Type: Filament / Reinforced Tape
   Availability: Available
@@ -33182,7 +33176,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-1095 UV-Resistant Foam Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-1095-general-purpose-uv-resistant-white-foam-bonding-tape): Shop Bron BT-1095 foam bonding tape at Perigee Direct for UV-resistant sealing delivering reliable adhesion for general applications.
-  Updated: 2026-02-14T00:09:09Z
+  Updated: 2026-02-17T21:46:23Z
   Vendor: Bron Tapes
   Product Type: Foam Tape
   Availability: Available
@@ -33224,7 +33218,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Maven AW Hydraulic Oil ISO 32/46/68 – Perigee Direct](https://www.perigeedirect.com/products/maven-industrial-hydraulic-oil-aw-anti-wear-iso-32-46-68-mineral-based): Shop Maven hydraulic oil AW at Perigee Direct for industrial systems offering anti-wear protection and consistent performance in ISO grades.
-  Updated: 2026-02-14T00:09:14Z
+  Updated: 2026-02-23T14:25:47Z
   Vendor: Maven Lubricants
   Product Type: Hydraulic Oil
   Availability: Available
@@ -33297,7 +33291,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LeisterParts.png?v=1741137199
   Price: $309.00 USD
 - [Leister 124.379 Motor BL 45/25 - 200-230V](https://www.perigeedirect.com/products/leister-124-379-motor-bl-45-25-200-230v): Shop the Leister 124.379 motor, BL-45, 200–230V, offering stable power and durability for continuous industrial tool use.
-  Updated: 2026-02-14T00:09:15Z
+  Updated: 2026-02-17T21:46:28Z
   Vendor: Leister
   Product Type: 
   Availability: Available
@@ -33362,7 +33356,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Static-Mixer-MAHX-05-17T-Medium-17-Elements.jpg?v=1756318923
     Price: $3,499.99 USD
 - [Bron BT-1960 Glazing Foam Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-1960-weather-resistant-sealing-foam-glazing-tape-double-sided): Shop BRON BT 1960 at Perigee Direct for weather-resistant sealing foam glazing tape double sided for secure window and panel sealing work.
-  Updated: 2026-02-14T00:09:17Z
+  Updated: 2026-02-17T21:46:30Z
   Vendor: Bron Tapes
   Product Type: Foam Tape
   Availability: Available
@@ -33392,7 +33386,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-2503 Gasketing Foam Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-2503-medium-density-weather-resistant-gasketing-foam-black-tape-single-sided): Shop Bron BT-2503 gasketing foam tape at Perigee Direct for weather-resistant sealing delivering durable cushioning and vibration control.
-  Updated: 2026-02-14T00:09:19Z
+  Updated: 2026-02-17T21:46:32Z
   Vendor: Bron Tapes
   Product Type: Foam Tape
   Availability: Available
@@ -33422,7 +33416,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-2505 Gasketing Foam Tape Double-Sided – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-2505-medium-density-chemical-resistant-shock-resistant-gasketing-foam-tape-double-sided): Shop Bron BT 2505 gasketing foam tape at Perigee Direct for chemical resistant sealing delivering shock absorption and double-sided strength.
-  Updated: 2026-02-14T00:09:21Z
+  Updated: 2026-02-17T21:46:34Z
   Vendor: Bron Tapes
   Product Type: Foam Tape
   Availability: Available
@@ -33452,7 +33446,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-1122 Foil Glass Cloth Tape - .75in x 36yds](https://www.perigeedirect.com/products/bron-bt-1122-foil-glass-cloth-tape-75in-x-36yds): Shop Bron BT-1122 foil glass cloth tape at Perigee Direct for heat-resistant sealing insulation and HVAC duct work in tough conditions.
-  Updated: 2026-02-14T00:09:22Z
+  Updated: 2026-02-17T21:46:35Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33470,7 +33464,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-50R  Utility Grade Aluminum Foil Tape- 2inx 50yds](https://www.perigeedirect.com/products/bron-bt-50r-utility-grade-aluminum-foil-tape-2inx-50yds): Shop BRON BT 50R at Perigee Direct for utility-grade aluminum foil tape in 2-inch by 50-yard rolls that seal joints and protect surfaces.
-  Updated: 2026-02-14T00:09:23Z
+  Updated: 2026-02-17T21:46:36Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33488,7 +33482,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-50SW  Multi-Purpose Aluminum Foil Tape- 2in x 60yds](https://www.perigeedirect.com/products/bron-bt-50sw-multi-purpose-aluminum-foil-tape-2in-x-60yds): Shop Bron BT 50SW aluminum foil tape at Perigee Direct for heat-reflective sealing insulation repairs and durable multipurpose bonding tasks.
-  Updated: 2026-02-14T00:09:25Z
+  Updated: 2026-02-17T21:46:38Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33506,7 +33500,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-67SW Aluminum Foil Tape 2in x 60yd – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-67sw-performance-grade-aluminum-foil-tape-2inx-60yd): Shop Bron BT 67SW aluminum foil tape at Perigee Direct for durable industrial HVAC sealing insulation and duct work in 2in x 60yd rolls.
-  Updated: 2026-02-14T00:09:26Z
+  Updated: 2026-02-17T21:46:39Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33524,7 +33518,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-2005 Aluminum Foil Tape 2in x 60yds – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-2005-performance-grade-aluminum-foil-tape-2inx-60-yds): Shop Bron BT 2005 aluminum foil tape at Perigee Direct for heat reflection sealing delivering strong adhesion in HVAC and industrial use.
-  Updated: 2026-02-14T00:09:28Z
+  Updated: 2026-02-17T21:46:41Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33542,7 +33536,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-7A  Performance Grade Copper Foil Tape- 2in x 36yds](https://www.perigeedirect.com/products/bron-bt-7a-performance-grade-copper-foil-tape-2in-x-36yds): Shop Bron BT 7A copper foil tape 2in x 36yds at Perigee Direct for grounding EMI shielding conductive bonding and long lasting repairs.
-  Updated: 2026-02-14T00:09:29Z
+  Updated: 2026-02-17T21:46:42Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33560,7 +33554,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Bron BT-7CA Conductive Copper Foil Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-7ca-performance-grade-conductive-copper-foil-tape-2inx-36yds): Shop Bron BT 7CA conductive copper foil tape at Perigee Direct for grounding shielding EMI protection and reliable electrical conductivity applications.
-  Updated: 2026-02-14T00:09:30Z
+  Updated: 2026-02-17T21:46:44Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -33578,7 +33572,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [BT-260 Gaffer’s Tape UV Fluorescent – Perigee Direct](https://www.perigeedirect.com/products/bt-260-professional-grade-gaffer-s-tape-fluoroscent-colors-black-light-uv-glowing): Shop BT 260 professional gaffer’s tape at Perigee Direct for fluorescent UV-reactive floor marking delivering strong hold, clean removal, and stage visibility.
-  Updated: 2026-02-14T00:09:37Z
+  Updated: 2026-02-17T21:46:50Z
   Vendor: Bron Tapes
   Product Type: Gaffers Tape
   Availability: Available
@@ -33680,7 +33674,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/gaffgun_436bb6b1-4352-45d1-9877-d84302f4b54b.png?v=1759080272
     Price: $380.54 USD
 - [BT-279 AV Cord Tape Hand-Tearable – Perigee Direct](https://www.perigeedirect.com/products/bt-279-bron-av-cord-tape-hand-tearable-strong-bond-waterproof-and-clean-removal-for-tieing-down-audio-video-cables): Get BT 279 BRON AV cord tape at Perigee Direct for hand-tearable waterproof tape that secures audio video cables while still removing cleanly.
-  Updated: 2026-02-14T00:09:39Z
+  Updated: 2026-02-17T21:46:52Z
   Vendor: Bron Tapes
   Product Type: Gaffers Tape
   Availability: Available
@@ -33710,7 +33704,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_b45da016-7a21-4704-b369-b4dc8d656414.jpg?v=1753724210
     Price: $380.54 USD
 - [Bron BT-260 Professional Grade Gaffer’s Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-260-professional-grade-gaffer-s-tape-standard-colors): Shop Bron BT 260 professional gaffer’s tape at Perigee Direct in standard colors delivering strong hold, clean removal, and floor safety.
-  Updated: 2026-02-14T00:09:49Z
+  Updated: 2026-02-17T21:47:03Z
   Vendor: Bron Tapes
   Product Type: Gaffers Tape
   Availability: Available
@@ -33892,7 +33886,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/gaffgun_436bb6b1-4352-45d1-9877-d84302f4b54b.png?v=1759080272
     Price: $380.54 USD
 - [BT-379 Dry Channel AV Cord Tape – Perigee Direct](https://www.perigeedirect.com/products/bt-379-bron-dry-channel-av-cord-tape-for-gaffgun-hand-tearable-strong-bond-waterproof-and-clean-removal-for-tieing-down-audio-video-cables): Shop BT 379 Bron AV cord tape at Perigee Direct for gaffgun use delivering strong bond waterproof hold and clean removal for cables.
-  Updated: 2026-02-14T00:09:50Z
+  Updated: 2026-02-17T21:47:04Z
   Vendor: Bron Tapes
   Product Type: AV Cord Tape
   Availability: Available
@@ -33910,7 +33904,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/gaffgun_436bb6b1-4352-45d1-9877-d84302f4b54b.png?v=1759080272
     Price: $591.48 USD
 - [BT-6110 Hazard AV Cord Tape – Perigee Direct](https://www.perigeedirect.com/products/bt-6110-bron-av-cord-tape-with-hazard-stripe-hand-tearable-strong-bond-waterproof-and-clean-removal-for-tieing-down-audio-video-cables): Shop BT 6110 Bron AV cord tape at Perigee Direct for hazard marking delivering strong waterproof hold and clean cable management.
-  Updated: 2026-02-14T00:09:52Z
+  Updated: 2026-02-17T21:47:06Z
   Vendor: Bron Tapes
   Product Type: AV Cord Tape
   Availability: Available
@@ -33940,7 +33934,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/download_b45da016-7a21-4704-b369-b4dc8d656414.jpg?v=1753724210
     Price: $380.54 USD
 - [Bron BT-7110 AV Cord Tape for GaffGun – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-7110-bron-av-cord-tape-with-dry-channel-and-hazard-stripe-for-gaffgun-hand-tearable-strong-bond-waterproof-and-clean-removal-for-tieing-down-audio-video-cables): Shop Bron BT 7110 AV cord tape at Perigee Direct for GaffGun use, delivering hazard striping strong hold and clean cable management.
-  Updated: 2026-02-14T00:09:53Z
+  Updated: 2026-02-17T21:47:07Z
   Vendor: Bron Tapes
   Product Type: AV Cord Tape
   Availability: Available
@@ -33958,7 +33952,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/gaffgun_436bb6b1-4352-45d1-9877-d84302f4b54b.png?v=1759080272
     Price: $591.48 USD
 - [Synthetic Hydraulic Oil ISO 32, 46, 68 | Perigee Direct](https://www.perigeedirect.com/products/maven-super-synthetic-hydraulic-oil-aw-anti-wear-iso-32-46-68-pure-synthetic-formula): Shop Maven synthetic hydraulic oil AW ISO 32 46 68 for anti-wear protection and long fluid life in industrial equipment requiring pure synthetic fluids.
-  Updated: 2026-02-14T00:09:57Z
+  Updated: 2026-02-17T21:47:11Z
   Vendor: Maven Lubricants
   Product Type: Hydraulic Oil
   Availability: Available
@@ -34012,7 +34006,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Synthetic-5-Gal.jpg?v=1752863972
     Price: $835.91 USD
 - [MixCoat SP-DPS Air Tube Extender Quick-Lock | Perigee Direct](https://www.perigeedirect.com/products/mixcoat-sp-dps-atomizing-air-tube-extender-with-quick-lock-coupling-individual-air-tube-sp-dpf-series-151689-151690): Shop MixCoat SP DPS atomizing air tube extenders at Perigee Direct for spray systems delivering extended reach with secure quick-lock coupling.
-  Updated: 2026-02-14T00:09:58Z
+  Updated: 2026-02-20T16:40:06Z
   Vendor: MixPac MixCoat
   Product Type: Accessories
   Availability: Available
@@ -34033,7 +34027,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/112.963.jpg?v=1756321220
   Price: $539.00 USD
 - [BT-360 Dry-Channel Grade Gaffer’s Tape for GaffGun - Black](https://www.perigeedirect.com/products/bt-360-dry-channel-grade-gaffer-s-tape-for-gaffgun-black): Shop BT 360 dry channel grade gaffer’s tape at Perigee Direct for GaffGun use delivering clean removal, strong hold, and pro floor taping control.
-  Updated: 2026-02-14T00:09:59Z
+  Updated: 2026-02-17T21:47:13Z
   Vendor: Bron Tapes
   Product Type: Gaffers Tape
   Availability: Available
@@ -34051,7 +34045,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/gaffgun_c1c74a71-dcef-4977-8998-f6af31c14473.png?v=1758998377
     Price: $591.48 USD
 - [Arjay 6011/6012 Ceramic Repair Putty – Perigee Direct](https://www.perigeedirect.com/products/arjay-6011-6012-ceramic-pourable-transom-repair-compound-putty-for-boats-ships-navy-ships-bulk-vessels-lpg-lng-tanks-power-boats-wood-plywood-transom): Get Arjay 6011/6012 at Perigee Direct for pourable ceramic transom repair compound used on boats, ships, tanks and marine structural rebuilds.
-  Updated: 2026-02-16T15:05:38Z
+  Updated: 2026-02-17T21:47:15Z
   Vendor: Arjay Composites
   Product Type: 
   Availability: Available
@@ -34073,7 +34067,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Arjay-6011-5-Gallon-Pail-Kit-A_B.jpg?v=1756317978
     Price: $2,799.99 USD
 - [Lord 459X Adhesion Enhancer for Plastics – Perigee Direct](https://www.perigeedirect.com/products/lord-459x-adhesion-enhancer-surface-modifier-for-rubberized-plastics-thermplastic-elastomers-thermoplastic-polyolefins-tpe-tpo-and-epdm): Shop LORD 459X adhesion enhancer at Perigee Direct to improve bonding on rubberized plastics TPO TPE and EPDM substrates.
-  Updated: 2026-02-14T10:08:02Z
+  Updated: 2026-02-23T23:35:37Z
   Vendor: Lord
   Product Type: Primers
   Availability: Available
@@ -34113,7 +34107,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Caulking-Gun-Adapter-Kit-Assembled-View_69dbc35c-928e-4d40-a23b-253bec5d03a3.jpg?v=1753729567
   Price: $10.00 USD
 - [Xemex X2-FZ8-8 F-System Ultra-Low Waste Tips – Perigee Direct](https://www.perigeedirect.com/products/xemex-x2-fz8-8-ultra-low-waste-mixing-nozzles-f-style-f-system-for-larger-4-1-and-10-1-cartridges-250ml-490ml): Shop Xemex X2-FZ8-8 ultra-low waste mixing nozzles with F-style outlet for 4:1 and 10:1 cartridges sized 250ml and 490ml.
-  Updated: 2026-02-14T00:10:06Z
+  Updated: 2026-02-17T21:47:20Z
   Vendor: ReMixers Xemex
   Product Type: Mixing Nozzles
   Availability: Available
@@ -34167,7 +34161,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/X2-FZ8-8L-F-System-_MFQX-with-Luer-Lok_-Style.png?v=1752860827
     Price: $1,899.90 USD
 - [Xemex X2-G8-7S Ultra-Low Waste Nozzle w/ Nut – Perigee Direct](https://www.perigeedirect.com/products/xemex-x2-g8-7s-ultra-low-waste-mixing-nozzles-with-integrated-nut-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1-4-1-10-1): Get Xemex X2-G8-7S mixing nozzles with integrated nut for 200ml to 1500ml cartridges in 1:1, 2:1, 4:1, and 10:1 mix ratios.
-  Updated: 2026-02-14T00:10:09Z
+  Updated: 2026-02-20T22:20:48Z
   Vendor: ReMixers Xemex
   Product Type: Mixing Nozzles
   Availability: Available
@@ -34221,7 +34215,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/X2-G8-7L-LuerLok_Integreated-Nut.png?v=1756319770
     Price: $1,899.99 USD
 - [Maven Kit Replacement Mixing Tips and Nozzles – Perigee Direct](https://www.perigeedirect.com/products/replacement-nozzles-tips-for-the-maven-underwater-pool-repair-kit): Shop replacement nozzles for Maven pool repair kits at Perigee Direct delivering proper fit and reliable performance for underwater applications.
-  Updated: 2026-02-14T19:45:43Z
+  Updated: 2026-02-23T22:30:47Z
   Vendor: Maven Adhesives
   Product Type: Underwater Pool Repair Kit
   Availability: Available
@@ -34239,7 +34233,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Replacement-Nozzles-for-Underwater-Pool-Repair-Kit.jpg?v=1758996792
     Price: $49.99 USD
 - [Boabond Industrial Hybrid Adhesive – Perigee Direct](https://www.perigeedirect.com/products/boabond-industrial-flexible-hybrid-adhesive): Discover Boabond hybrid adhesive at Perigee Direct. Flexible hybrid formula for strong bonds on multiple materials. Request pricing today.
-  Updated: 2026-02-14T00:10:12Z
+  Updated: 2026-02-17T21:47:26Z
   Vendor: BoaBond
   Product Type: 
   Availability: Available
@@ -34256,15 +34250,23 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Extra_Nozzles.png?v=1759080312
     Price: $5.99 USD
+  - [short shelf life ( 1-3 mths left )](https://www.perigeedirect.com/products/boabond-industrial-flexible-hybrid-adhesive?variant=47807458476286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/BoaBond.png?v=1759000319
+    Price: $8.99 USD
+  - [Recently Expired](https://www.perigeedirect.com/products/boabond-industrial-flexible-hybrid-adhesive?variant=47807465718014)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/BoaBond.png?v=1759000319
+    Price: $5.99 USD
 - [Twist-Lock Pneumatic Regulator, 70 PSI Output – Perigee Direct](https://www.perigeedirect.com/products/pneumatic-air-pressure-regulator-top-twist-adjust-with-locking-nut): Shop pneumatic air pressure regulators at Perigee Direct with top twist adjustment and locking nut for stable tool airflow and control.
-  Updated: 2026-02-14T00:10:13Z
+  Updated: 2026-02-17T21:47:27Z
   Vendor: Maven Pneumatic
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Pneumaticairpressureregulator_TopTwist-AdjustwithlockingnutFront.jpg?v=1758994261
   Price: $9.99 USD
 - [Xemex X2-C8-8S Ultra-High 62x Mix Nozzles – Perigee Direct](https://www.perigeedirect.com/products/xemex-x2-c8-8s-ultra-low-waste-ultra-high-62x-mix-mixing-nozzles-bell-style-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1-4-1-10-1): Explore Xemex X2-C8-8S ultra-low waste, ultra-high 62x mix nozzles for 2-part cartridges in 1:1, 2:1, 4:1, and 10:1 ratios.
-  Updated: 2026-02-16T18:05:38Z
+  Updated: 2026-02-23T17:35:50Z
   Vendor: ReMixers Xemex
   Product Type: Mixing Nozzles
   Availability: Available
@@ -34318,14 +34320,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Xemex-C-System-X2-B8-7L-Nozzle-with-Luer-Lok-Adapter.jpg?v=1753724032
     Price: $1,899.99 USD
 - [DOWSIL 3140 Clear RTV Coating 90ml Tube](https://www.perigeedirect.com/products/dowsil-3140-clear-rtv-coating): Shop Dowsil 3140 clear RTV coating at Perigee Direct for flexible protective sealing, delivering durable moisture resistance and optical clarity.
-  Updated: 2026-02-14T00:10:18Z
+  Updated: 2026-02-17T21:47:32Z
   Vendor: Dowsil
   Product Type: Silicone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/dowsil314090mlclear.jpg?v=1758997112
   Price: $65.99 USD
 - [Bron BT-795 Hazard Stripe Vinyl Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-795-vinyl-tape-hazard-safety-stripe-strong-bond-anti-abrasion-waterproof): Shop Bron BT 795 vinyl hazard tape at Perigee Direct for safety marking, delivering waterproof, abrasion-resistant bonding with bold stripes.
-  Updated: 2026-02-14T00:10:19Z
+  Updated: 2026-02-17T21:47:33Z
   Vendor: Bron Tapes
   Product Type: Vinyl Tape
   Availability: Available
@@ -34339,7 +34341,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/BronBT-795_A.jpg?v=1752863226
     Price: $108.33 USD
 - [Bron BT-3089 Vinyl Tape Waterproof & Durable – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-3089-vinyl-tape-multi-purpose-strong-bond-anti-abrasion-waterproof-multiple-colors): Shop Bron BT 3089 vinyl tape at Perigee Direct for multipurpose bonding, delivering waterproof, abrasion-resistant performance in many colors.
-  Updated: 2026-02-14T00:10:21Z
+  Updated: 2026-02-17T21:47:35Z
   Vendor: Bron Tapes
   Product Type: Vinyl Tape
   Availability: Available
@@ -34377,7 +34379,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-BT-3089_Vinyl-Tape-BLACK.jpg?v=1758994341
     Price: $90.33 USD
 - [Araldite TDR 1100 Resins & Hardeners – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-tdr-1100-11-resins-hardeners-680108-680308): Discover Araldite TDR1100 at Perigee Direct. Resin and hardener system for durable bonds in industrial applications. Talk to our team today.
-  Updated: 2026-02-14T00:10:23Z
+  Updated: 2026-02-17T21:47:37Z
   Vendor: Araldite
   Product Type: 
   Availability: Available
@@ -34445,7 +34447,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Screenshot2024-06-21095026.jpgTYPECCHARGER_40a1bf1d-9d79-414f-8065-b8af4ed42641.jpg?v=1753726008
     Price: $14.99 USD
 - [Meritool 1020-029 Spare Charger for 7000-Series | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-spare-charger-1020-029-for-all-7000-series-20v-cordless-dispensers): Shop Meritool PowerPush spare chargers at Perigee Direct to keep 7000 series cordless dispensers powered and ready on the job.
-  Updated: 2026-01-26T14:37:34Z
+  Updated: 2026-02-23T23:25:33Z
   Vendor: Meritool PowerPush
   Product Type: Battery & Charger
   Availability: Available
@@ -34467,7 +34469,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Meritool-PowerPush-7000-Series-Charger-1020-029.jpg?v=1756317067
     Price: $72.00 USD
 - [Type-V Caulk Nozzle for Thick Viscous Adhesives – Perigee Direct](https://www.perigeedirect.com/products/type-v-wide-seaming-nozzle-for-thick-viscosity-10oz-caulking-tubes): Shop Type V wide seaming nozzles for thick-viscosity materials, designed for clean seams and controlled flow from 10oz tubes.
-  Updated: 2026-02-14T00:10:25Z
+  Updated: 2026-02-17T21:47:39Z
   Vendor: Maven Mixing
   Product Type: Caulk Nozzle
   Availability: Available
@@ -34501,7 +34503,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Extra_Nozzles.png?v=1759080312
     Price: $999.99 USD
 - [Standard 4 Inch Caulk Nozzle for 10oz Caulking Tubes](https://www.perigeedirect.com/products/standard-4-inch-caulk-nozzle-for-10oz-caulking-tubes): Shop standard 4-inch caulk nozzles at Perigee Direct for smooth controlled flow from 10oz caulking tubes in construction and maintenance.
-  Updated: 2026-02-14T00:10:27Z
+  Updated: 2026-02-17T21:47:41Z
   Vendor: Maven Mixing
   Product Type: Caulk Nozzle
   Availability: Available
@@ -34534,21 +34536,21 @@
     Availability: Available
     Price: $1,249.99 USD
 - [Meritool 9000-200M-EXT-KIT 12V Cordless Dispenser | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-9000-200m-ext-kit-12v-battery-powered-cordless-dispenser-for-all-200ml-ratios-1-1-2-1-4-1-10-1-2-part-cartridges): Shop Meritool PowerPush 9000 cordless dispenser for 200ml cartridges supporting 1:1, 2:1, 4:1, and 10:1 ratios in controlled two-part adhesive use.
-  Updated: 2026-01-26T14:37:28Z
+  Updated: 2026-02-21T08:49:36Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/9000-200-EXT.jpg?v=1752861856
   Price: $349.99 USD
-- [Meritool 9000-Series Battery #1010-018 12V | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-spare-battery-1010-018-for-all-9000-series-12v-cordless-dispensers): Shop Meritool PowerPush spare batteries at Perigee Direct for 9000 series dispensers delivering extended runtime and cordless efficiency.
-  Updated: 2026-01-26T14:37:31Z
+- [Meritool 9000-Series Battery #1010-021 12V | Perigee Direct](https://www.perigeedirect.com/products/meritool-powerpush-spare-battery-1010-021-for-all-9000-series-12v-cordless-dispensers): Shop Meritool PowerPush spare batteries at Perigee Direct for 9000 series dispensers delivering extended runtime and cordless efficiency.
+  Updated: 2026-02-23T23:25:38Z
   Vendor: Meritool PowerPush
   Product Type: Battery & Charger
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Meritool-PowerPush-7000-Series-Battery-1010-018.jpg?v=1752863760
-  Price: $94.99 USD
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MeritoolPowerPush900012VBatterh1010-021Front.jpg?v=1771694677
+  Price: $59.99 USD
 - [Maven EA2019 120-Min High Strength Gel Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-ea2019-120-min-set-high-strength-toughened-epoxy-gel-backup-for-araldite-2019): Shop Maven EA2019 epoxy gel at Perigee Direct for high-strength, toughened bonding with long working time for structural and industrial applications.
-  Updated: 2026-02-14T00:10:30Z
+  Updated: 2026-02-19T22:30:57Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -34586,7 +34588,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-EA2019---2-1-Ratio-400ml-Cartridge_Nozzle.jpg?v=1753729545
     Price: $25.00 USD
 - [Bron BT-50A Multi-Purpose Foil Tape – Perigee Direct](https://www.perigeedirect.com/products/bron-bt-50a-multi-purpose-aluminum-foil-tape-2inx-50yds-113838): Get BRON BT 50A at Perigee Direct for multipurpose aluminum foil tape in 2-inch by 50-yard rolls used for sealing, repairs and insulation work.
-  Updated: 2026-02-14T00:10:32Z
+  Updated: 2026-02-17T21:47:45Z
   Vendor: Bron Tapes
   Product Type: Foil Tape
   Availability: Available
@@ -34604,7 +34606,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [MixPac KMGQ-14-20E High-Flow Nozzle – Perigee Direct](https://www.perigeedirect.com/products/mixpac-kmgq-14-20e-154913-wide-high-flow-mixing-nozzle-with-snap-on-barb-extension-for-construction-chemical-anchoring): Shop Mixpac KMGQ high-flow mixing nozzles at Perigee Direct for anchoring chemicals, delivering wide flow and snap-on barb extensions.
-  Updated: 2026-02-04T16:05:45Z
+  Updated: 2026-02-18T15:25:40Z
   Vendor: MixPac
   Product Type: Mixing Nozzles
   Availability: Available
@@ -34638,28 +34640,28 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/KMGQ14-20E_154930_Nozzle_Extender.jpg?v=1761758306
     Price: $699.99 USD
 - [5 Gallon Round Blue Jerrycan (Carboy) Container with Lid](https://www.perigeedirect.com/products/5-gallon-round-blue-jerrycan-carboy-container-with-lid): Choose a five-gallon blue jerrycan at Perigee Direct for safe chemical storage or liquid handling using a round carboy container with secure lid.
-  Updated: 2026-02-14T00:10:33Z
+  Updated: 2026-02-17T21:47:46Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/S-17471BLU.webp?v=1753727905
   Price: $29.99 USD
 - [16oz HDPE Plastic Bottle with Cap – Perigee Direct](https://www.perigeedirect.com/products/16-oz-1-pint-natural-round-hdpe-plastic-bottle-24mm-outlet-with-included-24-410-white-ribbed-cap): Shop 16 oz HDPE plastic bottles at Perigee Direct for liquid storage delivering durable clear containers with secure ribbed caps.
-  Updated: 2026-02-14T00:10:33Z
+  Updated: 2026-02-17T21:47:47Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/16oz-Bottle-_-Cap-Empty.jpg?v=1753724195
   Price: $1.29 USD
 - [8 oz HDPE Bottle with Cap – Perigee Direct](https://www.perigeedirect.com/products/8-oz-1-2-pint-natural-round-hdpe-plastic-bottle-24mm-outlet-with-included-24-410-white-ribbed-cap): Buy the 8 oz HDPE plastic bottle at Perigee Direct with a 24mm outlet and 24 410 ribbed cap for secure storage of liquids and chemicals.
-  Updated: 2026-02-14T00:10:34Z
+  Updated: 2026-02-17T21:47:47Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/8oz-Bottle-_-Cap-Empty.jpg?v=1748817813
   Price: $1.09 USD
 - [4 oz HDPE Bottle with Cap – Perigee Direct](https://www.perigeedirect.com/products/4-oz-1-4-pint-118ml-natural-round-hdpe-plastic-bottle-24mm-outlet-with-included-24-410-white-ribbed-cap): Buy 4oz natural HDPE bottles at Perigee Direct with 24mm outlet and white ribbed caps for filling chemicals, coatings and small fluid samples.
-  Updated: 2026-02-14T00:10:36Z
+  Updated: 2026-02-17T21:47:48Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -34802,21 +34804,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Various-Dispenser-Piston-Disk-Full-Kit.png?v=1758998790
     Price: $49.99 USD
 - [ASI 174 Latex Sealant White 5.5oz](https://www.perigeedirect.com/products/asi-174-white-silicon-latex-sealant-for-construction-industrial-by-american-sealants-inc-5-5oz-squeezable-tube): Get ASI 174 sealant at Perigee Direct for white silicon latex sealing of construction joints and industrial gaps in a simple five-ounce squeezable tube.
-  Updated: 2026-02-14T00:10:36Z
+  Updated: 2026-02-17T21:47:49Z
   Vendor: Perigee Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/ASI-174.jpg?v=1750373001
   Price: $3.99 USD
 - [Petrolatum Tape Primer for corrosion proofing pipes](https://www.perigeedirect.com/products/petrolatum-tape-primer-for-corrosion-proofing-pipes): Shop petrolatum tape primer at Perigee Direct for pipe corrosion proofing that improves adhesion and sealing before applying wrap protection.
-  Updated: 2026-02-14T00:10:37Z
+  Updated: 2026-02-17T21:47:50Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PetrolatumTapePrimerPTP5.5_3017118.jpg?v=1753727664
   Price: $241.34 USD
 - [Bron GaffGun Floor Tape Applicator – Perigee Direct](https://www.perigeedirect.com/products/bron-gaff-gun-for-fast-floor-tape-applications-pro-elite-configurations): Shop Bron Gaff Gun at Perigee Direct for fast floor tape application, delivering speed, precision, and pro results for busy crews daily.
-  Updated: 2026-02-14T00:10:39Z
+  Updated: 2026-02-17T21:47:51Z
   Vendor: Bron Tapes
   Product Type: Gaffers Tape
   Availability: Available
@@ -34830,7 +34832,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/GaffGun_Platinum_Bundle.jpg?v=1753728830
     Price: $499.99 USD
 - [Maven ReelCore 12in Empty Reels & Spools – Perigee Direct](https://www.perigeedirect.com/products/maven-reelcore-empty-12-inch-reels-spools-4-lengths-4-6-10-13-in-sturdy-impact-resistant-hdpe-for-wires-cords-rope-hose-and-more): Shop Maven ReelCore empty reels at Perigee Direct for wire cord and hose storage delivering impact-resistant HDPE spool durability.
-  Updated: 2026-02-14T21:25:34Z
+  Updated: 2026-02-23T17:10:51Z
   Vendor: Maven Reel Core
   Product Type: Empty Spools
   Availability: Available
@@ -34872,21 +34874,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Spool-Core-13-inch-length-3-inch-diameter.jpg?v=1760203112
     Price: $8.99 USD
 - [COX AIRFLOW 1 VBA  158845 Regulator](https://www.perigeedirect.com/products/cox-airflow-1-vba-158845-regulator): Shop the Cox Airflow 1 VBA regulator to maintain precise pressure control and consistent dispensing across pneumatic adhesive systems.
-  Updated: 2026-02-14T00:10:42Z
+  Updated: 2026-02-17T21:47:55Z
   Vendor: Cox Dispensers
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AirFlow-1-Cartridge.jpg?v=1752865955
   Price: $44.95 USD
 - [Meritool PowerPush 9000 50A Kit](https://www.perigeedirect.com/products/meritool-powerpush-9000-50a-kit-12v-battery-powered-dispenser-for-50ml-a-type-square-back-two-part-cartridges-ratios-1-1-2-1-3-2): Shop Meritool PowerPush 9000 50A kit at Perigee Direct for cordless dispensing delivering precise control for 50ml two part cartridges.
-  Updated: 2026-01-26T14:37:29Z
+  Updated: 2026-02-23T23:12:37Z
   Vendor: Meritool PowerPush
   Product Type: Dispensers Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/9000-50_500pix-2_53f0e8e7-2286-46a4-864c-ab834ef7ae08.jpg?v=1756320676
   Price: $429.99 USD
 - [Maven EA-5120 Strength Epoxy](https://www.perigeedirect.com/products/maven-ea-5120-extreme-strength-epoxy-popular-for-bow-and-arrow-manufacturing-striking-tools-bridge-repairs-deck-repairs-potting-casting): Use Maven EA 5120 at Perigee Direct for extreme-strength epoxy used in bow builds, deck repair, potting and impact tooling.
-  Updated: 2026-02-16T21:10:53Z
+  Updated: 2026-02-23T20:30:46Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -34964,7 +34966,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MavenEA54750EpoxyAdhesiveSystem.jpg?v=1756319472
     Price: $1,999.99 USD
 - [Lord AP-134 Surface Enhancer](https://www.perigeedirect.com/products/lord-ap-134-adhesion-enhancer-surface-modifier-for-glass-ceramics-metals-e-coatings): Shop Lord AP 134 adhesion enhancer for improved bonding to glass, ceramics, metals and coatings with strong durable surface modification performance.
-  Updated: 2026-02-15T00:20:05Z
+  Updated: 2026-02-18T23:00:37Z
   Vendor: Lord
   Product Type: Primers
   Availability: Available
@@ -34998,7 +35000,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/LordAP-134GlassPrimer1gallonLOR3004049.jpg?v=1753725875
     Price: $8,499.99 USD
 - [Bron BT-519 Water Guard Waterproof Tape](https://www.perigeedirect.com/products/bron-bt-519-water-guard-permanent-waterproofing-tape-for-sealing-waterproofing-seams-and-leaks): Shop Bron BT 519 Water Guard tape at Perigee Direct for permanent waterproof sealing delivering reliable protection for seams leaks and repairs.
-  Updated: 2026-02-14T00:10:51Z
+  Updated: 2026-02-17T21:48:04Z
   Vendor: Bron Tapes
   Product Type: Waterproofing Tape
   Availability: Available
@@ -35024,21 +35026,21 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bron-2-in-Tape-Gun-BT-586_C-2_d1f4a108-7b9f-497f-ab4b-443fab879a07.jpg?v=1764086864
     Price: $14.99 USD
 - [Leister 161.111 Repair Part Triac 25A/800V Complete](https://www.perigeedirect.com/products/leister-161-111-repair-part-triac-25a-800v-complete): Discover the Leister 161.111 Triac repair part at Perigee Direct, a complete replacement designed for reliable, long-lasting tool performance. Order your repair kit today.
-  Updated: 2026-02-14T00:10:52Z
+  Updated: 2026-02-17T21:48:05Z
   Vendor: Leister
   Product Type: Replacement Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Leister-Replacement-Parts-Image_d7c23fdb-6690-427d-ae66-24602caffc31.jpg?v=1756315866
   Price: $21.99 USD
 - [Piston Tool for 50ml 1:1 Mixpac](https://www.perigeedirect.com/products/piston-insertion-tool-for-50-1-1-ratio-2-part-cartridges-mixpac-for-vented-pistons): Shop piston insertion tools at Perigee Direct designed for 50ml 1:1 ratio Mixpac cartridges, enabling clean vented piston installation and consistent adhesive flow.
-  Updated: 2026-02-14T00:10:52Z
+  Updated: 2026-02-19T15:30:38Z
   Vendor: Perigee Direct
   Product Type: Piston Insertion Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PistonInsertionTool50ML1-1Vented.png?v=1761499695
   Price: $25.50 USD
 - [Permabond 130UV Light  Glue](https://www.perigeedirect.com/products/permabond-130uv-dual-curing-uv-light-adhesive-super-glue-low-viscosity): Shop Permabond 130UV at Perigee Direct for dual-curing UV adhesive super glue that flows thin and cures fast under light for durable bonding.
-  Updated: 2026-02-14T00:10:54Z
+  Updated: 2026-02-17T21:48:07Z
   Vendor: Perigee Direct
   Product Type: UV Adhesive
   Availability: Available
@@ -35052,7 +35054,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/130-UV-1-X-1Litre.jpg?v=1756320765
     Price: $549.99 USD
 - [Paneltim Tripower PP Panels](https://www.perigeedirect.com/products/paneltim-tripower-polypropylene-structural-panels-sandwich-panels): Paneltim TriPower polypropylene sandwich panels deliver high stiffness at low weight. Hygienic, corrosion resistant, and easy to saw and machine.
-  Updated: 2026-02-14T00:10:57Z
+  Updated: 2026-02-17T21:48:10Z
   Vendor: Paneltim
   Product Type: Plastic Panels
   Availability: Available
@@ -35113,7 +35115,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/PaneltimPlasticPanelStandardColors.jpg?v=1756317869
     Price: $274.99 USD
 - [Premera HLT Moisture Barrier](https://www.perigeedirect.com/products/premera-hlt-moisture-vapor-barrier-primer-for-solid-impervious-surfaces-like-concrete-brick-clay-tiles): Shop Premera HLT primer at Perigee Direct for moisture vapor control delivering strong adhesion on concrete, brick, and impervious surfaces.
-  Updated: 2026-02-15T12:30:34Z
+  Updated: 2026-02-19T19:15:44Z
   Vendor: Premera Coatings
   Product Type: Protective Coatings & Sealants
   Availability: Available
@@ -35135,14 +35137,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/premera-hlt.jpg?v=1755887667
     Price: $799.99 USD
 - [Maven Polyolefin Bonding Torch](https://www.perigeedirect.com/products/maven-polyolefin-bonding-torch-fuel-not-included): Shop Maven polyolefin bonding torch at Perigee Direct for surface preparation delivering reliable flame  for difficult plastics.
-  Updated: 2026-02-14T00:10:59Z
+  Updated: 2026-02-17T21:48:11Z
   Vendor: Perigee Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/TorchWithBackground-Photoroom.jpg?v=1761499719
   Price: $17.99 USD
 - [50ml 3:2 Mixpac Piston Tool Kit](https://www.perigeedirect.com/products/piston-insertion-toolkit-for-50-3-2-ratio-2-part-cartridges-mixpac-airfree-diaphragm-style-pistons): Piston insertion tool for 50 ml 2:1 Mixpac AirFree cartridges. Faster setup, consistent seals, safer handling, and fewer assembly errors on line.
-  Updated: 2026-02-16T20:05:37Z
+  Updated: 2026-02-19T13:30:37Z
   Vendor: Maven Cartridges
   Product Type: Piston Insertion Tool
   Availability: Available
@@ -35156,14 +35158,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/GO-NO-GO-1-Photoroom-Photoroom.jpg?v=1761499666
   Price: $49.99 USD
 - [32 oz Black HDPE Bottle with Cap – Perigee Direct](https://www.perigeedirect.com/products/oil-quart-black-bottle-with-lid-32-oz-1-quart-hdpe-plastic-28-400-black-ribbed-cap): Shop 1-quart HDPE oil bottles at Perigee Direct for safe fluid storage delivering durable black containers with ribbed caps.
-  Updated: 2026-02-14T00:10:59Z
+  Updated: 2026-02-23T14:25:47Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Oil-Quart-Bottle-with-Lid--32oz-Black_aa926da5-dbb5-43f5-923f-675dedbe1e96.jpg?v=1758995716
   Price: $2.99 USD
 - [Maven MMA8005 Polyolefin Bonder](https://www.perigeedirect.com/products/maven-mma8005-polyolefin-bonder-bonds-polyethylene-polypropylene-nylon-high-strength-mma-adhesive): Shop Maven MMA8005 adhesive at Perigee Direct for strong polyolefin bonding delivering durable adhesion on PE PP nylon and challenging plastics.
-  Updated: 2026-02-14T00:11:02Z
+  Updated: 2026-02-23T17:36:07Z
   Vendor: Perigee Direct
   Product Type: 
   Availability: Available
@@ -35207,7 +35209,7 @@
     Availability: Not Available
     Price: $999.00 USD
 - [Maven Foam Rollers For Premera Application](https://www.perigeedirect.com/products/maven-foam-rollers-for-premera-application): Shop Maven foam rollers at Perigee Direct for Premera applications delivering even coating coverage and controlled surface preparation.
-  Updated: 2026-02-15T12:20:11Z
+  Updated: 2026-02-17T21:48:17Z
   Vendor: Perigee Direct
   Product Type: 
   Availability: Available
@@ -35229,14 +35231,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/6inreplacement_1c75fcdc-1491-4257-8b44-2ca7115e8c1d.jpg?v=1760203658
     Price: $1.99 USD
 - [Maven 8oz Fine Mist Spray Bottle HDPE – Perigee Direct](https://www.perigeedirect.com/products/maven-8oz-fine-mist-spray-bottle-hdpe-plastic-chemical-resistant-frost-white-with-lockable-nozzle): Shop Maven 8oz fine mist spray bottles at Perigee Direct for chemical-resistant HDPE storage delivering controlled spray with lockable nozzle.
-  Updated: 2026-02-15T12:20:14Z
+  Updated: 2026-02-17T21:48:18Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven8ozFineMistSprayBottle.jpg?v=1758995966
   Price: $4.99 USD
 - [Premera Invisible Armor Spray Containers – Perigee Direct](https://www.perigeedirect.com/products/premera-invisible-armor-acessories-bulk-spray-containers-for-premera-invisible-armor): Shop Premera Invisible Armor accessories at Perigee Direct including bulk spray containers supporting efficient protective coating application.
-  Updated: 2026-02-14T00:11:06Z
+  Updated: 2026-02-17T21:48:19Z
   Vendor: Perigee Direct
   Product Type: 
   Availability: Available
@@ -35250,7 +35252,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MediumSprayer.jpg?v=1760203818
     Price: $36.99 USD
 - [Maven MMA4605 1:1 Polyolefin Bonder Glue – Perigee Direct](https://www.perigeedirect.com/products/maven-mma4605-1-1-ratio-polyolefin-bonder-bonds-polyethylene-polypropylene-nylon-high-strength-mma-adhesive): Get Maven MMA4605 at Perigee Direct for polyolefin bonding in a 1-to-1 ratio formula that joins polyethylene, polypropylene and nylon with strength.
-  Updated: 2026-02-14T00:11:10Z
+  Updated: 2026-02-19T22:31:03Z
   Vendor: Perigee Direct
   Product Type: 
   Availability: Available
@@ -35320,7 +35322,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ML_Nozzle.jpg?v=1760203601
     Price: $65.00 USD
 - [JEP-14 Heavy Duty Degreaser NSF A1 Rated – Perigee Direct](https://www.perigeedirect.com/products/jep-14-heavy-duty-degreaser-cleaner-non-caustic-non-toxic-emulsifying-usda-a1-rated-safe-for-food-processing-equipment-nsf-a-1): Shop JEP 14 heavy-duty degreaser at Perigee Direct for non-toxic USDA A1 cleaning safe for food processing equipment and industrial use.
-  Updated: 2026-02-14T00:11:12Z
+  Updated: 2026-02-17T21:48:25Z
   Vendor: Jep14
   Product Type: Cleaner
   Availability: Available
@@ -35349,7 +35351,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Bank-Surcharges-International-Wire-Surcharge.jpg?v=1759859906
   Price: $30.00 USD
 - [Newborn DuraCore 250 All-Metal Caulk Gun – Perigee Direct](https://www.perigeedirect.com/products/newborn-duracore-250-caulking-gun-all-metal-extremely-durable-18-1-thrust-ratio): Shop Newborn Duracore 250 caulking  at Perigee Direct for all-metal durability and high thrust performance on tough materials.
-  Updated: 2026-02-14T00:11:12Z
+  Updated: 2026-02-17T21:48:26Z
   Vendor: Newborn Dispensers
   Product Type: Caulk Gun
   Availability: Available
@@ -35363,7 +35365,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/178.040A.jpg?v=1761499170
   Price: $1,590.00 USD
 - [SG300-OW-5 Off-White 5 Min MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg300-ow-5-off-white-5-minute-high-strength-toughened-in-50ml-or-490ml-10-1-mma-methacrylate-adhesive): Rapid-set SG300-OW-5 delivers a 10:1 mix high-strength bond in just 5 minutes. Ideal for demanding substrates and tight turnaround.
-  Updated: 2026-02-16T21:40:38Z
+  Updated: 2026-02-20T14:20:38Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -35405,7 +35407,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/sg300ow490mlnozzle.png?v=1753723771
     Price: $60.00 USD
 - [SciGrip SG300-B05 Black 5-Min MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg300-b-05-black-5-minute-high-strength-toughened-490ml-10-1-mma-methacrylate-adhesive): SG300-B05 black MMA adhesive delivers rapid 5-minute bonding for plastics, metals, and composites. Tough, high-strength results every time.
-  Updated: 2026-02-14T00:11:18Z
+  Updated: 2026-02-17T21:48:31Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -35447,7 +35449,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/SciGrip-SG300-Black-490ml-Cartridge_Nozzle_081c66ce-108d-469c-927d-8b31d87ddbee.jpg?v=1758994650
     Price: $45.00 USD
 - [SciGrip SG300-B15 Black 15-Min MMA Adhesive – Perigee Direct](https://www.perigeedirect.com/products/scigrip-sg300-b-15-black-15-minute-high-strength-toughened-490ml-10-1-mma-methacrylate-adhesive): SG300-B15 black MMA adhesive bonds metals, plastics, and composites. 15-minute work time, high strength, and durable performance.
-  Updated: 2026-02-14T00:11:19Z
+  Updated: 2026-02-17T21:48:33Z
   Vendor: SciGrip
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -35469,7 +35471,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/SciGrip-SG300-Black-490ml-Cartridge_Nozzle_081c66ce-108d-469c-927d-8b31d87ddbee.jpg?v=1758994650
     Price: $45.00 USD
 - [LORD 7545 A/G 1-2 Urethane Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-g-fast-set-1-2-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Order LORD 7545 at Perigee Direct for a one to two-minute fast-set urethane system used for thick, nonsag bonding on primed metals and plastics.
-  Updated: 2026-02-14T00:11:21Z
+  Updated: 2026-02-18T15:45:58Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -35495,7 +35497,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/AGNozzle_Cartridge.jpg?v=1761586102
     Price: $15.00 USD
 - [LORD 7545 A/B Fast Set Urethane Adhesive – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-b-fast-set-3-5-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Shop Lord 7545 A/B fast-set urethane adhesive at Perigee Direct for non-sag, high-strength bonding with a reliable 3-5 minute set time.
-  Updated: 2026-02-14T00:11:24Z
+  Updated: 2026-02-19T22:30:48Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -35541,7 +35543,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/lord-7545-adhesive-a-b-black-200ml.webp?v=1761586108
     Price: $38.00 USD
 - [LORD 7545 A/B Black 3-5 Min Urethane – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-b-black-fast-set-3-5-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Shop LORD 7545 A/B fast-set urethane adhesive at Perigee Direct for non-sag structural bonding delivering rapid strength on plastics and metals.
-  Updated: 2026-02-14T00:11:28Z
+  Updated: 2026-02-17T21:48:41Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -35603,7 +35605,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.3_c3818ed8-cf9c-40f3-886c-922623f2cae8.webp?v=1761586105
     Price: $100.00 USD
 - [LORD 7545 A/C Medium Set Urethane – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-c-medium-set-6-8-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Shop Lord 7545 A/C medium set urethane at Perigee Direct for high strength bonding of FRP plastics SMC and metals with thick non sag performance.
-  Updated: 2026-02-14T00:11:32Z
+  Updated: 2026-02-19T22:30:49Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -35665,7 +35667,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/2.3_b1595947-4580-465d-8be3-2810b089c7b5.webp?v=1761585730
     Price: $80.00 USD
 - [LORD 7545 A/D Medium Set Urethane – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-d-medium-set-10-20-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Shop LORD 7545 A D urethane adhesive at Perigee Direct for medium-set non-sag bonding delivering high strength on plastics, metals, and FRP.
-  Updated: 2026-02-14T00:11:34Z
+  Updated: 2026-02-17T21:48:47Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -35687,7 +35689,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/1.3_c3818ed8-cf9c-40f3-886c-922623f2cae8.webp?v=1761586105
     Price: $45.00 USD
 - [LORD 7545 A/E Slow Set Urethane System – Perigee Direct](https://www.perigeedirect.com/products/lord-7545-a-e-slow-set-22-40-minute-urethane-adhesive-system-thick-viscosity-non-sag-with-configurable-set-time-high-strength-for-frp-smc-plastics-primed-metals-powder-coating): Order Lord 7545 A/E slow-set urethane at Perigee Direct for structural bonding on FRP plastics and primed metals offering long working time.
-  Updated: 2026-02-16T19:00:37Z
+  Updated: 2026-02-17T21:48:49Z
   Vendor: Lord
   Product Type: Urethane
   Availability: Available
@@ -35774,7 +35776,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/WhatsAppImage2025-05-30at09.20.36_4fe79347.jpg?v=1752860336
     Price: $799.99 USD
 - [Maven EAF420 20-Min Black or White Epoxy – Perigee Direct](https://www.perigeedirect.com/products/maven-eaf420-black-medium-set-20-minute-epoxy-black-toughened-temp-resistant-20-minute-set-carbon-fiber-plastic-metal): Shop Maven EAF420 Black epoxy at Perigee Direct for toughened, temperature-resistant bonding of carbon fiber, plastics, and metals with a 20-minute set.
-  Updated: 2026-02-14T00:11:40Z
+  Updated: 2026-02-23T17:36:37Z
   Vendor: Maven Adhesives
   Product Type: Epoxy
   Availability: Available
@@ -35841,7 +35843,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Nordson7661023MultiRatioDispenser_750x750_750x300_0d1a2949-1ee8-437e-896a-f6ffe0ceec7c.jpg?v=1761931507
   Price: $130.67 USD
 - [Crestomer 1152PA Structural Adhesive – Perigee Direct](https://www.perigeedirect.com/products/crestomer-1152pa-structural-adhesive-urethane-acrylate-structural-ahesive): Shop Crestomer 1152PA structural adhesive at Perigee Direct for durable urethane acrylate bonding in demanding composite assemblies.
-  Updated: 2026-02-14T00:11:41Z
+  Updated: 2026-02-17T21:48:54Z
   Vendor: Scott Bader Crestomer
   Product Type: Urethane Acrylate
   Availability: Available
@@ -35870,7 +35872,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Varimat700AutomaticWeldingMachine.jpg?v=1762449507
   Price: $10,995.00 USD
 - [Surface Prep Cleaners By Chem-Set](https://www.perigeedirect.com/products/maven-surface-cleaners-by-chem-set): Shop Maven surface cleaners by Chem-Set at Perigee Direct for effective prep cleaning that improves adhesion and coating results.
-  Updated: 2026-02-14T00:11:43Z
+  Updated: 2026-02-17T21:48:55Z
   Vendor: Chem-Set
   Product Type: Cleaner
   Availability: Available
@@ -35897,7 +35899,7 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/MavenSR281.1inch_28mm_pressurerollertool.jpg?v=1763057679
   Price: $24.99 USD
 - [Bron Tape: Killer Bee® Premium Yellow Masking Tape](https://www.perigeedirect.com/products/bron-tape-killer-bee-premium-yellow-masking-tape): Shop BRON Killer Bee tape at Perigee Direct for premium yellow masking tape that delivers clean line control and surface-safe removal.
-  Updated: 2026-02-15T01:35:31Z
+  Updated: 2026-02-17T21:48:57Z
   Vendor: Bron Tapes
   Product Type: 
   Availability: Available
@@ -35915,7 +35917,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/tape_62cc2913-eca5-4e09-8e0a-25969c4a528f.jpg?v=1763057931
     Price: $18.99 USD
 - [3M DP125 Flexible 25-Min Epoxy Kit – Perigee Direct](https://www.perigeedirect.com/products/3m-scotch-weld-dp125-gray-flexible-temp-resistant-25-minute-set-epoxy-plastics-ceramics-wood-metals): Shop 3M Scotch-Weld DP125 Gray at Perigee Direct for flexible, temperature-resistant epoxy bonding plastics, ceramics, wood, and metals.
-  Updated: 2026-02-14T00:11:48Z
+  Updated: 2026-02-17T21:49:00Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -35977,7 +35979,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/3M-DP125-Gray-400ml-Cartridge-_-Nozzle.jpg?v=1763918367
     Price: $90.00 USD
 - [3M Scotch-Weld DP125 Epoxy 25 Min Set – Perigee Direct](https://www.perigeedirect.com/products/3m-scotch-weld-dp125-translucent-clear-flexible-temp-resistant-25-minute-set-epoxy-plastics-ceramics-wood-metals): Shop 3M Scotch-Weld DP125 epoxy at Perigee Direct for flexible clear bonding delivering temperature resistance and strong adhesion on mixed materials.
-  Updated: 2026-02-14T00:11:51Z
+  Updated: 2026-02-17T21:49:03Z
   Vendor: 3M Scotch-Weld
   Product Type: Epoxy
   Availability: Available
@@ -36030,14 +36032,14 @@
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Loctite_MR_2000_Extreme_Temperature_Repair_Putty_235579.jpg?v=1764004790
   Price: $109.99 USD
 - [Leister 123.561 Heating Element Type 32, 230V/1750W](https://www.perigeedirect.com/products/leister-123-561-heating-element-type-32-230v-1750w): Find the Leister 112.561 heating element at Perigee Direct. A dependable replacement part built for consistent 230V welding performance. Shop now.
-  Updated: 2026-02-14T00:11:52Z
+  Updated: 2026-02-17T21:49:04Z
   Vendor: Leister
   Product Type: Heating element
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/112.963.jpg?v=1756321220
   Price: $157.00 USD
 - [Permabond ET503 Fast-Set Epoxy Adhesive – Perigee Direct](https://www.perigeedirect.com/products/permabond-et503-5-minute-fast-setting-cold-temperature-curing-water-and-humidity-resistant-epoxy-adhesive): Shop Permabond ET503 at Perigee Direct for five-minute cold-temperature-curing epoxy that resists water and humidity on critical bonded joints.
-  Updated: 2026-02-14T00:11:54Z
+  Updated: 2026-02-17T21:49:07Z
   Vendor: PERMABOND
   Product Type: Epoxy
   Availability: Available
@@ -36075,7 +36077,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Permabond-ET505-400ml--Cartridge-Kit-With-Gun_fcf2423c-6bae-4295-9bef-101254eb065f.jpg?v=1764695923
     Price: $159.99 USD
 - [Araldite 2014-3 High Temp Epoxy Gel – Perigee Direct](https://www.perigeedirect.com/products/huntsman-araldite-2014-3-new-formula-high-temp-chemical-proof-epoxy-gel): Shop Huntsman Araldite 2014-3 epoxy gel at Perigee Direct for high-temperature, chemical-resistant bonding with strong durable adhesion.
-  Updated: 2026-02-16T21:10:44Z
+  Updated: 2026-02-23T20:30:47Z
   Vendor: Araldite
   Product Type: Epoxy
   Availability: Available
@@ -36129,14 +36131,14 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/200mlcartridgeonly.jpg?v=1768490568
     Price: $28.98 USD
 - [Bron Tapes BT-190 14-Day Clean Removal Painters Tape](https://www.perigeedirect.com/products/bron-tapes-bt-190-4-day-clean-removal-painters-tape): Get Bron BT 190 at Perigee Direct for clean removal painters tape that protects surfaces and removes after four days without residue.
-  Updated: 2026-02-14T00:11:55Z
+  Updated: 2026-02-17T21:49:08Z
   Vendor: Bron Tapes
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_8428fc80-cee8-4a3a-91c0-a2fbfb478cad.jpg?v=1765301093
   Price: $13.99 USD
 - [Weld-On 45 Tan Non-Sag MMA Adhesive 4:1 – Perigee Direct](https://www.perigeedirect.com/products/weld-on-scigrip-45-tan-thick-non-sag-mma-adhesive-for-primer-less-bonding-of-aluminum-metals-plastics-and-acrylics-5-6-minute-working-time-50ml-and-490ml-4-1-mix-ratio): Shop Weld-On SciGrip 45 at Perigee Direct for thick, non-sag MMA bonding on metals, plastics, and acrylics with primerless strength and fast work time.
-  Updated: 2026-02-14T00:11:58Z
+  Updated: 2026-02-17T21:49:11Z
   Vendor: Weld-On
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -36178,7 +36180,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Weld-On45_scigrip400ml.webp?v=1766165104
     Price: $39.00 USD
 - [SG2000 Large Gap Filling, Impact Resistant 1:1 MMA Structural Adhesive](https://www.perigeedirect.com/products/sg2000-extended-work-life-1-1-methacrylate-structural-adhesive): Shop SG2000 extended work life 1:1 methacrylate adhesive at Perigee Direct for strong structural bonds with longer open time and fast .
-  Updated: 2026-02-14T00:11:59Z
+  Updated: 2026-02-17T21:49:12Z
   Vendor: SciGrip
   Product Type: 
   Availability: Available
@@ -36196,7 +36198,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/400ML_f794fc17-02cb-40ea-b041-37a1ad309ca0.jpg?v=1766510321
     Price: $2,999.99 USD
 - [Maven Superglue Bottles 1oz & 2oz HDPE – Perigee Direct](https://www.perigeedirect.com/products/maven-empty-superglue-bottles-1oz-2oz-hdpe-plastic-chemical-resistant-frost-white-with-pin-cap): Shop Maven empty superglue bottles 1oz and 2oz at Perigee Direct for chemical-resistant HDPE packaging with pin caps for precise fills.
-  Updated: 2026-02-14T00:12:03Z
+  Updated: 2026-02-17T21:49:16Z
   Vendor: Maven Containers
   Product Type: Empty Containers
   Availability: Available
@@ -36258,7 +36260,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1oz_30ml_emptysupergluebottlewideside.jpg?v=1767806315
     Price: $1,499.99 USD
 - [Weld-On 40 Acrylic Bonding Adhesive VOC – Perigee Direct](https://www.perigeedirect.com/products/weld-on-40-reactive-acrylic-adhesive-low-voc): Buy SCIGRIP Weld-On 46C at Perigee Direct for primerless bonding of metals and acrylics with 15 minute fixture time for fast assembly work.
-  Updated: 2026-02-14T01:30:58Z
+  Updated: 2026-02-17T21:49:18Z
   Vendor: Weld-On
   Product Type: Acrylic (MMA)
   Availability: Available
@@ -36288,7 +36290,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Weld-On-40-Acrylic-Adhesive-1-Gallon.png?v=1767979488
     Price: $120.00 USD
 - [SynthoGlass Marine Emergency Repair Kit – Perigee Direct](https://www.perigeedirect.com/products/synthoglass-marine-emergency-hull-repair-kit-popular-with-coast-guard-navy-commercial-and-large-ships): Shop SynthoGlass marine emergency hull repair kit at Perigee Direct for fast onboard repairs with reinforced wraps for ships and marine crews.
-  Updated: 2026-02-14T00:12:06Z
+  Updated: 2026-02-17T21:49:19Z
   Vendor: SynthoGlass
   Product Type: Pipe Repair Wraps
   Availability: Available
@@ -36349,115 +36351,115 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Late-Fee-on-Past-Due-Invoice.jpg?v=1768411113
     Price: $220.00 USD
 - [STOP IT® PIPE REPAIR SYSTEM By InduMar (WHITE)](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar): Shop STOP IT pipe repair system by InduMar at Perigee Direct for quick leak repairs on pipes and hoses providing strong wrap and reliable .
-  Updated: 2026-02-14T00:12:09Z
+  Updated: 2026-02-18T18:29:38Z
   Vendor: InduMar
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
-  - [Fresh Batch / 2in X 4in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132280574)
+  - [Fresh Batch / 2in X 4ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132280574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $59.99 USD
-  - [Fresh Batch / 2in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132313342)
+  - [Fresh Batch / 2in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132313342)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $94.99 USD
-  - [Fresh Batch / 4in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132346110)
+  - [Fresh Batch / 4in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132346110)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $169.99 USD
-  - [Fresh Batch / 4in X 25in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132378878)
+  - [Fresh Batch / 4in X 25ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720132378878)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $249.99 USD
-  - [Short Shelf Life (1-3 Months) / 2in X 4in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134050046)
+  - [Short Shelf Life (1-3 Months) / 2in X 4ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134050046)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $49.99 USD
-  - [Short Shelf Life (1-3 Months) / 2in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134115582)
+  - [Short Shelf Life (1-3 Months) / 2in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134115582)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $79.99 USD
-  - [Short Shelf Life (1-3 Months) / 4in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134181118)
+  - [Short Shelf Life (1-3 Months) / 4in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134181118)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $129.99 USD
-  - [Short Shelf Life (1-3 Months) / 4in X 25in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134246654)
+  - [Short Shelf Life (1-3 Months) / 4in X 25ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134246654)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $209.99 USD
-  - [Recently Expired / 2in X 4in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134082814)
+  - [Recently Expired / 2in X 4ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134082814)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $39.99 USD
-  - [Recently Expired / 2in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134148350)
+  - [Recently Expired / 2in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134148350)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $69.99 USD
-  - [Recently Expired / 4in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134213886)
+  - [Recently Expired / 4in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134213886)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $119.99 USD
-  - [Recently Expired / 4in X 25in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134279422)
+  - [Recently Expired / 4in X 25ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar?variant=47720134279422)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $189.99 USD
 - [STOP IT® PIPE REPAIR SYSTEM By InduMar (BLACK)](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black): Shop STOP IT pipe repair system by InduMar Black at Perigee Direct for rapid leak sealing on pipes and hoses with tough wrap and fast .
-  Updated: 2026-02-14T00:12:13Z
+  Updated: 2026-02-18T18:30:31Z
   Vendor: InduMar
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
-  - [Fresh Batch / 2in X 4in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661042430)
+  - [Fresh Batch / 2in X 4ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661042430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $59.99 USD
-  - [Fresh Batch / 2in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661075198)
+  - [Fresh Batch / 2in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661075198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $94.99 USD
-  - [Fresh Batch / 4in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661107966)
+  - [Fresh Batch / 4in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661107966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $169.99 USD
-  - [Fresh Batch / 4in X 25in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661140734)
+  - [Fresh Batch / 4in X 25ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661140734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $249.99 USD
-  - [Short Shelf Life (1-3 Months) / 2in X 4in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661173502)
+  - [Short Shelf Life (1-3 Months) / 2in X 4ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661173502)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $49.99 USD
-  - [Short Shelf Life (1-3 Months) / 2in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661206270)
+  - [Short Shelf Life (1-3 Months) / 2in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661206270)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $79.99 USD
-  - [Short Shelf Life (1-3 Months) / 4in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661239038)
+  - [Short Shelf Life (1-3 Months) / 4in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661239038)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $129.99 USD
-  - [Short Shelf Life (1-3 Months) / 4in X 25in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661271806)
+  - [Short Shelf Life (1-3 Months) / 4in X 25ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661271806)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $209.99 USD
-  - [Recently Expired / 2in X 4in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661304574)
+  - [Recently Expired / 2in X 4ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661304574)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $39.99 USD
-  - [Recently Expired / 2in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661337342)
+  - [Recently Expired / 2in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661337342)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $69.99 USD
-  - [Recently Expired / 4in X 12in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661370110)
+  - [Recently Expired / 4in X 12ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661370110)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $119.99 USD
-  - [Recently Expired / 4in X 25in](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661402878)
+  - [Recently Expired / 4in X 25ft](https://www.perigeedirect.com/products/stop-it-pipe-repair-system-by-indumar-black?variant=47726661402878)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/r36743574ty76234.jpg?v=1769015912
     Price: $189.99 USD
 - [Xemex X2-F8-8S Low Waste Mixing Nozzles – Perigee Direct](https://www.perigeedirect.com/products/xemex-x2-f8-8s-ultra-low-waste-ultra-high-62x-mix-mixing-nozzles-f-system-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1): Shop Xemex X2-F8-8S F-system nozzles at Perigee Direct for precise mixing with minimal waste, ideal for large format 2-part cartridges.
-  Updated: 2026-02-14T00:12:16Z
+  Updated: 2026-02-17T21:49:29Z
   Vendor: ReMixers Xemex
   Product Type: Mixing Nozzles
   Availability: Available
@@ -36511,7 +36513,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Image1.jpg?v=1769188714
     Price: $1,749.99 USD
 - [Xemex X2-F10-8S ULW Mixing Nozzles, 62x – Perigee Direct](https://www.perigeedirect.com/products/xemex-x2-f10-8s-ultra-low-waste-ultra-high-62x-mix-mixing-nozzles-f-system-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1): Shop Xemex X2-F10-8S mixing nozzles at Perigee Direct to cut purge waste and deliver consistent 1:1 or 2:1 blends for 200ml to 1500ml packs.
-  Updated: 2026-02-14T00:12:19Z
+  Updated: 2026-02-23T17:35:48Z
   Vendor: ReMixers Xemex
   Product Type: 
   Availability: Available
@@ -36537,7 +36539,7 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Image1_65096291-7d0f-4603-b1c3-7d2cd016d95f.jpg?v=1769879908
     Price: $139.99 USD
   - [Stepped Tip X2-F10-8S / 1000 Bulk Case](https://www.perigeedirect.com/products/xemex-x2-f10-8s-ultra-low-waste-ultra-high-62x-mix-mixing-nozzles-f-system-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1?variant=47754388308222)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Image1_65096291-7d0f-4603-b1c3-7d2cd016d95f.jpg?v=1769879908
     Price: $1,166.99 USD
   - [Luer-Lok X2-F10-8S / Single Nozzle](https://www.perigeedirect.com/products/xemex-x2-f10-8s-ultra-low-waste-ultra-high-62x-mix-mixing-nozzles-f-system-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1?variant=47754388340990)
@@ -36561,11 +36563,11 @@
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Image1_65096291-7d0f-4603-b1c3-7d2cd016d95f.jpg?v=1769879908
     Price: $219.99 USD
   - [Luer-Lok X2-F10-8S / 1000 Bulk Case](https://www.perigeedirect.com/products/xemex-x2-f10-8s-ultra-low-waste-ultra-high-62x-mix-mixing-nozzles-f-system-for-larger-cartridges-like-200ml-400ml-600ml-1500ml-1-1-2-1?variant=47754388504830)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Image1_65096291-7d0f-4603-b1c3-7d2cd016d95f.jpg?v=1769879908
     Price: $1,833.99 USD
 - [InduMar AP-125 Adhesion Promoter For Polyethylene LSE Plastics](https://www.perigeedirect.com/products/indumar-ap125-adhesion-promoter-for-polyethylene-lse-plastics): Shop Indumar AP125 adhesion promoter at Perigee Direct to prep polyethylene and other LSE plastics for stronger bonding and fewer failures.
-  Updated: 2026-02-14T00:12:22Z
+  Updated: 2026-02-17T21:49:35Z
   Vendor: InduMar
   Product Type: 
   Availability: Available
@@ -36610,62 +36612,225 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Stop-It-AP125-Product-Data-Sheet.jpg?v=1770139125
     Price: $309.99 USD
+- [Cemedine Tile Ace JS – Joint Sealant – 10oz Cartridge](https://www.perigeedirect.com/products/cemedine-tile-ace-js-joint-sealant-10oz-cartridge): CEMEDINE TILE ACE JS is a high-performance, one-component, moisture-curing adhesive and joint sealant engineered with advanced KANEKA MS POLYMER® technology. This versatile product is specifically designed for the secure bonding and sealing of waterproof membranes, backer board seams, and tub surrounds. It provides a reliable, watertight seal and bond prior to the installation of decorative substrates on walls, making it an essential component for professional-grade interior and exterior waterproofing projects. Key Features & Benefits Ready-to-Use Formula: A one-component system that requires no mixing and is ready for immediate application. Eco-Friendly & Safe: Solvent-free with ultra-low VOC content (<0.1%) and very low odor, ensuring a safer environment for indoor applications. Exceptional Versatility: Suitable for both interior and exterior use on a wide variety of substrates. High Performance Bonding: Demonstrates excellent durability, adhesion, and sealing properties. Superior Flexibility: Features an elongation at break of 650%, allowing the joint to withstand significant movement. Rapid Processing: Quick-drying formula with a skin-over time of approximately 60 minutes and a 3mm  depth within 24 hours. Advantages Over Traditional Caulking Sealants TILE ACE JS offers several critical advantages over standard silicone or acrylic caulks by utilizing MS Polymer technology: Enhanced Substrate Compatibility: Unlike many traditional sealants that struggle with plastics or certain metals, TILE ACE JS achieves "Cohesive Failure" (the strongest bond type) on difficult surfaces like PVC, polycarbonate, ABS, stainless steel, and anodized aluminum. Environmental & User Safety: Many traditional caulks release strong odors or high VOCs; TILE ACE JS is solvent-free and maintains a near-zero VOC profile (<0.1%). Superior Elasticity: With 650% elongation, this sealant provides better long-term resistance to cracking and joint movement than standard decorative caulks. Dual Functionality: While traditional caulk is primarily for sealing gaps, TILE ACE JS is formulated as both a high-strength adhesive and a sealant, allowing it to bond waterproof membranes and backer boards directly. Technical Specifications Base Material: KANEKA MS POLYMER® Color: White Viscosity: 2,080,000 Cp at 1 rpm (73°F) Specific Gravity: 1.5 g/ml Hardness (ASTM C661): 29 Shore A Tensile Strength (ASTM D412): 1.62 MPa Application Temperature: 41°F to 95°F (5°C to 35°C) Temperature Resistance: -40°F to 194°F (-40°C to 90°C) Shelf Life: 12 months (unopened at 73°F) Suitable Applications & Directions Applications: Ideal for sealing screw holes, backer board seams, and bonding waterproof membranes in tub and shower surrounds. Substrates: Mortar, PVC, anodized aluminum, stainless steel, galvanized steel, glass, wood, ABS, polycarbonate, and core foam backer boards. Usage (Cartridge): Cut the tip, attach the nozzle, and apply using a standard caulking gun to bond or seal where waterproofing is required.
+  Updated: 2026-02-23T19:27:16Z
+  Vendor: Tile Ace
+  Product Type: Sealants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/10oz.webp?v=1771694335
+  - [Fresh Batch](https://www.perigeedirect.com/products/cemedine-tile-ace-js-joint-sealant-10oz-cartridge?variant=47812176150782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/10oz.webp?v=1771694335
+    Price: $19.99 USD
+  - [Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/cemedine-tile-ace-js-joint-sealant-10oz-cartridge?variant=47812176183550)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/10oz.webp?v=1771694335
+    Price: $15.99 USD
+  - [Recently Expired](https://www.perigeedirect.com/products/cemedine-tile-ace-js-joint-sealant-10oz-cartridge?variant=47812176216318)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/10oz.webp?v=1771694335
+    Price: $9.99 USD
+- [Tile Ace Max – Indoor/Outdoor shock resistant weather resistant Tile Adhesive for bonding tiles (MS Polymer based)](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based): TILE ACE MAX is a high-performance, professional-grade tile adhesive based on advanced KANEKA MS POLYMER® technology. Specifically engineered for both indoor and outdoor applications, this white, low-modulus adhesive provides superior bonding strength and flexibility, meeting ISO 14448:2016 specifications for exterior tile applications. It is proudly made in the USA. Key Features & Benefits Advanced Polymer Technology: Formulated with KANEKA MS POLYMER® for reliable, long-lasting performance. Extended Working Time: Offers a generous 60-minute open time and skin-over time (at 73°F), allowing for precise tile adjustment. Superior Flexibility: High elongation at break (80%) and low modulus design help accommodate structural movement and temperature fluctuations. Strong Cohesion: Demonstrates cohesion failure (CF) across various substrates, ensuring the bond itself is stronger than the internal forces of the adhesive. Weather Resistant: Designed for exterior use with a wide temperature resistance range from -40°F to 194°F. Ideal Applications & Substrates TILE ACE MAX is highly versatile and suitable for bonding a wide variety of materials, including: Masonry: Mortar. Ceramics: Porcelain and ceramic tiles. Metals: Anodized aluminum and stainless steel. Plastics: PVC, Polycarbonate, and ABS. Construction Boards: Foam core backer boards and pine wood. Glass: Standard glass surfaces. Technical Specifications Adhesive Type: MS Polymer Color: White Viscosity: 4,280,000 cp (at 1 rpm, 23°C) Specific Gravity: 1.2 g/ml Hardness: 50 Shore A (ASTM C661) Tensile Strength: 1.0 MPa (ASTM D412) Coverage: Approximately 25–30 sq.ft. per gallon using a 1/4" x 1/4" x 1/4" square-notch trowel. Application & Safety Information Application Temperature: Apply between 41°F and 95°F (5°C to 35°C). Storage: Store in original, unopened packaging in a cool, dry area between 50°F and 90°F (10°C to 32°C). Shelf Life: 12 months after date of production.
+  Updated: 2026-02-23T22:55:31Z
+  Vendor: Tile Ace
+  Product Type: Sealants
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/64538546ih452fvg55.webp?v=1771694308
+  - [20oz / Fresh Batch](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813338923262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/64538546ih452fvg55.webp?v=1771694308
+    Price: $14.99 USD
+  - [20oz / Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813338956030)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/64538546ih452fvg55.webp?v=1771694308
+    Price: $12.99 USD
+  - [20oz / Recently Expired](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813338988798)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/64538546ih452fvg55.webp?v=1771694308
+    Price: $9.99 USD
+  - [1 Gal / Fresh Batch](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813339021566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1242436.webp?v=1771694310
+    Price: $82.99 USD
+  - [1 Gal / Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813339054334)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1242436.webp?v=1771694310
+    Price: $72.99 USD
+  - [1 Gal / Recently Expired](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813339087102)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1242436.webp?v=1771694310
+    Price: $59.99 USD
+  - [3.5 Gal / Fresh Batch](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813339119870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1242436.webp?v=1771694310
+    Price: $250.99 USD
+  - [3.5 Gal / Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813339152638)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1242436.webp?v=1771694310
+    Price: $239.99 USD
+  - [3.5 Gal / Recently Expired](https://www.perigeedirect.com/products/tile-ace-max-indoor-outdoor-shock-resistant-weather-resistant-tile-adhesive-for-bonding-tiles-ms-polymer-based?variant=47813339185406)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/1242436.webp?v=1771694310
+    Price: $219.99 USD
+- [Cemedine Tile Ace PR – Panel Reinforcement Adhesive – 5 Gallon Pail (19.3KG)](https://www.perigeedirect.com/products/cemedine-tile-ace-pr-panel-reinforcement-adhesive-5-gallon-pail-19-3kg): TILE ACE MAX is a professional-grade, high-performance tile adhesive based on advanced KANEKA MS POLYMER® technology. Engineered for extreme reliability in both indoor and outdoor settings, this low-modulus white adhesive is specifically designed to meet ISO 14448:2016 specifications for exterior tile applications. Proudly made in the USA, it offers a superior alternative to traditional mortars for challenging installations. Key Features & Performance Advanced Flexibility: With an 80% elongation at break and a low-modulus design, this adhesive effectively absorbs structural movement and vibration. Exceptional Bond Strength: In hand peeling tests, TILE ACE MAX demonstrates Cohesion Failure (CF) across nearly all substrates—meaning the internal bond of the adhesive is stronger than the forces acting upon it. Generous Working Time: Provides a 60-minute open time and 60-minute skin-over time (at 73°F), allowing installers ample time for precise adjustments. Weather & Temperature Resistant: Built to withstand extreme environments, it maintains performance in temperatures ranging from -40°F to 194°F (-40°C to 90°C). Efficient  Rate: Reaches a  depth of 3.3 mm after just one day and 6.4 mm after seven days. Compatible Substrates TILE ACE MAX is highly versatile, achieving a cohesive bond with a wide variety of materials: Masonry & Ceramics: Mortar, porcelain, and ceramic tiles. Metals: Anodized aluminum and stainless steel. Plastics: PVC, Polycarbonate, and ABS. Construction Materials: Pine wood, glass, and foam core backer boards (noting material failure on backer boards, indicating the board will give way before the bond). Technical Specifications Property Value Adhesive Type MS Polymer Color White Hardness 50 Shore A (ASTM C661) Tensile Strength 1.0 MPa (ASTM D412) Coverage 25–30 sq. ft. per gallon (using 1/4" notched trowel) Application Temp 41°F to 95°F (5°C to 35°C) Shelf Life 12 months (unopened) Storage & Handling For optimal performance, store TILE ACE MAX in a cool, dry environment between 50°F and 90°F (10°C to 32°C).
+  Updated: 2026-02-23T19:26:44Z
+  Vendor: Tile Ace
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1.webp?v=1771608408
+  - [Fresh Batch](https://www.perigeedirect.com/products/cemedine-tile-ace-pr-panel-reinforcement-adhesive-5-gallon-pail-19-3kg?variant=47813385879806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1.webp?v=1771608408
+    Price: $359.99 USD
+  - [Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/cemedine-tile-ace-pr-panel-reinforcement-adhesive-5-gallon-pail-19-3kg?variant=47813385912574)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1.webp?v=1771608408
+    Price: $279.99 USD
+  - [Recently Expired](https://www.perigeedirect.com/products/cemedine-tile-ace-pr-panel-reinforcement-adhesive-5-gallon-pail-19-3kg?variant=47813385945342)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1.webp?v=1771608408
+    Price: $259.99 USD
+- [Cemedine Tile Ace UHT – Ultra High Tack Composite Panel to Wall Adhesive](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive): Product Overview TILE ACE UHT (Ultra High-Tack) is a premium, single-component, moisture-curing adhesive formulated with advanced Kaneka MS Polymer® technology. Specifically engineered for bonding large-format composite porcelain tiles to interior walls, it provides an exceptionally strong initial "grab" that often eliminates the need for mechanical fasteners or temporary supports. Proudly made in the USA, this adhesive significantly reduces installation time while maintaining a professional, long-lasting bond. Key Features & Benefits Ultra-High Initial Tack: Features a fast-grab, non-sag formula capable of holding composite tiles in place immediately upon application. Superior Efficiency: Requires only 8% coverage for typical reinforced porcelain tiles, saving material and labor costs. Bead-Only Application: Designed to hold panels securely via bead application, removing the labor-intensive need for full-surface troweling. Exceptional Flexibility: Boasts a remarkable 408% elongation at break, allowing the bond to withstand significant structural movement and vibration. Safety & Environment: Low-odor and low-VOC formula, making it ideal for confined interior installations. Professional Strength: Achieves high-tensile strength (3.0 MPa) and demonstrates cohesive failure across most substrates, ensuring the bond remains intact even under stress. Compatible Substrates TILE ACE UHT provides a permanent, cohesive bond (CF) with a wide range of materials, including: Ceramics: Large format composite porcelain tiles and ceramic tiles. Construction Materials: Mortar, gypsum board, and backer boards. Metals: Anodized aluminum and stainless steel. Plastics: PVC, ABS, Polystyrene, and PET. Glass: Standard glass surfaces. Technical Specifications Application & Storage Packaging: Available in 20oz. Foil (Sausage) Packs and 10oz. Cartridges. Usage: Designed for interior wall application only; not for use with non-composite porcelain tiles when using spot or bead bonding.  Time: Grouting can typically begin after 24 hours once the hardened state is confirmed. Storage: Store in a cool, dry place between 50°F and 90°F. Shelf life is 12 months in unopened packaging.
+  Updated: 2026-02-23T19:28:16Z
+  Vendor: Tile Ace
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1_11de0489-feed-4cdf-acc7-d8dfb4b2ea3b.webp?v=1771694697
+  - [10oz / Fresh Batch](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive?variant=47813409702142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1_11de0489-feed-4cdf-acc7-d8dfb4b2ea3b.webp?v=1771694697
+    Price: $11.99 USD
+  - [10oz / Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive?variant=47813409734910)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1_11de0489-feed-4cdf-acc7-d8dfb4b2ea3b.webp?v=1771694697
+    Price: $7.99 USD
+  - [10oz / Recently Expired](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive?variant=47813409767678)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/image_1_11de0489-feed-4cdf-acc7-d8dfb4b2ea3b.webp?v=1771694697
+    Price: $5.99 USD
+  - [20oz / Fresh Batch](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive?variant=47813409800446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/rtw7457678.png?v=1771694699
+    Price: $20.99 USD
+  - [20oz / Short Shelf Life (1-3 Mths Left)](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive?variant=47813409833214)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/rtw7457678.png?v=1771694699
+    Price: $15.99 USD
+  - [20oz / Recently Expired](https://www.perigeedirect.com/products/cemedine-tile-ace-uht-ultra-high-tack-composite-panel-to-wall-adhesive?variant=47813409865982)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/rtw7457678.png?v=1771694699
+    Price: $9.99 USD
+- [Maven Plunger Accessories 4:1 and 10:1 for Long B-System Cartridges – Perigee Direct](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-4-1-ratio-long-b-system-50ml-45ml-35ml-cartridges): Shop Maven manual hand plungers at Perigee Direct for 4:1 ratio Long Format 50ml cartridges delivering dependable dispensing for small-volume adhesives.
+  Updated: 2026-02-23T17:34:37Z
+  Vendor: Maven Dispensers
+  Product Type: Dispensing Plungers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Hand-Plunger-4-1-_-10-1-Horizontal.jpg?v=1753728170
+  - [Hand Plunger Accessory Pack](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-4-1-ratio-long-b-system-50ml-45ml-35ml-cartridges?variant=47816145142014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-50ml-Hand-Plunger-Accessory-Kit-4-1-_-10-1-ratio-_and-A-System-and-B-System.jpg?v=1756321188
+    Price: $8.99 USD
+  - [Just the Hand Plunger](https://www.perigeedirect.com/products/maven-small-manual-hand-plunger-accessories-for-4-1-ratio-long-b-system-50ml-45ml-35ml-cartridges?variant=47816145174782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Hand-Plunger-4-1-_-10-1-Horizontal.jpg?v=1753728170
+    Price: $6.99 USD
+- [Dispenser Kit 10:1 and 4:1 Ratio Long B-System 50ml – Perigee Direct](https://www.perigeedirect.com/products/caulking-gun-conversion-kit-for-both-4-1-10-1-ratio-long-b-system-50ml-cartridges-sleeve-plunger-copy): Find a 10:1 or 4:1 conversion kit for 50ml cartridges to enable controlled use with caulking dispensers, improving output consistency for two-part materials.
+  Updated: 2026-02-23T17:36:38Z
+  Vendor: Maven Dispensers
+  Product Type: Dispensing Caulking Adapter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/files/Maven-Caulking-Gun-Adapter-Kit-Assembled-View_c2bdf7e1-1604-4928-9543-8dfd7a444bb2.jpg?v=1752866022
+  Price: $10.00 USD
+- [MixPac MFQ 08-24T Quadro Nozzle 1:1 & 2:1 – Perigee Direct](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy): Shop Sulzer Mixpac MFQ 08-24T quadro nozzles at Perigee Direct for larger cartridges, delivering uniform mixing and reduced waste.
+  Updated: 2026-02-23T17:36:18Z
+  Vendor: MixPac
+  Product Type: Mixing Nozzles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+  - [Single Nozzle](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154292990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $2.29 USD
+  - [5-Pack](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154325758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $10.99 USD
+  - [10-Pack](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154358526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $15.99 USD
+  - [25-Pack](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154391294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $34.99 USD
+  - [50-Pack](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154424062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $74.99 USD
+  - [100-Pack](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154456830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $140.99 USD
+  - [Bulk 750-Box](https://www.perigeedirect.com/products/mixpac-mfq-08-24t-f-system-square-quadro-mixing-nozzle-for-1-1-2-1-ratio-larger-2-part-cartridges-200ml-225ml-250ml-380ml-400ml-copy?variant=47819154489598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1212/5762/products/Sulzer-Mixpac-1-1-_-2-1-Quadro-24-Element-8mm-ID-F-System-Mixing-Nozzle.jpg?v=1756319422
+    Price: $999.99 USD
 
 ## Collections
 
 - [Best Glass Adhesive - Adhesives for Glass](https://www.perigeedirect.com/collections/glass-adhesives): Shop glass bonding adhesive options, including transparent glue for glass and UV-resistant glass adhesive for lasting clarity. Contact Perigee Direct today!
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 28
 - [Temperature Resistant Adhesives](https://www.perigeedirect.com/collections/temperature-resistant-adhesives): Shop temperature resistant adhesives at Perigee Direct for high-heat bonding in industrial repairs metal plastics and demanding environments.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 146
 - [Clear Adhesives](https://www.perigeedirect.com/collections/crystal-clear-adhesives): Clear is an exceptionally popular adhesive color, for obvious reasons eh, lol. Give us a call and we can help pick the right ones for your project.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 98
 - [Best Plastic Bonding Adhesive - Adhesives for Plastics](https://www.perigeedirect.com/collections/adhesives-for-plastics): Shop glue for plastic, plastic bonding adhesive, and structural adhesive for plastics, including industrial plastic glue and plastic repair epoxy solutions.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T19:13:03Z
   Total Products: 397
 - [Popular Products](https://www.perigeedirect.com/collections/frequently-browsed-categories): Browse frequently viewed categories at Perigee Direct, offering top adhesives, tools, and accessories for industrial applications. Shop now.
-  Updated: 2026-02-16T22:16:54Z
-  Total Products: 991
+  Updated: 2026-02-23T23:26:02Z
+  Total Products: 988
 - [Samples](https://www.perigeedirect.com/collections/samples): It's prudent to try something isn't it? Give us a shout and we can help you select some samples for your project.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 158
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 159
 - [Adhesive Removers & Cleaners](https://www.perigeedirect.com/collections/adhesive-removers-cleaners): Shop adhesive removers and cleaners at Perigee Direct for safe residue removal delivering effective cleanup for industrial bonding and surfaces.
   Updated: 2026-02-04T12:01:22Z
   Total Products: 15
 - [Medium Setting Adhesives (8-30 minutes)](https://www.perigeedirect.com/collections/medium-setting-adhesives-8-30-minutes): Shop medium setting adhesives at Perigee Direct with 8 to 30 minute work times for strong bonds balanced  speed and smoother assembly.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 156
 - [Fast Setting Adhesives (4 to 6 minutes)](https://www.perigeedirect.com/collections/fast-setting-adhesives-4-to-6-minutes): Shop fast-setting adhesives at Perigee Direct with 4-to 6-minute  times ideal for quick repairs high throughput and reduced downtime.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 89
 - [Slow Setting Adhesives (45 minutes & longer)](https://www.perigeedirect.com/collections/slow-setting-adhesives-45-minutes-longer): Browse slow setting adhesives at Perigee Direct for long open time, accurate positioning, less rework, and strong durable bonds on builds.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 99
 - [Mixing Nozzles & Accessories](https://www.perigeedirect.com/collections/mixing-nozzles-accessories): Shop mixing nozzles and accessories at Perigee Direct for precise adhesive flow control compatible with multiple cartridge sizes ratios and materials.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 98
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 99
 - [Small Hand Plunger Dispensers – Perigee Direct](https://www.perigeedirect.com/collections/dispensers-applicators): Manual, pneumatic, and cordless dispensing  for 50 to 1500 ml cartridges, plus plungers and conversion kits for repeatable material flow.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 235
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 237
 - [Hardman Double-Bubble Single-Use Epoxy Packets](https://www.perigeedirect.com/collections/single-use-packets): Industry-Standard Single-Use Epoxy Packets.  The go-to for small jobs.  Virtually eliminates wasted/unused epoxy.
-  Updated: 2026-02-13T12:01:44Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 15
 - [Empty Cartridges - 2-Part - 50ml sizes](https://www.perigeedirect.com/collections/empty-cartridges-2-part-50ml-sizes): Shop empty 2 part 50ml cartridges at Perigee Direct for small batch adhesive dispensing with consistent mixing and minimal material waste.
-  Updated: 2026-02-14T12:01:45Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 14
 - [Threadlockers](https://www.perigeedirect.com/collections/threadlockers): Shop threadlockers for securing fasteners and preventing loosening from vibration, available in removable and permanent strength formulas.
-  Updated: 2026-02-06T12:01:53Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 25
 - [3M Scotch-Weld](https://www.perigeedirect.com/collections/3m-scotch-weld): Explore 3M Scotch-Weld adhesives for structural bonding, offering reliable performance across a range of substrates and applications.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 27
 - [Araldite Acrylic and Epoxy Solutions](https://www.perigeedirect.com/collections/araldite): Shop Araldite epoxy adhesive, acrylic, and polyurethane solutions at Perigee Direct. Trusted high-strength formulas for professional and industrial bonding.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 36
 - [Devcon](https://www.perigeedirect.com/collections/devcon): Explore Devcon adhesives for metal repair, epoxy bonding, and industrial maintenance with high strength and chemical resistance.
-  Updated: 2026-02-10T12:01:40Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 72
 - [Atlas Mounts](https://www.perigeedirect.com/collections/atlas-mounts): Find Atlas Mounts designed for secure, stable placement of cartridges and dispensers in professional adhesive workstations.
   Updated: 2026-02-12T12:01:38Z
@@ -36677,95 +36842,95 @@
   Updated: 2026-02-13T12:01:43Z
   Total Products: 77
 - [Dripless Dispensing ](https://www.perigeedirect.com/collections/dripless-dispensing-): Find Dripless dispensing  engineered for smooth adhesive application with less waste, built for professional-grade performance.
-  Updated: 2026-01-21T12:01:01Z
+  Updated: 2026-02-19T12:01:28Z
   Total Products: 7
 - [Hardman Double Bubble](https://www.perigeedirect.com/collections/hardman-double-bubble): Explore Hardman Double Bubble epoxy packets for fast, easy mixing of two-part adhesives in convenient single-use applications.
-  Updated: 2026-02-13T12:01:44Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 18
 - [Loctite](https://www.perigeedirect.com/collections/loctite): Browse Loctite adhesives and sealants trusted for threadlocking, gasketing, and structural bonding in industrial applications.
-  Updated: 2026-02-11T12:02:27Z
+  Updated: 2026-02-19T12:01:28Z
   Total Products: 35
 - [MixPac Dispensing Systems for Adhesives – Perigee Direct](https://www.perigeedirect.com/collections/mixpac): Shop our cartridges, manual dispensers, mixing nozzles, and Piston Insertion Tool for clean, controlled, high-performance adhesive mixing.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 140
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 141
 - [Nordson EFD Dispensing Products Collection – Perigee Direct](https://www.perigeedirect.com/collections/nordson-efd): Find Nordson EFD dispensing systems and tips for accurate, repeatable application of adhesives and fluids in critical workflows.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 41
 - [Plexus](https://www.perigeedirect.com/collections/plexus): Discover Plexus structural adhesives for bonding composites, plastics, and metals with strength and durability under stress.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 80
 - [Instant Adhesives (Super Glues, Cyanoacrylates)](https://www.perigeedirect.com/collections/instant-adhesives-super-glues-cyanoacrylates): Buy instant adhesives at Perigee Direct including industrial super glues for fast bonding on plastics, metals, rubber and composite materials.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 66
 - [Dispensing Tips](https://www.perigeedirect.com/collections/dispensing-tips): Precision dispensing tips and needles in 14 to 24 gauge, with variety packs. Compatible with epoxies for clean, accurate, controlled beads.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 32
 - [Permabond - Engineering Adhesives](https://www.perigeedirect.com/collections/permabond-engineering-adhesives): Shop Permabond engineering adhesives designed for high-performance bonding in electronics, automotive, and structural applications.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 150
 - [Empty Cartridges - 2-Part - 200ml & 250ml  sizes](https://www.perigeedirect.com/collections/empty-cartridges-2-part-200ml-sizes): Shop empty 2-part 200ml cartridges at Perigee Direct configured for 10:1 ratios to support high-ratio adhesive dispensing needs.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-19T12:01:29Z
   Total Products: 15
 - [Empty 2-Part Cartridges 400–490ml 10:1 – Perigee Direct](https://www.perigeedirect.com/collections/empty-cartridges-2-part-400ml-450ml-490ml-sizes): Shop empty 2-part cartridges in 400ml 450ml and 490ml sizes at Perigee Direct configured for 2:1 ratio adhesive systems.
   Updated: 2026-02-11T12:02:27Z
   Total Products: 16
 - [Empty Cartridges](https://www.perigeedirect.com/collections/empty-cartridges): Shop empty adhesive cartridges at Perigee Direct including multiple sizes ratios and systems to support efficient two part bonding and material control.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 77
 - [Plastic Welding Rods, Coils & Reels](https://www.perigeedirect.com/collections/plastic-welding-rods-coils-reels): Shop plastic welding rods coils and reels at Perigee Direct covering PVC ABS HDPE and PP for versatile repair needs.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 44
 - [Chemical Resistant Adhesives](https://www.perigeedirect.com/collections/chemical-resistant-adhesives): Shop chemical resistant adhesives at Perigee Direct for industrial bonding that withstands solvents chemicals and demanding conditions.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 97
 - [Mixing Nozzles - 50ml A-System (The Most Common Style)](https://www.perigeedirect.com/collections/mixing-nozzles-50ml-a-system-the-most-common-style): Shop A-System 50ml mixing nozzles at Perigee Direct the most common style for consistent mixing across epoxy acrylic and urethane products.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 15
 - [50ml Mixing Nozzles Gray & Pink – Perigee Direct](https://www.perigeedirect.com/collections/mixing-nozzles-50ml-b-system-s-system-with-a-gray-or-pink-cap): Shop 50ml mixing nozzles B-System and S-System at Perigee Direct in gray or pink cap options for reliable metering and smooth material flow.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 7
 - [3M EPX 50ml Nozzles (gray twist inlet)](https://www.perigeedirect.com/collections/3m-epx-50ml-nozzles-gray-twist-inlet): Shop 3M EPX 50ml gray twist inlet mixing nozzles at Perigee Direct for accurate metering and efficient mixing of two-part adhesives.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 7
 - [Mixing Nozzles for 200ml & 400ml Cartridges](https://www.perigeedirect.com/collections/mixing-nozzles-for-200ml-400ml-cartridges): Shop mixing nozzles for 200ml and 400ml cartridges at Perigee Direct for efficient blending of epoxies acrylics and urethanes.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 63
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 64
 - [Nozzles for 600ml–1500ml Cartridges – Perigee Direct](https://www.perigeedirect.com/collections/mixing-nozzles-for-600ml-800ml-1500ml-and-other-large-cartridges): Shop mixing nozzles for large cartridges at Perigee Direct including 600ml 800ml and 1500ml sizes for high volume applications.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 31
 - [50ml Mixing Nozzles (the most popular size)](https://www.perigeedirect.com/collections/50ml-mixing-nozzles): Shop 50ml mixing nozzles at Perigee Direct covering multiple ratios styles and materials for reliable small-batch adhesive dispensing.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 25
 - [3M Scotch-Weld EPX Dispensers & Plungers](https://www.perigeedirect.com/collections/3m-scotch-weld-epx-dispensers-plungers): Shop 3M EPX dispensers and plungers compatible with Scotch-Weld cartridges for accurate and efficient two-part adhesive dispensing.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 23
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 24
 - [PVC Welding Rods & Coils](https://www.perigeedirect.com/collections/pvc-welding-rods-coils): Shop PVC welding rods and coils at Perigee Direct for reliable repairs fabrication and consistent bonding across PVC applications.
-  Updated: 2026-02-13T12:01:44Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 13
 - [ABS Welding Rods & Coils](https://www.perigeedirect.com/collections/abs-welding-rods-coils): Shop ABS plastic welding rods and coils at Perigee Direct for durable repairs fabrication and color-consistent thermoplastic welding.
-  Updated: 2026-02-13T12:01:43Z
+  Updated: 2026-02-19T12:01:28Z
   Total Products: 5
 - [PP (Copolymer PPCO) Welding Rods & Coils](https://www.perigeedirect.com/collections/pp-copolymer-ppco-welding-rods-coils): PP copolymer welding rods and coils for strong, flexible repairs. Stock diameters and colors for tanks, trays, and polyolefin fabrication work.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-19T12:01:28Z
   Total Products: 5
 - [HDPE Welding Rods & Coils](https://www.perigeedirect.com/collections/hdpe-welding-rods-coils): Shop HDPE welding rods and coils at Perigee Direct for durable plastic repairs fabrication and consistent heat weld performance.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 11
 - [Variety Packs of Different Plastic Welding Rods & Coils](https://www.perigeedirect.com/collections/variety-packs-of-different-plastic-welding-rods): Shop plastic welding rod variety packs at Perigee Direct for multiple materials delivering flexibility for repairs fabrication and welding tasks.
-  Updated: 2026-01-13T15:13:20Z
+  Updated: 2026-02-19T12:01:28Z
   Total Products: 2
 - [Repair Wraps & Sheets](https://www.perigeedirect.com/collections/repair-wraps-sheets): Shop repair wraps and sheets designed for durable, high-strength fixes to pipes, hoses, and surfaces in emergency and permanent repairs.
-  Updated: 2026-02-12T12:01:37Z
+  Updated: 2026-02-22T04:50:20Z
   Total Products: 30
 - [LDPE Welding Rods & Coils](https://www.perigeedirect.com/collections/ldpe-welding-rods-coils): Shop LDPE welding rods and coils at Perigee Direct for flexible low-density polyethylene repairs with reliable bonding strength.
-  Updated: 2026-02-10T12:01:40Z
+  Updated: 2026-02-19T12:01:29Z
   Total Products: 5
 - [Pneumatic (Air) Dispensers](https://www.perigeedirect.com/collections/pneumatic-air-powered-dispensers): Shop pneumatic air-powered dispensers for fast, consistent application of one- and two-part adhesives in industrial settings.
-  Updated: 2026-02-13T12:01:43Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 99
 - [Maven Industrial Solutions](https://www.perigeedirect.com/collections/maven): Find industrial solutions from Maven products, including high-temp sealing, acrylic MMA adhesives, and plastic welding rods, backed by expert support.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 200
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 201
 - [Jensen Global](https://www.perigeedirect.com/collections/jensen-global): Find Jensen Global precision dispensing tips, syringes, and accessories for accurate application in adhesives and fluids.
   Updated: 2026-02-16T12:01:24Z
   Total Products: 25
@@ -36773,67 +36938,67 @@
   Updated: 2026-01-21T21:25:00Z
   Total Products: 14
 - [SynthoGlass Pipe Repair Systems](https://www.perigeedirect.com/collections/synthoglass-pipe-repair-systems): Shop SynthoGlass pipe repair systems at Perigee Direct for emergency structural pipe repairs with water-activated composite strength.
-  Updated: 2026-02-12T12:01:37Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 23
 - [Lord](https://www.perigeedirect.com/collections/lord): Shop LORD adhesives and bonding systems known for durability, flexibility, and strength across automotive and composite industries.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 86
 - [Empty Cartridges - 2-Part - 25ml and smaller](https://www.perigeedirect.com/collections/empty-cartridges-2-part-25ml-and-smaller): Shop empty 2-part cartridges 25ml and smaller at Perigee Direct in 1:1 ratios for precision dispensing low-volume and specialty uses.
-  Updated: 2026-02-13T12:01:43Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 10
 - [Explosive Ordinance Disposal (EOD & IED) Kits](https://www.perigeedirect.com/collections/explosive-ordinance-disposal-eod-ied-kits): Order explosive ordinance disposal kits at Perigee Direct for field-ready tools and materials supporting specialized controlled disposal work.
-  Updated: 2026-02-13T12:01:43Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 10
 - [Specialty Kits](https://www.perigeedirect.com/collections/specialty-kits): Shop specialty kits at Perigee Direct for curated adhesive welding and repair solutions delivering convenience across varied applications.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-22T04:50:20Z
   Total Products: 41
 - [Acrylic Adhesives (MMA)](https://www.perigeedirect.com/collections/acrylic-adhesives-mma): Shop acrylic MMA adhesives at Perigee Direct for high-strength bonding, delivering fast  performance across plastics and composites.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 171
 - [New Products & Additions](https://www.perigeedirect.com/collections/new-products-additions): Explore new product additions at Perigee Direct, showcasing the latest adhesives, tools, cartridges and industrial equipment for professionals. Browse now.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 2121
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 2128
 - [Short Shelf Life Discounts](https://www.perigeedirect.com/collections/deals-sales-discounts--expired-near-expiring): Shop deals sales discounts at Perigee Direct for  and near-expiring industrial products delivering savings on adhesives tools and supplies.
-  Updated: 2026-02-16T20:06:08Z
-  Total Products: 17
+  Updated: 2026-02-20T14:45:22Z
+  Total Products: 16
 - [ & Sales](https://www.perigeedirect.com/collections/-sales): Browse  sales at Perigee Direct. Save on adhesives cartridges welding tools and industrial supplies while quantities last. Shop now.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 128
 - [All Products](https://www.perigeedirect.com/collections/all-products): View the complete catalog of Perigee Direct products, featuring trusted brands and tools for adhesive application and repair projects.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 2157
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 2164
 - [Target Marketing - 200ml platform](https://www.perigeedirect.com/collections/target-marketing-200ml-platform): Explore Target Marketing's 200ml platform cartridges and systems designed for efficient two-part adhesive dispensing.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 92
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 93
 - [Best Epoxy Adhesive - Adhesives for Epoxy](https://www.perigeedirect.com/collections/epoxy): Shop epoxy adhesive, two-part epoxy adhesive, and structural epoxy glue for durable bonding. Explore our industrial epoxy resin and strong metal bonding epoxy solutions.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 181
 - [Urethane & Polyurethane (PUR) Adhesives](https://www.perigeedirect.com/collections/urethane-polyurethane-pur-adhesives): Explore urethane, polyurethane, and PUR adhesives designed for flexible, durable bonding in construction, automotive, and industrial uses.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 53
 - [Silicones & Silane Modified Polymers (SMP)](https://www.perigeedirect.com/collections/silicones-silane-modified-polymers-smp): Shop silicones and silane modified polymers (SMP) for flexible sealing, bonding, and weatherproofing in industrial environments.
   Updated: 2025-11-24T03:54:27Z
   Total Products: 13
 - [Primers & Accelerators](https://www.perigeedirect.com/collections/primers-accelerators): Shop primers and corrosion inhibitors formulated to enhance adhesion and protect metal surfaces in demanding environments.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 28
 - [10:1 ratio F System Nozzles & Cartridges](https://www.perigeedirect.com/collections/10-1-ratio-f-system-nozzles-cartridges): Browse 10:1 ratio F-System nozzles and cartridges for two-part adhesive dispensing, with options for various cartridge sizes and outputs.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 35
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 36
 - [Albion Dispensing ](https://www.perigeedirect.com/collections/albion-dispensing-): Shop Albion dispensing  for professional-grade adhesive applications with manual, pneumatic, and battery-powered options available.
   Updated: 2026-01-16T12:01:22Z
   Total Products: 66
 - [Hardwood & Flooring Repair Kits](https://www.perigeedirect.com/collections/hardwood-flooring-repair-kits): Explore hardwood flooring repair kits designed for quick, clean fixes to scratches, gaps, and damage in wood floors.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 7
 - [Best  Products](https://www.perigeedirect.com/collections/best--products): Discover best  products at Perigee Direct, featuring top adhesives, tools, and accessories trusted across industrial applications. Shop now.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 2130
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 2137
 - [Dupont Molykote](https://www.perigeedirect.com/collections/dupont-molykote): Shop Dow Corning silicone sealants and adhesives for waterproofing, gasketing, and bonding in industrial and construction settings.
   Updated: 2026-01-14T12:01:20Z
   Total Products: 2
 - [Hoiday Gifts 2021](https://www.perigeedirect.com/collections/hoiday-gifts-2021): Discover the Leister PT fillister head screw Triac S 100 267 at Perigee Direct, designed for secure fastening and long-term tool stability. Shop now.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-17T12:01:42Z
   Total Products: 4
 - [Maven Little Big Filler & Tools](https://www.perigeedirect.com/collections/maven-little-big-filler): Browse Maven Little Big Filler gap-filling adhesives and structural repair compounds ideal for large and small bonding jobs.
   Updated: 2026-02-06T12:01:53Z
@@ -36842,31 +37007,31 @@
   Updated: 2026-01-29T12:01:02Z
   Total Products: 60
 - [Leister Welding Tools Collection – Perigee Direct](https://www.perigeedirect.com/collections/leister): Shop Leister tools at Perigee Direct including heat , welding machines and full repair kits for flooring, roofing and plastic fabrication.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T19:13:03Z
   Total Products: 398
 - [MG Chemicals](https://www.perigeedirect.com/collections/mg-chemicals): Shop MG Chemicals for electronics-grade coatings, adhesives, and repair compounds formulated for precision and performance.
   Updated: 2026-02-04T12:01:22Z
   Total Products: 1
 - [Premera by Nukote Ionix Protective Coatings](https://www.perigeedirect.com/collections/premera-by-nukote-ionix): Browse Premera by Nukote Ionix surface treatments and sealers designed for long-lasting protection and coating system performance.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-18T12:01:32Z
   Total Products: 13
 - [Newborn Dispensers](https://www.perigeedirect.com/collections/newborn-dispensers): Discover Newborn dispensers for single and two-part adhesives, featuring manual and pneumatic options for controlled flow.
   Updated: 2026-02-06T12:01:51Z
   Total Products: 14
 - [Weldy Plastic Welding Tools Collection – Perigee Direct](https://www.perigeedirect.com/collections/weldy): Shop Weldy equipment at Perigee Direct for plastic welding tools and accessories delivering reliable performance for professional applications.
-  Updated: 2026-01-20T12:01:13Z
+  Updated: 2026-02-18T12:01:32Z
   Total Products: 28
 - [Meritool Battery-Powered Cordless Dispensers](https://www.perigeedirect.com/collections/meritool-battery-powered-cordless-dispensers): Shop Meritool battery-powered cordless dispensers at Perigee Direct for high thrust performance delivering mobility, precision, and efficiency for 2-part adhesive dispensing.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-20T19:59:30Z
   Total Products: 32
 - [Battery Powered Cordless Dispensers](https://www.perigeedirect.com/collections/battery-powered-cordless-dispensers): Discover cordless, battery-powered dispensers for efficient, portable adhesive application in demanding field or shop environments.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-20T19:59:30Z
   Total Products: 58
 - [California Air Tools](https://www.perigeedirect.com/collections/california-air-tools): Shop California Air Tools products at Perigee Direct for quiet efficient air compressors built for professional workshops.
   Updated: 2026-01-19T18:27:32Z
   Total Products: 94
 - [Air Compressors, Air Tools & Accessories](https://www.perigeedirect.com/collections/air-compressors-air-tools-accessories): Shop air tools and accessories including hoses, couplers, and fittings to support your compressor setup and improve efficiency.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 250
 - [Air Filters for Compressors](https://www.perigeedirect.com/collections/air-filters-for-compressors): Find high-quality air filters for compressors to keep your system clean, efficient, and protected from dust and debris.
   Updated: 2026-01-19T12:01:17Z
@@ -36878,7 +37043,7 @@
   Updated: 2025-09-15T11:23:22Z
   Total Products: 6
 - [Replacement Parts](https://www.perigeedirect.com/collections/replacement-parts): Browse replacement parts for dispensers, tools, and accessories to keep your adhesive systems running smoothly and efficiently.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 141
 - [Air Compressors](https://www.perigeedirect.com/collections/air-compressors): Explore Perigee Direct’s selection of air compressors engineered for consistent airflow and long-lasting performance in tough environments.
   Updated: 2025-09-15T11:23:22Z
@@ -36899,40 +37064,40 @@
   Updated: 2026-02-10T17:11:28Z
   Total Products: 6
 - [ReMixers Xemex Ultra-Low Waste Mixing Nozzles](https://www.perigeedirect.com/collections/xemex-ultra-low-waste-mixing-nozzles): Shop Xemex ultra-low-waste mixing nozzles at Perigee Direct for efficient adhesive mixing delivering reduced waste and consistent output.
-  Updated: 2026-02-14T12:01:45Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 7
 - [Ultra-Low Waste Mixers](https://www.perigeedirect.com/collections/ultra-low-waste-mixers): Shop ultra-low-waste mixers at Perigee Direct for clean two-part mixing across cartridge sizes with high-efficiency spiral and square designs.
-  Updated: 2026-02-14T12:01:45Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 9
 - [Ultra-Fast Setting Adhesives (15 seconds to 2 minutes)](https://www.perigeedirect.com/collections/ultra-fast-setting-adhesives-15-seconds-to-2-minutes): Shop ultra-fast-setting adhesives at Perigee Direct with  times from seconds to minutes for rapid assembly and time-critical repairs.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 79
 - [Low-Temp & Extreme-Cold Resistant Adhesives](https://www.perigeedirect.com/collections/low-temp-resistant-adhesives): Low Temperature resistance is a popular feature of adhesives. Here is a list of adhesives with good performance in extreme low temperatures.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 62
 - [Thick Non-Sag Thixotropic Adhesive Gels & Pastes](https://www.perigeedirect.com/collections/thick-non-sag-thixotropic-adhesives): Shop thick, nonsag, thixotropic adhesives at Perigee Direct for vertical bonding applications requiring strength control and gap filling.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 142
+  Updated: 2026-02-23T12:01:15Z
+  Total Products: 143
 - [Countertop & Solid Surface Adhesives](https://www.perigeedirect.com/collections/countertop-solid-surface-adhesives): Browse countertop and solid surface adhesives designed for seamless bonding in kitchen, bath, and commercial surface installations.
-  Updated: 2026-01-23T12:01:23Z
-  Total Products: 5
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 7
 - [Empty Cartridges - 2-Part - 600ml & 450ml sizes](https://www.perigeedirect.com/collections/empty-cartridges-2-part-600ml-450ml-sizes): Shop empty 2-part cartridges in 600ml and 450ml sizes at Perigee Direct for reliable adhesive storage dispensing and refill applications.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 7
 - [825ml–1500ml Empty Cartridges – Perigee Direct](https://www.perigeedirect.com/collections/empty-cartridges-2-part-largest-sizes-825ml-900ml-1200ml-1500ml-sizes): Shop large-size empty two-part cartridges at Perigee Direct supporting high-volume adhesive dispensing with specialized mix ratios.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 12
 - [Trivantage Bonding Tape Rolls – Perigee Direct](https://www.perigeedirect.com/collections/trivantage-bonding-tapes-white-black-flame-retardant-100yd-rolls-300ft): Shop Trivantage bonding tapes at Perigee Direct for durable installations delivering flame-retardant options in white or black rolls.
   Updated: 2026-01-12T19:55:37Z
   Total Products: 1
 - [FLUOROLUBE Corrosion Resistant Oils & Greases](https://www.perigeedirect.com/collections/fluorolube-corrosion-resistant-oils-greases): Shop Fluorolube corrosion-resistant oils and greases at Perigee Direct for high-temperature chemical resistance and long-lasting lubrication in harsh environments.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 2
 - [Lubricants: Oils & Greases](https://www.perigeedirect.com/collections/lubricants-oils-greases): Shop lubricants oils and greases at Perigee Direct for industrial maintenance solutions supporting machinery longevity and performance.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 7
 - [Ritter](https://www.perigeedirect.com/collections/ritter): Shop Ritter mixing and dispensing solutions at Perigee Direct for professional nozzle systems delivering consistent adhesive mixing performance.
-  Updated: 2026-01-29T12:01:02Z
+  Updated: 2026-02-19T12:01:29Z
   Total Products: 49
 - [Powder Coat](https://www.perigeedirect.com/collections/powder-coat): Explore powder coat options in various colors and sizes for durable, attractive finishes on metal, plastic, and composite parts.
   Updated: 2025-09-15T11:23:23Z
@@ -36941,22 +37106,22 @@
   Updated: 2025-09-27T18:28:21Z
   Total Products: 2
 - [Professional Flooring Supplies](https://www.perigeedirect.com/collections/professional-flooring-supplies): Shop professional flooring supplies at Perigee Direct including adhesives tools and accessories built for durable commercial installations.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 80
 - [Flooring Adhesives](https://www.perigeedirect.com/collections/flooring-adhesives): Find flooring adhesives designed for vinyl, wood, and tile installations with strong bond strength and long-lasting durability.
   Updated: 2025-09-15T11:23:23Z
   Total Products: 0
 - [MixPac MixCoat Spray Mixers & Tips](https://www.perigeedirect.com/collections/mixpac-mixcoat-spray-mixers-tips): Find MixPac spray mixers and tips designed for seamless two-part mixing and clean application with minimal material waste.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 6
 - [MixPac MixCoat Dispensers the 2-Part Spray Coating System](https://www.perigeedirect.com/collections/mixpac-mixcoat-dispensers-the-2-part-spray-coating-system): Explore MixPac MixCoat dispensers built for professional-grade spray coating, providing accuracy, durability, and smooth output.
   Updated: 2026-02-13T12:01:43Z
   Total Products: 5
 - [MixCoat 2-Part Spray Cartridges – Perigee Direct](https://www.perigeedirect.com/collections/mixpac-mixcoat-2-part-cartridges-for-the-spray-coating-system): Discover two-part MixPac MixCoat cartridges engineered for high-performance spray systems and consistent material delivery.
-  Updated: 2026-02-12T12:01:38Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 4
 - [MixCoat Dispenser Accessories – Perigee Direct](https://www.perigeedirect.com/collections/mixcoat-accessories-tubes-extenders-brushes-piston-ineserter-tools): Shop MixCoat accessories including tubes, extenders, brushes, pistons, and tools that improve coating system performance and results.
-  Updated: 2026-02-13T12:01:44Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 8
 - [Miralon Carbon Nanotube Materials, by Huntsman](https://www.perigeedirect.com/collections/miralon): Shop Miralon carbon nanotube materials at Perigee Direct for advanced conductivity reinforcement and high-performance applications.
   Updated: 2026-02-14T12:01:46Z
@@ -36971,31 +37136,31 @@
   Updated: 2026-01-30T12:01:19Z
   Total Products: 9
 - [Fast-Con Fasteners](https://www.perigeedirect.com/collections/fast-con-fasteners): Explore Fast-Con fasteners at Perigee Direct, a reusable stainless fastening system designed for secure, tool-free mechanical connections. Shop now.
-  Updated: 2026-01-29T12:01:02Z
+  Updated: 2026-02-18T12:01:32Z
   Total Products: 2
 - [Maven Invisible Armor](https://www.perigeedirect.com/collections/maven-invisible-armor): Shop Maven ExoCoat 1 coating systems for high-performance, protective surface applications requiring strength and chemical resistance.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 9
 - [LLDPE Welding Rods & Coils – Perigee Direct](https://www.perigeedirect.com/collections/lldpe-welding-rods-coils-linear-low-density-polyethylene): Shop LLDPE welding rods at Perigee Direct for linear low-density polyethylene repairs requiring toughness and flexibility.
-  Updated: 2026-01-31T12:01:36Z
+  Updated: 2026-02-19T12:01:29Z
   Total Products: 2
 - [Flexible PVC Welding Rods – Perigee Direct](https://www.perigeedirect.com/collections/pvc-flexible-welding-rods-popular-for-pvc-flooring-lvp-flooring-linoleum): Discover PVC flexible welding rods in Canada designed for strong floor repairs and smooth seam finishing across PVC materials. Shop now.
   Updated: 2026-02-07T12:02:05Z
   Total Products: 5
 - [Maven Plastics](https://www.perigeedirect.com/collections/maven-plastics): Find Maven plastics adhesives designed to bond nylon, ABS, and other challenging substrates with long-lasting durability.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 62
 - [MixCoat 2-part spray coating system by MedMix MixPac](https://www.perigeedirect.com/collections/mixcoat-by-medmix-mixpac): Browse MixCoat by Medmix MixPac for premium two-part coating solutions trusted by professionals in industrial spray applications.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 21
 - [Spray Coating Systems & Components](https://www.perigeedirect.com/collections/spray-coating-systems-components): Shop spray coating systems at Perigee Direct for components equipment and accessories delivering controlled application and consistent finishes.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 25
 - [Plastic Welding Tips & Nozzles](https://www.perigeedirect.com/collections/plastic-welding-tips-nozzles): Browse plastic welding tips and nozzles designed for precision work with compatible heat  and plastic welding tools.
   Updated: 2026-01-30T12:01:19Z
   Total Products: 35
 - [Plastic Welding Machines - Heat Welding Tools](https://www.perigeedirect.com/collections/plastic-welding-machines): Discover plastic welding machines, thermoplastic welders, and heat welding tools from Leister and Waldy, which are ideal for fabrication and plastic repair.
-  Updated: 2026-02-11T12:02:27Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 42
 - [Tarp & Banner Welding Machines](https://www.perigeedirect.com/collections/tarp-welding-machines): Shop tarp welding machines built for repairing and fabricating vinyl and thermoplastic tarps using heat-based welding technology.
   Updated: 2026-01-17T12:01:35Z
@@ -37007,32 +37172,32 @@
   Updated: 2025-11-04T12:01:21Z
   Total Products: 8
 - [Top Industrial Glue and Adhesives](https://www.perigeedirect.com/collections/all-adhesives): Shop industrial adhesives, epoxy, and high-strength adhesives from trusted brands at Perigee Direct; fast shipping, easy B2B setup, and expert support.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 530
 - [OrderlyEmails - Recommended Products](https://www.perigeedirect.com/collections/orderlyemails-recommended-products): Choose recommended products from Perigee Direct to simplify ordering with curated collections designed to support adhesive projects and repairs.
-  Updated: 2026-02-16T22:16:54Z
-  Total Products: 991
+  Updated: 2026-02-23T23:26:02Z
+  Total Products: 988
 - [In Stock SKUs](https://www.perigeedirect.com/collections/in-stock-skus): View all in-stock SKUs ready to ship from Perigee Direct, including adhesives, tools, dispensers, and accessories for immediate needs.
-  Updated: 2026-02-16T22:16:54Z
-  Total Products: 991
+  Updated: 2026-02-23T23:26:02Z
+  Total Products: 988
 - [SciGrip](https://www.perigeedirect.com/collections/scigrip): Explore SCIGRIP adhesives for bonding plastics, composites, and metals in marine, industrial, and fabrication applications.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 15
 - [Seakeeper exclusions](https://www.perigeedirect.com/collections/seakeeper-exclusions): View Seakeeper exclusions and product-specific information regarding availability, restrictions, and compatibility in your region.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 1
 - [Maven Adhesives](https://www.perigeedirect.com/collections/maven-adhesives): Explore Maven adhesives engineered for strong, reliable bonds in industrial, marine, and composite applications with various mix ratios.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 66
 - [Bron Tapes](https://www.perigeedirect.com/collections/bron-tapes): Order Bron tapes at Perigee Direct including sealing, glazing and painter tape rolls for packaging, masking and industrial surface protection.
-  Updated: 2026-02-07T12:02:04Z
+  Updated: 2026-02-17T12:01:42Z
   Total Products: 59
 - [Contact Adhesives (Spray Glues)](https://www.perigeedirect.com/collections/contact-adhesives): Shop contact adhesives for high-strength bonding on laminates, metals, and plastics where immediate tack and durable hold are required.
   Updated: 2025-09-27T18:26:37Z
   Total Products: 21
 - [Our Newest Products on Perigee Direct](https://www.perigeedirect.com/collections/newest-products): Shop the newest industrial adhesives, sealants, lubricants, and repair kits at Perigee Direct. Explore our latest product launches built for performance and reliability.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 2157
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 2164
 - [Anaerobic Adhesives & Sealants](https://www.perigeedirect.com/collections/anaerobic-adhesives-sealants): Shop anaerobic adhesives and sealants for locking, sealing, and gasketing applications where air-tight, durable bonds are required.
   Updated: 2026-01-30T12:01:19Z
   Total Products: 5
@@ -37046,7 +37211,7 @@
   Updated: 2026-01-24T12:01:24Z
   Total Products: 7
 - [Empty Spools (reels)](https://www.perigeedirect.com/collections/empty-spools-reels): Explore empty spools and reels for industrial use, perfect for winding wire, tubing, and materials in clean, organized formats.
-  Updated: 2026-02-12T12:01:37Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 3
 - [Maven Containers](https://www.perigeedirect.com/collections/maven-containers): Maven containers for lab and shop storage. HDPE bottles and wide-mouth jars with secure liners and caps for chemicals, adhesives, and parts.
   Updated: 2026-02-16T12:01:24Z
@@ -37058,11 +37223,11 @@
   Updated: 2025-10-08T17:50:48Z
   Total Products: 0
 - [Maven Empty Cartridge Accessories & Tools](https://www.perigeedirect.com/collections/maven-empty-cartridges): Maven empty cartridges and accessories in 1:1, 2:1, and 10:1 ratios. 50 to 1500 ml with pistons, caps, and nozzles for efficient dispensing.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-17T12:01:42Z
   Total Products: 25
 - [Maven Dispensers & Dispensing Accessories](https://www.perigeedirect.com/collections/maven-dispensers-dispensing-): Maven dispensers and  for one- and two-part materials. Manual and pneumatic models from 50 ml to 1500 ml for accurate, repeatable flow.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 17
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 19
 - [Maven Electrical Components](https://www.perigeedirect.com/collections/maven-electrical-components): Maven electrical components for builds and repairs. Terminals, connectors, and cable management to wire, route, and protect industrial systems.
   Updated: 2025-09-15T11:23:25Z
   Total Products: 1
@@ -37073,7 +37238,7 @@
   Updated: 2025-09-15T11:23:25Z
   Total Products: 3
 - [Maven Mixing Nozzles & Mixers](https://www.perigeedirect.com/collections/maven-mixing-nozzles-mixers): Maven mixing nozzles and static mixers for one- and two-part adhesives. Choose helix, square, super mixers for consistent results and less waste.
-  Updated: 2026-02-11T12:02:27Z
+  Updated: 2026-02-18T12:01:32Z
   Total Products: 14
 - [Maven Air Tools & Pneumatics](https://www.perigeedirect.com/collections/maven-air-tools-pneumatics): Maven air tools and pneumatics for shop and line work. Reliable regulators, hoses, fittings, and accessories for dependable compressed air.
   Updated: 2025-09-15T11:23:25Z
@@ -37085,7 +37250,7 @@
   Updated: 2025-10-24T22:18:23Z
   Total Products: 3
 - [Flooring Heat  & Welders](https://www.perigeedirect.com/collections/flooring-heat--welders): Flooring heat  and welders from Leister and Weldy. Precision temperature control and accessories for PVC seams, repairs, and detail work.
-  Updated: 2026-02-06T12:01:53Z
+  Updated: 2026-02-19T12:01:28Z
   Total Products: 13
 - [Floor Install Tools & Accessories](https://www.perigeedirect.com/collections/floor-install-tools-accessories): Floor install tools and accessories for pros. Rollers, trowels, cutters, and trim tools to speed installs and deliver clean, accurate finishes.
   Updated: 2026-01-16T12:01:22Z
@@ -37100,7 +37265,7 @@
   Updated: 2025-09-27T18:28:42Z
   Total Products: 0
 - [Duct Tapes](https://www.perigeedirect.com/collections/duct-tapes): Tough duct tapes for repair, bundling, and sealing. Select general-purpose to heavy-duty grades with strong adhesion, easy tear, and unwind.
-  Updated: 2026-01-29T15:41:51Z
+  Updated: 2026-02-22T04:50:21Z
   Total Products: 7
 - [Foil Tape (Aluminum & Copper)](https://www.perigeedirect.com/collections/foil-tape-aluminum-copper): Aluminum and copper foil tapes for HVAC, EMI/RFI shielding, and repairs. High-temperature adhesion, conformability, and UL-class options.
   Updated: 2025-10-29T11:01:04Z
@@ -37133,22 +37298,22 @@
   Updated: 2025-10-27T18:49:21Z
   Total Products: 1
 - [Hard-to-Bond Plastic Adhesives](https://www.perigeedirect.com/collections/adhesives-for-hard-to-bond-plastics-polyolefins-polyethylene-polypropylene-nylon-ptfe-etc): Explore adhesives for hard to bond plastics like polyethylene, polypropylene, nylon and PTFE, engineered to deliver strong, lasting bonds. Browse options today.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 33
 - [Adhesives for Rubber & Rubbery Plastics](https://www.perigeedirect.com/collections/adhesives-for-rubber-rubbery-plastics): Adhesives for rubber and elastomers, including flexible bonds and toughened epoxies. Formulas for nitrile, neoprene, TPU, and difficult surfaces.
-  Updated: 2026-02-15T12:03:36Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 35
 - [UV (Light ) Adhesives](https://www.perigeedirect.com/collections/uv-light--adhesives): UV light- adhesives for rapid assembly. On-demand curing for glass, plastics, electronics; clear, durable bond lines for faster production.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-19T12:01:29Z
   Total Products: 28
 - [Protective Coatings](https://www.perigeedirect.com/collections/protective-coatings-sealants): Protective coatings and sealants to resist wear, chemicals, and moisture. Epoxies, urethanes, and silicones for long term industrial protection.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 19
 - [Sealants](https://www.perigeedirect.com/collections/sealants): Industrial sealants for seams, gaps, joints. Silicone, polyurethane, and hybrid formulas that  fast and resist weather, chemicals, vibration.
-  Updated: 2026-02-06T12:01:53Z
-  Total Products: 16
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 18
 - [Heat  Epoxy](https://www.perigeedirect.com/collections/heat--epoxy): Heat- epoxies for high-strength bonds in harsh environments. Ideal for potting, encapsulating, and structural use at elevated temperatures.
-  Updated: 2026-02-04T12:01:22Z
+  Updated: 2026-02-22T12:01:35Z
   Total Products: 5
 - [Modified Epoxies, Silicones & Hybrid Adhesives](https://www.perigeedirect.com/collections/modified-epoxies-silicones-hybrid-adhesives): Modified epoxies, silicones, and hybrid adhesives for strong bonds on metals, plastics, and composites. Engineered for tough conditions.
   Updated: 2026-02-12T12:01:37Z
@@ -37163,131 +37328,131 @@
   Updated: 2026-02-14T12:01:46Z
   Total Products: 2
 - [Fall Repairs & Winterization Products](https://www.perigeedirect.com/collections/fall-repairs-winterization-produts): Shop fall repairs and winterization products, sealants, adhesives, tapes, and tools to prep equipment and facilities for all cold weather.
-  Updated: 2026-02-13T12:01:43Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 10
 - [Maven Kits](https://www.perigeedirect.com/collections/maven-kits): Shop Maven kits at Perigee Direct for curated adhesive and application solutions delivering convenience for repairs fabrication and maintenance.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-17T12:01:42Z
   Total Products: 3
 - [Crestomer & Crestafix](https://www.perigeedirect.com/collections/scott-bader-crestomer): Shop Scott Bader Crestomer structural adhesives and composite bonding solutions built for strength, flexibility, and demanding industrial use.
   Updated: 2025-12-26T22:57:13Z
   Total Products: 1
 - [Cold-Temperature & Cold-Weather Setting Adhesives](https://www.perigeedirect.com/collections/cold-temperature-cold-weather-setting-adhesives): Shop cold-temperature-setting adhesives at Perigee Direct designed to  reliably in winter conditions and support repairs in low-temperature environments.
-  Updated: 2026-02-12T12:01:37Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 7
 - [Aerospace & Defense](https://www.perigeedirect.com/collections/aerospace-defense): High-performance aerospace & defense adhesives, sealants, and specialty bonding solutions for critical applications from trusted industrial brands.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 762
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 765
 - [Artists & Artisans](https://www.perigeedirect.com/collections/artists-artisans): Discover supplies for artists and artisans including adhesives, resins, coatings, and tools designed for creative projects and fine craftsmanship.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 137
 - [Automotive Servicing & Repair](https://www.perigeedirect.com/collections/automotive-servicing-repair): Shop automotive servicing and repair supplies at Perigee Direct for adhesives, tapes, tools, and materials delivering durability for workshop repairs.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 1229
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 1232
 - [Cabinet & Woodworking](https://www.perigeedirect.com/collections/cabinet-woodworking): Shop cabinet and woodworking supplies with adhesives, sealants, finishes, and tools built for furniture, millwork, and detailed fabrication.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 352
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 354
 - [Chemical Industry](https://www.perigeedirect.com/collections/chemical-industry): Shop chemical industry solutions at Perigee Direct featuring industrial adhesives, sealants, dispensing tools, and accessories built for demanding applications.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 476
 - [Industrial Supply](https://www.perigeedirect.com/collections/industrial-supply): Shop industrial supply essentials with adhesives, dispensing equipment, safety gear, maintenance products, and tools for daily operations.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 2157
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 2164
 - [Individual](https://www.perigeedirect.com/collections/individual): Browse individual items from Perigee Direct: adhesives, cartridges, and supplies. Buy only what you need, with fast shipping and support.
   Updated: 2026-01-03T19:39:24Z
   Total Products: 0
 - [Transportation/Specialty Vehicle](https://www.perigeedirect.com/collections/transportation-specialty-vehicle): Shop transportation and specialty vehicle solutions at Perigee Direct offering industrial adhesives and materials built for vibration resistance and durability.
-  Updated: 2026-02-14T12:01:45Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 23
 - [50ml test](https://www.perigeedirect.com/collections/50ml-test): Shop 50ml epoxy adhesives like Loctite crystal clear and Maven fast set gel. Great for quick repairs in shop or field. Order online today.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 103
 - [Marine](https://www.perigeedirect.com/collections/marine): Shop marine industry supplies including adhesives, sealants, coatings, and repair materials built to perform in harsh marine environments.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 811
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 812
 - [Industrial Construction Adhesives](https://www.perigeedirect.com/collections/construction-building-services): Shop construction and building service supplies including adhesives, sealants, coatings, and tools built for structural strength and jobsite reliability.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 25
 - [Information Technology Services](https://www.perigeedirect.com/collections/information-technology-services): Shop information technology service solutions at Perigee Direct featuring adhesives, coatings, and tools designed for electronics, cabling, and hardware support.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 6
 - [General Manufacturing](https://www.perigeedirect.com/collections/general-manufacturing): Explore general manufacturing supplies, industrial adhesives, dispensing, safety, and maintenance products to keep production moving smoothly.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 1539
+  Updated: 2026-02-23T19:13:03Z
+  Total Products: 1542
 - [Petroleum Industry](https://www.perigeedirect.com/collections/petroleum-industry): Shop petroleum industry solutions at Perigee Direct featuring adhesives and sealants designed to withstand chemicals, heat, and demanding operating conditions.
   Updated: 2026-01-12T15:38:31Z
   Total Products: 0
 - [Electrical Services or Products](https://www.perigeedirect.com/collections/electrical-services-or-products): Shop electrical services and products at Perigee Direct including adhesives, coatings, and tools designed for insulation, conductivity, and reliability.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 401
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 404
 - [Government & Military](https://www.perigeedirect.com/collections/government-military): Shop government and military supplies at Perigee Direct for  adhesives and tools delivering reliability for critical applications.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 203
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 204
 - [Distributers & Resellers](https://www.perigeedirect.com/collections/distributers-resellers): Shop distributor and reseller programs at Perigee Direct to access industrial adhesives, tools, and supply solutions for growing businesses.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 611
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 613
 - [Metal Fabrication](https://www.perigeedirect.com/collections/metal-fabrication): Shop metal fabrication supplies at Perigee Direct for adhesives tools and materials delivering strength precision and durability in fabrication.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 874
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 877
 - [Automotive Service/Repair](https://www.perigeedirect.com/collections/automotive-service-repair): Shop automotive service supplies at Perigee Direct for adhesives, tapes, and tools, delivering durable solutions for repair bays and shops.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 1229
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 1232
 - [Military](https://www.perigeedirect.com/collections/military): Shop military-grade adhesives and equipment at Perigee Direct engineered to meet strict performance, durability, and mission-critical standards.
-  Updated: 2026-02-13T12:01:44Z
+  Updated: 2026-02-20T12:01:33Z
   Total Products: 18
 - [ Device/Prosthetics](https://www.perigeedirect.com/collections/-device-prosthetics): Shop  device and prosthetics supplies at Perigee Direct for adhesives and materials delivering precision and compliance-focused solutions.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 13
 - [Sign & Display](https://www.perigeedirect.com/collections/sign-display): Shop sign and display solutions at Perigee Direct with industrial adhesives, tapes, and tools designed for secure mounting and long-lasting presentation.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 529
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 532
 - [Fabrication](https://www.perigeedirect.com/collections/fabrication): Shop fabrication supplies including adhesives, plastics, tools, and equipment supporting cutting, forming, bonding, and assembly work.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 530
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 532
 - [Concrete](https://www.perigeedirect.com/collections/concrete): Shop concrete industry supplies including repair compounds, adhesives, coatings, and tools built for structural durability and performance.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 146
+  Updated: 2026-02-23T16:56:09Z
+  Total Products: 147
 - [LED/Electronics](https://www.perigeedirect.com/collections/led-electronics): Shop LED electronics solutions at Perigee Direct featuring adhesives, coatings, and accessories designed for thermal control and component protection.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 521
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 523
 - [Logistics](https://www.perigeedirect.com/collections/logistics): Shop logistics solutions, packing, labeling, maintenance, and industrial supplies designed to support warehousing, shipping, and operations.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 47
 - [Colleges & Universities](https://www.perigeedirect.com/collections/colleges-universities): Shop college and university solutions at Perigee Direct supporting labs facilities and maintenance teams with trusted industrial supplies.
-  Updated: 2026-02-02T04:43:22Z
-  Total Products: 21
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 22
 - [Plastic Fabrication](https://www.perigeedirect.com/collections/plastic-fabrication): Shop plastic fabrication essentials, adhesives, solvents, tools, and materials for acrylic, PVC, and plastic bonding, repair, and assembly.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 1112
+  Updated: 2026-02-23T19:13:03Z
+  Total Products: 1114
 - [Retail Stores](https://www.perigeedirect.com/collections/retail-retail-stores): Shop retail store essentials, adhesives, cleaners, tapes, and maintenance supplies to support fixtures, displays, and everyday quick repairs.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 47
 - [Artist, Artisan](https://www.perigeedirect.com/collections/artist-artisan): Shop artist and artisan supplies at Perigee Direct for adhesives tapes and tools delivering reliable materials for creative fabrication projects.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 137
 - [Packaging Services or Contractor](https://www.perigeedirect.com/collections/packaging-services-contractor): Shop packaging services and contractor solutions at Perigee Direct with adhesives and dispensing tools designed for efficiency, consistency, and strong seals.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 237
+  Updated: 2026-02-23T12:01:15Z
+  Total Products: 238
 - [Pool/Spa/Plumbing](https://www.perigeedirect.com/collections/pool-spa-plumbing): Shop pool and spa plumbing products at Perigee Direct featuring adhesives and sealants built for water resistance, durability, and reliable system repairs.
-  Updated: 2026-02-15T12:03:36Z
-  Total Products: 191
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 192
 - [Fire, Police, Bomb, Emergency Services](https://www.perigeedirect.com/collections/fire-police-bomb-emergency-services): Shop fire, police, bomb, and emergency service solutions at Perigee Direct with industrial adhesives, tools, and equipment built for rapid response and reliability.
   Updated: 2026-01-12T15:04:09Z
   Total Products: 0
 - [Food & Beverage Company or Distributor](https://www.perigeedirect.com/collections/food-beverage-company-or-distributor): Discover food and beverage industry supplies including adhesives, sealants, cleaners, and maintenance products for production and facilities.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 97
 - [Flooring Installer or Manufacturer](https://www.perigeedirect.com/collections/flooring-installer-or-manufacturer): Shop flooring installer and manufacturer products at Perigee Direct including welding tools, adhesives, and accessories for clean seams and lasting results.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 394
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 396
 - [Mold Making/ Casting](https://www.perigeedirect.com/collections/mold-making-casting): Explore mold-making and casting supplies, silicones, resins, release agents, pigments, and tools for clean pours and detailed finishes.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 212
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 214
 - [Prosumer](https://www.perigeedirect.com/collections/prosumer): Shop prosumer supplies with professional-grade adhesives, tools, and materials suited for advanced DIY projects and light production use.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 360
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 362
 - [Countertop](https://www.perigeedirect.com/collections/countertop): Discover countertop fabrication supplies, adhesives, seam setters, abrasives, cleaners, and tools for stone, solid surface, and repairs.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 143
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 147
 - [Special Effects/Scenic Design](https://www.perigeedirect.com/collections/special-effects-scenic-design): Shop special effects and scenic design products at Perigee Direct including adhesives and coatings built for creative fabrication and stage durability.
   Updated: 2026-02-06T12:01:53Z
   Total Products: 3
@@ -37295,35 +37460,35 @@
   Updated: 2026-01-12T15:54:24Z
   Total Products: 0
 - [Cladding](https://www.perigeedirect.com/collections/cladding): Discover cladding installation supplies including adhesives, sealants, tapes, and tools for durable exterior panels and architectural systems.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 160
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 161
 - [Dental & Dental Devices](https://www.perigeedirect.com/collections/dental-dental-devices): Discover dental device supplies with -grade adhesives, bonding materials, and tools for labs, production lines, and repair workflows.
-  Updated: 2026-02-14T12:01:45Z
+  Updated: 2026-02-21T12:01:26Z
   Total Products: 28
 - [Furniture](https://www.perigeedirect.com/collections/furniture): Shop furniture industry supplies at Perigee Direct for adhesives, tapes, and tools delivering dependable solutions for furniture fabrication.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 219
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 220
 - [Tarp, Fabric, Awning Manufacturing](https://www.perigeedirect.com/collections/tarp-fabric-awning-manufacturing): Shop tarp, fabric, and awning manufacturing supplies at Perigee Direct with adhesives and tapes designed for flexible bonding and outdoor performance.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T19:13:03Z
   Total Products: 338
 - [Commercial Door](https://www.perigeedirect.com/collections/commercial-door): Shop commercial door solutions at Perigee Direct with industrial adhesives, hardware, and accessories built for strength, alignment, and durability.
-  Updated: 2026-02-15T12:03:36Z
-  Total Products: 20
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 21
 - [Equine](https://www.perigeedirect.com/collections/equine): Shop equine industry solutions at Perigee Direct with adhesives, repair products, and tools designed for stable maintenance and durable bonding needs.
-  Updated: 2026-01-12T15:39:56Z
+  Updated: 2026-02-22T04:50:21Z
   Total Products: 2
 - [Restaurants](https://www.perigeedirect.com/collections/restaurants): Shop restaurant-grade products at Perigee Direct including adhesives, sealants, and tools suited for food service, maintenance, and repairs.
   Updated: 2026-02-10T20:07:51Z
   Total Products: 2
 - [Thermoforming](https://www.perigeedirect.com/collections/thermoforming): Shop thermoforming supplies including adhesives, plastics, tools, and materials engineered for forming, shaping, and durable finished components.
-  Updated: 2026-02-13T12:01:43Z
-  Total Products: 74
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 75
 - [PVC Trimboard](https://www.perigeedirect.com/collections/pvc-trimboard): Shop PVC trimboard solutions at Perigee Direct with adhesives, tapes, and accessories engineered for strong bonding, clean edges, and outdoor durability.
-  Updated: 2026-02-14T12:01:46Z
-  Total Products: 94
+  Updated: 2026-02-23T17:31:33Z
+  Total Products: 95
 - [Engineering Services](https://www.perigeedirect.com/collections/engineering-services): Discover engineering service solutions, adhesives, materials, and specialty tools for prototyping, testing, and high-performance builds.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 214
+  Updated: 2026-02-23T19:13:03Z
+  Total Products: 215
 - [Other](https://www.perigeedirect.com/collections/other): Shop other industrial solutions at Perigee Direct for specialty adhesives tools and accessories delivering support across unique applications.
   Updated: 2026-01-12T18:19:06Z
   Total Products: 0
@@ -37331,32 +37496,32 @@
   Updated: 2026-02-06T12:01:53Z
   Total Products: 30
 - [Weld-On](https://www.perigeedirect.com/collections/weld-on): Shop Weld-On adhesives at Perigee Direct for trusted MMA bonding solutions used in plastics, fabrication, and industrial assembly applications.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-18T12:01:32Z
   Total Products: 16
 - [Back In Stock - Not working right](https://www.perigeedirect.com/collections/recently-received): Shop back-in-stock collections at Perigee Direct to quickly access replenished adhesives dispensers tools and high-demand industrial supplies.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 31
 - [Maintenance & Repair Essentials](https://www.perigeedirect.com/collections/maintenance-repair-essentials): Operational Readiness & Preventative Maintenance Operational readiness starts with having reliable repair materials on hand. This collection is designed for maintenance teams and facilities that need fast, dependable solutions to prevent downtime and keep equipment running. Fast-Set Adhesives & Structural Bonding Sealants & Emergency Surface Repair Dispensing Tools & Application Accessories
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 12
 - [Structural Adhesives](https://www.perigeedirect.com/collections/structural-adhesives): Shop Perigee Direct structural adhesives for high strength epoxies, acrylics, and urethanes designed for demanding joints, vibration, and impact.
-  Updated: 2026-02-14T12:01:46Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 20
-- [Small-Batch Production](https://www.perigeedirect.com/collections/precision-bonding-solutions): Small-batch precision bonding requires control, consistency, and repeatable results. This collection features adhesives and application tools designed for tight tolerances, clean bond lines, and controlled working times across metals, plastics, and composites. These products are commonly used in prototyping, design validation, electronics, and short-run manufacturing where accuracy matters more than speed. Optimized for the Micro-Scale Precision isn’t just about the chemistry; it’s about the delivery. This collection pairs high-performance structural adhesives with a Zero-Waste Dispensing Ecosystem: Volumetric Mixing: High-efficiency Quadro™ nozzles that ensure a perfect  while reducing waste by up to 50%. Micro-Application: Luer-lock adapters and fine-gauge needles for pinpoint accuracy on small components. Total Control: Multi-ratio dispensing  that allow you to switch chemistries without switching tools.
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 14
 - [Back In Stock](https://www.perigeedirect.com/collections/back-in-stock): Shop back in stock at Perigee Direct to grab replenished adhesives, welding parts, and consumables before they  out again, ready to ship.
-  Updated: 2026-02-14T12:01:46Z
-  Total Products: 36
-- [Maintenance Repair Essentials](https://www.perigeedirect.com/collections/maintenance-repair-essentials-1)
-  Updated: 2026-01-28T19:00:12Z
-  Total Products: 0
-- [Maintenance & Repair Essentials (Copy)](https://www.perigeedirect.com/collections/maintenance-repair-essentials-copy): Operational Readiness & Preventative Maintenance Operational readiness starts with having reliable repair materials on hand. This collection is designed for maintenance teams and facilities that need fast, dependable solutions to prevent downtime and keep equipment running. Fast-Set Adhesives & Structural Bonding Sealants & Emergency Surface Repair Dispensing Tools & Application Accessories
-  Updated: 2026-02-16T12:01:24Z
-  Total Products: 12
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 182
 - [Spring Cleanup](https://www.perigeedirect.com/collections/spring-cleanup): Perigee Direct’s Spring Cleanup collection provides a technical-grade lineup of high-performance materials and precision equipment engineered to restore and fortify infrastructure after the winter season. This curated selection focuses on advanced concrete repair resins, structural anchoring adhesives, and high-solids surface defense systems like Premera coatings and Maven Invisible Armor, which are designed to remediate substrate degradation and seal critical cracks. By integrating industrial-strength injection epoxies and professional dispensing tools, the collection offers the technical reliability needed to replace failing mechanical fasteners and ensure maximum durability on the modern job site. Whether you are reinforcing masonry, protecting industrial flooring, or stabilizing composite assemblies, these specialized supplies deliver the structural integrity and performance-critical results necessary to prepare your facility and projects for the months ahead.
-  Updated: 2026-02-16T12:01:24Z
+  Updated: 2026-02-23T12:01:15Z
   Total Products: 31
+- [Professional Adhesive Dispensers & Application Tools](https://www.perigeedirect.com/collections/tools): Stop fighting your adhesive with outdated equipment. Upgrade your workflow with Perigee Direct’s premium selection of high-thrust manual dispensers, pneumatic applicators, and precision tools. Designed for heavy-duty industrial and marine applications, our 36:1 thrust ratio  eliminate hand fatigue and ensure consistent bead profiles - even with the thickest structural methacrylates (MMA) and epoxies. From industry-standard MixPac DMA50 kits to our rugged Maven MV490 series, find the professional gear you need to bond with confidence.
+  Updated: 2026-02-17T19:05:19Z
+  Total Products: 59
+- [Upgrade your Tools (Copy)](https://www.perigeedirect.com/collections/upgrade-your-tools-copy): **Develop this part
+  Updated: 2026-02-17T18:59:07Z
+  Total Products: 59
+- [Tile Ace (by Cemedine)](https://www.perigeedirect.com/collections/tile-ace-by-cemedine): Discover the reliable bonding power of Cemedine Tile Ace. Tile Ace is a next-generation line of elastic tile bonders engineered for flawless tile installation. Formulated to absorb structural movement and prevent tile cracking, these versatile adhesives provide a secure, long-lasting hold for both interior and exterior projects. Whether you're tackling a professional commercial build or a high-end DIY renovation, our Cemedine Tile Ace collection ensures your tiles stay perfectly in place for years to come.
+  Updated: 2026-02-23T22:55:13Z
+  Total Products: 4
 
 ## Blogs
 
@@ -37720,8 +37885,8 @@
   Updated: 2025-12-03T20:02:38Z
 - [Shipping & Returns Policy](https://www.perigeedirect.com/pages/shipping-returns): Shipping, In-Store Display & Local Pick-Up Our full online catalog is also available and on display In-Store. Every product we  is also availab...
   Updated: 2026-01-19T20:37:06Z
-- [Marketplaces we are on](https://www.perigeedirect.com/pages/marketplaces-we-are-on): Are you new to Perigee Direct? No problem, Check us out, our customers know us best! Our Amazon profile: Our eBay profile: We also  on these ma...
-  Updated: 2025-08-07T20:02:35Z
+- [Marketplaces we are on](https://www.perigeedirect.com/pages/marketplaces-we-are-on): Are you new to Perigee Direct? No problem, Check us out, our customers know us best! Amazon profile: eBay profile: Walmart marketplace: Lowes marke...
+  Updated: 2026-02-20T03:02:17Z
 - [Customer Privacy](https://www.perigeedirect.com/pages/customer-privacy): Our team at Perigee, and our parent (AmLee Innovations), takes your privacy and data security very seriously. We instill a large array of industry ...
   Updated: 2026-01-19T20:41:46Z
 - [Copyright Notice](https://www.perigeedirect.com/pages/copyright-notice): Copyright Notice for AmLee Innovations Ownership of Copyright: The copyright on this website, the material on this website, and the material we upl...
@@ -37801,7 +37966,7 @@
 - [Canada (en / CAD)](https://www.perigeedirect.com/en-ca/llms.txt?market=ca)
 - [Central & South America (en / USD)](https://www.perigeedirect.com/llms.txt?market=central-south-america)
 - [Europe (en / USD)](https://www.perigeedirect.com/llms.txt?market=europe)
-- [International (en / USD)](https://www.perigeedirect.com/llms.txt?market=international)
+- [International (en / ANG)](https://www.perigeedirect.com/llms.txt?market=international)
 - [Oceania (en / USD)](https://www.perigeedirect.com/llms.txt?market=oceania)
 - [United States (en / USD)](https://www.perigeedirect.com//llms.txt?market=us)
 
