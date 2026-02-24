@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T18:22:08Z
 - Contact Email: support@maisonoudco.ca
-- Updated At: 2026-02-17T00:00:36.149Z
+- Updated At: 2026-02-24T00:00:40.130Z
 
 ## Products
 
@@ -52,13 +52,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2435.jpg?v=1767473821
   Price: $79.99 CAD
-- [Lattafa Atheeri EDP 100ml | Premium Fragrance](https://maisonoudco.ca/products/atheeri-eau-de-parfum): Lattafa Atheeri EDP 100ml. Premium oriental fragrance with rich, sophisticated notes. Authentic Lattafa luxury perfume in Canada.
-  Updated: 2026-01-20T21:56:56Z
-  Vendor: Maison Oud & Co.
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2448.png?v=1767473855
-  Price: $89.99 CAD
 - [Lattafa Eclaire EDP 100ml | Gourmand Caramel Vanilla](https://maisonoudco.ca/products/lattafa-eclaire-edp-spray-100ml-gourmand-caramel-vanilla): Lattafa Eclaire EDP 100ml. Gourmand fragrance with caramel, vanilla & praline notes. Authentic Lattafa luxury perfume in Canada.
   Updated: 2026-01-20T21:56:57Z
   Vendor: Maison Oud & Co.
@@ -74,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2386.jpg?v=1767473915
   Price: $116.99 CAD
 - [Arabiyat Sugar Lemon Sorbet EDP 100ml | Fresh Citrus](https://maisonoudco.ca/products/arabiyat-sugar-lemon-sorbet): Arabiyat Sugar Lemon Sorbet EDP 100ml. Fresh citrus vanilla unisex fragrance. Authentic luxury perfume with long-lasting scent.
-  Updated: 2026-01-20T21:56:57Z
+  Updated: 2026-02-23T05:16:37Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -114,13 +107,13 @@
   Updated: 2026-01-20T21:56:55Z
   Total Products: 3
 - [Lattafa Perfumes - Authentic Arabian Fragrances & Oud | Maison Oud & Co.](https://maisonoudco.ca/collections/lattafa): Discover authentic Lattafa perfumes at Maison Oud & Co. Long-lasting oriental, gourmand, and floral fragrances. Premium Arabian perfumes for men and women.
-  Updated: 2026-01-20T21:56:55Z
+  Updated: 2026-02-22T12:26:09Z
   Total Products: 2
 - [Rasasi Perfume | Luxurious Long-Lasting Floral & Oriental Fragrance](https://maisonoudco.ca/collections/rasasi): Discover Rasasi, a luxurious fragrance with floral, fruity, and oriental notes. Long-lasting perfume perfect for everyday wear or special occasions.
   Updated: 2026-01-20T21:56:55Z
   Total Products: 0
 - [Arabiyat Sugar Perfume | Sweet Gourmand Long-Lasting Fragrance!! Shop.](https://maisonoudco.ca/collections/arabiyat-sugar): Discover Arabiyat Sugar perfume, a sweet gourmand fragrance with warm, creamy notes. Long-lasting and elegant scent ideal for daily wear or special occasions.
-  Updated: 2026-02-16T12:20:44Z
+  Updated: 2026-02-23T12:25:17Z
   Total Products: 4
 
 ## Blogs
