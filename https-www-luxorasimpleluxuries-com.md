@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-12-29T02:41:12Z
 - Contact Email: uriah4441@icloud.com
-- Updated At: 2026-02-15T00:00:39.289Z
+- Updated At: 2026-02-24T00:00:44.806Z
 
 ## Products
 
 - [Pro Club Men's Comfort Metallic Nylon Anorak - Luxora](https://www.luxorasimpleluxuries.com/products/pro-club-mens-comfort-metallic-nylon-anorak): This versatile anorak jacket is perfect for rain or shine.  - Luxora
-  Updated: 2026-02-14T22:34:17Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Xtreme Wear
   Product Type: mens top
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2023-08-03_rasawn_ecom_session7179.jpg?v=1769026642
     Price: $62.99 USD
   - [M / Black](https://www.luxorasimpleluxuries.com/products/pro-club-mens-comfort-metallic-nylon-anorak?variant=51821637599508)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2023-08-03_rasawn_ecom_session7141-edit.jpg?v=1769026635
     Price: $62.99 USD
   - [M / Khaki](https://www.luxorasimpleluxuries.com/products/pro-club-mens-comfort-metallic-nylon-anorak?variant=51821637632276)
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2023-08-03_rasawn_ecom_session7179.jpg?v=1769026642
     Price: $62.99 USD
 - [KNOCKER Crew MEN'S SWEATSHIRT - Luxora](https://www.luxorasimpleluxuries.com/products/knocker-crew-mens-sweatshirt): Men's Durable Heavy Cotton Blend Fleece Pullover Hoodie Sweatshirt - super soft, versatile hoodie for all occasion. Style : HD1000 Content : 60%  - Luxora
-  Updated: 2026-02-14T20:40:40Z
+  Updated: 2026-02-23T03:32:14Z
   Vendor: Xtreme Wear
   Product Type: sweater
   Availability: Available
@@ -167,7 +167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sws1000_gray_1_1200x_9c330e97-4826-40a7-aa69-fdea27c618fd.webp?v=1769026652
     Price: $19.99 USD
 - [KNOCKER MEN'S HEAVY WEIGHT FLEECE SWEATPANTS SP1000 - Luxora](https://www.luxorasimpleluxuries.com/products/knocker-mens-heavy-weight-fleece-sweatpants-sp1000): KNOCKER MEN'S SWEAT PANTS Style : SP1000 Content : 60% cotton 40% polyester Size : S to 3XL Model is 6' 1". He is wearing a US size Medium. - Luxora
-  Updated: 2026-02-14T21:56:34Z
+  Updated: 2026-02-23T23:38:20Z
   Vendor: Xtreme Wear
   Product Type: sweatpants
   Availability: Available
@@ -245,7 +245,7 @@
     Availability: Available
     Price: $16.99 USD
 - [Chester Premium Wool Cashmere Coat in Praline - Luxora](https://www.luxorasimpleluxuries.com/products/chester-premium-wool-cashmere-coat-in-praline): Description: A timeless wardrobe staple, this cashmere/wool coat exudes luxe sophistication. Pastel color and classic fit - perfect fresh addition to  - Luxora
-  Updated: 2026-02-10T17:09:13Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Alaska® Outerwear Company
   Product Type: Coat
   Availability: Available
@@ -271,7 +271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/D1AB27F4-BE12-4A47-821F-82543A28307E.jpg?v=1769026700
     Price: $475.00 USD
 - [Natural Konjac Facial Sponge - Luxora](https://www.luxorasimpleluxuries.com/products/natural-konjac-facial-sponge): If you haven't tried a Konjac sponge yet, you're in for a treat! These sponges are made from the Konjac plant; they are hard when dry and soft like  - Luxora
-  Updated: 2026-02-13T19:29:56Z
+  Updated: 2026-02-23T21:33:57Z
   Vendor: Zero Waste Outlet
   Product Type: Hygiene
   Availability: Available
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/natural-konjac-facial-sponge-1040201.png?v=1769026738
     Price: $4.99 USD
 - [Sierra 2-Layers Pant - Zea Camo - Luxora](https://www.luxorasimpleluxuries.com/products/sierra-2-layers-pant-zea-camo): Designed to handle the demands of in-bound descents and off-piste adventures. Responsibly built with a PFC free DWR coating and 100% recycled 2-layer  - Luxora
-  Updated: 2026-02-10T17:09:14Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0100_ONGRAY.jpg?v=1769026738
     Price: $260.00 USD
 - [Sierra 2-Layers Pant - Desert Taupe - Luxora](https://www.luxorasimpleluxuries.com/products/sierra-2-layers-pant-desert-taupe): Designed to handle the demands of in-bound descents and off-piste adventures. Responsibly built with a PFC free DWR coating and 100% recycled 2-layer  - Luxora
-  Updated: 2026-02-10T17:10:06Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -337,7 +337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0001_ONGRAY.jpg?v=1769026749
     Price: $260.00 USD
 - [2 Layers Powder Bib - Black - Luxora](https://www.luxorasimpleluxuries.com/products/2-layers-powder-bib-black): Designed in collaboration with professional backcountry riders for deep snow  off-piste adventures. Made responsibly with a PFC free DWR coating  - Luxora
-  Updated: 2026-02-10T17:09:14Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0080_ONGRAY.jpg?v=1769026764
     Price: $340.00 USD
 - [Long Down Vest - Olive - Luxora](https://www.luxorasimpleluxuries.com/products/long-down-vest-olive): The down vest reimagined with a playful oversize shape and corduroy trimming. Wear this easy, lightweight layer over your favorite sweater for a  - Luxora
-  Updated: 2026-02-13T15:50:17Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -377,7 +377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0187_ONGRAY.jpg?v=1769026792
     Price: $360.00 USD
 - [Padded Wool Sherpa Shirt Jacket - Natural Mix - Luxora](https://www.luxorasimpleluxuries.com/products/padded-wool-sherpa-shirt-jacket-natural-mix): Made in Europe with genuine virgin wool fleece for luxurious warmth and feel. The playful oversize silhouette is stylistically bold, yet easy and  - Luxora
-  Updated: 2026-02-11T04:13:52Z
+  Updated: 2026-02-23T01:07:11Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0186_ONGRAY.jpg?v=1769026813
     Price: $300.00 USD
 - [Short Down Puffer - Rekall Tie - Luxora](https://www.luxorasimpleluxuries.com/products/short-down-puffer-rekall-tie): n oversized and easy modern silhouette. Overfilled with responsibly sourced and traceable 700 fill power down for your warmest solution to the cold.  - Luxora
-  Updated: 2026-02-10T17:09:15Z
+  Updated: 2026-02-23T06:45:26Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -413,7 +413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0206_ONGRAY.jpg?v=1769026827
     Price: $375.00 USD
 - [Hooded Down Vest - Rekall Tie - Luxora](https://www.luxorasimpleluxuries.com/products/hooded-down-vest-rekall-tie): An ultra-warm vest with a modern oversized silhouette and subtle drop shoulder for an effortless look. Made from luxurious Italian materials,  - Luxora
-  Updated: 2026-02-10T17:09:15Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -431,7 +431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0085_ONGRAY_bdf4e9ae-3a32-4cae-ba32-0df730192036.jpg?v=1769026852
     Price: $340.00 USD
 - [Hybrid Down Sweatpant - Black - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-sweatpant-black): Maximum warmth with minimum weight in an eye-catching silhouette. Designed for cold city streets and ski towns everywhere. Featherweight nylon  - Luxora
-  Updated: 2026-02-12T13:26:05Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER BOTTOMS
   Availability: Available
@@ -457,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0047_ONGRAY.jpg?v=1769026888
     Price: $150.00 USD
 - [Mens Trunk - Luxora](https://www.luxorasimpleluxuries.com/products/mens-trunk): Crafted from quick drying Japanese fabric and designed to be worn in the water and out. The Hybrid Trunk is soft to the touch but structured so it  - Luxora
-  Updated: 2026-02-14T06:13:02Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: Bottom
   Availability: Available
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/S20DTC_HybridTrunk_FieryRed_-22.jpg?v=1769026908
     Price: $50.00 USD
 - [Slouchy Fatigue Short - Luxora](https://www.luxorasimpleluxuries.com/products/slouchy-fatigue-short): The Holden Slouchy Fatigue Short has an easy fit, the perfect union of fashion and function. Designed to transition from long hikes in nature to city  - Luxora
-  Updated: 2026-02-10T17:10:07Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: Pant
   Availability: Available
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/SS20DTC_SlouchyFatigueShort_Camo_Cactus_-Edit-3.jpg?v=1769027015
     Price: $60.00 USD
 - [Ski Suit - Canvas/Pearl - Luxora](https://www.luxorasimpleluxuries.com/products/ski-suit-canvas-pearl): Inspired by vintage ski suits, modernized with sustainable materials. The 80's style bat-wing upper has a classic blouson silhouette matched with  - Luxora
-  Updated: 2026-02-10T17:09:16Z
+  Updated: 2026-02-23T01:07:23Z
   Vendor: Holden Outerwear
   Product Type: ALPINE SKI SUIT
   Availability: Available
@@ -591,7 +591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear617990b37fe6f2617990b37ff73.52435807617990b37ff73.jpg?v=1769027026
     Price: $480.00 USD
 - [Slouchy Fatigue Pant - Luxora](https://www.luxorasimpleluxuries.com/products/slouchy-fatigue-pant): The Slouchy Fatigue Pant seamlessly blends style with practicality, making it an essential piece for both outdoor adventures and urban environments.  - Luxora
-  Updated: 2026-02-13T23:56:36Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: Pant
   Availability: Available
@@ -637,7 +637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/SS20DTC_SlouchyFatiguePant_SmokeDye_-2-Edit.jpg?v=1769027047
     Price: $90.00 USD
 - [Icon Hoodie - Black - Luxora](https://www.luxorasimpleluxuries.com/products/icon-hoodie-black): An everyday staple elevated to luxurious levels of buttery-soft comfort. Blending the warmth of merino wool with silky-smooth tencel. Model is 5' 9"  - Luxora
-  Updated: 2026-02-10T17:09:16Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -659,7 +659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear613a3c9a72dd21613a3c9a72f57.36444351613a3c9a72f57.jpg?v=1769027055
     Price: $120.00 USD
 - [French Terry Lounge Short - Hay - Luxora](https://www.luxorasimpleluxuries.com/products/french-terry-lounge-short-hay): Experience unmatched comfort and effortless style with the French Terry Lounge Short in Hay. Crafted in Los Angeles using a unique salt-washed,  - Luxora
-  Updated: 2026-02-10T17:09:17Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -677,7 +677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear623e2f198dbfe3623e2f198de7a.03742516623e2f198de7a.jpg?v=1769027066
     Price: $60.00 USD
 - [3-Layer Alpine Pant - Black - Luxora](https://www.luxorasimpleluxuries.com/products/3-layer-alpine-pant-black): Designed to handle the demands of on area descents and off-piste adventures. Built with laser-cut, fused and bonded Japanese 3-Layer waterproof fabric  - Luxora
-  Updated: 2026-02-14T21:50:34Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -703,7 +703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear6178849a20ba636178849a20ca8.604681036178849a20ca8.jpg?v=1769027077
     Price: $260.00 USD
 - [Icon Hoodie - Sage - Luxora](https://www.luxorasimpleluxuries.com/products/icon-hoodie-sage): An everyday staple elevated to luxurious levels of buttery-soft comfort. Blending the warmth of merino wool with silky-smooth tencel. Model is 5' 9"  - Luxora
-  Updated: 2026-02-10T17:09:16Z
+  Updated: 2026-02-23T01:07:20Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -725,7 +725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear613a3cee02a859613a3cee02c19.04761483613a3cee02c19.jpg?v=1769027087
     Price: $120.00 USD
 - [Seamless Biker Short - Black - Luxora](https://www.luxorasimpleluxuries.com/products/seamless-biker-short-black): The go-to biker short luxuriously elevated with seamlessly knit merino wool and buttery-soft tencel. Cut slightly longer for extra comfort. Made on  - Luxora
-  Updated: 2026-02-10T17:10:08Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -747,7 +747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear61391a0c1837b761391a0c18653.6730976661391a0c18653.jpg?v=1769027101
     Price: $55.00 USD
 - [Hybrid Down Crew - Black - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-crew-black): The Hybrid Down Crew in Black represents a significant advancement in ski sweater technology, combining featherlight 7D Japanese nylon with ethically  - Luxora
-  Updated: 2026-02-10T17:09:17Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER TOPS
   Availability: Available
@@ -773,7 +773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/HYC-5-SW_BLACK_002.jpg?v=1769027118
     Price: $170.00 USD
 - [French Terry Hoodie - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/french-terry-hoodie-canvas): The French Terry Hoodie in Canvas is designed to elevate your casual wardrobe with Italian craftsmanship and thoughtful details. Featuring an easy,  - Luxora
-  Updated: 2026-02-10T17:09:16Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -799,14 +799,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/210827_holden_outerwear1816BBB.jpg?v=1769027133
     Price: $90.00 USD
 - [Boucle Headband - Black - Luxora](https://www.luxorasimpleluxuries.com/products/boucle-headband-black): Experience refined warmth with this luxury cold-weather headband, expertly crafted in Italy from a soft virgin wool blend. Its boucle knit offers a  - Luxora
-  Updated: 2026-02-12T13:26:05Z
+  Updated: 2026-02-23T01:07:10Z
   Vendor: Holden Outerwear
   Product Type: HEADWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Boucle-Headband-Black-model-woman.jpg?v=1769027150
   Price: $35.00 USD
 - [Long Sleeve Tee - Sage - Luxora](https://www.luxorasimpleluxuries.com/products/long-sleeve-tee-sage): The iconic long sleeve tee cut from vintage cotton jersey. Each piece is garment-dyed for a unique sun-faded salt-washed look and feel. Knit, dyed,  - Luxora
-  Updated: 2026-02-10T17:09:17Z
+  Updated: 2026-02-23T01:07:11Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -832,7 +832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear623e2da5a0ddc8623e2da5a0eeb.66102330623e2da5a0eeb.jpg?v=1769027162
     Price: $35.00 USD
 - [Fowler Down Parka - Olive Rock Tie - Luxora](https://www.luxorasimpleluxuries.com/products/fowler-down-parka-olive-rock-tie): The Fowler Down Parka in Olive Rock Tie offers a contemporary oversized fit crafted from premium European fabrics that provide both durability and  - Luxora
-  Updated: 2026-02-10T17:09:17Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -858,7 +858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/SDJ-5-JK_OLIVEROCKTIE_002copy2.jpg?v=1769027172
     Price: $360.00 USD
 - [Packable Down Jacket - China Blue - Luxora](https://www.luxorasimpleluxuries.com/products/packable-down-jacket-china-blue): Experience the ultimate in lightweight insulation with the Packable Down Jacket in China Blue. Crafted from ultralight Japanese 7D ripstop nylon, this  - Luxora
-  Updated: 2026-02-10T17:09:20Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -888,7 +888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/MLD-5-JK_CHINABLUE_002_3c699645-5174-4b5b-b656-1e5d061c6b02.jpg?v=1769027189
     Price: $180.00 USD
 - [Long Sleeve Tee - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/long-sleeve-tee-canvas): Crafted from vintage cotton jersey, this iconic long sleeve tee offers a distinctive sun-faded, salt-washed appearance achieved through garment  - Luxora
-  Updated: 2026-02-10T17:10:08Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -914,7 +914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Long-Sleeve-Tee-Canvas-model-front.jpg?v=1769027198
     Price: $50.00 USD
 - [Seamless Bralette - Luxora](https://www.luxorasimpleluxuries.com/products/seamless-bralette): The Seamless Bralette is crafted from a premium blend of wicking merino wool, silky tencel, and recycled nylon, delivering exceptional softness and  - Luxora
-  Updated: 2026-02-11T18:12:51Z
+  Updated: 2026-02-23T01:07:25Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -936,14 +936,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/WSEAMLESSBRALETTE_SAGE_008_ONGRAY.jpg?v=1769027207
     Price: $50.00 USD
 - [Icon Wrap - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/icon-wrap-canvas): Experience unparalleled comfort and sophistication with the Icon Wrap - Canvas, meticulously crafted in Italy from an exquisite blend of virgin wool,  - Luxora
-  Updated: 2026-02-10T17:09:16Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0047_ONGRAY.jpg?v=1769027216
   Price: $195.00 USD
 - [Long Down Parka - Black - Luxora](https://www.luxorasimpleluxuries.com/products/long-down-parka-black): Our Long Down Parka offers superior warmth tailored for the coldest conditions. Designed with a generous oversized fit and dropped shoulders, it  - Luxora
-  Updated: 2026-02-10T17:10:09Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -969,7 +969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear61c4facf4d899061c4facf4daa2.3932380661c4facf4daa2.jpg?v=1769027234
     Price: $440.00 USD
 - [Jersey Logo Tee - Black - Luxora](https://www.luxorasimpleluxuries.com/products/jersey-logo-tee-black): The Jersey Logo Tee in Black is a meticulously crafted unisex shirt made from premium vintage cotton jersey. This garment undergoes a specialized  - Luxora
-  Updated: 2026-02-10T17:09:20Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -995,7 +995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear623e28fe2606d2623e28fe2622c.99062644623e28fe2622c.jpg?v=1769027247
     Price: $35.00 USD
 - [Seamless Biker Short - Sage - Luxora](https://www.luxorasimpleluxuries.com/products/seamless-biker-short-sage): The go-to biker short luxuriously elevated with seamlessly knit merino wool and buttery-soft tencel. Cut slightly longer for extra comfort. Made on  - Luxora
-  Updated: 2026-02-10T17:10:08Z
+  Updated: 2026-02-23T01:07:16Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1017,7 +1017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear61391ec99eb38761391ec99ecb8.7567637961391ec99ecb8.jpg?v=1769027274
     Price: $55.00 USD
 - [Puffy Mitten - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/puffy-mitten-canvas): An evolution of the winter essential. This exceptionally warm mitten is insulated with NASA-developed Primaloft Gold Cross Core™ and features aerogel  - Luxora
-  Updated: 2026-02-10T17:10:08Z
+  Updated: 2026-02-23T01:07:10Z
   Vendor: Holden Outerwear
   Product Type: GLOVES
   Availability: Available
@@ -1031,7 +1031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/ACC_WPUFFYMITTEN_0057_ONGRAY.jpg?v=1769027317
     Price: $70.00 USD
 - [Balaclava Sweater - Navy Wave Dye - Luxora](https://www.luxorasimpleluxuries.com/products/balaclava-sweater-navy-wave-dye): Designed as a performance mid-layer to be worn under technical outerwear or as a stand-alone sweater. Made from an extra-fine merino wool blend for  - Luxora
-  Updated: 2026-02-10T17:10:08Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/MBS-5-SW_DARKNAVYWAVEDYE_006_2eb82e4d-a5f9-4ff2-b155-357adc25e0b5.jpg?v=1769027344
     Price: $140.00 USD
 - [Seamless Tank - Black - Luxora](https://www.luxorasimpleluxuries.com/products/seamless-tank-black): A luxuriously soft cool weather tank. Seamlessly knit from warm and wicking merino yarns blended with buttery-soft tencel and recycled nylon. Made on  - Luxora
-  Updated: 2026-02-10T17:09:18Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1075,14 +1075,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear613911252374286139112524367.092619486139112524367.jpg?v=1769027372
     Price: $55.00 USD
 - [Cashmere Cuff Beanie - Carbon Blue - Luxora](https://www.luxorasimpleluxuries.com/products/cashmere-cuff-beanie-carbon-blue): Elevated essentials, our cashmere cuff beanie is ultra-soft and knit from a cashmere / merino blend.  Warmth starts at the top. Material: 70% Wool,  - Luxora
-  Updated: 2026-02-10T17:09:12Z
+  Updated: 2026-02-23T06:45:26Z
   Vendor: Holden Outerwear
   Product Type: HEADWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/CASHMERECUFFBEANIE_CARBONBLUE_0049_ONGRAY.jpg?v=1769027402
   Price: $55.00 USD
 - [Merino Performance Sock - Natural - Luxora](https://www.luxorasimpleluxuries.com/products/merino-performance-sock-natural): The Merino Performance Crew Sock is expertly crafted in the USA from a high-quality Merino wool blend, designed to provide exceptional comfort and  - Luxora
-  Updated: 2026-02-11T04:14:03Z
+  Updated: 2026-02-23T01:07:10Z
   Vendor: Holden Outerwear
   Product Type: Sock
   Availability: Available
@@ -1100,7 +1100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/SOCKS_001copy_2ec959cb-fecf-4d4b-9dae-140aee502258.jpg?v=1769027422
     Price: $10.50 USD
 - [Knit Dojo Top - Sage - Luxora](https://www.luxorasimpleluxuries.com/products/knit-dojo-top-sage): The unisex Knit Dojo Top in Sage is an expertly crafted spring-weight shirt designed for both comfort and style. Made from 11.5 oz looped jersey, the  - Luxora
-  Updated: 2026-02-10T17:10:09Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1122,7 +1122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear623e2ccaee1381623e2ccaee247.45003041623e2ccaee247_485d1beb-6d58-4de5-88cb-c375370bccf3.jpg?v=1769027444
     Price: $55.00 USD
 - [Puffy Slide - Unisex - Black - Luxora](https://www.luxorasimpleluxuries.com/products/puffy-slide-unisex-black): Easy like Sunday morning. These effortless slides blend the comfort of our quilted jackets with a bold tread for a modern take on the classic  - Luxora
-  Updated: 2026-02-10T17:09:20Z
+  Updated: 2026-02-23T06:45:26Z
   Vendor: Holden Outerwear
   Product Type: FOOTWEAR
   Availability: Available
@@ -1148,14 +1148,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear6138fed7031f946138fed7032e1.212250076138fed7032e1.jpg?v=1769027462
     Price: $35.00 USD
 - [Wool Neck Gaiter - Desert Taupe - Luxora](https://www.luxorasimpleluxuries.com/products/wool-neck-gaiter-desert-taupe): Experience exceptional warmth  comfort with the Wool Neck Gaiter in Desert Taupe. Crafted from a refined blend of ultra-soft mohair, merino wool,  - Luxora
-  Updated: 2026-02-12T13:26:05Z
+  Updated: 2026-02-23T01:07:10Z
   Vendor: Holden Outerwear
   Product Type: HEADWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0269copy.jpg?v=1769027484
   Price: $55.00 USD
 - [Peak Down Parka - Haze Dye - Luxora](https://www.luxorasimpleluxuries.com/products/peak-down-parka-haze-dye): The Peak Down Parka is engineered to withstand the harshest alpine environments, offering exceptional warmth through its 750 fill power traceable down  - Luxora
-  Updated: 2026-02-10T17:09:20Z
+  Updated: 2026-02-23T01:07:16Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1181,7 +1181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear617898826516566178988265298.308399816178988265298.jpg?v=1769027514
     Price: $390.00 USD
 - [Oversized French Terry Crew - Hay - Luxora](https://www.luxorasimpleluxuries.com/products/oversized-french-terry-crew-hay): The Oversized French Terry Crew in Hay offers a sophisticated blend of comfort and craftsmanship. Crafted in California, this sweatshirt features a  - Luxora
-  Updated: 2026-02-10T17:09:19Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1207,14 +1207,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Holdenouterwear623e27dee90907623e27dee91f7.18846989623e27dee91f7_91a9c190-de46-45b7-89ce-855f1ca78da1.jpg?v=1769027547
     Price: $80.00 USD
 - [Merino Cuff Beanie - Mineral Yellow - Luxora](https://www.luxorasimpleluxuries.com/products/merino-cuff-beanie-mineral-yellow): Crafted from a premium merino wool blend, the Merino Cuff Beanie in Mineral Yellow combines superior softness with excellent thermal regulation. This  - Luxora
-  Updated: 2026-02-10T17:09:12Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: HEADWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/ACC_MERINOCUFFBEANIE_MINERALYELLOW_0052_ONGRAY.jpg?v=1769027629
   Price: $55.00 USD
 - [Knit Dojo Top - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/knit-dojo-top-canvas): The Knit Dojo Top - Canvas offers a refined spring weight option crafted from 11.5 oz looped jersey for durability and comfort. Featuring a longer 3/4  - Luxora
-  Updated: 2026-02-10T17:09:21Z
+  Updated: 2026-02-23T01:07:16Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1236,7 +1236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/210827_holden_outerwear2722_b.jpg?v=1769027638
     Price: $55.00 USD
 - [Packable Down Jacket - Morel - Luxora](https://www.luxorasimpleluxuries.com/products/packable-down-jacket-morel): The pinnacle of ultralight packable warmth. Constructed from featherlight Japanese 7D ripstop nylon, insulated with responsibly sourced 750 fill power  - Luxora
-  Updated: 2026-02-10T17:09:22Z
+  Updated: 2026-02-23T01:07:16Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1266,7 +1266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/MLD-5-JK_MOREL_003_28d7c91c-0467-4026-88e8-69312bf9f211.jpg?v=1769027717
     Price: $180.00 USD
 - [Oversized French Terry Crew - Black - Luxora](https://www.luxorasimpleluxuries.com/products/oversized-french-terry-crew-black): The Oversized French Terry Crew in Black is expertly crafted from heavyweight 3-End Fleece, offering remarkable durability and warmth. Designed with a  - Luxora
-  Updated: 2026-02-10T17:09:19Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1292,7 +1292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/210827_holden_outerwear1445_Logo.jpg?v=1769027659
     Price: $80.00 USD
 - [Merino Performance Sock - Black - Luxora](https://www.luxorasimpleluxuries.com/products/merino-performance-sock-black): The Merino Performance Crew Sock, crafted in the USA, combines a high-quality Merino wool blend with strategic design for superior performance. Double  - Luxora
-  Updated: 2026-02-11T04:13:52Z
+  Updated: 2026-02-23T01:07:11Z
   Vendor: Holden Outerwear
   Product Type: Sock
   Availability: Available
@@ -1310,7 +1310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/SOCKS_005copy_0e423266-6caf-460a-80d6-49c1c4a9a26a.jpg?v=1769027666
     Price: $10.50 USD
 - [Down Field Jacket - Red/Black Plaid - Luxora](https://www.luxorasimpleluxuries.com/products/down-field-jacket-red-black-plaid): Classic military styling reimagined with a modern oversized silhouette and European textiles. Luxuriously insulated with traceable 700 fill power down  - Luxora
-  Updated: 2026-02-10T17:10:09Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1332,7 +1332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0081_ONGRAY.jpg?v=1769027676
     Price: $380.00 USD
 - [Sierra 2-Layers Pant - Black - Luxora](https://www.luxorasimpleluxuries.com/products/sierra-2-layers-pant-black): Designed to handle the demands of in-bound descents and off-piste adventures. Responsibly built with a PFC free DWR coating and 100% recycled 2-layer  - Luxora
-  Updated: 2026-02-10T17:10:10Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -1354,7 +1354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_6167_ONGRAY.jpg?v=1769027692
     Price: $260.00 USD
 - [2 Layers Powder Bib - Zea Camo - Luxora](https://www.luxorasimpleluxuries.com/products/2-layers-powder-bib-zea-camo): Designed in collaboration with professional backcountry riders for deep snow  off-piste adventures. Made responsibly with a PFC free DWR coating  - Luxora
-  Updated: 2026-02-10T17:10:09Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -1376,14 +1376,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_5920_ONGRAY.jpg?v=1769027702
     Price: $340.00 USD
 - [Wool Neck Gaiter - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/wool-neck-gaiter-slate-gray): Experience superior warmth and comfort with the Wool Neck Gaiter in Slate Gray, crafted for those who demand both style and function in cold weather.  - Luxora
-  Updated: 2026-02-10T17:09:21Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: HEADWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0314copy.jpg?v=1769027729
   Price: $55.00 USD
 - [Long Down Puffer - Black - Luxora](https://www.luxorasimpleluxuries.com/products/long-down-puffer-black): Our warmest solution to the cold. This modern, ultra-warm update on the military classic is cut long for full coverage protection in harsh weather.  - Luxora
-  Updated: 2026-02-10T17:10:09Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1404,22 +1404,15 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_9356_ONGRAY.jpg?v=1769027735
     Price: $540.00 USD
-- [Down Neck Warmer - Lavender - Luxora](https://www.luxorasimpleluxuries.com/products/down-neck-warmer-lavender): Experience exceptional warmth with the Down Neck Warmer in Lavender, crafted from silky-soft ultralight taffeta and insulated with responsibly  - Luxora
-  Updated: 2026-02-10T17:09:13Z
-  Vendor: Holden Outerwear
-  Product Type: HEADWEAR
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0306_ONGRAY.jpg?v=1769027750
-  Price: $60.00 USD
 - [Cashmere Cuff Beanie - Desert Taupe - Luxora](https://www.luxorasimpleluxuries.com/products/cashmere-cuff-beanie-desert-taupe): Elevated essentials, our cashmere cuff beanie is ultra-soft and knit from a cashmere / merino blend.  Warmth starts at the top. Material: 70% Wool,  - Luxora
-  Updated: 2026-02-10T17:09:21Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Holden Outerwear
   Product Type: HEADWEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/CASHMERECUFFBEANIE_DESERTTAUPE_0051_ONGRAY.jpg?v=1769027769
   Price: $55.00 USD
 - [Puffy Mitten - Black - Luxora](https://www.luxorasimpleluxuries.com/products/puffy-mitten-black): An evolution of the winter essential. This exceptionally warm mitten is insulated with NASA-developed Primaloft Gold Cross Core™ and features aerogel  - Luxora
-  Updated: 2026-02-10T17:09:21Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: GLOVES
   Availability: Available
@@ -1433,7 +1426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/ACC_WPUFFYMITTEN_0056_ONGRAY.jpg?v=1769027778
     Price: $70.00 USD
 - [Long Down Puffer - Stone Green - Luxora](https://www.luxorasimpleluxuries.com/products/long-down-puffer-stone-green): Our warmest solution to the cold. This modern, ultra-warm update on the military classic is cut long for full coverage protection in harsh weather.  - Luxora
-  Updated: 2026-02-10T17:10:10Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1455,7 +1448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0066_ONGRAY.jpg?v=1769027786
     Price: $540.00 USD
 - [Hooded Down Vest - Navy - Luxora](https://www.luxorasimpleluxuries.com/products/hooded-down-vest-navy): An ultra-warm vest with a modern oversized silhouette and subtle drop shoulder. Made from luxurious Italian materials, overed with traceable 700  - Luxora
-  Updated: 2026-02-10T17:10:10Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1477,7 +1470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0026_ONGRAY.jpg?v=1769027802
     Price: $340.00 USD
 - [Fowler Down Jacket  - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/fowler-down-jacket-canvas): An ultra-warm solution to the cold in an easy oversized modern silhouette. Made from luxurious European materials in three colorways including a  - Luxora
-  Updated: 2026-02-10T17:09:19Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1499,7 +1492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_8867_ONGRAY.jpg?v=1769027817
     Price: $420.00 USD
 - [Down Crew Sweater - Black - Luxora](https://www.luxorasimpleluxuries.com/products/down-crew-sweater-black): An evolutionary ski sweater that doubles as a technical urban layer. Featuring featherlight 7D Japanese nylon insulated with responsibly sourced and  - Luxora
-  Updated: 2026-02-11T15:42:51Z
+  Updated: 2026-02-23T01:07:16Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER TOPS
   Availability: Available
@@ -1521,7 +1514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_10732_ONGRAY.jpg?v=1769027835
     Price: $155.00 USD
 - [Packable Down Jacket - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/packable-down-jacket-slate-gray): Constructed from featherlight Japanese 7D ripstop nylon for ultralight packable warmth. Insulated with responsibly sourced 750 fill power traceable  - Luxora
-  Updated: 2026-02-10T17:09:23Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1543,7 +1536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0042_ONGRAY.jpg?v=1769027853
     Price: $180.00 USD
 - [Packable Down Jacket - Mineral Yellow - Luxora](https://www.luxorasimpleluxuries.com/products/packable-down-jacket-mineral-yellow): Constructed from featherlight Japanese 7D ripstop nylon for ultralight packable warmth. Insulated with responsibly sourced 750 fill power traceable  - Luxora
-  Updated: 2026-02-10T17:10:10Z
+  Updated: 2026-02-23T01:07:11Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1565,7 +1558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/MPACKABLEDOWNJACKET_MINERALYELLOW_0028_ONGRAY.jpg?v=1769027877
     Price: $180.00 USD
 - [Down Crew Sweater - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/down-crew-sweater-slate-gray): An evolutionary ski sweater that doubles as a technical urban layer. Featuring featherlight 7D Japanese nylon insulated with responsibly sourced and  - Luxora
-  Updated: 2026-02-10T17:09:22Z
+  Updated: 2026-02-23T01:07:13Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER TOPS
   Availability: Available
@@ -1587,7 +1580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/211205_HOLDEN_FW22_ECOM_10999_ONGRAY.jpg?v=1769027882
     Price: $155.00 USD
 - [Hybrid Down Sweatpant - Zebra - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-sweatpant-zebra): An easy sweatpant silhouette optimized for technical ultralight warmth and supreme comfort. Made from a featherlight 7D Japanese nylon insulated with  - Luxora
-  Updated: 2026-02-11T03:46:02Z
+  Updated: 2026-02-23T03:55:28Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER BOTTOMS
   Availability: Available
@@ -1613,7 +1606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_6881_ONGRAY.jpg?v=1769027899
     Price: $150.00 USD
 - [Padded Wool Sherpa Shirt Jacket - Black - Luxora](https://www.luxorasimpleluxuries.com/products/padded-wool-sherpa-shirt-jacket-black): Made in Europe with genuine virgin wool fleece for luxurious warmth and feel. The playful oversize silhouette is stylistically bold, yet easy and  - Luxora
-  Updated: 2026-02-10T17:09:22Z
+  Updated: 2026-02-23T01:07:30Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1631,7 +1624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0232_ONGRAY.jpg?v=1769027964
     Price: $300.00 USD
 - [Airwarm Bottom - Black - Luxora](https://www.luxorasimpleluxuries.com/products/airwarm-bottom-black): A luxuriously soft loungewear legging that doubles as a performance layer in the city and on the slopes. Seamlessly knit from a blend of sustainable  - Luxora
-  Updated: 2026-02-11T18:12:50Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1661,7 +1654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0157_ONGRAY.jpg?v=1769027986
     Price: $110.00 USD
 - [Packable Down Jacket - Black - Luxora](https://www.luxorasimpleluxuries.com/products/packable-down-jacket-black-1): Constructed from featherlight Japanese 7D ripstop nylon for ultralight packable warmth. Insulated with responsibly sourced 750 fill power traceable  - Luxora
-  Updated: 2026-02-10T17:09:22Z
+  Updated: 2026-02-23T01:07:20Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1683,7 +1676,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0031_ONGRAY.jpg?v=1769028016
     Price: $180.00 USD
 - [Packable Down Jacket - Stone Green - Luxora](https://www.luxorasimpleluxuries.com/products/packable-down-jacket-stone-green): Constructed from featherlight Japanese 7D ripstop nylon for ultralight packable warmth. Insulated with responsibly sourced 750 fill power traceable  - Luxora
-  Updated: 2026-02-10T17:09:24Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1705,7 +1698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_6307_ONGRAY.jpg?v=1769028032
     Price: $180.00 USD
 - [Merino Airwarm Bodysuit- Stone Green - Luxora](https://www.luxorasimpleluxuries.com/products/merino-airwarm-bodysuit-stone-green): The ultimate base layer. A streamlined body suit knit from a blend of sustainable merino wool and recycled nylon. Front half-zip for easy on/off.   - Luxora
-  Updated: 2026-02-10T17:10:11Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: Bodysuit
   Availability: Available
@@ -1731,7 +1724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/WAIRWARMBODYSUIT_STGRN_021_ONGRAY.jpg?v=1769028067
     Price: $260.00 USD
 - [Chalet Hoodie - Green Camo - Luxora](https://www.luxorasimpleluxuries.com/products/chalet-hoodie-green-camo): The Chalet Hoodie in Green Camo redefines comfort with its oversized silhouette tailored for relaxed, effortless wear. Crafted from a premium blend of  - Luxora
-  Updated: 2026-02-10T17:09:24Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1753,7 +1746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0088copy.jpg?v=1769028094
     Price: $195.00 USD
 - [Hooded Down Vest - Rekall Tie - Luxora](https://www.luxorasimpleluxuries.com/products/hooded-down-vest-rekall-tie-1): An ultra-warm vest with a modern oversized silhouette and subtle drop shoulder. Made from luxurious Italian materials, overed with traceable 700  - Luxora
-  Updated: 2026-02-10T17:10:11Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1767,7 +1760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_7568_ONGRAY.jpg?v=1769028133
     Price: $340.00 USD
   - [REKALL TIE / L](https://www.luxorasimpleluxuries.com/products/hooded-down-vest-rekall-tie-1?variant=51821870055700)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_7568_ONGRAY.jpg?v=1769028133
     Price: $340.00 USD
   - [REKALL TIE / XL](https://www.luxorasimpleluxuries.com/products/hooded-down-vest-rekall-tie-1?variant=51821870088468)
@@ -1775,7 +1768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_7568_ONGRAY.jpg?v=1769028133
     Price: $340.00 USD
 - [Chalet Bottom - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/chalet-bottom-slate-gray): Experience unparalleled comfort and refined style with the Chalet Bottom in Slate Gray. Crafted from a premium blend of lofty wool and nylon, these  - Luxora
-  Updated: 2026-02-10T17:09:20Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1797,7 +1790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0097_ONGRAY.jpg?v=1769028155
     Price: $155.00 USD
 - [Wool Icon Sweater - Black - Luxora](https://www.luxorasimpleluxuries.com/products/wool-icon-sweater-black): Crafted in Italy from 100% Canberra wool, the Wool Icon Sweater in black combines timeless warmth and softness with contemporary design. This cropped  - Luxora
-  Updated: 2026-02-10T17:09:24Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1819,7 +1812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0152copy.jpg?v=1769028174
     Price: $140.00 USD
 - [Hybrid Down Jogger - Pearl - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-jogger-pearl): The perfect union of luxury and performance. Warmth and comfort in an eye-catching silhouette. Designed to be worn on cold city streets and ski towns  - Luxora
-  Updated: 2026-02-10T17:10:11Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: 
   Availability: Available
@@ -1849,7 +1842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0027_ONGRAY.jpg?v=1769028193
     Price: $110.00 USD
 - [Down Zip Hoodie - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/down-zip-hoodie-slate-gray): A modern performance update on the essential hoodie.  front panel is insulated with sustainably sourced and traceable down for year-round warmth.  - Luxora
-  Updated: 2026-02-11T15:42:51Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER TOPS
   Availability: Available
@@ -1879,7 +1872,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0087_ONGRAY.jpg?v=1769028227
     Price: $145.00 USD
 - [Chalet Hoodie - Cream Camo - Luxora](https://www.luxorasimpleluxuries.com/products/chalet-hoodie-cream-camo): Elevate your casual wardrobe with the Chalet Hoodie in Cream Camo, designed for those who appreciate both comfort and refined style. This updated  - Luxora
-  Updated: 2026-02-10T17:10:12Z
+  Updated: 2026-02-23T01:07:11Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -1901,7 +1894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/WCHALETHOODIE_SOFTCREAM_020_ONGRAY.jpg?v=1769028320
     Price: $195.00 USD
 - [Hybrid Down Sweatpant - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-sweatpant-slate-gray-1): An easy sweatpant silhouette optimized for technical ultralight warmth and supreme comfort. Made from a featherlight 7D Japanese nylon insulated with  - Luxora
-  Updated: 2026-02-10T17:09:21Z
+  Updated: 2026-02-23T01:07:15Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER BOTTOMS
   Availability: Available
@@ -1927,7 +1920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_7707_ONGRAY.jpg?v=1769028356
     Price: $150.00 USD
 - [Merino Airwarm Bodysuit - Black - Luxora](https://www.luxorasimpleluxuries.com/products/merino-airwarm-bodysuit-black): The ultimate base layer. A streamlined body suit knit from a blend of sustainable merino wool and recycled nylon. Front half-zip for easy on/off.   - Luxora
-  Updated: 2026-02-10T17:10:12Z
+  Updated: 2026-02-23T01:07:17Z
   Vendor: Holden Outerwear
   Product Type: Bodysuit
   Availability: Available
@@ -1953,7 +1946,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/WAIRWARMBODYSUIT_BLK_002_ONGRAY.jpg?v=1769028438
     Price: $260.00 USD
 - [Reversible Wool Half Zip Puffer - Black Plaid - Luxora](https://www.luxorasimpleluxuries.com/products/reversible-wool-half-zip-puffer-black-plaid): Our Down Half-Zip style reimagined in a reversible silhouette. Made in Europe wh a genuine virgin wool plaid for luxurious warmth and feel. Reverse  - Luxora
-  Updated: 2026-02-10T17:09:21Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -1970,26 +1963,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0053_ONGRAY.jpg?v=1769028495
     Price: $340.00 USD
-- [Long Down Puffer - Stone Green - Luxora](https://www.luxorasimpleluxuries.com/products/long-down-puffer-stone-green-1): The exceptional warmth of down reimagined in bold, oversize proportions. Wear it loose for an easy striking silhouette or belted to create a more  - Luxora
-  Updated: 2026-02-10T23:41:42Z
-  Vendor: Holden Outerwear
-  Product Type: OUTERWEAR JACKETS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0215_ONGRAY.jpg?v=1769028527
-  - [STONE GREEN / XXS/XS](https://www.luxorasimpleluxuries.com/products/long-down-puffer-stone-green-1?variant=51821871694100)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0215_ONGRAY.jpg?v=1769028527
-    Price: $550.00 USD
-  - [STONE GREEN / SM/MD](https://www.luxorasimpleluxuries.com/products/long-down-puffer-stone-green-1?variant=51821871726868)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0215_ONGRAY.jpg?v=1769028527
-    Price: $550.00 USD
-  - [STONE GREEN / LG/XL](https://www.luxorasimpleluxuries.com/products/long-down-puffer-stone-green-1?variant=51821871759636)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0215_ONGRAY.jpg?v=1769028527
-    Price: $550.00 USD
 - [Hooded Down Vest - Canvas - Luxora](https://www.luxorasimpleluxuries.com/products/hooded-down-vest-canvas): An ultra-warm vest with a modern oversized silhouette and subtle drop shoulder. Made from luxurious Italian materials, overed with traceable 700  - Luxora
-  Updated: 2026-02-10T17:10:12Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -2011,7 +1986,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_6819_ONGRAY.jpg?v=1769028549
     Price: $340.00 USD
 - [Down Zip Hoodie - Black - Luxora](https://www.luxorasimpleluxuries.com/products/down-zip-hoodie-black): A modern performance update on the essential hoodie.  front panel is insulated with sustainably sourced and traceable down for year-round warmth.  - Luxora
-  Updated: 2026-02-13T02:30:42Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER TOPS
   Availability: Available
@@ -2041,7 +2016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0063_ONGRAY.jpg?v=1769028641
     Price: $145.00 USD
 - [Fowler Down Jacket - Rekall Tie - Luxora](https://www.luxorasimpleluxuries.com/products/fowler-down-jacket-rekall-tie): An ultra-warm solution to the cold in an easy oversized modern silhouette. Made from luxurious European materials and cloud-filled with responsibly  - Luxora
-  Updated: 2026-02-10T17:10:12Z
+  Updated: 2026-02-23T01:07:12Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -2063,7 +2038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0019_ONGRAY.jpg?v=1769028703
     Price: $420.00 USD
 - [Powder Suit - Zebra - Luxora](https://www.luxorasimpleluxuries.com/products/powder-suit-zebra): The fun and flattering fit of a vintage ski suit, modernized with sustainable performance materials. Functional features include a stretch belt at  - Luxora
-  Updated: 2026-02-10T17:10:13Z
+  Updated: 2026-02-23T01:07:14Z
   Vendor: Holden Outerwear
   Product Type: ALPINE OUTERWEAR PANTS
   Availability: Available
@@ -2089,7 +2064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0103_ONGRAY.jpg?v=1769028714
     Price: $500.00 USD
 - [Down Half Zip - Zebra - Luxora](https://www.luxorasimpleluxuries.com/products/down-half-zip-zebra): The Down Half Zip - Zebra merges exceptional warmth with modern design, offering an oversized silhouette that stands out while embracing comfort.  - Luxora
-  Updated: 2026-02-10T17:09:22Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -2107,7 +2082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0195_ONGRAY.jpg?v=1769028737
     Price: $300.00 USD
 - [Hybrid Down Sweatpant - Black - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-sweatpant-black-1): An easy sweatpant silhouette optimized for technical ultralight warmth and supreme comfort. Made from a featherlight 7D Japanese nylon insulated with  - Luxora
-  Updated: 2026-02-10T17:09:26Z
+  Updated: 2026-02-23T19:37:00Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER BOTTOMS
   Availability: Available
@@ -2133,7 +2108,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1MENS_10082_ONGRAY.jpg?v=1769028759
     Price: $150.00 USD
 - [Down Zip Hoodie - Lavender - Luxora](https://www.luxorasimpleluxuries.com/products/down-zip-hoodie-lavender): A modern performance update on the essential hoodie.  front panel is insulated with sustainably sourced and traceable down for year-round warmth.  - Luxora
-  Updated: 2026-02-10T17:10:13Z
+  Updated: 2026-02-23T01:07:39Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER TOPS
   Availability: Available
@@ -2163,7 +2138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0124_ONGRAY.jpg?v=1769028803
     Price: $145.00 USD
 - [AIRWARM BOTTOM - Slate Gray - Luxora](https://www.luxorasimpleluxuries.com/products/airwarm-bottom-slate-gray): A luxuriously soft loungewear legging that doubles as a performance layer in the city and on the slopes. Seamlessly knit from a blend of sustainable  - Luxora
-  Updated: 2026-02-10T17:09:25Z
+  Updated: 2026-02-23T01:07:21Z
   Vendor: Holden Outerwear
   Product Type: KNITWEAR
   Availability: Available
@@ -2193,7 +2168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY1WOMENS_0031_ONGRAY.jpg?v=1769028826
     Price: $110.00 USD
 - [Fowler Down Jacket - Black - Luxora](https://www.luxorasimpleluxuries.com/products/fowler-down-jacket-black): An ultra-warm solution to the cold in an easy oversized modern silhouette. Made from luxurious European materials in three colorways including a  - Luxora
-  Updated: 2026-02-10T17:10:13Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: Holden Outerwear
   Product Type: OUTERWEAR JACKETS
   Availability: Available
@@ -2215,7 +2190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2MENS_0071_ONGRAY.jpg?v=1769028866
     Price: $420.00 USD
 - [Hybrid Down Jogger - Black - Luxora](https://www.luxorasimpleluxuries.com/products/hybrid-down-jogger-black): The perfect union of luxury and performance. Warmth and comfort in an eye-catching silhouette. Designed to be worn on cold city streets and ski towns  - Luxora
-  Updated: 2026-02-13T01:05:18Z
+  Updated: 2026-02-23T01:07:32Z
   Vendor: Holden Outerwear
   Product Type: MIDLAYER BOTTOMS
   Availability: Available
@@ -2245,7 +2220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/DAY2WOMENS_0037_ONGRAY.jpg?v=1769028892
     Price: $110.00 USD
 - [Metal Logo Velour Flared Sweatpants - Luxora](https://www.luxorasimpleluxuries.com/products/metal-logo-velour-flared-sweatpants-1): Creator's Note- Comfy sweatpants. Matching hoodie sold separately. Quantity Made- Only 100 Collection - Concealment Details - Back pockets with  - Luxora
-  Updated: 2026-02-10T17:10:19Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: The Hideout Clothing
   Product Type: Bottoms
   Availability: Available
@@ -2275,14 +2250,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Grey-The-Hideout-Clothing-Metal-Logo-Velour-Flared-Sweatpants-Front-View.jpg?v=1769036244
     Price: $110.00 USD
 - [Heart Socks - Luxora](https://www.luxorasimpleluxuries.com/products/heart-socks): Creator's Note- Heart socks. Quantity Made- Only 100 Collection - In Summæry Details - Artwork woven into fabric- Imported Fabric - 100% cotton Fit-  - Luxora
-  Updated: 2026-02-10T17:10:24Z
+  Updated: 2026-02-23T01:07:18Z
   Vendor: The Hideout Clothing
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Black-The-Hideout-Clothing-Heart-Socks-Front-View.jpg?v=1769037817
   Price: $20.00 USD
 - [Racket Club Rugby Polo - Luxora](https://www.luxorasimpleluxuries.com/products/racket-club-rugby-polo-2): Creator's Note- Perfect rugby polo for the country club. Quantity Made- Only 100 Collection - Racket Club Details - Custom buttons- Collar with words  - Luxora
-  Updated: 2026-02-10T17:10:25Z
+  Updated: 2026-02-23T01:07:55Z
   Vendor: The Hideout Clothing
   Product Type: Tops
   Availability: Available
@@ -2312,7 +2287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/BRO4532.jpg?v=1769037949
     Price: $75.00 USD
 - [Racket Club Knit Crewneck Sweater - Luxora](https://www.luxorasimpleluxuries.com/products/racket-club-knit-crewneck-sweater-1): Creator's Note - Special knit pattern hems on this super comfortable university style sweater. Quantity Made - Only 100 Collection - Racket Club  - Luxora
-  Updated: 2026-02-10T17:09:41Z
+  Updated: 2026-02-23T01:08:02Z
   Vendor: The Hideout Clothing
   Product Type: Outerwear
   Availability: Available
@@ -2342,7 +2317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Rose-The-Hideout-Clothing-Racket-Club-Knit-Crewneck-Sweater-Front-View.jpg?v=1769038040
     Price: $120.00 USD
 - [White Lines Waterproof Utility Track Pants - Luxora](https://www.luxorasimpleluxuries.com/products/white-lines-waterproof-utility-track-pants-1): Creator's Note - Mountain gear inspired and functional utility pants. Quantity Made - Only 50 Collection - White Lines Details - Deep front pockets  - Luxora
-  Updated: 2026-02-10T17:09:41Z
+  Updated: 2026-02-23T01:07:39Z
   Vendor: The Hideout Clothing
   Product Type: Bottoms
   Availability: Available
@@ -2376,7 +2351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Olive-Green-The-Hideout-Clothing-White-Lines-Waterproof-Utility-Track_Pants-Front-View.jpg?v=1769038148
     Price: $140.00 USD
 - [Metal Logo Velour Hoodie - Luxora](https://www.luxorasimpleluxuries.com/products/metal-logo-velour-hoodie): Creator's Note Velour pull over hoodie with neat metal logo.  Quantity Made Only 100 Collection  Concealment Details  Kangaroo pocket with zippers  - Luxora
-  Updated: 2026-02-10T17:10:26Z
+  Updated: 2026-02-23T01:07:25Z
   Vendor: The Hideout Clothing
   Product Type: Outerwear
   Availability: Available
@@ -2406,7 +2381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Grey-The-Hideout-Clothing-Metal-Logo-Velour-Hoodie-Front-View.jpg?v=1769038214
     Price: $95.00 USD
 - [Faux Fur Vegan Leather Camouflage Jacket - Luxora](https://www.luxorasimpleluxuries.com/products/faux-fur-vegan-leather-camouflage-jacket-1): Creator's Note - Blending two fabrics into a camouflage pattern - the perfect mix of rough and soft. Quantity Made - Only 50 Collection - Love-in Cold  - Luxora
-  Updated: 2026-02-10T17:10:26Z
+  Updated: 2026-02-23T01:07:55Z
   Vendor: The Hideout Clothing
   Product Type: Outerwear
   Availability: Available
@@ -2440,14 +2415,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/A7406239copy.jpg?v=1769038254
     Price: $340.00 USD
 - [TeamTTO - Paris 2024 Olympic Games Opening Ceremony Leather Sling Side](https://www.luxorasimpleluxuries.com/products/teamtto-paris-2024-olympic-games-opening-ceremony-leather-sling-side-bag): Creator's Note- Official uniform of the Trinidad &amp; Tobago National Team at the Paris 2024 Olympic Games Opening Ceremony Shirt. This item ships in  - Luxora
-  Updated: 2026-02-10T17:09:39Z
+  Updated: 2026-02-23T01:07:28Z
   Vendor: The Hideout Clothing
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Red-Trinidad-and-Tobago-National-Team-Paris-2024-Olympic-Games-Opening-Ceremony-Leather-Sling-Side-Bag-The-Hideout-Clothing-Front-View.jpg?v=1769038280
   Price: $150.00 USD
 - [Love in Cold Blood Oversized Tee - Luxora](https://www.luxorasimpleluxuries.com/products/love-in-cold-blood-oversized-tee-1): Creator's Note - Oversized graphic tee with different printing techniques.  Quantity Made - Only 50 Collection - Love-in Cold Blood Details - Artwork  - Luxora
-  Updated: 2026-02-10T17:09:43Z
+  Updated: 2026-02-23T01:07:45Z
   Vendor: The Hideout Clothing
   Product Type: Tops
   Availability: Available
@@ -2481,14 +2456,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Caramel-The-Hideout-Clothing-Love-in-Cold-Blood-Oversized-Tee-Front-View.jpg?v=1769038318
     Price: $90.00 USD
 - [Heart Socks - Luxora](https://www.luxorasimpleluxuries.com/products/heart-socks-1): Creator's Note- Heart socks. Quantity Made- Only 100 Collection - In Summæry Details - Artwork woven into fabric- Imported Fabric - 100% cotton Fit-  - Luxora
-  Updated: 2026-02-10T17:09:39Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: The Hideout Clothing
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Navy-The-Hideout-Clothing-Heart-Socks-Front-View.jpg?v=1769038335
   Price: $20.00 USD
 - [Racket Club Knit Crewneck Sweater - Luxora](https://www.luxorasimpleluxuries.com/products/racket-club-knit-crewneck-sweater-2): Creator's Note Special knit pattern hems on this super comfortable university style sweater. Quantity Made Only 100 Collection  Racket Club Details  - Luxora
-  Updated: 2026-02-10T17:10:27Z
+  Updated: 2026-02-23T01:08:40Z
   Vendor: The Hideout Clothing
   Product Type: Outerwear
   Availability: Available
@@ -2518,7 +2493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Mint-The-Hideout-Clothing-Racket-Club-Knit-Crewneck-Sweater-Front-View.jpg?v=1769038353
     Price: $120.00 USD
 - [Chosen Basketball Away Shorts - Luxora](https://www.luxorasimpleluxuries.com/products/chosen-basketball-away-shorts): Creator's Note- Away team THC basketball shorts. Quantity Made- Only 100 Collection - Chosen Details - Elastic waist with pull strings - High quality  - Luxora
-  Updated: 2026-02-10T17:09:42Z
+  Updated: 2026-02-23T01:08:01Z
   Vendor: The Hideout Clothing
   Product Type: Bottoms
   Availability: Available
@@ -2548,7 +2523,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Black-The-Hideout-Clothing-Chosen-Basketball-Away-Shorts-Front-View.jpg?v=1769038389
     Price: $75.00 USD
 - [7eventies Crochet Knit Shirt - Luxora](https://www.luxorasimpleluxuries.com/products/7eventies-crochet-knit-shirt-1): Creator's Note- Groovy button up knit shirt with removable flower pin. Matching pants sold separately. Quantity Made- Only 100 Collection - 7eventies  - Luxora
-  Updated: 2026-02-10T17:09:43Z
+  Updated: 2026-02-23T01:07:48Z
   Vendor: The Hideout Clothing
   Product Type: Tops
   Availability: Available
@@ -2582,7 +2557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2_7f2f3812-4f78-4c7c-90d8-831a4f39b111.jpg?v=1769038423
     Price: $110.00 USD
 - [Classic Baggy Jeans - Luxora](https://www.luxorasimpleluxuries.com/products/classic-baggy-jeans-2): Creator's Note- Comfortable, loose fit jeans with a minimalist design, and a small utility pocket for  air pods, metro tickets, or a few euros for  - Luxora
-  Updated: 2026-02-10T17:09:43Z
+  Updated: 2026-02-23T01:07:57Z
   Vendor: The Hideout Clothing
   Product Type: Bottoms
   Availability: Available
@@ -2612,7 +2587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Light-Denim-Classic-Baggy-Jeans-The-Hideout-Clothing-Front-View.jpg?v=1769038475
     Price: $85.00 USD
 - [Furry Animal Hoodie - Luxora](https://www.luxorasimpleluxuries.com/products/furry-animal-hoodie-1): Creator's Note - Comfy fur hoodie for the season. The gloves can be worn or clipped on to the sleeve for ease of use. Quantity Made - Only 50  - Luxora
-  Updated: 2026-02-10T17:10:27Z
+  Updated: 2026-02-23T01:07:34Z
   Vendor: The Hideout Clothing
   Product Type: Outerwear
   Availability: Available
@@ -2646,7 +2621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Brown-The-Hideout-Clothing-Furry-Animal-Hoodie-Front-View.jpg?v=1769038546
     Price: $230.00 USD
 - [Cozy House Shoes Fuzzy Fluffy Bedroom Slippers Women Winter Warm Shoes](https://www.luxorasimpleluxuries.com/products/cozy-house-shoes-fuzzy-fluffy-bedroom-slippers-women-winter-warm-shoes): Overview: Unique design, stylish and beautiful. Good material, comfortable feet. A variety of colors, any choice. Specification: Upper material:  - Luxora
-  Updated: 2026-02-10T17:10:28Z
+  Updated: 2026-02-23T01:08:03Z
   Vendor: Social Buzz eSIMs
   Product Type: 4
   Availability: Available
@@ -2724,14 +2699,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/a1a97c02-b44a-423c-83c8-ca90b865d0d5.jpg?v=1769038762
     Price: $20.83 USD
 - [Recycled Travel Backpack Delhi - Luxora](https://www.luxorasimpleluxuries.com/products/recycled-travel-backpack-delhi): EVERY BAG UNIQUELY YOURS Every backpack is one-of-a-kind! The burlap pieces are recycled from authentic Indian rice bags. Expect slight  - Luxora
-  Updated: 2026-02-10T17:09:35Z
+  Updated: 2026-02-23T01:07:31Z
   Vendor: Rice Love
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/BACKPACK-DELHI-1_4e622194-f0a0-400f-807c-3f6ac1419474.jpg?v=1769038762
   Price: $65.00 USD
 - [DESERT HOODIE - Luxora](https://www.luxorasimpleluxuries.com/products/desert-hoodie): Our standard hoodie is crafted from heavyweight 400 GSM fabric, designed with a boxy fit and an oversized hood for ultimate comfort and a relaxed,  - Luxora
-  Updated: 2026-02-10T17:10:28Z
+  Updated: 2026-02-23T01:07:37Z
   Vendor: UNDEVELOPED
   Product Type: 
   Availability: Available
@@ -2752,7 +2727,7 @@
     Availability: Available
     Price: $56.00 USD
 - [Tom Ford Lost Cherry - Luxora](https://www.luxorasimpleluxuries.com/products/tom-ford-lost-cherry): What it is: A warm and spicy eau de parfum contained in a luscious, deep cherry–red bottle that captures the scent's dichotomy of sweet and dark.  - Luxora
-  Updated: 2026-02-10T17:09:37Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Mystic Store
   Product Type: Eau de Parfum
   Availability: Available
@@ -2766,7 +2741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Tom_Ford_Lost_Cherry_100.png?v=1769038823
     Price: $379.99 USD
 - [Long Sleeve Garment Dye Max Heavyweight Shirt - Luxora](https://www.luxorasimpleluxuries.com/products/long-sleeve-garment-dye-max-heavyweight-shirt): Product Details Shaka Wear Brand Sold individually.  255-260 GSM  Branded Tag 16 singles. Stay true to size for an oversized boxy fit. 100% USA cotton  - Luxora
-  Updated: 2026-02-14T18:25:33Z
+  Updated: 2026-02-23T22:41:37Z
   Vendor: Superline
   Product Type: T-Shirts
   Availability: Available
@@ -2872,7 +2847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/A732560.png?v=1769038855
     Price: $15.00 USD
 - [Men's Bamboo Viscose/Organic Cotton Long Sleeve T-Shirt - Luxora](https://www.luxorasimpleluxuries.com/products/mens-bamboo-viscose-organic-cotton-long-sleeve-t-shirt): Our Men's long sleeve crew neck in the same 70% viscose from Bamboo/30% Organic Cotton blend is as popular as our short sleeve tees. Stretch rib cuffs  - Luxora
-  Updated: 2026-02-14T21:10:03Z
+  Updated: 2026-02-23T01:07:48Z
   Vendor: Spun Bamboo
   Product Type: mens long sleeve
   Availability: Available
@@ -2998,7 +2973,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Y0A0456.jpg?v=1769038866
     Price: $35.99 USD
 - [MEN'S MAGNUS THERMAL INSULATED JACKET - Luxora](https://www.luxorasimpleluxuries.com/products/mens-magnus-thermal-insulated-jacket): The Magnus is a master of warmth and versatility when moving through winter sports or chilly streets. Premium Eco ClusterLoft Synthetic Insulation  - Luxora
-  Updated: 2026-02-12T12:22:58Z
+  Updated: 2026-02-23T01:07:40Z
   Vendor: Terracea
   Product Type: MID LAYER JACKETS
   Availability: Available
@@ -3124,7 +3099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Men_s_Magnus_2.0_Insulator_-_Tempest_-_Front.jpg?v=1769038929
     Price: $249.00 USD
 - [Fear of God Essentials - Sweatpants Light Oatmeal - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-sweatpants-light-oatmeal): Stay comfortable and stylish with the Essentials Light Oatmeal Sweatpants. Made from a soft, premium cotton blend, these sweatpants feature a relaxed  - Luxora
-  Updated: 2026-02-10T17:09:47Z
+  Updated: 2026-02-23T01:07:46Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3154,7 +3129,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Fear of God Essentials Kids Essentials Hoodie 'Light Oatmeal' - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-kids-essentials-hoodie-light-oatmeal): This Fear of God Essentials Kids hoodie is made from soft, cotton-rich fleece in a versatile grey colorway. Detailed simply with logo prints on each  - Luxora
-  Updated: 2026-02-10T17:09:48Z
+  Updated: 2026-02-23T01:07:58Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3172,7 +3147,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Essentials sweatpants - Jet Black (FW24) - Luxora](https://www.luxorasimpleluxuries.com/products/essentials-sweatpants-jet-black-fw24): - Luxora
-  Updated: 2026-02-10T17:10:30Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3196,7 +3171,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Fear of God Essentials - Hoodie Stretch Limo SS22 - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-hoodie-stretch-limo-ss22): Elevate your streetwear rotation with the Essentials Stretch Limo Hoodie. Made from soft, premium fleece, this hoodie offers a relaxed fit and clean,  - Luxora
-  Updated: 2026-02-10T17:10:30Z
+  Updated: 2026-02-23T01:07:58Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3223,7 +3198,7 @@
     Availability: Available
     Price: $126.00 USD
 - [Fear of God Essentials - Sweatpants Stretch Limo - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-sweatpants-stretch-limo): Step up your streetwear rotation with the Essentials Stretch Limo Sweatpants. Made from soft, premium cotton-blend fabric, these sweatpants offer a  - Luxora
-  Updated: 2026-02-10T17:09:47Z
+  Updated: 2026-02-23T01:09:21Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3250,7 +3225,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Fear of God Essentials – Relaxed Sweatpants (SS22) Stretch Limo -](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-relaxed-sweatpants-ss22-stretch-limo): Comfort meets street-ready style with the Essentials Relaxed Sweatpants. Designed for a relaxed fit and premium feel, these sweatpants are perfect for  - Luxora
-  Updated: 2026-02-10T17:10:31Z
+  Updated: 2026-02-23T01:07:28Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3277,7 +3252,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Fear of God Essentials - Hoodie Dark Oatmeal - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-hoodie-dark-oatmeal): Stay cozy wh the Essentials Dark Oatmeal Hoodie. Crafted from soft, premium fleece, this hoodie features a relaxed f and minimal branding, making  - Luxora
-  Updated: 2026-02-11T20:44:41Z
+  Updated: 2026-02-23T01:08:08Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3304,7 +3279,7 @@
     Availability: Available
     Price: $126.00 USD
 - [Fear of God Essentials - Hoodie Light Oatmeal - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-hoodie-light-oatmeal): Stay cozy and stylish with the Essentials Light Oatmeal Hoodie. Crafted from soft, mid-weight fleece, this hoodie offers a relaxed fit and minimal  - Luxora
-  Updated: 2026-02-11T20:44:43Z
+  Updated: 2026-02-23T01:21:23Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3331,7 +3306,7 @@
     Availability: Available
     Price: $126.00 USD
 - [Fear of God Essentials Classic Short Sleeve Tee Bright White - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-classic-short-sleeve-tee-bright-white): - Luxora
-  Updated: 2026-02-10T17:09:48Z
+  Updated: 2026-02-23T01:07:46Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3355,7 +3330,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Fear of God Essentials - Fleece Hoodie (FW24 Holiday) Black - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-fleece-hoodie-fw24-holiday-black): Stay cozy and stylish with the Essentials Fleece Hoodie. Crafted from soft, mid-weight fleece, this hoodie delivers a relaxed fit and minimal branding  - Luxora
-  Updated: 2026-02-11T20:44:41Z
+  Updated: 2026-02-23T01:07:40Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3382,7 +3357,7 @@
     Availability: Available
     Price: $130.00 USD
 - [Fear of God Essentials - T-shirt Dark Oatmeal - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-t-shirt-dark-oatmeal): A versatile streetwear staple, the Essentials Dark Oatmeal T-shirt delivers comfort and minimal style. Made from a premium cotton blend, it features a  - Luxora
-  Updated: 2026-02-10T17:09:49Z
+  Updated: 2026-02-23T01:09:35Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3412,7 +3387,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Fear of God Essentials - Classic Fit T-Shirt Jet Black - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-classic-fit-t-shirt-jet-black): A clean, everyday staple from Fear of God Essentials designed for comfort and versatility. • Soft premium cotton-blend fabric • Relaxed, boxy fit for  - Luxora
-  Updated: 2026-02-10T17:10:31Z
+  Updated: 2026-02-23T01:07:29Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3439,7 +3414,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Carhartt Brand Blank Beanie - Luxora](https://www.luxorasimpleluxuries.com/products/carhartt-brand-blank-beanie): Carhartt-Carhartt Officially Licensed Beanie 100% acrylic, rib knit fabric Made In: USA - Luxora
-  Updated: 2026-02-10T17:10:31Z
+  Updated: 2026-02-23T01:08:35Z
   Vendor: Hailey Brook Designs
   Product Type: 
   Availability: Available
@@ -3473,7 +3448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/13440652_a23c83e1-a8d1-4b60-ab5c-548e88bf748d.jpg?v=1769039057
     Price: $35.00 USD
 - [Vintage Cargo Fatigue Pants - Luxora](https://www.luxorasimpleluxuries.com/products/vintage-cargo-fatigue-pants): Product Details Rothco Brand 55% Cotton / 45% Polyester Tear Away Tag Two Front Slash Pockets, Two Large -Down Pleated Bellow Cargo Pockets. Two  - Luxora
-  Updated: 2026-02-14T16:52:13Z
+  Updated: 2026-02-23T18:18:26Z
   Vendor: Superline
   Product Type: Men Pants
   Availability: Available
@@ -3559,7 +3534,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/NAVY1_90bacb30-d170-475c-9fb1-9272738db6a0.png?v=1769039082
     Price: $40.00 USD
 - [Fear of God Essentials – Relaxed Sweatpants (SS22) Light Oatmeal -](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-relaxed-sweatpants-ss22-light-oatmeal): Effortless comfort meets modern streetwear in these Essentials Relaxed Sweatpants. Perfect for lounging or casual outings, they’re designed with a  - Luxora
-  Updated: 2026-02-10T17:10:32Z
+  Updated: 2026-02-23T01:07:29Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3586,7 +3561,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Fear of God Essentials – Relaxed Sweatpants (SS22) Dark Oatmeal -](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-relaxed-sweatpants-ss22-dark-oatmeal): Experience all-day comfort with a streetwear edge in the Essentials Relaxed Sweatpants. Crafted from a premium cotton blend, these sweatpants offer a  - Luxora
-  Updated: 2026-02-10T17:09:50Z
+  Updated: 2026-02-23T01:08:06Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3613,7 +3588,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Gucci Men Interlocking G Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/gucci-men-interlocking-g-sneakers): Low-top sneakers with suede and Interlocking G motif panels. Round toe Lace-up fastening Logo motif at tongue Side logo patch Panel construction 100%  - Luxora
-  Updated: 2026-02-10T20:15:17Z
+  Updated: 2026-02-23T01:07:24Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
@@ -3631,7 +3606,7 @@
     Availability: Available
     Price: $571.00 USD
 - [Fear of God Essentials - Dark Oatmeal Essential Shorts - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-dark-oatmeal-essential-shorts): Stay comfortable and stylish in the Essentials Dark Oatmeal Shorts. Designed with a relaxed fit and premium materials, these shorts are perfect for  - Luxora
-  Updated: 2026-02-10T17:10:33Z
+  Updated: 2026-02-23T01:07:50Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3658,7 +3633,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Fear of God Essentials - Stretch Limo Essential Shorts - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-stretch-limo-essential-shorts): Comt meets street-ready style with the Essentials Stretch Limo Shorts. Designed with a relaxed fit and premium materials, these shorts are perfect  - Luxora
-  Updated: 2026-02-10T17:10:33Z
+  Updated: 2026-02-23T01:07:35Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3685,7 +3660,7 @@
     Availability: Available
     Price: $100.00 USD
 - [MEN'S HELICON INSULATED JACKET - Luxora](https://www.luxorasimpleluxuries.com/products/mens-helicon-insulated-jacket): Designed to thrive in cold weather environments, the Helicon's premium warmth, comfort, and waterproofing perfectly blend with a clean, streamlined  - Luxora
-  Updated: 2026-02-12T12:23:00Z
+  Updated: 2026-02-23T01:08:06Z
   Vendor: Terracea
   Product Type: Insulated
   Availability: Available
@@ -3767,7 +3742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/Terracea_Helicon_-_Stealth_Black_-_Front_High_Res.jpg?v=1769039187
     Price: $399.00 USD
 - [Fear of God Essentials - Sweatpants Dark Oatmeal - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-essentials-sweatpants-dark-oatmeal): Relax in style with the Essentials Dark Oatmeal Sweatpants. Crafted from soft, premium cotton-blend fabric, these sweatpants offer a relaxed fit and  - Luxora
-  Updated: 2026-02-10T17:10:34Z
+  Updated: 2026-02-23T01:07:47Z
   Vendor: Sonnys
   Product Type: Clothing
   Availability: Available
@@ -3797,159 +3772,149 @@
     Availability: Available
     Price: $115.00 USD
 - [Palm Angels Men Polo - Luxora](https://www.luxorasimpleluxuries.com/products/palm-angels-men-polo): Palm Angels black polo shirt. Patch pocket with button on chest. Logo patch on white pocket. Short sleeves. Button-down collar. 100% cotton. Made in  - Luxora
-  Updated: 2026-02-11T16:32:35Z
+  Updated: 2026-02-23T01:07:29Z
   Vendor: Luosophy
   Product Type: Tops / Tee Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/polo-palmangels-black-logo-chest-band-white-man.jpg?v=1769039236
-  Price: $393.00 USD
+  Price: $392.00 USD
 - [Creed Delphinus, Luxury Perfume for Him & Her, Woody Amber, Leathery,](https://www.luxorasimpleluxuries.com/products/creed-delphinus-luxury-perfume-for-him-her-woody-amber-leathery-rich-fragrance-50ml): Brand Creed Item Form Liquid Item Volume 50 Milliliters Scent DELPHINUS Fragrance Concentration Eau de Parfum  - Luxora
-  Updated: 2026-02-10T17:10:35Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Luxora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/717cKmm9BPL._SL1500.jpg?v=1769039240
   Price: $410.00 USD
 - [Creed Delphinus, Luxury Perfume for Him & Her, Woody Amber, Leathery,](https://www.luxorasimpleluxuries.com/products/creed-delphinus-luxury-perfume-for-him-her-woody-amber-leathery-rich-fragrance-100ml): Brand Creed Item Form Liquid Item Volume 100 Milliliters Scent DELPHINUS Fragrance Concentration Eau de Parfum  - Luxora
-  Updated: 2026-02-10T17:09:52Z
+  Updated: 2026-02-23T01:08:40Z
   Vendor: Luxora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/71_tbspWGNL._SL1500.jpg?v=1769039255
   Price: $560.00 USD
 - [Alexander Mcqueen Men Zaino - Luxora](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-zaino): E POLIESTERE 100% Size Type: INT Material: E POLIESTERE 100% SKU: 6464571AABW1073 Our Products Are 100% Genuine. In All Cases We Stand By The  - Luxora
-  Updated: 2026-02-14T12:34:32Z
+  Updated: 2026-02-23T01:07:37Z
   Vendor: Luosophy
   Product Type: Handbags / Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2100002018855_1.jpg?v=1769039687
-  Price: $802.00 USD
+  Price: $768.00 USD
 - [Balenciaga Men Tape Type T-Shirt - Luxora](https://www.luxorasimpleluxuries.com/products/balenciaga-men-tape-type-t-shirt): kabia_id: 712247 Made In: Portugal Composition: 100%cotton Color: Beige Measures: us size Gender: Male Season: Fall Winter 2025  Logo on back  - Luxora
-  Updated: 2026-02-10T17:09:48Z
+  Updated: 2026-02-23T01:08:06Z
   Vendor: Luosophy
   Product Type: Tops / Tee Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/tape-type-t-shirt_3432786f-2eda-4390-8f88-34e5a120a943.jpg?v=1769039975
-  Price: $736.00 USD
+  Price: $733.00 USD
 - [Dolce&Gabbana Men Sneakers Portofino - Luxora](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-sneakers-portofino): Dolce&amp;Gabbana Portofino low-top sneakers in white leather. Black logo printed on visible side. Black leather counter. White flat laces. Black logo  - Luxora
-  Updated: 2026-02-11T16:33:25Z
+  Updated: 2026-02-23T01:08:04Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sneakers-dolce-gabbana-portofino-white-black-leather-logo-men_99306dfe-8ea3-47cf-ab2d-a38b572e587a.jpg?v=1769040073
   - [White / 40 / MOCS1772AC33089697](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-sneakers-portofino?variant=51888533668116)
     Availability: Available
-    Price: $678.00 USD
+    Price: $676.00 USD
   - [White / 40.5 / MOCS1772AC33089697](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-sneakers-portofino?variant=51888533700884)
     Availability: Available
-    Price: $678.00 USD
+    Price: $676.00 USD
 - [Dolce & Gabbana Men Suede And Mesh Dg Cushion Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers): Leather | 70% Calfskin, 30% Polyester Size Type: IT SKU: CS2288A5355White Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of  - Luxora
-  Updated: 2026-02-10T17:09:55Z
+  Updated: 2026-02-23T01:09:35Z
   Vendor: Luosophy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/15112024_115.jpg?v=1769040088
   - [White / 40 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888534946068)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 41 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888534978836)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 42 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535011604)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 43 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535044372)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 44 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535077140)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 45 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535109908)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 40.5 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535142676)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 41.5 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535175444)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
   - [White / 42.5 / MOCS2288A5355White](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-suede-and-mesh-dg-cushion-sneakers?variant=51888535208212)
     Availability: Available
-    Price: $440.00 USD
+    Price: $439.00 USD
 - [Amiri 'Ma-1' Brown Leather Blend Sneakers Men - Luxora](https://www.luxorasimpleluxuries.com/products/amiri-ma-1-brown-leather-blend-sneakers-men): Flat laces, leather logo label on the tongue, star perforated toe, embossed side logo, suede insert heel and embossed logo, rubber logo sole. Size  - Luxora
-  Updated: 2026-02-10T17:10:36Z
+  Updated: 2026-02-23T01:07:24Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7700093098443_2_1748332634642.jpg?v=1769040142
-  - [Brown / IT 43 / LUAMFOSR1130BROWN](https://www.luxorasimpleluxuries.com/products/amiri-ma-1-brown-leather-blend-sneakers-men?variant=51888539205908)
-    Availability: Available
-    Price: $965.00 USD
-  - [Brown / IT 46 / LUAMFOSR1130BROWN](https://www.luxorasimpleluxuries.com/products/amiri-ma-1-brown-leather-blend-sneakers-men?variant=51888539238676)
-    Availability: Available
-    Price: $965.00 USD
+  Price: $963.00 USD
 - [PSD (3 PACK) Warface Men's Boxer Briefs Large WF CASH RICH - Luxora](https://www.luxorasimpleluxuries.com/products/psd-3-pack-warface-mens-boxer-briefs-large-wf-cash-rich): PSD Warface Men's Boxer Briefs Condition: New Size: Large Pack Size: 3 PACK Color: Black/Grey/Tan MPN/Model: WF CASH RICH 3PK Details: Material: 88%  - Luxora
-  Updated: 2026-02-10T17:09:42Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: PayWut
   Product Type: Underwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/4206DED6-10AB-4C06-92B8-C98B1AA3367A.jpg?v=1769040155
   Price: $25.00 USD
 - [Rhude Black Sweaters & Knitwear - Hoodies Men - Luxora](https://www.luxorasimpleluxuries.com/products/rhude-black-sweaters-knitwear-hoodies-men): black graphic print star pattern sleeve pouch pocket classic hood MADE IN:United StatesMATERIAL:Cotton: 100.0%COLOR:BLACK SKU: RHPF25HO100120027 Our  - Luxora
-  Updated: 2026-02-14T14:41:46Z
+  Updated: 2026-02-23T01:07:20Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7190224.jpg?v=1769040189
-  Price: $649.00 USD
+  Price: $644.00 USD
 - [Off-White Men Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/off-white-men-sneakers): Off-White sneakers. In suede, leather and canvas. White writing on laces: Shoelaces . White leather heel counter. Off-White logo on tongue.  - Luxora
-  Updated: 2026-02-11T16:32:23Z
+  Updated: 2026-02-23T01:07:25Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sneakers-off-white-suede-leather-canvas-black-laces-logo.jpg?v=1769040210
   - [Black / 41 / MOOMIA227S22FAB0011001](https://www.luxorasimpleluxuries.com/products/off-white-men-sneakers?variant=51888547758356)
     Availability: Available
-    Price: $564.00 USD
+    Price: $563.00 USD
   - [Black / 39 / MOOMIA227S22FAB0011001](https://www.luxorasimpleluxuries.com/products/off-white-men-sneakers?variant=51888547791124)
     Availability: Available
-    Price: $564.00 USD
+    Price: $563.00 USD
   - [Black / 40 / MOOMIA227S22FAB0011001](https://www.luxorasimpleluxuries.com/products/off-white-men-sneakers?variant=51888547823892)
     Availability: Available
-    Price: $564.00 USD
+    Price: $563.00 USD
 - [Marni Men "Fussbet" Sabot - Luxora](https://www.luxorasimpleluxuries.com/products/marni-men-fussbet-sabot): Product Material: Calf Hair | 100% CALF HAIR (100% CALF LEATHER) Size Type: FR SKU: SBMR000600P4122|097Green Our Products Are 100% Genuine. In All  - Luxora
-  Updated: 2026-02-12T20:08:35Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/19052025_5066.jpg?v=1769040226
-  - [Green / 42 / BESBMR000600P4122|097Green](https://www.luxorasimpleluxuries.com/products/marni-men-fussbet-sabot?variant=51888548315412)
-    Availability: Available
-    Price: $596.00 USD
-  - [Green / 45 / BESBMR000600P4122|097Green](https://www.luxorasimpleluxuries.com/products/marni-men-fussbet-sabot?variant=51888548413716)
-    Availability: Available
-    Price: $596.00 USD
+  Price: $591.00 USD
 - [Marni Pink Slippers Men - Luxora](https://www.luxorasimpleluxuries.com/products/marni-pink-slippers-men): fuschia pink calf hair/leather slip-on style round toe rubber soleMADE IN:ItalyMATERIAL:Lining Composition Calf Leather: 100%, Outer Composition Calf  - Luxora
-  Updated: 2026-02-14T14:42:13Z
+  Updated: 2026-02-23T01:07:36Z
   Vendor: Luosophy
   Product Type: Shoes / Sandals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7107414.jpg?v=1769040248
   - [Pink / 40 / LAP4122SBMR00060000C57](https://www.luxorasimpleluxuries.com/products/marni-pink-slippers-men?variant=51888548512020)
     Availability: Available
-    Price: $639.00 USD
+    Price: $634.00 USD
   - [Pink / 43 / LAP4122SBMR00060000C57](https://www.luxorasimpleluxuries.com/products/marni-pink-slippers-men?variant=51888548544788)
     Availability: Available
-    Price: $639.00 USD
+    Price: $634.00 USD
 - [Marni Blue Hats Men - Luxora](https://www.luxorasimpleluxuries.com/products/marni-blue-hats-men): navy blue round crown turn-up brim MADE IN:ItalyMATERIAL:Virgin Wool: 100.0%COLOR:BLUE SKU: UFW310CLZC0111A000B65 Our Products Are 100% Genuine. In  - Luxora
-  Updated: 2026-02-14T14:17:36Z
+  Updated: 2026-02-23T01:07:20Z
   Vendor: Luosophy
   Product Type: Accessories / Scarves & Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7107234.jpg?v=1769040268
-  Price: $336.00 USD
+  Price: $334.00 USD
 - [2025 Vulcanized Sneakers - Summer Casual Shoes | Femstylo - Luxora](https://www.luxorasimpleluxuries.com/products/2025-vulcanized-sneakers-summer-casual-shoes-femstylo): .product-description { max-width: 1200px; margin: 0 auto; font-family: 'Helvetica Neue', Arial, sans-serif; color: #333; line-height: 1.6; padding: 0  - Luxora
-  Updated: 2026-02-10T17:10:39Z
+  Updated: 2026-02-23T01:07:41Z
   Vendor: Femstylo
   Product Type: Sneakers & Runners
   Availability: Available
@@ -4099,22 +4064,19 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/S87bf1aeac29940fa86aa153ca902ab8bz_f6b293ba-10a6-48ca-9d73-a5ce2a105b48.jpg?v=1769040546
     Price: $60.99 USD
 - [Alexander Mcqueen Sneaker Oversize White/Black Men - Luxora](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-sneaker-oversize-white-black-men): Alexander Mcqueen Sneaker Oversize White/Black Size Type: IT Material: Leather SKU: 553680WIAIG/RALEXQ9061600 Our Products Are 100% Genuine. In All  - Luxora
-  Updated: 2026-02-14T09:35:42Z
+  Updated: 2026-02-23T23:04:56Z
   Vendor: Luosophy
   Product Type: Shoes / Flats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/553680WIAIG_R_ALEXQ-9061.b.jpg?v=1769040554
   - [White / IT 43 / 2F553680WIAIG/RALEXQ9061600](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-sneaker-oversize-white-black-men?variant=51890542903572)
     Availability: Available
-    Price: $564.00 USD
+    Price: $561.00 USD
   - [White / IT 43.5 / 2F553680WIAIG/RALEXQ9061600](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-sneaker-oversize-white-black-men?variant=51890542936340)
     Availability: Available
-    Price: $564.00 USD
-  - [White / IT 44 / 2F553680WIAIG/RALEXQ9061600](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-sneaker-oversize-white-black-men?variant=51890542969108)
-    Availability: Available
-    Price: $564.00 USD
+    Price: $561.00 USD
 - [Men Bulldog Hand Tooled Boots - Old Leaf Cognac - Luxora](https://www.luxorasimpleluxuries.com/products/men-bulldog-hand-tooled-boots-old-leaf-cognac): Great style of HandTooled Boots from Roman Boots, made with first class leather and cowhide lining, welt construction and stitched Sole. They can be  - Luxora
-  Updated: 2026-02-10T17:10:39Z
+  Updated: 2026-02-23T01:08:04Z
   Vendor: Roman Boots TX RB
   Product Type: Boots
   Availability: Available
@@ -4162,7 +4124,7 @@
     Availability: Available
     Price: $230.00 USD
 - [Stetson Bronco (Tan) - Men's Cowboy Boot - Luxora](https://www.luxorasimpleluxuries.com/products/stetson-bronco-tan-mens-cowboy-boot): Snip Toe Tan Suede Vamp &amp; Shaft 13" Shaft Single Welt Handcrafted Boot Premium Cow Lining Cowboy Leather Heel Leather Outsole Removable Tru X  - Luxora
-  Updated: 2026-02-14T06:05:36Z
+  Updated: 2026-02-23T01:08:03Z
   Vendor: HatCountry
   Product Type: Footwear
   Availability: Available
@@ -4280,7 +4242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/1202086214082webp2.webp?v=1769040631
     Price: $289.99 USD
 - [Off White Men Off Stamp Skate T-Shirt - Luxora](https://www.luxorasimpleluxuries.com/products/off-white-men-off-stamp-skate-t-shirt): Logo motif T-shirt in cotton jersey. Crewneck Short sleeves Front logo motif 100% Cotton. Hand wash OMAA120C99JER0051001 SKU: OMAA120C99JER0051001  - Luxora
-  Updated: 2026-02-10T17:10:40Z
+  Updated: 2026-02-23T01:07:21Z
   Vendor: Luosophy
   Product Type: Tops / Tee Shirts
   Availability: Available
@@ -4295,7 +4257,7 @@
     Availability: Available
     Price: $318.00 USD
 - [Moncler Men Rocoque Vest - Luxora](https://www.luxorasimpleluxuries.com/products/moncler-men-rocoque-vest): Rocoque vest in quilted finish. Stand collar Front zip fastening Front logo patch Side slip pockets 100% Polyamide. Fill: 90% Down, 10% Feathers.  - Luxora
-  Updated: 2026-02-10T17:10:40Z
+  Updated: 2026-02-23T01:07:31Z
   Vendor: Luosophy
   Product Type: Outerwear / Jackets
   Availability: Available
@@ -4316,32 +4278,25 @@
     Availability: Available
     Price: $1,276.00 USD
 - [Moncler Women Monaco2 - Leather Trainer - Luxora](https://www.luxorasimpleluxuries.com/products/moncler-women-monaco2-leather-trainer): The low lace-up Monaco M trainers in soft calfskin leather are distinguished by a covered heel and an EVA box sole. - Calfskin upper - Leather and  - Luxora
-  Updated: 2026-02-14T10:40:40Z
+  Updated: 2026-02-23T01:08:07Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/art-j209b4m00140m4496-051-1725462554717.jpg?v=1769040694
   - [Cream / 36 / BEJ209B4M00140M4496051](https://www.luxorasimpleluxuries.com/products/moncler-women-monaco2-leather-trainer?variant=51890575278356)
     Availability: Available
-    Price: $492.00 USD
+    Price: $489.00 USD
   - [Cream / 37 / BEJ209B4M00140M4496051](https://www.luxorasimpleluxuries.com/products/moncler-women-monaco2-leather-trainer?variant=51890575311124)
     Availability: Available
-    Price: $492.00 USD
+    Price: $489.00 USD
   - [Cream / 39 / BEJ209B4M00140M4496051](https://www.luxorasimpleluxuries.com/products/moncler-women-monaco2-leather-trainer?variant=51890575343892)
     Availability: Available
-    Price: $492.00 USD
+    Price: $489.00 USD
   - [Cream / 40 / BEJ209B4M00140M4496051](https://www.luxorasimpleluxuries.com/products/moncler-women-monaco2-leather-trainer?variant=51890575376660)
     Availability: Available
-    Price: $492.00 USD
-- [Moncler Men Logo-Patch Beanie - Luxora](https://www.luxorasimpleluxuries.com/products/moncler-men-logo-patch-beanie): Wool | SKU: K20913B00029M1242Black Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site. - Luxora
-  Updated: 2026-02-10T17:09:52Z
-  Vendor: Luosophy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/15072025_213.jpg?v=1769040728
-  Price: $349.00 USD
+    Price: $489.00 USD
 - [Reversible Corduroy Puffer Vest - black available - Luxora](https://www.luxorasimpleluxuries.com/products/reversible-corduroy-puffer-vest-black-available): Reversible Corduroy Puffer Vest FEATURES: - Cropped, Zip up Closure&amp; Two Snap Side Pockets * Different Design Inside* Size + Fit - Model is 5'9"  - Luxora
-  Updated: 2026-02-14T18:43:20Z
+  Updated: 2026-02-23T01:09:22Z
   Vendor: Cowhide and Conchos
   Product Type: Womens Outerwear
   Availability: Available
@@ -4359,7 +4314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/reversible-corduroy-puffer-vest-4-colors-available-4957550.jpg?v=1769040737
     Price: $29.99 USD
   - [CREAM / Small](https://www.luxorasimpleluxuries.com/products/reversible-corduroy-puffer-vest-black-available?variant=51890577277204)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/reversible-corduroy-puffer-vest-4-colors-available-2851085.jpg?v=1769040766
     Price: $29.99 USD
   - [CREAM / Medium](https://www.luxorasimpleluxuries.com/products/reversible-corduroy-puffer-vest-black-available?variant=51890577309972)
@@ -4395,59 +4350,44 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/reversible-corduroy-puffer-vest-4-colors-available-1117703.jpg?v=1769040751
     Price: $29.99 USD
 - [Givenchy Black Loafers Women - Luxora](https://www.luxorasimpleluxuries.com/products/givenchy-black-loafers-women): black lambskin slip-on style round toe flat sole MADE IN:ItalyMATERIAL:Sole Composition Calf Leather: 100.0%, Outer Composition Lambskin: 100.0%,  - Luxora
-  Updated: 2026-02-14T14:41:35Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Luosophy
   Product Type: Shoes / Slides
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7201365.jpg?v=1769040792
-  Price: $673.00 USD
+  Price: $668.00 USD
 - [Givenchy Men Urban Street Elastic Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers): Calf Leather | Size Type: IT SKU: BH00AXH1W4White  Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On  - Luxora
-  Updated: 2026-02-10T17:10:40Z
+  Updated: 2026-02-23T01:08:09Z
   Vendor: Luosophy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/03072025_393.jpg?v=1769040826
-  - [White / 40 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890763825428)
-    Availability: Available
-    Price: $489.00 USD
   - [White / 41 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890763858196)
     Availability: Available
-    Price: $489.00 USD
+    Price: $488.00 USD
   - [White / 42 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890763890964)
     Availability: Available
-    Price: $489.00 USD
+    Price: $488.00 USD
   - [White / 43 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890763923732)
     Availability: Available
-    Price: $489.00 USD
-  - [White / 44 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890763956500)
-    Availability: Available
-    Price: $489.00 USD
-  - [White / 40.5 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890763989268)
-    Availability: Available
-    Price: $489.00 USD
+    Price: $488.00 USD
   - [White / 42.5 / MOBH00AXH1W4White](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers?variant=51890764022036)
     Availability: Available
-    Price: $489.00 USD
+    Price: $488.00 USD
 - [Givenchy Men Urban Street Elastic Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers-1): Calf Leather | Size Type: IT SKU: BH00AXH1W4Black  Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On  - Luxora
-  Updated: 2026-02-10T17:10:40Z
+  Updated: 2026-02-23T01:08:40Z
   Vendor: Luosophy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/10062025_194.jpg?v=1769040849
   - [Black / 40 / MOBH00AXH1W4Black](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers-1?variant=51890767167764)
     Availability: Available
-    Price: $489.00 USD
+    Price: $488.00 USD
   - [Black / 41 / MOBH00AXH1W4Black](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers-1?variant=51890767200532)
     Availability: Available
-    Price: $489.00 USD
-  - [Black / 42 / MOBH00AXH1W4Black](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers-1?variant=51890767233300)
-    Availability: Available
-    Price: $489.00 USD
-  - [Black / 44 / MOBH00AXH1W4Black](https://www.luxorasimpleluxuries.com/products/givenchy-men-urban-street-elastic-sneakers-1?variant=51916512788756)
-    Availability: Available
-    Price: $489.00 USD
+    Price: $488.00 USD
 - [Leather Airpod Case - Tan - Luxora](https://www.luxorasimpleluxuries.com/products/leather-airpod-case-tan): Introducing our groundbreaking AirPods Case – a fusion of cutting-edge technology and luxurious design. A bold statement that you can take with you  - Luxora
-  Updated: 2026-02-10T17:09:58Z
+  Updated: 2026-02-23T06:10:07Z
   Vendor: CASUPO
   Product Type: Small Leather Goods
   Availability: Available
@@ -4459,96 +4399,93 @@
     Availability: Available
     Price: $39.00 USD
 - [Fear Of God Men 'Eva Runner' Sabots - Luxora](https://www.luxorasimpleluxuries.com/products/fear-of-god-men-eva-runner-sabots): 'Eva Runner' EVA Extrabounce sabots, slip-on model, side cut-out detail, rubberized logo label on the heel. EU MEN 100% rubber SKU: FGE2808006EVACREAM  - Luxora
-  Updated: 2026-02-14T17:10:19Z
+  Updated: 2026-02-23T01:07:32Z
   Vendor: Luosophy
   Product Type: Shoes / Slides
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/FGE2808006EVACREAM_01_M_2025-03-21T12-10-00.651Z.jpg?v=1769041026
   - [Cream / 41 / JUFGE2808006EVACREAM](https://www.luxorasimpleluxuries.com/products/fear-of-god-men-eva-runner-sabots?variant=51890815435028)
     Availability: Available
-    Price: $274.00 USD
+    Price: $289.00 USD
   - [Cream / 45 / JUFGE2808006EVACREAM](https://www.luxorasimpleluxuries.com/products/fear-of-god-men-eva-runner-sabots?variant=51890815467796)
     Availability: Available
-    Price: $274.00 USD
+    Price: $289.00 USD
 - [Lanvin Men Curb Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers): Lanvin Curb sneakers in green suede. Navy blue mesh inserts. Navy rubber toe cap and counter. Embossed logo on side. Oversized tongue with logo  - Luxora
-  Updated: 2026-02-11T16:31:28Z
+  Updated: 2026-02-23T01:07:41Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/baskets-curb-lanvin-suede-green-mesh-blue-navy-rubber-details.jpg?v=1769041057
   - [Green / 40 / MOFMSKRK11RECYA23](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers?variant=51890987401492)
     Availability: Available
-    Price: $849.00 USD
+    Price: $847.00 USD
   - [Green / 41 / MOFMSKRK11RECYA23](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers?variant=51890987434260)
     Availability: Available
-    Price: $849.00 USD
+    Price: $847.00 USD
 - [Lanvin Men Curb Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers-1): Lanvin Curb sneakers in white leather. Suede edges with yoke design. Embossed logo on the side. Oversized tongue and flat rubber sole. Red, grey,  - Luxora
-  Updated: 2026-02-11T16:14:50Z
+  Updated: 2026-02-23T01:07:29Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sneakers-curb-white-leather-lacets-green_ffe87aa2-83ba-48b0-8327-cad59c4301bb.jpg?v=1769041071
   - [White / 41 / MOFMSKRK11REFLP22](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers-1?variant=51890987663636)
     Availability: Available
-    Price: $621.00 USD
+    Price: $619.00 USD
   - [White / 42 / MOFMSKRK11REFLP22](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers-1?variant=51890987696404)
     Availability: Available
-    Price: $621.00 USD
-  - [White / 44 / MOFMSKRK11REFLP22](https://www.luxorasimpleluxuries.com/products/lanvin-men-curb-sneakers-1?variant=51890987729172)
-    Availability: Available
-    Price: $621.00 USD
+    Price: $619.00 USD
 - [Amiri Men Sweatshirt - Luxora](https://www.luxorasimpleluxuries.com/products/amiri-men-sweatshirt): Precious Memories Amiri hooded sweatshirt in black cotton. Graphic print and white lettering on chest. Graphic print and white lettering on back.  - Luxora
-  Updated: 2026-02-11T16:31:06Z
+  Updated: 2026-02-23T01:07:59Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sweatshirt-amiri-hooded-cotton-black-precious-memories-graphic-print-white-men.jpg?v=1769041085
-  Price: $735.00 USD
+  Price: $733.00 USD
 - [Amiri Men Sweatshirt - Luxora](https://www.luxorasimpleluxuries.com/products/amiri-men-sweatshirt-1): Amiri hooded sweatshirt in brown cotton. White logo print in the center. Kangaroo pocket. Ribbed edges. Made in Italy. Size Type: INT SKU:  - Luxora
-  Updated: 2026-02-11T16:31:02Z
+  Updated: 2026-02-23T01:07:28Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sweatshirt-amiri-hooded-cotton-brown-logo-print-white-man.jpg?v=1769041099
-  Price: $678.00 USD
+  Price: $676.00 USD
 - [Gucci Men `Original Gg` Duffle Bag - Luxora](https://www.luxorasimpleluxuries.com/products/gucci-men-original-gg-duffle-bag): Composition:Polyester MadeIn:Italy|IT beigeandbrown  GGmonogramdesign  zipclosure  cylindricalform  removableandadjustablestrap  - Luxora
-  Updated: 2026-02-14T10:40:26Z
+  Updated: 2026-02-23T01:07:36Z
   Vendor: Luosophy
   Product Type: Handbags / Weekend/Travel Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/f9d1f985-cfe6-4cae-895f-ae7e7e86852b.jpg?v=1769041130
-  Price: $1,137.00 USD
+  Price: $1,130.00 USD
 - [Prada Men Re-Nylon And Saffiano Leather Duffle Bag - Luxora](https://www.luxorasimpleluxuries.com/products/prada-men-re-nylon-and-saffiano-leather-duffle-bag): Nylon | Fabric and Leather W 44,5 x H 40 x D 24 cm SKU: 2VC796VOOO2DMHBlack Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity  - Luxora
-  Updated: 2026-02-10T17:09:48Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: Luosophy
   Product Type: Handbags / Cross Body Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/23102024_016.jpg?v=1769041156
-  Price: $2,040.00 USD
+  Price: $2,035.00 USD
 - [Fendi Men 'Large Duffle' Brown Travel Bag With Ff Motif In Fabric Man](https://www.luxorasimpleluxuries.com/products/fendi-men-large-duffle-brown-travel-bag-with-ff-motif-in-fabric-man): Travel bag All-over FF motif Dark brown leather trim Double zip closure Palladium-finish metalware Palladium-finish metalware Padded handles  - Luxora
-  Updated: 2026-02-10T19:22:50Z
+  Updated: 2026-02-23T01:07:25Z
   Vendor: Luosophy
   Product Type: Outerwear / Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/20251104184803502_SS26---FENDI---7VV162AFCBF19KW.jpg?v=1769041179
-  Price: $2,054.00 USD
+  Price: $2,045.00 USD
 - [Fendi Men Fendi Match Leather Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/fendi-men-fendi-match-leather-sneakers): •Front lace-up fastening•Perforated round toe•White leather insert at back with contrasting Fendi lettering•Layered black and white leather upper; FF  - Luxora
-  Updated: 2026-02-14T14:44:44Z
+  Updated: 2026-02-23T01:08:05Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2025_10_30_10_01_50_a25-fendi-7e1643aomnf0e7c.jpg?v=1769041300
   - [Multicolor / 7 / DA7e1643aomnf0e7c](https://www.luxorasimpleluxuries.com/products/fendi-men-fendi-match-leather-sneakers?variant=51891242696980)
     Availability: Available
-    Price: $718.00 USD
+    Price: $713.00 USD
   - [Multicolor / 7.5 / DA7e1643aomnf0e7c](https://www.luxorasimpleluxuries.com/products/fendi-men-fendi-match-leather-sneakers?variant=51891242729748)
     Availability: Available
-    Price: $718.00 USD
+    Price: $713.00 USD
   - [Multicolor / 9.5 / DA7e1643aomnf0e7c](https://www.luxorasimpleluxuries.com/products/fendi-men-fendi-match-leather-sneakers?variant=51891242762516)
     Availability: Available
-    Price: $718.00 USD
+    Price: $713.00 USD
 - [Shai Sweatsuit - Luxora](https://www.luxorasimpleluxuries.com/products/shai-sweatsuit): Our premium Sweatsuit, a must-have addition to your wardrobe for ultimate comfort and style. Made from high-quality materials, this two-piece set is  - Luxora
-  Updated: 2026-02-10T17:10:41Z
+  Updated: 2026-02-23T01:08:07Z
   Vendor: Influence Athleisure
   Product Type: 
   Availability: Available
@@ -4598,11 +4535,11 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/shai-sweatsuit-283732.jpg?v=1769041369
     Price: $150.00 USD
   - [3XL / Midnight Blue](https://www.luxorasimpleluxuries.com/products/shai-sweatsuit?variant=51891243221268)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/shai-sweatsuit-823175.jpg?v=1769041351
     Price: $150.00 USD
 - [Women's 2 Piece Tracksuit - Oversized Half Zip Sweatsuit Set | AURORE](https://www.luxorasimpleluxuries.com/products/womens-2-piece-tracksuit-oversized-half-zip-sweatsuit-set-aurore-luxure): Women's 2 Piece Tracksuit - Oversized Half Zip Sweatsuit Set   Material: 95% Polyester, 5% Elastane – soft, breathable &amp; stretchy Design: Half-zip  - Luxora
-  Updated: 2026-02-10T17:10:42Z
+  Updated: 2026-02-23T01:08:03Z
   Vendor: AURORE LUXURE
   Product Type: 
   Availability: Available
@@ -4805,33 +4742,33 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/E438A3AE-FCAE-4C1D-B094-882AE78E26B7.jpg?v=1769041510
     Price: $35.99 USD
 - [Gucci Men Gg Crossbody Bag - Luxora](https://www.luxorasimpleluxuries.com/products/gucci-men-gg-crossbody-bag): GG crossbody bag in GG supreme canvas. Shoulder strap Top zip fastening Front zip pocket One main compartment Made in Italy 60% Polyurethane, 20%  - Luxora
-  Updated: 2026-02-10T17:09:48Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: Luosophy
   Product Type: Handbags / Cross Body Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/guc0159102_blk_00_6a3f48c0-e436-42a6-a71f-5319ccb8f564.jpg?v=1769041551
   Price: $989.00 USD
 - [Balenciaga Men Loop Sports Icon Hoodie - Luxora](https://www.luxorasimpleluxuries.com/products/balenciaga-men-loop-sports-icon-hoodie): Cotton | 100% Cotton SKU: 808832TRVJ2Grey Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site. - Luxora
-  Updated: 2026-02-10T17:09:59Z
+  Updated: 2026-02-23T01:07:47Z
   Vendor: Luosophy
   Product Type: Outerwear / Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/10122024_148.jpg?v=1769041604
   - [Gray / L / MO808832TRVJ2Grey](https://www.luxorasimpleluxuries.com/products/balenciaga-men-loop-sports-icon-hoodie?variant=51891276316948)
     Availability: Available
-    Price: $982.00 USD
+    Price: $980.00 USD
   - [Gray / M / MO808832TRVJ2Grey](https://www.luxorasimpleluxuries.com/products/balenciaga-men-loop-sports-icon-hoodie?variant=51891276349716)
     Availability: Available
-    Price: $982.00 USD
+    Price: $980.00 USD
 - [Balenciaga Men Tape Type Ripped Pocket Hoodie - Luxora](https://www.luxorasimpleluxuries.com/products/balenciaga-men-tape-type-ripped-pocket-hoodie): kabia_id: 712246 Made In: Portugal Composition: 100%cotton Color: Beige Measures: us size Gender: Male Season: Fall Winter 2025 Effect: Distressed  - Luxora
-  Updated: 2026-02-10T17:09:49Z
+  Updated: 2026-02-23T01:07:21Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/tape-type-ripped-pocket-hoodie_6c71e787-696c-4cd6-81b3-4fab1cb01a95.jpg?v=1769041625
-  Price: $1,007.00 USD
+  Price: $1,003.00 USD
 - [MAHJ Knit Sweater - Luxora](https://www.luxorasimpleluxuries.com/products/mahj-knit-sweater): Preorders will arrive in January. In stock sizes ship in 1-2 business days! Share your love of the game with your new favorite sweater! The original  - Luxora
-  Updated: 2026-02-14T21:40:37Z
+  Updated: 2026-02-23T15:36:48Z
   Vendor: Play Away Cards
   Product Type: 
   Availability: Available
@@ -4952,7 +4889,7 @@
     Availability: Available
     Price: $95.00 USD
 - [PanAm Duffle Bag - Luxora](https://www.luxorasimpleluxuries.com/products/panam-duffle-bag): The P Am Duffle Bag is the perfect compion for your next weekend getaway or round-the-world trip. It's made from full-grain leather d features  - Luxora
-  Updated: 2026-02-10T17:10:03Z
+  Updated: 2026-02-23T17:25:38Z
   Vendor: WP Standard
   Product Type: Duffle Bags
   Availability: Available
@@ -4974,14 +4911,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/olive_duffle_a4e48bbe-2ac4-4ea6-a849-842c228119a6.jpg?v=1769041737
     Price: $468.00 USD
 - [Cybertruck Style Backpack - Luxora](https://www.luxorasimpleluxuries.com/products/cybertruck-style-backpack): Cybertruck Style Backpack 2024 - On Upgrade your travel game with our sleek and durable Bagpacks for Tesla Cybertruck. Designed specifically for the  - Luxora
-  Updated: 2026-02-10T17:09:51Z
+  Updated: 2026-02-23T01:07:21Z
   Vendor: Tesery Official Store
   Product Type: CyberTruck
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/cybertruck-style-bagpack-303966.jpg?v=1769041742
   Price: $186.99 USD
 - [Prada Women Canvas Bomber Jacket - Luxora](https://www.luxorasimpleluxuries.com/products/prada-women-canvas-bomber-jacket): Canvas bomber jacket with chest and sleeve patches. Crewneck Snap button fastening Long sleeves Side slip pockets Graphic patches Ribbed trims  - Luxora
-  Updated: 2026-02-10T17:10:01Z
+  Updated: 2026-02-23T01:07:31Z
   Vendor: Luosophy
   Product Type: Outerwear / Jackets
   Availability: Available
@@ -4992,115 +4929,76 @@
   - [Multicolor / IT 40 / LN292230152IF0304](https://www.luxorasimpleluxuries.com/products/prada-women-canvas-bomber-jacket?variant=51892436730132)
     Availability: Available
     Price: $2,346.00 USD
-- [Prada Men Downtown Two-Tone Leather Sneakers - Luxora](https://www.luxorasimpleluxuries.com/products/prada-men-downtown-two-tone-leather-sneakers): Leather | Size Type: UK SKU: 2EE364FD0033LOIGreen  Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On  - Luxora
-  Updated: 2026-02-10T17:10:00Z
-  Vendor: Luosophy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/03072025_030.jpg?v=1769041820
-  - [Green / UK 6 / MO2EE364FD0033LOIGreen](https://www.luxorasimpleluxuries.com/products/prada-men-downtown-two-tone-leather-sneakers?variant=51892436828436)
-    Availability: Available
-    Price: $768.00 USD
-  - [Green / UK 7 / MO2EE364FD0033LOIGreen](https://www.luxorasimpleluxuries.com/products/prada-men-downtown-two-tone-leather-sneakers?variant=51892436861204)
-    Availability: Available
-    Price: $768.00 USD
-  - [Green / UK 9 / MO2EE364FD0033LOIGreen](https://www.luxorasimpleluxuries.com/products/prada-men-downtown-two-tone-leather-sneakers?variant=51892436893972)
-    Availability: Available
-    Price: $768.00 USD
-  - [Green / UK 6.5 / MO2EE364FD0033LOIGreen](https://www.luxorasimpleluxuries.com/products/prada-men-downtown-two-tone-leather-sneakers?variant=51892436926740)
-    Availability: Available
-    Price: $768.00 USD
-  - [Green / UK 8.5 / MO2EE364FD0033LOIGreen](https://www.luxorasimpleluxuries.com/products/prada-men-downtown-two-tone-leather-sneakers?variant=51892436959508)
-    Availability: Available
-    Price: $768.00 USD
 - [Prada Neutrals Tote Bags Men - Luxora](https://www.luxorasimpleluxuries.com/products/prada-neutrals-tote-bags-men): light beige side press-stud fastening logo lettering top handles detachable shoulder strap leather tag spacious interior MADE IN:ItalyMATERIAL:Outer  - Luxora
-  Updated: 2026-02-14T14:43:23Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: Luosophy
   Product Type: Handbags / Totes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7121625.jpg?v=1769041829
-  Price: $2,092.00 USD
+  Price: $2,074.00 USD
 - [Prada Large Black Leather Satchel Bag Women - Luxora](https://www.luxorasimpleluxuries.com/products/prada-large-black-leather-satchel-bag-women): Prada Large Black Leather Satchel Bag Size Type: INT Material: Leather SKU: 1BB148OOO2HIK/RPRADAF0002100 Our Products Are 100% Genuine. In All Cases  - Luxora
-  Updated: 2026-02-14T09:43:12Z
+  Updated: 2026-02-23T15:25:58Z
   Vendor: Luosophy
   Product Type: Handbags / Shoulder Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/1BB148OOO2HIK_R_PRADA-F0002.a.jpg?v=1769041863
-  Price: $2,744.00 USD
+  Price: $2,727.00 USD
 - [Prada Gold Keyrings & Chains Women - Luxora](https://www.luxorasimpleluxuries.com/products/prada-gold-keyrings-chains-women): gold-tone/black polished finish clasp fastening keyring attachment enamel triangle logo MADE IN:ItalyMATERIAL:Steel: 100.0%, Brass: 100.0%, Enamel :  - Luxora
-  Updated: 2026-02-14T14:20:20Z
+  Updated: 2026-02-23T01:07:32Z
   Vendor: Luosophy
   Product Type: Accessories / Miscellaneous
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7172375.jpg?v=1769041903
-  Price: $435.00 USD
+  Price: $432.00 USD
 - [Prada Black Sneakers In Hammered Leather Men - Luxora](https://www.luxorasimpleluxuries.com/products/prada-black-sneakers-in-hammered-leather-men): Prada Black Sneakers In Hammered Leather Size Type: UK Material: Leather SKU: 2EE442G000013/RPRADAF0002604 Our Products Are 100% Genuine. In All Cases  - Luxora
-  Updated: 2026-02-14T09:52:45Z
+  Updated: 2026-02-23T15:57:50Z
   Vendor: Luosophy
   Product Type: Shoes / Flats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2EE442G000013_R_PRADA-F0002.b.jpg?v=1769041915
-  - [Black / UK 9 / 2F2EE442G000013/RPRADAF0002604](https://www.luxorasimpleluxuries.com/products/prada-black-sneakers-in-hammered-leather-men?variant=51892437090580)
-    Availability: Available
-    Price: $764.00 USD
-  - [Black / UK 6 / 2F2EE442G000013/RPRADAF0002604](https://www.luxorasimpleluxuries.com/products/prada-black-sneakers-in-hammered-leather-men?variant=51892437123348)
-    Availability: Available
-    Price: $764.00 USD
-  - [Black / UK 7 / 2F2EE442G000013/RPRADAF0002604](https://www.luxorasimpleluxuries.com/products/prada-black-sneakers-in-hammered-leather-men?variant=51892437156116)
-    Availability: Available
-    Price: $764.00 USD
-  - [Black / UK 7.5 / 2F2EE442G000013/RPRADAF0002604](https://www.luxorasimpleluxuries.com/products/prada-black-sneakers-in-hammered-leather-men?variant=51892437188884)
-    Availability: Available
-    Price: $764.00 USD
+  Price: $760.00 USD
 - [Prada Blue Trainers - Low-Tops Men - Luxora](https://www.luxorasimpleluxuries.com/products/prada-blue-trainers-low-tops-men): blue eyelets cotton laces enamel triangle logo embossed logo on the tongueMADE IN:ItalyMATERIAL:Outer  Calf Leather: 100.0%, Sole  - Luxora
-  Updated: 2026-02-14T18:20:16Z
+  Updated: 2026-02-23T01:07:33Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7356955.jpg?v=1769041927
   - [Blue / 11 / LA2EE364FD002D7RF0355](https://www.luxorasimpleluxuries.com/products/prada-blue-trainers-low-tops-men?variant=51892437352724)
     Availability: Available
-    Price: $758.00 USD
+    Price: $752.00 USD
   - [Blue / 11.5 / LA2EE364FD002D7RF0355](https://www.luxorasimpleluxuries.com/products/prada-blue-trainers-low-tops-men?variant=51892437385492)
     Availability: Available
-    Price: $758.00 USD
+    Price: $752.00 USD
 - [Jacquemus Men The Grosgrain Shirt - Luxora](https://www.luxorasimpleluxuries.com/products/jacquemus-men-the-grosgrain-shirt): - REGULAR FIT- 100% COTTON - MADE IN Portugal- THE MODEL IS 190 CM TALL AND WEARS SIZE L Size Type: INT SKU: TSM00133AJ00226100 Our Products Are 100%  - Luxora
-  Updated: 2026-02-10T17:10:00Z
+  Updated: 2026-02-23T01:08:09Z
   Vendor: Luosophy
   Product Type: Tops / Tee Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/1239482.jpg?v=1769041950
   - [White / L / EBTSM00133AJ00226100](https://www.luxorasimpleluxuries.com/products/jacquemus-men-the-grosgrain-shirt?variant=51892471464212)
     Availability: Available
-    Price: $299.00 USD
+    Price: $298.00 USD
   - [White / S / EBTSM00133AJ00226100](https://www.luxorasimpleluxuries.com/products/jacquemus-men-the-grosgrain-shirt?variant=51892471496980)
     Availability: Available
-    Price: $299.00 USD
+    Price: $298.00 USD
   - [White / M / EBTSM00133AJ00226100](https://www.luxorasimpleluxuries.com/products/jacquemus-men-the-grosgrain-shirt?variant=51892471529748)
     Availability: Available
-    Price: $299.00 USD
+    Price: $298.00 USD
   - [White / XXL / EBTSM00133AJ00226100](https://www.luxorasimpleluxuries.com/products/jacquemus-men-the-grosgrain-shirt?variant=51892471562516)
     Availability: Available
-    Price: $299.00 USD
+    Price: $298.00 USD
   - [White / XL / EBTSM00133AJ00226100](https://www.luxorasimpleluxuries.com/products/jacquemus-men-the-grosgrain-shirt?variant=51892471595284)
     Availability: Available
-    Price: $299.00 USD
+    Price: $298.00 USD
 - [Jacquemus Le Bob Ovalie Women - Luxora](https://www.luxorasimpleluxuries.com/products/jacquemus-le-bob-ovalie-women): Jacquemus Le bob Ovalie in black. Black nylon, Side patch pocket and Slanted logo tag. Round and square silver-plated eyelets, topstitched details.  - Luxora
-  Updated: 2026-02-12T18:28:49Z
+  Updated: 2026-02-23T01:07:29Z
   Vendor: Luosophy
   Product Type: Accessories / Miscellaneous
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/18032024_079.jpg?v=1769041974
-  Price: $239.00 USD
-- [Jacquemus Women Le Chiquito Long - Luxora](https://www.luxorasimpleluxuries.com/products/jacquemus-women-le-chiquito-long): Leather | W 22 x H 10,5 cm SKU: BAW00004AC01C01Black  Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On  - Luxora
-  Updated: 2026-02-10T17:10:43Z
-  Vendor: Luosophy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/25062025_325.jpg?v=1769041988
-  Price: $702.00 USD
+  Price: $238.00 USD
 - [Fleece Mens Joggers](https://www.luxorasimpleluxuries.com/products/fleece-joggers): Product Details Greenhouse Brand Standard fit for a relaxed, easy feel Cuffed bottoms Matches with Greenhouse Fleece Hoodies Matches with Greenhouse Fleece Crewnecks 60% Cotton, 40% Polyester 280 GSM, unisex fit Tear Away Tag Model is 5’10”/178 cm Model is wearing a Medium Made in China Price Point Quality
-  Updated: 2026-02-14T16:32:12Z
+  Updated: 2026-02-23T21:23:03Z
   Vendor: Superline
   Product Type: Fleece
   Availability: Available
@@ -5230,7 +5128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/CHOCOLATE1.jpg?v=1769078631
     Price: $12.50 USD
   - [Chocolate / Medium](https://www.luxorasimpleluxuries.com/products/fleece-joggers?variant=51894812541204)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/CHOCOLATE1.jpg?v=1769078631
     Price: $12.50 USD
   - [Chocolate / Large](https://www.luxorasimpleluxuries.com/products/fleece-joggers?variant=51894812573972)
@@ -5274,7 +5172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/GREY1.jpg?v=1769078631
     Price: $12.50 USD
 - [Basics White Sand Unisex Sweatpant](https://www.luxorasimpleluxuries.com/products/basics-white-sand-unisex-sweatpant): The Basics White Sand Unisex Sweatpant is made with our Premium Blend Fleece and is designed to be worn year-round, made to last. Size: Model is 6'0" and wearing a size Large.Fit: Relaxed, Unisex FitColor: White SandComposition: 70% Cotton, 30% PolyesterFeatures: Super Soft, Pre-Shrunk, Hidden Drawcord, Embroidered Logo on Left Leg
-  Updated: 2026-02-13T21:01:27Z
+  Updated: 2026-02-23T01:09:35Z
   Vendor: Elevated Faith
   Product Type: Sweatpant
   Availability: Available
@@ -5304,467 +5202,401 @@
     Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/basics-white-sand-unisex-sweatpant-christian-sweatpant-889256040.jpg?v=1769078748
     Price: $29.99 USD
 - [Balenciaga Men Passport Long Wallet](https://www.luxorasimpleluxuries.com/products/balenciaga-men-passport-long-wallet): Leather wallet with logo motif and boarding pass motif. Bi-fold construction Front logo motif Six card slots Two bill compartment One zip pocket 100% Leather 787774 2AA3R 1108 SKU: 7877742AA3R1108 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:02Z
+  Updated: 2026-02-23T01:07:51Z
   Vendor: Luosophy
   Product Type: Accessories / Wallets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/bal0161029_gry_00.jpg?v=1769085990
   Price: $583.00 USD
 - [Balenciaga Black Wallets & Cardholders Men](https://www.luxorasimpleluxuries.com/products/balenciaga-black-wallets-cardholders-men): black/white/red calf leather grained texture logo print to the front card slotsMADE IN:ItalyMATERIAL:Calf Leather (top Grain): 100.0%COLOR:BLACK SKU: 5943092AA3B1000 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:42:31Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: Luosophy
   Product Type: Accessories / Wallets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/6732134.jpg?v=1769085999
-  Price: $396.00 USD
+  Price: $393.00 USD
 - [Balenciaga Men Cash Squared Folded Wallet](https://www.luxorasimpleluxuries.com/products/balenciaga-men-cash-squared-folded-wallet): kabia_id: 710032Made In: ItalyComposition: 100% calf leatherColor: BlackMeasures: 9,5x11x2,5 cmGender: MaleSeason: Fall Winter 2025Logo: Frontal logoPrint: All-over logo print SKU: 5945491IZI31090 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:03Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Luosophy
   Product Type: Accessories / Miscellaneous
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/cash-squared-folded-wallet_93a0bec4-67e8-4727-b18b-11dead2a8d28.jpg?v=1769086014
-  Price: $445.00 USD
+  Price: $443.00 USD
 - [Off White Men Vibe Arrow T-Shirt](https://www.luxorasimpleluxuries.com/products/off-white-men-vibe-arrow-t-shirt): Logo motif T-shirt in cotton jersey. Crewneck Short sleeves Front logo motif 100% Cotton. Hand wash OMAA120S25JER00F1041 SKU: OMAA120S25JER00F1041 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:02Z
+  Updated: 2026-02-23T01:08:05Z
   Vendor: Luosophy
   Product Type: Tops / Tee Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/ofw0160082_blk_00.jpg?v=1769086147
   Price: $362.00 USD
 - [Moschino Black Sweaters & Knitwear - Hoodies Men](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men): black logo print to the front kangaroo pocket drawstring hood ribbed cuffs and hem MADE IN:PortugalMATERIAL:Cotton: 100.0%COLOR:BLACK SKU: 5228A17081555 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:43:45Z
+  Updated: 2026-02-23T01:07:28Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7161324.jpg?v=1769086151
-  - [Black / M / LA5228A17081555](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men?variant=51895087661332)
-    Availability: Available
-    Price: $476.00 USD
-  - [Black / S / LA5228A17081555](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men?variant=51895087726868)
-    Availability: Available
-    Price: $476.00 USD
+  Price: $473.00 USD
 - [Gucci White Tops - Hoodies Women](https://www.luxorasimpleluxuries.com/products/gucci-white-tops-hoodies-women): white cotton blend logo print hooded neck long sleeves ribbed cuffs MADE IN:ItalyMATERIAL:Cotton: 87.0%, Polyamide: 13.0%COLOR:WHITE SKU: 837935XJHGJ9081 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:41:35Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7123914.jpg?v=1769086208
   - [White / XS / LA837935XJHGJ9081](https://www.luxorasimpleluxuries.com/products/gucci-white-tops-hoodies-women?variant=51895088152852)
     Availability: Available
-    Price: $834.00 USD
+    Price: $828.00 USD
   - [White / S / LA837935XJHGJ9081](https://www.luxorasimpleluxuries.com/products/gucci-white-tops-hoodies-women?variant=51895088185620)
     Availability: Available
-    Price: $834.00 USD
+    Price: $828.00 USD
 - [Moschino Black Sweaters & Knitwear - Hoodies Men](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men-1): black teddy bear print adjustable drawstring hood kangaroo pocket long sleeves cotton MADE IN:PortugalMATERIAL:Cotton: 100.0%COLOR:BLACK SKU: 5228A17091555 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:41:40Z
+  Updated: 2026-02-23T01:07:31Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7161334.jpg?v=1769086208
   - [Black / L / LA5228A17091555](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men-1?variant=51895088218388)
     Availability: Available
-    Price: $476.00 USD
+    Price: $473.00 USD
   - [Black / S / LA5228A17091555](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men-1?variant=51895088251156)
     Availability: Available
-    Price: $476.00 USD
+    Price: $473.00 USD
   - [Black / XL / LA5228A17091555](https://www.luxorasimpleluxuries.com/products/moschino-black-sweaters-knitwear-hoodies-men-1?variant=51895088283924)
     Availability: Available
-    Price: $476.00 USD
+    Price: $473.00 USD
 - [Prada White Sweaters & Knitwear - Hoodies Men](https://www.luxorasimpleluxuries.com/products/prada-white-sweaters-knitwear-hoodies-men): light beige logo print to the front drawstring fastening slouchy hood long sleeves MADE IN:ItalyMATERIAL:Cotton: 100.0%COLOR:WHITE SKU: UJL38CSOOO17IPF0018 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T18:29:17Z
+  Updated: 2026-02-23T01:07:59Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7121345.jpg?v=1769086208
-  Price: $1,075.00 USD
+  - [Cream / M / LAUJL38CSOOO17IPF0018](https://www.luxorasimpleluxuries.com/products/prada-white-sweaters-knitwear-hoodies-men?variant=51895088349460)
+    Availability: Available
+    Price: $1,066.00 USD
+  - [Cream / L / LAUJL38CSOOO17IPF0018](https://www.luxorasimpleluxuries.com/products/prada-white-sweaters-knitwear-hoodies-men?variant=51983068496148)
+    Availability: Available
+    Price: $1,066.00 USD
 - [Palm Angels Men Sweatpants](https://www.luxorasimpleluxuries.com/products/palm-angels-men-sweatpants): Khaki patchwork jogging suit from Palm Angels.Multicolored side stripe.Palm Angels writing on the front. Elastic waistband with drawstring. Two side pockets. 100% cotton. Size Type: INTSKU: PMCA087S21FAB0015610 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-11T16:32:40Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: Luosophy
   Product Type: Bottoms / Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/palmangels-jogging-khaki-patchwork.jpg?v=1769086258
   - [Green / M / MOPMCA087S21FAB0015610](https://www.luxorasimpleluxuries.com/products/palm-angels-men-sweatpants?variant=51895091429652)
     Availability: Available
-    Price: $655.00 USD
+    Price: $654.00 USD
   - [Green / S / MOPMCA087S21FAB0015610](https://www.luxorasimpleluxuries.com/products/palm-angels-men-sweatpants?variant=51895091462420)
     Availability: Available
-    Price: $655.00 USD
+    Price: $654.00 USD
 - [Balmain Logo Sweatpants Men](https://www.luxorasimpleluxuries.com/products/balmain-logo-sweatpants-men): - Composition: 100% Cotton - Two side pockets - Ribbed trims - Machine wash - Contrast logo print - Drawstring waist - Made in Portugal - Gender: MEN - MPN XH0OB145 00JB_EAB - Code: PNT BN 1 SX FW00 08976 Size Type: INTSKU: XH0OB14500JBEAB Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:02Z
+  Updated: 2026-02-23T01:09:22Z
   Vendor: Luosophy
   Product Type: Bottoms / Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/0f41f6af4af66da0aa1fa66d2c00dc7f.jpg?v=1769086258
   - [Black / L / TLXH0OB14500JBEAB](https://www.luxorasimpleluxuries.com/products/balmain-logo-sweatpants-men?variant=51895091495188)
     Availability: Available
-    Price: $626.00 USD
+    Price: $624.00 USD
   - [Black / M / TLXH0OB14500JBEAB](https://www.luxorasimpleluxuries.com/products/balmain-logo-sweatpants-men?variant=51895091527956)
     Availability: Available
-    Price: $626.00 USD
+    Price: $624.00 USD
   - [Black / S / TLXH0OB14500JBEAB](https://www.luxorasimpleluxuries.com/products/balmain-logo-sweatpants-men?variant=51895091560724)
     Availability: Available
-    Price: $626.00 USD
-- [Amiri Bandana Sweatpants Men](https://www.luxorasimpleluxuries.com/products/amiri-bandana-sweatpants-men): - Composition: 100% Cotton - Ribbed trims - Drawstring waist - Made in USA - Gender: MEN - MPN PS22MJL040_063 - Code: PNT 2A 1 SX FW23 08964 Size Type: ITSKU: PS22MJL040063 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:13Z
-  Vendor: Luosophy
-  Product Type: Bottoms / Pants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2e90c22c4ba2561a3ca113b4e08ae8f5_da53df15-ab77-444a-a24e-536e2a76b224.jpg?v=1769086258
-  - [Black / 46 / TLPS22MJL040063](https://www.luxorasimpleluxuries.com/products/amiri-bandana-sweatpants-men?variant=51895091593492)
-    Availability: Available
-    Price: $571.00 USD
-  - [Black / 48 / TLPS22MJL040063](https://www.luxorasimpleluxuries.com/products/amiri-bandana-sweatpants-men?variant=51895091626260)
-    Availability: Available
-    Price: $571.00 USD
-  - [Black / 50 / TLPS22MJL040063](https://www.luxorasimpleluxuries.com/products/amiri-bandana-sweatpants-men?variant=51895091659028)
-    Availability: Available
-    Price: $571.00 USD
-  - [Black / 52 / TLPS22MJL040063](https://www.luxorasimpleluxuries.com/products/amiri-bandana-sweatpants-men?variant=51939250635028)
-    Availability: Available
-    Price: $571.00 USD
-- [Burberry Men Low-Top Leather Sneakers With Check Inserts](https://www.luxorasimpleluxuries.com/products/burberry-men-low-top-leather-sneakers-with-check-inserts): Brand: BURBERRY Product reference:8108649 Color reference:A1464 Color:White Season:25A Gender:Man Category 1:Scarpe Category 2:Sneakers Made in:PORTOGALLO Lace-up closure Tongue with fabric logo label Stitched profiles Embossed lettering logo under the sole Leather Sole: rubber SKU: 8108649A1464 Size Type: ITSKU: 81086491464 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:44Z
-  Vendor: Luosophy
-  Product Type: Shoes / Athletic
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/25a-burberry-8108649a1464.jpg?v=1769086601
-  Price: $556.00 USD
+    Price: $624.00 USD
 - [Off White Men Black 779 Vulcanized Leather Sneakers](https://www.luxorasimpleluxuries.com/products/off-white-men-black-779-vulcanized-leather-sneakers): black 779 vulcanized leather sneakers COMPOSITION LINING 100% COTTON - SOLE 100% RUBBER - UPPER 100% LEATHER ID OMIA296C99LEA0011010 Leather | LINING 100% POLYESTER - sole 100% RUBBER - upper shoe 100% BOVINE LEATHER KG 2 Size Type: ITSKU: OMIA296C99LEA0011010Black Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T19:57:18Z
+  Updated: 2026-02-23T01:07:29Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/89898_236608.jpg?v=1769086601
-  Price: $477.00 USD
+  Price: $474.00 USD
 - [Burberry Women Embroidered Canvas Terrace Sneakers](https://www.luxorasimpleluxuries.com/products/burberry-women-embroidered-canvas-terrace-sneakers): Exterior: 100% Polyester 100% Cotton Interior: 100% Fabric 100% Leather Sole: Rubber Size Type: ITMaterial: Exterior: 100% Polyester 100% Cotton Interior: 100% Fabric 100% Leather Sole: RubberSKU: 8095373B9629 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T13:52:27Z
+  Updated: 2026-02-23T01:07:56Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2000015542548_1.jpg?v=1769086601
-  Price: $461.00 USD
+  Price: $459.00 USD
 - [Dolce & Gabbana 'Portofino' White Leather Sneakers Men](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-portofino-white-leather-sneakers-men): Logo tone label tab, flat laces, tonal stitching, embossed back logo, rubber logo sole Size Type: ITMaterial: 100% calfskin leatherSKU: CS2332A106580002 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:03Z
+  Updated: 2026-02-23T01:08:03Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7700092717987_2_1747130246539.jpg?v=1769086601
-  - [White / IT 43 / LUCS2332A106580002](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-portofino-white-leather-sneakers-men?variant=51895107256596)
-    Availability: Available
-    Price: $669.00 USD
   - [White / IT 44 / LUCS2332A106580002](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-portofino-white-leather-sneakers-men?variant=51895107289364)
     Availability: Available
-    Price: $669.00 USD
+    Price: $667.00 USD
   - [White / IT 45 / LUCS2332A106580002](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-portofino-white-leather-sneakers-men?variant=51895107322132)
     Availability: Available
-    Price: $669.00 USD
+    Price: $667.00 USD
   - [White / IT 40 / LUCS2332A106580002](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-portofino-white-leather-sneakers-men?variant=51895107354900)
     Availability: Available
-    Price: $669.00 USD
+    Price: $667.00 USD
   - [White / IT 41 / LUCS2332A106580002](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-portofino-white-leather-sneakers-men?variant=51895107387668)
     Availability: Available
-    Price: $669.00 USD
+    Price: $667.00 USD
 - [Fendi Men 'Flow' Sneakers](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers): 'Flow' leather sneakers, elastic laces with metal logo inserted, zip on the side and wavy midsole with carved F, embossed Fendi Flow lettering logo print on the heels, FF jacquard fabric details, FF jacquard fabric details, FF Lycra® tongue finish, lightweight rubber sole with diagonal F detail.UK MEN100% calfskin leather (Bos Taurus) SKU: 7E1392AJZHF1OU2 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T13:43:57Z
+  Updated: 2026-02-23T01:07:23Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7E1392AJZHF1OU2_01_M_2025-03-12T11-00-29.791Z.jpg?v=1769086602
-  Price: $775.00 USD
+  Price: $761.00 USD
 - [Alexander Mcqueen Men White Oversize Sneakers With Snake Print On The Heel In Leather Man](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-white-oversize-sneakers-with-snake-print-on-the-heel-in-leather-man): Sneakers White Low top Almond toe Front lace-up closure Logo patch on the rear Snake effect on the heel Logo lettering on the heel Rubber sole Oversize design Leather SKU: 553680WIAE59288 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T23:43:38Z
+  Updated: 2026-02-23T01:07:51Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/20250606073121352_AW25---ALEXANDER_20MCQUEEN---553680WIAE59288.jpg?v=1769086601
   - [White / IT 43 / GA553680WIAE59288](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-white-oversize-sneakers-with-snake-print-on-the-heel-in-leather-man?variant=51895107059988)
     Availability: Available
-    Price: $569.00 USD
+    Price: $567.00 USD
   - [White / IT 45 / GA553680WIAE59288](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-white-oversize-sneakers-with-snake-print-on-the-heel-in-leather-man?variant=51895107092756)
     Availability: Available
-    Price: $569.00 USD
+    Price: $567.00 USD
   - [White / IT 46 / GA553680WIAE59288](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-white-oversize-sneakers-with-snake-print-on-the-heel-in-leather-man?variant=51895107125524)
     Availability: Available
-    Price: $569.00 USD
+    Price: $567.00 USD
   - [White / IT 41 / GA553680WIAE59288](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-white-oversize-sneakers-with-snake-print-on-the-heel-in-leather-man?variant=51895107158292)
     Availability: Available
-    Price: $569.00 USD
+    Price: $567.00 USD
   - [White / IT 42 / GA553680WIAE59288](https://www.luxorasimpleluxuries.com/products/alexander-mcqueen-men-white-oversize-sneakers-with-snake-print-on-the-heel-in-leather-man?variant=51895107191060)
     Availability: Available
-    Price: $569.00 USD
+    Price: $567.00 USD
 - [Valentino Garavani Men Vl7n Sneakers](https://www.luxorasimpleluxuries.com/products/valentino-garavani-men-vl7n-sneakers): Valentino VL7N black calfskin sneakers.Seven bands with VLTN logo.Black leather buttress with Valentino logo.Rubber sole.Made in Italy. Size Type: ITSKU: WY2S0C58WRQ0NO Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-11T16:25:26Z
+  Updated: 2026-02-23T01:07:34Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/sneakers-valentino-VL7N-black.jpg?v=1769086601
-  Price: $849.00 USD
+  Price: $847.00 USD
 - [Dolce & Gabbana Men 'Ns1' Sneakers](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-ns1-sneakers): 'Ns1' low-top lycra sneakers with rubber details and contrast bands, rubber sole and lace-up closure.EU MAN38% polyamide 29% leather 19% polyester 9% polyurethane 5% elastane SKU: CS1769AJ9688B956 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T12:54:28Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/CS1769AJ9688B956_01_M_2024-02-01T08-27-36.803Z.jpg?v=1769086601
-  Price: $779.00 USD
+  Price: $657.00 USD
 - [Fendi Women 'Fendi Flow' Sneakers](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers): Tech mesh and suede 'Fendi Flow' sneakers with rubber details, embossed FF logo on the tongue and rubber tab with embossed logo on the heel at the back, adjustable elastic laces and drawstring closure, rubber sole.EU WOMEN73% polyester, 27% polyurethane SKU: 8E8620ASAXF1RUJ Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T15:56:26Z
+  Updated: 2026-02-23T01:08:00Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/8E8620ASAXF1RUJ_01_M_2025-03-27T09-23-37.899Z.jpg?v=1769086601
   - [White / 35 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51895108141332)
     Availability: Available
-    Price: $804.00 USD
+    Price: $761.00 USD
   - [White / 36.5 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51895108174100)
     Availability: Available
-    Price: $804.00 USD
+    Price: $761.00 USD
   - [White / 37 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51895108206868)
     Availability: Available
-    Price: $804.00 USD
+    Price: $761.00 USD
   - [White / 40 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51895108272404)
     Availability: Available
-    Price: $804.00 USD
+    Price: $761.00 USD
   - [White / 36 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51895108337940)
     Availability: Available
-    Price: $804.00 USD
+    Price: $761.00 USD
   - [White / 39.5 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51895108370708)
     Availability: Available
-    Price: $804.00 USD
-  - [White / 39 / JU8E8620ASAXF1RUJ](https://www.luxorasimpleluxuries.com/products/fendi-women-fendi-flow-sneakers?variant=51961001083156)
-    Availability: Available
-    Price: $804.00 USD
+    Price: $761.00 USD
 - [Dolce & Gabbana Men 'Strobel Portofino Light' Sneakers](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-strobel-portofino-light-sneakers): 'Strobel Portofino Light' leather, suede and mesh sneakers, side logo, lace-up closure, rubber sole.EU MEN77% calf leather 23% polyester SKU: CS2305A6D6889697 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T13:59:58Z
+  Updated: 2026-02-23T01:08:16Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/CS2305A6D6889697_01_M_2025-04-15T12-03-40.12Z.jpg?v=1769086601
   - [Multicolor / 40 / JUCS2305A6D6889697](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-strobel-portofino-light-sneakers?variant=51895107453204)
     Availability: Available
-    Price: $701.00 USD
+    Price: $657.00 USD
   - [Multicolor / 41 / JUCS2305A6D6889697](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-strobel-portofino-light-sneakers?variant=51895107485972)
     Availability: Available
-    Price: $701.00 USD
+    Price: $657.00 USD
 - [Dolce & Gabbana Men Fast Sc Sneakers](https://www.luxorasimpleluxuries.com/products/dolce-gabbana-men-fast-sc-sneakers): Fast sc sneakers in mesh weave. Round toe Lace-up fastening Logo patch at tongue Contrast panels Contrast heel counter with embossed logo Track sole 80% Polyester, 20% Viscose CS2175 AH405 89697 SKU: CS2175AH40589697 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T22:25:47Z
+  Updated: 2026-02-23T01:07:27Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/dol0153008_blk_00_5b2a5d91-3667-4d2b-8556-a2c859d60b30.jpg?v=1769086602
   Price: $750.00 USD
 - [Balenciaga Women 'Triple S' Sneakers](https://www.luxorasimpleluxuries.com/products/balenciaga-women-triple-s-sneakers): 'Triple S' low top sneakers with laces, oversized rubber sole and contrast logo embroidery.EU WOMEN SKU: 524036W2CA19000 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:03:04Z
+  Updated: 2026-02-23T01:07:35Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/524036W2CA19000_1_M_2023-07-18T09-30-33.029Z.jpg?v=1769086601
-  Price: $1,022.00 USD
+  Price: $1,015.00 USD
 - [Givenchy Men G Move Low Top Leather Sneakers](https://www.luxorasimpleluxuries.com/products/givenchy-men-g-move-low-top-leather-sneakers): Calf Leather | Smooth, Suede and Patent Leather Size Type: ITSKU: BH00ARH1U9White Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:45Z
+  Updated: 2026-02-23T01:09:21Z
   Vendor: Luosophy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/25062025_143.jpg?v=1769086601
   - [White / 40 / MOBH00ARH1U9White](https://www.luxorasimpleluxuries.com/products/givenchy-men-g-move-low-top-leather-sneakers?variant=51895107715348)
     Availability: Available
-    Price: $445.00 USD
+    Price: $444.00 USD
   - [White / 44 / MOBH00ARH1U9White](https://www.luxorasimpleluxuries.com/products/givenchy-men-g-move-low-top-leather-sneakers?variant=51895107813652)
     Availability: Available
-    Price: $445.00 USD
-  - [White / 41.5 / MOBH00ARH1U9White](https://www.luxorasimpleluxuries.com/products/givenchy-men-g-move-low-top-leather-sneakers?variant=51895107846420)
+    Price: $444.00 USD
+  - [White / 42.5 / MOBH00ARH1U9White](https://www.luxorasimpleluxuries.com/products/givenchy-men-g-move-low-top-leather-sneakers?variant=51984313090324)
     Availability: Available
-    Price: $445.00 USD
-  - [White / 42.5 / MOBH00ARH1U9White](https://www.luxorasimpleluxuries.com/products/givenchy-men-g-move-low-top-leather-sneakers?variant=51951757951252)
-    Availability: Available
-    Price: $445.00 USD
+    Price: $444.00 USD
 - [Amiri Men 'Pacific' Sneakers](https://www.luxorasimpleluxuries.com/products/amiri-men-pacific-sneakers): 'Pacific' leather and suede sneakers with contrast leather details, lace closure, rubber sole.EU MEN100% cow leather (Bos Taurus) SKU: AMFOSR1090BLACK Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T13:46:16Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/AMFOSR1090BLACK_01_M_2024-11-14T09-09-00.932Z.jpg?v=1769086601
-  Price: $574.00 USD
+  Price: $552.00 USD
 - [Gucci Men Men's Gg Screener Sneakers](https://www.luxorasimpleluxuries.com/products/gucci-men-mens-gg-screener-sneakers): •White leather •Green and red Web stripe •Embossed GG leather insert •Leather lining •Enamel oval detail with metal Double G •Embossed Gucci logo •One pair of additional laces included •Drawstring closure •Low heel •Made in Italy SKU: 798785aadu09094 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:41:49Z
+  Updated: 2026-02-23T01:08:03Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2025_10_31_11_03_59_a25-gucci-798785aadu09094.jpg?v=1769086601
   - [Multicolor / 10 / DA798785aadu09094](https://www.luxorasimpleluxuries.com/products/gucci-men-mens-gg-screener-sneakers?variant=51895108043028)
     Availability: Available
-    Price: $797.00 USD
+    Price: $791.00 USD
   - [Multicolor / 9 / DA798785aadu09094](https://www.luxorasimpleluxuries.com/products/gucci-men-mens-gg-screener-sneakers?variant=51895108075796)
     Availability: Available
-    Price: $797.00 USD
+    Price: $791.00 USD
 - [Valentino Garavani Men Light Blue Suede And Nylon Upvillage Sneakers](https://www.luxorasimpleluxuries.com/products/valentino-garavani-men-light-blue-suede-and-nylon-upvillage-sneakers): •Front lace-up fastening •Round toe; Valentino Garavani screen-printed logo at tongue •Suede and nylon upper; ivory nappa calfskin band at sides with leather patch with Vlogo Signature detail •Customized rubber sole with stud detailing •Light blue color •100% Calf Leather •Made in Italy SKU: 7y2s0h77mbm-bqg Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:41:42Z
+  Updated: 2026-02-23T01:07:28Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/2025_11_03_16_02_34_a25-valentino-garavani-7y2s0h77mbm-bqg.jpg?v=1769086602
-  - [Multicolor / 40 / DA7y2s0h77mbm-bqg](https://www.luxorasimpleluxuries.com/products/valentino-garavani-men-light-blue-suede-and-nylon-upvillage-sneakers?variant=51895108436244)
-    Availability: Available
-    Price: $586.00 USD
-  - [Multicolor / 41 / DA7y2s0h77mbm-bqg](https://www.luxorasimpleluxuries.com/products/valentino-garavani-men-light-blue-suede-and-nylon-upvillage-sneakers?variant=51895108469012)
-    Availability: Available
-    Price: $586.00 USD
-  - [Multicolor / 42 / DA7y2s0h77mbm-bqg](https://www.luxorasimpleluxuries.com/products/valentino-garavani-men-light-blue-suede-and-nylon-upvillage-sneakers?variant=51895108501780)
-    Availability: Available
-    Price: $586.00 USD
+  Price: $582.00 USD
 - [Balmain Men 'Swan' White Low Top Sneakers With Logo On The Side And Contrasting Heel With Logo Lettering In Leather Man](https://www.luxorasimpleluxuries.com/products/balmain-men-swan-white-low-top-sneakers-with-logo-on-the-side-and-contrasting-heel-with-logo-lettering-in-leather-man): Sneakers White Low top Round toe Front lace-up closure Logo patch on the tongue Logo on the side Contrasting heel with logo lettering Rubber sole Leather SKU: FM1VI360LCWEU44 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T19:56:35Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/20250708133336572_AW25---BALMAIN---FM1VI360LCWEU44.jpg?v=1769086601
-  Price: $462.00 USD
+  Price: $460.00 USD
 - [Saint Laurent Men `Sl/61` Sneakers](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers): Composition:Leather MadeIn:Italy|IT SKU: 84553700NI09061BLANCOPTIQUENERO Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T10:30:30Z
+  Updated: 2026-02-23T01:07:58Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/a5ba1610-e80f-4a67-a2f9-8fa4b1c4edd2.webp?v=1769086601
   - [Multicolor / IT 41 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108632852)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 42 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108665620)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 43 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108698388)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 44 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108731156)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 45 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108763924)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 40.5 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108796692)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 41.5 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108829460)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
   - [Multicolor / IT 42.5 / SP84553700NI09061BLANCOPTIQUENERO](https://www.luxorasimpleluxuries.com/products/saint-laurent-men-sl-61-sneakers?variant=51895108862228)
     Availability: Available
-    Price: $591.00 USD
+    Price: $590.00 USD
 - [Fendi Men 'Flow' Sneakers](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1): Tech mesh 'Flow' sneakers with metallic ruthenium rubber details, elastic laces, zip on the side and wavy midsole with carved F, embossed Fendi Flow lettering logo print on the heels finished with FF Lycra® tongue, lightweight rubber sole with diagonal F detail.UK MEN100% polyester SKU: 7E1689ASAKF1RTH Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T13:46:06Z
+  Updated: 2026-02-23T01:07:34Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7E1689ASAKF1RTH_01_M_2025-03-31T08-56-13.155Z.jpg?v=1769086602
-  - [Multicolor / 10 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895108894996)
-    Availability: Available
-    Price: $870.00 USD
   - [Multicolor / 11 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895108927764)
     Availability: Available
-    Price: $870.00 USD
+    Price: $854.00 USD
   - [Multicolor / 6 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895108960532)
     Availability: Available
-    Price: $870.00 USD
+    Price: $854.00 USD
   - [Multicolor / 7 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895108993300)
     Availability: Available
-    Price: $870.00 USD
+    Price: $854.00 USD
   - [Multicolor / 8 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895109026068)
     Availability: Available
-    Price: $870.00 USD
+    Price: $854.00 USD
   - [Multicolor / 8.5 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895109058836)
     Availability: Available
-    Price: $870.00 USD
+    Price: $854.00 USD
   - [Multicolor / 9 / JU7E1689ASAKF1RTH](https://www.luxorasimpleluxuries.com/products/fendi-men-flow-sneakers-1?variant=51895109091604)
     Availability: Available
-    Price: $870.00 USD
-- [Balenciaga Men Monday Sneakers](https://www.luxorasimpleluxuries.com/products/balenciaga-men-monday-sneakers): Balenciaga's Monday Sneakers combine a sporty, contemporary style with refined details. Featuring exposed stitching, they feature the embossed size on the back of the heel and the 3B Sports Icon rubber motif on both sides, also echoed embossed on the tongue. The Balenciaga logo, also embossed, appears on the outside of the sole, while the heel loop adds a functional note to the design. A model with a strong visual impact, perfect for completing urban and modern looks. Size Type: ITSKU: 825418WMNSS1011 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-12T18:24:06Z
-  Vendor: Luosophy
-  Product Type: Shoes / Athletic
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/D3346922-7135-4F27-BDB7-67921C8CA4D2.jpg?v=1769086602
-  Price: $808.00 USD
+    Price: $854.00 USD
 - [Gucci Women White And Beige Low Top Sneakers With Web Detail In Leather And Gg Supreme Canvas Woman](https://www.luxorasimpleluxuries.com/products/gucci-women-white-and-beige-low-top-sneakers-with-web-detail-in-leather-and-gg-supreme-canvas-woman): Sneakers Low top Round toe Green and red Web detail Lace-up closure Logo patch GG Supreme Canvas inserts Rubber sole White and beige Leather SKU: 785452AADHW9573 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T23:39:45Z
+  Updated: 2026-02-23T01:07:40Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/20241014163219528_SS25---GUCCI---785452AADHW9573.jpg?v=1769086623
   - [Cream / IT 36.5 / GA785452AADHW9573](https://www.luxorasimpleluxuries.com/products/gucci-women-white-and-beige-low-top-sneakers-with-web-detail-in-leather-and-gg-supreme-canvas-woman?variant=51895109320980)
     Availability: Available
-    Price: $821.00 USD
+    Price: $818.00 USD
   - [Cream / IT 37 / GA785452AADHW9573](https://www.luxorasimpleluxuries.com/products/gucci-women-white-and-beige-low-top-sneakers-with-web-detail-in-leather-and-gg-supreme-canvas-woman?variant=51895109353748)
     Availability: Available
-    Price: $821.00 USD
+    Price: $818.00 USD
   - [Cream / IT 36 / GA785452AADHW9573](https://www.luxorasimpleluxuries.com/products/gucci-women-white-and-beige-low-top-sneakers-with-web-detail-in-leather-and-gg-supreme-canvas-woman?variant=51895109386516)
     Availability: Available
-    Price: $821.00 USD
+    Price: $818.00 USD
   - [Cream / IT 41 / GA785452AADHW9573](https://www.luxorasimpleluxuries.com/products/gucci-women-white-and-beige-low-top-sneakers-with-web-detail-in-leather-and-gg-supreme-canvas-woman?variant=51895109419284)
     Availability: Available
-    Price: $821.00 USD
+    Price: $818.00 USD
 - [Fendi Men 'Fendi Flow' Black Sneakers With Logo Lettering On Side And Heel In Tech Fabric Man](https://www.luxorasimpleluxuries.com/products/fendi-men-fendi-flow-black-sneakers-with-logo-lettering-on-side-and-heel-in-tech-fabric-man): Sneakers Black Round toe Front lace-up closure Logo patch on the tongue Logo lettering on the side Logo lettering on the heel Rubber sole Mesh details Tech fabric SKU: 7E1689AOS0F1PXV Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T19:26:36Z
+  Updated: 2026-02-23T01:07:24Z
   Vendor: Luosophy
   Product Type: Shoes / Athletic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/20241001144737847_AW24---FENDI---7E1689AOS0F1PXV.jpg?v=1769086623
-  Price: $841.00 USD
-- [Moncler Men Monaco' White Low Top Sneakers With Tricolor Detail In Leather Man](https://www.luxorasimpleluxuries.com/products/moncler-men-monaco-white-low-top-sneakers-with-tricolor-detail-in-leather-man): Sneakers White Low top Round toe Lace-up closure White and flat laces Blue heel tab Tricolor detail with logo Rubber sole Leather SKU: 4M00060M4496001 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T19:58:32Z
-  Vendor: Luosophy
-  Product Type: Shoes / Athletic
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/20241106173943046_SS25---MONCLER---4M00060M4496001.jpg?v=1769086627
-  Price: $527.00 USD
-- [Burberry Grey Sweaters & Knitwear - Jumpers Men](https://www.luxorasimpleluxuries.com/products/burberry-grey-sweaters-knitwear-jumpers-men): grey crew neck ribbed trim long sleeves MADE IN:RomaniaMATERIAL:Cotton: 93.0%, Polyamide: 6.0%, Wool: 100.0%, Elastane: 1.0%COLOR:GREY SKU: 8112147MICHAELCTA1345 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:43:54Z
-  Vendor: Luosophy
-  Product Type: Tops / Sweaters & Pullovers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7099264.jpg?v=1769092870
-  Price: $598.00 USD
+  Price: $838.00 USD
 - [Balenciaga Black Backpacks Men](https://www.luxorasimpleluxuries.com/products/balenciaga-black-backpacks-men): black zip fastening top handle adjustable shoulder straps MADE IN:ItalyMATERIAL:Outer Composition Econyl®: 100.0%COLOR:BLACK SKU: 8354472ABY41065 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:41:17Z
+  Updated: 2026-02-23T01:07:22Z
   Vendor: Luosophy
   Product Type: Handbags / Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7170224.jpg?v=1769092909
-  Price: $1,311.00 USD
+  Price: $1,300.00 USD
 - [Prada Black Backpacks Men](https://www.luxorasimpleluxuries.com/products/prada-black-backpacks-men): black Saffiano leather top handle zip fastening silver-tone logo plaque adjustable shoulder straps MADE IN:ItalyMATERIAL:Outer Composition Calf Leather: 100.0%COLOR:BLACK SKU: 2VZ102VDOO2BBEF0002 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:43:52Z
+  Updated: 2026-02-23T01:07:59Z
   Vendor: Luosophy
   Product Type: Handbags / Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7121615.jpg?v=1769092909
-  Price: $3,135.00 USD
+  Price: $3,109.00 USD
 - [Gucci Black Jackets - Leather Jackets Men](https://www.luxorasimpleluxuries.com/products/gucci-black-jackets-leather-jackets-men): black front zip fastening two side zip-fastening pockets cuff zips colour-block design MADE IN:ItalyMATERIAL:Outer Composition Calf Leather: 100.0%, Outer Composition Polyester: 100.0%, Lining Composition Viscose: 100.0%COLOR:BLACK SKU: 814778XNA5F1028 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:43:01Z
+  Updated: 2026-02-23T01:07:33Z
   Vendor: Luosophy
   Product Type: Outerwear / Jackets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/6892684.jpg?v=1769092987
-  Price: $3,721.00 USD
+  Price: $3,689.00 USD
 - [Gucci Cotton Sweatshirt Women](https://www.luxorasimpleluxuries.com/products/gucci-cotton-sweatshirt-women): Gucci Grey Cotton Sweatshirt. Crafted from mélange grey cotton, round neckline, logo stamped on the chest, dropped shoulders, long sleeves, ribbed edges, relaxed fit. Cotton | 100%COTTON Size Type: INTSKU: 838450XJHGIGrey Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-12T18:38:55Z
+  Updated: 2026-02-23T15:58:02Z
   Vendor: Luosophy
   Product Type: Tops / Sweaters & Pullovers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/18072025_102.jpg?v=1769093233
-  Price: $737.00 USD
+  Price: $733.00 USD
 - [Gucci White Satchels & Cross Body Bags Women](https://www.luxorasimpleluxuries.com/products/gucci-white-satchels-cross-body-bags-women): cream white calf leather signature Marmont quilting signature Double G logo foldover top with press-stud fastening detachable chain-link shoulder strap rear slit pocket main compartment internal card slots debossed internal logo removable pouch gold-tone hardware full lining This piece comes complete with a protective dust bag.MADE IN:ItalyMATERIAL:Outer Composition Calf Leather: 100.0%COLOR:WHITE SKU: 751526AACCE9053 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T13:16:36Z
+  Updated: 2026-02-23T01:08:18Z
   Vendor: Luosophy
   Product Type: Handbags / Cross Body Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7122924.jpg?v=1769093233
-  Price: $1,548.00 USD
+  Price: $1,535.00 USD
 - [Gucci Black Wallets & Cardholders Men](https://www.luxorasimpleluxuries.com/products/gucci-black-wallets-cardholders-men): black calf leather money clip Double G logo-detail card slots MADE IN:ItalyMATERIAL:Calf Leather: 100.0%COLOR:BLACK SKU: 8350511AAE071000 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-14T14:09:46Z
+  Updated: 2026-02-23T01:07:36Z
   Vendor: Luosophy
   Product Type: Accessories / Wallets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/7125054.jpg?v=1769093233
-  Price: $390.00 USD
+  Price: $387.00 USD
 - [Gucci Men Logo Motif T-Shirt](https://www.luxorasimpleluxuries.com/products/gucci-men-logo-motif-t-shirt): Logo motif T-shirt in cotton jersey. Crewneck Short sleeves Front logo motif 100% Cotton. Machine wash cold 798115 XJHDG 2240 SKU: 798115XJHDG2240 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-11T16:25:42Z
+  Updated: 2026-02-23T01:07:26Z
   Vendor: Luosophy
   Product Type: Tops / Tee Shirts
   Availability: Available
@@ -5778,24 +5610,13 @@
   - [Brown / S / LN798115XJHDG2240](https://www.luxorasimpleluxuries.com/products/gucci-men-logo-motif-t-shirt?variant=51896476893460)
     Availability: Available
     Price: $563.00 USD
-  - [Brown / XL / LN798115XJHDG2240](https://www.luxorasimpleluxuries.com/products/gucci-men-logo-motif-t-shirt?variant=51955605274900)
-    Availability: Available
-    Price: $563.00 USD
 - [Gucci Women Jordaan Loafers](https://www.luxorasimpleluxuries.com/products/gucci-women-jordaan-loafers): Jordaan loafers in GG Supreme canvas. Almond toe Horsebit plaque Logo jacquard Stacked heel Made in Italy 65% Polyester, 18% Cotton, 17% Polyamide 431467 KY980 9763 SKU: 431467KY9809763 Our Products Are 100% Genuine. In All Cases We Stand By The Authenticity Of Every Product Sold On Our Site.
-  Updated: 2026-02-10T17:10:46Z
+  Updated: 2026-02-23T01:07:30Z
   Vendor: Luosophy
   Product Type: Shoes / Slides
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/4504/9620/files/guc0257051_bei_00.jpg?v=1769093236
-  - [Cream / IT 35 / LN431467KY9809763](https://www.luxorasimpleluxuries.com/products/gucci-women-jordaan-loafers?variant=51896476991764)
-    Availability: Available
-    Price: $619.00 USD
-  - [Cream / IT 36 / LN431467KY9809763](https://www.luxorasimpleluxuries.com/products/gucci-women-jordaan-loafers?variant=51896477024532)
-    Availability: Available
-    Price: $619.00 USD
-  - [Cream / IT 37 / LN431467KY9809763](https://www.luxorasimpleluxuries.com/products/gucci-women-jordaan-loafers?variant=51896477057300)
-    Availability: Available
-    Price: $619.00 USD
+  Price: $619.00 USD
 [List Continued](https://www.luxorasimpleluxuries.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDEwMDI3ODUyNjIyOCwibGFzdF92YWx1ZSI6IjEwMTAwMjc4NTI2MjI4In0=)
 
 ## Collections
@@ -5804,23 +5625,23 @@
   Updated: 2026-02-05T00:30:53Z
   Total Products: 14
 - [Luxury sneakers](https://www.luxorasimpleluxuries.com/collections/luxury-sneakers): Designer sneakers represent the perfect fusion of high-end fashion, innovation, and everyday functionality, offering a wide range of styles to suit different tastes and lifestyles. Crafted from premium materials such as full-grain leather, suede, mesh, and technical fabrics, these sneakers are designed with exceptional attention to detail and long-lasting quality. Each pair reflects a commitment to comfort and durability while maintaining a polished, luxury aesthetic.
-  Updated: 2026-02-14T14:44:45Z
+  Updated: 2026-02-23T15:57:50Z
   Total Products: 42
 - [Premium hoodies](https://www.luxorasimpleluxuries.com/collections/premium-hoodies): Premium hoodies are designed to deliver the perfect balance of luxury, comfort, and everyday versatility. Crafted from high-quality fabrics such as heavyweight cotton, brushed fleece, or carefully blended materials, these hoodies offer exceptional softness, warmth, and durability. The construction is thoughtfully engineered to maintain shape over time, providing a refined fit that feels substantial without sacrificing comfort.
-  Updated: 2026-02-14T14:43:45Z
+  Updated: 2026-02-20T16:48:44Z
   Total Products: 7
 - [Featured Collection](https://www.luxorasimpleluxuries.com/collections/featured-collection-0q7qd)
   Updated: 2026-02-05T00:30:53Z
   Total Products: 4
 - [Featured Collection](https://www.luxorasimpleluxuries.com/collections/featured-collection-zz6tq)
-  Updated: 2026-02-14T14:43:02Z
+  Updated: 2026-02-23T15:58:02Z
   Total Products: 6
 - [Featured Collection](https://www.luxorasimpleluxuries.com/collections/featured-collection-ubsnt)
-  Updated: 2026-02-14T14:43:52Z
+  Updated: 2026-02-23T15:57:50Z
   Total Products: 11
 - [All](https://www.luxorasimpleluxuries.com/collections/all)
-  Updated: 2026-02-14T14:44:45Z
-  Total Products: 977
+  Updated: 2026-02-23T15:59:16Z
+  Total Products: 999
 
 ## Blogs
 
