@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-11-26T22:38:54Z
 - Contact Email: ordinigieffeshop@gmail.com
-- Updated At: 2026-02-18T00:00:38.688Z
+- Updated At: 2026-02-25T00:00:41.576Z
 
 ## Products
 
@@ -676,7 +676,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/2CSK1003CH_8ac67de5-23be-4898-ab18-4dc2e2c9f123.jpg?v=1746690982
   Price: 4,40 € EUR
 - [ABB   2CSK1010CH     INVERTITORE 1P 16A BIANCO](https://gieffeshop.it/products/abb-2csk1010ch-invertitore-1p-16a-1modulo-colore_bianco): DESCRIZIONE PRODOTTO ABB 2CSK1010CH SERIE CHIARA INVERTITORE 1P 16A 1 MODULO COLORE BIANCO Questo invertitore ABB è un'eccellente scelta per il tuo sistema elettrico. Con una capacità di 16A, è perfetto per convertire la corrente continua in alternata. Dotato di un design elegante e un facile installazione, garantisce massime prestazioni e affidabilità. Ideale per ottimizzare il tuo sistema elettrico.
-  Updated: 2025-05-08T07:56:24Z
+  Updated: 2026-02-22T04:01:05Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -725,7 +725,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/2CSK1109CH.jpg?v=1746691005
   Price: 10,43 € EUR
 - [ABB   2CSK1117CH     PRESA TV DIRETTA  BIANCO](https://gieffeshop.it/products/abb-2csk1117ch-presa_tv-diretta-connettore_iec-9-5mm-maschio-1modulo-colore_bianco): DESCRIZIONE PRODOTTO ABB 2CSK1117CH SERIE CHIARA PRESA TV DIRETTA CONNETTORE_IEC 9,5MM MASCHIO 1 MODULO COLORE BIANCO Aggiungi una presa TV diretta alla tua casa con il ABB 2CSK1117CH. Ottimizza il tuo segnale TV e goditi una maggiore qualità di immagine e audio. Design elegante e versatile per ogni ambiente. Semplice da installare e compatibile con tutti i sistemi TV.
-  Updated: 2025-05-08T07:56:48Z
+  Updated: 2026-02-22T02:13:14Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -746,7 +746,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8182/7848/files/2CSK1124CH.jpg?v=1746691015
   Price: 12,95 € EUR
 - [ABB    2CSK1132CH    PRESA TV SAT PASSANTE BIANCO](https://gieffeshop.it/products/abb-2csk1132ch-presa_tv_sat-passante-connettore_iec-9-5mm-maschio-7db-1modulo-colore_bianco): DESCRIZIONE PRODOTTO ABB 2CSK1132CH SERIE CHIARA PRESA TV SAT PASSANTE CONNETTORE_IEC 9,5MM MASCHIO 7DB 1 MODULO COLORE BIANCO
-  Updated: 2025-05-08T07:56:59Z
+  Updated: 2026-02-22T01:28:43Z
   Vendor: My Store
   Product Type: Serie Civili
   Availability: Available
@@ -1819,7 +1819,7 @@
   Updated: 2026-02-14T12:26:38Z
   Total Products: 484
 - [BEGHELLI ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/beghelli-illuminazione): Beghelli realizza prodotti per l'illuminazione, di emergenza e a risparmio energetico, sistemi elettronici per la sicurezza domestica e industriale.
-  Updated: 2026-02-12T12:54:38Z
+  Updated: 2026-02-24T13:07:57Z
   Total Products: 189
 - [DISANO ILLUMINAZIONE PROFESSIONALE](https://gieffeshop.it/collections/disano-illuminazione): Disano offre soluzioni di illuminazione professionale per interni ed esterni, con efficienza, tecnologia LED e design italiano.
   Updated: 2026-02-07T08:53:09Z
@@ -1915,16 +1915,16 @@
   Updated: 2025-09-16T13:17:00Z
   Total Products: 6
 - [BATTERIE ONLINE PER OGNI ESIGENZA](https://gieffeshop.it/collections/batterie): Ampia scelta di batterie affidabili per antifurti, auto, moto e dispositivi elettronici.
-  Updated: 2026-02-14T12:26:38Z
+  Updated: 2026-02-24T13:07:57Z
   Total Products: 73
 - [DURACELL BATTERIE PROFESSIONALI](https://gieffeshop.it/collections/duracell): Scegli la Differenza Duracell: Potenza e Innovazione Sostenibile a Prezzi Imbattibili!
   Updated: 2025-08-27T07:57:55Z
   Total Products: 33
 - [ACQUISTA CITOFONIA VIDEOCITOFONIA](https://gieffeshop.it/collections/citofonia-videocitofonia): Scopri citofoni e videocitofoni analogici e digitali per case, uffici e condomini. Soluzioni con audio e video chiaro, facili da installare e sicure.
-  Updated: 2026-02-07T15:08:48Z
+  Updated: 2026-02-18T12:31:14Z
   Total Products: 162
 - [FARFISA PRODOTTI PROFESSIONALI](https://gieffeshop.it/collections/farfisa): FARFISA: video citofonia, telefonia, controllo accessi, sicurezza . Farfisa porta nelle abitazioni di tutto il mondo la tecnologia citofonica.
-  Updated: 2025-09-17T07:33:43Z
+  Updated: 2026-02-18T12:31:14Z
   Total Products: 21
 - [ALPHA ELETTRONICA PROFESSIONALE](https://gieffeshop.it/collections/alpha-elettronica): Alpha Elettronica - Distribuzione di prodotti e accessori elettronici professionali
   Updated: 2025-08-25T12:56:39Z
