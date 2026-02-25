@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2025-09-20T15:53:57Z
 - Contact Email: wesleyjoshfizzy@gmail.com
-- Updated At: 2026-02-18T00:00:29.016Z
+- Updated At: 2026-02-25T00:00:35.790Z
 
 This is the official website of wesleysite.site, an online Shopify store offering quality consumer products with secure payments, clear policies, and customer support. The site includes product listings, store policies, and contact information for customers.
 
@@ -551,7 +551,7 @@ This is the official website of wesleysite.site, an online Shopify store offerin
     Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf50f32907990402d8cc936e349084ccbh.webp?v=1770187769
     Price: $299.99 USD
 - [Simple Mosquito Net Portable Camping Tent Single Double Bed Canopy for  Foldable Bunk Mesh Net Breathable Mosquito Net아기침대](https://wesleysite.site/products/simple-mosquito-net-portable-camping-tent-single-double-bed-canopy-for--foldable-bunk-mesh-net-breathable-mosquito-net아기침대): SPECIFICATIONSAge: adultsApplicable People: UnisexApplicable objects: be in common useBrand Name: NONECN: HubeiFeature: Insecticide Treated,FoldedFunction: Mosquito netHigh-concerned chemical: NoneInstallation mode: No installation requiredMaterial: Polyester / CottonNumber of doors opened: Single doorOrigin: Mainland ChinaProduct category: mosquito netShape: QuadrateSize specifications: 1.2mx2m, 1.5mx2m, 1.8mx2mStyle: Mongolian Yurt Mosquito NetSupport material: Galvanized steelType: Single-doorUse: Home,Outdoor,Camping,Travelcategory: Mosquito net/bed curtaincolour: Starry Sky Grey Single Door (Full Bottom)material quality: Polyester fiber (polyester)style: Mongolian yurt mosquito netstyle 1: Modern minimalismstyle 2: Anti Mosquitos Netstyle 3: Bed Mosquitos Net Meshstyle 4: Summer Hung Dome Mosquito Netstyle5: Anti Mosquitos Netstyle6: Bed Mosquitos Net Meshstyle7: Modern minimalismstyle8: Mongolian yurt mosquito net Product List: 1PC * Mosquito net SIZE: 120x200cm/ 150x200cm/180x200cm Simple Yurt Mosquito Net Portable Camping Tent Single Double Bed Canopy For  Foldable Bunk Mesh Net Breathable Mosquito Net New Mosquito Net, No Installation Required, No Bracket, Integrated Summer Mosquito Net, Room Decoration, Room Decoration, Cheap A particularly practical and affordable starry gray mosquito net tent. There are three formats available
-  Updated: 2026-02-17T20:33:52Z
+  Updated: 2026-02-18T00:21:23Z
   Vendor: Wesley store
   Product Type: 
   Availability: Available
