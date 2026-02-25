@@ -8,12 +8,12 @@
 - Timezone: America/New_York
 - Created At: 2025-11-21T13:39:37Z
 - Contact Email: james.price@heartsandpathways.com
-- Updated At: 2026-02-17T00:00:34.242Z
+- Updated At: 2026-02-25T00:00:37.234Z
 
 ## Products
 
 - [Elastic Ice Bandage Cold Compress Cooling Muscle Recovery](https://the-hearts-and-pathways-shop.myshopify.com/products/https-the-hearts-and-pathways-shop-myshopify-com-products): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIncluding  devices: NOrigin: Mainland ChinaType: sticking plaster
-  Updated: 2026-02-10T10:28:50Z
+  Updated: 2026-02-17T19:00:00Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -27,14 +27,14 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/S3938a72dffba4902a7de66ce8f2b866eh.webp?v=1768930329
     Price: $4.16 USD
 - [Smart Glasses Automatic Adjustment Magnifying](https://the-hearts-and-pathways-shop.myshopify.com/products/https-the-hearts-and-pathways-shop-myshopify-com): Smart Glasses with Automatic Adjustment Magnifying Reading Glasses Progressive Multi-focus Anti-blue Light Eyewear +1-+7.
-  Updated: 2026-02-16T13:48:31Z
+  Updated: 2026-02-17T19:00:07Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/H4ef9ce6b417844f59f9ce84ee48c82e0z.webp?v=1768930328
   Price: $9.00 USD
 - [1 Pair TED Hose Thigh High Anti Embolism Stockings](https://the-hearts-and-pathways-shop.myshopify.com/products/1-pair-ted-hose-thigh-high-anti-embolism-stockings): Thigh High Design: Offers extended coverage for upper and lower legs with a toeless style for easy inspection and breathability.
-  Updated: 2026-02-16T17:49:53Z
+  Updated: 2026-02-17T18:59:59Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -80,7 +80,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/S9a6dc4194d544e76a796b20f915d61ff0.webp?v=1768939720
     Price: $7.46 USD
 - [Kids Adults Anti-Slip Socks For All Ages](https://the-hearts-and-pathways-shop.myshopify.com/products/kids-adults-anti-slip-socks-parent-child-elasticity): Kids Adults Anti-Slip Socks Parent-Child Trampoline Sock Cotton Socks Elasticity Sports Boys Girls Outside Children Socks.
-  Updated: 2026-02-16T17:49:53Z
+  Updated: 2026-02-17T19:00:03Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -230,7 +230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/S4a2ec89a46b344708f22a557c5611483I.webp?v=1769024539
     Price: $2.08 USD
 - [Super Ergonomic Pillow Orthopedic Cervical](https://the-hearts-and-pathways-shop.myshopify.com/products/super-ergonomic-pillow-orthopedic-all-sleeping-positions-cervical-contour-pillow-neck-pillow-for-neck-and-shoulder-pain-relief): The ergonomic pillow conforms to the ergonomic design, supports the head and neck, promotes the correct alignment of the spine, and reduces pressure points.
-  Updated: 2026-02-16T17:49:56Z
+  Updated: 2026-02-17T19:00:07Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -292,7 +292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/Sa22f3dd5531e48a6ab620634eec714c0D.webp?v=1768940966
     Price: $9.10 USD
 - [Rectangular Pillow Multi-functional Sleep Support Cushion](https://the-hearts-and-pathways-shop.myshopify.com/products/rectangular-pillow-for-girls-multi-functional-sleep-support): Rectangular Pillow for Girls Multi-functional Sleep Support Cushion Long Bolster pregnancy Pillow Side Sleepers and Bed Reading.
-  Updated: 2026-02-16T17:49:53Z
+  Updated: 2026-02-17T19:00:06Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -350,7 +350,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/S135eda1c1afe4ecfa639b31a3b2d88f9d.webp?v=1769024478
     Price: $21.53 USD
 - [Post-Op Shoe Front Wedge Offloading Boot Orthopedic Protect](https://the-hearts-and-pathways-shop.myshopify.com/products/post-op-shoe-fore-front-wedge-offloading-boot-orthopedic): A 15-degree ortho wedge design force you to move weight to heel and reduce forefoot pressure and pain when you get foot injury or surgery, or other disease.
-  Updated: 2026-02-16T17:49:53Z
+  Updated: 2026-02-17T19:00:06Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -386,7 +386,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/S21d818ef07b24544af4d47bdc0db7837l.webp?v=1769024477
     Price: $11.58 USD
 - [Kitchen Electronic Measuring Spoon Food Scale Digital Spoon](https://the-hearts-and-pathways-shop.myshopify.com/products/kitchen-electronic-measuring-spoon-food-scale-digital-spoon-scale): Our digital spoon scale is made of stainless steel + ABS environmentally friendly plastic. Beautiful appearance, special surface .
-  Updated: 2026-02-12T20:33:43Z
+  Updated: 2026-02-17T19:00:03Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -408,14 +408,14 @@
     Availability: Available
     Price: $5.72 USD
 - [SIENNA burgundy  socks for diabetics](https://the-hearts-and-pathways-shop.myshopify.com/products/sienna-burgundy--socks-for-diabetics): Bamboo yarn has the natural ability to allow the feet to breathe and transports excess moisture away from the foot.
-  Updated: 2026-02-16T14:58:09Z
+  Updated: 2026-02-17T19:00:07Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Foot Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/sokisahtel_sienna_bordo.png?v=1769537712
   Price: $4.13 USD
 - [Kitchen Electric Juicer USB Charging Wireless Juices Blender](https://the-hearts-and-pathways-shop.myshopify.com/products/kitchen-electric-juicer-usb-charging-wireless-juices-blender-fruit): This portable blender with a rechargeable USB goes beyond smoothies and shakes. Smoothie blender has a 20% larger caliber, making it easier to feed ingredients.
-  Updated: 2026-02-12T20:33:41Z
+  Updated: 2026-02-17T19:00:03Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Nutrition
   Availability: Available
@@ -433,14 +433,14 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/3157c32b-51f8-49ef-bf63-a7a9f7f06337.jpg?v=1769537712
     Price: $6.50 USD
 - [McKesson 14-818 Vinyl Exam Gloves, Non-Sterile, Powder-Free](https://the-hearts-and-pathways-shop.myshopify.com/products/mckesson-14-818-vinyl-exam-gloves-non-sterile-powder-free-large): McKesson stretch vinyl exam gloves offer comfort, fit, and durability. These gloves are designed with an exclusive formulation and a silky smooth feel.
-  Updated: 2026-02-12T20:33:41Z
+  Updated: 2026-02-17T19:00:04Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/61kpYm51DZL.jpg?v=1769537712
   Price: $39.87 USD
 - [Adjustable Posture Corrector Low Back Support Shoulder Brace](https://the-hearts-and-pathways-shop.myshopify.com/products/adjustable-posture-corrector-low-back-support-shoulder-brace-belt-for): Based on Ergonomics design with adjustable straps to fit waists circumferences from 26 to 49.5inches. Multiple sizes to choose from
-  Updated: 2026-02-12T20:33:41Z
+  Updated: 2026-02-17T18:59:58Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Back Support
   Availability: Available
@@ -464,14 +464,14 @@
     Availability: Available
     Price: $8.21 USD
 - [Haven Well Within Washable Silk Magnolia Eye Mask](https://the-hearts-and-pathways-shop.myshopify.com/products/haven-well-within-washable-silk-magnolia-eye-mask): Enhance your bedtime routine with this luxurious eye mask. Designed to help you achieve a deep, restful sleep.
-  Updated: 2026-02-12T20:33:40Z
+  Updated: 2026-02-17T19:00:02Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/IMG_1328i31.jpg?v=1769537712
   Price: $16.47 USD
 - [Health Care Inhale Nebulizer Mini Portable Steaming Inhaler](https://the-hearts-and-pathways-shop.myshopify.com/products/health-care-inhale-nebulizer-mini-portable-steaming-inhaler-for-baby): Two airflow control. Compact and portable, suitable for all ages. Mesh Nebulizer     Power: AC 100-240V, Operating Voltage: DC12V, Ultrasonic Frequency: 2.2MHz.
-  Updated: 2026-02-12T20:33:40Z
+  Updated: 2026-02-17T19:00:03Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Peds 
   Availability: Available
@@ -485,35 +485,35 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/H45332daa9cc7425284a3402da5d83fb7H.jpg?v=1769453128
     Price: $24.47 USD
 - [Electric Ear Cleaner Kit 4 Pressure Modes Ear Wax Removal](https://the-hearts-and-pathways-shop.myshopify.com/products/electric-ear-cleaner-kit-4-pressure-modes-ear-wax-removal-health-care): By providing a safe and effective way to clean ears at home, this earwax remover can save time and money spent on doctor's visits or professional ear cleanings.
-  Updated: 2026-02-12T20:33:39Z
+  Updated: 2026-02-17T19:00:02Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Electric Ear Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/Sa88ef1c1b5a841f096a90a0532716110L.jpg?v=1769453166
   Price: $36.88 USD
 - [Arm Automatic Blood Pressure Monitor](https://the-hearts-and-pathways-shop.myshopify.com/products/automatic-blood-pressure-monitor-measuring-arterial-pressure): Fashionable outward, Light, and compact, suitable for health care,  field, families, and adults.
-  Updated: 2026-02-16T14:55:02Z
+  Updated: 2026-02-18T06:47:04Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Hesalthcare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/333677093147639808.jpg?v=1769537709
   Price: $38.44 USD
 - [2 IN 1 Rolling Rollator Walker](https://the-hearts-and-pathways-shop.myshopify.com/products/2-in-1-rolling-rollator-walker): Purstability Combination Rollator can be converted to a transport wheelchair by simply flipping the backrest over and attaching the foot rests.
-  Updated: 2026-02-12T20:33:39Z
+  Updated: 2026-02-17T18:59:58Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Ortho 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/RFT4.jpg?v=1769537707
   Price: $224.99 USD
 - [Pack of 8 - Ocean of Joy Hydrating Hand sanitizer by Sprucy](https://the-hearts-and-pathways-shop.myshopify.com/products/pack-of-8-ocean-of-joy-hydrating-hand-sanitizer-by-be-sprucy): Be Sprucy Ocean of joy hand sanitizer leave behind a natural fragrance making you feel clean and fresh until the next application.
-  Updated: 2026-02-12T20:33:38Z
+  Updated: 2026-02-17T19:00:04Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/data_848b74cf-86e4-4abe-9c60-1e38f7095732.jpg?v=1769537707
   Price: $30.00 USD
 - [Portable Ultrasonic Humidifier Aroma Essential Oil Diffuser](https://the-hearts-and-pathways-shop.myshopify.com/products/portable-ultrasonic-humidifier-usb-aroma-essential-oil-diffuser-led): Utilizing advanced ultrasonic technology, this diffuser operates quietly while dispersing a fine, cool mist that humidifies the air and elevates any space.
-  Updated: 2026-02-12T20:33:38Z
+  Updated: 2026-02-17T19:00:06Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Home
   Availability: Available
@@ -528,7 +528,7 @@
     Availability: Available
     Price: $6.10 USD
 - [Long Standby Handsfree Wireless Bluetooth 5.0 Headset](https://the-hearts-and-pathways-shop.myshopify.com/products/long-standby-handsfree-wireless-bluetooth-5-0-headset): Noise cancelling: cancels background and wind noise Sweat-proof technology: protects your earphone from coffee spills or gym workouts.
-  Updated: 2026-02-12T20:33:38Z
+  Updated: 2026-02-17T19:00:04Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Electronics
   Availability: Available
@@ -540,7 +540,7 @@
     Availability: Available
     Price: $9.99 USD
 - [HD 1080P Camera 360° Panoramic PTZ Wireless Wifi Camera](https://the-hearts-and-pathways-shop.myshopify.com/products/hd-1080p-camera-360-panoramic-ptz-wireless-wifi-camera): The camera supports infrared high-definition night vision function, the night vision distance can reach 10 meters, and the picture is clearer.
-  Updated: 2026-02-12T20:33:37Z
+  Updated: 2026-02-17T19:00:02Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Tech
   Availability: Available
@@ -558,7 +558,7 @@
     Availability: Available
     Price: $33.00 USD
 - [Smart Watch with Oximeter & Thermometer - Health Monitor](https://the-hearts-and-pathways-shop.myshopify.com/products/oxitemp-smart-watch-with-live-oximeter-thermometer-and-pulse-monitor): Monitor your health with live pulse oximeter, thermometer, and heart rate tracking. Professional-grade smart watch for continuous health monitoring at home.
-  Updated: 2026-02-12T20:33:37Z
+  Updated: 2026-02-17T19:00:05Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Health Tech
   Availability: Available
@@ -584,7 +584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/2899_1_c918a457-9dfb-468b-8b67-2f4f3e640282.jpg?v=1769537766
     Price: $43.24 USD
 - [Portable Mini - Packing  Storage Box Tablet Cutter](https://the-hearts-and-pathways-shop.myshopify.com/products/portable-mini-packing--storage-box-tablet-cutter): The frame design, grinding , cutting ,  box three in one, compact and easy to carry, can be quickly polished into fine powder tablets.
-  Updated: 2026-02-16T16:16:29Z
+  Updated: 2026-02-17T19:00:06Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -606,7 +606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/1612595135022.jpg?v=1769653148
     Price: $12.50 USD
 - [FDA Registered 3-Layer Disposable Face Masks -  Grade](https://the-hearts-and-pathways-shop.myshopify.com/products/fda-registered-disposable-protective-face-mask-3-layers-for): FDA registered disposable protective face masks with 3-layer filtration. -grade protection for  and personal safety. Comfortable fit.
-  Updated: 2026-02-12T20:33:36Z
+  Updated: 2026-02-17T19:00:02Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -624,14 +624,14 @@
     Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/mask_6.jpg?v=1769537706
     Price: $12.48 USD
 - [9 in 1 Push Up Rack Board System Fitness Workout](https://the-hearts-and-pathways-shop.myshopify.com/products/9-in-1-push-up-rack-board-system-fitness-workout-train-gym-exercise): An innovative color-coded pushup board training system that strengthens and shaping your entire upper body
-  Updated: 2026-02-12T20:33:36Z
+  Updated: 2026-02-17T18:59:58Z
   Vendor: The Hearts And Pathways Shop
   Product Type: Health
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/5234/1154/files/PVcSDib.jpg?v=1769537706
   Price: $23.00 USD
 - [24-Hour ECG Monitor - Portable Wireless Heart Monitor](https://the-hearts-and-pathways-shop.myshopify.com/products/ekg-24-hour-real-time-ecg-monitoring-ultra-thin-ecg-patch): Professional 24-hour ECG monitoring patch. Ultra-thin, wireless Bluetooth heart monitor for real-time cardiac tracking. Portable and wearable for home use.
-  Updated: 2026-02-16T17:49:53Z
+  Updated: 2026-02-18T06:47:02Z
   Vendor: The Hearts And Pathways Shop
   Product Type: 
   Availability: Available
@@ -660,8 +660,8 @@
   Updated: 2026-02-16T23:40:29Z
 - [Refund And Returns At the Hearts And Pathways Shop](https://the-hearts-and-pathways-shop.myshopify.com/pages/refund-and-returns): We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. To be eligible for a return, your item ...
   Updated: 2026-02-16T04:55:46Z
-- [The FAQ's Page](https://the-hearts-and-pathways-shop.myshopify.com/pages/the-faqs-page): Our Online Sales & Services Here you will find frequently ask questions about our online store. Some of the products we offer includes potable nebu...
-  Updated: 2026-02-16T23:55:07Z
+- [The FAQ's Page: Hearts And Pathways](https://the-hearts-and-pathways-shop.myshopify.com/pages/the-faqs-page): Our Online Sales & Services Here you will find frequently ask questions about our online store. Some of the products we offer includes potable nebu...
+  Updated: 2026-02-17T17:20:55Z
 
 ## Policies
 
