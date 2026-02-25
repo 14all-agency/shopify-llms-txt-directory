@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-02-18T04:00:25.425Z
+- Updated At: 2026-02-25T08:00:26.382Z
 
 ## Products
 
@@ -851,6 +851,9 @@
     Author: User
   - [A Checklist for Building an Environmentally Friendly Home](https://jones-jm.myshopify.com/blogs/news/a-checklist-for-building-an-environmentally-friendly-home): A Checklist for Building an Environmentally Friendly Home
     Updated: 2026-02-16T00:00:59Z
+    Author: User
+  - [Why Sustainable Fashion Needs to Be More Than a Trend](https://jones-jm.myshopify.com/blogs/news/why-sustainable-fashion-needs-to-be-more-than-a-trend): Why Sustainable Fashion Needs to Be More Than a Trend
+    Updated: 2026-02-23T00:01:01Z
     Author: User
 
 ## Store Pages
