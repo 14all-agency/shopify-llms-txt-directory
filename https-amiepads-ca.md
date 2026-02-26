@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-01-06T00:09:01Z
 - Contact Email: christine@amiepads.ca
-- Updated At: 2026-02-19T00:00:46.344Z
+- Updated At: 2026-02-26T00:00:47.349Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_5600.jpg?v=1613178481
   Price: $235.00 CAD
 - [Interlabial Pad Boosters](https://amiepads.ca/products/interlabial-pad-boosters): Reusable interlabial pad boosters (set of 5 or 10) for periods or bladder leaks. Worn between the labia to slow and direct flow. Learn how they can help.
-  Updated: 2025-11-13T00:27:35Z
+  Updated: 2026-02-21T03:43:50Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/12_inch_pad_marbleverse_21eed927-5406-4e5c-87e7-319aa0a1ad6c.jpg?v=1628208807
     Price: $23.00 CAD
 - [Pad Wrapper | Mini Wet Bag | Reusable Pads](https://amiepads.ca/products/pad-wrapper-mini-wet-bag): Cloth on the go is a easy-peasy with this little pad wrapper tucked into your purse or bag!  Simply take a clean pad with you and place the soiled one back in the pouch for easy transport home.  Click over to check out how easy reusable pads can be!
-  Updated: 2025-11-13T00:27:37Z
+  Updated: 2026-02-19T22:11:33Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_4159.jpg?v=1613095768
     Price: $7.00 CAD
 - [Small Wet Bag | Reusable Pads on the Go](https://amiepads.ca/products/small-wet-bag): Looking for something quick and easy to toss in your purse or backpack? This little guy has a waterproof inner layer, a zipper closure and will hold 2 pads. You can take along a clean pad and bring home a soiled one. Click over to see lots of other ideas for making your life easier with these wet bags!
-  Updated: 2026-02-11T15:27:16Z
+  Updated: 2026-02-24T03:29:07Z
   Vendor: Amie Reusable Pads
   Product Type: Diaper Wet Bags
   Availability: Available
@@ -141,7 +141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/SmallRainbowwetbag.jpg?v=1755125431
     Price: $9.50 CAD
   - [wild flowers](https://amiepads.ca/products/small-wet-bag?variant=46398069309614)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/wildflowers_small_wet_bag.png?v=1755125431
     Price: $9.50 CAD
   - [ladybugs](https://amiepads.ca/products/small-wet-bag?variant=46398069342382)
@@ -153,7 +153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/small_wet_bag_Abby_Rose.jpg?v=1755125431
     Price: $9.50 CAD
   - [penny lane](https://amiepads.ca/products/small-wet-bag?variant=46783729402030)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/small_wet_bag_Penny_Lane.jpg?v=1755125431
     Price: $9.50 CAD
   - [citrus](https://amiepads.ca/products/small-wet-bag?variant=46783729434798)
@@ -161,83 +161,79 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/small_wet_bag_Citrus.jpg?v=1755125431
     Price: $9.50 CAD
 - [Medium Wet Bag | Reusable Pad Storage](https://amiepads.ca/products/medium-wet-bag): Looking for something to hold your cloth pads when you are away for the day or overnight?  This bag is perfect for holding 4-6 pads and both a wet and dry pocket,  which will fit easily into your backpack making reusables on the go a breeze! Click over to see!
-  Updated: 2026-02-17T18:32:19Z
+  Updated: 2026-02-23T19:10:21Z
   Vendor: Amie Reusable Pads
   Product Type: Diaper Wet Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Colibri_Medium_Mountain.png?v=1741978858
-  - [Rainbow](https://amiepads.ca/products/medium-wet-bag?variant=39716382671022)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/MediumRainbowWetbag.jpg?v=1755125230
-    Price: $15.00 CAD
-  - [Quill](https://amiepads.ca/products/medium-wet-bag?variant=37997332005038)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/MediumWetbagQuill.jpg?v=1755125230
-    Price: $15.00 CAD
-  - [Wild Roses](https://amiepads.ca/products/medium-wet-bag?variant=39716374544558)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/MediumRosesWetbag.jpg?v=1755125230
-    Price: $15.00 CAD
   - [Butterfly](https://amiepads.ca/products/medium-wet-bag?variant=45574867878062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/5000_Butterfly.jpg?v=1755125230
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/5000_Butterfly.jpg?v=1771873728
     Price: $15.00 CAD
   - [Mountain](https://amiepads.ca/products/medium-wet-bag?variant=46299067449518)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Colibri_Medium_Mountain.png?v=1741978858
     Price: $15.00 CAD
   - [Abby Rose](https://amiepads.ca/products/medium-wet-bag?variant=46783725404334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/medium_wet_bag_Abby_Rose.jpg?v=1755125230
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/medium_wet_bag_Abby_Rose.jpg?v=1771873728
     Price: $15.00 CAD
   - [Citrus](https://amiepads.ca/products/medium-wet-bag?variant=46783725437102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/medium_wet_bag_Citrus.jpg?v=1755125230
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/medium_wet_bag_Citrus.jpg?v=1771873728
     Price: $15.00 CAD
   - [Penny Lane](https://amiepads.ca/products/medium-wet-bag?variant=46783725469870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/medium_wet_bag_Penny_Lane.jpg?v=1755125230
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/medium_wet_bag_Penny_Lane.jpg?v=1771873728
+    Price: $15.00 CAD
+  - [Whispering Pine](https://amiepads.ca/products/medium-wet-bag?variant=47536709009582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/whispering_pines_medium_wet_bag.png?v=1771873728
+    Price: $15.00 CAD
+  - [Wild flowers](https://amiepads.ca/products/medium-wet-bag?variant=47536720085166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/wildflowers_medium_wet_bag.png?v=1771873728
     Price: $15.00 CAD
 - [Large Wet Bag | Reusable Pads](https://amiepads.ca/products/large-wet-bag): Where do you put your soiled pads during your cycle while they await washing?  Made by our friends at Colibri Canada, this bag will hold a whole cycle's worth of pads and features both a larger waterproof pocket and a second dry pocket, both with zipper closures. Click over to see!
-  Updated: 2026-01-11T05:25:46Z
+  Updated: 2026-02-23T19:14:51Z
   Vendor: Amie Reusable Pads
   Product Type: Diaper Wet Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Colibri_Large_Mountain.png?v=1741978776
-  - [Rainbow](https://amiepads.ca/products/large-wet-bag?variant=39716403249326)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/LargeRainbowWetbag.jpg?v=1755125139
-    Price: $30.00 CAD
   - [Mountain](https://amiepads.ca/products/large-wet-bag?variant=46299067056302)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/Colibri_Large_Mountain.png?v=1741978776
     Price: $30.00 CAD
   - [nature walk](https://amiepads.ca/products/large-wet-bag?variant=46398076584110)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/nature_walk_large_wet_bag.png?v=1755125139
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/nature_walk_large_wet_bag.png?v=1771874091
     Price: $30.00 CAD
   - [wild flowers](https://amiepads.ca/products/large-wet-bag?variant=46398076616878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/wildflowers_large_wet_bag.png?v=1755125139
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/wildflowers_large_wet_bag.png?v=1771874091
     Price: $30.00 CAD
   - [ladybugs](https://amiepads.ca/products/large-wet-bag?variant=46398076649646)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/ladybugs_large_wet_bag.png?v=1755125139
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/ladybugs_large_wet_bag.png?v=1771874091
     Price: $30.00 CAD
   - [penny lane](https://amiepads.ca/products/large-wet-bag?variant=46783718850734)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_Penny_Lane.jpg?v=1755125139
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_Penny_Lane.jpg?v=1771874091
     Price: $30.00 CAD
   - [citrus](https://amiepads.ca/products/large-wet-bag?variant=46783718883502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_Citrus.jpg?v=1755125139
     Price: $30.00 CAD
   - [abby rose](https://amiepads.ca/products/large-wet-bag?variant=46783718916270)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_Abby_Rose.jpg?v=1755125139
     Price: $30.00 CAD
+  - [whispering pine](https://amiepads.ca/products/large-wet-bag?variant=47536758718638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/large_wet_bag_whispering_pine.png?v=1771874091
+    Price: $30.00 CAD
 - [Reusable Liner Surprise Bundle | Washable Pantyliners](https://amiepads.ca/products/reusable-liner-surprise-bundle): Love surprises and love reusables?!  Then, you'll love this set of four reusable liners in surprise prints. Come on over to see for yourself!
-  Updated: 2026-02-18T22:15:19Z
+  Updated: 2026-02-23T20:45:54Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -293,7 +289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_5542.jpg?v=1613259400
     Price: $31.00 CAD
 - [Light Absorbency Reusable Menstrual Pads: Amethyst](https://amiepads.ca/products/light-absorbency-reusable-menstrual-pads-amethyst): Our beautiful amethyst-print, light absorbency reusable pads are terrific menstrual cup back-up, protection on your lighter flow days or for light bladder leakage
-  Updated: 2025-11-13T00:27:39Z
+  Updated: 2026-02-19T22:11:33Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -429,7 +425,7 @@
     Availability: Available
     Price: $87.00 CAD
 - [Light Absorbency Reusable Pads - Amie Active](https://amiepads.ca/products/light-absorbency-reusable-menstrual-pads-amie-active): Athletic topped super-easy care reusable pads with a stay-dry, stay-cool feel, even after exercising or in the summer heat, our light absorbency reusable pads are terrific menstrual cup back-up, protection on your lighter flow days or for light bladder leakage.
-  Updated: 2026-02-18T13:22:36Z
+  Updated: 2026-02-22T23:27:56Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -574,7 +570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_4515.jpg?v=1729731167
     Price: $23.00 CAD
 - [Moderate Absorbency Reusable Pads: Mint Floral](https://amiepads.ca/products/moderate-absorbency-reusable-pads-mint-floral): Whether you are looking for reusable pads for your period or washable incontinence pads for bladder leaks, our moderate absorbency pads are a great place to start. And, in a mint floral print, too? Yes, please!
-  Updated: 2025-11-13T00:27:45Z
+  Updated: 2026-02-25T02:41:07Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -616,7 +612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_4516.jpg?v=1729731168
     Price: $31.00 CAD
 - [Heavy Absorbency Reusable Pads: Mint Floral](https://amiepads.ca/products/heavy-absorbency-reusable-pads-mint-floral): You will love our heavy absorbency reusable pads in a beautiful mint floral print, with excellent absorbency to serve you well on your heavier cycle days or for moderate to heavy bladder incontinence. Visit our site for more info!
-  Updated: 2025-11-13T00:27:46Z
+  Updated: 2026-02-19T22:11:27Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -644,7 +640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/products/IMG_9465.jpg?v=1658173301
     Price: $31.00 CAD
 - [Reusable Pad Set | New Prints](https://amiepads.ca/products/new-prints-reusable-pads-sampler-sets): Reusable pad set for periods or bladder leaks. Choose your absorbency and get 4 pads in our newest prints—Water Lily, Dragonfly, and more. Come on over and try them today!
-  Updated: 2025-11-13T00:27:46Z
+  Updated: 2026-02-25T21:05:07Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -681,7 +677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_1704.jpg?v=1685989399
   Price: $6.00 CAD
 - [Reusable Pad Set | Floral Prints](https://amiepads.ca/products/floral-prints-reusable-pads-sampler-sets): Love florals and looking to start using reusable pads but only need one absorbency? Whether you want washable incontinence pads for bladder leaks or reusable period pads...this is the place for you!
-  Updated: 2026-02-14T16:56:21Z
+  Updated: 2026-02-24T03:29:08Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -794,36 +790,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/IMG_2237.jpg?v=1698008716
     Price: $31.00 CAD
-- [Limited Set Reusable Pads and Liners](https://amiepads.ca/products/limited-set-reusable-pads-and-liners): If you need to use pads, why not make them fun with this gorgeous limited release set?! Whether you need washable pads for periods or for bladder incontinence, you have lots of great options here!
-  Updated: 2026-02-18T22:15:11Z
-  Vendor: Amie Reusable Pads
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_pads.png?v=1770057691
-  - [Standard Short (8") Liners](https://amiepads.ca/products/limited-set-reusable-pads-and-liners?variant=45325118603438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_liners.png?v=1770057691
-    Price: $24.00 CAD
-  - [Standard Short (8") Light Pads](https://amiepads.ca/products/limited-set-reusable-pads-and-liners?variant=45325118636206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_pads.png?v=1770057691
-    Price: $35.00 CAD
-  - [Standard (10") Moderate Pads](https://amiepads.ca/products/limited-set-reusable-pads-and-liners?variant=45325118734510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_pads.png?v=1770057691
-    Price: $42.00 CAD
-  - [Long (12") Moderate Pads](https://amiepads.ca/products/limited-set-reusable-pads-and-liners?variant=45325118800046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_pads.png?v=1770057691
-    Price: $46.00 CAD
-  - [Long (12") Heavy Pads](https://amiepads.ca/products/limited-set-reusable-pads-and-liners?variant=45325118832814)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_pads.png?v=1770057691
-    Price: $55.00 CAD
-  - [Extra-Long (14") Heavy Pads](https://amiepads.ca/products/limited-set-reusable-pads-and-liners?variant=45325118865582)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/fairy_hollow_pads.png?v=1770057691
-    Price: $61.00 CAD
 - [Reusable Liner | Moody Mushroom](https://amiepads.ca/products/reusable-liner-moody-mushroom): Trim, discreet, comfy and in our moody mushroom print, Amie Reusable Pantyliners are the perfect zero-waste solution for for menstrual cup back-up or daily wear. Click to check us out!
   Updated: 2026-02-04T00:01:26Z
   Vendor: Amie Reusable Pads
@@ -867,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/extra_long_mushroom.png?v=1731446245
     Price: $31.00 CAD
 - [Active Reusable Pad Set | Periods | Bladder Incontinence](https://amiepads.ca/products/amie-active-single-absorbency-reusable-pad-starter-set): Looking to start using reusable pads but only need one absorbency?!  You'll love this set of our easy-care Amie Active pads for bladder leaks or periods.
-  Updated: 2026-01-21T19:45:35Z
+  Updated: 2026-02-19T21:37:47Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -943,7 +909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0526/4700/2286/files/dragonfly_long.png?v=1755734273
     Price: $87.00 CAD
 - [Heavy Absorbency Reusable Pads | Wicking Jersey | Dragonfly](https://amiepads.ca/products/heavy-absorbency-reusable-pads-amie-active-dragonfly): Reusable pads for heavy periods or moderate bladder leaks. Cool, dry, and highly absorbent with no soaking needed. Feel confident—try them today.
-  Updated: 2026-01-22T03:45:34Z
+  Updated: 2026-02-22T18:40:35Z
   Vendor: Amie Reusable Pads
   Product Type: Feminine Sanitary Supplies
   Availability: Available
@@ -1039,28 +1005,28 @@
   Updated: 2022-09-22T16:20:27Z
   Total Products: 0
 - [Reusable Pantyliners](https://amiepads.ca/collections/reusable-pantyliners): Can't stop buying reusable pads?! Reusable liners to the rescue!! You can wear them every day!! Collect them all!!!
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-24T12:14:18Z
   Total Products: 25
 - [Heavy Absorbency Reusable Pads](https://amiepads.ca/collections/heavy-absorbency-reusable-pads): You know...we can't all be that girl who has the oh-so-barely-there monthly cycle. Humpf to her, anyway! Some of us need a pad with a little more fortitude.
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-24T12:14:18Z
   Total Products: 34
 - [Light Absorbency Reusable Pads](https://amiepads.ca/collections/light-absorbency-reusable-pads): We'll make this short and light, just like our light absorbency pads. Get it?! 😂
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-24T12:14:18Z
   Total Products: 34
 - [Moderate Absorbency Reusable Pads](https://amiepads.ca/collections/moderate-absorbency-reusable-pads): Looking for a good ol' middle of the road place to start with your reusable pads? You have arrived...right here in the middle of the reusable pad absorbency road...Huh?!
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-25T12:14:56Z
   Total Products: 47
 - [Postpartum/Super Absorbency Pads](https://amiepads.ca/collections/postpartum-pads): Colossal postpartum flow, super-heavy period flow or heavy-moderate bladder incontinence? These beefy and awesome pads have got your backside!
   Updated: 2026-02-10T12:15:17Z
   Total Products: 3
 - [Starter Sets | Exceptional Reusable Pads](https://amiepads.ca/collections/starter-kits-and-sets): Do we have so many awesome choices that it is giving you decision-fatigue?! No worries!! We understand. Check out our starter sets and let us do the choosing for you.
-  Updated: 2026-02-17T12:11:51Z
+  Updated: 2026-02-24T12:14:18Z
   Total Products: 13
 - [Newest Releases | Reusable Pads](https://amiepads.ca/collections/newest-releases): Whether reusable pads for periods or washable pads for incontinence, build your stash with our freshest awesomeness right here!  Click to drool over them all!
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-24T12:14:18Z
   Total Products: 35
 - [Wet Bags and Accessories](https://amiepads.ca/collections/wet-bags): Wondering how to make your cloth pads effortless on the go?! Great wetbags are your answer! Available in four sizes, these wetbags will take you and your cloth pads wherever you want to go without any fuss. Click over to see for yourself!
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-24T12:14:18Z
   Total Products: 8
 - [Custom Orders: For Members of the WWC Private Facebook Group Only](https://amiepads.ca/collections/custom-orders-for-members-of-the-wwc-private-facebook-group-only): This is a collection only available at this time for members of the Wishy-Washy Cloth Private Facebook group who are on the custom waitlist. We'd love to have you join our group where you'll have a chance to get onto the custom order list!
   Updated: 2021-02-14T21:17:34Z
@@ -1075,10 +1041,10 @@
   Updated: 2022-04-27T00:55:25Z
   Total Products: 12
 - [All Pads Collection | Periods | Incontinence](https://amiepads.ca/collections/all-pads): Be comfy, confident and planet-friendly with beautiful reusable pads.  Whether you need pads for your cycle or, like thousands of other women, for bladder incontinence, Amie Reusable Pads has you literally covered with fabulous, quality pads made in Canada.
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-21T13:13:43Z
   Total Products: 4
 - [Interlabial Pad Boosters | Reusable Pads](https://amiepads.ca/collections/interlabial-pads): Period flow or bladder leaks gushing over your pad before they have a chance to absorb? Interlabial pads (ILPs) are here to save the day! Worn externally, ILPs slow down flow, including bladder leaks, and direct it to the centre of the pad to help your reusable pad perform its very best!
-  Updated: 2026-02-12T12:12:24Z
+  Updated: 2026-02-21T12:15:30Z
   Total Products: 1
 - [The Padscription | A Fun Subscription](https://amiepads.ca/collections/the-padscription): If you love surprises and are looking to build your reusable pad stash, the padscription will be right up your alley!  Guilt-free, super-fun happy mail will be on its way to you in no time!
   Updated: 2026-02-17T12:11:51Z
@@ -1087,16 +1053,16 @@
   Updated: 2025-09-29T11:10:23Z
   Total Products: 22
 - [Amie Active | Athletic Fabric Reusable Pads](https://amiepads.ca/collections/amie-active): Athletic topped super-easy care reusable pads with a stay-dry, stay-cool feel, even after exercising or in the summer heat. Our black wicking jersey is stain resistant, meaning there is no need to soak soiled pads.  Just toss them in the washer with your regular laundry.  Click to check them out!
-  Updated: 2026-02-15T12:12:35Z
+  Updated: 2026-02-23T12:12:43Z
   Total Products: 12
 - [Special Preorder](https://amiepads.ca/collections/special-preorder): We run a special preorder from time to time, which allows you to purchase semi-custom pads, liners and occasionally other reusables
   Updated: 2023-03-24T00:00:41Z
   Total Products: 7
 - [Limited Edition Release | Reusable Pads and Liners](https://amiepads.ca/collections/limited-edition-release): Love special stuff?! In this collection, you'll find any products that are currently available on a limited release basis. If you don't see any right now, not to worry, we'll have another round soon!
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-21T13:13:43Z
   Total Products: 2
 - [Best Sellers](https://amiepads.ca/collections/best-sellers): 🌿 Best Sellers Our most-loved reusable pads for periods and bladder leaks. Comfortable, leakproof, and made with care in Canada.
-  Updated: 2026-02-18T12:14:38Z
+  Updated: 2026-02-25T12:14:56Z
   Total Products: 73
 
 ## Blogs
