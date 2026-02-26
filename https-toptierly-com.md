@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2026-01-14T02:21:57Z
 - Contact Email: s82407200@gmail.com
-- Updated At: 2026-02-18T00:00:33.007Z
+- Updated At: 2026-02-26T00:00:36.935Z
 
 ## Products
 
@@ -77,8 +77,11 @@
   Updated: 2026-01-26T19:31:35Z
   Total Products: 0
 - [AVADA - Best Sellers - TopTierly](https://toptierly.com/collections/avada-best-sellers): - TopTierly
-  Updated: 2026-02-17T05:42:27Z
-  Total Products: 1
+  Updated: 2026-02-22T06:47:39Z
+  Total Products: 5
+- [Beauty example products - TopTierly](https://toptierly.com/collections/beauty-example-products): - TopTierly
+  Updated: 2026-02-22T06:47:11Z
+  Total Products: 4
 
 ## Store Pages
 
