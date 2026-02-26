@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2022-01-03T10:15:31Z
 - Contact Email: bcbgprovence@gmail.com
-- Updated At: 2026-02-19T00:00:35.668Z
+- Updated At: 2026-02-26T00:00:39.859Z
 
 ## Products
 
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-12at13.43.39-Photoroom.png?v=1712925686
   Price: €60.00 EUR
 - [100% Twill Silk Scarf  "Tiger In The Forest"](https://bcbgprovence.com/products/pure-silk-printed-scarf-tiger-in-the-forest): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-10-27T00:12:39Z
+  Updated: 2026-02-20T21:32:31Z
   Vendor: BCBG Provence
   Product Type: Scarves
   Availability: Available
@@ -447,18 +447,18 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-23at10.53.35_6_-Photoroom.png?v=1713864170
     Price: €30.00 EUR
 - [100% Twill Silk  Scarf "Jungle Castle"](https://bcbgprovence.com/products/100-twill-silk-scarf-jungle-castle): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-11-17T10:50:16Z
+  Updated: 2026-02-21T05:21:51Z
   Vendor: BCBG Provence
   Product Type: Scarves
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-12at13.43.33_1_-Photoroom.png?v=1712925362
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/lifestyle-shot-dfaf4413-a3d7-45c8-b4b8-6a174e9f4689.jpg?v=1771630683
   - [green](https://bcbgprovence.com/products/100-twill-silk-scarf-jungle-castle?variant=40667910307979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-12at13.43.33_1_-Photoroom.png?v=1712925362
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-12at13.43.33_1_-Photoroom.png?v=1771608094
     Price: €70.00 EUR
   - [orange](https://bcbgprovence.com/products/100-twill-silk-scarf-jungle-castle?variant=40667910373515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-12at13.44.14-Photoroom.png?v=1712925362
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-12at13.44.14-Photoroom.png?v=1771608094
     Price: €70.00 EUR
 - [100% Twill Silk Scarf "Zebra"](https://bcbgprovence.com/products/100-twill-silk-scarf-zebra): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
   Updated: 2025-01-20T01:35:05Z
@@ -797,7 +797,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/products/S7fbec06036f246559ccbd4160e55ef17a-removebg-preview_1.png?v=1652107041
   Price: €20.00 EUR
 - [100% Twill Silk  Scarf "Medieval Animals"](https://bcbgprovence.com/products/100-twill-silk-scarf-medieval-animals-1): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-08-01T17:29:51Z
+  Updated: 2026-02-19T23:05:37Z
   Vendor: BCBG Provence
   Product Type: Scarves
   Availability: Available
@@ -822,7 +822,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsApp_Image_2024-11-08_at_11.14.26_1_-Photoroom.png?v=1731068915
   Price: €75.00 EUR
 - [Pure Silk Twill Square Scarf 90cmx90cm "Ville Mistique"](https://bcbgprovence.com/products/pure-silk-twill-square-scarf-90cmx90cm-ville-mistique): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2026-02-09T14:20:27Z
+  Updated: 2026-02-20T23:40:11Z
   Vendor: BCBG Provence
   Product Type: Scarves
   Availability: Available
@@ -1220,18 +1220,18 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-16at14.43.01_1_-Photoroom.png?v=1713274508
     Price: €85.00 EUR
 - [100% Satin Silk Scarf "Cirque Japonais"](https://bcbgprovence.com/products/100-satin-silk-scarf-cirque-japonais): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-07-30T05:43:54Z
+  Updated: 2026-02-21T05:26:07Z
   Vendor: BCBG Provence
   Product Type: Scarf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.25-Photoroom.png?v=1712835570
+  Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.22-Photoroom.png?v=1771606513
   - [Red](https://bcbgprovence.com/products/100-satin-silk-scarf-cirque-japonais?variant=46755855761740)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.25-Photoroom.png?v=1712835570
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.25-Photoroom.png?v=1771606564
     Price: €85.00 EUR
   - [Blue](https://bcbgprovence.com/products/100-satin-silk-scarf-cirque-japonais?variant=46755855794508)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.22-Photoroom.png?v=1712835729
+    Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-11at13.35.22-Photoroom.png?v=1771606513
     Price: €85.00 EUR
 - [Silk Cashmere Shawl "Château Médiéval Indien"](https://bcbgprovence.com/products/silk-cashmere-shawl-chateau-medieval-indien): Our silk and cashmere stoles are the ultimate in warmth and softness. Luxuriously crafted in a range of colours and finished with classic hand-rolled edges, a timeless and versatile accessory for traveling or wrapping up warm on colder days. Makes a very special thoughtful gift.
   Updated: 2025-07-30T02:09:33Z
@@ -1403,7 +1403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0563/5932/1739/files/WhatsAppImage2024-04-23at10.53.41-Photoroom.png?v=1713862991
     Price: €75.00 EUR
 - [Pure Silk Twill Square Scarf 90cmx90cm "La Serrure Imaginaire"](https://bcbgprovence.com/products/pure-silk-twill-square-scarf-90cmx90cm-la-serrure-imaginaire): High quality crafted silk, super soft, smooth to the touch and shiny. Silk is rich in 18 amino acids, which is hypoallergenic and anti-aging, great for skin care and health. The silk fabric helps keep moisture close to the skin and prevents it from drying out.It is breathable and regulates body temperature, can keep you cool in summer and warm in winter, which can be worn in any season. It's versatile and easy to match, definitely a delicate piece to complement your wardrobe. It can be worn around the neck, wrapped in hair, or tied on a handbag as well as a hat or purse, etc. This printed scarf will be a fantastic gift for your beloved and special ones for birthday, anniversary, Christmas or other special days.
-  Updated: 2025-10-02T04:24:20Z
+  Updated: 2026-02-20T08:48:47Z
   Vendor: BCBG Provence
   Product Type: Scarves & Shawls
   Availability: Available
@@ -1683,7 +1683,7 @@
 ## Collections
 
 - [New Arrivals](https://bcbgprovence.com/collections/new-arrivals)
-  Updated: 2026-02-13T15:30:00Z
+  Updated: 2026-02-20T12:14:52Z
   Total Products: 89
 - [Mens Clothing](https://bcbgprovence.com/collections/mens-clothing): Discover unique and stylish men's clothing at BCBG Provence, featuring vibrant graphic tees and embroidered designs. Enjoy 30% off with the code SUMMER30 and free worldwide delivery. Elevate your wardrobe with bold, statement pieces inspired by Southern French fashion. Shop now!
   Updated: 2025-09-29T11:10:27Z
@@ -1695,7 +1695,7 @@
   Updated: 2024-03-27T15:35:09Z
   Total Products: 9
 - [Accessories](https://bcbgprovence.com/collections/accessories)
-  Updated: 2026-02-13T15:30:00Z
+  Updated: 2026-02-20T12:14:52Z
   Total Products: 95
 - [BCBG Vintage](https://bcbgprovence.com/collections/bcbg-vintage): BCBG Vintage Accessories brings together unique, timeless pieces that add a touch of character to any outfit. Each accessory is full of vintage charm, perfect for everyday style with a fun, effortless twist.
   Updated: 2025-12-16T08:52:20Z
