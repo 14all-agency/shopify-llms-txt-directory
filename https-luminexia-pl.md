@@ -96,7 +96,7 @@ A: Endosphères Therapy is an FDA-, non-invasive body contouring technology by F
 - Contact Email: info@luminexia.pl
 - Contact Phone: +48735069679
 - Address: Mogilska 51, Krakow
-- Updated At: 2026-02-16T00:00:40.858Z
+- Updated At: 2026-02-26T00:00:46.763Z
 
 Luminexia is a beauty and aesthetic cosmetology salon in Kraków, Poland, specializing in science-backed, non-invasive skin treatments. Located at ul. Mogilska 51 in the Grzegórzki district, we serve clients seeking professional dermapen microneedling, endosphères therapy, radiofrequency skin tightening, chemical peels, and Kobido massage. Founded by Iryna Christof,  cosmetologist. All equipment is FDA- and CE-. Rated 5.0/5 on Google Maps.
 
@@ -214,29 +214,29 @@ Luminexia is a beauty and aesthetic cosmetology salon in Kraków, Poland, specia
     Availability: Available
     Price: 1185,00 zł PLN
 - [Jalupro Super Glow Twarz Szyja Dekolt - Luminexia](https://luminexia.pl/products/jalupro-super-glow-twarz-szyja-dekolt): Zabieg Jalupro Super Glow - biorewitalizacja z efektem rozświetlenia. Nawilżenie i odmłodzenie.
-  Updated: 2026-02-04T18:52:41Z
+  Updated: 2026-02-20T20:10:44Z
   Vendor: Luminexia
   Product Type: Usługi kosmetyczne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0982/2935/4844/files/Jalupro_Peel_Glow_Rewitalizacja_Twarzy_Szyi_i_Dekoltu_by_Luminexia.webp?v=1768576691
   - [1 zabieg](https://luminexia.pl/products/jalupro-super-glow-twarz-szyja-dekolt?variant=56327208993116)
     Availability: Available
-    Price: 295,00 zł PLN
+    Price: 325,00 zł PLN
   - [4 zabiegi](https://luminexia.pl/products/jalupro-super-glow-twarz-szyja-dekolt?variant=56327209025884)
     Availability: Available
-    Price: 895,00 zł PLN
+    Price: 975,00 zł PLN
 - [Jalupro Super Glow + Mikronakłuwanie - Luminexia](https://luminexia.pl/products/jalupro-super-glow-twarz-szyja-dekolt-mikronakluwanie): Jalupro Super Glow z mikronakłuwaniem. Maksymalna biorewitalizacja i rozświetlenie.
-  Updated: 2026-02-04T18:53:21Z
+  Updated: 2026-02-19T02:07:47Z
   Vendor: Luminexia
   Product Type: Usługi kosmetyczne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0982/2935/4844/files/Jalupro_Peel_Glow_Mikronak_uwanie_na_twarz_szyj_i_dekolt_by_Luminexia.webp?v=1768577094
   - [1 zabieg](https://luminexia.pl/products/jalupro-super-glow-twarz-szyja-dekolt-mikronakluwanie?variant=56327221772636)
     Availability: Available
-    Price: 480,00 zł PLN
+    Price: 395,00 zł PLN
   - [4 zabiegów](https://luminexia.pl/products/jalupro-super-glow-twarz-szyja-dekolt-mikronakluwanie?variant=56327221805404)
     Availability: Available
-    Price: 1680,00 zł PLN
+    Price: 1185,00 zł PLN
 - [Mikronakłuwanie Twarzy - Luminexia Salon](https://luminexia.pl/products/mikronakluwanie): Profesjonalne mikronakłuwanie twarzy. Stymulacja kolagenu, redukcja zmarszczek i blizn.
   Updated: 2026-02-07T23:48:27Z
   Vendor: Luminexia
@@ -442,20 +442,27 @@ Luminexia is a beauty and aesthetic cosmetology salon in Kraków, Poland, specia
   - [3 zabiegi](https://luminexia.pl/products/egzosomy-mezoterapia-mikroizlowa?variant=56438133621084)
     Availability: Available
     Price: 1595,00 zł PLN
+- [Peeling Kawitacyjny + Maska](https://luminexia.pl/products/peeling-kawitacyjny-maska): Zabieg oczyszczający twarz z maską, Głębokie oczyszczenie skóry, usuwanie zanieczyszczeń i martwego naskórka
+  Updated: 2026-02-25T17:03:52Z
+  Vendor: Luminexia
+  Product Type: Usługi kosmetyczne
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0982/2935/4844/files/Karboksyterapia_CO2_by_Luminexia_f658fcb9-eff1-446f-a291-6f82f6420b7d.webp?v=1772037568
+  Price: 185,00 zł PLN
 
 ## Collections
 
 - [Oczyszczanie Twarzy Kraków - Głębokie Oczyszczanie | Luminexia](https://luminexia.pl/collections/oczyszczanie): Profesjonalne oczyszczanie twarzy w Krakowie (Mogilska 51) - kawitacyjne, ultradźwiękowe. Zaskórniki, tłusta skóra, pory. Świeża, czysta skóra. Umów wizytę!
-  Updated: 2026-02-06T12:26:59Z
-  Total Products: 4
+  Updated: 2026-02-25T16:54:55Z
+  Total Products: 5
 - [Zabiegi Pielęgnacyjne Kraków - Pielęgnacja Twarzy | Luminexia](https://luminexia.pl/collections/zabiegi-pielegnacyjne): Zabiegi pielęgnacyjne Kraków (Mogilska 51): nawilżające, liftingujące, przeciwtrądzikowe, bankietowe, kojące. Umów wizytę: 735 069 679
   Updated: 2026-02-07T12:03:43Z
   Total Products: 8
 - [Peeling Twarzy Kraków - Kwasowy i Enzymatyczny | Luminexia](https://luminexia.pl/collections/peeling): Peeling twarzy w Krakowie (Mogilska 51) - kwasowy, enzymatyczny. Przebarwienia, trądzik, starzenie. Profesjonalne peelingi, bezpieczne, skuteczne. Umów wizytę!
-  Updated: 2026-02-07T12:04:39Z
+  Updated: 2026-02-20T20:10:45Z
   Total Products: 6
 - [Mikronakłuwanie Kraków - Dermapen | Luminexia](https://luminexia.pl/collections/mikronakluwanie): Mikronakłuwanie (Dermapen) w Krakowie  (Mogilska 51) - blizny, zmarszczki, pory, przebarwienia. Stymulacja kolagenu. Profesjonalny sprzęt. Widoczne efekty!
-  Updated: 2026-02-07T11:59:29Z
+  Updated: 2026-02-18T14:02:54Z
   Total Products: 8
 - [RF Fala Radiowa Kraków - Lifting Bez Skalpela | Luminexia](https://luminexia.pl/collections/rf-fala-radiowa): RF fala radiowa (radiofrequency) w Krakowie  (Mogilska 51) - nieinwazyjny lifting twarzy i ciała. Ujędrnienie, poprawa owalu, redukcja zmarszczek.
   Updated: 2026-02-05T12:26:47Z
@@ -467,8 +474,8 @@ Luminexia is a beauty and aesthetic cosmetology salon in Kraków, Poland, specia
   Updated: 2026-02-06T12:26:59Z
   Total Products: 5
 - [Zabiegi kosmetyczne Kraków – oferta | KOBIDO, RF, mikronakłuwanie](https://luminexia.pl/collections/zabiegi-kosmetyczne): Zabiegi kosmetyczne w Krakowie: KOBIDO, mikronakłuwanie, RF, masaż rolkowy, peelingi i oczyszczanie. Certyfikowani specjaliści, nowoczesne technologie. Umów wizytę w Luminexia.
-  Updated: 2026-02-07T12:04:39Z
-  Total Products: 31
+  Updated: 2026-02-25T16:54:55Z
+  Total Products: 32
 - [Kobido Kraków - Japoński Masaż Twarzy  | Luminexia](https://luminexia.pl/collections/masaz-kobido): KOBIDO - starożytny japoński masaż twarzy w Krakowie. Naturalny lifting, 48 technik manualnych. Certyfikowani specjaliści. Efekty już po pierwszym zabiegu!
   Updated: 2026-02-09T19:21:52Z
   Total Products: 2
@@ -496,7 +503,7 @@ Luminexia is a beauty and aesthetic cosmetology salon in Kraków, Poland, specia
 - [O nas — Kosmetolog Iryna Christof | Luminexia Kraków](https://luminexia.pl/pages/o-nas): O nas , Luminexia, Gabinet Kosmetyczny w Krakowie Luminexia to gabinet kosmetyczny w sercu Krakowa, przy ul. Mogilskiej 51. Specjalizujemy się w za...
   Updated: 2026-02-09T16:27:30Z
 - [Cennik zabiegów kosmetycznych - Luminexia Kraków](https://luminexia.pl/pages/cennik): .lx-page{--bg:#ffffff;--text:#121212;--muted:#121212;--line:#d7d9dd;--brand:#23a0c6;--chip:#e8e9ec;position:relative;left:50%;right:50%;margin-left...
-  Updated: 2026-02-10T13:52:44Z
+  Updated: 2026-02-25T17:19:55Z
 
 ## Policies
 
