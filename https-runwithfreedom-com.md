@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-08T13:44:36Z
 - Contact Email: runwithfreedom1@gmail.com
-- Updated At: 2026-02-19T00:00:38.311Z
+- Updated At: 2026-02-27T00:00:42.475Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Run_With_Freedom_Digital_Gift_Card_60_e59d67e1-3c02-4c0c-b6d7-fcfd62e0a9c7.png?v=1769606572
     Price: £60.00 GBP
 - [Pre Order Challenger Running Vest + 500ml Flask | Run With Freedom®](https://runwithfreedom.com/products/pre-order-challenger-vest): Running Vest with 500ml Water Bottle – Lightweight, Breathable Hydration Vests with  Storage Pockets. Especially useful for long runs or trails. Pre Order Now.
-  Updated: 2026-02-18T00:56:36Z
+  Updated: 2026-02-24T09:02:26Z
   Vendor: Run With Freedom
   Product Type: 
   Availability: Available
@@ -91,6 +91,9 @@
     Updated: 2026-01-28T17:31:08Z
     Author: Nicholas Hughes
     Tags: Guides, Running
+  - [You Don't Have to Start with Running – Walking Works Too](https://runwithfreedom.com/blogs/guides/you-dont-have-to-start-with-running-walking-is-the-perfect-first-step-toward-freedom-on-the-trails): You Don't Have to Start with Running – Walking Works Too
+    Updated: 2026-02-22T11:57:06Z
+    Author: Nicholas Hughes
 
 ## Store Pages
 
