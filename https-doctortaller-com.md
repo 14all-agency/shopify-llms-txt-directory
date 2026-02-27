@@ -10,12 +10,12 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-02-20T16:00:24.962Z
+- Updated At: 2026-02-27T16:00:25.448Z
 
 ## Products
 
 - [Doctor Taller, For Children (8+) and Teens, 60 Vegan Capsules](https://doctortaller.com/products/doctor-taller-growth-height-pill-for-children-and-teenagers-vegan-capsules-823129): Doctor Taller height growth supplement for kids (8+) and teens. 60 vegan capsules with vitamins, minerals & herbs to support natural growth and development.
-  Updated: 2026-02-10T22:44:53Z
+  Updated: 2026-02-22T16:46:08Z
   Vendor: Doctor Taller™
   Product Type: Capsule
   Availability: Available
@@ -84,7 +84,7 @@
 ## Collections
 
 - [Shop all](https://doctortaller.com/collections/shop): Doctor Taller is a height growth supplement researched and formulated by the U.S.  Doctors. It contains vital nutrients and precious herbs to maximize height.
-  Updated: 2026-02-11T12:13:10Z
+  Updated: 2026-02-23T12:13:19Z
   Total Products: 3
 
 ## Blogs
@@ -103,7 +103,7 @@
   - [Does Milk Make You Taller?](https://doctortaller.com/blogs/nutritions/does-milk-make-you-taller): Does Milk Make You Taller?
     Updated: 2025-12-25T06:38:28Z
   - [Does Vitamin D Make You Taller?](https://doctortaller.com/blogs/nutritions/does-vitamin-d-make-you-taller): Does Vitamin D Make You Taller?
-    Updated: 2026-02-09T01:28:59Z
+    Updated: 2026-02-23T02:13:12Z
   - [Does Vitamin C Make You Taller?](https://doctortaller.com/blogs/nutritions/does-vitamin-c-make-you-taller): Does Vitamin C Make You Taller?
     Updated: 2025-10-30T08:06:13Z
   - [Best Healthy Drink To Grow Taller](https://doctortaller.com/blogs/nutritions/best-healthy-drink-to-grow-taller): Best Healthy Drink To Grow Taller
@@ -194,7 +194,7 @@
   - [Do Splits Increase Height?](https://doctortaller.com/blogs/exercises/do-splits-increase-height): Do Splits Increase Height?
     Updated: 2025-11-04T04:16:42Z
   - [Does Running Make You Taller?](https://doctortaller.com/blogs/exercises/does-running-make-you-taller): Does Running Make You Taller?
-    Updated: 2025-10-30T08:20:00Z
+    Updated: 2026-02-23T02:35:51Z
   - [Do pilates make you taller?](https://doctortaller.com/blogs/exercises/do-pilates-make-you-taller): Do pilates make you taller?
     Updated: 2026-02-09T04:44:09Z
 - [Science Insight](https://doctortaller.com/blogs/science-insight): Uncover height growth science: genetics, hormones, growth plates, puberty, global averages & myths busted for kids & teens – Doctor Taller insights.
@@ -240,8 +240,8 @@
     Updated: 2025-10-30T07:46:20Z
   - [How does premature birth affect height growth?](https://doctortaller.com/blogs/science-insight/how-does-premature-birth-affect-height-growth): How does premature birth affect height growth?
     Updated: 2025-10-30T07:46:01Z
-  - [World ranking of average heights by country [2025 Update]](https://doctortaller.com/blogs/science-insight/world-ranking-of-average-heights-by-country): World ranking of average heights by country [2025 Update]
-    Updated: 2026-01-28T08:26:54Z
+  - [World ranking of average heights by country [2026 Update]](https://doctortaller.com/blogs/science-insight/world-ranking-of-average-heights-by-country): World ranking of average heights by country [2026 Update]
+    Updated: 2026-02-23T01:33:11Z
 - [Growth Tips](https://doctortaller.com/blogs/growth-tips): Just discover genius tips and expert advice on nutrition, sleep and exercise - all about things that help you get taller naturally and effectively.
   - [How To Grow Taller At 16?](https://doctortaller.com/blogs/growth-tips/how-to-grow-taller-at-16): How To Grow Taller At 16?
     Updated: 2025-11-04T03:40:51Z
@@ -249,8 +249,8 @@
     Updated: 2025-11-05T09:01:49Z
   - [How To Grow Taller At 14](https://doctortaller.com/blogs/growth-tips/how-to-grow-taller-at-14): How To Grow Taller At 14
     Updated: 2026-01-28T06:21:53Z
-  - [How To Grow Taller At 13?](https://doctortaller.com/blogs/growth-tips/how-to-grow-taller-at-13): How To Grow Taller At 13?
-    Updated: 2025-11-04T03:39:05Z
+  - [How to Grow Taller at 13](https://doctortaller.com/blogs/growth-tips/how-to-grow-taller-at-13): For most 13-year-olds, rapid height growth during puberty is completely normal, but rates can vary dramatically based on genetics and hormonal changes. According to the CDC Growth Charts, the average height at 13 is about 61.5 inches (156.2 cm) for girls and about 61.9 inches (157.2 cm) for boys. However, this is merely an average — many healthy teens fall above or below these numbers. You might be wondering, “How tall should a 13-year-old be?” The answer depends on multiple factors like parental height, bone growth pace, and even growth hormone levels.
+    Updated: 2026-02-23T02:08:58Z
   - [How To Increase Height In 1 Week](https://doctortaller.com/blogs/growth-tips/how-to-increase-height-in-1-week): How To Increase Height In 1 Week
     Updated: 2026-01-28T08:39:31Z
   - [Best Sleeping Position To Grow Height](https://doctortaller.com/blogs/growth-tips/best-sleeping-position-to-grow-height): Best Sleeping Position To Grow Height
