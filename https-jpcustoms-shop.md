@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-07-23T20:15:53Z
 - Contact Email: jpcustoms.store@gmail.com
-- Updated At: 2026-02-18T00:00:37.544Z
+- Updated At: 2026-02-27T00:00:44.509Z
 
 JP Customs offers premium automotive parts, exterior upgrades, interior accessories, and lighting solutions for car enthusiasts in the UK and internationally at a lower price point than most automotive online stores. Specializing in show-quality finishes and durable engineering, we provide professional-grade automotive upgrades with fast UK delivery and worldwide shipping.
 
@@ -14,7 +14,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
 ## Products
 
 - [T5 LED Dashboard Bulbs W3W 12V Interior Lights 10 Pack](https://jpcustoms.shop/products/10pcs-t5-led-bulb-w3w-w1-2w-led-canbus-car-interior-lights-dashboard-colorful-indicator-wedge-auto-instrument-lamp-12v-110327267653-ivanr): Premium T5 LED dashboard bulbs (W3W/W1.2W) for instrument panel lighting. 12V, 10-pack. Add vibrance to your dashboard. UK stock.
-  Updated: 2026-02-01T16:00:25Z
+  Updated: 2026-02-18T18:33:22Z
   Vendor: JP Customs
   Product Type: LED lights
   Availability: Available
@@ -40,14 +40,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S5cf480db0a574bdbad9eb93a5e6d94a4w_73274319-9711-4b36-b5bd-b64b9a055fed.webp?v=1769022468
     Price: £8.00 GBP
 - [BMW LED Side Indicators E36 E46 E60 E90 X1 X3 Amber](https://jpcustoms.shop/products/x-autohaux-full-led-side-turn-signals-for-bmw-1-3-5-series-e36-e46-e60-e87-e90-e92-x1-x3-63133418447-63133418448-fender-side-marker-amber-light-assemblies-front-flowing-led-lamps-lights-2pcs-110327267653-xhle0): BMW LED side indicators for E36 E46 E60 E87 E90 E92 X1 X3. Flowing amber fender markers with sequential flashing. Direct replacement for OEM turn signals.
-  Updated: 2026-02-15T16:56:06Z
+  Updated: 2026-02-18T18:34:21Z
   Vendor: JP Customs
   Product Type: LED lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/61X60hOx_bL_d64cf700-c194-4540-b637-06b45e2666ab.jpg?v=1769027981
   Price: £25.00 GBP
 - [Philips LED H1 H3 H4 H7 H11 Ultinon Pro3101 6000K 12V/24V](https://jpcustoms.shop/products/philips-led-h1-h3-h4-h7-h11-ultinon-pro3101-12v-24v-6000k-bright-white-hb3-9005-hb4-9006-hir2-9012-auto-headlight-led-lamps-2x-110327267653-x8xpo): Philips LED H1 H3 H4 H7 H11 Ultinon Pro3101 auto headlight LED lamps. 6000K bright white, 12V/24V. HB3/HB4/HIR2 fitments. Premium 2-pack. UK stock.
-  Updated: 2026-02-10T10:28:21Z
+  Updated: 2026-02-18T18:33:45Z
   Vendor: JP Customs
   Product Type: LED lights
   Availability: Available
@@ -111,7 +111,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/lrgscale17546-90ASC4-Scorpion-Car-Exhaus-Upgrade-Kit-90mm-Carbon-Ascari-All-Makes-and-Models-1498-0.jpg?v=1757275185
     Price: £480.00 GBP
 - [Magnetic Numberplate Kit SWIFTMAG Removable License](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit): SWIFTMAG magnetic numberplate kit - install or remove in seconds. No screws, no tape, no damage. Strong magnets ensure secure, reliable fitting.
-  Updated: 2026-02-17T17:07:16Z
+  Updated: 2026-02-25T08:52:21Z
   Vendor: Diversion Automotive
   Product Type: Numberplate Holder
   Availability: Available
@@ -125,13 +125,6 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Add On - Spare Adhesive Pad Set (2x PADS ONLY / NO HOLDERS)](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit?variant=55709502767429)
     Availability: Available
     Price: £7.50 GBP
-- [Lady Billion Carfume Car Air Freshener](https://jpcustoms.shop/products/lady-billion-carfume-car-air-freshener): Lady Billion Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Elegant scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-15T16:48:47Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_2295682e-05b0-486b-bb21-5c76794430d9.webp?v=1762644479
-  Price: £6.30 GBP
 - [Midnight Madness Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/midnight-madness-hoodie): Midnight Madness hoodie by Late Brake. Premium unisex automotive apparel with bold graphics. Perfect for car enthusiasts and JDM culture. Sizes S-3XL. UK stock.
   Updated: 2026-02-01T16:25:18Z
   Vendor: Late Brake
@@ -419,14 +412,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/sparco_7f3233b2-082d-4489-b65a-e7bc13afaa28.png?v=1762979624
     Price: £30.00 GBP
 - [VW Crafter Headlight Guards – Gloss Black (2018+) | Van-X](https://jpcustoms.shop/products/for-vw-crafter-new-shape-headlight-guards-gloss-black-premium-protection-van-x): VW Crafter headlight guards gloss black 2018+ Van-X. Premium protection, sleek finish. Perfect fit, durable construction. UK stock.
-  Updated: 2026-02-15T16:50:55Z
+  Updated: 2026-02-18T18:34:48Z
   Vendor: Van-X
   Product Type: Exterior Styling
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/655-GB-2.jpg?v=1767027431
   Price: £82.00 GBP
 - [VW Crafter Rear Light Guards Gloss Black 2018+ | Van-X](https://jpcustoms.shop/products/for-volkswagen-crafter-rear-light-guards-gloss-black-2018-onwards): VW Crafter rear light guards gloss black 2018+. Premium Van-X protection, sleek finish. Perfect fit, durable construction. UK stock.
-  Updated: 2026-02-16T14:06:39Z
+  Updated: 2026-02-23T13:45:10Z
   Vendor: Van-X
   Product Type: Rear taillight guard
   Availability: Available
@@ -462,14 +455,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £12.00 GBP
 - [600g Car Fire Extinguisher | BSI  | 5 Year Warranty](https://jpcustoms.shop/products/600g-car-fire-extinguisher): BSI  600g dry powder car fire extinguisher. Safe for electrical fires, 21B rating, 5-year warranty. Essential safety equipment for every vehicle.
-  Updated: 2026-02-16T15:21:23Z
+  Updated: 2026-02-24T23:02:16Z
   Vendor: P1 Autocare
   Product Type: Fire Extinguishers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/600g-car-fire-extinguisher-svbip1firex600g-649377.png?v=1767199438
   Price: £12.30 GBP
 - [K-Brace® - Ford Fiesta MK6 ST150 BE256 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-fiesta-mk6-st150-be256-rear-strut-brace): K-Brace Ford Fiesta MK6 ST150 rear strut brace improves stability and handling. Fits all BE256 models 2002-2008. Includes fitting kit. UK made quality.
-  Updated: 2026-02-06T16:35:16Z
+  Updated: 2026-02-26T13:46:17Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -531,7 +524,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Seat Leon Cupra / FR Mk3 5F Strut Brace](https://jpcustoms.shop/products/k-brace®-seat-leon-cupra-fr-mk3-5f-strut-brace): K-Brace Seat Leon Cupra FR Mk3 5F strut brace improves stability and handling. Fits 2012-2021 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-13T00:13:35Z
+  Updated: 2026-02-26T13:46:17Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -593,7 +586,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Ford Focus RS / ST MK3 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-focus-rs-st-mk3-rear-strut-brace): K-Brace Ford Focus RS ST MK3 rear strut brace improves stability and control. Fits 2010-2019 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:34:36Z
+  Updated: 2026-02-26T13:46:09Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -655,7 +648,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Abarth 500 / 595 / 695 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-abarth-500-595-695-rear-strut-brace): K-Brace Abarth 500 595 695 rear strut brace improves stability and control. Fits 2007+ models. Includes fitting kit. UK made by BAF Motorsport quality.
-  Updated: 2026-02-06T16:34:22Z
+  Updated: 2026-02-26T13:46:06Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -717,7 +710,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace BMW 1 Series M140i M135i F20 F21 Strut Brace](https://jpcustoms.shop/products/k-brace®-bmw-1-series-m140i-m135i-f20-f21-rear-strut-brace): K-Brace BMW 1 Series M140i M135i F20 F21 rear strut brace improves stability and control. Fits 2011-2020 models. Includes fitting kit. UK made quality.
-  Updated: 2026-02-06T16:34:07Z
+  Updated: 2026-02-26T13:46:23Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -779,7 +772,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Ford Fiesta ST MK7 / MK7.5 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-fiesta-st-mk7-mk7-5-rear-strut-brace): K-Brace Ford Fiesta ST MK7 MK7.5 rear strut brace improves stability and control. Fits 2013-2018 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:33:29Z
+  Updated: 2026-02-26T13:46:24Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -841,7 +834,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Honda Civic Type-R EP3 Strut Brace](https://jpcustoms.shop/products/k-brace®-honda-civic-type-r-ep3-strut-brace): K-Brace Honda Civic Type-R EP3 strut brace improves stability and control. Fits 2001-2005 models. Includes fitting kit. UK made by BAF Motorsport quality.
-  Updated: 2026-02-06T16:33:13Z
+  Updated: 2026-02-26T13:46:12Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -991,64 +984,8 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Avalance-Snow-Foam-5L-packshot-white__78601.jpg?v=1768138189
   Price: £56.20 GBP
-- [Creedy Carfume Car Air Freshener](https://jpcustoms.shop/products/creedy-carfume-car-air-freshener): Creedy Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Bold scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-15T16:48:47Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_a97dd32e-1ef8-4176-9a30-1e57d93be938.webp?v=1768138236
-  Price: £6.30 GBP
-- [Bossy Carfume Car Air Freshener](https://jpcustoms.shop/products/bossy-carfume-car-air-freshener): Bossy Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Bold scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-15T16:48:47Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/bossy.webp?v=1768138236
-  Price: £6.30 GBP
-- [Black Orchid Carfume Car Air Freshener](https://jpcustoms.shop/products/black-orchid-carfume-car-air-freshener): Black Orchid Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Exotic scent, refillable design. Lasts 8 weeks. UK stock..
-  Updated: 2026-02-15T16:48:47Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_df366222-98c8-4fb3-8bf2-00a2a9f5cf47.webp?v=1768138235
-  Price: £6.30 GBP
-- [Victory Carfume Car Air Freshener](https://jpcustoms.shop/products/victory-carfume-car-air-freshener): Victory Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Bold scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-15T16:48:46Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_a44954c3-57b7-41fb-b750-5a62b1151da3.webp?v=1768138235
-  Price: £6.30 GBP
-- [Madame Carfume Car Air Freshener](https://jpcustoms.shop/products/madame-carfume-car-air-freshener): Madame Carfume car air freshener. Long-lasting luxury fragrance for premium interiors. Elegant scent, refillable design. Lasts 8 weeks. UK stock.
-  Updated: 2026-02-15T16:48:46Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_ad4494b7-aa92-4834-bd75-af86bac0a0fc.webp?v=1768138240
-  Price: £6.30 GBP
-- [Dark Opium Carfume Car Air Freshener](https://jpcustoms.shop/products/dark-opium-carfume-car-air-freshener): Dark Opium Carfume car air freshener. Premium luxury fragrance, long-lasting scent. Refillable design, 8-week duration. Rich, elegant aroma. UK stock.
-  Updated: 2026-02-02T12:38:37Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/3_1024x1024_50cfe3eb-8ecc-465b-842c-35484a7fb57d.webp?v=1768138241
-  Price: £6.30 GBP
-- [One Billion Car Air Freshener Inspired by One Million](https://jpcustoms.shop/products/one-billion-carfume-car-air-freshener): One Billion car air freshener inspired by One Million. Long-lasting luxury fragrance with amber, leather & woods. Lasts 8 weeks. Refillable. UK stock.
-  Updated: 2026-02-01T16:12:05Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_8a8a8f12-adf9-474d-87bd-47d9407c398c.webp?v=1768138240
-  Price: £6.30 GBP
-- [Alien Spirit Carfume Car Air Freshener](https://jpcustoms.shop/products/alien-spirit-carfume-car-air-freshener): Alien Spirit Carfume car air freshener. Premium fragrance, long-lasting scent. Refillable design, 8-week duration. Bold, unique aroma. UK stock.
-  Updated: 2026-02-15T16:48:46Z
-  Vendor: MotorMist - Ride With Beauty
-  Product Type: Air freshener
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/1_1024x1024_8daf750d-220f-4999-b413-de6f4fb8ef6a.webp?v=1768138251
-  Price: £6.30 GBP
 - [K-Brace® - Honda Civic Type-R FN2 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-honda-civic-type-r-fn2-rear-strut-brace): K-Brace Honda Civic Type-R FN2 rear strut brace improves stability and control. Fits 2006-2011 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:32:52Z
+  Updated: 2026-02-26T13:45:50Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1110,7 +1047,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Skoda Fabia vRS Mk1 6Y Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-skoda-fabia-vrs-mk1-6y-rear-strut-brace): K-Brace Skoda Fabia vRS Mk1 6Y rear strut brace improves stability and control. Fits 1999-2007 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:32:37Z
+  Updated: 2026-02-26T13:46:20Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1172,7 +1109,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [K-Brace® - Mini Cooper S R53 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-mini-cooper-s-r53-rear-strut-brace): K-Brace Mini Cooper S R53 rear strut brace improves stability and control. Fits 2001-2007 R50 R53 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:32:22Z
+  Updated: 2026-02-26T13:46:08Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1261,7 +1198,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [K-Brace® - Ford Fiesta ST MK8 / MK8.5 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-ford-fiesta-st-mk8-mk8-5-rear-strut-brace): K-Brace Ford Fiesta ST MK8 MK8.5 rear strut brace improves stability and control. Fits 2017-2024 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-02-06T16:31:54Z
+  Updated: 2026-02-26T13:46:23Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1330,14 +1267,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SCEXVDM2_BAG-900x900.jpg?v=1769013668
   Price: £45.00 GBP
 - [Draper Storm Force Pressure Washer - High Power Cleaning](https://jpcustoms.shop/products/draper-storm-force-pressure-washer-105bar-1400w-jet-power-washer-snow-foam-gun-1522psi-patio-and-car-cleaner-98674-blue): Draper Storm Force pressure washer high power cleaning. Professional-grade performance for vehicles and exteriors. Durable build, UK stock.
-  Updated: 2026-02-16T04:27:05Z
+  Updated: 2026-02-23T04:16:34Z
   Vendor: Jolof Store
   Product Type: Pressure Washers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/71Os6HhrR9L_194b7e1e-a1ef-4061-a884-46ff87b536e3.jpg?v=1769023430
   Price: £95.00 GBP
 - [P21W BA15S Red LED Brake Light - Tail Light Bulb 16.5W💡](https://jpcustoms.shop/products/2pcs-1156-ba15s-16-5w-1155lm-630-660nm-33-led-smd-5630-red-light-car-brake-light-lamp-bulb-for-vehicles-dc12v): P21W BA15S red LED brake light tail light bulb 16.5W. Bright, energy-efficient upgrade for enhanced visibility and safety. Easy fit. UK stock.
-  Updated: 2026-02-16T05:00:31Z
+  Updated: 2026-02-26T15:58:21Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1351,7 +1288,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S-CMS-1011Y.jpg?v=1769270932
     Price: £6.00 GBP
 - [T10 LED Bulb W5W SMD-3030 Side Light Interior Marker](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v): T10 LED bulb W5W SMD-3030 for side lights, interior markers. Bright, energy-efficient upgrade. 12V DC. Direct replacement for halogen bulbs.
-  Updated: 2026-02-15T16:49:39Z
+  Updated: 2026-02-26T12:22:32Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1380,7 +1317,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5067WL.jpg?v=1769270208
     Price: £3.00 GBP
 - [T10 RGB LED Bulb W5W Remote Control Car Interior Light](https://jpcustoms.shop/products/2-pcs-w5w-194-t10-multi-colors-10-smd-3535-led-car--light-marker-light-with-remote-control-dc-12v): T10 RGB LED bulb W5W with remote control for car interior lights. Multi-color wireless control. 12V DC. Perfect for side markers and ambient lighting.
-  Updated: 2026-02-06T04:52:51Z
+  Updated: 2026-02-26T14:04:09Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
@@ -1399,7 +1336,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £57.00 GBP
 - [LED Cup Holders Universal RGB Car Interior Lighting](https://jpcustoms.shop/products/led-light-up-universal-cup-holders): LED cup holders universal RGB car interior lighting. Multi-colour ambient illumination with button control. USB-C rechargeable. Fits most vehicles.
-  Updated: 2026-02-15T16:52:42Z
+  Updated: 2026-02-23T06:57:44Z
   Vendor: Diversion Automotive
   Product Type: Cup Holder
   Availability: Available
@@ -1470,21 +1407,21 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/tribalred.png?v=1769638807
   Price: £44.00 GBP
 - [4D Gel Number Plates–Premium EV Acrylic Pair | UK Road Legal](https://jpcustoms.shop/products/4d-gel-number-plates-ev-style-pair): Premium 4D gel number plates for EVs. Raised resin characters, acrylic construction, UK road legal. Show-ready finish. Sold as pair. BS AU 145e .
-  Updated: 2026-02-15T16:49:38Z
+  Updated: 2026-02-26T17:33:57Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/black_friday_sale_starts_now._78.jpg?v=1769969614
   Price: £52.00 GBP
 - [4D Acrylic Number Plates – Premium EV Pair | UK Road Legal](https://jpcustoms.shop/products/4d-ev-acrylic-number-plates-pair): Premium 4D acrylic number plates for electric vehicles. Raised multi-layer construction, crystal-clear finish. UK road legal pair. BS AU 145e .
-  Updated: 2026-02-15T16:49:38Z
+  Updated: 2026-02-20T22:48:01Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/4D-EV-Acrylic-Number-Plates-pair-5.webp?v=1769969614
   Price: £36.00 GBP
 - [4D Crystal Gel Number Plates | Premium UK Legal Pair](https://jpcustoms.shop/products/4d-acrylic-crystal-gel-style-plates-pair): 4D crystal gel number plates with advanced resin clarity. Premium acrylic EV pair, superior depth and refraction. UK road legal. BS AU 145e .
-  Updated: 2026-02-15T16:49:38Z
+  Updated: 2026-02-23T19:13:31Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1498,7 +1435,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQ_LOGO_transparent_white_6.jpg?v=1769969614
   Price: £42.00 GBP
 - [3D Gel Number Plates – Premium EV Pair | UK Road Legal](https://jpcustoms.shop/products/ev-3d-gel-number-plates-pair): Premium 3D gel number plates for electric vehicles. Raised gel characters, acrylic base, UK road legal pair. BS AU 145e . Order now.
-  Updated: 2026-02-15T16:49:37Z
+  Updated: 2026-02-26T18:44:37Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1519,7 +1456,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/IMG_5471.jpg?v=1769969615
   Price: £51.00 GBP
 - [Short Number Plates – 3D Gel 6 Digit Pair | UK Road Legal](https://jpcustoms.shop/products/3d-gel-plates-short-6-digit-pair): Short number plates in premium 3D gel. 6-digit pair with raised characters, show-ready finish. UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-17T20:58:17Z
+  Updated: 2026-02-18T18:28:48Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1533,7 +1470,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_17.jpg?v=1769969615
   Price: £33.00 GBP
 - [3D Gel Number Plates – Premium Acrylic Pair | UK Legal](https://jpcustoms.shop/products/3d-gel-number-plates-pair): Premium 3D gel number plates with raised gel characters. Acrylic pair, show-ready depth, UK road legal to BS AU 145e. Order today.
-  Updated: 2026-02-17T19:49:56Z
+  Updated: 2026-02-26T19:37:17Z
   Vendor: Creata Plate
   Product Type: Number Plate
   Availability: Available
@@ -1568,14 +1505,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Screenshot2025-11-08055558.png?v=1770146141
   Price: £22.00 GBP
 - [Number Plate Velcro Mounting Pads - 50cm x 10cm UK Pair](https://jpcustoms.shop/products/fixings-velcro-number-plate-fixing): Number plate velcro mounting pads, 50cm x 10cm pair. Strong adhesive, no drilling required. Damage-free installation for UK plates. Fast UK delivery.
-  Updated: 2026-02-11T14:15:52Z
+  Updated: 2026-02-26T19:14:16Z
   Vendor: Creata Plate
   Product Type: Numberplate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SQLOGOtransparentwhite_61_f9a81efd-95e7-4bf2-9d71-6d3b60c797bd.jpg?v=1770146147
   Price: £10.00 GBP
 - [BMW E36 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-3-series-coupe-e36-rear-strut-brace): BMW E36 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-16T19:13:42Z
+  Updated: 2026-02-26T13:45:37Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1637,7 +1574,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [BMW E82 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-1-series-e82-saloon-rear-strut-brace): BMW E82 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-06T16:31:04Z
+  Updated: 2026-02-26T13:45:47Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1699,7 +1636,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Renault Clio RS Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-renault-clio-rs-197-200-mk3-strut-brace): Renault Clio RS strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-06T16:30:47Z
+  Updated: 2026-02-26T13:46:16Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1761,7 +1698,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Renault Megane RS Strut Brace | K-Brace® Billet Aluminium](https://jpcustoms.shop/products/k-brace®-renault-megane-rs-mk3-rear-strut-brace): Renault Megane RS strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-06T16:30:31Z
+  Updated: 2026-02-26T13:46:11Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1823,7 +1760,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [BMW F22 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-2-series-m235i-m240i-f22-rear-strut-brace): BMW F22 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-06T16:29:54Z
+  Updated: 2026-02-26T13:46:04Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1885,7 +1822,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [BMW M2 F87 Rear Strut Brace | K-Brace® Billet Aluminium](https://jpcustoms.shop/products/k-brace®-bmw-m2-f87-rear-strut-brace): BMW M2 F87 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-02-15T03:25:43Z
+  Updated: 2026-02-26T13:45:39Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1947,14 +1884,21 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £160.00 GBP
 - [Invisible Number Plate Holder | PlexiClick Frameless Clip UK](https://jpcustoms.shop/products/plexiclick®-invisible-number-plate-holder-clip): Invisible number plate holder with frameless PlexiClick clips. No drilling, quick install, easy removal for shows. UK plates only. Weather-resistant design.
-  Updated: 2026-02-15T16:49:36Z
+  Updated: 2026-02-20T21:21:49Z
   Vendor: Car Enhancements UK
   Product Type: Number Plate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/3_2755384e-fe2f-4f92-bf7b-2e1e9967b65f.webp?v=1770556172
-  Price: £10.00 GBP
+  Price: £12.00 GBP
+- [BMW X1 M35i Rear Splitter U11 | Maxton Design Vertical](https://jpcustoms.shop/products/maxton-design-rear-splitter-vertical-bars-bmw-x1-m35i-u11): BMW X1 M35i rear splitter by Maxton Design. Gloss black ABS vertical bars for U11 (2022+). 3D-scanned fitment, TÜV , towbar compatible. UK stock.
+  Updated: 2026-02-20T11:22:20Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20251125234314_69263f121db30-1000x750.jpg?v=1770556539
+  Price: £142.00 GBP
 - [Universal Footwell Light Kit | Plug & Play LED Ambient Set](https://jpcustoms.shop/products/universal-permanent-footwell-light-kit-ceuk-plug-play-ambient-upgrade): Universal footwell light kit with plug & play installation. Ultra-bright 12SMD LEDs, 6 colours, auto on/off with ignition. Fits any vehicle in 10 minutes.
-  Updated: 2026-02-15T16:52:39Z
+  Updated: 2026-02-22T20:13:55Z
   Vendor: Car Enhancements UK
   Product Type: Ambient Lighting Kit
   Availability: Available
@@ -2542,7 +2486,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £125.00 GBP
 - [Audi A1 Strut Bar & Cargo Net | S1 Interior Upgrade Kit 8X](https://jpcustoms.shop/products/audi-a1-s1-strut-bar-and-cargo-net): Audi A1 strut bar & cargo net kit for S1 & A1 (2010-2018). Custom-fit bar, tailored net, easy install. Fits 3-door & Sportback. Free UK delivery included.
-  Updated: 2026-02-15T16:48:06Z
+  Updated: 2026-02-19T16:27:50Z
   Vendor: cargo-nets.co.uk
   Product Type: Strut Bar
   Availability: Available
@@ -2874,6 +2818,13 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/647-mx-5-splitter-1280x720.jpg?v=1771083793
   Price: £165.00 GBP
+- [Mazda MX5 NC Spoiler Cap | Maxton Design Gloss Black ABS](https://jpcustoms.shop/products/maxton-design-spoiler-cap-mazda-mx5-hardtop-nc-mk3): Mazda MX5 NC spoiler cap by Maxton Design. Gloss black ABS, 3D-scanned fitment for Mk3 hardtop (2005-2009). TÜV . UK stock
+  Updated: 2026-02-20T10:20:54Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20240220223802_65d529ca05787-1000x750.jpg?v=1771083792
+  Price: £120.00 GBP
 - [M6 Dress Up Washers – Anodised Aluminium & Stainless Steel](https://jpcustoms.shop/products/universal-engine-bay-dress-up-kit-m6-fitment): Premium M6 dress up washers in anodised aluminium and stainless steel. Precision-engineered washer kit for show-quality engine bay detailing. Shop JP Customs.
   Updated: 2026-02-17T04:45:21Z
   Vendor: Car Enhancements UK
@@ -2936,6 +2887,885 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [70mm](https://jpcustoms.shop/products/v2-chaser-halo-bluetooth-rgb-halo-kit?variant=57166422344005)
     Availability: Available
     Price: £70.00 GBP
+- [Electronic Essential Oil Diffuser - AIRED. PRO1 Black Car](https://jpcustoms.shop/products/pro1-in-car-home-mini-luxury-electronic-rechargeable-essential-oils-diffuser-by-aired-black): Premium electronic essential oil diffuser by AIRED. Machined aluminium body, USB-C rechargeable, whisper-quiet diffusion. Perfect for cars & home. PRO1 Black.
+  Updated: 2026-02-22T20:14:22Z
+  Vendor: AIRED.
+  Product Type: Electronic Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/50672B23-D067-4E26-A670-CBEDE6782130.jpg?v=1771367581
+  Price: £55.00 GBP
+- [Electronic Essential Oil Diffuser - AIRED. PRO1 Silver Car](https://jpcustoms.shop/products/pro1-in-car-home-mini-luxury-electronic-rechargeable-essential-oils-diffuser-by-aired-silver): Premium electronic essential oil diffuser by AIRED. Machined aluminium body, USB-C rechargeable, whisper-quiet diffusion. Perfect for cars & home. PRO1 Silver.
+  Updated: 2026-02-26T00:31:59Z
+  Vendor: AIRED.
+  Product Type: Electronic Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/B5911E78-35F1-4852-A8CE-E1DD4BAD7566.jpg?v=1771367581
+  Price: £55.00 GBP
+- [Electronic Essential Oil Diffuser - AIRED. PRO1 Rose Gold](https://jpcustoms.shop/products/pro1-in-car-home-mini-luxury-electronic-rechargeable-essential-oils-diffuser-by-aired-rose-gold): Premium electronic essential oil diffuser by AIRED. Machined aluminium body, USB-C rechargeable, whisper-quiet diffusion. Perfect for cars & home. PRO1 Rose.
+  Updated: 2026-02-19T05:39:00Z
+  Vendor: AIRED.
+  Product Type: Electronic Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/0661E33B-170B-4306-BCC2-3D35E19202B6.jpg?v=1771367580
+  Price: £55.00 GBP
+- [Lavender Essential Oil - AIRED. 10ml Pure Natural Diffuser](https://jpcustoms.shop/products/aired-lavender-scented-essential-oil-aromatherapy-oil-10ml): Pure lavender essential oil by AIRED. 100% natural, promotes relaxation & stress relief. Perfect for diffusers, cars, home & aromatherapy. 10ml bottle.
+  Updated: 2026-02-19T06:16:54Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_02_42_47PM.png?v=1771367695
+  Price: £7.00 GBP
+- [Invictus Diffuser Oil 10ml | AIRED. Premium Essential](https://jpcustoms.shop/products/aired-ventos-scented-essential-oil-aromatherapy-oil-10ml): Invictus diffuser oil by AIRED. 100% natural essential oil delivers bold, invigorating fragrance for vehicles & living spaces. 10ml concentrated.
+  Updated: 2026-02-20T12:38:42Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_03_06_26PM.png?v=1771367695
+  Price: £7.00 GBP
+- [Invictus Diffuser Oil 10ml | AIRED. Premium Essential](https://jpcustoms.shop/products/aired-invictus-scented-essential-oil-aromatherapy-oil-10ml): Invictus diffuser oil by AIRED. 100% natural essential oil delivers bold, invigorating fragrance for vehicles & living spaces. 10ml concentrated.
+  Updated: 2026-02-20T08:46:50Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_02_24_49_PM.png?v=1771367695
+  Price: £7.00 GBP
+- [Linen Essential Oil - AIRED. 10ml Fresh Clean Aromatherapy](https://jpcustoms.shop/products/aired-city-linen-scented-essential-oil-aromatherapy-oil-10ml): City linen essential oil by AIRED. Fresh, clean fragrance for a crisp atmosphere. 100% natural aromatherapy oil. Perfect for diffusers, home & cars. 10ml.
+  Updated: 2026-02-19T07:15:19Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_03_00_25PM.png?v=1771367694
+  Price: £7.00 GBP
+- [Mystery Essential Oil - AIRED. 10ml Random Scent Surprise](https://jpcustoms.shop/products/aired-mystery-scent-scented-essential-oil-aromatherapy-10ml-random-scent): Mystery essential oil by AIRED. Random premium scent from our collection, including unreleased exclusives. 100% natural. Perfect for diffusers & discovery.
+  Updated: 2026-02-19T06:18:42Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan17_2026_01_39_42PM.png?v=1771367694
+  Price: £7.00 GBP
+- [Pumpkin Spice Diffuser Oil 10ml | AIRED. Premium](https://jpcustoms.shop/products/aired-pumpkin-spice-scented-essential-oil-aromatherapy-oil-10ml): Pumpkin spice diffuser oil by AIRED. 100% natural essential oil delivers warm, seasonal fragrance for cars & homes. 10ml concentrated formula.
+  Updated: 2026-02-20T08:47:45Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_01_59_56_PM.png?v=1771367693
+  Price: £7.00 GBP
+- [One Million Essential Oil - AIRED. 10ml Bold Spicy Fragrance](https://jpcustoms.shop/products/aired-one-million-scented-essential-oil-aromatherapy-oil-10ml): One Million essential oil by AIRED. Bold spicy-sweet fragrance with citrus & amber notes. 100% natural, energizing scent. Perfect for diffusers & cars. 10ml.
+  Updated: 2026-02-19T14:17:10Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_02_21_09_PM.png?v=1771367694
+  Price: £7.00 GBP
+- [Amber Oud Essential Oil - AIRED. 10ml Luxury Warm Fragrance](https://jpcustoms.shop/products/aired-amber-oud-scented-essential-oil-aromatherapy-oil-10ml): Amber oud essential oil by AIRED. Rich, warm luxury fragrance with deep resinous notes. 100% natural. Perfect for diffusers, relaxation & cars. 10ml bottle.
+  Updated: 2026-02-19T06:06:39Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPT_Image_Jan_2_2026_03_11_52_PM.png?v=1771367695
+  Price: £7.00 GBP
+- [Savage Blue Diffuser Oil 10ml | AIRED. Premium Essential](https://jpcustoms.shop/products/aired-savage-blue-scented-essential-oil-aromatherapy-oil-10ml): Savage blue diffuser oil by AIRED. 100% natural essential oil delivers refined, masculine fragrance for vehicles & living spaces. 10ml concentrated.
+  Updated: 2026-02-20T11:50:28Z
+  Vendor: AIRED.
+  Product Type: Diffuser Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ChatGPTImageJan2_2026_02_34_14PM_6da50688-3ea9-4f16-a8ca-2e98b3c99dca.png?v=1771367697
+  Price: £7.00 GBP
+- [BMW M140i Rear Diffuser F20 | Maxton Racing V4 10mm](https://jpcustoms.shop/products/maxton-design-street-pro-durability-rear-diffuser-v4-bmw-m140i-2016-2019): BMW M140i rear diffuser by Maxton Racing. 10mm thick ABS V4 for F20 (2016-2019). Enhanced durability, matte black finish. Track-proven strength. UK stock.
+  Updated: 2026-02-20T10:03:11Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20210319173139_6054dffb68d32-1280x720.jpg?v=1771536954
+  Price: £146.00 GBP
+- [BMW F20 Front Splitter M-Pack M140i | Maxton Racing V3](https://jpcustoms.shop/products/maxton-design-street-pro-front-splitter-v-3-bmw-1-f20-m-pack-facelift-m140i): BMW F20 front splitter by Maxton Racing. 10mm thick ABS V3 for M-Pack & M140i (2015-2019). Enhanced durability, matte black. Track-proven strength. UK stock.
+  Updated: 2026-02-20T20:56:19Z
+  Vendor: Car Enhancements UK
+  Product Type: Splitters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/20210917131715_6144955bc9df2-1000x750.jpg?v=1771536997
+  Price: £147.00 GBP
+- [VW Polo Strut Bar – Billet Aluminium 6R/6C Cargo Net Kit](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net): Premium VW Polo strut bar in billet aluminium for 6R/6C models. Includes cargo net kit for enhanced chassis rigidity and boot organization. Shop JP Customs now.
+  Updated: 2026-02-21T08:37:50Z
+  Vendor: cargo-nets.co.uk
+  Product Type: Strut Bar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/2048FinishedIthink_15_be876c43-d4f2-4ba6-8658-836465e751b4.png?v=1771615832
+  - [Carbon Fibre Bar / Red](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426758469)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Blue](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426791237)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Black](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426824005)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / White](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426856773)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Yellow](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426889541)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Orange](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426922309)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Purple](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426955077)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Grey](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208426987845)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Pink](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427020613)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427053381)
+    Availability: Available
+    Price: £155.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Red](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427086149)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Blue](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427118917)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Black](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427151685)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / White](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427184453)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Yellow](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427217221)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Orange](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427249989)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Purple](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427282757)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Grey](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427315525)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Pink](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427348293)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427381061)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Red](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427413829)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Blue](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427446597)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Black](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427479365)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / White](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427512133)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Yellow](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427544901)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Orange](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427577669)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Purple](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427610437)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Grey](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427643205)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Pink](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427675973)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427708741)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Red](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427741509)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Blue](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427774277)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Black](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427807045)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / White](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427839813)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Yellow](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427872581)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Orange](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427905349)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Purple](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427938117)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Grey](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208427970885)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Pink](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428003653)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428036421)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Red](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428069189)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Blue](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428101957)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Black](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428134725)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / White](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428167493)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Yellow](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428200261)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Orange](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428233029)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Purple](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428265797)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Grey](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428298565)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Pink](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428331333)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/vw-polo-mk5-6c-6r-gti-strut-bar-and-cargo-net?variant=57208428364101)
+    Availability: Available
+    Price: £125.00 GBP
+- [GT86 Strut Bar – Billet Aluminium & Cargo Net Kit | Toyota](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net): Premium GT86 strut bar in billet aluminium for Toyota GT86. Includes cargo net kit for improved chassis rigidity and boot storage. Shop JP Customs today.
+  Updated: 2026-02-21T10:47:41Z
+  Vendor: cargo-nets.co.uk
+  Product Type: Strut Bar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/ToyotaGT86_5_05cb10c9-252b-4823-80ee-6e9f24cc21d0.png?v=1771615896
+  - [Carbon Fibre Bar / Red](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429379909)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Blue](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429412677)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Black](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429445445)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / White](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429478213)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Yellow](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429510981)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Orange](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429543749)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Purple](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429576517)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Grey](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429609285)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Pink](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429642053)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429674821)
+    Availability: Available
+    Price: £155.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Red](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429707589)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Blue](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429740357)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Black](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429773125)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / White](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429805893)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Yellow](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429838661)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Orange](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429871429)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Purple](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429904197)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Grey](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429936965)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Pink](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208429969733)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430002501)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Red](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430035269)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Blue](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430068037)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Black](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430100805)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / White](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430133573)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Yellow](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430166341)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Orange](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430199109)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Purple](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430231877)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Grey](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430264645)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Pink](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430297413)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430330181)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Red](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430362949)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Blue](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430395717)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Black](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430428485)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / White](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430461253)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Yellow](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430494021)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Orange](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430526789)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Purple](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430559557)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Grey](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430592325)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Pink](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430625093)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430657861)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Red](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430690629)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Blue](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430723397)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Black](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430756165)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / White](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430788933)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Yellow](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430821701)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Orange](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430854469)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Purple](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430887237)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Grey](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430920005)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Pink](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430952773)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/toyota-gt86-strut-bar-and-cargo-net?variant=57208430985541)
+    Availability: Available
+    Price: £125.00 GBP
+- [Focus Mk2 Strut Bar – Billet Aluminium & Cargo Net Kit](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net): Premium Focus Mk2 strut bar in billet aluminium for Ford Focus. Includes cargo net kit for enhanced chassis stiffness and boot storage. Shop JP Customs today.
+  Updated: 2026-02-21T08:07:37Z
+  Vendor: cargo-nets.co.uk
+  Product Type: Strut Bar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/NEWPHOTOSTOCHECK-2024-06-06T011506.599_d19fbda6-abf3-4134-b1ec-e35d4475d47f.png?v=1771615898
+  - [Carbon Fibre Bar / Red](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431673669)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Blue](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431706437)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Black](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431739205)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / White](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431771973)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Yellow](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431804741)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Orange](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431837509)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Purple](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431870277)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Grey](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431903045)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Pink](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431935813)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208431968581)
+    Availability: Available
+    Price: £155.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Red](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432001349)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Blue](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432034117)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Black](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432066885)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / White](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432099653)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Yellow](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432132421)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Orange](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432165189)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Purple](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432197957)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Grey](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432230725)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Pink](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432263493)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432296261)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Red](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432329029)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Blue](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432361797)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Black](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432394565)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / White](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432427333)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Yellow](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432460101)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Orange](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432492869)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Purple](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432525637)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Grey](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432558405)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Pink](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432591173)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432623941)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Red](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432656709)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Blue](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432689477)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Black](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432722245)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / White](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432755013)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Yellow](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432787781)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Orange](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432820549)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Purple](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432853317)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Grey](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432886085)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Pink](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432918853)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432951621)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Red](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208432984389)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Blue](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433017157)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Black](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433049925)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / White](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433082693)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Yellow](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433115461)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Orange](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433148229)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Purple](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433180997)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Grey](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433213765)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Pink](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433246533)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-focus-mk2-st-rs-strut-bar-and-cargo-net?variant=57208433279301)
+    Availability: Available
+    Price: £125.00 GBP
+- [Fiesta Mk7 Strut Bar – Billet Aluminium & Cargo Net Kit](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net): Premium Fiesta Mk7 strut bar in billet aluminium for Ford Fiesta Mk7/Mk7.5. Includes cargo net for enhanced chassis rigidity and boot storage. Shop JP Customs.
+  Updated: 2026-02-24T18:49:06Z
+  Vendor: cargo-nets.co.uk
+  Product Type: Strut Bar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Untitleddesign_15_b8d88c22-91e7-4bd1-8c25-81cd7f62fe85.png?v=1771615897
+  - [Carbon Fibre Bar / Red](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208433967429)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Blue](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434000197)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Black](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434032965)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / White](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434065733)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Yellow](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434098501)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Orange](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434131269)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Purple](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434164037)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Grey](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434196805)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Pink](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434229573)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434262341)
+    Availability: Available
+    Price: £155.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Red](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434295109)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Blue](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434327877)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Black](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434360645)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / White](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434393413)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Yellow](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434426181)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Orange](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434458949)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Purple](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434491717)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Grey](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434524485)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Pink](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434557253)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434590021)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Red](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434622789)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Blue](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434655557)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Black](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434688325)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / White](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434721093)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Yellow](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434753861)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Orange](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434786629)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Purple](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434819397)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Grey](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434852165)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Pink](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434884933)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434917701)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Red](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434950469)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Blue](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208434983237)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Black](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435016005)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / White](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435048773)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Yellow](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435081541)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Orange](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435114309)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Purple](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435147077)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Grey](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435179845)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Pink](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435212613)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435245381)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Red](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435278149)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Blue](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435310917)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Black](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435343685)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / White](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435376453)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Yellow](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435409221)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Orange](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435441989)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Purple](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435474757)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Grey](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435507525)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Pink](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435540293)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/ford-fiesta-mk7-mk7-5-st180-strut-bar-and-cargo-net?variant=57208435573061)
+    Availability: Available
+    Price: £125.00 GBP
+- [Alfa Romeo MiTo Strut Bar – Billet Aluminium & Cargo Net](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net): Premium Alfa Romeo MiTo strut bar in billet aluminium. Includes cargo net kit for improved chassis rigidity and boot organization. Shop JP Customs today.
+  Updated: 2026-02-21T08:08:53Z
+  Vendor: cargo-nets.co.uk
+  Product Type: Strut Bar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/NEW_PHOTOS_TO_CHECK_23_aeef1a1b-e5de-4c5b-84d4-cc748861c552.png?v=1771615993
+  - [Carbon Fibre Bar / Red](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208437997893)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Blue](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438030661)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Black](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438063429)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / White](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438096197)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Yellow](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438128965)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Orange](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438161733)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Purple](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438194501)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Grey](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438227269)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Pink](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438260037)
+    Availability: Available
+    Price: £155.00 GBP
+  - [Carbon Fibre Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438292805)
+    Availability: Available
+    Price: £155.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Red](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438325573)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Blue](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438358341)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Black](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438391109)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / White](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438423877)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Yellow](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438456645)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Orange](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438489413)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Purple](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438522181)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Grey](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438554949)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Pink](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438587717)
+    Availability: Available
+    Price: £125.00 GBP
+  - [** Carbon Fibre Bar ( 10mm Thinner ) / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438620485)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Red](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438653253)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Blue](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438686021)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Black](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438718789)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / White](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438751557)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Yellow](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438784325)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Orange](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438817093)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Purple](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438849861)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Grey](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438882629)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Pink](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438915397)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Black Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438948165)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Red](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208438980933)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Blue](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439013701)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Black](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439046469)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / White](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439079237)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Yellow](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439112005)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Orange](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439144773)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Purple](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439177541)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Grey](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439210309)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Pink](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439243077)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Blue Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439275845)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Red](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439308613)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Blue](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439341381)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Black](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439374149)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / White](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439406917)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Yellow](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439439685)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Orange](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439472453)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Purple](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439505221)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Grey](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439537989)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Pink](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439570757)
+    Availability: Available
+    Price: £125.00 GBP
+  - [Red Bar / Contact us for a Custom colour from the example photo](https://jpcustoms.shop/products/alfa-romeo-mito-strut-bar-and-cargo-net?variant=57208439603525)
+    Availability: Available
+    Price: £125.00 GBP
+[List Continued](https://jpcustoms.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcwMzEwNTE0MzEwOSwibGFzdF92YWx1ZSI6IjE1NzAzMTA1MTQzMTA5In0=)
 
 ## Collections
 
@@ -2943,23 +3773,23 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-02-01T16:51:00Z
   Total Products: 0
 - [Vehicle Upgrades - Premium Automotive Parts | JP Customs](https://jpcustoms.shop/collections/🔧vehicle-upgrades🔧): Vehicle upgrades. Premium automotive parts, exterior styling, lighting, and accessories. Show-ready finishes, precise engineering. UK stock.
-  Updated: 2026-02-16T16:46:02Z
+  Updated: 2026-02-19T12:32:34Z
   Total Products: 26
 - [Car Air Fresheners Premium - Luxury Fragrances | JP Customs](https://jpcustoms.shop/collections/air-fresheners): Car air fresheners premium. Luxury vehicle fragrances, long-lasting scents. Refillable designs, 8-week duration. Bold, elegant options. UK stock.
-  Updated: 2026-02-01T17:16:08Z
-  Total Products: 8
+  Updated: 2026-02-19T20:33:56Z
+  Total Products: 20
 - [Exterior Car Accessories -Premium Styling Parts | JP Customs](https://jpcustoms.shop/collections/⭐exterior-asthetics⭐): Exterior car accessories. Premium styling parts, light guards, sunstrips, and upgrades. Show-ready finishes, precise fit. UK stock.
-  Updated: 2026-02-16T17:14:57Z
-  Total Products: 25
+  Updated: 2026-02-25T12:35:03Z
+  Total Products: 29
 - [Car LED Lighting-Premium Upgrades & Accessories | JP Customs](https://jpcustoms.shop/collections/lighting-upgrades): Car LED lighting. Premium upgrades for headlights, interior, and exterior. Bright, energy-efficient, precise fit. Show-ready quality. UK stock.
-  Updated: 2026-02-16T17:14:57Z
+  Updated: 2026-02-23T12:31:40Z
   Total Products: 16
 - [Premium Car Interior Parts - Luxury Upgrades | JP Customs](https://jpcustoms.shop/collections/interior-upgrades): Premium car interior parts. Luxury upgrades, billet aluminium trim, lighting, and accessories. Show-ready finishes, precise fit. UK stock.
-  Updated: 2026-02-16T17:07:41Z
-  Total Products: 19
+  Updated: 2026-02-23T12:31:40Z
+  Total Products: 24
 - [Car Detailing Products - Premium Care & Polish | JP Customs](https://jpcustoms.shop/collections/car-care): Car detailing products. Premium snow foam, polish, ceramic spray, and wax. Professional-grade formulas, show-ready results. UK stock.
-  Updated: 2026-02-01T17:02:52Z
-  Total Products: 5
+  Updated: 2026-02-22T17:45:49Z
+  Total Products: 6
 - [Vehicle Protection Accessories-Safety, Security | JP Customs](https://jpcustoms.shop/collections/vehicle-protection): Vehicle protection accessories. Fire extinguishers, Faraday pouches, and security essentials. Premium quality, reliable protection. UK stock.
   Updated: 2026-02-09T12:34:11Z
   Total Products: 2
@@ -2967,7 +3797,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Updated: 2026-02-01T17:07:02Z
   Total Products: 4
 - [Premium Number Plates – 3D & 4D Gel, Acrylic, EV Styles – JP Customs](https://jpcustoms.shop/collections/🔢number-plates🔠): Shop premium 3D & 4D gel number plates, acrylic plates, EV styles, and motorbike plates. Show-grade construction with road-legal UK compliance. Pairs and short formats available.
-  Updated: 2026-02-16T12:34:04Z
+  Updated: 2026-02-25T12:35:03Z
   Total Products: 19
 
 ## Blogs
@@ -3014,7 +3844,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
   - [Car Care Tips: Essential FAQs and Tricks for Daily Driving](https://jpcustoms.shop/blogs/product-insights/faqs-on-everyday-car-care-essential-tips-and-tricks): Car Care Tips: Essential FAQs and Tricks for Daily Driving
-    Updated: 2026-02-15T21:14:46Z
+    Updated: 2026-02-18T19:10:02Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
   - [Automotive Accessories Trends: Newest Products for 2026](https://jpcustoms.shop/blogs/product-insights/the-newest-trends-in-automotive-products-and-accessories): Automotive Accessories Trends: Newest Products for 2026
@@ -3023,6 +3853,26 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Tags: automotive products, car accessories, car care, car mods
   - [Car Care Problems: Common Issues and Simple Solutions](https://jpcustoms.shop/blogs/product-insights/common-car-care-problems-and-their-solutions): Car Care Problems: Common Issues and Simple Solutions
     Updated: 2026-02-15T21:24:57Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Car Accessories to Enhance Driving Experience | JP Customs](https://jpcustoms.shop/blogs/product-insights/easy-car-accessories-for-enhancing-your-driving-experience): Car Accessories to Enhance Driving Experience | JP Customs
+    Updated: 2026-02-18T19:05:13Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Car Performance Mods: Cutting-Edge Upgrades for Your Ride](https://jpcustoms.shop/blogs/product-insights/enhance-your-rides-performance-with-these-cutting-edge-car-mods): Car Performance Mods: Cutting-Edge Upgrades for Your Ride
+    Updated: 2026-02-19T21:50:26Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Discover These Unique Car Accessories for Improved Safety and Comfort](https://jpcustoms.shop/blogs/product-insights/discover-these-unique-car-accessories-for-improved-safety-and-comfort): Discover These Unique Car Accessories for Improved Safety and Comfort
+    Updated: 2026-02-22T18:27:51Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Budget-Friendly Car Mods to Elevate Your Vehicle's Style](https://jpcustoms.shop/blogs/product-insights/budget-friendly-car-mods-to-elevate-your-vehicles-style): Budget-Friendly Car Mods to Elevate Your Vehicle's Style
+    Updated: 2026-02-25T18:01:27Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Car Care Essentials: Solutions for Maintaining Your Vehicle's Performance](https://jpcustoms.shop/blogs/product-insights/car-care-essentials-solutions-for-maintaining-your-vehicles-performance): Car Care Essentials: Solutions for Maintaining Your Vehicle's Performance
+    Updated: 2026-02-26T18:01:51Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
 
