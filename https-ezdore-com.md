@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-09-05T15:31:37Z
 - Contact Email: ezdorestore@gmail.com
-- Updated At: 2026-02-20T00:00:34.479Z
+- Updated At: 2026-02-27T00:00:39.103Z
 
 ## Products
 
@@ -412,6 +412,12 @@
     Author: User
   - [Key Differences Between Virtual and Augmented Reality Applications](https://ezdore.com/blogs/news/key-differences-between-virtual-and-augmented-reality-applications): Key Differences Between Virtual and Augmented Reality Applications
     Updated: 2026-02-18T00:22:04Z
+    Author: User
+  - [Essential Checklist for Cybersecurity in a Tech-Driven World](https://ezdore.com/blogs/news/essential-checklist-for-cybersecurity-in-a-tech-driven-world): Essential Checklist for Cybersecurity in a Tech-Driven World
+    Updated: 2026-02-22T00:05:50Z
+    Author: User
+  - [Historical Innovations that Paved the Way for Smart Tech Today](https://ezdore.com/blogs/news/historical-innovations-that-paved-the-way-for-smart-tech-today): Historical Innovations that Paved the Way for Smart Tech Today
+    Updated: 2026-02-25T00:24:17Z
     Author: User
 
 ## Store Pages
