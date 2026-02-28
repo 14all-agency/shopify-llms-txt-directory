@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-06T16:36:01Z
 - Contact Email: support@doradoskin.com
-- Updated At: 2026-02-20T05:12:34.762Z
+- Updated At: 2026-02-28T00:00:33.334Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/1QXdBH1xpXGp8K.jpg?v=1766353130
   Price: $27.00 USD
 - [Order Professional Exfoliating Body Wash for Men | Dorado](https://www.doradoskin.com/products/body-wash-for-men): Refresh and detox your skin with Dorado Men Exfoliating Body Wash, enriched with white lava, activated charcoal, and aloe vera. Order Now!
-  Updated: 2026-01-28T10:11:14Z
+  Updated: 2026-02-26T19:29:47Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
@@ -67,14 +67,14 @@
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/unnamed_9c605003-d719-46d7-b56a-dca115debeff.jpg?v=1766353526
   Price: $60.00 USD
 - [Shop Men Hair Moisturizer Shampoo | Dorado](https://www.doradoskin.com/products/energizing-shampoo): Dorado Energizing Shampoo restores and nourishes hair with natural plant extracts, Biotin, Vitamin B, Ginseng, Seaweed, Camellia, & Olive Oil. Shop Now!
-  Updated: 2026-01-27T09:53:27Z
+  Updated: 2026-02-26T13:54:48Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/IMG_6553_204.jpg?v=1766353540
   Price: $21.00 USD
 - [Buy Professional Hair Conditioner for Men | Dorado](https://www.doradoskin.com/products/strengthening-conditioner): Buy Dorado Hair Conditioner Moisturizer with vitamin B5, Korean ginseng, and hydrolyzed rice protein to nourish and strengthen for fuller, smoother hair.
-  Updated: 2026-01-27T09:52:28Z
+  Updated: 2026-02-26T13:54:56Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/IMG_6200_cd4cd8a6-a0d1-45dd-84c1-44b1a4e2aaf7.jpg?v=1766353696
   Price: $133.00 USD
 - [Pair your favorite Shampoo + Conditioner | Dorado](https://www.doradoskin.com/products/shampoo-conditioner-bundle): Pair our Shampoo & Conditioner with Biotin, Vitamin B, and Hydrolyzed Rice Protein for soft, strong, voluminous hair with fresh Juniper & citrus scent.
-  Updated: 2026-02-02T07:00:19Z
+  Updated: 2026-02-26T13:54:47Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
@@ -155,7 +155,7 @@
   Updated: 2026-01-10T18:10:03Z
   Total Products: 18
 - [Buy Face, Body & Hair Care Products Essentials Online | Dorado](https://www.doradoskin.com/collections/shop-all): Buy Dorado Skin products' full range of premium face care, body wash, hair essentials, and wellness bundles crafted for healthy, glowing skin.
-  Updated: 2026-01-30T05:49:46Z
+  Updated: 2026-02-20T10:20:11Z
   Total Products: 18
 - [Mens Face Care Products | Cleansers & Moisturizers | Dorado](https://www.doradoskin.com/collections/face): Dorado premium face care products include men's beauty face cream, charcoal face wash, hydrating moisturizer, face scrub, eye cream, & lip balm. Shop Now!
   Updated: 2026-01-27T10:11:38Z
@@ -188,14 +188,14 @@
 
 ## Store Pages
 
-- [FAQs](https://www.doradoskin.com/pages/faq): What sets Dorado apart from other Men's grooming brands? Dorado's mission is to empower Men's self-confidence. We understand the importance of dail...
-  Updated: 2025-03-08T23:02:28Z
+- [Dorado Skincare FAQs | Product Questions & Answers](https://www.doradoskin.com/pages/faq): What sets Dorado apart from other Men's grooming brands? Dorado's mission is to empower Men's self-confidence. We understand the importance of dail...
+  Updated: 2026-02-20T09:46:43Z
 - [Our Story](https://www.doradoskin.com/pages/meet-the-team): Since the inception of Dorado, founder Alvaro struggled to find Men's skincare and grooming products that were high-quality and actually worked. Th...
   Updated: 2025-03-08T23:06:34Z
-- [Shipping Information](https://www.doradoskin.com/pages/shipping-information): Dorado currently offers USA shipping. We are working hard to offer shipping for our international customers! We strive to ship orders out as a fast...
-  Updated: 2024-01-14T21:36:18Z
-- [Returns & Exchanges](https://www.doradoskin.com/pages/returns-exchanges): Customer satisfaction is our biggest priority! Dorado offers a 30-day money back guarantee. If you are not satisfied with any of our products, you ...
-  Updated: 2023-11-03T00:16:59Z
+- [Shipping Info & Policies | Dorado Skin Care Products](https://www.doradoskin.com/pages/shipping-information): Dorado currently offers USA shipping. We are working hard to offer shipping for our international customers! We strive to ship orders out as a fast...
+  Updated: 2026-02-20T09:54:49Z
+- [Returns & Exchange Policy | Dorado Skincare](https://www.doradoskin.com/pages/returns-exchanges): Customer satisfaction is our biggest priority! Dorado offers a 30-day money back guarantee. If you are not satisfied with any of our products, you ...
+  Updated: 2026-02-20T09:50:12Z
 - [Get in Touch for Support & Inquiries | Dorado](https://www.doradoskin.com/pages/get-in-touch): Questions about an order or just want to chat? Please reach out to our team at support@doradoskin.com and we will get back to you as soon as possib...
   Updated: 2026-02-02T05:44:51Z
 - [Your Privacy Choices](https://www.doradoskin.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
