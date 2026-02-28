@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2025-08-21T18:57:03Z
 - Contact Email: Vestiganga@gmail.com
-- Updated At: 2026-02-21T00:00:29.747Z
+- Updated At: 2026-02-28T00:00:34.989Z
 
 # LLMs.txt - Fuente oficial de información estructurada
 # Dominio: https://vestiganga.com
@@ -307,7 +307,7 @@ Canales oficiales disponibles en el sitio web.
     Availability: Available
     Price: 39.990,00 $ COP
 - [Pijama Set X3 Unidades | Ref. 169-18 | Talla Única | Azul Cielo - Rosado - Amarillo](https://www.vestiganga.com/products/pijama-de-short-talla-unica-fucsia-salmon-lila-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades | Ref. 169-18 | Talla Única | Azul Cielo - Rosado - Amarillo Combinaciones de colores Trío U: Azul Cielo - Rosado - Amarillo Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Talla: Única Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Contiene: 3 Blusas 3 Short Garantía: 30 días por defectos de fabricación o cambios
-  Updated: 2026-02-20T05:10:17Z
+  Updated: 2026-02-23T15:25:09Z
   Vendor: Vestiganga
   Product Type: Pijama
   Availability: Available
@@ -321,7 +321,7 @@ Canales oficiales disponibles en el sitio web.
   Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/pijama-set-x3-unidades-ref-169-18-talla-unica-blanca-verde-menta-lila-9026443.jpg?v=1770767355
   Price: 49.990,00 $ COP
 - [Pijama Set X3 Unidades| Ref. 169-18 | Talla Única | Azul - Rosa - Blanca](https://www.vestiganga.com/products/pijama-de-short-talla-unica-blanca-verde-menta-lila-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Set X3 Unidades – Ref. 169-18 | Talla Única | Azul - Rosa - Blanca Combinaciones de colores Trío U: Azul - Rosa - Blanca Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de short estampado Sección: Pijamas – Mundo Dama Contenido: 3 Blusas 3 Short Garantía: 30 días por defectos de fabricación o cambios
-  Updated: 2026-02-10T23:49:15Z
+  Updated: 2026-02-23T15:25:11Z
   Vendor: Vestiganga
   Product Type: Pijama
   Availability: Available
@@ -1181,23 +1181,23 @@ Canales oficiales disponibles en el sitio web.
     Availability: Available
     Price: 89.990,00 $ COP
 - [Pijama Dama Set x3 Azul-Lila-Amarillo](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado): ¿Buscas pijamas cómodas y modernas? Pijama dama set x3 Salmón-Lila-Rosado en piel de durazno. ¡Compra ahora!
-  Updated: 2026-02-19T14:28:11Z
+  Updated: 2026-02-27T10:21:13Z
   Vendor: Vestiganga
   Product Type: Pijama
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0776/8027/9777/files/Photoroom_20260102_165652.jpg?v=1767391099
   - [S](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964361953)
     Availability: Available
-    Price: 49.990,00 $ COP
+    Price: 59.990,00 $ COP
   - [M](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964394721)
     Availability: Available
-    Price: 49.990,00 $ COP
+    Price: 59.990,00 $ COP
   - [L](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964427489)
     Availability: Available
-    Price: 49.990,00 $ COP
+    Price: 59.990,00 $ COP
   - [XL](https://www.vestiganga.com/products/pijama-dama-set-x3-salmon-lila-rosado?variant=47789964460257)
     Availability: Available
-    Price: 49.990,00 $ COP
+    Price: 59.990,00 $ COP
 - [Pijama Dama Paquete X3 Unidades | Talla Unica | Ref. 294-17 | Cafe - Azul - Amarillo](https://www.vestiganga.com/products/pijama-paquete-x3-unidades-ref-192-18-azul-cielo-habano-lila-copia): .gt-accordion { border:1px solid #eee; border-radius:12px; overflow:hidden; font: inherit; } .gt-acc-title { margin:0; padding:14px 16px; font-weight:700; font-size:18px; background:#f8f8f8; border-bottom:1px solid #eee; } .gt-acc-item { border-top:1px solid #eee; } .gt-acc-item:first-of-type { border-top:none; } .gt-acc-item > summary { cursor:pointer; padding:14px 16px; font-weight:600; list-style:none; position:relative; } .gt-acc-item > summary::-webkit-details-marker { display:none; } .gt-acc-item > summary:after { content:"+"; position:absolute; right:16px; top:50%; transform:translateY(-50%); transition:transform .2s ease; } .gt-acc-item[open] > summary:after { transform:translateY(-50%) rotate(45deg); } .gt-acc-content { padding:0 16px 16px; color:#444; line-height:1.5; display:none; } .gt-acc-item[open] > .gt-acc-content { display:block !important; } Pijama Paquete X3 Unidades | Ref. 294-17 | Cafe - Azul - Amarillo Combinaciones de colores Trío : Cafe - Azul - Amarillo Detalles técnicos y garantía Material: Piel de durazno Silueta: Delgada y ajustada Tipo de prenda: Pijama de Short Sublimado Sección: Pijamas – Mundo Dama Garantía: 30 días por defectos de fabricación o cambios Contenido: 3 Blusas y 3 Shorts
   Updated: 2026-02-20T04:13:25Z
   Vendor: Vestiganga
@@ -1209,13 +1209,13 @@ Canales oficiales disponibles en el sitio web.
 ## Collections
 
 - [Tienda Online: Moda, Ropa y Accesorios](https://www.vestiganga.com/collections/tienda-online-ropa-accesorios): Visita nuestra tienda online: ropa y accesorios para mujer, hombre e infantil. ¡Explora y renueva tu estilo hoy!
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 14
 - [Ropa Hombre: Camisetas, Boxers y Plus](https://www.vestiganga.com/collections/ropa-hombre-camisetas-boxers-plus): Compra ropa hombre: camisetas, boxers y tallas plus. Comodidad y estilo para todos. ¡Renueva tu look ya!
   Updated: 2026-02-13T20:04:45Z
   Total Products: 11
 - [Ropa Mujer: Pijamas, Deportivos y Más](https://www.vestiganga.com/collections/ropa-mujer-pijamas-deportivos-batolas): Compra ropa mujer: pijamas, deportivos y más. Solución para comodidad y estilo. ¡Renueva tu look hoy mismo!
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 56
 - [Ropa Infantil: Moda y Comodidad para Niños](https://www.vestiganga.com/collections/infantil): Compra ropa infantil cómoda y moderna. Moda y durabilidad para niños y niñas. ¡Renueva su estilo hoy!
   Updated: 2026-02-13T20:14:46Z
@@ -1224,7 +1224,7 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:12:58Z
   Total Products: 14
 - [Pijamas Mujer y Hombre: Confort y Estilo](https://www.vestiganga.com/collections/pijamas): Compra pijamas cómodos para mujer y hombre. Estilo y confort garantizados. ¡Renueva tu descanso hoy mismo!
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 37
 - [Promociones: Ropa y Accesorios con Descuento](https://www.vestiganga.com/collections/promociones): Descubre promociones en ropa y accesorios. Descuentos y estilo garantizados. ¡Aprovecha hoy y renueva tu look!
   Updated: 2026-02-18T16:37:12Z
@@ -1236,13 +1236,13 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T20:08:31Z
   Total Products: 0
 - [Más Vendidos: Ropa y Accesorios Top](https://www.vestiganga.com/collections/mas-vendidos): Descubre los más vendidos: ropa, pijamas y accesorios. Moda y comodidad garantizada. ¡Compra los favoritos hoy!
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 11
 - [Pijama Dama](https://www.vestiganga.com/collections/mujer-copia)
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 34
 - [Pijamas Dama: Confort y Estilo](https://www.vestiganga.com/collections/pijamas-dama-confort-estilo): Compra pijamas dama cómodas y elegantes. Descanso con estilo y confort. ¡Renueva tu pijama hoy!
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 27
 - [Ropa Interior Dama: Comodidad y Estilo](https://www.vestiganga.com/collections/ropa-interior-dama-inicio): Compra ropa interior dama: pantys, lencería y más. Confort y estilo garantizados. ¡Renueva tu look íntimo hoy!
   Updated: 2026-02-13T20:20:20Z
@@ -1263,7 +1263,7 @@ Canales oficiales disponibles en el sitio web.
   Updated: 2026-02-13T21:57:22Z
   Total Products: 8
 - [Blusa y Short Mujer: Confort y Estilo](https://www.vestiganga.com/collections/blusa-short-mujer-confort-estilo): Compra blusa y short mujer: cómodos, modernos y versátiles. Confort y estilo garantizados. ¡Renueva tu look hoy!
-  Updated: 2026-02-20T12:25:32Z
+  Updated: 2026-02-27T12:26:41Z
   Total Products: 19
 - [Promoción Niño: Ropa Infantil en Oferta](https://www.vestiganga.com/collections/promocion-nino): Promoción Niño: ropa infantil en oferta. Ahorra en pijamas, camisetas y más. ¡Compra hoy y viste a tus hijos con estilo!
   Updated: 2026-02-13T21:59:15Z
