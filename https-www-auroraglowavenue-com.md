@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-23T15:02:25Z
 - Contact Email: burtbros.biz@gmail.com
-- Updated At: 2026-02-17T00:00:46.381Z
+- Updated At: 2026-02-28T00:00:51.506Z
 
 ## Products
 
@@ -7449,7 +7449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0952/9714/3101/files/S6b6bff8bcc264ea0aedd54eccd8fa330s.webp?v=1766965428
     Price: $3.85 USD
 - [Gisou INS Popular Moisturizing Lip Balm Original Lip Oil Care The Lips Benetitnt For Lips Plumping Exfoliating Plumping Gloss](https://www.auroraglowavenue.com/products/gisou-ins-popular-moisturizing-lip-balm-original-lip-oil-care-the-lips-benetitnt-for-lips-plumping-exfoliating-plumping-gloss): SPECIFICATIONSBrand Name: gisouChoice: yesHigh-concerned chemical: NoneOrigin: Mainland ChinaType: Makeup Set
-  Updated: 2026-02-08T18:12:59Z
+  Updated: 2026-02-24T15:14:51Z
   Vendor: Aurora Glow Avenue
   Product Type: 
   Availability: Available
