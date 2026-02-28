@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2024-01-30T09:21:20Z
 - Contact Email: info@culinaryprofis.com
-- Updated At: 2026-02-19T00:00:38.250Z
+- Updated At: 2026-02-28T00:00:41.269Z
 
 ## Products
 
@@ -1507,7 +1507,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/whynter-bbr-638sb-12-inch-built-in-60-can-undercounter-stainless-steel-beverage-refrigerator-with-reversible-door-digital-control-lock-and-carbon-filter-bbr-638-9927116.jpg?v=1770510381
   Price: $549.00 USD
 - [Whynter - Built-in Black Glass 80-can capacity 3.4 cu ft. Beverage Refrigerator | BBR-801BG](https://culinaryprofis.com/products/whynter-built-in-black-glass-80-can-capacity-3-4-cu-ft-beverage-refrigerator-bbr-801bg): The Whynter Built-in Black Glass 80-can capacity 3.4 cu ft. Beverage Refrigerator BBR-801BG is a sophisticated addition to any home that is perfect for cooling and storing your favorite beers, wines and canned beverages. With its reversible and elegant full glass door, the 3.4 cu. ft. beverage refrigerator blends well and accents any décor. Features Built-In Installation Read: The compact 15 inch width and standard counter height makes this ideal for in-cabinet installation and is a favorite to replace that old trash compactor space. The front-venting design allows you to install this beverage refrigerator under a kitchen counter or cabinet for a seamless appearance. Digital Temperature Control and Soft Internal Lighting: Effortlessly control the LED light and temperature settings of your beverage refrigerator using the digital control panel. While the see-through tempered double pane gray-smoked glass door displays your beverage collection, the BBR-801BG is also equipped with an interior light that makes it easy to find exactly what you’re looking for. Balanced Cooling and Auto Defrost: Features fan-forced circulation to maintain an evenly-cooled space ensuring consistent temperatures throughout the interior for more effective and efficient operation. The auto defrost feature also allows for maintenance-free continuous operation (we still recommend powering the unit off during extended periods of non-usage). Reversible Door with Lock: This beverage refrigerator has the capability of the door opening from either the left or right side, if you prefer a certain direction or would like the unit to follow the flow of your kitchen design. The cylinder door lock provides protection and additional security from unauthorized access to your beverage refrigerator. Capacity: 80 standard 12 oz. can Sleek black cabinet and interior Space saving design with recessed handle Digital temperature control with temperature range from 34ºF-43ºF / 1ºC-6ºC Soft interior white LED lighting with on/off switch Built-in or Freestanding installation Reversible door Powerful compressor cooling Internal fan-forced circulation for even temperature distribution throughout the cabinet 4 slide-out wire shelves Auto defrost Cylinder lock and two keys Fahrenheit and Celsius degree temperature indicators Specifications Zone Type: Freestanding Refrigerator Unit Capacity: 80 standard 12 oz. can Temperature Range: 34ºF-43ºF / 1ºC-6ºC Celsius Option: Yes Housing Material: Sleek black cabinet and interior Color: Black Latch Equipped: No Door Lock with Keys: Yes Reversible Door: Yes Auto Defrost: Yes Accessories / Power Cords 4 slide-out wire shelves Voltage: 115V /60Hz Power: 100 watts / 1.0 Amps Noise Level: < 44 dBA ETL listed UPC 852749006054 Dimensions & Weight Product dimensions: 34.5″ H x 15″ W x 22.5″ D Package dimensions: 40″ H x 19″ W x 28″ D Net weight: 68 lbs Gross weight: 73 lbs Downloads & Manual User Manual Videos
-  Updated: 2026-02-08T00:28:23Z
+  Updated: 2026-02-25T00:34:26Z
   Vendor: Whynter
   Product Type: 
   Availability: Available
@@ -1661,7 +1661,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/Animated-GIF-downsized_large-7-1.gif?v=1752308225
   Price: $239.00 USD
 - [Whynter BWR-171DS Elite 17 Bottle Dual Zone Built-In Wine Refrigerator | CulinaryProfis](https://culinaryprofis.com/products/whynter-elite-17-bottle-seamless-stainless-steel-door-dual-zone-built-in-wine-refrigerator-bwr-171ds): Whynter BWR-171DS elite 17 bottle dual zone built-in wine refrigerator. Seamless stainless steel door. Compact wine storage.
-  Updated: 2026-02-08T15:44:17Z
+  Updated: 2026-02-27T19:42:10Z
   Vendor: Whynter
   Product Type: 
   Availability: Available
@@ -1794,7 +1794,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/whynter-eco-friendly-12000-btu-dual-hose-portable-air-conditioner-arc-12sd-6958477.jpg?v=1770510197
   Price: $719.00 USD
 - [Whynter ARC-122DHP 12000 BTU Dual Hose Portable AC with Heat & Drain Pump | CulinaryProfis](https://culinaryprofis.com/products/whynter-12000-btu-dual-hose-digital-portable-air-condtiioner-with-heat-drainpump-arc-122dhp): Whynter ARC-122DHP 12000 BTU dual hose portable air conditioner with heat and drain pump. Digital controls. Year-round comfort.
-  Updated: 2026-02-08T15:39:51Z
+  Updated: 2026-02-25T01:27:30Z
   Vendor: Whynter
   Product Type: 
   Availability: Available
@@ -1885,7 +1885,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/whynter-90-quart-dual-zone-portable-fridge-freezer-with-12v-option-and-wheels-fm-901dz-3976210.jpg?v=1770510195
   Price: $1,239.00 USD
 - [Whynter FM-452SG Elite 45 Quart SlimFit Portable Freezer | CulinaryProfis](https://culinaryprofis.com/products/whynter-elite-45-quart-slimfit-portable-freezer-refrigerator-with-12v-option-fm-452sg): Whynter FM-452SG elite 45 quart SlimFit portable freezer/refrigerator. 12V option. Compact design for RV, camping, travel.
-  Updated: 2026-02-08T15:36:32Z
+  Updated: 2026-02-23T05:33:03Z
   Vendor: Whynter
   Product Type: 
   Availability: Available
@@ -2249,7 +2249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/accutemp-alpls-tlgb-edge-series-tilting-kettle-strainer-3697763.jpg?v=1770510427
   Price: $5,273.95 USD
 - [AccuTemp ALTES-40 AccuTemp Edge Series™ Tilting Skillet Electric 40 Gallon Capacity](https://culinaryprofis.com/products/accutemp-altes-40-accutemp-edge-series-tilting-skillet-electric-40-gallon-capacity): The AccuTemp ALTES-40 AccuTemp Edge Series™ Tilting Skillet - Electric - 40 Gallon Capacity is an impeccably designed kitchen appliance tailored for large-scale culinary operations. Its thermostatically controlled mechanism ensures precise temperature regulation, accommodating various cooking requirements. The skillet’s capacity to hold up to 40 gallons makes it indispensable for high-volume food preparation environments such as commercial kitchens and institutional settings. A standout feature is its field-replaceable heating elements, offering unparalleled convenience and longevity for long-term use. The self-locking worm gear and tilt mechanism provide effortless operation and enhanced safety during use, while the heavy-duty actuator-assisted cover with a condensate drip shield and cover vent enhances user convenience by managing steam efficiently. Constructed from 304 stainless steel, the skillet boasts a clad pan body, ensuring durability and heat distribution. It is supported by an open 1-5/8" tubular leg stand, which provides stability and ease of cleaning underneath. The AccuTemp ALTES-40 is  by UL and NSF, reflecting its adherence to rigorous safety and quality standards. This tilting skillet is a quintessential tool for professionals seeking reliable, high-capacity cooking solutions in the foodservice industry, delivering efficiency and superior performance across various culinary applications.
-  Updated: 2026-02-08T00:22:09Z
+  Updated: 2026-02-27T17:04:06Z
   Vendor: AccuTemp
   Product Type: 
   Availability: Available
@@ -2617,13 +2617,13 @@
   Updated: 2026-02-07T23:30:11Z
   Total Products: 4
 - [Meat Grinders - Premium Electric & Manual Models - CulinaryProfis](https://culinaryprofis.com/collections/meat-grinder): Shop professional-grade meat grinders for home and commercial use. Heavy-duty construction, powerful motors, and precision grinding for fresh burgers, sausages, and more.
-  Updated: 2026-02-10T10:11:19Z
-  Total Products: 19
+  Updated: 2026-02-21T18:47:23Z
+  Total Products: 21
 - [Blade Gear Driven Slicer](https://culinaryprofis.com/collections/blade-gear-driven-slicer)
   Updated: 2026-02-07T23:30:15Z
   Total Products: 32
 - [Cooking Equipment Collection - Kitchen Essentials](https://culinaryprofis.com/collections/cooking-equipments-1): Explore our comprehensive Cooking Equipment Collection featuring a wide range of kitchen essentials. Find everything you need for your cooking tasks.
-  Updated: 2026-02-13T18:37:27Z
+  Updated: 2026-02-21T18:47:06Z
   Total Products: 172
 - [Feed](https://culinaryprofis.com/collections/feed)
   Updated: 2026-01-29T19:45:09Z
@@ -2647,7 +2647,7 @@
   Updated: 2026-02-16T20:27:27Z
   Total Products: 124
 - [Ampto](https://culinaryprofis.com/collections/ampto): Discover AMPTO Appliances – premium commercial kitchen equipment built for performance and reliability. Shop top-rated mixers, slicers, blenders, and more at competitive prices."
-  Updated: 2026-02-10T10:01:48Z
+  Updated: 2026-02-20T11:38:56Z
   Total Products: 43
 - [Grill Accessories](https://culinaryprofis.com/collections/grill-accessories)
   Updated: 2026-02-14T13:59:33Z
@@ -2692,8 +2692,8 @@
   Updated: 2025-12-02T10:04:47Z
   Total Products: 15
 - [Commercial Equipment Collection](https://culinaryprofis.com/collections/commercial-equipment-1): Explore our Commercial Equipment collection featuring a wide range of products for your business needs.
-  Updated: 2026-02-12T19:16:41Z
-  Total Products: 272
+  Updated: 2026-02-24T20:17:35Z
+  Total Products: 275
 - [Pellet Grill Collection - All Pellet Grill Products](https://culinaryprofis.com/collections/pellet-grill-collection): Explore our Pellet Grill Collection. Find all our pellet grill products and related accessories in one place.
   Updated: 2026-02-13T18:36:37Z
   Total Products: 6
@@ -2779,7 +2779,7 @@
   Updated: 2026-02-12T21:14:55Z
   Total Products: 15
 - [New Arrivals](https://culinaryprofis.com/collections/all-brands): Explore our newest selection of premium products, carefully chosen to bring the latest designs and innovations straight to your kitchen and outdoor living space. From modern appliances to high-performance equipment, our New Arrivals collection showcases fresh releases that combine style, quality, and functionality. Stay inspired and discover what’s new to elevate your culinary experience.
-  Updated: 2026-02-14T07:16:35Z
+  Updated: 2026-02-24T20:40:42Z
   Total Products: 24
 - [Best Seller](https://culinaryprofis.com/collections/best-seller-grills-outdoor-cooking-collection): Discover our Best Seller Collection, a curated selection of the most popular and highly rated products chosen by our customers. Each item has earned its place as a best seller thanks to its proven quality, performance, and customer satisfaction. Whether you’re upgrading your kitchen, enhancing your outdoor space, or adding the finishing touches to your home, our best sellers deliver the reliability and style you can count on
   Updated: 2026-02-01T18:09:51Z
@@ -2815,7 +2815,7 @@
   Updated: 2025-11-24T19:43:55Z
   Total Products: 51
 - [JuicerNet - Smart Charging & Power Solutions for Commercial Kitchens - CulinaryProfis](https://culinaryprofis.com/collections/juicernet): Shop JuicerNet smart charging and power management solutions for restaurants, hotels, and commercial kitchens. Professional-grade electrical infrastructure for food service.
-  Updated: 2025-12-15T18:58:28Z
+  Updated: 2026-02-24T21:38:21Z
   Total Products: 44
 - [Bromic Heating - Premium Outdoor Heaters & Infrared Heating Systems - CulinaryProfis](https://culinaryprofis.com/collections/bromic-heating): Shop Bromic's premium outdoor heating solutions. Award-winning electric and gas heaters with sleek design and powerful performance for patios and commercial spaces.
   Updated: 2026-02-12T21:14:06Z
@@ -2827,8 +2827,8 @@
   Updated: 2026-02-12T18:39:00Z
   Total Products: 269
 - [Angel Juicer Twin Gear Cold Press Juicers - CulinaryProfis](https://culinaryprofis.com/collections/angel-juicer): Premium Angel Juicer cold-press juicers: 3-stage extraction, surgical-grade stainless steel, 10-year warranty. Models 5500, 7500, 8500. Free shipping.
-  Updated: 2026-02-10T17:10:41Z
-  Total Products: 18
+  Updated: 2026-02-25T20:53:08Z
+  Total Products: 16
 - [Cheese Grater](https://culinaryprofis.com/collections/cheese-grater)
   Updated: 2026-02-10T10:01:48Z
   Total Products: 6
@@ -2845,11 +2845,14 @@
   Updated: 2026-02-12T16:00:54Z
   Total Products: 4
 - [Connerton Commercial Kitchen Equipment - CulinaryProfis](https://culinaryprofis.com/collections/connerton): Shop professional-grade Connerton commercial kitchen equipment and appliances for restaurants and commercial kitchens.
-  Updated: 2026-02-12T19:16:41Z
+  Updated: 2026-02-21T18:47:06Z
   Total Products: 94
 - [Premium Gas & Charcoal Grills - Google Shopping Feed - CulinaryProfis](https://culinaryprofis.com/collections/all-grills-google-shopping-feed): Premium outdoor grills from top brands. Gas, charcoal, pellet & infrared grills with professional features. Shop Summerset, Napoleon, Fire Magic & more.
   Updated: 2026-02-14T20:57:19Z
   Total Products: 31
+- [Ankarsrum Original Stand Mixers & Accessories | Swedish Quality Since 1940 - CulinaryProfis](https://culinaryprofis.com/collections/ankarsrum-original-stand-mixers-accessories): Shop Ankarsrum Original stand mixers in 15+ colors. 600W motor, 7L bowl, made in Sweden since 1940. Professional attachments available. 7-year warranty.
+  Updated: 2026-02-26T19:43:03Z
+  Total Products: 34
 
 ## Blogs
 
@@ -2859,9 +2862,21 @@
     Author: Culinaryprofis
     Tags: en, what is energy-efficient kitchen equipment
   - [How to Plan Outdoor Kitchen Space for Premium Cooking](https://culinaryprofis.com/blogs/news/how-to-plan-outdoor-kitchen-space): Discover how to plan outdoor kitchen space step-by-step for high-end cooking. Learn preparation, equipment selection, layout design, and final checks for a luxury setup.
-    Updated: 2026-02-18T20:36:01Z
+    Updated: 2026-02-19T06:07:22Z
     Author: Culinaryprofis
     Tags: en, how to plan outdoor kitchen space
+  - [6 Essential Kitchen Safety Tips for Professionals in 2026](https://culinaryprofis.com/blogs/news/kitchen-safety-tips-2026-essential-professionals): Discover 6 actionable kitchen safety tips for 2026. Learn practical advice for chefs and restaurant owners to ensure safe, efficient operations.
+    Updated: 2026-02-20T18:42:43Z
+    Author: Culinaryprofis
+    Tags: en, kitchen safety tips 2026
+  - [Top Outdoor Cooking Appliances for Luxury Kitchens in 2026](https://culinaryprofis.com/blogs/news/top-outdoor-cooking-appliances-luxury-kitchens-2026): Top Outdoor Cooking Appliances for Luxury Kitchens in 2026
+    Updated: 2026-02-23T15:41:57Z
+    Author: John Maala
+    Tags: 2026, built-in grills, luxury kitchens, outdoor appliances, outdoor cooking, pellet grills
+  - [Commercial Grills Comparison 2026: Charbroiler vs Salamander](https://culinaryprofis.com/blogs/news/commercial-grills-comparison-2026-charbroiler-vs-salamander-vs-gas-grill): Commercial Grills Comparison 2026: Charbroiler vs Salamander
+    Updated: 2026-02-23T15:41:38Z
+    Author: John Maala
+    Tags: 2026, charbroiler, commercial grills, commercial kitchen, gas grills, griddles, kitchen equipment guide, restaurant equipment, salamander broiler
 
 ## Store Pages
 
