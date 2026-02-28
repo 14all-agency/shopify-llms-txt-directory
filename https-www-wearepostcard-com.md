@@ -6,7 +6,7 @@
 - Timezone: Asia/Singapore
 - Created At: 2018-02-08T11:30:48Z
 - Contact Email: hello@wearepostcard.com
-- Updated At: 2026-02-21T00:00:38.404Z
+- Updated At: 2026-02-28T00:00:42.498Z
 
 ## Products
 
@@ -269,7 +269,7 @@
     Availability: Available
     Price: $6.00 SGD
 - [Bamboo Velvet Cleansing Rounds](https://www.wearepostcard.com/products/bamboo-velvet-cleansing-rounds-kit): With great care, each Bamboo round will last you up to 300 times. The Bamboo Rounds Bamboo is naturally anti-bacterial and makes it perfect for daily use. These rounds made with bamboo and cotton feature a silky soft texture that will not tug at the sensitive areas of your skin. Each round is 8cm in diameter. Suitable for use on face, eyes, lips and neck areas. Directions 1) Wet the cleansing round with warm water. 2) Put some cleansing oil/milk onto the cleansing round and use it to gently remove make up and dirt in slow circular motions until your skin is well cleansed. 3) Rinse off with water and let it dry naturally in an airy place. Care Instructions Hand wash with natural soap after every use. For a more thorough wash, place the rounds into the cotton bag provided and toss them into the washing machine! To remove any cosmetic stains, run the load on a cold wash to wash them out. Washing your reusable bamboo pads is as easy as washing your clothes!
-  Updated: 2026-02-20T08:40:04Z
+  Updated: 2026-02-24T07:31:57Z
   Vendor: Oasis Beauty Kitchen
   Product Type: Sustainable Accessories
   Availability: Available
@@ -618,7 +618,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/products/6_c3a74e94-e86f-4230-826a-a8fd7da8742b.png?v=1680967868
     Price: $12.00 SGD
 - [POSTCARD x SOJAO Sleep in ☁️ Anywhere Fragrance](https://www.wearepostcard.com/products/oasis-x-sojao-room-and-linen-mist): Think strolls through a nested Willow forest, the air laced with the sweet medley of Jasmine, Pinewood and white Casablanca lilies. With a few light spritzes, you will transform any room into a lush flower garden immersed with dreamy floral and green aromas. Heading outdoors for the day? You can also mist this over your face masks and clothes as a light perfume to add that touch of elegance, while removing any lingering odours.
-  Updated: 2026-02-20T08:40:36Z
+  Updated: 2026-02-25T07:35:06Z
   Vendor: Postcard
   Product Type: Anywhere Fragrance
   Availability: Available
@@ -1142,7 +1142,7 @@
   Availability: Available
   Price: $0.00 SGD
 - [Clear Skies Powder Wash | Face Wash for Sensitive Skin | POSTCARD](https://www.wearepostcard.com/products/clear-skies-facial-powder-wash): Experience gentle care with Clear Skies Powder Wash. This soap-free facial wash for sensitive skin combines French kaolin clay, enzymes, and brown rice for a soothing, fragrance-free cleanse. Try it now!
-  Updated: 2026-02-20T08:41:42Z
+  Updated: 2026-02-26T06:49:56Z
   Vendor: Postcard
   Product Type: Facial Powder Wash
   Availability: Available
@@ -1156,7 +1156,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Clear_Skies.png?v=1721907958
     Price: $48.00 SGD
 - [Sunlit Terrace Powder Wash | Face Wash | POSTCARD](https://www.wearepostcard.com/products/sunlit-terrace-facial-powder-wash): Achieve radiance with Sunlit Terrace Powder Wash. This soap-free face wash blends French kaolin clay, enzymes, and brown rice with petitgrain and eucalyptus for a refreshing cleanse. Try it today!
-  Updated: 2026-02-20T12:44:10Z
+  Updated: 2026-02-26T03:49:08Z
   Vendor: Postcard
   Product Type: Facial Powder Wash
   Availability: Available
@@ -1170,7 +1170,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Sunlit_Terrace_1bf613bd-ad10-41e0-ae93-85b2c59f1e07.png?v=1721907966
     Price: $48.00 SGD
 - [Fresh Breeze Toothpaste Tabs | POSTCARD](https://www.wearepostcard.com/products/toothpaste-tabs-fresh-breeze): Stay fresh on the go with Fresh Breeze Toothpaste Tabs. Just chew, brush, and enjoy a clean smile wherever you are. Try these convenient toothpaste tabs today!
-  Updated: 2026-02-20T09:20:00Z
+  Updated: 2026-02-26T08:02:07Z
   Vendor: Postcard
   Product Type: Toothpaste Tabs
   Availability: Available
@@ -1184,7 +1184,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/90.png?v=1765865474
     Price: $5.00 SGD
 - [Moon Bloom Anywhere Fragrance | Room & Linen Mist | POSTCARD](https://www.wearepostcard.com/products/anywhere-fragrance-moon-bloom): Transform your sheets with Moon Bloom Room & Linen Mist. This sweet, intoxicating linen spray features notes of juicy melon, jasmine, and fresh lilies. Try it today and drift away!
-  Updated: 2026-02-20T12:48:41Z
+  Updated: 2026-02-27T09:51:19Z
   Vendor: Postcard
   Product Type: Anywhere Fragrance
   Availability: Available
@@ -1198,7 +1198,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/moonbloom10mlnewbottle_wboxtransparent.png?v=1742548057
     Price: $14.00 SGD
 - [Smoked Roses Anywhere Fragrance | Room & Linen Mist | POSTCARD](https://www.wearepostcard.com/products/anywhere-fragrance-smoked-roses): Elevate your space with Smoked Roses Room & Linen Mist. This smoky, floral room spray blends charred petals and fresh roses for a captivating scent. Try it today!
-  Updated: 2026-02-20T08:41:42Z
+  Updated: 2026-02-27T11:09:11Z
   Vendor: Postcard
   Product Type: Anywhere Fragrance
   Availability: Available
@@ -1211,7 +1211,7 @@
     Availability: Available
     Price: $14.00 SGD
 - [Hotel Lobby Anywhere Fragrance | Body, Room & Linen Mist | POSTCARD](https://www.wearepostcard.com/products/anywhere-fragrance-hotel-lobby): Scent check-in: citrus and blossoms at first hello, vanilla and tea in the air, musk in the memory. Transform your space or skin with Hotel Lobby Anywhere Fragrance — a clean, sophisticated scent designed for both body and home. Lightweight, refillable, and consciously crafted, this versatile fragrance invites simple joy, mindful moments, and an atmosphere that lingers beautifully.
-  Updated: 2026-02-20T09:20:01Z
+  Updated: 2026-02-27T13:15:28Z
   Vendor: Postcard
   Product Type: Anywhere Fragrance
   Availability: Available
@@ -1225,7 +1225,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/hotellobby10mlnewbottle_wboxtransparent.png?v=1770644389
     Price: $14.00 SGD
 - [Rooftop Disco Dry Shampoo | Powder Shampoo | POSTCARD](https://www.wearepostcard.com/products/dry-shampoo-rooftop-disco): Revive flat hair with Rooftop Disco Dry Shampoo. This all-natural powder shampoo adds volume, mattifies oily scalps, and keeps hair fresher longer. Try it now for instant bounce!
-  Updated: 2026-02-20T09:19:58Z
+  Updated: 2026-02-26T07:42:02Z
   Vendor: Postcard
   Product Type: Dry Shampoo
   Availability: Available
@@ -1243,7 +1243,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Rooftop_Disco.png?v=1721908007
     Price: $36.00 SGD
 - [Grooming Room Powder Wash | Pamper Your Pets| POSTCARD](https://www.wearepostcard.com/products/grooming-room-pet-powder-wash): Pamper your pet with Grooming Room Powder Wash. This moisturizing and freshening pet powder wash features lavender, rosemary, eucalyptus, and organic coconut oil. Try it today!
-  Updated: 2026-02-20T08:41:48Z
+  Updated: 2026-02-25T07:35:09Z
   Vendor: Postcard
   Product Type: Head to Toe Powder Wash
   Availability: Available
@@ -1261,7 +1261,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Grooming_Room.png?v=1721908015
     Price: $36.00 SGD
 - [Wild Flowers Powder Wash | Body Wash Singapore | POSTCARD](https://www.wearepostcard.com/products/wild-flowers-head-to-toe-powder-wash): Experience the best powder body wash in Singapore with Wild Flowers Powder Wash. Hydrate and soothe your skin with geranium, lavender, rosemary, and frankincense. Try it today!
-  Updated: 2026-02-20T08:41:48Z
+  Updated: 2026-02-26T08:11:07Z
   Vendor: Postcard
   Product Type: Head to Toe Powder Wash
   Availability: Available
@@ -1275,7 +1275,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Wild_Flowers.png?v=1721908024
     Price: $36.00 SGD
 - [Woodland Retreat Powder Wash | All Skin Types Body Wash | POSTCARD](https://www.wearepostcard.com/products/woodland-retreat-head-to-toe-powder): Experience the ultimate body wash in Singapore with Woodland Retreat Powder Wash. Nourish and enhance shine with coconut oil, eucalyptus, wild mint, and lavender. Try it today!
-  Updated: 2026-02-20T08:41:48Z
+  Updated: 2026-02-25T07:35:07Z
   Vendor: Postcard
   Product Type: Head to Toe Powder Wash
   Availability: Available
@@ -1289,7 +1289,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Woodland_Retreat.png?v=1721908036
     Price: $36.00 SGD
 - [Citrus Circus Powder Wash | Powder Body Wash | POSTCARD](https://www.wearepostcard.com/products/citrus-circus-head-to-toe-powder-wash): Energize your skin with Citrus Circus Powder Wash. This brightness-boosting powder body wash features zesty orange and wild mint for a refreshing cleanse. Try it today!
-  Updated: 2026-02-20T08:41:48Z
+  Updated: 2026-02-27T10:19:08Z
   Vendor: Postcard
   Product Type: Head to Toe Powder Wash
   Availability: Available
@@ -1303,7 +1303,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Citrus_Circus.png?v=1721908047
     Price: $36.00 SGD
 - [Woodland Retreat | Nourishing Hand Sanitizer | POSTCARD](https://www.wearepostcard.com/products/hand-sanitizer-woodland-retreat): Protect and soothe your hands with Woodland Retreat Hand Sanitizer. Infused with lavender, eucalyptus, and wild mint, it nourishes while sanitizing. Try it today!
-  Updated: 2026-02-20T09:19:58Z
+  Updated: 2026-02-25T07:47:44Z
   Vendor: Postcard
   Product Type: Hand Sanitizer
   Availability: Available
@@ -1321,7 +1321,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_40ml_-_Woodland_Retreat.png?v=1721908058
     Price: $18.90 SGD
 - [Clear Skies Hair Oil | For All Hair Types | POSTCARD](https://www.wearepostcard.com/products/hair-oil-clear-skies): Refresh and hydrate with Clear Skies Hair Oil. This deeply moisturizing oil, rich in antioxidants, promotes hair growth using sweet almond, kukui nut, and buah merah oils. Try it today!
-  Updated: 2026-02-20T08:41:48Z
+  Updated: 2026-02-26T02:56:37Z
   Vendor: Postcard
   Product Type: Hair Oil
   Availability: Available
@@ -1339,7 +1339,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_40ml_-_Clear_Skies_Hair_Oil.png?v=1721908069
     Price: $54.00 SGD
 - [Curl Cove Hair Oil | Hair Oil for Curly Hair | POSTCARD](https://www.wearepostcard.com/products/hair-oil-curl-cove): Define and protect your curls with Curl Cove Hair Oil. This blend of Jamaican black castor, argan, and coconut oils locks in moisture and shine without weighing hair down. Try it today!
-  Updated: 2026-02-20T08:41:48Z
+  Updated: 2026-02-25T07:47:46Z
   Vendor: Postcard
   Product Type: Hair Oil
   Availability: Available
@@ -1357,7 +1357,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_40ml_-_Curl_Cove_351065ab-0ffb-4e96-8da3-a09b72c282ce.png?v=1721908079
     Price: $54.00 SGD
 - [Hidden Garden Hair Oil | Rosemary Oil for Hair | POSTCARD](https://www.wearepostcard.com/products/hair-oil-hidden-garden): Unlock smooth, shiny hair with Hidden Garden Hair Oil. Infused with rosemary, kukui nut, eucalyptus, and tea tree, this rejuvenating oil boosts shine and vitality. Try it today!
-  Updated: 2026-02-20T09:20:10Z
+  Updated: 2026-02-25T07:47:43Z
   Vendor: Postcard
   Product Type: Hair Oil
   Availability: Available
@@ -1375,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_40ml_-_Hidden_Garden.png?v=1721908089
     Price: $54.00 SGD
 - [Hyaluronic Heaven Facial Serum | Face Serum for All Skin Types](https://www.wearepostcard.com/products/facial-serum-hyaluronic-heaven): Hydrate and plump your skin with Hyaluronic Heaven Facial Serum. This 2.5% hyaluronic acid serum reduces wrinkles and improves elasticity. Try this face serum today for radiant skin!
-  Updated: 2026-02-20T08:41:54Z
+  Updated: 2026-02-26T06:49:56Z
   Vendor: Postcard
   Product Type: Facial Serum
   Availability: Available
@@ -1410,7 +1410,7 @@
     Availability: Available
     Price: $43.50 SGD
 - [Rose Valley Facial Mist | Organic Face Mist | POSTCARD](https://www.wearepostcard.com/products/facial-mist-rose-valley): Refresh your skin with Rose Valley Facial Mist. Made from organic roses, this face mist tightens, hydrates, and soothes, enhancing suppleness. Try it today for radiant skin!
-  Updated: 2026-02-20T09:19:58Z
+  Updated: 2026-02-25T07:47:44Z
   Vendor: Postcard
   Product Type: Facial Mist
   Availability: Available
@@ -1428,7 +1428,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_40ml_-_Rose_Valley_28b7dec6-ba53-4e54-8b08-e67832b1aef3.png?v=1721908123
     Price: $28.00 SGD
 - [Secret Oasis Facial Oil | Face Oil for Mature or Dry Skin | POSTCARD](https://www.wearepostcard.com/products/facial-oil-secret-oasis): Discover the best facial oil for mature skin with Secret Oasis Facial Oil. Deeply moisturize and smooth your skin with borage, honesty seed oils, bergamot, and patchouli. Try it today!
-  Updated: 2026-02-20T08:41:54Z
+  Updated: 2026-02-22T04:39:07Z
   Vendor: Postcard
   Product Type: Facial Oil
   Availability: Available
@@ -1446,7 +1446,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_40ml_-_Secret_Oasis.png?v=1721908137
     Price: $54.00 SGD
 - [Secluded Lagoon Facial Oil | Face Oil for All Skin Types | POSTCARD](https://www.wearepostcard.com/products/facial-oil-secluded-lagoon): Experience the benefits of argan oil for face with Secluded Lagoon Facial Oil. Purify, rebalance, and reduce puffiness with soothing drops of geranium, eucalyptus, and vetiver. Try it today!
-  Updated: 2026-02-20T08:41:54Z
+  Updated: 2026-02-25T07:47:45Z
   Vendor: Postcard
   Product Type: Facial Oil
   Availability: Available
@@ -1555,7 +1555,7 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/20gHead-to-ToeBar-CoffeeSpot_2e5bae57-843b-42d0-b4b7-9311bc1af7c7.png?v=1721908206
   Price: $10.00 SGD
 - [Citrus Circus Shampoo Bar Mini](https://www.wearepostcard.com/products/citrus-circus-shampoo-bar-mini): Heads up - your hair's favourite act is here! This sulfate-free shampoo bar hydrates and volumises, leaving your locks feeling fresh, bouncy and ready to take center stage. Post-workout? No problem. This compact citrus-infused bar packs a punch of vitamin C, awakening your scalp and energizing your senses.
-  Updated: 2026-02-20T08:42:24Z
+  Updated: 2026-02-26T01:14:18Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
@@ -1576,21 +1576,21 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/20gShampooBar-IcyPeaks_afcaf073-a163-45f0-b7a7-8c17e6d661b0.png?v=1721908223
   Price: $10.00 SGD
 - [Woodland Retreat Shampoo Bar Mini](https://www.wearepostcard.com/products/woodland-retreat-shampoo-bar-mini): Ready to escape to your personal woodland spa? Your shampoo bar is waiting to whisk you away. Our woodland retreat shampoo bar brings this serene escape to your shower, transforming your daily routine into a moment of blissful indulgence. Our herbal blend of lavender, thyme and eucalyptus doesn't just smell divine – it works wonders too. Expect volume, hydration, and hair that feels like it's been kissed by forest elves.
-  Updated: 2026-02-20T08:42:39Z
+  Updated: 2026-02-26T01:14:18Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/20gShampooBar-WoodlandRetreat.png?v=1721908227
   Price: $10.00 SGD
 - [Java Jungle Shampoo Bar Mini](https://www.wearepostcard.com/products/java-jungle-shampoo-bar-mini): A postcard from the rainforest. Gentle yet powerful, this sulfate-free shampoo bar features nature-born ingredients like stinging nettle, spicy Ginger and zesty Kaffir Lime that cleanses and invigorates. Perfect for fragile or fine hair, it's your secret  against hair loss. It's a sensory journey that'll leave you and your hair feeling refreshed, revitalized and ready to take on the world.
-  Updated: 2026-02-20T08:42:40Z
+  Updated: 2026-02-26T01:14:22Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/20gShampooBar-JavaJungle.png?v=1721908232
   Price: $10.00 SGD
 - [Dreamy Lilac Travel Pouch | POSTCARD Travel Essentials](https://www.wearepostcard.com/products/dreamy-lilac-travel-pouch): ack your dreams with the Dreamy Lilac Travel Pouch. This lightweight, waterproof travel pouch for passport and grooming essentials protects against spills. Get it now!
-  Updated: 2026-02-20T08:42:40Z
+  Updated: 2026-02-26T09:10:27Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
@@ -1604,7 +1604,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Pouch_Lavender_-_Small_ae04a8b2-b9e2-4f38-8ca9-077b832682cd.png?v=1721908237
     Price: $16.50 SGD
 - [Sunset Orange Travel Pouch | POSTCARD Travel Essentials](https://www.wearepostcard.com/products/sunset-orange-travel-pouch): Meet the Sunset Orange Travel Pouch, your lightweight, waterproof travel pouch for passport and grooming essentials. Perfect for sunrise to sundown adventures. Grab yours now!
-  Updated: 2026-02-20T08:42:40Z
+  Updated: 2026-02-27T10:03:32Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
@@ -1618,7 +1618,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Pouch_Orange_-_Small_9fa2a2ce-6cad-49c9-bbca-70146e06b730.png?v=1721908242
     Price: $16.50 SGD
 - [Santorini Blue Travel Pouch | POSTCARD Travel Essentials](https://www.wearepostcard.com/products/santorini-blue-travel-pouch): Meet the Santorini Blue Travel Pouch, your lightweight, waterproof travel pouch for passport and grooming essentials. Protect your belongings on the go. Get yours today!
-  Updated: 2026-02-20T08:42:40Z
+  Updated: 2026-02-27T11:12:23Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
@@ -1632,7 +1632,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Pouch_Blue_-_Small_583afd90-e9e2-4bca-8ce1-99971e97f429.png?v=1721908247
     Price: $16.50 SGD
 - [Summer Yellow Travel Pouch | POSTCARD Travel Essentials](https://www.wearepostcard.com/products/summer-yellow-travel-pouch): Pack your sunshine with the Summer Yellow Travel Pouch. This lightweight, waterproof travel pouch for passport and grooming essentials protects against spills. Choose mini or large!
-  Updated: 2026-02-20T08:42:40Z
+  Updated: 2026-02-26T09:10:29Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
@@ -1646,7 +1646,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Pouch_Yellow_-_Small_9752f12a-06a5-4a4b-8dfd-8a94a9c243f9.png?v=1721908253
     Price: $16.50 SGD
 - [Forest Green Travel Pouch | POSTCARD Travel Essentials](https://www.wearepostcard.com/products/forest-green-travel-pouch): Ready for adventure? The Forest Green Travel Pouch is your lightweight, waterproof travel pouch for passport and grooming essentials. Choose mini or large. Get ready now!
-  Updated: 2026-02-20T09:19:58Z
+  Updated: 2026-02-26T09:10:28Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
@@ -1660,14 +1660,14 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Pouch_Green_-_Small_81b16099-ad41-4229-b173-b3065705afa9.png?v=1721908257
     Price: $16.50 SGD
 - [Rose Quartz Gua Sha](https://www.wearepostcard.com/products/rose-quartz-guasha): This isn't just a beauty tool. It's a ritual. A moment of peace in your day. A chance to reconnect with yourself. Take a moment to imagine the smooth, cool rose quartz gliding across your skin, easing tension and boosting circulation. With each stroke, you're not just pampering your face – you're nurturing your soul.
-  Updated: 2026-02-20T08:42:40Z
+  Updated: 2026-02-24T13:31:06Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/13_3877302f-c1eb-4e49-95d6-6d1ded69aadc.png?v=1737603370
   Price: $30.00 SGD
 - [Postcard Natural Deodorant Stick – Coconut Beach | Aluminum-Free](https://www.wearepostcard.com/products/postcard-deodorant-starter-coconut-beach): Experience all-day tropical freshness with Postcard Coconut Beach Natural Deodorant. Aluminum-free, paraben-free, phthalates-free & baking soda-free.
-  Updated: 2026-02-20T08:42:55Z
+  Updated: 2026-02-25T07:47:56Z
   Vendor: Postcard
   Product Type: Deodorant Starter
   Availability: Available
@@ -1679,7 +1679,7 @@
     Availability: Available
     Price: $18.00 SGD
 - [Postcard Natural Deodorant Stick – Wild Flowers | Aluminum-Free](https://www.wearepostcard.com/products/postcard-deodorant-starter-wild-flowers): Smell like wildflowers all day with Postcard Wild Flowers Natural Deodorant. Aluminum-free, phthalate-free, paraben-free & baking soda-free for gentle freshness.
-  Updated: 2026-02-20T08:42:55Z
+  Updated: 2026-02-25T07:47:44Z
   Vendor: Postcard
   Product Type: Deodorant Starter
   Availability: Available
@@ -1691,7 +1691,7 @@
     Availability: Available
     Price: $18.00 SGD
 - [Postcard Natural Deodorant Stick – Icy Peaks | Aluminum-Free](https://www.wearepostcard.com/products/deodorant-refill-icy-peaks): Stay fresh all day with Postcard Icy Peaks Natural Deodorant. Aluminum-free, phthalate-free, paraben-free & menthol-infused for a cooling sensation.
-  Updated: 2026-02-20T08:42:56Z
+  Updated: 2026-02-25T07:47:52Z
   Vendor: Postcard
   Product Type: Deodorant
   Availability: Available
@@ -1703,7 +1703,7 @@
     Availability: Available
     Price: $18.00 SGD
 - [Coconut Beach Body Balm | POSTCARD Skincare](https://www.wearepostcard.com/products/body-balm-refill-coconut-beach): Indulge your body with deep hydration using POSTCARD Cocoa Butter Body Balm. Made with a luxurious blend of natural oils, this balm stick nourishes and moisturizes your skin, leaving it soft and smooth.
-  Updated: 2026-02-20T08:42:56Z
+  Updated: 2026-02-26T10:06:18Z
   Vendor: Postcard
   Product Type: Body Balm Refill
   Availability: Available
@@ -1718,7 +1718,7 @@
     Availability: Available
     Price: $12.00 SGD
 - [Sunlit Terrace Body Balm | POSTCARD Skincare](https://www.wearepostcard.com/products/body-balm-refill-sunlit-terrace): Pamper your skin with Sunlit Terrace Body Balm. Packed with lush oils and body butter, it delivers a velvety, non-greasy glow. Treat yourself today!
-  Updated: 2026-02-20T08:42:56Z
+  Updated: 2026-02-26T10:06:18Z
   Vendor: Postcard
   Product Type: Body Balm Refill
   Availability: Available
@@ -1733,7 +1733,7 @@
     Availability: Available
     Price: $12.00 SGD
 - [Laurel Garden Body Balm | Cocoa Butter | POSTCARD Skincare](https://www.wearepostcard.com/products/body-balm-refill-laurel-garden): Soothe and protect your skin with Laurel Garden Body Balm. Rich in cocoa butter, it nourishes and hydrates without greasiness. Perfect for sensitive skin. Try it now!
-  Updated: 2026-02-20T08:42:56Z
+  Updated: 2026-02-22T08:52:07Z
   Vendor: Postcard
   Product Type: Body Balm Refill
   Availability: Available
@@ -1748,7 +1748,7 @@
     Availability: Available
     Price: $12.00 SGD
 - [Grooming Room Paw Balm | POSTCARD](https://www.wearepostcard.com/products/paw-balm-stick-grooming-room): Paws down, this nourishing paw balm stick is perfect for your furry fam's tender tootsies. Fragrance-free and portable, it conditions paws, noses, and more. Try it today!
-  Updated: 2026-02-20T09:19:59Z
+  Updated: 2026-02-25T07:35:07Z
   Vendor: Postcard
   Product Type: Paw Balm Stick
   Availability: Available
@@ -1763,28 +1763,28 @@
     Availability: Available
     Price: $18.00 SGD
 - [Watermelon Capital Lip Balm](https://www.wearepostcard.com/products/lip-balm-stick-watermelon-capital): Pucker up, buttercup! This vegan lip balm is a sweet, fruity punch that'll have your lips feeling as soft and supple as a freshly picked watermelon. Infused a hint of cooling menthol, it plumps and softens for lips that are oh-so-kissable.
-  Updated: 2026-02-20T09:10:26Z
+  Updated: 2026-02-25T10:05:27Z
   Vendor: Postcard
   Product Type: Lip Balm Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard-ForeverStickMini-Closed_91d92e6f-75c3-49fe-ae5a-3168aa73f2a4.png?v=1721908493
   Price: $12.00 SGD
 - [Strawberry Farm Lip Balm](https://www.wearepostcard.com/products/lip-balm-stick-strawberry-farm): Say hello to a pout as fresh as a summer's day. Swipe on this delicious Lip Balm Stick and be transported to sun-drenched fields bursting with ripe, ruby-red strawberries. Apply anytime for soft, nourished lips that smell like freshly picked strawberries.
-  Updated: 2026-02-20T09:10:43Z
+  Updated: 2026-02-25T10:05:28Z
   Vendor: Postcard
   Product Type: Lip Balm Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard-ForeverStickMini-Closed_5a3495c8-8112-48dc-a116-f57bc5abb179.png?v=1721908502
   Price: $12.00 SGD
 - [Laurel Garden Lip Balm](https://www.wearepostcard.com/products/lip-balm-stick-laurel-garden): The lip balm your sensitive skin has been waiting for. Hypoallergenic and fragrance-free, this healing balm combines the richness of Laurel Oil, Cocoa Butter, and Sweet Almond Oil to moisturize and soothe flare-ups on or around your lips.
-  Updated: 2026-02-20T08:43:03Z
+  Updated: 2026-02-25T10:05:27Z
   Vendor: Postcard
   Product Type: Lip Balm Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard-ForeverStickMini-Closed_b1e029cb-132a-4b5e-9112-16ffad2dc230.png?v=1721908510
   Price: $12.00 SGD
 - [Coconut Beach Lip Balm](https://www.wearepostcard.com/products/lip-balm-stick-coconut-beach): This little tube of paradise isn't just a treat for your lips and senses. One swipe, and you're transported to a tropical getaway – sans the sunburn and sand in uncomfortable places.
-  Updated: 2026-02-15T11:48:36Z
+  Updated: 2026-02-25T10:05:26Z
   Vendor: Postcard
   Product Type: Lip Balm Stick
   Availability: Available
@@ -1805,14 +1805,14 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard-DiffuserOil-WoodlandRetreat_62fc25fd-8b1b-41ab-96c2-0b376392597d.png?v=1721908547
   Price: $25.00 SGD
 - [Moon Bloom Diffuser Oil | Lavender Aroma Oil Diffuser | POSTCARD](https://www.wearepostcard.com/products/diffuser-oil-moon-bloom): Create a serene atmosphere with Moon Bloom Diffuser Oil. This crisp, balmy aroma oil diffuser features notes of lavender, eucalyptus, and wild mint. Try it today!
-  Updated: 2026-02-20T08:43:03Z
+  Updated: 2026-02-26T08:02:07Z
   Vendor: Postcard
   Product Type: Diffuser Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard-DiffuserOil-MoonBloom.png?v=1721908549
   Price: $25.00 SGD
 - [Hotel Lobby Diffuser Oil | Bergamot Essential Oil Blends | POSTCARD](https://www.wearepostcard.com/products/diffuser-oil-hotel-lobby): Experience freshness with Hotel Lobby Diffuser Oil. Infused with bergamot essential oil, vanilla, and jasmine, it creates a citrusy, inviting atmosphere. Try it today!
-  Updated: 2026-02-20T08:43:03Z
+  Updated: 2026-02-27T09:51:19Z
   Vendor: Postcard
   Product Type: Diffuser Oil
   Availability: Available
@@ -1826,63 +1826,63 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitleddesign_17_077505e8-27c8-4e71-8da1-cf76c942d8a6.png?v=1721908554
   Price: $25.00 SGD
 - [Coffee Spot Head to Toe Cleansing Bar 100g | POSTCARD](https://www.wearepostcard.com/products/coffee-spot-head-to-toe-bar): Revive oily hair and skin with Coffee Spot Head to Toe Cleansing Bar. This 2 in 1 shampoo and body wash uses upcycled coffee grounds and stimulating botanicals for a fresh, invigorating cleanse. Try it today!
-  Updated: 2026-02-20T08:43:03Z
+  Updated: 2026-02-22T07:26:58Z
   Vendor: Postcard
   Product Type: Head to Toe Cleansing Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitleddesign_16_65c3ce5a-9e65-4112-a36d-63b997d85e21.png?v=1721908557
   Price: $25.00 SGD
 - [Wild Flowers Head to Toe Cleansing Bar 100g | POSTCARD](https://www.wearepostcard.com/products/wild-flowers-head-to-toe-bar): Let your skin bloom and hair spring to life with Wild Flowers Head to Toe Cleansing Bar. This 2 in 1 shampoo and body wash hydrates and soothes with coconut oil and floral botanicals. Try it now!
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-25T07:07:56Z
   Vendor: Postcard
   Product Type: Head to Toe Cleansing Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitleddesign_13_3323d4fe-acfb-445a-97d2-fcdb8fd770b8.png?v=1721908559
   Price: $25.00 SGD
 - [Icy Peaks Head to Toe Cleansing Bar 100g | POSTCARD](https://www.wearepostcard.com/products/icy-peaks-head-to-toe-bar): Experience peak hair and skin with Icy Peaks Head to Toe Cleansing Bar. This 2 in 1 shampoo and body wash detoxifies with coconut charcoal and soothes with peppermint. Refresh now!
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-27T07:14:59Z
   Vendor: Postcard
   Product Type: Head to Toe Cleansing Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitleddesign_19_3699b139-b7c2-4d06-aca5-7c25235d7b46.png?v=1721908562
   Price: $25.00 SGD
 - [Citrus Circus Head to Toe Cleansing Bar 100g | POSTCARD](https://www.wearepostcard.com/products/citrus-circus-head-to-toe-bar): Energize your routine with Citrus Circus Head to Toe Cleansing Bar. This 2 in 1 shampoo and body wash blends zesty orange and wild mint for a refreshing, brightness-boosting cleanse. Try it today!
-  Updated: 2026-02-20T11:03:39Z
+  Updated: 2026-02-25T07:35:17Z
   Vendor: Postcard
   Product Type: Head to Toe Cleansing Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitleddesign_18_dad04aa6-ca8a-4750-b45b-13dc09b6bcc7.png?v=1721908564
   Price: $25.00 SGD
 - [Java Jungle Head to Toe Cleansing Bar 100g | POSTCARD](https://www.wearepostcard.com/products/java-jungle-head-to-toe-bar): Discover the ultimate 2 in 1 shampoo and body wash with Java Jungle Head to Toe Cleansing Bar. Revitalize tired skin and hair with organic coconut oil and Javanese botanicals. Try it now!
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-25T07:35:07Z
   Vendor: Postcard
   Product Type: Head to Toe Cleansing Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitleddesign_14_44a7ac06-0ed9-480f-b880-a22bfa844817.png?v=1721908566
   Price: $25.00 SGD
 - [Clear Skies Facial Bar 60g | Best for Sensitive Skin | POSTCARD](https://www.wearepostcard.com/products/clear-skies-facial-bar): Experience POSTCARD's gentle, soap-free facial bar for sensitive skin. Made with soothing French clay & nigella oils. Fragrance-free cleansing bliss awaits!
-  Updated: 2026-02-13T10:17:46Z
+  Updated: 2026-02-25T07:47:43Z
   Vendor: Postcard
   Product Type: Facial Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60g_Face_Bar_-_Clear_Skies.png?v=1721908569
   Price: $18.00 SGD
 - [Clear Skies Solid Conditioner 75g | Hair Conditioner Bar | POSTCARD](https://www.wearepostcard.com/products/clear-skies-conditioner-bar-normal): Discover POSTCARD's Clear Skies Solid Conditioner. Gentle, fragrance-free bar with French kaolin clay & wild oats. Perfect for sensitive hair. Try now!
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-26T23:56:18Z
   Vendor: Postcard
   Product Type: Conditioner Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gConditionerBar-ClearSkies.png?v=1721908574
   Price: $20.00 SGD
 - [Hidden Garden Solid Conditioner 75g | Hair Conditioner Bar | POSTCARD](https://www.wearepostcard.com/products/hidden-garden-conditioner-bar-normal): Discover the secret to smooth, shiny hair with Hidden Garden Solid Conditioner. Made with organic coconut oil and a blend of nourishing ingredients, this hair conditioner bar is perfect for your hair care routine.
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-27T17:26:18Z
   Vendor: Postcard
   Product Type: Conditioner Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gConditionerBar-HiddenGarden.png?v=1721908579
   Price: $20.00 SGD
 - [Coconut Beach Solid Conditioner 75g | Hair Conditioner Bar | POSTCARD](https://www.wearepostcard.com/products/coconut-beach-conditioner-bar-normal): Transform your hair with POSTCARD's Coconut Beach Solid Conditioner. Made with organic coconut oil, cassis, lemon, ylang ylang, and vanilla, this hair conditioner bar will leave your hair silky-smooth and moisturized. Try it today!
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-27T17:26:17Z
   Vendor: Postcard
   Product Type: Conditioner Bar
   Availability: Available
@@ -1896,77 +1896,77 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-GroomingRoom.png?v=1721908588
   Price: $16.90 SGD
 - [Clear Skies Solid Shampoo | Shampoo for Sensitive Scalp | POSTCARD](https://www.wearepostcard.com/products/clear-skies-shampoo-bar-normal): POSTCARD's Clear Skies Solid Shampoo is a gentle and fragrance-free shampoo specifically designed for sensitive scalps. Made with nourishing nigella oils and French kaolin clay, it provides a soothing and purifying experience for your hair and scalp. Try it now!
-  Updated: 2026-02-20T08:43:09Z
+  Updated: 2026-02-27T17:26:18Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-ClearSkies.png?v=1721908592
   Price: $16.90 SGD
 - [Coffee Spot Solid Shampoo 60g | Caffeine Shampoo | POSTCARD](https://www.wearepostcard.com/products/coffee-spot-shampoo-bar-normal): POSTCARD's Coffee Spot Solid Shampoo is a caffeine-infused scrubbing shampoo that exfoliates the scalp and removes excess oils. Made with upcycled coffee grounds and aromatic bergamot, patchouli, and black pepper, it's perfect for oily hair. Try it now!
-  Updated: 2026-02-20T08:43:14Z
+  Updated: 2026-02-25T07:35:06Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-CoffeeSpot.png?v=1721908596
   Price: $16.90 SGD
 - [Citrus Circus Solid Shampoo 60g | Mint Shampoo | POSTCARD](https://www.wearepostcard.com/products/citrus-circus-shampoo-bar-normal): Experience the energizing and brightness-boosting effects of our Citrus Circus Solid Shampoo. Infused with zesty orange and fragrant wild mint, it's perfect for those with an active lifestyle. Try it now!
-  Updated: 2026-02-20T08:43:14Z
+  Updated: 2026-02-26T07:48:06Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-CitrusCircus.png?v=1721908603
   Price: $16.90 SGD
 - [Coconut Beach Solid Shampoo 60g | Organic Coconut Shampoo | POSTCARD](https://www.wearepostcard.com/products/coconut-beach-shampoo-bar-normal): Indulge in the tropical goodness of our Coconut Beach Solid Shampoo. Made with organic coconut oil, it moisturizes and smooths your hair, leaving it silky and fragrant. Try it now!
-  Updated: 2026-02-20T09:19:59Z
+  Updated: 2026-02-26T07:47:57Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-CoconutBeach.png?v=1721908608
   Price: $16.90 SGD
 - [Icy Peaks Solid Shampoo 60g | Shampoo for Oily Scalp | POSTCARD](https://www.wearepostcard.com/products/icy-peaks-shampoo-bar-normal): POSTCARD's Icy Peaks Solid Shampoo is specially formulated for oily scalps, with detoxifying charcoal and refreshing peppermint oil. Experience a soothing and cooling sensation for your hair.
-  Updated: 2026-02-20T08:43:15Z
+  Updated: 2026-02-26T02:24:07Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-IcyPeaks.png?v=1721908613
   Price: $16.90 SGD
 - [Woodland Retreat Solid Shampoo 60g | Moisturizing Shampoo | POSTCARD](https://www.wearepostcard.com/products/woodland-retreat-shampoo-bar-normal): Experience the tranquil forest with POSTCARD's Woodland Retreat Solid Shampoo. Made with nourishing coconut oil and a blend of eucalyptus, wild mint, and lavender oil, this moisturizing shampoo is perfect for all hair types.
-  Updated: 2026-02-20T08:43:15Z
+  Updated: 2026-02-26T07:48:06Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-WoodlandRetreat.png?v=1721908617
   Price: $16.90 SGD
 - [Java Jungle Solid Shampoo 60g | Ginger Shampoo | POSTCARD](https://www.wearepostcard.com/products/java-jungle-shampoo-bar): Revitalize fine and fragile hair with Java Jungle Solid Shampoo. This ginger shampoo, made with organic coconut oil and Javanese botanicals, restores scalp health and vibrancy. Try it today!
-  Updated: 2026-02-20T09:19:58Z
+  Updated: 2026-02-27T10:50:22Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-JavaJungle.png?v=1721908621
   Price: $16.90 SGD
 - [Wild Flowers Solid Shampoo 60g | Shampoo for Dry Scalp | POSTCARD](https://www.wearepostcard.com/products/wild-flowers-solid-shampoo-bar): POSTCARD's Wild Flowers Solid Shampoo is a hydrating and soothing shampoo made with organic coconut oil. Perfect for dry scalp, it contains nourishing ingredients like geranium, lavender, rosemary, and frankincense. Try it now for healthy, revitalized hair.
-  Updated: 2026-02-20T08:43:15Z
+  Updated: 2026-02-27T17:26:18Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gShampooBar-WildFlowers.png?v=1721908626
   Price: $16.90 SGD
 - [Sunlit Terrace Facial Bar 60g | Cleansing Bar Soap | POSTCARD](https://www.wearepostcard.com/products/sunlit-terrace-facial-bar): Discover POSTCARD's soap-free cleansing face bar. Made with jojoba oils & French clay, infused with essential oils for radiant skin. Shop now!
-  Updated: 2026-02-20T08:43:15Z
+  Updated: 2026-02-25T07:35:06Z
   Vendor: Postcard
   Product Type: Facial Bar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/60gFaceBar-SunlitTerrace.png?v=1721908630
   Price: $18.00 SGD
 - [Bamboo Scalp Massager](https://www.wearepostcard.com/products/bamboo-scalp-massager): Introducing our bamboo scalp massager: your ticket to hair nirvana. Crafted from natural bamboo, it effortlessly detangles your hair and boosts circulation for fuller, healthier locks. Enjoy a soothing head massage with 100% natural bamboo bristles, transforming your hair care routine into a daily luxurious ritual.
-  Updated: 2026-02-20T08:43:15Z
+  Updated: 2026-02-27T09:51:19Z
   Vendor: Postcard
   Product Type: Bath & Travel Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Sculptmassagerbrush-Front_a11559af-95fe-4eda-8f44-71fe01786ca2.png?v=1721908634
   Price: $12.90 SGD
 - [Java Jungle Powder Wash | Ginger & Lime Body Wash | POSTCARD](https://www.wearepostcard.com/products/java-jungle-head-to-toe-powder-wash): Discover the best-smelling body wash with Java Jungle Powder Wash. Restore fine and fragile hair with organic coconut oil, Javanese ginger, lemongrass, and ylang ylang. Try it today!
-  Updated: 2026-02-20T08:43:15Z
+  Updated: 2026-02-25T07:35:06Z
   Vendor: Postcard
   Product Type: Head to Toe Powder Wash
   Availability: Available
@@ -1980,7 +1980,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Java_Jungle.png?v=1721911850
     Price: $36.00 SGD
 - [Coffee Spot Powder Wash | Powder Body Wash | POSTCARD](https://www.wearepostcard.com/products/coffee-spot-head-to-toe-powder-wash): Exfoliate and refresh oily skin with Coffee Spot Powder Wash. This invigorating body wash, made with upcycled arabica beans and essential oils, removes excess oils. Try it now!
-  Updated: 2026-02-20T08:43:20Z
+  Updated: 2026-02-25T07:35:09Z
   Vendor: Postcard
   Product Type: Head to Toe Powder Wash
   Availability: Available
@@ -1994,7 +1994,7 @@
     Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Postcard_-_Pouch_-_100g_-_Coffee_Spot.png?v=1721934602
     Price: $36.00 SGD
 - [Bakuchiol Bay Facial Serum | Pigmented & Acne-Prone Skin | POSTCARD](https://www.wearepostcard.com/products/facial-serum-bakuchiol-bay): Say goodbye to breakouts with Bakuchiol Bay Facial Serum. This 1% bakuchiol serum reduces dark spots, heals acne, and refines skin texture. Try this plant-based face serum today!
-  Updated: 2026-02-20T09:19:59Z
+  Updated: 2026-02-22T04:39:07Z
   Vendor: Postcard
   Product Type: Facial Serum
   Availability: Available
@@ -2019,7 +2019,7 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/20gShampooBar-WoodlandRetreat.png?v=1721908227
   Price: $10.00 SGD
 - [Wild Flowers Shampoo Bar Mini](https://www.wearepostcard.com/products/wild-flowers-shampoo-bar-mini): Picture a lush field of wildflowers, swaying gently in the breeze. Now imagine capturing that essence in your daily hair care routine. Introducing our wild flowers shampoo bar – a hydrating oasis for your dry scalp and thirsty locks. Our carefully crafted sulfate-free formula targets dry, itchy scalps, helping to banish dandruff and restore balance.
-  Updated: 2026-02-20T08:43:21Z
+  Updated: 2026-02-26T01:14:27Z
   Vendor: Postcard
   Product Type: Shampoo Bar
   Availability: Available
@@ -2033,7 +2033,7 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/Untitled_629x800px_cfcd65ca-d2cb-4913-b45a-f850daaa66fd.png?v=1737702676
   Price: $40.00 SGD
 - [Clear Skies Facial Oil | Face Oil for Sensitive Skin | POSTCARD](https://www.wearepostcard.com/products/facial-oil-clear-skies): Experience the benefits of jojoba oil for your face with Clear Skies Facial Oil. Hydrate and reduce redness with this nourishing, anti-inflammatory oil. Perfect for sensitive skin. Try it today!
-  Updated: 2026-02-20T08:43:21Z
+  Updated: 2026-02-27T10:47:39Z
   Vendor: Postcard
   Product Type: Facial Oil
   Availability: Available
@@ -2058,14 +2058,14 @@
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/funnels_9b3cc8c8-f2ee-4bde-8e23-931cd3a93905.jpg?v=1722174151
   Price: $10.00 SGD
 - [Sleep In Diffuser Oil | POSTCARD Aromatherapy](https://www.wearepostcard.com/products/sleep-in-diffuser-oil): Think strolls through a nested Willow forest, the air laced with the sweet medley of Jasmine, Pinewood, and white Casablanca lilies. Just a few drops in your diffuser will fill the room with the scent of a lush garden in bloom—floral, green, and utterly transportive. Whether you're winding down for the evening or setting the tone for a fresh morning, this blend creates an atmosphere of quiet elegance and nature’s calm.
-  Updated: 2026-02-20T08:43:21Z
+  Updated: 2026-02-26T12:25:11Z
   Vendor: Postcard
   Product Type: Essential Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3000/0100/files/FullSizeRender_34437e6b-0f24-41e4-9686-2e227e8cd6be.jpg?v=1722680765
   Price: $25.00 SGD
 - [POSTCARD X ESSE Forest Bathing Anywhere Fragrance](https://www.wearepostcard.com/products/forest-bathing-x-esse-anywhere-fragrance): Forest Bathing is an open invitation to take in nature through our senses and reconnect with the outdoors. Wander through dew-kissed woods and soak in the atmosphere of a forest, with droplets of rain from the night before that bring soothing comfort to the soul and welcome peaceful reflection. In special collaboration with ESSE.
-  Updated: 2026-02-20T08:43:21Z
+  Updated: 2026-02-27T06:23:18Z
   Vendor: Postcard
   Product Type: Anywhere Fragrance
   Availability: Available
@@ -2109,7 +2109,7 @@
     Availability: Available
     Price: $42.00 SGD
 - [Clear Skies Facial Oil | Face Oil for Sensitive Skin | POSTCARD](https://www.wearepostcard.com/products/clear-skies-facial-oil-store-refill): Experience the benefits of jojoba oil for your face with Clear Skies Facial Oil. Hydrate and reduce redness with this nourishing, anti-inflammatory oil. Perfect for sensitive skin. Try it today!
-  Updated: 2026-02-20T08:43:26Z
+  Updated: 2026-02-25T05:34:46Z
   Vendor: Postcard
   Product Type: Facial Oil
   Availability: Available
@@ -2132,7 +2132,7 @@
     Availability: Available
     Price: $54.00 SGD
 - [Rose Valley Facial Mist | Organic Face Mist | POSTCARD](https://www.wearepostcard.com/products/rose-valley-facial-mist-store-refill): Refresh your skin with Rose Valley Facial Mist. Made from organic roses, this face mist tightens, hydrates, and soothes, enhancing suppleness. Try it today for radiant skin!
-  Updated: 2026-02-20T08:43:26Z
+  Updated: 2026-02-21T09:23:57Z
   Vendor: Postcard
   Product Type: Facial Mist
   Availability: Available
@@ -2282,7 +2282,7 @@
     Availability: Available
     Price: $34.00 SGD
 - [Liquid Hand & Body Wash In-Store Refill](https://www.wearepostcard.com/products/liquid-hand-body-wash-in-store-refill)
-  Updated: 2026-02-20T08:43:33Z
+  Updated: 2026-02-21T04:05:58Z
   Vendor: Postcard
   Product Type: Liquid Body Wash
   Availability: Available
@@ -2353,73 +2353,73 @@
 ## Collections
 
 - [Natural Pet Care Collection | POSTCARD](https://www.wearepostcard.com/collections/pets-postcard): Made by pet lovers, for pet lovers. Explore our pet care range now and transform bath time into spa time. Tail-waggingly yours, Postcard
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-22T12:03:33Z
   Total Products: 4
 - [Travel Pouch Collection | POSTCARD](https://www.wearepostcard.com/collections/travel-postcard): Bring POSTCARD on every adventure. Travel-friendly pouches, miniature marvels, and TSA- treasures. Shop the perfect travel companions today!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Shampoo Bars | POSTCARD Solid Shampoo Collection](https://www.wearepostcard.com/collections/shampoo-bars-postcard): Compact. Powerful. Revolutionary. Dive into our range of shampoo bars and discover your perfect match. Your best hair days are just a lather away.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 8
 - [Solid Conditioners | POSTCARD Hair Conditioner Bar](https://www.wearepostcard.com/collections/solid-conditioners-postcard): Explore POSTCARD's solid hair conditioner bar collection. Eco-friendly, travel-ready, and made with natural ingredients for smooth, healthy hair. Try one today!
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 3
 - [Hair Treatments | Hair Oil & Dry Shampoo | POSTCARD](https://www.wearepostcard.com/collections/hair-treatments-postcard): Give your hair a glow up. Made with 100% natural ingredients, discover our range of treatments with nourishing formulas to wrap your hair in a cocoon of care.
-  Updated: 2026-02-17T12:02:53Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 6
 - [Head to Toe Cleansing Bar |  2 in 1 Shampoo and Body Wash | POSTCARD](https://www.wearepostcard.com/collections/head-to-toe-bars): Use as a shampoo, facial wash and body wash. One bar does it all. Simplify your life. It's time to bar-hop your way to bliss.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 6
 - [Head-to-Toe Powder Wash | POSTCARD](https://www.wearepostcard.com/collections/head-to-toe-powder): One wash, three ways – your new travel essential. Welcome to the world of Head-to-Toe Powder Washes that transform into a luscious lather with just a splash of water.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 7
 - [Natural Head to Toe Products | POSTCARD](https://www.wearepostcard.com/collections/head-to-toe-with-sub): Experience POSTCARD's Head to Toe collection. Simple, natural care with no irritants. Perfect powders and bars for full-body use. Try them today!
   Updated: 2026-02-10T07:35:51Z
   Total Products: 0
 - [Face Moisturizers | Facial Serums & Mist | POSTCARD](https://www.wearepostcard.com/collections/face-moisturizers): A postcard from Glowtown. Our skincare is packed with ingredients that don't just sit pretty on your skin – they get to work, repairing your skin barrier and giving you that coveted glow.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 9
 - [Natural Hair Care Collection | POSTCARD](https://www.wearepostcard.com/collections/hair): Discover POSTCARD's hair care collection with simple, natural ingredients. Enjoy shampoo bars, solid conditioners, dry shampoos, hair oils, and bamboo scalp massagers. Try now!
-  Updated: 2026-02-16T12:03:10Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 5
 - [Natural Face Care Collection | POSTCARD](https://www.wearepostcard.com/collections/face): Try POSTCARD's face care line with simple, clean ingredients. Featuring mists, serums, cleansers, and Gua Sha. Discover your perfect match today!
-  Updated: 2026-02-13T12:03:42Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 1
 - [Diffuser Oil Collection | Postcard Aromatherapy](https://www.wearepostcard.com/collections/diffuser-oil): Transform any space into a sensory playground. Crafted with care and infused with scents that transport you to far-off lands, our diffuser oils are your ticket to instant escapism.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 5
 - [Fragrance Accessories | Aromatherapy Diffusers | POSTCARD](https://www.wearepostcard.com/collections/fragrance-accessories): Enhance your space with our Fragrance Accessories Collection. Discover our ceramic aromatherapy diffuser for a calming, aromatic experience. Elevate your ambiance today!
   Updated: 2026-02-14T12:03:15Z
   Total Products: 1
 - [Natural Fragrance Collection | POSTCARD](https://www.wearepostcard.com/collections/fragrance): Transform any space with POSTCARD's fragrance collection. Crafted with care, our scents transport you to far-off lands. Try our Anywhere Fragrances as mist or perfume, and explore our diffuser oils today!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 2
 - [Lips](https://www.wearepostcard.com/collections/lips): Pucker up for pillow-soft lips. Our range of vegan lip balms are here to transform your lips into the stuff of dreams.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-25T12:03:36Z
   Total Products: 4
 - [Natural Toothpaste Tabs | POSTCARD Dental Care Collection](https://www.wearepostcard.com/collections/teeth): Ready to revolutionize your dental care? Explore our range now and let your smile do the talking.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 2
 - [Simple, Natural Body Care | POSTCARD](https://www.wearepostcard.com/collections/body): Discover POSTCARD's body care collection. Made with simple, natural ingredients. Body balm, hand sanitizer, lip balm, toothpaste tabs, and nail polish. Try them today!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 4
-- [Body Balm | Body Butters | POSTCARD Skincare](https://www.wearepostcard.com/collections/body-balm): Hands-free hydration for on-the-go glow. Discover our vegan Body Balms today and let your skin drink in the goodness.
-  Updated: 2026-02-17T12:02:53Z
+- [Body Balm | Body Butters | POSTCARD Skincare](https://www.wearepostcard.com/collections/body-balm): An intensive balm for dry heels, rough elbows and thirsty patches — deeply nourishing, fast-absorbing and made to restore comfort where you need it most.
+  Updated: 2026-02-25T13:48:00Z
   Total Products: 3
 - [Pure, Simple Skincare | POSTCARD - Made with Love in Singapore](https://www.wearepostcard.com/collections/postcard): Experience POSTCARD's natural skincare and hair care. Crafted with love in Singapore, our products are simple, pure, and free from artificials. Shop now for a better beauty routine!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 64
 - [Gentle & Natural Deodorants | POSTCARD](https://www.wearepostcard.com/collections/deodorant): Gentle on skin, tough on odour. POSTCARD's natural fragrance deodorants are aluminium and baking soda-free, phthalate free, and paraben free. Shop now!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 30
 - [Facial Accessories | POSTCARD Face Care](https://www.wearepostcard.com/collections/facial-accessories): Step into a world where your bathroom becomes a sanctuary. Explore our collection of facial accessories without having to leave home.
-  Updated: 2026-02-14T12:03:15Z
+  Updated: 2026-02-25T12:03:36Z
   Total Products: 2
 - [Hand Care Collection | POSTCARD Skincare](https://www.wearepostcard.com/collections/hands): Time to give those hard-working hands a well-deserved break. Our range of hand-pampering products is here to transport you to a world of indulgence. Let's explore, shall we?
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-24T12:02:57Z
   Total Products: 2
 - [Top Picks of the Week | POSTCARD Self-Care Essentials](https://www.wearepostcard.com/collections/top-picks-of-the-week): Explore POSTCARD's Top Picks of the Week. Discover natural deodorants, shampoo bars, and room & linen mists for your self-care routine. Shop now!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 6
 - [Hands & Body Personal Care Products | POSTCARD Skincare](https://www.wearepostcard.com/collections/marketplace-hands-body): Pamper yourself with our Hands & Body collection. Explore Aleppo soaps, hand creams, and body bars for nourishing care. Treat your skin to luxury today!
   Updated: 2026-02-20T12:05:00Z
@@ -2449,13 +2449,13 @@
   Updated: 2026-02-10T07:35:53Z
   Total Products: 4
 - [Home Fragrance Collection | POSTCARD](https://www.wearepostcard.com/collections/home-fragrance): Enhance your space with Earl of East Incense Sticks from our Home Fragrances collection. Explore a variety of scents and elevate your home fragrance. Shop now!
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Fragrance Collabs | Home Scents & Perfumes | POSTCARD](https://www.wearepostcard.com/collections/fragrance-collabs): Explore our Fragrance Collabs collection—scents for home and personal use, crafted with care in partnership with top brands. Elevate your space and style today!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 4
 - [Best-Sellers Collection | POSTCARD Self-Care Essentials](https://www.wearepostcard.com/collections/best-sellers): Discover POSTCARD's best-sellers collection. Natural deodorants, shampoo bars, and room mists for your self-care routine. Shop now for your favorites!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Earl of East | Scented Candles & Fragrances on POSTCARD](https://www.wearepostcard.com/collections/earl-of-east): Explore Earl of East's hand-blended home fragrances. From scented candles to air fresheners and incense sticks, create a cozy atmosphere. Shop now for your favorite scents!
   Updated: 2026-02-10T07:35:53Z
@@ -2473,97 +2473,97 @@
   Updated: 2026-02-13T12:03:42Z
   Total Products: 43
 - [Pregnancy Safe Haircare | Natural Shampoo & Conditioners](https://www.wearepostcard.com/collections/pregnancy-safe-haircare): Nourishing. Gentle. Chemical-free. Because you deserve to feel pampered, even as you prepare to pamper someone else. Explore POSTCARD's pregnancy-safe collection and give your hair the love it deserves. Remember, you're glowing from the inside out.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 10
 - [Pregnancy Safe Bodycare](https://www.wearepostcard.com/collections/pregnancy-safe-bodycare)
   Updated: 2026-02-10T07:35:54Z
   Total Products: 0
 - [Pregnancy Safe Skincare: Products for Expecting Moms | POSTCARD](https://www.wearepostcard.com/collections/pregnancy-safe-skincare): Expecting and need pregnancy-safe skincare? Discover our range of natural, minimal-packaging products for different skin concerns.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Natural Skincare for Acne-Prone Skin | POSTCARD Face Care](https://www.wearepostcard.com/collections/acne-prone-skincare): Struggling with acne and problem skin? Our minimally packaged acne-prone skincare range offers the best solutions in Singapore. Get glowing, clear skin. Free shipping over $60!
-  Updated: 2026-02-18T12:03:11Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 4
 - [Oily Skin Face Care Products | POSTCARD Natural Skincare](https://www.wearepostcard.com/collections/oily-skin-face-care): Struggling with oily skin? Our face cleansers and serums work with your natural oils for a balanced, glowing complexion. Minimal packaging and recycled shipping boxes. Discover natural solutions today.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 10
 - [Sensitive Skin Face Care Products | POSTCARD Natural Skincare](https://www.wearepostcard.com/collections/sensitive-skin-face-care): Soothe and nourish sensitive skin with our gentle facial oils, mists, serums and washes. Discover a complete collection tailored for delicate complexions. Free shipping on orders $60+.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 9
 - [Natural Hair Care for Eczema-Prone Skin | POSTCARD Hair Care](https://www.wearepostcard.com/collections/eczema-hair-care): Struggling with dry, itchy scalp? Discover our gentle, eczema-friendly hair care line formulated to soothe sensitivity and restore healthy locks. Try it today!
-  Updated: 2026-02-11T12:03:21Z
+  Updated: 2026-02-25T12:03:36Z
   Total Products: 1
 - [Natural Skincare for Eczema-Prone Skin | POSTCARD Face Care](https://www.wearepostcard.com/collections/eczema-face-care): Struggle with eczema flare-ups on your face? Our gentle, minimally packaged face care line offers natural relief for itchy, inflamed skin. Pregnancy-safe formulas include facial mist, serum, powder wash & more. Get free shipping on orders over $60.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 9
 - [Eczema body care](https://www.wearepostcard.com/collections/eczema-body-care)
   Updated: 2026-02-10T07:35:54Z
   Total Products: 0
 - [Hyperpigmentation Face Care Products | POSTCARD Skincare](https://www.wearepostcard.com/collections/hyper-pigmentation-face-care): Struggling with dark spots or uneven skin tone? Discover our effective hyperpigmentation face care line that helps brighten and even out your complexion naturally. Free shipping on orders over $60.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 3
 - [Anti-Aging Skincare | POSTCARD Natural Face Care Products](https://www.wearepostcard.com/collections/anti-ageing-face-care): Combat aging skin with our natural anti-aging face care line. Revive your youthful glow with minimal packaging and free shipping above $60.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Dull Skin Solutions | POSTCARD Natural Face Care Products](https://www.wearepostcard.com/collections/dull-skin-face-care): Revive your dull complexion with our nourishing, natural face care line. Crafted with botanical ingredients to gently brighten and renew your skin. Discover our collection today!
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 6
 - [Oily Scalp Hair Care | POSTCARD](https://www.wearepostcard.com/collections/oily-scalp-hair-care): Say goodbye to oily hair days for it's time to restore balance and reclaim your hair's natural vitality with our collection of shampoo bars, conditioner, hair oil and dry shampoo. No greasy residue. No weighed-down strands. Just bouncy, clean hair that dances in the breeze.
-  Updated: 2026-02-17T12:02:53Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 7
 - [Best Shampoo & Care for Colored Hair | POSTCARD Hair Care](https://www.wearepostcard.com/collections/coloured-hair-care): Our colour-safe range wraps each strand in a protective embrace, helping your hue stay true for longer. No more premature fading or dull, lifeless locks.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Best Curly Hair Care Products | POSTCARD](https://www.wearepostcard.com/collections/curly-hair-care): Curls, meet your match! Our collection of shampoo bar, conditioner and hair oil wraps each strand in a cocoon of moisture, leaving your curls soft as silk, bouncy as a spring day, and delightfully frizz-free. Your perfect curl day awaits...
-  Updated: 2026-02-17T12:02:53Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 3
 - [Hair Loss Care Products | Natural Hair Care | POSTCARD](https://www.wearepostcard.com/collections/hair-loss-care): Renew your confidence from root to tip and unlock your journey to luscious locks. Our carefully crafted formulas work in harmony, nourishing your scalp and fortifying each strand. It's like a spa day for your hair – every day.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 5
 - [Frizzy Hair Solutions | Haircare for Frizz Control | POSTCARD](https://www.wearepostcard.com/collections/frizzy-hair-care): Introducing our smooth operators. Specially formulated shampoo bars, conditioners and hair oil to reduce frizz and enhance your natural texture, this range will have you looking – and feeling – your absolute best. Wishing you smooth sailing (and smoother hair), Postcard.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 9
 - [Dry Hair Care Products | Natural Hair Care | POSTCARD](https://www.wearepostcard.com/collections/dry-hair-care): Say goodbye to parched ends and hello to hair that's smoother than a gentle sea breeze. Our collection of shampoo bars, hair oils and conditioners are formulated to deliver a moisture surge from scalp to tips, leaving your hair quenched and happy.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 8
 - [Sensitive Scalp Hair Care | POSTCARD](https://www.wearepostcard.com/collections/sensitive-scalp-hair-care): Crafted with care, this sensitive range of shampoo bars and hair care products is a soft embrace for your delicate scalp. Think feather-light formulas that cleanse without the sting. Nourishing ingredients that hydrate without weighing you down. Ready to treat your scalp to some TLC?
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 7
 - [Fragile Hair Care | Naturall Hair Care Products | POSTCARD](https://www.wearepostcard.com/collections/fragile-hair-care): Unlock the secret to stronger, healthier hair with this range of shampoo and hair care products that's designed to strengthen and stimulate your tresses from root to tip. Formulated with care, designed with love and lather, Postcard.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 8
 - [Hair Care for Normal Hair Types | POSTCARD Hair Products](https://www.wearepostcard.com/collections/normal-hair-care): Designed with love and care, this range is all about maintaining your hair's natural beauty. No fuss, no frills – just pure, unadulterated hair happiness. Here's to good hair days, every day!
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 15
 - [Best Shampoo & Care for Grey Hair | POSTCARD Hair Care](https://www.wearepostcard.com/collections/grey-hair-care): Step into a world where grey isn't just embraced – it's celebrated. This collection is specially curated to protect, gently cleanse, and nourish grey hair while preserving its essential moisture. Get ready to give your silver mane the royal  it deserves.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 10
 - [Combination Skin Care Products | POSTCARD Natural Face Care](https://www.wearepostcard.com/collections/normal-to-combination-skin-care): Normal to combination skin issues? Discover our carefully curated range of facial oils, mists, serums, and makeup removers - tailored solutions to address hydration, anti-aging, and hyperpigmentation. Shop now for clear, radiant skin!
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 12
 - [Dry Skin Care Products | POSTCARD Natural Face Care Products](https://www.wearepostcard.com/collections/dry-skin-care): Struggling with dry skin on your face? Our nourishing dry skin care line, including facial oils, mists, and serums, soothes and hydrates for a radiant complexion. Free shipping over $60.
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Volumizing Hair Care Products | POSTCARD](https://www.wearepostcard.com/collections/volumizing-hair-care): Pump up the volume and say goodbye to flat, lifeless hair. Our volumising collection of shampoo bars and dry shampoo is here to lift your spirits – and your locks. Ready to reach new heights?
-  Updated: 2026-02-17T12:02:53Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 4
 - [Oasis Beauty Kitchen   | POSTCARD](https://www.wearepostcard.com/collections/): Get amazing deals on eco-friendly haircare, skincare, deodorants, fragrances & pet products. Sustainable, minimally packaged items. Save big today!
   Updated: 2026-02-12T12:03:54Z
   Total Products: 5
 - [Eco-Friendly Refillable Liquids | Shampoo Refill Singapore | POSTCARD](https://www.wearepostcard.com/collections/postcard-liquids): Reduce plastic waste with our refillable shampoo and other liquid products. Affordable, convenient, and good for the planet. Free delivery above $60. Explore our sustainable options now!
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-21T12:02:50Z
   Total Products: 4
 - [Hair Oil](https://www.wearepostcard.com/collections/hair-oil)
-  Updated: 2026-02-17T12:02:53Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 3
 - [RX Performance in-store products](https://www.wearepostcard.com/collections/rx-performance-in-store-products)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 30
 - [Christmas Gifting](https://www.wearepostcard.com/collections/christmas-gifting)
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 19
 - [Mini Shampoo Bar Collection](https://www.wearepostcard.com/collections/mini-shampoo-bar-collection)
-  Updated: 2026-02-14T12:03:15Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 9
 - [Mini Conditioner Bar Collection](https://www.wearepostcard.com/collections/mini-conditioner-bar-collection)
   Updated: 2026-02-14T12:03:15Z
@@ -2575,7 +2575,7 @@
   Updated: 2026-02-14T12:03:15Z
   Total Products: 2
 - [Mini bars collection](https://www.wearepostcard.com/collections/mini-bars-collection)
-  Updated: 2026-02-14T12:03:15Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 20
 - [Mini Fragrance Mist](https://www.wearepostcard.com/collections/mini-fragrance-mist)
   Updated: 2026-02-10T07:35:57Z
@@ -2584,118 +2584,118 @@
   Updated: 2026-02-16T12:03:10Z
   Total Products: 12
 - [Facial Oil](https://www.wearepostcard.com/collections/facial-oil)
-  Updated: 2026-02-16T12:03:10Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 3
 - [Facial Serum](https://www.wearepostcard.com/collections/facial-serum)
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 2
 - [Facial Cleansing](https://www.wearepostcard.com/collections/facial-cleansing)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 5
 - [Bundle](https://www.wearepostcard.com/collections/bundle)
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 10
 - [Hair Accessories](https://www.wearepostcard.com/collections/hair-accessories)
-  Updated: 2026-02-15T12:03:51Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 4
 - [Travel Pouch](https://www.wearepostcard.com/collections/travel-pouch)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 8
 - [Bundles (For )](https://www.wearepostcard.com/collections/bundles-for-)
-  Updated: 2026-02-18T12:03:11Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 6
 - [Non-bundles (For )](https://www.wearepostcard.com/collections/non-bundles-for-)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 442
 - [Under $20](https://www.wearepostcard.com/collections/under-20)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 185
 - [Under $30](https://www.wearepostcard.com/collections/under-30)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 79
 - [Under $50](https://www.wearepostcard.com/collections/under-50)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 43
 - [Gift Set](https://www.wearepostcard.com/collections/gift-set)
-  Updated: 2026-02-18T12:03:11Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 9
 - [Gifts for Bestie](https://www.wearepostcard.com/collections/gifts-for-bestie)
-  Updated: 2026-02-14T12:03:15Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 10
 - [Secret Santa](https://www.wearepostcard.com/collections/secret-santa)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 19
 - [Gifts for the Scent Aficionado](https://www.wearepostcard.com/collections/gifts-for-the-scent-aficionado)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 17
 - [Gifts for Travel](https://www.wearepostcard.com/collections/gifts-for-travel)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 14
 - [Gifts for Captain Planet](https://www.wearepostcard.com/collections/gifts-for-captain-planet)
   Updated: 2026-02-18T12:03:11Z
   Total Products: 5
 - [Gifts for the Co-worker](https://www.wearepostcard.com/collections/gifts-for-the-co-worker)
-  Updated: 2026-02-18T12:03:11Z
+  Updated: 2026-02-22T12:03:33Z
   Total Products: 10
 - [Gifts for him](https://www.wearepostcard.com/collections/gifts-for-him)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 30
 - [Gifts for the Host](https://www.wearepostcard.com/collections/gifts-for-the-host)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 11
 - [Gifts for the Gym Bro/Bunny](https://www.wearepostcard.com/collections/gifts-for-the-gym-bro-bunny): Become a head-turner ad the gym from those gains and our refreshing scents.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 16
 - [Gifts under $20](https://www.wearepostcard.com/collections/gifts-under-20)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 32
 - [Gifts under $40](https://www.wearepostcard.com/collections/gifts-under-40)
-  Updated: 2026-02-18T12:03:11Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 18
 - [Gifts under $60](https://www.wearepostcard.com/collections/gifts-under-60)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 7
 - [Frequent Flyer](https://www.wearepostcard.com/collections/frequent-flyer)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 24
 - [FREEDOM YOGA COLLECTION](https://www.wearepostcard.com/collections/freedom-yoga-collection)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 17
 - [Undvd POSTCARD Collection](https://www.wearepostcard.com/collections/undvd-postcard-collection)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 24
 - [Custom Bar](https://www.wearepostcard.com/collections/custom-bar)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 3
 - [Postcard Skincare Range](https://www.wearepostcard.com/collections/postcard-skincare-range)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 14
 - [Deodorant Spray](https://www.wearepostcard.com/collections/deodorant-spray)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 8
 - [Deodorant Stick](https://www.wearepostcard.com/collections/deodorant-stick)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 15
 - [Fragrance Collection](https://www.wearepostcard.com/collections/fragrance-collection)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 16
 - [Liquid Shampoo](https://www.wearepostcard.com/collections/liquid-shampoo)
-  Updated: 2026-02-16T12:03:10Z
+  Updated: 2026-02-24T12:02:57Z
   Total Products: 4
 - [Hand & Body Wash](https://www.wearepostcard.com/collections/hand-body-wash)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 7
 - [Mother's Day Gifts](https://www.wearepostcard.com/collections/mothers-day-gifts): A tender edit of skincare, scent, and self-care—curated to say thank you, I love you, and you deserve this. Thoughtful gifts for every kind of mum, and every kind of love.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 13
 - [Recommended products (Seguno)](https://www.wearepostcard.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 346
 - [Hotel Lobby Collection](https://www.wearepostcard.com/collections/hotel-lobby-collection): Scent check-in: citrus and blossoms at first hello, vanilla and tea in the air, musk in the memory.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 9
 - [Father's Day Gifts](https://www.wearepostcard.com/collections/fathers-day-gifts)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 19
 - [NAILS](https://www.wearepostcard.com/collections/nails)
   Updated: 2026-02-18T12:03:11Z
@@ -2713,64 +2713,64 @@
   Updated: 2026-02-13T12:03:42Z
   Total Products: 20
 - [Customisation Bar](https://www.wearepostcard.com/collections/customisation-bar)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 3
 - [Reed diffusers](https://www.wearepostcard.com/collections/reed-diffusers)
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 5
 - [Deodorant Discovery Sets](https://www.wearepostcard.com/collections/deodorant-discovery-sets)
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 2
 - [Moon Bloom](https://www.wearepostcard.com/collections/moon-bloom): A cozy night in, wrapped in the gentle embrace of a tranquil garden bathed in moonlight. Wherever you are, Moon Bloom transports you to a world of calm. Ready to bloom?
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 7
 - [Current top picks](https://www.wearepostcard.com/collections/current-top-picks): A little postcard from our shelves — these are the ones everyone’s been reaching for lately.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 6
 - [Gift Cards](https://www.wearepostcard.com/collections/gift-cards)
   Updated: 2026-02-11T12:03:21Z
   Total Products: 1
 - [Teacher's Day](https://www.wearepostcard.com/collections/teachers-day)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 23
 - [Teacher's Day Gifts](https://www.wearepostcard.com/collections/teachers-day-gifts)
   Updated: 2025-09-28T01:44:00Z
   Total Products: 0
 - [Bath House](https://www.wearepostcard.com/collections/bath-house): Steam rising, voices fading, hinoki lingering on your skin.For now, those memories live in our custom hand & body wash, shampoo, and conditioner— available in three intensities: Light, Medium, Bold.Until the full Bath House collection arrives.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 7
 - [Body Oil](https://www.wearepostcard.com/collections/body-oil): Shop our Dry Touch Body Oil Spray — ultra-fine, non-greasy hydration with Vitamin E. Leaves skin soft, glowing & smooth. Perfect post-shower or travel mist.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 6
 - [Hand Cream](https://www.wearepostcard.com/collections/hand-cream): Shop our hand cream collection — lightweight, non-greasy hydration with hyaluronic acid, shea butter & mineral UV filters. Leaves hands soft, radiant & perfumed.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 6
 - [Hand Cream & Body Oil Spray](https://www.wearepostcard.com/collections/hand-cream-body-oil-spray): A ritual for touch and glow. Meet Postcard’s newest companions: a hand cream with UV mineral filters, sweet almond oil, hyaluronic acid, and shea butter for soft, protected skin; and a body oil spray with vitamin E, olive-derived squalene, and an ultra-fine mist that melts in for luminous hydration. Available in six fan-favourite scents, they turn daily care into a quiet escape—skin left silky, nourished, and glowing.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 12
 - [Wild Flowers Collection](https://www.wearepostcard.com/collections/wild-flowers-collection)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 18
 - [Woodland Retreat Collection](https://www.wearepostcard.com/collections/woodland-retreat-collection)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-26T12:03:20Z
   Total Products: 15
 - [Coconut Beach Collection](https://www.wearepostcard.com/collections/coconut-beach-collection)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 15
 - [Icy Peaks Collection](https://www.wearepostcard.com/collections/icy-peaks-collection)
-  Updated: 2026-02-17T12:02:53Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 12
 - [Anywhere Fragrance](https://www.wearepostcard.com/collections/anywhere-fragrance)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 8
 - [Destination boxes](https://www.wearepostcard.com/collections/destination-boxes)
-  Updated: 2026-02-19T12:02:49Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 5
 - [Signature Fragrances](https://www.wearepostcard.com/collections/signature-fragrances)
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 3
 - [Hand Care](https://www.wearepostcard.com/collections/hand-care): Slip into a small moment of escape with our Hand Care Collection — a set of pocket-sized companions made for wandering hands and wandering minds. Each piece carries the quiet comfort of our signature worlds, from the warm, polished hush of Hotel Lobby to the soft, dreamy glow of Moon Bloom. Designed to melt into skin with ease, they leave a whisper of fragrance and a trace of moisture that lingers like a memory. For anyone who believes care can be a journey — and that even the smallest ritual can feel like stepping into somewhere else.
-  Updated: 2026-02-20T12:05:00Z
+  Updated: 2026-02-27T12:04:09Z
   Total Products: 12
 
 ## Blogs
