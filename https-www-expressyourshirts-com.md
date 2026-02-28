@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-11T03:52:50Z
 - Contact Email: expressyourshirts@gmail.com
-- Updated At: 2026-02-18T00:00:42.970Z
+- Updated At: 2026-02-28T00:00:49.153Z
 
 ## Products
 
@@ -2373,7 +2373,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/9ad368701125b92be5f2bf17ef78878e_seatCoverLifestyle-driver.jpg?v=1663947044
   Price: $60.50 USD
 - [Tie Dye Yoga Leggings](https://www.expressyourshirts.com/products/tie-dye-yoga-leggings): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } .product-tabs { width: 100%; display: flex; flex-wrap: wrap; } .product-tabs input { position: absolute; top: 0; left: 0; display: none; } .product-tabs label { width: 48px; height: 36px; order: 1; display: inline-block; padding: 5px; border-bottom: 2px solid #e2e2e2; box-sizing: border-box; cursor: pointer; } .product-tabs label img { max-width: 25px; display: block; margin: auto; } .product-tabs .tab-content { width: 100%; order: 10; display: none; margin: 4px 0; } .product-tabs input:checked + label { border-bottom: 3px solid #000; } .product-tabs input:checked + label + .tab-content { display: block; } .subl-product-description img { max-width: 100%; } Deepen your yoga practice in style and comfort with this best- legging. Offering a perfect balance of design and performance, both beginners and advanced yoga gurus will positively love its second-skin feel all day, every day. This pair of leggings definitely offers the right fit for every move! Designed with a four-way stretch and flatlock stitching, it lets you bend and stretch seamlessly without any limits. No need to worry about those embarrassing slips as you flow from pose to pose. An elastic waistband provides an excellent fit that stays put during any activity, while the squat-proof material also means a resilient yet comfortable grip that smooths and sculpts according to your shape. You deserve only the best yoga leggings, which is why ours is thoughtfully designed by yogis who know what it takes to get through even the toughest poses. • 82% polyester, 18% spandex • Four-way stretch • Squat proof • Flatlock stitching • Elastic waistband • Microfiber yarn • Inner waistband pocket Because it's handmade for you, these yoga pants require 6-8 business days before they are shipped. Orders placed before midnight will be included in the following day’s batch for manufacturing. Inch XS S M L XL 1/2 Waist - Top straight 10 ½ 11 11 ½ 13 ⅝ 15 1/2 Hips - 5" Below waist 13 14 15 16 17 Inseam 27 ¼ 27 ½ 27 ¾ 28 ¼ 29 ½ Centimeters XS S M L XL 1/2 Waist - Top straight 26.6 27.9 29.2 34.5 38.1 1/2 Hips - 12cm Below waist 33 35.5 38.1 40.6 43.1 Inseam 69.2 69.8 70.5 71.7 74.9
-  Updated: 2024-11-16T12:32:26Z
+  Updated: 2026-02-27T11:26:59Z
   Vendor: Express Your Shirts
   Product Type: Yoga Leggings - AOP
   Availability: Available
@@ -2525,7 +2525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/all-over-print-womens-crew-neck-t-shirt-white-front-632f85315d623.jpg?v=1664058683
     Price: $34.99 USD
 - [EYS Designer Don't Stop the Music Shirt](https://www.expressyourshirts.com/products/eys-designer-dont-stop-the-music-shirt): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-22T15:31:00Z
+  Updated: 2026-02-18T02:33:33Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -4105,7 +4105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/c6d88cdd85beb9acb8bca128b07eba7e_female-front1.jpg?v=1664473880
     Price: $37.50 USD
 - [EYS Designer Mad Tea Party](https://www.expressyourshirts.com/products/eys-designer-mad-tea-party): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-20T05:27:42Z
+  Updated: 2026-02-20T07:29:59Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -4375,7 +4375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/87906d133f0c3d931a95b2f9537d7bd9_female-front1.jpg?v=1664503227
     Price: $38.66 USD
 - [EYS Designer Psychedelic Skull Shirt](https://www.expressyourshirts.com/products/eys-designer-psychedelic-skull-shirt): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-21T15:53:44Z
+  Updated: 2026-02-27T12:11:31Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -4603,7 +4603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/97dc6a6a8411fba26a1decd2c175c5a6_female-front1.jpg?v=1664546390
     Price: $36.42 USD
 - [EYS Designer Birds on a Wire Shirt](https://www.expressyourshirts.com/products/eys-designer-birds-on-a-wire-shirt): .sbl-size-table { border-collapse: collapse; padding: 0; margin: 0 0 20px; width: 100%; font-size: 14px; text-align: center; } .sbl-size-table th { font-weight: 500; } .sbl-size-table td, .sbl-size-table th { padding: 8px 0; border: 1px solid #e5e9f2; color: #3e3f42; text-shadow: 1px 1px 1px #fff; text-align: center; } .sbl-size-table th:first-child, .sbl-size-table td:first-child { text-align: left; padding: 8px 5px 8px 15px; width: 103px; } .sbl-size-title { text-align: left; font-weight: bold; } .sbl-size-guide-container { width: 100%; text-align: center; margin-bottom: 20px; margin-top: 20px; } .sbl-size-guide-container img { max-width: 250px; ; } This unisex essential tee fits like a beloved favorite. Featuring a crew neck, short sleeves, and a premium 100% polyester fabric with a cotton handfeel, and high definition printing that won't fade after washing. 100% polyester Crew neck Premium polyester knit 190gsm jersey High definition printing Regular fit Inches XS S M L XL 2XL 3XL 4XL 1/2 Chest 1" below armhole 18½ 19½ 20½ 21½ 22½ 23½ 24½ 25½ Body length: from h.p.s. 27½ 28½ 29½ 30½ 31½ 32½ 33½ 34½ Centimeters XS S M L XL 2XL 3XL 4XL 1/2 Chest 2.5cm below armhole 47 49.5 52 54.5 57 59.5 62 64.5 Body length: from h.p.s. 70 72.5 75 77.5 80 82.5 85 87.5
-  Updated: 2024-11-21T07:00:01Z
+  Updated: 2026-02-24T23:46:01Z
   Vendor: Express Your Shirts
   Product Type: T-shirt
   Availability: Available
@@ -7247,7 +7247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01637_2FFSZM01637_B_S_NUB_2F182b3ceb396290d4690de615fd64ba3f.jpg?v=1701070594
     Price: $20.68 USD
 - [Men's Retro Geometric Print Fleece Sweatshirts](https://www.expressyourshirts.com/products/mens-retro-geometric-print-fleece-sweatshirts): Sizing: True to size Material composition: 100% Polyester Material: Polyester Pattern: Geometry Season: Four Seasons Style: Leisure Weight: 400 g This two button neckline sweatshirts features a mock neck and two tone geometric print, and pairs perfectly with a T-shirt and jeans. Size Chart(inch) Size Length Bust Sleeve Length Shoulder S 29 45 27 22 M 29 47 27 22 L 30 49 27 23 XL 30 51 27 23 2XL 30 53 27 24 3XL 31 55 28 24 4XL 31 57 28 24 5XL 31 59 28 25
-  Updated: 2026-01-13T22:44:57Z
+  Updated: 2026-02-23T00:37:10Z
   Vendor: kakaclo
   Product Type: Men's Shirt
   Availability: Available
@@ -8635,7 +8635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01356_2FFSZM01356_B_XL_NUB_2F1d53530200c27e9a7df2783b7f12d23d.jpg?v=1676864865
     Price: $104.64 USD
 - [Men's Slim Fit Business Two Piece Suit](https://www.expressyourshirts.com/products/mens-slim-fit-business-two-piece-suit-1): Sizing: True to size Material composition: 78% Polyester, 22% Viscose Material: Polyester Pattern: Solid Season: Four Seasons Sleeve_type: Regular sleeve Style: Light business Sleeve_length: Long sleeves Weight: 1200 g Men's suit: Formal design that offers you an impeccable combination of elegant and comfortable. Includes: Suit jacket and trousers. High quality fabric and good workmanship, chic pattern and comfortable to wear. Occasion: Suitable for any occasion, business and work, formals, wedding and party. Care instructions: Dry cleaning, do not bleach, do not tumble dry, iron on low heat.Size Chart(inch) Size Length Shoulder Bust Waist Sleeve Length M 28 17 42 40 24 L 29 18 43 41 25 XL 30 18 45 43 25 XXL 31 19 46 44 26 3XL 19 48 46 27 Pants(inch) Size Waist Hip Outer trousers length M 30 37 37 L 32 39 39 XL 34 41 39 XXL 35 42 39 3XL 36 43 39
-  Updated: 2026-01-13T22:46:18Z
+  Updated: 2026-02-27T21:31:45Z
   Vendor: kakaclo
   Product Type: Men's Suit
   Availability: Available
@@ -9421,7 +9421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01572_2FFSZM01572_NB_M_NUB_2F0f33dcd615cdc926e2ca3dc8ebeee454.jpg?v=1676872639
     Price: $43.59 USD
 - [Men's casual plaid short-sleeved T-shirt + shorts two-piece set](https://www.expressyourshirts.com/products/mens-casual-plaid-short-sleeved-t-shirt-shorts-two-piece-set): Sizing: True to size Material composition: 80% Polyester, 5% Elastane/Spandex, 15% Cotton Material: Polyester Pattern: Plaid Season: Spring-Summer Sleeve_type: Regular sleeve Style: Leisure Sleeve_length: Short sleeve Weight: 603 g Men's casual plaid short-sleeved T-shirt + shorts two-piece set, fashionable in style, soft and comfortable fabric. It can be worn daily, going out, dating, vacation, etc. Washing method can be machine wash or hand wash. Fabric is wrinkle and pill resistant. The size is measured by hand, and it is normal for there to be an error of 1-3cm.Size Chart(inch) Size US UK Length Bust Shoulder Sleeve Length Waist Hip Pants length S 36 36 27 40 18 9 28 39 17 M 38 38 28 42 18 9 30 41 18 L 40 40 29 43 19 9 31 43 18 XL 42 42 30 45 19 9 33 44 19 2XL 44 44 30 46 20 10 35 46 19 3XL 46 46 31 48 20 10 36 48 19
-  Updated: 2026-01-13T22:47:34Z
+  Updated: 2026-02-18T02:57:17Z
   Vendor: kakaclo
   Product Type: Men's Shirt & Shorts Combo Set
   Availability: Available
@@ -10207,7 +10207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01760_2FFSZM01760_B_S_NUB_2F990d976614dd302cc63c9337269ddf7a.jpg?v=1676878569
     Price: $22.52 USD
 - [Men's Woven Retro Lace Up Casual Long Sleeve Shirt with Stand Collar](https://www.expressyourshirts.com/products/mens-woven-retro-lace-up-casual-long-sleeve-shirt-with-stand-collar): Sizing: True to size Material composition: 35%cotton65%polyester Material: Polyester Pattern: Self design Season: Spring-Summer Sleeve_type: Regular sleeve Style: Leisure Sleeve_length: Long sleeves Weight: 320 g Men's Woven Retro Lace Up Casual Long Sleeve Shirt with Stand Collar ● Material: soft and comfortable, easy to care ● Features: Daily, Casual, Lace up ● Occasion: leisure, going out, business, school, dating, travel, vacation, office, etc. ● Washing method: wash and dry / separate dark / light colors. ● The size is measured by hand, and it is normal for there to be an error of 1-3cmSize Chart(inch) Size US UK Length Bust Sleeve Length S 36 36 29 43 25 M 38 38 29 45 25 L 40 40 30 46 25 XL 42 42 30 48 26 XXL 44 44 30 50 26 3XL 46 46 31 51 26
-  Updated: 2026-01-13T22:48:58Z
+  Updated: 2026-02-25T07:39:48Z
   Vendor: kakaclo
   Product Type: Men's Shirt
   Availability: Available
@@ -12013,7 +12013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZM01623_2FFSZM01623_B_S_NUB_2F64f9b595aa885458b443bf02b0f1473a.jpg?v=1676884584
     Price: $33.71 USD
 - [Women's Freedom Print Jeans](https://www.expressyourshirts.com/products/womens-freedom-print-jeans): Sizing: True to size Material composition: 100%cotton Material: Denim Waistline: High waist Pattern: Self design Season: Spring-Summer Style: Leisure Weight: 600 g The Ragged Priest Freedom Print Jeans cuz you dare to be different. These pants have a heart print on the front, a love letters print on the other, pockets, a low waist fit, and a button and zip closure.Size Chart(inch) Size US UK Pants length Waist Hip S 4 6 41 27 39 M 6 8 41 28 41 L 8 10 42 30 43
-  Updated: 2026-01-13T22:51:07Z
+  Updated: 2026-02-27T20:50:43Z
   Vendor: kakaclo
   Product Type: Laddie's Jeans
   Availability: Available
@@ -13866,7 +13866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0643/0772/4526/products/image_2FFSZW13849_2FFSZW13849_RR_S_NUB_2F3cb7c31993d6dd18adfaee51dcc5a6c2.jpg?v=1680010822
     Price: $23.00 USD
 - [Women's OL temperament commuting suit vest](https://www.expressyourshirts.com/products/womens-ol-temperament-commuting-suit-vest): Sizing: True to size Material composition: 100% Polyeste Material: Polyester Pattern: Solid Season: Spring-Summer Sleeve_type: Dropped shoulder sleeves Style: Grace Sleeve_length: Sleeveless Weight: 450 g null Size Chart(inch) Size US UK Length Shoulder Bust S 4 6 28 15 37 M 6 8 28 15 39 L 8 10 29 16 42 XL 10 12 30 16 44
-  Updated: 2026-01-13T22:53:24Z
+  Updated: 2026-02-20T06:51:30Z
   Vendor: kakaclo
   Product Type: Suit Vest
   Availability: Available
@@ -14632,8 +14632,8 @@
   Updated: 2026-01-14T03:39:08Z
   Total Products: 157
 - [Smart Products Filter Index - Do not delete](https://www.expressyourshirts.com/collections/globofilter-best--products-index)
-  Updated: 2026-02-17T19:07:18Z
-  Total Products: 2073
+  Updated: 2026-02-27T02:24:40Z
+  Total Products: 2084
 - [DRESSES](https://www.expressyourshirts.com/collections/dresses)
   Updated: 2026-01-15T05:51:04Z
   Total Products: 141
@@ -14665,8 +14665,8 @@
   Updated: 2025-12-20T06:26:26Z
   Total Products: 37
 - [Hurtz Shirtz](https://www.expressyourshirts.com/collections/hurts-shirts): Great shirts for dad prompt best gift for boyfriend prompt Best gift for husband prompt Husband gift prompt Prefect Christmas gift prompt Best secret Santa gift prompt Perfect secret Santa Prompt Gift prompt. White Elephant Gift Prompt Great shirts for dads prompt Best present for boyfriend prompt Best present for husband prompt Husband present prompt Prefect Christmas present prompt Best secret Santa present prompt Perfect secret Santa Prompt present prompt. White Elephant present prompt Gag gift prompt Joke present prompt Great shirt prompt comfy shirt prompt funny gifts prompt Shirts that are funny prompt crazy shirt ides prompt stupid shirts prompt shirts that make you laugh prompt holiday shirt prompt Original shirts prompt Unique Shirts Prompts Colorful shirts Prompts perfect gift for that perfect person prompt gift for the man that has everything prompt Gift for that woman that has everything prompt Gift for that special someone prompt Grandpa gifts prompt Cool Shirts prompt Great Shirts for Grandpa Prompt Great shirts for Boyfriend prompt Brother gifts prompt Sister gifts prompt from me to you gifts prompt Groovy prompt Hip prompt Neat prompt
-  Updated: 2026-02-17T19:07:18Z
-  Total Products: 376
+  Updated: 2026-02-27T02:24:14Z
+  Total Products: 386
 - [FACEBOOK](https://www.expressyourshirts.com/collections/facebook)
   Updated: 2026-01-21T04:16:55Z
   Total Products: 643
