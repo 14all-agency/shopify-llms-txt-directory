@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2025-12-04T17:43:31Z
 - Contact Email: greemnest@gmail.com
-- Updated At: 2026-02-20T00:00:21.599Z
+- Updated At: 2026-02-28T00:00:34.061Z
 
 ## Products
 
@@ -363,7 +363,7 @@
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/747db53c24004ead9144774597498ec9-Max-Origin.webp?v=1767898076
   Price: €69.99 EUR
 - [Woven Straw Tote Bag | Medium Handwoven Beach Tote | Greemnest](https://greemnest.store/products/woven-straw-tote-bag): Woven straw tote bag, medium handwoven beach tote. Eco-friendly sustainable natural fiber handbag, artisan-crafted summer bag. Spacious boho style accessory.
-  Updated: 2026-02-14T11:30:37Z
+  Updated: 2026-02-23T08:04:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -391,7 +391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/7624a9fcae9246eb9542230f1399897b-Max-Origin.webp?v=1767898174
     Price: €69.99 EUR
 - [Double Buckle Crossbody Bag | Medium Suede Shoulder Bag](https://greemnest.store/products/double-buckle-crossbody-bag): Double buckle crossbody bag in premium suede. Vintage-inspired medium shoulder bag with dual buckle closure. Timeless elegant everyday accessory.
-  Updated: 2026-02-18T04:08:45Z
+  Updated: 2026-02-20T08:06:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -412,7 +412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/63b2061d8d104c3f86dd6c329130cd5e-Max-Origin.webp?v=1767898291
     Price: €68.99 EUR
 - [Bow Decor Crossbody Bag | Small Suede Shoulder Bag](https://greemnest.store/products/bow-decor-crossbody-bag): Bow decor crossbody bag in premium suede. Small shoulder bag with feminine bow detail. Elegant compact handbag for everyday style & special occasions.
-  Updated: 2026-02-18T04:09:29Z
+  Updated: 2026-02-25T21:36:28Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -430,7 +430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/b3eb40d3c9ba4639bcce1a11a1d09187-Max-Origin.webp?v=1767898368
     Price: €89.99 EUR
 - [Woven Straw Crossbody Bag | Small Handwoven Natural Fiber Bag | Greemnest](https://greemnest.store/products/woven-straw-crossbody-bag): Woven straw crossbody bag, small handwoven natural fiber shoulder bag. Eco-friendly sustainable summer handbag, artisan-crafted beach accessory. Lightweight boho style.
-  Updated: 2026-02-14T11:30:39Z
+  Updated: 2026-02-20T08:06:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -477,7 +477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/560d0684465a46578ef8fbf1f14c661f-Max-Origin.webp?v=1767898707
     Price: €80.99 EUR
 - [Woven Straw Crossbody Bag - Handwoven Natural Fiber Style](https://greemnest.store/products/adjustable-strap-buckle-crossbody-bag): Handwoven straw crossbody bag with natural fiber construction. Eco-friendly sustainable summer handbag, lightweight boho style. Perfect for beach & travel.
-  Updated: 2026-02-17T16:48:02Z
+  Updated: 2026-02-22T08:04:26Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -505,7 +505,7 @@
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/409c9206fba54400aabde563e281a2a9-Max-Origin.webp?v=1767898839
   Price: €119.99 EUR
 - [Vintage Leather Shoulder Bag | Classic PU Leather Handbag](https://greemnest.store/products/vintage-style-leather-shoulder-bag): Vintage style leather shoulder bag in premium PU leather. Classic retro-inspired handbag, timeless elegant design. Sophisticated everyday accessory.
-  Updated: 2026-02-18T04:15:20Z
+  Updated: 2026-02-27T08:56:28Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -526,13 +526,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/764e9cc4e7e446108da2e580dc7e7fc4-Max-Origin.webp?v=1767898884
     Price: €89.99 EUR
-- [Suede Fringe Crossbody Bag | Bohemian Tassel Shoulder Bag](https://greemnest.store/products/fame-suede-fringe-crossbody-bag): Fame suede fringe crossbody bag with cascading tassels. Bohemian luxury shoulder bag, artisan-crafted boho style. Premium festival-ready accessory.
-  Updated: 2026-02-18T04:16:19Z
-  Vendor: Greemnest
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/f648dea8-5081-467c-a84d-a53a6c2e7689-Max-Origin.webp?v=1767898959
-  Price: €79.99 EUR
 - [Vintage Suede Hobo Bag | Soft Luxurious Shoulder Bag](https://greemnest.store/products/vintage-suede-hobo-shoulder-bag): Vintage suede hobo shoulder bag with soft luxurious texture. Classic slouchy bohemian design, spacious premium quality handbag. Timeless everyday accessory.
   Updated: 2026-02-18T04:19:26Z
   Vendor: Greemnest
@@ -559,7 +552,7 @@
   Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/411b0b5d-1d71-4a49-8cd4-5c779c5d87cd-Max-Origin.webp?v=1767899118
   Price: €67.99 EUR
 - [Straw Woven Adjustable Strap Crossbody Bag - Chic Style](https://greemnest.store/products/straw-woven-adjustable-strap-crossbody-bag): Straw woven adjustable strap crossbody bag, handwoven natural fiber shoulder bag. Eco-friendly sustainable summer handbag, artisan-crafted beach accessory.
-  Updated: 2026-02-14T11:31:43Z
+  Updated: 2026-02-23T08:06:27Z
   Vendor: Greemnest
   Product Type: 
   Availability: Available
@@ -593,28 +586,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/ac548c2378f248e88a8823f9284b5f2b-Max-Origin.webp?v=1767899284
     Price: €50.99 EUR
-- [Leather Zipper Shoulder Bag | Mini PU Leather Crossbody](https://greemnest.store/products/leather-zipper-shoulder-bag): Leather zipper shoulder bag with secure closure. Mini PU leather crossbody, compact elegant design. Premium vegan leather travel-ready everyday accessory.
-  Updated: 2026-02-18T04:20:14Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/289dd59f-6de6-403e-81b9-46b589e519ad-Max-Origin.webp?v=1767903850
-  - [Brown / One Size](https://greemnest.store/products/leather-zipper-shoulder-bag?variant=47558748438784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/289dd59f-6de6-403e-81b9-46b589e519ad-Max-Origin.webp?v=1767903850
-    Price: €87.99 EUR
-  - [Black / One Size](https://greemnest.store/products/leather-zipper-shoulder-bag?variant=47558748471552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/bec0fc05-9de3-4810-9b21-1563684e4d71-Max-Origin.webp?v=1767903850
-    Price: €87.99 EUR
-  - [Coffee Brown / One Size](https://greemnest.store/products/leather-zipper-shoulder-bag?variant=47558748504320)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/41d718fd66e0460cba0acac1fa53e3d0-Max-Origin.webp?v=1767903850
-    Price: €87.99 EUR
-  - [Green / One Size](https://greemnest.store/products/leather-zipper-shoulder-bag?variant=47558748537088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/ee69b19a-d5ee-486b-8fb9-e5955be3422c-Max-Origin.webp?v=1767903850
-    Price: €87.99 EUR
 - [Crescent Hobo Crossbody Bag | Small PU Leather Shoulder Bag](https://greemnest.store/products/stylish-crescent-hobo-crossbody-bag): Crescent hobo crossbody bag with unique curved design. Small PU leather shoulder bag, modern sophisticated silhouette. Contemporary everyday accessory.
   Updated: 2026-02-18T04:20:53Z
   Vendor: Trendsi
@@ -735,7 +706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/f0a6e0f2-d742-49f3-8dff-836617b00e21-Max-Origin.webp?v=1767987631
     Price: €66.99 EUR
 - [Vintage Barrel Crossbody Bag | Small Suede Cylinder Bag](https://greemnest.store/products/vintage-barrel-crossbody-bag): Vintage barrel crossbody bag with unique cylinder shape. Small suede PU leather bag, retro-inspired design. Distinctive everyday accessory for women.
-  Updated: 2026-02-18T04:24:44Z
+  Updated: 2026-02-20T08:06:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -760,7 +731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/18e64b57-c61d-42c5-9f0f-354ce61832eb-Max-Origin.webp?v=1767987727
     Price: €67.99 EUR
 - [Woven Straw Crossbody Bag - Handwoven Natural Fiber Style](https://greemnest.store/products/woven-straw-crossbody-bag-1): Woven straw crossbody bag, handwoven natural fiber shoulder bag. Eco-friendly sustainable summer handbag, artisan-crafted beach bag. Lightweight boho style accessory.
-  Updated: 2026-02-14T11:32:19Z
+  Updated: 2026-02-21T08:06:34Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -854,7 +825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/7996/1856/files/288177ec-681a-49ee-af1e-0b00c0eae2c4-Max-Origin.webp?v=1767989024
     Price: €65.66 EUR
 - [Knitted Tote Bag with Faux Leather Handles - Artisan Design](https://greemnest.store/products/fame-faux-leather-handle-knitted-tote-bag): Knitted tote bag with faux leather handles and handwoven texture. Spacious shoulder bag, artisan-crafted design. Unique everyday accessory.
-  Updated: 2026-02-17T16:57:35Z
+  Updated: 2026-02-20T18:54:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
