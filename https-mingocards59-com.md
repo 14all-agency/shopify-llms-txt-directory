@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-21T23:22:10Z
 - Contact Email: mingocards59@gmail.com
-- Updated At: 2026-02-21T00:00:20.289Z
+- Updated At: 2026-02-28T00:00:32.448Z
 
 ## Products
 
@@ -249,12 +249,19 @@
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/95725972-front.jpg?v=1770492422
   Price: $50.00 USD
 - [2021 Panini Flawless Coll. SSS-CK Cooper Kupp Star Swatch Sig. Gold 09/10 SGC 9/Auto 10](https://mingocards59.com/products/2021-panini-flawless-coll-sss-ck-cooper-kupp-star-swatch-sig-gold-09-10-sgc-9-auto-10): 🏈 2-time Super Bowl Champion Seahawks legend and Eastern Washington University alum Cooper Kupp shines in this premium 2021 Panini Flawless collectible. This Star Swatch Signature card features an authentic player-worn swatch and autograph, graded SGC 9 with a perfect Auto 10. Limited to just 10 copies worldwide, this Gold parallel is a must-have for serious 🏆 collectors. Kupp's explosive route-running and clutch performances make this a cornerstone piece for any NFL card portfolio. ⭐
-  Updated: 2026-02-09T15:40:17Z
+  Updated: 2026-02-26T03:46:42Z
   Vendor: Mingo Cards 59
   Product Type: Football RPA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/2021_Panini_Flawless_Coll_SSS-CK_Cooper_Kupp_Star_Swatch_Signatures_Gold_9-10__SGC-Grade-9-Auto-10_Auth-7133629_Front.jpg?v=1770495321
-  Price: $559.00 USD
+  Price: $120.00 USD
+- [2024 Select WNBA Angel Reese #AMAR Auto Memorabilia PSA 9](https://mingocards59.com/products/2024-select-wnba-angel-reese-amar-auto-memorabilia-psa-9): Secure this 🔥 2024 Select WNBA card featuring Angel Reese's authentic autograph and game-worn memorabilia. PSA 9 grading ensures premium condition and -grade authenticity. The Chicago Sky 🌟 sensation's rookie card captures her explosive debut season with elite on-card signature and premium insert status. Perfect for WNBA collectors, basketball enthusiasts, and those seeking rare parallel variants. This 💎 graded auto combines scarcity, star power, and documented condition—a must-have for serious card portfolios.
+  Updated: 2026-02-21T00:50:15Z
+  Vendor: Mingo Cards 59
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/3072/2801/files/PSA-131610384-front.jpg?v=1771632136
+  Price: $160.00 USD
 
 ## Collections
 
@@ -262,11 +269,11 @@
   Updated: 2026-01-25T21:06:51Z
   Total Products: 0
 - [Graded - NFL](https://mingocards59.com/collections/graded-nfl): Graded NFL cards
-  Updated: 2026-02-07T21:33:14Z
+  Updated: 2026-02-26T03:46:43Z
   Total Products: 20
 - [Graded - NBA & WNBA](https://mingocards59.com/collections/graded-nba-wnba-1)
-  Updated: 2026-01-25T21:06:51Z
-  Total Products: 2
+  Updated: 2026-02-21T00:06:51Z
+  Total Products: 3
 - [Jersey Fusion - All Sports](https://mingocards59.com/collections/jersey-fusion-all-sports)
   Updated: 2026-01-25T21:06:51Z
   Total Products: 2
@@ -283,8 +290,8 @@
   Updated: 2026-02-02T12:20:23Z
   Total Products: 1
 - [Featured Products](https://mingocards59.com/collections/featured-products): Top desirable cards
-  Updated: 2026-02-07T21:33:14Z
-  Total Products: 9
+  Updated: 2026-02-26T03:46:43Z
+  Total Products: 10
 
 ## Store Pages
 
