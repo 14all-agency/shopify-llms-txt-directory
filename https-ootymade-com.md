@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2020-02-12T06:27:26Z
 - Contact Email: support@ootymade.com
-- Updated At: 2026-02-19T00:00:45.314Z
+- Updated At: 2026-02-28T00:00:48.876Z
 
 ## Products
 
 - [Nilgiris Regular Tea - Premium Ooty Tea Powder from High-Elevation Estates | Finest Chai Blend](https://ootymade.com/products/nilgiris-regular-tea-finest-blend-ooty-tea-powder-for-the-best-chai-experience): Premium Nilgiris Regular Tea from traditional Ooty tea estates at high elevation. Finest blend black tea powder for authentic chai. Full-bodied, brisk, aromatic. Traditional factory processing. Best chai experience from OotyMade.com.
-  Updated: 2026-02-17T01:12:52Z
+  Updated: 2026-02-25T04:37:08Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: ₹155.00 INR
 - [Nilgiris Lime Tea - Premium Lemon Tea Powder with Health Benefits | OotyMade](https://ootymade.com/products/nilgiris-lime-tea-premium-citrus-bliss-tea-and-health-benefits-in-every-sip): Indulge in the goodness of our Lemon Tea Powder—the perfect blend of zesty flavors and health benefits. Discover the best lemon tea powder online, crafted for those who appreciate quality and well-being. Elevate your tea experience with our lemon tea, promoting radiant skin, boosting immunity, and soothing cold symptoms.
-  Updated: 2026-02-12T13:29:50Z
+  Updated: 2026-02-27T16:36:28Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -62,7 +62,7 @@
     Availability: Available
     Price: ₹160.00 INR
 - [Buy Pure Citronella Oil - Effective Mosquito Repellent | Citronella Oil Uses](https://ootymade.com/products/pure-citronella-oil-natures-guardian-aromatic-mosquito-repellent): Experience the power of pure citronella oil, your natural shield against mosquitoes. Discover citronella oil uses, benefits, and the joy of a bug-free space. Buy now for a refreshing, citronella-infused atmosphere.
-  Updated: 2026-02-17T05:37:52Z
+  Updated: 2026-02-23T07:36:07Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -80,7 +80,7 @@
     Availability: Available
     Price: ₹2,250.00 INR
 - [Nilgiris Masala Tea - Traditional Indian Masala Chai Powder from Ooty | OotyMade](https://ootymade.com/products/nilgiris-masala-tea-traditional-indian-masala-tea-from-ooty-tea-factory): Indulge in the unparalleled goodness of Ooty Tea Bliss, a premium masala tea powder from the renowned Ooty Tea Factory. Immerse yourself in the authentic flavors of Indian chai, crafted with the finest ingredients for a truly invigorating experience. Explore the benefits of masala tea and elevate your tea time with the perfect blend of Ooty tea and aromatic spices. Order online for a delightful journey into the heart of Indian chai tradition.
-  Updated: 2026-02-18T12:24:27Z
+  Updated: 2026-02-25T04:37:09Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: ₹610.00 INR
 - [Nilgiris Cardamom Tea - Premium Elaichi Chai Powder from Ooty | OotyMade](https://ootymade.com/products/nilgiris-cardamom-tea-elaichi-tea-powder-from-ooty-tea-estate-buy-online): Indulge in the rich taste and numerous benefits of Ooty Cardamom Tea. Our premium blend combines the finest Nilgiri tea leaves with the exotic essence of cardamom, creating a unique tea experience. Explore the online store for Ooty tea, sourced from the pristine Ooty tea estate and factory. Elevate your tea ritual with the perfect harmony of aroma and flavor. Buy now for an authentic taste of Ooty tea at the best prices.
-  Updated: 2026-02-17T05:37:52Z
+  Updated: 2026-02-27T03:23:17Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -113,7 +113,7 @@
     Availability: Available
     Price: ₹810.00 INR
 - [Pure Nilgiris Eucalyptus Oil (Nilagiri Thailam) - Steam-Distilled at 2000m | Ooty Estates](https://ootymade.com/products/ootymade-com-pure-nilgiri-eucalyptus-oil-steam-distilled-nilagiri-thailam-for-cold-cough-hair-diffuser-room-freshener-spa-use-60-ml-100-ml-200-ml-500-ml-1-l): 100% Pure Nilgiris Eucalyptus Oil (Nilagiri Thailam) steam-distilled from leaves grown at 2000m+ elevation in Ooty. Therapeutic-grade for cold, cough, hair care, diffuser & spa. Direct from traditional estates.
-  Updated: 2026-02-15T13:09:43Z
+  Updated: 2026-02-25T12:56:01Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -152,7 +152,7 @@
     Availability: Available
     Price: ₹2,250.00 INR
 - [Buy Pure Lemongrass Essential Oil | Best Uses and Benefits | Affordable Price](https://ootymade.com/products/premium-lemongrass-essential-oil-100-pure-extract-for-aromatherapy-and-wellness): Discover the versatile benefits of our premium Lemongrass Essential Oil. Extracted from the finest sources, our pure Lemongrass oil is perfect for aromatherapy, hair care, and natural mosquito repellent. Explore the numerous uses and enjoy the refreshing scent of this high-quality essential oil at an unbeatable price.
-  Updated: 2026-02-02T04:19:32Z
+  Updated: 2026-02-25T06:27:58Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Available
     Price: ₹2,250.00 INR
 - [Pure Nilgiris Gaultheria Oil (Wintergreen) - Steam-Distilled at 200 ml | Ooty Estates | OotyMade](https://ootymade.com/products/ootymade-pure-nilgiris-gaultheria-oil-wintergreen-oil-natural-joint-muscle-massage-oil-100-pure-external-use-only): 100% Pure Nilgiris Gaultheria (Wintergreen) Oil steam-distilled from plants grown at 2000m+ elevation in Ooty. Therapeutic-grade, natural joint & muscle pain relief. Direct from traditional estates.
-  Updated: 2026-02-18T04:24:50Z
+  Updated: 2026-02-25T14:07:57Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: ₹1,550.00 INR
 - [Unlock Sensual Delight with Our Best Olive Oil for Massage and Skin – Pure Bliss Elixir](https://ootymade.com/products/pure-bliss-olive-elixir-the-ultimate-love-oil-for-massage-and-skin-nourishment): Indulge in the luxury of Pure Bliss Olive Elixir, the finest love oil for massage and skincare. Discover the numerous benefits of olive oil for hair and skin, carefully crafted to enhance your well-being. It's not just a beauty secret; it's an aromatic journey to rejuvenation. Explore now!
-  Updated: 2026-02-16T03:36:05Z
+  Updated: 2026-02-25T01:50:18Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Available
     Price: ₹1,350.00 INR
 - [Nilgiris Chocolate Tea - Premium Chocolate-Flavored Tea Powder from Ooty | OotyMade](https://ootymade.com/products/nilgiris-chocolate-tea-ootys-premium-chocolate-tea-powder-blend-of-richness-and-flavor): Discover the exquisite world of chocolate-infused bliss with our premium chocolate tea powder from the renowned Ooty Tea Factory. Immerse yourself in the perfect harmony of rich cocoa and the finest tea leaves, carefully curated to deliver a unique and indulgent experience. Explore the unmatched benefits of chocolate tea as you sip your way to pure delight.
-  Updated: 2026-02-16T06:47:33Z
+  Updated: 2026-02-25T04:37:08Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -226,8 +226,8 @@
   - [2KG](https://ootymade.com/products/nilgiris-chocolate-tea-ootys-premium-chocolate-tea-powder-blend-of-richness-and-flavor?variant=32360646672517)
     Availability: Available
     Price: ₹620.00 INR
-- [Assorted Fruit and Nut Chocolates - Handmade Ooty Chocolates, Mixed Chocolate Bars & Nut Chocolate Box](https://ootymade.com/products/assorted-fruit-and-nut-chocolates-homemade-mixed-chocolate-pack-assorted-chocolate-bars-nut-chocolate-box): Discover our Assorted Fruit and Nut Chocolates, featuring handmade Ooty chocolates in a mixed chocolate box. Perfect for chocolate lovers, this pack includes assorted chocolate bars, nut chocolate, and plain chocolates.
-  Updated: 2026-01-26T10:41:18Z
+- [Ooty Assorted Fruit & Nut Chocolate - Handmade Mix](https://ootymade.com/products/assorted-fruit-and-nut-chocolates-homemade-mixed-chocolate-pack-assorted-chocolate-bars-nut-chocolate-box): Ooty Assorted Fruit & Nut Chocolate - handmade mixed pack from Ooty Chocolate Factory. Assorted bars with fruits & nuts. Order from OotyMade.com.
+  Updated: 2026-02-27T14:54:36Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -241,8 +241,8 @@
   - [800 GM](https://ootymade.com/products/assorted-fruit-and-nut-chocolates-homemade-mixed-chocolate-pack-assorted-chocolate-bars-nut-chocolate-box?variant=32617244393605)
     Availability: Available
     Price: ₹1,185.00 INR
-- [Ooty Plain Assorted Chocolates - Handmade Mixed Chocolate Box: Milk, White, Dark Varieties](https://ootymade.com/products/ooty-plain-assorted-chocolates-handmade-mixed-chocolate-box-with-milk-white-dark-varieties): Indulge in our Ooty Plain Assorted Chocolates. This handmade assortment features milk, white, and dark chocolate bars. Perfect for gifting or personal treats.
-  Updated: 2026-02-18T11:07:57Z
+- [Ooty Plain Assorted Chocolate - Milk White Dark Mix](https://ootymade.com/products/ooty-plain-assorted-chocolates-handmade-mixed-chocolate-box-with-milk-white-dark-varieties): Ooty Plain Assorted Chocolate - handmade mixed box with milk, white, dark varieties from Ooty Chocolate Factory. Order from OotyMade.com.
+  Updated: 2026-02-27T13:44:28Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -256,8 +256,8 @@
   - [800 GM](https://ootymade.com/products/ooty-plain-assorted-chocolates-handmade-mixed-chocolate-box-with-milk-white-dark-varieties?variant=32617085206661)
     Availability: Available
     Price: ₹895.00 INR
-- [Dark Roasted Almond Chocolates - Healthy Sugarless Homemade Bars | Ooty Chocolate Factory](https://ootymade.com/products/dark-roasted-almond-chocolates-healthy-homemade-dark-chocolate-bars-sugarless-nutty-treats): Handcrafted Dark Roasted Almond Chocolates from Ooty. Healthy, sugarless dark chocolate bars with premium roasted almonds. Homemade, no preservatives. Perfect guilt-free treat from OotyMade.com chocolate shop.
-  Updated: 2026-02-18T09:57:37Z
+- [Ooty Dark Roasted Almond Chocolate - Sugarless Healthy](https://ootymade.com/products/dark-roasted-almond-chocolates-healthy-homemade-dark-chocolate-bars-sugarless-nutty-treats): Ooty Dark Roasted Almond Chocolate - sugarless healthy bars from Ooty Chocolate Factory. Dark chocolate with almonds. Order from OotyMade.com.
+  Updated: 2026-02-27T16:10:30Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -271,8 +271,8 @@
   - [800 GM](https://ootymade.com/products/dark-roasted-almond-chocolates-healthy-homemade-dark-chocolate-bars-sugarless-nutty-treats?variant=32617598681221)
     Availability: Available
     Price: ₹1,285.00 INR
-- [Ooty Choco Crunch Chocolate: Best Handmade Crunchy Milk Chocolate Bar - Ooty Chocolates](https://ootymade.com/products/ooty-choco-crunch-chocolate-homemade-crunchy-delight-premium-handmade-milk-chocolates): Indulge in Ooty Choco Crunch Chocolate, a deliciously crunchy and homemade milk chocolate bar. Perfect for chocolate lovers seeking premium handmade chocolates.
-  Updated: 2026-02-07T17:10:56Z
+- [Ooty Choco Crunch Chocolate - Premium Handmade Milk](https://ootymade.com/products/ooty-choco-crunch-chocolate-homemade-crunchy-delight-premium-handmade-milk-chocolates): Ooty Choco Crunch Chocolate - premium handmade milk chocolate from Ooty Chocolate Factory. Crunchy delight chocolates. Order from OotyMade.com.
+  Updated: 2026-02-27T12:17:35Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -286,8 +286,8 @@
   - [800 GM](https://ootymade.com/products/ooty-choco-crunch-chocolate-homemade-crunchy-delight-premium-handmade-milk-chocolates?variant=32616857206917)
     Availability: Available
     Price: ₹895.00 INR
-- [White Fruit and Nut Chocolates - Handmade Ooty Delights | Premium Homemade Chocolates](https://ootymade.com/products/white-fruit-and-nut-chocolates-premium-ooty-homemade-chocolates-with-nuts-and-fruits): Indulge in our White Fruit and Nut Chocolates from Ooty. Handmade, premium quality with rich fruits and nuts for a delightful treat.Buy from the Ooty chocolate factory.
-  Updated: 2026-01-02T11:28:26Z
+- [Ooty White Fruit & Nut Chocolate - Premium Handmade](https://ootymade.com/products/white-fruit-and-nut-chocolates-premium-ooty-homemade-chocolates-with-nuts-and-fruits): Ooty White Fruit & Nut Chocolate - premium handmade from Ooty Chocolate Factory. White chocolate with fruits & nuts. Order from OotyMade.com.
+  Updated: 2026-02-27T17:14:31Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -301,8 +301,8 @@
   - [800 GM](https://ootymade.com/products/white-fruit-and-nut-chocolates-premium-ooty-homemade-chocolates-with-nuts-and-fruits?variant=32617557688453)
     Availability: Available
     Price: ₹1,085.00 INR
-- [Ooty Handmade Dates Chocolates - Best Handmade & Milk Chocolates, Premium Ooty Delights Online](https://ootymade.com/products/ooty-handmade-dates-chocolates-best-handmade-chocolates-milk-chocolate-bars-homemade-delights-online): Discover the best handmade dates chocolates from Ooty. Indulge in our premium milk chocolate bars, crafted with care. Order online for delicious homemade Ooty chocolates.
-  Updated: 2025-09-12T19:44:07Z
+- [Ooty Homemade Dates Chocolate - Handmade Milk Bars](https://ootymade.com/products/ooty-handmade-dates-chocolates-best-handmade-chocolates-milk-chocolate-bars-homemade-delights-online): Ooty Homemade Dates Chocolate with milk - handmade bars from Ooty Chocolate Factory. Rich dates flavor, creamy milk chocolate. Premium quality from OotyMade.com.
+  Updated: 2026-02-24T23:39:00Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -316,8 +316,8 @@
   - [800 KG](https://ootymade.com/products/ooty-handmade-dates-chocolates-best-handmade-chocolates-milk-chocolate-bars-homemade-delights-online?variant=32616815886469)
     Availability: Available
     Price: ₹985.00 INR
-- [Milk Cashew Nut Chocolates - Handmade Bars & Boxes | Ooty Chocolate Factory | Nut Chocolates](https://ootymade.com/products/luxurious-ooty-handmade-cashew-nut-milk-chocolate-irresistible-indulgence): Milk Cashew Nut Chocolates - Premium handmade chocolate bars & boxes from Ooty Chocolate Factory. Creamy milk chocolate with roasted cashews. Best nut & milk chocolates. Handmade in Ooty from OotyMade.com.
-  Updated: 2026-01-28T22:55:01Z
+- [Ooty Homemade Milk Cashew Chocolate - Handmade Nut Bars](https://ootymade.com/products/luxurious-ooty-handmade-cashew-nut-milk-chocolate-irresistible-indulgence): Milk Cashew Nut Chocolates - Premium handmade chocolate bars & boxes from Ooty Chocolate Factory. Creamy milk chocolate with roasted cashews. Best nut & milk chocolates. Handmade in Ooty from OotyMade.com.
+  Updated: 2026-02-26T10:39:37Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -331,8 +331,8 @@
   - [800 G](https://ootymade.com/products/luxurious-ooty-handmade-cashew-nut-milk-chocolate-irresistible-indulgence?variant=32617157623941)
     Availability: Available
     Price: ₹1,185.00 INR
-- [Milk Fruit and Nut Chocolates - Ooty Homemade Chocolate with Fruits and Nuts](https://ootymade.com/products/milk-fruit-and-nut-chocolates-delicious-homemade-treats-from-ooty-chocolate-factory): Indulge in our homemade milk chocolate bar with fruits and nuts, crafted at the Ooty Chocolate Factory. Perfect for chocolate lovers, crafted for a luxurious and flavourful experience.
-  Updated: 2026-02-12T17:05:05Z
+- [Ooty Homemade Milk Fruit Nut Chocolate - Handmade Bars](https://ootymade.com/products/milk-fruit-and-nut-chocolates-delicious-homemade-treats-from-ooty-chocolate-factory): Indulge in our homemade milk chocolate bar with fruits and nuts, crafted at the Ooty Chocolate Factory. Perfect for chocolate lovers, crafted for a luxurious and flavourful experience.
+  Updated: 2026-02-27T20:13:17Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -346,8 +346,8 @@
   - [800 GM](https://ootymade.com/products/milk-fruit-and-nut-chocolates-delicious-homemade-treats-from-ooty-chocolate-factory?variant=32617196290181)
     Availability: Available
     Price: ₹1,085.00 INR
-- [Ooty Homemade White Chocolates - Luxury Handmade White Chocolate Bars Online](https://ootymade.com/products/ooty-homemade-white-chocolates-indulge-in-luxury-handmade-chocolate-bars-from-ooty-chocolate-factory): Discover the finest Ooty homemade white chocolates, crafted with care at the Ooty Chocolate Factory. Buy luxury handmade white chocolate bars online and indulge in the rich, creamy goodness of premium Ooty chocolates.
-  Updated: 2025-11-18T00:48:07Z
+- [Ooty Homemade White Chocolate Bars - Handmade Luxury](https://ootymade.com/products/ooty-homemade-white-chocolates-indulge-in-luxury-handmade-chocolate-bars-from-ooty-chocolate-factory): Discover the finest Ooty homemade white chocolates, crafted with care at the Ooty Chocolate Factory. Buy luxury handmade white chocolate bars online and indulge in the rich, creamy goodness of premium Ooty chocolates.
+  Updated: 2026-02-25T22:42:06Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -361,8 +361,8 @@
   - [800 GM](https://ootymade.com/products/ooty-homemade-white-chocolates-indulge-in-luxury-handmade-chocolate-bars-from-ooty-chocolate-factory?variant=32617644294277)
     Availability: Available
     Price: ₹895.00 INR
-- [Milk Roasted Almond Chocolates - Handmade Nut Chocolate Bars & Boxes from Ooty Chocolates](https://ootymade.com/products/milk-roasted-almond-chocolates-delightful-homemade-almond-chocolate-box-from-ooty-chocolates-online): Indulge in our delicious Milk Roasted Almond Chocolates. Discover the finest homemade almond chocolate bars and boxes from Ooty Chocolate Factory Online.
-  Updated: 2026-02-12T17:05:04Z
+- [Ooty Homemade Milk Roasted Almond Chocolate Bars](https://ootymade.com/products/milk-roasted-almond-chocolates-delightful-homemade-almond-chocolate-box-from-ooty-chocolates-online): Indulge in our delicious Milk Roasted Almond Chocolates. Discover the finest homemade almond chocolate bars and boxes from Ooty Chocolate Factory Online.
+  Updated: 2026-02-26T06:03:11Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -376,8 +376,8 @@
   - [800GM](https://ootymade.com/products/milk-roasted-almond-chocolates-delightful-homemade-almond-chocolate-box-from-ooty-chocolates-online?variant=32617123938437)
     Availability: Available
     Price: ₹1,285.00 INR
-- [Ooty Homemade Dark Chocolates - Best Healthy Sugarless Bars | Handmade Dark Chocolate Online](https://ootymade.com/products/ooty-homemade-dark-chocolates-best-healthy-sugarless-plain-chocolate-bars-online): Ooty Homemade Dark Chocolates - Best healthy, sugarless plain dark chocolate bars handmade at Ooty Chocolate Factory. Rich, intense flavor, numerous health benefits. Guilt-free indulgence. Best dark chocolate online from OotyMade.com.
-  Updated: 2026-02-18T09:57:28Z
+- [Ooty Homemade Dark Chocolate - Sugarless Healthy Bars](https://ootymade.com/products/ooty-homemade-dark-chocolates-best-healthy-sugarless-plain-chocolate-bars-online): Ooty Homemade Dark Chocolates - Best healthy, sugarless plain dark chocolate bars handmade at Ooty Chocolate Factory. Rich, intense flavor, numerous health benefits. Guilt-free indulgence. Best dark chocolate online from OotyMade.com.
+  Updated: 2026-02-27T16:36:27Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -391,8 +391,8 @@
   - [800 GM](https://ootymade.com/products/ooty-homemade-dark-chocolates-best-healthy-sugarless-plain-chocolate-bars-online?variant=32617268510853)
     Availability: Available
     Price: ₹895.00 INR
-- [Ooty Homemade Milk Chocolates - Best Handmade Bars with Cocoa Butter | Ooty Chocolate Factory](https://ootymade.com/products/ooty-homemade-milk-chocolates-best-handmade-milk-chocolate-bars-with-cocoa-butter-from-ooty-chocolate-factory): Ooty Homemade Milk Chocolates - Best handmade milk chocolate bars with premium cocoa butter from Ooty Chocolate Factory. Melt-in-your-mouth, luxurious, handcrafted. Best milk chocolate from Ooty chocolate shop at OotyMade.com.
-  Updated: 2026-02-04T11:19:17Z
+- [Ooty Homemade Milk Chocolate Bars - Handmade Cocoa Butter](https://ootymade.com/products/ooty-homemade-milk-chocolates-best-handmade-milk-chocolate-bars-with-cocoa-butter-from-ooty-chocolate-factory): Ooty Homemade Milk Chocolates - Best handmade milk chocolate bars with premium cocoa butter from Ooty Chocolate Factory. Melt-in-your-mouth, luxurious, handcrafted. Best milk chocolate from Ooty chocolate shop at OotyMade.com.
+  Updated: 2026-02-24T23:23:02Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -407,7 +407,7 @@
     Availability: Available
     Price: ₹895.00 INR
 - [Pure Almond Oil for Skin & Hair - 100% Organic Cold-Pressed | Natural Beauty Benefits](https://ootymade.com/products/discover-the-benefits-of-pure-almond-oil-for-skin-hair-uses-prices-and-more): Pure Almond Oil - 100% organic, cold-pressed for skin, hair & face. Natural remedy for dark circles, lips, glowing skin. Amazing benefits, versatile uses, affordable prices. Best almond oil from OotyMade.com.
-  Updated: 2026-01-28T19:49:37Z
+  Updated: 2026-02-22T11:02:38Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -425,7 +425,7 @@
     Availability: Available
     Price: ₹1,450.00 INR
 - [Discover the Excellence of the Best Clove Oil in India - Pure and Potent for Dental and Skin Care](https://ootymade.com/products/premium-pure-clove-oil-the-best-clove-oil-for-teeth-gums-and-skin): Indulge in the finest quality clove oil, expertly crafted for optimal oral and skincare benefits. Our pure clove oil, sourced from the heart of India, is your go-to solution for dental health, gum care, and radiant skin. Explore the benefits of this essential oil and experience its versatile uses for teeth, hair, and more. Elevate your self-care routine with the natural goodness of clove oil.
-  Updated: 2026-02-02T04:19:32Z
+  Updated: 2026-02-26T03:47:27Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -452,7 +452,7 @@
     Availability: Available
     Price: ₹295.00 INR
 - [Nilgiris Green Tea - Finest Organic Ooty Green Tea | Best for Weight Loss & Health Benefits](https://ootymade.com/products/nilgiris-green-tea-finest-organic-ooty-green-tea-for-health-benefits): Finest Nilgiris Green Tea - Premium organic Ooty green tea from high-elevation estates. Rich in antioxidants, best for weight loss & health benefits. Affordable organic green tea price. Best green tea brand in India from OotyMade.com.
-  Updated: 2026-02-11T13:39:20Z
+  Updated: 2026-02-27T05:45:19Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -470,7 +470,7 @@
     Availability: Available
     Price: ₹1,060.00 INR
 - [Nilgiris Honey - 100% Raw Organic Agmark  | Pure Natural Honey from Ooty](https://ootymade.com/products/honey): 100% Raw Organic Nilgiris Honey from pristine Blue Mountains. Agmark , unprocessed, chemical-free. Traditional beekeeping, diverse high-elevation flora. Pure natural goodness with tons of health benefits from OotyMade.com.
-  Updated: 2026-01-29T22:41:18Z
+  Updated: 2026-02-22T11:02:39Z
   Vendor: OotyMade.com
   Product Type: Honey
   Availability: Available
@@ -487,8 +487,8 @@
   - [2 KG](https://ootymade.com/products/honey?variant=32838840942725)
     Availability: Available
     Price: ₹1,240.00 INR
-- [Dark Cashew Nut Chocolates: Healthy, Sugarless, Homemade Nut Chocolates from Ooty](https://ootymade.com/products/dark-cashew-nut-chocolates-handmade-sugarless-healthy-homemade-nut-chocolates-from-ooty): Indulge in our Dark Cashew Nut Chocolates from Ooty. Healthy, sugarless, and homemade, these nut chocolates offer the benefits of dark chocolate with the delightful crunch of cashew nuts.
-  Updated: 2026-02-06T17:13:06Z
+- [Ooty Homemade Dark Cashew Chocolate - Sugarless Bars](https://ootymade.com/products/dark-cashew-nut-chocolates-handmade-sugarless-healthy-homemade-nut-chocolates-from-ooty): Ooty Homemade Dark Cashew Chocolate - sugarless, handmade bars from Ooty Chocolate Factory. Healthy dark chocolate with cashew nuts. Premium from OotyMade.com.
+  Updated: 2026-02-26T02:57:13Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -502,8 +502,8 @@
   - [800 GM](https://ootymade.com/products/dark-cashew-nut-chocolates-handmade-sugarless-healthy-homemade-nut-chocolates-from-ooty?variant=32616873853061)
     Availability: Available
     Price: ₹1,180.00 INR
-- [Dark Fruit and Nut Chocolates - Healthy Sugarless Handmade Bars | Ooty Chocolate Factory](https://ootymade.com/products/dark-fruit-and-nut-chocolates-sugarless-dark-chocolate-bar-with-fruit-and-nut-handmade-in-ooty): Dark Fruit and Nut Chocolates - Healthy sugarless dark chocolate bars handmade at Ooty Chocolate Factory. Premium fruits & nuts, no added sugar. Guilt-free indulgence. Best dark chocolate from OotyMade.com.
-  Updated: 2026-02-12T13:29:51Z
+- [Ooty Homemade Dark Fruit Nut Chocolate - Sugarless Bars](https://ootymade.com/products/dark-fruit-and-nut-chocolates-sugarless-dark-chocolate-bar-with-fruit-and-nut-handmade-in-ooty): Ooty Homemade Dark Fruit Nut Chocolate - sugarless, handmade bars from Ooty Chocolate Factory. Healthy dark chocolate with fruits & nuts. Premium from OotyMade.com.
+  Updated: 2026-02-27T20:13:14Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -517,8 +517,8 @@
   - [800 GM](https://ootymade.com/products/dark-fruit-and-nut-chocolates-sugarless-dark-chocolate-bar-with-fruit-and-nut-handmade-in-ooty?variant=32617215623301)
     Availability: Available
     Price: ₹1,085.00 INR
-- [Ooty Varkey Small 500g - GI-Tagged Traditional Firewood-Baked Biscuits | 200-Year Heritage](https://ootymade.com/products/ooty-varkey-small-500-g-authentic-varkey-biscuits-from-ooty-varkey-shop-perfect-tea-time-snacks): Authentic GI-tagged Ooty Varkey biscuits handmade using 200-year-old recipe, baked in traditional firewood ovens by master bakers. Crisp, flaky layers with cardamom. Perfect tea-time snack from Nilgiris.
-  Updated: 2026-02-18T11:07:47Z
+- [Ooty Varkey Small 500g - GI Tagged Firewood Baked](https://ootymade.com/products/ooty-varkey-small-500-g-authentic-varkey-biscuits-from-ooty-varkey-shop-perfect-tea-time-snacks): Authentic GI-tagged Ooty Varkey biscuits handmade using 200-year-old recipe, baked in traditional firewood ovens by master bakers. Crisp, flaky layers with cardamom. Perfect tea-time snack from Nilgiris.
+  Updated: 2026-02-27T16:36:28Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -532,8 +532,8 @@
   - [2KG](https://ootymade.com/products/ooty-varkey-small-500-g-authentic-varkey-biscuits-from-ooty-varkey-shop-perfect-tea-time-snacks?variant=32360652275845)
     Availability: Available
     Price: ₹495.00 INR
-- [Ooty Varkey Big 500g - GI-Tagged Traditional Firewood-Baked Biscuits | 200-Year Heritage](https://ootymade.com/products/ooty-varkey-big-500-g-original-ooty-varkey-from-ooty-varkey-bakery-perfect-tea-time-snacks-online): Authentic GI-tagged Ooty Varkey Big size (500g) handmade using 200-year-old recipe, baked in traditional firewood ovens. Crisp, flaky layers with cardamom. Perfect tea-time snack from Nilgiris heritage bakery.
-  Updated: 2026-02-15T17:12:08Z
+- [Ooty Varkey Big 500g - GI Tagged Firewood Baked Biscuits](https://ootymade.com/products/ooty-varkey-big-500-g-original-ooty-varkey-from-ooty-varkey-bakery-perfect-tea-time-snacks-online): Authentic GI-tagged Ooty Varkey Big size (500g) handmade using 200-year-old recipe, baked in traditional firewood ovens. Crisp, flaky layers with cardamom. Perfect tea-time snack from Nilgiris heritage bakery.
+  Updated: 2026-02-27T10:29:27Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -617,14 +617,14 @@
     Availability: Available
     Price: ₹4,650.00 INR
 - [Peppermint Essential Oil - 100% Pure for Hair Growth, Digestion & Pain Relief | Best Price India](https://ootymade.com/products/peppermint-essential-oil): 100% Pure Peppermint Essential Oil for hair growth, digestion, pain relief & nausea. Therapeutic-grade, steam-distilled, natural. Best price in India with fast delivery from OotyMade.com.
-  Updated: 2026-02-02T04:19:32Z
+  Updated: 2026-02-23T09:15:17Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/38_75a9d2a8-1a28-45cb-bd46-8447b3360d45.png?v=1702714743
   Price: ₹95.00 INR
 - [Premium Rosemary Essential Oil - 100% Pure Organic from Nilgiris | Skin, Hair & Aromatherapy](https://ootymade.com/products/premium-rosemary-essential-oil-100-pure-and-organic-for-skin-and-hair): 100% Pure Organic Rosemary Essential Oil steam-distilled from Nilgiris region. Premium therapeutic-grade for skin, hair growth, aromatherapy. Natural, chemical-free. Best rosemary oil at unbeatable price from OotyMade.com.
-  Updated: 2026-02-16T07:37:22Z
+  Updated: 2026-02-24T16:36:06Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -642,7 +642,7 @@
     Availability: Available
     Price: ₹13,550.00 INR
 - [Buy Cypress Oil Online - Natural Essential Oil for Varicose Veins | Pure Cypress Essential Oil](https://ootymade.com/products/premium-cypress-essential-oil-pure-aromatherapy-elixir-for-varicose-veins-and-beyond): Discover the power of pure Cypress Essential Oil for varicose veins and more. Our premium-grade essential oil is sourced from Nilgiris, offering unparalleled benefits. Explore the uses and benefits of Cypress oil in Tamil, and experience the essence of nature at an unbeatable price.
-  Updated: 2026-02-16T03:36:04Z
+  Updated: 2026-02-26T09:15:27Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -664,7 +664,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/products/1_a741212f-597c-44fd-a0c6-ba7855e1e63d.png?v=1660300763
   Price: ₹95.00 INR
 - [Nilgiris Pure Jasmine Oil - 100% Natural for Hair, Skin & Sacred Rituals | OotyMade](https://ootymade.com/products/experience-the-allure-of-nilgiris-finest-pure-jasmine-oil-perfect-for-hair-skin-and-sacred-rituals): Buy authentic Nilgiris Pure Jasmine Oil. 100% natural for hair growth, skin care, aromatherapy, sacred rituals. Premium jasmine essential oil. Best for relaxation, beauty & spiritual practices from Ooty.
-  Updated: 2026-01-29T23:31:51Z
+  Updated: 2026-02-22T11:02:38Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -690,8 +690,8 @@
   - [2KG](https://ootymade.com/products/organic-ginger-chai-ooty-tea-factorys-finest-blend-for-health-and-flavor-sukku-tea-ginger-chai?variant=32360658108549)
     Availability: Available
     Price: ₹780.00 INR
-- [Mango Chocolate (Filling insight) - Buy it Now](https://ootymade.com/products/mango-filling-chocolate): Now You can Buy Mango Filling Chocolates for gifting Online directly from Ooty Chocolate Factory. Available Chocolate gift pack, gift basket, Gift Hampers
-  Updated: 2025-12-13T10:08:56Z
+- [Ooty Homemade Mango Filled Chocolate - Gift Box](https://ootymade.com/products/mango-filling-chocolate): Ooty Homemade Mango Filled Chocolate - handmade gift box from Ooty Chocolate Factory. Soft center-filled mango chocolates. Perfect gift from OotyMade.com.
+  Updated: 2026-02-24T23:42:02Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -705,8 +705,8 @@
   - [800 G](https://ootymade.com/products/mango-filling-chocolate?variant=32617740206213)
     Availability: Available
     Price: ₹985.00 INR
-- [Special Strawberry chocolates box | Buy Now](https://ootymade.com/products/strawberry-chocolates-box): Buy Delicious Strawberry Filling Chocolates Online from Ooty Chocolate Factory. Chocolates for Birthday, Wedding and Gift to Special one.
-  Updated: 2026-01-20T12:05:04Z
+- [Ooty Homemade Strawberry Filled Chocolate - Gift Box](https://ootymade.com/products/strawberry-chocolates-box): Ooty Homemade Strawberry Filled Chocolate - handmade gift box from Ooty Chocolate Factory. Soft center-filled strawberry chocolates. Perfect from OotyMade.com.
+  Updated: 2026-02-24T23:43:38Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -749,7 +749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/1_e164337c-fb25-4f82-a1c4-254dd5e8d815.png?v=1733212260
   Price: ₹280.00 INR
 - [Premium Nilgiris Silver Oak Green Tea – Original Ooty Tea Powder from Ooty Tea Factory](https://ootymade.com/products/nilgiris-silver-oak-green-tea-fresh-organic-ooty-green-tea-powder-for-health-benefits): Discover the health benefits of Nilgiris Silver Oak Green Tea. Our organic Ooty tea powder is sourced directly from the Nilgiri tea factory, offering the finest quality for a refreshing experience. Buy Ooty tea online and enjoy the authentic taste of Ooty green tea leaves.
-  Updated: 2025-12-08T09:58:56Z
+  Updated: 2026-02-19T13:20:36Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -878,8 +878,8 @@
   - [1kg](https://ootymade.com/products/jumbo-almonds?variant=32360664858757)
     Availability: Available
     Price: ₹1,350.00 INR
-- [Orange Chocolate gift box - Buy Now](https://ootymade.com/products/orange-chocolates): Shop Delight (Centre filling) Orange Chocolates to gift Someone Special or try it Yourself. Orange  is best flavor for chocolate.
-  Updated: 2025-09-12T19:44:15Z
+- [Ooty Orange Filled Chocolate - Handmade Gift Box](https://ootymade.com/products/orange-chocolates): Ooty Orange Filled Chocolate - handmade gift box from Ooty Chocolate Factory. Fruity orange filled chocolates. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T13:09:11Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -901,7 +901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/products/k-removebg-preview.png?v=1627304268
   Price: ₹500.00 INR
 - [Discover the True Essence of Wellness with Organic Ginger Tea | Ooty Tea Factory](https://ootymade.com/products/organic-ginger-bliss-ooty-tea-factorys-finest-ginger-chai-elixir): Indulge in the goodness of organic ginger tea from Ooty Tea Factory. Uncover the myriad benefits of ginger tea, including weight loss, cold relief, and digestive wellness. Elevate your tea experience with the finest Ooty tea leaves, handcrafted for perfection.
-  Updated: 2026-02-15T17:39:52Z
+  Updated: 2026-02-27T10:29:28Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -918,8 +918,8 @@
   - [2 KG](https://ootymade.com/products/organic-ginger-bliss-ooty-tea-factorys-finest-ginger-chai-elixir?variant=33712944480389)
     Availability: Available
     Price: ₹560.00 INR
-- [Special Combo Gift pack of chocolate - Buy now](https://ootymade.com/products/gift-pack-chocolate): Shop our best Choco delight Gift box. Ootymade Delicious Combo Gift Pack of Chocolate is well known and one of the  Products in India. This Gift Pack of Chocolate Contains Plain Milk, White and Dark chocolates too...
-  Updated: 2025-09-12T19:44:16Z
+- [Ooty Chocolate Gift Pack - Special Delight Handmade](https://ootymade.com/products/gift-pack-chocolate): Ooty Chocolate Gift Pack - special delight, handmade assorted chocolates from Ooty Chocolate Factory. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T12:43:42Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -952,7 +952,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/products/51R9SmIHG7L.jpg?v=1627302031
   Price: ₹480.00 INR
 - [Pure Lavender Essential Oil - 100% Natural for Hair, Skin & Aromatherapy | OotyMade](https://ootymade.com/products/luxelavender-pure-lavender-essential-oil-for-hair-and-skin-care-100-natural-aromatherapy-elixir): Buy authentic Pure Lavender Essential Oil from Nilgiris. 100% natural for hair growth, skin care, aromatherapy, sleep. Steam-distilled, therapeutic grade. Best lavender oil for relaxation & wellness benefits.
-  Updated: 2026-02-17T05:37:53Z
+  Updated: 2026-02-23T09:15:17Z
   Vendor: OotyMade.com
   Product Type: Essential Oil
   Availability: Available
@@ -972,8 +972,8 @@
   - [500 ML](https://ootymade.com/products/luxelavender-pure-lavender-essential-oil-for-hair-and-skin-care-100-natural-aromatherapy-elixir?variant=35306374299797)
     Availability: Available
     Price: ₹3,750.00 INR
-- [Mix Chocolate Box | Shop Delicious Assorted Chocolate Fruity Pack](https://ootymade.com/products/assorted-mix-chocolate-box-online): Shop Special Assorted / Mix Filling Chocolate Gift Box Online direct from Ooty Chocolate Factory. We offer Delicious Chocolate Fruity Pack.
-  Updated: 2026-02-09T08:29:32Z
+- [Ooty Assorted Filled Chocolate - Handmade Mix Pack](https://ootymade.com/products/assorted-mix-chocolate-box-online): Ooty Assorted Filled Chocolate - handmade mix pack from Ooty Chocolate Factory. Variety of filled chocolates. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T19:34:14Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -987,8 +987,8 @@
   - [800 G](https://ootymade.com/products/assorted-mix-chocolate-box-online?variant=42806694215906)
     Availability: Available
     Price: ₹985.00 INR
-- [Shop now High Quality Milkyway Stone Chocolate](https://ootymade.com/products/milkyway-stone-chocolates): Buy Delicious Milkyway Stone Chocolates Online at the best price from Ooty chocolate factory. We use to ship Fresh Homemade Chocolates all over India.
-  Updated: 2025-09-12T19:44:16Z
+- [Ooty Milkyway Stone Chocolate - Best Price Handmade](https://ootymade.com/products/milkyway-stone-chocolates): Ooty Milkyway Stone Chocolate - best price, handmade from Ooty Chocolate Factory. Unique stone-shaped chocolates. Order from OotyMade.com.
+  Updated: 2026-02-27T16:07:50Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1002,8 +1002,8 @@
   - [800 Grams](https://ootymade.com/products/milkyway-stone-chocolates?variant=36823451074709)
     Availability: Available
     Price: ₹985.00 INR
-- [Blueberry Filling Chocolate for birthday gift online](https://ootymade.com/products/blueberry-filling-chocolate-for-birthday-gift-online): You can directly Buy Delicious, Fresh Blueberry Filling Chocolate for Birthday Gift Online from Ooty Chocolate Factory. Best chocolate for Birthday gift pack
-  Updated: 2025-09-12T19:44:16Z
+- [Ooty Blueberry Filled Chocolate - Handmade Gift Box](https://ootymade.com/products/blueberry-filling-chocolate-for-birthday-gift-online): Ooty Blueberry Filled Chocolate - handmade gift box from Ooty Chocolate Factory. Fruity blueberry filled chocolates. Order from OotyMade.com.
+  Updated: 2026-02-27T18:00:55Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1017,8 +1017,8 @@
   - [800 G](https://ootymade.com/products/blueberry-filling-chocolate-for-birthday-gift-online?variant=37960013021359)
     Availability: Available
     Price: ₹985.00 INR
-- [Delicious Stone Chocolates - Shop Now](https://ootymade.com/products/stone-chocolates): Buy Fresh and Delicious Ooty Homemade Stone Chocolates Online direct from Ooty Chocolate Factory. We provide the Best Chocolates for Birthdays, Weddings...
-  Updated: 2026-01-15T09:54:39Z
+- [Ooty Stone Chocolate - Handmade Premium from Factory](https://ootymade.com/products/stone-chocolates): Ooty Stone Chocolate - handmade premium from Ooty Chocolate Factory. Unique stone-shaped chocolates. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T11:46:09Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1033,7 +1033,7 @@
     Availability: Available
     Price: ₹985.00 INR
 - [OotyMade.com Special Healthy, Tasty and Fiber Rich Cashew Nut](https://ootymade.com/products/ootymade-com-special-healthy-tasty-and-fiber-rich-cashew-nut): Cashews are low in sugar and rich in fiber, heart-healthy fats, and plant protein. They're also a good source of copper, magnesium, and manganese. Consuming a high proportion of plant-based foods appears to reduce the risk of many lifestyle-related health conditions. Cashews are a good source of magnesium, which plays an important role in over 300 enzymatic reactions within the body. These include the metabolism of food and synthesis of fatty acids and proteins. Magnesium is also involved in muscle relaxation and neuromuscular transmission and activity.
-  Updated: 2026-01-31T08:46:56Z
+  Updated: 2026-02-27T16:10:28Z
   Vendor: OotyMade.com
   Product Type: Dry Fruits and Nuts
   Availability: Available
@@ -1048,7 +1048,7 @@
     Availability: Available
     Price: ₹830.00 INR
 - [OotyMade.com Special Almond, Tasty and Healthy, Fiber Rich](https://ootymade.com/products/ootymade-com-special-almond-tasty-and-healthy-fiber-rich): Almonds contain lots of healthy fats, fiber, protein, magnesium and vitamin E. The health benefits of almonds include lower blood sugar levels, reduced blood pressure and lower cholesterol levels. They can also reduce hunger and promote weight loss. Health Benefits of Eating Almonds Are: Energy Booster Improves Memory: Good for our Heart & People with Diabetes Reduces the Risk of Cancer & Alzheimer’s Disease Anti-ageing Effects  of Anaemia Reduces Hunger & Promotes Weight Loss Improves Digestion Promotes Bone Health
-  Updated: 2026-02-04T11:19:17Z
+  Updated: 2026-02-26T05:08:47Z
   Vendor: OotyMade.com
   Product Type: Dry Fruits and Nuts
   Availability: Available
@@ -1062,8 +1062,8 @@
   - [800 Grams](https://ootymade.com/products/ootymade-com-special-almond-tasty-and-healthy-fiber-rich?variant=39529428549807)
     Availability: Available
     Price: ₹790.00 INR
-- [OotyMade.com's Special Raisin, Tasty, Healthy Dried Fruits](https://ootymade.com/products/ootymade-coms-special-raisin-tasty-healthy-dried-fruits): Despite their small size, raisins are packed with energy and rich in fiber, vitamins, and minerals. Raisins are naturally sweet and high in sugar and calories, but they're beneficial to our health when eaten in moderation. In fact, raisins can aid digestion, boost iron levels, and keep your bones strong. Raisins: Despite their small size, raisins are packed with energy and rich in fiber, vitamins, and minerals. Raisins are naturally sweet and high in sugar and calories, but they're beneficial to our health when eaten in moderation. In fact, raisins can aid digestion, boost iron levels, and keep your bones strong. Health Benefits of Raisins Aids in digestion Improves eyesight Regulates blood pressure Improves bone strength Supports weight loss goals Boosts immunity Prevents anemia Cures bloating and acidity Prevents tooth decay Treats infertility problems Regulates cholesterol levels and improves heart health Skincare and healthy hair
-  Updated: 2026-01-20T12:37:02Z
+- [Ooty Premium Raisins - Natural Dried Grapes | OotyMade](https://ootymade.com/products/ootymade-coms-special-raisin-tasty-healthy-dried-fruits): Premium quality raisins from Ooty. Natural dried grapes rich in fiber, vitamins & minerals. Healthy snack for digestion, immunity & bone health. Buy online.
+  Updated: 2026-02-27T12:03:51Z
   Vendor: OotyMade.com
   Product Type: Dry Fruits and Nuts
   Availability: Available
@@ -1239,8 +1239,8 @@
   - [Luxury / Five / More](https://ootymade.com/products/hotel-sri-ganapathi?variant=43860575092962)
     Availability: Available
     Price: ₹0.00 INR
-- [Personalized chocolate gifts for husband, wife, couples, boyfriend, for any occasion](https://ootymade.com/products/personalized-chocolate-gifts-for-husband-wife-couples-boyfriend): Surprise your significant other with a personalized chocolate gift! Perfect for husbands, wives, couples, boyfriends, and more, our chocolate gift packs make any special occasion sweeter and more memorable. Enjoy the moment of having your partner's name written in delicious chocolate—an unforgettable experience!
-  Updated: 2025-09-12T19:44:17Z
+- [Ooty Personalized Chocolate Gifts - Custom Handmade](https://ootymade.com/products/personalized-chocolate-gifts-for-husband-wife-couples-boyfriend): Ooty Personalized Chocolate Gifts - custom handmade from Ooty Chocolate Factory. Unique personalized chocolates. Order from OotyMade.com.
+  Updated: 2026-02-27T19:56:33Z
   Vendor: OotyMade.com
   Product Type: Gift Boxes
   Availability: Available
@@ -1254,8 +1254,8 @@
   - [1 KG](https://ootymade.com/products/personalized-chocolate-gifts-for-husband-wife-couples-boyfriend?variant=44130737979618)
     Availability: Available
     Price: ₹955.00 INR
-- [Customised chocolate gift pack for Birthday,Wedding, Anniversary](https://ootymade.com/products/customised-chocolate-gift-pack-for-birthday-wedding-anniversary): Customised chocolate gift pack for a Birthday, wedding, or Anniversary This Customised Chocolate Gift Pack is perfect for any special occasion—birthdays, weddings, anniversaries, invitations, and even return gifts. It's sourced from the renowned Ooty Chocolate Factory, so you know you're getting a top-notch product. About Chocolate and Gift Box: The chocolates are 100% vegetarian and FSSAI . Gift your loved ones the finest chocolates that are not only delicious but also of superior quality Beautifully packed in a Premium Packaging, this is a perfect gift for any occasion The timeless flavour of OotyMade chocolates gives you a reason to rejoice in both minor and significant happy occasions. Enjoy a rich, silky, and creamy celebration, in other words. Colour, design, and package may vary slightly from those shown as available. Make Customization: Chocolates make the safest  that is loved by all but when the chocolates are personalized chocolates they show how much you care and love them and they will appreciate the extra efforts put in to bring them the best gift on their special day. To further enhance the gifting concept, we have developed a one-of-a-kind concept to make the gift even more memorable. Make the day even brighter by having a photo and name printed on your chocolate gift box. The gift box will be made as per the design shown. If you miss to enter some details or make some error, you can contact our customer service on email @ support@gmail.com or WhatsApp @ 978 978 4344 with order number. Please provide us the name of the person for printing on box. Upload photo to be printed on the box & chocolates. Please fill the details carefully (name, message and photo). Once the order is confirmed these cannot be changed. Shipping and Delivery: We deliver the product in 5-10 days after your order. We do not offer fixed date delivery currently. We have multiple reliable third party courier service and we choose the depending on your pincode. We suggest to store the product in normal fridge after receipt. We suggest to freeze the box for at least 2 hours before opening Packaging - The chocolate box is packed properly in insulated box with ice gel pack so that the chocolate boxes remain intact during transit. We ensure that you receive the chocolate boxes in perfect condition. Other Terms: Cancellation and Return: Orders once placed cannot be canceled. Please contact customer service on Whatsapp or Email for urgent help. Please read our refund policy for further details. If your order has been inordinately delayed or you receive a wrong product kindly reach out to support@ootymade.com Data privacy: As OotyMade.com we are committed to keeping your information completely private. The images / messages / name / logo or any other content given to us by customer is not shared in any way. Our advertisements / product images feature images of models taken from image libraries / subscription services.
-  Updated: 2025-12-12T05:41:07Z
+- [Ooty Customized Chocolate Gift Pack - Personalized](https://ootymade.com/products/customised-chocolate-gift-pack-for-birthday-wedding-anniversary): Ooty Customized Chocolate Gift Pack - personalized handmade from Ooty Chocolate Factory. Custom chocolate gifts. Order from OotyMade.com.
+  Updated: 2026-02-27T10:21:09Z
   Vendor: OotyMade.com
   Product Type: Gift Boxes
   Availability: Available
@@ -1269,8 +1269,8 @@
   - [1 KG](https://ootymade.com/products/customised-chocolate-gift-pack-for-birthday-wedding-anniversary?variant=44130756231394)
     Availability: Available
     Price: ₹955.00 INR
-- [Small Chocolate gift basket, bouquet, sweet basket under 500 rs](https://ootymade.com/products/small-chocolate-gift-basket-bouquet-sweet-basket-under-500-rs): Small Chocolate gift basket, bouquet, or sweet basket under 500 rs This Small Chocolate Gift Basket is the perfect gift for any occasion. It includes a small chocolate bouquet, a sweet basket, and a chocolate gift pack, all for under 500 Rupees. Ideal for birthdays, anniversaries, or any special occasion, this gift is sure to delight. About Chocolate and Gift Box: The chocolates are 100% vegetarian and FSSAI . Gift your loved ones the finest chocolates that are not only delicious but also of superior quality Beautifully packed in a Premium Packaging, this is a perfect gift for any occasion The timeless flavour of OotyMade chocolates gives you a reason to rejoice in both minor and significant happy occasions. Enjoy a rich, silky, and creamy celebration, in other words. Colour, design, and package may vary slightly from those shown as available. Make Customization: Chocolates make the safest  that is loved by all but when the chocolates are personalized chocolates they show how much you care and love them and they will appreciate the extra efforts put in to bring them the best gift on their special day. To further enhance the gifting concept, we have developed a one-of-a-kind concept to make the gift even more memorable. Make the day even brighter by having a photo and name printed on your chocolate gift box. The gift box will be made as per the design shown. If you miss to enter some details or make some error, you can contact our customer service on email @ support@gmail.com or WhatsApp @ 978 978 4344 with order number. Please provide us the name of the person for printing on box. Upload photo to be printed on the box & chocolates. Please fill the details carefully (name, message and photo). Once the order is confirmed these cannot be changed. Shipping and Delivery: We deliver the product in 5-10 days after your order. We do not offer fixed date delivery currently. We have multiple reliable third party courier service and we choose the depending on your pincode. We suggest to store the product in normal fridge after receipt. We suggest to freeze the box for at least 2 hours before opening Packaging - The chocolate box is packed properly in insulated box with ice gel pack so that the chocolate boxes remain intact during transit. We ensure that you receive the chocolate boxes in perfect condition. Other Terms: Cancellation and Return: Orders once placed cannot be canceled. Please contact customer service on Whatsapp or Email for urgent help. Please read our refund policy for further details. If your order has been inordinately delayed or you receive a wrong product kindly reach out to support@ootymade.com Data privacy: As OotyMade.com we are committed to keeping your information completely private. The images / messages / name / logo or any other content given to us by customer is not shared in any way. Our advertisements / product images feature images of models taken from image libraries / subscription services.
-  Updated: 2025-09-12T19:44:18Z
+- [Ooty Chocolate Gift Basket Small - Handmade Assortment](https://ootymade.com/products/small-chocolate-gift-basket-bouquet-sweet-basket-under-500-rs): Ooty Chocolate Gift Basket Small - handmade assortment from Ooty Chocolate Factory. Perfect small gift basket. Order from OotyMade.com.
+  Updated: 2026-02-27T10:26:49Z
   Vendor: OotyMade.com
   Product Type: Gift Boxes
   Availability: Available
@@ -1295,8 +1295,8 @@
   - [thousands](https://ootymade.com/products/customizing-extra-pricing?variant=44168370847970)
     Availability: Available
     Price: ₹1,000.00 INR
-- [Choco Delight Special Gift Pack of Chocolate](https://ootymade.com/products/gift-pack-chocolate-1): Ootmade Combo Gift Pack of ChocolateThis Assorted Combo pack to enjoy all our special chocolates in one package. If you Are looking to Gift Someone Special. You Must try our Combo Special Gift Pack of ChocolateThis combo is ideal for enjoying Almond, Cashew Nut, Dates, and Raisin chocolates. (White, Milk, and Dark Chocolates) We offer the best price for chocolate gift packs under 500 under 300The chocolates would be filled with Almonds, cashews, and other nuts so that you can enjoy the crackling effect in your mouth.This Gift Pack of Chocolate Contains Plain Milk, White and Dark chocolates too....Our gift pack is perfect as an Anniversary, Birthday gift Chocolate, Wedding, Festive and Corporate Gift and brings a touch of luxury to any occasion.Ootymade.com offer a Delicious range of Luxury, handmade Chocolates in an ever-evolving range of exciting flavors.Three factors for this chocolate are . Fun flavors, premium quality chocolate, and satisfying your sweet teeth.Ooty Chocolate:We make chocolate with all dedicated natural ingredients which make the chocolate more divine delicious and prosperous for all chocolate lovers. Ooty made.com are continuously helping to keep alive your taste buds with our finest Handmade Delicious chocolates.
-  Updated: 2025-12-21T11:47:22Z
+- [Ooty Chocolate Gift Pack - Special Delight Handmade](https://ootymade.com/products/gift-pack-chocolate-1): Ooty Chocolate Gift Pack - special delight, handmade assorted chocolates from Ooty Chocolate Factory. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T21:03:33Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1357,7 +1357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/29_a0c9a038-2fec-4beb-b82d-bd6d439523ff.png?v=1691136829
   Price: ₹465.00 INR
 - [Birthday Invitation- Personaliszed Chocolate Gift Box- ( Minimum 10 Boxes)](https://ootymade.com/products/birthday-invitation-personaliszed-chocolate-gift-box-minimum-10-boxes): Make your special day even more memorable with this personalized Birthday Invitation- Personalized Chocolate Gift Box. Invite your guests with a delicious sample piece of chocolate in this unique gift box. Customize the invitation to make it one of a kind and surprise your guests with a unique taste of your favorite chocolates.
-  Updated: 2025-09-12T19:44:18Z
+  Updated: 2026-02-27T21:57:45Z
   Vendor: OotyMade.com
   Product Type: 
   Availability: Available
@@ -1377,8 +1377,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/31.png?v=1691137626
   Price: ₹240.00 INR
-- [Assorted Molding Chocolates - Ooty Homemade Milk & White Bars, Plain & Handmade Chocolate Pack](https://ootymade.com/products/assorted-white-and-milk-ooty-homemade-molding-chocolate-with-colour-wrappers): Discover the best of Ooty homemade chocolates with our assorted molding chocolate pack. Featuring milk and white bars, plain chocolates, and handmade delights, perfect for every chocolate lover.
-  Updated: 2025-09-12T19:44:19Z
+- [Ooty Assorted Chocolate - Milk & White Handmade Pack](https://ootymade.com/products/assorted-white-and-milk-ooty-homemade-molding-chocolate-with-colour-wrappers): Ooty Assorted Chocolate - milk & white handmade pack from Ooty Chocolate Factory. Premium assorted chocolates. Perfect gift from OotyMade.com.
+  Updated: 2026-02-26T11:13:46Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1392,8 +1392,8 @@
   - [800 GM](https://ootymade.com/products/assorted-white-and-milk-ooty-homemade-molding-chocolate-with-colour-wrappers?variant=44363635261666)
     Availability: Available
     Price: ₹895.00 INR
-- [Ooty White Molding Chocolates - Premium Homemade White Chocolate Bars, Plain Chocolates](https://ootymade.com/products/ooty-white-molding-chocolates-exquisite-homemade-white-chocolate-bars-perfect-plain-molding-chocolates): Discover the delightful taste of Ooty White Molding Chocolates. Our homemade white chocolate bars are perfect for all occasions, offering a rich and creamy experience with every bite.
-  Updated: 2026-02-12T17:05:04Z
+- [Ooty White Chocolate - Handmade Premium Bars Luxury](https://ootymade.com/products/ooty-white-molding-chocolates-exquisite-homemade-white-chocolate-bars-perfect-plain-molding-chocolates): Ooty White Chocolate - handmade premium bars from Ooty Chocolate Factory. Smooth creamy white chocolate. Perfect luxury gift from OotyMade.com.
+  Updated: 2026-02-27T13:53:07Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1407,8 +1407,8 @@
   - [800 GM](https://ootymade.com/products/ooty-white-molding-chocolates-exquisite-homemade-white-chocolate-bars-perfect-plain-molding-chocolates?variant=44571902804194)
     Availability: Available
     Price: ₹895.00 INR
-- [Ooty Milk Molding Chocolates - Best Handmade Milk Chocolate Bars in Ooty](https://ootymade.com/products/ooty-milk-molding-chocolates-premium-handmade-chocolate-box-best-milk-chocolate-bars-in-ooty): Discover the finest Ooty Milk Molding Chocolates. Handmade with rich milk, our molding chocolate bars are the best homemade and plain chocolates in Ooty. Indulge in the creamy taste of our milk chocolates, perfect for any chocolate lover.
-  Updated: 2026-01-27T04:31:47Z
+- [Ooty Milk Chocolate - Handmade Premium Bars](https://ootymade.com/products/ooty-milk-molding-chocolates-premium-handmade-chocolate-box-best-milk-chocolate-bars-in-ooty): Ooty Milk Chocolate - handmade premium bars from Ooty Chocolate Factory. Smooth creamy milk chocolate. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T16:10:47Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1422,8 +1422,8 @@
   - [800 GM](https://ootymade.com/products/ooty-milk-molding-chocolates-premium-handmade-chocolate-box-best-milk-chocolate-bars-in-ooty?variant=44572246966498)
     Availability: Available
     Price: ₹895.00 INR
-- [Unwrap Happiness: Handmade Chocolate Delights Collection](https://ootymade.com/products/ooty-chocolates-assortment-handmade-elegance-irresistible-mixed-chocolate-medley): Elevate your taste experience with our exclusive handmade chocolate delights. From assorted chocolate boxes to unique flavors like white chocolate, milk chocolate, and Ooty homemade chocolate, each piece is a celebration of craftsmanship and quality.
-  Updated: 2026-02-04T06:58:07Z
+- [Ooty Mixed Chocolate Assortment - Handmade Elegance](https://ootymade.com/products/ooty-chocolates-assortment-handmade-elegance-irresistible-mixed-chocolate-medley): Ooty Mixed Chocolate Assortment - handmade elegance from Ooty Chocolate Factory. Premium assorted chocolates. Perfect gift from OotyMade.com.
+  Updated: 2026-02-26T11:10:36Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1437,43 +1437,43 @@
   - [1 KG](https://ootymade.com/products/ooty-chocolates-assortment-handmade-elegance-irresistible-mixed-chocolate-medley?variant=44574934597858)
     Availability: Available
     Price: ₹840.00 INR
-- [Delightful 6-Piece Chocolate Gift Box | Perfect Birthday Surprise](https://ootymade.com/products/delightful-6-piece-chocolate-gift-box-perfect-birthday-surprise): Discover the joy of gifting with our exquisite 6-piece chocolate gift pack, specially curated for birthdays. Indulge in the rich flavors of Ooty homemade chocolates—the perfect birthday gift for boys, male friends, and girlfriends. Treat your loved ones to the goodness of assorted chocolates in this charming birthday chocolate gift pack.
-  Updated: 2026-02-07T00:09:00Z
+- [Ooty Chocolate Gift Box - Birthday Surprise Handmade](https://ootymade.com/products/delightful-6-piece-chocolate-gift-box-perfect-birthday-surprise): Ooty Chocolate Gift Box - birthday surprise, handmade 6 pieces from Ooty Chocolate Factory. Perfect birthday gift. Order from OotyMade.com.
+  Updated: 2026-02-27T16:47:21Z
   Vendor: OotyMade.com
   Product Type: Chocolate Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Addasubheading.png?v=1701264927
   Price: ₹240.00 INR
-- [Unique Anniversary Gifts for Parents - Surprise Mom and Dad with the Best Presents](https://ootymade.com/products/unique-anniversary-gifts-for-parents-surprise-mom-and-dad-with-the-best-presents): Explore the perfect anniversary gifts for your parents. Find unique and thoughtful presents that celebrate their love. From surprise gifts to homemade chocolates, discover the best way to make their special day memorable.From unique surprises to homemade chocolates, find the perfect way to celebrate their special day with love and joy.
-  Updated: 2025-09-12T19:44:20Z
+- [Ooty Chocolate - Anniversary Gift for Parents Handmade](https://ootymade.com/products/unique-anniversary-gifts-for-parents-surprise-mom-and-dad-with-the-best-presents): Ooty Chocolate - anniversary gift for parents, handmade 6 pieces from Ooty Chocolate Factory. Perfect gift for mom and dad. Order from OotyMade.com.
+  Updated: 2026-02-27T19:35:59Z
   Vendor: OotyMade.com
   Product Type: Chocolate Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/1_2af81783-507e-4b3f-a9fb-ab37bb99c4d1.png?v=1701329565
   Price: ₹240.00 INR
-- [Unique Love Gifts: Best Chocolate for Your Special Someone](https://ootymade.com/products/unique-love-gifts-best-chocolate-for-your-special-someone-6-pieces-ootyhomemade-chocolate-box): Find the best chocolate for gifting your love with our personalized chocolate gifts. From love gift packs to handmade Ooty chocolates, express your affection in the sweetest way possible.Ooty's Finest: Handmade Chocolate Elegance.Enchanting Love Gift Box,
-  Updated: 2025-10-15T12:16:59Z
+- [Ooty Chocolate Box - Love Gift Handmade 6 Pieces](https://ootymade.com/products/unique-love-gifts-best-chocolate-for-your-special-someone-6-pieces-ootyhomemade-chocolate-box): Ooty Chocolate Box - love gift, handmade 6 pieces from Ooty Chocolate Factory. Perfect romantic gift for your special someone. Order from OotyMade.com.
+  Updated: 2026-02-27T19:06:46Z
   Vendor: OotyMade.com
   Product Type: Chocolate Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/5_b2f0c3c2-16c0-4f0a-ba97-5cee26648560.png?v=1701331275
   Price: ₹245.00 INR
-- [Ooty Homemade Chocolate Gift Pack for Birthday - 100g Assorted Premium Chocolates | Best Gift](https://ootymade.com/products/indulge-in-the-best-birthday-surprise-with-our-ooty-homemade-chocolate-gift-box): Ooty Homemade Chocolate Gift Pack for Birthday - 100g assorted premium handmade chocolates. Beautifully presented gift box from Ooty chocolate factory. Perfect birthday gift, fresh-made, affordable. Best birthday chocolate from OotyMade.com.
-  Updated: 2026-01-28T21:38:21Z
+- [Ooty Chocolate Gift Pack - Birthday Celebration Handmade](https://ootymade.com/products/indulge-in-the-best-birthday-surprise-with-our-ooty-homemade-chocolate-gift-box): Ooty Chocolate Gift Pack - birthday celebration, handmade assorted chocolates 100g from Ooty Chocolate Factory. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T18:51:01Z
   Vendor: OotyMade.com
   Product Type: Chocolate Gifts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/1_c4fc1fcc-4fe4-41e5-933e-0dd775b166a1.png?v=1701333783
   Price: ₹225.00 INR
-- [Indulge in Luxury: Best Mix Chocolate Pack for Anniversaries | Handmade Bliss from Ooty](https://ootymade.com/products/ultimate-bliss-mix-chocolate-pack-perfect-anniversary-gift-100-g): Discover the exquisite joy of our Mix Chocolate Pack, a divine collection of Ooty's finest homemade chocolates. The perfect anniversary gift for couples seeking a delightful surprise Explore the best chocolate brands in one curated pack, a true celebration of love and sweetness.
-  Updated: 2026-02-17T12:34:23Z
+- [Ooty Mix Chocolate Pack - Anniversary Gift Handmade 100g](https://ootymade.com/products/ultimate-bliss-mix-chocolate-pack-perfect-anniversary-gift-100-g): Ooty Mix Chocolate Pack - perfect anniversary gift, handmade assorted chocolates 100g from Ooty Chocolate Factory. Order from OotyMade.com.
+  Updated: 2026-02-27T07:37:31Z
   Vendor: OotyMade.com
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Addasubheading_b1ac5710-c1f4-41ad-9caf-a1c080d0024b.png?v=1701342324
   Price: ₹240.00 INR
-- [Discover the Perfect Love Gift: Handmade Chocolate Bars in Assorted Flavors - Romantic Chocolate Gift Boxes](https://ootymade.com/products/eternal-love-delight-exquisite-chocolate-gift-pack-for-her-and-him): Express your deepest affection with our irresistible chocolate gift pack, the best gift for love! Indulge in the richness of handmade chocolate bars, carefully crafted to captivate hearts. Our assorted chocolate gift boxes, including 100 grams of Ooty homemade chocolates, create an unforgettable experience.
-  Updated: 2025-11-17T00:45:02Z
+- [Ooty Chocolate Gift Pack for Couples - Romantic Handmade](https://ootymade.com/products/eternal-love-delight-exquisite-chocolate-gift-pack-for-her-and-him): Ooty Chocolate Gift Pack for Couples - romantic handmade from Ooty Chocolate Factory. Perfect couple's gift. Order from OotyMade.com.
+  Updated: 2026-02-27T08:18:32Z
   Vendor: OotyMade.com
   Product Type: Chocolate Gifts
   Availability: Available
@@ -1494,7 +1494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/17_6b1946a3-52fd-4b97-8b8a-06f6c3fd1143.png?v=1732538692
   Price: ₹140.00 INR
 - [Kuppaimeni Natural Handmade Soap - Ayurvedic Healing | Pure Organic Bliss for Your Skin](https://ootymade.com/products/kuppaimeni-natural-handmade-soap-pure-organic-bliss-for-your-skin): Kuppaimeni Natural Handmade Soap - Traditional cold-process, 100% organic, Ayurvedic healing herb. Pure organic bliss for acne, eczema, skin infections. Ancient Indian , eco-friendly artisanal soap from OotyMade.com.
-  Updated: 2026-02-15T05:49:03Z
+  Updated: 2026-02-22T19:45:47Z
   Vendor: OotyMade.com
   Product Type: Handmade Organic Soap
   Availability: Available
@@ -1508,7 +1508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/5_e40f17b8-6c4e-422a-b7e3-87e034e6d935.png?v=1732538905
   Price: ₹120.00 INR
 - [Rose Attar Perfume Roll On - Luxurious Scent in a Convenient Roll-On Bottle](https://ootymade.com/products/rose-attar-perfume-roll-on-luxurious-scent-in-a-convenient-roll-on-bottle): Indulge in the captivating aroma of our Rose Attar Perfume, encapsulated in a convenient roll-on bottle. Crafted to offer the essence of roses in every application, it's a must-have for perfume enthusiasts seeking elegance and convenience. Exquisite Rose Scent: Immerse yourself in the timeless allure of roses with our Rose Attar Perfume. Delicately extracted to preserve the essence of the flower, each note unfolds to reveal the richness of its scent, creating a sensorial experience that lingers. Pure Attar Perfume: Experience the authenticity of attar perfume with our meticulously crafted formula. Derived from natural ingredients and traditional distillation methods, our attar perfume embodies purity, offering a scent that resonates with sophistication and refinement. Convenient Roll-On Application: Designed for ease of use, our Rose Attar Perfume comes in a handy roll-on bottle. Perfect for on-the-go application, simply glide the roller over pulse points for a subtle yet enduring fragrance that accompanies you throughout the day. Ideal for Men and Women: Embrace the versatility of our Rose Attar Perfume, suitable for both men and women. Its balanced aroma transcends gender boundaries, making it a timeless addition to anyone's fragrance collection. Purchase Attar Online: Experience the convenience of purchasing authentic attar perfume online. With just a few clicks, you can have our Rose Attar Perfume delivered to your doorstep, ensuring a hassle-free shopping experience. The Best Attar for Men and Women: Discover why our Rose Attar Perfume is acclaimed as one of the best attars for men and women alike. Its enchanting blend of rose essence and traditional attar notes elevates your fragrance game, leaving a lasting impression wherever you go. Exquisite Attar Bottle: Adorn your vanity with our exquisite attar bottle, designed to complement the luxuriousness of the fragrance within. Its sleek and compact design makes it a statement piece while ensuring the preservation of the perfume's integrity. Original Attar Perfume: Rest assured, our Rose Attar Perfume is an original creation, crafted with the utmost care and attention to detail. Each bottle contains the purest form of attar perfume, ensuring an authentic olfactory experience with every application. Unbeatable Attar Perfume Price: Experience luxury without breaking the bank with our competitively priced Rose Attar Perfume. We believe that everyone deserves to indulge in the splendor of attar perfume, offering exceptional value without compromising on quality. Trusted Attar Perfume Brands: Join countless satisfied customers who trust our brand for premium attar perfumes. With a commitment to excellence and a dedication to authenticity, we stand among the leading attar perfume brands, delivering unparalleled quality with every bottle. Elevate Your Scent with Rose Attar Perfume: Transform your everyday routine into a luxurious affair with our Rose Attar Perfume Roll On. Whether you're seeking a signature scent or a thoughtful gift for a loved one, let the timeless allure of roses captivate your senses and elevate your fragrance experience. Unlock the essence of roses with every roll-on application. Purchase your Rose Attar Perfume today and embark on a fragrant journey that exudes elegance and sophistication.
-  Updated: 2026-02-09T14:08:21Z
+  Updated: 2026-02-25T13:44:26Z
   Vendor: OotyMade.com
   Product Type: Attar- Perfume-Scent
   Availability: Available
@@ -1542,8 +1542,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/SWng.png?v=1717851783
   Price: ₹160.00 INR
-- [Ootymade Fresh Varkey - Delicious Homemade Cookies- Fresh and All Natural Biscuits - Tea Time Snack – Small 2kg](https://ootymade.com/products/ootymade-fresh-varkey-delicious-homemade-cookies-fresh-and-all-natural-biscuits-tea-time-snack-small-2kg): Ooty Varkey, a classic tea time snack made in Ooty, is worth a try. These crisp bites are the perfect companion for your leisure time with their amazing quality and taste. We have made our name and fame by presenting Ooty Varkey, a classic tea time snack that comes from Ooty. Give these crunchy bites a try. They are the ideal partner to your leisure time with their amazing quality and taste. The deep-fried snack is popular at roadside stalls and teashops across town. There is also a healthier baked version of varki available in bakeries, but we’re going to make it the local way with these deep-fried balls. Brand Ootymade Package Information Box Item Weight 2 Kilograms Item Form Bar Speciality Natural
-  Updated: 2025-07-26T03:36:24Z
+- [Ooty Varkey Small 2kg - Fresh Natural Tea Time Biscuits](https://ootymade.com/products/ootymade-fresh-varkey-delicious-homemade-cookies-fresh-and-all-natural-biscuits-tea-time-snack-small-2kg): Fresh Ooty Varkey Small 2kg - authentic homemade natural biscuits. Perfect tea time snack with crispy texture. Traditional recipe from Ooty. Order fresh varkey online.
+  Updated: 2026-02-24T23:02:05Z
   Vendor: OotyMade.com
   Product Type: 
   Availability: Available
@@ -1592,7 +1592,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Waves.png?v=1717843320
   Price: ₹165.00 INR
 - [Ooty Kannavarai Tea Estate Black Tea - Premium Organic Nilgiri Tea | OotyMade](https://ootymade.com/products/ooty-kannavarai-tea-estate-black-tea-powder-finest-ooty-tea-for-a-perfect-brew-from-nilgiri-hills): Buy authentic Ooty Kannavarai Tea Estate Black Tea. Premium organic Nilgiri tea powder from Kannavarai Estate. Perfect brew, full-bodied flavor. High-elevation grown. Finest Ooty tea from Nilgiri hills.
-  Updated: 2026-02-18T12:24:27Z
+  Updated: 2026-02-27T10:29:27Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1601,7 +1601,7 @@
     Availability: Not Available
     Price: ₹120.00 INR
   - [500 Grams](https://ootymade.com/products/ooty-kannavarai-tea-estate-black-tea-powder-finest-ooty-tea-for-a-perfect-brew-from-nilgiri-hills?variant=46174750605538)
-    Availability: Available
+    Availability: Not Available
     Price: ₹240.00 INR
   - [1 KG](https://ootymade.com/products/ooty-kannavarai-tea-estate-black-tea-powder-finest-ooty-tea-for-a-perfect-brew-from-nilgiri-hills?variant=46174751228130)
     Availability: Available
@@ -1625,7 +1625,7 @@
     Availability: Available
     Price: ₹850.00 INR
 - [Ooty Homedale Dust Tea - Premium Organic Gold Dust CTC Tea | Nilgiri Factory | OotyMade](https://ootymade.com/products/ooty-homedale-dust-tea-powder-finest-gold-dust-ctc-tea-from-nilgiri-tea-factory): Buy authentic Ooty Homedale Dust Tea from Homedale Estate. Premium organic gold dust CTC tea from Nilgiri tea factory. Strong, brisk, quick brewing. Finest quality black tea. High-elevation grown.
-  Updated: 2026-02-17T16:22:43Z
+  Updated: 2026-02-25T07:56:26Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1655,7 +1655,7 @@
     Availability: Available
     Price: ₹790.00 INR
 - [Ooty Homewood Strong Black Tea - Premium Organic Nilgiri Tea | Homewood Estate | OotyMade](https://ootymade.com/products/ooty-homewood-strong-black-tea-finest-organic-nilgiri-tea-powder-from-ooty-tea-factory): Buy authentic Ooty Homewood Strong Black Tea from Homewood Estate. Premium organic Nilgiri CTC tea powder, strong brisk flavor. 500g finest quality from 150-year heritage estate. Perfect for chai lovers.
-  Updated: 2026-02-04T05:00:16Z
+  Updated: 2026-02-22T11:02:38Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1670,7 +1670,7 @@
     Availability: Available
     Price: ₹860.00 INR
 - [Ooty Homewood Chocolate Tea - Premium Chocolate Black Tea | Homewood Estate | OotyMade](https://ootymade.com/products/ooty-homewood-chocolate-tea-rich-aromatic-and-delicious-black-tea-powder-from-nilgiris): Buy authentic Ooty Homewood Chocolate Tea from Homewood Estate. Premium Nilgiris black tea with natural chocolate flavor. Rich, aromatic, delicious chocolate-infused tea. 150-year heritage estate tea.
-  Updated: 2026-01-31T08:46:56Z
+  Updated: 2026-02-23T12:29:17Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1685,7 +1685,7 @@
     Availability: Available
     Price: ₹820.00 INR
 - [Ooty Homewood Cardamom Tea - Premium Elaichi Chai | Homewood Estate | OotyMade](https://ootymade.com/products/ooty-homewood-cardamom-tea-buy-premium-organic-elachi-chai-powder-from-ooty-tea-factory): Buy authentic Ooty Homewood Cardamom Tea from Homewood Estate. Premium Nilgiris black tea with aromatic cardamom. 250g finest quality elaichi chai. Traditional spiced tea from 150-year heritage estate.
-  Updated: 2026-02-18T07:42:48Z
+  Updated: 2026-02-21T02:03:26Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1751,7 +1751,7 @@
     Availability: Available
     Price: ₹1,320.00 INR
 - [Ooty Darmona Green Tea - Premium Organic Nilgiri Tea Powder | OotyMade](https://ootymade.com/products/ooty-darmona-green-tea-from-nilgiri-hills-premium-organic-tea-powder-for-health-wellness): Buy authentic Ooty Darmona Green Tea from Darmona Estate. Premium organic Nilgiri tea powder rich in antioxidants. High-elevation grown, health & wellness benefits. Finest quality green tea from Ooty.
-  Updated: 2026-01-31T08:16:54Z
+  Updated: 2026-02-23T03:40:07Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1768,8 +1768,8 @@
   - [2 KG](https://ootymade.com/products/ooty-darmona-green-tea-from-nilgiri-hills-premium-organic-tea-powder-for-health-wellness?variant=46192319299810)
     Availability: Available
     Price: ₹1,380.00 INR
-- [Ooty Varkey Combo Pack (Big & Small) - GI-Tagged Traditional Firewood-Baked | 200-Year Heritage](https://ootymade.com/products/ooty-varkey-big-and-small-combo-pack-original-varkey-from-best-ooty-varkey-shop-perfect-evening-snack): Authentic GI-tagged Ooty Varkey Big & Small Combo Pack handmade using 200-year-old recipe, baked in traditional firewood ovens. Perfect variety pack for tea-time. Original from best Ooty Varkey shop.
-  Updated: 2026-02-03T06:04:56Z
+- [Ooty Varkey Combo - GI Tagged Firewood Baked Biscuits](https://ootymade.com/products/ooty-varkey-big-and-small-combo-pack-original-varkey-from-best-ooty-varkey-shop-perfect-evening-snack): Authentic GI-tagged Ooty Varkey Big & Small Combo Pack handmade using 200-year-old recipe, baked in traditional firewood ovens. Perfect variety pack for tea-time. Original from best Ooty Varkey shop.
+  Updated: 2026-02-26T08:37:17Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -1780,8 +1780,8 @@
   - [Big 2 KGs+ Small 1 KGs](https://ootymade.com/products/ooty-varkey-big-and-small-combo-pack-original-varkey-from-best-ooty-varkey-shop-perfect-evening-snack?variant=46222607974626)
     Availability: Available
     Price: ₹950.00 INR
-- [Ooty Varkey Big & Small 2KG Combo - GI-Tagged Traditional Biscuits | OotyMade](https://ootymade.com/products/ooty-varkey-big-and-small-2-kgs-original-ooty-varkey-online-shopping-best-evening-tea-time-snacks): Buy authentic Ooty Varkey Big & Small 2KG combo. GI-tagged traditional biscuits baked in firewood ovens. 200-year heritage, crispy flaky layers. Perfect tea-time snacks. Original from best Ooty Varkey shop.
-  Updated: 2026-02-13T07:31:06Z
+- [Ooty Varkey 2KG Combo - GI Tagged Traditional Biscuits](https://ootymade.com/products/ooty-varkey-big-and-small-2-kgs-original-ooty-varkey-online-shopping-best-evening-tea-time-snacks): Buy authentic Ooty Varkey Big & Small 2KG combo. GI-tagged traditional biscuits baked in firewood ovens. 200-year heritage, crispy flaky layers. Perfect tea-time snacks. Original from best Ooty Varkey shop.
+  Updated: 2026-02-26T05:34:09Z
   Vendor: OotyMade.com
   Product Type: Varkey
   Availability: Available
@@ -1795,7 +1795,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Elachi250Gms-228x228.jpg?v=1738135791
   Price: ₹175.00 INR
 - [CHAMRAJ Nilgiri Master Blend Strong CTC Dust Tea 500g | Finest | OotyMade](https://ootymade.com/products/chamraj-nilgiri-master-blend-strong-ctc-dust-tea-500-g-pack-of-1-total-500-g-chamraj-finest-nilgiri-tea): Buy authentic CHAMRAJ Nilgiri Master Blend Strong CTC Dust Tea. 500g finest quality from Chamraj Estate. Bold, brisk, full-bodied black tea. Perfect for strong chai. High-grown Nilgiris tea.
-  Updated: 2026-02-04T05:51:37Z
+  Updated: 2026-02-25T13:44:27Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1816,7 +1816,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/2_43a4189a-7a0d-4d0a-b5fb-e49a4e582658.png?v=1738139034
   Price: ₹205.00 INR
 - [KORAKUNDAH Organic Green Tea 250g - India's Finest Organic Tea | OotyMade](https://ootymade.com/products/korakundah-organic-green-tea-250-g-pack-of-1-total-250-g-indias-finest-organic-tea-rich-in-antioxidants-chamraj-nilgiri-tea): Buy authentic KORAKUNDAH Organic Green Tea from Chamraj Estate. India's finest organic Nilgiri green tea rich in antioxidants. 250g  organic whole leaf tea. High-altitude grown at 2,400m.
-  Updated: 2026-01-29T21:27:29Z
+  Updated: 2026-02-25T12:56:06Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1844,7 +1844,7 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/3_converted.png?v=1738145014
   Price: ₹160.00 INR
 - [GLENDALE Green Tea 250g - Premium Nilgiri Green Tea | 150 Years | OotyMade](https://ootymade.com/products/glendale-green-tea-250-g-pack-of-1-total-250-g-high-grown-nilgiri-tea-150-years-of-heritage): Buy authentic GLENDALE Green Tea from 150-year heritage estate. Premium high-grown Nilgiri green tea rich in antioxidants. 250g organic whole leaf tea. Traditional processing from Glendale Estate.
-  Updated: 2026-01-29T21:21:53Z
+  Updated: 2026-02-25T08:09:18Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1872,14 +1872,14 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/2_converted_56083c56-83db-4d37-b247-597e23dfb517.png?v=1738147484
   Price: ₹170.00 INR
 - [GLENDALE Aurea Tea SFTGFOP 250g - Premium High Grown Nilgiri Tea | OotyMade](https://ootymade.com/products/glendale-aurea-tea-sftgfop-250-g-pack-of-1-total-250-g-high-grown-nilgiri-tea): Buy authentic GLENDALE Aurea Tea SFTGFOP from Nilgiris. Super Fine Tippy Golden Flowery Orange Pekoe - highest grade orthodox tea. 250g luxury whole leaf tea with golden tips. Exceptional quality.
-  Updated: 2026-02-05T16:35:36Z
+  Updated: 2026-02-22T10:34:07Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/4_converted_75f42c28-6ac1-48cd-b113-10568f292ae8.png?v=1738147879
   Price: ₹190.00 INR
 - [GLENDALE Nilgiri Orthodox Tea 250g - 150 Years Heritage Single Garden | OotyMade](https://ootymade.com/products/glendale-nilgiri-orthodox-tea-250-g-pack-of-1-total-250-g-high-grown-nilgiri-single-garden-tea-150-years-of-heritage): Buy authentic GLENDALE Nilgiri Orthodox Tea from 150-year-old single garden estate. High-grown premium whole leaf tea with exceptional aroma. Traditional processing. 250g pack from Nilgiris.
-  Updated: 2026-02-11T13:39:16Z
+  Updated: 2026-02-26T09:06:58Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
@@ -1892,13 +1892,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/havukal-Bop-3.webp?v=1738213784
   Price: ₹270.00 INR
-- [Havukal Gold Rush FOP Tea - Premium Nilgiris Whole Leaf Orthodox Tea | OotyMade](https://ootymade.com/products/havukal-gold-rush-fop-tea): Buy authentic Havukal Gold Rush FOP Tea from Nilgiris. Premium whole leaf orthodox tea with golden liquor, velvety texture. Flowery Orange Pekoe grade. 250g luxury tea from high-elevation estates.
-  Updated: 2026-01-30T21:52:49Z
-  Vendor: OotyMade.com
-  Product Type: Tea Powders
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/fop-scaled-1.webp?v=1738214198
-  Price: ₹390.00 INR
 - [Havuku Lovedale Organic Black Tea - Premium Nilgiris Whole Leaf Tea | OotyMade](https://ootymade.com/products/havuku-lovedale-organic-black-tea): Buy authentic Havuku Lovedale Organic Black Tea from Nilgiris high-elevation estates. Strong, brisk whole leaf tea with exceptional aroma.  organic, handpicked from Lovedale Estate. 100g premium quality.
   Updated: 2026-02-09T06:08:16Z
   Vendor: OotyMade.com
@@ -1907,14 +1900,14 @@
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/lovedale-organic-black-tea-final_-scaled.webp?v=1738214687
   Price: ₹299.00 INR
 - [Havukal Warwick Special Green Tea - Premium Nilgiris Organic Tea | OotyMade](https://ootymade.com/products/havukal-warwick-special-green-tea): Buy authentic Havukal Warwick Special Green Tea from Nilgiris high-elevation estates. Handpicked organic green tea with antioxidants. Traditional processing, fresh grassy notes. Premium quality from Ooty.
-  Updated: 2026-01-30T21:42:51Z
+  Updated: 2026-02-25T08:09:17Z
   Vendor: OotyMade.com
   Product Type: Tea Powders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0325/2771/2389/files/Special-green-copy-scaled-1.webp?v=1738215079
   Price: ₹290.00 INR
-- [Ooty Homemade Orange Flavoured Chocolate - Handcrafted Citrus Chocolate Bars | Premium Gift](https://ootymade.com/products/ooty-homemade-orange-flavoured-chocolate-smooth-handmade-delight-with-a-refreshing-orange-flavor): Handcrafted Orange Flavoured Chocolate made fresh in Ooty chocolate factory. Rich cocoa with refreshing orange essence. Traditional methods, small-batch. Perfect gift from OotyMade.com.
-  Updated: 2026-01-30T21:00:53Z
+- [Ooty Orange Chocolate - Handmade Citrus Flavored Bars](https://ootymade.com/products/ooty-homemade-orange-flavoured-chocolate-smooth-handmade-delight-with-a-refreshing-orange-flavor): Ooty Orange Chocolate - handmade citrus flavored bars from Ooty Chocolate Factory. Fruity orange chocolate. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T07:12:13Z
   Vendor: OotyMade.com
   Product Type: Chocolates
   Availability: Available
@@ -1928,8 +1921,8 @@
   - [800 G](https://ootymade.com/products/ooty-homemade-orange-flavoured-chocolate-smooth-handmade-delight-with-a-refreshing-orange-flavor?variant=46306712289506)
     Availability: Available
     Price: ₹1,185.00 INR
-- [Ooty Homemade Strawberry Molding Chocolate - Handcrafted Fruity Chocolate Bars | Premium Gift](https://ootymade.com/products/ooty-homemade-strawberry-molding-chocolate-smooth-creamy-and-wrapped-handmade-chocolates-from-ooty): Handcrafted Strawberry Molding Chocolate made fresh in Ooty chocolate factory. Smooth, creamy chocolate with natural strawberry flavor. Small-batch, beautifully wrapped. Perfect gift from OotyMade.com.
-  Updated: 2026-01-29T22:19:18Z
+- [Ooty Strawberry Chocolate - Handmade Creamy Bars](https://ootymade.com/products/ooty-homemade-strawberry-molding-chocolate-smooth-creamy-and-wrapped-handmade-chocolates-from-ooty): Ooty Strawberry Chocolate - handmade creamy bars from Ooty Chocolate Factory. Fruity strawberry chocolate. Perfect gift from OotyMade.com.
+  Updated: 2026-02-27T09:18:01Z
   Vendor: OotyMade.com
   Product Type: Homemde Chocolates
   Availability: Available
@@ -1943,8 +1936,8 @@
   - [800 G](https://ootymade.com/products/ooty-homemade-strawberry-molding-chocolate-smooth-creamy-and-wrapped-handmade-chocolates-from-ooty?variant=46313010397410)
     Availability: Available
     Price: ₹1,185.00 INR
-- [Ooty Pineapple Chocolate - Handmade Tropical Flavored Chocolate Bars | OotyMade](https://ootymade.com/products/ooty-homemade-pineapple-molding-chocolate-handmade-chocolates-with-exotic-pineapple-flavor): Buy authentic Ooty Pineapple Chocolate handcrafted in Nilgiris cool climate. Smooth molding chocolate with exotic tropical pineapple flavor. Perfect for gifting. Made fresh at Ooty chocolate factory.
-  Updated: 2026-01-31T06:24:12Z
+- [Ooty Pineapple Chocolate - Handmade Tropical Bars](https://ootymade.com/products/ooty-homemade-pineapple-molding-chocolate-handmade-chocolates-with-exotic-pineapple-flavor): Ooty Pineapple Chocolate - handmade tropical bars from Ooty Chocolate Factory. Fruity pineapple chocolate. Perfect gift from OotyMade.com.
+  Updated: 2026-02-26T11:19:29Z
   Vendor: OotyMade.com
   Product Type: Chocolates
   Availability: Available
@@ -1958,8 +1951,8 @@
   - [800 G](https://ootymade.com/products/ooty-homemade-pineapple-molding-chocolate-handmade-chocolates-with-exotic-pineapple-flavor?variant=46313025175778)
     Availability: Available
     Price: ₹1,185.00 INR
-- [Ooty Pistachio Chocolate - Handmade Rich Nutty Flavored Bars | OotyMade](https://ootymade.com/products/ooty-homemade-pistachio-molding-chocolate-rich-nutty-flavoured-chocolate-bars-handmade-wrapped-to-perfection): Buy authentic Ooty Pistachio Chocolate handcrafted in Nilgiris cool climate. Premium pistachio molding chocolate, rich nutty flavor. Handmade, beautifully wrapped. Perfect gift from Ooty chocolate factory.
-  Updated: 2026-01-30T20:33:52Z
+- [Ooty Pistachio Chocolate - Handmade Nutty Bars Premium](https://ootymade.com/products/ooty-homemade-pistachio-molding-chocolate-rich-nutty-flavoured-chocolate-bars-handmade-wrapped-to-perfection): Ooty Pistachio Chocolate - handmade nutty bars from Ooty Chocolate Factory. Premium chocolate with pistachios. Perfect gift from OotyMade.com.
+  Updated: 2026-02-26T11:15:35Z
   Vendor: OotyMade.com
   Product Type: Chocolates
   Availability: Available
@@ -2033,8 +2026,8 @@
   - [800 Grams](https://ootymade.com/products/ooty-pearl-millet-biscuits-delicious-fiber-rich-healthy-snack-for-kids-adults?variant=46334588027106)
     Availability: Available
     Price: ₹490.00 INR
-- [Ooty Homemade Sugar-Free Dark Chocolate - Handcrafted, No Added Sugar | Diabetic-Friendly](https://ootymade.com/products/ooty-homemade-sugar-free-dark-chocolate-no-added-sugar-healthy-diabetic-friendly-treat): Handcrafted sugar-free dark chocolate made fresh in Ooty chocolate factory. No added sugar, 100% natural, diabetic-friendly. Traditional methods, cool climate advantage. PAN India delivery from OotyMade.com.
-  Updated: 2026-02-03T09:00:50Z
+- [Ooty Sugar-Free Dark Chocolate - Diabetic Friendly Healthy](https://ootymade.com/products/ooty-homemade-sugar-free-dark-chocolate-no-added-sugar-healthy-diabetic-friendly-treat): Ooty Sugar-Free Dark Chocolate - diabetic friendly, healthy handmade dark chocolate from Ooty Chocolate Factory. No added sugar. Order from OotyMade.com.
+  Updated: 2026-02-26T11:02:32Z
   Vendor: OotyMade.com
   Product Type: Chocolates
   Availability: Available
@@ -2053,45 +2046,45 @@
 ## Collections
 
 - [Explore OotyMade.com for Nilgiri Oil, Ooty Varkey, homemade chocolate,tea powder](https://ootymade.com/collections/ootymade-com-your-ultimate-online-store-for-authentic-nilgiris-products): Welcome to OotyMade.com, your go-to online store for authentic Nilgiris products. Indulge in the finest Nilgiri oil, Ooty Varkey, and exquisite chocolates from the renowned Ooty Chocolate Factory. Discover a delectable range, including homemade chocolates, green tea, cardamom tea, and more. Enjoy factory-fresh goodness with nationwide delivery to all pincodes in India.
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-27T12:08:12Z
   Total Products: 86
 - [Ooty Varkey Online: Authentic Factory Fresh Biscuits Wholesale - OotyMade](https://ootymade.com/collections/shop-ooty-varkey-online-authentic-varkey-biscuits-factory-fresh): Buy authentic Ooty Varkey biscuits online from traditional factories. Crispy, flaky, buttery traditional biscuits made fresh daily. Wholesale prices available. Experience the legendary taste of Nilgiris Varkey delivered across India. Perfect for gifting & snacking.
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-27T12:08:12Z
   Total Products: 4
 - [Best Ooty Chocolates Collection: Factory Fresh & Handmade Delights Online](https://ootymade.com/collections/shop-the-finest-ooty-chocolates-factory-fresh-homemade-goodness): Shop the finest Ooty chocolates online - factory fresh dark, white & milk chocolate handmade in Nilgiri Hills. Premium quality, authentic taste, delivered fresh across India.
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-26T12:06:42Z
   Total Products: 36
 - [Ooty Essential Oils: Nilgiri Eucalyptus, Gaultheria & Pain Relief - OotyMade](https://ootymade.com/collections/ooty-essential-oils-online-store-eucalyptus-nilgiri-joint-pain-relief-n-more): Buy pure Ooty essential oils online - Nilgiri eucalyptus, Gaultheria, citronella, rose, sandalwood oils. Organic, therapeutic grade for joint pain relief, aromatherapy & wellness. Authentic Nilgiri oils delivered fresh across India.
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-26T12:06:42Z
   Total Products: 21
 - [Ooty Tea Factory Online: Authentic Nilgiris Tea Powder Best Price - OotyMade](https://ootymade.com/collections/ooty-tea-factory-online-shopping-authentic-ooty-tea-powder-best-price): Shop authentic Ooty tea powder online from premium Nilgiri tea estates. Fresh black tea, green tea, orthodox & masala chai from Ooty tea factory. Best prices, delivered fresh across India. Experience genuine Nilgiris tea taste.
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-27T12:08:12Z
   Total Products: 53
 - [Recommended products (Seguno)](https://ootymade.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-02-18T12:07:12Z
-  Total Products: 159
+  Updated: 2026-02-27T12:08:12Z
+  Total Products: 158
 - [Our Gift Boxes are the Perfect Gift for your family, friends,customers](https://ootymade.com/collections/special-gift-combo-packs): Our Delicious Chocolate Combo Packs,Tea Special Assorted Packs, Ooty Special Varkey, Essential Oils Combo Packs are the perfect gift for your family, friends, customers and employees at any time, especially during Birthday,Anniversary,Diwali,New Year,Pongal.... and all the holiday season. We can personalize your gifts too, to add a warm touch to it. Remember to order for your friends, kith, kins and to treat yourself, too. You can contact us if you require any Special Customized Gift Packs as per your requirements and Expectations
-  Updated: 2026-02-16T12:06:15Z
+  Updated: 2026-02-26T11:32:08Z
   Total Products: 16
 - [Buy Premium Quality Dried Fruits and Nut at Lower price on Online](https://ootymade.com/collections/dried-fruits-and-nuts): Buy Premium Quality Dry Fruits at lowest prices on Online , Dry fruits, Especially nuts such as Almond,Cashew Nut, Raisin,Dates etc.
 Dry fruits and Nuts are traditionally known to be a powerhouse of nutrients.
 Give yourself and your loved once with the gift of health.
-  Updated: 2026-02-04T12:07:18Z
+  Updated: 2026-02-26T12:06:42Z
   Total Products: 4
 - [AVADA Email Marketing - Best Sellers](https://ootymade.com/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-27T12:08:12Z
   Total Products: 176
 - [AVADA Email Marketing - Newest Products](https://ootymade.com/collections/avada-email-marketing-newest-products)
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-27T12:08:12Z
   Total Products: 176
 - [Ooty Chocolates: Dark, White & Milk Chocolate Factory Fresh - OotyMade](https://ootymade.com/collections/ooty-chocolates-dark-white-milk-factory-fresh): Shop premium Ooty chocolates handcrafted in Nilgiri Hills. Dark chocolate, white chocolate & milk chocolate made fresh at our factory. Authentic taste, delivered across India.
-  Updated: 2026-02-18T12:07:12Z
+  Updated: 2026-02-27T12:08:12Z
   Total Products: 76
 - [Premium Attar Perfumes: Natural Scents for Men & Women Online - OotyMade](https://ootymade.com/collections/premium-attar-perfumes-best-for-men-women-buy-attar-scents-online): Buy premium attar perfumes online - natural, alcohol-free scents for men & women. Rose, sandalwood, musk, jasmine, oud attar. Traditional fragrance oils, long-lasting luxury. Best prices on authentic attar perfumes delivered across India. Perfect for gifting.
-  Updated: 2026-02-16T12:06:15Z
+  Updated: 2026-02-26T12:06:42Z
   Total Products: 15
 - [Buy Handmade Soap Online: Ooty Organic & Natural Varieties - OotyMade](https://ootymade.com/collections/buy-handmade-soap-online-premium-ooty-organic-and-natural-varieties): Buy premium handmade soap online - 100% organic & natural varieties from Ooty. Herbal, essential oil, charcoal, turmeric, neem soaps for all skin types. Chemical-free, eco-friendly, cruelty-free. Shop authentic handmade soaps delivered fresh across India. Perfect for sensitive skin & gifting.
-  Updated: 2026-02-15T12:07:06Z
+  Updated: 2026-02-23T12:06:41Z
   Total Products: 9
 
 ## Blogs
@@ -2432,6 +2425,8 @@ Give yourself and your loved once with the gift of health.
   Updated: 2026-01-31T10:48:11Z
 - [OotyMade FAQs | Ooty Chocolates, Nilgiris Tea & Delivery Across India](https://ootymade.com/pages/frequently-asked-questions-ootymade-com-authentic-nilgiris-products-from-ooty): Frequently Asked Questions – OotyMade.com About OotyMade.com What is OotyMade.com?OotyMade.com is an online brand delivering authentic Nilgiris pro...
   Updated: 2026-01-30T13:50:09Z
+- [About OotyMade - Authentic Natural Products from Ooty & Nilgiris](https://ootymade.com/pages/about-us): Welcome to OotyMade - Authentic Products from the Nilgiris Nestled in the breathtaking Nilgiri Hills of South India, OotyMade brings you the finest...
+  Updated: 2026-02-23T09:18:34Z
 
 ## Policies
 
