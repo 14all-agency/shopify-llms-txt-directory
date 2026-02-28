@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Madrid
 - Created At: 2026-01-12T10:25:27Z
-- Updated At: 2026-02-21T00:00:38.729Z
+- Updated At: 2026-02-28T00:00:42.889Z
 
 ## Products
 
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Sec4aefb0dec84b15b3ea6b669dddbb0ac.webp?v=1769541753
     Price: 3,99 € EUR
 - [Luz de emergencia para coche LED 2026 aprobada por DGT con rastreador de geolocación para lámpara de advertencia estroboscópica de inducción magnética de posición rápida](https://mywashshop.myshopify.com/products/luz-de-emergencia-para-coche-led-2026-aprobada-por-dgt-con-rastreador-de-geolocacion-para-lampara-de-advertencia-estroboscopica-de-induccion-magnetica-de-posicion-rapida): BALIZA V16 3.0 OBLIGATORIA 2026 DGT
-  Updated: 2026-02-09T22:38:27Z
+  Updated: 2026-02-26T15:16:26Z
   Vendor: 7kShop
   Product Type: 
   Availability: Available
@@ -1303,7 +1303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/Saf9e7a3eb22f4fd695677b2dc648b4b8i.webp?v=1771362035
     Price: 32,99 € EUR
 - [Indoor LED Wall Lamp Living Room Decoration Wall Light Home Lighting Fixture Loft Stair Light Round/Square Aluminum AC90-260V](https://mywashshop.myshopify.com/products/indoor-led-wall-lamp-living-room-decoration-wall-light-home-lighting-fixture-loft-stair-light-round-square-aluminum-ac90-260v-113561043291-gnllt): Size:  Round Diameter 15cm / Diameter 20cm / Diameter 24cmMaterial: Aluminum + AcrylicPower: 8W/12W/18WColor Temperature: Warm White (2700-3500K) / Nature White(3500-5500K)Note: This light needs to be connected with electric wires, the input voltage is AC90-260V. This light without switch.
-  Updated: 2026-02-18T09:20:28Z
+  Updated: 2026-02-25T08:01:46Z
   Vendor: 7kShop
   Product Type: 
   Availability: Available
@@ -1389,7 +1389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/0697/3275/files/S67c42d8266814c2f91ac2458291b48c5u.webp?v=1771362035
     Price: 73,99 € EUR
 - [Pendant Light Rattan Hanging Lights Cord Bamboo Hanging Lamp Dimmable Basket Lamp Shade,Hemp Rope Plug in Ceiling Light Fixture](https://mywashshop.myshopify.com/products/pendant-light-rattan-hanging-lights-cord-bamboo-hanging-lamp-dimmable-basket-lamp-shade-hemp-rope-plug-in-ceiling-light-fixture-113561043291-uhkf2): Pendant Light Rattan Hanging Lights Cord Bamboo Hanging Lamp Dimmable Basket Lamp Shade,Hemp Rope Plug in Ceiling Light Fixture
-  Updated: 2026-02-18T09:00:43Z
+  Updated: 2026-02-25T07:02:16Z
   Vendor: 7kShop
   Product Type: 
   Availability: Available
@@ -1852,7 +1852,7 @@
   Updated: 2026-02-10T09:34:10Z
   Total Products: 0
 - [AVADA - Best Sellers](https://mywashshop.myshopify.com/collections/avada-best-sellers)
-  Updated: 2026-02-17T21:05:54Z
+  Updated: 2026-02-27T12:36:11Z
   Total Products: 48
 
 ## Store Pages
