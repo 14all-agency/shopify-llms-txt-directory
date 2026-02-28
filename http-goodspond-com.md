@@ -1,0 +1,200 @@
+# Goods Pond (http://goodspond.com)
+
+- Domain: http://goodspond.com
+- Locale: tr
+- Currency: TRY
+- Timezone: Europe/Istanbul
+- Created At: 2025-12-27T14:20:15Z
+- Contact Email: s.design7art@gmail.com
+- Updated At: 2026-02-28T00:00:44.921Z
+
+## Products
+
+- [Write SEO-Compatible Articles – Bilingual eBook for Beginners](http://goodspond.com/products/write-seo-compatible-articles-bilingual-ebook): Learn SEO writing with a bilingual ebook designed for beginners. Improve digital reading, vocabulary building, and content acquisition skills step by step.
+  Updated: 2026-01-27T15:01:19Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/beginner_intermediate.webp?v=1768395581
+  Price: ₺200,00 TRY
+- [The Moon Thief – An English Story eBook for Reading Practice](http://goodspond.com/products/the-moon-thief-english-story-ebook): The Moon Thief is a story-based ebook created for English learners.
+  Updated: 2026-01-27T15:08:58Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Fantastic-English-Story-E-book.webp?v=1768394944
+  Price: ₺15,00 TRY
+- [When We Are Together E-Kitap | İngilizce Hikaye, Pratik ve Alıştırmalar](http://goodspond.com/products/when-we-are-together-english-story-ebook): This digital ebook uses gentle storytelling, reading exercises, and vocabulary practice to improve comprehension skills through interactive reading.
+  Updated: 2026-01-28T06:10:33Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Emotional-English-Story-E-book.webp?v=1768394419
+  Price: ₺15,00 TRY
+- [Crimson Alley | English Story eBook for Reading & Language Practice](http://goodspond.com/products/crimson-alley-english-story-ebook): A dark noir English story ebook for learners. Improve language learning with immersive storytelling, vocabulary exposure, and reading practice.
+  Updated: 2026-01-27T12:37:04Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Crimson-Alley.webp?v=1768393876
+  Price: ₺15,00 TRY
+- [Efficient Working Techniques – A Practical Productivity eBook](http://goodspond.com/products/efficient-working-techniques-ebook): A practical productivity ebook with proven techniques for focus, time management, and better work habits. Learn to work smarter every day.
+  Updated: 2026-01-27T12:57:27Z
+  Vendor: Yunus Hasanoğlu
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Efficient-Working-Techniques.webp?v=1768392710
+  Price: ₺500,00 TRY
+- [Anna and the Cat Adventure | English Story eBook for Beginners](http://goodspond.com/products/anna-and-the-cat-adventure-english-story-ebook): A beginner-friendly English story ebook with simple language, reading exercises, and vocabulary building to improve comprehension skills.
+  Updated: 2026-01-27T13:06:27Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Anna-and-the-Cat-Adventure.webp?v=1768391972
+  Price: ₺15,00 TRY
+- [Ediz’s Big Journey | English Story eBook for Beginners](http://goodspond.com/products/edizs-big-journey-english-story-ebook): A beginner-friendly English story ebook with simple storytelling, reading exercises, and vocabulary building to improve comprehension skills.
+  Updated: 2026-01-27T13:20:31Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Ediz_s_Big_Journey.webp?v=1768391396
+  Price: ₺15,00 TRY
+- [Make an Impact with One Sentence | Writing & Storytelling eBook](http://goodspond.com/products/make-an-impact-with-one-sentence-ebook): A practical ebook for writers and creators. Learn storytelling techniques, narrative structure, and hands-on practice to craft powerful opening sentences.
+  Updated: 2026-01-27T13:33:02Z
+  Vendor: Yunus Hasanoğlu
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Bir-Cumleyle-Etki-Birak.webp?v=1768340574
+  Price: ₺90,00 TRY
+- [The Art of the Hook | Storytelling & Writing Practice eBook](http://goodspond.com/products/the-art-of-the-hook-ebook): A practical ebook that teaches storytelling hooks through examples and exercises. Improve language learning, comprehension skills, and narrative impact.
+  Updated: 2026-01-27T13:38:43Z
+  Vendor: Yunus Hasanoğlu
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/The-Art--of-the-Hook.webp?v=1768340409
+  Price: ₺140,00 TRY
+- [Speak English in Seoul | English Story eBook for Language Practice](http://goodspond.com/products/speak-english-in-seoul-ebook): A travel-based English story ebook with dialogues, reading exercises, and vocabulary building to improve comprehension and speaking confidence.
+  Updated: 2026-01-27T13:48:33Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak_English_in_Seol.webp?v=1768338398
+  Price: ₺25,00 TRY
+- [Speak English in Athens | English Story eBook for Language Practice](http://goodspond.com/products/speak-english-in-athens-ebook): Learn English through a travel story set in Athens. A practical ebook with dialogues, reading exercises, vocabulary building, and speaking practice.
+  Updated: 2026-01-28T00:49:43Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/atinada_ingilizce_konus.png?v=1767381688
+  Price: ₺25,00 TRY
+- [Speak English in Mexico City | English Story eBook for Practice](http://goodspond.com/products/speak-english-in-mexico-city-ebook): Learn English through a travel story set in Mexico City. A practical ebook with storytelling, reading exercises, and vocabulary building for real-life practice.
+  Updated: 2026-01-27T14:02:22Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak-English-in-Mexico-City.webp?v=1768336910
+  Price: ₺25,00 TRY
+- [Speak English in Moscow | English Story eBook for Practice](http://goodspond.com/products/speak-english-in-moscow-ebook): Learn English through a travel story set in Moscow. A practical ebook with storytelling, reading exercises, and vocabulary building for real-life practice.
+  Updated: 2026-01-27T14:12:31Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak_English_in_Moscow.webp?v=1768335987
+  Price: ₺25,00 TRY
+- [Speak English in Cairo | Story-Based English Practice eBook](http://goodspond.com/products/speak-english-in-cairo-ebook): Learn everyday English through real-life stories set in Cairo. A practical ebook with storytelling, reading exercises, and vocabulary building.
+  Updated: 2026-01-27T14:21:24Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/speak_english_in_Cairo.webp?v=1768335446
+  Price: ₺25,00 TRY
+- [Speak English in Bangkok | English Story eBook for Practice](http://goodspond.com/products/speak-english-in-bangkok-ebook): A travel-based English story ebook set in Bangkok. Learn through storytelling, reading exercises, and vocabulary building for real-life language practice.
+  Updated: 2026-01-27T14:29:37Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak-English-in_Bangkok.webp?v=1768316712
+  Price: ₺25,00 TRY
+- [Speak English in Barcelona | English Story Practice eBook](http://goodspond.com/products/speak-english-in-barcelona-ebook): A story-based English ebook set in Barcelona. Learn through storytelling, reading exercises, and vocabulary building for real-life language practice.
+  Updated: 2026-01-27T14:36:56Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak-English-in-Barcelona_book_cover.webp?v=1768308000
+  Price: ₺25,00 TRY
+- [Speak English in Istanbul | English Story eBook for Practice](http://goodspond.com/products/speak-english-in-istanbul-ebook): A story-based English ebook set in Istanbul. Learn through storytelling, reading exercises, and vocabulary building for real-life language practice.
+  Updated: 2026-01-27T14:44:45Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak_English_in_istanbul.webp?v=1768304602
+  Price: ₺25,00 TRY
+- [Speak English in Tokyo | English Story Practice eBook](http://goodspond.com/products/speak-english-in-tokyo-ebook): A story-based English ebook set in Tokyo. Learn through storytelling, reading exercises, and vocabulary building for real-life language practice.
+  Updated: 2026-01-28T03:22:29Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak_English_in_Tokyo.webp?v=1768297093
+  Price: ₺25,00 TRY
+- [Speak English in Rome –  eBook for Everyday Language Practice](http://goodspond.com/products/speak-english-in-rome-ebook): Learn real English through stories set in Rome. A digital eBook with reading exercises, vocabulary practice, and interactive storytelling for learners.
+  Updated: 2026-01-27T15:01:30Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Speak-English-in-Rome.webp?v=1768294390
+  Price: ₺25,00 TRY
+- [Learn English in Paris – eBook for Language Learning & Practice](http://goodspond.com/products/learn-english-in-paris-ebook): Improve your English with Learn English in Paris, a digital storytelling eBook filled with reading exercises, vocabulary building, and interactive learning.
+  Updated: 2026-01-27T15:04:18Z
+  Vendor: Goods Pond
+  Product Type: simple, downloadable, virtual
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/4807/7145/files/Learn-English-in-Paris.webp?v=1767970652
+  Price: ₺25,00 TRY
+
+## Collections
+
+- [Stories – Timeless Literature for All Ages](http://goodspond.com/collections/story): Enjoy classic stories and fables from around the world. Ideal for students and readers who love timeless tales and inspiring lessons.
+  Updated: 2026-02-04T18:23:53Z
+  Total Products: 14
+- [Skill – Build Confidence & Everyday Success](http://goodspond.com/collections/skill): Learn essential life skills like time management, decision-making, and self-awareness. Ideal for students and professionals aiming for personal growth.
+  Updated: 2026-02-04T18:31:15Z
+  Total Products: 4
+- [Practice – Improve Writing & Communication Skills](http://goodspond.com/collections/practice): Access grammar practice worksheets and ebooks to improve sentence structure, tenses, and punctuation. Ideal for students and English learners.
+  Updated: 2026-02-04T18:20:01Z
+  Total Products: 13
+- [Ebooks – Learn Smarter, Study Anywhere | Download Instantly](http://goodspond.com/collections/ebooks): Explore top-rated educational ebooks for students, teachers, and professionals. Download instantly and learn anytime
+  Updated: 2026-02-04T17:37:33Z
+  Total Products: 20
+
+## Blogs
+
+- [News](http://goodspond.com/blogs/news)
+  - [What’s the Ebook? | Discover the Digital Future of Reading](http://goodspond.com/blogs/news/whats-the-ebook): What’s the Ebook? | Discover the Digital Future of Reading
+    Updated: 2026-02-03T12:19:29Z
+    Author: Erdem Sıcak
+  - [Skills That Matter – Learn Practical Skills for Career & Life Growth](http://goodspond.com/blogs/news/skills-learn-grow-and-master-what-matters): Skills That Matter – Learn Practical Skills for Career & Life Growth
+    Updated: 2026-02-05T18:57:20Z
+    Author: Erdem Sıcak
+
+## Store Pages
+
+- [Contact](http://goodspond.com/pages/contact)
+  Updated: 2025-12-27T14:20:17Z
+
+## Policies
+
+- [Privacy Policy](http://goodspond.com/policies/privacy-policy)
+  Updated: 2026-02-04T23:44:20+03:00
+- [Shipping Policy](http://goodspond.com/policies/shipping-policy)
+  Updated: 2026-01-08T14:12:11+03:00
+- [Refund Policy](http://goodspond.com/policies/refund-policy)
+  Updated: 2026-02-04T23:44:11+03:00
+- [Terms of Service](http://goodspond.com/policies/terms-of-service)
+  Updated: 2026-02-04T23:29:59+03:00
+- [Contact Information](http://goodspond.com/policies/contact-information)
+  Updated: 2026-01-08T12:51:01+03:00
+
+## Optional
+
+- [robots.txt](http://goodspond.com/robots.txt)
+- [sitemap.xml](http://goodspond.com/sitemap.xml)
