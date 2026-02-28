@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T09:12:07Z
 - Contact Email: info@nsstyling.com
-- Updated At: 2026-02-19T00:00:36.696Z
+- Updated At: 2026-02-28T00:00:42.543Z
 
 ## Products
 
@@ -686,9 +686,9 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_bff4e1ef-0f1c-4e02-84fb-abab360956c9.png?v=1760934552
   Price: $0.00 AUD
-- [Antler With Dome Luxury Decorative Accent | NS Styling](https://nsstyling.com/products/antler-with-dome-1): Antler with Dome - ceremonial decor piece for Sofreh Aghd tables, combining natural antler and glass dome for a stylish and symbolic wedding setup.
-  Updated: 2026-02-04T15:01:17Z
-  Vendor: nspropstyling
+- [Buy Luxury Antler with Dome Table Centerpiece for Events | NS Styling](https://nsstyling.com/products/antler-with-dome-1): Buy a premium antler with dome table centerpiece for weddings, banquets, and events. luxury décor designed to elevate tables with rustic, elegant style.
+  Updated: 2026-02-27T10:19:18Z
+  Vendor: NS Styling
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/3_17.png?v=1760701758
@@ -701,7 +701,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_51dbf582-4c5a-4213-a8fe-47affc3f64fb.png?v=1760935970
   Price: $3.00 AUD
 - [Parasol Umbrella](https://nsstyling.com/products/parasol-umbrella): Our silk parasol umbrellas are hand-crafted with delicate materials and designed exclusively for light summer shade. Due to their artisanal nature, they are not suitable for rain, strong wind, or harsh weather conditions.To maintain the beauty and longevity of your parasol, please ensure: It is used only in mild weather and sheltered outdoor conditions. It is not exposed to rain, moisture, or heavy UV for long periods. It is not used in windy environments, as the handcrafted frame and silk canopy are not designed to withstand force. The parasol is opened and closed gently to protect the silk fabric and handmade structure. After use, store it in a cool, dry place, away from direct sunlight.These parasols are intended as summer shade accessories, decorative accents, and elegant styling pieces
-  Updated: 2026-02-04T22:08:06Z
+  Updated: 2026-02-19T22:24:55Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -722,7 +722,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_2870fcb3-4bf9-4d08-ba96-e3a92699f736.png?v=1760942980
   Price: $0.00 AUD
 - [IXIAH the label – The outlaw Set – Size 6](https://nsstyling.com/products/ixiah-the-label-the-outlaw-set-size-7): Ixiah The Label Outlaw Set Size 7 - elegant two‑piece designer outfit with hand‑crafted details and florals, ideal for special occasions and event styling.
-  Updated: 2026-02-03T05:33:25Z
+  Updated: 2026-02-23T18:17:03Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -750,7 +750,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_f0f2f473-6b3f-4ea9-b1bb-9ce30ca8831d.png?v=1760963124
   Price: $0.00 AUD
 - [Botanica Zimmermann Dress – Size 0](https://nsstyling.com/products/botanica-zimmermann-dress-size-0): Shop the Zimmermann Botanica Dress Size 0 - ethereal floral gown with delicate organza petals, ideal for weddings, events and elevated fashion moments.
-  Updated: 2026-02-03T05:32:55Z
+  Updated: 2026-02-23T18:14:42Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -974,7 +974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/3_70.png?v=1760726221
   Price: $0.00 AUD
 - [Milla – Misty Rose Ruffled Tulle Dress – Size Small](https://nsstyling.com/products/milla-misty-rose-ruffled-tulle-dress-size-small): Discover your perfect dress for that special occasion with our wide range of dress hire options. Our collection offers an array of styles, colors and designs to choose from, ensuring that you will find a dress that not only fits your style but also flatters your figure. With the option to hire for up to 5 days, you can enjoy the dress of your dreams for longer, making it the perfect choice for weddings, parties, and other events. To ensure the longevity and protection of our dresses, a security deposit is required for every hire. This deposit acts as a safeguard against any damages that may occur during the hire period and will be refunded to your nominated  if the dress is returned in good condition and in accordance with our terms and conditions. This way, you can relax and enjoy your event, knowing that your dress is in safe hands. DETAILS The cocktail dress is made from tulle. The bustier is semi-transparent and has corset lacing on the back. The dress is decorated with ruffle sleeves. The tulle skirt is partially lined. Material: Tulle Fabric Composition: 100% polyester Sleeves style: Ruffle sleeves Silhouette: A-line Skirt length from waist: 90 cm Neckline: Heart-shaped neckline Back: Lace-up closure Built-in cups Lining: Powder pink short underskirt Made in Ukraine Art. N: 500-11 Misty Rose Size Chart S | US Size - 6 | Bust - 87 - 90 | Waist - 66 - 69 | Hips 94 - 97
-  Updated: 2025-11-14T17:10:59Z
+  Updated: 2026-02-23T18:11:27Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -988,7 +988,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/Untitleddesign_85.png?v=1760726290
   Price: $0.00 AUD
 - [Milla – Black Ruffled Tulle Dress – Size Small](https://nsstyling.com/products/milla-black-ruffled-tulle-dress-size-small): Milla Black Ruffled Tulle Dress, Size Small - layered tulle design perfect for weddings, parties, or special events, adding elegance and standout style.
-  Updated: 2026-02-03T07:30:55Z
+  Updated: 2026-02-24T06:10:45Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1121,7 +1121,7 @@
   Image: https://cdn.shopify.com/s/files/1/0693/8814/0597/files/3_85.png?v=1760966583
   Price: $0.00 AUD
 - [Milla – Frill-Layered Gown](https://nsstyling.com/products/milla-frill-layered-gown): Milla Frill Layered Gown with dramatic tulle layers and frills, ideal for weddings, parties, or events that need an elegant and stylish statement piece.
-  Updated: 2026-02-03T07:31:29Z
+  Updated: 2026-02-24T06:26:09Z
   Vendor: nspropstyling
   Product Type: 
   Availability: Available
@@ -1832,8 +1832,8 @@
 - [Hire Chic Sofreh Aghd Styling Sydney | NS Styling](https://nsstyling.com/collections/sofreh-aghd): Sofreh Aghd collection page  with elegant ceremonial decor for weddings, including symbolic items and table accents that enhance traditional celebrations.
   Updated: 2026-02-17T05:09:51Z
   Total Products: 31
-- [Luxury Silverware for Events & Table Styling | NS Styling](https://nsstyling.com/collections/silverware): Silverware collection page with elegant cutlery, serving pieces, and table accents, enhancing event tablescapes, dining settings, and home decor with style.
-  Updated: 2026-02-04T06:59:51Z
+- [Buy Luxury Silverware Sets for Modern Tables | NS Styling](https://nsstyling.com/collections/silverware): Shop luxury silverware sets designed for modern tables. Crafted from premium stainless steel for lasting shine, durability, and elegance at NS Styling.
+  Updated: 2026-02-20T04:11:07Z
   Total Products: 97
 - [Uncategorised](https://nsstyling.com/collections/uncategorised)
   Updated: 2025-12-09T16:58:09Z
@@ -1905,7 +1905,7 @@
   Updated: 2025-12-09T16:58:10Z
   Total Products: 1
 - [Designer Dress Hire for Weddings & Events | NS Styling](https://nsstyling.com/collections/dress-hire): NS Styling Dress Hire offers boutique tulle and frill‑layered dresses in unique designs for weddings, parties or special occasions with quality hire services.
-  Updated: 2026-02-07T22:33:31Z
+  Updated: 2026-02-23T22:20:00Z
   Total Products: 15
 - [Candle Sand Vases](https://nsstyling.com/collections/candle-sand-vases)
   Updated: 2025-12-09T16:58:10Z
