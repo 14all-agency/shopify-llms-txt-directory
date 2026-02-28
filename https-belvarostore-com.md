@@ -6,7 +6,7 @@
 - Timezone: Europe/Brussels
 - Created At: 2026-01-28T15:05:05Z
 - Contact Email: lleytoncompernolle@gmail.com
-- Updated At: 2026-02-21T00:00:36.962Z
+- Updated At: 2026-02-28T00:00:39.128Z
 
 ## Collections
 
