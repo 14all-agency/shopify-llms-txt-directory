@@ -6,96 +6,96 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-02-22T00:00:40.399Z
+- Updated At: 2026-03-01T00:00:43.697Z
 
 ## Products
 
 - [Sweet Desire Extrait | Luxurious Oud & Spice](https://vr7fragrance.in/products/sweet-desire-extrait-de-parfum-vr7-fragrance): Indulge in Sweet Desire by VR7 Fragrance. A premium blend of oud, resins, and spices. Perfect for luxury events. Elevate your senses today!
-  Updated: 2026-02-18T18:15:12Z
+  Updated: 2026-02-25T05:17:41Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Sweet_Desire_perfume_by_VR7_fragrance.png?v=1771393889
   Price: ₹749.00 INR
 - [MIDNIGHT SMOKE BY VR7 Fragrance](https://vr7fragrance.in/products/midnight-smoke-extrait-de-parfum-vr7-fragrance): MIDNIGHT SMOKE BY VR7 Fragrance Dark, Addictive powerful mix of dark resins, woods, and hash-like accords for Late Night Outings Winter Season
-  Updated: 2026-02-18T18:35:29Z
+  Updated: 2026-02-25T05:11:48Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Midnight_Smoke_perfume_by_VR7_fragrance.png?v=1771393796
   Price: ₹749.00 INR
 - [Velvet Flame Extrait - Youthful and Luxurious](https://vr7fragrance.in/products/velvet-flame-extrait-de-parfum-vr7-fragrance): Experience Velvet Flame by VR7 Fragrance, a sweet-nutty blend of hazelnut, honey, and woods. Perfect for any occasion. Discover luxury today.
-  Updated: 2026-02-18T18:34:23Z
+  Updated: 2026-02-25T05:40:15Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Velvet_Flame_perfume_by_VR7_fragrance.png?v=1771393683
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Velvet_Flame_perfume_by_VR7_fragrance.png?v=1771957811
   Price: ₹749.00 INR
-- [Morning Star Extrait | VR7 Fragrance](https://vr7fragrance.in/products/morning-star-extrait-de-parfum-vr7-fragrance): Experience the ultra-fresh, aquatic breeze of Morning Star by VR7. Perfect for any occasion. Elevate your scent game today!
-  Updated: 2026-02-18T18:34:18Z
+- [Morning star | Extrait de parfum | VR7 Fragrance](https://vr7fragrance.in/products/morning-star-extrait-de-parfum-vr7-fragrance): Experience the ultra-fresh, aquatic breeze of Morning Star by VR7. Perfect for any occasion. Elevate your scent game today!
+  Updated: 2026-02-25T05:02:45Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Morning_Star_perfume_by_VR7_fragrance.png?v=1771393596
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Morning_Star_perfume_by_VR7_fragrance.png?v=1771957804
   Price: ₹749.00 INR
 - [VR7 Fragrance Discovery Set - 5 Premium Scents](https://vr7fragrance.in/products/discovery-set-by-vr7-fragrance): Explore VR7's signature perfumes with this 5-piece set. Perfect for travel and gifting. Try before you buy full bottles. Order today!
-  Updated: 2026-02-18T18:37:28Z
+  Updated: 2026-02-24T18:30:05Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_discovery_set.png?v=1771396639
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_discovery_set.png?v=1771957804
   Price: ₹499.00 INR
 - [Metallic by VR7 Fragrance | Smoky Incense & Resin Perfume](https://vr7fragrance.in/products/metallic-by-vr7-fragrance): Metallic by VR7 Fragrance is a bold, smoky, and long-lasting incense-rich perfume with resinous depth, crafted for powerful and confident wear.
-  Updated: 2026-02-18T18:00:45Z
+  Updated: 2026-02-25T05:14:07Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Metallic_perfume_by_VR7_fragrance.png?v=1771393532
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Metallic_perfume_by_VR7_fragrance.png?v=1771957801
   Price: ₹749.00 INR
 - [#-Tag by VR7 Fragrance | Dark & Smoky Perfume](https://vr7fragrance.in/products/tag-by-vr7-fragrance): #-Tag by VR7 Fragrance is a bold, dark, and long-lasting  perfume with smoky and resinous depth, crafted for niche fragrance lovers.
-  Updated: 2026-02-18T17:59:25Z
+  Updated: 2026-02-25T05:08:57Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Tag_perfume_by_VR7_fragrance.png?v=1771393452
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Tag_perfume_by_VR7_fragrance.png?v=1771957789
   Price: ₹799.00 INR
 - [Dubai Nights by VR7 Fragrance | Sweet Tonka & Amber Perfume](https://vr7fragrance.in/products/dubai-nights-by-vr7-fragrance): Dubai Nights by VR7 Fragrance is a rich, sweet, and long-lasting perfume featuring warm amber and smooth tonka notes, perfect for night and winter wear.
-  Updated: 2026-02-18T17:57:51Z
+  Updated: 2026-02-25T04:55:43Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Dubai_Nights_perfume_by_VR7_fragrance.png?v=1771393367
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Dubai_Nights_perfume_by_VR7_fragrance.png?v=1771957785
   Price: ₹799.00 INR
 - [ULTRA FRESH BY VR7 Fragrance Extrait de parfum](https://vr7fragrance.in/products/ultra-fresh-by-vr7-fragrance): Experience Ultra Fresh by VR7 Fragrance – a crisp, clean, and long-lasting fresh perfume for men, perfect for daily wear, office, and summer days.
-  Updated: 2026-02-18T18:26:54Z
+  Updated: 2026-02-26T03:15:25Z
   Vendor: VR7 Fragrance
   Product Type: Extrait de parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Ultra_fresh_perfume_by_VR7_fragrance.png?v=1771393300
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Ultra_fresh_perfume_by_VR7_fragrance.png?v=1771957784
   Price: ₹749.00 INR
 
 ## Collections
 
 - [Discover VR7 Fragrance Fresh Collection](https://vr7fragrance.in/collections/fresh-collection-by-vr7fragrance): Experience vibrant, long-lasting scents with VR7's Fresh Collection—perfect for every day. Energize your senses and explore now!
-  Updated: 2026-02-18T18:40:03Z
+  Updated: 2026-02-26T12:22:30Z
   Total Products: 2
 - [Intense Collection by VR7 Fragrance](https://vr7fragrance.in/collections/intense-collection-by-vr7fragrance): Explore bold, long-lasting scents with VR7's Intense Collection. Perfect for evening elegance. Discover your unforgettable aroma today.
-  Updated: 2026-02-18T18:38:02Z
+  Updated: 2026-02-22T18:42:24Z
   Total Products: 3
 - [Discover VR7's Spicy Fragrance Collection](https://vr7fragrance.in/collections/spicy-collection-by-vr7fragrance): Unleash your bold side with VR7's spicy perfumes. Perfect for special occasions, these scents blend exotic spices and smoky woods. Explore now!
-  Updated: 2026-02-18T18:39:25Z
+  Updated: 2026-02-22T18:41:55Z
   Total Products: 2
 - [Gourmand Collection by VR7 Fragrance](https://vr7fragrance.in/collections/gourmand-collection-vr7fragrance): Indulge in VR7's Gourmand Collection—luxurious, sweet scents that embrace vanilla, caramel, and spices. Discover your signature fragrance today.
-  Updated: 2026-02-18T18:38:43Z
+  Updated: 2026-02-22T18:41:21Z
   Total Products: 1
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Discover the Latest arrivals by VR7 Fragrance. Explore unique scents that elevate your fragrance collection today!
-  Updated: 2026-02-14T06:21:02Z
+  Updated: 2026-02-26T12:22:30Z
   Total Products: 9
 - [men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Men's collection by VR7 Fragrance features exquisite fragrances tailored for the modern man. Discover your signature scent today!
-  Updated: 2026-02-14T06:21:02Z
+  Updated: 2026-02-26T12:22:30Z
   Total Products: 8
-- [Unisex collection by VR7 Fragrance](https://vr7fragrance.in/collections/unisex-collection-by-vr7fragrance): Discover the Unisex collection by VR7 Fragrance, featuring unique scents that cater to everyone. Shop now!
-  Updated: 2026-02-14T06:20:22Z
+- [Unisex collection by VR7 Fragrance | Unique Scents for All](https://vr7fragrance.in/collections/unisex-collection-by-vr7fragrance): Discover the Unisex collection by VR7 Fragrance, featuring unique scents that cater to everyone. Shop now!
+  Updated: 2026-02-26T12:22:30Z
   Total Products: 5
 - [Discovery Sets by BY VR7 Fragrance](https://vr7fragrance.in/collections/discovery-sets-by-vr7-fragrance): Discovery Set by VR7 Fragrance  includes 5 premium 5 ml perfumes, perfect for exploring different scent styles before choosing a full-size fragrance.
   Updated: 2026-02-18T08:41:08Z
@@ -120,6 +120,10 @@
     Updated: 2026-02-07T16:45:25Z
     Author: Vivek Rajput
     Tags: luxury fragrance in India extrait de parfum India VR7Fragrance House premium extrait perfume long lasting luxury perfume, niche perfume brand India high concentration perfume luxury Indian perfume brand extrait vs eau de parfum premium perfume India long lasting perfume for Indian climate niche luxury fragrance extrait perfume brand India
+  - [Best Long Lasting Perfumes for Men in India 2026 Edition](https://vr7fragrance.in/blogs/latest-news-updates/best-long-lasting-perfumes-for-men-in-india-2026): Best Long Lasting Perfumes for Men in India 2026 Edition
+    Updated: 2026-02-22T19:33:44Z
+    Author: Vivek Rajput
+    Tags: indian perfume brand luxury perfume brand india niche perfume india mens fragrance brand extrait de parfum india long lasting perfume for men masculine fragrance brand premium indian perfumes signature scent for men bold masculine perfume
 
 ## Store Pages
 
