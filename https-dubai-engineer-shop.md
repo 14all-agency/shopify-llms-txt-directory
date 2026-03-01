@@ -6,12 +6,12 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-09-29T07:56:22Z
 - Contact Email: ahmednoureldinewiss@gmail.com
-- Updated At: 2026-02-21T00:00:35.204Z
+- Updated At: 2026-03-01T00:00:40.269Z
 
 ## Products
 
 - [11- D.M G+1 and G+4 Past  Exams Questions & Answers](https://dubai-engineer.shop/products/g): This ebook has past exam questions and answers for the G+1 and G+4 exam for civil engineers. It contains 60 past questions and answers to pass the Dubai Municipality Exams and acquire the required qualifications. This ebook includes a comprehensive collection of past exam questions and detailed answers specifically tailored for engineers preparing for the G+1 and G+4 certification exams. The content is designed to closely reflect the actual exam format, providing you with a valuable resource to thoroughly understand the types of questions you will encounter and how to approach them effectively. Whether you’re focusing on foundational concepts for G+1 or advanced topics for G+4, this e-book will help you prepare with confidence and achieve success.
-  Updated: 2025-09-17T05:05:06Z
+  Updated: 2026-02-23T20:37:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/CONS_1.png?v=1734180435
   Price: AED 68.50 AED
 - [16- Architect MCQ Questions from past D.M exams](https://dubai-engineer.shop/products/7-architect-mcq-questions-from-past-d-m-exams): Questions and Answers for architects who are preparing to appear for the Dubai Municipality certification exams. Includes 50 questions and answers for all levels and categories of the Architect Exams.
-  Updated: 2026-02-04T09:51:20Z
+  Updated: 2026-02-26T02:45:52Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/architect_dbc.png?v=1764573252
   Price: AED 74.50 AED
 - [D.M. Contractor e - Book bundle for Dubai Municipality Exams G+1 G+4 G+12 and G+ Unlimited](https://dubai-engineer.shop/products/d-m-contractor-e-book-bundle): The ultimate bundle e-Books for the civil engineering contractors on Dubai to prepare their staff for passing the D.M qualifications exams for G+1, G+4, G+12, and G+ Unlimited
-  Updated: 2026-02-16T07:03:01Z
+  Updated: 2026-02-23T20:37:57Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/CIVIL_exam-BUNDLE.png?v=1734181494
   Price: AED 87.50 AED
 - [Architect Bundle for Dubai Municipality Exams](https://dubai-engineer.shop/products/architect-bundle): 1- Architectural exam preparation notes from the Dubai Building Code. Architectural Notes as a perfect preparation for the Architectural Design , Dubai Municipality Exam. It is a great resource, and quick concise notes, for the last minute review before you attend your Dubai Municipality Exam, for DEQ system certification. 2- Questions and Answers for architects who are preparing to appear for the Dubai Municipality certification exams. Includes 50 questions and answers for all levels and categories of the Architect Exams.
-  Updated: 2026-02-04T09:51:23Z
+  Updated: 2026-02-26T02:45:59Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -88,21 +88,21 @@
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/G_4_G_12Design.png?v=1741546020
   Price: AED 73.95 AED
 - [Dubai Municipality Building Maintenance Exam Preparation  - Volume 1](https://dubai-engineer.shop/products/dubai-municipality-building-maintenance-exam-preparation-volume-1): Dubai Municipality Building Maintenance Exam Preparation Multiple Choice Questions and Answers Volume 1 Q1 to Q31 to prepare for the building maintenance exam of Dubai municipality to certify professionals and engineers working in the building maintenance industry in Dubai and the United Arab Emirates
-  Updated: 2025-12-07T19:32:58Z
+  Updated: 2026-02-21T00:46:28Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/dm-maintenance.png?v=1745172500
   Price: AED 59.95 AED
 - [Dubai Municipality Building Maintenance Exam Preparation - Volume 2](https://dubai-engineer.shop/products/dubai-municipality-building-maintenance-exam-preparation-volume-2): Dubai Municipality Building Maintenance Exam Preparation Multiple Choice Questions and Answers Volume 2 Q31 to Q60 to prepare for the building maintenance exam of Dubai municipality to certify professionals and engineers working in the building maintenance industry in Dubai and the United Arab Emirates
-  Updated: 2025-12-07T19:32:42Z
+  Updated: 2026-02-21T00:46:33Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/9791/1080/files/v2dm-maintenance.png?v=1745697442
   Price: AED 59.85 AED
 - [The Building Maintenance Bundle](https://dubai-engineer.shop/products/the-building-maintenance-bundle-1)
-  Updated: 2026-02-09T06:22:45Z
+  Updated: 2026-02-21T00:46:43Z
   Vendor: Dubai Engineer shop
   Product Type: 
   Availability: Available
@@ -711,7 +711,7 @@
 ## Collections
 
 - [Home page](https://dubai-engineer.shop/collections/frontpage): An ultimate online shop of media and resources meant for👷Engineers in Dubai🌴to help them acquire the required qualifications from the Dubai Municipality by passing the D.E.Q Dubai Engineer Qualification exams. In addition to top  engineering supplies, blueprint storage products, drafting supplies, land surveying equipment, measuring tools, industrial equipment. متجر إلكتروني شامل للوسائط والموارد المخصصة للمهندسين في دبي لمساعدتهمفي الحصول على المؤهلات المطلوبة من بلدية دبي من خلال اجتياز امتحاناتتأهيل مهندسي دبي D.E.Q. بالإضافة إلى أفضل اللوازم الهندسية مبيعًا، ومنتجات تخزين المخططات، ولوازم الرسم، ومعدات مسح الأراضي،وأدوات القياس، والمعدات الصناعية.
-  Updated: 2026-02-16T12:20:30Z
+  Updated: 2026-02-26T12:27:34Z
   Total Products: 20
 - [Courses](https://dubai-engineer.shop/collections/courses)
   Updated: 2025-06-06T13:06:16Z
@@ -720,7 +720,7 @@
   Updated: 2026-01-05T12:21:09Z
   Total Products: 1
 - [Best  Engineering Products. Dubai-UAE, Turkey, Middle East and North Africa](https://dubai-engineer.shop/collections/best-): We  the best engineering supplies, blueprint storage products, drafting supplies, land surveying equipment, measuring tools, industrial equipment and engineering books in Dubai - UAE, GCC, Middle East, Turkey and North Africa
-  Updated: 2026-02-16T12:20:30Z
+  Updated: 2026-02-26T12:27:34Z
   Total Products: 26
 - [CV Writing, Job search,  and Career Growth in Dubai](https://dubai-engineer.shop/collections/cv-writing-job-search-and-career-growth-in-dubai): E-Books to help you on your career growth and job search in Dubai. Find your best job search solutions in Dubai and the Gulf states. How to excel in job search, how to succeed getting more job interviews, enhance your career in your company
   Updated: 2026-01-23T18:37:03Z
