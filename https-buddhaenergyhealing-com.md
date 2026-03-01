@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2024-12-21T08:18:43Z
 - Contact Email: info@buddhaenergyhealing.com
-- Updated At: 2026-02-22T00:00:37.426Z
+- Updated At: 2026-03-01T00:00:39.600Z
 
 ## Products
 
@@ -183,7 +183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/natural-citrine-money-drawing-and-luck-changing-crystal-bracelet-380261.jpg?v=1748101143
     Price: $189.87 USD
 - [Tibetan Nine-Eyed Sky Bead Healing Energy Necklace | Healing Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/tibetan-nine-eyed-sky-bead-necklace): Discover Tibetan Nine-Eyed Sky Bead Healing Energy Necklace, Healing Energy . Starting at only $158.58 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:17:50Z
+  Updated: 2026-02-22T06:23:26Z
   Vendor: BuddhaEnergyHealing
   Product Type: Healing Energy
   Availability: Available
@@ -1341,7 +1341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/premium-wooden-zen-tuning-music-wind-chime-hanging-meditation-calm-energy-ornament-748291.jpg?v=1748101136
     Price: $98.05 USD
 - [Copper Gourd Pendant with Dragon Head Symbol of Protection Health Wellness | Protection Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/copper-gourd-with-dragon-head-open-pendant-pure-copper-gourd-ornament-hollow-five-emperor-coins-wenwan-hulu-craft): Discover Copper Gourd Pendant with Dragon Head Symbol of Protection Health Wellness, Protection Energy . Starting at only $171.52 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:18:09Z
+  Updated: 2026-02-25T01:54:40Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -1863,7 +1863,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/tibetan-style-dzi-bead-lucky-energy-earrings-742860.jpg?v=1748101035
     Price: $78.72 USD
 - [Tibetan Cinnabar Dzi Bead Suit Protection Energy | Protection Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/tibetan-cinnabar-dzi-bead-suit): Discover Tibetan Cinnabar Dzi Bead Suit Protection Energy, Protection Energy . Starting at only $63.53 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:18:15Z
+  Updated: 2026-02-22T06:08:45Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -6072,7 +6072,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/natural-citrine-column-wealth-ornaments-790862.jpg?v=1748100888
     Price: $42.61 USD
 - [Tibetan Natural Pigment Pure Hand-painted Thangka Meditation Pendant | Meditation Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/tibet-hand-painted-thangka-pendant-zachilam-vairocana-puxian-manshu-zodiac-natal-buddha-brand-five-gods-of-wealth): Discover Tibetan Natural Pigment Pure Hand-painted Thangka Meditation Pendant, Meditation Energy . Starting at only $2,203.59 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:19:16Z
+  Updated: 2026-02-23T00:07:15Z
   Vendor: BuddhaEnergyHealing
   Product Type: Meditation Energy
   Availability: Available
@@ -6669,7 +6669,7 @@
   Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/zisha-backflow-calm-meditation-incense-burner-741982.jpg?v=1748100839
   Price: $50.91 USD
 - [Tibetan Golden Wing Dapeng Bird Ring Protection Energy | Protection Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/golden-wing-dapeng-bird-ring): Discover Tibetan Golden Wing Dapeng Bird Ring Protection Energy, Protection Energy . Starting at only $25.89 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:19:31Z
+  Updated: 2026-02-28T23:21:18Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -6727,7 +6727,7 @@
   Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/natural-old-amber-healing-pendant-432229.jpg?v=1748100851
   Price: $86.07 USD
 - [Retro Palm Buddha Titanium Steel Protection Peace Necklace | Protection Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/retro-palm-buddha-titanium-steel-necklace): Discover Retro Palm Buddha Titanium Steel Protection Peace Necklace, Protection Energy . Starting at only $42.30 from BuddhaEnergyHealing.
-  Updated: 2026-01-04T05:49:35Z
+  Updated: 2026-02-24T16:11:48Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -6745,7 +6745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/retro-palm-buddha-titanium-steel-protection-peace-necklace-641853.webp?v=1748100872
     Price: $42.30 USD
 - [Solid Copper Wealth Buddha Wealth Lucky Protection Ornament | Wealth Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/solid-copper-wealth-buddha-ornament): Discover Solid Copper Wealth Buddha Wealth Lucky Protection Ornament, Wealth Energy . Starting at only $98.82 from BuddhaEnergyHealing.
-  Updated: 2026-01-17T22:09:01Z
+  Updated: 2026-02-24T16:11:48Z
   Vendor: BuddhaEnergyHealing
   Product Type: Wealth Energy
   Availability: Available
@@ -6961,7 +6961,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/tibetan-thangka-five-gods-of-wealth-mahakala-pendant-948633.jpg?v=1748100888
     Price: $40.14 USD
 - [Handmade Labradorite Pendant | Protection Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/handmade-labradorite-pendant): Discover Handmade Labradorite Pendant, Protection Energy . Starting at only $38.90 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:19:43Z
+  Updated: 2026-02-22T07:40:03Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -7639,7 +7639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/natural-yellow-crystal-cluster-wealth-pendant-381755.jpg?v=1748362071
     Price: $29.59 USD
 - [Pterocarpus Santalinus Gaomi Venus Old Red Sandalwood Beads Calm Bracelet | Calm Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/products/pterocarpus-santalinus-gaomi-venus-old-red-sandalwood-beads-bracelet): Discover Pterocarpus Santalinus Gaomi Venus Old Red Sandalwood Beads Calm Bracelet, Calm Energy . Starting at only $34.20 from BuddhaEnergyHealing.
-  Updated: 2025-06-06T15:17:45Z
+  Updated: 2026-02-27T13:28:15Z
   Vendor: BuddhaEnergyHealing
   Product Type: Calm Energy
   Availability: Available
@@ -8392,7 +8392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/bd49a57b_ce65cea6-cdc3-4d27-8548-447422beb4bb.jpg?v=1769172292
     Price: $55.56 USD
 - [Natural Garnet Triple-Strand Bracelet](https://buddhaenergyhealing.com/products/natural-three-circle-garnet-bracelet): Natural garnet triple-strand bracelet featuring deep red crystal beads, symbolizing love, balance, and elegant everyday energy.
-  Updated: 2026-02-14T03:07:12Z
+  Updated: 2026-02-24T16:11:52Z
   Vendor: BuddhaEnergyHealing
   Product Type: Love Energy
   Availability: Available
@@ -8430,7 +8430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/31990be7_69069113-ee55-4f7e-9dcb-6e79e1319fad.jpg?v=1769938085
     Price: $61.99 USD
 - [Ash-Glazed Vajra-Inspired Bracelet](https://buddhaenergyhealing.com/products/colorful-ash-glazed-vajra-mace-style-bracelet): Colorful ash-glazed Vajra-inspired bracelet featuring unique ceramic-style beads, symbolizing strength, stability, and cultural elegance for everyday wear.
-  Updated: 2026-02-19T03:01:18Z
+  Updated: 2026-02-24T16:11:57Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -8448,7 +8448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/4a37ba66_b2b0ca3b-2637-482b-8523-1fe8a88844e7.png?v=1769938876
     Price: $37.54 USD
 - [18-Bead Bodhi Seed Phone Charm Bracelet](https://buddhaenergyhealing.com/products/eighteen-seeds-bodhi-bracelet-mobile-phone-pendant): 18-bead Bodhi seed phone charm bracelet made from natural seeds, symbolizing mindfulness and balance, perfect as a meaningful accessory for daily use.
-  Updated: 2026-02-19T02:56:12Z
+  Updated: 2026-02-24T16:11:58Z
   Vendor: BuddhaEnergyHealing
   Product Type: Calm Energy
   Availability: Available
@@ -8474,7 +8474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/a4d92b27_a00e3d7a-a4a7-4f5d-b7aa-e3ce12e593f0.jpg?v=1769939833
     Price: $63.14 USD
 - [Cinnabar Thousand-Hand Guanyin & Samantabhadra Pendant](https://buddhaenergyhealing.com/products/cinnabar-thousand-hand-guanyin-samantabhadra-pendant): Cinnabar pendant featuring Thousand-Hand Guanyin and Samantabhadra, symbolizing compassion, wisdom, and mindful protection in Buddhist tradition
-  Updated: 2026-02-02T12:39:49Z
+  Updated: 2026-02-24T16:12:06Z
   Vendor: BuddhaEnergyHealing
   Product Type: Protection Energy
   Availability: Available
@@ -8552,13 +8552,13 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/b9394cff_0a0d0bda-d390-4c61-af37-5e2f736d3d28.jpg?v=1769953896
     Price: $77.52 USD
 - [Golden Silk Jade Pixiu & Gourd Bracelet](https://buddhaenergyhealing.com/products/natural-pixiu-gourd-pumpkin-golden-silk-jade-bracelet): Golden Silk Jade bracelet featuring Pixiu and gourd carvings, symbolizing prosperity, protection, and harmony in traditional cultural design.
-  Updated: 2026-02-19T14:46:12Z
+  Updated: 2026-02-24T16:12:06Z
   Vendor: BuddhaEnergyHealing
   Product Type: Wealth Energy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/d05f9467_5015a17e-3ec6-4a32-a4dd-59600dc950cc.jpg?v=1771403263
   - [Pumpkin Bead Bamboo Section Hanging Gourd](https://buddhaenergyhealing.com/products/natural-pixiu-gourd-pumpkin-golden-silk-jade-bracelet?variant=42471505428574)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/d05f9467_5015a17e-3ec6-4a32-a4dd-59600dc950cc.jpg?v=1771403263
     Price: $33.04 USD
   - [Pumpkin Bead Bamboo Joint Hanging Pixiu](https://buddhaenergyhealing.com/products/natural-pixiu-gourd-pumpkin-golden-silk-jade-bracelet?variant=42471505461342)
@@ -8618,7 +8618,7 @@
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/e429c4c1_9edf2778-e90e-42e4-bf16-e63ce34de483.jpg?v=1771403263
     Price: $37.63 USD
 - [Handmade Natural Shell Bell Bag Charm](https://buddhaenergyhealing.com/products/handmade-fruit-shell-bell-bag-pendant-decoration): Handmade natural shell bell bag charm featuring organic materials and a soft decorative chime, perfect for bags, keys, or personal accessories.
-  Updated: 2026-02-19T17:03:40Z
+  Updated: 2026-02-24T16:12:01Z
   Vendor: BuddhaEnergyHealing
   Product Type: Safety Energy
   Availability: Available
@@ -8667,7 +8667,234 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/b64195b3_a9a84c9a-3651-4199-80d7-56207fc4c0c3.jpg?v=1771407708
     Price: $39.94 USD
-[List Continued](https://buddhaenergyhealing.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTczODU5NzYyMjcwLCJsYXN0X3ZhbHVlIjoiNzU3Mzg1OTc2MjI3MCJ9)
+- [Colorful Natural Stone Beaded Bracelet](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet): Colorful natural stone bracelet inspired by vibrant dopamine-style tones, featuring polished multicolor beads for joyful everyday wear.
+  Updated: 2026-02-24T16:12:03Z
+  Vendor: BuddhaEnergyHealing
+  Product Type: Lucky Energy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/81de8a08_e8ca8460-375f-4486-a1e6-d67c6421e186.jpg?v=1771841176
+  - [Moonlight White Multi-Gem Gold Diamond Bracelet (White Mother-of-Pearl Style)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927722078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/7418cc23_2ac4052d-92f6-4325-b1cc-3ce4e0dc06f2.jpg?v=1771841176
+    Price: $75.26 USD
+  - [Emerald Multi-Gem Gold Diamond Bracelet (Jadeite Dry Green Style)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927820382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/6458cdb7_7eb42f03-5b1f-412b-8158-682901b6fe3c.jpg?v=1771841176
+    Price: $75.26 USD
+  - [Purple Ding Fortune Gold Diamond Bracelet (Amethyst Version)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927853150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/5f0ad0b9_bf521837-847a-42ab-acc8-13675d1dbc5d.jpg?v=1771841176
+    Price: $114.34 USD
+  - [Small Green Lemon Gold Diamond Bracelet (Green Agate Style)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927885918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/05043e6b_b5d836ac-4496-4358-b06d-808f6250ab61.jpg?v=1771841176
+    Price: $49.35 USD
+  - [Heartbeat Gold Diamond Bracelet (Strawberry Quartz Style)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927918686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/38ce2056_6065334a-69ad-492f-a0ec-ec67f981d1a5.jpg?v=1771841176
+    Price: $75.26 USD
+  - [Jade Pot Ice Heart Gold Diamond Bracelet (White Crystal Model)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927951454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/ad83b86e_f95260bf-ec55-4c8d-8f74-f080451eb981.jpg?v=1771841175
+    Price: $75.26 USD
+  - [Black Gold Multi-Gemstone Gold Diamond Bracelet (Black Onyx Style)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479927984222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/cd2b12df_b2e618c9-40b9-4bdd-8d7e-293479572d9e.jpg?v=1771841176
+    Price: $49.35 USD
+  - [Red Multi-Gem Gold Diamond Bracelet (Red Agate Imitation Southern Red Style)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479928016990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/6caf2276_b620e3bf-0c87-4c1c-8d34-2efad5c21ac0.jpg?v=1771841176
+    Price: $75.26 USD
+  - [Half-Life Smoke Purple Multi-Gem Gold Diamond Bracelet (Smoke Purple Agate)](https://buddhaenergyhealing.com/products/natural-dopamine-natural-stone-bracelet?variant=42479928049758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/69b9081f_21ae925a-7c55-4bf8-b1ef-905ddada6dc7.jpg?v=1771841177
+    Price: $49.35 USD
+- [Traditional Chinese Fragrance Bead Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet): Traditional Chinese fragrance bead bracelet made from aromatic materials, offering a subtle natural scent and elegant cultural design for everyday wear.
+  Updated: 2026-02-26T00:35:09Z
+  Vendor: BuddhaEnergyHealing
+  Product Type: Calm Energy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/3c888477_0a4db34d-93a2-49d6-b1c8-71ee49f4a06e.png?v=1771846783
+  - [8MM Rose Scented Bead Heart Strawberry Bear Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987621982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/7db50629_7edda1b7-e67b-418a-9456-d34fa40e9268.png?v=1771846784
+    Price: $58.33 USD
+  - [8MM Rose Incense Beads, Agate Facets, White Crystal Inlaid with Shangui Money Coin Double Circle Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987654750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/82ed1934_e29bfa1b-858a-49cc-82bb-bd204705b123.png?v=1771846783
+    Price: $88.29 USD
+  - [10MM Black Dragon Amber Fragrance Bead Silver Plated Zircon Bead Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987687518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/6aa77b9d_5111475b-4e6e-407f-9f63-824ded65ec2c.png?v=1771846783
+    Price: $88.29 USD
+  - [12MM Black Dragon Agate Incense Bead Tiger Eye Stone Lion Awakening Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987720286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/d713e588_6963f6f5-969b-46e1-bfb6-e8a9946093dd.png?v=1771846783
+    Price: $71.35 USD
+  - [12MM Fragrant Bead Pinecone Wealth-Attracting Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987753054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/1d089bea_bc7ebc09-e90b-4407-96fc-714f64317f77.png?v=1771846783
+    Price: $75.41 USD
+  - [15MM Scented Bead Yellow Crystal Cube Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987785822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/e4542d13_dc8b924a-afc9-44af-bfa7-4324cee4ecca.png?v=1771846783
+    Price: $62.38 USD
+  - [8MM Fragrant Bead Bracelet with Gardenia Scent for Good Fortune](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987818590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/4012073a_d639dc6d-b362-4e3f-91a3-81b07d509228.png?v=1771846782
+    Price: $36.18 USD
+  - [8MM Goose Pear Fragrance Enamel Pearl Vajra Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987851358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/33be2a71_3520e95e-c8f2-4b8d-8dcd-ce8647efa0a2.png?v=1771846783
+    Price: $36.18 USD
+  - [10MM Goose Pear Fragrance Bead Red Agate Strawberry Crystal Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987884126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/7787cc5d_2b052c2f-027a-4d67-8cef-13cd44e45a27.png?v=1771846783
+    Price: $36.18 USD
+  - [10MM Goose Pear Fragrance Beads with White Amethyst, Flower Amber, and Lily of the Valley Bracelet](https://buddhaenergyhealing.com/products/traditional-chinese-herbal-fragrance-bead-bracelet?variant=42479987916894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/e9549d4d_ff0f66a2-02b4-45a6-b0f2-3a65baf5e4f1.png?v=1771846783
+    Price: $49.21 USD
+- [Gold-Painted Taoist Cinnabar Thangka](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka): Gold-painted Taoist cinnabar thangka featuring traditional Eastern religious art, combining rich red tones and gold detailing for elegant wall display.
+  Updated: 2026-02-25T14:49:12Z
+  Vendor: BuddhaEnergyHealing
+  Product Type: Protection Energy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/4152f18f_b8ff9cf1-e8f6-4019-9689-5291134a0758.jpg?v=1771927891
+  - [Zhong Hui](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482092933214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/ede1d14a_06648db7-e224-4405-9ec1-6cc77d99c0fb.png?v=1771927892
+    Price: $41.85 USD
+  - [Taitse Kukushien Bodhisattva](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482092998750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/b14e74d3_3f12e733-ad93-456e-b94c-9ed36045a073.png?v=1771927892
+    Price: $41.85 USD
+  - [Zhang Tianshi](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093031518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/3cbce21f_cb88e9b2-c0eb-4375-980e-6089be6ea0fd.png?v=1771927893
+    Price: $41.85 USD
+  - [Ci Hang, a real person](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093064286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/882f100f_b8822dee-fec3-4738-80a8-7cefec35e11e.png?v=1771927893
+    Price: $41.85 USD
+  - [Queen Xiwangmu](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093097054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/641bd3d6_3eff04a3-0089-4c5a-a7a3-893e6a936d97.png?v=1771927892
+    Price: $41.85 USD
+  - [Emperor Zhenwu](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093129822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/0cf0f950_74e36213-803f-451e-be06-bc438e0fafc7.png?v=1771927891
+    Price: $41.85 USD
+  - [Lingguan](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093162590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/c4fdec9c_80be2814-27f7-46ef-b72a-3ec1206ed6be.png?v=1771927891
+    Price: $41.85 USD
+  - [Xuandi's Magic Talisman for Subduing Demons](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093195358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/4212c893_252398ae-fd3a-4371-8401-377aa505dc5d.png?v=1771927892
+    Price: $41.85 USD
+  - [Hundred-Effect Amulet for Eliminating Disasters](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093228126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/8ebfc851_c707d305-7bd0-4bb6-81d5-c08bfed1b706.png?v=1771927892
+    Price: $41.85 USD
+  - [Longevity Gourd](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093260894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/9a1fd7e5_42945d1e-2ea0-412c-97a6-e6ee9610acf7.png?v=1771927892
+    Price: $41.85 USD
+  - [Zhao Gongming's Fortune Talisman](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093293662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/7f906e95_5c080fdb-1866-4350-848c-36840f2a7db8.png?v=1771927891
+    Price: $41.85 USD
+  - [Symbol](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093326430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/fc3e16d7_ec757d99-45c9-4e12-a003-c47d296a08e6.png?v=1771927892
+    Price: $41.85 USD
+  - [Emperor Huaguang](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093359198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/5a77122f_070a6465-8616-4478-81c3-06fc25d9c605.png?v=1771927892
+    Price: $41.85 USD
+  - [Qingyuan Miaodao Zhenjun](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093391966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/bc416582_030dec57-3f29-4e23-aa19-955e570f0302.png?v=1771927892
+    Price: $41.85 USD
+  - [Leizu](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093424734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/a78afc52_c1a655b4-f5ed-459a-bced-77d702f45bce.png?v=1771927892
+    Price: $41.85 USD
+  - [Lord guan the second](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093457502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/5c0f32f8_10a8ab47-c31b-4ba6-b741-cfbc8a0517f1.png?v=1771927892
+    Price: $41.85 USD
+  - [Marquis of Horse Kingdom](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093490270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/a9d569b7_8f3da437-9c61-4718-85b6-1f77a9614fd2.png?v=1771927892
+    Price: $41.85 USD
+  - [Primordial Heavenly Sovereign](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093523038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/29d5c069_cc42c8ce-dd3a-48ea-8dd5-2d7b92e95b90.png?v=1771927892
+    Price: $41.85 USD
+  - [Lu Zu](https://buddhaenergyhealing.com/products/taoist-cinnabar-gold-painted-thangka?variant=42482093555806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/5c906e06_c03a54be-be65-41cc-8e2a-e7ed90abcf95.png?v=1771927892
+    Price: $41.85 USD
+- [Taoist Ancient Coin Pendant](https://buddhaenergyhealing.com/products/taoist-old-money-pendant): Taoist ancient coin pendant inspired by traditional Chinese cash coins, symbolizing prosperity, protection, and balance in a timeless cultural design.
+  Updated: 2026-02-25T15:49:04Z
+  Vendor: BuddhaEnergyHealing
+  Product Type: Protection Energy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/923f9424_362c7dd3-9c68-4dba-9d52-8a50db002a11.jpg?v=1771928354
+  - [Ancient Coin Mountain Ghost Money Pendant](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094080094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/4de89a0e_6907290d-5137-42e2-bc8f-1fedbd31ff49.jpg?v=1771928353
+    Price: $43.16 USD
+  - [Silver protective case with Shanggui copper coins](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094112862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/d3a9e39a_09ca2e3c-f157-4860-8194-c781f925136c.jpg?v=1771928353
+    Price: $43.16 USD
+  - [Full Sand Mountain Ghost Copper Coin](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094145630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/0c5cc3de_6bf1a2d3-f9cf-4473-9611-3d5084451965.jpg?v=1771928354
+    Price: $44.47 USD
+  - [Silver protective case - Blessings from the Celestial Official](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094178398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/99824c95_24c41d4e-4a8a-4997-9b25-c769d4fe7b44.jpg?v=1771928353
+    Price: $43.16 USD
+  - [Classic Shanggui Cinnabar Copper Coin](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094211166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/8d6918f9_cdfdffc8-98d4-46a3-a577-157dcdc7e49e.jpg?v=1771928353
+    Price: $44.47 USD
+  - [Ziwei avoids copper coins](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094243934)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/c0490195_1e8b0681-c81f-435d-9618-7d2bcd6f6da0.jpg?v=1771928354
+    Price: $43.16 USD
+  - [Golden Auspicious Cloud Protective Case](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094276702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/cd02ec16_f28a8533-cf22-45ae-a2df-fd40ab394b6f.jpg?v=1771928354
+    Price: $46.94 USD
+  - [Large square hole mountain ghost 52*3.2mm](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094309470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/4817f171_6b12f243-eb4c-4131-8bf5-e8127672a639.jpg?v=1771928353
+    Price: $36.62 USD
+  - [Large round hole mountain ghost 52*3.2mm](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094342238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/1684b7f0_bcc519ae-5483-4d9b-a90b-133fdc303b37.jpg?v=1771928353
+    Price: $36.62 USD
+  - [Realistic large-sized mountain ghost figure](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094375006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/77cc6939_eae34dc1-29f5-42f5-b4bc-47231d698723.jpg?v=1771928353
+    Price: $36.62 USD
+  - [Realistic large-sized mountain ghost with round holes](https://buddhaenergyhealing.com/products/taoist-old-money-pendant?variant=42482094407774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/9c4146e3_31cb4d7e-837a-4fb5-857d-d6fb62a59fcc.jpg?v=1771928353
+    Price: $36.62 USD
+- [Natural lightning-struck jujube wood golden seal amulet pendant](https://buddhaenergyhealing.com/products/natural-lightning-struck-jujube-wood-golden-seal-amulet-pendant): Natural jujube wood Taoist seal pendant featuring traditional carved design, symbolizing balance and cultural heritage in a minimalist style.
+  Updated: 2026-02-28T01:01:21Z
+  Vendor: BuddhaEnergyHealing
+  Product Type: Protection Energy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0595/6445/8078/files/321e50e5_05e104ef-defc-4293-889f-ab75d33b2688.png?v=1771945189
+  Price: $45.90 USD
+[List Continued](https://buddhaenergyhealing.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTc2NjQyNjgyOTc0LCJsYXN0X3ZhbHVlIjoiNzU3NjY0MjY4Mjk3NCJ9)
 
 ## Collections
 
@@ -8675,17 +8902,17 @@
   Updated: 2025-05-24T15:53:15Z
   Total Products: 0
 - [Jewelry - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/jewelry): Jewelry - BuddhaEnergyHealing
-  Updated: 2026-02-19T02:53:52Z
-  Total Products: 143
+  Updated: 2026-02-27T13:56:55Z
+  Total Products: 149
 - [Bracelets - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/bracelets): Bracelets - BuddhaEnergyHealing
-  Updated: 2026-02-19T02:53:52Z
-  Total Products: 90
+  Updated: 2026-02-27T13:56:55Z
+  Total Products: 93
 - [Rings - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/rings): Rings - BuddhaEnergyHealing
   Updated: 2025-09-06T09:24:08Z
   Total Products: 6
 - [Necklaces - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/necklaces): Necklaces - BuddhaEnergyHealing
-  Updated: 2026-02-11T12:20:48Z
-  Total Products: 50
+  Updated: 2026-02-27T13:16:56Z
+  Total Products: 53
 - [Crystal - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/crystal): Crystal - BuddhaEnergyHealing
   Updated: 2025-12-27T04:22:08Z
   Total Products: 26
@@ -8711,8 +8938,8 @@
   Updated: 2026-01-10T06:50:06Z
   Total Products: 3
 - [Gemstones - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/gemstones): Gemstones - BuddhaEnergyHealing
-  Updated: 2026-02-12T16:33:02Z
-  Total Products: 20
+  Updated: 2026-02-24T04:10:05Z
+  Total Products: 21
 - [Obsidian - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/obsidian): Obsidian - BuddhaEnergyHealing
   Updated: 2025-06-22T16:01:33Z
   Total Products: 7
@@ -8789,14 +9016,14 @@
   Updated: 2026-02-19T02:56:44Z
   Total Products: 7
 - [INTENTIONS - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/intentions): INTENTIONS - BuddhaEnergyHealing
-  Updated: 2026-02-19T03:35:15Z
-  Total Products: 208
+  Updated: 2026-02-27T13:56:55Z
+  Total Products: 214
 - [Healing Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/healing-energy): Healing Energy - BuddhaEnergyHealing
-  Updated: 2026-02-08T09:38:26Z
-  Total Products: 45
+  Updated: 2026-02-27T13:56:55Z
+  Total Products: 46
 - [Protection Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/protection-energy): Protection Energy - BuddhaEnergyHealing
-  Updated: 2026-02-19T02:53:52Z
-  Total Products: 118
+  Updated: 2026-02-27T13:56:55Z
+  Total Products: 122
 - [Love Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/love-energy): Love Energy - BuddhaEnergyHealing
   Updated: 2026-02-12T16:33:02Z
   Total Products: 9
@@ -8804,8 +9031,8 @@
   Updated: 2026-02-19T02:53:52Z
   Total Products: 54
 - [Calm Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/calm-energy): Calm Energy - BuddhaEnergyHealing
-  Updated: 2026-02-14T03:31:18Z
-  Total Products: 73
+  Updated: 2026-02-27T13:56:54Z
+  Total Products: 75
 - [Meditation Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/meditation-energy): Meditation Energy - BuddhaEnergyHealing
   Updated: 2026-02-08T09:38:26Z
   Total Products: 81
@@ -8813,8 +9040,8 @@
   Updated: 2025-12-14T15:50:38Z
   Total Products: 13
 - [Lucky Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/lucky-energy): Lucky Energy - BuddhaEnergyHealing
-  Updated: 2026-02-19T02:45:37Z
-  Total Products: 51
+  Updated: 2026-02-25T03:01:10Z
+  Total Products: 53
 - [TIBETAN - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/tibetan): TIBETAN - BuddhaEnergyHealing
   Updated: 2026-01-21T13:01:29Z
   Total Products: 51
@@ -8846,8 +9073,8 @@
   Updated: 2026-02-08T09:05:58Z
   Total Products: 6
 - [Feng Shui Decor - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/feng-shui-decor): Feng Shui Decor - BuddhaEnergyHealing
-  Updated: 2025-05-24T15:53:37Z
-  Total Products: 15
+  Updated: 2026-02-27T13:16:56Z
+  Total Products: 17
 - [Meditation and Zen Decor - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/meditation-and-zen-decor): Meditation and Zen Decor - BuddhaEnergyHealing
   Updated: 2025-05-24T15:53:38Z
   Total Products: 1
@@ -8882,8 +9109,8 @@
   Updated: 2026-02-19T02:53:52Z
   Total Products: 33
 - [Featured - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/featured): Featured - BuddhaEnergyHealing
-  Updated: 2026-02-19T02:53:52Z
-  Total Products: 35
+  Updated: 2026-02-27T13:16:56Z
+  Total Products: 37
 - [Top Rate - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/top-rate): Top Rate - BuddhaEnergyHealing
   Updated: 2026-02-19T02:45:37Z
   Total Products: 21
@@ -8894,8 +9121,8 @@
   Updated: 2026-02-11T12:20:48Z
   Total Products: 13
 - [Peace Energy - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/peace-energy): Peace Energy - BuddhaEnergyHealing
-  Updated: 2026-02-08T09:38:26Z
-  Total Products: 33
+  Updated: 2026-02-27T13:16:56Z
+  Total Products: 35
 - [Earrings - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/earrings): Earrings - BuddhaEnergyHealing
   Updated: 2025-05-24T15:53:54Z
   Total Products: 3
@@ -8903,8 +9130,8 @@
   Updated: 2026-02-19T03:35:15Z
   Total Products: 12
 - [AVADA - Best Sellers](https://buddhaenergyhealing.com/collections/avada-best-sellers)
-  Updated: 2026-02-19T03:35:15Z
-  Total Products: 227
+  Updated: 2026-02-27T13:56:55Z
+  Total Products: 235
 - [Malachite - BuddhaEnergyHealing](https://buddhaenergyhealing.com/collections/malachite): Malachite - BuddhaEnergyHealing
   Updated: 2025-05-24T15:53:55Z
   Total Products: 1
