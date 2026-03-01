@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-02-22T00:00:42.825Z
+- Updated At: 2026-03-01T00:00:48.435Z
 
 ## Products
 
@@ -422,8 +422,6 @@
   Price: 8,95 € EUR — 9,95 € EUR
 - [Haarbürste aus Holz für Kinder | jetzt bei Lotties kaufen!](https://www.lotties.de/products/kinder-haarburste-aus-holz): Haarbürste aus Holz für Kinder ✓ aus Birnbaumholz und weichen Naturborsten vom Schwein ✓ gewachstes Birnbaumholz mit weichen Naturborsten ✓ jetzt einkaufen!
   Price: 14,95 € EUR
-- [Haarbürste aus Holz für Babys | jetzt bei Lotties kaufen!](https://www.lotties.de/products/baby-haarburste-aus-holz): Haarbürste aus Holz für Babys ✓ aus Birnbaumholz mit sehr weichem Ziegenhaar ✓ für die Pflege von feinem Haar bei Neugeborenen ✓ Jetzt Kontakt aufnehmen!
-  Price: 15,95 € EUR
 - [BIO Matratze für Kinder | günstig bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/kinder-matratze-mit-kokoskern): BIO Matratze für Kinder ✓ atmungsaktiven Auflage sorgt für Hygiene ✓ Ausgesuchte natürliche Rohstoffe ✓ Bezug aus Bio Baumwolle ✓ jetzt Kontakt aufnehmen!
   Price: 164,95 € EUR — 184,95 € EUR
 - [Kapuzenjacke aus Bio Fleece | bei Lotties bestellen!](https://www.lotties.de/products/kinder-fleece-kapuzenjacke-rot-aus-baumwolle): Kapuzenjacke aus Bio Fleece ✓ Wenn es draußen kalt ist, darf diese Kapuzenjacke aus Baumwoll Fleece nicht fehlen ✓ 100% Bio Baumwolle ✓ jetzt Online bestellen!
@@ -450,8 +448,6 @@
   Price: 5,95 € EUR
 - [Bio Stilleinlagen 2-lagig aus Wolle und Bouretteseide | jetzt kaufen!](https://www.lotties.de/products/stilleinlagen-2-lagig-aus-wolle-und-bouretteseide): Bio Stilleinlagen 2-lagig aus Wolle und Bouretteseide ✓ paarweise ✓ 2-lagig ✓ angenehm kühlend und selbstheilend ✓ saugfähigere Stilleinlagen ✓ jetzt kaufen!
   Price: 7,95 € EUR
-- [Bio Stilleinlagen Cotton 3-lagig aus reiner Baumwolle | jetzt kaufen!](https://www.lotties.de/products/stilleinlagen-cotton-3-lagig-aus-reiner-baumwolle): Bio Stilleinlagen Cotton 3-lagig aus reiner Baumwolle ✓ paarweise ✓ 3-lagig ✓ 100 % kbA-Baumwoll-Flanell ✓ saugfähigere Stilleinlagen ✓ jetzt online kaufen!
-  Price: 4,95 € EUR
 - [Bienenwachsauflage (Wachsplatte) | bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/bienenwachsauflage-wachsplatte): Bienenwachsauflage (Wachsplatte) ✓ akuter und chronischer Bronchitis ✓ spastische Bronchitis ✓ Keuchhusten ✓ Abszessen ✓ Insektenstichen ✓ jetzt einkaufen!
   Price: 7,50 € EUR
 - [Bauch- und Brustwickel Set aus Bio Baumwolle | bei Lotties kaufen!](https://www.lotties.de/products/baby-bauch-und-brustwickel-set-aus-baumwolle): Bauch- und Brustwickel Set aus Bio Baumwolle ✓ Zur Anregung des Stoffwechsels ✓ auch bei Erkältungen ✓ vielfältige Verwendung ✓ weitere Informationen hier!
