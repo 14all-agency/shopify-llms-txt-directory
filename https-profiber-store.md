@@ -10,7 +10,7 @@
 - Contact Email: profiber@luxcare.at
 - Contact Phone: +4367761963138
 - Address: Telefunkenstrasse 18, 4840 Vöcklabruck
-- Updated At: 2026-02-21T20:32:39.828Z
+- Updated At: 2026-03-01T00:00:31.756Z
 
 ## Products
 
@@ -72,7 +72,7 @@
     Availability: Available
     Price: 79,90 € EUR
 - [CARBON Mikrofasertuch 40×50 cm – antistatisch & streifenfrei reinigen | Premium Reinigungstuch für Auto, Haushalt & Werkstatt](https://profiber.store/products/carbon-mikrofasertuch-40x50-antistatisch-streifenfrei): CARBON Mikrofasertuch 40×50 cm – antistatisch & streifenfrei reinigen | Premium Reinigungstuch für Auto, Haushalt & Werkstatt
-  Updated: 2026-02-21T18:00:03Z
+  Updated: 2026-02-22T14:19:34Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Glastuch Carbon
   Availability: Available
@@ -90,7 +90,7 @@
     Availability: Available
     Price: 119,90 € EUR
 - [Olympic WAVE Tuch Gold (36×36, 560 GSM) – Mikrofasertuch für Glas & Edelstahl streifenfrei | 2-seitig](https://profiber.store/products/olympic-wave-tuch-gold-36x36-560gsm): Premium Mikrofasertuch mit 2 Seiten: WAVE-Struktur für maximale Schmutzaufnahme, gewebt fürs Finish. Streifenfrei auf Glas, Spiegel, Edelstahl, Chrom & Hochglanz. Saugstark (560 GSM), leicht auszuwringen.
-  Updated: 2026-02-21T18:00:10Z
+  Updated: 2026-02-22T14:19:41Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Wellentuch
   Availability: Available
@@ -162,7 +162,7 @@
     Availability: Available
     Price: 169,90 € EUR
 - [Wassermagnet Trockentuch 50×80 cm (1200 GSM) – XXL Auto Trockentuch | extrem saugstark & streifenfrei](https://profiber.store/products/wassermagnet-trockentuch-50x80-1200gsm): Premium Mikrofasertrockentuch 50×80 cm mit 1200 GSM: extrem saugstark, wenig Nacharbeit, streifenfrei trocknen auf Lack, Glas & Klavierlack. Profi-Qualität für Detailing, Werkstatt & Waschanlage.
-  Updated: 2026-02-21T18:00:04Z
+  Updated: 2026-02-22T14:19:35Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Trockentuch
   Availability: Available
@@ -180,7 +180,7 @@
     Availability: Available
     Price: 129,90 € EUR
 - [Wassermagnet Trockentuch 40×40 cm (1200 GSM) – Premium Mikrofasertrockentuch fürs Auto | streifenfrei & lackschonend](https://profiber.store/products/wassermagnet-trockentuch-40x40-1200gsm): Extrem saugstarkes Auto Trockentuch (1200 GSM): Wasserfilm schnell aufnehmen, streifenfrei trocknen auf Lack, Glas & Klavierlack. Profi-Qualität für Detailing, Werkstatt & Waschanlage.
-  Updated: 2026-02-21T18:00:05Z
+  Updated: 2026-02-22T14:19:36Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Trockentuch
   Availability: Available
@@ -198,7 +198,7 @@
     Availability: Available
     Price: 69,90 € EUR
 - [NANO Mikrofasertuch 40×40 (320 GSM) – Tiefenreinigung & Spray-and-Wipe | Fettfilm & Schmutz porentief entfernen](https://profiber.store/products/nano-mikrofasertuch-40x40-320gsm-grau): Feines Nano Mikrofasertuch für porentiefe Reinigung: nimmt Schmutz- & Fettreste zuverlässig auf, sehr saugfähig (320 GSM), ideal für Spray-and-Wipe. Für Kunststoff, Oberflächen, Haushalt, Gewerbe & Fahrzeug-Innenraum.
-  Updated: 2026-02-21T18:00:10Z
+  Updated: 2026-02-22T14:19:40Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Universaltuch
   Availability: Available
@@ -216,7 +216,7 @@
     Availability: Available
     Price: 149,90 € EUR
 - [LUXUS Mikrofasertuch 60×90 cm (500 GSM) – XXL Auto Trockentuch | streifenfrei & saugstark](https://profiber.store/products/luxus-mikrofasertuch-trockentuch-60x90-500gsm): Extra großes Mikrofasertrockentuch 60×90, 500 GSM: extrem saugstark, weniger Auswringen, streifenfrei Lack & Glas trocknen. Ideal für komplette Fahrzeugtrocknung sowie Maschinen & glatte Oberflächen.
-  Updated: 2026-02-21T18:00:14Z
+  Updated: 2026-02-22T14:19:43Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Trockentuch
   Availability: Available
@@ -234,7 +234,7 @@
     Availability: Available
     Price: 129,90 € EUR
 - [Waffeltuch Violett 60×90 cm (320 GSM) – Mikrofasertuch / Auto Trockentuch mit Waffelstruktur | saugstark & lackschonend](https://profiber.store/products/waffeltuch-violett-60x90-320gsm): Großes Mikrofasertuch mit Waffelstruktur: sehr saugstark, wenig Auswringen, ideal als Auto Trockentuch/Wagentuch. Lackschonend trocknen, Wasser schnell aufnehmen – 60×90 cm, 320 GSM.
-  Updated: 2026-02-21T18:00:12Z
+  Updated: 2026-02-22T14:19:44Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Trockentuch
   Availability: Available
@@ -252,7 +252,7 @@
     Availability: Available
     Price: 99,90 € EUR
 - [Olympic CLASSIC Bronze Mikrofasertuch (40×40, 500 GSM) – Premium Allroundtuch für Haushalt, Gastronomie & Autopflege](https://profiber.store/products/olympic-classic-bronze-mikrofasertuch-40x40-500gsm): 500 GSM Premium Mikrofasertuch 40×40 cm: saugstark, vielseitig, materialschonend dank Satin-Kante. Ideal für Oberflächen, Edelstahl, Glas, Möbel, Arbeitsflächen sowie Fahrzeugpflege & Innenraum. Waschbar bis 60°C.
-  Updated: 2026-02-21T18:00:12Z
+  Updated: 2026-02-22T14:19:42Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Universaltuch
   Availability: Available
@@ -270,7 +270,7 @@
     Availability: Available
     Price: 159,90 € EUR
 - [Olympic POLISH Silver – randloses Mikrofaser Poliertuch (500 GSM) für Finish & Final Wipe | kratzarm](https://profiber.store/products/olympic-polish-silver-poliertuch-38x38-500gsm): Premium Poliertuch 38×38 cm, 500 GSM: superweich, randlos & ohne Etikett – minimiertes Kratzrisiko. Ideal zum Polieren, Auspolieren & Staubwischen auf Lack, Klavierlack, Glas, Edelstahl & Hochglanz.
-  Updated: 2026-02-21T18:00:11Z
+  Updated: 2026-02-22T14:19:42Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Poliertuch
   Availability: Available
@@ -372,7 +372,7 @@
     Availability: Available
     Price: 69,90 € EUR
 - [Top Dry Mikrofaser Geschirr- & Glastuch (50×70, 350 GSM) – streifenfrei Glas & Edelstahl polieren](https://profiber.store/products/top-dry-geschirr-glastuch-50x70-350gsm): Extra dickes, saugstarkes Mikrofasertuch: Gläser, Spiegel, Fenster & Edelstahl streifenfrei trocken und glänzend. Robust für Haushalt & Gastro, 60°C waschbar, bis zu 500 Waschgänge.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-22T14:19:43Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Glanztuch
   Availability: Available
@@ -441,7 +441,7 @@
     Availability: Available
     Price: 59,90 € EUR
 - [WAVE Waschhandschuh Gold – Glas & Edelstahl streifenfrei reinigen | Mikrofaser Waschhandschuh Haushalt](https://profiber.store/products/wave-waschhandschuh-gold): Profi Waschhandschuh mit WAVE-Struktur: Fenster, Glas & Spiegel streifenfrei, Edelstahl & Chrom glänzend sauber. Nimmt Schmutzpartikel auf, hält sie fest – kontrolliert reinigen, saubere Kanten.
-  Updated: 2026-02-21T18:00:14Z
+  Updated: 2026-02-22T14:19:44Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Waschhandschuh Edelstahl
   Availability: Available
@@ -485,7 +485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/ersatzmopp-fuer-den-turbo-mop-deluxe.webp?v=1770998585
   Price: 9,90 € EUR
 - [Mikrofaser Waschhandschuh 2-Faser-System – lackschonend Auto waschen | hohe Wasseraufnahme](https://profiber.store/products/mikrofaser-waschhandschuh-2-faser-system): Premium Waschhandschuh für die Handwäsche: extrem weiche Fransen (weiß/blau), 2 Mikrofaserarten, laminierter Schaumstoffkern für hohe Absorption. Für Lack, Glas, Kunststoff – PKW, Transporter, Motorrad.
-  Updated: 2026-02-21T18:00:04Z
+  Updated: 2026-02-22T14:19:35Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Waschhandschuh Auto
   Availability: Available
@@ -500,7 +500,7 @@
     Availability: Available
     Price: 44,90 € EUR
 - [Mikrofaser Bürstenüberzug für SB-Waschbox – SB Bürste lackschonend & kratzarm nutzen | Schutznetz](https://profiber.store/products/mikrofaser-buerstenueberzug-sb-waschbox): Waschbürstenüberzug für SB-Box: Mikrofaserfransen für Nasswäsche, Gummiband + Spanngurt für festen Sitz, Schutznetz innen gegen Partikel. Macht harte SB-Bürsten deutlich lackschonender.
-  Updated: 2026-02-21T18:00:11Z
+  Updated: 2026-02-22T14:19:41Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Waschbürstenüberzug SB Waschplatz
   Availability: Available
@@ -515,7 +515,7 @@
     Availability: Available
     Price: 54,90 € EUR
 - [Mikrofaser Waschhandschuh Orange (2-in-1) – Auto waschen, Fenster & Karosserie reinigen | Allround](https://profiber.store/products/mikrofaser-waschhandschuh-orange-2in1): 2-in-1 Mikrofaser Waschhandschuh: eine Seite für Fenster & Karosserie (streifenarm), eine Seite zum Abstauben & Allround-Reinigung innen/außen. Handlich, effizient, ideal für Fahrzeugpflege.
-  Updated: 2026-02-21T18:00:05Z
+  Updated: 2026-02-22T14:19:36Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Mikrofaser Waschhandschuh
   Availability: Available
@@ -537,35 +537,35 @@
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/felgenbuerste-ez-rot.webp?v=1770758477
   Price: 16,90 € EUR
 - [Mikrofaser Poliertuch Set Auto (15er) – 3-Stufen Lack-Finish | ProFiber](https://profiber.store/products/mikrofaser-poliertuch-set-auto-lack-finish-set-pro): 15 ProFiber Mikrofaser Poliertücher im 3-Stufen-System: Politur/Wachs abtragen, Final Wipe, Detailer & Nacharbeit. Kratzarm, schlierenfrei.
-  Updated: 2026-02-21T18:00:07Z
+  Updated: 2026-02-22T14:43:51Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/laser-polish-40-x-40-cm-russschwarz_850982a6-41ba-4773-8e7f-d05d850fc718.webp?v=1771007920
   Price: 59,90 € EUR
 - [Lack-Finish + Handwäsche Set – Profi Mikrofasertücher & Waschhandschuh](https://profiber.store/products/lack-finish-handwaesche-set): Komplett-Set für Handwäsche & Lack-Finish: 3× 5er-Pack Profi-Mikrofasertücher + Waschhandschuh. Kratzarm waschen, Politur abtragen, Final Wipe – perfekter Glanz.
-  Updated: 2026-02-21T18:00:07Z
+  Updated: 2026-02-22T14:43:52Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Wäsche Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/mikrofaser-waschhandschuh-rasta-orange_10082d8a-c2aa-4a43-824a-5c6ab9e39d0e.webp?v=1770893388
   Price: 69,90 € EUR
 - [Glas & Spiegel Set (12-teilig) – Fenster & Spiegel streifenfrei reinigen | Mikrofasertücher fusselfrei](https://profiber.store/products/glas-spiegel-set-12-teilig): Profi Glasreinigung Set: CARBON zum Reinigen, Waffeltuch zum Trocknen, WAVE Gold + Top Silk fürs streifenfreie Finish. Fenster, Spiegel, Autoscheiben, Duschglas, Edelstahl & Hochglanz.
-  Updated: 2026-02-21T18:00:08Z
+  Updated: 2026-02-22T14:43:52Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Glas & Spiegel Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/waffeltuch-violett-60-x-90-cm_03fd744a-c017-4c05-b728-84a0389206ab.webp?v=1771014951
   Price: 65,90 € EUR
 - [Pro Auto Trocknen Set – 6-teiliges Trockentuch Set gegen Wasserflecken](https://profiber.store/products/pro-auto-trocknen-set-big-dry): Auto schnell & lackschonend trocknen: 2 XXL Mikrofasertrockentücher + 3× CARBON für Details + Waffeltuch für Glas. Streifenarm, weniger Wasserflecken – perfekt nach Handwäsche & SB-Box.
-  Updated: 2026-02-21T18:00:06Z
+  Updated: 2026-02-22T14:43:51Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Trockenset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/luxus-mikrofasertuch-60-x-90-cm_d38b57ae-8f49-4cd3-a558-7f3e6c02244f.jpg?v=1770998585
   Price: 67,90 € EUR
 - [SB-Waschplatz Safe Set – Auto waschen in der SB-Box (kratzarm) | Bürstenüberzug, Waschhandschuhe, Felgenbürste](https://profiber.store/products/sb-waschplatz-safe-set): Sicher waschen in der SB Waschbox: Bürstenüberzug für SB-Bürste, 2 Waschhandschuhe (Grob/Fein), Felgenbürste, Wassermagnet & LASER POLISH fürs Finish. Lackschonend & schnell sauber.
-  Updated: 2026-02-21T18:00:09Z
+  Updated: 2026-02-22T14:43:53Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Waschset
   Availability: Available
@@ -618,21 +618,21 @@
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/top-dry-mikrofasertuch-schwarz-grau-50-x-70-cm-1-s_1.webp?v=1771006883
   Price: 63,90 € EUR
 - [Auto Pflege Komplett Set – Autowäsche, Trocknen & Polieren mit Mikrofaser | streifenfrei](https://profiber.store/products/auto-pflege-komplett-set): Komplettes Autopflege Set: Waschhandschuh, Trockentücher, 400/500 GSM Poliertücher & Waffeltuch. Lack, Glas, Klavierlack – sauber, trocken, streifenfrei.
-  Updated: 2026-02-21T18:00:08Z
+  Updated: 2026-02-22T14:43:52Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Pflege Komplett Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/mikrofaser-waschhandschuh-rasta-orange_06c20527-b2a8-468d-8514-ea5ad0d61e29.webp?v=1771014361
   Price: 83,90 € EUR
 - [Auto Innenraum Pflege Set – Innenraum reinigen: Cockpit, Kunststoff, Klavierlack, Displays | streifenfrei](https://profiber.store/products/auto-innenraum-pflege-set): Innenraum Reinigungsset mit NANO Mikrofasertüchern, 500 GSM Allroundtüchern & Waschhandschuhen. Cockpit, Türen, Mittelkonsole staubfrei & schlierenfrei wie neu.
-  Updated: 2026-02-21T18:00:09Z
+  Updated: 2026-02-22T14:43:53Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Innenraum Pflege Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1664/6980/files/beutel-5-x-mikrofasertuch-nano-grau_0c2f9bdf-0926-4ed7-a885-b246825a4099.webp?v=1771008842
   Price: 56,90 € EUR
 - [Autowäsche Set (Starter) – Waschhandschuh, Mikrofasertücher & Waffeltuch](https://profiber.store/products/autowaesche-set-starter): Autowäsche Set für die Handwäsche: Mikrofaser Waschhandschuh, 5× 500 GSM Allroundtücher & großes Waffeltuch (60×90). Sauber & streifenarm trocken.
-  Updated: 2026-02-21T18:00:06Z
+  Updated: 2026-02-22T14:43:50Z
   Vendor: ProFiber Mikrofaserprodukte
   Product Type: Auto Pflege Starter Set
   Availability: Available
@@ -642,91 +642,91 @@
 ## Collections
 
 - [Mikrofasertücher fürs Auto – Innenraum, Lack, Trocknen | ProFiber](https://profiber.store/collections/auto): Profi-Mikrofaser fürs Auto: Innenraum, Lack, Glas, Trocknen & Finish. Lackschonend, saugstark, streifenfrei – als Tücher, Waschhandschuhe & Sets.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 19
 - [Mikrofaser Gastronomie – Professionelle Reinigungstücher HACCP | ProFiber](https://profiber.store/collections/gastronomie): Professionelle Mikrofasertücher für die Gastronomie. HACCP-konform, farbcodiert, hygienisch. Ideal für Küche, Theke, Gläser und Edelstahl.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 19
 - [Mikrofasertücher Haushalt – Reinigungstücher für jeden Raum | ProFiber](https://profiber.store/collections/haushalt): Hochwertige Mikrofasertücher für den Haushalt. Perfekt für Küche, Bad, Glas, Möbel und Böden. Hygienisch, langlebig und umweltfreundlich.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 23
 - [Eco Line Mikrofaser – Nachhaltige Recycelte Reinigungstücher | ProFiber](https://profiber.store/collections/eco-line-mikrofaser): Umweltfreundliche Mikrofasertücher aus recyceltem Material. Nachhaltig, hochwertig und effektiv. Perfekt für bewusste Reinigung.
-  Updated: 2026-02-18T15:09:21Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 2
 - [Mikrofaser Sets & Bundles – Sparsets für Auto, Haushalt & Gastronomie | ProFiber](https://profiber.store/collections/sets-bundles): Günstige Mikrofaser-Sets im Bundle. Komplett-Pakete für Auto, Haushalt und Gastronomie. Sparen Sie mit unseren praktischen Sparsets.
-  Updated: 2026-02-21T18:00:10Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 10
 - [Universaltücher Auto – Allround Mikrofasertücher für alles | ProFiber](https://profiber.store/collections/universaltuecher): Allround-Universaltücher fürs Auto: Innenraum, Lack, Einstiege und schnelle Zwischenreinigung. Saugstark, vielseitig, streifenarm – Profiqualität.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 6
 - [Innenraumtücher Auto – schonend für Kunststoff & Display | ProFiber](https://profiber.store/collections/innenraumtuecher): Mikrofaser für den Auto-Innenraum: Cockpit, Kunststoff, Klavierlack, Displays und Leder schonend reinigen. Fusselarm, weich, streifenarm – Profiqualität.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 5
 - [Lack & Exterieur Auto – lackschonend reinigen & finishen | ProFiber](https://profiber.store/collections/lack-exterieur): Mikrofaser für Lack & Exterieur: Handwäsche, Detailer, Wachs/Politur abnehmen und Finish streifenfrei. Lackschonend, saugstark, weniger Mikrokratzer – Profiqualität.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 8
 - [Trockentücher Auto – extrem saugstark & lackschonend | ProFiber](https://profiber.store/collections/trockentuecher): Saugstarke Trockentücher fürs Auto: Lack, Glas und Felgen schnell trocknen – weniger Wischen, weniger Mikrokratzer. Ideal nach Handwäsche & SB-Box. Profiqualität.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 4
 - [Glas & Scheiben Auto – streifenfrei reinigen | ProFiber](https://profiber.store/collections/glas-scheiben): Mikrofaser für Auto-Glas & Scheiben: Windschutzscheibe innen/außen, Seitenscheiben, Spiegel und Display schnell streifenfrei reinigen – ohne Fusseln.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 4
 - [Universaltücher Haushalt – Mikrofasertücher für alles | ProFiber](https://profiber.store/collections/universaltucher): Universaltücher aus Mikrofaser für den Haushalt: Staub, Fingerprints und Alltagsschmutz schnell entfernen – auf Küche, Bad, Möbeln und Oberflächen.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 5
 - [Küche & Arbeitsflächen – Haushalt schnell sauber | ProFiber](https://profiber.store/collections/kuche-arbeitsflachen): Mikrofaser für Küche & Arbeitsflächen im Haushalt: Fettfilm, Spritzer und Alltagsschmutz schnell entfernen. Für Arbeitsplatte, Fronten, Kochfeld & Tisch.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 13
 - [Bad & Sanitär – Haushalt hygienisch sauber | ProFiber](https://profiber.store/collections/bad-sanitaer): Mikrofaser für Bad & Sanitär im Haushalt: Waschbecken, Fliesen, Dusche und Armaturen schnell hygienisch reinigen. Klare Trennung nach Bereichen möglich.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 7
 - [Glas & Spiegel – streifenfrei reinigen ohne Fusseln | ProFiber](https://profiber.store/collections/glas-spiegel): Mikrofaser für Glas & Spiegel im Haushalt: Fenster, Spiegel, Duschglas und Glasflächen streifenfrei reinigen – ohne Fusseln. Schnell im 2-Tuch-Workflow.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 8
 - [Möbel & Staub – Haushalt schnell staubfrei | ProFiber](https://profiber.store/collections/moebel-staub): Mikrofaser für Möbel & Staub: Staub schnell aufnehmen statt verteilen – für Holz, Lack, Glas, Regale und Wohnbereich. Trocken oder leicht feucht, streifenarm.
-  Updated: 2026-02-21T18:00:13Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 2
 - [Edelstahl & Hochglanz reinigen – streifenfrei ohne Fingerprints | ProFiber](https://profiber.store/collections/edelstahl-hochglanz): Mikrofaser für Edelstahl & Hochglanz: Gerätefronten, Küchenfronten, Chrom streifenfrei reinigen und sauber finishen. Weniger Schlieren, weniger Fingerprints.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 4
 - [Boden- & Grobreinigung – Haushalt schnell sauber | ProFiber](https://profiber.store/collections/boden-grob): Robuste Mikrofaser für Boden- & Grobreinigung im Haushalt: Fliesen, Laminat, Vinyl, Eingangsbereich & Alltagsschmutz. Saugstark, langlebig, waschbar.
-  Updated: 2026-02-21T17:18:30Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 3
 - [Farbcodierung im Haushalt – Putztücher nach Bereichen | ProFiber](https://profiber.store/collections/farbcodierung): Farbcodierung für den Haushalt: Putztücher je Bereich trennen (Küche, Bad/WC, Glas, Allround). Hygienischer putzen, weniger Keimverschleppung, perfekter Workflow
-  Updated: 2026-02-18T14:58:40Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 4
 - [HACCP Farbcodierung – Reinigungstücher nach Zonen | ProFiber](https://profiber.store/collections/haccp-farbcodierung): HACCP-Farbcodierung für Reinigung: Tücher & Sets nach Bereichen trennen (Küche, Sanitär, Service, Allgemein). Weniger Kreuzkontamination, klarer Workflow.
-  Updated: 2026-02-18T14:58:40Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 4
 - [Küche & Arbeitsflächen reinigen – schnell, hygienisch, streifenfrei | ProFiber](https://profiber.store/collections/kueche-arbeitsflaechen): Mikrofasertücher für Küche & Arbeitsflächen: Fett, Spritzer und Alltagsschmutz schnell entfernen. Für Arbeitsplatte, Fronten, Kochfeld & Fliesen.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 13
 - [Theke & Serviceflächen reinigen – schnell, streifenfrei | ProFiber](https://profiber.store/collections/theke-serviceflaechen): Mikrofasertücher für Theke & Serviceflächen: schnell abwischen, streifenfrei finishen. Ideal für Bar, Tresen, Tische & Fronten – waschbar, langlebig, effizient.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 14
 - [Gläser & Poliertücher – streifenfrei polieren ohne Fusseln | ProFiber](https://profiber.store/collections/glaeser-poliertuecher): Poliertücher für Gläser, Besteck & Glasflächen: fusselfrei, streifenfrei, schnell auf Hochglanz. Ideal für Gastro, Bar & Haushalt – waschbar und langlebig.
-  Updated: 2026-02-21T18:00:14Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 5
 - [Edelstahl & Geräte reinigen – streifenfrei ohne Fingerprints | ProFiber](https://profiber.store/collections/edelstahl-geraete): Mikrofaser für Edelstahl & Geräte: Kühlschrank, Backofen, Dunstabzug, Fronten & Arbeitsflächen schnell streifenfrei reinigen – weniger Fingerprints, waschbar & langlebig.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:18Z
   Total Products: 5
 - [Sanitär reinigen – Mikrofasertücher & Sets für Bad/WC | ProFiber](https://profiber.store/collections/sanitaer): Mikrofaser für Sanitär & Bad: WC, Waschbecken, Fliesen, Armaturen schnell hygienisch reinigen. Waschbar, langlebig, streifenfrei – als Tücher, Handschuhe & Sets
-  Updated: 2026-02-21T18:00:11Z
+  Updated: 2026-02-24T09:53:19Z
   Total Products: 4
 - [Spülbereich & Nassreinigung – saugstarke Mikrofasertücher | ProFiber](https://profiber.store/collections/spulbereich-nassreinigung): Mikrofaser für Spülbereich & Nassreinigung: saugstark, schnell, hygienisch. Für Arbeitsflächen, Spüle, Armaturen & Fliesen – waschbar und langlebig.
-  Updated: 2026-02-21T18:00:11Z
+  Updated: 2026-02-24T09:53:19Z
   Total Products: 3
 - [Autopflege Sets – Innenraum, Waschen & Trocknen | ProFiber](https://profiber.store/collections/sets-fuers-auto): Profi-Autopflege im Set: Innenraum, Handwäsche, Trocknen & Lack-Finish. Lackschonend, saugstark, streifenfrei – im Bundle sparen.
-  Updated: 2026-02-21T18:00:10Z
+  Updated: 2026-02-24T09:53:19Z
   Total Products: 8
 - [Haushalts Reinigungssets – Mikrofasertücher & Handschuhe | ProFiber](https://profiber.store/collections/sets-haushalt): Praktische Haushalts-Sets mit Profi-Mikrofaser: Küche, Bad, Glas & Oberflächen schnell streifenfrei reinigen. Waschbar, langlebig – im Bundle sparen.
-  Updated: 2026-02-21T17:18:30Z
+  Updated: 2026-02-24T09:53:19Z
   Total Products: 4
 - [Gastronomie Reinigungssets – Mikrofasertücher für Profis | ProFiber](https://profiber.store/collections/sets-gastronomie): Profi-Sets für die Gastronomie: Mikrofasertücher & Waschhandschuhe für Küche, Service, Sanitär. Hygienisch, schnell, streifenfrei – im Bundle sparen.
-  Updated: 2026-02-21T17:18:30Z
+  Updated: 2026-02-24T09:53:19Z
   Total Products: 4
 - [Mikrofaserprodukte – Premium Reinigungstücher für Auto, Haushalt & Gastronomie | ProFiber](https://profiber.store/collections/all-products-chatgpt-ai-product-description): Entdecken Sie unser komplettes Sortiment an hochwertigen Mikrofaserprodukten. Für Auto, Haushalt und Gastronomie. Nachhaltig und effektiv.
-  Updated: 2026-02-21T18:00:15Z
+  Updated: 2026-02-24T09:53:19Z
   Total Products: 39
 
 ## Blogs
@@ -744,7 +744,7 @@
     Updated: 2026-02-10T19:57:12Z
     Author: Harald Stangl
   - [Warum die richtige Wäsche der Mikrofasertücher so wichtig ist](https://profiber.store/blogs/neuigkeiten/mikrofasertuecher-waschen-saugstark-ohne-weichspueler): <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Mikrofasertücher bleiben nur dann saugstark, wenn du sie richtig wäschst – ohne Weichspüler und ohne Rückstände. In diesem Beitrag zeige ich dir die besten Wasch- und Trockentipps, typische Fehler und wie du „schmierige“ Tücher schnell wieder fit bekommst.</span></span></p>
-    Updated: 2026-02-10T20:07:25Z
+    Updated: 2026-02-22T12:33:55Z
     Author: Harald Stangl
     Tags: Mikrofasertücher richti waschen
   - [Schlieren beim Wischen? 7 Gründe warum Mikrofasertücher schmieren](https://profiber.store/blogs/neuigkeiten/warum-mikrofasertuecher-schmieren): Schlieren beim Wischen? 7 Gründe warum Mikrofasertücher schmieren
@@ -763,6 +763,98 @@
     Updated: 2026-02-15T20:16:09Z
     Author: Harald Stangl
     Tags: antistatisch mikrofasertuch, auto detailing tipps, auto innenraum pflege, CARBON mikrofasertuch, cockpit reinigen, detailing innenraum, display reinigen ohne schlieren, empfindliche oberflächen, innenraum mikrofasertuch, innenraumtücher, klavierlack reinigen, kunststoff reinigen auto, mikrofaser für displays, mikrofaser für klavierlack, mikrofaser für kunststoff, mikrokratzer vermeiden, NANO mikrofasertuch, piano black ohne kratzer, profiber innenraum, streifenfrei innenraum
+  - [LaPal® Mikrofasertuch: Nachhaltige Reinigung mit Power](https://profiber.store/blogs/neuigkeiten/lapal®-mikrofasertuch-nachhaltige-reinigung-mit-power): Entdecken Sie das recycelte Mikrofasertuch mit 300 GSM für maximale Sauberkeit &amp; Ökologie. Ideal für Haushalt &amp; Werkstatt. Jetzt nachhaltig reinigen! [158]
+    Updated: 2026-02-22T13:40:41Z
+    Author: AI Blog Generator
+    Tags: 300 GSM Mikrofasertuch, Allzweck Reinigungstuch, LaPal® Mikrofasertuch recycelt, Mikrofasertuch recycelt, nachhaltiges Reinigungstuch
+  - [Soft Boxed Mikrofasertücher: Allzweck-Reinigung mit FSC-Karton](https://profiber.store/blogs/neuigkeiten/soft-boxed-mikrofasertucher-allzweck-reinigung-mit-fsc-karton): Entdecken Sie die Allrounder Soft Boxed Mikrofasertücher (300 GSM) für Haushalt &amp; Gewerbe. Mit FSC-Karton &amp; Farbcodierung. Jetzt nachhaltig reinigen! [158]
+    Updated: 2026-02-22T13:38:33Z
+    Author: AI Blog Generator
+    Tags: Allzweck Reinigungstuch, FSC Karton Mikrofaser, Mikrofasertuch 40x40 cm, Reinigungstücher 300 GSM, Soft Boxed Mikrofasertücher
+  - [Olympic WAVE Tuch Gold: Streifenfreier Glanz für Glas & Hochglanz](https://profiber.store/blogs/neuigkeiten/olympic-wave-tuch-gold-streifenfreier-glanz-fur-glas-hochglanz): Entdecken Sie das Olympic WAVE Tuch Gold für perfekte, streifenfreie Ergebnisse. 560 GSM Premium-Mikrofaser mit Doppelfunktion. Jetzt Glanz erleben!
+    Updated: 2026-02-22T13:37:01Z
+    Author: AI Blog Generator
+    Tags: Glas reinigen, Hochglanz polieren, Mikrofasertuch, Olympic WAVE Tuch Gold, streifenfreier Glanz
+  - [CARBON Mikrofasertuch: Streifenfrei & antistatisch reinigen](https://profiber.store/blogs/neuigkeiten/carbon-mikrofasertuch-streifenfrei-antistatisch-reinigen): Perfekt streifenfrei reinigen mit dem CARBON Mikrofasertuch. Antistatisch, extrem vielseitig für Haushalt &amp; Auto. Jetzt Premium-Ergebnisse entdecken! [154]
+    Updated: 2026-02-22T13:35:25Z
+    Author: AI Blog Generator
+    Tags: antistatisches tuch, carbon mikrofasertuch, mikrofaser auto, premium reinigungstuch, streifenfrei reinigen
+  - [Perfekter Glanz: Das Mikrofaser-Geschirrtuch für Profis](https://profiber.store/blogs/neuigkeiten/perfekter-glanz-das-mikrofaser-geschirrtuch-fur-profis): Streifenfreier Glanz für Gläser &amp; Geschirr! Das Profi Mikrofaser-Geschirrtuch 40×75 cm sorgt für perfekte Ergebnisse in Gastro &amp; Haushalt. Jetzt entdecken! [158]
+    Updated: 2026-02-22T13:33:29Z
+    Author: AI Blog Generator
+    Tags: Geschirrtuch Gastronomie, Mikrofaser Glastuch, Mikrofaser-Geschirrtuch 40×75 cm, Profi Poliertuch, streifenfreie Gläser
+  - [Wassermagnet Trockentuch: Perfekte Fahrzeugtrocknung](https://profiber.store/blogs/neuigkeiten/wassermagnet-trockentuch-perfekte-fahrzeugtrocknung): Entdecken Sie das Premium Wassermagnet Trockentuch für streifenfreie Ergebnisse. Sparen Sie Zeit und schonen Sie Ihren Lack. Jetzt das beste Tuch finden! [158]
+    Updated: 2026-02-22T13:31:44Z
+    Author: AI Blog Generator
+    Tags: 1200 GSM, Auto Trockentuch, Fahrzeugtrocknung, Mikrofasertuch, Wassermagnet Trockentuch
+  - [Top Silk Mikrofasertuch: Streifenfreier Glanz für Glas](https://profiber.store/blogs/neuigkeiten/top-silk-mikrofasertuch-streifenfreier-glanz-fur-glas): Entdecken Sie das fusselfreie Top Silk Mikrofasertuch für streifenfreien Glanz. Ideal für Gläser, Spiegel &amp; Hochglanz. Jetzt Premium-Ergebnisse erzielen! [158]
+    Updated: 2026-02-22T13:30:14Z
+    Author: AI Blog Generator
+    Tags: fusselfrei, Glas reinigen, Poliertuch, seidenartiges Glastuch, Top Silk Mikrofasertuch
+  - [Waffeltuch Violett: Perfekte Autotrocknung in Rekordzeit](https://profiber.store/blogs/neuigkeiten/waffeltuch-violett-perfekte-autotrocknung-in-rekordzeit): Das Waffeltuch Violett trocknet Ihr Auto in Rekordzeit streifenfrei &amp; lackschonend. Großes Mikrofasertuch mit Waffelstruktur. Jetzt entdecken! [155]
+    Updated: 2026-02-22T13:28:46Z
+    Author: AI Blog Generator
+    Tags: Autotrockentuch, lackschonend trocknen, Mikrofasertuch Auto, Waffeltuch Violett, Wagentuch
+  - [LUXUS Mikrofasertuch 60×90 cm: Streifenfrei Trocknen](https://profiber.store/blogs/neuigkeiten/luxus-mikrofasertuch-60-90-cm-streifenfrei-trocknen): Perfekt streifenfrei trocknen mit dem LUXUS Mikrofasertuch 60×90 cm. XXL Premium Trockentuch mit 500 GSM für Auto &amp; mehr. Jetzt entdecken! [158]
+    Updated: 2026-02-22T13:26:39Z
+    Author: AI Blog Generator
+    Tags: 500 gsm, auto trockentuch, luxus mikrofasertuch 60×90 cm, streifenfrei trocknen, xxl trockentuch
+  - [Olympic POLISH Silver: Das Premium Poliertuch für Profis](https://profiber.store/blogs/neuigkeiten/olympic-polish-silver-das-premium-poliertuch-fur-profis): <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Entdecken Sie das Olympic POLISH Silver Poliertuch. 500 GSM, randlos &amp; streifenarm. Ideal für Lack, Glas &amp; Hochglanz. Jetzt Premium-Finish einkaufen! </span></span></p>
+    Updated: 2026-02-22T13:25:15Z
+    Author: AI Blog Generator
+    Tags: 500 GSM Poliertuch, Mikrofasertuch, Olympic POLISH Silver, Premium Poliertuch, streifenarmes Finish
+  - [SB-Waschplatz Safe Set: Sicher waschen in der SB-Box](https://profiber.store/blogs/neuigkeiten/sb-waschplatz-safe-set-sicher-waschen-in-der-sb-box): <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Kratzarm &amp; sauber in der SB-Box waschen! Das SB-Waschplatz Safe Set bietet System für lackschonendes Finish. Ideal für Leasing &amp; Alltag. Jetzt entdecken! </span></span></p>
+    Updated: 2026-02-22T19:12:39Z
+    Author: AI Blog Generator
+    Tags: kratzarm auto waschen, lackschonend sb bürste, sb waschbox zubehör, sb-waschplatz safe set, sicher waschen in der sb-box
+  - [Gläser & Bar Profi Set: Streifenfreier Glanz für Profis](https://profiber.store/blogs/neuigkeiten/glaser-bar-profi-set-streifenfreier-glanz-fur-profis): Entdecken Sie das Gläser &amp; Bar Profi Set für kristallklare Gläser &amp; makellose Oberflächen. Ideal für Bar &amp; Küche. Jetzt streifenfreien Glanz erleben! [158]
+    Updated: 2026-02-22T13:21:47Z
+    Author: AI Blog Generator
+    Tags: Bar reinigen, Gläser Bar Profi Set, Gläser polieren, Mikrofaser Set, streifenfreier Glanz
+  - [Küche & Theke Komplett Set: Professionelle Sauberkeit](https://profiber.store/blogs/neuigkeiten/kuche-theke-komplett-set-professionelle-sauberkeit): Professionelles Mikrofasertücher Set für Gastronomie. Schnell, streifenfrei, hygienisch. Sparen Sie Zeit im Reinigungsalltag. Jetzt Komplett-Set entdecken! [158]
+    Updated: 2026-02-22T13:19:21Z
+    Author: AI Blog Generator
+    Tags: Edelstahl reinigen, Glas streifenfrei, Küche & Theke Komplett Set, Mikrofasertücher Set Gastronomie, Theke reinigen
+  - [Nachhaltig Putzen: Dein Start in eine saubere Zukunft](https://profiber.store/blogs/neuigkeiten/nachhaltig-putzen-dein-start-in-eine-saubere-zukunft): Starten Sie nachhaltig zu putzen! Unser Set mit recycelten Mikrofasertüchern ersetzt Küchenrolle. Weniger Müll, bessere Ergebnisse. Jetzt entdecken! [158]
+    Updated: 2026-02-22T13:17:31Z
+    Author: AI Blog Generator
+    Tags: Bad reinigen, Küche reinigen, Mikrofasertücher recycelt, nachhaltig putzen, Reinigungsset nachhaltig
+  - [Glas & Edelstahl Glanz Set: Streifenfrei & Glänzend](https://profiber.store/blogs/neuigkeiten/glas-edelstahl-glanz-set-streifenfrei-glanzend-1): Entdecken Sie das Profi Glas &amp; Edelstahl Glanz Set für streifenfreies Glas &amp; glänzenden Edelstahl. Perfektes Finish für Zuhause. Jetzt das Set shoppen!
+    Updated: 2026-02-22T13:43:13Z
+    Author: AI Blog Generator
+    Tags: Edelstahl reinigen, Fenster putzen streifenfrei, Glas Edelstahl Glanz Set, Mikrofaser Set, streifenfreies Glas
+  - [Mikrofasertücher Auto: Kratzfrei reinigen & trocknen](https://profiber.store/blogs/neuigkeiten/mikrofasertuecher-auto-richtig-verwenden): Mikrofasertücher Auto: Kratzfrei reinigen & trocknen
+    Updated: 2026-02-23T14:14:38Z
+    Author: Harald Stangl
+    Tags: Mikrofasertücher Auto
+  - [Mikrofasertücher Haushalt: streifenfrei reinigen](https://profiber.store/blogs/neuigkeiten/mikrofasertuecher-haushalt-blog): Mikrofasertücher Haushalt: streifenfrei reinigen
+    Updated: 2026-02-23T14:14:03Z
+    Author: Harald Stangl
+    Tags: Mikrofasertücher Haushalt
+  - [Mikrofasertücher Gastronomie: effizient & hygienisch](https://profiber.store/blogs/neuigkeiten/mikrofasertuecher-gastronomie-blog): Mikrofasertücher Gastronomie: effizient & hygienisch
+    Updated: 2026-02-23T14:21:25Z
+    Author: Harald Stangl
+    Tags: Mikrofasertücher Gastronomie
+  - [Welches Mikrofasertuch zum Auto trocknen ohne Kratzer? | ProFiber](https://profiber.store/blogs/neuigkeiten/mikrofasertuch-auto-trocknen-ohne-kratzer): Welches Mikrofasertuch zum Auto trocknen ohne Kratzer? | ProFiber
+    Updated: 2026-02-23T16:09:07Z
+    Author: Harald Stangl
+    Tags: auto streifenfrei trocknen, auto trocknen mikrofasertuch, bestes mikrofasertuch autowäsche, mikrofasertuch auto trocknen ohne kratzer, mikrofasertuch lack trocknen, trockentuch auto mikrofaser
+  - [Welches Mikrofasertuch für Glasflächen ohne Streifen? | ProFiber](https://profiber.store/blogs/neuigkeiten/mikrofasertuch-glas-ohne-streifen): Welches Mikrofasertuch für Glasflächen ohne Streifen? | ProFiber
+    Updated: 2026-02-23T16:33:59Z
+    Author: Harald Stangl
+    Tags: fenster putzen mikrofasertuch ohne streifen, glastuch mikrofaser, mikrofasertuch glas ohne streifen, mikrofasertuch glas streifenfrei, spiegel reinigen mikrofasertuch, welches mikrofasertuch für glas
+  - [Mikrofasertücher richtig waschen nach der Autopflege | ProFiber](https://profiber.store/blogs/neuigkeiten/mikrofasertuecher-richtig-waschen-autopflege): Mikrofasertücher richtig waschen nach der Autopflege | ProFiber
+    Updated: 2026-02-23T16:45:31Z
+    Author: Harald Stangl
+    Tags: autopflege tücher waschen, mikrofaser waschen ohne weichspüler, mikrofasertuch pflege, mikrofasertücher richtig waschen autopflege, mikrofasertücher waschen auto, wie mikrofasertücher waschen
+  - [Mikrofasertuch für Lack, Glas oder Innenraum – welches ist wofür geeignet? | ProFiber](https://profiber.store/blogs/neuigkeiten/mikrofasertuch-lack-glas-innenraum-unterschied): Mikrofasertuch für Lack, Glas oder Innenraum – welches ist wofür geeignet? | ProFiber
+    Updated: 2026-02-23T16:56:29Z
+    Author: Harald Stangl
+    Tags: mikrofasertuch für glasflächen, mikrofasertuch innenraum auto, mikrofasertuch lack glas innenraum unterschied, mikrofasertücher autopflege unterschied, welches mikrofasertuch für lack, welches tuch für welche fläche auto
+  - [Mikrofasertuch kaufen – worauf sollte man wirklich achten? | ProFiber](https://profiber.store/blogs/neuigkeiten/mikrofasertuch-kaufen-worauf-achten): Mikrofasertuch kaufen – worauf sollte man wirklich achten? | ProFiber
+    Updated: 2026-02-23T17:50:15Z
+    Author: Harald Stangl
+    Tags: mikrofasertuch für glasflächen, mikrofasertuch innenraum auto, mikrofasertuch lack glas innenraum unterschied, mikrofasertücher autopflege unterschied, welches mikrofasertuch für lack, welches tuch für welche fläche auto
 
 ## Store Pages
 
