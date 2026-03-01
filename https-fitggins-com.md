@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-01-13T18:29:23Z
 - Contact Email: support@fitggins.com
-- Updated At: 2026-02-22T00:00:45.676Z
+- Updated At: 2026-03-01T00:00:52.494Z
 
 ## Products
 
@@ -1067,7 +1067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/acc52cb4-3240-498c-9c21-5d14a0e2ad24-Max.webp?v=1768142863
     Price: $40.60 USD
 - [Scoop Neck Wide Strap Active Romper - Comfortable Stretch](https://fitggins.com/products/scoop-neck-wide-strap-active-romper): Versatile Scoop Neck Wide Strap Active Romper with supportive wide straps, high-stretch fabric (54% polyamide, 34% polyester, 12% elastane), easy care, and detailed size measurements. Perfect for yoga, errands, and lounging.
-  Updated: 2026-02-17T07:22:27Z
+  Updated: 2026-02-26T20:32:46Z
   Vendor: Fitggins
   Product Type: Active Set
   Availability: Available
@@ -1833,7 +1833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ee6c17244d8e4416b0d7dbf08e7bdd60-Max.jpg?v=1768149095
     Price: $32.12 USD
 - [Ribbed Tie Back Bikini Set - Ribbed Two-Piece Swimwear](https://fitggins.com/products/ribbed-tie-back-bikini-set): Comfortable ribbed two-piece bikini with tie back and removable padding. Made of 80% polyamide, 20% elastane. High cut bottoms. Machine wash cold, tumble dry low. Sizes S, M, L with measurements.
-  Updated: 2026-02-20T04:03:06Z
+  Updated: 2026-02-28T22:21:31Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2076,7 +2076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1922361a361f418988104c99fad2e2a3-Max.jpg?v=1771261461
     Price: $29.99 USD
 - [Glitter Halter Neck Strappy Two-Piece Bikini Set](https://fitggins.com/products/glitter-halter-neck-strappy-two-piece-bikini-set): Sparkling halter bikini set with removable pads and adjustable tie. 82% polyester, 18% elastane. No underwire top, thong bottoms. Sizes S–L with detailed measurements for a confident beach look.
-  Updated: 2026-02-17T07:22:31Z
+  Updated: 2026-02-28T00:45:16Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2244,7 +2244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b8da42c5a29d4b04bf6a110967f3ae2f-Max.jpg?v=1768149246
     Price: $30.49 USD
 - [Leopard Print Halter Neck Tie-Side Bikini Set](https://fitggins.com/products/leopard-print-halter-neck-tie-side-bikini-set): Bold leopard print two-piece with halter neck and adjustable tie sides. Removable padding, 82% polyester/18% elastane, machine wash cold. Available in S, M, L with detailed bust, waist, and hip measurements.
-  Updated: 2026-02-17T09:58:21Z
+  Updated: 2026-02-26T17:02:27Z
   Vendor: Fitggins
   Product Type: Bikinis & Tankinis
   Availability: Available
@@ -2738,7 +2738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1676f7a5c4e4353ac7a235889c0ea62-Max.jpg?v=1768150157
     Price: $29.81 USD
 - [Contrast V-Neck Blouse — Lightweight, Versatile Women's Top](https://fitggins.com/products/contrast-v-neck-blouse): A lightweight Contrast V-Neck Blouse with soft contrast detailing and a flattering fit. Versatile for day-to-night styling. Check measurements and size up if between sizes.
-  Updated: 2026-02-20T03:50:46Z
+  Updated: 2026-02-28T14:10:47Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3307,7 +3307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d9a32ec1-b8bb-403d-b504-8812a9661755-Max.webp?v=1768150209
     Price: $30.30 USD
 - [Full Size Cutout Cold Shoulder Blouse - Stylish Women's Top](https://fitggins.com/products/full-size-cutout-cold-shoulder-blouse): Discover the Full Size Cutout Cold Shoulder Blouse: opaque, tailored fit with modern shoulder cutouts, made from 100% polyester. Easy care and imported quality. See full measurements for sizes S–3XL.
-  Updated: 2026-02-21T15:59:07Z
+  Updated: 2026-02-26T18:07:26Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3821,7 +3821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7b4da017ac844dea9331b77e62c2e3e3-Max.jpg?v=1768150280
     Price: $30.93 USD
 - [Striped Round Neck Drop Shoulder T-Shirt – Casual Cotton Tee](https://fitggins.com/products/striped-round-neck-drop-shoulder-t-shirt): Relaxed striped cotton tee with a round neck and drop shoulder for effortless style. 100% cotton, opaque, slight stretch. Machine wash cold, tumble dry low. Available XS–2XL with full measurements.
-  Updated: 2026-02-21T03:26:06Z
+  Updated: 2026-02-25T09:36:36Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -3895,7 +3895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/427f1675f04b4870915ba24895373b71-Max.webp?v=1768150289
     Price: $35.18 USD
 - [Ivy Lane Notched Neck Butterfly Sleeve Blouse](https://fitggins.com/products/ivy-lane-notched-neck-butterfly-sleeve-blouse): Elevate everyday outings with the Ivy Lane Notched Neck Butterfly Sleeve Blouse. Solid, ruffle detail, notched neckline, flutter sleeves, 100% polyester, hand wash cold. Available S-XL with detailed measurements.
-  Updated: 2026-02-17T07:22:37Z
+  Updated: 2026-02-25T12:34:46Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -4565,7 +4565,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec12f79da76c4e448bd1373c7f048fd5-Max.jpg?v=1768150342
     Price: $28.59 USD
 - [Asymmetrical Neck Buttoned Top — Modern Neckline, Comfortable Fit](https://fitggins.com/products/asymmetrical-neck-buttoned-top): Elevate everyday style with this Asymmetrical Neck Buttoned Top. 100% polyester, opaque with slight stretch for comfort. Machine wash cold, tumble dry low. Available S–2XL with detailed measurements.
-  Updated: 2026-02-17T07:22:38Z
+  Updated: 2026-02-28T08:27:42Z
   Vendor: Fitggins
   Product Type: Blouses
   Availability: Available
@@ -5473,7 +5473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4600efdf-0d1d-4f66-a13f-64324c80e1be-Max.webp?v=1768152322
     Price: $30.69 USD
 - [Perfee Lace Backless Round Neck Bodysuit](https://fitggins.com/products/perfee-lace-backless-round-neck-bodysuit): Elevate your wardrobe with the Perfee Lace Backless Round Neck Bodysuit. Semi-sheer with lace tie and slight stretch (95% polyester, 5% elastane). Hand wash or dry clean. Available S–XL.
-  Updated: 2026-02-17T07:22:41Z
+  Updated: 2026-02-28T16:03:36Z
   Vendor: Fitggins
   Product Type: Bodysuit
   Availability: Available
@@ -7255,7 +7255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/0e4d7e8e-9bdc-4c84-9608-9bc673f257b3-Max.webp?v=1768153093
     Price: $43.47 USD
 - [Plus Size Ribbed Cocoon Cover Up — Comfortable Chic Layering](https://fitggins.com/products/plus-size-ribbed-cocoon-cover-up): A flattering plus-size ribbed cocoon cover up in 95% Polyester / 5% Elastane. Opaque, slightly stretchy, machine washable. Measurements provided for 1XL–4XL. Perfect for layering over dresses or with jeans.
-  Updated: 2026-02-17T12:30:43Z
+  Updated: 2026-02-28T14:20:46Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7443,7 +7443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9558c63e-bcc7-46e5-a507-5f08094b365c-Max.webp?v=1768153113
     Price: $43.94 USD
 - [Button Up Collared Neck Cardigan - Versatile Women's Cardigan](https://fitggins.com/products/button-up-collared-neck-cardigan): A classic button-up collared cardigan in a soft viscose/polyester/polyamide blend. Slight stretch, easy care (machine wash cold, tumble dry low), imported. Available S, M, L, XL with full measurements in inches.
-  Updated: 2026-02-17T07:22:27Z
+  Updated: 2026-02-27T23:21:55Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -7601,7 +7601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3a1b9d0b-fae8-4b4c-ae8c-0c759646457c-Max.webp?v=1768153145
     Price: $34.54 USD
 - [Button Up Long Sleeve Cardigan – Stylish Everyday Layer](https://fitggins.com/products/button-up-long-sleeve-cardigan-73705): Versatile Button Up Long Sleeve Cardigan in 100% polyester with slight stretch. Classic buttoned front, easy care (machine wash cold; tumble dry low). Size chart included. Perfect for casual, office, and travel.
-  Updated: 2026-02-17T07:22:28Z
+  Updated: 2026-02-24T14:48:34Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8021,7 +8021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/4eb9a402-e07d-4a36-8faa-aa821affd59a-Max.webp?v=1768153234
     Price: $46.02 USD
 - [Color Block Open Front Long Sleeve Cardigan](https://fitggins.com/products/color-block-open-front-long-sleeve-cardigan): Chic color block open-front cardigan with slight stretch. Soft 50% viscose, 28% polyester, 22% polyamide blend. Machine wash cold, tumble dry low. Available S–XL with detailed measurements.
-  Updated: 2026-02-17T07:22:30Z
+  Updated: 2026-02-24T03:03:46Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -8333,7 +8333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/455d2c98-0fec-47bb-832a-b9f5571a7e30-Max.webp?v=1768153277
     Price: $42.38 USD
 - [Cable-Knit Button Up Long Sleeve Cardigan](https://fitggins.com/products/cable-knit-button-up-long-sleeve-cardigan): Classic cable-knit cardigan with button-up front, pockets, and slight stretch. Made of 65% Acrylic, 35% Polyamide. Machine wash cold, tumble dry low. Imported.
-  Updated: 2026-02-19T13:30:47Z
+  Updated: 2026-02-27T08:50:56Z
   Vendor: Fitggins
   Product Type: Cardigans
   Availability: Available
@@ -10395,7 +10395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/e99f03f3-0296-4d0d-9fd5-ae2c010482b0-Max.webp?v=1768165533
     Price: $27.74 USD
 - [High Waist Active Shorts for Ultimate Comfort](https://fitggins.com/products/high-waist-active-shorts-50157): Explore the High Waist Active Shorts designed for comfort and style. Perfect for workouts or lounging, featuring soft fabric and easy care.
-  Updated: 2026-02-14T22:34:03Z
+  Updated: 2026-02-28T17:43:58Z
   Vendor: Fitggins
   Product Type: Short Leggings
   Availability: Available
@@ -11735,7 +11735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/386f0d060be8447db922ee3d84a398ac-Max.jpg?v=1768165679
     Price: $32.47 USD
 - [Judy Blue Tummy Control Garment Dyed Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-garment-dyed-tummy-control-skinny-jeans): High-rise Judy Blue skinny jeans with tummy control panel, garment-dyed color, slight stretch, and machine-wash care. Detailed measurements for full-size fit.
-  Updated: 2026-02-21T15:35:46Z
+  Updated: 2026-02-26T03:00:26Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11801,7 +11801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/d68765bf-5829-4ffd-9c07-0101c235b88f-Max.webp?v=1768221030
     Price: $40.89 USD
 - [Judy Blue Tummy Control Raw Hem Straight Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-raw-hem-straight-jeans): High-rise Judy Blue straight jeans with tummy control, raw hem, moderate stretch. 95% cotton, 5% spandex. Style #88848. Machine wash cold; tumble dry low. See full size chart for waist, hip, inseam, and rise measurements.
-  Updated: 2026-02-21T20:15:57Z
+  Updated: 2026-02-28T16:16:05Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11867,7 +11867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/fe63b355-6d0f-45e5-9283-bbf66cf0d4bd-Max.webp?v=1768221040
     Price: $51.34 USD
 - [Judy Blue High Waist Rigid Magic Heavy Destroy Straight Jeans](https://fitggins.com/products/judy-blue-high-waist-rigid-magic-heavy-destroy-straight-jeans): Discover Judy Blue high waist rigid magic heavy destroy straight jeans—durable heavy denim with moderate stretch, raw hem, pocketed design, and flattering straight-leg silhouette. Style for day or night. Style #88819.
-  Updated: 2026-02-20T17:07:17Z
+  Updated: 2026-02-28T00:53:46Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -11933,7 +11933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9566d8e6-3db6-494b-839d-3dc7451685a6-Max.webp?v=1768221051
     Price: $50.78 USD
 - [bytos Distressed High Rise Straight Jeans — Full Size](https://fitggins.com/products/bytos-full-size-distressed-high-rise-straight-jeans): bytos Full Size Distressed High Rise Straight Jeans: soft premium denim with slight stretch, classic straight leg and edgy distressed detail. Material 78% cotton/20% polyester/2% spandex. Machine wash cold; tumble dry low.
-  Updated: 2026-02-17T07:22:39Z
+  Updated: 2026-02-23T19:39:16Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12267,7 +12267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5f24383caf6d4de9b3e94a029fae846e-Max.jpg?v=1768221102
     Price: $42.51 USD
 - [Judy Blue Full Size High Waist Skinny Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-skinny-jeans): High waist Judy Blue skinny jeans with moderate stretch. Washed finish, pocketed, 76.2% cotton, 22.5% polyester, 1.3% spandex. Machine wash cold; tumble dry low. Style #88687. Sizes 0/24–18W with detailed measurements.
-  Updated: 2026-02-21T23:25:03Z
+  Updated: 2026-02-28T18:16:07Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12333,7 +12333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/cf282a0f-1772-4ce1-91be-61d0b5ae0f91-Max.webp?v=1768221110
     Price: $48.54 USD
 - [bytos Full Size Raw Hem Distressed Mid Rise Straight Jeans](https://fitggins.com/products/bytos-full-size-raw-hem-distressed-mid-rise-straight-jeans): Discover the bytos Full Size Raw Hem Distressed Mid Rise Straight Jeans. Stylish, comfortable, and versatile, perfect for any occasion.
-  Updated: 2026-02-13T19:21:35Z
+  Updated: 2026-02-24T01:57:27Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12433,7 +12433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/1383cc78-0397-4473-962c-d18e8cc809e2-Max.webp?v=1768221132
     Price: $45.52 USD
 - [Judy Blue High Waist Straight Cargo Jeans](https://fitggins.com/products/judy-blue-full-size-high-waist-straight-cargo-jeans-88924): Judy Blue Full Size High Waist Straight Cargo Jeans — high-rise, straight leg cargo with moderate stretch. 94% cotton, 5% polyester, 1% spandex. Machine wash cold. Style #: 88924.
-  Updated: 2026-02-19T16:36:09Z
+  Updated: 2026-02-27T18:41:27Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12499,7 +12499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/94e4fbcc-0b9e-4612-9b57-2b5ff87c9853-Max.webp?v=1768221141
     Price: $56.38 USD
 - [Judy Blue High Rise Straight Jeans - Full Size](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans): Flattering Judy Blue high rise straight jeans in full sizes. Moderate stretch, 93% cotton blend, pocketed and washed. Machine wash cold. Style #82553.
-  Updated: 2026-02-21T21:00:17Z
+  Updated: 2026-02-28T06:12:25Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12537,7 +12537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
   - [Medium / 15/32](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans?variant=52311667638600)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/949cc8e2-bd67-40de-a47d-5878a032031e-Max.webp?v=1768221151
     Price: $50.78 USD
   - [Medium / 14W](https://fitggins.com/products/judy-blue-full-size-high-rise-straight-jeans?variant=52311667671368)
@@ -12757,7 +12757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/58daab1a-b6a1-4b9f-a478-8601a34b4c03-Max.webp?v=1768221173
     Price: $47.63 USD
 - [Judy Blue High Waist Distressed Wide Leg Jeans](https://fitggins.com/products/judy-blue-high-waist-distressed-wide-leg-jeans): Judy Blue Full Size high waist distressed wide leg jeans with slight stretch (93% cotton, 6% polyester, 1% spandex). Pocketed, machine wash cold, tumble dry low. Style #88823. See size chart for waist, hip, inseam, and rise measurements.
-  Updated: 2026-02-20T19:18:26Z
+  Updated: 2026-02-28T19:00:27Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12823,7 +12823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1768221180
     Price: $50.10 USD
 - [Judy Blue High Waist Tummy Control Jeans — Full Size](https://fitggins.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): Flattering high-waist jeans with tummy control and moderate stretch. Judy Blue style #88869. Premium cotton blend; machine wash cold. Sizes 0/24–20W with detailed measurements for waist, hip, inseam and rise.
-  Updated: 2026-02-22T00:00:26Z
+  Updated: 2026-02-28T23:35:44Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12889,7 +12889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1768221192
     Price: $49.66 USD
 - [bytos Cat's Whiskers Mid-Rise Ankle Jeans - Full Size](https://fitggins.com/products/bytos-cats-whiskers-mid-rise-ankle-jeans): Stylish and comfortable bytos Full Size Cat's Whiskers Mid-Rise Ankle Jeans. Durable denim with moderate stretch (92% cotton, 6% polyester, 2% spandex). Machine wash cold, tumble dry low. Multiple sizes with detailed measurements.
-  Updated: 2026-02-19T15:33:19Z
+  Updated: 2026-02-25T16:05:18Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12939,7 +12939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/5bca52eb-ed9b-452a-a757-c5d1e70b64ba-Max.webp?v=1768221202
     Price: $43.00 USD
 - [Judy Blue Mid Rise Rigid Magic Release Hem Jeans](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans): Judy Blue Full Size Mid Rise Rigid Jeans with magic release hem. Structured rigid denim with moderate stretch, lyocell front panel and a cotton/poly/spandex back panel. Style #88818. Machine wash cold; tumble dry low.
-  Updated: 2026-02-21T02:16:36Z
+  Updated: 2026-02-27T01:02:26Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -12975,7 +12975,7 @@
     Availability: Available
     Price: $49.94 USD
   - [Medium / 16W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52311674454344)
-    Availability: Available
+    Availability: Not Available
     Price: $49.94 USD
   - [Medium / 18W](https://fitggins.com/products/judy-blue-full-size-mid-rise-rigid-magic-release-hem-jeans?variant=52311674487112)
     Availability: Not Available
@@ -12990,7 +12990,7 @@
     Availability: Not Available
     Price: $49.94 USD
 - [Judy Blue Full Size Tummy Control Straight Jeans](https://fitggins.com/products/judy-blue-full-size-tummy-control-straight-jeans): Discover the Judy Blue Full Size Tummy Control Straight Jeans, designed for comfort and style. Enhance your silhouette with innovative tummy control technology, perfect for any occasion.
-  Updated: 2026-02-21T16:08:35Z
+  Updated: 2026-02-28T22:57:56Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13114,7 +13114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/dc3104ee-ddd4-4ecd-8f01-f426088c2623-Max.webp?v=1768221233
     Price: $49.78 USD
 - [Judy Blue Tummy Control Bootcut Jeans Plus Size](https://fitggins.com/products/judy-blue-full-size-tummy-control-bootcut-jeans-plus-size): Discover stylish comfort with Judy Blue Full Size Tummy Control Bootcut Jeans, featuring embroidered pockets and versatile inseams for a flattering fit.
-  Updated: 2026-02-21T23:40:26Z
+  Updated: 2026-02-27T21:32:26Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -13404,7 +13404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/46b98fc561464fc19b32f4958b3b626c-Max.jpg?v=1768221264
     Price: $48.17 USD
 - [Flare Jeans with Pockets – Stretch Cotton-Poly Blend](https://fitggins.com/products/flare-jeans-with-pockets): Flare Jeans with Pockets: buttoned, highly stretchy 65% cotton/35% polyester for comfort and durability. Machine wash cold, tumble dry low. Imported. See size chart for measurements.
-  Updated: 2026-02-17T07:22:24Z
+  Updated: 2026-02-24T03:16:18Z
   Vendor: Fitggins
   Product Type: Jeans
   Availability: Available
@@ -14041,78 +14041,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/af5353e7be9843deb066f6d831ab01b6-Max.jpg?v=1768221364
     Price: $40.19 USD
-- [Devine Ruched Ruffled Balloon Sleeve Mini Dress - Flirty Day-to-Night](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): A playful mini dress with ruched bodice, ruffled layers and balloon sleeves. Opaque, slightly stretchy, unlined construction in 95% polyester, 5% elastane. Machine wash cold. Available in S–XL with detailed measurements.
-  Updated: 2026-02-17T05:38:50Z
-  Vendor: Fitggins
-  Product Type: Evening dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1768221375
-  - [Black / S](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703322952)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Black / M](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703355720)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Black / L](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703388488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Black / XL](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703421256)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Blue / S](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703454024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Blue / M](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703486792)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Blue / L](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703519560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Blue / XL](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703552328)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Deep Red / S](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703585096)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Deep Red / M](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703617864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Deep Red / L](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703650632)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Deep Red / XL](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703683400)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Green / S](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703716168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Green / M](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703748936)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Green / L](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703781704)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1768221375
-    Price: $32.84 USD
-  - [Dark Green / XL](https://fitggins.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=52311703814472)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1768221375
-    Price: $32.84 USD
 - [Spaghetti Strap Slit Mesh Dress — Lightweight Summer Dress](https://fitggins.com/products/spaghetti-strap-slit-mesh-dress): Lightweight Spaghetti Strap Slit Mesh Dress in 100% Polyamide. Slight stretch, unlined, opaque finish. Machine wash cold. Measurements for XS–L provided. Perfect for evenings or warm days.
-  Updated: 2026-02-17T07:22:25Z
+  Updated: 2026-02-28T04:56:56Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14520,7 +14450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/690e9660b18c4464a9e9f8ba9852caeb-Max.jpg?v=1768221495
     Price: $46.09 USD
 - [Ruched Cutout Single Shoulder Dress - Chic Evening Wear](https://fitggins.com/products/ruched-cutout-single-shoulder-dress): Make a statement in the Ruched Cutout Single Shoulder Dress. Ruched detailing, a shoulder cutout, and a comfortable 95% polyester/5% elastane blend create a lightweight, flattering choice for parties and evenings out.
-  Updated: 2026-02-20T01:36:05Z
+  Updated: 2026-02-28T18:59:16Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14910,7 +14840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/c5d15a0063bb4d1da282e3226b864b9b-Max.jpg?v=1768221607
     Price: $42.67 USD
 - [One-Shoulder Long Sleeve Dress – Elegant Evening Wear](https://fitggins.com/products/one-shoulder-long-sleeve-dress): Make an entrance in this one-shoulder long sleeve dress. Opaque, slightly stretchy 95% polyester/5% elastane fabric with a daring slit. Machine wash cold, tumble dry low. Measurements listed for XS–XL.
-  Updated: 2026-02-17T07:22:29Z
+  Updated: 2026-02-25T02:18:16Z
   Vendor: Fitggins
   Product Type: Evening dresses
   Availability: Available
@@ -14952,7 +14882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1aad4e4489f4c6396c3c69c21af96a4-Max.webp?v=1768221617
     Price: $43.71 USD
   - [Dusty Pink / XL](https://fitggins.com/products/one-shoulder-long-sleeve-dress?variant=52311748936008)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f1aad4e4489f4c6396c3c69c21af96a4-Max.webp?v=1768221617
     Price: $43.71 USD
   - [Royal  Blue / XS](https://fitggins.com/products/one-shoulder-long-sleeve-dress?variant=52311748968776)
@@ -15162,7 +15092,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/f5e5ff2770d84be6b8ef59bf9f5fbc54-Max.jpg?v=1768221663
     Price: $68.41 USD
 - [Plaid Open Front Hooded Coat — Cozy Layering Coat](https://fitggins.com/products/plaid-open-front-hooded-coat): A versatile plaid open-front coat with a cozy hood and regular thickness. Made from 100% polyester, machine wash cold and tumble dry low. Available in sizes S to 2XL with detailed measurements for a comfortable, stylish fit.
-  Updated: 2026-02-17T07:22:30Z
+  Updated: 2026-02-26T15:07:56Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -15964,7 +15894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6ae79197908f4274ba1191fb784c78b0-Max.webp?v=1768221779
     Price: $32.70 USD
 - [Snap Front Hooded Corduroy Shacket - Casual Corduroy Jacket](https://fitggins.com/products/snap-front-hooded-corduroy-shacket): Cozy and casual Snap Front Hooded Corduroy Shacket with drawstring hood, pockets, dropped shoulders and raw hem. 100% polyester, machine wash cold. Available S–2XL.
-  Updated: 2026-02-20T04:00:46Z
+  Updated: 2026-02-25T01:02:25Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16184,7 +16114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/6ef27da0-28e5-4197-b831-ca3d69751579-Max.webp?v=1768221795
     Price: $44.02 USD
 - [Double Take Checkered Fuzzy Jacket - Cozy Long Sleeve](https://fitggins.com/products/double-take-checkered-fuzzy-jacket): Cozy and stylish Double Take Checkered Long Sleeve Fuzzy Jacket in 100% polyester. Pocketed design, normal thickness for transitional weather. Machine wash cold, tumble dry low. See size chart for S–2XL measurements in inches.
-  Updated: 2026-02-20T17:12:37Z
+  Updated: 2026-02-27T07:00:22Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16320,7 +16250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/793103a91c8a4fb7835d348950b7007a-Max.jpg?v=1768221816
     Price: $34.70 USD
 - [Zip Up Collared Neck Long Sleeve Winter Coat](https://fitggins.com/products/zip-up-collared-neck-long-sleeve-winter-coat): Stay warm and stylish with this zip-up collared neck long sleeve winter coat. Made from 100% polyester, pocketed, normal thickness, unlined body. Machine wash cold; tumble dry low. Imported. See size chart for measurements.
-  Updated: 2026-02-17T07:22:34Z
+  Updated: 2026-02-25T03:06:35Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16434,7 +16364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/b5e18b15895b480c93585d614b695683-Max.jpg?v=1768221845
     Price: $39.70 USD
 - [Double Take Hooded Teddy Bear Jacket with Thumbholes](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes): Cozy and stylish Double Take hooded teddy bear jacket with thumbholes. 100% polyester, normal thickness, unlined for breathability. Machine wash cold; tumble dry low. Sizes S–3XL with detailed measurements.
-  Updated: 2026-02-18T04:15:26Z
+  Updated: 2026-02-26T13:00:17Z
   Vendor: Fitggins
   Product Type: Jackets
   Availability: Available
@@ -16508,7 +16438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
   - [Cream / 3XL](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778099528)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/3312afc66dde4670a3d6b7dce9be4226-Max.webp?v=1768221860
     Price: $32.65 USD
   - [Dark Gray / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778132296)
@@ -16536,7 +16466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/44b64a24673c4ab98f60c8ea3836b509-Max.webp?v=1768221860
     Price: $32.65 USD
   - [Lavender / S](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778328904)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0312/6771/7251/files/ec2f791518a8411b890aaf188e4cdf30-Max.webp?v=1768221860
     Price: $32.65 USD
   - [Lavender / M](https://fitggins.com/products/double-take-hooded-teddy-bear-jacket-thumbholes?variant=52311778361672)
@@ -18057,6 +17987,15 @@
     Author: Roberto Bellbe
   - [The Benefits of Strength Training for All Ages An Educational Guide](https://fitggins.com/blogs/fitggins/the-benefits-of-strength-training-for-all-ages-an-educational-guide): The Benefits of Strength Training for All Ages An Educational Guide
     Updated: 2026-02-20T05:01:08Z
+    Author: Roberto Bellbe
+  - [How to Create a Balanced Weekly Fitness Plan for Beginners](https://fitggins.com/blogs/fitggins/how-to-create-a-balanced-weekly-fitness-plan-for-beginners): How to Create a Balanced Weekly Fitness Plan for Beginners
+    Updated: 2026-02-23T05:01:00Z
+    Author: Roberto Bellbe
+  - [Key Factors to Consider When Choosing the Right Fitness Tracker](https://fitggins.com/blogs/fitggins/key-factors-to-consider-when-choosing-the-right-fitness-tracker): Key Factors to Consider When Choosing the Right Fitness Tracker
+    Updated: 2026-02-25T05:01:38Z
+    Author: Roberto Bellbe
+  - [The Rise of Mindful Movement A Historical Perspective](https://fitggins.com/blogs/fitggins/the-rise-of-mindful-movement-a-historical-perspective): The Rise of Mindful Movement A Historical Perspective
+    Updated: 2026-02-27T05:01:06Z
     Author: Roberto Bellbe
 
 ## Store Pages
