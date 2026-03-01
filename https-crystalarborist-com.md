@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-02-22T00:00:25.440Z
+- Updated At: 2026-03-01T00:00:35.050Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1900,7 +1900,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Action, Adventure, Enemies to understanding, Fantasy, Light vs the dark, Love, Pirates and magic, Triumph
   - [Silver Tide: The Cursed Heart (Book 4)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-4): <p><em><strong>Silver Tide has faced storms, enemies, and impossible odds—but nothing could prepare him for the battle raging within his own mind. As Dark Magic threatens to destroy everything he Loves, the Captain must fight for his Crew, his Ship, and the woman who refuses to give up on him. In a World where curses run deep and trust is everything, can Love be enough to break the chains?</strong></em></p>
-    Updated: 2026-02-10T03:40:16Z
+    Updated: 2026-02-25T05:42:50Z
     Author: Callie Hitchcock
     Tags: Battle for control, Curse, Found family, Home, True Love
   - [Silver Tide: Freedom or Ruin (Book 5)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-5): <p><strong><em>As Silver Tide begins to plan a Future, enemies converge. The battle resumes. On a Quest to find the Diviner's Relaquary, can they discover the Truth to end it?</em></strong></p>
@@ -1908,7 +1908,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Artifact, Family, Fantasy Adventure, Freedom, Hope, Light and dark, Love, Magic, Quest, Treasure hunt, Understanding
   - [Silver Tide: Ties That Bind (Book 6)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-6): <p><em><strong>Silver Tide has weathered many storms, but this one strikes at the heart. Fin must face his past to protect his future &amp; the ties that bind them all together.</strong></em></p>
-    Updated: 2026-02-13T03:49:56Z
+    Updated: 2026-02-22T08:17:47Z
     Author: Callie Hitchcock
     Tags: Connection, Dark magic, Family ties, Fantasy Adventure, Kidnapping story, Pirates, Rescue mission, Wedding
   - [Silver Tide: The Truth Within (Book 7)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-7): <p><em><strong>Silver Tide thought he had to give up who he was to protect those he loved. But denying his true self would lead him down a dark path that threatens everything.</strong></em></p>
@@ -1927,6 +1927,14 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-02-21T21:46:10Z
     Author: Callie Hitchcock
     Tags: action-packed, brotherhood, Dark fantasy, emotional, epic, final battle, Found family, Freedom, Light and darkness, Redemption, series finale, western fantasy
+  - [What the Sea Remembers](https://crystalarborist.com/blogs/short-stories-self-help/what-the-sea-remembers): <p><em><strong>When the Sea Witch discovers Corwin's compassion, she begins a game that will span centuries. Love and loss. Light against Darkness. The Sea remembers. </strong></em></p>
+    Updated: 2026-02-22T17:24:08Z
+    Author: Callie Hitchcock
+    Tags: Enemies, Epic fantasy, Gods and Godesses, Good and evil, Love, Magic, Mythic conflict, Sea witch, Tragedy
+  - [Silver Tide: Legacy (Book 8)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-legacy-book-8): <p><em><strong>Darkness threatens. A Family must Fight to stay Together. And in the depths of their greatest trial, they will Discover the True Meaning of their Legacy.</strong></em></p>
+    Updated: 2026-02-27T14:01:01Z
+    Author: Callie Hitchcock
+    Tags: Action, Adventure, Ancient evil, Choices, Courage, Darkness, emotional, Epic fantasy, Family, Healing, Hope, Light, Redemption, Rescue mission, Truth
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
