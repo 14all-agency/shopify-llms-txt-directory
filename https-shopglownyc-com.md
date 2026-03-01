@@ -1,258 +1,165 @@
 # GLOW (https://shopglownyc.com)
 
+> Welcome to GLOW, where premium nutrition meets delicious convenience. We create high-quality wellness gummies formulated with powerful, science-backed ingredients to support your health from the inside out.
+Our Collection
+Our carefully crafted range includes targeted formulations for every wellness goal:
+Shilajit Gummies with Vitamin C, B6, and B12 for energy and vitality
+Turmeric + Ginger + Black Pepper for natural anti-inflammatory support
+Lion's Mane + Vitamin B6 for cognitive function and mental clarity
+Ashwagandha + Vitamin B6 for stress relief and balanced mood
+Multivitamin + Mineral for complete daily nutritional support
+Magnesium + Zinc + B6 for recovery, sleep, and immune health
+Apple Cider Vinegar + C + B6 + Chromium for metabolism and wellness
+
+Why Choose GLOW?
+We believe wellness should be simple, effective, and enjoyable. Our vegan, gluten-free gummies combine ancient botanicals with modern nutritional science, delivering potent benefits in a delicious, easy-to-take format. No pills, no hassle—just pure, powerful ingredients you can trust.
+Each 60-piece bottle is formulated with transparent ingredient lists and premium quality standards, because your wellness journey deserves nothing less.
+Glow From Within
+Whether you're supporting your immune system, managing stress, boosting energy, or optimizing your daily nutrition, GLOW makes it easy to feel your best every day.
+
 - Domain: https://shopglownyc.com
 - Locale: en
 - Currency: EUR
 - Timezone: Europe/Athens
 - Created At: 2026-02-15T13:02:04Z
 - Contact Email: infoglownewyork@gmail.com
-- Updated At: 2026-02-21T12:03:45.026Z
+- Updated At: 2026-03-01T00:00:21.919Z
+
+About Us
+Welcome to GLOW
+At GLOW, we believe that wellness should be simple, delicious, and effective. Our premium collection of wellness gummies is crafted with high-quality ingredients to support your health journey in the most convenient way possible. Every product is vegan, sugar-free, and formulated to deliver real results.
+
+Our Philosophy
+We're committed to making wellness accessible and enjoyable. Gone are the days of hard-to-swallow pills and unpleasant supplements. Our gummies combine science-backed ingredients with delicious flavors, making it easy to maintain your daily wellness routine. We believe you deserve to know exactly what you're putting in your body, which is why we provide complete ingredient transparency.
+
+Our Product Range
+Digestive & Metabolic Support: Our Apple Cider Vinegar gummies combine the benefits of ACV with vitamin C, B6, and chromium to support your metabolism, immune system, and balanced blood sugar levels—all in a delicious apple-flavored format.
+
+Essential Nutrients: From our Magnesium + Zinc + B6 gummies that support energy and muscle health, to our comprehensive Multivitamin + Mineral gummies with 10 essential vitamins, we make it easy to fill nutritional gaps and maintain optimal wellness.
+
+Stress & Cognitive Support: Experience natural stress relief with our Ashwagandha gummies, or boost your cognitive function with Lion's Mane mushroom gummies—both enhanced with vitamin B6 for additional nervous system support.
+
+Anti-Inflammatory & Vitality: Our Turmeric + Ginger + Black Pepper gummies harness natural anti-inflammatory benefits, while our premium Shilajit gummies with 20% fulvic acid support natural vitality and nutrient absorption, enhanced with vitamins C, B6, and B12.
+
+What Makes Us Different
+Every GLOW product is thoughtfully formulated to combine traditional wellness ingredients with modern nutritional science. We use only premium, bioavailable ingredients that your body can actually absorb and use. Our gummies are never just candy—they're functional supplements designed to support specific aspects of your health.
+
+Our Commitment
+We're dedicated to creating products that are:
+
+100% vegan and cruelty-free
+Sugar-free formulations
+Made with premium, bioavailable ingredients
+Backed by transparent ingredient lists
+Delicious and easy to incorporate into daily routines
+Formulated with science-backed dosages
+Free from unnecessary additives and fillers
+Thank you for choosing GLOW. We're honored to be part of your wellness journey.
 
 ## Products
 
-- [Deep Moisture Collection Box](https://shopglownyc.com/products/deep-moisture-collection-box): Deep Moisture Collection Box, a trio of essential products designed to deeply hydrate, nourish, and brighten the skin. Set features: Nourishing Rich Cream Product Description:: A deeply hydrating cream that restores the skin barrier to provide protection throughout the day. Double Hydration Boost Gel + HA : Provides an instant surge of moisture, leaving skin soft, plump, and refreshed. Product Description: Rejuvenating gel with multi-molecular weight hyaluronic acid, helps to form a moisture-locking barrier on the skin, preventing moisture loss and enhancing the skin's natural plumpness and elasticity. Reduces the appearance of small lines and wrinkles, leaves skin refreshed. Apply to clean skin. Brightening Eye Cream Targets the delicate eye area to reduce the appearance of dark circles and puffiness. Product Description:A blend of 3 organic plant ingredients helps to reduce puffiness, dark circles and multi-molecular-weight Hyaluronic Acid targets lines and dryness. The eye area looks rested and fresh. Apply to clean skin around the eye area. Gluten Free Nut Free Vegan Ingredients Miscellaneous Star features Moisture boost, Reduces fine lines, Gentle to dry skin, Protects Concern Anti-age, Dehydrated skin, Under-eye fatigue Skin type All skin types Aroma Miscellaneous Ingredients Miscellaneous Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:23:20Z
-  Vendor: Selfnamed
-  Product Type: Gift Sets & Collections
+- [Apple Cider Vinegar Gummies with Vitamin C, B6 & Chromium | GLOW](https://shopglownyc.com/products/apple-cider-vinegar-c-b6-chromium-gummies-60-pcs): Apple cider vinegar gummies with vitamin C, B6, and chromium for metabolism and immune support. Apple-flavored, vegan, and sugar-free. 60 gummies per bottle.
+  Updated: 2026-02-28T01:45:13Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/XuJ8k48fvQcoPyqxzCk3o8rT7vLVlZ5R.jpg?v=1771172404
-  Price: €69.50 EUR
-- [Nourishing Rich Cream, Fragrance Free](https://shopglownyc.com/products/nourishing-rich-cream-fragrance-free): Hydrates and nourishes the skin as well as restores the skin barrier to provide protection throughout the day. Cloudberry Extract helps to provide softness and comfort. Waxy and rich consistency leaves the skin velvety to the touch. Suitable for dry skin areas. Apply to clean skin. Gluten Free Vegan Natural  Allergen Label Free Certificate Ingredients Cocoa butter, Argan oil, Shea butter, Olive oil, Berry extract Star features No added fragnance, Gentle to dry skin, Protects Concern Anti-age, Damaged skin barrier, Dehydrated skin Skin type Mature, Normal Aroma No added fragrance Ingredients Aqua, Helianthus Annuus (Sunflower) Seed Oil➀, Theobroma Cacao (Cocoa) Seed Butter➀, Dicaprylyl Carbonate, Pentylene Glycol, Polyglyceryl-6 Stearate, Cetearyl Alcohol, Glycerin➁, Argania Spinosa (Argan) Kernel Oil➀, Helianthus Annuus (Sunflower) Seed Cera, Butyrospermum Parkii (Shea) Butter➀, Olea Europaea (Olive) Oil Unsaponifiables, Palmitic Acid, Rubus Chamaemorus (Cloudberry) Fruit Extract➀, Stearic Acid, Polyglyceryl-6 Behenate, Cellulose, Rhus Verniciflua Peel Cera / Rhus Succedanea Fruit Cera, Shorea Robusta Resin, Xanthan Gum, Vanilla Planifolia (Vanilla) Bean Extract➀, Sodium Phytate, Ascorbyl Palmitate, Tocopherol, Lactic Acid ➀ Ingredients from organic farming➁ Made using organic ingredients Natural origin of total 99% Organic origin of total 20% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T00:58:36Z
-  Vendor: Selfnamed
-  Product Type: 
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/13d24f83-ff56-46db-a4f2-3da009068121.jpg?v=1772111227
+  Price: €22.99 EUR
+- [Magnesium Zinc B6 Gummies for Energy & Immunity | GLOW](https://shopglownyc.com/products/magnesium-zinc-b6-gummies-60-pcs): Magnesium, zinc, and vitamin B6 gummies for energy, immune function, and muscle health. Refreshing raspberry flavor, vegan and sugar-free. 60 gummies per bottle.
+  Updated: 2026-02-28T03:24:29Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/WEPfCPhwX-Z_6s2QXaAkZDhu4WACC2vp.jpg?v=1771183984
-  Price: €29.50 EUR
-- [Double Hydration Boost Gel + HA](https://shopglownyc.com/products/double-hydration-boost-gel-ha): Product Description: Rejuvenating gel with multi-molecular weight hyaluronic acid, helps to form a moisture-locking barrier on the skin, preventing moisture loss and enhancing the skin's natural plumpness and elasticity. Reduces the appearance of small lines and wrinkles, leaves skin refreshed. Apply to clean skin. Gluten Free Nut Free Vegan Natural  Allergen Label Free Certificate Ingredients Sodium PCA, Hyaluronic Acid, Aloe Leaf Juice, Sage Extract, White Tea Extract Star features Moisture boost, Sodium PCA + HA, Reduces fine lines Concern Anti-age, Damaged skin barrier, Dehydrated skin, Under-eye fatigue Skin type Mature, Normal Aroma Fresh aquatic aroma with juicy and sweet fruity notes Ingredients Ingredients : Aloe Barbadensis (Aloe) Leaf Juice➀, Pentylene Glycol, Butylene Glycol, Glycerin➁, Sodium PCA, Aqua/Water, Propanediol, Cellulose Gum, Parfum/Fragrance, Algin, Camellia Sinensis (White Tea) Leaf Extract➀, Salvia Officinalis (Sage) Leaf Extract➀, Hydrolyzed Hyaluronic Acid, Lactic Acid, Sodium Hyaluronate, Sodium Phytate, Rhamnose, Glucose, Glucuronic Acid ➀Ingredients from organic farming ➁Made using organic ingredients Natural origin of total 99% Organic origin of total 11% All Natural 99% Natural origin of total 11% Organic of total COSMOS NATURAL  by ECOCERT Greenlife according to COSMOS Standard available at http://COSMOS.ecocert.com
-  Updated: 2026-02-21T01:38:48Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/4916d093-5ea7-4bdb-a4b8-561a7188cffa_25c34b55-c3e0-47af-85f4-74da62a9e28b.jpg?v=1772113335
+  Price: €22.99 EUR
+- [Multivitamin Gummies with 10 Essential Vitamins & Minerals | GLOW](https://shopglownyc.com/products/multivitamin-mineral-gummies-60-pcs): Complete multivitamin gummies with 10 essential vitamins and minerals. Vegan, sugar-free daily wellness supplement to fill nutritional gaps. 60 gummies per bottle.
+  Updated: 2026-02-28T01:26:41Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/VUGHW0sMR3bTnsbv8cwCIPjgW2B0N5NF.jpg?v=1771184283
-  Price: €27.50 EUR
-- [Brightening Eye Cream](https://shopglownyc.com/products/brightening-eye-cream): A blend of 3 organic plant ingredients helps to reduce puffiness, dark circles and multi-molecular-weight Hyaluronic Acid targets lines and dryness. The eye area looks rested and fresh. Apply to clean skin around the eye area. Gluten Free Vegan Natural  Certificate Ingredients Betaine, Plant extract, Shea butter, Ginkgo extract, Horse chestnut extract Star features Prevents dark circles, Hydrating Concern Dark spots, Under-eye fatigue Skin type Normal, Oily Aroma Soft cotton, Flowers Ingredients Aqua, Helianthus Annuus (Sunflower) Seed Oil➀, Glycerin, Pentylene Glycol, Cetearyl Alcohol, Isoamyl Laurate, Arachidyl Alcohol, Behenyl Alcohol, Betaine, Palmitic Acid, Stearic Acid, Arachidyl Glucoside, Parfum, Cellulose, Butyrospermum Parkii (Shea) Butter➀, Coco-Glucoside, Xanthan Gum, Oryza Sativa (Rice) Bran Oil, Vegetable Oil, Helianthus Annuus (Sunflower) Seed Wax, Oryza Sativa (Rice) Bran Wax, Rhus Succedanea Fruit Wax, Ascorbyl Palmitate, Tocopherol, Sodium Phytate, Vitis Vinifera (Grape) Leaf Extract➀, Potassium Hydroxide, Aesculus Hippocastanum (Horse Chestnut) Seed Extract➀, Hydrolyzed Hyaluronic Acid, Ginkgo Biloba (Ginkgo) Leaf Extract, Sodium Hyaluronate, Limonene➁, Geraniol➁, Coumarin➁, Linalool➁ ➀ Ingredients from organic farming➁ From natural essential oils Natural origin of total 100% Organic origin of total 10% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-19T23:01:57Z
-  Vendor: Selfnamed
-  Product Type: 
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/6c93f94f-07bd-436a-89f2-4dab80c160eb_4320f4b7-4c42-49ed-836a-f091a563f1a1.jpg?v=1772116190
+  Price: €22.99 EUR
+- [Ashwagandha Gummies for Stress Relief & Energy | GLOW](https://shopglownyc.com/products/ashwagandha-vitamin-b6-gummies-60-pcs): Ashwagandha gummies with vitamin B6 for natural stress relief and energy support. Delicious mango flavor, vegan and sugar-free. 60 gummies per bottle.
+  Updated: 2026-02-28T00:40:04Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/UjWMKQmmT85Jw8LFgBrd203upfBiptaK.jpg?v=1771184468
-  Price: €28.50 EUR
-- [Glycolic Acid Exfoliating Toner](https://shopglownyc.com/products/glycolic-acid-exfoliating-toner): Product Description: Gentle exfoliating solution enriched with 5% Glycolic Acid designed to remove skin build-up and promote the appearance of a more even skin tone. Its properties make the skin appear smoother and brighter with every use. Apply few times weekly in the evening to clean and dry skin. Combine with: Sensitive Oil-to-Milk Cleanser and Moisturising Day Cream. Afterwards during the day use Mineral Sunscreen SPF30 for Face & Body to protect the skin from sun exposure. Gluten Free Nut Free Vegan Allergen Label Free Ingredients Glycolic AcidPotassium HydroxideCranberry ExtractLigonberry Extract Star features Exfoliates, removes build-up, promotes the appearance of a more even skin tone Concern Dark spots Skin type All skin types Aroma A soft, floral fragrance with delicate notes of fresh rose Ingredients INGREDIENTS Aqua, Glycolic Acid, Glycerin, Potassium Hydroxide, Betaine, Sodium PCA, Sodium Levulinate, Phenethyl Alcohol, Sodium Benzoate, Vaccinium Macrocarpon (Cranberry) Fruit Extract ➀, Vaccinium Vitis-Idaea (Lingonberry) Fruit Extract ➀, Alcohol ➀ Ingredients from organic farming Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-19T22:19:02Z
-  Vendor: Selfnamed
-  Product Type: 
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/bf476e14-a005-4eb0-b373-afbffbd711b7.jpg?v=1772116026
+  Price: €22.99 EUR
+- [Lion's Mane Mushroom Gummies for Brain Health | GLOW](https://shopglownyc.com/products/lions-mane-vitamin-b6-gummies-60-pcs): Lion's Mane mushroom gummies with vitamin B6 for cognitive support and nervous system function. Vegan, sugar-free brain health supplement. 60 gummies per bottle.
+  Updated: 2026-02-28T00:55:25Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/Du_5_JJRITEtKgIUpTVjgXwNO5YKl5U3.jpg?v=1771224964
-  Price: €26.50 EUR
-- [Icelandic Volcano Face & Body Scrub](https://shopglownyc.com/products/icelandic-volcano-face-body-scrub): Description: A creamy face and body scrub infused with volcanic sand to gently yet effectively exfoliate, removing dead skin cells to make the skin smooth to the touch. Apply to dry or damp skin, massage gently and rinse off with water. Gluten Free Nut Free Vega Certificate ngredients Volcanic sandCastor oil Star features Gentle exfoliation, with volcanic sand Concern Cleansing, Lack of glow Skin type All skin types Aroma Cucumber fresh aroma with notes of lemon, sweet citrus peel and green, freshly cut grass Ingredients Aqua/Water, Hydrogenated Castor Oil, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Pentylene Glycol, Glycerin➁, Glyceryl Stearate Citrate, Polyglyceryl-3 Stearate, Kaolin, Volcanic Sand, Parfum/Fragrance, Helianthus Annuus (Sunflower) Seed Oil➀, Xanthan Gum, Vaccinium Myrtillus (Blueberry) Fruit Extract➀, Tocopherol, Fragaria Ananassa (Strawberry) Fruit Extract➀, Rubus Chamaemorus (Cloudberry) Fruit Extract➀, Rubus Idaeus (Raspberry) Fruit Extract➀, Sodium Phytate, Lactic Acid, Citric Acid, Sodium Benzoate, Potassium Sorbate, Benzyl Salicylate➂, Limonene➂, Citrus Aurantium Peel Oil, Citral➂ ➀ Ingredients from organic farming➁ Made using organic ingredients ➂ From natural essential oils Natural origin of total 99% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:36:58Z
-  Vendor: Selfnamed
-  Product Type: Scrubs & Exfoliants
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/e04b728c-a29c-4b38-af8d-ea0916311379_35a5bd0d-848a-49ba-bbfe-faeb5cca88be.jpg?v=1772117099
+  Price: €22.99 EUR
+- [Shilajit Gummies with Fulvic Acid & Vitamins | GLOW](https://shopglownyc.com/products/shilajit-gummies-vitamin-c-b6-b12-60-pcs): Premium shilajit gummies with 20% fulvic acid, vitamin C, B6, and B12. Vegan, sugar-free wellness supplement for natural vitality and energy support. 60 gummies per bottle.
+  Updated: 2026-02-27T21:06:06Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/hQOZIUN8QQZVJ3c6KagY65bRK29MASQ.jpg?v=1771225234
-  Price: €32.50 EUR
-- [All-In-One Facial Oil](https://shopglownyc.com/products/all-in-one-facial-oil): This multi-purpose facial oil hydrates and makes your skin look energised. Apply to clean skin. Avoid direct contact with the eyes. Vegan Organic  Certificate Ingredients Jojoba Seed Oil, Avocado Oil, Almond Oil, Evening Primrose Oil, Sea-Buckthorn Oil, Raspberry Seed Oil Star features Multi-use, Adds glow, Comforts Concern Dehydrated skin Skin type Dry, Mature Aroma Sparkling, juicy mandarine in floral cloud Ingredients Simmondsia Chinensis (Jojoba) Seed Oil➀, Decyl Cocoate, Prunus Amygdalus Dulcis (Sweet Almond) Oil➀, Dicaprylyl Carbonate, Rosa Canina (Rosehip) Fruit Extract➀, Coco-Caprylate/Caprate, Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil➀, Parfum/Fragrance, Tocopherol, Undecane, Olea Europaea (Olive) Fruit Oil➀, Persea Gratissima (Avocado) Oil➀, Prunus Armeniaca (Apricot) Kernel Oil➀, Tridecane, Oenothera Biennis (Evening Primrose) Oil➀, Prunus Domestica (Plum) Seed Oil, Avena Sativa (Oat) Kernel Oil➀, Rubus Idaeus (Raspberry) Seed Oil➀, Solanum Lycopersicum (Tomato) Fruit Extract➀, Limonene➁, Citrus Aurantium Bergamia Peel Oil, Citrus Aurantium Peel Oil, Citrus Limon Peel Oil, Linalyl Acetate➁, Citronellol➁, Pinene➁, Linalool➁, Geranyl Acetate➁, Geraniol➁, Citral➁, Mentha Viridis Leaf Oil, Terpinolene➁, Carvone➁, Benzyl Salicylate➁ ➀ Ingredients from organic farming➁ From natural essential oils Natural origin of total 99% Organic origin of total 62% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled material .
-  Updated: 2026-02-20T21:37:51Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/fb4a42fb-9f9a-4913-9a81-87ca33ee618f_afcdfc0b-3591-4389-8b67-cb3b2f26d47f.jpg?v=1772120421
+  Price: €22.99 EUR
+- [Creatine Gummies - Sugar-Free Vegan Muscle Support | GLOW](https://shopglownyc.com/products/creatine-gummies-90-pcs): Premium sugar-free vegan creatine gummies for enhanced muscle performance, strength & recovery. 90 pieces, 3 daily. Plant-based formula supports athletic performance and cognitive function.
+  Updated: 2026-02-28T12:15:56Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/Cre4GVgXjhyng4YRuL2Na4wtRyMS3jhD.jpg?v=1771227515
-  Price: €34.50 EUR
-- [Shiny Hair Duo Box](https://shopglownyc.com/products/shiny-hair-duo): This duo delivers deep hydration and restores shine, leaving hair smooth, soft,. What's inside: Moisturising Shampoo: Gently cleanses while replenishing moisture, improving hair softness and elasticity. Moisturising Conditioner: Nourishes and detangles, leaving hair silky, shiny, and easy to style. Gluten Free Nut Free Vegan Ingredients Miscellaneous Star features Moisturising, Gentle to hair, Smooths Concern Lack of glow, Lack of volume Skin type All skin types Aroma Miscellaneous Ingredients Miscellaneous Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:48:35Z
-  Vendor: Selfnamed
-  Product Type: Hair Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/fbfWxQfDg-AiQJLRPxrr0VHvUDXRIqjx.jpg?v=1771229494
-  Price: €55.50 EUR
-- [Moisturising Conditioner](https://shopglownyc.com/products/moisturising-conditioner): Custom conditioner nourishes the hair, leaving it smooth and easy to style. Infused with Argan Oil and Wheat protein to nourish dry ends and improve hair texture. Apply to the ends of the hair, leave for 2-5 min. to absorb and rinse out. Nut Free Vegan Certificate Ingredients Aloe juice, Wheat protein, Argan oil, Plant extract Star features Helps to fix dry ends, Moisturising, Smooths Concern Dry ends, Lack of volume Skin type All skin types Aroma Juicy fruits and warm woods Ingredients / INCI Aloe Barbadensis (Aloe) Leaf Juice➀, Cetearyl Alcohol, Aqua, Glycerin, Distearoylethyl Dimonium Chloride, Betaine, Cocos Nucifera (Coconut) Oil➀, Sodium PCA, Parfum, Tocopherol, Butylene Glycol, Benzyl Alcohol, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Wheat Protein, Sodium Benzoate, Lactic Acid, Argania Spinosa (Argan) Kernel Oil➀, Potassium Sorbate, Crambe Maritima (Sea Kale) Leaf Extract, Citric Acid, Arctium Lappa (Burdock) Root Extract➀, Ginkgo Biloba (Gingko) Leaf Extract➀, Linalool, Limonene➀ Ingredients from organic farming Natural origin of total 98% Organic origin of total 11% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:41:43Z
-  Vendor: Selfnamed
-  Product Type: Hair Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/BIOWToG25c9xEVy6CmVOYEwi7YcXVriP.jpg?v=1771229613
-  Price: €24.50 EUR
-- [Moisturising Shampoo](https://shopglownyc.com/products/moisturising-shampoo): Gently purifies the hair, leaving it fresh and moisturised. Custom shampoo helps to keep hair smooth and glossy. Apply through damp hair and over the scalp, lather and rinse out. Gluten Free Nut Free Natural  Certificate Ingredients Aloe juice, Plant extract Star features Moisturising, Gentle to hair, Smooths Concern Dehydrated skin, Lack of volume Skin type All skin types Aroma Juicy fruits and warm woods Ingredients Aloe Barbadensis (Aloe) Leaf Juice➀, Lauryl Glucoside, Sodium Coco-Sulfate, Aqua, Citric Acid, Disodium Cocoyl Glutamate, Sodium PCA, Coco-Glucoside, Glyceryl Oleate, Parfum, Benzyl Alcohol, Glycerin, Sodium Cocoyl Glutamate, Sodium Benzoate, Potassium Sorbate, Honey, Fructose, Glucose, Inositol, Sucrose, Trehalose, Ginkgo Biloba (Gingko) Leaf Extract➀, Arctium Lappa (Burdock) Root Extract➀, Sodium Citrate, Benzoic Acid, Linalool, Limonene ➀ Ingredients from organic farming Natural origin of total 99% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T23:40:33Z
-  Vendor: Selfnamed
-  Product Type: Hair Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/8e3PDvnyglIepDKVdafQQG3aax6scmHi.jpg?v=1771230007
-  Price: €25.50 EUR
-- [2-in-1 Hair & Body Wash for men](https://shopglownyc.com/products/2-in-1-hair-body-wash-for-men): Product description: Cleanses the body and the hair while maintaining its soft texture. Strengthens and gives the hair volume. Apply through damp hair and body, lather and rinse off. Combine with: For a complete men's care routine, we recommend adding Hyaluronic Acid Face Cream or Oil Free Zinc Face Gel, Softening Beard Oil and Anti-Age Eye Cream to the assortment. Nut Free Natural  Vegan Certificate Ingredients Betaine, Wheat Protein Star features Suitable for skin and hair, adds volume to the hair Concern Cleansing, Dehydrated skin, Lack of volume Skin type All skin types Aroma Elegant woody aroma with green notes of freshly cut grass, smoky vetiver and amber Ingredients Ingredients : Aqua, Sodium Coco-Sulfate, Coco-Glucoside, Rosa Damascena (Rosa) Flower Water➀, Cocamidopropyl Betaine, Glycerin➁, Betaine, Glyceryl Oleate, Sodium Chloride, Citric Acid, Parfum, Benzyl Alcohol, Brassica Alcohol, Pyrus Cydonia (Quince) Fruit Extract➀, Urtica Dioica (Nettle) Leaf Extract➀, Hydrolyzed Wheat Protein, Sodium Benzoate, Brassicyl Isoleucinate Esylate, Potassium Sorbate, Limonene➂, Linalool➂ ➀ Ingredients from organic farming➁ Made using organic ingredients➂ From natural essential oils Natural origin of total 98% Organic origin of total 8% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-19T22:41:42Z
-  Vendor: Selfnamed
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/tM_vix-xEYlFs5-4W62b8sPWNSvr0Pq6.jpg?v=1771253618
-  Price: €32.50 EUR
-- [Oil-Free Zinc Face Gel for Men](https://shopglownyc.com/products/oil-free-zinc-face-gel-for-men): Product description: This moisturiser has an oil-free gel consistency that does not leave any thick or heavy feel on the skin. The product absorbs quickly and provides instant hydration. Collagen supporting Zinc helps to maintain the skin looking youthful and fresh. Apply to clean skin. Tailored to suit a variety of skin types from oily to normal and combination skin. Combine with: Suitable with Softening Beard Oil. For a complete men's care routine, we recommend adding 2-in-1 Hair & Body Wash to the assortment as well as Anti-Aging Eye Cream. Gluten Free Nut Free Vegan Natural  Certificate Ingredients Aloe juice, Zinc, Hyaluronic acid Star features Enriched with collagen supporting zinc, easily absorbs Concern Blemishes, Dehydrated skin Skin type Normal, Dry Aroma Green citrus aroma with fresh green tea and white floral notes on woody cedarwood and vetiver background Ingredients Ingredients / Aloe Barbadensis (Aloe) Leaf Juice➀, Glycerin➁, Pentylene Glycol, Butylene Glycol, Betaine, Sclerotium Gum, Zinc PCA, Aqua, Propanediol, Parfum, Nasturtium Officinale (Watercress) Flower/Leaf Extract➀, Sodium Phytate, Potassium Hydroxide, Sodium Hyaluronate, Rhamnose, Glucose, Glucuronic Acid, Limonene➂, Linalool➂, Geraniol➂, Citral➂ ➀ Ingredients from organic farming➁ Made using organic ingredients➂ From natural essential oils Natural origin of total 100% Organic origin of total 27% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:49:55Z
-  Vendor: Selfnamed
-  Product Type: Men's Grooming
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/A7YtTz99ftaLdCLgkMcsVM9TTioStLhK.jpg?v=1771254921
-  Price: €25.50 EUR
-- [Hyaluronic Acid Face Cream for Men](https://shopglownyc.com/products/hyaluronic-acid-face-cream-for-men): Product description: This moisturizer has a velvety, yet light texture that effortlessly absorbs and gives instant hydration. Formulated with multi-molecular weight hyaluronic acid and a blend of potent natural ingredients to protect and hydrate. Soothing Bisabolol will help to calm the skin after shaving. Apply to clean skin. Tailored to suit a variety of skin types from normal to dry skin. Combine with: Suitable with Softening Beard Oil. For a complete men's care routine, we recommend adding 2-in-1 Hair & Body Wash to the assortment as well as Anti-Aging Eye Cream. Certificate ,Gluten free, Nute free ,Natural ,Vegan Ingredients Aloe juice, Jojoba oil, Betaine, Hyaluronic acid Star features Hydrates, calms the skin, refreshes Concern Dehydrated skin Skin type Normal, Dry Aroma Freshness of cucumber with delicate touch of lemon, green thyme and bitter-sweet citrus peel Ingredients Ingredients / INCI: Aloe Barbadensis (Aloe) Leaf Juice, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil➀, Glycerin➁, Glyceryl Stearate Citrate, Pentylene Glycol, Cetearyl Alcohol, Betaine, Dicaprylyl Carbonate, Parfum, Palmitic Acid, Stearic Acid, Xanthan Gum, Bisabolol, Nasturtium Officinale (Watercress) Flower/Leaf Extract➀, Rubus Fruticosus (Blackberry) Fruit Extract➀, Sorbus Aucuparia (Rowan) Fruit Extract➀, Ascorbyl Palmitate, Rubus Idaeus (Raspberry) Seed Oil➀, Tocopherol, Aqua, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Sodium Phytate, Potassium Hydroxide, Benzyl Salicylate➂, Limonene➂, Citral➂, Linalool➂ ➀ Ingredients from organic farming➁ Made using organic ingredients➂ From natural essential oils Natural origin of total 99% Organic origin of total 22% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:19:26Z
-  Vendor: Selfnamed
-  Product Type: Men's Grooming
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/1vU__Q8aUEFNHP0VtS2zyyrycKHMWpKH.jpg?v=1771255479
-  Price: €26.50 EUR
-- [Softening Beard Oil](https://shopglownyc.com/products/softening-beard-oil-1): Product description: Absorbs quickly, leaving the beard smooth and softer to the touch. Enriched with 1% Cannabidiol to calm the underlying skin and provide a comforting effect. Apply a few droplets in your palms and apply onto the beard. Combine with: Hyaluronic Acid Face Cream or Oil-Free Zinc Face Gel as a base before applying Softening Beard Oil. For a complete men's care routine, we recommend adding 2-in-1 Hair & Body Wash to the assortment as well as Anti-Aging Eye Cream. Gluten Free Nut Free Vegan Organic  Certificate. Certificate Ingredients Hemp Seed Oil, Cannabidiol Star features Softens the beard, Easily absorbs, Eases styling Concern Dry ends Skin type All skin types Aroma Aromatic fougere aroma with sweet notes of orange, bergamot and lavender on sweet coumarin and soft oakmoss background Ingredients Ingredients :  Sativa (Hemp) Seed Oil➀, Decyl Cocoate, Undecane, Tridecane, Cannabidiol - Derived From Extract Or Tincture Or Resin Of , Tocopherol, Parfum, Limonene➁, Linalool➁, Citral➁ ➀ Ingredients from organic farming➁ From natural essential oils Natural origin of total 100% Organic origin of total 62% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:39:15Z
-  Vendor: Selfnamed
-  Product Type: Men's Grooming
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/TagVQVlVIYvTReGIkIpXCZlwzDmu3EIA.jpg?v=1771256164
-  Price: €25.50 EUR
-- [Silk Skin Body Serum, Woody Amber & Leather](https://shopglownyc.com/products/silk-skin-body-serum-woody-amber-leather): Product Description: This lightweight, fast-absorbing serum delivers intense hydration and rejuvenation, leaving your skin feeling incredibly soft and smooth. The serum features a unique blend of nourishing oils, including Jojoba Oil and Rosehip Oil, which work together to improve skin texture and elasticity. Combine with: Perfect together with our Hand & Body Wash and Silk Skin Hand Cream Certificate Amber Gluten Free Nut Free Vegan Ingredients Sodium PCAJojoba OilFruit ExtractPlant ExtractHyaluronic AcidLavender Flower WaterBetaine Star features Deep hydration, fast-absorbing formula, soothes and moisturizes Concern Dehydrated skin Skin type Dry Aroma Juniper berry aroma with sweet notes of amber, delicate rose petals, leather accord and woody patchouli Ingredients INGREDIENTS : Aqua, Coconut Alkanes, Pentylene Glycol, Cetearyl Alcohol, Glycerin, Glyceryl Stearate Citrate, Betaine, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Simmondsia Chinensis Seed Oil, Sodium PCA, Helianthus Annuus Seed Oil, Parfum, Undecane, Tridecane, Xanthan Gum, Cellulose, Ascorbyl Palmitate, Tocopherol, Rosa Canina Fruit Oil, Sodium Phytate, Nasturtium Officinale Flower/Leaf Extract, Potassium Hydroxide, Sodium Hyaluronate, Ginkgo Biloba Leaf Extract, Citric Acid, Sodium Benzoate, Potassium Sorbate, Vanillin, Linalyl Acetate, Pogostemon Cablin Oil, Linalool, Coumarin, Cedrus Atlantica Oil/Extract Natural origin of total 99% Organic origin of total 3% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:20:34Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/rqZD30UDfw8S1fOdpN5XsxSja7y1Dmfw.jpg?v=1771257904
-  Price: €26.50 EUR
-- [Silk Skin Body Serum, Spices & Sandalwood](https://shopglownyc.com/products/silk-skin-body-serum-spices-sandalwood): Product Description: This lightweight, fast-absorbing serum delivers intense hydration and rejuvenation, leaving your skin feeling incredibly soft and smooth. The serum features a unique blend of nourishing oils, including Jojoba Oil and Rosehip Oil, which work together to improve skin texture and elasticity. Combine with: Perfect together with our Hand & Body Wash and Silk Skin Hand Cream Amber Gluten Free Nut Free Vegan Certificate Ingredients Sodium PCAJojoba OilFruit ExtractPlant ExtractHyaluronic AcidLavender Flower WaterBetaine Star features Deep hydration, fast-absorbing formula, soothes and moisturizes Concern Dehydrated skin Skin type Dry Aroma Fresh aroma with notes of citrus, spicy pink pepper, cardamom and ginger on woody sandalwood and vetiver background Ingredients / INCI INGREDIENTS / INCI: Aqua, Coconut Alkanes, Pentylene Glycol, Cetearyl Alcohol, Glycerin, Glyceryl Stearate Citrate, Betaine, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Simmondsia Chinensis Seed Oil, Sodium PCA, Helianthus Annuus Seed Oil, Parfum, Undecane, Tridecane, Xanthan Gum, Cellulose, Ascorbyl Palmitate, Tocopherol, Rosa Canina Fruit Oil, Sodium Phytate, Nasturtium Officinale Flower/Leaf Extract, Potassium Hydroxide, Sodium Hyaluronate, Ginkgo Biloba Leaf Extract, Citric Acid, Sodium Benzoate, Potassium Sorbate, Juniperus Virginiana Oil, Linalyl Acetate, Cedrus Atlantica Oil/Extract, Pogostemon Cablin Oil, Beta-Caryophyllene, Lavandula Oil/Extract, Pinene, Limonene, Linalool Natural origin of total 99% Organic origin of total 3% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:35:14Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/8Ma-lQl5a5VhAr4Mkk2RHxBFnbKgi9nz.jpg?v=1771258416
-  Price: €26.50 EUR
-- [Purifying Mousse](https://shopglownyc.com/products/purifying-mousse): Innovative texture cleanser dissolves impurities, helps to remove excess sebum and hydrates your face without clogging pores. The result is clean yet supremely hydrated skin. Lather in your hands, apply to your face, massage gently, rinse off with water. Gluten Free Nut Free Vegan Natural  Certificate Ingredients Aloe juice, Plant extract, Berry extract Star features Mousse texture, Hydrating, All skin types Concern Blemishes, Cleansing, Make-up buildup Skin type Normal, Oily Aroma Sweet grapefruit and energising lemon Ingredients / INCI Aloe Barbadensis (Aloe) Leaf Juice➀, Coco-Glucoside, Cocamidopropyl Betaine, Glycerin, Aqua, Xanthan Gum, Propanediol, Rubus Fruticosus (Blackberry) Fruit Extract➀, Sodium PCA, Sodium Levulinate, Lactic Acid, Acacia Senegal Gum, Sodium Anisate, Parfum, Acorus Calamus (Sweet Flag) Root Extract➀, CI 77891 (Titanium Dioxide)➂, Salvia Officinalis (Sage) Leaf Extract➀, Rhamnose, Glucose, Glucuronic Acid, Arctium Lappa (Burdock) Root Extract➀, Citric Acid, Sodium Benzoate, Potassium Sorbate, Limonene➁ ➀ Ingredients from organic farming➁ From natural essential oils➂ Pure mineral pigments Natural origin of total 98% Organic origin of total 10% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-19T23:16:34Z
-  Vendor: Selfnamed
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/dnqPr-fsbwyFQTRMQVsMNiJBhn2zzKkY.jpg?v=1771337617
-  Price: €27.50 EUR
-- [Hand & Body Wash, Patchouli & Amber Vanilla](https://shopglownyc.com/products/hand-body-wash-patchouli-amber-vanilla): Gentle hand and body wash infused with patchouli and amber vanilla. This hydrating formula combines Betaine for moisture with a subtle fragrance that lingers throughout the day. Vegan, gluten-free, and suitable for all skin types. Apply to damp skin, lather, and rinse thoroughly. Amber Gluten Free Nut Free Vegan Allergen Label Free Certificate Ingredients Fruit Extract, Betaine Star features Hydrating, Gentle to skin, Vegan Concern Cleansing, Dehydrated skin Skin type All skin types Aroma Sweet vanilla bean aroma with notes of amber and patchouli on woody background • Ingredients Aqua/Water, Sodium Coco-Sulfate, Sodium Cocoamphoacetate, Cocamidopropyl Betaine, Betaine, Coco-Glucoside, Citric Acid, Parfum/Fragrance, Sodium Chloride, Benzyl Alcohol, Pyrus Cydonia (Quince) Fruit Extract➀, Sodium Benzoate, Potassium Sorbate➀ Ingredients from organic farming Natural origin of total 98% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-18T22:41:37Z
-  Vendor: Selfnamed
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/MDBUbdfW2zJFaZUiuMjQ6AiuSbXHsKF5.jpg?v=1771411293
-  Price: €27.50 EUR
-- [Hand & Body Wash, Peppermint & Dark Cedar](https://shopglownyc.com/products/hand-body-wash-peppermint-dark-cedar): A gentle, hydrating hand and body wash infused with refreshing peppermint and warm cedarwood notes. Formulated with Betaine to nourish and moisturize while cleansing, this vegan wash suits all skin types. Perfect for daily use, it leaves skin feeling soft and lightly scented. Apply to damp skin, lather, and rinse thoroughly. •Amber•Gluten Free •Nut Free•Vegan •Natural  Certificate Ingredients Fruit Extract, Betaine Star features Hydrating, Gentle to skin, Vegan Concern Cleansing, Dehydrated skin Skin type All skin types Aroma Fresh mint aroma with green herbaceous notes on white cedarwood background •Ingredients Aqua/Water, Sodium Coco-Sulfate, Sodium Cocoamphoacetate, Cocamidopropyl Betaine, Betaine, Coco-Glucoside, Citric Acid, Parfum/Fragrance, Sodium Chloride, Benzyl Alcohol, Pyrus Cydonia (Quince) Fruit Extract➀, Sodium Benzoate, Potassium Sorbatel ➀ Ingredients from organic farming Natural origin of total 98% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-18T22:51:15Z
-  Vendor: Selfnamed
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/6lUwFoXW5pFEgwKEO4qIt60PROIhKl8R.jpg?v=1771411868
-  Price: €27.50 EUR
-- [Hand & Body Wash, Ginger & Smoky Cardamom](https://shopglownyc.com/products/hand-body-wash-ginger-smoky-cardamom): Product Description: This gentle formulation ensures a smoothing and hydrating cleanse! Hydrating Betaine will provide moisturizing benefits, whereas the subtle scent of cardamom and spices lingers on the skin throughout the day! Apply to damp skin, lather and rinse off thoroughly. Amber Gluten Free Nut Free Vegan Certificate Ingredients Fruit Extract, Betaine Star features Hydrating, Gentle to skin, Vegan Concern Cleansing, Dehydrated skin Skin type All skin types Aroma Aromatic cardamom aroma with notes of cold spices and sweet ginger Ingredients Aqua/Water, Sodium Coco-Sulfate, Sodium Cocoamphoacetate, Cocamidopropyl Betaine, Betaine, Coco-Glucoside, Citric Acid, Parfum/Fragrance, Sodium Chloride, Benzyl Alcohol, Pyrus Cydonia (Quince) Fruit Extract➀, Sodium Benzoate, Potassium Sorbate ➀ Ingredients from organic farming Natural origin of total 98% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-19T23:23:02Z
-  Vendor: Selfnamed
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/Zv6E5aaMlkZkIdjD-TrxjO1m5NSMfpkq.jpg?v=1771412404
-  Price: €27.50 EUR
-- [Hand & Body Wash, Grapefruit](https://shopglownyc.com/products/hand-body-wash-grapefruit): Plant-based body wash with betaine and organic blueberry extract that cleanses while preserving skin's moisture balance. Formulated for all skin types, including those experiencing dehydration. Brightening grapefruit aroma. Wet skin, apply generously, lather, and rinse thoroughly. Gluten Free Nut Free VeganNatural Certificate Ingredients Betaine, Berry extract Star features Hydrating, Gentle to skin, Vegan Concern Cleansing, Dehydrated skin Skin type All skin types Aroma Energising and zesty grapefruit Ingredients Aqua, Sodium Coco-Sulfate, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Citric Acid, Betaine, Coco-Glucoside, Parfum, Benzyl Alcohol, Vaccinium Myrtillus (Blueberry) Fruit Extract➀, Sodium Benzoate, Potassium Sorbate, Sodium Chloride, Limonene➁, Citronellol➁, Citral➁, Benzyl Salicylate➁, Geraniol➁, Linalool➁ ➀ Ingredients from organic farming➁ From natural essential oils Natural origin of total 98% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-19T23:11:29Z
-  Vendor: Selfnamed
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/rqEPuGFDZzVgIP9dlsUAXP3RPXxs3o2m.jpg?v=1771412913
-  Price: €27.50 EUR
-- [Collagen Boost Serum](https://shopglownyc.com/products/collagen-boost-serum): Collagen Boost Serum delivers intensive hydration with hyaluronic acid and sodium PCA to plump and smooth skin. The lightweight, fast-absorbing formula leaves skin dewy and refreshed while supporting a firmer appearance. Enriched with organic sunflower oil and plant extracts, it works seamlessly into any routine—from minimalist to comprehensive skincare regimens. Ideal for dehydrated and mature skin types.
-  Updated: 2026-02-20T21:32:16Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/nL4t-dwv-uBzHF6eBMbtphnVt02rL_QP.jpg?v=1771417841
-  Price: €34.50 EUR
-- [Glowy Skin Trio Collection Box](https://shopglownyc.com/products/glowy-skin-trio-collection-box): Elevate your skincare offerings with the Glowy Skin Trio Collection Box designed to deliver a gentle, nurtured skin. Safe to use by all skin types – a routine fit for everyone, everyday. Product Highlights: Gentle Cleansing Milk With a silky-soft texture, perfect for cleansing off impurities while nourishing the skin. Moisturising Day Cream A quick-absorbing face cream enriched with multi-molecular Hyaluronic Acid and plant extracts leaving the skin dewy, plump, and refreshed all day. Nourishing Facial Oil A multi-purpose oil that hydrates, revitalizes, and enhances skin’s natural glow. This premium collection is crafted to meet a seamless blend of cleansing and hydration, making it the perfect daily skincare experience. Nut Free Gluten Free Ingredients Miscellaneous Star features Nourishing, Moisture boost Concern Anti-age, Dehydrated skin Skin type Mature Aroma Miscellaneous Ingredients Miscellaneous Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T21:31:22Z
-  Vendor: Selfnamed
-  Product Type: Gift Sets & Collections
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/CAlKmfs8OrmHtyJ-Ob46OlJWagoZC29U.jpg?v=1771501929
-  Price: €82.50 EUR
-- [Boost Serum Collection Box](https://shopglownyc.com/products/boost-serum-collection-box): Set features: Collagen Boost Serum Gives the skin a dose of powerful actives that help support collagen for a younger looking skin. Product description: gives your skin much needed hydration and a dose of powerful actives that help to support younger looking skin. The skin appears smoother and feels firmer. Light and quick-absorbing texture leaves the skin looking dewy and fresh. Apply to clean skin. Combine with: for maximum results, add Anti-Age Day Cream and Smoothing Eye Cream to the skincare routine. Peptide Anti-Aging Serum Boosts collagen production for firmer and more refined skin. Product description: Skin smoothing serum enriched with high performance anti-aging ingredients to give plumper-looking skin and promote elasticity. Anti-oxidant rich blueberry seed oil and ginkgo extracts provide protection, while peptides and hyaluronic acid help to minimize wrinkles. Apply to clean skin. Natural Retinol Alternative Oil Serum Bakuchiol, renowned as the gentle retinol alternative, helps diminish fine lines and reignite the skin’s youthful glow. Gluten Free Gluten Free Nut Free Ingredients Miscellaneous Star features Deep hydration, lightweight, luxurious texture leaves the skin silky soft Concern Anti-age, Dehydrated skin Skin type All skin types Aroma Miscellaneous Ingredients Miscellaneous Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T22:17:35Z
-  Vendor: Selfnamed
-  Product Type: Gift Sets & Collections
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/jVlpcw3Kq4si7pA9cQRxRTbKWxe1qHA2.jpg?v=1771504713
-  Price: €89.50 EUR
-- [Peptide Anti-Aging Serum](https://shopglownyc.com/products/peptide-anti-aging-serum): Product description: Skin smoothing serum enriched with high performance anti-aging ingredients to give plumper-looking skin and promote elasticity. Anti-oxidant rich blueberry seed oil and ginkgo extracts provide protection, while peptides and hyaluronic acid help to minimize wrinkles. Apply to clean skin. Gluten Free Nut Free Vegan Certificate Ingredients Hydroxyproline (Peptide), Peptide, Phytosterols, Aloe Juice, Sodium PCA, Hyaluronic Acid, Strawberry Seed oil, Blueberry Seed oil, Ginkgo Leaf Extract Star features Smooths, Reduces fine lines Concern Anti-age, Dehydrated skin Skin type Normal, Dry Aroma Delicate floral fantasy aroma with notes of amber on sweet, powdery background Ingredients Aloe Barbadensis (Aloe) Leaf Juice➀, Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil➀, Aqua/Water, Pentylene Glycol, Cetearyl Alcohol, Sodium PCA, Isoamyl Laurate, Glyceryl Stearate Citrate, Dipalmitoyl Hydroxyproline, Propanediol, Parfum/Fragrance, Caprylic/Capric Triglyceride, Fragaria Ananassa (Strawberry) Seed Oil, Vaccinium Myrtillus (Blueberry) Seed Oil➀, Xanthan Gum, Hexapeptide-11, Phytosterols, Ricinus Communis (Castor) Seed Oil➀, Ascorbyl Palmitate, Hydrolyzed Hyaluronic Acid, Potassium Hydroxide, Sodium Hyaluronate, Sodium Phytate, Tocopherol, Leuconostoc/Radish Root Ferment Filtrate, Ginkgo Biloba Leaf Extract, CI 77491 (Iron Oxides)➁, Citric Acid, Sodium Benzoate, Potassium Sorbate, Glycolipids, Linalool➂, Geraniol➂, Citronellol➂ ➀ Ingredients from organic farming➁ Pure mineral pigments➂ From natural essential oils Natural origin of total 99% Organic origin of total 20% All Natural You won't be finding any artificial dyes, synthetic fragrances, parabens, or sulfates in our skincare products.Our beauty product range is organic or natural  according to the international COSMOS-standard by ECOCERT Greenlife.Our product formulas contain natural ingredients sourced in organic farming and organic plant-based ingredients.
-  Updated: 2026-02-20T21:23:44Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/5ESGQtYoXGhTZ7Axn9ObU5mP1vICcGCn.jpg?v=1771506184
-  Price: €35.50 EUR
-- [Natural Retinol Alternative Oil Serum](https://shopglownyc.com/products/natural-retinol-alternative-oil-serum): Product description: This Natural Retinol Alternative Oil Serum is an essential part of any anti-age skincare routine to help the skin maintain its elasticity and firmness. The skin feels rejuvenated and velvety to the touch.Specially formulated to address the unique concerns of mature, uneven, dull, dry skin, this serum is a luxurious elixir designed to elevate any skincare routine. Bakuchiol, renowned as the gentle retinol alternative, works harmoniously with Rosehip Seed Oil to diminish fine lines and reignite your skin's youthful glow. Dermatologically tested Gluten Free Nut Free Vegan Organic  Certificate Ingredients Bakuchiol, Rosehip Oil, Jojoba Oil, Strawberry Oil, Evening Primrose Oil, Raspberry Oil, Blueberry Oil Star features Promotes skin's self-renewal, Mild to skin, Reduces appearance of fine lines, Helps to even out skin tone Concern Anti-age, Blemishes, Dark spots, Dehydrated skin Skin type All skin types Aroma Elegant rose with deep spicy and woody warmth Ingredients Simmondsia Chinensis (Jojoba) Seed Oil➀, Decyl Cocoate, Dicaprylyl Carbonate, Coco-Caprylate/Caprate, Oenothera Biennis (Evening Primrose) Oil➀, Rosa Canina (Rosehip) Fruit Oil➀, Bakuchiol, Tocopherol, Fragaria Ananassa (Strawberry) Seed Oil➀, Rubus Idaeus (Raspberry) Seed Oil➀, Undecane, Parfum, Tridecane, Vaccinium Myrtillus (Blueberry) Seed Oil➀, Geraniol➁, Citronellol➁, Linalool➁, Pelargonium Graveolens Flower Oil, Geranyl Acetate➁ ➀ Ingredients from organic farming ➁ From natural essential oils Natural origin of total 99% Organic origin of total 61% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-21T00:14:54Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/QN-HwFJxdhbWWfH8auXkdKKQtFCUtdkN.jpg?v=1771507023
-  Price: €36.50 EUR
-- [Brightening Face&Body Exfoliator with Kojic Acid](https://shopglownyc.com/products/brightening-face-body-exfoliator-with-kojic-acid): Description: This gentle, dual-use exfoliator is designed to target uneven skin tone and dark spots. Infused with kojic acid, it works to gently remove dead skin cells, revealing a brighter and smoother complexion. Enriched with vitamin C, shea butter, and jojoba oil, this formula not only exfoliates but also nourishes and hydrates, making it perfect for preparing your skin for treatments or simply enjoying a revitalizing routine. Apply to damp skin on the face and body, gently massaging in circular motions to exfoliate. Rinse thoroughly with water and pat dry. Use 2–3 times per week, and follow with moisturizer and sunscreen, as kojic acid may increase sun sensitivity. Brightening, Smoothing, Removes dead skin cells, body-care, Exfoliator (Type), Dark spots (Concern), Mature (Skin type), Kojic Acid (Active ingredients), Vitamin C (Active ingredients), Vitamin E (Active ingredients), Shea Butter (Active ingredients), Sodium PCA (Active ingredients), Betaine (Active ingredients), White (Packaging color) Kojic Acid Vitamin C Vitamin E Sodium PCA Shea Butter Jojoba Oil Menthol Aqua/Water, Dicaprylyl Carbonate, Glycerin➁, Pentylene Glycol, Polyglyceryl-6 Stearate, Cetearyl Alcohol, Betaine, Sodium PCA, Simmondsia Chinensis (Jojoba) Seed Oil➀, Parfum/Fragrance, Kojic Acid, Xanthan Gum, Polyglyceryl-6 Behenate, Perlite, Butyrospermum Parkii (Shea) Butter➀, Palmitic Acid, Stearic Acid, Ascorbyl Palmitate, Tocopherol, Potassium Hydroxide, Limonene➂, Citral➂, Citrus Limon Peel Oil, Menthol➂, Pinene➂, Pogostemon Cablin Oil, Linalool➂, Juniperus Virginiana Oil, Mentha Viridis Leaf Oil, Carvone➂, Cedrus Atlantica Oil/Extract, Beta-Caryophyllene➂, Citronellol➂, Geraniol➂ ➀Ingredients from organic Farming ➁Made using organic ingredients ➂From natural essential oils
-  Updated: 2026-02-20T22:15:00Z
-  Vendor: Selfnamed
-  Product Type: Facial Cleansers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/JHFH40p7UEEvCmYMtTHA6ibPLMllTFoM.jpg?v=1771580014
-  Price: €28.50 EUR
-- [Dark Spot Routine Duo Box](https://shopglownyc.com/products/dark-spot-routine-duo): Inside the box: Pigment Perfecting Serum A lightweight serum designed to target dark spots and promote an even skin tone. While Sodium PCA enhances the skin’s moisture balance, helping to maintain a smooth and supple complexion. Product description: Our Pigment Perfecting Serum is designed to reduce the appearance of dark spots and promote an even skin tone. The lightweight formula hydrates and soothes while targeting pigmentation for a brighter complexion. Its scent adds an extra layer of indulgence, with earthy notes of vetiver root and wood, complemented by a soft, sweet almond background. Apply daily to clean skin for best results. Combine with: Use together with our Niacinamide Gel Moisturiser and Vitamin C Serum to promote a more even skin tone. Vitamin C Serum : A potent blend of 2% Natural Vitamin C, Ferulic Acid, and Sea-Buckthorn, this energizing booster helps protect the skin against environmental stressors while brightening and evening out skin tone. Product Description: Lightweight serum that brightens and evens out skin tone. Ferulic Acid promotes skin firmness, while Hyaluronic Acid boosts skin moisture levels. Nourishing oils soften the skin to reveal glowing and youthful looking skin. Apply to clean skin. Vegan Ingredients Miscellaneous Star features Anti-pigmentation spots, Promotes an even skin tone, Healthy Glow Concern Dark spots Skin type All skin types Aroma Miscellaneous Ingredients / INCI Miscellaneous Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T22:41:42Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/mfD_CFdDqvox53cZlBCtLW1X9kSKGO64.jpg?v=1771582923
-  Price: €65.50 EUR
-- [Vitamin C Serum](https://shopglownyc.com/products/vitamin-c-serum): Product Description: Lightweight serum that brightens and evens out skin tone. Ferulic Acid promotes skin firmness, while Hyaluronic Acid boosts skin moisture levels. Nourishing oils soften the skin to reveal glowing and youthful looking skin. Apply to clean skin.This product has a unique blend of 2% Natural Vitamin C, Ferulic Acid, and Sea-Buckthorn. Gluten Free Vegan Natural  Certificate Ingredients 2% Natural Vitamin C (Ascorbyl Glucoside), 1% Ferulic Acid, 1% Ses-Buckthorn Oil, Vitamin E, Jojoba Seed Oil, Almond Oil, Avocado Oil, Rosehip Seed Oil, Sodium PCA, Hyaluronic Acid. Star features Anti-pigmentation spots, 2% Vitamin C, Healthy Glow Concern Anti-age, Dark spots, Dehydrated skin Skin type All skin types Aroma Sweet and juicy mandarine aroma with delicate floral and citrus notes Ingredients : Aqua/Water, Glycerin➁, Cetearyl Alcohol, Simmondsia Chinensis (Jojoba) Seed Oil➀, Pentylene Glycol, Butylene Glycol, Ascorbyl Glucoside, Glyceryl Stearate Citrate, Sodium PCA, Polyglyceryl-6 Stearate, Caprylic/Capric Triglyceride, Ferulic Acid, Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil➀, Tocopherol, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Isoamyl Laurate, Triheptanoin, Potassium Hydroxide, Prunus Amygdalus Dulcis (Sweet Almond) Oil➀, Parfum/Fragrance, Cellulose, Sodium Citrate, Xanthan Gum, Polyglyceryl-6 Behenate, Persea Gratissima (Avocado) Oil➀, Rosa Canina (Rosehip) Fruit Oil➀, Ascorbyl Palmitate, Ricinus Communis (Castor) Seed Oil➀, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Sodium Phytate, Citric Acid, Limonene➂, Citrus Aurantium Peel Oil, Geranyl Acetate➂, Citrus Limon Peel Oil, Linalool➂, Pinene➂, Geraniol➂, Pelargonium Graveolens Flower Oil, Citronellol➂, Vanillin, Beta-Caryophyllene➂, Carvone➂ ➀ Ingredients from organic farming➁ Made using organic ingredients➂ From natural essential oils Natural origin of total 99% Organic origin of total 13% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T23:44:21Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/KYsFtoKnBQbBw3vwFSQHftQvGjeHNAz0.jpg?v=1771584814
-  Price: €34.50 EUR
-- [Pigment Perfecting Serum](https://shopglownyc.com/products/pigment-perfecting-serum): Product description: Our Pigment Perfecting Serum is designed to reduce the appearance of dark spots and promote an even skin tone. The lightweight formula hydrates and soothes while targeting pigmentation for a brighter complexion. Its scent adds an extra layer of indulgence, with earthy notes of vetiver root and wood, complemented by a soft, sweet almond background. Apply daily to clean skin for best results. Combine with: Use together with our Niacinamide Gel Moisturiser and Vitamin C Serum to promote a more even skin tone. Gluten Free Nut Free Vegan Natural  Certificate Ingredients Sodium PCA, Vitamin E Star features lightweight serum, reduces the appearance of dark spots, promotes an even skin tone Concern Anti-age, Dark spots Skin type All skin types Aroma Woody vetiver aroma with notes of white florals, sweet almond and vanilla Ingredients / INCI Ingredients / INCI: Aqua, Glycerin➁, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil➀, Pentylene Glycol, Cetearyl Alcohol, Sodium PCA, Glyceryl Stearate Citrate, Alpha-Arbutin, Astrocaryum Murumuru Seed Butter, Gossypium Herbaceum Seed Oil, Bidens Pilosa Extract, Cellulose, Linum Usitatissimum Seed Oil, Parfum, Xanthan Gum, Ascorbyl Palmitate, Lactic Acid, Ascophyllum Nodosum Extract, Sodium Phytate, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Tocopherol, Limonene➂, Citrus Limon Peel Oil, Pogostemon Cablin Oil, Linalool➂, Juniperus Virginiana Oil, Cedrus Atlantica Oil/Extract, Pinene➂, Vanillin, Menthol➂, Citral➂, Beta-Caryophyllene➂ ➀ Ingredients from organic farming➁ Made using organic ingredients➂ From natural essential oils Natural origin of total 100% Organic origin of total 23% Sustainable products The products are made using environmentally friendly production and processing processes respecting human health and using natural resources responsibly.The formulations are developed, applying the concept of green formulation.The ingredients used in the products are made respecting biodiversity.There are no GMO ingredients within the products.The packaging is recyclable. The transportation packaging is made of recycled materials.
-  Updated: 2026-02-20T23:43:37Z
-  Vendor: Selfnamed
-  Product Type: Serums & Oils
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/zpEafpunKeDMgBfZjnezmyk0-dYmuMme.jpg?v=1771585713
-  Price: €34.50 EUR
+  Image: https://cdn.shopify.com/s/files/1/1000/5381/1548/files/c0d67796-5a53-42b8-9a61-a55690d955ee_8c40b999-3772-49e1-a4aa-af5aa3a88634.jpg?v=1772280117
+  Price: €29.99 EUR
 
 ## Collections
 
 - [Home page](https://shopglownyc.com/collections/frontpage)
-  Updated: 2026-02-20T09:37:25Z
-  Total Products: 27
-- [Beauty example products](https://shopglownyc.com/collections/beauty-example-products)
-  Updated: 2026-02-20T09:36:53Z
-  Total Products: 27
+  Updated: 2026-02-27T11:41:49Z
+  Total Products: 0
 - [Digital Goods VAT Tax](https://shopglownyc.com/collections/digital-goods-vat-tax)
-  Updated: 2026-02-20T09:37:10Z
-  Total Products: 27
+  Updated: 2026-02-27T11:41:49Z
+  Total Products: 0
+- [Ashwagandha,Shilajit Gummies,Turmeric,Lion's Mane,Multivitamin Gummies,Magnesium + Zinc + B6 Gummies,Apple Cider Vinegar + C + B6 + Chromium Gummies](https://shopglownyc.com/collections/ashwagandha-shilajit-gummies-turmeric-lions-mane-multivitamin-gummies-magnesium-zinc-b6-gummies-apple-cider-vinegar-c-b6-chromium-gummies)
+  Updated: 2026-02-28T12:16:33Z
+  Total Products: 8
 
 ## Blogs
 
 - [News](https://shopglownyc.com/blogs/news)
-  - [Unlock Glowing Skin with Our Ultimate Vitamin C Guide](https://shopglownyc.com/blogs/news/unlock-glowing-skin-with-our-ultimate-vitamin-c-guide): Unlock Glowing Skin with Our Ultimate Vitamin C Guide
-    Updated: 2026-02-20T12:50:51Z
-    Author: G L O W skincare
-    Tags: best vitamin c serums, glow, glowing skin, how to use vitamin c, skincare, skincare routine, vitamin, vitamin c
-  - [Glowing Skin Made Easy: Your Modern Skincare Checklist](https://shopglownyc.com/blogs/news/glowing-skin-made-easy-your-modern-skincare-checklist): Glowing Skin Made Easy: Your Modern Skincare Checklist
-    Updated: 2026-02-21T01:12:59Z
-    Author: G L O W skincare
-    Tags: beauty, best skincare tips, effective skincare products, face moisturizer, glow, healthy skin, skincare, skincare routine
+  - [Ingredient Guide: What's in GLOW Wellness Gummies | GLOW](https://shopglownyc.com/blogs/news/ingredient-guide-the-power-behind-glow-wellness-gummies): Ingredient Guide: What's in GLOW Wellness Gummies | GLOW
+    Updated: 2026-02-27T18:11:06Z
+    Author: Val KALIS
+  - [Understanding Wellness Gummies The Health Benefits Explained](https://shopglownyc.com/blogs/news/understanding-wellness-gummies-the-health-benefits-explained): Understanding Wellness Gummies The Health Benefits Explained
+    Updated: 2026-02-27T12:34:24Z
+    Author: GLOW
+  - [Boost Your Immune System: Top Vitamins, Minerals & Supplements 2026](https://shopglownyc.com/blogs/news/boost-your-immune-system-vitamins-minerals-supplements-1516-95): Boost Your Immune System: Top Vitamins, Minerals & Supplements 2026
+    Updated: 2026-02-28T11:32:53Z
+    Author: Val KALIS
+  - [Top Ten Reasons Wellness Gummies Should Be in Your Daily Routine](https://shopglownyc.com/blogs/news/top-ten-reasons-wellness-gummies-should-be-in-your-daily-routine): Top Ten Reasons Wellness Gummies Should Be in Your Daily Routine
+    Updated: 2026-02-28T11:32:30Z
+    Author: GLOW
 
 ## Store Pages
 
-- [Contact](https://shopglownyc.com/pages/contact)
-  Updated: 2026-02-15T13:02:07Z
+- [Contact Us for Inquiries and Support](https://shopglownyc.com/pages/contact): Get in Touch: Contact Us Why Contact Us? We understand that having accessible communication is vital, so we encourage you to get in touch. Contact ...
+  Updated: 2026-02-27T19:34:01Z
 - [Your Privacy Choices](https://shopglownyc.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-02-18T14:43:07Z
 - [Ingredients & Certification - GLOW](https://shopglownyc.com/pages/ingredients-certification): Skincare Formulas & Ingredients Sunscreen | Boosters | Cleansers | Conditioners | Toners | Serums | Eye creams | Facial oils | Moisturisers | Hand ...
   Updated: 2026-02-18T15:33:07Z
+- [About Us - GLOW Premium Skincare](https://shopglownyc.com/pages/about-us): Welcome to GLOW At GLOW, we believe that wellness should be simple, delicious, and effective. Our premium collection of wellness gummies is crafted...
+  Updated: 2026-02-27T19:30:29Z
+- [FAQ - GLOW Wellness Gummies](https://shopglownyc.com/pages/frequently-asked-questions): Frequently Asked Questions General Questions What makes GLOW gummies different from other supplements?All GLOW gummies are 100% vegan, sugar-free, ...
+  Updated: 2026-02-27T19:30:12Z
+- [html sitemap products](https://shopglownyc.com/pages/html-sitemap-products): Products Apple Cider Vinegar + C + B6 +... Magnesium + Zinc + B6 Gummies ... Multivitamin + Mineral Gummies... Ashwagandha + Vitamin B6 Gummi... Li...
+  Updated: 2026-02-27T18:18:04Z
+- [html sitemap collections](https://shopglownyc.com/pages/html-sitemap-collections): Collections Home page Digital Goods VAT Tax Ashwagandha,Shilajit Gummies,T... .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-site...
+  Updated: 2026-02-27T18:18:05Z
+- [html sitemap blogs](https://shopglownyc.com/pages/html-sitemap-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
+  Updated: 2026-02-27T18:18:07Z
+- [html sitemap articles](https://shopglownyc.com/pages/html-sitemap-articles): Blog Posts Ingredient Guide: The Power Be... Understanding Wellness Gummies... 15 Effective Ways to Boost You... .seoant-html-sitemap-row { margin-...
+  Updated: 2026-02-27T18:18:08Z
+- [html sitemap pages](https://shopglownyc.com/pages/html-sitemap-pages): Pages Contact Your Privacy Choices Ingredients & Certification About Us Frequently Asked Questions html sitemap products html sitemap collections h...
+  Updated: 2026-02-27T18:18:10Z
+- [html sitemap](https://shopglownyc.com/pages/html-sitemap): Products Apple Cider Vinegar + C + B6 +... Magnesium + Zinc + B6 Gummies ... Multivitamin + Mineral Gummies... Ashwagandha + Vitamin B6 Gummi... Li...
+  Updated: 2026-02-27T18:18:11Z
 
 ## Policies
 
@@ -271,3 +178,34 @@
 
 - [robots.txt](https://shopglownyc.com/robots.txt)
 - [sitemap.xml](https://shopglownyc.com/sitemap.xml)
+
+About Us
+Welcome to GLOW
+At GLOW, we believe that wellness should be simple, delicious, and effective. Our premium collection of wellness gummies is crafted with high-quality ingredients to support your health journey in the most convenient way possible. Every product is vegan, sugar-free, and formulated to deliver real results.
+
+Our Philosophy
+We're committed to making wellness accessible and enjoyable. Gone are the days of hard-to-swallow pills and unpleasant supplements. Our gummies combine science-backed ingredients with delicious flavors, making it easy to maintain your daily wellness routine. We believe you deserve to know exactly what you're putting in your body, which is why we provide complete ingredient transparency.
+
+Our Product Range
+Digestive & Metabolic Support: Our Apple Cider Vinegar gummies combine the benefits of ACV with vitamin C, B6, and chromium to support your metabolism, immune system, and balanced blood sugar levels—all in a delicious apple-flavored format.
+
+Essential Nutrients: From our Magnesium + Zinc + B6 gummies that support energy and muscle health, to our comprehensive Multivitamin + Mineral gummies with 10 essential vitamins, we make it easy to fill nutritional gaps and maintain optimal wellness.
+
+Stress & Cognitive Support: Experience natural stress relief with our Ashwagandha gummies, or boost your cognitive function with Lion's Mane mushroom gummies—both enhanced with vitamin B6 for additional nervous system support.
+
+Anti-Inflammatory & Vitality: Our Turmeric + Ginger + Black Pepper gummies harness natural anti-inflammatory benefits, while our premium Shilajit gummies with 20% fulvic acid support natural vitality and nutrient absorption, enhanced with vitamins C, B6, and B12.
+
+What Makes Us Different
+Every GLOW product is thoughtfully formulated to combine traditional wellness ingredients with modern nutritional science. We use only premium, bioavailable ingredients that your body can actually absorb and use. Our gummies are never just candy—they're functional supplements designed to support specific aspects of your health.
+
+Our Commitment
+We're dedicated to creating products that are:
+
+100% vegan and cruelty-free
+Sugar-free formulations
+Made with premium, bioavailable ingredients
+Backed by transparent ingredient lists
+Delicious and easy to incorporate into daily routines
+Formulated with science-backed dosages
+Free from unnecessary additives and fillers
+Thank you for choosing GLOW. We're honored to be part of your wellness journey.
