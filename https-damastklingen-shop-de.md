@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-29T12:17:18Z
 - Contact Email: info@damastklingen-shop.de
-- Updated At: 2026-02-23T00:00:42.567Z
+- Updated At: 2026-03-02T00:00:47.288Z
 
 ## Products
 
@@ -23,7 +23,7 @@
   Updated: 2025-12-24T14:35:11Z
   Price: 79,95 € EUR
 - [Damast Filetiermesser Sashimi 10 Zoll 110-Lagen Damaststahl](https://damastklingen-shop.de/products/damast-kuchenmesser-sashimimesser-mit-griff-aus-holz): Filetiermesser aus 110-lagigen Damaststahl & Holzgriff. Extrem scharf & ideal für präzises Filetieren von Fisch & Fleisch. Jetzt im Damastklingen-Shop kaufen!
-  Updated: 2025-12-23T00:10:24Z
+  Updated: 2026-02-23T18:06:12Z
   Price: 169,95 € EUR
 - [Kiritsuke Damastmesser 8 Zoll mit Epoxyharzgriff](https://damastklingen-shop.de/products/damast-kuchenmesser-8-zoll-mit-epoxy-holzgriff): Edles Damast Küchenmesser aus 67-lagigen Damaststahl & Epoxyharz-Griff. Extrem scharf & langlebig. Ideal für Profi- & Hobbyköche. Im Damastklingen-Shop kaufen!
   Updated: 2025-12-23T00:10:09Z
@@ -137,7 +137,7 @@
 ## Collections
 
 - [Hochwertige Damastmesser](https://damastklingen-shop.de/collections/damastmesser): Entdecken exklusive Damastmesser aus echtem Damaststahl. Scharf, langlebig und elegant – ideal für Profis, Hobbyköche oder als besonderes Geschenk.
-  Updated: 2026-02-21T12:29:17Z
+  Updated: 2026-02-24T12:37:31Z
   Total Products: 27
 - [Messersets aus Damaststahl](https://damastklingen-shop.de/collections/damastmesser-sets): Entdecken Sie unsere exklusiven Damastmesser Sets aus echtem Damaststahl. Perfekt für Ihre Küche oder als Geschenk – stilvoll, langlebig und präzise.
   Updated: 2025-12-28T12:25:15Z
@@ -167,7 +167,7 @@
   Updated: 2026-01-09T12:27:25Z
   Total Products: 6
 - [Präzise Damast Filetiermesser](https://damastklingen-shop.de/collections/damastmesser-filetiermesser): Exklusive Damast Filetiermesser aus echtem Damaststahl. Scharf, flexibel und langlebig – ideal für Fisch, Fleisch oder als besonderes Küchenmesser-Geschenk
-  Updated: 2026-01-02T12:22:58Z
+  Updated: 2026-02-24T12:37:31Z
   Total Products: 3
 - [Stilvolle Messerhalter](https://damastklingen-shop.de/collections/messerhalter): Hochwertige Messerhalter für Ihre Küche. Praktisch, langlebig und elegant – magnetische Leisten & Messerblöcke für sichere und stilvolle Aufbewahrung.
   Updated: 2025-12-11T12:53:49Z
@@ -243,7 +243,7 @@
 ## Policies
 
 - [Privacy Policy](https://damastklingen-shop.de/policies/privacy-policy)
-  Updated: 2026-02-21T04:21:14+01:00
+  Updated: 2026-02-28T04:02:05+01:00
 - [Shipping Policy](https://damastklingen-shop.de/policies/shipping-policy)
   Updated: 2025-10-22T14:48:54+02:00
 - [Refund Policy](https://damastklingen-shop.de/policies/refund-policy)
