@@ -6,7 +6,7 @@
 - Timezone: America/Kentucky/Louisville
 - Created At: 2026-02-03T16:48:15Z
 - Contact Email: estlepruettii@gmail.com
-- Updated At: 2026-02-21T00:00:33.985Z
+- Updated At: 2026-03-02T00:00:37.052Z
 
 ## Products
 
@@ -31,22 +31,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/SP_Laguna_Herbals_Nov142020-8552__59850.1633125418.1280.1280.jpg?v=1770582078
   Price: $27.72 USD
-- [Paper Bag Lunch Cooler](https://mystopshop2.myshopify.com/products/paper-bag-lunch-cooler): Our nostalgic nod to the classic paper lunch bag but with a modern twist. This best- reusable, insulated lunch bag helps you ditch disposables and keep your lunch fresh through morning commutes or extra-long lectures. We don’t recommend placing loose ice directly in the bags. For best results, use reusable ice packs or sealed baggies, as the coolers aren’t designed to hold liquids.
-  Updated: 2026-02-09T08:25:18Z
-  Vendor: Out of the Woods
-  Product Type: PHYSICAL, COOLERS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/PaperLunchAngle.jpg?v=1770582078
-  Price: $24.19 USD
 - [Walrus Cooler with Longer Handles](https://mystopshop2.myshopify.com/products/walrus-cooler-with-longer-handles): Need a functional alternative to your picnic basket? Look no further. This best-, soft-sided cooler just got an upgrade. Now with longer handles measuring 10.5" drop and 3.5 cm wide, allowing easy over-the-shoulder carrying for added comfort and support—30% longer than the original. A perfect addition for family-sized picnics, road trips, grocery store runs, beach days, and more. The Walrus Cooler helps you conveniently pack more while looking pretty, should we say, "cool."
-  Updated: 2026-02-09T08:22:01Z
+  Updated: 2026-02-22T19:06:47Z
   Vendor: Out of the Woods
   Product Type: PHYSICAL, COOLERS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/WalrusBack.png?v=1770582078
   Price: $42.11 USD
 - [Mini Shopper Lunch Cooler](https://mystopshop2.myshopify.com/products/mini-shopper-lunch-cooler): The perfect lunch bag when you don't want your lunch bag to look like a lunch bag. One of our fan faves, the Mini Shopper Lunch Cooler takes a timeless silhouette and turns it into your new lunchtime BFF. Did we mention after hours it can double as a cute purse? We don’t recommend placing loose ice directly in the bags. For best results, use reusable ice packs or sealed baggies, as the coolers aren’t designed to hold liquids.
-  Updated: 2026-02-09T08:22:52Z
+  Updated: 2026-02-22T19:06:47Z
   Vendor: Out of the Woods
   Product Type: PHYSICAL, COOLERS
   Availability: Available
@@ -77,13 +70,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/soothe_white_box_31__61498.1690260434.1280.1280.png?v=1770582078
   Price: $25.20 USD
-- [Dolphin Square Cooler](https://mystopshop2.myshopify.com/products/dolphin-square-cooler): This best-, minimalist cooler helps keep everything from groceries to picnic essentials fresh! The spacious interior offers plenty of room and the handy front pocket makes sure you can keep track of all your essentials. Shop, play, or picnic with ease with the Dolphin Square Cooler by your side. We don’t recommend placing loose ice directly in the bags. For best results, use reusable ice packs or sealed baggies, as the coolers aren’t designed to hold liquids.
-  Updated: 2026-02-09T08:21:53Z
-  Vendor: Out of the Woods
-  Product Type: PHYSICAL, COOLERS
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/DolphinCoolerAngle.jpg?v=1770582078
-  Price: $37.63 USD
 - [Rose Crush - Exfoliating Body Scrub](https://mystopshop2.myshopify.com/products/rose-crush-exfoliating-body-scrub): Sugar, roses, beets and coconut unite to exfoliate and moisturize your skin. This blend provides B vitamins, Antioxidants and Minerals to further benefit your skin and overall health. Recommended Directions: After cleansing and rinsing with soap, rub desired amount all over and scrub to exfoliate and soften your skin. Rinse and pat dry with a towel. Green Ingredient Benefits Sugar Cane: Gently exfoliates and polishes skin, revealing a smooth and radiant skin. Coconut Oil: Moisturizes and nourishes skin, leaving it soft, supple, and hydrated. Safflower Oil: Rich in antioxidants and essential fatty acids, safflower oil promotes skin health and vitality. Kokum Butter: Provides deep hydration and helps to repair dry, damaged skin, leaving it silky smooth. Rose Flowers: Infused with soothing properties, rose flowers calm and rejuvenate the skin, promoting a sense of relaxation. Beet Root: Packed with vitamins and minerals, beet root brightens and revitalizes the skin, enhancing its natural glow. Key Benefits Exfoliates Dead Skin Cells: Our sugar scrub gently removes dead skin cells, revealing smoother, brighter skin underneath. Hydrates and Nourishes: Formulated with moisturizing ingredients, our sugar scrub deeply hydrates and nourishes the skin, leaving it soft and supple. Improves Skin Texture: Regular use of our sugar scrub helps to improve skin texture, leaving it smooth and even-toned. Boosts Radiance: Enriched with skin-brightening ingredients, our sugar scrub helps to boost radiance, giving your skin a healthy and youthful glow. Soothes and Calms: Infused with soothing properties, our sugar scrub calms and comforts the skin, leaving it feeling refreshed and rejuvenated. Ingredients - *Saccharum Officinarum(Sugar) cane, *Cocos Nucifera(Coconut) oil, *Carthamus Tinctorius(Safflower) oil, Kokum Butter, *Rose Damascene (Rose)flowers, *Beta Vulgaris (Beet Root), *non-gmo vitamin e, proprietary blend of essential oils, Sambucus Nigra (Elder)Fruit Extract 8oz/226g
   Updated: 2026-02-09T08:22:02Z
   Vendor: Laguna Herbals
@@ -120,79 +106,79 @@
     Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/61f7c9Sk_2BYL._AC_SL1200_a55c8cc4-70d1-4d1c-b124-ef9b3a71624b.jpg?v=1770582079
     Price: $1.89 USD
 - [hoo(key) Flip-Over Cover](https://mystopshop2.myshopify.com/products/hookey-flip-over-cover): Pre-order only! Expected delivery October 2020 Keep your hoo(key) safe from being scratched or damaged when not in use with the specially designed hookey Flip-Over Cover. Made to flip on and off with the snap of your thump. Keep your hoo(key) looking new for years to come. Always by your side whenever you need to call on hoo(key)! Specifications: Material: Polypropelene Thumb Lever Pivot Keyring Hole Package Includes: One (1) hookey Slide-Over Cover
-  Updated: 2026-02-09T08:22:13Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: USA
   Product Type: Hookey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/cover1final_38eee75d-f075-4241-8e64-36577ca3e480.gif?v=1770582078
   - [Black](https://mystopshop2.myshopify.com/products/hookey-flip-over-cover?variant=47722479321347)
     Availability: Available
-    Price: $2.85 USD
+    Price: $2.84 USD
   - [Blue](https://mystopshop2.myshopify.com/products/hookey-flip-over-cover?variant=47722479354115)
     Availability: Available
-    Price: $2.85 USD
+    Price: $2.84 USD
 - [The Starter Bundle](https://mystopshop2.myshopify.com/products/the-starter-bundle): The starter bundle is perfect if you want to incorporate monthly into your period routine seamlessly and save $$$–10% off to be exact! You get 5 pairs of The Boxer Brief (To cut back on the washes, give the favorite bundle a try!) What is The Boxer Brief? A comfy, mid-rise boxer brief made from super soft recycled nylon. Our machine-washable boxer brief period underwear is engineered for regular or light flow days, ideal as a standalone solution or reliable backup for heavy flow days. (psst.. we've made some really cool updates to the boxer brief like: an extended gusset, a pad shaped gusset to allow more absorbency and comfort, and a reinforced waistband)
-  Updated: 2026-02-09T08:24:05Z
+  Updated: 2026-02-22T19:06:45Z
   Vendor: Monthly
   Product Type: The Boxer Brief Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/monthly-period-underwear-lifestyle-211.jpg?v=1770582078
   - [XXS / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479419651)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [XXS / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479452419)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [XS / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479485187)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [XS / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479517955)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [S / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479550723)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [S / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479583491)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [M / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479616259)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [M / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479649027)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [L / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479681795)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [L / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479714563)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [XL / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479747331)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [XL / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479780099)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [2X / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479812867)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [2X / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479845635)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [3X / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479878403)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [3X / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479911171)
     Availability: Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [4X / Black](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479943939)
     Availability: Not Available
-    Price: $112.14 USD
+    Price: $112.15 USD
   - [4X / Matcha Checker](https://mystopshop2.myshopify.com/products/the-starter-bundle?variant=47722479976707)
     Availability: Not Available
-    Price: $112.14 USD
+    Price: $112.15 USD
 - [The Intro Bundle](https://mystopshop2.myshopify.com/products/the-intro-bundle): The intro set is perfect if you want to give period underwear a try and save some $$$–5% off to be exact. You get 3 pairs of The Boxer Brief (To cut back on the wash days, give our other bundles a try!) What is The Boxer Brief? A comfy, mid-rise boxer brief made from super soft recycled nylon. Our machine-washable boxer brief period underwear is engineered for regular or light flow days, ideal as a standalone solution or reliable backup for heavy flow days. (psst.. we've made some really cool updates to the boxer brief like: an extended gusset, a pad shaped gusset to allow more absorbency and comfort, and a reinforced waistband)
-  Updated: 2026-02-09T08:21:55Z
+  Updated: 2026-02-22T19:06:48Z
   Vendor: Monthly
   Product Type: The Boxer Brief Bundle
   Availability: Available
@@ -252,65 +238,65 @@
     Availability: Not Available
     Price: $71.02 USD
 - [The Favorite Bundle](https://mystopshop2.myshopify.com/products/the-favorite-bundle): The favorite bundle if you are ready to make monthly your main squeeze during your period and save $$$–15% off to be exact. You get 7 pairs of The Boxer Brief. Less washing & more comfort and sustainability during your period! What is The Boxer Brief? A comfy, mid-rise boxer brief made from super soft recycled nylon. Our machine-washable boxer brief period underwear is engineered for regular or light flow days, ideal as a standalone solution or reliable backup for heavy flow days. (psst.. we've made some really cool updates to the boxer brief like: an extended gusset, a pad shaped gusset to allow more absorbency and comfort, and a reinforced waistband)
-  Updated: 2026-02-09T08:24:12Z
+  Updated: 2026-02-22T19:06:48Z
   Vendor: Monthly
   Product Type: The Boxer Brief Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/monthly-period-underwear-lifestyle-42.jpg?v=1770582078
   - [XXS / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480632067)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [XXS / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480664835)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [XS / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480697603)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [XS / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480730371)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [S / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480763139)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [S / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480795907)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [M / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480828675)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [M / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480861443)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [L / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480894211)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [L / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480926979)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [XL / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480959747)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [XL / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722480992515)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [2X / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722481025283)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [2X / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722481058051)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [3X / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722481090819)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [3X / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722481123587)
     Availability: Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [4X / Black](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722481156355)
     Availability: Not Available
-    Price: $148.27 USD
+    Price: $148.28 USD
   - [4X / Matcha Checker](https://mystopshop2.myshopify.com/products/the-favorite-bundle?variant=47722481189123)
     Availability: Not Available
-    Price: $148.27 USD
+    Price: $148.28 USD
 - [Activated Charcoal Detox Bath Set](https://mystopshop2.myshopify.com/products/activated-charcoal-detox-bath-set): Step 1 Soak up some of our Mineral "TRANQUIL" bath infusion. *Black Lava salt is infused with activated charcoal which helps to increase blood circulation and has a detoxifying effect on the body as it draws out impurities. This salt contains a therapeutic blend of essential oils that will help to bathe away feelings of stress and tension. Directions – dissolve 4 tablespoons per standard size bathtub of salt directly under the faucet of hot running bathwater as the tub is filling up. Relax, infuse yourself, and reap the many health benefits for at least 15 minutes. Ingredients – Black Lava Salt, Epsom Salt, Dendritic Salt, and our Proprietary Blend of Essential Oils. Step 2 - *Once you step out of the bath, towel dry, and SPRINKLE on some of our talc free, non-toxic, herbal body dust to dry off. Keeps skin soothed, soft and dry Directions – Sprinkle onto hand and apply to skin as needed. To prevent rash due to moisture place by hand into skin creases of armpits, arms, legs and wrists. Ingredients – White Clay,*Maronta Arudinacea (Arrowroot), *Althaea Officinalis (Marshmallow) root, *Corn Starch, *Lavandula X Intermedia (Lavandin) flowers, *Rosa Damascene (Rose), flowers, Baking Soda, proprietary blend of essential oils. * organic Step 3 - Moisturize your skin with our very own SOFTEN lavender scented body oil. GREEN INGREDIENT BENEFITS SUNFLOWER OIL is moisturizing, anti-inflammatory. Rich in vitamin A, B and GLA. LAVENDER reduces and prevents inflammation, acts as an astringent, antiseptic, and anti-fungal. Because of its healing properties it is also used to treat cuts, scrapes, bruises, minor infections and burns. CHAMOMILE contains two substances that make it great to use in skincare. “Bisabolol”, present in chamomile is anti-inflammatory, antibacterial, and anti- fungal. Apigenin has been shown to reduce DNA oxidative damage and acts as an anti-inflammatory. ROSE contains high amounts of vitamin C and can help protect skin cells from damage. The natural oils in roses help to lock moisture into the skin and is a natural astringent which helps to tighten pores and restore suppleness. CALENDULA has a high flavonoid content which makes it a versatile herb that contains antioxidant and anti-inflammatory carotenes. It has been used for centuries to make topical skin preparations to ease burns, eczema, psoriasis, insect bites, abrasions and other irritations. ELDERBERRY Antioxidants in elderberries provide protection from free radicals that contribute to cell damage, aging, and wrinkle formation. Bioflavonoids, which can also be found in elderberries, exhibit astringent properties that help tighten the skin and provide additional anti-wrinkle benefits Ingredients – *Helianthus Annuus oil, *Anthemis Nobilis(Chamomile), *Rosa Dama Scena (Rose), *Lavendula Officinalis(Lavendar), *Calendula Officinalis (Calendula), non-gmo vitamin e, proprietary blend of essential oils, Sambucus Nigra(Elder) Fruit Extract.
   Updated: 2026-02-09T08:25:57Z
   Vendor: Pruettsbargain
@@ -356,14 +342,14 @@
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/box_set_photos_1920_1920_px_5__59905.1681314018.1280.1280.png?v=1770582078
   Price: $31.92 USD
 - [Restore Cuticle  Oil](https://mystopshop2.myshopify.com/products/restore-cuticle-oil): LAGUNA HERBALS RESTORE CUTICLE SERUM Nothing short of a “miracle in a bottle”, RESTORE nail and cuticle serum is a potent vegan solution for weak , brittle nails. Our fast absorbing blend of safflower, grapeseed and sunflower oils will condition cuticles and provide moisture to the nail bed, while our silica rich nail building infusion of rosemary, horsetail, sage and chamomile will help grow nails to long, strong, and flexible perfection. A burst of freshness accompanies this powerhouse with our essential oil derived lavender/citrus scent. Directions – Apply a few drops to cuticles and excess may be rubbed into nailbed as needed. Ingredients - Carathamus Tinctorius (Safflower) oil, Helianthus Annuus (Sunflower) seed oil, Vitis Vinifera (Grapeseed) Oil, *Equisetum Arvense (Horsetail), *Rosemarinus Officinalis (Rosemary), *Salvia Officinalis (Sage Leaf), *Anthemis Nobilis (Chamomile), Non-GMO Vitamin E, proprietary blend of therapeutic essential oils. * organic.
-  Updated: 2026-02-09T08:21:50Z
+  Updated: 2026-02-22T19:06:47Z
   Vendor: Laguna Herbals
   Product Type: BODY
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/restore_nail_serum_on_pink_sand_1920_1920_px__54007.1656612887.1280.1280.png?v=1770582078
   Price: $14.00 USD
 - [The Boxer Brief](https://mystopshop2.myshopify.com/products/the-boxer-brief): A comfy, mid to high-rise boxer brief made from super soft recycled nylon. Our machine-washable boxer brief period underwear is engineered for regular or light flow days, ideal as a standalone solution or reliable backup for heavy flow days. (psst.. we've made some really cool updates to the boxer brief like: an extended gusset, a pad shaped gusset to allow more absorbency and comfort, and a softer waistband)
-  Updated: 2026-02-09T08:23:58Z
+  Updated: 2026-02-22T19:06:49Z
   Vendor: Monthly
   Product Type: n/a
   Availability: Available
@@ -440,74 +426,48 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/cmp-07847.jpg?v=1770582079
     Price: $24.92 USD
-- [3 Pack of hoo(key)™ - The Only Patented Antimicrobial Silicone No-Touch Keychain Tool - Value Pack !](https://mystopshop2.myshopify.com/products/3-pack-of-hookey-the-only-patented-antimicrobial-silicone-no-touch-keychain-tool-value-pack-): hoo(key)™ is an antimicrobial, anti-scratch, super-strong tool to open doors, press buttons, etc — all contact-free & germ-free hoo(key)™ is the first patented antimicrobial silicone anti-touch tool on the market. In these uncertain times, when going into the outside world is a question mark, find security with hoo(key)™. hoo(key)™ is a durable, lightweight, antimicrobial keychain tool, with a patented design, that creates a safe way to complete everyday tasks without touching shared surfaces that harbor bacteria and viruses. hoo(key)™ is the perfect extension of your hand that grants you the peace of mind needed to go through everyday life. hookey is engineered to open ANY commercial door handle. With hoo(key)™ you can push, pull, and press your way through life to live contact-free and worry-free! hoo(key)™ is the perfect extension of your hand that grants you the peace of mind needed to go through everyday life. hookey is engineered to open ANY commercial door handle. With hoo(key)™ you can push, pull, and press your way through life to live contact-free and worry-free! Lifetime Warranty only covers the aluminum frame and does not cover normal wear and tear or damage from abuse. hoo(key)™ has an antimicrobial Silicone coating to keep germs where they are and off of hoo(key)™. You never have to worry about germs getting into your pocket or on your keys, this reduces the risk of cross-contamination and the spread of germs. Silicone is used often in various industries as an anti-bacterial surface, this is for the antimicrobial properties that make it hard for viruses to live on the surface. Most no-touch tools are made of metal and scratch or mark everything they touch. hoo(key)™, because of our silicone coating, is anti-scratch, allowing you to go confidently without worrying about scratching any door or handle. hoo(key)™ is made from die-cast aluminum giving it surprising strength and versatility. hoo(key)™ can lift up to a 50lbs force — the equivalent of 15 grocery bags. hoo(key)™ has a smooth, 3-finger grip instead of a single finger grip. A better grip gives you better leverage to open any heavy doors. Since it’s made of die-cast aluminum, hoo(key)™ will never rust or corrode. In fact, we’re so confident of this, we’re adding a lifetime manufacturer warranty on the aluminum body of the hoo(key)™. Enjoy long-lasting strength and durability for a lifetime! Lifetime Guarantee!* *Lifetime warranty does not cover silicone coating or damage from abuse Because of the design and utility patented technology of hoo(key)™, you won’t find anything comparable to it on the market. With the innovation going above and beyond our competitors, hoo(key)™ is at the forefront of contact-free tools and technology. And it's affordable! Patent #: US20170370401 Patent #: USD808769S1 hoo(key)™ fits on your keychain, easily slips into your pocket, and is perfectly compact for everyday use. Pocket-sized at just 3.75’’ in length, 20 grams in weight, hoo(key)™ is compact and ready to be used in the blink of an eye. Great for your EDC—everyday carry. Think about the number of shared surfaces you touch in a day: doors, buttons, windows, the list is endless. In a world where virologists and epidemiologists stress the importance of caution and cleanliness, hoo(key)™ grants you peace of mind while allowing you to go about your everyday life without fear. Let’s be part of the solution, not the problem. We have a responsibility not only to ourselves but to our communities. hoo(key)™ is about more than just protecting yourself — it’s about protecting others by limiting spread through interaction.
-  Updated: 2026-02-09T12:49:03Z
-  Vendor: Hookey™
-  Product Type: Hookey
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/ezgif-2-e67c668ee941_650e95ea-77a1-4545-bf27-80913c539502.gif?v=1770582078
-  - [Black-Green-Orange](https://mystopshop2.myshopify.com/products/3-pack-of-hookey-the-only-patented-antimicrobial-silicone-no-touch-keychain-tool-value-pack-?variant=47722482106627)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/ezgif-2-e67c668ee941_650e95ea-77a1-4545-bf27-80913c539502.gif?v=1770582078
-    Price: $9.51 USD
-  - [Blue-Gray-Pink](https://mystopshop2.myshopify.com/products/3-pack-of-hookey-the-only-patented-antimicrobial-silicone-no-touch-keychain-tool-value-pack-?variant=47722482139395)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/ezgif-2-e67c668ee941_650e95ea-77a1-4545-bf27-80913c539502.gif?v=1770582078
-    Price: $9.51 USD
-  - [Black-Blue-Pink](https://mystopshop2.myshopify.com/products/3-pack-of-hookey-the-only-patented-antimicrobial-silicone-no-touch-keychain-tool-value-pack-?variant=47722482172163)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/ezgif-2-e67c668ee941_650e95ea-77a1-4545-bf27-80913c539502.gif?v=1770582078
-    Price: $9.51 USD
-  - [Green-Gray-Pink](https://mystopshop2.myshopify.com/products/3-pack-of-hookey-the-only-patented-antimicrobial-silicone-no-touch-keychain-tool-value-pack-?variant=47722482204931)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/ezgif-2-e67c668ee941_650e95ea-77a1-4545-bf27-80913c539502.gif?v=1770582078
-    Price: $9.51 USD
-  - [Orange-Pink-Black](https://mystopshop2.myshopify.com/products/3-pack-of-hookey-the-only-patented-antimicrobial-silicone-no-touch-keychain-tool-value-pack-?variant=47722482237699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/ezgif-2-e67c668ee941_650e95ea-77a1-4545-bf27-80913c539502.gif?v=1770582078
-    Price: $9.51 USD
 - [Lotus Pendant Necklace with adjustable snake chain FEP029SR](https://mystopshop2.myshopify.com/products/lotus-pendant-necklace-with-adjustable-snake-chain-fep029sr): The adjustable snake chain allows you to adjust the length of the necklace with a sliding clasp. The oil diffuser pendant has ventilation holes to ensure your favourite scents are diffused all day long. Just open the magnet locked locket and place a few drops of your favourite essential oil onto the felt pad and enjoy the scent everwhere you are going. Includes: - 25 mm Locket Pendant - Adjustable chain (max 80 cm) - 6 pieces of 18 mm random colored felt pads Create Your Own Gift Set and Save: Check out our gift set option by clicking here. You can pick four of our oils to go with your pendant diffuser, all bundled up nicely in a gift box at a discounted rate.
-  Updated: 2026-02-09T08:23:03Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: Aura Scent
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/FEP029SR.jpg?v=1770582132
-  Price: $12.50 USD
+  Price: $12.59 USD
 - [Heart Locket Key Chain FKC045SR](https://mystopshop2.myshopify.com/products/heart-locket-key-chain-fkc045sr): Our diffuser keychains are the perfect way to take your favourite scents with you. Just open the magnet lock, apply some drops of your favourite essential oil onto the felt pad and enjoy your favorite scents all day long. The felt pads are re-useable and you can change the colors for a new look. Included: - 30 mm locket keychain; length 92 mm - 6 pieces of 23 mm random colored felt pads Create Your Own Gift Set and Save: Check out our gift set option by clicking here. You can pick four of our oils to go with your key chain diffuser, all bundled up nicely in a gift box at a discounted rate.
-  Updated: 2026-02-09T08:24:54Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: Aura Scent
   Product Type: Key Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/FKC045SR.jpg?v=1770582131
-  Price: $6.22 USD
+  Price: $6.26 USD
 - [Butterfly Diffuser Bracelet FBR040SR](https://mystopshop2.myshopify.com/products/butterfly-diffuser-bracelet-fbr040sr): Our bracelets are the ideal companion for your day. Just open the lock, apply some drops of your favourite essential oil onto the felt pad and enjoy your favorite scents all day long. The felt pads are re-useable and you can change the colors for a new look. Included: - 25 mm locket - 21 cm long chain with magnetic lock - 6 pieces of 18 mm random colored felt pads Create Your Own Gift Set and Save: Check out our gift set option by clicking here. You can pick four of our oils to go with your bracelet diffuser, all bundled up nicely in a gift box at a discounted rate.
-  Updated: 2026-02-09T08:23:25Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: Aura Scent
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/FBR040SR.jpg?v=1770582133
-  Price: $8.11 USD
+  Price: $8.16 USD
 - [Paw Essential Oil Bracelet FBR042RE](https://mystopshop2.myshopify.com/products/paw-essential-oil-bracelet-fbr042re): Our bracelets are the ideal companion for your day. Just open the lock, apply some drops of your favourite essential oil onto the felt pad and enjoy your favorite scents all day long. The felt pads are re-useable and you can change the colors for a new look. Included: - 25 mm diffuser locket - 19-24 cm adjustable chain - 6 pieces of 18 mm random colored felt pads Create Your Own Gift Set and Save: Check out our gift set option by clicking here. You can pick four of our oils to go with your bracelet diffuser, all bundled up nicely in a gift box at a discounted rate.
-  Updated: 2026-02-09T08:26:17Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: Aura Scent
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/FBR042RE.jpg?v=1770582135
-  Price: $10.62 USD
+  Price: $10.69 USD
 - [Chrysanthemum Pendant Necklace with adjustable Snake Chain FEP028ZA](https://mystopshop2.myshopify.com/products/chrysanthemum-pendant-necklace-with-adjustable-snake-chain-fep028za): The adjustable snake chain allows you to adjust the length of the necklace with a sliding clasp. The oil diffuser pendant has ventilation holes to ensure your favourite scents are diffused all day long. Just open the magnet locked locket and place a few drops of your favourite essential oil onto the felt pad and enjoy the scent everwhere you are going. Includes: - 25 mm Locket Pendant with Zirconia - Adjustable chain (max. 80 cm) - 6 pieces of 18 mm random colored felt pads Create Your Own Gift Set and Save: Check out our gift set option by clicking here. You can pick four of our oils to go with your pendant diffuser, all bundled up nicely in a gift box at a discounted rate.
-  Updated: 2026-02-09T08:25:25Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: Aura Scent
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/FEP028SR.jpg?v=1770582136
-  Price: $12.50 USD
+  Price: $12.59 USD
 - [Butterfly Key Chain FKC048RE](https://mystopshop2.myshopify.com/products/butterfly-key-chain-fkc048re): Our diffuser keychains are the perfect way to take your favourite scents with you. Just open the magnet lock, apply some drops of your favourite essential oil onto the felt pad and enjoy your favorite scents all day long. The felt pads are re-useable and you can change the colors for a new look. Included: - 30 mm locket keychain; total length 65 mm - 6 pieces of 23 mm random colored felt pads Create Your Own Gift Set and Save: Check out our gift set option by clicking here. You can pick four of our oils to go with your key chain diffuser, all bundled up nicely in a gift box at a discounted rate.
-  Updated: 2026-02-09T08:26:32Z
+  Updated: 2026-02-22T19:06:28Z
   Vendor: Aura Scent
   Product Type: Key Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/1253/3251/files/FKC048RE_11f332fd-0a34-4832-88b1-3d9895f46f14.jpg?v=1770582145
-  Price: $9.36 USD
+  Price: $9.43 USD
 
 ## Collections
 
