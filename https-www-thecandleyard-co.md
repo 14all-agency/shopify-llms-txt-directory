@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2024-08-31T22:56:09Z
 - Contact Email: info@thecandleyard.co
-- Updated At: 2026-02-20T00:00:39.816Z
+- Updated At: 2026-03-03T00:00:44.514Z
 
 ## Products
 
 - [Banana Pudding Dessert Candle](https://www.thecandleyard.co/products/banana-pudding-dessert-candle): Aromas of ripe bananas, creamy custard, and sweet vanilla wafers.
-  Updated: 2026-02-19T18:53:28Z
+  Updated: 2026-03-02T20:51:39Z
   Vendor: Limited Time Only!
   Product Type: Dessert Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Banana-Pudding-Dessert-Candle-Wholesale-Case-_12-Candles_-Limited-Time-Only-98835553.jpg?v=1753319691
   Price: $29.95 USD
 - [Strawberry Cake Dessert Candle](https://www.thecandleyard.co/products/strawberry-shortcake-dessert-candle): Aromas of juicy strawberries and fluffy vanilla cake.
-  Updated: 2026-02-19T20:37:01Z
+  Updated: 2026-03-02T23:47:15Z
   Vendor: Limited Time Only!
   Product Type: Dessert Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Dessert-Candles-_Copy_-Limited-Time-Only-114452516.jpg?v=1754065153
   Price: $29.95 USD
 - [Key Lime Pie Dessert Candle](https://www.thecandleyard.co/products/key-lime-pie-dessert-candle): Aromas of fresh lime zest, graham cracker, and sweet custard.
-  Updated: 2026-02-19T20:37:08Z
+  Updated: 2026-03-01T22:11:39Z
   Vendor: Limited Time Only!
   Product Type: Dessert Candles
   Availability: Available
@@ -39,56 +39,56 @@
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/DSC04972-Edit_b3deaeac-5728-462e-8530-aa70469fa64b.jpg?v=1766073656
   Price: $24.95 USD
 - [The Cookie Box Wax Melts](https://www.thecandleyard.co/products/the-cookie-box): THE COOKIE BOX WAX MELTSSmells like cookies… without the mess. Our Cookie Box Wax Melts bring the cozy, sweet vibes of fresh-baked treats straight to your space. Each box includes four cookie-inspired wax melts: Chocolate Chip, Frosted Sugar Cookie, Berry Coco, and Oatmeal. Just pop one into your wax warmer and let the delicious aroma do its thing. Perfect for cozy days, sweet cravings, and serious cookie lovers. Scents Included:🍪 Chocolate Chip🍪 Frosted Sugar Cookie🍪 Berry Coco🍪 Oatmeal
-  Updated: 2026-02-15T13:52:33Z
+  Updated: 2026-02-21T18:01:00Z
   Vendor: Limited Time Only!
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/FREE-Cookie-Box-Wax-Melts-Limited-Time-Only-114455665.png?v=1755148170
   Price: $24.95 USD
 - [Biscoff Cookie Dessert Candle](https://www.thecandleyard.co/products/biscoff-cookie-candle): Aromas of cinnamon, vanilla, and brown sugar.
-  Updated: 2026-02-19T18:53:23Z
+  Updated: 2026-03-02T16:56:15Z
   Vendor: Limited Time Only!
   Product Type: Dessert Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Dessert-Candles-_Copy_-Limited-Time-Only-114452922.jpg?v=1754065229
   Price: $29.95 USD
 - [Lemon Cupcake Room Spray](https://www.thecandleyard.co/products/lemon-cupcake-room-spray): Aromas of citrus lemon, vanilla cake, and sugar.
-  Updated: 2026-02-08T03:30:09Z
+  Updated: 2026-02-26T00:32:06Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/69.jpg?v=1758683294
   Price: $14.95 USD
 - [Birthday Cake Room Spray](https://www.thecandleyard.co/products/birthday-cake-room-spray): Smells like party time. Fluffy yellow cake, creamy vanilla frosting, and sugar crystals come together in this sweet celebration scent. Spritz for instant nostalgia—no candles, no calories, just pure birthday magic. 4 OZ
-  Updated: 2026-02-03T01:21:20Z
+  Updated: 2026-02-22T11:41:06Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Orange-Dreamsickle-Room-Spray-The-Candle-Yard-Co.-113327589.jpg?v=1758683294
   Price: $14.95 USD
 - [Strawberry Cake Simplified Candle](https://www.thecandleyard.co/products/strawberry-cake-simplified-candle): This is the one you’ll actually want to burn. Same juicy strawberries, whipped vanilla, and fluffy cake layers — just without all the toppings. Pairs perfectly with the original Strawberry Cake Candle if you want one to display and one to light. Simple, sleek, and just as addictive. Light it. Love it. Burn it daily.
-  Updated: 2026-02-19T04:00:12Z
+  Updated: 2026-03-02T13:53:07Z
   Vendor: The Candle Yard Co. 
   Product Type: Simplified Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Strawberry-Cake-Simplified-Candle-Wholesale-Case-_12-Candles-The-Candle-Yard-Co.-98839998.jpg?v=1758636570
   Price: $24.95 USD
 - [Key Lime Pie Simplified Candle](https://www.thecandleyard.co/products/key-lime-pie-simplified-candle): Zesty, creamy, and citrusy, made for lime lovers. Bright lime and smooth vanilla blend with a hint of sweetness for a fresh, feel-good burn. Smells like: summer brunch in candle form.Pairs perfectly with the original Key Lime Pie Dessert Candle if you want one to display and one to light.
-  Updated: 2026-02-17T15:37:52Z
+  Updated: 2026-02-27T00:50:46Z
   Vendor: The Candle Yard Co. 
   Product Type: Simplified Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Key-Lime-Pie-Simplified-Candle-Wholesale-Case-_12-Candles_-The-Candle-Yard-Co.-99668643.jpg?v=1758636570
   Price: $24.95 USD
 - [Strawberry Cake Wax Melt](https://www.thecandleyard.co/products/strawberry-cake-wax-melt): The one that always sells out. Sweet, juicy strawberries meet fluffy vanilla cake in this best-seller turned wax melt. It’s giving bakery bliss... without the cleanup. Snap off a cube, melt it down, and let your space smell like dessert heaven.
-  Updated: 2026-02-16T20:54:32Z
+  Updated: 2026-02-23T18:34:59Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/76_cfad5b15-c6f2-4a75-9eb7-26d628ea2174.jpg?v=1758636642
   Price: $8.95 USD
 - [Lemon Cupcake Wax Melt](https://www.thecandleyard.co/products/lemon-cup-cake-wax-melt): Aromas of citrus lemon, vanilla cake, and sugar.
-  Updated: 2026-02-15T13:03:32Z
+  Updated: 2026-03-02T13:53:07Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
@@ -109,14 +109,14 @@
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Orange-Dreamsickle-Wax-Melt-The-Candle-Yard-Co.-113326387.jpg?v=1758636642
   Price: $8.95 USD
 - [Banana Pudding Wax Melt](https://www.thecandleyard.co/products/banana-pudding-wax-melt): Bring that nostalgic smell of grandma's cozy kitchen straight to your home! Notes of ripe bananas, vanilla wafers, and rich custard. No flame necessary!
-  Updated: 2026-02-16T20:54:33Z
+  Updated: 2026-02-28T22:21:38Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Untitleddesign-17_ff1acbb1-c317-42ad-b65f-007efd1d1621.jpg?v=1758636642
   Price: $8.95 USD
 - [Biscoff Cookie Simplified Candle](https://www.thecandleyard.co/products/biscoff-cookie-simplified-candle): Aromas of cinnamon, vanilla, and brown sugar.
-  Updated: 2026-02-15T13:52:33Z
+  Updated: 2026-03-01T18:58:57Z
   Vendor: The Candle Yard Co.
   Product Type: Simplified Candles
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Untitleddesign-48.png?v=1758636570
   Price: $24.95 USD
 - [Lavender Latte Drink Candle](https://www.thecandleyard.co/products/lavernder-latte-drink-candle): Aromas of fresh lavender bloom and linen.
-  Updated: 2026-02-03T01:19:11Z
+  Updated: 2026-02-24T14:17:45Z
   Vendor: Limited Time Only!
   Product Type: 
   Availability: Available
@@ -150,50 +150,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/98.png?v=1755370704
   Price: $16.95 USD
-- [Orange Dreamsickle Room Spray](https://www.thecandleyard.co/products/orange-dreamsickle-room-spray): Aromas of orange zest, whipped cream, and vanilla sugar.
-  Updated: 2026-02-16T20:54:26Z
-  Vendor: The Candle Yard Co.
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Orange-Dreamsickle-Room-Spray-The-Candle-Yard-Co.-113327867.png?v=1758683294
-  Price: $14.95 USD
 - [Vanilla Ice Cream Room Spray](https://www.thecandleyard.co/products/vanilla-ice-cream-room-spray): 🍦 Vanilla Ice Cream Room SpraySlow-Churned Vanilla • Sugar Crystals • Golden Waffle ConeIndulgent and cozy—classic vanilla ice cream scooped into a warm waffle cone, topped with sparkling sugar. 4 OZ
-  Updated: 2026-02-05T16:04:40Z
+  Updated: 2026-02-21T20:48:07Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/Vanilla-Ice-Cream-Room-Spray-The-Candle-Yard-Co.-113327918.png?v=1758683294
   Price: $14.95 USD
 - [Lemon Cupcake Car Freshener](https://www.thecandleyard.co/products/lemon-cupcake-car-freshener): Aromas of citrus lemon, vanilla cake, and sugar.
-  Updated: 2026-02-19T20:37:10Z
+  Updated: 2026-03-02T13:53:07Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/ProductImagesWebsite_8.png?v=1770613784
   Price: $4.99 USD
 - [Key Lime Pie Car Freshener](https://www.thecandleyard.co/products/key-lime-pie-car-freshener): Fresh, tangy, and irresistibly sweet — just like the classic dessert. 🥧🍋Our Key Lime Pie Car Freshener blends bright key lime, creamy vanilla, and a hint of buttery graham cracker crust for a fragrance that’s both refreshing and comforting. Why You’ll Love It: Long-lasting scent that keeps your car smelling amazing for weeks Perfect mix of citrus zest and creamy sweetness Compact, easy-to-hang design
-  Updated: 2026-02-09T16:54:27Z
+  Updated: 2026-02-26T17:20:53Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/166_f134e4da-1152-4d48-8ba1-21e653e47c9a.png?v=1770612874
   Price: $4.99 USD
 - [Vanilla Ice Cream Car Freshener](https://www.thecandleyard.co/products/vanilla-ice-cream-car-freshener): Aromas of vanilla bean, waffle cone, and sweet sugar.
-  Updated: 2026-02-18T12:11:59Z
+  Updated: 2026-02-26T17:20:29Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/167.png?v=1770613895
   Price: $4.99 USD
 - [Strawberry Cake Car Freshener](https://www.thecandleyard.co/products/strawberry-cake-car-freshener): Aromas of juicy strawberries and fluffy vanilla cake.
-  Updated: 2026-02-19T18:53:27Z
+  Updated: 2026-03-02T23:47:09Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/166.png?v=1770612876
   Price: $4.99 USD
 - [Birthday Cake Car Freshener](https://www.thecandleyard.co/products/birthday-cake-car-freshner): Aromas of buttercream frosting, vanilla bean, and yellow cake.
-  Updated: 2026-02-09T17:11:20Z
+  Updated: 2026-03-01T03:07:12Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
@@ -214,49 +207,49 @@
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/DSC01140.jpg?v=1760322862
   Price: $4.99 USD
 - [Banana Pudding Car Freshener](https://www.thecandleyard.co/products/banana-pudding-car-freshner): Aromas of ripe bananas, creamy custard, and sweet vanilla wafers.
-  Updated: 2026-02-09T16:53:37Z
+  Updated: 2026-03-02T07:01:27Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/170.png?v=1770612820
   Price: $4.99 USD
 - [Orange Dreamsickle Car Freshener](https://www.thecandleyard.co/products/orange-dreamsickle-car-freshner): Aromas of orange zest, whipped cream, and vanilla sugar.
-  Updated: 2026-02-10T04:02:54Z
+  Updated: 2026-03-02T07:01:27Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/166_1e8c7097-5cd9-4084-b155-3f1dcbc122e2.png?v=1770613818
   Price: $4.99 USD
 - [Biscoff Cookie Car Freshener](https://www.thecandleyard.co/products/biscoff-cookie-car-freshner): Aromas of cinnamon, vanilla, and brown sugar.
-  Updated: 2026-02-09T16:53:00Z
+  Updated: 2026-02-28T22:21:47Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/168.png?v=1770612773
   Price: $4.99 USD
 - [Apple Pie Car Freshener](https://www.thecandleyard.co/products/apple-pie-car-freshner): Aromas of apple, cinnamon, and vanilla.
-  Updated: 2026-02-17T23:11:52Z
+  Updated: 2026-02-24T14:17:21Z
   Vendor: The Candle Yard Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/DSC01160_80ac4919-2f48-4aa8-baa8-33d003d60ced.jpg?v=1760699994
   Price: $4.99 USD
 - [The Strawberry Cake Duo Bundle](https://www.thecandleyard.co/products/the-strawberry-cake-duo-bundle): Our viral scent, now in the perfect two-pack. Strawberry Cake is the sweet fragrance everyone’s been raving about... juicy strawberries, fluffy cake layers, and a hint of vanilla magic. This exclusive bundle includes:• Our best- Strawberry Cake dessert candle (aka the one that keeps  out)• The Simplified Strawberry Cake candle: same dreamy scent, made for everyday burning A $65.95 value — yours for just $52.95!✨ Because strawberry cake deserves a spot in your daily routine.
-  Updated: 2026-02-19T20:37:07Z
+  Updated: 2026-03-02T23:47:17Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/The-Vanilla-Ice-Cream-Duo-Bundle-The-Candle-Yard-Co.-113326945.webp?v=1762448317
   Price: $52.95 USD
 - [The Key Lime Pie Duo Bundle](https://www.thecandleyard.co/products/the-key-lime-pie-duo-bundle): Your favorite zesty scent, now bundled up and better than ever 🥧 🍋🟩 Key Lime Pie is that perfect balance of tart citrus and sweet goodness! It's like a slice of fresh pie with a buttery crust and sunshine on top. This exclusive bundle includes:• Our whipped Key Lime Dessert Candle...zesty, fluffy, and totally addictive• The Simplified Key Lime candle: same fresh scent, perfect for everyday burning A $62.90 value — yours for just $52.95!✨ A little tang, a little sweet, and a whole lot of yum in the air.
-  Updated: 2026-02-19T20:37:18Z
+  Updated: 2026-03-01T22:11:49Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/The-Key-Lime-Pie-Duo-Bundle-The-Candle-Yard-Co.-35326588.webp?v=1762449882
   Price: $52.95 USD
 - [The Lemon Cupcake Room Spray + Wax Melt Duo](https://www.thecandleyard.co/products/the-lemon-cupcake-room-spray-wax-melt-duo-1): Smells like lemon zest, vanilla frosting & sunshine 🍋🧁 Our Lemon Cupcake duo brings a sweet, fresh-baked energy... without lighting a wick.Get the room spray + wax melt bundle for just $16.95 (a $24.98 value)!Light, cheerful, and oh-so irresistible.
-  Updated: 2026-02-15T13:03:41Z
+  Updated: 2026-03-02T13:53:12Z
   Vendor: The Candle Yard Co. 
   Product Type: 
   Availability: Available
@@ -348,15 +341,8 @@
   - [$250](https://www.thecandleyard.co/products/the-candle-yard-co-gift-card?variant=44166067912819)
     Availability: Available
     Price: $250.00 USD
-- [Cookie Dough Delicious Milkshake Candle](https://www.thecandleyard.co/products/cookie-dough-delicious-milkshake-candle): Aromas of milk chocolate and vanilla.
-  Updated: 2026-02-15T01:42:48Z
-  Vendor: Limited Time Only!
-  Product Type: Milkshake Candle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/9645/0419/files/DSC02540.jpg?v=1766070090
-  Price: $34.95 USD
 - [Strawberries & Cream Cheesecake Milkshake Candle](https://www.thecandleyard.co/products/strawberries-cream-cheesecake-milkshake-candle): Aromas of strawberries and vanilla.
-  Updated: 2026-02-15T01:42:46Z
+  Updated: 2026-03-01T20:37:58Z
   Vendor: Limited Time Only!
   Product Type: Milkshake Candle
   Availability: Available
@@ -366,61 +352,61 @@
 ## Collections
 
 - [Home page](https://www.thecandleyard.co/collections/frontpage)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 7
 - [Dessert Scented Candles](https://www.thecandleyard.co/collections/dessert-candle)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 13
 - [Cocktail Scented Candles](https://www.thecandleyard.co/collections/cocktail-candle)
-  Updated: 2026-02-18T12:19:54Z
+  Updated: 2026-02-25T12:22:43Z
   Total Products: 10
 - [Other Products](https://www.thecandleyard.co/collections/other-products)
-  Updated: 2026-02-16T12:19:29Z
+  Updated: 2026-02-22T12:23:24Z
   Total Products: 1
 - [New Release](https://www.thecandleyard.co/collections/new-release)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 6
 - [Room Sprays](https://www.thecandleyard.co/collections/room-sprays)
-  Updated: 2026-02-17T12:19:36Z
+  Updated: 2026-02-26T12:24:02Z
   Total Products: 6
 - [Simplified Dessert Candles](https://www.thecandleyard.co/collections/simplified-dessert-candles)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 10
 - [Gift Set Bundles](https://www.thecandleyard.co/collections/bundle-save)
   Updated: 2026-02-03T01:28:14Z
   Total Products: 13
 - [Wax Melts](https://www.thecandleyard.co/collections/wax-melts)
-  Updated: 2026-02-17T12:19:36Z
+  Updated: 2026-03-01T12:24:53Z
   Total Products: 11
 - [Liquid Laundry Detergent](https://www.thecandleyard.co/collections/liquid-laundry-detergent)
   Updated: 2026-02-03T01:25:57Z
   Total Products: 4
 - [AVADA - Best Sellers](https://www.thecandleyard.co/collections/avada-best-sellers)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 112
 - [Hand Soaps](https://www.thecandleyard.co/collections/hand-soaps)
   Updated: 2026-02-03T01:26:57Z
   Total Products: 5
 - [Drink Candles](https://www.thecandleyard.co/collections/drink-candles)
-  Updated: 2026-02-18T12:19:54Z
+  Updated: 2026-02-25T12:22:43Z
   Total Products: 8
 - [Strawberry Cake Collection](https://www.thecandleyard.co/collections/strawberry-cake-collection)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 13
 - [Banana Pudding Collection](https://www.thecandleyard.co/collections/banana-pudding-collection)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 4
 - [Key Lime Pie Collection](https://www.thecandleyard.co/collections/key-lime-pie-collection)
-  Updated: 2026-02-18T12:19:54Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 11
 - [Birthday Cake Collection](https://www.thecandleyard.co/collections/birthday-cake-collection)
-  Updated: 2026-02-09T12:19:45Z
+  Updated: 2026-03-01T12:24:53Z
   Total Products: 11
 - [Lemon Cupcake Collection](https://www.thecandleyard.co/collections/lemon-cupcake-collection)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 15
 - [Biscoff Cookie Collection](https://www.thecandleyard.co/collections/biscoff-cookie-collection)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 4
 - [Fragrance Oil Collection](https://www.thecandleyard.co/collections/fragrance-oil-collection)
   Updated: 2026-01-09T22:15:57Z
@@ -429,43 +415,43 @@
   Updated: 2026-01-09T22:15:57Z
   Total Products: 0
 - [Dessert Candles Wholesale](https://www.thecandleyard.co/collections/dessert-candles-wholesale)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 4
 - [Wholesale - Drink Candles](https://www.thecandleyard.co/collections/wholesale-drink-candles)
   Updated: 2026-01-09T22:15:58Z
   Total Products: 0
 - [Simplified Candles Wholesale](https://www.thecandleyard.co/collections/simplified-candles-wholesale)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 4
 - [Vanilla Ice Cream Collection](https://www.thecandleyard.co/collections/vanilla-ice-cream-collection)
-  Updated: 2026-02-17T12:19:36Z
+  Updated: 2026-02-27T12:25:09Z
   Total Products: 10
 - [Orange Dreamsickle Collection](https://www.thecandleyard.co/collections/orange-creamsickle-collection)
-  Updated: 2026-02-17T12:19:36Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 11
 - [Car Fresheners](https://www.thecandleyard.co/collections/car-fresheners)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 10
 - [Pumpkin Pie Collection](https://www.thecandleyard.co/collections/pumpkin-pie-collection)
   Updated: 2026-02-03T01:08:30Z
   Total Products: 4
 - [Apple Pie Collection](https://www.thecandleyard.co/collections/apple-pie-collection)
-  Updated: 2026-02-07T12:21:18Z
+  Updated: 2026-02-25T12:22:43Z
   Total Products: 4
 - [Shop](https://www.thecandleyard.co/collections/shop)
   Updated: 2026-02-10T22:36:09Z
   Total Products: 0
 - [Milkshake Candles](https://www.thecandleyard.co/collections/milkshake-candles)
-  Updated: 2026-02-15T12:22:17Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 3
 - [Best-Sellers](https://www.thecandleyard.co/collections/best-sellers)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 4
 - [Wax Melts Wholesale](https://www.thecandleyard.co/collections/wax-melts-wholesale)
-  Updated: 2026-02-17T12:19:36Z
+  Updated: 2026-03-01T12:24:53Z
   Total Products: 4
 - [Car Fresheners Wholesale](https://www.thecandleyard.co/collections/car-fresheners-wholesale)
-  Updated: 2026-02-19T12:21:08Z
+  Updated: 2026-03-02T12:23:05Z
   Total Products: 4
 
 ## Store Pages
