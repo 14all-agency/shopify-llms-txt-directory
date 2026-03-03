@@ -5,54 +5,54 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-08-07T21:04:50Z
-- Updated At: 2026-02-24T00:00:29.517Z
+- Updated At: 2026-03-03T00:00:35.461Z
 
 ## Products
 
 - [NKE Single Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-single-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Transform your car with the NKE Single Exhaust Flamer Kit. Easy installation, universal fit for petrol cars. Premium flame thrower kit with On/Off Switch. £160.
-  Updated: 2026-02-23T16:48:08Z
+  Updated: 2026-02-27T00:55:55Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/277D0239-6A62-429D-AC41-3DC98AAC5DD0.jpg?v=1771457051
   Price: £160.00 GBP
 - [NKE Dual Exhaust Flamer Kit - Universal Flame Thrower for Petrol Cars UK](https://nke-performance.com/products/nke-dual-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Upgrade to dual flames with the NKE Dual Exhaust Flamer Kit. Professional installation, universal compatibility. Premium dual flame thrower system. £310.
-  Updated: 2026-02-23T16:47:56Z
+  Updated: 2026-02-24T04:48:12Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/4774100D-4F66-4149-8FBD-733E68A76E3D.jpg?v=1771457051
   Price: £310.00 GBP
 - [NKE Quad Exhaust Flamer Kit - Ultimate Flame Thrower System for Petrol Cars UK](https://nke-performance.com/products/nke-quad-exhaust-flamer-kit-universal-flame-kit-uk-flame-thrower-for-petrol-cars): Maximum impact with the NKE Quad Exhaust Flamer Kit. Four-flame system, universal fit for petrol cars. Ultimate flame thrower experience. £610.
-  Updated: 2026-02-23T16:47:36Z
+  Updated: 2026-02-24T04:47:44Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/AD7DDCCC-972B-4392-B9DD-F12F82379913.jpg?v=1771457051
   Price: £610.00 GBP
 - [Seat Leon Flamer Kit - Dual Exhaust Mk2 | NKE Performance](https://nke-performance.com/products/seat-leon-flamer-kit-dual): Premium dual exhaust flamer kit for Seat Leon Mk2. Professional-grade components with easy installation. Add impressive flame effects to your Seat Leon.
-  Updated: 2026-02-23T16:47:28Z
+  Updated: 2026-02-24T04:47:48Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/3F40A681-CD28-46B0-BAFE-AE534D0996D9.jpg?v=1771457051
   Price: £310.00 GBP
 - [Lexus Flamer Kit - Universal Performance Exhaust | NKE Performance](https://nke-performance.com/products/lexus-flamer-kit-universal): Premium exhaust flamer kit for Lexus models. Universal fit for IS, GS, RC, LC series. Professional-grade quality to match your Lexus performance.
-  Updated: 2026-02-23T16:47:18Z
+  Updated: 2026-02-24T04:47:23Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/E385275D-C36E-4E04-8BB7-9E4CBB4C8BFA.jpg?v=1771457051
   Price: £160.00 GBP
 - [Mercedes AMG Flamer Kit - Performance Exhaust | NKE Performance](https://nke-performance.com/products/mercedes-amg-flamer-kit): Premium exhaust flamer kit for Mercedes-AMG models. Track-tested performance with aggressive flame effects. Professional-grade quality for AMG vehicles.
-  Updated: 2026-02-23T16:47:09Z
+  Updated: 2026-02-24T04:47:14Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/84A58C4D-8C35-4C40-BD85-E5B23E4B8ED2.jpg?v=1771458236
   Price: £610.00 GBP
 - [Corsa VXR Flamer Kit - Dual Exhaust System | NKE Performance](https://nke-performance.com/products/corsa-vxr-flamer-kit-dual): Dual exhaust flamer kit designed for Vauxhall Corsa VXR. Perfect fit with high-quality components. Add dramatic flame effects to your VXR hot hatch.
-  Updated: 2026-02-23T16:46:42Z
+  Updated: 2026-02-24T04:46:54Z
   Vendor: NKE Performance
   Product Type: 
   Availability: Available
@@ -387,32 +387,46 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_da9b7749-e716-476d-8737-6e8ae0b8f2d3.jpg?v=1771502946
   Price: £12.00 GBP
+- [MK3 VW CADDY FRONT SEATS WITH CUSTOM LEATHER FITTED SEAT COVERS](https://nke-performance.com/products/mk3-vw-caddy-front-seats-with-custom-leather-fitted-seat-covers): MK3 VW CADDY FRONT SEATS WITH CUSTOM LEATHER FITTED SEAT COVERSIn perfect working conditionWe are a VW/AUDI Breakers. Please message us for info on any other parts you require and we will list them on eBay for you to purchase
+  Updated: 2026-02-28T01:19:26Z
+  Vendor: Volkswagen
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_db00ea7b-dbd8-441f-a6d4-fe548945b7ef.jpg?v=1772150426
+  Price: £180.00 GBP
+- [LAND ROVER RANGE ROVER L322 BMW X5 M57D30 ENGINE 3.0 DIESEL COMPLETE 2002-2007](https://nke-performance.com/products/land-rover-range-rover-l322-bmw-x5-m57d30-engine-3-0-diesel-complete-2002-2008): LAND ROVER RANGE ROVER L322 BMW X5 M57D30 ENGINE 3.0 DIESEL COMPLETE 2002-2007In perfect working condition‘Turbo is not included with this ’Please see pictures of the engine to see exactly what comes with itComplete Range Rover being stripped for partsPlease drop us a message if there’s any other parts you require and we will list them on Ebay for you to purchase Thanks
+  Updated: 2026-02-28T00:48:22Z
+  Vendor: Range Rover
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/3634/5413/files/57_3c261c36-ada3-4e9c-9ff2-dbd82fa94dce.jpg?v=1772150430
+  Price: £499.00 GBP
 
 ## Collections
 
 - [Home page](https://nke-performance.com/collections/frontpage)
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [Vauxhall Astra VXR Flamer Kits](https://nke-performance.com/collections/vauxhall-flamer-kits): Premium flamer kits for Vauxhall VXR models. Our UK engineered performance exhaust flamer kits create stunning flames for Corsa VXR and Astra VXR.Available in single and dual flamer configurations from NKE Performance.
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [Ford Flamer Kits](https://nke-performance.com/collections/ford-flamer-kits-1): Premium flamer kits designed specifically for Ford vehicles. Our UK engineered performance exhaust flamer kits deliver spectacular flames for Focus RS, Focus ST, Fiesta ST, and Sierra models. Transform your Ford with NKE Performance quality and engineering.
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [Nissan Flamer Kits](https://nke-performance.com/collections/nissan-flamer-kits): Premium quad flamer kits designed for the legendary Nissan GTR R35. Our UK engineered performance exhaust flamer kits deliver spectacular four-flame effects that match the power and prestige of your GTR. NKE Performance quality engineering.
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [Mazda Flamer Kits](https://nke-performance.com/collections/mazda-flamer-kits): Premium dual flamer kits designed for the iconic Mazda RX8 rotary engine. Our UK engineered performance exhaust flamer kits create stunning flame effects that complement the unique character of your rotary-powered RX8. NKE Performance engineering excellence.
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [BMW](https://nke-performance.com/collections/bmw)
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [Subaru Impreza Flamer Kits](https://nke-performance.com/collections/subaru-impreza-flamer-kits)
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 - [Corsa VXR Flamer Kits](https://nke-performance.com/collections/corsa-vxr-flamer-kits)
-  Updated: 2026-02-23T16:48:09Z
+  Updated: 2026-02-27T12:43:28Z
   Total Products: 3
 
 ## Blogs
