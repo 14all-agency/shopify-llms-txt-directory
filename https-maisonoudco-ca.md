@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-14T18:22:08Z
 - Contact Email: support@maisonoudco.ca
-- Updated At: 2026-02-24T00:00:40.130Z
+- Updated At: 2026-03-03T00:00:41.080Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2369.png?v=1767473706
   Price: $116.99 CAD
 - [Miss Armaf Mystique EDP 100ml | Warm Floral Scent](https://maisonoudco.ca/products/miss-armaf-mystique): Discover Miss Armaf Mystique, a luxurious fragrance with floral, fruity, and warm notes. Long-lasting, elegant perfume perfect for everyday wear or special occasions.
-  Updated: 2026-01-21T16:31:20Z
+  Updated: 2026-02-26T13:06:47Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2393.jpg?v=1767473759
   Price: $116.99 CAD
 - [Layali Rouge Perfume Oil 15ml | Swiss Arabian Luxury](https://maisonoudco.ca/products/layali-rouge): Discover Layali Rouge, a bold and luxurious perfume oil with floral, fruity, and warm notes. Long-lasting, elegant fragrance perfect for daily wear or special occasions.
-  Updated: 2026-01-21T16:33:57Z
+  Updated: 2026-03-02T21:32:07Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG-2435.jpg?v=1767473821
   Price: $79.99 CAD
 - [Lattafa Eclaire EDP 100ml | Gourmand Caramel Vanilla](https://maisonoudco.ca/products/lattafa-eclaire-edp-spray-100ml-gourmand-caramel-vanilla): Lattafa Eclaire EDP 100ml. Gourmand fragrance with caramel, vanilla & praline notes. Authentic Lattafa luxury perfume in Canada.
-  Updated: 2026-01-20T21:56:57Z
+  Updated: 2026-02-26T13:06:47Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -74,21 +74,21 @@
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG_2272.png?v=1767473961
   Price: $125.00 CAD
 - [Arabiyat Sugar Toffee Ganache EDP 100ml | Vanilla Coffee](https://maisonoudco.ca/products/arabiyat-sugar-toffee-ganache-edp-100-ml-unisex-gourmand-vanilla-butter-coffee-note): Arabiyat Sugar Toffee Ganache EDP 100ml. Unisex gourmand fragrance with vanilla, butter & coffee notes. Authentic luxury perfume.
-  Updated: 2026-02-15T22:22:20Z
+  Updated: 2026-02-26T13:06:47Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/IMG_2306_521fe55b-d1af-4a82-b3d8-9f4932855031.jpg?v=1767473985
   Price: $125.00 CAD
 - [Arabiyat Perfume | Authentic Luxury Fragrance](https://maisonoudco.ca/products/arabiyat-perfume): Arabiyat Sugar Coconut Chiffon EDP 100ml. Authentic luxury fragrance with coconut, jasmine & vanilla. Shop premium perfumes in Canada.
-  Updated: 2026-01-28T03:22:24Z
+  Updated: 2026-02-25T12:13:02Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0968/5594/9621/files/33E13F21-5293-4CDF-AB2C-D9806C6AD729.png?v=1767474056
   Price: $125.00 CAD
 - [Arabiyat Sugar Cookie Dough | EDP 100ml for Women | Luxury Gourmand Fragrance](https://maisonoudco.ca/products/arabiyat-sugar-cookie-dough-edp-100ml-for-women-luxury-gourmand-fragrance): Arabiyat Sugar Cookie Dough is a refined, gourmand fragrance crafted for the discerning woman who appreciates heritage-infused luxury. Opening with rich cocoa butter and the creamy softness of coconut milk, it evokes the indulgent memory of a perfectly baked cookie dough, a moment of sweetness that lingers. The heart reveals a delicate orchid, softly lifting the sweetness into a timeless elegance. In the base, creamy vanilla blends with sandalwood and a whisper of musk, leaving a warm, suave trail that endures with quiet confidence. Fragrance notes: - Top notes: Cocoa Butter, Coconut Milk - Middle notes: Orchid - Base notes: Vanilla, Sandalwood, Musk Why you’ll love it: - A sophisticated gourmand that echoes old-money refinement and heritage. - Instantly recognizable, yet never ostentatious — ideal for evening affairs and refined daytime occasions. - Crafted to evolve beautifully on skin, revealing layers of warmth and elegance over time. - Elegant 100ml bottle designed to reflect a heritage of timeless luxury. Usage and styling: - For best results, apply to pulse points and allow the fragrance to mingle with your natural warmth. - Complements classic silhouettes and refined accessories; ideal for formal events and executive settings.
-  Updated: 2026-01-27T16:39:46Z
+  Updated: 2026-02-25T12:12:56Z
   Vendor: Maison Oud & Co.
   Product Type: 
   Availability: Available
@@ -101,19 +101,19 @@
   Updated: 2026-01-20T21:56:55Z
   Total Products: 1
 - [Miss Armaf Perfumes for Women - Elegant Floral Fragrances | Maison Oud & Co.](https://maisonoudco.ca/collections/miss-armaf-fragrance): Shop Miss Armaf perfumes at Maison Oud & Co. Elegant floral, fruity, and oriental fragrances for women. Authentic luxury perfumes with long-lasting sophistication.
-  Updated: 2026-01-20T21:56:55Z
+  Updated: 2026-02-27T12:28:35Z
   Total Products: 6
 - [Swiss Arabian Perfumes & Oud Oils - Authentic Luxury Fragrances | Maison Oud & Co.](https://maisonoudco.ca/collections/swiss-arabian): Shop authentic Swiss Arabian perfumes and oud oils at Maison Oud & Co. Luxurious oriental, floral, and woody fragrances for men and women. Premium quality .
   Updated: 2026-01-20T21:56:55Z
   Total Products: 3
 - [Lattafa Perfumes - Authentic Arabian Fragrances & Oud | Maison Oud & Co.](https://maisonoudco.ca/collections/lattafa): Discover authentic Lattafa perfumes at Maison Oud & Co. Long-lasting oriental, gourmand, and floral fragrances. Premium Arabian perfumes for men and women.
-  Updated: 2026-02-22T12:26:09Z
+  Updated: 2026-02-27T12:28:35Z
   Total Products: 2
 - [Rasasi Perfume | Luxurious Long-Lasting Floral & Oriental Fragrance](https://maisonoudco.ca/collections/rasasi): Discover Rasasi, a luxurious fragrance with floral, fruity, and oriental notes. Long-lasting perfume perfect for everyday wear or special occasions.
   Updated: 2026-01-20T21:56:55Z
   Total Products: 0
 - [Arabiyat Sugar Perfume | Sweet Gourmand Long-Lasting Fragrance!! Shop.](https://maisonoudco.ca/collections/arabiyat-sugar): Discover Arabiyat Sugar perfume, a sweet gourmand fragrance with warm, creamy notes. Long-lasting and elegant scent ideal for daily wear or special occasions.
-  Updated: 2026-02-23T12:25:17Z
+  Updated: 2026-02-27T12:28:35Z
   Total Products: 4
 
 ## Blogs
