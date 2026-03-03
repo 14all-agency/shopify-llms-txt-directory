@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-08-30T10:06:19Z
 - Contact Email: physiorehabequipments@gmail.com
-- Updated At: 2026-02-23T07:25:15.297Z
+- Updated At: 2026-03-03T00:00:29.040Z
 
 ## Products
 
@@ -723,7 +723,7 @@
   Image: https://cdn.shopify.com/s/files/1/0712/2403/3454/files/WhatsAppImage2025-11-01at11.01.05PM_2.jpg?v=1762018391
   Price: ₹13,499.00 INR
 - [Cervical and Lumbar Digital Traction with 3 Fold Traction Table](https://physiorehabequipment.com/products/cervical-and-lumbar-digital-traction-with-3-fold-traction-table): ( Prepaid or Partial COD Options are available for this product. Please call or WhatsApp us at 8447056684) Use of Cervical and Lumbar Digital Traction with 3 Fold Traction Table: Lumbar traction simply reduces pressure on the vertebral foramen just by releasing tension in the spinal muscles. Lumbar traction easily reduces tension in soft tissue as well as, pressure on the vertebrae. It is ultimately used to improve alignment and reduce muscle spasms. The nucleus pulposus can be moved inward through using the lumbar traction. Memory / Program : 30  Patterns can be programmed & stored in non-volatile memory Traction Force : Adjustable from 5 kg to 60 kg. Base Force : Adjustable from 0 kg to 54 kg.< Traction Hold Time : Adjustable from 0 to 99 Sec Base Traction Hold Time : Adjustable from 0 to 99 Sec  Time : Continuously adjustable from 0 to 99 minutes, with acoustic signal & automatic reduction of traction force. Displays : Digital display of Traction Force, Base Force, TF Hold Time BF Hold Time,  Time & Graphical Display of Track Mode Auto-Tension-adjustment : The set traction force is automatically maintained throughout the operation. Patient Safety : Patient Stop, hand held switch. Product Features: Digital traction control system for precise adjustment of traction force 3 fold traction table for maximum patient comfort Sturdy construction for maximum stability Adjustable height and position for patient comfort Easy to use and operate Product Specifications: Product: Cervical and Lumbar Digital Traction with 3 Fold Traction Table Traction Force: Up to 60 kgs Height Adjustment: Up to 24 inches Table Length: 80 inches Table Width: 22 inches Material: Steel Color: White/Blue Rexine
-  Updated: 2026-01-13T08:27:55Z
+  Updated: 2026-02-28T13:09:56Z
   Vendor: #1 Physio Rehab Equipments Supplier in India
   Product Type: 
   Availability: Available
@@ -1186,7 +1186,7 @@
   Updated: 2026-01-29T12:23:33Z
   Total Products: 46
 - [Modalities](https://physiorehabequipment.com/collections/modalities)
-  Updated: 2026-02-04T12:22:50Z
+  Updated: 2026-03-01T12:25:25Z
   Total Products: 33
 - [Operating Room](https://physiorehabequipment.com/collections/operating-room)
   Updated: 2026-01-13T08:27:40Z
