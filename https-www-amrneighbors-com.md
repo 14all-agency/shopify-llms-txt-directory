@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-06-30T14:48:59Z
 - Contact Email: info@amrneighbors.com
-- Updated At: 2026-02-25T00:00:37.780Z
+- Updated At: 2026-03-04T00:00:40.513Z
 
 ## Products
 
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/1_a3f4ecea-b96c-42b5-aafe-b84cc2ec63ba.jpg?v=1663012718
   Price: $64.95 USD
 - [Cream Duvet Cover Set – Queen Size (4 Pieces) | American Neighbors](https://www.amrneighbors.com/products/cream-duvet-cover-set-4-pieces-queen-size): Elevate your bedroom with this 4-piece cream duvet cover set by American Neighbors. Crafted from 100% cotton satin for luxurious comfort and style.
-  Updated: 2025-10-19T19:01:57Z
+  Updated: 2026-02-28T00:36:20Z
   Vendor: DOQU home
   Product Type: Bed Sheets
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/https-doquhome-mncdn-com-mnresize-1280-720-img-image-tr-2q9ntkstar0020003-2.jpg?v=1663013011
   Price: $64.95 USD
 - [Black Duvet Cover Set – Queen Size (4 Pieces) | American Neighbors](https://www.amrneighbors.com/products/black-duvet-cover-set-4-pieces-queen-size): Elevate your bedroom with this 4‑piece black duvet cover set by American Neighbors. Crafted from 100% cotton satin for year‑round comfort and style.
-  Updated: 2025-10-19T18:59:51Z
+  Updated: 2026-02-27T20:29:31Z
   Vendor: DOQU home
   Product Type: Bed Sheets
   Availability: Available
@@ -424,13 +424,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/4_fb189c55-c323-456e-8afa-bfb38a346796.jpg?v=1672555922
     Price: $19.99 USD
-- [Mustard Bath Towel | American Neighbors](https://www.amrneighbors.com/products/mustard-bath-towel): Refresh your bathroom with this mustard bath towel from American Neighbors. Soft, absorbent, and designed for everyday spa-style comfort.
-  Updated: 2026-02-03T04:02:03Z
-  Vendor: DOQU home
-  Product Type: Towels
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/4_ef9eb983-dc09-42ef-a13c-2b2361d1d2e2.jpg?v=1663359587
-  Price: $19.99 USD
 - [Red Bath Towel | American Neighbors](https://www.amrneighbors.com/products/red-bath-towel): Refresh your bathroom with this red bath towel from American Neighbors. Soft, absorbent, and designed for everyday spa-style comfort.
   Updated: 2025-10-25T13:00:23Z
   Vendor: DOQU home
@@ -453,7 +446,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/888_dc53e5a6-0c66-4d80-bcbf-d0bdff5946d5.jpg?v=1663359901
   Price: $19.99 USD
 - [Gray Washcloth | American Neighbors](https://www.amrneighbors.com/products/gray-washcloth-1): Add a fresh touch to your bathroom with this gray washcloth from American Neighbors. Soft, absorbent, and perfect for everyday use.
-  Updated: 2025-10-25T12:57:25Z
+  Updated: 2026-02-25T02:57:20Z
   Vendor: DOQU home
   Product Type: Towels
   Availability: Available
@@ -789,7 +782,7 @@
   Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/products/TLS238.jpg?v=1664788644
   Price: $20.50 USD
 - [Stoneware Textured Vase Handmade](https://www.amrneighbors.com/products/stoneware-textured-vase-handmade-3): Shop our exquisite collection of handmade stoneware textured vases. These unique pieces add a touch of artistry and style to your home decor. Discover the perfect vase to elevate your space today.
-  Updated: 2025-07-01T21:38:06Z
+  Updated: 2026-02-27T20:05:04Z
   Vendor: ipek
   Product Type: Sculptures & Statues
   Availability: Available
@@ -1757,7 +1750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0575/4552/3315/files/31jPUz5yvEL._AC.jpg?v=1703335910
     Price: $11.99 USD
 - [American Neighbor's Unisex Cotton-Blend Fleece Sweatshirt](https://www.amrneighbors.com/products/american-neighbors-unisex-cotton-blend-fleece-sweatshirt-3): Discover lasting comfort with the American Neighbor's Unisex Cotton-Blend Fleece Hoodie. Crafted from a premium cotton-poly blend, it offers warmth and breathability. With tearaway tags and double-needle stitching, it's durable yet cozy. Elevate your style effortlessly with this timeless essential.
-  Updated: 2025-07-01T21:35:25Z
+  Updated: 2026-02-27T18:26:50Z
   Vendor: American Neighbor's
   Product Type: 
   Availability: Available
@@ -2093,7 +2086,7 @@
 ## Collections
 
 - [Towels and Bathrobes](https://www.amrneighbors.com/collections/all-towels): Experience ultimate comfort and style with our Towels & Bath Robe collection. Luxurious towels and cozy bath robes for a spa-like experience.
-  Updated: 2026-02-03T12:18:18Z
+  Updated: 2026-03-03T12:21:55Z
   Total Products: 49
 - [Hand Towels](https://www.amrneighbors.com/collections/hand-towels): Soft, absorbent, and stylish hand towels for everyday use. Elevate your bathroom with our collection of high-quality towels.
   Updated: 2026-02-01T12:17:42Z
@@ -2102,7 +2095,7 @@
   Updated: 2026-02-01T12:17:42Z
   Total Products: 16
 - [Bath Towels](https://www.amrneighbors.com/collections/shower-towel): Wrap yourself in luxury with our plush bath towels. Enjoy softness, absorbency, and comfort after every shower or bath.
-  Updated: 2026-02-03T12:18:18Z
+  Updated: 2026-03-03T12:21:55Z
   Total Products: 14
 - [DÉCOR & ART](https://www.amrneighbors.com/collections/decor-art): Discover exquisite décor and captivating artworks that add charm, style, and personality to your space. Elevate your home with our Décor & Art collection.
   Updated: 2025-08-29T11:16:41Z
@@ -2141,7 +2134,7 @@
   Updated: 2025-10-25T13:29:59Z
   Total Products: 6
 - [New Arrivals](https://www.amrneighbors.com/collections/new-arrivals): Discover the latest trends and must-have products in our New Arrivals collection. Stay stylish and up-to-date with our newest additions.
-  Updated: 2026-02-20T12:19:15Z
+  Updated: 2026-03-03T12:21:55Z
   Total Products: 267
 - [Living Room](https://www.amrneighbors.com/collections/living-room): Enhance your living room with our collection of rugs, vases, paintings, candles, TV blankets, and cushions. Elevate comfort and style.
   Updated: 2025-11-23T12:17:00Z
@@ -2198,8 +2191,8 @@
   Updated: 2025-07-01T21:37:02Z
   Total Products: 6
 - [Recommended products (Seguno)](https://www.amrneighbors.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-02-20T12:19:15Z
-  Total Products: 230
+  Updated: 2026-03-03T03:27:38Z
+  Total Products: 229
 - [Holistic Corner](https://www.amrneighbors.com/collections/holistic-corner): Nourish your body and elevate your well-being with our Holistic Corner collection. Discover wholesome grains, herbs, snacks, and spices for a healthy lifestyle.
   Updated: 2026-02-20T12:19:15Z
   Total Products: 33
