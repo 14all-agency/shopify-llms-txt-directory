@@ -6,7 +6,7 @@
 - Timezone: Europe/Belgrade
 - Created At: 2026-01-26T22:02:57Z
 - Contact Email: landritxhelili17@gmail.com
-- Updated At: 2026-02-24T00:00:38.882Z
+- Updated At: 2026-03-04T00:00:41.392Z
 
 ## Products
 
@@ -2433,7 +2433,7 @@
   Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/82c4967d925f48fbb7787a6e7b497341.webp?v=1770594086
   Price: €15.99 EUR
 - [AIRAJ Welding Helmet Auto Darkening Welding Mask For TIG MIG ARC Welder Machine Large View True Color DIN9-13 93*42MM Vision](https://gz-8058.myshopify.com/products/airaj-welding-helmet-auto-darkening-welding-mask-for-tig-mig-arc-welder-machine-large-view-true-color-din9-13-93-42mm-vision): Features 1. When using, press down to rotate and adjust the tightness of the head clamp 2. Thickened sponge to protect the forehead from injury, absorb sweat comfortably, and prevent slipping 3. Adjust the distance and angle between the face and the screen to easily adapt to the working field of view 4. Adjust the cassette head to fix the lens and adapt to various head shapes 5. Automatic dimming, millisecond dimming, eye protection. Size: Frame size：1 1*9cm Packaging size:31.5*24*31cm Weight：475 Package List 1 * Welding Mask Precautions: 1. Ensure that the lens of the mask is clean and free from scratches or other damage 2. Regularly check the condition of the mask and clean it. If there is any damage or parts need to be replaced, please replace them immediately. 3. Adjust the tension of the mask to ensure it is stable and does not move or slip. 4. After using the welding mask, it should be stored in a dry and ventilated place to avoid moisture or deformation of the lens
-  Updated: 2026-02-09T11:42:12Z
+  Updated: 2026-02-26T03:23:10Z
   Vendor: GZ
   Product Type: 
   Availability: Available
@@ -2571,34 +2571,147 @@
     Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/050700d2876d4e3c93ca7a308c65beb6.webp?v=1770594094
     Price: €30.99 EUR
 - [Rechargeable COB LED USB Headlamp Strong Magnetic Powerful Headlight Super Bright Waterproof Head Torch For Outdoor Fishing](https://gz-8058.myshopify.com/products/rechargeable-cob-led-usb-headlamp-strong-magnetic-powerful-headlight-super-bright-waterproof-head-torch-for-outdoor-fishing): • Rechargeable LED :The MEREDITH headlamp features a rechargeable LED light, ensuring long-lasting brightness for your outdoor adventures. • Strong Magnetic Design :With its strong magnetic design, this headlamp can be easily attached to any metal surface, providing hands-free use during your fishing trip. • Super Bright Waterproof :This super bright headlamp is waterproof, making it an ideal tool for fishing and other outdoor activities even in harsh weather conditions. • Durable Material :Made from high-quality materials, this headlamp is durable and designed to withstand the rigors of outdoor use. • Versatile Application :Whether you're fishing, camping, or just going for a night hike, this headlamp is your perfect companion for all outdoor activities. Description Mini and compact, easy to use and convenient to carry. Adjustable head straps,ergonomic design. different requirements. Adjustable base is provided for each head lamp, with back and forth inclination. Suitable for camping, climbing, hiking, night fishing, caving and other outdoor activities. Note: Waterproof: can be used in rainly, but not put it into the water. Specification: Material: ABS Model or LED: 1 * Q5 + 1 * COB Item color: black Light color: White Lighting mode: 2 modes Battery: built in battery Switch type: Independent press switch Battery Charger: • Input: AC110-220V 47-63HZ • Output: 3.7V; 1A Battery: • Quality: 1pcs • Material: Li-ion Battery • Voltage: 3.7V Notice: The product light is bright, please do not shine on your eyes.
-  Updated: 2026-02-09T11:41:42Z
+  Updated: 2026-02-27T15:25:54Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/77d62881c6f5401e97b87f88f1c88030.webp?v=1770594097
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/77d62881c6f5401e97b87f88f1c88030.webp?v=1772081710
   Price: €15.99 EUR
-- [2 IN 1 USB 3.0 /USB 2.0 Card Reader SD TF Card Memory Card Reader High Speed Smart Card reader Adapter For PC Laptop Accessories](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories)
-  Updated: 2026-02-09T11:41:45Z
+- [2-in-1 Multi Functional USB 3.0 Card ReaderMicro SD TFMemoryCardReaderUSBFlashDrive CardreaderAdapter For PCLaptops Accessories](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories)
+  Updated: 2026-02-27T20:03:15Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/6465a499042047b08412606a0904509d.webp?v=1770594098
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/b40b9b38f526427686080d19737a1383_de2eb039-19c6-445c-83fc-aa096d2fd48e.webp?v=1772134828
   - [USB 3.0 White](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48382678139109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/e35d8c12aa444f70a5ea95fc6285cad1.webp?v=1770594099
     Price: €18.99 EUR
   - [USB 3.0 Black](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48382678171877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/7dd63ece741c4c898834e299307c35e5.webp?v=1770594099
     Price: €18.99 EUR
   - [USB 2.0 White](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48382678204645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/b696bf245c6f4bfda3f990b9f962a1e7.webp?v=1770594099
     Price: €17.99 EUR
   - [USB 2.0 Black](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48382678237413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/5f05b790f4ea47b981d8b7d2ca17789f.webp?v=1770594099
     Price: €17.99 EUR
+  - [3pcs White2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475955396837)
+    Availability: Available
+    Price: €59.99 EUR
+  - [Black3.0 2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475955757285)
+    Availability: Available
+    Price: €56.99 EUR
+  - [Black2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475955790053)
+    Availability: Available
+    Price: €46.99 EUR
+  - [2pcs Blac3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475955822821)
+    Availability: Available
+    Price: €66.99 EUR
+  - [2pcs White2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475955888357)
+    Availability: Available
+    Price: €43.99 EUR
+  - [3pcs Black2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475955953893)
+    Availability: Available
+    Price: €59.99 EUR
+  - [White3.0 Black2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956084965)
+    Availability: Available
+    Price: €56.99 EUR
+  - [Alloy 2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956576485)
+    Availability: Available
+    Price: €57.99 EUR
+  - [2pcs White3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956609253)
+    Availability: Available
+    Price: €64.99 EUR
+  - [Alloy 3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956642021)
+    Availability: Available
+    Price: €65.99 EUR
+  - [Black3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956838629)
+    Availability: Available
+    Price: €61.99 EUR
+  - [2pcs Black2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956871397)
+    Availability: Available
+    Price: €41.99 EUR
+  - [White2.0 Black2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956904165)
+    Availability: Available
+    Price: €43.99 EUR
+  - [3pcs Black3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475956936933)
+    Availability: Available
+    Price: €86.99 EUR
+  - [White3.0 Black3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475957428453)
+    Availability: Available
+    Price: €64.99 EUR
+  - [3pcs White3.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475961262309)
+    Availability: Available
+    Price: €87.99 EUR
+  - [White2.0](https://gz-8058.myshopify.com/products/2-in-1-usb-3-0-usb-2-0-card-reader-sd-tf-card-memory-card-reader-high-speed-smart-card-reader-adapter-for-pc-laptop-accessories?variant=48475963424997)
+    Availability: Available
+    Price: €44.99 EUR
+- [USB Led Fairy Lights Copper Wire String 20M 200LED Holiday Outdoor Lamp Garland For Christmas Tree Wedding Party Decoration](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration): Product size:2m20 light, 3m30 light, 5m50 light, 10m100 light, 20m200 light. Wire color: copper wire Lamp color: warm white, white, colored, red, blue, yellow, green, USB plug: black plug Power supply: USB 5V Description: 1. USB power supply, safe, no need for external power input. 2. With the characteristics of bendable, easy to shape and flexible copper wire, you can DIY the lamp into any shape you like. 3.Christmas, party, barbecue, wedding, or other holiday decorations are amazing Package Included: 1*USB string lights
+  Updated: 2026-02-25T10:13:22Z
+  Vendor: GZ
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/073305f8d00e4646aaf90168a151271c.webp?v=1770594886
+  - [Warm White / EU Plug / 20m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693015781)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/863dab080fc84196a1ce1758754d2186.webp?v=1770594887
+    Price: €20.99 EUR
+  - [White / EU Plug / 10m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693048549)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/add69da5c5624e66940be07b1b4e2040.webp?v=1770594887
+    Price: €19.99 EUR
+  - [White / EU Plug / 3m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693081317)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/bde6fe86a6a942cf80a82bcc6df0bbaf.webp?v=1770594887
+    Price: €15.99 EUR
+  - [Warm White / EU Plug / 2m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693114085)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/4c5c4449bf34428a81014531a7139120.webp?v=1770594887
+    Price: €13.99 EUR
+  - [White / EU Plug / 20m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693146853)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/2c499794aefc4e89a8cf246022c88861.webp?v=1770594887
+    Price: €23.99 EUR
+  - [White / EU Plug / 5m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693179621)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/7142263b793342d7966e3206a5582cc3.webp?v=1770594887
+    Price: €17.99 EUR
+  - [Multicolor / EU Plug / 5m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693212389)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/949162c822204095b56cd27040ef500c.webp?v=1770594887
+    Price: €17.99 EUR
+  - [White / EU Plug / 2m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693245157)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/a71d83ba6d1843b59321615f2f2ca46e.webp?v=1770594887
+    Price: €14.99 EUR
+  - [Multicolor / EU Plug / 20m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693277925)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/9361d6316f6b4a52a8da51e2f5dde0c5.webp?v=1770594887
+    Price: €23.99 EUR
+  - [Multicolor / EU Plug / 2m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693310693)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/cd1b21ef79a74bc0a745519e22b95ffc.webp?v=1770594887
+    Price: €14.99 EUR
+  - [Multicolor / EU Plug / 3m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693343461)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/86a9d156b1b743059e651a34c3e987be.webp?v=1770594887
+    Price: €15.99 EUR
+  - [Multicolor / EU Plug / 10m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48382693376229)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/bd681fb1f08546548589da1bc428c5ff.webp?v=1770594887
+    Price: €19.99 EUR
+  - [Warm White / EU Plug / 3m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48470814916837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/c62ea26096204962a528f0ab6930793c.webp?v=1772014377
+    Price: €33.99 EUR
+  - [Warm White / EU Plug / 5m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48470815080677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/21b136ac74aa455b9dc2cc87a58e4d08.webp?v=1772014380
+    Price: €40.99 EUR
+  - [Warm White / EU Plug / 10m](https://gz-8058.myshopify.com/products/usb-led-fairy-lights-copper-wire-string-20m-200led-holiday-outdoor-lamp-garland-for-christmas-tree-wedding-party-decoration?variant=48470815113445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/4bd88399cada468488f472e5f8f1ce4f.webp?v=1772014381
+    Price: €55.99 EUR
 - [Super Warm Winter Non-slip Floor Socks Women Men Snow Socks Sleep Carpet Socks Slippers Socks Women Velvet Boot Unsiex Home Wear](https://gz-8058.myshopify.com/products/super-warm-winter-non-slip-floor-socks-women-men-snow-socks-sleep-carpet-socks-slippers-socks-women-velvet-boot-unsiex-home-wear): Non-slip Floor Socks Winter Warm Snow Socks Indoor Home Slippers Socks Women Men Sleep Carpet Socks Pefect gift for Fall Winter, For Christmas Festival, Birthday Gray socks may have color differences due to the monitor. The gray color on the details page is a real shot. If you cannot accept the difference, please do not purchase. Thank you for your understanding Picture Show: S：35-39(24cm) M：39-43（26cm） L：40-42(28cm) XL：43-45(30cm) Product Description: Material of socks:Coral Fleece Gender:Unisex Men Women Package content: 1 Pair Socks Features: MENS WOMENS FLEECE LINED WINTER SOCKS - Soft cloud-like fluffy material will keep your feet and toes warm on cold mornings! Fluffy fleece is super soft and cozy. WOMENS NON-SLIP SOCKS - Silicon rubber grips on soles of socks slips and falls on smooth floors. Great socks for womens or the elderly to falls, all while looking stylish and comfortable. elderly to falls, all while looking stylish and comfortable. matched with any clothes you choose to wear today! COLOR & PATTERN - Each packing including one pairs of sliper socks.Choose your favorite color.Please do not iron them and suggesting wash them by hand,Air dry . EXCELLENT GIFT CHOICE -These pattern winter socks make the perfect present for home wear.you also could choose for your girlfriend, daughter, wife, as birthdays, gift. or as women, girls socks gift.
   Updated: 2026-02-09T12:04:52Z
   Vendor: GZ
@@ -2882,11 +2995,11 @@
     Availability: Available
     Price: €44.99 EUR
 - [Total 120W 4-Port USB Type C Fast Wall Adapter for Quick Charge Mobile Phone - High-Speed Charging Dock for Phones Tablets](https://gz-8058.myshopify.com/products/total-120w-4-port-usb-type-c-fast-wall-adapter-for-quick-charge-mobile-phone): 4 Port USB Charger Total 120W Type C Fast Charge Mobile Phone Adapter For iPhone Samsung Xiaomi Huawei Quick Charge Wall Charger Description: 1.Fully charging with safety usage, protection against over charging, over currents and over heating. 2.Fireproof materials, offering the superior safety for you and your device. 3.Safe and durable: this USB charger is designed with rugged outer shell, not easy to break. 4.Travel friendly: with global voltage compatibility, compact portable design, you can charge wherever you want. Specification: Type: Phone charger Power: 120W(2USB+2PD) Color: Yellow,White,Black Charger Plug: EU plug,US Plug,UK Plug Package included: 1* USB PD charger.
-  Updated: 2026-02-23T22:14:37Z
+  Updated: 2026-02-24T14:35:32Z
   Vendor: GZ
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/8dd410224ed44a868318518152659c00_01d4aea0-dc6f-4d04-8de2-6ceb3fa5b0fa.webp?v=1771841665
+  Image: https://cdn.shopify.com/s/files/1/0800/4711/2421/files/8dd410224ed44a868318518152659c00_40d87544-ed55-4573-b8ac-9708c73561cd.webp?v=1771900451
   - [US Plug Yellow](https://gz-8058.myshopify.com/products/total-120w-4-port-usb-type-c-fast-wall-adapter-for-quick-charge-mobile-phone?variant=48382696784101)
     Availability: Available
     Price: €15.99 EUR
