@@ -6,7 +6,7 @@
 - Timezone: Africa/Algiers
 - Created At: 2025-09-20T15:53:57Z
 - Contact Email: wesleyjoshfizzy@gmail.com
-- Updated At: 2026-02-25T00:00:35.790Z
+- Updated At: 2026-03-04T00:00:37.503Z
 
 This is the official website of wesleysite.site, an online Shopify store offering quality consumer products with secure payments, clear policies, and customer support. The site includes product listings, store policies, and contact information for customers.
 
@@ -858,6 +858,203 @@ This is the official website of wesleysite.site, an online Shopify store offerin
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sa6259b14404240d4b5b2e738cc8c7dc5x.webp?v=1771310197
     Price: $48.99 USD
+- [Electric Heating Wrist Guard Vibration Massage Hot Compress Wrist Brace Ankle Wrap Hand Foot Protector Rechargeable Wristband](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband): SPECIFICATIONSApplication: HandBrand Name: agdoadEffect: Bone CareFeature 1: Electric Wrist BraceFeature 2: Heating Wrist BraceFeature 3: Heating WristbandFeature 4: Electric Ankle BraceFeature 5: Electric Ankle MassagerFeature 6: 3 Levels Vibration MassageHigh-concerned chemical: NoneIs Batteries Included: YesItem Type: Braces & SupportsMaterial: Cotton, ABSNumber of Pieces: One UnitOrigin: Mainland ChinaType 3-for Wrist Massager:Features:1.The electric heating wrist guard features 5 adjustable infrared heat compress therapy settings (40°C, 45°C, 50°C, 55°C, and 60°C) to effectively soothe wrist pain. It is useful for tendonitis and overworked hands.2.This hot compress wrist brace has three massage vibration intensity settings to satisfy different massage needs. The first level is ideal for daily care. The second level is ideal for sports recovery. The third level is suitable for relieving wrist discomfort. 3.Equipped with an intelligent 30-minute timer, the hand wrist protector automatically shuts off after 30 minutes of using, ensuring safety and preventing overuse for a more secure relaxation experience.4.Utilizing an NTC temperature control system with a safety chip, this wrist massage wrap offers an anti-scald and safe use, prioritizing your comfort and protection.5. The rechargeable heating wristband is lightweight, warm, and not bulky, which is made from breathable fabric. The outer layer is windproof, the middle layer emits infrared heat, and the inner layer is anti-slip.6.The vibration massage wrist support features a strong stick-on buckle that wraps firmly around the wrist, suitable for both left and right hands.Specifications:Product name:Electric Heating Wrist GuardColour:Grey One SizeProduct model:XBL-8688CMaterial: ABS+Advanced Diving FabricsRated voltage: 3.7VRated power: 7W Input voltage: 5VInput current: 1AInput power: 5WBattery: 1800mAhCharging time: about 3 hoursUsing time: about 3 times, once use 30 minutesPower supply mode: Type-C charging Charging status: charging indicator green, and display“LL”, full display“HH”. Note:1.If the product is connected to the power supply during turning on operation, it will stop working automatically.2.During the charging process, the product can not be turned on and used.Packing List:1*Grey Wrist Guard ( includes a non-removable controller)1*English Instruction Manual1*Type-C Charging CableType 1-for Ankle Massager:Features:1. With its 5-speed infrared hot compress therapy (40°C, 45°C, 50°C, 55°C, and 60°C) to effectively relieve ankle pain, the electric foot massager is suitable for a variety of relief requirements.2. With three massage vibration intensity modes, this vibration relaxation ankle massager can accommodate varying massage intensity needs. The first mode is for daily care, the second is for sports recovery, and the third is for reducing ankle discomfort.3. For a more secure relaxing experience, the hot compress ankle brace features an intelligent 30-minute timer that guarantees safety and avoids overuse.4. Using an NTC temperature control technology with a safety chip, this joint sprain ankle can protect you from scalding.5. The breathable cloth used to make the heated ankle protection is lightweight, warm, and not bulky. For a snug fit, the inner layer is non-slip, the middle layer emits infrared heat, and the outside layer is windproof.6. Suitable for both left and right feet, the vibration massage ankle support has a strong stick-on buckle that firmly wraps around the ankle.Specifications:Product name：Electric Heating Ankle BraceProduct model: XBL-8688BProduct material: ABS+Advanced Diving FabricsProduct colour: GreyRated voltage: 3.7VRated power: 7W Input voltage: 5VInput current: 1AInput power: 5WBattery: 1800mAhCharging time: about 3 hoursUsing time: about 3 times, once use 30 minutesPower supply mode: Type-C charging Charging status: charging indicator green, and display“LL”, full display“HH”. Note:1.If the product is connected to the power supply during turning on operation, it will stop working automatically.2.During the charging process, the product can not be turned on and used.Packing List:1*Grey Ankle Brace ( includes a non-removable controller)1*English Instruction Manual1*Type-C Charging CableType 2-for Ankle Massager:Features:1. Target ankle pain effectively with this portable foot massager. Its three heat settings (48°C, 53°C, 58°C) deliver therapeutic warmth for maximum comfort and relaxation.2. Choose from three rechargeable massage intensities: First level (daily care), Second level(sports recovery), and Third level (ankle discomfort relief) – tailored to your needs for a personalized experience.3. The heated ankle wrap features a 15-minute auto shut-off timer, preventing overuse and ensuring safe, worry-free sessions.4. Enjoy effortless, cordless control thanks to an intuitive touchscreen interface. The LED display of this ankle massager shows the heating temperature and vibration level in real time.5. Adjustable straps securely fit the heated wrap on either foot, providing reliable ankle support for both left and right users.Specifications:Name: Foot Ankle MassagerModel: CL-2888Main material--Main material: OK elastic clothOther material: Neoprene plus 3% composite clothLining: FleeceRated voltage: 3.7VRated power: 7.5WInput voltage: 5VColour: BlackNumber of vibration motors: 1pcBattery type: lithium polymer battery (independent one)Battery model: JB-103450Battery capacity: 2000mAhCharging time: 2 hoursFully charged using time: more than 1 hour (4-5 times)Charging status: White light flashes while charging; Fully charged, white light is always on.Can not be turned on while charging.Packing List:1*English Color Box1*Cordless Ankle Massager 1* Instruction Manual1*Type-C Charging Cable (80cm length)Type 4-for wrist:Features:1. This massage wrist brace offers 3 precise heat settings (48°C/118°F, 53°C/127°F, 58°C/136°F) to effectively soothe wrist discomfort and promote muscle relaxation.2. Our cordless wrist heating pad provides 3 adjustable vibration modes (First Mode: Daily Care, Second Mode: Sports Recovery, Third Mode: Discomfort Relief) to address different wellness needs throughout your day.3. The heated wrist brace features a 15-minute timing auto shutoff for enhanced safety, preventing overuse and providing scientific therapy.4. With user-friendly touch-sensitive buttons, this electric heating wrist guard powers on/off with a simple 3-second hold for effortless operation.5. Designed with an adjustable fastener strap, this rechargeable massage wristband stays firmly on your wrist. Also, it fits both left and right wrists comfortably.6. This heated wrist wrap helps alleviate wrist joint discomfort, such as tendonitis, tenosynovitis, mouse hand, carpal tunnel, and mommy’s wrist.Specifications:Product Name: Wrist GuardModel: CL-3999Material--Main Fabric: OK Elastic FabricComposite Fabric: Diving Fabric with 3% Composite BlendLining: FlannelRated Voltage: 3.7VRated Power: 7.5WInput: 5V 1AColor: BlackMotor Count: 2 x #1027 Button MotorsBattery Type: Lithium Polymer Battery (Single Cell)Battery Model: JB-103450Battery Capacity: 2000mAhCharging Time: Approx. 2 hoursUsage Time of Full Charge: Over 1 hour (Use 4-5 times)Charging Status: White light flashes while charging; white light is on when fully chargedThe device can be turned on and used while charging. No screen lock function.Note: This product cannot be washed. Clean only with foam cleaner or wipe with a damp cloth.Packing List:1*Wrist Guard1*Instruction Manualin 16 Languages1*Black Type-C Charging Cable (80CM Length)
+  Updated: 2026-03-03T21:48:57Z
+  Vendor: Wesley store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sab5ab965248d4d07a3c8d1d1df116a82Q.webp?v=1772574524
+  - [Type 3-for wrist / CZECH REPUBLIC](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607566502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $7.85 USD
+  - [Type 2-for ankle / GERMANY](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607599270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $9.90 USD
+  - [Type 3-for wrist / China Mainland](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607632038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $12.36 USD
+  - [Type 2-for ankle / brazil](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607664806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $15.19 USD
+  - [Type 3-for wrist / UNITED KINGDOM](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607697574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $7.20 USD
+  - [Type 1-for ankle / GERMANY](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607730342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $13.41 USD
+  - [Type 3-for wrist / United States](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607763110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $9.00 USD
+  - [Type 1-for ankle / brazil](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607795878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $19.79 USD
+  - [Type 3-for wrist / Russian Federation](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607828646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $15.40 USD
+  - [Type 4-for wrist / United States](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607861414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $6.83 USD
+  - [Type 4-for wrist / UNITED KINGDOM](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607894182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $9.21 USD
+  - [Type 4-for wrist / China Mainland](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607926950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $10.09 USD
+  - [Type 4-for wrist / CZECH REPUBLIC](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607959718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $10.51 USD
+  - [Type 3-for wrist / GERMANY](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231607992486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $12.78 USD
+  - [Type 3-for wrist / brazil](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608025254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Seb22e47a429a49a0baa73377ccd0bb54r.webp?v=1772574524
+    Price: $17.78 USD
+  - [Type 2-for ankle 1 / GERMANY](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608058022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $9.90 USD
+  - [Type 2-for ankle 1 / brazil](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608090790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $15.19 USD
+  - [Type 1-for ankle / China Mainland](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608123558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $13.04 USD
+  - [Type 1-for ankle / United States](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608156326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $9.52 USD
+  - [Type 1-for ankle / CZECH REPUBLIC](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608189094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $9.02 USD
+  - [Type 1-for ankle / Russian Federation](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608221862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $14.95 USD
+  - [Type 4-for wrist / brazil](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608254630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $16.19 USD
+  - [Type 1-for ankle / UNITED KINGDOM](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608287398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S9fa5590312c1407b82436db8bc94a2300.webp?v=1772574524
+    Price: $8.07 USD
+  - [Type 2-for ankle / CZECH REPUBLIC](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608320166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $10.20 USD
+  - [Type 4-for wrist / GERMANY](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608352934)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $10.51 USD
+  - [Type 2-for ankle / China Mainland](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608385702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $9.10 USD
+  - [Type 4-for wrist / Russian Federation](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608418470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S206632da74f54bd8ab9905760e20a17bC.webp?v=1772574524
+    Price: $13.92 USD
+  - [Type 2-for ankle / UNITED KINGDOM](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608451238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $4.53 USD
+  - [Type 2-for ankle / United States](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608484006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $6.80 USD
+  - [Type 2-for ankle 1 / China Mainland](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608516774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $9.10 USD
+  - [Type 2-for ankle / Russian Federation](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608549542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S373bf986f1ae41718bc2c5373158cb5br.webp?v=1772574524
+    Price: $13.92 USD
+  - [Type 2-for ankle 1 / United States](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608582310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $6.80 USD
+  - [Type 2-for ankle 1 / CZECH REPUBLIC](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608615078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $10.20 USD
+  - [Type 2-for ankle 1 / Russian Federation](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608647846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $13.92 USD
+  - [Type 2-for ankle 1 / UNITED KINGDOM](https://wesleysite.site/products/electric-heating-wrist-guard-vibration-massage-hot-compress-wrist-brace-ankle-wrap-hand-foot-protector-rechargeable-wristband?variant=56231608680614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sf66c145f7fdb448aa6ecf4a9ec73d0481.webp?v=1772574524
+    Price: $4.53 USD
+- [LED Keyboard Key Chain Fidget Toy for Adults Fidget Clicker Decompression Keychains Stress Relief Gadget Interesting Pendant](https://wesleysite.site/products/led-keyboard-key-chain-fidget-toy-for-adults-fidget-clicker-decompression-keychains-stress-relief-gadget-interesting-pendant): SPECIFICATIONSBrand Name: Venit KeysChoice: yesHigh-concerned chemical: NoneOrigin: Mainland ChinaType: Keyboard KitPACKAGE CONTENT: You will get 2 keyboard toys, including a black transparent 4 keyboard and a white transparent 4 keyboard to meet your diversified needs, and you can also share them with your family or friends.STRESS RELIEF: The keyboard clicker is perfect for playing, you can use it to relieve your emotions at work or to kill time in general. It makes a sound when pressed, releasing your anxiety and restlessness.WARM TIPS: In order to avoid damage during transportation, has been placed in the middle of the keycaps and switches buffer cotton, just pull out before use can be normal play. Assuming that fall off, install back to use.LED COLORIZED LIGHT: This is a color-changing keyboard gadget with a keychain that lights up with colored lights inside the keyboard when you press the keyboard buttons.
+  Updated: 2026-03-03T22:21:31Z
+  Vendor: Wesley store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S7b16a0296fb5436da890d8e09a4f6a3fw.webp?v=1772576272
+  Price: $8.20 USD
+- [Neck Support Braces Decompressed Spine Posture Correction Pain Prevent Head Low Double Chin Adjustable Cervical Traction Device](https://wesleysite.site/products/neck-support-braces-decompressed-spine-posture-correction-pain-prevent-head-low-double-chin-adjustable-cervical-traction-device): SPECIFICATIONSApplication: NeckBrand Name: HNKMPChoice: yesHigh-concerned chemical: NoneIs Batteries Included: NoOrigin: Mainland China Features: 1. Posture Corrector: Ergonomic neck support can adjust the posture of the head forward. When you stand or sit incorrectly, the weight of your head will increase the pressure on your neck and shoulders, this neck support will help you correct the incorrect posture and reduce the pressure. 2. Ergonomic Design: Curved surface of this neck support is suitable for human mandibular structure. Ergonomic design, seamless fit, more comfortable. 3. 360 Degree Adjustable: The posture corrector neck support is 360 degree adjustable, you can adjust it according to the neck condition. 4. Hook and Loop: The neck support adopts adjustable hook and loop strap, which can be flexibly adjusted to adapt to the size of the neck. Lightweight design for easy carrying. 5. Applicable Scenes: Easy to use, it only takes 15-30 minutes every day to slowly correct the wrong posture of the neck. It is suitable for many scenes: using computer, doing homework, watching TV, playing with mobile phone. Specification: 100% brand new quality. Item Name:Adjustable neck brace Material:PP,PC,TPU,Silicone Color: As the picture shows Size:14.8*11.5*20.3cm/5.83*4.53*7.99inch Quantity:1 pcs Package includes: 1 pcs Adjustable neck brace Note: 1. Please note that the photo does not show actual size, please refer to Description for size details. 2. Please allow differences due to manual measurement, thanks. 3. Due to the difference between different monitors, the image may not reflect the actual color of the item.
+  Updated: 2026-03-03T22:21:50Z
+  Vendor: Wesley store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sc638407e12724eddafab3416f270eeee7.webp?v=1772576273
+  - [Transparent](https://wesleysite.site/products/neck-support-braces-decompressed-spine-posture-correction-pain-prevent-head-low-double-chin-adjustable-cervical-traction-device?variant=56231657898150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S17d1de4ed6bc46a78951b1f4ba28af6cC.webp?v=1772576273
+    Price: $5.55 USD
+  - [Blue](https://wesleysite.site/products/neck-support-braces-decompressed-spine-posture-correction-pain-prevent-head-low-double-chin-adjustable-cervical-traction-device?variant=56231657930918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S3129e15e45ec40a3991cbbbdf694ee54g.webp?v=1772576273
+    Price: $5.25 USD
+  - [Pink](https://wesleysite.site/products/neck-support-braces-decompressed-spine-posture-correction-pain-prevent-head-low-double-chin-adjustable-cervical-traction-device?variant=56231657963686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S23ac88fb36f249f8ae743ca5975d281es.webp?v=1772576273
+    Price: $5.21 USD
+- [Portable Desktop Range Hood 2 Speed Exhaust Fan Negative Ion Air Purifier for Kitchen BBQ Hot Pot Oil Smoke Odor Removal](https://wesleysite.site/products/portable-desktop-range-hood-2-speed-exhaust-fan-negative-ion-air-purifier-for-kitchen-bbq-hot-pot-oil-smoke-odor-removal): SPECIFICATIONSAir Volume: 300m³/hBrand Name: RecabLeghtCertification: NoneChoice: yesFunction: DeodorizationHigh-concerned chemical: NoneOrigin: Mainland ChinaPower (W): 5wPower Source: SolarType: Air IonizerVoltage: DC5V Description:Portable Range Hood: Compact and portable makes it easy to move and suitable for various spacesExtendable Negative Ion Air Purifier: Detachable oil storage cup for better absorption of and smoke, preventing spreading2 Speed Exhaust Fan: Adjustable levels for flexible and free use, ensuring effective removal of smoke and water vaporKitchen Range Hood: Detachable filter ensures easy cleaning to maintain a clean and fresh kitchen environmentTable Range Hood: Oil storage cup can be directly connected to increase height, making it widely applicable and convenient for different stoves Specification:Color: As Shown.Material: ABS. Note:There might be a bit color distortions due to different computer resolutions.There might be a slight errors due to different hand measurement. Package Includes:Style 1:1 * Direct insertion portable desktop range hood 1 * Filter bracket 1 * Oil fume filter screen 1 * Oil storage tank 1 * Smoke filter screen 1 * Base 1 * USB cable Style 2: * Rechargeable portable desktop range hood with built-in 2400mAh battery 1 * Filter bracket 1 * Oil fume filter screen 1 * Oil storage tank 1 * Smoke filter screen 1 * Base 1 * USB cable
+  Updated: 2026-03-03T22:25:38Z
+  Vendor: Wesley store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S945b1c48b46d499fb593ff4e3ecf2352C.webp?v=1772576672
+  - [Gold Direct plug-in](https://wesleysite.site/products/portable-desktop-range-hood-2-speed-exhaust-fan-negative-ion-air-purifier-for-kitchen-bbq-hot-pot-oil-smoke-odor-removal?variant=56231672938662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S1ee3228d654b47ac9b6f2f33f5cdd11f2.webp?v=1772576673
+    Price: $30.20 USD
+  - [Purple Direct plug-i](https://wesleysite.site/products/portable-desktop-range-hood-2-speed-exhaust-fan-negative-ion-air-purifier-for-kitchen-bbq-hot-pot-oil-smoke-odor-removal?variant=56231672971430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sa0715ff60c874dfe9fdc1673e202d347w.webp?v=1772576672
+    Price: $30.65 USD
+  - [Gold Rechargeable](https://wesleysite.site/products/portable-desktop-range-hood-2-speed-exhaust-fan-negative-ion-air-purifier-for-kitchen-bbq-hot-pot-oil-smoke-odor-removal?variant=56231673004198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/S1ee3228d654b47ac9b6f2f33f5cdd11f2.webp?v=1772576673
+    Price: $32.03 USD
+  - [Purple Rechargeable](https://wesleysite.site/products/portable-desktop-range-hood-2-speed-exhaust-fan-negative-ion-air-purifier-for-kitchen-bbq-hot-pot-oil-smoke-odor-removal?variant=56231673036966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sa0715ff60c874dfe9fdc1673e202d347w.webp?v=1772576672
+    Price: $31.80 USD
+  - [Short USB](https://wesleysite.site/products/portable-desktop-range-hood-2-speed-exhaust-fan-negative-ion-air-purifier-for-kitchen-bbq-hot-pot-oil-smoke-odor-removal?variant=56231673069734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/2532/0358/files/Sadc9acd7a1234544bb3c92e8019fbb04B.webp?v=1772576672
+    Price: $21.16 USD
 
 ## Collections
 
@@ -873,8 +1070,8 @@ This is the official website of wesleysite.site, an online Shopify store offerin
 
 ## Store Pages
 
-- [Contact US](https://wesleysite.site/pages/contact): Need Help Or Have a Question, feel free to reach us to at. wesleyjoshfizzy@gmail.com
-  Updated: 2025-12-20T09:38:00Z
+- [Contact US](https://wesleysite.site/pages/contact): Need Help Or Have a Question, feel free to reach us to at. wesleysitehelp@gmail.com. OR on WhatsApp 09136318880
+  Updated: 2026-03-01T21:12:55Z
 - [SHIPPING POLICY](https://wesleysite.site/pages/shipping-policy): Order processing: Orders are usually prepared and shipping within 1-3 business days. Shipping Times: Deliver time vary by locations but typically 7...
   Updated: 2025-12-20T09:13:12Z
 - [ABOUT US](https://wesleysite.site/pages/about-us): Welcome to wesley store at home and wellness of the family. We believe that your home should be a sanctuary place of comfort,peace and wellness. We...
@@ -885,6 +1082,8 @@ This is the official website of wesleysite.site, an online Shopify store offerin
   Updated: 2025-12-20T09:46:21Z
 - [Customer Reviews](https://wesleysite.site/pages/reviews): .main-page-title.page-title { display: none; } .page-width--narrow { max-width: 100vw; padding-top: 0; } #vstar-all-reviews { max-width: 100vw; }
   Updated: 2026-02-04T22:05:08Z
+- [Return policy](https://wesleysite.site/pages/return-policy): If customers are not satisfied with their product after delivery. Then reach out to us and explain your reasons,we will refund your money and the p...
+  Updated: 2026-03-01T21:19:44Z
 
 ## Policies
 
@@ -893,9 +1092,9 @@ This is the official website of wesleysite.site, an online Shopify store offerin
 - [Shipping Policy](https://wesleysite.site/policies/shipping-policy)
   Updated: 2026-02-16T07:58:51+01:00
 - [Refund Policy](https://wesleysite.site/policies/refund-policy)
-  Updated: 2026-02-16T07:55:34+01:00
+  Updated: 2026-03-02T23:01:52+01:00
 - [Terms of Service](https://wesleysite.site/policies/terms-of-service)
-  Updated: 2026-02-16T07:56:30+01:00
+  Updated: 2026-03-02T11:46:13+01:00
 - [Contact Information](https://wesleysite.site/policies/contact-information)
   Updated: 2026-02-16T08:00:25+01:00
 
