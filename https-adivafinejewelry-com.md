@@ -6,68 +6,68 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-19T07:52:15Z
 - Contact Email: adivafinejewellery@gmail.com
-- Updated At: 2026-02-25T00:00:34.627Z
+- Updated At: 2026-03-04T00:00:38.051Z
 
 ## Products
 
-- [18K Gold Plated Korean Butterfly Pearl Stud Earrings](https://adivafinejewelry.com/products/adiva-korean-butterfly-pearl-stud-earrings): Add a touch of Korean fashion charm to your look with Butterfly Pearl Stud Earrings. Designed with a glossy gold finish, sparkling crystal stones, and a classic pearl accent, these studs bring a cute yet stylish vibe to daily and party outfits. Lightweight, skin-friendly, and made for all-day comfort — perfect for college, office, or casual outings.
-  Updated: 2026-02-23T00:46:36Z
+- [Gold Butterfly Pearl Stud Earrings 18KT Gold Plated For Women](https://adivafinejewelry.com/products/gold-butterfly-pearl-stud-earrings-18kt-gold-plated): Gold Butterfly Pearl Stud Earrings 18KT Gold Plated 249 Only. Waterproof, tarnish-free and elegant. Perfect for daily wear, stacking, and gifting. Free Delivery
+  Updated: 2026-02-27T14:36:28Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/ChatGPTImageJan27_2026_03_13_22PM.png?v=1769678787
   Price: ₹249.00 INR
-- [Adiva Korean Pearl Bar Stud Earrings](https://adivafinejewelry.com/products/adiva-korean-pearl-bar-stud-earrings): Shop Adiva Korean Pearl Bar Stud Earrings. Minimal gold-plated design with pearl drop. Lightweight, skin-friendly daily wear studs for girls & women. Buy online at best price.
-  Updated: 2026-02-22T22:41:14Z
+- [Pearl and Gold Bar Stud Earrings for Women 18K Gold Minimal](https://adivafinejewelry.com/products/minimal-pearl-and-gold-bar-stud-earrings-18kt-gold-plated): Shop 18K Gold Plated Minimal Pearl and Gold Bar Stud Earrings. Waterproof, tarnish-free and elegant. Perfect for everyday wear, work, and gifting.
+  Updated: 2026-02-27T15:30:57Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/WhatsAppImage2025-12-22at7.45.06PM.jpg?v=1769679312
   Price: ₹249.00 INR
-- [18K Gold Plated Korean Bow Pearl Stud Earrings.](https://adivafinejewelry.com/products/adiva-korean-bow-pearl-stud-earrings): Bring cute Korean fashion charm to your jewellery box with Adiva Korean Bow Pearl Stud Earrings. This design features a glossy gold-plated bow paired with three soft pearl drops, creating a sweet and modern look that suits daily outfits and small party styling. These studs are lightweight, skin-friendly, and comfortable for all-day wear. Perfect for college, office, casual outings, and gifting. A must-have pick for girls and women who love trendy Korean-style accessories.
-  Updated: 2026-02-22T22:52:31Z
+- [Gold Bow Pearl Stud Earrings Korean for Women 18K Gold Plated](https://adivafinejewelry.com/products/gold-bow-pearl-stud-earrings-korean-style-18k-gold-plated): Shop Gold Bow Pearl Stud Earrings Korean Style 18K Gold Plated. Waterproof, tarnish-free and elegant. Perfect for daily wear, Korean fashion, and gifting.
+  Updated: 2026-02-27T10:14:06Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_0cb58ed2fae3013abab43a4bee26e5f1dr.png?v=1771757546
   Price: ₹249.00 INR
-- [Anti-Tarnish Gold Earrings for Women | Waterproof Studs](https://adivafinejewelry.com/products/anti-tarnish-earrings-online-india): Buy anti-tarnish white flower earrings online. Waterproof gold plated stainless steel studs for women. Lightweight, daily wear jewelry. Free shipping India!
-  Updated: 2026-02-22T22:48:24Z
+- [Floral Stud Earrings for Women 18K Gold Plated](https://adivafinejewelry.com/products/floral-stud-earrings-for-women-18k-gold-plated): Shop Floral Stud Earrings for women. Waterproof, 18K Gold Plated, tarnish-free and elegant. Perfect floral earrings for daily wear and gifting.
+  Updated: 2026-02-27T19:58:39Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Anti-tarnish_white_flower_earrings_gold_plated_stainless_steel_affordable_fashion_jewelry.png?v=1771757298
   Price: ₹249.00 INR
-- [Adiva Korean Heart Clover Stud Earrings – Cute Daily Wear](https://adivafinejewelry.com/products/adiva-korean-heart-clover-stud-earrings): Shop Adiva Korean Heart Clover Stud Earrings. Pastel enamel heart design with gold outline. Lightweight daily wear studs for girls & women. Buy online now.
-  Updated: 2026-02-22T22:47:26Z
+- [Heart Clover Love Stud Earrings 18K Gold Plated](https://adivafinejewelry.com/products/18k-gold-korean-heart-clover-love-stud-earrings-tritone): Shop Korean Style Heart Clover Love Stud Earrings 18K Gold Plated in silver, gold & rose gold. Waterproof, tarnish-free and perfect for daily wear or gifting.
+  Updated: 2026-02-27T15:32:19Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/ChatGPTImageDec27_2025_01_20_57PM.png?v=1771757242
   Price: ₹249.00 INR
-- [18K Gold Plated Clover Petals stud Earrings](https://adivafinejewelry.com/products/adiva-abstract-tri-tone-gold-plated-stud-earrings-for-women): Add a modern artistic touch to your jewelry collection with these Clover Petals Simple Abstract Tri-Tone Gold Plated Stud Earrings for Women from Adiva Fine Jewelry. Designed for effortless elegance, these lightweight stud earrings feature a unique abstract design with a beautiful tri-tone gold-plated finish that complements both casual and formal outfits. These Clover Petals Simple Abstract Tri-Tone Gold Plated Stud Earrings for Women combine contemporary style with timeless charm, making them perfect for everyday wear, office looks, parties, and special occasions. Crafted with attention to detail and comfort, they are an ideal accessory for women who love minimal yet stylish jewelry. Whether you're treating yourself or looking for a thoughtful gift, these tri-tone gold plated stud earrings are a versatile addition to any jewelry collection. Shop Abstract Tri-Tone Gold Plated Stud Earrings for Women at Adiva Fine Jewelry. Lightweight, modern stud earrings perfect for everyday wear and gifting.
-  Updated: 2026-02-23T16:57:33Z
+- [Clover Petals Stud Earrings | Lucky Dainty 18K Gold Plated](https://adivafinejewelry.com/products/clover-petals-stud-earrings-18k-gold-plated-lucky-dainty): Clover Petals Stud earrings 18K gold plated—lucky four-leaf design, dainty & lightweight. Hypoallergenic shine, perfect everyday or gift. Fast shipping!
+  Updated: 2026-02-27T10:14:48Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/ChatGPTImageDec27_2025_01_25_09PM.png?v=1769754146
   Price: ₹249.00 INR
-- [Silver Finish Zircon Tennis Bracelet for Men & Women](https://adivafinejewelry.com/products/tanish-silver-finish-zircon-bracelet-for-men-women): Upgrade your everyday style with the Tanish Bracelet, crafted with sparkling zircon stones in a sleek silver finish. Designed for both men and women, this versatile bracelet offers a clean, minimal look that works effortlessly for daily wear as well as special occasions. Key Features Unisex Tennis Bracelet Design – Suitable for men and women High-Quality Zircon Stones – Diamond-like shine and clarity Premium Silver Finish – Smooth, polished, long-lasting look Slim & Lightweight – Comfortable for all-day wear Secure Box Clasp with Safety Lock – Strong and reliable closure Skin-Friendly Material – Safe for sensitive skin
-  Updated: 2026-02-21T04:59:28Z
+- [Diamond CZ Adjustable Tennis Bracelet for Lady Silver Finish](https://adivafinejewelry.com/products/white-diamond-cz-adjustable-tennis-bracelet-silver-finish): Shop White Diamond CZ Adjustable Tennis Bracelet for women. Elegant, sparkling and perfect for daily wear, weddings, parties, and gifting.
+  Updated: 2026-02-27T12:48:38Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/3_d23aedcd-4f33-423e-9e30-1b465a559f59.png?v=1769754672
   Price: ₹199.00 INR
-- [Minimal Tiny Heart Necklace for Women and Girls](https://adivafinejewelry.com/products/minimal-tiny-heart-necklace-for-women-and-girls): Add a delicate and stylish touch to your look with this minimal heart charm necklace from aAdiva. Designed with a sleek and simple heart pendant, this necklace is perfect for everyday wear and special occasions. Its elegant and minimal design makes it a must-have accessory for women and girls who love subtle fashion. Made from premium quality material, this necklace comes with an anti tarnish and waterproof finish to ensure long-lasting shine and durability. Lightweight and comfortable, it is completely skin friendly and ideal for all-day wear. Whether styled with casual outfits or party looks, this charming necklace adds a graceful touch to any ensemble. A perfect addition to your fashion jewellery collection and a lovely gift option. High-quality premium material Anti tarnish and waterproof finish Lightweight and comfortable fit Suitable for daily, office, and party wear Minimal and classy heart charm design
-  Updated: 2026-02-21T04:59:23Z
+- [Minimalist Heart Pendant Necklace for Women 18K Gold Plated](https://adivafinejewelry.com/products/minimalist-heart-pendant-necklace): Shop Minimalist Heart Pendant Necklace for women 18K Gold Plated. Dainty, elegant and perfect for daily wear, layering, and romantic gifting.
+  Updated: 2026-02-27T13:52:21Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/2_d9cf3868-8cfc-4118-a45f-2769ba4ce9ea.png?v=1770108143
   Price: ₹499.00 INR
-- [Minimal Heart Pendant Necklace for Women](https://adivafinejewelry.com/products/minimal-heart-pendant-necklace-for-women): Shop the Minimal Heart Pendant Necklace for Women by Adiva Fine Jewelry — a delicate, elegant piece perfect for everyday wear and meaningful gifting.
-  Updated: 2026-02-21T04:59:26Z
+- [Heart Minimal Necklace for Women 18K Gold Plated](https://adivafinejewelry.com/products/heart-minimal-necklace-for-women-18k-gold-plated): Shop Trending Heart minimal Necklace for women 18K Gold Plated. Waterproof, tarnish-free and perfect for daily wear, layering, and romantic gifting.
+  Updated: 2026-02-27T11:08:42Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/2_3bfb0b54-c2db-4b67-ab57-c90c5ce120d5.jpg?v=1770452397
   Price: ₹399.00 INR
 - [Wavy Heart Stud Earring | 18Kt Gold Plated Anti Tarnish](https://adivafinejewelry.com/products/gold-crushed-wavy-heart-stud-earrings-for-women-girls): Shop 18K gold plated wavy heart stud earrings. Minimalist, dainty, and perfect for everyday wear. At Just 349.00 Elegant gold heart earrings and gift for her.
-  Updated: 2026-02-24T06:43:57Z
+  Updated: 2026-02-26T02:37:23Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
@@ -283,78 +283,78 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/4_b1183d91-5b90-432b-a98e-711b0ef4327d.png?v=1771754350
   Price: ₹349.00 INR
-- [Buy Open Loop Oval Pearl Stud Earrings | 18K Gold Plated | Anti-Tarnish | ₹399](https://adivafinejewelry.com/products/open-loop-oval-pearl-stud-earrings-18k-gold-plated): Shop Open Loop Oval Pearl Stud Earrings at just ₹399. 18K Gold Plated, Anti-Tarnish, Sculptural Open-Frame Design with Single Faux Pearl. Minimalist statement studs for office, weddings & evenings. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:30Z
+- [Open Loop Oval Pearl Stud Earrings | Elegant Faux Pearl](https://adivafinejewelry.com/products/open-loop-oval-pearl-stud-earrings-elegant-dainty): Elegant open loop oval pearl stud earrings—dainty faux pearls, hypoallergenic, perfect for women. Timeless style for any occasion. Shop now with free shipping!
+  Updated: 2026-02-27T02:49:04Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/1_8a2630ca-121a-4835-b10e-5d0860165fae.png?v=1771755654
   Price: ₹399.00 INR
-- [Buy Gold Fan Leaf Petal Stud Earrings | 18K Gold Plated | Anti-Tarnish | ₹299](https://adivafinejewelry.com/products/gold-fan-leaf-petal-stud-earrings-18k-gold-plated): Shop Gold Fan Leaf Petal Stud Earrings at just ₹299. 18K Gold Plated, Anti-Tarnish, Sculptural Multi-Petal Fan Design — no stones, pure gold elegance. Perfect everyday & gift earrings. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:26Z
+- [Fan Leaf Petal Stud Earrings 18K Gold Plated | Boho Dainty Jewelry](https://adivafinejewelry.com/products/fan-leaf-petal-stud-earrings-18k-gold-plated-boho-dainty): Fan Leaf Petal Stud Earrings 18K gold plated—boho, lightweight, nature-inspired for women. Hypoallergenic shine, perfect gift. Fast shipping & easy returns!
+  Updated: 2026-02-27T01:38:03Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_a28c8f27d5232c2acb748a315094bef3dr.png?v=1771760573
   Price: ₹299.00 INR
-- [Gold Open Heart Stud Earrings, 18K Gold Plated, Anti-Tarnish](https://adivafinejewelry.com/products/gold-open-heart-stud-earrings-18k-gold-plated): Shop Gold Open Heart Stud Earrings at just ₹299. 18K Gold Plated, Anti-Tarnish, Sculpted Open-Heart Silhouette — pure gold, no stones. Romantic everyday earrings. Perfect Valentine's gift for her. Free Shipping. 7-Day Return!
-  Updated: 2026-02-23T08:12:28Z
+- [Hollow Heart Stud Earrings, Dainty Light 18K Gold Plated](https://adivafinejewelry.com/products/18k-gold-plated-hollow-heart-stud-earrings-dainty-lightweight): Affordable hollow heart stud earrings, lightweight, 18K gold plated, dainty, and perfect for women. Romantic design with hypoallergenic shine. Free shipping
+  Updated: 2026-02-27T19:44:34Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/5_d516883e-f413-4aea-89b8-6bae12a14b61.png?v=1771760827
   Price: ₹299.00 INR
-- [Buy Tropical Palm Tree Circle CZ Stud Earrings | 18K Gold | Anti-Tarnish | ₹549](https://adivafinejewelry.com/products/tropical-palm-tree-circle-cz-stud-earrings-18k-gold-plated): Shop Tropical Palm Tree Circle CZ Stud Earrings at just ₹549. 18K Gold Plated, Anti-Tarnish, Green Enamel Palm + Gold Circle + CZ Crystal Base. Playful tropical earrings. Perfect holiday gift. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:26Z
+- [Green Enamel Palm Tree CZ Earrings 18K Gold Plated](https://adivafinejewelry.com/products/green-enamel-palm-tree-cz-earrings-18k-gold-plated): Green Enamel Palm Tree Circle CZ Earrings 18K Gold Plated. Waterproof, tarnish-free tropical studs perfect for summer, vacation, and gifting just ₹549.
+  Updated: 2026-02-26T17:25:57Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_61e1c76836222228d3240706696ed444dr.png?v=1771827017
   Price: ₹549.00 INR
-- [Buy Silver CZ Flower Pearl Drop Earrings | Silver Plated | Anti-Tarnish | ₹549](https://adivafinejewelry.com/products/silver-cz-flower-pearl-drop-earrings-silver-plated): Shop Silver CZ Flower Pearl Drop Earrings at just ₹549. Silver Plated, Anti-Tarnish, Pear-Cut CZ Flower Top with Freshwater Pearl Drop. Perfect bridal & wedding gift for her. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:32Z
+- [Silver CZ Floral Pearl Drop Earrings – Elegant Jewelry](https://adivafinejewelry.com/products/silver-cz-floral-pearl-drop-earrings): Elegant Silver CZ Floral Pearl Drop Earrings. Perfect for weddings, parties, and gifting. Lightweight pearl jewelry. just ₹549. Free Shipping. 7-Day Return.
+  Updated: 2026-02-26T01:29:25Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_d1863d9820ba5f7aab440262c06dcf40dr.png?v=1771827610
   Price: ₹549.00 INR
-- [Buy Gold plated Celestial Disc Star CZ Stud Earrings | Anti-Tarnish | ₹399](https://adivafinejewelry.com/products/18k-gold-plated-celestial-disc-star-cz-stud-earrings): Shop Gold Celestial Disc Star CZ Stud Earrings at just ₹399. Gold Plated, Anti-Tarnish, Scattered Star Constellation with CZ Crystals. Celestial earrings for her. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T21:23:36Z
+- [Starburst Disc CZ Stud Earrings 18K Gold Plated – Celestial](https://adivafinejewelry.com/products/starburst-disc-cz-stud-earrings-18k-gold-plated): Starburst Disc CZ Stud Earrings 18K Gold Plated. Waterproof, Just ₹399 Anti-Tarnish, Scattered Star Constellation with CZ Crystals. Free Shipping. 7-Day Return.
+  Updated: 2026-02-26T13:07:59Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_befa657028b0e11a8d74a7d9919bad02drcopy_3ea21beb-cea9-426a-ab78-17d6a47f84e9.png?v=1771837732
   Price: ₹399.00 INR
-- [Buy Saturn Planet CZ Stud Earrings | 18K Gold | Anti-Tarnish | ₹299](https://adivafinejewelry.com/products/saturn-planet-cz-stud-earrings-18k-gold-plated): Shop Saturn Planet CZ Stud Earrings at just ₹299. 18K Gold Plated, Anti-Tarnish, Full CZ Pave Crystal Saturn Design. Cosmic quirky earrings. Perfect birthday gift. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T21:12:10Z
+- [Saturn Planet CZ Stud Earrings 18K Gold Plated | Women](https://adivafinejewelry.com/products/saturn-planet-cz-stud-earrings-18k-gold-plated): Saturn Planet CZ Stud Earrings 18K Gold Plated For Women At Just ₹299. Waterproof, tarnish-free celestial earrings perfect for daily wear, stacking, gifting.
+  Updated: 2026-02-25T17:58:25Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_78d175811c3221b92724bf423f73d72ddrcopy.png?v=1771837910
   Price: ₹299.00 INR
-- [Buy Pastel Rainbow Baguette Bar Earrings | 18K Gold | Anti-Tarnish | ₹549](https://adivafinejewelry.com/products/pastel-rainbow-baguette-bar-earrings-18k-gold-plated): Meta Description	Shop Pastel Rainbow Baguette Bar Earrings at just ₹549. 18K Gold Plated, Anti-Tarnish, Purple + Pink + Green CZ Baguette with White CZ Accents. Colorful trendy earrings. Perfect gift. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:30Z
+- [Pastel Color Baguette CZ Earrings 18K Gold Plated-Waterproof Studs](https://adivafinejewelry.com/products/pastel-color-baguette-cz-earrings-18k-gold-plated): Shop Pastel Color Baguette CZ Earrings 18K Gold Plated. Waterproof, tarnish-free and lightweight. Perfect colorful stud earrings for daily wear or gifting.
+  Updated: 2026-02-26T12:30:17Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_644e10aae23ca92853e469f04af3c42fdr.png?v=1771830369
   Price: ₹549.00 INR
-- [Buy Cushion Square Full Pave CZ Stud Earrings | 18K Gold | Anti-Tarnish | ₹549](https://adivafinejewelry.com/products/cushion-square-full-pave-cz-stud-earrings-18k-gold): Shop Cushion Square Full Pave CZ Stud Earrings at just ₹549. 18K Gold Plated, Anti-Tarnish, Full CZ Pave Diamond-Look Crystal. Glamorous luxury studs. Perfect festive & wedding gift. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:24Z
+- [Cushion Square Full Pave CZ Stud Earrings 18K Gold Plated](https://adivafinejewelry.com/products/cushion-square-full-pave-cz-stud-earrings-18k-gold-plated): Sparkle with Cushion Square Full Pave CZ Stud Earrings 18K Gold Plated. Waterproof, tarnish-free and perfect for daily wear or gifting. Shop elegant studs now.
+  Updated: 2026-02-26T19:55:18Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-21_18-43-40.jpg?v=1771830560
   Price: ₹549.00 INR
-- [Buy Multi-Layer Pink CZ Rope Chain Bracelet | 18K Gold | Anti-Tarnish | ₹549](https://adivafinejewelry.com/products/multi-layer-pink-cz-rope-chain-bracelet-18k-gold): Shop Multi-Layer Pink & White CZ Rope Chain Bracelet at just ₹549. 18K Gold Plated, Anti-Tarnish, Twisted Rope Chains + Pink & White CZ Crystal Row. Romantic feminine bracelet. Perfect Valentine & Anniversary gift. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T19:31:52Z
+- [Multi-Layer Pink & White CZ Rope Chain Bracelet, Waterproof](https://adivafinejewelry.com/products/multi-layer-pink-white-cz-rope-chain-bracelet-waterproof): Shop Multi-Layer Pink & White CZ Rope Chain Bracelet 18K Gold Plated . Waterproof, tarnish-free and elegant layered bracelet perfect for gifting and daily wear.
+  Updated: 2026-02-25T17:02:55Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/WhatsAppImage2026-02-19at4.04.45PM.jpg?v=1771831306
   Price: ₹549.00 INR
-- [Buy Double Layer Rainbow CZ snake Bracelet | 18K Gold | Anti-Tarnish | ₹549](https://adivafinejewelry.com/products/double-layer-rainbow-cz-snake-chain-bracelet-18k-gold): Shop Double Layer Rainbow CZ + Herringbone Bracelet at just ₹549. 18K Gold Plated, Anti-Tarnish, Flat Snake Chain + Pastel Rainbow CZ Tennis Row. Trendy colourful bracelet. Perfect birthday & friendship gift. Free Shipping. 7-Day Return. Order Now!
-  Updated: 2026-02-23T08:12:26Z
+- [Double-Layer Colorful CZ Snake Chain Bracelet 18K Gold Plated, Waterproof Jewelry](https://adivafinejewelry.com/products/double-layer-colorful-cz-snake-chain-bracelet-18k-gold-plated): Shop the Double-Layer Colorful CZ Snake Chain Bracelet 18K Gold Plated — waterproof, tarnish-free, and sparkling with rainbow cubic zirconia. Perfect gift...
+  Updated: 2026-02-26T13:57:41Z
   Vendor: ADIVA FINE JEWELRY
   Product Type: 
   Availability: Available
@@ -367,17 +367,101 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_0b8b9abf530dd688e40489d2d068e5badr_1copy.png?v=1771911736
   Price: ₹199.00 INR
+- [18K Gold Plated Chunky Cuff Bangle Bracelet for Women | Bold Statement Jewellery](https://adivafinejewelry.com/products/chunky-gold-plated-cuff-bangle-bracelet-women): Shop our 18K gold plated chunky wave cuff bangle bracelet. Bold, lightweight & tarnish-resistant. Perfect for daily wear, parties & gifting. Free shipping available.
+  Updated: 2026-02-28T19:06:46Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-21_18-45-11.jpg?v=1772261243
+  Price: ₹499.00 INR
+- [18K Gold Plated Double Leaf Wrap Cuff Bracelet for Women | Bold Statement Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-double-leaf-wrap-cuff-bracelet-women): Shop our 18K gold plated double leaf open wrap cuff bracelet. Sculptural, bold & lightweight. Perfect statement jewellery for daily wear, parties & gifting women.
+  Updated: 2026-02-28T19:06:57Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-21_18-45-44.jpg?v=1772261594
+  Price: ₹499.00 INR
+- [18K Gold Plated Twisted Rope Bangle Bracelet for Women | Bold Statement Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-twisted-rope-bangle-bracelet-women): Shop our 18K gold plated chunky twisted rope bangle bracelet. Bold, textured & tarnish-resistant. Perfect statement jewellery for daily wear, parties & gifting.
+  Updated: 2026-02-28T19:07:11Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-21_18-46-01.jpg?v=1772261808
+  Price: ₹499.00 INR
+- [18K Gold Plated Hammered Wave Cuff Bangle Bracelet for Women | Bold Sculptural Statement Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-hammered-wave-bangle-bracelet-women): Shop our 18K gold plated hammered finish wavy bangle bracelet. Sculptural, bold & artisan-inspired. Perfect statement jewellery for daily wear, parties & gifting women.
+  Updated: 2026-02-28T19:07:39Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-21_18-47-07.jpg?v=1772262035
+  Price: ₹499.00 INR
+- [18K Gold Plated Diamond Quilted Chunky Bangle Bracelet for Women 2026 | Bold Luxury Statement Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-diamond-quilted-chunky-bangle-bracelet-women-2026): Shop our 2026 trending 18K gold plated diamond quilted chunky bangle bracelet. Faceted, bold & tarnish-resistant. Luxury designer-inspired statement jewellery for women.
+  Updated: 2026-02-28T07:10:22Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-21_18-47-30.jpg?v=1772262534
+  Price: ₹499.00 INR
+- [/18k-gold-plated-flat-snake-chain-herringbone-necklace-women-2026](https://adivafinejewelry.com/products/18k-gold-flat-snake-chain-herringbone-necklace-tarnish-free-women-2026): Shop our 2026 trending 18K gold plated flat snake chain herringbone necklace. Sleek, flexible & tarnish-resistant. Perfect minimalist gold jewellery for women. Free shipping.
+  Updated: 2026-02-28T07:20:09Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/download.jpg?v=1772262978
+  Price: ₹249.00 INR
+- [18K Gold Plated Twisted Rope Chain Necklace for Women 2026 | Tarnish Free Daily Wear Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-rope-chain-necklace-women-2026): Shop 2026's trending 18K gold plated twisted rope chain necklace. Tarnish-free, waterproof & lightweight. Perfect minimalist gold jewellery for daily wear, layering & gifting.
+  Updated: 2026-02-28T07:29:58Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/download_2.jpg?v=1772263640
+  Price: ₹249.00 INR
+- [18K Gold Plated Cuban Link Chain Necklace for Women 2026 | Bold Tarnish Free Gold Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-cuban-link-chain-necklace-women-2026): Shop 2026's trending 18K gold plated Cuban link chain necklace. Bold, tarnish-free & waterproof. Perfect statement gold jewellery for daily wear, layering & gifting women.
+  Updated: 2026-02-28T07:46:06Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/photo_2026-02-28_13-12-41.jpg?v=1772264648
+  Price: ₹249.00 INR
+- [18K Gold Plated CC Logo Multi Charm Necklace for Women 2026 | Luxury Inspired Gold Jewellery](https://adivafinejewelry.com/products/18k-gold-cc-logo-multi-charm-necklace-luxury-inspired-women-2026): Shop 2026's trending 18K gold plated CC logo multi charm necklace. Elegant, tarnish-free & luxury inspired. Perfect delicate gold jewellery for daily wear, parties & gifting.
+  Updated: 2026-02-28T07:51:21Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/WhatsAppImage2026-02-19at3.42.50PM.jpg?v=1772264923
+  Price: ₹599.00 INR
+- [18K Gold Plated Daisy Flower Pearl Pendant Necklace for Women 2026 | Elegant Minimalist Gold Jewellery](https://adivafinejewelry.com/products/18k-gold-plated-daisy-flower-pearl-pendant-necklace-women-2026): Shop 2026's trending 18K gold plated daisy flower pearl centre pendant necklace. Elegant, delicate & tarnish-free. Perfect minimalist gold jewellery for daily wear & gifting women.
+  Updated: 2026-02-28T07:55:26Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/WhatsAppImage2026-02-19at3.30.54PM.jpg?v=1772265206
+  Price: ₹299.00 INR
+- [Gold Enamel Green Leaf Pink Flower Pearl Cluster Pendant Necklace Women 2026 | Botanical Luxury Jewellery](https://adivafinejewelry.com/products/gold-enamel-floral-leaf-pearl-cluster-pendant-necklace-women-2026): Shop 2026's trending gold enamel green leaf pink flower pearl cluster pendant necklace. Handcrafted botanical design, elegant & unique. Perfect gift jewellery for women.
+  Updated: 2026-02-28T08:00:48Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_7a3db0848e6ec58b216440ae139015f2dr.png?v=1772265444
+  Price: ₹899.00 INR
+- [Buy Yellow Enamel Flower Pearl CZ Pendant Necklace | 18K Gold Plated | ₹699](https://adivafinejewelry.com/products/yellow-enamel-flower-pearl-cz-pendant-necklace-18k-gold): Shop Yellow Enamel Flower Pearl CZ Pendant Necklace at just ₹699. 18K Gold Plated, Anti-Tarnish, Yellow Enamel Flower + CZ Centre + Pearl Drop with Gold Chain. Cheerful floral gift for her. Free Shipping. 7-Day Return!
+  Updated: 2026-02-28T08:07:45Z
+  Vendor: ADIVA FINE JEWELRY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0591/3368/9938/files/Whisk_9544aba75bd1ae693914989eaf39adc6dr.png?v=1772265876
+  Price: ₹699.00 INR
 
 ## Collections
 
 - [Bracelet](https://adivafinejewelry.com/collections/bracelet)
-  Updated: 2026-02-24T05:12:01Z
-  Total Products: 6
+  Updated: 2026-02-28T07:10:17Z
+  Total Products: 11
 - [Necklace](https://adivafinejewelry.com/collections/necklace)
-  Updated: 2026-02-21T10:03:04Z
-  Total Products: 10
+  Updated: 2026-02-28T08:07:40Z
+  Total Products: 17
 - [Trending Earrings Collection](https://adivafinejewelry.com/collections/adiva-korean-glow): a
-  Updated: 2026-02-24T06:43:55Z
+  Updated: 2026-02-26T12:07:41Z
   Total Products: 35
 
 ## Store Pages
